@@ -1,0 +1,577 @@
+{
+  "datum": "2026-08-13",
+  "erstellt_am": "2026-08-13T13:30:00+02:00",
+  "hinweis": "🐚 Do 13.08.2026 · EL-Q3-Rueckspiele-Tag mit 4 Top-Spielen. Klarer Fokus auf Aggregat-Situations-Edges: (1) Anderlecht-PAOK (Anderlecht fuehrt 0:1 auswaerts → DC 1X VALUE) (2) Rangers-Jagi (Rangers muss 1:2 Ibrox-Rueckspiel drehen → Sieg VALUE) (3) Pafos-Salzburg (Salzburg fuehrt 1:0 → DC X2 Verwalter-Modus VALUE) (4) Hearts-Benfica (Benfica 6:1 fuehrt = Formsache → Benfica-Sieg VALUE, aber HR08-13-1 Post-WM-Ruhepause-Doktrin Rotations-Wackel). Kasse-Stufe 1 (550€). Kombi-Struktur: Safe = 3 Aggregat-Sieg-Beine (3.27x, alle Sieg-Outcomes unique pro Spiel), Balance = 3x BTTS/Ueber Mix (6.32x), Risk = 4x Ueber + BTTS Anti-Konservativ-These (15.36x), Moonshot = 2x Genaues Ergebnis + Ueber 4.5 Hearts-Benfica-Blowout (446x). Lessons angewandt: HR08-13-1 Post-WM-Ruhepause-Doktrin (Roster-Verifikation-Wackel bei allen Torschuetzen), HR08-12-3 CL-Q3-Rueckspiel-Unter25-Goldgrube-Cluster (aber EL-Q3 mit Aggregat-Muss-Sieg-Kontext koennte gegen Unter-These sprechen - deshalb hier Ueber-Cluster), HR08-07-1 EL-Q3-Killer-Bein-Cluster (Rangers 3-Bein-Kombi-Kill-Risiko), HR07-28-1 Q3-Aggregate-Verwalter-Unter25-Bias (Pafos-Salzburg + Anderlecht-PAOK Verwalter-Situationen), HR08-10-2 Klassen-Duell-Sieg-SAFE-Downgrade (Benfica-Sieg VALUE nicht SAFE per Rotations-Wackel), HR08-10-3 Goldgrube-Cluster (BTTS Ja + Ueber 2.5 in Balance/Risk), HR22 Anti-Star-OUT-Hedge (nicht relevant heute), HR23 Layer-3-Sieg-Outcome-hart (Moonshot ohne Sieg-Outcome per Definition), HR26 2:0-Insurance-Regel: greift NICHT in EL-Q3 (CLAUDE.md-Sonderregel gilt nur BL/CL/WM). Quoten bei bet365 live pruefen.",
+  "_emergency_recovery": true,
+  "spiele": [
+    {
+      "id": "2026-08-13-and-pao",
+      "liga": "UEFA Europa League - 3. Qualifikationsrunde (Rueckspiel)",
+      "heim": "RSC Anderlecht",
+      "gast": "PAOK Thessaloniki",
+      "anstoss": "2026-08-13T19:30:00+02:00",
+      "stadion": "Lotto Park (Constant Vanden Stock), Bruessel",
+      "saison_kontext": {
+        "parallel_heim": "Jupiler Pro League 2026/27 Auftakt bereits absolviert (08./09.08.), Anderlecht Belgien-Liga-Rhythmus im Fluss",
+        "parallel_gast": "Super League Griechenland 2026/27 Auftakt Anfang August absolviert, PAOK im Wettkampf-Rhythmus",
+        "saisonziel_heim": "EL-Play-Off-Runde erreichen + Belgien-Titel-Angriff. Anderlecht mit 1-Tor-Aggregat-Vorsprung ins Rueckspiel = Verwalter-Slot",
+        "saisonziel_gast": "EL-Play-Off + Super-League-Titel-Angriff. PAOK muss auswaerts 1:0-Hinniederlage aufholen = MUSS-Sieg-Modus",
+        "motivations_asymmetrie": "Klare Asymmetrie: Anderlecht braucht min Draw (DC 1X @1.44 spiegelt das) + Heimvorteil Lotto Park. PAOK muss mind. 1:0-Sieg-nach-Verlaengerung oder 2:0+ regulaer = aggressive Angriffs-Notwendigkeit. Dominiert BTTS-These (9 Anderlecht-Heim BTTS in Serie, racingpost). HR07-28-1 Q3-Aggregate-Verwalter-Unter25-Bias potenziell aktiv - aber PAOK MUSS-Sieg-Druck bricht Unter-Tendenz. Referee TBD.",
+        "recovery_heim": "7 Tage seit 1:0-Auswaertssieg PAOK (06.08.) - kein Belastungs-Risiko, Rhythmus voll",
+        "recovery_gast": "7 Tage seit 0:1-Heim-Niederlage - MUSS-Sieg-Modus + volle Recovery",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/",
+          "https://www.mightytips.com/football-predictions/anderlecht-vs-paok-prediction-13-08-2026/",
+          "https://footballwhispers.com/blog/anderlecht-vs-paok-prediction-preview-betting-tips-13-08-2026/",
+          "https://www.sportsgambler.com/betting-tips/football/anderlecht-vs-paok-prediction-lineups-odds-2026-08-13/",
+          "https://www.sportsmole.co.uk/football/anderlecht/europa-league/preview/anderlecht-vs-paok-prediction-team-news-lineups_602780.html"
+        ]
+      },
+      "news": [
+        "Anderlecht 1:0-Sieg in Thessaloniki im Hinspiel (aus data/ergebnisse/2026-08-06.json) - Aggregat 0:1 Anderlecht-Vorsprung",
+        "Anderlecht 9 Heimspiele in Serie mit BTTS (racingpost) - Defensive leck aber Angriff produktiv",
+        "PAOK MUSS-Sieg-Modus: mind. 1:0-Sieg + Verlaengerung oder 2:0+ regulaer",
+        "Anderlecht unbesiegt in 5 - aber Sieg-Quote @2.40 zeigt keine Klassen-Sicherheit",
+        "DC 1X @1.44 Konsens-Bet - Buchmacher erwarten Anderlecht kommt durch",
+        "Ü2.5 @1.85 + BTTS Ja @1.72 - PAOK-Angriffs-These + Anderlecht-Def-Wackler",
+        "Aggregator-Quoten (bet365 live pruefen): Anderlecht Sieg @2.40, Draw @3.20, PAOK Sieg @2.55, DC 1X @1.44, DC X2 @1.42, Ü2.5 @1.85, Ü3.5 @3.10, BTTS Ja @1.72, BTTS Nein @2.00, Genaues Ergebnis 2:0 Anderlecht @8.50, Dolberg Torschuetze @2.30, Vazquez @2.75, Akpom @3.20"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Doppelte Chance: Anderlecht oder Draw",
+          "quote": 1.44,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 8,
+          "begruendung": "Aggregat-Verwalter-These: Anderlecht braucht mind. Draw fuer Weiterkommen (1-Tor-Vorsprung aus Hinspiel). Heimvorteil Lotto Park + PAOK-Auswaerts-Reise nach K.O.-Druck. HR07-28-1 Q3-Aggregate-Verwalter-Unter25-Bias unterstuetzt DC-These. Faire Quote ~1.35, deshalb VALUE. Stake 1.5% = 8.25€.",
+          "layer_2_tag": "and-pao_dc_1x",
+          "faire_quote": 1.35,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "value",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.72,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 8,
+          "begruendung": "Goldgrube BTTS Ja (+17.2% ROI historisch) + Anderlecht 9 Heim-Spiele in Serie BTTS (racingpost) + PAOK MUSS-Sieg-Modus zwingt zu Angriff. Faire Quote ~1.60. Stake 1.5% = 8.25€.",
+          "layer_2_tag": "and-pao_btts_ja",
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "PAOK MUSS-Sieg-Angriffs-These + Anderlecht-Heim-BTTS-Cluster (racingpost) + beide Teams offensive Qualitaet. WACKEL statt VALUE per HR07-28-1 Q3-Aggregate-Verwalter-Unter25-Bias (PAOK koennte auch defensiv aggregat-Ergebnis absichern nach frueher Tor). Stake 0.5% = 2.75€.",
+          "layer_2_tag": "and-pao_ueber_25",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Torschuetzen Jederzeit: Kasper Dolberg (Anderlecht)",
+          "quote": 2.3,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 8,
+          "begruendung": "Goldgrube Torschuetzen Jederzeit (historisch +24.4% ROI) + Anderlecht-Volume-9er + Heimvorteil. WACKEL wegen HR08-13-1 Post-WM-Ruhepause-Doktrin (Roster-Verifikation-Wackel: EL-Q3-Rueckspiel Rotations-Risiko trotz Verwalter-Lead). Stake 0.5% = 2.75€.",
+          "layer_2_tag": "and-pao_torschuetze_dolberg",
+          "faire_quote": 2.1,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-08-13-ran-jag",
+      "liga": "UEFA Europa League - 3. Qualifikationsrunde (Rueckspiel)",
+      "heim": "Rangers FC",
+      "gast": "Jagiellonia Bialystok",
+      "anstoss": "2026-08-13T21:00:00+02:00",
+      "stadion": "Ibrox Stadium, Glasgow",
+      "saison_kontext": {
+        "parallel_heim": "Scottish Premiership 2026/27 laeuft seit 31.07.2026 - Rangers Ibrox-Liga-Heimdebuet Hibs 09.08. absolviert (~4 Tage vor Rueckspiel)",
+        "parallel_gast": "Ekstraklasa 2026/27 - Jagiellonia perfekt gestartet (6 Punkte aus 2 Spielen: 1:0 vs Korona Kielce, 2:1 vs Motor Lublin)",
+        "saisonziel_heim": "Scottish-Premiership-Meister-Rueckeroberung + EL-Gruppenphase Pflicht. Neuer Trainer Derek McInnes im ersten K.O.-Ernstfall-Test",
+        "saisonziel_gast": "Ekstraklasa-Titel-Verteidigung + EL-Gruppenphase (2. Mal in Folge). Klassen-Aufsteiger mit voller Motivation",
+        "motivations_asymmetrie": "Rangers MUSS Ibrox-Rueckspiel gewinnen fuer Aggregat-Aufholung (1:2 Auswaerts-Niederlage im Hinspiel, Auswaertstor-Regel abgeschafft). Jagi Verwalter-Modus (Draw reicht bei 2:1-Hin-Vorsprung, Sieg klarer). HR07-29-1 CL-Q2-Aggregat-Drehung Lech-vs-AGF-Blueprint (Lech verspielte 4:1-Vorsprung n.E.) zeigt Rangers-Aufholung ist absolut moeglich. Neuer Trainer McInnes-Faktor + Ibrox-Aggregat-Historie. Rangers @1.60 impl. 62% Sieg-Wahrscheinlichkeit fair.",
+        "recovery_heim": "7 Tage seit 1:2-Auswaertsniederlage in Bialystok + 4 Tage seit Hibs-Ibrox-Debuet - kein Belastungs-Problem, Rhythmus voll",
+        "recovery_gast": "7 Tage seit 2:1-Heimsieg + Ekstraklasa-Verwalter-Rhythmus voll da",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/",
+          "https://www.mightytips.com/football-predictions/rangers-vs-jagiellonia-bialystok-prediction-13-08-2026/",
+          "https://ratingbet.com/predictions/rangers-vs-jagiellonia-prediction-team-news-lineups-expert-analysis-august-13-2026/",
+          "https://www.sportsmole.co.uk/football/rangers/europa-league/preview/rangers-vs-jagiellonia-prediction-team-news-lineups_602792.html",
+          "https://www.racingpost.com/sport/football-tips/europa-league/rangers-vs-jagiellonia-bialystok-prediction-team-news-odds-betting-tips-and-bet-builder-aAqpA0p4Nx4o/"
+        ]
+      },
+      "news": [
+        "Jagiellonia 2:1-Heimsieg im Hinspiel (aus data/ergebnisse/2026-08-06.json) - Rangers muss Ibrox-Rueckspiel drehen",
+        "Auswaertstor-Regel abgeschafft seit 2021 - Rangers braucht mind. 1:0-Sieg oder 2:1-Sieg-Draw-nach-Verlaengerung",
+        "Neuer Rangers-Trainer McInnes im ersten K.O.-Aggregat-Ernstfall (Ibrox-Debuet 09.08. gegen Hibs schon absolviert)",
+        "Jagi Ekstraklasa perfekt 6/6 Punkte - Wettkampf-Rhythmus + Selbstvertrauen voll",
+        "Rangers @1.60 klarer Heim-Fav aber Aggregat-Druck erhoeht Fehler-Risiko",
+        "Ü2.5 @1.90 spiegelt MUSS-Sieg-Angriffs-These wider - Rangers muss aufmachen",
+        "Aggregator-Quoten (bet365 live pruefen): Rangers Sieg @1.60, Draw @3.80, Jagi Sieg @5.00, DC 1X @1.20, DC X2 @2.30, Ü2.5 @1.90, Ü3.5 @2.85, BTTS Ja @1.75, BTTS Nein @2.00, Genaues Ergebnis 2:0 Rangers @6.50, 3:0 @10.50, Dessers Torschuetze @2.40, Igamane @2.60, Pululu Jagi @3.40"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Sieg 1X2: Rangers FC",
+          "quote": 1.6,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 6,
+          "begruendung": "Aggregat-Aufholungs-These: Rangers muss Ibrox-Sieg fuer Weiterkommen + Heimvorteil + Klassen-Edge (Scottish-Premiership vs Ekstraklasa). Neuer Trainer McInnes will Ernstfall-Beweis. HR08-10-2 Klassen-Duell-Sieg-SAFE-Downgrade nicht aktiv weil Aggregat-Situation, aber HR08-07-1 EL-Q3-Killer-Bein-Cluster mahnt zu Vorsicht - deshalb VALUE nicht SAFE. Faire Quote ~1.50. Stake 1.5% = 8.25€.",
+          "layer_2_tag": "ran-jag_sieg_ran",
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "MUSS-Sieg-Angriffs-These Rangers + Jagi-Kontertreiber + hohe Motivation beidseits. WACKEL wegen HR07-28-1 Q3-Aggregate-Verwalter-Unter25-Bias (Jagi koennte defensiv 2:1-Hin verwalten) + HR08-12-3 CL-Q3-Rueckspiel-Unter25-Goldgrube-Cluster (83% Hit letzte Runde). Stake 0.5% = 2.75€.",
+          "layer_2_tag": "ran-jag_ueber_25",
+          "faire_quote": 1.8,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.75,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 6,
+          "begruendung": "Goldgrube BTTS Ja (+17.2% ROI) + Jagi-Ekstraklasa-Form (2 Tore in 2 Spielen) + Rangers MUSS-Angriff. WACKEL wegen HR08-13-1 Post-WM-Ruhepause-Doktrin + Rangers-Def-Rueckhalt fragwuerdig aber verbessert unter McInnes. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "ran-jag_btts_ja",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Torschuetzen Jederzeit: Cyriel Dessers (Rangers)",
+          "quote": 2.4,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 8,
+          "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.4% ROI) + Rangers-Volume-9er + MUSS-Sieg-Modus = viele Chancen. WACKEL wegen HR08-13-1 Post-WM-Ruhepause-Doktrin (Roster-Verifikations-Wackel unter Neu-Trainer McInnes - unklar ob Igamane oder Dessers Startelf-9er). Stake 0.5% = 2.75€.",
+          "layer_2_tag": "ran-jag_torschuetze_dessers",
+          "faire_quote": 2.2,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-08-13-paf-sal",
+      "liga": "UEFA Europa League - 3. Qualifikationsrunde (Rueckspiel)",
+      "heim": "Pafos FC",
+      "gast": "FC Red Bull Salzburg",
+      "anstoss": "2026-08-13T20:00:00+02:00",
+      "stadion": "Alphamega Stadium, Limassol (Zypern)",
+      "saison_kontext": {
+        "parallel_heim": "Cyprus First Division 2026/27 - Pafos Titelverteidiger 25/26, Ligastart absolviert",
+        "parallel_gast": "Bundesliga Oesterreich 2026/27 laeuft seit Anfang August - Salzburg im Wettkampf-Rhythmus",
+        "saisonziel_heim": "EL-Playoff-Runde erreichen + Zypern-Titel-Verteidigung. Comeback-Historie: 4:0-Heimsieg nach 0:2-Aus in Q2 gegen Hajduk Split. Blueprint reaktivierbar",
+        "saisonziel_gast": "EL-Playoff-Pflicht + Bundesliga-Titel-Angriff. Salzburg mit 1:0-Vorsprung ins Rueckspiel-Auswaerts = Verwalter-Modus",
+        "motivations_asymmetrie": "Salzburg Verwalter-Modus (Draw reicht per 1:0-Aggregat) + Auswaerts-Reise Zypern (~2500km Belastung) + Zypern-Klima (Mittelmeer-Sommer 28-32C). Pafos MUSS-Sieg-Comeback-Modus + Hajduk-Blueprint reaktiviert + Heimvorteil. Klassen-Edge Salzburg (Bundesliga-Oesterreich Top-3) vs Pafos (Zypern-Titelverteidiger) + Salzburg im Europa-Wettkampfrhythmus. DC X2 @1.55 fair - Salzburg kommt durch aber knapp. HR07-28-1 Q3-Aggregate-Verwalter-Unter25-Bias potenziell aktiv.",
+        "recovery_heim": "7 Tage seit 0:1-Auswaertsniederlage in Salzburg - MUSS-Sieg-Comeback-Modus mit voller Regeneration",
+        "recovery_gast": "7 Tage seit 1:0-Heimsieg - Rhythmus voll, aber Reise-Belastung Zypern",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/",
+          "https://www.wincomparator.com/predictions/pafos-fc-salzburg-8665624/",
+          "https://www.mightytips.com/football-predictions/pafos-vs-salzburg-prediction-13-08-2026/",
+          "https://ratingbet.com/predictions/pafos-vs-red-bull-salzburg-prediction-expert-analysis-possible-lineups-august-13-2026/",
+          "https://dailysports.net/predictions/home-pafos-ready-to-turn-the-series-around-prediction-for-pafos-vs-red-bull-salzburg/"
+        ]
+      },
+      "news": [
+        "Salzburg 1:0-Heimsieg im Hinspiel (aus data/ergebnisse/2026-08-06.json) - knapper Aggregat-Vorsprung",
+        "Pafos Comeback-Referenz: 4:0-Heimsieg nach 0:2-Aus in Q2 gegen Hajduk Split - Blueprint aktiv",
+        "Salzburg Auswaerts-Reise ~2500km + Zypern-Klima (Mittelmeer-Sommer 28-32C)",
+        "Salzburg DC X2 @1.55 zeigt Buchmacher-Erwartung Salzburg kommt durch",
+        "Pafos Sieg @3.15 fair - Heimvorteil + MUSS-Sieg-Motivation",
+        "Ü2.5 @2.10 relativ hoch - Buchmacher erwarten defensives Rueckspiel",
+        "Aggregator-Quoten (bet365 live pruefen): Pafos Sieg @3.15, Draw @3.70, Salzburg Sieg @2.33, DC 1X @1.72, DC X2 @1.55, Ü2.5 @2.10, Ü3.5 @3.50, BTTS Ja @1.90, BTTS Nein @1.85, Genaues Ergebnis 2:0 Salzburg @9.00, 1:1 @6.50, Konate Torschuetze @2.75, Ratkov @2.60, Daghim @3.40, Anderson Pafos @4.50"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Doppelte Chance: Bayer Salzburg oder Draw",
+          "quote": 1.55,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 8,
+          "begruendung": "Aggregat-Verwalter-These: Salzburg braucht mind. Draw fuer Weiterkommen (1-Tor-Vorsprung Hinspiel) + Klassen-Edge (Bundesliga-Oesterreich vs Zypern-Top) + volle Wettkampf-Rotation. Faire Quote ~1.45. Stake 1.5% = 8.25€. Achtung: Reise-Belastung Zypern-Klima Discount.",
+          "layer_2_tag": "paf-sal_dc_x2",
+          "faire_quote": 1.45,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.1,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "Pafos MUSS-Sieg-Angriffs-These + Salzburg-Auswaerts-Offensive (Red-Bull-Ecosystem-Volume). WACKEL wegen HR07-28-1 Q3-Aggregate-Verwalter-Unter25-Bias (Salzburg koennte defensiv verwalten) + Zypern-Klima-Discount. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "paf-sal_ueber_25",
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.9,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 6,
+          "begruendung": "Goldgrube BTTS Ja (+17.2% ROI) + Pafos-Heim-Angriff + Salzburg-Auswaerts-Offensive. Beide Teams werden treffen (Muss-Sieg Pafos + Salzburg-Klassen-Konter). WACKEL wegen HR08-13-1 Post-WM-Ruhepause-Doktrin + Rueckspiel-Rotations-Risiko. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "paf-sal_btts_ja",
+          "faire_quote": 1.8,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Torschuetzen Jederzeit: Petar Ratkov (Salzburg)",
+          "quote": 2.6,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 7,
+          "begruendung": "Goldgrube Torschuetzen Jederzeit (+24.4% ROI) + Salzburg-Nummer-9-Rolle + Auswaerts-Wettkampf-Rhythmus. WACKEL wegen HR08-13-1 Post-WM-Ruhepause-Doktrin (Roster-Verifikations-Wackel: Konate koennte auch starten, Salzburg-Rotations-System) + Zypern-Reise-Belastung. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "paf-sal_torschuetze_ratkov",
+          "faire_quote": 2.4,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-08-13-hea-ben",
+      "liga": "UEFA Europa League - 3. Qualifikationsrunde (Rueckspiel)",
+      "heim": "Heart of Midlothian (Hearts)",
+      "gast": "SL Benfica Lissabon",
+      "anstoss": "2026-08-13T19:45:00+02:00",
+      "stadion": "Tynecastle Park, Edinburgh",
+      "saison_kontext": {
+        "parallel_heim": "Scottish Premiership 2026/27 - Hearts 4:0-Sieg gegen Dundee United am Wochenende (~3 Tage vor Rueckspiel) - domestic-Momentum",
+        "parallel_gast": "Primeira Liga Portugal 2026/27 laeuft seit 08./09.08. - Benfica im Wettkampf-Rhythmus + Rotations-Pool voll",
+        "saisonziel_heim": "Ehren-Rueckspiel + Scottish-Premiership-Playoff-Angriff. Aggregat-Aufholung 5-Tore-Rueckstand realistisch unmoeglich",
+        "saisonziel_gast": "EL-Playoff-Sicherstellen + Primeira-Liga-Titel-Verteidigung/Angriff. Rueckspiel = Rotations-Slot ohne Ergebnis-Druck",
+        "motivations_asymmetrie": "Extreme Asymmetrie: Benfica 5-Tore-Aggregat-Vorsprung = kann rotieren + rehabilitieren ohne Risiko. Hearts Ehrenkampf + domestic-Momentum aber realistisch chancenlos aufs Weiterkommen. Benfica-Sieg-Quote @1.42 spiegelt Rotations-Faktor wider (nicht Full-Squad-Kompression). HR08-10-2 Klassen-Duell-Sieg-SAFE-Downgrade + HR08-13-1 Post-WM-Ruhepause-Doktrin aktiv - deshalb VALUE nicht SAFE. Referee TBD.",
+        "recovery_heim": "7 Tage seit 1:6-Debakel + 4:0-Liga-Sieg (~3 Tage vor Rueckspiel) - Motivations-Reboot durch domestic-Win",
+        "recovery_gast": "7 Tage seit 6:1-Sieg + Primeira-Liga-Auftakt-Belastung - Rotations-Slot logisch",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/",
+          "https://ratingbet.com/predictions/hearts-vs-benfica-prediction-teams-form-analysis-possible-lineups-on-august-13-2026/",
+          "https://www.mightytips.com/football-predictions/hearts-vs-benfica-prediction-13-08-2026/",
+          "https://dailysports.net/predictions/scotland-need-an-almost-impossible-comeback-hearts-vs-benfica-prediction/",
+          "https://www.espn.com/soccer/odds/_/gameId/401902960"
+        ]
+      },
+      "news": [
+        "Benfica 6:1-Kantersieg in Lissabon (aus data/ergebnisse/2026-08-06.json) - Rueckspiel = Formsache mit Rotation",
+        "Hearts 4:0-Sieg gegen Dundee United am Wochenende - domestic-Momentum + Ehrenkorb-Motivation",
+        "Aggregat 5-Tore-Rueckstand unrealistisch aufholbar - Benfica kann rotieren + rehabilitieren",
+        "Benfica @1.42 Sieg-Quote spiegelt Rotations-Faktor (nicht Full-Squad-Kompression)",
+        "DC X2 @1.08 = fast Formsache Benfica kommt durch",
+        "Ü2.5 @1.65 - beide Teams werden wahrscheinlich treffen (Hearts Ehrenkampf + Benfica hoehere Qualitaet auch mit B-Elf)",
+        "HR08-13-1 Post-WM-Ruhepause-Doktrin: Pavlidis + Di Maria fitness-fraglich, Rotations-Wackel bei Star-Torschuetzen",
+        "Aggregator-Quoten (bet365 live pruefen): Hearts Sieg @7.00, Draw @4.50, Benfica Sieg @1.42, DC 1X @2.75, DC X2 @1.08, Ü2.5 @1.65, Ü3.5 @2.30, Ü4.5 @5.00, BTTS Ja @1.60, BTTS Nein @2.30, Pavlidis Torschuetze @1.80, Akturkoglu @2.30, Di Maria @2.75, Shankland Hearts @3.20"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Sieg 1X2: SL Benfica Lissabon",
+          "quote": 1.42,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 6,
+          "begruendung": "Klassen-Edge Benfica (Primeira-Liga-Titel-Anwaerter vs Scottish-Premiership-Mittelfeld) + Rotations-Faktor immernoch klasse-hoeher als Hearts-Startelf. HR08-10-2 Klassen-Duell-Sieg-SAFE-Downgrade + HR08-13-1 Post-WM-Ruhepause-Doktrin aktiv - deshalb VALUE nicht SAFE (Rotation trotz 5-Tor-Vorsprung koennte Draw/Hearts-Sieg zulassen). Faire Quote ~1.35. Stake 1.5% = 8.25€.",
+          "layer_2_tag": "hea-ben_sieg_ben",
+          "faire_quote": 1.35,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 2.3,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "Hearts Ehrenkampf + Benfica-Klasse selbst mit Rotation + Hin-Spiel 6:1 zeigt Torfestival-Potenzial. WACKEL wegen HR08-13-1 Rotations-Wackel (Rueckspiel muss nicht so offen laufen wie Hinspiel) + HR07-28-1 Q3-Aggregate-Verwalter-Unter25-Bias (Benfica koennte kontrolliert spielen). Stake 0.5% = 2.75€.",
+          "layer_2_tag": "hea-ben_ueber_35",
+          "faire_quote": 2.2,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.6,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "Goldgrube BTTS Ja (+17.2% ROI) + Hearts Ehrenkampf mit Motivations-Boost + Benfica-Qualitaet auch mit B-Elf. WACKEL wegen HR08-13-1 Rotations-Wackel (Benfica-B-Def koennte doch mal ohne Gegentor bleiben). Stake 0.5% = 2.75€.",
+          "layer_2_tag": "hea-ben_btts_ja",
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "spiel_id": "2026-08-13-and-pao",
+      "kategorie": "value",
+      "markt": "Doppelte Chance: Anderlecht oder Draw",
+      "quote": 1.44,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Aggregat-Verwalter-These + Anderlecht 1:0-Auswaertssieg-Vorsprung + Heimvorteil + HR07-28-1-Bias",
+      "rang": 1
+    },
+    {
+      "spiel_id": "2026-08-13-hea-ben",
+      "kategorie": "value",
+      "markt": "Sieg 1X2: SL Benfica Lissabon",
+      "quote": 1.42,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Klassen-Edge Benfica auch mit Rotation, 5-Tor-Aggregat-Puffer, HR08-10-2/HR08-13-1 Downgrade auf VALUE",
+      "rang": 2
+    },
+    {
+      "spiel_id": "2026-08-13-paf-sal",
+      "kategorie": "value",
+      "markt": "Doppelte Chance: Bayer Salzburg oder Draw",
+      "quote": 1.55,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Aggregat-Verwalter-These + Salzburg 1:0-Hinspiel-Vorsprung + Klassen-Edge vs Zypern-Top",
+      "rang": 3
+    },
+    {
+      "spiel_id": "2026-08-13-ran-jag",
+      "kategorie": "value",
+      "markt": "Sieg 1X2: Rangers FC",
+      "quote": 1.6,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Aggregat-Aufholung-Muss-Sieg + Ibrox-Heimvorteil + Klassen-Edge Scottish-PL vs Ekstraklasa",
+      "rang": 4
+    },
+    {
+      "spiel_id": "2026-08-13-and-pao",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.72,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Goldgrube BTTS Ja + Anderlecht 9 Heim BTTS in Serie + PAOK MUSS-Sieg-Angriff",
+      "rang": 5
+    },
+    {
+      "spiel_id": "2026-08-13-and-pao",
+      "kategorie": "wackel",
+      "markt": "Torschuetzen Jederzeit: Kasper Dolberg",
+      "quote": 2.3,
+      "einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "kurzbegruendung": "Goldgrube Torschuetzen +24.4% ROI + Anderlecht Volume-9er, HR08-13-1 Roster-Verifikation-Wackel",
+      "rang": 6
+    },
+    {
+      "spiel_id": "2026-08-13-ran-jag",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.9,
+      "einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "kurzbegruendung": "Rangers MUSS-Sieg-Angriff + Jagi-Konter, HR07-28-1 Verwalter-Bias Wackel-Flag",
+      "rang": 7
+    },
+    {
+      "spiel_id": "2026-08-13-hea-ben",
+      "kategorie": "wackel",
+      "markt": "Ueber 3.5 Tore",
+      "quote": 2.3,
+      "einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "kurzbegruendung": "Hearts Ehrenkampf + Benfica-Klasse auch mit Rotation, Hin-Spiel 6:1 Torfestival-These",
+      "rang": 8
+    },
+    {
+      "spiel_id": "2026-08-13-paf-sal",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.9,
+      "einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "kurzbegruendung": "Goldgrube BTTS + Pafos MUSS-Sieg-Heim + Salzburg-Auswaerts-Offensive-Klasse",
+      "rang": 9
+    },
+    {
+      "spiel_id": "2026-08-13-paf-sal",
+      "kategorie": "wackel",
+      "markt": "Torschuetzen Jederzeit: Petar Ratkov",
+      "quote": 2.6,
+      "einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "kurzbegruendung": "Goldgrube Torschuetzen + Salzburg-Nummer-9 + Auswaerts-Wettkampf-Rhythmus, HR08-13-1 Wackel",
+      "rang": 10
+    }
+  ],
+  "kombis": [
+    {
+      "profil": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-08-13-hea-ben",
+          "markt": "Sieg SL Benfica Lissabon",
+          "quote": 1.42
+        },
+        {
+          "spiel_id": "2026-08-13-ran-jag",
+          "markt": "Sieg Rangers FC",
+          "quote": 1.6
+        },
+        {
+          "spiel_id": "2026-08-13-and-pao",
+          "markt": "DC 1X Anderlecht oder Draw",
+          "quote": 1.44
+        }
+      ],
+      "gesamtquote": 3.27,
+      "rechnung": "1.42 x 1.60 x 1.44 = 3.27",
+      "einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "3 Beine aus 3 verschiedenen Spielen, alle Aggregat-Situations-Anker: Benfica-Klassen-Sieg + Rangers-Aufholung-Ibrox + Anderlecht-Verwalter-DC. Layer-1 ✓, Layer-2 ✓ (jede Kombi 1 Sieg-Outcome unique pro Spiel), Layer-3 ✓ (3 Spiele). Gesamtquote 3.27 knapp unter 3-5x-Zielrange (3.0-Bodensatz akzeptabel bei EL-Q3-Verwalter-Konstellation). Kasse-Stufe 1 Safe-Stake 2% = 11€.",
+      "layer_2_konflikte": "keine - Rangers Sieg (Spiel A) + Benfica Sieg (Spiel B) + Anderlecht DC 1X (Spiel C) alle unique pro Spiel"
+    },
+    {
+      "profil": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-08-13-and-pao",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.72
+        },
+        {
+          "spiel_id": "2026-08-13-ran-jag",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.75
+        },
+        {
+          "spiel_id": "2026-08-13-paf-sal",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.1
+        }
+      ],
+      "gesamtquote": 6.32,
+      "rechnung": "1.72 x 1.75 x 2.10 = 6.32",
+      "einsatz_euro": 4.4,
+      "empfohlener_einsatz_prozent": 0.8,
+      "begruendung": "3 Beine Mix: 2 BTTS Ja + 1 Ueber 2.5 aus 3 verschiedenen Spielen. Goldgrube-Cluster-Blueprint HR08-10-3 (BTTS Ja +17.2% + Ueber 2.5 +27.5% historisch). 0 Sieg-Outcomes = Layer-2 ✓. Layer-1 ✓, Layer-3 ✓ (3 Spiele, Hearts-Benfica nicht vertreten). Kasse-Stufe 1 Balance-Stake 0.8% = 4.40€.",
+      "layer_2_konflikte": "keine - keine Sieg-Outcomes in Balance"
+    },
+    {
+      "profil": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-08-13-hea-ben",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 2.3
+        },
+        {
+          "spiel_id": "2026-08-13-and-pao",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85
+        },
+        {
+          "spiel_id": "2026-08-13-ran-jag",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9
+        },
+        {
+          "spiel_id": "2026-08-13-paf-sal",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.9
+        }
+      ],
+      "gesamtquote": 15.36,
+      "rechnung": "2.30 x 1.85 x 1.90 x 1.90 = 15.36",
+      "einsatz_euro": 1.4,
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "4 Beine Torfestival-Portfolio: Hearts-Benfica Ü3.5 (Hin 6:1 zeigt Torfestival-Potenzial) + Anderlecht-PAOK Ü2.5 (MUSS-Sieg-Angriff PAOK) + Rangers-Jagi Ü2.5 (MUSS-Sieg-Angriff Rangers) + Pafos-Salzburg BTTS Ja (MUSS-Sieg-Angriff Pafos + Salzburg-Konter). Alle 4 Spiele im Risk. Layer-1 ✓, Layer-2 ✓ (0 Sieg-Outcomes), Layer-3 grenzwertig weil alle Spiele vertreten - bei Mini-4-Slate unvermeidbar. Markt-Entkoppelung: Ü3.5 vs Ü2.5 vs BTTS Ja unterschiedliche Total-Sub-Familien. HR08-12-3 CL-Q3-Rueckspiel-Unter25-Goldgrube-Warnung beachtet (83% Hit letzte Runde) - EL-Q3-Aggregat-Muss-Sieg-Kontext koennte gegen Unter-These sprechen, deshalb explizit Ueber-Cluster gewaehlt. Kasse-Stufe 1 Risiko-Stake 0.25% = 1.40€.",
+      "layer_2_konflikte": "keine - 0 Sieg-Outcomes in Risk"
+    },
+    {
+      "profil": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-08-13-and-pao",
+          "markt": "Genaues Ergebnis Anderlecht 2:0",
+          "quote": 8.5
+        },
+        {
+          "spiel_id": "2026-08-13-ran-jag",
+          "markt": "Genaues Ergebnis Rangers 3:0",
+          "quote": 10.5
+        },
+        {
+          "spiel_id": "2026-08-13-hea-ben",
+          "markt": "Ueber 4.5 Tore",
+          "quote": 5.0
+        }
+      ],
+      "gesamtquote": 446.25,
+      "rechnung": "8.50 x 10.50 x 5.00 = 446.25",
+      "einsatz_euro": 0.55,
+      "empfohlener_einsatz_prozent": 0.1,
+      "begruendung": "3 Beine Lotterie-Portfolio: Anderlecht 2:0 (typisches Aggregat-Verwalter-Ergebnis mit spaetem Absicherungs-Tor) + Rangers 3:0 (Aggregat-Aufholung-Blowout, McInnes-Ibrox-Debuet-Statement) + Hearts-Benfica Ü4.5 (Hin 6:1 zeigt Torfestival-Wiederholungspotenzial, Benfica auch mit Rotation offensiv-stark). Layer-1 ✓, Layer-2 ✓ (0 Sieg-Outcomes per HR23-Definition, Genaues Ergebnis + Ü4.5 sind Total-Markt-Familie), Layer-3 ✓ (3 unterschiedliche Spiele, Pafos-Salzburg nicht vertreten - Markt-Entkoppelung zu Balance/Risk gewahrt). Kasse-Stufe 1 Moonshot-Stake 0.1% = 0.55€. Bust-Risiko bewusst akzeptiert.",
+      "layer_2_konflikte": "keine - Genaues Ergebnis und Ueber 4.5 sind keine Sieg-Outcomes per HR23-Definition"
+    }
+  ],
+  "lessons_angewandt": [
+    "HR08-13-1 Roster-Verifikations-Post-WM-Ruhepause-Doktrin: Alle Torschuetzen-Tipps (Dolberg, Dessers, Ratkov) auf WACKEL, keine als VALUE - Rueckspiel-Rotations-Risiko trotz Verwalter/Aggregat-Lead. Benfica-Sieg VALUE nicht SAFE aus gleichem Grund.",
+    "HR08-13-2 Friendly-HZ-Massen-Rotation-Ueber25-Nivellierung: NICHT direkt anwendbar heute (keine Friendlies im Slate) - aber Konzept auf EL-Q3-Rueckspiel-Rotations-Risiko uebertragen (Benfica-Rueckspiel-Rotation koennte Ü4.5 im Moonshot senken).",
+    "HR08-13-3 Doppel-Einwechselspieler-Late-Winner-Boost-ohne-Tipp: NICHT als Tipp gesetzt aber im Auswertungs-Fokus fuer Rangers-Sub-Igamane-Dessers-Wechsel (Volume-Backup-Pool aktiv).",
+    "HR08-13-4 Mini-Slate-Safe-Kombi-Friendly-Sieg-Outcome-Doppel-Bein-Downgrade-Blueprint: bei 4 Top-Spielen ist Safe-Kombi mit 3 Sieg/DC-Beinen aus 3 Spielen OK (Layer-2 respektiert), Hearts-Benfica als Formsache-Sieg-Bein gewaehlt.",
+    "HR08-12-3 CL-Q3-Rueckspiel-Unter25-Goldgrube-Cluster (83% Hit letzte Runde): explizit gewuerdigt - aber EL-Q3-Aggregat-Muss-Sieg-Kontext (PAOK/Pafos/Rangers alle in Muss-Sieg-Modus) koennte gegen Unter-These sprechen. Deshalb Ueber-Cluster gewaehlt fuer Risk statt Unter-Cluster.",
+    "HR08-07-1 EL-Q3-Killer-Bein-Cluster (validierte Vorsicht bei Ekstraklasa/Jagi vs Rangers-Konstellation): Rangers-Sieg als VALUE nicht SAFE + im Safe-Kombi nur 1 EL-Q3-Sieg-Bein (Rangers), Benfica-Sieg-Bein als Backup-Klassen-Fav und Anderlecht als sicheres DC-Verwalter-Bein.",
+    "HR07-28-1 Q3-Aggregate-Verwalter-Unter25-Bias: gewuerdigt bei Anderlecht-Verwalter + Salzburg-Verwalter - deshalb Ü2.5-Tipps in beiden Spielen als WACKEL nicht VALUE. Aber Cluster-Risk mit Ü-Beinen dennoch gewaehlt wg PAOK/Pafos Muss-Sieg-Kontra-These.",
+    "HR07-29-1 CL-Q2-Aggregat-Drehung-Blueprint (Lech verspielte 4:1-Vorsprung n.E.): erwaehnt in Rangers-Aufholungs-Begruendung - Aggregat-Drehungen sind moeglich, deshalb Rangers-Sieg VALUE (fair @1.60).",
+    "HR07-29-4 Kombi-Layer-4 Torschuetzen-Konzentrations-Cap (max 2 Torschuetzen-Beine gesamt): 0 Torschuetzen-Beine in allen Kombis heute (Dolberg + Dessers + Ratkov nur als Einzeltipps) - unter Cap ✓.",
+    "HR08-10-2 Klassen-Duell-Sieg-SAFE-Downgrade: Benfica-Sieg @1.42 nicht SAFE trotz 5-Tor-Aggregat-Puffer und Klassen-Edge - Rotations-Risiko HR08-13-1 explizit angewandt. VALUE-Kategorie gewaehlt.",
+    "HR08-10-3 Goldgrube-Cluster-Blueprint (BTTS Ja + Ueber 2.5 + Torschuetzen Jederzeit): aktiv in Balance-Kombi (2 BTTS + 1 Ü2.5) + Risk (Ü2.5/Ü3.5 + BTTS Ja) + Einzeltipps (BTTS Ja Anderlecht als VALUE-Anker).",
+    "HR22 Anti-Star-OUT-Implosions-Risiko: nicht direkt heute anwendbar (keine bestaetigten Star-Ausfaelle - Pavlidis/Di Maria fitness-fraglich aber nicht OUT).",
+    "HR23 Layer-3-Sieg-Outcome-hart-Drop: Moonshot ohne Sieg-Outcome (Genaues Ergebnis + Ü4.5 sind Total-Familie per SIEG_MARKT_TOKENS-Definition), Layer-2 respektiert.",
+    "HR24 Torschuetzen-Form-Edge-Pflicht: Dolberg 25/26 Anderlecht-Volume-9er (Form-Historie ✓ aber HR08-13-1 Rotations-Wackel), Dessers Rangers-Sturm-Rolle Ubermorgen erste Ibrox-K.O.-Ernst-Test unter McInnes (Form-Edge ✓ aber Wackel), Ratkov Salzburg-Neu-Nummer-9 25/26 (Form-Edge ✓ aber Wackel).",
+    "HR26 2:0-Insurance-Regel: NICHT aktiv in EL-Q3 (CLAUDE.md-Sonderregel greift nur BL/CL/WM). Explizit im Auswertungs-Reminder dokumentiert.",
+    "HR28-05 Europa-Pokal-Finale-Unter-2.5-Default: NICHT anwendbar (EL-Q3 ist keine Finale). Aber Konzept auf Rueckspiel-Rotations-Risiko uebertragen fuer Balance/Risk-Wackel-Kategorien.",
+    "Beobachtungs-Ligen-Check (data/beobachtungs_ligen.json Stand 2026-08-13): 'UEFA Europa League Q2' + 'FIFA WM 2026 HF' aktiv - EL-Q3 NICHT auf Bluter-Liste ✓ voll bespielbar.",
+    "Markt-Bluter-Check (data/markt_bluter.json Stand 2026-08-13): 'Spread/Handicap' aktiv - heute KEIN Spread/Handicap-Tipp gesetzt ✓.",
+    "Goldgruben-Check (data/markt_goldgruben.json Stand 2026-08-13): 'Unter 2.5 Tore' (72.4% Hit +27.1% ROI n=29) NICHT direkt angewandt heute wg EL-Q3-Aggregat-Muss-Sieg-Kontext-Kontra-These. 'Spieler-Punkte Unter NBA' irrelevant (keine NBA-Spiele).",
+    "HR-Mini-Slate-Single-Point-of-Failure-Doktrin (validiert n5+): 4 Spiele = alle Kombis mit ~3 Spielen vertreten, aber Layer-2/3 hart respektiert. Bei nur 4 Top-Spielen unvermeidbare Cross-Kombi-Korrelation - im Verifikations-Report explizit dokumentiert."
+  ],
+  "_verifikations_report": {
+    "verifikator": "master-tipps-routine-inline",
+    "verifikation_am": "2026-08-13T13:30:00+02:00",
+    "spiele_gecheckt": 4,
+    "tipps_gecheckt": 15,
+    "halluzinations_drops": [],
+    "layer_1_verstoss": "keiner - jede Kombi hat max 1 Bein pro Spiel: Safe (3 Beine aus 3 Spielen), Balance (3 aus 3), Risk (4 aus 4), Moonshot (3 aus 3)",
+    "layer_2_verstoss": "keiner - nur Safe hat Sieg-Outcomes: Benfica Sieg (Hearts-Benfica) + Rangers Sieg (Rangers-Jagi) + Anderlecht DC 1X (Anderlecht-PAOK) - alle unique pro Spiel. Balance/Risk/Moonshot komplett Sieg-Outcome-frei. HR23 Layer-3-hart-Drop-Regel voll respektiert.",
+    "layer_3_status": "Anderlecht-PAOK 4 Beine (Safe DC-1X + Balance BTTS + Risk Ü2.5 + Moonshot Ergebnis 2:0) - grenzwertig aber Markt-entkoppelt (DC vs BTTS vs Total vs Ergebnis). Rangers-Jagi 4 Beine (Safe Sieg + Balance BTTS + Risk Ü2.5 + Moonshot Ergebnis 3:0) - Markt-entkoppelt. Hearts-Benfica 3 Beine (Safe Sieg + Risk Ü3.5 + Moonshot Ü4.5) - Ü3.5/Ü4.5 gleiche Sub-Familie grenzwertig aber verschiedene Grenzen. Pafos-Salzburg 2 Beine (Balance Ü2.5 + Risk BTTS) - am Layer-3-freundlichsten. Mini-4-Slate-Cross-Kombi-Korrelation unvermeidbar.",
+    "layer_4_torschuetzen_konzentration": "0 Torschuetzen-Beine in allen Kombis (Dolberg + Dessers + Ratkov nur Einzeltipps) - HR07-29-4 Cap 2 unter limit ✓",
+    "kombiquoten_nachgerechnet": "Safe 1.42*1.60*1.44=3.27 ✓ | Balance 1.72*1.75*2.10=6.32 ✓ | Risiko 2.30*1.85*1.90*1.90=15.36 ✓ | Moonshot 8.50*10.50*5.00=446.25 ✓",
+    "quoten_quellen_bestaetigt": "mightytips + ratingbet + sportsgambler + sportsmole + dailysports + wincomparator + racingpost + footballwhispers + ESPN + goal.mu (10 Aggregator-Provider-Quellen). bet365-DE-Live-Quoten nicht direkt gescrapet aber Konsens-nah - im Hinweis explizit 'bet365 live pruefen' dokumentiert.",
+    "hartregeln_konflikt": "keiner Kritischer - HR08-10-2 Benfica-Sieg VALUE (nicht SAFE) + HR08-13-1 alle Torschuetzen WACKEL + HR07-28-1 Ü2.5-Anderlecht/Ü2.5-Rangers WACKEL wg Verwalter-Bias + HR23 Moonshot ohne Sieg-Outcome + HR08-07-1 EL-Q3-Killer-Bein-Vorsicht dokumentiert + HR26 2:0-Insurance-Regel-NICHT-in-EL-Q3-explizit + HR-Mini-Slate-Cross-Korrelation-dokumentiert",
+    "torschuetzen_form_edge_pflicht_HR24": "Dolberg ✓ (Anderlecht 25/26 Volume-9er - aber Roster-Verifikation-Wackel HR08-13-1) / Dessers ✓ (Rangers-Sturm-Rolle - aber Neu-Trainer-McInnes-Startelf-Wackel HR08-13-1) / Ratkov ✓ (Salzburg-Neu-Nummer-9 25/26 - aber Konate-Alternate-Wackel HR08-13-1). Alle WACKEL-Kategorie deshalb.",
+    "roster_verifikation_status": "Alle Torschuetzen-Kandidaten basieren auf Aggregator-Predictions (sportsmole/racingpost/dailysports) - keine direkte Squad-DB-Verifikation via Vereins-Website heute. HR08-13-1 Post-WM-Ruhepause-Doktrin aktiv-Flag: alle Torschuetzen als WACKEL kategorisiert, keine als VALUE oder SAFE. Fuer Auswertung: Startelf 1h vor Anstoss nochmal pruefen.",
+    "coinflip_warnung": "Keine echten Coinflips heute - alle 4 Spiele haben klare Aggregat-Favoriten (Anderlecht-Verwalter, Rangers-Aufholung, Salzburg-Verwalter, Benfica-Formsache). Rangers-Jagi @1.60 vs @5.00 zeigt klaren Fav-Status.",
+    "kasse_stufe_check": "Stufe 1 (Kasse 550€ < 1000€) - Standard 1-2% Einzel, 0.25-2% Kombi ✓ Alle Einsaetze in Range: Safe-Kombi 11€ (2.0%), Balance-Kombi 4.40€ (0.8%), Risiko-Kombi 1.40€ (0.25%), Moonshot-Kombi 0.55€ (0.1%). Einzeltipps VALUE 8.25€ (1.5%) / WACKEL 2.75€ (0.5%).",
+    "beobachtungs_liga_check": "UEFA Europa League Q3 NICHT auf beobachtungs_ligen.json-Bluter-Liste (nur EL-Q2 + WM-HF aktiv) - voll bespielbar. Alle Tipps in Hauptkombis erlaubt.",
+    "mini_slate_warnung": "4 Top-Spiele = Mini-Slate mit unvermeidbarer Cross-Kombi-Korrelation. Anderlecht-PAOK + Rangers-Jagi in allen 4 Kombis vertreten (Markt-entkoppelt), Hearts-Benfica in 3 Kombis, Pafos-Salzburg in 2 Kombis (am Layer-3-freundlichsten). Single-Point-of-Failure-Risiko dokumentiert. Wenn Rangers-Aufholung crasht (Jagi 2:1-Hin verwaltet), Safe + Balance + Risk + Moonshot alle 4 betroffen - aber jeweils nur 1 Bein pro Kombi.",
+    "el_q3_kein_2_0_insurance_flag": "AKTIV: HR26 2:0-Insurance-Regel greift NICHT in EL-Q3 (CLAUDE.md-Sonderregel gilt nur 1. Bundesliga + CL + WM 2026). Explizit in Rangers-Sieg-Begruendung + Anderlecht-DC-1X-Begruendung wichtig weil Auswertung bei Halbzeit-2:0-Rueckstand nicht als Insurance-Sieg zaehlen wuerde.",
+    "el_q3_aggregat_regel_flag": "AKTIV: Auswaertstor-Regel abgeschafft seit UEFA 2021 - Aggregat-Gleichstand nach 90min Rueckspiel = Verlaengerung + ggf. Elfmeter. Rangers braucht deshalb 1:0-Sieg regulaer oder 2:1-Sieg-n.E. fuer Weiterkommen. Anderlecht braucht mind. Draw regulaer + Salzburg braucht mind. Draw regulaer + Benfica mind. -4:0-Niederlage-noch-akzeptabel.",
+    "hr08_13_1_post_wm_ruhepause_doktrin_flag": "AKTIV bei allen 4 Spielen - alle Torschuetzen-Tipps als WACKEL kategorisiert, alle Sieg-Outcomes (Benfica) als VALUE nicht SAFE. Grund: Post-WM-Sommerpause-Rueckspiel-Rotations-Risiko hoch, Startelf-Wackel bei Volume-9er/Stars normal in dieser Slot-Phase."
+  },
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
+}

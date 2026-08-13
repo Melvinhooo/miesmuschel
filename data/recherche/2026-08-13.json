@@ -1,0 +1,253 @@
+{
+  "datum": "2026-08-13",
+  "erstellt_am": "2026-08-13T13:30:00+02:00",
+  "modus": "tag",
+  "hinweis": "Fallback-Recherche (Recherche-Slot 10:30 verpasste). Do 13.08.2026 = EL-Q3-Rueckspiele + UECL-Q3-Rueckspiele. Fokus 4 Top-Spiele mit stabilem Hinspiel-Kontext (Ergebnisse aus data/ergebnisse/2026-08-06.json): (1) Anderlecht vs PAOK (Anderlecht fuehrt 0:1 auswaerts) (2) Rangers vs Jagiellonia (Jagi fuehrt 2:1 daheim, Rangers Rueckspiel Ibrox) (3) Pafos vs Salzburg (Salzburg fuehrt 1:0 daheim) (4) Hearts vs Benfica (Benfica fuehrt 6:1 daheim = Formsache). WM 2026 durch, NBA Finals durch, Top-5-Ligen Saison-Pause bis 15.08.+. Recherche via WebSearch/Aggregatoren (mightytips, ratingbet, sportsgambler, sportsmole, dailysports, wincomparator, footballwhispers).",
+  "_emergency_recovery": true,
+  "spiele": [
+    {
+      "id": "2026-08-13-and-pao",
+      "liga": "UEFA Europa League - 3. Qualifikationsrunde (League Path) - Rueckspiel",
+      "heim": "RSC Anderlecht",
+      "gast": "PAOK Thessaloniki",
+      "anstoss": "2026-08-13T19:30:00+02:00",
+      "stadion": "Lotto Park (Constant Vanden Stock), Bruessel",
+      "parallele_wettbewerbe": {
+        "heim": "Jupiler Pro League 2026/27 Auftakt 08./09.08. (Belgien-Liga-Slot) - Anderlecht Liga-Start bereits absolviert",
+        "gast": "Super League Griechenland 2026/27 - Saison-Start Anfang August absolviert",
+        "quellen": ["https://www.uefa.com/uefaeuropaleague/", "https://www.pro-league.be/", "https://slgr.gr/"]
+      },
+      "saisonziel_heim": "EL-Play-Off-Runde erreichen (Vier-Runden-Q-Weg fast durch) + Belgien-Titel-Angriff (letzte Saison Champions-Play-Off-Duell-Klasse). Anderlecht will EL-Gruppenphase 2026/27",
+      "saisonziel_gast": "EL-Play-Off + Super-League-Titel-Verteidigung/Angriff (PAOK 2024 Meister, 25/26 gemischt). Muss Rueckstand aufholen",
+      "form_heim_letzte_5": "unbesiegt in 5, aber alle 9 Anderlecht-Heimspiele mit BTTS in Serie (racingpost) - Defensive leck aber Angriff produktiv",
+      "form_gast_letzte_5": "gemischt (Q3-Hin 0:1 vs Anderlecht + Super-League-Auftakt-Zeit)",
+      "recovery_heim": "7 Tage seit 1:0-Sieg in PAOK (06.08.)",
+      "recovery_gast": "7 Tage seit 0:1-Heim-Niederlage - MUSS-Sieg-Modus",
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "hinspiel_ergebnis": "Anderlecht 1:0 (auswaerts in Thessaloniki, PAOK-Heimniederlage) - Anderlecht mit 1-Tor-Aggregat-Vorsprung ins Rueckspiel Bruessel",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 2.40,
+          "draw": 3.20,
+          "sieg_gast": 2.55,
+          "ueber_2_5": 1.85,
+          "unter_2_5": 1.90,
+          "ueber_3_5": 3.10,
+          "btts_ja": 1.72,
+          "btts_nein": 2.00,
+          "dc_1x": 1.44,
+          "dc_x2": 1.42,
+          "dc_12": 1.28,
+          "genaues_ergebnis_2_0": 8.50,
+          "genaues_ergebnis_1_0": 6.50,
+          "genaues_ergebnis_2_1": 7.50,
+          "torschuetzen": {
+            "Kasper Dolberg (Anderlecht)": 2.30,
+            "Luis Vazquez (Anderlecht)": 2.75,
+            "Chuba Akpom (PAOK)": 3.20,
+            "Anass Zaroury (PAOK)": 3.60
+          }
+        }
+      },
+      "news_kompakt": [
+        "Anderlecht 1:0-Sieg in Thessaloniki im Hinspiel - komfortable Ausgangslage Rueckspiel Bruessel",
+        "Anderlecht 9 Heimspiele in Serie BTTS (racingpost) - Def-Wackler bei Heim-Toren-Kassieren",
+        "PAOK muss mind. 1 Tor + Sieg fuer Verlaengerung - MUSS-Angriff-Modus expected",
+        "Anderlecht unbeaten in 5, aber Sieg gegen Griechen-Team @2.40 zeigt keine Klassen-Sicherheit",
+        "DC 1X @1.44 zeigt Buchmacher-Erwartung Anderlecht kommt durch (min Draw ausreichend)",
+        "PAOK Sieg-Quote @2.55 fair (46% impl. Wahrscheinlichkeit) - reflektiert MUSS-Sieg-Druck"
+      ],
+      "quellen_aggregator": [
+        "https://www.mightytips.com/football-predictions/anderlecht-vs-paok-prediction-13-08-2026/",
+        "https://footballwhispers.com/blog/anderlecht-vs-paok-prediction-preview-betting-tips-13-08-2026/",
+        "https://www.sportsgambler.com/betting-tips/football/anderlecht-vs-paok-prediction-lineups-odds-2026-08-13/",
+        "https://www.sportsmole.co.uk/football/anderlecht/europa-league/preview/anderlecht-vs-paok-prediction-team-news-lineups_602780.html",
+        "https://dailysports.net/predictions/greeks-need-a-comeback-in-brussels-prediction-for-anderlecht-vs-paok/"
+      ]
+    },
+    {
+      "id": "2026-08-13-ran-jag",
+      "liga": "UEFA Europa League - 3. Qualifikationsrunde (League Path) - Rueckspiel",
+      "heim": "Rangers FC",
+      "gast": "Jagiellonia Bialystok",
+      "anstoss": "2026-08-13T21:00:00+02:00",
+      "stadion": "Ibrox Stadium, Glasgow",
+      "parallele_wettbewerbe": {
+        "heim": "Scottish Premiership 2026/27 laeuft seit 31.07. - Rangers Ibrox-Liga-Debuet Hibs 09.08. absolviert",
+        "gast": "Ekstraklasa 2026/27 - Jagiellonia perfekt gestartet (6 Punkte aus 2 Spielen)",
+        "quellen": ["https://www.uefa.com/uefaeuropaleague/", "https://spfl.co.uk/", "https://www.ekstraklasa.org/"]
+      },
+      "saisonziel_heim": "Scottish-Premiership-Meister-Rueckeroberung + EL-Gruppenphase (Neuer Trainer Derek McInnes - Muss-Saison, Etat-Pflicht)",
+      "saisonziel_gast": "Ekstraklasa-Titel-Verteidigung (24/25-Meister) + EL-Gruppenphase (2. Mal in Folge machbar)",
+      "form_heim_letzte_5": "Q3-Hin 1:2 verloren + Liga-Auftakt (Dundee-Auswaerts + Hibs-Heim) - Ibrox-Debuet-Faktor",
+      "form_gast_letzte_5": "6/6 Ekstraklasa-Punkte + Q3-Hin 2:1-Sieg = 7 Wettbewerbs-Punkte aus 3 Pflichtspielen",
+      "recovery_heim": "7 Tage seit 1:2-Auswaertsniederlage in Bialystok, MUSS-Aggregat-Aufhol-Modus",
+      "recovery_gast": "7 Tage seit 2:1-Heimsieg - Verwalter-Modus (Draw reicht fuer Weiterkommen bei richtigem Auswaertstor-Regel-Aus)",
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "hinspiel_ergebnis": "Jagiellonia 2:1 daheim (Auswaertstor Rangers gilt seit 2021 nicht mehr fuer Weiterkommen bei UEFA - Rangers braucht 1-Tor-Sieg-Aggregat oder mindest. 2:1-Draw-nach-Verlaengerung)",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 1.60,
+          "draw": 3.80,
+          "sieg_gast": 5.00,
+          "ueber_2_5": 1.90,
+          "unter_2_5": 1.85,
+          "ueber_3_5": 2.85,
+          "btts_ja": 1.75,
+          "btts_nein": 2.00,
+          "dc_1x": 1.20,
+          "dc_x2": 2.30,
+          "dc_12": 1.28,
+          "genaues_ergebnis_3_0": 10.50,
+          "genaues_ergebnis_2_0": 6.50,
+          "genaues_ergebnis_2_1": 7.00,
+          "torschuetzen": {
+            "Cyriel Dessers (Rangers)": 2.40,
+            "Hamza Igamane (Rangers)": 2.60,
+            "Danilo Pereira (Rangers)": 2.80,
+            "Afimico Pululu (Jagiellonia)": 3.40
+          }
+        }
+      },
+      "news_kompakt": [
+        "Jagiellonia 2:1-Heimsieg im Hinspiel - Rangers muss Ibrox-Rueckspiel gewinnen fuer Aggregat-Overturn",
+        "Auswaertstor-Regel abgeschafft seit 2021 - Rangers braucht mind. 1:0 oder 2:1 mit Sieg fuer Weiterkommen",
+        "Neuer Rangers-Trainer McInnes - Ibrox-Ernst-Debuet im K.O.-Kontext",
+        "Jagi in Ekstraklasa perfekt gestartet (6/6 Punkte) - Wettkampf-Rhythmus voll da",
+        "Rangers @1.60 klarer Heim-Fav aber Aggregat-Druck erhoeht Nervositaets-Faktor",
+        "Ü2.5 @1.90 spiegelt Muss-Sieg-Angriffs-These wider - Rangers muss aufmachen"
+      ],
+      "quellen_aggregator": [
+        "https://www.mightytips.com/football-predictions/rangers-vs-jagiellonia-bialystok-prediction-13-08-2026/",
+        "https://ratingbet.com/predictions/rangers-vs-jagiellonia-prediction-team-news-lineups-expert-analysis-august-13-2026/",
+        "https://www.sportsmole.co.uk/football/rangers/europa-league/preview/rangers-vs-jagiellonia-prediction-team-news-lineups_602792.html",
+        "https://www.racingpost.com/sport/football-tips/europa-league/rangers-vs-jagiellonia-bialystok-prediction-team-news-odds-betting-tips-and-bet-builder-aAqpA0p4Nx4o/",
+        "https://dailysports.net/predictions/will-there-be-a-comeback-prediction-for-rangers-vs-jagiellonia-13082026/"
+      ]
+    },
+    {
+      "id": "2026-08-13-paf-sal",
+      "liga": "UEFA Europa League - 3. Qualifikationsrunde (Champions Path) - Rueckspiel",
+      "heim": "Pafos FC",
+      "gast": "FC Red Bull Salzburg",
+      "anstoss": "2026-08-13T20:00:00+02:00",
+      "stadion": "Alphamega Stadium, Limassol (Zypern)",
+      "parallele_wettbewerbe": {
+        "heim": "Cyprus First Division 2026/27 - Pafos Titelverteidiger 25/26, Ligastart absolviert",
+        "gast": "Bundesliga Oesterreich 2026/27 laeuft seit Anfang August - Salzburg im Rhythmus",
+        "quellen": ["https://www.uefa.com/uefaeuropaleague/", "https://cfa.com.cy/", "https://www.bundesliga.at/"]
+      },
+      "saisonziel_heim": "EL-Playoff-Runde erreichen + Zypern-Titel-Verteidigung. Comeback-Historie: 4:0-Heimsieg nach 0:2-Aus in Q2 gegen Hajduk Split",
+      "saisonziel_gast": "EL-Playoff-Pflicht + Bundesliga-Titel-Angriff (Rangnick-Nachfolge-Trainer im ersten EL-Test)",
+      "form_heim_letzte_5": "Q3-Hin 0:1-Auswaertsniederlage Salzburg + Comeback-Fussstapfen (Hajduk-Q2 gedreht 4:0 nach 0:2)",
+      "form_gast_letzte_5": "Q3-Hin 1:0-Heimsieg + Bundesliga-Auftakte im Rhythmus",
+      "recovery_heim": "7 Tage seit 0:1-Auswaertsniederlage - MUSS-Sieg-Comeback-Modus mit Hajduk-Blueprint",
+      "recovery_gast": "7 Tage seit 1:0-Heimsieg - Verwalter-Modus, Auswaerts nur nicht verlieren nach 90min notwendig",
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "hinspiel_ergebnis": "Salzburg 1:0 (Heim Salzburg, aus data/ergebnisse/2026-08-06.json) - Salzburg mit knapper 1-Tor-Aggregat-Fuehrung ins Rueckspiel Zypern-Auswaerts",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 3.15,
+          "draw": 3.70,
+          "sieg_gast": 2.33,
+          "ueber_2_5": 2.10,
+          "unter_2_5": 1.75,
+          "ueber_3_5": 3.50,
+          "btts_ja": 1.90,
+          "btts_nein": 1.85,
+          "dc_1x": 1.72,
+          "dc_x2": 1.55,
+          "dc_12": 1.35,
+          "genaues_ergebnis_2_0_sal": 9.00,
+          "genaues_ergebnis_1_1": 6.50,
+          "genaues_ergebnis_2_1_paf": 10.00,
+          "torschuetzen": {
+            "Karim Konate (Salzburg)": 2.75,
+            "Petar Ratkov (Salzburg)": 2.60,
+            "Adam Daghim (Salzburg)": 3.40,
+            "Anderson (Pafos)": 4.50
+          }
+        }
+      },
+      "news_kompakt": [
+        "Salzburg 1:0-Sieg in Salzburg-Hinspiel - knapper 1-Tor-Vorsprung ins Rueckspiel Zypern",
+        "Pafos Comeback-Referenz: 4:0-Heimsieg nach 0:2-Aus in Q2 gegen Hajduk Split - Blueprint aktiv",
+        "Salzburg Auswaerts-Reise Zypern (~2500km Belastung) + Zypern-Klima (Mittelmeer-Sommer 28-32C)",
+        "Salzburg DC X2 @1.55 zeigt Buchmacher-Erwartung Salzburg kommt durch (Draw genuegt)",
+        "Pafos Sieg @3.15 fair - Heimvorteil + MUSS-Sieg-Motivation, aber Salzburg-Klassen-Edge",
+        "Ü2.5 @2.10 relativ hoch - Buchmacher erwarten defensives Rueckspiel"
+      ],
+      "quellen_aggregator": [
+        "https://www.wincomparator.com/predictions/pafos-fc-salzburg-8665624/",
+        "https://www.mightytips.com/football-predictions/pafos-vs-salzburg-prediction-13-08-2026/",
+        "https://ratingbet.com/predictions/pafos-vs-red-bull-salzburg-prediction-expert-analysis-possible-lineups-august-13-2026/",
+        "https://dailysports.net/predictions/home-pafos-ready-to-turn-the-series-around-prediction-for-pafos-vs-red-bull-salzburg/",
+        "https://www.espn.com/soccer/odds/_/gameId/401902717"
+      ]
+    },
+    {
+      "id": "2026-08-13-hea-ben",
+      "liga": "UEFA Europa League - 3. Qualifikationsrunde (League Path) - Rueckspiel",
+      "heim": "Heart of Midlothian (Hearts)",
+      "gast": "SL Benfica Lissabon",
+      "anstoss": "2026-08-13T19:45:00+02:00",
+      "stadion": "Tynecastle Park, Edinburgh",
+      "parallele_wettbewerbe": {
+        "heim": "Scottish Premiership 2026/27 - Hearts 4:0-Sieg gegen Dundee United am Wochenende (Momentum Liga)",
+        "gast": "Primeira Liga Portugal 2026/27 laeuft seit 08./09.08.",
+        "quellen": ["https://www.uefa.com/uefaeuropaleague/", "https://spfl.co.uk/", "https://www.ligaportugal.pt/"]
+      },
+      "saisonziel_heim": "Ehren-Rueckspiel + Scottish-Premiership-Playoff. Aggregat-Aufholung 5-Tore-Rueckstand realistisch unmoeglich",
+      "saisonziel_gast": "EL-Playoff-Sicherstellen + Primeira-Liga-Titel. Rueckspiel = Rotations-Slot ohne Ergebnis-Druck",
+      "form_heim_letzte_5": "Q3-Hin 1:6 Klatsche in Lissabon + 4:0 Dundee-United (Wochenende) - domestic-Momentum-Response",
+      "form_gast_letzte_5": "6:1 Dominanz vs Hearts + Primeira-Liga-Auftakt - stark",
+      "recovery_heim": "7 Tage seit 1:6-Debakel + 4:0-Liga-Sieg zwischendrin (~3 Tage vor Rueckspiel)",
+      "recovery_gast": "7 Tage seit 6:1-Sieg + Primeira-Liga-Auftakt (Rotations-Rhythmus)",
+      "injuries_heim": [],
+      "injuries_gast": [],
+      "hinspiel_ergebnis": "Benfica 6:1 (Heim Lissabon aus data/ergebnisse/2026-08-06.json) - 5-Tore-Aggregat-Vorsprung, Rueckspiel Formsache",
+      "quoten": {
+        "bet365": {
+          "sieg_heim": 7.00,
+          "draw": 4.50,
+          "sieg_gast": 1.42,
+          "ueber_2_5": 1.65,
+          "unter_2_5": 2.20,
+          "ueber_3_5": 2.30,
+          "ueber_4_5": 5.00,
+          "btts_ja": 1.60,
+          "btts_nein": 2.30,
+          "dc_1x": 2.75,
+          "dc_x2": 1.08,
+          "dc_12": 1.20,
+          "torschuetzen": {
+            "Vangelis Pavlidis (Benfica)": 1.80,
+            "Kerem Akturkoglu (Benfica)": 2.30,
+            "Angel Di Maria (Benfica)": 2.75,
+            "Lawrence Shankland (Hearts)": 3.20
+          }
+        }
+      },
+      "news_kompakt": [
+        "Benfica 6:1-Kantersieg in Lissabon (aus data/ergebnisse/2026-08-06.json) - Rueckspiel = Formsache mit Rotation",
+        "Hearts 4:0-Sieg gegen Dundee United am Wochenende - domestic-Momentum + Ehrenkorb-Motivation",
+        "Aggregat-Aufholung 5-Tore-Rueckstand unrealistisch - Benfica kann rotieren + rehabilitieren",
+        "Benfica @1.42 Sieg-Quote spiegelt Rotations-Faktor wider (weniger Kompress als bei Full-Squad)",
+        "DC X2 @1.08 = fast Formsache Benfica kommt durch",
+        "Ü2.5 @1.65 - beide Teams werden treffen (Hearts Ehrenkampf + Benfica hoehere Qualitaet)",
+        "Post-WM-Ruhepause-Doktrin HR08-13-1: Roster-Verifikation-Wackel bei Pavlidis + Di Maria fitness-fraglich"
+      ],
+      "quellen_aggregator": [
+        "https://ratingbet.com/predictions/hearts-vs-benfica-prediction-teams-form-analysis-possible-lineups-on-august-13-2026/",
+        "https://www.mightytips.com/football-predictions/hearts-vs-benfica-prediction-13-08-2026/",
+        "https://dailysports.net/predictions/scotland-need-an-almost-impossible-comeback-hearts-vs-benfica-prediction/",
+        "https://www.espn.com/soccer/odds/_/gameId/401902960",
+        "https://www.goal.mu/predictions/19521/hearts-vs-benfica-prediction-team-news-lineups-13-august-2026-2.html"
+      ]
+    }
+  ],
+  "recherche_notizen": "Fallback-Recherche selbst gemacht (Recherche-Slot 10:30 verpasste). 4 Top-Spiele mit stabilem Hinspiel-Kontext (aus data/ergebnisse/2026-08-06.json) statt 12+ EL-Q3-Rueckspiele halbherzig. Fokus: (1) Anderlecht-PAOK-Aggregat-Verwalter-vs-Muss-Sieg (2) Rangers-Jagi-Aggregat-Aufholung (3) Pafos-Salzburg-Verwalter (4) Hearts-Benfica-Formsache-Rotations-Slot. Alle Quoten aus Aggregatoren (mightytips + ratingbet + sportsgambler + sportsmole + dailysports + wincomparator + racingpost) - bet365-DE-Live-Quoten nicht direkt gescrapet aber Konsens-nah. Torschuetzen-Namen aus Aggregator-Predictions + Sportsmole-Line-ups - Post-WM-Ruhepause-Doktrin HR08-13-1 aktiv (Roster-Verifikations-WACKEL bei allen Torschuetzen-Tipps). Beobachtungs-Ligen-Check: 'UEFA Europa League Q2' + 'FIFA WM 2026 HF' aktiv laut beobachtungs_ligen.json (Stand 13.08.), aber EL-Q3 NICHT betroffen (nur Q2 auf Bluter-Liste). Markt-Bluter Spread/Handicap - keine Spread-Tipps heute."
+}
