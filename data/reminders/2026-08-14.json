@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-14T15:43:34.038785+00:00",
+  "stand": "2026-08-14T16:41:13.100896+00:00",
   "gesendet": {
     "2026-08-14-bra-boc": {
       "sent_at": "2026-08-14T15:43:32.381882+00:00",
@@ -12,6 +12,12 @@
       "anstoss": "2026-08-14T18:30:00+02:00",
       "spiel": "Holstein Kiel vs FC St. Pauli",
       "top_tipp": "Beide Teams treffen: Ja"
+    },
+    "2026-08-14-tel-spa": {
+      "sent_at": "2026-08-14T16:41:12.273370+00:00",
+      "anstoss": "2026-08-14T20:00:00+02:00",
+      "spiel": "SC Telstar vs Sparta Rotterdam",
+      "top_tipp": "Sieg 1X2: SC Telstar"
     }
   }
 }
