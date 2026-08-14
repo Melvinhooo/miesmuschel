@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-08-13T07:16:34+00:00",
+  "letzte_berechnung": "2026-08-14T07:23:02+00:00",
   "gesamt": {
-    "tipps": 437,
-    "gewonnen": 225,
-    "verloren": 200,
+    "tipps": 447,
+    "gewonnen": 227,
+    "verloren": 208,
     "push": 3,
     "offen": 9,
-    "einsatz": 428.0,
+    "einsatz": 438.0,
     "netto": 16.03,
-    "trefferquote": 52.9,
+    "trefferquote": 52.2,
     "roi_prozent": 3.7
   },
   "letzte_30_tage": {
-    "tipps": 122,
+    "tipps": 129,
     "gewonnen": 57,
-    "verloren": 64,
+    "verloren": 71,
     "push": 1,
     "offen": 0,
-    "einsatz": 122.0,
-    "netto": 11.77,
-    "trefferquote": 47.1,
-    "roi_prozent": 9.6
+    "einsatz": 129.0,
+    "netto": 10.82,
+    "trefferquote": 44.5,
+    "roi_prozent": 8.4
   },
   "letzte_90_tage": {
-    "tipps": 409,
-    "gewonnen": 212,
-    "verloren": 185,
+    "tipps": 419,
+    "gewonnen": 214,
+    "verloren": 193,
     "push": 3,
     "offen": 9,
-    "einsatz": 400.0,
+    "einsatz": 410.0,
     "netto": 16.63,
-    "trefferquote": 53.4,
-    "roi_prozent": 4.2
+    "trefferquote": 52.6,
+    "roi_prozent": 4.1
   },
   "nach_liga": {
     "NBA Playoffs Round 2, Game 4": {
@@ -1044,6 +1044,17 @@
       "einsatz": 1.0,
       "netto": 0.0,
       "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "UEFA Europa League - 3. Qualifikationsrunde (Rueckspiel)": {
+      "tipps": 10,
+      "gewonnen": 2,
+      "verloren": 8,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 10.0,
+      "netto": 0.0,
+      "trefferquote": 20.0,
       "roi_prozent": 0.0
     }
   },
@@ -3841,19 +3852,63 @@
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Doppelte Chance: Anderlecht oder Draw": {
+      "tipps": 3,
+      "gewonnen": 2,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 66.7,
+      "roi_prozent": 0.0
+    },
+    "Sieg 1X2: SL Benfica Lissabon": {
+      "tipps": 2,
+      "gewonnen": 0,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Doppelte Chance: Bayer Salzburg oder Draw": {
+      "tipps": 3,
+      "gewonnen": 0,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Sieg 1X2: Rangers FC": {
+      "tipps": 2,
+      "gewonnen": 0,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
     "Sieg (1X2 / ML)": {
-      "tipps": 143,
+      "tipps": 147,
       "gewonnen": 76,
-      "verloren": 65,
+      "verloren": 69,
       "push": 1,
       "offen": 1,
-      "einsatz": 142.0,
+      "einsatz": 146.0,
       "netto": -5.92,
-      "trefferquote": 53.9,
-      "roi_prozent": -4.2
+      "trefferquote": 52.4,
+      "roi_prozent": -4.1
     },
     "Tottenham oder Remis (DC 1X)": {
       "tipps": 1,
@@ -3977,15 +4032,15 @@
       "roi_prozent": 25.0
     },
     "Doppelte Chance": {
-      "tipps": 3,
-      "gewonnen": 2,
-      "verloren": 1,
+      "tipps": 9,
+      "gewonnen": 4,
+      "verloren": 5,
       "push": 0,
       "offen": 0,
-      "einsatz": 3.0,
+      "einsatz": 9.0,
       "netto": -0.54,
-      "trefferquote": 66.7,
-      "roi_prozent": -18.0
+      "trefferquote": 44.4,
+      "roi_prozent": -6.0
     },
     "Victor Wembanyama Double-Double": {
       "tipps": 2,
@@ -4177,26 +4232,26 @@
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 199,
+      "tipps": 204,
       "gewonnen": 100,
-      "verloren": 94,
+      "verloren": 99,
       "push": 1,
       "offen": 4,
-      "einsatz": 195.0,
+      "einsatz": 200.0,
       "netto": 6.15,
-      "trefferquote": 51.5,
-      "roi_prozent": 3.2
+      "trefferquote": 50.3,
+      "roi_prozent": 3.1
     },
     "1.00-1.50": {
-      "tipps": 159,
-      "gewonnen": 98,
-      "verloren": 56,
+      "tipps": 164,
+      "gewonnen": 100,
+      "verloren": 59,
       "push": 1,
       "offen": 4,
-      "einsatz": 155.0,
+      "einsatz": 160.0,
       "netto": 5.21,
-      "trefferquote": 63.6,
-      "roi_prozent": 3.4
+      "trefferquote": 62.9,
+      "roi_prozent": 3.3
     },
     "2.00-3.00": {
       "tipps": 58,
@@ -4223,15 +4278,15 @@
   },
   "nach_kategorie": {
     "value": {
-      "tipps": 258,
-      "gewonnen": 144,
-      "verloren": 102,
+      "tipps": 268,
+      "gewonnen": 146,
+      "verloren": 110,
       "push": 3,
       "offen": 9,
-      "einsatz": 249.0,
+      "einsatz": 259.0,
       "netto": 21.47,
-      "trefferquote": 58.5,
-      "roi_prozent": 8.6
+      "trefferquote": 57.0,
+      "roi_prozent": 8.3
     },
     "wackel": {
       "tipps": 126,
@@ -4300,6 +4355,137 @@
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-08-13",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "?",
+          "kategorie": "",
+          "gesamtquote": 3.27,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg SL Benfica Lissabon",
+              "quote": 1.42,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Rangers FC",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "DC 1X Anderlecht oder Draw",
+              "quote": 1.44,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "",
+          "gesamtquote": 6.32,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Beide Teams treffen: Ja",
+              "quote": 1.72,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen: Ja",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "",
+          "gesamtquote": 15.36,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen: Ja",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "",
+          "gesamtquote": 446.25,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Genaues Ergebnis Anderlecht 2:0",
+              "quote": 8.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Genaues Ergebnis Rangers 3:0",
+              "quote": 10.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 4.5 Tore",
+              "quote": 5.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-08-12",
       "gesamt": {

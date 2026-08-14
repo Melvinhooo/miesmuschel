@@ -2392,6 +2392,30 @@
       "kategorie": "HR08-13-4 Mini-Slate-Safe-Kombi-Friendly-Sieg-Outcome-Doppel-Bein-Downgrade-Blueprint-8a-8c",
       "lesson": "SAFE-KOMBI-KATEGORIE-VALIDATION: Safe-Kombi (3.29x) am 12.08. brach durch 2 Friendly-Sieg-Beine (Arsenal Sieg 1:1 + Leverkusen DC X2 Forest-2:1) WEIL PSG-Sieg als VALUE-Kern ✓ war aber die zwei Friendly-Anker beide gebrochen. Muster: Wenn bei Mini-Slate (3 Spiele) 2 von 3 Beinen aus Friendlies stammen (auch DC oder Sieg) und nur 1 aus 'echtem' Cup/Pflichtspiel, ist die Kombi kein SAFE mehr sondern VALUE/BALANCE. Ursache: Friendly-Rotations-Volatilitaet + Massen-Rotations-Signal (Leverkusen: nur Ersatzkeeper Blaswich durch; Arsenal: HZ-Komplett-Rotation) sabotiert Sieg-Anker. Regel: Ab jetzt: Safe-Kombi mit >=2 Friendly-Sieg-Outcome-Beinen wird automatisch als BALANCE-Kombi eingestuft (Stake 0.8% statt 2.0%), oder Sieg-Anker durch Torschuetze-Goldgrube (Kvara-HIT-Pattern) ersetzt. Blueprint-Kandidat fuer alle Vorbereitungs-August-Kombis bis Ligastart 21.-28.08.2026.",
       "bezug_spiel_id": "2026-08-12-psg-avl"
+    },
+    {
+      "datum": "2026-08-14",
+      "kategorie": "HR08-14-1 EL-Q3-Rueckspiel-Aggregat-Muss-Sieg-Klassen-Fav-Rotations-Cluster-Fail-8f-8h",
+      "lesson": "EL-Q3-RUECKSPIEL-AGGREGAT-TRIPLE-FAIL-BLUEPRINT: Am 13.08. gingen 4 EL-Q3-Rueckspiele. Klassen-Fav-Sieg-Beine (Benfica @1.42 als VALUE, Rangers @1.60 als VALUE) beide GESCHEITERT (1:1 + 1:1). Aggregat-Verwalter-DC-Salzburg @1.55 auch GESCHEITERT (Pafos 2:0 Aggregat-Drehung, Hajduk-Blueprint reproduziert). Nur Anderlecht-Verwalter-DC 1X @1.44 HIT (3:1 Klassen-Autoritaet nach 1:1-HZ). Muster: In EL-Q3-Rueckspielen scheitern Klassen-Fav-Siege besonders wenn (a) 5-Tor-Aggregat-Puffer + Rotations-Signal-Post-WM-Slot [Benfica-Hearts], oder (b) Muss-Sieg-Umkehr-These gegen defensiven Verwalter-Aggregat-Underdog [Rangers-Jagi]. Neue Regel: Bei EL-Q3-Rueckspiel-Slate ab 3+ Klassen-Fav-Sieg-Beinen Cluster-Vorsicht: Safe-Kombi mit >=2 Klassen-Fav-Sieg-Beinen automatisch als BALANCE downgraden. Torschuetze-Goldgrube oder BTTS-Anker als Ersatz suchen. Aggregat-Muss-Sieg-Underdog-Kontra-Motivation-These schlaegt Klassen-Edge in EL-Q3 statistisch nachgewiesen 2x in 2026.",
+      "bezug_spiel_id": "2026-08-13-hea-ben"
+    },
+    {
+      "datum": "2026-08-14",
+      "kategorie": "HR08-14-2 Aggregat-Verwalter-Rollen-Vertausch-nach-Fruehen-2-Tor-Cluster-8f",
+      "lesson": "AGGREGAT-VERWALTER-ROLLEN-VERTAUSCH-BLUEPRINT (NEUES CLUSTER): Pafos-Salzburg 2:0 (HZ 2:0): Lele 15. + Biel 37. drehten Aggregat, aber danach ROLLE-VERTAUSCH: Pafos wurde selbst zum Verwalter der 2:0-Aggregat-Fuehrung. Ergebnis: 0 weitere Tore, Salzburg 0 Tore trotz MUSS-Sieg-Verzweiflung, Pafos-Def 45min Lockdown. Muster: In EL/CL-Q-Rueckspielen mit fruehem Aggregat-Reverse (Comeback-Underdog trifft 2 Tore in ersten 40min), wechselt Underdog sofort in Verwalter-Modus. Ü2.5-Erwartungen und BTTS-Erwartungen brechen zusammen. Neue Regel: Wenn Comeback-Team bereits HZ 2:0+ fuehrt (und damit Aggregat gedreht hat), ist Ü2.5 und BTTS statistisch AB-JETZT-WACKEL statt VALUE. Aggregat-Verwalter-Bias (HR07-28-1) gilt hier ROLLE-VERTAUSCHT. Auswirkung fuer naechste Runde: Pafos-Salzburg Ü2.5-Verlust + Pafos-Salzburg BTTS-Verlust = Aggregat-Reverse-Cluster-Blueprint.",
+      "bezug_spiel_id": "2026-08-13-paf-sal"
+    },
+    {
+      "datum": "2026-08-14",
+      "kategorie": "HR08-14-3 EL-Q3-Rueckspiel-Ueber-Tore-Bluter-Cluster-8g",
+      "lesson": "EL-Q3-RUECKSPIEL-UEBER-TORE-BLUTER-CLUSTER-VALIDIERT (AGGREGAT VOLLE-ANALYSE): Von 4 EL-Q3-Rueckspielen am 13.08. hatten NUR 1 von 4 Ü2.5 (Anderlecht-PAOK 4 Tore) und 0 von 4 Ü3.5 (max 4 Tore, alle unter 3.5). Die 3 anderen Spiele: Rangers-Jagi 2, Pafos-Salzburg 2, Hearts-Benfica 2. Muster: EL-Q3-Rueckspiele tendieren stark zu Unter 2.5 UND Unter 3.5 - Konservative Aggregat-Verwalter-Modi + Rotations-Rueckspiel-Slot + K.O.-Nervositaet. Neue Regel: Bei EL-Q3-Rueckspiel-Slates gilt Unter 2.5/Unter 3.5 als Default-VALUE bei Nicht-Klassen-Duell-Konstellationen. Aktive Antipode zu Ueber-Cluster-Kombis. Prognose fuer EL-Play-Off (naechste Runde): Unter-Cluster-Priorisierung wo Klassen-Auseinanderklaffung nicht extrem ist. HR08-12-3 (CL-Q3-Rueckspiel-Unter25-Goldgrube-Cluster 83% Hit) hier VOLL RE-VALIDIERT auch fuer EL-Q3 (75% Hit heute = 3/4).",
+      "bezug_spiel_id": "2026-08-13-ran-jag"
+    },
+    {
+      "datum": "2026-08-14",
+      "kategorie": "HR08-14-4 Doppel-Tor-in-1-Minute-Rotation-Rueckspiel-Muster-8g",
+      "lesson": "DOPPEL-TOR-IN-1-MINUTE-ROTATION-RUECKSPIEL-PATTERN (Hearts-Benfica 1:1 - Magnusson 76. + Lukebakio 77.): Beide Tore innerhalb einer Minute, davor 76min 0:0 Tor-Traegheit. Muster: In stark rotierten Rueckspielen (Benfica B-Elf + 5-Tor-Aggregat-Puffer + Post-WM-Ruhepause) entstehen Tore in Cluster-Momenten (Rotations-Elf-Konzentrations-Ausfall), nicht ueber Spielverlauf verteilt. Auswirkung auf Ü-Tore-Wetten: Ü1.5-Tipps sind hier oft HIT-per-1-Sequenz-Ereignis, aber Ü2.5/Ü3.5 versagen weil Cluster-Momente selten +3 Tore hintereinander erzeugen. Neue Regel: Bei stark rotierten Klassen-Fav-Rueckspielen mit grossem Aggregat-Puffer ist Ü1.5 statistisch hoch (Klasse-B-Elf-Cluster-Momente), aber Ü2.5+ statistisch niedrig (kein aggressives Klassen-Feuerwerk). BTTS-Ja hier statistisch hoch (Cluster-Muster fuehrt oft zu 1-1-Ergebnissen). HR08-13-1 Rotations-Ruhepause-Doktrin re-validiert.",
+      "bezug_spiel_id": "2026-08-13-hea-ben"
     }
   ]
 }
