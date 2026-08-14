@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-14T16:41:13.100896+00:00",
+  "stand": "2026-08-14T17:34:28.188333+00:00",
   "gesendet": {
     "2026-08-14-bra-boc": {
       "sent_at": "2026-08-14T15:43:32.381882+00:00",
@@ -18,6 +18,18 @@
       "anstoss": "2026-08-14T20:00:00+02:00",
       "spiel": "SC Telstar vs Sparta Rotterdam",
       "top_tipp": "Sieg 1X2: SC Telstar"
+    },
+    "2026-08-14-cer-stv": {
+      "sent_at": "2026-08-14T17:34:26.554992+00:00",
+      "anstoss": "2026-08-14T20:45:00+02:00",
+      "spiel": "Cercle Brugge vs Sint-Truiden",
+      "top_tipp": "Beide Teams treffen: Ja"
+    },
+    "2026-08-14-wol-bla": {
+      "sent_at": "2026-08-14T17:34:26.554992+00:00",
+      "anstoss": "2026-08-14T21:00:00+02:00",
+      "spiel": "Wolverhampton Wanderers vs Blackburn Rovers",
+      "top_tipp": "Unter 2.5 Tore"
     }
   }
 }
