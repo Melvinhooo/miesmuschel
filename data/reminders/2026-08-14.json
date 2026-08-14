@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-14T17:34:28.188333+00:00",
+  "stand": "2026-08-14T18:33:09.220736+00:00",
   "gesendet": {
     "2026-08-14-bra-boc": {
       "sent_at": "2026-08-14T15:43:32.381882+00:00",
@@ -30,6 +30,12 @@
       "anstoss": "2026-08-14T21:00:00+02:00",
       "spiel": "Wolverhampton Wanderers vs Blackburn Rovers",
       "top_tipp": "Unter 2.5 Tore"
+    },
+    "2026-08-14-spo-vit": {
+      "sent_at": "2026-08-14T18:33:08.458699+00:00",
+      "anstoss": "2026-08-14T21:15:00+02:00",
+      "spiel": "Sporting CP vs Vitoria SC Guimaraes",
+      "top_tipp": "Sieg 1X2: Sporting CP"
     }
   }
 }
