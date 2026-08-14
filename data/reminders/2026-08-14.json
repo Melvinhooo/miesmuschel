@@ -1,0 +1,17 @@
+{
+  "stand": "2026-08-14T15:43:34.038785+00:00",
+  "gesendet": {
+    "2026-08-14-bra-boc": {
+      "sent_at": "2026-08-14T15:43:32.381882+00:00",
+      "anstoss": "2026-08-14T18:30:00+02:00",
+      "spiel": "Eintracht Braunschweig vs VfL Bochum",
+      "top_tipp": "Beide Teams treffen: Ja"
+    },
+    "2026-08-14-kie-stp": {
+      "sent_at": "2026-08-14T15:43:32.381882+00:00",
+      "anstoss": "2026-08-14T18:30:00+02:00",
+      "spiel": "Holstein Kiel vs FC St. Pauli",
+      "top_tipp": "Beide Teams treffen: Ja"
+    }
+  }
+}
