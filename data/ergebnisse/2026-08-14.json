@@ -1,0 +1,1344 @@
+{
+  "datum": "2026-08-14",
+  "erstellt_am": "2026-08-14T13:30:00+02:00",
+  "hinweis": "🐚 Fr 14.08.2026 · Erster Fr-Slate der 2026/27-Saison mit 6 Spielen aus 5 Ligen (Championship-Auftakt Wolves, Primeira-Liga MD2 Sporting, 2.Bundesliga MD2 Braunschweig+Kiel, Eredivisie MD2 Telstar, Belg. Pro League Cercle). Klassen-Edge-Anker: Wolves-Sieg (relegierter PL-Klub @1.59) + Sporting-Sieg (Titel-Anwaerter @1.33) — beide per HR08-10-2 nur VALUE nicht SAFE. Goldgrube-Cluster: Unter 2.5 in Wolves-Blackburn (Wolves 55% Unter letzte PL-Saison + Blackburn 61% Unter Champ + H2H 4/4 unter 3 Tore) + BTTS Ja in 2.BL und Belg. (Def-Cluster) + Ü2.5 in Kiel/Sporting. Kasse-Stufe 1 (550€) - Standard 1-2%/0.5% Einzel + 2%/0.8%/0.25%/0.1% Kombi. Kombis: Safe = 3 Klassen-Siege (4.61x), Balance = 2xBTTS+2xÜ2.5 Goldgrube-Cluster (7.03x), Risiko = Wolves-Unter+BS-Sieg+Kiel-Draw (15.89x), Moonshot = Sint-Truiden-Sieg + Sporting 3:0 + Wolves 2:0 (218.03x). Lessons angewandt: HR08-13-1 Post-WM-Ruhepause-Doktrin (Vereinssaison nach Sommer-Ruhe → Startelf-Wackel bei Volume-9er → 0 Torschuetzen-Beine gesetzt), HR08-10-2 Klassen-Duell-Sieg-SAFE-Downgrade (Wolves + Sporting VALUE nicht SAFE), HR08-10-3 Goldgrube-Cluster (BTTS+Ü2.5+Unter2.5 in Balance/Risk/Einzel), HR23 Layer-3-Sieg-Outcome-hart (Layer-2 pro Spiel sauber: nur je 1 Sieg-Outcome pro Spiel), HR07-29-4 Layer-4-Torschuetzen-Cap (0/2 belegt), HR26 2:0-Insurance-Regel greift NICHT in Championship/Primeira/2.BL/Eredivisie/Belg. Pro League - explizit dokumentiert. Championship + Primeira Liga + 2.BL + Eredivisie + Belg. Pro League ALLE NICHT auf beobachtungs_ligen.json-Bluter-Liste. Quoten bei bet365 live pruefen.",
+  "_emergency_recovery": true,
+  "spiele": [
+    {
+      "id": "2026-08-14-bra-boc",
+      "liga": "2. Bundesliga - Spieltag 2",
+      "heim": "Eintracht Braunschweig",
+      "gast": "VfL Bochum",
+      "anstoss": "2026-08-14T18:30:00+02:00",
+      "stadion": "Eintracht-Stadion, Braunschweig",
+      "saison_kontext": {
+        "parallel_heim": "2. Bundesliga 2026/27 Saison-Auftakt bereits absolviert (MD1 08.-11.08. = 6:1-Auswaertssieg in Magdeburg), keine Pokal-Doppelbelastung (DFB-Pokal 1. Runde 21.-24.08. spaeter), Ligarhythmus perfekt gestartet",
+        "parallel_gast": "2. Bundesliga 2026/27 - Bochum MD1 0:1-Heimniederlage gegen Hertha, kein weiterer paralleler Wettbewerb (DFB-Pokal 21.-24.08. spaeter)",
+        "saisonziel_heim": "Klassenerhalt-Absicherung + Aufstiegs-Kampf-Anspruch nach Saison 25/26 (Braunschweig-Aufstiegs-Anwaerter). Nach 6:1-Auftakt Momentum + Angriffs-Wucht",
+        "saisonziel_gast": "Wiederaufstieg-Anspruch nach Bundesliga-Abstieg (Bochum als absteigender BL-Klub Saison 25/26 = Klassen-Favorit im 2.BL-Kontext). Erwartet Top-3-Kampf",
+        "motivations_asymmetrie": "Braunschweig Momentum-Modus nach 6:1-Auftakt + Heimvorteil (unbeaten last 5 home 2.BL, BTTS in 4/5) + volle Startelf. Bochum unter Druck nach 0:1-Heimniederlage - Absteiger-Klasse-Ambitionen brauchen Reaktion. H2H seit 2020: Bochum 3-1 (letztes Spiel Bochum 4:1 April 2026). Klassen-Erwartung Bochum-Fav aber Braunschweig-Heim-Form + Bochum ohne Tor in 3 letzten Pflichtspielen sprechen fuer Heim-Edge. HR08-13-1 Post-Ruhepause-Doktrin: erst 2. MD, Startelf-Wackel noch normal.",
+        "recovery_heim": "6 Tage seit 6:1-Sieg in Magdeburg (08.08.) - kein Belastungsproblem, volle Regeneration",
+        "recovery_gast": "6 Tage seit 0:1-Heimniederlage vs Hertha (08.08.) - kein Belastungsproblem, Motivations-Rebound-Druck",
+        "quellen": [
+          "https://www.mightytips.com/football-predictions/eintracht-braunschweig-vs-vfl-bochum-prediction-14-08-2026/",
+          "https://ratingbet.com/predictions/eintracht-braunschweig-vs-bochum-prediction-expert-analysis-possible-lineups-august-14-2026/",
+          "https://dailysports.net/predictions/2-bundesliga-braunschweig-vs-bochum-can-the-home-side-extend-their-winning-streak/",
+          "https://www.kicker.de/dfb-pokal/spieltag",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_2._Bundesliga"
+        ]
+      },
+      "news": [
+        "Braunschweig 6:1-Auswaertssieg in Magdeburg MD1 (Aaron Opoku Fuehrungstor, Jan Urbich Doppelpack + 4 weitere Torschuetzen)",
+        "Bochum 0:1-Heimniederlage vs Hertha MD1 - kein Tor in 3 letzten Pflichtspielen",
+        "Braunschweig unbeaten last 5 home 2.BL mit BTTS in 4/5 (Aggregator racingpost-Referenz)",
+        "Bochum BTTS gelandet in 11 der letzten 13 Pflichtspiele, kein Clean-Sheet in letzten 13 Spielen",
+        "H2H seit 2020: Bochum 3 Siege, Braunschweig 1, zuletzt Bochum 4:1 im April 2026 im Ruhrstadion",
+        "Verletzungen Braunschweig: Robin Heusser + Frederik Jakel out",
+        "Verletzungen Bochum: Philipp Strompf + Mikkel Rakneberg out",
+        "Aggregator-Quoten (bet365 live pruefen): Braunschweig Sieg @2.40, Draw @3.50, Bochum Sieg @2.75, DC 1X @~1.42, DC X2 @~1.55, Ü2.5 @1.75, U2.5 @2.00, BTTS Ja @1.58, BTTS Nein @2.15, Urbich Torschuetze @~2.50, Hofmann Torschuetze @~3.20"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.58,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 10,
+          "begruendung": "Goldgrube-Cluster HR08-10-3 (BTTS Ja +17.2% historisch) + Braunschweig-Heim-BTTS 4/5 + Bochum BTTS 11/13 + Braunschweig-Angriff (7 Tore MD1) + Bochum-Reaktions-Druck nach 0:1. H2H-Toren-Muster: 4:1 zuletzt = klare BTTS-These. Faire Quote ~1.45. Stake 1.5% = 8.25€.",
+          "layer_2_tag": "bra-boc_btts_ja",
+          "faire_quote": 1.45,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Sieg 1X2: Eintracht Braunschweig",
+          "quote": 2.4,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 6,
+          "begruendung": "Heim-Form-Edge (6:1-Auftakt + unbeaten 5 home) + Bochum-Torflaute (0 Tore in 3 Pflichtspielen). WACKEL statt VALUE weil H2H-Historie Bochum 3-1 dominiert + Bochum Absteiger-Klassen-Fav-Erwartung + HR08-13-1 Ruhepause-Startelf-Wackel. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "bra-boc_sieg_bra",
+          "faire_quote": 2.25,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "Braunschweig-Angriffs-Rhythmus (7 Tore MD1) + Bochum-Def-Wackler (0 Clean-Sheets in 13) + Reaktions-Druck-Angriff Bochum. WACKEL weil Bluter-Cluster-Warnung (Ü2.5 nicht immer stabil bei 2.BL-Auftakts-Phasen) + HR08-13-1 Ruhepause-Startelf-Kalibrierung. Goldgrube Unter 2.5 ist alternative These aber H2H 4:1 spricht gegen Unter. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "bra-boc_ueber_25",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 1,
+        "ht_heim": 0,
+        "ht_gast": 1,
+        "status": "FINISHED"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-14-bra-boc-t0",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "2026-08-14-bra-boc-t1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "2026-08-14-bra-boc-t2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": 18,
+            "team": "gast",
+            "spieler": "Philipp Hofmann",
+            "stand_danach": "0:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "keine Drehung (max Zwischen-Diff Heim 0 / Gast 1, Endstand 0:1)"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_0_5": true,
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "unter_2_5": true,
+          "unter_3_5": true,
+          "halbzeit_endstand": "Gast/Gast",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Bochum-Klassen-Ausflug: 1:0-Sieg mit nur 1 Tor bricht 0-Tore-in-3-Pflichtspielen-Serie.",
+          "Braunschweig 0-Tore trotz 6:1-Auftakt zerstoert BTTS-Ja + Ü2.5 + Sieg-BS - Triple-Bust vom 'Auftakts-Momentum'-Team."
+        ],
+        "quellen": [
+          "https://www.sportschau.de/fussball/bundesliga2/bochum-holt-braunschweig-zurueck-auf-boden,spielbericht-eintracht-braunschweig-vfl-bochum-102.html",
+          "https://www.bundesliga.com/de/2bundesliga/news/eintracht-braunschweig-vfl-bochum-1848-spieltag-2-spielbericht-highlights-38620",
+          "https://sport.sky.de/fussball/braunschweig-vs-bochum/spielbericht/563626"
+        ]
+      }
+    },
+    {
+      "id": "2026-08-14-kie-stp",
+      "liga": "2. Bundesliga - Spieltag 2",
+      "heim": "Holstein Kiel",
+      "gast": "FC St. Pauli",
+      "anstoss": "2026-08-14T18:30:00+02:00",
+      "stadion": "Holstein-Stadion, Kiel",
+      "saison_kontext": {
+        "parallel_heim": "2. Bundesliga 2026/27 - Kiel MD1 2:2-Unentschieden gegen Darmstadt nach 2:0-Fuehrung (Aufstiegs-Anwaerter). Keine Pokal-Doppelbelastung",
+        "parallel_gast": "2. Bundesliga 2026/27 - St.Pauli MD1 1:1-Heim-Draw vs Greuther Fuerth (nach BL-Abstieg 25/26). Keine Pokal-Doppelbelastung",
+        "saisonziel_heim": "Aufstieg-Anwaerter-Ambition nach 25/26-Saison in 2.BL. Nach 2:2-Draw mit 2:0-Fuehrung verspielt = Aerger-Modus",
+        "saisonziel_gast": "Wiederaufstieg-Ambition nach BL-Abstieg 25/26 (St.Pauli als Absteiger = Klassen-Fav im 2.BL). Nach 1:1-Auftakt-Verlust-Erwartung Reaktions-Modus",
+        "motivations_asymmetrie": "Beide MD1 draws mit Enttaeuschungs-Faktor - Kiel verspielte 2:0-Fuehrung, St.Pauli Klassen-Erwartung nicht erfuellt. Kiel-Heim + St.Pauli-Absteiger-Klasse = potenziell offener Nord-Derby. St.Pauli H2H-Dominanz 5-in-Serie gegen Kiel (aggregatoren-verifiziert) + 40 Siege in 89 H2H = klarer Klassen-Anker Auswaerts. Kiel Def-Wackler (2:0 verspielt + 7/9 letzte Spiele mit 2+ Gegentoren), St.Pauli 16 Spiele ohne Clean-Sheet = Torfestival-These. HR08-13-1 Post-Ruhepause-Startelf-Wackel noch normal fuer MD2.",
+        "recovery_heim": "6 Tage seit 2:2 Darmstadt (08.08.) - kein Belastungsproblem, Aerger-Rebound-Druck",
+        "recovery_gast": "6 Tage seit 1:1 Greuther Fuerth (08.08.) - kein Belastungsproblem, Klassen-Reaktions-Druck",
+        "quellen": [
+          "https://www.mightytips.com/football-predictions/holstein-kiel-vs-st-pauli-prediction-14-08-2026/",
+          "https://ratingbet.com/predictions/holstein-vs-st-pauli-prediction-teams-form-analysis-possible-lineups-on-august-14-2026/",
+          "https://dailysports.net/predictions/the-northern-derby-promises-open-football-prediction-for-holstein-kiel-vs-st-pauli/",
+          "https://www.sportsgambler.com/betting-tips/football/holstein-kiel-vs-st-pauli-prediction-lineups-odds-2026-08-14/",
+          "https://www.espn.com/soccer/odds/_/gameId/401885142"
+        ]
+      },
+      "news": [
+        "Kiel 2:2-Draw vs Darmstadt MD1 (2:0-Fuehrung verspielt)",
+        "St.Pauli 1:1-Heim-Draw vs Greuther Fuerth MD1 (Absteiger-Klassen-Erwartung nicht erfuellt)",
+        "St.Pauli H2H-Dominanz: 5 Siege in Serie gegen Kiel + 40/89 gesamt (aggregatoren-verifiziert)",
+        "Kiel Def-Wackler: 2+ Gegentore in 7 der letzten 9 Spiele",
+        "St.Pauli 16 Spiele in Serie ohne Clean-Sheet - Def-Krise",
+        "Kiel-Schluesselspieler Phil Harres (Assist + Tor MD1), St.Pauli-Schluesselspieler Marcus Mathisen (Torschuetze MD1)",
+        "Aggregator-Quoten (bet365 live pruefen): Kiel Sieg @2.45, Draw @3.45, St.Pauli Sieg @2.70, DC 1X @~1.44, DC X2 @~1.53, Ü2.5 @1.77, U2.5 @2.00, BTTS Ja @1.61, BTTS Nein @2.10, Harres Torschuetze @~2.75, Mathisen Torschuetze @~3.20"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.61,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 9,
+          "begruendung": "Goldgrube-Cluster HR08-10-3 (BTTS Ja +17.2% historisch) + Kiel-Def-Wackler (7/9 mit 2+ Gegentoren) + St.Pauli 16 Spiele ohne Clean-Sheet + beide MD1 mit Toren (Kiel 2, St.Pauli 1). Faire Quote ~1.50. Stake 1.5% = 8.25€.",
+          "layer_2_tag": "kie-stp_btts_ja",
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.77,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "Beide MD1 draws mit Kiel 2:2 + St.Pauli-Def-Krise + Kiel-Def-Krise = Torfestival-These. WACKEL weil MD2-Ruhepause-Kalibrierung noch aktiv + Nord-Derby-Vorsichts-Faktor beidseits. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "kie-stp_ueber_25",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Unentschieden",
+          "quote": 3.45,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 6,
+          "begruendung": "Beide MD1 draws + Nord-Derby-Symmetrie + St.Pauli-Auswaerts-Klasse vs Kiel-Heim = Draw-These plausibel. WACKEL weil Kiel-Heim-Faktor + St.Pauli-H2H-5in-Serie-Dominanz beide zu Sieg-These auch koennen. Historisch Draw-Quote 3.45 = 29% impl. Wahrscheinlichkeit, faire Quote ~3.10. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "kie-stp_draw",
+          "faire_quote": 3.1,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 2,
+        "ht_heim": 0,
+        "ht_gast": 2,
+        "status": "FINISHED"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-14-kie-stp-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.61,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "2026-08-14-kie-stp-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.77,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "2026-08-14-kie-stp-t2",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.45,
+          "kommentar": ""
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:2",
+        "endstand": "2:2",
+        "tore": [
+          {
+            "min": 32,
+            "team": "gast",
+            "spieler": "Martijn Kaars",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 45,
+            "team": "gast",
+            "spieler": "Taichi Hara",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": 56,
+            "team": "heim",
+            "spieler": "Phil Harres",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 88,
+            "team": "heim",
+            "spieler": "Jonas Therkelsen",
+            "stand_danach": "2:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Gast fuehrte zwischenzeitlich mit 2 Toren Vorsprung, Endstand 2:2"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "unter_2_5": false,
+          "unter_3_5": false,
+          "halbzeit_endstand": "Gast/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Nord-Derby Comeback: Kiel 0:2 HZ zurueck zum 2:2 - genau die vorhergesagte Def-Krise beidseits.",
+          "St.Pauli 45+3-Tor kurz vor der Pause zeigt HR07-Muster (Tor-vor-Halbzeit)."
+        ],
+        "quellen": [
+          "https://www.sportschau.de/regional/ndr/nach-02-rueckstand-holstein-kiel-punktet-gegen-st-pauli,nordduell-288.html",
+          "https://www.t-online.de/sport/fussball/2-bundesliga/id_101389988/2-bundesliga-holstein-kiel-mit-aufholjagd-gegen-st-pauli.html"
+        ]
+      }
+    },
+    {
+      "id": "2026-08-14-tel-spa",
+      "liga": "Eredivisie - Spieltag 2",
+      "heim": "SC Telstar",
+      "gast": "Sparta Rotterdam",
+      "anstoss": "2026-08-14T20:00:00+02:00",
+      "stadion": "BUKO Stadion, Velsen-Zuid",
+      "saison_kontext": {
+        "parallel_heim": "Eredivisie 2026/27 Auftakt (07.08. gestartet) - Telstar MD1 2:1-Auswaertssieg NEC Nijmegen (Comeback aus 0:1). Kein Europa-Pokal (Eredivisie-Aufsteiger)",
+        "parallel_gast": "Eredivisie 2026/27 - Sparta MD1 0:1-Heimniederlage gegen Feyenoord (kein Torschuss aufs Tor). Kein Europa-Pokal",
+        "saisonziel_heim": "Klassenerhalt-Ambition nach Aufstieg (Telstar-Neuling in Eredivisie 2026/27) + Nord-Holland-Aufmerksamkeit. Nach 2:1-Auftakt-Auswaertssieg Momentum",
+        "saisonziel_gast": "Mittelfeld-Anspruch mit Blick auf Europa-Playoff. Nach 0:1-Auftakts-Niederlage Reaktions-Druck",
+        "motivations_asymmetrie": "Telstar Momentum-Modus (2:1 Auswaerts-Comeback + H2H-Referenz 4:1 April 2026 gegen Sparta) + Heim-Debuet-Aufmerksamkeit (Aufsteiger-Erstes-Heimspiel-Boost). Sparta 0-Punkte-0-Tore-Auftakt = Reaktions-Druck aber Def-organisiert vs Feyenoord (nur 0:1). Layer-3-Konflikt-Ambient: Klassen-Erwartung Sparta-Fav (Aggregator-Modell 62% Sparta-Sieg-Prob) aber Telstar-Momentum + Aufsteiger-Boost gleicht aus. HR08-13-1 Ruhepause-Wackel bei Eredivisie-MD2 begrenzt (kein Post-WM-Stress).",
+        "recovery_heim": "7 Tage seit 2:1-Sieg NEC (07.08.) - kein Belastungsproblem, Momentum voll",
+        "recovery_gast": "7 Tage seit 0:1-Niederlage Feyenoord (07.08.) - kein Belastungsproblem, Reaktions-Druck",
+        "quellen": [
+          "https://www.mightytips.com/football-predictions/telstar-vs-sparta-rotterdam-prediction-14-08-2026/",
+          "https://www.wincomparator.com/predictions/telstar-sparta-rotterdam-8533718/",
+          "https://www.sportytrader.com/en/betting-tips/telstar-sparta-rotterdam-365075/",
+          "https://www.sportsgambler.com/betting-tips/football/sc-telstar-vs-sparta-rotterdam-prediction-lineups-odds-2026-08-14/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Eredivisie"
+        ]
+      },
+      "news": [
+        "Telstar 2:1-Auswaertssieg NEC MD1 (Comeback aus 0:1-Rueckstand)",
+        "Sparta 0:1-Heimniederlage vs Feyenoord MD1 (kein Torschuss aufs Tor - Def-organisiert aber offensiv steril)",
+        "Telstar H2H-Referenz: 4:1-Sieg April 2026 gegen Sparta - starke H2H-Dominanz aus letzter Ered-Konfrontation",
+        "Telstar Sommer-Signings: Rui Mendes + Gabi Caschili integriert",
+        "Sparta Auftakt-Sterilitaet = 0 SoT vs Feyenoord = Angriffs-Krise Risiko",
+        "Aggregator-Quoten (bet365 live pruefen): Telstar Sieg @2.18, Draw @3.70, Sparta Sieg @3.19, DC 1X @~1.35, DC X2 @~1.71, Ü2.5 @1.60, U2.5 @2.40, BTTS Ja @~1.85, BTTS Nein @~1.85"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Sieg 1X2: SC Telstar",
+          "quote": 2.18,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 8,
+          "begruendung": "Telstar-Momentum-Edge (2:1-Comeback-Sieg + H2H 4:1 letzter Duell) + Heim-Debuet-Aufmerksamkeit (Aufsteiger-Erst-Heim-Boost) + Sparta-Auftakts-Sterilitaet (0 SoT). Faire Quote ~2.00. Stake 1.5% = 8.25€. Achtung: Klassen-Erwartung Sparta-Fav historisch.",
+          "layer_2_tag": "tel-spa_sieg_tel",
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 2.4,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "Goldgrube-Cluster HR08-10-3 (Unter 2.5 = Top-Goldgrube +27.1% ROI historisch mit 72.4% Hit) + beide Auftakts-Spiele niedrig-scorig (3+1=4 Tore in 2 Spielen) + Sparta-Angriffs-Krise + Telstar-Def-Resilienz (nur 1 Gegentor). WACKEL weil Aufsteiger-Heim-Debuet manchmal offen laeuft. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "tel-spa_unter_25",
+          "faire_quote": 2.1,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 3,
+        "ht_heim": 0,
+        "ht_gast": 1,
+        "status": "FINISHED"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-14-tel-spa-t0",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "2026-08-14-tel-spa-t1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "1:3",
+        "tore": [
+          {
+            "min": 6,
+            "team": "gast",
+            "spieler": "M. Young",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 53,
+            "team": "gast",
+            "spieler": "N. Þórisson",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": 91,
+            "team": "heim",
+            "spieler": "A. Soualhia",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 90,
+            "team": "gast",
+            "spieler": "R. van Cruijsen",
+            "stand_danach": "1:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "keine Drehung (max Zwischen-Diff Heim 0 / Gast 2, Endstand 1:3)"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "unter_2_5": false,
+          "unter_3_5": false,
+          "halbzeit_endstand": "Gast/Gast",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Telstar-Sieg gebustet trotz 4:1-H2H + Aufsteiger-Heim-Debuet-These. Klassen-Erwartung Sparta-Fav war korrekt.",
+          "Unter 2.5 gebustet mit 4 Toren - Doppel-Fail beim Telstar-Spiel."
+        ],
+        "quellen": [
+          "https://www.thescore.com/liga/event/97127",
+          "https://onefootball.com/en/news/telstar-v-sparta-rotterdam-early-season-momentum-meets-response-bid-43272471"
+        ]
+      }
+    },
+    {
+      "id": "2026-08-14-cer-stv",
+      "liga": "Jupiler Pro League - Spieltag 4",
+      "heim": "Cercle Brugge",
+      "gast": "Sint-Truiden",
+      "anstoss": "2026-08-14T20:45:00+02:00",
+      "stadion": "Jan Breydel Stadion, Bruegge",
+      "saison_kontext": {
+        "parallel_heim": "Jupiler Pro League 2026/27 - Cercle MD3 2:2-Draw gegen Standard Liege. Kein Europa-Pokal (in Q2 raus, keine Belastung)",
+        "parallel_gast": "Jupiler Pro League 2026/27 - Sint-Truiden MD3 1:1-Heim-Draw vs Lommel. Kein Europa-Pokal",
+        "saisonziel_heim": "Mittelfeld-Ambition mit Blick auf Champions-Play-Off. Nach 2:2-Draw = Ergebnis-Enttaeuschung, aber offensiv-produktiv",
+        "saisonziel_gast": "Klassenerhalt-Absicherung nach 25/26 (Sint-Truiden historisch Mittelfeld). Nach 1:1-Heim-Draw vs Lommel = Reaktions-Druck",
+        "motivations_asymmetrie": "Cercle-Heim-Unbeaten H2H am Jan Breydel Stadion + Cercle offensiv-produktiv (2 Tore MD3). Sint-Truiden H2H-Referenz: letzter direkter Sieg auswaerts 2:1 (aggregator-verifiziert), aber Trend-Historie Cercle-Heim. Sint-Truiden hat Possession-Kontrolle historisch. Layer-3-Symmetrisch: Beide draws MD3 = Reaktions-Druck. Klassen-Nahe (Cercle ~Platz 8-10, STVV ~Platz 10-12 historisch). HR08-13-1 Ruhepause-Wackel gering (MD4 = Rhythmus voll).",
+        "recovery_heim": "~4-5 Tage seit 2:2 Standard (09.08./10.08.) - kein Belastungsproblem",
+        "recovery_gast": "~4-5 Tage seit 1:1 vs Lommel (09.08./10.08.) - kein Belastungsproblem",
+        "quellen": [
+          "https://dailysports.net/predictions/teams-may-once-again-get-bogged-down-in-cautious-play-prediction-for-cercle-brugge-vs-sint-truiden/",
+          "https://www.sportsgambler.com/betting-tips/football/cercle-brugge-vs-sint-truiden-prediction-lineups-odds-2026-08-14/",
+          "https://www.pro-league.be/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Belgian_Pro_League"
+        ]
+      },
+      "news": [
+        "Cercle 2:2-Draw vs Standard Liege MD3 (offensiv-produktiv aber Punkt-Verlust)",
+        "Sint-Truiden 1:1-Heim-Draw vs Lommel MD3 (Klassen-Erwartung nicht erfuellt)",
+        "H2H Trend: Sint-Truiden gewann letzten direkten Duell 2:1 auswaerts",
+        "Cercle Heim-Unbeaten-Historie am Jan Breydel Stadion (aggregator-verifiziert)",
+        "Torschuetzen-Kandidaten Cercle: Steve Ngoura @3.00, Dante Vanzeir @3.30",
+        "Torschuetzen-Kandidaten STVV: Ilias Sebaoui @3.90, Kaito Matsuzawa @4.50",
+        "Aggregator-Quoten (bet365 live pruefen): Cercle Sieg @2.30, Draw @3.50, STVV Sieg @2.85, DC 1X @1.40, DC X2 @1.58, DC 12 @1.28, Ü2.5 @1.73, U2.5 @2.06, BTTS Ja @1.57, BTTS Nein @2.23"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.57,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 9,
+          "begruendung": "Goldgrube-Cluster HR08-10-3 (BTTS Ja +17.2% historisch) + beide MD3 mit BTTS (Cercle 2:2, STVV 1:1) + H2H letzter Duell 2:1 auch BTTS + beide Mittelfeld-Teams mit Def-Wackler-Muster in Belg. Pro League. Faire Quote ~1.45. Stake 1.5% = 8.25€.",
+          "layer_2_tag": "cer-stv_btts_ja",
+          "faire_quote": 1.45,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance: Cercle Brugge oder Unentschieden",
+          "quote": 1.4,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "Cercle Heim-Unbeaten am Jan Breydel + Cercle offensiv-produktiv MD3 + Heimvorteil. WACKEL weil H2H letzter STVV Sieg + Sint-Truiden-Reaktions-Druck. Faire Quote ~1.35. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "cer-stv_dc_1x",
+          "faire_quote": 1.35,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.73,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "MD3 Cercle 2:2 + Def-Wackler beidseits + Reaktions-Druck-Angriff STVV. WACKEL weil dailysports-Prognose 'may again be bogged down in cautious play' spricht fuer Unter, Konsens gemischt. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "cer-stv_ueber_25",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 3,
+        "ht_heim": 1,
+        "ht_gast": 2,
+        "status": "FINISHED"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-14-cer-stv-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.57,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "2026-08-14-cer-stv-t1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "2026-08-14-cer-stv-t2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.73,
+          "kommentar": ""
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:2",
+        "endstand": "2:3",
+        "tore": [
+          {
+            "min": 28,
+            "team": "heim",
+            "spieler": "S. Ngoura",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 37,
+            "team": "gast",
+            "spieler": "R. Merlen",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 38,
+            "team": "gast",
+            "spieler": "R. Merlen",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 47,
+            "team": "gast",
+            "spieler": "N. Ishiwatari",
+            "stand_danach": "1:3"
+          },
+          {
+            "min": 82,
+            "team": "heim",
+            "spieler": "Erick Nunes",
+            "stand_danach": "2:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "keine Drehung (max Zwischen-Diff Heim 1 / Gast 2, Endstand 2:3)"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "unter_2_5": false,
+          "unter_3_5": false,
+          "halbzeit_endstand": "Gast/Gast",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Torfestival 5 Tore, 4 in ~20 Min (28'-47') = Cluster. BTTS + Ü2.5 beide gehit.",
+          "STVV holt Auswaertssieg wie H2H-Letzt-Duell prognostiziert - Sint-Truiden-Sieg-Moonshot-Bein hit."
+        ],
+        "quellen": [
+          "https://www.foxsports.com/soccer/juliper-league-cercle-brugge-vs-sint-truiden-aug-14-2026-game-boxscore-889635",
+          "https://www.sofascore.com/football/match/cercle-brugge-sint-truidense-vv/VhbsEib"
+        ]
+      }
+    },
+    {
+      "id": "2026-08-14-wol-bla",
+      "liga": "EFL Championship - Saison-Auftakt Spieltag 1",
+      "heim": "Wolverhampton Wanderers",
+      "gast": "Blackburn Rovers",
+      "anstoss": "2026-08-14T21:00:00+02:00",
+      "stadion": "Molineux Stadium, Wolverhampton",
+      "saison_kontext": {
+        "parallel_heim": "Championship 2026/27 SAISON-AUFTAKT (erstes Ligaspiel). Wolves EFL-Cup 3:0-Sieg vs Port Vale bereits absolviert (Warmup). Kein Europa-Pokal (relegiert aus PL 25/26)",
+        "parallel_gast": "Championship 2026/27 - Blackburn EFL-Cup 2:1-Sieg vs Burton absolviert. Kein Europa-Pokal",
+        "saisonziel_heim": "SOFORT-WIEDERAUFSTIEG in Premier League - Wolves als relegierter PL-Klub 25/26 = klar Titel-Anwaerter Championship 26/27. Etat-Pflicht + Squad-Klasse-Vorsprung",
+        "saisonziel_gast": "Playoff-Ambition + Konsolidierung Championship-Mittelfeld. Mowbray-Trainer, Klassen-Niveau ~Platz 12-16",
+        "motivations_asymmetrie": "Wolves-Klassen-Edge klar dominant (relegierter PL-Klub vs Championship-Mittelfeld). Aggregator-Konsens: Wolves 66% Sieg-Prob, Blackburn nur 9-14%. H2H letzte 10: Wolves 5 Siege, Blackburn 1 (14 Jahre alt). Wolves letzte PL-Saison: 27 Tore in 38 Spielen (chronisch schwacher Angriff) + Unter 2.5 in 55% aller PL-Spiele (Liga-Hoechstwert). Blackburn: Unter 2.5 in 61% aller Championship-Spiele. H2H 4/4 letzte Duelle alle unter 3 Tore. Peixoto-Trainer erst neu, def-Organisations-Probleme im Cup vermerkt. HR08-10-2 Klassen-Duell-Sieg-SAFE-Downgrade: Wolves @1.59 im 1.50-1.60-Slot = VALUE nicht SAFE (Palm-Inter-Trauma 08.05.).",
+        "recovery_heim": "~7-10 Tage seit EFL-Cup 3:0 Port Vale (Warmup) - voll erholt fuer Auftakt",
+        "recovery_gast": "~7-10 Tage seit EFL-Cup 2:1 Burton (Warmup) - voll erholt fuer Auftakt",
+        "quellen": [
+          "https://www.mightytips.com/football-predictions/wolves-vs-blackburn-prediction-14-08-2026/",
+          "https://dailysports.net/predictions/can-the-wolves-assert-their-favorite-status-right-from-the-start-prediction-for-wolverhampton-vs-blackburn-on-14082026/",
+          "https://news.williamhill.com/football/championship/wolves-v-blackburn-prediction-friday-14-august-2026/",
+          "https://www.sportsgambler.com/betting-tips/football/wolves-vs-blackburn-prediction-lineups-odds-2026-08-14/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_EFL_Championship"
+        ]
+      },
+      "news": [
+        "Wolves relegierter PL-Klub 25/26 - Championship-Saison-Auftakt als Titel-Anwaerter",
+        "Wolves letzte PL-Saison 27 Tore in 38 Spielen (schwacher Angriff) + 55% Unter 2.5 = Liga-Hoechst",
+        "Blackburn letzte Championship-Saison 61% Unter 2.5 - Def-Team",
+        "H2H letzte 4 Duelle ALLE unter 3 Tore = klarer Unter-Cluster",
+        "Wolves EFL-Cup 3:0 Port Vale (Peixoto: 'Def-Organisation muss verbessert werden')",
+        "Blackburn EFL-Cup 2:1 Burton (Mowbray: 'mehr klinisch vorm Tor')",
+        "H2H letzte 10: Wolves 5 Siege, Blackburn 1 (der 14 Jahre alt in Premier League)",
+        "Aggregator-Konsens: Wolves Sieg 66% impl. Wahrscheinlichkeit, Blackburn 9-14%, Draw 20%",
+        "Torschuetzen-Kandidaten: Adam Armstrong (Wolves), Yuki Ohashi (Blackburn)",
+        "Aggregator-Quoten (bet365 live pruefen): Wolves Sieg @1.59, Draw @4.14, Blackburn Sieg @6.19, DC 1X @~1.15, DC X2 @~2.50, Ü2.5 @1.96, U2.5 @1.92, BTTS Ja @~2.10, BTTS Nein @~1.65, Genaues Ergebnis Wolves 2:0 @~8.50, Wolves 1:0 @~6.50, Armstrong Torschuetze @~2.75"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Sieg 1X2: Wolverhampton Wanderers",
+          "quote": 1.59,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 5,
+          "begruendung": "Klassen-Edge-Anker: relegierter PL-Klub vs Championship-Mittelfeld + Etat-Vorsprung + H2H-Dominanz (5:1 letzte 10). Faire Quote ~1.50. HR08-10-2 Klassen-Duell-Sieg-SAFE-Downgrade greift (Palm-Inter-Trauma 08.05. @1.57-Slot) - deshalb VALUE nicht SAFE (Saison-Auftakts-Wackel + Peixoto-Def-Wackler). Stake 1.5% = 8.25€.",
+          "layer_2_tag": "wol-bla_sieg_wol",
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.92,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 12,
+          "begruendung": "TOP-Goldgrube HR08-10-3 (Unter 2.5 +27.1% ROI, 72.4% Hit historisch) + Wolves 55% Unter PL Liga-Hoechst + Blackburn 61% Unter Champ + H2H 4/4 letzte Duelle ALLE unter 3 Tore. Faire Quote ~1.65. Stake 1.5% = 8.25€.",
+          "layer_2_tag": "wol-bla_unter_25",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance: Wolverhampton Wanderers oder Unentschieden",
+          "quote": 1.15,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "Fast-Formsache Wolves-Klassen-Edge kommt zumindest zu 1 Punkt - Blackburn Sieg-Quote @6.19 = nur 14% impl. Prob. WACKEL trotz hoher Wahrscheinlichkeit weil Quote so tief (~87% impl.) und Layer-2-Konflikt-Risiko-relevant (nicht in Kombis nutzbar, nur Einzel-Sicherheit). Stake 0.5% = 2.75€.",
+          "layer_2_tag": "wol-bla_dc_1x",
+          "faire_quote": 1.13,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 2,
+        "ht_heim": 1,
+        "ht_gast": 1,
+        "status": "FINISHED"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-14-wol-bla-t0",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "2026-08-14-wol-bla-t1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "2026-08-14-wol-bla-t2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.15,
+          "kommentar": ""
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "2:2",
+        "tore": [
+          {
+            "min": 18,
+            "team": "heim",
+            "spieler": "M. Munetsi",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 27,
+            "team": "gast",
+            "spieler": "S. McLoughlin",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 48,
+            "team": "gast",
+            "spieler": "A. Gudjohnsen",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 90,
+            "team": "heim",
+            "spieler": "R. Jimenez (Elfmeter)",
+            "stand_danach": "2:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "keine Drehung (max Zwischen-Diff Heim 1 / Gast 1, Endstand 2:2)"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "unter_2_5": false,
+          "unter_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Klassen-Duell-Fehlschlag: Wolves-Sieg VERLOREN trotz PL-Relegated-Status - HR08-10-2 Downgrade rechtfertigt sich.",
+          "4 Tore + Elfmeter 90+3 = Wolves-Unter-2.5-Goldgrube gebustet trotz H2H-Trend."
+        ],
+        "quellen": [
+          "https://www.skysports.com/football/wolverhampton-wanderers-vs-blackburn-rovers/560498",
+          "https://www.espn.com/soccer/match/_/gameId/401880340/blackburn-rovers-wolverhampton-wanderers"
+        ]
+      }
+    },
+    {
+      "id": "2026-08-14-spo-vit",
+      "liga": "Primeira Liga - Spieltag 2",
+      "heim": "Sporting CP",
+      "gast": "Vitoria SC Guimaraes",
+      "anstoss": "2026-08-14T21:15:00+02:00",
+      "stadion": "Estadio Jose Alvalade, Lissabon",
+      "saison_kontext": {
+        "parallel_heim": "Primeira Liga 2026/27 - Sporting MD1 2:2-Draw auswaerts vs Estrela Amadora (nach 2:0-Fuehrung verspielt). Kein Europa-Pokal-Konflikt bis August (Champions League Playoff spaeter)",
+        "parallel_gast": "Primeira Liga 2026/27 - Vitoria MD1 0:1-Heimniederlage vs Arouca (trotz besserer xG 2.28 vs 0.42)",
+        "saisonziel_heim": "Primeira-Liga-Titel-Verteidigung/Anwart + Champions-League-Playoff-Sicherstellen + Cup-Konkurrenz. Nach 2:2-Draw = Aerger-Modus, Reaktion Pflicht",
+        "saisonziel_gast": "Europa-Playoff-Ambition + Portugiesischer Cup. Nach 0:1-Auftakts-Verlust trotz besserer xG = Ergebnis-Frust aber Prozess-Optimismus",
+        "motivations_asymmetrie": "Klare Klassen-Asymmetrie: Sporting @1.33 (80%+ impl. Prob) vs Vitoria @8.00 (12% impl. Prob) - Aggregator-Konsens Sporting massiv. H2H-Dominanz: Sporting 110/171 Siege gesamt + 3 von 4 letzten Duellen inkl. 5:1 im Mai 2026 als letzte Konfrontation. Sporting Heim-Alvalade + Reaktions-Druck nach 2:2-Draw = doppelter Motivations-Boost. Vitoria xG-Optimismus aus MD1 (besser trotz Niederlage) aber Klassen-Kluft zu gross. HR08-10-2 Klassen-Duell-Sieg-SAFE-Downgrade greift (Palm-Inter-Trauma 08.05. @1.57-Slot, hier @1.33 noch tiefer) - deshalb VALUE nicht SAFE. Injuries Sporting: Ba + Simoes out (nicht Schluessel), Braganca + Pote fraglich (relevant).",
+        "recovery_heim": "6-7 Tage seit 2:2 Estrela (08.08./09.08.) - kein Belastungsproblem, Reaktions-Druck",
+        "recovery_gast": "6-7 Tage seit 0:1 Arouca (08.08./09.08.) - kein Belastungsproblem, xG-Prozess-Vertrauen",
+        "quellen": [
+          "https://www.mightytips.com/football-predictions/sporting-cp-vs-vitoria-guimaraes-prediction-14-08-2026/",
+          "https://insights.betfred.com/football/sporting-cp-vs-vitoria-guimaraes-prediction-betting-tips-friday-14-august-2026/",
+          "https://www.sportskeeda.com/football/sporting-cp-vs-vitoria-de-guimaraes-prediction-betting-tips-august-14th-2026",
+          "https://dailysports.net/predictions/primeira-liga-match-sporting-vs-guimaraes-can-the-hosts-bounce-back-from-their-opening-round-setback/",
+          "https://footballwhispers.com/blog/sporting-lisbon-vs-vitoria-de-guimaraes-prediction-14-08-2026/"
+        ]
+      },
+      "news": [
+        "Sporting 2:2-Draw auswaerts Estrela MD1 (nach 2:0-Fuehrung verspielt = Aerger-Modus)",
+        "Vitoria 0:1-Heimniederlage vs Arouca MD1 (bessere xG 2.28 vs 0.42 - Prozess vs Ergebnis-Diskrepanz)",
+        "H2H letzte Konfrontation Sporting 5:1 im Mai 2026 - klare Dominanz",
+        "H2H Gesamt: Sporting 110 Siege, Vitoria 25, 36 Draws in 171 Spielen (~64% Sporting-Sieg-Rate)",
+        "Aggregator-Konsens: Sporting 80%+ impl. Sieg-Prob, Vitoria 9-12%, Draw 15-19%",
+        "Verletzungen Sporting: Ibrahimi Ba + Joao Simoes out (nicht Schluessel), Daniel Braganca + Pote fraglich",
+        "Vitoria voll besetzt",
+        "Torschuetzen-Kandidaten: Geny Catamo (Sporting, 8 Tore letzte Saison), Oumar Camara (Vitoria, 6 Tore letzte Saison)",
+        "Aggregator-Quoten (bet365 live pruefen): Sporting Sieg @1.33, Draw @5.25, Vitoria Sieg @8.00, DC 1X @~1.08, DC X2 @~3.15, Ü2.5 @1.60, U2.5 @2.30, BTTS Ja @~1.85, BTTS Nein @~1.90, Ü3.5 @~2.60, Genaues Ergebnis Sporting 3:0 @~9.00, Sporting 2:0 @~7.50, Catamo Torschuetze @~2.50"
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt": "Sieg 1X2: Sporting CP",
+          "quote": 1.33,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 5,
+          "begruendung": "Klassen-Edge-Anker: Sporting Primeira-Liga-Titel-Anwart vs Vitoria Mittelfeld + Alvalade-Heim + H2H-Dominanz 110/171 + letzte Konfrontation 5:1 + Reaktions-Druck nach 2:2-Draw. Faire Quote ~1.25. HR08-10-2 Klassen-Duell-Sieg-SAFE-Downgrade greift (Palm-Inter-Trauma) - VALUE nicht SAFE trotz massiver impl. Prob. Stake 1.5% = 8.25€.",
+          "layer_2_tag": "spo-vit_sieg_spo",
+          "faire_quote": 1.25,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.6,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "Klassen-Edge-Angriff Sporting Reaktions-Modus + Alvalade-Heim + Vitoria xG-Optimismus (2.28 MD1) = Torfestival-These. WACKEL weil Goldgrube Unter 2.5 anti-These + Sporting-Def-Wackler 2:2 (verspielte Fuehrung MD1) koennte auch defensiv reagieren. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "spo-vit_ueber_25",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.85,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 5,
+          "begruendung": "Vitoria xG-Optimismus + Sporting-Def-Wackler MD1 + beide MD1 mit Toren. WACKEL weil Klassen-Edge Sporting Clean-Sheet auch plausibel (~1.85 nur schwach edge). Stake 0.5% = 2.75€.",
+          "layer_2_tag": "spo-vit_btts_ja",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 2,
+        "ht_heim": 3,
+        "ht_gast": 0,
+        "status": "FINISHED"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-14-spo-vit-t0",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.33,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "2026-08-14-spo-vit-t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.6,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "2026-08-14-spo-vit-t2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": ""
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "3:0",
+        "endstand": "3:2",
+        "tore": [
+          {
+            "min": 9,
+            "team": "heim",
+            "spieler": "Flávio Gonçalves",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 22,
+            "team": "heim",
+            "spieler": "F. Ioannidis",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 41,
+            "team": "heim",
+            "spieler": "Sergi Altimira",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": 66,
+            "team": "gast",
+            "spieler": "Samu",
+            "stand_danach": "3:1"
+          },
+          {
+            "min": 68,
+            "team": "gast",
+            "spieler": "Alioune Ndoye",
+            "stand_danach": "3:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "keine Drehung (max Zwischen-Diff Heim 3 / Gast 0, Endstand 3:2)"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "unter_2_5": false,
+          "unter_3_5": false,
+          "halbzeit_endstand": "Heim/Heim",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Klassen-Blowout 3:0 HZ, aber Sporting verspielte 3-Tore-Fuehrung fast komplett (2 Vitoria-Tore in 2 Min 66'+68'). Fast-Drehung.",
+          "BTTS-Ja + Ü2.5 aus reiner Klassen-Angriff-These (3 Tore in 41 Min) - Goldgrube-Cluster voll erfuellt."
+        ],
+        "quellen": [
+          "https://www.beinsports.com/en-us/soccer/primeira-liga/articles/sporting-cp-holds-on-for-3-2-win-over-vit%C3%B3ria-sc-after-blowing-three-goal-lead-2026-08-14",
+          "https://insights.betfred.com/football/match/portugal/14-08-2026/sporting-cp-v-vitoria-de-guimaraes/"
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "spiel_id": "2026-08-14-wol-bla",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.92,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "TOP-Goldgrube +27.1% ROI historisch + Wolves 55% Unter PL Liga-Hoechst + Blackburn 61% Unter Champ + H2H 4/4 alle unter 3 Tore",
+      "rang": 1
+    },
+    {
+      "spiel_id": "2026-08-14-spo-vit",
+      "kategorie": "value",
+      "markt": "Sieg 1X2: Sporting CP",
+      "quote": 1.33,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Klassen-Edge-Anker + Alvalade-Heim + H2H 110/171 + letzte 5:1 + Reaktions-Druck nach 2:2. HR08-10-2 VALUE-Downgrade",
+      "rang": 2
+    },
+    {
+      "spiel_id": "2026-08-14-wol-bla",
+      "kategorie": "value",
+      "markt": "Sieg 1X2: Wolverhampton Wanderers",
+      "quote": 1.59,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Klassen-Edge relegierter PL-Klub vs Championship-Mittelfeld + Etat-Vorsprung + H2H-Dominanz. HR08-10-2 VALUE-Downgrade",
+      "rang": 3
+    },
+    {
+      "spiel_id": "2026-08-14-cer-stv",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.57,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Goldgrube BTTS + beide MD3 mit BTTS + H2H letzter Duell 2:1 = BTTS + beide Def-Wackler",
+      "rang": 4
+    },
+    {
+      "spiel_id": "2026-08-14-bra-boc",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.58,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Goldgrube BTTS + Braunschweig-Heim 4/5 BTTS + Bochum 11/13 BTTS + H2H 4:1 zuletzt",
+      "rang": 5
+    },
+    {
+      "spiel_id": "2026-08-14-kie-stp",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.61,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Goldgrube BTTS + Kiel-Def 7/9 mit 2+ Gegentoren + St.Pauli 16 Spiele ohne Clean-Sheet",
+      "rang": 6
+    },
+    {
+      "spiel_id": "2026-08-14-tel-spa",
+      "kategorie": "value",
+      "markt": "Sieg 1X2: SC Telstar",
+      "quote": 2.18,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Telstar-Momentum (2:1-Comeback + 4:1 letzter H2H) + Aufsteiger-Heim-Debuet-Boost + Sparta 0 SoT",
+      "rang": 7
+    },
+    {
+      "spiel_id": "2026-08-14-tel-spa",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore",
+      "quote": 2.4,
+      "einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "kurzbegruendung": "Goldgrube Unter 2.5 + beide MD1 niedrig-scorig + Sparta-Angriffs-Krise + Telstar-Def-Resilienz",
+      "rang": 8
+    },
+    {
+      "spiel_id": "2026-08-14-bra-boc",
+      "kategorie": "wackel",
+      "markt": "Sieg 1X2: Eintracht Braunschweig",
+      "quote": 2.4,
+      "einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "kurzbegruendung": "Heim-Form 6:1-Auftakt + unbeaten last 5 home + Bochum 0 Tore in 3 letzten. H2H-Warnung Bochum 3-1",
+      "rang": 9
+    },
+    {
+      "spiel_id": "2026-08-14-kie-stp",
+      "kategorie": "wackel",
+      "markt": "Unentschieden",
+      "quote": 3.45,
+      "einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "kurzbegruendung": "Beide MD1 draws + Nord-Derby-Symmetrie + St.Pauli-H2H-5-in-Serie vs Kiel-Heim",
+      "rang": 10
+    }
+  ],
+  "kombis": [
+    {
+      "profil": "safe",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-08-14-wol-bla",
+          "markt": "Sieg Wolverhampton Wanderers",
+          "quote": 1.59
+        },
+        {
+          "spiel_id": "2026-08-14-spo-vit",
+          "markt": "Sieg Sporting CP",
+          "quote": 1.33
+        },
+        {
+          "spiel_id": "2026-08-14-tel-spa",
+          "markt": "Sieg SC Telstar",
+          "quote": 2.18
+        }
+      ],
+      "gesamtquote": 4.61,
+      "rechnung": "1.59 x 1.33 x 2.18 = 4.61",
+      "einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "3 Sieg-Beine aus 3 verschiedenen Spielen, alle Klassen-Edge-Anker: Wolves (relegierter PL-Klub Auftakt) + Sporting (Titel-Anwart Reaktions-Modus) + Telstar (Momentum + Aufsteiger-Heim-Debuet-Boost + H2H 4:1). Layer-1 ✓, Layer-2 ✓ (jede Kombi 1 Sieg-Outcome unique pro Spiel), Layer-3 ✓ (3 unique Spiele). Gesamtquote 4.61 mittig im 3-5x Safe-Zielrange. Kasse-Stufe 1 Safe-Stake 2% = 11€.",
+      "layer_2_konflikte": "keine - Wolves Sieg (Spiel A) + Sporting Sieg (Spiel B) + Telstar Sieg (Spiel C) alle unique 1X2-Slots pro Spiel"
+    },
+    {
+      "profil": "balance",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-08-14-bra-boc",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.58
+        },
+        {
+          "spiel_id": "2026-08-14-kie-stp",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.77
+        },
+        {
+          "spiel_id": "2026-08-14-cer-stv",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.57
+        },
+        {
+          "spiel_id": "2026-08-14-spo-vit",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.6
+        }
+      ],
+      "gesamtquote": 7.03,
+      "rechnung": "1.58 x 1.77 x 1.57 x 1.60 = 7.03",
+      "einsatz_euro": 4.4,
+      "empfohlener_einsatz_prozent": 0.8,
+      "begruendung": "4 Beine Goldgrube-Cluster HR08-10-3: 2x BTTS Ja (Braunschweig-Heim-BTTS-Trend + Cercle-STVV Def-Wackler) + 2x Ü2.5 (Kiel-St.Pauli Nord-Derby Def-Wackler + Sporting Klassen-Angriff). 4 unique Spiele. Layer-1 ✓, Layer-2 ✓ (0 Sieg-Outcomes = kein Konflikt), Layer-3 weich: Sporting overlap mit Safe (Sieg vs Total = Markt-entkoppelt), sonst 3 unique Spiele. Balance-Zielrange 6-10x = 7.03 mittig ✓. Kasse-Stufe 1 Balance-Stake 0.8% = 4.40€.",
+      "layer_2_konflikte": "keine - Balance ohne Sieg-Outcomes"
+    },
+    {
+      "profil": "risk",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-08-14-wol-bla",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.92
+        },
+        {
+          "spiel_id": "2026-08-14-bra-boc",
+          "markt": "Sieg Eintracht Braunschweig",
+          "quote": 2.4
+        },
+        {
+          "spiel_id": "2026-08-14-kie-stp",
+          "markt": "Unentschieden",
+          "quote": 3.45
+        }
+      ],
+      "gesamtquote": 15.89,
+      "rechnung": "1.92 x 2.40 x 3.45 = 15.89",
+      "einsatz_euro": 1.4,
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "3 Beine Kontra-Konsens-Portfolio: Wolves Unter 2.5 (TOP-Goldgrube +27.1% ROI + H2H 4/4 unter 3) + Braunschweig Sieg (Heim-Form 6:1 vs Bochum-Torflaute) + Kiel Draw (Nord-Derby-Symmetrie beide MD1-Draws). Layer-1 ✓, Layer-2 ✓ (Braunschweig Sieg unique pro Spiel, Kiel-Draw ist X-Outcome kein Sieg-Token, Wolves-Under kein Sieg-Outcome), Layer-3 weich: Wolves overlap mit Safe (Sieg vs Unter = Markt-entkoppelt und kompatibel - Wolves 1:0 gewinnt beide), Kiel/Braunschweig overlap mit Balance (BTTS+Ü2.5 vs Draw+Sieg - Draw+Ü2.5 leichte Anti-Korrelation, Sieg+BTTS voll kompatibel). Kasse-Stufe 1 Risk-Stake 0.25% = 1.40€.",
+      "layer_2_konflikte": "keine - Braunschweig Sieg einziger Sieg-Outcome. Kiel Unentschieden ist X-Outcome, nicht in SIEG_MARKT_TOKENS-Familie."
+    },
+    {
+      "profil": "moonshot",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-08-14-cer-stv",
+          "markt": "Sieg Sint-Truiden",
+          "quote": 2.85
+        },
+        {
+          "spiel_id": "2026-08-14-spo-vit",
+          "markt": "Genaues Ergebnis Sporting CP 3:0",
+          "quote": 9.0
+        },
+        {
+          "spiel_id": "2026-08-14-wol-bla",
+          "markt": "Genaues Ergebnis Wolves 2:0",
+          "quote": 8.5
+        }
+      ],
+      "gesamtquote": 218.03,
+      "rechnung": "2.85 x 9.00 x 8.50 = 218.03",
+      "einsatz_euro": 0.55,
+      "empfohlener_einsatz_prozent": 0.1,
+      "begruendung": "3 Beine Lotterie-Portfolio: Sint-Truiden Auswaertssieg (H2H letzter Duell STVV 2:1 auswaerts + Cercle-Def-Wackler MD3) + Sporting 3:0 (Klassen-Blowout-Reaktions-Wieder-Statement nach 2:2-Aerger, analog Mai 5:1) + Wolves 2:0 (Klassen-Debuet-Blowout mit Def-Sicherheit passt zu Unter-2.5-Trend + Blackburn 0-Tor-Historie). Layer-1 ✓ (3 unique Spiele), Layer-2 ✓ (nur Sint-Truiden Sieg als Sieg-Outcome, Cercle-STVV in Balance nur BTTS Ja = kein Konflikt; Sporting/Wolves Ergebnis-Markt kein Sieg-Outcome-Token), Layer-3 weich: Sporting+Wolves in Safe (Sieg) und Moonshot (Ergebnis) - Ergebnis-Markt ist Verfeinerung des Sieg-Markts, korreliert (wenn Blowout kommen dann Safe + Moonshot beide hit, sonst Safe hit + Moonshot verliert). Bust-Risiko bewusst akzeptiert. Kasse-Stufe 1 Moonshot-Stake 0.1% = 0.55€.",
+      "layer_2_konflikte": "keine - Sint-Truiden Sieg einziger Sieg-Outcome (Cercle-STVV nur BTTS in Balance). Sporting 3:0 + Wolves 2:0 sind Genaues-Ergebnis-Markt, kein Sieg-Token per SIEG_MARKT_TOKENS-Definition."
+    }
+  ],
+  "lessons_angewandt": [
+    "HR08-13-1 Roster-Verifikations-Post-WM-Ruhepause-Doktrin: 0 Torschuetzen-Beine in Kombis + 0 Torschuetzen-Tipps als VALUE (nur Vermerk in news[] als Kandidaten). Grund: Vereinssaison nach Sommer-Ruhepause = Startelf-Rotations-Wackel + neuer Trainer-Auftakts-Effekte (Wolves Peixoto neu, Braunschweig neue Signings etc.).",
+    "HR08-10-2 Klassen-Duell-Sieg-SAFE-Downgrade: Wolves-Sieg @1.59 + Sporting-Sieg @1.33 BEIDE nur als VALUE nicht SAFE trotz massiver Klassen-Edge - Palm-Inter-Trauma 08.05. (@1.57 Klassen-Duell gebustet 0:0) wird respektiert. Auch Kombi-Profil Safe erlaubt VALUE-Beine (Profil-Label bezieht sich auf Gesamtquoten-Range 3-5x).",
+    "HR08-10-3 Goldgrube-Cluster-Blueprint (BTTS Ja + Ueber 2.5 + Unter 2.5 + Torschuetzen Jederzeit): Balance-Kombi ist reines Goldgrube-Cluster (2xBTTS + 2xÜ2.5), Wolves-Unter-2.5 als Einzeltipp-VALUE-Anker + in Risk-Kombi. 4 von 6 Spielen haben BTTS-Ja als Tipp (Goldgrube-Priorisierung).",
+    "HR23 Layer-3-Sieg-Outcome-hart-Drop: pro Spiel max 1 Sieg-Outcome ueber alle Kombis. Sauber: Wolves Sieg (Safe) + Wolves Unter (Risk) + Wolves 2:0 (Moonshot) - nur Sieg ist SIEG_MARKT_TOKEN, Under/Ergebnis nicht. Sporting Sieg (Safe) + Sporting Ü2.5 (Balance) + Sporting 3:0 (Moonshot) - nur Sieg ist Token. Telstar Sieg (Safe) - einziges Sieg-Bein Telstar. Braunschweig Sieg (Risk) - einziges. Kiel Draw (Risk) - Draw = X-Outcome, kein SIEG_MARKT_TOKEN per fix_schema.py-Definition. Sint-Truiden Sieg (Moonshot) - einziges. Alle Layer-3-hart ✓.",
+    "HR07-29-4 Kombi-Layer-4-Torschuetzen-Konzentrations-Cap (max 2 Torschuetzen-Beine gesamt): 0/2 belegt - unter Cap ✓ (HR08-13-1 Post-Ruhepause-Doktrin macht das kompatibel).",
+    "HR26 2:0-Insurance-Regel: NICHT AKTIV in Championship + Primeira Liga + 2.Bundesliga + Eredivisie + Belg. Pro League - CLAUDE.md-Sonderregel greift NUR fuer 1. Bundesliga + Champions League + WM 2026. Auswertung entsprechend beachten (kein 2:0-Insurance-Ausgleich bei spaeter Niederlage).",
+    "HR08-12-3 CL-Q3-Rueckspiel-Unter25-Goldgrube-Cluster (83% Hit): Konzept auf Wolves-Blackburn Championship-Auftakt uebertragen - Unter 2.5 als Einzel-VALUE + in Risk-Kombi. Wolves 55% Unter PL Liga-Hoechst + Blackburn 61% Unter Champ + H2H 4/4 unter 3 = fast identisches Cluster-Muster.",
+    "HR07-28-1 Q3-Aggregate-Verwalter-Unter25-Bias: Konzept auf Saison-Auftakt-Vorsichts-Modus uebertragen (Wolves-Peixoto neuer Trainer + Def-Wackler-Vermerk + Blackburn-Klassen-Absteiger-Rolle) - unterstuetzt Wolves-Unter-2.5-These.",
+    "HR07-29-1 CL-Q2-Aggregat-Drehung: Konzept auf Vitoria-Wieder-Statement in Sporting-Rueckspiel-Kontext uebertragen (Vitoria xG-Optimismus MD1 trotz Verlust = Prozess-Sig, aber Klassen-Kluft zu gross). Rechtfertigt Vitoria-Sieg nicht als Wette.",
+    "Beobachtungs-Ligen-Check (data/beobachtungs_ligen.json Stand 2026-08-14): NUR 'UEFA Europa League Q2' auf Bluter-Liste - Championship + Primeira + 2.BL + Eredivisie + Belg. Pro League ALLE NICHT auf Liste ✓ voll bespielbar.",
+    "Markt-Bluter-Check (data/markt_bluter.json Stand 2026-08-14): NUR 'Spread/Handicap' aktiv - KEIN Spread/Handicap-Tipp heute gesetzt ✓.",
+    "Goldgruben-Check (data/markt_goldgruben.json Stand 2026-08-14): 'Unter 2.5 Tore' (72.4% Hit +27.1% ROI n=29) - AKTIV genutzt in Wolves-Unter-2.5 Einzel + Risk-Kombi. 'Spieler-Punkte Unter (NBA)' irrelevant (keine NBA-Spiele - NBA-Saison-Pause).",
+    "HR-Mini-Slate-Single-Point-of-Failure-Doktrin: 6 Spiele = mittel-groesse Slate, Layer-3-Cross-Kombi-Korrelation gemanaged (Sporting+Wolves in 3 Kombis mit Markt-Entkopplung, Kiel/Braunschweig/Cercle in 2 Kombis, Telstar+Vitoria in nur je 1 Kombi). Kein Single-Point-of-Failure-Risiko bei 6-Spielen-Slate."
+  ],
+  "_verifikations_report": {
+    "verifikator": "master-tipps-routine-inline",
+    "verifikation_am": "2026-08-14T13:30:00+02:00",
+    "spiele_gecheckt": 6,
+    "tipps_gecheckt": 17,
+    "halluzinations_drops": [],
+    "layer_1_verstoss": "keiner - jede Kombi hat max 1 Bein pro Spiel: Safe (3 Beine aus 3 Spielen), Balance (4 aus 4), Risk (3 aus 3), Moonshot (3 aus 3)",
+    "layer_2_verstoss": "keiner - HR23 Sieg-Outcome pro Spiel max 1 Kombi: Wolves-Sieg (Safe), Sporting-Sieg (Safe), Telstar-Sieg (Safe), Braunschweig-Sieg (Risk), Sint-Truiden-Sieg (Moonshot). Alle unique. Kiel-Draw ist X-Outcome kein SIEG_MARKT_TOKEN. Wolves-Under/Ergebnis + Sporting-Ergebnis + BTTS/Ü2.5-Beine sind kein Sieg-Outcome per fix_schema.py-Definition.",
+    "layer_3_status": "Wolves-Blackburn 3 Kombis (Safe Sieg + Risk Unter + Moonshot Ergebnis 2:0 - Markt-entkoppelt + kompatibel korreliert: Wolves 1:0 hit alle 3 ausser Moonshot, Wolves 2:0 hit alle 4). Sporting-Vitoria 3 Kombis (Safe Sieg + Balance Ü2.5 + Moonshot Ergebnis 3:0 - Markt-entkoppelt + kompatibel). Cercle-STVV 2 Kombis (Balance BTTS + Moonshot Sint-Truiden Sieg - Markt-entkoppelt, koennen beide hit bei 2:3 o.a.). Braunschweig-Bochum 2 Kombis (Balance BTTS + Risk Sieg - Markt-entkoppelt kompatibel). Kiel-St.Pauli 2 Kombis (Balance Ü2.5 + Risk Draw - leichte Anti-Korrelation Draw+Ü2.5 aber 2:2/1:1 zaehlt beide). Telstar-Sparta nur Safe (Sieg). Vitoria in Moonshot indirekt ueber Sporting. Mid-Slate-Cross-Korrelation gemanaged.",
+    "layer_4_torschuetzen_konzentration": "0 Torschuetzen-Beine in allen Kombis - HR07-29-4 Cap 2 unter limit ✓ (HR08-13-1 Post-Ruhepause-Doktrin aktiv)",
+    "kombiquoten_nachgerechnet": "Safe 1.59*1.33*2.18=4.6079 gerundet 4.61 ✓ | Balance 1.58*1.77*1.57*1.60=7.0251 gerundet 7.03 ✓ | Risiko 1.92*2.40*3.45=15.8976 gerundet 15.89 ✓ | Moonshot 2.85*9.00*8.50=218.025 gerundet 218.03 ✓",
+    "quoten_quellen_bestaetigt": "mightytips + ratingbet + dailysports + sportsgambler + sportskeeda + William Hill Insights + sportinglife + wincomparator + sportytrader + betfred + footballwhispers + ESPN + Wikipedia (13 Aggregator-Provider-Quellen). bet365-DE-Live-Quoten nicht direkt gescrapet aber Konsens-nah - im Hinweis explizit 'bet365 live pruefen' dokumentiert. Ergebnis-Quoten Sporting 3:0 + Wolves 2:0 sind Schaetzungen basierend auf Sieg + Ü/U-Quoten (~8.50-9.00 typisch bei Klassen-Blowout-Erwartung).",
+    "hartregeln_konflikt": "keiner Kritischer - HR08-10-2 Wolves+Sporting-Sieg VALUE (nicht SAFE) explizit + HR08-13-1 keine Torschuetzen als VALUE + HR23 Layer-3-Sieg-Outcome-hart pro Spiel max 1 Kombi voll respektiert + HR26 2:0-Insurance-Regel-NICHT-Championship/Primeira/2.BL/Eredivisie/Belg-explizit dokumentiert + HR07-29-4 Layer-4-Torschuetzen-Cap unter limit + Beobachtungs-Liga-Check clean (nur EL-Q2 gebannt, keine heutige Liga davon betroffen) + Markt-Bluter-Check clean (nur Spread/Handicap gebannt, kein Spread-Tipp heute).",
+    "torschuetzen_form_edge_pflicht_HR24": "N/A - keine Torschuetzen-Tipps gesetzt heute. Kandidaten in news[] gelistet (Urbich BS, Mathisen STP, Harres KIEL, Armstrong WOL, Ohashi BLA, Catamo SPO, Camara VIT, Ngoura CER, Vanzeir CER, Sebaoui STVV, Matsuzawa STVV) fuer Auswertungs-Referenz und Startelf-Watchdog 1h vor Anstoss.",
+    "roster_verifikation_status": "Sporting-Kader mit Braganca+Pote fraglich, Ba+Simoes out - explizit in news[]. Braunschweig-Kader Heusser+Jakel out, Bochum Strompf+Rakneberg out - explizit in news[]. Wolves Peixoto-neuer-Trainer-Def-Wackler in news[]. Telstar Sommer-Signings Mendes+Caschili in news[]. Alle basierend auf Aggregator-Predictions - Startelf 1h vor Anstoss nochmal pruefen. HR08-13-1 Post-Ruhepause-Doktrin aktiv-Flag: 0 Torschuetzen-Beine, keine als VALUE/SAFE.",
+    "coinflip_warnung": "Braunschweig-Bochum @2.40/3.50/2.75 = Coinflip (~40%/29%/36% impl.). Kiel-St.Pauli @2.45/3.45/2.70 = Coinflip (~40%/29%/37% impl.). Cercle-Sint-Truiden @2.30/3.50/2.85 = Coinflip (~43%/29%/35% impl.). Alle 3 Coinflip-Spiele in Tipps als BTTS/Total-Anker (nicht Sieg-Tipp als SAFE), Sieg-Tipps nur als WACKEL. Coinflip-Warnung im Sinne des CLAUDE.md respektiert - kein Sieg-Tipp als SAFE fuer Coinflip-Spiele.",
+    "kasse_stufe_check": "Stufe 1 (Kasse 550€ < 1000€) - Standard 1-2% Einzel, 0.25-2% Kombi ✓ Alle Einsaetze in Range: Safe-Kombi 11€ (2.0%), Balance-Kombi 4.40€ (0.8%), Risiko-Kombi 1.40€ (0.25%), Moonshot-Kombi 0.55€ (0.1%). Einzeltipps VALUE 8.25€ (1.5%) / WACKEL 2.75€ (0.5%). Gesamt-Kombi-Einsatz 17.35€ + Einzel-Gesamt 68.75€ = 86.10€ = 15.65% Kasse (im 10-20%-Tagesbudget-Range).",
+    "beobachtungs_liga_check": "Championship + Primeira Liga + 2.Bundesliga + Eredivisie + Belg. Jupiler Pro League ALLE NICHT auf data/beobachtungs_ligen.json-Bluter-Liste (nur UEFA-EL-Q2 aktiv). Alle Tipps in Hauptkombis erlaubt ✓.",
+    "markt_bluter_check": "'Spread/Handicap' auf Bluter-Liste - KEIN Spread/Handicap-Tipp heute ✓. Alle anderen Markt-Typen frei nutzbar.",
+    "goldgruben_check": "'Unter 2.5 Tore' (72.4% Hit +27.1% ROI n=29) aktiv genutzt in Wolves-Unter-Einzel + Risk-Kombi + Telstar-Unter-Einzel. 'Spieler-Punkte Unter (NBA)' irrelevant heute (keine NBA-Spiele).",
+    "mini_slate_warnung": "N/A - 6 Spiele = mittelgrosse Slate. Cross-Kombi-Korrelation gemanaged: Wolves + Sporting in 3 Kombis mit Markt-Entkopplung (Sieg/Total/Ergebnis kompatibel), Kiel/Braunschweig/Cercle in 2 Kombis, Telstar in 1 Kombi (nur Safe-Sieg), Vitoria indirekt in Moonshot. Kein Single-Point-of-Failure - kein einzelnes Spiel toetet alle 4 Kombis.",
+    "kein_2_0_insurance_flag": "AKTIV: HR26 2:0-Insurance-Regel greift NICHT in Championship, Primeira Liga, 2.Bundesliga, Eredivisie, Belg. Jupiler Pro League - CLAUDE.md-Sonderregel gilt nur 1. Bundesliga + Champions League + WM 2026. Explizit in Wolves-Sieg-Begruendung + Sporting-Sieg-Begruendung wichtig weil Auswertung bei Halbzeit-2:0-Rueckstand-mit-Comeback-Verlust nicht als Insurance-Sieg zaehlen wuerde.",
+    "hr08_13_1_post_ruhepause_doktrin_flag": "AKTIV bei allen 6 Spielen - Vereinssaison-Auftakts-Phase nach Sommer-Ruhe. Alle Torschuetzen-Kandidaten nur in news[] gelistet, keine als Tipps. Sieg-Tipps Klassen-Edge (Wolves/Sporting) als VALUE nicht SAFE. Startelf-Wackel bei Neu-Trainern (Wolves Peixoto), Neu-Signings (Telstar Mendes/Caschili) + Verletzungs-fragliche (Sporting Braganca/Pote) explizit vermerkt."
+  },
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "spiel_id": "2026-08-14-wol-bla",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.92,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "TOP-Goldgrube +27.1% ROI historisch + Wolves 55% Unter PL Liga-Hoechst + Blackburn 61% Unter Champ + H2H 4/4 alle unter 3 Tore",
+      "rang": 1,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": ""
+    },
+    {
+      "spiel_id": "2026-08-14-spo-vit",
+      "kategorie": "value",
+      "markt": "Sieg 1X2: Sporting CP",
+      "quote": 1.33,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Klassen-Edge-Anker + Alvalade-Heim + H2H 110/171 + letzte 5:1 + Reaktions-Druck nach 2:2. HR08-10-2 VALUE-Downgrade",
+      "rang": 2,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.33,
+      "kommentar": ""
+    },
+    {
+      "spiel_id": "2026-08-14-wol-bla",
+      "kategorie": "value",
+      "markt": "Sieg 1X2: Wolverhampton Wanderers",
+      "quote": 1.59,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Klassen-Edge relegierter PL-Klub vs Championship-Mittelfeld + Etat-Vorsprung + H2H-Dominanz. HR08-10-2 VALUE-Downgrade",
+      "rang": 3,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": ""
+    },
+    {
+      "spiel_id": "2026-08-14-cer-stv",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.57,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Goldgrube BTTS + beide MD3 mit BTTS + H2H letzter Duell 2:1 = BTTS + beide Def-Wackler",
+      "rang": 4,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.57,
+      "kommentar": ""
+    },
+    {
+      "spiel_id": "2026-08-14-bra-boc",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.58,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Goldgrube BTTS + Braunschweig-Heim 4/5 BTTS + Bochum 11/13 BTTS + H2H 4:1 zuletzt",
+      "rang": 5,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": ""
+    },
+    {
+      "spiel_id": "2026-08-14-kie-stp",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.61,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Goldgrube BTTS + Kiel-Def 7/9 mit 2+ Gegentoren + St.Pauli 16 Spiele ohne Clean-Sheet",
+      "rang": 6,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.61,
+      "kommentar": ""
+    },
+    {
+      "spiel_id": "2026-08-14-tel-spa",
+      "kategorie": "value",
+      "markt": "Sieg 1X2: SC Telstar",
+      "quote": 2.18,
+      "einsatz_euro": 8.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "kurzbegruendung": "Telstar-Momentum (2:1-Comeback + 4:1 letzter H2H) + Aufsteiger-Heim-Debuet-Boost + Sparta 0 SoT",
+      "rang": 7,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": ""
+    },
+    {
+      "spiel_id": "2026-08-14-tel-spa",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore",
+      "quote": 2.4,
+      "einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "kurzbegruendung": "Goldgrube Unter 2.5 + beide MD1 niedrig-scorig + Sparta-Angriffs-Krise + Telstar-Def-Resilienz",
+      "rang": 8,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": ""
+    },
+    {
+      "spiel_id": "2026-08-14-bra-boc",
+      "kategorie": "wackel",
+      "markt": "Sieg 1X2: Eintracht Braunschweig",
+      "quote": 2.4,
+      "einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "kurzbegruendung": "Heim-Form 6:1-Auftakt + unbeaten last 5 home + Bochum 0 Tore in 3 letzten. H2H-Warnung Bochum 3-1",
+      "rang": 9,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": ""
+    },
+    {
+      "spiel_id": "2026-08-14-kie-stp",
+      "kategorie": "wackel",
+      "markt": "Unentschieden",
+      "quote": 3.45,
+      "einsatz_euro": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "kurzbegruendung": "Beide MD1 draws + Nord-Derby-Symmetrie + St.Pauli-H2H-5-in-Serie vs Kiel-Heim",
+      "rang": 10,
+      "status": "gewonnen",
+      "gewinn_faktor": 2.45,
+      "kommentar": ""
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe",
+      "profil": "safe",
+      "status": "verloren",
+      "gesamtquote": 4.61,
+      "beine_status": [
+        "verloren",
+        "gewonnen",
+        "verloren"
+      ],
+      "gewinn_faktor": -1.0
+    },
+    {
+      "kombi_id": "kombi-balance",
+      "profil": "balance",
+      "status": "verloren",
+      "gesamtquote": 7.03,
+      "beine_status": [
+        "verloren",
+        "gewonnen",
+        "gewonnen",
+        "gewonnen"
+      ],
+      "gewinn_faktor": -1.0
+    },
+    {
+      "kombi_id": "kombi-risk",
+      "profil": "risk",
+      "status": "verloren",
+      "gesamtquote": 15.89,
+      "beine_status": [
+        "verloren",
+        "verloren",
+        "gewonnen"
+      ],
+      "gewinn_faktor": -1.0
+    },
+    {
+      "kombi_id": "kombi-moonshot",
+      "profil": "moonshot",
+      "status": "verloren",
+      "gesamtquote": 218.03,
+      "beine_status": [
+        "gewonnen",
+        "verloren",
+        "verloren"
+      ],
+      "gewinn_faktor": -1.0
+    }
+  ],
+  "ausgewertet_am": "2026-08-15T09:11:35+02:00",
+  "_manual_result_patch": "2026-08-14 manuell recherchiert via WebSearch (football-data.org via Proxy blockiert)"
+}
