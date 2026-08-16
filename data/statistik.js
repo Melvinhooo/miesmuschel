@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-08-15T07:13:56+00:00",
+  "letzte_berechnung": "2026-08-16T07:17:39+00:00",
   "gesamt": {
-    "tipps": 457,
-    "gewonnen": 231,
-    "verloren": 214,
+    "tipps": 467,
+    "gewonnen": 238,
+    "verloren": 217,
     "push": 3,
     "offen": 9,
-    "einsatz": 448.0,
+    "einsatz": 458.0,
     "netto": 16.03,
-    "trefferquote": 51.9,
-    "roi_prozent": 3.6
+    "trefferquote": 52.3,
+    "roi_prozent": 3.5
   },
   "letzte_30_tage": {
-    "tipps": 136,
-    "gewonnen": 61,
-    "verloren": 74,
+    "tipps": 146,
+    "gewonnen": 68,
+    "verloren": 77,
     "push": 1,
     "offen": 0,
-    "einsatz": 136.0,
+    "einsatz": 146.0,
     "netto": 13.82,
-    "trefferquote": 45.2,
-    "roi_prozent": 10.2
+    "trefferquote": 46.9,
+    "roi_prozent": 9.5
   },
   "letzte_90_tage": {
-    "tipps": 418,
-    "gewonnen": 216,
-    "verloren": 199,
+    "tipps": 428,
+    "gewonnen": 223,
+    "verloren": 202,
     "push": 3,
     "offen": 0,
-    "einsatz": 418.0,
+    "einsatz": 428.0,
     "netto": 16.63,
-    "trefferquote": 52.0,
-    "roi_prozent": 4.0
+    "trefferquote": 52.5,
+    "roi_prozent": 3.9
   },
   "nach_liga": {
     "NBA Playoffs Round 2, Game 4": {
@@ -1070,14 +1070,14 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "Primeira Liga - Spieltag 2": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
+      "tipps": 3,
+      "gewonnen": 2,
+      "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
+      "einsatz": 3.0,
       "netto": 0.0,
-      "trefferquote": 100.0,
+      "trefferquote": 66.7,
       "roi_prozent": 0.0
     },
     "Jupiler Pro League - Spieltag 4": {
@@ -1092,6 +1092,28 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "2. Bundesliga - Spieltag 2": {
+      "tipps": 7,
+      "gewonnen": 5,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 7.0,
+      "netto": 0.0,
+      "trefferquote": 71.4,
+      "roi_prozent": 0.0
+    },
+    "Eredivisie - Spieltag 2": {
+      "tipps": 3,
+      "gewonnen": 1,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 33.3,
+      "roi_prozent": 0.0
+    },
+    "EFL Championship - Spieltag 1": {
       "tipps": 4,
       "gewonnen": 2,
       "verloren": 2,
@@ -1100,17 +1122,6 @@ window.__MIESMUSCHEL_STAT = {
       "einsatz": 4.0,
       "netto": 0.0,
       "trefferquote": 50.0,
-      "roi_prozent": 0.0
-    },
-    "Eredivisie - Spieltag 2": {
-      "tipps": 2,
-      "gewonnen": 0,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
       "roi_prozent": 0.0
     }
   },
@@ -3778,14 +3789,14 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "Beide Teams treffen: Ja": {
-      "tipps": 14,
-      "gewonnen": 8,
+      "tipps": 18,
+      "gewonnen": 12,
       "verloren": 6,
       "push": 0,
       "offen": 0,
-      "einsatz": 14.0,
+      "einsatz": 18.0,
       "netto": 0.0,
-      "trefferquote": 57.1,
+      "trefferquote": 66.7,
       "roi_prozent": 0.0
     },
     "Doppelte Chance X2: Dresden oder Remis": {
@@ -3985,16 +3996,49 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Doppelte Chance: Norwich City oder Unentschieden": {
+      "tipps": 3,
+      "gewonnen": 1,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 33.3,
+      "roi_prozent": 0.0
+    },
+    "Doppelte Chance: Sheffield United oder Unentschieden": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
+    },
+    "Sieg 1X2: FC Porto": {
+      "tipps": 2,
+      "gewonnen": 1,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 50.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
     "Sieg (1X2 / ML)": {
-      "tipps": 152,
-      "gewonnen": 77,
-      "verloren": 73,
+      "tipps": 154,
+      "gewonnen": 78,
+      "verloren": 74,
       "push": 1,
       "offen": 1,
-      "einsatz": 151.0,
+      "einsatz": 153.0,
       "netto": -5.92,
       "trefferquote": 51.3,
       "roi_prozent": -3.9
@@ -4088,15 +4132,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 27.1
     },
     "Beide Teams treffen JA": {
-      "tipps": 32,
-      "gewonnen": 15,
+      "tipps": 36,
+      "gewonnen": 19,
       "verloren": 15,
       "push": 0,
       "offen": 2,
-      "einsatz": 30.0,
+      "einsatz": 34.0,
       "netto": 3.45,
-      "trefferquote": 50.0,
-      "roi_prozent": 11.5
+      "trefferquote": 55.9,
+      "roi_prozent": 10.1
     },
     "Doppelte Chance 1X": {
       "tipps": 20,
@@ -4121,15 +4165,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 25.0
     },
     "Doppelte Chance": {
-      "tipps": 9,
-      "gewonnen": 4,
-      "verloren": 5,
+      "tipps": 13,
+      "gewonnen": 6,
+      "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 9.0,
+      "einsatz": 13.0,
       "netto": -0.54,
-      "trefferquote": 44.4,
-      "roi_prozent": -6.0
+      "trefferquote": 46.2,
+      "roi_prozent": -4.2
     },
     "Victor Wembanyama Double-Double": {
       "tipps": 2,
@@ -4332,15 +4376,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 3.0
     },
     "1.00-1.50": {
-      "tipps": 165,
-      "gewonnen": 101,
-      "verloren": 59,
+      "tipps": 175,
+      "gewonnen": 108,
+      "verloren": 62,
       "push": 1,
       "offen": 4,
-      "einsatz": 161.0,
+      "einsatz": 171.0,
       "netto": 5.21,
-      "trefferquote": 63.1,
-      "roi_prozent": 3.2
+      "trefferquote": 63.5,
+      "roi_prozent": 3.0
     },
     "2.00-3.00": {
       "tipps": 60,
@@ -4367,15 +4411,15 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "value": {
-      "tipps": 278,
-      "gewonnen": 150,
-      "verloren": 116,
+      "tipps": 284,
+      "gewonnen": 155,
+      "verloren": 117,
       "push": 3,
       "offen": 9,
-      "einsatz": 269.0,
+      "einsatz": 275.0,
       "netto": 21.47,
-      "trefferquote": 56.4,
-      "roi_prozent": 8.0
+      "trefferquote": 57.0,
+      "roi_prozent": 7.8
     },
     "wackel": {
       "tipps": 126,
@@ -4389,15 +4433,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -5.0
     },
     "safe": {
-      "tipps": 50,
-      "gewonnen": 29,
-      "verloren": 21,
+      "tipps": 54,
+      "gewonnen": 31,
+      "verloren": 23,
       "push": 0,
       "offen": 0,
-      "einsatz": 50.0,
+      "einsatz": 54.0,
       "netto": 1.42,
-      "trefferquote": 58.0,
-      "roi_prozent": 2.8
+      "trefferquote": 57.4,
+      "roi_prozent": 2.6
     },
     "risiko": {
       "tipps": 3,
@@ -4444,6 +4488,143 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-08-15",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "?",
+          "kategorie": "safe",
+          "gesamtquote": 5.08,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Norwich City",
+              "quote": 1.91,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Sheffield United",
+              "quote": 2.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance 1X Hertha BSC oder Unentschieden",
+              "quote": 1.33,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "balance",
+          "gesamtquote": 6.86,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.54,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen: Ja",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen: Ja",
+              "quote": 1.72,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen: Ja",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "risk",
+          "gesamtquote": 16.02,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen: Ja",
+              "quote": 1.45,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unentschieden",
+              "quote": 3.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "moonshot",
+          "gesamtquote": 150.08,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Rio Ave FC",
+              "quote": 7.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Excelsior Rotterdam",
+              "quote": 5.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unentschieden",
+              "quote": 3.45,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-08-14",
       "gesamt": {
