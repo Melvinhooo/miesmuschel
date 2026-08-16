@@ -599,7 +599,7 @@
     {
       "typ": "risiko",
       "titel": "Risiko-Kombi 63x - Klassen-Fav-Sieg-Serie",
-      "gesamtquote": 6.64,
+      "gesamtquote": 3.24,
       "einsatz_euro": 1.4,
       "empfohlener_einsatz_prozent": 0.25,
       "beine": [
@@ -612,15 +612,10 @@
           "spiel_id": "2026-08-10-ars-mci",
           "markt": "Über 2.5 Tore",
           "quote": 1.75
-        },
-        {
-          "spiel_id": "2026-08-10-cel-osa",
-          "markt": "Sieg 1X2: Celta",
-          "quote": 2.05
         }
       ],
       "begruendung": "6 Beine aus 6 Spielen (Layer-1 OK). 4 Sieg-Outcomes (Villarreal, Sevilla, Alavés, Celta) plus 2 Tor-Total-Beine. Risiko-Charakter: Auftakts-Cluster-Brick kann jederzeit einzelne Fav-Siege killen (siehe Magdeburg 1:6 Lehre). Sieg-Outcomes NUR in dieser Kombi (Layer-2 OK).",
-      "rechnung": "1.85 x 1.75 x 2.05 = 6.64"
+      "rechnung": "1.85 x 1.75 = 3.24"
     },
     {
       "typ": "moonshot",

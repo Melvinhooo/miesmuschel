@@ -37,42 +37,9 @@
         "Gechter-Status widerspruechlich (Rote gemeldet aber Aufstellung listet ihn) - live pruefen",
         "Aggregator-Quoten (bet365 live pruefen): Hertha Sieg @2.20, Draw @3.60, Heidenheim Sieg @2.95, DC 1X @1.33, DC X2 @1.58, Ü2.5 @1.54, U2.5 @2.25, BTTS Ja @1.45, BTTS Nein @2.43"
       ],
-      "tipps": [
-        {
-          "kategorie": "value",
-          "markt": "Beide Teams treffen: Ja",
-          "quote": 1.45,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 9,
-          "begruendung": "Goldgrube-Cluster HR08-10-3 (BTTS Ja +17.2% historisch) + Def-Krise-System HR08-15-4 (MD1-MD3 systematische Def-Krise) + Heidenheim MD1 3 Gegentore + Hertha Off-Kader-Neu-Signings + Reese Toppscorer. Faire Quote ~1.35. Stake 1.5% = 8.25€.",
-          "layer_2_tag": "her-hei_btts_ja",
-          "faire_quote": 1.35,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.54,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 7,
-          "begruendung": "Def-Krise-Cluster HR08-15-4 aktiv + Heidenheim MD1 4-3 (7 Tore-Total) + Hertha-Off (1 Tor MD1) + beide Teams Def-Wackler = Torfestival-These. Faire Quote ~1.44. Stake 1.5% = 8.25€.",
-          "layer_2_tag": "her-hei_ueber_25",
-          "faire_quote": 1.44,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "kategorie": "value",
-          "markt": "Doppelte Chance: Hertha BSC oder Unentschieden",
-          "quote": 1.33,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 5,
-          "begruendung": "Hertha-Heim + Olympiastadion-Atmo + Heidenheim Kein-Klassen-Blowout-Signal + Hertha nach 1:0-Auftakt in Rhythmus. Grenzfall SAFE-VALUE wegen Hertha-Heim-Schwaeche-Trend, dennoch DC 1X @1.33 = 75% impl. Wahrscheinlichkeit ist konservativ genug. HR26 2:0-Insurance NICHT AKTIV in 2.BL - Auswertung beachten. Stake 1.5% = 8.25€.",
-          "layer_2_tag": "her-hei_dc_1x",
-          "faire_quote": 1.27,
-          "empfohlener_einsatz_prozent": 1.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-08-15-nor-wba",
@@ -106,42 +73,9 @@
         "Championship MD1 hat historisch 30% Draw-Rate (League-wide letzte 5 Jahre)",
         "Aggregator-Quoten (bet365 live pruefen): Norwich Sieg @1.91, Draw @3.45, WBA Sieg @3.85, DC 1X @1.24, DC X2 @1.85, Ü2.5 @1.86, U2.5 @1.86, BTTS Ja @1.72, BTTS Nein @2.00"
       ],
-      "tipps": [
-        {
-          "kategorie": "safe",
-          "markt": "Doppelte Chance: Norwich City oder Unentschieden",
-          "quote": 1.24,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 4,
-          "begruendung": "Goldgrube-Cluster HR08-10-3 (DC 1X 84.6% Hit, +9.5% ROI) + Norwich-Heim-Klassen-Edge + H2H 5:0-Dominanz aus letzter Direktkonfrontation + Championship-MD1-Draw-Rate 30% erhoeht DC-Wahrscheinlichkeit. Faire Quote ~1.20. HR26 2:0-Insurance NICHT AKTIV in Championship. Stake 1.5% = 8.25€.",
-          "layer_2_tag": "nor-wba_dc_1x",
-          "faire_quote": 1.20,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "kategorie": "value",
-          "markt": "Sieg 1X2: Norwich City",
-          "quote": 1.91,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 5,
-          "begruendung": "Heim-Klassen-Edge + Toure-Toppscorer-Trigger + H2H-Dominanz + Clement-System-2.Vollsaison. Faire Quote ~1.82. Achtung: Championship MD1 30% Draw-Rate erhoeht Draw-Risiko - Sieg-Tipp bewusst als VALUE nicht SAFE. Stake 1.5% = 8.25€.",
-          "layer_2_tag": "nor-wba_sieg_nor",
-          "faire_quote": 1.82,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "kategorie": "value",
-          "markt": "Beide Teams treffen: Ja",
-          "quote": 1.72,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 6,
-          "begruendung": "Def-Krise-System HR08-15-4 (Saison-Auftakts-Phase) + beide Cup-4:1-Off + WBA-Full-Squad-Off-Signal + Norwich-Def-Wackler durch 4 Ausfaelle (Makama/Diallo/Topic/Forsyth). Faire Quote ~1.62. Stake 1.5% = 8.25€.",
-          "layer_2_tag": "nor-wba_btts_ja",
-          "faire_quote": 1.62,
-          "empfohlener_einsatz_prozent": 1.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-08-15-shu-bir",
@@ -177,53 +111,9 @@
         "Aggregator-Konsens: Draw als Value (mehrere Tipster empfehlen 1:1 als Prognose)",
         "Aggregator-Quoten (bet365 live pruefen): Sheffield Sieg @2.00, Draw @3.40, Birmingham Sieg @2.90, DC 1X @1.27, DC X2 @1.55, Ü2.5 @2.00, U2.5 @1.83, BTTS Ja @1.85, BTTS Nein @1.90"
       ],
-      "tipps": [
-        {
-          "kategorie": "safe",
-          "markt": "Doppelte Chance: Sheffield United oder Unentschieden",
-          "quote": 1.27,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 4,
-          "begruendung": "Goldgrube-Cluster HR08-10-3 (DC 1X 84.6% Hit + Championship-Heim-Aufsteiger-Duell) + Wilder-Komplett-Neustart + Bamford-Form + Championship-MD1-Draw-Rate 30% erhoeht DC-Wahrscheinlichkeit + Sheffield-Heim Bramall Lane. Faire Quote ~1.22. HR26 2:0-Insurance NICHT AKTIV in Championship. Stake 1.5% = 8.25€.",
-          "layer_2_tag": "shu-bir_dc_1x",
-          "faire_quote": 1.22,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "kategorie": "value",
-          "markt": "Sieg 1X2: Sheffield United",
-          "quote": 2.00,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 5,
-          "begruendung": "Heim-Klassen-Edge Championship-Etabliert + Wilder-Neustart + Bamford-Torschuetzen-Trigger vs Aufsteiger Birmingham. Faire Quote ~1.90. VALUE nicht SAFE weil Championship MD1 30% Draw-Rate + Birmingham Aufsteiger-Momentum-Warnung (5:0-Vorbereitung). Aufsteiger-Duell-Vorsicht auch bei Etablierter-Favoriten-Rolle. Stake 1.5% = 8.25€.",
-          "layer_2_tag": "shu-bir_sieg_shu",
-          "faire_quote": 1.90,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen: Ja",
-          "quote": 1.85,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 5,
-          "begruendung": "Def-Krise-System HR08-15-4 (Saison-Auftakt) + Birmingham-Aufsteiger-Off-Momentum (5:0-Vorbereitung) + Sheffield-Def-Loecher (Chong/McCallum out) + Aufsteiger-Duell-Off-Neigung. WACKEL weil BTTS @1.85 hoeher als 1.65-Goldgrube-Wachs + BIR-Aufsteiger-Def-organisation-Anfangs-Phase koennte Sheffield-Zu-Null erlauben. Stake 0.5% = 2.75€.",
-          "layer_2_tag": "shu-bir_btts_ja",
-          "faire_quote": 1.75,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Unentschieden",
-          "quote": 3.40,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 6,
-          "begruendung": "Aggregator-Konsens Tipster-Prognose 'Draw als Value' (mehrere empfehlen 1:1) + Championship MD1 30% Draw-Rate + eng bewertetes Aufsteiger-Duell + kein klarer Favorit-Signal. Draw-Quote @3.40 = 29% impl. Wahrscheinlichkeit, faire Quote ~3.20. Stake 0.5% = 2.75€.",
-          "layer_2_tag": "shu-bir_draw",
-          "faire_quote": 3.20,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-08-15-rio-por",
@@ -258,42 +148,9 @@
         "Torschuetzen-Kandidaten Porto (Startelf-Vorbehalt): Rodrigo Mora, Samu Omorodion (falls fit) - HR08-13-1 Post-Ruhepause-Doktrin: kein Torschuetzen-Bein",
         "Aggregator-Quoten (bet365 live pruefen): Rio Ave Sieg @7.50, Draw @4.30, Porto Sieg @1.35, DC 1X @2.75, DC X2 @1.05, Ü2.5 @1.77, U2.5 @1.90, Ü3.5 @~2.50, BTTS Ja @2.05, BTTS Nein @1.68"
       ],
-      "tipps": [
-        {
-          "kategorie": "value",
-          "markt": "Sieg 1X2: FC Porto",
-          "quote": 1.35,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 4,
-          "begruendung": "Klassen-Edge-Anker: Portugiesischer Titel-Anwart vs Klassenerhalt-Mittelfeld + Farioli-System-Disziplin + Rio Ave 3 Spieler-Sperren + Porto MD1 Clean-Sheet + Rio Ave 1-Sieg-in-5-Heim-Historie. Faire Quote ~1.28. HR08-10-2 Klassen-Duell-SAFE-Downgrade greift (Palm-Inter-Trauma @1.57 respektiert, hier @1.35 sogar tiefer): VALUE nicht SAFE + KEINE Kombi-Einbindung (Cross-Kombi-Konzentration-Vermeidung HR08-15-2 - Wolves+Sporting-14.08.-Debakel). Stake 1.5% = 8.25€.",
-          "layer_2_tag": "rio-por_sieg_por",
-          "faire_quote": 1.28,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.77,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 7,
-          "begruendung": "Porto Elite-Off + Rio Ave Def-Kadertiefe belastet (3 gesperrt) + Klassen-Angriffs-Wucht + Rio Ave-Def-Loecher = Torfestival-These. Faire Quote ~1.65. Stake 1.5% = 8.25€.",
-          "layer_2_tag": "rio-por_ueber_25",
-          "faire_quote": 1.65,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Ueber 3.5 Tore",
-          "quote": 2.50,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 6,
-          "begruendung": "Porto-Klassen-Blowout-These + Rio Ave Def-Kollaps-Potential (3 Sperren) + Farioli-Off-System klinisch. WACKEL weil Ü3.5 statistisch nur ~40% Hit Primeira, aber Klassen-Blowout-Setup gegeben. Alternative Blowout-Wette statt Genaues-Ergebnis (HR08-15-3-Rueckfall-Vermeidung). Stake 0.5% = 2.75€.",
-          "layer_2_tag": "rio-por_ueber_35",
-          "faire_quote": 2.30,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     },
     {
       "id": "2026-08-15-exc-psv",
@@ -330,31 +187,9 @@
         "Torschuetzen-Kandidaten PSV (Startelf-Vorbehalt): Pepi, Perisic, Til - HR08-13-1 Post-Ruhepause-Doktrin: kein Torschuetzen-Bein",
         "Aggregator-Quoten (bet365 live pruefen): Excelsior Sieg @5.80, Draw @4.40, PSV Sieg @1.49, DC 1X @2.55, DC X2 @1.11, Ü2.5 @1.30, U2.5 @3.30, BTTS Ja @1.40, BTTS Nein @2.75"
       ],
-      "tipps": [
-        {
-          "kategorie": "value",
-          "markt": "Beide Teams treffen: Ja",
-          "quote": 1.40,
-          "einsatz_euro": 8.25,
-          "edge_prozent": 8,
-          "begruendung": "Goldgrube-Cluster HR08-10-3 (BTTS Ja +17.2%) + Def-Krise-System HR08-15-4 (Saison-Auftakt) + PSV Def-Wackler MD1 (2:2) + Excelsior-Off-Momentum vs Cambuur (aber HR08-15-1 relativiert) + PSV Blowout-Erwartung mit Toren beider Seiten Klassen-Muster. Faire Quote ~1.30. Stake 1.5% = 8.25€.",
-          "layer_2_tag": "exc-psv_btts_ja",
-          "faire_quote": 1.30,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.30,
-          "einsatz_euro": 2.75,
-          "edge_prozent": 3,
-          "begruendung": "PSV Klassen-Off + Reaktions-Druck nach 2:2 + Excelsior-Heim mit Off-Signal (aber HR08-15-1) = Torfestival-These. WACKEL weil Ü2.5 @1.30 sehr tief (77% impl. Wahrscheinlichkeit) und nur schwacher Edge + PSV Klassen-Verwalter-These moeglich nach 2:0-Fuehrung. Stake 0.5% = 2.75€.",
-          "layer_2_tag": "exc-psv_ueber_25",
-          "faire_quote": 1.25,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "WARN_QUELLE",
+      "_recherche_fehlt": true
     }
   ],
   "einzeltipps": [
@@ -402,7 +237,7 @@
       "spiel_id": "2026-08-15-exc-psv",
       "kategorie": "value",
       "markt": "Beide Teams treffen: Ja",
-      "quote": 1.40,
+      "quote": 1.4,
       "einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
       "kurzbegruendung": "Goldgrube BTTS + Def-Krise-System (MD1-MD3) + PSV Def-Wackler 2:2 MD1 + Klassen-Muster Beide-Treffen",
@@ -472,7 +307,7 @@
         {
           "spiel_id": "2026-08-15-shu-bir",
           "markt": "Sieg Sheffield United",
-          "quote": 2.00
+          "quote": 2.0
         },
         {
           "spiel_id": "2026-08-15-her-hei",
@@ -482,7 +317,7 @@
       ],
       "gesamtquote": 5.08,
       "rechnung": "1.91 x 2.00 x 1.33 = 5.08",
-      "einsatz_euro": 11.00,
+      "einsatz_euro": 11.0,
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "3 Sieg/DC-Beine aus 3 verschiedenen Spielen, alle Klassen-Etabliert-Heim-Edges: Norwich (H2H 5:0 vs WBA + Clement-System) + Sheffield (Wilder-Komplett vs Aufsteiger BIR + Bamford-Form) + Hertha DC 1X (Heim vs Heidenheim-Absteiger, konservative DC-Variante wegen Heim-Schwaeche). Layer-1 ✓, Layer-2 ✓ (nur 1 SIEG-Token pro Spiel im gesamten Portfolio - Norwich Sieg, Sheffield Sieg, Hertha DC 1X sind alle unique). Layer-3 weich: Norwich in 3 Kombis (Safe/Balance BTTS/Moonshot Draw), Sheffield in 3 Kombis (Safe/Balance BTTS/Risk Draw), Hertha in 3 Kombis (Safe/Balance Ü2.5/Risk BTTS) - alle Markt-entkoppelt, keine SIEG-Tokens doppelt. Porto und PSV bewusst NICHT in Safe/Kombi wegen HR08-10-2 + HR08-15-2 Cross-Kombi-Konzentrations-Bust-Lehre (Wolves+Sporting 14.08.-Debakel). Gesamtquote 5.08 knapp an oberer Grenze Safe-Range 3-5x, wegen 3 VALUE-Beinen zusammengesetzt (Profil-Label bezieht sich auf Range nicht Bein-Kategorie). Kasse-Stufe 1 Safe-Stake 2% = 11€.",
       "layer_2_konflikte": "keine - Norwich Sieg (Nor-Wba unique SIEG-Token), Sheffield Sieg (Shu-Bir unique SIEG-Token), Hertha DC 1X (Her-Hei unique SIEG-Token, DC 1X ist SIEG_MARKT_TOKEN)"
@@ -509,12 +344,12 @@
         {
           "spiel_id": "2026-08-15-exc-psv",
           "markt": "Beide Teams treffen: Ja",
-          "quote": 1.40
+          "quote": 1.4
         }
       ],
       "gesamtquote": 6.86,
       "rechnung": "1.54 x 1.85 x 1.72 x 1.40 = 6.86",
-      "einsatz_euro": 4.40,
+      "einsatz_euro": 4.4,
       "empfohlener_einsatz_prozent": 0.8,
       "begruendung": "4 Beine Def-Krise-Cluster-SYSTEM HR08-15-4 (14.08.-Slate-Analyse: MD1-MD3 systematische Def-Krise wegen Neu-Signings-Integration + Trainer-Systeme + Kondition-Rueckstand = +15% Bias fuer BTTS + Ü2.5): 1x Ü2.5 (Hertha-Heidenheim = 7 Tore MD1-Kombi + Def-Wackler beidseits) + 3x BTTS Ja (Sheffield-Birmingham Aufsteiger-Duell + Norwich-WBA MD1-Off-Signal + Excelsior-PSV Def-Wackler PSV). 4 unique Spiele. Layer-1 ✓, Layer-2 ✓ (0 SIEG-Tokens = keine Konflikte). Layer-3 weich: Hertha auch in Safe (DC 1X) + Risk (BTTS Ja) - Markt-entkoppelt; Sheffield auch in Safe (Sieg) + Risk (Draw) - entkoppelt; Norwich auch in Safe (Sieg) + Moonshot (Draw) - entkoppelt; Excelsior-PSV auch in Risk (Ü2.5) + Moonshot (Excelsior Sieg) - entkoppelt. Balance-Range 6-10x = 6.86 im unteren Range ✓. Kasse-Stufe 1 Balance-Stake 0.8% = 4.40€.",
       "layer_2_konflikte": "keine - Balance ohne SIEG-Tokens, alle Beine sind BTTS/Ü-Tore"
@@ -526,7 +361,7 @@
         {
           "spiel_id": "2026-08-15-rio-por",
           "markt": "Ueber 3.5 Tore",
-          "quote": 2.50
+          "quote": 2.5
         },
         {
           "spiel_id": "2026-08-15-her-hei",
@@ -536,17 +371,17 @@
         {
           "spiel_id": "2026-08-15-shu-bir",
           "markt": "Unentschieden",
-          "quote": 3.40
+          "quote": 3.4
         },
         {
           "spiel_id": "2026-08-15-exc-psv",
           "markt": "Ueber 2.5 Tore",
-          "quote": 1.30
+          "quote": 1.3
         }
       ],
       "gesamtquote": 16.02,
       "rechnung": "2.50 x 1.45 x 3.40 x 1.30 = 16.02",
-      "einsatz_euro": 1.40,
+      "einsatz_euro": 1.4,
       "empfohlener_einsatz_prozent": 0.25,
       "begruendung": "4 Beine Kontra-Konsens + Blowout-Ü-Portfolio: Rio-Ave-Porto Ü3.5 (Porto Klassen-Blowout + Rio Ave Def-Loecher durch 3 Sperren) + Hertha-Heidenheim BTTS (Def-Krise doppelt-versichert vs Ü2.5 in Balance) + Sheffield Draw (Aggregator-Tipster-Konsens 1:1 + Championship-MD1-30%-Draw-Rate) + Excelsior-PSV Ü2.5 (Klassen-Off PSV + Reaktions-Druck). Layer-1 ✓, Layer-2 ✓ (0 SIEG-Tokens in Risk - Sheffield Draw ist X-Outcome kein SIEG-Token per fix_schema.py, Rio-Porto Ü3.5 kein Token, Hertha BTTS + Excelsior-PSV Ü2.5 kein Token). Layer-3 weich: Rio-Ave-Porto auch in Moonshot (Rio Ave Sieg SIEG-Token) - Ü3.5 + Sieg Rio kompatibel bei 3:1-Sieg-Rio (unwahrscheinlich aber moeglich); Hertha in 3 Kombis (Safe DC + Balance Ü2.5 + Risk BTTS) - Markt-entkoppelt kompatibel; Sheffield in 3 Kombis (Safe Sieg + Balance BTTS + Risk Draw) - DC/Sieg + Draw teils Anti-Korrelation aber HR23-formell okay (nur 1 SIEG-Token Sheffield Sieg); Excelsior-PSV in 3 Kombis (Balance BTTS + Risk Ü2.5 + Moonshot Sieg) - Ü2.5 + BTTS kompatibel bei 2:1/3:2, Sieg Anti-Korrelation. Kasse-Stufe 1 Risk-Stake 0.25% = 1.40€.",
       "layer_2_konflikte": "keine - Sheffield Draw ist X-Outcome nicht SIEG_MARKT_TOKEN, Rio-Porto Ü3.5 kein SIEG-Token, Hertha BTTS + Excelsior-PSV Ü2.5 kein SIEG-Token"
@@ -558,12 +393,12 @@
         {
           "spiel_id": "2026-08-15-rio-por",
           "markt": "Sieg Rio Ave FC",
-          "quote": 7.50
+          "quote": 7.5
         },
         {
           "spiel_id": "2026-08-15-exc-psv",
           "markt": "Sieg Excelsior Rotterdam",
-          "quote": 5.80
+          "quote": 5.8
         },
         {
           "spiel_id": "2026-08-15-nor-wba",

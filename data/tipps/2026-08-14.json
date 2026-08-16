@@ -52,7 +52,7 @@
         {
           "kategorie": "wackel",
           "markt": "Sieg 1X2: Eintracht Braunschweig",
-          "quote": 2.40,
+          "quote": 2.4,
           "einsatz_euro": 2.75,
           "edge_prozent": 6,
           "begruendung": "Heim-Form-Edge (6:1-Auftakt + unbeaten 5 home) + Bochum-Torflaute (0 Tore in 3 Pflichtspielen). WACKEL statt VALUE weil H2H-Historie Bochum 3-1 dominiert + Bochum Absteiger-Klassen-Fav-Erwartung + HR08-13-1 Ruhepause-Startelf-Wackel. Stake 0.5% = 2.75€.",
@@ -115,7 +115,7 @@
           "edge_prozent": 9,
           "begruendung": "Goldgrube-Cluster HR08-10-3 (BTTS Ja +17.2% historisch) + Kiel-Def-Wackler (7/9 mit 2+ Gegentoren) + St.Pauli 16 Spiele ohne Clean-Sheet + beide MD1 mit Toren (Kiel 2, St.Pauli 1). Faire Quote ~1.50. Stake 1.5% = 8.25€.",
           "layer_2_tag": "kie-stp_btts_ja",
-          "faire_quote": 1.50,
+          "faire_quote": 1.5,
           "empfohlener_einsatz_prozent": 1.5
         },
         {
@@ -126,7 +126,7 @@
           "edge_prozent": 5,
           "begruendung": "Beide MD1 draws mit Kiel 2:2 + St.Pauli-Def-Krise + Kiel-Def-Krise = Torfestival-These. WACKEL weil MD2-Ruhepause-Kalibrierung noch aktiv + Nord-Derby-Vorsichts-Faktor beidseits. Stake 0.5% = 2.75€.",
           "layer_2_tag": "kie-stp_ueber_25",
-          "faire_quote": 1.70,
+          "faire_quote": 1.7,
           "empfohlener_einsatz_prozent": 0.5
         },
         {
@@ -137,7 +137,7 @@
           "edge_prozent": 6,
           "begruendung": "Beide MD1 draws + Nord-Derby-Symmetrie + St.Pauli-Auswaerts-Klasse vs Kiel-Heim = Draw-These plausibel. WACKEL weil Kiel-Heim-Faktor + St.Pauli-H2H-5in-Serie-Dominanz beide zu Sieg-These auch koennen. Historisch Draw-Quote 3.45 = 29% impl. Wahrscheinlichkeit, faire Quote ~3.10. Stake 0.5% = 2.75€.",
           "layer_2_tag": "kie-stp_draw",
-          "faire_quote": 3.10,
+          "faire_quote": 3.1,
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
@@ -183,18 +183,18 @@
           "edge_prozent": 8,
           "begruendung": "Telstar-Momentum-Edge (2:1-Comeback-Sieg + H2H 4:1 letzter Duell) + Heim-Debuet-Aufmerksamkeit (Aufsteiger-Erst-Heim-Boost) + Sparta-Auftakts-Sterilitaet (0 SoT). Faire Quote ~2.00. Stake 1.5% = 8.25€. Achtung: Klassen-Erwartung Sparta-Fav historisch.",
           "layer_2_tag": "tel-spa_sieg_tel",
-          "faire_quote": 2.00,
+          "faire_quote": 2.0,
           "empfohlener_einsatz_prozent": 1.5
         },
         {
           "kategorie": "wackel",
           "markt": "Unter 2.5 Tore",
-          "quote": 2.40,
+          "quote": 2.4,
           "einsatz_euro": 2.75,
           "edge_prozent": 5,
           "begruendung": "Goldgrube-Cluster HR08-10-3 (Unter 2.5 = Top-Goldgrube +27.1% ROI historisch mit 72.4% Hit) + beide Auftakts-Spiele niedrig-scorig (3+1=4 Tore in 2 Spielen) + Sparta-Angriffs-Krise + Telstar-Def-Resilienz (nur 1 Gegentor). WACKEL weil Aufsteiger-Heim-Debuet manchmal offen laeuft. Stake 0.5% = 2.75€.",
           "layer_2_tag": "tel-spa_unter_25",
-          "faire_quote": 2.10,
+          "faire_quote": 2.1,
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
@@ -246,7 +246,7 @@
         {
           "kategorie": "wackel",
           "markt": "Doppelte Chance: Cercle Brugge oder Unentschieden",
-          "quote": 1.40,
+          "quote": 1.4,
           "einsatz_euro": 2.75,
           "edge_prozent": 4,
           "begruendung": "Cercle Heim-Unbeaten am Jan Breydel + Cercle offensiv-produktiv MD3 + Heimvorteil. WACKEL weil H2H letzter STVV Sieg + Sint-Truiden-Reaktions-Druck. Faire Quote ~1.35. Stake 0.5% = 2.75€.",
@@ -312,7 +312,7 @@
           "edge_prozent": 5,
           "begruendung": "Klassen-Edge-Anker: relegierter PL-Klub vs Championship-Mittelfeld + Etat-Vorsprung + H2H-Dominanz (5:1 letzte 10). Faire Quote ~1.50. HR08-10-2 Klassen-Duell-Sieg-SAFE-Downgrade greift (Palm-Inter-Trauma 08.05. @1.57-Slot) - deshalb VALUE nicht SAFE (Saison-Auftakts-Wackel + Peixoto-Def-Wackler). Stake 1.5% = 8.25€.",
           "layer_2_tag": "wol-bla_sieg_wol",
-          "faire_quote": 1.50,
+          "faire_quote": 1.5,
           "empfohlener_einsatz_prozent": 1.5
         },
         {
@@ -376,7 +376,7 @@
       ],
       "tipps": [
         {
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Sieg 1X2: Sporting CP",
           "quote": 1.33,
           "einsatz_euro": 8.25,
@@ -389,7 +389,7 @@
         {
           "kategorie": "wackel",
           "markt": "Ueber 2.5 Tore",
-          "quote": 1.60,
+          "quote": 1.6,
           "einsatz_euro": 2.75,
           "edge_prozent": 5,
           "begruendung": "Klassen-Edge-Angriff Sporting Reaktions-Modus + Alvalade-Heim + Vitoria xG-Optimismus (2.28 MD1) = Torfestival-These. WACKEL weil Goldgrube Unter 2.5 anti-These + Sporting-Def-Wackler 2:2 (verspielte Fuehrung MD1) koennte auch defensiv reagieren. Stake 0.5% = 2.75€.",
@@ -409,7 +409,7 @@
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     }
   ],
   "einzeltipps": [
@@ -487,7 +487,7 @@
       "spiel_id": "2026-08-14-tel-spa",
       "kategorie": "wackel",
       "markt": "Unter 2.5 Tore",
-      "quote": 2.40,
+      "quote": 2.4,
       "einsatz_euro": 2.75,
       "empfohlener_einsatz_prozent": 0.5,
       "kurzbegruendung": "Goldgrube Unter 2.5 + beide MD1 niedrig-scorig + Sparta-Angriffs-Krise + Telstar-Def-Resilienz",
@@ -497,7 +497,7 @@
       "spiel_id": "2026-08-14-bra-boc",
       "kategorie": "wackel",
       "markt": "Sieg 1X2: Eintracht Braunschweig",
-      "quote": 2.40,
+      "quote": 2.4,
       "einsatz_euro": 2.75,
       "empfohlener_einsatz_prozent": 0.5,
       "kurzbegruendung": "Heim-Form 6:1-Auftakt + unbeaten last 5 home + Bochum 0 Tore in 3 letzten. H2H-Warnung Bochum 3-1",
@@ -537,7 +537,7 @@
       ],
       "gesamtquote": 4.61,
       "rechnung": "1.59 x 1.33 x 2.18 = 4.61",
-      "einsatz_euro": 11.00,
+      "einsatz_euro": 11.0,
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "3 Sieg-Beine aus 3 verschiedenen Spielen, alle Klassen-Edge-Anker: Wolves (relegierter PL-Klub Auftakt) + Sporting (Titel-Anwart Reaktions-Modus) + Telstar (Momentum + Aufsteiger-Heim-Debuet-Boost + H2H 4:1). Layer-1 ✓, Layer-2 ✓ (jede Kombi 1 Sieg-Outcome unique pro Spiel), Layer-3 ✓ (3 unique Spiele). Gesamtquote 4.61 mittig im 3-5x Safe-Zielrange. Kasse-Stufe 1 Safe-Stake 2% = 11€.",
       "layer_2_konflikte": "keine - Wolves Sieg (Spiel A) + Sporting Sieg (Spiel B) + Telstar Sieg (Spiel C) alle unique 1X2-Slots pro Spiel"
@@ -564,12 +564,12 @@
         {
           "spiel_id": "2026-08-14-spo-vit",
           "markt": "Ueber 2.5 Tore",
-          "quote": 1.60
+          "quote": 1.6
         }
       ],
       "gesamtquote": 7.03,
       "rechnung": "1.58 x 1.77 x 1.57 x 1.60 = 7.03",
-      "einsatz_euro": 4.40,
+      "einsatz_euro": 4.4,
       "empfohlener_einsatz_prozent": 0.8,
       "begruendung": "4 Beine Goldgrube-Cluster HR08-10-3: 2x BTTS Ja (Braunschweig-Heim-BTTS-Trend + Cercle-STVV Def-Wackler) + 2x Ü2.5 (Kiel-St.Pauli Nord-Derby Def-Wackler + Sporting Klassen-Angriff). 4 unique Spiele. Layer-1 ✓, Layer-2 ✓ (0 Sieg-Outcomes = kein Konflikt), Layer-3 weich: Sporting overlap mit Safe (Sieg vs Total = Markt-entkoppelt), sonst 3 unique Spiele. Balance-Zielrange 6-10x = 7.03 mittig ✓. Kasse-Stufe 1 Balance-Stake 0.8% = 4.40€.",
       "layer_2_konflikte": "keine - Balance ohne Sieg-Outcomes"
@@ -586,7 +586,7 @@
         {
           "spiel_id": "2026-08-14-bra-boc",
           "markt": "Sieg Eintracht Braunschweig",
-          "quote": 2.40
+          "quote": 2.4
         },
         {
           "spiel_id": "2026-08-14-kie-stp",
@@ -596,7 +596,7 @@
       ],
       "gesamtquote": 15.89,
       "rechnung": "1.92 x 2.40 x 3.45 = 15.89",
-      "einsatz_euro": 1.40,
+      "einsatz_euro": 1.4,
       "empfohlener_einsatz_prozent": 0.25,
       "begruendung": "3 Beine Kontra-Konsens-Portfolio: Wolves Unter 2.5 (TOP-Goldgrube +27.1% ROI + H2H 4/4 unter 3) + Braunschweig Sieg (Heim-Form 6:1 vs Bochum-Torflaute) + Kiel Draw (Nord-Derby-Symmetrie beide MD1-Draws). Layer-1 ✓, Layer-2 ✓ (Braunschweig Sieg unique pro Spiel, Kiel-Draw ist X-Outcome kein Sieg-Token, Wolves-Under kein Sieg-Outcome), Layer-3 weich: Wolves overlap mit Safe (Sieg vs Unter = Markt-entkoppelt und kompatibel - Wolves 1:0 gewinnt beide), Kiel/Braunschweig overlap mit Balance (BTTS+Ü2.5 vs Draw+Sieg - Draw+Ü2.5 leichte Anti-Korrelation, Sieg+BTTS voll kompatibel). Kasse-Stufe 1 Risk-Stake 0.25% = 1.40€.",
       "layer_2_konflikte": "keine - Braunschweig Sieg einziger Sieg-Outcome. Kiel Unentschieden ist X-Outcome, nicht in SIEG_MARKT_TOKENS-Familie."
@@ -613,12 +613,12 @@
         {
           "spiel_id": "2026-08-14-spo-vit",
           "markt": "Genaues Ergebnis Sporting CP 3:0",
-          "quote": 9.00
+          "quote": 9.0
         },
         {
           "spiel_id": "2026-08-14-wol-bla",
           "markt": "Genaues Ergebnis Wolves 2:0",
-          "quote": 8.50
+          "quote": 8.5
         }
       ],
       "gesamtquote": 218.03,

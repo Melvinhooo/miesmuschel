@@ -611,21 +611,6 @@
       "einsatz_euro": 1.4,
       "empfohlener_einsatz_prozent": 0.25,
       "begruendung": "4 Beine: Roter Stern Sieg (Marakana-Aufhol-Bein, HR08-04-Trauma trotzdem einkalkuliert), Ararat X2 (Aggregator-Value-Kontra), Openda Torschuetze (Goldgrube +24.4%), Slovan BTTS Ja (Goldgrube +17.2% + Mjaellby-Auswaerts-BTTS-Stat 6/7). Layer-2 ✓ (Roter Stern Sieg unique pro Spiel; Slovan BTTS != Sieg-Outcome). Layer-1 ✓. Layer-4 ✓ (2 Torschuetzen-Beine gesamt: El Kaabi in Balance + Openda in Risk = Cap 2 at limit). Ararat X2 als bewusster Hedge-Bein zu Celje-Sieg in Safe (mutual exklusiv, HR23 Markt-entkoppeln). Kasse-Stufe 1 Risiko-Stake 0.25% = 1.40€."
-    },
-    {
-      "profil": "moonshot",
-      "beine": [
-        {
-          "spiel_id": "2026-08-11-cel-ara",
-          "markt": "Sieg FC Ararat-Armenia",
-          "quote": 6.5
-        }
-      ],
-      "gesamtquote": 6.5,
-      "rechnung": "6.50 = 6.5",
-      "einsatz_euro": 0.55,
-      "empfohlener_einsatz_prozent": 0.1,
-      "begruendung": "3 Underdog-Sieg-Beine als Kontra-Portfolio-Hedge zu Safe/Risk (mutual exklusiv zu Lyon-Sieg Safe + Celje-Sieg Safe + Slovan-Sieg-Risk-not-taken). HR08-10-1 Contrarian-Sieg-Trigger lightweight angewendet: Sparta hat 1-Tor-Aggregat-Puffer (bei 0:0 oder 1:1 durch), Ararat hat 1-Tor-Aggregat-Vorsprung (Konter-Sieg 90min moeglich), Mjaellby als Klassen-Underdog (extreme Longshot). Layer-2 dokumentiert: alle 3 Sieg-Outcomes mutual exklusiv zu Fav-Siegen in anderen Kombis (Kontra-Hedge-Charakter, HR08-10-1-Blueprint). Kasse-Stufe 1 Moonshot-Stake 0.1% = 0.55€. Bust-Risiko bewusst akzeptiert - reine Lotterie."
     }
   ],
   "lessons_angewandt": [

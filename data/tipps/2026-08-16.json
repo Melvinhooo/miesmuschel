@@ -42,7 +42,7 @@
         {
           "kategorie": "value",
           "markt": "Ueber 2.5 Tore",
-          "quote": 1.80,
+          "quote": 1.8,
           "einsatz_euro": 8.25,
           "edge_prozent": 8,
           "begruendung": "Klassen-Duell Big-2 mit 2 Top-Angriffen (PL-25/26 die beiden torreichsten Teams) + CS-Cup-Format = weniger taktisch als PL-Ernstspiele + Elfer-Format erhoeht Offensiv-Push in 90min-Endphase. Historie CS-Duelle Arsenal-City: 2023 4:1 nach 1:1 (Elfer) = 2 Tore in 90min, 2014 3:0 = 3 Tore. HR08-15-4 Auftakts-Def-Krise-Cluster (indirekt, obwohl CS kein Liga-Auftakt). Aggregator-Konsens @1.80 fair. Faire Quote ~1.65. Stake 1.5% = 8.25€.",
@@ -64,7 +64,7 @@
         {
           "kategorie": "value",
           "markt": "Doppelte Chance: Manchester City oder Unentschieden",
-          "quote": 1.40,
+          "quote": 1.4,
           "einsatz_euro": 8.25,
           "edge_prozent": 6,
           "begruendung": "ManCity leichter Fav laut Aggregator (@2.50 vs Arsenal @2.56) + Draw-Cup-Format-Wahrscheinlichkeit ~30% + Maresca-Debuet-Nervositaets-Faktor beim ManCity-Sieg gedeckt. DC X2 @1.40 = 71% impl. Wahrscheinlichkeit - konservativer Absicherer bei Coinflip-Klassen-Duell. Faire Quote ~1.32. Stake 1.5% = 8.25€.",
@@ -75,23 +75,23 @@
         {
           "kategorie": "wackel",
           "markt": "Ueber 3.5 Tore",
-          "quote": 2.20,
+          "quote": 2.2,
           "einsatz_euro": 2.75,
           "edge_prozent": 5,
           "begruendung": "Wackel-Kanditat wg. Cup-Testcharakter + moegliche Rotation-Def-Loecher + Historie 2023 CS 1:1 (nur 2 Tore in 90min). Aber Torfestival-Blueprint bei Big-2-CS-Duellen moeglich (2014 3:0). Faire Quote ~2.10. Stake 0.5% = 2.75€.",
           "layer_2_tag": "ars-mci_ueber_35",
-          "faire_quote": 2.10,
+          "faire_quote": 2.1,
           "empfohlener_einsatz_prozent": 0.5
         },
         {
           "kategorie": "wackel",
           "markt": "Unentschieden nach 90min",
-          "quote": 3.20,
+          "quote": 3.2,
           "einsatz_euro": 2.75,
           "edge_prozent": 4,
           "begruendung": "Cup-Format + Coinflip-Klassen-Duell + Testcharakter beide Teams pre-Season = Draw-Wahrscheinlichkeit ~31% impl. bei @3.20. Historie 2023 CS-Duell endete 1:1. Wackel wegen Test-Charakter + Ehr-Motivation-Push in Endphase. Faire Quote ~3.10. Stake 0.5% = 2.75€.",
           "layer_2_tag": "ars-mci_draw",
-          "faire_quote": 3.10,
+          "faire_quote": 3.1,
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
@@ -136,12 +136,12 @@
         {
           "kategorie": "value",
           "markt": "Villarreal CF Sieg",
-          "quote": 2.20,
+          "quote": 2.2,
           "einsatz_euro": 8.25,
           "edge_prozent": 8,
           "begruendung": "HR08-16-1 Klassen-Duell-VALUE-Doktrin: Villarreal @2.20 = VALUE (nicht SAFE) wg. Aufsteiger-Home-Cauldron Racing + El-Sardinero-Fest-Atmo. Villarreal-Klassen-Edge (3. LaLiga 25/26 + Marcelino-System-Kontinuitaet + Kader-Tiefe) + Racing 14-Jahre-Absenz-Rustiness. Faire Quote ~2.00 (bet365-Impl.-Wahrsch. 45% vs fair 50%). Aber HR08-15-1 Aufsteiger-Blowout-Falle-Risiko dokumentiert. Stake 1.5% = 8.25€.",
           "layer_2_tag": "rac-vil_sieg_gast",
-          "faire_quote": 2.00,
+          "faire_quote": 2.0,
           "empfohlener_einsatz_prozent": 1.5
         },
         {
@@ -158,7 +158,7 @@
         {
           "kategorie": "value",
           "markt": "Ueber 2.5 Tore",
-          "quote": 2.00,
+          "quote": 2.0,
           "einsatz_euro": 8.25,
           "edge_prozent": 7,
           "begruendung": "HR08-15-4 Auftakts-Def-Krise-Cluster-Bias + Torfestival-Wahrscheinlichkeit bei Racing-Aufsteiger-Push + Villarreal-Off-Klasse. HR08-16-2 Late-Goal-Cluster Saison-Auftakt (4von5 mit 75+min Toren) - erhoeht Ü2.5-Wahrscheinlichkeit in 2.HZ. Faire Quote ~1.85. Stake 1.5% = 8.25€.",
@@ -169,7 +169,7 @@
         {
           "kategorie": "safe",
           "markt": "Doppelte Chance: Irgendein Team gewinnt (Kein Draw)",
-          "quote": 1.30,
+          "quote": 1.3,
           "einsatz_euro": 8.25,
           "edge_prozent": 4,
           "begruendung": "DC 12 @1.30 = 77% impl. Wahrscheinlichkeit - Draw historisch in LaLiga-Auftakten selten (~26%). Beide Teams motiviert (Villarreal Klassen-Edge-Ausleben, Racing Home-Cauldron-Signal). Grenzfall SAFE-VALUE - konservativer Absicherer. Faire Quote ~1.25. Stake 1.5% = 8.25€.",
@@ -180,7 +180,7 @@
         {
           "kategorie": "wackel",
           "markt": "Racing Santander Sieg",
-          "quote": 3.00,
+          "quote": 3.0,
           "einsatz_euro": 2.75,
           "edge_prozent": 6,
           "begruendung": "Contrarian-Underdog-Value HR08-10-1 (Cottbus-Blueprint) + Aufsteiger-Home-Cauldron-Faktor + El-Sardinero-Fest-Rueckkehr-Atmo + LaLiga-Auftakts-Klassen-Bruch-Risiko HR08-11-4. Sports-Mole-Modell gab Racing 38% - impl. Wahrsch. bei @3.00 = 33%. Wackel wg. HR08-15-1 Aufsteiger-Blowout-Reverse-Risiko (Momentum-Falle nach unten). Faire Quote ~2.85. Stake 0.5% = 2.75€.",
@@ -240,7 +240,7 @@
         {
           "kategorie": "value",
           "markt": "RCD Espanyol Sieg",
-          "quote": 2.10,
+          "quote": 2.1,
           "einsatz_euro": 8.25,
           "edge_prozent": 6,
           "begruendung": "Home-Fav @2.10 = 47.6% impl. Wahrscheinlichkeit - Wincomparator gibt Espanyol 41.87%, dimers 47.9%. Konsens leicht Home-Vorteil + Levante-Aufsteiger-Rustiness. Aber Vorbereitung 'stuttering' + Coinflip-Risiko. Faire Quote ~1.95. Stake 1.5% = 8.25€.",
@@ -262,7 +262,7 @@
         {
           "kategorie": "value",
           "markt": "Ueber 2.5 Tore",
-          "quote": 2.00,
+          "quote": 2.0,
           "einsatz_euro": 8.25,
           "edge_prozent": 7,
           "begruendung": "HR08-15-4 Auftakts-Def-Krise-Cluster + HR08-16-2 Late-Goal-Cluster + Coinflip-Motivations-Push beide Teams (Espanyol Klassenerhalt-Signal, Levante Aufsteiger-Momentum). Faire Quote ~1.85. Stake 1.5% = 8.25€.",
@@ -366,7 +366,7 @@
         {
           "kategorie": "wackel",
           "markt": "CA Osasuna Sieg",
-          "quote": 3.90,
+          "quote": 3.9,
           "einsatz_euro": 2.75,
           "edge_prozent": 3,
           "begruendung": "Contrarian-Underdog-Wette gegen Klassen-Konsens HR08-16-3 (Norwich-DC-Bruch-Warn-Blueprint). Osasuna 25/26 solide aber Auswaerts-Krise + Balaídos-Fortress = harter Faktor gegen. Wackel wg. LaLiga-Auftakts-Klassen-Bruch-Risiko HR08-11-4. Faire Quote ~3.85. Stake 0.5% = 2.75€.",
@@ -415,7 +415,7 @@
         {
           "kategorie": "safe",
           "markt": "Doppelte Chance: PSG oder Unentschieden",
-          "quote": 1.30,
+          "quote": 1.3,
           "einsatz_euro": 8.25,
           "edge_prozent": 5,
           "begruendung": "DC X2 @1.30 = 77% impl. Wahrscheinlichkeit - Sports-Mole PSG+Draw = 69.4% impl. + PSG-Klassen-Edge + Wettkampf-Rhythmus (Super-Cup-Sieg) + Cup-Format-Draw-Sicherung. HR08-13-1 wg. WM-Post-Rest reduziert Sieg-Vertrauen, aber DC X2 = konservativer Absicherer. Faire Quote ~1.22. Stake 1.5% = 8.25€.",
@@ -459,12 +459,12 @@
         {
           "kategorie": "wackel",
           "markt": "RC Lens Sieg",
-          "quote": 4.00,
+          "quote": 4.0,
           "einsatz_euro": 2.75,
           "edge_prozent": 5,
           "begruendung": "Contrarian-Underdog HR08-10-1 + Home-Cauldron-Faktor Bollaert + Cup-Motivation-Push + PSG-Rotations-Wackel HR08-13-1. Sports-Mole 30.5% impl. Wahrsch. bei @4.00 = 25% impl. Wackel wg. PSG-Klassen-Edge trotzdem klar. Faire Quote ~3.60. Stake 0.5% = 2.75€.",
           "layer_2_tag": "len-psg_sieg_heim",
-          "faire_quote": 3.60,
+          "faire_quote": 3.6,
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
@@ -479,16 +479,20 @@
       "quote": 1.28,
       "einsatz_euro": 8.25,
       "edge_prozent": 4,
-      "begruendung": "SAFE-Absicherer Celta Home-Fav @1.95 → DC 1X @1.28 = 78% impl. Balaídos-Fortress + Osasuna-Auswaerts-Krise. Faire Quote ~1.23. HR26 2:0-Insurance NICHT AKTIV LaLiga."
+      "begruendung": "SAFE-Absicherer Celta Home-Fav @1.95 → DC 1X @1.28 = 78% impl. Balaídos-Fortress + Osasuna-Auswaerts-Krise. Faire Quote ~1.23. HR26 2:0-Insurance NICHT AKTIV LaLiga.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
     },
     {
       "spiel_id": "2026-08-16-len-psg",
       "kategorie": "safe",
       "markt": "Doppelte Chance: PSG oder Unentschieden",
-      "quote": 1.30,
+      "quote": 1.3,
       "einsatz_euro": 8.25,
       "edge_prozent": 5,
-      "begruendung": "SAFE-Absicherer PSG-Klassen-Edge + Super-Cup-Wettkampf-Rhythmus. DC X2 @1.30 = 77% impl. Cup-Format-Draw-Sicherung. HR08-13-1 Rotations-Wackel via DC statt Sieg abgesichert."
+      "begruendung": "SAFE-Absicherer PSG-Klassen-Edge + Super-Cup-Wettkampf-Rhythmus. DC X2 @1.30 = 77% impl. Cup-Format-Draw-Sicherung. HR08-13-1 Rotations-Wackel via DC statt Sieg abgesichert.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
     },
     {
       "spiel_id": "2026-08-16-esp-lev",
@@ -497,7 +501,9 @@
       "quote": 1.35,
       "einsatz_euro": 8.25,
       "edge_prozent": 5,
-      "begruendung": "SAFE-Home-Fav-Absicherung + Wincomparator 77.80% impl. (Espanyol+Draw). Levante-Aufsteiger-Rustiness. Faire Quote ~1.28."
+      "begruendung": "SAFE-Home-Fav-Absicherung + Wincomparator 77.80% impl. (Espanyol+Draw). Levante-Aufsteiger-Rustiness. Faire Quote ~1.28.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
     },
     {
       "spiel_id": "2026-08-16-cel-osa",
@@ -506,16 +512,20 @@
       "quote": 1.95,
       "einsatz_euro": 8.25,
       "edge_prozent": 6,
-      "begruendung": "HR08-16-1 Klassen-Duell-VALUE-Doktrin: Celta @1.95 = VALUE (fast SAFE-Grenze). dimers 48.3% + Balaídos-Fortress + Osasuna-Auswaerts-Krise."
+      "begruendung": "HR08-16-1 Klassen-Duell-VALUE-Doktrin: Celta @1.95 = VALUE (fast SAFE-Grenze). dimers 48.3% + Balaídos-Fortress + Osasuna-Auswaerts-Krise.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
     },
     {
       "spiel_id": "2026-08-16-rac-vil",
       "kategorie": "value",
       "markt": "Villarreal CF Sieg",
-      "quote": 2.20,
+      "quote": 2.2,
       "einsatz_euro": 8.25,
       "edge_prozent": 8,
-      "begruendung": "HR08-16-1 Klassen-Duell-VALUE-Downgrade: Villarreal @2.20 = VALUE wg. Racing-Aufsteiger-Home-Cauldron. Villarreal 3. LaLiga 25/26 + Marcelino-System-Kontinuitaet."
+      "begruendung": "HR08-16-1 Klassen-Duell-VALUE-Downgrade: Villarreal @2.20 = VALUE wg. Racing-Aufsteiger-Home-Cauldron. Villarreal 3. LaLiga 25/26 + Marcelino-System-Kontinuitaet.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
     },
     {
       "spiel_id": "2026-08-16-len-psg",
@@ -524,16 +534,20 @@
       "quote": 1.85,
       "einsatz_euro": 8.25,
       "edge_prozent": 6,
-      "begruendung": "PSG-Klassen-Edge + Wettkampf-Rhythmus (Super-Cup 2:1 vs Villa). HR08-13-1 Rotations-Wackel dokumentiert - VALUE statt SAFE."
+      "begruendung": "PSG-Klassen-Edge + Wettkampf-Rhythmus (Super-Cup 2:1 vs Villa). HR08-13-1 Rotations-Wackel dokumentiert - VALUE statt SAFE.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6
     },
     {
       "spiel_id": "2026-08-16-esp-lev",
       "kategorie": "value",
       "markt": "RCD Espanyol Sieg",
-      "quote": 2.10,
+      "quote": 2.1,
       "einsatz_euro": 8.25,
       "edge_prozent": 6,
-      "begruendung": "Home-Fav @2.10 = 47.6% impl. dimers 47.9%. Konsens Home-Vorteil + Levante-Rustiness."
+      "begruendung": "Home-Fav @2.10 = 47.6% impl. dimers 47.9%. Konsens Home-Vorteil + Levante-Rustiness.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
     },
     {
       "spiel_id": "2026-08-16-esp-lev",
@@ -542,34 +556,42 @@
       "quote": 1.75,
       "einsatz_euro": 8.25,
       "edge_prozent": 8,
-      "begruendung": "Goldgrube-Cluster HR08-10-3 (+17.2%) + HR08-15-4 Auftakts-Def-Krise-Cluster + beide Def-Wackler."
+      "begruendung": "Goldgrube-Cluster HR08-10-3 (+17.2%) + HR08-15-4 Auftakts-Def-Krise-Cluster + beide Def-Wackler.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8
     },
     {
       "spiel_id": "2026-08-16-ars-mci",
       "kategorie": "value",
       "markt": "Ueber 2.5 Tore",
-      "quote": 1.80,
+      "quote": 1.8,
       "einsatz_euro": 8.25,
       "edge_prozent": 8,
-      "begruendung": "Klassen-Duell Big-2 + Cup-Format ohne Taktik + Elfer-Push in Endphase. Faire Quote ~1.65."
+      "begruendung": "Klassen-Duell Big-2 + Cup-Format ohne Taktik + Elfer-Push in Endphase. Faire Quote ~1.65.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 9
     },
     {
       "spiel_id": "2026-08-16-ars-mci",
       "kategorie": "wackel",
       "markt": "Ueber 3.5 Tore",
-      "quote": 2.20,
+      "quote": 2.2,
       "einsatz_euro": 2.75,
       "edge_prozent": 5,
-      "begruendung": "Wackel wg. Cup-Testcharakter + moegliche Rotation-Def-Loecher. Aber Torfestival-Blueprint bei Big-2-CS-Duellen (2014 3:0). Stake 0.5%."
+      "begruendung": "Wackel wg. Cup-Testcharakter + moegliche Rotation-Def-Loecher. Aber Torfestival-Blueprint bei Big-2-CS-Duellen (2014 3:0). Stake 0.5%.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10
     },
     {
       "spiel_id": "2026-08-16-rac-vil",
       "kategorie": "wackel",
       "markt": "Racing Santander Sieg",
-      "quote": 3.00,
+      "quote": 3.0,
       "einsatz_euro": 2.75,
       "edge_prozent": 6,
-      "begruendung": "Contrarian-Underdog HR08-10-1 + Aufsteiger-Home-Cauldron + El-Sardinero-Fest-Rueckkehr-Atmo. Sports-Mole 38% impl. Wackel wg. HR08-15-1."
+      "begruendung": "Contrarian-Underdog HR08-10-1 + Aufsteiger-Home-Cauldron + El-Sardinero-Fest-Rueckkehr-Atmo. Sports-Mole 38% impl. Wackel wg. HR08-15-1.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 11
     }
   ],
   "kombis": [
@@ -585,7 +607,7 @@
         {
           "spiel_id": "2026-08-16-len-psg",
           "markt": "Doppelte Chance: PSG oder Unentschieden",
-          "quote": 1.30,
+          "quote": 1.3,
           "layer_2_tag": "len-psg_dc_x2"
         },
         {
@@ -597,7 +619,7 @@
       ],
       "gesamtquote": 3.42,
       "gesamtquote_rechnung": "1.95 x 1.30 x 1.35 = 3.42",
-      "einsatz_euro": 11.00,
+      "einsatz_euro": 11.0,
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "Safe-Kombi 3.42x = 3 Klassen-Absicherer aus 3 verschiedenen Spielen: Celta Home-Fav Sieg (VALUE-Grenzfall) + PSG Klassen-Edge via DC (Cup-Absicherung) + Espanyol Home-Fav via DC. HR08-15-2 Cross-Kombi-Konzentration-OK: alle 3 Beine unabhaengig, keine 2-Beine-Spiele. HR08-16-1 Klassen-Duell-VALUE-Doktrin angewandt (Celta @1.95 als Sieg, PSG+Espanyol als DC-Absicherer). Kein Bein aus Racing-Villarreal (Aufsteiger-Cauldron-Risiko) oder Community Shield (Coinflip)."
     },
@@ -613,19 +635,19 @@
         {
           "spiel_id": "2026-08-16-ars-mci",
           "markt": "Ueber 2.5 Tore",
-          "quote": 1.80,
+          "quote": 1.8,
           "layer_2_tag": "ars-mci_ueber_25"
         },
         {
           "spiel_id": "2026-08-16-rac-vil",
           "markt": "Ueber 2.5 Tore",
-          "quote": 2.00,
+          "quote": 2.0,
           "layer_2_tag": "rac-vil_ueber_25"
         }
       ],
-      "gesamtquote": 6.30,
+      "gesamtquote": 6.3,
       "gesamtquote_rechnung": "1.75 x 1.80 x 2.00 = 6.30",
-      "einsatz_euro": 4.40,
+      "einsatz_euro": 4.4,
       "empfohlener_einsatz_prozent": 0.8,
       "begruendung": "Balance-Kombi 6.30x = HR08-15-4 Auftakts-Def-Krise-Cluster-System (Goldgrube-BTTS/Ü2.5). 3 Beine aus 3 verschiedenen Spielen. KEIN Sieg-Outcome (Layer-2 hart erfuellt). HR08-10-3 Goldgrube-BTTS-Cluster + HR08-16-2 Late-Goal-Cluster. Kein Overlap mit Safe-Kombi."
     },
@@ -635,13 +657,13 @@
         {
           "spiel_id": "2026-08-16-rac-vil",
           "markt": "Racing Santander Sieg",
-          "quote": 3.00,
+          "quote": 3.0,
           "layer_2_tag": "rac-vil_sieg_heim"
         },
         {
           "spiel_id": "2026-08-16-ars-mci",
           "markt": "Ueber 3.5 Tore",
-          "quote": 2.20,
+          "quote": 2.2,
           "layer_2_tag": "ars-mci_ueber_35"
         },
         {
@@ -659,7 +681,7 @@
       ],
       "gesamtquote": 21.37,
       "gesamtquote_rechnung": "3.00 x 2.20 x 1.75 x 1.85 = 21.37",
-      "einsatz_euro": 1.40,
+      "einsatz_euro": 1.4,
       "empfohlener_einsatz_prozent": 0.25,
       "begruendung": "Risiko-Kombi 21.37x = 4 Beine, max 1 Sieg-Outcome (Racing Sieg = Contrarian-Underdog HR08-10-1). 3 Tor-Total/BTTS-Beine aus 3 verschiedenen Spielen. Racing-Villarreal-Spiel in 2 Kombis (Balance Ü2.5 + Risk Racing Sieg = Layer-3-Weichbruch dokumentiert bei 5-Spiele-Slate). Community Shield in 2 Kombis (Balance Ü2.5 + Risk Ü3.5 = verschieden Beine, Layer-3-Weichbruch OK)."
     },
@@ -667,35 +689,18 @@
       "profil": "moonshot",
       "beine": [
         {
-          "spiel_id": "2026-08-16-cel-osa",
-          "markt": "CA Osasuna Sieg",
-          "quote": 3.90,
-          "layer_2_tag": "cel-osa_sieg_gast"
-        },
-        {
           "spiel_id": "2026-08-16-esp-lev",
           "markt": "Levante UD Sieg",
           "quote": 3.75,
           "layer_2_tag": "esp-lev_sieg_gast"
-        },
-        {
-          "spiel_id": "2026-08-16-len-psg",
-          "markt": "RC Lens Sieg",
-          "quote": 4.00,
-          "layer_2_tag": "len-psg_sieg_heim"
-        },
-        {
-          "spiel_id": "2026-08-16-ars-mci",
-          "markt": "Unentschieden nach 90min",
-          "quote": 3.20,
-          "layer_2_tag": "ars-mci_draw"
         }
       ],
-      "gesamtquote": 187.20,
+      "gesamtquote": 3.75,
       "gesamtquote_rechnung": "3.90 x 3.75 x 4.00 x 3.20 = 187.20",
       "einsatz_euro": 0.55,
       "empfohlener_einsatz_prozent": 0.1,
-      "begruendung": "Moonshot-Kombi 187.20x = 3 Underdog-Siege (Osasuna vs Celta-Fav + Levante vs Espanyol-Fav + Lens vs PSG-Fav) + Community Shield Draw. Alle 4 Beine aus 4 verschiedenen Spielen. HR08-15-3 Blowout-Ergebnis-Rueckfall-Vermeidung: KEIN 3:0/4:0-Ergebnis-Bein - stattdessen Underdog-Siege + Draw. Layer-2 Sieg-Outcome-Bein-Ebene: Osasuna/Levante/Lens-Sieg-Beine (Moonshot) sind Konter-Underdog-Beine zu Celta/Espanyol/PSG-Fav-Beinen (Safe) - verschiedene Beine im gleichen Spiel akzeptiert weil Moonshot-Prinzip Konter-Kombi erfordert. Draw Community Shield ist einziges Sieg-artiges-Bein in Community Shield (Layer-2 hart OK). Impl. Wahrscheinlichkeit ~0.5% - klassischer Spass-Einsatz."
+      "begruendung": "Moonshot-Kombi 187.20x = 3 Underdog-Siege (Osasuna vs Celta-Fav + Levante vs Espanyol-Fav + Lens vs PSG-Fav) + Community Shield Draw. Alle 4 Beine aus 4 verschiedenen Spielen. HR08-15-3 Blowout-Ergebnis-Rueckfall-Vermeidung: KEIN 3:0/4:0-Ergebnis-Bein - stattdessen Underdog-Siege + Draw. Layer-2 Sieg-Outcome-Bein-Ebene: Osasuna/Levante/Lens-Sieg-Beine (Moonshot) sind Konter-Underdog-Beine zu Celta/Espanyol/PSG-Fav-Beinen (Safe) - verschiedene Beine im gleichen Spiel akzeptiert weil Moonshot-Prinzip Konter-Kombi erfordert. Draw Community Shield ist einziges Sieg-artiges-Bein in Community Shield (Layer-2 hart OK). Impl. Wahrscheinlichkeit ~0.5% - klassischer Spass-Einsatz.",
+      "rechnung": "3.75 = 3.75"
     }
   ],
   "lessons_angewandt": [

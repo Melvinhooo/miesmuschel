@@ -284,21 +284,6 @@
       "einsatz_euro": 1.4,
       "empfohlener_einsatz_prozent": 0.25,
       "begruendung": "3 Beine: Sieg Plymouth (Klassen-Edge, nicht in Safe), Doppelpack Ramirez (18-Tore-Volume-9er Upside), BTTS Sirius (Goldgrube). Layer-2 ✓ (Sieg Plymouth einzige Sieg-Outcome, unique). Layer-3 ✓ (3 unterschiedliche Spiele). Layer-4 ✓ (1 Torschützen-Bein). Kasse-Stufe 1 Risiko-Stake 0.25% = 1.40€. HR08-10-4 Underdog-Seite Volume-9er als Longshot-Anker."
-    },
-    {
-      "profil": "moonshot",
-      "beine": [
-        {
-          "spiel_id": "2026-08-10-sca-nac",
-          "markt": "Sieg CD Nacional",
-          "quote": 4.88
-        }
-      ],
-      "gesamtquote": 4.88,
-      "rechnung": "4.88 = 4.88",
-      "einsatz_euro": 0.55,
-      "empfohlener_einsatz_prozent": 0.1,
-      "begruendung": "3 Underdog-Sieg-Beine (Kontra-Portfolio zu Safe/Balance/Risiko - Hedge-Charakter). HR08-10-1 Contrarian-Sieg-Trigger lightweight angewendet: Brommapojkarna gegen 13-2-0 Sirius (extreme Klassen-Umkehr), Nacional gegen Santa Clara (Auftakts-Chaos möglich), Exeter gegen Plymouth (Cup-R1-Rotations-Random). HR08-09-1 Ausnahme dokumentiert: Moonshot als Lotterie-Charakter mit 0.10% Stake = 0.55€. Layer-2 ✓ (alle 3 Sieg-Outcomes unique, mutual exklusiv zu Safe/Balance/Risiko). Bust-Risiko bewusst akzeptiert."
     }
   ],
   "lessons_angewandt": [
