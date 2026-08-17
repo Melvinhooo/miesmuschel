@@ -1,0 +1,17 @@
+{
+  "stand": "2026-08-17T17:52:50.710436+00:00",
+  "gesendet": {
+    "2026-08-17-dep-elc": {
+      "sent_at": "2026-08-17T17:52:49.348624+00:00",
+      "anstoss": "2026-08-17T21:00:00+02:00",
+      "spiel": "Deportivo La Coruna vs Elche CF",
+      "top_tipp": "Doppelte Chance: Deportivo La Coruna oder Unentschieden"
+    },
+    "2026-08-17-car-wre": {
+      "sent_at": "2026-08-17T17:52:49.348624+00:00",
+      "anstoss": "2026-08-17T21:00:00+02:00",
+      "spiel": "Cardiff City vs Wrexham AFC",
+      "top_tipp": "Doppelte Chance: Cardiff City oder Unentschieden"
+    }
+  }
+}
