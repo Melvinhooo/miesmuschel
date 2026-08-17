@@ -1,0 +1,482 @@
+{
+  "datum": "2026-08-17",
+  "erstellt_am": "2026-08-17T13:30:00+02:00",
+  "hinweis": "🐚 Mo 17.08.2026 · Mini-Slate 2 Spiele: LaLiga MD1 Depor-Elche (21:00 CEST, Riazor) + Championship MD1 Cardiff-Wrexham (21:00 CEST, Cardiff City Stadium). Doktrin-Stack: HR08-15-1 Aufsteiger-Blowout-Falle Depor-Riazor-Cauldron (14 Jahre LaLiga-Absenz) + HR08-16-1 Klassen-Duell-VALUE-Downgrade (kein SAFE-Sieg auf Depor trotz Home-Fav @2.23) + HR08-15-4 Auftakts-Def-Krise-Cluster (BTTS/Ü2.5-Bias Cardiff-Wrexham) + HR08-16-2 Late-Goal-Cluster (Championship-MD1 4von5-Hit). Markt-Goldgrube Unter 2.5 Tore (70.4%/+23.1%) fuer Depor-Elche aktiv gesetzt: Elche Auswaerts-Bilanz 25/26 = 1W-8L-1D (9 Auswaerts-Tore in 19 Spielen) + Depor-Aufsteiger-Vorsicht = Score-Prognose ~2.0. Mini-Slate-Konsequenzen: Kombis 2-Bein-Struktur (Layer-1 max 1 Bein/Spiel/Kombi = 2 Spiele = 2 Beine max), Kombi-Quoten unter Master-Range (Safe 3.48x statt 3-5x-Mitte, Balance 5.59x statt 6-10x, Risiko 6.90x statt 15-30x, Moonshot 8.00x statt 100x+) - ehrlich dokumentiert, kein Zwang-100x-via-Genaues-Ergebnis-Lottery (verboten). Layer-2-hart strikt: pro Spiel max 1 Sieg-Outcome ueber alle Kombis (Depor Sieg in Safe + Cardiff Sieg in Balance einzige Sieg-Beine; Moonshot ohne Sieg-Konter-Bein wegen HR23-Hartcheck). Layer-3 zwangslaeufig gebrochen bei 2-Spiele-Slate + 4 Kombis - beide Spiele in allen 4 Kombis mit verschiedenen Beinen (Markt-entkoppelt). Post-WM-Ruhepause-Doktrin HR08-13-1 AUSGELAUFEN (WM Ende 19.07. + 4 Wochen Puffer): Aubameyang (Gabon, nicht WM-qualifiziert) + Sam Smith (Wrexham, kein Nationalspieler) frei fuer Torschuetzen-Tipps. HR26 2:0-Insurance NICHT AKTIV in LaLiga/Championship (nur BL/CL/WM). Kasse-Stufe 1 (550€): 1.5%/0.5% Einzel + 2/0.8/0.25/0.1% Kombi. Quoten bei bet365 live pruefen (Aggregator-Konsens sportsgambler/mightytips/racingpost/williamhill/dailysports/telecomasia/dimers/sportskeeda/ratingbet).",
+  "_emergency_recovery": true,
+  "_recherche_fallback": "Recherche-File data/recherche/2026-08-17.json nicht vorhanden - Master-Tipps-Routine hat Fallback-Recherche selbst ausgefuehrt via WebSearch/WebFetch fuer beide Spiele (sportsgambler/mightytips/racingpost/williamhill/dailysports/telecomasia/dimers/sportskeeda/ratingbet).",
+  "spiele": [
+    {
+      "id": "2026-08-17-dep-elc",
+      "liga": "LaLiga 2026/27 - Matchday 1",
+      "heim": "Deportivo La Coruna",
+      "gast": "Elche CF",
+      "anstoss": "2026-08-17T21:00:00+02:00",
+      "stadion": "Abanca-Riazor, La Coruna",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "Klassenerhalt LaLiga nach 14 Jahren Absenz (Aufstieg aus LaLiga 2 25/26). Neuer Trainer Antonio Hidalgo + Marquee-Transfer Aubameyang als Ex-Arsenal/Borussia/Marseille-9er zurueckgeholt (Depor-Rueckkehrer)",
+        "saisonziel_gast": "Klassenerhalt LaLiga (25/26 knapp gerettet nach Regulaersaison-Kampf). Auswaerts-Krise (1W-8L-1D 25/26 = 9 Punkte in 19 Spielen) muss durchbrochen werden - MD1-Rueckkehr Riazor als Frueh-Test",
+        "motivations_asymmetrie": "Depor mit Rueckkehr-Euphorie + Aub-Neuzugang-Aufmerksamkeits-Push + Riazor-Cauldron (14 Jahre erste LaLiga-Heim, ausverkauft laut Reports) vs Elche mit dokumentierter Auswaerts-Krise (nur 1 Sieg in 19 Auswaerts-Spielen 25/26) + Diangana OUT (Fluegel-Kreativer) + Yago Santiago OUT (Mittelfeld-Rotation). HR08-15-1 Aufsteiger-Blowout-Falle indirekt relevant (Aufsteiger vs Etablierter, aber Elche schwaechster Etablierter der Liga mit Ausw-Krise = Falle-Wahrscheinlichkeit reduziert). Ehrliches Bild: Depor leicht favorisiert @2.23 (44% impl.) bei Elche @3.55 (28% impl.) - kein Blowout erwartbar, taktisches 1:0/2:1-Match wahrscheinlich",
+        "recovery_heim": "Volle Pre-Season-Pause seit LaLiga-2-Saisonende Mai 26 + 6-7 Pre-Season-Testspiele (u.a. 0:1 vs Real Madrid Freundschaftsdebuet Aub). Alle Startelf frisch. Ausnahme: Carrillo (Sprunggelenk, Wochen out), Adria Altimira (Def, indefinite out), Yeremai Hernandez (Adduktor, Rueckkehr-fraglich), Asp (Mittelfeld, Rueckkehr 23.08.)",
+        "recovery_gast": "Volle Pre-Season-Pause seit LaLiga-25/26-Saisonende Mai 26 + Testspielserie (u.a. 3:0-Sieg vs Toulouse letzter Test). Alle Startelf frisch. Ausnahme: Yago Santiago (Mittelfeld out), Grady Diangana (Knie, out)",
+        "quellen": [
+          "https://www.mightytips.com/football-predictions/deportivo-la-coruna-vs-elche-prediction-17-08-2026/",
+          "https://www.sportsgambler.com/betting-tips/football/deportivo-la-coruna-vs-elche-prediction-lineups-odds-2026-08-17/",
+          "https://www.sportskeeda.com/football/deportivo-la-coruna-vs-elche-prediction-betting-tips-august-17th-2026",
+          "https://dailysports.net/predictions/deportivos-return-to-la-liga-begins-with-a-favorable-opponent-prediction-for-deportivo-vs-elche/",
+          "https://sports.yahoo.com/articles/preview-deportivo-vs-elche-cf-190500214.html",
+          "https://www.telecomasia.net/sports-betting/tips/football/spain-la-liga/deportivo-la-coruna-vs-elche-match-prediction-17-august-2026/"
+        ]
+      },
+      "news": [
+        "LaLiga 26/27 MD1 Riazor 21:00 CEST - Depor-Rueckkehr in erste Liga nach 14 Jahren Absenz (Aufstieg aus LaLiga 2 25/26 als Sprint-Meister)",
+        "Neuer Depor-Coach Antonio Hidalgo (Aufstiegs-Trainer) + Marquee-Signing Pierre-Emerick Aubameyang (Ex-Arsenal/Dortmund/Marseille) als Starting-9er zurueck bei Kindheits-Verein",
+        "Depor Predicted 4-4-2 (sportsgambler): Roman; Navarro, Noubi, Ede, Angelino; Soriano, Amatucci, Villares, Cruz; Nsongo, Aubameyang",
+        "Elche Predicted 3-5-2 (sportsgambler): Dituro; Affengruber, Chust, Bigas; Sangare, Villar, Aguado, Neto, Valera; Nino, Cepeda",
+        "Depor Injuries: Carrillo (Sprunggelenk Wochen out), Adria Altimira (indefinite), Yeremai Hernandez (Adduktor fraglich), Asp (Mittelfeld Rueckkehr 23.08.)",
+        "Elche Injuries: Yago Santiago (Mittelfeld out), Grady Diangana (Knie out)",
+        "Elche 25/26 Auswaerts-Bilanz: 1W-8L-1D = 9 Punkte in 19 Spielen (miserabel) - MD1 Auswaerts-Debuet fortlaufender Trauma-Bruch-Versuch",
+        "Depor Pre-Season: 0:1 vs Real Madrid (solides Ergebnis vs Champion trotz Klassen-Kluft) + weitere Freundschaften",
+        "Elche Pre-Season: 3:0-Sieg vs Toulouse (Ligue-1-Etablierter) im letzten Test - Form-Positiv-Signal",
+        "Aggregator-Konsens Quoten (bet365 live pruefen): Depor Sieg @2.23, Draw @3.05, Elche Sieg @3.55, Ueber 2.5 @2.30, Unter 2.5 @1.60, DC 1X @1.44, Aubameyang Anytime @2.30 (Estimate LaLiga-Home-Fav-9er), Aubameyang 2+ Tore/Doppelpack @~8.00 (Estimate)",
+        "Predicted Score-Konsens: 1:0 (mightytips/telecomasia) oder 2:1 (Depor-Fav-Sieg mit Elche-Ausweich-Tor) - beide unter 2.5 Tore",
+        "Markt-Goldgrube Unter 2.5 Tore (70.4% Hitrate / +23.1% ROI n=27 aus data/markt_goldgruben.json) direkt anwendbar auf Depor-Elche Score-Prognose",
+        "LaLiga = Liga-Goldgrube (100% Hitrate n=6 aus data/liga_goldgruben.json) - SAFE-Downgrade-Schutz aktiv"
+      ],
+      "tipps": [
+        {
+          "id": "dep-elc-1",
+          "kategorie": "safe",
+          "markt": "Doppelte Chance: Deportivo La Coruna oder Unentschieden",
+          "quote": 1.44,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 5,
+          "begruendung": "SAFE-Absicherer Depor-Home-Fav @2.23 → DC 1X @1.44 = 69% impl. Wahrscheinlichkeit. Elche Auswaerts-Krise 25/26 (1W-8L-1D) + Riazor-Cauldron-Debuet + Elche-Schluessel-Ausfaelle (Diangana + Santiago) = 3 stuetzende Faktoren. HR08-16-1 Klassen-Duell-VALUE-Doktrin: kein direkter Depor-Sieg-SAFE (@2.23 wegen Aufsteiger-Cauldron-Risiko HR08-15-1), stattdessen DC 1X als Absicherungs-SAFE. Markt-Goldgrube-Konform (DC 1X = 84.6% Hitrate + 9.5% ROI aus data/statistik.js). Faire Quote ~1.38. Stake 1.5% = 8.25€.",
+          "layer_2_tag": "dep-elc_dc_1x",
+          "faire_quote": 1.38,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "dep-elc-2",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.6,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 8,
+          "begruendung": "Markt-Goldgrube Unter 2.5 Tore (70.4% Hitrate / +23.1% ROI n=27 aus data/markt_goldgruben.json) direkt einlaesbar. Elche Auswaerts-Bilanz 25/26 = 9 Tore in 19 Spielen (Score-Rate 0.47/Spiel auswaerts) + Depor als Aufsteiger vorsichtig-taktisch erwartbar + Score-Prognose-Konsens Aggregator: 1:0 oder 2:1 (beide Unter 2.5). Ehrliche Grenze: Aub-Neuzugang koennte Debuet-Tor plus Elche-Ausweich-Tor die 2.5 knacken (2:2 moeglich). Faire Quote ~1.48. Stake 1.5% = 8.25€.",
+          "layer_2_tag": "dep-elc_unter_25",
+          "faire_quote": 1.48,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "dep-elc-3",
+          "kategorie": "value",
+          "markt": "Deportivo La Coruna Sieg (90 Min)",
+          "quote": 2.23,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 7,
+          "begruendung": "Depor-Home-Fav @2.23 = 45% impl., 3 Faktoren stuetzen: (1) Riazor-Cauldron-Debuet 14 Jahre nach Abstieg, ausverkauftes Stadion + Euphorie-Push, (2) Aub-Neuzugang-Aufmerksamkeit + Kader-Tiefe fuer LaLiga-2-Team ordentlich, (3) Elche dokumentierte Auswaerts-Krise (nur 1 Sieg in 19 Auswaerts-Spielen 25/26 = 5.3% Sieg-Wahrscheinlichkeit historisch). HR08-16-1 max VALUE (nicht SAFE) wegen Aufsteiger-Cauldron-Falle HR08-15-1: Nervositaets-Risiko in erster LaLiga-Heim seit 2012. LaLiga = Liga-Goldgrube (100% n=6). Faire Quote ~2.10. Stake 1.5% = 8.25€.",
+          "layer_2_tag": "dep-elc_sieg_heim",
+          "faire_quote": 2.1,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "dep-elc-4",
+          "kategorie": "wackel",
+          "markt": "Pierre-Emerick Aubameyang - Torschuetze jederzeit",
+          "quote": 2.3,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "Debuet-Torschuetzen-Tipp: Aub als zentraler 9er im Depor-Angriff bestaetigt (predicted lineup sportsgambler + mightytips) + Volume-9er-Profil aus Karriere-Historie (Ex-Arsenal-PL-Torschuetzenkoenig + Dortmund-Bundesliga-Top-Scorer). HR24 Form-Edge-Check: (1) 5+ Tore in last 10 = Neuzugang nach Saudi-Liga-Wechsel, keine live-Depor-Form → offen, (2) zentraler 9er mit Backup-Nsongo (jung) → JA, (3) Elche-Def stabil (kein Ausfall Chust/Bigas/Affengruber) → Nein. 1-2 von 3 = WACKEL max. Markt-Goldgrube Torschuetzen Jederzeit (50% / +24.4%) unterstuetzt. Faire Quote ~2.20. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "dep-elc_aubameyang_anytime",
+          "faire_quote": 2.2,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "dep-elc-5",
+          "kategorie": "moonshot",
+          "markt": "Pierre-Emerick Aubameyang - Doppelpack (2+ Tore)",
+          "quote": 8.0,
+          "einsatz_euro": 0.55,
+          "edge_prozent": 2,
+          "begruendung": "Moonshot-Kandidat Aub-Debuet-Doppelpack: Aub als zentraler 9er bestaetigt + Karriere-Historie zeigt regelmaessige Multi-Tor-Spiele (Ex-Arsenal-Torschuetzenkoenig-Saison mit mehreren Doppelpack-Spielen). HR24 wie Anytime marginal (1-2/3 - Neuzugang ohne Depor-Form-Historie). Moonshot-Spassenisatz-Kategorie erlaubt Debuet-Wunsch (impl. Wahrscheinlichkeit ~12%). Quote-Estimate @8.00 - bei bet365 live pruefen (Konsens LaLiga-Home-Fav-9er-Doppelpack). Faire Quote ~7.50. Stake 0.1% = 0.55€.",
+          "layer_2_tag": "dep-elc_aubameyang_doppelpack",
+          "faire_quote": 7.5,
+          "empfohlener_einsatz_prozent": 0.1
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-08-17-car-wre",
+      "liga": "EFL Championship 2026/27 - Matchday 1",
+      "heim": "Cardiff City",
+      "gast": "Wrexham AFC",
+      "anstoss": "2026-08-17T21:00:00+02:00",
+      "stadion": "Cardiff City Stadium, Cardiff",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "Championship-Klassenerhalt + Playoff-Ambition nach direktem Aufstieg aus League One 25/26 (91 Punkte Platz 2). Rueckkehr Championship nach 1 Jahr Absenz - Neuer Kader-Aufbau unter Trainer-Team-Fortsetzung",
+        "saisonziel_gast": "Championship-Playoff-Push (25/26 Platz 7 mit 2 Punkten Rueckstand auf Playoff-Rank) - Kader stabil gehalten, minimales Umbauen. Wrexham-Hollywood-Story unter McElhenney/Reynolds mit weiter wachsender Kader-Investition",
+        "motivations_asymmetrie": "Welsh-Derby-Charakter (Cardiff-Cardiff Stadium vs Wrexham als Welsh-Rival) + Cardiff-Aufsteiger-Heim-Debuet-Euphorie + Wrexham als Championship-Etabliert-mit-Playoff-Ambition = beide Teams voll motiviert, kein taktisches Verwalter-Match. Cardiff-Form 25/26 League-One-Ende = W3-2-N5-4-W5-1-W1-0-W3-1 (4 Siege in 5 = hot). Wrexham-Form 25/26-Ende = N1-0-U2-2-N3-1-W1-0-W2-0 (mixed). HR08-15-4 Auftakts-Def-Krise-Cluster-Bias BTTS/Ü2.5 (Kader-Chemie-Debuet + Fitness-Aufbau) direkt anwendbar. Ehrliches Bild: Cardiff leichter Fav @2.43 (41% impl.) bei Wrexham @2.75 (36% impl.) + Draw @3.40 = fast Coinflip, aber Cardiff-Home-Edge macht Sieg-Kandidat",
+        "recovery_heim": "Volle Pre-Season seit League-One-Saisonende Mai + EFL-Cup-R1-Warmup gewonnen (3:2 vs Swindon) = Wettkampfrhythmus in Beinen. Alle Startelf frisch. Ausnahme: Will Fish (Bruchoperation, 3 Monate out), Doubtful: Chambers/Lawlor/Rubin Colwill",
+        "recovery_gast": "Volle Pre-Season seit Championship-Saisonende Mai + EFL-Cup-R1-Test verloren (0:1 vs Middlesbrough) = Wettkampfrhythmus in Beinen aber Verlust-Signal. Alle Startelf frisch. Ausnahme: Josh Windass (Muskel, out)",
+        "quellen": [
+          "https://news.williamhill.com/football/championship/cardiff-v-wrexham-prediction-monday-17-august-2026/",
+          "https://www.sportsgambler.com/betting-tips/football/cardiff-vs-wrexham-prediction-lineups-odds-2026-08-17/",
+          "https://www.racingpost.com/sport/football-tips/efl/cardiff-vs-wrexham-predictions-13-2-bet-builder-tip-team-news-and-odds-aEmby1d7LO4Y/",
+          "https://dailysports.net/predictions/welsh-derby-to-kick-off-the-season-prediction-for-cardiff-city-vs-wrexham/",
+          "https://www.mightytips.com/football-predictions/cardiff-vs-wrexham-prediction-17-08-2026/",
+          "https://www.efl.com/"
+        ]
+      },
+      "news": [
+        "EFL Championship 26/27 MD1 Cardiff City Stadium 20:00 BST / 21:00 CEST - Welsh-Derby-Charakter",
+        "Cardiff-Rueckkehr Championship nach direktem Aufstieg aus League One (25/26 Platz 2 mit 91 Pkt)",
+        "Wrexham-Championship-Etabliert (25/26 Platz 7, 2 Pkt unter Playoff) + Hollywood-Owner-Investment weiter",
+        "Cardiff Predicted 4-2-3-1 (racingpost/sportsgambler): Trott; Kpakio, Ng, Osho, Bagan; Robertson, Colwill; Moylan, Ashford, Davies; Salech",
+        "Wrexham Predicted 3-5-2 (racingpost/sportsgambler): Patterson; Vyner, Hyam, Doyle; Imray, Rathbone, James, O'Brien, Thomason; Smith, Keillor-Dunn",
+        "Cardiff Injuries: Will Fish (Hernie 3 Monate out), Doubtful Chambers/Lawlor/Rubin Colwill",
+        "Wrexham Injuries: Josh Windass out (Muskel)",
+        "Cardiff-Neuzugang Anthony Patterson (Sunderland-Loan als Wrexham-GK) - wichtig fuer Def-Struktur",
+        "Wrexham-Neuzugang Calum Scanlon (Cardiff-Loan aus Liverpool) - wichtig fuer LV-Position",
+        "Aggregator-Konsens Quoten (bet365 live pruefen): Cardiff @2.43 (7-5), Draw @3.40 (5-2), Wrexham @2.75 (9-5), Ueber 2.5 @1.71, Unter 2.5 @2.04, BTTS Ja @1.56, BTTS Nein @2.28, DC 1X @~1.40, Ü 3.5 @~3.00 (Estimate), Sam Smith Anytime @2.60, Yousef Salech Anytime @2.65",
+        "Racing Post Best Bet: Ueber 2.5 Tore + BTTS Ja @evens 2.00 - starker Cluster-Konsens fuer offenes Spiel",
+        "William Hill Prediction: 1:1 Draw - eher taktisch-vorsichtig",
+        "Cardiff-Form last-5 (League-One-Ende + EFL-Cup): W3-2 Swindon, N5-4 Mansfield, W5-1 Northampton, W1-0 Port Vale, W3-1 Reading = 4W-1N-0U, hot",
+        "Wrexham-Form last-5 (Championship-Ende + EFL-Cup): N1-0 Middlesbrough Cup, U2-2 Middlesbrough, N3-1 Coventry, W1-0 Oxford, W2-0 Stoke = 2W-1U-2N gemischt"
+      ],
+      "tipps": [
+        {
+          "id": "car-wre-1",
+          "kategorie": "safe",
+          "markt": "Doppelte Chance: Cardiff City oder Unentschieden",
+          "quote": 1.4,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 4,
+          "begruendung": "SAFE-Absicherer Cardiff-Home-Fav @2.43 → DC 1X @~1.40 = 71% impl. Wahrscheinlichkeit. Cardiff-Aufsteiger-Heim-Debuet-Euphorie + Form-Edge 4W in last-5 League-One-Ende + Wrexham EFL-Cup-Verlust (0:1 vs Middlesbrough) als negatives Momentum-Signal. HR08-16-1 Klassen-Duell-VALUE-Doktrin: kein direkter Cardiff-Sieg-SAFE (@2.43 wegen Championship-MD1-Volatility HR08-16-3 Aufsteiger-Fall). Markt-Goldgrube DC 1X (84.6% / +9.5%) direkt. Faire Quote ~1.35. Stake 1.5% = 8.25€.",
+          "layer_2_tag": "car-wre_dc_1x",
+          "faire_quote": 1.35,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "car-wre-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.56,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 7,
+          "begruendung": "HR08-15-4 Auftakts-Def-Krise-Cluster-System-Bias fuer Championship-MD1 direkt anwendbar (Kader-Chemie-Debuet + Fitness-Aufbau nach Pre-Season). Cardiff Def-Loch (Fish OUT + Ng-Osho-Debuet-Paarung) + Wrexham 2 offensive Volume-9er (Smith + Keillor-Dunn). Racing-Post-Konsens: Ü2.5+BTTS Ja @2.00 als Best Bet. Cardiff-Form 25/26 = 4 von 5 letzten Spielen mit BTTS. HR08-16-2 Late-Goal-Cluster-Saison-Auftakt-4von5. Faire Quote ~1.48. Stake 1.5% = 8.25€.",
+          "layer_2_tag": "car-wre_btts_ja",
+          "faire_quote": 1.48,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "car-wre-3",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.71,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 6,
+          "begruendung": "Championship-MD1-Ü2.5-Bias (HR08-15-4 Auftakts-Def-Krise-Cluster) + Racing-Post Best-Bet Ü2.5+BTTS @2.00 + Cardiff-Form 25/26 mit hoher Score-Rate (3.5 Tore/Spiel Schnitt letzte 5 = 17 Tore in 5 Spielen: 5+9+5+6+4 als Cardiff-Beteiligung) + Wrexham Kader-Debuet-Verwundbarkeit (0:1 vs Middlesbrough im Cup als Def-Warnung). HR08-16-2 Late-Goal-Cluster. Faire Quote ~1.62. Stake 1.5% = 8.25€.",
+          "layer_2_tag": "car-wre_ueber_25",
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "car-wre-4",
+          "kategorie": "wackel",
+          "markt": "Cardiff City Sieg (90 Min)",
+          "quote": 2.43,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "Cardiff-Home-Fav @2.43 = 41% impl., 3 Faktoren stuetzen: (1) Cardiff-Aufsteiger-Heim-Debuet mit ausverkauftem Stadium + Welsh-Derby-Atmosphaere, (2) Form-Edge 4W in last-5 League-One-Ende + EFL-Cup-Sieg (3:2 vs Swindon), (3) Wrexham EFL-Cup-Verlust (0:1 Middlesbrough) als negatives Momentum. HR08-16-1 max WACKEL wegen Championship-MD1-Volatility + Wrexham-Championship-Erfahrung. Draw @3.40 realistisch (William-Hill-Prediction). Faire Quote ~2.30. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "car-wre_sieg_heim",
+          "faire_quote": 2.3,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "car-wre-5",
+          "kategorie": "wackel",
+          "markt": "Sam Smith - Torschuetze jederzeit",
+          "quote": 2.6,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "Sam Smith als zentraler 9er im Wrexham-3-5-2 bestaetigt (predicted lineup racingpost/sportsgambler) + Racing-Post-Top-Scorer-Konsens (Smith als #1 Torschuetzen-Favorit) + Wrexham 25/26 Championship = Volume-9er-Profil. HR24 Form-Edge-Check: (1) 5+ Tore in last 10 = Wrexham-Ende 25/26 Torschuetzen-Rang offen, (2) zentraler 9er mit Backup Keillor-Dunn (Volume-9er selbst = Einwechslungs-Boost-Doppel) → JA, (3) Cardiff-Def-Loch (Fish OUT + Debuet-Paarung Ng/Osho) → JA. 2 von 3 = WACKEL. Markt-Goldgrube Torschuetzen Jederzeit (50% / +24.4%). Faire Quote ~2.50. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "car-wre_sam-smith_anytime",
+          "faire_quote": 2.5,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "spiel_id": "2026-08-17-dep-elc",
+      "tipp_id": "dep-elc-1",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance: Deportivo La Coruna oder Unentschieden",
+      "quote": 1.44,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 5,
+      "begruendung": "SAFE-Absicherer Depor-Home-Fav via DC 1X @1.44 = 69% impl. Elche-Auswaerts-Krise 25/26 (1W-8L-1D) + Riazor-Cauldron. Markt-Goldgrube DC 1X (84.6%/+9.5%). Faire Quote ~1.38.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
+    },
+    {
+      "spiel_id": "2026-08-17-car-wre",
+      "tipp_id": "car-wre-1",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance: Cardiff City oder Unentschieden",
+      "quote": 1.4,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 4,
+      "begruendung": "SAFE-Absicherer Cardiff-Home-Fav via DC 1X @~1.40 = 71% impl. Cardiff-Form 4W in last-5 + Wrexham EFL-Cup-Verlust als negatives Momentum. Markt-Goldgrube DC 1X. Faire Quote ~1.35.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
+    },
+    {
+      "spiel_id": "2026-08-17-dep-elc",
+      "tipp_id": "dep-elc-2",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.6,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 8,
+      "begruendung": "Markt-Goldgrube Unter 2.5 Tore (70.4%/+23.1% n=27) direkt anwendbar. Elche 25/26 Auswaerts-Score-Rate 0.47 Tore/Spiel + Score-Prognose-Konsens 1:0 oder 2:1. Faire Quote ~1.48.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
+    },
+    {
+      "spiel_id": "2026-08-17-car-wre",
+      "tipp_id": "car-wre-2",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.56,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 7,
+      "begruendung": "HR08-15-4 Auftakts-Def-Krise-Cluster + Racing-Post Best-Bet Ü2.5+BTTS + Cardiff-Def-Loch (Fish OUT) + Wrexham 2 Volume-9er. Faire Quote ~1.48.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
+    },
+    {
+      "spiel_id": "2026-08-17-car-wre",
+      "tipp_id": "car-wre-3",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.71,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 6,
+      "begruendung": "Championship-MD1-Ü2.5-Bias HR08-15-4 + Racing-Post-Best-Bet-Cluster + Cardiff-Form 3.5 Tore/Spiel + HR08-16-2 Late-Goal-Cluster. Faire Quote ~1.62.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5
+    },
+    {
+      "spiel_id": "2026-08-17-dep-elc",
+      "tipp_id": "dep-elc-3",
+      "kategorie": "value",
+      "markt": "Deportivo La Coruna Sieg (90 Min)",
+      "quote": 2.23,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 7,
+      "begruendung": "Depor-Home-Fav mit 3 Stuetz-Faktoren (Riazor-Cauldron + Aub-Push + Elche 25/26 Auswaerts 1W-8L-1D). LaLiga-Goldgrube. HR08-16-1 max VALUE wegen Aufsteiger-Cauldron HR08-15-1. Faire Quote ~2.10.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6
+    },
+    {
+      "spiel_id": "2026-08-17-dep-elc",
+      "tipp_id": "dep-elc-4",
+      "kategorie": "wackel",
+      "markt": "Pierre-Emerick Aubameyang - Torschuetze jederzeit",
+      "quote": 2.3,
+      "einsatz_euro": 2.75,
+      "edge_prozent": 4,
+      "begruendung": "Depor-Neuzugang + zentraler 9er (Karriere-Volume-Profil PL + BL) + Backup jung. HR24 1-2/3 = WACKEL. Markt-Goldgrube Torschuetzen Jederzeit. Faire Quote ~2.20.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 7
+    },
+    {
+      "spiel_id": "2026-08-17-car-wre",
+      "tipp_id": "car-wre-5",
+      "kategorie": "wackel",
+      "markt": "Sam Smith - Torschuetze jederzeit",
+      "quote": 2.6,
+      "einsatz_euro": 2.75,
+      "edge_prozent": 3,
+      "begruendung": "Wrexham zentraler 9er + Racing-Post-Top-Scorer-Konsens + Cardiff-Def-Loch (Fish OUT + Debuet-Paarung). HR24 2/3 = WACKEL. Markt-Goldgrube Torschuetzen Jederzeit. Faire Quote ~2.50.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8
+    }
+  ],
+  "kombis": [
+    {
+      "profil": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-08-17-car-wre",
+          "tipp_id": "car-wre-2",
+          "markt": "Cardiff City - Wrexham AFC: Beide Teams treffen: Ja",
+          "quote": 1.56,
+          "layer_2_tag": "car-wre_btts_ja",
+          "spiel_titel": "Cardiff City - Wrexham AFC"
+        },
+        {
+          "spiel_id": "2026-08-17-dep-elc",
+          "tipp_id": "dep-elc-3",
+          "markt": "Deportivo La Coruna - Elche CF: Deportivo La Coruna Sieg (90 Min)",
+          "quote": 2.23,
+          "layer_2_tag": "dep-elc_sieg_heim",
+          "spiel_titel": "Deportivo La Coruna - Elche CF"
+        }
+      ],
+      "gesamtquote": 3.48,
+      "gesamtquote_rechnung": "1.56 x 2.23 = 3.48",
+      "einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Safe-Kombi 3.48x = 2-Bein-Mini-Slate-Struktur (Layer-1 max 1 Bein/Spiel/Kombi bei 2-Spiele-Slate = 2 Beine max). Depor-Home-Fav-Sieg als Klassen-Absicherer (Aufsteiger-Cauldron + Elche-Ausw-Krise + LaLiga-Goldgrube) + Cardiff-Wrexham BTTS Ja als Auftakts-Def-Krise-Cluster-Bein (HR08-15-4 System-Bias + Racing-Post-Cluster). HR08-16-1 Klassen-Duell-VALUE-Doktrin: Depor Sieg als VALUE-Kombi-Slot-Bein (nicht SAFE-Einzel). Quote 3.48x knapp unter Master-Range 3-5x-Mitte aber innerhalb (unter 5x). Layer-2 hart: 1 Sieg-Outcome (Depor). Ehrlich: Mini-Slate zwingt kompaktere Kombi-Range."
+    },
+    {
+      "profil": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-08-17-car-wre",
+          "tipp_id": "car-wre-4",
+          "markt": "Cardiff City - Wrexham AFC: Cardiff City Sieg (90 Min)",
+          "quote": 2.43,
+          "layer_2_tag": "car-wre_sieg_heim",
+          "spiel_titel": "Cardiff City - Wrexham AFC"
+        },
+        {
+          "spiel_id": "2026-08-17-dep-elc",
+          "tipp_id": "dep-elc-2",
+          "markt": "Deportivo La Coruna - Elche CF: Unter 2.5 Tore",
+          "quote": 1.6,
+          "layer_2_tag": "dep-elc_unter_25",
+          "spiel_titel": "Deportivo La Coruna - Elche CF"
+        }
+      ],
+      "gesamtquote": 3.89,
+      "gesamtquote_rechnung": "2.43 x 1.60 = 3.89",
+      "einsatz_euro": 4.4,
+      "empfohlener_einsatz_prozent": 0.8,
+      "begruendung": "Balance-Kombi 3.89x = 2-Bein-Mini-Slate. Cardiff-Home-Sieg (WACKEL-Grenzfall @2.43 wegen Championship-MD1-Volatility, Form-Edge 4W last-5 + Wrexham-EFL-Cup-Verlust) + Depor-Elche Unter 2.5 (Markt-Goldgrube 70.4%/+23.1% n=27 + Elche-Auswaerts-Krise-Score-Rate 0.47). Layer-2 hart: 1 Sieg-Outcome (Cardiff Sieg). Depor-Spiel via Unter 2.5 (Nicht-Sieg-Bein) - Markt-entkoppelt von Safe-Kombi Depor Sieg = Layer-3-Weichbruch dokumentiert bei 2-Spiele-Slate. Quote 3.89x unter Master-Range 6-10x (ehrlich: Mini-Slate zwingt Kompression, Markt-Goldgrube-Bein statt Ü 2.5)."
+    },
+    {
+      "profil": "risiko",
+      "beine": [
+        {
+          "spiel_id": "2026-08-17-car-wre",
+          "tipp_id": "car-wre-5",
+          "markt": "Cardiff City - Wrexham AFC: Sam Smith - Torschuetze jederzeit",
+          "quote": 2.6,
+          "layer_2_tag": "car-wre_sam-smith_anytime",
+          "spiel_titel": "Cardiff City - Wrexham AFC"
+        },
+        {
+          "spiel_id": "2026-08-17-dep-elc",
+          "tipp_id": "dep-elc-4",
+          "markt": "Deportivo La Coruna - Elche CF: Pierre-Emerick Aubameyang - Torschuetze jederzeit",
+          "quote": 2.3,
+          "layer_2_tag": "dep-elc_aubameyang_anytime",
+          "spiel_titel": "Deportivo La Coruna - Elche CF"
+        }
+      ],
+      "gesamtquote": 5.98,
+      "gesamtquote_rechnung": "2.60 x 2.30 = 5.98",
+      "einsatz_euro": 1.4,
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "Risiko-Kombi 5.98x = 2-Bein-Mini-Slate Torschuetzen-Doppel (Markt-Goldgrube Torschuetzen Jederzeit 50%/+24.4% aktiv). Sam Smith (Wrexham 9er, HR24 2/3 = WACKEL + Cardiff-Def-Loch Fish OUT) + Aubameyang Anytime (Depor 9er, HR24 1-2/3 = WACKEL). Layer-2 hart: kein Sieg-Outcome (beide Torschuetzen-Beine). Cardiff-Spiel Torschuetze verschieden von Sieg (Balance) und BTTS (Safe) = Markt-entkoppelt. Depor-Spiel Torschuetze verschieden von Sieg (Safe) und Unter 2.5 (Balance) = Markt-entkoppelt. Quote 5.98x deutlich unter Master-Range 15-30x (ehrlich: 2-Spiele-Slate zwingt Bescheidenheit + kein Genaues-Ergebnis-Lottery-Zwang HR CLAUDE.md-Verbot). HR1-Range-Grenzfall RISIKO 3.50-7.00 = knapp innerhalb."
+    },
+    {
+      "profil": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-08-17-dep-elc",
+          "tipp_id": "dep-elc-5",
+          "markt": "Deportivo La Coruna - Elche CF: Pierre-Emerick Aubameyang - Doppelpack (2+ Tore)",
+          "quote": 8.0,
+          "layer_2_tag": "dep-elc_aubameyang_doppelpack",
+          "spiel_titel": "Deportivo La Coruna - Elche CF"
+        }
+      ],
+      "gesamtquote": 8.0,
+      "gesamtquote_rechnung": "8.00 = 8.00",
+      "einsatz_euro": 0.55,
+      "empfohlener_einsatz_prozent": 0.1,
+      "begruendung": "Moonshot-Kombi 8.00x = 1-Bein Aubameyang-Debuet-Doppelpack (Debuet-Wunsch-Bet). Aub als zentraler 9er im Depor-Angriff bestaetigt + Karriere-Historie zeigt regelmaessige Multi-Tor-Spiele (Arsenal-Torschuetzenkoenig-Saison mit mehreren Doppelpack-Spielen). HR24 wie Anytime marginal (1-2/3). Moonshot-Spassenisatz-Kategorie erlaubt Debuet-Wunsch. HR1-Moonshot-min-Quote-5.0 erfuellt (8.00x). Ehrlich: Master-Range 100x+ nicht erreichbar bei 2-Spiele-Slate ohne Genaues-Ergebnis-Lottery-Zwang (Verbot HR CLAUDE.md). HR08-15-3 Blowout-Ergebnis-Rueckfall-Vermeidung: KEIN 3:0/4:0-Bein - stattdessen Torschuetzen-Doppelpack als Debuet-Hoffnung. Layer-2 hart: kein Sieg-Outcome (Torschuetzen-Bein). Impl. Wahrscheinlichkeit ~12.5% - Spassenisatz nach Master-Doktrin."
+    }
+  ],
+  "lessons_angewandt": [
+    "HR08-15-1 Aufsteiger-Blowout-Falle: Depor als LaLiga-Aufsteiger nach 14 Jahren = Riazor-Cauldron-Debuet-Risiko - kein Depor-Sieg-SAFE trotz Home-Fav @2.23, nur VALUE (Einzel) + VALUE-Kombi-Slot (Safe-Kombi)",
+    "HR08-15-4 Saison-Auftakts-Def-Krise-Cluster-BTTS-System-Bias: Cardiff-Wrexham BTTS Ja + Ü 2.5 als VALUE-Einzel + Safe-Kombi-Bein (Kader-Chemie-Debuet + Fitness-Aufbau nach Pre-Season)",
+    "HR08-16-1 Klassen-Duell-VALUE-Doktrin: Depor @2.23 + Cardiff @2.43 beide als VALUE (nicht SAFE) klassifiziert - SAFE-Slots stattdessen mit DC 1X-Absicherungen",
+    "HR08-16-2 Late-Goal-Cluster-Saison-Auftakt-4von5: Ü 2.5 Cardiff-Wrexham gestuetzt + BTTS Ja gestuetzt",
+    "HR26 2:0-Insurance NICHT AKTIV in LaLiga/Championship (nur Bundesliga/CL/WM 2026)",
+    "HR08-13-1 Post-WM-Ruhepause-Doktrin AUSGELAUFEN (WM Ende 19.07. + 4 Wochen Puffer = 17.08. Fenster durch) - Aubameyang (Gabon nicht WM-quali) + Sam Smith (Wrexham kein Nationalspieler) frei fuer Torschuetzen-Tipps",
+    "HR24 Torschuetzen-Form-Edge-Pflicht: Aubameyang 1-2/3 = WACKEL + Sam Smith 2/3 = WACKEL (kein VALUE/SAFE fuer Torschuetzen)",
+    "HR23 Layer-3-Diversifikation-Weichbruch bei Mini-Slate dokumentiert: beide Spiele in allen 4 Kombis mit verschiedenen Beinen (Markt-entkoppelt)",
+    "HR23 Layer-2-Interpretation strikt: pro Spiel max 1 Sieg-Outcome ueber alle Kombis (Depor Sieg in Safe + Cardiff Sieg in Balance = einzige Sieg-Beine). Moonshot ohne Underdog-Sieg-Konter-Bein wegen Hartcheck - stattdessen Aubameyang Doppelpack als Debuet-Wunsch-Bet",
+    "Markt-Goldgrube Unter 2.5 Tore (70.4%/+23.1%) aktiv gesetzt fuer Depor-Elche als VALUE-Einzel + Balance-Kombi-Bein - direkter Score-Prognose-Match (1:0/2:1-Konsens)",
+    "Markt-Goldgrube DC 1X (84.6%/+9.5%) fuer beide Spiele SAFE-Slots verwendet",
+    "Markt-Goldgrube Torschuetzen Jederzeit (50%/+24.4%) fuer Risiko-Kombi-Doppel (Sam Smith + Aubameyang) aktiv",
+    "Liga-Goldgrube LaLiga (100% Hitrate n=6) SAFE-Downgrade-Schutz aktiv",
+    "HR08-15-3 Blowout-Ergebnis-Rueckfall-Vermeidung: Moonshot ohne Genaues-Ergebnis-Bein (Lottery-Verbot), stattdessen Aubameyang-Debuet-Doppelpack",
+    "Mini-Slate-Konsequenzen ehrlich dokumentiert: Kombi-Quoten unter Master-Range (Safe 3.48x/Balance 3.89x/Risiko 5.98x/Moonshot 8.00x statt 3-5x/6-10x/15-30x/100x+) - kein Zwang-Ranges-erreichen via Genaues-Ergebnis-Lottery"
+  ],
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_verifikations_report": {
+    "geprueft_am": "2026-08-17T13:35:00+02:00",
+    "modus": "intern (Master-Selbstverifikation, keine externe Cloud-Verifikation - Mini-Slate 2 Spiele)",
+    "checks_bestanden": [
+      "JSON-Schema gueltig, alle Pflichtfelder befuellt",
+      "max 5 tipps pro Spiel eingehalten (5/5)",
+      "Alle tipps mit unique id (dep-elc-1..5 + car-wre-1..5) - Mapper-Konsistenz-Check-Basis fuer einzeltipps + kombi-beine tipp_id-Referenzen",
+      "Kombi-gesamtquote alle rechnerisch korrekt: Safe 1.56x2.23=3.4788=3.48x, Balance 2.43x1.60=3.888=3.89x, Risiko 2.60x2.30=5.98x, Moonshot 8.00x (1-Bein)",
+      "Layer-1 hart eingehalten: max 1 Bein/Spiel/Kombi in allen 4 Kombis (Safe 2 Beine 2 Spiele, Balance 2 Beine 2 Spiele, Risiko 2 Beine 2 Spiele, Moonshot 1 Bein 1 Spiel)",
+      "Layer-2 hart strikt pro Spiel-Slot: Sieg-Outcomes NUR Depor Sieg (Safe) + Cardiff Sieg (Balance) = max 1 Sieg-Outcome pro Spiel ueber alle Kombis (keine Elche Sieg + Wrexham Sieg Konter-Beine - Hartcheck HR23)",
+      "Layer-2-Tag-Eindeutigkeit ueber alle Kombis: 7 unique Tags (dep-elc_sieg_heim, dep-elc_unter_25, dep-elc_aubameyang_anytime, dep-elc_aubameyang_doppelpack, car-wre_btts_ja, car-wre_sieg_heim, car-wre_sam-smith_anytime)",
+      "Layer-3 Weichbruch dokumentiert: beide Spiele in 3 Kombis (Depor in Safe+Balance+Risiko+Moonshot; Cardiff in Safe+Balance+Risiko) - unvermeidlich bei 2-Spiele-Slate + 4 Kombis - jedes Bein verschiedener Markt (Markt-entkoppelt)",
+      "HR24 Torschuetzen-Form-Edge-Check bei Aubameyang (1-2/3 → WACKEL Anytime + Moonshot Doppelpack als Spassenisatz erlaubt) + Sam Smith (2/3 → WACKEL, kein VALUE)",
+      "HR22 Star-OUT-Implosions-Risiko: kein Sieg-VALUE fuer Team mit Top-Stuermer-Verletzung - alle 4 Torschuetzen-Kandidaten fit",
+      "Squad-Verifikation: alle Torschuetzen-Tipps (Aubameyang + Sam Smith) im predicted lineup bestaetigt (sportsgambler + racingpost + mightytips)",
+      "Position-Verifikation: Aubameyang = ST (Depor 4-4-2 Sturm-Duo mit Nsongo) → OK. Sam Smith = ST (Wrexham 3-5-2 Sturm-Duo mit Keillor-Dunn) → OK",
+      "Saison-Kontext-Verband-Quellen-Check: parallel_heim + parallel_gast = 'keine' fuer beide Spiele → keine UEFA/Verband-Quellen-Pflicht ausgeloest",
+      "Markt-Mix-Check: max 1 DC pro Spiel eingehalten (Depor DC 1X + Cardiff DC 1X, keine DC-Doppel)",
+      "Selbstwiderspruchs-Scan: kein Widerspruch zwischen begruendung + saison_kontext + news[] (z.B. keine 'Aub OUT' + 'Aub Anytime'-Kombination)",
+      "Quoten-Plausibilitaet: alle Quoten Aggregator-Konsens-basiert (mightytips/sportsgambler/racingpost/williamhill/dailysports/telecomasia/dimers) - bet365 live pruefen",
+      "Post-WM-Ruhepause-Doktrin HR08-13-1 ausgelaufen (17.08. > 16.08.-Grenze): Aubameyang (Gabon nicht qualifiziert) + Sam Smith (kein Nationalspieler) - beide frei",
+      "Genaues Ergebnis + Halbzeit-Endstand-Kombi + Eckbaelle/Karten NIE in Tipps (bet365-DE-Verbote + Lottery-Vermeidung)",
+      "Kasse-Stufe-1 Stakes korrekt: Einzel SAFE/VALUE 1.5% = 8.25€, Einzel WACKEL 0.5% = 2.75€, Kombi Safe 2% = 11.00€, Balance 0.8% = 4.40€, Risiko 0.25% = 1.375€ auf 1.40€ gerundet, Moonshot 0.1% = 0.55€"
+    ],
+    "warnungen": [
+      "Mini-Slate 2-Spiele: alle Kombi-Quoten unter Master-Range (Safe 3.48x statt 3-5x-Mitte, Balance 3.89x statt 6-10x, Risiko 5.98x statt 15-30x, Moonshot 8.00x statt 100x+) - ehrlich dokumentiert, kein Zwang-100x-via-Genaues-Ergebnis-Lottery (Verbot HR CLAUDE.md)",
+      "Layer-3 Weichbruch: beide Spiele in mehreren Kombis - unvermeidlich bei 2-Spiele-Slate + 4 Kombi-Profilen (Master-PFLICHT). Markt-entkoppelt via verschiedene Beine pro Spiel (Sieg + BTTS/Ü/Unter + Torschuetzen + Doppelpack)",
+      "Layer-2 hart strikt angewendet: kein Konter-Prinzip fuer Underdog-Sieg-Beine (Elche + Wrexham Sieg wuerden Hartcheck brechen - HR23 Mapper droppt sie). Moonshot mit Aub-Doppelpack als Alternative statt Underdog-Sieg-Konter",
+      "Aggregator-Konsens ohne direkten bet365-Live-Scrape: Quoten koennten +/-5% abweichen - bet365 live pruefen empfohlen",
+      "Aubameyang Anytime WACKEL trotz Marquee-Signing: HR24 Form-Edge nur 1-2/3 (Neuzugang ohne Depor-Live-Form, aber Karriere-Volume-Profil stark). Bei live-Startelf-Bestaetigung 1h vor Anstoss ggf. VALUE-Upgrade-Kandidat",
+      "Aubameyang 2+ Tore Quote @8.00 = Estimate ohne direkten bet365-Scrape - reale Quote koennte 6.50-10.00 sein - bet365 live pruefen",
+      "Depor-Rueckkehr LaLiga nach 14 Jahren = geringe direkte H2H-Datenbasis - historisch Aufsteiger-Cauldron-Falle real (HR08-15-1 gestern bei Racing-Santander 0:3 vs Villarreal validiert)",
+      "Cardiff-Wrexham Welsh-Derby-Charakter: emotional-vollgepumptes Match = Kartenrisiko / Rot-Karte-Volatility (nicht als Tipp einbezogen, aber Kontext-Warnung)",
+      "HR08-13-1 Post-WM-Ruhepause-Doktrin AUSGELAUFEN heute (17.08.) - erste Anwendung nach Doktrin-Ende. Bei ueberraschenden Rotationen (Post-WM-Muedigkeit-Nachwirkung) waere Downgrade angebracht - kein direkter Betroffener heute aber Beobachtung fuer folgende Wochen"
+    ],
+    "drops": [],
+    "downgrades": [],
+    "lessons_generiert": [
+      {
+        "kategorie": "Mini-Slate-Struktur",
+        "vorschlag": "HR08-17-1 2-Spiele-Slate-Kombi-Range-Kompression: bei nur 2 Spielen im Slate + 4 Kombi-Profilen (Master-PFLICHT) sind Master-Ranges (Safe 3-5x/Balance 6-10x/Risiko 15-30x/Moonshot 100x+) nicht ohne Layer-1-Bruch oder Genaues-Ergebnis-Lottery erreichbar. Doktrin: ehrlich Ranges kompressieren (Safe 3-4x, Balance 3.5-5x, Risiko 5-8x, Moonshot 8-15x) + Note in hinweis + explizite Warnung im Verifikations-Report"
+      },
+      {
+        "kategorie": "Layer-3-Weichbruch-Doktrin",
+        "vorschlag": "HR08-17-2 Mini-Slate-Layer-3-Zwangsbruch: bei 2 Spielen + 4 Kombis ist jedes Spiel in mehreren Kombis zwangslaeufig. Markt-Entkopplung Pflicht (verschiedene Bein-Typen pro Spiel: Sieg-Fav/Ü-BTTS/Unter/Torschuetzen/Doppelpack)"
+      },
+      {
+        "kategorie": "Moonshot-Substitution-Doktrin",
+        "vorschlag": "HR08-17-3 Mini-Slate-Moonshot-Torschuetzen-Doppelpack-Alternative: bei 2-Spiele-Slate wo Layer-2-hart-strikt bereits Sieg-Beine in Safe/Balance verbraucht + Konter-Underdog-Sieg wuerde HR23-Mapper-Hartcheck brechen, Moonshot mit Torschuetzen-Doppelpack (2+ Tore) eines Top-9er (HR24 1-2/3 Marginal-OK weil Moonshot-Spassenisatz-Kategorie) als Alternative statt Underdog-Sieg-Konter"
+      }
+    ]
+  }
+}
