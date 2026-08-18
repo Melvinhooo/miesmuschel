@@ -1,0 +1,498 @@
+{
+  "datum": "2026-08-18",
+  "erstellt_am": "2026-08-18T13:30:00+02:00",
+  "hinweis": "🐚 Di 18.08.2026 · Mini-Slate 2 Spiele: CL-Playoff-Hinspiele (Q4-Runde vor League-Phase). Fenerbahce-Lyon 21:00 CEST Sukru Saracoglu Istanbul + Levski Sofia-AEK Athens 21:00 CEST Vasil-Levski-Stadion Sofia. Doktrin-Stack: HR26 2:0-Insurance AKTIV in CL (nur BL/CL/WM) fuer Fener-Sieg + AEK-Sieg + HR08-16-1 Klassen-Duell-VALUE-Doktrin bei Fener Fav @2.02 (kein SAFE-Sieg) + HR08-12-1 CL-Aggregat-Drehungs-Cluster-Vorsicht im Rueckspiel (Hin-Spiel weniger relevant aber Kontext) + HR08-13-1 Post-WM-Ruhepause-Doktrin AUSGELAUFEN (17.08. Fenster durch, Talisca-Gabon/Reinaldo-nicht-WM/Jovic-SRB-out-WM/Koita-CIV-nicht-WM-qualifiziert = alle frei). Markt-Goldgrube Unter 2.5 Tore (71.4%/+24.4% n=28 aus data/markt_goldgruben.json) direkt gesetzt fuer Levski-AEK: MightyTips-Konsens Under 2.5 @1.65 + Levski 4 Clean Sheets in Folge + 3 Tore in 6 CL-Q-Spielen kassiert + AEK Q-Startphase = SAFE-Kandidat statt VALUE. Fenerbahce-Lyon: sportsgambler-Best-Bet Ueber 2.5 @1.68 + BTTS Ja @1.57 (Cluster fuer Torfestival) - Lyon Def leaky (8 Tore in 5), Talisca 5-Spiele-Torschuetzen-Streak, Greenwood in Form, Fener-Gunok+Ederson OUT (Ertugrul Cetin im Tor = jung/wackelig). HR08-15-4 Saison-Auftakts-Def-Krise-Cluster fuer Fener-Lyo (Kader-Chemie + Neuzugang-Integration Openda/Tolisso) direkt anwendbar. Mini-Slate-Konsequenzen (HR08-17-1 Kompression + HR08-17-2 Layer-3-Zwangsbruch + HR08-17-3 Moonshot-Torschuetzen-Doppelpack-Alt) gestern gelernt = heute konsequent angewandt: Kombi-Ranges unter Master (Safe 3.33x/Balance 3.67x/Risiko 6.90x/Moonshot 28x statt 3-5x/6-10x/15-30x/100x+) - ehrlich dokumentiert. Layer-2-hart strikt: Fener Sieg (Safe) + AEK Sieg (Balance) = einzige Sieg-Outcome-Beine ueber alle Kombis (Lyon Sieg + Levski Sieg + Draws als Konter-Beine wuerden Hartcheck brechen). Kasse-Stufe 1 (550€): 1.5%/0.5% Einzel + 2/0.8/0.25/0.1% Kombi. Quoten bei bet365 live pruefen (Aggregator-Konsens sportsgambler/mightytips/ratingbet/telecomasia/livescore/vegasodds/dailysports).",
+  "_emergency_recovery": true,
+  "_recherche_fallback": "Recherche-File data/recherche/2026-08-18.json nicht vorhanden - Master-Tipps-Routine hat Fallback-Recherche selbst ausgefuehrt via WebSearch/WebFetch fuer beide CL-Playoff-Hinspiele (sportsgambler/mightytips/ratingbet/telecomasia/vegasodds/dailysports/turkishtoday/gazetefutbol/uefa.com).",
+  "spiele": [
+    {
+      "id": "2026-08-18-fen-lyo",
+      "liga": "UEFA Champions League 2026/27 - Playoff Round (Q4) Hinspiel",
+      "heim": "Fenerbahce SK",
+      "gast": "Olympique Lyon",
+      "anstoss": "2026-08-18T21:00:00+02:00",
+      "stadion": "Sukru Saracoglu Stadium, Istanbul",
+      "saison_kontext": {
+        "parallel_heim": "Sueper Lig 26/27 Matchday 1 gespielt (2:1-Verlust vs Genclerbirligi 15.08.) - keine parallele Pokal-Belastung diese Woche. CL-Playoff-Hinspiel Fokus. Rueckspiel 26.08. bei Lyon.",
+        "parallel_gast": "Ligue 1 26/27 Matchday 1 noch nicht gespielt (Saison-Start 22.08.). Erster Wettkampf nach 3:0-Sieg vs Sparta Prague (CL-Q3-Rueckspiel 12.08.) und 2:1-Hin-Verlust. Rueckspiel 26.08. Groupama.",
+        "saisonziel_heim": "CL-League-Phase-Qualifikation (nach 2 CL-Q-Runden gegen Gornik Zabrze 2:1 aggregate + Sturm Graz 3:0 aggregate). Domestischer Sueper-Lig-Titel-Kampf gegen Galatasaray + Besiktas. Kader-Investition Ake/Skriniar/Greenwood/Talisca/Kante/Semedo hoch = must-win-Season fuer Trainer + Board.",
+        "saisonziel_gast": "CL-League-Phase-Rueckkehr nach Ligue-1-2024/25-Turbulenzen (Absturz auf 4. Platz + Ligue-1-Aufstieg-Kampf). CL-Q3-Umkehr vs Sparta Prague (0:2-Hin dann 3:0-Rueck) zeigt Comeback-Potenzial. Aber inkonsistent Form (5W-4L-1D last 10). CL-Ausfall = Europa-League-Downgrade + Kader-Attraktivitaets-Krise.",
+        "motivations_asymmetrie": "Beide Teams voll motiviert (CL-League-Phase = ~50M€ garantiert). Fener Heim-Cauldron-Debuet CL 26/27 nach Genclerbirligi-Schock = Reaktions-Druck. Lyon Auswaerts als Aussenseiter (2.30/45% impl.) + Comeback-Historie aus Sparta-Rueck. Ehrliches Bild: Fener leichter Fav @2.02 (49% impl.) bei Lyon @3.45 (29% impl.) + Draw @3.30 (30% impl.) = klarer Fener-Home-Edge, aber Hin-Spiel-Aggregat-Verwalter-Risiko HR08-12-1-analog (Rueckspiel 26.08. entscheidet).",
+        "recovery_heim": "3 Tage Recovery seit Sueper-Lig-Auftakt 15.08. (Genclerbirligi-Schock). Voller Kader ausser Ederson (Torwart, out) + Mert Gunok (Torwart, out) → Ertugrul Cetin Backup-GK juengste Startelf-Wahl im Tor. Ausserdem Doubts Soyuncu (Def) + Oosterwolde (LV) - Ake+Skriniar bestaetigt Startelf, Archie Brown LV.",
+        "recovery_gast": "6 Tage Recovery seit CL-Q3-Rueck 12.08. (Sparta 3:0). Voller Kader ausser keine bestaetigten Ausfaelle. Neuzugaenge Openda + Tolisso als offensive Volume-Optionen bestaetigt Startelf. Kluivert bestaetigt IV. Greif GK.",
+        "quellen": [
+          "https://www.sportsgambler.com/betting-tips/football/fenerbahce-vs-lyon-prediction-lineups-odds-2026-08-18/",
+          "https://ratingbet.com/predictions/fenerbahce-vs-lyon-prediction-expert-analysis-possible-lineups-august-18-2026/",
+          "https://www.sportskeeda.com/football/fenerbahce-vs-lyon-prediction-betting-tips-august-18th-2026",
+          "https://dailysports.net/predictions/turkish-factor-versus-inconsistent-french-side-prediction-for-fenerbahce-vs-lyon/",
+          "https://www.uefa.com/uefachampionsleague/match/2049213--fenerbahce-vs-lyon/",
+          "https://www.turkiyetoday.com/sports/fenerbahce-ready-for-gornik-zabrze-as-greenwood-joins-team-training-3224360",
+          "https://sports.yahoo.com/articles/champions-league-playoff-draw-full-095521783.html"
+        ]
+      },
+      "news": [
+        "CL 26/27 Playoff-Round Hinspiel (Q4 vor League-Phase-Einzug) Sukru Saracoglu Istanbul 21:00 CEST (22:00 lokal TRT) - Rueckspiel 26.08. Groupama Lyon",
+        "Fener kommt aus 2:1-Verlust vs Genclerbirligi (Sueper Lig MD1 15.08.) - Talisca-Tor extends 5-Spiele-Torschuetzen-Streak trotz Team-Niederlage",
+        "Fener CL-Q-Weg: Gornik Zabrze 2:1 aggregate (Q2) + Sturm Graz 3:0 aggregate (Q3, Greenwood-Debuet-Tor + Talisca-Tor)",
+        "Lyon CL-Q-Weg: Sparta Prague 3:2 aggregate (Q3, 0:2-Hin dann 3:0-Rueck-Comeback)",
+        "Fener Predicted Startelf 4-2-3-1 (ratingbet): Cetin; Semedo, Skriniar, Ake, Brown; Guendouzi, Kante; Greenwood, Asensio, Akturkoglu; Talisca",
+        "Lyon Predicted Startelf 4-2-3-1 (ratingbet): Greif; Mata, Niakhate, Kluivert; Maitland-Niles, Morton, Tessmann, Ouedraogo; Abner, Tolisso; Openda",
+        "Fener Injuries/Doubts: Ederson (GK out), Mert Gunok (GK out) → Ertugrul Cetin Startelf-GK; Caglar Soyuncu Doubt (IV); Jayden Oosterwolde Doubt (LV) → Archie Brown LV bestaetigt",
+        "Lyon Injuries: keine bestaetigten Ausfaelle in predicted lineup - voller Neuzugang-Kader",
+        "Aggregator-Konsens Quoten (bet365 live pruefen): Fener Sieg @2.02 (Bleacher +102), Draw @3.30, Lyon Sieg @3.45 (Bleacher +245), Ueber 2.5 @1.68 (sportsgambler -147 Best-Bet), Unter 2.5 @2.20, BTTS Ja @1.57 (sportsgambler -175), BTTS Nein @2.30, DC 1X @~1.30 (Estimate von Fener+Draw), DC X2 @~1.65 (Estimate)",
+        "Talisca Torschuetze jederzeit @2.30 (Estimate ratingbet+sportsgambler) - 5-Spiele-Torschuetzen-Streak (Sturm-Graz-Q3 + Genclerbirligi-Superliga)",
+        "Greenwood Torschuetze jederzeit @~2.70 (Estimate) - Sturm-Graz-Q3-Debuet-Tor + integriert offensiv",
+        "Aggregator-Predictions: sportsgambler Ueber 2.5 Main-Pick + BTTS Ja Cluster; ratingbet 'Lyon or Draw' @1.80 als Best-Bet; goal.mu Score-Konsens 2:1 Fenerbahce (Ueber 2.5 + BTTS Ja)",
+        "Lyon Def-Warning: 8 Tore in letzten 5 Spielen kassiert (leaky) - Cluster fuer Ueber 2.5 + BTTS Ja gestuetzt",
+        "Fener Def-Warning: Ertugrul Cetin (Backup-GK, jung) + Doubt-Ketten IV/LV = Kader-Chemie-Debuet-Risiko",
+        "HR26 2:0-Insurance AKTIV bei CL (nur BL/CL/WM) fuer Fener-Sieg-Tipp - bei 2:0-HZ-Fuehrung Sieg-Tipp bereits gewonnen egal Endstand"
+      ],
+      "tipps": [
+        {
+          "id": "fen-lyo-1",
+          "kategorie": "safe",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.57,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 6,
+          "begruendung": "SAFE-Kandidat BTTS Ja: sportsgambler-Best-Bet-Cluster @1.57 (63% impl.) mit 3 Stuetz-Faktoren: (1) Lyon Def leaky (8 Tore in 5 Spielen), (2) Talisca 5-Spiele-Torschuetzen-Streak + Greenwood in Form + Kader-Chemie-Debuet (HR08-15-4 Saison-Auftakts-Def-Krise-Cluster), (3) Fener Backup-GK Ertugrul Cetin + Doubt-IV Soyuncu + LV-Umbesetzung Brown = Def-Verwundbarkeit. HR08-16-2 Late-Goal-Cluster-Saison-Auftakt 4von5 gestern validiert. goal.mu Score-Konsens 2:1 (BTTS Ja). Faire Quote ~1.48. Stake 1.5% = 8.25€.",
+          "layer_2_tag": "fen-lyo_btts_ja",
+          "faire_quote": 1.48,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "fen-lyo-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.68,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 6,
+          "begruendung": "sportsgambler Main-Pick + Cluster-Konsens: Fener Torfestival-Profil (7 Tore in 3 CL-Q-Spielen + Talisca-Streak) + Lyon Def-Krise (8 Tore in 5) + Kader-Chemie-Debuet beidseitig + HR08-15-4 Auftakts-Def-Krise-Cluster + goal.mu Score-Konsens 2:1. HR08-16-2 Late-Goal-Cluster-Saison-Auftakt-4von5 gestern validiert. Grenze: CL-Hin-Spiel-Aggregat-Verwalter-Vorsicht (HR08-12-1-analog) koennte Fener nach Fuehrung defensiv verwalten. Faire Quote ~1.58. Stake 1.5% = 8.25€.",
+          "layer_2_tag": "fen-lyo_ueber_25",
+          "faire_quote": 1.58,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "fen-lyo-3",
+          "kategorie": "value",
+          "markt": "Fenerbahce SK Sieg (90 Min)",
+          "quote": 2.02,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 6,
+          "begruendung": "Fener-Home-Fav @2.02 (49% impl.), 3 Stuetz-Faktoren: (1) Sukru-Saracoglu-Cauldron + Reaktions-Druck nach Genclerbirligi-Schock, (2) Kader-Klasse (Skriniar/Ake/Kante/Talisca/Greenwood) vs Lyon-Neuzugang-Kader (Openda/Tolisso Integration), (3) Lyon 5W-4L-1D last-10 = inkonsistent + Auswaerts-Druck. HR08-16-1 Klassen-Duell-VALUE (nicht SAFE) wegen: (a) Fener-GK-Wackel Cetin, (b) HR08-12-1-analog Hin-Spiel-Aggregat-Verwalter-Risiko (Rueckspiel 26.08. entscheidet), (c) Genclerbirligi-Schock-Momentum. HR26 2:0-Insurance AKTIV in CL: bei 2:0-HZ Sieg gewonnen egal Endstand. Faire Quote ~1.90. Stake 1.5% = 8.25€.",
+          "layer_2_tag": "fen-lyo_sieg_heim",
+          "faire_quote": 1.9,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "fen-lyo-4",
+          "kategorie": "value",
+          "markt": "Anderson Talisca - Torschuetze jederzeit",
+          "quote": 2.3,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 5,
+          "begruendung": "Talisca-Form-Edge stark: 5-Spiele-Torschuetzen-Streak (Sturm-Graz-Q3 + Q3-Rueck + Genclerbirligi-MD1 = mind. 4-5 Tore). Zentraler Angreifer im 4-2-3-1 (Startelf bestaetigt ratingbet). HR24 Form-Edge-Check: (1) 5+ Tore in last 10 = JA (5-Spiele-Streak), (2) zentraler 9er mit Backup Muriqi/Lukaku = JA (Volume-9er-Profil + Einwechslungs-Boost-Doppel-Option laut HR26 CLAUDE.md), (3) Lyon Def leaky 8 Tore in 5 + IV-Neuzugang-Chemie = JA. 3/3 = VALUE. Markt-Goldgrube Torschuetzen Jederzeit (50%/+24.4%). Faire Quote ~2.20. Stake 1.5% = 8.25€.",
+          "layer_2_tag": "fen-lyo_talisca_anytime",
+          "faire_quote": 2.2,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "fen-lyo-5",
+          "kategorie": "moonshot",
+          "markt": "Anderson Talisca - Doppelpack (2+ Tore)",
+          "quote": 8.0,
+          "einsatz_euro": 0.55,
+          "edge_prozent": 3,
+          "begruendung": "Moonshot-Kandidat Talisca-Doppelpack im 5-Spiele-Streak-Momentum: zentraler 9er bestaetigt + Lyon-Def-Krise + Cauldron-Push = impl. ~12.5% (Quote @8.00). HR24 wie Anytime (3/3 = VALUE-Basis), Doppelpack als Sub-Markt = Spassenisatz-Kategorie. HR08-17-3 Mini-Slate-Moonshot-Torschuetzen-Doppelpack-Alternative-Doktrin (gestern gelernt) direkt anwendbar. HR08-15-3 Blowout-Ergebnis-Rueckfall-Vermeidung: kein Genaues-Ergebnis-Bein - stattdessen Torschuetzen-Doppelpack. Faire Quote ~7.50. Stake 0.1% = 0.55€.",
+          "layer_2_tag": "fen-lyo_talisca_doppelpack",
+          "faire_quote": 7.5,
+          "empfohlener_einsatz_prozent": 0.1
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-08-18-lev-aek",
+      "liga": "UEFA Champions League 2026/27 - Playoff Round (Q4) Hinspiel",
+      "heim": "Levski Sofia",
+      "gast": "AEK Athens",
+      "anstoss": "2026-08-18T21:00:00+02:00",
+      "stadion": "Vasil-Levski-Nationalstadion, Sofia",
+      "saison_kontext": {
+        "parallel_heim": "Bulgarische Parva Liga 26/27 alle 4 Spiele gewonnen (9 Tore erzielt). Keine parallele Pokal-Belastung diese Woche. CL-Playoff-Hinspiel Fokus. Rueckspiel 26.08. bei AEK Athen.",
+        "parallel_gast": "Griechische Super League 26/27 noch nicht gestartet (Saison-Start 22.08.). Letztes Match 1:1 vs Olympiakos (Freundschaft). Rueckspiel 26.08. Athen.",
+        "saisonziel_heim": "CL-League-Phase-Erstqualifikation seit Jahren (Bulgarischer Meister 25/26 unter Julio Velasquez, Ludogorets 14-Jahre-Dominanz gebrochen mit 4 Spielen Vorsprung). Kader-Investition Aldair Neves/Trdin/Reinaldo/Araujo = ambitionierter Aufbau. CL-Ausfall = Europa-League-Downgrade + Marktwert-Trauma.",
+        "saisonziel_gast": "CL-League-Phase-Erhalt/Neu-Qualifikation nach griechischem Meister-Titel 25/26 (70 Pkt in 30 Spielen unter Marco Nikolic, 2 Spiele Vorsprung). Kader-Investition Jovic/Marin/Majer/Zubkov = Champions-League-Kalibrierung.",
+        "motivations_asymmetrie": "Beide Teams voll motiviert (CL-League-Phase ~50M€ garantiert). Levski Heim-Cauldron-Debuet + Meister-Elan + 8 Siege in 9 letzten Matches (Bulgarische Liga + CL-Q). AEK als Klassen-Fav @2.34 aber Auswaerts-Sofia-Kessel-Debuet + Domestische-Saison-noch-nicht-gestartet (Rhythm-Nachteil). Ehrliches Bild: AEK Fav @2.34 (43% impl.) bei Levski @3.55 (28% impl.) + Draw @3.16 (32% impl.) = kein klarer Fav - Klassen-Duell-Aussenseiter-VALUE mit Heim-Edge fuer Levski. HR08-16-1 Klassen-Duell-VALUE-Downgrade AKTIV.",
+        "recovery_heim": "3 Tage Recovery seit Parva-Liga-Sieg 15.08. Voller Kader ausser keine bestaetigten Ausfaelle. 8W-1D-0L in letzten 9 Matches inkl. 4 Clean Sheets in Folge + nur 3 Tore in 6 CL-Q-Spielen kassiert = starke Defensive-Serie.",
+        "recovery_gast": "3 Tage Recovery seit Olympiakos-Freundschaft 15.08. Voller Kader ausser Mijat Gacinovic (Meniskus, Rueckkehr September). 13-Spiele-Ungeschlagen-Serie aber 4 von 6 letzten Matches ohne Clean Sheet = Def-Wackel-Signal.",
+        "quellen": [
+          "https://www.mightytips.com/football-predictions/levski-sofia-vs-aek-athens-prediction-18-08-2026/",
+          "https://www.sportsgambler.com/betting-tips/football/levski-sofia-vs-aek-prediction-lineups-odds-2026-08-18/",
+          "https://www.sportskeeda.com/football/levski-sofia-vs-aek-athens-prediction-betting-tips-august-18th-2026",
+          "https://www.telecomasia.net/sports-betting/tips/football/uefa-champions-league/levski-sofia-vs-aek-athens-match-prediction-18-august-2026/",
+          "https://www.wincomparator.com/predictions/levski-sofia-aek-athens-8731355/",
+          "https://tips.gg/article/levski-sofia-vs-aek-athens-18-08-2026/",
+          "https://sports.yahoo.com/articles/champions-league-playoff-draw-full-095521783.html"
+        ]
+      },
+      "news": [
+        "CL 26/27 Playoff-Round Hinspiel Vasil-Levski-Nationalstadion Sofia 21:00 CEST (22:00 lokal EEST) - Rueckspiel 26.08. Athen",
+        "Levski Weg zur Q4: Bulgarischer Meister 25/26 (Ludogorets-Dominanz gebrochen) + 3 CL-Q-Runden durchgespielt inkl. Kairat Almaty 1:0 auswaerts",
+        "AEK Weg zur Q4: Griechischer Meister 25/26 (70 Pkt) - Direkt-Einstieg Q4 als Meister",
+        "Levski Predicted Startelf 4-3-3 (mightytips): Vutsov; Aldair Neves, Dimitrov, Serafimov, Centelles; Trdin, Moubarik, Serginho; Oko-Flex, Everton Bala, Reinaldo",
+        "AEK Predicted Startelf 4-3-3 (mightytips): Strakosha; Rota, Moukoudi, Relvas, Pilios; Kairinen, Marin, Majer; Zubkov, Jovic, Koita",
+        "Levski Injuries: keine bestaetigten Ausfaelle",
+        "AEK Injuries: Mijat Gacinovic (Meniskus, Rueckkehr September) - Kader ansonsten fit",
+        "Aggregator-Konsens Quoten (bet365 live pruefen): Levski Sieg @3.55 (mightytips 22bet), Draw @3.16, AEK Sieg @2.34, Ueber 2.5 @2.39, Unter 2.5 @1.65 (MIGHTYTIPS-Main-Pick + MARKT-GOLDGRUBE), BTTS Ja @~2.10 (Estimate), BTTS Nein @~1.75 (Estimate), DC 1X @~1.62 (Estimate Levski+Draw), DC X2 @~1.35 (Estimate AEK+Draw)",
+        "Jovic Torschuetze jederzeit @~3.00 (Estimate AEK-9er + 4 Tore aggregate zuvor) - zentraler 9er im 4-3-3 bestaetigt",
+        "Reinaldo Torschuetze jederzeit @~3.50 (Estimate Levski-9er + 5 Tore last aggregate) - zentraler 9er + Home-Boost",
+        "Koita Anytime @+255 = ~3.55 (sportsgambler) - AEK-Wing/9er-Volume",
+        "Aggregator-Predictions: mightytips Under 2.5 Main-Pick + sportsgambler Under 2.5 -147 Main-Pick + tips.gg Levski-Sieg als Underdog-Value + 1:1-Draw als Konsens-Score",
+        "Levski Def-Serie: 4 Clean Sheets in Folge + nur 3 Tore in 6 CL-Q-Spielen kassiert - starke Def-Bilanz",
+        "AEK Def-Warning: 4 von 6 letzten Matches ohne Clean Sheet = Kader-Chemie-Debuet-Risiko",
+        "HR26 2:0-Insurance AKTIV bei CL fuer AEK-Sieg + Levski-Sieg-Tipps"
+      ],
+      "tipps": [
+        {
+          "id": "lev-aek-1",
+          "kategorie": "safe",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.65,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 8,
+          "begruendung": "SAFE-Kandidat Markt-Goldgrube-Anker: Unter 2.5 Tore (71.4% Hitrate / +24.4% ROI n=28 aus data/markt_goldgruben.json) direkt anwendbar. 4 Stuetz-Faktoren: (1) MightyTips + sportsgambler Doppel-Main-Pick, (2) Levski 4 Clean Sheets in Folge + 3 Tore in 6 CL-Q-Spielen kassiert = starke Def-Bilanz, (3) AEK Domestische-Saison-noch-nicht-gestartet = Torflaute-Risiko im ersten Wettkampf, (4) tips.gg 1:1-Draw-Konsens-Score (Unter 2.5). HR08-12-3-analog CL-Q-Rueckspiel-Unter25-Goldgrube - hier Hin-Spiel aber Konsens gilt aggregate-orientiert. Faire Quote ~1.53. Stake 1.5% = 8.25€.",
+          "layer_2_tag": "lev-aek_unter_25",
+          "faire_quote": 1.53,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "lev-aek-2",
+          "kategorie": "value",
+          "markt": "Doppelte Chance: AEK Athens oder Unentschieden",
+          "quote": 1.35,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 4,
+          "begruendung": "VALUE-Absicherer AEK-Klassen-Fav via DC X2 @~1.35 = 74% impl. Wahrscheinlichkeit. AEK-Kader-Klasse (Jovic/Marin/Majer/Zubkov = Champions-League-Kalibrierung) vs Levski-Bulgarian-Meister-Debuet. HR08-16-1 Klassen-Duell-VALUE-Doktrin: kein direkter AEK-Sieg-SAFE (@2.34 wegen Auswaerts-Sofia-Kessel + Domestische-Saison-noch-nicht-gestartet), stattdessen DC X2 als Absicherungs-VALUE. Markt-Goldgrube DC X2 (77.8% Hitrate / +9.4% ROI aus data/statistik.js). Faire Quote ~1.30. Stake 1.5% = 8.25€.",
+          "layer_2_tag": "lev-aek_dc_x2",
+          "faire_quote": 1.3,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "lev-aek-3",
+          "kategorie": "value",
+          "markt": "AEK Athens Sieg (90 Min)",
+          "quote": 2.34,
+          "einsatz_euro": 8.25,
+          "edge_prozent": 5,
+          "begruendung": "AEK-Auswaerts-Fav @2.34 (43% impl.), 3 Stuetz-Faktoren: (1) Kader-Klasse Jovic (4 Tore aggregate) + Marin + Majer + Zubkov = Champions-League-Kalibrierung vs Levski-Bulgarian-Meister-Debuet, (2) 13-Spiele-Ungeschlagen-Serie AEK, (3) Levski nur 1W-8L-1D-analog Auswaerts-Klassen-Duell-Bilanz historisch. HR08-16-1 max VALUE (nicht SAFE) wegen: (a) Sofia-Cauldron-Debuet, (b) AEK Domestische-Saison-noch-nicht-gestartet = Rhythm-Nachteil, (c) 4 von 6 letzten Matches ohne Clean Sheet. HR26 2:0-Insurance AKTIV in CL fuer AEK-Sieg. Faire Quote ~2.22. Stake 1.5% = 8.25€.",
+          "layer_2_tag": "lev-aek_sieg_gast",
+          "faire_quote": 2.22,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "lev-aek-4",
+          "kategorie": "wackel",
+          "markt": "Luka Jovic - Torschuetze jederzeit",
+          "quote": 3.0,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "Jovic zentraler 9er im AEK-4-3-3 bestaetigt (predicted lineup mightytips) + 4-Tore-Aggregate-Historie (griechische Liga + Freundschaft). HR24 Form-Edge-Check: (1) 5+ Tore in last 10 = fraglich (Domestische-Saison-noch-nicht-gestartet, 4 Aggregate ohne Kontext), (2) zentraler 9er mit Backup Koita/Varga (Volume-Backup) = JA, (3) Levski Def-Serie 4 Clean Sheets + 3 Tore in 6 Q-Spielen = NEIN (Def-Wall stark). 1-2/3 = WACKEL. Markt-Goldgrube Torschuetzen Jederzeit (50%/+24.4%). Faire Quote ~2.90. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "lev-aek_jovic_anytime",
+          "faire_quote": 2.9,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "lev-aek-5",
+          "kategorie": "wackel",
+          "markt": "Reinaldo - Torschuetze jederzeit",
+          "quote": 3.5,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 2,
+          "begruendung": "Reinaldo Levski-Top-Scorer 5 Tore aggregate (Parva Liga + CL-Q) + zentraler 9er im 4-3-3 bestaetigt (predicted lineup mightytips) + Home-Cauldron-Push. HR24 Form-Edge-Check: (1) 5+ Tore in last 10 = JA (5 Tore in ~8 Spielen), (2) zentraler 9er mit Backup Bala/Araujo = JA, (3) AEK Def 4 von 6 ohne Clean Sheet = JA. 3/3 = VALUE. Aber ich degradiere auf WACKEL wegen: (a) AEK Klassen-Klasse (Strakosha-GK + Moukoudi/Relvas IV) hoeher als bulgarische Liga-Gegner, (b) Quote @3.50 = 29% impl. reflect Skepsis. Markt-Goldgrube Torschuetzen Jederzeit. Faire Quote ~3.30. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "lev-aek_reinaldo_anytime",
+          "faire_quote": 3.3,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "spiel_id": "2026-08-18-lev-aek",
+      "tipp_id": "lev-aek-1",
+      "kategorie": "safe",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.65,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 8,
+      "begruendung": "Markt-Goldgrube Unter 2.5 Tore (71.4%/+24.4% n=28) + MightyTips+sportsgambler Doppel-Main-Pick + Levski 4 CS in Folge + AEK Domestische-Saison-noch-nicht-gestartet. Faire Quote ~1.53.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
+    },
+    {
+      "spiel_id": "2026-08-18-fen-lyo",
+      "tipp_id": "fen-lyo-1",
+      "kategorie": "safe",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.57,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 6,
+      "begruendung": "sportsgambler-Best-Bet + Lyon Def leaky (8 Tore in 5) + Talisca 5-Streak + Fener Backup-GK Cetin + Kader-Chemie-Debuet beidseitig. Faire Quote ~1.48.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
+    },
+    {
+      "spiel_id": "2026-08-18-lev-aek",
+      "tipp_id": "lev-aek-2",
+      "kategorie": "value",
+      "markt": "Doppelte Chance: AEK Athens oder Unentschieden",
+      "quote": 1.35,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 4,
+      "begruendung": "VALUE-Absicherer AEK-Klassen-Fav via DC X2 = 74% impl. HR08-16-1 Klassen-Duell-VALUE-Doktrin (kein AEK-Sieg-SAFE @2.34 wegen Sofia-Cauldron). Markt-Goldgrube DC X2. Faire Quote ~1.30.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
+    },
+    {
+      "spiel_id": "2026-08-18-fen-lyo",
+      "tipp_id": "fen-lyo-2",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.68,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 6,
+      "begruendung": "sportsgambler Main-Pick + Fener Torfestival 7 Tore in 3 CL-Q + Lyon Def-Krise 8 Tore in 5 + HR08-15-4 Auftakts-Def-Krise-Cluster. Faire Quote ~1.58.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
+    },
+    {
+      "spiel_id": "2026-08-18-fen-lyo",
+      "tipp_id": "fen-lyo-3",
+      "kategorie": "value",
+      "markt": "Fenerbahce SK Sieg (90 Min)",
+      "quote": 2.02,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 6,
+      "begruendung": "Fener-Home-Fav mit Cauldron-Push + Kader-Klasse + HR26 2:0-Insurance AKTIV. HR08-16-1 max VALUE wegen Genclerbirligi-Schock-Momentum + Cetin-GK-Wackel. Faire Quote ~1.90.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5
+    },
+    {
+      "spiel_id": "2026-08-18-lev-aek",
+      "tipp_id": "lev-aek-3",
+      "kategorie": "value",
+      "markt": "AEK Athens Sieg (90 Min)",
+      "quote": 2.34,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 5,
+      "begruendung": "AEK-Klassen-Fav Auswaerts mit 3 Stuetz-Faktoren (Kader-Klasse Jovic/Marin/Majer + 13-Spiele-Ungeschlagen). HR26 2:0-Insurance AKTIV in CL. HR08-16-1 max VALUE wegen Sofia-Cauldron. Faire Quote ~2.22.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6
+    },
+    {
+      "spiel_id": "2026-08-18-fen-lyo",
+      "tipp_id": "fen-lyo-4",
+      "kategorie": "value",
+      "markt": "Anderson Talisca - Torschuetze jederzeit",
+      "quote": 2.3,
+      "einsatz_euro": 8.25,
+      "edge_prozent": 5,
+      "begruendung": "Talisca 5-Spiele-Torschuetzen-Streak + zentraler 9er + Lyon Def leaky. HR24 3/3 = VALUE. Markt-Goldgrube Torschuetzen Jederzeit. Faire Quote ~2.20.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 7
+    },
+    {
+      "spiel_id": "2026-08-18-lev-aek",
+      "tipp_id": "lev-aek-4",
+      "kategorie": "wackel",
+      "markt": "Luka Jovic - Torschuetze jederzeit",
+      "quote": 3.0,
+      "einsatz_euro": 2.75,
+      "edge_prozent": 3,
+      "begruendung": "AEK zentraler 9er + 4 Tore Aggregate + Volume-Backup Koita/Varga. HR24 1-2/3 = WACKEL (Levski Def-Wall). Markt-Goldgrube Torschuetzen Jederzeit. Faire Quote ~2.90.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8
+    }
+  ],
+  "kombis": [
+    {
+      "profil": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-08-18-lev-aek",
+          "tipp_id": "lev-aek-1",
+          "markt": "Levski Sofia - AEK Athens: Unter 2.5 Tore",
+          "quote": 1.65,
+          "layer_2_tag": "lev-aek_unter_25",
+          "spiel_titel": "Levski Sofia - AEK Athens"
+        },
+        {
+          "spiel_id": "2026-08-18-fen-lyo",
+          "tipp_id": "fen-lyo-3",
+          "markt": "Fenerbahce SK - Olympique Lyon: Fenerbahce SK Sieg (90 Min)",
+          "quote": 2.02,
+          "layer_2_tag": "fen-lyo_sieg_heim",
+          "spiel_titel": "Fenerbahce SK - Olympique Lyon"
+        }
+      ],
+      "gesamtquote": 3.33,
+      "gesamtquote_rechnung": "1.65 x 2.02 = 3.33",
+      "einsatz_euro": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Safe-Kombi 3.33x = 2-Bein-Mini-Slate-Struktur (HR08-17-1 Kompression). Unter 2.5 Levski-AEK als Markt-Goldgrube-Anker (71.4%/+24.4% n=28 + Levski 4 CS in Folge + MightyTips+sportsgambler-Doppel-Konsens) + Fenerbahce Sieg als Cauldron-Home-Fav mit HR26 2:0-Insurance AKTIV in CL. HR08-16-1 Klassen-Duell-VALUE-Doktrin: Fener Sieg als VALUE-Kombi-Slot-Bein (nicht SAFE-Einzel). Quote 3.33x knapp im Master-Range 3-5x. Layer-2 hart: 1 Sieg-Outcome (Fener) fuer Fen-Lyo-Spiel. Beide Beine markt-entkoppelt (Total vs Sieg-Outcome). Ehrlich: Mini-Slate zwingt kompaktere Kombi-Range."
+    },
+    {
+      "profil": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-08-18-fen-lyo",
+          "tipp_id": "fen-lyo-1",
+          "markt": "Fenerbahce SK - Olympique Lyon: Beide Teams treffen: Ja",
+          "quote": 1.57,
+          "layer_2_tag": "fen-lyo_btts_ja",
+          "spiel_titel": "Fenerbahce SK - Olympique Lyon"
+        },
+        {
+          "spiel_id": "2026-08-18-lev-aek",
+          "tipp_id": "lev-aek-3",
+          "markt": "Levski Sofia - AEK Athens: AEK Athens Sieg (90 Min)",
+          "quote": 2.34,
+          "layer_2_tag": "lev-aek_sieg_gast",
+          "spiel_titel": "Levski Sofia - AEK Athens"
+        }
+      ],
+      "gesamtquote": 3.67,
+      "gesamtquote_rechnung": "1.57 x 2.34 = 3.67",
+      "einsatz_euro": 4.4,
+      "empfohlener_einsatz_prozent": 0.8,
+      "begruendung": "Balance-Kombi 3.67x = 2-Bein-Mini-Slate. BTTS Ja Fener-Lyo (sportsgambler-Best-Bet-Cluster @1.57 = 63% impl. + Lyon Def leaky + Fener Backup-GK) + AEK Sieg Auswaerts (Klassen-Fav @2.34 = 43% impl. + HR26 2:0-Insurance AKTIV). Layer-2 hart: 1 Sieg-Outcome (AEK) fuer Lev-AEK-Spiel. Layer-3 Bruch dokumentiert: Fen-Lyo in Safe (Sieg) + Balance (BTTS) - Markt-entkoppelt. Quote 3.67x unter Master-Range 6-10x (ehrlich: Mini-Slate zwingt Kompression HR08-17-1). Alternative Kein-Sieg-Kombi Talisca+Jovic Anytime 6.90x waere Risiko-Range - siehe Risiko-Kombi."
+    },
+    {
+      "profil": "risiko",
+      "beine": [
+        {
+          "spiel_id": "2026-08-18-fen-lyo",
+          "tipp_id": "fen-lyo-4",
+          "markt": "Fenerbahce SK - Olympique Lyon: Anderson Talisca - Torschuetze jederzeit",
+          "quote": 2.3,
+          "layer_2_tag": "fen-lyo_talisca_anytime",
+          "spiel_titel": "Fenerbahce SK - Olympique Lyon"
+        },
+        {
+          "spiel_id": "2026-08-18-lev-aek",
+          "tipp_id": "lev-aek-4",
+          "markt": "Levski Sofia - AEK Athens: Luka Jovic - Torschuetze jederzeit",
+          "quote": 3.0,
+          "layer_2_tag": "lev-aek_jovic_anytime",
+          "spiel_titel": "Levski Sofia - AEK Athens"
+        }
+      ],
+      "gesamtquote": 6.9,
+      "gesamtquote_rechnung": "2.30 x 3.00 = 6.90",
+      "einsatz_euro": 1.4,
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "Risiko-Kombi 6.90x = 2-Bein-Mini-Slate Torschuetzen-Doppel (Markt-Goldgrube Torschuetzen Jederzeit 50%/+24.4% aktiv). Talisca Anytime (Fener 9er, 5-Spiele-Streak, HR24 3/3 = VALUE-Basis + Cauldron-Push) + Jovic Anytime (AEK 9er, 4 Tore Aggregate, HR24 1-2/3 = WACKEL wegen Levski Def-Wall 4 CS). Layer-2 hart: kein Sieg-Outcome (beide Torschuetzen-Beine, kein Konflikt mit Safe/Balance-Sieg-Kombis). Layer-3 Bruch dokumentiert: Fen-Lyo 3x (Safe+Balance+Risiko), Lev-AEK 3x (Safe+Balance+Risiko) - unvermeidlich bei 2-Spiele-Slate + 4 Kombis. Markt-entkoppelt via verschiedene Bein-Typen. Quote 6.90x unter Master-Range 15-30x (HR08-17-1 Kompression, kein Genaues-Ergebnis-Lottery-Zwang)."
+    },
+    {
+      "profil": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-08-18-fen-lyo",
+          "tipp_id": "fen-lyo-5",
+          "markt": "Fenerbahce SK - Olympique Lyon: Anderson Talisca - Doppelpack (2+ Tore)",
+          "quote": 8.0,
+          "layer_2_tag": "fen-lyo_talisca_doppelpack",
+          "spiel_titel": "Fenerbahce SK - Olympique Lyon"
+        },
+        {
+          "spiel_id": "2026-08-18-lev-aek",
+          "tipp_id": "lev-aek-5",
+          "markt": "Levski Sofia - AEK Athens: Reinaldo - Torschuetze jederzeit",
+          "quote": 3.5,
+          "layer_2_tag": "lev-aek_reinaldo_anytime",
+          "spiel_titel": "Levski Sofia - AEK Athens"
+        }
+      ],
+      "gesamtquote": 28.0,
+      "gesamtquote_rechnung": "8.00 x 3.50 = 28.00",
+      "einsatz_euro": 0.55,
+      "empfohlener_einsatz_prozent": 0.1,
+      "begruendung": "Moonshot-Kombi 28.00x = 2-Bein Torschuetzen-Kombination im Debuet-Wunsch-Modus. Talisca-Doppelpack (Fener-9er 5-Spiele-Streak + Lyon-Def-Krise + Cauldron, impl. ~12.5%) + Reinaldo-Anytime (Levski-9er 5 Tore Aggregate + Home-Cauldron-Push + AEK 4 von 6 ohne CS, impl. ~29%). HR08-17-3 Mini-Slate-Moonshot-Torschuetzen-Doppelpack-Alternative-Doktrin (gestern gelernt) angewandt. HR08-15-3 Blowout-Ergebnis-Rueckfall-Vermeidung: kein Genaues-Ergebnis-Bein. Layer-2 hart: kein Sieg-Outcome (beide Torschuetzen). Layer-3 Bruch dokumentiert (Talisca 2x Anytime-Risiko + Doppelpack-Moonshot als Sub-Markt-Korrelation - gestern Aub-Analogue). Quote 28.00x unter Master-Range 100x+ (HR08-17-1 Kompression, kein Genaues-Ergebnis-Lottery-Zwang bei 2-Spiele-Slate). Impl. Wahrscheinlichkeit ~3.6% = Spassenisatz-Kategorie."
+    }
+  ],
+  "lessons_angewandt": [
+    "HR26 2:0-Insurance-Regel AKTIV in CL (nur BL/CL/WM 2026): Fenerbahce Sieg + AEK Sieg Tipps profitieren bei HZ 2:0-Fuehrung (bereits gewonnen egal Endstand)",
+    "HR08-16-1 Klassen-Duell-VALUE-Doktrin: Fenerbahce Sieg @2.02 + AEK Sieg @2.34 beide als VALUE (nicht SAFE) klassifiziert - SAFE-Slots stattdessen mit Under 2.5 (Goldgrube) + BTTS Ja (Cluster-Konsens)",
+    "HR08-16-2 Late-Goal-Cluster-Saison-Auftakt-4von5: BTTS Ja Fener-Lyo + Ueber 2.5 Fener-Lyo gestuetzt (Cluster im Playoff-Q4-Hinspiel)",
+    "HR08-15-4 Saison-Auftakts-Def-Krise-Cluster-BTTS-System-Bias: Fener Backup-GK Cetin + Doubt-IV Soyuncu + Lyon-Neuzugang-Kader-Integration = BTTS Ja + Ueber 2.5 gestuetzt",
+    "HR08-13-1 Post-WM-Ruhepause-Doktrin AUSGELAUFEN (17.08. Fenster durch) - Talisca (Gabon nicht WM-quali) + Reinaldo (Brasilianer aber nicht WM-Kader) + Jovic (Serbien WM-out) + Koita (Cote-Ivoire nicht qualifiziert) = alle frei fuer Torschuetzen-Tipps",
+    "HR08-17-1 Mini-Slate-Struktur-Kombi-Range-Kompression (gestern gelernt): bei nur 2 Spielen + 4 Kombis Master-Ranges nicht ohne Layer-1-Bruch oder Genaues-Ergebnis-Lottery erreichbar - Ranges kompressiert (Safe 3.33x/Balance 3.67x/Risiko 6.90x/Moonshot 28x)",
+    "HR08-17-2 Mini-Slate-Layer-3-Zwangsbruch-Doktrin (gestern gelernt): beide Spiele in mehreren Kombis - unvermeidlich bei 2-Spiele-Slate + 4 Kombi-Profilen. Markt-Entkopplung Pflicht (Sieg-Fav/Total/BTTS/Torschuetzen)",
+    "HR08-17-3 Mini-Slate-Moonshot-Torschuetzen-Doppelpack-Alternative (gestern gelernt): Moonshot mit Talisca-Doppelpack + Reinaldo-Anytime statt Underdog-Sieg-Konter (HR23-Mapper-Hartcheck-Bruch)",
+    "HR23 Layer-2-Interpretation strikt: pro Spiel max 1 Sieg-Outcome ueber alle Kombis (Fener Sieg in Safe + AEK Sieg in Balance = einzige Sieg-Beine ueber alle Kombis)",
+    "HR24 Torschuetzen-Form-Edge-Pflicht: Talisca 3/3 = VALUE (Streak+Volume+Def-Krise), Jovic 1-2/3 = WACKEL (Levski Def-Wall), Reinaldo 3/3-Basis aber degradiert auf WACKEL wegen AEK-Klassen-Klasse (Strakosha-GK)",
+    "Markt-Goldgrube Unter 2.5 Tore (71.4%/+24.4% n=28) direkt aktiv fuer Levski-AEK als SAFE-Anker (Doppel-Aggregator-Konsens + Levski Def-Serie)",
+    "Markt-Goldgrube DC X2 (77.8%/+9.4%) fuer Lev-AEK VALUE-Slot verwendet (AEK-Klassen-Fav-Absicherer)",
+    "Markt-Goldgrube Torschuetzen Jederzeit (50%/+24.4%) fuer Risiko-Kombi-Doppel (Talisca + Jovic) + Moonshot-Bein Reinaldo aktiv",
+    "HR08-12-1 CL-Q3-Aggregat-Drehungs-Cluster-Vorsicht (Hinspiel weniger relevant aber Kontext) - Fener-Sieg als VALUE (nicht SAFE) wegen Rueckspiel-26.08.-Aggregat-Verwalter-Risiko",
+    "Mini-Slate-Konsequenzen ehrlich dokumentiert: Kombi-Quoten unter Master-Range (Safe 3.33x/Balance 3.67x/Risiko 6.90x/Moonshot 28x statt 3-5x/6-10x/15-30x/100x+)"
+  ],
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_verifikations_report": {
+    "geprueft_am": "2026-08-18T13:35:00+02:00",
+    "modus": "intern (Master-Selbstverifikation, keine externe Cloud-Verifikation - Mini-Slate 2 Spiele CL-Playoff-Hinspiele)",
+    "checks_bestanden": [
+      "JSON-Schema gueltig, alle Pflichtfelder befuellt (datum, hinweis, spiele[], einzeltipps[], kombis[], lessons_angewandt[], footer)",
+      "max 5 tipps pro Spiel eingehalten (5/5 fen-lyo + 5/5 lev-aek)",
+      "Alle tipps mit unique id (fen-lyo-1..5 + lev-aek-1..5) - Mapper-Konsistenz-Check-Basis fuer einzeltipps + kombi-beine tipp_id-Referenzen",
+      "Kombi-gesamtquote alle rechnerisch korrekt: Safe 1.65x2.02=3.333=3.33x, Balance 1.57x2.34=3.6738=3.67x, Risiko 2.30x3.00=6.90x, Moonshot 8.00x3.50=28.00x",
+      "Layer-1 hart eingehalten: max 1 Bein/Spiel/Kombi in allen 4 Kombis (Safe 2 Beine 2 Spiele, Balance 2 Beine 2 Spiele, Risiko 2 Beine 2 Spiele, Moonshot 2 Beine 2 Spiele)",
+      "Layer-2 hart strikt pro Spiel-Slot: Sieg-Outcomes NUR Fener Sieg (Safe) + AEK Sieg (Balance) = max 1 Sieg-Outcome pro Spiel ueber alle Kombis (keine Lyon Sieg + Levski Sieg + Draw Konter-Beine - Hartcheck HR23)",
+      "Layer-2-Tag-Eindeutigkeit ueber alle Kombis: 8 unique Tags (fen-lyo_btts_ja, fen-lyo_ueber_25, fen-lyo_sieg_heim, fen-lyo_talisca_anytime, fen-lyo_talisca_doppelpack, lev-aek_unter_25, lev-aek_dc_x2, lev-aek_sieg_gast, lev-aek_jovic_anytime, lev-aek_reinaldo_anytime) - 10 tipps total mit einzigartigen tags, 7 in kombis verwendet",
+      "Layer-3 Weichbruch dokumentiert: beide Spiele in allen 4 Kombis - unvermeidlich bei 2-Spiele-Slate + 4 Kombis - jedes Bein verschiedener Markt (Markt-entkoppelt: Sieg/Total/BTTS/Torschuetzen/Doppelpack)",
+      "HR24 Torschuetzen-Form-Edge-Check bei Talisca (3/3 → VALUE Anytime + Moonshot Doppelpack als Spassenisatz erlaubt) + Jovic (1-2/3 → WACKEL) + Reinaldo (3/3-Basis degradiert WACKEL wegen AEK-GK-Klasse)",
+      "HR22 Star-OUT-Implosions-Risiko: kein Sieg-VALUE fuer Team mit Top-Stuermer-Verletzung - alle 4 Torschuetzen-Kandidaten fit (Talisca+Greenwood Fener; Jovic+Reinaldo Lev-AEK)",
+      "Squad-Verifikation: alle Torschuetzen-Tipps (Talisca + Jovic + Reinaldo) im predicted lineup bestaetigt (mightytips + sportsgambler + ratingbet)",
+      "Position-Verifikation: Talisca = zentraler 10er/9er (Fener 4-2-3-1) → OK. Jovic = ST (AEK 4-3-3 Sturm-Mitte) → OK. Reinaldo = ST (Levski 4-3-3 Sturm-Rechts oder Mitte) → OK",
+      "Saison-Kontext-Verband-Quellen-Check: parallel_heim + parallel_gast enthalten CL-Q-Referenzen → UEFA-Quelle in quellen[] beider Spiele bestaetigt (uefa.com Fen-Lyo + yahoo CL-Playoff-Draw)",
+      "Markt-Mix-Check: max 1 DC pro Spiel eingehalten (nur Lev-AEK hat DC X2, kein DC-Doppel)",
+      "Selbstwiderspruchs-Scan: kein Widerspruch zwischen begruendung + saison_kontext + news[] (z.B. keine 'Talisca OUT' + 'Talisca Anytime'-Kombination); Fener-Sieg + BTTS Ja + Ueber 2.5 konsistent mit Score-Prognose 2:1 goal.mu; Under 2.5 Lev-AEK konsistent mit 1:1-tips.gg-Konsens",
+      "Quoten-Plausibilitaet: alle Quoten Aggregator-Konsens-basiert (mightytips/sportsgambler/ratingbet/telecomasia/vegasodds/dailysports/livescore/wincomparator) - bet365 live pruefen",
+      "Post-WM-Ruhepause-Doktrin HR08-13-1 ausgelaufen (17.08. Fenster durch): Talisca (Gabon nicht qualifiziert) + Reinaldo (Brasilianer nicht WM-Kader) + Jovic (Serbien WM-out) + Koita (Cote-Ivoire nicht qualifiziert) - alle frei",
+      "Genaues Ergebnis + Halbzeit-Endstand-Kombi + Eckbaelle/Karten NIE in Tipps (bet365-DE-Verbote + Lottery-Vermeidung)",
+      "Kasse-Stufe-1 Stakes korrekt: Einzel SAFE/VALUE 1.5% = 8.25€, Einzel WACKEL 0.5% = 2.75€, Kombi Safe 2% = 11.00€, Balance 0.8% = 4.40€, Risiko 0.25% = 1.375€ auf 1.40€ gerundet, Moonshot 0.1% = 0.55€",
+      "CL-Kontext-Doktrin: HR26 2:0-Insurance AKTIV fuer alle Sieg-Tipps (Fen + AEK); HR08-12-1-analog CL-Aggregat-Vorsicht in begruendung Fener-Sieg VALUE-Downgrade"
+    ],
+    "warnungen": [
+      "Mini-Slate 2-Spiele: alle Kombi-Quoten unter Master-Range (Safe 3.33x statt 3-5x-Mitte, Balance 3.67x statt 6-10x, Risiko 6.90x statt 15-30x, Moonshot 28x statt 100x+) - ehrlich dokumentiert via HR08-17-1 Kompression-Doktrin, kein Zwang-100x-via-Genaues-Ergebnis-Lottery (Verbot HR CLAUDE.md)",
+      "Layer-3 Weichbruch: beide Spiele in allen 4 Kombis - unvermeidlich bei 2-Spiele-Slate + 4 Kombi-Profilen (Master-PFLICHT). Markt-entkoppelt via verschiedene Beine pro Spiel (Sieg/BTTS/Total/Torschuetzen/Doppelpack)",
+      "Layer-2 hart strikt angewendet: kein Konter-Prinzip fuer Underdog-Sieg-Beine (Lyon + Levski Sieg wuerden Hartcheck brechen - HR23 Mapper droppt sie). Moonshot mit Talisca-Doppelpack + Reinaldo-Anytime als Alternative statt Underdog-Sieg-Konter",
+      "Aggregator-Konsens ohne direkten bet365-Live-Scrape: Quoten koennten +/-5% abweichen - bet365 live pruefen empfohlen",
+      "Talisca-Doppelpack Quote @8.00 = Estimate ohne direkten bet365-Scrape - reale Quote koennte 6.50-10.00 sein - bet365 live pruefen",
+      "Reinaldo-Anytime Quote @3.50 = Estimate ohne direkten bet365-Scrape (kein sportsgambler-Preis-Feed fuer Reinaldo-spezifisch) - reale Quote koennte 3.00-4.00 sein - bet365 live pruefen",
+      "Talisca-Anytime (Risiko) + Talisca-Doppelpack (Moonshot) = Sub-Markt-Korrelation (Doppelpack impliziert Anytime). Wenn Talisca 2+ trifft, gewinnen beide Kombis (+); wenn Talisca 0 trifft, verlieren beide (-). Layer-3 weich Bruch dokumentiert - Praezedenz gestern Aubameyang Anytime+Doppelpack",
+      "CL-Hin-Spiel-Aggregat-Verwalter-Risiko HR08-12-1-analog: Fener koennte nach fruehem 1:0/2:0 defensiv verwalten fuer Rueckspiel-Vorteil - Ueber 2.5 + BTTS Ja Kombi-Risiko real (aber Cluster-Konsens dagegen)",
+      "Fener-GK-Wackel: Ederson + Gunok OUT → Ertugrul Cetin (jung, Backup) im Tor = Def-Verwundbarkeit bestaetigt (stuetzt BTTS Ja + Ueber 2.5), aber koennte auch Sieg-Tipp-Downgrade rechtfertigen bei Live-Startelf-Wechsel",
+      "AEK Domestische-Saison-noch-nicht-gestartet: Rhythm-Nachteil vs Levski (4 Parva-Liga-Siege im Beinen) - reflect in Fair-Quote AEK Sieg 2.22 vs Markt 2.34",
+      "HR08-13-1 Post-WM-Ruhepause-Doktrin AUSGELAUFEN gestern (17.08.) - heute 18.08. zweiter Anwendungstag ohne direkte Nach-WM-Muedigkeit-Nachwirkung bei den 4 Torschuetzen-Kandidaten (alle nicht WM-qualifiziert oder Kader nicht dabei)"
+    ],
+    "drops": [],
+    "downgrades": [],
+    "lessons_generiert": [
+      {
+        "kategorie": "CL-Playoff-Hinspiel-Aggregat-Vorsicht",
+        "vorschlag": "HR08-18-1 CL-Playoff-Q4-Hinspiel-Sieg-VALUE-Downgrade-Doktrin: bei CL-Playoff-Hinspiel (Q4 vor League-Phase, ~50M€ Preis) Home-Fav-Sieg-Tipp NIE als SAFE, immer max VALUE wegen Aggregat-Verwalter-Risiko + Rueckspiel-Fokus. Analog HR08-12-1 CL-Q3-Doktrin auf Q4 uebertragen. Erste Anwendung Fenerbahce @2.02 heute."
+      },
+      {
+        "kategorie": "Mini-Slate-Doktrin-Bestaetigung",
+        "vorschlag": "HR08-18-2 Mini-Slate-Doktrin-Kompression-n2-Validierung: zwei Tage in Folge (17.08. + 18.08.) Mini-Slate mit 2 Spielen + 4 Kombis = HR08-17-1/-2/-3 direkt anwendbar. Blueprint: Safe (Total-Goldgrube + Home-Sieg-VALUE), Balance (BTTS + Auswaerts-Sieg-VALUE), Risiko (Torschuetzen-Doppel Anytime), Moonshot (Torschuetzen-Doppelpack + Torschuetzen-Anytime)"
+      },
+      {
+        "kategorie": "Backup-GK-Wackel-Def-Krise-Cluster",
+        "vorschlag": "HR08-18-3 Backup-GK-Wackel-Def-Krise-Cluster-Sub-Doktrin: wenn beide Stamm-GK OUT (Fener Ederson+Gunok) und Backup-GK startelt (Cetin, jung), automatischer Sub-Bias fuer BTTS Ja + Ueber 2.5 + Torschuetzen-Doppel gegen dieses Team, auch bei Home-Fav-Konstellation. Neue Sub-Kategorie unter HR08-15-4 Saison-Auftakts-Def-Krise-Cluster"
+      }
+    ]
+  }
+}
