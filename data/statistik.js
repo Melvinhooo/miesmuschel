@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-08-17T07:31:43+00:00",
+  "letzte_berechnung": "2026-08-18T07:11:47+00:00",
   "gesamt": {
-    "tipps": 439,
-    "gewonnen": 223,
-    "verloren": 202,
+    "tipps": 447,
+    "gewonnen": 228,
+    "verloren": 205,
     "push": 3,
     "offen": 11,
-    "einsatz": 428.0,
-    "netto": 16.63,
-    "trefferquote": 52.5,
+    "einsatz": 436.0,
+    "netto": 16.93,
+    "trefferquote": 52.7,
     "roi_prozent": 3.9
   },
   "letzte_30_tage": {
-    "tipps": 157,
-    "gewonnen": 68,
-    "verloren": 77,
+    "tipps": 165,
+    "gewonnen": 73,
+    "verloren": 80,
     "push": 1,
     "offen": 11,
-    "einsatz": 146.0,
-    "netto": 13.82,
-    "trefferquote": 46.9,
-    "roi_prozent": 9.5
+    "einsatz": 154.0,
+    "netto": 14.12,
+    "trefferquote": 47.7,
+    "roi_prozent": 9.2
   },
   "letzte_90_tage": {
-    "tipps": 431,
-    "gewonnen": 222,
-    "verloren": 195,
+    "tipps": 428,
+    "gewonnen": 220,
+    "verloren": 194,
     "push": 3,
     "offen": 11,
-    "einsatz": 420.0,
-    "netto": 22.68,
-    "trefferquote": 53.2,
-    "roi_prozent": 5.4
+    "einsatz": 417.0,
+    "netto": 19.22,
+    "trefferquote": 53.1,
+    "roi_prozent": 4.6
   },
   "nach_liga": {
     "Premier League": {
@@ -1101,6 +1101,28 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "LaLiga 2026/27 - Matchday 1": {
+      "tipps": 4,
+      "gewonnen": 3,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 1.34,
+      "trefferquote": 75.0,
+      "roi_prozent": 33.5
+    },
+    "EFL Championship 2026/27 - Matchday 1": {
+      "tipps": 4,
+      "gewonnen": 2,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": -1.04,
+      "trefferquote": 50.0,
+      "roi_prozent": -26.0
     }
   },
   "nach_markt": {
@@ -1138,15 +1160,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 26,
+      "tipps": 27,
       "gewonnen": 12,
-      "verloren": 12,
+      "verloren": 13,
       "push": 0,
       "offen": 2,
-      "einsatz": 24.0,
-      "netto": 2.4,
-      "trefferquote": 50.0,
-      "roi_prozent": 10.0
+      "einsatz": 25.0,
+      "netto": 1.4,
+      "trefferquote": 48.0,
+      "roi_prozent": 5.6
     },
     "Spurs +6.5 (Asian Handicap)": {
       "tipps": 1,
@@ -1336,15 +1358,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 21,
-      "gewonnen": 16,
+      "tipps": 22,
+      "gewonnen": 17,
       "verloren": 5,
       "push": 0,
       "offen": 0,
-      "einsatz": 21.0,
-      "netto": 5.81,
-      "trefferquote": 76.2,
-      "roi_prozent": 27.7
+      "einsatz": 22.0,
+      "netto": 6.41,
+      "trefferquote": 77.3,
+      "roi_prozent": 29.1
     },
     "Sieg Oklahoma City Thunder (Moneyline)": {
       "tipps": 1,
@@ -3525,15 +3547,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "Beide Teams treffen: Ja": {
-      "tipps": 18,
-      "gewonnen": 12,
+      "tipps": 19,
+      "gewonnen": 13,
       "verloren": 6,
       "push": 0,
       "offen": 0,
-      "einsatz": 18.0,
-      "netto": 0.0,
-      "trefferquote": 66.7,
-      "roi_prozent": 0.0
+      "einsatz": 19.0,
+      "netto": 0.56,
+      "trefferquote": 68.4,
+      "roi_prozent": 2.9
     },
     "Doppelte Chance X2: Dresden oder Remis": {
       "tipps": 3,
@@ -3809,6 +3831,61 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Doppelte Chance: Deportivo La Coruna oder Unentschieden": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.44,
+      "trefferquote": 100.0,
+      "roi_prozent": 44.0
+    },
+    "Doppelte Chance: Cardiff City oder Unentschieden": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.4,
+      "trefferquote": 100.0,
+      "roi_prozent": 40.0
+    },
+    "Deportivo La Coruna Sieg (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Pierre-Emerick Aubameyang - Torschuetze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 130.0
+    },
+    "Sam Smith - Torschuetze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_markt_typ": {
@@ -3824,15 +3901,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 78,
-      "gewonnen": 28,
-      "verloren": 48,
+      "tipps": 80,
+      "gewonnen": 29,
+      "verloren": 49,
       "push": 2,
       "offen": 0,
-      "einsatz": 78.0,
-      "netto": 3.29,
-      "trefferquote": 36.8,
-      "roi_prozent": 4.2
+      "einsatz": 80.0,
+      "netto": 3.59,
+      "trefferquote": 37.2,
+      "roi_prozent": 4.5
     },
     "Spread/Handicap": {
       "tipps": 5,
@@ -3846,15 +3923,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -23.6
     },
     "Ueber 2.5 Tore": {
-      "tipps": 38,
+      "tipps": 39,
       "gewonnen": 20,
-      "verloren": 16,
+      "verloren": 17,
       "push": 0,
       "offen": 2,
-      "einsatz": 36.0,
-      "netto": 4.3,
-      "trefferquote": 55.6,
-      "roi_prozent": 11.9
+      "einsatz": 37.0,
+      "netto": 3.3,
+      "trefferquote": 54.1,
+      "roi_prozent": 8.9
     },
     "Spieler-Punkte Unter (NBA)": {
       "tipps": 7,
@@ -3868,26 +3945,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 25.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 141,
+      "tipps": 142,
       "gewonnen": 70,
-      "verloren": 68,
+      "verloren": 69,
       "push": 1,
       "offen": 2,
-      "einsatz": 139.0,
-      "netto": -3.7,
-      "trefferquote": 50.7,
-      "roi_prozent": -2.7
+      "einsatz": 140.0,
+      "netto": -4.7,
+      "trefferquote": 50.4,
+      "roi_prozent": -3.4
     },
     "Doppelte Chance": {
-      "tipps": 20,
-      "gewonnen": 6,
+      "tipps": 22,
+      "gewonnen": 8,
       "verloren": 7,
       "push": 0,
       "offen": 7,
-      "einsatz": 13.0,
-      "netto": -0.54,
-      "trefferquote": 46.2,
-      "roi_prozent": -4.2
+      "einsatz": 15.0,
+      "netto": 0.3,
+      "trefferquote": 53.3,
+      "roi_prozent": 2.0
     },
     "Spieler-Punkte Ueber (NBA)": {
       "tipps": 3,
@@ -3912,15 +3989,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 12.4
     },
     "Unter 2.5 Tore": {
-      "tipps": 27,
-      "gewonnen": 19,
+      "tipps": 28,
+      "gewonnen": 20,
       "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 27.0,
-      "netto": 6.23,
-      "trefferquote": 70.4,
-      "roi_prozent": 23.1
+      "einsatz": 28.0,
+      "netto": 6.83,
+      "trefferquote": 71.4,
+      "roi_prozent": 24.4
     },
     "Doppelte Chance 1X": {
       "tipps": 18,
@@ -3945,15 +4022,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 27.5
     },
     "Beide Teams treffen JA": {
-      "tipps": 33,
-      "gewonnen": 18,
+      "tipps": 34,
+      "gewonnen": 19,
       "verloren": 15,
       "push": 0,
       "offen": 0,
-      "einsatz": 33.0,
-      "netto": 1.88,
-      "trefferquote": 54.5,
-      "roi_prozent": 5.7
+      "einsatz": 34.0,
+      "netto": 2.44,
+      "trefferquote": 55.9,
+      "roi_prozent": 7.2
     },
     "Unter 3.5 Tore": {
       "tipps": 4,
@@ -4134,37 +4211,37 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.00-1.50": {
-      "tipps": 169,
-      "gewonnen": 103,
+      "tipps": 171,
+      "gewonnen": 105,
       "verloren": 58,
       "push": 1,
       "offen": 7,
-      "einsatz": 162.0,
-      "netto": 4.51,
-      "trefferquote": 64.0,
-      "roi_prozent": 2.8
+      "einsatz": 164.0,
+      "netto": 5.35,
+      "trefferquote": 64.4,
+      "roi_prozent": 3.3
     },
     "1.50-2.00": {
-      "tipps": 192,
-      "gewonnen": 93,
-      "verloren": 96,
+      "tipps": 195,
+      "gewonnen": 95,
+      "verloren": 97,
       "push": 1,
       "offen": 2,
-      "einsatz": 190.0,
-      "netto": 5.45,
-      "trefferquote": 49.2,
+      "einsatz": 193.0,
+      "netto": 5.61,
+      "trefferquote": 49.5,
       "roi_prozent": 2.9
     },
     "2.00-3.00": {
-      "tipps": 58,
-      "gewonnen": 21,
-      "verloren": 34,
+      "tipps": 61,
+      "gewonnen": 22,
+      "verloren": 36,
       "push": 1,
       "offen": 2,
-      "einsatz": 56.0,
-      "netto": 4.07,
-      "trefferquote": 38.2,
-      "roi_prozent": 7.3
+      "einsatz": 59.0,
+      "netto": 3.37,
+      "trefferquote": 37.9,
+      "roi_prozent": 5.7
     },
     "3.00+": {
       "tipps": 20,
@@ -4180,37 +4257,37 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 56,
-      "gewonnen": 28,
+      "tipps": 58,
+      "gewonnen": 30,
       "verloren": 21,
       "push": 0,
       "offen": 7,
-      "einsatz": 49.0,
-      "netto": -1.78,
-      "trefferquote": 57.1,
-      "roi_prozent": -3.6
+      "einsatz": 51.0,
+      "netto": -0.94,
+      "trefferquote": 58.8,
+      "roi_prozent": -1.8
     },
     "value": {
-      "tipps": 263,
-      "gewonnen": 146,
-      "verloren": 110,
+      "tipps": 267,
+      "gewonnen": 148,
+      "verloren": 112,
       "push": 3,
       "offen": 4,
-      "einsatz": 259.0,
-      "netto": 22.18,
-      "trefferquote": 57.0,
-      "roi_prozent": 8.6
+      "einsatz": 263.0,
+      "netto": 21.34,
+      "trefferquote": 56.9,
+      "roi_prozent": 8.1
     },
     "wackel": {
-      "tipps": 117,
-      "gewonnen": 48,
-      "verloren": 69,
+      "tipps": 119,
+      "gewonnen": 49,
+      "verloren": 70,
       "push": 0,
       "offen": 0,
-      "einsatz": 117.0,
-      "netto": -3.17,
-      "trefferquote": 41.0,
-      "roi_prozent": -2.7
+      "einsatz": 119.0,
+      "netto": -2.87,
+      "trefferquote": 41.2,
+      "roi_prozent": -2.4
     },
     "risiko": {
       "tipps": 3,
@@ -4257,6 +4334,184 @@ window.__MIESMUSCHEL_STAT = {
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-08-17",
+      "gesamt": {
+        "tipps": 8,
+        "gewonnen": 5,
+        "verloren": 3,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 8.0,
+        "netto": 0.3,
+        "trefferquote": 62.5,
+        "roi_prozent": 3.8
+      },
+      "spiele": [
+        {
+          "id": "2026-08-17-dep-elc",
+          "liga": "LaLiga 2026/27 - Matchday 1",
+          "heim": "Deportivo La Coruna",
+          "gast": "Elche CF",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance: Deportivo La Coruna oder Unentschieden",
+              "quote": 1.44,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.44,
+              "kommentar": "Unentschieden 1:1 → DC 1X gewonnen (Draw-Bein)."
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.6,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.6,
+              "kommentar": "Endstand 1:1 = 2 Tore < 2.5 → Unter 2.5 gewonnen. Markt-Goldgrube Unter 2.5 (70.4%/+23.1%) erneut validiert."
+            },
+            {
+              "markt": "Deportivo La Coruna Sieg (90 Min)",
+              "quote": 2.23,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Depor 1:1 statt Sieg (Elche-Ausgleich 76' Aguado). HR26 2:0-Insurance NICHT AKTIV in LaLiga - keine Rettung trotz HZ 1:0."
+            },
+            {
+              "markt": "Pierre-Emerick Aubameyang - Torschuetze jederzeit",
+              "quote": 2.3,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.3,
+              "kommentar": "Aubameyang traf 21' (Karriere-Volume-9er-Signal bei LaLiga-Debuet bestaetigt)."
+            }
+          ]
+        },
+        {
+          "id": "2026-08-17-car-wre",
+          "liga": "EFL Championship 2026/27 - Matchday 1",
+          "heim": "Cardiff City",
+          "gast": "Wrexham AFC",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance: Cardiff City oder Unentschieden",
+              "quote": 1.4,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.4,
+              "kommentar": "Unentschieden 1:1 → DC 1X gewonnen (Draw-Bein). Rubin Colwill 90+8 Freistoss-Retter."
+            },
+            {
+              "markt": "Beide Teams treffen: Ja",
+              "quote": 1.56,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.56,
+              "kommentar": "Beide Teams trafen (Moore 3' Wrexham, Colwill 90+8' Cardiff) → BTTS Ja gewonnen. HR08-15-4 Auftakts-Def-Krise-Cluster + HR08-16-2 Late-Goal-Cluster bestaetigt."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.71,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 1:1 = 2 Tore < 2.5 → Ueber 2.5 verloren trotz BTTS-Konsens."
+            },
+            {
+              "markt": "Sam Smith - Torschuetze jederzeit",
+              "quote": 2.6,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Sam Smith kam als Sub fuer Kieffer Moore rein - Smith kein Tor. Einwechslungs-Boost greift NICHT (Smith wurde nicht ausgewechselt, sondern kam ein; Moore-Ersatz-Logik trifft nur wenn Getippte X selbst raus geht). Wrexham-Kieffer-Moore war 3'-Torschuetze (nicht Smith - predicted-lineup racingpost/sportsgambler war falsch: Wrexham startete Moore-Keillor-Dunn statt Smith-Keillor-Dunn)."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "?",
+          "kategorie": "",
+          "gesamtquote": 3.48,
+          "einsatz_prozent": 2.0,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Cardiff City - Wrexham AFC: Beide Teams treffen: Ja",
+              "quote": 1.56,
+              "status": "gewonnen",
+              "kommentar": "Beide Teams trafen (Moore 3' Wrexham, Colwill 90+8' Cardiff) → BTTS Ja gewonnen. HR08-15-4 Auftakts-Def-Krise-Cluster + HR08-16-2 Late-Goal-Cluster bestaetigt."
+            },
+            {
+              "markt": "Deportivo La Coruna - Elche CF: Deportivo La Coruna Sieg (90 Min)",
+              "quote": 2.23,
+              "status": "verloren",
+              "kommentar": "Depor 1:1 statt Sieg (Elche-Ausgleich 76' Aguado). HR26 2:0-Insurance NICHT AKTIV in LaLiga - keine Rettung trotz HZ 1:0."
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "",
+          "gesamtquote": 3.89,
+          "einsatz_prozent": 0.8,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Cardiff City - Wrexham AFC: Cardiff City Sieg (90 Min)",
+              "quote": 2.43,
+              "status": "verloren",
+              "kommentar": "Cardiff drew 1:1 statt Sieg (98'-Freistoss-Retter Colwill). HR26 2:0-Insurance NICHT AKTIV in Championship."
+            },
+            {
+              "markt": "Deportivo La Coruna - Elche CF: Unter 2.5 Tore",
+              "quote": 1.6,
+              "status": "gewonnen",
+              "kommentar": "Endstand 1:1 = 2 Tore < 2.5 → Unter 2.5 gewonnen. Markt-Goldgrube Unter 2.5 (70.4%/+23.1%) erneut validiert."
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "",
+          "gesamtquote": 5.98,
+          "einsatz_prozent": 0.25,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Cardiff City - Wrexham AFC: Sam Smith - Torschuetze jederzeit",
+              "quote": 2.6,
+              "status": "verloren",
+              "kommentar": "Sam Smith kam als Sub fuer Kieffer Moore rein - Smith kein Tor. Einwechslungs-Boost greift NICHT (Smith wurde nicht ausgewechselt, sondern kam ein; Moore-Ersatz-Logik trifft nur wenn Getippte X selbst raus geht). Wrexham-Kieffer-Moore war 3'-Torschuetze (nicht Smith - predicted-lineup racingpost/sportsgambler war falsch: Wrexham startete Moore-Keillor-Dunn statt Smith-Keillor-Dunn)."
+            },
+            {
+              "markt": "Deportivo La Coruna - Elche CF: Pierre-Emerick Aubameyang - Torschuetze jederzeit",
+              "quote": 2.3,
+              "status": "gewonnen",
+              "kommentar": "Aubameyang traf 21' (Karriere-Volume-9er-Signal bei LaLiga-Debuet bestaetigt)."
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "",
+          "gesamtquote": 8.0,
+          "einsatz_prozent": 0.1,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Deportivo La Coruna - Elche CF: Pierre-Emerick Aubameyang - Doppelpack (2+ Tore)",
+              "quote": 8.0,
+              "status": "verloren",
+              "kommentar": "Aub nur 1 Tor (21'), kein Doppelpack. Aub spielte durch (kein Sub → kein Einwechslungs-Boost-Kanal)."
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-08-16",
       "gesamt": {
