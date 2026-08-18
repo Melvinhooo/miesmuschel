@@ -1,0 +1,17 @@
+{
+  "stand": "2026-08-18T17:48:17.653785+00:00",
+  "gesendet": {
+    "2026-08-18-fen-lyo": {
+      "sent_at": "2026-08-18T17:48:16.090083+00:00",
+      "anstoss": "2026-08-18T21:00:00+02:00",
+      "spiel": "Fenerbahce SK vs Olympique Lyon",
+      "top_tipp": "Beide Teams treffen: Ja"
+    },
+    "2026-08-18-lev-aek": {
+      "sent_at": "2026-08-18T17:48:16.090083+00:00",
+      "anstoss": "2026-08-18T21:00:00+02:00",
+      "spiel": "Levski Sofia vs AEK Athens",
+      "top_tipp": "Unter 2.5 Tore"
+    }
+  }
+}
