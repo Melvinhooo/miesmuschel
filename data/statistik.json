@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-08-18T07:11:47+00:00",
+  "letzte_berechnung": "2026-08-19T07:12:09+00:00",
   "gesamt": {
-    "tipps": 447,
-    "gewonnen": 228,
-    "verloren": 205,
+    "tipps": 455,
+    "gewonnen": 231,
+    "verloren": 210,
     "push": 3,
     "offen": 11,
-    "einsatz": 436.0,
-    "netto": 16.93,
-    "trefferquote": 52.7,
-    "roi_prozent": 3.9
+    "einsatz": 444.0,
+    "netto": 13.5,
+    "trefferquote": 52.4,
+    "roi_prozent": 3.0
   },
   "letzte_30_tage": {
-    "tipps": 165,
-    "gewonnen": 73,
-    "verloren": 80,
+    "tipps": 168,
+    "gewonnen": 74,
+    "verloren": 82,
     "push": 1,
     "offen": 11,
-    "einsatz": 154.0,
-    "netto": 14.12,
-    "trefferquote": 47.7,
-    "roi_prozent": 9.2
+    "einsatz": 157.0,
+    "netto": 11.99,
+    "trefferquote": 47.4,
+    "roi_prozent": 7.6
   },
   "letzte_90_tage": {
-    "tipps": 428,
-    "gewonnen": 220,
-    "verloren": 194,
+    "tipps": 430,
+    "gewonnen": 221,
+    "verloren": 195,
     "push": 3,
     "offen": 11,
-    "einsatz": 417.0,
-    "netto": 19.22,
+    "einsatz": 419.0,
+    "netto": 13.17,
     "trefferquote": 53.1,
-    "roi_prozent": 4.6
+    "roi_prozent": 3.1
   },
   "nach_liga": {
     "Premier League": {
@@ -1122,6 +1122,17 @@
       "netto": -1.04,
       "trefferquote": 50.0,
       "roi_prozent": -26.0
+    },
+    "UEFA Champions League 2026/27 - Playoff Round (Q4) Hinspiel": {
+      "tipps": 8,
+      "gewonnen": 3,
+      "verloren": 5,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 8.0,
+      "netto": -3.43,
+      "trefferquote": 37.5,
+      "roi_prozent": -42.9
     }
   },
   "nach_markt": {
@@ -1159,15 +1170,15 @@
       "roi_prozent": -100.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 27,
+      "tipps": 28,
       "gewonnen": 12,
-      "verloren": 13,
+      "verloren": 14,
       "push": 0,
       "offen": 2,
-      "einsatz": 25.0,
-      "netto": 1.4,
-      "trefferquote": 48.0,
-      "roi_prozent": 5.6
+      "einsatz": 26.0,
+      "netto": 0.4,
+      "trefferquote": 46.2,
+      "roi_prozent": 1.5
     },
     "Spurs +6.5 (Asian Handicap)": {
       "tipps": 1,
@@ -1357,15 +1368,15 @@
       "roi_prozent": 0.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 22,
-      "gewonnen": 17,
+      "tipps": 23,
+      "gewonnen": 18,
       "verloren": 5,
       "push": 0,
       "offen": 0,
-      "einsatz": 22.0,
-      "netto": 6.41,
-      "trefferquote": 77.3,
-      "roi_prozent": 29.1
+      "einsatz": 23.0,
+      "netto": 7.06,
+      "trefferquote": 78.3,
+      "roi_prozent": 30.7
     },
     "Sieg Oklahoma City Thunder (Moneyline)": {
       "tipps": 1,
@@ -3546,15 +3557,15 @@
       "roi_prozent": 0.0
     },
     "Beide Teams treffen: Ja": {
-      "tipps": 19,
-      "gewonnen": 13,
+      "tipps": 20,
+      "gewonnen": 14,
       "verloren": 6,
       "push": 0,
       "offen": 0,
-      "einsatz": 19.0,
-      "netto": 0.56,
-      "trefferquote": 68.4,
-      "roi_prozent": 2.9
+      "einsatz": 20.0,
+      "netto": 1.13,
+      "trefferquote": 70.0,
+      "roi_prozent": 5.6
     },
     "Doppelte Chance X2: Dresden oder Remis": {
       "tipps": 3,
@@ -3885,6 +3896,61 @@
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Doppelte Chance: AEK Athens oder Unentschieden": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.35,
+      "trefferquote": 100.0,
+      "roi_prozent": 35.0
+    },
+    "Fenerbahce SK Sieg (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "AEK Athens Sieg (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Anderson Talisca - Torschuetze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Luka Jovic - Torschuetze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_markt_typ": {
@@ -3900,15 +3966,15 @@
       "roi_prozent": -100.0
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 80,
+      "tipps": 82,
       "gewonnen": 29,
-      "verloren": 49,
+      "verloren": 51,
       "push": 2,
       "offen": 0,
-      "einsatz": 80.0,
-      "netto": 3.59,
-      "trefferquote": 37.2,
-      "roi_prozent": 4.5
+      "einsatz": 82.0,
+      "netto": 1.59,
+      "trefferquote": 36.2,
+      "roi_prozent": 1.9
     },
     "Spread/Handicap": {
       "tipps": 5,
@@ -3922,15 +3988,15 @@
       "roi_prozent": -23.6
     },
     "Ueber 2.5 Tore": {
-      "tipps": 39,
+      "tipps": 40,
       "gewonnen": 20,
-      "verloren": 17,
+      "verloren": 18,
       "push": 0,
       "offen": 2,
-      "einsatz": 37.0,
-      "netto": 3.3,
-      "trefferquote": 54.1,
-      "roi_prozent": 8.9
+      "einsatz": 38.0,
+      "netto": 2.3,
+      "trefferquote": 52.6,
+      "roi_prozent": 6.1
     },
     "Spieler-Punkte Unter (NBA)": {
       "tipps": 7,
@@ -3944,26 +4010,26 @@
       "roi_prozent": 25.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 142,
+      "tipps": 144,
       "gewonnen": 70,
-      "verloren": 69,
+      "verloren": 71,
       "push": 1,
       "offen": 2,
-      "einsatz": 140.0,
-      "netto": -4.7,
-      "trefferquote": 50.4,
-      "roi_prozent": -3.4
+      "einsatz": 142.0,
+      "netto": -6.7,
+      "trefferquote": 49.6,
+      "roi_prozent": -4.7
     },
     "Doppelte Chance": {
-      "tipps": 22,
-      "gewonnen": 8,
+      "tipps": 23,
+      "gewonnen": 9,
       "verloren": 7,
       "push": 0,
       "offen": 7,
-      "einsatz": 15.0,
-      "netto": 0.3,
-      "trefferquote": 53.3,
-      "roi_prozent": 2.0
+      "einsatz": 16.0,
+      "netto": 0.65,
+      "trefferquote": 56.2,
+      "roi_prozent": 4.1
     },
     "Spieler-Punkte Ueber (NBA)": {
       "tipps": 3,
@@ -3988,15 +4054,15 @@
       "roi_prozent": 12.4
     },
     "Unter 2.5 Tore": {
-      "tipps": 28,
-      "gewonnen": 20,
+      "tipps": 29,
+      "gewonnen": 21,
       "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 28.0,
-      "netto": 6.83,
-      "trefferquote": 71.4,
-      "roi_prozent": 24.4
+      "einsatz": 29.0,
+      "netto": 7.48,
+      "trefferquote": 72.4,
+      "roi_prozent": 25.8
     },
     "Doppelte Chance 1X": {
       "tipps": 18,
@@ -4021,15 +4087,15 @@
       "roi_prozent": 27.5
     },
     "Beide Teams treffen JA": {
-      "tipps": 34,
-      "gewonnen": 19,
+      "tipps": 35,
+      "gewonnen": 20,
       "verloren": 15,
       "push": 0,
       "offen": 0,
-      "einsatz": 34.0,
-      "netto": 2.44,
-      "trefferquote": 55.9,
-      "roi_prozent": 7.2
+      "einsatz": 35.0,
+      "netto": 3.01,
+      "trefferquote": 57.1,
+      "roi_prozent": 8.6
     },
     "Unter 3.5 Tore": {
       "tipps": 4,
@@ -4210,83 +4276,83 @@
   },
   "nach_quoten_range": {
     "1.00-1.50": {
-      "tipps": 171,
-      "gewonnen": 105,
+      "tipps": 172,
+      "gewonnen": 106,
       "verloren": 58,
       "push": 1,
       "offen": 7,
-      "einsatz": 164.0,
-      "netto": 5.35,
-      "trefferquote": 64.4,
-      "roi_prozent": 3.3
+      "einsatz": 165.0,
+      "netto": 5.7,
+      "trefferquote": 64.6,
+      "roi_prozent": 3.5
     },
     "1.50-2.00": {
-      "tipps": 195,
-      "gewonnen": 95,
-      "verloren": 97,
+      "tipps": 198,
+      "gewonnen": 97,
+      "verloren": 98,
       "push": 1,
       "offen": 2,
-      "einsatz": 193.0,
-      "netto": 5.61,
-      "trefferquote": 49.5,
-      "roi_prozent": 2.9
+      "einsatz": 196.0,
+      "netto": 5.83,
+      "trefferquote": 49.7,
+      "roi_prozent": 3.0
     },
     "2.00-3.00": {
-      "tipps": 61,
+      "tipps": 64,
       "gewonnen": 22,
-      "verloren": 36,
+      "verloren": 39,
       "push": 1,
       "offen": 2,
-      "einsatz": 59.0,
-      "netto": 3.37,
-      "trefferquote": 37.9,
-      "roi_prozent": 5.7
+      "einsatz": 62.0,
+      "netto": 0.37,
+      "trefferquote": 36.1,
+      "roi_prozent": 0.6
     },
     "3.00+": {
-      "tipps": 20,
+      "tipps": 21,
       "gewonnen": 6,
-      "verloren": 14,
+      "verloren": 15,
       "push": 0,
       "offen": 0,
-      "einsatz": 20.0,
-      "netto": 2.6,
-      "trefferquote": 30.0,
-      "roi_prozent": 13.0
+      "einsatz": 21.0,
+      "netto": 1.6,
+      "trefferquote": 28.6,
+      "roi_prozent": 7.6
     }
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 58,
-      "gewonnen": 30,
+      "tipps": 60,
+      "gewonnen": 32,
       "verloren": 21,
       "push": 0,
       "offen": 7,
-      "einsatz": 51.0,
-      "netto": -0.94,
-      "trefferquote": 58.8,
-      "roi_prozent": -1.8
+      "einsatz": 53.0,
+      "netto": 0.28,
+      "trefferquote": 60.4,
+      "roi_prozent": 0.5
     },
     "value": {
-      "tipps": 267,
-      "gewonnen": 148,
-      "verloren": 112,
+      "tipps": 272,
+      "gewonnen": 149,
+      "verloren": 116,
       "push": 3,
       "offen": 4,
-      "einsatz": 263.0,
-      "netto": 21.34,
-      "trefferquote": 56.9,
-      "roi_prozent": 8.1
+      "einsatz": 268.0,
+      "netto": 17.69,
+      "trefferquote": 56.2,
+      "roi_prozent": 6.6
     },
     "wackel": {
-      "tipps": 119,
+      "tipps": 120,
       "gewonnen": 49,
-      "verloren": 70,
+      "verloren": 71,
       "push": 0,
       "offen": 0,
-      "einsatz": 119.0,
-      "netto": -2.87,
-      "trefferquote": 41.2,
-      "roi_prozent": -2.4
+      "einsatz": 120.0,
+      "netto": -3.87,
+      "trefferquote": 40.8,
+      "roi_prozent": -3.2
     },
     "risiko": {
       "tipps": 3,
@@ -4333,6 +4399,190 @@
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-08-18",
+      "gesamt": {
+        "tipps": 8,
+        "gewonnen": 3,
+        "verloren": 5,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 8.0,
+        "netto": -3.43,
+        "trefferquote": 37.5,
+        "roi_prozent": -42.9
+      },
+      "spiele": [
+        {
+          "id": "2026-08-18-fen-lyo",
+          "liga": "UEFA Champions League 2026/27 - Playoff Round (Q4) Hinspiel",
+          "heim": "Fenerbahce SK",
+          "gast": "Olympique Lyon",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen: Ja",
+              "quote": 1.57,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.57,
+              "kommentar": "BTTS Ja: Lyon 40 Openda + Fener 47 Greenwood = beide getroffen"
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.68,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Ueber 2.5 Tore: nur 2 Tore (1:1)"
+            },
+            {
+              "markt": "Fenerbahce SK Sieg (90 Min)",
+              "quote": 2.02,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Fener Sieg: 1:1 Remis, kein 2:0-Insurance-Trigger (Fener war zurueck)"
+            },
+            {
+              "markt": "Anderson Talisca - Torschuetze jederzeit",
+              "quote": 2.3,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Talisca kein Tor + Talisca 72 raus fuer Asensio, Asensio kein Tor -> kein Einwechslungs-Boost"
+            }
+          ]
+        },
+        {
+          "id": "2026-08-18-lev-aek",
+          "liga": "UEFA Champions League 2026/27 - Playoff Round (Q4) Hinspiel",
+          "heim": "Levski Sofia",
+          "gast": "AEK Athens",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.65,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.65,
+              "kommentar": "Unter 2.5 Tore: 0:0 Endstand"
+            },
+            {
+              "markt": "Doppelte Chance: AEK Athens oder Unentschieden",
+              "quote": 1.35,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.35,
+              "kommentar": "DC AEK/Unentschieden: 0:0 = Unentschieden erfuellt"
+            },
+            {
+              "markt": "AEK Athens Sieg (90 Min)",
+              "quote": 2.34,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "AEK Sieg: 0:0 Remis, kein 2:0-Insurance-Trigger"
+            },
+            {
+              "markt": "Luka Jovic - Torschuetze jederzeit",
+              "quote": 3.0,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Jovic kein Tor (0:0 gesamt), kein Boost da Endstand torlos"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "?",
+          "kategorie": "",
+          "gesamtquote": 3.33,
+          "einsatz_prozent": 2.0,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Levski Sofia - AEK Athens: Unter 2.5 Tore",
+              "quote": 1.65,
+              "status": "gewonnen",
+              "kommentar": "Unter 2.5 Tore: 0:0 Endstand"
+            },
+            {
+              "markt": "Fenerbahce SK - Olympique Lyon: Fenerbahce SK Sieg (90 Min)",
+              "quote": 2.02,
+              "status": "verloren",
+              "kommentar": "Fener Sieg: 1:1 Remis, kein 2:0-Insurance-Trigger (Fener war zurueck)"
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "",
+          "gesamtquote": 3.67,
+          "einsatz_prozent": 0.8,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Fenerbahce SK - Olympique Lyon: Beide Teams treffen: Ja",
+              "quote": 1.57,
+              "status": "gewonnen",
+              "kommentar": "BTTS Ja: Lyon 40 Openda + Fener 47 Greenwood = beide getroffen"
+            },
+            {
+              "markt": "Levski Sofia - AEK Athens: AEK Athens Sieg (90 Min)",
+              "quote": 2.34,
+              "status": "verloren",
+              "kommentar": "AEK Sieg: 0:0 Remis, kein 2:0-Insurance-Trigger"
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "",
+          "gesamtquote": 6.9,
+          "einsatz_prozent": 0.25,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Fenerbahce SK - Olympique Lyon: Anderson Talisca - Torschuetze jederzeit",
+              "quote": 2.3,
+              "status": "verloren",
+              "kommentar": "Talisca kein Tor + Talisca 72 raus fuer Asensio, Asensio kein Tor -> kein Einwechslungs-Boost"
+            },
+            {
+              "markt": "Levski Sofia - AEK Athens: Luka Jovic - Torschuetze jederzeit",
+              "quote": 3.0,
+              "status": "verloren",
+              "kommentar": "Jovic kein Tor (0:0 gesamt), kein Boost da Endstand torlos"
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "",
+          "gesamtquote": 28.0,
+          "einsatz_prozent": 0.1,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Fenerbahce SK - Olympique Lyon: Anderson Talisca - Doppelpack (2+ Tore)",
+              "quote": 8.0,
+              "status": "verloren",
+              "kommentar": "Talisca 0 Tore, Doppelpack nicht moeglich"
+            },
+            {
+              "markt": "Levski Sofia - AEK Athens: Reinaldo - Torschuetze jederzeit",
+              "quote": 3.5,
+              "status": "verloren",
+              "kommentar": "Reinaldo kein Tor (0:0 gesamt)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-08-17",
       "gesamt": {

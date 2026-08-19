@@ -1,8 +1,15 @@
 {
-  "stand": "2026-08-18T07:11:47+00:00",
+  "stand": "2026-08-19T07:12:09+00:00",
   "kriterium": "rolling 30 Tage ROI < -30.0% bei min. 4 Tipps",
   "ausstiegs_kriterium": "rolling 30 Tage ROI > -10.0% -> Liga wieder voll bespielbar",
   "ligen": [
+    {
+      "liga": "UEFA Champions League 2026/27 - Playoff Round (Q4) Hinspiel",
+      "tipps_30d": 8,
+      "roi_30d_prozent": -42.9,
+      "trefferquote_30d": 37.5,
+      "netto_30d": -3.43
+    },
     {
       "liga": "UEFA Europa League - 2. Qualifikationsrunde",
       "tipps_30d": 10,
