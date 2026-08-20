@@ -1,0 +1,17 @@
+{
+  "stand": "2026-08-20T16:03:00.424698+00:00",
+  "gesendet": {
+    "2026-08-20-bes-zal": {
+      "sent_at": "2026-08-20T16:02:58.866177+00:00",
+      "anstoss": "2026-08-20T19:00:00+02:00",
+      "spiel": "Beşiktaş JK vs FK Kauno Žalgiris",
+      "top_tipp": "Beşiktaş-Kauno: Unter 3.5 Tore"
+    },
+    "2026-08-20-tra-fer": {
+      "sent_at": "2026-08-20T16:02:58.866177+00:00",
+      "anstoss": "2026-08-20T19:00:00+02:00",
+      "spiel": "Trabzonspor vs Ferencvárosi TC",
+      "top_tipp": "Trabzonspor-Ferencvaros: Doppelte Chance 1X"
+    }
+  }
+}
