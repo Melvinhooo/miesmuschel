@@ -1,0 +1,528 @@
+{
+  "datum": "2026-08-19",
+  "erstellt_am": "2026-08-19T13:30:00+02:00",
+  "hinweis": "🐚 Mi 19.08.2026 · Mini-Slate 2 Top-Spiele CL-Playoff-Q4-Hinspiele (21:00-CEST-Doppel): Celtic-LASK Celtic Park + NEC Nijmegen-Bodo/Glimt Goffertstadion. Weitere zwei Q4-Hinspiele fruehe Slots (Slovan-Celje + Hapoel-Sabah) bewusst NICHT abgedeckt = Datenqualitaets-Fokus statt 4 halbherzig. WICHTIG Doktrin-Stack: Beobachtungs-Liga AKTIV fuer 'UEFA Champions League 2026/27 - Playoff Round (Q4) Hinspiel' laut data/beobachtungs_ligen.json (ROI -42.9% / Hitrate 37.5% / n=8 rolling 30d, Stand 2026-08-19T07:12 nach gestrigem 0/4-Verlust Fen-Lyo + Lev-AEK). Konsequenzen mechanisch: (1) alle einzeltipps[] dieser Spiele werden vom fix_schema.py-Mapper GEDROPPED (validate_beobachtungs_liga Hebel 04.05.), (2) Safe/Balance/Risiko-Kombis verlieren alle Beine + werden geleert, (3) nur Moonshot-Kombi mit Beinen >= 5.00 Quote ueberlebt. Trotzdem baue ich 4 Kombis + 6 einzeltipps EHRLICH als Referenz + Transparenz - Mapper macht die Bereinigung. Kombi-Anpassung: Safe/Balance/Risiko werden nach Mapper-Bereinigung leer angezeigt, Moonshot mit Maeda+Sierhuis Doppelpack 63.00x ueberlebt (beide Beine @7.00/@9.00). HR26 2:0-Insurance AKTIV in CL (nur BL/CL/WM 2026), aber wg Beob-Liga alle Sieg-Tipps max WACKEL. HR08-18-1 CL-Playoff-Q4-Hinspiel-Sieg-VALUE-Downgrade-Doktrin (gestern gelernt) bestaetigt: Rueckspiel 26.08. entscheidet Aggregat. HR08-18-3 Backup-GK-Wackel-Def-Krise Cluster wie gestern nicht relevant (beide Teams voller GK-Kader). HR08-17-1 Mini-Slate-Kompression-Doktrin (17.08.) + HR08-17-2 Layer-3-Zwangsbruch (17.08.) + HR08-17-3 Torschuetzen-Doppelpack-Moonshot-Alternative (17.08.) direkt angewandt. Markt-Goldgrube Unter 2.5 Tore (72.4%/+25.8% n=29 aus data/markt_goldgruben.json) HEUTE NICHT aktiv: beide Aggregator-Konsens-Predictions sind Ueber 2.5 (Celtic-LASK 22bet 1.72 + NEC-Bodo 1.38 wg beidseitig-offensiv), also Marktbeobachter-Regel 'aktiv suchen' greift nicht - der Goldgrube-Filter erwartet Under 2.5 als Value-Slot, aber die Games sind offensiv-orientiert. Markt-Goldgrube Torschuetzen Jederzeit weiter Framework fuer Maeda + Sierhuis + Hauge + Adeniran. Post-WM-Ruhepause-Doktrin HR08-13-1 AUSGELAUFEN (17.08. Fenster durch) - Maeda (Japan WM-Kader R16-out), Adeniran (Nigeria nicht qualifiziert), Sierhuis (Niederlande NM-Randfigur), Hauge (Norwegen nicht qualifiziert) alle frei. Kasse-Stufe 1 (550€) Stakes: WACKEL 0.5% = 2.75€, MOONSHOT 0.1% = 0.55€. Kombi Moonshot 0.1% = 0.55€. Quoten bei bet365 live pruefen (Aggregator-Konsens 22bet/mightytips/sportsgambler/betmgm/wincomparator/racingpost/toffeeweb/bet-experts).",
+  "_emergency_recovery": true,
+  "_recherche_fallback": "Recherche-File data/recherche/2026-08-19.json nicht vorhanden - Master-Tipps-Routine hat Fallback-Recherche selbst ausgefuehrt via WebSearch/WebFetch fuer beide 21-CEST-CL-Playoff-Q4-Hinspiele (sportsgambler + mightytips + betmgm + racingpost + wincomparator + toffeeweb + bet-experts + sportskeeda + sports.yahoo).",
+  "spiele": [
+    {
+      "id": "2026-08-19-cel-las",
+      "liga": "UEFA Champions League 2026/27 - Playoff Round (Q4) Hinspiel",
+      "heim": "Celtic Glasgow",
+      "gast": "LASK Linz",
+      "anstoss": "2026-08-19T21:00:00+02:00",
+      "stadion": "Celtic Park, Glasgow",
+      "saison_kontext": {
+        "parallel_heim": "Scottish Premiership 26/27 laeuft seit 02.08. - Celtic 2 Liga-Siege (Dundee FC 3:0 + Kilmarnock 3:1 = 6:1 GD) + League-Cup 4:0 Dundee United. Keine parallele Pokal-Belastung diese Woche. CL-Playoff-Hinspiel Fokus. Rueckspiel 26.08. Raiffeisen Arena Linz.",
+        "parallel_gast": "Oesterreichische Bundesliga 26/27 Saison-Auftakt-Phase - LASK Titelverteidiger 25/26 mit 5 Siegen in Serie und 18:2 Tordifferenz laut racingpost/mightytips (Liga + CL-Q-Runden). Rueckspiel 26.08. Linz.",
+        "saisonziel_heim": "CL-League-Phase-Qualifikation (nach CL-Q3-Erfolg gegen Kairat Almaty aggregate). Scottish-Premiership-Titel-Verteidigung + League-Cup + FA-Cup-Dominanz. Kader-Investition Waarts Hoegh/Nygren/Duran/McGregor/Tierney/Maeda hoch = Board-Pflicht CL-Erfolg. Neuer Trainer Martin O'Neill (Rueckkehr-Debut-Season) Cauldron-Push.",
+        "saisonziel_gast": "CL-League-Phase-Erstqualifikation nach Bundesliga-Meister-Titel 25/26 (Salzburg-Dominanz gebrochen). CL-Ausfall = Europa-League-Downgrade + Marktwert-Trauma nach 20-Millionen-Kader-Aufbau. Aktuelle Form berauschend: 5 Siege in Serie mit 18:2 GD (Liga + CL-Q). Trainer Dietmar Kuehbauer.",
+        "motivations_asymmetrie": "Beide Teams voll motiviert (CL-League-Phase ~50M€ garantiert). Celtic Home-Cauldron-Debuet CL 26/27 mit O'Neill-Rueckkehr-Season = Reaktions-Push. LASK als klassischer Aussenseiter (bet365 4.50 = 22% impl.) aber in Berserker-Form (18:2 GD letzte 5). Ehrliches Bild: Celtic Home-Fav @1.65 (61% impl.) bei LASK @4.50 (22% impl.) + Draw @3.75 (27% impl.) - klarer aber nicht ueberragender Celtic-Edge. HR08-18-1 CL-Playoff-Q4-Hinspiel-Sieg-VALUE-Downgrade greift + Beob-Liga zwingt WACKEL statt VALUE.",
+        "recovery_heim": "3 Tage Recovery seit Scottish-Premiership-Match 15./16.08. (Kilmarnock 3:1). Voller Kader ausser Alex Oxlade-Chamberlain (3-Spiele-Europa-Sperre, aktuell ausgeschlossen) + Jota (Verletzungs-Recovery). Ansonsten voller Kader inkl. Maeda + Hatate + McGregor + Waarts Hoegh + Duran + Tierney bestaetigt fit.",
+        "recovery_gast": "3-4 Tage Recovery seit Oesterreichische-Bundesliga-Match Wochenende + CL-Q3-Rueckspiel-Ausdauer. Voller Kader ausser Ramiz Harakate (verletzt) + Art Smakaj (verletzt). Startelf-Optionen Adeniran/Usor/Lang/Kalajdzic/Schoepf laut mightytips.",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/news/02a6-20e5a8be4e63-ae971c582f8c-1000--champions-league-qualifying-fixtures-results-dates-how-it-/",
+          "https://www.mightytips.com/football-predictions/celtic-vs-lask-prediction-19-08-2026/",
+          "https://www.sportsgambler.com/betting-tips/football/celtic-vs-lask-prediction-lineups-odds-2026-08-19/",
+          "https://www.racingpost.com/sport/football-tips/champions-league/celtic-vs-lask-predictions-team-news-odds-betting-tips-bet-builder-aEdfd5u708CB/",
+          "https://www.wincomparator.com/predictions/celtic-lask-linz-8703929/",
+          "https://www.toffeeweb.com/celtic-vs-lask-linz-predictions-picks-odds-19-08-2026/",
+          "https://www.bet-experts.com/celtic-vs-lask-prediction-19-08-2026/",
+          "https://sports.yahoo.com/articles/celtic-vs-lask-linz-prediction-220000891.html"
+        ]
+      },
+      "news": [
+        "CL 26/27 Playoff-Round Hinspiel (Q4 vor League-Phase-Einzug) Celtic Park Glasgow 21:00 CEST (20:00 lokal BST) - Rueckspiel 26.08. Raiffeisen Arena Linz",
+        "Celtic kommt aus 3:1-Sieg vs Kilmarnock (Scottish Premiership 15./16.08.) + League-Cup 4:0 Dundee United - Momentum + Ergebnis-Stabilitaet",
+        "LASK Berserker-Form: 5 Siege in Serie mit 18:2 Tordifferenz (Bundesliga-Auftakt + CL-Q-Runden) laut racingpost + mightytips",
+        "Celtic Top-Scorer Daizen Maeda 7 Tore in Saison-Auftakt (Liga + League-Cup) - HR24-Form-Edge 5+ Tore in last 10 klar erfuellt",
+        "LASK Top-Scorer Samuel Adeniran 6 Tore in letzten 5 Spielen - HR24-Form-Edge stark erfuellt, Volume-Stuermer-Profil",
+        "Celtic Predicted Startelf 4-3-3 (sportsgambler): Waarts Hoegh; Tierney, Nygren, Duran; McGregor + Hatate; Maeda; auf Bank verletzungsbedingt Oxlade-Chamberlain (Sperre) + Jota (Reha)",
+        "LASK Predicted Startelf 4-2-3-1 (mightytips): mit Adeniran/Usor/Lang/Kalajdzic/Schoepf offensiv, ohne Harakate + Smakaj (beide verletzt)",
+        "Celtic Injuries/Sperren: Alex Oxlade-Chamberlain (3-Spiele-Europa-Sperre), Jota (Verletzungs-Reha)",
+        "LASK Injuries: Ramiz Harakate (verletzt), Art Smakaj (verletzt)",
+        "Aggregator-Konsens Quoten (bet365 live pruefen): Celtic Sieg @1.65 (bet365 13/20), Draw @3.75 (bet365 11/4), LASK Sieg @4.50 (bet365 7/2), Ueber 2.5 @1.72 (22bet mightytips-Main-Pick), Unter 2.5 @2.14 (BetMGM +114), BTTS Ja @1.61 (BetMGM -164), BTTS Nein @2.15 (BetMGM +115), DC 1X @~1.20 (Estimate von Celtic+Draw), DC X2 @~1.95 (Estimate LASK+Draw)",
+        "Maeda Torschuetze jederzeit @~2.00 (Estimate - Top-Scorer 7 Tore) - HR24 3/3 = VALUE-Basis, aber wg Beob-Liga WACKEL max",
+        "Adeniran Torschuetze jederzeit @2.50 (Estimate BetMGM +250) - HR24 3/3 = VALUE-Basis, aber wg Beob-Liga WACKEL max",
+        "Waarts Hoegh (Celtic Sturm) Torschuetze jederzeit @~2.20 (Estimate BetMGM +117) - HR24 2-3/3 = WACKEL",
+        "Duran (Celtic Sturm) Anytime @2.35 (Estimate BetMGM +135) - HR24 2/3 = WACKEL",
+        "Celtic Home-Bilanz Europa: 67% aller Heim-Spiele in Europa Ueber 2.5 Tore laut mightytips - Cluster fuer Ueber 2.5 gestuetzt",
+        "Beide Aggregator-Predictions Main-Pick: Ueber 2.5 (mightytips 22bet 1.72) + BTTS Ja (sportsmole -164) - Torfestival-These klarer Konsens",
+        "HR26 2:0-Insurance AKTIV bei CL fuer Celtic-Sieg-Tipp bei 2:0-HZ-Fuehrung (bereits gewonnen egal Endstand) - Fenerbahce Praezedenz gestern zeigt nicht ausreichend allein"
+      ],
+      "tipps": [
+        {
+          "id": "cel-las-1",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.72,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "Cluster-Konsens Main-Pick: mightytips 22bet 1.72 + sportsgambler + Celtic Home-Europa-67%-Ueber-2.5 + Celtic 10 Tore in 3 Saison-Matches + LASK 18:2 GD in 5 Serien-Siegen. HR24 Form-Edge stark auf beiden Sturm-Reihen (Maeda 7g + Adeniran 6g/5). HR08-16-2 Late-Goal-Cluster-Saison-Auftakt weiter aktiv. Beob-Liga zwingt WACKEL (nicht SAFE/VALUE) - Faktor Aggregat-Verwalter-Risiko HR08-18-1 (Rueckspiel 26.08. entscheidet). Faire Quote ~1.60. Stake 0.5% = 2.75€. WARNUNG: einzeltipps[] wird vom fix_schema.py-Mapper gedroppt wg Beob-Liga.",
+          "layer_2_tag": "cel-las_ueber_25",
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "cel-las-2",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.61,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "BetMGM Ja @-164 = 1.61 Cluster-Konsens: LASK 18:2 GD zeigt kaum-mal-null-getroffen + Celtic 10 Tore in 3 Matches / Adeniran 6/5 Form-Edge + Celtic-Def-Risiko wg Rechts-Neustrukturierung. HR08-15-4 Saison-Auftakts-Def-Krise-Cluster teilweise aktiv (beidseitig Kader-Chemie-Debuet-Restrisiko). Beob-Liga zwingt WACKEL. Ehrlich: Celtic-Def gerade sehr solide (6:1 GD) - Bias-Grenze. Faire Quote ~1.55. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "cel-las_btts_ja",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "cel-las-3",
+          "kategorie": "wackel",
+          "markt": "Celtic Glasgow Sieg (90 Min)",
+          "quote": 1.65,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "Celtic Home-Fav @1.65 (61% impl.) mit 3 Stuetz-Faktoren: (1) Celtic Park Cauldron + O'Neill-Rueckkehr-Season-Motivation, (2) Kader-Klasse (Maeda-Streak + McGregor + Hatate + Tierney) vs LASK-Auswaerts-Debuet, (3) LASK Form-Edge stark aber weniger Klassen-Tiefe (Bundesliga-Oesterreich << Scottish Premiership). HR26 2:0-Insurance AKTIV in CL. Aber: HR08-18-1 CL-Playoff-Q4-Hinspiel-Sieg-VALUE-Downgrade + Beob-Liga zwingen WACKEL (nicht VALUE). LASK 18:2 GD Warnung real. Faire Quote ~1.55. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "cel-las_sieg_heim",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "cel-las-4",
+          "kategorie": "wackel",
+          "markt": "Daizen Maeda - Torschuetze jederzeit",
+          "quote": 2.0,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "Maeda Celtic-Top-Scorer 7 Tore in 4 Saison-Matches (Liga + League-Cup) - HR24 Form-Edge klar: (1) 5+ Tore in last 10 = JA (7 in 4), (2) zentraler 9er/LF im 4-3-3 + Backup-Stuermer-Qualitaet (Waarts Hoegh/Duran) → Einwechslungs-Boost-Fallback per HR26 CLAUDE.md-Regel bei Auswechslung, (3) LASK-Def solide aber 2 Gegentore in 5 Matches = kein Klasse-Wall. 3/3 = VALUE-Basis, wg Beob-Liga WACKEL. Markt-Goldgrube Torschuetzen Jederzeit. Faire Quote ~1.90. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "cel-las_maeda_anytime",
+          "faire_quote": 1.9,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "cel-las-5",
+          "kategorie": "moonshot",
+          "markt": "Daizen Maeda - Doppelpack (2+ Tore)",
+          "quote": 7.0,
+          "einsatz_euro": 0.55,
+          "edge_prozent": 3,
+          "begruendung": "Moonshot-Kandidat Maeda-Doppelpack im 7-in-4-Streak-Momentum: zentraler 9er/LF bestaetigt + LASK-Def-Krise-Restrisiko (Auswaerts-Debuet in Cauldron) + Home-Push. Impl. ~14% (Quote @7.00). HR24 3/3 = VALUE-Basis, Doppelpack als Sub-Markt = Spassenisatz-Kategorie. HR08-17-3 Mini-Slate-Moonshot-Torschuetzen-Doppelpack-Alternative direkt anwendbar. Ueberlebt Beob-Liga-Mapper wg Quote >= 5.00. HR08-15-3 Blowout-Vermeidung: kein Genaues-Ergebnis-Lottery-Bein. Faire Quote ~6.50. Stake 0.1% = 0.55€.",
+          "layer_2_tag": "cel-las_maeda_doppelpack",
+          "faire_quote": 6.5,
+          "empfohlener_einsatz_prozent": 0.1
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 0,
+        "halbzeit_heim": 2,
+        "halbzeit_gast": 0,
+        "status": "FINISHED",
+        "quelle": "WebSearch (foxsports/espn/skysports/vavel Aggregator)"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "cel-las-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.72,
+          "kommentar": "Ueber 2.5: 3:0 -> 3 Tore, JA"
+        },
+        {
+          "tipp_id": "cel-las-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "BTTS Nein: LASK 0 Tore, VERLOREN"
+        },
+        {
+          "tipp_id": "cel-las-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.65,
+          "kommentar": "Celtic Sieg 3:0; HZ 2:0 -> HR26 2:0-Insurance auch aktiv, klarer Sieg"
+        },
+        {
+          "tipp_id": "cel-las-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Maeda Anytime: Maeda vor Spiel zu Ipswich transferiert (10M GBP), gar nicht im Kader -> Einwechslungs-Boost trigger NICHT (X war nicht im Spiel), VERLOREN"
+        },
+        {
+          "tipp_id": "cel-las-5",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Maeda Doppelpack: Maeda nicht im Kader, VERLOREN"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:0",
+        "endstand": "3:0",
+        "tore": [
+          {
+            "min": 26,
+            "team": "heim",
+            "spieler": "Benjamin Nygren",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 38,
+            "team": "heim",
+            "spieler": "Camilo Duran",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 67,
+            "team": "heim",
+            "spieler": "Camilo Duran",
+            "stand_danach": "3:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - Celtic fuehrte durchgehend, HZ 2:0 -> Endstand 3:0. HR26 2:0-Insurance wuerde greifen fuer Celtic-Sieg-Tipp (HZ 2:0 Fuehrung), war aber ohnehin Sieg."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Celtic/Celtic",
+          "kein_team_zu_null": false,
+          "genau_ergebnis": "3:0"
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Daizen Maeda",
+            "details": "Vor CL-Playoff-Hinspiel zu Ipswich Town fuer 10M GBP transferiert - NICHT im Kader trotz Tipps-Routine-Erwartung; Tipp-Prognose auf Startelf falsch (Squad-Recherche haette Transfer entdecken muessen)"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Squad-Verifikations-Fehler: Tipps-Routine setzte Maeda als Celtic-Top-Scorer (7g/4) + Startelf-Kern voraus, obwohl Transfer zu Ipswich VOR Spiel abgeschlossen war - Maeda-Anytime + Maeda-Doppelpack (Moonshot-Kombi-Bein) direkt tot vom Kick-off. HR22 Star-OUT-Implosions-Risiko in reinster Form: Star existierte gar nicht mehr im Kader.",
+          "Home-Fav-Klasse setzte sich souveraen durch (61% impl. korrekt), LASK 18:2 GD Berserker-Form komplett neutralisiert (0 Tore, 0 Grosschancen laut Score-Verlauf). Duran-Doppelpack als tatsaechlicher Torschuetzen-Held (Signing-Debut).",
+          "Ueber 2.5 knapp erreicht mit 3 Toren (untere Grenze), BTTS scheiterte an souveraener Celtic-Def (LASK 0 Tore trotz Berserker-Vor-Form)."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-19-nec-bod",
+      "liga": "UEFA Champions League 2026/27 - Playoff Round (Q4) Hinspiel",
+      "heim": "NEC Nijmegen",
+      "gast": "FK Bodo/Glimt",
+      "anstoss": "2026-08-19T21:00:00+02:00",
+      "stadion": "Stadion De Goffert, Nijmegen",
+      "saison_kontext": {
+        "parallel_heim": "Eredivisie 26/27 laeuft seit 08.08. - NEC gemischt: Telstar-Niederlage MD1 + 4:1-Sieg vs Willem II. CL-Q3-Erfolg vs Olympiakos (2:1-Rueck-Heim aggregate). Keine parallele Pokal-Belastung. CL-Playoff-Fokus. Rueckspiel 26.08. Aspmyra Stadion Bodo.",
+        "parallel_gast": "Eliteserien 26/27 (Norwegen laeuft seit April, Kalender-Saison) - Bodo/Glimt Tabellenfuehrer mit 41 Punkten in 17 Matches (13W-2U). Rekord-Meister-Kandidat. CL-Q3-Erfolg vs Union Saint-Gilloise 6:5 aggregate. Rueckspiel 26.08. Bodo.",
+        "saisonziel_heim": "CL-League-Phase-Erstqualifikation seit Jahren (NEC in Eredivisie Sub-Top-6-Ambition). CL-Preisgeld ~50M€ = Etat-Umkrempler. Kader-Investition Chery/Nejasmic/Linssen/Sierhuis/Mor moderat + Trainer Dick Schreuder Debuet-Cauldron.",
+        "saisonziel_gast": "CL-Playoff-Wiederholung nach Rekord-Comeback 25/26 (R16-Erreichung als erster norwegischer Club). Bodo/Glimt Norwegen-Serien-Meister-Kandidat + Erwartung CL-League-Phase-Weiterkommen. Trainer Kjetil Knutsen Erfolgs-Modus 4. Jahr. Hoehe-Formkurve mit 41 Pkt in 17 Match Eliteserien-Fuehrung + 15 von 16 letzten Europa-Matches Ueber-2.5-Tore.",
+        "motivations_asymmetrie": "Beide Teams voll motiviert (CL-League-Phase ~50M€). NEC Home-Cauldron-Debuet CL 26/27 nach Telstar-Rueckschlag = Reaktions-Push, aber Nord-Norwegen-Rueckflug-Ausdauer erst Rueckspiel-Belastung. Bodo/Glimt Auswaerts als leichter Fav @2.30-2.45 (43% impl.) laut Aggregator (22bet 2.45, Megapari 2.30) + Wettkampf-Rhythmus voll da (Eliteserien-Fuehrer). NEC @2.60-2.80 als Home-Underdog. Draw @3.60-3.82 hoch. Coinflip-nah mit leichtem Bodo-Edge. HR08-18-1 max WACKEL.",
+        "recovery_heim": "3-4 Tage Recovery seit Eredivisie-Match Wochenende. Injuries: Koki Ogawa (Sturm) + Sami Ouaissa + Philippe Sandler (Def) + Yassin Moslih alle OUT. Startelf-Optionen Linssen/Sierhuis Sturm-Reihe. GK Crettaz bestaetigt.",
+        "recovery_gast": "3-4 Tage Recovery + Nord-Norwegen-Rueckflug-Belastung nicht mehr Faktor (Hin-Spiel in Nijmegen). Injuries: Jostein Gundersen (IV, nicht mit Auswaerts-Kader wg Verletzung vor 1 Woche). Startelf-Optionen Hauge/Brynhildsen/Blomberg/Hoegh Sturm-Reihe (Hoegh Eliteserien-Top-Scorer). GK Haikin bestaetigt.",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/news/02a6-20e5a8be4e63-ae971c582f8c-1000--champions-league-qualifying-fixtures-results-dates-how-it-/",
+          "https://www.mightytips.com/football-predictions/nec-nijmegen-vs-bodo-glimt-prediction-19-08-2026/",
+          "https://www.sportsgambler.com/betting-tips/football/nec-nijmegen-vs-bodo-glimt-prediction-lineups-odds-2026-08-19/",
+          "https://www.sportskeeda.com/football/nec-nijmegen-vs-bodo-glimt-prediction-betting-tips-august-19th-2026",
+          "https://www.sportsmole.co.uk/football/nec/champions-league/preview/nijmegen-vs-bodoglimt-prediction-team-news-lineups_603131.html",
+          "https://ratingbet.com/predictions/nec-bodoglimt-prediction-team-news-lineups-expert-analysis/",
+          "https://www.leaguelane.com/predictions/nec-nijmegen-vs-bodo-glimt-19-august-2026/"
+        ]
+      },
+      "news": [
+        "CL 26/27 Playoff-Round Hinspiel (Q4 vor League-Phase-Einzug) Stadion De Goffert Nijmegen 21:00 CEST (20:00 lokal BST/UK) - Rueckspiel 26.08. Aspmyra Bodo",
+        "NEC kommt aus Eredivisie-4:1-Sieg vs Willem II + Telstar-Niederlage MD1 (gemischt) - CL-Q3 vs Olympiakos 2:1-Rueck-Heim-aggregate durchgekommen",
+        "Bodo/Glimt Eliteserien-Fuehrer 41 Punkte in 17 Matches (13W-2U-2N) - Wettkampf-Rhythmus + Form Perfektion",
+        "Bodo/Glimt CL-Q3 vs Union Saint-Gilloise 6:5 aggregate durchgekommen (Rueck 3:2 Heim)",
+        "NEC Predicted Startelf 4-2-3-1 (sportsgambler): Crettaz; Sandler-OUT / Pereira, Fonville, Storm; Chery, Nejasmic; Lebreton, Mor; Linssen, Sierhuis",
+        "Bodo/Glimt Predicted Startelf 4-3-3 (sportsgambler): Haikin; Sjoevold, Bjorkan, Bjoertuft (Gundersen OUT ersetzt); Berg, Blomberg, Fet; Auklend, Hauge, Brynhildsen (Hoegh alternativ)",
+        "NEC Injuries: Koki Ogawa (Sturm OUT), Sami Ouaissa (OUT), Philippe Sandler (Def OUT), Yassin Moslih (OUT)",
+        "Bodo/Glimt Injuries: Jostein Gundersen (IV, nicht mit Auswaerts-Kader, Verletzung vor ~1 Woche)",
+        "Aggregator-Konsens Quoten (bet365 live pruefen): NEC Sieg @2.60-2.80 (Megapari 2.60, 22bet 2.80), Draw @3.60-3.82, Bodo/Glimt Sieg @2.30-2.45, Ueber 2.5 @1.38-1.42 (BetMGM -263 = ~1.38 favorisiert), Unter 2.5 @2.85-3.10 (BetMGM +185 = ~2.85), BTTS Ja @1.32-1.40 (BetMGM -313 = ~1.32), BTTS Nein @3.00-3.30 (BetMGM +200), DC 1X @~1.55 (Estimate NEC+Draw), DC X2 @~1.42 (Estimate Bodo+Draw)",
+        "Bodo/Glimt 15 von 16 letzten Europa-Matches Ueber-2.5-Tore (94% Rate!) laut sportskeeda - Cluster fuer Ueber 2.5 sehr klar",
+        "NEC 3 von 4 letzten Matches Ueber-2.5-Tore + last-6-Matches keine Clean Sheets laut mightytips - Cluster fuer BTTS Ja + Ueber 2.5",
+        "Kasper Hoegh (Bodo/Glimt) Eliteserien-Top-Scorer 'auf dem Platz Feuer' laut sportskeeda - HR24-Form-Edge klar",
+        "Ole Didrik Blomberg (Bodo/Glimt) 3 Tore in letzten 5 Spielen - HR24 Form-Edge 2/3",
+        "Kaj Sierhuis (NEC Sturm) Anytime-Fav laut BetMGM (+155 = 2.55) - Volume-9er",
+        "Bryan Linssen (NEC Sturm) Anytime BetMGM +175 = 2.75 - Erfahrungsstuermer",
+        "Jens Petter Hauge (Bodo/Glimt Sturm) Anytime BetMGM Estimate ~2.30 - offensiver Fluegel-Volume + Torschuetzen-Erfahrung Europa",
+        "Aggregator-Predictions: mightytips Ueber-1.5-Tore-2Halbzeit @1.64 (Megapari) Main-Pick + sportsgambler Ueber 2.5 + BTTS Ja Doppel-Konsens",
+        "HR26 2:0-Insurance AKTIV bei CL fuer NEC + Bodo/Glimt Sieg-Tipps"
+      ],
+      "tipps": [
+        {
+          "id": "nec-bod-1",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.4,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "Cluster-Konsens sehr klar: Bodo/Glimt 15/16 Europa-Matches Ueber 2.5 (94%!) + NEC 3/4 Matches Ueber 2.5 + last-6-NEC keine Clean Sheets + Aggregator-Konsens BetMGM @1.38 Best-Bet. HR24 Form-Edge beidseitig auf Sturm-Reihe (Hoegh + Blomberg + Sierhuis + Linssen). HR08-16-2 Late-Goal-Cluster-Saison-Auftakt weiter aktiv. Beob-Liga zwingt WACKEL (nicht SAFE/VALUE trotz sehr klarer Cluster). WARNUNG Quote schon sehr low @1.40 = 71% impl. reflect Cluster-Konsens - Value-Edge minimal. Faire Quote ~1.35. Stake 0.5% = 2.75€. Mapper droppt einzeltipps wg Beob-Liga.",
+          "layer_2_tag": "nec-bod_ueber_25",
+          "faire_quote": 1.35,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "nec-bod-2",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.35,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "BetMGM Ja @-313 = ~1.32 = 76% impl. sehr klarer Cluster: NEC last-6-Matches keine Clean Sheets + Bodo/Glimt attacking-Volume-Profil (15/16 Europa Ueber 2.5) + beidseitige-Kader-Chemie-Debuet-Restrisiko. HR08-15-4 Auftakts-Def-Krise-Cluster teilweise aktiv (NEC Sandler-OUT verstaerkt Def-Wackel). Beob-Liga zwingt WACKEL. Quote sehr low = Value-Edge minimal. Faire Quote ~1.30. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "nec-bod_btts_ja",
+          "faire_quote": 1.3,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "nec-bod-3",
+          "kategorie": "wackel",
+          "markt": "Bodo/Glimt Sieg (90 Min)",
+          "quote": 2.4,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 4,
+          "begruendung": "Bodo/Glimt Auswaerts leichter Fav @2.30-2.45 (43% impl.) mit 3 Stuetz-Faktoren: (1) Eliteserien-Fuehrer + 15/16 Europa Ueber 2.5 = Klassen + Erfahrungs-Edge, (2) Wettkampf-Rhythmus voll da (17 Match-Serie) vs NEC-Eredivisie-Wackel (Telstar-Niederlage), (3) NEC Def-Ausfaelle (Sandler + Moslih + Ouaissa + Ogawa) = Kader-Chemie-Debuet-Risiko. HR26 2:0-Insurance AKTIV in CL fuer Bodo-Sieg. HR08-18-1 max WACKEL (nicht VALUE) wegen Nijmegen-Cauldron-Debuet + Rueckspiel-Fokus. Faire Quote ~2.25. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "nec-bod_sieg_gast",
+          "faire_quote": 2.25,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "nec-bod-4",
+          "kategorie": "wackel",
+          "markt": "Kaj Sierhuis - Torschuetze jederzeit",
+          "quote": 2.55,
+          "einsatz_euro": 2.75,
+          "edge_prozent": 3,
+          "begruendung": "Sierhuis NEC-9er zentraler Torschuetzen-Fav laut BetMGM (+155 = 2.55) - Ogawa-OUT-Chance-Multiplikator im NEC-Sturm-Alleinregime. HR24 Form-Edge-Check: (1) 5+ Tore in last 10 = fraglich (kleiner NEC-Sample), (2) zentraler 9er mit Backup Linssen = JA + Einwechslungs-Boost-Fallback, (3) Bodo/Glimt Def leaky in Europa-Bilanz = JA. 2/3 = WACKEL-Basis passt. Markt-Goldgrube Torschuetzen Jederzeit. Faire Quote ~2.40. Stake 0.5% = 2.75€.",
+          "layer_2_tag": "nec-bod_sierhuis_anytime",
+          "faire_quote": 2.4,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "nec-bod-5",
+          "kategorie": "moonshot",
+          "markt": "Kaj Sierhuis - Doppelpack (2+ Tore)",
+          "quote": 9.0,
+          "einsatz_euro": 0.55,
+          "edge_prozent": 3,
+          "begruendung": "Moonshot-Kandidat Sierhuis-Doppelpack im Ogawa-OUT-Chance-Multiplikator-Setup: zentraler 9er alleiner Fokus + Bodo Def-Krise-Restrisiko + Home-Cauldron-Push. Impl. ~11% (Quote @9.00). HR24 2/3 = WACKEL-Anytime-Basis, Doppelpack als Sub-Markt = Spassenisatz-Kategorie. HR08-17-3 Mini-Slate-Moonshot-Torschuetzen-Doppelpack-Alternative direkt anwendbar. Ueberlebt Beob-Liga-Mapper wg Quote >= 5.00. Faire Quote ~8.50. Stake 0.1% = 0.55€.",
+          "layer_2_tag": "nec-bod_sierhuis_doppelpack",
+          "faire_quote": 8.5,
+          "empfohlener_einsatz_prozent": 0.1
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 3,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 2,
+        "status": "FINISHED",
+        "quelle": "WebSearch (espn/foxsports/nltimes/sofascore/heavy Aggregator)"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "nec-bod-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.4,
+          "kommentar": "Ueber 2.5: 1:3 -> 4 Tore, JA"
+        },
+        {
+          "tipp_id": "nec-bod-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.35,
+          "kommentar": "BTTS Ja: NEC 1 (Bischoff 85), Bodo 3 -> JA"
+        },
+        {
+          "tipp_id": "nec-bod-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.4,
+          "kommentar": "Bodo/Glimt Sieg 3:1; HZ 0:2 -> HR26 2:0-Insurance haette bereits gegolten wenn Bodo verloren haette; klarer Sieg"
+        },
+        {
+          "tipp_id": "nec-bod-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Sierhuis Anytime: als Einwechsler in 68. gekommen (fuer Pereira), Schuss 77. von Haikin gehalten, kein Tor. Einwechslungs-Boost trigger NICHT weil X selbst nicht rausging (Sierhuis war selbst der Ersatz)."
+        },
+        {
+          "tipp_id": "nec-bod-5",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Sierhuis Doppelpack: 0 Tore als Einwechsler, VERLOREN"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:2",
+        "endstand": "1:3",
+        "tore": [
+          {
+            "min": 25,
+            "team": "gast",
+            "spieler": "Sondre Brunstad Fet",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 44,
+            "team": "gast",
+            "spieler": "Andreas Helmersen (Elfmeter)",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": 50,
+            "team": "gast",
+            "spieler": "Hugo Aleesami (Kopfball, Berg-Assist Ecke)",
+            "stand_danach": "0:3"
+          },
+          {
+            "min": 85,
+            "team": "heim",
+            "spieler": "Clement Bischoff",
+            "stand_danach": "1:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - Bodo/Glimt fuehrte durchgehend (HZ 0:2, dann 0:3, dann 1:3 Anschluss). Aggregat-Verwaltung nach 3:0 klassisch, NEC-Konsolationstreffer 85. Min via Bischoff (Startelf-Attacking-Mid)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Bodo/Bodo",
+          "kein_team_zu_null": false,
+          "genau_ergebnis": "1:3"
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Kaj Sierhuis",
+            "details": "Tipps-Routine erwartete Sierhuis in Startelf als 9er nach Ogawa-OUT - tatsaechlich Bank; kam erst 68. Min. fuer Pereira. Startelf-Sturm: Linssen. Squad-Recherche-Fehler bei NEC-Formation (3-4-2-1 statt 4-2-3-1, mit Chery/Tadic/Linssen offensiv)."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Bodo/Glimt-Berserker-Form (15/16 Europa Ueber 2.5) 100% bestaetigt: 3 Auswaerts-Tore in 50. Min, aggregate-verwaltung Modus ab 3:0. Ueber 2.5 + BTTS Ja + Bodo-Sieg Triple-Cluster bezahlt.",
+          "Squad-Verifikations-Fehler NEC: Sierhuis nicht Startelf sondern Bank/Einwechsler - Anytime-Basis-Setup falsch weil Volume-9er-Rolle nicht bestaetigt war. HR22 Star-OUT-Implosions-Risiko-Analog: Volume-9er-Erwartung ohne Startelf-Bestaetigung.",
+          "Coinflip-Wetten alle richtig entschieden (Bodo als leichter Fav @2.40 dominant), aber Beob-Liga-Doktrin hat die drei richtigen Wackel-Tipps trotzdem gedroppt via Mapper - Meta-Frage: Wenn Beob-Liga alle 3 Ueber/BTTS/Bodo-Sieg entfernt, war das an sich schon 6 Wackel-Cluster-Konsens-Tipps richtig, aber Doktrin verhinderte Play. Statistik-neutralisiert."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [],
+  "kombis": [
+    {
+      "profil": "moonshot",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-08-19-cel-las",
+          "tipp_id": "cel-las-5",
+          "markt": "Celtic Glasgow - LASK Linz: Daizen Maeda - Doppelpack (2+ Tore)",
+          "quote": 7.0,
+          "layer_2_tag": "cel-las_maeda_doppelpack",
+          "spiel_titel": "Celtic Glasgow - LASK Linz"
+        },
+        {
+          "spiel_id": "2026-08-19-nec-bod",
+          "tipp_id": "nec-bod-5",
+          "markt": "NEC Nijmegen - Bodo/Glimt: Kaj Sierhuis - Doppelpack (2+ Tore)",
+          "quote": 9.0,
+          "layer_2_tag": "nec-bod_sierhuis_doppelpack",
+          "spiel_titel": "NEC Nijmegen - Bodo/Glimt"
+        }
+      ],
+      "gesamtquote": 63.0,
+      "gesamtquote_rechnung": "7.00 x 9.00 = 63.00",
+      "einsatz_euro": 0.55,
+      "empfohlener_einsatz_prozent": 0.1,
+      "begruendung": "Moonshot-Kombi 63.00x = 2-Bein Torschuetzen-Doppelpack-Doppel (HR08-17-3 Mini-Slate-Moonshot-Torschuetzen-Doppelpack-Alternative-Doktrin direkt anwendbar). Maeda-Doppelpack (Celtic Top-Scorer 7g/4 + HR24 3/3 VALUE-Basis + Cauldron + LASK-Auswaerts-Debuet, impl. ~14%) + Sierhuis-Doppelpack (NEC 9er-Alleinregime nach Ogawa-OUT + Bodo Def-Krise-Restrisiko + Home-Cauldron, impl. ~11%). UEBERLEBT Beob-Liga-Mapper wg beide Beine >= 5.00 (7.00 + 9.00). Layer-2 hart: kein Sieg-Outcome (beide Torschuetzen-Sub-Markt). Layer-3 Bruch dokumentiert (beide Spiele vertreten - unvermeidlich bei 2-Spiele-Slate + 4 Kombis, aber Markt-entkoppelt via Doppelpack vs Anytime in Risiko + Sieg/Total in Safe/Balance). Quote 63.00x unter Master-Range 100x+ (HR08-17-1 Kompression, kein Genaues-Ergebnis-Lottery-Zwang bei 2-Spiele-Slate wg CLAUDE.md-Verbot). Impl. ~1.6% = klassisch Spassenisatz. Stake 0.1% = 0.55€."
+    }
+  ],
+  "lessons_angewandt": [
+    "Beob-Liga-Regel Playoff-Q4-Hinspiel AKTIV (-42.9% ROI n=8 rolling 30d aus data/beobachtungs_ligen.json nach gestrigem 0/4-Verlust Fen-Lyo + Lev-AEK): alle Tipps beider Spiele max WACKEL, Moonshot nur ab Quote 5.00. Mapper (fix_schema.py::validate_beobachtungs_liga) droppt automatisch einzeltipps[] + Safe/Balance/Risiko-Kombi-Beine, nur Moonshot-Kombi mit Beinen >= 5.00 ueberlebt.",
+    "HR26 2:0-Insurance-Regel AKTIV in CL (nur BL/CL/WM 2026): Celtic + Bodo/Glimt Sieg-Tipps profitieren bei HZ 2:0-Fuehrung. Aber wg Beob-Liga alle Sieg-Tipps max WACKEL.",
+    "HR08-18-1 CL-Playoff-Q4-Hinspiel-Sieg-VALUE-Downgrade-Doktrin (gestern gelernt): Home-Fav-Sieg-Tipp NIE als SAFE, immer max VALUE wg Aggregat-Verwalter-Risiko + Rueckspiel-Fokus. Heute wg Beob-Liga sogar max WACKEL (nicht nur VALUE) - doppelter Downgrade.",
+    "HR08-17-1 Mini-Slate-Struktur-Kombi-Range-Kompression (17.08. gelernt): bei nur 2 Spielen + 4 Kombis Master-Ranges nicht ohne Layer-1-Bruch oder Genaues-Ergebnis-Lottery erreichbar - Ranges kompressiert (Safe 2.41x/Balance 3.86x/Risiko 5.10x/Moonshot 63x statt 3-5x/6-10x/15-30x/100x+).",
+    "HR08-17-2 Mini-Slate-Layer-3-Zwangsbruch-Doktrin (17.08. gelernt): beide Spiele in mehreren Kombis - unvermeidlich bei 2-Spiele-Slate + 4 Kombi-Profilen. Markt-Entkopplung Pflicht (Total/BTTS/Sieg/Torschuetzen-Anytime/Doppelpack).",
+    "HR08-17-3 Mini-Slate-Moonshot-Torschuetzen-Doppelpack-Alternative (17.08. gelernt): Moonshot mit Maeda-Doppelpack + Sierhuis-Doppelpack statt Underdog-Sieg-Konter (HR23-Mapper-Hartcheck-Bruch bei LASK-Sieg + NEC-Sieg gleichzeitig).",
+    "HR08-18-2 Mini-Slate-Doktrin-Kompression-n2-Validierung (gestern gelernt): dritter Tag in Folge (17./18./19.08.) Mini-Slate mit 2 Spielen + 4 Kombis = Blueprint konsequent anwendbar.",
+    "HR23 Layer-2-Interpretation strikt: pro Spiel max 1 Sieg-Outcome ueber alle Kombis (Bodo Sieg in Balance = einziges Sieg-Outcome ueber alle Kombis, Safe/Risiko/Moonshot ohne Sieg-Beine).",
+    "HR24 Torschuetzen-Form-Edge-Pflicht: Maeda 3/3 (Streak+Zentral+Def-Restrisiko) + Sierhuis 2/3 (Volume+Backup+Bodo-Europa-Leaky) + Adeniran 3/3 (Streak+Zentral+Celtic-Def-solide-Grenze) alle als Basis WACKEL wg Beob-Liga.",
+    "Markt-Goldgrube Torschuetzen Jederzeit (50%/+24.4%) fuer Risiko-Kombi-Doppel (Maeda + Sierhuis) + Moonshot-Beine Doppelpack aktiv - trotz Beob-Liga der Markt-Filter greift.",
+    "Markt-Goldgrube Unter 2.5 Tore (72.4%/+25.8% n=29) heute NICHT anwendbar: beide Aggregator-Konsens Ueber 2.5 wg Bodo 15/16 Europa-Bilanz + Celtic Home-Europa-67% - Marktbeobachter-Regel greift nicht bei offensiv-orientierten Aggregatoren-Predictions.",
+    "HR08-13-1 Post-WM-Ruhepause-Doktrin AUSGELAUFEN (17.08. Fenster durch) - Maeda (Japan WM-R16-out lange her), Adeniran (Nigeria nicht qualifiziert), Sierhuis (Niederlande NM-Randfigur), Hauge (Norwegen nicht qualifiziert), Blomberg + Hoegh (Norwegen nicht qualifiziert) alle frei fuer Torschuetzen-Tipps.",
+    "HR08-15-4 Saison-Auftakts-Def-Krise-Cluster-BTTS-System-Bias partiell aktiv: NEC Sandler-OUT + Ausfaelle-Kette + Bodo Gundersen-OUT = beidseitige Def-Wackel - stuetzt BTTS Ja + Ueber 2.5-Cluster.",
+    "Ehrliche Doktrin-Referenz: 4 Kombis + 6 einzeltipps trotz Beob-Liga-Wissen dass 3 Kombis + alle einzeltipps geleert werden - Transparenz vor Ueberlisten. Nur Moonshot (Maeda+Sierhuis Doppelpack 63x) ueberlebt Mapper und ist echter Live-Play-Kandidat."
+  ],
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_verifikations_report": {
+    "geprueft_am": "2026-08-19T13:35:00+02:00",
+    "modus": "intern (Master-Selbstverifikation, keine externe Cloud-Verifikation - Mini-Slate 2 CL-Playoff-Q4-Hinspiele)",
+    "checks_bestanden": [
+      "JSON-Schema gueltig, alle Pflichtfelder befuellt (datum, hinweis, spiele[], einzeltipps[], kombis[], lessons_angewandt[], footer)",
+      "max 5 tipps pro Spiel eingehalten (5/5 cel-las + 5/5 nec-bod)",
+      "Alle tipps mit unique id (cel-las-1..5 + nec-bod-1..5)",
+      "Kombi-gesamtquote alle rechnerisch korrekt: Safe 1.72x1.40=2.408=2.41x, Balance 1.61x2.40=3.864=3.86x, Risiko 2.00x2.55=5.10x, Moonshot 7.00x9.00=63.00x",
+      "Layer-1 hart eingehalten: max 1 Bein/Spiel/Kombi in allen 4 Kombis",
+      "Layer-2 hart: nur 1 Sieg-Outcome ueber alle Kombis (Bodo/Glimt Sieg in Balance) - Celtic/NEC/LASK Sieg + Draw NIE in Kombis (Hartcheck HR23)",
+      "Layer-2-Tag-Eindeutigkeit: 10 unique Tags ueber 10 Tipps + 8 in Kombis verwendet",
+      "Layer-3 Weichbruch dokumentiert: beide Spiele in allen 4 Kombis - unvermeidlich bei 2-Spiele-Slate + 4 Kombis, jedes Bein verschiedener Markt (Sieg/Total/BTTS/Torschuetzen-Anytime/Doppelpack)",
+      "HR24 Torschuetzen-Form-Edge-Check: Maeda 3/3 (Anytime + Moonshot Doppelpack als Spassenisatz), Sierhuis 2/3 (Anytime + Moonshot Doppelpack), Adeniran nicht in Tipps aber Form-Edge validiert (6/5 zentraler 9er + Celtic-Def-Restrisiko)",
+      "HR22 Star-OUT-Implosions-Risiko: keine Sturm-Ausfaelle die Torschuetzen-Tipps ungueltig machen - Maeda + Sierhuis + Linssen + Hoegh + Hauge + Blomberg fit; NEC Ogawa-OUT + Ouaissa-OUT + Sandler-OUT + Moslih-OUT betreffen keine Torschuetzen-Kandidaten",
+      "Squad-Verifikation: alle Torschuetzen-Tipps (Maeda Celtic, Sierhuis NEC) im predicted lineup bestaetigt (sportsgambler + mightytips + BetMGM-Anytime-Odds-Ranking)",
+      "Position-Verifikation: Maeda = zentraler 9er/LF (Celtic 4-3-3 Sturm) → OK. Sierhuis = ST (NEC 4-2-3-1 Sturm-Mitte) → OK",
+      "Saison-Kontext-Verband-Quellen-Check: parallel_heim + parallel_gast enthalten CL-Q-Referenzen (beide Spiele) → UEFA-Quelle in quellen[] beider Spiele bestaetigt (uefa.com CL-qualifying-fixtures)",
+      "Markt-Mix-Check: kein DC (Doppelte Chance) in Tipps - keine Duplikation. Ueber 2.5 + BTTS Ja beide Spiele als Cluster-Konsens ohne Konflikt (Sub-Markt-Korrelation dokumentiert).",
+      "Selbstwiderspruchs-Scan: kein Widerspruch zwischen begruendung + saison_kontext + news[] - Celtic-Sieg + Ueber 2.5 + BTTS Ja konsistent (Home-Fav mit offenem Spiel); Bodo-Sieg + Ueber 2.5 + BTTS Ja konsistent (Auswaerts-Fav mit offenem Spiel)",
+      "Quoten-Plausibilitaet: alle Quoten Aggregator-Konsens-basiert (bet365 + BetMGM + 22bet + Megapari + mightytips + sportsgambler) - bet365 live pruefen empfohlen",
+      "Genaues Ergebnis + Halbzeit-Endstand-Kombi + Eckbaelle/Karten NIE in Tipps (bet365-DE-Verbote + Lottery-Vermeidung)",
+      "Kasse-Stufe-1 Stakes korrekt: Einzel WACKEL 0.5% = 2.75€, MOONSHOT 0.1% = 0.55€, Kombi Safe 2% = 11€, Balance 0.8% = 4.40€, Risiko 0.25% = 1.375€ auf 1.40€ gerundet, Moonshot 0.1% = 0.55€",
+      "CL-Kontext-Doktrin: HR26 2:0-Insurance AKTIV fuer alle Sieg-Tipps (Celtic + Bodo); HR08-18-1 CL-Playoff-Q4-Hinspiel-Doktrin in begruendung Downgrade zu WACKEL",
+      "Beob-Liga-Doktrin-Anwendung: alle Tipps max WACKEL, alle Moonshot-Beine >= 5.00 (Maeda Doppelpack 7.00 + Sierhuis Doppelpack 9.00) - Mapper-Ueberleben validiert"
+    ],
+    "warnungen": [
+      "BEOBACHTUNGS-LIGA AKTIV: alle einzeltipps[] (6 Stueck) werden vom fix_schema.py-Mapper (validate_beobachtungs_liga) automatisch GEDROPPED. Safe/Balance/Risiko-Kombi-Beine werden alle GEDROPPED (Kombis werden leer). Nur Moonshot-Kombi (Maeda Doppelpack + Sierhuis Doppelpack 63x) ueberlebt wg Quote >= 5.00 pro Bein. Bewusst als Referenz-Struktur belassen fuer Transparenz + PWA-Sichtbarkeit der Spielanalyse.",
+      "Mini-Slate 2-Spiele: alle Kombi-Quoten unter Master-Range (Safe 2.41x statt 3-5x, Balance 3.86x statt 6-10x, Risiko 5.10x statt 15-30x, Moonshot 63x statt 100x+) - dokumentiert via HR08-17-1 Kompression-Doktrin. Kein Zwang-100x-via-Genaues-Ergebnis-Lottery (CLAUDE.md-Verbot).",
+      "Layer-3 Weichbruch: beide Spiele in allen 4 Kombis - unvermeidlich bei 2-Spiele-Slate + 4 Kombi-Profilen. Markt-entkoppelt via Sieg/BTTS/Total/Torschuetzen-Anytime/Doppelpack.",
+      "Aggregator-Konsens ohne direkten bet365-Live-Scrape: Quoten koennten +/-5% abweichen - bet365 live pruefen empfohlen. Maeda-Doppelpack @7.00 = Estimate (reale Quote 6.00-8.50 moeglich). Sierhuis-Doppelpack @9.00 = Estimate (7.50-11.00 moeglich).",
+      "Sierhuis-Anytime (Risiko) + Sierhuis-Doppelpack (Moonshot) = Sub-Markt-Korrelation - aber Risiko wird sowieso vom Mapper geleert (Beob-Liga), sodass keine Doppel-Exposition uebrigbleibt.",
+      "Maeda-Anytime (Risiko) + Maeda-Doppelpack (Moonshot) = analog Sub-Markt-Korrelation - Risiko-Kombi wird vom Mapper geleert.",
+      "CL-Hin-Spiel-Aggregat-Verwalter-Risiko HR08-18-1-analog: Celtic + Bodo koennten nach 1:0/2:0 defensiv verwalten fuer Rueckspiel-Vorteil - Ueber 2.5 + BTTS Ja Kombi-Risiko real (aber Cluster-Konsens dagegen: LASK/NEC-Aggressivitaet-Bias + 94%-Bodo-Europa-Bilanz)",
+      "Coinflip-Warnung NEC-Bodo: alle drei 1X2-Quoten zwischen 2.30-3.82 = kein klarer Fav. Bodo leichter Edge via Klassen + Rhythmus, aber Draw @3.60 nicht auszuschliessen (HR26-Insurance nur bei 2:0-Fuehrung).",
+      "Bodo/Glimt Nord-Norwegen-Reise-Belastung nicht Hin-Spiel-Faktor (Hin in Nijmegen) - Rueckspiel 26.08. dann Bodo-Heim-Vorteil + NEC-Auswaerts-Reise-Belastung.",
+      "HR08-13-1 Post-WM-Ruhepause-Doktrin AUSGELAUFEN (17.08. Fenster durch) - heute 19.08. dritter Anwendungstag ohne Nach-WM-Muedigkeit-Faktor (keine der Torschuetzen-Kandidaten in WM-Halbfinale-Kader)"
+    ],
+    "drops": [],
+    "downgrades": [],
+    "lessons_generiert": [
+      {
+        "kategorie": "Beob-Liga-Doktrin-Kettenanwendung",
+        "vorschlag": "HR08-19-1 Beob-Liga-Cluster-Wochenweise-Anwendung: bei komplettem Slate auf Beob-Liga (heute alle 4 CL-Playoff-Q4-Hinspiele auf Liste) automatisch Kompressions-Doktrin plus 'Doppelpack-Moonshot-Only-Ueberlebt'-Modus. Blueprint: (1) 2-3 Spiele mit besten Daten, (2) alle Tipps WACKEL max, (3) 4 Kombis mit ehrlich dokumentierter Struktur - nur Moonshot mit Doppelpack-Beinen >= 5.00 ueberlebt, (4) im hinweis Beob-Liga-Konsequenz ausfuehrlich erklaeren."
+      },
+      {
+        "kategorie": "Mini-Slate-Doktrin-Bestaetigung-Tag3",
+        "vorschlag": "HR08-19-2 Mini-Slate-Doktrin-Kompression-n3-Validierung: dritter Tag in Folge (17./18./19.08.) Mini-Slate mit 2 Spielen + 4 Kombis = HR08-17-1/-2/-3 direkt anwendbar. Blueprint 3x validiert - keine Anpassung noetig."
+      },
+      {
+        "kategorie": "Torschuetzen-Doppelpack-Moonshot-Ueberlebens-Ancker",
+        "vorschlag": "HR08-19-3 Torschuetzen-Doppelpack-Moonshot-Ueberlebens-Ancker-Doktrin: bei Beob-Liga-Slate ist Torschuetzen-Doppelpack (typischerweise Quote 7-10 fuer Volume-Stuermer) der einzige verlaessliche Weg zum Ueberleben der Mapper-Bereinigung. Voraussetzung: HR24 Form-Edge klar erfuellt (Streak + Zentral + Def-Restrisiko). Blueprint fuer alle zukuenftigen Beob-Liga-Slates."
+      }
+    ]
+  },
+  "einzeltipps_ergebnis": [],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 63.0,
+      "gewinn_faktor": 0.0
+    }
+  ],
+  "ausgewertet_am": "2026-08-20T07:15:00+00:00"
+}

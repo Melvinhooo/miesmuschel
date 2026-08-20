@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-08-19T07:12:09+00:00",
+  "letzte_berechnung": "2026-08-20T07:12:21+00:00",
   "gesamt": {
     "tipps": 455,
     "gewonnen": 231,
@@ -4399,6 +4399,44 @@
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-08-19",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "?",
+          "kategorie": "moonshot",
+          "gesamtquote": 63.0,
+          "einsatz_prozent": 0.1,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Celtic Glasgow - LASK Linz: Daizen Maeda - Doppelpack (2+ Tore)",
+              "quote": 7.0,
+              "status": "verloren",
+              "kommentar": "Maeda Doppelpack: Maeda nicht im Kader, VERLOREN"
+            },
+            {
+              "markt": "NEC Nijmegen - Bodo/Glimt: Kaj Sierhuis - Doppelpack (2+ Tore)",
+              "quote": 9.0,
+              "status": "verloren",
+              "kommentar": "Sierhuis Doppelpack: 0 Tore als Einwechsler, VERLOREN"
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-08-18",
       "gesamt": {

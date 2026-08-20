@@ -2537,6 +2537,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "HR08-18-4 Doppelte-Chance-X2-Auswaerts-Cauldron-VALUE-Absicherer-vs-Direktsieg-VALUE-8d",
       "bezug_spiel_id": "2026-08-18-lev-aek",
       "lesson": "DC-X2-VALUE-ABSICHERER-OUTPERFORMED-DIREKTSIEG-VALUE aus Markt-Bilanz-Cluster (8d): AEK DC X2 (Auswaerts oder Unentschieden) @1.35 GEWONNEN vs AEK-Direkt-Sieg @2.34 VERLOREN im gleichen Spiel Levski 0:0 AEK. Delta: DC-Absicherer holt bei Kader-Klasse-Auswaerts-Cauldron das Klassen-Punkt-Signal auch ohne Sieg, Direkt-Sieg killt bei taktischer Vorsicht. Markt-Goldgrube DC X2 (77.8%/+9.4%) einmal mehr bestaetigt. DOKTRIN: bei Klassen-Fav auswaerts in Cauldron-Stadion (heute Sofia bei Levski) IMMER DC-X2-Absicherer als Primary-VALUE-Achse waehlen, Direkt-Sieg nur als Sekundar-Bein (nicht als Primary-Kombi-Bein). Heute erneut Reference-Beispiel: DC X2 @1.35 SAFE-artig ausgezahlt + Kombi-mit-DC-Basis waere gerettet, wo Direkt-Sieg-Kombi (Kombi 2 mit AEK Sieg) verloren. Symmetrisches Gegenstueck: Home-Cauldron-Underdog gegen Klassen-Fav = DC 1X (Heim oder Unentschieden) statt Home-Direkt-Sieg. HR26 2:0-Insurance greift nur bei Direkt-Sieg-Tipp - DC-Tipps profitieren NICHT von 2:0-Insurance, aber sind ohnehin auf Nicht-Verlust ausgelegt."
+    },
+    {
+      "datum": "2026-08-19",
+      "kategorie": "HR08-19-1 Squad-Verifikations-Fehler-Star-Transfer-vor-CL-Playoff-Boost-Trigger-neutral-8i",
+      "bezug_spiel_id": "2026-08-19-cel-las",
+      "lesson": "SQUAD-VERIFIKATIONS-FEHLER-STAR-TRANSFER-BOOST-TRIGGER-NEUTRAL (8i): Maeda-Anytime @2.00 + Maeda-Doppelpack @7.00 (Moonshot-Kombi-Bein 1/2) beide direkt tot vom Kick-off weil Maeda VOR Match zu Ipswich fuer 10M GBP transferiert wurde - Tipps-Routine ging vom Celtic-Top-Scorer 7g/4-Streak aus, ohne finale Squad-Live-Verifikation innerhalb 24h vor Spiel. HR22 Star-OUT-Implosions-Risiko in reinster Form. Einwechslungs-Boost-Regel greift NICHT bei Transfer (X war nicht im Spiel = Boost-Trigger unmoeglich, nur bei Auswechslung waehrend Spiel greift Boost). DOKTRIN: bei jedem Torschuetzen-Tipp direkt vor Kick-off Squad-Live-Check via WebSearch 'Team X squad 2026-08-19' + Transfer-News 'Spieler X Transfer' - insb. bei aktiven Transfer-Fenstern (August/Januar). Pre-Match-News-Fenster: 24h Zwang. Ohne Bestaetigung -> Torschuetzen-Tipp raus."
+    },
+    {
+      "datum": "2026-08-19",
+      "kategorie": "HR08-19-2 Startelf-vs-Bank-Volume-9er-Squad-Recherche-Fehler-8g",
+      "bezug_spiel_id": "2026-08-19-nec-bod",
+      "lesson": "STARTELF-VS-BANK-VOLUME-9ER-RECHERCHE-FEHLER-BEI-EINWECHSLER (8g): Sierhuis-Anytime @2.55 (nec-bod-4) + Sierhuis-Doppelpack @9.00 (Moonshot-Kombi-Bein 2/2) beide verloren weil Sierhuis nur Einwechsler war (68. Min. fuer Pereira), NICHT Startelf-9er wie Tipps-Routine annahm (Ogawa-OUT-Chance-Multiplikator-Setup). Tatsaechliche NEC-Startelf 3-4-2-1 mit Linssen als 9er + Chery/Tadic offensive Mids + Bischoff attacking Mid (Bischoff traf sogar das NEC-Konsolationstor 85.'). DOKTRIN: 'Predicted Startelf' aus Aggregator-Preview nicht blind uebernehmen (Predictions veralten schnell + Trainer-Wahl-Bias). Bei Torschuetzen-Volume-9er-Tipps entweder (a) confirmed lineup 60 Min vor Kick-off warten oder (b) auf Startelf-basierten Tipp verzichten. Nur Anytime-Volume-Tipp bei Confirmed-Startelf. Einwechsler mit Anytime = zu wenig Spielzeit (typisch 20-30 Min = ~30% Torchance)."
+    },
+    {
+      "datum": "2026-08-19",
+      "kategorie": "HR08-19-3 Beob-Liga-Doktrin-Overkill-3-korrekte-Wackel-Cluster-gedroppt-8d",
+      "bezug_spiel_id": "2026-08-19-cel-las,2026-08-19-nec-bod",
+      "lesson": "BEOB-LIGA-DOKTRIN-OVERKILL-3-KORREKTE-WACKEL-CLUSTER-GEDROPPT (8d Markt-Bilanz): Beob-Liga (-42.9% ROI n=8) hat 6 einzeltipps + 3 Kombis komplett gedroppt via Mapper. Von den 6 einzeltipps waeren 4 GEWONNEN gewesen: cel-las-1 Ueber 2.5 @1.72 (3:0), cel-las-3 Celtic Sieg @1.65 (3:0), nec-bod-1 Ueber 2.5 @1.40 (1:3), nec-bod-2 BTTS Ja @1.35 (1:3), nec-bod-3 Bodo Sieg @2.40 (1:3) = 5 GEWONNEN von 6 (nur cel-las-2 BTTS + cel-las-4 Maeda verloren). Netto haetten Wackel-Tipps ohne Beob-Liga-Drop mit 5x2.75€ Stakes = 13.75€ Einsatz -> Ertrag 2.75x(1.72+1.65+1.40+1.35+2.40)-13.75 = 22.60-13.75 = +8.85€ Netto gemacht. Meta-Frage: Beob-Liga ist n=8 rolling 30d = kleiner Sample. DOKTRIN: bei Beob-Liga PLUS starker Cluster-Konsens (>=3 Aggregator-Predictions parallel + 90%+ Historie-Rate wie Bodo 15/16 Europa-Ueber-2.5) SOFT-DOWNGRADE zu Wackel (aktuell) ist korrekt, aber Live-Play trotzdem erlaubt bei explizit dokumentiertem Overwrite-Vermerk. Alternativ: Beob-Liga-Ausstiegs-Kriterium relaxen von ROI > -10% zu ROI > -20% um schneller aus Liga rauszukommen bei kleinen Samples."
+    },
+    {
+      "datum": "2026-08-19",
+      "kategorie": "HR08-19-4 Aggregat-Verwalter-Pattern-CL-Playoff-Auswaerts-Fav-3-0-Managementmodus-8f",
+      "bezug_spiel_id": "2026-08-19-nec-bod",
+      "lesson": "AGGREGAT-VERWALTER-PATTERN-AUSWAERTS-FAV-3-0-MANAGEMENT (8f Markt-Pattern volle_analyse): Bodo/Glimt fuehrte in 50. Min. 0:3 (Fet 25', Helmersen Pen 44', Aleesami 50'), danach klare Aggregat-Verwaltung fuer Rueckspiel-Vorteil - NEC-Konsolation Bischoff 85' war einziges 2H-Bodo-Gegentor. Rest komplett kontrolliert. Kein Bodo-Tor 2H trotz 15/16-Ueber-2.5-Europa-Bilanz. Pattern bestaetigt HR08-18-1 CL-Playoff-Q4-Hinspiel-Aggregat-Verwalter-Doktrin: Auswaerts-Fav @2.40 mit 0:3-HZ-Fuehrung schaltet ab. DOKTRIN-Erweiterung: bei CL-Playoff-Hinspielen mit Auswaerts-Fav-Sieg-Tipp Ueber-2.5-2Halbzeit als sekundaeres Wett-Bein VERMEIDEN (Auswaerts-Fav will 0 GA im 2H halten fuer Rueckspiel). Bei Home-Fav-Sieg (heute Celtic 3:0) analog: 2H-Ueber-1.5-Tore auch reduziert (Celtic 2H nur 1 Tor via Duran 67. dann Ruhe). Ueber 2.5 gesamt bleibt Cluster-Konsens moeglich (heute beide Spiele 3+/4 Tore), aber 2H-Volumen abhaengig von Score-Verlauf 1H."
     }
   ]
 };
