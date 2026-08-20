@@ -434,7 +434,8 @@
       "quote": 1.35,
       "einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "layer_2_tag": "ben-aar_handicap_minus_1_5"
+      "layer_2_tag": "ben-aar_handicap_minus_1_5",
+      "rang": 1
     },
     {
       "id": "ben-aar-3",
@@ -445,7 +446,8 @@
       "quote": 1.55,
       "einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "layer_2_tag": "ben-aar_btts_nein"
+      "layer_2_tag": "ben-aar_btts_nein",
+      "rang": 2
     },
     {
       "id": "bes-zal-2",
@@ -456,7 +458,8 @@
       "quote": 1.4,
       "einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "layer_2_tag": "bes-zal_unter_3_5"
+      "layer_2_tag": "bes-zal_unter_3_5",
+      "rang": 3
     },
     {
       "id": "bes-zal-3",
@@ -467,7 +470,8 @@
       "quote": 1.55,
       "einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "layer_2_tag": "bes-zal_btts_nein"
+      "layer_2_tag": "bes-zal_btts_nein",
+      "rang": 4
     },
     {
       "id": "tra-fer-1",
@@ -478,7 +482,8 @@
       "quote": 1.35,
       "einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "layer_2_tag": "tra-fer_dc_1x"
+      "layer_2_tag": "tra-fer_dc_1x",
+      "rang": 5
     },
     {
       "id": "ben-aar-2",
@@ -489,7 +494,8 @@
       "quote": 2.0,
       "einsatz_euro": 5.5,
       "empfohlener_einsatz_prozent": 1.0,
-      "layer_2_tag": "ben-aar_ueber_3_5"
+      "layer_2_tag": "ben-aar_ueber_3_5",
+      "rang": 6
     },
     {
       "id": "bes-zal-4",
@@ -500,7 +506,8 @@
       "quote": 1.9,
       "einsatz_euro": 5.5,
       "empfohlener_einsatz_prozent": 1.0,
-      "layer_2_tag": "bes-zal_sieg_zu_null"
+      "layer_2_tag": "bes-zal_sieg_zu_null",
+      "rang": 7
     },
     {
       "id": "tra-fer-3",
@@ -511,7 +518,8 @@
       "quote": 1.9,
       "einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "layer_2_tag": "tra-fer_unter_2_5"
+      "layer_2_tag": "tra-fer_unter_2_5",
+      "rang": 8
     },
     {
       "id": "mot-fre-2",
@@ -522,7 +530,8 @@
       "quote": 2.0,
       "einsatz_euro": 8.25,
       "empfohlener_einsatz_prozent": 1.5,
-      "layer_2_tag": "mot-fre_unter_2_5"
+      "layer_2_tag": "mot-fre_unter_2_5",
+      "rang": 9
     },
     {
       "id": "mot-fre-1",
@@ -533,7 +542,8 @@
       "quote": 1.4,
       "einsatz_euro": 5.5,
       "empfohlener_einsatz_prozent": 1.0,
-      "layer_2_tag": "mot-fre_sieg_gast"
+      "layer_2_tag": "mot-fre_sieg_gast",
+      "rang": 10
     }
   ],
   "kombis": [
@@ -579,7 +589,7 @@
         {
           "spiel_id": "2026-08-20-ben-aar",
           "tipp_id": "ben-aar-3",
-          "markt": "SL Benfica - AGF Aarhus: Beide Teams treffen Nein",
+          "markt": "SL Benfica - AGF Aarhus: Beide Teams treffen: Nein",
           "quote": 1.55,
           "layer_2_tag": "ben-aar_btts_nein",
           "spiel_titel": "SL Benfica - AGF Aarhus"
@@ -587,7 +597,7 @@
         {
           "spiel_id": "2026-08-20-bes-zal",
           "tipp_id": "bes-zal-3",
-          "markt": "Beşiktaş JK - FK Kauno Žalgiris: Beide Teams treffen Nein",
+          "markt": "Beşiktaş JK - FK Kauno Žalgiris: Beide Teams treffen: Nein",
           "quote": 1.55,
           "layer_2_tag": "bes-zal_btts_nein",
           "spiel_titel": "Beşiktaş JK - FK Kauno Žalgiris"
@@ -595,7 +605,7 @@
         {
           "spiel_id": "2026-08-20-tra-fer",
           "tipp_id": "tra-fer-2",
-          "markt": "Trabzonspor - Ferencvárosi TC: Beide Teams treffen Ja",
+          "markt": "Trabzonspor - Ferencvárosi TC: Beide Teams treffen: Ja",
           "quote": 1.75,
           "layer_2_tag": "tra-fer_btts_ja",
           "spiel_titel": "Trabzonspor - Ferencvárosi TC"
@@ -646,7 +656,7 @@
         {
           "spiel_id": "2026-08-20-mot-fre",
           "tipp_id": "mot-fre-3",
-          "markt": "Motherwell FC - SC Freiburg: Beide Teams treffen Nein",
+          "markt": "Motherwell FC - SC Freiburg: Beide Teams treffen: Nein",
           "quote": 1.9,
           "layer_2_tag": "mot-fre_btts_nein",
           "spiel_titel": "Motherwell FC - SC Freiburg"

@@ -684,23 +684,6 @@
       "einsatz_euro": 1.4,
       "empfohlener_einsatz_prozent": 0.25,
       "begruendung": "Risiko-Kombi 21.37x = 4 Beine, max 1 Sieg-Outcome (Racing Sieg = Contrarian-Underdog HR08-10-1). 3 Tor-Total/BTTS-Beine aus 3 verschiedenen Spielen. Racing-Villarreal-Spiel in 2 Kombis (Balance Ü2.5 + Risk Racing Sieg = Layer-3-Weichbruch dokumentiert bei 5-Spiele-Slate). Community Shield in 2 Kombis (Balance Ü2.5 + Risk Ü3.5 = verschieden Beine, Layer-3-Weichbruch OK)."
-    },
-    {
-      "profil": "moonshot",
-      "beine": [
-        {
-          "spiel_id": "2026-08-16-esp-lev",
-          "markt": "Levante UD Sieg",
-          "quote": 3.75,
-          "layer_2_tag": "esp-lev_sieg_gast"
-        }
-      ],
-      "gesamtquote": 3.75,
-      "gesamtquote_rechnung": "3.90 x 3.75 x 4.00 x 3.20 = 187.20",
-      "einsatz_euro": 0.55,
-      "empfohlener_einsatz_prozent": 0.1,
-      "begruendung": "Moonshot-Kombi 187.20x = 3 Underdog-Siege (Osasuna vs Celta-Fav + Levante vs Espanyol-Fav + Lens vs PSG-Fav) + Community Shield Draw. Alle 4 Beine aus 4 verschiedenen Spielen. HR08-15-3 Blowout-Ergebnis-Rueckfall-Vermeidung: KEIN 3:0/4:0-Ergebnis-Bein - stattdessen Underdog-Siege + Draw. Layer-2 Sieg-Outcome-Bein-Ebene: Osasuna/Levante/Lens-Sieg-Beine (Moonshot) sind Konter-Underdog-Beine zu Celta/Espanyol/PSG-Fav-Beinen (Safe) - verschiedene Beine im gleichen Spiel akzeptiert weil Moonshot-Prinzip Konter-Kombi erfordert. Draw Community Shield ist einziges Sieg-artiges-Bein in Community Shield (Layer-2 hart OK). Impl. Wahrscheinlichkeit ~0.5% - klassischer Spass-Einsatz.",
-      "rechnung": "3.75 = 3.75"
     }
   ],
   "lessons_angewandt": [
