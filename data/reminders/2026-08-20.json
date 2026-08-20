@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-20T16:03:00.424698+00:00",
+  "stand": "2026-08-20T17:34:46.826576+00:00",
   "gesendet": {
     "2026-08-20-bes-zal": {
       "sent_at": "2026-08-20T16:02:58.866177+00:00",
@@ -12,6 +12,18 @@
       "anstoss": "2026-08-20T19:00:00+02:00",
       "spiel": "Trabzonspor vs Ferencvárosi TC",
       "top_tipp": "Trabzonspor-Ferencvaros: Doppelte Chance 1X"
+    },
+    "2026-08-20-ben-aar": {
+      "sent_at": "2026-08-20T17:34:45.170839+00:00",
+      "anstoss": "2026-08-20T21:00:00+02:00",
+      "spiel": "SL Benfica vs AGF Aarhus",
+      "top_tipp": "Benfica -1.5 Handicap"
+    },
+    "2026-08-20-mot-fre": {
+      "sent_at": "2026-08-20T17:34:45.170839+00:00",
+      "anstoss": "2026-08-20T20:30:00+02:00",
+      "spiel": "Motherwell FC vs SC Freiburg",
+      "top_tipp": "Motherwell-Freiburg: Unter 2.5 Tore"
     }
   }
 }
