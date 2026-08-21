@@ -87,7 +87,9 @@ Spielertor-Tipp nur wenn ≥2 von 3 Bedingungen:
 
 ---
 
-## WM 2026 Hartregeln (NEU 10.06.2026)
+## WM 2026 Hartregeln (DORMANT — Turnier vorbei seit 19.07.2026)
+
+> **⚠️ DORMANT im Vereins-Saison-Modus:** HR25–HR29 greifen nur bei WM/EM-Spielen (`turnier_phase`/`gruppen_stand` gesetzt). In der Vereins-Saison **nicht anwenden**. Text bleibt für das nächste Turnier erhalten.
 
 ### HR25: Gruppenphase-Spieltag-3-Außenseiter-Pattern
 Im 3. Gruppen-Spieltag, wenn **mindestens ein Team das Achtelfinale schon sicher hat**, sinkt Druck spürbar. Außenseiter mit Sieg-Druck holen historisch in ~30 % der Fälle einen Punkt.
@@ -126,8 +128,8 @@ Alle 7 saison_kontext-Pflichtfelder müssen ausgefüllt sein. Quellen[] mit ≥1
 - Bei `turnier_phase` Verband-Quelle Pflicht: fifa.com URL in quellen[].
 
 ### bet365-Sonderregeln im Bewusstsein
-- **2:0-Insurance** gilt bei: Bundesliga + Champions League + **WM 2026** (Stand 10.06.2026 laut bet365 DE). NUR direkter Sieg-Tipp. Erwähnen in Begründung wenn anwendbar.
-- **Einwechslungs-Boost** (alle Torschützen-Märkte): Tor des direkten Ersatzspielers zählt für Tipp-Spieler. Bei WM-Spielen besonders relevant weil viele Einwechslungen ab 70. Min.
+- **2:0-Insurance** gilt bei: Bundesliga + Champions League (laut bet365 DE; WM 2026 ist vorbei — bei künftigen Turnieren wieder aktiv). NUR direkter Sieg-Tipp. Erwähnen in Begründung wenn anwendbar.
+- **Einwechslungs-Boost** (alle Torschützen-Märkte): Tor des direkten Ersatzspielers zählt für Tipp-Spieler. Bei Teams mit Backup-Stürmer-Qualität besonders relevant.
 
 ### Verbotene Märkte (NIE empfehlen):
 - Eckbälle, Karten (verboten in DE)

@@ -25,12 +25,12 @@ Lies das passende Recherche-File:
 ## Phase 2: Spiele klassifizieren
 
 Aus Recherche-File:
-- `wm_spiele` = alle Spiele mit `liga` startet mit "WM 2026" oder enthält "FIFA World Cup" — **Hauptfokus 11.06.–19.07.2026**
-- `fussball_spiele_vereine` = Spiele mit Liga ∈ {Bundesliga, Premier League, LaLiga, Serie A, Ligue 1, 2. Bundesliga, Champions League, Europa League, Conference League, DFB-Pokal, Coppa Italia, FA Cup, Coupe de France} — **aktuell Sommer-Pause, in der Regel keine Spiele**
-- `nba_spiele` = alle Spiele mit Liga starting "NBA" — **NBA Finals 2026 läuft**
+- `fussball_spiele_vereine` = Spiele mit Liga ∈ {Bundesliga, Premier League, LaLiga, Serie A, Ligue 1, 2. Bundesliga, Champions League, Europa League, Conference League, DFB-Pokal, Coppa Italia, FA Cup, Coupe de France} — **Hauptfokus (Saison 2026/27 läuft)**
+- `nba_spiele` = alle Spiele mit Liga starting "NBA" — **aktuell Offseason, Saison-Start ~Oktober 2026, in der Regel keine Spiele**
+- `wm_spiele` / `em_spiele` = Spiele mit `liga` enthält "WM"/"EM"/"FIFA World Cup"/"EURO" — **aktuell kein Turnier aktiv (WM 2026 vorbei seit 19.07.)**; nur befüllen falls doch Turnier-Spiele auftauchen
 - `beobachtungs_spiele` = Spiele in beobachtungs_ligen.json → mit "🔍 Beobachtung -" Präfix markiert + nicht in Hauptkombis (nur Moonshot ab Quote 5)
 
-**Wichtig:** Bei WM-Spielen lade auch `data/wm_2026.json` für Spielplan-Kontext + Gruppen-Stand.
+**Nur falls doch Turnier-Spiele:** Bei WM/EM-Spielen `data/wm_2026.json` bzw. Turnier-Referenz-File für Spielplan-Kontext + Gruppen-Stand laden.
 
 ## Phase 3: Subagents parallel starten via Task-Tool
 

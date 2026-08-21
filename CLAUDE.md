@@ -9,10 +9,10 @@
 
 Privates Hobby-Tool für **bet365 DE** zur strukturierten Vorbereitung von Wett-Tagen.
 
-**Aktive Sportarten (Stand 10.06.2026):**
-- **Fußball — WM 2026** (USA/Kanada/Mexiko, 11.06.–19.07.2026, 48 Teams, 104 Spiele): jedes einzelne Spiel wird analysiert
-- **Fußball — Vereine** (Bundesliga, Premier League, LaLiga, Serie A, DFB-Pokal, Champions League, Europa League, Conference League, Coppa Italia): **Saison-Pause** bis August 2026 — keine Tipps bis Liga-Wiederbeginn
-- **Basketball — NBA Finals 2026:** Best-of-7-Serie läuft (Knicks–Spurs), ca. 3 Spiele restlich
+**Aktive Sportarten (Stand 21.08.2026 — Vereins-Saison-Modus):**
+- **Fußball — Vereine** (Bundesliga, Premier League, LaLiga, Serie A, DFB-Pokal, Champions League, Europa League, Conference League, Coppa Italia): **Hauptfokus** — Saison 2026/27 läuft. Ligen aktiv, Europapokal-Gruppenphasen starten im September, nationale Pokal-Runden laufen.
+- **Basketball — NBA:** aktuell **Offseason** — reguläre Saison 2026/27 startet erst ca. Oktober 2026. Bis dahin keine NBA-Tipps.
+- **WM 2026 ist vorbei** (Finale 19.07.2026, Argentinien–Spanien). Turnier-Modus deaktiviert. WM-Sonderregeln unten sind dormant bis zum nächsten Turnier (WM/EM) — sie greifen ohnehin nur bei `liga` mit "WM"/"EM".
 
 Das Tool ist **keine Einnahmequelle**. Jede Version enthält einen Spielerschutz-Hinweis (BZgA-Nummer: 0800 1372700).
 
@@ -84,7 +84,7 @@ Konservativ. Bei 550€-Stand ist das die aktive Stufe.
 ### 2:0-Insurance-Regel (WICHTIG bei Auswertung)
 - Bei einem **direkten Sieg-Tipp** (1X2 / Moneyline) auf Mannschaft X gilt der Tipp als **gewonnen**, sobald X im Spiel mind. **2:0** in Führung lag.
 - Egal was danach passiert — auch bei 4:3-Niederlage am Ende, der Tipp ist durch.
-- **Gilt NUR für:** 1. Bundesliga + Champions League + **WM 2026** (FIFA-Aktionsregel laut bet365 DE, Stand 10.06.2026 — bei Wechsel bet365-AGB nochmal verifizieren)
+- **Gilt NUR für:** 1. Bundesliga + Champions League (bet365-DE-Aktionsregel — bei Wechsel bet365-AGB nochmal verifizieren; WM 2026 ist vorbei, greift bei künftigen Turnieren wieder)
 - **Gilt NUR für:** direkter Sieg-Tipp (Heim oder Gast)
 - **Gilt NICHT für:** Doppelte Chance, Handicap, Über/Unter, BTTS, Genaues Ergebnis, Halbzeit-Wetten
 - Bei Auswertung: wenn Halbzeitstand **2:0+ für Sieg-Tipp-Team** UND Endstand zeigt Niederlage → Status `gewonnen` mit Kommentar `"2:0-Insurance"`.
@@ -102,9 +102,11 @@ Konservativ. Bei 550€-Stand ist das die aktive Stufe.
 
 ---
 
-## WM 2026 Sonderregeln (seit 10.06.2026)
+## WM 2026 Sonderregeln (DORMANT seit 20.07.2026 — Turnier vorbei)
 
-WM 2026 läuft 11.06.–19.07.2026 in USA/Kanada/Mexiko. 48 Teams, 12 Gruppen à 4 Teams, neue 32er-K.O.-Runde + Achtelfinale. **Jedes einzelne Spiel wird analysiert** (104 Spiele über 5,5 Wochen).
+> **⚠️ DORMANT:** WM 2026 endete am 19.07.2026 (Finale ARG–ESP). Die Regeln in diesem Abschnitt sind **inaktiv** und greifen ohnehin nur bei `liga` mit "WM"/"EM". Für die aktuelle Vereins-Saison **nicht anwenden**. Beim nächsten Turnier (WM/EM) reaktivieren (Zeit-System zurück auf Turnier-Modus, siehe Memory `zeit-systeme-f-r-tagesablauf`). Historischer Referenztext bleibt erhalten:
+
+WM 2026 lief 11.06.–19.07.2026 in USA/Kanada/Mexiko. 48 Teams, 12 Gruppen à 4 Teams, neue 32er-K.O.-Runde + Achtelfinale. Jedes einzelne Spiel wurde analysiert (104 Spiele über 5,5 Wochen).
 
 ### Turnier-Phasen + Markt-Tendenzen
 - **Gruppenphase (11.–27.06.):** Spiele 1–2 oft taktisch, Spiel 3 (Stichtag) entscheidet Achtelfinal-Quali → hohes Außenseiter-Edge wenn beide schon weiter sind oder einer all-in-must-win

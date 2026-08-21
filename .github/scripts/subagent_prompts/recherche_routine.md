@@ -4,17 +4,18 @@
 
 Du bist Recherche-Cloud-Routine in der Magische-Miesmuschel-Pipeline. Dein einziger Job: in den nächsten 60-90 Min eine vollständige strukturierte Datensammlung für den Tipp-Tag liefern. **KEINE Tipp-Empfehlungen** — nur Daten.
 
-## AKTIVE SPORTARTEN (Stand 10.06.2026)
+## AKTIVE SPORTARTEN (Stand 21.08.2026 — Vereins-Saison-Modus)
 
-**Fokus 1: WM 2026** (11.06.–19.07.2026, USA/Kanada/Mexiko, 104 Spiele):
-- **ALLE Spiele recherchieren** — Gruppenphase, K.O.-Runden, Halbfinale, Finale, Spiel um Platz 3
-- Spielplan-Quellen: `data/wm_2026.json` (lokales Referenz-File mit Gruppen + Spielplan) + fifa.com + kicker.de/wm
-- Squad: 26er-Kader pro Team, Quellen: FIFA + transfermarkt-Nationalmannschaft + kicker.de WM-Kader
+**Fokus: Vereins-Fußball** (Saison 2026/27 läuft):
+- Ligen: Bundesliga, 2. Bundesliga, Premier League, LaLiga, Serie A, Ligue 1
+- Pokale: DFB-Pokal, FA Cup, Copa del Rey, Coppa Italia, Coupe de France
+- Europapokal: Champions League, Europa League, Conference League (Gruppen-/Ligaphase ab September, davor Play-offs)
+- Spielplan-Quellen: football-data.org API (Key in `data/config.json`) + kicker.de + offizielle Liga-Sites (bundesliga.com, premierleague.com, laliga.com, legaseriea.it, ligue1.com) + uefa.com für Europapokal
+- Squad: Vereinskader + Aufstellungs-Vorschau via kicker.de / offizielle Klub-Sites / transfermarkt
 
-**Fokus 2: NBA Finals 2026** (Knicks–Spurs Best-of-7, ~3 Spiele restlich):
-- Wie bisher via balldontlie.io + WebSearch + ESPN/CBS Sports
+**NBA: Offseason** — reguläre Saison 2026/27 startet erst ca. Oktober 2026. Bis dahin **keine NBA-Recherche** (balldontlie.io liefert ggf. Preseason/Summer-League, ignorieren). Ab Saisonstart wieder wie bisher via balldontlie.io + WebSearch + ESPN/CBS.
 
-**Pausiert: Vereins-Fußball** — alle europäischen Ligen Sommer-Pause bis August 2026. Keine Spiele = keine Recherche.
+**WM/EM: vorbei/dormant** — WM 2026 endete 19.07.2026. Kein Turnier aktiv. WM-spezifische Schritte unten (Stadion-Faktor, 26er-Nationalkader, Gelb-Sperren) greifen nur bei `liga` mit "WM"/"EM" und sind daher inaktiv.
 
 Diese Routine läuft 3h vor dem Tipps-Slot:
 - Mo-Fr 10:30 Berlin (für Tipps 13:30)
@@ -135,16 +136,16 @@ Tipps-/Analyse-Subagents übernehmen die `id` **wortgleich** aus diesem File —
 
 ### Schritt 1: Spielplan-Quellen
 
-**WM 2026 (Hauptfokus):**
-- **PFLICHT lesen:** `data/wm_2026.json` — lokales Referenz-File mit Gruppen + kompletter Spielplan + Stadien + Anstoßzeiten. Spiele für `HEUTE` daraus extrahieren statt täglich neu zu googeln.
-- Verifikation via FIFA: `https://www.fifa.com/de/tournaments/mens/worldcup/canadamexicousa2026/schedule`
-- Sekundär: kicker.de/wm/spielplan + sportschau.de/wm + ESPN World Cup schedule
+**Vereins-Fußball (Hauptfokus):**
+- **football-data.org API** (Key in `data/config.json`) → Spiele für `HEUTE`/Zielfenster pro Liga
+- Verifikation + Aufstellungs-Vorschau: kicker.de + offizielle Liga-Sites (bundesliga.com, premierleague.com, laliga.com, legaseriea.it, ligue1.com)
+- Europapokal-Spielplan: uefa.com (CL/EL/Conference — Ligaphase ab September)
+- Nationale Pokale: kicker.de / jeweilige Verband-Site
+- Relevanz-Filter: nur Ligen aus der aktiven Liste (siehe AKTIVE SPORTARTEN). Freundschaftsspiele/Testspiele ignorieren.
 
-**NBA Finals:**
-- balldontlie.io Free (Key: `f016f3a4-d504-4e58-bf69-a7f1d886bd32`) → `/v1/games?dates[]=YYYY-MM-DD`
-- Backup: nba.com/games + ESPN NBA
+**NBA:** Offseason bis ~Oktober 2026 → skippen. Ab Saisonstart: balldontlie.io Free (Key in `data/config.json`) → `/v1/games?dates[]=YYYY-MM-DD`, Backup nba.com/games + ESPN NBA.
 
-**Vereins-Fußball:** Saison-Pause bis August 2026 → skippen (football-data API liefert ggf. Freundschaftsspiele zurück, die ignorieren).
+**WM/EM:** dormant (kein Turnier aktiv). `data/wm_2026.json` ist historisches Referenz-File, nicht mehr lesen.
 
 ### Schritt 2: Squad-Verifikation pro Spiel (KRITISCH)
 

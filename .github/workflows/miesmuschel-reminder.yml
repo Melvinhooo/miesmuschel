@@ -1,9 +1,10 @@
-name: Miesmuschel Reminder (alle 15 Min - Anstoß-Erinnerung 60-90min vor Spiel)
+name: Miesmuschel Reminder (WM-only - im Vereins-Saison-Modus deaktiviert)
 
 on:
-  schedule:
-    # Alle 15 Min, rund um die Uhr während WM
-    - cron: '*/15 * * * *'
+  # Vereins-Saison-Modus: Reminder AUS. Liga-Anstosszeiten (15:30 / 18:30 / 20:30)
+  # sind planbar genug, kein 60-90min-Vorab-Push noetig. Cron war WM-only
+  # (taeglich viele Spiele mit ausgespreizten Zeiten 18:00-04:00 Berlin).
+  # Fuer die naechste WM/EM wieder aktivieren: schedule mit cron '*/15 * * * *'.
   workflow_dispatch:
 
 permissions:
