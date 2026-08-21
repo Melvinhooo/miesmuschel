@@ -113,6 +113,13 @@ function renderSaisonwetten() {
       <div class="rating-legend-item"><span class="rating rating-wackel">WACKEL</span><span>Kann-muss-nicht</span></div>
     </div>
     ${cards}
+    ${Array.isArray(data.geplant_ab_september) && data.geplant_ab_september.length ? `
+      <div class="box" style="margin-top:8px;border-left:3px solid #8fb4d8;">
+        <strong>⏳ Kommt im September:</strong>
+        <ul style="margin:6px 0 0;padding-left:18px;color:#b8d4e8;font-size:0.88em;">
+          ${data.geplant_ab_september.map(g => `<li>${escapeHtml(g)}</li>`).join('')}
+        </ul>
+      </div>` : ''}
     <div class="box" style="margin-top:8px;font-size:0.82em;color:#8fb4d8;">Quoten Stand ${escapeHtml(data.stand || '')} — bei bet365 DE live prüfen.</div>`;
 }
 
