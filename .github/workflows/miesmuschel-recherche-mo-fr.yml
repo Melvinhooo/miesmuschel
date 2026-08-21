@@ -1,15 +1,13 @@
 name: Miesmuschel Recherche Mo-Fr (Pre-Tipps Datenbasis)
 
 on:
-  schedule:
-    # Vereins-Saison-Modus: Mo-Fr 10:30 Berlin (MESZ UTC+2) -> 08:30 UTC.
-    # Laeuft NACH Auswertung (08:00) + Watchdog (09:00), liefert Datenbasis
-    # fuer den Tipps-Master um 13:30. Sa+So deckt miesmuschel-recherche-sa-so ab.
-    - cron: '30 8 * * 1-5'
+  # DEAKTIVIERT 21.08.2026 (Auto-Trigger entfernt): Dieser separate Recherche-Workflow
+  # schlug bei JEDEM Auto-Lauf mit Startup-Failure fehl (0 Jobs) -> taegliche GitHub-
+  # Fehler-Mail. Er ist redundant: miesmuschel-tipps-mo-fr recherchiert selbst als
+  # Fallback (Phase 1 im Prompt) und liefert die Tipps zuverlaessig. Darum nur noch
+  # manuell ausloesbar. Wenn separate Recherche wieder gewuenscht: Startup-Failure
+  # per Actions-Log debuggen (braucht Auth), dann schedule-Trigger reaktivieren.
   workflow_dispatch:
-  push:
-    paths:
-      - '.github/triggers/recherche-mo-fr.trigger'
 
 permissions:
   contents: write

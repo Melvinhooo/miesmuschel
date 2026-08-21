@@ -3,8 +3,9 @@ name: Miesmuschel Tipps Mo-Fr (ersetzt kaputte Cloud-Routine)
 on:
   schedule:
     # Vereins-Saison-Modus: Mo-Fr 13:30 Berlin (MESZ UTC+2) -> 11:30 UTC.
-    # Laeuft NACH Recherche (10:30) mit frischen Daten. Frueheste Liga-Spiele
-    # typisch 15:30/18:30/20:30 Berlin -> genug Vorlauf. Watchdog 14:30 als Backup.
+    # Recherchiert selbst (Phase 1 Fallback im Prompt) - der separate recherche-mo-fr
+    # Workflow ist deaktiviert (failte am Startup). Frueheste Liga-Spiele typisch
+    # 15:30/18:30/20:30 Berlin -> genug Vorlauf. Watchdog 14:30 als Backup.
     # Sa+So laeuft die Tipps-Generierung ueber die Cloud-Routine (tipps-sa-so).
     - cron: '30 11 * * 1-5'
   workflow_dispatch:
