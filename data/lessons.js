@@ -2561,6 +2561,31 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "HR08-19-4 Aggregat-Verwalter-Pattern-CL-Playoff-Auswaerts-Fav-3-0-Managementmodus-8f",
       "bezug_spiel_id": "2026-08-19-nec-bod",
       "lesson": "AGGREGAT-VERWALTER-PATTERN-AUSWAERTS-FAV-3-0-MANAGEMENT (8f Markt-Pattern volle_analyse): Bodo/Glimt fuehrte in 50. Min. 0:3 (Fet 25', Helmersen Pen 44', Aleesami 50'), danach klare Aggregat-Verwaltung fuer Rueckspiel-Vorteil - NEC-Konsolation Bischoff 85' war einziges 2H-Bodo-Gegentor. Rest komplett kontrolliert. Kein Bodo-Tor 2H trotz 15/16-Ueber-2.5-Europa-Bilanz. Pattern bestaetigt HR08-18-1 CL-Playoff-Q4-Hinspiel-Aggregat-Verwalter-Doktrin: Auswaerts-Fav @2.40 mit 0:3-HZ-Fuehrung schaltet ab. DOKTRIN-Erweiterung: bei CL-Playoff-Hinspielen mit Auswaerts-Fav-Sieg-Tipp Ueber-2.5-2Halbzeit als sekundaeres Wett-Bein VERMEIDEN (Auswaerts-Fav will 0 GA im 2H halten fuer Rueckspiel). Bei Home-Fav-Sieg (heute Celtic 3:0) analog: 2H-Ueber-1.5-Tore auch reduziert (Celtic 2H nur 1 Tor via Duran 67. dann Ruhe). Ueber 2.5 gesamt bleibt Cluster-Konsens moeglich (heute beide Spiele 3+/4 Tore), aber 2H-Volumen abhaengig von Score-Verlauf 1H."
+    },
+    {
+      "datum": "2026-08-20",
+      "kategorie": "HR08-21-1 Wettkampf-Rust-Doktrin-Kalibrierung-BL-vs-Sub-Top-Liga-8h-Rotation-Pattern",
+      "bezug_spiel_id": "2026-08-20-mot-fre",
+      "lesson": "WETTKAMPF-RUST-DOKTRIN-KALIBRIERUNG (8h Rotation-Pattern volle_analyse): Freiburg (BL 26/27, erstes Kompetitiv-Spiel Saison, Wettkampf-Rust brutal-prognostiziert) drehte Motherwell-1:0-Fruehschock (Charles-Cook 2.) auf 3:1 mit Ginter-Doppelpack (28. Kopfball + Elfmeter) + Goto (Grifo-Corner). Predictions-Konsens 4x-Aggregatoren (dailysports + racingpost + betfred + freetips) alle backing Motherwell/Draw waren FALSCH. Regel: Wettkampf-Rust-Faktor NULL bei Klassen-Diff >2 Ligen (BL/PL/LaLiga/Serie A vs Scottish Premiership/Danish Superliga/Portuguese Sub-Top). Bei solchen Matches ausschliesslich Klassen-Doktrin gilt, kein Rust-Downgrade. Blueprint fuer Rueckspiel 27.08. + zukuenftige BL-Playoff-Analog-Matchups (Wolfsburg/Union/Hoffenheim wenn in Q-Runden vs Scot/Dan/Por-Sub-Top): SAFE-Sieg-Tipp voll erlaubt trotz Wettkampf-Rust-Praemisse, nur bei sub-1.30-Quote Handicap-Ausdruck als Vorsicht."
+    },
+    {
+      "datum": "2026-08-20",
+      "kategorie": "HR08-21-2 Aggregat-Verwalter-Ueber-4.5-Deckelung-Klarste-Fav-Playoff-Hinspiel-8f",
+      "bezug_spiel_id": "2026-08-20-ben-aar",
+      "lesson": "AGGREGAT-VERWALTER-UEBER-4.5-DECKELUNG (8f Markt-Pattern volle_analyse): Benfica 3:1 nach 45+2 (Rafa 2., Barreiro 31., Jorgensen 36., Pavlidis Elfmeter 45+2), 2. Halbzeit torlos. Klassisches Aggregat-Verwalter-Muster: Home-Fav mit klarer Fuehrung zur Pause drosselt Tempo fuer Rueckspiel-Vorteil. Ueber-3.5 (2.0x) gewann, Ueber-4.5 (3.0x) + Ueber-5.5 (4.5x) verloren beide trotz Momentum-Explosion-Basis (7:0 vs Casa Pia). Regel: Bei Klarste-Fav-Home-Playoff-Hinspielen (bet365 @<1.15) gilt Ueber-3.5 als max Tor-Total-Schwelle, Ueber-4.5+ automatisch downgrade auf WACKEL max (auch bei 7:0-Referenz-Kantersieg in juengster Vorbereitung). HR08-16-2 Late-Goal-Cluster HEUTE NICHT aktiv - Aggregat-Verwalter dominant."
+    },
+    {
+      "datum": "2026-08-20",
+      "kategorie": "HR08-21-3 Drehungs-Signal-Underdog-Fruehfuehrung-Klasse-Weckruf-Playoff-Klasse-Diff-8f",
+      "bezug_spiel_id": "2026-08-20-mot-fre",
+      "lesson": "DREHUNGS-SIGNAL UNDERDOG-FRUEHFUEHRUNG ALS KLASSE-WECKRUF (8f Markt-Pattern volle_analyse): Motherwell 1:0 (2. Min Charles-Cook) → 1:3 = Drehungs-Ereignis. Bei Klassen-Diff >2 Ligen (Scottish Premiership vs Bundesliga) sollte Underdog-Fruehfuehrung als IMPLIZITER Weckruf fuer Klasse-Team gelten, NICHT als Signal fuer Underdog-Sieg-Fortsetzung. mot-fre-5 Motherwell Sieg (6.5x Moonshot) + mot-fre-4 DC 1X Motherwell/Draw (2.65x Wackel) beide VERLOREN trotz Fruehschock-Basis. Regel: In Playoff-Hinspiel-Format mit Klassen-Diff >2 Ligen: Underdog-Home-Sieg-Tipps NUR im Moonshot-Rahmen (0.1% Stake) einsetzen, DC 1X als WACKEL-Downgrade auf 0.25% Stake. Fruehfuehrung invertiert die Signaldeutung."
+    },
+    {
+      "datum": "2026-08-20",
+      "kategorie": "HR08-21-4 Korrelations-Falle-Mot-Fre-Balance-Risiko-Bein-Cluster-Underdog-Wetten-Volumen-Limitierung",
+      "bezug_spiel_id": "2026-08-20-mot-fre",
+      "lesson": "KORRELATIONS-ANALYSE 4-KOMBI-SLATE: 3/4 Verlust-Kombis heute (Balance + Risiko + Moonshot). Balance-Kombi (Bein 4 mot-fre_unter_2_5) + Risiko-Kombi (Bein 4 mot-fre_btts_nein) beide durch Mot-Fre-Spiel gekillt - Motherwell-Freiburg war der Underdog-Home-Slot mit BL-Klassen-Vorteil, und beide 'Under-Total-artige' Wetten (Unter 2.5 + BTTS Nein) scheiterten simultan wegen 4-Tore-Spiel. Nur die Safe-Kombi (3-Bein Ben-Handicap + Bes-Unter3.5 + Tra-Unter2.5, alle 3 gewonnen, +28.50€) hielt den Tag positiv. Regel: In 4-Kombi-Slates mit Playoff-Hinspiel-Format sollte MAX 1 Kombi ein Underdog-Home-Bein enthalten - gegensaetzliche Tor-Total-Wetten (Unter 2.5 + BTTS Nein zusammen im gleichen Spiel ueber 2 Kombis) sind Korrelations-Falle. Blueprint: bei 4-Spiele-Slate mit 3 Klar-Home-Fav + 1 Underdog-Home: das Underdog-Bein max 1x einsetzen, dann die anderen 3 Kombi-Slots auf Klar-Home-Fav-Spiele fokussieren."
     }
   ]
-};
+}
+;

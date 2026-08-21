@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-08-20T07:12:21+00:00",
+  "letzte_berechnung": "2026-08-21T07:15:51+00:00",
   "gesamt": {
     "tipps": 455,
     "gewonnen": 231,
@@ -4399,6 +4399,260 @@
     "nach_liga": {}
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-08-20",
+      "gesamt": {
+        "tipps": 10,
+        "gewonnen": 7,
+        "verloren": 3,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 10.0,
+        "netto": 11.5,
+        "trefferquote": 70.0,
+        "roi_prozent": 115.0
+      },
+      "spiele": [
+        {
+          "id": "2026-08-20-ben-aar",
+          "liga": "UEFA Europa League 2026/27 - Playoff Round Hinspiel",
+          "heim": "SL Benfica",
+          "gast": "AGF Aarhus",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Benfica -1.5 Handicap",
+              "quote": 1.35,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.35,
+              "kommentar": "Benfica -1.5 covered: 3-1 Sieg mit 2 Toren Vorsprung"
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 2.0,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 2.0,
+              "kommentar": "Ueber 3.5: 4 Tore total"
+            },
+            {
+              "markt": "Beide Teams treffen: Nein",
+              "quote": 1.55,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "BTTS Ja: Jorgensen 36' fuer Aarhus"
+            }
+          ]
+        },
+        {
+          "id": "2026-08-20-bes-zal",
+          "liga": "UEFA Europa League 2026/27 - Playoff Round Hinspiel",
+          "heim": "Beşiktaş JK",
+          "gast": "FK Kauno Žalgiris",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Unter 3.5 Tore",
+              "quote": 1.4,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.4,
+              "kommentar": "Unter 3.5: 3 Tore total"
+            },
+            {
+              "markt": "Beide Teams treffen: Nein",
+              "quote": 1.55,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.55,
+              "kommentar": "BTTS Nein: Kauno Zalgiris kein Tor"
+            },
+            {
+              "markt": "Beşiktaş Sieg zu Null",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.9,
+              "kommentar": "Sieg zu Null: 3:0"
+            }
+          ]
+        },
+        {
+          "id": "2026-08-20-tra-fer",
+          "liga": "UEFA Europa League 2026/27 - Playoff Round Hinspiel",
+          "heim": "Trabzonspor",
+          "gast": "Ferencvárosi TC",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance 1X (Trabzonspor oder Draw)",
+              "quote": 1.35,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Ferencvaros gewann 0:1 auswaerts - DC 1X abgelaufen"
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.9,
+              "kommentar": "Unter 2.5: nur 1 Tor total (Zachariassen 17.)"
+            }
+          ]
+        },
+        {
+          "id": "2026-08-20-mot-fre",
+          "liga": "UEFA Conference League 2026/27 - Playoff Round Hinspiel",
+          "heim": "Motherwell FC",
+          "gast": "SC Freiburg",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "SC Freiburg Sieg (90 Min)",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.4,
+              "kommentar": "Freiburg Sieg 3:1 auswaerts - Klassen-Vorteil durchgesetzt trotz Wettkampf-Rust"
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 2.0,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Ueber 2.5: 4 Tore total - Freiburg-Rust-Muster nicht materialisiert"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "?",
+          "kategorie": "safe",
+          "gesamtquote": 3.59,
+          "einsatz_prozent": 2.0,
+          "status": "gewonnen",
+          "beine": [
+            {
+              "markt": "SL Benfica - AGF Aarhus: Benfica -1.5 Handicap",
+              "quote": 1.35,
+              "status": "gewonnen",
+              "kommentar": "Benfica -1.5 covered: 3-1 Sieg mit 2 Toren Vorsprung"
+            },
+            {
+              "markt": "Beşiktaş JK - FK Kauno Žalgiris: Unter 3.5 Tore",
+              "quote": 1.4,
+              "status": "gewonnen",
+              "kommentar": "Unter 3.5: 3 Tore total"
+            },
+            {
+              "markt": "Trabzonspor - Ferencvárosi TC: Unter 2.5 Tore",
+              "quote": 1.9,
+              "status": "gewonnen",
+              "kommentar": "Unter 2.5: nur 1 Tor total (Zachariassen 17.)"
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "balance",
+          "gesamtquote": 8.41,
+          "einsatz_prozent": 0.8,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "SL Benfica - AGF Aarhus: Beide Teams treffen: Nein",
+              "quote": 1.55,
+              "status": "verloren",
+              "kommentar": "BTTS Ja: Jorgensen 36' fuer Aarhus"
+            },
+            {
+              "markt": "Beşiktaş JK - FK Kauno Žalgiris: Beide Teams treffen: Nein",
+              "quote": 1.55,
+              "status": "gewonnen",
+              "kommentar": "BTTS Nein: Kauno Zalgiris kein Tor"
+            },
+            {
+              "markt": "Trabzonspor - Ferencvárosi TC: Beide Teams treffen: Ja",
+              "quote": 1.75,
+              "status": "verloren",
+              "kommentar": "BTTS Ja: Trabzon 0 Tore (Onuachu-Header Latte, Salah-Kopfball von Def-Linie geklaert)"
+            },
+            {
+              "markt": "Motherwell FC - SC Freiburg: Unter 2.5 Tore",
+              "quote": 2.0,
+              "status": "verloren",
+              "kommentar": "Ueber 2.5: 4 Tore total - Freiburg-Rust-Muster nicht materialisiert"
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "risk",
+          "gesamtquote": 22.75,
+          "einsatz_prozent": 0.25,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "SL Benfica - AGF Aarhus: Ueber 4.5 Tore",
+              "quote": 3.0,
+              "status": "verloren",
+              "kommentar": "Ueber 4.5 verpasst: nur 4 Tore"
+            },
+            {
+              "markt": "Beşiktaş JK - FK Kauno Žalgiris: Beşiktaş Sieg zu Null",
+              "quote": 1.9,
+              "status": "gewonnen",
+              "kommentar": "Sieg zu Null: 3:0"
+            },
+            {
+              "markt": "Trabzonspor - Ferencvárosi TC: Trabzonspor Sieg (90 Min)",
+              "quote": 2.1,
+              "status": "verloren",
+              "kommentar": "Trabzon Sieg 0:1 verloren - HR08-18-1-analog realisiert"
+            },
+            {
+              "markt": "Motherwell FC - SC Freiburg: Beide Teams treffen: Nein",
+              "quote": 1.9,
+              "status": "verloren",
+              "kommentar": "BTTS Ja: Motherwell (Charles-Cook 2.) + Freiburg 3 Tore"
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "moonshot",
+          "gesamtquote": 175.5,
+          "einsatz_prozent": 0.1,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Motherwell FC - SC Freiburg: Motherwell Sieg (90 Min)",
+              "quote": 6.5,
+              "status": "verloren",
+              "kommentar": "Motherwell Sieg abgelaufen - Freiburg-Rust hielt nicht"
+            },
+            {
+              "markt": "Trabzonspor - Ferencvárosi TC: Mohamed Salah - Doppelpack (2+ Tore)",
+              "quote": 6.0,
+              "status": "verloren",
+              "kommentar": "Salah Doppelpack: 0 Tore (naeher dran mit Kopfball von Linie geklaert). Boost N/A - Salah nicht ausgewechselt bzw. Trabzon 0 Tore = Boost-Trigger inaktiv."
+            },
+            {
+              "markt": "SL Benfica - AGF Aarhus: Ueber 5.5 Tore",
+              "quote": 4.5,
+              "status": "verloren",
+              "kommentar": "Ueber 5.5 verpasst: nur 4 Tore"
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-08-19",
       "gesamt": {
