@@ -262,6 +262,7 @@ Drei Dossier-Typen, **identisches Schema**, unterschiedliches Zeitfenster.
 - **Tipp-Woche:** `/data/tipps_woche/YYYY-MM-DD.json` — Anker = Montag der Ziel-Woche, generiert Sonntag 18:00 als Vorschau für die kommende Mo-So-Woche
 - **Ergebnis-Tag:** `/data/ergebnisse/YYYY-MM-DD.json` (gleiche Struktur, Ergebnisse gefüllt)
 - **Lessons:** `/data/lessons.json`
+- **Saisonwetten:** `/data/saisonwetten.json` (+ `.js`-Wrapper `window.__MIESMUSCHEL_SAISONWETTEN`) — **MANUELL gepflegt, NICHT auto-generiert.** Langzeit-/Outright-Wetten (Meister/CL-Sieger), einmal zu Saisonbeginn gesetzt. Routinen dürfen die Datei NICHT überschreiben. Bei Bedarf (Wette entschieden / Quote verschoben) manuell updaten. PWA-Tab "🏆 Saison".
 - **Statistik:** `/data/statistik.js` (Script-Datei, setzt `window.__MIESMUSCHEL_STAT`)
 - **API-Keys:** `/data/config.json` (NICHT committen, steht in `.gitignore`)
 

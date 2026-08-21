@@ -62,6 +62,58 @@ function showSection(id, btn) {
 
   // Historie-Tab on demand rendern
   if (id === 'historie') renderHistorie();
+  if (id === 'saison') renderSaisonwetten();
+}
+
+/* ==========================================================================
+   Saisonwetten (Langzeit-/Outright-Wetten) — liest window.__MIESMUSCHEL_SAISONWETTEN
+   ========================================================================== */
+function renderSaisonwetten() {
+  const root = document.getElementById('saison-content');
+  if (!root) return;
+  const data = window.__MIESMUSCHEL_SAISONWETTEN;
+  if (!data || !Array.isArray(data.wetten) || data.wetten.length === 0) {
+    root.innerHTML = `<div class="historie-empty"><h3>🏆 Noch keine Saisonwetten</h3>
+      <p>Wird zu Saisonbeginn einmal gesetzt (data/saisonwetten.json).</p></div>`;
+    return;
+  }
+  const RANG = { safe: 0, value: 1, wackel: 2, risiko: 3, risk: 3, moonshot: 4 };
+  const wetten = data.wetten.slice().sort((a, b) => (RANG[a.kategorie] ?? 9) - (RANG[b.kategorie] ?? 9));
+
+  const cards = wetten.map(w => {
+    let kat = (w.kategorie || 'value').toLowerCase();
+    if (kat === 'risk') kat = 'risiko';
+    const cssKat = kat === 'risiko' ? 'risk' : kat;   // CSS nutzt .risk
+    const label = kat.toUpperCase();
+    const euro = w.empfohlener_einsatz_euro != null ? `${fmtNum(w.empfohlener_einsatz_euro)} €` : `${w.empfohlener_einsatz_prozent || 0}%`;
+    return `
+      <div class="tip-card ${cssKat}" style="margin-bottom:16px;">
+        <div class="tip-header">
+          <div class="tip-meta">
+            <div class="tip-num">${escapeHtml(label)} · ${escapeHtml(w.wettbewerb || '')}</div>
+            <div class="tip-pick">${escapeHtml(w.markt)}</div>
+            <div class="tip-badges"><span class="tip-badge ${cssKat}-tag">${escapeHtml(label)}</span></div>
+          </div>
+          <div class="tip-quote-box">${fmtQuote(w.quote)}<span class="tip-quote-sub">${escapeHtml(euro)}</span></div>
+        </div>
+        <div class="tip-body">
+          <div class="analysis-block">
+            <p style="color:#b8d4e8;font-size:0.92em;line-height:1.7;">${escapeHtml(w.begruendung || '')}</p>
+          </div>
+        </div>
+      </div>`;
+  }).join('');
+
+  root.innerHTML = `
+    <h2>🏆 Saisonwetten ${escapeHtml(data.saison || '')}</h2>
+    <div class="box orange"><strong>Einmal setzen, läuft die ganze Saison.</strong> ${escapeHtml(data.hinweis || '')}</div>
+    <div class="rating-legend">
+      <div class="rating-legend-item"><span class="rating rating-safe">SAFE</span><span>Fast sicher (Favorit)</span></div>
+      <div class="rating-legend-item"><span class="rating rating-value">VALUE</span><span>Quote über fairer Wahrscheinlichkeit</span></div>
+      <div class="rating-legend-item"><span class="rating rating-wackel">WACKEL</span><span>Kann-muss-nicht</span></div>
+    </div>
+    ${cards}
+    <div class="box" style="margin-top:8px;font-size:0.82em;color:#8fb4d8;">Quoten Stand ${escapeHtml(data.stand || '')} — bei bet365 DE live prüfen.</div>`;
 }
 
 /* ---- Dynamischer Header + Footer aus aktuellem tipps.json ---- */

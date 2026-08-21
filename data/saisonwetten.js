@@ -1,0 +1,61 @@
+// Auto-generiert aus data/saisonwetten.json
+window.__MIESMUSCHEL_SAISONWETTEN = {
+  "stand": "2026-08-21",
+  "saison": "2026/27",
+  "titel": "Saisonwetten 2026/27 — einmal setzen, läuft die ganze Saison",
+  "hinweis": "Langzeit-/Outright-Wetten (Meister, CL-Sieger). Einmal zu Saisonbeginn gesetzt. Das ist ein MENÜ — such dir aus was dir gefällt, du musst nicht alle nehmen (Arsenal + City schließen sich z.B. gegenseitig aus). Quoten Stand 21.08.2026 (Squawka/Oddspedia/bet365) — bei bet365 DE live prüfen, können sich verschoben haben. Kapitalbindung ~9 Monate → bewusst kleine Einsätze.",
+  "wetten": [
+    {
+      "markt": "Bayern München — Deutscher Meister",
+      "wettbewerb": "Bundesliga",
+      "quote": 1.15,
+      "kategorie": "safe",
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Der sicherste Langzeit-Titel überhaupt: Titelverteidiger, ~89% Buchmacher-Wahrscheinlichkeit, mit riesigem Abstand dominanteste Mannschaft der Liga (Kompany-Ära). Ehrlicher Nachteil: nur +15% Rendite bei ~9 Monaten Kapitalbindung — eher 'Banker fürs gute Gefühl' als echter Value.",
+      "quelle": "https://www.squawka.com/en/outright-markets/bundesliga-winner-odds/"
+    },
+    {
+      "markt": "Arsenal — Premier-League-Meister",
+      "wettbewerb": "Premier League",
+      "quote": 2.3,
+      "kategorie": "value",
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung": "Titelverteidiger (85 Pkt letzte Saison, 7 vor City) und klarer Markt-Favorit (~44%). Bei ~2.30 leicht über der fairen Quote — stärkster, eingespielter Kader-Kern der Liga. Bester VALUE-Titel-Tipp der Saison.",
+      "quelle": "https://oddspedia.com/insights/football/premier-league-winner-odds"
+    },
+    {
+      "markt": "Manchester City — Premier-League-Meister",
+      "wettbewerb": "Premier League",
+      "quote": 4.0,
+      "kategorie": "wackel",
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "City ist immer Titel-Kandidat — wenn Arsenal patzt, der logische Profiteur (~22%). Kann-muss-nicht: solide Gegen-Wette zum Arsenal-Fokus, aber kein Selbstläufer mehr wie in den Guardiola-Hochzeiten. Achtung: schließt Arsenal-Wette aus.",
+      "quelle": "https://oddspedia.com/insights/football/premier-league-winner-odds"
+    },
+    {
+      "markt": "Paris Saint-Germain — Champions-League-Sieger",
+      "wettbewerb": "Champions League",
+      "quote": 6.0,
+      "kategorie": "risiko",
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Titelverteidiger + Favorit, Back-to-Back-CL-Sieger — trotzdem klar spekulativ: die CL ist eine K.o.-Lotterie, ein dritter Titel in Folge ist historisch extrem selten (zuletzt Real 2016-18). 6.0 = ~17%, faire Favoriten-Quote, aber Varianz brutal.",
+      "quelle": "https://oddspedia.com/insights/football/champions-league-winner-odds"
+    },
+    {
+      "markt": "Bayer Leverkusen — Deutscher Meister",
+      "wettbewerb": "Bundesliga",
+      "quote": 17.0,
+      "kategorie": "moonshot",
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 2.5,
+      "begruendung": "Die 2023/24-Schock-Meister — haben bewiesen, dass es gegen Bayern geht. 17.0 = ~6%. Reine Lotterie/Spaß-Wette auf eine Wiederholung des Wunders. Kleiner Einsatz, großer Traum.",
+      "quelle": "https://tips.gg/article/german-bundesliga-winner-odds-2026-27/"
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
+}
+;
