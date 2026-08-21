@@ -101,7 +101,9 @@ jobs:
           git add data/tipps/ data/tipps.js data/tipps_wochenende/ data/tipps_wochenende.js data/tipps_woche/ data/tipps_woche.js 2>/dev/null || true
           if ! git diff --cached --quiet; then
             git commit -m "Schema-Fix + .js regen via Action"
-            git push origin main
+            # Push mit Rebase-Retry: sonst bleibt bei Push-Race der .js-Wrapper haengen
+            # (Ursache fuer stale tipps.js seit 06.08.) - continue-on-error verschluckte das.
+            git push origin main || (git pull --rebase origin main && git push origin main)
           else
             echo "Nichts zu committen"
           fi

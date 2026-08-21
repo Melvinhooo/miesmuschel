@@ -446,14 +446,25 @@ function renderRisikoTab(data, targetId = 'risiko') {
     return;
   }
 
-  const stufeEmoji = { safe: '🟢', value: '🟡', wackel: '🟠', risk: '🔴', moonshot: '🔥' };
+  const stufeEmoji = { safe: '🟢', value: '🟡', balance: '🟡', wackel: '🟠', risk: '🔴', moonshot: '🔥' };
   const kombiContainerId = `${targetId}-kombi-wrap`;
 
   let tabs = `<div class="risk-tabs" data-scope="${targetId}">`;
   let contents = '';
   kombis.forEach((k, idx) => {
     const active = idx === 0 ? ' active' : '';
-    const stufe = k.stufe || k.kategorie || 'value';
+    // Kategorie ableiten: explizit -> aus Name -> aus Reihenfolge (safe/balance/risk/moonshot).
+    // So sind Kombis nicht mehr alle gelb wenn das kategorie-Feld in den Daten fehlt.
+    let stufe = (k.kategorie || k.stufe || '').toLowerCase();
+    if (stufe === 'risiko') stufe = 'risk';
+    if (!stufe) {
+      const n = (k.name || '').toLowerCase();
+      stufe = n.includes('safe') ? 'safe'
+            : n.includes('balance') ? 'balance'
+            : n.includes('moonshot') ? 'moonshot'
+            : (n.includes('risiko') || n.includes('risk')) ? 'risk'
+            : (['safe', 'balance', 'risk', 'moonshot'][idx] || 'value');
+    }
     const emoji = stufeEmoji[stufe] || '⚽';
     tabs += `<div class="risk-tab${active}" onclick="showRiskKombi(${idx}, '${targetId}')">
       <h4>${emoji} ${fmtQuote(k.gesamtquote)}x</h4>
@@ -463,23 +474,35 @@ function renderRisikoTab(data, targetId = 'risiko') {
     // Beine (neu) ODER tipps (alt) lesen
     const beine = k.beine || k.tipps || [];
     const legs = beine.map(leg => {
-      // Match-Titel: spiel_id->Spiel suchen, sonst Prefix aus markt, sonst leer
-      let matchTitle = '';
-      if (leg.spiel_id) {
+      // Match-Titel: spiel_label bevorzugt, sonst via spiel_id aufloesen
+      let matchTitle = leg.spiel_label || '';
+      if (!matchTitle && leg.spiel_id) {
         const s = data.spiele.find(sp => sp.id === leg.spiel_id);
         if (s) matchTitle = `${s.heim} vs. ${s.gast}`;
       }
-      if (!matchTitle && leg.markt && leg.markt.includes(':')) {
-        matchTitle = leg.markt.split(':')[0].trim();
+      // Pick-Text lesbar machen
+      let pickText = (leg.markt || '').trim();
+      if (pickText.includes(':')) {
+        const pre = pickText.split(':')[0].trim();
+        const rest = pickText.split(':').slice(1).join(':').trim();
+        const preIstSpiel = / vs\.?| [-–] /i.test(pre);   // "Salzburg vs Pafos: ..." / "A - B: ..."
+        if (preIstSpiel) {
+          if (!matchTitle) matchTitle = pre;
+          pickText = rest;
+        } else if (rest) {
+          // Torschuetzen-Markt "Torschuetzen Jederzeit: Spieler" -> "Torschütze Spieler (jederzeit)"
+          const t = pre.toLowerCase();
+          if (t.includes('torschuetz') || t.includes('torschütz') || t.includes('scorer') || t.includes('trifft')) {
+            pickText = `Torschütze ${rest} (jederzeit)`;
+          }
+          // sonst: pickText bleibt der volle Markt-Text (z.B. "Beide Teams treffen: Nein") - schon lesbar
+        }
       }
-      // Pick-Text: bei "Prefix: Pick" nur den Pick-Teil
-      const pickText = (leg.markt || '').includes(':')
-        ? leg.markt.split(':').slice(1).join(':').trim()
-        : (leg.markt || '');
+      if (!pickText) pickText = '(kein Markt)';
       const tipLine = matchTitle
         ? `<div class="combi-leg-match">${escapeHtml(matchTitle)}</div>
            <div class="combi-leg-tip">${escapeHtml(pickText)}</div>`
-        : `<div class="combi-leg-match">${escapeHtml(leg.markt || '(kein Markt)')}</div>`;
+        : `<div class="combi-leg-match">${escapeHtml(pickText)}</div>`;
       const reason = leg.kurz_begruendung
         ? `<div class="combi-leg-reason">${escapeHtml(leg.kurz_begruendung)}</div>`
         : '';

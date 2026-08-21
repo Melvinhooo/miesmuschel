@@ -149,7 +149,17 @@ Tipps-/Analyse-Subagents übernehmen die `id` **wortgleich** aus diesem File —
 
 ### Schritt 2: Squad-Verifikation pro Spiel (KRITISCH)
 
-**Für WM-Spiele:**
+**Für Vereins-Spiele (Hauptfall) — SOMMER-TRANSFERS ZWINGEND PRÜFEN:**
+- **Aktuellen Saison-Kader 2026/27 laden** (NICHT aus dem Gedächtnis!) über MIN 1 Quelle:
+  - `https://www.transfermarkt.de/<verein>/startseite/verein/<id>` (Kader aktuelle Saison)
+  - `https://www.kicker.de/<verein>/kader` bzw. offizielle Klub-Site
+- **TRANSFER-CHECK (Pflicht):** Im Sommer wechseln Spieler. Ein Spieler, der den Verein VERLASSEN hat, darf NIE als Tipp für diesen Verein auftauchen. Umgekehrt: Neuzugänge einbeziehen.
+  - WebSearch bei jedem Top-Stürmer/Offensiv-Spieler: `<Spieler> transfer 2026` bzw. `<Verein> Kader 2026/27 Zugänge Abgänge`.
+  - **Konkretes Beispiel-Fail (Sommer 2026):** Karim Adeyemi ist von Borussia Dortmund zu Barcelona gewechselt → darf NICHT mehr als Dortmund-Torschütze getippt werden. Solche Fälle aktiv ausschließen.
+  - Nur Spieler in den Squad-File schreiben, deren aktueller Verein per Quelle bestätigt der tippende Verein ist. Im `verifiziert_via` die Quelle mit aktuellem Verein hinterlegen.
+- Pro Top-Spieler: Name + Position + Saison-Tore 2026/27 + letzte 5 Spiele Tore + aktueller Verein (verifiziert).
+
+**Für WM-/EM-Spiele (nur falls Turnier aktiv):**
 - **WM-Kader (26 Spieler)** verifizieren über MIN 2 Quellen:
   - `https://www.fifa.com/de/tournaments/mens/worldcup/canadamexicousa2026/teams/<verband>/squad`
   - `https://www.kicker.de/wm-2026/kader/<verband>`

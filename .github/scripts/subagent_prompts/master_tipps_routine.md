@@ -91,6 +91,17 @@ Lese alle `data/analyse/*_*.json` für die heutigen Spiele:
 }
 ```
 
+### Kombi-Bein-Format (PFLICHT — sonst sieht die PWA komisch aus)
+
+Jede Kombi MUSS ein `kategorie`-Feld haben (`safe`/`balance`/`risk`/`moonshot`) — sonst rendert die App alle Kombis gelb.
+
+Jedes Bein braucht: `spiel_id`, `spiel_label` (z.B. "Dortmund vs Bayern"), `markt`, `quote`, `kategorie`. Der `markt`-Text muss **natürlich lesbar** sein — KEIN Doppelpunkt-Präfix wie "Torschuetzen Jederzeit: Konate". Richtig:
+- Torschütze: `"Konate Torschütze jederzeit"` (NICHT "Torschuetzen Jederzeit: Konate")
+- Sieg: `"Sieg Bayern"` bzw. `"Bayern Sieg (90 Min)"`
+- Tor-Total: `"Über 2.5 Tore"`, `"Unter 3.5 Tore"`
+- BTTS: `"Beide Teams treffen"`
+- Doppelte Chance: `"Dortmund oder Remis (Doppelte Chance)"`
+
 ### Hartregeln für Kombi-Bau
 
 **Safe-Kombi:** 3 Beine, Quote 3-5x, alle SAFE oder VALUE-Sieg-Tipps aus 3 verschiedenen Spielen

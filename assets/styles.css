@@ -125,6 +125,7 @@ h4 { color: #ffd700; font-size: 1.05em; margin: 10px 0 6px 0; }
 }
 .tip-card.safe::before { background: linear-gradient(180deg, #3ec98a, #2a9e6a); }
 .tip-card.value::before { background: linear-gradient(180deg, #ffd700, #ff9800); }
+.tip-card.balance::before { background: linear-gradient(180deg, #ffd700, #ff9800); }
 .tip-card.wackel::before { background: linear-gradient(180deg, #ffa94d, #e84545); }
 .tip-card.risk::before { background: linear-gradient(180deg, #e84545, #9c27b0); }
 .tip-card.moonshot::before { background: linear-gradient(180deg, #9c27b0, #e89dd6, #ffd700); }
