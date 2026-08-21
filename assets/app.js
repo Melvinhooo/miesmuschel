@@ -62,66 +62,8 @@ function showSection(id, btn) {
 
   // Historie-Tab on demand rendern
   if (id === 'historie') renderHistorie();
-  if (id === 'saison') renderSaisonwetten();
 }
 
-/* ==========================================================================
-   Saisonwetten (Langzeit-/Outright-Wetten) — liest window.__MIESMUSCHEL_SAISONWETTEN
-   ========================================================================== */
-function renderSaisonwetten() {
-  const root = document.getElementById('saison-content');
-  if (!root) return;
-  const data = window.__MIESMUSCHEL_SAISONWETTEN;
-  if (!data || !Array.isArray(data.wetten) || data.wetten.length === 0) {
-    root.innerHTML = `<div class="historie-empty"><h3>🏆 Noch keine Saisonwetten</h3>
-      <p>Wird zu Saisonbeginn einmal gesetzt (data/saisonwetten.json).</p></div>`;
-    return;
-  }
-  const RANG = { safe: 0, value: 1, wackel: 2, risiko: 3, risk: 3, moonshot: 4 };
-  const wetten = data.wetten.slice().sort((a, b) => (RANG[a.kategorie] ?? 9) - (RANG[b.kategorie] ?? 9));
-
-  const cards = wetten.map(w => {
-    let kat = (w.kategorie || 'value').toLowerCase();
-    if (kat === 'risk') kat = 'risiko';
-    const cssKat = kat === 'risiko' ? 'risk' : kat;   // CSS nutzt .risk
-    const label = kat.toUpperCase();
-    const euro = w.empfohlener_einsatz_euro != null ? `${fmtNum(w.empfohlener_einsatz_euro)} €` : `${w.empfohlener_einsatz_prozent || 0}%`;
-    return `
-      <div class="tip-card ${cssKat}" style="margin-bottom:16px;">
-        <div class="tip-header">
-          <div class="tip-meta">
-            <div class="tip-num">${escapeHtml(label)} · ${escapeHtml(w.wettbewerb || '')}</div>
-            <div class="tip-pick">${escapeHtml(w.markt)}</div>
-            <div class="tip-badges"><span class="tip-badge ${cssKat}-tag">${escapeHtml(label)}</span></div>
-          </div>
-          <div class="tip-quote-box">${fmtQuote(w.quote)}<span class="tip-quote-sub">${escapeHtml(euro)}</span></div>
-        </div>
-        <div class="tip-body">
-          <div class="analysis-block">
-            <p style="color:#b8d4e8;font-size:0.92em;line-height:1.7;">${escapeHtml(w.begruendung || '')}</p>
-          </div>
-        </div>
-      </div>`;
-  }).join('');
-
-  root.innerHTML = `
-    <h2>🏆 Saisonwetten ${escapeHtml(data.saison || '')}</h2>
-    <div class="box orange"><strong>Einmal setzen, läuft die ganze Saison.</strong> ${escapeHtml(data.hinweis || '')}</div>
-    <div class="rating-legend">
-      <div class="rating-legend-item"><span class="rating rating-safe">SAFE</span><span>Fast sicher (Favorit)</span></div>
-      <div class="rating-legend-item"><span class="rating rating-value">VALUE</span><span>Quote über fairer Wahrscheinlichkeit</span></div>
-      <div class="rating-legend-item"><span class="rating rating-wackel">WACKEL</span><span>Kann-muss-nicht</span></div>
-    </div>
-    ${cards}
-    ${Array.isArray(data.geplant_ab_september) && data.geplant_ab_september.length ? `
-      <div class="box" style="margin-top:8px;border-left:3px solid #8fb4d8;">
-        <strong>⏳ Kommt im September:</strong>
-        <ul style="margin:6px 0 0;padding-left:18px;color:#b8d4e8;font-size:0.88em;">
-          ${data.geplant_ab_september.map(g => `<li>${escapeHtml(g)}</li>`).join('')}
-        </ul>
-      </div>` : ''}
-    <div class="box" style="margin-top:8px;font-size:0.82em;color:#8fb4d8;">Quoten Stand ${escapeHtml(data.stand || '')} — bei bet365 DE live prüfen.</div>`;
-}
 
 /* ---- Dynamischer Header + Footer aus aktuellem tipps.json ---- */
 (function renderHeaderAndFooter() {
@@ -394,9 +336,14 @@ function fmtTime(iso) {
 function renderSpieleTab(data, targetId = 'spiele') {
   const sec = document.getElementById(targetId);
   if (!sec) return;
-  const tagDatum = new Date(data.datum + 'T00:00:00').toLocaleDateString('de-DE', { weekday: 'long', day: 'numeric', month: 'long' });
-  let html = `<h2>📊 Spiele-Analyse — ${escapeHtml(tagDatum)}</h2>`;
-  html += `<div class="box orange"><strong>⏰ ${data.spiele.length} Spiele · erstellt ${escapeHtml((data.erstellt_am||'').replace('T',' '))}.</strong> Quoten bei bet365 live prüfen, sie können sich bis zum Anpfiff noch bewegen.</div>`;
+  const istSaison = !!data.ist_saison;
+  const tagDatum = istSaison ? '' : new Date(data.datum + 'T00:00:00').toLocaleDateString('de-DE', { weekday: 'long', day: 'numeric', month: 'long' });
+  let html = istSaison
+    ? `<h2>🏆 Saisonwetten ${escapeHtml(data.saison || '')} — Titelrennen</h2>`
+    : `<h2>📊 Spiele-Analyse — ${escapeHtml(tagDatum)}</h2>`;
+  html += istSaison
+    ? `<div class="box orange"><strong>Langzeit-Wetten über ${data.spiele.length} Wettbewerbe.</strong> Einmal setzen, läuft die ganze Saison. Quoten bei bet365 DE live prüfen. Einzeltipps + Kombis in den anderen Tabs.</div>`
+    : `<div class="box orange"><strong>⏰ ${data.spiele.length} Spiele · erstellt ${escapeHtml((data.erstellt_am||'').replace('T',' '))}.</strong> Quoten bei bet365 live prüfen, sie können sich bis zum Anpfiff noch bewegen.</div>`;
   html += `<div class="rating-legend">
     <div class="rating-legend-item"><span class="rating rating-safe">SAFE</span><span><strong>Fast ne Garantie</strong> — sollte immer reinkommen (~75-90%)</span></div>
     <div class="rating-legend-item"><span class="rating rating-value">VALUE</span><span><strong>Mitnehmen</strong> — Quote höher als faire Wahrscheinlichkeit</span></div>
@@ -409,9 +356,9 @@ function renderSpieleTab(data, targetId = 'spiele') {
         <div class="game-header">
           <div>
             <div class="league-tag">${escapeHtml(s.liga)}</div>
-            <div class="game-title">${escapeHtml(s.heim)} vs. ${escapeHtml(s.gast)}</div>
+            <div class="game-title">${s.titelrennen ? escapeHtml(s.titel || s.liga) : escapeHtml(s.heim) + ' vs. ' + escapeHtml(s.gast)}</div>
           </div>
-          <div class="game-meta">${fmtTime(s.anstoss)}</div>
+          ${s.titelrennen ? '' : `<div class="game-meta">${fmtTime(s.anstoss)}</div>`}
         </div>
         ${s.kontext_check_status === 'FAIL' ? `
           <div style="background:rgba(232,69,69,0.15);border-left:3px solid #e84545;padding:10px 14px;margin:10px 0 4px;border-radius:6px;color:#ffb8b8;font-size:0.88em;">
@@ -638,6 +585,16 @@ function _modeMeta(mode) {
       emptyMessage: 'Noch kein Wochen-Dossier verfügbar — wird automatisch jeden <strong>Sonntag um 18:00</strong> für die kommende Mo–So-Woche generiert.',
     };
   }
+  if (mode === 'saison') {
+    const data = window.__MIESMUSCHEL_SAISONWETTEN;
+    if (!data || !Array.isArray(data.spiele)) return null;
+    return {
+      data,
+      headerLabel: `Saisonwetten ${data.saison || ''}`,
+      dateLineText: `🏆 Saisonwetten ${data.saison || ''} — einmal setzen, läuft die ganze Saison`,
+      emptyMessage: 'Noch keine Saisonwetten gesetzt.',
+    };
+  }
   // taeglich
   const data = window.__MIESMUSCHEL_TIPPS;
   if (!data || !Array.isArray(data.spiele)) return null;
@@ -672,7 +629,7 @@ function setMode(mode, btn) {
     const emptyMsg = (meta && meta.emptyMessage) || 'Noch kein Dossier für diesen Zeitraum.';
     const empty = `
       <div style="text-align:center;padding:40px 20px;color:#8fb4d8;">
-        <h2 style="font-family:'Fraunces',serif;color:#e89dd6;">${mode === 'wochenende' ? '🌊 Wochenend-Vorschau' : mode === 'woche' ? '📆 Wochen-Vorschau' : '📊 Tagesdossier'}</h2>
+        <h2 style="font-family:'Fraunces',serif;color:#e89dd6;">${mode === 'wochenende' ? '🌊 Wochenend-Vorschau' : mode === 'woche' ? '📆 Wochen-Vorschau' : mode === 'saison' ? '🏆 Saisonwetten' : '📊 Tagesdossier'}</h2>
         <p style="margin-top:14px;font-size:0.95em;">${emptyMsg}</p>
       </div>`;
     ['spiele', 'einzel', 'risiko'].forEach(id => {
@@ -698,7 +655,8 @@ function setMode(mode, btn) {
   const n_einzel = (data.einzeltipps || []).length;
   const n_kombi = (data.kombis || []).length;
   if (subtitle) {
-    subtitle.textContent = `${meta.headerLabel} · ${n_spiele} Spiele · ${n_einzel} Einzeltipps · ${n_kombi} Kombis`;
+    const spieleWort = mode === 'saison' ? 'Wettbewerbe' : 'Spiele';
+    subtitle.textContent = `${meta.headerLabel} · ${n_spiele} ${spieleWort} · ${n_einzel} Einzeltipps · ${n_kombi} Kombis`;
   }
   if (dateLine) {
     let txt = meta.dateLineText;
@@ -715,26 +673,19 @@ setMode('taeglich');
 
 // Event-Delegation als robuste Fallback-Click-Logik (falls onclick-attribute auf
 // einigen iOS-Versionen zickt). Beide Wege fuehren zu setMode().
-document.addEventListener('DOMContentLoaded', () => {
-  const bar = document.querySelector('.mode-bar');
-  if (!bar) return;
-  bar.addEventListener('click', (e) => {
-    const btn = e.target.closest('.mode-btn');
-    if (!btn || !btn.dataset.mode) return;
-    setMode(btn.dataset.mode, btn);
+function _bindModeBars() {
+  document.querySelectorAll('.mode-bar').forEach(bar => {
+    if (bar.dataset.boundClick) return;
+    bar.dataset.boundClick = '1';
+    bar.addEventListener('click', (e) => {
+      const btn = e.target.closest('.mode-btn');
+      if (!btn || !btn.dataset.mode) return;
+      setMode(btn.dataset.mode, btn);
+    });
   });
-});
-// Falls DOMContentLoaded schon gefeuert hat (Script ist am Ende)
-(() => {
-  const bar = document.querySelector('.mode-bar');
-  if (!bar || bar.dataset.boundClick) return;
-  bar.dataset.boundClick = '1';
-  bar.addEventListener('click', (e) => {
-    const btn = e.target.closest('.mode-btn');
-    if (!btn || !btn.dataset.mode) return;
-    setMode(btn.dataset.mode, btn);
-  });
-})();
+}
+document.addEventListener('DOMContentLoaded', _bindModeBars);
+_bindModeBars();  // Falls DOMContentLoaded schon gefeuert hat (Script ist am Ende)
 
 
 function renderSaisonBlock(stat) {

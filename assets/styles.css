@@ -80,6 +80,18 @@ h1 {
               inset 0 0 0 1px rgba(255, 255, 255, 0.12);
   font-weight: 700;
 }
+/* Saison als eigene volle Modus-Zeile unter Taeglich/Wochenende/Woche */
+.mode-bar-saison { margin-top: -8px; }
+.mode-btn-saison {
+  background: rgba(255, 215, 0, 0.10);
+  border-color: rgba(255, 215, 0, 0.30);
+}
+.mode-btn-saison.active {
+  background: linear-gradient(135deg, #ffd700, #ff9800);
+  color: #001f3f;
+  border-color: rgba(255, 255, 255, 0.45);
+  box-shadow: 0 4px 16px rgba(255, 215, 0, 0.4), inset 0 0 0 1px rgba(255, 255, 255, 0.15);
+}
 nav {
   display: flex; gap: 10px; margin-bottom: 25px;
   flex-wrap: wrap; justify-content: center;

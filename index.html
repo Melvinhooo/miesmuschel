@@ -30,13 +30,15 @@
   <button class="mode-btn" data-mode="wochenende" onclick="setMode('wochenende', this)">🌊 Wochenende</button>
   <button class="mode-btn" data-mode="woche" onclick="setMode('woche', this)">📆 Woche</button>
 </div>
+<div class="mode-bar mode-bar-saison">
+  <button class="mode-btn mode-btn-saison" data-mode="saison" onclick="setMode('saison', this)">🏆 Saisonwetten 2026/27</button>
+</div>
 
 <nav>
   <button class="nav-btn active" onclick="showSection('spiele', this)">📊 Spiele-Analyse</button>
   <button class="nav-btn" onclick="showSection('einzel', this)">🎯 Einzeltipps</button>
   <button class="nav-btn" onclick="showSection('risiko', this)">🚀 Risiko-Kombis</button>
   <button class="nav-btn" onclick="showSection('historie', this)">📈 Historie</button>
-  <button class="nav-btn" onclick="showSection('saison', this)">🏆 Saison</button>
   <button class="nav-btn" onclick="showSection('info', this)">ℹ️ Regeln</button>
 </nav>
 
@@ -1315,9 +1317,6 @@ Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress �
       <p>Spiele ein paar Tipps ab, lass <code>scripts/ergebnisse_holen.bat</code> laufen, dann erscheinen hier deine Kennzahlen.</p>
     </div>
   </div>
-</section>
-<section id="saison">
-  <div id="saison-content"></div>
 </section>
 <footer>
 <div class="shell" style="font-size:2em;">🐚</div>
