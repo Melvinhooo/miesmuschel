@@ -239,9 +239,22 @@ def main():
     payload_dict['url'] = 'https://melvinhooo.github.io/miesmuschel/'
     print(f"Body: {payload_dict['body']}")
 
-    sub_str = os.environ.get('PUSH_SUB', '').strip()
+    # Subscription-Quelle: bevorzugt die Repo-Datei data/push_sub.json (leicht per
+    # Commit aktualisierbar wenn die PWA neu subscribed), sonst Fallback auf das
+    # PUSH_SUB-Secret. Der geheime VAPID_PRIVATE-Key bleibt separat - ohne ihn kann
+    # die (halb-oeffentliche) Subscription NICHT missbraucht werden.
+    sub_str = ''
+    sub_file = os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'push_sub.json')
+    if os.path.exists(sub_file):
+        try:
+            sub_str = open(sub_file, encoding='utf-8').read().strip()
+            print("Subscription aus data/push_sub.json geladen")
+        except OSError:
+            sub_str = ''
     if not sub_str:
-        print("FEHLER: PUSH_SUB Secret fehlt")
+        sub_str = os.environ.get('PUSH_SUB', '').strip()
+    if not sub_str:
+        print("FEHLER: keine Subscription (data/push_sub.json fehlt UND PUSH_SUB-Secret leer)")
         return 1
     sub = json.loads(sub_str)
 
