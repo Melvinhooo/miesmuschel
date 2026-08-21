@@ -1,9 +1,16 @@
 {
-  "kasse_euro": 550,
-  "stand": "2026-05-04",
+  "kasse_euro": 1000,
+  "stand": "2026-08-22",
   "basis_kasse_euro": 1000,
   "auszahlungs_schwelle_euro": 200,
-  "hinweis": "Aktueller bet365-Kontostand. Bei Aenderung HIER zentral updaten - Routinen lesen es vor jedem Lauf und passen Einsatz-Empfehlungen je nach Kasse-Stufe an.",
+  "hinweis": "Aktueller bet365-Kontostand. Bei Aenderung HIER zentral updaten - Routinen lesen es vor jedem Lauf und passen Einsatz-Empfehlungen je nach Kasse-Stufe an. Fuer Saison-ROI: siehe saison-Block (Start-Kasse vs aktueller Stand).",
+
+  "saison": {
+    "name": "2026/27",
+    "start_datum": "2026-08-22",
+    "start_kasse_euro": 1000,
+    "kommentar": "Frischer Saison-Start. Saison-€-Ergebnis = kasse_euro - start_kasse_euro. Saison-Grenzen fuer die Statistik-Segmentierung stehen in data/saisons.json."
+  },
 
   "stufen_modell": {
     "stufe_1_aufbau": {
@@ -16,13 +23,13 @@
       "kombi_balance_prozent": 0.8,
       "kombi_risiko_prozent": 0.25,
       "kombi_moonshot_prozent": 0.1,
-      "kommentar": "Bankroll-Aufbau-Phase. Konservativ. Aktuell bei 550€."
+      "kommentar": "Bankroll-Aufbau-Phase. Konservativ. Saison-Start 2026/27 bei 1000€ - bewusst hier gehalten (siehe stufe_2_freigeschaltet)."
     },
     "stufe_2_skim": {
       "kasse_min": 1000,
       "kasse_max": null,
       "modus": "Aggressiv 3-5% bei Quoten 1.80-2.30 (Half-Kelly)",
-      "voraussetzung": "rolling 30 Tage ROI > +5% laut data/statistik.json. Sonst bleibt Stufe 1 aktiv egal wie hoch die Kasse ist.",
+      "voraussetzung": "kasse >= 1000 UND stufe_2_freigeschaltet == true. Freischaltung erst wenn die AKTUELLE Saison (2026/27) selbst rolling 30 Tage ROI > +5% zeigt - NICHT auf Basis der Vorperiode/WM. Bis dahin bleibt Stufe 1 aktiv.",
       "einzel_safe_value_prozent": [3.0, 5.0],
       "einzel_safe_value_quoten_zielrange": [1.80, 2.30],
       "einzel_wackel_prozent": 1.0,
@@ -30,9 +37,12 @@
       "kombi_balance_prozent": 0.8,
       "kombi_risiko_prozent": 0.25,
       "kombi_moonshot_prozent": 0.1,
-      "kommentar": "User-Strategie 04.05.: bei 1000€ Kasse 100€-Einzeltipps auf solide 1.80-2.30-Quoten setzen. Half-Kelly bei 60% Hitrate."
+      "kommentar": "User-Strategie: bei 1000€ Kasse 100€-Einzeltipps auf solide 1.80-2.30-Quoten. Half-Kelly bei 60% Hitrate. Erst nach Saison-Edge-Bestaetigung."
     }
   },
+
+  "stufe_2_freigeschaltet": false,
+  "stufe_2_freischalt_regel": "Auf true setzen sobald data/statistik.json saisons.liste['2026_27'] rolling ~30 Tage > +5% ROI zeigt (Saison-eigener Edge bestaetigt). Dann greift Stufe 2 automatisch. User kann jederzeit manuell freischalten.",
 
   "auszahlungs_strategie": {
     "trigger": "Jedes Mal wenn Kasse >= basis_kasse_euro + auszahlungs_schwelle_euro -> auszahlungs_schwelle_euro auszahlen",
@@ -41,6 +51,6 @@
   },
 
   "aktuelle_stufe": 1,
-  "naechster_meilenstein_euro": 1000,
-  "fortschritt_zur_stufe_2_prozent": 55.0
+  "naechster_meilenstein_euro": 1200,
+  "fortschritt_zur_stufe_2_prozent": 100.0
 }

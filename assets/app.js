@@ -655,6 +655,44 @@ document.addEventListener('DOMContentLoaded', () => {
 })();
 
 
+function renderSaisonBlock(stat) {
+  const s = stat && stat.saisons;
+  if (!s) return '';
+  const k = s.kasse || {};
+  const liste = s.liste || [];
+  const aktuell = liste.find(x => x.ist_aktuell);
+  const vorher = liste.filter(x => !x.ist_aktuell);
+
+  let kasseCard = '';
+  if (k && k.start_kasse_euro != null) {
+    const stufeTxt = k.stufe_2_freigeschaltet
+      ? 'Stufe 2 (aggressiv 3-5%)'
+      : `Stufe ${k.stufe || 1} (konservativ 1-2%)`;
+    kasseCard = `
+      <div class="breakdown-card" style="border:1px solid rgba(255,215,0,0.4);">
+        <h4>💰 Saison-Kasse ${escapeHtml(k.name || '')}</h4>
+        <div class="historie-kpis">
+          <div class="kpi-tile"><div class="kpi-val">${fmtNum(k.start_kasse_euro)} €</div><div class="kpi-lbl">Start ${escapeHtml(k.start_datum || '')}</div></div>
+          <div class="kpi-tile"><div class="kpi-val">${fmtNum(k.aktuelle_kasse_euro)} €</div><div class="kpi-lbl">Aktuell</div></div>
+          <div class="kpi-tile ${klasse(k.netto_euro)}"><div class="kpi-val">${fmtSigned(k.netto_euro, ' €')}</div><div class="kpi-lbl">Saison-Gewinn</div></div>
+          <div class="kpi-tile ${klasse(k.roi_euro_prozent)}"><div class="kpi-val">${fmtSigned(k.roi_euro_prozent, '%')}</div><div class="kpi-lbl">€-ROI Saison</div></div>
+        </div>
+        <div style="color:#8fb4d8;font-size:0.8em;margin-top:8px;">${stufeTxt} · echtes Geld (bet365-Kontostand, Pflege in data/kasse.json).</div>
+      </div>`;
+  }
+
+  return `
+    <h3 style="margin-top:20px;">🏆 Saison-Bilanz</h3>
+    <p style="color:#8fb4d8;font-size:0.85em;margin:6px 0 12px;">Oben echtes Geld in der Saison-Kasse. Die ROI-Kacheln darunter sind die <strong>Skill-Kennzahl</strong> (1 Tipp = 1 Einheit, einsatz-unabhängig) — so vergleichst du saubere Trefferqualität über die Saisons.</p>
+    <div class="breakdown-grid">
+      ${kasseCard}
+      ${aktuell ? renderKpiBlock('📈 ' + aktuell.name, aktuell.bilanz) : ''}
+      ${renderKpiBlock('Σ Gesamt (all-time)', s.gesamt)}
+      ${vorher.map(v => renderKpiBlock('↩︎ ' + v.name, v.bilanz)).join('')}
+    </div>
+  `;
+}
+
 function renderHistorie() {
   const root = document.getElementById('historie-content');
   if (!root) return;
@@ -686,6 +724,8 @@ function renderHistorie() {
         ${renderKpiBlock('Gesamt', stat.gesamt)}
       </div>
     </div>
+
+    ${renderSaisonBlock(stat)}
 
     ${renderStopSignals(stat)}
 

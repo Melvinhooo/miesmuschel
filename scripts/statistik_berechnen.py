@@ -39,6 +39,8 @@ DATA_BEOB_JSON     = ROOT / "data" / "beobachtungs_ligen.json"
 DATA_BLUTER_JSON   = ROOT / "data" / "markt_bluter.json"
 DATA_GOLDGRUBEN_JSON = ROOT / "data" / "markt_goldgruben.json"
 DATA_LIGA_GOLDGRUBEN_JSON = ROOT / "data" / "liga_goldgruben.json"
+DATA_SAISONS_JSON = ROOT / "data" / "saisons.json"
+DATA_KASSE_JSON = ROOT / "data" / "kasse.json"
 
 # Beobachtungs-Liga-Schwellen
 BEOB_MIN_TIPPS = 4
@@ -498,8 +500,10 @@ def baue_tages_verlauf() -> list[dict]:
     return verlauf
 
 
-def aggregiere(entries: list[dict], ab_datum: str | None = None) -> dict:
-    """Liefert alle Aggregate fuer den gefilterten Zeitraum."""
+def aggregiere(entries: list[dict], ab_datum: str | None = None,
+               bis_datum: str | None = None) -> dict:
+    """Liefert alle Aggregate fuer den gefilterten Zeitraum [ab_datum .. bis_datum]
+    (beide inklusive, beide optional)."""
     gesamt = make_group()
     by_liga:      dict[str, dict] = {}
     by_markt:     dict[str, dict] = {}
@@ -509,6 +513,8 @@ def aggregiere(entries: list[dict], ab_datum: str | None = None) -> dict:
 
     for e in entries:
         if ab_datum and e["datum"] < ab_datum:
+            continue
+        if bis_datum and e["datum"] > bis_datum:
             continue
 
         update_group(gesamt, e["status"], e["gewinn"])
@@ -536,6 +542,88 @@ def aggregiere(entries: list[dict], ab_datum: str | None = None) -> dict:
         "nach_markt_typ":    by_markt_typ,
         "nach_quoten_range": by_range,
         "nach_kategorie":    by_kat,
+    }
+
+
+# =========================================================================
+# Saison-Segmentierung
+# =========================================================================
+
+def lade_saisons() -> dict:
+    """Liest data/saisons.json (Saison-Grenzen fuer die Statistik). Fehlt das File,
+    wird ein Default angelegt: 'Vorherige Historie' (bis 21.08.2026) + 'Saison 2026/27'
+    (ab 22.08.2026). 'ende' ist inklusive. Neue Saison: einfach Eintrag anhaengen."""
+    default = {
+        "aktuelle_saison": "2026/27",
+        "hinweis": "Saison-Grenzen fuer die Statistik-Segmentierung (statistik.json['saisons']). "
+                   "'ende' inklusive (YYYY-MM-DD). Neue Saison anlegen: Eintrag mit id/name/start/ende "
+                   "anhaengen + aktuelle_saison hochsetzen. Nichts hier loeschen - Historie bleibt.",
+        "saisons": [
+            {"id": "vorher", "name": "Vorherige Historie (Mai-Aug 2026, inkl. WM)",
+             "start": "2000-01-01", "ende": "2026-08-21"},
+            {"id": "2026_27", "name": "Saison 2026/27",
+             "start": "2026-08-22", "ende": "2027-06-30"},
+        ],
+    }
+    if DATA_SAISONS_JSON.exists():
+        try:
+            d = json.loads(DATA_SAISONS_JSON.read_text(encoding="utf-8"))
+            if d.get("saisons"):
+                return d
+        except (json.JSONDecodeError, OSError):
+            pass
+    DATA_SAISONS_JSON.write_text(json.dumps(default, ensure_ascii=False, indent=2), encoding="utf-8")
+    return default
+
+
+def lade_saison_kasse() -> dict:
+    """Liest den saison-Block + Kasse-Stand aus data/kasse.json und rechnet das echte
+    €-Saison-Ergebnis aus (aktueller Kontostand vs Saison-Start-Kasse)."""
+    if not DATA_KASSE_JSON.exists():
+        return {}
+    try:
+        k = json.loads(DATA_KASSE_JSON.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return {}
+    saison = k.get("saison") or {}
+    start = float(saison.get("start_kasse_euro") or 0)
+    aktuell = float(k.get("kasse_euro") or 0)
+    netto_euro = round(aktuell - start, 2)
+    roi_euro = round(netto_euro / start * 100, 1) if start else 0.0
+    return {
+        "name":              saison.get("name"),
+        "start_datum":       saison.get("start_datum"),
+        "start_kasse_euro":  start,
+        "aktuelle_kasse_euro": aktuell,
+        "netto_euro":        netto_euro,
+        "roi_euro_prozent":  roi_euro,
+        "stufe":             k.get("aktuelle_stufe"),
+        "stufe_2_freigeschaltet": k.get("stufe_2_freigeschaltet", False),
+    }
+
+
+def baue_saisons(entries: list[dict]) -> dict:
+    """Segmentiert die Bilanz nach Saison-Grenzen aus saisons.json + Gesamt (all-time).
+    Ergaenzt die aktuelle Saison um die echte €-Kasse-Bilanz aus kasse.json."""
+    cfg = lade_saisons()
+    kasse = lade_saison_kasse()
+    liste = []
+    for s in cfg.get("saisons", []):
+        agg = aggregiere(entries, s.get("start"), s.get("ende"))["gesamt"]
+        liste.append({
+            "id":    s.get("id"),
+            "name":  s.get("name"),
+            "start": s.get("start"),
+            "ende":  s.get("ende"),
+            "bilanz": agg,
+            "ist_aktuell": kasse.get("name") == s.get("name")
+                           or (s.get("id") or "").replace("_", "/") == cfg.get("aktuelle_saison"),
+        })
+    return {
+        "aktuelle_saison": cfg.get("aktuelle_saison"),
+        "gesamt":          aggregiere(entries)["gesamt"],
+        "kasse":           kasse,
+        "liste":           liste,
     }
 
 
@@ -568,6 +656,7 @@ def main() -> int:
         "nach_kategorie":    gesamt_agg["nach_kategorie"],
         "clv_gesamt":        clv_gesamt,
         "clv_30_tage":       clv_30d,
+        "saisons":           baue_saisons(entries),
         "tages_verlauf":     baue_tages_verlauf(),
     }
 

@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-08-21T07:15:51+00:00",
+  "letzte_berechnung": "2026-08-21T10:49:01+02:00",
   "gesamt": {
     "tipps": 455,
     "gewonnen": 231,
@@ -4398,6 +4398,68 @@ window.__MIESMUSCHEL_STAT = {
       "median": 0.0
     },
     "nach_liga": {}
+  },
+  "saisons": {
+    "aktuelle_saison": "2026/27",
+    "gesamt": {
+      "tipps": 455,
+      "gewonnen": 231,
+      "verloren": 210,
+      "push": 3,
+      "offen": 11,
+      "einsatz": 444.0,
+      "netto": 13.5,
+      "trefferquote": 52.4,
+      "roi_prozent": 3.0
+    },
+    "kasse": {
+      "name": "2026/27",
+      "start_datum": "2026-08-22",
+      "start_kasse_euro": 1000.0,
+      "aktuelle_kasse_euro": 1000.0,
+      "netto_euro": 0.0,
+      "roi_euro_prozent": 0.0,
+      "stufe": 1,
+      "stufe_2_freigeschaltet": false
+    },
+    "liste": [
+      {
+        "id": "vorher",
+        "name": "Vorherige Historie (Mai-Aug 2026, inkl. WM)",
+        "start": "2000-01-01",
+        "ende": "2026-08-21",
+        "bilanz": {
+          "tipps": 455,
+          "gewonnen": 231,
+          "verloren": 210,
+          "push": 3,
+          "offen": 11,
+          "einsatz": 444.0,
+          "netto": 13.5,
+          "trefferquote": 52.4,
+          "roi_prozent": 3.0
+        },
+        "ist_aktuell": false
+      },
+      {
+        "id": "2026_27",
+        "name": "Saison 2026/27",
+        "start": "2026-08-22",
+        "ende": "2027-06-30",
+        "bilanz": {
+          "tipps": 0,
+          "gewonnen": 0,
+          "verloren": 0,
+          "push": 0,
+          "offen": 0,
+          "einsatz": 0.0,
+          "netto": 0.0,
+          "trefferquote": 0.0,
+          "roi_prozent": 0.0
+        },
+        "ist_aktuell": true
+      }
+    ]
   },
   "tages_verlauf": [
     {

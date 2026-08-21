@@ -1,0 +1,18 @@
+{
+  "aktuelle_saison": "2026/27",
+  "hinweis": "Saison-Grenzen fuer die Statistik-Segmentierung (statistik.json['saisons']). 'ende' inklusive (YYYY-MM-DD). Neue Saison anlegen: Eintrag mit id/name/start/ende anhaengen + aktuelle_saison hochsetzen. Nichts hier loeschen - Historie bleibt.",
+  "saisons": [
+    {
+      "id": "vorher",
+      "name": "Vorherige Historie (Mai-Aug 2026, inkl. WM)",
+      "start": "2000-01-01",
+      "ende": "2026-08-21"
+    },
+    {
+      "id": "2026_27",
+      "name": "Saison 2026/27",
+      "start": "2026-08-22",
+      "ende": "2027-06-30"
+    }
+  ]
+}

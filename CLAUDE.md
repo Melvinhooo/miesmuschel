@@ -54,7 +54,13 @@ Reihenfolge in jeder Sektion: **SAFE → VALUE → WACKEL → RISIKO → MOONSHO
 
 ## Einsatz-Limits + Kasse-Stufen-Modell (immer einhalten, im Dossier sichtbar machen)
 
-**Aktuelle Kasse: siehe `data/kasse.json`** (Stand 04.05.2026: **550€**, Basis-Ziel 1000€). Bei Änderung dort zentral updaten — Routinen lesen das File vor jedem Lauf, bestimmen die aktuelle Stufe und rechnen konkrete Euro-Beträge in `begruendung` aus.
+**Aktuelle Kasse: siehe `data/kasse.json`** (Saison-Start 2026/27 am 22.08.2026: **1000€**, Basis-Ziel 1000€). Bei Änderung dort zentral updaten — Routinen lesen das File vor jedem Lauf, bestimmen die aktuelle Stufe und rechnen konkrete Euro-Beträge in `begruendung` aus.
+
+### Saison-Kasse + Saison-ROI (seit 22.08.2026)
+- `data/kasse.json` hat einen `saison`-Block (Name, `start_datum`, `start_kasse_euro`). Echtes €-Saison-Ergebnis = `kasse_euro` − `start_kasse_euro`.
+- **Stufe-2-Freischaltung an Saison gekoppelt**: `stufe_2_freigeschaltet` (Bool in kasse.json). Trotz Kasse ≥ 1000€ bleibt Stufe 1 aktiv, bis die **aktuelle Saison selbst** rolling 30-Tage-ROI > +5 % zeigt (nicht die Vorperiode/WM). Grund: frischen Saison-Bankroll nicht auf altem Edge verheizen. User kann manuell freischalten.
+- `data/saisons.json` definiert die Saison-Grenzen (`start`/`ende` je Saison, `ende` inklusive). `statistik_berechnen.py` segmentiert die Bilanz danach → `statistik.json['saisons']` mit `gesamt` (all-time) + `liste[]` (pro Saison) + `kasse` (echtes €). Neue Saison: Eintrag in saisons.json anhängen + `aktuelle_saison` hochsetzen + neue Saison-Kasse in kasse.json setzen. **Nie Historie löschen.**
+- Unit-ROI (1 Tipp = 1 Einheit) bleibt die Skill-Kennzahl für Goldgruben/Bluter/Reality-Check. Der €-Wert lebt nur in der Saison-Kasse.
 
 ### Stufe 1 — Aufbau-Phase (Kasse < 1000€)
 Konservativ. Bei 550€-Stand ist das die aktive Stufe.
