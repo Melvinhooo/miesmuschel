@@ -1,0 +1,52 @@
+name: Miesmuschel Manueller Push (Info aufs iPhone)
+
+# Schickt einen freien Info-/Ankuendigungs-Push aufs Handy.
+# Ausloesen auf 2 Wegen:
+#  1) Trigger-Datei: schreibe den Push-Text nach .github/triggers/manual-push.trigger
+#     und committe -> Workflow feuert, Datei-Inhalt = Push-Body.
+#  2) Manuell in GitHub Actions ("Run workflow") mit Titel/Text als Eingabe.
+on:
+  workflow_dispatch:
+    inputs:
+      title:
+        description: 'Push-Titel'
+        required: false
+        default: '🐚 Magische Miesmuschel'
+      body:
+        description: 'Push-Text'
+        required: false
+        default: 'Es gibt was Neues im Tool.'
+  push:
+    paths:
+      - '.github/triggers/manual-push.trigger'
+
+permissions:
+  contents: read
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - run: pip install --quiet pywebpush
+
+      - name: Push senden
+        env:
+          VAPID_PRIVATE: ${{ secrets.VAPID_PRIVATE }}
+          PUSH_SUB: ${{ secrets.PUSH_SUB }}
+          DISPATCH_TITLE: ${{ github.event.inputs.title }}
+          DISPATCH_BODY: ${{ github.event.inputs.body }}
+        run: |
+          # Body: workflow_dispatch-Eingabe hat Vorrang, sonst Inhalt der Trigger-Datei
+          BODY="$DISPATCH_BODY"
+          if [ -z "$BODY" ] && [ -f .github/triggers/manual-push.trigger ]; then
+            BODY=$(head -c 200 .github/triggers/manual-push.trigger)
+          fi
+          [ -z "$BODY" ] && BODY="Es gibt was Neues im Tool."
+          TITLE="$DISPATCH_TITLE"
+          [ -z "$TITLE" ] && TITLE="🐚 Magische Miesmuschel"
+          echo "Sende Push: $TITLE — $BODY"
+          INFO_TITLE="$TITLE" INFO_BODY="$BODY" python .github/scripts/send_push.py info

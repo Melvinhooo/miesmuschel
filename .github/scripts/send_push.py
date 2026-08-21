@@ -183,6 +183,20 @@ def build_maintenance_payload():
     }
 
 
+def build_info_payload():
+    """Freier Info-/Ankuendigungs-Push (manuell ausgeloest).
+    Title + Body via Env INFO_TITLE + INFO_BODY (Body gekuerzt auf 200 Zeichen)."""
+    title = os.environ.get('INFO_TITLE', '').strip() or '🐚 Magische Miesmuschel'
+    body = os.environ.get('INFO_BODY', '').strip() or 'Es gibt was Neues im Tool.'
+    if len(body) > 200:
+        body = body[:197] + '...'
+    return {
+        'title': title,
+        'body': body,
+        'tag': 'miesmuschel-info',
+    }
+
+
 def build_reminder_payload():
     """Anstoß-Reminder-Push: 1-2 h vor jedem Spiel.
     Body wird via Env REMINDER_TITLE + REMINDER_BODY übergeben.
@@ -213,6 +227,8 @@ def main():
         payload_dict = build_maintenance_payload()
     elif mode == 'reminder':
         payload_dict = build_reminder_payload()
+    elif mode == 'info':
+        payload_dict = build_info_payload()
     else:
         payload_dict = build_tipps_payload()
 
