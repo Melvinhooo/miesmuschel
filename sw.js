@@ -3,7 +3,7 @@
  * So hast du offline die letzte App-Version + die letzten Daten.
  */
 
-const CACHE = 'miesmuschel-v19';
+const CACHE = 'miesmuschel-v20';
 
 // Empfange SKIP_WAITING-Message vom Frontend und aktiviere neuen SW sofort
 self.addEventListener('message', event => {
@@ -37,27 +37,17 @@ self.addEventListener('activate', event => {
 self.addEventListener('fetch', event => {
   const req = event.request;
   if (req.method !== 'GET') return;
-  const url = new URL(req.url);
 
-  // Daten-Dateien: Network-First (immer frische Tipps wenn online)
-  if (url.pathname.includes('/data/')) {
-    event.respondWith(
-      fetch(req).then(res => {
-        const clone = res.clone();
-        caches.open(CACHE).then(c => c.put(req, clone));
-        return res;
-      }).catch(() => caches.match(req))
-    );
-    return;
-  }
-
-  // Alles andere: Cache-First
+  // Network-First fuer ALLES (App-Code UND Daten): online immer die frische Version,
+  // offline Fallback auf den Cache. Vorher war die App-Schale (app.js/styles.css)
+  // Cache-First - dadurch blieb alter Code haengen waehrend die Daten schon neu waren
+  // (z.B. Saison-Block: neue statistik.js, aber alte app.js ohne renderSaisonBlock).
   event.respondWith(
-    caches.match(req).then(cached => cached || fetch(req).then(res => {
+    fetch(req).then(res => {
       const clone = res.clone();
       caches.open(CACHE).then(c => c.put(req, clone));
       return res;
-    }))
+    }).catch(() => caches.match(req))
   );
 });
 
