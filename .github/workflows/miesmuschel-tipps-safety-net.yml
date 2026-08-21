@@ -1,0 +1,93 @@
+name: Miesmuschel Tipps Safety-Net (Backstop - garantiert Tipps)
+
+# LETZTE ABSICHERUNG. Laeuft NACH allen anderen Schichten:
+#   Mo-Fr: Haupt 13:30 (GitHub Action) + Watchdog 14:30 (Cloud) -> Backstop 15:15
+#   Sa/So: Haupt 10:00 (Cloud) + Watchdog 11:00 (Cloud)          -> Backstop 12:00
+# Prueft ob die heutigen Tipps EXISTIEREN UND NICHT LEER sind (>=1 Einzeltipp +
+# >=1 Spiel). Nur wenn nicht -> generiert sie neu. Sonst No-Op (kein Claude, kein
+# Commit). Schliesst die Luecke der Cloud-Watchdogs (die nur Datei-Existenz pruefen,
+# nicht Inhalt - siehe 13.06.2026 halb-leeres Dossier).
+#
+# WICHTIG: Der Generierungs-Schritt hat continue-on-error, d.h. dieser Workflow
+# meldet NIE "failure" -> schickt NIE eine GitHub-Fehler-Mail. Er ist ein reiner
+# Best-Effort-Backstop; ob er geholfen hat, sieht man am Tipps-File, nicht am Job-
+# Status.
+
+on:
+  schedule:
+    - cron: '15 13 * * 1-5'   # Mo-Fr 15:15 Berlin (MESZ) -> 13:15 UTC
+    - cron: '0 10 * * 6,0'    # Sa+So 12:00 Berlin (MESZ) -> 10:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: miesmuschel-tipps-safety-net
+  cancel-in-progress: false
+
+jobs:
+  safety-net:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Pruefe ob heutige Tipps fehlen oder leer sind
+        id: check
+        run: |
+          HEUTE=$(TZ=Europe/Berlin date +%Y-%m-%d)
+          echo "heute=$HEUTE" >> "$GITHUB_OUTPUT"
+          NEED=1
+          if [ -f "data/tipps/$HEUTE.json" ]; then
+            NEED=$(python -c "import json; d=json.load(open('data/tipps/$HEUTE.json',encoding='utf-8')); print(0 if (len(d.get('einzeltipps',[]))>=1 and len(d.get('spiele',[]))>=1) else 1)" 2>/dev/null || echo 1)
+          fi
+          echo "need=$NEED" >> "$GITHUB_OUTPUT"
+          if [ "$NEED" = "1" ]; then
+            echo "Backstop AKTIV: Tipps fuer $HEUTE fehlen oder sind leer -> generiere."
+          else
+            echo "Alles gut: Tipps fuer $HEUTE existieren + sind gefuellt. No-Op."
+          fi
+
+      - name: Install Claude Code CLI
+        if: steps.check.outputs.need == '1'
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Configure Git
+        if: steps.check.outputs.need == '1'
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "Miesmuschel Safety-Net"
+
+      - name: Run Claude (Backstop-Tipps)
+        if: steps.check.outputs.need == '1'
+        continue-on-error: true
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          export HEUTE=${{ steps.check.outputs.heute }}
+          claude --print \
+            --model claude-opus-4-7 \
+            --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebSearch,WebFetch" \
+            --permission-mode acceptEdits \
+            "Du bist der Tipps-BACKSTOP in der Magische-Miesmuschel-Pipeline - die LETZTE Absicherung. Haupt-Routine + Watchdog haben es heute NICHT geschafft, ein gefuelltes Tipps-Dossier zu liefern. Deine Aufgabe: heute ($HEUTE) kommt AUF JEDEN FALL ein valides Dossier raus.
+
+          Lies .github/scripts/subagent_prompts/master_tipps_routine.md vollstaendig (Klassifikation, Layer-Regeln, Hartregeln).
+
+          Phase 1: Spiele fuer HEUTE finden. data/recherche/$HEUTE.json lesen falls vorhanden, sonst selbst recherchieren (recherche_routine.md - football-data.org API Key in data/config.json + WebSearch).
+          Phase 2: pro Spiel saison_kontext (alle 7 Pflichtfelder + >=1 Quelle) + 3-5 Tipps (fussball_analyse.md / nba_analyse.md).
+          Phase 3: Dossier bauen mit Layer-1+2+3-Diversifikation + 4 Kombis (Safe ~3-5x / Balance ~6-10x / Risiko ~15-30x / Moonshot ~100x+).
+          Phase 4: interne Verifikation (verifikation.md) + _verifikations_report{}.
+          Phase 5: Output data/tipps/$HEUTE.json.
+
+          BACKSTOP-PRINZIP: Lieber ein KLEINES, ehrliches Dossier (auch nur 1-2 gut recherchierte Spiele mit je >=1 Einzeltipp) als GAR KEINS. Wenn heute wenige/keine Spiele: schreibe trotzdem ein gueltiges Dossier mit hinweis-Text der die Lage erklaert (z.B. 'ruhiger Tag, wenig Spielangebot'), footer + Spielerschutz. NIEMALS mit leerem einzeltipps[]/spiele[] enden wenn es Spiele gibt. NIE Halluzinationen, max 5 Tipps/Spiel, gesamtquote nachrechnen.
+
+          Am Ende: git add + commit 'Auto-Tipps $HEUTE (Safety-Net Backstop)' + git push origin main (bei Reject: git pull --rebase origin main && erneut push).
+
+          GitHub-Action web-push.yml triggert dann Schema-Fix + JS-Wrapper + iOS-Push automatisch."
