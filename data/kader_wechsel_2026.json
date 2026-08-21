@@ -1,0 +1,28 @@
+{
+  "stand": "2026-08-21",
+  "zweck": "Guardrail gegen veraltete Kader/Trainer (Adeyemi-Klasse-Fehler). Die Recherche-/Analyse-Routine liest diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Routine MUSS pro Spiel zusaetzlich live recherchieren (transfermarkt/kicker/offizielle Klub-Site). Neue Faelle hier ergaenzen.",
+  "saison_start_bundesliga": "2026-08-28",
+
+  "abgaenge_NICHT_mehr_fuer_alten_verein_tippen": [
+    {
+      "spieler": "Karim Adeyemi",
+      "von": "Borussia Dortmund",
+      "nach": "FC Barcelona",
+      "datum": "2026-07-24",
+      "hinweis": "NIE mehr als Dortmund-Torschuetze/Spieler tippen. Jetzt Barcelona (LaLiga).",
+      "quelle": "https://www.espn.com/soccer/story/_/id/49348762/barcelona-sign-karim-adeyemi-borussia-dortmund"
+    }
+  ],
+
+  "zugaenge_neue_optionen": [
+    {"spieler": "Ismael Saibari", "nach": "Bayern Muenchen", "von": "PSV Eindhoven"},
+    {"spieler": "Nathaniel Brown", "nach": "Bayern Muenchen", "von": "Eintracht Frankfurt"},
+    {"spieler": "Cole Campbell", "nach": "Borussia Dortmund"}
+  ],
+
+  "trainer_2026_27": [
+    {"verein": "RB Leipzig", "trainer_neu": "Martin Demichelis", "trainer_alt": "Ole Werner"},
+    {"verein": "Bayern Muenchen", "trainer": "Vincent Kompany", "status": "weiter"}
+  ],
+  "trainer_hinweis": "5 von 18 Bundesliga-Clubs mit Trainerwechsel zur Saison 2026/27. Restliche Vereine + andere Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie)."
+}

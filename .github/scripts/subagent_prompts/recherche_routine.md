@@ -149,7 +149,8 @@ Tipps-/Analyse-Subagents übernehmen die `id` **wortgleich** aus diesem File —
 
 ### Schritt 2: Squad-Verifikation pro Spiel (KRITISCH)
 
-**Für Vereins-Spiele (Hauptfall) — SOMMER-TRANSFERS ZWINGEND PRÜFEN:**
+**Für Vereins-Spiele (Hauptfall) — SOMMER-TRANSFERS + TRAINER ZWINGEND PRÜFEN:**
+- **PFLICHT zuerst lesen:** `data/kader_wechsel_2026.json` (Guardrail mit bestätigten Abgängen/Zugängen/Trainerwechseln). Spieler aus `abgaenge_NICHT_mehr_fuer_alten_verein_tippen` NIE für den alten Verein tippen.
 - **Aktuellen Saison-Kader 2026/27 laden** (NICHT aus dem Gedächtnis!) über MIN 1 Quelle:
   - `https://www.transfermarkt.de/<verein>/startseite/verein/<id>` (Kader aktuelle Saison)
   - `https://www.kicker.de/<verein>/kader` bzw. offizielle Klub-Site
@@ -157,6 +158,7 @@ Tipps-/Analyse-Subagents übernehmen die `id` **wortgleich** aus diesem File —
   - WebSearch bei jedem Top-Stürmer/Offensiv-Spieler: `<Spieler> transfer 2026` bzw. `<Verein> Kader 2026/27 Zugänge Abgänge`.
   - **Konkretes Beispiel-Fail (Sommer 2026):** Karim Adeyemi ist von Borussia Dortmund zu Barcelona gewechselt → darf NICHT mehr als Dortmund-Torschütze getippt werden. Solche Fälle aktiv ausschließen.
   - Nur Spieler in den Squad-File schreiben, deren aktueller Verein per Quelle bestätigt der tippende Verein ist. Im `verifiziert_via` die Quelle mit aktuellem Verein hinterlegen.
+- **TRAINER-CHECK (Pflicht):** Aktuellen Cheftrainer 2026/27 pro Verein verifizieren (kicker.de / transfermarkt Trainer-Historie). Neuer Trainer = mögliche Taktik-/Aufstellungs-Änderung → in `saison_kontext` erwähnen. `data/kader_wechsel_2026.json` listet bekannte Wechsel (z.B. RB Leipzig: Werner → Demichelis).
 - Pro Top-Spieler: Name + Position + Saison-Tore 2026/27 + letzte 5 Spiele Tore + aktueller Verein (verifiziert).
 
 **Für WM-/EM-Spiele (nur falls Turnier aktiv):**
