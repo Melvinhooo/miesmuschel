@@ -1,0 +1,108 @@
+{
+  "spiel_id": "2026-08-21-mar-str",
+  "liga": "Ligue 1",
+  "heim": "Olympique de Marseille",
+  "gast": "RC Strasbourg Alsace",
+  "anstoss": "2026-08-21T20:45:00+02:00",
+  "stadion": "Stade Vélodrome, Marseille",
+  "saison_kontext": {
+    "parallel_heim": "Ligue 1 26/27 Auftaktspiel (Matchday 1) - erstes Kompetitiv-Spiel der Saison fuer Marseille. Keine parallele Belastung. Marseille beendete 25/26 auf Platz 5 mit 59 Punkten - CL-Quali knapp verpasst, jetzt Fokus auf CL-Rueckkehr via Top-4-Sturm. Kein Europapokal 26/27.",
+    "parallel_gast": "Ligue 1 26/27 Auftaktspiel (Matchday 1) - erstes Kompetitiv-Spiel der Saison fuer Strasbourg. Keine parallele Belastung. Strasbourg beendete 25/26 auf Platz 8 mit 53 Punkten - stabiler Mittelfeld-Wert, kein Europapokal 26/27.",
+    "saisonziel_heim": "CL-Quali-Comeback + Top-4-Platz nach knapp verpasster 25/26-Quali. Kader-Investitionen: Timothy Weah (US-Sturm) + Hamed Traore (Bounce-Back-Zugang). Trainer erstes-Kompetitiv-Match der Saison mit Kader-Chemie-Aufbau-Phase.",
+    "saisonziel_gast": "Konsolidierung Ligue-1-Mittelfeld + moeglicher EL/UECL-Angriff auf Top-6. Zugaenge Diogo Sousa + Jacobo Ortega. Kader-Chemie-Debuet mit vielen Neuzugaengen, erstes Kompetitiv-Match.",
+    "motivations_asymmetrie": "Beide Teams voll motiviert (Ligue-1-Auftakt + Home-Fan-Explosion Stade Velodrome), aber Marseille Home-Fav mit Klassen-Vorteil (5. Platz vs 8. Platz Vorsaison, Etat-Differenz signifikant). Aggregator-Konsens: Marseille Sieg-Fav @1.70 (58.8% impl.), Draw @3.85 (26% impl.), Strasbourg @4.50 (22% impl.) - klare Marseille-Edge. ABER: Saison-Auftakts-Rust real bei beiden (HR08-15-4), Marseille mit 3 verletzten Startelf-Kandidaten (Cornelius, Aguerd, Traore) - Kader-Kompensation-Risiko. HR2 Anti-Heim-Bias-analog: Sieg-Tipp Marseille max VALUE nicht SAFE (kein 2:0-Insurance in Ligue 1, kein Wettkampf-Rhythmus, Kader-Chemie-Debuet).",
+    "recovery_heim": "Voll ausgeruht seit Sommer-Pause + Vorbereitungsspiele. 4 Clean-Sheets in Vorbereitung laut Sportsgambler. Kader-Injuries: Derek Cornelius (Knoechel, OUT), Nayef Aguerd (Leiste, OUT), Hamad Traore (Rueckkehr erst 23.08. also nicht verfuegbar). Ersatz: Balerdi + Weah in Defensive stabilisieren. Predicted Startelf 4-2-3-1 (Sportsgambler): De Lange; Weah, Balerdi, Cornelius(!), Emerson; Nnadi, Hoejbjerg; Harit, Gomes, Paixao; Gouiri.",
+    "recovery_gast": "Voll ausgeruht seit Sommer-Pause + Vorbereitungsspiele. Kader-Injuries: Ben Chilwell (Hamstring, laut Sportsgambler dennoch in Predicted Startelf - Unklarheit), Joaquin Panichelli (Knie, Rueckkehr 23.08.). Auswaerts-Reise Marseille + Cauldron-Faktor Stade Velodrome + Kader-Chemie-Debuet mit Neuzugaengen. Predicted Startelf 4-2-3-1 (Sportsgambler): Joergensen; Doue, Omobamidele, Doukoure, Chilwell; Oyedele, El Mourabet; Reyna, Nanasi, Godo; Mara.",
+    "quellen": [
+      "https://ligue1.com/en/articles/l1_article_5292-the-2026-27-ligue-1-mc-donald-s-calendar-is-released",
+      "https://www.psg.fr/en/content/opening-ligue-1-fixture-locked-in-paris-rennes-psg-ligue-1-fixtures-matchday-1-2026-2027",
+      "https://en.parisfans.fr/ligue-1-matchday-1-broadcast-schedule-psg-vs-rennes-to-close-out-the-round.html",
+      "https://www.sportsgambler.com/betting-tips/football/marseille-vs-strasbourg-prediction-lineups-odds-2026-08-21/",
+      "https://www.sportsmole.co.uk/football/marseille/preview/marseille-vs-strasbourg-prediction-team-news-lineups_603243.html",
+      "https://khelnow.com/football/marseille-vs-strasbourg-preview-ligue-1-202608",
+      "https://ca.sports.yahoo.com/news/preview-marseille-vs-strasbourg-team-185000973.html",
+      "https://dicodusport.fr/blog/marseille-strasbourg-ligue-1-2026-2027-sur-quelle-chaine-tv-a-quelle-heure-et-avec-quelles-compositions/",
+      "https://www.espn.com/soccer/match/_/gameId/401876489/strasbourg-marseille",
+      "https://www.sportskeeda.com/football/marseille-vs-strasbourg-prediction-betting-tips-august-21st-2026"
+    ]
+  },
+  "news": [
+    "Ligue 1 26/27 Matchday 1 Eroeffnungsspiel Stade Velodrome Marseille 20:45 CEST (Freitag-Nacht-Opener)",
+    "Marseille Vorsaison Platz 5 (59 Pkt) - CL-Quali knapp verpasst, jetzt Sturm zurueck ins Top-4",
+    "Strasbourg Vorsaison Platz 8 (53 Pkt) - stabiler Mittelfeld-Wert, kein Europapokal",
+    "Marseille Transfers 26/27: Zugang Timothy Weah (US-Sturm, Ex-Juventus/Lille), Zugang Hamed Traore (Bounce-Back), Abgang Mason Greenwood, Abgang Geronimo Rulli",
+    "Strasbourg Transfers 26/27: Zugang Diogo Sousa, Zugang Jacobo Ortega, mehrere Abgaenge",
+    "Marseille Injuries: Derek Cornelius (Knoechel), Nayef Aguerd (Leiste), Hamad Traore (Rueckkehr erst 23.08.)",
+    "Strasbourg Injuries: Ben Chilwell (Hamstring, dennoch in Predicted Startelf laut Aggregator - Unklarheit), Joaquin Panichelli (Knie)",
+    "Aggregator-Konsens Quoten (bet365 live pruefen): Marseille Sieg @1.70, Draw @3.85, Strasbourg Sieg @4.50, DC 1X (Marseille+Draw) @1.22, DC 12 @1.30, DC X2 (Draw+Strasbourg) @2.10, Marseille -0.75 Asian Handicap @1.86, Strasbourg +0.75 Asian Handicap @1.92, Marseille -1.5 @2.60, Ueber 2.5 @1.53, Unter 2.5 @2.43, Ueber 3.5 @2.20, BTTS Ja @1.53, BTTS Nein @2.35, HZ-Marseille-Fuehrung @2.10, HZ-Draw @2.40, Marseille Sieg zu Null @2.80",
+    "Top-Torschuetzen-Odds (Anytime, Sportsgambler): Amine Gouiri @2.25 (MOM zentraler ST), Igor Paixao @2.40 (LF), Martial Godo @3.40 (Strasbourg RF), Amine Harit @4.70 (OM), Sebastian Nanasi @4.50 (Strasbourg RF)",
+    "H2H letzte Aufeinandertreffen: Marseille-Strasbourg 2-2 im Stade Velodrome (letzte Saison), Marseille im Rueckspiel Sieg auswaerts - Marseille-Home-Dominanz nicht garantiert",
+    "Sportsgambler-Best-Bet: Strasbourg +0.75 Asian Handicap @1.92 - konservative Underdog-Absicherung",
+    "HR26 2:0-Insurance NICHT anwendbar bei Ligue 1 (nur BL + CL + WM/EM)",
+    "HR08-15-4 Saison-Auftakts-Def-Krise-Cluster aktiv: erste Kompetitiv-Match beider Teams + Kader-Chemie-Debuet + Neuzugaenge",
+    "HR2 Anti-Heim-Bias-analog: Marseille Sieg-Tipp max VALUE (Cornelius+Aguerd out + Auftakts-Rust + kein 2:0-Insurance)"
+  ],
+  "tipps": [
+    {
+      "id": "mar-str-1",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance 1X (Marseille oder Draw)",
+      "quote": 1.22,
+      "einsatz_euro": 15.0,
+      "edge_prozent": 4,
+      "begruendung": "SAFE-Cluster: Marseille Home-Fav @1.70 (58.8% impl.) + Draw @3.85 (26% impl.) = kombinierte impl. ~85% vs Quote 1.22 = 82% impl. → leichte Value-Edge. Marseille Klassen-Vorteil (P5 vs P8 25/26) + Home-Cauldron Stade Velodrome + H2H letzte Saison Marseille-Home 2-2 aber Rueckspiel-Sieg. Strasbourg-Auswaerts-Reise + Kader-Chemie-Debuet. Absicherung fuer den Fall dass Marseille-Injuries (Cornelius/Aguerd) sich negativ zeigen und nur ein Draw rausspringt. Markt-Goldgrube-Familie Doppelte Chance 1X. Faire Quote ~1.18. Stake 1.5% = 15€.",
+      "layer_2_tag": "mar-str_dc_1x",
+      "faire_quote": 1.18,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "mar-str-2",
+      "kategorie": "value",
+      "markt": "Sieg Marseille (90 Min)",
+      "quote": 1.7,
+      "einsatz_euro": 15.0,
+      "edge_prozent": 6,
+      "begruendung": "VALUE-Cluster (kein SAFE wg HR2-Anti-Heim-Bias-analog): Marseille @1.70 (58.8% impl.) + Klassen-Vorteil P5 25/26 + Home-Cauldron + Kader-Etat >> Strasbourg + 4 Clean-Sheets in Vorbereitung (Sportsgambler). Aber: HR08-15-4 Saison-Auftakts-Def-Krise + Cornelius/Aguerd OUT + Kader-Chemie-Debuet-Rust + kein 2:0-Insurance (HR26 nur BL/CL/WM) - deshalb VALUE, nicht SAFE. Faire Wahrscheinlichkeit ~62-65%, faire Quote ~1.60. Stake 1.5% = 15€.",
+      "layer_2_tag": "mar-str_sieg_heim",
+      "faire_quote": 1.6,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "mar-str-3",
+      "kategorie": "value",
+      "markt": "Amine Gouiri Torschütze jederzeit",
+      "quote": 2.25,
+      "einsatz_euro": 10.0,
+      "edge_prozent": 8,
+      "begruendung": "VALUE-Cluster Markt-Goldgrube Torschuetzen Jederzeit (50%/+24.4% laut data/markt_goldgruben.json Basisdaten): Amine Gouiri = MOM zentraler ST in Predicted 4-2-3-1 Startelf (Sportsgambler + andere Aggregatoren konsistent) + Marseille-Vorsaison-Torschuetzen-Fuehrender + Strasbourg-Def-Auswaerts-adverse. HR24 Torschuetzen-Form-Edge 2/3: (1) Vorsaison-Torbilanz gut aber genaue Zahl unverifiziert, (2) LF/9er ja (zentraler Stuermer), (3) Gegner-Def Strasbourg auswaerts adverse. Faire Wahrscheinlichkeit ~48%, Quote 2.25 = 44% impl. → +4-8% Edge. Faire Quote ~2.10. Stake 1% = 10€. HR22 Star-OUT-Implosions-Risiko: keine Gouiri-Injury-Meldung.",
+      "layer_2_tag": "mar-str_gouiri_ja",
+      "faire_quote": 2.1,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "mar-str-4",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.53,
+      "einsatz_euro": 5.0,
+      "edge_prozent": 3,
+      "begruendung": "WACKEL-Cluster (Kandidat fuer VALUE aber Grenze): HR08-15-4 Saison-Auftakts-Def-Krise-Cluster aktiv beidseitig + Marseille-Injuries (Cornelius/Aguerd) + H2H letzte Saison 2-2 im Velodrome = beide Teams treffen realistisch. ABER Quote @1.53 (65% impl.) = knapp geringe Edge, konkurrierend mit Marseille-Sieg-zu-Null-Szenario (falls Strasbourg wirklich nur Backup-Def-Optionen). Ehrlich Grenzfall. Faire Wahrscheinlichkeit ~65%, faire Quote ~1.55. Stake 0.5% = 5€.",
+      "layer_2_tag": "mar-str_btts_ja",
+      "faire_quote": 1.55,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "mar-str-5",
+      "kategorie": "risk",
+      "markt": "Marseille -1.5 Handicap (Sieg mit mind. 2 Toren Differenz)",
+      "quote": 2.6,
+      "einsatz_euro": 2.5,
+      "edge_prozent": 4,
+      "begruendung": "RISIKO-Kandidat aus Marseille-Home-Dominanz-Szenario: Klassen-Vorteil P5 vs P8 + Home-Cauldron + Gouiri-Paixao-Sturm mit 4 Clean-Sheets Vorbereitung + Strasbourg Auswaerts + Kader-Chemie-Debuet + 3 Startelf-Ausfaelle bei Strasbourg (Chilwell fraglich, Panichelli out). Impl. ~38% @2.60, faire Wahrscheinlichkeit ~40%. Aber: Saison-Auftakts-Rust + Marseille-Injuries dagegen. HR08-15-3 Blowout-Vermeidung: kein Genaues-Ergebnis-Lottery. Faire Quote ~2.50. Stake 0.25% = 2.50€.",
+      "layer_2_tag": "mar-str_handicap_minus_1_5",
+      "faire_quote": 2.5,
+      "empfohlener_einsatz_prozent": 0.25
+    }
+  ],
+  "kontext_check_status": "OK"
+}
