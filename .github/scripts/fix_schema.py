@@ -5,6 +5,7 @@ Routine schreibt manchmal eigene Feldnamen. Dieser Mapper bringt sie ins
 strikte Format das assets/app.js erwartet.
 """
 import json, glob, sys, os, re
+from datetime import date, timedelta
 from pathlib import Path
 
 # Field-Mappings: alternative Namen -> kanonische Namen
@@ -103,6 +104,125 @@ QUELLEN_HOSTS_VERBAND = (
     'kicker.de', 'sofascore.com', 'flashscore', 'espn.com',
     'transfermarkt', 'liverpoolfc.com', 'cpfc.co.uk', 'manutd.com',
 )
+
+
+def _spiel_datum(spiel):
+    """Ermittelt das Kalenderdatum (YYYY-MM-DD, lokale Anstosszeit) eines Spiels.
+
+    Reihenfolge: anstoss (ISO) -> datum -> Praefix der spiel-id (2026-08-23-mci-bou).
+    Returns None wenn nichts ableitbar (dann wird tolerant behandelt = nicht gedroppt).
+    """
+    anstoss = spiel.get('anstoss')
+    if isinstance(anstoss, str) and re.match(r'^\d{4}-\d{2}-\d{2}', anstoss):
+        return anstoss[:10]
+    datum = spiel.get('datum')
+    if isinstance(datum, str) and re.match(r'^\d{4}-\d{2}-\d{2}$', datum.strip()):
+        return datum.strip()
+    sid = spiel.get('id')
+    if isinstance(sid, str):
+        m = re.match(r'^(\d{4}-\d{2}-\d{2})', sid)
+        if m:
+            return m.group(1)
+    return None
+
+
+def validate_datum_scope(d, path):
+    """Zeitfenster-Hartregel (22.08.2026, nach User-Report 'Taeglich zeigt Sonntagsspiele').
+
+    Ursache: die Sa-So-Tipps-Routine hat am 22.08. einen kompletten Sa+So-Slate
+    (13 Spiele, davon 6 mit Anstoss am 23.08.) in `data/tipps/2026-08-22.json`
+    geschrieben. Der Tages-Modus in der PWA rendert dieses File 1:1 - der User sah
+    also unter "Taeglich" Spiele von morgen (Man City, Newcastle-Liverpool).
+
+    Prompt-Anweisungen allein halten das nicht (gleiche Lehre wie Hard-Cap +
+    Beobachtungs-Liga). Darum hier mechanisch:
+
+    - `data/tipps/<datum>.json`            -> nur Spiele mit Anstoss AM <datum>
+    - `data/tipps_wochenende/<samstag>.json` -> <samstag> + <sonntag>
+    - `data/tipps_woche/<montag>.json`     -> <montag> .. <sonntag> (7 Tage)
+
+    Spiele ausserhalb des Fensters werden komplett gedroppt. einzeltipps[] werden
+    unten via valid_refs automatisch mitbereinigt; Kombi-Beine auf gedroppte Spiele
+    werden hier direkt entfernt (statt die ganze Kombi zu verlieren) - die
+    Gesamtquote zieht finalize_kombi_quoten() am Ende nach. Kombis unter 2 Beinen
+    fliegen raus.
+
+    Saisonwetten (ist_saison) haben kein Zeitfenster -> uebersprungen.
+    """
+    if d.get('ist_saison'):
+        return
+
+    p = path.replace('\\', '/')
+    if '/tipps_wochenende/' in p:
+        spanne = 2
+        modus = 'Wochenende (Sa+So)'
+    elif '/tipps_woche/' in p:
+        spanne = 7
+        modus = 'Woche (Mo-So)'
+    elif '/tipps/' in p:
+        spanne = 1
+        modus = 'Tag'
+    else:
+        return
+
+    anker = d.get('datum')
+    if not (isinstance(anker, str) and re.match(r'^\d{4}-\d{2}-\d{2}$', anker.strip())):
+        anker = Path(path).stem
+    if not re.match(r'^\d{4}-\d{2}-\d{2}$', anker or ''):
+        print(f"  Datum-Scope: kein Anker-Datum ableitbar aus '{path}' - Check uebersprungen")
+        return
+
+    start = date(int(anker[0:4]), int(anker[5:7]), int(anker[8:10]))
+    erlaubt = {(start + timedelta(days=i)).isoformat() for i in range(spanne)}
+
+    behalten, gedroppt = [], []
+    for spiel in d.get('spiele', []):
+        sdat = _spiel_datum(spiel)
+        if sdat is None or sdat in erlaubt:
+            behalten.append(spiel)
+        else:
+            gedroppt.append((spiel, sdat))
+
+    if not gedroppt:
+        return
+
+    # Historie NIE nachtraeglich umschreiben. Der Workflow ruft fix_schema.py ohne
+    # Argumente auf, also laufen bei jedem Push ALLE Dossiers durch. Ein Dossier
+    # dessen Anker-Datum in der Vergangenheit liegt ist entweder schon ausgewertet
+    # (data/ergebnisse/<datum>.json) oder als Vorschau abgelaufen - da wuerde ein
+    # Drop nur die Bilanz gegen die Auswertung desynchronisieren. Nur loggen.
+    if start < date.today():
+        for spiel, sdat in gedroppt:
+            print(f"  Datum-Scope WARN [{modus} ab {anker}, Historie]: Spiel '{spiel.get('id')}' "
+                  f"hat Anstoss {sdat} - ausserhalb des Fensters, bleibt aber drin "
+                  f"(abgeschlossenes Dossier wird nicht nachtraeglich veraendert)")
+        return
+
+    drop_ids = {s.get('id') for s, _ in gedroppt}
+    d['spiele'] = behalten
+    for spiel, sdat in gedroppt:
+        print(f"  Datum-Scope [{modus} ab {anker}]: Spiel '{spiel.get('id')}' "
+              f"({spiel.get('heim')} - {spiel.get('gast')}, Anstoss {sdat}) "
+              f"liegt ausserhalb des Fensters -> gedroppt")
+
+    kept_kombis = []
+    for k in d.get('kombis', []):
+        beine = k.get('beine', [])
+        rest = [b for b in beine if b.get('spiel_id') not in drop_ids]
+        if len(rest) < len(beine):
+            print(f"  Datum-Scope: Kombi '{k.get('name', k.get('id', '?'))}': "
+                  f"{len(beine)} -> {len(rest)} Beine (Spiele ausserhalb Zeitfenster)")
+            k['beine'] = rest
+        if len(rest) >= 2:
+            kept_kombis.append(k)
+        else:
+            print(f"  Datum-Scope: Kombi '{k.get('name', k.get('id', '?'))}' gedroppt "
+                  f"(unter 2 Beine uebrig)")
+    d['kombis'] = kept_kombis
+
+    fenster = anker if spanne == 1 else f"{anker} bis {max(erlaubt)}"
+    print(f"  Datum-Scope [{modus}]: {len(gedroppt)} Spiel(e) ausserhalb {fenster} "
+          f"entfernt, {len(behalten)} behalten")
 
 
 def lade_markt_bluter():
@@ -1450,9 +1570,28 @@ def validate_dossier_quality(d):
     einzel = d.get('einzeltipps') or []
     if not einzel:
         return
+
+    # einzeltipps[] tragen im echten Schema KEIN markt-Feld - der Markt haengt am
+    # Tipp im spiele[]-Baum und wird ueber (spiel_id, tipp_id) aufgeloest.
+    # Vorher wurde hier blind e['markt'] gelesen -> immer leer -> Check 1 und 2
+    # haben seit 04.05.2026 nie gefeuert. (22.08.2026 aufgefallen.)
+    markt_lookup = {}
+    for spiel in d.get('spiele', []):
+        sid = spiel.get('id')
+        for t in spiel.get('tipps', []):
+            tid = t.get('id') or t.get('tipp_id')
+            if sid and tid:
+                markt_lookup[(sid, tid)] = t.get('markt') or ''
+
+    def _einzel_markt(e):
+        m = markt_lookup.get((e.get('spiel_id'), e.get('tipp_id')))
+        if m:
+            return m
+        return e.get('markt') or e.get('beschreibung') or ''
+
     n_dc = n_torschuetze = n_sieg = n_total_off = 0
     for e in einzel:
-        markt = (e.get('markt') or '').lower()
+        markt = _einzel_markt(e).lower()
         if 'doppelte chance' in markt or 'oder unentschieden' in markt or '(1x)' in markt or '(x2)' in markt:
             n_dc += 1
         if any(k in markt for k in ('trifft', 'torschuetz', 'jederzeit tor', 'doppelpack', 'hattrick')) and 'punkte' not in markt:
@@ -1575,6 +1714,11 @@ def validate_saison_kontext(d):
 def fix(path):
     with open(path, encoding='utf-8') as f:
         d = json.load(f)
+
+    # Zeitfenster-Hartregel ZUERST: Spiele ausserhalb des Dossier-Fensters raus,
+    # bevor irgendein anderer Validator Arbeit in sie steckt.
+    # (Tag = nur heute, Wochenende = Sa+So, Woche = Mo-So.)
+    validate_datum_scope(d, path)
 
     # Spiele: tipps[] fixen
     for spiel in d.get('spiele', []):

@@ -260,6 +260,32 @@ Drei Dossier-Typen, **identisches Schema**, unterschiedliches Zeitfenster.
 - **Tipp-Tag:** `/data/tipps/YYYY-MM-DD.json` — generiert Mo-Fr 16:00 + Sa-So 11:30
 - **Tipp-Wochenende:** `/data/tipps_wochenende/YYYY-MM-DD.json` — Anker = Samstag, generiert Donnerstag 18:00 als Vorschau auf Sa+So
 - **Tipp-Woche:** `/data/tipps_woche/YYYY-MM-DD.json` — Anker = Montag der Ziel-Woche, generiert Sonntag 18:00 als Vorschau für die kommende Mo-So-Woche
+
+### Zeitfenster-Hartregel (seit 22.08.2026)
+
+Jeder Dossier-Typ deckt **genau** sein Fenster ab, gemessen am **Anstoss-Tag in Berliner Zeit** (nicht am Spieltag/an der Runde):
+
+| Datei | Erlaubte Anstoss-Tage |
+|---|---|
+| `tipps/<datum>.json` | **nur `<datum>`** — auch am Wochenende |
+| `tipps_wochenende/<samstag>.json` | Samstag + Sonntag |
+| `tipps_woche/<montag>.json` | Montag bis Sonntag (7 Tage) |
+
+Ein Spieltag der sich über zwei Tage zieht wird gesplittet. Der Sa-Lauf der Tages-Routine ist **kein** Sa+So-Lauf — dafür gibt es den Wochenend-Modus.
+
+**Mechanisch erzwungen** in `.github/scripts/fix_schema.py` (`validate_datum_scope`, läuft als erstes in `fix()`): Spiele ausserhalb des Fensters werden gedroppt, ihre Einzeltipps über `valid_refs` mit, Kombi-Beine auf diese Spiele fliegen aus der Kombi (Gesamtquote wird nachgerechnet), Kombis unter 2 Beinen werden verworfen. **Ausnahme:** Dossiers mit Anker-Datum in der Vergangenheit werden nur geloggt, nie umgeschrieben — sonst desynchronisiert die Bilanz gegen `data/ergebnisse/`.
+
+Anlass: am 22.08.2026 schrieb die Sa-So-Routine 13 Spiele ins Tages-File, davon 6 mit Anstoss am 23.08. Der Täglich-Modus in der PWA zeigte Spiele von morgen.
+
+### Pflicht-Wettbewerbe: Supercups
+
+Supercups gehören **immer** in den Slate, obwohl sie keiner Liga angehören und pro Saison nur 1-2 Ansetzungen haben: Franz-Beckenbauer-Supercup, FA Community Shield, Supercopa de España, Supercoppa Italiana, Trophée des Champions, UEFA Super Cup. `football-data.org` führt sie nicht — Routine muss per WebSearch/kicker.de nachrecherchieren.
+
+Anlass: am 22.08.2026 fehlte der Franz-Beckenbauer-Supercup Dortmund–Bayern (20:30) im Tages- **und** im Wochenend-Dossier, weil die Liga-Whitelist der Routinen ihn nicht kannte.
+
+Zwei Supercup-Besonderheiten, die in `begruendung` gehören:
+- **2:0-Insurance gilt NICHT** (nur 1. Bundesliga + Champions League).
+- Bei Remis nach 90 Min folgt Elfmeterschiessen, 1X2-/DC-Märkte werten aber nur die regulären 90 Minuten → **DC X2 / DC 1X ist dort stärker als der direkte Sieg-Tipp**.
 - **Ergebnis-Tag:** `/data/ergebnisse/YYYY-MM-DD.json` (gleiche Struktur, Ergebnisse gefüllt)
 - **Lessons:** `/data/lessons.json`
 - **Saisonwetten:** `/data/saisonwetten.json` (+ `.js`-Wrapper `window.__MIESMUSCHEL_SAISONWETTEN`) — **MANUELL gepflegt, NICHT auto-generiert.** Langzeit-/Outright-Wetten (Meister/CL-Sieger), einmal zu Saisonbeginn gesetzt. Routinen dürfen die Datei NICHT überschreiben. **Gleiches Dossier-Schema wie Tagestipps** (`spiele[]` = Wettbewerbe mit `titelrennen:true`, `einzeltipps[]`, `kombis[]`, `ist_saison:true`), damit die PWA es als eigenen **4. Modus "🏆 Saisonwetten"** (volle Zeile unter Täglich/Wochenende/Woche) mit den bestehenden Spiele-/Einzel-/Kombi-Ansichten rendert. Bei Bedarf (Wette entschieden / Quote verschoben) manuell updaten.

@@ -2,7 +2,7 @@
 window.__MIESMUSCHEL_TIPPS_WOCHE = {
   "datum": "2026-08-17",
   "erstellt_am": "2026-08-16T18:00:00+02:00",
-  "hinweis": "Wochen-Vorschau Mo 17.08. bis So 23.08.2026 - Best-of-Highlights aus CL-Playoff-Hinspielen (Di/Mi), DFB-Supercup Dortmund-Bayern (Sa 20:30), Premier-League-Auftakt MD1 (Fr-So), LaLiga J2 (Do-Mo, inkl Klassiker Espanyol-Real + Elche-Barca), Serie-A-Auftakt G1 (Sa-Mo), DFB-Pokal 1. Runde (Fr-So, ohne Bayern+BVB - die spielen wegen Supercup erst 01./02.09.), 2. BL MD3, Ligue 1 J2. Bundesliga MD1 startet erst am 28.08. (naechste Woche). Quoten 7 Tage vor Anstoss volatil - SAFE-Label sehr restriktiv. Kasse 550€ = Stufe 1 (Einzel 1-2%). Fokus auf Goldgrube-Liga LaLiga (+22% ROI), Goldgrube-Markt Unter 2.5 Tore (+27% ROI). Bluter-Markt Spread/Handicap komplett gemieden, Bluter-Liga PL nur mit VALUE-Doktrin @1.35-1.55 (Lesson HR08-16-1). Beobachtungs-Liga: UEFA Europa League Q2 (gedeckt, EL-Playoff faellt in Kategorie EL Playoff-Round, nicht Q2 - erlaubt). WICHTIG: Vorschau, Aufstellungen und Quoten am Spieltag bei bet365 live pruefen - insbesondere Star-Verletzungen (Mbappe, Vinicius, Lewandowski, Haaland, Kane, Isak) koennen Torschuetzen-Tipps kippen. Aufsteiger-Auftakt-Momentum-Falle (Lesson HR08-15-1 Braunschweig) beachten. Late-Goal-Cluster MD1-MD3 (Lesson HR08-16-2) validiert BTTS-Ja-Bias. 18+ - Sucht-Hilfe BZgA: 0800 1372700.",
+  "hinweis": "Wochen-Vorschau Mo 17.08. bis So 23.08.2026 - Best-of-Highlights aus CL-Playoff-Hinspielen (Di/Mi), DFB-Supercup Dortmund-Bayern (Sa 20:30), Premier-League-Auftakt MD1 (Fr-So), LaLiga J2 (Do-Mo, inkl Klassiker Espanyol-Real + Elche-Barca), Serie-A-Auftakt G1 (Sa-Mo), DFB-Pokal 1. Runde (Fr-So, ohne Bayern+BVB - die spielen wegen Supercup erst 01./02.09.), 2. BL MD3, Ligue 1 J2. Bundesliga MD1 startet erst am 28.08. (naechste Woche). Quoten 7 Tage vor Anstoss volatil - SAFE-Label sehr restriktiv. Kasse 550€ = Stufe 1 (Einzel 1-2%). Fokus auf Goldgrube-Liga LaLiga (+22% ROI), Goldgrube-Markt Unter 2.5 Tore (+27% ROI). Bluter-Markt Spread/Handicap komplett gemieden, Bluter-Liga PL nur mit VALUE-Doktrin @1.35-1.55 (Lesson HR08-16-1). Beobachtungs-Liga: UEFA Europa League Q2 (gedeckt, EL-Playoff faellt in Kategorie EL Playoff-Round, nicht Q2 - erlaubt). WICHTIG: Vorschau, Aufstellungen und Quoten am Spieltag bei bet365 live pruefen - insbesondere Star-Verletzungen (Mbappe, Vinicius, Lewandowski, Haaland, Kane, Isak) koennen Torschuetzen-Tipps kippen. Aufsteiger-Auftakt-Momentum-Falle (Lesson HR08-15-1 Braunschweig) beachten. Late-Goal-Cluster MD1-MD3 (Lesson HR08-16-2) validiert BTTS-Ja-Bias. 18+ - Sucht-Hilfe BZgA: 0800 1372700. · KORREKTUR 22.08.: Adeyemi-Torschuetzen-Bein im Supercup entfernt (spielt seit 24.07.2026 fuer Barcelona), Supercup-Quoten auf den recherchierten Marktstand gebracht, alle Einsaetze auf die Saison-Kasse 1000€ umgerechnet (vorher 550€).",
   "spiele": [
     {
       "id": "2026-08-19-fen-lyo",
@@ -35,7 +35,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "value",
           "markt": "Unter 2.5 Tore",
           "quote": 1.85,
-          "einsatz_euro": 8.25,
+          "einsatz_euro": 15.0,
           "einsatz_prozent_kasse": 1.5,
           "begruendung": "Goldgrube-Markt Unter 2.5 (Statistik: 72.4% Hit, +27.1% ROI, n=29). CL Q2/Q3 Rueckspiel-Bias Unter25-Cluster validiert n3 (Lessons HR08-05, HR08-12-3). Playoff-Hinspiel typisches Tastspiel bei beiden Elite-Teams mit taktischer Vorsicht wegen Rueckspiel-Aggregat. Kasse 550€ x 1.5% = 8.25€. Bei bet365 Quote live pruefen.",
           "faire_quote": 1.85,
@@ -45,7 +45,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "wackel",
           "markt": "Fenerbahce Doppelte Chance 1X",
           "quote": 1.32,
-          "einsatz_euro": 2.75,
+          "einsatz_euro": 5.0,
           "einsatz_prozent_kasse": 0.5,
           "begruendung": "Heim-Bonus Fenerbahce Kessel + Klassen-Konsens leichter Favorit. Aber HR08-16-3 Norwich-Falle warnt vor SAFE-DC im Klassen-Konsens - deshalb WACKEL statt SAFE. Rueckspiel in Frankreich waere schwerer Weg fuer Lyon-Aufholjagd, deshalb Hinspiel-DC nachvollziehbar. Kasse 0.5%.",
           "faire_quote": 1.32,
@@ -85,7 +85,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "value",
           "markt": "Celtic Sieg",
           "quote": 1.55,
-          "einsatz_euro": 8.25,
+          "einsatz_euro": 15.0,
           "einsatz_prozent_kasse": 1.5,
           "begruendung": "Klassen-Duell + Heim-Kessel + Rodgers-Druck-Bonus. HR08-16-1 VALUE-Einzel-Doktrin bei Klassen-Sieg-Quoten 1.35-1.55 im Saison-Auftakt haltbar. LASK Underdog reisen weit + geringere UEFA-Coeff. Bluter-Markt Spread/Handicap NICHT gewählt. Kasse 550€ x 1.5% = 8.25€. Kombi-Isolation Pflicht (HR08-10-2).",
           "faire_quote": 1.55,
@@ -95,7 +95,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "wackel",
           "markt": "Ueber 2.5 Tore",
           "quote": 2.05,
-          "einsatz_euro": 2.75,
+          "einsatz_euro": 5.0,
           "einsatz_prozent_kasse": 0.5,
           "begruendung": "Celtic Home-Attacking-Bias historisch 2.4+ Tore/Heimspiel in CL-Q. Aber CL-Q3-Rueckspiel-Unter25-Cluster (HR08-12-3, 83%) macht dies Wackel statt VALUE. Playoff-Hinspiel kann taktischer verlaufen. Kasse 0.5%.",
           "faire_quote": 2.05,
@@ -135,7 +135,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "value",
           "markt": "Arsenal Sieg",
           "quote": 1.28,
-          "einsatz_euro": 8.25,
+          "einsatz_euro": 15.0,
           "einsatz_prozent_kasse": 1.5,
           "begruendung": "Klassen-Duell + Heim-Kessel Emirates + Meister-Motivation Auftakt. HR08-16-1 Klassen-Duell-VALUE-Einzel-Doktrin @1.28-1.55 im Saison-Auftakt bestaetigt n2. Bluter-Liga PL braucht defensive Kombi-Isolation (HR08-10-2, HR08-15-2). Kasse 550€ x 1.5% = 8.25€.",
           "faire_quote": 1.28,
@@ -145,7 +145,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "value",
           "markt": "Havertz Torschuetze jederzeit",
           "quote": 2.2,
-          "einsatz_euro": 5.5,
+          "einsatz_euro": 10.0,
           "einsatz_prozent_kasse": 1.0,
           "begruendung": "Pflicht-Profile Heim-Fav: Torschuetzen-Tipp auf Volume-9er. Arsenal-Backup-Sturm-Tiefe (Gyoekeres im Sub-Fall) Boost-Chance ueber bet365-Einwechslungs-Regel. Historisch Havertz-Emirates-Bilanz 2025/26 gut in Heim-Klassen-Duellen. Kasse 1.0%.",
           "faire_quote": 2.2,
@@ -155,7 +155,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "wackel",
           "markt": "Beide Teams treffen NEIN",
           "quote": 1.85,
-          "einsatz_euro": 2.75,
+          "einsatz_euro": 5.0,
           "einsatz_prozent_kasse": 0.5,
           "begruendung": "Coventry-Aufsteiger-Torschwaeche in Anfangs-PL-Wochen typisch (2. Halbjahr aggressiver). Aber HR08-16-2 Late-Goal-Cluster + HR08-15-4 Def-Krise-Cluster im Saison-Auftakt sind Gegenwind (BTTS Ja hat Rueckenwind). Deshalb WACKEL statt VALUE. Kasse 0.5%.",
           "faire_quote": 1.85,
@@ -168,68 +168,73 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "id": "2026-08-22-bvb-fcb",
       "liga": "Franz Beckenbauer Supercup 2026",
       "heim": "Borussia Dortmund",
-      "gast": "FC Bayern Muenchen",
+      "gast": "FC Bayern München",
       "anstoss": "2026-08-22T20:30:00+02:00",
       "stadion": "Signal Iduna Park, Dortmund",
       "saison_kontext": {
-        "parallel_heim": "keine (BVB DFB-Pokal 1. Runde erst 01.09. vs HEBC Hamburg wegen Supercup verschoben)",
-        "parallel_gast": "keine (Bayern DFB-Pokal 1. Runde erst 02.09. vs Osnabrueck wegen Supercup verschoben)",
-        "saisonziel_heim": "BVB Vize-Meister 2025/26 - CL-Quali gesichert, Meisterschafts-Herausforderer + Prestige-Titel Supercup",
-        "saisonziel_gast": "Bayern Double-Sieger 2025/26 (Bundesliga + DFB-Pokal) - Titel-Verteidigung + weiteres Trophaeen-Sammeln",
-        "motivations_asymmetrie": "Beide voll motiviert - erstes Pflichtspiel der Saison + Klassiker + Prestige. Bayern leichter Favorit wegen historischer Dominanz + Heim-DBB-Kessel-Umkehr (BVB Heim aber Bayern gewinnt statistisch oft in Dortmund)",
-        "recovery_heim": "Beide Teams saisonauftakts-frisch, keine Vorsaison-Belastung durch WM (letzte WM war Sommer 2026, alle Nationalspieler zurueck)",
-        "recovery_gast": "Bayern hatte laengere Vorbereitung wegen keiner CL-Quali-Belastung (Klub-WM 2025 nicht relevant, USA-Tour Sommer 2026)",
+        "parallel_heim": "keine - der Supercup IST das erste Pflichtspiel. BVB-DFB-Pokal-1.-Runde bei HEBC Hamburg wurde wegen des Supercups auf Di 01.09. verlegt, Bundesliga-Auftakt 28.08., CL-Ligaphase erst ab September.",
+        "parallel_gast": "keine - Bayern-DFB-Pokal-1.-Runde bei VfL Osnabrück wegen des Supercups auf Mi 02.09. verlegt, Bundesliga-Auftakt 28.08., CL-Ligaphase erst ab September.",
+        "saisonziel_heim": "BVB Vizemeister 2025/26, CL-Ligaphase gesetzt. Ziel: Titelangriff + erster Titel der Saison als Statement gegen Bayern.",
+        "saisonziel_gast": "Bayern Double-Sieger 2025/26 (Meisterschaft + DFB-Pokal). Ziel: Titelverteidigung, Supercup als Pflicht-Trophäe.",
+        "motivations_asymmetrie": "Kein Motivations-Gefälle - erstes Pflichtspiel, Klassiker, Titel. Beide stellen ihre beste Elf. Die Asymmetrie liegt im Personal: Bayern fehlt Offensiv-Breite (Musiala pausiert, Gnabry + Karl angeschlagen), BVB fehlt die Innenverteidigung (N. Schlotterbeck Innenbandriss, Can Kreuzbandriss, Chukwuemeka muskulär). Das spricht für Tore, nicht für einen sicheren Sieger.",
+        "recovery_heim": "Vorbereitungsfrisch, kein Pflichtspiel-Rückstand. Letztes Testspiel-Fenster abgeschlossen, volle Trainingswoche.",
+        "recovery_gast": "Vorbereitungsfrisch, aber Telekom-Cup-Test gegen RB Leipzig kostete Laimer + Kim verletzungsbedingte Auswechslungen - Kader-Tiefe hinten angeknackst.",
         "quellen": [
-          "https://en.wikipedia.org/wiki/2026_Franz_Beckenbauer_Supercup",
-          "https://www.bundesliga.com/en/bundesliga/news/dfl-confirm-details-2026-franz-beckenbauer-supercup-bayern-munich-borussia-dortmund-37584",
-          "https://fcbayern.com/en/news/2026/05/dfl-confirm-details-for-franz-beckenbauer-supercup-2026"
+          "https://www.bundesliga.com/de/bundesliga/news/franz-beckenbauer-supercup-2026-alle-infos-zu-dortmund-gegen-bayern-38552",
+          "https://www.kicker.de/dortmund-gegen-bayern-2026-dfl-supercup-5202610/aufstellung",
+          "https://fcbayern.com/de/spiele/profis/supercup/2026-2027/franz-beckenbauer-supercup-borussia-dortmund-fc-bayern-22-08-2026/aufstellung",
+          "https://www.bundesliga.com/de/bundesliga/news/dfb-pokal-1-runde-2026-27-ansetzungen-bayern-dortmund-37950",
+          "https://en.wikipedia.org/wiki/2026_Franz_Beckenbauer_Supercup"
         ]
       },
       "news": [
-        "Bayern-Sturm mit Kane (Meister-Torschuetzenkoenig 2025/26) + neuer Ersatz-9er Karl - Torgefahr sehr hoch.",
-        "BVB Guirassy als Stammspitze bestaetigt, Adeyemi/Beier als Backup Volume-9er (Einwechslungs-Boost-Kandidaten).",
-        "H2H der letzten 5 Klassiker: Bayern 3 Siege, 1 Draw, 1 BVB-Sieg - aber Supercup-Bilanz enger.",
-        "Kompany (Bayern-Trainer 2. Saison) vs Kovac (BVB-Trainer 2. Saison) - beide etabliert."
+        "Voraussichtlich BVB: Kobel - Gadou, Anton, Bensebaini - Ryerson, Bellingham, F. Nmecha, Svensson - Karetsas, Inácio - Guirassy.",
+        "BVB-Ausfälle: N. Schlotterbeck (Innenbandriss), Can (Kreuzbandriss), Chukwuemeka (muskulär). Die Stamm-Innenverteidigung ist damit komplett neu zusammengesetzt.",
+        "Voraussichtlich Bayern: Neuer - Stanisic, Upamecano, Tah, Brown - Kimmich, Pavlovic - Olise, Bischof, Luis Díaz - Kane.",
+        "Bayern-Ausfälle: Musiala pausiert, Gnabry + Karl angeschlagen. Laimer + Kim mussten im Telekom-Cup gegen Leipzig verletzt raus.",
+        "ACHTUNG bet365-Regel: die 2:0-Insurance gilt nur für 1. Bundesliga + Champions League. Der Supercup ist KEIN Bundesliga-Spiel - hier gibt es keine Absicherung bei einer verspielten 2:0-Führung.",
+        "Karim Adeyemi ist seit 24.07.2026 bei Barcelona - taucht in keinem BVB-Tipp mehr auf (kader_wechsel_2026.json).",
+        "Bei Unentschieden nach 90 Minuten geht es direkt ins Elfmeterschießen. Alle 1X2-/DC-Märkte werten nur die regulären 90 Minuten."
       ],
       "tipps": [
         {
           "kategorie": "value",
           "markt": "Ueber 2.5 Tore",
-          "quote": 1.55,
-          "einsatz_euro": 8.25,
+          "quote": 1.38,
+          "einsatz_euro": 15.0,
           "einsatz_prozent_kasse": 1.5,
           "begruendung": "Klassiker-Bilanz H2H seit 2022: 8 von 10 Klassikern mit 3+ Toren. Supercup traditionell offene Partie, keine Punkt-Angst. HR08-15-4 Saison-Auftakt-Def-Krise-Cluster + HR08-16-2 Late-Goal-Cluster bestaetigen Ueber-Bias. Kasse 550€ x 1.5% = 8.25€.",
-          "faire_quote": 1.55,
+          "faire_quote": 1.38,
           "empfohlener_einsatz_prozent": 1.0
         },
         {
           "kategorie": "value",
           "markt": "Beide Teams treffen JA",
-          "quote": 1.5,
-          "einsatz_euro": 5.5,
+          "quote": 1.45,
+          "einsatz_euro": 10.0,
           "einsatz_prozent_kasse": 1.0,
           "begruendung": "Beide Teams Angriffs-lastig, letzte 5 Klassiker: 4/5 BTTS Ja. Supercup 2022 Bayern-Leipzig-BVB-Muster BTTS-dominant. HR08-16-2 Late-Goal-Cluster Rueckenwind. Kasse 1.0%.",
-          "faire_quote": 1.5,
+          "faire_quote": 1.45,
           "empfohlener_einsatz_prozent": 1.0
         },
         {
           "kategorie": "value",
           "markt": "Harry Kane Torschuetze jederzeit",
-          "quote": 1.9,
-          "einsatz_euro": 5.5,
+          "quote": 1.7,
+          "einsatz_euro": 10.0,
           "einsatz_prozent_kasse": 1.0,
-          "begruendung": "Pflicht-Profile Auswaerts-Fav: Torschuetzen-Tipp auf Star-9er. Kane 2025/26 Bundesliga-Torschuetzenkoenig. Goldgrube-Markt Torschuetzen Jederzeit (Statistik +24% ROI). Backup Karl im Sub-Fall Boost-Chance (bet365-Einwechslungs-Regel). Kasse 1.0%.",
-          "faire_quote": 1.9,
+          "begruendung": "Torschuetzen Jederzeit ist Markt-Goldgrube (+24.4% ROI). Kane startet laut Aufstellungs-Vorschau und ist bei ausgeduennter Bayern-Offensive (Musiala pausiert, Gnabry + Karl angeschlagen) noch staerker der Abschluss-Fokus. bet365-Einwechslungs-Boost greift: trifft sein direkter Ersatz nach Auswechslung, zaehlt das Tor fuer Kane. Kasse 1000€ x 1.5% = 15€.",
+          "faire_quote": 1.7,
           "empfohlener_einsatz_prozent": 1.0
         },
         {
           "kategorie": "wackel",
           "markt": "Guirassy Torschuetze jederzeit",
-          "quote": 2.3,
-          "einsatz_euro": 2.75,
+          "quote": 2.45,
+          "einsatz_euro": 5.0,
           "einsatz_prozent_kasse": 0.5,
-          "begruendung": "BVB Heim-9er, Vorsaison sehr formstark. Aber Bayern-Abwehr-Klasse (Upamecano/Kim) stark. Backup Adeyemi/Beier Volume-Sub-Boost-Chance. Kasse 0.5%.",
-          "faire_quote": 2.3,
+          "begruendung": "BVB-Stammspitze, im Signal Iduna Park gefaehrlich. Aber Upamecano/Tah sind die staerkste Innenverteidigung der Liga - deshalb WACKEL. Einwechslungs-Boost greift ueber den direkten Ersatzspieler (NICHT Adeyemi - der ist seit 24.07.2026 bei Barcelona). Kasse 1000€ x 0.5% = 5€.",
+          "faire_quote": 2.45,
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
@@ -268,7 +273,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "value",
           "markt": "Real Madrid Sieg",
           "quote": 1.42,
-          "einsatz_euro": 8.25,
+          "einsatz_euro": 15.0,
           "einsatz_prozent_kasse": 1.5,
           "begruendung": "Goldgrube-Liga LaLiga (+22% ROI, 50% Hit). Klassen-Duell Meister vs Aufsteiger + Real H2H-Dominanz 23/28. HR08-16-1 VALUE-Einzel-Doktrin @1.35-1.55 im Saison-Auftakt bestaetigt. Kombi-Isolation Pflicht (HR08-10-2). Kasse 550€ x 1.5% = 8.25€.",
           "faire_quote": 1.42,
@@ -278,7 +283,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "value",
           "markt": "Mbappe Torschuetze jederzeit",
           "quote": 1.65,
-          "einsatz_euro": 8.25,
+          "einsatz_euro": 15.0,
           "einsatz_prozent_kasse": 1.5,
           "begruendung": "Pflicht-Profile Auswaerts-Fav: Torschuetzen-Tipp auf Star-9er. Goldgrube-Markt Torschuetzen Jederzeit (+24% ROI). Mbappe 2025/26 LaLiga-Torschuetzenkoenig + WM-Rekord-Torschuetze. Backup Vinicius/Endrick im Sub-Fall Boost-Chance (bet365-Regel). Kasse 1.5%.",
           "faire_quote": 1.65,
@@ -288,7 +293,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "value",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.55,
-          "einsatz_euro": 5.5,
+          "einsatz_euro": 10.0,
           "einsatz_prozent_kasse": 1.0,
           "begruendung": "Real Torschnitt 2.4/Spiel + Klassen-Blowout-Potenzial. HR08-15-4 Def-Krise-Cluster Saison-Auftakt + HR08-16-2 Late-Goal Cluster Rueckenwind. Espanyol Aufsteiger-Def-Schwaeche gegen Klassen-Sturm. Kasse 1.0%.",
           "faire_quote": 1.55,
@@ -298,7 +303,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "wackel",
           "markt": "Vinicius Torschuetze jederzeit",
           "quote": 2.1,
-          "einsatz_euro": 2.75,
+          "einsatz_euro": 5.0,
           "einsatz_prozent_kasse": 0.5,
           "begruendung": "Vinicius Doppel-Bein zu Mbappe. Backup falls Mbappe fruehe Rot oder Verletzung. Beide-Star-Tore-Cluster in Klassen-Duellen haeufig. Kasse 0.5%.",
           "faire_quote": 2.1,
@@ -338,7 +343,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "wackel",
           "markt": "Barcelona Sieg",
           "quote": 1.42,
-          "einsatz_euro": 8.25,
+          "einsatz_euro": 15.0,
           "einsatz_prozent_kasse": 1.5,
           "begruendung": "Goldgrube-Liga LaLiga (+22% ROI). Klassen-Duell Vize-Meister vs Aufsteiger + Barca-Startspiel-Motivation nach postponed J1. HR08-16-1 VALUE-Einzel-Doktrin @1.35-1.55 haltbar. Kombi-Isolation Pflicht. Kasse 550€ x 1.5% = 8.25€. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "faire_quote": 1.42,
@@ -349,7 +354,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "value",
           "markt": "Lewandowski Torschuetze jederzeit",
           "quote": 1.75,
-          "einsatz_euro": 8.25,
+          "einsatz_euro": 15.0,
           "einsatz_prozent_kasse": 1.5,
           "begruendung": "Pflicht-Profile Auswaerts-Fav: Torschuetzen-Tipp auf Star-9er. Goldgrube-Markt Torschuetzen (+24% ROI). Lewandowski Barca-Stammspitze 2025/26 mit 22 LaLiga-Toren. Backup Yamal/Torres im Sub-Fall Boost-Chance. Kasse 1.5%.",
           "faire_quote": 1.75,
@@ -359,7 +364,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "wackel",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.65,
-          "einsatz_euro": 2.75,
+          "einsatz_euro": 5.0,
           "einsatz_prozent_kasse": 0.5,
           "begruendung": "Barca-Sturm-Klasse gegen Aufsteiger-Def-Schwaeche. HR08-15-4 Saison-Auftakt-Def-Krise-Cluster + HR08-16-2 Late-Goal Cluster Rueckenwind. Aber Barca-Startspiel Rost-Faktor + Elche defensive Anordnung koennten 1:0/2:0 als Endstand ermoeglichen. Kasse 0.5%.",
           "faire_quote": 1.65,
@@ -400,7 +405,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "value",
           "markt": "Man City Sieg",
           "quote": 1.42,
-          "einsatz_euro": 8.25,
+          "einsatz_euro": 15.0,
           "einsatz_prozent_kasse": 1.5,
           "begruendung": "Klassen-Duell Etihad + Guardiola-Auftakts-Motivation. HR08-16-1 VALUE-Einzel-Doktrin @1.35-1.55 haltbar. Bluter-Liga PL braucht Kombi-Isolation (HR08-10-2). Kasse 550€ x 1.5% = 8.25€.",
           "faire_quote": 1.42,
@@ -410,7 +415,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "value",
           "markt": "Haaland Torschuetze jederzeit",
           "quote": 1.55,
-          "einsatz_euro": 5.5,
+          "einsatz_euro": 10.0,
           "einsatz_prozent_kasse": 1.0,
           "begruendung": "Pflicht-Profile Heim-Fav: Torschuetzen-Tipp auf Star-9er. Goldgrube-Markt Torschuetzen Jederzeit (+24% ROI). Haaland historisch Etihad-Heim-Torschnitt 1.1/Spiel. Kasse 1.0%.",
           "faire_quote": 1.55,
@@ -420,7 +425,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "wackel",
           "markt": "Beide Teams treffen JA",
           "quote": 1.65,
-          "einsatz_euro": 2.75,
+          "einsatz_euro": 5.0,
           "einsatz_prozent_kasse": 0.5,
           "begruendung": "Bournemouth-H2H immer 1+ Tor am Etihad. HR08-15-4 Def-Krise-Cluster + HR08-16-2 Late-Goal Cluster Rueckenwind. Aber Man City Community-Shield-Aufstellung heute war ggf voll = Rotation moeglich, Def-Klasse Ziel Sauber. Kasse 0.5%.",
           "faire_quote": 1.65,
@@ -460,7 +465,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "wackel",
           "markt": "Beide Teams treffen JA",
           "quote": 1.5,
-          "einsatz_euro": 2.75,
+          "einsatz_euro": 5.0,
           "einsatz_prozent_kasse": 0.5,
           "begruendung": "Coinflip-Spiel (Sieg-Quoten alle 2.30-3.30) = KEIN SAFE moeglich. HR08-16-2 Late-Goal-Cluster + HR08-15-4 Def-Krise-Cluster Saison-Auftakt Rueckenwind fuer BTTS-Ja. Beide Teams attackierende Systeme, H2H letzte 5: 4/5 BTTS Ja. Kasse 0.5%.",
           "faire_quote": 1.5,
@@ -470,7 +475,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "wackel",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.7,
-          "einsatz_euro": 2.75,
+          "einsatz_euro": 5.0,
           "einsatz_prozent_kasse": 0.5,
           "begruendung": "Coinflip-Spiel-Konsequenz: max 3 Tipps + kein SAFE. Beide Teams offensiv, HR08-15-4 Def-Krise-Cluster Saison-Auftakt. Kasse 0.5%.",
           "faire_quote": 1.7,
@@ -511,7 +516,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "value",
           "markt": "Inter Sieg",
           "quote": 1.25,
-          "einsatz_euro": 8.25,
+          "einsatz_euro": 15.0,
           "einsatz_prozent_kasse": 1.5,
           "begruendung": "Klassen-Duell Meister vs Aufsteiger + Meazza-Kessel + Saisonauftakts-Motivation. HR08-16-1 VALUE-Einzel-Doktrin @1.25-1.55 haltbar im Saison-Auftakt (Palm-Inter-Trauma war Ausnahme, seither n2 Konfirmation). Kombi-Isolation Pflicht (HR08-10-2). Kasse 550€ x 1.5% = 8.25€.",
           "faire_quote": 1.25,
@@ -521,7 +526,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "wackel",
           "markt": "Lautaro Martinez Torschuetze jederzeit",
           "quote": 1.85,
-          "einsatz_euro": 5.5,
+          "einsatz_euro": 10.0,
           "einsatz_prozent_kasse": 1.0,
           "begruendung": "Pflicht-Profile Heim-Fav: Torschuetzen-Tipp auf Star-9er. Goldgrube-Markt Torschuetzen (+24% ROI). Lautaro Inter-Kapitaen + Meister-Torschnitt 22 Tore 2025/26. Backup Thuram im Sub-Fall Boost-Chance (bet365-Regel). Kasse 1.0%. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 1.85,
@@ -532,7 +537,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "wackel",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.6,
-          "einsatz_euro": 2.75,
+          "einsatz_euro": 5.0,
           "einsatz_prozent_kasse": 0.5,
           "begruendung": "Inter-Sturm-Klasse gegen Aufsteiger-Def-Schwaeche. HR08-15-4 Def-Krise-Cluster + HR08-16-2 Late-Goal Cluster Rueckenwind. Aber Monza 3-5-2 defensiv koennte 1:0/2:0 als Endstand ermoeglichen. Kasse 0.5%.",
           "faire_quote": 1.6,
@@ -572,7 +577,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "safe",
           "markt": "Frankfurt Sieg",
           "quote": 1.05,
-          "einsatz_euro": 5.5,
+          "einsatz_euro": 10.0,
           "einsatz_prozent_kasse": 1.0,
           "begruendung": "Extremer Klassen-Unterschied Bundesliga-CL-Teilnehmer vs Amateur-Oberliga = seltener echter SAFE-Fall. Aber Aufsteiger-Trauma-Warnung (HR08-15-1): niedrige Quote 1.05 nur 5% Rendite - Einsatz konservativ 1.0% statt 1.5%. Kombi-Isolation Pflicht. Kasse 5.50€.",
           "faire_quote": 1.05,
@@ -582,7 +587,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "value",
           "markt": "Ueber 3.5 Tore",
           "quote": 1.55,
-          "einsatz_euro": 5.5,
+          "einsatz_euro": 10.0,
           "einsatz_prozent_kasse": 1.0,
           "begruendung": "Amateur-Oberliga-Def-Level historisch anfaellig gegen Bundesliga-Klub (Toropfer 4-6 Tore ueblich in DFB-Pokal 1. Runde). SGE Torschnitt 2025/26 Auswaerts 2.1/Spiel. HR08-15-4 Def-Krise-Cluster + HR08-16-2 Late-Goal Cluster Rueckenwind. Kasse 1.0%.",
           "faire_quote": 1.55,
@@ -592,7 +597,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "wackel",
           "markt": "SGE-Volume-Sturm-Torschuetze jederzeit",
           "quote": 1.5,
-          "einsatz_euro": 2.75,
+          "einsatz_euro": 5.0,
           "einsatz_prozent_kasse": 0.5,
           "begruendung": "Aufstellungs-Rotation moeglich = spezifischen 9er zu tippen risiko. Placeholder-Tipp (bei bet365 live pruefen wer als 9er startet: vermutlich neuer Ersatzstuermer oder Bahoya nominell. Bei Backup-Einwechslung-Boost gewinnt via bet365-Regel). Kasse 0.5%.",
           "faire_quote": 1.5,
@@ -633,7 +638,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "value",
           "markt": "VfB Sieg",
           "quote": 1.42,
-          "einsatz_euro": 8.25,
+          "einsatz_euro": 15.0,
           "einsatz_prozent_kasse": 1.5,
           "begruendung": "Klassen-Duell + VfB Pokal-Verteidiger + Live-TV-Motivation. HR08-16-1 VALUE-Einzel-Doktrin @1.35-1.55 im Saison-Auftakt haltbar. Kombi-Isolation Pflicht (HR08-10-2). Hansa Doppelbelastung kleine Zusatzchance. Kasse 550€ x 1.5% = 8.25€.",
           "faire_quote": 1.42,
@@ -643,7 +648,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "value",
           "markt": "Undav Torschuetze jederzeit",
           "quote": 2.0,
-          "einsatz_euro": 5.5,
+          "einsatz_euro": 10.0,
           "einsatz_prozent_kasse": 1.0,
           "begruendung": "Pflicht-Profile Auswaerts-Fav: Torschuetzen-Tipp auf Volume-9er. Undav VfB-Stammspitze (falls startet - Rotation-Risiko). Goldgrube-Markt Torschuetzen (+24% ROI). Backup Demirovic/Woltemade im Sub-Fall Boost-Chance. Kasse 1.0%.",
           "faire_quote": 2.0,
@@ -653,7 +658,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "kategorie": "wackel",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.6,
-          "einsatz_euro": 2.75,
+          "einsatz_euro": 5.0,
           "einsatz_prozent_kasse": 0.5,
           "begruendung": "VfB-Sturm-Klasse + Hansa-Def-3.-Liga-Level. HR08-15-4 Def-Krise-Cluster + HR08-16-2 Late-Goal Cluster Rueckenwind. Aber DFB-Pokal-Klassen-Duelle koennen 2:0/1:0 Endstand haben wenn Fav taktisch verwaltet. Kasse 0.5%.",
           "faire_quote": 1.6,
@@ -671,7 +676,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "spiel_bezeichnung": "St. Toenis - Frankfurt (Fr 21.08. 18:00, DFB-Pokal 1. R.)",
       "markt": "Frankfurt Sieg",
       "quote": 1.05,
-      "einsatz_euro": 5.5,
+      "einsatz_euro": 10.0,
       "einsatz_prozent_kasse": 1.0,
       "begruendung": "Extremer Klassen-Unterschied Bundesliga-CL-Teilnehmer vs Amateur-Oberliga = seltener echter SAFE. Aufsteiger-Trauma-Warnung HR08-15-1 begrenzt Einsatz auf 1.0%. Quote 1.05 = 5% Rendite.",
       "empfohlener_einsatz_prozent": 1.5
@@ -683,7 +688,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "spiel_bezeichnung": "Espanyol - Real Madrid (Sa 22.08. 21:30, LaLiga J2)",
       "markt": "Real Madrid Sieg",
       "quote": 1.42,
-      "einsatz_euro": 8.25,
+      "einsatz_euro": 15.0,
       "einsatz_prozent_kasse": 1.5,
       "begruendung": "Goldgrube-Liga LaLiga (+22% ROI). Klassen-Duell Meister vs Aufsteiger + H2H 23/28. HR08-16-1 VALUE-Einzel-Doktrin @1.35-1.55 bestaetigt n2. Kombi-Isolation Pflicht.",
       "empfohlener_einsatz_prozent": 1.0
@@ -695,7 +700,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "spiel_bezeichnung": "Elche - Barcelona (So 23.08. 21:30, LaLiga J2)",
       "markt": "Barcelona Sieg",
       "quote": 1.42,
-      "einsatz_euro": 8.25,
+      "einsatz_euro": 15.0,
       "einsatz_prozent_kasse": 1.5,
       "begruendung": "Goldgrube-Liga LaLiga (+22% ROI). Klassen-Duell Vize-Meister vs Aufsteiger + Barca-Startspiel-Motivation nach postponed J1. HR08-16-1 VALUE-Einzel-Doktrin haltbar. Kombi-Isolation Pflicht.",
       "empfohlener_einsatz_prozent": 1.0
@@ -707,7 +712,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "spiel_bezeichnung": "Espanyol - Real Madrid (Sa 22.08. 21:30, LaLiga J2)",
       "markt": "Mbappe Torschuetze jederzeit",
       "quote": 1.65,
-      "einsatz_euro": 8.25,
+      "einsatz_euro": 15.0,
       "einsatz_prozent_kasse": 1.5,
       "begruendung": "Pflicht-Profile Auswaerts-Fav: Torschuetzen-Tipp auf Star-9er. Goldgrube-Markt Torschuetzen Jederzeit (+24% ROI). Mbappe LaLiga-Torschuetzenkoenig 2025/26 + WM-Rekord-Torschuetze. Backup Vinicius/Endrick Boost-Chance.",
       "empfohlener_einsatz_prozent": 1.0
@@ -719,7 +724,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "spiel_bezeichnung": "Elche - Barcelona (So 23.08. 21:30, LaLiga J2)",
       "markt": "Lewandowski Torschuetze jederzeit",
       "quote": 1.75,
-      "einsatz_euro": 8.25,
+      "einsatz_euro": 15.0,
       "einsatz_prozent_kasse": 1.5,
       "begruendung": "Pflicht-Profile Auswaerts-Fav: Torschuetzen-Tipp auf Star-9er. Goldgrube-Markt Torschuetzen (+24% ROI). Lewandowski Barca-Stammspitze mit 22 LaLiga-Toren 2025/26. Backup Yamal Boost-Chance.",
       "empfohlener_einsatz_prozent": 1.0
@@ -731,7 +736,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "spiel_bezeichnung": "Inter - Monza (Sa 22.08. 18:30, Serie A G1)",
       "markt": "Inter Sieg",
       "quote": 1.25,
-      "einsatz_euro": 8.25,
+      "einsatz_euro": 15.0,
       "einsatz_prozent_kasse": 1.5,
       "begruendung": "Klassen-Duell Meister vs Aufsteiger + Meazza-Kessel + Saisonauftakts-Motivation. HR08-16-1 VALUE-Einzel-Doktrin @1.25-1.55 haltbar n2 (Palm-Inter-Trauma war Ausnahme). Kombi-Isolation Pflicht.",
       "empfohlener_einsatz_prozent": 1.0
@@ -743,7 +748,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "spiel_bezeichnung": "Man City - Bournemouth (So 23.08. 15:00, PL MD1)",
       "markt": "Manchester City Sieg",
       "quote": 1.42,
-      "einsatz_euro": 8.25,
+      "einsatz_euro": 15.0,
       "einsatz_prozent_kasse": 1.5,
       "begruendung": "Klassen-Duell Etihad + Guardiola-Auftakts-Motivation. HR08-16-1 VALUE-Einzel-Doktrin @1.35-1.55 haltbar. Bluter-Liga PL braucht Kombi-Isolation (HR08-10-2).",
       "empfohlener_einsatz_prozent": 1.0
@@ -755,7 +760,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "spiel_bezeichnung": "Dortmund - Bayern (Sa 22.08. 20:30, Supercup)",
       "markt": "Ueber 2.5 Tore",
       "quote": 1.55,
-      "einsatz_euro": 8.25,
+      "einsatz_euro": 15.0,
       "einsatz_prozent_kasse": 1.5,
       "begruendung": "Klassiker-Bilanz H2H seit 2022: 8/10 mit 3+ Toren. Supercup traditionell offen. HR08-15-4 Def-Krise + HR08-16-2 Late-Goal Cluster Rueckenwind.",
       "empfohlener_einsatz_prozent": 1.0
@@ -767,7 +772,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "spiel_bezeichnung": "Dortmund - Bayern (Sa 22.08. 20:30, Supercup)",
       "markt": "Harry Kane Torschuetze jederzeit",
       "quote": 1.9,
-      "einsatz_euro": 5.5,
+      "einsatz_euro": 10.0,
       "einsatz_prozent_kasse": 1.0,
       "begruendung": "Pflicht-Profile Auswaerts-Fav: Torschuetzen-Tipp auf Star-9er. Kane BL-Torschuetzenkoenig 2025/26. Goldgrube-Markt Torschuetzen (+24% ROI). Backup Karl im Sub-Fall Boost-Chance.",
       "empfohlener_einsatz_prozent": 1.0
@@ -779,7 +784,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "spiel_bezeichnung": "Fenerbahce - Lyon (Mi 19.08. 21:00, CL-Playoff HS)",
       "markt": "Unter 2.5 Tore",
       "quote": 1.85,
-      "einsatz_euro": 8.25,
+      "einsatz_euro": 15.0,
       "einsatz_prozent_kasse": 1.5,
       "begruendung": "Goldgrube-Markt Unter 2.5 Tore (Statistik: 72.4% Hit, +27.1% ROI, n=29). CL-Q3-Rueckspiel-Bias Unter25-Cluster validiert n3 (auch fuer Playoff-Hinspiel gueltig). Beide Elite-Teams taktisch vorsichtig wegen Rueckspiel-Aggregat.",
       "empfohlener_einsatz_prozent": 1.0
@@ -791,7 +796,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "spiel_bezeichnung": "Celtic - LASK (Mi 19.08. 21:00, CL-Playoff HS)",
       "markt": "Celtic Sieg",
       "quote": 1.55,
-      "einsatz_euro": 5.5,
+      "einsatz_euro": 10.0,
       "einsatz_prozent_kasse": 1.0,
       "begruendung": "Klassen-Duell + Heim-Kessel + Rodgers-Druck-Bonus. HR08-16-1 VALUE-Einzel-Doktrin haltbar. LASK reisen weit + geringere UEFA-Coeff. Einsatz reduziert 1.0% wegen CL-Q4-Playoff-Volatilitaet.",
       "empfohlener_einsatz_prozent": 1.0
@@ -803,7 +808,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "spiel_bezeichnung": "Man City - Bournemouth (So 23.08. 15:00, PL MD1)",
       "markt": "Haaland Torschuetze jederzeit",
       "quote": 1.55,
-      "einsatz_euro": 5.5,
+      "einsatz_euro": 10.0,
       "einsatz_prozent_kasse": 1.0,
       "begruendung": "Pflicht-Profile Heim-Fav: Torschuetzen-Tipp auf Star-9er. Goldgrube-Markt Torschuetzen Jederzeit (+24% ROI). Haaland Etihad-Heim-Torschnitt 1.1/Spiel. Backup Marmoush/Doku Boost-Chance.",
       "empfohlener_einsatz_prozent": 1.0
@@ -814,7 +819,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       "name": "Kombi Safe Woche 34",
       "kategorie": "safe",
       "gesamtquote": 5.55,
-      "einsatz_euro": 11.0,
+      "einsatz_euro": 20.0,
       "einsatz_prozent_kasse": 2.0,
       "beine": [
         {
@@ -849,13 +854,14 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
         }
       ],
       "begruendung": "5 Klassen-Sieg-Beine in Klassiker-Duellen (2x LaLiga-Goldgrube, 1x Serie A, 1x PL, 1x CL-Playoff). Layer-1 OK (5 verschiedene Spiele). Layer-2 OK (5 verschiedene Spiele mit Sieg-Outcome). Kombi-Isolation (HR08-10-2, HR08-15-2) statt Cross-Kombi-Konzentration. Klassen-Konsens-Cluster-Bruch (HR08-16-3) begrenzt Einsatz konservativ 2.0%. Bei 550€ Kasse = 11€.",
-      "empfohlener_einsatz_prozent": 1.5
+      "empfohlener_einsatz_prozent": 1.5,
+      "rechnung": "1.42 x 1.42 x 1.25 x 1.42 x 1.55 = 5.55"
     },
     {
       "name": "Kombi Balance Woche 34",
       "kategorie": "balance",
-      "gesamtquote": 10.4,
-      "einsatz_euro": 4.4,
+      "gesamtquote": 9.26,
+      "einsatz_euro": 8.0,
       "einsatz_prozent_kasse": 0.8,
       "beine": [
         {
@@ -874,7 +880,7 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
           "spiel_id": "2026-08-22-bvb-fcb",
           "spiel_bezeichnung": "Dortmund - Bayern (Sa 22.08. 20:30, Supercup)",
           "markt": "Ueber 2.5 Tore",
-          "quote": 1.55
+          "quote": 1.38
         },
         {
           "spiel_id": "2026-08-23-mci-bou",
@@ -890,13 +896,14 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
         }
       ],
       "begruendung": "Markt-Mix: 3 Star-9er-Torschuetzen (Goldgrube +24% ROI) + 1 Ueber Tore (Supercup) + 1 BTTS (Coinflip-Support). Layer-1 OK (5 verschiedene Spiele). Layer-4 Markt-Konzentration begrenzt durch 3-2-Split. Kein Bein doppelt zu K1 (Sieg-Outcomes). Bei 550€ Kasse = 4.40€.",
-      "empfohlener_einsatz_prozent": 0.5
+      "empfohlener_einsatz_prozent": 0.5,
+      "rechnung": "1.65 x 1.75 x 1.38 x 1.55 x 1.50 = 9.26"
     },
     {
       "name": "Kombi Risiko Woche 34",
       "kategorie": "risk",
-      "gesamtquote": 31.5,
-      "einsatz_euro": 1.4,
+      "gesamtquote": 31.54,
+      "einsatz_euro": 2.5,
       "einsatz_prozent_kasse": 0.25,
       "beine": [
         {
@@ -931,13 +938,14 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
         }
       ],
       "begruendung": "Alle Freitag-Spiele + Sa-Nachmittag + Mi-CL-Playoff = zeitlich diversifiziert. Layer-1 OK (5 verschiedene Spiele). Kein Bein doppelt zu K1/K2/K4 aus gleichem Spiel. Layer-4-Konzentration begrenzt (3 Torschuetze + 1 Ueber + 1 HZ-Sieg = Markt-Mix). Bei 550€ Kasse = 1.40€.",
-      "empfohlener_einsatz_prozent": 0.25
+      "empfohlener_einsatz_prozent": 0.25,
+      "rechnung": "2.00 x 2.20 x 1.55 x 1.85 x 2.50 = 31.54"
     },
     {
       "name": "Kombi Moonshot Woche 34",
       "kategorie": "moonshot",
-      "gesamtquote": 433.1,
-      "einsatz_euro": 0.55,
+      "gesamtquote": 389.81,
+      "einsatz_euro": 1.0,
       "einsatz_prozent_kasse": 0.1,
       "beine": [
         {
@@ -949,8 +957,9 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
         {
           "spiel_id": "2026-08-22-bvb-fcb",
           "spiel_bezeichnung": "Dortmund - Bayern (Sa 22.08. 20:30, Supercup)",
-          "markt": "Adeyemi Torschuetze jederzeit",
-          "quote": 5.0
+          "markt": "Karetsas Torschuetze jederzeit",
+          "quote": 4.5,
+          "hinweis": "Ersetzt den fehlerhaften Adeyemi-Tipp: Adeyemi spielt seit 24.07.2026 fuer Barcelona. Karetsas steht laut Aufstellungs-Vorschau in der BVB-Startelf."
         },
         {
           "spiel_id": "2026-08-23-elc-fcb",
@@ -972,7 +981,8 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
         }
       ],
       "begruendung": "Klassisches Moonshot-Konstrukt: 1 Draw + 3 Backup-/Star-Torschuetzen-Longshots + 1 Blowout-Ueber-Total. Layer-1 OK (5 verschiedene Spiele). Layer-2 OK (kein Sieg-Outcome doppelt). Layer-4 gemischt (3 Torschuetze + 1 Ueber + 1 Draw). Realistisch 400x-500x-Zielrange. Bei 550€ Kasse = 0.55€ Spaß-Einsatz.",
-      "empfohlener_einsatz_prozent": 0.1
+      "empfohlener_einsatz_prozent": 0.1,
+      "rechnung": "3.50 x 4.50 x 2.20 x 2.50 x 4.50 = 389.81"
     }
   ],
   "lessons_angewandt": [

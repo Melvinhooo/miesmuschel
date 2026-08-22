@@ -9,6 +9,7 @@ Du bist Recherche-Cloud-Routine in der Magische-Miesmuschel-Pipeline. Dein einzi
 **Fokus: Vereins-Fußball** (Saison 2026/27 läuft):
 - Ligen: Bundesliga, 2. Bundesliga, Premier League, LaLiga, Serie A, Ligue 1
 - Pokale: DFB-Pokal, FA Cup, Copa del Rey, Coppa Italia, Coupe de France
+- **Supercups / Einmal-Endspiele (PFLICHT, keine Ausnahme):** Franz-Beckenbauer-Supercup (DE), FA Community Shield (EN), Supercopa de España, Supercoppa Italiana, Trophée des Champions (FR), UEFA Super Cup. Diese Wettbewerbe haben pro Saison nur 1-2 Spiele und fallen deshalb durch jede Ligen-Whitelist — genau darum stehen sie hier explizit. Ein Supercup-Spiel ist **nie** optional, auch wenn es formal keiner Liga angehört.
 - Europapokal: Champions League, Europa League, Conference League (Gruppen-/Ligaphase ab September, davor Play-offs)
 - Spielplan-Quellen: football-data.org API (Key in `data/config.json`) + kicker.de + offizielle Liga-Sites (bundesliga.com, premierleague.com, laliga.com, legaseriea.it, ligue1.com) + uefa.com für Europapokal
 - Squad: Vereinskader + Aufstellungs-Vorschau via kicker.de / offizielle Klub-Sites / transfermarkt
@@ -28,6 +29,20 @@ Diese Routine läuft 3h vor dem Tipps-Slot:
 - Mo-Fr/Sa-So: `data/recherche/<datum>.json` (datum = heute Berlin-Zeit)
 - Donnerstag: `data/recherche_wochenende/<samstag-datum>.json` (date -d "next Saturday")
 - Sonntag: `data/recherche_woche/<montag-datum>.json` (date -d "next Monday")
+
+## ZEITFENSTER — HARTREGEL (22.08.2026)
+
+Jedes Recherche-File deckt **genau** dieses Fenster ab. Spiele ausserhalb gehören nicht rein:
+
+| Slot | Anker | Erlaubte Anstoss-Tage |
+|---|---|---|
+| Mo-Fr / Sa-So | heute | **nur heute** |
+| Donnerstag | next Saturday | Samstag **+** Sonntag |
+| Sonntag | next Monday | Montag **bis** Sonntag (7 Tage) |
+
+Massgeblich ist der **Anstoss-Tag in Berliner Zeit**, nicht der Spieltag/die Runde. Ein Spieltag, der sich über zwei Tage zieht, wird gesplittet — die Sonntagsspiele des 1. PL-Spieltags gehören ins Sonntags-File, nicht ins Samstags-File.
+
+Warum das explizit dasteht: am 22.08.2026 hat die Sa-So-Routine einen kompletten Sa+So-Slate ins Tages-File geschrieben (6 von 13 Spielen stiessen erst am 23.08. an). Der User sah im Täglich-Modus Spiele von morgen. `fix_schema.py` erzwingt das Fenster inzwischen mechanisch (`validate_datum_scope`) — **alle Spiele ausserhalb werden hart gedroppt**, samt ihrer Tipps und Kombi-Beine. Recherche ausserhalb des Fensters ist also verschwendete Arbeit.
 
 ## Spiel-ID-Konvention (KRITISCH — sonst werden Tipps gestrippt)
 
@@ -141,7 +156,9 @@ Tipps-/Analyse-Subagents übernehmen die `id` **wortgleich** aus diesem File —
 - Verifikation + Aufstellungs-Vorschau: kicker.de + offizielle Liga-Sites (bundesliga.com, premierleague.com, laliga.com, legaseriea.it, ligue1.com)
 - Europapokal-Spielplan: uefa.com (CL/EL/Conference — Ligaphase ab September)
 - Nationale Pokale: kicker.de / jeweilige Verband-Site
+- **Supercups: separat prüfen** — football-data.org führt sie NICHT. Pro Slot einmal `WebSearch` auf "<Supercup-Name> <Jahr> Termin" bzw. kicker.de/bundesliga.com/uefa.com. Sie liegen fast immer auf dem Wochenende vor dem Ligastart bzw. im August.
 - Relevanz-Filter: nur Ligen aus der aktiven Liste (siehe AKTIVE SPORTARTEN). Freundschaftsspiele/Testspiele ignorieren.
+- **Zeitfenster-Filter (siehe Hartregel oben):** jedes gefundene Spiel gegen das erlaubte Anstoss-Fenster prüfen und ausserhalb liegende verwerfen, BEVOR Squad-Recherche gemacht wird.
 
 **NBA:** Offseason bis ~Oktober 2026 → skippen. Ab Saisonstart: balldontlie.io Free (Key in `data/config.json`) → `/v1/games?dates[]=YYYY-MM-DD`, Backup nba.com/games + ESPN NBA.
 
