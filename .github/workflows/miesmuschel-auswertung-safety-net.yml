@@ -1,0 +1,107 @@
+name: Miesmuschel Auswertung Safety-Net (Backstop)
+
+# Dritte Schicht fuer die Auswertung, analog zu den Tipps.
+#   08:00 Cloud-Hauptroutine -> 09:00 Cloud-Watchdog -> 12:45 DIESER Backstop
+#
+# Warum das wichtig ist: die Auswertung ist der Motor des Selbstlernens. Aus ihr
+# entstehen statistik.json, die Goldgruben-/Bluter-/Beobachtungs-Listen und die
+# Lessons, aus denen die Tipps-Routinen am selben Tag lernen. Faellt sie mehrere
+# Tage aus, tippt das Tool weiter - aber es lernt nichts mehr dazu, und niemand
+# merkt es. Angelegt am 22.08.2026 vor einer laengeren Abwesenheit des Users.
+#
+# 12:45 Berlin ist bewusst gewaehlt: nach dem Sa/So-Tipps-Backstop (12:00) und vor
+# der Mo-Fr-Tipps-Hauptroutine (13:30), damit sich die Git-Pushes nicht ins Gehege
+# kommen.
+#
+# Prueft Inhalt, nicht nur Existenz. continue-on-error beim Generierungs-Schritt:
+# dieser Workflow meldet nie "failure" und schickt darum keine GitHub-Fehler-Mail.
+
+on:
+  schedule:
+    - cron: '45 10 * * *'   # taeglich 12:45 Berlin (MESZ) -> 10:45 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: miesmuschel-auswertung-safety-net
+  cancel-in-progress: false
+
+jobs:
+  auswertung-backstop:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Pruefe ob die Auswertung von gestern fehlt oder unvollstaendig ist
+        id: check
+        run: |
+          GESTERN=$(TZ=Europe/Berlin date -d "yesterday" +%Y-%m-%d)
+          echo "gestern=$GESTERN" >> "$GITHUB_OUTPUT"
+          if [ ! -f "data/tipps/$GESTERN.json" ]; then
+            echo "Kein Dossier vom $GESTERN - nichts auszuwerten. No-Op."
+            echo "need=0" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          NEED=1
+          if [ -f "data/ergebnisse/$GESTERN.json" ]; then
+            NEED=$(python -c "import json,sys;d=json.load(open('data/ergebnisse/$GESTERN.json',encoding='utf-8'));s=d.get('spiele',[]);sys.stdout.write('0' if (s and all(x.get('volle_analyse') for x in s)) else '1')" 2>/dev/null || echo 1)
+          fi
+          echo "need=$NEED" >> "$GITHUB_OUTPUT"
+          if [ "$NEED" = "1" ]; then
+            echo "Backstop AKTIV: Auswertung fuer $GESTERN fehlt oder ist unvollstaendig."
+          else
+            echo "Alles gut: Auswertung fuer $GESTERN ist vollstaendig. No-Op."
+          fi
+
+      - name: Install Claude Code CLI
+        if: steps.check.outputs.need == '1'
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Configure Git
+        if: steps.check.outputs.need == '1'
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "Miesmuschel Auswertung Safety-Net"
+
+      - name: Run Claude (Backstop-Auswertung)
+        if: steps.check.outputs.need == '1'
+        continue-on-error: true
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          export GESTERN=${{ steps.check.outputs.gestern }}
+          claude --print \
+            --model claude-opus-4-7 \
+            --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebSearch,WebFetch" \
+            --permission-mode acceptEdits \
+            "Du bist der Auswertungs-BACKSTOP in der Magische-Miesmuschel-Pipeline - die letzte Absicherung. Cloud-Hauptroutine (08:00) und Cloud-Watchdog (09:00) haben heute keine vollstaendige Auswertung fuer \$GESTERN geliefert.
+
+          Lies zuerst vollstaendig: CLAUDE.md und .github/scripts/subagent_prompts/auswertung_routine.md - und arbeite Schritt 1 bis 11 ab.
+
+          GESTERN = \$GESTERN
+
+          Lege data/config.json an falls noetig:
+            {\"football_data_key\": \"7b22b2d804cf42a5be38f3f293bddf54\", \"balldontlie_key\": \"f016f3a4-d504-4e58-bf69-a7f1d886bd32\"}
+          Dann: pip install --quiet requests
+
+          Drei Punkte, die erfahrungsgemaess falsch laufen:
+          - 2:0-Insurance gilt nur bei direkten Sieg-Tipps und nur in 1. Bundesliga + Champions League. Nicht bei Supercup, Pokal, Europa League, Doppelter Chance, Handicap, Ueber/Unter, BTTS.
+          - Einwechslungs-Boost greift nur, wenn der getippte Spieler SELBST ausgewechselt wurde und sein direkter Ersatz danach trifft.
+          - Elfmeterschiessen (Supercup, Pokal-K.o., Finals): 1X2- und DC-Maerkte werten nur die regulaeren 90 Minuten.
+
+          Pflicht: volle_analyse{} pro Spiel, dann python3 scripts/statistik_berechnen.py, bis zu 4 Lessons ziehen, lessons.js regenerieren. Bereits korrekt ausgewertete Spiele unveraendert lassen, nur Luecken fuellen.
+
+          Selbstlernen: faellt beim Auswerten auf, dass ein getippter Spieler nicht mehr zu diesem Verein gehoert oder ein anderer Trainer an der Linie stand, ergaenze das in data/kader_wechsel_2026.json mit Quellen-URL und aktualisiere stand. Vorher per WebSearch verifizieren, nicht raten.
+
+          KEINE neuen Tipps erzeugen. Nichts erfinden - fehlende Daten als null.
+
+          Am Ende: git add data/ergebnisse/ data/lessons.json data/lessons.js data/statistik.json data/statistik.js data/markt_bluter.json data/markt_goldgruben.json data/liga_goldgruben.json data/beobachtungs_ligen.json data/kader_wechsel_2026.json && git commit -m 'Auto-Auswertung \$GESTERN (Safety-Net Backstop)' && git push origin main (bei Reject: git pull --rebase origin main, dann erneut pushen)."
