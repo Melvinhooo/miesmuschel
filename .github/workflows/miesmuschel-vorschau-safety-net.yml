@@ -1,0 +1,114 @@
+name: Miesmuschel Vorschau Safety-Net (Wochenende + Woche)
+
+# Backstop fuer die beiden Vorschau-Modi, analog zum Tages-Backstop.
+# Bisher gab es fuer Wochenende und Woche nur Cloud-Hauptroutine + Cloud-Watchdog.
+# Fallen beide aus (Stream-Timeout, Cloud-Stoerung), fehlt die Vorschau still -
+# und niemand merkt es, solange der User nicht selbst nachschaut. Angelegt am
+# 22.08.2026 vor einer laengeren Abwesenheit.
+#
+#   Donnerstag: Cloud 18:00 -> Cloud-Watchdog 19:15 -> DIESER Backstop 20:30
+#   Sonntag:    Cloud 18:00 -> Cloud-Watchdog 19:15 -> DIESER Backstop 20:30
+#
+# Prueft Inhalt, nicht nur Existenz. Nur wenn wirklich nichts Gefuelltes da ist,
+# wird generiert - sonst No-Op ohne Claude-Aufruf und ohne Commit.
+# continue-on-error beim Generierungs-Schritt: dieser Workflow meldet nie "failure"
+# und schickt darum nie eine GitHub-Fehler-Mail.
+
+on:
+  schedule:
+    - cron: '30 18 * * 4'   # Do 20:30 Berlin (MESZ) -> 18:30 UTC
+    - cron: '30 18 * * 0'   # So 20:30 Berlin (MESZ) -> 18:30 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: miesmuschel-vorschau-safety-net
+  cancel-in-progress: false
+
+jobs:
+  vorschau-backstop:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Modus + Bedarf ermitteln
+        id: check
+        run: |
+          DOW=$(TZ=Europe/Berlin date +%u)   # 4=Do, 7=So
+          if [ "$DOW" = "4" ]; then
+            MODUS="wochenende"
+            ANKER=$(TZ=Europe/Berlin date -d "next Saturday" +%Y-%m-%d)
+            ZIEL="data/tipps_wochenende/$ANKER.json"
+          elif [ "$DOW" = "7" ]; then
+            MODUS="woche"
+            ANKER=$(TZ=Europe/Berlin date -d "next Monday" +%Y-%m-%d)
+            ZIEL="data/tipps_woche/$ANKER.json"
+          else
+            echo "Weder Donnerstag noch Sonntag - No-Op."
+            echo "need=0" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          echo "modus=$MODUS"  >> "$GITHUB_OUTPUT"
+          echo "anker=$ANKER"  >> "$GITHUB_OUTPUT"
+          echo "ziel=$ZIEL"    >> "$GITHUB_OUTPUT"
+          NEED=1
+          if [ -f "$ZIEL" ]; then
+            NEED=$(python -c "import json,sys;d=json.load(open('$ZIEL',encoding='utf-8'));sys.stdout.write('0' if (len(d.get('einzeltipps',[]))>=1 and len(d.get('spiele',[]))>=1) else '1')" 2>/dev/null || echo 1)
+          fi
+          echo "need=$NEED" >> "$GITHUB_OUTPUT"
+          if [ "$NEED" = "1" ]; then
+            echo "Backstop AKTIV: $ZIEL fehlt oder ist leer."
+          else
+            echo "Alles gut: $ZIEL existiert und ist gefuellt. No-Op."
+          fi
+
+      - name: Install Claude Code CLI
+        if: steps.check.outputs.need == '1'
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Configure Git
+        if: steps.check.outputs.need == '1'
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "Miesmuschel Vorschau Safety-Net"
+
+      - name: Run Claude (Backstop-Vorschau)
+        if: steps.check.outputs.need == '1'
+        continue-on-error: true
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          export MODUS=${{ steps.check.outputs.modus }}
+          export ANKER=${{ steps.check.outputs.anker }}
+          export ZIEL=${{ steps.check.outputs.ziel }}
+          claude --print \
+            --model claude-opus-4-7 \
+            --allowedTools "Bash,Read,Write,Edit,Glob,Grep,WebSearch,WebFetch" \
+            --permission-mode acceptEdits \
+            "Du bist der Vorschau-BACKSTOP in der Magische-Miesmuschel-Pipeline - die letzte Absicherung fuer den Modus '$MODUS'. Cloud-Hauptroutine und Cloud-Watchdog haben heute keine gefuellte Vorschau geliefert.
+
+          Lies zuerst vollstaendig: CLAUDE.md, .github/scripts/subagent_prompts/master_tipps_routine.md, .github/scripts/subagent_prompts/recherche_routine.md, .github/scripts/subagent_prompts/fussball_analyse.md, .github/scripts/subagent_prompts/verifikation.md
+
+          ZIEL-DATEI: $ZIEL   (Anker-Datum: $ANKER)
+
+          ZEITFENSTER - HARTREGEL:
+          - Modus 'wochenende': NUR Spiele mit Anstoss am Anker-Samstag $ANKER oder am Folge-Sonntag. Kein Freitag, kein Montag.
+          - Modus 'woche': NUR Spiele mit Anstoss vom Anker-Montag $ANKER bis zum Folge-Sonntag (7 Tage).
+          Massgeblich ist der Anstoss-Tag in Berliner Zeit, nicht der Spieltag. fix_schema.py droppt alles ausserhalb hart.
+
+          Ablauf: Spiele im Fenster recherchieren (football-data.org-Key aus data/config.json anlegen falls noetig, plus WebSearch; Supercups extra pruefen - die stehen nicht in der API). Pro Spiel saison_kontext mit allen 7 Pflichtfeldern + mindestens 1 Quellen-URL, dazu 3-5 Tipps. Dann Einzeltipps + 4 Kombis mit Layer-1/2/3-Diversifikation, gesamtquote nachrechnen. Einsaetze aus data/kasse.json rechnen. Kader-Gegencheck gegen data/kader_wechsel_2026.json plus Live-Pruefung pro Spieler-Tipp.
+
+          BACKSTOP-PRINZIP: lieber eine KLEINE ehrliche Vorschau (auch nur 2-3 gut recherchierte Spiele) als gar keine. Niemals mit leerem einzeltipps[] oder spiele[] enden, wenn es Spiele im Fenster gibt. Nichts erfinden.
+
+          Schreibe KEINEN .js-Wrapper - nur das JSON. web-push.yml macht danach Schema-Fix, Wrapper und iOS-Push.
+
+          Am Ende: git add data/tipps_wochenende/ data/tipps_woche/ data/analyse/ && git commit -m 'Auto-Vorschau $ANKER ($MODUS, Safety-Net Backstop)' && git push origin main (bei Reject: git pull --rebase origin main, dann erneut pushen)."

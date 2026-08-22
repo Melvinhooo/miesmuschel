@@ -106,6 +106,31 @@ QUELLEN_HOSTS_VERBAND = (
 )
 
 
+def _anker_datum(d, path):
+    """Anker-Datum eines Dossiers als date, oder None wenn nicht ableitbar."""
+    anker = d.get('datum')
+    if not (isinstance(anker, str) and re.match(r'^\d{4}-\d{2}-\d{2}$', anker.strip())):
+        anker = Path(path).stem
+    if not re.match(r'^\d{4}-\d{2}-\d{2}$', anker or ''):
+        return None
+    return date(int(anker[0:4]), int(anker[5:7]), int(anker[8:10]))
+
+
+def ist_historisches_dossier(d, path):
+    """True wenn das Dossier in der Vergangenheit liegt.
+
+    Der Workflow ruft fix_schema.py ohne Argumente auf, also laufen bei jedem Push
+    ALLE Dossiers durch die Validatoren. Abgeschlossene Dossiers duerfen dabei NICHT
+    veraendert werden - sie sind entweder schon gegen data/ergebnisse/ ausgewertet oder
+    als Vorschau abgelaufen. Ein nachtraeglicher Drop wuerde die Bilanz desynchronisieren
+    und Tipps aus der Statistik verschwinden lassen, die der User tatsaechlich gespielt hat.
+    """
+    if d.get('ist_saison'):
+        return False
+    start = _anker_datum(d, path)
+    return start is not None and start < date.today()
+
+
 def _spiel_datum(spiel):
     """Ermittelt das Kalenderdatum (YYYY-MM-DD, lokale Anstosszeit) eines Spiels.
 
@@ -165,14 +190,11 @@ def validate_datum_scope(d, path):
     else:
         return
 
-    anker = d.get('datum')
-    if not (isinstance(anker, str) and re.match(r'^\d{4}-\d{2}-\d{2}$', anker.strip())):
-        anker = Path(path).stem
-    if not re.match(r'^\d{4}-\d{2}-\d{2}$', anker or ''):
+    start = _anker_datum(d, path)
+    if start is None:
         print(f"  Datum-Scope: kein Anker-Datum ableitbar aus '{path}' - Check uebersprungen")
         return
-
-    start = date(int(anker[0:4]), int(anker[5:7]), int(anker[8:10]))
+    anker = start.isoformat()
     erlaubt = {(start + timedelta(days=i)).isoformat() for i in range(spanne)}
 
     behalten, gedroppt = [], []
@@ -223,6 +245,130 @@ def validate_datum_scope(d, path):
     fenster = anker if spanne == 1 else f"{anker} bis {max(erlaubt)}"
     print(f"  Datum-Scope [{modus}]: {len(gedroppt)} Spiel(e) ausserhalb {fenster} "
           f"entfernt, {len(behalten)} behalten")
+
+
+def lade_kader_wechsel():
+    """Liest data/kader_wechsel_2026.json (Guardrail gegen veraltete Kader).
+    Returns: liste von dicts {nachname, von_kern, spieler, nach, datum}.
+    Bei Fehler: leere Liste (kein Filter aktiv).
+    """
+    pfad = os.path.join('data', 'kader_wechsel_2026.json')
+    if not os.path.exists(pfad):
+        return []
+    try:
+        with open(pfad, encoding='utf-8') as f:
+            d = json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return []
+    raus = []
+    for ab in d.get('abgaenge_NICHT_mehr_fuer_alten_verein_tippen', []):
+        spieler = (ab.get('spieler') or '').strip()
+        von = (ab.get('von') or '').strip()
+        if not spieler or not von:
+            continue
+        teile = [w for w in spieler.split() if len(w) >= 3]
+        if not teile:
+            continue
+        raus.append({
+            'spieler': spieler,
+            'nachname': teile[-1],
+            'von': von,
+            'von_kern': _team_kern(von),
+            'nach': ab.get('nach') or '?',
+            'datum': ab.get('datum') or '?',
+        })
+    return raus
+
+
+def validate_kader_wechsel(d, historie=False):
+    """Kader-Hartregel (22.08.2026): Tipps auf Spieler, die den Verein verlassen haben,
+    werden HART gedroppt.
+
+    Anlass: in der Wochen-Vorschau vom 17.08.2026 stand ein Moonshot-Bein
+    "Adeyemi Torschuetze jederzeit" fuer Borussia Dortmund - Adeyemi spielt seit
+    24.07.2026 fuer Barcelona. Der Guardrail data/kader_wechsel_2026.json existierte
+    bereits, aber nichts hat ihn erzwungen: die Routine-Prompts nannten Adeyemi sogar
+    noch namentlich als BVB-Backup-Stuermer.
+
+    Das ist kein Bewertungsfehler, sondern ein Faktenfehler - deshalb Drop und nicht
+    Downgrade. Ein Tipp auf einen Spieler, der gar nicht auflaufen kann, hat keine
+    Gewinnchance und verfaelscht ausserdem die Statistik.
+
+    Matching: Nachname kommt im markt-Text vor UND der Verlassen-Verein ist eine der
+    beiden Mannschaften des Spiels (ueber _team_kern, damit "Borussia Dortmund" auch
+    "BVB Dortmund" trifft). Bewusst konservativ - lieber ein Fall zu wenig als ein
+    korrekter Tipp faelschlich gedroppt.
+    """
+    wechsel = lade_kader_wechsel()
+    if not wechsel:
+        return
+    if historie:
+        # Nur melden, nicht anfassen: abgeschlossene Dossiers bleiben wie gespielt.
+        for spiel in d.get('spiele', []):
+            teams = ' '.join([_team_kern(spiel.get('heim') or ''), _team_kern(spiel.get('gast') or '')])
+            for w in wechsel:
+                if not (w['von_kern'] and w['von_kern'] in teams):
+                    continue
+                for tipp in spiel.get('tipps', []):
+                    if w['nachname'].lower() in (tipp.get('markt') or '').lower():
+                        print(f"  Kader-Wechsel WARN [Historie]: '{tipp.get('markt')}' in "
+                              f"'{spiel.get('id')}' - {w['spieler']} war da schon bei "
+                              f"{w['nach']}. Bleibt drin (abgeschlossenes Dossier).")
+        return
+    drops = 0
+    for spiel in d.get('spiele', []):
+        sid = spiel.get('id')
+        teams = ' '.join([_team_kern(spiel.get('heim') or ''), _team_kern(spiel.get('gast') or '')])
+        betroffen = [w for w in wechsel if w['von_kern'] and w['von_kern'] in teams]
+        if not betroffen:
+            continue
+        kept = []
+        for tipp in spiel.get('tipps', []):
+            markt = tipp.get('markt') or ''
+            treffer = next((w for w in betroffen if w['nachname'].lower() in markt.lower()), None)
+            if treffer:
+                print(f"  Kader-Wechsel: Tipp '{markt}' aus Spiel '{sid}' GEDROPPT - "
+                      f"{treffer['spieler']} spielt seit {treffer['datum']} fuer "
+                      f"{treffer['nach']}, nicht mehr fuer {treffer['von']}")
+                drops += 1
+                continue
+            kept.append(tipp)
+        spiel['tipps'] = kept
+
+    # Kombi-Beine ohne tipp_id werden von der valid_refs-Bereinigung nicht erfasst -
+    # die Wochen-Vorschau schreibt genau solche Beine. Darum hier zusaetzlich ueber
+    # den markt-Text pruefen.
+    for k in d.get('kombis', []):
+        beine = k.get('beine', [])
+        rest = []
+        for b in beine:
+            sid = b.get('spiel_id')
+            spiel = next((s for s in d.get('spiele', []) if s.get('id') == sid), None)
+            teams = ''
+            if spiel:
+                teams = ' '.join([_team_kern(spiel.get('heim') or ''), _team_kern(spiel.get('gast') or '')])
+            markt = (b.get('markt') or '').lower()
+            treffer = None
+            for w in wechsel:
+                if not w['nachname'].lower() in markt:
+                    continue
+                # Ohne aufloesbares Spiel: nur droppen wenn der alte Verein im Bein-Text steht
+                if (teams and w['von_kern'] in teams) or (not teams and w['von_kern'] in markt):
+                    treffer = w
+                    break
+            if treffer:
+                print(f"  Kader-Wechsel: Kombi-Bein '{b.get('markt')}' GEDROPPT - "
+                      f"{treffer['spieler']} spielt seit {treffer['datum']} fuer {treffer['nach']}")
+                drops += 1
+                continue
+            rest.append(b)
+        if len(rest) != len(beine):
+            k['beine'] = rest
+    d['kombis'] = [k for k in d.get('kombis', []) if len(k.get('beine', [])) >= 2]
+
+    if drops:
+        print(f"  Kader-Wechsel-Filter: {drops} Tipp(s)/Bein(e) gedroppt "
+              f"(Spieler nicht mehr im Verein - data/kader_wechsel_2026.json)")
 
 
 def lade_markt_bluter():
@@ -1715,6 +1861,9 @@ def fix(path):
     with open(path, encoding='utf-8') as f:
         d = json.load(f)
 
+    # Abgeschlossene Dossiers werden von keinem Hart-Validator mehr veraendert.
+    _historie = ist_historisches_dossier(d, path)
+
     # Zeitfenster-Hartregel ZUERST: Spiele ausserhalb des Dossier-Fensters raus,
     # bevor irgendein anderer Validator Arbeit in sie steckt.
     # (Tag = nur heute, Wochenende = Sa+So, Woche = Mo-So.)
@@ -1845,6 +1994,10 @@ def fix(path):
     # Muss VOR dem Hard-Cap laufen, damit die einzeltipps/kombis-Bereinigung weiter unten
     # die referenzierten Tipps nicht mehr findet und sie automatisch droppt.
     validate_saison_kontext(d)
+
+    # Kader-Hartregel: Tipps auf Spieler, die den Verein verlassen haben, hart droppen.
+    # Faktenfehler, kein Bewertungsfehler - siehe Adeyemi/Dortmund 22.08.2026.
+    validate_kader_wechsel(d, historie=_historie)
 
     # Markt-Bluter-Filter: SAFE/VALUE-Tipps auf statistisch verbluteten Markt-Typen werden
     # automatisch auf wackel degradiert. Die Liste kommt aus data/markt_bluter.json,

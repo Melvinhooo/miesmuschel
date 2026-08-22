@@ -170,3 +170,107 @@ Wenn der Master-Stream stirbt während Subagent-Outputs gesammelt werden:
 - Ehrlich bei Coinflip-Spielen ("eher überspringen")
 - Quoten "bei bet365 live prüfen"
 - Kein Hype
+
+---
+
+# ANHANG (22.08.2026): Betriebs-Wissen aus den Cloud-Prompts
+
+> Die Cloud-Routinen hatten dieses Wissen bis 22.08.2026 als **eingefrorene Kopie** in ihrem UI-Prompt. Dadurch driftete es (Adeyemi stand dort noch als BVB-Spieler, Zeitfenster war falsch). Seitdem sind die Cloud-Prompts schlanke Wrapper, die **diese Datei** lesen. Alles Inhaltliche gehört ab jetzt hierher, nicht in die UI.
+
+## Task-Tool nicht voraussetzen
+
+In Cloud-Routinen ist das Task-Tool i.d.R. **nicht** verfügbar. Wenn `Task` fehlt: die Phasen 3 und 5 **inline** abarbeiten (Analyse-Wissen aus `fussball_analyse.md` / `nba_analyse.md` selbst anwenden, Verifikation nach `verifikation.md` selbst durchführen). Die Phasen-Struktur bleibt, nur die Parallelisierung fällt weg.
+
+## Markt-Mix-Pflicht (Anti-DC-Sucht)
+
+Lehre 03.05.2026 — die Bilanz, die diesen Block erzwungen hat:
+- **St.Pauli–Mainz 1:2:** drei rein defensive Tipps (Unter 2.5, Mainz-DC, BTTS-NEIN), zwei verloren. Gefehlt: Mainz-Sieg @2.0 + Mainz-Torschütze.
+- **BMG–BVB 1:0:** `saison_kontext` sagte selbst „BVB Vize hinter uneinholbarem Bayern + BMG faktisch gerettet" — trotzdem SAFE auf BVB-DC. Verloren.
+- **Real–Espanyol 0:2:** „eher 50/50 als Klassen-Edge" geschrieben, trotzdem SAFE auf RM-DC.
+
+Regeln (vom Schema-Mapper hart durchgesetzt — nicht umgehbar, nur befolgbar):
+
+1. **DC-CAP:** max 1 DC-Tipp pro Spiel (`validate_markt_mix`). Im ganzen Dossier max 2–3 DC. Mehr → schwächste DC durch Torschützen oder Tor-Total ersetzen.
+
+2. **Pflicht-Profile pro Spiel** (nach bet365-Quote des wahrscheinlichen Sieg-Tipps):
+   - **Heim-Favorit** (Heim-Sieg < 1.80): min. 1 Torschützen-Tipp auf den Top-Stürmer + 1 Sieg- oder DC-Tipp. Nicht drei defensive.
+   - **Auswärts-Favorit** (Auswärts-Sieg < 2.20): min. 1 Torschützen-Tipp auf den Auswärts-Stürmer + 1 Spread/Handicap- oder Sieg-Tipp.
+   - **Coinflip** (alle 1X2 zwischen 2.40 und 3.50): KEIN SAFE. Max 3 Tipps, z.B. BTTS + Tor-Total + Wackel-Sieg.
+   - **Kein offensives Edge-Signal:** max 2 Tipps, kein SAFE-DC.
+
+3. **Star-Ausfall → Backup-Pflicht:** fällt der Top-Stürmer aus, ist ein Torschützen-Tipp auf den **tatsächlichen** Backup Pflicht. Namen **nie** aus dem Gedächtnis oder aus einem Prompt-Beispiel — siehe „Kader- und Trainer-Frische" unten.
+
+4. **Form-Edge → Torschützen-Pflicht:** bei jedem Favoriten-Spiel die Form des Top-Stürmers der letzten 5 Spiele prüfen. 3+ Tore in 5 oder 2+ in 3 → Torschützen-Tipp Pflicht. „Torschützen Jederzeit" ist historisch der stärkste Markt im System — aktiv suchen, nicht optional.
+
+5. **Selbstwiderspruch vermeiden:** wenn die eigene `motivations_asymmetrie` „edge kleiner als suggeriert" / „eher 50/50" / „rotiert vor" / „Vorsicht" / „unklarer Favorit" enthält → kein SAFE in diesem Spiel. `validate_saison_kontext_sanity` degradiert sonst automatisch. Was recherchiert wurde, muss zur Kategorie passen.
+
+6. **Goldgrube-Liga-DC-Falle:** SAFE-DC nur in Liga-Goldgruben legitim. Die aktuelle Liste steht in `data/liga_goldgruben.json` — **immer von dort lesen**, nie aus dem Prompt-Gedächtnis. In Nicht-Goldgruben lieber direkter Sieg-Tipp + Torschütze.
+
+Selbst-Check vor dem Schreiben, pro Spiel:
+- Sieg- **oder** Torschützen-Tipp drin? Wenn nein → kein SAFE-DC möglich.
+- Mehr als 1 DC im Spiel? Wenn ja → einen ersetzen.
+- Widerspricht der eigene `saison_kontext` der Kategorie? Wenn ja → eine Stufe runter.
+- Bei Star-Ausfall: Backup-Torschütze drin?
+
+## Kader- und Trainer-Frische (Anti-Halluzination)
+
+Der teuerste wiederkehrende Fehler des Tools sind Spieler beim **falschen Verein** und veraltete Trainer. Reihenfolge, verbindlich:
+
+1. `data/kader_wechsel_2026.json` lesen — bestätigte High-Profile-Wechsel + Trainerwechsel. Die Datei ist **nicht vollständig**, sie ist nur ein Gegen-Check.
+2. **Pro Spiel live prüfen**, bevor ein Spieler getippt wird: kicker.de Aufstellungs-Vorschau, transfermarkt-Kaderseite oder offizielle Klub-Site. Eine dieser URLs gehört in `saison_kontext.quellen[]` — sonst degradiert `validate_torschuetze_quelle` den Tipp auf wackel.
+3. **Nie** Spielernamen aus dem eigenen Gedächtnis oder aus Beispielen in irgendeinem Prompt übernehmen. Beispiele veralten; das Modell-Wissen erst recht.
+4. Neue bestätigte Wechsel, die dir auffallen, direkt in `data/kader_wechsel_2026.json` ergänzen (`abgaenge_NICHT_mehr_fuer_alten_verein_tippen[]` / `zugaenge_neue_optionen[]` / `trainer_2026_27[]`) und mitcommitten. So lernt das Tool von selbst weiter.
+
+Gleiches gilt für **Trainer**: „Trainer X lässt offensiv spielen" ist wertlos, wenn X seit Juli weg ist. Bei jeder taktischen Aussage den aktuellen Trainer verifizieren.
+
+## Anti-Stream-Timeout: Mini-File-Strategie
+
+Bei vielen Spielen stirbt der Stream gern mitten im Dossier. Darum **nicht** ein großes JSON am Stück schreiben:
+
+1. Pro Spiel ein eigenes Mini-File `data/_temp/spiel_<NN>.json`.
+2. Dazu `data/_temp/_meta.json` (datum, erstellt_am, hinweis, footer), `_einzeltipps.json`, `_kombis.json`, `_lessons.json`.
+3. Am Ende per Python zusammenbauen, `data/_temp/` löschen.
+
+```bash
+python3 - <<'PYBUILD'
+import json, glob, os, shutil
+meta   = json.load(open('data/_temp/_meta.json', encoding='utf-8'))
+spiele = [json.load(open(f, encoding='utf-8')) for f in sorted(glob.glob('data/_temp/spiel_*.json'))]
+dossier = {
+    'datum': meta['datum'], 'erstellt_am': meta['erstellt_am'],
+    'hinweis': meta.get('hinweis', ''), 'spiele': spiele,
+    'einzeltipps': json.load(open('data/_temp/_einzeltipps.json', encoding='utf-8')),
+    'kombis':      json.load(open('data/_temp/_kombis.json', encoding='utf-8')),
+    'lessons_angewandt': json.load(open('data/_temp/_lessons.json', encoding='utf-8')),
+    'footer': meta.get('footer', '18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700'),
+}
+os.makedirs(os.path.dirname(meta['pfad']), exist_ok=True)
+with open(meta['pfad'], 'w', encoding='utf-8') as f:
+    json.dump(dossier, f, ensure_ascii=False, indent=2)
+shutil.rmtree('data/_temp', ignore_errors=True)
+print('OK: %d Spiele, %d Einzeltipps, %d Kombis'
+      % (len(spiele), len(dossier['einzeltipps']), len(dossier['kombis'])))
+PYBUILD
+```
+
+`meta['pfad']` ist der Ziel-Pfad des jeweiligen Modus (`data/tipps/<datum>.json`, `data/tipps_wochenende/<samstag>.json`, `data/tipps_woche/<montag>.json`).
+
+## JS-Wrapper NICHT selbst schreiben
+
+Früher regenerierten die Cloud-Routinen `data/tipps.js` selbst — **vor** dem Schema-Fix. Ergebnis: der Wrapper enthielt die ungefilterte Fassung, und bei einem Push-Race blieb er stehen. **Nicht mehr machen.** Nur das JSON committen; `web-push.yml` läuft danach, macht Schema-Fix, regeneriert den Wrapper und pusht ihn.
+
+## Push mit Retry
+
+```bash
+git add data/tipps/ data/tipps_wochenende/ data/tipps_woche/ data/analyse/ data/kader_wechsel_2026.json
+if git diff --cached --quiet; then
+  echo "PUSHED=0 (nichts zu committen)"
+else
+  git commit -m "<Commit-Message des jeweiligen Modus>"
+  git push origin main || (git pull --rebase origin main && git push origin main)
+fi
+```
+
+## Notfall-Fallback
+
+Bei Fehlern: **trotzdem schreiben, was da ist.** Lieber 6 Spiele mit vollständigem `saison_kontext` als 20 ohne (die droppt der Mapper sowieso). Niemals mit leerem `einzeltipps[]` oder `spiele[]` enden, wenn es Spiele im Zeitfenster gibt. Ein ehrliches kleines Dossier mit erklärendem `hinweis` ist ein gültiges Ergebnis.

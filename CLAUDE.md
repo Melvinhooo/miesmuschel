@@ -62,14 +62,21 @@ Reihenfolge in jeder Sektion: **SAFE → VALUE → WACKEL → RISIKO → MOONSHO
 - `data/saisons.json` definiert die Saison-Grenzen (`start`/`ende` je Saison, `ende` inklusive). `statistik_berechnen.py` segmentiert die Bilanz danach → `statistik.json['saisons']` mit `gesamt` (all-time) + `liste[]` (pro Saison) + `kasse` (echtes €). Neue Saison: Eintrag in saisons.json anhängen + `aktuelle_saison` hochsetzen + neue Saison-Kasse in kasse.json setzen. **Nie Historie löschen.**
 - Unit-ROI (1 Tipp = 1 Einheit) bleibt die Skill-Kennzahl für Goldgruben/Bluter/Reality-Check. Der €-Wert lebt nur in der Saison-Kasse.
 
-### Stufe 1 — Aufbau-Phase (Kasse < 1000€)
-Konservativ. Bei 550€-Stand ist das die aktive Stufe.
-- **Einzeltipps:** 1–2 % → 5,50–11€
-- **Wackel-Einzel:** 0,5 % → 2,75€
-- **Kombi Safe ~3x:** 2 % → 11€
-- **Kombi Balance ~6–10x:** 0,8 % → 4,40€
-- **Kombi Risiko ~15–30x:** 0,25 % → 1,40€
-- **Moonshot 300x+:** 0,1 % → 0,55€ (oder 1–2€ Spaßeinsatz)
+### Stufe 1 — Aufbau-Phase
+Konservativ. **Aktuell aktiv** (Saison-Kasse 2026/27 = 1000€, `stufe_2_freigeschaltet: false`).
+
+Die Prozentsätze sind verbindlich, die Euro-Beträge **immer aus `data/kasse.json` rechnen** — nie aus dieser Tabelle abschreiben. Unten die Beträge bei 1000€ Kasse:
+
+| Tipp-Typ | Anteil Kasse | bei 1000€ |
+|---|---|---|
+| Einzeltipps SAFE/VALUE | 1–2 % | 10–20€ |
+| Wackel-Einzel | 0,5 % | 5€ |
+| Kombi Safe ~3x | 2 % | 20€ |
+| Kombi Balance ~6–10x | 0,8 % | 8€ |
+| Kombi Risiko ~15–30x | 0,25 % | 2,50€ |
+| Moonshot 100x+ | 0,1 % | 1€ (oder 1–2€ Spaßeinsatz) |
+
+Lehre vom 22.08.2026: die Vorschau-Dossiers rechneten noch tagelang mit 550€, obwohl die Saison-Kasse längst auf 1000€ stand — die Einsätze waren durchgehend halb so hoch wie vorgesehen. Deshalb: Kasse lesen, nicht erinnern.
 
 ### Stufe 2 — Profit-Skim (Kasse ≥ 1000€)
 **Voraussetzung**: rolling 30-Tage-ROI > +5 % laut `data/statistik.json`. Sonst bleibt Stufe 1 aktiv egal wie hoch die Kasse — Aggressivität ohne Edge ist Selbstmord.
@@ -193,6 +200,36 @@ Jedes Spiel im Tipps-JSON muss ein `saison_kontext`-Objekt mit allen 7 Feldern +
 PWA zeigt rote Box "🔍 Recherche unvollständig" bei FAIL, gelbe Box "⚠️ Quelle fehlt" bei WARN_QUELLE direkt unter dem Spielheader.
 
 ---
+
+### Kader- und Trainer-Frische (seit 22.08.2026)
+
+Der teuerste wiederkehrende Fehler des Tools sind Spieler beim **falschen Verein** und veraltete Trainer. Drei Schichten dagegen:
+
+1. **`data/kader_wechsel_2026.json`** — bestätigte Wechsel + Trainerwechsel, mit Quellen-URL pro Eintrag. Nicht vollständig, nur Gegen-Check. **Nie Einträge löschen** — wer 2026 gewechselt ist, ist auch 2027 nicht zurück.
+2. **Mechanisch erzwungen** in `fix_schema.py` (`validate_kader_wechsel`): ein Tipp oder Kombi-Bein auf einen Spieler, der laut dieser Datei den Verein verlassen hat, wird **hart gedroppt** — auch Beine ohne `tipp_id`. Das ist ein Faktenfehler, kein Bewertungsfehler: der Tipp hat keine Gewinnchance und verfälscht die Statistik. Abgeschlossene Dossiers werden nur geloggt, nie nachträglich geändert.
+3. **Selbstlernend**: die Maintenance-Routine (So 21:00, Phase 5b) frischt die Datei wöchentlich per WebSearch auf. Die Auswertungs-Routine (Schritt 8b) ergänzt sie, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffällt. Nur Bestätigtes, keine Gerüchte.
+
+Zusätzlich gilt für jede Routine: **Spielernamen nie aus dem Gedächtnis oder aus Prompt-Beispielen** — pro Spiel live prüfen (kicker.de Aufstellungs-Vorschau / transfermarkt / Klub-Site). Diese URL gehört in `saison_kontext.quellen[]`, sonst degradiert `validate_torschuetze_quelle` den Tipp auf wackel.
+
+Anlass: Adeyemi wurde noch am 22.08.2026 als Dortmund-Torschütze getippt, obwohl er seit 24.07.2026 bei Barcelona spielt — die Routine-Prompts nannten ihn sogar namentlich als BVB-Backup-Stürmer.
+
+### Cloud-Routinen: Repo ist die Quelle der Wahrheit (seit 22.08.2026)
+
+Die neun aktiven Cloud-Routinen hatten ihr komplettes Fachwissen als **eingefrorene Kopie** im UI-Prompt. Änderungen im Repo erreichten sie nie — deshalb driftete alles auseinander (Zeitfenster, Kader, Goldgruben-Listen vom Mai).
+
+Seitdem sind die Cloud-Prompts **schlanke Wrapper** (~5k statt ~12–16k Zeichen), die nur noch Slot, Zeitfenster, Pfade, Setup und Commit regeln. Alles Inhaltliche steht im Repo und wird dort gepflegt:
+
+| Datei | Inhalt |
+|---|---|
+| `master_tipps_routine.md` | Phasen 1–6, Markt-Mix, Kader-Frische, Mini-File-Strategie, Push |
+| `recherche_routine.md` | Spielplan-Quellen, Squad-Verifikation, Pflichtfelder |
+| `fussball_analyse.md` / `nba_analyse.md` | Hartregeln HR1–HR29 |
+| `verifikation.md` | Halluzinations- und Selbstwiderspruchs-Checks |
+| `auswertung_routine.md` | Auswertung Schritte 1–11 |
+
+Jeder Wrapper sagt explizit: **bei Widerspruch gilt die Repo-Datei.** Damit wirken Änderungen wieder per `git push`, ohne dass jemand in die Routine-UI muss.
+
+Die Routinen dürfen die `.js`-Wrapper **nicht mehr selbst schreiben** — früher taten sie das vor dem Schema-Fix, wodurch die ungefilterte Fassung im Wrapper landete. Nur das JSON committen; `web-push.yml` macht Schema-Fix, Wrapper und Push.
 
 ## Tonalität
 

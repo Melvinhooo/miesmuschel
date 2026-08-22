@@ -560,6 +560,52 @@ function _fmtDateLong(d) {
   return d.toLocaleDateString('de-DE', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
 }
 
+
+// --- Frische-Warnung (22.08.2026) -------------------------------------------
+// Faellt eine Tipps-Routine aus, bleibt data/tipps.js auf dem letzten erfolgreichen
+// Tag stehen und die PWA zeigt stillschweigend ein altes Dossier. Wer das nicht merkt,
+// setzt auf Spiele, die laengst gelaufen sind. Darum hier eine sichtbare Warnung.
+function _heuteISO() {
+  const d = new Date();
+  return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0')
+         + '-' + String(d.getDate()).padStart(2, '0');
+}
+
+function _frischeWarnung(mode, data) {
+  if (!data || !data.datum || mode === 'saison') return '';
+  const heute = _heuteISO();
+  let veraltet = false;
+  let text = '';
+
+  if (mode === 'taeglich') {
+    veraltet = data.datum < heute;
+    text = `Dieses Dossier ist vom <strong>${data.datum}</strong>, heute ist der <strong>${heute}</strong>. `
+         + 'Die Tipps-Routine hat für heute nichts geliefert — die Spiele hier sind schon gelaufen. '
+         + 'Nicht mehr setzen.';
+  } else if (mode === 'wochenende') {
+    // Anker = Samstag, gilt bis einschliesslich Sonntag
+    const so = new Date(data.datum + 'T12:00:00');
+    so.setDate(so.getDate() + 1);
+    veraltet = heute > so.toISOString().slice(0, 10);
+    text = `Diese Wochenend-Vorschau ist vom Wochenende ab <strong>${data.datum}</strong> und damit vorbei. `
+         + 'Eine neue wird donnerstags erzeugt.';
+  } else if (mode === 'woche') {
+    const so = new Date(data.datum + 'T12:00:00');
+    so.setDate(so.getDate() + 6);
+    veraltet = heute > so.toISOString().slice(0, 10);
+    text = `Diese Wochen-Vorschau gilt für die Woche ab <strong>${data.datum}</strong> und ist abgelaufen. `
+         + 'Eine neue wird sonntags erzeugt.';
+  }
+
+  if (!veraltet) return '';
+  return `
+    <div style="background:linear-gradient(135deg,#e84545,#9c27b0);border-radius:12px;
+                padding:14px 16px;margin:0 0 18px 0;color:#fff;
+                font-family:'JetBrains Mono',monospace;font-size:0.9em;line-height:1.5;">
+      <strong style="font-size:1.05em;">⚠️ Veraltetes Dossier</strong><br>${text}
+    </div>`;
+}
+
 function _modeMeta(mode) {
   if (mode === 'wochenende') {
     const data = window.__MIESMUSCHEL_TIPPS_WOCHENENDE;
@@ -648,6 +694,15 @@ function setMode(mode, btn) {
     renderRisikoTab(data, 'risiko');
   } catch (e) {
     console.error('Render-Fehler bei Mode ' + mode + ':', e);
+  }
+
+  // Veraltetes Dossier sichtbar machen (z.B. wenn eine Routine ausgefallen ist)
+  const warnung = _frischeWarnung(mode, data);
+  if (warnung) {
+    ['spiele', 'einzel', 'risiko'].forEach(id => {
+      const el = document.getElementById(id);
+      if (el) el.insertAdjacentHTML('afterbegin', warnung);
+    });
   }
 
   // Header aktualisieren

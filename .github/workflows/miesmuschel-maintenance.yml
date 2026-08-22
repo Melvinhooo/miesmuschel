@@ -45,6 +45,10 @@ jobs:
           1. Schema-Migration Check (data/lessons.json + beobachtungs_ligen.json + markt_*.json + statistik.json + kasse.json valide?)
           2. Stale-File-Detection (data/tipps/ + data/recherche/ aelter als 30 Tage -> archiv/)
           3. Statistik-Plausibilitaet (rolling 7d vs 30d Spruenge)
+          3b. KADER- + TRAINER-AUFFRISCHUNG (Phase 5b, PFLICHT): data/kader_wechsel_2026.json
+              per WebSearch auf aktuellen Stand bringen - abgeschlossene Transfers + Trainerwechsel
+              seit dem letzten 'stand'. Jeder Eintrag mit quelle-URL, stand hochsetzen, NICHTS loeschen,
+              nur Bestaetigtes (keine Geruechte). Das ist der Selbstlern-Schritt gegen Adeyemi-Klasse-Fehler.
           4. Health-Report aufs iPhone via .github/scripts/send_push.py
           5. git commit + push
 

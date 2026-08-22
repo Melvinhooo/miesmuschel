@@ -1,7 +1,10 @@
 {
-  "stand": "2026-08-21",
-  "zweck": "Guardrail gegen veraltete Kader/Trainer (Adeyemi-Klasse-Fehler). Die Recherche-/Analyse-Routine liest diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Routine MUSS pro Spiel zusaetzlich live recherchieren (transfermarkt/kicker/offizielle Klub-Site). Neue Faelle hier ergaenzen.",
+  "stand": "2026-08-22",
+  "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
+  "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
+  "transferfenster_schliesst": "2026-08-31",
+  "transferfenster_hinweis": "Bis Ende August sind weitere Wechsel moeglich. Waehrend des offenen Fensters ist diese Datei besonders schnell veraltet - Aufstellungs-Vorschau am Spieltag schlaegt jeden Eintrag hier.",
 
   "abgaenge_NICHT_mehr_fuer_alten_verein_tippen": [
     {
@@ -9,20 +12,106 @@
       "von": "Borussia Dortmund",
       "nach": "FC Barcelona",
       "datum": "2026-07-24",
-      "hinweis": "NIE mehr als Dortmund-Torschuetze/Spieler tippen. Jetzt Barcelona (LaLiga).",
+      "ablöse_mio": 22,
+      "hinweis": "NIE mehr als Dortmund-Torschuetze/Spieler tippen. Jetzt Barcelona (LaLiga). Dieser Fehler ist am 22.08.2026 trotzdem in die Wochen-Vorschau gelaufen - deshalb existiert diese Datei.",
       "quelle": "https://www.espn.com/soccer/story/_/id/49348762/barcelona-sign-karim-adeyemi-borussia-dortmund"
+    },
+    {
+      "spieler": "Yan Diomande",
+      "von": "RB Leipzig",
+      "nach": "Real Madrid",
+      "datum": "2026-07",
+      "ablöse_mio": 125,
+      "hinweis": "Hoechste Ablöse des Sommers an einen Bundesliga-Klub. Nicht mehr als Leipzig-Spieler tippen.",
+      "quelle": "https://www.90min.de/sommer-transfers-in-der-bundesliga-2026-alle-offiziellen-wechsel-im-uberblick"
+    },
+    {
+      "spieler": "Nathaniel Brown",
+      "von": "Eintracht Frankfurt",
+      "nach": "Bayern Muenchen",
+      "datum": "2026-07",
+      "ablöse_mio": 55,
+      "hinweis": "Nicht mehr als Frankfurt-Spieler tippen. Stand im Supercup 22.08. in der Bayern-Startelf.",
+      "quelle": "https://www.90min.de/sommer-transfers-in-der-bundesliga-2026-alle-offiziellen-wechsel-im-uberblick"
+    },
+    {
+      "spieler": "Kerim Alajbegovic",
+      "von": "Bayer Leverkusen",
+      "nach": "Juventus Turin",
+      "datum": "2026-07",
+      "ablöse_mio": 37,
+      "quelle": "https://www.90min.de/sommer-transfers-in-der-bundesliga-2026-alle-offiziellen-wechsel-im-uberblick"
+    },
+    {
+      "spieler": "Rocco Reitz",
+      "von": "Borussia Moenchengladbach",
+      "nach": "RB Leipzig",
+      "datum": "2026-07",
+      "ablöse_mio": 20,
+      "quelle": "https://www.90min.de/sommer-transfers-in-der-bundesliga-2026-alle-offiziellen-wechsel-im-uberblick"
+    },
+    {
+      "spieler": "Noel Aseko",
+      "von": "Bayern Muenchen",
+      "nach": "Eintracht Frankfurt",
+      "datum": "2026-07",
+      "ablöse_mio": 12,
+      "quelle": "https://www.90min.de/sommer-transfers-in-der-bundesliga-2026-alle-offiziellen-wechsel-im-uberblick"
+    },
+    {
+      "spieler": "Leon Goretzka",
+      "von": "Bayern Muenchen",
+      "nach": "ablösefrei abgegeben",
+      "datum": "2026-07",
+      "hinweis": "Vertrag ausgelaufen. Neuer Verein vor einem Tipp live pruefen.",
+      "quelle": "https://www.90min.de/sommer-transfers-in-der-bundesliga-2026-alle-offiziellen-wechsel-im-uberblick"
+    },
+    {
+      "spieler": "Raphael Guerreiro",
+      "von": "Bayern Muenchen",
+      "nach": "ablösefrei abgegeben",
+      "datum": "2026-07",
+      "hinweis": "Vertrag ausgelaufen. Neuer Verein vor einem Tipp live pruefen.",
+      "quelle": "https://www.90min.de/sommer-transfers-in-der-bundesliga-2026-alle-offiziellen-wechsel-im-uberblick"
     }
   ],
 
   "zugaenge_neue_optionen": [
-    {"spieler": "Ismael Saibari", "nach": "Bayern Muenchen", "von": "PSV Eindhoven"},
-    {"spieler": "Nathaniel Brown", "nach": "Bayern Muenchen", "von": "Eintracht Frankfurt"},
-    {"spieler": "Cole Campbell", "nach": "Borussia Dortmund"}
+    {"spieler": "Ismael Saibari", "nach": "Bayern Muenchen", "von": "PSV Eindhoven", "ablöse_mio": 50},
+    {"spieler": "Nathaniel Brown", "nach": "Bayern Muenchen", "von": "Eintracht Frankfurt", "ablöse_mio": 50},
+    {"spieler": "Konstantinos Karetsas", "nach": "Borussia Dortmund", "von": "KRC Genk", "ablöse_mio": 30,
+     "hinweis": "Stand im Supercup 22.08. in der BVB-Startelf. Ersetzt Adeyemi als Offensiv-Option."},
+    {"spieler": "Giannis Konstantelias", "nach": "Borussia Dortmund", "von": "PAOK Saloniki", "ablöse_mio": 26},
+    {"spieler": "Joey Veerman", "nach": "Borussia Dortmund", "von": "PSV Eindhoven", "ablöse_mio": 22},
+    {"spieler": "Cole Campbell", "nach": "Borussia Dortmund"},
+    {"spieler": "Maxime Esteve", "nach": "RB Leipzig", "von": "FC Burnley", "ablöse_mio": 25},
+    {"spieler": "Rocco Reitz", "nach": "RB Leipzig", "von": "Borussia Moenchengladbach", "ablöse_mio": 20},
+    {"spieler": "Afonso Moreira", "nach": "Bayer Leverkusen", "von": "Olympique Lyon", "ablöse_mio": 29.5},
+    {"spieler": "Miguel Gutierrez", "nach": "Bayer Leverkusen", "von": "SSC Neapel", "ablöse_mio": 26},
+    {"spieler": "Noel Aseko", "nach": "Eintracht Frankfurt", "von": "Bayern Muenchen", "ablöse_mio": 12},
+    {"spieler": "Raphael Onyedika", "nach": "Eintracht Frankfurt", "von": "FC Bruegge", "ablöse_mio": 10}
   ],
 
   "trainer_2026_27": [
-    {"verein": "RB Leipzig", "trainer_neu": "Martin Demichelis", "trainer_alt": "Ole Werner"},
-    {"verein": "Bayern Muenchen", "trainer": "Vincent Kompany", "status": "weiter"}
+    {"verein": "Bayer Leverkusen", "trainer_neu": "Carles Martinez Novell", "trainer_alt": "Kasper Hjulmand",
+     "seit": "2026-07", "vertrag_bis": "2028-06", "hinweis": "Kam von FC Toulouse. Taktische Aussagen ueber Leverkusen NICHT auf Hjulmand-Stand stuetzen."},
+    {"verein": "Eintracht Frankfurt", "trainer_neu": "Adi Huetter", "trainer_alt": "Albert Riera",
+     "seit": "2026-07", "hinweis": "Rueckkehr - war schon 2018-2021 Frankfurt-Trainer."},
+    {"verein": "RB Leipzig", "trainer_neu": "Martin Demichelis", "trainer_alt": "Ole Werner",
+     "seit": "2026-07", "hinweis": "Werner wurde trotz Platz 3 und CL-Quali entlassen."},
+    {"verein": "1. FC Union Berlin", "trainer_neu": "Mauro Lustrinelli", "trainer_alt": "Marie-Louise Eta",
+     "seit": "2026-07", "hinweis": "Kam als Schweizer Meister mit dem FC Thun."},
+    {"verein": "Bayern Muenchen", "trainer": "Vincent Kompany", "seit": "2024-07", "status": "weiter"},
+    {"verein": "VfB Stuttgart", "trainer": "Sebastian Hoeness", "seit": "2023-04", "status": "weiter"},
+    {"verein": "SC Freiburg", "trainer": "Julian Schuster", "seit": "2024-07", "status": "weiter"}
   ],
-  "trainer_hinweis": "5 von 18 Bundesliga-Clubs mit Trainerwechsel zur Saison 2026/27. Restliche Vereine + andere Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie)."
+
+  "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist.",
+
+  "quellen": [
+    "https://www.90min.de/sommer-transfers-in-der-bundesliga-2026-alle-offiziellen-wechsel-im-uberblick",
+    "https://www.wetttippsheute.net/bundesliga-trainer-2026-27-die-trainerbank-zum-saisonstart-im-ueberblick/",
+    "https://www.kicker.de/das-sind-die-bundesliga-trainer-der-saison-2026-27-902978/slideshow",
+    "https://sport.sky.de/fussball/artikel/transfer-uebersicht-alle-wechsel-wer-kommt-wer-geht/12525683/35313"
+  ]
 }

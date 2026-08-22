@@ -1,8 +1,11 @@
 name: Miesmuschel Recherche Wochenend-Vorschau (Donnerstag)
 
 on:
-  schedule:
-    - cron: '30 14 * * 4'
+  # DEAKTIVIERT 22.08.2026 (Auto-Trigger entfernt): failt reproduzierbar am Startup,
+  # genau wie recherche-mo-fr und recherche-sa-so (dort schon am 21.08. abgeschaltet).
+  # Letzter Fehlschlag 20.08. -> haette im Urlaub woechentlich Fehler-Mails geschickt.
+  # Die Tipps-Routinen recherchieren selbst (Phase-1-Fallback in master_tipps_routine.md),
+  # data/recherche*/ ist seit 13.08. ohnehin leer. Reaktivieren nach Startup-Fix.
   workflow_dispatch:
   push:
     paths:
