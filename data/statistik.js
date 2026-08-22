@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-08-21T10:49:01+02:00",
+  "letzte_berechnung": "2026-08-22T06:08:16+00:00",
   "gesamt": {
     "tipps": 455,
     "gewonnen": 231,
@@ -24,15 +24,15 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 7.6
   },
   "letzte_90_tage": {
-    "tipps": 430,
-    "gewonnen": 221,
+    "tipps": 422,
+    "gewonnen": 214,
     "verloren": 195,
-    "push": 3,
+    "push": 2,
     "offen": 11,
-    "einsatz": 419.0,
-    "netto": 13.17,
-    "trefferquote": 53.1,
-    "roi_prozent": 3.1
+    "einsatz": 411.0,
+    "netto": 8.53,
+    "trefferquote": 52.3,
+    "roi_prozent": 2.1
   },
   "nach_liga": {
     "Premier League": {
@@ -4462,6 +4462,72 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-08-21",
+      "gesamt": {
+        "tipps": 5,
+        "gewonnen": 4,
+        "verloren": 1,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 5.0,
+        "netto": 7.77,
+        "trefferquote": 80.0,
+        "roi_prozent": 155.4
+      },
+      "spiele": [
+        {
+          "id": "2026-08-21-mar-str",
+          "liga": "Ligue 1",
+          "heim": "Olympique de Marseille",
+          "gast": "RC Strasbourg Alsace",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance 1X (Marseille oder Draw)",
+              "quote": 1.22,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.22,
+              "kommentar": "Marseille 4:0 → DC 1X (Marseille oder Draw) erfuellt via Marseille-Sieg. Quelle: fotmob/yahoo/101greatgoals."
+            },
+            {
+              "markt": "Sieg Marseille (90 Min)",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.7,
+              "kommentar": "Marseille Sieg 4:0. Home-Cauldron + El Mourabet Rot 59. Min = Ueberzahl half. Ohne 2:0-Insurance (Ligue 1) reichte 4-Tore-Sieg regulaer."
+            },
+            {
+              "markt": "Amine Gouiri Torschütze jederzeit",
+              "quote": 2.25,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 2.25,
+              "kommentar": "Amine Gouiri Doppelpack (46. Min Assist Gomes, 68. Min Elfmeter nach Doue-Foul an Paixao). Torschuetzen-Jederzeit-Goldgrube (50%/+24.4%) validiert."
+            },
+            {
+              "markt": "Beide Teams treffen: Ja",
+              "quote": 1.53,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Strasbourg blieb ohne Tor (4:0-Kollaps mit Rot 59. + Backup-Def). BTTS Ja WACKEL bewusst als Grenzfall gesetzt - dokumentierter Konflikt zu Marseille-Sieg-zu-Null-Szenario."
+            },
+            {
+              "markt": "Marseille -1.5 Handicap (Sieg mit mind. 2 Toren Differenz)",
+              "quote": 2.6,
+              "kategorie": "risk",
+              "status": "gewonnen",
+              "gewinn_faktor": 2.6,
+              "kommentar": "Marseille 4:0 = 4-Tore-Differenz > 1.5. Handicap -1.5 erfuellt. Beguenstigt durch Ueberzahl-Phase 59.-90.+6. Min."
+            }
+          ]
+        }
+      ],
+      "kombis": []
+    },
     {
       "datum": "2026-08-20",
       "gesamt": {
