@@ -913,7 +913,8 @@
       "quote": 1.15,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Old Trafford gegen Aufsteiger - DC 1X als Goldgrube (84.6% Hit, +9.5% ROI)."
+      "begruendung": "Old Trafford gegen Aufsteiger - DC 1X als Goldgrube (84.6% Hit, +9.5% ROI).",
+      "rang": 1
     },
     {
       "spiel_id": "2026-08-24-bvb-hsv",
@@ -924,7 +925,8 @@
       "quote": 1.1,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "BVB @81.365 gegen Aufsteiger HSV - Bundesliga-2:0-Insurance greift."
+      "begruendung": "BVB @81.365 gegen Aufsteiger HSV - Bundesliga-2:0-Insurance greift.",
+      "rang": 2
     },
     {
       "spiel_id": "2026-08-24-juv-par",
@@ -935,7 +937,8 @@
       "quote": 1.1,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Allianz Stadium gegen kleines Parma - klare DC-Goldgrube."
+      "begruendung": "Allianz Stadium gegen kleines Parma - klare DC-Goldgrube.",
+      "rang": 3
     },
     {
       "spiel_id": "2026-08-24-bay-stu",
@@ -946,7 +949,8 @@
       "quote": 1.2,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Bundesliga-Eroeffnung, 2:0-Insurance zaehlt (BL+CL), Pokalfinal-Revanche."
+      "begruendung": "Bundesliga-Eroeffnung, 2:0-Insurance zaehlt (BL+CL), Pokalfinal-Revanche.",
+      "rang": 4
     },
     {
       "spiel_id": "2026-08-24-liv-nfo",
@@ -957,7 +961,8 @@
       "quote": 1.15,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Anfield-Auftakt mit Isak-Debut vor Kop."
+      "begruendung": "Anfield-Auftakt mit Isak-Debut vor Kop.",
+      "rang": 5
     },
     {
       "spiel_id": "2026-08-24-bay-stu",
@@ -968,7 +973,8 @@
       "quote": 1.6,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Kane bleibt Bayern-Fokus-Stuermer (Vertragsverlaengerung), traf Supercup. Torschuetzen-Goldgrube."
+      "begruendung": "Kane bleibt Bayern-Fokus-Stuermer (Vertragsverlaengerung), traf Supercup. Torschuetzen-Goldgrube.",
+      "rang": 6
     },
     {
       "spiel_id": "2026-08-24-bvb-hsv",
@@ -979,7 +985,8 @@
       "quote": 1.75,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Guirassy bleibt bei BVB gegen Aufsteiger-Defense - Backup Beier/Karetsas via Einwechslungs-Boost."
+      "begruendung": "Guirassy bleibt bei BVB gegen Aufsteiger-Defense - Backup Beier/Karetsas via Einwechslungs-Boost.",
+      "rang": 7
     },
     {
       "spiel_id": "2026-08-24-liv-nfo",
@@ -990,7 +997,8 @@
       "quote": 2.0,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Isak-Heim-Debut vor Anfield-Kop mit maximaler Motivation."
+      "begruendung": "Isak-Heim-Debut vor Anfield-Kop mit maximaler Motivation.",
+      "rang": 8
     },
     {
       "spiel_id": "2026-08-24-fre-bre",
@@ -1001,7 +1009,8 @@
       "quote": 1.8,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Beide defensiv-organisiert - Unter 2.5 als Markt-Goldgrube (+27.5% ROI)."
+      "begruendung": "Beide defensiv-organisiert - Unter 2.5 als Markt-Goldgrube (+27.5% ROI).",
+      "rang": 9
     },
     {
       "spiel_id": "2026-08-24-uni-fra",
@@ -1012,7 +1021,8 @@
       "quote": 1.45,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Huetter-Rueckkehr + CL-Klub Frankfurt vs Union unter neuem Trainer Lustrinelli."
+      "begruendung": "Huetter-Rueckkehr + CL-Klub Frankfurt vs Union unter neuem Trainer Lustrinelli.",
+      "rang": 10
     },
     {
       "spiel_id": "2026-08-24-che-bri",
@@ -1023,7 +1033,8 @@
       "quote": 1.7,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Beide offensiv - Markt-Goldgrube Ueber 2.5."
+      "begruendung": "Beide offensiv - Markt-Goldgrube Ueber 2.5.",
+      "rang": 11
     },
     {
       "spiel_id": "2026-08-24-lil-psg",
@@ -1034,7 +1045,8 @@
       "quote": 1.3,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "PSG CL-Sieger klar Favorit auch auswaerts."
+      "begruendung": "PSG CL-Sieger klar Favorit auch auswaerts.",
+      "rang": 12
     },
     {
       "spiel_id": "2026-08-24-cag-int",
@@ -1045,7 +1057,8 @@
       "quote": 1.2,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Inter als CL-Vize gegen Cagliari klar Favorit."
+      "begruendung": "Inter als CL-Vize gegen Cagliari klar Favorit.",
+      "rang": 13
     },
     {
       "spiel_id": "2026-08-24-lei-bmg",
@@ -1056,7 +1069,8 @@
       "quote": 1.25,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Leipzig-Heim gegen BMG mit Demichelis-Debut."
+      "begruendung": "Leipzig-Heim gegen BMG mit Demichelis-Debut.",
+      "rang": 14
     }
   ],
   "kombis": [

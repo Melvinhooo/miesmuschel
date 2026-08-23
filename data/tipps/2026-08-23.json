@@ -104,7 +104,7 @@
       "tipps": [
         {
           "id": "mci-bou-01",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Sieg Manchester City",
           "quote": 1.44,
           "faire_quote": 1.32,
@@ -112,7 +112,7 @@
           "empfohlener_einsatz_prozent": 2.0,
           "einsatz_prozent_kasse": 2.0,
           "einsatz_euro": 20,
-          "begruendung": "Klassenkluft massiv trotz post-Pep-Unruhe. Bournemouth Sturm-dezimiert und im Trainerwechsel, City zuhause bei Antwort-Druck nach Community-Shield-Blamage. Sieg-1X2 Kategorie SAFE = +9% ROI systemisch. Bei 1000€ Kasse: 2% = 20€. Achtung: 2:0-Insurance in PL NICHT aktiv, Führung muss über 90 Min gehalten werden. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value]",
+          "begruendung": "Klassenkluft massiv trotz post-Pep-Unruhe. Bournemouth Sturm-dezimiert und im Trainerwechsel, City zuhause bei Antwort-Druck nach Community-Shield-Blamage. Sieg-1X2 Kategorie SAFE = +9% ROI systemisch. Bei 1000€ Kasse: 2% = 20€. Achtung: 2:0-Insurance in PL NICHT aktiv, Führung muss über 90 Min gehalten werden. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value] [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "_saison_kontext_sanity_downgrade": true
         },
         {
