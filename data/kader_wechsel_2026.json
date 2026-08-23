@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-23T10:35:00+02:00",
+  "stand": "2026-08-23T21:00:00+02:00",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -163,6 +163,51 @@
       "datum": "2026-07",
       "hinweis": "Als zentraler 9er zu Milan (Amorim-System). NIE mehr als PSG-Spieler tippen. Startelf-Debuet gegen Torino 23.08.",
       "quelle": "https://www.milannews.it/news/probabile-formazione-torino-milan-amorim-maignan-rabiot-leao-pulisic-ramos-moreira-627223"
+    },
+    {
+      "spieler": "Morgan Rogers",
+      "von": "Aston Villa",
+      "nach": "Chelsea",
+      "datum": "2026-07-22",
+      "ablöse_mio": 137,
+      "hinweis": "£117m Rekord-Transfer teuerster britischer Spieler aller Zeiten, 6-Jahres-Vertrag. NIE mehr als Aston Villa-Spieler tippen. Jetzt Chelsea unter Xabi Alonso.",
+      "quelle": "https://www.skysports.com/football/news/11095/13564944/morgan-rogers-transfer-news-chelsea-complete-record-breaking-lb117m-deal-to-sign-forward-from-aston-villa"
+    },
+    {
+      "spieler": "Elliot Anderson",
+      "von": "Nottingham Forest",
+      "nach": "Manchester City",
+      "datum": "2026-07-02",
+      "ablöse_mio": 137,
+      "hinweis": "£116m Klub-Rekord Manchester City (uebertraf Grealish 2021). NIE mehr als Nottingham Forest-Spieler tippen. 5-Jahres-Vertrag + Option.",
+      "quelle": "https://www.skysports.com/football/news/11095/13558090/elliot-anderson-to-man-city-midfielder-completes-record-breaking-lb116m-transfer-from-nottingham-forest"
+    },
+    {
+      "spieler": "Piero Hincapie",
+      "von": "Bayer Leverkusen",
+      "nach": "Arsenal",
+      "datum": "2026-07-01",
+      "ablöse_mio": 52,
+      "hinweis": "Nach Leih-Saison 2025/26 auf permanent gewechselt (€52m Kaufoption gezogen). 5-Jahres-Vertrag bis 2031. NIE mehr als Leverkusen-Spieler tippen.",
+      "quelle": "https://www.arsenal.com/news/piero-hincapie-joins-arsenal-in-permanent-deal-a64GQ9s3sBkl"
+    },
+    {
+      "spieler": "Maxence Lacroix",
+      "von": "Crystal Palace",
+      "nach": "Chelsea",
+      "datum": "2026-07-29",
+      "ablöse_mio": 61,
+      "hinweis": "€60.7m / £51m. Vertrag bis 2032, Nr. 5. Franz. IV, 192cm, luftstark. NIE mehr als Crystal Palace-Spieler tippen.",
+      "quelle": "https://www.chelseafc.com/en/news/article/maxence-lacroix-signs-for-chelsea"
+    },
+    {
+      "spieler": "Christian Norgaard",
+      "von": "Arsenal",
+      "nach": "Everton",
+      "datum": "2026-08-05",
+      "ablöse_mio": 8.2,
+      "hinweis": "€8.2m nach nur 7 Liga-Startelfen in Arsenals Meister-Saison. 2-Jahres-Vertrag unter David Moyes. NIE mehr als Arsenal-Spieler tippen (obwohl selten getippt).",
+      "quelle": "https://www.espn.com/soccer/story/_/id/49540382/everton-christian-norgaard-arsenal-transfer"
     }
   ],
 
@@ -197,7 +242,13 @@
      "seit": "2026-07", "hinweis": "Kam als Schweizer Meister mit dem FC Thun."},
     {"verein": "Bayern Muenchen", "trainer": "Vincent Kompany", "seit": "2024-07", "status": "weiter"},
     {"verein": "VfB Stuttgart", "trainer": "Sebastian Hoeness", "seit": "2023-04", "status": "weiter"},
-    {"verein": "SC Freiburg", "trainer": "Julian Schuster", "seit": "2024-07", "status": "weiter"}
+    {"verein": "SC Freiburg", "trainer": "Julian Schuster", "seit": "2024-07", "status": "weiter"},
+    {"verein": "Chelsea FC", "trainer_neu": "Xabi Alonso", "trainer_alt": "Enzo Maresca",
+     "seit": "2026-07-01", "vertrag_bis": "2030-06", "hinweis": "4-Jahres-Vertrag. Kam von Real Madrid (dort Januar 2026 getrennt, Nachfolger Arbeloa). Vorher Bayer Leverkusen (Meister 2024). Taktische Aussagen ueber Chelsea NICHT auf Maresca-Stand stuetzen.",
+     "quelle": "https://www.chelseafc.com/en/news/article/xabi-alonso-appointed-chelsea-manager"},
+    {"verein": "Real Madrid", "trainer_neu": "Alvaro Arbeloa", "trainer_alt": "Xabi Alonso",
+     "seit": "2026-01-13", "hinweis": "Real trennte sich Januar 2026 von Alonso, befoerderte Ex-Verteidiger Arbeloa (bisher Castilla-Coach). Taktische Aussagen ueber Real NICHT auf Alonso-Stand stuetzen.",
+     "quelle": "https://www.newsonair.gov.in/real-madrid-part-ways-with-xabi-alonso-appoint-alvaro-arbeloa-as-new-head-coach"}
   ],
 
   "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist.",
@@ -206,6 +257,9 @@
     "https://www.90min.de/sommer-transfers-in-der-bundesliga-2026-alle-offiziellen-wechsel-im-uberblick",
     "https://www.wetttippsheute.net/bundesliga-trainer-2026-27-die-trainerbank-zum-saisonstart-im-ueberblick/",
     "https://www.kicker.de/das-sind-die-bundesliga-trainer-der-saison-2026-27-902978/slideshow",
-    "https://sport.sky.de/fussball/artikel/transfer-uebersicht-alle-wechsel-wer-kommt-wer-geht/12525683/35313"
+    "https://sport.sky.de/fussball/artikel/transfer-uebersicht-alle-wechsel-wer-kommt-wer-geht/12525683/35313",
+    "https://www.premierleague.com/en/transfers/2026-27/summer",
+    "https://en.wikipedia.org/wiki/List_of_English_football_transfers_summer_2026",
+    "https://www.chelseafc.com/en/news/article/xabi-alonso-appointed-chelsea-manager"
   ]
 }
