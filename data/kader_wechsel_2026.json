@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-22",
+  "stand": "2026-08-23",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -73,6 +73,24 @@
       "datum": "2026-07",
       "hinweis": "Vertrag ausgelaufen. Neuer Verein vor einem Tipp live pruefen.",
       "quelle": "https://www.90min.de/sommer-transfers-in-der-bundesliga-2026-alle-offiziellen-wechsel-im-uberblick"
+    },
+    {
+      "spieler": "Yoane Wissa",
+      "von": "Brentford",
+      "nach": "Newcastle United",
+      "datum": "2025-09-01",
+      "ablöse_mio": 55,
+      "hinweis": "Deadline-Day-Wechsel 01.09.2025 fuer £55m (£50m + £5m Boni) als Isak-Nachfolger. NIE mehr als Brentford-Torschuetze/Spieler tippen. Eintrag entstand aus dem Wissa-Tipp im Brentford-Tottenham-Dossier am 22.08.2026, wo Wissa noch als Brentfords Volumen-Stuermer galt.",
+      "quelle": "https://www.brentfordfc.com/en/news/article/first-team-yoane-wissa-brentford-newcastle-united-transfer"
+    },
+    {
+      "spieler": "Romelu Lukaku",
+      "von": "SSC Napoli",
+      "nach": "Fenerbahce",
+      "datum": "2026-08",
+      "ablöse_mio": 6,
+      "hinweis": "Nach nur zwei Saisons in Neapel (viel Verletzung, letztes Jahr nur 7 Einsaetze) im August 2026 fuer 6 Mio zu Fenerbahce (zu Greenwood/Ake). NIE mehr als Napoli-Spieler tippen. Eintrag entstand aus dem Lukaku-Torschuetzen-Tipp im Genoa-Napoli-Dossier am 22.08.2026 - Napoli-Sieg lief in Wirklichkeit ueber De Bruyne (82.) und Vergara (87.), Lukaku war laengst weg.",
+      "quelle": "https://www.goal.com/en/lists/romelu-lukaku-fenerbahce-transfer-napoli/bltfd727d0ed55b69b4"
     }
   ],
 
@@ -89,7 +107,11 @@
     {"spieler": "Afonso Moreira", "nach": "Bayer Leverkusen", "von": "Olympique Lyon", "ablöse_mio": 29.5},
     {"spieler": "Miguel Gutierrez", "nach": "Bayer Leverkusen", "von": "SSC Neapel", "ablöse_mio": 26},
     {"spieler": "Noel Aseko", "nach": "Eintracht Frankfurt", "von": "Bayern Muenchen", "ablöse_mio": 12},
-    {"spieler": "Raphael Onyedika", "nach": "Eintracht Frankfurt", "von": "FC Bruegge", "ablöse_mio": 10}
+    {"spieler": "Raphael Onyedika", "nach": "Eintracht Frankfurt", "von": "FC Bruegge", "ablöse_mio": 10},
+    {"spieler": "Kevin De Bruyne", "nach": "SSC Napoli", "von": "Manchester City",
+     "hinweis": "Ist seit Sommer 2025 bei Napoli. Kam am 22.08.2026 in Genua 67. rein und traf 82. zum 0:1 (plus Assist zum 0:2)."},
+    {"spieler": "Loïs Openda", "nach": "Olympique Lyon", "von": "Juventus Turin",
+     "hinweis": "Leihe aus Turin fuer die Ligue-1-Saison 2026/27. Ligue-1-Comeback nach RB-Leipzig-Historie."}
   ],
 
   "trainer_2026_27": [

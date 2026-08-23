@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-08-22T16:38:33+02:00",
+  "letzte_berechnung": "2026-08-23T06:14:34+00:00",
   "gesamt": {
-    "tipps": 455,
-    "gewonnen": 231,
-    "verloren": 210,
+    "tipps": 465,
+    "gewonnen": 238,
+    "verloren": 213,
     "push": 3,
     "offen": 11,
-    "einsatz": 444.0,
-    "netto": 13.5,
-    "trefferquote": 52.4,
-    "roi_prozent": 3.0
+    "einsatz": 454.0,
+    "netto": 22.94,
+    "trefferquote": 52.8,
+    "roi_prozent": 5.1
   },
   "letzte_30_tage": {
     "tipps": 168,
-    "gewonnen": 74,
-    "verloren": 82,
+    "gewonnen": 77,
+    "verloren": 79,
     "push": 1,
     "offen": 11,
     "einsatz": 157.0,
-    "netto": 11.99,
-    "trefferquote": 47.4,
-    "roi_prozent": 7.6
+    "netto": 25.21,
+    "trefferquote": 49.4,
+    "roi_prozent": 16.1
   },
   "letzte_90_tage": {
-    "tipps": 422,
-    "gewonnen": 214,
-    "verloren": 195,
-    "push": 2,
+    "tipps": 419,
+    "gewonnen": 216,
+    "verloren": 191,
+    "push": 1,
     "offen": 11,
-    "einsatz": 411.0,
-    "netto": 8.53,
-    "trefferquote": 52.3,
-    "roi_prozent": 2.1
+    "einsatz": 408.0,
+    "netto": 21.82,
+    "trefferquote": 53.1,
+    "roi_prozent": 5.3
   },
   "nach_liga": {
     "Premier League": {
@@ -1133,6 +1133,50 @@
       "netto": -3.43,
       "trefferquote": 37.5,
       "roi_prozent": -42.9
+    },
+    "LaLiga EA Sports 2026/27 - 2. Jornada": {
+      "tipps": 3,
+      "gewonnen": 1,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 1.15,
+      "trefferquote": 33.3,
+      "roi_prozent": 38.3
+    },
+    "Franz Beckenbauer Supercup 2026": {
+      "tipps": 3,
+      "gewonnen": 2,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 2.67,
+      "trefferquote": 66.7,
+      "roi_prozent": 89.0
+    },
+    "Serie A Enilive 2026/27 - 1. Giornata": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 2.52,
+      "trefferquote": 100.0,
+      "roi_prozent": 126.0
+    },
+    "DFB-Pokal 2026/27 - 1. Hauptrunde": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 3.1,
+      "trefferquote": 100.0,
+      "roi_prozent": 155.0
     }
   },
   "nach_markt": {
@@ -2798,15 +2842,15 @@
       "roi_prozent": 73.0
     },
     "Beide Teams treffen JA": {
-      "tipps": 6,
-      "gewonnen": 2,
+      "tipps": 7,
+      "gewonnen": 3,
       "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 6.0,
-      "netto": 0.65,
-      "trefferquote": 33.3,
-      "roi_prozent": 10.8
+      "einsatz": 7.0,
+      "netto": 2.1,
+      "trefferquote": 42.9,
+      "roi_prozent": 30.0
     },
     "Kai Havertz trifft jederzeit": {
       "tipps": 1,
@@ -3951,6 +3995,105 @@
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Real Madrid DC X2": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.15,
+      "trefferquote": 100.0,
+      "roi_prozent": 115.0
+    },
+    "Bayern Doppelte Chance X2 (Unentschieden oder Bayern)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.22,
+      "trefferquote": 100.0,
+      "roi_prozent": 122.0
+    },
+    "Inter gewinnt": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.22,
+      "trefferquote": 100.0,
+      "roi_prozent": 122.0
+    },
+    "Leverkusen gewinnt": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.25,
+      "trefferquote": 100.0,
+      "roi_prozent": 125.0
+    },
+    "Kylian Mbappé trifft": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Harry Kane trifft (jederzeit)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Napoli DC X2": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 130.0
+    },
+    "Vinícius Jr trifft": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Patrik Schick trifft": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.85,
+      "trefferquote": 100.0,
+      "roi_prozent": 185.0
     }
   },
   "nach_markt_typ": {
@@ -3966,15 +4109,15 @@
       "roi_prozent": -100.0
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 82,
-      "gewonnen": 29,
-      "verloren": 51,
+      "tipps": 86,
+      "gewonnen": 30,
+      "verloren": 54,
       "push": 2,
       "offen": 0,
-      "einsatz": 82.0,
-      "netto": 1.59,
-      "trefferquote": 36.2,
-      "roi_prozent": 1.9
+      "einsatz": 86.0,
+      "netto": 3.44,
+      "trefferquote": 35.7,
+      "roi_prozent": 4.0
     },
     "Spread/Handicap": {
       "tipps": 5,
@@ -4043,15 +4186,15 @@
       "roi_prozent": 27.3
     },
     "Doppelte Chance X2": {
-      "tipps": 31,
-      "gewonnen": 23,
+      "tipps": 34,
+      "gewonnen": 26,
       "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 31.0,
-      "netto": 3.85,
-      "trefferquote": 74.2,
-      "roi_prozent": 12.4
+      "einsatz": 34.0,
+      "netto": 7.52,
+      "trefferquote": 76.5,
+      "roi_prozent": 22.1
     },
     "Unter 2.5 Tore": {
       "tipps": 29,
@@ -4087,15 +4230,15 @@
       "roi_prozent": 27.5
     },
     "Beide Teams treffen JA": {
-      "tipps": 35,
-      "gewonnen": 20,
+      "tipps": 36,
+      "gewonnen": 21,
       "verloren": 15,
       "push": 0,
       "offen": 0,
-      "einsatz": 35.0,
-      "netto": 3.01,
-      "trefferquote": 57.1,
-      "roi_prozent": 8.6
+      "einsatz": 36.0,
+      "netto": 4.46,
+      "trefferquote": 58.3,
+      "roi_prozent": 12.4
     },
     "Unter 3.5 Tore": {
       "tipps": 4,
@@ -4272,40 +4415,62 @@
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Inter gewinnt": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.22,
+      "trefferquote": 100.0,
+      "roi_prozent": 122.0
+    },
+    "Leverkusen gewinnt": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.25,
+      "trefferquote": 100.0,
+      "roi_prozent": 125.0
     }
   },
   "nach_quoten_range": {
     "1.00-1.50": {
-      "tipps": 172,
-      "gewonnen": 106,
+      "tipps": 178,
+      "gewonnen": 112,
       "verloren": 58,
       "push": 1,
       "offen": 7,
-      "einsatz": 165.0,
-      "netto": 5.7,
-      "trefferquote": 64.6,
-      "roi_prozent": 3.5
+      "einsatz": 171.0,
+      "netto": 13.29,
+      "trefferquote": 65.9,
+      "roi_prozent": 7.8
     },
     "1.50-2.00": {
-      "tipps": 198,
-      "gewonnen": 97,
-      "verloren": 98,
+      "tipps": 201,
+      "gewonnen": 98,
+      "verloren": 100,
       "push": 1,
       "offen": 2,
-      "einsatz": 196.0,
-      "netto": 5.83,
-      "trefferquote": 49.7,
-      "roi_prozent": 3.0
+      "einsatz": 199.0,
+      "netto": 7.68,
+      "trefferquote": 49.5,
+      "roi_prozent": 3.9
     },
     "2.00-3.00": {
-      "tipps": 64,
+      "tipps": 65,
       "gewonnen": 22,
-      "verloren": 39,
+      "verloren": 40,
       "push": 1,
       "offen": 2,
-      "einsatz": 62.0,
+      "einsatz": 63.0,
       "netto": 0.37,
-      "trefferquote": 36.1,
+      "trefferquote": 35.5,
       "roi_prozent": 0.6
     },
     "3.00+": {
@@ -4322,37 +4487,37 @@
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 60,
-      "gewonnen": 32,
+      "tipps": 64,
+      "gewonnen": 36,
       "verloren": 21,
       "push": 0,
       "offen": 7,
-      "einsatz": 53.0,
-      "netto": 0.28,
-      "trefferquote": 60.4,
-      "roi_prozent": 0.5
+      "einsatz": 57.0,
+      "netto": 5.12,
+      "trefferquote": 63.2,
+      "roi_prozent": 9.0
     },
     "value": {
-      "tipps": 272,
-      "gewonnen": 149,
-      "verloren": 116,
+      "tipps": 277,
+      "gewonnen": 151,
+      "verloren": 119,
       "push": 3,
       "offen": 4,
-      "einsatz": 268.0,
-      "netto": 17.69,
-      "trefferquote": 56.2,
-      "roi_prozent": 6.6
+      "einsatz": 273.0,
+      "netto": 20.44,
+      "trefferquote": 55.9,
+      "roi_prozent": 7.5
     },
     "wackel": {
-      "tipps": 120,
-      "gewonnen": 49,
+      "tipps": 121,
+      "gewonnen": 50,
       "verloren": 71,
       "push": 0,
       "offen": 0,
-      "einsatz": 120.0,
-      "netto": -3.87,
-      "trefferquote": 40.8,
-      "roi_prozent": -3.2
+      "einsatz": 121.0,
+      "netto": -2.02,
+      "trefferquote": 41.3,
+      "roi_prozent": -1.7
     },
     "risiko": {
       "tipps": 3,
@@ -4401,15 +4566,15 @@
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 455,
-      "gewonnen": 231,
-      "verloren": 210,
+      "tipps": 465,
+      "gewonnen": 238,
+      "verloren": 213,
       "push": 3,
       "offen": 11,
-      "einsatz": 444.0,
-      "netto": 13.5,
-      "trefferquote": 52.4,
-      "roi_prozent": 3.0
+      "einsatz": 454.0,
+      "netto": 22.94,
+      "trefferquote": 52.8,
+      "roi_prozent": 5.1
     },
     "kasse": {
       "name": "2026/27",
@@ -4446,21 +4611,326 @@
         "start": "2026-08-22",
         "ende": "2027-06-30",
         "bilanz": {
-          "tipps": 0,
-          "gewonnen": 0,
-          "verloren": 0,
+          "tipps": 10,
+          "gewonnen": 7,
+          "verloren": 3,
           "push": 0,
           "offen": 0,
-          "einsatz": 0.0,
-          "netto": 0.0,
-          "trefferquote": 0.0,
-          "roi_prozent": 0.0
+          "einsatz": 10.0,
+          "netto": 9.44,
+          "trefferquote": 70.0,
+          "roi_prozent": 94.4
         },
         "ist_aktuell": true
       }
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-08-22",
+      "gesamt": {
+        "tipps": 10,
+        "gewonnen": 7,
+        "verloren": 3,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 10.0,
+        "netto": 9.44,
+        "trefferquote": 70.0,
+        "roi_prozent": 94.4
+      },
+      "spiele": [
+        {
+          "id": "2026-08-22-weh-b04",
+          "liga": "DFB-Pokal 2026/27 - 1. Hauptrunde",
+          "heim": "SV Wehen Wiesbaden",
+          "gast": "Bayer 04 Leverkusen",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Leverkusen gewinnt",
+              "quote": 1.25,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.25,
+              "kommentar": "Leverkusen 4:0 - klarer Sieg"
+            },
+            {
+              "markt": "Patrik Schick trifft",
+              "quote": 1.85,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.85,
+              "kommentar": "Schick traf 43."
+            }
+          ]
+        },
+        {
+          "id": "2026-08-22-int-mon",
+          "liga": "Serie A Enilive 2026/27 - 1. Giornata",
+          "heim": "Inter Mailand",
+          "gast": "AC Monza",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Inter gewinnt",
+              "quote": 1.22,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.22,
+              "kommentar": "Inter 4:1"
+            }
+          ]
+        },
+        {
+          "id": "2026-08-22-bvb-fcb",
+          "liga": "Franz Beckenbauer Supercup 2026",
+          "heim": "Borussia Dortmund",
+          "gast": "FC Bayern München",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Bayern Doppelte Chance X2 (Unentschieden oder Bayern)",
+              "quote": 1.22,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.22,
+              "kommentar": "Bayern-Sieg 2:1 - DC X2 durch (keine Verlaengerung, kein Elfmeterschiessen)"
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.45,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.45,
+              "kommentar": "Brown+Olise Bayern, Silva BVB - beide trafen"
+            },
+            {
+              "markt": "Harry Kane trifft (jederzeit)",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Kane ohne Tor; alle Bayern-Tore fielen bis 45. - kein Einwechslungs-Boost moeglich"
+            }
+          ]
+        },
+        {
+          "id": "2026-08-22-gen-nap",
+          "liga": "Serie A Enilive 2026/27 - 1. Giornata",
+          "heim": "Genoa CFC",
+          "gast": "SSC Napoli",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Napoli DC X2",
+              "quote": 1.3,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.3,
+              "kommentar": "Napoli 0:2 - DC X2 durch"
+            }
+          ]
+        },
+        {
+          "id": "2026-08-22-esp-rma",
+          "liga": "LaLiga EA Sports 2026/27 - 2. Jornada",
+          "heim": "RCD Espanyol",
+          "gast": "Real Madrid",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Real Madrid DC X2",
+              "quote": 1.15,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.15,
+              "kommentar": "Real-Sieg 2:1 - DC X2 durch"
+            },
+            {
+              "markt": "Kylian Mbappé trifft",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Mbappe ohne Tor, spielte durch (kein Boost)"
+            },
+            {
+              "markt": "Vinícius Jr trifft",
+              "quote": 2.2,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Vinicius ohne Tor; wurde 83. ausgewechselt fuer Palacios, aber Palacios traf nicht -> kein Boost"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (6 Beine, ~3.1x)",
+          "kategorie": "safe",
+          "gesamtquote": 3.06,
+          "einsatz_prozent": 2.0,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Hull City - Manchester United: Man United DC X2 (Unentschieden oder United)",
+              "quote": 1.1,
+              "status": "verloren",
+              "kommentar": "Hull-Sieg 2:0 - DC X2 fuer United platzt"
+            },
+            {
+              "markt": "RCD Espanyol - Real Madrid: Real Madrid DC X2",
+              "quote": 1.15,
+              "status": "gewonnen",
+              "kommentar": "Real-Sieg 2:1 - DC X2 durch"
+            },
+            {
+              "markt": "Inter Mailand - AC Monza: Inter gewinnt",
+              "quote": 1.22,
+              "status": "gewonnen",
+              "kommentar": "Inter 4:1"
+            },
+            {
+              "markt": "SV Wehen Wiesbaden - Bayer 04 Leverkusen: Leverkusen gewinnt",
+              "quote": 1.25,
+              "status": "gewonnen",
+              "kommentar": "Leverkusen 4:0 - klarer Sieg"
+            },
+            {
+              "markt": "Genoa CFC - SSC Napoli: Napoli DC X2",
+              "quote": 1.3,
+              "status": "gewonnen",
+              "kommentar": "Napoli 0:2 - DC X2 durch"
+            },
+            {
+              "markt": "Borussia Dortmund - FC Bayern München: Bayern Doppelte Chance X2 (Unentschieden oder Bayern)",
+              "quote": 1.22,
+              "status": "gewonnen",
+              "kommentar": "Bayern-Sieg 2:1 - DC X2 durch (keine Verlaengerung, kein Elfmeterschiessen)"
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (5 Beine, ~9.3x)",
+          "kategorie": "value",
+          "gesamtquote": 9.3,
+          "einsatz_prozent": 0.8,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Borussia Dortmund - FC Bayern München: Harry Kane trifft (jederzeit)",
+              "quote": 1.7,
+              "status": "verloren",
+              "kommentar": "Kane ohne Tor; alle Bayern-Tore fielen bis 45. - kein Einwechslungs-Boost moeglich"
+            },
+            {
+              "markt": "RCD Espanyol - Real Madrid: Kylian Mbappé trifft",
+              "quote": 1.65,
+              "status": "verloren",
+              "kommentar": "Mbappe ohne Tor, spielte durch (kein Boost)"
+            },
+            {
+              "markt": "Brentford - Tottenham Hotspur: BTTS - Ja",
+              "quote": 1.7,
+              "status": "verloren",
+              "kommentar": "BTTS - Spurs 0 Tore"
+            },
+            {
+              "markt": "Inter Mailand - AC Monza: Ueber 2.5 Tore",
+              "quote": 1.5,
+              "status": "gewonnen",
+              "kommentar": "5 Tore - Ueber 2.5"
+            },
+            {
+              "markt": "Hull City - Manchester United: Ueber 1.5 Tore",
+              "quote": 1.3,
+              "status": "gewonnen",
+              "kommentar": "2 Tore - Ueber 1.5"
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (5 Beine, ~25.4x)",
+          "kategorie": "risk",
+          "gesamtquote": 25.37,
+          "einsatz_prozent": 0.25,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Genoa CFC - SSC Napoli: BTTS - Ja",
+              "quote": 1.75,
+              "status": "verloren",
+              "kommentar": "Genoa 0 Tore - kein BTTS"
+            },
+            {
+              "markt": "Toulouse FC - Olympique Lyon: BTTS - Ja",
+              "quote": 1.65,
+              "status": "verloren",
+              "kommentar": "Toulouse 0 Tore - kein BTTS"
+            },
+            {
+              "markt": "Inter Mailand - AC Monza: Marcus Thuram trifft",
+              "quote": 1.9,
+              "status": "verloren",
+              "kommentar": "Thuram nur Bank (Startelf-Vorzug fuer Pio Esposito), kein Tor"
+            },
+            {
+              "markt": "Brentford - Tottenham Hotspur: Ueber 2.5 Tore",
+              "quote": 1.85,
+              "status": "gewonnen",
+              "kommentar": "3 Tore - Ueber 2.5"
+            },
+            {
+              "markt": "Hull City - Manchester United: Bruno Fernandes trifft",
+              "quote": 2.5,
+              "status": "verloren",
+              "kommentar": "Bruno Fernandes ohne Tor, blieb bis Ende auf dem Feld (kein Boost)"
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (5 Beine, ~108x)",
+          "kategorie": "moonshot",
+          "gesamtquote": 108.12,
+          "einsatz_prozent": 0.1,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Brentford - Tottenham Hotspur: Yoane Wissa trifft",
+              "quote": 3.3,
+              "status": "verloren",
+              "kommentar": "Wissa ist seit 01.09.2025 bei Newcastle - Kader-Fehler, Tipp haette gar nicht laufen duerfen; auch faktisch nicht getroffen"
+            },
+            {
+              "markt": "Toulouse FC - Olympique Lyon: Loïs Openda trifft",
+              "quote": 3.5,
+              "status": "verloren",
+              "kommentar": "Openda ohne Tor; Ersatz-Info nicht recherchierbar - konservativ verloren"
+            },
+            {
+              "markt": "Genoa CFC - SSC Napoli: Romelu Lukaku trifft",
+              "quote": 2.3,
+              "status": "verloren",
+              "kommentar": "Lukaku ist seit August 2026 bei Fenerbahce - Kader-Fehler, Tipp haette gar nicht laufen duerfen; kein Einwechslungs-Boost, da Lukaku nicht mehr im Kader ist"
+            },
+            {
+              "markt": "RCD Espanyol - Real Madrid: Vinícius Jr trifft",
+              "quote": 2.2,
+              "status": "verloren",
+              "kommentar": "Vinicius ohne Tor; wurde 83. ausgewechselt fuer Palacios, aber Palacios traf nicht -> kein Boost"
+            },
+            {
+              "markt": "SV Wehen Wiesbaden - Bayer 04 Leverkusen: Patrik Schick trifft",
+              "quote": 1.85,
+              "status": "gewonnen",
+              "kommentar": "Schick traf 43."
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-08-21",
       "gesamt": {

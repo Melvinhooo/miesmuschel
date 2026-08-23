@@ -1,0 +1,1943 @@
+{
+  "datum": "2026-08-22",
+  "erstellt_am": "2026-08-22T16:40:00+02:00",
+  "hinweis": "Sa 22.08.2026 - NUR Spiele mit Anstoß heute (8 Spiele). Saison-Auftakt PL 1. Spieltag, LaLiga J2, Serie A J1, Ligue 1 J1, DFB-Pokal 1. Runde - und als Kracher der Franz-Beckenbauer-Supercup Dortmund gegen Bayern, 20:30 im Signal Iduna Park. Korrektur gegenüber dem Erst-Lauf der Routine: die Sonntagsspiele (Man City, Newcastle-Liverpool, Elche-Barça, Torino-Milan, Frosinone-Juve, Rennes-PSG) sind raus - die stehen im Wochenend-Modus. Kasse 1000€, Stufe 1 aktiv (Stufe 2 erst wenn die Saison 2026/27 selbst >+5% rolling-30d-ROI zeigt). Quoten bei bet365 live prüfen.",
+  "spiele": [
+    {
+      "id": "2026-08-22-weh-b04",
+      "liga": "DFB-Pokal 2026/27 - 1. Hauptrunde",
+      "heim": "SV Wehen Wiesbaden",
+      "gast": "Bayer 04 Leverkusen",
+      "anstoss": "2026-08-22T13:00:00+02:00",
+      "stadion": "BRITA-Arena, Wiesbaden",
+      "saison_kontext": {
+        "parallel_heim": "keine - 3. Liga aktueller Verein, kein europaeischer Wettbewerb",
+        "parallel_gast": "keine - Bayer 04 hat aktuell keinen Wettbewerb parallel (Bundesliga-Start 28.08., Champions League 2026/27 Gruppenphase erst Sept. laut uefa.com)",
+        "saisonziel_heim": "3.-Liga-Aufstieg oder Playoff - Realistisch Mittelfeld, im Pokal reines Losglueck",
+        "saisonziel_gast": "Bundesliga-Titel-Angriff + CL-Fokus, Pokal-Runde 1 = Pflichtsieg",
+        "motivations_asymmetrie": "Enorme Klassekluft (3. Liga vs Bundesliga-Top-Team). Wehen hat beide Saison-Spiele der 3. Liga verloren - Selbstvertrauen im Keller. Leverkusen kommt mit 8 WM-Teilnehmern noch im Aufbau, aber Restkader immer noch klar Klasse-ueberlegen.",
+        "recovery_heim": "3-4 Tage seit letztem 3.-Liga-Spiel - Belastung + Rhythmus da",
+        "recovery_gast": "~14 Tage Vorbereitung, aber 8 WM-Spieler noch nicht im Vollrhythmus - Rotation moeglich",
+        "quellen": [
+          "https://www.kicker.de/dfb-pokal/spieltag",
+          "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-ersten-hauptrunde",
+          "https://www.sportsmole.co.uk/football/wehen-wiesbaden/dfb-pokal/preview/wiesbaden-vs-b-leverkusen-prediction-team-news-lineups_603345.html"
+        ]
+      },
+      "news": [
+        "Wehen hat beide Saison-3.-Liga-Spiele verloren - startet in Wettkampfmodus schwach.",
+        "Leverkusen hat 8 WM-Teilnehmer im Aufbau, Rest-Kader noch nicht im Vollrhythmus, aber Bundesliga-Klasse dominant.",
+        "Bayer-Sturm mit Patrik Schick (Form-Lauf letzte Saison) + Boniface + Adli.",
+        "Historisch verlieren 3.-Liga-Teams in DFB-Pokal-1.-Runde vs Top-6-Bundesliga-Teams in ueber 90% der Faelle.",
+        "Prognose: Leverkusen-Sieg mit -2-Handicap oder Torflut."
+      ],
+      "tipps": [
+        {
+          "markt": "Leverkusen gewinnt",
+          "kategorie": "safe",
+          "edge_prozent": 8,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Klasseverteilung 3. Liga vs Bundesliga-Top-6 ist massiv. Wehen 0/2 im aktuellen Ligastart, Leverkusen mit intaktem Kern trotz WM-Aufbau. Quoten-Range 1.00-1.50: HR 64.6% / +3.5% ROI. DFB-Pokal 1. Runde ist historisch Fav-Bank, hier fair kalkuliert.",
+          "quote": 1.25,
+          "id": "2026-08-22-weh-b04-01",
+          "faire_quote": 1.16,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "markt": "Patrik Schick trifft",
+          "kategorie": "wackel",
+          "edge_prozent": 15,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Pflicht-Torschuetzen-Tipp bei Auswaerts-Fav unter 1.50. Schick ist Bayer-Volumen-Stuermer mit Form-Lauf. Gegen 3.-Liga-Defensive absehbar viele Torchancen. Einwechslungs-Boost bet365: bei Auswechslung zaehlt Ersatz (Boniface oder Adli). Backup-Pflicht bei Star-Fokus. Torschuetzen-Jederzeit +1.9% ROI, hier deutlich ueber Marktschnitt. [Auto HR3: UEFA-Doppelbelastung + Rotation - Top-Stuermer max WACKEL, Joker-Tipp suchen]",
+          "quote": 1.85,
+          "id": "2026-08-22-weh-b04-02",
+          "faire_quote": 1.61,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_joker_top_stuermer_block": true
+        },
+        {
+          "markt": "Ueber 2.5 Tore",
+          "kategorie": "safe",
+          "edge_prozent": 6,
+          "einsatz_prozent_kasse": 1.0,
+          "einsatz_euro": 10,
+          "begruendung": "Bundesliga-Team gegen 3.-Liga meist mit klarem Torfluss - typisch 3:0/3:1/4:1. Ueber-2.5 Statistik 52.6% HR / +6.1% ROI. Quoten-Range 1.00-1.50: HR 64.6% / +3.5% ROI. Klassisches Fav-Blowout-Muster.",
+          "quote": 1.4,
+          "id": "2026-08-22-weh-b04-03",
+          "faire_quote": 1.32,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "markt": "Leverkusen -2 (Sieg mit 3+ Toren Abstand)",
+          "kategorie": "wackel",
+          "edge_prozent": 8,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Handicap-Markt ist BLUTER bei uns (-23.6% ROI ueber 5 Tipps) - deshalb nur kleine Sonde. Aber Klasseverteilung enorm + Leverkusen historisch mit Blowout-Faehigkeit gegen kleine Teams. Wackel-Kategorie 40.8% HR / -3.2% ROI. Konservativer Einsatz.",
+          "quote": 2.0,
+          "id": "2026-08-22-weh-b04-04",
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 0,
+        "gast": 4,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 1,
+        "status": "FT"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-22-weh-b04-01",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.25,
+          "kommentar": "Leverkusen 4:0 - klarer Sieg"
+        },
+        {
+          "tipp_id": "2026-08-22-weh-b04-02",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.85,
+          "kommentar": "Schick traf 43."
+        },
+        {
+          "tipp_id": "2026-08-22-weh-b04-03",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.4,
+          "kommentar": "4 Tore - Ueber 2.5"
+        },
+        {
+          "tipp_id": "2026-08-22-weh-b04-04",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.0,
+          "kommentar": "4:0 = 4 Tore Abstand, Handicap -2 durch"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "0:4",
+        "tore": [
+          {
+            "min": 43,
+            "team": "gast",
+            "spieler": "Patrik Schick",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 47,
+            "team": "gast",
+            "spieler": "Lucas Vazquez",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": 69,
+            "team": "gast",
+            "spieler": "Nathan Tella",
+            "stand_danach": "0:3"
+          },
+          {
+            "min": 79,
+            "team": "gast",
+            "spieler": "Christian Kofane",
+            "stand_danach": "0:4"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Leverkusen fuehrte durchgehend, klassischer Fav-Blowout."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Unentschieden/Leverkusen",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Kofane",
+            "aus": "Schick",
+            "minute": 71,
+            "tor": true,
+            "hinweis": "Boost-relevant, aber Schick hatte selbst schon getroffen - kein Zusatz-Effekt."
+          }
+        ],
+        "auffaellige_patterns": [
+          "3.-Liga vs Bundesliga-Top-6 lief nominell (Fav-Blowout) - 0:4 nach 0:0-Halbzeit-Chancen ohne Wehen-Tor.",
+          "Schick startet die Saison mit direktem Tor - Volumen-Stuermer-Rolle bestaetigt."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-22-hul-mun",
+      "liga": "Premier League 2026/27 - 1. Spieltag",
+      "heim": "Hull City",
+      "gast": "Manchester United",
+      "anstoss": "2026-08-22T13:30:00+02:00",
+      "stadion": "MKM Stadium, Hull",
+      "saison_kontext": {
+        "parallel_heim": "keine - Championship-Aufsteiger, keine europaeische Belastung",
+        "parallel_gast": "keine - dritter letzte Saison, aber KEINE europaeische Belastung 2026/27 (Champions League ohne Manchester United, siehe uefa.com CL-Ansetzung)",
+        "saisonziel_heim": "Klassenerhalt nach 9 Jahren Abwesenheit von der Premier League - realistisches Ziel Platz 15-17",
+        "saisonziel_gast": "Titelkandidatur bzw. CL-Rueckkehr fuer 2027/28 nach Platz 3 in 2025/26 (41 Pkt im Kalenderjahr 2026 = meiste in PL)",
+        "motivations_asymmetrie": "United klar mehr Klasse, Hull hat trotzdem Adrenalin-Home-Debut - Rueckkehr in die PL nach fast Dekade vor eigener Kurve.",
+        "recovery_heim": "~7 Tage Pause seit letztem Testspiel, keine Belastung parallel - frisch",
+        "recovery_gast": "United mit ~14 Tage Vorbereitungspause seit letztem Testspiel, aber lange US-Tour im Juli - Basis-Rhythmus da",
+        "quellen": [
+          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
+          "https://www.sportsmole.co.uk/football/man-utd/top-four-race/preview/hull-city-vs-man-utd-prediction-team-news-lineups_603353.html",
+          "https://www.sportskeeda.com/football/hull-city-vs-manchester-united-prediction-betting-tips-august-22nd-2026"
+        ]
+      },
+      "news": [
+        "Manchester United kommt mit 41 Punkten aus dem PL-Kalenderjahr 2026 (Ligahoechstwert) und 83% Siegquote der letzten 6 PL-Spiele.",
+        "Hull City nach 9 Jahren zurueck in der PL - Cardiff-Aufstiegs-Kader wurde zwar leicht verstaerkt, aber Qualitaets-Gap enorm.",
+        "Auf Hull-Seite fallen Matazo, Gyabi, Butland, Zambrano, Hughes, Gelhardt und Morita verletzt aus - Kader-Tiefe angeschlagen.",
+        "United hat KEINE europaeische Belastung 2026/27 (kein CL/EL/Conference) - kompletter Fokus auf PL + FA Cup + League Cup.",
+        "United @ 1.33 (~-303) bei bet365 - Buchmacher geben ~75% Sieg-Wahrscheinlichkeit. Ueber/Unter 2.5 leicht Richtung UEBER erwartet."
+      ],
+      "tipps": [
+        {
+          "markt": "Man United DC X2 (Unentschieden oder United)",
+          "kategorie": "safe",
+          "edge_prozent": 8,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Klassiker-Absicherung fuer United gegen Neuaufsteiger. Markt-Typ DC X2 ist statistik-Goldgrube (74.2% HR, +12.4% ROI ueber 31 Tipps), auch wenn PL bei uns noch keine bewaehrte Liga-Goldgrube ist (LaLiga ist die einzige aktuelle bestaetigte). Bei -303-Fav-Quote fuer United ist Hull-Sieg quasi ausgeschlossen. Reine Sicherung - Wackel-Szenario waere nur Hull-1:0-Fruehtor + United-Aufbau-Angst, was gegen deren aktuelle Klasse extrem unwahrscheinlich ist.",
+          "quote": 1.1,
+          "id": "2026-08-22-hul-mun-01",
+          "faire_quote": 1.02,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "markt": "Bruno Fernandes trifft",
+          "kategorie": "value",
+          "edge_prozent": 12,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Pflicht-Torschuetzen-Tipp bei Auswaerts-Favoriten unter 1.50-Quote. Fernandes war 2025/26 mit Abstand United-Topscorer + Elfmeterschuetze, gegen Hull-Defensive absehbar viele Torchancen. Torschuetzen-Jederzeit-Markt hat Statistik 36.2% HR / +1.9% ROI ueber 82 Tipps - solider positiver ROI. Plus Einwechslungs-Boost-Regel bet365: wird Fernandes ausgewechselt, zaehlt sein direkter Ersatz mit (in Praxis dann Mount oder Zirkzee).",
+          "quote": 2.5,
+          "id": "2026-08-22-hul-mun-02",
+          "faire_quote": 2.23,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "markt": "Ueber 1.5 Tore",
+          "kategorie": "safe",
+          "edge_prozent": 6,
+          "einsatz_prozent_kasse": 1.0,
+          "einsatz_euro": 10,
+          "begruendung": "United schoss 2025/26 im Schnitt 1.9 PL-Tore pro Spiel. Gegen Aufsteiger-Defensiven historisch fast immer 2+ Tore beteiligt - egal welches Team. Konservative Absicherung mit sehr hoher Basis-Wahrscheinlichkeit. Quoten-Range 1.00-1.50 im System: HR 64.6%, ROI +3.5% ueber 172 Tipps.",
+          "quote": 1.3,
+          "id": "2026-08-22-hul-mun-03",
+          "faire_quote": 1.23,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "markt": "United gewinnt und beide Teams treffen",
+          "kategorie": "wackel",
+          "edge_prozent": 10,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "United ist Sieg-Fav aber Hull-Home-Debut-Adrenalin gibt Chance auf einen Konter-Treffer der Aufsteiger - besonders da United defensiv oft anfaellig war letzte Saison (Maguire/Casemiro-Abgaenge noch nicht ganz kompensiert). Kombi aus wahrscheinlichem Ausgang + moderatem Torfluss. Wackel-Kategorie HR 40.8% / ROI -3.2% - hier reiner Value-Play mit klarer Ausstiegs-These.",
+          "quote": 4.2,
+          "id": "2026-08-22-hul-mun-04",
+          "faire_quote": 3.82,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 2,
+        "gast": 0,
+        "halbzeit_heim": 2,
+        "halbzeit_gast": 0,
+        "status": "FT"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-22-hul-mun-01",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Hull-Sieg 2:0 - DC X2 fuer United platzt"
+        },
+        {
+          "tipp_id": "2026-08-22-hul-mun-02",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Bruno Fernandes ohne Tor, blieb bis Ende auf dem Feld (kein Boost)"
+        },
+        {
+          "tipp_id": "2026-08-22-hul-mun-03",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.3,
+          "kommentar": "2 Tore - Ueber 1.5"
+        },
+        {
+          "tipp_id": "2026-08-22-hul-mun-04",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "United ohne Tor"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:0",
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": 17,
+            "team": "heim",
+            "spieler": "Semi Ajayi",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 38,
+            "team": "heim",
+            "spieler": "Nobel Mendy",
+            "stand_danach": "2:0",
+            "detail": "Freistoss, PL-Debut"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Hull fuehrte durchgehend, United ohne Reaktion."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Hull/Hull",
+          "kein_team_zu_null": false,
+          "keine_2_0_insurance_relevant": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "United-Kollektiv",
+            "details": "Trotz voller Vorbereitung + kein Europa-Programm 2026/27 komplett kraftlos - Sensation."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "PL-Aufsteiger-Home-Debut nach 9 Jahren Abwesenheit gewinnt gegen Top-6-Fav (Vor-Quote 1.33). Zweitschwerer Auftakt-Upset der PL-Ara.",
+          "Ajayi + Mendy stellen Halbzeit 2:0 - beide Vorschau-No-Names. Torschuetzen-Tipp auf United-Star (Fernandes @ 2.50) verpuffte gegen fruehe Hull-Fuehrung."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-22-bre-tot",
+      "liga": "Premier League 2026/27 - 1. Spieltag",
+      "heim": "Brentford",
+      "gast": "Tottenham Hotspur",
+      "anstoss": "2026-08-22T18:30:00+02:00",
+      "stadion": "Gtech Community Stadium, London",
+      "saison_kontext": {
+        "parallel_heim": "keine - kein europaeischer Wettbewerb 2026/27",
+        "parallel_gast": "keine - kein europaeischer Wettbewerb 2026/27 (Platz 17 in 2025/26 = keine Europa-Quali)",
+        "saisonziel_heim": "gesichertes Mittelfeld / kleinere Europa-Chance nach Platz 9 in 2025/26 (nur Tordifferenz kostete Europa)",
+        "saisonziel_gast": "grosse Reset-Saison nach Platz 17 in 2025/26 - Rueckkehr in europaeische Plaetze angepeilt",
+        "motivations_asymmetrie": "Beide Teams motiviert aber unter neuen Trainern (Keith Andrews bei Brentford, Roberto De Zerbi bei Spurs). Frank hat zu Spurs gewechselt und kennt Brentford - Sonderdynamik. Klarer Coinflip-Charakter, weder Team ist eindeutig favorisiert.",
+        "recovery_heim": "~14 Tage Vorbereitung nach 7:0-Testsieg vs Eintracht Frankfurt - Torform da, Rhythmus da",
+        "recovery_gast": "~14 Tage Vorbereitung - komplett neue Struktur unter De Zerbi mit Tonali + Fernandes als Neuzugaengen, Integration laeuft noch",
+        "quellen": [
+          "https://www.sportsmole.co.uk/football/brentford/preview/brentford-vs-tottenham-prediction-team-news-lineups_603353.html",
+          "https://footballwhispers.com/blog/brentford-vs-tottenham-prediction-preview-betting-tips-22-08-2026/",
+          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season"
+        ]
+      },
+      "news": [
+        "Brentford neu unter Keith Andrews (Frank zu Spurs) - Kader mit Sangaré (£38.5m aus Lens, Klubrekord) verstaerkt.",
+        "Spurs nach Platz 17 mit De Zerbi + Tonali (Newcastle) + Mateus Fernandes als Kader-Verstaerkungen - grosser Reset.",
+        "Head-to-Head am Gtech: 4 von 5 letzten Duellen im Gtech endeten unentschieden, davon 2x 2:2.",
+        "Frank kennt Brentford in-und-auswendig - Doppel-Ex-Effekt: taktische Neutralisierung wahrscheinlich.",
+        "Coinflip-Quoten laut mehreren Quellen: Brentford 6/4 (~2.50), Draw 11/4 (~3.75), Spurs 15/8 (~2.88) - keine klare Favoritenrolle."
+      ],
+      "tipps": [
+        {
+          "markt": "BTTS - Ja",
+          "kategorie": "value",
+          "edge_prozent": 10,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Brentford schoss in fast jedem Heim-Spiel letzte Saison + 7:0 im letzten Test - Offensive laeuft. Spurs unter De Zerbi baut auf hohes Pressing + schnelles Umschalten was hinten Loecher laesst. Historisch H2H am Gtech: 4 von 5 letzten Duellen mit Toren beider Seiten. BTTS-JA ist Statistik-Value: 57.1% HR / +8.6% ROI ueber 35 Tipps. Passt zum Coinflip-Charakter ohne Sieg-Risiko.",
+          "quote": 1.7,
+          "id": "2026-08-22-bre-tot-01",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "markt": "Ueber 2.5 Tore",
+          "kategorie": "value",
+          "edge_prozent": 8,
+          "einsatz_prozent_kasse": 1.0,
+          "einsatz_euro": 10,
+          "begruendung": "Passt zu BTTS-Story: beide Teams mit offensivem Set-Up + Defensive noch nicht eingespielt. Ueber-2.5 Markt: 52.6% HR / +6.1% ROI ueber 40 Tipps - solider positiver Edge. In H2H am Gtech: 2 der letzten 5 Duelle endeten 2:2. Statt SAFE-DC lieber Tor-Total als konsistente Wahl fuer die Kombi.",
+          "quote": 1.85,
+          "id": "2026-08-22-bre-tot-02",
+          "faire_quote": 1.71,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "markt": "Yoane Wissa trifft",
+          "kategorie": "wackel",
+          "edge_prozent": 12,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Wissa ist Brentfords Volumen-Stuermer (Kane-Nachfolger im Angriff seit Mbeumo/Toney-Abgaengen). Am Gtech gefaehrlich. Bei Auswechslung greift Einwechslungs-Boost (in Praxis Schade oder Thiago). Torschuetzen-Jederzeit HR 36.2%, hier Wackel-Kategorie richtig. Wenn Wissa oder sein Ersatz irgendwann trifft, ist der Tipp durch.",
+          "quote": 3.3,
+          "id": "2026-08-22-bre-tot-03",
+          "faire_quote": 2.95,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "markt": "1X (Brentford oder Draw)",
+          "kategorie": "value",
+          "edge_prozent": 8,
+          "einsatz_prozent_kasse": 1.0,
+          "einsatz_euro": 10,
+          "begruendung": "Spurs strukturell wackelig, Brentford am Gtech mit klarem Home-Vorteil und 4 von 5 letzten Duellen ohne Spurs-Sieg. Statistisch DC 1X in unserem System: HR 66.7% / +1.0% ROI (18 Tipps) - solide positiv. Der einzige DC-Tipp in diesem Spiel (DC-CAP-Compliance).",
+          "quote": 1.65,
+          "id": "2026-08-22-bre-tot-04",
+          "faire_quote": 1.53,
+          "empfohlener_einsatz_prozent": 1.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 3,
+        "gast": 0,
+        "halbzeit_heim": 2,
+        "halbzeit_gast": 0,
+        "status": "FT"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-22-bre-tot-01",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "BTTS - Spurs 0 Tore"
+        },
+        {
+          "tipp_id": "2026-08-22-bre-tot-02",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.85,
+          "kommentar": "3 Tore - Ueber 2.5"
+        },
+        {
+          "tipp_id": "2026-08-22-bre-tot-03",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Wissa ist seit 01.09.2025 bei Newcastle - Kader-Fehler, Tipp haette gar nicht laufen duerfen; auch faktisch nicht getroffen"
+        },
+        {
+          "tipp_id": "2026-08-22-bre-tot-04",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.65,
+          "kommentar": "Brentford-Sieg 3:0"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:0",
+        "endstand": "3:0",
+        "tore": [
+          {
+            "min": 12,
+            "team": "heim",
+            "spieler": "Keane Lewis-Potter",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 33,
+            "team": "heim",
+            "spieler": "Vitaly Janelt",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 49,
+            "team": "heim",
+            "spieler": "Michael Kayode",
+            "stand_danach": "3:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Brentford fuehrte durchgehend, Spurs ohne Reaktion."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Brentford/Brentford",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "De Zerbi-Neustart",
+            "details": "Tottenham-Reset unter De Zerbi laeuft kollektiv nicht - noch 0 Punkte."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Wissa-Torschuetzen-Tipp war KADER-FEHLER: Wissa spielt seit 01.09.2025 fuer Newcastle. Der Tipp wuerde vom Schema-Mapper jetzt hart gedroppt - Eintrag folgt in kader_wechsel_2026.json.",
+          "Igor Thiago traf einen Pfosten (Elfer), sonst waere Brentford noch hoeher gewonnen. Doppel-Ex Frank kannte Brentfords Spielweise - taktisch chancenlos."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-22-int-mon",
+      "liga": "Serie A Enilive 2026/27 - 1. Giornata",
+      "heim": "Inter Mailand",
+      "gast": "AC Monza",
+      "anstoss": "2026-08-22T18:30:00+02:00",
+      "stadion": "San Siro, Mailand",
+      "saison_kontext": {
+        "parallel_heim": "keine - Champions League 2026/27 Gruppenphase startet erst Sept. (siehe uefa.com Ansetzung), diese Woche keine Belastung",
+        "parallel_gast": "keine - Serie-A-Aufsteiger nach 1 Jahr Serie B, kein europaeischer Wettbewerb",
+        "saisonziel_heim": "Scudetto-Verteidigung nach 21. Titel (11 Punkte Vorsprung 2025/26), unter Chivu im 2. Jahr",
+        "saisonziel_gast": "Klassenerhalt - direkt nach Playoff-Aufstieg zurueck in Serie A",
+        "motivations_asymmetrie": "Enorme Qualitaets-Kluft. Inter komplett fokussiert, Monza mit reinem Klassenerhalt-Auftrag ohne Ambitionen darueberhinaus. Nur Lautaro-Fitness-Fragezeichen (WM-Nachwehen) bremst Inter-Ueberlegenheit leicht.",
+        "recovery_heim": "~14 Tage Vorbereitung; Lautaro fitness-doubtful nach spaeter Rueckkehr vom WM-Finale-Zeitraum",
+        "recovery_gast": "~14 Tage Vorbereitung, Serie-B-Playoff-Nachwehen aus Mai/Juni sind lang verdaut",
+        "quellen": [
+          "https://sport.sky.it/calcio/serie-a/2026/08/22/calendario-serie-a-1-giornata",
+          "https://www.goal.com/en/news/inter-monza-serie-a-preview/blta9f4374ebcb7a470",
+          "https://www.italiansoccerseriea.com/general-soccer-news/inter-vs-monza-preview-saturday-22-august-2026-serie-a-week-1/",
+          "https://www.legaseriea.it/it/serie-a/calendario-e-risultati"
+        ]
+      },
+      "news": [
+        "Inter dominiert 2025/26 mit 21. Scudetto + 11 Punkten Vorsprung, 89 Tore erzielt (Liga-Max), Chivu ist erst 5. Debut-Trainer mit Scudetto.",
+        "Lautaro Martinez (Vorjahres-Capocannoniere mit 17 Toren) fitness-doubtful nach WM-Belastung.",
+        "Monza direkt zurueck nach 1 Jahr Serie B - Playoff-Aufstieg, ohne echte Verstaerkungen.",
+        "Chivu spielt 3-5-2 mit Esposito + Lautaro/Thuram als Sturmspitzen - kompaktes Blockspiel.",
+        "Quoten: Inter @ 1.22 (Buchmacher-Fav), Draw @ 6.00, Monza @ 12.00 - eine der klarsten Fav-Situationen des Wochenendes."
+      ],
+      "tipps": [
+        {
+          "markt": "Inter gewinnt",
+          "kategorie": "safe",
+          "edge_prozent": 6,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Klasseverteilung extremer als in vielen Sonstig-Spielen dieser Runde - Inter-Meister vs Serie-B-Aufsteiger im San Siro. Selbst mit Lautaro-Fragezeichen ist Thuram/Esposito/Taremi als Sturm-Ersatz-Kapital brutal. Sieg-Quote 1.22 impliziert 82% - fair. Quoten-Range 1.00-1.50 im System: HR 64.6% / +3.5% ROI. Serie A ist keine offizielle Liga-Goldgrube - deshalb Einsatz konservativ.",
+          "quote": 1.22,
+          "id": "2026-08-22-int-mon-01",
+          "faire_quote": 1.15,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "markt": "Marcus Thuram trifft",
+          "kategorie": "wackel",
+          "edge_prozent": 12,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Star-Ausfall-Backup: Lautaro fitness-doubtful = Thuram uebernimmt Sturmzentrum. Thuram schoss 2025/26 14 Liga-Tore, gegen San-Siro-Backup-Aufsteiger absehbar. Backup-Pflicht bei Star-Ausfall aktiv! Einwechslungs-Boost gilt (Ersatz Esposito/Taremi). Torschuetzen-Jederzeit-Markt +1.9% ROI - hier bei Top-Sturm-Rolle deutlich oberhalb Marktschnitt. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "quote": 1.9,
+          "id": "2026-08-22-int-mon-02",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "markt": "Ueber 2.5 Tore",
+          "kategorie": "value",
+          "edge_prozent": 10,
+          "einsatz_prozent_kasse": 1.0,
+          "einsatz_euro": 10,
+          "begruendung": "Inter mit 89 Toren = 2.34/Spiel letzte Saison. Gegen Aufsteiger ohne Anpassung an Serie-A-Tempo meist Klar-Sieg mit 3+ Toren. Ueber-2.5 System: 52.6% HR / +6.1% ROI. Wahrscheinliches Ergebnis 3:0 oder 3:1 fuer Inter.",
+          "quote": 1.5,
+          "id": "2026-08-22-int-mon-03",
+          "faire_quote": 1.36,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "markt": "Inter -1.5 (Sieg mit 2+ Toren Abstand)",
+          "kategorie": "wackel",
+          "edge_prozent": 8,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Historisch werden Aufsteiger von Meistern im San Siro oft mit 2+ Toren geschlagen. Trotzdem WACKEL statt VALUE weil Spread/Handicap-Markt bei uns bisher BLUTER war (-23.6% ROI ueber 5 Tipps) - deshalb nur kleine Sonde. Inter hat WM-Reset noch nicht 100% eingespielt = Risiko dass 1:0 reicht. Konservativer Einsatz.",
+          "quote": 1.75,
+          "id": "2026-08-22-int-mon-04",
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 4,
+        "gast": 1,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 1,
+        "status": "FT"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-22-int-mon-01",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.22,
+          "kommentar": "Inter 4:1"
+        },
+        {
+          "tipp_id": "2026-08-22-int-mon-02",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Thuram nur Bank (Startelf-Vorzug fuer Pio Esposito), kein Tor"
+        },
+        {
+          "tipp_id": "2026-08-22-int-mon-03",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.5,
+          "kommentar": "5 Tore - Ueber 2.5"
+        },
+        {
+          "tipp_id": "2026-08-22-int-mon-04",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.75,
+          "kommentar": "4:1 = 3 Tore Abstand, Handicap -1.5 durch"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "4:1",
+        "tore": [
+          {
+            "min": 18,
+            "team": "heim",
+            "spieler": "Hakan Calhanoglu",
+            "stand_danach": "1:0",
+            "detail": "aus zweiter Reihe"
+          },
+          {
+            "min": 29,
+            "team": "gast",
+            "spieler": "Gustavo Varela",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 48,
+            "team": "heim",
+            "spieler": "Piotr Zielinski",
+            "stand_danach": "2:1",
+            "detail": "Rebound nach Pizzignacco-Abwehr"
+          },
+          {
+            "min": 58,
+            "team": "heim",
+            "spieler": "Francesco Pio Esposito",
+            "stand_danach": "3:1",
+            "detail": "Hackentor"
+          },
+          {
+            "min": 63,
+            "team": "heim",
+            "spieler": "Yann Bisseck",
+            "stand_danach": "4:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Halbzeit 1:1 nach Ausgleich, aber keine Fuehrungswechsel-Drehung."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "halbzeit_endstand": "Unentschieden/Inter",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Thuram",
+            "details": "Startelf-Ueberraschung: Pio Esposito bekam den Vorzug, Thuram nur Bank. Chivu setzt auf Pio-Rolle."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Thuram-Tipp verlor NICHT wegen fehlender Klasse sondern weil Chivu Pio Esposito vorzog. Torschuetzen-Tipp ohne Aufstellungs-Check ist blind - Aufstellungs-URL fehlte im saison_kontext.quellen[].",
+          "5 Tore in einem Fav-Auftakt gegen Aufsteiger im San Siro passt zum Muster - Ueber 2.5 lief durch."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-22-bvb-fcb",
+      "liga": "Franz Beckenbauer Supercup 2026",
+      "heim": "Borussia Dortmund",
+      "gast": "FC Bayern München",
+      "anstoss": "2026-08-22T20:30:00+02:00",
+      "stadion": "Signal Iduna Park, Dortmund",
+      "saison_kontext": {
+        "parallel_heim": "keine - der Supercup IST das erste Pflichtspiel. BVB-DFB-Pokal-1.-Runde bei HEBC Hamburg wurde wegen des Supercups auf Di 01.09. verlegt, Bundesliga-Auftakt 28.08., CL-Ligaphase erst ab September.",
+        "parallel_gast": "keine - Bayern-DFB-Pokal-1.-Runde bei VfL Osnabrück wegen des Supercups auf Mi 02.09. verlegt, Bundesliga-Auftakt 28.08., CL-Ligaphase erst ab September.",
+        "saisonziel_heim": "BVB Vizemeister 2025/26, CL-Ligaphase gesetzt. Ziel: Titelangriff + erster Titel der Saison als Statement gegen Bayern.",
+        "saisonziel_gast": "Bayern Double-Sieger 2025/26 (Meisterschaft + DFB-Pokal). Ziel: Titelverteidigung, Supercup als Pflicht-Trophäe.",
+        "motivations_asymmetrie": "Kein Motivations-Gefälle - erstes Pflichtspiel, Klassiker, Titel. Beide stellen ihre beste Elf. Die Asymmetrie liegt im Personal: Bayern fehlt Offensiv-Breite (Musiala pausiert, Gnabry + Karl angeschlagen), BVB fehlt die Innenverteidigung (N. Schlotterbeck Innenbandriss, Can Kreuzbandriss, Chukwuemeka muskulär). Das spricht für Tore, nicht für einen sicheren Sieger.",
+        "recovery_heim": "Vorbereitungsfrisch, kein Pflichtspiel-Rückstand. Letztes Testspiel-Fenster abgeschlossen, volle Trainingswoche.",
+        "recovery_gast": "Vorbereitungsfrisch, aber Telekom-Cup-Test gegen RB Leipzig kostete Laimer + Kim verletzungsbedingte Auswechslungen - Kader-Tiefe hinten angeknackst.",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/news/franz-beckenbauer-supercup-2026-alle-infos-zu-dortmund-gegen-bayern-38552",
+          "https://www.kicker.de/dortmund-gegen-bayern-2026-dfl-supercup-5202610/aufstellung",
+          "https://fcbayern.com/de/spiele/profis/supercup/2026-2027/franz-beckenbauer-supercup-borussia-dortmund-fc-bayern-22-08-2026/aufstellung",
+          "https://www.bundesliga.com/de/bundesliga/news/dfb-pokal-1-runde-2026-27-ansetzungen-bayern-dortmund-37950",
+          "https://en.wikipedia.org/wiki/2026_Franz_Beckenbauer_Supercup"
+        ]
+      },
+      "news": [
+        "Voraussichtlich BVB: Kobel - Gadou, Anton, Bensebaini - Ryerson, Bellingham, F. Nmecha, Svensson - Karetsas, Inácio - Guirassy.",
+        "BVB-Ausfälle: N. Schlotterbeck (Innenbandriss), Can (Kreuzbandriss), Chukwuemeka (muskulär). Die Stamm-Innenverteidigung ist damit komplett neu zusammengesetzt.",
+        "Voraussichtlich Bayern: Neuer - Stanisic, Upamecano, Tah, Brown - Kimmich, Pavlovic - Olise, Bischof, Luis Díaz - Kane.",
+        "Bayern-Ausfälle: Musiala pausiert, Gnabry + Karl angeschlagen. Laimer + Kim mussten im Telekom-Cup gegen Leipzig verletzt raus.",
+        "ACHTUNG bet365-Regel: die 2:0-Insurance gilt nur für 1. Bundesliga + Champions League. Der Supercup ist KEIN Bundesliga-Spiel - hier gibt es keine Absicherung bei einer verspielten 2:0-Führung.",
+        "Karim Adeyemi ist seit 24.07.2026 bei Barcelona - taucht in keinem BVB-Tipp mehr auf (kader_wechsel_2026.json).",
+        "Bei Unentschieden nach 90 Minuten geht es direkt ins Elfmeterschießen. Alle 1X2-/DC-Märkte werten nur die regulären 90 Minuten."
+      ],
+      "tipps": [
+        {
+          "markt": "Bayern Doppelte Chance X2 (Unentschieden oder Bayern)",
+          "kategorie": "safe",
+          "edge_prozent": 7,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "DC X2 ist bestätigte Markt-Goldgrube (77.8% Hitrate / +9.4% ROI). Bayern ist bei ~1.70 klarer Favorit, BVB-Sieg steht bei ~4.80. Der Reiz an X2 statt Sieg: bei Remis nach 90 Min geht der Supercup ins Elfmeterschießen - die DC kassiert trotzdem. BVB hat seine komplette Stamm-Innenverteidigung raus (N. Schlotterbeck, Can), Bayern hat mit Kane/Olise/Díaz die intakte Offensiv-Achse. Kasse 1000€ x 1.5% = 15€. WICHTIG: keine 2:0-Insurance im Supercup (nur BL + CL).",
+          "quote": 1.22,
+          "id": "2026-08-22-bvb-fcb-01",
+          "faire_quote": 1.14,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "markt": "Beide Teams treffen JA",
+          "kategorie": "value",
+          "edge_prozent": 11,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "4 der letzten 5 Klassiker mit BTTS Ja. Hier kommt die Personal-Lage dazu: BVB improvisiert die Innenverteidigung (Gadou/Anton/Bensebaini statt Schlotterbeck/Can), Bayern verlor Kim im Test verletzt. Zwei angeknackste Abwehrreihen im ersten Pflichtspiel nach der Vorbereitung - klassisches BTTS-Profil. bet365 ~1.45.",
+          "quote": 1.45,
+          "id": "2026-08-22-bvb-fcb-02",
+          "faire_quote": 1.31,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "markt": "Harry Kane trifft (jederzeit)",
+          "kategorie": "value",
+          "edge_prozent": 13,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Torschützen Jederzeit ist Markt-Goldgrube (+24.4% ROI). Kane startet laut Aufstellungs-Vorschau, war Bundesliga-Torschützenkönig 2025/26 und ist bei ausgedünnter Bayern-Offensive (Musiala pausiert, Gnabry + Karl angeschlagen) noch stärker der Abschluss-Fokus. Gegenüber steht eine improvisierte BVB-Innenverteidigung. Plus bet365-Einwechslungs-Boost: trifft sein direkter Ersatz nach Auswechslung, zählt das Tor für Kane.",
+          "quote": 1.7,
+          "id": "2026-08-22-bvb-fcb-03",
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "markt": "Ueber 2.5 Tore",
+          "kategorie": "value",
+          "edge_prozent": 8,
+          "einsatz_prozent_kasse": 1.0,
+          "einsatz_euro": 10,
+          "begruendung": "8 der letzten 10 Supercup-Endspiele gingen über 2.5, Schnitt 3.5 Tore. Beide Abwehrreihen dezimiert, kein Punkte-Denken weil K.-o.-Charakter. Ehrlich dagegen gehalten: unsere eigene Statistik zeigt Unter 2.5 als Goldgrube (72.4% / +25.8% über 29 Tipps), Ueber-Tipps liefen bei uns bisher schlechter - darum VALUE und nicht SAFE, und bewusst nur 1.0% Einsatz. bet365 ~1.38.",
+          "quote": 1.38,
+          "id": "2026-08-22-bvb-fcb-04",
+          "faire_quote": 1.28,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "markt": "Serhou Guirassy trifft (jederzeit)",
+          "kategorie": "wackel",
+          "edge_prozent": 9,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Guirassy ist als BVB-Stammspitze gesetzt und im Signal Iduna Park im Rücken der Südtribüne gefährlich. Aber Upamecano/Tah sind die stärkste Innenverteidigung der Liga und Bayern lässt in Dortmund selten viel zu - deshalb WACKEL, nicht VALUE. Einwechslungs-Boost greift auch hier (Tore des direkten Ersatzspielers zählen mit). Kasse 0.5% = 5€.",
+          "quote": 2.45,
+          "id": "2026-08-22-bvb-fcb-05",
+          "faire_quote": 2.25,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 1,
+        "gast": 2,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 2,
+        "status": "FT"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-22-bvb-fcb-01",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.22,
+          "kommentar": "Bayern-Sieg 2:1 - DC X2 durch (keine Verlaengerung, kein Elfmeterschiessen)"
+        },
+        {
+          "tipp_id": "2026-08-22-bvb-fcb-02",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.45,
+          "kommentar": "Brown+Olise Bayern, Silva BVB - beide trafen"
+        },
+        {
+          "tipp_id": "2026-08-22-bvb-fcb-03",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Kane ohne Tor; alle Bayern-Tore fielen bis 45. - kein Einwechslungs-Boost moeglich"
+        },
+        {
+          "tipp_id": "2026-08-22-bvb-fcb-04",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.38,
+          "kommentar": "3 Tore - Ueber 2.5"
+        },
+        {
+          "tipp_id": "2026-08-22-bvb-fcb-05",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.45,
+          "kommentar": "Einwechslungs-Boost: Silva kam 60. fuer Guirassy und traf 75. - zaehlt fuer Guirassy"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:2",
+        "endstand": "1:2",
+        "tore": [
+          {
+            "min": 28,
+            "team": "gast",
+            "spieler": "Nathaniel Brown",
+            "stand_danach": "0:1",
+            "detail": "flanke von Olise"
+          },
+          {
+            "min": 45,
+            "team": "gast",
+            "spieler": "Michael Olise",
+            "stand_danach": "0:2",
+            "detail": "1. Halbzeit Nachspielzeit"
+          },
+          {
+            "min": 75,
+            "team": "heim",
+            "spieler": "Fabio Silva",
+            "stand_danach": "1:2",
+            "detail": "abgefaelscht (Davies), kam 60. fuer Guirassy"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Bayern durchgehend vorn."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Bayern/Bayern",
+          "kein_team_zu_null": false,
+          "elfmeterschiessen": false,
+          "endstand_nach_90_min": true,
+          "keine_2_0_insurance_relevant": true,
+          "keine_2_0_insurance_grund": "Supercup ist kein 1. BL / kein CL - Regel greift dort ohnehin nicht. Bayern lag zwar 2:0 vorn (kein Sieg-Tipp auf BVB im Slate)."
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "BVB-Innenverteidigung",
+            "details": "Improvisierte IV (Gadou/Anton/Bensebaini) ohne N. Schlotterbeck + Can - Brown-Kopfball nach Olise-Flanke landete zu leicht."
+          },
+          {
+            "team": "heim",
+            "spieler": "Bensebaini",
+            "details": "Rote Karte spaet fuer harten Tackle."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Fabio Silva",
+            "aus": "Serhou Guirassy",
+            "minute": 60,
+            "tor": true,
+            "hinweis": "Einwechslungs-Boost: Silvas Tor 75. zaehlt fuer den Guirassy-Torschuetzen-Tipp bei bet365 (Ersatz nach Auswechslung)."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Einwechslungs-Boost bet365 traf zu: Guirassy wurde 60. gegen Silva ausgetauscht, Silva traf 75. - Guirassy-Torschuetzen-Tipp gewinnt.",
+          "BTTS-JA + Ueber 2.5 im Klassiker griffen wie vermutet (dezimierte Abwehrreihen)."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-22-gen-nap",
+      "liga": "Serie A Enilive 2026/27 - 1. Giornata",
+      "heim": "Genoa CFC",
+      "gast": "SSC Napoli",
+      "anstoss": "2026-08-22T20:45:00+02:00",
+      "stadion": "Stadio Comunale Luigi Ferraris, Genua",
+      "saison_kontext": {
+        "parallel_heim": "keine - kein europaeischer Wettbewerb 2026/27",
+        "parallel_gast": "keine - Champions League 2026/27 Gruppenphase startet erst Sept. (siehe uefa.com Ansetzung)",
+        "saisonziel_heim": "Klassenerhalt / gesichertes Mittelfeld unter De Rossi",
+        "saisonziel_gast": "Scudetto-Angriff nach unbefriedigender Vorsaison, neu unter Massimiliano Allegri (Conte-Nachfolger)",
+        "motivations_asymmetrie": "Napoli Auswaerts-Fav aber Trainer-Wechsel + neue Grundordnung unter Allegri = System-Reset. Genoa-Heimstaerke am Ferraris legendaer, De Rossi 4:1-Coppa-Italia-Sieger vs Ascoli - starker Rueckenwind. Kein Klassen-Blowout-Signal.",
+        "recovery_heim": "3 Tage seit 4:1-Sieg Coppa Italia vs Ascoli - hoehere Belastung + Rhythmus da",
+        "recovery_gast": "~14 Tage Vorbereitung inkl. 5 Freundschaftsspielen (nur 1 Niederlage) - solider Rhythmus",
+        "quellen": [
+          "https://sport.sky.it/calcio/serie-a/2026/08/22/calendario-serie-a-1-giornata",
+          "https://www.sportsmole.co.uk/football/genoa/preview/genoa-vs-napoli-prediction-team-news-lineups_603273.html",
+          "https://footballwhispers.com/blog/genoa-vs-napoli-prediction-22-08-2026/",
+          "https://www.legaseriea.it/it/serie-a/calendario-e-risultati"
+        ]
+      },
+      "news": [
+        "Napoli neu unter Massimiliano Allegri (Conte weg) - taktischer Systemwechsel (mutmasslich zurueck zu 4-3-3 mit mehr Ballbesitz).",
+        "Genoa mit De Rossi in 2. Saison, 4:1-Sieg Coppa Italia vs Ascoli letzte Woche = Torlust-Modus vorhanden.",
+        "H2H: Genoa hat 8 in Folge NICHT vs Napoli gewonnen (all-competitions), aber Napoli hat 22 von 44 Duellen gewonnen = kein Blowout-Pattern.",
+        "Quoten: Napoli @ 1.85 (Fav), Draw ~3.60, Genoa ~4.50 - Auswaerts-Fav aber nicht dominant.",
+        "Prognose-Muster: 2:1 Napoli - moderater Sieg mit Toren beider Seiten."
+      ],
+      "tipps": [
+        {
+          "markt": "Napoli DC X2",
+          "kategorie": "value",
+          "edge_prozent": 8,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Serie A ist KEINE Liga-Goldgrube (hebel-C-Regel!) - deshalb DC nur als VALUE (nicht SAFE). Aber DC X2 ist Markt-Goldgrube (74.2% HR / +12.4% ROI). Napoli qualitativ ueberlegen + solide Vorbereitung. Einziger DC-Tipp im Spiel (DC-CAP-Compliance). Absicherung gegen Genoa-Sieg im Ferraris.",
+          "quote": 1.3,
+          "id": "2026-08-22-gen-nap-01",
+          "faire_quote": 1.2,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "markt": "BTTS - Ja",
+          "kategorie": "value",
+          "edge_prozent": 8,
+          "einsatz_prozent_kasse": 1.0,
+          "einsatz_euro": 10,
+          "begruendung": "Beide Teams offensiv mit Rueckenwind: Genoa 4:1 Coppa, Napoli laut Vorbereitung solide. Ferraris-Heim-Bilanz oft mit Genoa-Toren. Prognose 2:1 = beide treffen. BTTS-JA Statistik: 57.1% HR / +8.6% ROI ueber 35 Tipps.",
+          "quote": 1.75,
+          "id": "2026-08-22-gen-nap-02",
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "markt": "Romelu Lukaku trifft",
+          "kategorie": "wackel",
+          "edge_prozent": 10,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Lukaku ist Napoli-Torgarant unter Allegri-System (Zielspieler). Bei Auswechslung greift Einwechslungs-Boost (Ersatz Simeone oder Raspadori). Wackel weil unklar ob Allegri direkt mit Lukaku startet oder Rotation macht. Torschuetzen-Jederzeit-Markt +1.9% ROI. Konservativer Einsatz.",
+          "quote": 2.3,
+          "id": "2026-08-22-gen-nap-03",
+          "faire_quote": 2.09,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "markt": "Unter 3.5 Tore",
+          "kategorie": "safe",
+          "edge_prozent": 6,
+          "einsatz_prozent_kasse": 1.0,
+          "einsatz_euro": 10,
+          "begruendung": "Napoli neu unter Allegri = eher pragmatischer Fussball (Allegri-Signature). Genoa defensiv unter De Rossi organisiert. Prognose 2:1 = 3 Tore, also Under 3.5 sicher. Kein Blowout-Pattern in Serie-A-Auftakten historisch. Quoten-Range 1.00-1.50: HR 64.6% / +3.5% ROI.",
+          "quote": 1.35,
+          "id": "2026-08-22-gen-nap-04",
+          "faire_quote": 1.27,
+          "empfohlener_einsatz_prozent": 1.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 0,
+        "gast": 2,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "status": "FT"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-22-gen-nap-01",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.3,
+          "kommentar": "Napoli 0:2 - DC X2 durch"
+        },
+        {
+          "tipp_id": "2026-08-22-gen-nap-02",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Genoa 0 Tore - kein BTTS"
+        },
+        {
+          "tipp_id": "2026-08-22-gen-nap-03",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Lukaku ist seit August 2026 bei Fenerbahce - Kader-Fehler, Tipp haette gar nicht laufen duerfen; kein Einwechslungs-Boost, da Lukaku nicht mehr im Kader ist"
+        },
+        {
+          "tipp_id": "2026-08-22-gen-nap-04",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.35,
+          "kommentar": "2 Tore - Unter 3.5"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:2",
+        "tore": [
+          {
+            "min": 82,
+            "team": "gast",
+            "spieler": "Kevin De Bruyne",
+            "stand_danach": "0:1",
+            "detail": "kam 67. vom Bank"
+          },
+          {
+            "min": 87,
+            "team": "gast",
+            "spieler": "Antonio Vergara",
+            "stand_danach": "0:2",
+            "detail": "assist De Bruyne"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "0:0 bis 82. - keine Fuehrungswechsel."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Napoli",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Allegri-Doppelwechsel 67.",
+            "details": "De Bruyne + Vergara kamen fuer den Sieg. Klassisches Allegri-Muster: pragmatisch, aber die Bank entscheidet."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "De Bruyne",
+            "aus": "n/a-Lukaku-Tipp-war-falsch",
+            "minute": 67,
+            "tor": true,
+            "hinweis": "KEIN Boost fuer Lukaku-Tipp - Lukaku spielt seit August 2026 nicht mehr fuer Napoli (Fenerbahce). Der Torschuetzen-Tipp war ein Kader-Fehler."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Lukaku-Tipp war Kader-Fehler: Lukaku wechselte im August 2026 zu Fenerbahce. Eintrag folgt in kader_wechsel_2026.json - danach droppt der Schema-Mapper solche Tipps hart.",
+          "Napoli-Sieg via Bank (De Bruyne 82. + Vergara 87.) - klassisches Allegri-Muster gegen Aufsteiger-Defensive."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-22-tou-lyo",
+      "liga": "Ligue 1 McDonald's 2026/27 - 1ère Journée",
+      "heim": "Toulouse FC",
+      "gast": "Olympique Lyon",
+      "anstoss": "2026-08-22T20:45:00+02:00",
+      "stadion": "Stadium de Toulouse",
+      "saison_kontext": {
+        "parallel_heim": "keine - kein europaeischer Wettbewerb 2026/27",
+        "parallel_gast": "keine - Lyon nach finanziellen Problemen und Punktabzug in Ligue 1 zurueck ohne Europa",
+        "saisonziel_heim": "gesichertes Mittelfeld unter neuem Trainer Jens Berthel Askou, aber grosser Kaderumbau",
+        "saisonziel_gast": "Top-6-Rueckkehr, Kaderkontinuitaet grundsaetzlich gegeben plus Loïs Openda als Neuzugang (Leihe von Juve)",
+        "motivations_asymmetrie": "Klassischer Coinflip - Toulouse hat H2H letzte Saison 2x 2:1 vs Lyon gewonnen (Ligue-Double), aber jetzt komplett neuer Trainer + Kaderausduennung. Lyon mit mehr Kaderkontinuitaet Fav.",
+        "recovery_heim": "~14 Tage Vorbereitung, 7 Gegentore in 4 Testspielen - Defensive wackelt",
+        "recovery_gast": "~14 Tage Vorbereitung, Openda-Integration frisch",
+        "quellen": [
+          "https://www.footmercato.net/france/ligue-1/calendrier/",
+          "https://ca.sports.yahoo.com/news/preview-toulouse-vs-lyon-team-190000719.html",
+          "https://www.sportskeeda.com/football/toulouse-vs-lyon-prediction-betting-tips-august-22nd-2026"
+        ]
+      },
+      "news": [
+        "Toulouse neu unter Jens Berthel Askou - grosser Kaderumbau + 7 Gegentore in 4 Testspielen = Defensive wackelig.",
+        "Lyon behielt Malick Fofana und Tyler Morton + verpflichtete Loïs Openda als Leih-Stuermer von Juve.",
+        "Toulouse hat letzte Saison das Ligue-Double gegen Lyon geholt (2x 2:1) - psychologischer Rueckenwind Toulouse.",
+        "Toulouse-Unbeaten-Serie in Ligue-1-H2H: 3 Spiele in Folge kein Verlust vs Lyon.",
+        "Coinflip-Prognose: Toulouse 38.5%, Draw 22.5%, Lyon 38.9%."
+      ],
+      "tipps": [
+        {
+          "markt": "BTTS - Ja",
+          "kategorie": "value",
+          "edge_prozent": 10,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Toulouse-Defensive mit 7 Gegentoren in 4 Testspielen wackelig - Lyon-Openda mit hohem Chancen-Volumen. Toulouse zuhause traditionell offensiv aktiv. Letzte 2 H2H beide 2:1 = beide Teams trafen. BTTS-JA Statistik 57.1% HR / +8.6% ROI. Passt zum Coinflip-Charakter.",
+          "quote": 1.65,
+          "id": "2026-08-22-tou-lyo-01",
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "markt": "Ueber 2.5 Tore",
+          "kategorie": "wackel",
+          "edge_prozent": 8,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Wackel weil Ligue-1-Auftakt oft konservativ. Aber Toulouse-Testspiel-Muster (7 GT/4 Spiele) + Openda-Neuzugang bei Lyon deuten auf Tor-Fluss. Ueber-2.5 Statistik 52.6% HR / +6.1% ROI. Konservativer Einsatz. Ligue 1 aktuell keine Goldgrube.",
+          "quote": 1.95,
+          "id": "2026-08-22-tou-lyo-02",
+          "faire_quote": 1.81,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "markt": "Loïs Openda trifft",
+          "kategorie": "wackel",
+          "edge_prozent": 12,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Openda-Debut-Motivation. Bei RB Leipzig 2024/25 mit 24 Toren, jetzt Ligue-1-Comeback. Toulouse-Defensive verwundbar. Bei Auswechslung Einwechslungs-Boost (Ersatz Mikautadze/Alassane Ndao). Wackel wegen unklaren Startminuten. Torschuetzen-Jederzeit +1.9% ROI, hier value-fair.",
+          "quote": 3.5,
+          "id": "2026-08-22-tou-lyo-03",
+          "faire_quote": 3.12,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 0,
+        "gast": 2,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "status": "FT"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-22-tou-lyo-01",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Toulouse 0 Tore - kein BTTS"
+        },
+        {
+          "tipp_id": "2026-08-22-tou-lyo-02",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "2 Tore - Unter 2.5"
+        },
+        {
+          "tipp_id": "2026-08-22-tou-lyo-03",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Openda ohne Tor; Ersatz-Info nicht recherchierbar - konservativ verloren"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:2",
+        "tore": [
+          {
+            "min": 68,
+            "team": "gast",
+            "spieler": "Noah Nartey",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 85,
+            "team": "gast",
+            "spieler": "Malick Fofana",
+            "stand_danach": "0:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Torlos bis 68., dann Lyon-Fuehrung."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Lyon",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Openda-Debut-Tipp verfehlt - Fofana + Nartey trafen (beide Lyon), Openda-Rolle in Startelf/Bank unklar aus WebSearch. Konservativ als verloren gewertet.",
+          "Ligue 1 auch am Auftakt torfaul (2 Tore) - Ueber-2.5 hier vorsichtig einsetzen."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-22-esp-rma",
+      "liga": "LaLiga EA Sports 2026/27 - 2. Jornada",
+      "heim": "RCD Espanyol",
+      "gast": "Real Madrid",
+      "anstoss": "2026-08-22T21:30:00+02:00",
+      "stadion": "RCDE Stadium, Cornellá de Llobregat",
+      "saison_kontext": {
+        "parallel_heim": "keine - kein europaeischer Wettbewerb 2026/27",
+        "parallel_gast": "keine - Champions League 2026/27 Gruppenphase startet erst Sept. (siehe uefa.com CL Ansetzungen)",
+        "saisonziel_heim": "Klassenerhalt / gesichertes Mittelfeld - Auftakt-Sieg 3:0 vs Levante bereits im Sack (Jornada 1)",
+        "saisonziel_gast": "LaLiga-Titel-Angriff nach 2. Platz 2025/26, jetzt unter José Mourinho als neuem Trainer - Debut in LaLiga",
+        "motivations_asymmetrie": "Real hat klarere Qualitaets-Ueberlegenheit + historisch dominant im H2H (28 von 34 Siegen), aber Mourinho-Debut + Bellingham/Konaté fitness-doubtful = Kader nicht 100%. Espanyol nach dem 3:0-Auftakt selbstbewusst - koennte defensiv frueh kompakt stehen.",
+        "recovery_heim": "3 Tage seit Levante-Auftakt (3:0-Sieg Jornada 1) - Belastung im Rueckstand",
+        "recovery_gast": "~14 Tage Vorbereitung inkl. La-Liga-Auftakt-Postponement (Mourinho-Debut) - frisch aber Rhythmus-Test",
+        "quellen": [
+          "https://www.laliga.com/en-GB/laliga-easports/calendar",
+          "https://www.sportsmole.co.uk/football/real-madrid/race-for-the-la-liga-title/preview/espanyol-vs-real-madrid-prediction-team-news-lineups_603369.html",
+          "https://www.si.com/soccer/espanyol-vs-real-madrid-preview-predictions-lineups-8-22-26",
+          "https://thefootballfaithful.com/espanyol-vs-real-madrid-prediction-betting-tips-22-08-2026/"
+        ]
+      },
+      "news": [
+        "Real Madrid: José Mourinho debutiert als neuer Trainer - Ricken-System noch in Anpassung. Konaté als Neuzugang aus Liverpool.",
+        "Bellingham + Konaté vermutlich nur Bank (Fitness-Aufbau), Güler startet als No.10 statt Bellingham.",
+        "Real-Ausfaelle: Militão, Mendy, Pitarch, Asensio komplett out. Tchouaméni + Cucurella + Bellingham fitness-doubtful.",
+        "Mbappé fuehrt Angriff an (Jagd auf 3. Pichichi in Folge), Vinicius links, Rodrygo oder Brahim rechts.",
+        "Espanyol nach 3:0 vs Levante als Aufsteiger-Sensation gestartet - defensives 4-4-2 mit Umschaltspiel."
+      ],
+      "tipps": [
+        {
+          "markt": "Real Madrid DC X2",
+          "kategorie": "safe",
+          "edge_prozent": 8,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "LaLiga ist bestaetigte Liga-Goldgrube (100% HR, +57.2% ROI ueber 6 Tipps) - hier SAFE-Kategorie legitim. DC X2 ist Markt-Goldgrube (74.2% HR, +12.4% ROI). Historie H2H: 28 von 34 Real-Siegen. Real bei 1.44 Fav - Espanyol-Sieg praktisch ausgeschlossen. Reine Absicherung fuer Kombi-Sicherheit.",
+          "quote": 1.15,
+          "id": "2026-08-22-esp-rma-01",
+          "faire_quote": 1.06,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "markt": "Kylian Mbappé trifft",
+          "kategorie": "value",
+          "edge_prozent": 15,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Pflicht-Torschuetzen-Tipp bei Auswaerts-Fav unter 1.50. Mbappé mit 30+ Toren in 2025/26 (Pichichi-Sieger) - gegen Espanyol-Defensive absehbar. bet365-Einwechslungs-Boost: bei Auswechslung zaehlt Ersatz (in Praxis Endrick oder Rodrygo). Torschuetzen-Jederzeit +1.9% ROI - hier deutlich ueber Marktschnitt implizite Trefferquote. Passt zu Star-Player-Focus-Regel.",
+          "quote": 1.65,
+          "id": "2026-08-22-esp-rma-02",
+          "faire_quote": 1.43,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "markt": "Vinícius Jr trifft",
+          "kategorie": "value",
+          "edge_prozent": 12,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Bellingham fehlt in der Startelf - klassisches Star-Ausfall-Backup-Signal. Vinicius gewinnt zusaetzliche Aufmerksamkeit + Freiraeume. Historisch gegen kleinere LaLiga-Teams zuverlaessig treffend. Einwechslungs-Boost gilt (Ersatz Rodrygo/Brahim). Passt zur Backup-Pflicht bei Star-Ausfall (Bellingham) - Vinicius uebernimmt Kreativlast.",
+          "quote": 2.2,
+          "id": "2026-08-22-esp-rma-03",
+          "faire_quote": 1.96,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "markt": "Ueber 2.5 Tore",
+          "kategorie": "value",
+          "edge_prozent": 8,
+          "einsatz_prozent_kasse": 1.0,
+          "einsatz_euro": 10,
+          "begruendung": "Espanyol im Auftakt 3:0-Sieger = offensiv nicht kastriert; Real mit Mbappé/Vinicius/Güler-Kreativ-Achse gefaehrlich. Real-Historie in LaLiga letzten 5 Auswaertsspielen: 3 mit 3+ Toren. Ueber-2.5 System-Statistik: 52.6% HR / +6.1% ROI. Bewusst NICHT auf Unter 2.5 (unser Goldgruben-Markt) weil Real-Offensive massiv.",
+          "quote": 1.55,
+          "id": "2026-08-22-esp-rma-04",
+          "faire_quote": 1.44,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "markt": "Real Madrid gewinnt",
+          "kategorie": "safe",
+          "edge_prozent": 6,
+          "einsatz_prozent_kasse": 1.0,
+          "einsatz_euro": 10,
+          "begruendung": "SAFE-Sieg in Liga-Goldgrube LaLiga bei 75%-Implicit-Wahrscheinlichkeit. Real dominiert H2H historisch. Sieg-Markt insgesamt HR 49.6% / ROI -4.7% - VORSICHT-Bereich, aber hier durch Liga-Goldgruben-Kontext + massive Klasse-Ueberlegenheit gerechtfertigt. Quoten-Range 1.00-1.50: HR 64.6% / +3.5% ROI.",
+          "quote": 1.44,
+          "id": "2026-08-22-esp-rma-05",
+          "faire_quote": 1.36,
+          "empfohlener_einsatz_prozent": 1.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 1,
+        "gast": 2,
+        "halbzeit_heim": null,
+        "halbzeit_gast": null,
+        "status": "FT"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "2026-08-22-esp-rma-01",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.15,
+          "kommentar": "Real-Sieg 2:1 - DC X2 durch"
+        },
+        {
+          "tipp_id": "2026-08-22-esp-rma-02",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Mbappe ohne Tor, spielte durch (kein Boost)"
+        },
+        {
+          "tipp_id": "2026-08-22-esp-rma-03",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Vinicius ohne Tor; wurde 83. ausgewechselt fuer Palacios, aber Palacios traf nicht -> kein Boost"
+        },
+        {
+          "tipp_id": "2026-08-22-esp-rma-04",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.55,
+          "kommentar": "3 Tore - Ueber 2.5"
+        },
+        {
+          "tipp_id": "2026-08-22-esp-rma-05",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.44,
+          "kommentar": "Real-Sieg 2:1"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "1:2",
+        "tore": [
+          {
+            "min": 9,
+            "team": "gast",
+            "spieler": "Jude Bellingham",
+            "stand_danach": "0:1",
+            "detail": "Kopfball nach Guler-Freistoss"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Alex Calatrava",
+            "stand_danach": "1:1",
+            "detail": "erste Halbzeit"
+          },
+          {
+            "min": 90,
+            "team": "gast",
+            "spieler": "Carlos Espi",
+            "stand_danach": "1:2",
+            "detail": "kam 80. fuer Bellingham; Rebound nach Mbappe-Abschluss"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein Zwischen-Fuehrungswechsel um 2 Tore."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "halbzeit_endstand": null,
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Bellingham",
+            "details": "Vorschau hatte ihn 'nur Bank' - er stand in der Startelf und traf. Vinicius-Backup-Argument entfaellt."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Carlos Espi",
+            "aus": "Jude Bellingham",
+            "minute": 80,
+            "tor": true,
+            "hinweis": "KEIN Boost fuer Mbappe/Vinicius-Tipp - Espi kam fuer Bellingham (nicht Mbappe/Vinicius)."
+          },
+          {
+            "team": "gast",
+            "ein": "Cesar Palacios",
+            "aus": "Vinicius Junior",
+            "minute": 83,
+            "tor": false,
+            "hinweis": "Vinicius-Tipp: Vinicius wurde ausgewechselt, aber Palacios traf nicht -> kein Boost."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Bellingham-Vorschau ('nur Bank') war falsch - er traf sogar. Vinicius-Backup-These entfiel damit, aber Tipp lief eh nicht.",
+          "Mourinho-Debut gewann via 90.-Minute-Sub - Real 2:1 knapper als Quote (1.44) suggerierte."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "tipp_id": "2026-08-22-esp-rma-01",
+      "spiel_id": "2026-08-22-esp-rma",
+      "beschreibung": "Real Madrid DC X2 @ Espanyol (LaLiga-Goldgrube + Markt-Goldgrube DC X2)",
+      "kategorie": "safe",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15.0,
+      "quote": 1.15,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
+    },
+    {
+      "tipp_id": "2026-08-22-bvb-fcb-01",
+      "spiel_id": "2026-08-22-bvb-fcb",
+      "beschreibung": "Bayern DC X2 im Supercup in Dortmund (Remis reicht - Elfmeterschießen ist egal für die Wette)",
+      "kategorie": "safe",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15.0,
+      "quote": 1.22,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
+    },
+    {
+      "tipp_id": "2026-08-22-int-mon-01",
+      "spiel_id": "2026-08-22-int-mon",
+      "beschreibung": "Inter gewinnt gegen Monza (Klassenunterschied San Siro)",
+      "kategorie": "safe",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15.0,
+      "quote": 1.22,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
+    },
+    {
+      "tipp_id": "2026-08-22-weh-b04-01",
+      "spiel_id": "2026-08-22-weh-b04",
+      "beschreibung": "Leverkusen gewinnt in Wehen (DFB-Pokal, 2 Klassen Unterschied)",
+      "kategorie": "safe",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15.0,
+      "quote": 1.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
+    },
+    {
+      "tipp_id": "2026-08-22-bvb-fcb-02",
+      "spiel_id": "2026-08-22-bvb-fcb",
+      "beschreibung": "Beide Teams treffen im Klassiker (zwei dezimierte Abwehrreihen)",
+      "kategorie": "value",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15.0,
+      "quote": 1.45,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5
+    },
+    {
+      "tipp_id": "2026-08-22-esp-rma-02",
+      "spiel_id": "2026-08-22-esp-rma",
+      "beschreibung": "Kylian Mbappé trifft gegen Espanyol",
+      "kategorie": "value",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15.0,
+      "quote": 1.65,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6
+    },
+    {
+      "tipp_id": "2026-08-22-bvb-fcb-03",
+      "spiel_id": "2026-08-22-bvb-fcb",
+      "beschreibung": "Harry Kane trifft im Supercup (Markt-Goldgrube + Einwechslungs-Boost)",
+      "kategorie": "value",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15.0,
+      "quote": 1.7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 7
+    },
+    {
+      "tipp_id": "2026-08-22-gen-nap-01",
+      "spiel_id": "2026-08-22-gen-nap",
+      "beschreibung": "Napoli DC X2 in Genua (Serie A ist keine Liga-Goldgrube -> VALUE statt SAFE)",
+      "kategorie": "value",
+      "einsatz_prozent_kasse": 1.0,
+      "einsatz_euro": 10.0,
+      "quote": 1.3,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8
+    },
+    {
+      "tipp_id": "2026-08-22-esp-rma-03",
+      "spiel_id": "2026-08-22-esp-rma",
+      "beschreibung": "Vinícius Jr trifft gegen Espanyol (Backup-Torschütze zu Mbappé)",
+      "kategorie": "value",
+      "einsatz_prozent_kasse": 1.0,
+      "einsatz_euro": 10.0,
+      "quote": 2.2,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 9
+    },
+    {
+      "tipp_id": "2026-08-22-weh-b04-02",
+      "spiel_id": "2026-08-22-weh-b04",
+      "beschreibung": "Patrik Schick trifft in Wehen",
+      "kategorie": "wackel",
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5.0,
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe-Kombi (6 Beine, ~3.1x)",
+      "typ": "safe",
+      "kategorie": "safe",
+      "beschreibung": "Sechs Favoriten-Absicherungen mit klarem Klassenunterschied - LaLiga-Goldgrube, San Siro, DFB-Pokal-Klassengefälle und der Supercup-Favorit.",
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20.0,
+      "hinweis": "LAYER-2: alle Sieg-/DC-Ausgänge des Tages stecken bewusst NUR in dieser Kombi. Die anderen drei Kombis laufen über Tore/Torschützen/BTTS, damit ein einzelner Fehl-Favorit nicht mehrere Zeilen killt.",
+      "gesamtquote": 3.06,
+      "empfohlener_einsatz_prozent": 2.0,
+      "rechnung": "1.10 x 1.15 x 1.22 x 1.25 x 1.30 x 1.22 = 3.06",
+      "beine": [
+        {
+          "tipp_id": "2026-08-22-hul-mun-01",
+          "spiel_id": "2026-08-22-hul-mun",
+          "quote": 1.1,
+          "markt": "Hull City - Manchester United: Man United DC X2 (Unentschieden oder United)",
+          "spiel_titel": "Hull City - Manchester United"
+        },
+        {
+          "tipp_id": "2026-08-22-esp-rma-01",
+          "spiel_id": "2026-08-22-esp-rma",
+          "quote": 1.15,
+          "markt": "RCD Espanyol - Real Madrid: Real Madrid DC X2",
+          "spiel_titel": "RCD Espanyol - Real Madrid"
+        },
+        {
+          "tipp_id": "2026-08-22-int-mon-01",
+          "spiel_id": "2026-08-22-int-mon",
+          "quote": 1.22,
+          "markt": "Inter Mailand - AC Monza: Inter gewinnt",
+          "spiel_titel": "Inter Mailand - AC Monza"
+        },
+        {
+          "tipp_id": "2026-08-22-weh-b04-01",
+          "spiel_id": "2026-08-22-weh-b04",
+          "quote": 1.25,
+          "markt": "SV Wehen Wiesbaden - Bayer 04 Leverkusen: Leverkusen gewinnt",
+          "spiel_titel": "SV Wehen Wiesbaden - Bayer 04 Leverkusen"
+        },
+        {
+          "tipp_id": "2026-08-22-gen-nap-01",
+          "spiel_id": "2026-08-22-gen-nap",
+          "quote": 1.3,
+          "markt": "Genoa CFC - SSC Napoli: Napoli DC X2",
+          "spiel_titel": "Genoa CFC - SSC Napoli"
+        },
+        {
+          "tipp_id": "2026-08-22-bvb-fcb-01",
+          "spiel_id": "2026-08-22-bvb-fcb",
+          "quote": 1.22,
+          "markt": "Borussia Dortmund - FC Bayern München: Bayern Doppelte Chance X2 (Unentschieden oder Bayern)",
+          "spiel_titel": "Borussia Dortmund - FC Bayern München"
+        }
+      ]
+    },
+    {
+      "name": "Balance-Kombi (5 Beine, ~9.3x)",
+      "typ": "value",
+      "kategorie": "value",
+      "beschreibung": "Torschützen + Tor-Totals der Top-Angriffe. Keine Sieg-Wette drin - läuft komplett unabhängig von der Safe-Kombi.",
+      "einsatz_prozent_kasse": 0.8,
+      "einsatz_euro": 8.0,
+      "hinweis": "Kane und Mbappé sind beide von der bet365-Einwechslungs-Regel gedeckt: trifft ihr direkter Ersatzspieler nach Auswechslung, zählt das Tor mit.",
+      "gesamtquote": 9.3,
+      "empfohlener_einsatz_prozent": 0.8,
+      "rechnung": "1.70 x 1.65 x 1.70 x 1.50 x 1.30 = 9.30",
+      "beine": [
+        {
+          "tipp_id": "2026-08-22-bvb-fcb-03",
+          "spiel_id": "2026-08-22-bvb-fcb",
+          "quote": 1.7,
+          "markt": "Borussia Dortmund - FC Bayern München: Harry Kane trifft (jederzeit)",
+          "spiel_titel": "Borussia Dortmund - FC Bayern München"
+        },
+        {
+          "tipp_id": "2026-08-22-esp-rma-02",
+          "spiel_id": "2026-08-22-esp-rma",
+          "quote": 1.65,
+          "markt": "RCD Espanyol - Real Madrid: Kylian Mbappé trifft",
+          "spiel_titel": "RCD Espanyol - Real Madrid"
+        },
+        {
+          "tipp_id": "2026-08-22-bre-tot-01",
+          "spiel_id": "2026-08-22-bre-tot",
+          "quote": 1.7,
+          "markt": "Brentford - Tottenham Hotspur: BTTS - Ja",
+          "spiel_titel": "Brentford - Tottenham Hotspur"
+        },
+        {
+          "tipp_id": "2026-08-22-int-mon-03",
+          "spiel_id": "2026-08-22-int-mon",
+          "quote": 1.5,
+          "markt": "Inter Mailand - AC Monza: Ueber 2.5 Tore",
+          "spiel_titel": "Inter Mailand - AC Monza"
+        },
+        {
+          "tipp_id": "2026-08-22-hul-mun-03",
+          "spiel_id": "2026-08-22-hul-mun",
+          "quote": 1.3,
+          "markt": "Hull City - Manchester United: Ueber 1.5 Tore",
+          "spiel_titel": "Hull City - Manchester United"
+        }
+      ]
+    },
+    {
+      "name": "Risiko-Kombi (5 Beine, ~25.4x)",
+      "typ": "risk",
+      "kategorie": "risk",
+      "beschreibung": "BTTS-Cluster aus den Auftaktspielen plus zwei Torschützen mit Volumen. Spekulativ, aber jedes Bein einzeln vertretbar.",
+      "einsatz_prozent_kasse": 0.25,
+      "einsatz_euro": 2.5,
+      "hinweis": "Alle fünf Beine kommen aus fünf verschiedenen Spielen. Kein Bein doppelt sich mit einem Sieg-Ausgang aus der Safe-Kombi.",
+      "gesamtquote": 25.37,
+      "empfohlener_einsatz_prozent": 0.25,
+      "rechnung": "1.75 x 1.65 x 1.90 x 1.85 x 2.50 = 25.37",
+      "beine": [
+        {
+          "tipp_id": "2026-08-22-gen-nap-02",
+          "spiel_id": "2026-08-22-gen-nap",
+          "quote": 1.75,
+          "markt": "Genoa CFC - SSC Napoli: BTTS - Ja",
+          "spiel_titel": "Genoa CFC - SSC Napoli"
+        },
+        {
+          "tipp_id": "2026-08-22-tou-lyo-01",
+          "spiel_id": "2026-08-22-tou-lyo",
+          "quote": 1.65,
+          "markt": "Toulouse FC - Olympique Lyon: BTTS - Ja",
+          "spiel_titel": "Toulouse FC - Olympique Lyon"
+        },
+        {
+          "tipp_id": "2026-08-22-int-mon-02",
+          "spiel_id": "2026-08-22-int-mon",
+          "quote": 1.9,
+          "markt": "Inter Mailand - AC Monza: Marcus Thuram trifft",
+          "spiel_titel": "Inter Mailand - AC Monza"
+        },
+        {
+          "tipp_id": "2026-08-22-bre-tot-02",
+          "spiel_id": "2026-08-22-bre-tot",
+          "quote": 1.85,
+          "markt": "Brentford - Tottenham Hotspur: Ueber 2.5 Tore",
+          "spiel_titel": "Brentford - Tottenham Hotspur"
+        },
+        {
+          "tipp_id": "2026-08-22-hul-mun-02",
+          "spiel_id": "2026-08-22-hul-mun",
+          "quote": 2.5,
+          "markt": "Hull City - Manchester United: Bruno Fernandes trifft",
+          "spiel_titel": "Hull City - Manchester United"
+        }
+      ]
+    },
+    {
+      "name": "Moonshot-Kombi (5 Beine, ~108x)",
+      "typ": "moonshot",
+      "kategorie": "moonshot",
+      "beschreibung": "Fünf Torschützen quer über den Samstag. Reiner Spaßeinsatz.",
+      "einsatz_prozent_kasse": 0.1,
+      "einsatz_euro": 1.0,
+      "hinweis": "EHRLICH: das sind ~108x, keine 300x. Nach dem Rauswurf der Sonntagsspiele stehen nur noch 8 Spiele zur Auswahl - für 300x müsste man Beine reinnehmen die keiner ernsthaft verteidigen kann. Lieber 108x mit fünf begründbaren Torschützen.",
+      "gesamtquote": 108.12,
+      "empfohlener_einsatz_prozent": 0.1,
+      "rechnung": "3.30 x 3.50 x 2.30 x 2.20 x 1.85 = 108.12",
+      "beine": [
+        {
+          "tipp_id": "2026-08-22-bre-tot-03",
+          "spiel_id": "2026-08-22-bre-tot",
+          "quote": 3.3,
+          "markt": "Brentford - Tottenham Hotspur: Yoane Wissa trifft",
+          "spiel_titel": "Brentford - Tottenham Hotspur"
+        },
+        {
+          "tipp_id": "2026-08-22-tou-lyo-03",
+          "spiel_id": "2026-08-22-tou-lyo",
+          "quote": 3.5,
+          "markt": "Toulouse FC - Olympique Lyon: Loïs Openda trifft",
+          "spiel_titel": "Toulouse FC - Olympique Lyon"
+        },
+        {
+          "tipp_id": "2026-08-22-gen-nap-03",
+          "spiel_id": "2026-08-22-gen-nap",
+          "quote": 2.3,
+          "markt": "Genoa CFC - SSC Napoli: Romelu Lukaku trifft",
+          "spiel_titel": "Genoa CFC - SSC Napoli"
+        },
+        {
+          "tipp_id": "2026-08-22-esp-rma-03",
+          "spiel_id": "2026-08-22-esp-rma",
+          "quote": 2.2,
+          "markt": "RCD Espanyol - Real Madrid: Vinícius Jr trifft",
+          "spiel_titel": "RCD Espanyol - Real Madrid"
+        },
+        {
+          "tipp_id": "2026-08-22-weh-b04-02",
+          "spiel_id": "2026-08-22-weh-b04",
+          "quote": 1.85,
+          "markt": "SV Wehen Wiesbaden - Bayer 04 Leverkusen: Patrik Schick trifft",
+          "spiel_titel": "SV Wehen Wiesbaden - Bayer 04 Leverkusen"
+        }
+      ]
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "lesson": "Zeitfenster-Regel Tages-Dossier (NEU 22.08.2026)",
+      "anwendung": "Der Erst-Lauf der Sa-So-Routine schrieb einen kompletten Sa+So-Slate ins Tages-Dossier - 6 von 13 Spielen stießen erst am 23.08. an. Alle Spiele ohne Anstoß am 22.08. sind entfernt. Der Schema-Mapper erzwingt das ab jetzt mechanisch (validate_datum_scope): Tag = nur heute, Wochenende = Sa+So, Woche = Mo-So."
+    },
+    {
+      "lesson": "Pflicht-Wettbewerbe: Supercups gehören in den Slate (NEU 22.08.2026)",
+      "anwendung": "Der Franz-Beckenbauer-Supercup BVB - Bayern fehlte komplett, weil die Liga-Whitelist der Routinen nur Ligen, nationale Pokale und Europapokal kannte. Supercup ist jetzt nachgetragen (5 Tipps) und die Whitelist in Recherche- + Master-Prompt um alle Supercup-Formate erweitert."
+    },
+    {
+      "lesson": "2:0-Insurance nur BL + CL",
+      "anwendung": "Beim Supercup explizit im news[]-Block und in der Begründung des DC-X2-Tipps ausgewiesen, dass die bet365-Absicherung hier NICHT greift - Supercup ist kein Bundesliga-Spiel."
+    },
+    {
+      "lesson": "Star-Ausfall-Backup-Pflicht (Mai 2026)",
+      "anwendung": "Real Madrid ohne Bellingham in der Startelf -> Vinícius als zweiter Torschützen-Tipp. Bayern ohne Musiala/Gnabry/Karl -> Kane als konzentrierter Abschluss-Fokus statt breit gestreuter Offensiv-Tipps. Inter mit Lautaro-Fitness-Fragezeichen -> Thuram."
+    },
+    {
+      "lesson": "Kader-Wechsel-Compliance (kader_wechsel_2026.json)",
+      "anwendung": "Karim Adeyemi ist seit 24.07.2026 bei Barcelona. Im BVB-Spiel taucht er in keinem Tipp auf; der Adeyemi-Torschützen-Tipp aus dem Erst-Lauf hing an Elche-Barça und ist mit dem Sonntagsspiel rausgeflogen."
+    },
+    {
+      "lesson": "Markt-Goldgrube Unter 2.5 vs Klassiker-Über-Bias",
+      "anwendung": "Unsere Statistik zeigt Unter 2.5 als stärksten Markt (72.4% / +25.8% über 29 Tipps). Der Über-2.5-Tipp im Supercup steht dagegen - deshalb bewusst nur VALUE mit 1.0% Einsatz statt SAFE, und der Konflikt ist in der Begründung offen benannt."
+    },
+    {
+      "lesson": "Layer-2-Diversifikation (Sieg-Ausgänge)",
+      "anwendung": "Alle sechs Sieg-/DC-Ausgänge des Tages stecken ausschließlich in der Safe-Kombi. Balance-, Risiko- und Moonshot-Kombi laufen komplett über Torschützen, Tor-Totals und BTTS."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "tipp_id": "2026-08-22-esp-rma-01",
+      "spiel_id": "2026-08-22-esp-rma",
+      "beschreibung": "Real Madrid DC X2 @ Espanyol (LaLiga-Goldgrube + Markt-Goldgrube DC X2)",
+      "kategorie": "safe",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15.0,
+      "quote": 1.15,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.15,
+      "kommentar": "Real-Sieg 2:1 - DC X2 durch"
+    },
+    {
+      "tipp_id": "2026-08-22-bvb-fcb-01",
+      "spiel_id": "2026-08-22-bvb-fcb",
+      "beschreibung": "Bayern DC X2 im Supercup in Dortmund (Remis reicht - Elfmeterschießen ist egal für die Wette)",
+      "kategorie": "safe",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15.0,
+      "quote": 1.22,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.22,
+      "kommentar": "Bayern-Sieg 2:1 - DC X2 durch (keine Verlaengerung, kein Elfmeterschiessen)"
+    },
+    {
+      "tipp_id": "2026-08-22-int-mon-01",
+      "spiel_id": "2026-08-22-int-mon",
+      "beschreibung": "Inter gewinnt gegen Monza (Klassenunterschied San Siro)",
+      "kategorie": "safe",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15.0,
+      "quote": 1.22,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.22,
+      "kommentar": "Inter 4:1"
+    },
+    {
+      "tipp_id": "2026-08-22-weh-b04-01",
+      "spiel_id": "2026-08-22-weh-b04",
+      "beschreibung": "Leverkusen gewinnt in Wehen (DFB-Pokal, 2 Klassen Unterschied)",
+      "kategorie": "safe",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15.0,
+      "quote": 1.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.25,
+      "kommentar": "Leverkusen 4:0 - klarer Sieg"
+    },
+    {
+      "tipp_id": "2026-08-22-bvb-fcb-02",
+      "spiel_id": "2026-08-22-bvb-fcb",
+      "beschreibung": "Beide Teams treffen im Klassiker (zwei dezimierte Abwehrreihen)",
+      "kategorie": "value",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15.0,
+      "quote": 1.45,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.45,
+      "kommentar": "Brown+Olise Bayern, Silva BVB - beide trafen"
+    },
+    {
+      "tipp_id": "2026-08-22-esp-rma-02",
+      "spiel_id": "2026-08-22-esp-rma",
+      "beschreibung": "Kylian Mbappé trifft gegen Espanyol",
+      "kategorie": "value",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15.0,
+      "quote": 1.65,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Mbappe ohne Tor, spielte durch (kein Boost)"
+    },
+    {
+      "tipp_id": "2026-08-22-bvb-fcb-03",
+      "spiel_id": "2026-08-22-bvb-fcb",
+      "beschreibung": "Harry Kane trifft im Supercup (Markt-Goldgrube + Einwechslungs-Boost)",
+      "kategorie": "value",
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15.0,
+      "quote": 1.7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 7,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Kane ohne Tor; alle Bayern-Tore fielen bis 45. - kein Einwechslungs-Boost moeglich"
+    },
+    {
+      "tipp_id": "2026-08-22-gen-nap-01",
+      "spiel_id": "2026-08-22-gen-nap",
+      "beschreibung": "Napoli DC X2 in Genua (Serie A ist keine Liga-Goldgrube -> VALUE statt SAFE)",
+      "kategorie": "value",
+      "einsatz_prozent_kasse": 1.0,
+      "einsatz_euro": 10.0,
+      "quote": 1.3,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.3,
+      "kommentar": "Napoli 0:2 - DC X2 durch"
+    },
+    {
+      "tipp_id": "2026-08-22-esp-rma-03",
+      "spiel_id": "2026-08-22-esp-rma",
+      "beschreibung": "Vinícius Jr trifft gegen Espanyol (Backup-Torschütze zu Mbappé)",
+      "kategorie": "value",
+      "einsatz_prozent_kasse": 1.0,
+      "einsatz_euro": 10.0,
+      "quote": 2.2,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 9,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Vinicius ohne Tor; wurde 83. ausgewechselt fuer Palacios, aber Palacios traf nicht -> kein Boost"
+    },
+    {
+      "tipp_id": "2026-08-22-weh-b04-02",
+      "spiel_id": "2026-08-22-weh-b04",
+      "beschreibung": "Patrik Schick trifft in Wehen",
+      "kategorie": "wackel",
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5.0,
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.85,
+      "kommentar": "Schick traf 43."
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 3.06,
+      "name": "Safe-Kombi (6 Beine, ~3.1x)"
+    },
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 9.3,
+      "name": "Balance-Kombi (5 Beine, ~9.3x)"
+    },
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 25.37,
+      "name": "Risiko-Kombi (5 Beine, ~25.4x)"
+    },
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 108.12,
+      "name": "Moonshot-Kombi (5 Beine, ~108x)"
+    }
+  ],
+  "ausgewertet_am": "2026-08-23T06:05:25+00:00",
+  "bilanz_tag": {
+    "einzeltipps": {
+      "anzahl": 10,
+      "gewonnen": 7,
+      "verloren": 3,
+      "offen": 0,
+      "einsatz_euro": 130.0,
+      "gewinn_verlust_euro": -13.4,
+      "roi_prozent": -10.3
+    },
+    "kombis": {
+      "anzahl": 4,
+      "gewonnen": 0,
+      "verloren": 4,
+      "offen": 0,
+      "einsatz_euro": 31.5,
+      "gewinn_verlust_euro": -31.5,
+      "roi_prozent": -100.0
+    },
+    "gesamt": {
+      "einsatz_euro": 161.5,
+      "gewinn_verlust_euro": -44.9,
+      "roi_prozent": -27.8
+    },
+    "besondere_regeln_angewandt": {
+      "einwechslungs_boost": [
+        {
+          "tipp_id": "2026-08-22-bvb-fcb-05",
+          "spieler": "Guirassy -> Silva (60. Min)",
+          "tor_min": 75,
+          "ausschlag": "gewonnen"
+        }
+      ],
+      "insurance_2_0": [],
+      "kader_fehler_gedroppt_haetten_werden_muessen": [
+        {
+          "tipp_id": "2026-08-22-bre-tot-03",
+          "spieler": "Yoane Wissa",
+          "grund": "seit 01.09.2025 bei Newcastle - nicht mehr Brentford"
+        },
+        {
+          "tipp_id": "2026-08-22-gen-nap-03",
+          "spieler": "Romelu Lukaku",
+          "grund": "seit August 2026 bei Fenerbahce - nicht mehr Napoli"
+        }
+      ]
+    }
+  }
+}
