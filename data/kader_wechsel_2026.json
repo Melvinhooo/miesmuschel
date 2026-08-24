@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-23T21:00:00+02:00",
+  "stand": "2026-08-24T08:00:00+02:00",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -208,6 +208,23 @@
       "ablöse_mio": 8.2,
       "hinweis": "€8.2m nach nur 7 Liga-Startelfen in Arsenals Meister-Saison. 2-Jahres-Vertrag unter David Moyes. NIE mehr als Arsenal-Spieler tippen (obwohl selten getippt).",
       "quelle": "https://www.espn.com/soccer/story/_/id/49540382/everton-christian-norgaard-arsenal-transfer"
+    },
+    {
+      "spieler": "Ferran Torres",
+      "von": "FC Barcelona",
+      "nach": "Paris Saint-Germain",
+      "datum": "2026-08-14",
+      "ablöse_mio": 50,
+      "hinweis": "Als #9 zu PSG (Nachfolger G. Ramos), 5-Jahres-Vertrag bis 2031. Startete gleich als Sub-Debuet mit Doppelpack 71./82. gegen Rennes 23.08. beim 2:2-Remis. NIE mehr als Barca-Spieler tippen. Eintrag entstand aus dem Dembélé-Torschuetzen-Tipp im PSG-Rennes-Dossier 23.08. - Dembélé blank, Torres war der Volumen-9er.",
+      "quelle": "https://www.espn.com/soccer/story/_/id/49585508/psg-sign-world-cup-winner-ferran-torres-barcelona-transfer"
+    },
+    {
+      "spieler": "Marc Guehi",
+      "von": "Crystal Palace",
+      "nach": "Manchester City",
+      "datum": "2026",
+      "hinweis": "Wechsel zu Manchester City im Kalenderjahr 2026 - startete als 6er neben Elliot Anderson bei Man City-Bournemouth 23.08. und traf zum 1:1 (84. Kopfball, spaeter Gvardiol 92. zum 2:1-Sieg). NIE mehr als Crystal Palace-Spieler tippen.",
+      "quelle": "https://www.skysports.com/football/news/11095/13495114/marc-guehi-man-city-sign-defender-from-crystal-palace-for-an-initial-lb20m-as-spending-reaches-lb425m-in-12-months"
     }
   ],
 
