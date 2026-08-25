@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-08-24T06:26:14+00:00",
+  "letzte_berechnung": "2026-08-25T06:16:42+00:00",
   "gesamt": {
     "tipps": 429,
     "gewonnen": 222,
@@ -24,15 +24,15 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 20.2
   },
   "letzte_90_tage": {
-    "tipps": 424,
-    "gewonnen": 220,
-    "verloren": 192,
+    "tipps": 422,
+    "gewonnen": 219,
+    "verloren": 191,
     "push": 1,
     "offen": 11,
-    "einsatz": 413.0,
-    "netto": 29.76,
+    "einsatz": 411.0,
+    "netto": 29.85,
     "trefferquote": 53.4,
-    "roi_prozent": 7.2
+    "roi_prozent": 7.3
   },
   "nach_liga": {
     "Bundesliga Relegation": {
@@ -4297,6 +4297,137 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-08-24",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Auftakt-Kombi",
+          "kategorie": "safe",
+          "gesamtquote": 3.02,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg AS Roma (90 Min)",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg FC Schalke 04 (90 Min)",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg VfL Wolfsburg (90 Min)",
+              "quote": 1.35,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Mix-Kombi",
+          "kategorie": "balance",
+          "gesamtquote": 6.64,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Chelsea (90 Min)",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Bologna (90 Min)",
+              "quote": 2.05,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Torschuetzen-Kombi",
+          "kategorie": "risk",
+          "gesamtquote": 24.64,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Cole Palmer Torschuetze jederzeit",
+              "quote": 2.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Kean Torschuetze jederzeit",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sylla Torschuetze jederzeit",
+              "quote": 2.8,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Underdog-Pokal-Kombi",
+          "kategorie": "moonshot",
+          "gesamtquote": 138.24,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Doppelte Chance Verl oder Remis (1X)",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance Wuerzburg oder Remis (1X)",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Jonathan Rowe Torschuetze jederzeit",
+              "quote": 4.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-08-23",
       "gesamt": {

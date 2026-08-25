@@ -1,11 +1,10 @@
 {
-  "stand": "2026-08-24T08:00:00+02:00",
+  "stand": "2026-08-25T08:00:00+02:00",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
   "transferfenster_schliesst": "2026-08-31",
   "transferfenster_hinweis": "Bis Ende August sind weitere Wechsel moeglich. Waehrend des offenen Fensters ist diese Datei besonders schnell veraltet - Aufstellungs-Vorschau am Spieltag schlaegt jeden Eintrag hier.",
-
   "abgaenge_NICHT_mehr_fuer_alten_verein_tippen": [
     {
       "spieler": "Karim Adeyemi",
@@ -227,49 +226,167 @@
       "quelle": "https://www.skysports.com/football/news/11095/13495114/marc-guehi-man-city-sign-defender-from-crystal-palace-for-an-initial-lb20m-as-spending-reaches-lb425m-in-12-months"
     }
   ],
-
   "zugaenge_neue_optionen": [
-    {"spieler": "Ismael Saibari", "nach": "Bayern Muenchen", "von": "PSV Eindhoven", "ablöse_mio": 50},
-    {"spieler": "Nathaniel Brown", "nach": "Bayern Muenchen", "von": "Eintracht Frankfurt", "ablöse_mio": 50},
-    {"spieler": "Konstantinos Karetsas", "nach": "Borussia Dortmund", "von": "KRC Genk", "ablöse_mio": 30,
-     "hinweis": "Stand im Supercup 22.08. in der BVB-Startelf. Ersetzt Adeyemi als Offensiv-Option."},
-    {"spieler": "Giannis Konstantelias", "nach": "Borussia Dortmund", "von": "PAOK Saloniki", "ablöse_mio": 26},
-    {"spieler": "Joey Veerman", "nach": "Borussia Dortmund", "von": "PSV Eindhoven", "ablöse_mio": 22},
-    {"spieler": "Cole Campbell", "nach": "Borussia Dortmund"},
-    {"spieler": "Maxime Esteve", "nach": "RB Leipzig", "von": "FC Burnley", "ablöse_mio": 25},
-    {"spieler": "Rocco Reitz", "nach": "RB Leipzig", "von": "Borussia Moenchengladbach", "ablöse_mio": 20},
-    {"spieler": "Afonso Moreira", "nach": "Bayer Leverkusen", "von": "Olympique Lyon", "ablöse_mio": 29.5},
-    {"spieler": "Miguel Gutierrez", "nach": "Bayer Leverkusen", "von": "SSC Neapel", "ablöse_mio": 26},
-    {"spieler": "Noel Aseko", "nach": "Eintracht Frankfurt", "von": "Bayern Muenchen", "ablöse_mio": 12},
-    {"spieler": "Raphael Onyedika", "nach": "Eintracht Frankfurt", "von": "FC Bruegge", "ablöse_mio": 10},
-    {"spieler": "Kevin De Bruyne", "nach": "SSC Napoli", "von": "Manchester City",
-     "hinweis": "Ist seit Sommer 2025 bei Napoli. Kam am 22.08.2026 in Genua 67. rein und traf 82. zum 0:1 (plus Assist zum 0:2)."},
-    {"spieler": "Loïs Openda", "nach": "Olympique Lyon", "von": "Juventus Turin",
-     "hinweis": "Leihe aus Turin fuer die Ligue-1-Saison 2026/27. Ligue-1-Comeback nach RB-Leipzig-Historie."}
+    {
+      "spieler": "Ismael Saibari",
+      "nach": "Bayern Muenchen",
+      "von": "PSV Eindhoven",
+      "ablöse_mio": 50
+    },
+    {
+      "spieler": "Nathaniel Brown",
+      "nach": "Bayern Muenchen",
+      "von": "Eintracht Frankfurt",
+      "ablöse_mio": 50
+    },
+    {
+      "spieler": "Konstantinos Karetsas",
+      "nach": "Borussia Dortmund",
+      "von": "KRC Genk",
+      "ablöse_mio": 30,
+      "hinweis": "Stand im Supercup 22.08. in der BVB-Startelf. Ersetzt Adeyemi als Offensiv-Option."
+    },
+    {
+      "spieler": "Giannis Konstantelias",
+      "nach": "Borussia Dortmund",
+      "von": "PAOK Saloniki",
+      "ablöse_mio": 26
+    },
+    {
+      "spieler": "Joey Veerman",
+      "nach": "Borussia Dortmund",
+      "von": "PSV Eindhoven",
+      "ablöse_mio": 22
+    },
+    {
+      "spieler": "Cole Campbell",
+      "nach": "Borussia Dortmund"
+    },
+    {
+      "spieler": "Maxime Esteve",
+      "nach": "RB Leipzig",
+      "von": "FC Burnley",
+      "ablöse_mio": 25
+    },
+    {
+      "spieler": "Rocco Reitz",
+      "nach": "RB Leipzig",
+      "von": "Borussia Moenchengladbach",
+      "ablöse_mio": 20
+    },
+    {
+      "spieler": "Afonso Moreira",
+      "nach": "Bayer Leverkusen",
+      "von": "Olympique Lyon",
+      "ablöse_mio": 29.5
+    },
+    {
+      "spieler": "Miguel Gutierrez",
+      "nach": "Bayer Leverkusen",
+      "von": "SSC Neapel",
+      "ablöse_mio": 26
+    },
+    {
+      "spieler": "Noel Aseko",
+      "nach": "Eintracht Frankfurt",
+      "von": "Bayern Muenchen",
+      "ablöse_mio": 12
+    },
+    {
+      "spieler": "Raphael Onyedika",
+      "nach": "Eintracht Frankfurt",
+      "von": "FC Bruegge",
+      "ablöse_mio": 10
+    },
+    {
+      "spieler": "Kevin De Bruyne",
+      "nach": "SSC Napoli",
+      "von": "Manchester City",
+      "hinweis": "Ist seit Sommer 2025 bei Napoli. Kam am 22.08.2026 in Genua 67. rein und traf 82. zum 0:1 (plus Assist zum 0:2)."
+    },
+    {
+      "spieler": "Loïs Openda",
+      "nach": "Olympique Lyon",
+      "von": "Juventus Turin",
+      "hinweis": "Leihe aus Turin fuer die Ligue-1-Saison 2026/27. Ligue-1-Comeback nach RB-Leipzig-Historie."
+    }
   ],
-
   "trainer_2026_27": [
-    {"verein": "Bayer Leverkusen", "trainer_neu": "Carles Martinez Novell", "trainer_alt": "Kasper Hjulmand",
-     "seit": "2026-07", "vertrag_bis": "2028-06", "hinweis": "Kam von FC Toulouse. Taktische Aussagen ueber Leverkusen NICHT auf Hjulmand-Stand stuetzen."},
-    {"verein": "Eintracht Frankfurt", "trainer_neu": "Adi Huetter", "trainer_alt": "Albert Riera",
-     "seit": "2026-07", "hinweis": "Rueckkehr - war schon 2018-2021 Frankfurt-Trainer."},
-    {"verein": "RB Leipzig", "trainer_neu": "Martin Demichelis", "trainer_alt": "Ole Werner",
-     "seit": "2026-07", "hinweis": "Werner wurde trotz Platz 3 und CL-Quali entlassen."},
-    {"verein": "1. FC Union Berlin", "trainer_neu": "Mauro Lustrinelli", "trainer_alt": "Marie-Louise Eta",
-     "seit": "2026-07", "hinweis": "Kam als Schweizer Meister mit dem FC Thun."},
-    {"verein": "Bayern Muenchen", "trainer": "Vincent Kompany", "seit": "2024-07", "status": "weiter"},
-    {"verein": "VfB Stuttgart", "trainer": "Sebastian Hoeness", "seit": "2023-04", "status": "weiter"},
-    {"verein": "SC Freiburg", "trainer": "Julian Schuster", "seit": "2024-07", "status": "weiter"},
-    {"verein": "Chelsea FC", "trainer_neu": "Xabi Alonso", "trainer_alt": "Enzo Maresca",
-     "seit": "2026-07-01", "vertrag_bis": "2030-06", "hinweis": "4-Jahres-Vertrag. Kam von Real Madrid (dort Januar 2026 getrennt, Nachfolger Arbeloa). Vorher Bayer Leverkusen (Meister 2024). Taktische Aussagen ueber Chelsea NICHT auf Maresca-Stand stuetzen.",
-     "quelle": "https://www.chelseafc.com/en/news/article/xabi-alonso-appointed-chelsea-manager"},
-    {"verein": "Real Madrid", "trainer_neu": "Alvaro Arbeloa", "trainer_alt": "Xabi Alonso",
-     "seit": "2026-01-13", "hinweis": "Real trennte sich Januar 2026 von Alonso, befoerderte Ex-Verteidiger Arbeloa (bisher Castilla-Coach). Taktische Aussagen ueber Real NICHT auf Alonso-Stand stuetzen.",
-     "quelle": "https://www.newsonair.gov.in/real-madrid-part-ways-with-xabi-alonso-appoint-alvaro-arbeloa-as-new-head-coach"}
+    {
+      "verein": "Bayer Leverkusen",
+      "trainer_neu": "Carles Martinez Novell",
+      "trainer_alt": "Kasper Hjulmand",
+      "seit": "2026-07",
+      "vertrag_bis": "2028-06",
+      "hinweis": "Kam von FC Toulouse. Taktische Aussagen ueber Leverkusen NICHT auf Hjulmand-Stand stuetzen."
+    },
+    {
+      "verein": "Eintracht Frankfurt",
+      "trainer_neu": "Adi Huetter",
+      "trainer_alt": "Albert Riera",
+      "seit": "2026-07",
+      "hinweis": "Rueckkehr - war schon 2018-2021 Frankfurt-Trainer."
+    },
+    {
+      "verein": "RB Leipzig",
+      "trainer_neu": "Martin Demichelis",
+      "trainer_alt": "Ole Werner",
+      "seit": "2026-07",
+      "hinweis": "Werner wurde trotz Platz 3 und CL-Quali entlassen."
+    },
+    {
+      "verein": "1. FC Union Berlin",
+      "trainer_neu": "Mauro Lustrinelli",
+      "trainer_alt": "Marie-Louise Eta",
+      "seit": "2026-07",
+      "hinweis": "Kam als Schweizer Meister mit dem FC Thun."
+    },
+    {
+      "verein": "Bayern Muenchen",
+      "trainer": "Vincent Kompany",
+      "seit": "2024-07",
+      "status": "weiter"
+    },
+    {
+      "verein": "VfB Stuttgart",
+      "trainer": "Sebastian Hoeness",
+      "seit": "2023-04",
+      "status": "weiter"
+    },
+    {
+      "verein": "SC Freiburg",
+      "trainer": "Julian Schuster",
+      "seit": "2024-07",
+      "status": "weiter"
+    },
+    {
+      "verein": "Chelsea FC",
+      "trainer_neu": "Xabi Alonso",
+      "trainer_alt": "Enzo Maresca",
+      "seit": "2026-07-01",
+      "vertrag_bis": "2030-06",
+      "hinweis": "4-Jahres-Vertrag. Kam von Real Madrid (dort Januar 2026 getrennt, Nachfolger Arbeloa). Vorher Bayer Leverkusen (Meister 2024). Taktische Aussagen ueber Chelsea NICHT auf Maresca-Stand stuetzen.",
+      "quelle": "https://www.chelseafc.com/en/news/article/xabi-alonso-appointed-chelsea-manager"
+    },
+    {
+      "verein": "Real Madrid",
+      "trainer_neu": "Alvaro Arbeloa",
+      "trainer_alt": "Xabi Alonso",
+      "seit": "2026-01-13",
+      "hinweis": "Arbeloa war Real-Nachfolger von Xabi Alonso seit Januar 2026, ist aber im Sommer 2026 zu Fulham gewechselt (bestaetigt Auswertung 25.08. nach Fulham-Chelsea 24.08.). Real Madrid hat seitdem einen anderen Cheftrainer - vor Real-Tipps live pruefen. Alte Aussage 'Arbeloa trainiert Real' nicht mehr auf 2026/27 uebertragen.",
+      "quelle": "https://www.newsonair.gov.in/real-madrid-part-ways-with-xabi-alonso-appoint-alvaro-arbeloa-as-new-head-coach",
+      "stand": "2026-08-25"
+    },
+    {
+      "verein": "Fulham FC",
+      "trainer_neu": "Alvaro Arbeloa",
+      "trainer_alt": "Marco Silva",
+      "seit": "2026-07",
+      "hinweis": "3-Jahres-Vertrag. Kam von Real Madrid (dort trennung im Sommer 2026 nach nur einem halben Jahr). Marco Silva war 5 Jahre Fulham-Trainer und ging zu Benfica als Mourinho-Nachfolger. Bestaetigt via Fulham-Chelsea-Auftakt 24.08.2026 (2:3-Niederlage). Taktische Aussagen ueber Fulham NICHT auf Silva-Stand stuetzen.",
+      "quelle": "https://www.espn.com/soccer/story/_/id/49151991/alvaro-arbeloa-appointed-fulham-boss-real-madrid-exit"
+    }
   ],
-
-  "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist.",
-
+  "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist. Fulham hat mit Arbeloa (ex-Real Madrid) einen neuen Trainer, Silva zu Benfica (bestaetigt 25.08.2026).",
   "quellen": [
     "https://www.90min.de/sommer-transfers-in-der-bundesliga-2026-alle-offiziellen-wechsel-im-uberblick",
     "https://www.wetttippsheute.net/bundesliga-trainer-2026-27-die-trainerbank-zum-saisonstart-im-ueberblick/",

@@ -1,0 +1,1772 @@
+{
+  "datum": "2026-08-24",
+  "erstellt_am": "2026-08-24T13:30:00+02:00",
+  "hinweis": "Mo 24.08.2026 - dichter Auftakts-Montag: 4x DFB-Pokal 1. Runde (Wuerzburg-Koeln, Verl-HSV, Altglienicke-Wolfsburg um 18:00 sowie Halle-Schalke um 20:45), Serie A prima giornata mit Bologna-Lazio (18:30) + Roma-Fiorentina (20:45) und als Premier-League-Matchweek-1-Rausschmiss Fulham-Chelsea um 21:00 (Debuet Xabi Alonso bei Chelsea + Arbeloa bei Fulham, beide vom Real-Madrid-Kosmos). Alle Anstoesse Berliner Zeit am 24.08. - Zeitfenster sauber. Kasse 1000 EUR, Stufe 1 aktiv (Stufe 2 erst wenn Saison 2026/27 selbst >+5% rolling-30d-ROI zeigt). WICHTIG DFB-Pokal: 2:0-Insurance gilt NICHT (nur Bundesliga + CL) und bei 90-Min-Remis folgt Elfmeter, aber 1X2-/DC-Maerkte werten nur 90 Min - deswegen sind DC-Tipps auf Fav-Klubs strukturell staerker als direkter Sieg-Tipp. Markt-Goldgruben Doppelte Chance X2 (76.5% Hit, +24.9% ROI) und Unter 2.5 (73.1% Hit, +22.4% ROI) aktiv gesucht. Quoten bei bet365 live pruefen - koennen sich bis Anstoss aendern.",
+  "spiele": [
+    {
+      "id": "2026-08-24-wue-koe",
+      "liga": "DFB-Pokal 2026/27 - 1. Runde",
+      "heim": "FC Wuerzburger Kickers",
+      "gast": "1. FC Koeln",
+      "anstoss": "2026-08-24T18:00:00+02:00",
+      "stadion": "AKON Arena, Wuerzburg",
+      "saison_kontext": {
+        "parallel_heim": "keine - Wuerzburg Regionalliga Bayern 2026/27, kein Europapokal/Pokal-parallel",
+        "parallel_gast": "keine - 1. FC Koeln Bundesliga 2026/27, kein Europapokal 2026/27",
+        "saisonziel_heim": "Regionalliga-Bayern-Mittelfeld, Pokal-Auftritt fuer Aufmerksamkeit + Praemie",
+        "saisonziel_gast": "Bundesliga-Klassenerhalt, Pokal-Ausrichtung sekundaer aber Rotations-Verzicht in 1. Runde ueblich",
+        "motivations_asymmetrie": "Klassen-Unterschied 3 Ligen (Regionalliga vs. Bundesliga). Koeln aber laut Preview seit 5 Pflichtspielen sieglos - Wuerzburg in Serie ungeschlagen (4 Siege, 1 Remis). Nicht der Selbstlaeufer den die Quote 1.30 suggeriert.",
+        "recovery_heim": "Wuerzburg mit Saison-Rhythmus (5 Pflichtspiele bereits absolviert)",
+        "recovery_gast": "Koeln erst 3. Pflichtspiel, in Form-Loch",
+        "quellen": [
+          "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-ersten-hauptrunde",
+          "https://www.wetttippsheute.net/wuerzburger-kickers-1-fc-koeln-tipp-quoten-prognose-dfb-pokal-24-08-2026/",
+          "https://www.tipico.de/wett-tipps/sportwetten-news/wuerzburger-kickers-vs-1-fc-koeln-tipp-quoten-prognose-24-08-2026"
+        ]
+      },
+      "news": [
+        "Wuerzburger Kickers seit fuenf Spielen ungeschlagen (4 Siege, 1 Remis), darunter 4:0 gegen SV Wehen Wiesbaden - klarer Formvorteil.",
+        "1. FC Koeln seit fuenf Pflichtspielen sieglos (3 Niederlagen, 2 Remis) - schwacher Start in die Bundesliga-Rueckkehr-Saison.",
+        "Quotenbild: Koeln @ 1.30 (Fav), Draw @ 5.70, Wuerzburg @ 8.50 - Buchmacher preisen klaren Klassen-Unterschied ein.",
+        "DFB-Pokal-Regel: kein 2:0-Insurance (nur BL + CL), bei 90-Min-Remis Elfmeter aber 1X2 wertet nur 90 Min - Sieg-Tipp verliert bei Verlaengerungs-Sieg.",
+        "Wuerzburg-Heim-Atmosphaere AKON Arena traditionell schwierig fuer Favoriten in Pokal-Runden."
+      ],
+      "tipps": [
+        {
+          "id": "wue-koe-01",
+          "kategorie": "safe",
+          "markt": "Sieg 1. FC Koeln (90 Min)",
+          "quote": 1.3,
+          "faire_quote": 1.22,
+          "edge_prozent": 6,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Klassen-Unterschied drei Ligen macht 90-Min-Sieg Koeln zum wahrscheinlichsten Ausgang trotz Form-Loch. Historisch gehen ~85% der DFB-Pokal-1.-Runden-Duelle BL vs Regionalliga in 90 Min an den BL-Klub. Reality-Check: SAFE-Kategorie 1.30 Untergrenze noch drin. Achtung: Verlaengerung/Elfmeter wertet NICHT - reine 90-Min-Wette. Bei 1000 EUR Kasse: 2% = 20 EUR."
+        },
+        {
+          "id": "wue-koe-02",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "faire_quote": 1.75,
+          "edge_prozent": 5,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Koeln muss Klasse zeigen + Wuerzburg oeffnet mit Heim-Motivation - Konstellation fuer 2-1/3-1/3-0. Aber Koeln in Form-Loch kann auch mageren 1:0-Sieg produzieren. WACKEL statt VALUE weil Koeln-Offensive stockt. Bei 1000 EUR Kasse: 0.5% = 5 EUR."
+        },
+        {
+          "id": "wue-koe-03",
+          "kategorie": "risk",
+          "markt": "Doppelte Chance Wuerzburg oder Remis (1X)",
+          "quote": 3.0,
+          "faire_quote": 3.5,
+          "edge_prozent": 15,
+          "empfohlener_einsatz_prozent": 0.25,
+          "einsatz_prozent_kasse": 0.25,
+          "einsatz_euro": 2.5,
+          "begruendung": "Underdog-DC-Wette: Wuerzburg in Serien-Form + Koeln in Form-Loch + AKON-Heim-Atmosphaere + Pokal-Ueberraschungs-Faktor. ~30% Pokal-Wahrscheinlichkeit historisch fuer 3-Klassen-Diff wenn Fav sieglos-Serie hat. Bei 1000 EUR Kasse: 0.25% = 2.50 EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit": "1:0",
+        "endstand": "1:2",
+        "endstand_90": "1:2",
+        "verlaengerung": false,
+        "elfmeter": false,
+        "tore": [
+          "19. David Abrangao (1:0)",
+          "63. Isak Johannesson (1:1)",
+          "78. Isak Johannesson (1:2)"
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "wue-koe-01",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.3,
+          "kommentar": "Koeln 1:2 nach 90 Min (Johannesson 63.+78.), Klassen-Edge realisiert trotz Wuerzburg-HZ-Fuehrung."
+        },
+        {
+          "tipp_id": "wue-koe-02",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.85,
+          "kommentar": "3 Tore in 90 Min (1:2) - knapp ueber 2.5-Marke."
+        },
+        {
+          "tipp_id": "wue-koe-03",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Koeln 1:2 in 90 Min - DC 1X verloren."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "1:2",
+        "endstand_90": "1:2",
+        "tore": [
+          {
+            "min": 19,
+            "team": "heim",
+            "spieler": "David Abrangao",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 63,
+            "team": "gast",
+            "spieler": "Isak Johannesson",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 78,
+            "team": "gast",
+            "spieler": "Isak Johannesson",
+            "stand_danach": "1:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung: keine Zwei-Tor-Fuehrung verspielt."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Heim/Gast",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Wuerzburg fuehrte zur HZ 1:0 (Abrangao 19.) und war 62 Minuten dran, den Coup zu machen - Koeln drehte in 15 Minuten (63./78. Johannesson-Doppelpack).",
+          "2:0-Insurance gilt in Pokal ohnehin nicht - aber selbst wenn: Wuerzburg-Fuehrung reichte nicht bis zur 2-Tor-Marke.",
+          "Klassen-Edge realisiert trotz Koeln-Form-Loch (5 Pflichtspiele sieglos zuvor) - 90-Min-Sieg Koeln HIT, Ueber 2.5 HIT (3 Tore knapp)."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-24-ver-hsv",
+      "liga": "DFB-Pokal 2026/27 - 1. Runde",
+      "heim": "SC Verl",
+      "gast": "Hamburger SV",
+      "anstoss": "2026-08-24T18:00:00+02:00",
+      "stadion": "Sportclub Arena, Verl",
+      "saison_kontext": {
+        "parallel_heim": "keine - Verl 3. Liga 2026/27",
+        "parallel_gast": "keine - HSV Bundesliga 2026/27, kein Europapokal",
+        "saisonziel_heim": "3.-Liga-Mittelfeld, Pokal-Aufmerksamkeit + Praemie",
+        "saisonziel_gast": "Bundesliga-Klassenerhalt (Aufsteiger-Saison-Klassiker), Pokal-Rotation moeglich aber 1. Runde meist Stammelf",
+        "motivations_asymmetrie": "HSV nach Aufstieg 2025 mit Rueckenwind Bundesliga-Vorbereitung, klar Klasse-hoeher. Verl kompakt organisiert, 3.-Liga-Standard.",
+        "recovery_heim": "Verl mit 3.-Liga-Rhythmus, mehrere Pflichtspiele absolviert",
+        "recovery_gast": "HSV Bundesliga-Auftakt am kommenden Wochenende, hier 1. Pflichtspiel - Rotation moeglich aber unwahrscheinlich",
+        "quellen": [
+          "https://www.hsv.de/en/news/dfb-pokal-first-round-draw-hsv-away-to-sc-verl",
+          "https://datencenter.dfb.de/datencenter/dfb-pokal/2026-27/1-runde/sc-verl-hamburger-sv-2418329",
+          "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-ersten-hauptrunde"
+        ]
+      },
+      "news": [
+        "HSV startet in erste komplette Bundesliga-Saison seit dem Abstieg 2018 (nach Aufstieg 2025) - Pokal-1.-Runde meist Selbstlauf fuer BL-Klubs.",
+        "SC Verl gilt in 3. Liga als kompakte Truppe, historisch schwer zu bespielen im eigenen Stadion.",
+        "Verl-Kapazitaet knapp 5.000 - Heim-Vorteil begrenzt, HSV bringt viele Fans mit.",
+        "DFB-Pokal-Regel: kein 2:0-Insurance, 90-Min-Wertung fuer 1X2/DC.",
+        "Historisch Ausrutscher-Quote BL vs. 3.-Liga in 90 Min ~15%."
+      ],
+      "tipps": [
+        {
+          "id": "ver-hsv-01",
+          "kategorie": "value",
+          "markt": "Sieg Hamburger SV (90 Min)",
+          "quote": 1.55,
+          "faire_quote": 1.42,
+          "edge_prozent": 9,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Klassen-Unterschied 2 Ligen, HSV mit Bundesliga-Kader klar besser besetzt. Historisch ~80% BL-Sieg in 90 Min gegen 3.-Liga-Gastgeber. Achtung: keine 2:0-Insurance, keine Verlaengerungs-Wertung - reine 90-Min-Wette. Bei 1000 EUR Kasse: 2% = 20 EUR."
+        },
+        {
+          "id": "ver-hsv-02",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.7,
+          "faire_quote": 1.55,
+          "edge_prozent": 9,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "HSV muss Klasse zeigen + Verl oeffnet in eigenem Stadion - DFB-Pokal-Fav-Duelle enden ueberwiegend 2-1/3-0/3-1. Goldgrube-Markt Ueber 2.5 (+27.5% ROI Historisch nicht mehr aktiv, aber Ueber 2.5 aktuell +22.4% ROI). Bei 1000 EUR Kasse: 2% = 20 EUR."
+        },
+        {
+          "id": "ver-hsv-03",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen (JA)",
+          "quote": 1.9,
+          "faire_quote": 1.85,
+          "edge_prozent": 3,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Verl trifft in eigener Halle regelmaessig (3. Liga hat Torraum), HSV-Abwehr in Bundesliga-Vorbereitung noch nicht 100% eingespielt. Wackel-Level weil Pokal-Fav auch zu Null spielen kann. Bei 1000 EUR Kasse: 0.5% = 5 EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit": "0:1",
+        "endstand": "0:3",
+        "endstand_90": "0:3",
+        "verlaengerung": false,
+        "elfmeter": false,
+        "tore": [
+          "40. Albert Groenbaek (0:1)",
+          "46. Albert Groenbaek (0:2)",
+          "50. Louis Lemke (0:3)"
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ver-hsv-01",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.55,
+          "kommentar": "HSV 0:3 (Groenbaek 40./46., Lemke 50.) - klare Klassen-Edge."
+        },
+        {
+          "tipp_id": "ver-hsv-02",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.7,
+          "kommentar": "3 Tore in 90 Min - Groenbaek-Doppelpack + Lemke."
+        },
+        {
+          "tipp_id": "ver-hsv-03",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Verl blank in 90 Min - HSV zu Null, BTTS-Nein."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "0:3",
+        "endstand_90": "0:3",
+        "tore": [
+          {
+            "min": 40,
+            "team": "gast",
+            "spieler": "Albert Groenbaek",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 46,
+            "team": "gast",
+            "spieler": "Albert Groenbaek",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": 50,
+            "team": "gast",
+            "spieler": "Louis Lemke",
+            "stand_danach": "0:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung: keine Zwei-Tor-Fuehrung verspielt."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Gast/Gast",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Klassen-Edge sauber (HSV BL vs. Verl 3. Liga) - Groenbaek-Doppelpack 40./46. brach den Widerstand, Lemke 50. entschied endgueltig.",
+          "3 Tore ausschliesslich im ~10-Minuten-Fenster um die HZ (40./46./50.) - defensiver Verl-Kollaps zwischen den Kabinen.",
+          "BTTS-NEIN als Down-Effekt der Klassen-Diff - Verl mit 0 Toren trotz Heim-Startphase."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-24-alt-wob",
+      "liga": "DFB-Pokal 2026/27 - 1. Runde",
+      "heim": "VSG Altglienicke",
+      "gast": "VfL Wolfsburg",
+      "anstoss": "2026-08-24T18:00:00+02:00",
+      "stadion": "Friedrich-Ludwig-Jahn-Sportpark, Berlin",
+      "saison_kontext": {
+        "parallel_heim": "keine - Altglienicke Regionalliga Nordost 2026/27",
+        "parallel_gast": "keine - Wolfsburg 2. Bundesliga 2026/27 nach Abstieg aus BL 2025/26, kein Europapokal",
+        "saisonziel_heim": "Regionalliga-Aufstiegs-Kampf, Pokal-Aufmerksamkeit",
+        "saisonziel_gast": "2.-Bundesliga-Wiederaufstiegs-Kampf nach BL-Abstieg, Pokal solide durchspielen",
+        "motivations_asymmetrie": "Wolfsburg nach Abstieg mit BL-Restkader klar Fav vs. Regionalligist Altglienicke. Altglienicke hat starken Saisonstart (3 Siege in Serie), taktisch kompakt. Klassen-Diff aber immer noch 3 Ligen.",
+        "recovery_heim": "Altglienicke voll im Saison-Rhythmus (3 Pflichtspiel-Siege in Serie: Greifswalder 3:1, Hertha II 3:1, Halle 2:1)",
+        "recovery_gast": "Wolfsburg 2.-BL-Saison bereits gestartet (Spieltag 1), Pokal 2. Pflichtspiel",
+        "quellen": [
+          "https://www.sport.de/sportwetten/tipps/vsg-altglienicke-vs-vfl-wolfsburg-wett-tipp-24-08-2026/",
+          "https://www.wetttippsheute.net/vsg-altglienicke-vfl-wolfsburg-tipp-quoten-prognose-dfb-pokal-24-08-2026/",
+          "https://datencenter.dfb.de/datencenter/dfb-pokal/2026-27/1-runde/vsg-altglienicke-vfl-wolfsburg-2418337"
+        ]
+      },
+      "news": [
+        "Wolfsburg nach erstem Abstieg der Klub-Geschichte in die 2. Bundesliga - mit BL-Restkader klarer Fav.",
+        "Altglienicke drei Siege in Serie zu Saisonstart (u.a. Halle 2:1) - im eigenen Stadion selbstbewusst.",
+        "Buchmacher-Wahrscheinlichkeit Wolfsburg-Sieg 63% laut Aggregatoren - Quote ~1.35-1.40.",
+        "DFB-Pokal-Regel: kein 2:0-Insurance, 90-Min-Wertung.",
+        "Wolfsburg mit BL-Sturm-Klasse gegen Regionalliga-Abwehr - Ueber-Tore-Tendenz."
+      ],
+      "tipps": [
+        {
+          "id": "alt-wob-01",
+          "kategorie": "safe",
+          "markt": "Sieg VfL Wolfsburg (90 Min)",
+          "quote": 1.35,
+          "faire_quote": 1.25,
+          "edge_prozent": 8,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "3 Klassen Unterschied trotz Wolfsburg-BL-Abstieg. Buchmacher-Wahrscheinlichkeit 63% - passt zu Klassen-Erwartung. Achtung: DFB-Pokal 90 Min, keine 2:0-Insurance, kein Elfmeter-Boost. Bei 1000 EUR Kasse: 2% = 20 EUR."
+        },
+        {
+          "id": "alt-wob-02",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "faire_quote": 1.6,
+          "edge_prozent": 9,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Wolfsburg-Sturm bringt BL-Klasse gegen Regionalliga-Abwehr - historisch 2.5+ Tore in ~70% dieser Konstellationen. Altglienicke-Heimoffensive trifft auch gelegentlich. Bei 1000 EUR Kasse: 2% = 20 EUR."
+        },
+        {
+          "id": "alt-wob-03",
+          "kategorie": "wackel",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 2.2,
+          "faire_quote": 2.0,
+          "edge_prozent": 9,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Wolfsburg-Klasse-Vorteil bei ~65% Wahrscheinlichkeit fuer 4+ Tore. Aber Regionalliga-Gegner kann sich auch defensiv einigeln. Bei 1000 EUR Kasse: 0.5% = 5 EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit": "1:0",
+        "endstand": "3:3 n.V. (5:6 i.E.)",
+        "endstand_90": "2:2",
+        "verlaengerung": true,
+        "elfmeter": true,
+        "tore": [
+          "6. Jonas Nietfeld (1:0)",
+          "55. Maximilian Arnold (1:1)",
+          "71. Jonas Saliger (2:1)",
+          "83. Maximilian Arnold (2:2)",
+          "109. Mehmet Ibrahimi (3:2)",
+          "119. Hauke Wahl (3:3)"
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "alt-wob-01",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nach 90 Min 2:2 - Wolfsburg gewann erst im Elfmeterschiessen 6:5. Pokal-90-Min-Regel: 1X2-Sieg-Tipp verloren, kein Elfmeter-Boost."
+        },
+        {
+          "tipp_id": "alt-wob-02",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.75,
+          "kommentar": "4 Tore in 90 Min (2:2 nach 90 Min: Nietfeld 6., Arnold 55., Saliger 71., Arnold 83.)."
+        },
+        {
+          "tipp_id": "alt-wob-03",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.2,
+          "kommentar": "4 Tore in 90 Min - knapp ueber 3.5-Marke."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "3:3 n.V. (5:6 i.E.)",
+        "endstand_90": "2:2",
+        "tore": [
+          {
+            "min": 6,
+            "team": "heim",
+            "spieler": "Jonas Nietfeld",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 55,
+            "team": "gast",
+            "spieler": "Maximilian Arnold",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 71,
+            "team": "heim",
+            "spieler": "Jonas Saliger",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 83,
+            "team": "gast",
+            "spieler": "Maximilian Arnold",
+            "stand_danach": "2:2"
+          },
+          {
+            "min": 109,
+            "team": "heim",
+            "spieler": "Mehmet Ibrahimi",
+            "stand_danach": "3:2"
+          },
+          {
+            "min": 119,
+            "team": "gast",
+            "spieler": "Hauke Wahl",
+            "stand_danach": "3:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung: keine Zwei-Tor-Fuehrung verspielt."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Heim/Remis",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Wolfsburg-Startelf",
+            "details": "Wolfsburg-Restkader nach BL-Abstieg reichte nicht fuer souveraeneren Auftritt - dreifach ausgeglichen, dreifaches Nachfassen."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Klassen-Bruch der Nacht: Regionalligist Altglienicke fuehrte dreimal (1:0/2:1 in 90 Min, 3:2 in VL), Wolfsburg glich dreimal aus und gewann erst im Elfmeterschiessen.",
+          "In 90 Min VERLOREN fuer Wolfsburg-Sieg-Tipp: 2:2 nach 90 Minuten macht direkten Sieg-Tipp zunichte - Pokal-90-Min-Regel (kein Elfmeter-Boost).",
+          "Ueber 2.5 / Ueber 3.5 in 90 Min beide HIT (4 Tore in 90 Min), volle Ueber-Ausschoepfung.",
+          "Arnold-Doppelpack (55./83.) als Retter des Absteigers - Volumen-Sechser mit Tor-Instinkt."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-24-bol-laz",
+      "liga": "Serie A 2026/27 - Spieltag 1",
+      "heim": "Bologna",
+      "gast": "Lazio Rom",
+      "anstoss": "2026-08-24T18:30:00+02:00",
+      "stadion": "Stadio Renato Dall'Ara, Bologna",
+      "saison_kontext": {
+        "parallel_heim": "keine - Bologna Serie A + Europa-League-Ligaphase ab September (uefa.com), diese Woche kein Midweek",
+        "parallel_gast": "Coppa Italia bereits Runde 1 raus (2:0-Niederlage) - schlechter Auftakt fuer Trainer Gattuso",
+        "saisonziel_heim": "Serie-A-Top-8 / Europapokal-Quali (Vorjahr 8. Platz)",
+        "saisonziel_gast": "Serie-A-Top-6 / CL-Rueckkehr (Vorjahr 9. Platz)",
+        "motivations_asymmetrie": "Beide Klubs mit neuen Trainern (Tedesco bei Bologna, Gattuso bei Lazio). Lazio bereits Coppa-Italia-Aus in Runde 1 - Druck auf Gattuso zum Saisonstart. Bologna zu Hause + kein Cup-Schock = leichter Motivations-Edge.",
+        "recovery_heim": "Bologna erst 1. Pflichtspiel der Saison, frisch",
+        "recovery_gast": "Lazio 1 Woche seit Coppa-Aus, keine akute Belastung aber mentales Rueckstands-Signal",
+        "quellen": [
+          "https://ratingbet.com/predictions/bologna-vs-lazio-prediction-expert-analysis-possible-lineups-august-24-2026/",
+          "https://dailysports.net/predictions/a-cup-blow-for-gattuso-ahead-of-the-serie-a-opener-prediction-for-bologna-vs-lazio-24082026/",
+          "https://www.mightytips.com/football-predictions/bologna-vs-lazio-prediction-24-08-2026/"
+        ]
+      },
+      "news": [
+        "Bologna mit neuem Trainer Domenico Tedesco (ex-Belgien-Nationalcoach, ex-RB Leipzig), Vorjahr Platz 8.",
+        "Lazio mit neuem Trainer Gennaro Gattuso (ex-Kroatien, ex-Marseille) - bereits Coppa-Italia-Runde-1-Aus als Debakel-Debut.",
+        "Bologna-Elf: Skorupski - Zortea, Heggem, Helland, Miranda - Ferguson, El Azzouzi, Bernardeschi - Orsolini, Dovbyk, Rowe (laut Vorschau).",
+        "Lazio-Elf: Mandas - Marusic, Doekhi, Provstgaard, Pedraza - Taylor, Rovella, Frattesi - Noslin, Dia, Zaccagni (laut Vorschau).",
+        "Quotenbild Bologna @ ~2.05-2.33, Draw @ ~3.33-3.40, Lazio @ ~3.20-3.54 - Bologna leichter Heim-Fav.",
+        "Bologna Heimserie stabil (Vorjahr 40+ Heimpunkte)."
+      ],
+      "tipps": [
+        {
+          "id": "bol-laz-01",
+          "kategorie": "safe",
+          "markt": "Doppelte Chance Bologna oder Remis (1X)",
+          "quote": 1.35,
+          "faire_quote": 1.28,
+          "edge_prozent": 5,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Goldgrube-Markt Doppelte Chance (X2 +24.9% ROI). Bologna Heim-Fav + Lazio Coppa-Schock-Effekt macht Auswaertssieg unwahrscheinlich. Reality-Check: DC-Markt seit Mai stabilste Kategorie im System. Bei 1000 EUR Kasse: 2% = 20 EUR."
+        },
+        {
+          "id": "bol-laz-02",
+          "kategorie": "value",
+          "markt": "Sieg Bologna (90 Min)",
+          "quote": 2.05,
+          "faire_quote": 1.85,
+          "edge_prozent": 10,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Bologna zu Hause + neuer Tedesco motiviert + Lazio-Trainer bereits Cup-schwer angeschlagen = VALUE-Edge auf direkten Bologna-Sieg. Nicht SAFE weil beide Trainer-Debut fuer Chaos-Potential sorgt. Bei 1000 EUR Kasse: 2% = 20 EUR."
+        },
+        {
+          "id": "bol-laz-03",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen (JA)",
+          "quote": 1.75,
+          "faire_quote": 1.65,
+          "edge_prozent": 6,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Lazio-Sturm mit Dia/Zaccagni traf bei allen Testspielen mind. 1x. Bologna-Abwehr in Umbau (Heggem/Helland). Neue Trainer heisst neue defensive Systeme = anfaellig fuer Gegentore. Bei 1000 EUR Kasse: 2% = 20 EUR."
+        },
+        {
+          "id": "bol-laz-04",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "faire_quote": 1.85,
+          "edge_prozent": 3,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Saison-Auftakt mit zwei neuen Trainern und defensiver Umstellung - Chance auf 2-1/3-1 Ergebnis. Wackel weil Serie-A-Auftakte tendenziell taktisch/vorsichtig. Bei 1000 EUR Kasse: 0.5% = 5 EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit": "0:0",
+        "endstand": "0:1",
+        "endstand_90": "0:1",
+        "verlaengerung": false,
+        "elfmeter": false,
+        "tore": [
+          "59. Davide Frattesi (Einwechselspieler) (0:1)"
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "bol-laz-01",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Lazio 0:1 (Frattesi 59. als Joker) - DC 1X verloren."
+        },
+        {
+          "tipp_id": "bol-laz-02",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Bologna 0:1 - Tedesco-Debut ohne Tor, Frattesi-Joker entschied."
+        },
+        {
+          "tipp_id": "bol-laz-03",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Bologna blank - BTTS-Nein."
+        },
+        {
+          "tipp_id": "bol-laz-04",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur 1 Tor im Spiel."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:1",
+        "endstand_90": "0:1",
+        "tore": [
+          {
+            "min": 59,
+            "team": "gast",
+            "spieler": "Davide Frattesi (Einwechselspieler)",
+            "stand_danach": "0:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung: keine Zwei-Tor-Fuehrung verspielt."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Remis/Gast",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Davide Frattesi",
+            "aus": "Rovella (mutmasslich)",
+            "minute": 46,
+            "tor": true,
+            "details": "Frattesi Einwechselspieler 2. HZ, Tor 59. - Match-Winner ohne Startelf-Bonus."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Torarm mit klarem Einzelmoment: Frattesi als Einwechselspieler (2. HZ) trifft 59. zum Auswaerts-Sieg fuer Lazio - Anti-These zum Coppa-Aus-Signal.",
+          "Bologna 0 Tore trotz Heim-Erwartung + Tedesco-Debut - komplette Blank in 90 Min.",
+          "Ueber-2.5-Tipps massenhaft gebustet (nur 1 Tor), BTTS-JA ebenso.",
+          "Gattuso wendet nach Coppa-Debakel mit einem Substitute-Coup - Frattesi als taktischer Winner-Trigger."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-24-rom-fio",
+      "liga": "Serie A 2026/27 - Spieltag 1",
+      "heim": "AS Roma",
+      "gast": "AC Florenz",
+      "anstoss": "2026-08-24T20:45:00+02:00",
+      "stadion": "Stadio Olimpico, Rom",
+      "saison_kontext": {
+        "parallel_heim": "Europa-League-Ligaphase ab September (uefa.com), diese Woche kein Midweek",
+        "parallel_gast": "Conference-League-Playoff-Runde diese Woche (uefa.com Conference-Bracket) - Rueckspiel evtl. Do 27.08.",
+        "saisonziel_heim": "CL-Rueckkehr / Serie-A-Top-4 (Vorjahr 3. Platz)",
+        "saisonziel_gast": "Serie-A-Top-8 / Conference-Titel (Vorjahr 6. Platz)",
+        "motivations_asymmetrie": "Roma zu Hause mit neuem Gasperini-System (offensiv-ambitioniert, ex-Atalanta-Coach) trifft auf Fiorentina mit Conference-Playoff-parallel diese Woche - viola potenziell Rotation. Roma klare Fav-Rolle vor eigenem Publikum bei Saisonstart.",
+        "recovery_heim": "Roma 1. Pflichtspiel der Saison, voll frisch",
+        "recovery_gast": "Fiorentina 1. Serie-A-Spiel aber Conference-Playoff-Hinspiel diese Woche - Doppelbelastung",
+        "quellen": [
+          "https://ratingbet.com/predictions/roma-vs-fiorentina-prediction-teams-form-analysis-possible-lineups-on-august-24-2026/",
+          "https://www.sportsgambler.com/betting-tips/football/roma-vs-fiorentina-prediction-lineups-odds-2026-08-24/",
+          "https://football-italia.net/roma-v-fiorentina-probable-line-ups-watch-tv-2/",
+          "https://www.uefa.com/uefaeuropaconferenceleague/"
+        ]
+      },
+      "news": [
+        "Roma mit neuem Trainer Gian Piero Gasperini (ex-Atalanta 9 Jahre) - offensiv-dominante Ausrichtung.",
+        "Roma-Elf (3-4-2-1): Svilar - Mancini, Ndicka, Hermoso - Molina, Kone, Cristante, Wesley - Dybala, Soule - Malen (laut Vorschau).",
+        "Fiorentina-Elf: De Gea - Valdepenas, Ranieri, Dragusin, Joao Mario - Brescianini, Fagioli, N'Dour - Atta, Gudmundsson - Kean (laut Vorschau).",
+        "Kean als klarer Top-Stuermer bei Fiorentina - 25+ Serie-A-Tore Vorsaison, Volumen-9er.",
+        "Quotenbild Roma @ ~1.55-1.66, Draw @ ~3.90-4.05, Fiorentina @ ~5.50-5.75 - klarer Roma-Heim-Fav.",
+        "Fiorentina Conference-Playoff-Rueckspiel diese Woche - moegliche Rotation im Serie-A-Auftakt."
+      ],
+      "tipps": [
+        {
+          "id": "rom-fio-01",
+          "kategorie": "safe",
+          "markt": "Sieg AS Roma (90 Min)",
+          "quote": 1.6,
+          "faire_quote": 1.52,
+          "edge_prozent": 5,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Roma Heim-Klasse-Vorteil + Gasperini-Debut-Motivation + Fiorentina Conference-Doppelbelastung. Klarer Heim-Fav in etablierter Serie-A-Reihenfolge (Vorjahr Platz 3 vs. 6). Bei 1000 EUR Kasse: 2% = 20 EUR."
+        },
+        {
+          "id": "rom-fio-02",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.7,
+          "faire_quote": 1.55,
+          "edge_prozent": 9,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Gasperini-Systeme historisch offensiv-torreich (Atalanta 25/26 im Schnitt 2.8 Tore/Spiel). Kean als Fiorentina-Sturm-Volumen sorgt auch bei Niederlagen fuer Anschluss-Tor. Goldgrube-Markt Ueber-Tore historisch +22% ROI. Bei 1000 EUR Kasse: 2% = 20 EUR."
+        },
+        {
+          "id": "rom-fio-03",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen (JA)",
+          "quote": 1.75,
+          "faire_quote": 1.75,
+          "edge_prozent": 0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Kean als Fiorentina-Anker sorgt fast garantiert fuer Auswaerts-Tor - Roma trifft zu Hause fast immer. Wackel-Level weil Roma-Gasperini-Defense zu Null spielen kann bei Rotation-Fiorentina. Bei 1000 EUR Kasse: 0.5% = 5 EUR."
+        },
+        {
+          "id": "rom-fio-04",
+          "kategorie": "risk",
+          "markt": "Kean Torschuetze jederzeit",
+          "quote": 3.2,
+          "faire_quote": 2.8,
+          "edge_prozent": 14,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Kean 25+ Serie-A-Tore in Vorsaison, Fiorentinas einziger echter Volumen-9er, Einwechslungs-Boost (Backup wenige Optionen) macht Tipp stabil. HR24 Form-Edge erfuellt. Goldgrube-Markt Torschuetzen Jederzeit historisch stark. Bei 1000 EUR Kasse: 0.5% = 5 EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit": "1:0",
+        "endstand": "4:0",
+        "endstand_90": "4:0",
+        "verlaengerung": false,
+        "elfmeter": false,
+        "tore": [
+          "27. Donyell Malen (Assist Dybala) (1:0)",
+          "52. Donyell Malen (Assist Dybala) (2:0)",
+          "60. Donyell Malen (Assist Dybala) - Hattrick (3:0)",
+          "86. Niccolo Pisilli (4:0)"
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "rom-fio-01",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.6,
+          "kommentar": "Roma 4:0 - Gasperini-Debut mit Malen-Hattrick + Pisilli 86."
+        },
+        {
+          "tipp_id": "rom-fio-02",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.7,
+          "kommentar": "4 Tore in 90 Min (Malen 27./52./60. + Pisilli 86.)."
+        },
+        {
+          "tipp_id": "rom-fio-03",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Fiorentina blank - Roma zu Null, BTTS-Nein."
+        },
+        {
+          "tipp_id": "rom-fio-04",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Kean traf nicht + wurde nicht selbst ausgewechselt (bzw. sein Ersatz traf nicht) - kein Einwechslungs-Boost."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "4:0",
+        "endstand_90": "4:0",
+        "tore": [
+          {
+            "min": 27,
+            "team": "heim",
+            "spieler": "Donyell Malen (Assist Dybala)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 52,
+            "team": "heim",
+            "spieler": "Donyell Malen (Assist Dybala)",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 60,
+            "team": "heim",
+            "spieler": "Donyell Malen (Assist Dybala) - Hattrick",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": 86,
+            "team": "heim",
+            "spieler": "Niccolo Pisilli",
+            "stand_danach": "4:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung: keine Zwei-Tor-Fuehrung verspielt."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Heim/Heim",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Gasperini-Debut wie im Bilderbuch: Roma 4:0 mit Malen-Hattrick, alle drei Malen-Tore per Dybala-Assist - Verbindungs-Duo funktioniert sofort.",
+          "Ueber-2.5 HIT + Roma-Sieg HIT + BTTS-NEIN (Fiorentina blank, kein Kean-Tor).",
+          "Kean als Fiorentina-Volumen-9er BLANK trotz Startelf - Torschuetzen-Risk-Bein 3.20 verloren, kein Einwechslungs-Boost (Kean scoreless bis Ende / kein Ersatz-Tor).",
+          "Pisilli 86. als spaeter 4:0-Trumpf, Volumen-8er-Beitrag beim Aufbau der Klassen-Edge."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-24-hal-s04",
+      "liga": "DFB-Pokal 2026/27 - 1. Runde",
+      "heim": "Hallescher FC",
+      "gast": "FC Schalke 04",
+      "anstoss": "2026-08-24T20:45:00+02:00",
+      "stadion": "Leuna-Chemie-Stadion, Halle (Saale)",
+      "saison_kontext": {
+        "parallel_heim": "keine - Halle Regionalliga Nordost 2026/27",
+        "parallel_gast": "keine - Schalke 04 Bundesliga 2026/27 (Aufsteiger), kein Europapokal",
+        "saisonziel_heim": "Regionalliga-Nordost-Aufstiegs-Kampf, Pokal-Praemie",
+        "saisonziel_gast": "Bundesliga-Klassenerhalt (Aufsteiger), Pokal Rotation moeglich aber Muslic-Debut-Ambition",
+        "motivations_asymmetrie": "Halle mit 5 Saison-Pflichtspielen bereits im Rhythmus vs. Schalke mit nur Vorbereitungsspielen (BL-Auftakt Fr 29.08. gegen Hamburg). Aber Klassen-Vorteil Schalke enorm - 3 Ligen Diff.",
+        "recovery_heim": "Halle voll im Saison-Rhythmus (5 Pflichtspiele absolviert)",
+        "recovery_gast": "Schalke 1. Pflichtspiel der BL-Saison, frisch aber Rhythmus-Frage",
+        "quellen": [
+          "https://www.eurosport.de/wetten/prognosen/hallescher-vs-schalke-prognose-tipps-und-quoten-24-08-2026/",
+          "https://datencenter.dfb.de/datencenter/dfb-pokal/2026-27/1-runde/hallescher-fc-fc-schalke-04-2418318",
+          "https://www.absolutfussball.com/deutschland/fc-schalke-04/dfb-pokal-hallescher-fc-gegen-fc-schalke-04-live-im-tv-und-stream-94448159.html"
+        ]
+      },
+      "news": [
+        "Schalke 04 zurueck in der Bundesliga (Aufstieg 2025/26), 1. Pflichtspiel der neuen Saison unter Trainer Miron Muslic.",
+        "Halle mit 5 Pflichtspielen bereits im Saison-Rhythmus - Vorteil auf Papier.",
+        "Schalke-Aufstellung laut Vorschau: Karius - T. Becker, Ayhan, Katic, Gosens - Schallenberg, El-Faouzi - Adamu, Ebimbe, Aouchiche - Sylla.",
+        "Halle-Aufstellung: Bendel - Langhammer, Halili, Landgraf, Damelang - Hauptmann, Stierlin, Kulke - Benyamina, Hartmann, Ratifo.",
+        "Sylla als klarer 9er bei Schalke, Neuzugang mit Backup-Struktur (Adamu, Ebimbe).",
+        "DFB-Pokal-Regel: kein 2:0-Insurance, 90-Min-Wertung, bei Remis Verlaengerung + Elfmeter."
+      ],
+      "tipps": [
+        {
+          "id": "hal-s04-01",
+          "kategorie": "safe",
+          "markt": "Sieg FC Schalke 04 (90 Min)",
+          "quote": 1.4,
+          "faire_quote": 1.3,
+          "edge_prozent": 7,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "3 Klassen Unterschied + Schalke-Ambition unter Muslic-Debut. Sylla als Sturm-Klasse-Argument. Achtung: 90-Min-Wertung, kein 2:0-Insurance, Elfmeter-Sieg wertet nicht. Bei 1000 EUR Kasse: 2% = 20 EUR."
+        },
+        {
+          "id": "hal-s04-02",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.65,
+          "faire_quote": 1.55,
+          "edge_prozent": 6,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Schalke-Klasse-Sturm gegen Regionalliga-Abwehr, historisch ~70% Fav-Sieg mit 3+ Toren in dieser Klassen-Konstellation. Halle-Heim-Offensive trifft auch gelegentlich. Bei 1000 EUR Kasse: 2% = 20 EUR."
+        },
+        {
+          "id": "hal-s04-03",
+          "kategorie": "risk",
+          "markt": "Sylla Torschuetze jederzeit",
+          "quote": 2.8,
+          "faire_quote": 2.4,
+          "edge_prozent": 14,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Sylla klarer 9er in Startelf-Prognose, Klasse-Diff gegen Regionalliga-Abwehr + Einwechslungs-Boost (Adamu/Ebimbe als Backup-Sturm). HR24 Form-Edge indirekt via Klasse. Bei 1000 EUR Kasse: 0.5% = 5 EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit": "1:0",
+        "endstand": "2:5 n.V.",
+        "endstand_90": "2:2",
+        "verlaengerung": true,
+        "elfmeter": false,
+        "tore": [
+          "45. Vin Kastull (1:0)",
+          "62. Dejan Ljubicic (1:1)",
+          "Niclas Stierlin (2:1)",
+          "82. Edin Dzeko (Joker, Elfmeter) (2:2)",
+          "99. Mustafa Sylla (2:3)",
+          "107. Jeremie Adamu (2:4)",
+          "118. Edin Dzeko (Joker) (2:5)"
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "hal-s04-01",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nach 90 Min 2:2 (Kastull 45., Ljubicic 62., Stierlin, Dzeko 82. Elfmeter) - Schalke gewann erst in Verlaengerung 5:2. Pokal-90-Min-Regel: 1X2-Sieg-Tipp verloren, kein Elfmeter-Boost."
+        },
+        {
+          "tipp_id": "hal-s04-02",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.65,
+          "kommentar": "4 Tore in 90 Min (2:2 nach 90 Min) - ueber 2.5-Marke."
+        },
+        {
+          "tipp_id": "hal-s04-03",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Sylla traf erst 99. in Verlaengerung - bet365 Torschuetzen-Wetten werten nur 90 Min. Kein Einwechslungs-Boost (Sylla nicht selbst ausgewechselt vor 82.)."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "2:5 n.V.",
+        "endstand_90": "2:2",
+        "tore": [
+          {
+            "min": 45,
+            "team": "heim",
+            "spieler": "Vin Kastull",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 62,
+            "team": "gast",
+            "spieler": "Dejan Ljubicic",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Niclas Stierlin",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 82,
+            "team": "gast",
+            "spieler": "Edin Dzeko (Joker, Elfmeter)",
+            "stand_danach": "2:2"
+          },
+          {
+            "min": 99,
+            "team": "gast",
+            "spieler": "Mustafa Sylla",
+            "stand_danach": "2:3"
+          },
+          {
+            "min": 107,
+            "team": "gast",
+            "spieler": "Jeremie Adamu",
+            "stand_danach": "2:4"
+          },
+          {
+            "min": 118,
+            "team": "gast",
+            "spieler": "Edin Dzeko (Joker)",
+            "stand_danach": "2:5"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Gast fuehrte zwischenzeitlich mit 3 Toren, verlor oder remisierte am Ende (2:2)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Heim/Remis",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Edin Dzeko",
+            "aus": "unbekannt (nicht Sylla)",
+            "minute": null,
+            "tor": true,
+            "details": "Dzeko als Joker in 2. HZ eingewechselt, Doppelpack (82. Elfmeter, 118. VL) - Match-Winner. Nicht als Ersatz fuer Sylla eingewechselt (Sylla traf selbst 99.), also KEIN Einwechslungs-Boost fuer Sylla-Torschuetzen-Tipp."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Regionalligist Halle fuehrte zur HZ 1:0 (Kastull 45.) und legte in 2. HZ zum 2:1 nach (Stierlin) - Schalke-Klassen-Edge in 90 Min PLATTGEMACHT (2:2 dank Dzeko-Joker-Elfmeter 82.).",
+          "Sieg-Schalke-Tipp verloren (2:2 nach 90 Min - Pokal-90-Min-Regel, kein Elfmeter-Boost). Ueber 2.5 in 90 Min HIT (4 Tore).",
+          "Dzeko als Super-Joker: 82. Elfmeter (Ausgleich), spaeter 118. zum Endstand - typisches Backup-Volumen-9er-Muster.",
+          "Sylla (Startelf-9er) traf erst in Verlaengerung (99. zum 2:3) - Torschuetzen-Tipp im Pokal auf 90-Min-Wertung: Sylla-Tor zaehlt nicht, Tipp verloren. Kein Einwechslungs-Boost (Sylla nicht selbst ausgewechselt vor 82.).",
+          "Zweite Pokal-Ueberraschungs-Wende der Nacht nach Altglienicke - Klassen-Edge-Cluster (Alt-Wob + Hal-S04) massiv angeschlagen."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-24-ful-che",
+      "liga": "Premier League 2026/27 - Matchweek 1",
+      "heim": "Fulham FC",
+      "gast": "Chelsea FC",
+      "anstoss": "2026-08-24T21:00:00+02:00",
+      "stadion": "Craven Cottage, London",
+      "saison_kontext": {
+        "parallel_heim": "keine - Fulham Premier League 2026/27, kein Europapokal",
+        "parallel_gast": "keine - Chelsea PL 2026/27 + Champions League Ligaphase ab September (uefa.com), diese Woche kein Midweek",
+        "saisonziel_heim": "PL-Mittelfeld / gehobene Halbzeit-Position",
+        "saisonziel_gast": "PL-Top-4 / CL-Titel-Kandidat, Xabi-Alonso-Aera-Start",
+        "motivations_asymmetrie": "West-London-Derby zum PL-Auftakt mit ZWEI neuen Trainern (Arbeloa bei Fulham, Xabi Alonso bei Chelsea, beide Real-Madrid-Verbindung). Chelsea klar Klasse-hoeher besetzt aber Fofana-Sperre + Andersen-Sperre (Fulham) sorgen fuer angeschlagene Abwehr-Ketten beidseitig. Chelsea auswaerts historisch letzten 4 Spielen sieglos - preisliches Rueckstands-Signal.",
+        "recovery_heim": "Fulham 1. Pflichtspiel der Saison, voll frisch",
+        "recovery_gast": "Chelsea 1. Pflichtspiel der Saison, voll frisch",
+        "quellen": [
+          "https://www.sportsgambler.com/betting-tips/football/fulham-vs-chelsea-prediction-lineups-odds-2026-08-24/",
+          "https://sports.yahoo.com/articles/fulham-vs-chelsea-predicted-lineup-052000198.html",
+          "https://www.chelseafc.com/en/news/article/xabi-alonso-appointed-chelsea-manager",
+          "https://www.premierleague.com/"
+        ]
+      },
+      "news": [
+        "Xabi Alonso trainiert Chelsea (bestaetigt seit 2026-07, ex-Real Madrid, ex-Bayer Leverkusen).",
+        "Alvaro Arbeloa als neuer Fulham-Trainer laut Preview - Debut-Duell zweier Ex-Real-Kollegen.",
+        "Chelsea-Elf (3-4-2-1) laut Prognose: Sanchez - James, Lacroix (Neuzugang von Palace), Colwill - Neto, Caicedo, Lavia, Palestra (Neuzugang) - Palmer, Rogers (Rekord-Neuzugang 137M EUR aus Villa) - Joao Pedro.",
+        "Fulham-Elf (4-2-3-1): Leno - Castagne, Cuenca, Bassey, Robinson - Berge, Iwobi - Bobb, King, Palacios - Muniz/Garcia als 9er.",
+        "Fulham-Ausfaelle: Andersen (Sperre finaler Spieltag), Cairney (Knie).",
+        "Chelsea-Ausfaelle: Fofana (Sperre), Emegha (Oberschenkel), Henderson (Handgelenk).",
+        "Cole Palmer als Chelsea-Top-Scorer 2024/25/26, sicherer Torschuetzen-Kandidat.",
+        "Quotenbild: Chelsea @ ~1.85 Fav, Draw @ ~3.70, Fulham @ ~4.30. Ueber 2.5 @ ~1.65, BTTS Ja @ ~1.60.",
+        "2:0-Insurance gilt bei PL NICHT (bet365-Regel nur Bundesliga + CL) - Sieg-Tipps ohne Sicherheitsnetz."
+      ],
+      "tipps": [
+        {
+          "id": "ful-che-01",
+          "kategorie": "value",
+          "markt": "Sieg Chelsea (90 Min)",
+          "quote": 1.85,
+          "faire_quote": 1.7,
+          "edge_prozent": 9,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Chelsea klasse-Ueberlegen mit Rogers/Palmer/Neto/Joao Pedro trotz Fofana-Sperre. Xabi-Alonso-Debut mit Titel-Ambition und Kader-Tiefe. 2:0-Insurance in PL NICHT gueltig - reines 90-Min-Ergebnis. Bei 1000 EUR Kasse: 2% = 20 EUR."
+        },
+        {
+          "id": "ful-che-02",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen (JA)",
+          "quote": 1.6,
+          "faire_quote": 1.5,
+          "edge_prozent": 7,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Beide Abwehr-Ketten angeschlagen (Fofana + Andersen gesperrt). Fulham-Muniz und Chelsea-Palmer beide zuverlaessig treffende 9er/10er. Xabi-Alonso-System oft offensiv anspruchsvoll = mehr Chancen fuer Gegner. Bei 1000 EUR Kasse: 2% = 20 EUR."
+        },
+        {
+          "id": "ful-che-03",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.65,
+          "faire_quote": 1.6,
+          "edge_prozent": 3,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Debut-Match zwei neuer Trainer + geschwaechte Abwehr-Reihen sprechen fuer 2-1/3-1. Wackel weil PL-Auftakte historisch auch mal 1-0 fuer Fav enden koennen. Bei 1000 EUR Kasse: 0.5% = 5 EUR."
+        },
+        {
+          "id": "ful-che-04",
+          "kategorie": "risk",
+          "markt": "Cole Palmer Torschuetze jederzeit",
+          "quote": 2.75,
+          "faire_quote": 2.3,
+          "edge_prozent": 16,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Palmer klarer Chelsea-Top-Scorer 2024/25/26, Elfmeter-Schuetze, zentraler 10er im Xabi-Alonso-System. Fulham-Andersen-Sperre schwaecht Abwehr weiter. Goldgrube-Markt Torschuetzen Jederzeit. HR24 Form-Edge erfuellt (Volumen-Star). Bei 1000 EUR Kasse: 0.5% = 5 EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit": "1:2",
+        "endstand": "2:3",
+        "endstand_90": "2:3",
+        "verlaengerung": false,
+        "elfmeter": false,
+        "tore": [
+          "1. Joao Pedro (0:1)",
+          "23. Josh King (1:1)",
+          "41. Morgan Rogers (1:2)",
+          "49. Cole Palmer (1:3)",
+          "54. Guillermo Garcia (2:3)"
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ful-che-01",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.85,
+          "kommentar": "Chelsea 2:3 (Joao Pedro 1., Rogers 41., Palmer 49.) - Alonso-Debut-Sieg."
+        },
+        {
+          "tipp_id": "ful-che-02",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.6,
+          "kommentar": "Beide trafen (Fulham King 23. + Garcia 54., Chelsea 3x)."
+        },
+        {
+          "tipp_id": "ful-che-03",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.65,
+          "kommentar": "5 Tore - klar ueber 2.5."
+        },
+        {
+          "tipp_id": "ful-che-04",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.75,
+          "kommentar": "Palmer traf 49. zum 1:3 - Chelsea-Top-Scorer bestaetigt."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:2",
+        "endstand": "2:3",
+        "endstand_90": "2:3",
+        "tore": [
+          {
+            "min": 1,
+            "team": "gast",
+            "spieler": "Joao Pedro",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 23,
+            "team": "heim",
+            "spieler": "Josh King",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 41,
+            "team": "gast",
+            "spieler": "Morgan Rogers",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 49,
+            "team": "gast",
+            "spieler": "Cole Palmer",
+            "stand_danach": "1:3"
+          },
+          {
+            "min": 54,
+            "team": "heim",
+            "spieler": "Guillermo Garcia",
+            "stand_danach": "2:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung: keine Zwei-Tor-Fuehrung verspielt."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "halbzeit_endstand": "Gast/Gast",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Chelsea-Sieg 3:2 im Xabi-Alonso-Debut trotz Fofana-Sperre - Joao Pedro traf schon in der 1. Minute (schnellstes Premier-League-Auftakt-Tor aller Zeiten), Rogers 41. + Palmer 49. sorgen fuer Klassen-Edge.",
+          "5 Tore = Ueber-2.5 HIT + Ueber-3.5 HIT (Moonshot-Bein), BTTS-JA HIT (King 23., Garcia 54. fuer Fulham).",
+          "Palmer-Torschuetzen-Tipp HIT (49. Tor) - Chelsea-Top-Scorer bestaetigt Muster, Elfmeter-Schuetze-Status im 10er-Spiel.",
+          "Rogers als Chelsea-Rekord-Neuzugang debutierte mit Torbeitrag (41.) - Bestaetigung des Alonso-System-Investments."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "et-01",
+      "spiel_id": "2026-08-24-rom-fio",
+      "spiel_label": "AS Roma vs AC Florenz",
+      "kategorie": "safe",
+      "markt": "Sieg AS Roma (90 Min)",
+      "quote": 1.6,
+      "faire_quote": 1.52,
+      "edge_prozent": 5,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Roma Heim + Gasperini-Debut vs. Fiorentina mit Conference-Doppelbelastung. Klarer Heim-Klasse-Vorteil. Bei 1000 EUR Kasse: 2% = 20 EUR."
+    },
+    {
+      "id": "et-02",
+      "spiel_id": "2026-08-24-hal-s04",
+      "spiel_label": "Hallescher FC vs FC Schalke 04",
+      "kategorie": "safe",
+      "markt": "Sieg FC Schalke 04 (90 Min)",
+      "quote": 1.4,
+      "faire_quote": 1.3,
+      "edge_prozent": 7,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Klassen-Diff 3 Ligen + Muslic-Debut-Ambition. Achtung DFB-Pokal 90-Min-Wertung, kein Elfmeter-Boost, kein 2:0-Insurance. Bei 1000 EUR Kasse: 2% = 20 EUR."
+    },
+    {
+      "id": "et-03",
+      "spiel_id": "2026-08-24-alt-wob",
+      "spiel_label": "VSG Altglienicke vs VfL Wolfsburg",
+      "kategorie": "safe",
+      "markt": "Sieg VfL Wolfsburg (90 Min)",
+      "quote": 1.35,
+      "faire_quote": 1.25,
+      "edge_prozent": 8,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Wolfsburg trotz BL-Abstieg 3 Klassen ueber Altglienicke, Buchmacher-Wahrscheinlichkeit 63%. Bei 1000 EUR Kasse: 2% = 20 EUR."
+    },
+    {
+      "id": "et-04",
+      "spiel_id": "2026-08-24-bol-laz",
+      "spiel_label": "Bologna vs Lazio Rom",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance Bologna oder Remis (1X)",
+      "quote": 1.35,
+      "faire_quote": 1.28,
+      "edge_prozent": 5,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Bologna Heim-Fav + Lazio bereits Coppa-Aus als Signal. Goldgrube-DC-Markt. Bei 1000 EUR Kasse: 2% = 20 EUR."
+    },
+    {
+      "id": "et-05",
+      "spiel_id": "2026-08-24-wue-koe",
+      "spiel_label": "FC Wuerzburger Kickers vs 1. FC Koeln",
+      "kategorie": "safe",
+      "markt": "Sieg 1. FC Koeln (90 Min)",
+      "quote": 1.3,
+      "faire_quote": 1.22,
+      "edge_prozent": 6,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_prozent_kasse": 1.0,
+      "einsatz_euro": 10,
+      "begruendung": "Klassen-Vorteil BL vs Regionalliga - trotz Koeln-Form-Loch reicht die Kader-Klasse in 90 Min meistens. Reduzierter Einsatz weil Koeln-Sieglos-Serie Wackel-Faktor. Bei 1000 EUR Kasse: 1% = 10 EUR."
+    },
+    {
+      "id": "et-06",
+      "spiel_id": "2026-08-24-ful-che",
+      "spiel_label": "Fulham vs Chelsea",
+      "kategorie": "value",
+      "markt": "Sieg Chelsea (90 Min)",
+      "quote": 1.85,
+      "faire_quote": 1.7,
+      "edge_prozent": 9,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Chelsea Klasse-Ueberlegen unter Xabi Alonso trotz Fofana-Sperre. PL-Auftakt ohne 2:0-Insurance. Bei 1000 EUR Kasse: 2% = 20 EUR."
+    },
+    {
+      "id": "et-07",
+      "spiel_id": "2026-08-24-bol-laz",
+      "spiel_label": "Bologna vs Lazio Rom",
+      "kategorie": "value",
+      "markt": "Sieg Bologna (90 Min)",
+      "quote": 2.05,
+      "faire_quote": 1.85,
+      "edge_prozent": 10,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Bologna zu Hause + Coppa-Signal bei Lazio + Tedesco-Debut motiviert. Bei 1000 EUR Kasse: 2% = 20 EUR."
+    },
+    {
+      "id": "et-08",
+      "spiel_id": "2026-08-24-ver-hsv",
+      "spiel_label": "SC Verl vs Hamburger SV",
+      "kategorie": "value",
+      "markt": "Sieg Hamburger SV (90 Min)",
+      "quote": 1.55,
+      "faire_quote": 1.42,
+      "edge_prozent": 9,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "HSV mit BL-Kader klar Klasse-Fav gegen 3.-Liga-Verl. 90-Min-Wertung im Pokal. Bei 1000 EUR Kasse: 2% = 20 EUR."
+    },
+    {
+      "id": "et-09",
+      "spiel_id": "2026-08-24-rom-fio",
+      "spiel_label": "AS Roma vs AC Florenz",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.7,
+      "faire_quote": 1.55,
+      "edge_prozent": 9,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Gasperini-Systeme torreich + Kean als Fiorentina-Sturm-Volumen. Goldgrube-Markt. Bei 1000 EUR Kasse: 2% = 20 EUR."
+    },
+    {
+      "id": "et-10",
+      "spiel_id": "2026-08-24-ful-che",
+      "spiel_label": "Fulham vs Chelsea",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (JA)",
+      "quote": 1.6,
+      "faire_quote": 1.5,
+      "edge_prozent": 7,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Beide Abwehr-Ketten mit Sperren geschwaecht + zuverlaessige 9er/10er beidseits. Bei 1000 EUR Kasse: 2% = 20 EUR."
+    },
+    {
+      "id": "et-11",
+      "spiel_id": "2026-08-24-alt-wob",
+      "spiel_label": "VSG Altglienicke vs VfL Wolfsburg",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "faire_quote": 1.6,
+      "edge_prozent": 9,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "BL-Sturm-Klasse gegen Regionalliga-Abwehr. Historisch ~70% 3+ Tore in dieser Konstellation. Bei 1000 EUR Kasse: 2% = 20 EUR."
+    },
+    {
+      "id": "et-12",
+      "spiel_id": "2026-08-24-hal-s04",
+      "spiel_label": "Hallescher FC vs FC Schalke 04",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.65,
+      "faire_quote": 1.55,
+      "edge_prozent": 6,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Schalke-Sturm Klasse-Vorteil vs Regionalliga-Abwehr + Halle-Offensive trifft daheim gelegentlich. Bei 1000 EUR Kasse: 2% = 20 EUR."
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "kategorie": "safe",
+      "name": "Safe-Auftakt-Kombi",
+      "beine": [
+        {
+          "spiel_id": "2026-08-24-rom-fio",
+          "spiel_label": "AS Roma vs AC Florenz",
+          "markt": "Sieg AS Roma (90 Min)",
+          "quote": 1.6,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-08-24-hal-s04",
+          "spiel_label": "Hallescher FC vs FC Schalke 04",
+          "markt": "Sieg FC Schalke 04 (90 Min)",
+          "quote": 1.4,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-08-24-alt-wob",
+          "spiel_label": "VSG Altglienicke vs VfL Wolfsburg",
+          "markt": "Sieg VfL Wolfsburg (90 Min)",
+          "quote": 1.35,
+          "kategorie": "safe"
+        }
+      ],
+      "gesamtquote": 3.02,
+      "rechnung": "1.60 x 1.40 x 1.35 = 3.02",
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "moeglicher_gewinn_euro": 60.48,
+      "begruendung": "Drei klare Klasse-Favoriten aus 3 verschiedenen Spielen (Serie A + 2x DFB-Pokal 1. Runde). Layer-2 sauber (jedes Sieg-Outcome pro Spiel nur hier). Achtung DFB-Pokal-Sieg-Tipps sind reine 90-Min-Wertung ohne 2:0-Insurance und ohne Elfmeter-Boost - jeder Klasse-Ausrutscher in 90 Min killt die Kombi. Bei 1000 EUR Kasse: 2% = 20 EUR."
+    },
+    {
+      "id": "kombi-balance",
+      "kategorie": "balance",
+      "name": "Balance-Mix-Kombi",
+      "beine": [
+        {
+          "spiel_id": "2026-08-24-ful-che",
+          "spiel_label": "Fulham vs Chelsea",
+          "markt": "Sieg Chelsea (90 Min)",
+          "quote": 1.85,
+          "kategorie": "balance"
+        },
+        {
+          "spiel_id": "2026-08-24-bol-laz",
+          "spiel_label": "Bologna vs Lazio Rom",
+          "markt": "Sieg Bologna (90 Min)",
+          "quote": 2.05,
+          "kategorie": "balance"
+        },
+        {
+          "spiel_id": "2026-08-24-alt-wob",
+          "spiel_label": "VSG Altglienicke vs VfL Wolfsburg",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "kategorie": "balance"
+        }
+      ],
+      "gesamtquote": 6.64,
+      "rechnung": "1.85 x 2.05 x 1.75 = 6.64",
+      "empfohlener_einsatz_prozent": 0.8,
+      "einsatz_prozent_kasse": 0.8,
+      "einsatz_euro": 8,
+      "moeglicher_gewinn_euro": 53.12,
+      "begruendung": "Zwei Auftakt-Favoriten (Chelsea in PL, Bologna in Serie A) + Ueber-2.5-Bein aus DFB-Pokal-Klasse-Duell. Layer-2 sauber (Chelsea Sieg + Bologna Sieg neu, Alt-Wolf Ueber 2.5 Markt-entkoppelt vom Wolfsburg-Sieg in Safe). Bei 1000 EUR Kasse: 0.8% = 8 EUR."
+    },
+    {
+      "id": "kombi-risk",
+      "kategorie": "risk",
+      "name": "Risiko-Torschuetzen-Kombi",
+      "beine": [
+        {
+          "spiel_id": "2026-08-24-ful-che",
+          "spiel_label": "Fulham vs Chelsea",
+          "markt": "Cole Palmer Torschuetze jederzeit",
+          "quote": 2.75,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-08-24-rom-fio",
+          "spiel_label": "AS Roma vs AC Florenz",
+          "markt": "Kean Torschuetze jederzeit",
+          "quote": 3.2,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-08-24-hal-s04",
+          "spiel_label": "Hallescher FC vs FC Schalke 04",
+          "markt": "Sylla Torschuetze jederzeit",
+          "quote": 2.8,
+          "kategorie": "risk"
+        }
+      ],
+      "gesamtquote": 24.64,
+      "rechnung": "2.75 x 3.20 x 2.80 = 24.64",
+      "empfohlener_einsatz_prozent": 0.25,
+      "einsatz_prozent_kasse": 0.25,
+      "einsatz_euro": 2.5,
+      "moeglicher_gewinn_euro": 61.6,
+      "begruendung": "Drei Volumen-9er/10er aus 3 verschiedenen Spielen: Palmer (Chelsea-Top-Scorer + Elfmeter), Kean (25+ Serie-A-Tore Vorsaison), Sylla (Schalke-Klasse gegen Regionalliga). Alle mit Einwechslungs-Boost-Struktur. Layer-2 sauber (alle Sieg-Outcomes bereits in anderen Kombis, Torschuetzen-Maerkte entkoppelt). Bei 1000 EUR Kasse: 0.25% = 2.50 EUR."
+    },
+    {
+      "id": "kombi-moonshot",
+      "kategorie": "moonshot",
+      "name": "Moonshot-Underdog-Pokal-Kombi",
+      "beine": [
+        {
+          "spiel_id": "2026-08-24-ver-hsv",
+          "spiel_label": "SC Verl vs Hamburger SV",
+          "markt": "Doppelte Chance Verl oder Remis (1X)",
+          "quote": 3.2,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-08-24-wue-koe",
+          "spiel_label": "FC Wuerzburger Kickers vs 1. FC Koeln",
+          "markt": "Doppelte Chance Wuerzburg oder Remis (1X)",
+          "quote": 3.0,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-08-24-bol-laz",
+          "spiel_label": "Bologna vs Lazio Rom",
+          "markt": "Jonathan Rowe Torschuetze jederzeit",
+          "quote": 4.5,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-08-24-ful-che",
+          "spiel_label": "Fulham vs Chelsea",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 3.2,
+          "kategorie": "moonshot"
+        }
+      ],
+      "gesamtquote": 138.24,
+      "rechnung": "3.20 x 3.00 x 4.50 x 3.20 = 138.24",
+      "empfohlener_einsatz_prozent": 0.1,
+      "einsatz_prozent_kasse": 0.1,
+      "einsatz_euro": 1,
+      "moeglicher_gewinn_euro": 138.24,
+      "begruendung": "Zwei DFB-Pokal-1.-Runden-Ausrutscher-DCs (Verl gegen HSV + Wuerzburg gegen Koeln-Form-Loch) plus Bologna-Neuzugang Rowe Torschuetze plus Fulham-Chelsea-Debut-Torfestival. Layer-2 sauber, Layer-3 weich verletzt bei Fulham-Chelsea (3 Beine im Portfolio: Chelsea Sieg Balance + Palmer Risiko + Ueber 3.5 Moonshot - alles Markt-entkoppelt). Reine Spass-Wette. Bei 1000 EUR Kasse: 0.1% = 1 EUR."
+    }
+  ],
+  "lessons_angewandt": [
+    "DC-CAP (max 1 DC pro Spiel, max 2-3 DC im Dossier): 3 DCs im Dossier (Bologna, Verl, Wuerzburg-Koeln in Moonshot + 1 Einzeltipp) - Grenze eingehalten.",
+    "Pflicht-Profile pro Spiel: Alle Klasse-Favoriten haben mind. 1 Sieg/DC-Tipp; Fulham-Chelsea + Rom-Fio zusaetzlich Torschuetzen-Tipp bei Volumen-9er.",
+    "HR24 Form-Edge-Pflicht Torschuetzen: Palmer (Chelsea-Top-Scorer), Kean (25+ Vorsaison-Tore), Sylla (Klasse-Diff-Fav) alle drei Kriterien-erfuellt.",
+    "HR2 Anti-Heim-Bias: Fulham gegen Chelsea kein Heim-SAFE trotz Craven Cottage (Chelsea Klasse-Ueberlegen, Fulham-Trainer-Debut).",
+    "DFB-Pokal 2:0-Insurance-Ausschluss: In allen 4 DFB-Pokal-Spielen explizit in Begruendung erwaehnt - 90-Min-Wertung ohne Sicherheitsnetz.",
+    "Layer-2 hart: kein Sieg-Outcome doppelt ueber Kombis - jedes Spiel max 1 Sieg-Outcome-Kombi.",
+    "Kader-Frische: Xabi Alonso als Chelsea-Trainer + Gasperini als Roma-Trainer + Tedesco als Bologna-Trainer + Gattuso als Lazio-Trainer + Arbeloa als Fulham-Trainer alle bestaetigt via aktuelle Preview-Quellen 24.08.2026.",
+    "Goldgruben-Priorisierung: Doppelte Chance (Bologna 1X + Moonshot-Underdog-DCs) und Ueber-Tore (5 Spiele mit Ueber-2.5-Tipp) aktiv gesucht."
+  ],
+  "footer": "18+ - BZgA Gluecksspielsucht-Hotline: 0800 1372700 - Hobby-Tool, keine Einkommensquelle. Nur setzen was verlierbar ist. Stress - Pause. Probleme - Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-08-24T13:30:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "layer_3_weich",
+        "spiel_id": "2026-08-24-ful-che",
+        "details": "Fulham-Chelsea hat 3 Beine im Kombi-Portfolio (Balance Chelsea Sieg + Risiko Palmer Torschuetze + Moonshot Ueber 3.5). Alle Maerkte sind entkoppelt (Sieg vs. Einzel-Torschuetze vs. Tor-Total), Layer-3 explizit weich (siehe HR23). Akzeptiert."
+      },
+      {
+        "art": "quoten_live_verifikation",
+        "details": "Alle Quoten sind Aggregator-Snapshot 24.08.2026 morgens. Bei bet365 live vor Einsatz pruefen - Auftakts-Quoten schwanken bis Anstoss teils >5%."
+      },
+      {
+        "art": "dfb_pokal_extra_zeit_regel",
+        "details": "4 von 7 Spielen sind DFB-Pokal 1. Runde. Alle direkten Sieg-Tipps und DC-Tipps beziehen sich auf 90 Min ohne Verlaengerung/Elfmeter. bet365 wertet 1X2/DC hier standardmaessig nur 90 Min - Konstellation in jeder Begruendung erwaehnt."
+      },
+      {
+        "art": "trainer_wechsel_neu_kader_wechsel_json",
+        "details": "Arbeloa als Fulham-Trainer laut Preview (bisher in data/kader_wechsel_2026.json noch als Real Madrid gelistet Stand Januar 2026). Rowe bei Bologna und Sylla bei Schalke sind bestaetigte Startelf-Neuzugaenge laut Preview-Quellen aber noch nicht in kader_wechsel_2026.json. Maintenance-Routine sollte ergaenzen."
+      }
+    ],
+    "lessons_generiert": [],
+    "layer_2_check": "OK - jedes Spiel hat max 1 Sieg-Outcome ueber alle Kombis (Roma Sieg in Safe, Schalke Sieg in Safe, Wolfsburg Sieg in Safe, Chelsea Sieg in Balance, Bologna Sieg in Balance, Verl DC 1X in Moonshot, Wuerzburg DC 1X in Moonshot).",
+    "gesamtquote_check": "OK - Safe 3.02, Balance 6.64, Risk 24.64, Moonshot 138.24 - alle in erwarteten Kategorie-Ranges.",
+    "dc_cap_check": "OK - Bologna DC 1X (Einzeltipp), Verl DC 1X (Moonshot), Wuerzburg DC 1X (Moonshot) = 3 DCs im Dossier gesamt, max 1 DC pro Spiel."
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "id": "et-01",
+      "spiel_id": "2026-08-24-rom-fio",
+      "spiel_label": "AS Roma vs AC Florenz",
+      "kategorie": "safe",
+      "markt": "Sieg AS Roma (90 Min)",
+      "quote": 1.6,
+      "faire_quote": 1.52,
+      "edge_prozent": 5,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Roma Heim + Gasperini-Debut vs. Fiorentina mit Conference-Doppelbelastung. Klarer Heim-Klasse-Vorteil. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "status": "gewonnen",
+      "gewinn_faktor": 1.6,
+      "kommentar": "Roma 4:0 - Gasperini-Debut mit Malen-Hattrick + Pisilli 86."
+    },
+    {
+      "id": "et-02",
+      "spiel_id": "2026-08-24-hal-s04",
+      "spiel_label": "Hallescher FC vs FC Schalke 04",
+      "kategorie": "safe",
+      "markt": "Sieg FC Schalke 04 (90 Min)",
+      "quote": 1.4,
+      "faire_quote": 1.3,
+      "edge_prozent": 7,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Klassen-Diff 3 Ligen + Muslic-Debut-Ambition. Achtung DFB-Pokal 90-Min-Wertung, kein Elfmeter-Boost, kein 2:0-Insurance. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Nach 90 Min 2:2 (Kastull 45., Ljubicic 62., Stierlin, Dzeko 82. Elfmeter) - Schalke gewann erst in Verlaengerung 5:2. Pokal-90-Min-Regel: 1X2-Sieg-Tipp verloren, kein Elfmeter-Boost."
+    },
+    {
+      "id": "et-03",
+      "spiel_id": "2026-08-24-alt-wob",
+      "spiel_label": "VSG Altglienicke vs VfL Wolfsburg",
+      "kategorie": "safe",
+      "markt": "Sieg VfL Wolfsburg (90 Min)",
+      "quote": 1.35,
+      "faire_quote": 1.25,
+      "edge_prozent": 8,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Wolfsburg trotz BL-Abstieg 3 Klassen ueber Altglienicke, Buchmacher-Wahrscheinlichkeit 63%. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Nach 90 Min 2:2 - Wolfsburg gewann erst im Elfmeterschiessen 6:5. Pokal-90-Min-Regel: 1X2-Sieg-Tipp verloren, kein Elfmeter-Boost."
+    },
+    {
+      "id": "et-04",
+      "spiel_id": "2026-08-24-bol-laz",
+      "spiel_label": "Bologna vs Lazio Rom",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance Bologna oder Remis (1X)",
+      "quote": 1.35,
+      "faire_quote": 1.28,
+      "edge_prozent": 5,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Bologna Heim-Fav + Lazio bereits Coppa-Aus als Signal. Goldgrube-DC-Markt. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Lazio 0:1 (Frattesi 59. als Joker) - DC 1X verloren."
+    },
+    {
+      "id": "et-05",
+      "spiel_id": "2026-08-24-wue-koe",
+      "spiel_label": "FC Wuerzburger Kickers vs 1. FC Koeln",
+      "kategorie": "safe",
+      "markt": "Sieg 1. FC Koeln (90 Min)",
+      "quote": 1.3,
+      "faire_quote": 1.22,
+      "edge_prozent": 6,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_prozent_kasse": 1.0,
+      "einsatz_euro": 10,
+      "begruendung": "Klassen-Vorteil BL vs Regionalliga - trotz Koeln-Form-Loch reicht die Kader-Klasse in 90 Min meistens. Reduzierter Einsatz weil Koeln-Sieglos-Serie Wackel-Faktor. Bei 1000 EUR Kasse: 1% = 10 EUR.",
+      "status": "gewonnen",
+      "gewinn_faktor": 1.3,
+      "kommentar": "Koeln 1:2 nach 90 Min (Johannesson 63.+78.), Klassen-Edge realisiert trotz Wuerzburg-HZ-Fuehrung."
+    },
+    {
+      "id": "et-06",
+      "spiel_id": "2026-08-24-ful-che",
+      "spiel_label": "Fulham vs Chelsea",
+      "kategorie": "value",
+      "markt": "Sieg Chelsea (90 Min)",
+      "quote": 1.85,
+      "faire_quote": 1.7,
+      "edge_prozent": 9,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Chelsea Klasse-Ueberlegen unter Xabi Alonso trotz Fofana-Sperre. PL-Auftakt ohne 2:0-Insurance. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "status": "gewonnen",
+      "gewinn_faktor": 1.85,
+      "kommentar": "Chelsea 2:3 (Joao Pedro 1., Rogers 41., Palmer 49.) - Alonso-Debut-Sieg."
+    },
+    {
+      "id": "et-07",
+      "spiel_id": "2026-08-24-bol-laz",
+      "spiel_label": "Bologna vs Lazio Rom",
+      "kategorie": "value",
+      "markt": "Sieg Bologna (90 Min)",
+      "quote": 2.05,
+      "faire_quote": 1.85,
+      "edge_prozent": 10,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Bologna zu Hause + Coppa-Signal bei Lazio + Tedesco-Debut motiviert. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Bologna 0:1 - Tedesco-Debut ohne Tor, Frattesi-Joker entschied."
+    },
+    {
+      "id": "et-08",
+      "spiel_id": "2026-08-24-ver-hsv",
+      "spiel_label": "SC Verl vs Hamburger SV",
+      "kategorie": "value",
+      "markt": "Sieg Hamburger SV (90 Min)",
+      "quote": 1.55,
+      "faire_quote": 1.42,
+      "edge_prozent": 9,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "HSV mit BL-Kader klar Klasse-Fav gegen 3.-Liga-Verl. 90-Min-Wertung im Pokal. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "status": "gewonnen",
+      "gewinn_faktor": 1.55,
+      "kommentar": "HSV 0:3 (Groenbaek 40./46., Lemke 50.) - klare Klassen-Edge."
+    },
+    {
+      "id": "et-09",
+      "spiel_id": "2026-08-24-rom-fio",
+      "spiel_label": "AS Roma vs AC Florenz",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.7,
+      "faire_quote": 1.55,
+      "edge_prozent": 9,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Gasperini-Systeme torreich + Kean als Fiorentina-Sturm-Volumen. Goldgrube-Markt. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "status": "gewonnen",
+      "gewinn_faktor": 1.7,
+      "kommentar": "4 Tore in 90 Min (Malen 27./52./60. + Pisilli 86.)."
+    },
+    {
+      "id": "et-10",
+      "spiel_id": "2026-08-24-ful-che",
+      "spiel_label": "Fulham vs Chelsea",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (JA)",
+      "quote": 1.6,
+      "faire_quote": 1.5,
+      "edge_prozent": 7,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Beide Abwehr-Ketten mit Sperren geschwaecht + zuverlaessige 9er/10er beidseits. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "status": "gewonnen",
+      "gewinn_faktor": 1.6,
+      "kommentar": "Beide trafen (Fulham King 23. + Garcia 54., Chelsea 3x)."
+    },
+    {
+      "id": "et-11",
+      "spiel_id": "2026-08-24-alt-wob",
+      "spiel_label": "VSG Altglienicke vs VfL Wolfsburg",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "faire_quote": 1.6,
+      "edge_prozent": 9,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "BL-Sturm-Klasse gegen Regionalliga-Abwehr. Historisch ~70% 3+ Tore in dieser Konstellation. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "status": "gewonnen",
+      "gewinn_faktor": 1.75,
+      "kommentar": "4 Tore in 90 Min (2:2 nach 90 Min: Nietfeld 6., Arnold 55., Saliger 71., Arnold 83.)."
+    },
+    {
+      "id": "et-12",
+      "spiel_id": "2026-08-24-hal-s04",
+      "spiel_label": "Hallescher FC vs FC Schalke 04",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.65,
+      "faire_quote": 1.55,
+      "edge_prozent": 6,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Schalke-Sturm Klasse-Vorteil vs Regionalliga-Abwehr + Halle-Offensive trifft daheim gelegentlich. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "status": "gewonnen",
+      "gewinn_faktor": 1.65,
+      "kommentar": "4 Tore in 90 Min (2:2 nach 90 Min) - ueber 2.5-Marke."
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe",
+      "status": "verloren",
+      "gesamtquote": 3.02,
+      "gewinn_faktor": 0.0,
+      "kommentar": "Verloren durch: Hallescher FC vs FC Schalke 04 - Sieg FC Schalke 04 (90 Min) | VSG Altglienicke vs VfL Wolfsburg - Sieg VfL Wolfsburg (90 Min)"
+    },
+    {
+      "kombi_id": "kombi-balance",
+      "status": "verloren",
+      "gesamtquote": 6.64,
+      "gewinn_faktor": 0.0,
+      "kommentar": "Verloren durch: Bologna vs Lazio Rom - Sieg Bologna (90 Min)"
+    },
+    {
+      "kombi_id": "kombi-risk",
+      "status": "verloren",
+      "gesamtquote": 24.64,
+      "gewinn_faktor": 0.0,
+      "kommentar": "Verloren durch: AS Roma vs AC Florenz - Kean Torschuetze jederzeit | Hallescher FC vs FC Schalke 04 - Sylla Torschuetze jederzeit"
+    },
+    {
+      "kombi_id": "kombi-moonshot",
+      "status": "verloren",
+      "gesamtquote": 138.24,
+      "gewinn_faktor": 0.0,
+      "kommentar": "Verloren durch: SC Verl vs Hamburger SV - Doppelte Chance Verl oder Remis (1X) | FC Wuerzburger Kickers vs 1. FC Koeln - Doppelte Chance Wuerzburg oder Remis (1X) | Bologna vs Lazio Rom - Jonathan Rowe Torschuetze jederzeit"
+    }
+  ],
+  "ausgewertet_am": "2026-08-25T06:14:49Z",
+  "bilanz": {
+    "einsatz_gesamt_euro": 261.5,
+    "rueckfluss_gesamt_euro": 247.0,
+    "netto_euro": -14.5,
+    "roi_prozent": -5.54
+  }
+}
