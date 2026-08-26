@@ -1,0 +1,60 @@
+{
+  "spiel_id": "2026-08-26-vik-din",
+  "saison_kontext": {
+    "parallel_heim": "Viking FK Eliteserien 2026 (skandinavischer Sommer-Kalender laufend) - kein Midweek-Cup parallel, CL-Playoff exklusiv (uefa.com)",
+    "parallel_gast": "Dinamo Zagreb kroatische HNL 2026/27 - kein Midweek-Pokal parallel, CL-Playoff exklusiv (uefa.com)",
+    "saisonziel_heim": "erstmalige CL-Ligaphase in der Klub-Geschichte (nur 1991/92 als Vorlaeufer). SR-Bank Arena voll, 16 Siege in 17 Heimspielen",
+    "saisonziel_gast": "Rueckkehr in die CL-Ligaphase nach 2024/25, Kovacevic ungeschlagen in 7 - Klassiker CL-Grundeinnahme fuer den kroatischen Meister",
+    "motivations_asymmetrie": "Coinflip @ 2.30 (Viking) vs 2.70 (Dinamo). Viking mit brutaler Heimserie + im Hinspiel 2-0-Rueckstand zu 2-2 gedreht = mentales Kapital. Dinamo mit routinierterem Kader (Kovacic-Ass Beljo/Lisica) aber Auswaerts-Playoff-Rueckspiel selten Selbstlaeufer. Kein klarer Edge fuer eine Seite - typisches Wackel-Match.",
+    "recovery_heim": "Viking 8 Tage seit Hinspiel + Eliteserien-Spieltag am Wochenende. Ausfaelle Baertelsen (Fuss-Bruch), Roseth, Berisha",
+    "recovery_gast": "Dinamo Zagreb 8 Tage seit Hinspiel + HNL-Spieltag - gleiche Belastung",
+    "quellen": [
+      "https://www.uefa.com/uefachampionsleague/news/02a8-21614aa98c59-7f9d3e928182-1000--champions-league-play-off-first-legs-round-up-lyon-viking-/",
+      "https://www.sportsmole.co.uk/football/viking-fk/champions-league/preview/viking-fk-vs-dinamo-zagreb-prediction-team-news-lineups_603563.html",
+      "https://footballwhispers.com/blog/viking-vs-dinamo-zagreb-prediction-26-08-2026/",
+      "https://tips.gg/article/viking-vs-dinamo-zagreb-26-08-2026/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "vik-din-1",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.60,
+      "faire_quote": 1.45,
+      "edge_prozent": 10.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Hinspiel 2-2 = beide treffen kann + beide gezwungen zu spielen (Aggregat-Gleichstand, kein zu-Null-Modus moeglich). Viking Christiansen/Tripic je 4 Tore in 5 Spielen, Dinamo Beljo/Lisica getroffen im Hinspiel. Reality-Check: BTTS JA 58.3% Hit / +12.4% ROI (Goldgruben-Kandidat). Bei 1000 EUR Kasse Stufe 1: 2% = 20 EUR."
+    },
+    {
+      "id": "vik-din-2",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.65,
+      "faire_quote": 1.55,
+      "edge_prozent": 6.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Hinspiel 4 Tore total, beide Teams offensiv, Aggregat-Gleichstand zwingt zu Toren - Kandidat fuer 2-1/2-2/3-2. Wackel weil Playoff-Rueckspiele auch defensiv gedeckelt sein koennen (HR26-Logik aus K.O.-Modus). Bei 1000 EUR Kasse Stufe 1 Wackel: 0.5% = 5 EUR."
+    },
+    {
+      "id": "vik-din-3",
+      "kategorie": "wackel",
+      "markt": "Viking FK Sieg (90 Min)",
+      "quote": 2.30,
+      "faire_quote": 2.50,
+      "edge_prozent": -4.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Viking mit 16/17-Heimserie und mental gestaerkt (Rueckstand gedreht im Hinspiel) - solider Wackel-Sieg. CL-2:0-Insurance greift (bet365-Aktionsregel). Edge minimal, deshalb kein VALUE. Bei 1000 EUR Kasse Stufe 1 Wackel: 0.5% = 5 EUR."
+    },
+    {
+      "id": "vik-din-4",
+      "kategorie": "risk",
+      "markt": "Dinamo Zagreb Sieg (90 Min)",
+      "quote": 2.70,
+      "faire_quote": 3.00,
+      "edge_prozent": -10.0,
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "Auswaerts-Sieg fuer die Klassen-Underdog-Sicht - kroatische CL-Erfahrung + Kovacevic unbeaten in 7. Nur fuer Moonshot-Kombi ins Auge. Reality-Check: kleine Basis, keine belastbare Aussage. Bei 1000 EUR Kasse Stufe 1 Risiko: 0.25% = 2.50 EUR."
+    }
+  ]
+}

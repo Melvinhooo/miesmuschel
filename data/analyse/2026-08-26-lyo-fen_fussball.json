@@ -1,0 +1,70 @@
+{
+  "spiel_id": "2026-08-26-lyo-fen",
+  "saison_kontext": {
+    "parallel_heim": "Olympique Lyon Ligue 1 2026/27 - Auftakt am Wochenende gespielt, CL-Playoff exklusiv diese Woche (uefa.com)",
+    "parallel_gast": "Fenerbahce Sueper Lig 2026/27 - Auftakt-Verzoegerung wegen europaeischer Runden, CL-Playoff exklusiv (uefa.com)",
+    "saisonziel_heim": "Rueckkehr in die CL-Ligaphase nach mehrjaehriger Absenz - wichtig fuer Praemien und Prestige der neuen Textor-Ordnung",
+    "saisonziel_gast": "Rueckkehr in die CL-Ligaphase, Kader hoch aufgestellt (Skriniar, Kante, Semedo, Greenwood, Asensio, Talisca) - Titel-Ambition national + Ligaphase-Praemien",
+    "motivations_asymmetrie": "Lyon leichter Favorit @ 2.00 dank Heim-Vorteil Parc OL + 1-1-Auswaertsremis aus Istanbul. Fenerbahce mit stark aufgestocktem Kader (Greenwood/Ferran-Ersatz Talisca ballert die CL-Quali durch mit 4 Toren) - kann Auswaerts-Wunder aber Talisca-Tor allein reicht nicht wenn Lyon 2 macht. Ausgeglichen mit leichter Lyon-Neigung.",
+    "recovery_heim": "Lyon 8 Tage seit Hinspiel + Ligue-1-Auftakt am Wochenende - Rotation moeglich aber Openda Startelf-gesetzt",
+    "recovery_gast": "Fenerbahce 8 Tage seit Hinspiel + Sueper-Lig-Beginn parallel - normale Belastung, Talisca laut Vorschau fit",
+    "quellen": [
+      "https://www.uefa.com/uefachampionsleague/video/highlights/02a8-216161421805-43e8554af1cf-1000--champions-league-play-off-first-leg-highlights-fenerbahc/",
+      "https://www.france24.com/en/sport/20260818-fenerbahce-fight-back-against-lyon-as-greenwood-scores-champions-league-equaliser",
+      "https://www.sportsmole.co.uk/football/lyon/champions-league/preview/lyon-vs-fenerbahce-prediction-team-news-lineups_603575.html",
+      "https://www.sofascore.com/news/fenerbahce-vs-lyon-ucl-playoff-preview-trends-and-odds"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "lyo-fen-1",
+      "kategorie": "wackel",
+      "markt": "Olympique Lyon Sieg (90 Min)",
+      "quote": 2.00,
+      "faire_quote": 2.15,
+      "edge_prozent": -3.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Lyon Heimvorteil + 1-1-Aggregat reicht schon knapper Sieg zur Ligaphase. CL-2:0-Insurance greift (bet365-Aktionsregel Bundesliga+CL) - sobald Lyon 2-0 fuehrt, Sieg-Tipp sicher. Wackel weil Fener-Kader stark aufgestockt (Skriniar-IV solide, Talisca Torgarant). Bei 1000 EUR Kasse Stufe 1 Wackel: 0.5% = 5 EUR."
+    },
+    {
+      "id": "lyo-fen-2",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.65,
+      "faire_quote": 1.50,
+      "edge_prozent": 9.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Hinspiel beide getroffen (Openda vs Greenwood), Fener muss offensiv agieren wenn Lyon 1-0 macht + Talisca als Vollstrecker + Lyon-Angriff mit Openda/Nuamah/Fofana explosiv. BTTS JA Goldgrube-Trend (58.3% / +12.4%). Bei 1000 EUR Kasse Stufe 1: 2% = 20 EUR."
+    },
+    {
+      "id": "lyo-fen-3",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.90,
+      "faire_quote": 1.80,
+      "edge_prozent": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Beide Kader offensiv-orientiert und Aggregat-Gleichstand zwingt zu Toren - Konstellation fuer 2-1/2-2/3-1. Wackel weil Playoff-Rueckspiele auch defensiv sein koennen mit Verlaengerungs-Optik. Bei 1000 EUR Kasse Stufe 1 Wackel: 0.5% = 5 EUR."
+    },
+    {
+      "id": "lyo-fen-4",
+      "kategorie": "wackel",
+      "markt": "Lois Openda Torschuetze jederzeit",
+      "quote": 3.00,
+      "faire_quote": 2.75,
+      "edge_prozent": 8.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Openda hat im Hinspiel getroffen (1. CL-Tor fuer Lyon) und ist Startelf-gesetzter Volumen-9er (Leihe von Juventus, bestaetigt in data/kader_wechsel_2026.json). HR24: Form-Edge + zentraler 9er = 2 von 3 Bedingungen. Skriniar+Ake als IV solide (kein Defense-Krisen-Bonus), deshalb Wackel statt Value. Bei 1000 EUR Kasse Stufe 1 Wackel: 0.5% = 5 EUR."
+    },
+    {
+      "id": "lyo-fen-5",
+      "kategorie": "risk",
+      "markt": "Fenerbahce Sieg (90 Min)",
+      "quote": 3.80,
+      "faire_quote": 3.60,
+      "edge_prozent": 5.0,
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "Auswaerts-Underdog nach 1-1-Hinspiel, Talisca Torgarant + Skriniar-IV. Nur fuer Moonshot-Kombi ins Auge. Reality-Check: kleine Basis Risiko-Kategorie, keine belastbare Aussage. Bei 1000 EUR Kasse Stufe 1 Risiko: 0.25% = 2.50 EUR."
+    }
+  ]
+}

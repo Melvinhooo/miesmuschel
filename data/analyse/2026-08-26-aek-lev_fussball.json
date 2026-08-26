@@ -1,0 +1,60 @@
+{
+  "spiel_id": "2026-08-26-aek-lev",
+  "saison_kontext": {
+    "parallel_heim": "AEK Athens griechische Super League 2026/27 - CL-Playoff exklusiv, Liga-Auftakt bereits gespielt (uefa.com)",
+    "parallel_gast": "Levski Sofia bulgarische parva liga 2026/27 - Auftakt-Spiele parallel, CL-Playoff exklusiv (uefa.com)",
+    "saisonziel_heim": "Rueckkehr in die CL-Ligaphase nach Jahren (letzte Teilnahme 2018/19) - historisch wichtig",
+    "saisonziel_gast": "erstmalige CL-Ligaphase in der Klub-Geschichte, 19 Spiele ungeschlagen, 6 Weiße Westen in Folge",
+    "motivations_asymmetrie": "AEK klarer Buchmacher-Favorit @ ~1.44 (Heimspiel OPAP Arena + Jovic in Form mit Liga-Doppelpack + Latte in Sofia), aber Levski verteidigt aktuell wie eine Bank - 6 clean sheets in Folge. AEK muss den Riegel knacken, Levski reicht 0-0 in die Verlaengerung. Kein Selbstlaeufer, aber Klassen- und Heimvorteil klar bei AEK.",
+    "recovery_heim": "AEK 8 Tage seit 0-0 in Sofia, dazwischen Liga-Spiel Griechenland (Sonntag), voll erholt",
+    "recovery_gast": "Levski 8 Tage seit Hinspiel + Liga-Runde parva liga am Wochenende - 5 gemeldete Ausfaelle (Bouras, Sangare, Kamdem, Kirilov, Vulikic)",
+    "quellen": [
+      "https://www.uefa.com/uefachampionsleague/match/2049215--aek-athens-vs-levski-sofia/",
+      "https://www.sofascore.com/news/aek-athens-vs-levski-sofia-playoff-second-leg-preview",
+      "https://sports.yahoo.com/articles/champions-league-playoff-draw-full-095521783.html",
+      "https://www.bta.bg/en/news/sport/1187866-levski-sofia-aek-athens-draw-0-0-in-uefa-champions-league-play-off-first-leg"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "aek-lev-1",
+      "kategorie": "value",
+      "markt": "AEK Athens Sieg (90 Min)",
+      "quote": 1.44,
+      "faire_quote": 1.55,
+      "edge_prozent": 8.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "AEK klarer Favorit zu Hause in der OPAP Arena, Jovic mit Doppelpack in der Liga + Lattentreffer im Hinspiel, Levski mit 5 Ausfaellen und muss zwingend offensiv wenn AEK 1-0 macht. CL-2:0-Insurance greift bei bet365 - sobald AEK 2-0 fuehrt, Sieg-Tipp bereits sicher. Reality-Check: Sieg-Markt insgesamt bei 49.6% Hitrate/-1.1% ROI - hier aber klarer Favoritenpreis, akzeptabel. Bei 1000 EUR Kasse Stufe 1: 2% = 20 EUR."
+    },
+    {
+      "id": "aek-lev-2",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.80,
+      "faire_quote": 1.65,
+      "edge_prozent": 9.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Goldgrube-Markt Unter 2.5 (73.1% Hitrate, +22.4% ROI historisch). Levski mit 6 clean sheets in Folge + AEK 0-0 im Hinspiel = beide Defensiv-Systeme stabil. Playoff-Rueckspiel-Typik: enger Deckel, viel taktische Vorsicht mit Verlaengerungs-Optik. Bei 1000 EUR Kasse Stufe 1: 2% = 20 EUR."
+    },
+    {
+      "id": "aek-lev-3",
+      "kategorie": "wackel",
+      "markt": "Luka Jovic Torschuetze jederzeit",
+      "quote": 2.10,
+      "faire_quote": 1.95,
+      "edge_prozent": 8.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Jovic in Form (Liga-Doppelpack + Latte in Sofia) + zentraler 9er der AEK - HR24 mit 2 von 3 Bedingungen (Form + Position). Levski-Defense-Krise nicht bestaetigt (6 clean sheets), deshalb kein SAFE/VALUE. Bei 1000 EUR Kasse Stufe 1 Wackel: 0.5% = 5 EUR."
+    },
+    {
+      "id": "aek-lev-4",
+      "kategorie": "risk",
+      "markt": "Levski Sofia Sieg (90 Min)",
+      "quote": 7.50,
+      "faire_quote": 6.50,
+      "edge_prozent": 5.0,
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "Auswaerts-Underdog nach 0-0-Hinspiel, mit 5 Ausfaellen aber 19 Spiele ungeschlagen - fuer Moonshot-Kombi nutzbar (Klassiker Wildcard). Reality-Check: risiko-Kategorie mit sehr kleiner Basis (n=3), keine belastbare Aussage. Bei 1000 EUR Kasse Stufe 1 Risiko: 0.25% = 2.50 EUR."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "spiel_id": "2026-08-26-cel-slo",
+  "saison_kontext": {
+    "parallel_heim": "NK Celje slovenska PrvaLiga 2026/27 - Liga-Spiel vor dem Rueckspiel wurde VERSCHOBEN um Fokus zu ermoeglichen (footballwhispers.com)",
+    "parallel_gast": "Slovan Bratislava slowakische Nike Liga 2026/27 - Liga-Spiel am Wochenende gespielt (2-1 in Kosice)",
+    "saisonziel_heim": "erstmalige CL-Ligaphase in der Klub-Geschichte, historische Chance - nur 1 Niederlage in 9 Pflichtspielen dieser Saison",
+    "saisonziel_gast": "Rueckkehr in die CL-Ligaphase nach 2024/25 unter Neu-Trainer Yaya Toure (kam Sommer 2026) - Praemien fuer klein-mittleren Etat",
+    "motivations_asymmetrie": "Coinflip @ 2.35 vs 3.00 mit leichter Celje-Tendenz. Celje hat Liga-Spiel verschoben (voller Fokus) + Heimvorteil Z'dezele + 8 von 9 Pflichtspielen unbesiegt. Slovan mit neuem Trainer (Yaya Toure Debut-Saison) und Auswaerts-Playoff typisch schwerer. Motivation eher Celje (historische Chance), Klasse leicht Slovan.",
+    "recovery_heim": "Celje 8 Tage seit Hinspiel + verschobene Liga-Runde = voller Fokus + frische Beine",
+    "recovery_gast": "Slovan 3 Tage seit 2-1-Auswaertssieg Kosice - Rotation gegen Sporar-Startelf moeglich, Weiss auf der Bank",
+    "quellen": [
+      "https://www.uefa.com/uefachampionsleague/match/2049218--celje-vs-s-bratislava/",
+      "https://footballwhispers.com/blog/celje-vs-slovan-bratislava-prediction-26-08-2026/",
+      "https://www.sportskeeda.com/football/celje-vs-slovan-bratislava-prediction-betting-tips-august-26th-2026",
+      "https://www.espn.com/soccer/match/_/gameId/401909195"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "cel-slo-1",
+      "kategorie": "value",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.50,
+      "faire_quote": 1.35,
+      "edge_prozent": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Playoff-Rueckspiel-Typik + Hinspiel 1-1 (nur 2 Tore) + beide Trainer taktisch (Toure defensiv-diszipliniert im Debut) - Kandidat fuer 1-0/1-1/2-1. Reality-Check via Ueber/Unter-Bilanz (Unter 2.5 Goldgrube 73.1%), Unter 3.5 statistisch noch sicherer. Bei 1000 EUR Kasse Stufe 1: 2% = 20 EUR."
+    },
+    {
+      "id": "cel-slo-2",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.90,
+      "faire_quote": 1.70,
+      "edge_prozent": 11.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Hinspiel 1-1 = beide getroffen, Slovan mit Sporar als Volumen-9er, Celje offensiv-couragiert (8 von 9 Pflichtspielen unbesiegt inkl. Torgefahr). BTTS JA Goldgrube-Trend (58.3% Hit / +12.4% ROI). Bei 1000 EUR Kasse Stufe 1: 2% = 20 EUR."
+    },
+    {
+      "id": "cel-slo-3",
+      "kategorie": "wackel",
+      "markt": "NK Celje Sieg (90 Min)",
+      "quote": 2.35,
+      "faire_quote": 2.60,
+      "edge_prozent": -4.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Historische Motivation + Heimvorteil + Liga-Spiel verschoben (frisch), Slovan 3 Tage Recovery nach Liga. Wackel weil Klassiker der Klasse-Slovan-Diskussion mit neuem Trainer offen ist. Bei 1000 EUR Kasse Stufe 1 Wackel: 0.5% = 5 EUR."
+    },
+    {
+      "id": "cel-slo-4",
+      "kategorie": "risk",
+      "markt": "Slovan Bratislava Sieg (90 Min)",
+      "quote": 3.00,
+      "faire_quote": 3.20,
+      "edge_prozent": -6.0,
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "Auswaerts-Underdog fuer Moonshot-Kombis nutzbar - Toure-Debuet-Momentum + Sporar in Form. Reality-Check: Kombi-Baustein, kein Einzel-Kaufsignal. Bei 1000 EUR Kasse Stufe 1 Risiko: 0.25% = 2.50 EUR."
+    }
+  ]
+}
