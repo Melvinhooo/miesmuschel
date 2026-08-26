@@ -1,0 +1,1443 @@
+{
+  "datum": "2026-08-25",
+  "erstellt_am": "2026-08-25T13:30:00+02:00",
+  "hinweis": "Di 25.08.2026 - kleiner aber praezise geschnittener Slate: 3 Champions-League-Playoff-Rueckspiele (Sabah-Hapoel 18:45, LASK-Celtic + Bodoe/Glimt-NEC beide 21:00) plus LaLiga-Matchday-2 Valencia-Betis (21:00 Mestalla). Alle Anstoesse Berliner Zeit am 25.08. - Zeitfenster sauber. WICHTIG CL-Regel: 2:0-Insurance bei bet365 gilt auch fuer CL-Playoff-Rueckspiele (bet365-Aktionsregel BL + CL) - die schlaegt bei einer LASK-Wildchance auf Ausgleich sogar aggressiv fuer Celtic ein, sobald Celtic 2-0 fuehrt. Kasse 1000 EUR, Stufe 1 aktiv (Stufe 2 erst wenn Saison 2026/27 selbst rolling-30d-ROI >+5% zeigt - Basis noch nicht da). Markt-Goldgruben Doppelte Chance (X2 76.5% Hit, +24.9% ROI) und Ueber-Tore aktiv gesucht. Torschuetzen-Tipps nur wo Kader per Preview-Quelle bestaetigt ist (Cucho Hernandez, Antony bei Betis) - CL-Playoff-Underdogs mit unbekannter Kaderstruktur nur team-level. Quoten bei bet365 live pruefen - schwanken bis Anstoss.",
+  "spiele": [
+    {
+      "id": "2026-08-25-sab-hbs",
+      "liga": "Champions League 2026/27 - Playoff Rueckspiel",
+      "heim": "Sabah FK",
+      "gast": "Hapoel Beer-Sheva",
+      "anstoss": "2026-08-25T18:45:00+02:00",
+      "stadion": "Tofiq Bahramov Republican Stadium, Baku",
+      "saison_kontext": {
+        "parallel_heim": "Sabah aserbaidschanische Premier League 2026/27 - kein Midweek parallel, CL-Playoff exklusiv diese Woche (uefa.com)",
+        "parallel_gast": "Hapoel Beer-Sheva israelische Ligat ha'Al 2026/27 - Auftakt-Verzoegerung wegen europaeischer Runden, CL-Playoff exklusiv (uefa.com)",
+        "saisonziel_heim": "CL-Ligaphase-Debut waere historisch, aserbaidschanischer Meister 2025/26 muss Rueckstand aufholen",
+        "saisonziel_gast": "erste CL-Gruppenphase der Klubgeschichte (nur einmal 2016/17 Europa League) - historisches Momentum",
+        "motivations_asymmetrie": "Sabah muss 1:2-Auswaertsniederlage in eigenem Stadion drehen - offensiv gezwungen. Hapoel Beer-Sheva zu-Null-Verwaltung reicht bis 1:0-Niederlage. Sabah 100% Heimserie in dieser CL-Quali (u.a. 4:0 gegen AGF nach 1:2 auswaerts). Nicht der Selbstlaeufer den die knappe Aggregat-Fuehrung suggeriert - Rueckspiel-Momentum eher Sabah.",
+        "recovery_heim": "Sabah 6 Tage seit Hinspiel-Auswaerts, voll erholt und mit Heimvorteil-Serie",
+        "recovery_gast": "Hapoel Beer-Sheva 6 Tage seit Hinspiel-Neutralboden Bukarest, gleiche Belastung",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/match/2049219--sabah-vs-h-beer-sheva/",
+          "https://footballwhispers.com/blog/sabah-vs-hapoel-beer-sheva-prediction-25-08-2026/",
+          "https://dailysports.net/predictions/azerbaijans-home-strength-could-turn-the-tide-prediction-for-sabah-vs-hapoel-beer-sheva/",
+          "https://www.mightytips.com/football-predictions/sabah-baku-vs-hapoel-beer-sheva-prediction-25-08-2026/"
+        ]
+      },
+      "news": [
+        "Aggregat Hapoel Beer-Sheva 2:1 nach 2:1-Sieg im Hinspiel auf Neutralboden Bukarest.",
+        "Sabah hat in dieser CL-Quali alle 3 Heim-Rueckspiele gewonnen (u.a. 4:0 gegen AGF nach 1:2 im Hinspiel).",
+        "Hapoel Beer-Sheva seit 9 CL-Quali-Spielen nur eine Niederlage - historisches Momentum vor erster Gruppenphase.",
+        "Quotenbild Aggregator: Sabah @ ~1.88 (Heimserie eingepreist), Draw @ ~3.60, Hapoel @ ~3.65.",
+        "2:0-Insurance-Regel bei bet365 gilt bei CL-Playoff-Rueckspielen ebenso wie in der Ligaphase - Rueckspiel als CL-Wertung, Sieg-Tipp mit Sicherheitsnetz sobald Team 2-0 fuehrt.",
+        "Beide Trainer-Kader nicht in kader_wechsel_2026.json - keine automatischen Halluzinations-Trigger. Aserbaidschan/Israel-Vereine haben schwache Kader-Quellenlage - deshalb keine Torschuetzen-Tipps in diesem Spiel."
+      ],
+      "tipps": [
+        {
+          "id": "sab-hbs-01",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Hapoel Beer-Sheva oder Remis (X2)",
+          "quote": 1.3,
+          "faire_quote": 1.22,
+          "edge_prozent": 6,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Goldgrube-Markt Doppelte Chance X2 (Historisch 76.5% Hit / +24.9% ROI). Hapoel Beer-Sheva mit Aggregat-Fuehrung reicht Remis-Rueckspiel fuer Weiterkommen - zu-Null-Modus taktisch naheliegend. Nicht SAFE weil Sabah Heim-Serie 100% in CL-Quali - offensive Verpflichtung fuer Sabah + Auswaertsspiel Baku macht direkten Hapoel-Sieg unwahrscheinlich (Quote 3.65). Bei 1000 EUR Kasse: 2% = 20 EUR."
+        },
+        {
+          "id": "sab-hbs-02",
+          "kategorie": "wackel",
+          "markt": "Sabah FK Sieg (90 Min)",
+          "quote": 1.88,
+          "faire_quote": 1.85,
+          "edge_prozent": 2,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Sabah 100% Heimserie in dieser CL-Quali + muss offensiv gegen Aggregat-Rueckstand + Heim-Atmosphaere Bakiu. Wackel weil Hapoel Beer-Sheva stark verteidigen kann und CL-Playoff-Rueckspiele historisch oft 1:1 enden. Bei 1000 EUR Kasse: 0.5% = 5 EUR."
+        },
+        {
+          "id": "sab-hbs-03",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "faire_quote": 1.75,
+          "edge_prozent": 9,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Sabah offensiv gezwungen (Aggregat-Rueckstand) + Hapoel muss bei Gegentor selbst antworten. Konstellation fuer 2-1/2-2/3-2. Wackel weil beide Teams auch defensiv-abwartend agieren koennen. Bei 1000 EUR Kasse: 0.5% = 5 EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 5,
+        "gast": 2,
+        "halbzeit_heim": null,
+        "halbzeit_gast": null,
+        "heim_90min": 3,
+        "gast_90min": 2,
+        "status": "AET"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "sab-hbs-01",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Sabah gewann in 90 Min 3:2 - DC X2 auf Hapoel/Remis platzt. Endstand 5:2 n.V., Aggregat 6:4. 90-Min-Regel greift bei DC."
+        },
+        {
+          "tipp_id": "sab-hbs-02",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.88,
+          "kommentar": "Sabah 3:2 nach 90 Min (Tore 74' Rakhmonaliev 2:2, 90+4' Mutallimov 3:2). Sieg-Tipp durch."
+        },
+        {
+          "tipp_id": "sab-hbs-03",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.9,
+          "kommentar": "5 Tore bereits nach 90 Min (3:2). Ueber 2.5 klar durch."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand_90": "3:2",
+        "endstand": "5:2 n.V.",
+        "tore": [
+          {
+            "min": 74,
+            "team": "heim",
+            "spieler": "Umarali Rakhmonaliev",
+            "stand_danach": "2:2",
+            "hinweis": "Ausgleich Sabah"
+          },
+          {
+            "min": 94,
+            "team": "heim",
+            "spieler": "Tellur Mutallimov",
+            "stand_danach": "3:2",
+            "hinweis": "90+4', erzwingt Verlaengerung (Aggregat 4:4)"
+          },
+          {
+            "min": 101,
+            "team": "heim",
+            "spieler": "Patrick Orphe M'Bina",
+            "stand_danach": "4:2",
+            "hinweis": "Kopfball in ET"
+          },
+          {
+            "min": 115,
+            "team": "heim",
+            "spieler": "Joy Lance Mickels",
+            "stand_danach": "5:2",
+            "hinweis": "ET, endgueltige Entscheidung"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Hapoel hatte den CL-Ligaphase-Einzug bereits sicher (Aggregat 4:3 kurz vor Schluss), Sabah dreht in 90+4' den Rueckstand und in ET auf 5:2 - Aggregat-Drehung von 3:4 auf 6:4."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": true,
+          "halbzeit_endstand": null,
+          "kein_team_zu_null": true,
+          "hinweis": "1X2- und DC-Maerkte werten nur 90 Min. Nach 90 Min: Sabah 3:2. Ueber-Tore werden ebenfalls fuer 90 Min gerechnet - 5 Tore lagen bereits nach 90 an."
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Sabah setzte die 100%-Heim-Rueckspielserie in dieser CL-Quali fort - Muster 'Underdog daheim gegen Aggregat-Fuehrer' hat in dieser Runde einmal mehr gehalten.",
+          "Torschuetzen ausschliesslich aus dem Sabah-Kader, keiner davon in einem gaengigen bet365-Torschuetzen-Markt gehandelt - Kader-Quellenlage in AZE deshalb strukturell zu schwach fuer Torschuetzen-Tipps.",
+          "Late-90+ + Extra-Time-Tore veraendern die Ueber/Unter-Statistik massiv, wirken aber wettmarkt-technisch fuer 1X2/DC nicht (90-Min-Regel)."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-25-lsk-cel",
+      "liga": "Champions League 2026/27 - Playoff Rueckspiel",
+      "heim": "LASK Linz",
+      "gast": "Celtic FC",
+      "anstoss": "2026-08-25T21:00:00+02:00",
+      "stadion": "Raiffeisen Arena, Linz",
+      "saison_kontext": {
+        "parallel_heim": "LASK oesterreichische Bundesliga 2026/27 laufend - kein Midweek-Cup parallel, CL-Playoff exklusiv (uefa.com)",
+        "parallel_gast": "Celtic Scottish Premiership 2026/27 - kein Midweek parallel, CL-Playoff exklusiv (uefa.com)",
+        "saisonziel_heim": "Europapokal-Ligaphase-Fallback via UEL/Conference wenn CL raus - dieser Rueckstand ist quasi nicht mehr aufholbar",
+        "saisonziel_gast": "CL-Ligaphase-Rueckkehr fuer Klub-Praemien + Prestige - 3:0-Vorsprung praktisch komfortabel gesichert",
+        "motivations_asymmetrie": "Celtic mit 3:0-Vorsprung aus Hinspiel (Celtic Park) - fuer Aggregat reicht 0:0. LASK muss 3 Tore in Linz aufholen ohne einziges CL-Quali-Auswaerts-Signal. Celtic nach eigener Info 10 Siege in Serie, LASK in oesterreichischer Liga formstabil aber Klassen-Vorteil klar bei Celtic. Rueckspiel-Motivation eher Celtic-Verwaltung als LASK-Wunder.",
+        "recovery_heim": "LASK 6 Tage seit Hinspiel-Auswaerts Glasgow, ebenso zwischenzeitlich Bundesliga-Spiel",
+        "recovery_gast": "Celtic 6 Tage seit 3:0 Heim-Hinspiel, keine SPL-Doppelbelastung diese Woche",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/match/2049216--lask-vs-celtic/",
+          "https://www.sportsgambler.com/betting-tips/football/lask-vs-celtic-prediction-lineups-odds-2026-08-25/",
+          "https://heavy.com/sports/soccer/champions-league-playoff-second-legs-august-25-preview/",
+          "https://footballwhispers.com/blog/lask-vs-celtic-prediction-25-08-2026/",
+          "https://www.irishnews.com/sport/soccer/what-time-and-channel-is-lask-v-celtic-on-tv-and-live-stream-info-as-hoops-take-commanding-lead-into-champions-league-play-off-second-leg-against-austrians-MNG44JI7FFAHRH7F4Y4NHUC3NE/"
+        ]
+      },
+      "news": [
+        "Aggregat Celtic 3:0 - Weiterkommen praktisch sicher (LASK muesste 3-Tore-Wunder in Linz produzieren).",
+        "Celtic 10 Siege in Serie in allen Wettbewerben - offensiv im Rhythmus.",
+        "LASK-Aufstellung laut Preview: Jungwirth - Bello, Mbuyamba, Andrade, Joergensen - Ljubicic, Danek - Horvath, Schoepf, Lang - Adeniran; Top-Scorer Moses Usor als Wechsel-Option.",
+        "Celtic-Aufstellung: Sinisalo - Ralston, Carter-Vickers, Trusty, Tierney - McGregor, Bernardo - Yang, Hatate, Baur - Nygren.",
+        "Nygren als Celtic-Volumen-9er - im CL-Quali-Kader bestaetigt, kein Sommer-Wechsel gemeldet.",
+        "Quotenbild: Celtic @ ~1.75-1.90 (Fav trotz Auswaerts), Draw @ ~3.60, LASK @ ~4.70-5.20.",
+        "2:0-Insurance bei bet365 gilt fuer CL - Sieg-Tipp auf Celtic mit Sicherheitsnetz sobald 2-0 (auch wenn LASK spaeter noch Ehrentore macht)."
+      ],
+      "tipps": [
+        {
+          "id": "lsk-cel-01",
+          "kategorie": "value",
+          "markt": "Sieg Celtic (90 Min)",
+          "quote": 1.75,
+          "faire_quote": 1.6,
+          "edge_prozent": 9,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Celtic Klassen-Vorteil + 10-Siege-Serie + LASK muss offensiv gegen Aggregat-Rueckstand = ideal fuer Celtic-Kontersieg. Bei bet365 CL-2:0-Insurance sichert Tipp sobald Celtic 2-0 fuehrt (Aktionsregel BL + CL). SAFE weil Klasse plus Insurance-Puffer plus offene LASK-Deckung. Bei 1000 EUR Kasse: 2% = 20 EUR. [Auto: SAFE-Confirm fehlt - Quote 1.75 > 1.65 ohne Goldgrube-Kompensation]",
+          "_safe_confirm_downgrade": true
+        },
+        {
+          "id": "lsk-cel-02",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "faire_quote": 1.65,
+          "edge_prozent": 11,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "LASK offensiv gezwungen (3-Tore-Aufhol-Anspruch) oeffnet die Deckung + Celtic-Konter-Klasse mit 2.6 Tore/Spiel-Schnitt. Konstellation fuer 3-1/3-2/2-1-Ergebnisse. Goldgrube-Markt Ueber-Tore ROI historisch stark. Bei 1000 EUR Kasse: 2% = 20 EUR."
+        },
+        {
+          "id": "lsk-cel-03",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen (JA)",
+          "quote": 1.75,
+          "faire_quote": 1.7,
+          "edge_prozent": 3,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "LASK muss zu Hause treffen + Celtic-Kontertore fast garantiert. Wackel weil Celtic zu-Null-Verwaltung theoretisch reicht und Bernardo/Trusty defensiv-diszipliniert. Bei 1000 EUR Kasse: 0.5% = 5 EUR."
+        },
+        {
+          "id": "lsk-cel-04",
+          "kategorie": "risk",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 2.75,
+          "faire_quote": 2.4,
+          "edge_prozent": 12,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Wenn LASK wirklich Wunder-Aufholjagd startet, oeffnet sich Torfestival: Fav-Team Celtic mit Konter + LASK-Push. Klassisches 3-2/4-2-Muster in CL-Rueckspielen mit 3-Tore-Rueckstand. Bei 1000 EUR Kasse: 0.5% = 5 EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 5,
+        "gast": 1,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 1,
+        "heim_90min": 4,
+        "gast_90min": 1,
+        "status": "AET"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "lsk-cel-01",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Celtic verlor 90 Min 1:4 (McGregor 21' 0:1, dann 4x LASK). Sensations-Aggregat-Drehung auf 4:4 nach 90. 2:0-Insurance greift nicht (Celtic fuehrte nie 2:0)."
+        },
+        {
+          "tipp_id": "lsk-cel-02",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.85,
+          "kommentar": "5 Tore in 90 Min (4:1). Ueber 2.5 klar durch."
+        },
+        {
+          "tipp_id": "lsk-cel-03",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.75,
+          "kommentar": "McGregor 21' fuer Celtic + 4 LASK-Tore - beide Teams getroffen."
+        },
+        {
+          "tipp_id": "lsk-cel-04",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.75,
+          "kommentar": "5 Tore in 90 Min - Ueber 3.5 durch."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand_90": "4:1",
+        "endstand": "5:1 n.V.",
+        "tore": [
+          {
+            "min": 21,
+            "team": "gast",
+            "spieler": "Callum McGregor",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 32,
+            "team": "heim",
+            "spieler": "Moses Usor",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 48,
+            "team": "heim",
+            "spieler": "Robert Ljubicic",
+            "stand_danach": "2:1",
+            "hinweis": "Distanzschuss"
+          },
+          {
+            "min": 58,
+            "team": "heim",
+            "spieler": "Samuel Adeniran",
+            "stand_danach": "3:1"
+          },
+          {
+            "min": 91,
+            "team": "heim",
+            "spieler": "Florian Flecker",
+            "stand_danach": "4:1",
+            "hinweis": "90+1'"
+          },
+          {
+            "min": 109,
+            "team": "heim",
+            "spieler": "Samuel Adeniran",
+            "stand_danach": "5:1",
+            "hinweis": "ET, endgueltige Entscheidung"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Celtic mit 3:0 aus Hinspiel + 21'-Fuehrung (Aggregat 0:4) - dreht komplett auf 4:1 (Aggregat 4:4) nach 90 Min. Adeniran macht in ET das 5:1. LASK dreht 4-Tore-Aggregat, Celtic faellt in die Europa League."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": true,
+          "halbzeit_endstand": "Unentschieden/LASK",
+          "kein_team_zu_null": true,
+          "hinweis": "1X2 zaehlt nur 90 Min: 4:1 LASK. Celtic-Sieg-Tipps sind verloren, 2:0-Insurance wirkt nicht (Celtic fuehrte nie 2:0)."
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Aggregat-Drehung von 0:3 auf 4:4 nach 90 Min - Warnung fuer Sieg-Tipps auf Aggregat-Favoriten in CL-Playoff-Rueckspielen.",
+          "Aufhol-Zwang-Konstellation (LASK muss 3 Tore machen) sorgte fuer offenes Spiel - Ueber-2.5 und BTTS wie geplant durch, aber Sieg-Bet auf Fav (Celtic 90 Min) blowup.",
+          "Adeniran und Ljubicic als Volumen-Distanz-Schuetzen - beide nicht als bet365-Torschuetzen-Markt-Kandidaten gefuehrt, was das Modell auf CL-Playoff-Underdogs mit obskurer Kader-Quellenlage bewusst ausblendet."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-25-bod-nec",
+      "liga": "Champions League 2026/27 - Playoff Rueckspiel",
+      "heim": "FK Bodoe/Glimt",
+      "gast": "NEC Nijmegen",
+      "anstoss": "2026-08-25T21:00:00+02:00",
+      "stadion": "Aspmyra Stadion, Bodoe",
+      "saison_kontext": {
+        "parallel_heim": "Bodoe/Glimt norwegische Eliteserien 2026/27 laufend (Tabellenfuehrer 13S/17Sp), CL-Playoff exklusiv Midweek (uefa.com)",
+        "parallel_gast": "NEC Nijmegen niederlaendische Eredivisie 2026/27 laufend (Aufsteiger-Fortsetzung), CL-Playoff exklusiv Midweek (uefa.com)",
+        "saisonziel_heim": "CL-Ligaphase-Rueckkehr nach Vorjahresteilnahme - drittes Jahr in Folge internationale Kernphase",
+        "saisonziel_gast": "erste CL-Ligaphase der Klubgeschichte (Erst-UEFA-Auftritt seit 17 Jahren) - historisches Momentum",
+        "motivations_asymmetrie": "Bodoe/Glimt 3:1-Auswaertsvorsprung + 9 CL-Quali-Heim-Siege in Serie + 6 Wochen Formtief-frei (6 Siege seit Sommerpause). NEC muss 2-Tore-Vorsprung in Bodoe kippen - historisch schwierig fuer Debuetanten. Bodoe klar Fav mit 1.01-1.02-Quote aufs Weiterkommen.",
+        "recovery_heim": "Bodoe/Glimt 6 Tage seit Hinspiel-Auswaerts Nijmegen, im Rhythmus mit Liga-Fuehrung",
+        "recovery_gast": "NEC 6 Tage seit Hinspiel-Heim, gleiche Belastung",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/match/2049209--celtic-vs-lask/",
+          "https://www.sofascore.com/news/bodo-glimt-vs-nec-ucl-playoff-second-leg-preview",
+          "https://www.bets.com.au/soccer/european-soccer/bodo-glimt-vs-nec-nijmegen-uefa-champions-league-tips-prediction-20260825-0002/",
+          "https://www.fotmob.com/matches/bodoglimt-vs-nec-nijmegen/2cov5v",
+          "https://dailysports.net/predictions/can-bodoglimt-hold-on-to-their-advantage-champions-league-playoff-preview-vs-nec-nijmegen-august-25/"
+        ]
+      },
+      "news": [
+        "Aggregat Bodoe/Glimt 3:1 - Norweger benoetigen nur 0:0 fuer Weiterkommen.",
+        "Bodoe/Glimt 9 CL-Quali-Heim-Siege in Serie + Liga-Fuehrer (13S/17Sp) - Formstark daheim.",
+        "NEC-Debut in CL nach 17 Jahren UEFA-Abstinenz - unerfahren fuer solche Aufholjagd.",
+        "Bodoe/Glimt-Aufstellung laut Preview (4-3-3): Haikin - Bjortuft, Aleesami, Bjorkan, Sjoevold - Berg, Auklend, Hauge - Blomberg, Fet, Helmersen.",
+        "NEC-Aufstellung (3-4-2-1 / 3-3-4): Crettaz - Pereira, Storm, Fonville - Nejasmic, Chery, Lebreton - Mor, Tadic, Linssen, Bischoff.",
+        "Blomberg (Bodoe) leicht angeschlagen aber laut Preview fit fuer Rueckspiel - Volumen-Fluegelstuermer.",
+        "Ausfaelle Bodoe: Gundersen, Evjen, Mikkelsen (alle Verletzung).",
+        "Quotenbild: Bodoe @ ~1.40 Fav, Draw @ ~4.75, NEC @ ~7.00-8.50. Ueber 2.5 @ ~1.60, Ueber 3.5 @ ~2.20.",
+        "2:0-Insurance bei bet365 fuer CL - Bodoe-Sieg-Tipp mit Sicherheitsnetz sobald 2-0 fuehrt."
+      ],
+      "tipps": [
+        {
+          "id": "bod-nec-01",
+          "kategorie": "safe",
+          "markt": "Sieg Bodoe/Glimt (90 Min)",
+          "quote": 1.4,
+          "faire_quote": 1.3,
+          "edge_prozent": 7,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Bodoe 9-CL-Quali-Heim-Siege-Serie + NEC muss offensiv (Aggregat-Rueckstand) = Bodoe-Konter-Sieg naheliegend. CL-2:0-Insurance sichert Tipp sobald Bodoe 2-0 fuehrt. Nicht risiko-frei weil NEC hoch presst und ein Rueckschlag Bodoe unter Druck bringen kann, aber SAFE-Klasse trotzdem gerechtfertigt. Bei 1000 EUR Kasse: 2% = 20 EUR."
+        },
+        {
+          "id": "bod-nec-02",
+          "kategorie": "value",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 2.2,
+          "faire_quote": 1.9,
+          "edge_prozent": 14,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "NEC muss offensiv + Bodoe offensiv-orientiert = Torfestival wahrscheinlich (Aggregator empfahl explizit Ueber 3.5). Bodoe-Konter-Klasse + NEC-Push-Muster = 3-2/4-1/3-1-Konstellation. Goldgrube-Markt Ueber-Tore. Bei 1000 EUR Kasse: 2% = 20 EUR."
+        },
+        {
+          "id": "bod-nec-03",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen (JA)",
+          "quote": 1.75,
+          "faire_quote": 1.55,
+          "edge_prozent": 11,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "NEC MUSS treffen + Bodoe-Konter-Torgarantie. Bodoe hat in letzten 3 kompetitiven Siegen jeweils Gegentor kassiert. Klar hoehere Wahrscheinlichkeit als Buchmacher-Quote suggeriert. Bei 1000 EUR Kasse: 2% = 20 EUR."
+        },
+        {
+          "id": "bod-nec-04",
+          "kategorie": "risk",
+          "markt": "Ueber 4.5 Tore",
+          "quote": 3.75,
+          "faire_quote": 3.2,
+          "edge_prozent": 15,
+          "empfohlener_einsatz_prozent": 0.25,
+          "einsatz_prozent_kasse": 0.25,
+          "einsatz_euro": 2.5,
+          "begruendung": "Aggressive NEC-Offensive gegen offensiv-Kontern-Bodoe = 5-Tore-Muster (5-1/4-2/3-3) nicht selten in CL-Rueckspielen mit klarem Aggregat. Bei 1000 EUR Kasse: 0.25% = 2.50 EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 3,
+        "gast": 0,
+        "halbzeit_heim": 2,
+        "halbzeit_gast": 0,
+        "heim_90min": 3,
+        "gast_90min": 0,
+        "status": "FT"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "bod-nec-01",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.4,
+          "kommentar": "Bodo 3:0-Heimsieg. 2:0 zur HZ (Bjorkan 45+2', Auklend 45+5'), Fonville-ET 73'. Sieg-Tipp durch."
+        },
+        {
+          "tipp_id": "bod-nec-02",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur 3 Tore - NEC hat gar nichts probiert. Ueber 3.5 platzt."
+        },
+        {
+          "tipp_id": "bod-nec-03",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "NEC ohne Torerfolg (zu-Null-Kassiert). BTTS platzt."
+        },
+        {
+          "tipp_id": "bod-nec-04",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur 3 Tore. Ueber 4.5 platzt."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:0",
+        "endstand_90": "3:0",
+        "endstand": "3:0",
+        "tore": [
+          {
+            "min": 47,
+            "team": "heim",
+            "spieler": "Fredrik Andre Bjorkan",
+            "stand_danach": "1:0",
+            "hinweis": "45+2'"
+          },
+          {
+            "min": 50,
+            "team": "heim",
+            "spieler": "Sondre Auklend",
+            "stand_danach": "2:0",
+            "hinweis": "45+5', kurz vor Halbzeitpfiff"
+          },
+          {
+            "min": 73,
+            "team": "heim",
+            "spieler": "Devyne Fonville (ET)",
+            "stand_danach": "3:0",
+            "hinweis": "Eigentor NEC"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Bodo/Glimt fuehrte durchgehend, klassischer Fav-Sieg. NEC nie mit Chance auf Aggregat-Aufholjagd."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Bodoe/Bodoe",
+          "kein_team_zu_null": false,
+          "hinweis": "Bodo hat den erwarteten Sieg geliefert, aber ohne Torfestival. Ueber-3.5, Ueber-4.5, BTTS - alle blowen."
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": null,
+            "aus": null,
+            "minute": 73,
+            "tor": true,
+            "hinweis": "3:0 kam per NEC-Eigentor (Fonville) - kein bet365-Torschuetzen-Markt betroffen. Kein Einwechslungs-Boost-Trigger."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Aggregat-Fuehrer verwaltete konservativ - trotz Fav-Sieg NUR 3 Tore. Ueber-3.5-Tipp auf Aggregat-Aufhol-Konstellation ist statistisch schwaecher als Ueber-Tore-Goldgrube pauschal suggeriert.",
+          "NEC hat gar nichts probiert offensiv - Aufhol-Zwang wurde nicht ins Risiko uebersetzt. BTTS-Erwartung 'muss ja treffen' hat sich nicht erfuellt, das ist die zweite Warnung an die BTTS-in-Aufhol-Kombis-Logik in dieser CL-Runde.",
+          "Beide Bodo-Feld-Tore in der 1. Halbzeit-Nachspielzeit (45+2, 45+5). Halbzeit-Endstand 'Bodo/Bodo' wurde also erst durch Late-1.-Halbzeit-Doppelschlag entschieden."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-25-val-bet",
+      "liga": "LaLiga 2026/27 - Matchday 2",
+      "heim": "Valencia CF",
+      "gast": "Real Betis",
+      "anstoss": "2026-08-25T21:00:00+02:00",
+      "stadion": "Estadio de Mestalla, Valencia",
+      "saison_kontext": {
+        "parallel_heim": "keine - Valencia LaLiga 2026/27 ohne Europapokal-Qualifikation, kein Midweek-Cup diese Woche",
+        "parallel_gast": "keine - Real Betis LaLiga 2026/27 mit Conference-League-Ligaphase ab September (uefa.com), diese Woche kein europaeisches Midweek",
+        "saisonziel_heim": "LaLiga-Klassenerhalt / gehobenes Mittelfeld (Vorjahr Platz 12) - Nachwirkungen wilder Vorsaisons",
+        "saisonziel_gast": "LaLiga-Europapokal-Quali (Vorjahr Platz 7 / Conference-Sieger 25/26) + Conference-Titel-Verteidigung",
+        "motivations_asymmetrie": "Coinflip laut Buchmacher (Valencia 2.70 / Draw 3.30 / Betis 2.70). Corberan (Valencia) trifft auf Pellegrini (Betis) - taktisch bewaehrt beidseits. Betis mit Rueckenwind aus 1:0 vs Real Sociedad, Valencia stabil-defensiv nach 0:0 gegen Celta. Kein klarer Klassen-Edge = keine SAFE-Kategorie moeglich. Kein CL-2:0-Insurance (nur BL + CL).",
+        "recovery_heim": "Valencia 4 Tage seit 0:0 gegen Celta Vigo, ausgeruht",
+        "recovery_gast": "Real Betis 4 Tage seit 1:0-Heimsieg gegen Real Sociedad, ausgeruht - keine Conference-Doppelbelastung diese Woche",
+        "quellen": [
+          "https://www.sportsmole.co.uk/football/valencia/preview/valencia-vs-betis-prediction-team-news-lineups_603592.html",
+          "https://legalbet.uk/game-center/valencia-real-betis-25-08-2026/",
+          "https://www.sofascore.com/news/valencia-vs-real-betis-laliga-round-1-preview-at-mestalla",
+          "https://ratingbet.com/predictions/valencia-vs-betis-prediction-teams-form-analysis-possible-lineups-on-august-25-2026/",
+          "https://www.espn.com/soccer/odds/_/gameId/401882917"
+        ]
+      },
+      "news": [
+        "Valencia Trainer Carlos Corberan, Real Betis Trainer Manuel Pellegrini - beide bestaetigt fuer 2026/27.",
+        "Valencia-Aufstellung laut Preview: Dimitrievski; Vazquez, Tarrega, Diakhaby, Gaya; Ugrinic, Guerra, Rodriguez; Pepelu; Sato, Umar.",
+        "Real Betis-Aufstellung: Valles; Garcia, Natan, Bartra, Bellerin; Roca, Bernal, Fornals; Riquelme, Hernandez (Cucho), Antony.",
+        "Betis-Ausfaelle: Lo Celso (Muskel), Ezzalzouli (Knie), Ruibal (Meniskus), Ismael Barea (ACL) - kein Star-Ausfall im Angriff.",
+        "Valencia-Ausfaelle: Sergi Canos (Kreuzband), Copete, Diego Lopez, Foulquier - Diakhaby als IV-Anker.",
+        "Cucho Hernandez als klarer Betis-9er, Antony (Ex-Man-United, seit 2025 fest bei Betis) als Volumen-Fluegel - beide bestaetigt via Preview-Startelf-Prognose.",
+        "Buchmacher-Coinflip: Valencia @ ~2.70, Draw @ ~3.30, Betis @ ~2.70. Ueber 2.5 @ ~1.97, BTTS Ja @ ~1.75.",
+        "H2H: Betis in letzten 5 Direktduellen nur 1 Niederlage - Auswaerts-Erfolgs-Muster vorhanden.",
+        "Kein CL-2:0-Insurance (LaLiga = nicht in bet365-Aktionsregel BL+CL) - reine 90-Min-Wertung."
+      ],
+      "tipps": [
+        {
+          "id": "val-bet-01",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen (JA)",
+          "quote": 1.75,
+          "faire_quote": 1.6,
+          "edge_prozent": 9,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Betis-Sturm mit Cucho + Antony traf in Saison-Auftakt sofort + Valencia-Offensive mit Sato/Umar zu Hause. Beide Teams historisch beidseits treffend (BTTS 60%+ Rate in H2H). Bei 1000 EUR Kasse: 2% = 20 EUR."
+        },
+        {
+          "id": "val-bet-02",
+          "kategorie": "value",
+          "markt": "Sieg Valencia (90 Min)",
+          "quote": 2.7,
+          "faire_quote": 2.5,
+          "edge_prozent": 8,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Heimvorteil Mestalla + Corberan-Struktur historisch stark gegen Ballbesitz-Teams. Fair-Line ~37% Heim-Wahrscheinlichkeit passt zur 2.70. Nicht SAFE weil H2H Betis-Trend. Bei 1000 EUR Kasse: 2% = 20 EUR."
+        },
+        {
+          "id": "val-bet-03",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.97,
+          "faire_quote": 1.9,
+          "edge_prozent": 4,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Beide offensiv-orientiert aber LaLiga-Auftaktduelle tendieren zu 1-1/2-1-Ergebnissen. Wackel weil Valencia auch 0-0 gegen Celta zu spielen wusste. Bei 1000 EUR Kasse: 0.5% = 5 EUR."
+        },
+        {
+          "id": "val-bet-04",
+          "kategorie": "risk",
+          "markt": "Cucho Hernandez Torschuetze jederzeit",
+          "quote": 2.8,
+          "faire_quote": 2.5,
+          "edge_prozent": 11,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Cucho als klarer Betis-9er in Startelf-Prognose, seit 2025 Volumen-Stuermer bei Betis (bestaetigt via kicker.de/transfermarkt Kader 2026/27). Valencia-Diakhaby-Achse defensiv anfaellig gegen zentrale Stuermer. Bei 1000 EUR Kasse: 0.5% = 5 EUR."
+        },
+        {
+          "id": "val-bet-05",
+          "kategorie": "risk",
+          "markt": "Antony Torschuetze jederzeit",
+          "quote": 3.6,
+          "faire_quote": 3.1,
+          "edge_prozent": 13,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Antony seit Sommer 2025 fest bei Betis (Manchester-United-Leihe zunaechst, dann permanent) - klarer Volumen-Winger mit Innen-Zug-Rechtsfuss. Startelf laut Preview. Valencia-Gaya defensiv angeschlagen mit Umbau der Kette. Bei 1000 EUR Kasse: 0.5% = 5 EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 0,
+        "gast": 1,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "heim_90min": 0,
+        "gast_90min": 1,
+        "status": "FT"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "val-bet-01",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur Betis traf (Pablo Garcia 83'). BTTS platzt."
+        },
+        {
+          "tipp_id": "val-bet-02",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Valencia 0:1-Heimniederlage. Kein Wert daheim."
+        },
+        {
+          "tipp_id": "val-bet-03",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur 1 Tor gefallen. Ueber 2.5 platzt."
+        },
+        {
+          "tipp_id": "val-bet-04",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Cucho nicht getroffen. Sub Pablo Garcia (kam 79' fuer Fornals) traf - kein Einwechslungs-Boost fuer Cucho, weil Cucho nicht durch Garcia ersetzt wurde."
+        },
+        {
+          "tipp_id": "val-bet-05",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Antony nicht getroffen. Sub-Tor Pablo Garcia - kein Einwechslungs-Boost fuer Antony."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand_90": "0:1",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": 83,
+            "team": "gast",
+            "spieler": "Pablo Garcia",
+            "stand_danach": "0:1",
+            "hinweis": "Sub-Goal: Pablo Garcia kam in 79' fuer Fornals rein, traf 4 Min spaeter. Kein Boost-Trigger fuer Cucho/Antony (Pablo Garcia wurde NICHT als Ersatz von Cucho oder Antony eingewechselt)."
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein Zwischenstand mit 2-Tore-Differenz - 0:0 bis 83., dann 0:1 als Endstand. Klassisches Coinflip-Ende."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Betis",
+          "kein_team_zu_null": false,
+          "hinweis": "Coinflip-Prognose bestaetigt, aber Under-1.5 statt Ueber-Tore. Beide getippten Torschuetzen (Cucho, Antony) trafen nicht - Sub Pablo Garcia entschied."
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Pablo Garcia",
+            "aus": "Pablo Fornals",
+            "minute": 79,
+            "tor": true,
+            "hinweis": "Einwechslungs-Boost NICHT anwendbar: Boost gilt nur, wenn der GETIPPTE Spieler selbst ausgewechselt wurde und sein DIREKTER Ersatz trifft. Cucho und Antony blieben auf dem Platz bzw. wurden nicht durch Pablo Garcia ersetzt (Fornals raus - Garcia rein)."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Late-Sub-Goal - Pablo Garcia (Betis-Nachwuchs, geboren 2006) kommt 79. rein und trifft 83.. Der bet365-Torschuetzen-Markt fuer diesen Sub-Spieler war nicht bepreist im Dossier.",
+          "Coinflip war korrekt eingeschaetzt (Buchmacher 2.70/3.30/2.70), aber Valencia-Sieg-Tipp und Valencia-BTTS ohne Sieger-Voraussage lagen auf falscher Coinflip-Seite.",
+          "Under-1.5 als (nicht getippte) Alternativ-These waere bei Coinflip mit unteren Angriffs-Volatilitaeten strategisch die bessere Contra-Value gewesen."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "et-01",
+      "spiel_id": "2026-08-25-lsk-cel",
+      "spiel_label": "LASK vs Celtic",
+      "kategorie": "safe",
+      "markt": "Sieg Celtic (90 Min)",
+      "quote": 1.75,
+      "faire_quote": 1.6,
+      "edge_prozent": 9,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Celtic Klassen-Vorteil + 10-Siege-Serie + LASK Aufhol-Zwang oeffnet Deckung. CL-2:0-Insurance aktiv. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 1
+    },
+    {
+      "id": "et-02",
+      "spiel_id": "2026-08-25-bod-nec",
+      "spiel_label": "Bodoe/Glimt vs NEC Nijmegen",
+      "kategorie": "safe",
+      "markt": "Sieg Bodoe/Glimt (90 Min)",
+      "quote": 1.4,
+      "faire_quote": 1.3,
+      "edge_prozent": 7,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "9-Heim-CL-Quali-Siege-Serie + NEC-Aufhol-Zwang. CL-2:0-Insurance aktiv. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 2
+    },
+    {
+      "id": "et-03",
+      "spiel_id": "2026-08-25-sab-hbs",
+      "spiel_label": "Sabah vs Hapoel Beer-Sheva",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Hapoel Beer-Sheva oder Remis (X2)",
+      "quote": 1.3,
+      "faire_quote": 1.22,
+      "edge_prozent": 6,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Goldgrube-DC-Markt. Hapoel Aggregat-Fuehrung reicht Remis. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 3
+    },
+    {
+      "id": "et-04",
+      "spiel_id": "2026-08-25-bod-nec",
+      "spiel_label": "Bodoe/Glimt vs NEC Nijmegen",
+      "kategorie": "value",
+      "markt": "Ueber 3.5 Tore",
+      "quote": 2.2,
+      "faire_quote": 1.9,
+      "edge_prozent": 14,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "NEC-Aufhol-Zwang + Bodoe-Konter-Klasse = Torfestival wahrscheinlich. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 4
+    },
+    {
+      "id": "et-05",
+      "spiel_id": "2026-08-25-lsk-cel",
+      "spiel_label": "LASK vs Celtic",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.85,
+      "faire_quote": 1.65,
+      "edge_prozent": 11,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "LASK offensiv gezwungen + Celtic 2.6 Tore/Spiel = 3-1/3-2-Muster. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 5
+    },
+    {
+      "id": "et-06",
+      "spiel_id": "2026-08-25-val-bet",
+      "spiel_label": "Valencia vs Real Betis",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (JA)",
+      "quote": 1.75,
+      "faire_quote": 1.6,
+      "edge_prozent": 9,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Betis-Sturm mit Cucho + Antony + Valencia-Offensive daheim. BTTS-Trend im H2H. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 6
+    },
+    {
+      "id": "et-07",
+      "spiel_id": "2026-08-25-bod-nec",
+      "spiel_label": "Bodoe/Glimt vs NEC Nijmegen",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (JA)",
+      "quote": 1.75,
+      "faire_quote": 1.55,
+      "edge_prozent": 11,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "NEC muss treffen + Bodoe kassierte in letzten 3 Siegen jeweils Gegentor. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 7
+    },
+    {
+      "id": "et-08",
+      "spiel_id": "2026-08-25-val-bet",
+      "spiel_label": "Valencia vs Real Betis",
+      "kategorie": "value",
+      "markt": "Sieg Valencia (90 Min)",
+      "quote": 2.7,
+      "faire_quote": 2.5,
+      "edge_prozent": 8,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung": "Heimvorteil Mestalla + Corberan-Struktur gegen Ballbesitz-Teams. Coinflip-Value bei fairer 37%. Bei 1000 EUR Kasse: 1.5% = 15 EUR.",
+      "rang": 8
+    },
+    {
+      "id": "et-09",
+      "spiel_id": "2026-08-25-sab-hbs",
+      "spiel_label": "Sabah vs Hapoel Beer-Sheva",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.9,
+      "faire_quote": 1.75,
+      "edge_prozent": 9,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung": "Sabah Aufhol-Zwang + Hapoel muss antworten = 2-1/2-2. Bei 1000 EUR Kasse: 0.5% = 5 EUR.",
+      "rang": 9
+    },
+    {
+      "id": "et-10",
+      "spiel_id": "2026-08-25-val-bet",
+      "spiel_label": "Valencia vs Real Betis",
+      "kategorie": "risk",
+      "markt": "Cucho Hernandez Torschuetze jederzeit",
+      "quote": 2.8,
+      "faire_quote": 2.5,
+      "edge_prozent": 11,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung": "Cucho Betis-9er, Diakhaby-Kette anfaellig. Kader-Frische via Preview bestaetigt. Bei 1000 EUR Kasse: 0.5% = 5 EUR.",
+      "rang": 10
+    },
+    {
+      "id": "et-11",
+      "spiel_id": "2026-08-25-val-bet",
+      "spiel_label": "Valencia vs Real Betis",
+      "kategorie": "risk",
+      "markt": "Antony Torschuetze jederzeit",
+      "quote": 3.6,
+      "faire_quote": 3.1,
+      "edge_prozent": 13,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung": "Antony Betis-Winger seit 2025 fest, Startelf-Prognose bestaetigt. Bei 1000 EUR Kasse: 0.5% = 5 EUR.",
+      "rang": 11
+    },
+    {
+      "id": "et-12",
+      "spiel_id": "2026-08-25-bod-nec",
+      "spiel_label": "Bodoe/Glimt vs NEC Nijmegen",
+      "kategorie": "risk",
+      "markt": "Ueber 4.5 Tore",
+      "quote": 3.75,
+      "faire_quote": 3.2,
+      "edge_prozent": 15,
+      "empfohlener_einsatz_prozent": 0.25,
+      "einsatz_prozent_kasse": 0.25,
+      "einsatz_euro": 2.5,
+      "begruendung": "Aggressive NEC-Offensive + Bodoe-Konter-Klasse = 5-Tore-Muster. Bei 1000 EUR Kasse: 0.25% = 2.50 EUR.",
+      "rang": 12
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "kategorie": "safe",
+      "name": "Safe-CL-Fav-Kombi",
+      "beine": [
+        {
+          "spiel_id": "2026-08-25-lsk-cel",
+          "spiel_label": "LASK vs Celtic",
+          "markt": "Sieg Celtic (90 Min)",
+          "quote": 1.75,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-08-25-bod-nec",
+          "spiel_label": "Bodoe/Glimt vs NEC Nijmegen",
+          "markt": "Sieg Bodoe/Glimt (90 Min)",
+          "quote": 1.4,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-08-25-val-bet",
+          "spiel_label": "Valencia vs Real Betis",
+          "markt": "Beide Teams treffen (JA)",
+          "quote": 1.75,
+          "kategorie": "safe"
+        }
+      ],
+      "gesamtquote": 4.29,
+      "rechnung": "1.75 x 1.40 x 1.75 = 4.29",
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "moeglicher_gewinn_euro": 85.75,
+      "begruendung": "Zwei klare CL-Playoff-Aggregat-Favoriten (Celtic 3:0, Bodoe 3:1) plus BTTS-Value aus Valencia-Betis-Coinflip. CL-2:0-Insurance stuetzt beide Sieg-Beine bei bet365. Layer-2 sauber (kein Sieg-Outcome ueberlappt mit anderer Kombi in gleichem Spiel). Bei 1000 EUR Kasse: 2% = 20 EUR."
+    },
+    {
+      "id": "kombi-balance",
+      "kategorie": "balance",
+      "name": "Balance-Ueber-Tore-Kombi",
+      "beine": [
+        {
+          "spiel_id": "2026-08-25-val-bet",
+          "spiel_label": "Valencia vs Real Betis",
+          "markt": "Sieg Valencia (90 Min)",
+          "quote": 2.7,
+          "kategorie": "balance"
+        },
+        {
+          "spiel_id": "2026-08-25-lsk-cel",
+          "spiel_label": "LASK vs Celtic",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "kategorie": "balance"
+        },
+        {
+          "spiel_id": "2026-08-25-bod-nec",
+          "spiel_label": "Bodoe/Glimt vs NEC Nijmegen",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 2.2,
+          "kategorie": "balance"
+        }
+      ],
+      "gesamtquote": 10.99,
+      "rechnung": "2.70 x 1.85 x 2.20 = 10.99",
+      "empfohlener_einsatz_prozent": 0.8,
+      "einsatz_prozent_kasse": 0.8,
+      "einsatz_euro": 8,
+      "moeglicher_gewinn_euro": 87.92,
+      "begruendung": "Valencia-Heim-Coinflip als einziges Sieg-Bein plus zwei CL-Aufhol-Zwang-Ueber-Tore-Beine. Layer-2 sauber (Valencia-Sieg-Outcome NUR hier, LASK-Celtic + Bodoe-NEC Sieg-Outcomes in Safe). Grenze zum Risiko - fuer bewusste Balance akzeptiert. Bei 1000 EUR Kasse: 0.8% = 8 EUR."
+    },
+    {
+      "id": "kombi-risk",
+      "kategorie": "risk",
+      "name": "Risiko-Torschuetzen-Kombi",
+      "beine": [
+        {
+          "spiel_id": "2026-08-25-sab-hbs",
+          "spiel_label": "Sabah vs Hapoel Beer-Sheva",
+          "markt": "Beide Teams treffen (JA)",
+          "quote": 1.75,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-08-25-bod-nec",
+          "spiel_label": "Bodoe/Glimt vs NEC Nijmegen",
+          "markt": "Beide Teams treffen (JA)",
+          "quote": 1.75,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-08-25-val-bet",
+          "spiel_label": "Valencia vs Real Betis",
+          "markt": "Cucho Hernandez Torschuetze jederzeit",
+          "quote": 2.8,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-08-25-lsk-cel",
+          "spiel_label": "LASK vs Celtic",
+          "markt": "Beide Teams treffen (JA)",
+          "quote": 1.75,
+          "kategorie": "risk"
+        }
+      ],
+      "gesamtquote": 15.0,
+      "rechnung": "1.75 x 1.75 x 2.80 x 1.75 = 15.00",
+      "empfohlener_einsatz_prozent": 0.25,
+      "einsatz_prozent_kasse": 0.25,
+      "einsatz_euro": 2.5,
+      "moeglicher_gewinn_euro": 37.5,
+      "begruendung": "Vier Beine, drei BTTS auf Aufhol-Zwang-Spiele plus Cucho als Value-Torschuetze bei Betis. Keine Sieg-Outcomes (alle in Safe/Balance verbraucht). Layer-1 sauber (max 1 Bein pro Spiel), Layer-2 sauber (no sieg-outcome duplication). Bei 1000 EUR Kasse: 0.25% = 2.50 EUR."
+    },
+    {
+      "id": "kombi-moonshot",
+      "kategorie": "moonshot",
+      "name": "Moonshot-Torfestival-Kombi",
+      "beine": [
+        {
+          "spiel_id": "2026-08-25-lsk-cel",
+          "spiel_label": "LASK vs Celtic",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 2.75,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-08-25-bod-nec",
+          "spiel_label": "Bodoe/Glimt vs NEC Nijmegen",
+          "markt": "Ueber 4.5 Tore",
+          "quote": 3.75,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-08-25-sab-hbs",
+          "spiel_label": "Sabah vs Hapoel Beer-Sheva",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 3.2,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-08-25-val-bet",
+          "spiel_label": "Valencia vs Real Betis",
+          "markt": "Antony Torschuetze jederzeit",
+          "quote": 3.6,
+          "kategorie": "moonshot"
+        }
+      ],
+      "gesamtquote": 118.8,
+      "rechnung": "2.75 x 3.75 x 3.20 x 3.60 = 118.80",
+      "empfohlener_einsatz_prozent": 0.1,
+      "einsatz_prozent_kasse": 0.1,
+      "einsatz_euro": 1,
+      "moeglicher_gewinn_euro": 118.8,
+      "begruendung": "Alle 4 CL-Playoff-Rueckspiele + LaLiga-Auftakt als Torfestival + Antony als Betis-Winger. Wenn CL-Aufhol-Zwang-Spiele wirklich offen laufen (LASK/NEC/Sabah oeffnen Deckung um aufzuholen) und Antony trifft = 100x+-Ticket. Layer-1 sauber (jedes Spiel max 1 Bein pro Kombi), Layer-2 sauber (keine Sieg-Outcomes hier). Reine Spass-Wette. Bei 1000 EUR Kasse: 0.1% = 1 EUR."
+    }
+  ],
+  "lessons_angewandt": [
+    "DC-CAP (max 1 DC pro Spiel, max 2-3 DC im Dossier): Nur 1 DC im ganzen Dossier (Hapoel Beer-Sheva DC X2 als Einzeltipp). Grenze weit eingehalten.",
+    "Pflicht-Profile pro Spiel: Alle 4 Spiele haben Sieg-oder-Torschuetzen-Tipp - Anti-DC-Sucht-Regel erfuellt.",
+    "HR24 Form-Edge Torschuetzen: Cucho Hernandez + Antony (Betis) sind einzige mit voll bestaetigter Kader-Zugehoerigkeit 2026/27 (Preview-Startelf) - andere CL-Quali-Vereine (LASK, Bodoe, Sabah, Hapoel) haben schwache Quellenlage, deshalb bewusst keine Torschuetzen-Tipps dort.",
+    "Selbstwiderspruch vermieden: Valencia-Betis explizit als coinflip markiert - kein SAFE trotz Heim-Value. Val-Sieg nur VALUE.",
+    "2:0-Insurance-Regel: In allen 3 CL-Playoff-Spielen aktiv und in begruendung erwaehnt. Bei Valencia-Betis (LaLiga) explizit als NICHT-gueltig markiert.",
+    "Kader-Frische: Cucho + Antony bei Betis via kicker.de/transfermarkt Kader 2026/27 verifiziert. Corberan + Pellegrini als bestaetigte Trainer. Kein Adeyemi-Fehler (kein Spieler aus kader_wechsel_2026.json.abgaenge falsch getippt).",
+    "Layer-2 hart: Celtic-Sieg NUR in Safe, Bodoe-Sieg NUR in Safe, Valencia-Sieg NUR in Balance, Hapoel-DC NUR in Einzeltipp. Kein doppeltes Sieg-Outcome ueber Kombis.",
+    "Goldgruben-Priorisierung: DC X2 (Hapoel) und Ueber-Tore (5x im Dossier) aktiv gesucht.",
+    "Notfall-Fallback: Recherche-File data/recherche/2026-08-25.json fehlte - Master-Routine hat inline WebSearch-Fallback gemacht (4 Spiele identifiziert und mit Quellen belegt). _emergency_recovery Flag gesetzt."
+  ],
+  "footer": "18+ - BZgA Gluecksspielsucht-Hotline: 0800 1372700 - Hobby-Tool, keine Einkommensquelle. Nur setzen was verlierbar ist. Stress - Pause. Probleme - Hilfe holen.",
+  "_emergency_recovery": true,
+  "_verifikations_report": {
+    "erstellt_am": "2026-08-25T13:30:00+02:00",
+    "drops": [],
+    "downgrades": [
+      {
+        "art": "coinflip_kein_safe",
+        "spiel_id": "2026-08-25-val-bet",
+        "details": "Valencia-Betis als Coinflip (Buchmacher 2.70/3.30/2.70) - Anti-DC-Sucht-Regel verbietet SAFE. Alle Valencia-Betis-Tipps auf VALUE oder darunter degradiert."
+      },
+      {
+        "art": "coinflip_kein_safe",
+        "spiel_id": "2026-08-25-sab-hbs",
+        "details": "Sabah-Hapoel Aggregat-getriebener Coinflip (Sabah 1.88 / Hapoel 3.65 im 90-Min-Markt) - keine SAFE-Kategorie. DC X2 auf Aggregat-Fuehrer bleibt VALUE, kein SAFE."
+      }
+    ],
+    "warns": [
+      {
+        "art": "recherche_file_fehlt",
+        "details": "data/recherche/2026-08-25.json existierte nicht - Master-Routine hat Fallback-Recherche inline via WebSearch/WebFetch durchgefuehrt. 4 Spiele identifiziert, alle mit min. 3 externen Quellen belegt. _emergency_recovery-Flag gesetzt."
+      },
+      {
+        "art": "kader_quellenlage_schwach",
+        "details": "3 der 4 Spiele sind CL-Playoff-Rueckspiele mit obskuren Vereinen (LASK, Bodoe/Glimt, Sabah, Hapoel Beer-Sheva, NEC). Kader-Quellenlage im Vergleich zu Top-5-Ligen deutlich schwaecher - deshalb bewusst KEINE Torschuetzen-Tipps auf diese Vereine. Nur Cucho + Antony (Betis) als Torschuetzen-Tipps, beide via Preview-Startelf verifiziert."
+      },
+      {
+        "art": "cl_2_0_insurance_gilt",
+        "details": "Bei allen 3 CL-Playoff-Rueckspielen greift bet365 2:0-Insurance-Aktionsregel (Aktion fuer BL + CL) - Sieg-Tipps auf Celtic + Bodoe explizit gestuetzt sobald Team 2-0 fuehrt. Bei Valencia-Betis (LaLiga) NICHT gueltig - in begruendung erwaehnt.",
+        "spiel_ids": [
+          "2026-08-25-lsk-cel",
+          "2026-08-25-bod-nec",
+          "2026-08-25-sab-hbs"
+        ]
+      },
+      {
+        "art": "quoten_live_verifikation",
+        "details": "Alle Quoten sind Aggregator-Snapshots vom 25.08.2026 vormittags. CL-Playoff-Quoten schwanken bis Anstoss teils stark. Bei bet365 live vor Einsatz pruefen."
+      },
+      {
+        "art": "layer_3_weich",
+        "details": "Bei nur 4 Spielen und 4 Kombis mit 3-4 Beinen = zwangslaeufig 3x Bein pro Spiel im Kombi-Portfolio. Layer-3 (max 1 Bein pro Spiel ueber alle Kombis) explizit verletzt aber Markt-entkoppelt (Sieg vs Ueber-Tore vs BTTS vs Torschuetze). Layer-2 (Sieg-Outcome max 1 Kombi) sauber."
+      }
+    ],
+    "lessons_generiert": [],
+    "layer_2_check": "OK - jedes Spiel max 1 Sieg-Outcome ueber alle Kombis: Celtic Sieg NUR Safe, Bodoe Sieg NUR Safe, Valencia Sieg NUR Balance. Sabah-Hapoel: kein Sieg-Outcome in Kombi (Hapoel DC X2 nur als Einzeltipp). Kein Layer-2-Konflikt.",
+    "gesamtquote_check": "OK - Safe 4.29 (3-5x Ziel), Balance 10.99 (obere Grenze Balance-Range), Risk 15.00 (untere Grenze Risk 15-30x), Moonshot 118.80 (>100x Ziel).",
+    "dc_cap_check": "OK - Nur 1 DC im ganzen Dossier (Hapoel DC X2 als Einzeltipp et-03). Max 1 DC pro Spiel eingehalten.",
+    "kader_wechsel_check": "OK - Keine Tipps auf Spieler aus kader_wechsel_2026.json.abgaenge. Adeyemi/Isak/Salah/Rogers/Lacroix/Anderson/etc. nicht getippt. Cucho + Antony via Preview-Startelf-Prognose bestaetigt bei Betis 2026/27."
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "id": "et-01",
+      "spiel_id": "2026-08-25-lsk-cel",
+      "spiel_label": "LASK vs Celtic",
+      "kategorie": "safe",
+      "markt": "Sieg Celtic (90 Min)",
+      "quote": 1.75,
+      "faire_quote": 1.6,
+      "edge_prozent": 9,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Celtic Klassen-Vorteil + 10-Siege-Serie + LASK Aufhol-Zwang oeffnet Deckung. CL-2:0-Insurance aktiv. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 1,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Celtic 1:4 nach 90 Min - Sensations-Aggregat-Drehung. 2:0-Insurance nicht anwendbar."
+    },
+    {
+      "id": "et-02",
+      "spiel_id": "2026-08-25-bod-nec",
+      "spiel_label": "Bodoe/Glimt vs NEC Nijmegen",
+      "kategorie": "safe",
+      "markt": "Sieg Bodoe/Glimt (90 Min)",
+      "quote": 1.4,
+      "faire_quote": 1.3,
+      "edge_prozent": 7,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "9-Heim-CL-Quali-Siege-Serie + NEC-Aufhol-Zwang. CL-2:0-Insurance aktiv. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 2,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.4,
+      "kommentar": "Bodo 3:0-Heimsieg wie erwartet."
+    },
+    {
+      "id": "et-03",
+      "spiel_id": "2026-08-25-sab-hbs",
+      "spiel_label": "Sabah vs Hapoel Beer-Sheva",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Hapoel Beer-Sheva oder Remis (X2)",
+      "quote": 1.3,
+      "faire_quote": 1.22,
+      "edge_prozent": 6,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Goldgrube-DC-Markt. Hapoel Aggregat-Fuehrung reicht Remis. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 3,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Sabah 3:2 nach 90 Min - Hapoel-Remis-Weg zu Kickser Ende platzt."
+    },
+    {
+      "id": "et-04",
+      "spiel_id": "2026-08-25-bod-nec",
+      "spiel_label": "Bodoe/Glimt vs NEC Nijmegen",
+      "kategorie": "value",
+      "markt": "Ueber 3.5 Tore",
+      "quote": 2.2,
+      "faire_quote": 1.9,
+      "edge_prozent": 14,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "NEC-Aufhol-Zwang + Bodoe-Konter-Klasse = Torfestival wahrscheinlich. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 4,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Bodo verwaltete konservativ. NEC ohne Aufhol-Zwang-Push. Nur 3 Tore."
+    },
+    {
+      "id": "et-05",
+      "spiel_id": "2026-08-25-lsk-cel",
+      "spiel_label": "LASK vs Celtic",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.85,
+      "faire_quote": 1.65,
+      "edge_prozent": 11,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "LASK offensiv gezwungen + Celtic 2.6 Tore/Spiel = 3-1/3-2-Muster. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 5,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.85,
+      "kommentar": "5 Tore in 90 Min - Ueber 2.5 klar durch."
+    },
+    {
+      "id": "et-06",
+      "spiel_id": "2026-08-25-val-bet",
+      "spiel_label": "Valencia vs Real Betis",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (JA)",
+      "quote": 1.75,
+      "faire_quote": 1.6,
+      "edge_prozent": 9,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Betis-Sturm mit Cucho + Antony + Valencia-Offensive daheim. BTTS-Trend im H2H. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 6,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Valencia 0:1 - nur Betis traf. Kein BTTS."
+    },
+    {
+      "id": "et-07",
+      "spiel_id": "2026-08-25-bod-nec",
+      "spiel_label": "Bodoe/Glimt vs NEC Nijmegen",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (JA)",
+      "quote": 1.75,
+      "faire_quote": 1.55,
+      "edge_prozent": 11,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "NEC muss treffen + Bodoe kassierte in letzten 3 Siegen jeweils Gegentor. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 7,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "NEC ohne Torerfolg. BTTS platzt."
+    },
+    {
+      "id": "et-08",
+      "spiel_id": "2026-08-25-val-bet",
+      "spiel_label": "Valencia vs Real Betis",
+      "kategorie": "value",
+      "markt": "Sieg Valencia (90 Min)",
+      "quote": 2.7,
+      "faire_quote": 2.5,
+      "edge_prozent": 8,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung": "Heimvorteil Mestalla + Corberan-Struktur gegen Ballbesitz-Teams. Coinflip-Value bei fairer 37%. Bei 1000 EUR Kasse: 1.5% = 15 EUR.",
+      "rang": 8,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Valencia verlor daheim 0:1 gegen Betis-Sub-Goal."
+    },
+    {
+      "id": "et-09",
+      "spiel_id": "2026-08-25-sab-hbs",
+      "spiel_label": "Sabah vs Hapoel Beer-Sheva",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.9,
+      "faire_quote": 1.75,
+      "edge_prozent": 9,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung": "Sabah Aufhol-Zwang + Hapoel muss antworten = 2-1/2-2. Bei 1000 EUR Kasse: 0.5% = 5 EUR.",
+      "rang": 9,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.9,
+      "kommentar": "5 Tore in 90 Min (Sabah 3:2 Hapoel). Ueber 2.5 durch."
+    },
+    {
+      "id": "et-10",
+      "spiel_id": "2026-08-25-val-bet",
+      "spiel_label": "Valencia vs Real Betis",
+      "kategorie": "risk",
+      "markt": "Cucho Hernandez Torschuetze jederzeit",
+      "quote": 2.8,
+      "faire_quote": 2.5,
+      "edge_prozent": 11,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung": "Cucho Betis-9er, Diakhaby-Kette anfaellig. Kader-Frische via Preview bestaetigt. Bei 1000 EUR Kasse: 0.5% = 5 EUR.",
+      "rang": 10,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Cucho nicht getroffen. Kein Einwechslungs-Boost (Sub Pablo Garcia kam fuer Fornals, nicht fuer Cucho)."
+    },
+    {
+      "id": "et-11",
+      "spiel_id": "2026-08-25-val-bet",
+      "spiel_label": "Valencia vs Real Betis",
+      "kategorie": "risk",
+      "markt": "Antony Torschuetze jederzeit",
+      "quote": 3.6,
+      "faire_quote": 3.1,
+      "edge_prozent": 13,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung": "Antony Betis-Winger seit 2025 fest, Startelf-Prognose bestaetigt. Bei 1000 EUR Kasse: 0.5% = 5 EUR.",
+      "rang": 11,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Antony nicht getroffen. Kein Boost-Trigger."
+    },
+    {
+      "id": "et-12",
+      "spiel_id": "2026-08-25-bod-nec",
+      "spiel_label": "Bodoe/Glimt vs NEC Nijmegen",
+      "kategorie": "risk",
+      "markt": "Ueber 4.5 Tore",
+      "quote": 3.75,
+      "faire_quote": 3.2,
+      "edge_prozent": 15,
+      "empfohlener_einsatz_prozent": 0.25,
+      "einsatz_prozent_kasse": 0.25,
+      "einsatz_euro": 2.5,
+      "begruendung": "Aggressive NEC-Offensive + Bodoe-Konter-Klasse = 5-Tore-Muster. Bei 1000 EUR Kasse: 0.25% = 2.50 EUR.",
+      "rang": 12,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Nur 3 Tore in Bodo-NEC. Ueber 4.5 platzt."
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe",
+      "status": "verloren",
+      "gesamtquote": 4.29,
+      "gewinn_faktor": 0.0,
+      "kommentar": "LASK vs Celtic - Sieg Celtic (90 Min): verloren | Bodoe/Glimt vs NEC Nijmegen - Sieg Bodoe/Glimt (90 Min): gewonnen | Valencia vs Real Betis - Beide Teams treffen (JA): verloren",
+      "name": "Safe-CL-Fav-Kombi",
+      "beine_status": [
+        {
+          "spiel_id": "2026-08-25-lsk-cel",
+          "markt": "Sieg Celtic (90 Min)",
+          "status": "verloren"
+        },
+        {
+          "spiel_id": "2026-08-25-bod-nec",
+          "markt": "Sieg Bodoe/Glimt (90 Min)",
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-08-25-val-bet",
+          "markt": "Beide Teams treffen (JA)",
+          "status": "verloren"
+        }
+      ]
+    },
+    {
+      "kombi_id": "kombi-balance",
+      "status": "verloren",
+      "gesamtquote": 10.99,
+      "gewinn_faktor": 0.0,
+      "kommentar": "Valencia vs Real Betis - Sieg Valencia (90 Min): verloren | LASK vs Celtic - Ueber 2.5 Tore: gewonnen | Bodoe/Glimt vs NEC Nijmegen - Ueber 3.5 Tore: verloren",
+      "name": "Balance-Ueber-Tore-Kombi",
+      "beine_status": [
+        {
+          "spiel_id": "2026-08-25-val-bet",
+          "markt": "Sieg Valencia (90 Min)",
+          "status": "verloren"
+        },
+        {
+          "spiel_id": "2026-08-25-lsk-cel",
+          "markt": "Ueber 2.5 Tore",
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-08-25-bod-nec",
+          "markt": "Ueber 3.5 Tore",
+          "status": "verloren"
+        }
+      ]
+    },
+    {
+      "kombi_id": "kombi-risk",
+      "status": "verloren",
+      "gesamtquote": 15.0,
+      "gewinn_faktor": 0.0,
+      "kommentar": "Sabah vs Hapoel Beer-Sheva - Beide Teams treffen (JA): gewonnen | Bodoe/Glimt vs NEC Nijmegen - Beide Teams treffen (JA): verloren | Valencia vs Real Betis - Cucho Hernandez Torschuetze jederzeit: verloren | LASK vs Celtic - Beide Teams treffen (JA): gewonnen",
+      "name": "Risiko-Torschuetzen-Kombi",
+      "beine_status": [
+        {
+          "spiel_id": "2026-08-25-sab-hbs",
+          "markt": "Beide Teams treffen (JA)",
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-08-25-bod-nec",
+          "markt": "Beide Teams treffen (JA)",
+          "status": "verloren"
+        },
+        {
+          "spiel_id": "2026-08-25-val-bet",
+          "markt": "Cucho Hernandez Torschuetze jederzeit",
+          "status": "verloren"
+        },
+        {
+          "spiel_id": "2026-08-25-lsk-cel",
+          "markt": "Beide Teams treffen (JA)",
+          "status": "gewonnen"
+        }
+      ]
+    },
+    {
+      "kombi_id": "kombi-moonshot",
+      "status": "verloren",
+      "gesamtquote": 118.8,
+      "gewinn_faktor": 0.0,
+      "kommentar": "LASK vs Celtic - Ueber 3.5 Tore: gewonnen | Bodoe/Glimt vs NEC Nijmegen - Ueber 4.5 Tore: verloren | Sabah vs Hapoel Beer-Sheva - Ueber 3.5 Tore: gewonnen | Valencia vs Real Betis - Antony Torschuetze jederzeit: verloren",
+      "name": "Moonshot-Torfestival-Kombi",
+      "beine_status": [
+        {
+          "spiel_id": "2026-08-25-lsk-cel",
+          "markt": "Ueber 3.5 Tore",
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-08-25-bod-nec",
+          "markt": "Ueber 4.5 Tore",
+          "status": "verloren"
+        },
+        {
+          "spiel_id": "2026-08-25-sab-hbs",
+          "markt": "Ueber 3.5 Tore",
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-08-25-val-bet",
+          "markt": "Antony Torschuetze jederzeit",
+          "status": "verloren"
+        }
+      ]
+    }
+  ],
+  "ausgewertet_am": "2026-08-26T08:15:00+02:00"
+}

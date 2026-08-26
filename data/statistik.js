@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-08-25T06:16:42+00:00",
+  "letzte_berechnung": "2026-08-26T06:36:46+00:00",
   "gesamt": {
     "tipps": 429,
     "gewonnen": 222,
@@ -24,15 +24,15 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 20.2
   },
   "letzte_90_tage": {
-    "tipps": 422,
-    "gewonnen": 219,
-    "verloren": 191,
+    "tipps": 418,
+    "gewonnen": 216,
+    "verloren": 190,
     "push": 1,
     "offen": 11,
-    "einsatz": 411.0,
-    "netto": 29.85,
-    "trefferquote": 53.4,
-    "roi_prozent": 7.3
+    "einsatz": 407.0,
+    "netto": 28.92,
+    "trefferquote": 53.2,
+    "roi_prozent": 7.1
   },
   "nach_liga": {
     "Bundesliga Relegation": {
@@ -4297,6 +4297,143 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-08-25",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-CL-Fav-Kombi",
+          "kategorie": "safe",
+          "gesamtquote": 4.29,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Celtic (90 Min)",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Bodoe/Glimt (90 Min)",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen (JA)",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Ueber-Tore-Kombi",
+          "kategorie": "balance",
+          "gesamtquote": 10.99,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Valencia (90 Min)",
+              "quote": 2.7,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Torschuetzen-Kombi",
+          "kategorie": "risk",
+          "gesamtquote": 15.0,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Beide Teams treffen (JA)",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen (JA)",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Cucho Hernandez Torschuetze jederzeit",
+              "quote": 2.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen (JA)",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Torfestival-Kombi",
+          "kategorie": "moonshot",
+          "gesamtquote": 118.8,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 2.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 4.5 Tore",
+              "quote": 3.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Antony Torschuetze jederzeit",
+              "quote": 3.6,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-08-24",
       "gesamt": {
