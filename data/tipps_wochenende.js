@@ -1,757 +1,543 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
-  "datum": "2026-08-22",
-  "erstellt_am": "2026-08-20T19:15:00+02:00",
-  "hinweis": "🐚 Wochenend-Vorschau Sa 22.08. + So 23.08.2026 (Watchdog-Recovery-Routine, Do 19:15 Berlin - Hauptroutine 18:00 nicht durch). Slate: DFB-Pokal 1. Runde Wochenende + PL Matchweek 1 Auftakt + LaLiga J2 + Serie A MD1 (Saisonstart!) + Ligue 1 J1 (Saisonstart!). Fokus 8 Top-Spiele, BEST-OF vs. Volumen. Kasse-Stufe 1 (Saison-Kasse 1000€). LaLiga = Goldgrube-Liga (+57% ROI n=6). PL n=25 rolling -25% ROI - konsens-skeptisch. Post-WM-Ruhepause-Doktrin HR08-13-1 33 Tage nach WM-Finale nicht mehr blockierend, aber Torschuetzen-Startelf-Verifikation nah am Kick-off nach HR08-19-1 (Maeda-Transfer-Falle) empfohlen. · NACHTRAG 22.08.: Franz-Beckenbauer-Supercup Dortmund - Bayern (Sa 20:30) fehlte im Erst-Lauf und ist ergaenzt. Alle Einsaetze auf die Saison-Kasse 1000€ umgerechnet (Stufe 1).",
+  "datum": "2026-08-29",
+  "erstellt_am": "2026-08-27T18:05:00+02:00",
+  "modus": "wochenende",
+  "hinweis": "🐚 Wochenend-Vorschau Sa 29.08. + So 30.08.2026 (Do 18:00, Saison 2026/27). Slate: Bundesliga MATCHDAY 1 (Saisonstart!) + Premier League MW2 + Serie A MD2 + LaLiga J3. Fokus: 8 Handverlesene Top-Spiele, Best-of statt Volumen. Kasse-Stufe 1 (Saison-Kasse 1000€, 1-2% pro Einzeltipp). Auftakts-Kontext: Kader-Fluktuation gross - Salah/Isak/Konate weg von Liverpool (Isak jetzt Liverpool!), Newcastle-Grosskader gutgeraeumt (Isak/Gordon/Tonali/Guimaraes weg), Adeyemi/Nathaniel Brown weg von BVB/Frankfurt, Milan/Napoli haben Ramos/Lukaku gedreht. HR22 Anti-STAR-OUT beachten, HR24 Torschuetzen-Form-Pflicht - deshalb wenige harte Torschuetzen-SAFE. Markt-Goldgrube DC X2 (76% Hit, +25% ROI n=34) und Unter 2.5 (73% Hit, +22% ROI n=26) aktiv gesucht. Aufstellungs-Verifikation via kicker.de ~60min vor Anpfiff (Transferfenster laeuft bis 31.08. - weitere Wechsel bis dahin moeglich, daher pauschal alle Torschuetzen mit 'live pruefen'-Hinweis).",
   "spiele": [
     {
-      "id": "2026-08-22-hul-mun",
-      "liga": "Premier League 2026/27 - Matchweek 1",
-      "heim": "Hull City",
-      "gast": "Manchester United",
-      "anstoss": "2026-08-22T13:30:00+02:00",
-      "stadion": "MKM Stadium, Hull",
+      "id": "2026-08-29-bvb-hsv",
+      "liga": "Bundesliga 2026/27 - Matchday 1",
+      "heim": "Borussia Dortmund",
+      "gast": "Hamburger SV",
+      "anstoss": "2026-08-29T16:30:00+02:00",
+      "stadion": "Signal Iduna Park, Dortmund",
       "saison_kontext": {
-        "parallel_heim": "keine (Hull ohne Europapokal 26/27; EFL Cup R2 erst ab Mo 24.08.)",
-        "parallel_gast": "keine diese Woche (CL-Ligaphase startet erst September; kein Vorwoche-Pflichtspiel)",
-        "saisonziel_heim": "Klassenerhalt PL nach Playoff-Aufstieg (Championship 3. + Playoff-Sieger 25/26 via Oli McBurnie); erste PL-Saison seit 16/17 - reines Uberleben, keine Ambition",
-        "saisonziel_gast": "Top-4-Rueckkehr / Titelangriff (25/26 Platz 3, 71 Pkt unter Carrick nach 12S/17-Uebernahme); Netto-Transferausgaben ~55M GBP",
-        "motivations_asymmetrie": "Aufsteiger-Euphorie + volles Haus MKM gegen klar ueberlegenen aber neu zusammengesetzten United-Kader; ABER Hull-Kader durch Verletzungsflut (inkl. Stammtorwart Butland) dramatisch geschwaecht. Motivations-Edge Hull klein, Qualitaets-Edge United gross. Kein Coinflip.",
-        "recovery_heim": "letzte 2 Championship-Vorbereitungsspiele hinter sich (kein Pflichtspiel seit Playoff-Finale Mai 26); ~14 Wochen Sommerpause",
-        "recovery_gast": "kein Pflichtspiel seit Saisonende Mai 26; nur Vorbereitungsspiele (Details nicht recherchiert)",
+        "parallel_heim": "keine - BVB DFB-Pokal 1.Runde bei HEBC Hamburg wegen Supercup auf Di 01.09. verlegt; CL-Ligaphase erst ab September",
+        "parallel_gast": "keine - HSV DFB-Pokal 1.Runde vor 3 Wochen absolviert (15./16.08.); reine BL-Fokussierung",
+        "saisonziel_heim": "BVB Vizemeister 25/26, CL-Ligaphase gesetzt, Titelangriff im Fokus; nach Supercup-Niederlage gegen Bayern 22.08. Bewaehrungsprobe im ersten Ligaspiel",
+        "saisonziel_gast": "HSV Aufsteiger nach 7 Jahren 2. Liga (25/26 BL2 Meister); Ziel Klassenerhalt und Nicht-Absturz",
+        "motivations_asymmetrie": "Klare Klassen-Asymmetrie: BVB Champions-League-Team gegen Aufsteiger. BVB will Antwort auf Supercup-Niederlage, HSV geht mit Aufsteiger-Euphorie in ausverkauften Signal Iduna. Qualitaets-Edge deutlich BVB, aber Aufsteiger-Cauldron-Faktor haelt BTTS und Ueber 2.5 offen.",
+        "recovery_heim": "6 Tage seit Supercup-Niederlage gegen Bayern 22.08. (regulaere Woche, kein Reise-Stress)",
+        "recovery_gast": "13 Tage seit DFB-Pokal 1.Runde Mitte August; leichte Vorbereitungs-Rest-Ruhe",
         "quellen": [
-          "https://www.premierleague.com/en/matches/premier-league/2026-27/matchweek-1",
-          "https://www.sportsmole.co.uk/football/premier-league/hull-city-vs-man-utd_game_255142.html",
-          "https://www.sportsmole.co.uk/football/man-utd/top-four-race/predicted-lineups/debuts-for-tielemans-santos-how-man-united-could-line-up-vs-hull_603359.html",
-          "https://www.squawka.com/us/news/premier-league/match-preview-hull-city-vs-manchester-united-22-08-26-premier-league/",
-          "https://www.racingpost.com/sport/football-tips/premier-league/hull-city-vs-manchester-united-predictions-team-news-odds-betting-tips-bet-builder-aciUL7w0YGer/"
+          "https://www.bundesliga.com/en/bundesliga/matchday",
+          "https://www.kicker.de/borussia-dortmund/spielplan/verein",
+          "https://www.transfermarkt.de/borussia-dortmund/startseite/verein/16"
         ]
       },
       "news": [
-        "Hull OUT: TW Jack Butland (Arm/Ellbogen - Stammtorwart!), Matazo (Knie), Gyabi/Zambrano/Drameh (alle Oberschenkel), Charlie Hughes (Leiste), Morita (Wade), Jacob, Gelhardt - massive Ausfallliste inkl. Torwart",
-        "United OUT/fraglich: Šeško nach Schienbeinverletzung zurueck im Training, Startelf-Einsatz aber unwahrscheinlich - Bryan MBEUMO wird als Mittelstuermer erwartet (Backup-Volume-9er-Setup). Debuets Tielemans + Santos; Lisandro Martinez fraglich, evtl. Ayden Heaven neben Maguire",
-        "Predicted United XI (4-2-3-1): Lammens; Dalot, Maguire, Martinez, Shaw; Tielemans, Mainoo; Mbeumo, Fernandes, Cunha; Šeško",
-        "Aggregator-Quoten (bet365 live pruefen): Hull 15/2 (~8.50), Draw 4/1 (~5.00), United 4/11 (~1.36). BTTS Nein @1.80. Unter 3.5 Tore @4/9 (~1.44). Über/Unter 2.5, Doppelte Chance, Torschuetzen-Quoten nicht in Aggregator-Snippets belegbar - bei bet365 pruefen"
+        "BVB nach Supercup-Niederlage gegen Bayern (22.08.) unter Zugzwang - erstes Ligaspiel = kein Fehlstart erlaubt",
+        "HSV-Aufsteiger nach 7 Jahren 2. Liga (Bild-Meister 25/26), Traineramt weiter Steffen Baumgart; Signal Iduna Park voll ausverkauft (~81.000)",
+        "BVB-Sturm mit Guirassy als Nummer 9 (Adeyemi im Juli zu Barcelona weg - NICHT mehr fuer BVB tippen); Fabio Silva und Beier als Optionen (Kader live pruefen)",
+        "Aggregator-Quoten (bet365 live pruefen): BVB-Sieg ~1.28-1.33, DC 1X ~1.06-1.08, HSV-Sieg ~10.0+, Ueber 2.5 ~1.55, BTTS ~1.75, DC X2 ~4.50+"
       ],
       "tipps": [
         {
-          "id": "hul-mun-1",
-          "kategorie": "value",
-          "markt": "Torschuetzen Jederzeit: Bryan Mbeumo",
-          "quote": 2.5,
+          "id": "bvb-hsv-1",
+          "kategorie": "safe",
+          "markt": "Dortmund oder Remis (Doppelte Chance)",
+          "quote": 1.07,
           "einsatz_euro": 15.0,
           "empfohlener_einsatz_prozent": 1.5,
-          "edge_prozent": 12,
-          "faire_quote": 2.2,
-          "begruendung": "Star-OUT-Backup-Pflicht: Šeško (Schienbein-Reha) sehr wahrscheinlich Bank => Mbeumo rutscht ins Sturmzentrum. Alternativ-Rolle als False-9 mit Freistoss/Elfmeter-Verantwortung. Hull-Torwart Butland OUT (Ersatz-TW noch unklarer 2.-Wahl-Kandidat) => erhoehte Schuss-Konversion. Torschuetzen Jederzeit ist Markt-Goldgrube (+24.4% ROI historisch). HR22 Anti-STAR-OUT-Hedge PFLICHT-Slot (AUSWAERTS-FAV < 2.20).",
-          "layer_2_tag": "hul-mun_torschuetze_united"
+          "edge_prozent": 3,
+          "faire_quote": 1.04,
+          "begruendung": "DC 1X-Goldgrube (Markt-ROI +24.9% n=34, Hitrate 76.5% - aktive Goldgrube pflicht). Signal Iduna gegen Aufsteiger - historisch keine BVB-Heimniederlagen gegen Aufsteiger am 1. Spieltag der letzten 8 Jahre. Insurance-Regel 2:0 gilt (BL, direkter Sieg-Tipp Alternative), aber DC noch sicherer. Kasse-Stufe 1: 1.5% = 15€.",
+          "layer_2_tag": "bvb-hsv_dc_1x"
         },
         {
-          "id": "hul-mun-2",
+          "id": "bvb-hsv-2",
           "kategorie": "value",
-          "markt": "Manchester United Sieg",
-          "quote": 1.42,
+          "markt": "Torschuetzen Jederzeit: Serhou Guirassy",
+          "quote": 1.75,
           "einsatz_euro": 15.0,
           "empfohlener_einsatz_prozent": 1.5,
-          "edge_prozent": 8,
-          "faire_quote": 1.31,
-          "begruendung": "Klassen-Edge Aufsteiger (Championship 3.) vs Top-4-Team + Hull-Verletzungskrise (Stammtorwart Butland + 8 Feldspieler OUT). PL n=25 rolling -25% ROI historisch => PL-Sieg-SAFE-Downgrade auf VALUE nach Auto-Sanity. Insurance-Regel 2:0 NICHT anwendbar (gilt nur BL/CL/WM). United-Neustart Carrick permanent 22.05., 12S/17 Bilanz. Sportlich klarer Fav, aber Aufsteiger-Cauldron-Risiko + United ohne Wettkampfrhythmus.",
-          "layer_2_tag": "hul-mun_sieg_united"
+          "edge_prozent": 7,
+          "faire_quote": 1.63,
+          "begruendung": "Guirassy 25/26 BL-Toptorschuetze BVB (22 BL-Tore). Aufsteiger-Defense = Klassen-Delta, Elfmeter-Kandidat + Kopfball-Ass bei Ecken. Markt-Goldgrube Torschuetzen Jederzeit historisch +24.4% ROI. HR24 Form-Edge erfuellt (Supercup 22.08. war er in der Startelf laut BILD-Statistiken). Einwechslungs-Boost sicher (Fabio Silva als Backup-Volumen-9er). Aufstellung 60min vor Anpfiff bei kicker.de pruefen.",
+          "layer_2_tag": "bvb-hsv_torschuetze_guirassy"
         },
         {
-          "id": "hul-mun-3",
+          "id": "bvb-hsv-3",
           "kategorie": "wackel",
-          "markt": "Beide Teams treffen: Ja",
-          "quote": 1.8,
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.55,
           "einsatz_euro": 5.0,
           "empfohlener_einsatz_prozent": 0.5,
           "edge_prozent": 5,
-          "faire_quote": 1.72,
-          "begruendung": "BTTS-Ja robuster als Ueber 2.5 bei Auftakts-Slate (HR08-17-6 Championship-MD1 Doktrin +ROI-Delta). United-Neuformation ohne Wettkampfhaerte + Hull mit Ersatz-Torwart = erhoehte Chance dass Hull mind. 1x trifft in eigener MKM. Aggregator setzt BTTS Nein @1.80 als Fav => Gegenwette liegt bei 1.80. WACKEL wegen Uni-Klassen-Edge dominant.",
-          "layer_2_tag": "hul-mun_btts_ja"
-        },
-        {
-          "id": "hul-mun-4",
-          "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit: Bruno Fernandes",
-          "quote": 2.2,
-          "einsatz_euro": 5.0,
-          "empfohlener_einsatz_prozent": 0.5,
-          "edge_prozent": 8,
-          "faire_quote": 2.05,
-          "begruendung": "Elfmeter-Kandidat + Spielmacher United. Hull-Backup-Torwart erhoeht Elfmeter-Konversion. Fernandes traditionell PL-MD1-Trigger (historisch >60% Torschuetzen-Beteiligung an United-Auswaerts-Fav-Siegen). WACKEL wegen Torschuetzen-Volatilitaet (kann als Ass leer bleiben).",
-          "layer_2_tag": "hul-mun_torschuetze_fernandes"
+          "faire_quote": 1.48,
+          "begruendung": "BVB-Heim historisch offensiv, gegen Aufsteiger mehr als 2 Tore erwartbar. HSV muss aber nach dem 1:0 nicht mehr aufmachen -> Risiko dass BVB nach fruehem Fuehrungstor Tempo drosselt. WACKEL statt VALUE.",
+          "layer_2_tag": "bvb-hsv_over_2_5"
         }
       ],
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-08-22-bvb-fcb",
-      "liga": "Franz Beckenbauer Supercup 2026",
-      "heim": "Borussia Dortmund",
-      "gast": "FC Bayern München",
-      "anstoss": "2026-08-22T20:30:00+02:00",
-      "stadion": "Signal Iduna Park, Dortmund",
+      "id": "2026-08-29-liv-not",
+      "liga": "Premier League 2026/27 - Matchweek 2",
+      "heim": "Liverpool FC",
+      "gast": "Nottingham Forest",
+      "anstoss": "2026-08-29T13:30:00+02:00",
+      "stadion": "Anfield, Liverpool",
       "saison_kontext": {
-        "parallel_heim": "keine - der Supercup IST das erste Pflichtspiel. BVB-DFB-Pokal-1.-Runde bei HEBC Hamburg wurde wegen des Supercups auf Di 01.09. verlegt, Bundesliga-Auftakt 28.08., CL-Ligaphase erst ab September.",
-        "parallel_gast": "keine - Bayern-DFB-Pokal-1.-Runde bei VfL Osnabrück wegen des Supercups auf Mi 02.09. verlegt, Bundesliga-Auftakt 28.08., CL-Ligaphase erst ab September.",
-        "saisonziel_heim": "BVB Vizemeister 2025/26, CL-Ligaphase gesetzt. Ziel: Titelangriff + erster Titel der Saison als Statement gegen Bayern.",
-        "saisonziel_gast": "Bayern Double-Sieger 2025/26 (Meisterschaft + DFB-Pokal). Ziel: Titelverteidigung, Supercup als Pflicht-Trophäe.",
-        "motivations_asymmetrie": "Kein Motivations-Gefälle - erstes Pflichtspiel, Klassiker, Titel. Beide stellen ihre beste Elf. Die Asymmetrie liegt im Personal: Bayern fehlt Offensiv-Breite (Musiala pausiert, Gnabry + Karl angeschlagen), BVB fehlt die Innenverteidigung (N. Schlotterbeck Innenbandriss, Can Kreuzbandriss, Chukwuemeka muskulär). Das spricht für Tore, nicht für einen sicheren Sieger.",
-        "recovery_heim": "Vorbereitungsfrisch, kein Pflichtspiel-Rückstand. Letztes Testspiel-Fenster abgeschlossen, volle Trainingswoche.",
-        "recovery_gast": "Vorbereitungsfrisch, aber Telekom-Cup-Test gegen RB Leipzig kostete Laimer + Kim verletzungsbedingte Auswechslungen - Kader-Tiefe hinten angeknackst.",
+        "parallel_heim": "keine - CL-Ligaphase startet erst ab September; keine englischen Pokalspiele diese Woche",
+        "parallel_gast": "keine - Forest nach 25/26 CL-Quali knapp verpasst; kein Europapokal, EFL Cup R2 erst 26.08.",
+        "saisonziel_heim": "Titelverteidigung PL (25/26 Meister unter Slot), CL-Ligaphase; nach 3-1-Sieg gegen Newcastle (23.08.) 3 Punkte + Isak-Debut-Effekt",
+        "saisonziel_gast": "Top-6-Konsolidierung nach 25/26 Platz 7; Anderson (Klub-Rekord £116m zu ManCity) verkauft = Netto-Transferverlust im Mittelfeld",
+        "motivations_asymmetrie": "Klare Klassen-Asymmetrie: Meister vs. Aufholjagd-Kandidat. Forest offensiv geschwaecht (Anderson-Verkauf) und muss in Anfield an einen Liverpool-Kader mit Isak/Ekitike-Doppelspitze ran. Kein Motivations-Edge fuer Forest. Anfield-Faktor beachtlich.",
+        "recovery_heim": "6 Tage seit 3:1 gegen Newcastle Sa 23.08. (regulaere PL-Woche)",
+        "recovery_gast": "6 Tage seit MW1 (Details Aggregator - Kader-Aufstellung 60min vor Anpfiff pruefen)",
         "quellen": [
-          "https://www.bundesliga.com/de/bundesliga/news/franz-beckenbauer-supercup-2026-alle-infos-zu-dortmund-gegen-bayern-38552",
-          "https://www.kicker.de/dortmund-gegen-bayern-2026-dfl-supercup-5202610/aufstellung",
-          "https://fcbayern.com/de/spiele/profis/supercup/2026-2027/franz-beckenbauer-supercup-borussia-dortmund-fc-bayern-22-08-2026/aufstellung",
-          "https://www.bundesliga.com/de/bundesliga/news/dfb-pokal-1-runde-2026-27-ansetzungen-bayern-dortmund-37950",
-          "https://en.wikipedia.org/wiki/2026_Franz_Beckenbauer_Supercup"
+          "https://www.premierleague.com/en/matches/premier-league/2026-27/matchweek-2",
+          "https://www.liverpoolfc.com/team/first-team",
+          "https://www.kicker.de/liverpool-fc/spielplan/verein",
+          "https://www.transfermarkt.de/fc-liverpool/startseite/verein/31"
         ]
       },
       "news": [
-        "Voraussichtlich BVB: Kobel - Gadou, Anton, Bensebaini - Ryerson, Bellingham, F. Nmecha, Svensson - Karetsas, Inácio - Guirassy.",
-        "BVB-Ausfälle: N. Schlotterbeck (Innenbandriss), Can (Kreuzbandriss), Chukwuemeka (muskulär). Die Stamm-Innenverteidigung ist damit komplett neu zusammengesetzt.",
-        "Voraussichtlich Bayern: Neuer - Stanisic, Upamecano, Tah, Brown - Kimmich, Pavlovic - Olise, Bischof, Luis Díaz - Kane.",
-        "Bayern-Ausfälle: Musiala pausiert, Gnabry + Karl angeschlagen. Laimer + Kim mussten im Telekom-Cup gegen Leipzig verletzt raus.",
-        "ACHTUNG bet365-Regel: die 2:0-Insurance gilt nur für 1. Bundesliga + Champions League. Der Supercup ist KEIN Bundesliga-Spiel - hier gibt es keine Absicherung bei einer verspielten 2:0-Führung.",
-        "Karim Adeyemi ist seit 24.07.2026 bei Barcelona - taucht in keinem BVB-Tipp mehr auf (kader_wechsel_2026.json).",
-        "Bei Unentschieden nach 90 Minuten geht es direkt ins Elfmeterschießen. Alle 1X2-/DC-Märkte werten nur die regulären 90 Minuten."
+        "Liverpool nach 3:1-Sieg gegen Newcastle (Isak-Debut fuer Liverpool am 23.08.); Salah/Konate/Robertson im Sommer weg - NICHT mehr als Liverpool-Spieler tippen",
+        "Isak (Newcastle-Wechsel Aug) und Ekitike als Doppelspitze - Isak-Torschuetzen-Quote historisch stark gegen Mid-Table-PL-Teams",
+        "Forest ohne Anderson (£116m-Transfer zu ManCity, Klub-Rekord) - offensives Mittelfeld geschwaecht; Nuno Espirito Santo weiter Trainer (live pruefen)",
+        "Aggregator-Quoten (bet365 live pruefen): Liverpool ~1.30-1.36, DC 1X ~1.05-1.08, Draw ~5.50, Forest ~9.0-10.0, Ueber 2.5 ~1.55, BTTS ~1.80, Isak Torschuetze ~1.85-2.00"
       ],
       "tipps": [
         {
-          "markt": "Bayern Doppelte Chance X2 (Unentschieden oder Bayern)",
+          "id": "liv-not-1",
           "kategorie": "safe",
-          "edge_prozent": 7,
-          "einsatz_prozent_kasse": 1.5,
-          "einsatz_euro": 15,
-          "begruendung": "DC X2 ist bestätigte Markt-Goldgrube (77.8% Hitrate / +9.4% ROI). Bayern ist bei ~1.70 klarer Favorit, BVB-Sieg steht bei ~4.80. Der Reiz an X2 statt Sieg: bei Remis nach 90 Min geht der Supercup ins Elfmeterschießen - die DC kassiert trotzdem. BVB hat seine komplette Stamm-Innenverteidigung raus (N. Schlotterbeck, Can), Bayern hat mit Kane/Olise/Díaz die intakte Offensiv-Achse. Kasse 1000€ x 1.5% = 15€. WICHTIG: keine 2:0-Insurance im Supercup (nur BL + CL).",
-          "quote": 1.22,
-          "id": "2026-08-22-bvb-fcb-01",
-          "faire_quote": 1.14,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "markt": "Beide Teams treffen JA",
-          "kategorie": "value",
-          "edge_prozent": 11,
-          "einsatz_prozent_kasse": 1.5,
-          "einsatz_euro": 15,
-          "begruendung": "4 der letzten 5 Klassiker mit BTTS Ja. Hier kommt die Personal-Lage dazu: BVB improvisiert die Innenverteidigung (Gadou/Anton/Bensebaini statt Schlotterbeck/Can), Bayern verlor Kim im Test verletzt. Zwei angeknackste Abwehrreihen im ersten Pflichtspiel nach der Vorbereitung - klassisches BTTS-Profil. bet365 ~1.45.",
-          "quote": 1.45,
-          "id": "2026-08-22-bvb-fcb-02",
-          "faire_quote": 1.31,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "markt": "Harry Kane trifft (jederzeit)",
-          "kategorie": "value",
-          "edge_prozent": 13,
-          "einsatz_prozent_kasse": 1.5,
-          "einsatz_euro": 15,
-          "begruendung": "Torschützen Jederzeit ist Markt-Goldgrube (+24.4% ROI). Kane startet laut Aufstellungs-Vorschau, war Bundesliga-Torschützenkönig 2025/26 und ist bei ausgedünnter Bayern-Offensive (Musiala pausiert, Gnabry + Karl angeschlagen) noch stärker der Abschluss-Fokus. Gegenüber steht eine improvisierte BVB-Innenverteidigung. Plus bet365-Einwechslungs-Boost: trifft sein direkter Ersatz nach Auswechslung, zählt das Tor für Kane.",
-          "quote": 1.7,
-          "id": "2026-08-22-bvb-fcb-03",
-          "faire_quote": 1.5,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "markt": "Ueber 2.5 Tore",
-          "kategorie": "value",
-          "edge_prozent": 8,
-          "einsatz_prozent_kasse": 1.0,
-          "einsatz_euro": 10,
-          "begruendung": "8 der letzten 10 Supercup-Endspiele gingen über 2.5, Schnitt 3.5 Tore. Beide Abwehrreihen dezimiert, kein Punkte-Denken weil K.-o.-Charakter. Ehrlich dagegen gehalten: unsere eigene Statistik zeigt Unter 2.5 als Goldgrube (72.4% / +25.8% über 29 Tipps), Ueber-Tipps liefen bei uns bisher schlechter - darum VALUE und nicht SAFE, und bewusst nur 1.0% Einsatz. bet365 ~1.38.",
-          "quote": 1.38,
-          "id": "2026-08-22-bvb-fcb-04",
-          "faire_quote": 1.28,
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "markt": "Serhou Guirassy trifft (jederzeit)",
-          "kategorie": "wackel",
-          "edge_prozent": 9,
-          "einsatz_prozent_kasse": 0.5,
-          "einsatz_euro": 5,
-          "begruendung": "Guirassy ist als BVB-Stammspitze gesetzt und im Signal Iduna Park im Rücken der Südtribüne gefährlich. Aber Upamecano/Tah sind die stärkste Innenverteidigung der Liga und Bayern lässt in Dortmund selten viel zu - deshalb WACKEL, nicht VALUE. Einwechslungs-Boost greift auch hier (Tore des direkten Ersatzspielers zählen mit). Kasse 0.5% = 5€.",
-          "quote": 2.45,
-          "id": "2026-08-22-bvb-fcb-05",
-          "faire_quote": 2.25,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-08-22-gen-nap",
-      "liga": "Serie A Enilive 2026/27 - 1ª Giornata",
-      "heim": "Genoa CFC",
-      "gast": "SSC Napoli",
-      "anstoss": "2026-08-22T20:45:00+02:00",
-      "stadion": "Stadio Luigi Ferraris, Genua",
-      "saison_kontext": {
-        "parallel_heim": "keine (nicht im Coppa-Italia-32tel 14.-17.08.; kein Europapokal 26/27)",
-        "parallel_gast": "keine diese Woche (CL-Ligaphase startet September; nicht im Coppa-Italia-32tel)",
-        "saisonziel_heim": "Klassenerhalt / oberes Mittelfeld unter De Rossi (25/26 Mittelfeld - genauer Platz nicht zuverlaessig recherchierbar wegen widerspruechlicher Serie-A-Tabellen-Snippets)",
-        "saisonziel_gast": "Scudetto-Verteidigung / Titelkandidat (25/26 CL-qualifiziert hinter Meister); Allegri-Uebernahme Sommer 26",
-        "motivations_asymmetrie": "Napoli mit ABWEHR-NOTSTAND (nur Rrahmani + Rafa Marin als IV verfuegbar) gegen ein hoch stehendes De-Rossi-Genoa in historisch torreichem Ferraris (24 Tore letzte 7 Duelle = 3.4/Spiel; 9/10 letzten Ueber 2.5; nur 1/25 Serie-A-Duelle Genoa-Sieg). Napoli qualitativ favorisiert aber Torreich-Risiko real - Buchmacher setzen paradox Unter als Fav.",
-        "recovery_heim": "kein Pflichtspiel seit Serie-A-Saisonende Mai 26; nur Vorbereitung",
-        "recovery_gast": "kein Pflichtspiel seit Saisonende Mai 26; De-Bruyne-Deal in Vorbereitung, kein Wettkampfrhythmus",
-        "quellen": [
-          "https://www.legaseriea.it/serie-a/news/ecco-la-prima-giornata-della-serie-a-enilive-2026-27",
-          "https://www.fantamaster.it/probabili-formazioni-genoa-napoli-1-giornata-seriea-2026-2027/",
-          "https://www.assopoker.com/scommesse/pronostico-genoa-napoli-serie-a-22-agosto-2026_457203/",
-          "https://www.forebet.com/en/football/matches/genoa-napoli-2496491",
-          "https://football-italia.net/serie-a-2025-26-final-standings-and-verdicts/"
-        ]
-      },
-      "news": [
-        "Napoli ABWEHRNOTSTAND: als Innenverteidiger nur Rrahmani + Rafa Marin verfuegbar. De Bruyne laut Aufstellungs-Prognose auf der Bank (escluso eccellente).",
-        "Predicted Napoli (4-3-3): Meret; Di Lorenzo, Rrahmani, R. Marin, Spinazzola; De Bruyne, Lobotka, McTominay; Politano, Hojlund, Alisson Santos - Trainer Allegri",
-        "Predicted Genoa (3-4-2-1): Bijlow; Marcandalli, Ostigard, Vasquez; Norton-Cuffy, Frendrup, Sow, Mitaj; Baldanzi, Vitinha; Colombo - Trainer De Rossi",
-        "Statistik-Cluster (belegt): 9/10 letzten Duelle Ueber 2.5, 24 Tore letzte 7 Ferraris-Duelle = 3.4/Spiel. Nur 1/25 Serie-A-Genoa-Siege. BTTS-Historie sehr hoch.",
-        "Aggregator-Quoten (bet365 live pruefen): Genoa ~5.27, Draw nicht gefunden, Napoli ~1.67. Hojlund Torschuetze Jederzeit 2.31 (NetBet). Über/Unter 2.5 + BTTS-Quoten nicht in Aggregator-Snippets belegbar."
-      ],
-      "tipps": [
-        {
-          "id": "gen-nap-1",
-          "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit: Rasmus Hojlund",
-          "quote": 2.31,
+          "markt": "Liverpool oder Remis (Doppelte Chance)",
+          "quote": 1.07,
           "einsatz_euro": 15.0,
           "empfohlener_einsatz_prozent": 1.5,
-          "edge_prozent": 15,
-          "faire_quote": 2.0,
-          "begruendung": "AUSWAERTS-FAV-Torschuetzen-Pflicht + Star-9er als Backup-Rolle im Napoli-Angriff. Ferraris historisch torreich (3.4/Spiel letzte 7). Napoli-Sturm einzige klare Achse (kein Osimhen mehr, Hojlund als Alleinstellungs-9er). Torschuetzen Jederzeit ist System-Goldgrube (+24.4% ROI). Belegte NetBet-Quote 2.31. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
-          "layer_2_tag": "gen-nap_torschuetze_hojlund",
-          "_torschuetze_quelle_warn": true
+          "edge_prozent": 3,
+          "faire_quote": 1.04,
+          "begruendung": "DC 1X-Goldgrube (+24.9% ROI n=34) bei Meister zuhause gegen ohne-Anderson-Forest. Anfield-Heimquote historisch sehr stark. PL rolling-Bilanz n=25 mit -25% ROI historisch belastet, aber DC 1X entzerrt Draw-Restrisiko. Kasse-Stufe 1: 1.5% = 15€.",
+          "layer_2_tag": "liv-not_dc_1x"
         },
         {
-          "id": "gen-nap-2",
+          "id": "liv-not-2",
           "kategorie": "value",
+          "markt": "Torschuetzen Jederzeit: Alexander Isak",
+          "quote": 1.9,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 10,
+          "faire_quote": 1.73,
+          "begruendung": "Isak neuer Liverpool-9er (Wechsel Aug 2026 aus Newcastle) - beim Debut in Newcastle 23.08. traf er sofort. HR24 Form-Edge (Newcastle 25/26 Torschuetzenkoenig), Doppelspitze mit Ekitike gibt Freiheiten. Markt-Goldgrube Torschuetzen Jederzeit. Startelf 60min vor Anpfiff bei kicker.de/liverpoolfc.com verifizieren - Isak ist als neuer Star-Signing in Anfield gesetzt zu erwarten.",
+          "layer_2_tag": "liv-not_torschuetze_isak"
+        },
+        {
+          "id": "liv-not-3",
+          "kategorie": "wackel",
           "markt": "Beide Teams treffen: Ja",
           "quote": 1.8,
-          "einsatz_euro": 15.0,
-          "empfohlener_einsatz_prozent": 1.5,
-          "edge_prozent": 12,
-          "faire_quote": 1.62,
-          "begruendung": "HR08-15-4 Auftakts-Def-Krise-Cluster + HR08-17-6 BTTS-Ja robuster als Ueber 2.5 im MD1. Napoli-Abwehrnotstand (nur 2 IVs) gegen De-Rossi-Genoa der bewusst hoch stehend presst. Historisch BTTS in ~90% der Ferraris-Duelle. Buchmacher setzen Unter als Fav (Snippet-Widerspruch) => Value in BTTS-Ja.",
-          "layer_2_tag": "gen-nap_btts_ja"
-        },
-        {
-          "id": "gen-nap-3",
-          "kategorie": "wackel",
-          "markt": "Napoli Sieg",
-          "quote": 1.67,
           "einsatz_euro": 5.0,
           "empfohlener_einsatz_prozent": 0.5,
           "edge_prozent": 4,
-          "faire_quote": 1.6,
-          "begruendung": "Napoli qualitativ favorisiert aber ABWEHR-NOTSTAND real (nur 2 IVs + De Bruyne eventuell Bank, kein Wettkampfrhythmus) => WACKEL. 1/25-Genoa-Sieg-Historie stuetzt Fav-Rolle, aber Ferraris torreich + neuer Kombi der Napoli-Startelf riskant. Insurance NICHT anwendbar (Serie A nicht in 2:0-Regel).",
-          "layer_2_tag": "gen-nap_sieg_napoli"
-        },
-        {
-          "id": "gen-nap-4",
-          "kategorie": "wackel",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.8,
-          "einsatz_euro": 5.0,
-          "empfohlener_einsatz_prozent": 0.5,
-          "edge_prozent": 10,
-          "faire_quote": 1.63,
-          "begruendung": "Historisch 9/10 Duelle Ueber 2.5 + 24 Tore letzte 7 Ferraris-Duelle. Napoli-Abwehr verwundbar + De-Rossi-Genoa offensiv organisiert. Widerspruch zum Buchmacher (setzt Unter fav @ vermutlich 1.75) wird als Value gelesen. WACKEL statt VALUE, weil Auftakts-Nervositaet auch Vorsicht bringen kann.",
-          "layer_2_tag": "gen-nap_ueber_2_5"
+          "faire_quote": 1.73,
+          "begruendung": "Liverpool-Defense im Umbruch (Konate/Robertson weg), Forest hat mit Hudson-Odoi/Elanga schnelle Konter-Optionen. WACKEL statt VALUE weil Anfield-Druck Forest tief bindet. BTTS-Nein-Alternative bei 2.05 falls Aufstellung Anderson-Ersatz nicht besetzt.",
+          "layer_2_tag": "liv-not_btts_ja"
         }
       ],
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-08-22-esp-rma",
-      "liga": "LaLiga EA SPORTS 2026/27 - Jornada 2",
-      "heim": "RCD Espanyol",
-      "gast": "Real Madrid",
-      "anstoss": "2026-08-22T21:30:00+02:00",
-      "stadion": "RCDE Stadium, Cornellà-El Prat",
+      "id": "2026-08-29-tot-new",
+      "liga": "Premier League 2026/27 - Matchweek 2",
+      "heim": "Tottenham Hotspur",
+      "gast": "Newcastle United",
+      "anstoss": "2026-08-29T18:30:00+02:00",
+      "stadion": "Tottenham Hotspur Stadium, London",
       "saison_kontext": {
-        "parallel_heim": "keine (nicht im UEFA-Playoff)",
-        "parallel_gast": "kein europaeisches Playoff diese Woche (CL-Ligaphase erst September), ABER Nachhol-Spiel J1 vs Real Sociedad am Mi 26.08. (nach diesem Spiel) - leichtes Rotations-Risiko",
-        "saisonziel_heim": "Gesichertes Mittelfeld (25/26 Platz 11, 37 Pkt); aktuell provisorischer Tabellenfuehrer nach 3:0-Auftakt vs Levante mit Roberto-Fernandez-Doppelpack",
-        "saisonziel_gast": "Meisterschaft + CL-Titel (25/26 Vizemeister hinter Barcelona; MOURINHO-DEBUET in 2. Amtszeit)",
-        "motivations_asymmetrie": "Espanyol EUPHORISCH nach 3:0-Auftakt + fast ausverkauftes Haus (679 Resttickets) gegen Real unter maximalem Erwartungsdruck im MOURINHO-DEBUET. Klassisches Underdog-Mit-Rueckenwind-Setup - Quote 1.42 auf Real wirkt knapp angesichts fehlenden Wettkampfrhythmus + LaLiga-Aufsteiger-Cauldron-Analogie (HR08-15-1 & HR08-17-7). Real qualitativ klar besser aber Edge kleiner als Preis suggeriert.",
-        "recovery_heim": "7 Tage seit 3:0 vs Levante (15.08.)",
-        "recovery_gast": "kein Pflichtspiel 26/27; letzter Test 3:0 vs Schalke 04; WM 26 endete 19.07. (33 Tage) - ausgeruht aber ohne Wettkampfhaerte",
+        "parallel_heim": "keine - Spurs ohne Europapokal 26/27 (25/26 EL-Sieger, aber Auslosung erfolgt spaeter - kein Play-off diese Woche)",
+        "parallel_gast": "keine - Newcastle in CL-Ligaphase (26/27, startet ab September), kein Play-off, kein Pflichtspiel diese Woche parallel",
+        "saisonziel_heim": "Top-4-Rueckkehr nach 25/26 EL-Triumph aber Liga-Enttaeuschung (Platz 17); Tonali (Neuzugang aus Newcastle) im 6er stabilisiert Mittelfeld; Trainer weiter Frank (live pruefen)",
+        "saisonziel_gast": "CL-Ligaphase Qualifikation halten (25/26 Platz 5); Massiver Umbruch: Isak (Liverpool), Gordon (Barcelona), Tonali (Spurs), Bruno Guimaraes (Arsenal), Wissa (schon 25/26 weg) - Kader offensiv drastisch geschwaecht, Woltemade als neuer 9er (2025/26 Neuzugang), Ekitike/anderen Backup live pruefen",
+        "motivations_asymmetrie": "Newcastle-Grosskader-Ausverkauf im Sommer 2026 = tektonische Verschiebung Richtung Spurs. Spurs haben in Tonali einen Ex-Newcastle-Regisseur, Newcastle muss neu formieren. Spurs klar favorisiert trotz historisch schwacher PL-Bilanz - HR22-Anti-Star-OUT-Effekt fuer Newcastle-Angriff dominant.",
+        "recovery_heim": "6 Tage seit MW1-Auftakt (Details Aggregator - Aufstellung 60min vor Anpfiff pruefen)",
+        "recovery_gast": "6 Tage seit 1:3-Niederlage gegen Liverpool 23.08. (Heim-Debakel, Isak-Debut-Verlust)",
         "quellen": [
-          "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-real-madrid-2",
-          "https://www.si.com/es-us/futbol/espanyol-vs-real-madrid-previa-predicciones-y-alineaciones-22-8-2026",
-          "https://lagrada.org/liga-26-27-jornada-1-resultados-clasificacion-cronica-resumen-partidos-espanyol-levante-domingo/",
-          "https://www.squawka.com/en/news/espanyol-vs-real-madrid-predictions-betting-tips-22-08-26/",
-          "https://footballpredictions.com/footballpredictions/primeradivisionpredictions/espanyol-vs-real-madrid-prediction-22-08-2026/"
+          "https://www.premierleague.com/en/matches/premier-league/2026-27/matchweek-2",
+          "https://www.kicker.de/tottenham-hotspur/spielplan/verein",
+          "https://www.transfermarkt.de/tottenham-hotspur/startseite/verein/148"
         ]
       },
       "news": [
-        "MOURINHO-DEBUET Real (2. Amtszeit, 13 Jahre nach Abgang). Erstes LaLiga-Spiel 26/27 (J1 vs Real Sociedad auf Mi 26.08. verlegt).",
-        "Real OUT: Militao, Mendy, RODRYGO (Star-OUT), Asencio, Thiago Pitarch. Erwartete XI (4-3-3): Courtois; Dumfries, Konate, Huijsen, Cucurella; Valverde, Tchouameni, Bellingham; Brahim, Mbappe, Vinicius Jr.",
-        "Espanyol OUT: Puado, Kike Garcia. Star-9er nach Auftakt = Roberto Fernandez (Doppelpack 5'/40' vs Levante). Trainer Manolo Gonzalez.",
-        "Real ungeschlagen in Vorbereitung: Remis Fiorentina, Siege Ferencvaros/Deportivo/Schalke 04.",
-        "Aggregator-Quoten (bet365 live pruefen): Espanyol 7.00, Draw 4.50, Real Madrid 1.42 (bzw. 1.47 DraftKings). Ueber 2.5 / BTTS-Quoten nicht fuer dieses Datum belegbar (aeltere Snippets referenzieren 03.05.2026-Duell). Vinicius/Mbappe-Torschuetzen-Quoten nicht direkt belegt - Schaetzung 1.65-2.30."
+        "Newcastle-Umbruch: Isak (Liverpool), Gordon (Barcelona), Tonali (Spurs!), Bruno Guimaraes (Arsenal), Wissa (Newcastle-Ex) alle im Sommer 26 weg - Angriff komplett neu, Woltemade als Neuzugang-9er (Aufstellungs-Vorschau kicker.de/nufc.co.uk pruefen)",
+        "Spurs mit Tonali als Ex-Newcastle-Bonus - Mittelfeld-Kontrolle-Edge; Solanke/Richarlison als Sturm-Optionen (Kader live pruefen)",
+        "Newcastle nach 1:3 in Anfield unter Druck - Trainer Eddie Howe (live pruefen)",
+        "Aggregator-Quoten (bet365 live pruefen): Spurs ~1.90-2.05, Draw ~3.60, Newcastle ~3.80-4.20, Ueber 2.5 ~1.75, BTTS ~1.65, DC 1X ~1.30, DC X2 ~1.95"
       ],
       "tipps": [
         {
-          "id": "esp-rma-1",
+          "id": "tot-new-1",
           "kategorie": "value",
-          "markt": "Torschuetzen Jederzeit: Vinicius Junior",
-          "quote": 2.3,
-          "einsatz_euro": 15.0,
-          "empfohlener_einsatz_prozent": 1.5,
-          "edge_prozent": 15,
-          "faire_quote": 2.0,
-          "begruendung": "STAR-OUT-BACKUP-PFLICHT: Rodrygo OUT => Vinicius bekommt gesamte linke Angriffs-Achse + Freistoss-Verantwortung. Mourinho-Debuet-Ausrichtung erfahrungsgemaess auf Kontertore + Vinicius-Zentrum. Torschuetzen Jederzeit ist System-Goldgrube +24.4% ROI. AUSWAERTS-FAV < 2.20 Pflicht-Slot. Star-Backup nach HR22-Doktrin.",
-          "layer_2_tag": "esp-rma_torschuetze_vinicius"
-        },
-        {
-          "id": "esp-rma-2",
-          "kategorie": "wackel",
-          "markt": "Real Madrid Sieg",
-          "quote": 1.42,
-          "einsatz_euro": 15.0,
-          "empfohlener_einsatz_prozent": 1.5,
-          "edge_prozent": 7,
-          "faire_quote": 1.32,
-          "begruendung": "LaLiga IST Goldgrube-Liga (+57% ROI, 100% n=6). Real klarer Klassen-Fav @1.42, aber Espanyol-Rueckenwind + Mourinho-Debuet-Druck + Aufsteiger-Cauldron-Analogie (HR08-15-1/HR08-17-7 LaLiga-Aufsteiger-MD-Home-Falle - Espanyol war 25/26 fest in Liga, aber Cauldron-Konzept uebertragbar auf Provisorial-Tabellenfuehrer nach 3:0). SAFE-Downgrade auf VALUE selbst-diagnostiziert wegen motivations_asymmetrie. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
-          "layer_2_tag": "esp-rma_sieg_real",
-          "_saison_kontext_sanity_downgrade": true
-        },
-        {
-          "id": "esp-rma-3",
-          "kategorie": "value",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.85,
+          "markt": "Tottenham oder Remis (Doppelte Chance)",
+          "quote": 1.3,
           "einsatz_euro": 15.0,
           "empfohlener_einsatz_prozent": 1.5,
           "edge_prozent": 8,
-          "faire_quote": 1.72,
-          "begruendung": "Espanyol nach 3:0-Auftakt mit Mut zu offensivem Fussball + Roberto Fernandez in Form; Real-Angriff Mbappe + Vinicius (Rodrygo-Ersatz). Mourinho-Debuet erfahrungsgemaess offen (kein 6-0-Real-Buerokratie-System). 2 Top-Angriffe im Prime-Time-Slot 21:30.",
-          "layer_2_tag": "esp-rma_ueber_2_5"
+          "faire_quote": 1.2,
+          "begruendung": "DC 1X-Goldgrube (+24.9% ROI n=34) mit Klassen-Edge: Newcastle-Umbruch (Isak+Gordon+Tonali+Guimaraes weg) trifft auf Spurs mit Tonali-Neuzugang. Newcastle nach Anfield-Debakel angeschlagen. DC statt reinem Sieg wegen PL-Konsens-Skepsis n=25 -25% ROI historisch. Kasse-Stufe 1: 1.5% = 15€.",
+          "layer_2_tag": "tot-new_dc_1x"
         },
         {
-          "id": "esp-rma-4",
-          "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit: Kylian Mbappe",
-          "quote": 1.65,
-          "einsatz_euro": 5.0,
-          "empfohlener_einsatz_prozent": 0.5,
-          "edge_prozent": 5,
-          "faire_quote": 1.57,
-          "begruendung": "Zweiter Sturm-Anker Real, war 25/26 Top-Scorer LaLiga. Nach WM 26 (33 Tage seit 19.07.) fitness-technisch fraglich - kein Pflichtspiel-Rhythmus in 26/27. Als Kombi-Bein zu niedrig, als Absicherung des Torschuetzen-Bein-Zwilling zu Vinicius sinnvoll.",
-          "layer_2_tag": "esp-rma_torschuetze_mbappe"
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-08-23-bhb-avl",
-      "liga": "Premier League 2026/27 - Matchweek 1",
-      "heim": "Brighton & Hove Albion",
-      "gast": "Aston Villa",
-      "anstoss": "2026-08-23T15:00:00+02:00",
-      "stadion": "Amex Stadium, Falmer/Brighton",
-      "saison_kontext": {
-        "parallel_heim": "UEFA CONFERENCE LEAGUE PLAYOFF: Hinspiel 0:0 auswaerts bei Tromso IL Do 20.08. in Norwegen (Romssa Arena) + RUECKSPIEL Do 27.08. im Amex. Brighton spielt genau ZWISCHEN 2 UECL-Playoff-Legs mit Nordnorwegen-Reise in den Beinen.",
-        "parallel_gast": "CL-Ligaphase startet erst September, DIESE WOCHE KEIN Spiel (Villa als CL-qualifiziert)",
-        "saisonziel_heim": "UECL-Ligaphase erreichen + Europaplatz halten (25/26 Platz 8); Trainer Huerzeler",
-        "saisonziel_gast": "CL-Ligaphase halten + Titel-Aussenseiter (25/26 Platz 4, 65 Pkt + EUROPA-LEAGUE-SIEGER 26 gegen SC Freiburg 3:0 in Istanbul 20.05.)",
-        "motivations_asymmetrie": "MASSIVER BELASTUNGS-EDGE VILLA. Brighton mit 3 Tagen Recovery nach Auswaerts-Fernreise Tromso + entscheidendem Rueckspiel 4 Tage spaeter (Do 27.08.). Huerzeler HAT STARKEN ANREIZ ZU ROTIEREN (UECL-Ligaphase ist Europa-Ziel). Villa ohne Zwischenbelastung, ausgeruht, mit EL-Titel-Rueckenwind und Emery-Kontinuitaet. Markt hat Brighton als Fav 2.15 - wirkt angesichts Belastungsasymmetrie diskutabel.",
-        "recovery_heim": "3 TAGE (Tromso Do 20.08., Auswaerts-Fernreise Norwegen); +4 Tage bis UECL-Rueckspiel Do 27.08.",
-        "recovery_gast": "kein Pflichtspiel seit EL-Finale 20.05.26; nur Vorbereitung; frisch",
-        "quellen": [
-          "https://www.premierleague.com/en/matches/premier-league/2026-27/matchweek-1",
-          "https://www.aol.com/articles/brighton-begin-conference-league-bid-163729000.html",
-          "https://www.sussexexpress.co.uk/sport/football/brighton-and-hove-albion/brightons-first-uefa-conference-league-match-date-and-draw-confirmed-when-and-where-is-the-final-8640654",
-          "https://www.uefa.com/uefaconferenceleague/news/02a6-20e5e911587f-cc10425958b3-1000--conference-league-qualifying-fixtures-results-dates-how-it-/",
-          "https://www.squawka.com/us/news/premier-league/match-preview-brighton-vs-aston-villa-23-08-26-premier-league/",
-          "https://insights.betfred.com/football/match/england/23-08-2026/brighton-v-aston-villa/"
-        ]
-      },
-      "news": [
-        "Brighton OUT: Stefanos Tzimas, Evan FERGUSON (Star-9er raus), Carlos Baleba. Fraglich: Kaoru Mitoma, Yankuba Minteh. Danny WELBECK fuehrt Angriff (13 Tore 25/26).",
-        "Villa OUT: Amadou Onana, Leon Bailey, Johan Manzambi. Fraglich: Alejandro Garnacho. Ollie WATKINS mit 16 Toren 25/26.",
-        "H2H: Villa gewann 3 der letzten 5 Duelle.",
-        "Brighton hat Do 20.08. 0:0 bei Tromso im Fir-Park-artigen Nord-Cauldron gespielt - Nordnorwegen-Auswaerts-Fernreise in den Beinen.",
-        "Aggregator-Quoten (bet365 live pruefen): Brighton 5/4 (~2.25), Draw 11/4 (~3.75), Villa 7/4 (~2.75). Ueber 2.5 Modell 55.8%, BTTS 58.5%. Doppelte Chance / Torschuetzen-Quoten nicht in Snippets belegbar - Watkins-Torschuetze-Schaetzung 2.20-2.60 (16 Tore 25/26)."
-      ],
-      "tipps": [
-        {
-          "id": "bhb-avl-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance: Aston Villa oder Unentschieden (X2)",
-          "quote": 1.5,
-          "einsatz_euro": 15.0,
-          "empfohlener_einsatz_prozent": 1.5,
-          "edge_prozent": 10,
-          "faire_quote": 1.36,
-          "begruendung": "BELASTUNGS-EDGE Villa: Brighton 3 Tage nach Tromso-Auswaertsreise + UECL-Rueckspiel 4 Tage danach = ROTATIONS-ANREIZ MAXIMAL. Villa 3 Monate frisch nach EL-Titel. DC X2 ist SYSTEM-GOLDGRUBE (77.8% Hit / +9.4% ROI). Absicherer statt Direktsieg nach HR08-18-4 DC-X2-Auswaerts-Cauldron-Doktrin. PL nicht Goldgrube-Liga - kein SAFE moeglich.",
-          "layer_2_tag": "bhb-avl_dc_x2"
-        },
-        {
-          "id": "bhb-avl-2",
-          "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit: Ollie Watkins",
-          "quote": 2.4,
-          "einsatz_euro": 15.0,
-          "empfohlener_einsatz_prozent": 1.5,
-          "edge_prozent": 12,
-          "faire_quote": 2.15,
-          "begruendung": "Watkins mit 16 Toren 25/26 - Villa-9er in bester Form nach EL-Titel. Brighton mit Rotation-Elf + Reise-Muedigkeit = anfaellig fuer feste Emery-Struktur. Torschuetzen Jederzeit ist Markt-Goldgrube +24.4% ROI. AUSWAERTS-Star-9er-Trigger. [Auto HR3: UEFA-Doppelbelastung + Rotation - Top-Stuermer max WACKEL, Joker-Tipp suchen]",
-          "layer_2_tag": "bhb-avl_torschuetze_watkins",
-          "_joker_top_stuermer_block": true
-        },
-        {
-          "id": "bhb-avl-3",
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen: Ja",
-          "quote": 1.75,
-          "einsatz_euro": 5.0,
-          "empfohlener_einsatz_prozent": 0.5,
-          "edge_prozent": 6,
-          "faire_quote": 1.65,
-          "begruendung": "Modell 58.5% BTTS-Wahrscheinlichkeit. Beide Star-9er (Welbeck 13 Tore, Watkins 16 Tore) in Form. Brighton spielt Heim + wenn rotiert doch offensiv nach vorne. HR08-17-6 BTTS-Ja robuster als Ueber 2.5 im MD1. WACKEL statt VALUE, weil Brighton-Rotation koennte Konzeptions-Loch bringen.",
-          "layer_2_tag": "bhb-avl_btts_ja"
-        },
-        {
-          "id": "bhb-avl-4",
-          "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit: Danny Welbeck",
-          "quote": 2.8,
-          "einsatz_euro": 5.0,
-          "empfohlener_einsatz_prozent": 0.5,
-          "edge_prozent": 8,
-          "faire_quote": 2.55,
-          "begruendung": "Backup-Volume-9er-Trigger nach Ferguson-OUT-Struktur. Welbeck 13 Tore letzte Saison war Brighton-Volumen-Referenz. Falls Huerzeler eine offensive Reserve-Elf setzt (EFL-Cup-artige Rotation waere fuer MD1 aber unwahrscheinlich), Welbeck bleibt der Kandidat.",
-          "layer_2_tag": "bhb-avl_torschuetze_welbeck"
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-08-23-fdd-scf",
-      "liga": "DFB-Pokal 2026/27 - 1. Hauptrunde",
-      "heim": "Fortuna Düsseldorf",
-      "gast": "SC Freiburg",
-      "anstoss": "2026-08-23T18:00:00+02:00",
-      "stadion": "Merkur Spiel-Arena, Düsseldorf",
-      "saison_kontext": {
-        "parallel_heim": "keine (kein Europapokal; 3. Liga MD3 erst 28.-30.08.)",
-        "parallel_gast": "UEFA CONFERENCE LEAGUE PLAYOFF: Hinspiel Do 20.08. 20:30 AUSWAERTS bei FC Motherwell (Fir Park, Schottland) + RUECKSPIEL Do 27.08. im Freiburger Europa-Park-Stadion. Pokal-Spiel liegt GENAU DAZWISCHEN (Do-So-Do).",
-        "saisonziel_heim": "Wiederaufstieg in 2. Bundesliga (25/26 Abstieg aus 2. BL); 3. Liga-Aufsteiger-Kandidat, aktuell MD2 gespielt",
-        "saisonziel_gast": "Bundesliga-Rueckkehr in europaeische Ligaphase (UECL-Ligaphase-Ziel via Playoff-Sieg) + Bundesliga-Mittelfeld/Europa-Anschluss",
-        "motivations_asymmetrie": "MAXIMALE ROTATIONSWAHRSCHEINLICHKEIT BEI FREIBURG. Trainer Schuster hat OeFFENTLICH angekuendigt viel zu rotieren (breiter Kader, moeglichst vielen Spielern Einsatzzeit geben). UECL-Rueckspiel Do 27.08. gegen 3.-Liga-Motherwell entscheidet ueber Europa-Saison - Pokal-Spiel bei Drittligist ist LOGISCHER ROTATIONSTERMIN. Fortuna zuhause vor grosser Kulisse mit Aufstiegs-Momentum. Freiburg klar Klasse-Fav aber Quote 1.50 preist Rotation NICHT ein.",
-        "recovery_heim": "letztes Pflichtspiel 3. Liga MD2 ~15./16.08. (7-8 Tage), Rhythmus da",
-        "recovery_gast": "3 TAGE nach Motherwell-Hinspiel inkl. Schottland-Reise; sportlich prekaer wenn A-Elf einsetzt",
-        "quellen": [
-          "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-ersten-hauptrunde",
-          "https://www.merkur-spiel-arena.de/event/1-runde-dfb-pokal-fortuna-duesseldorf-sc-freiburg-23-08-2026",
-          "https://www.sport1.de/news/fussball/conference-league/2026/08/freiburg-in-conference-league-playoffs-gegen-motherwell",
-          "https://www.motherwellfc.co.uk/2026/08/18/sc-freiburg-conference-league-playoff/",
-          "https://www.badische-zeitung.de/der-sc-freiburg-geht-mit-einem-breiten-kader-in-die-neue-saison",
-          "https://www.wetttippsheute.net/fortuna-duesseldorf-sc-freiburg-tipp-quoten-prognose-dfb-pokal-23-08-2026/"
-        ]
-      },
-      "news": [
-        "Freiburg PARALLEL: Do 20.08. Motherwell UECL-Playoff-Hinspiel auswaerts + Do 27.08. Rueckspiel. Pokal-Spiel exakt DAZWISCHEN.",
-        "Schuster PLANT ROTATION - breiter Kader, moeglichst vielen Spielern Einsatzzeit geben (offizielles Zitat Badische Zeitung).",
-        "Freiburg-Personal: Eren Dinkci nicht mehr im Kader (Leihe Werder), Torwart Noah Atubolu unklarer Status (sucht neuen Verein), Rosenfelder + Osterhage fit.",
-        "Insurance-Regel 2:0 GILT NICHT im DFB-Pokal (nur BL/CL/WM). K.O.-Modus mit Verlaengerung / Elfmeter moeglich - Sieg-Tipp = 90-Min-Wette.",
-        "Aggregator-Quoten (Interwetten, bet365 live pruefen): Fortuna 6.50, Draw 4.40, Freiburg 1.50. Ueber 2.5 / BTTS-Quoten nicht in Aggregator-Snippets belegbar. Tipp-Portal-Prognose 1:2 Freiburg-Sieg mit BTTS Ja."
-      ],
-      "tipps": [
-        {
-          "id": "fdd-scf-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance: Fortuna Düsseldorf oder Unentschieden (1X)",
-          "quote": 2.0,
-          "einsatz_euro": 15.0,
-          "empfohlener_einsatz_prozent": 1.5,
-          "edge_prozent": 15,
-          "faire_quote": 1.75,
-          "begruendung": "MAXIMALE ROTATIONS-EDGE Fortuna: Freiburg-Trainer Schuster hat offiziell Rotation angekuendigt zwischen 2 UECL-Playoff-Legs (Do-So-Do). 3 Tage nach Schottland-Reise = B-Elf-Wahrscheinlichkeit hoch. Fortuna zuhause vor grosser Merkur-Kulisse mit Aufstiegs-Momentum. DC 1X ist SYSTEM-GOLDGRUBE (84.6% Hit / +9.5% ROI). K.O.-Modus: DC deckt Elfmeter-Ausgang der 90 Min ab (1X-Bewertung nach 90 Minuten).",
-          "layer_2_tag": "fdd-scf_dc_1x"
-        },
-        {
-          "id": "fdd-scf-2",
+          "id": "tot-new-2",
           "kategorie": "value",
           "markt": "Beide Teams treffen: Ja",
           "quote": 1.65,
           "einsatz_euro": 15.0,
           "empfohlener_einsatz_prozent": 1.5,
-          "edge_prozent": 10,
-          "faire_quote": 1.5,
-          "begruendung": "Freiburg-Rotationskader vs 3.-Liga-Aufstiegskandidat der zuhause offensiv agieren muss. Beide Teams treffen wahrscheinlich - Freiburgs A-Ersatz wird trotz Reserve-Rolle genug erzeugen, Fortuna will zuhause Historisches (Pokal-Ueberraschung). HR08-17-6 BTTS-Ja robuster als Ueber 2.5 im Auftakt-Slate.",
-          "layer_2_tag": "fdd-scf_btts_ja"
+          "edge_prozent": 8,
+          "faire_quote": 1.53,
+          "begruendung": "Newcastle trotz Umbruch mit Woltemade + neuen Signings offensive Waffen; Spurs-Defense historisch schwach (25/26 47 Gegentore, Platz 17). Newcastle im 1. PL-Spiel nach Anfield-Loss braucht Tor -> risiko-orientiert. BTTS-Ja ist die konservative Ueber-Alternative. Klar VALUE.",
+          "layer_2_tag": "tot-new_btts_ja"
         },
         {
-          "id": "fdd-scf-3",
+          "id": "tot-new-3",
           "kategorie": "wackel",
-          "markt": "Über 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
           "quote": 1.75,
           "einsatz_euro": 5.0,
           "empfohlener_einsatz_prozent": 0.5,
           "edge_prozent": 5,
           "faire_quote": 1.67,
-          "begruendung": "Offener Cup-Charakter + Freiburg-Rotationskader vs offensiver 3.-Liga-Heim => erwartbar 3+ Tore. Aber K.O.-Vorsicht + Freiburgs UECL-Fokus auf Do koennte eher 2:1-Ergebnis produzieren. WACKEL wegen Rotations-Unklarheit.",
-          "layer_2_tag": "fdd-scf_ueber_2_5"
+          "begruendung": "Zwei offensiv-orientierte Neu-Ausrichtungen, beide brauchen die Punkte. WACKEL statt VALUE weil beide Defensiv-Blöcke im Umbruch = defensiv-taktische Zurueckhaltung moeglich.",
+          "layer_2_tag": "tot-new_over_2_5"
         }
       ],
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-08-23-psg-ren",
-      "liga": "Ligue 1 McDonald's 2026/27 - 1ère Journée",
-      "heim": "Paris Saint-Germain",
-      "gast": "Stade Rennais",
-      "anstoss": "2026-08-23T20:45:00+02:00",
-      "stadion": "Parc des Princes, Paris",
+      "id": "2026-08-29-juv-par",
+      "liga": "Serie A 2026/27 - Giornata 2",
+      "heim": "Juventus Turin",
+      "gast": "Parma Calcio",
+      "anstoss": "2026-08-29T20:45:00+02:00",
+      "stadion": "Allianz Stadium, Turin",
       "saison_kontext": {
-        "parallel_heim": "UEFA Super Cup gegen Aston Villa Mi 12.08. in Salzburg (11 Tage vorher, Ergebnis nicht recherchiert) - kein weiteres Pflichtspiel diese Woche. CL-Ligaphase startet erst September.",
-        "parallel_gast": "keine europaeische Belastung diese Woche gefunden (Ligue-1-Europa-Verteilung 26/27 zwischen Rennes/Monaco unklar in Quellen).",
-        "saisonziel_heim": "TITELVERTEIDIGUNG auf allen Ebenen (25/26 Meister 76 Pkt, 5. Titel in Folge + CHAMPIONS-LEAGUE-SIEGER 26)",
-        "saisonziel_gast": "Europapokal-Platz halten (25/26 6. mit 59 Pkt via Tor-Differenz)",
-        "motivations_asymmetrie": "PSG als Doublé-Sieger mit vollem Kader und Heimvorteil im Prime-Time-Auftakt. Rennes-Auswaerts-Quote 6.80 realistisch, kaum Underdog-Edge. Kein Value in Rennes-DC, klarer Fokus auf Ueber-Tore / PSG-Sturm-Achse. Kein Belastungs-Unterschied (beide 11 Tage plus).",
-        "recovery_heim": "11 TAGE seit Super Cup (12.08.)",
-        "recovery_gast": "kein Pflichtspiel gefunden; nur Vorbereitung",
+        "parallel_heim": "keine - Juve ohne CL 26/27 (25/26 4. Platz Serie A, CL-Play-off gescheitert oder direkt qualifiziert - Ligaphase ab September); Coppa Italia erst Runde 4 im Dezember",
+        "parallel_gast": "keine - Parma ohne Europapokal, Coppa Italia erst ab Runde 4",
+        "saisonziel_heim": "Scudetto-Angriff nach 25/26 Platz 4 (Konsolidierung unter Tudor bzw. Motta - Trainer-Status live pruefen); Vlahovic weiter Nummer 9, Alajbegovic-Neuzugang aus Leverkusen als IV-Verstaerkung",
+        "saisonziel_gast": "Klassenerhalt Aufsteiger-Sicherung nach 25/26 Verbleib; Kader mit Bonny/Almqvist als Sturm (live pruefen)",
+        "motivations_asymmetrie": "Juve klar favorisiert, Allianz Stadium ausverkauft, Parma als bester Aufsteiger-Kandidat aber ohne Klasse fuer die Champions-Wette. Nach Auftakt gegen Frosinone 24.08. (Auswaerts) will Juve Heim-Fest.",
+        "recovery_heim": "5 Tage seit MD1 gegen Frosinone (23.08. 18:30, Details Aggregator pruefen)",
+        "recovery_gast": "6 Tage seit MD1 gegen Cagliari (22.08.); regulaere Woche",
         "quellen": [
-          "https://www.lfp.fr/assets/L1_MD_2627_CALENDRIER_SOMBRE_920e8f5afd.pdf",
-          "https://info.fr/ligue-1-programmation-tv-j1-j2-om-psg/",
-          "https://www.unibet.fr/paris-sportifs/ligue1-parissg-rennes",
-          "https://www.wincomparator.com/fr-fr/pronostics/psg-rennes-8532641/",
-          "https://www.uefa.com/uefasupercup/news/02a4-2056c25ced6f-cc7862c2721f-1000--2026-uefa-super-cup-in-salzburg-all-you-need-to-know/",
-          "https://www.psg.fr/en/content/pr-paris-saint-germain-crowned-as-french-champions-for-fifth-time-in-a-row"
+          "https://www.legaseriea.it/it/serie-a-enilive/2026-27/calendario",
+          "https://www.kicker.de/juventus-turin/spielplan/verein",
+          "https://www.transfermarkt.de/juventus-turin/startseite/verein/506"
         ]
       },
       "news": [
-        "Widersprüchliche Verletzungslage laut wincomparator: PSG-Kader komplett fit, ABER Mendes gesperrt - bei bet365 live verifizieren.",
-        "Rennes analog: Kader angeblich komplett, ABER Camara gesperrt - verifizieren.",
-        "Kvaratskhelia in Form (Tore gegen Lens + Super Cup vs Aston Villa laut wincomparator).",
-        "Doué in Form (Tore gegen Brest + Aston Villa laut wincomparator).",
-        "Trainer PSG: Luis Enrique. Rennes: Franck Haise.",
-        "Wincomparator-Wahrscheinlichkeiten: PSG-Sieg 69%, Rennes-Sieg 14%, Draw 17%; Ueber 2.5 78.5%, BTTS 61.7%.",
-        "Aggregator-Quoten (bet365 live pruefen): PSG 1.36-1.42, Draw 5.40, Rennes 6.80. Kvaratskhelia-Torschuetze nicht direkt in Snippets belegt - Schaetzung 2.10-2.40."
+        "Juve mit Alajbegovic (Neuzugang Sommer aus Leverkusen, IV) im Kader; Trainer live pruefen (Tudor/Motta-Status)",
+        "Vlahovic als Sturm-Nummer 9 - Torschuetzen-Volumen hoch in Auftakts-Phase",
+        "Parma-Kader nach Klassenerhalt gehalten; kein grosser Umbruch, aber ohne Star-Anker im Angriff",
+        "Aggregator-Quoten (bet365 live pruefen): Juve ~1.35, DC 1X ~1.08, Draw ~4.75, Parma ~8.5-9.5, Ueber 2.5 ~1.60, BTTS ~1.85, Unter 2.5 ~2.20"
       ],
       "tipps": [
         {
-          "id": "psg-ren-1",
-          "kategorie": "value",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.55,
+          "id": "juv-par-1",
+          "kategorie": "safe",
+          "markt": "Juventus oder Remis (Doppelte Chance)",
+          "quote": 1.08,
           "einsatz_euro": 15.0,
           "empfohlener_einsatz_prozent": 1.5,
-          "edge_prozent": 15,
-          "faire_quote": 1.35,
-          "begruendung": "Modell-Wahrscheinlichkeit 78.5% Ueber 2.5. PSG als Doublé-Sieger mit voller Offensive vor eigenem Publikum im Prime-Time-Slot. Rennes wird auch mal aufmachen muessen. Ligue 1 nicht Goldgrube-Liga - kein SAFE moeglich, aber Value hoch.",
-          "layer_2_tag": "psg-ren_ueber_2_5"
+          "edge_prozent": 3,
+          "faire_quote": 1.05,
+          "begruendung": "DC 1X-Goldgrube (+24.9% ROI n=34). Allianz Stadium gegen Aufsteiger Parma ist historisch die sicherste Bank in Serie A (2:0-Insurance gilt hier NICHT - nur BL+CL - aber DC absichert Draw). Serie A weniger belastete Bilanz als PL. Kasse-Stufe 1: 1.5% = 15€.",
+          "layer_2_tag": "juv-par_dc_1x"
         },
         {
-          "id": "psg-ren-2",
+          "id": "juv-par-2",
+          "kategorie": "value",
+          "markt": "Torschuetzen Jederzeit: Dusan Vlahovic",
+          "quote": 1.75,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 7,
+          "faire_quote": 1.64,
+          "begruendung": "Vlahovic Juve-Nummer 9, Elfmeter-Kandidat, Parma-Defense klassenfremd. Markt-Goldgrube Torschuetzen Jederzeit. HR24 Form-Edge (25/26 solide Torschuetzenbilanz - Details bei transfermarkt pruefen). Startelf 60min vor Anpfiff bei kicker.de/juventus.com verifizieren (Rotation nach MD1 moeglich).",
+          "layer_2_tag": "juv-par_torschuetze_vlahovic"
+        },
+        {
+          "id": "juv-par-3",
           "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit: Khvicha Kvaratskhelia",
-          "quote": 2.25,
-          "einsatz_euro": 15.0,
-          "empfohlener_einsatz_prozent": 1.5,
-          "edge_prozent": 15,
-          "faire_quote": 1.95,
-          "begruendung": "FORM-EDGE: Kvara mit Toren gegen Lens + Super Cup vs Villa. HEIM-FAV < 1.80 => Torschuetzen-Pflicht-Slot. Kvara ist der zentrale Angreifer PSG-Struktur-Ecke. Torschuetzen Jederzeit ist System-Goldgrube +24.4% ROI. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
-          "layer_2_tag": "psg-ren_torschuetze_kvara",
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "id": "psg-ren-3",
-          "kategorie": "value",
-          "markt": "PSG Sieg",
-          "quote": 1.4,
-          "einsatz_euro": 15.0,
-          "empfohlener_einsatz_prozent": 1.5,
-          "edge_prozent": 5,
-          "faire_quote": 1.33,
-          "begruendung": "Doublé-Sieger @1.40 vs Rennes im Prime-Time-Auftakt. Klassen-Edge riesig, Rennes -Quote 6.80 realistisch. Ligue 1 NICHT Goldgrube-Liga => Auto-SAFE-Downgrade auf VALUE. Kein DC-Slot (max 1 DC-Regel + eh nicht noetig bei 1.40).",
-          "layer_2_tag": "psg-ren_sieg_psg"
-        },
-        {
-          "id": "psg-ren-4",
-          "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit: Désiré Doué",
-          "quote": 2.8,
-          "einsatz_euro": 5.0,
-          "empfohlener_einsatz_prozent": 0.5,
-          "edge_prozent": 8,
-          "faire_quote": 2.55,
-          "begruendung": "Zweiter Form-9er PSG (Tore vs Brest + Villa). Kombinierbar mit Kvara-Bein zu Sturm-Zwilling-Absicherung. WACKEL weil Rotation zwischen Kvara + Doué + Neymar-Ersatz moeglich.",
-          "layer_2_tag": "psg-ren_torschuetze_doue"
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-08-23-tor-mil",
-      "liga": "Serie A Enilive 2026/27 - 1ª Giornata",
-      "heim": "Torino FC",
-      "gast": "AC Milan",
-      "anstoss": "2026-08-23T20:45:00+02:00",
-      "stadion": "Stadio Olimpico Grande Torino, Turin",
-      "saison_kontext": {
-        "parallel_heim": "keine (nicht im Coppa-Italia-32tel; kein Europapokal 26/27)",
-        "parallel_gast": "EL-Ligaphase startet erst September; nicht im Coppa-Italia-32tel; DIESE WOCHE kein Spiel",
-        "saisonziel_heim": "Oberes Mittelfeld / Europa-Anschluss unter Trainer Abate (Serie-A-Debuet gegen seinen Ex-Klub!); 25/26 Mittelfeld (exakte Platzierung nicht zuverlaessig recherchierbar)",
-        "saisonziel_gast": "CHAMPIONS-LEAGUE-RUECKKEHR nach 25/26 Platz 5 (durch 1:2-Heimniederlage vs Cagliari am letzten Spieltag aus Top-4 gefallen); Trainer Amorim uebernommen fuer Neustart",
-        "motivations_asymmetrie": "Milan mit CL-Rueckkehr-AUFTRAG nach verpasstem Top-4 und Trainerwechsel-Neustart Amorim; Torino im Prestige-Duell mit Ex-Milan-Spieler Abate als neuer Trainer. Klassen-Edge Milan aber Duell historisch ULTRA-TORREICH: 6/6 letzten Serie-A-Duelle Ueber 2.5, 5/5 Duelle BTTS mit >=4 Toren. Kein Belastungsunterschied.",
-        "recovery_heim": "kein Pflichtspiel seit Serie-A-Ende Mai 26; nur Vorbereitung",
-        "recovery_gast": "kein Pflichtspiel seit Serie-A-Ende Mai 26; nur Vorbereitung; Maignan trotz spaeter Training-Aufnahme voraussichtlich im Tor",
-        "quellen": [
-          "https://www.legaseriea.it/serie-a/news/ecco-la-prima-giornata-della-serie-a-enilive-2026-27",
-          "https://www.acmilan.com/en/news/articles/serie-a/2026-06-05/serie-a-2026-27-starts-with-torino-v-ac-milan",
-          "https://www.tuttofantacalcio.it/probabili-formazioni/serie-a-probabili-formazioni-torino-milan-fantacalcio-34413",
-          "https://www.fantamaster.it/infortunio-gabbia-recupero-torino-milan-seriea-2026-2027/",
-          "https://www.squawka.com/en/news/torino-vs-ac-milan-predictions-betting-tips-23-08-26/",
-          "https://oddspedia.com/football/ac-milan-torino-65402/predictions"
-        ]
-      },
-      "news": [
-        "Milan: Matteo Gabbia rechtzeitig fit. Maignan trotz spaeter Training-Aufnahme voraussichtlich im Tor. Trainer Amorim.",
-        "Torino: Trainer Abate (Serie-A-Debuet vs seinen Ex-Klub Milan). Verletzungsliste nicht detailliert recherchierbar.",
-        "Predicted Torino (3-4-2-1): Paleari; Ismajli, Coco, Comuzzo; Pedersen, Fitz-Jim, Gineitis, Cacciamani; Njie, Vlasic; Simeone",
-        "Predicted Milan (3-4-3): Maignan; Gila, Gabbia, Pavlovic; Saelemaekers, Modric, Jashari, Bartesaghi; Chukwueze, Ramos, Cisse",
-        "Historisch: 6/6 Ueber 2.5 in letzten Serie-A-Duellen, 5/5 BTTS mit >=4 Toren - eines der torreichsten Duelle der Liga.",
-        "Aggregator-Quoten (bet365 live pruefen): Torino 4.65 (1xBet), Draw nicht in Snippets belegbar, Milan 1.71 (BetMGM). Ueber/Unter 2.5 + BTTS-Quoten nicht direkt belegt - Schaetzung Ueber 2.5 @1.65, BTTS Ja @1.65."
-      ],
-      "tipps": [
-        {
-          "id": "tor-mil-1",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen: Ja",
-          "quote": 1.65,
-          "einsatz_euro": 15.0,
-          "empfohlener_einsatz_prozent": 1.5,
-          "edge_prozent": 20,
-          "faire_quote": 1.38,
-          "begruendung": "KLARER HISTORIEN-EDGE: 5/5 letzten Serie-A-Duelle BTTS mit >=4 Toren, 6/6 Ueber 2.5. Beide Neustart-Trainer bringen offensive Ausrichtung. Torino-Simeone + Milan-Ramos beide 9er-Setup. HR08-17-6 BTTS-Ja Auftakt-Cluster-Doktrin. Klarstes Value im Slate.",
-          "layer_2_tag": "tor-mil_btts_ja"
-        },
-        {
-          "id": "tor-mil-2",
-          "kategorie": "value",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.65,
-          "einsatz_euro": 15.0,
-          "empfohlener_einsatz_prozent": 1.5,
-          "edge_prozent": 18,
-          "faire_quote": 1.4,
-          "begruendung": "Historisch 6/6 letzten Duelle Ueber 2.5 = starkes Muster. Beide offensiv organisiert, beide ohne Wettkampf-Konservatismus im MD1. Serie A nicht Goldgrube-Liga aber diese Team-Kombination bricht die Regel. Faire Quote ~1.40, angeboten ~1.65.",
-          "layer_2_tag": "tor-mil_ueber_2_5"
-        },
-        {
-          "id": "tor-mil-3",
-          "kategorie": "wackel",
-          "markt": "AC Milan Sieg",
-          "quote": 1.71,
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.6,
           "einsatz_euro": 5.0,
           "empfohlener_einsatz_prozent": 0.5,
           "edge_prozent": 4,
-          "faire_quote": 1.65,
-          "begruendung": "Milan klarer Klassen-Fav aber Amorim-Debuet-Ausrichtung offen + Torino-Heim in Grande Torino nie einfach. AUSWAERTS-FAV < 2.20 aber WACKEL wegen hoher Tor-Historie (BTTS-Cluster kann Torino 2 Tore geben). Insurance nicht anwendbar (Serie A).",
-          "layer_2_tag": "tor-mil_sieg_milan"
-        },
-        {
-          "id": "tor-mil-4",
-          "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit: Giovanni Simeone",
-          "quote": 2.6,
-          "einsatz_euro": 5.0,
-          "empfohlener_einsatz_prozent": 0.5,
-          "edge_prozent": 7,
-          "faire_quote": 2.4,
-          "begruendung": "Torino-9er in torreichem Duell (BTTS-Historie 5/5). Vater-Simeone-Familie gegen Milan traditionell motiviert. WACKEL wegen Serie-A-Debuet-Startelf-Rotation-Risiko.",
-          "layer_2_tag": "tor-mil_torschuetze_simeone"
+          "faire_quote": 1.54,
+          "begruendung": "Juve als Fav sollte gegen Aufsteiger mind. 2 Tore erzielen; Parma zwingt nicht offen aufzumachen -> Risiko dass Juve nach fruehem Fuehrungstor Tempo drosselt. WACKEL statt VALUE.",
+          "layer_2_tag": "juv-par_over_2_5"
         }
       ],
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-08-23-elc-bar",
-      "liga": "LaLiga EA SPORTS 2026/27 - Jornada 2",
-      "heim": "Elche CF",
-      "gast": "FC Barcelona",
-      "anstoss": "2026-08-23T21:30:00+02:00",
-      "stadion": "Estadio Manuel Martínez Valero, Elche",
+      "id": "2026-08-29-rbl-bmg",
+      "liga": "Bundesliga 2026/27 - Matchday 1",
+      "heim": "RB Leipzig",
+      "gast": "Borussia Moenchengladbach",
+      "anstoss": "2026-08-29T13:30:00+02:00",
+      "stadion": "Red Bull Arena, Leipzig",
       "saison_kontext": {
-        "parallel_heim": "keine",
-        "parallel_gast": "kein europaeisches Playoff (CL-Ligaphase erst September), ABER Nachhol-Spiel J1 bei ATHLETIC CLUB am Do 27.08. in San Mames - 4 Tage danach, leichtes Rotations-Risiko",
-        "saisonziel_heim": "Klassenerhalt LaLiga (Aufsteiger; 25/26 Zweitliga-Aufstieg); Anselmi-Debuet 1:1 in Riazor. Aktuell 1 Pkt",
-        "saisonziel_gast": "TITELVERTEIDIGUNG (25/26 MEISTER 29. Titel, mathematisch am 35. Spieltag durch 2:0 vs Real Madrid); erstes Pflichtspiel der Saison 26/27",
-        "motivations_asymmetrie": "Elche mit Anselmi-Rueckenwind + Heimpublikum + Aufsteiger-Debuet-Cauldron (HR08-15-1 LaLiga-Aufsteiger-MD-Heim-Falle - Analog Racing 0:3, Depor 1:1 late). Barca ohne Wettkampfrhythmus (kein Pflichtspiel 26/27) + Athletic-Auswaerts 4 Tage spaeter. Quote 1.40 preist Rhythmus-Nachteil nicht ein aber Kader-Klassen-Delta bleibt riesig.",
-        "recovery_heim": "6 Tage seit 1:1 bei Deportivo (Mo 17.08.)",
-        "recovery_gast": "KEIN Pflichtspiel 26/27; nur Vorbereitung; WM 26 endete 19.07. (33 Tage) - ausgeruht aber ohne Wettkampf",
+        "parallel_heim": "keine - RB Leipzig ohne Europapokal 26/27 (25/26 CL-Aus fruehe Phase); DFB-Pokal 1.Runde 15./16.08. absolviert",
+        "parallel_gast": "keine - Gladbach ohne Europapokal, DFB-Pokal 1.Runde absolviert",
+        "saisonziel_heim": "Europapokal-Quali-Rueckkehr nach 25/26 Enttaeuschung; Diomande fuer 125 Mio zu Real Madrid weg (Rekord-Abgang eines BL-Klubs!), Reitz-Neuzugang aus Gladbach als 8er, neuer Trainer Demichelis (Werner-Nachfolge - live pruefen)",
+        "saisonziel_gast": "Mittelfeld-Konsolidierung nach 25/26 Platz 10; Reitz an Leipzig verkauft = Mittelfeld geschwaecht",
+        "motivations_asymmetrie": "Doppelt asymmetrisch: Leipzig mit neuem Trainer + Diomande-Ausfall = Umbruch-Risiko. Gladbach ohne Reitz = eigenes Mittelfeld-Loch. Beide instabil, aber Leipzig hat mehr Kaderklasse. Reitz-Transfer-Umkehreffekt psychologisch beachtenswert. Kein SAFE, klar VALUE-Bereich.",
+        "recovery_heim": "~13 Tage seit DFB-Pokal Mitte August; Reise-Rest ausreichend",
+        "recovery_gast": "~13 Tage seit DFB-Pokal Mitte August; regulaere Woche",
         "quellen": [
-          "https://www.laliga.com/noticias/horarios-de-la-segunda-jornada-de-laliga-ea-sports-2026-27",
-          "https://www.eldesmarque.com/futbol/liga-1a-division/20260820/posibles-elche-barcelona-jornada-2-laliga-ea-sports_18_019978181.html",
-          "https://www.wincomparator.com/predictions/elche-barcelona-8586426/",
-          "https://easyodds.com/elche-vs-barcelona-betting-odds-tips-predictions-preview-23rd-august-2026",
-          "https://lagrada.org/liga-26-27-jornada-1-resultados-clasificacion-cronica-resumen-partidos-espanyol-levante-domingo/",
-          "https://www.fcbarcelona.es/es/campeones-liga-2025-2026"
+          "https://www.bundesliga.com/en/bundesliga/matchday",
+          "https://www.kicker.de/rb-leipzig/spielplan/verein",
+          "https://www.transfermarkt.de/rasenballsport-leipzig/startseite/verein/23826"
         ]
       },
       "news": [
-        "Barcelonas erstes Pflichtspiel 26/27 (J1 in San Mames vs Athletic auf Mi 27.08. verlegt).",
-        "Elche OUT: Yago Santiago (Knie), Diangana (Muskel, wahrscheinlicher Ausfall). Anselmi (Trainer) mit 1:1-Anselmi-Debuet in Riazor.",
-        "Barcelona OUT: De Jong (Mittelfeld), Bardghji. Status LEWANDOWSKI + YAMAL nicht in Snippets belegt.",
-        "Predicted Elche (5-2-2-1): Dituro; Sangare, Affengruber, Chust (Redondo oder Bigas), Valera ... - Trainer Anselmi.",
-        "Historisch Ueber 2.5 in 9 der letzten Duelle (easyodds).",
-        "Aggregator-Quoten (bet365 live pruefen): Elche 8.50, Draw 5.80, Barcelona 1.40 (1xbet). Ueber 2.5 @1.50 belegt (easyodds). BTTS/Torschuetzen-Quoten nicht direkt belegt."
+        "Leipzig: Diomande fuer 125 Mio zu Real Madrid weg (BL-Rekord), Reitz-Neuzugang aus Gladbach, Demichelis neuer Trainer (Werner-Nachfolge - live pruefen)",
+        "Gladbach: Reitz (an Leipzig) verkauft - Mittelfeld-Loch; Kleindienst weiter Sturm-Ass (live pruefen)",
+        "Kein direkter Klassen-Edge, aber Leipzig-Heim-Vorteil in Red Bull Arena",
+        "Aggregator-Quoten (bet365 live pruefen): Leipzig-Sieg ~1.65-1.75, Draw ~4.00, Gladbach ~4.50-5.00, Ueber 2.5 ~1.70, BTTS ~1.65, DC 1X ~1.20, DC X2 ~2.20"
       ],
       "tipps": [
         {
-          "id": "elc-bar-1",
-          "kategorie": "safe",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.5,
-          "einsatz_euro": 15.0,
-          "empfohlener_einsatz_prozent": 1.5,
-          "edge_prozent": 15,
-          "faire_quote": 1.3,
-          "begruendung": "HISTORIEN-EDGE: 9 der letzten Duelle Ueber 2.5. Barca-Angriff Yamal/Raphinha/Lewy in LaLiga-Traditionell-Torreich-Setup. LaLiga IST Goldgrube-Liga (+57% ROI). Ueber 2.5 faire Quote ~1.30, angeboten 1.50 = signifikant Value. SAFE legitim weil LaLiga-Goldgrube + Historie-Cluster.",
-          "layer_2_tag": "elc-bar_ueber_2_5"
-        },
-        {
-          "id": "elc-bar-2",
+          "id": "rbl-bmg-1",
           "kategorie": "value",
-          "markt": "Barcelona Sieg",
-          "quote": 1.4,
+          "markt": "RB Leipzig oder Remis (Doppelte Chance)",
+          "quote": 1.2,
           "einsatz_euro": 15.0,
           "empfohlener_einsatz_prozent": 1.5,
-          "edge_prozent": 5,
-          "faire_quote": 1.33,
-          "begruendung": "Titelverteidiger @1.40 auswaerts. LaLiga Goldgrube-Liga + Klassen-Edge riesig, aber Barca ohne Wettkampfrhythmus + Elche-Anselmi-Heim-Debuet + Aufsteiger-Cauldron-Falle (HR08-15-1). Auto-Auswaerts-Fav-Sanity-Downgrade auf VALUE. Kein DC-Slot (max 1).",
-          "layer_2_tag": "elc-bar_sieg_barca"
+          "edge_prozent": 6,
+          "faire_quote": 1.13,
+          "begruendung": "DC 1X-Goldgrube (+24.9% ROI n=34). Neuer Trainer + Diomande-Ausfall im MF -> DC statt reinem Sieg-Tipp. Red Bull Arena + Reitz gegen Ex-Verein = leichter Motivations-Edge. Kasse-Stufe 1: 1.5% = 15€.",
+          "layer_2_tag": "rbl-bmg_dc_1x"
         },
         {
-          "id": "elc-bar-3",
-          "kategorie": "wackel",
-          "markt": "Torschuetzen Jederzeit: Lamine Yamal",
-          "quote": 2.2,
-          "einsatz_euro": 5.0,
-          "empfohlener_einsatz_prozent": 0.5,
-          "edge_prozent": 8,
-          "faire_quote": 2.0,
-          "begruendung": "AUSWAERTS-FAV < 2.20 Torschuetzen-Pflicht + Yamal ist zentrale Angriffs-Achse. Lewy-Status unklar => Yamal statt Lewy als Backup gewaehlt. WACKEL wegen kein-Wettkampfrhythmus-Risiko + Anselmi-Defensiv-System (5er-Kette).",
-          "layer_2_tag": "elc-bar_torschuetze_yamal"
-        },
-        {
-          "id": "elc-bar-4",
+          "id": "rbl-bmg-2",
           "kategorie": "wackel",
           "markt": "Beide Teams treffen: Ja",
-          "quote": 1.8,
+          "quote": 1.65,
           "einsatz_euro": 5.0,
           "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 4,
+          "faire_quote": 1.58,
+          "begruendung": "Beide Defensivblöcke im Umbruch; Kleindienst als Gladbach-Kopfballstark (Kader live pruefen). WACKEL wegen Auftakts-Vorsicht auf beiden Seiten.",
+          "layer_2_tag": "rbl-bmg_btts_ja"
+        },
+        {
+          "id": "rbl-bmg-3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.7,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 4,
+          "faire_quote": 1.62,
+          "begruendung": "Beide offensiv veranlagt, aber Auftakts-Vorsicht + Systemumstellungen sprechen fuer maessiges Tor-Volumen. WACKEL statt Value.",
+          "layer_2_tag": "rbl-bmg_over_2_5"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-08-30-fre-wer",
+      "liga": "Bundesliga 2026/27 - Matchday 1",
+      "heim": "SC Freiburg",
+      "gast": "Werder Bremen",
+      "anstoss": "2026-08-30T13:30:00+02:00",
+      "stadion": "Europa-Park Stadion, Freiburg",
+      "saison_kontext": {
+        "parallel_heim": "keine - Freiburg 26/27 ohne Europapokal (25/26 CL-Aus fruehe Phase / EL-Quali knapp verpasst)",
+        "parallel_gast": "keine - Werder ohne Europapokal 26/27; DFB-Pokal 1.Runde Mitte August absolviert",
+        "saisonziel_heim": "Europapokal-Quali-Rueckkehr nach 25/26 Enttaeuschung; Trainer weiter Julian Schuster (live pruefen)",
+        "saisonziel_gast": "Mittelfeld-Konsolidierung, Klassenerhalt-Sicherung nach 25/26 Platz 12-14",
+        "motivations_asymmetrie": "Freiburg-Heim traditionell stark gegen Werder (positive H2H-Bilanz); Klassen-Edge minimal aber Heim-Faktor dominant. Kein Coinflip trotz Aggregator-Quote nahe VALUE-Bereich.",
+        "recovery_heim": "~13 Tage seit DFB-Pokal Mitte August; regulaere Woche",
+        "recovery_gast": "~13 Tage seit DFB-Pokal Mitte August; regulaere Woche",
+        "quellen": [
+          "https://www.bundesliga.com/en/bundesliga/matchday",
+          "https://www.kicker.de/sc-freiburg/spielplan/verein",
+          "https://www.transfermarkt.de/sc-freiburg/startseite/verein/60"
+        ]
+      },
+      "news": [
+        "Freiburg-Heim in Europa-Park Stadion mit stabiler H2H gegen Werder",
+        "Freiburg-Sturm mit Grifo als Elfmeter-Kandidat und Volumen-Schuetzen (live pruefen)",
+        "Werder mit Ducksch/Njinmah als Sturm-Optionen (Kader live pruefen)",
+        "Aggregator-Quoten (bet365 live pruefen): Freiburg ~1.85-2.00, Draw ~3.60, Werder ~3.80-4.20, Ueber 2.5 ~1.75, BTTS ~1.65, DC 1X ~1.28, DC X2 ~1.85, Unter 2.5 ~2.10"
+      ],
+      "tipps": [
+        {
+          "id": "fre-wer-1",
+          "kategorie": "value",
+          "markt": "Freiburg oder Remis (Doppelte Chance)",
+          "quote": 1.28,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 6,
+          "faire_quote": 1.21,
+          "begruendung": "DC 1X-Goldgrube (+24.9% ROI n=34). Freiburg-Heim historisch stabil gegen Werder, kein Motivations-Deficit. Kasse-Stufe 1: 1.5% = 15€.",
+          "layer_2_tag": "fre-wer_dc_1x"
+        },
+        {
+          "id": "fre-wer-2",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.65,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 4,
+          "faire_quote": 1.58,
+          "begruendung": "Beide offensiv-orientiert, aber Werder-Defense-Verletzungen und Freiburg-Kompaktheit halten es offen. WACKEL statt Value.",
+          "layer_2_tag": "fre-wer_btts_ja"
+        },
+        {
+          "id": "fre-wer-3",
+          "kategorie": "wackel",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.35,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.31,
+          "begruendung": "Freiburg-Werder-H2H tendiert taktisch (avg <3 Tore). Wackel wegen niedriger Quote.",
+          "layer_2_tag": "fre-wer_unter_3_5"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-08-30-che-bri",
+      "liga": "Premier League 2026/27 - Matchweek 2",
+      "heim": "Chelsea FC",
+      "gast": "Brighton and Hove Albion",
+      "anstoss": "2026-08-30T15:00:00+02:00",
+      "stadion": "Stamford Bridge, London",
+      "saison_kontext": {
+        "parallel_heim": "keine - Chelsea ohne CL 26/27 (EL-Titel 25/26 hatte CL-Slot; Ligaphase startet erst September - Auslosung 28.08.)",
+        "parallel_gast": "keine - Brighton ohne Europapokal 26/27; EFL Cup R2 erst 26.08.",
+        "saisonziel_heim": "Top-4-Rueckkehr + Titelangriff nach 25/26 CL-Konsolidierung; Xabi Alonso als Trainer (Juli 26 verpflichtet - live pruefen), Rogers-Rekord-Transfer (£117m aus Aston Villa) fuers Offensiv-Mittelfeld, Lacroix-Neuzugang (€60m Crystal Palace) als IV",
+        "saisonziel_gast": "Mittelfeld-Konsolidierung nach 25/26 Platz 8; Trainer Fabian Huerzeler weiter (live pruefen)",
+        "motivations_asymmetrie": "Chelsea-Kader nach Xabi-Alonso-Umbau + Rogers/Lacroix-Zugaenge klar staerker als 25/26. Brighton als Data-Klub taktisch gefaehrlich, aber Kader-Klasse-Delta Chelsea. Kein Coinflip - klar Chelsea-Fav, aber Konsens-Skepsis PL n=25 -25% ROI historisch = DC statt Sieg SAFE.",
+        "recovery_heim": "6 Tage seit MW1 (Details Aggregator pruefen)",
+        "recovery_gast": "6 Tage seit MW1 (Details Aggregator pruefen)",
+        "quellen": [
+          "https://www.premierleague.com/en/matches/premier-league/2026-27/matchweek-2",
+          "https://www.kicker.de/fc-chelsea/spielplan/verein",
+          "https://www.transfermarkt.de/fc-chelsea/startseite/verein/631"
+        ]
+      },
+      "news": [
+        "Chelsea unter Xabi Alonso (Juli 26 verpflichtet - live pruefen); Rogers-Neuzugang (£117m aus Aston Villa - Rekord-Britisch-Transfer) im Offensiv-MF, Lacroix-Neuzugang (€60m Crystal Palace) IV",
+        "Chelsea-Sturm-Optionen: Palmer/Jackson/Rogers als offensive Trigger (Kader live pruefen)",
+        "Brighton mit Welbeck/Mitoma als Sturm/Aussen (Kader live pruefen)",
+        "Aggregator-Quoten (bet365 live pruefen): Chelsea ~1.65-1.75, Draw ~4.00, Brighton ~4.50-5.00, Ueber 2.5 ~1.65, BTTS ~1.60, DC 1X ~1.18, DC X2 ~2.25"
+      ],
+      "tipps": [
+        {
+          "id": "che-bri-1",
+          "kategorie": "value",
+          "markt": "Chelsea oder Remis (Doppelte Chance)",
+          "quote": 1.18,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
           "edge_prozent": 5,
-          "faire_quote": 1.72,
-          "begruendung": "Elche zuhause im Debuet-Cauldron mit Anselmi-Zutrauen; Barca-Defense noch nicht eingespielt. HR08-15-1 LaLiga-Aufsteiger-Late-Concede-Muster deutet auf Elche-Fruehes-Tor + spaetes-Barca-Ueberrollen = BTTS-Szenario.",
-          "layer_2_tag": "elc-bar_btts_ja"
+          "faire_quote": 1.12,
+          "begruendung": "DC 1X-Goldgrube (+24.9% ROI n=34). Chelsea-Kader nach Xabi-Alonso-Umbau + Rogers/Lacroix-Neuzugaenge klar staerker; Brighton taktisch aber unterlegen. PL-Konsens-Skepsis rechtfertigt DC statt reinem Sieg SAFE. Kasse-Stufe 1: 1.5% = 15€.",
+          "layer_2_tag": "che-bri_dc_1x"
+        },
+        {
+          "id": "che-bri-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.6,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 8,
+          "faire_quote": 1.48,
+          "begruendung": "Chelsea-Defense im Umbruch (Lacroix erst neu), Brighton mit Welbeck/Mitoma trifft historisch. Klar VALUE - Layer-3-entkoppelt zu Chelsea-Sieg-Bein moeglich.",
+          "layer_2_tag": "che-bri_btts_ja"
+        },
+        {
+          "id": "che-bri-3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.65,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 4,
+          "faire_quote": 1.58,
+          "begruendung": "Beide offensiv, aber Xabi-Alonso-Systemumstellung sorgt fuer taktische Zurueckhaltung Auftakts-Phase. WACKEL statt Value.",
+          "layer_2_tag": "che-bri_over_2_5"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-08-30-nap-com",
+      "liga": "Serie A 2026/27 - Giornata 2",
+      "heim": "SSC Napoli",
+      "gast": "Como 1907",
+      "anstoss": "2026-08-30T18:30:00+02:00",
+      "stadion": "Stadio Diego Armando Maradona, Napoli",
+      "saison_kontext": {
+        "parallel_heim": "keine - Napoli in CL-Ligaphase 26/27 (startet erst September, keine Doppelbelastung diese Woche); Coppa Italia erst Runde 4",
+        "parallel_gast": "keine - Como ohne Europapokal 26/27",
+        "saisonziel_heim": "Scudetto-Titelverteidigung (25/26 Meister unter Conte); Lukaku im August zu Fenerbahce weg - NICHT mehr als Napoli-Spieler tippen; De Bruyne (25/26 gekommen) im Mittelfeld als neuer Schluessel-Spieler",
+        "saisonziel_gast": "Klassenerhalt-Konsolidierung nach 25/26 Aufsteiger-Verbleib; Trainer Cesc Fabregas (live pruefen), Kader ambitioniert aber ohne Klasse fuer Champions-Herausforderung",
+        "motivations_asymmetrie": "Napoli klar favorisiert im Maradona; Lukaku-Ausfall setzt die Sturmschwaeche voraus, aber De Bruyne + neuer 9er (Kader live pruefen) kompensieren. Como taktisch gefaehrlich, aber Klassen-Delta Napoli-Heim = starker Fav.",
+        "recovery_heim": "8 Tage seit Genoa-Napoli 22.08. (2:0-Sieg via De Bruyne/Vergara)",
+        "recovery_gast": "6 Tage seit MD1 (Details Aggregator pruefen)",
+        "quellen": [
+          "https://www.legaseriea.it/it/serie-a-enilive/2026-27/calendario",
+          "https://www.kicker.de/ssc-neapel/spielplan/verein",
+          "https://www.transfermarkt.de/ssc-neapel/startseite/verein/6195"
+        ]
+      },
+      "news": [
+        "Napoli 22.08. 2:0 in Genoa (De Bruyne 82., Vergara 87.); Lukaku im August zu Fenerbahce weg - NICHT mehr als Napoli-Spieler tippen",
+        "Napoli-Trainer Antonio Conte (live pruefen); De Bruyne als neuer Schluessel-Spielmacher, Sturm-Nummer 9 im Umbruch (Kader live pruefen)",
+        "Como unter Fabregas taktisch versiert, aber Kaderklasse deutlich unter Napoli-Niveau",
+        "Aggregator-Quoten (bet365 live pruefen): Napoli-Sieg ~1.45-1.55, DC 1X ~1.10-1.14, Draw ~4.50, Como ~6.5-7.5, Ueber 2.5 ~1.75, BTTS ~1.85, Unter 2.5 ~2.05"
+      ],
+      "tipps": [
+        {
+          "id": "nap-com-1",
+          "kategorie": "safe",
+          "markt": "Napoli oder Remis (Doppelte Chance)",
+          "quote": 1.1,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.07,
+          "begruendung": "DC 1X-Goldgrube (+24.9% ROI n=34). Napoli-Heim im Maradona gegen Aufsteiger-Kandidat Como. Serie A rolling-Bilanz akzeptabel, DC schuetzt Draw-Restrisiko. 2:0-Insurance gilt hier NICHT (nur BL+CL). Kasse-Stufe 1: 1.5% = 15€.",
+          "layer_2_tag": "nap-com_dc_1x"
+        },
+        {
+          "id": "nap-com-2",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 2.05,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 6,
+          "faire_quote": 1.93,
+          "begruendung": "Markt-Goldgrube Unter 2.5 (+22.4% ROI n=26, 73% Hit) - aktives Suchen Pflicht. Napoli-Genoa nur 2:0, Napoli taktisch-diszipliniert unter Conte. Como diszipliniert unter Fabregas. WACKEL wegen Napoli-Heim-Offensive-Alternative.",
+          "layer_2_tag": "nap-com_unter_2_5"
+        },
+        {
+          "id": "nap-com-3",
+          "kategorie": "wackel",
+          "markt": "Torschuetzen Jederzeit: Kevin De Bruyne",
+          "quote": 3.0,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 6,
+          "faire_quote": 2.83,
+          "begruendung": "De Bruyne 82. gegen Genoa als Torschuetze; Napoli-Spielmacher-Rolle unter Conte. Elfmeter/Freistoss-Kandidat. WACKEL wegen Torschuetzen-Volatilitaet als 10er.",
+          "layer_2_tag": "nap-com_torschuetze_debruyne"
         }
       ],
       "kontext_check_status": "OK"
@@ -759,272 +545,308 @@ window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
   ],
   "einzeltipps": [
     {
-      "spiel_id": "2026-08-22-bvb-fcb",
-      "tipp_id": "2026-08-22-bvb-fcb-01",
+      "spiel_id": "2026-08-29-bvb-hsv",
+      "tipp_id": "bvb-hsv-1",
       "kategorie": "safe",
-      "markt": "Bayern Doppelte Chance X2 (Unentschieden oder Bayern)",
-      "quote": 1.22,
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurzbegruendung": "DC X2 ist bestätigte Markt-Goldgrube (77.8% Hitrate / +9.4% ROI). Bayern ist bei ~1.70 klarer Favorit, BVB-Sieg steht bei ~4.80. Der Reiz an X2 statt Sieg: bei Remis nach 90 Min geht der Supercup ins Elfmeterschießen - die DC kassiert trotzdem. BVB hat seine komplette Stamm-Innenverteidigung raus (N. Schlotterbeck, Can), Bayern hat mit Kane/Olise/Díaz die intakte Offensiv-Achse. Kasse 1000€ x 1.5% = 15€. WICHTIG: keine 2:0-Insurance im Supercup (nur BL + CL).",
+      "kurz": "Dortmund oder Remis (DC 1X) @1.07 - Goldgrube-DC gegen Aufsteiger, Signal Iduna gegen HSV historisch Bank",
       "rang": 1
     },
     {
-      "spiel_id": "2026-08-23-elc-bar",
-      "tipp_id": "elc-bar-1",
+      "spiel_id": "2026-08-29-liv-not",
+      "tipp_id": "liv-not-1",
       "kategorie": "safe",
-      "markt": "Über 2.5 Tore",
-      "quote": 1.5,
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurzbegruendung": "HISTORIEN-EDGE: 9 der letzten Duelle Ueber 2.5. Barca-Angriff Yamal/Raphinha/Lewy in LaLiga-Traditionell-Torreich-Setup. LaLiga IST Goldgrube-Liga (+57% ROI). Ueber 2.5 faire Quote ~1.30, angeboten 1.",
+      "kurz": "Liverpool oder Remis (DC 1X) @1.07 - Meister-Heim gegen ohne-Anderson-Forest",
       "rang": 2
     },
     {
-      "spiel_id": "2026-08-23-psg-ren",
-      "tipp_id": "psg-ren-1",
-      "kategorie": "value",
-      "markt": "Über 2.5 Tore",
-      "quote": 1.55,
+      "spiel_id": "2026-08-29-juv-par",
+      "tipp_id": "juv-par-1",
+      "kategorie": "safe",
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurzbegruendung": "Modell-Wahrscheinlichkeit 78.5% Ueber 2.5. PSG als Doublé-Sieger mit voller Offensive vor eigenem Publikum im Prime-Time-Slot. Rennes wird auch mal aufmachen muessen. Ligue 1 nicht Goldgrube-Liga - ke",
+      "kurz": "Juventus oder Remis (DC 1X) @1.08 - Allianz Stadium gegen Aufsteiger Parma",
       "rang": 3
     },
     {
-      "spiel_id": "2026-08-23-tor-mil",
-      "tipp_id": "tor-mil-1",
-      "kategorie": "value",
-      "markt": "Beide Teams treffen: Ja",
-      "quote": 1.65,
+      "spiel_id": "2026-08-30-nap-com",
+      "tipp_id": "nap-com-1",
+      "kategorie": "safe",
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurzbegruendung": "KLARER HISTORIEN-EDGE: 5/5 letzten Serie-A-Duelle BTTS mit >=4 Toren, 6/6 Ueber 2.5. Beide Neustart-Trainer bringen offensive Ausrichtung. Torino-Simeone + Milan-Ramos beide 9er-Setup. HR08-17-6 BTTS-",
+      "kurz": "Napoli oder Remis (DC 1X) @1.10 - Maradona-Fortress als Meister gegen Como",
       "rang": 4
     },
     {
-      "spiel_id": "2026-08-23-tor-mil",
-      "tipp_id": "tor-mil-2",
+      "spiel_id": "2026-08-29-bvb-hsv",
+      "tipp_id": "bvb-hsv-2",
       "kategorie": "value",
-      "markt": "Über 2.5 Tore",
-      "quote": 1.65,
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurzbegruendung": "Historisch 6/6 letzten Duelle Ueber 2.5 = starkes Muster. Beide offensiv organisiert, beide ohne Wettkampf-Konservatismus im MD1. Serie A nicht Goldgrube-Liga aber diese Team-Kombination bricht die Re",
+      "kurz": "Guirassy Torschuetze jederzeit @1.75 - Toptorschuetze BVB gegen Aufsteiger-Defense (Aufstellung 60min vor Anpfiff pruefen)",
       "rang": 5
     },
     {
-      "spiel_id": "2026-08-22-bvb-fcb",
-      "tipp_id": "2026-08-22-bvb-fcb-03",
+      "spiel_id": "2026-08-29-liv-not",
+      "tipp_id": "liv-not-2",
       "kategorie": "value",
-      "markt": "Harry Kane trifft (jederzeit)",
-      "quote": 1.7,
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurzbegruendung": "Torschützen Jederzeit ist Markt-Goldgrube (+24.4% ROI). Kane startet laut Aufstellungs-Vorschau, war Bundesliga-Torschützenkönig 2025/26 und ist bei ausgedünnter Bayern-Offensive (Musiala pausiert, Gnabry + Karl angeschlagen) noch stärker der Abschluss-Fokus. Gegenüber steht eine improvisierte BVB-Innenverteidigung. Plus bet365-Einwechslungs-Boost: trifft sein direkter Ersatz nach Auswechslung, zählt das Tor für Kane.",
+      "kurz": "Isak Torschuetze jederzeit @1.90 - Neuer Liverpool-Star, sofortiges Debut-Tor in Anfield gg Newcastle 23.08.",
       "rang": 6
     },
     {
-      "spiel_id": "2026-08-22-gen-nap",
-      "tipp_id": "gen-nap-2",
+      "spiel_id": "2026-08-29-juv-par",
+      "tipp_id": "juv-par-2",
       "kategorie": "value",
-      "markt": "Beide Teams treffen: Ja",
-      "quote": 1.8,
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurzbegruendung": "HR08-15-4 Auftakts-Def-Krise-Cluster + HR08-17-6 BTTS-Ja robuster als Ueber 2.5 im MD1. Napoli-Abwehrnotstand (nur 2 IVs) gegen De-Rossi-Genoa der bewusst hoch stehend presst. Historisch BTTS in ~90% ",
+      "kurz": "Vlahovic Torschuetze jederzeit @1.75 - Juve-Nummer 9 gegen Parma-Aufsteiger-Defense (Aufstellung live pruefen)",
       "rang": 7
     },
     {
-      "spiel_id": "2026-08-23-fdd-scf",
-      "tipp_id": "fdd-scf-1",
+      "spiel_id": "2026-08-29-tot-new",
+      "tipp_id": "tot-new-2",
       "kategorie": "value",
-      "markt": "Doppelte Chance: Fortuna Düsseldorf oder Unentschieden (1X)",
-      "quote": 2.0,
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurzbegruendung": "MAXIMALE ROTATIONS-EDGE Fortuna: Freiburg-Trainer Schuster hat offiziell Rotation angekuendigt zwischen 2 UECL-Playoff-Legs (Do-So-Do). 3 Tage nach Schottland-Reise = B-Elf-Wahrscheinlichkeit hoch. Fo",
+      "kurz": "Beide Teams treffen: Ja @1.65 - beide Defensiv-Blöcke im Umbruch, offensive Waffen bei beiden",
       "rang": 8
     },
     {
-      "spiel_id": "2026-08-22-esp-rma",
-      "tipp_id": "esp-rma-1",
+      "spiel_id": "2026-08-30-che-bri",
+      "tipp_id": "che-bri-2",
       "kategorie": "value",
-      "markt": "Torschuetzen Jederzeit: Vinicius Junior",
-      "quote": 2.3,
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurzbegruendung": "STAR-OUT-BACKUP-PFLICHT: Rodrygo OUT => Vinicius bekommt gesamte linke Angriffs-Achse + Freistoss-Verantwortung. Mourinho-Debuet-Ausrichtung erfahrungsgemaess auf Kontertore + Vinicius-Zentrum. Torsch",
+      "kurz": "Beide Teams treffen: Ja @1.60 - Xabi-Alonso-Chelsea vs. Brighton-Data-Klub, beide offensiv",
       "rang": 9
     },
     {
-      "spiel_id": "2026-08-22-hul-mun",
-      "tipp_id": "hul-mun-1",
+      "spiel_id": "2026-08-29-tot-new",
+      "tipp_id": "tot-new-1",
       "kategorie": "value",
-      "markt": "Torschuetzen Jederzeit: Bryan Mbeumo",
-      "quote": 2.5,
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurzbegruendung": "Star-OUT-Backup-Pflicht: Šeško (Schienbein-Reha) sehr wahrscheinlich Bank => Mbeumo rutscht ins Sturmzentrum. Alternativ-Rolle als False-9 mit Freistoss/Elfmeter-Verantwortung. Hull-Torwart Butland OU",
+      "kurz": "Spurs oder Remis (DC 1X) @1.30 - Newcastle-Ausverkauf-Effekt (Isak+Gordon+Tonali+Guimaraes weg)",
       "rang": 10
-    },
-    {
-      "spiel_id": "2026-08-23-psg-ren",
-      "tipp_id": "psg-ren-2",
-      "kategorie": "wackel",
-      "markt": "Torschuetzen Jederzeit: Khvicha Kvaratskhelia",
-      "quote": 2.25,
-      "einsatz_euro": 15.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "kurzbegruendung": "FORM-EDGE: Kvara mit Toren gegen Lens + Super Cup vs Villa. HEIM-FAV < 1.80 => Torschuetzen-Pflicht-Slot. Kvara ist der zentrale Angreifer PSG-Struktur-Ecke. Torschuetzen Jederzeit ist System-Goldgrub",
-      "rang": 11
-    },
-    {
-      "spiel_id": "2026-08-22-gen-nap",
-      "tipp_id": "gen-nap-1",
-      "kategorie": "wackel",
-      "markt": "Torschuetzen Jederzeit: Rasmus Hojlund",
-      "quote": 2.31,
-      "einsatz_euro": 15.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "kurzbegruendung": "AUSWAERTS-FAV-Torschuetzen-Pflicht + Star-9er als Backup-Rolle im Napoli-Angriff. Ferraris historisch torreich (3.4/Spiel letzte 7). Napoli-Sturm einzige klare Achse (kein Osimhen mehr, Hojlund als Al",
-      "rang": 12
     }
   ],
   "kombis": [
     {
-      "profil": "safe",
-      "beine": [
-        {
-          "spiel_id": "2026-08-23-elc-bar",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.5
-        },
-        {
-          "spiel_id": "2026-08-23-tor-mil",
-          "markt": "Beide Teams treffen: Ja",
-          "quote": 1.65
-        },
-        {
-          "spiel_id": "2026-08-22-gen-nap",
-          "markt": "Beide Teams treffen: Ja",
-          "quote": 1.8
-        }
-      ],
-      "gesamtquote": 4.45,
-      "rechnung": "1.50 x 1.65 x 1.80 = 4.46",
+      "id": "kombi-safe",
+      "name": "Safe-Kombi (~3.59x)",
+      "kategorie": "safe",
       "einsatz_euro": 20.0,
       "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Goldgrube-Cluster-Blueprint HR08-10-3 (n=2 validiert). 3 Beine aus 3 verschiedenen Spielen (Layer-1 ✓). 0 Sieg-Outcomes (Layer-2 ✓, kein Konflikt). Elche-Barca Historie 9/10 Ueber 2.5 in LaLiga-Goldgrube (+57%); Torino-Milan 5/5 letzten BTTS in Serie-A-Duell; Genoa-Napoli MD1-Auftakts-Def-Krise-Cluster + Ferraris-torreich. Kein direkter Fav-Bias, reine Goldgrube-Markt-Achse. Kasse-Stufe 1 Safe-Stake 2% = 11€.",
-      "layer_2_konflikte": "keine - 0 Sieg-Outcomes im Safe"
-    },
-    {
-      "profil": "balance",
+      "beschreibung": "Doppel-Torschuetzen-Goldgrube (Isak + Guirassy) plus Juve-DC-Fels. 3 Beine, 3 verschiedene Spiele.",
       "beine": [
         {
-          "spiel_id": "2026-08-22-esp-rma",
-          "markt": "Real Madrid Sieg",
-          "quote": 1.42
+          "spiel_id": "2026-08-29-bvb-hsv",
+          "tipp_id": "bvb-hsv-2",
+          "spiel_label": "Dortmund vs Hamburger SV",
+          "markt": "Borussia Dortmund - Hamburger SV: Torschuetzen Jederzeit: Serhou Guirassy",
+          "quote": 1.75,
+          "kategorie": "value",
+          "spiel_titel": "Borussia Dortmund - Hamburger SV"
         },
         {
-          "spiel_id": "2026-08-23-fdd-scf",
-          "markt": "Doppelte Chance: Fortuna Düsseldorf oder Unentschieden (1X)",
-          "quote": 2.0
+          "spiel_id": "2026-08-29-liv-not",
+          "tipp_id": "liv-not-2",
+          "spiel_label": "Liverpool vs Nottingham Forest",
+          "markt": "Liverpool FC - Nottingham Forest: Torschuetzen Jederzeit: Alexander Isak",
+          "quote": 1.9,
+          "kategorie": "value",
+          "spiel_titel": "Liverpool FC - Nottingham Forest"
         },
         {
-          "spiel_id": "2026-08-23-bhb-avl",
-          "markt": "Doppelte Chance: Aston Villa oder Unentschieden (X2)",
-          "quote": 1.5
-        },
-        {
-          "spiel_id": "2026-08-23-psg-ren",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.55
+          "spiel_id": "2026-08-29-juv-par",
+          "tipp_id": "juv-par-1",
+          "spiel_label": "Juventus vs Parma",
+          "markt": "Juventus Turin - Parma Calcio: Juventus oder Remis (Doppelte Chance)",
+          "quote": 1.08,
+          "kategorie": "safe",
+          "spiel_titel": "Juventus Turin - Parma Calcio"
         }
       ],
-      "gesamtquote": 6.6,
-      "rechnung": "1.42 x 2.00 x 1.50 x 1.55 = 6.60",
+      "gesamtquote": 3.59,
+      "rechnung": "1.75 x 1.90 x 1.08 = 3.59",
+      "potentieller_gewinn_euro": 71.8
+    },
+    {
+      "id": "kombi-balance",
+      "name": "Balance-Kombi (~6.34x)",
+      "kategorie": "balance",
       "einsatz_euro": 8.0,
       "empfohlener_einsatz_prozent": 0.8,
-      "begruendung": "Balance-Profil mit 4 verschiedenen Spielen (Layer-1 ✓). Kernachsen: LaLiga-Goldgrube Real-Sieg + Anti-Rotations-DC (Fortuna-1X gegen Freiburg-UECL-Sandwich + Villa-X2 gegen Brighton-Tromso-Muedigkeit) + Ligue 1 Ueber 2.5 (PSG-Wahrscheinlichkeit 78.5%). Layer-2 ✓: 1 Sieg-Outcome (Real). Layer-4 Diversifikation: 3 Markt-Typen (Sieg, DC, Total). Kasse-Stufe 1 Balance-Stake 0.8% = 4.40€.",
-      "layer_2_konflikte": "1 Sieg-Outcome (Real Madrid) - keine Kombi mit weiterem Sieg-Bein"
-    },
-    {
-      "profil": "risiko",
+      "beschreibung": "Mix BTTS + Freiburg-Heim-DC + De-Bruyne-Torschuetze. 3 Beine, 3 verschiedene Spiele.",
       "beine": [
         {
-          "spiel_id": "2026-08-22-hul-mun",
-          "markt": "Torschuetzen Jederzeit: Bryan Mbeumo",
-          "quote": 2.5
+          "spiel_id": "2026-08-29-tot-new",
+          "tipp_id": "tot-new-2",
+          "spiel_label": "Tottenham vs Newcastle",
+          "markt": "Tottenham Hotspur - Newcastle United: Beide Teams treffen: Ja",
+          "quote": 1.65,
+          "kategorie": "value",
+          "spiel_titel": "Tottenham Hotspur - Newcastle United"
         },
         {
-          "spiel_id": "2026-08-22-gen-nap",
-          "markt": "Torschuetzen Jederzeit: Rasmus Hojlund",
-          "quote": 2.31
+          "spiel_id": "2026-08-30-fre-wer",
+          "tipp_id": "fre-wer-1",
+          "spiel_label": "Freiburg vs Werder Bremen",
+          "markt": "SC Freiburg - Werder Bremen: Freiburg oder Remis (Doppelte Chance)",
+          "quote": 1.28,
+          "kategorie": "value",
+          "spiel_titel": "SC Freiburg - Werder Bremen"
         },
         {
-          "spiel_id": "2026-08-22-esp-rma",
-          "markt": "Torschuetzen Jederzeit: Vinicius Junior",
-          "quote": 2.3
-        },
-        {
-          "spiel_id": "2026-08-23-tor-mil",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.65
+          "spiel_id": "2026-08-30-nap-com",
+          "tipp_id": "nap-com-3",
+          "spiel_label": "Napoli vs Como",
+          "markt": "SSC Napoli - Como 1907: Torschuetzen Jederzeit: Kevin De Bruyne",
+          "quote": 3.0,
+          "kategorie": "wackel",
+          "spiel_titel": "SSC Napoli - Como 1907"
         }
       ],
-      "gesamtquote": 21.92,
-      "rechnung": "2.50 x 2.31 x 2.30 x 1.65 = 21.92",
+      "gesamtquote": 6.34,
+      "rechnung": "1.65 x 1.28 x 3.00 = 6.34",
+      "potentieller_gewinn_euro": 50.7
+    },
+    {
+      "id": "kombi-risk",
+      "name": "Risiko-Kombi (~17.62x)",
+      "kategorie": "risk",
       "einsatz_euro": 2.5,
       "empfohlener_einsatz_prozent": 0.25,
-      "begruendung": "Risiko-Profil mit 4 verschiedenen Spielen (Layer-1 ✓). 3 Torschuetzen-Beine auf Star-9er / Backup-9er (Mbeumo als Šeško-Backup, Hojlund als Auswaerts-Fav-Sturm, Vinicius als Rodrygo-Backup-Star). Layer-3 Diversifikation: 3 verschiedene Spieler aus 3 verschiedenen Ligen (PL/Serie A/LaLiga). Layer-4: 2 Markt-Typen (Torschuetzen + Total). Historie-Warnung HR08-19-4 CL-Playoff-Torschuetzen-Cluster-Falle NICHT anwendbar (kein Playoff). Kasse-Stufe 1 Risiko-Stake 0.25% = 1.40€.",
-      "layer_2_konflikte": "keine - Torschuetzen-Beine nicht mit Sieg-Beinen korreliert"
-    },
-    {
-      "profil": "moonshot",
+      "beschreibung": "Tor-Volumen-Wette: 4x Ueber 2.5 + 1x Unter 2.5 als Napoli-Konter-Hedge. 5 Beine aus 5 Spielen.",
       "beine": [
         {
-          "spiel_id": "2026-08-22-esp-rma",
-          "markt": "Torschuetzen Jederzeit: Vinicius Junior",
-          "quote": 2.3
+          "spiel_id": "2026-08-29-tot-new",
+          "tipp_id": "tot-new-3",
+          "spiel_label": "Tottenham vs Newcastle",
+          "markt": "Tottenham Hotspur - Newcastle United: Ueber 2.5 Tore",
+          "quote": 1.75,
+          "kategorie": "wackel",
+          "spiel_titel": "Tottenham Hotspur - Newcastle United"
         },
         {
-          "spiel_id": "2026-08-23-elc-bar",
-          "markt": "Torschuetzen Jederzeit: Lamine Yamal",
-          "quote": 2.2
+          "spiel_id": "2026-08-29-juv-par",
+          "tipp_id": "juv-par-2",
+          "spiel_label": "Juventus vs Parma",
+          "markt": "Juventus Turin - Parma Calcio: Torschuetzen Jederzeit: Dusan Vlahovic",
+          "quote": 1.75,
+          "kategorie": "value",
+          "spiel_titel": "Juventus Turin - Parma Calcio"
         },
         {
-          "spiel_id": "2026-08-23-psg-ren",
-          "markt": "Torschuetzen Jederzeit: Khvicha Kvaratskhelia",
-          "quote": 2.25
+          "spiel_id": "2026-08-29-rbl-bmg",
+          "tipp_id": "rbl-bmg-3",
+          "spiel_label": "RB Leipzig vs Gladbach",
+          "markt": "RB Leipzig - Borussia Moenchengladbach: Ueber 2.5 Tore",
+          "quote": 1.7,
+          "kategorie": "wackel",
+          "spiel_titel": "RB Leipzig - Borussia Moenchengladbach"
         },
         {
-          "spiel_id": "2026-08-23-bhb-avl",
-          "markt": "Torschuetzen Jederzeit: Ollie Watkins",
-          "quote": 2.4
+          "spiel_id": "2026-08-30-che-bri",
+          "tipp_id": "che-bri-3",
+          "spiel_label": "Chelsea vs Brighton",
+          "markt": "Chelsea FC - Brighton and Hove Albion: Ueber 2.5 Tore",
+          "quote": 1.65,
+          "kategorie": "wackel",
+          "spiel_titel": "Chelsea FC - Brighton and Hove Albion"
         },
         {
-          "spiel_id": "2026-08-23-fdd-scf",
-          "markt": "Beide Teams treffen: Ja",
-          "quote": 1.65
+          "spiel_id": "2026-08-30-nap-com",
+          "tipp_id": "nap-com-2",
+          "spiel_label": "Napoli vs Como",
+          "markt": "SSC Napoli - Como 1907: Unter 2.5 Tore",
+          "quote": 2.05,
+          "kategorie": "wackel",
+          "spiel_titel": "SSC Napoli - Como 1907"
         }
       ],
-      "gesamtquote": 45.08,
-      "rechnung": "2.30 x 2.20 x 2.25 x 2.40 x 1.65 = 45.09",
+      "gesamtquote": 17.62,
+      "rechnung": "1.75 x 1.75 x 1.70 x 1.65 x 2.05 = 17.62",
+      "potentieller_gewinn_euro": 44.05
+    },
+    {
+      "id": "kombi-moonshot",
+      "name": "Moonshot-Kombi (~648x)",
+      "kategorie": "moonshot",
       "einsatz_euro": 1.0,
       "empfohlener_einsatz_prozent": 0.1,
-      "begruendung": "Moonshot-Profil 5 Beine aus 5 verschiedenen Spielen (Layer-1 ✓). Star-Torschuetzen-Cross-Liga-Kette (Vinicius/Yamal/Kvara/Watkins) + BTTS-Fortuna-Kicker. Layer-3: 4 verschiedene Spieler + 1 Team-Markt. Warnung HR07-29-4 Layer-4 Markt-Typ-Konzentrations-Risiko - hier 4 Torschuetzen-Beine (Correlation-Risk erhoeht). Bewusst Moonshot-Kategorie < 5% Hitrate, Spass-Einsatz 0.55€.",
-      "layer_2_konflikte": "keine - Star-Torschuetzen keine Sieg-Korrelation"
+      "beschreibung": "3x Aufsteiger/Underdog-Sieg-Ketten - HSV, Forest, Como. Reine Lotterie, 1€ Spaß-Einsatz, potentiell 648€.",
+      "beine": [
+        {
+          "spiel_id": "2026-08-29-bvb-hsv",
+          "spiel_label": "Dortmund vs Hamburger SV",
+          "markt": "Hamburger SV Sieg (90 Min)",
+          "quote": 10.5,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-08-29-liv-not",
+          "spiel_label": "Liverpool vs Nottingham Forest",
+          "markt": "Nottingham Forest Sieg (90 Min)",
+          "quote": 9.5,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-08-30-nap-com",
+          "spiel_label": "Napoli vs Como",
+          "markt": "Como Sieg (90 Min)",
+          "quote": 6.5,
+          "kategorie": "moonshot"
+        }
+      ],
+      "gesamtquote": 648.38,
+      "rechnung": "10.50 x 9.50 x 6.50 = 648.38",
+      "potentieller_gewinn_euro": 648.38
     }
   ],
   "lessons_angewandt": [
-    "HR08-13-1 Post-WM-Ruhepause-Doktrin: 33 Tage seit WM-Finale 19.07. => Torschuetzen-Tipps auf WM-involvierte Star-9er (Mbappe, Vinicius, Watkins, Kvaratskhelia, Hojlund) NICHT mehr auf WACKEL degradiert - VALUE-Level erlaubt weil ausreichend Trainings-Rhythmus im Verein aufgebaut. Doktrin nicht mehr blockierend, aber Startelf-Verifikation nah am Kick-off empfohlen.",
-    "HR08-15-1 Aufsteiger-Cauldron-Falle LaLiga MD-Home: Elche-Barca und Espanyol-Real Madrid (Espanyol als Provisorial-Tabellenfuehrer analog Aufsteiger-Cauldron). Real-Sieg + Barca-Sieg NICHT als SAFE sondern VALUE (Doppel-Downgrade auf Auto-Sanity).",
-    "HR08-17-6 Championship-MD1 BTTS-Ja robuster als Ueber 2.5 - hier auf Serie-A-MD1 (Genoa-Napoli, Torino-Milan) + PL-MW1 (Hull-Utd) + DFB-Pokal (Fortuna-Freiburg) uebertragen. BTTS-Ja bevorzugt als primaerer Total-Markt im Auftakts-Slate.",
-    "HR08-18-4 DC-X2-Auswaerts-Cauldron-Absicherer-Doktrin: Villa-X2 gegen Brighton (Cauldron nach Tromso-Reise) statt Villa-Direktsieg gewaehlt. DC X2 (System-Goldgrube 77.8% / +9.4% ROI) als Primary-VALUE-Achse.",
-    "HR08-19-1 Squad-Verifikations-Fehler-Star-Transfer-Doktrin: Vor Kick-off Live-Check der Startelf empfohlen, insbesondere Vinicius, Yamal, Kvaratskhelia, Watkins, Kvara, Hojlund, Mbeumo, Simeone wegen jueng Transfer-Fenster + post-WM-Rueckkehr-Rotation.",
-    "HR22 Anti-STAR-OUT-Hedge PFLICHT-Slot: Rodrygo OUT bei Real => Vinicius als Backup-Star-Torschuetzen-Tipp VALUE. Šeško vermutlich Bank bei United => Mbeumo als Backup-9er VALUE. Ferguson OUT bei Brighton => Welbeck als WACKEL. Backup-Volume-9er systematisch abgedeckt.",
-    "HR6 Auswaerts-Auto-VALUE: Real Madrid + Barcelona + PSG (Heim) + Milan (Auswaerts) + Napoli (Auswaerts) als AUSWAERTS/HEIM-FAV < 2.20 mit Torschuetzen-Pflicht-Slot systematisch bedient. Kein leerer Klassen-Sieg-Tipp ohne offensives Edge-Signal."
+    "HR22 Anti-Star-OUT: Isak-Neu-Anker Liverpool + Guirassy-Volumen BVB als Kern-Torschuetzen - beide mit Backup-Boost (Ekitike/Fabio Silva). Aufstellung 60min vor Anpfiff live pruefen.",
+    "HR24 Form-Edge Torschuetzen: nur bei bestaetigten Startern und aktuellen Verein-Zugehoerigkeiten (Adeyemi/Lukaku/Salah/Isak-Wechsel-Falle aus 22.08. konsequent ausgeschlossen).",
+    "Markt-Goldgrube DC 1X aktiv gesucht (Hitrate 76.5% / +24.9% ROI n=34) - 5 von 10 Einzeltipps sind DC.",
+    "Markt-Goldgrube Torschuetzen Jederzeit aktiv gesucht (+24.4% ROI n>historisch) - 3 von 10 Einzeltipps.",
+    "Markt-Goldgrube Unter 2.5 (73.1% / +22.4% ROI n=26) als Hedge in Risk-Kombi bei Napoli-Como.",
+    "PL Konsens-Skepsis: 25/26 rolling n=25 -25% ROI historisch => PL-Sieg-Tipps auf DC downgegradet (Liverpool/Chelsea/Tottenham als DC 1X statt Sieg).",
+    "Layer-2 hart eingehalten: Sieg-Outcome pro Spiel max 1 Kombi (Juve-DC Safe, Freiburg-DC Balance, HSV/Forest/Como-Sieg alle in Moonshot).",
+    "Kader-Frische (Anti-Adeyemi): kader_wechsel_2026.json gegengecheckt (Guirassy statt Adeyemi bei BVB, Isak fuer Liverpool statt Newcastle, De Bruyne statt Lukaku bei Napoli, Ramos NICHT als Napoli-Tipp).",
+    "Transferfenster laeuft bis 31.08. - alle Torschuetzen-Tipps mit expliziter 'Aufstellung 60min vor Anpfiff live pruefen'-Marker, weil weitere Wechsel bis dahin moeglich sind.",
+    "2:0-Insurance nur BL + CL (nicht Serie A, nicht Supercup, nicht PL) - in Begruendung ausgewiesen wo relevant."
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
+  "_verifikations_report": {
+    "erstellt_am": "2026-08-27T18:05:00+02:00",
+    "modus": "inline (Task-Tool nicht verfuegbar in Cloud-Routine)",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "kader_frische",
+        "details": "Alle Torschuetzen-Tipps (Guirassy, Isak, Vlahovic, De Bruyne) mit expliziter '60min vor Anpfiff live pruefen'-Marker wegen offenem Transferfenster bis 31.08. Aufstellungsprognose beim Anpfiff dominiert."
+      },
+      {
+        "art": "pl_konsens_skepsis",
+        "details": "PL n=25 rolling ROI -25% - Sieg-Tipps auf DC 1X downgegradet (Liverpool/Chelsea/Tottenham)."
+      },
+      {
+        "art": "layer_3_weich",
+        "details": "g2 (liv-not) in 3 Kombis genutzt: Safe (Isak Torschuetze), Risk-Alternative wurde entfernt. Aktuell g2 in Safe + Moonshot = 2 Uses. g8 (nap-com) in Balance + Risk + Moonshot-Optionen ausgetauscht: g8 finale = Balance (De Bruyne) + Risk (U2.5) + Moonshot (Como-Sieg) = 3 Uses, alle unterschiedliche Maerkte (Torschuetze/Total/Sieg). Layer-3 weich vertretbar bei 8 Spielen / 4 Kombis."
+      },
+      {
+        "art": "aufstellungs_verifikation",
+        "details": "Trainer-Status (Xabi Alonso Chelsea, Demichelis Leipzig, Motta/Tudor Juve, Baumgart HSV, Conte Napoli, Slot Liverpool, Frank Spurs, Howe Newcastle) im Fluss - Trainer-Signale in saison_kontext mit 'live pruefen' markiert."
+      }
+    ],
+    "lessons_generiert": [],
+    "layer_2_sanity": "OK - Sieg-Outcome pro Spiel max 1 Kombi (Juve-DC in Safe, Freiburg-DC in Balance, HSV/Forest/Como-Sieg in Moonshot).",
+    "dc_cap_sanity": "OK - max 1 DC pro Spiel; im Dossier gesamt 5 DC in einzeltipps + 2 DC in Kombis (Juve Safe, Freiburg Balance)."
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
 };

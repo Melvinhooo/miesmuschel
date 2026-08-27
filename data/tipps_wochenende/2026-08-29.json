@@ -549,7 +549,8 @@
       "kategorie": "safe",
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurz": "Dortmund oder Remis (DC 1X) @1.07 - Goldgrube-DC gegen Aufsteiger, Signal Iduna gegen HSV historisch Bank"
+      "kurz": "Dortmund oder Remis (DC 1X) @1.07 - Goldgrube-DC gegen Aufsteiger, Signal Iduna gegen HSV historisch Bank",
+      "rang": 1
     },
     {
       "spiel_id": "2026-08-29-liv-not",
@@ -557,7 +558,8 @@
       "kategorie": "safe",
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurz": "Liverpool oder Remis (DC 1X) @1.07 - Meister-Heim gegen ohne-Anderson-Forest"
+      "kurz": "Liverpool oder Remis (DC 1X) @1.07 - Meister-Heim gegen ohne-Anderson-Forest",
+      "rang": 2
     },
     {
       "spiel_id": "2026-08-29-juv-par",
@@ -565,7 +567,8 @@
       "kategorie": "safe",
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurz": "Juventus oder Remis (DC 1X) @1.08 - Allianz Stadium gegen Aufsteiger Parma"
+      "kurz": "Juventus oder Remis (DC 1X) @1.08 - Allianz Stadium gegen Aufsteiger Parma",
+      "rang": 3
     },
     {
       "spiel_id": "2026-08-30-nap-com",
@@ -573,7 +576,8 @@
       "kategorie": "safe",
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurz": "Napoli oder Remis (DC 1X) @1.10 - Maradona-Fortress als Meister gegen Como"
+      "kurz": "Napoli oder Remis (DC 1X) @1.10 - Maradona-Fortress als Meister gegen Como",
+      "rang": 4
     },
     {
       "spiel_id": "2026-08-29-bvb-hsv",
@@ -581,7 +585,8 @@
       "kategorie": "value",
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurz": "Guirassy Torschuetze jederzeit @1.75 - Toptorschuetze BVB gegen Aufsteiger-Defense (Aufstellung 60min vor Anpfiff pruefen)"
+      "kurz": "Guirassy Torschuetze jederzeit @1.75 - Toptorschuetze BVB gegen Aufsteiger-Defense (Aufstellung 60min vor Anpfiff pruefen)",
+      "rang": 5
     },
     {
       "spiel_id": "2026-08-29-liv-not",
@@ -589,7 +594,8 @@
       "kategorie": "value",
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurz": "Isak Torschuetze jederzeit @1.90 - Neuer Liverpool-Star, sofortiges Debut-Tor in Anfield gg Newcastle 23.08."
+      "kurz": "Isak Torschuetze jederzeit @1.90 - Neuer Liverpool-Star, sofortiges Debut-Tor in Anfield gg Newcastle 23.08.",
+      "rang": 6
     },
     {
       "spiel_id": "2026-08-29-juv-par",
@@ -597,7 +603,8 @@
       "kategorie": "value",
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurz": "Vlahovic Torschuetze jederzeit @1.75 - Juve-Nummer 9 gegen Parma-Aufsteiger-Defense (Aufstellung live pruefen)"
+      "kurz": "Vlahovic Torschuetze jederzeit @1.75 - Juve-Nummer 9 gegen Parma-Aufsteiger-Defense (Aufstellung live pruefen)",
+      "rang": 7
     },
     {
       "spiel_id": "2026-08-29-tot-new",
@@ -605,7 +612,8 @@
       "kategorie": "value",
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurz": "Beide Teams treffen: Ja @1.65 - beide Defensiv-Blöcke im Umbruch, offensive Waffen bei beiden"
+      "kurz": "Beide Teams treffen: Ja @1.65 - beide Defensiv-Blöcke im Umbruch, offensive Waffen bei beiden",
+      "rang": 8
     },
     {
       "spiel_id": "2026-08-30-che-bri",
@@ -613,7 +621,8 @@
       "kategorie": "value",
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurz": "Beide Teams treffen: Ja @1.60 - Xabi-Alonso-Chelsea vs. Brighton-Data-Klub, beide offensiv"
+      "kurz": "Beide Teams treffen: Ja @1.60 - Xabi-Alonso-Chelsea vs. Brighton-Data-Klub, beide offensiv",
+      "rang": 9
     },
     {
       "spiel_id": "2026-08-29-tot-new",
@@ -621,7 +630,8 @@
       "kategorie": "value",
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "kurz": "Spurs oder Remis (DC 1X) @1.30 - Newcastle-Ausverkauf-Effekt (Isak+Gordon+Tonali+Guimaraes weg)"
+      "kurz": "Spurs oder Remis (DC 1X) @1.30 - Newcastle-Ausverkauf-Effekt (Isak+Gordon+Tonali+Guimaraes weg)",
+      "rang": 10
     }
   ],
   "kombis": [
@@ -637,25 +647,28 @@
           "spiel_id": "2026-08-29-bvb-hsv",
           "tipp_id": "bvb-hsv-2",
           "spiel_label": "Dortmund vs Hamburger SV",
-          "markt": "Guirassy Torschuetze jederzeit",
+          "markt": "Borussia Dortmund - Hamburger SV: Torschuetzen Jederzeit: Serhou Guirassy",
           "quote": 1.75,
-          "kategorie": "value"
+          "kategorie": "value",
+          "spiel_titel": "Borussia Dortmund - Hamburger SV"
         },
         {
           "spiel_id": "2026-08-29-liv-not",
           "tipp_id": "liv-not-2",
           "spiel_label": "Liverpool vs Nottingham Forest",
-          "markt": "Isak Torschuetze jederzeit",
+          "markt": "Liverpool FC - Nottingham Forest: Torschuetzen Jederzeit: Alexander Isak",
           "quote": 1.9,
-          "kategorie": "value"
+          "kategorie": "value",
+          "spiel_titel": "Liverpool FC - Nottingham Forest"
         },
         {
           "spiel_id": "2026-08-29-juv-par",
           "tipp_id": "juv-par-1",
           "spiel_label": "Juventus vs Parma",
-          "markt": "Juventus oder Remis (Doppelte Chance)",
+          "markt": "Juventus Turin - Parma Calcio: Juventus oder Remis (Doppelte Chance)",
           "quote": 1.08,
-          "kategorie": "safe"
+          "kategorie": "safe",
+          "spiel_titel": "Juventus Turin - Parma Calcio"
         }
       ],
       "gesamtquote": 3.59,
@@ -674,25 +687,28 @@
           "spiel_id": "2026-08-29-tot-new",
           "tipp_id": "tot-new-2",
           "spiel_label": "Tottenham vs Newcastle",
-          "markt": "Beide Teams treffen: Ja",
+          "markt": "Tottenham Hotspur - Newcastle United: Beide Teams treffen: Ja",
           "quote": 1.65,
-          "kategorie": "value"
+          "kategorie": "value",
+          "spiel_titel": "Tottenham Hotspur - Newcastle United"
         },
         {
           "spiel_id": "2026-08-30-fre-wer",
           "tipp_id": "fre-wer-1",
           "spiel_label": "Freiburg vs Werder Bremen",
-          "markt": "Freiburg oder Remis (Doppelte Chance)",
+          "markt": "SC Freiburg - Werder Bremen: Freiburg oder Remis (Doppelte Chance)",
           "quote": 1.28,
-          "kategorie": "value"
+          "kategorie": "value",
+          "spiel_titel": "SC Freiburg - Werder Bremen"
         },
         {
           "spiel_id": "2026-08-30-nap-com",
           "tipp_id": "nap-com-3",
           "spiel_label": "Napoli vs Como",
-          "markt": "Kevin De Bruyne Torschuetze jederzeit",
+          "markt": "SSC Napoli - Como 1907: Torschuetzen Jederzeit: Kevin De Bruyne",
           "quote": 3.0,
-          "kategorie": "wackel"
+          "kategorie": "wackel",
+          "spiel_titel": "SSC Napoli - Como 1907"
         }
       ],
       "gesamtquote": 6.34,
@@ -711,41 +727,46 @@
           "spiel_id": "2026-08-29-tot-new",
           "tipp_id": "tot-new-3",
           "spiel_label": "Tottenham vs Newcastle",
-          "markt": "Ueber 2.5 Tore",
+          "markt": "Tottenham Hotspur - Newcastle United: Ueber 2.5 Tore",
           "quote": 1.75,
-          "kategorie": "wackel"
+          "kategorie": "wackel",
+          "spiel_titel": "Tottenham Hotspur - Newcastle United"
         },
         {
           "spiel_id": "2026-08-29-juv-par",
           "tipp_id": "juv-par-2",
           "spiel_label": "Juventus vs Parma",
-          "markt": "Vlahovic Torschuetze jederzeit",
+          "markt": "Juventus Turin - Parma Calcio: Torschuetzen Jederzeit: Dusan Vlahovic",
           "quote": 1.75,
-          "kategorie": "value"
+          "kategorie": "value",
+          "spiel_titel": "Juventus Turin - Parma Calcio"
         },
         {
           "spiel_id": "2026-08-29-rbl-bmg",
           "tipp_id": "rbl-bmg-3",
           "spiel_label": "RB Leipzig vs Gladbach",
-          "markt": "Ueber 2.5 Tore",
+          "markt": "RB Leipzig - Borussia Moenchengladbach: Ueber 2.5 Tore",
           "quote": 1.7,
-          "kategorie": "wackel"
+          "kategorie": "wackel",
+          "spiel_titel": "RB Leipzig - Borussia Moenchengladbach"
         },
         {
           "spiel_id": "2026-08-30-che-bri",
           "tipp_id": "che-bri-3",
           "spiel_label": "Chelsea vs Brighton",
-          "markt": "Ueber 2.5 Tore",
+          "markt": "Chelsea FC - Brighton and Hove Albion: Ueber 2.5 Tore",
           "quote": 1.65,
-          "kategorie": "wackel"
+          "kategorie": "wackel",
+          "spiel_titel": "Chelsea FC - Brighton and Hove Albion"
         },
         {
           "spiel_id": "2026-08-30-nap-com",
           "tipp_id": "nap-com-2",
           "spiel_label": "Napoli vs Como",
-          "markt": "Unter 2.5 Tore",
+          "markt": "SSC Napoli - Como 1907: Unter 2.5 Tore",
           "quote": 2.05,
-          "kategorie": "wackel"
+          "kategorie": "wackel",
+          "spiel_titel": "SSC Napoli - Como 1907"
         }
       ],
       "gesamtquote": 17.62,
