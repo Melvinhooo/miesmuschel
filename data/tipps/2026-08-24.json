@@ -36,7 +36,7 @@
           "id": "wue-koe-01",
           "kategorie": "safe",
           "markt": "Sieg 1. FC Koeln (90 Min)",
-          "quote": 1.30,
+          "quote": 1.3,
           "faire_quote": 1.22,
           "edge_prozent": 6,
           "empfohlener_einsatz_prozent": 2.0,
@@ -60,8 +60,8 @@
           "id": "wue-koe-03",
           "kategorie": "risk",
           "markt": "Doppelte Chance Wuerzburg oder Remis (1X)",
-          "quote": 3.00,
-          "faire_quote": 3.50,
+          "quote": 3.0,
+          "faire_quote": 3.5,
           "edge_prozent": 15,
           "empfohlener_einsatz_prozent": 0.25,
           "einsatz_prozent_kasse": 0.25,
@@ -116,7 +116,7 @@
           "id": "ver-hsv-02",
           "kategorie": "value",
           "markt": "Ueber 2.5 Tore",
-          "quote": 1.70,
+          "quote": 1.7,
           "faire_quote": 1.55,
           "edge_prozent": 9,
           "empfohlener_einsatz_prozent": 2.0,
@@ -128,7 +128,7 @@
           "id": "ver-hsv-03",
           "kategorie": "wackel",
           "markt": "Beide Teams treffen (JA)",
-          "quote": 1.90,
+          "quote": 1.9,
           "faire_quote": 1.85,
           "edge_prozent": 3,
           "empfohlener_einsatz_prozent": 0.5,
@@ -185,7 +185,7 @@
           "kategorie": "value",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.75,
-          "faire_quote": 1.60,
+          "faire_quote": 1.6,
           "edge_prozent": 9,
           "empfohlener_einsatz_prozent": 2.0,
           "einsatz_prozent_kasse": 2.0,
@@ -196,8 +196,8 @@
           "id": "alt-wob-03",
           "kategorie": "wackel",
           "markt": "Ueber 3.5 Tore",
-          "quote": 2.20,
-          "faire_quote": 2.00,
+          "quote": 2.2,
+          "faire_quote": 2.0,
           "edge_prozent": 9,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_prozent_kasse": 0.5,
@@ -239,7 +239,7 @@
       "tipps": [
         {
           "id": "bol-laz-01",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "markt": "Doppelte Chance Bologna oder Remis (1X)",
           "quote": 1.35,
           "faire_quote": 1.28,
@@ -251,7 +251,7 @@
         },
         {
           "id": "bol-laz-02",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Sieg Bologna (90 Min)",
           "quote": 2.05,
           "faire_quote": 1.85,
@@ -263,7 +263,7 @@
         },
         {
           "id": "bol-laz-03",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Beide Teams treffen (JA)",
           "quote": 1.75,
           "faire_quote": 1.65,
@@ -277,7 +277,7 @@
           "id": "bol-laz-04",
           "kategorie": "wackel",
           "markt": "Ueber 2.5 Tore",
-          "quote": 1.90,
+          "quote": 1.9,
           "faire_quote": 1.85,
           "edge_prozent": 3,
           "empfohlener_einsatz_prozent": 0.5,
@@ -286,7 +286,7 @@
           "begruendung": "Saison-Auftakt mit zwei neuen Trainern und defensiver Umstellung - Chance auf 2-1/3-1 Ergebnis. Wackel weil Serie-A-Auftakte tendenziell taktisch/vorsichtig. Bei 1000 EUR Kasse: 0.5% = 5 EUR."
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
       "id": "2026-08-24-rom-fio",
@@ -323,7 +323,7 @@
           "id": "rom-fio-01",
           "kategorie": "safe",
           "markt": "Sieg AS Roma (90 Min)",
-          "quote": 1.60,
+          "quote": 1.6,
           "faire_quote": 1.52,
           "edge_prozent": 5,
           "empfohlener_einsatz_prozent": 2.0,
@@ -335,7 +335,7 @@
           "id": "rom-fio-02",
           "kategorie": "value",
           "markt": "Ueber 2.5 Tore",
-          "quote": 1.70,
+          "quote": 1.7,
           "faire_quote": 1.55,
           "edge_prozent": 9,
           "empfohlener_einsatz_prozent": 2.0,
@@ -359,8 +359,8 @@
           "id": "rom-fio-04",
           "kategorie": "risk",
           "markt": "Kean Torschuetze jederzeit",
-          "quote": 3.20,
-          "faire_quote": 2.80,
+          "quote": 3.2,
+          "faire_quote": 2.8,
           "edge_prozent": 14,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_prozent_kasse": 0.5,
@@ -404,8 +404,8 @@
           "id": "hal-s04-01",
           "kategorie": "safe",
           "markt": "Sieg FC Schalke 04 (90 Min)",
-          "quote": 1.40,
-          "faire_quote": 1.30,
+          "quote": 1.4,
+          "faire_quote": 1.3,
           "edge_prozent": 7,
           "empfohlener_einsatz_prozent": 2.0,
           "einsatz_prozent_kasse": 2.0,
@@ -428,8 +428,8 @@
           "id": "hal-s04-03",
           "kategorie": "risk",
           "markt": "Sylla Torschuetze jederzeit",
-          "quote": 2.80,
-          "faire_quote": 2.40,
+          "quote": 2.8,
+          "faire_quote": 2.4,
           "edge_prozent": 14,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_prozent_kasse": 0.5,
@@ -478,7 +478,7 @@
           "kategorie": "value",
           "markt": "Sieg Chelsea (90 Min)",
           "quote": 1.85,
-          "faire_quote": 1.70,
+          "faire_quote": 1.7,
           "edge_prozent": 9,
           "empfohlener_einsatz_prozent": 2.0,
           "einsatz_prozent_kasse": 2.0,
@@ -489,8 +489,8 @@
           "id": "ful-che-02",
           "kategorie": "value",
           "markt": "Beide Teams treffen (JA)",
-          "quote": 1.60,
-          "faire_quote": 1.50,
+          "quote": 1.6,
+          "faire_quote": 1.5,
           "edge_prozent": 7,
           "empfohlener_einsatz_prozent": 2.0,
           "einsatz_prozent_kasse": 2.0,
@@ -502,7 +502,7 @@
           "kategorie": "wackel",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.65,
-          "faire_quote": 1.60,
+          "faire_quote": 1.6,
           "edge_prozent": 3,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_prozent_kasse": 0.5,
@@ -514,7 +514,7 @@
           "kategorie": "risk",
           "markt": "Cole Palmer Torschuetze jederzeit",
           "quote": 2.75,
-          "faire_quote": 2.30,
+          "faire_quote": 2.3,
           "edge_prozent": 16,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_prozent_kasse": 0.5,
@@ -532,13 +532,14 @@
       "spiel_label": "AS Roma vs AC Florenz",
       "kategorie": "safe",
       "markt": "Sieg AS Roma (90 Min)",
-      "quote": 1.60,
+      "quote": 1.6,
       "faire_quote": 1.52,
       "edge_prozent": 5,
       "empfohlener_einsatz_prozent": 2.0,
       "einsatz_prozent_kasse": 2.0,
       "einsatz_euro": 20,
-      "begruendung": "Roma Heim + Gasperini-Debut vs. Fiorentina mit Conference-Doppelbelastung. Klarer Heim-Klasse-Vorteil. Bei 1000 EUR Kasse: 2% = 20 EUR."
+      "begruendung": "Roma Heim + Gasperini-Debut vs. Fiorentina mit Conference-Doppelbelastung. Klarer Heim-Klasse-Vorteil. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 1
     },
     {
       "id": "et-02",
@@ -546,13 +547,14 @@
       "spiel_label": "Hallescher FC vs FC Schalke 04",
       "kategorie": "safe",
       "markt": "Sieg FC Schalke 04 (90 Min)",
-      "quote": 1.40,
-      "faire_quote": 1.30,
+      "quote": 1.4,
+      "faire_quote": 1.3,
       "edge_prozent": 7,
       "empfohlener_einsatz_prozent": 2.0,
       "einsatz_prozent_kasse": 2.0,
       "einsatz_euro": 20,
-      "begruendung": "Klassen-Diff 3 Ligen + Muslic-Debut-Ambition. Achtung DFB-Pokal 90-Min-Wertung, kein Elfmeter-Boost, kein 2:0-Insurance. Bei 1000 EUR Kasse: 2% = 20 EUR."
+      "begruendung": "Klassen-Diff 3 Ligen + Muslic-Debut-Ambition. Achtung DFB-Pokal 90-Min-Wertung, kein Elfmeter-Boost, kein 2:0-Insurance. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 2
     },
     {
       "id": "et-03",
@@ -566,7 +568,8 @@
       "empfohlener_einsatz_prozent": 2.0,
       "einsatz_prozent_kasse": 2.0,
       "einsatz_euro": 20,
-      "begruendung": "Wolfsburg trotz BL-Abstieg 3 Klassen ueber Altglienicke, Buchmacher-Wahrscheinlichkeit 63%. Bei 1000 EUR Kasse: 2% = 20 EUR."
+      "begruendung": "Wolfsburg trotz BL-Abstieg 3 Klassen ueber Altglienicke, Buchmacher-Wahrscheinlichkeit 63%. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 3
     },
     {
       "id": "et-04",
@@ -580,7 +583,8 @@
       "empfohlener_einsatz_prozent": 2.0,
       "einsatz_prozent_kasse": 2.0,
       "einsatz_euro": 20,
-      "begruendung": "Bologna Heim-Fav + Lazio bereits Coppa-Aus als Signal. Goldgrube-DC-Markt. Bei 1000 EUR Kasse: 2% = 20 EUR."
+      "begruendung": "Bologna Heim-Fav + Lazio bereits Coppa-Aus als Signal. Goldgrube-DC-Markt. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 4
     },
     {
       "id": "et-05",
@@ -588,13 +592,14 @@
       "spiel_label": "FC Wuerzburger Kickers vs 1. FC Koeln",
       "kategorie": "safe",
       "markt": "Sieg 1. FC Koeln (90 Min)",
-      "quote": 1.30,
+      "quote": 1.3,
       "faire_quote": 1.22,
       "edge_prozent": 6,
       "empfohlener_einsatz_prozent": 1.0,
       "einsatz_prozent_kasse": 1.0,
       "einsatz_euro": 10,
-      "begruendung": "Klassen-Vorteil BL vs Regionalliga - trotz Koeln-Form-Loch reicht die Kader-Klasse in 90 Min meistens. Reduzierter Einsatz weil Koeln-Sieglos-Serie Wackel-Faktor. Bei 1000 EUR Kasse: 1% = 10 EUR."
+      "begruendung": "Klassen-Vorteil BL vs Regionalliga - trotz Koeln-Form-Loch reicht die Kader-Klasse in 90 Min meistens. Reduzierter Einsatz weil Koeln-Sieglos-Serie Wackel-Faktor. Bei 1000 EUR Kasse: 1% = 10 EUR.",
+      "rang": 5
     },
     {
       "id": "et-06",
@@ -603,12 +608,13 @@
       "kategorie": "value",
       "markt": "Sieg Chelsea (90 Min)",
       "quote": 1.85,
-      "faire_quote": 1.70,
+      "faire_quote": 1.7,
       "edge_prozent": 9,
       "empfohlener_einsatz_prozent": 2.0,
       "einsatz_prozent_kasse": 2.0,
       "einsatz_euro": 20,
-      "begruendung": "Chelsea Klasse-Ueberlegen unter Xabi Alonso trotz Fofana-Sperre. PL-Auftakt ohne 2:0-Insurance. Bei 1000 EUR Kasse: 2% = 20 EUR."
+      "begruendung": "Chelsea Klasse-Ueberlegen unter Xabi Alonso trotz Fofana-Sperre. PL-Auftakt ohne 2:0-Insurance. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 6
     },
     {
       "id": "et-07",
@@ -622,7 +628,8 @@
       "empfohlener_einsatz_prozent": 2.0,
       "einsatz_prozent_kasse": 2.0,
       "einsatz_euro": 20,
-      "begruendung": "Bologna zu Hause + Coppa-Signal bei Lazio + Tedesco-Debut motiviert. Bei 1000 EUR Kasse: 2% = 20 EUR."
+      "begruendung": "Bologna zu Hause + Coppa-Signal bei Lazio + Tedesco-Debut motiviert. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 7
     },
     {
       "id": "et-08",
@@ -636,7 +643,8 @@
       "empfohlener_einsatz_prozent": 2.0,
       "einsatz_prozent_kasse": 2.0,
       "einsatz_euro": 20,
-      "begruendung": "HSV mit BL-Kader klar Klasse-Fav gegen 3.-Liga-Verl. 90-Min-Wertung im Pokal. Bei 1000 EUR Kasse: 2% = 20 EUR."
+      "begruendung": "HSV mit BL-Kader klar Klasse-Fav gegen 3.-Liga-Verl. 90-Min-Wertung im Pokal. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 8
     },
     {
       "id": "et-09",
@@ -644,13 +652,14 @@
       "spiel_label": "AS Roma vs AC Florenz",
       "kategorie": "value",
       "markt": "Ueber 2.5 Tore",
-      "quote": 1.70,
+      "quote": 1.7,
       "faire_quote": 1.55,
       "edge_prozent": 9,
       "empfohlener_einsatz_prozent": 2.0,
       "einsatz_prozent_kasse": 2.0,
       "einsatz_euro": 20,
-      "begruendung": "Gasperini-Systeme torreich + Kean als Fiorentina-Sturm-Volumen. Goldgrube-Markt. Bei 1000 EUR Kasse: 2% = 20 EUR."
+      "begruendung": "Gasperini-Systeme torreich + Kean als Fiorentina-Sturm-Volumen. Goldgrube-Markt. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 9
     },
     {
       "id": "et-10",
@@ -658,13 +667,14 @@
       "spiel_label": "Fulham vs Chelsea",
       "kategorie": "value",
       "markt": "Beide Teams treffen (JA)",
-      "quote": 1.60,
-      "faire_quote": 1.50,
+      "quote": 1.6,
+      "faire_quote": 1.5,
       "edge_prozent": 7,
       "empfohlener_einsatz_prozent": 2.0,
       "einsatz_prozent_kasse": 2.0,
       "einsatz_euro": 20,
-      "begruendung": "Beide Abwehr-Ketten mit Sperren geschwaecht + zuverlaessige 9er/10er beidseits. Bei 1000 EUR Kasse: 2% = 20 EUR."
+      "begruendung": "Beide Abwehr-Ketten mit Sperren geschwaecht + zuverlaessige 9er/10er beidseits. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 10
     },
     {
       "id": "et-11",
@@ -673,12 +683,13 @@
       "kategorie": "value",
       "markt": "Ueber 2.5 Tore",
       "quote": 1.75,
-      "faire_quote": 1.60,
+      "faire_quote": 1.6,
       "edge_prozent": 9,
       "empfohlener_einsatz_prozent": 2.0,
       "einsatz_prozent_kasse": 2.0,
       "einsatz_euro": 20,
-      "begruendung": "BL-Sturm-Klasse gegen Regionalliga-Abwehr. Historisch ~70% 3+ Tore in dieser Konstellation. Bei 1000 EUR Kasse: 2% = 20 EUR."
+      "begruendung": "BL-Sturm-Klasse gegen Regionalliga-Abwehr. Historisch ~70% 3+ Tore in dieser Konstellation. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 11
     },
     {
       "id": "et-12",
@@ -692,7 +703,8 @@
       "empfohlener_einsatz_prozent": 2.0,
       "einsatz_prozent_kasse": 2.0,
       "einsatz_euro": 20,
-      "begruendung": "Schalke-Sturm Klasse-Vorteil vs Regionalliga-Abwehr + Halle-Offensive trifft daheim gelegentlich. Bei 1000 EUR Kasse: 2% = 20 EUR."
+      "begruendung": "Schalke-Sturm Klasse-Vorteil vs Regionalliga-Abwehr + Halle-Offensive trifft daheim gelegentlich. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 12
     }
   ],
   "kombis": [
@@ -705,14 +717,14 @@
           "spiel_id": "2026-08-24-rom-fio",
           "spiel_label": "AS Roma vs AC Florenz",
           "markt": "Sieg AS Roma (90 Min)",
-          "quote": 1.60,
+          "quote": 1.6,
           "kategorie": "safe"
         },
         {
           "spiel_id": "2026-08-24-hal-s04",
           "spiel_label": "Hallescher FC vs FC Schalke 04",
           "markt": "Sieg FC Schalke 04 (90 Min)",
-          "quote": 1.40,
+          "quote": 1.4,
           "kategorie": "safe"
         },
         {
@@ -782,14 +794,14 @@
           "spiel_id": "2026-08-24-rom-fio",
           "spiel_label": "AS Roma vs AC Florenz",
           "markt": "Kean Torschuetze jederzeit",
-          "quote": 3.20,
+          "quote": 3.2,
           "kategorie": "risk"
         },
         {
           "spiel_id": "2026-08-24-hal-s04",
           "spiel_label": "Hallescher FC vs FC Schalke 04",
           "markt": "Sylla Torschuetze jederzeit",
-          "quote": 2.80,
+          "quote": 2.8,
           "kategorie": "risk"
         }
       ],
@@ -798,7 +810,7 @@
       "empfohlener_einsatz_prozent": 0.25,
       "einsatz_prozent_kasse": 0.25,
       "einsatz_euro": 2.5,
-      "moeglicher_gewinn_euro": 61.60,
+      "moeglicher_gewinn_euro": 61.6,
       "begruendung": "Drei Volumen-9er/10er aus 3 verschiedenen Spielen: Palmer (Chelsea-Top-Scorer + Elfmeter), Kean (25+ Serie-A-Tore Vorsaison), Sylla (Schalke-Klasse gegen Regionalliga). Alle mit Einwechslungs-Boost-Struktur. Layer-2 sauber (alle Sieg-Outcomes bereits in anderen Kombis, Torschuetzen-Maerkte entkoppelt). Bei 1000 EUR Kasse: 0.25% = 2.50 EUR."
     },
     {
@@ -810,28 +822,28 @@
           "spiel_id": "2026-08-24-ver-hsv",
           "spiel_label": "SC Verl vs Hamburger SV",
           "markt": "Doppelte Chance Verl oder Remis (1X)",
-          "quote": 3.20,
+          "quote": 3.2,
           "kategorie": "moonshot"
         },
         {
           "spiel_id": "2026-08-24-wue-koe",
           "spiel_label": "FC Wuerzburger Kickers vs 1. FC Koeln",
           "markt": "Doppelte Chance Wuerzburg oder Remis (1X)",
-          "quote": 3.00,
+          "quote": 3.0,
           "kategorie": "moonshot"
         },
         {
           "spiel_id": "2026-08-24-bol-laz",
           "spiel_label": "Bologna vs Lazio Rom",
           "markt": "Jonathan Rowe Torschuetze jederzeit",
-          "quote": 4.50,
+          "quote": 4.5,
           "kategorie": "moonshot"
         },
         {
           "spiel_id": "2026-08-24-ful-che",
           "spiel_label": "Fulham vs Chelsea",
           "markt": "Ueber 3.5 Tore",
-          "quote": 3.20,
+          "quote": 3.2,
           "kategorie": "moonshot"
         }
       ],

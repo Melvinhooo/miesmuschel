@@ -249,134 +249,12 @@
         "**Einwechslungs-Boost aktiv**: Alvarez-Sub Lautaro (Torschuetzen-Form HF), Messi-Sub Nico Paz/Correa, Oyarzabal-Sub Ferran Torres, Yamal-Sub Nico Williams",
         "**FIFA-Halftime-Show** ~20 Min statt 15 - ungewohnter Rhythmus-Bruch (Super-Bowl-Style Bieber/Shakira/Madonna/BTS)"
       ],
-      "tipps": [
-        {
-          "id": "arg-esp-1",
-          "kategorie": "value",
-          "markt": "Unter 2.5 Tore ARG-ESP (90 Min)",
-          "wette": "Weniger als 3 Tore insgesamt (0:0/1:0/0:1/1:1/2:0/0:2)",
-          "quote": 1.59,
-          "faire_quote": 1.5,
-          "edge_prozent": 5.0,
-          "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_prozent_kasse": 2.0,
-          "einsatz_euro": 11.0,
-          "empfohlener_einsatz_euro": 11.0,
-          "begruendung": "Markt-Goldgrube \"Unter 2.5 Tore\" +23.4% ROI / 67.9% Hitrate (n=28). Setup: (1) ESP-Rekord-Defense NUR 1 GEGENTOR IN 7 SPIELEN + 6 CS, (2) Klassen-Konkurrent-K.O.-Muster HR26 (K.O.-Torzahl-nach-unten, HF1 FRA-ESP 0:2 VOLL bestaetigt), (3) Finale-Historik: 4 von letzten 5 WM-Finals Unter 2.5, (4) ARG-Muedigkeit nach 300+ Min K.O., (5) 90-Min-Regel (Verlaengerung + Elfmeter zaehlen NICHT). Faire Quote bei 65% real = 1.54, bei 68% = 1.47. bet365 1.59 = +5% Edge. HF2-Warnung (ENG-ARG 1:2) mahnt zur Vorsicht - Portfolio-Uebertrag keine Garantie. Stake 2.0% = 11 EUR.",
-          "beruecksichtigte_lessons": [
-            "Markt-Goldgrube Unter 2.5 Tore",
-            "HR26 K.O.-Torzahl-nach-unten",
-            "ESP-Rekord-Defense",
-            "HF2-Warnung Portfolio-Uebertrag",
-            "Finale-Historik 4/5 Unter 2.5"
-          ]
-        },
-        {
-          "id": "arg-esp-2",
-          "kategorie": "value",
-          "markt": "Mikel Oyarzabal trifft jederzeit",
-          "wette": "Oyarzabal erzielt mind. 1 Tor",
-          "quote": 2.7,
-          "faire_quote": 2.4,
-          "edge_prozent": 12.0,
-          "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_prozent_kasse": 2.0,
-          "einsatz_euro": 11.0,
-          "empfohlener_einsatz_euro": 11.0,
-          "begruendung": "MARKT-MIX-Regel Auswaerts-Favorit PFLICHT-Tipp: bei ESP-Sieg-Quote 1.62 ist Torschuetzen-Tipp auf ESP-Top-Stuermer verpflichtend. Oyarzabal fuehrt ESP-Turnier-Torschuetzenliste mit 5 Toren in 7 Spielen + Elfer-Instinkt + HF Elfmeter vs FRA Min 22. Markt-Goldgrube Torschuetzen Jederzeit +24.4% ROI. Faire Quote bei 42% real = 2.38, bei 40% = 2.50. bet365 2.70 = klarer VALUE +12%. Einwechslungs-Boost WM 2026 aktiv (Ferran Torres als Backup). Stake 2.0% = 11 EUR.",
-          "beruecksichtigte_lessons": [
-            "MARKT-MIX-Regel Auswaerts-Favorit Torschuetzen-Pflicht",
-            "Markt-Goldgrube Torschuetzen Jederzeit",
-            "Form-Edge Oyarzabal 5 Turnier-Tore",
-            "Einwechslungs-Boost WM 2026",
-            "ESP-Elfer-Schuetze"
-          ]
-        },
-        {
-          "id": "arg-esp-3",
-          "kategorie": "value",
-          "markt": "Spanien Sieg 90 Min",
-          "wette": "Spanien gewinnt in regulaerer Spielzeit",
-          "quote": 1.62,
-          "faire_quote": 1.53,
-          "edge_prozent": 5.5,
-          "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_prozent_kasse": 2.0,
-          "einsatz_euro": 11.0,
-          "empfohlener_einsatz_euro": 11.0,
-          "begruendung": "Klassen-Favorit mit systemischen Edges: 37-Spiele-Ungeschlagen-Serie + Rodri 655-Paesse-Rekord + NUR 1 Gegentor in 7 Spielen + ARG-Muedigkeit (300+ K.O.-Min). 2:0-Insurance-Schutz WM 2026 aktiv (sobald ESP 2:0 fuehrt gilt gewonnen). Nicht SAFE weil (a) Finale immer offener als HF-Stat, (b) Draw 3.50 = 28% implied, (c) Finale nicht in Liga-Goldgrube -> Hebel C Downgrade greift. bet365 1.62 = leichter VALUE +5%. Stake 2.0% = 11 EUR.",
-          "beruecksichtigte_lessons": [
-            "MARKT-MIX-Regel Auswaerts-Favorit Sieg-Tipp",
-            "2:0-Insurance-Schutz WM 2026",
-            "Liga-Goldgruben-Hebel C",
-            "37-Spiele-Ungeschlagen-Momentum ESP"
-          ]
-        },
-        {
-          "id": "arg-esp-4",
-          "kategorie": "wackel",
-          "markt": "Lionel Messi trifft jederzeit",
-          "wette": "Messi erzielt mind. 1 Tor",
-          "quote": 2.3,
-          "faire_quote": 2.2,
-          "edge_prozent": 4.0,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_prozent_kasse": 0.5,
-          "einsatz_euro": 2.75,
-          "empfohlener_einsatz_euro": 2.75,
-          "begruendung": "Messi in Golden-Boot-Form (8 Turnier-Tore + 2 HF-Assists gleichauf mit Mbappe), aber WACKEL wegen: (1) Lesson 2026-07-10 Top-Scorer-Wackel-K.O.-Standard (Kane/Messi/Haaland alle 0 im QF), (2) Lesson 2026-07-12 WM-2026-QF-Torschuetzen-Verlust-Cluster (5 WACKEL 4 verloren + Bellingham HF = 5/6 = 83%), (3) Messi 0 im QF + 0 im HF (Assist-Rolle), (4) ESP-Defense-Rekord 1 Gegentor / 7. Insurance-Tipp gg Under-These. Stake 0.5% = 2.75 EUR.",
-          "beruecksichtigte_lessons": [
-            "Top-Scorer-Wackel-K.O.-Standard",
-            "WM-2026-K.O.-Torschuetzen-Verlust-Cluster",
-            "ESP-Rekord-Defense",
-            "Insurance-Tipp gg Under"
-          ]
-        }
-      ],
-      "kontext_check_status": "OK"
+      "tipps": [],
+      "kontext_check_status": "OK",
+      "_recherche_fehlt": true
     }
   ],
   "einzeltipps": [
-    {
-      "id": "einzel-01",
-      "tipp_id": "arg-esp-1",
-      "spiel_id": "2026-07-19-arg-esp",
-      "spiel": "Argentinien vs Spanien",
-      "liga": "FIFA WM 2026 - Finale",
-      "anstoss": "2026-07-19T21:00:00+02:00",
-      "kategorie": "value",
-      "markt": "Unter 2.5 Tore (90 Min)",
-      "wette": "Weniger als 3 Tore insgesamt in regulaerer Spielzeit",
-      "quote": 1.59,
-      "faire_quote": 1.5,
-      "edge_prozent": 5.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "einsatz_prozent_kasse": 2.0,
-      "einsatz_euro": 11.0,
-      "empfohlener_einsatz_euro": 11.0,
-      "begruendung_kurz": "TOP-Pick: Goldgrube +23.4% ROI/67.9% HR + ESP-Rekord-Defense 1 Gegentor/7 + HR26 K.O.-Torzahl-nach-unten (HF1 bestaetigt) + Finale-Historik 4/5 letzten Finals Unter 2.5 + 90-Min-Regel.",
-      "rang": 1
-    },
-    {
-      "id": "einzel-02",
-      "tipp_id": "arg-esp-2",
-      "spiel_id": "2026-07-19-arg-esp",
-      "spiel": "Argentinien vs Spanien",
-      "liga": "FIFA WM 2026 - Finale",
-      "anstoss": "2026-07-19T21:00:00+02:00",
-      "kategorie": "value",
-      "markt": "Mikel Oyarzabal trifft jederzeit",
-      "wette": "Oyarzabal erzielt mind. 1 Tor",
-      "quote": 2.7,
-      "faire_quote": 2.4,
-      "edge_prozent": 12.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "einsatz_prozent_kasse": 2.0,
-      "einsatz_euro": 11.0,
-      "empfohlener_einsatz_euro": 11.0,
-      "begruendung_kurz": "MARKT-MIX Auswaerts-Fav PFLICHT + Oyarzabal 5 Turnier-Tore (Top-ESP-Scorer) + Elfer-Schuetze + Goldgrube-Markt +24.4% ROI + Einwechslungs-Boost (Ferran Torres). bet365 2.70 = +12% Edge.",
-      "rang": 2
-    },
     {
       "id": "einzel-03",
       "tipp_id": "fra-eng-2",
@@ -395,7 +273,7 @@
       "einsatz_euro": 11.0,
       "empfohlener_einsatz_euro": 11.0,
       "begruendung_kurz": "**Golden-Boot-Race** mit Messi (beide 8 Tore) - Mbappe MUSS heute treffen um Chance zu haben. Deschamps-Abschieds-Emotion + FRA-Team-Fokus auf Mbappe. Turnier-Bilanz 8/6 = 1.33 Tore/Spiel. ENG-IV massiv umgestellt (Spence statt James, Konsa-Guehi ausgelaugt). Markt-Goldgrube 'Torschuetzen Jederzeit' +24.4% ROI. bet365 2.10 = klarer VALUE +10%.",
-      "rang": 3
+      "rang": 1
     },
     {
       "id": "einzel-04",
@@ -415,27 +293,7 @@
       "einsatz_euro": 11.0,
       "empfohlener_einsatz_euro": 11.0,
       "begruendung_kurz": "Markt-Goldgrube 'Ueber 2.5 Tore' +17.0% ROI/56.4% HR (n=41). Setup-Faktoren: (1) Saliba out (Lacroix schwaecher), (2) ENG-Massiv-Rotation Kane/Rice/Bellingham raus = Kontroll-Verlust, (3) Miami-Hitze 32°C + Luftfeuchte, (4) Spiel-um-Platz-3 historisch hoeherer Tor-Schnitt als Finale (Rotation + Motivations-Loch + kein VL-Puffer). bet365 1.55 = solider VALUE +8%.",
-      "rang": 4
-    },
-    {
-      "id": "einzel-05",
-      "tipp_id": "arg-esp-3",
-      "spiel_id": "2026-07-19-arg-esp",
-      "spiel": "Argentinien vs Spanien",
-      "liga": "FIFA WM 2026 - Finale",
-      "anstoss": "2026-07-19T21:00:00+02:00",
-      "kategorie": "value",
-      "markt": "Spanien Sieg 90 Min",
-      "wette": "Spanien gewinnt in regulaerer Spielzeit",
-      "quote": 1.62,
-      "faire_quote": 1.53,
-      "edge_prozent": 5.5,
-      "empfohlener_einsatz_prozent": 2.0,
-      "einsatz_prozent_kasse": 2.0,
-      "einsatz_euro": 11.0,
-      "empfohlener_einsatz_euro": 11.0,
-      "begruendung_kurz": "Klassen-Favorit: 37-Spiele-Ungeschlagen + Rodri 655-Paesse-Rekord + Rekord-Defense + ARG-Muedigkeit. 2:0-Insurance-Schutz WM 2026 aktiv. VALUE weil Finale nicht in Liga-Goldgrube. bet365 1.62 = +5% Edge.",
-      "rang": 5
+      "rang": 2
     },
     {
       "id": "einzel-06",
@@ -455,7 +313,7 @@
       "einsatz_euro": 8.25,
       "empfohlener_einsatz_euro": 8.25,
       "begruendung_kurz": "Saliba out + FRA-Defense-Bilanz 5 Gegentore/6 Spiele (schon vor Saliba anfaellig) + ENG-Turnier 8 Tore/6 Spiele + neutraler Boden + Rotation Watkins/Rashford. **Korrelations-Warnung** mit Tipp 4 (Ueber 2.5) - Stake defensiv 1.5%. Faire Quote 1.60 bei 62% real, bet365 1.75 = VALUE +9%.",
-      "rang": 6
+      "rang": 3
     }
   ],
   "kombis": [
