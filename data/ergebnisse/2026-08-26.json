@@ -404,7 +404,7 @@
       ],
       "kontext_check_status": "OK",
       "ergebnis": {
-        "halbzeit": null,
+        "halbzeit": "1:1",
         "endstand": "1:2 n.V.",
         "quelle": "WebSearch-Aggregat 27.08.2026 (getfootballnewsfrance, sofascore, worldsoccertalk, flashscore-Snippets - direkte Fetch-Quellen durch Egress-Proxy blockiert)"
       },
@@ -417,9 +417,9 @@
         },
         {
           "tipp_id": "cel-slo-2",
-          "status": "offen",
-          "gewinn_faktor": 0.0,
-          "kommentar": "BTTS: Endstand mit ET 1:2, aber Regel wertet nur 90 Min - 90-Min-Stand koennte 0:0 (BTTS NEIN) oder 1:1 (BTTS JA) sein. Watchdog 09:00 ergaenzt."
+          "status": "gewonnen",
+          "gewinn_faktor": 1.9,
+          "kommentar": "BTTS JA: beide Teams trafen in den 90 Minuten (Sporar 18., Seslar 34. Elfmeter, Halbzeit 1:1). Quelle: The Slovak Spectator."
         },
         {
           "tipp_id": "cel-slo-3",
@@ -435,28 +435,49 @@
         }
       ],
       "volle_analyse": {
-        "halbzeit_stand": null,
+        "halbzeit_stand": "1:1",
         "endstand": "1:2 n.V.",
-        "endstand_90min": null,
-        "tore": null,
+        "endstand_90min": "1:1",
+        "tore": [
+          {
+            "min": 18,
+            "team": "gast",
+            "spieler": "Andraz Sporar",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 34,
+            "team": "heim",
+            "spieler": "Svit Seslar (Elfmeter)",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 100,
+            "team": "gast",
+            "spieler": "Cristian Martinez",
+            "stand_danach": "1:2 (Verlaengerung)"
+          }
+        ],
         "drehung": {
-          "war_drehung": null,
-          "details": "unklar (90-Min-Verlauf nicht sicher recherchiert)"
+          "war_drehung": false,
+          "details": "In 90 Min kein 2-Tore-Vorsprung, kein Fuehrungswechsel nach Fuehrung. Slovan entschied erst in Verlaengerung. Fuer bet365-Wertung (90 Min) keine Drehung."
         },
         "markt_resultate": {
-          "btts": null,
-          "ueber_1_5": null,
-          "ueber_2_5": null,
-          "ueber_3_5": null,
-          "halbzeit_endstand": null,
-          "kein_team_zu_null": null
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden (in 90 Min: HZ 1:1 / ES 1:1)",
+          "kein_team_zu_null": true
         },
         "rotation_highlights": [],
         "einwechslungs_tor_highlights": [],
         "auffaellige_patterns": [
-          "Slovan Bratislava zog in die CL-Ligaphase ein - Sieg in der Verlaengerung. Fuer die Wettauswertung entscheidend: 1X2-Maerkte werten nur 90 Minuten (Regel bet365), damit sind Sieg-Tipps beider Seiten auf 90-Min-Ebene 'verloren' (Remis) oder Push. Volle Analyse konnte mangels Quellen nicht abgeschlossen werden - Watchdog 09:00 wird ergaenzen."
+          "Elfmeter-Tor Seslar (34.) gleicht Sporar-Fuehrung aus - Celje offensiv wie erwartet couragiert. Slovan entscheidet in Verlaengerung durch Martinez (100.), zieht in CL-Ligaphase ein.",
+          "Wett-relevant: 1X2/DC-Maerkte werten nur 90 Min - beide Sieg-Tipps (cel-slo-3, cel-slo-4) verloren, weil 90-Min-Endstand 1:1. BTTS wertet gleichfalls 90 Min - JA erfuellt. Unter 3.5 in 90 Min klar erfuellt (nur 2 Tore).",
+          "Lehre fuer Playoff-Rueckspiel-Typik: 1-1-Hinspiel + K.o.-Modus produziert oft enge Ergebnisse. Unter 3.5 hat sich bewaehrt (VALUE gewonnen), Sieg-Tipps in K.o.-Runden mit potentieller Verlaengerung bleiben riskant."
         ],
-        "quelle_hinweis": "Slovan Bratislava gewinnt nach Verlaengerung 1:2 (agg 2:3) und zieht in die Ligaphase ein. Regulaerer 90-Minuten-Stand aus verfuegbaren Aggregator-Quellen nicht eindeutig - vermutlich Remis (sonst keine Verlaengerung). 1X2/DC-Maerkte werten laut CLAUDE.md nur die regulaeren 90 Minuten."
+        "quelle_hinweis": "Slovak Spectator + UEFA-Match-Center: Sporar 18. (0:1), Seslar 34. Elfmeter (1:1), HZ 1:1, Martinez 100. (1:2 n.V., Aggregat 2:3). Slovan Bratislava in CL-Ligaphase."
       }
     },
     {
