@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-08-26T06:36:46+00:00",
+  "letzte_berechnung": "2026-08-27T06:26:01+00:00",
   "gesamt": {
     "tipps": 429,
     "gewonnen": 222,
@@ -23,15 +23,15 @@
     "roi_prozent": 20.2
   },
   "letzte_90_tage": {
-    "tipps": 418,
-    "gewonnen": 216,
+    "tipps": 415,
+    "gewonnen": 213,
     "verloren": 190,
     "push": 1,
     "offen": 11,
-    "einsatz": 407.0,
-    "netto": 28.92,
-    "trefferquote": 53.2,
-    "roi_prozent": 7.1
+    "einsatz": 404.0,
+    "netto": 23.84,
+    "trefferquote": 52.9,
+    "roi_prozent": 5.9
   },
   "nach_liga": {
     "Bundesliga Relegation": {
@@ -4296,6 +4296,143 @@
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-08-26",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-CL-Playoff-Deckel",
+          "kategorie": "safe",
+          "gesamtquote": 3.24,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "AEK Athens Sieg (90 Min)",
+              "quote": 1.44,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 3.5 Tore",
+              "quote": 1.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 3.5 Tore",
+              "quote": 1.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-BTTS-Torfluss",
+          "kategorie": "balance",
+          "gesamtquote": 6.27,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 2.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Doppel-Coinflip-Sieg",
+          "kategorie": "risk",
+          "gesamtquote": 27.97,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Olympique Lyon Sieg (90 Min)",
+              "quote": 2.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Viking FK Sieg (90 Min)",
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-CL-Playoff-Lotterie",
+          "kategorie": "moonshot",
+          "gesamtquote": 100.8,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Slovan Bratislava Sieg (90 Min)",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-08-25",
       "gesamt": {

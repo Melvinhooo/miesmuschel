@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-25T08:00:00+02:00",
+  "stand": "2026-08-27T08:00:00+02:00",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -308,7 +308,15 @@
       "spieler": "Loïs Openda",
       "nach": "Olympique Lyon",
       "von": "Juventus Turin",
-      "hinweis": "Leihe aus Turin fuer die Ligue-1-Saison 2026/27. Ligue-1-Comeback nach RB-Leipzig-Historie."
+      "hinweis": "Leihe aus Turin fuer die Ligue-1-Saison 2026/27. Ligue-1-Comeback nach RB-Leipzig-Historie. Traf im CL-Playoff-Hinspiel (18.08. gegen Fener) das 1:0 (40. Kopfball) - im Rueckspiel 26.08. hatte Openda ein Tor aberkannt (Sub Boudache ebenfalls) - bet365 wertet nur regulaere Tore.",
+      "quelle": "https://www.getfootballnewsfrance.com/2026/player-ratings-lyon-1-2-fenerbahce-les-gones-crash-out-of-champions-league-race/"
+    },
+    {
+      "spieler": "Luka Jovic",
+      "nach": "AEK Athens",
+      "von": "AC Milan",
+      "hinweis": "Zentraler 9er bei AEK Athens Saison 2026/27. Traf am 26.08. gegen Levski Sofia (CL-Playoff-Rueckspiel) in der 7. Minute das 1:0, davor Liga-Doppelpack gegen Iraklis. Auswertungsroutine 27.08. bestaetigt AEK-Zugehoerigkeit fuer die Saison 2026/27.",
+      "quelle": "https://www.sofascore.com/news/aek-athens-vs-levski-sofia-playoff-second-leg-preview"
     }
   ],
   "trainer_2026_27": [
@@ -384,6 +392,15 @@
       "seit": "2026-07",
       "hinweis": "3-Jahres-Vertrag. Kam von Real Madrid (dort trennung im Sommer 2026 nach nur einem halben Jahr). Marco Silva war 5 Jahre Fulham-Trainer und ging zu Benfica als Mourinho-Nachfolger. Bestaetigt via Fulham-Chelsea-Auftakt 24.08.2026 (2:3-Niederlage). Taktische Aussagen ueber Fulham NICHT auf Silva-Stand stuetzen.",
       "quelle": "https://www.espn.com/soccer/story/_/id/49151991/alvaro-arbeloa-appointed-fulham-boss-real-madrid-exit"
+    },
+    {
+      "verein": "ŠK Slovan Bratislava",
+      "trainer_neu": "Yaya Toure",
+      "trainer_alt": "Vladimir Weiss",
+      "seit": "2026-07",
+      "hinweis": "Erster senior-Coaching-Job fuer Yaya Toure (ex-Barcelona/Manchester City). Startete Saison 2026/27 mit 6 Siegen und 1 Remis in den ersten 7 Spielen. Fuehrte Slovan Bratislava am 26.08.2026 in die CL-Ligaphase 2026/27 (Sieg n.V. gegen Celje 1:2, Aggregat 3:2). Auswertungsroutine 27.08.2026 - bestaetigt in mehreren Aggregator-Quellen.",
+      "quelle": "https://en.wikipedia.org/wiki/2026%E2%80%9327_%C5%A0K_Slovan_Bratislava_season",
+      "stand": "2026-08-27"
     }
   ],
   "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist. Fulham hat mit Arbeloa (ex-Real Madrid) einen neuen Trainer, Silva zu Benfica (bestaetigt 25.08.2026).",

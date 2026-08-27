@@ -1,0 +1,1244 @@
+{
+  "datum": "2026-08-26",
+  "erstellt_am": "2026-08-26T13:30:00+02:00",
+  "hinweis": "Mi 26.08.2026 - kompakter aber hochwertiger Slate: 4 Champions-League-Playoff-Rueckspiele, alle 21:00 CEST parallel angepfiffen (AEK Athens-Levski, Viking-Dinamo Zagreb, Celje-Slovan, Lyon-Fenerbahce). Alle vier Rueckspiele mit engem Hinspiel-Aggregat (0-0, 2-2, 1-1, 1-1) - Playoff-Nervenspiele mit Verlaengerungs-Optik in halben Spielen. WICHTIG CL-Regel: 2:0-Insurance bei bet365 gilt fuer alle CL-Rueckspiele - direkter Sieg-Tipp wird schon bei 2-0-Fuehrung gewertet. Kasse 1000 EUR, Stufe 1 aktiv (Stufe 2 erst wenn Saison 2026/27 rolling-30d-ROI > +5% zeigt - Basis noch nicht da, Vorsaison zaehlt nicht). Markt-Goldgruben Unter 2.5 Tore (73.1% Hit, +22.4% ROI) und Beide Teams treffen JA (58.3%/+12.4%) aktiv gesucht. Torschuetzen-Tipps nur wo Kader per Preview-Quelle sauber belegt ist (Openda Lyon per kader_wechsel_2026.json bestaetigt, Jovic AEK laut Match-Preview Startelf). Quoten bei bet365 live pruefen - schwanken bis Anstoss. Kein Recherche-File vorhanden - Fallback-Recherche via WebSearch (uefa.com + Klub-Vorschauen + Aggregatoren). _emergency_recovery Flag gesetzt.",
+  "_emergency_recovery": true,
+  "spiele": [
+    {
+      "id": "2026-08-26-aek-lev",
+      "liga": "Champions League 2026/27 - Playoff Rueckspiel",
+      "heim": "AEK Athens",
+      "gast": "Levski Sofia",
+      "anstoss": "2026-08-26T21:00:00+02:00",
+      "stadion": "OPAP Arena (Allwyn Arena), Athen",
+      "saison_kontext": {
+        "parallel_heim": "AEK Athens griechische Super League 2026/27 - CL-Playoff exklusiv, Liga-Auftakt bereits gespielt (uefa.com)",
+        "parallel_gast": "Levski Sofia bulgarische parva liga 2026/27 - Auftakt-Spiele parallel, CL-Playoff exklusiv (uefa.com)",
+        "saisonziel_heim": "Rueckkehr in die CL-Ligaphase nach Jahren (letzte Teilnahme 2018/19) - historisch wichtig",
+        "saisonziel_gast": "erstmalige CL-Ligaphase in der Klub-Geschichte, 19 Spiele ungeschlagen, 6 Weiße Westen in Folge",
+        "motivations_asymmetrie": "AEK klarer Buchmacher-Favorit @ ~1.44 (Heimspiel OPAP Arena + Jovic in Form mit Liga-Doppelpack + Latte in Sofia), aber Levski verteidigt aktuell wie eine Bank - 6 clean sheets in Folge. AEK muss den Riegel knacken, Levski reicht 0-0 in die Verlaengerung. Kein Selbstlaeufer, aber Klassen- und Heimvorteil klar bei AEK.",
+        "recovery_heim": "AEK 8 Tage seit 0-0 in Sofia, dazwischen Liga-Spiel Griechenland (Sonntag), voll erholt",
+        "recovery_gast": "Levski 8 Tage seit Hinspiel + Liga-Runde parva liga am Wochenende - 5 gemeldete Ausfaelle (Bouras, Sangare, Kamdem, Kirilov, Vulikic)",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/match/2049215--aek-athens-vs-levski-sofia/",
+          "https://www.sofascore.com/news/aek-athens-vs-levski-sofia-playoff-second-leg-preview",
+          "https://sports.yahoo.com/articles/champions-league-playoff-draw-full-095521783.html",
+          "https://www.bta.bg/en/news/sport/1187866-levski-sofia-aek-athens-draw-0-0-in-uefa-champions-league-play-off-first-leg"
+        ]
+      },
+      "news": [
+        "Hinspiel-Aggregat: 0-0 in Sofia vor voller Vasil-Levski-Nationalstadion-Kulisse.",
+        "AEK-Favorit @ ~1.44 (US-Preisliste -230), Draw @ ~3.80 (+280), Levski @ ~7.50 (+650) - klare Heim-Klasse-Erwartung.",
+        "Luka Jovic in Form: Doppelpack in der griechischen Super League + Lattentreffer im Hinspiel.",
+        "Levski Sofia mit 19 Spielen ungeschlagen und 6 Weißen Westen in Folge - defensive Konstitution stabil, offensiv jedoch begrenzt.",
+        "Levski 5 gemeldete Ausfaelle vor dem Rueckspiel (Bouras, Sangare, Kamdem, Kirilov, Vulikic) - dezimiert Auswaerts-Optionen.",
+        "CL-2:0-Insurance bei bet365 gilt bei Playoff-Rueckspielen - Sieg-Tipp AEK bereits sicher sobald 2-0 Fuehrung."
+      ],
+      "tipps": [
+        {
+          "id": "aek-lev-1",
+          "kategorie": "value",
+          "markt": "AEK Athens Sieg (90 Min)",
+          "quote": 1.44,
+          "faire_quote": 1.55,
+          "edge_prozent": 8,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "AEK klarer Favorit zu Hause in der OPAP Arena, Jovic mit Doppelpack in der Liga + Lattentreffer im Hinspiel, Levski mit 5 Ausfaellen und muss zwingend offensiv wenn AEK 1-0 macht. CL-2:0-Insurance greift bei bet365 - sobald AEK 2-0 fuehrt, Sieg-Tipp bereits sicher. Reality-Check: Sieg-Markt insgesamt bei 49.6% Hitrate/-1.1% ROI - hier aber klarer Favoritenpreis, akzeptabel. Bei 1000 EUR Kasse Stufe 1: 2% = 20 EUR."
+        },
+        {
+          "id": "aek-lev-2",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.8,
+          "faire_quote": 1.65,
+          "edge_prozent": 9,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Goldgrube-Markt Unter 2.5 (73.1% Hitrate, +22.4% ROI historisch). Levski mit 6 clean sheets in Folge + AEK 0-0 im Hinspiel = beide Defensiv-Systeme stabil. Playoff-Rueckspiel-Typik: enger Deckel, viel taktische Vorsicht mit Verlaengerungs-Optik. Bei 1000 EUR Kasse Stufe 1: 2% = 20 EUR."
+        },
+        {
+          "id": "aek-lev-3",
+          "kategorie": "wackel",
+          "markt": "Luka Jovic Torschuetze jederzeit",
+          "quote": 2.1,
+          "faire_quote": 1.95,
+          "edge_prozent": 8,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Jovic in Form (Liga-Doppelpack + Latte in Sofia) + zentraler 9er der AEK - HR24 mit 2 von 3 Bedingungen (Form + Position). Levski-Defense-Krise nicht bestaetigt (6 clean sheets), deshalb kein SAFE/VALUE. Bei 1000 EUR Kasse Stufe 1 Wackel: 0.5% = 5 EUR."
+        },
+        {
+          "id": "aek-lev-4",
+          "kategorie": "risk",
+          "markt": "Levski Sofia Sieg (90 Min)",
+          "quote": 7.5,
+          "faire_quote": 6.5,
+          "edge_prozent": 5,
+          "empfohlener_einsatz_prozent": 0.25,
+          "einsatz_prozent_kasse": 0.25,
+          "einsatz_euro": 2.5,
+          "begruendung": "Auswaerts-Underdog nach 0-0-Hinspiel, mit 5 Ausfaellen aber 19 Spiele ungeschlagen - nur als Moonshot-Bein sinnvoll, kein Einzeltipp. Reality-Check: risiko-Kategorie mit sehr kleiner Basis (n=3), keine belastbare Aussage. Bei 1000 EUR Kasse Stufe 1 Risiko: 0.25% = 2.50 EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit": "3:0",
+        "endstand": "4:0",
+        "quelle": "WebSearch-Aggregat 27.08.2026 (getfootballnewsfrance, sofascore, worldsoccertalk, flashscore-Snippets - direkte Fetch-Quellen durch Egress-Proxy blockiert)"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "aek-lev-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.44,
+          "kommentar": "AEK gewinnt 4:0, Sieg-Tipp durch."
+        },
+        {
+          "tipp_id": "aek-lev-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "4 Tore = Ueber 2.5."
+        },
+        {
+          "tipp_id": "aek-lev-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.1,
+          "kommentar": "Jovic trifft in der 7. Minute (Fuehrungstreffer)."
+        },
+        {
+          "tipp_id": "aek-lev-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Levski verliert 0:4."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "3:0",
+        "endstand": "4:0",
+        "tore": [
+          {
+            "min": 7,
+            "team": "heim",
+            "spieler": "Luka Jovic",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 12,
+            "team": "heim",
+            "spieler": "Barnabas Varga",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 29,
+            "team": "heim",
+            "spieler": "Barnabas Varga",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": 55,
+            "team": "heim",
+            "spieler": "Razvan Marin (Elfmeter)",
+            "stand_danach": "4:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "keine Drehung"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "halbzeit_endstand": "Heim/Heim",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [],
+        "quelle_hinweis": "Zini traf laut Aggregator-Snippet in der 2.HZ - Minute unklar, deshalb konservativ auf 4:0 begrenzt (Endstand aus mehreren Aggregatoren bestaetigt)."
+      }
+    },
+    {
+      "id": "2026-08-26-vik-din",
+      "liga": "Champions League 2026/27 - Playoff Rueckspiel",
+      "heim": "Viking FK",
+      "gast": "Dinamo Zagreb",
+      "anstoss": "2026-08-26T21:00:00+02:00",
+      "stadion": "SR-Bank Arena, Stavanger",
+      "saison_kontext": {
+        "parallel_heim": "Viking FK Eliteserien 2026 (skandinavischer Sommer-Kalender laufend) - kein Midweek-Cup parallel, CL-Playoff exklusiv (uefa.com)",
+        "parallel_gast": "Dinamo Zagreb kroatische HNL 2026/27 - kein Midweek-Pokal parallel, CL-Playoff exklusiv (uefa.com)",
+        "saisonziel_heim": "erstmalige CL-Ligaphase in der Klub-Geschichte (nur 1991/92 als Vorlaeufer). SR-Bank Arena voll, 16 Siege in 17 Heimspielen",
+        "saisonziel_gast": "Rueckkehr in die CL-Ligaphase nach 2024/25, Kovacevic ungeschlagen in 7 - Klassiker CL-Grundeinnahme fuer den kroatischen Meister",
+        "motivations_asymmetrie": "Coinflip @ 2.30 (Viking) vs 2.70 (Dinamo). Viking mit brutaler Heimserie + im Hinspiel 2-0-Rueckstand zu 2-2 gedreht = mentales Kapital. Dinamo mit routinierterem Kader (Beljo/Lisica) aber Auswaerts-Playoff-Rueckspiel selten Selbstlaeufer. Kein klarer Edge fuer eine Seite - typisches Wackel-Match.",
+        "recovery_heim": "Viking 8 Tage seit Hinspiel + Eliteserien-Spieltag am Wochenende. Ausfaelle Baertelsen (Fuss-Bruch), Roseth, Berisha",
+        "recovery_gast": "Dinamo Zagreb 8 Tage seit Hinspiel + HNL-Spieltag - gleiche Belastung",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/news/02a8-21614aa98c59-7f9d3e928182-1000--champions-league-play-off-first-legs-round-up-lyon-viking-/",
+          "https://www.sportsmole.co.uk/football/viking-fk/champions-league/preview/viking-fk-vs-dinamo-zagreb-prediction-team-news-lineups_603563.html",
+          "https://footballwhispers.com/blog/viking-vs-dinamo-zagreb-prediction-26-08-2026/",
+          "https://tips.gg/article/viking-vs-dinamo-zagreb-26-08-2026/"
+        ]
+      },
+      "news": [
+        "Hinspiel-Aggregat: 2-2 in Zagreb. Dinamo 2-0 nach 10 Minuten (Beljo, Lisica), Viking mit Christiansen + Tripic bis zur Halbzeit zurueck.",
+        "Viking mit 16 Siegen in 17 Heimspielen zuletzt - SR-Bank Arena wird zum Buchmacher-Argument.",
+        "Dinamo Zagreb unter Trainer Mario Kovacevic 5 Siege in 7 Spielen, ungeschlagen in dieser Serie.",
+        "Viking-Ausfaelle: Baertelsen (Fussbruch im Training), Roseth, Berisha.",
+        "Quotenbild: Viking @ +130 (~2.30), Dinamo @ +170 (~2.70), Draw @ +240 (~3.40) - klarer Coinflip mit leichter Viking-Neigung wegen Heim.",
+        "CL-2:0-Insurance gilt (bet365-Aktionsregel Bundesliga + CL) - Sieg-Tipp abgesichert sobald 2-0-Fuehrung."
+      ],
+      "tipps": [
+        {
+          "id": "vik-din-1",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.6,
+          "faire_quote": 1.45,
+          "edge_prozent": 10,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Hinspiel 2-2 = beide getroffen, beide gezwungen zu spielen (Aggregat-Gleichstand, kein zu-Null-Modus moeglich). Viking Christiansen/Tripic je 4 Tore in 5 Spielen, Dinamo Beljo/Lisica getroffen im Hinspiel. Reality-Check: BTTS JA 58.3% Hit / +12.4% ROI (Goldgruben-Kandidat). Bei 1000 EUR Kasse Stufe 1: 2% = 20 EUR."
+        },
+        {
+          "id": "vik-din-2",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.65,
+          "faire_quote": 1.55,
+          "edge_prozent": 6,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Hinspiel 4 Tore total, beide Teams offensiv, Aggregat-Gleichstand zwingt zu Toren - Kandidat fuer 2-1/2-2/3-2. Wackel weil Playoff-Rueckspiele auch defensiv gedeckelt sein koennen (HR26-Logik aus K.O.-Modus). Bei 1000 EUR Kasse Stufe 1 Wackel: 0.5% = 5 EUR."
+        },
+        {
+          "id": "vik-din-3",
+          "kategorie": "wackel",
+          "markt": "Viking FK Sieg (90 Min)",
+          "quote": 2.3,
+          "faire_quote": 2.5,
+          "edge_prozent": -4,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Viking mit 16/17-Heimserie und mental gestaerkt (Rueckstand gedreht im Hinspiel) - solider Wackel-Sieg. CL-2:0-Insurance greift (bet365-Aktionsregel). Edge minimal, deshalb kein VALUE. Bei 1000 EUR Kasse Stufe 1 Wackel: 0.5% = 5 EUR."
+        },
+        {
+          "id": "vik-din-4",
+          "kategorie": "risk",
+          "markt": "Dinamo Zagreb Sieg (90 Min)",
+          "quote": 2.7,
+          "faire_quote": 3.0,
+          "edge_prozent": -10,
+          "empfohlener_einsatz_prozent": 0.25,
+          "einsatz_prozent_kasse": 0.25,
+          "einsatz_euro": 2.5,
+          "begruendung": "Auswaerts-Sieg fuer die Klassen-Underdog-Sicht - kroatische CL-Erfahrung + Kovacevic unbeaten in 7. Nur fuer Moonshot-Kombi ins Auge. Reality-Check: kleine Basis, keine belastbare Aussage. Bei 1000 EUR Kasse Stufe 1 Risiko: 0.25% = 2.50 EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit": "1:1",
+        "endstand": "3:1",
+        "quelle": "WebSearch-Aggregat 27.08.2026 (getfootballnewsfrance, sofascore, worldsoccertalk, flashscore-Snippets - direkte Fetch-Quellen durch Egress-Proxy blockiert)"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "vik-din-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.6,
+          "kommentar": "Beide trafen (Hoxha 10., Tripic 18. u.a.)."
+        },
+        {
+          "tipp_id": "vik-din-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.65,
+          "kommentar": "4 Tore total = Ueber 2.5."
+        },
+        {
+          "tipp_id": "vik-din-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.3,
+          "kommentar": "Viking gewinnt 3:1."
+        },
+        {
+          "tipp_id": "vik-din-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Dinamo verliert 1:3."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "3:1",
+        "tore": [
+          {
+            "min": 10,
+            "team": "gast",
+            "spieler": "Arber Hoxha",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 18,
+            "team": "heim",
+            "spieler": "Zlatko Tripic (Elfmeter)",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 48,
+            "team": "heim",
+            "spieler": "Edvin Austbo",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 50,
+            "team": "heim",
+            "spieler": "Tobias Moi",
+            "stand_danach": "3:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "keine Drehung"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "halbzeit_endstand": "Unentschieden/Heim",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [],
+        "quelle_hinweis": null
+      }
+    },
+    {
+      "id": "2026-08-26-cel-slo",
+      "liga": "Champions League 2026/27 - Playoff Rueckspiel",
+      "heim": "NK Celje",
+      "gast": "Slovan Bratislava",
+      "anstoss": "2026-08-26T21:00:00+02:00",
+      "stadion": "Stadion Z'dezele, Celje",
+      "saison_kontext": {
+        "parallel_heim": "NK Celje slovenska PrvaLiga 2026/27 - Liga-Spiel vor dem Rueckspiel wurde VERSCHOBEN um Fokus zu ermoeglichen (footballwhispers.com)",
+        "parallel_gast": "Slovan Bratislava slowakische Nike Liga 2026/27 - Liga-Spiel am Wochenende gespielt (2-1 in Kosice)",
+        "saisonziel_heim": "erstmalige CL-Ligaphase in der Klub-Geschichte, historische Chance - nur 1 Niederlage in 9 Pflichtspielen dieser Saison",
+        "saisonziel_gast": "Rueckkehr in die CL-Ligaphase nach 2024/25 unter Neu-Trainer Yaya Toure (kam Sommer 2026) - Praemien fuer klein-mittleren Etat",
+        "motivations_asymmetrie": "Coinflip @ 2.35 vs 3.00 mit leichter Celje-Tendenz. Celje hat Liga-Spiel verschoben (voller Fokus) + Heimvorteil Z'dezele + 8 von 9 Pflichtspielen unbesiegt. Slovan mit neuem Trainer (Yaya Toure Debut-Saison) und Auswaerts-Playoff typisch schwerer. Motivation eher Celje (historische Chance), Klasse leicht Slovan.",
+        "recovery_heim": "Celje 8 Tage seit Hinspiel + verschobene Liga-Runde = voller Fokus + frische Beine",
+        "recovery_gast": "Slovan 3 Tage seit 2-1-Auswaertssieg Kosice - Rotation gegen Sporar-Startelf moeglich, Weiss auf der Bank",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/match/2049218--celje-vs-s-bratislava/",
+          "https://footballwhispers.com/blog/celje-vs-slovan-bratislava-prediction-26-08-2026/",
+          "https://www.sportskeeda.com/football/celje-vs-slovan-bratislava-prediction-betting-tips-august-26th-2026",
+          "https://www.espn.com/soccer/match/_/gameId/401909195"
+        ]
+      },
+      "news": [
+        "Hinspiel-Aggregat: 1-1 in Bratislava. Slovan durch Cerepkai (15.), Celje durch Avdyli (41.) - beide getroffen im Hinspiel.",
+        "Celje hat Liga-Spiel vor dem Rueckspiel verschieben lassen um voll fokussiert anzutreten - selten in dieser Saison.",
+        "Celje mit nur 1 Niederlage in 9 Pflichtspielen dieser Saison - Momentum vor historischer Chance.",
+        "Slovan Bratislava unter Trainer Yaya Toure (Debut-Saison 2026/27) - Doppelpack Startsieg 2-1 in Kosice (Markovic, Ibrahim). Sporar als Volumen-9er in der Startelf, Weiss auf der Bank.",
+        "Quotenbild: Celje @ +135 (~2.35), Slovan @ +200 (~3.00), Draw @ +200 (~3.00).",
+        "CL-2:0-Insurance gilt (bet365-Aktionsregel Bundesliga + CL) - Sieg-Tipp bei 2-0-Fuehrung abgesichert."
+      ],
+      "tipps": [
+        {
+          "id": "cel-slo-1",
+          "kategorie": "value",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.5,
+          "faire_quote": 1.35,
+          "edge_prozent": 11,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Playoff-Rueckspiel-Typik + Hinspiel 1-1 (nur 2 Tore) + beide Trainer taktisch (Toure defensiv-diszipliniert im Debut) - Kandidat fuer 1-0/1-1/2-1. Reality-Check via Ueber/Unter-Bilanz (Unter 2.5 Goldgrube 73.1%), Unter 3.5 statistisch noch sicherer. Bei 1000 EUR Kasse Stufe 1: 2% = 20 EUR."
+        },
+        {
+          "id": "cel-slo-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.9,
+          "faire_quote": 1.7,
+          "edge_prozent": 11,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Hinspiel 1-1 = beide getroffen, Slovan mit Sporar als Volumen-9er, Celje offensiv-couragiert (8 von 9 Pflichtspielen unbesiegt inkl. Torgefahr). BTTS JA Goldgrube-Trend (58.3% Hit / +12.4% ROI). Bei 1000 EUR Kasse Stufe 1: 2% = 20 EUR."
+        },
+        {
+          "id": "cel-slo-3",
+          "kategorie": "wackel",
+          "markt": "NK Celje Sieg (90 Min)",
+          "quote": 2.35,
+          "faire_quote": 2.6,
+          "edge_prozent": -4,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Historische Motivation + Heimvorteil + Liga-Spiel verschoben (frisch), Slovan 3 Tage Recovery nach Liga. Wackel weil Klassiker der Klasse-Slovan-Diskussion mit neuem Trainer offen ist. Bei 1000 EUR Kasse Stufe 1 Wackel: 0.5% = 5 EUR."
+        },
+        {
+          "id": "cel-slo-4",
+          "kategorie": "risk",
+          "markt": "Slovan Bratislava Sieg (90 Min)",
+          "quote": 3.0,
+          "faire_quote": 3.2,
+          "edge_prozent": -6,
+          "empfohlener_einsatz_prozent": 0.25,
+          "einsatz_prozent_kasse": 0.25,
+          "einsatz_euro": 2.5,
+          "begruendung": "Auswaerts-Underdog fuer Moonshot-Kombis nutzbar - Toure-Debuet-Momentum + Sporar in Form. Reality-Check: Kombi-Baustein, kein Einzel-Kaufsignal. Bei 1000 EUR Kasse Stufe 1 Risiko: 0.25% = 2.50 EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit": null,
+        "endstand": "1:2 n.V.",
+        "quelle": "WebSearch-Aggregat 27.08.2026 (getfootballnewsfrance, sofascore, worldsoccertalk, flashscore-Snippets - direkte Fetch-Quellen durch Egress-Proxy blockiert)"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "cel-slo-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.5,
+          "kommentar": "Unter 3.5 (90 Min): Endstand 1:2 n.V. -> 90-Min-Stand hoechstens 1:1 (sonst keine Verlaengerung). Max 2 Tore in 90 Min = Unter 3.5 sicher."
+        },
+        {
+          "tipp_id": "cel-slo-2",
+          "status": "offen",
+          "gewinn_faktor": 0.0,
+          "kommentar": "BTTS: Endstand mit ET 1:2, aber Regel wertet nur 90 Min - 90-Min-Stand koennte 0:0 (BTTS NEIN) oder 1:1 (BTTS JA) sein. Watchdog 09:00 ergaenzt."
+        },
+        {
+          "tipp_id": "cel-slo-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Celje geht nicht in die Ligaphase - da Verlaengerung noetig war, war 90-Min-Stand ein Remis, 1X2-Markt Sieg-Tipp Celje verloren."
+        },
+        {
+          "tipp_id": "cel-slo-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "1X2 wertet nur 90 Min. Slovan-Sieg kam in der Verlaengerung, 90-Min-Stand war ein Remis - Sieg-Tipp Slovan (90 Min) verloren."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "1:2 n.V.",
+        "endstand_90min": null,
+        "tore": null,
+        "drehung": {
+          "war_drehung": null,
+          "details": "unklar (90-Min-Verlauf nicht sicher recherchiert)"
+        },
+        "markt_resultate": {
+          "btts": null,
+          "ueber_1_5": null,
+          "ueber_2_5": null,
+          "ueber_3_5": null,
+          "halbzeit_endstand": null,
+          "kein_team_zu_null": null
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Slovan Bratislava zog in die CL-Ligaphase ein - Sieg in der Verlaengerung. Fuer die Wettauswertung entscheidend: 1X2-Maerkte werten nur 90 Minuten (Regel bet365), damit sind Sieg-Tipps beider Seiten auf 90-Min-Ebene 'verloren' (Remis) oder Push. Volle Analyse konnte mangels Quellen nicht abgeschlossen werden - Watchdog 09:00 wird ergaenzen."
+        ],
+        "quelle_hinweis": "Slovan Bratislava gewinnt nach Verlaengerung 1:2 (agg 2:3) und zieht in die Ligaphase ein. Regulaerer 90-Minuten-Stand aus verfuegbaren Aggregator-Quellen nicht eindeutig - vermutlich Remis (sonst keine Verlaengerung). 1X2/DC-Maerkte werten laut CLAUDE.md nur die regulaeren 90 Minuten."
+      }
+    },
+    {
+      "id": "2026-08-26-lyo-fen",
+      "liga": "Champions League 2026/27 - Playoff Rueckspiel",
+      "heim": "Olympique Lyon",
+      "gast": "Fenerbahce",
+      "anstoss": "2026-08-26T21:00:00+02:00",
+      "stadion": "Parc Olympique Lyonnais, Lyon",
+      "saison_kontext": {
+        "parallel_heim": "Olympique Lyon Ligue 1 2026/27 - Auftakt am Wochenende gespielt, CL-Playoff exklusiv diese Woche (uefa.com)",
+        "parallel_gast": "Fenerbahce Sueper Lig 2026/27 - Auftakt-Verzoegerung wegen europaeischer Runden, CL-Playoff exklusiv (uefa.com)",
+        "saisonziel_heim": "Rueckkehr in die CL-Ligaphase nach mehrjaehriger Absenz - wichtig fuer Praemien und Prestige",
+        "saisonziel_gast": "Rueckkehr in die CL-Ligaphase, Kader hoch aufgestellt (Skriniar, Kante, Semedo, Greenwood, Asensio, Talisca) - Titel-Ambition national + Ligaphase-Praemien",
+        "motivations_asymmetrie": "Lyon leichter Favorit @ 2.00 dank Heim-Vorteil Parc OL + 1-1-Auswaertsremis aus Istanbul. Fenerbahce mit stark aufgestocktem Kader (Greenwood + Talisca ballert die CL-Quali durch mit 4 Toren) - kann Auswaerts-Wunder aber Talisca-Tor allein reicht nicht wenn Lyon 2 macht. Ausgeglichen mit leichter Lyon-Neigung.",
+        "recovery_heim": "Lyon 8 Tage seit Hinspiel + Ligue-1-Auftakt am Wochenende - Rotation moeglich aber Openda Startelf-gesetzt",
+        "recovery_gast": "Fenerbahce 8 Tage seit Hinspiel + Sueper-Lig-Beginn parallel - normale Belastung, Talisca laut Vorschau fit",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/video/highlights/02a8-216161421805-43e8554af1cf-1000--champions-league-play-off-first-leg-highlights-fenerbahc/",
+          "https://www.france24.com/en/sport/20260818-fenerbahce-fight-back-against-lyon-as-greenwood-scores-champions-league-equaliser",
+          "https://www.sportsmole.co.uk/football/lyon/champions-league/preview/lyon-vs-fenerbahce-prediction-team-news-lineups_603575.html",
+          "https://www.sofascore.com/news/fenerbahce-vs-lyon-ucl-playoff-preview-trends-and-odds"
+        ]
+      },
+      "news": [
+        "Hinspiel-Aggregat: 1-1 in Istanbul. Lois Openda 1. CL-Tor fuer Lyon, Mason Greenwood 2. Halbzeit Ausgleich.",
+        "Openda ist bei Lyon Leihe von Juventus (bestaetigt in data/kader_wechsel_2026.json) und Startelf-gesetzter zentraler 9er.",
+        "Fenerbahce mit Talisca als Top-Torschuetze in CL-Quali (4 von 6 CL-Toren), Skriniar/Ake als Innenverteidiger-Riegel.",
+        "Lyon-Aufstellung erwartet (Sports Mole): Greif; Maitland-Niles, Mata, Kluivert, Abner; Morton, Tolisso; Nuamah, Sulc, Fofana; Openda.",
+        "Fener-Aufstellung erwartet (Sports Mole): Ederson; Semedo, Skriniar, Ake, Brown; Kante, Guendouzi; Greenwood, Asensio, Akturkoglu; Talisca.",
+        "Quotenbild: Lyon @ +100 (~2.00), Fener @ +280 (~3.80), Draw @ +240 (~3.40).",
+        "CL-2:0-Insurance greift (bet365-Aktionsregel Bundesliga + CL) - Sieg-Tipp bei 2-0-Fuehrung abgesichert."
+      ],
+      "tipps": [
+        {
+          "id": "lyo-fen-1",
+          "kategorie": "wackel",
+          "markt": "Olympique Lyon Sieg (90 Min)",
+          "quote": 2.0,
+          "faire_quote": 2.15,
+          "edge_prozent": -3,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Lyon Heimvorteil + 1-1-Aggregat reicht schon knapper Sieg zur Ligaphase. CL-2:0-Insurance greift (bet365-Aktionsregel Bundesliga+CL) - sobald Lyon 2-0 fuehrt, Sieg-Tipp sicher. Wackel weil Fener-Kader stark aufgestockt (Skriniar-IV solide, Talisca Torgarant). Bei 1000 EUR Kasse Stufe 1 Wackel: 0.5% = 5 EUR."
+        },
+        {
+          "id": "lyo-fen-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.65,
+          "faire_quote": 1.5,
+          "edge_prozent": 9,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Hinspiel beide getroffen (Openda vs Greenwood), Fener muss offensiv agieren wenn Lyon 1-0 macht + Talisca als Vollstrecker + Lyon-Angriff mit Openda/Nuamah/Fofana explosiv. BTTS JA Goldgrube-Trend (58.3% / +12.4%). Bei 1000 EUR Kasse Stufe 1: 2% = 20 EUR."
+        },
+        {
+          "id": "lyo-fen-3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "faire_quote": 1.8,
+          "edge_prozent": 5,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Beide Kader offensiv-orientiert und Aggregat-Gleichstand zwingt zu Toren - Konstellation fuer 2-1/2-2/3-1. Wackel weil Playoff-Rueckspiele auch defensiv sein koennen mit Verlaengerungs-Optik. Bei 1000 EUR Kasse Stufe 1 Wackel: 0.5% = 5 EUR."
+        },
+        {
+          "id": "lyo-fen-4",
+          "kategorie": "wackel",
+          "markt": "Lois Openda Torschuetze jederzeit",
+          "quote": 3.0,
+          "faire_quote": 2.75,
+          "edge_prozent": 8,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Openda hat im Hinspiel getroffen (1. CL-Tor fuer Lyon) und ist Startelf-gesetzter Volumen-9er (Leihe von Juventus, bestaetigt in data/kader_wechsel_2026.json). HR24: Form-Edge + zentraler 9er = 2 von 3 Bedingungen. Skriniar+Ake als IV solide (kein Defense-Krisen-Bonus), deshalb Wackel statt Value. Bei 1000 EUR Kasse Stufe 1 Wackel: 0.5% = 5 EUR."
+        },
+        {
+          "id": "lyo-fen-5",
+          "kategorie": "risk",
+          "markt": "Fenerbahce Sieg (90 Min)",
+          "quote": 3.8,
+          "faire_quote": 3.6,
+          "edge_prozent": 5,
+          "empfohlener_einsatz_prozent": 0.25,
+          "einsatz_prozent_kasse": 0.25,
+          "einsatz_euro": 2.5,
+          "begruendung": "Auswaerts-Underdog nach 1-1-Hinspiel, Talisca Torgarant + Skriniar-IV. Nur fuer Moonshot-Kombi ins Auge. Reality-Check: kleine Basis Risiko-Kategorie, keine belastbare Aussage. Bei 1000 EUR Kasse Stufe 1 Risiko: 0.25% = 2.50 EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit": "0:2",
+        "endstand": "1:2",
+        "quelle": "WebSearch-Aggregat 27.08.2026 (getfootballnewsfrance, sofascore, worldsoccertalk, flashscore-Snippets - direkte Fetch-Quellen durch Egress-Proxy blockiert)"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "lyo-fen-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Lyon verliert 1:2. 2:0-Insurance greift nicht (Lyon fuehrte nie 2:0)."
+        },
+        {
+          "tipp_id": "lyo-fen-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.65,
+          "kommentar": "Beide trafen (Muriqi 24., Brown 28., Fofana 61.)."
+        },
+        {
+          "tipp_id": "lyo-fen-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.9,
+          "kommentar": "3 Tore total = Ueber 2.5."
+        },
+        {
+          "tipp_id": "lyo-fen-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Openda traf nicht regulaer (aberkanntes Tor). Fofana war Start-XI, kein Einwechslungs-Boost fuer Openda."
+        },
+        {
+          "tipp_id": "lyo-fen-5",
+          "status": "gewonnen",
+          "gewinn_faktor": 3.8,
+          "kommentar": "Fenerbahce gewinnt 2:1 auswaerts und zieht in die Ligaphase ein."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:2",
+        "endstand": "1:2",
+        "tore": [
+          {
+            "min": 24,
+            "team": "gast",
+            "spieler": "Vedat Muriqi",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 28,
+            "team": "gast",
+            "spieler": "Archie Brown",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": 61,
+            "team": "heim",
+            "spieler": "Malick Fofana",
+            "stand_danach": "1:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "keine Drehung"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Gast/Gast",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [],
+        "quelle_hinweis": "Openda und Einwechsel-Spieler Kail Boudache hatten Tore fuer Lyon, die aberkannt wurden (getfootballnewsfrance)."
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "et-01",
+      "spiel_id": "2026-08-26-aek-lev",
+      "spiel_label": "AEK Athens vs Levski Sofia",
+      "kategorie": "value",
+      "markt": "AEK Athens Sieg (90 Min)",
+      "quote": 1.44,
+      "faire_quote": 1.55,
+      "edge_prozent": 8,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "AEK klarer Favorit Heim OPAP + Jovic in Form + Levski dezimiert (5 Ausfaelle). CL-2:0-Insurance aktiv. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 1
+    },
+    {
+      "id": "et-02",
+      "spiel_id": "2026-08-26-aek-lev",
+      "spiel_label": "AEK Athens vs Levski Sofia",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.8,
+      "faire_quote": 1.65,
+      "edge_prozent": 9,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Goldgrube-Markt Unter 2.5 (73.1%/+22.4%). Levski 6 clean sheets + Hinspiel 0-0 = enger Deckel. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 2
+    },
+    {
+      "id": "et-03",
+      "spiel_id": "2026-08-26-cel-slo",
+      "spiel_label": "NK Celje vs Slovan Bratislava",
+      "kategorie": "value",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.5,
+      "faire_quote": 1.35,
+      "edge_prozent": 11,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Playoff-Rueckspiel-Typik + Hinspiel 1-1 + beide Trainer taktisch. Kandidat fuer 1-0/1-1/2-1. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 3
+    },
+    {
+      "id": "et-04",
+      "spiel_id": "2026-08-26-cel-slo",
+      "spiel_label": "NK Celje vs Slovan Bratislava",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.9,
+      "faire_quote": 1.7,
+      "edge_prozent": 11,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Hinspiel 1-1 = beide getroffen, Sporar Volumen-9er, Celje 8 von 9 unbesiegt. BTTS JA Goldgrube-Trend. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 4
+    },
+    {
+      "id": "et-05",
+      "spiel_id": "2026-08-26-vik-din",
+      "spiel_label": "Viking FK vs Dinamo Zagreb",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.6,
+      "faire_quote": 1.45,
+      "edge_prozent": 10,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Hinspiel 2-2, beide Teams gezwungen zu spielen. Christiansen/Tripic + Beljo/Lisica alle im Aufwind. BTTS JA Goldgrube-Trend. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 5
+    },
+    {
+      "id": "et-06",
+      "spiel_id": "2026-08-26-lyo-fen",
+      "spiel_label": "Olympique Lyon vs Fenerbahce",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.65,
+      "faire_quote": 1.5,
+      "edge_prozent": 9,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Hinspiel beide getroffen (Openda/Greenwood), Talisca Torgarant, Openda Volumen-9er. BTTS JA Goldgrube-Trend. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 6
+    },
+    {
+      "id": "et-07",
+      "spiel_id": "2026-08-26-lyo-fen",
+      "spiel_label": "Olympique Lyon vs Fenerbahce",
+      "kategorie": "wackel",
+      "markt": "Lois Openda Torschuetze jederzeit",
+      "quote": 3.0,
+      "faire_quote": 2.75,
+      "edge_prozent": 8,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung": "Openda Hinspiel-Torschuetze, Startelf-gesetzter 9er (Kader-Wechsel-Datei bestaetigt). Bei 1000 EUR Kasse Wackel: 0.5% = 5 EUR.",
+      "rang": 7
+    },
+    {
+      "id": "et-08",
+      "spiel_id": "2026-08-26-aek-lev",
+      "spiel_label": "AEK Athens vs Levski Sofia",
+      "kategorie": "wackel",
+      "markt": "Luka Jovic Torschuetze jederzeit",
+      "quote": 2.1,
+      "faire_quote": 1.95,
+      "edge_prozent": 8,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung": "Jovic Liga-Doppelpack + Latte im Hinspiel, zentraler 9er AEK - HR24 mit Form+Position. Bei 1000 EUR Kasse Wackel: 0.5% = 5 EUR.",
+      "rang": 8
+    },
+    {
+      "id": "et-09",
+      "spiel_id": "2026-08-26-vik-din",
+      "spiel_label": "Viking FK vs Dinamo Zagreb",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.65,
+      "faire_quote": 1.55,
+      "edge_prozent": 6,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung": "Hinspiel 4 Tore total, beide offensiv, Aggregat-Gleichstand zwingt. Konstellation fuer 2-1/2-2/3-2. Bei 1000 EUR Kasse Wackel: 0.5% = 5 EUR.",
+      "rang": 9
+    },
+    {
+      "id": "et-10",
+      "spiel_id": "2026-08-26-lyo-fen",
+      "spiel_label": "Olympique Lyon vs Fenerbahce",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.9,
+      "faire_quote": 1.8,
+      "edge_prozent": 5,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung": "Beide Kader offensiv + Aggregat-Zwang. Konstellation 2-1/2-2/3-1. Bei 1000 EUR Kasse Wackel: 0.5% = 5 EUR.",
+      "rang": 10
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "kategorie": "safe",
+      "name": "Safe-CL-Playoff-Deckel",
+      "beine": [
+        {
+          "spiel_id": "2026-08-26-aek-lev",
+          "spiel_label": "AEK Athens vs Levski Sofia",
+          "markt": "AEK Athens Sieg (90 Min)",
+          "quote": 1.44,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-08-26-vik-din",
+          "spiel_label": "Viking FK vs Dinamo Zagreb",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.5,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-08-26-cel-slo",
+          "spiel_label": "NK Celje vs Slovan Bratislava",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.5,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 3.24,
+      "rechnung": "1.44 x 1.50 x 1.50 = 3.24",
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "moeglicher_gewinn_euro": 64.8,
+      "begruendung": "AEK-Sieg als CL-Klassen-Favorit (Insurance!) plus zwei Playoff-Deckel-Tipps (Rueckspiele haben statistisch weniger Tore). Alle drei Spiele je 1 Bein, Layer-3 sauber. Layer-2: nur AEK-Levski Sieg-Outcome vergeben. Bei 1000 EUR Kasse: 2% = 20 EUR."
+    },
+    {
+      "id": "kombi-balance",
+      "kategorie": "balance",
+      "name": "Balance-BTTS-Torfluss",
+      "beine": [
+        {
+          "spiel_id": "2026-08-26-aek-lev",
+          "spiel_label": "AEK Athens vs Levski Sofia",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.0,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-08-26-cel-slo",
+          "spiel_label": "NK Celje vs Slovan Bratislava",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.9,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-08-26-lyo-fen",
+          "spiel_label": "Olympique Lyon vs Fenerbahce",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.65,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 6.27,
+      "rechnung": "2.00 x 1.90 x 1.65 = 6.27",
+      "empfohlener_einsatz_prozent": 0.8,
+      "einsatz_prozent_kasse": 0.8,
+      "einsatz_euro": 8,
+      "moeglicher_gewinn_euro": 50.16,
+      "begruendung": "Drei-Beine-Kombi ohne Sieg-Outcome: AEK-Levski Ueber 2.5 (Aggressiv-Interpretation gegen den Deckel im Hinspiel) plus BTTS JA in Celje-Slovan und Lyon-Fener. Grundlogik: Aggregat-Gleichstand zwingt beide Seiten zu spielen. Layer-2 sauber (kein Sieg-Outcome). Layer-3 sauber (3 verschiedene Spiele). Bei 1000 EUR Kasse Kombi Balance: 0.8% = 8 EUR."
+    },
+    {
+      "id": "kombi-risk",
+      "kategorie": "risk",
+      "name": "Risiko-Doppel-Coinflip-Sieg",
+      "beine": [
+        {
+          "spiel_id": "2026-08-26-lyo-fen",
+          "spiel_label": "Olympique Lyon vs Fenerbahce",
+          "markt": "Olympique Lyon Sieg (90 Min)",
+          "quote": 2.0,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-08-26-vik-din",
+          "spiel_label": "Viking FK vs Dinamo Zagreb",
+          "markt": "Viking FK Sieg (90 Min)",
+          "quote": 2.3,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-08-26-lyo-fen",
+          "spiel_label": "Olympique Lyon vs Fenerbahce",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 3.2,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-08-26-cel-slo",
+          "spiel_label": "NK Celje vs Slovan Bratislava",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.9,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 27.97,
+      "rechnung": "2.00 x 2.30 x 3.20 x 1.90 = 27.97",
+      "empfohlener_einsatz_prozent": 0.25,
+      "einsatz_prozent_kasse": 0.25,
+      "einsatz_euro": 2.5,
+      "moeglicher_gewinn_euro": 69.93,
+      "begruendung": "Zwei Heim-Coinflip-Sieger (Lyon + Viking) plus Ueber 3.5 Lyon-Fener (offensivstes Match) plus BTTS Celje-Slovan. CL-2:0-Insurance stuetzt beide Sieg-Beine. Layer-2: Lyon-Fener + Viking-Dinamo Sieg-Outcomes hier vergeben (nicht doppelt in anderen Kombis). Layer-3 weich: Lyon-Fener 2x im Risiko aber Markt-entkoppelt (Sieg + Ueber 3.5). Bei 1000 EUR Kasse Kombi Risiko: 0.25% = 2.50 EUR."
+    },
+    {
+      "id": "kombi-moonshot",
+      "kategorie": "moonshot",
+      "name": "Moonshot-CL-Playoff-Lotterie",
+      "beine": [
+        {
+          "spiel_id": "2026-08-26-cel-slo",
+          "spiel_label": "NK Celje vs Slovan Bratislava",
+          "markt": "Slovan Bratislava Sieg (90 Min)",
+          "quote": 3.0,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-08-26-vik-din",
+          "spiel_label": "Viking FK vs Dinamo Zagreb",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 3.0,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-08-26-aek-lev",
+          "spiel_label": "AEK Athens vs Levski Sofia",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 3.5,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-08-26-lyo-fen",
+          "spiel_label": "Olympique Lyon vs Fenerbahce",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 3.2,
+          "kategorie": "risk"
+        }
+      ],
+      "gesamtquote": 100.8,
+      "rechnung": "3.00 x 3.00 x 3.50 x 3.20 = 100.80",
+      "empfohlener_einsatz_prozent": 0.1,
+      "einsatz_prozent_kasse": 0.1,
+      "einsatz_euro": 1,
+      "moeglicher_gewinn_euro": 100.8,
+      "begruendung": "Lotterie-Kombi: Slovan als Auswaerts-Underdog (Toure-Debut-Momentum) plus 3x Ueber 3.5 in Playoff-Rueckspielen (statistisch selten, aber alle 4 Aggregat-Gleichstand zwingt zu Toren wenn Deckel platzt). Nur Spass-Einsatz. Layer-2: nur Celje-Slovan Sieg-Outcome (Slovan) vergeben. Layer-3: je 1 Bein pro Spiel. Bei 1000 EUR Kasse Kombi Moonshot: 0.1% = 1 EUR."
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "hartregel": "Kader- und Trainer-Frische",
+      "anwendung": "kader_wechsel_2026.json gegen jeden getippten Spieler gecheckt: Openda (Lyon Leihe von Juventus) bestaetigt. Talisca (Fener) nur in news[] erwaehnt, kein Torschuetzen-Tipp gesetzt weil Squad-Quelle nur Preview-Text (Sofascore/SportsMole) - konsistent mit HR-Vorsicht."
+    },
+    {
+      "hartregel": "Markt-Goldgruben aktiv suchen",
+      "anwendung": "Unter 2.5 Tore (73.1%/+22.4%) als AEK-Levski Value. Unter 3.5 Tore als Celje-Slovan/Viking-Dinamo Value. BTTS JA (58.3%/+12.4%) in allen 4 Spielen (Aggregat-Gleichstand-Logik)."
+    },
+    {
+      "hartregel": "Layer-2 hart (max 1 Sieg-Outcome pro Spiel ueber alle Kombis)",
+      "anwendung": "AEK-Levski Sieg-Outcome nur in Safe (Sieg AEK). Lyon-Fener nur in Risiko (Sieg Lyon). Viking-Dinamo nur in Risiko (Sieg Viking). Celje-Slovan nur in Moonshot (Slovan Sieg). Alle 4 Spiele je genau 1 Sieg-Outcome ueber alle Kombis, keine Ueberlappung."
+    },
+    {
+      "hartregel": "HR24 Form-Edge fuer Torschuetzen",
+      "anwendung": "Jovic (AEK) mit Liga-Doppelpack + Latte im Hinspiel = Form + Position bestaetigt, aber Levski 6 clean sheets = keine Defense-Krise -> Wackel statt Value. Openda (Lyon) mit Hinspiel-Tor + zentraler 9er = Form + Position bestaetigt, aber Skriniar/Ake solide -> Wackel statt Value."
+    },
+    {
+      "hartregel": "2:0-Insurance-Bewusstsein",
+      "anwendung": "Alle 4 Sieg-Tipps sind CL-Rueckspiele - 2:0-Insurance greift bei bet365. Explizit in Begruendungen erwaehnt (Sieg AEK, Sieg Lyon, Sieg Viking, Slovan Sieg)."
+    },
+    {
+      "hartregel": "Reality-Check via statistik.json",
+      "anwendung": "Sieg-Markt insgesamt 49.6%/-1.1% -> nur bei klarem Favoritenpreis (AEK @ 1.44). BTTS JA / Ueber-Unter aktiv gesucht. Risiko-Kategorie sehr kleine Basis (n=3) - kein Bilanz-Argument, nur Kombi-Baustein."
+    }
+  ],
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-08-26T13:35:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "namens_dopplung",
+        "spiel_id": "2026-08-26-lyo-fen",
+        "details": "Fener-Aufstellungs-Vorschau nennt 'Brown' als Linksverteidiger. Das ist Archie Brown (Fener LV, kam 2024 von Gent), NICHT Nathaniel Brown (der laut kader_wechsel_2026.json Sommer 2026 von Frankfurt zu Bayern gewechselt ist). Kein Torschuetzen- oder Positions-Tipp auf 'Brown' gesetzt - daher kein Impact auf Tipps, nur Klarstellung im Report."
+      },
+      {
+        "art": "kader_quellen_lage",
+        "spiel_id": "2026-08-26-lyo-fen",
+        "details": "Fener-Kader (Talisca, Kante, Asensio, Semedo, Skriniar, Ederson) laut SportsMole+Sofascore-Preview - keine Verband-URL (kicker.de/transfermarkt) als Zweit-Quelle. Torschuetzen-Tipp auf Talisca bewusst weggelassen (obwohl 4 CL-Quali-Tore). Openda-Torschuetze-Tipp bleibt weil doppelt bestaetigt (kader_wechsel_2026.json + Vorschau)."
+      },
+      {
+        "art": "coinflip_hinweis",
+        "spiel_id": "2026-08-26-vik-din",
+        "details": "Viking-Dinamo Coinflip @ 2.30/2.70 mit Wackel-Sieg-Tipps beider Seiten (Viking WACKEL, Dinamo RISIKO). Kein SAFE gesetzt konsistent mit motivations_asymmetrie 'typisches Wackel-Match'."
+      }
+    ],
+    "layer_2_check": {
+      "status": "OK",
+      "sieg_outcomes_verteilung": {
+        "2026-08-26-aek-lev": "safe (AEK Sieg)",
+        "2026-08-26-vik-din": "risk (Viking Sieg)",
+        "2026-08-26-cel-slo": "moonshot (Slovan Sieg)",
+        "2026-08-26-lyo-fen": "risk (Lyon Sieg)"
+      },
+      "keine_doppel_sieg_outcomes": true
+    },
+    "layer_3_check": {
+      "status": "OK",
+      "hinweis": "safe/balance/moonshot: je 1 Bein pro Spiel innerhalb Kombi. risk: Lyon-Fener 2x (Sieg + Ueber 3.5) - Layer-3 weich verletzt aber Markt-entkoppelt, akzeptabel."
+    },
+    "quellen_pflicht_check": {
+      "status": "OK",
+      "hinweis": "Alle 4 Spiele haben uefa.com in saison_kontext.quellen[] als Verband-URL - Pflicht erfuellt."
+    },
+    "kader_frische_check": {
+      "status": "OK",
+      "geprueft": [
+        "Luka Jovic (AEK) - Preview-Aufstellung Sofascore",
+        "Lois Openda (Lyon) - kader_wechsel_2026.json + SportsMole-Vorschau",
+        "Talisca (Fener) - Preview aber kein Tipp gesetzt (zweite Quelle fehlt)"
+      ],
+      "keine_halluzinationen": true
+    },
+    "selbstwiderspruchs_scan": {
+      "status": "OK",
+      "hinweis": "Keine kategorien_saison_kontext-Widersprueche gefunden. Coinflip-Spiele haben keine SAFE-Tipps. Wackel-Rated wo motivations_asymmetrie 'Wackel'/'Coinflip' sagt."
+    },
+    "quoten_plausibilitaet": {
+      "status": "OK",
+      "hinweis": "Alle bet365-Quoten aus Aggregator-Konvertierung (US-Odds → Dezimal) 1:1 uebernommen. Abweichung <5% erwartet. Empfehlung: bei bet365 live pruefen."
+    },
+    "emergency_recovery": {
+      "aktiv": true,
+      "grund": "Recherche-File data/recherche/2026-08-26.json fehlt - Fallback via WebSearch/WebFetch durchgefuehrt (uefa.com, Sofascore, SportsMole, Yahoo Sports).",
+      "empfehlung": "Recherche-Cloud-Routine sollte Mi 09:00 Slot pruefen - kein Fixture-Feed am 25.08 abgeholt oder Datei verloren."
+    },
+    "lessons_generiert": []
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "id": "et-01",
+      "spiel_id": "2026-08-26-aek-lev",
+      "spiel_label": "AEK Athens vs Levski Sofia",
+      "kategorie": "value",
+      "markt": "AEK Athens Sieg (90 Min)",
+      "quote": 1.44,
+      "faire_quote": 1.55,
+      "edge_prozent": 8,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "AEK klarer Favorit Heim OPAP + Jovic in Form + Levski dezimiert (5 Ausfaelle). CL-2:0-Insurance aktiv. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 1,
+      "status": "gewonnen"
+    },
+    {
+      "id": "et-02",
+      "spiel_id": "2026-08-26-aek-lev",
+      "spiel_label": "AEK Athens vs Levski Sofia",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.8,
+      "faire_quote": 1.65,
+      "edge_prozent": 9,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Goldgrube-Markt Unter 2.5 (73.1%/+22.4%). Levski 6 clean sheets + Hinspiel 0-0 = enger Deckel. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 2,
+      "status": "verloren"
+    },
+    {
+      "id": "et-03",
+      "spiel_id": "2026-08-26-cel-slo",
+      "spiel_label": "NK Celje vs Slovan Bratislava",
+      "kategorie": "value",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.5,
+      "faire_quote": 1.35,
+      "edge_prozent": 11,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Playoff-Rueckspiel-Typik + Hinspiel 1-1 + beide Trainer taktisch. Kandidat fuer 1-0/1-1/2-1. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 3,
+      "status": "gewonnen"
+    },
+    {
+      "id": "et-04",
+      "spiel_id": "2026-08-26-cel-slo",
+      "spiel_label": "NK Celje vs Slovan Bratislava",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.9,
+      "faire_quote": 1.7,
+      "edge_prozent": 11,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Hinspiel 1-1 = beide getroffen, Sporar Volumen-9er, Celje 8 von 9 unbesiegt. BTTS JA Goldgrube-Trend. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 4,
+      "status": "offen"
+    },
+    {
+      "id": "et-05",
+      "spiel_id": "2026-08-26-vik-din",
+      "spiel_label": "Viking FK vs Dinamo Zagreb",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.6,
+      "faire_quote": 1.45,
+      "edge_prozent": 10,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Hinspiel 2-2, beide Teams gezwungen zu spielen. Christiansen/Tripic + Beljo/Lisica alle im Aufwind. BTTS JA Goldgrube-Trend. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 5,
+      "status": "gewonnen"
+    },
+    {
+      "id": "et-06",
+      "spiel_id": "2026-08-26-lyo-fen",
+      "spiel_label": "Olympique Lyon vs Fenerbahce",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.65,
+      "faire_quote": 1.5,
+      "edge_prozent": 9,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Hinspiel beide getroffen (Openda/Greenwood), Talisca Torgarant, Openda Volumen-9er. BTTS JA Goldgrube-Trend. Bei 1000 EUR Kasse: 2% = 20 EUR.",
+      "rang": 6,
+      "status": "gewonnen"
+    },
+    {
+      "id": "et-07",
+      "spiel_id": "2026-08-26-lyo-fen",
+      "spiel_label": "Olympique Lyon vs Fenerbahce",
+      "kategorie": "wackel",
+      "markt": "Lois Openda Torschuetze jederzeit",
+      "quote": 3.0,
+      "faire_quote": 2.75,
+      "edge_prozent": 8,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung": "Openda Hinspiel-Torschuetze, Startelf-gesetzter 9er (Kader-Wechsel-Datei bestaetigt). Bei 1000 EUR Kasse Wackel: 0.5% = 5 EUR.",
+      "rang": 7,
+      "status": "verloren"
+    },
+    {
+      "id": "et-08",
+      "spiel_id": "2026-08-26-aek-lev",
+      "spiel_label": "AEK Athens vs Levski Sofia",
+      "kategorie": "wackel",
+      "markt": "Luka Jovic Torschuetze jederzeit",
+      "quote": 2.1,
+      "faire_quote": 1.95,
+      "edge_prozent": 8,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung": "Jovic Liga-Doppelpack + Latte im Hinspiel, zentraler 9er AEK - HR24 mit Form+Position. Bei 1000 EUR Kasse Wackel: 0.5% = 5 EUR.",
+      "rang": 8,
+      "status": "gewonnen"
+    },
+    {
+      "id": "et-09",
+      "spiel_id": "2026-08-26-vik-din",
+      "spiel_label": "Viking FK vs Dinamo Zagreb",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.65,
+      "faire_quote": 1.55,
+      "edge_prozent": 6,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung": "Hinspiel 4 Tore total, beide offensiv, Aggregat-Gleichstand zwingt. Konstellation fuer 2-1/2-2/3-2. Bei 1000 EUR Kasse Wackel: 0.5% = 5 EUR.",
+      "rang": 9,
+      "status": "gewonnen"
+    },
+    {
+      "id": "et-10",
+      "spiel_id": "2026-08-26-lyo-fen",
+      "spiel_label": "Olympique Lyon vs Fenerbahce",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.9,
+      "faire_quote": 1.8,
+      "edge_prozent": 5,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung": "Beide Kader offensiv + Aggregat-Zwang. Konstellation 2-1/2-2/3-1. Bei 1000 EUR Kasse Wackel: 0.5% = 5 EUR.",
+      "rang": 10,
+      "status": "gewonnen"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe",
+      "status": "verloren",
+      "gesamtquote": 3.24,
+      "gewinn_faktor": 0.0,
+      "bein_status": [
+        "gewonnen",
+        "verloren",
+        "gewonnen"
+      ]
+    },
+    {
+      "kombi_id": "kombi-balance",
+      "status": "offen",
+      "gesamtquote": 6.27,
+      "gewinn_faktor": 0.0,
+      "bein_status": [
+        "gewonnen",
+        "offen",
+        "gewonnen"
+      ]
+    },
+    {
+      "kombi_id": "kombi-risk",
+      "status": "verloren",
+      "gesamtquote": 27.97,
+      "gewinn_faktor": 0.0,
+      "bein_status": [
+        "verloren",
+        "gewonnen",
+        "verloren",
+        "offen"
+      ]
+    },
+    {
+      "kombi_id": "kombi-moonshot",
+      "status": "verloren",
+      "gesamtquote": 100.8,
+      "gewinn_faktor": 0.0,
+      "bein_status": [
+        "verloren",
+        "gewonnen",
+        "gewonnen",
+        "verloren"
+      ]
+    }
+  ],
+  "ausgewertet_am": "2026-08-27T07:00:00+00:00"
+}
