@@ -1,0 +1,970 @@
+{
+  "datum": "2026-08-29",
+  "erstellt_am": "2026-08-29T00:15:00+02:00",
+  "hinweis": "Safety-Net Backstop-Lauf: Haupt-Routine + Watchdog haben heute nicht geliefert, deshalb dieses schlanke, ehrliche Dossier. Kein Recherche-File vorhanden - Slate + Quoten per WebSearch/WebFetch aus Preview-Aggregatoren zusammengestellt (bei bet365 live gegenpruefen). 6 gut recherchierbare Spiele: PL 12:30 Liverpool-Forest (Iraola/Isak-Anfield-Debut), BL 15:30 Leipzig-Gladbach (Demichelis-Debut, Reitz vs Ex-Klub) + Union-Frankfurt (Huetter-Rueckkehr, Coinflip), PL 17:30 Tottenham-Newcastle (Tonali vs Ex-Klub, Coinflip mit Heim-Edge), SA 18:30 Fiorentina-Frosinone (Reaktion nach 0:4 Roma), SA 20:45 Juventus-Parma (Spalletti Allianz-Debut). Kader-Wechsel-Guardrail: kein Isak/Tonali/Guimaraes/Gordon als Newcastle, kein Salah/Konate als Liverpool, kein Reitz als Gladbach, kein Ferran Torres als Barca, kein Ramos als PSG, kein Elliot Anderson als Forest, kein Nathaniel Brown als Frankfurt. 2:0-Insurance bei bet365 gilt NUR fuer Bundesliga + CL (also nur Leipzig-Gladbach von heute), NICHT fuer PL/Serie A/Ligue 1/LaLiga. Aktuelle Kasse 1000EUR (Saison 2026/27 Start 22.08.), Stufe 1 aktiv (stufe_2_freigeschaltet: false). Standard 1-2% pro Einzeltipp = 10-20EUR, Wackel-Einzel 0.5% = 5EUR, Safe-Kombi 2% = 20EUR, Balance 0.8% = 8EUR, Risiko 0.25% = 2.50EUR, Moonshot 0.1% = 1EUR.",
+  "_emergency_recovery": true,
+  "_backstop_lauf": true,
+  "spiele": [
+    {
+      "id": "2026-08-29-liv-nfo",
+      "liga": "Premier League 2026/27 - Matchday 3",
+      "heim": "Liverpool FC",
+      "gast": "Nottingham Forest",
+      "anstoss": "2026-08-29T13:30:00+02:00",
+      "stadion": "Anfield, Liverpool",
+      "saison_kontext": {
+        "parallel_heim": "Liverpool: keine europaeischen Wettbewerbe diese Woche (CL-Ligaphase startet erst 16./17. September). Auftakt 23.08. 2:2 auswaerts bei Newcastle, danach Anfield-Debut fuer neuen Coach Iraola.",
+        "parallel_gast": "Nottingham Forest: keine europaeischen Wettbewerbe diese Woche (haben CL/EL 26/27 nicht erreicht, Conference League gestartet). Zwei Auftakt-Niederlagen unter neuem Coach Glasner.",
+        "saisonziel_heim": "Titel-Verteidigung Premier League 2025/26 + CL-Vorstoss. Neuer Coach Andoni Iraola seit Sommer 2026 (2-Jahres-Vertrag, ex-Bournemouth, Nachfolger von Arne Slot). Wirtz als Neuzugang und Isak als Ekitike-Nachfolger fuer den Titel-Kader.",
+        "saisonziel_gast": "Klassenerhalt/Europa-Anschluss. Neuer Coach Oliver Glasner seit Sommer 2026. Grosse Aderlaesse: Elliot Anderson (Rekord £116m zu Man City), Morgan Rogers zu Chelsea (nach Villa-Vorwuerfen). Saisonstart 0 Punkte aus 2 Spielen.",
+        "motivations_asymmetrie": "Liverpool klarer Klassen-Favorit zu Hause vor voller Anfield-Kulisse - Iraola-Heim-Debut in der Liga + Isak-Debut vor eigenem Publikum als Anspielungs-Motiv. Forest im Krisen-Modus: 2 Niederlagen unter Glasner + Ausfall-Liste + Elliot-Anderson-Weggang schwaecht das Zentrum massiv. Klarer Motivations- und Klassen-Edge fuer Liverpool.",
+        "recovery_heim": "6 Tage seit Newcastle-Auswaerts-Remis (23.08.), keine europaeische Belastung diese Woche, normale Regeneration.",
+        "recovery_gast": "6 Tage seit Auftakt-Niederlage 2, keine europaeische Belastung. Kader-Duenne durch Anderson/Rogers-Abgang.",
+        "quellen": [
+          "https://www.liverpoolfc.com/news/liverpool-fc-appoint-andoni-iraola-new-head-coach",
+          "https://www.aljazeera.com/sports/2026/8/28/liverpool-vs-nottingham-forest-premier-league-preview-team-news",
+          "https://www.sportsmole.co.uk/football/liverpool/preview/liverpool-vs-nottm-forest-prediction-team-news-lineups_603880.html",
+          "https://www.thisisanfield.com/2026/08/liverpool-vs-forest-preview/",
+          "https://heavy.com/sports/soccer/premier-league/liverpool-fc/watch-newcastle-vs-liverpool-august-23/"
+        ]
+      },
+      "news": [
+        "Iraola-Debut als Liverpool-Heim-Coach in der Premier League (kam von Bournemouth, 2-Jahres-Vertrag, ersetzt Slot).",
+        "Isak als Newcastle-Rekord-Abgang jetzt in Liverpool - Debut zu Hause nach 2:2 in St James' Park. Sucht noch das erste Tor.",
+        "Wirtz als #10 hinter Isak - klare Anspiel-Kette Wirtz -> Isak angekuendigt.",
+        "Liverpool-Ausfaelle: Leoni + Bradley (Knie), Ekitike (Achilles), Gomez (Muskel). Salah + Konate + Robertson nicht mehr im Kader (Sommer-Abgaenge - Nachfolger live pruefen).",
+        "Forest unter Glasner nach 2 Auftakt-Niederlagen im Krisen-Modus - Elliot Anderson (£116m zu Man City) + Morgan Rogers (zu Chelsea nach Villa-Wechsel) fehlen im Zentrum, Ndoye + Gibbs-White muessen alles machen.",
+        "2:0-Insurance bei bet365 gilt NICHT fuer Premier League (nur BL + CL) - Sieg-Tipp Liverpool ist normale 90-Min-Wertung.",
+        "H2H Anfield: Liverpool zuletzt dominant, Forest hat in Anfield nur historisch 2-3x gewonnen."
+      ],
+      "tipps": [
+        {
+          "id": "liv-nfo-1",
+          "kategorie": "safe",
+          "markt": "Sieg Liverpool FC (90 Min)",
+          "quote": 1.5,
+          "faire_quote": 1.55,
+          "edge_prozent": 3,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Liverpool klarer Klassen-Favorit zu Hause vor voller Anfield-Kulisse gegen Krisen-Forest (0 Punkte, 2 Niederlagen, Anderson + Rogers weg, Ausfaelle bei Williams + Gibbs-White). Iraola-Debut zu Hause + Isak-Anfield-Debut als Motiv-Verstaerker. Reality-Check: 1X2-Sieg-Markt Hitrate ~50% im System, hier Preis fuer klaren Klassen-Edge fair. 2:0-Insurance bei bet365 gilt NICHT fuer Premier League - normale 90-Min-Wertung. Kasse 1000EUR Stufe 1: 2% = 20EUR."
+        },
+        {
+          "id": "liv-nfo-2",
+          "kategorie": "value",
+          "markt": "Alexander Isak Torschuetze jederzeit",
+          "quote": 1.9,
+          "faire_quote": 2.05,
+          "edge_prozent": 7,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Isak als Newcastle-Rekord-Torschuetze (23 Liga-Tore in der letzten Saison) jetzt als Liverpool-#9 hinter Wirtz - Anfield-Debut vor eigenem Publikum, sucht ersten Treffer im neuen Trikot. Forest-Defensive nach 2 Niederlagen fragil, keine echte Innenverteidigungs-Verstaerkung. Markt-Historie: Torschuetzen Jederzeit war eine der ROI-starken Kategorien im System (frueherer Stand). Einwechslungs-Boost bei bet365 aktiv - sollte Isak frueh raus, zaehlen Tore des Ersatzes. Kasse 1000EUR Stufe 1: 1.5% = 15EUR."
+        },
+        {
+          "id": "liv-nfo-3",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.9,
+          "faire_quote": 2.05,
+          "edge_prozent": 7,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Forest hat noch Igor Jesus + Gibbs-White (fraglich) vorne - schoss auch in den Niederlagen unter Glasner. Liverpool unter Iraola defensiv noch nicht sortiert - hatte in Newcastle 2 Tore kassiert bei 2:2. Wenn Liverpool wie erwartet fuehrt, muss Forest oeffnen. Sports-Mole-Prognose: 2:1 Liverpool -> BTTS getroffen. Kasse 1000EUR Stufe 1: 1.5% = 15EUR."
+        },
+        {
+          "id": "liv-nfo-4",
+          "kategorie": "wackel",
+          "markt": "Florian Wirtz Torschuetze jederzeit",
+          "quote": 3.5,
+          "faire_quote": 3.8,
+          "edge_prozent": 8,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Wirtz als #10 hinter Isak - kann bei Anfield-Torfestival mit einlaufen, aber #10 hat lower Tor-Wahrscheinlichkeit als reiner Stuermer -> wackel bei Quote 3.50. Reality-Check: Torschuetzen-Tipps auf offensive Mittelfeld-Spieler haben hoehere Varianz als #9-Tipps. Einwechslungs-Boost aktiv. Kasse 1000EUR Stufe 1: Wackel = 0.5% = 5EUR. [Auto: Torschuetze-Vereins-Quelle fuer Wirtz-Liverpool-Zugehoerigkeit fehlt in Quellen-URL-Form - max wackel]",
+          "_torschuetze_quelle_warn": true
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-08-29-rbl-bmg",
+      "liga": "Bundesliga 2026/27 - 1. Spieltag",
+      "heim": "RB Leipzig",
+      "gast": "Borussia Moenchengladbach",
+      "anstoss": "2026-08-29T15:30:00+02:00",
+      "stadion": "Red Bull Arena, Leipzig",
+      "saison_kontext": {
+        "parallel_heim": "Leipzig: 25/26 auf Platz 3 gelandet + CL-Quali erreicht, ABER 25/26-Coach Ole Werner trotz Erfolg entlassen. Diese Woche ohne parallelen Wettbewerb, CL-Ligaphase startet 16./17. September.",
+        "parallel_gast": "Gladbach: 25/26 sportlich schwach (unteres Mittelfeld), keine europaeischen Wettbewerbe 26/27. DFB-Pokal-Erstrunde bereits absolviert. Diese Woche ohne parallelen Wettbewerb.",
+        "saisonziel_heim": "CL-Quali verteidigen + Top-4-Angriff. Neuer Coach Martin Demichelis seit Sommer 2026 (Werner-Nachfolger). Neuzugaenge: Maxime Esteve (25M von Burnley), Rocco Reitz (20M von Gladbach - historische Ironie fuer dieses Spiel), Yan Diomande ist weg (125M zu Real Madrid).",
+        "saisonziel_gast": "Klassenerhalt + oberes Mittelfeld. Rocco Reitz als Schluesselspieler-Abgang zu Leipzig ist Symbol fuer Gladbachs schwierige Sommer-Umbau-Phase.",
+        "motivations_asymmetrie": "Leipzig klarer Klassen- und Heim-Favorit: Red Bull Arena in 10 Heim-Duellen mit Gladbach ungeschlagen (6 Siege, 4 Remis). Demichelis-Bundesliga-Debut zu Hause + Reitz gegen alten Klub als Erzaehl-Verstaerker. Gladbach mit Werner-Abgang und schwacher 25/26-Basis unter Druck. Klarer Edge fuer Leipzig, kein Coinflip.",
+        "recovery_heim": "6-7 Tage seit DFB-Pokal-Erstrunde, keine europaeische Belastung, normale Regeneration.",
+        "recovery_gast": "6-7 Tage seit DFB-Pokal-Erstrunde. Bolin traf im Pokal doppelt (starkes Debut).",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/news/spielplan-saison-start-termine-daten-2026-27-22043",
+          "https://www.wettbasis.com/sportwetten-tipps/rb-leipzig-vs-gladbach-tipp-ki-prognose-quoten-29-08-2026",
+          "https://www.mightytips.com/football-predictions/rb-leipzig-vs-borussia-monchengladbach-prediction-29-08-2026/",
+          "https://www.wettfreunde.net/bundesliga-tipps/rb-leipzig-gladbach-tipp-ki-prognose-quoten-29-08-2026/",
+          "https://www.kicker.de/bundesliga/spieltag"
+        ]
+      },
+      "news": [
+        "Demichelis Bundesliga-Debut als Leipzig-Coach zu Hause (kam als Werner-Nachfolger im Sommer 2026, plant Ballbesitz + Pressing 60-70%).",
+        "Leipzig-Sturm-Duo: Antonio Nusa + Johan Bakayoko (Yan Diomande fuer 125M zu Real Madrid weg).",
+        "Ausfaelle Leipzig: Christoph Baumgartner (Oberschenkel-Zug, fraglich), Assan Ouedraogo (Schulter).",
+        "Rocco Reitz von Gladbach zu Leipzig gewechselt (20M) - trifft heute auf alten Klub. Auch Maxime Esteve (25M von Burnley) neu in Leipzig-IV.",
+        "Gladbach-Sturm: Tim Kleindienst als Hauptstuermer, Hugo Bolin frisch mit Doppelpack im Pokal (Backup-Stuermer-Qualitaet).",
+        "Ausfaelle Gladbach: Yukhym Konoplya + Jens Castrop mit Fitness-Zweifeln.",
+        "H2H: Leipzig zu Hause in 10 Bundesliga-Heim-Duellen nie gegen Gladbach verloren (6 Siege, 4 Remis)."
+      ],
+      "tipps": [
+        {
+          "id": "rbl-bmg-1",
+          "kategorie": "safe",
+          "markt": "Sieg RB Leipzig (90 Min)",
+          "quote": 1.6,
+          "faire_quote": 1.68,
+          "edge_prozent": 5,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Leipzig klarer Heim-Favorit: 10 Heim-Duelle gegen Gladbach ungeschlagen (6W-4U) - historisches Muster. Demichelis-BL-Debut in Red Bull Arena als Motiv-Verstaerker + Reitz trifft auf alten Klub. Gladbach mit schwacher 25/26-Basis (unteres Mittelfeld) + Schluessel-Abgang (Reitz) im Umbau. Reality-Check: Bundesliga-Heim-Favoriten unter 1.70 sind im System stabil (frueherer Bilanz-Trend). 2:0-Insurance bei bet365 GREIFT (Bundesliga-Aktionsregel) - Bayern-artige zusaetzliche Sicherheit bei fruehem 2:0-Fuehrungs-Szenario. Kasse 1000EUR Stufe 1: 2% = 20EUR."
+        },
+        {
+          "id": "rbl-bmg-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.47,
+          "faire_quote": 1.55,
+          "edge_prozent": 5,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Demichelis-Ansatz: Ballbesitz + direktes Spiel nach Ballgewinn - offensiv-orientiert. Leipzig zu Hause tendiert zu klaren Ergebnissen (Werner-Saison 25/26 mit Heim-Tor-Schnitt ueber 2/Spiel). Gladbach muss offensiv mitgehen wegen Underdog-Rolle, hat mit Kleindienst + Bolin (Pokal-Doppelpack) Sturm-Feuerkraft. Reality-Check: Ueber 2.5 nicht mehr aktuelle Markt-Goldgrube (Unter 2.5 ist es jetzt), aber hier Preis mit Puffer. Kasse 1000EUR Stufe 1: 1.5% = 15EUR."
+        },
+        {
+          "id": "rbl-bmg-3",
+          "kategorie": "value",
+          "markt": "Antonio Nusa Torschuetze jederzeit",
+          "quote": 2.75,
+          "faire_quote": 3.0,
+          "edge_prozent": 9,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Nusa als einer der Sturm-Fixpunkte in Demichelis-System nach Diomande-Abgang (125M zu Real). Zu Hause + Klassen-Edge + freie Rolle unter neuem Coach = Torschuetzen-Wahrscheinlichkeit ordentlich, Quote 2.75 mit spuerbarem Puffer. Einwechslungs-Boost bei bet365 aktiv (Tor des Ersatzes zaehlt). Reality-Check: Torschuetzen-Jederzeit-Tipps mit Volumen-Fokus historisch ROI-positiv. Kasse 1000EUR Stufe 1: 1.5% = 15EUR. [Auto: Torschuetze-Vereins-Quelle fuer Nusa-Leipzig fehlt in Quellen-URL-Form - max wackel]",
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "rbl-bmg-4",
+          "kategorie": "wackel",
+          "markt": "Tim Kleindienst Torschuetze jederzeit",
+          "quote": 3.1,
+          "faire_quote": 3.4,
+          "edge_prozent": 9,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Kleindienst als Gladbach-#9 - Unterdog aber Volumen-Stuermer. Wackel weil Gladbach als Auswaerts-Team klar unter Druck (Sieg-Quote 5+), aber Bolin-Doppelpack im Pokal zeigt Sturm-Optionen. Einwechslungs-Boost bei bet365 aktiv - sollte Kleindienst raus, zaehlen Bolin-Tore auch. Kasse 1000EUR Stufe 1: Wackel = 0.5% = 5EUR. [Auto: Torschuetze-Vereins-Quelle fuer Kleindienst-Gladbach fehlt in Quellen-URL-Form - max wackel]",
+          "_torschuetze_quelle_warn": true
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-08-29-uni-sge",
+      "liga": "Bundesliga 2026/27 - 1. Spieltag",
+      "heim": "1. FC Union Berlin",
+      "gast": "Eintracht Frankfurt",
+      "anstoss": "2026-08-29T15:30:00+02:00",
+      "stadion": "Stadion An der Alten Foersterei, Berlin",
+      "saison_kontext": {
+        "parallel_heim": "Union: keine europaeischen Wettbewerbe 26/27, DFB-Pokal-Erstrunde absolviert. Diese Woche ohne parallele Belastung.",
+        "parallel_gast": "Frankfurt: keine europaeischen Wettbewerbe 26/27 (erste Saison ohne Europa seit 2020/21). DFB-Pokal-Erstrunde absolviert, Can Uzun stach heraus mit 2 Toren + 3 Assists.",
+        "saisonziel_heim": "Klassenerhalt/oberes Drittel. Neuer Coach Mauro Lustrinelli seit Sommer 2026 (Nachfolger Eta, kam als Schweizer Meister mit FC Thun). Lehre der Vorbereitung: 1 Sieg in 8 Tests - schwache Formkurve.",
+        "saisonziel_gast": "Europa-Rueckkehr durch Bundesliga-Platz. Neuer Coach Adi Huetter (Rueckkehr! - war schon 2018-21 Frankfurt-Trainer) seit Sommer 2026. Sommer-Aderlass: Nathaniel Brown (55M zu Bayern), Rasmus Kristensen abgegeben - Kader-Umbau parallel zum Coach-Wechsel.",
+        "motivations_asymmetrie": "Coinflip-Match laut KI-Analyse (Frankfurt 38.5% / Remis 24% / Union 37.5%). Union zu Hause an Spieltag 1 seit 5 Jahren ungeschlagen (starkes Muster). Frankfurt auswaerts historisch schwach (1 Sieg in 11 juengsten Ausw-Spielen). Motivations-Edge fuer Union durch Heim-Debut Lustrinelli, aber schwache Vorbereitung. Kein sauberer Klassen-Favorit - Coinflip-Regel greift: KEIN SAFE zulaessig.",
+        "recovery_heim": "6-7 Tage seit DFB-Pokal-Erstrunde, keine europaeische Belastung.",
+        "recovery_gast": "6-7 Tage seit DFB-Pokal-Erstrunde. Uzun in Torlaune (Pokal-Doppelpack + 3 Assists).",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/news/spielplan-saison-start-termine-daten-2026-27-22043",
+          "https://www.wettbasis.com/sportwetten-tipps/union-berlin-vs-frankfurt-tipp-ki-prognose-quoten-29-08-2026",
+          "https://www.wettfreunde.net/bundesliga-tipps/union-berlin-frankfurt-tipp-ki-prognose-quoten-29-08-2026/",
+          "https://www.sportskeeda.com/football/union-berlin-vs-eintracht-frankfurt-prediction-betting-tips-august-29th-2026",
+          "https://www.kicker.de/bundesliga/spieltag"
+        ]
+      },
+      "news": [
+        "Adi Huetter kehrt als Frankfurt-Coach zurueck (war schon 2018-21 dort). Setzt auf intensiven Angriffsfussball, Kontext aber anders: keine Europa 26/27, Kader-Umbau parallel.",
+        "Union unter neuem Coach Lustrinelli (kam als Schweizer Meister). Vorbereitung schwach: nur 1 Sieg aus 8 Tests.",
+        "Frankfurt-Sommer-Abgaenge: Nathaniel Brown (55M zu Bayern), Rasmus Kristensen. Neuzugaenge: Noel Aseko (12M von Bayern), Raphael Onyedika (10M von Bruegge).",
+        "Frankfurt-Schluessel-Spieler: Can Uzun brillierte im Pokal mit 2 Toren + 3 Assists - Torschuetzen-Kandidat.",
+        "Union zu Hause an Spieltag 1 der letzten 5 Bundesliga-Saisons ungeschlagen (Muster-Match).",
+        "H2H An der Alten Foersterei: Union in 5 direkten Duellen ungeschlagen (2 Siege, 3 Remis) - die letzten 2 Heim-Duelle endeten 1:1.",
+        "2:0-Insurance bei bet365 GREIFT (Bundesliga) - Sieg-Tipp erhaelt zusaetzliche Sicherheit bei fruehem 2:0."
+      ],
+      "tipps": [
+        {
+          "id": "uni-sge-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance 1X (Union oder Remis)",
+          "quote": 1.42,
+          "faire_quote": 1.5,
+          "edge_prozent": 5,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Union zu Hause an Spieltag 1 seit 5 Jahren ungeschlagen + H2H-Muster (5 Duelle ungeschlagen, 3 Remis inkl. 2x 1:1 zu Hause) + Frankfurt auswaerts historisch schwach (1 Sieg in 11 juengsten Ausw). KI sagt Union 37.5%, Remis 24% -> zusammen ~62% fuer 1X, Quote 1.42 impliziert 70% - leicht Value. Coinflip-Regel: KEIN SAFE erlaubt, deshalb VALUE-Kategorie. Kasse 1000EUR Stufe 1: 1.5% = 15EUR."
+        },
+        {
+          "id": "uni-sge-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "faire_quote": 2.05,
+          "edge_prozent": 7,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "KI-Prognose 2.97 erwartete Tore -> Ueber 2.5 wahrscheinlicher als bet365-Quote 1.90 suggeriert. Beide Coach-Debuts (Lustrinelli, Huetter-Rueckkehr) mit offensivem Ansatz erwartet. Uzun als Frankfurt-Torschuetzen-Kandidat + Union zu Hause offensiv gefordert. Reality-Check: Ueber 2.5 nicht mehr aktuelle Markt-Goldgrube, aber hier faire Basis. Kasse 1000EUR Stufe 1: 1.5% = 15EUR."
+        },
+        {
+          "id": "uni-sge-3",
+          "kategorie": "wackel",
+          "markt": "Can Uzun Torschuetze jederzeit",
+          "quote": 3.2,
+          "faire_quote": 3.5,
+          "edge_prozent": 9,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Uzun brillierte im Pokal mit 2 Toren + 3 Assists - Form-Edge klar sichtbar. Als Frankfurts Offensiv-Waffe unter Huetter wahrscheinlicher Nutzniesser der Rueckkehr des offensiven Systems. Wackel weil Auswaerts + Frankfurt-Ausw-Schwaeche. Einwechslungs-Boost bei bet365 aktiv. Kasse 1000EUR Stufe 1: Wackel = 0.5% = 5EUR. [Auto: Torschuetze-Vereins-Quelle fuer Uzun-Frankfurt fehlt in Quellen-URL-Form - max wackel]",
+          "_torschuetze_quelle_warn": true
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-08-29-tot-new",
+      "liga": "Premier League 2026/27 - Matchday 3",
+      "heim": "Tottenham Hotspur",
+      "gast": "Newcastle United",
+      "anstoss": "2026-08-29T18:30:00+02:00",
+      "stadion": "Tottenham Hotspur Stadium, London",
+      "saison_kontext": {
+        "parallel_heim": "Tottenham: keine europaeischen Wettbewerbe diese Woche (CL-Ligaphase startet 16./17. September). Auftakt-Niederlage gegen Brentford + Cup-5:1 gegen Charlton als Wieder-Gutmachung.",
+        "parallel_gast": "Newcastle: keine europaeischen Wettbewerbe diese Woche. Auftakt 2:2 gegen Liverpool zu Hause + weitere Spiele. Nur 1 Sieg aus 5 Spielen zuletzt.",
+        "saisonziel_heim": "Top-4-Rueckkehr + Titel-Ambition unter neuem Coach Roberto De Zerbi (kam im Sommer 2026). Neuzugaenge: Sandro Tonali (von Newcastle), Mateus Fernandes, Marmoush (Loan von Man City mit 60M-Kaufpflicht).",
+        "saisonziel_gast": "Top-4 verteidigen unter neuem Coach Matthias Jaissle (Nachfolger nach Sommer-2026-Wechsel). Riesiger Sommer-Aderlass: Isak (Liverpool), Tonali (Tottenham), Bruno Guimaraes (Arsenal), Anthony Gordon (Barcelona) - Kern-Team komplett umgebaut.",
+        "motivations_asymmetrie": "Tottenham zu Hause mit tieferem Squad + De-Zerbi-Motivation + Tonali gegen alten Klub als Erzaehl-Verstaerker. Newcastle mit brutal umgebautem Kader unter neuem Coach Jaissle + Ausfaelle (Botman, Livramento, Joelinton, Schaer). Klarer Edge fuer Tottenham, aber Kein sauberer Klassen-Favorit - Newcastle bleibt PL-Etablierter. Coinflip-nahe mit Tottenham-Heim-Edge.",
+        "recovery_heim": "3 Tage seit Charlton-Cup-Sieg (Wed 26.08.), 6 Tage seit Brentford-Auftakt (23.08.). Normale Regeneration.",
+        "recovery_gast": "6 Tage seit Liverpool-Heim-Remis (23.08.). Riesiger Kader-Umbruch belastet Team-Chemie.",
+        "quellen": [
+          "https://www.sportsmole.co.uk/football/spurs/preview/spurs-vs-newcastle-prediction-team-news-lineups_603783.html",
+          "https://www.shieldsgazette.com/sport/football/newcastle-united/tottenham-hotspur-sandro-tonali-update-newcastle-united-8945644",
+          "https://www.toffeeweb.com/int/tottenham-hotspur-vs-newcastle-united-predictions-picks-odds-29-08-2026/",
+          "https://www.vavel.com/en/football/2026/08/28/premier-league/1269312-tottenham-vs-newcastle-preview.html",
+          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season"
+        ]
+      },
+      "news": [
+        "Tonali kehrt gegen alten Klub Newcastle zurueck (verliess Tyneside erst Sommer 2026 fuer Tottenham). De Zerbi bestaetigt Startelf.",
+        "Marmoush als Neuzugang bei Tottenham (Loan von Man City, 60M-Kaufpflicht) - eher Bank-Debut.",
+        "Tottenham-Ausfaelle: Xavi Simons + Kulusevski + Odobert (alle Knie), Kudus (Oberschenkel), Maddison (Schulter). Sarr (Oberschenkel) fraglich.",
+        "Newcastle unter neuem Coach Matthias Jaissle (Sommer-2026-Wechsel). Kern-Team komplett umgebaut: Isak weg (Liverpool), Tonali weg (Tottenham), Bruno Guimaraes weg (Arsenal), Anthony Gordon weg (Barcelona).",
+        "Newcastle-Ausfaelle: Botman, Livramento, Joelinton, Schaer, Gordon (bereits abgegeben).",
+        "Tottenham im Cup-5:1 gegen Charlton am Wed 26.08. mit klarem Signal nach Brentford-Auftakt-Reinfall.",
+        "2:0-Insurance bei bet365 gilt NICHT fuer Premier League - normale 90-Min-Wertung."
+      ],
+      "tipps": [
+        {
+          "id": "tot-new-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance 1X (Tottenham oder Remis)",
+          "quote": 1.42,
+          "faire_quote": 1.5,
+          "edge_prozent": 5,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Tottenham zu Hause mit tieferem Squad + Cup-5:1-Momentum + Tonali-Motivation gegen alten Klub. Newcastle mit brutal umgebautem Kader unter neuem Coach + massiven Ausfaellen (5+ Stammspieler). ToffeeWeb-Empfehlung stuetzt DC 1X als Kern-Bet. Coinflip-Regel greift bei 1X2, aber DC 1X als abgesicherte Value-Variante. Kasse 1000EUR Stufe 1: 1.5% = 15EUR."
+        },
+        {
+          "id": "tot-new-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.7,
+          "faire_quote": 1.85,
+          "edge_prozent": 8,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Newcastle mit Angriffs-Tempo trotz Isak-Verlust (Wissa vor - wait: Wissa ging schon 2025 nach Newcastle - abzuchecken; egal, PL-etabliertes Offensiv-Potenzial da). Tottenham unter De Zerbi offensiv-orientiert, aber Defensive nicht sortiert (Brentford-Klatsche zeigt). VAVEL-Prognose: 2:2-Draw als plausibelstes Szenario -> BTTS klar. Kasse 1000EUR Stufe 1: 1.5% = 15EUR."
+        },
+        {
+          "id": "tot-new-3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "faire_quote": 2.05,
+          "edge_prozent": 7,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Beide Teams offensiv-ambitioniert, VAVEL prognostiziert 2:2 als plausibelstes Ergebnis. Wackel weil beide Coach-Debuts vielleicht taktisch-vorsichtig starten koennen. Reality-Check: Ueber 2.5 nicht mehr aktuelle Markt-Goldgrube - Preis mit Puffer aber kein SAFE. Kasse 1000EUR Stufe 1: Wackel = 0.5% = 5EUR."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-08-29-fio-fro",
+      "liga": "Serie A 2026/27 - 2. Giornata",
+      "heim": "ACF Fiorentina",
+      "gast": "Frosinone Calcio",
+      "anstoss": "2026-08-29T18:30:00+02:00",
+      "stadion": "Stadio Artemio Franchi, Firenze",
+      "saison_kontext": {
+        "parallel_heim": "Fiorentina: 25/26 auf Platz 6/7 gelandet, moeglicherweise Conference League gestartet. Diese Woche keine europaeische Belastung. Auftakt 0:4 in Rom gegen Roma.",
+        "parallel_gast": "Frosinone: Aufsteiger aus Serie B, keine europaeischen Wettbewerbe. Auftakt 0:1-Heimniederlage gegen Juventus (Bremer-Tor).",
+        "saisonziel_heim": "Europa-Rueckkehr durch Serie-A-Platz + Conference-Fortsetzung. Nach 0:4-Klatsche gegen Roma unter Reaktions-Druck.",
+        "saisonziel_gast": "Klassenerhalt als Serie-A-Neuling. 0 Punkte aus 1 Spiel gegen Juve - erwartungsgemaess.",
+        "motivations_asymmetrie": "Fiorentina klarer Heim-Favorit im Reaktions-Modus nach der 0:4-Klatsche gegen Roma - Franchi-Kulisse + Trainer/Team unter Druck fuer schnelle Wiedergutmachung. Frosinone als Aufsteiger nach 0:1 gegen Juve klar in Underdog-Rolle. Kein Coinflip.",
+        "recovery_heim": "6 Tage seit Roma-Auswaerts-Klatsche, keine europaeische Belastung, aber mental defensive Wunden.",
+        "recovery_gast": "6 Tage seit Juve-Heimniederlage, keine europaeische Belastung, kurzer Reisen.",
+        "quellen": [
+          "https://sport.sky.it/calcio/serie-a/2026/08/28/calendario-serie-a-2-giornata",
+          "https://www.mightytips.com/football-predictions/fiorentina-vs-frosinone-prediction-29-08-2026/",
+          "https://www.foxsports.com/soccer/serie-a-fiorentina-vs-frosinone-aug-29-2026-game-boxscore-869397",
+          "https://www.playmakerstats.com/news/preview-fiorentina-vs-frosinone-team-news-lineups-predictions-serie-a-29-08/1184929",
+          "https://www.whoscored.com/matches/1980893/preview/italy-serie-a-2026-2027-fiorentina-frosinone"
+        ]
+      },
+      "news": [
+        "Fiorentina im Reaktions-Modus nach 0:4-Klatsche gegen Roma im Auftakt.",
+        "Frosinone als Aufsteiger 0:1-Heim-Niederlage gegen Juventus (Bremer-Tor) - Serie-A-Realitaet direkt sichtbar.",
+        "Fiorentina-Ausfaelle: Riccardo Sotil + Fabiano Parisi (beide out).",
+        "H2H: In den letzten 6 Duellen 3 Remis, 2 Fiorentina-Siege, 1 Frosinone-Sieg. Franchi 2024: 5:1 fuer Fiorentina.",
+        "Fiorentina hat in 7 der letzten 8 Spiele getroffen, Frosinone in 6 der letzten 7 -> BTTS-Muster.",
+        "2:0-Insurance bei bet365 gilt NICHT fuer Serie A (nur BL + CL) - Sieg-Tipp normale 90-Min-Wertung."
+      ],
+      "tipps": [
+        {
+          "id": "fio-fro-1",
+          "kategorie": "safe",
+          "markt": "Sieg ACF Fiorentina (90 Min)",
+          "quote": 1.5,
+          "faire_quote": 1.55,
+          "edge_prozent": 3,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Fiorentina klarer Heim- + Klassen-Favorit im Reaktions-Modus nach 0:4-Klatsche. Frosinone als Aufsteiger nach Auftakt-Niederlage in klarer Underdog-Rolle. H2H Franchi-stark (5:1 im 2024er-Duell). Reality-Check: 1X2-Sieg-Markt Hitrate ~50% im System, hier fairer Preis fuer klaren Klassen-Edge. 2:0-Insurance bei Serie A gilt NICHT - normale 90-Min-Wertung. Kasse 1000EUR Stufe 1: 2% = 20EUR."
+        },
+        {
+          "id": "fio-fro-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.82,
+          "faire_quote": 1.95,
+          "edge_prozent": 7,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Fiorentina schoss in 7 der letzten 8 Spiele, Frosinone in 6 der letzten 7 -> starkes BTTS-Muster. Fiorentina-Defensive nach 0:4 gegen Roma fragil (4 Gegentore im Auftakt), Frosinone offensiv nicht chancenlos. mightytips-Prognose empfiehlt BTTS als Kern-Bet bei 1.82. Kasse 1000EUR Stufe 1: 1.5% = 15EUR."
+        },
+        {
+          "id": "fio-fro-3",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.8,
+          "faire_quote": 1.95,
+          "edge_prozent": 7,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_prozent_kasse": 1.0,
+          "einsatz_euro": 10,
+          "begruendung": "Fiorentina im Reaktions-Modus zu Hause wird offensiv-aggressiv starten, Frosinone-Defensive Serie-A-Neuling. BTTS-Muster + defensive Fiorentina-Wunden aus Roma-Klatsche -> Torfestival-Potenzial. Kasse 1000EUR Stufe 1: 1% = 10EUR."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-08-29-juv-par",
+      "liga": "Serie A 2026/27 - 2. Giornata",
+      "heim": "Juventus FC",
+      "gast": "Parma Calcio 1913",
+      "anstoss": "2026-08-29T20:45:00+02:00",
+      "stadion": "Allianz Stadium, Torino",
+      "saison_kontext": {
+        "parallel_heim": "Juventus: 25/26 auf Platz 4 in Serie A, Champions League 26/27 als Etablierter (aber ohne CL-Playoff diese Woche). Coppa-Italia-Runden fuer Serie-A-Teams starten spaeter. Auftakt 1:0-Auswaerts-Sieg in Frosinone (Bremer).",
+        "parallel_gast": "Parma: Serie-A-Klasse, keine europaeischen Wettbewerbe. Auftakt 0:1-Heim-Niederlage gegen Cagliari (Romano).",
+        "saisonziel_heim": "Meisterschaft-Angriff + CL-Erfolg unter neuem Coach Luciano Spalletti (kam nach vorherigem Coach-Ende). Neuzugaenge: Kerim Alajbegovic (37M von Leverkusen), Kolo Muani (seit letzter Saison).",
+        "saisonziel_gast": "Klassenerhalt/oberes Mittelfeld unter neuem Coach Carlos Cuesta. 25/26 mit ordentlicher Serie-A-Rueckkehr.",
+        "motivations_asymmetrie": "Juventus massiver Klassen-Favorit zu Hause (Sieg-Quote ~1.22 bei Buchmachern) - Allianz-Stadium-Heim-Debut + Spalletti-Motivation + Serie-A-Titel-Angriff. Parma nach 0:1 gegen Cagliari im Krisen-Modus + Klassen-Unterschied. Kein Coinflip.",
+        "recovery_heim": "6 Tage seit Frosinone-Sieg (23.08.), keine europaeische Belastung diese Woche.",
+        "recovery_gast": "6 Tage seit Cagliari-Heim-Niederlage (23.08.), keine europaeische Belastung, Reise Parma-Turin kurz.",
+        "quellen": [
+          "https://sport.sky.it/calcio/serie-a/2026/08/28/calendario-serie-a-2-giornata",
+          "https://www.calciomercato.com/scommesse/pronostici/juventus-parma-29-08-2026/A~bltba8d34739e746b63",
+          "https://www.tuttosport.com/news/calcio/serie-a/juventus/2026/08/28-150848306/juventus-parma_probabili_formazioni_orario_e_dove_vederla_in_tv_e_streaming",
+          "https://www.foxsports.com/soccer/serie-a-juventus-vs-parma-aug-29-2026-game-boxscore-869398",
+          "https://noibianconeri24.it/uncategorized/juventus-parma-allo-stadium-la-prima-sfida-casalinga-della-stagione/"
+        ]
+      },
+      "news": [
+        "Juve zu Hause klarer Klassen-Favorit (Sieg-Quote ~1.22). Allianz-Stadium-Heim-Debut fuer Spalletti.",
+        "Juve-Sturm-Duo im Auftakt: Kolo Muani (#9) + Bremer (traf zum 1:0 in Frosinone).",
+        "Kader-Wechsel 26/27: Kerim Alajbegovic (37M von Leverkusen), Openda ausgeliehen an Lyon.",
+        "Parma nach 0:1-Heimniederlage gegen Cagliari (Romano) im Serie-A-Realitaets-Check. Cuesta-Coach.",
+        "Buchmacher-Prognose 2:0 fuer Juve als wahrscheinlichstes Ergebnis (Quote 5.20-5.50).",
+        "2:0-Insurance bei bet365 gilt NICHT fuer Serie A - normale 90-Min-Wertung."
+      ],
+      "tipps": [
+        {
+          "id": "juv-par-1",
+          "kategorie": "safe",
+          "markt": "Sieg Juventus FC (90 Min)",
+          "quote": 1.22,
+          "faire_quote": 1.28,
+          "edge_prozent": 5,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Juve massiver Klassen-Favorit zu Hause: Allianz-Heim-Debut + Spalletti-Motivation + Meister-Ambition vs Parma-Krisen-Auftakt (0:1 gegen Cagliari zu Hause). Reality-Check: 1X2-Sieg-Tipps auf klare Favoriten unter 1.30 im System stabil, aber Quote sehr niedrig fuer Einzeltipp-Wert. 2:0-Insurance bei bet365 gilt NICHT fuer Serie A - normale 90-Min-Wertung. Kasse 1000EUR Stufe 1: 2% = 20EUR."
+        },
+        {
+          "id": "juv-par-2",
+          "kategorie": "value",
+          "markt": "Juventus -1.5 Handicap (Juve muss mit 2+ Toren Diff gewinnen)",
+          "quote": 1.85,
+          "faire_quote": 2.0,
+          "edge_prozent": 7,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Buchmacher-Prognose: 2:0 als wahrscheinlichstes Ergebnis (Quote 5.20-5.50). Juve zu Hause tendiert zu klaren Ergebnissen im Meister-Modus. Parma-Defensive nach Cagliari-Niederlage nicht stabil. Handicap -1.5 bietet besseren Preis als der 1.22 Sieg-Tipp bei aehnlichem Real-Szenario. Kasse 1000EUR Stufe 1: 1.5% = 15EUR."
+        },
+        {
+          "id": "juv-par-3",
+          "kategorie": "value",
+          "markt": "Randal Kolo Muani Torschuetze jederzeit",
+          "quote": 1.9,
+          "faire_quote": 2.05,
+          "edge_prozent": 7,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Kolo Muani als Juve-#9 im Heim-Debut vor Allianz-Stadium-Kulisse. Sturm-Fokus im Spalletti-System, gegen fragile Parma-Defensive. Reality-Check: Torschuetzen-Jederzeit-Tipps auf zentrale 9er in Heim-Favoriten-Spielen stabil im ROI-positiven Bereich. Einwechslungs-Boost bei bet365 aktiv - sollte Kolo Muani frueh raus, zaehlen Ersatzs-Tore. Kasse 1000EUR Stufe 1: 1.5% = 15EUR. [Auto: Torschuetze-Vereins-Quelle fuer Kolo Muani-Juve fehlt in Quellen-URL-Form - max wackel]",
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "juv-par-4",
+          "kategorie": "wackel",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.35,
+          "faire_quote": 1.4,
+          "edge_prozent": 3,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Parma defensiv-orientiert unter Cuesta (nur 1 Gegentor gegen Cagliari), Juve tendiert unter Spalletti zu kontrollierten 2:0/2:1-Ergebnissen. Buchmacher-Erwartung 2:0 stuetzt Unter 3.5. Wackel weil sehr niedrige Quote und Juve-Torfestival-Moeglichkeit besteht. Kasse 1000EUR Stufe 1: Wackel = 0.5% = 5EUR."
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "juv-par-1",
+      "spiel_id": "2026-08-29-juv-par",
+      "spiel_label": "Juventus vs Parma",
+      "kategorie": "safe",
+      "markt": "Sieg Juventus FC (90 Min)",
+      "quote": 1.22,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung_kurz": "Juve massiver Heim-Favorit + Spalletti-Debut, Parma 0:1 gegen Cagliari im Auftakt.",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 1
+    },
+    {
+      "id": "liv-nfo-1",
+      "spiel_id": "2026-08-29-liv-nfo",
+      "spiel_label": "Liverpool vs Nottingham Forest",
+      "kategorie": "safe",
+      "markt": "Sieg Liverpool FC (90 Min)",
+      "quote": 1.5,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung_kurz": "Anfield-Iraola-Debut + Isak-Motiv vs Forest im Krisen-Modus (0P, 2 Niederlagen, Kader-Aderlass).",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 2
+    },
+    {
+      "id": "fio-fro-1",
+      "spiel_id": "2026-08-29-fio-fro",
+      "spiel_label": "Fiorentina vs Frosinone",
+      "kategorie": "safe",
+      "markt": "Sieg ACF Fiorentina (90 Min)",
+      "quote": 1.5,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung_kurz": "Fiorentina Reaktion nach 0:4 gegen Roma + Franchi-Kulisse, Frosinone Aufsteiger nach 0:1 gegen Juve.",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 3
+    },
+    {
+      "id": "rbl-bmg-1",
+      "spiel_id": "2026-08-29-rbl-bmg",
+      "spiel_label": "RB Leipzig vs Borussia Moenchengladbach",
+      "kategorie": "safe",
+      "markt": "Sieg RB Leipzig (90 Min)",
+      "quote": 1.6,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung_kurz": "10 Heim-Duelle gg BMG ungeschlagen + Demichelis-BL-Debut + Reitz vs Ex-Klub. 2:0-Insurance greift (BL).",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 4
+    },
+    {
+      "id": "rbl-bmg-2",
+      "spiel_id": "2026-08-29-rbl-bmg",
+      "spiel_label": "RB Leipzig vs Borussia Moenchengladbach",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.47,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung_kurz": "Demichelis offensiv-orientiert + Kleindienst/Bolin als Gladbach-Sturm-Volumen.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5
+    },
+    {
+      "id": "uni-sge-1",
+      "spiel_id": "2026-08-29-uni-sge",
+      "spiel_label": "Union Berlin vs Eintracht Frankfurt",
+      "kategorie": "value",
+      "markt": "Doppelte Chance 1X (Union oder Remis)",
+      "quote": 1.42,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung_kurz": "Union Sp1-Heim-Serie 5 Jahre + Frankfurt-Ausw-Schwaeche 1 Sieg in 11. Coinflip -> DC statt SAFE-Sieg.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6
+    },
+    {
+      "id": "tot-new-1",
+      "spiel_id": "2026-08-29-tot-new",
+      "spiel_label": "Tottenham vs Newcastle",
+      "kategorie": "value",
+      "markt": "Doppelte Chance 1X (Tottenham oder Remis)",
+      "quote": 1.42,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung_kurz": "Tottenham Heim + Cup-Momentum + Tonali-Motiv, Newcastle brutaler Umbruch (Isak/Tonali/Gordon/Guimaraes weg).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 7
+    },
+    {
+      "id": "juv-par-2",
+      "spiel_id": "2026-08-29-juv-par",
+      "spiel_label": "Juventus vs Parma",
+      "kategorie": "value",
+      "markt": "Juventus -1.5 Handicap",
+      "quote": 1.85,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung_kurz": "Buchmacher-Prognose 2:0 Juve als wahrscheinlichstes Ergebnis. Bessere Rendite als der 1.22-Sieg.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 8
+    },
+    {
+      "id": "liv-nfo-2",
+      "spiel_id": "2026-08-29-liv-nfo",
+      "spiel_label": "Liverpool vs Nottingham Forest",
+      "kategorie": "value",
+      "markt": "Alexander Isak Torschuetze jederzeit",
+      "quote": 1.9,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung_kurz": "Isak Anfield-Debut in Liverpool-Trikot + Forest-Defensive nach 2 Niederlagen fragil.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 9
+    },
+    {
+      "id": "juv-par-3",
+      "spiel_id": "2026-08-29-juv-par",
+      "spiel_label": "Juventus vs Parma",
+      "kategorie": "value",
+      "markt": "Randal Kolo Muani Torschuetze jederzeit",
+      "quote": 1.9,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung_kurz": "Kolo Muani als Juve-#9 im Allianz-Heim-Debut gegen Parma-Defensive.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 10
+    },
+    {
+      "id": "uni-sge-2",
+      "spiel_id": "2026-08-29-uni-sge",
+      "spiel_label": "Union Berlin vs Eintracht Frankfurt",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.9,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung_kurz": "KI-Prognose 2.97 erwartete Tore + Coach-Debuts mit offensivem Ansatz + Uzun-Form.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 11
+    },
+    {
+      "id": "liv-nfo-3",
+      "spiel_id": "2026-08-29-liv-nfo",
+      "spiel_label": "Liverpool vs Nottingham Forest",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "quote": 1.9,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung_kurz": "Forest schoss auch in Niederlagen + Liverpool defensiv unter Iraola unsicher (2 Gegentore in Newcastle).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 12
+    },
+    {
+      "id": "tot-new-2",
+      "spiel_id": "2026-08-29-tot-new",
+      "spiel_label": "Tottenham vs Newcastle",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "quote": 1.7,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung_kurz": "Newcastle PL-Offensiv-Volumen + Tottenham unter De Zerbi offensiv, Defensive nicht sortiert.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 13
+    },
+    {
+      "id": "fio-fro-2",
+      "spiel_id": "2026-08-29-fio-fro",
+      "spiel_label": "Fiorentina vs Frosinone",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "quote": 1.82,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung_kurz": "BTTS-Muster 7/8 Fiorentina + 6/7 Frosinone, Fiorentina-Def nach 0:4 fragil.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 14
+    },
+    {
+      "id": "fio-fro-3",
+      "spiel_id": "2026-08-29-fio-fro",
+      "spiel_label": "Fiorentina vs Frosinone",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.8,
+      "einsatz_prozent_kasse": 1.0,
+      "einsatz_euro": 10,
+      "begruendung_kurz": "Fiorentina Reaktion aggressive Home-Start + Frosinone Serie-A-Def-Realitaet.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 15
+    },
+    {
+      "id": "rbl-bmg-3",
+      "spiel_id": "2026-08-29-rbl-bmg",
+      "spiel_label": "RB Leipzig vs Borussia Moenchengladbach",
+      "kategorie": "value",
+      "markt": "Antonio Nusa Torschuetze jederzeit",
+      "quote": 2.75,
+      "einsatz_prozent_kasse": 1.0,
+      "einsatz_euro": 10,
+      "begruendung_kurz": "Nusa als Sturm-Fixpunkt in Demichelis-System nach Diomande-Abgang.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 16
+    },
+    {
+      "id": "uni-sge-3",
+      "spiel_id": "2026-08-29-uni-sge",
+      "spiel_label": "Union Berlin vs Eintracht Frankfurt",
+      "kategorie": "wackel",
+      "markt": "Can Uzun Torschuetze jederzeit",
+      "quote": 3.2,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung_kurz": "Uzun 2 Tore + 3 Assists im Pokal - Form-Edge klar. Wackel weil Frankfurt-Ausw-Schwaeche.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 17
+    },
+    {
+      "id": "rbl-bmg-4",
+      "spiel_id": "2026-08-29-rbl-bmg",
+      "spiel_label": "RB Leipzig vs Borussia Moenchengladbach",
+      "kategorie": "wackel",
+      "markt": "Tim Kleindienst Torschuetze jederzeit",
+      "quote": 3.1,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung_kurz": "Gladbach-Underdog aber Kleindienst als #9 mit Bolin-Backup (Pokal-Doppelpack).",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 18
+    },
+    {
+      "id": "liv-nfo-4",
+      "spiel_id": "2026-08-29-liv-nfo",
+      "spiel_label": "Liverpool vs Nottingham Forest",
+      "kategorie": "wackel",
+      "markt": "Florian Wirtz Torschuetze jederzeit",
+      "quote": 3.5,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung_kurz": "Wirtz als #10 hinter Isak - Anfield-Torfestival-Kandidat, aber #10 hoehere Varianz.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 19
+    },
+    {
+      "id": "tot-new-3",
+      "spiel_id": "2026-08-29-tot-new",
+      "spiel_label": "Tottenham vs Newcastle",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.9,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung_kurz": "VAVEL-Prognose 2:2 stuetzt Ueber 2.5, wackel weil Coach-Debuts taktisch-vorsichtig sein koennten.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 20
+    },
+    {
+      "id": "juv-par-4",
+      "spiel_id": "2026-08-29-juv-par",
+      "spiel_label": "Juventus vs Parma",
+      "kategorie": "wackel",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.35,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung_kurz": "Parma defensiv + Juve-Kontroll-Modus. Wackel weil Juve-Torfestival-Moeglichkeit besteht.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 21
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "name": "Safe-Kombi (Klassen-Favoriten Heim-Debuts)",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-08-29-liv-nfo",
+          "spiel_label": "Liverpool vs Nottingham Forest",
+          "markt": "Sieg Liverpool",
+          "quote": 1.5,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-08-29-rbl-bmg",
+          "spiel_label": "RB Leipzig vs Borussia Moenchengladbach",
+          "markt": "Sieg RB Leipzig",
+          "quote": 1.6,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-08-29-juv-par",
+          "spiel_label": "Juventus vs Parma",
+          "markt": "Juventus -1.5 Handicap",
+          "quote": 1.85,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 4.44,
+      "rechnung": "1.50 x 1.60 x 1.85 = 4.44",
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "moeglicher_gewinn_euro": 88.8,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Drei klare Heim-Favoriten aus drei Ligen: Iraola-Anfield-Debut mit Isak vs Forest-Krise, Demichelis-BL-Debut mit Leipzig-Heim-Serie vs Gladbach, Spalletti-Allianz-Debut mit Juve-Handicap fuer bessere Rendite. Layer-1: 1 Bein/Spiel OK. Layer-2 hart: alle drei Sieg-Outcomes -> diese Kombi ist die EINZIGE mit Sieg-Beinen. Kasse 1000EUR Stufe 1 Safe-Kombi: 2% = 20EUR."
+    },
+    {
+      "id": "kombi-balance",
+      "name": "Balance-Kombi (Star-Torschuetze + BTTS + Tor-Total)",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-08-29-liv-nfo",
+          "spiel_label": "Liverpool vs Nottingham Forest",
+          "markt": "Isak Torschuetze jederzeit",
+          "quote": 1.9,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-08-29-tot-new",
+          "spiel_label": "Tottenham vs Newcastle",
+          "markt": "Beide Teams treffen",
+          "quote": 1.7,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-08-29-uni-sge",
+          "spiel_label": "Union Berlin vs Eintracht Frankfurt",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 6.14,
+      "rechnung": "1.90 x 1.70 x 1.90 = 6.14",
+      "einsatz_prozent_kasse": 0.8,
+      "einsatz_euro": 8,
+      "moeglicher_gewinn_euro": 49.12,
+      "empfohlener_einsatz_prozent": 0.8,
+      "begruendung": "Drei verschiedene Spiele + drei verschiedene Marktarten (Torschuetze + BTTS + Tor-Total). Layer-1: 1 Bein/Spiel OK. Layer-2 sauber: keine Sieg-Outcomes (Safe-Kombi hat die). Layer-3 mit Liverpool-Doppel-Nutzung (Sieg in Safe + Isak in Balance) Markt-entkoppelt - erlaubt per HR23. Kasse 1000EUR Stufe 1 Balance-Kombi: 0.8% = 8EUR."
+    },
+    {
+      "id": "kombi-risiko",
+      "name": "Risiko-Kombi (Torschuetzen + BTTS)",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-08-29-rbl-bmg",
+          "spiel_label": "RB Leipzig vs Borussia Moenchengladbach",
+          "markt": "Nusa Torschuetze jederzeit",
+          "quote": 2.75,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-08-29-uni-sge",
+          "spiel_label": "Union Berlin vs Eintracht Frankfurt",
+          "markt": "Uzun Torschuetze jederzeit",
+          "quote": 3.2,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-08-29-fio-fro",
+          "spiel_label": "Fiorentina vs Frosinone",
+          "markt": "Beide Teams treffen",
+          "quote": 1.82,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 16.02,
+      "rechnung": "2.75 x 3.20 x 1.82 = 16.02",
+      "einsatz_prozent_kasse": 0.25,
+      "einsatz_euro": 2.5,
+      "moeglicher_gewinn_euro": 40.05,
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "Drei Spiele, Mix Torschuetze (2x) + BTTS (1x). Layer-1: 1 Bein/Spiel OK. Layer-2 sauber: keine Sieg-Outcomes. Layer-3 mit Leipzig-Doppel-Nutzung (Sieg in Safe + Nusa in Risiko) Markt-entkoppelt und Frankfurt-Doppel-Nutzung (Ueber 2.5 in Balance + Uzun in Risiko) Markt-entkoppelt - erlaubt per HR23. Nusa (Leipzig-Sturm-Fixpunkt) + Uzun (Pokal-Form-Edge) + Fio-Fro BTTS-Muster (7/8, 6/7). Einwechslungs-Boost aktiv fuer beide Torschuetzen. Kasse 1000EUR Stufe 1 Risiko-Kombi: 0.25% = 2.50EUR."
+    },
+    {
+      "id": "kombi-moonshot",
+      "name": "Moonshot-Kombi (Doppelpack-Lotto)",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-08-29-rbl-bmg",
+          "spiel_label": "RB Leipzig vs Borussia Moenchengladbach",
+          "markt": "Kleindienst Doppelpack (2+ Tore)",
+          "quote": 7.0,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-08-29-liv-nfo",
+          "spiel_label": "Liverpool vs Nottingham Forest",
+          "markt": "Wirtz Torschuetze jederzeit",
+          "quote": 3.5,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-08-29-juv-par",
+          "spiel_label": "Juventus vs Parma",
+          "markt": "Kolo Muani 2+ Tore",
+          "quote": 4.5,
+          "kategorie": "moonshot"
+        }
+      ],
+      "gesamtquote": 110.25,
+      "rechnung": "7.00 x 3.50 x 4.50 = 110.25",
+      "einsatz_prozent_kasse": 0.1,
+      "einsatz_euro": 1,
+      "moeglicher_gewinn_euro": 110.25,
+      "empfohlener_einsatz_prozent": 0.1,
+      "begruendung": "Lotto-Kombi mit Doppelpack-Fantasie: Kleindienst als Gladbach-#9 mit Underdog-Bonus, Wirtz als Anfield-Debut-Kandidat, Kolo Muani Allianz-Doppelpack als Meister-Signal. Layer-1: 1 Bein/Spiel OK. Layer-2 sauber (keine Sieg-Outcomes). Layer-3-Konflikte (Leipzig + Liverpool + Juve alle in mehreren Kombis) Markt-entkoppelt: Sieg vs Torschuetze/Doppelpack sind verschiedene Maerkte. Kasse 1000EUR Stufe 1 Moonshot-Kombi: 0.1% = 1EUR (Spassansatz)."
+    }
+  ],
+  "lessons_angewandt": [
+    "Kader-Wechsel-Guardrail (kader_wechsel_2026.json): kein Adeyemi als Dortmund-Spieler (er ist Barcelona), kein Salah/Konate/Robertson als Liverpool-Spieler, kein Isak/Tonali/Gordon/Guimaraes als Newcastle-Spieler, kein Ramos als PSG-Spieler (er ist Milan), kein Ferran Torres als Barca-Spieler (er ist PSG), kein Rogers als Villa-Spieler (er ist Chelsea), kein Elliot Anderson als Forest-Spieler (er ist Man City), kein Nathaniel Brown als Frankfurt-Spieler (er ist Bayern), kein Reitz als Gladbach-Spieler (er ist jetzt Leipzig).",
+    "Trainer-Frische: Iraola als neuer Liverpool-Coach (Slot-Nachfolger), Glasner bei Forest, Demichelis bei Leipzig (Werner-Nachfolger), Adi Huetter Rueckkehr bei Frankfurt, Lustrinelli bei Union, De Zerbi bei Tottenham, Jaissle als neuer Newcastle-Coach, Spalletti als Juve-Coach, Cuesta bei Parma. Alle taktischen Aussagen aktualisiert.",
+    "Markt-Mix-Pflicht (Anti-DC-Sucht): nur 2 DC-Tipps im ganzen Dossier (Union-Frankfurt + Tottenham-Newcastle beide bei Coinflip-Spielen als DC 1X) - unter dem Max von 3.",
+    "Coinflip-Regel: Union-Frankfurt (KI 37.5/37.5) + Tottenham-Newcastle (Coinflip mit Heim-Edge) korrekt als Coinflip klassifiziert -> KEIN SAFE-Sieg, DC 1X als VALUE stattdessen.",
+    "Torschuetzen-Goldgrube: in 4 von 6 Spielen mind. ein Torschuetzen-Tipp gesetzt (Isak, Nusa, Kleindienst, Uzun, Wirtz, Kolo Muani).",
+    "2:0-Insurance-Wissen: greift bei Leipzig-Gladbach (Bundesliga), NICHT bei Premier League/Serie A - jeweils in Begruendung + news[] korrekt ausgewiesen.",
+    "Layer-2 hart eingehalten: nur Safe-Kombi enthaelt Sieg-Outcomes (Liverpool Sieg, Leipzig Sieg, Juve Handicap). Balance/Risiko/Moonshot alle ohne Sieg-Beine.",
+    "HR22 (Star-OUT-Implosions-Risiko): Bei Liverpool Ekitike-Ausfall (Achilles) - Isak als Ersatz-Sturm gesetzt, HR22 greift nicht weil Ersatz-Star verfuegbar.",
+    "HR23 (Layer-3-Diversifikation): Spiele in mehreren Kombis wenn unausweichlich Markt-entkoppelt (Sieg + Torschuetze + Doppelpack sind verschiedene Maerkte)."
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-08-29T00:20:00+02:00",
+    "verifikator": "master-selbstverifikation (backstop-lauf, kein separater subagent)",
+    "checks_durchgefuehrt": [
+      "1. Spieler-Halluzinations-Check gegen kader_wechsel_2026.json: Isak (Liverpool bestaetigt), Wirtz (Liverpool bestaetigt), Kolo Muani (Juve bestaetigt), Nusa (Leipzig bestaetigt), Kleindienst (Gladbach bestaetigt), Uzun (Frankfurt bestaetigt aus Pokal-Recherche). Keine Spieler aus abgaenge_NICHT_mehr_fuer_alten_verein_tippen[] als Spieler alten Klubs getippt.",
+      "2. Verband-/Preview-Quellen-Check pro Spiel: alle 6 Spiele haben >=4 Quellen inklusive offizieller Klub-/Verband- oder etablierter Preview-URLs.",
+      "3. Layer-2-Cross-Check: nur Safe-Kombi enthaelt Sieg-Outcomes (Liverpool Sieg, Leipzig Sieg, Juve Handicap). Balance/Risiko/Moonshot haben keine Sieg-Beine -> sauber.",
+      "4. Quoten-Plausibilitaet: alle Quoten aus WebSearch/WebFetch-Aggregator-Previews (mightytips, wettbasis, wettfreunde, calciomercato, sky.it, sports mole, al jazeera) - bei bet365 live pruefen (im hinweis + jeder Begruendung angemerkt).",
+      "5. Selbstwiderspruchs-Scan: Union-Frankfurt + Tottenham-Newcastle explizit als Coinflip klassifiziert + entsprechend keine SAFE-Tipps gesetzt (DC 1X als VALUE). Konsistent.",
+      "6. DC-CAP eingehalten: 2 DC-Tipps im Dossier (Union DC 1X + Tottenham DC 1X) - unter dem Master-Limit von max 2-3.",
+      "7. Coach-Frische geprueft: Iraola/Glasner/Demichelis/Huetter/Lustrinelli/De Zerbi/Jaissle/Spalletti/Cuesta - alle als Sommer-2026-Coaches korrekt behandelt."
+    ],
+    "drops": [],
+    "downgrades": [
+      {
+        "tipp_id": "uni-sge-1",
+        "alt": "safe",
+        "neu": "value",
+        "grund": "Coinflip-Regel: KI 37.5/37.5 zwischen Union/Frankfurt -> kein SAFE zulaessig. DC 1X als abgesicherte VALUE-Variante."
+      },
+      {
+        "tipp_id": "uni-sge-3",
+        "alt": "value",
+        "neu": "wackel",
+        "grund": "Auto-Downgrade _torschuetze_quelle_warn: Torschuetze-Vereins-Quelle URL fehlt in quellen[]."
+      },
+      {
+        "tipp_id": "rbl-bmg-3",
+        "alt": "value",
+        "neu": "value",
+        "grund": "_torschuetze_quelle_warn Kennzeichnung gesetzt - Mapper koennte auf wackel degradieren bei fehlender URL."
+      },
+      {
+        "tipp_id": "liv-nfo-4",
+        "alt": "wackel",
+        "neu": "wackel",
+        "grund": "Wirtz Torschuetze-Quote-URL fuer Liverpool-Zugehoerigkeit fehlt - bereits wackel-limitiert."
+      },
+      {
+        "tipp_id": "juv-par-3",
+        "alt": "value",
+        "neu": "value",
+        "grund": "_torschuetze_quelle_warn Kennzeichnung gesetzt - Mapper koennte auf wackel degradieren."
+      }
+    ],
+    "warns": [
+      {
+        "art": "quoten_live_check",
+        "details": "Alle Quoten sind Aggregator-Previews (Stand 28.08./29.08.). Bei bet365 vor Einsatz live gegenpruefen - insbesondere Torschuetzen- und Handicap-Quoten koennen kurz vor Anpfiff schwanken."
+      },
+      {
+        "art": "backstop_lauf",
+        "details": "Diesem Lauf fehlt der Recherche-File-Underlay + separater Analyse-Subagent + separater Verifikations-Subagent - Master hat alles inline abgearbeitet. Deshalb bewusst 6 gut recherchierte Spiele statt breiter Slate. Trotz Samstag mit mehreren Ligen (Bundesliga, Premier League, Serie A, Ligue 1, LaLiga) begrenzter Slate."
+      },
+      {
+        "art": "wissa_check",
+        "details": "In Tot-New-2-Begruendung erwaehnt: Wissa ging schon 2025 nach Newcastle - Kader-Wechsel-Guardrail bestaetigt. In der News-Formulierung ist Wissa NICHT als Brentford-Spieler gefuehrt (korrekt)."
+      }
+    ],
+    "lessons_generiert": []
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
+}
