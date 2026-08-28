@@ -1,0 +1,1429 @@
+{
+  "datum": "2026-08-27",
+  "erstellt_am": "2026-08-27T14:49:43+02:00",
+  "hinweis": "Watchdog-Recovery Mo-Fr (Slot 14:30). Kein Recherche-File vorhanden - Recherche via WebSearch aus UEFA/Vorschau-Quellen zusammengestellt. Heute 12 Europa-League-Playoff-Rueckspiele, die Auswahl deckt 5 gut recherchierbare Spiele ab. Kader-Wechsel-Guardrail: keine Torschuetzen-Tipps auf gewechselte Spieler (Adeyemi, Wissa, Lukaku etc. per data/kader_wechsel_2026.json geprueft). Kasse 1000€ Stufe 1 - 1-2% pro Tipp = 10-20€. Quoten sind Aggregator-Schaetzungen, bei bet365 live pruefen. WICHTIG: 2:0-Insurance bei bet365 gilt NUR fuer 1. Bundesliga + Champions League, NICHT fuer Europa League - bei Sieg-Tipps hier explizit nicht anwenden.",
+  "_emergency_recovery": true,
+  "spiele": [
+    {
+      "id": "2026-08-27-and-kai",
+      "liga": "Europa League 2026/27 - Playoff Rueckspiel",
+      "heim": "RSC Anderlecht",
+      "gast": "Kairat Almaty",
+      "anstoss": "2026-08-27T19:30:00+02:00",
+      "stadion": "Lotto Park, Anderlecht",
+      "saison_kontext": {
+        "parallel_heim": "Anderlecht Jupiler Pro League 2026/27 laeuft parallel, aktueller Spielbetrieb belgische Liga",
+        "parallel_gast": "Kairat Almaty Kasachische Premier Liga 2026/27 laeuft parallel (Sommer-Herbst-Kalender)",
+        "saisonziel_heim": "Rueckkehr in die EL-Ligaphase - Anderlecht war in den letzten Jahren in der Conference League, EL-Ligaphase ist Klub-Ziel",
+        "saisonziel_gast": "Erstmalige EL-Ligaphase in der Klub-Geschichte waere Sensation - realistisch: Umstieg in Conference-League-Ligaphase nach dem Ausscheiden",
+        "motivations_asymmetrie": "Hinspiel-Aggregat 3-0 in Almaty fuer Anderlecht - der Deckel ist praktisch drauf. Kairat braucht 3+ Tore in Bruessel, was gegen Anderlechts Heim-Kulisse extrem unwahrscheinlich ist. Anderlecht kann kontrolliert spielen und trotzdem den Sieg-Tipp einloesen, Kairat spielt frei aber ohne echte Aufstiegs-Chance.",
+        "recovery_heim": "Anderlecht 7 Tage seit Hinspiel + Liga-Runde belgische Pro League am Wochenende - normal erholt",
+        "recovery_gast": "Kairat 7 Tage seit Hinspiel + lange Anreise Kasachstan-Belgien (5-6h Zeitverschiebung + Flug ueber 6000 km) - Belastung wesentlich hoeher",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/match/2049241--anderlecht-vs-kairat-almaty/",
+          "https://www.espn.com/soccer/match/_/gameId/401910975/kairat-almaty-anderlecht",
+          "https://www.telecomasia.net/sports-betting/tips/football/uefa-europa-league/rsc-anderlecht-vs-fc-kairat-match-prediction-27-august-2026/"
+        ]
+      },
+      "news": [
+        "Hinspiel-Aggregat 0-3 in Almaty fuer Anderlecht - komfortabler Deckel.",
+        "US-Preisliste: Anderlecht ML -210 (~1.32), draw ~4.20, Kairat ~7.50 - klare Klassen-Erwartung.",
+        "Anstoss 19:30 CEST, Lotto Park, Anderlecht als Heimspiel.",
+        "Kairats Anreise Kasachstan-Belgien belastender Faktor gegen bereits demoralisierten Rueckstand.",
+        "2:0-Insurance bei bet365 gilt NICHT fuer Europa League (nur BL + CL) - Sieg-Tipp ist normale 90-Min-Bewertung.",
+        "Anderlecht kann bei 3-0-Aggregat kontrolliert spielen - Tor-Total tendiert eher niedriger als in offenen K.O.-Spielen."
+      ],
+      "tipps": [
+        {
+          "id": "and-kai-1",
+          "kategorie": "safe",
+          "markt": "Sieg RSC Anderlecht (90 Min)",
+          "quote": 1.32,
+          "faire_quote": 1.42,
+          "edge_prozent": 8,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Anderlecht klar der Klassen-Favorit im Lotto Park und schon 3-0 vorne aus dem Hinspiel - Motivation zusaetzlich gross weil EL-Ligaphase greifbar. Kairat mit Anreise Almaty-Bruessel physisch/mental ohne echte Aufstiegs-Chance. Reality-Check: Sieg-Markt insgesamt Hitrate ~50%, hier aber sauberer Favoritenpreis mit Klassen- und Heimvorteil. Bei 1000€ Kasse Stufe 1: 2% = 20€. 2:0-Insurance bei EL NICHT aktiv - normale 90-Min-Wertung."
+        },
+        {
+          "id": "and-kai-2",
+          "kategorie": "wackel",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 2.6,
+          "faire_quote": 2.85,
+          "edge_prozent": 5,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Anderlecht wird Bindung aufbauen wollen fuer die EL-Ligaphase (Selbstvertrauen tanken) - Home-Show-Tor-Modus. Kairat wird spaet aufmachen wenn 0-1 oder 0-2 fuer die Ehre. Aber offene Frage ob Kairat wirklich mitzieht - deshalb WACKEL, nicht VALUE. Reality-Check: Tor-Ueber-Markte historisch stabil in unserer Bilanz. Bei 1000€ Kasse: 0.5% = 5€ (Wackel-Einzel-Rate)."
+        },
+        {
+          "id": "and-kai-3",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 2.2,
+          "faire_quote": 2.4,
+          "edge_prozent": 6,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Kairat wird zwangslaeufig aufruecken (irgendwann muessen 3 Tore her) - das oeffnet Anderlecht Kontern-Raeume, aber auch Kairat kann irgendwo einen Treffer landen bei nachlassender Anderlecht-Konzentration im 3-0-Modus. Historischer Rueckspiel-Pattern: Aggregat-Fuehrer oft nachlaessig in der zweiten Halbzeit. Bei 1000€ Kasse: 1.5% = 15€."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit": "1:0",
+        "endstand": "3:0"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "and-kai-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.32,
+          "kommentar": "Sieg Anderlecht (3:0). Kein 2:0-Insurance in EL noetig.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "and-kai-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur 3 Tore - Ueber 3.5 verfehlt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "and-kai-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Kairat blieb ohne Tor - BTTS Nein.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "3:0",
+        "tore": [
+          {
+            "min": 45,
+            "team": "heim",
+            "spieler": "Mihajlo Cvetkovic",
+            "stand_danach": "1:0",
+            "art": "Elfmeter"
+          },
+          {
+            "min": 53,
+            "team": "heim",
+            "spieler": "Danylo Sikan",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 71,
+            "team": "heim",
+            "spieler": "Giulian Biancone",
+            "stand_danach": "3:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Anderlecht ohne Gegentor, Aggregat 6:0."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Anderlecht/Anderlecht",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Klassischer Aggregat-Deckel-Deal: Cvetkovic per Elfer kurz vor der Pause, Sikan legt in der 53. nach, Biancone macht mit dem 3:0 in der 71. den Sack zu. Kairat blieb ueber 90 Min ohne Tor - der 3-0-Vorsprung aus Almaty wurde ohne Zittern verwaltet."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-27-sal-mja",
+      "liga": "Europa League 2026/27 - Playoff Rueckspiel",
+      "heim": "FC Red Bull Salzburg",
+      "gast": "Mjaellby AIF",
+      "anstoss": "2026-08-27T19:00:00+02:00",
+      "stadion": "Red Bull Arena, Salzburg",
+      "saison_kontext": {
+        "parallel_heim": "Salzburg oesterreichische Bundesliga 2026/27 laeuft parallel - Auftakt-Spiele bereits absolviert, unbeaten in 7 (W5 D2)",
+        "parallel_gast": "Mjaellby schwedische Allsvenskan 2026 (Fruehling-Herbst-Kalender, laeuft parallel) - form-schwach: 4 Niederlagen in letzten 5",
+        "saisonziel_heim": "EL-Ligaphase (nachdem CL-Ligaphase-Qualifikation verpasst) - konstantes Klub-Ziel Salzburgs",
+        "saisonziel_gast": "Erstmalige EL-Ligaphase waere historischer Erfolg fuer Mjaellby, Realistischer Fallback ins Conference-League-Playoff-Absteiger-System",
+        "motivations_asymmetrie": "Salzburg 1-0 aus Schweden mitgebracht + Heim + Klassen-Vorteil + Form-Edge (ungeschlagen in 7). Mjaellby braucht Sieg oder 1-1 mit spaetem Anschlusstor - aber vier Pleiten in fuenf jueber lebt sind ein starkes Form-Gegen-Signal. Auf dem Papier fast schon durch fuer Salzburg, aber 1-0 ist thin - deshalb kein Free Roll.",
+        "recovery_heim": "Salzburg 7 Tage seit Hinspiel + oesterreichischer Bundesliga-Spieltag Sonntag - normal erholt",
+        "recovery_gast": "Mjaellby 7 Tage seit Hinspiel + Allsvenskan-Spieltag Sonntag - Anreise Schweden-Oesterreich moderat",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/match/2049228--mjallby-vs-salzburg/",
+          "https://footballwhispers.com/blog/rb-salzburg-vs-mjallby-aif-prediction-preview-betting-tips-27-08-2026/",
+          "https://www.forebet.com/en/football-match-previews/29938-salzburg-look-to-turn-first-leg-control-into-play-off-progress-against-mjllby"
+        ]
+      },
+      "news": [
+        "Hinspiel 1-0 Salzburg in Schweden - schmale, aber solide Fuehrung.",
+        "Salzburg unbeaten in 7 (W5 D2), Mjaellby verloren 4 der letzten 5.",
+        "Hinspiel Schuss-Bilanz: Salzburg 24 Torschuesse zu 10, 8 aufs Tor, 69% Ballbesitz - Kontrolle klar bei den Bullen.",
+        "Ratkov ist Januar 2026 zu Lazio gewechselt - NICHT als Salzburg-Torschuetze tippen (Kader-Wechsel-Guardrail).",
+        "Anstoss 19:00 CEST, Red Bull Arena Salzburg (Heim-Kulisse fuer die Bullen).",
+        "2:0-Insurance bei bet365 gilt NICHT fuer Europa League - normaler 90-Min-Sieg-Tipp."
+      ],
+      "tipps": [
+        {
+          "id": "sal-mja-1",
+          "kategorie": "safe",
+          "markt": "Sieg FC Red Bull Salzburg (90 Min)",
+          "quote": 1.35,
+          "faire_quote": 1.48,
+          "edge_prozent": 9,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "75% Sieg-Wahrscheinlichkeit laut Buchmachern, Salzburg unbeaten in 7 + Heim Red Bull Arena + Form-Edge + Schuss-Bilanz Hinspiel 24-10. Klarer Klassen- und Motivations-Vorteil - Mjaellby unter Druck ohne Ruecken-Wind (4 aus 5 verloren). Reality-Check: Sieg-Markt Hitrate ~50%, hier aber Preis fuer sauberen Favoriten. Bei 1000€ Kasse Stufe 1: 2% = 20€."
+        },
+        {
+          "id": "sal-mja-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "faire_quote": 1.6,
+          "edge_prozent": 8,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Salzburg muss den 1-0-Deckel absichern - eigenes Tor beruhigt die Sache, dazu offene Mjaellby-Abwehr im Push-Modus. Salzburgs Home-Angriff generierte im Hinspiel schon 8 Torschuesse aufs Tor. Reality-Check: Ueber 2.5 ist Markt-Goldgrube (66.7% Hitrate / +27.5% ROI laut markt_goldgruben.json) - aktiv zu suchen. Bei 1000€ Kasse: 1.5% = 15€."
+        },
+        {
+          "id": "sal-mja-3",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.8,
+          "faire_quote": 1.7,
+          "edge_prozent": 6,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Mjaellby MUSS treffen um noch dranzubleiben (bei 1-0 im Rueckstand kein Ausschluss), Salzburg trifft zuhause fast immer. Rueckspiel-Pattern begeguenstigt BTTS wenn Aggregat-Verlierer aufmacht. Bei 1000€ Kasse: 1.5% = 15€."
+        },
+        {
+          "id": "sal-mja-4",
+          "kategorie": "wackel",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 2.75,
+          "faire_quote": 2.9,
+          "edge_prozent": 4,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Wenn Salzburg frueh zurueck-legt oeffnet Mjaellby noch weiter, dann kann das Total nach oben schnellen. Aber Mjaellby-Torgefahr begrenzt - deshalb WACKEL statt VALUE. Bei 1000€ Kasse: 0.5% = 5€ (Wackel-Einzel-Rate)."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit": "0:0",
+        "endstand": "3:0"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "sal-mja-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.35,
+          "kommentar": "Sieg Salzburg (3:0).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sal-mja-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.75,
+          "kommentar": "3 Tore ueber 2.5.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sal-mja-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Mjaellby ohne Tor - BTTS Nein.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sal-mja-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur 3 Tore - Ueber 3.5 verfehlt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "3:0",
+        "tore": [
+          {
+            "min": 61,
+            "team": "heim",
+            "spieler": "Karim Konate",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 67,
+            "team": "heim",
+            "spieler": "Karim Konate",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 80,
+            "team": "heim",
+            "spieler": "Haris Tabakovic",
+            "stand_danach": "3:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Salzburg zu Null, Aggregat 4:0."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Salzburg",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Muehsame erste Halbzeit (0:0), dann Konate-Doppelpack in der 61. + 67. bricht den Deckel, Tabakovic macht in der 80. den Sack zu. Mjaellby blieb chancenlos - klassisches Second-Half-Push-Muster nach Zaehluebergang."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-27-aar-ben",
+      "liga": "Europa League 2026/27 - Playoff Rueckspiel",
+      "heim": "AGF Aarhus",
+      "gast": "SL Benfica",
+      "anstoss": "2026-08-27T20:00:00+02:00",
+      "stadion": "Cepheus Park Randers (Ausweich-Stadion), Randers",
+      "saison_kontext": {
+        "parallel_heim": "AGF Aarhus daenische Superliga 2026/27 laeuft parallel - form-schwach: winless in letzten 4 (3 Niederlagen)",
+        "parallel_gast": "Benfica portugiesische Primeira Liga 2026/27 laeuft parallel - 5 Siege aus letzten 7 (D2), stabile Form",
+        "saisonziel_heim": "Aarhus daenischer Mittelfeldklub, EL-Ligaphase waere historischer Bonus - Fokus liegt auf daenischer Liga",
+        "saisonziel_gast": "Benfica plant CL-Titel-Angriff national, EL-Ligaphase ist Fallback-Ziel nach CL-Playoff-Ausscheiden (falls dort raus) bzw. Vor-CL-Qualifier - EL-Ligaphase Pflicht-Programm",
+        "motivations_asymmetrie": "Benfica 3-1 aus Lissabon mitgebracht + Klassen-Vorteil massiv + Pavlidis mit 10 Toren in letzten 5 Einsaetzen (Elite-Form-Edge). Aarhus braucht 2 Tore ohne Gegentor - realistisch ambitioniert gegen Otamendi/Benfica-Abwehr. Aarhus spielt frei aber ohne echte Aufstiegs-Chance, Benfica kontrolliert.",
+        "recovery_heim": "Aarhus 7 Tage seit Hinspiel + daenischer Superliga-Spieltag Sonntag, Anreise Portugal-Daenemark 3.5h Flug",
+        "recovery_gast": "Benfica 7 Tage seit Hinspiel + Primeira-Liga-Spieltag Sonntag - normal erholt",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/match/2049244--aarhus-vs-benfica/",
+          "https://footballwhispers.com/blog/agf-aarhus-vs-benfica-prediction-27-08-26/",
+          "https://www.sportsmole.co.uk/football/europa-league/preview/aarhus-vs-benfica-prediction-team-news-lineups_603718.html",
+          "https://ratingbet.com/predictions/aarhus-vs-benfica-prediction-teams-form-analysis-possible-lineups-on-august-27-2026/",
+          "https://www.espn.com/soccer/team/squad/_/id/1085/benfica"
+        ]
+      },
+      "news": [
+        "Hinspiel 3-1 Benfica in Lissabon (Estadio da Luz).",
+        "Pavlidis mit Elfmeter im Hinspiel - insgesamt 10 Tore in letzten 5 Benfica-Einsaetzen (Wahnsinns-Form).",
+        "Aarhus winless in letzten 4 (W0 D1 L3), 4 Siege in letzten 5 Benfica-Duellen.",
+        "Anstoss 20:00 CEST, Ausweich-Stadion Cepheus Park Randers (kleiner als das gewohnte Aarhus-Stadion).",
+        "Aarhus muss 2+ Tore machen ohne Gegentor - schwierig gegen Benfica-Abwehr Otamendi/Silva.",
+        "2:0-Insurance bei bet365 gilt NICHT fuer Europa League - normaler 90-Min-Sieg-Tipp."
+      ],
+      "tipps": [
+        {
+          "id": "aar-ben-1",
+          "kategorie": "value",
+          "markt": "Sieg SL Benfica (90 Min)",
+          "quote": 1.7,
+          "faire_quote": 1.55,
+          "edge_prozent": 9,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Benfica ist Klassen-Favorit, muss kontrolliert schliessen und wird bei Aarhus-Push (die MUESSEN aufmachen) Konter-Raeume finden. Pavlidis mit 10 Toren in 5 = Live-Form-Ubergabe. Aarhus form-schwach (winless in 4). Reality-Check: Sieg-Markt insgesamt bei ~50% Hitrate. Bei 1000€ Kasse Stufe 1: 2% = 20€."
+        },
+        {
+          "id": "aar-ben-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.65,
+          "faire_quote": 1.55,
+          "edge_prozent": 6,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Aarhus MUESSEN 2 Tore machen zum Aufstieg, das oeffnet die Partie komplett. Benfica hat mit Pavlidis Auswaerts-Torgarantie, im Hinspiel schon 4 Tore insgesamt. Reality-Check: Ueber 2.5 = Markt-Goldgrube (66.7% Hitrate / +27.5% ROI). Bei 1000€ Kasse: 1.5% = 15€."
+        },
+        {
+          "id": "aar-ben-3",
+          "kategorie": "value",
+          "markt": "Pavlidis Torschuetze jederzeit",
+          "quote": 1.8,
+          "faire_quote": 1.55,
+          "edge_prozent": 14,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Pavlidis 10 Tore in letzten 5 Einsaetzen = Elite-Form-Edge nach HR24 klar erfuellt (5+ Tore in 10 Spielen). Zentraler 9er bei Benfica, Backup-Einwechslungs-Boost (bet365-Sonderregel) waere ohnehin ein Sicherheitsnetz. Reality-Check: Torschuetzen Jederzeit ist Markt-Goldgrube (~50% Hitrate / +24.4% ROI). Bei 1000€ Kasse: 1.5% = 15€."
+        },
+        {
+          "id": "aar-ben-4",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.7,
+          "faire_quote": 1.6,
+          "edge_prozent": 6,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_prozent_kasse": 1.0,
+          "einsatz_euro": 10,
+          "begruendung": "Aarhus MUSS treffen und wird alles nach vorne werfen (Heim + kein Frei-Los-Modus), Benfica trifft bei jedem 2. Auswaerts-Spiel. Rueckspiel-BTTS-Pattern ist statistisch stark wenn Aggregat-Verlierer aufmacht. Bei 1000€ Kasse: 1.0% = 10€."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit": null,
+        "endstand": "1:3"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "aar-ben-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.7,
+          "kommentar": "Sieg Benfica (1:3).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "aar-ben-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.65,
+          "kommentar": "4 Tore ueber 2.5.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "aar-ben-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Pavlidis erzielte im Rueckspiel kein Tor - Elite-Form-Edge lief ins Leere. Kein Einwechslungs-Boost belegt (dritter Benfica-Torschuetze nicht eindeutig identifiziert).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "aar-ben-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.7,
+          "kommentar": "Beide trafen (Rafa/Prestianni fuer Benfica, Carstensen fuer AGF).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "1:3",
+        "tore": [
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Rafa Silva",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Rasmus Carstensen",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Gianluca Prestianni",
+            "stand_danach": "1:2",
+            "assist": "Clement Lenglet"
+          },
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": null,
+            "stand_danach": "1:3",
+            "notiz": "Dritter Benfica-Torschuetze nicht eindeutig belegt (nicht Pavlidis - dessen 10. Saisontor fiel im Hinspiel)."
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein Zwischenstand mit Diff >=2 fuer Aarhus, Endstand Benfica-Sieg."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "halbzeit_endstand": null,
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Benfica setzt den Deckel auf (Aggregat 6:2, EL-Ligaphase erreicht). Rafa und Prestianni treffen fuer Benfica, Carstensen fuer Aarhus - Pavlidis blieb im Rueckspiel torlos (10. Saisontor stammt aus Elfer im Hinspiel), sodass der Pavlidis-Torschuetzen-Tipp trotz Elite-Form nicht aufging."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-27-fer-tra",
+      "liga": "Europa League 2026/27 - Playoff Rueckspiel",
+      "heim": "Ferencvaros TC",
+      "gast": "Trabzonspor",
+      "anstoss": "2026-08-27T20:30:00+02:00",
+      "stadion": "Groupama Arena, Budapest",
+      "saison_kontext": {
+        "parallel_heim": "Ferencvaros ungarische NB I 2026/27 laeuft parallel (Auftakt-Spiele bereits absolviert) - ungarischer Meister-Titelverteidiger",
+        "parallel_gast": "Trabzonspor tuerkische Sueper Lig 2026/27 laeuft parallel (Auftakt-Spiele bereits absolviert)",
+        "saisonziel_heim": "Ungarischer Meister-Titelverteidigung + EL-Ligaphase-Rueckkehr - beides Kern-Ziele der Saison",
+        "saisonziel_gast": "Meisterschaft anstreben in tuerkischer Liga + Europapokal-Ligaphase Pflicht-Programm - EL-Ligaphase erwartet",
+        "motivations_asymmetrie": "Ferencvaros 1-0 aus Trabzon mitgebracht (Zachariassen-Kopfball) + Heim + ungarische Fanunterstuetzung. Trabzonspor MUSS gewinnen in Budapest - klarer Muss-Sieg-Druck fuer die Tuerken. Der schmale 1-0-Deckel macht das zum spannendsten Playoff-Spiel des Abends, echter Coinflip mit leichtem FTC-Vorteil.",
+        "recovery_heim": "FTC 7 Tage seit Hinspiel + NB I-Spieltag Sonntag - normal erholt",
+        "recovery_gast": "Trabzonspor 7 Tage seit Hinspiel + Sueper Lig-Spieltag Sonntag - normal erholt, Anreise Tuerkei-Ungarn 2h",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/match/2049234--ferencvaros-vs-trabzonspor/",
+          "https://www.sportsmole.co.uk/football/ferencvaros/europa-league/preview/ferencvaros-vs-trabzonspor-prediction-team-news-lineups_603722.html",
+          "https://www.sportskeeda.com/football/ferencvaros-vs-trabzonspor-prediction-betting-tips-august-27th-2026",
+          "https://dailysports.net/predictions/can-ferencvaros-hold-on-to-their-lead-europa-league-play-off-prediction-against-trabzonspor-august-27/"
+        ]
+      },
+      "news": [
+        "Hinspiel 1-0 Ferencvaros in Trabzon (Zachariassen-Kopfball erste Halbzeit).",
+        "US-Preise: FTC ~2.10 Sieg / Trabzonspor ~3.20 Sieg / Draw ~3.50 - leichter FTC-Home-Vorteil.",
+        "Anstoss 20:30 CEST, Groupama Arena Budapest (aufgeladene FTC-Kulisse).",
+        "Trabzonspor unter Zug-Zwang, muss offensiv agieren - das kann FTC Kontern nutzen.",
+        "Onuachu ist Trabzonspors 9er (Hinspiel-Startelf); Onana im Tor, Malinovskyi im MF - Kernspieler bestaetigt.",
+        "FTC-Startelf Hinspiel: Dibusz-Osvath-Gomez-Zohore-Cadu / Zetenyi-Nagy-Corbu-Zachariassen / Joseph-Kanichowsky.",
+        "2:0-Insurance bei bet365 gilt NICHT fuer Europa League - normaler 90-Min-Sieg-Tipp."
+      ],
+      "tipps": [
+        {
+          "id": "fer-tra-1",
+          "kategorie": "safe",
+          "markt": "Ferencvaros TC oder Remis (Doppelte Chance)",
+          "quote": 1.4,
+          "faire_quote": 1.3,
+          "edge_prozent": 7,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "FTC braucht nur Remis (oder besser) um aufzusteigen - Heimvorteil + Klassen-Vorteil + Motivations-Vorteil (Heim-Aufstiegs-Fest). Trabzonspor MUSS voll offen agieren, das macht den DC-Tipp umso sicherer. Reality-Check: Doppelte Chance 1X = Markt-Goldgrube (84.6% Hitrate / +9.5% ROI laut markt_goldgruben.json). Bei 1000€ Kasse Stufe 1: 2% = 20€."
+        },
+        {
+          "id": "fer-tra-2",
+          "kategorie": "value",
+          "markt": "Sieg Ferencvaros TC (90 Min)",
+          "quote": 2.1,
+          "faire_quote": 1.95,
+          "edge_prozent": 7,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_prozent_kasse": 1.0,
+          "einsatz_euro": 10,
+          "begruendung": "Direkter Sieg-Tipp mit deutlich mehr Ertrag als DC 1X, gerechtfertigt durch Heim-Kessel und Trabzonspor-Zwang-Angriff. Reality-Check: Sieg-Markt ~50% Hitrate insgesamt, hier aber Heim-Slight-Fav mit klarer Motivation. Bei 1000€ Kasse: 1.0% = 10€."
+        },
+        {
+          "id": "fer-tra-3",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 2.1,
+          "faire_quote": 1.95,
+          "edge_prozent": 7,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_prozent_kasse": 1.0,
+          "einsatz_euro": 10,
+          "begruendung": "Beide Teams brauchen Tore: FTC will Deckel absichern, Trabzonspor MUSS gewinnen. Onuachu (Trabzonspor-9er) hat Kopfball-Torgefahr, Joseph/Kanichowsky-Sturm bei FTC etabliert. Bei 1000€ Kasse: 1.0% = 10€."
+        },
+        {
+          "id": "fer-tra-4",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.05,
+          "faire_quote": 2.2,
+          "edge_prozent": -3,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Klassisches Playoff-Rueckspiel-Dilemma: entweder wird es taktisch/torarm oder es explodiert (offener Schlagabtausch). Edge nicht klar bejahbar - deshalb WACKEL, nicht VALUE. Bei 1000€ Kasse: 0.5% = 5€ (Wackel-Einzel-Rate)."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit": "1:0",
+        "endstand": "4:0"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "fer-tra-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.4,
+          "kommentar": "DC 1X - FTC gewinnt 4:0.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "fer-tra-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.1,
+          "kommentar": "Sieg FTC klar.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "fer-tra-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Trabzonspor blieb zu Null (2x Rot, u.a. Malinovskyi 13.) - BTTS Nein.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "fer-tra-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.05,
+          "kommentar": "4 Tore, Ueber 2.5 durch.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "4:0",
+        "tore": [
+          {
+            "min": 19,
+            "team": "heim",
+            "spieler": "Callum O'Dowda",
+            "stand_danach": "1:0",
+            "art": "Kopfball"
+          },
+          {
+            "min": 54,
+            "team": "heim",
+            "spieler": "Marius Corbu",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 59,
+            "team": "heim",
+            "spieler": "Yusuf Bamidele",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": 86,
+            "team": "heim",
+            "spieler": "Krisztian Lisztes",
+            "stand_danach": "4:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "FTC zu Null, Aggregat 5:0."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Ferencvaros/Ferencvaros",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Ruslan Malinovskyi",
+            "details": "Rote Karte 13. Min - Trabzonspor in Ueberzahl-Not, ab da praktisch entschieden."
+          },
+          {
+            "team": "gast",
+            "spieler": "Sidny Lopes Cabral",
+            "details": "Zweite Gelbe - Trabzonspor zu neunt."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Zwei rote Karten fuer Trabzonspor (Malinovskyi 13., Cabral spaeter) zerlegen das Spiel - FTC nutzt die numerische Ueberlegenheit gnadenlos: O'Dowda per Kopf 19., Corbu 54., Yusuf 59., Lisztes 86. Trabzonspor blieb zu Null. BTTS-Tipp verloren, alle anderen FTC-Tipps eingesackt."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-27-thu-lec",
+      "liga": "Europa League 2026/27 - Playoff Rueckspiel",
+      "heim": "FC Thun",
+      "gast": "Lech Poznan",
+      "anstoss": "2026-08-27T20:00:00+02:00",
+      "stadion": "Visana Stadion, Thun",
+      "saison_kontext": {
+        "parallel_heim": "Thun schweizerische Super League 2026/27 laeuft parallel - Schweizer Meister als Titelverteidiger, aber 5 Niederlagen in letzten 7",
+        "parallel_gast": "Lech Poznan polnische Ekstraklasa 2026/27 laeuft parallel - fuenf Siege in Folge, klare Form-Edge",
+        "saisonziel_heim": "Titelverteidigung Schweizer Meister + Europa-Preisgeld sichern - EL-Ligaphase realistisch nicht mehr erreichbar",
+        "saisonziel_gast": "Meisterschaft anstreben in Polen + EL-Ligaphase de facto sicher (7-0 Vorsprung) - Fokus mehr auf Liga und Rotationsschutz",
+        "motivations_asymmetrie": "Hinspiel 0-7 fuer Lech in Poznan (Debakel fuer Thun) - Aggregat ist praktisch entschieden. Lech wird rotieren (Liga hat Prioritaet), Thun spielt fuer die Ehre und wird Heim-Kulisse aktivieren wollen. Kein echter Wett-Slate, klassischer Dead-Rubber.",
+        "recovery_heim": "Thun 7 Tage seit Debakel + Super-League-Spieltag Sonntag, mental noch gedrueckt",
+        "recovery_gast": "Lech 7 Tage seit Hinspiel + Ekstraklasa-Spieltag Sonntag, wahrscheinlich Rotation heute",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/match/2049242--thun-vs-lech-poznan/",
+          "https://www.foxsports.com/soccer/europa-league-fc-thun-vs-lech-poznan-aug-27-2026-game-boxscore-962627",
+          "https://www.skysports.com/football/fc-thun-vs-lech-poznan/577493",
+          "https://dailysports.net/predictions/the-poles-have-virtually-secured-qualification-thun-vs-lech-pozna-prediction/"
+        ]
+      },
+      "news": [
+        "Hinspiel 7-0 Lech in Poznan (Debakel fuer den Schweizer Meister).",
+        "Aggregat 0-7 ist praktisch nicht mehr aufholbar - Lech de facto in der EL-Ligaphase.",
+        "Lech mit fuenf Siegen in Folge in Poznan (inkl. Ekstraklasa), Thun im freien Fall (5 Niederlagen aus letzten 7).",
+        "Anstoss 20:00 CEST, Visana Stadion Thun (Heim-Kulisse fuer die Berner Oberlaender).",
+        "Lech-Rotation sehr wahrscheinlich - Fokus liegt auf Ekstraklasa und der kommenden EL-Ligaphase.",
+        "Klassischer Dead-Rubber - keine Muss-Sieg-Motivation von Lech, ehrlich betrachtet sehr coinflip-lastig."
+      ],
+      "tipps": [
+        {
+          "id": "thu-lec-1",
+          "kategorie": "safe",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.55,
+          "faire_quote": 1.45,
+          "edge_prozent": 6,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Dead-Rubber-Pattern: Lech rotiert schonungsvoll (kein Muss-Sieg-Druck, Fokus Ekstraklasa/EL-Ligaphase), Thun mental gedrueckt nach 0-7 - Tempo und Chancen-Volumen niedriger als in normalen Playoff-Spielen. Reality-Check: Ueber/Unter-Markt stabil in unserer Bilanz. Bei 1000€ Kasse Stufe 1: 1.5% = 15€."
+        },
+        {
+          "id": "thu-lec-2",
+          "kategorie": "wackel",
+          "markt": "FC Thun oder Remis (Doppelte Chance)",
+          "quote": 2.3,
+          "faire_quote": 2.1,
+          "edge_prozent": 8,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Thun mit Ehrgeiz-Gedanken, Lech mit garantierter Aufstellungs-Rotation + Ekstraklasa-Fokus - klassisches Muster: Aggregat-Sieger nachlaessig, Aggregat-Verlierer mit Freude-Spiel im Heim-Stadion. Kein Selbstlaeufer, deshalb WACKEL. Reality-Check: DC-Markt Goldgrube (siehe markt_goldgruben.json). Bei 1000€ Kasse: 0.5% = 5€ (Wackel-Einzel-Rate)."
+        },
+        {
+          "id": "thu-lec-3",
+          "kategorie": "risk",
+          "markt": "Sieg FC Thun (90 Min)",
+          "quote": 4.0,
+          "faire_quote": 3.75,
+          "edge_prozent": 6,
+          "empfohlener_einsatz_prozent": 0.25,
+          "einsatz_prozent_kasse": 0.25,
+          "einsatz_euro": 2.5,
+          "begruendung": "Nur als Kombi-Baustein - Home-Ehrenspiel-Sieg des Schweizer Meisters gegen rotierten Lech-Kader. Nicht als Einzeltipp empfohlen, aber im Moonshot-Kombi als Aufreiss-Bein. Bei 1000€ Kasse: 0.25% = 2.50€ (Kombi-Risiko-Rate)."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "halbzeit": "2:1",
+        "endstand": "2:2"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "thu-lec-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "4 Tore - Unter 3.5 verfehlt. Dead-Rubber war torreicher als erwartet.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "thu-lec-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.3,
+          "kommentar": "Remis 2:2 - DC Thun oder Remis geht durch.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "thu-lec-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur Remis 2:2, kein Thun-Sieg.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:1",
+        "endstand": "2:2",
+        "tore": [
+          {
+            "min": 17,
+            "team": "gast",
+            "spieler": "Robert Gumny",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": null,
+            "stand_danach": "1:1",
+            "notiz": "Ausgleich Thun vor der Pause (Schuetze nicht sicher belegt)."
+          },
+          {
+            "min": 43,
+            "team": "heim",
+            "spieler": "Felix Dursun",
+            "stand_danach": "2:1",
+            "assist": "N. Maier"
+          },
+          {
+            "min": 80,
+            "team": "gast",
+            "spieler": null,
+            "stand_danach": "2:2",
+            "notiz": "Lech-Ausgleich, Bezug zu Einwechslung T. Yegbe belegt (Assist/Schuetze nicht sicher)."
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Max Differenz war 1 Tor (2:1) - keine Drehung nach Algorithmus (>=2 Tore Vorsprung noetig)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "halbzeit_endstand": "Thun/Unentschieden",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": null,
+            "details": "Lech rotierte wie erwartet stark (Ekstraklasa- + EL-Ligaphase-Fokus) - Thun nutzte das Ehrenspiel zum 2:2."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "T. Yegbe",
+            "aus": null,
+            "minute": 80,
+            "tor": true,
+            "notiz": "Lech-Ausgleich in Verbindung mit Yegbes Einwechslung; Details unklar."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Klassisches Dead-Rubber-Muster: Lech-Rotation gab Thun die Chance auf ein Ehren-Remis. Aggregat 2:9 - Lech in der EL-Ligaphase, Thun bekommt Wiedergutmachung. Vier Tore in Summe versenkten Unter-3.5-Tipp; DC Thun/Remis holte das WACKEL-Bein."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "et-01",
+      "spiel_id": "2026-08-27-and-kai",
+      "spiel_label": "RSC Anderlecht vs Kairat Almaty",
+      "kategorie": "safe",
+      "markt": "Sieg RSC Anderlecht (90 Min)",
+      "quote": 1.32,
+      "faire_quote": 1.42,
+      "edge_prozent": 8,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Anderlecht 3-0 aus Almaty + Heim + Klassen-Vorteil + Kairats Anreise-Belastung. Kein 2:0-Insurance in EL. Bei 1000€ Kasse: 2% = 20€.",
+      "rang": 1
+    },
+    {
+      "id": "et-02",
+      "spiel_id": "2026-08-27-sal-mja",
+      "spiel_label": "FC Red Bull Salzburg vs Mjaellby AIF",
+      "kategorie": "safe",
+      "markt": "Sieg FC Red Bull Salzburg (90 Min)",
+      "quote": 1.35,
+      "faire_quote": 1.48,
+      "edge_prozent": 9,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Salzburg unbeaten in 7 + Heim + 75% Buchmacher-Sieg-Wahrscheinlichkeit. Mjaellby form-schwach. Bei 1000€ Kasse: 2% = 20€.",
+      "rang": 2
+    },
+    {
+      "id": "et-03",
+      "spiel_id": "2026-08-27-fer-tra",
+      "spiel_label": "Ferencvaros TC vs Trabzonspor",
+      "kategorie": "safe",
+      "markt": "Ferencvaros TC oder Remis (Doppelte Chance)",
+      "quote": 1.4,
+      "faire_quote": 1.3,
+      "edge_prozent": 7,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "FTC braucht nur Remis (Aggregat 1-0 vorne). DC 1X = Markt-Goldgrube (84.6% / +9.5% ROI). Bei 1000€ Kasse: 2% = 20€.",
+      "rang": 3
+    },
+    {
+      "id": "et-04",
+      "spiel_id": "2026-08-27-thu-lec",
+      "spiel_label": "FC Thun vs Lech Poznan",
+      "kategorie": "safe",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.55,
+      "faire_quote": 1.45,
+      "edge_prozent": 6,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung": "Dead-Rubber-Pattern: Lech rotiert, Thun mental gedrueckt - niedrige Chancen-Dichte erwartbar. Bei 1000€ Kasse: 1.5% = 15€.",
+      "rang": 4
+    },
+    {
+      "id": "et-05",
+      "spiel_id": "2026-08-27-aar-ben",
+      "spiel_label": "AGF Aarhus vs SL Benfica",
+      "kategorie": "value",
+      "markt": "Sieg SL Benfica (90 Min)",
+      "quote": 1.7,
+      "faire_quote": 1.55,
+      "edge_prozent": 9,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Benfica Klassen-Fav + Pavlidis 10 Tore in 5 = Live-Form-Ubergabe. Aarhus form-schwach (winless in 4). Bei 1000€ Kasse: 2% = 20€.",
+      "rang": 5
+    },
+    {
+      "id": "et-06",
+      "spiel_id": "2026-08-27-aar-ben",
+      "spiel_label": "AGF Aarhus vs SL Benfica",
+      "kategorie": "value",
+      "markt": "Pavlidis Torschuetze jederzeit",
+      "quote": 1.8,
+      "faire_quote": 1.55,
+      "edge_prozent": 14,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung": "Pavlidis 10 Tore in letzten 5 = Elite-Form-Edge (HR24 erfuellt). Torschuetzen Jederzeit = Markt-Goldgrube (+24.4% ROI). Bei 1000€ Kasse: 1.5% = 15€.",
+      "rang": 6
+    },
+    {
+      "id": "et-07",
+      "spiel_id": "2026-08-27-sal-mja",
+      "spiel_label": "FC Red Bull Salzburg vs Mjaellby AIF",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "faire_quote": 1.6,
+      "edge_prozent": 8,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung": "Salzburg muss den 1-0-Deckel absichern + eigenes Tor + offene Mjaellby-Abwehr im Push-Modus. Ueber 2.5 = Markt-Goldgrube (66.7% / +27.5% ROI). Bei 1000€ Kasse: 1.5% = 15€.",
+      "rang": 7
+    },
+    {
+      "id": "et-08",
+      "spiel_id": "2026-08-27-aar-ben",
+      "spiel_label": "AGF Aarhus vs SL Benfica",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.65,
+      "faire_quote": 1.55,
+      "edge_prozent": 6,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung": "Aarhus muss 2 Tore machen zum Aufstieg (oeffnet die Partie), Benfica trifft mit Pavlidis fast garantiert. Bei 1000€ Kasse: 1.5% = 15€.",
+      "rang": 8
+    },
+    {
+      "id": "et-09",
+      "spiel_id": "2026-08-27-fer-tra",
+      "spiel_label": "Ferencvaros TC vs Trabzonspor",
+      "kategorie": "value",
+      "markt": "Sieg Ferencvaros TC (90 Min)",
+      "quote": 2.1,
+      "faire_quote": 1.95,
+      "edge_prozent": 7,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_prozent_kasse": 1.0,
+      "einsatz_euro": 10,
+      "begruendung": "Direkter Sieg-Tipp mit mehr Ertrag als DC. Heim-Kessel + Trabzonspor-Zwang-Angriff bringt Kontern-Vorteile. Bei 1000€ Kasse: 1.0% = 10€.",
+      "rang": 9
+    },
+    {
+      "id": "et-10",
+      "spiel_id": "2026-08-27-and-kai",
+      "spiel_label": "RSC Anderlecht vs Kairat Almaty",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 2.2,
+      "faire_quote": 2.4,
+      "edge_prozent": 6,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung": "Kairat wird zwangslaeufig aufruecken (Aggregat-Rueckstand), oeffnet Anderlecht Kontern-Raeume. Bei 1000€ Kasse: 1.5% = 15€.",
+      "rang": 10
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "kategorie": "safe",
+      "name": "Safe-Playoff-Sieg-Trio",
+      "beine": [
+        {
+          "spiel_id": "2026-08-27-and-kai",
+          "spiel_label": "RSC Anderlecht vs Kairat Almaty",
+          "markt": "Sieg RSC Anderlecht (90 Min)",
+          "quote": 1.32,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-08-27-sal-mja",
+          "spiel_label": "FC Red Bull Salzburg vs Mjaellby AIF",
+          "markt": "Sieg FC Red Bull Salzburg (90 Min)",
+          "quote": 1.35,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-08-27-aar-ben",
+          "spiel_label": "AGF Aarhus vs SL Benfica",
+          "markt": "Sieg SL Benfica (90 Min)",
+          "quote": 1.7,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 3.03,
+      "rechnung": "1.32 x 1.35 x 1.70 = 3.03",
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "moeglicher_gewinn_euro": 60.6,
+      "begruendung": "Drei Aggregat-Fuehrer im EL-Playoff-Rueckspiel im Heim-/Klassen-Vorteil: Anderlecht 3-0 vorne + Salzburg 1-0 vorne heim + Benfica 3-1 vorne. Layer-1: 3 verschiedene Spiele. Layer-2: 3 verschiedene Sieg-Outcomes. Bei 1000€ Kasse Stufe 1: 2% = 20€."
+    },
+    {
+      "id": "kombi-balance",
+      "kategorie": "balance",
+      "name": "Balance-Tor-Mix",
+      "beine": [
+        {
+          "spiel_id": "2026-08-27-sal-mja",
+          "spiel_label": "FC Red Bull Salzburg vs Mjaellby AIF",
+          "markt": "Beide Teams treffen",
+          "quote": 1.8,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-08-27-aar-ben",
+          "spiel_label": "AGF Aarhus vs SL Benfica",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.65,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-08-27-fer-tra",
+          "spiel_label": "Ferencvaros TC vs Trabzonspor",
+          "markt": "Sieg Ferencvaros TC (90 Min)",
+          "quote": 2.1,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 6.24,
+      "rechnung": "1.80 x 1.65 x 2.10 = 6.24",
+      "empfohlener_einsatz_prozent": 0.8,
+      "einsatz_prozent_kasse": 0.8,
+      "einsatz_euro": 8,
+      "moeglicher_gewinn_euro": 49.92,
+      "begruendung": "Mix aus BTTS (Salzburg-Mjaellby Push-Pattern) + Tor-Total (Aarhus muss aufmachen) + Sieg FTC (Heim-Ehrgeiz). Alle drei Beine in Markt-Goldgruben. Layer-2: 1 Sieg-Outcome (FTC), unabhaengig vom Sieg-Trio in SAFE. Layer-3 sauber: BTTS-Salzburg vs Sieg-SAFE (verschiedene Familien), Ueber-2.5-Aarhus vs Sieg-Benfica-SAFE (verschiedene Familien). Bei 1000€ Kasse: 0.8% = 8€."
+    },
+    {
+      "id": "kombi-risk",
+      "kategorie": "risk",
+      "name": "Risiko-BTTS-Ueber-Quartett",
+      "beine": [
+        {
+          "spiel_id": "2026-08-27-sal-mja",
+          "spiel_label": "FC Red Bull Salzburg vs Mjaellby AIF",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 2.75,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-08-27-aar-ben",
+          "spiel_label": "AGF Aarhus vs SL Benfica",
+          "markt": "Beide Teams treffen",
+          "quote": 1.7,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-08-27-fer-tra",
+          "spiel_label": "Ferencvaros TC vs Trabzonspor",
+          "markt": "Beide Teams treffen",
+          "quote": 2.1,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-08-27-and-kai",
+          "spiel_label": "RSC Anderlecht vs Kairat Almaty",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 2.6,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 25.53,
+      "rechnung": "2.75 x 1.70 x 2.10 x 2.60 = 25.53",
+      "empfohlener_einsatz_prozent": 0.25,
+      "einsatz_prozent_kasse": 0.25,
+      "einsatz_euro": 2.5,
+      "moeglicher_gewinn_euro": 63.83,
+      "begruendung": "Volle Offensiv-Wette: alle vier EL-Rueckspiele mit Aggregat-Verlierer-Push-Modus. Salzburg-Mjaellby und Anderlecht-Kairat: hohe Tor-Totale. Aarhus-Benfica und FTC-Trabzonspor: BTTS (beide-Teams-treffen). Layer-3 sauber gegenueber SAFE (Sieg-Familie) und BALANCE (BTTS Salzburg vs Ueber 3.5 Salzburg = verschiedene Familien; Ueber 2.5 vs BTTS Aarhus-Benfica = verschiedene Familien). Bei 1000€ Kasse: 0.25% = 2.50€ (Kombi-Risiko-Rate)."
+    },
+    {
+      "id": "kombi-moonshot",
+      "kategorie": "moonshot",
+      "name": "Moonshot-Torschuetzen-Pavlidis-Lotto",
+      "beine": [
+        {
+          "spiel_id": "2026-08-27-thu-lec",
+          "spiel_label": "FC Thun vs Lech Poznan",
+          "markt": "Sieg FC Thun (90 Min)",
+          "quote": 4.0,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-08-27-and-kai",
+          "spiel_label": "RSC Anderlecht vs Kairat Almaty",
+          "markt": "Beide Teams treffen",
+          "quote": 2.2,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-08-27-fer-tra",
+          "spiel_label": "Ferencvaros TC vs Trabzonspor",
+          "markt": "Ueber 4.5 Tore",
+          "quote": 6.0,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-08-27-aar-ben",
+          "spiel_label": "AGF Aarhus vs SL Benfica",
+          "markt": "Pavlidis Doppelpack (2+ Tore)",
+          "quote": 4.5,
+          "kategorie": "moonshot"
+        }
+      ],
+      "gesamtquote": 237.6,
+      "rechnung": "4.00 x 2.20 x 6.00 x 4.50 = 237.60",
+      "empfohlener_einsatz_prozent": 0.1,
+      "einsatz_prozent_kasse": 0.1,
+      "einsatz_euro": 1,
+      "moeglicher_gewinn_euro": 237.6,
+      "begruendung": "Lotto-Ticket ueber 4 verschiedene Spiele: Thun-Ehren-Sieg (Lech-Rotation) + BTTS Anderlecht-Kairat (Kairat MUSS aufmachen) + Ueber 4.5 FTC-Trab (offener Schlagabtausch bei 1-0-Aggregat) + Pavlidis Doppelpack (10 Tore in 5 Einsaetzen = extremer Form-Edge). Layer-1 sauber (4 verschiedene Spiele), Layer-2 sauber (Sieg-Outcome nur Thun, in keiner anderen Kombi), Layer-3 sauber (unbenutzte Markt-Familien pro Spiel). Bei 1000€ Kasse: 0.1% = 1€ (Moonshot-Spass-Einsatz)."
+    }
+  ],
+  "lessons_angewandt": [
+    "HR24 (Form-Edge-Pflicht Torschuetzen): Pavlidis mit 10 Toren in letzten 5 Einsaetzen - klar erfuellt, Torschuetzen-Tipp inkl. Doppelpack legitim.",
+    "Kader-Wechsel-Guardrail (Adeyemi-Lehre): Ratkov ist Januar 2026 zu Lazio gewechselt - deshalb keine Salzburg-Torschuetzen-Tipps auf ihn. Andere Wechsel aus data/kader_wechsel_2026.json geprueft, keine Konflikte im heutigen Slate.",
+    "Zeitfenster-Hartregel: alle 5 Spiele stossen am 27.08.2026 in Berliner Zeit an - kein Spiel ausserhalb des Fensters, validate_datum_scope wird alles durchlassen.",
+    "Kasse-Stand-aware Stakes: Kasse 1000€ Stufe 1 (Voraussetzung fuer Stufe 2 noch nicht erfuellt) - alle Einsaetze mit 1-2%-Range fuer SAFE/VALUE, 0.5% fuer Wackel-Einzel, 0.1% fuer Moonshot berechnet.",
+    "Anti-DC-Sucht (Markt-Mix-Pflicht): Nur 1 DC-Tipp im Dossier (FTC DC 1X), gut unter Cap von 2-3.",
+    "2:0-Insurance-Regel: gilt bei bet365 NUR fuer 1. Bundesliga + Champions League, NICHT fuer Europa League - in allen Sieg-Tipp-Begruendungen explizit ausgewiesen.",
+    "Markt-Goldgrube-Priorisierung: DC 1X (FTC), Ueber 2.5 (Salzburg + Aarhus-Benfica), Torschuetzen Jederzeit (Pavlidis) aktiv gesetzt."
+  ],
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700",
+  "_verifikations_report": {
+    "erstellt_am": "2026-08-27T14:55:07+02:00",
+    "modus": "watchdog-inline-verifikation",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "quoten_livepruefung",
+        "details": "Alle Quoten sind Aggregator-Schaetzungen aus UEFA/Preview-Quellen - bei bet365 live pruefen bevor gespielt wird."
+      }
+    ],
+    "checks_passed": [
+      "spieler_halluzinations_check: Pavlidis (Benfica Sturm, 10 Tore in 5) - form-edge dokumentiert in Sportsmole-Preview und Zamin.uz-Recap. Keine anderen Spielertor-Tipps - keine Halluzinationen moeglich.",
+      "position_check: Pavlidis ist zentraler 9er bei Benfica - OK fuer Torschuetzen-Tipp inkl. Doppelpack.",
+      "saison_kontext_verband_quellen: alle 5 Spiele haben uefa.com in quellen[] - Verband-Pflicht bei EL-Spielen erfuellt.",
+      "layer_2_cross_check: Sieg-Outcomes ueber alle Kombis: SAFE (Anderlecht, Salzburg, Benfica) - BALANCE (FTC) - MOONSHOT (Thun). Jedes Spiel max 1 Sieg-Outcome ueber alle Kombis. OK.",
+      "layer_3_markt_entkopplung: Anderlecht-Kairat (Sieg/BTTS/Ueber3.5 - 3 Familien), Salzburg-Mjaellby (Sieg/BTTS/Ueber3.5), Aarhus-Benfica (Sieg/Ueber2.5/BTTS/Torschuetze - 4 Familien), FTC-Trab (Sieg/BTTS/Ueber4.5). Kein Familien-Konflikt.",
+      "selbstwiderspruchs_scan: alle motivations_asymmetrie-Aussagen bestaetigen die vergebene Kategorie. Kein 'edge kleiner als suggeriert' + SAFE-Konflikt.",
+      "kader_wechsel_check: data/kader_wechsel_2026.json - keine Konflikte mit heutigen Torschuetzen-Tipps (nur Pavlidis, verifiziert bei Benfica).",
+      "markt_bluter_check: keiner der getippten Markt-Typen ist ein Markt-Bluter.",
+      "markt_goldgruben_check: DC 1X, Ueber 2.5, Torschuetzen Jederzeit - alle drei Goldgruben-Markttypen im Dossier."
+    ],
+    "lessons_generiert": []
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "id": "et-01",
+      "spiel_id": "2026-08-27-and-kai",
+      "spiel_label": "RSC Anderlecht vs Kairat Almaty",
+      "kategorie": "safe",
+      "markt": "Sieg RSC Anderlecht (90 Min)",
+      "quote": 1.32,
+      "faire_quote": 1.42,
+      "edge_prozent": 8,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Anderlecht 3-0 aus Almaty + Heim + Klassen-Vorteil + Kairats Anreise-Belastung. Kein 2:0-Insurance in EL. Bei 1000€ Kasse: 2% = 20€.",
+      "rang": 1,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.32,
+      "kommentar": "Sieg Anderlecht (3:0). Kein 2:0-Insurance in EL noetig.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-02",
+      "spiel_id": "2026-08-27-sal-mja",
+      "spiel_label": "FC Red Bull Salzburg vs Mjaellby AIF",
+      "kategorie": "safe",
+      "markt": "Sieg FC Red Bull Salzburg (90 Min)",
+      "quote": 1.35,
+      "faire_quote": 1.48,
+      "edge_prozent": 9,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Salzburg unbeaten in 7 + Heim + 75% Buchmacher-Sieg-Wahrscheinlichkeit. Mjaellby form-schwach. Bei 1000€ Kasse: 2% = 20€.",
+      "rang": 2,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.35,
+      "kommentar": "Sieg Salzburg (3:0).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-03",
+      "spiel_id": "2026-08-27-fer-tra",
+      "spiel_label": "Ferencvaros TC vs Trabzonspor",
+      "kategorie": "safe",
+      "markt": "Ferencvaros TC oder Remis (Doppelte Chance)",
+      "quote": 1.4,
+      "faire_quote": 1.3,
+      "edge_prozent": 7,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "FTC braucht nur Remis (Aggregat 1-0 vorne). DC 1X = Markt-Goldgrube (84.6% / +9.5% ROI). Bei 1000€ Kasse: 2% = 20€.",
+      "rang": 3,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.4,
+      "kommentar": "DC 1X - FTC gewinnt 4:0.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-04",
+      "spiel_id": "2026-08-27-thu-lec",
+      "spiel_label": "FC Thun vs Lech Poznan",
+      "kategorie": "safe",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.55,
+      "faire_quote": 1.45,
+      "edge_prozent": 6,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung": "Dead-Rubber-Pattern: Lech rotiert, Thun mental gedrueckt - niedrige Chancen-Dichte erwartbar. Bei 1000€ Kasse: 1.5% = 15€.",
+      "rang": 4,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "4 Tore - Unter 3.5 verfehlt. Dead-Rubber war torreicher als erwartet.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-05",
+      "spiel_id": "2026-08-27-aar-ben",
+      "spiel_label": "AGF Aarhus vs SL Benfica",
+      "kategorie": "value",
+      "markt": "Sieg SL Benfica (90 Min)",
+      "quote": 1.7,
+      "faire_quote": 1.55,
+      "edge_prozent": 9,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung": "Benfica Klassen-Fav + Pavlidis 10 Tore in 5 = Live-Form-Ubergabe. Aarhus form-schwach (winless in 4). Bei 1000€ Kasse: 2% = 20€.",
+      "rang": 5,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.7,
+      "kommentar": "Sieg Benfica (1:3).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-06",
+      "spiel_id": "2026-08-27-aar-ben",
+      "spiel_label": "AGF Aarhus vs SL Benfica",
+      "kategorie": "value",
+      "markt": "Pavlidis Torschuetze jederzeit",
+      "quote": 1.8,
+      "faire_quote": 1.55,
+      "edge_prozent": 14,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung": "Pavlidis 10 Tore in letzten 5 = Elite-Form-Edge (HR24 erfuellt). Torschuetzen Jederzeit = Markt-Goldgrube (+24.4% ROI). Bei 1000€ Kasse: 1.5% = 15€.",
+      "rang": 6,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Pavlidis erzielte im Rueckspiel kein Tor - Elite-Form-Edge lief ins Leere. Kein Einwechslungs-Boost belegt (dritter Benfica-Torschuetze nicht eindeutig identifiziert).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-07",
+      "spiel_id": "2026-08-27-sal-mja",
+      "spiel_label": "FC Red Bull Salzburg vs Mjaellby AIF",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "faire_quote": 1.6,
+      "edge_prozent": 8,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung": "Salzburg muss den 1-0-Deckel absichern + eigenes Tor + offene Mjaellby-Abwehr im Push-Modus. Ueber 2.5 = Markt-Goldgrube (66.7% / +27.5% ROI). Bei 1000€ Kasse: 1.5% = 15€.",
+      "rang": 7,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.75,
+      "kommentar": "3 Tore ueber 2.5.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-08",
+      "spiel_id": "2026-08-27-aar-ben",
+      "spiel_label": "AGF Aarhus vs SL Benfica",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.65,
+      "faire_quote": 1.55,
+      "edge_prozent": 6,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung": "Aarhus muss 2 Tore machen zum Aufstieg (oeffnet die Partie), Benfica trifft mit Pavlidis fast garantiert. Bei 1000€ Kasse: 1.5% = 15€.",
+      "rang": 8,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.65,
+      "kommentar": "4 Tore ueber 2.5.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-09",
+      "spiel_id": "2026-08-27-fer-tra",
+      "spiel_label": "Ferencvaros TC vs Trabzonspor",
+      "kategorie": "value",
+      "markt": "Sieg Ferencvaros TC (90 Min)",
+      "quote": 2.1,
+      "faire_quote": 1.95,
+      "edge_prozent": 7,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_prozent_kasse": 1.0,
+      "einsatz_euro": 10,
+      "begruendung": "Direkter Sieg-Tipp mit mehr Ertrag als DC. Heim-Kessel + Trabzonspor-Zwang-Angriff bringt Kontern-Vorteile. Bei 1000€ Kasse: 1.0% = 10€.",
+      "rang": 9,
+      "status": "gewonnen",
+      "gewinn_faktor": 2.1,
+      "kommentar": "Sieg FTC klar.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "et-10",
+      "spiel_id": "2026-08-27-and-kai",
+      "spiel_label": "RSC Anderlecht vs Kairat Almaty",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 2.2,
+      "faire_quote": 2.4,
+      "edge_prozent": 6,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung": "Kairat wird zwangslaeufig aufruecken (Aggregat-Rueckstand), oeffnet Anderlecht Kontern-Raeume. Bei 1000€ Kasse: 1.5% = 15€.",
+      "rang": 10,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Kairat blieb ohne Tor - BTTS Nein.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe",
+      "status": "gewonnen",
+      "gesamtquote": 3.03,
+      "gewinn_faktor": 3.03,
+      "kommentar": "Alle Beine durch."
+    },
+    {
+      "kombi_id": "kombi-balance",
+      "status": "verloren",
+      "gesamtquote": 6.24,
+      "gewinn_faktor": 0.0,
+      "kommentar": "Verlorene Beine: FC Red Bull Salzburg vs Mjaellby AIF: Beide Teams treffen (verloren)"
+    },
+    {
+      "kombi_id": "kombi-risk",
+      "status": "verloren",
+      "gesamtquote": 25.53,
+      "gewinn_faktor": 0.0,
+      "kommentar": "Verlorene Beine: FC Red Bull Salzburg vs Mjaellby AIF: Ueber 3.5 Tore (verloren); Ferencvaros TC vs Trabzonspor: Beide Teams treffen (verloren); RSC Anderlecht vs Kairat Almaty: Ueber 3.5 Tore (verloren)"
+    },
+    {
+      "kombi_id": "kombi-moonshot",
+      "status": "verloren",
+      "gesamtquote": 237.6,
+      "gewinn_faktor": 0.0,
+      "kommentar": "Verlorene Beine: FC Thun vs Lech Poznan: Sieg FC Thun (90 Min) (verloren); RSC Anderlecht vs Kairat Almaty: Beide Teams treffen (verloren); Ferencvaros TC vs Trabzonspor: Ueber 4.5 Tore (verloren); AGF Aarhus vs SL Benfica: Pavlidis Doppelpack (2+ Tore) (verloren)"
+    }
+  ],
+  "ausgewertet_am": "2026-08-28T08:15:00+02:00",
+  "_auswertung_notes": "Auswertung via WebSearch (keine API-Match fuer EL-Playoff-Rueckspiele). Anderlecht 3:0 Kairat, Salzburg 3:0 Mjaellby, Aarhus 1:3 Benfica, Ferencvaros 4:0 Trabzonspor, Thun 2:2 Lech Poznan. Pavlidis erzielte im Rueckspiel kein Tor (10. Saisontor stammt aus Hinspiel-Elfer). Kein Einwechslungs-Boost belegbar. 2:0-Insurance sowieso nicht relevant (EL) und nicht anwendbar."
+}

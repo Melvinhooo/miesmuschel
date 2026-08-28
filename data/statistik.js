@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-08-27T07:07:02+00:00",
+  "letzte_berechnung": "2026-08-28T06:15:20+00:00",
   "gesamt": {
     "tipps": 429,
     "gewonnen": 222,
@@ -13,15 +13,15 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 7.3
   },
   "letzte_30_tage": {
-    "tipps": 178,
-    "gewonnen": 83,
-    "verloren": 83,
+    "tipps": 169,
+    "gewonnen": 80,
+    "verloren": 77,
     "push": 1,
     "offen": 11,
-    "einsatz": 167.0,
-    "netto": 33.8,
-    "trefferquote": 50.0,
-    "roi_prozent": 20.2
+    "einsatz": 158.0,
+    "netto": 27.76,
+    "trefferquote": 51.0,
+    "roi_prozent": 17.6
   },
   "letzte_90_tage": {
     "tipps": 415,
@@ -4297,6 +4297,143 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-08-27",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Playoff-Sieg-Trio",
+          "kategorie": "safe",
+          "gesamtquote": 3.03,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg RSC Anderlecht (90 Min)",
+              "quote": 1.32,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg FC Red Bull Salzburg (90 Min)",
+              "quote": 1.35,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg SL Benfica (90 Min)",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Tor-Mix",
+          "kategorie": "balance",
+          "gesamtquote": 6.24,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Ferencvaros TC (90 Min)",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-BTTS-Ueber-Quartett",
+          "kategorie": "risk",
+          "gesamtquote": 25.53,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 2.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 2.6,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Torschuetzen-Pavlidis-Lotto",
+          "kategorie": "moonshot",
+          "gesamtquote": 237.6,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg FC Thun (90 Min)",
+              "quote": 4.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 4.5 Tore",
+              "quote": 6.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Pavlidis Doppelpack (2+ Tore)",
+              "quote": 4.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-08-26",
       "gesamt": {

@@ -2729,6 +2729,43 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "Verlaengerungs-Falle 1X2-Markt CL-Playoff-Rueckspiel 8b-8h",
       "lesson": "HR08-27-4 Celje-Slovan-Bratislava-Rueckspiel: Slovan gewinnt 1:2 nach Verlaengerung (agg 2:3), zieht in Ligaphase ein. Aber ALLE 1X2-Wetten (Sieg Celje 90 Min @ 2.35 UND Sieg Slovan 90 Min @ 3.00) waren VERLOREN weil 1X2/DC bei bet365 nur die regulaeren 90 Minuten werten und der 90-Min-Stand ein Remis war (sonst keine ET). Doppelte Nieder-Faktoren-Bilanz: 2 Wackel/Risk-Tipps auf beide Seiten des Coinflip liefen beide gegen die Regel. Regel-Anwendung: bei CL-Playoff-Rueckspiel mit engem Aggregat (Hinspiel-Diff <=1 Tor) NICHT mehr Sieg-Tipp @ 90 Min setzen - stattdessen 'Aufsteiger-Ligaphase' als Sonderwette (falls angeboten) oder Doppelte-Chance (X inklusive) statt 1X2. Hartregel-Kandidat: Bei allen 2-Legs-K.O.-Rueckspielen mit Aggregat-Diff <= 1 Tor ist der 1X2-Markt @ 90 Min der schwaechste zu spielende Markt - stattdessen DC + Toten-Zaehl-Markt.",
       "bezug_spiel_id": "2026-08-26-cel-slo"
+    },
+    {
+      "datum": "2026-08-27",
+      "erstellt_am": "2026-08-28T08:20:00+02:00",
+      "kategorie": "Rueckspiel-BTTS-Falle bei Aggregat-Deckel 8c-8g",
+      "lesson": "HR08-27B-1 EL-Playoff-Rueckspiele 27.08.: 3 der 4 BTTS-Tipps verloren (Anderlecht-Kairat 3:0, Salzburg-Mjaellby 3:0, FTC-Trab 4:0), nur Aarhus-Benfica traf (1:3). Muster: Aggregat-Fuehrer verwaltet zu Null, Aggregat-Verlierer scheitert am Muss-Push. BTTS in Rueckspielen mit Aggregat-Vorsprung >=2 Tore statistisch schwach - kuenftig max WACKEL, nie VALUE/SAFE. Ausnahme greift eher bei 1-Tor-Vorsprung Rueckspielen (Salzburg-Mjaellby war 1:0 - Mjaellby trotzdem torlos, aber Aarhus-Benfica als 3:1 aggregat hatte AGF trotzdem einen Treffer). Anwendung: BTTS in KO-Rueckspielen an das Hinspiel-Ergebnis koppeln.",
+      "bezug_spiel_id": [
+        "2026-08-27-and-kai",
+        "2026-08-27-sal-mja",
+        "2026-08-27-fer-tra",
+        "2026-08-27-aar-ben"
+      ]
+    },
+    {
+      "datum": "2026-08-27",
+      "erstellt_am": "2026-08-28T08:20:00+02:00",
+      "kategorie": "Torschuetzen-Form-Edge im K.o.-Rueckspiel begrenzt 8c-8i",
+      "lesson": "HR08-27B-2 Pavlidis (10 Tore in letzten 5, HR24-Elite-Form) blieb im Rueckspiel Aarhus-Benfica torlos - Rafa Silva und Prestianni trafen fuer Benfica, Pavlidis nicht. Grund: bei komfortablem Aggregat-Deckel (3:1) verwaltet der Fuehrer, der Star-9er hat weniger Aussicht auf Aktionen. Elite-Form ist keine Torgarantie bei Ergebnis-Absicherung. Kuenftig: Torschuetzen-Tipps auf Elite-Form-Stuermer im Rueckspiel-Deckel-Kontext eine Stufe herunter (VALUE statt SAFE, oder WACKEL). Einwechslungs-Boost griff nicht - dritter Benfica-Torschuetze nicht eindeutig identifiziert, sicher nicht Pavlidis' Direktersatz.",
+      "bezug_spiel_id": "2026-08-27-aar-ben"
+    },
+    {
+      "datum": "2026-08-27",
+      "erstellt_am": "2026-08-28T08:20:00+02:00",
+      "kategorie": "Dead-Rubber-Torflut statt Torarmut 8g",
+      "lesson": "HR08-27B-3 Thun-Lech Poznan 2:2 (Aggregat 2:9 - klassischer Dead-Rubber, Lech rotierte stark). Unter-3.5-Tipp (SAFE) verloren mit 4 Toren. Erwartete niedrige Chancen-Dichte in Rotations-Spielen trat NICHT ein - im Gegenteil: Lech-Rotation gab Thun offene Raeume, Ehrenspiel-Modus fuehrte zu mehr Toren, nicht weniger. Kuenftig: Dead-Rubbers mit garantierter Rotation NICHT automatisch als Unter-Tore-Kandidat behandeln. Rotationsmuster sind torreicher als Volle-Kader-Spiele weil junge/reservierte Spieler weniger diszipliniert verteidigen.",
+      "bezug_spiel_id": "2026-08-27-thu-lec"
+    },
+    {
+      "datum": "2026-08-27",
+      "erstellt_am": "2026-08-28T08:20:00+02:00",
+      "kategorie": "Aggregat-Fuehrer-Sieg-Cluster in EL-Rueckspiel 8f",
+      "lesson": "HR08-27B-4 EL-Playoff-Rueckspiele 27.08.: alle 3 auf Aggregat-Fuehrer-Sieg gesetzten SAFE/VALUE-Tipps durch (Anderlecht 3:0 nach 3:0-Hinspiel; Salzburg 3:0 nach 1:0; Benfica 3:1 nach 3:1). Aggregat-Fuehrer mit Heim-Bonus im Rueckspiel ist strukturell SAFE - gilt fuer alle drei Konstellationen (klarer Deckel wie 3:0, knapper Deckel wie 1:0, komfortabler Deckel wie 3:1). Kuenftig: bei EL-Rueckspielen den Aggregat-Fuehrer als Sieg-Bein aktiv suchen (Kombi-SAFE-Bein-Kandidat).",
+      "bezug_spiel_id": [
+        "2026-08-27-and-kai",
+        "2026-08-27-sal-mja",
+        "2026-08-27-aar-ben"
+      ]
     }
   ]
 };
