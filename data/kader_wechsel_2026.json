@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-27T08:00:00+02:00",
+  "stand": "2026-08-29T08:15:00+02:00",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -317,6 +317,15 @@
       "von": "AC Milan",
       "hinweis": "Zentraler 9er bei AEK Athens Saison 2026/27. Traf am 26.08. gegen Levski Sofia (CL-Playoff-Rueckspiel) in der 7. Minute das 1:0, davor Liga-Doppelpack gegen Iraklis. Auswertungsroutine 27.08. bestaetigt AEK-Zugehoerigkeit fuer die Saison 2026/27.",
       "quelle": "https://www.sofascore.com/news/aek-athens-vs-levski-sofia-playoff-second-leg-preview"
+    },
+    {
+      "spieler": "Yassir Zabiri",
+      "nach": "Racing Santander",
+      "von": "Stade Rennais (Leihe)",
+      "datum": "2026-07",
+      "hinweis": "Marokkanischer 20-jaehriger Stuermer, U20-Weltmeister 2025 mit Marokko. Kam per Leihe von Rennes bis 30.06.2027 zu LaLiga-Aufsteiger Racing Santander. Schoss am 28.08.2026 im Sardinero gegen Elche einen Hattrick in 21 Minuten (15./20./36.) beim 3:2-Sieg. Racing-Torschuetze-Option Nr. 1, nicht Villalibre. Dieser Eintrag entstand aus der Auswertungsroutine 29.08. - Tool hatte Zabiri gar nicht auf dem Radar.",
+      "quelle": "https://www.moroccoworldnews.com/2026/07/331925/racing-santander-sign-moroccos-yassir-zabiri-on-loan-from-rennes/",
+      "stand": "2026-08-29"
     }
   ],
   "trainer_2026_27": [

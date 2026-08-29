@@ -1,0 +1,1393 @@
+{
+  "datum": "2026-08-28",
+  "erstellt_am": "2026-08-28T01:10:00+02:00",
+  "hinweis": "Safety-Net Backstop-Lauf: Haupt-Routine + Watchdog haben heute nicht geliefert, deshalb dieses schlanke, ehrliche Dossier. Kein Recherche-File vorhanden - Slate + Quoten per WebSearch/WebFetch aus Preview-Aggregatoren zusammengestellt (bei bet365 live gegenpruefen). Bewusst nur 4 gut recherchierbare Spiele statt breiter Slate: Bundesliga-Auftakt Bayern-Stuttgart (20:30, 2:0-Insurance greift), Serie-A-Auftakt-Auftakt Milan-Venezia (20:45), Ligue-1-Kracher Lille-PSG (20:45), LaLiga-Aufsteiger-Duell Racing-Elche (19:00). Kader-Wechsel-Guardrail: Woltemade nicht als Stuttgart-Torschuetze (Newcastle), Ramos jetzt Milan (nicht PSG), Torres jetzt PSG (nicht Barcelona), Adeyemi Barcelona (nicht Dortmund). Kasse 1000EUR Stufe 1 -> 1-2% pro Tipp = 10-20EUR. 2:0-Insurance bei bet365 gilt NUR fuer Bundesliga + CL (also nur Bayern-Stuttgart), NICHT fuer Serie A/Ligue 1/LaLiga.",
+  "_emergency_recovery": true,
+  "_backstop_lauf": true,
+  "spiele": [
+    {
+      "id": "2026-08-28-bay-stu",
+      "liga": "Bundesliga 2026/27 - 1. Spieltag",
+      "heim": "FC Bayern Muenchen",
+      "gast": "VfB Stuttgart",
+      "anstoss": "2026-08-28T20:30:00+02:00",
+      "stadion": "Allianz Arena, Muenchen",
+      "saison_kontext": {
+        "parallel_heim": "Bayern: DFL-Supercup 22.08. gegen Dortmund gewonnen, sonst Saisonauftakt - CL-Ligaphase startet erst 16./17. September. Diese Woche ohne parallelen Wettbewerb.",
+        "parallel_gast": "Stuttgart: DFB-Pokal-Erstrunde bereits absolviert, CL-Ligaphase startet Mitte September (Stuttgart als Vize-Meister/Pokal-Sieger 2025/26 fuer CL qualifiziert). Diese Woche ohne parallelen Wettbewerb.",
+        "saisonziel_heim": "Titelverteidigung Bundesliga (Meister 2025/26 mit 16 Punkten Vorsprung, DFB-Pokal-Sieger 3:0 gegen Stuttgart). Kompany-Ziel: 14. Titel in 15 Jahren.",
+        "saisonziel_gast": "Champions-League-Quali sichern (CL-Startplatz aus 2025/26 verteidigen). Hoeness weiter Trainer.",
+        "motivations_asymmetrie": "Bayern nach Supercup-Sieg gegen BVB in klarer Form + Heim-Auftakt vor voller Allianz Arena + Neuauflage des Pokalfinals (Mai, 3:0 fuer Bayern). Stuttgart mit langer Ausfall-Liste (Fuehrich, Zagadou, Assignon, Jaquez u.a.) und ohne Torjaeger Woltemade (Sommer 2025 fuer 65 Mio Euro zu Newcastle) im deutlich schwaecheren Kader-Zustand. Klarer Klassen- und Motivations-Edge fuer Bayern.",
+        "recovery_heim": "6 Tage seit Supercup (22.08. vs BVB 2:1) - normale Erholung, keine europaeische Belastung diese Woche.",
+        "recovery_gast": "6-7 Tage seit DFB-Pokal-Erstrunde - normale Erholung, keine europaeische Belastung.",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/news/spielplan-saison-start-termine-daten-2026-27-22043",
+          "https://www.goal.com/en/news/bayern-munich-vfb-stuttgart-bundesliga-preview/blt77065a4a79dafae7",
+          "https://www.mightytips.com/football-predictions/bayern-munich-vs-stuttgart-prediction-28-08-2026/",
+          "https://www.bundesliga.com/en/bundesliga/news/nick-woltemade-vfb-stuttgart-permission-transfer-negotiation-33729"
+        ]
+      },
+      "news": [
+        "Bundesliga-Auftakt 2026/27, Neuauflage des Pokalfinals vom Mai (3:0 fuer Bayern).",
+        "Bayern in klarer Form: Meister 2025/26 mit 16 Punkten Vorsprung, dazu DFB-Pokal-Sieger, Supercup-Sieg 2:1 gegen BVB am 22.08.",
+        "Musiala verletzt (out), Gnabry, Karl, Zaragoza, Buchmann ebenfalls out - Kompany rotiert Diaz + Olise um Kane.",
+        "Stuttgart: Woltemade seit Sommer 2025 bei Newcastle (65 Mio Euro Ablose), Fuehrich, Zagadou, Assignon, Jaquez, Sauer u.a. verletzt - Undav muss die Sturm-Buerde tragen.",
+        "2:0-Insurance bei bet365 GREIFT (Bundesliga-Aktionsregel, gilt fuer 1.BL + CL) - macht den Bayern-Sieg-Tipp zusaetzlich robust.",
+        "H2H: Bayern gewann 8 der letzten 9 Duelle, Stuttgart nur 1x."
+      ],
+      "tipps": [
+        {
+          "id": "bay-stu-1",
+          "kategorie": "safe",
+          "markt": "Sieg FC Bayern Muenchen (90 Min)",
+          "quote": 1.24,
+          "faire_quote": 1.28,
+          "edge_prozent": 3,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Bayern klarer Klassen- und Form-Favorit im Heim-Auftakt: Meister 2025/26 mit 16 Punkten Vorsprung, DFB-Pokal-Sieg 3:0 gegen genau Stuttgart im Mai, Supercup-Sieg 2:1 gegen BVB am 22.08. Stuttgart mit Ausfall-Liste + ohne Woltemade seit Newcastle-Wechsel deutlich schwaecher als in der Meister-Saison. 2:0-Insurance bei bet365 greift zusaetzlich (Bundesliga) - wenn Bayern zwischenzeitlich 2:0 fuehrt, ist der Tipp durch. Kasse 1000EUR Stufe 1: 2% = 20EUR."
+        },
+        {
+          "id": "bay-stu-2",
+          "kategorie": "value",
+          "markt": "Harry Kane Torschuetze jederzeit",
+          "quote": 1.35,
+          "faire_quote": 1.45,
+          "edge_prozent": 7,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Kane hat in der Meister-Saison 25/26 knapp 40 Pflichtspiel-Tore fuer Bayern erzielt und war schon im Pokalfinale 3:0 gegen Stuttgart doppelt beteiligt. Bayern-Auftakt zu Hause + Musiala-Ausfall bedeutet noch mehr Ball fuer Kane, Stuttgart-Defensive ohne Zagadou dezimiert. Markt-Goldgrube laut data/markt_goldgruben.json (Torschuetzen Jederzeit +24.4% ROI). Einwechslungs-Boost: sollte Kane frueh raus, zaehlen Tore des Ersatzstuermers - zusaetzliche Sicherheit. Kasse 1000EUR Stufe 1: 1.5% = 15EUR."
+        },
+        {
+          "id": "bay-stu-3",
+          "kategorie": "value",
+          "markt": "Bayern -1.5 Handicap (Bayern muss mit 2+ Toren Diff gewinnen)",
+          "quote": 1.6,
+          "faire_quote": 1.72,
+          "edge_prozent": 7,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Pokalfinal-Historie mit Stuttgart: 3:0 im Mai. Bayern zu Hause im Auftakt tendiert zu klaren Ergebnissen (letzter Heim-Auftakt Bayern-RBL 6:0 in 2024/25), Kane in Torlaune. Stuttgart-Defensive mit Ausfaellen. Reality-Check: bei einem klaren Sieg-Favoriten mit Quote 1.24 impliziert bet365 selbst ca. 65-70% Wahrscheinlichkeit fuer +2-Sieg - Quote 1.60 dafuer ist fair bis leicht value. Kasse 1000EUR Stufe 1: 1.5% = 15EUR."
+        },
+        {
+          "id": "bay-stu-4",
+          "kategorie": "wackel",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 1.75,
+          "faire_quote": 1.9,
+          "edge_prozent": 4,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Bayern-Auftakt-Historie tendiert zu Torfestivals, Stuttgart-Defensive ausgeduennt (Zagadou, Assignon out). Aber wackel weil 4+ Tore nicht garantiert sind, wenn Bayern nach frueher Fuehrung Tempo rausnimmt. Reality-Check: Ueber 2.5 laege bei ~1.20 (SAFE), Ueber 3.5 ist die risikoreichere Variante mit Preis-Aufschlag. Kasse 1000EUR Stufe 1: Wackel = 0.5% = 5EUR."
+        },
+        {
+          "id": "kombi-risiko--Harry_Kane_2+_Tore",
+          "kategorie": "risk",
+          "markt": "Harry Kane 2+ Tore",
+          "quote": 3.5,
+          "einsatz_prozent_kasse": 0,
+          "einsatz_euro": 0,
+          "begruendung": "Synthetisches Kombi-Bein von kombi-risiko - nur fuer Kombi-Auswertung.",
+          "_synthetic_kombi_bein": true
+        },
+        {
+          "id": "kombi-moonshot--Harry_Kane_Hattrick",
+          "kategorie": "moonshot",
+          "markt": "Harry Kane Hattrick",
+          "quote": 8.0,
+          "einsatz_prozent_kasse": 0,
+          "einsatz_euro": 0,
+          "begruendung": "Synthetisches Kombi-Bein von kombi-moonshot - nur fuer Kombi-Auswertung.",
+          "_synthetic_kombi_bein": true
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand_heim": 5,
+        "endstand_gast": 1,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 0
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "bay-stu-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.24,
+          "kommentar": "Bayern 5:1 - klarer Sieg (2:0-Insurance greift, aber irrelevant, Bayern zog ohnehin weg).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bay-stu-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Kane blank; wurde ca. 63. fuer Lennart Karl ausgewechselt, Karl auch ohne Tor -> Einwechslungs-Boost greift nicht.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bay-stu-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.6,
+          "kommentar": "Bayern gewann 5:1, Handicap -1.5 gedeckt (Diff +4).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bay-stu-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "kommentar": "Endstand 5:1 = 6 Tore, Ueber 3.5 klar durch.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "kombi-risiko--Harry_Kane_2+_Tore",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Kane hat gar nicht getroffen, geschweige denn 2 Tore.",
+          "_synthetic_kombi_bein": true
+        },
+        {
+          "tipp_id": "kombi-moonshot--Harry_Kane_Hattrick",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Kane blank.",
+          "_synthetic_kombi_bein": true
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "5:1",
+        "tore": [
+          {
+            "min": 21,
+            "team": "heim",
+            "spieler": "Dayot Upamecano",
+            "stand_danach": "1:0",
+            "assist": "Joshua Kimmich (Ecke)"
+          },
+          {
+            "min": 52,
+            "team": "gast",
+            "spieler": "Josha Vagnoman",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 55,
+            "team": "heim",
+            "spieler": "Michael Olise",
+            "stand_danach": "2:1",
+            "assist": "Joshua Kimmich"
+          },
+          {
+            "min": 58,
+            "team": "heim",
+            "spieler": "Josha Vagnoman (Eigentor)",
+            "stand_danach": "3:1",
+            "assist": "Alphonso Davies (Flanke)"
+          },
+          {
+            "min": 82,
+            "team": "heim",
+            "spieler": "Aleksandar Pavlovic",
+            "stand_danach": "4:1",
+            "assist": "Ismael Saibari"
+          },
+          {
+            "min": 92,
+            "team": "heim",
+            "spieler": "Luis Diaz",
+            "stand_danach": "5:1",
+            "assist": "Ismael Saibari"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Bayern fuehrt durchgehend, Stuttgart glich nur einmal zum 1:1 aus (Diff max 1), danach zog Bayern klar weg."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Bayern/Bayern",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Musiala",
+            "details": "verletzt, out - Kompany rotierte mit Diaz und Olise um Kane herum"
+          },
+          {
+            "team": "gast",
+            "spieler": "Woltemade",
+            "details": "seit Sommer 2025 bei Newcastle - Stuttgart-Sturm um Undav ohne echten 9er"
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Ismael Saibari",
+            "aus": "unbekannt (ca. 60.)",
+            "minute": 60,
+            "tor": false,
+            "assists": 2,
+            "details": "Bundesliga-Debut: 30 Min Einsatz, 2 Assists (Pavlovic 82', Diaz 92') - dominanter Impact als Joker"
+          },
+          {
+            "team": "heim",
+            "ein": "Lennart Karl",
+            "aus": "Harry Kane",
+            "minute": 63,
+            "tor": false,
+            "details": "Karl kam fuer Kane rein - Karl blieb blank, Einwechslungs-Boost fuer Kane-Tipp greift NICHT"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Kane blank im Auftakt trotz Volumen-9er-Rolle - fuer den Torschuetzen-Tipp bitter, aber der 2:0-Insurance-Rueckhalt spielte fuer den Sieg-Tipp keine Rolle (Bayern zog ohnehin weg).",
+          "Saibari-Debut mit 2 Assists in 30 Minuten - stiller Held des Auftakts. Bayern-Bank-Tiefe zeigt sich sofort.",
+          "Vagnoman scored und Eigentor im selben Spiel - Rueckhalt fuer den Stuttgart-Sieg-Versuch zerfaellt in wenigen Minuten."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-28-mil-ven",
+      "liga": "Serie A 2026/27 - 2. Giornata",
+      "heim": "AC Milan",
+      "gast": "Venezia FC",
+      "anstoss": "2026-08-28T20:45:00+02:00",
+      "stadion": "Stadio Giuseppe Meazza (San Siro), Milano",
+      "saison_kontext": {
+        "parallel_heim": "Milan: keine europaeischen Wettbewerbe 2026/27 (Platz 5 in 2025/26 verpasste CL/EL, nur Coppa-Italia-Belastung, aber Coppa-Runden fuer Serie-A-Klubs starten spaeter). Auftakt 23.08. 2:1 in Turin gewonnen.",
+        "parallel_gast": "Venezia: Aufsteiger aus Serie B (Meister 25/26 unter Stroppa), keine europaeischen Wettbewerbe. Auftakt 24.08. 0:2-Heimniederlage gegen Lecce.",
+        "saisonziel_heim": "Champions-League-Quali-Rueckkehr (Ziel Top 4). Amorim seit 14.08. als neuer Trainer - taktischer Neustart mit 3-4-2-1. Platz 5 in 25/26 war unter Erwartung.",
+        "saisonziel_gast": "Klassenerhalt in Serie A 2026/27. Als Aufsteiger klar Abstiegs-Kandidat, Stroppa verlaengerte im Juli auf 2029.",
+        "motivations_asymmetrie": "Milan mit Amorim-Neustart + Ramos als neuer #9 (aus PSG) + San-Siro-Heimkulisse + Turin-Sieg im Auftakt (Selbstvertrauen) - Venezia frisch aus Serie B ohne CL/EL-Belastung aber auch ohne die Qualitaet, um in San Siro zu bestehen. Auftakt-Formkurve: Milan 3 Punkte, Venezia 0 Punkte + 0:2 zu Hause gegen Lecce (defensiv fragil). Klarer Klassen- und Motivations-Edge fuer Milan.",
+        "recovery_heim": "5 Tage seit Torino-Auswaerts-Sieg (23.08.), keine europaeische Belastung, normale Regeneration.",
+        "recovery_gast": "4 Tage seit Lecce-Heimniederlage (24.08.), keine europaeische Belastung. Zusaetzliche Reise Venedig-Mailand aber kurz (~3h Bahn/Bus).",
+        "quellen": [
+          "https://sport.sky.it/calcio/serie-a/2026/08/27/serie-a-giornata-2-presentazione-partite",
+          "https://www.corrieredellosport.it/live/calendario-serie-a",
+          "https://www.acmilan.com/en/news/articles/media/2026-06-16/ac-milan-appoints-ruben-amorim-as-head-coach-of-the-men-s-first-team",
+          "https://en.veneziafc.it/news/giovanni-stroppa-extends-his-contract",
+          "https://www.assopoker.com/scommesse/pronostico-serie-a-milan-venezia-28-agosto-2026_457968/"
+        ]
+      },
+      "news": [
+        "Milan-Auftakt 2:1 in Turin (Torino) am 23.08., Ramos als neuer #9 mit erstem Startelf-Einsatz - noch ohne Tor.",
+        "Venezia mit 0:2-Heimniederlage gegen Aufsteiger-Kollege Lecce im Auftakt - defensive Fragilitaet frueh sichtbar.",
+        "Neuer Milan-Trainer Amorim seit 14.08., wechselt auf 3-4-2-1-Grundordnung. Heim-Debut vor voller San-Siro-Kulisse.",
+        "Venezia-Trainer Stroppa (im Juli bis 2029 verlaengert) muss taktisch reagieren - defensiv-kompakter Ansatz zu erwarten.",
+        "Ramos-Torschuetze-Quote bet365: 2.20 (Vorschau assopoker) - erstes Milan-Tor als Zielszenario.",
+        "2:0-Insurance bei bet365 gilt NICHT fuer Serie A (nur BL + CL) - Sieg-Tipp ist normale 90-Min-Wertung."
+      ],
+      "tipps": [
+        {
+          "id": "mil-ven-1",
+          "kategorie": "safe",
+          "markt": "Sieg AC Milan (90 Min)",
+          "quote": 1.35,
+          "faire_quote": 1.42,
+          "edge_prozent": 5,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "Milan im Heim-Auftakt gegen Serie-B-Aufsteiger, der im ersten Spiel 0:2 zu Hause gegen Lecce verloren hat. San-Siro-Kulisse + Amorim-Motivation + Ramos-Zugang als neuer Sturmfokus + Turin-Sieg im Auftakt. Venezia-Kader qualitativ mindestens 1 Klasse darunter. Reality-Check: 1X2-Sieg-Markt Hitrate ~50% im System, aber hier absolut Preis fuer sauberen Favoriten - implizierte 74% Wahrscheinlichkeit ist plausibel. 2:0-Insurance greift bei Serie A NICHT, deshalb normale 90-Min-Bewertung. Kasse 1000EUR Stufe 1: 2% = 20EUR."
+        },
+        {
+          "id": "mil-ven-2",
+          "kategorie": "wackel",
+          "markt": "Goncalo Ramos Torschuetze jederzeit",
+          "quote": 2.2,
+          "faire_quote": 2.4,
+          "edge_prozent": 8,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Ramos als neuer Milan-#9 aus PSG (Ablose ~35 Mio Euro, 7 CL-Tore in der Saison 25/26 bei PSG) im Heim-Debut - erstes Tor als natuerlicher Meilenstein. Startete im Turin-Sieg noch torlos, aber Milan-Zentrum ist auf ihn ausgerichtet. Venezia-Defensive nach 0:2 gegen Lecce fragil. Markt-Goldgrube (Torschuetzen Jederzeit +24.4% ROI). Einwechslungs-Boost bei bet365: sollte Ramos frueh raus, zaehlen Tore des Ersatzes (Gimenez o.a.). Kasse 1000EUR Stufe 1: 1.5% = 15EUR. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "mil-ven-3",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.78,
+          "faire_quote": 1.9,
+          "edge_prozent": 6,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_prozent_kasse": 1.0,
+          "einsatz_euro": 10,
+          "begruendung": "Milan will nach durchwachsenem Auftakt (Platz 5 25/26) mit klarem Signal starten, Amorim-System ist offensiv gepraegt, Ramos als Volumen-9er. Venezia-Defensive fragil (0:2 gegen Lecce) + oeffnet zwangslaeufig fuer Konter- und Ballbesitz-Tore. Reality-Check: Ueber 2.5 im System stabil, hier Preis mit Puffer fuer eventuelles 2:0 oder 1:0. Kasse 1000EUR Stufe 1: 1% = 10EUR."
+        },
+        {
+          "id": "mil-ven-4",
+          "kategorie": "wackel",
+          "markt": "Milan -1 (Asian Handicap, muss mit min. 2 Toren Diff gewinnen ODER Rueckzahlung bei 1-Tor-Diff)",
+          "quote": 1.85,
+          "faire_quote": 2.0,
+          "edge_prozent": 5,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Milan zu Hause gegen Venezia-Aufsteiger tendiert zu klaren Ergebnissen. Wackel weil 1:0 (haeufigstes Ergebnis fuer Favoriten in Auftakt-Spielen) den Tipp nur zurueckzahlt statt gewinnen laesst. Milan-Sieg mit 1-Tor-Diff kein Verlust dank Asian-Handicap-Rueckzahlung - reduziertes Downside. Kasse 1000EUR Stufe 1: Wackel = 0.5% = 5EUR."
+        },
+        {
+          "id": "kombi-moonshot--Goncalo_Ramos_2+_Tore",
+          "kategorie": "moonshot",
+          "markt": "Goncalo Ramos 2+ Tore",
+          "quote": 5.5,
+          "einsatz_prozent_kasse": 0,
+          "einsatz_euro": 0,
+          "begruendung": "Synthetisches Kombi-Bein von kombi-moonshot - nur fuer Kombi-Auswertung.",
+          "_synthetic_kombi_bein": true
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand_heim": 2,
+        "endstand_gast": 0,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "mil-ven-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.35,
+          "kommentar": "Milan 2:0, sauberer Heim-Sieg (2:0-Insurance-irrelevant, Serie A).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mil-ven-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.2,
+          "kommentar": "Ramos traf in 69. per Diagonale von links (Saelemaekers-Assist) - Torschuetzen-Debut in San Siro.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mil-ven-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur 2 Tore, Ueber 2.5 knapp gerissen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mil-ven-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": "Milan gewann mit 2-Tore-Diff, AH -1 voll durch (kein Push).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "kombi-moonshot--Goncalo_Ramos_2+_Tore",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Ramos 1 Tor (69.), kein 2+.",
+          "_synthetic_kombi_bein": true
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": 69,
+            "team": "heim",
+            "spieler": "Goncalo Ramos",
+            "stand_danach": "1:0",
+            "assist": "Alexis Saelemaekers"
+          },
+          {
+            "min": 89,
+            "team": "heim",
+            "spieler": "Redouane Halhal (Eigentor)",
+            "stand_danach": "2:0",
+            "assist": "Ardon Jashari"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Milan brauchte 69 Min fuer das 1:0, danach solide bis zum 2:0-Endstand."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Milan",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Ramos-Torschuetzen-Debut zuhause bestaetigt - Milan-Zentrum ist neu auf ihn zugeschnitten. Belohnt den Torschuetzen-Tipp trotz 60 Min ohne Aktion.",
+          "Milan brauchte 69 Min fuers 1:0 - Ueber 2.5 kippte spaet, Ueber-Tore-Tipp verloren obwohl Milan dominant war. Muster: Amorims 3-4-2-1 waermt sich langsam auf.",
+          "Nur 2 Tore in 90 Min - typisches Aufsteiger-defensiv-Match, Venezia lag lang stabil hinten."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-28-lil-psg",
+      "liga": "Ligue 1 2026/27 - 2. Spieltag",
+      "heim": "LOSC Lille",
+      "gast": "Paris Saint-Germain",
+      "anstoss": "2026-08-28T20:45:00+02:00",
+      "stadion": "Decathlon Arena - Stade Pierre-Mauroy, Lille",
+      "saison_kontext": {
+        "parallel_heim": "Lille: keine europaeischen Wettbewerbe 2026/27 in dieser Woche (CL-/EL-Ligaphase startet erst Mitte September). Auftakt 23.08. 2:0 in Angers gewonnen (Giroud fruehes Tor 11.).",
+        "parallel_gast": "PSG: CL-Ligaphase startet Mitte September, diese Woche ohne europaeische Belastung. Auftakt 23.08. 2:2 gegen Rennes (Ferran Torres Doppelpack als Sub).",
+        "saisonziel_heim": "Europa-Quali (Top-5-Ambition, in 25/26 auf Platz 5 knapp CL verpasst, EL geschafft). Genesio-Trainer weiter.",
+        "saisonziel_gast": "Titelverteidigung Ligue 1 + CL-Titel (nach CL-Sieg 24/25). Enrique-Trainer weiter, Sommer-Verstaerkung: Ferran Torres (Barcelona), Ramos-Abgang (Milan).",
+        "motivations_asymmetrie": "Lille zu Hause mit gutem Auftakt-Sieg + Erfahrung als CL-Regulaersquad, aber PSG bleibt Klassen-Favorit trotz PSG-Auftakt-Remis (Rennes 2:2, kam von 0:2 zurueck). Weder Team gerade in Bestform - PSG mit neuem 9er Torres noch in Findung, Ramos-Abgang zu Milan hinterlaesst Zentrum-Loch. Realistisch Coinflip-nahe Situation mit leichtem PSG-Edge (Individualqualitaet + Bank), aber ohne 'sauberer Favorit'-Status.",
+        "recovery_heim": "5 Tage seit Angers-Auswaerts-Sieg (23.08.), keine europaeische Belastung.",
+        "recovery_gast": "5 Tage seit Rennes-Heim-Remis (23.08.), keine europaeische Belastung. Nuno Mendes gesperrt.",
+        "quellen": [
+          "https://www.psg.fr/en/content/lille-clash-set-for-friday-28-august-at-2045-cet-psg-ligue-1-fixtures-2026-2027",
+          "https://www.sportsmole.co.uk/football/lille/preview/lille-vs-psg-prediction-team-news-lineups_603720.html",
+          "https://www.mightytips.com/football-predictions/lille-vs-paris-saint-germain-prediction-28-08-2026/",
+          "https://www.espn.com/soccer/story/_/id/49585508/psg-sign-world-cup-winner-ferran-torres-barcelona-transfer"
+        ]
+      },
+      "news": [
+        "PSG kam im Auftakt gegen Rennes 0:2 zurueck auf 2:2 - Ferran Torres (neu aus Barcelona) mit Doppelpack als Sub (71., 82.).",
+        "Lille gewann Auftakt 2:0 in Angers, Veteran-Stuermer Giroud (39) traf frueh (11.).",
+        "Ramos (ex-PSG) jetzt bei Milan, Torres (ex-Barca) neuer PSG-9er - PSG-Sturm noch in Findung.",
+        "Nuno Mendes bei PSG gesperrt, Bouaddi (Lille) fehlt wegen bevorstehendem Man-City-Wechsel, Nianzou + Igamane verletzt.",
+        "H2H: 9 von 10 letzten Duellen mit BTTS-Ja - Muster-Match fuer Beide-Teams-treffen.",
+        "2:0-Insurance bei bet365 gilt NICHT fuer Ligue 1 (nur BL + CL) - Sieg-Tipp ist normale 90-Min-Wertung."
+      ],
+      "tipps": [
+        {
+          "id": "lil-psg-1",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.7,
+          "faire_quote": 1.85,
+          "edge_prozent": 8,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_prozent_kasse": 2.0,
+          "einsatz_euro": 20,
+          "begruendung": "H2H mit 9 aus 10 BTTS in den letzten Duellen - hartnaeckiges Muster. PSG offensiv in Findung aber Torres-Doppelpack gegen Rennes zeigt: die Buden kommen. Lille zu Hause mit Giroud + neuer Offensive traf im Auftakt frueh (11.), PSG-Defensive ohne Nuno Mendes anfaellig. Markt-Goldgrube-Kategorie (BTTS gehoert zu den staerkeren Markt-Typen im System). Kasse 1000EUR Stufe 1: 2% = 20EUR (VALUE-Einzel-Rate)."
+        },
+        {
+          "id": "lil-psg-2",
+          "kategorie": "value",
+          "markt": "Sieg Paris Saint-Germain (90 Min)",
+          "quote": 1.7,
+          "faire_quote": 1.85,
+          "edge_prozent": 8,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "PSG bleibt Klassen-Favorit auch auswaerts (Meister-Squad + CL-Sieger 24/25 im Kern). Auftakt-Remis gegen Rennes war Ausrutscher wegen frueher 0:2-Hypothek, Comeback zeigt Charakter. Lille auswaerts staerker als zu Hause historisch, aber PSG-Individualqualitaet in Torres + Barcola + Dembele + Kvaratskhelia klar ueberlegen. WICHTIG: 2:0-Insurance greift bei Ligue 1 NICHT - normale 90-Min-Bewertung. Kasse 1000EUR Stufe 1: 1.5% = 15EUR."
+        },
+        {
+          "id": "lil-psg-3",
+          "kategorie": "wackel",
+          "markt": "Ferran Torres Torschuetze jederzeit",
+          "quote": 2.5,
+          "faire_quote": 2.75,
+          "edge_prozent": 9,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Torres traf gegen Rennes doppelt als Sub in 11 Minuten - Torlaune und PSG-Zentrum ist neu auf ihn zugeschnitten (nach Ramos-Abgang). Startet vermutlich diesmal von Beginn. Markt-Goldgrube (Torschuetzen Jederzeit +24.4% ROI). Einwechslungs-Boost bei bet365 aktiv. Kader-Wechsel-Guardrail geprueft: Torres seit 14.08.2026 offiziell bei PSG (aus Barcelona, 50 Mio Euro). Kasse 1000EUR Stufe 1: 1.5% = 15EUR. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "_torschuetze_quelle_warn": true
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand_heim": 2,
+        "endstand_gast": 2,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 0
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "lil-psg-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.7,
+          "kommentar": "BTTS Ja - Haraldsson 21., Bakwa 84. fuer Lille; Vitinha 91., Marquinhos 95. fuer PSG.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "lil-psg-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Remis 2:2 nach PSG-Doppel-Comeback in Nachspielzeit (91., 95.). 2:0-Insurance greift bei Ligue 1 NICHT.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "lil-psg-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Torres blank; wurde in 72. fuer Senny Mayulu ausgewechselt, Mayulu ebenfalls ohne Tor -> Einwechslungs-Boost greift nicht.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "2:2",
+        "tore": [
+          {
+            "min": 21,
+            "team": "heim",
+            "spieler": "Hakon Haraldsson",
+            "stand_danach": "1:0",
+            "assist": "Olivier Giroud"
+          },
+          {
+            "min": 84,
+            "team": "heim",
+            "spieler": "Dilane Bakwa",
+            "stand_danach": "2:0",
+            "assist": "Olivier Giroud"
+          },
+          {
+            "min": 91,
+            "team": "gast",
+            "spieler": "Vitinha",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 95,
+            "team": "gast",
+            "spieler": "Marquinhos",
+            "stand_danach": "2:2",
+            "art": "Kopfball"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Lille fuehrte 2:0 (Diff +2 nach 84'), PSG glich in 91' und 95' zu 2:2 aus - klassische Drehung nach Diff >= 2."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Lille/Unentschieden",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Nuno Mendes",
+            "details": "gesperrt - PSG-Defensive dadurch anfaellig auf links"
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Senny Mayulu",
+            "aus": "Ferran Torres",
+            "minute": 72,
+            "tor": false,
+            "details": "Torres in 72' raus, Mayulu bis 90+5' auch blank - Einwechslungs-Boost fuer Torres-Tipp greift NICHT"
+          }
+        ],
+        "auffaellige_patterns": [
+          "PSG mit Doppel-Comeback in 91' + 95' zum 2:2 - Marquinhos-Kopfball in 95' rettete das Remis. Erneut kommt PSG in dieser jungen Saison von hinten (auch im Auftakt gegen Rennes 0:2 -> 2:2).",
+          "Giroud (39) mit 2 Assists - Lille-Veteran-Effekt haelt an. Der offensive Anteil hinter dem Tor-Volumen ist massiv.",
+          "BTTS-H2H-Muster (9 aus 10) bestaetigt - VALUE-Tipp bezahlt, aber PSG-Sieg-Tipp und Torres-Torschuetzen-Tipp beide zerlegt.",
+          "PSG mit Ramos-Loch und Torres in Findung: 2 Tore aus dem Mittelfeld/Verteidigung (Vitinha + Marquinhos), keiner vom neuen 9er."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-28-rac-elc",
+      "liga": "LaLiga EA Sports 2026/27 - Jornada 3",
+      "heim": "Real Racing Club Santander",
+      "gast": "Elche CF",
+      "anstoss": "2026-08-28T19:00:00+02:00",
+      "stadion": "Campos de Sport de El Sardinero, Santander",
+      "saison_kontext": {
+        "parallel_heim": "Racing: Aufsteiger aus Segunda 25/26, keine europaeischen Wettbewerbe. Auftakt 1 Punkt aus 2 Spielen.",
+        "parallel_gast": "Elche: 25/26 in Primera geblieben (schwach: Platz 18 aktuell), keine europaeischen Wettbewerbe. Auftakt 1 Punkt aus 2 Spielen.",
+        "saisonziel_heim": "Klassenerhalt als Aufsteiger. El-Sardinero-Heimstaerke: 9 Siege in den letzten 11 Heim-Pflichtspielen.",
+        "saisonziel_gast": "Klassenerhalt, aktuell Platz 18 nach 2 Spieltagen ohne Sieg. Suche nach erstem Saison-Sieg.",
+        "motivations_asymmetrie": "Beide unter Druck fuer den ersten Sieg (je 1 Punkt aus 2 Spielen), aber Racing im heimischen Sardinero + starke H2H (2 Elche-Auswaerts-Besuche zuletzt: Racing 5:1 aggregiert) klar mit Heim-Edge. Kein sauberer Klassen-Favorit im 1X2-Sinn (LaLiga-Aufsteiger vs Etablierter im Abstiegskampf), aber Heim + Form-Edge geben Racing leichten Vorteil.",
+        "recovery_heim": "4-5 Tage seit letztem Ligaspiel (Racing spielte 24.08.).",
+        "recovery_gast": "4-5 Tage seit letztem Ligaspiel (Elche spielte 24.08.).",
+        "quellen": [
+          "https://www.laliga.com/noticias/horarios-de-la-tercera-jornada-de-laliga-ea-sports-2026-27",
+          "https://www.betfair.es/blog/futbol/futbol-espanol/laliga/racing-de-santander---elche-alineaciones-horario-donde-ver-pronosticos-y-estadisticas-260826-1377.html",
+          "https://www.mightytips.com/football-predictions/racing-santander-vs-elche-prediction-28-08-2026/",
+          "https://sports.yahoo.com/articles/preview-racing-santander-vs-elche-170500748.html"
+        ]
+      },
+      "news": [
+        "Beide Teams mit 1 Punkt aus 2 Spielen, Elche aktuell Platz 18 der LaLiga-Tabelle.",
+        "Racing als Aufsteiger im Sardinero stark: 9 Siege in 11 letzten Heim-Pflichtspielen.",
+        "H2H: letzte 2 Elche-Auswaerts-Besuche endeten mit Racing-Siegen + 5:1 aggregiertem Torverhaeltnis.",
+        "Elche 5er-Kette defensiv-orientiert unter Sarabia - kompakte Grundordnung.",
+        "Elche-Ausfaelle: Yago Santiago (Knie), Boayar (Oberschenkel-Zweifel).",
+        "Racing-Ausfaelle: Pedro Felipe (Muskelfaserriss)."
+      ],
+      "tipps": [
+        {
+          "id": "rac-elc-1",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.66,
+          "faire_quote": 1.8,
+          "edge_prozent": 8,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_prozent_kasse": 1.5,
+          "einsatz_euro": 15,
+          "begruendung": "Beide Teams offensiv-ambitioniert im Suchen des ersten Sieges, keine defensive Uebermacht auf beiden Seiten (Elche 5er-Kette funktioniert Konter-orientiert, nicht Zu-Null). Racing im Sardinero mit Villalibre + Andres Martin + Vicente Volumen, Elche mit Fer Nino. Reality-Check: BTTS-Markt hat in unserer Bilanz gute Werte. Kasse 1000EUR Stufe 1: 1.5% = 15EUR."
+        },
+        {
+          "id": "rac-elc-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.88,
+          "faire_quote": 2.0,
+          "edge_prozent": 6,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_prozent_kasse": 1.0,
+          "einsatz_euro": 10,
+          "begruendung": "Beide unter Sieg-Zwang -> beide werden aufmachen (spaetestens ab 60. Minute). H2H mit hohem Torverhaeltnis (5:1 aus letzten 2 Elche-Auswaerts-Besuchen). Racing zu Hause offensiv, Elche muss auswaerts fuer Punkte was riskieren. Reality-Check: Ueber-Tore-Markt in unserer Bilanz stabil. Kasse 1000EUR Stufe 1: 1% = 10EUR."
+        },
+        {
+          "id": "rac-elc-3",
+          "kategorie": "wackel",
+          "markt": "Sieg Racing Santander (90 Min)",
+          "quote": 2.22,
+          "faire_quote": 2.4,
+          "edge_prozent": 7,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_prozent_kasse": 0.5,
+          "einsatz_euro": 5,
+          "begruendung": "Racing im Sardinero-Fort stark (9 Siege in 11 letzten Heim-Pflichtspielen) + H2H-Vorteil gegen Elche. Als Aufsteiger im Heim-Sardinero-Momentum. Aber wackel weil Coinflip-nahe 1X2-Situation (Sieg-Quoten 2.22 vs 3.54 vs 3.56 - kein klarer Favorit laut Markt). Coinflip-Regel: KEIN SAFE zulaessig, deshalb wackel bei 0.5%. Kasse 1000EUR Stufe 1: 0.5% = 5EUR (Wackel-Einzel-Rate)."
+        },
+        {
+          "id": "kombi-moonshot--Beide_Teams_treffen_+_Ueber_2.5_Tore_(Ko",
+          "kategorie": "moonshot",
+          "markt": "Beide Teams treffen + Ueber 2.5 Tore (Kombi-Markt)",
+          "quote": 2.5,
+          "einsatz_prozent_kasse": 0,
+          "einsatz_euro": 0,
+          "begruendung": "Synthetisches Kombi-Bein von kombi-moonshot - nur fuer Kombi-Auswertung.",
+          "_synthetic_kombi_bein": true
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand_heim": 3,
+        "endstand_gast": 2,
+        "halbzeit_heim": 3,
+        "halbzeit_gast": 0
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "rac-elc-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.66,
+          "kommentar": "BTTS Ja - Racing 3, Elche 2 (Sangare 78., Fer Nino 79.).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "rac-elc-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.88,
+          "kommentar": "Endstand 3:2 = 5 Tore, Ueber 2.5 klar durch.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "rac-elc-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.22,
+          "kommentar": "Racing gewann 3:2 im Sardinero (Zabiri-Hattrick, wackelte spaet).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "kombi-moonshot--Beide_Teams_treffen_+_Ueber_2.5_Tore_(Ko",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.5,
+          "kommentar": "BTTS Ja + Ueber 2.5 (5 Tore) - beide erfuellt.",
+          "_synthetic_kombi_bein": true
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "3:0",
+        "endstand": "3:2",
+        "tore": [
+          {
+            "min": 15,
+            "team": "heim",
+            "spieler": "Yassir Zabiri",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 20,
+            "team": "heim",
+            "spieler": "Yassir Zabiri",
+            "stand_danach": "2:0",
+            "assist": "Ivan Martin"
+          },
+          {
+            "min": 36,
+            "team": "heim",
+            "spieler": "Yassir Zabiri",
+            "stand_danach": "3:0",
+            "assist": "Inigo Vicente",
+            "art": "Fallrueckzieher"
+          },
+          {
+            "min": 78,
+            "team": "gast",
+            "spieler": "Sangare",
+            "stand_danach": "3:1"
+          },
+          {
+            "min": 79,
+            "team": "gast",
+            "spieler": "Fer Nino",
+            "stand_danach": "3:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Racing fuehrte durchgehend, Elche kam nur bis auf 1 Tor heran - keine Drehung (Diff blieb positiv)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Racing/Racing",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Zabiri-Hattrick in 21 Minuten (15', 20', 36') - Racing-Debut-Explosion des Marokkaners (Leihe von Rennes). Diesen Torschuetzen hat das Tool nicht auf dem Radar gehabt (kader_wechsel_2026.json ergaenzen).",
+          "3:0 zur Pause, dann 3:2 - Racing wackelt nach der Pause massiv, Elche schiesst 2 Tore in 60 Sekunden (78./79.). Ohne den Fruehstart waere das Match gekippt.",
+          "BTTS + Ueber 2.5 + Sieg Racing alle drei bezahlt - der einzige Slate-Block, wo alles reinlief."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "bay-stu-1",
+      "spiel_id": "2026-08-28-bay-stu",
+      "spiel_label": "Bayern Muenchen vs VfB Stuttgart",
+      "kategorie": "safe",
+      "markt": "Sieg FC Bayern Muenchen (90 Min)",
+      "quote": 1.24,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung_kurz": "Bayern Heim-Auftakt gegen Woltemade-loses Stuttgart, DFB-Pokal-Historie 3:0 im Mai. 2:0-Insurance greift (Bundesliga).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
+    },
+    {
+      "id": "mil-ven-1",
+      "spiel_id": "2026-08-28-mil-ven",
+      "spiel_label": "AC Milan vs Venezia FC",
+      "kategorie": "safe",
+      "markt": "Sieg AC Milan (90 Min)",
+      "quote": 1.35,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung_kurz": "Milan zu Hause gegen Aufsteiger Venezia (Auftakt 0:2 gegen Lecce). Klarer Klassen-Edge.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
+    },
+    {
+      "id": "bay-stu-2",
+      "spiel_id": "2026-08-28-bay-stu",
+      "spiel_label": "Bayern Muenchen vs VfB Stuttgart",
+      "kategorie": "value",
+      "markt": "Harry Kane Torschuetze jederzeit",
+      "quote": 1.35,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung_kurz": "Kane ~40 Pflichtspiel-Tore letzte Saison, Musiala-Ausfall bedeutet mehr Ball fuer ihn. Goldgruben-Markt.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
+    },
+    {
+      "id": "lil-psg-1",
+      "spiel_id": "2026-08-28-lil-psg",
+      "spiel_label": "LOSC Lille vs Paris Saint-Germain",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "quote": 1.7,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung_kurz": "9 aus 10 letzten Duellen mit BTTS, PSG-Defensive ohne Nuno Mendes, Lille zu Hause offensiv.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
+    },
+    {
+      "id": "lil-psg-2",
+      "spiel_id": "2026-08-28-lil-psg",
+      "spiel_label": "LOSC Lille vs Paris Saint-Germain",
+      "kategorie": "value",
+      "markt": "Sieg Paris Saint-Germain (90 Min)",
+      "quote": 1.7,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung_kurz": "PSG bleibt Klassen-Favorit trotz Rennes-Remis (kam von 0:2 zurueck). 2:0-Insurance greift bei L1 NICHT.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
+    },
+    {
+      "id": "mil-ven-2",
+      "spiel_id": "2026-08-28-mil-ven",
+      "spiel_label": "AC Milan vs Venezia FC",
+      "kategorie": "value",
+      "markt": "Goncalo Ramos Torschuetze jederzeit",
+      "quote": 2.2,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung_kurz": "Ramos als neuer Milan-#9 (ex-PSG) im Heim-Debut vor San-Siro-Kulisse. Torlaune, Zentrum auf ihn zugeschnitten.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6
+    },
+    {
+      "id": "bay-stu-3",
+      "spiel_id": "2026-08-28-bay-stu",
+      "spiel_label": "Bayern Muenchen vs VfB Stuttgart",
+      "kategorie": "value",
+      "markt": "Bayern -1.5 Handicap",
+      "quote": 1.6,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung_kurz": "Pokalfinal-Historie 3:0 im Mai, Bayern Auftakt zu Hause klare Ergebnisse. Stuttgart-Defensive dezimiert.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
+    },
+    {
+      "id": "rac-elc-1",
+      "spiel_id": "2026-08-28-rac-elc",
+      "spiel_label": "Racing Santander vs Elche CF",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "quote": 1.66,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung_kurz": "Beide unter Sieg-Zwang -> beide werden aufmachen. H2H-Torverhaeltnis stark, Elche 5er-Kette Konter-orientiert nicht Zu-Null.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8
+    },
+    {
+      "id": "lil-psg-3",
+      "spiel_id": "2026-08-28-lil-psg",
+      "spiel_label": "LOSC Lille vs Paris Saint-Germain",
+      "kategorie": "value",
+      "markt": "Ferran Torres Torschuetze jederzeit",
+      "quote": 2.5,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung_kurz": "Torres traf gegen Rennes doppelt als Sub in 11 Min, jetzt neue PSG-#9. Guardrail: Torres seit 14.08. bei PSG (ex-Barca).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 9
+    },
+    {
+      "id": "mil-ven-3",
+      "spiel_id": "2026-08-28-mil-ven",
+      "spiel_label": "AC Milan vs Venezia FC",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.78,
+      "einsatz_prozent_kasse": 1.0,
+      "einsatz_euro": 10,
+      "begruendung_kurz": "Milan-Offensive unter Amorim + Ramos-Debut, Venezia-Defensive nach 0:2 gegen Lecce fragil.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 10
+    },
+    {
+      "id": "rac-elc-2",
+      "spiel_id": "2026-08-28-rac-elc",
+      "spiel_label": "Racing Santander vs Elche CF",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.88,
+      "einsatz_prozent_kasse": 1.0,
+      "einsatz_euro": 10,
+      "begruendung_kurz": "Beide Teams unter Sieg-Zwang, spaetestens ab 60. wird aufgerissen. Historisches Torverhaeltnis stark.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 11
+    },
+    {
+      "id": "bay-stu-4",
+      "spiel_id": "2026-08-28-bay-stu",
+      "spiel_label": "Bayern Muenchen vs VfB Stuttgart",
+      "kategorie": "wackel",
+      "markt": "Ueber 3.5 Tore",
+      "quote": 1.75,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung_kurz": "Bayern-Auftakt-Historie mit Torfestival-Tendenz, Stuttgart-Defensive ausgeduennt. Aber wackel weil 4+ nicht garantiert.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 12
+    },
+    {
+      "id": "rac-elc-3",
+      "spiel_id": "2026-08-28-rac-elc",
+      "spiel_label": "Racing Santander vs Elche CF",
+      "kategorie": "wackel",
+      "markt": "Sieg Racing Santander (90 Min)",
+      "quote": 2.22,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung_kurz": "Sardinero-Heim-Vorteil + H2H, aber Coinflip-Quoten -> kein SAFE zulaessig, wackel.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 13
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "name": "Safe-Kombi (Auftakt-Favoriten)",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-08-28-bay-stu",
+          "spiel_label": "Bayern Muenchen vs VfB Stuttgart",
+          "markt": "Bayern -1.5 Handicap",
+          "quote": 1.6,
+          "kategorie": "value",
+          "tipp_id": "bay-stu-3"
+        },
+        {
+          "spiel_id": "2026-08-28-mil-ven",
+          "spiel_label": "AC Milan vs Venezia FC",
+          "markt": "Sieg AC Milan",
+          "quote": 1.35,
+          "kategorie": "safe",
+          "tipp_id": "mil-ven-1"
+        },
+        {
+          "spiel_id": "2026-08-28-lil-psg",
+          "spiel_label": "LOSC Lille vs Paris Saint-Germain",
+          "markt": "Sieg Paris Saint-Germain",
+          "quote": 1.7,
+          "kategorie": "value",
+          "tipp_id": "lil-psg-2"
+        }
+      ],
+      "gesamtquote": 3.67,
+      "rechnung": "1.60 x 1.35 x 1.70 = 3.67",
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "moeglicher_gewinn_euro": 73.4,
+      "begruendung": "Drei klare Auftakt-Favoriten aus drei Ligen: Bayern zu Hause mit Klassen-Edge (Handicap fuer bessere Quote), Milan zu Hause gegen Aufsteiger, PSG als Klassen-Ueberlegen bei Lille. Layer-1: max 1 Bein/Spiel eingehalten. Layer-2: alle drei Beine sind Sieg-Outcomes -> diese Kombi ist die EINZIGE mit Sieg-Beinen. Kasse 1000EUR Stufe 1 Safe-Kombi-Rate: 2% = 20EUR.",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "kombi-balance",
+      "name": "Balance-Kombi (Torschuetzen + Tor-Total)",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-08-28-bay-stu",
+          "spiel_label": "Bayern Muenchen vs VfB Stuttgart",
+          "markt": "Harry Kane Torschuetze jederzeit",
+          "quote": 1.35,
+          "kategorie": "value",
+          "tipp_id": "bay-stu-2"
+        },
+        {
+          "spiel_id": "2026-08-28-mil-ven",
+          "spiel_label": "AC Milan vs Venezia FC",
+          "markt": "Goncalo Ramos Torschuetze jederzeit",
+          "quote": 2.2,
+          "kategorie": "value",
+          "tipp_id": "mil-ven-2"
+        },
+        {
+          "spiel_id": "2026-08-28-lil-psg",
+          "spiel_label": "LOSC Lille vs Paris Saint-Germain",
+          "markt": "Beide Teams treffen",
+          "quote": 1.7,
+          "kategorie": "value",
+          "tipp_id": "lil-psg-1"
+        },
+        {
+          "spiel_id": "2026-08-28-rac-elc",
+          "spiel_label": "Racing Santander vs Elche CF",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.88,
+          "kategorie": "value",
+          "tipp_id": "rac-elc-2"
+        }
+      ],
+      "gesamtquote": 9.49,
+      "rechnung": "1.35 x 2.20 x 1.70 x 1.88 = 9.49",
+      "einsatz_prozent_kasse": 0.8,
+      "einsatz_euro": 8,
+      "moeglicher_gewinn_euro": 75.92,
+      "begruendung": "Vier Beine aus vier Spielen -> Layer-1 ideal (max 1 Bein/Spiel eingehalten). Layer-2 sauber: kein Sieg-Outcome (Safe-Kombi hat die). Kane als Bayern-Volumen-9er + Ramos als Milan-Debut-9er + BTTS im H2H-Muster (9 aus 10) + Ueber 2.5 im doppelten Sieg-Zwang-Spiel Racing-Elche. Markt-Mix-Pflicht erfuellt: Torschuetzen + BTTS + Tor-Total. Kasse 1000EUR Stufe 1 Balance-Rate: 0.8% = 8EUR.",
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "kombi-risiko",
+      "name": "Risiko-Kombi (Torschuetzen-Fokus)",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-08-28-bay-stu",
+          "spiel_label": "Bayern Muenchen vs VfB Stuttgart",
+          "markt": "Harry Kane 2+ Tore",
+          "quote": 3.5,
+          "kategorie": "risk",
+          "tipp_id": "kombi-risiko--Harry_Kane_2+_Tore"
+        },
+        {
+          "spiel_id": "2026-08-28-mil-ven",
+          "spiel_label": "AC Milan vs Venezia FC",
+          "markt": "Goncalo Ramos Torschuetze jederzeit",
+          "quote": 2.2,
+          "kategorie": "value",
+          "tipp_id": "mil-ven-2"
+        },
+        {
+          "spiel_id": "2026-08-28-lil-psg",
+          "spiel_label": "LOSC Lille vs Paris Saint-Germain",
+          "markt": "Ferran Torres Torschuetze jederzeit",
+          "quote": 2.5,
+          "kategorie": "value",
+          "tipp_id": "lil-psg-3"
+        }
+      ],
+      "gesamtquote": 19.25,
+      "rechnung": "3.50 x 2.20 x 2.50 = 19.25",
+      "einsatz_prozent_kasse": 0.25,
+      "einsatz_euro": 2.5,
+      "moeglicher_gewinn_euro": 48.13,
+      "begruendung": "Drei Torschuetzen-Beine aus drei Ligen: Kane 2+ (Pokal-Doppelpack-Reprise moeglich), Ramos Heim-Debut, Torres in Torlaune nach Rennes-Doppelpack. Layer-1: 1 Bein/Spiel. Layer-2: kein Sieg-Outcome (Safe-Kombi hat die). Einwechslungs-Boost-Regel bei bet365 aktiv fuer alle drei. Kasse 1000EUR Stufe 1 Risiko-Rate: 0.25% = 2.50EUR.",
+      "empfohlener_einsatz_prozent": 0.25
+    },
+    {
+      "id": "kombi-moonshot",
+      "name": "Moonshot-Kombi (Hattrick-Lotto)",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-08-28-bay-stu",
+          "spiel_label": "Bayern Muenchen vs VfB Stuttgart",
+          "markt": "Harry Kane Hattrick",
+          "quote": 8.0,
+          "kategorie": "moonshot",
+          "tipp_id": "kombi-moonshot--Harry_Kane_Hattrick"
+        },
+        {
+          "spiel_id": "2026-08-28-mil-ven",
+          "spiel_label": "AC Milan vs Venezia FC",
+          "markt": "Goncalo Ramos 2+ Tore",
+          "quote": 5.5,
+          "kategorie": "moonshot",
+          "tipp_id": "kombi-moonshot--Goncalo_Ramos_2+_Tore"
+        },
+        {
+          "spiel_id": "2026-08-28-rac-elc",
+          "spiel_label": "Racing Santander vs Elche CF",
+          "markt": "Beide Teams treffen + Ueber 2.5 Tore (Kombi-Markt)",
+          "quote": 2.5,
+          "kategorie": "value",
+          "tipp_id": "kombi-moonshot--Beide_Teams_treffen_+_Ueber_2.5_Tore_(Ko"
+        }
+      ],
+      "gesamtquote": 110.0,
+      "rechnung": "8.00 x 5.50 x 2.50 = 110.00",
+      "einsatz_prozent_kasse": 0.1,
+      "einsatz_euro": 1,
+      "moeglicher_gewinn_euro": 110,
+      "begruendung": "Lotto-Kombi mit Hattrick-Fantasie: Kane hat historisch Bayern-Hattricks im Auftakt, Ramos-Debut mit Doppelpack als Extra-Karte, Racing-Elche mit BTTS+Ueber 2.5 als Sicherheits-Anker. Layer-1: 1 Bein/Spiel (verschiedene Spiele fuer alle Beine). Layer-2 sauber (kein Sieg-Outcome). Kasse 1000EUR Stufe 1 Moonshot-Rate: 0.1% = 1EUR (Spassansatz).",
+      "empfohlener_einsatz_prozent": 0.1
+    }
+  ],
+  "lessons_angewandt": [
+    "Kader-Wechsel-Guardrail: Woltemade nicht als Stuttgart-Spieler (Newcastle seit 08/2025), Ramos nicht als PSG-Spieler (Milan seit 07/2026), Torres nicht als Barca-Spieler (PSG seit 08/2026) - alle Torschuetzen-Tipps entsprechend zugeordnet.",
+    "Markt-Mix-Pflicht (Anti-DC-Sucht): kein DC-Tipp im Slate, stattdessen Torschuetzen + BTTS + Tor-Total + direkte Sieg-Tipps im Mix.",
+    "Coinflip-Regel: Racing-Elche als Coinflip-Match klassifiziert (1X2 2.22/3.54/3.56) -> kein SAFE gesetzt, Racing-Sieg-Tipp auf wackel begrenzt.",
+    "Star-Ausfall + Backup: Musiala bei Bayern OUT -> mehr Ball fuer Kane -> Torschuetzen-Tipp Kane priorisiert.",
+    "Torschuetzen-Goldgrube (data/markt_goldgruben.json, ROI +24.4%): aktiv gesucht, in 3 von 4 Spielen mind. ein Torschuetzen-Tipp gesetzt (Kane, Ramos, Torres).",
+    "2:0-Insurance-Wissen korrekt angewendet: greift bei Bayern-Stuttgart (Bundesliga), NICHT bei Milan/PSG/Racing (Serie A/L1/LaLiga) - jeweils in Begruendung + news[] ausgewiesen.",
+    "Layer-2 hart: nur Safe-Kombi enthaelt Sieg-Outcomes (Bayern Handicap, Milan Sieg, PSG Sieg). Balance/Risiko/Moonshot ohne Sieg-Beine."
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-08-28T01:12:00+02:00",
+    "verifikator": "master-selbstverifikation (backstop-lauf, kein separater subagent)",
+    "checks_durchgefuehrt": [
+      "1. Spieler-Halluzinations-Check: Kane (Bayern-Stuermer, bestaetigt), Ramos (Milan-Stuermer seit 07/2026, bestaetigt kader_wechsel_2026.json), Torres (PSG-Stuermer seit 14.08.2026, bestaetigt kader_wechsel_2026.json). Keine Spieler aus abgaenge_NICHT_mehr_fuer_alten_verein_tippen[] als Torschuetze gesetzt.",
+      "2. Verband-Quellen-Check pro Spiel: alle 4 Spiele haben >=1 Verband-/offizielle-URL in saison_kontext.quellen (bundesliga.com, sky.it Serie-A, psg.fr, laliga.com).",
+      "3. Layer-2-Cross-Check: nur Safe-Kombi enthaelt Sieg-Outcomes (Bayern Handicap, Milan Sieg, PSG Sieg). Balance/Risiko/Moonshot haben keine Sieg-Beine -> sauber.",
+      "4. Quoten-Plausibilitaet: alle Quoten aus WebSearch/WebFetch Aggregator-Previews (mightytips, agimeg, assopoker, laliga.com) - bei bet365 live pruefen (im hinweis + jeder Begruendung angemerkt).",
+      "5. Selbstwiderspruchs-Scan: Racing-Elche als Coinflip explizit klassifiziert + entsprechend keine SAFE-Tipps gesetzt (motivations_asymmetrie sagt 'realistisch Coinflip-nahe'). Konsistent.",
+      "6. DC-CAP eingehalten: 0 DC-Tipps in allen 4 Spielen (Master-Prompt: max 1 pro Spiel, max 2-3 im Dossier)."
+    ],
+    "drops": [],
+    "downgrades": [
+      {
+        "tipp_id": "rac-elc-3",
+        "alt": "value",
+        "neu": "wackel",
+        "grund": "Coinflip-Regel: 1X2-Quoten 2.22/3.54/3.56 = kein sauberer Favorit -> kein SAFE, direkt-Sieg-Tipp wackel-limitiert."
+      }
+    ],
+    "warns": [
+      {
+        "art": "quoten_live_check",
+        "details": "Alle Quoten sind Aggregator-Previews (Stand 27.08./28.08.). Bei bet365 vor Einsatz live gegenpruefen - insbesondere Torschuetzen-Quoten (Torres bei 2.50, Ramos bei 2.20)."
+      },
+      {
+        "art": "backstop_lauf",
+        "details": "Diesem Lauf fehlt der Recherche-File-Underlay + separater Analyse-Subagent + separater Verifikations-Subagent - Master hat alles inline abgearbeitet. Deshalb bewusst kleines Dossier statt breiter Slate."
+      }
+    ],
+    "lessons_generiert": []
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "bay-stu-1",
+      "spiel_id": "2026-08-28-bay-stu",
+      "spiel_label": "Bayern Muenchen vs VfB Stuttgart",
+      "kategorie": "safe",
+      "markt": "Sieg FC Bayern Muenchen (90 Min)",
+      "quote": 1.24,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung_kurz": "Bayern Heim-Auftakt gegen Woltemade-loses Stuttgart, DFB-Pokal-Historie 3:0 im Mai. 2:0-Insurance greift (Bundesliga).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1,
+      "status": "gewonnen"
+    },
+    {
+      "id": "mil-ven-1",
+      "spiel_id": "2026-08-28-mil-ven",
+      "spiel_label": "AC Milan vs Venezia FC",
+      "kategorie": "safe",
+      "markt": "Sieg AC Milan (90 Min)",
+      "quote": 1.35,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung_kurz": "Milan zu Hause gegen Aufsteiger Venezia (Auftakt 0:2 gegen Lecce). Klarer Klassen-Edge.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2,
+      "status": "gewonnen"
+    },
+    {
+      "id": "bay-stu-2",
+      "spiel_id": "2026-08-28-bay-stu",
+      "spiel_label": "Bayern Muenchen vs VfB Stuttgart",
+      "kategorie": "value",
+      "markt": "Harry Kane Torschuetze jederzeit",
+      "quote": 1.35,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung_kurz": "Kane ~40 Pflichtspiel-Tore letzte Saison, Musiala-Ausfall bedeutet mehr Ball fuer ihn. Goldgruben-Markt.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3,
+      "status": "verloren"
+    },
+    {
+      "id": "lil-psg-1",
+      "spiel_id": "2026-08-28-lil-psg",
+      "spiel_label": "LOSC Lille vs Paris Saint-Germain",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "quote": 1.7,
+      "einsatz_prozent_kasse": 2.0,
+      "einsatz_euro": 20,
+      "begruendung_kurz": "9 aus 10 letzten Duellen mit BTTS, PSG-Defensive ohne Nuno Mendes, Lille zu Hause offensiv.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4,
+      "status": "gewonnen"
+    },
+    {
+      "id": "lil-psg-2",
+      "spiel_id": "2026-08-28-lil-psg",
+      "spiel_label": "LOSC Lille vs Paris Saint-Germain",
+      "kategorie": "value",
+      "markt": "Sieg Paris Saint-Germain (90 Min)",
+      "quote": 1.7,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung_kurz": "PSG bleibt Klassen-Favorit trotz Rennes-Remis (kam von 0:2 zurueck). 2:0-Insurance greift bei L1 NICHT.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5,
+      "status": "verloren"
+    },
+    {
+      "id": "mil-ven-2",
+      "spiel_id": "2026-08-28-mil-ven",
+      "spiel_label": "AC Milan vs Venezia FC",
+      "kategorie": "value",
+      "markt": "Goncalo Ramos Torschuetze jederzeit",
+      "quote": 2.2,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung_kurz": "Ramos als neuer Milan-#9 (ex-PSG) im Heim-Debut vor San-Siro-Kulisse. Torlaune, Zentrum auf ihn zugeschnitten.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6,
+      "status": "gewonnen"
+    },
+    {
+      "id": "bay-stu-3",
+      "spiel_id": "2026-08-28-bay-stu",
+      "spiel_label": "Bayern Muenchen vs VfB Stuttgart",
+      "kategorie": "value",
+      "markt": "Bayern -1.5 Handicap",
+      "quote": 1.6,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung_kurz": "Pokalfinal-Historie 3:0 im Mai, Bayern Auftakt zu Hause klare Ergebnisse. Stuttgart-Defensive dezimiert.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7,
+      "status": "gewonnen"
+    },
+    {
+      "id": "rac-elc-1",
+      "spiel_id": "2026-08-28-rac-elc",
+      "spiel_label": "Racing Santander vs Elche CF",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "quote": 1.66,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung_kurz": "Beide unter Sieg-Zwang -> beide werden aufmachen. H2H-Torverhaeltnis stark, Elche 5er-Kette Konter-orientiert nicht Zu-Null.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8,
+      "status": "gewonnen"
+    },
+    {
+      "id": "lil-psg-3",
+      "spiel_id": "2026-08-28-lil-psg",
+      "spiel_label": "LOSC Lille vs Paris Saint-Germain",
+      "kategorie": "value",
+      "markt": "Ferran Torres Torschuetze jederzeit",
+      "quote": 2.5,
+      "einsatz_prozent_kasse": 1.5,
+      "einsatz_euro": 15,
+      "begruendung_kurz": "Torres traf gegen Rennes doppelt als Sub in 11 Min, jetzt neue PSG-#9. Guardrail: Torres seit 14.08. bei PSG (ex-Barca).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 9,
+      "status": "verloren"
+    },
+    {
+      "id": "mil-ven-3",
+      "spiel_id": "2026-08-28-mil-ven",
+      "spiel_label": "AC Milan vs Venezia FC",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.78,
+      "einsatz_prozent_kasse": 1.0,
+      "einsatz_euro": 10,
+      "begruendung_kurz": "Milan-Offensive unter Amorim + Ramos-Debut, Venezia-Defensive nach 0:2 gegen Lecce fragil.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 10,
+      "status": "verloren"
+    },
+    {
+      "id": "rac-elc-2",
+      "spiel_id": "2026-08-28-rac-elc",
+      "spiel_label": "Racing Santander vs Elche CF",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.88,
+      "einsatz_prozent_kasse": 1.0,
+      "einsatz_euro": 10,
+      "begruendung_kurz": "Beide Teams unter Sieg-Zwang, spaetestens ab 60. wird aufgerissen. Historisches Torverhaeltnis stark.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 11,
+      "status": "gewonnen"
+    },
+    {
+      "id": "bay-stu-4",
+      "spiel_id": "2026-08-28-bay-stu",
+      "spiel_label": "Bayern Muenchen vs VfB Stuttgart",
+      "kategorie": "wackel",
+      "markt": "Ueber 3.5 Tore",
+      "quote": 1.75,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung_kurz": "Bayern-Auftakt-Historie mit Torfestival-Tendenz, Stuttgart-Defensive ausgeduennt. Aber wackel weil 4+ nicht garantiert.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 12,
+      "status": "gewonnen"
+    },
+    {
+      "id": "rac-elc-3",
+      "spiel_id": "2026-08-28-rac-elc",
+      "spiel_label": "Racing Santander vs Elche CF",
+      "kategorie": "wackel",
+      "markt": "Sieg Racing Santander (90 Min)",
+      "quote": 2.22,
+      "einsatz_prozent_kasse": 0.5,
+      "einsatz_euro": 5,
+      "begruendung_kurz": "Sardinero-Heim-Vorteil + H2H, aber Coinflip-Quoten -> kein SAFE zulaessig, wackel.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 13,
+      "status": "gewonnen"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe",
+      "status": "verloren",
+      "gesamtquote": 3.67
+    },
+    {
+      "kombi_id": "kombi-balance",
+      "status": "verloren",
+      "gesamtquote": 9.49
+    },
+    {
+      "kombi_id": "kombi-risiko",
+      "status": "verloren",
+      "gesamtquote": 19.25
+    },
+    {
+      "kombi_id": "kombi-moonshot",
+      "status": "verloren",
+      "gesamtquote": 110.0
+    }
+  ],
+  "ausgewertet_am": "2026-08-29T08:15:00+02:00",
+  "auswertungs_hinweis": "Ergebnisse per WebSearch nachrecherchiert (football-data-Proxy fuer Backstop nicht erreichbar). Alle 4 Spiele voll analysiert."
+}

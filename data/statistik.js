@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-08-28T06:15:20+00:00",
+  "letzte_berechnung": "2026-08-29T06:14:35+00:00",
   "gesamt": {
     "tipps": 429,
     "gewonnen": 222,
@@ -13,15 +13,15 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 7.3
   },
   "letzte_30_tage": {
-    "tipps": 169,
-    "gewonnen": 80,
-    "verloren": 77,
+    "tipps": 158,
+    "gewonnen": 73,
+    "verloren": 73,
     "push": 1,
     "offen": 11,
-    "einsatz": 158.0,
-    "netto": 27.76,
-    "trefferquote": 51.0,
-    "roi_prozent": 17.6
+    "einsatz": 147.0,
+    "netto": 14.9,
+    "trefferquote": 50.0,
+    "roi_prozent": 10.1
   },
   "letzte_90_tage": {
     "tipps": 415,
@@ -4297,6 +4297,278 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-08-28",
+      "gesamt": {
+        "tipps": 13,
+        "gewonnen": 9,
+        "verloren": 4,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 13.0,
+        "netto": 2.6,
+        "trefferquote": 69.2,
+        "roi_prozent": 20.0
+      },
+      "spiele": [
+        {
+          "id": "2026-08-28-bay-stu",
+          "liga": "Bundesliga 2026/27 - 1. Spieltag",
+          "heim": "FC Bayern Muenchen",
+          "gast": "VfB Stuttgart",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg FC Bayern Muenchen (90 Min)",
+              "quote": 1.24,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.24,
+              "kommentar": "Bayern 5:1 - klarer Sieg (2:0-Insurance greift, aber irrelevant, Bayern zog ohnehin weg)."
+            },
+            {
+              "markt": "Harry Kane Torschuetze jederzeit",
+              "quote": 1.35,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Kane blank; wurde ca. 63. fuer Lennart Karl ausgewechselt, Karl auch ohne Tor -> Einwechslungs-Boost greift nicht."
+            },
+            {
+              "markt": "Bayern -1.5 Handicap (Bayern muss mit 2+ Toren Diff gewinnen)",
+              "quote": 1.6,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.6,
+              "kommentar": "Bayern gewann 5:1, Handicap -1.5 gedeckt (Diff +4)."
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 1.75,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.75,
+              "kommentar": "Endstand 5:1 = 6 Tore, Ueber 3.5 klar durch."
+            }
+          ]
+        },
+        {
+          "id": "2026-08-28-mil-ven",
+          "liga": "Serie A 2026/27 - 2. Giornata",
+          "heim": "AC Milan",
+          "gast": "Venezia FC",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg AC Milan (90 Min)",
+              "quote": 1.35,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.35,
+              "kommentar": "Milan 2:0, sauberer Heim-Sieg (2:0-Insurance-irrelevant, Serie A)."
+            },
+            {
+              "markt": "Goncalo Ramos Torschuetze jederzeit",
+              "quote": 2.2,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.2,
+              "kommentar": "Ramos traf in 69. per Diagonale von links (Saelemaekers-Assist) - Torschuetzen-Debut in San Siro."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.78,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Nur 2 Tore, Ueber 2.5 knapp gerissen."
+            }
+          ]
+        },
+        {
+          "id": "2026-08-28-lil-psg",
+          "liga": "Ligue 1 2026/27 - 2. Spieltag",
+          "heim": "LOSC Lille",
+          "gast": "Paris Saint-Germain",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen (BTTS Ja)",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.7,
+              "kommentar": "BTTS Ja - Haraldsson 21., Bakwa 84. fuer Lille; Vitinha 91., Marquinhos 95. fuer PSG."
+            },
+            {
+              "markt": "Sieg Paris Saint-Germain (90 Min)",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Remis 2:2 nach PSG-Doppel-Comeback in Nachspielzeit (91., 95.). 2:0-Insurance greift bei Ligue 1 NICHT."
+            },
+            {
+              "markt": "Ferran Torres Torschuetze jederzeit",
+              "quote": 2.5,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Torres blank; wurde in 72. fuer Senny Mayulu ausgewechselt, Mayulu ebenfalls ohne Tor -> Einwechslungs-Boost greift nicht."
+            }
+          ]
+        },
+        {
+          "id": "2026-08-28-rac-elc",
+          "liga": "LaLiga EA Sports 2026/27 - Jornada 3",
+          "heim": "Real Racing Club Santander",
+          "gast": "Elche CF",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen (BTTS Ja)",
+              "quote": 1.66,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.66,
+              "kommentar": "BTTS Ja - Racing 3, Elche 2 (Sangare 78., Fer Nino 79.)."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.88,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.88,
+              "kommentar": "Endstand 3:2 = 5 Tore, Ueber 2.5 klar durch."
+            },
+            {
+              "markt": "Sieg Racing Santander (90 Min)",
+              "quote": 2.22,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.22,
+              "kommentar": "Racing gewann 3:2 im Sardinero (Zabiri-Hattrick, wackelte spaet)."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (Auftakt-Favoriten)",
+          "kategorie": "safe",
+          "gesamtquote": 3.67,
+          "einsatz_prozent": 1.5,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Bayern -1.5 Handicap",
+              "quote": 1.6,
+              "status": "gewonnen",
+              "kommentar": "Bayern gewann 5:1, Handicap -1.5 gedeckt (Diff +4)."
+            },
+            {
+              "markt": "Sieg AC Milan",
+              "quote": 1.35,
+              "status": "gewonnen",
+              "kommentar": "Milan 2:0, sauberer Heim-Sieg (2:0-Insurance-irrelevant, Serie A)."
+            },
+            {
+              "markt": "Sieg Paris Saint-Germain",
+              "quote": 1.7,
+              "status": "verloren",
+              "kommentar": "Remis 2:2 nach PSG-Doppel-Comeback in Nachspielzeit (91., 95.). 2:0-Insurance greift bei Ligue 1 NICHT."
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (Torschuetzen + Tor-Total)",
+          "kategorie": "balance",
+          "gesamtquote": 9.49,
+          "einsatz_prozent": 0.5,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Harry Kane Torschuetze jederzeit",
+              "quote": 1.35,
+              "status": "verloren",
+              "kommentar": "Kane blank; wurde ca. 63. fuer Lennart Karl ausgewechselt, Karl auch ohne Tor -> Einwechslungs-Boost greift nicht."
+            },
+            {
+              "markt": "Goncalo Ramos Torschuetze jederzeit",
+              "quote": 2.2,
+              "status": "gewonnen",
+              "kommentar": "Ramos traf in 69. per Diagonale von links (Saelemaekers-Assist) - Torschuetzen-Debut in San Siro."
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.7,
+              "status": "gewonnen",
+              "kommentar": "BTTS Ja - Haraldsson 21., Bakwa 84. fuer Lille; Vitinha 91., Marquinhos 95. fuer PSG."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.88,
+              "status": "gewonnen",
+              "kommentar": "Endstand 3:2 = 5 Tore, Ueber 2.5 klar durch."
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (Torschuetzen-Fokus)",
+          "kategorie": "risk",
+          "gesamtquote": 19.25,
+          "einsatz_prozent": 0.25,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Harry Kane 2+ Tore",
+              "quote": 3.5,
+              "status": "verloren",
+              "kommentar": "Kane hat gar nicht getroffen, geschweige denn 2 Tore."
+            },
+            {
+              "markt": "Goncalo Ramos Torschuetze jederzeit",
+              "quote": 2.2,
+              "status": "gewonnen",
+              "kommentar": "Ramos traf in 69. per Diagonale von links (Saelemaekers-Assist) - Torschuetzen-Debut in San Siro."
+            },
+            {
+              "markt": "Ferran Torres Torschuetze jederzeit",
+              "quote": 2.5,
+              "status": "verloren",
+              "kommentar": "Torres blank; wurde in 72. fuer Senny Mayulu ausgewechselt, Mayulu ebenfalls ohne Tor -> Einwechslungs-Boost greift nicht."
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (Hattrick-Lotto)",
+          "kategorie": "moonshot",
+          "gesamtquote": 110.0,
+          "einsatz_prozent": 0.1,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Harry Kane Hattrick",
+              "quote": 8.0,
+              "status": "verloren",
+              "kommentar": "Kane blank."
+            },
+            {
+              "markt": "Goncalo Ramos 2+ Tore",
+              "quote": 5.5,
+              "status": "verloren",
+              "kommentar": "Ramos 1 Tor (69.), kein 2+."
+            },
+            {
+              "markt": "Beide Teams treffen + Ueber 2.5 Tore (Kombi-Markt)",
+              "quote": 2.5,
+              "status": "gewonnen",
+              "kommentar": "BTTS Ja + Ueber 2.5 (5 Tore) - beide erfuellt."
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-08-27",
       "gesamt": {

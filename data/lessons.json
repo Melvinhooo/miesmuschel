@@ -2765,6 +2765,46 @@
         "2026-08-27-sal-mja",
         "2026-08-27-aar-ben"
       ]
+    },
+    {
+      "datum": "2026-08-28",
+      "erstellt_am": "2026-08-29T08:15:00+02:00",
+      "kategorie": "Kader-Blindspot (8b) - Racing-Torschuetzen",
+      "lesson": "HR08-28-1 Racing Santander im Sardinero: Zabiri (Marokkaner, Leihe von Rennes seit 07/2026, U20-WM-Sieger) schoss Hattrick in 21 Min gegen Elche - Tool hatte ihn NICHT auf dem Radar (dossier nannte Villalibre + Martin + Vicente). Racing-Torschuetzen-Option Nr. 1 ist Zabiri, nicht Villalibre. kader_wechsel_2026.json ergaenzt. Kuenftig fuer Racing-Torschuetzen-Tipps: primaer Zabiri, secondary Iñigo Vicente (2 Assists an Zabiri).",
+      "bezug_spiel_id": [
+        "2026-08-28-rac-elc"
+      ]
+    },
+    {
+      "datum": "2026-08-28",
+      "erstellt_am": "2026-08-29T08:15:00+02:00",
+      "kategorie": "Einwechslungs-Boost-Falle (Torschuetzen-Cluster)",
+      "lesson": "HR08-28-2 Torschuetzen-Tipps 28.08.: 3 gesetzt (Kane, Ramos, Torres). Ramos traf 69'. Kane blank + wurde in 63. fuer Karl (nicht Ersatz-Sturm-9er) ausgewechselt - Karl blank -> Einwechslungs-Boost greift nicht. Torres blank + in 72. fuer Mayulu ausgewechselt - Mayulu blank -> Boost greift nicht. Lehre: Einwechslungs-Boost hilft nur wenn Ersatz auch Torgefahr ausstrahlt. Bei Bayern kommt Karl (18j, Fluegel), nicht Ersatz-9er - Boost-Wert fuer Kane deutlich schwaecher als erwartet. Bei PSG kommt Mayulu (junger 8er), auch kein direkter Ersatz-9er. Kuenftig: Einwechslungs-Boost NUR mitrechnen wenn Ersatz-Kaderposition auch 9er ist (Guirassy fuer Adeyemi klassisch, aber nicht Karl fuer Kane).",
+      "bezug_spiel_id": [
+        "2026-08-28-bay-stu",
+        "2026-08-28-lil-psg"
+      ]
+    },
+    {
+      "datum": "2026-08-28",
+      "erstellt_am": "2026-08-29T08:15:00+02:00",
+      "kategorie": "Nachspielzeit-Drehung PSG (8f Drehungs-Cluster)",
+      "lesson": "HR08-28-3 Lille-PSG-Drehung: Lille fuehrte 2:0 nach 84', PSG holte per Vitinha (91') + Marquinhos-Kopfball (95') das 2:2. Bereits zweites PSG-Comeback-in-Nachspielzeit-Match diese Saison (Auftakt Rennes 0:2 -> 2:2). Lehre: PSG-Rueckstands-Sieg-Tipp NIE als SAFE - selbst in Rueckstand haben sie den charakterlichen Punch. Aber umgekehrt: Sieg-Tipp gegen PSG als Underdog ist gefaehrlich, auch wenn Fuehrung da ist. Ligue-1-Anti-Vorlage-Tipp im Muster 'Fuehrung des Underdogs halten' == wackel max, nie SAFE.",
+      "bezug_spiel_id": [
+        "2026-08-28-lil-psg"
+      ]
+    },
+    {
+      "datum": "2026-08-28",
+      "erstellt_am": "2026-08-29T08:15:00+02:00",
+      "kategorie": "Kombi-Wettbewerbs-Fokus (Ligue 1 dominiert)",
+      "lesson": "HR08-28-4 Kombi-Kaputt-Muster: alle 4 Kombis verloren, obwohl 9/13 Einzeltipps gewonnen (69.2%). Killer-Beine: Kane (bay-stu-2), Torres (lil-psg-3), PSG-Sieg (lil-psg-2). Diese 3 Beine steckten in allen 4 Kombis. Layer-2 hart (Sieg-Beine nur in Safe-Kombi) hat 3 andere Kombis vor der Sieg-Konzentration gerettet, aber die 2 fehlgeschlagenen Torschuetzen (Kane + Torres) haben Balance + Risiko + Moonshot alle mitzerlegt. Lehre: Torschuetzen-Beine sind Goldgrube (Ramos bezahlt), aber wenn 2 von 3 Torschuetzen in derselben Kombi kaputt gehen, ist alles weg. Kuenftig: Torschuetzen-Cluster in Kombis nicht > 1 Bein pro Kombi (nur der 'sicherste' Torschuetze).",
+      "bezug_spiel_id": [
+        "2026-08-28-bay-stu",
+        "2026-08-28-mil-ven",
+        "2026-08-28-lil-psg",
+        "2026-08-28-rac-elc"
+      ]
     }
   ]
 }
