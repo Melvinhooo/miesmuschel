@@ -1,0 +1,49 @@
+{
+  "spiel_id": "2026-08-30-aug-s04",
+  "saison_kontext": {
+    "parallel_heim": "keine — Erstrundenpokal 22.08. abgeschlossen",
+    "parallel_gast": "keine — Aufsteiger, Erstrundenpokal 22.08. abgeschlossen",
+    "saisonziel_heim": "Klassenerhalt, Mittelfeld unteres Drittel — kein europaeischer Anspruch",
+    "saisonziel_gast": "Aufsteiger nach 8 Jahren 2. Bundesliga zurueck im Oberhaus — Ziel Klassenerhalt, Vorfreude-Boost",
+    "motivations_asymmetrie": "Schalke als Aufsteiger mit Euphorie, Augsburg mit gewohnter Auftakt-Anspannung. Kein klarer Klassen-Edge — Aufsteiger-Heim-Auftaktspiele erfahrungsgemaess offen. Coinflip nach Papierform, kein SAFE.",
+    "recovery_heim": "8 Tage seit Pokal, frisch",
+    "recovery_gast": "8 Tage seit Pokal, frisch",
+    "quellen": [
+      "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/fc-augsburg",
+      "https://www.fcaugsburg.de/games/",
+      "https://www.bundesliga.com/en/bundesliga/news/confirmed-kick-off-times-dates-2026-27-fixtures-23955"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "aug-s04-1",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.75,
+      "edge_prozent": 3.0,
+      "begruendung": "Aufsteiger-Auftaktspiel klassisch offen, beide Defensivreihen noch nicht eingespielt. Aber BTTS-JA ist nicht in unseren Markt-Goldgruben, deshalb wackel. 0.5 % = 5€.",
+      "faire_quote": 1.68,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "aug-s04-2",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 2.0,
+      "edge_prozent": 3.0,
+      "begruendung": "Aufsteiger-Auftakt oft Tor-reich, keine der beiden Defensive top. Aber Ueber 2.5 als Auftakt-Sonntag noch nicht in unserer Bilanz belegt — wackel. 0.5 % = 5€.",
+      "faire_quote": 1.92,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "aug-s04-3",
+      "kategorie": "wackel",
+      "markt": "Schalke oder Remis (Doppelte Chance)",
+      "quote": 1.85,
+      "edge_prozent": 2.0,
+      "begruendung": "DC X2 ist Markt-Goldgrube (76.5% Hitrate). Als Aufsteiger-Auftakt bei einem in Heimauftakt-Spielen zaehen Augsburg mit Value. Nur wackel wegen Coinflip-Charakter. 0.5 % = 5€. Bei bet365 live pruefen.",
+      "faire_quote": 1.78,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

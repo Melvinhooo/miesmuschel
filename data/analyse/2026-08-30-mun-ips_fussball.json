@@ -1,0 +1,59 @@
+{
+  "spiel_id": "2026-08-30-mun-ips",
+  "saison_kontext": {
+    "parallel_heim": "keine — kein EU-Wettbewerb 26/27, EFL-Cup 2. Runde erst September",
+    "parallel_gast": "keine — Aufsteiger nach direkter 2. PL-Rueckkehr, kein EU-Wettbewerb",
+    "saisonziel_heim": "Top-4/CL-Rueckkehr — hoher Druck nach schwacher Vorsaison",
+    "saisonziel_gast": "Klassenerhalt — Aufsteiger, defensiver Modus erwartbar",
+    "motivations_asymmetrie": "United klare Klassen-Favoriten daheim gegen Aufsteiger, aber Old Trafford wackelt aus der Vorsaison — Bank-Rotation trotz Pflichtdrei-Punkte. Ipswich muss defensiv agieren, wenig offensive Chancen.",
+    "recovery_heim": "1 Woche seit letztem Spiel — Baleba (Neuzugang) OUT mit Ankle, de Ligt und Amad OUT",
+    "recovery_gast": "1 Woche seit letztem Spiel, frisch",
+    "quellen": [
+      "https://www.manutd.com/en/news/official-united-2026-27-premier-league-fixtures",
+      "https://lastwordonsports.com/football/2026/08/30/manchester-united-vs-ipswich-town/",
+      "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "mun-ips-1",
+      "kategorie": "safe",
+      "markt": "Manchester United oder Remis (Doppelte Chance)",
+      "quote": 1.15,
+      "edge_prozent": 4.0,
+      "begruendung": "United daheim gegen den PL-Aufsteiger — sowohl von Papier als auch Struktur klarer Favorit, DC 1X ist Absicherung (Aufsteiger-Auswaerts-Bilanz historisch schwach). Goldgrube DC 1X (84.6%). SAFE mit fairer Erwartung. Bei 1000€ Stufe 1: 1-2 % = 15€.",
+      "faire_quote": 1.1,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "mun-ips-2",
+      "kategorie": "value",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.35,
+      "edge_prozent": 4.0,
+      "begruendung": "Aufsteiger-Auswaerts-Spiele bei einem Big-6-Team enden fast nie Tor-Feuerwerk — Ipswich stellt tiefen Block, United versucht mit knapper Fuehrung zu verwalten. Unter 3.5 pro-forma safe. 1 % = 10€.",
+      "faire_quote": 1.28,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "mun-ips-3",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen NEIN",
+      "quote": 2.1,
+      "edge_prozent": 3.0,
+      "begruendung": "Ipswich-Auswaerts oft ohne Tor bei Top-Teams. United-Defensive hat mit ruhigem 1:0-Muster grosse Chance. Wackel wegen wechselhafter United-Defense. 0.5 % = 5€.",
+      "faire_quote": 2.0,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "mun-ips-4",
+      "kategorie": "wackel",
+      "markt": "Manchester United -1.5 Handicap",
+      "quote": 2.35,
+      "edge_prozent": 3.0,
+      "begruendung": "Als aktives Alternativ zum SAFE-DC: -1.5 Handicap braucht deutlichen Sieg, gegen tiefstehenden Aufsteiger nicht garantiert. 0.5 % = 5€.",
+      "faire_quote": 2.25,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

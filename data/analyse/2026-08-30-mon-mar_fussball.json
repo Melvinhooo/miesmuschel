@@ -1,0 +1,59 @@
+{
+  "spiel_id": "2026-08-30-mon-mar",
+  "saison_kontext": {
+    "parallel_heim": "keine — Champions-League-Ligaphase erst ab Mitte September",
+    "parallel_gast": "keine — CL-Ligaphase erst ab Mitte September (Marseille CL-Qualifiziert)",
+    "saisonziel_heim": "CL-Ligaphase-Solid + Top-3 Ligue 1 — 1:0-Auswaertsstart in Le Havre, taktisch stabil",
+    "saisonziel_gast": "Titel/CL — 4:0-Kantersieg zum Auftakt gegen Strasbourg",
+    "motivations_asymmetrie": "Beide mit Auftakt-Siegen und Selbstvertrauen — Coinflip mit leichtem Marseille-Klassen-Edge (nach De-Zerbi- Aufbau bleibt Ligue-1-Klasse). Monaco daheim engagiert, aber Marseille-Trio (Gouiri/Harit/Paixao) gefaehrlich. Kein SAFE-Kandidat, ehrliches Coinflip-Spiel.",
+    "recovery_heim": "5 Tage seit Le Havre 1:0",
+    "recovery_gast": "5 Tage seit Strasbourg 4:0",
+    "quellen": [
+      "https://ca.sports.yahoo.com/news/preview-monaco-vs-marseille-team-184500559.html",
+      "https://www.sofascore.com/football/match/as-monaco-olympique-de-marseille/QHsdI",
+      "https://khelnow.com/football/as-monaco-vs-marseille-preview-ligue-1-202608"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "mon-mar-1",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.65,
+      "edge_prozent": 4.0,
+      "begruendung": "Beide Angriffe treffen Woche 1: Marseille 4 Tore, Monaco 1 Tor. Beide Defensive noch nicht ganz eingespielt. BTTS-JA solide, aber nicht Goldgrube — wackel. 0.5 % = 5€.",
+      "faire_quote": 1.58,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "mon-mar-2",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "edge_prozent": 4.0,
+      "begruendung": "Ligue-1-Klassiker mit zwei offensiv-orientierten Trainern (De Zerbi vs Hutter/Adi/aktueller Monaco-Coach). Marseille 4 Tore letzten Spiel = starkes Signal. 1 % = 10€.",
+      "faire_quote": 1.67,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "mon-mar-3",
+      "kategorie": "wackel",
+      "markt": "Gouiri Torschuetze jederzeit",
+      "quote": 3.2,
+      "edge_prozent": 3.0,
+      "begruendung": "Marseilles zentraler 9er, Trainer De Zerbi mit Torschuetzen-Boost. HR24-Kandidat wenn 5+ Tore letzte 10, aber ohne aktuelle Detaildaten wackel. 0.5 % = 5€.",
+      "faire_quote": 3.05,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "mon-mar-4",
+      "kategorie": "wackel",
+      "markt": "Marseille oder Remis (Doppelte Chance)",
+      "quote": 1.55,
+      "edge_prozent": 3.0,
+      "begruendung": "DC X2 Goldgrube (76.5% Hitrate) — Marseille klassisch Ligue-1-Top-3-Kandidat, Coinflip-Absicherung. 0.5 % = 5€.",
+      "faire_quote": 1.5,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

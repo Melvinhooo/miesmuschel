@@ -1,0 +1,59 @@
+{
+  "spiel_id": "2026-08-30-cag-int",
+  "saison_kontext": {
+    "parallel_heim": "keine — kein EU-Wettbewerb",
+    "parallel_gast": "keine — CL-Ligaphase startet Mitte September",
+    "saisonziel_heim": "Klassenerhalt — 1:0 in Parma am 1. Spieltag durch Romano (Last-Minute)",
+    "saisonziel_gast": "Titel + CL — 4:1 gegen Monza zum Auftakt, Lautaro Torschuetze",
+    "motivations_asymmetrie": "Inter dominiert Cagliari historisch (9 Siege in letzten 10, im Unipol Domus 6 Siege in Serie ohne Cagliari-Tor). Cagliari mit Romano-Auftaktsieg aber ohne echten Klassen-Ansatz. Auswaerts-SAFE moeglich, aber achte auf Rotation (kurze Pause vor CL-Ligaphase).",
+    "recovery_heim": "1 Woche seit Parma-Sieg 1:0, frisch",
+    "recovery_gast": "1 Woche seit Monza 4:1, frisch",
+    "quellen": [
+      "https://www.sportsmole.co.uk/football/cagliari/preview/cagliari-vs-inter-milan-prediction-team-news-lineups_603916.html",
+      "https://sports.yahoo.com/articles/complete-guide-cagliari-vs-inter-154500215.html",
+      "https://www.mightytips.com/football-predictions/cagliari-vs-inter-prediction-30-08-2026/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "cag-int-1",
+      "kategorie": "safe",
+      "markt": "Inter Mailand oder Remis (Doppelte Chance)",
+      "quote": 1.2,
+      "edge_prozent": 5.0,
+      "begruendung": "Inter historisch dominant (9 Siege 10, letzte 3 Cagliari-Heim ohne Tor). DC X2 Goldgrube (76.5% Hitrate). Klassen-Edge klar. Bei 1000€ Stufe 1: 1-2 % = 15€.",
+      "faire_quote": 1.14,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "cag-int-2",
+      "kategorie": "value",
+      "markt": "Lautaro Martinez Torschuetze jederzeit",
+      "quote": 2.1,
+      "edge_prozent": 6.0,
+      "begruendung": "12 Tore in 12 Duellen gegen Cagliari — Lieblingsgegner-Bilanz. HR24 klar erfuellt (Vorsaison-Torschuetzenkoenig, zentraler 9er). Torschuetzen Jederzeit Goldgrube. 1-2 % = 15€.",
+      "faire_quote": 1.95,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "cag-int-3",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "edge_prozent": 4.0,
+      "begruendung": "Inter beim Auftakt 4:1, Cagliari 1:0 — Inter-Ausw offensiv-druckvoll, Cagliari-Defensive gegen Klasse-Angriffe brueckt. 1 % = 10€.",
+      "faire_quote": 1.65,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "cag-int-4",
+      "kategorie": "wackel",
+      "markt": "Inter -1.5 Handicap",
+      "quote": 2.15,
+      "edge_prozent": 3.0,
+      "begruendung": "Inter hat Cagliari-Heim historisch klar geschlagen (2:0, 3:0, 4:0 in Serie). Rotation moeglich — 0.5 % = 5€.",
+      "faire_quote": 2.05,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

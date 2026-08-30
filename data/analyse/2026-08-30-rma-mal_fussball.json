@@ -1,0 +1,59 @@
+{
+  "spiel_id": "2026-08-30-rma-mal",
+  "saison_kontext": {
+    "parallel_heim": "keine — CL-Ligaphase startet Mitte September",
+    "parallel_gast": "keine — Aufsteiger, kein EU-Wettbewerb",
+    "saisonziel_heim": "Titel + CL — Real Madrid mit Bombenstart erwartet (Bernabeu-Heimserie), Trainer laut Kader-Guardrail nach Arbeloas Sommer-Abgang zu Fulham vor Anstoss LIVE pruefen",
+    "saisonziel_gast": "Klassenerhalt — Aufsteiger nach Segunda-Zeit (2. Platz), acht Jahre Abstinenz",
+    "motivations_asymmetrie": "Klarer Klassen-Edge Real gegen Aufsteiger daheim. Real hat 3 Ligaspiele in 8 Tagen und rotiert moeglicherweise (Espanyol A, Sociedad H, jetzt Malaga H). Malaga als Aufsteiger im Bernabeu ohne Chance auf Sieg-Coup, aber vielleicht defensiv aufopferungsvoll.",
+    "recovery_heim": "3 Tage seit Sociedad H — kurze Pause, Rotation moeglich",
+    "recovery_gast": "3 Tage seit letztem Spiel",
+    "quellen": [
+      "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/tres-partidos-de-liga-en-ocho-dias-18-08-2026",
+      "https://www.laliga.com/en-GB/clubs/real-madrid/next-matches",
+      "https://laligaupdate.com/match-updates/laliga-schedule/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "rma-mal-1",
+      "kategorie": "safe",
+      "markt": "Real Madrid oder Remis (Doppelte Chance)",
+      "quote": 1.05,
+      "edge_prozent": 4.0,
+      "begruendung": "Bernabeu gegen Aufsteiger — DC 1X ist Absicherungs-SAFE, quasi Bank. Goldgrube-Markt (84.6% Hitrate). Klarer Klassen-Edge. Bei 1000€ Stufe 1: 1-2 % = 15€.",
+      "faire_quote": 1.03,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "rma-mal-2",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.55,
+      "edge_prozent": 5.0,
+      "begruendung": "Real-Heim-Ueber-2.5 gegen Aufsteiger — in Heim-Bilanz Real letzten 5 Saisons ueber 75 %. Goldgrube-Nachbar. 1-2 % = 15€.",
+      "faire_quote": 1.45,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "rma-mal-3",
+      "kategorie": "value",
+      "markt": "Real Madrid -1.5 Handicap",
+      "quote": 1.75,
+      "edge_prozent": 5.0,
+      "begruendung": "Real gewinnt gegen Aufsteiger im Bernabeu selten knapp — historisch ueber 60 % mit 2+ Toren Diff. 1 % = 10€.",
+      "faire_quote": 1.65,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "rma-mal-4",
+      "kategorie": "wackel",
+      "markt": "Vinicius Jr Torschuetze jederzeit",
+      "quote": 1.9,
+      "edge_prozent": 4.0,
+      "begruendung": "HR24-Kandidat wenn Vinicius spielt: Real-Fluegel-Star gegen Aufsteiger-Defense — jederzeit-Tor mit Backup-Boost (falls ausgewechselt fuer Endo/Anderer). WACKEL nur, weil Aufstellung noch nicht sicher live gecheckt — Rotation moeglich. 0.5 % = 5€. Bei bet365 live pruefen und Aufstellung 1 Stunde vor Anpfiff sichten.",
+      "faire_quote": 1.82,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "spiel_id": "2026-08-30-nap-com",
+  "saison_kontext": {
+    "parallel_heim": "keine — CL-Ligaphase startet Mitte September",
+    "parallel_gast": "keine — Como CL-Qualifiziert (4. der Vorsaison), Ligaphase startet Mitte September",
+    "saisonziel_heim": "Titel-Verteidigung — Trainer Allegri (seit 26/27), 2:0-Auftakt in Genua durch De Bruyne (82.) und Vergara (87.)",
+    "saisonziel_gast": "CL-Auftakt-Saison — 1:1 in Udinese am 1. Spieltag, Fabregas-Team offensiv variabel (Nico Paz)",
+    "motivations_asymmetrie": "Napoli daheim klarer Papier-Favorit, aber ohne Lukaku (Sommer zu Fenerbahce, siehe kader_wechsel_2026.json) — Sturm laeuft ueber Hoejlund + De-Bruyne-Kreativitaet. Como mit Nico Paz gefaehrlich am Ball, aber im Maradona historisch chancenlos.",
+    "recovery_heim": "1 Woche seit Genua-Auftakt, frisch",
+    "recovery_gast": "1 Woche seit Udinese, frisch",
+    "quellen": [
+      "https://khelnow.com/football/napoli-vs-como-preview-serie-a-202608",
+      "https://www.sportskeeda.com/football/napoli-vs-como-prediction-betting-tips-august-30th-2026",
+      "https://www.mightytips.com/football-predictions/napoli-vs-como-prediction-30-08-2026/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "nap-com-1",
+      "kategorie": "safe",
+      "markt": "Napoli oder Remis (Doppelte Chance)",
+      "quote": 1.15,
+      "edge_prozent": 4.0,
+      "begruendung": "Napoli-Heim, Como im Maradona historisch chancenlos. DC 1X Goldgrube (84.6%). Klassen-Edge. Bei 1000€ Stufe 1: 1-2 % = 15€.",
+      "faire_quote": 1.1,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "nap-com-2",
+      "kategorie": "value",
+      "markt": "Hoejlund Torschuetze jederzeit",
+      "quote": 2.4,
+      "edge_prozent": 5.0,
+      "begruendung": "Nach Lukaku-Abgang ist Hoejlund der zentrale 9er (HR24: Volumen + Einwechslungs-Boost). De Bruyne-Kreativitaet als Zuspieler. Torschuetzen Jederzeit ist Goldgrube (+24.4% ROI). 1 % = 10€. Quote bei bet365 live pruefen.",
+      "faire_quote": 2.28,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "nap-com-3",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.85,
+      "edge_prozent": 4.0,
+      "begruendung": "Napoli-Heim + De Bruyne + Como offen-taktisch (Fabregas-Handschrift) — Tore erwartbar. Beide Auftakt-Spiele hatten Tore (2:0 fuer Napoli, 1:1 fuer Como). 1 % = 10€.",
+      "faire_quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "nap-com-4",
+      "kategorie": "wackel",
+      "markt": "De Bruyne Torschuetze jederzeit",
+      "quote": 3.5,
+      "edge_prozent": 4.0,
+      "begruendung": "De Bruyne beim 2:0 in Genua getroffen (82.) — Form-Edge. Als OM keine reine 9er-Rolle (max VALUE laut HR-Position), aber Standard-Torschuetze in Serie A. 0.5 % = 5€.",
+      "faire_quote": 3.3,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

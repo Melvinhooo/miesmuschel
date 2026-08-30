@@ -1,0 +1,48 @@
+{
+  "spiel_id": "2026-08-30-sun-ful",
+  "saison_kontext": {
+    "parallel_heim": "keine — Aufsteiger, kein EU-Wettbewerb",
+    "parallel_gast": "keine — kein EU-Wettbewerb 26/27",
+    "saisonziel_heim": "Klassenerhalt — Aufsteiger nach Playoff-Erfolg",
+    "saisonziel_gast": "Mittelfeld/Europa-Play — neuer Trainer Alvaro Arbeloa (seit 07/2026, ex-Real Madrid), Marco Silva zu Benfica",
+    "motivations_asymmetrie": "Fulham unter neuem Trainer Arbeloa (Ex-Real) mit taktischem Umbruch — 24.08. Auftakt-Niederlage 2:3 in Chelsea. Sunderland als Aufsteiger im Stadium of Light mit Emotions-Boost. Coinflip-Charakter, kein SAFE.",
+    "recovery_heim": "1 Woche seit letztem Spiel, frisch",
+    "recovery_gast": "6 Tage seit 2:3 in Chelsea, frisch",
+    "quellen": [
+      "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
+      "https://www.premierleague.com/en/news/4678381/fixture-amendments-for-premier-league-matches-in-august-and-september/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "sun-ful-1",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.75,
+      "edge_prozent": 3.0,
+      "begruendung": "Fulham hat in Chelsea 2 Tore, Sunderland-Aufsteiger daheim mit Angriffslust. BTTS-JA nicht Goldgrube, deshalb wackel. 0.5 % = 5€.",
+      "faire_quote": 1.68,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "sun-ful-2",
+      "kategorie": "wackel",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.35,
+      "edge_prozent": 3.0,
+      "begruendung": "Aufsteiger-Coinflip endet selten mit 4+ Toren, taktisches Testen unter neuem Trainer Arbeloa. 0.5 % = 5€.",
+      "faire_quote": 1.3,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "sun-ful-3",
+      "kategorie": "wackel",
+      "markt": "Fulham oder Remis (Doppelte Chance)",
+      "quote": 1.55,
+      "edge_prozent": 2.0,
+      "begruendung": "Fulham hat trotz Niederlage in Chelsea gezeigt, dass Struktur passt — Sunderland auswaerts (fuer Fulham) mit Fokus auf Punkte. DC X2 ist Goldgrube (76.5%). Nur wackel, weil Coinflip zwischen 2.40-3.50 im 1X2 (kein SAFE erlaubt). 0.5 % = 5€.",
+      "faire_quote": 1.5,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

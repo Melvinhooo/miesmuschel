@@ -1,0 +1,49 @@
+{
+  "spiel_id": "2026-08-30-dep-val",
+  "saison_kontext": {
+    "parallel_heim": "keine — Aufsteiger, kein EU-Wettbewerb",
+    "parallel_gast": "keine — kein EU-Wettbewerb 26/27",
+    "saisonziel_heim": "Klassenerhalt — Aufsteiger nach 8 Jahren Segunda (Platz 2), Motivations-Boost",
+    "saisonziel_gast": "Mittelfeld — Fehlstart mit 1 Punkt aus 2 Spielen (0:0 Celta, Niederlage vs Betis)",
+    "motivations_asymmetrie": "Valencia mit Fehlstart und Druck, Deportivo im Riazor mit Aufsteiger-Emotion und 2 Punkten. Kein klarer Klassen-Edge — Coinflip mit leichtem Heim-Value. Kein SAFE.",
+    "recovery_heim": "1 Woche seit letztem Spiel, frisch",
+    "recovery_gast": "1 Woche seit letztem Spiel, frisch",
+    "quellen": [
+      "https://www.foxsports.com/soccer/la-liga-deportivo-vs-valencia-aug-30-2026-game-boxscore-908973",
+      "https://www.forebet.com/en/football/matches/deportivo-la-coru%C3%B1a-valencia-2495192",
+      "https://www.valenciacf.com/en/17869491036603310"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "dep-val-1",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen NEIN",
+      "quote": 2.1,
+      "edge_prozent": 3.0,
+      "begruendung": "Beide Teams noch nicht toroffensiv (Valencia 1 Tor in 2, Deportivo als Aufsteiger vorsichtig). BTTS-NEIN in Anfangsphase Aufsteiger-Duellen oft. 0.5 % = 5€.",
+      "faire_quote": 2.0,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "dep-val-2",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.75,
+      "edge_prozent": 4.0,
+      "begruendung": "Goldgrube Unter 2.5 (+22.4% ROI, 73.1% Hitrate). Beide defensiv-solide, wenig Torreichtum erwartbar. 0.5 % = 5€.",
+      "faire_quote": 1.68,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "dep-val-3",
+      "kategorie": "wackel",
+      "markt": "Deportivo oder Remis (Doppelte Chance)",
+      "quote": 1.65,
+      "edge_prozent": 2.0,
+      "begruendung": "DC 1X Goldgrube — Riazor-Faktor + Valencia-Druck. Coinflip, deshalb wackel. 0.5 % = 5€.",
+      "faire_quote": 1.6,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

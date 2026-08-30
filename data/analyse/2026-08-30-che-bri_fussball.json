@@ -1,0 +1,59 @@
+{
+  "spiel_id": "2026-08-30-che-bri",
+  "saison_kontext": {
+    "parallel_heim": "keine — Conference-League-Ligaphase ab September, EFL-Cup 2. Runde spaeter",
+    "parallel_gast": "Conference-League-Play-off ab Ende August — Brighton in Conference-Ligaphase 26/27 qualifiziert (Grund fuer Anstoss-Verlegung dieses Spiels)",
+    "saisonziel_heim": "Top-4 / CL-Rueckkehr unter neuem Trainer Xabi Alonso (seit 07/2026, 4-Jahres-Vertrag)",
+    "saisonziel_gast": "Europa-Play (Halte-Position 8.-12.) — Rutter-Team frisch nach 4:0 gg Villa am 1. Spieltag",
+    "motivations_asymmetrie": "Brighton hat gegen Chelsea 4 direkte Duelle in Serie gewonnen (H2H-Hexerei), Chelsea aber daheim unter Alonso mit neuer Struktur (3-4-2-1). Palmer/Rogers/Pedro ist die Ligaklasse — Brighton mit Doppelbelastung durch Conference-Play-off am Do. Chelsea leichter Papier-Favorit, aber H2H mahnt.",
+    "recovery_heim": "8 Tage seit 3:2-Sieg in Fulham (24.08.)",
+    "recovery_gast": "3 Tage nach Conference-Play-off (Donnerstag) — Doppelbelastung greift, Rotation moeglich",
+    "quellen": [
+      "https://www.goal.com/en/news/chelsea-brighton-hove-albion-premier-league-preview/bltdc4156e76e3eeee9",
+      "https://www.aljazeera.com/sports/2026/8/29/chelsea-vs-brighton-premier-league-preview-team-news",
+      "https://www.premierleague.com/en/news/4678381/fixture-amendments-for-premier-league-matches-in-august-and-september/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "che-bri-1",
+      "kategorie": "value",
+      "markt": "Chelsea oder Remis (Doppelte Chance)",
+      "quote": 1.35,
+      "edge_prozent": 5.0,
+      "begruendung": "Chelsea daheim mit Palmer/Rogers/Pedro plus Xabi-Alonso-Effekt (Home-Debut), Brighton mit Conference-Doppelbelastung 3 Tage zuvor. DC 1X: 84.6% Hitrate historisch, unser Goldgrube-Markt. H2H bremst SAFE — deshalb value. Bei 1000€ 1-2 % = 15€.",
+      "faire_quote": 1.28,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "che-bri-2",
+      "kategorie": "value",
+      "markt": "Palmer Torschuetze jederzeit",
+      "quote": 2.6,
+      "edge_prozent": 6.0,
+      "begruendung": "Palmer beim 3:2 in Fulham getroffen — Form-Edge (HR24). Chelseas Nr. 10 daheim, Brighton-Defense noch nicht sattelfest, Vuskovic/Dunk vor der Nase. Torschuetzen Jederzeit ist unser Goldgrube-Markt (+24.4% ROI). Bei 1000€ 1-2 % = 15€. Quote am Anstoss pruefen.",
+      "faire_quote": 2.45,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "che-bri-3",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "edge_prozent": 3.0,
+      "begruendung": "Chelsea 3:2, Brighton 4:0 — beide Auftakte mit vielen Toren, dazu Brighton-Doppelbelastung fuer offene Raeume. Ueber 2.5 nicht Goldgrube auf Papier, aber Kontext-Signal solide. 0.5 % = 5€.",
+      "faire_quote": 1.68,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "che-bri-4",
+      "kategorie": "risk",
+      "markt": "Rutter Torschuetze jederzeit",
+      "quote": 3.8,
+      "edge_prozent": 4.0,
+      "begruendung": "Rutter zentraler 9er bei Brighton, gegen Villa aktiv. HR24-Kandidat wegen Backup-9er-Rolle wenn Rotation. Riskiger Zweit-Torschuetzen-Tipp fuer Kombi-Basis. 0.25 % = 2.50€.",
+      "faire_quote": 3.6,
+      "empfohlener_einsatz_prozent": 0.25
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "spiel_id": "2026-08-30-cel-ath",
+  "saison_kontext": {
+    "parallel_heim": "keine — kein EU-Wettbewerb 26/27",
+    "parallel_gast": "Champions-League-Ligaphase startet Mitte September — noch nicht aktiv, aber Vorbereitung im Kopf",
+    "saisonziel_heim": "Mittelfeld/Europa-Play — 1 Pkt aus 2, aktuell 14.",
+    "saisonziel_gast": "CL-Erfolg + Titel-Aussenseiter — 0 Pkt aus 2, 19. mit 2 Niederlagen (Barcelona 0:2 zuletzt)",
+    "motivations_asymmetrie": "Bilbao mit 0 Pkt und Frustration nach Barca-Niederlage, Celta ohne Sieg aber solide 0:0 vs Osasuna. Bilbao ist Papier-Favorit (Klassen-Edge), aber Balaidos ist eng — H2H seit Jahren zu Celta-Gunsten (31 Siege in 68 Duellen). Coinflip mit Bilbao-Value-Tendenz. Kein SAFE.",
+    "recovery_heim": "1 Woche seit Osasuna-Niederlage 1:2 — Borja Iglesias (Muskel) und Marcos Alonso (Rot) OUT",
+    "recovery_gast": "1 Woche seit Barcelona-Niederlage 0:2",
+    "quellen": [
+      "https://www.sofascore.com/football/match/athletic-club-celta-vigo/wgbsAgb",
+      "https://sports.yahoo.com/articles/preview-celta-vigo-vs-athletic-193500754.html",
+      "https://www.forebet.com/en/football/matches/celta-vigo-athletic-bilbao-2495193"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "cel-ath-1",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.85,
+      "edge_prozent": 5.0,
+      "begruendung": "Ohne Borja Iglesias fehlt Celta Volumen (HR22: Star-OUT), Bilbao mit ordentlicher Defense. Goldgrube Unter 2.5 (+22.4% ROI). 0.5 % = 5€.",
+      "faire_quote": 1.75,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "cel-ath-2",
+      "kategorie": "wackel",
+      "markt": "Athletic Bilbao oder Remis (Doppelte Chance)",
+      "quote": 1.35,
+      "edge_prozent": 3.0,
+      "begruendung": "DC X2 ist Goldgrube (76.5% Hitrate), Bilbao Klassen-Favorit, Balaidos-Faktor bremst SAFE. 0.5 % = 5€.",
+      "faire_quote": 1.28,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "cel-ath-3",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen NEIN",
+      "quote": 2.1,
+      "edge_prozent": 3.0,
+      "begruendung": "Beide Angriffe angeschlagen — Celta ohne Iglesias, Bilbao zuletzt 0 Tore vs Barca. Kompaktes Duell erwartbar. 0.5 % = 5€.",
+      "faire_quote": 2.0,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "spiel_id": "2026-08-30-lee-brf",
+  "saison_kontext": {
+    "parallel_heim": "keine — Aufsteiger, kein EU-Wettbewerb",
+    "parallel_gast": "keine — kein EU-Wettbewerb 26/27",
+    "saisonziel_heim": "Klassenerhalt — Aufsteiger",
+    "saisonziel_gast": "Mittelfeld — nach Wissa-Abgang (zu Newcastle Sep 25) offensiv umgebaut",
+    "motivations_asymmetrie": "Leeds als Aufsteiger daheim mit Elland-Road-Atmosphaere gegen ein Brentford, das seit dem Wissa-Verkauf 09/2025 offensiv duenner ist. Kein klarer Klassen-Edge, Coinflip. Kein SAFE.",
+    "recovery_heim": "1 Woche seit letztem Spiel, frisch",
+    "recovery_gast": "1 Woche seit letztem Spiel, frisch",
+    "quellen": [
+      "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
+      "https://www.brentfordfc.com/en/news/article/first-team-yoane-wissa-brentford-newcastle-united-transfer"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "lee-brf-1",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.75,
+      "edge_prozent": 3.0,
+      "begruendung": "Beide Angriffe eher mittelmaessig, aber beide Defensiven auch nicht dicht — BTTS in Mittelfeld-PL-Duellen oft 55 % +. Wackel, weil nicht Goldgrube. 0.5 % = 5€.",
+      "faire_quote": 1.68,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "lee-brf-2",
+      "kategorie": "wackel",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.35,
+      "edge_prozent": 3.0,
+      "begruendung": "Aufsteiger-Coinflip mit Brentfords geschwaechter Offensive — Tor-Fest unwahrscheinlich. 0.5 % = 5€.",
+      "faire_quote": 1.3,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "lee-brf-3",
+      "kategorie": "wackel",
+      "markt": "Leeds oder Remis (Doppelte Chance)",
+      "quote": 1.55,
+      "edge_prozent": 2.0,
+      "begruendung": "Aufsteiger-Heim-Auftaktspiele historisch zaeh — Elland-Road-Faktor + Brentford-Umbruch. DC 1X Goldgrube. 0.5 % = 5€.",
+      "faire_quote": 1.5,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

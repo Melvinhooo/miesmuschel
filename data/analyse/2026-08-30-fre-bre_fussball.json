@@ -1,0 +1,59 @@
+{
+  "spiel_id": "2026-08-30-fre-bre",
+  "saison_kontext": {
+    "parallel_heim": "Conference-League-Playoff-Rueckspiel 28.08. — Freiburg 4:1 gegen Motherwell (Ligaphase erreicht), 2 Tage vor diesem Spiel gespielt",
+    "parallel_gast": "keine — DFB-Pokal-Erstrundenauftritt 22.08. (0:3-Sieg bei LSK Hansa), seither eine Woche Pause",
+    "saisonziel_heim": "Konferenz-Ligaphase gesichert + Bundesliga-Mittelfeld/EU-Quali (Ausgangswert 7. der Vorsaison mit 47 Pkt)",
+    "saisonziel_gast": "Klassenerhalt/Mittelfeld — 25/26 abgeschlossene Saison ohne europaeische Ambition, Umbruch-Kader unter Steffen",
+    "motivations_asymmetrie": "Freiburg mit 2 Tagen Rueckstand nach Motherwell-Belastung (Reise, 4 Tore = Selbstvertrauen aber Beine schwer). Bremen frisch und ausgeruht — das gleicht die reine Heim-Statistik (Freiburg 4 Siege in Serie gegen Bremen, 10:0 Tore in den letzten 3) tendenziell aus. Heim-Sieg kein SAFE, eher VALUE.",
+    "recovery_heim": "2 Tage seit Conference-League-Rueckspiel 28.08. gegen Motherwell — hohe Belastung, Rotation wahrscheinlich",
+    "recovery_gast": "8 Tage seit Pokal, frisch",
+    "quellen": [
+      "https://www.sofascore.com/football/match/sc-freiburg-sv-werder-bremen/JabsNab",
+      "https://sports.yahoo.com/articles/preview-sc-freiburg-vs-werder-133500259.html",
+      "https://www.bundesliga.com/en/bundesliga/matchday"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "fre-bre-1",
+      "kategorie": "value",
+      "markt": "Freiburg oder Remis (Doppelte Chance)",
+      "quote": 1.3,
+      "edge_prozent": 6.0,
+      "begruendung": "H2H-Dominanz 3 Spiele in Folge zu Null, plus Bremen historisch in Freiburg schwach. Kein SAFE wegen Freiburg-Belastung durch Conference-Play-off 2 Tage vorher (HR3-Nachbar). DC 1X mit +9.5% ROI bei uns Goldgrube. Bei 1000€ Kasse 1-2 % = 10€.",
+      "faire_quote": 1.22,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "fre-bre-2",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen NEIN",
+      "quote": 2.05,
+      "edge_prozent": 5.0,
+      "begruendung": "Bremen hat in 3 der letzten 3 Duelle in Freiburg kein Tor gemacht (0:0-Tore-Bilanz). Freiburgs Defensive stabil, Bremen-Angriff im Umbruch. Statistik: Unter-2.5 mit 73.1% Hitrate und +22.4% ROI — verwandtes Muster. Bei 1000€ 1 % = 10€.",
+      "faire_quote": 1.9,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "fre-bre-3",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.95,
+      "edge_prozent": 4.0,
+      "begruendung": "Bundesliga-Auftakt taktisch, beide Teams ohne offensives Feuerwerk. Freiburg belastet, Bremen umbau-defensiv. Goldgrube Unter 2.5 aktiv suchen — 0.5% = 5€.",
+      "faire_quote": 1.87,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "fre-bre-4",
+      "kategorie": "wackel",
+      "markt": "Matanovic Torschuetze jederzeit",
+      "quote": 3.2,
+      "edge_prozent": 3.0,
+      "begruendung": "Matanovic ist Freiburgs Stamm-9er, gegen Motherwell im Play-off aktiv. HR24: Backup-9er-Qualitaet, Einwechslungs-Boost wenn Rotation. Nur wackel, weil ich seine Form-Zahlen nicht live habe — Quote am Anstoss bei bet365 pruefen. 0.5% = 5€.",
+      "faire_quote": 3.05,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}
