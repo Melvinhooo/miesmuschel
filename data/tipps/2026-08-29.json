@@ -52,7 +52,7 @@
         },
         {
           "id": "liv-nfo-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Alexander Isak Torschuetze jederzeit",
           "quote": 1.9,
           "faire_quote": 2.05,
@@ -60,7 +60,8 @@
           "empfohlener_einsatz_prozent": 1.5,
           "einsatz_prozent_kasse": 1.5,
           "einsatz_euro": 15,
-          "begruendung": "Isak als Newcastle-Rekord-Torschuetze (23 Liga-Tore in der letzten Saison) jetzt als Liverpool-#9 hinter Wirtz - Anfield-Debut vor eigenem Publikum, sucht ersten Treffer im neuen Trikot. Forest-Defensive nach 2 Niederlagen fragil, keine echte Innenverteidigungs-Verstaerkung. Markt-Historie: Torschuetzen Jederzeit war eine der ROI-starken Kategorien im System (frueherer Stand). Einwechslungs-Boost bei bet365 aktiv - sollte Isak frueh raus, zaehlen Tore des Ersatzes. Kasse 1000EUR Stufe 1: 1.5% = 15EUR."
+          "begruendung": "Isak als Newcastle-Rekord-Torschuetze (23 Liga-Tore in der letzten Saison) jetzt als Liverpool-#9 hinter Wirtz - Anfield-Debut vor eigenem Publikum, sucht ersten Treffer im neuen Trikot. Forest-Defensive nach 2 Niederlagen fragil, keine echte Innenverteidigungs-Verstaerkung. Markt-Historie: Torschuetzen Jederzeit war eine der ROI-starken Kategorien im System (frueherer Stand). Einwechslungs-Boost bei bet365 aktiv - sollte Isak frueh raus, zaehlen Tore des Ersatzes. Kasse 1000EUR Stufe 1: 1.5% = 15EUR. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "liv-nfo-3",
@@ -355,7 +356,7 @@
       "tipps": [
         {
           "id": "fio-fro-1",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "markt": "Sieg ACF Fiorentina (90 Min)",
           "quote": 1.5,
           "faire_quote": 1.55,
@@ -367,7 +368,7 @@
         },
         {
           "id": "fio-fro-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Beide Teams treffen (BTTS Ja)",
           "quote": 1.82,
           "faire_quote": 1.95,
@@ -379,7 +380,7 @@
         },
         {
           "id": "fio-fro-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.8,
           "faire_quote": 1.95,
@@ -390,7 +391,7 @@
           "begruendung": "Fiorentina im Reaktions-Modus zu Hause wird offensiv-aggressiv starten, Frosinone-Defensive Serie-A-Neuling. BTTS-Muster + defensive Fiorentina-Wunden aus Roma-Klatsche -> Torfestival-Potenzial. Kasse 1000EUR Stufe 1: 1% = 10EUR."
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
       "id": "2026-08-29-juv-par",
@@ -426,7 +427,7 @@
       "tipps": [
         {
           "id": "juv-par-1",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "markt": "Sieg Juventus FC (90 Min)",
           "quote": 1.22,
           "faire_quote": 1.28,
@@ -438,7 +439,7 @@
         },
         {
           "id": "juv-par-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Juventus -1.5 Handicap (Juve muss mit 2+ Toren Diff gewinnen)",
           "quote": 1.85,
           "faire_quote": 2.0,
@@ -450,7 +451,7 @@
         },
         {
           "id": "juv-par-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Randal Kolo Muani Torschuetze jederzeit",
           "quote": 1.9,
           "faire_quote": 2.05,
@@ -474,7 +475,7 @@
           "begruendung": "Parma defensiv-orientiert unter Cuesta (nur 1 Gegentor gegen Cagliari), Juve tendiert unter Spalletti zu kontrollierten 2:0/2:1-Ergebnissen. Buchmacher-Erwartung 2:0 stuetzt Unter 3.5. Wackel weil sehr niedrige Quote und Juve-Torfestival-Moeglichkeit besteht. Kasse 1000EUR Stufe 1: Wackel = 0.5% = 5EUR."
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     }
   ],
   "einzeltipps": [
