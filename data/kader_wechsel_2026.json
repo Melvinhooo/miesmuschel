@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-30T07:10:58+00:00",
+  "stand": "2026-08-30T21:00:00+00:00",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -251,6 +251,26 @@
       "hinweis": "Deutscher #9 als Woltemade zu Newcastle im Sommer 2026 (etwa £50m). Kam 29.08. gegen Tottenham als Sub rein und legte Wissa direkt das 0:2 auf - Volume-Sub-Impact bestaetigt. NIE mehr als Stuttgart-Spieler tippen. Eintrag aus Auswertung 30.08.",
       "quelle": "https://theanalyst.com/articles/tottenham-vs-newcastle-stats-premier-league-08-2026",
       "stand": "2026-08-30"
+    },
+    {
+      "spieler": "Cristian 'Cuti' Romero",
+      "von": "Tottenham Hotspur",
+      "nach": "Atletico Madrid",
+      "datum": "2026-08-15",
+      "ablöse_mio": 40,
+      "hinweis": "€40m (33 fix + 7 variabel), Vertrag bis 2031. Argentinischer Weltmeister-IV, war Tottenhams Kapitaen und Europa-League-Bester-Spieler 2024/25 (156 PL-Einsaetze in 5 Jahren). NIE mehr als Tottenham-Spieler tippen. Neu als Atletico-IV unter Simeone bewertbar.",
+      "quelle": "https://en.atleticodemadrid.com/noticias/welcome-cuti-romero",
+      "stand": "2026-08-30"
+    },
+    {
+      "spieler": "Noah Atubolu",
+      "von": "SC Freiburg",
+      "nach": "Eintracht Frankfurt (Leihe mit Kaufpflicht)",
+      "datum": "2026-08",
+      "ablöse_mio": 13,
+      "hinweis": "DFB-Torhueter zu Frankfurt per Leihe (1 Mio Leihgebuehr + 12.5 Mio Kaufpflicht ab 2027/28). Vertrag in Freiburg musste erst verlaengert werden, damit Leihe erlaubt. NIE mehr als Freiburg-Spieler tippen. Jetzt Frankfurt-Keeper unter Adi Huetter - relevant fuer Zu-Null- und Torschuetzen-Tore-gegen-Frankfurt-Maerkte.",
+      "quelle": "https://www.scfreiburg.com/en/latest/first-team/news/2026-27/noah-atubolu-extends-contract-and-joins-frankfurt-on-loan",
+      "stand": "2026-08-30"
     }
   ],
   "zugaenge_neue_optionen": [
@@ -382,6 +402,23 @@
       "rolle": "Sturm (Volume-Neuner, 20 Jahre)",
       "hinweis": "Hattrick am 1. Spieltag 2026/27 gegen Union Berlin (3:3, 10./11./67.). Drittschnellstes Doppelpack an einem Bundesliga-Eroeffnungstag (Opta). Ab jetzt aktiv als Frankfurt-Torschuetze scoutbar.",
       "quelle": "https://www.bundesliga.com/en/bundesliga/news/younes-ebnoutalib-hat-trick-eintracht-frankfurt-germany-jurgen-klopp-38883"
+    },
+    {
+      "spieler": "Noah Atubolu",
+      "nach": "Eintracht Frankfurt",
+      "von": "SC Freiburg (Leihe mit Kaufpflicht 13 Mio)",
+      "datum": "2026-08",
+      "hinweis": "Neuer Stamm-Keeper unter Huetter. Frankfurts Zu-Null-Quote und Bulk-Torschuetzen-gegen-SGE-Maerkte ab jetzt an Atubolu ausrichten, nicht mehr an Kauas Santos.",
+      "quelle": "https://www.scfreiburg.com/en/latest/first-team/news/2026-27/noah-atubolu-extends-contract-and-joins-frankfurt-on-loan"
+    },
+    {
+      "spieler": "Cristian 'Cuti' Romero",
+      "nach": "Atletico Madrid",
+      "von": "Tottenham Hotspur",
+      "datum": "2026-08-15",
+      "ablöse_mio": 40,
+      "hinweis": "Argentinischer Weltmeister-IV, jetzt Simeone-Achse. Vertrag bis 2031. Zu-Null-Quote Atletico ab jetzt aufwerten - Simeone bekam endlich seinen Wunsch-IV nach 156 PL-Einsaetzen bei Spurs.",
+      "quelle": "https://en.atleticodemadrid.com/noticias/welcome-cuti-romero"
     }
   ],
   "trainer_2026_27": [
@@ -443,12 +480,13 @@
     },
     {
       "verein": "Real Madrid",
-      "trainer_neu": "Alvaro Arbeloa",
-      "trainer_alt": "Xabi Alonso",
-      "seit": "2026-01-13",
-      "hinweis": "Arbeloa war Real-Nachfolger von Xabi Alonso seit Januar 2026, ist aber im Sommer 2026 zu Fulham gewechselt (bestaetigt Auswertung 25.08. nach Fulham-Chelsea 24.08.). Real Madrid hat seitdem einen anderen Cheftrainer - vor Real-Tipps live pruefen. Alte Aussage 'Arbeloa trainiert Real' nicht mehr auf 2026/27 uebertragen.",
-      "quelle": "https://www.newsonair.gov.in/real-madrid-part-ways-with-xabi-alonso-appoint-alvaro-arbeloa-as-new-head-coach",
-      "stand": "2026-08-25"
+      "trainer_neu": "Jose Mourinho",
+      "trainer_alt": "Alvaro Arbeloa (Interim Jan-Sommer 2026), davor Xabi Alonso",
+      "seit": "2026-06-11",
+      "vertrag_bis": "2029-06",
+      "hinweis": "Mourinho-Rueckkehr nach 13 Jahren, offiziell 11.06.2026 (Preseason-Antritt 13.07.). 3-Jahres-Vertrag bis 2029, kam von Benfica. Ersetzt Interims-Arbeloa (der zu Fulham ging). Taktische Aussagen ueber Real Madrid NICHT auf Alonso/Arbeloa-Stand stuetzen - Mourinho spielt in der Regel defensivkompakter, mehr auf Konter. Bundesliga-Konsequenz fuer Reals CL-Spiele: Unter-2.5 und Zu-Null-Maerkte aufwerten sobald Konter-Setup laeuft.",
+      "quelle": "https://www.realmadrid.com/en-US/news/club/latest-news/comunicado-oficial-mourinho-11-06-2026",
+      "stand": "2026-08-30"
     },
     {
       "verein": "Fulham FC",
@@ -509,6 +547,15 @@
       "trainer_alt": "Cristian Chivu",
       "seit": "2026-07",
       "hinweis": "Ex-Arsenal-Co / spanischer Trainer, sein erster Chef-Job. Uebernahm Sommer 2026."
+    },
+    {
+      "verein": "SL Benfica",
+      "trainer_neu": "offen (live pruefen)",
+      "trainer_alt": "Jose Mourinho",
+      "seit": "2026-07",
+      "hinweis": "Mourinho verliess Benfica zur Saison 2026/27 in Richtung Real Madrid. Benfica-Nachfolger vor CL-/Europapokal-Tipps live pruefen (kicker.de, transfermarkt Trainerhistorie).",
+      "quelle": "https://www.aljazeera.com/sports/2026/6/11/jose-mourinho-named-real-madrid-coach-on-three-year-deal",
+      "stand": "2026-08-30"
     }
   ],
   "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist. Fulham hat mit Arbeloa (ex-Real Madrid) einen neuen Trainer, Silva zu Benfica (bestaetigt 25.08.2026).",
@@ -519,6 +566,9 @@
     "https://sport.sky.de/fussball/artikel/transfer-uebersicht-alle-wechsel-wer-kommt-wer-geht/12525683/35313",
     "https://www.premierleague.com/en/transfers/2026-27/summer",
     "https://en.wikipedia.org/wiki/List_of_English_football_transfers_summer_2026",
-    "https://www.chelseafc.com/en/news/article/xabi-alonso-appointed-chelsea-manager"
+    "https://www.chelseafc.com/en/news/article/xabi-alonso-appointed-chelsea-manager",
+    "https://www.realmadrid.com/en-US/news/club/latest-news/comunicado-oficial-mourinho-11-06-2026",
+    "https://en.atleticodemadrid.com/noticias/welcome-cuti-romero",
+    "https://www.scfreiburg.com/en/latest/first-team/news/2026-27/noah-atubolu-extends-contract-and-joins-frankfurt-on-loan"
   ]
 }
