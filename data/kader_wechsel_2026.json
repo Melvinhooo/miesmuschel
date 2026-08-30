@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-30T08:20:00+02:00",
+  "stand": "2026-08-30T07:10:58+00:00",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -375,6 +375,13 @@
       "von": "VfB Stuttgart",
       "datum": "2026-07-08",
       "hinweis": "Deutscher #9 als Isak-Nachfolger. Volume-Sub-Impact 29.08. bestaetigt."
+    },
+    {
+      "spieler": "Younes Ebnoutalib",
+      "verein": "Eintracht Frankfurt",
+      "rolle": "Sturm (Volume-Neuner, 20 Jahre)",
+      "hinweis": "Hattrick am 1. Spieltag 2026/27 gegen Union Berlin (3:3, 10./11./67.). Drittschnellstes Doppelpack an einem Bundesliga-Eroeffnungstag (Opta). Ab jetzt aktiv als Frankfurt-Torschuetze scoutbar.",
+      "quelle": "https://www.bundesliga.com/en/bundesliga/news/younes-ebnoutalib-hat-trick-eintracht-frankfurt-germany-jurgen-klopp-38883"
     }
   ],
   "trainer_2026_27": [
