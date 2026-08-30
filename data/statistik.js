@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-08-29T06:14:35+00:00",
+  "letzte_berechnung": "2026-08-30T06:14:27+00:00",
   "gesamt": {
     "tipps": 429,
     "gewonnen": 222,
@@ -4297,6 +4297,354 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-08-29",
+      "gesamt": {
+        "tipps": 21,
+        "gewonnen": 11,
+        "verloren": 10,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 21.0,
+        "netto": 19.16,
+        "trefferquote": 52.4,
+        "roi_prozent": 91.2
+      },
+      "spiele": [
+        {
+          "id": "2026-08-29-liv-nfo",
+          "liga": "Premier League 2026/27 - Matchday 3",
+          "heim": "Liverpool FC",
+          "gast": "Nottingham Forest",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg Liverpool FC (90 Min)",
+              "quote": 1.5,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "2:2 Remis - Sieg-Tipp verloren. 2:0-Insurance gilt NICHT fuer Premier League (nur BL + CL)."
+            },
+            {
+              "markt": "Alexander Isak Torschuetze jederzeit",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.9,
+              "kommentar": "Isak 60. Anfield-Debut-Tor (Vorlage Gakpo)."
+            },
+            {
+              "markt": "Beide Teams treffen (BTTS Ja)",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.9,
+              "kommentar": "BTTS erfuellt: Ndoye 24. + Gibbs-White (Elfer) 71. fuer Forest, Isak 60. + Munoz 82. fuer Liverpool."
+            },
+            {
+              "markt": "Florian Wirtz Torschuetze jederzeit",
+              "quote": 3.5,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Wirtz nur mit Vorlage zum 2:2, kein eigenes Tor. Kein Einwechslungs-Boost (Wirtz stand beim Munoz-Tor selbst noch auf dem Platz)."
+            }
+          ]
+        },
+        {
+          "id": "2026-08-29-rbl-bmg",
+          "liga": "Bundesliga 2026/27 - 1. Spieltag",
+          "heim": "RB Leipzig",
+          "gast": "Borussia Moenchengladbach",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg RB Leipzig (90 Min)",
+              "quote": 1.6,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.6,
+              "kommentar": "Leipzig 3:0 - Demichelis-Debut mit Kantersieg. 2:0-Insurance nicht benoetigt."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.47,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.47,
+              "kommentar": "3 Tore - Ueber 2.5 durch."
+            },
+            {
+              "markt": "Antonio Nusa Torschuetze jederzeit",
+              "quote": 2.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 2.75,
+              "kommentar": "Nusa 49. mit Wondergoal - Vorlage Gomis."
+            },
+            {
+              "markt": "Tim Kleindienst Torschuetze jederzeit",
+              "quote": 3.1,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Gladbach ohne Torschuetzen - Kleindienst traf nicht. Kein Einwechslungs-Boost moeglich weil Gladbach 0 Tore."
+            }
+          ]
+        },
+        {
+          "id": "2026-08-29-uni-sge",
+          "liga": "Bundesliga 2026/27 - 1. Spieltag",
+          "heim": "1. FC Union Berlin",
+          "gast": "Eintracht Frankfurt",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance 1X (Union oder Remis)",
+              "quote": 1.42,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.42,
+              "kommentar": "3:3 - DC 1X durch (Remis)."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.9,
+              "kommentar": "6 Tore - Ueber 2.5 klar erreicht."
+            },
+            {
+              "markt": "Can Uzun Torschuetze jederzeit",
+              "quote": 3.2,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Uzun traf nicht. In der 79. Min fuer Arrhov ausgewechselt, Arrhov traf danach nicht - kein Einwechslungs-Boost."
+            }
+          ]
+        },
+        {
+          "id": "2026-08-29-tot-new",
+          "liga": "Premier League 2026/27 - Matchday 3",
+          "heim": "Tottenham Hotspur",
+          "gast": "Newcastle United",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance 1X (Tottenham oder Remis)",
+              "quote": 1.42,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Newcastle 0:2-Sieg - DC 1X (Tottenham/Remis) verloren."
+            },
+            {
+              "markt": "Beide Teams treffen (BTTS Ja)",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Tottenham 0 Tore - BTTS verloren."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.9,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Nur 2 Tore - Ueber 2.5 knapp verloren."
+            }
+          ]
+        },
+        {
+          "id": "2026-08-29-fio-fro",
+          "liga": "Serie A 2026/27 - 2. Giornata",
+          "heim": "ACF Fiorentina",
+          "gast": "Frosinone Calcio",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg ACF Fiorentina (90 Min)",
+              "quote": 1.5,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "SCHOCK: Fiorentina 0:3 zu Hause gegen Aufsteiger Frosinone - Sieg-Tipp verloren. 2:0-Insurance gilt nicht fuer Serie A."
+            },
+            {
+              "markt": "Beide Teams treffen (BTTS Ja)",
+              "quote": 1.82,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Fiorentina 0 Tore - BTTS verloren trotz Muster-These."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.8,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.8,
+              "kommentar": "3 Tore (Frosinone-Show) - Ueber 2.5 durch, wenn auch nicht wie erwartet."
+            }
+          ]
+        },
+        {
+          "id": "2026-08-29-juv-par",
+          "liga": "Serie A 2026/27 - 2. Giornata",
+          "heim": "Juventus FC",
+          "gast": "Parma Calcio 1913",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg Juventus FC (90 Min)",
+              "quote": 1.22,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.22,
+              "kommentar": "Juve 2:0 - Spalletti-Heim-Debut durch."
+            },
+            {
+              "markt": "Juventus -1.5 Handicap (Juve muss mit 2+ Toren Diff gewinnen)",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.85,
+              "kommentar": "2 Tore Vorsprung - Handicap -1.5 durch (2:0 = genau -2)."
+            },
+            {
+              "markt": "Randal Kolo Muani Torschuetze jederzeit",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Kolo Muani spielte 90 Min, blieb ohne Tor. Kein Einwechslungs-Boost - er wurde nicht ausgewechselt."
+            },
+            {
+              "markt": "Unter 3.5 Tore",
+              "quote": 1.35,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.35,
+              "kommentar": "Nur 2 Tore - Unter 3.5 durch."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (Klassen-Favoriten Heim-Debuts)",
+          "kategorie": "safe",
+          "gesamtquote": 4.44,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Liverpool",
+              "quote": 1.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg RB Leipzig",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Juventus -1.5 Handicap",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (Star-Torschuetze + BTTS + Tor-Total)",
+          "kategorie": "balance",
+          "gesamtquote": 6.14,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Isak Torschuetze jederzeit",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (Torschuetzen + BTTS)",
+          "kategorie": "risk",
+          "gesamtquote": 16.02,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Nusa Torschuetze jederzeit",
+              "quote": 2.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Uzun Torschuetze jederzeit",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.82,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (Doppelpack-Lotto)",
+          "kategorie": "moonshot",
+          "gesamtquote": 110.25,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Kleindienst Doppelpack (2+ Tore)",
+              "quote": 7.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Wirtz Torschuetze jederzeit",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Kolo Muani 2+ Tore",
+              "quote": 4.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-08-28",
       "gesamt": {

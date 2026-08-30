@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-29T08:15:00+02:00",
+  "stand": "2026-08-30T08:20:00+02:00",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -224,6 +224,33 @@
       "datum": "2026",
       "hinweis": "Wechsel zu Manchester City im Kalenderjahr 2026 - startete als 6er neben Elliot Anderson bei Man City-Bournemouth 23.08. und traf zum 1:1 (84. Kopfball, spaeter Gvardiol 92. zum 2:1-Sieg). NIE mehr als Crystal Palace-Spieler tippen.",
       "quelle": "https://www.skysports.com/football/news/11095/13495114/marc-guehi-man-city-sign-defender-from-crystal-palace-for-an-initial-lb20m-as-spending-reaches-lb425m-in-12-months"
+    },
+    {
+      "spieler": "Anthony Elanga",
+      "von": "Nottingham Forest",
+      "nach": "Newcastle United",
+      "datum": "2026-07",
+      "hinweis": "Fluegel-Neuzugang bei Newcastle als Gordon-Nachfolger. Traf am 29.08.2026 gegen Tottenham (62.) das 0:1 - erster PL-Treffer im Newcastle-Trikot. NIE mehr als Nottingham Forest-Spieler tippen. Eintrag aus Auswertung 30.08. - Tool hatte Elanga noch als Forest-Spieler gefuehrt.",
+      "quelle": "https://theanalyst.com/articles/tottenham-vs-newcastle-stats-premier-league-08-2026",
+      "stand": "2026-08-30"
+    },
+    {
+      "spieler": "Christopher Nkunku",
+      "von": "AC Milan",
+      "nach": "RB Leipzig (Leihe)",
+      "datum": "2026-08-25",
+      "hinweis": "Rueckkehr auf Leihbasis von AC Milan (Milan bekommt €3.5m sofort + Kaufoption ca. €30m, Gehalt 50/50). Nkunku kam nach der Halbzeit am 29.08. rein und legte Reitz das 3:0 gegen Gladbach auf - zurueck bei seinem 'wahren' Klub, wo er 2019-2023 70 Tore machte. Ab jetzt als Leipzig-Spieler bewerten, NICHT mehr als Milan.",
+      "quelle": "https://www.bundesliga.com/en/bundesliga/news/christopher-nkunku-returns-rb-leipzig-loan-ac-milan-38681",
+      "stand": "2026-08-30"
+    },
+    {
+      "spieler": "Nick Woltemade",
+      "von": "VfB Stuttgart",
+      "nach": "Newcastle United",
+      "datum": "2026-07-08",
+      "hinweis": "Deutscher #9 als Woltemade zu Newcastle im Sommer 2026 (etwa £50m). Kam 29.08. gegen Tottenham als Sub rein und legte Wissa direkt das 0:2 auf - Volume-Sub-Impact bestaetigt. NIE mehr als Stuttgart-Spieler tippen. Eintrag aus Auswertung 30.08.",
+      "quelle": "https://theanalyst.com/articles/tottenham-vs-newcastle-stats-premier-league-08-2026",
+      "stand": "2026-08-30"
     }
   ],
   "zugaenge_neue_optionen": [
@@ -326,6 +353,28 @@
       "hinweis": "Marokkanischer 20-jaehriger Stuermer, U20-Weltmeister 2025 mit Marokko. Kam per Leihe von Rennes bis 30.06.2027 zu LaLiga-Aufsteiger Racing Santander. Schoss am 28.08.2026 im Sardinero gegen Elche einen Hattrick in 21 Minuten (15./20./36.) beim 3:2-Sieg. Racing-Torschuetze-Option Nr. 1, nicht Villalibre. Dieser Eintrag entstand aus der Auswertungsroutine 29.08. - Tool hatte Zabiri gar nicht auf dem Radar.",
       "quelle": "https://www.moroccoworldnews.com/2026/07/331925/racing-santander-sign-moroccos-yassir-zabiri-on-loan-from-rennes/",
       "stand": "2026-08-29"
+    },
+    {
+      "spieler": "Christopher Nkunku",
+      "nach": "RB Leipzig",
+      "von": "AC Milan (Leihe)",
+      "datum": "2026-08-25",
+      "hinweis": "Rueckkehr auf Leihbasis, Milan-Kaufoption ca. €30m. Sofort Halbzeit-Impact 29.08. (Assist zum 3:0 gg Gladbach).",
+      "quelle": "https://www.bundesliga.com/en/bundesliga/news/christopher-nkunku-returns-rb-leipzig-loan-ac-milan-38681"
+    },
+    {
+      "spieler": "Anthony Elanga",
+      "nach": "Newcastle United",
+      "von": "Nottingham Forest",
+      "datum": "2026-07",
+      "hinweis": "Fluegel-Alternativer als Gordon-Nachfolger. Bereits Torschuetze 29.08."
+    },
+    {
+      "spieler": "Nick Woltemade",
+      "nach": "Newcastle United",
+      "von": "VfB Stuttgart",
+      "datum": "2026-07-08",
+      "hinweis": "Deutscher #9 als Isak-Nachfolger. Volume-Sub-Impact 29.08. bestaetigt."
     }
   ],
   "trainer_2026_27": [
@@ -410,6 +459,49 @@
       "hinweis": "Erster senior-Coaching-Job fuer Yaya Toure (ex-Barcelona/Manchester City). Startete Saison 2026/27 mit 6 Siegen und 1 Remis in den ersten 7 Spielen. Fuehrte Slovan Bratislava am 26.08.2026 in die CL-Ligaphase 2026/27 (Sieg n.V. gegen Celje 1:2, Aggregat 3:2). Auswertungsroutine 27.08.2026 - bestaetigt in mehreren Aggregator-Quellen.",
       "quelle": "https://en.wikipedia.org/wiki/2026%E2%80%9327_%C5%A0K_Slovan_Bratislava_season",
       "stand": "2026-08-27"
+    },
+    {
+      "verein": "Liverpool FC",
+      "trainer_neu": "Andoni Iraola",
+      "trainer_alt": "Arne Slot",
+      "seit": "2026-07",
+      "hinweis": "Kam von Bournemouth, 2-Jahres-Vertrag. Anfield-Debut 29.08.2026 endete 2:2 gegen Nottingham Forest. Taktische Aussagen ueber Liverpool NICHT auf Slot-Stand stuetzen.",
+      "quelle": "https://www.liverpoolfc.com/news/liverpool-fc-appoint-andoni-iraola-new-head-coach"
+    },
+    {
+      "verein": "Nottingham Forest",
+      "trainer_neu": "Oliver Glasner",
+      "trainer_alt": "Nuno Espirito Santo",
+      "seit": "2026-07",
+      "hinweis": "Ex-Crystal-Palace / Frankfurt. Uebernahm zur Saison 2026/27."
+    },
+    {
+      "verein": "Tottenham Hotspur",
+      "trainer_neu": "Roberto De Zerbi",
+      "trainer_alt": "Ange Postecoglou / Thomas Frank (Interim)",
+      "seit": "2026-07",
+      "hinweis": "Uebernahm Sommer 2026. Auftakt aus 2 PL-Spielen: 0 Punkte (0:2 Newcastle Heim 29.08.)."
+    },
+    {
+      "verein": "Newcastle United",
+      "trainer_neu": "Matthias Jaissle",
+      "trainer_alt": "Eddie Howe",
+      "seit": "2026-07",
+      "hinweis": "Ex-Red-Bull-Salzburg / Al-Ahli. Trotz Isak/Tonali/Gordon/Guimaraes-Abgang 29.08.2026 erster PL-Sieg (0:2 in Tottenham)."
+    },
+    {
+      "verein": "Juventus FC",
+      "trainer_neu": "Luciano Spalletti",
+      "trainer_alt": "Igor Tudor",
+      "seit": "2026-06",
+      "hinweis": "Ex-Italien-Nationaltrainer, ex-Napoli. Uebernahm Sommer 2026. Allianz-Debut 29.08. mit 2:0 gegen Parma."
+    },
+    {
+      "verein": "Parma Calcio 1913",
+      "trainer_neu": "Carlos Cuesta",
+      "trainer_alt": "Cristian Chivu",
+      "seit": "2026-07",
+      "hinweis": "Ex-Arsenal-Co / spanischer Trainer, sein erster Chef-Job. Uebernahm Sommer 2026."
     }
   ],
   "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist. Fulham hat mit Arbeloa (ex-Real Madrid) einen neuen Trainer, Silva zu Benfica (bestaetigt 25.08.2026).",
