@@ -39,9 +39,9 @@
       "tipps": [
         {
           "id": "lec-rom-1",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "markt": "Sieg AS Roma (90 Min)",
-          "quote": 1.50,
+          "quote": 1.5,
           "edge_prozent": 6,
           "empfohlener_einsatz_prozent": 2.0,
           "empfohlener_einsatz_euro": 20,
@@ -50,7 +50,7 @@
         },
         {
           "id": "lec-rom-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Denzel Malen Torschütze jederzeit",
           "quote": 1.85,
           "edge_prozent": 8,
@@ -63,7 +63,7 @@
           "id": "lec-rom-3",
           "kategorie": "wackel",
           "markt": "Paulo Dybala Torschütze jederzeit",
-          "quote": 3.00,
+          "quote": 3.0,
           "edge_prozent": 4,
           "empfohlener_einsatz_prozent": 0.5,
           "empfohlener_einsatz_euro": 5,
@@ -71,7 +71,7 @@
           "faire_quote": 2.75
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
       "id": "2026-08-31-osa-get",
@@ -103,9 +103,9 @@
       "tipps": [
         {
           "id": "osa-get-1",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "markt": "Unter 2.5 Tore",
-          "quote": 1.40,
+          "quote": 1.4,
           "edge_prozent": 10,
           "empfohlener_einsatz_prozent": 2.0,
           "empfohlener_einsatz_euro": 20,
@@ -114,18 +114,18 @@
         },
         {
           "id": "osa-get-2",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "markt": "Doppelte Chance Osasuna oder Remis (1X)",
-          "quote": 1.40,
+          "quote": 1.4,
           "edge_prozent": 8,
           "empfohlener_einsatz_prozent": 1.5,
           "empfohlener_einsatz_euro": 15,
           "begruendung": "Osasuna zuhause frisch gegen ein Getafe, das Donnerstag 90 Min in Belgrad in den Beinen hat und rotieren wird. Selbst wenn Osasuna nicht siegt, ist Remis wahrscheinlich - ein Getafe-Auswärtssieg unter diesen Umständen wäre die Ausnahme. Bilanz-Reality-Check: 'Doppelte Chance X2/1X' historisch +24 % ROI (Goldgrube). Stake 1.5 % = 15€. DC-Cap-Check: 1 DC-Tipp im Spiel, ok.",
-          "faire_quote": 1.30
+          "faire_quote": 1.3
         },
         {
           "id": "osa-get-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Sieg Osasuna (90 Min)",
           "quote": 2.24,
           "edge_prozent": 5,
@@ -135,7 +135,7 @@
           "faire_quote": 2.05
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
       "id": "2026-08-31-ata-bol",
@@ -168,29 +168,29 @@
       "tipps": [
         {
           "id": "ata-bol-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Sieg Atalanta (90 Min)",
           "quote": 1.92,
           "edge_prozent": 7,
           "empfohlener_einsatz_prozent": 1.5,
           "empfohlener_einsatz_euro": 15,
           "begruendung": "Atalanta zuhause im Sarri-Debüt, Bologna im Umbruch nach Italiano-Abgang und mit Auftakt-Niederlage - klassisches Heim-VALUE-Muster. Reality-Check: VALUE-Kategorie 55.4 % Hitrate, +6.8 % ROI. Stake 1.5 % = 15€.",
-          "faire_quote": 1.80
+          "faire_quote": 1.8
         },
         {
           "id": "ata-bol-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Gianluca Scamacca Torschütze jederzeit",
-          "quote": 2.30,
+          "quote": 2.3,
           "edge_prozent": 8,
           "empfohlener_einsatz_prozent": 1.2,
           "empfohlener_einsatz_euro": 12,
           "begruendung": "Scamacca als zentraler 9er im Sarri-Ballbesitzsystem plus Backup-Stürmer Raspadori als direkter Ersatz (Einwechslungs-Boost, bet365-Regel). HR24 erfüllt: zentraler 9er mit Backup-Stürmer-Qualität. Goldgrube 'Torschützen Jederzeit'. Stake 1.2 % = 12€.",
-          "faire_quote": 2.10
+          "faire_quote": 2.1
         },
         {
           "id": "ata-bol-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Beide Teams treffen (BTTS Ja)",
           "quote": 1.76,
           "edge_prozent": 5,
@@ -200,7 +200,7 @@
           "faire_quote": 1.65
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
       "id": "2026-08-31-bar-ray",
@@ -234,7 +234,7 @@
       "tipps": [
         {
           "id": "bar-ray-1",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "markt": "Über 2.5 Tore",
           "quote": 1.55,
           "edge_prozent": 8,
@@ -245,28 +245,28 @@
         },
         {
           "id": "bar-ray-2",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "markt": "Barcelona Handicap -1 (Asian)",
-          "quote": 1.60,
+          "quote": 1.6,
           "edge_prozent": 6,
           "empfohlener_einsatz_prozent": 1.5,
           "empfohlener_einsatz_euro": 15,
           "begruendung": "Barca-Direktsieg unter 1.30 wäre HR1-Verstoss (SAFE-Range 1.30-1.65), deshalb der Handicap-Weg. Bei 20 Siegen zuhause in Folge und 5:0 Auftakt ist -1 der realistische Mindest-Weg. Push bei 1:0 wird bei Asian-Handicap-Variante Einsatz zurückgezahlt. Stake 1.5 % = 15€.",
-          "faire_quote": 1.50
+          "faire_quote": 1.5
         },
         {
           "id": "bar-ray-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Lamine Yamal Torschütze jederzeit",
-          "quote": 2.20,
+          "quote": 2.2,
           "edge_prozent": 8,
           "empfohlener_einsatz_prozent": 1.2,
           "empfohlener_einsatz_euro": 12,
           "begruendung": "Yamal in Top-Form (bereits in beiden Auftakt-Spielen an Toren beteiligt), rechte Seite gegen Rayos linken Aussenverteidiger (Vertrouwd/Ratiu) klarer Duell-Vorteil. HR24 Form-Edge erfüllt. Goldgrube 'Torschützen Jederzeit'. Stake 1.2 % = 12€.",
-          "faire_quote": 2.00
+          "faire_quote": 2.0
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     }
   ],
   "einzeltipps": [
@@ -276,10 +276,11 @@
       "spiel_label": "Lecce vs Roma (18:30)",
       "kategorie": "safe",
       "markt": "Sieg AS Roma (90 Min)",
-      "quote": 1.50,
+      "quote": 1.5,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20,
-      "begruendung": "Roma nach 4:0 gegen Fiorentina mit Klassen-Edge unter Gasperini + Malen in Form. H2H 9/11 pro Roma. SAFE-Kategorie 65.5 % Hitrate. 2:0-Insurance greift hier NICHT (nur BL + CL)."
+      "begruendung": "Roma nach 4:0 gegen Fiorentina mit Klassen-Edge unter Gasperini + Malen in Form. H2H 9/11 pro Roma. SAFE-Kategorie 65.5 % Hitrate. 2:0-Insurance greift hier NICHT (nur BL + CL).",
+      "rang": 1
     },
     {
       "id": "e2",
@@ -287,10 +288,11 @@
       "spiel_label": "Osasuna vs Getafe (19:30)",
       "kategorie": "safe",
       "markt": "Unter 2.5 Tore",
-      "quote": 1.40,
+      "quote": 1.4,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20,
-      "begruendung": "Bordalás-Defensive + Ramis-Osasuna + Getafe-Reisemüde von Do-Belgrad + Uche verletzt raus - alle Faktoren zeigen wenige Tore. Aktive Goldgrube 'Unter 2.5 Tore' (70.8 % / +17.4 %)."
+      "begruendung": "Bordalás-Defensive + Ramis-Osasuna + Getafe-Reisemüde von Do-Belgrad + Uche verletzt raus - alle Faktoren zeigen wenige Tore. Aktive Goldgrube 'Unter 2.5 Tore' (70.8 % / +17.4 %).",
+      "rang": 2
     },
     {
       "id": "e3",
@@ -301,7 +303,8 @@
       "quote": 1.55,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20,
-      "begruendung": "Barca 7:0 in 2 Spielen, Rayo defensiv fragil auf Reisen. Selbst knapper 3:0 oder 2:1 macht Über 2.5 wahrscheinlich."
+      "begruendung": "Barca 7:0 in 2 Spielen, Rayo defensiv fragil auf Reisen. Selbst knapper 3:0 oder 2:1 macht Über 2.5 wahrscheinlich.",
+      "rang": 3
     },
     {
       "id": "e4",
@@ -309,10 +312,11 @@
       "spiel_label": "Osasuna vs Getafe (19:30)",
       "kategorie": "safe",
       "markt": "Doppelte Chance Osasuna oder Remis (1X)",
-      "quote": 1.40,
+      "quote": 1.4,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15,
-      "begruendung": "Osasuna frisch zuhause, Getafe müde nach Do-Reise Belgrad, Rotation Pflicht. Aktive Goldgrube 'DC X2/1X'."
+      "begruendung": "Osasuna frisch zuhause, Getafe müde nach Do-Reise Belgrad, Rotation Pflicht. Aktive Goldgrube 'DC X2/1X'.",
+      "rang": 4
     },
     {
       "id": "e5",
@@ -320,10 +324,11 @@
       "spiel_label": "Barcelona vs Rayo (21:30)",
       "kategorie": "safe",
       "markt": "Barcelona Handicap -1 (Asian)",
-      "quote": 1.60,
+      "quote": 1.6,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15,
-      "begruendung": "20 Heimsiege in Folge + 5:0 in Elche - Barca -1 der realistische Mindest-Weg. Bei 1:0 Push (Asian)."
+      "begruendung": "20 Heimsiege in Folge + 5:0 in Elche - Barca -1 der realistische Mindest-Weg. Bei 1:0 Push (Asian).",
+      "rang": 5
     },
     {
       "id": "e6",
@@ -334,7 +339,8 @@
       "quote": 1.85,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15,
-      "begruendung": "Malen zentraler 9er, Dreierpack in MD1, Einwechslungs-Boost via Dovbyk. HR24 klar erfüllt. Goldgrube 'Torschützen Jederzeit'."
+      "begruendung": "Malen zentraler 9er, Dreierpack in MD1, Einwechslungs-Boost via Dovbyk. HR24 klar erfüllt. Goldgrube 'Torschützen Jederzeit'.",
+      "rang": 6
     },
     {
       "id": "e7",
@@ -345,7 +351,8 @@
       "quote": 1.92,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15,
-      "begruendung": "Sarri-Heim-Debüt, Auftakt 2:1 gewonnen, Bologna im Trainer-Umbruch nach Italiano-Abgang + Auftakt-Pleite. VALUE."
+      "begruendung": "Sarri-Heim-Debüt, Auftakt 2:1 gewonnen, Bologna im Trainer-Umbruch nach Italiano-Abgang + Auftakt-Pleite. VALUE.",
+      "rang": 7
     },
     {
       "id": "e8",
@@ -353,10 +360,11 @@
       "spiel_label": "Barcelona vs Rayo (21:30)",
       "kategorie": "value",
       "markt": "Lamine Yamal Torschütze jederzeit",
-      "quote": 2.20,
+      "quote": 2.2,
       "empfohlener_einsatz_prozent": 1.2,
       "empfohlener_einsatz_euro": 12,
-      "begruendung": "Yamal Top-Form + Duell-Vorteil rechts. HR24 erfüllt. Goldgrube 'Torschützen Jederzeit'."
+      "begruendung": "Yamal Top-Form + Duell-Vorteil rechts. HR24 erfüllt. Goldgrube 'Torschützen Jederzeit'.",
+      "rang": 8
     },
     {
       "id": "e9",
@@ -364,10 +372,11 @@
       "spiel_label": "Atalanta vs Bologna (20:45)",
       "kategorie": "value",
       "markt": "Gianluca Scamacca Torschütze jederzeit",
-      "quote": 2.30,
+      "quote": 2.3,
       "empfohlener_einsatz_prozent": 1.2,
       "empfohlener_einsatz_euro": 12,
-      "begruendung": "Scamacca zentraler 9er im Sarri-System + Raspadori als Backup (Einwechslungs-Boost). HR24 durch Backup-Stürmer-Qualität erfüllt."
+      "begruendung": "Scamacca zentraler 9er im Sarri-System + Raspadori als Backup (Einwechslungs-Boost). HR24 durch Backup-Stürmer-Qualität erfüllt.",
+      "rang": 9
     },
     {
       "id": "e10",
@@ -378,7 +387,8 @@
       "quote": 1.76,
       "empfohlener_einsatz_prozent": 1.2,
       "empfohlener_einsatz_euro": 12,
-      "begruendung": "Beide Teams offensiv, Sarri-hohe-Kette + Bologna Orsolini/Odgaard - typisch offenes Spiel."
+      "begruendung": "Beide Teams offensiv, Sarri-hohe-Kette + Bologna Orsolini/Odgaard - typisch offenes Spiel.",
+      "rang": 10
     },
     {
       "id": "e11",
@@ -389,7 +399,8 @@
       "quote": 2.24,
       "empfohlener_einsatz_prozent": 1.0,
       "empfohlener_einsatz_euro": 10,
-      "begruendung": "Heim-Vorteil El Sadar + Getafe-Rotation nach Do-Belgrad. VALUE, kein Klassen-Edge aber Kontext-Edge."
+      "begruendung": "Heim-Vorteil El Sadar + Getafe-Rotation nach Do-Belgrad. VALUE, kein Klassen-Edge aber Kontext-Edge.",
+      "rang": 11
     },
     {
       "id": "e12",
@@ -397,10 +408,11 @@
       "spiel_label": "Lecce vs Roma (18:30)",
       "kategorie": "wackel",
       "markt": "Paulo Dybala Torschütze jederzeit",
-      "quote": 3.00,
+      "quote": 3.0,
       "empfohlener_einsatz_prozent": 0.5,
       "empfohlener_einsatz_euro": 5,
-      "begruendung": "Dybala als hängende Spitze mit Standard-Torgefahr, aber primär Vorbereiter. WACKEL-Bilanz historisch -5.5 % - kleiner Stake."
+      "begruendung": "Dybala als hängende Spitze mit Standard-Torgefahr, aber primär Vorbereiter. WACKEL-Bilanz historisch -5.5 % - kleiner Stake.",
+      "rang": 12
     }
   ],
   "kombis": [
@@ -412,9 +424,27 @@
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20,
       "beine": [
-        {"spiel_id": "2026-08-31-lec-rom", "spiel_label": "Lecce vs Roma", "markt": "Sieg AS Roma (90 Min)", "quote": 1.50, "kategorie": "safe"},
-        {"spiel_id": "2026-08-31-osa-get", "spiel_label": "Osasuna vs Getafe", "markt": "Unter 2.5 Tore", "quote": 1.40, "kategorie": "safe"},
-        {"spiel_id": "2026-08-31-bar-ray", "spiel_label": "Barcelona vs Rayo", "markt": "Barcelona Handicap -1", "quote": 1.60, "kategorie": "safe"}
+        {
+          "spiel_id": "2026-08-31-lec-rom",
+          "spiel_label": "Lecce vs Roma",
+          "markt": "Sieg AS Roma (90 Min)",
+          "quote": 1.5,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-08-31-osa-get",
+          "spiel_label": "Osasuna vs Getafe",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.4,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-08-31-bar-ray",
+          "spiel_label": "Barcelona vs Rayo",
+          "markt": "Barcelona Handicap -1",
+          "quote": 1.6,
+          "kategorie": "safe"
+        }
       ],
       "begruendung": "Drei ehrliche Favoriten-Beine aus drei verschiedenen Spielen: Roma-Klassen-Edge, Osasuna-Getafe-Defensiv-Muster (Goldgrube), Barca-Handicap-Weg über den 5:0-Auftakt. Kein Torschützen-Beine (jeder Ausfall-Restrisiko rausgehalten). Stake 2 % = 20€."
     },
@@ -426,9 +456,27 @@
       "empfohlener_einsatz_prozent": 0.8,
       "empfohlener_einsatz_euro": 8,
       "beine": [
-        {"spiel_id": "2026-08-31-ata-bol", "spiel_label": "Atalanta vs Bologna", "markt": "Sieg Atalanta (90 Min)", "quote": 1.92, "kategorie": "balance"},
-        {"spiel_id": "2026-08-31-lec-rom", "spiel_label": "Lecce vs Roma", "markt": "Malen Torschütze jederzeit", "quote": 1.85, "kategorie": "balance"},
-        {"spiel_id": "2026-08-31-bar-ray", "spiel_label": "Barcelona vs Rayo", "markt": "Yamal Torschütze jederzeit", "quote": 2.20, "kategorie": "balance"}
+        {
+          "spiel_id": "2026-08-31-ata-bol",
+          "spiel_label": "Atalanta vs Bologna",
+          "markt": "Sieg Atalanta (90 Min)",
+          "quote": 1.92,
+          "kategorie": "balance"
+        },
+        {
+          "spiel_id": "2026-08-31-lec-rom",
+          "spiel_label": "Lecce vs Roma",
+          "markt": "Malen Torschütze jederzeit",
+          "quote": 1.85,
+          "kategorie": "balance"
+        },
+        {
+          "spiel_id": "2026-08-31-bar-ray",
+          "spiel_label": "Barcelona vs Rayo",
+          "markt": "Yamal Torschütze jederzeit",
+          "quote": 2.2,
+          "kategorie": "balance"
+        }
       ],
       "begruendung": "Ein Sieg-Outcome (Atalanta) plus zwei Form-Torschützen aus Top-Spielen: Malen kommt vom Dreierpack, Yamal aus 2 Auftakt-Toren. Layer-2 erfüllt (nur 1 Sieg-Outcome), verschiedene Spiele. Stake 0.8 % = 8€."
     },
@@ -438,26 +486,68 @@
       "gesamtquote": 15.46,
       "rechnung": "2.30 x 2.24 x 3.00 = 15.46",
       "empfohlener_einsatz_prozent": 0.25,
-      "empfohlener_einsatz_euro": 2.50,
+      "empfohlener_einsatz_euro": 2.5,
       "beine": [
-        {"spiel_id": "2026-08-31-ata-bol", "spiel_label": "Atalanta vs Bologna", "markt": "Scamacca Torschütze jederzeit", "quote": 2.30, "kategorie": "risk"},
-        {"spiel_id": "2026-08-31-osa-get", "spiel_label": "Osasuna vs Getafe", "markt": "Sieg Osasuna", "quote": 2.24, "kategorie": "risk"},
-        {"spiel_id": "2026-08-31-lec-rom", "spiel_label": "Lecce vs Roma", "markt": "Dybala Torschütze jederzeit", "quote": 3.00, "kategorie": "risk"}
+        {
+          "spiel_id": "2026-08-31-ata-bol",
+          "spiel_label": "Atalanta vs Bologna",
+          "markt": "Scamacca Torschütze jederzeit",
+          "quote": 2.3,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-08-31-osa-get",
+          "spiel_label": "Osasuna vs Getafe",
+          "markt": "Sieg Osasuna",
+          "quote": 2.24,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-08-31-lec-rom",
+          "spiel_label": "Lecce vs Roma",
+          "markt": "Dybala Torschütze jederzeit",
+          "quote": 3.0,
+          "kategorie": "risk"
+        }
       ],
       "begruendung": "Torschützen-Doppel (Scamacca + Dybala) plus Osasuna-Heimsieg. Layer-2 hart erfüllt: nur 1 Sieg-Outcome. Roma bereits als Sieg im Safe - hier über den zweiten Roma-Torschützen einen weiteren Roma-Zugriff, andere Spieler-Basis. Stake 0.25 % = 2.50€."
     },
     {
       "name": "Moonshot-Kombi",
       "kategorie": "moonshot",
-      "gesamtquote": 356.40,
+      "gesamtquote": 356.4,
       "rechnung": "3.20 x 5.50 x 4.50 x 4.50 = 356.40",
       "empfohlener_einsatz_prozent": 0.1,
-      "empfohlener_einsatz_euro": 1.00,
+      "empfohlener_einsatz_euro": 1.0,
       "beine": [
-        {"spiel_id": "2026-08-31-bar-ray", "spiel_label": "Barcelona vs Rayo", "markt": "Adeyemi Torschütze jederzeit", "quote": 3.20, "kategorie": "moonshot"},
-        {"spiel_id": "2026-08-31-ata-bol", "spiel_label": "Atalanta vs Bologna", "markt": "Scamacca 2+ Tore", "quote": 5.50, "kategorie": "moonshot"},
-        {"spiel_id": "2026-08-31-lec-rom", "spiel_label": "Lecce vs Roma", "markt": "Malen 2+ Tore", "quote": 4.50, "kategorie": "moonshot"},
-        {"spiel_id": "2026-08-31-osa-get", "spiel_label": "Osasuna vs Getafe", "markt": "Satriano Torschütze jederzeit", "quote": 4.50, "kategorie": "moonshot"}
+        {
+          "spiel_id": "2026-08-31-bar-ray",
+          "spiel_label": "Barcelona vs Rayo",
+          "markt": "Adeyemi Torschütze jederzeit",
+          "quote": 3.2,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-08-31-ata-bol",
+          "spiel_label": "Atalanta vs Bologna",
+          "markt": "Scamacca 2+ Tore",
+          "quote": 5.5,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-08-31-lec-rom",
+          "spiel_label": "Lecce vs Roma",
+          "markt": "Malen 2+ Tore",
+          "quote": 4.5,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-08-31-osa-get",
+          "spiel_label": "Osasuna vs Getafe",
+          "markt": "Satriano Torschütze jederzeit",
+          "quote": 4.5,
+          "kategorie": "moonshot"
+        }
       ],
       "begruendung": "Vier Spiele, vier Torschützen-Wetten - kein Sieg-Outcome-Konflikt. Alle vier Beine müssen treffen, echter Lotterie-Charakter. Über 100x-Grenze. Stake 0.1 % = 1€ Spass-Einsatz. HINWEIS: Adeyemi ist erst seit Sommer bei Barca (Wechsel von Dortmund) - Startelf-Einsatz laut Vorschau, aber Debüt-Match-Risiko."
     }
