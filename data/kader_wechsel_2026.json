@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-30T21:00:00+00:00",
+  "stand": "2026-08-31T08:00:00+00:00",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -556,6 +556,35 @@
       "hinweis": "Mourinho verliess Benfica zur Saison 2026/27 in Richtung Real Madrid. Benfica-Nachfolger vor CL-/Europapokal-Tipps live pruefen (kicker.de, transfermarkt Trainerhistorie).",
       "quelle": "https://www.aljazeera.com/sports/2026/6/11/jose-mourinho-named-real-madrid-coach-on-three-year-deal",
       "stand": "2026-08-30"
+    },
+    {
+      "verein": "Athletic Club Bilbao",
+      "trainer_neu": "Edin Terzic",
+      "trainer_alt": "Ernesto Valverde",
+      "seit": "2026-05-05",
+      "vertrag_bis": "2028-06",
+      "hinweis": "Deutsch-kroatischer Trainer, Ex-BVB (Meisterschafts-Zweiter 2023, CL-Finale 2024). Uebernahm zur Saison 2026/27. Bestaetigt in Celta-Athletic-Preview 30.08.2026. Taktische Aussagen ueber Bilbao NICHT auf Valverde-Stand stuetzen - Terzic spielt aggressiver Gegenpressing, ball-orientiert. Zu-Null-Quote hat weniger Bedeutung, Unter-2.5 vorsichtiger einschaetzen.",
+      "quelle": "https://www.tsn.ca/soccer/la-liga/article/athletic-bilbao-hires-terzic-as-the-coach-for-the-next-two-seasons/",
+      "stand": "2026-08-31"
+    },
+    {
+      "verein": "SSC Napoli",
+      "trainer_neu": "Massimiliano Allegri",
+      "trainer_alt": "Antonio Conte",
+      "seit": "2026-07",
+      "hinweis": "Ex-Juventus/Milan. Uebernahm zur Saison 2026/27 nach Conte-Abgang. Bestaetigt via Napoli-Como 30.08.2026 (Hoejlund-Zitat 'more freedom under Allegri'). Home-Debut endete 1:2-Upset gegen CL-Aufsteiger Como. Taktische Aussagen ueber Napoli NICHT auf Conte-Stand stuetzen - Allegri spielt reaktiver, mehr Ball-Verwaltung.",
+      "quelle": "https://ca.sports.yahoo.com/news/hojlund-more-freedom-under-allegri-211500395.html",
+      "stand": "2026-08-31"
+    },
+    {
+      "verein": "RC Celta de Vigo",
+      "trainer_neu": "Claudio Giraldez",
+      "trainer_alt": "-",
+      "seit": "2024-03",
+      "status": "weiter",
+      "hinweis": "Seit Rest-Saison 2023/24 (Vorgaenger Rafa Benitez). Bestaetigt in Celta-Athletic-Preview 30.08.2026.",
+      "quelle": "https://footballwhispers.com/blog/celta-vigo-vs-athletic-bilbao-prediction-30-08-2026/",
+      "stand": "2026-08-31"
     }
   ],
   "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist. Fulham hat mit Arbeloa (ex-Real Madrid) einen neuen Trainer, Silva zu Benfica (bestaetigt 25.08.2026).",

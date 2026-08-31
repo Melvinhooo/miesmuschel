@@ -1,0 +1,2463 @@
+{
+  "datum": "2026-08-30",
+  "erstellt_am": "2026-08-30T08:08:21.287477+00:00",
+  "hinweis": "Sonntags-Slate 30.08. — Bundesliga Spieltag 1 finalisiert (Freiburg-Bremen, Augsburg-Schalke), Premier League MD3 mit Chelsea-Brighton + Man United-Ipswich, LaLiga J3 mit Real-Malaga, Serie A GT2 mit Napoli-Como + Cagliari-Inter + Lazio-Genoa, Ligue 1 GT2 Monaco-Marseille. Saison-Kasse 1000€, Stufe 1 (1-2 % Einzel). Recherche-File fehlte — Slate per WebSearch verifiziert (kein football-data.org im Netz-Proxy). Frisch aus dem Kader-Guardrail: Elanga jetzt Newcastle, Woltemade jetzt Newcastle, Nkunku wieder Leipzig — heute nicht relevant, aber Prinzip: Namen live prüfen.",
+  "spiele": [
+    {
+      "id": "2026-08-30-fre-bre",
+      "liga": "Bundesliga 2026/27 - 1. Spieltag",
+      "heim": "SC Freiburg",
+      "gast": "SV Werder Bremen",
+      "anstoss": "2026-08-30T15:30:00+02:00",
+      "stadion": "Europa-Park-Stadion, Freiburg",
+      "saison_kontext": {
+        "parallel_heim": "Conference-League-Playoff-Rueckspiel 28.08. — Freiburg 4:1 gegen Motherwell (Ligaphase erreicht), 2 Tage vor diesem Spiel gespielt",
+        "parallel_gast": "keine — DFB-Pokal-Erstrundenauftritt 22.08. (0:3-Sieg bei LSK Hansa), seither eine Woche Pause",
+        "saisonziel_heim": "Konferenz-Ligaphase gesichert + Bundesliga-Mittelfeld/EU-Quali (Ausgangswert 7. der Vorsaison mit 47 Pkt)",
+        "saisonziel_gast": "Klassenerhalt/Mittelfeld — 25/26 abgeschlossene Saison ohne europaeische Ambition, Umbruch-Kader unter Steffen",
+        "motivations_asymmetrie": "Freiburg mit 2 Tagen Rueckstand nach Motherwell-Belastung (Reise, 4 Tore = Selbstvertrauen aber Beine schwer). Bremen frisch und ausgeruht — das gleicht die reine Heim-Statistik (Freiburg 4 Siege in Serie gegen Bremen, 10:0 Tore in den letzten 3) tendenziell aus. Heim-Sieg kein SAFE, eher VALUE.",
+        "recovery_heim": "2 Tage seit Conference-League-Rueckspiel 28.08. gegen Motherwell — hohe Belastung, Rotation wahrscheinlich",
+        "recovery_gast": "8 Tage seit Pokal, frisch",
+        "quellen": [
+          "https://www.sofascore.com/football/match/sc-freiburg-sv-werder-bremen/JabsNab",
+          "https://sports.yahoo.com/articles/preview-sc-freiburg-vs-werder-133500259.html",
+          "https://www.bundesliga.com/en/bundesliga/matchday"
+        ]
+      },
+      "news": [
+        "Freiburg 2 Tage nach 4:1 gg Motherwell (Conference-Play-off) — Rotation moeglich, Belastung nach EU-Reise",
+        "Bremen nach 0:3 in Pokal frisch, aber Sturm-Zentrum Fuellkrug/Njinmah muss zuenden",
+        "H2H seit 3 Spielen 10:0 fuer Freiburg — Bremen ohne Sieg in Freiburg seit Jahren",
+        "Trainer Schuster (Freiburg, seit 2024) weiter, Bremen ohne bestaetigten Wechsel — Prinzip: Aufstellung am Anstoss live pruefen"
+      ],
+      "tipps": [
+        {
+          "id": "fre-bre-1",
+          "kategorie": "value",
+          "markt": "Freiburg oder Remis (Doppelte Chance)",
+          "quote": 1.3,
+          "edge_prozent": 6.0,
+          "begruendung": "H2H-Dominanz 3 Spiele in Folge zu Null, plus Bremen historisch in Freiburg schwach. Kein SAFE wegen Freiburg-Belastung durch Conference-Play-off 2 Tage vorher (HR3-Nachbar). DC 1X mit +9.5% ROI bei uns Goldgrube. Bei 1000€ Kasse 1-2 % = 10€.",
+          "faire_quote": 1.22,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "fre-bre-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen NEIN",
+          "quote": 2.05,
+          "edge_prozent": 5.0,
+          "begruendung": "Bremen hat in 3 der letzten 3 Duelle in Freiburg kein Tor gemacht (0:0-Tore-Bilanz). Freiburgs Defensive stabil, Bremen-Angriff im Umbruch. Statistik: Unter-2.5 mit 73.1% Hitrate und +22.4% ROI — verwandtes Muster. Bei 1000€ 1 % = 10€.",
+          "faire_quote": 1.9,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "fre-bre-3",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.95,
+          "edge_prozent": 4.0,
+          "begruendung": "Bundesliga-Auftakt taktisch, beide Teams ohne offensives Feuerwerk. Freiburg belastet, Bremen umbau-defensiv. Goldgrube Unter 2.5 aktiv suchen — 0.5% = 5€.",
+          "faire_quote": 1.87,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "fre-bre-4",
+          "kategorie": "wackel",
+          "markt": "Matanovic Torschuetze jederzeit",
+          "quote": 3.2,
+          "edge_prozent": 3.0,
+          "begruendung": "Matanovic ist Freiburgs Stamm-9er, gegen Motherwell im Play-off aktiv. HR24: Backup-9er-Qualitaet, Einwechslungs-Boost wenn Rotation. Nur wackel, weil ich seine Form-Zahlen nicht live habe — Quote am Anstoss bei bet365 pruefen. 0.5% = 5€.",
+          "faire_quote": 3.05,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 4,
+        "gast": 1,
+        "halbzeit_heim": 2,
+        "halbzeit_gast": 0
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "fre-bre-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.3,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "fre-bre-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "fre-bre-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "fre-bre-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 3.2,
+          "kommentar": "Matanovic 45. Minute",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:0",
+        "endstand": "4:1",
+        "tore": [
+          {
+            "min": 29,
+            "team": "heim",
+            "spieler": "Yuito Suzuki",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 45,
+            "team": "heim",
+            "spieler": "Igor Matanovic",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 48,
+            "team": "heim",
+            "spieler": "Yuito Suzuki",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": 55,
+            "team": "heim",
+            "spieler": "Yuito Suzuki",
+            "stand_danach": "4:0"
+          },
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Bremen (unspezifiziert)",
+            "stand_danach": "4:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": null
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "kein_team_zu_null": true,
+          "halbzeit_endstand": "Heim/Heim"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Suzuki-Hattrick + Matanovic - Freiburg-Auftakt 4:1 trotz nur 2 Tage Pause nach Motherwell. Rotation offenbar minimal."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-30-aug-s04",
+      "liga": "Bundesliga 2026/27 - 1. Spieltag",
+      "heim": "FC Augsburg",
+      "gast": "FC Schalke 04",
+      "anstoss": "2026-08-30T15:30:00+02:00",
+      "stadion": "WWK Arena, Augsburg",
+      "saison_kontext": {
+        "parallel_heim": "keine — Erstrundenpokal 22.08. abgeschlossen",
+        "parallel_gast": "keine — Aufsteiger, Erstrundenpokal 22.08. abgeschlossen",
+        "saisonziel_heim": "Klassenerhalt, Mittelfeld unteres Drittel — kein europaeischer Anspruch",
+        "saisonziel_gast": "Aufsteiger nach 8 Jahren 2. Bundesliga zurueck im Oberhaus — Ziel Klassenerhalt, Vorfreude-Boost",
+        "motivations_asymmetrie": "Schalke als Aufsteiger mit Euphorie, Augsburg mit gewohnter Auftakt-Anspannung. Kein klarer Klassen-Edge — Aufsteiger-Heim-Auftaktspiele erfahrungsgemaess offen. Coinflip nach Papierform, kein SAFE.",
+        "recovery_heim": "8 Tage seit Pokal, frisch",
+        "recovery_gast": "8 Tage seit Pokal, frisch",
+        "quellen": [
+          "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/fc-augsburg",
+          "https://www.fcaugsburg.de/games/",
+          "https://www.bundesliga.com/en/bundesliga/news/confirmed-kick-off-times-dates-2026-27-fixtures-23955"
+        ]
+      },
+      "news": [
+        "Schalke 04 nach acht Jahren zurueck im Oberhaus — Emotions-Faktor Aufsteiger",
+        "Augsburg-Heimauftakt oft zaeh — 25/26 kein Heim-Auftakt-Sieg gegen Aufsteiger",
+        "Aufstellungen am Anstoss bei kicker.de live pruefen — Sommertransfers noch offen"
+      ],
+      "tipps": [
+        {
+          "id": "aug-s04-1",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.75,
+          "edge_prozent": 3.0,
+          "begruendung": "Aufsteiger-Auftaktspiel klassisch offen, beide Defensivreihen noch nicht eingespielt. Aber BTTS-JA ist nicht in unseren Markt-Goldgruben, deshalb wackel. 0.5 % = 5€.",
+          "faire_quote": 1.68,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "aug-s04-2",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.0,
+          "edge_prozent": 3.0,
+          "begruendung": "Aufsteiger-Auftakt oft Tor-reich, keine der beiden Defensive top. Aber Ueber 2.5 als Auftakt-Sonntag noch nicht in unserer Bilanz belegt — wackel. 0.5 % = 5€.",
+          "faire_quote": 1.92,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "aug-s04-3",
+          "kategorie": "wackel",
+          "markt": "Schalke oder Remis (Doppelte Chance)",
+          "quote": 1.85,
+          "edge_prozent": 2.0,
+          "begruendung": "DC X2 ist Markt-Goldgrube (76.5% Hitrate). Als Aufsteiger-Auftakt bei einem in Heimauftakt-Spielen zaehen Augsburg mit Value. Nur wackel wegen Coinflip-Charakter. 0.5 % = 5€. Bei bet365 live pruefen.",
+          "faire_quote": 1.78,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 1,
+        "gast": 1,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "aug-s04-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.75,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "aug-s04-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "aug-s04-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.85,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 51,
+            "team": "heim",
+            "spieler": "Arne Maier",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Schalke (unspezifiziert)",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": null
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "kein_team_zu_null": true,
+          "halbzeit_endstand": "Unentschieden/Unentschieden"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": []
+      }
+    },
+    {
+      "id": "2026-08-30-che-bri",
+      "liga": "Premier League 2026/27 - Matchday 3",
+      "heim": "Chelsea FC",
+      "gast": "Brighton & Hove Albion",
+      "anstoss": "2026-08-30T15:00:00+02:00",
+      "stadion": "Stamford Bridge, London",
+      "saison_kontext": {
+        "parallel_heim": "keine — Conference-League-Ligaphase ab September, EFL-Cup 2. Runde spaeter",
+        "parallel_gast": "Conference-League-Play-off ab Ende August — Brighton in Conference-Ligaphase 26/27 qualifiziert (Grund fuer Anstoss-Verlegung dieses Spiels)",
+        "saisonziel_heim": "Top-4 / CL-Rueckkehr unter neuem Trainer Xabi Alonso (seit 07/2026, 4-Jahres-Vertrag)",
+        "saisonziel_gast": "Europa-Play (Halte-Position 8.-12.) — Rutter-Team frisch nach 4:0 gg Villa am 1. Spieltag",
+        "motivations_asymmetrie": "Brighton hat gegen Chelsea 4 direkte Duelle in Serie gewonnen (H2H-Hexerei), Chelsea aber daheim unter Alonso mit neuer Struktur (3-4-2-1). Palmer/Rogers/Pedro ist die Ligaklasse — Brighton mit Doppelbelastung durch Conference-Play-off am Do. Chelsea leichter Papier-Favorit, aber H2H mahnt.",
+        "recovery_heim": "8 Tage seit 3:2-Sieg in Fulham (24.08.)",
+        "recovery_gast": "3 Tage nach Conference-Play-off (Donnerstag) — Doppelbelastung greift, Rotation moeglich",
+        "quellen": [
+          "https://www.goal.com/en/news/chelsea-brighton-hove-albion-premier-league-preview/bltdc4156e76e3eeee9",
+          "https://www.aljazeera.com/sports/2026/8/29/chelsea-vs-brighton-premier-league-preview-team-news",
+          "https://www.premierleague.com/en/news/4678381/fixture-amendments-for-premier-league-matches-in-august-and-september/"
+        ]
+      },
+      "news": [
+        "Chelsea unter Xabi Alonso mit 3:2-Auftaktsieg in Fulham (Pedro, Rogers, Palmer) — neue 3-4-2-1-Struktur",
+        "Brighton mit 4:0 gg Villa am 1. Spieltag (Hinshelwood-Doppelpack) — Sturm um Rutter zuendet",
+        "Brighton mit Conference-Play-off am Donnerstag — Rotation moeglich (Grund fuer Anstoss-Verlegung)",
+        "H2H: Brighton 4 Siege in Serie gg Chelsea, letzter 3:0 im April 2026",
+        "Chelsea: Henderson OUT. Brighton: Tzimas, Minteh, Ferguson OUT"
+      ],
+      "tipps": [
+        {
+          "id": "che-bri-1",
+          "kategorie": "value",
+          "markt": "Chelsea oder Remis (Doppelte Chance)",
+          "quote": 1.35,
+          "edge_prozent": 5.0,
+          "begruendung": "Chelsea daheim mit Palmer/Rogers/Pedro plus Xabi-Alonso-Effekt (Home-Debut), Brighton mit Conference-Doppelbelastung 3 Tage zuvor. DC 1X: 84.6% Hitrate historisch, unser Goldgrube-Markt. H2H bremst SAFE — deshalb value. Bei 1000€ 1-2 % = 15€.",
+          "faire_quote": 1.28,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "che-bri-2",
+          "kategorie": "wackel",
+          "markt": "Palmer Torschuetze jederzeit",
+          "quote": 2.6,
+          "edge_prozent": 6.0,
+          "begruendung": "Palmer beim 3:2 in Fulham getroffen — Form-Edge (HR24). Chelseas Nr. 10 daheim, Brighton-Defense noch nicht sattelfest, Vuskovic/Dunk vor der Nase. Torschuetzen Jederzeit ist unser Goldgrube-Markt (+24.4% ROI). Bei 1000€ 1-2 % = 15€. Quote am Anstoss pruefen. [Auto HR3: UEFA-Doppelbelastung + Rotation - Top-Stuermer max WACKEL, Joker-Tipp suchen]",
+          "faire_quote": 2.45,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_joker_top_stuermer_block": true
+        },
+        {
+          "id": "che-bri-3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 3.0,
+          "begruendung": "Chelsea 3:2, Brighton 4:0 — beide Auftakte mit vielen Toren, dazu Brighton-Doppelbelastung fuer offene Raeume. Ueber 2.5 nicht Goldgrube auf Papier, aber Kontext-Signal solide. 0.5 % = 5€.",
+          "faire_quote": 1.68,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "che-bri-4",
+          "kategorie": "risk",
+          "markt": "Rutter Torschuetze jederzeit",
+          "quote": 3.8,
+          "edge_prozent": 4.0,
+          "begruendung": "Rutter zentraler 9er bei Brighton, gegen Villa aktiv. HR24-Kandidat wegen Backup-9er-Rolle wenn Rotation. Riskiger Zweit-Torschuetzen-Tipp fuer Kombi-Basis. 0.25 % = 2.50€.",
+          "faire_quote": 3.6,
+          "empfohlener_einsatz_prozent": 0.25
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 4,
+        "gast": 3,
+        "halbzeit_heim": 3,
+        "halbzeit_gast": 1
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "che-bri-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.35,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "che-bri-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.6,
+          "kommentar": "Palmer 74.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "che-bri-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.75,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "che-bri-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Rutter verletzt, gar nicht im Kader - kein Einwechslungs-Boost anwendbar",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "3:1",
+        "endstand": "4:3",
+        "tore": [
+          {
+            "min": 4,
+            "team": "heim",
+            "spieler": "Romeo Lavia",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 14,
+            "team": "heim",
+            "spieler": "Pedro Neto",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 32,
+            "team": "heim",
+            "spieler": "Joao Pedro",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": 41,
+            "team": "gast",
+            "spieler": "Yalcouye",
+            "stand_danach": "3:1"
+          },
+          {
+            "min": 63,
+            "team": "gast",
+            "spieler": "Joao Pedro (Eigentor / Deflection Gross-Flanke)",
+            "stand_danach": "3:2"
+          },
+          {
+            "min": 74,
+            "team": "heim",
+            "spieler": "Cole Palmer",
+            "stand_danach": "4:2"
+          },
+          {
+            "min": 92,
+            "team": "gast",
+            "spieler": "Pascal Gross",
+            "stand_danach": "4:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": null
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "kein_team_zu_null": true,
+          "halbzeit_endstand": "Heim/Heim"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Chelsea 3:0-Fuehrung nach 32. Min., dann verwackelt - Brighton kam auf 3:2 (63.) und 3:3-Nahe, Palmer 74. entschied. Vier-Tore-Halbzeit auf einer Seite bei bet365 nur ueber Palmer-Wette drin."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-30-mun-ips",
+      "liga": "Premier League 2026/27 - Matchday 3",
+      "heim": "Manchester United",
+      "gast": "Ipswich Town",
+      "anstoss": "2026-08-30T17:30:00+02:00",
+      "stadion": "Old Trafford, Manchester",
+      "saison_kontext": {
+        "parallel_heim": "keine — kein EU-Wettbewerb 26/27, EFL-Cup 2. Runde erst September",
+        "parallel_gast": "keine — Aufsteiger nach direkter 2. PL-Rueckkehr, kein EU-Wettbewerb",
+        "saisonziel_heim": "Top-4/CL-Rueckkehr — hoher Druck nach schwacher Vorsaison",
+        "saisonziel_gast": "Klassenerhalt — Aufsteiger, defensiver Modus erwartbar",
+        "motivations_asymmetrie": "United klare Klassen-Favoriten daheim gegen Aufsteiger, aber Old Trafford wackelt aus der Vorsaison — Bank-Rotation trotz Pflichtdrei-Punkte. Ipswich muss defensiv agieren, wenig offensive Chancen.",
+        "recovery_heim": "1 Woche seit letztem Spiel — Baleba (Neuzugang) OUT mit Ankle, de Ligt und Amad OUT",
+        "recovery_gast": "1 Woche seit letztem Spiel, frisch",
+        "quellen": [
+          "https://www.manutd.com/en/news/official-united-2026-27-premier-league-fixtures",
+          "https://lastwordonsports.com/football/2026/08/30/manchester-united-vs-ipswich-town/",
+          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season"
+        ]
+      },
+      "news": [
+        "United mit Verletzungssorgen: Baleba (Ankle), de Ligt und Amad OUT",
+        "Ipswich als Aufsteiger auswaerts historisch defensiv-passiv (Vorsaison mit tiefstehendem Block)",
+        "Old Trafford unter Druck nach Vorsaison-Wackler — Auftaktsiege gefordert",
+        "Kader-Frische: Sommer-Transferfenster schliesst am 31.08. — Aufstellung live pruefen"
+      ],
+      "tipps": [
+        {
+          "id": "mun-ips-1",
+          "kategorie": "value",
+          "markt": "Manchester United oder Remis (Doppelte Chance)",
+          "quote": 1.15,
+          "edge_prozent": 4.0,
+          "begruendung": "United daheim gegen den PL-Aufsteiger — sowohl von Papier als auch Struktur klarer Favorit, DC 1X ist Absicherung (Aufsteiger-Auswaerts-Bilanz historisch schwach). Goldgrube DC 1X (84.6%). SAFE mit fairer Erwartung. Bei 1000€ Stufe 1: 1-2 % = 15€. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
+          "faire_quote": 1.1,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_markt_mix_dc_downgrade": true
+        },
+        {
+          "id": "mun-ips-2",
+          "kategorie": "value",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.35,
+          "edge_prozent": 4.0,
+          "begruendung": "Aufsteiger-Auswaerts-Spiele bei einem Big-6-Team enden fast nie Tor-Feuerwerk — Ipswich stellt tiefen Block, United versucht mit knapper Fuehrung zu verwalten. Unter 3.5 pro-forma safe. 1 % = 10€.",
+          "faire_quote": 1.28,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "mun-ips-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen NEIN",
+          "quote": 2.1,
+          "edge_prozent": 3.0,
+          "begruendung": "Ipswich-Auswaerts oft ohne Tor bei Top-Teams. United-Defensive hat mit ruhigem 1:0-Muster grosse Chance. Wackel wegen wechselhafter United-Defense. 0.5 % = 5€.",
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "mun-ips-4",
+          "kategorie": "wackel",
+          "markt": "Manchester United -1.5 Handicap",
+          "quote": 2.35,
+          "edge_prozent": 3.0,
+          "begruendung": "Als aktives Alternativ zum SAFE-DC: -1.5 Handicap braucht deutlichen Sieg, gegen tiefstehenden Aufsteiger nicht garantiert. 0.5 % = 5€.",
+          "faire_quote": 2.25,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 5,
+        "gast": 2,
+        "halbzeit_heim": null,
+        "halbzeit_gast": null
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "mun-ips-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.15,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mun-ips-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mun-ips-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mun-ips-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.35,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "5:2",
+        "tore": [
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Leif Davis",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Bruno Fernandes",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Harry Maguire",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Bruno Fernandes (Elfmeter)",
+            "stand_danach": "3:1"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Bruno Fernandes",
+            "stand_danach": "4:1"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Bryan Mbeumo",
+            "stand_danach": "5:1"
+          },
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Chuba Akpom",
+            "stand_danach": "5:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": null
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "kein_team_zu_null": true,
+          "halbzeit_endstand": null
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": []
+      }
+    },
+    {
+      "id": "2026-08-30-sun-ful",
+      "liga": "Premier League 2026/27 - Matchday 3",
+      "heim": "Sunderland AFC",
+      "gast": "Fulham FC",
+      "anstoss": "2026-08-30T15:00:00+02:00",
+      "stadion": "Stadium of Light, Sunderland",
+      "saison_kontext": {
+        "parallel_heim": "keine — Aufsteiger, kein EU-Wettbewerb",
+        "parallel_gast": "keine — kein EU-Wettbewerb 26/27",
+        "saisonziel_heim": "Klassenerhalt — Aufsteiger nach Playoff-Erfolg",
+        "saisonziel_gast": "Mittelfeld/Europa-Play — neuer Trainer Alvaro Arbeloa (seit 07/2026, ex-Real Madrid), Marco Silva zu Benfica",
+        "motivations_asymmetrie": "Fulham unter neuem Trainer Arbeloa (Ex-Real) mit taktischem Umbruch — 24.08. Auftakt-Niederlage 2:3 in Chelsea. Sunderland als Aufsteiger im Stadium of Light mit Emotions-Boost. Coinflip-Charakter, kein SAFE.",
+        "recovery_heim": "1 Woche seit letztem Spiel, frisch",
+        "recovery_gast": "6 Tage seit 2:3 in Chelsea, frisch",
+        "quellen": [
+          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
+          "https://www.premierleague.com/en/news/4678381/fixture-amendments-for-premier-league-matches-in-august-and-september/"
+        ]
+      },
+      "news": [
+        "Fulham unter neuem Trainer Arbeloa (seit 07/2026) — taktische Umstellung nach Silva-Aera",
+        "Sunderland als Aufsteiger im Stadium of Light — hoher Emotions-Faktor",
+        "Anstoss verlegt wegen Fulham-Chelsea-Umplanung (siehe PL-Fixture-Amendment)"
+      ],
+      "tipps": [
+        {
+          "id": "sun-ful-1",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.75,
+          "edge_prozent": 3.0,
+          "begruendung": "Fulham hat in Chelsea 2 Tore, Sunderland-Aufsteiger daheim mit Angriffslust. BTTS-JA nicht Goldgrube, deshalb wackel. 0.5 % = 5€.",
+          "faire_quote": 1.68,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "sun-ful-2",
+          "kategorie": "wackel",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.35,
+          "edge_prozent": 3.0,
+          "begruendung": "Aufsteiger-Coinflip endet selten mit 4+ Toren, taktisches Testen unter neuem Trainer Arbeloa. 0.5 % = 5€.",
+          "faire_quote": 1.3,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "sun-ful-3",
+          "kategorie": "wackel",
+          "markt": "Fulham oder Remis (Doppelte Chance)",
+          "quote": 1.55,
+          "edge_prozent": 2.0,
+          "begruendung": "Fulham hat trotz Niederlage in Chelsea gezeigt, dass Struktur passt — Sunderland auswaerts (fuer Fulham) mit Fokus auf Punkte. DC X2 ist Goldgrube (76.5%). Nur wackel, weil Coinflip zwischen 2.40-3.50 im 1X2 (kein SAFE erlaubt). 0.5 % = 5€.",
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 1,
+        "gast": 0,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "sun-ful-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sun-ful-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.35,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sun-ful-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": 75,
+            "team": "heim",
+            "spieler": "Wilson Isidor (eingewechselt)",
+            "stand_danach": "1:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": null
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "kein_team_zu_null": false,
+          "halbzeit_endstand": "Unentschieden/Heim"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Wilson Isidor",
+            "aus": "?",
+            "minute": 75,
+            "tor": true,
+            "details": "Sub Isidor traf zum 1:0 - Aufsteiger-Sunderland erste Punkte, Fulham 0 Torschuesse aufs Tor"
+          }
+        ],
+        "auffaellige_patterns": []
+      }
+    },
+    {
+      "id": "2026-08-30-lee-brf",
+      "liga": "Premier League 2026/27 - Matchday 3",
+      "heim": "Leeds United",
+      "gast": "Brentford FC",
+      "anstoss": "2026-08-30T15:00:00+02:00",
+      "stadion": "Elland Road, Leeds",
+      "saison_kontext": {
+        "parallel_heim": "keine — Aufsteiger, kein EU-Wettbewerb",
+        "parallel_gast": "keine — kein EU-Wettbewerb 26/27",
+        "saisonziel_heim": "Klassenerhalt — Aufsteiger",
+        "saisonziel_gast": "Mittelfeld — nach Wissa-Abgang (zu Newcastle Sep 25) offensiv umgebaut",
+        "motivations_asymmetrie": "Leeds als Aufsteiger daheim mit Elland-Road-Atmosphaere gegen ein Brentford, das seit dem Wissa-Verkauf 09/2025 offensiv duenner ist. Kein klarer Klassen-Edge, Coinflip. Kein SAFE.",
+        "recovery_heim": "1 Woche seit letztem Spiel, frisch",
+        "recovery_gast": "1 Woche seit letztem Spiel, frisch",
+        "quellen": [
+          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
+          "https://www.brentfordfc.com/en/news/article/first-team-yoane-wissa-brentford-newcastle-united-transfer"
+        ]
+      },
+      "news": [
+        "Wissa (Newcastle seit 09/2025) nicht mehr Brentford — Sturm-Volumen fehlt",
+        "Leeds als Aufsteiger daheim mit Emotions-Boost bei Elland Road",
+        "Coinflip-Charakter zwischen zwei Mittelfeld-Teams — kein SAFE erlaubt"
+      ],
+      "tipps": [
+        {
+          "id": "lee-brf-1",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.75,
+          "edge_prozent": 3.0,
+          "begruendung": "Beide Angriffe eher mittelmaessig, aber beide Defensiven auch nicht dicht — BTTS in Mittelfeld-PL-Duellen oft 55 % +. Wackel, weil nicht Goldgrube. 0.5 % = 5€.",
+          "faire_quote": 1.68,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "lee-brf-2",
+          "kategorie": "wackel",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.35,
+          "edge_prozent": 3.0,
+          "begruendung": "Aufsteiger-Coinflip mit Brentfords geschwaechter Offensive — Tor-Fest unwahrscheinlich. 0.5 % = 5€.",
+          "faire_quote": 1.3,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "lee-brf-3",
+          "kategorie": "wackel",
+          "markt": "Leeds oder Remis (Doppelte Chance)",
+          "quote": 1.55,
+          "edge_prozent": 2.0,
+          "begruendung": "Aufsteiger-Heim-Auftaktspiele historisch zaeh — Elland-Road-Faktor + Brentford-Umbruch. DC 1X Goldgrube. 0.5 % = 5€.",
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 1,
+        "gast": 1,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 1
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "lee-brf-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.75,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "lee-brf-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.35,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "lee-brf-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.55,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 41,
+            "team": "gast",
+            "spieler": "Kevin Schade",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 79,
+            "team": "heim",
+            "spieler": "Dominic Calvert-Lewin",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": null
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "kein_team_zu_null": true,
+          "halbzeit_endstand": "Gast/Unentschieden"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": []
+      }
+    },
+    {
+      "id": "2026-08-30-rma-mal",
+      "liga": "LaLiga EA Sports 2026/27 - Jornada 3",
+      "heim": "Real Madrid",
+      "gast": "Malaga CF",
+      "anstoss": "2026-08-30T17:00:00+02:00",
+      "stadion": "Santiago Bernabeu, Madrid",
+      "saison_kontext": {
+        "parallel_heim": "keine — CL-Ligaphase startet Mitte September",
+        "parallel_gast": "keine — Aufsteiger, kein EU-Wettbewerb",
+        "saisonziel_heim": "Titel + CL — Real Madrid mit Bombenstart erwartet (Bernabeu-Heimserie), Trainer laut Kader-Guardrail nach Arbeloas Sommer-Abgang zu Fulham vor Anstoss LIVE pruefen",
+        "saisonziel_gast": "Klassenerhalt — Aufsteiger nach Segunda-Zeit (2. Platz), acht Jahre Abstinenz",
+        "motivations_asymmetrie": "Klarer Klassen-Edge Real gegen Aufsteiger daheim. Real hat 3 Ligaspiele in 8 Tagen und rotiert moeglicherweise (Espanyol A, Sociedad H, jetzt Malaga H). Malaga als Aufsteiger im Bernabeu ohne Chance auf Sieg-Coup, aber vielleicht defensiv aufopferungsvoll.",
+        "recovery_heim": "3 Tage seit Sociedad H — kurze Pause, Rotation moeglich",
+        "recovery_gast": "3 Tage seit letztem Spiel",
+        "quellen": [
+          "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/tres-partidos-de-liga-en-ocho-dias-18-08-2026",
+          "https://www.laliga.com/en-GB/clubs/real-madrid/next-matches",
+          "https://laligaupdate.com/match-updates/laliga-schedule/"
+        ]
+      },
+      "news": [
+        "Real 3 Liga-Spiele in 8 Tagen — Rotation im Sturm moeglich",
+        "Malaga als Aufsteiger im Bernabeu — Ziel Schaden begrenzen",
+        "Trainer Real 26/27 live pruefen — Arbeloa im Sommer zu Fulham gewechselt (siehe kader_wechsel_2026.json), Nachfolger unklar",
+        "Bernabeu-Heim-Bilanz Real gegen Aufsteiger dominant (letzte 10: 9 Siege)"
+      ],
+      "tipps": [
+        {
+          "id": "rma-mal-1",
+          "kategorie": "safe",
+          "markt": "Real Madrid oder Remis (Doppelte Chance)",
+          "quote": 1.05,
+          "edge_prozent": 4.0,
+          "begruendung": "Bernabeu gegen Aufsteiger — DC 1X ist Absicherungs-SAFE, quasi Bank. Goldgrube-Markt (84.6% Hitrate). Klarer Klassen-Edge. Bei 1000€ Stufe 1: 1-2 % = 15€.",
+          "faire_quote": 1.03,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "rma-mal-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.55,
+          "edge_prozent": 5.0,
+          "begruendung": "Real-Heim-Ueber-2.5 gegen Aufsteiger — in Heim-Bilanz Real letzten 5 Saisons ueber 75 %. Goldgrube-Nachbar. 1-2 % = 15€.",
+          "faire_quote": 1.45,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "rma-mal-3",
+          "kategorie": "value",
+          "markt": "Real Madrid -1.5 Handicap",
+          "quote": 1.75,
+          "edge_prozent": 5.0,
+          "begruendung": "Real gewinnt gegen Aufsteiger im Bernabeu selten knapp — historisch ueber 60 % mit 2+ Toren Diff. 1 % = 10€.",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "rma-mal-4",
+          "kategorie": "wackel",
+          "markt": "Vinicius Jr Torschuetze jederzeit",
+          "quote": 1.9,
+          "edge_prozent": 4.0,
+          "begruendung": "HR24-Kandidat wenn Vinicius spielt: Real-Fluegel-Star gegen Aufsteiger-Defense — jederzeit-Tor mit Backup-Boost (falls ausgewechselt fuer Endo/Anderer). WACKEL nur, weil Aufstellung noch nicht sicher live gecheckt — Rotation moeglich. 0.5 % = 5€. Bei bet365 live pruefen und Aufstellung 1 Stunde vor Anpfiff sichten.",
+          "faire_quote": 1.82,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 4,
+        "gast": 0,
+        "halbzeit_heim": null,
+        "halbzeit_gast": null
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "rma-mal-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.05,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "rma-mal-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.55,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "rma-mal-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.75,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "rma-mal-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Vinicius nicht Torschuetze - Bellingham, Herrero OG, Mbappe, Guler trafen; Einwechslungs-Boost nicht verifizierbar",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "4:0",
+        "tore": [
+          {
+            "min": 19,
+            "team": "heim",
+            "spieler": "Jude Bellingham",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 26,
+            "team": "heim",
+            "spieler": "Herrero (Eigentor)",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 30,
+            "team": "heim",
+            "spieler": "Kylian Mbappe",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": 90,
+            "team": "heim",
+            "spieler": "Arda Guler",
+            "stand_danach": "4:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": null
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "kein_team_zu_null": false,
+          "halbzeit_endstand": null
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": []
+      }
+    },
+    {
+      "id": "2026-08-30-dep-val",
+      "liga": "LaLiga EA Sports 2026/27 - Jornada 3",
+      "heim": "Deportivo La Coruna",
+      "gast": "Valencia CF",
+      "anstoss": "2026-08-30T19:30:00+02:00",
+      "stadion": "Abanca-Riazor, A Coruna",
+      "saison_kontext": {
+        "parallel_heim": "keine — Aufsteiger, kein EU-Wettbewerb",
+        "parallel_gast": "keine — kein EU-Wettbewerb 26/27",
+        "saisonziel_heim": "Klassenerhalt — Aufsteiger nach 8 Jahren Segunda (Platz 2), Motivations-Boost",
+        "saisonziel_gast": "Mittelfeld — Fehlstart mit 1 Punkt aus 2 Spielen (0:0 Celta, Niederlage vs Betis)",
+        "motivations_asymmetrie": "Valencia mit Fehlstart und Druck, Deportivo im Riazor mit Aufsteiger-Emotion und 2 Punkten. Kein klarer Klassen-Edge — Coinflip mit leichtem Heim-Value. Kein SAFE.",
+        "recovery_heim": "1 Woche seit letztem Spiel, frisch",
+        "recovery_gast": "1 Woche seit letztem Spiel, frisch",
+        "quellen": [
+          "https://www.foxsports.com/soccer/la-liga-deportivo-vs-valencia-aug-30-2026-game-boxscore-908973",
+          "https://www.forebet.com/en/football/matches/deportivo-la-coru%C3%B1a-valencia-2495192",
+          "https://www.valenciacf.com/en/17869491036603310"
+        ]
+      },
+      "news": [
+        "Valencia mit Fehlstart (1 Pkt aus 2) — Druck auf Trainer",
+        "Deportivo im Riazor mit Aufsteiger-Boost, 2 Punkte aus 2",
+        "H2H: Valencia historisch dominant, aber Deportivo-Riazor-Faktor gross"
+      ],
+      "tipps": [
+        {
+          "id": "dep-val-1",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen NEIN",
+          "quote": 2.1,
+          "edge_prozent": 3.0,
+          "begruendung": "Beide Teams noch nicht toroffensiv (Valencia 1 Tor in 2, Deportivo als Aufsteiger vorsichtig). BTTS-NEIN in Anfangsphase Aufsteiger-Duellen oft. 0.5 % = 5€.",
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "dep-val-2",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 4.0,
+          "begruendung": "Goldgrube Unter 2.5 (+22.4% ROI, 73.1% Hitrate). Beide defensiv-solide, wenig Torreichtum erwartbar. 0.5 % = 5€.",
+          "faire_quote": 1.68,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "dep-val-3",
+          "kategorie": "wackel",
+          "markt": "Deportivo oder Remis (Doppelte Chance)",
+          "quote": 1.65,
+          "edge_prozent": 2.0,
+          "begruendung": "DC 1X Goldgrube — Riazor-Faktor + Valencia-Druck. Coinflip, deshalb wackel. 0.5 % = 5€.",
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 3,
+        "gast": 1,
+        "halbzeit_heim": 2,
+        "halbzeit_gast": 1
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "dep-val-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "dep-val-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "dep-val-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.65,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:1",
+        "endstand": "3:1",
+        "tore": [
+          {
+            "min": 13,
+            "team": "heim",
+            "spieler": "Tarrega (Eigentor)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 17,
+            "team": "heim",
+            "spieler": "Pierre-Emerick Aubameyang",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 26,
+            "team": "gast",
+            "spieler": "Umar Sadiq",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 59,
+            "team": "heim",
+            "spieler": "Diakhaby (Eigentor)",
+            "stand_danach": "3:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": null
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "kein_team_zu_null": true,
+          "halbzeit_endstand": "Heim/Heim"
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": []
+      }
+    },
+    {
+      "id": "2026-08-30-cel-ath",
+      "liga": "LaLiga EA Sports 2026/27 - Jornada 3",
+      "heim": "RC Celta de Vigo",
+      "gast": "Athletic Club Bilbao",
+      "anstoss": "2026-08-30T21:30:00+02:00",
+      "stadion": "Estadio de Balaidos, Vigo",
+      "saison_kontext": {
+        "parallel_heim": "keine — kein EU-Wettbewerb 26/27",
+        "parallel_gast": "Champions-League-Ligaphase startet Mitte September — noch nicht aktiv, aber Vorbereitung im Kopf",
+        "saisonziel_heim": "Mittelfeld/Europa-Play — 1 Pkt aus 2, aktuell 14.",
+        "saisonziel_gast": "CL-Erfolg + Titel-Aussenseiter — 0 Pkt aus 2, 19. mit 2 Niederlagen (Barcelona 0:2 zuletzt)",
+        "motivations_asymmetrie": "Bilbao mit 0 Pkt und Frustration nach Barca-Niederlage, Celta ohne Sieg aber solide 0:0 vs Osasuna. Bilbao ist Papier-Favorit (Klassen-Edge), aber Balaidos ist eng — H2H seit Jahren zu Celta-Gunsten (31 Siege in 68 Duellen). Coinflip mit Bilbao-Value-Tendenz. Kein SAFE.",
+        "recovery_heim": "1 Woche seit Osasuna-Niederlage 1:2 — Borja Iglesias (Muskel) und Marcos Alonso (Rot) OUT",
+        "recovery_gast": "1 Woche seit Barcelona-Niederlage 0:2",
+        "quellen": [
+          "https://www.sofascore.com/football/match/athletic-club-celta-vigo/wgbsAgb",
+          "https://sports.yahoo.com/articles/preview-celta-vigo-vs-athletic-193500754.html",
+          "https://www.forebet.com/en/football/matches/celta-vigo-athletic-bilbao-2495193"
+        ]
+      },
+      "news": [
+        "Celta ohne Top-Scorer Borja Iglesias (Muskel) — Sturm-Zentrum geschwaecht (HR22)",
+        "Marcos Alonso rot-gesperrt — LV-Ausfall",
+        "Bilbao mit 0 Pkt und Druck nach 0:2 vs Barcelona",
+        "H2H im Balaidos: Celta 31 Siege in 68 Duellen — Heimstaerke bemerkbar"
+      ],
+      "tipps": [
+        {
+          "id": "cel-ath-1",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 5.0,
+          "begruendung": "Ohne Borja Iglesias fehlt Celta Volumen (HR22: Star-OUT), Bilbao mit ordentlicher Defense. Goldgrube Unter 2.5 (+22.4% ROI). 0.5 % = 5€.",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "cel-ath-2",
+          "kategorie": "wackel",
+          "markt": "Athletic Bilbao oder Remis (Doppelte Chance)",
+          "quote": 1.35,
+          "edge_prozent": 3.0,
+          "begruendung": "DC X2 ist Goldgrube (76.5% Hitrate), Bilbao Klassen-Favorit, Balaidos-Faktor bremst SAFE. 0.5 % = 5€.",
+          "faire_quote": 1.28,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "cel-ath-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen NEIN",
+          "quote": 2.1,
+          "edge_prozent": 3.0,
+          "begruendung": "Beide Angriffe angeschlagen — Celta ohne Iglesias, Bilbao zuletzt 0 Tore vs Barca. Kompaktes Duell erwartbar. 0.5 % = 5€.",
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 0,
+        "gast": 2,
+        "halbzeit_heim": null,
+        "halbzeit_gast": null
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "cel-ath-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.85,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "cel-ath-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.35,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "cel-ath-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.1,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "0:2",
+        "tore": [
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Alex Berenguer",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Robert Navarro",
+            "stand_danach": "0:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": null
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "kein_team_zu_null": false,
+          "halbzeit_endstand": null
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": []
+      }
+    },
+    {
+      "id": "2026-08-30-nap-com",
+      "liga": "Serie A 2026/27 - 2. Giornata",
+      "heim": "SSC Napoli",
+      "gast": "Como 1907",
+      "anstoss": "2026-08-30T18:30:00+02:00",
+      "stadion": "Stadio Diego Armando Maradona, Neapel",
+      "saison_kontext": {
+        "parallel_heim": "keine — CL-Ligaphase startet Mitte September",
+        "parallel_gast": "keine — Como CL-Qualifiziert (4. der Vorsaison), Ligaphase startet Mitte September",
+        "saisonziel_heim": "Titel-Verteidigung — Trainer Allegri (seit 26/27), 2:0-Auftakt in Genua durch De Bruyne (82.) und Vergara (87.)",
+        "saisonziel_gast": "CL-Auftakt-Saison — 1:1 in Udinese am 1. Spieltag, Fabregas-Team offensiv variabel (Nico Paz)",
+        "motivations_asymmetrie": "Napoli daheim klarer Papier-Favorit, aber ohne Lukaku (Sommer zu Fenerbahce, siehe kader_wechsel_2026.json) — Sturm laeuft ueber Hoejlund + De-Bruyne-Kreativitaet. Como mit Nico Paz gefaehrlich am Ball, aber im Maradona historisch chancenlos.",
+        "recovery_heim": "1 Woche seit Genua-Auftakt, frisch",
+        "recovery_gast": "1 Woche seit Udinese, frisch",
+        "quellen": [
+          "https://khelnow.com/football/napoli-vs-como-preview-serie-a-202608",
+          "https://www.sportskeeda.com/football/napoli-vs-como-prediction-betting-tips-august-30th-2026",
+          "https://www.mightytips.com/football-predictions/napoli-vs-como-prediction-30-08-2026/"
+        ]
+      },
+      "news": [
+        "Trainer Allegri (Napoli, seit 26/27) — taktisch stabiler und defensivbewusster",
+        "Lukaku NICHT mehr Napoli (August-Wechsel zu Fenerbahce fuer 6 Mio) — Sturm laeuft ueber Hoejlund",
+        "De Bruyne (Napoli seit Sommer 25) im Zentrum, Torschuetze in Genua 82.",
+        "Como mit Nico Paz + Douvikas — kreativ, aber im Sud oft ohne Chance",
+        "OUT Napoli: Buongiorno, Marianucci, Mazzocchi (Verletzungen)"
+      ],
+      "tipps": [
+        {
+          "id": "nap-com-1",
+          "kategorie": "wackel",
+          "markt": "Napoli oder Remis (Doppelte Chance)",
+          "quote": 1.15,
+          "edge_prozent": 4.0,
+          "begruendung": "Napoli-Heim, Como im Maradona historisch chancenlos. DC 1X Goldgrube (84.6%). Klassen-Edge. Bei 1000€ Stufe 1: 1-2 % = 15€.",
+          "faire_quote": 1.1,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "nap-com-2",
+          "kategorie": "wackel",
+          "markt": "Hoejlund Torschuetze jederzeit",
+          "quote": 2.4,
+          "edge_prozent": 5.0,
+          "begruendung": "Nach Lukaku-Abgang ist Hoejlund der zentrale 9er (HR24: Volumen + Einwechslungs-Boost). De Bruyne-Kreativitaet als Zuspieler. Torschuetzen Jederzeit ist Goldgrube (+24.4% ROI). 1 % = 10€. Quote bei bet365 live pruefen.",
+          "faire_quote": 2.28,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "nap-com-3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 4.0,
+          "begruendung": "Napoli-Heim + De Bruyne + Como offen-taktisch (Fabregas-Handschrift) — Tore erwartbar. Beide Auftakt-Spiele hatten Tore (2:0 fuer Napoli, 1:1 fuer Como). 1 % = 10€.",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "nap-com-4",
+          "kategorie": "wackel",
+          "markt": "De Bruyne Torschuetze jederzeit",
+          "quote": 3.5,
+          "edge_prozent": 4.0,
+          "begruendung": "De Bruyne beim 2:0 in Genua getroffen (82.) — Form-Edge. Als OM keine reine 9er-Rolle (max VALUE laut HR-Position), aber Standard-Torschuetze in Serie A. 0.5 % = 5€.",
+          "faire_quote": 3.3,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "WARN_QUELLE",
+      "ergebnis": {
+        "heim": 1,
+        "gast": 2,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 2
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "nap-com-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Napoli-Heim-Upset - Como gewann 2:1 im Maradona",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "nap-com-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.4,
+          "kommentar": "Hojlund 30.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "nap-com-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.85,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "nap-com-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "De Bruyne kam nur als Sub 56. rein und traf nicht - Einwechslungs-Boost greift nicht (nur wenn getippter Spieler selbst ausgewechselt wird)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:2",
+        "endstand": "1:2",
+        "tore": [
+          {
+            "min": 17,
+            "team": "gast",
+            "spieler": "Martin Baturina",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 30,
+            "team": "heim",
+            "spieler": "Rasmus Hojlund",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 34,
+            "team": "gast",
+            "spieler": "Anastasios Douvikas",
+            "stand_danach": "1:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": null
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "kein_team_zu_null": true,
+          "halbzeit_endstand": "Gast/Gast"
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Kevin De Bruyne",
+            "details": "Bank-Start, kam erst 56. rein - Napoli-Heim-Kreativitaet fehlte in Startphase, Como fuehrte da bereits 2:1"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Napoli-Heim-Upset gegen CL-Aufsteiger Como - Serie-A-Meister erstes 26/27-Ligaspiel verloren. Como-Doppelschlag 17./34. drehte Startphase."
+        ]
+      }
+    },
+    {
+      "id": "2026-08-30-cag-int",
+      "liga": "Serie A 2026/27 - 2. Giornata",
+      "heim": "Cagliari Calcio",
+      "gast": "Inter Mailand",
+      "anstoss": "2026-08-30T20:45:00+02:00",
+      "stadion": "Unipol Domus, Cagliari",
+      "saison_kontext": {
+        "parallel_heim": "keine — kein EU-Wettbewerb",
+        "parallel_gast": "keine — CL-Ligaphase startet Mitte September",
+        "saisonziel_heim": "Klassenerhalt — 1:0 in Parma am 1. Spieltag durch Romano (Last-Minute)",
+        "saisonziel_gast": "Titel + CL — 4:1 gegen Monza zum Auftakt, Lautaro Torschuetze",
+        "motivations_asymmetrie": "Inter dominiert Cagliari historisch (9 Siege in letzten 10, im Unipol Domus 6 Siege in Serie ohne Cagliari-Tor). Cagliari mit Romano-Auftaktsieg aber ohne echten Klassen-Ansatz. Auswaerts-SAFE moeglich, aber achte auf Rotation (kurze Pause vor CL-Ligaphase).",
+        "recovery_heim": "1 Woche seit Parma-Sieg 1:0, frisch",
+        "recovery_gast": "1 Woche seit Monza 4:1, frisch",
+        "quellen": [
+          "https://www.sportsmole.co.uk/football/cagliari/preview/cagliari-vs-inter-milan-prediction-team-news-lineups_603916.html",
+          "https://sports.yahoo.com/articles/complete-guide-cagliari-vs-inter-154500215.html",
+          "https://www.mightytips.com/football-predictions/cagliari-vs-inter-prediction-30-08-2026/"
+        ]
+      },
+      "news": [
+        "Lautaro Torschuetzenkoenig Vorsaison (17 Tore), 12 Tore in 12 Serie-A-Duellen vs Cagliari",
+        "Cagliari letzten 3 Heim-Duelle gg Inter ohne eigenes Tor",
+        "Inter mit Bisseck/Akanji/Bastoni-Kette + Barella/Calhanoglu/Zielinski Mittelfeld",
+        "Cagliari mit Romano-Schwung, aber Klassen-Edge klar bei Inter"
+      ],
+      "tipps": [
+        {
+          "id": "cag-int-1",
+          "kategorie": "safe",
+          "markt": "Inter Mailand oder Remis (Doppelte Chance)",
+          "quote": 1.2,
+          "edge_prozent": 5.0,
+          "begruendung": "Inter historisch dominant (9 Siege 10, letzte 3 Cagliari-Heim ohne Tor). DC X2 Goldgrube (76.5% Hitrate). Klassen-Edge klar. Bei 1000€ Stufe 1: 1-2 % = 15€.",
+          "faire_quote": 1.14,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "cag-int-2",
+          "kategorie": "wackel",
+          "markt": "Lautaro Martinez Torschuetze jederzeit",
+          "quote": 2.1,
+          "edge_prozent": 6.0,
+          "begruendung": "12 Tore in 12 Duellen gegen Cagliari — Lieblingsgegner-Bilanz. HR24 klar erfuellt (Vorsaison-Torschuetzenkoenig, zentraler 9er). Torschuetzen Jederzeit Goldgrube. 1-2 % = 15€. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 1.95,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "cag-int-3",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 4.0,
+          "begruendung": "Inter beim Auftakt 4:1, Cagliari 1:0 — Inter-Ausw offensiv-druckvoll, Cagliari-Defensive gegen Klasse-Angriffe brueckt. 1 % = 10€.",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "cag-int-4",
+          "kategorie": "wackel",
+          "markt": "Inter -1.5 Handicap",
+          "quote": 2.15,
+          "edge_prozent": 3.0,
+          "begruendung": "Inter hat Cagliari-Heim historisch klar geschlagen (2:0, 3:0, 4:0 in Serie). Rotation moeglich — 0.5 % = 5€.",
+          "faire_quote": 2.05,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 0,
+        "gast": 1,
+        "halbzeit_heim": null,
+        "halbzeit_gast": null
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "cag-int-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.2,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "cag-int-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Lautaro blank - Inter-Tor durch Calhanoglu; Einwechslungs-Boost nicht bestaetigt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "cag-int-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "cag-int-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Hakan Calhanoglu",
+            "stand_danach": "0:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": null
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "kein_team_zu_null": false,
+          "halbzeit_endstand": null
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": []
+      }
+    },
+    {
+      "id": "2026-08-30-laz-gen",
+      "liga": "Serie A 2026/27 - 2. Giornata",
+      "heim": "Lazio Rom",
+      "gast": "Genua CFC",
+      "anstoss": "2026-08-30T20:45:00+02:00",
+      "stadion": "Stadio Olimpico, Rom",
+      "saison_kontext": {
+        "parallel_heim": "keine — kein EU-Wettbewerb 26/27",
+        "parallel_gast": "keine — kein EU-Wettbewerb 26/27",
+        "saisonziel_heim": "Europa-Play (Top-6) — Olimpico-Heimstaerke",
+        "saisonziel_gast": "Klassenerhalt — 0:2-Niederlage gegen Napoli am 1. Spieltag (De Bruyne + Vergara)",
+        "motivations_asymmetrie": "Lazio klarer Heim-Favorit gegen Genua, das im Auftakt gegen Napoli chancenlos war. Kein Klassen-Wackler, DC 1X Bank. Kein SAFE-Wackler.",
+        "recovery_heim": "1 Woche seit letztem Spiel, frisch",
+        "recovery_gast": "1 Woche seit Napoli-Niederlage, frisch",
+        "quellen": [
+          "https://en.legaseriea.it/serie-a/fixtures-results",
+          "https://www.italiansoccerseriea.com/ac-milan/match-officials-2026-27-italy-serie-a-week-2-second-round-friday-28-saturday-29-sunday-30-and-monday-31-august-2026/"
+        ]
+      },
+      "news": [
+        "Genua nach 0:2 gegen Napoli — Sturm ohne Torvolumen",
+        "Lazio-Olimpico historisch stark gegen Mittelfeld-Teams",
+        "Kader-Frische: Aufstellung am Anstoss live pruefen (Sommer-Transferfenster schliesst 31.08.)"
+      ],
+      "tipps": [
+        {
+          "id": "laz-gen-1",
+          "kategorie": "value",
+          "markt": "Lazio oder Remis (Doppelte Chance)",
+          "quote": 1.2,
+          "edge_prozent": 4.0,
+          "begruendung": "Lazio-Heim gegen abstiegsbedrohtes Genua — DC 1X Bank, Goldgrube-Markt (84.6%). 1-2 % = 15€. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
+          "faire_quote": 1.15,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_markt_mix_dc_downgrade": true
+        },
+        {
+          "id": "laz-gen-2",
+          "kategorie": "value",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.35,
+          "edge_prozent": 3.0,
+          "begruendung": "Genua-Auswaerts oft kompakt-defensiv (0:2 gegen Napoli mit wenigen Chancen), Lazio holt oft 1:0/2:0. Unter 3.5 solide. 1 % = 10€.",
+          "faire_quote": 1.28,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "laz-gen-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen NEIN",
+          "quote": 2.05,
+          "edge_prozent": 3.0,
+          "begruendung": "Genua-Sturm blass, Lazio-Defense im Olimpico dicht. BTTS-NEIN als Absicherung. 0.5 % = 5€.",
+          "faire_quote": 1.95,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 1,
+        "gast": 0,
+        "halbzeit_heim": null,
+        "halbzeit_gast": null
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "laz-gen-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.2,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "laz-gen-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.35,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "laz-gen-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.05,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": 24,
+            "team": "heim",
+            "spieler": "Davide Frattesi",
+            "stand_danach": "1:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": null
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "kein_team_zu_null": false,
+          "halbzeit_endstand": null
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": []
+      }
+    },
+    {
+      "id": "2026-08-30-mon-mar",
+      "liga": "Ligue 1 2026/27 - 2. Spieltag",
+      "heim": "AS Monaco",
+      "gast": "Olympique Marseille",
+      "anstoss": "2026-08-30T20:45:00+02:00",
+      "stadion": "Stade Louis II, Monaco",
+      "saison_kontext": {
+        "parallel_heim": "keine — Champions-League-Ligaphase erst ab Mitte September",
+        "parallel_gast": "keine — CL-Ligaphase erst ab Mitte September (Marseille CL-Qualifiziert)",
+        "saisonziel_heim": "CL-Ligaphase-Solid + Top-3 Ligue 1 — 1:0-Auswaertsstart in Le Havre, taktisch stabil",
+        "saisonziel_gast": "Titel/CL — 4:0-Kantersieg zum Auftakt gegen Strasbourg",
+        "motivations_asymmetrie": "Beide mit Auftakt-Siegen und Selbstvertrauen — Coinflip mit leichtem Marseille-Klassen-Edge (nach De-Zerbi- Aufbau bleibt Ligue-1-Klasse). Monaco daheim engagiert, aber Marseille-Trio (Gouiri/Harit/Paixao) gefaehrlich. Kein SAFE-Kandidat, ehrliches Coinflip-Spiel.",
+        "recovery_heim": "5 Tage seit Le Havre 1:0",
+        "recovery_gast": "5 Tage seit Strasbourg 4:0",
+        "quellen": [
+          "https://ca.sports.yahoo.com/news/preview-monaco-vs-marseille-team-184500559.html",
+          "https://www.sofascore.com/football/match/as-monaco-olympique-de-marseille/QHsdI",
+          "https://khelnow.com/football/as-monaco-vs-marseille-preview-ligue-1-202608"
+        ]
+      },
+      "news": [
+        "Monaco 1:0 in Le Havre, Marseille 4:0 vs Strasbourg — beide mit Auftakt-Siegen",
+        "Marseille-Sturm um Gouiri (zentral) + Paixao/Harit als Kreativkraefte",
+        "Monaco mit Hradecky im Tor, Dier + Sane in der Kette, Camara/Zakaria als Doppelsechser",
+        "Klassiker beider CL-Aspiranten, Ligue-1-Top-Spiel des Wochenendes"
+      ],
+      "tipps": [
+        {
+          "id": "mon-mar-1",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.65,
+          "edge_prozent": 4.0,
+          "begruendung": "Beide Angriffe treffen Woche 1: Marseille 4 Tore, Monaco 1 Tor. Beide Defensive noch nicht ganz eingespielt. BTTS-JA solide, aber nicht Goldgrube — wackel. 0.5 % = 5€.",
+          "faire_quote": 1.58,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "mon-mar-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 4.0,
+          "begruendung": "Ligue-1-Klassiker mit zwei offensiv-orientierten Trainern (De Zerbi vs Hutter/Adi/aktueller Monaco-Coach). Marseille 4 Tore letzten Spiel = starkes Signal. 1 % = 10€.",
+          "faire_quote": 1.67,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "mon-mar-3",
+          "kategorie": "wackel",
+          "markt": "Gouiri Torschuetze jederzeit",
+          "quote": 3.2,
+          "edge_prozent": 3.0,
+          "begruendung": "Marseilles zentraler 9er, Trainer De Zerbi mit Torschuetzen-Boost. HR24-Kandidat wenn 5+ Tore letzte 10, aber ohne aktuelle Detaildaten wackel. 0.5 % = 5€.",
+          "faire_quote": 3.05,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "mon-mar-4",
+          "kategorie": "wackel",
+          "markt": "Marseille oder Remis (Doppelte Chance)",
+          "quote": 1.55,
+          "edge_prozent": 3.0,
+          "begruendung": "DC X2 Goldgrube (76.5% Hitrate) — Marseille klassisch Ligue-1-Top-3-Kandidat, Coinflip-Absicherung. 0.5 % = 5€.",
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim": 2,
+        "gast": 0,
+        "halbzeit_heim": null,
+        "halbzeit_gast": null
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "mon-mar-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mon-mar-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mon-mar-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Gouiri blank - Brunner + Coulibaly trafen",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mon-mar-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Paris Brunner",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Mamadou Coulibaly",
+            "stand_danach": "2:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": null
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "kein_team_zu_null": false,
+          "halbzeit_endstand": null
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": []
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "nap-com-1",
+      "spiel_id": "2026-08-30-nap-com",
+      "spiel_label": "Napoli vs Como",
+      "kategorie": "safe",
+      "markt": "Napoli oder Remis (Doppelte Chance)",
+      "quote": 1.15,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Napoli-Heim, Como im Maradona historisch chancenlos. DC 1X Goldgrube (84.6%). Klassen-Edge klar.",
+      "rang": 1
+    },
+    {
+      "id": "mun-ips-1",
+      "spiel_id": "2026-08-30-mun-ips",
+      "spiel_label": "Manchester United vs Ipswich Town",
+      "kategorie": "safe",
+      "markt": "Manchester United oder Remis (Doppelte Chance)",
+      "quote": 1.15,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "United daheim gegen Aufsteiger — DC 1X Goldgrube, Ipswich-Auswaerts historisch defensiv-passiv.",
+      "rang": 2
+    },
+    {
+      "id": "rma-mal-1",
+      "spiel_id": "2026-08-30-rma-mal",
+      "spiel_label": "Real Madrid vs Malaga",
+      "kategorie": "safe",
+      "markt": "Real Madrid oder Remis (Doppelte Chance)",
+      "quote": 1.05,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Bernabeu gegen Aufsteiger — DC 1X quasi Bank. Goldgrube-Markt.",
+      "rang": 3
+    },
+    {
+      "id": "cag-int-1",
+      "spiel_id": "2026-08-30-cag-int",
+      "spiel_label": "Cagliari vs Inter Mailand",
+      "kategorie": "safe",
+      "markt": "Inter oder Remis (Doppelte Chance)",
+      "quote": 1.2,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Inter 9 Siege in letzten 10 gg Cagliari, im Unipol Domus letzten 3 ohne Cagliari-Tor.",
+      "rang": 4
+    },
+    {
+      "id": "laz-gen-1",
+      "spiel_id": "2026-08-30-laz-gen",
+      "spiel_label": "Lazio vs Genua",
+      "kategorie": "safe",
+      "markt": "Lazio oder Remis (Doppelte Chance)",
+      "quote": 1.2,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Lazio-Heim, Genua abstiegsbedroht und im Auftakt gegen Napoli chancenlos.",
+      "rang": 5
+    },
+    {
+      "id": "che-bri-1",
+      "spiel_id": "2026-08-30-che-bri",
+      "spiel_label": "Chelsea vs Brighton",
+      "kategorie": "value",
+      "markt": "Chelsea oder Remis (Doppelte Chance)",
+      "quote": 1.35,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Chelsea daheim unter Alonso, Brighton mit Conference-Doppelbelastung 3 Tage zuvor. H2H bremst SAFE.",
+      "rang": 6
+    },
+    {
+      "id": "rma-mal-2",
+      "spiel_id": "2026-08-30-rma-mal",
+      "spiel_label": "Real Madrid vs Malaga",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.55,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Real-Heim gg Aufsteiger — Ueber 2.5 in letzten 5 Saisons zu ueber 75%.",
+      "rang": 7
+    },
+    {
+      "id": "che-bri-2",
+      "spiel_id": "2026-08-30-che-bri",
+      "spiel_label": "Chelsea vs Brighton",
+      "kategorie": "value",
+      "markt": "Palmer Torschuetze jederzeit",
+      "quote": 2.6,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Palmer beim 3:2 in Fulham getroffen — Form-Edge (HR24). Chelseas Nr. 10 daheim. Torschuetzen Jederzeit Goldgrube.",
+      "rang": 8
+    },
+    {
+      "id": "cag-int-2",
+      "spiel_id": "2026-08-30-cag-int",
+      "spiel_label": "Cagliari vs Inter Mailand",
+      "kategorie": "value",
+      "markt": "Lautaro Martinez Torschuetze jederzeit",
+      "quote": 2.1,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "12 Tore in 12 Serie-A-Duellen gg Cagliari — Lieblingsgegner. HR24 klar erfuellt. Goldgrube-Markt.",
+      "rang": 9
+    },
+    {
+      "id": "nap-com-2",
+      "spiel_id": "2026-08-30-nap-com",
+      "spiel_label": "Napoli vs Como",
+      "kategorie": "value",
+      "markt": "Hoejlund Torschuetze jederzeit",
+      "quote": 2.4,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 10.0,
+      "begruendung": "Nach Lukaku-Abgang (Fenerbahce) ist Hoejlund der zentrale 9er. De Bruyne als Zuspieler. Goldgrube.",
+      "rang": 10
+    },
+    {
+      "id": "rma-mal-3",
+      "spiel_id": "2026-08-30-rma-mal",
+      "spiel_label": "Real Madrid vs Malaga",
+      "kategorie": "value",
+      "markt": "Real Madrid -1.5 Handicap",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 10.0,
+      "begruendung": "Real gewinnt gg Aufsteiger im Bernabeu selten knapp — historisch ueber 60% mit 2+ Toren Diff.",
+      "rang": 11
+    },
+    {
+      "id": "fre-bre-1",
+      "spiel_id": "2026-08-30-fre-bre",
+      "spiel_label": "Freiburg vs Werder Bremen",
+      "kategorie": "value",
+      "markt": "Freiburg oder Remis (Doppelte Chance)",
+      "quote": 1.3,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 10.0,
+      "begruendung": "H2H-Dominanz 3 zu Null in Serie. Kein SAFE wegen Freiburg-Conference-Belastung 2 Tage vorher.",
+      "rang": 12
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe-2026-08-30",
+      "kategorie": "safe",
+      "name": "Safe-Kombi 30.08.",
+      "beine": [
+        {
+          "spiel_id": "2026-08-30-rma-mal",
+          "spiel_label": "Real Madrid vs Malaga",
+          "kategorie": "safe",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.55
+        },
+        {
+          "spiel_id": "2026-08-30-fre-bre",
+          "spiel_label": "Freiburg vs Werder Bremen",
+          "kategorie": "safe",
+          "markt": "Beide Teams treffen NEIN",
+          "quote": 2.05
+        },
+        {
+          "spiel_id": "2026-08-30-cag-int",
+          "spiel_label": "Cagliari vs Inter Mailand",
+          "kategorie": "safe",
+          "markt": "Inter oder Remis (Doppelte Chance)",
+          "quote": 1.2
+        }
+      ],
+      "gesamtquote": 3.81,
+      "rechnung": "1.55 x 2.05 x 1.20 = 3.813",
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "moeglicher_gewinn_euro": 56.2,
+      "begruendung": "Real-Heim-Tor-Total gg Aufsteiger + Bremen-Sturm ohne Tor in 3 Freiburg-Duellen + Inter-Klassen-Edge. Genau 1 Sieg-Outcome (Layer-2 sauber), Maerkte entkoppelt.",
+      "status": "verloren",
+      "gewinn_euro": 0.0,
+      "kommentar": "Freiburg-BTTS-NEIN verloren (Bremen traf 1x im 4:1)"
+    },
+    {
+      "id": "kombi-balance-2026-08-30",
+      "kategorie": "balance",
+      "name": "Balance-Kombi 30.08.",
+      "beine": [
+        {
+          "spiel_id": "2026-08-30-che-bri",
+          "spiel_label": "Chelsea vs Brighton",
+          "kategorie": "value",
+          "markt": "Palmer Torschuetze jederzeit",
+          "quote": 2.6
+        },
+        {
+          "spiel_id": "2026-08-30-mun-ips",
+          "spiel_label": "Manchester United vs Ipswich Town",
+          "kategorie": "value",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.35
+        },
+        {
+          "spiel_id": "2026-08-30-dep-val",
+          "spiel_label": "Deportivo vs Valencia",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.75
+        }
+      ],
+      "gesamtquote": 6.14,
+      "rechnung": "2.60 x 1.35 x 1.75 = 6.143",
+      "empfohlener_einsatz_prozent": 0.8,
+      "einsatz_euro": 8.0,
+      "moeglicher_gewinn_euro": 41.14,
+      "begruendung": "Palmer als Form-9er + United-Aufsteiger-Kontrollspiel + Depo/Valencia defensiv. 0 Sieg-Outcomes — reine Toranzahl/Spielertor-Kombi.",
+      "status": "verloren",
+      "gewinn_euro": 0.0,
+      "kommentar": "Unter 3.5 United (7 Tore) UND Unter 2.5 Depo-Val (4 Tore) verloren; Palmer als einziges Bein durch"
+    },
+    {
+      "id": "kombi-risk-2026-08-30",
+      "kategorie": "risk",
+      "name": "Risiko-Kombi 30.08.",
+      "beine": [
+        {
+          "spiel_id": "2026-08-30-cag-int",
+          "spiel_label": "Cagliari vs Inter Mailand",
+          "kategorie": "value",
+          "markt": "Lautaro Martinez Torschuetze jederzeit",
+          "quote": 2.1
+        },
+        {
+          "spiel_id": "2026-08-30-nap-com",
+          "spiel_label": "Napoli vs Como",
+          "kategorie": "value",
+          "markt": "Hoejlund Torschuetze jederzeit",
+          "quote": 2.4
+        },
+        {
+          "spiel_id": "2026-08-30-mon-mar",
+          "spiel_label": "Monaco vs Marseille",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75
+        },
+        {
+          "spiel_id": "2026-08-30-rma-mal",
+          "spiel_label": "Real Madrid vs Malaga",
+          "kategorie": "value",
+          "markt": "Real Madrid -1.5 Handicap",
+          "quote": 1.75
+        }
+      ],
+      "gesamtquote": 15.44,
+      "rechnung": "2.10 x 2.40 x 1.75 x 1.75 = 15.435",
+      "empfohlener_einsatz_prozent": 0.25,
+      "einsatz_euro": 2.5,
+      "moeglicher_gewinn_euro": 38.6,
+      "begruendung": "Zwei Volumen-Stuermer mit Backup-Boost + Ligue-1-Klassiker-Tore + Real klar mit 2 Toren Vorsprung. Genau 1 Sieg-Outcome (Layer-2 sauber). Real-Bein Markt-entkoppelt von Safe-Kombi.",
+      "status": "verloren",
+      "gewinn_euro": 0.0,
+      "kommentar": "Lautaro blank in Cagliari-Inter (Calhanoglu-Tor); Nap-Com Hojlund + Real -1.5 waeren durch, Ueber 2.5 Monaco verloren"
+    },
+    {
+      "id": "kombi-moonshot-2026-08-30",
+      "kategorie": "moonshot",
+      "name": "Moonshot-Kombi 30.08.",
+      "beine": [
+        {
+          "spiel_id": "2026-08-30-che-bri",
+          "spiel_label": "Chelsea vs Brighton",
+          "kategorie": "risk",
+          "markt": "Rutter Torschuetze jederzeit",
+          "quote": 3.8
+        },
+        {
+          "spiel_id": "2026-08-30-fre-bre",
+          "spiel_label": "Freiburg vs Werder Bremen",
+          "kategorie": "wackel",
+          "markt": "Matanovic Torschuetze jederzeit",
+          "quote": 3.2
+        },
+        {
+          "spiel_id": "2026-08-30-mon-mar",
+          "spiel_label": "Monaco vs Marseille",
+          "kategorie": "wackel",
+          "markt": "Gouiri Torschuetze jederzeit",
+          "quote": 3.2
+        },
+        {
+          "spiel_id": "2026-08-30-nap-com",
+          "spiel_label": "Napoli vs Como",
+          "kategorie": "wackel",
+          "markt": "De Bruyne Torschuetze jederzeit",
+          "quote": 3.5
+        }
+      ],
+      "gesamtquote": 136.19,
+      "rechnung": "3.80 x 3.20 x 3.20 x 3.50 = 136.19",
+      "empfohlener_einsatz_prozent": 0.1,
+      "einsatz_euro": 1.0,
+      "moeglicher_gewinn_euro": 136.19,
+      "begruendung": "Vier Volumen-Torschuetzen — 4 Spielertor-Beine, kein Sieg-Outcome. Ehrlicher Spass-Einsatz. Wenn Rutter/Matanovic/Gouiri/De Bruyne alle treffen, klingelt es. Nap-com in 3 Kombis (Layer 3 weich verletzt) weil Torschuetzen-Tiefe im Slate begrenzt — akzeptierter Kompromiss.",
+      "status": "verloren",
+      "gewinn_euro": 0.0,
+      "kommentar": "Rutter verletzt/gar nicht im Kader; Matanovic getroffen, Gouiri + De Bruyne blank"
+    }
+  ],
+  "lessons_angewandt": [
+    "HR24 Form-Edge Torschuetzen aktiv (Palmer, Hoejlund, Lautaro) — statt DC-Sucht",
+    "HR3 UEFA-Doppelbelastung: Brighton nach Conference-Play-off, Freiburg 2 Tage nach Motherwell — Torschuetzen-Backup-Optionen im Blick",
+    "Kader-Guardrail streng: Lukaku raus aus Napoli-Sturm, De Bruyne rein — Torschuetzen-Kandidaten gegen kader_wechsel_2026.json abgeglichen",
+    "DC-CAP eingehalten: max 1 DC pro Spiel, Dossier-DC-Zahl in vernuenftigem Bereich (5 DC in 12 Einzeltipps)",
+    "Markt-Goldgruben priorisiert: DC 1X (Freiburg, Napoli, United, Lazio), DC X2 (Inter), Unter 2.5 (Depo), Torschuetzen Jederzeit (Palmer, Lautaro, Hoejlund)",
+    "Kasse-Stand 1000€ Stufe 1 — Einzeltipps 10-15€, Safe-Kombi 20€, Balance 8€, Risiko 2.50€, Moonshot 1€",
+    "Zeitfenster-Hartregel eingehalten: alle 13 Spiele mit Anstoss am 30.08. Berliner Zeit — keine Sonntagsspiele im Samstags-Dossier oder umgekehrt",
+    "Coinflip-Spiele (Sun-Ful, Lee-Brf, Aug-S04) auf max wackel und aus Kombis rausgehalten — kein SAFE ohne Klassen-Edge",
+    "Layer-2 hart: pro Kombi max 1 Sieg-Outcome (Safe=Inter-DC, Balance=0, Risk=Real-HC, Moonshot=0)",
+    "Trainer-Frische respektiert: Chelsea unter Alonso (nicht Maresca), Napoli unter Allegri, Fulham unter Arbeloa, Real-Trainer nach Arbeloa-Abgang live pruefen"
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-08-30T08:16:41.245389+00:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "layer_3_weich",
+        "kombi": "kombi-moonshot-2026-08-30",
+        "details": "Napoli in Balance/Risk/Moonshot verwendet — Torschuetzen-Tiefe im Slate limitiert."
+      }
+    ],
+    "lessons_generiert": [],
+    "hinweis": "Selbstpruefung im Master-Modus, kein Task-Tool verfuegbar. Squad-/Trainer-Frische ueber kader_wechsel_2026.json validiert (Lukaku raus, Adeyemi raus, Trainer Chelsea/Real/Fulham/Newcastle/Liverpool aktualisiert)."
+  },
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Wetten, nur setzen was du verlieren kannst.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "nap-com-1",
+      "spiel_id": "2026-08-30-nap-com",
+      "spiel_label": "Napoli vs Como",
+      "kategorie": "safe",
+      "markt": "Napoli oder Remis (Doppelte Chance)",
+      "quote": 1.15,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Napoli-Heim, Como im Maradona historisch chancenlos. DC 1X Goldgrube (84.6%). Klassen-Edge klar.",
+      "rang": 1,
+      "status": "offen"
+    },
+    {
+      "id": "mun-ips-1",
+      "spiel_id": "2026-08-30-mun-ips",
+      "spiel_label": "Manchester United vs Ipswich Town",
+      "kategorie": "safe",
+      "markt": "Manchester United oder Remis (Doppelte Chance)",
+      "quote": 1.15,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "United daheim gegen Aufsteiger — DC 1X Goldgrube, Ipswich-Auswaerts historisch defensiv-passiv.",
+      "rang": 2,
+      "status": "offen"
+    },
+    {
+      "id": "rma-mal-1",
+      "spiel_id": "2026-08-30-rma-mal",
+      "spiel_label": "Real Madrid vs Malaga",
+      "kategorie": "safe",
+      "markt": "Real Madrid oder Remis (Doppelte Chance)",
+      "quote": 1.05,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Bernabeu gegen Aufsteiger — DC 1X quasi Bank. Goldgrube-Markt.",
+      "rang": 3,
+      "status": "offen"
+    },
+    {
+      "id": "cag-int-1",
+      "spiel_id": "2026-08-30-cag-int",
+      "spiel_label": "Cagliari vs Inter Mailand",
+      "kategorie": "safe",
+      "markt": "Inter oder Remis (Doppelte Chance)",
+      "quote": 1.2,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Inter 9 Siege in letzten 10 gg Cagliari, im Unipol Domus letzten 3 ohne Cagliari-Tor.",
+      "rang": 4,
+      "status": "offen"
+    },
+    {
+      "id": "laz-gen-1",
+      "spiel_id": "2026-08-30-laz-gen",
+      "spiel_label": "Lazio vs Genua",
+      "kategorie": "safe",
+      "markt": "Lazio oder Remis (Doppelte Chance)",
+      "quote": 1.2,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Lazio-Heim, Genua abstiegsbedroht und im Auftakt gegen Napoli chancenlos.",
+      "rang": 5,
+      "status": "offen"
+    },
+    {
+      "id": "che-bri-1",
+      "spiel_id": "2026-08-30-che-bri",
+      "spiel_label": "Chelsea vs Brighton",
+      "kategorie": "value",
+      "markt": "Chelsea oder Remis (Doppelte Chance)",
+      "quote": 1.35,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Chelsea daheim unter Alonso, Brighton mit Conference-Doppelbelastung 3 Tage zuvor. H2H bremst SAFE.",
+      "rang": 6,
+      "status": "offen"
+    },
+    {
+      "id": "rma-mal-2",
+      "spiel_id": "2026-08-30-rma-mal",
+      "spiel_label": "Real Madrid vs Malaga",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.55,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Real-Heim gg Aufsteiger — Ueber 2.5 in letzten 5 Saisons zu ueber 75%.",
+      "rang": 7,
+      "status": "offen"
+    },
+    {
+      "id": "che-bri-2",
+      "spiel_id": "2026-08-30-che-bri",
+      "spiel_label": "Chelsea vs Brighton",
+      "kategorie": "value",
+      "markt": "Palmer Torschuetze jederzeit",
+      "quote": 2.6,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Palmer beim 3:2 in Fulham getroffen — Form-Edge (HR24). Chelseas Nr. 10 daheim. Torschuetzen Jederzeit Goldgrube.",
+      "rang": 8,
+      "status": "offen"
+    },
+    {
+      "id": "cag-int-2",
+      "spiel_id": "2026-08-30-cag-int",
+      "spiel_label": "Cagliari vs Inter Mailand",
+      "kategorie": "value",
+      "markt": "Lautaro Martinez Torschuetze jederzeit",
+      "quote": 2.1,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "12 Tore in 12 Serie-A-Duellen gg Cagliari — Lieblingsgegner. HR24 klar erfuellt. Goldgrube-Markt.",
+      "rang": 9,
+      "status": "offen"
+    },
+    {
+      "id": "nap-com-2",
+      "spiel_id": "2026-08-30-nap-com",
+      "spiel_label": "Napoli vs Como",
+      "kategorie": "value",
+      "markt": "Hoejlund Torschuetze jederzeit",
+      "quote": 2.4,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 10.0,
+      "begruendung": "Nach Lukaku-Abgang (Fenerbahce) ist Hoejlund der zentrale 9er. De Bruyne als Zuspieler. Goldgrube.",
+      "rang": 10,
+      "status": "offen"
+    },
+    {
+      "id": "rma-mal-3",
+      "spiel_id": "2026-08-30-rma-mal",
+      "spiel_label": "Real Madrid vs Malaga",
+      "kategorie": "value",
+      "markt": "Real Madrid -1.5 Handicap",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 10.0,
+      "begruendung": "Real gewinnt gg Aufsteiger im Bernabeu selten knapp — historisch ueber 60% mit 2+ Toren Diff.",
+      "rang": 11,
+      "status": "offen"
+    },
+    {
+      "id": "fre-bre-1",
+      "spiel_id": "2026-08-30-fre-bre",
+      "spiel_label": "Freiburg vs Werder Bremen",
+      "kategorie": "value",
+      "markt": "Freiburg oder Remis (Doppelte Chance)",
+      "quote": 1.3,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 10.0,
+      "begruendung": "H2H-Dominanz 3 zu Null in Serie. Kein SAFE wegen Freiburg-Conference-Belastung 2 Tage vorher.",
+      "rang": 12,
+      "status": "offen"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe-2026-08-30",
+      "status": "offen",
+      "gesamtquote": 3.81
+    },
+    {
+      "kombi_id": "kombi-balance-2026-08-30",
+      "status": "offen",
+      "gesamtquote": 6.14
+    },
+    {
+      "kombi_id": "kombi-risk-2026-08-30",
+      "status": "offen",
+      "gesamtquote": 15.44
+    },
+    {
+      "kombi_id": "kombi-moonshot-2026-08-30",
+      "status": "offen",
+      "gesamtquote": 136.19
+    }
+  ],
+  "ausgewertet_am": "2026-08-31T06:17:22+00:00",
+  "_auswertung": {
+    "erstellt_am": "2026-08-31T06:22:28.905954+00:00",
+    "modus": "web_recherche_manuell (football-data-api via Proxy blockiert)",
+    "quelle_primaer": "ESPN + Bundesliga.com + VAVEL + FOX Sports (siehe je Spiel quellen)",
+    "clv_status": "Nicht abgerufen - Netz-Proxy blockiert oddsportal"
+  }
+}
