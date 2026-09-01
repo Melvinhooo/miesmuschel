@@ -1,595 +1,477 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
-  "datum": "2026-08-31",
-  "erstellt_am": "2026-08-31T14:51:00+02:00",
-  "hinweis": "Watchdog-Recovery Mo 14:30 - die 13:30-Hauptroutine hat kein Dossier abgelegt, deshalb liefert der Watchdog live nach. Vier Anstoss-Slots am Montag: Serie-A-Montagsdoppel Lecce-Roma (18:30) + Atalanta-Bologna (20:45), LaLiga-Doppel Osasuna-Getafe (19:30) + Barcelona-Rayo (21:30). Bundesliga und Premier League spielen heute nicht. Kasse 1000€ / Stufe 1 (Saison 2026/27 hat den 30-Tage-ROI-Filter zwar mit +10.1 % geknackt, `stufe_2_freigeschaltet` steht in kasse.json aber weiter auf false - Stakes bleiben konservativ, bis Melvi manuell freischaltet). Aktive Goldgruben: 'Unter 2.5 Tore' (70.8 % / +17.4 %) und 'Doppelte Chance X2' (76.5 % / +24.9 %) - beide in Osasuna-Getafe im Slate.",
-  "kasse_stand_gelesen": {
-    "kasse_euro": 1000,
-    "stufe": 1,
-    "stufe_2_freigeschaltet": false,
-    "quelle": "data/kasse.json"
-  },
+  "datum": "2026-09-01",
+  "erstellt_am": "2026-09-01T14:30:00+02:00",
+  "hinweis": "Watchdog-Lauf 14:30 — die Hauptroutine um 13:30 hatte kein Dossier abgelegt. Heute Dienstag nur drei Spiele: DFB-Pokal HEBC-BVB (Nachzügler wegen Supercup-Kollision) plus Coppa-Italia-Sedicesimi Parma-Cremonese und Torino-Monza. Kasse steht auf 1000€, Stufe 1 aktiv (Saison-Edge in 2026/27 noch nicht bestätigt, deshalb keine 100€-Tipps). Alle Coppa-Italia-Spiele enden bei Remis nach 90 Min per Elfmeter — 1X2/DC werten nur die regulären 90 Minuten, das macht DC X2/1X strukturell attraktiver als der direkte Sieg-Tipp. Im DFB-Pokal 1. Runde gilt die 2:0-Insurance NICHT (nur Bundesliga + CL laut bet365 DE).",
   "spiele": [
     {
-      "id": "2026-08-31-lec-rom",
-      "liga": "Serie A - 2. Spieltag",
-      "heim": "US Lecce",
-      "gast": "AS Roma",
-      "anstoss": "2026-08-31T18:30:00+02:00",
-      "stadion": "Stadio Via del Mare, Lecce",
+      "id": "2026-09-01-heb-bvb",
+      "liga": "DFB-Pokal",
+      "heim": "HEBC Hamburg",
+      "gast": "Borussia Dortmund",
+      "anstoss": "2026-09-01T20:45:00+02:00",
+      "stadion": "Volksparkstadion, Hamburg (Ausweich-Stadion für den 5.-Liga-Klub)",
       "saison_kontext": {
-        "parallel_heim": "keine - Lecce ohne Europapokal 2026/27, Coppa Italia startet erst 4. Runde Ende September",
-        "parallel_gast": "keine paralleler Wettbewerb diese Woche - Europa League Ligaphase startet erst 24. September, Coppa Italia frühestens Ende September",
-        "saisonziel_heim": "Klassenerhalt (Aufsteiger-Konsolidierer, letztes Jahr 17. gerettet); MD1 auswärts 2:0 in Venedig (Gorter, Tiago Gabriel) - starker Auftakt",
-        "saisonziel_gast": "Europa-League-Comeback + Meisterschafts-Verfolger; unter Neu-Coach Gian Piero Gasperini MD1-Heimspiel 4:0 gegen Fiorentina (Dreierpack Malen, drei Vorlagen Dybala, Pisilli)",
-        "motivations_asymmetrie": "Klassen-Edge klar Roma - Gasperini bringt Vertikalspiel, Malen als zentraler 9er heiss (3 Tore in 1 Spiel), Roma H2H 9/11 der letzten Duelle gewonnen. Lecce zwar mit Punkten aus Venedig, spielerisch aber Klassen-Sprung.",
-        "recovery_heim": "6 Tage seit 2:0 Venedig (25.08.) - frisch, keine Doppelbelastung",
-        "recovery_gast": "8 Tage seit 4:0 Fiorentina (23.08.) - frisch, keine Doppelbelastung",
+        "parallel_heim": "keine — HEBC Hamburg spielt in der Oberliga Hamburg (5. Liga), kein europäisches Geschäft, kein Landespokal-Doppel diese Woche",
+        "parallel_gast": "keine — CL-Ligaphase startet erst am 15./16.09.2026, Bundesliga 2. Spieltag folgt am 05.09. (Sa) mit St. Pauli-Auswärtsspiel — 3 volle Tage nach diesem Pokalspiel",
+        "saisonziel_heim": "Aufstieg Regionalliga Nord / kompetitiver Oberliga-Platz. Der Pokalabend ist der wirtschaftliche Höhepunkt der Saison und wird im Volksparkstadion ausgetragen — reines Feiern und Widerstand leisten.",
+        "saisonziel_gast": "Bundesliga-Titel-Herausforderer hinter Bayern, CL-Ligaphase-Ziel Achtelfinal-Playoff. Nach Meistertitel-Rennen 2025/26 (Vize) und Aderlass (Adeyemi nach Barcelona) unter Neu-Ansatz von Kovac im 2. Amtsjahr.",
+        "motivations_asymmetrie": "Riesiger Klassenunterschied (5. Liga vs Bundesliga-Vize). BVB rotiert bewusst durch — Backup-Keeper Alex Meyer (Homecoming Hamburg-Umgebung) startet, Jobe Bellingham im Zentrum, Guirassy vorn als Anker. HEBC hat null Ausfälle und den vollen Erwachsenenkader — aber Klasse setzt sich in solchen Pokal-Runden fast immer durch. Kein Cinderella-Setup wie bei früheren 5.-Liga-Sensationen.",
+        "recovery_heim": "5.-Liga-Wochenende mit üblicher Belastung, alle Stammspieler fit (0 fresh injury concerns laut Coach Obloch)",
+        "recovery_gast": "3 Tage nach Bundesliga-MD1 (Sa 29.08. gegen HSV, 2:0-Sieg mit Guirassy-Tor). Kovac plant heavy rotation: Bensebaini (Rotsperre), Can (Kreuzbandriss), Konstantelias (Knieverletzung), Lerma (Muskel), Schlotterbeck (Bänderriss) fallen ohnehin aus. Kobel wird geschont.",
         "quellen": [
-          "https://sport.sky.it/calcio/serie-a/2026/08/30/lecce-roma-probabili-formazioni-2-giornata",
-          "https://www.romatoday.it/sport/calcio/lecce-roma-dove-vedere-31-agosto-2026.html",
-          "https://www.adnkronos.com/sport/lecce-roma-oggi-serie-a-orario-dove-vederla-tv-probabili-formazioni_1ruwgdxT7n85QfXm9eLqcd"
+          "https://sports.yahoo.com/articles/hebc-hamburg-vs-borussia-dortmund-073000963.html",
+          "https://www.kicker.de/hebc-gegen-dortmund-2026-dfb-pokal-5204697/aufstellung",
+          "https://www.bvb.de/de/de/bvb-spielplan/spiel.html/2026-2027/Fussball/Profis/DFB-Pokal/1/HEBC-Hamburg-Borussia-Dortmund.html",
+          "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-ersten-hauptrunde"
         ]
       },
       "news": [
-        "Roma unter Gasperini nach 4:0 Auftakt gegen Fiorentina - Malen Dreierpack, Dybala 3 Vorlagen, Pisilli einmal",
-        "Roma-Transfer-Zuwachs Sommer: Balerdi (IV), De Roon (6er), Wesley (Aussenbahn) - Achse stabilisiert",
-        "Lecce mit 2:0 in Venedig gewonnen (Gorter, Tiago Gabriel) - hat Punktekonto trotz Klassen-Underdog eröffnet",
-        "2:0-Insurance gilt in Serie A NICHT (bet365-DE-Regel nur 1. Bundesliga + Champions League) - Roma muss echte 90 Min gewinnen"
+        "HEBC-Coach Philipp Obloch meldet null fresh injuries / null Sperren — voller Erwachsenenkader.",
+        "BVB-Backup-Keeper Alex Meyer startet (Hamburg-Homecoming), Kobel wird geschont.",
+        "BVB voraussichtlich: Meyer — Gadou, Anton, Mane — Ryerson, J. Bellingham, Veerman, Beier — Karetsas, Inacio — Guirassy.",
+        "2:0-Insurance gilt hier NICHT — DFB-Pokal ist nicht in der bet365-DE-Aktionsregel (nur 1. BL + CL).",
+        "Adeyemi seit 24.07.2026 bei Barcelona — nicht mehr als BVB-Torschütze tippbar."
       ],
       "tipps": [
         {
-          "id": "lec-rom-1",
-          "kategorie": "wackel",
-          "markt": "Sieg AS Roma (90 Min)",
-          "quote": 1.5,
-          "edge_prozent": 6,
-          "empfohlener_einsatz_prozent": 2.0,
-          "empfohlener_einsatz_euro": 20,
-          "begruendung": "Roma nach 4:0-Auftakt mit klarem Klassen-Edge und live-Form von Malen. Gasperini spielt vertikal, Lecce-Defensive (Tiago Gabriel, Gaspar) ist gegen Malen-Läufe angreifbar. H2H 9/11 der letzten Duelle für Roma. Reality-Check: SAFE-Kategorie hat in 65 Tipps 65.5 % Hitrate und +23.1 % ROI - passt. Stake 2 % von 1000€ = 20€. HINWEIS: 2:0-Insurance greift in Serie A NICHT - bei 2:0+ Führung trotzdem zittern falls Lecce zurückkommt.",
-          "faire_quote": 1.41
-        },
-        {
-          "id": "lec-rom-2",
-          "kategorie": "wackel",
-          "markt": "Denzel Malen Torschütze jederzeit",
-          "quote": 1.85,
-          "edge_prozent": 8,
+          "id": "heb-bvb-1",
+          "kategorie": "safe",
+          "markt": "Guirassy Torschütze jederzeit",
+          "quote": 1.2,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.15,
           "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15,
-          "begruendung": "Malen als zentraler 9er unter Gasperini mit Dreierpack im Auftakt - HR24 Form-Edge klar erfüllt (3 Tore in 1 Spiel + Vorsaisonform). Dovbyk sitzt auf der Bank, Malen bekommt alle Minuten. Goldgrube 'Torschützen Jederzeit' historisch +24 % ROI. Plus Einwechslungs-Boost (bet365-Aktionsregel): sollte Dovbyk später eingewechselt werden und treffen, zählt es für Malen. Stake 1.5 % = 15€.",
-          "faire_quote": 1.72
+          "begruendung": "Serhou Guirassy ist als einziger nominierter Anker-9er im rotierten BVB-Kader gesetzt und traf schon am MD1 gegen HSV. Bei erwartetem BVB-Torvolumen von 4+ (5.-Liga-Defense) ist die 1.20 wirklich flach, aber es ist ein Goldgruben-Markt (Torschützen Jederzeit ROI +4.9%, laufender 30d-Trend positiv). Einwechslungs-Boost wäre über Beier/Inacio abgedeckt. Stake bei 1000€-Kasse: 15€. Bei bet365 live prüfen."
         },
         {
-          "id": "lec-rom-3",
-          "kategorie": "wackel",
-          "markt": "Paulo Dybala Torschütze jederzeit",
-          "quote": 3.0,
-          "edge_prozent": 4,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5,
-          "begruendung": "Dybala kommt aus dem 3-Vorlagen-Auftakt und agiert im 3-4-2-1 als hängende Spitze hinter Malen - er hat Freistoss und Elfmeter, Standard-Torgefahr also gegeben. WACKEL weil Dybala primär Vorbereiter im Gasperini-System ist. Bilanz-Reality-Check: WACKEL-Kategorie insgesamt -5.5 % ROI - deshalb kleiner Stake 0.5 % = 5€.",
-          "faire_quote": 2.75
-        }
-      ],
-      "kontext_check_status": "WARN_QUELLE"
-    },
-    {
-      "id": "2026-08-31-osa-get",
-      "liga": "LaLiga - Jornada 3",
-      "heim": "CA Osasuna",
-      "gast": "Getafe CF",
-      "anstoss": "2026-08-31T19:30:00+02:00",
-      "stadion": "Estadio El Sadar, Pamplona",
-      "saison_kontext": {
-        "parallel_heim": "keine - Osasuna ohne Europapokal 2026/27, Copa del Rey startet erst November",
-        "parallel_gast": "Getafe im Conference-League-Play-off - Donnerstag 27.08.2026 auswärts 2:1 gegen Partizan Belgrad verloren. Vier Tage Recovery vor Pamplona - Kader-Rotation Pflicht.",
-        "saisonziel_heim": "Klassenerhalt + oberes Mittelfeld - 4 Punkte aus 2 Spielen (Sieg gegen Celta, Remis gegen Levante), Platz 8 Ausgangslage",
-        "saisonziel_gast": "Conference-League-Quali plus LaLiga-Konsolidierung - 3 Punkte aus 2 Spielen, Platz 13",
-        "motivations_asymmetrie": "Osasuna leichter Heim-Edge: frisch, El-Sadar-Bonus, Getafe müde nach Belgrad-Reise. Beide Teams strukturell defensiv (Ramis + Bordalás), Tor-Total wird niedrig - Under 2.5 stärker als der direkte Sieg-Tipp.",
-        "recovery_heim": "6 Tage seit 2:1 Celta (25.08.) - voll frisch",
-        "recovery_gast": "4 Tage seit 2:1-Niederlage in Belgrad (Conference-League-Play-off Hinspiel 27.08.) - Reise-Belastung plus mögliche Rotation",
-        "quellen": [
-          "https://www.noticiasdenavarra.com/osasuna/2026/08/31/osasuna-getafe-horario-ver-hoy-11485174.html",
-          "https://www.forebet.com/en/football-match-previews/30169-osasuna-seek-home-comforts-as-european-getafe-visit-el-sadar",
-          "https://ca.sports.yahoo.com/news/preview-osasuna-vs-getafe-cf-173500631.html"
-        ]
-      },
-      "news": [
-        "Neu-Trainer Luis Ramis übernahm bei Osasuna im Juni von Alessio Lisci - erste zwei Spiele 4 Punkte, positiv gestartet",
-        "Getafe unter Bordalás wie gewohnt physisch/defensiv; Star-Stürmer Christantus Uche mit schwerer Knieverletzung raus bis Ende der Saison 2026/27",
-        "Getafe kommt vom Do-Rückschlag in Belgrad (2:1-Pleite Conference-Play-off) - Bordalás rotiert typischerweise 3-4 Positionen nach Europacup-Reisen",
-        "El Sadar historisch Getafe-Fluch: Osasuna zu Hause zuletzt 3 von 5 gewonnen, davon 2x Ergebnisse unter 2.5 Tore"
-      ],
-      "tipps": [
-        {
-          "id": "osa-get-1",
-          "kategorie": "wackel",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.4,
-          "edge_prozent": 10,
-          "empfohlener_einsatz_prozent": 2.0,
-          "empfohlener_einsatz_euro": 20,
-          "begruendung": "Bordalás-Handschrift + Ramis-Osasuna-Defensive + Getafe-Reisemüdigkeit + Uche-Ausfall (Getafes einziger echter Volumen-Stürmer) - alle vier Faktoren zeigen Richtung wenig Tore. Aktive Goldgrube 'Unter 2.5 Tore' historisch 70.8 % Hitrate und +17.4 % ROI. Reality-Check: SAFE-Kategorie 65.5 % Hitrate. Stake 2 % = 20€.",
-          "faire_quote": 1.28
-        },
-        {
-          "id": "osa-get-2",
-          "kategorie": "wackel",
-          "markt": "Doppelte Chance Osasuna oder Remis (1X)",
-          "quote": 1.4,
-          "edge_prozent": 8,
+          "id": "heb-bvb-2",
+          "kategorie": "value",
+          "markt": "Über 4.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 8.0,
+          "faire_quote": 1.62,
           "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15,
-          "begruendung": "Osasuna zuhause frisch gegen ein Getafe, das Donnerstag 90 Min in Belgrad in den Beinen hat und rotieren wird. Selbst wenn Osasuna nicht siegt, ist Remis wahrscheinlich - ein Getafe-Auswärtssieg unter diesen Umständen wäre die Ausnahme. Bilanz-Reality-Check: 'Doppelte Chance X2/1X' historisch +24 % ROI (Goldgrube). Stake 1.5 % = 15€. DC-Cap-Check: 1 DC-Tipp im Spiel, ok.",
-          "faire_quote": 1.3
+          "begruendung": "Vorabschätzungen der Analyse-Portale liegen bei 6–10 erwarteten Toren gesamt. HEBC verteidigt zwar hoch-motiviert, aber ein 5.-Liga-Fitness-Niveau reicht 90 Min gegen Bundesliga-Physis nicht durch. Historisch enden solche 1.-Runden-Pokalspiele mit Klassen-Delta 3+ Ligen in ~65 % über 4.5. Stake: 15€. Bei bet365 live prüfen."
         },
         {
-          "id": "osa-get-3",
+          "id": "heb-bvb-3",
           "kategorie": "wackel",
-          "markt": "Sieg Osasuna (90 Min)",
-          "quote": 2.24,
-          "edge_prozent": 5,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 10,
-          "begruendung": "Heim-Vorteil El Sadar + Getafe-Rotation nach Belgrad + Uche-out - Osasuna hat die aktivere Sturmspitze mit Budimir. VALUE weil kein Klassen-Edge (beide Teams Mittelmass), aber Kontext-Edge da. Stake 1 % = 10€.",
-          "faire_quote": 2.05
-        }
-      ],
-      "kontext_check_status": "WARN_QUELLE"
-    },
-    {
-      "id": "2026-08-31-ata-bol",
-      "liga": "Serie A - 2. Spieltag",
-      "heim": "Atalanta BC",
-      "gast": "Bologna FC 1909",
-      "anstoss": "2026-08-31T20:45:00+02:00",
-      "stadion": "New Balance Arena (ex Gewiss Stadium), Bergamo",
-      "saison_kontext": {
-        "parallel_heim": "keine - Atalanta ist in die Conference-League-Ligaphase 2026/27 qualifiziert, erster Spieltag aber erst im Oktober",
-        "parallel_gast": "keine - Bologna Europa-League-Ligaphase startet 24.09.2026, Coppa Italia erste Runde vorher",
-        "saisonziel_heim": "Champions-League-Rückkehr bzw. mindestens Europa-League - unter Neu-Coach Maurizio Sarri MD1 zuhause 2:1 gegen Sassuolo",
-        "saisonziel_gast": "Europa-League-Anschluss - unter Neu-Coach Domenico Tedesco MD1 zuhause 0:1 gegen Lazio (Frattesi)",
-        "motivations_asymmetrie": "Atalanta klarer Kontext-Edge: Heimspiel, Sarri-Debüt zuhause, MD1 gewonnen, Scamacca/Raspadori-Doppel-9 gegen ein Bologna, das den Trainerwechsel Italiano→Tedesco noch verdaut. Tedesco kam von Fenerbahce, taktische Handschrift bei Bologna erst am Entstehen.",
-        "recovery_heim": "8 Tage seit 2:1 Sassuolo (23.08.) - frisch",
-        "recovery_gast": "7 Tage seit 0:1 Lazio (24.08.) - frisch, aber Rückschlag im Debüt",
-        "quellen": [
-          "https://www.vunerebologna.it/bologna-fc-1909/probabili-formazioni-atalanta-bologna-orario-tv-e-ultime-news/31/08/2026/",
-          "https://sport.sky.it/calcio/serie-a/2026/08/30/atalanta-bologna-probabili-formazioni-2-giornata",
-          "https://en.atalanta.it/news/atalanta-appoint-maurizio-sarri-as-head-coach-welcome-mister",
-          "https://football-italia.net/official-tedesco-takes-over-as-bologna-coach/"
-        ]
-      },
-      "news": [
-        "Atalanta unter Sarri (ex Napoli/Chelsea/Lazio) im dritten Trainerwechsel binnen 12 Monaten - Sarri-Handschrift ballbesitzorientiert, hohe Verteidigung",
-        "Bologna unter Domenico Tedesco (Italiano→Fenerbahce/verlassen) - MD1 zuhause 0:1 gegen Lazio verloren, Frattesi-Tor",
-        "Atalanta-Sturm-Doppel Scamacca (zentraler 9er) + Raspadori (Falscher 9er/2. Spitze) - MD1 beide auf dem Platz",
-        "Bologna weiter mit Kern Orsolini + Odgaard, aber Riccardo Orsolini als Aussen offensiv"
-      ],
-      "tipps": [
-        {
-          "id": "ata-bol-1",
-          "kategorie": "wackel",
-          "markt": "Sieg Atalanta (90 Min)",
-          "quote": 1.92,
-          "edge_prozent": 7,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15,
-          "begruendung": "Atalanta zuhause im Sarri-Debüt, Bologna im Umbruch nach Italiano-Abgang und mit Auftakt-Niederlage - klassisches Heim-VALUE-Muster. Reality-Check: VALUE-Kategorie 55.4 % Hitrate, +6.8 % ROI. Stake 1.5 % = 15€.",
-          "faire_quote": 1.8
-        },
-        {
-          "id": "ata-bol-2",
-          "kategorie": "wackel",
-          "markt": "Gianluca Scamacca Torschütze jederzeit",
+          "markt": "Über 5.5 Tore",
           "quote": 2.3,
-          "edge_prozent": 8,
-          "empfohlener_einsatz_prozent": 1.2,
-          "empfohlener_einsatz_euro": 12,
-          "begruendung": "Scamacca als zentraler 9er im Sarri-Ballbesitzsystem plus Backup-Stürmer Raspadori als direkter Ersatz (Einwechslungs-Boost, bet365-Regel). HR24 erfüllt: zentraler 9er mit Backup-Stürmer-Qualität. Goldgrube 'Torschützen Jederzeit'. Stake 1.2 % = 12€.",
-          "faire_quote": 2.1
+          "edge_prozent": 6.0,
+          "faire_quote": 2.17,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Same Story eine Etage höher — 5+1-Tore-Szenarien (typisch 5:1 oder 6:0) sind gegen einen 5.-Liga-Gegner Standard, aber Kovac rotiert und lässt in Runde 1 gern mit halbem Gaspedal spielen. Stake: 5€. Bei bet365 live prüfen."
         },
         {
-          "id": "ata-bol-3",
+          "id": "heb-bvb-4",
           "kategorie": "wackel",
-          "markt": "Beide Teams treffen (BTTS Ja)",
-          "quote": 1.76,
-          "edge_prozent": 5,
-          "empfohlener_einsatz_prozent": 1.2,
-          "empfohlener_einsatz_euro": 12,
-          "begruendung": "Beide Teams offensiv orientiert - Atalanta hat unter Sarri Ballbesitz-Fokus mit hoher Kette (Konter-Risiko), Bologna mit Orsolini/Odgaard genug Feuerkraft für ein Anschlusstor. MD1 beide getroffen (Atalanta 2, Bologna 0 - aber Fokus zurück auf Offensive). VALUE. Stake 1.2 % = 12€.",
-          "faire_quote": 1.65
+          "markt": "Bellingham Torschütze jederzeit",
+          "quote": 3.6,
+          "edge_prozent": 4.0,
+          "faire_quote": 3.46,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Jobe Bellingham als zentraler 8er/10er sollte in einem Rotationsspiel bei erwartet 4+ BVB-Toren gute Ankunfts-Chancen in den Sechzehner haben. HR24 nur bedingt erfüllt (Backup-Stürmer-Qualität nein, aber Form-Edge aus MD1 und Gegner-Defense-Klassen-Delta ja). Stake: 5€. Bei bet365 live prüfen."
         }
       ],
-      "kontext_check_status": "WARN_QUELLE"
+      "kontext_check_status": "OK"
     },
     {
-      "id": "2026-08-31-bar-ray",
-      "liga": "LaLiga - Jornada 3",
-      "heim": "FC Barcelona",
-      "gast": "Rayo Vallecano",
-      "anstoss": "2026-08-31T21:30:00+02:00",
-      "stadion": "Spotify Camp Nou, Barcelona",
+      "id": "2026-09-01-par-cre",
+      "liga": "Coppa Italia",
+      "heim": "Parma Calcio 1913",
+      "gast": "US Cremonese",
+      "anstoss": "2026-09-01T18:00:00+02:00",
+      "stadion": "Stadio Ennio Tardini, Parma",
       "saison_kontext": {
-        "parallel_heim": "keine - Champions-League-Ligaphase 2026/27 startet erst 16.09.2026, Copa del Rey erst November",
-        "parallel_gast": "keine - Rayo Europacup-frei nach Conference-Playoff-Aus in der Vorsaison",
-        "saisonziel_heim": "LaLiga-Titelverteidigung + CL-Halbfinale minimum - MD1 auswärts 5:0 in Elche, MD2 zuhause 2:0 gegen Athletic. 6/6 Punkte, 7:0 Tore, 0 Gegentore",
-        "saisonziel_gast": "oberes Mittelfeld/Europa-Chance - 1 Punkt aus 2 Spielen, dazu Stadion-Krise (Vallecas nicht bereit, ein Heimspiel schon ausgewichen)",
-        "motivations_asymmetrie": "Klarer Klassen-Edge Barcelona - Flick-Serie zuhause 20+ Liga-Siege in Folge, defensiv makellos, dazu Rayo mit Stadion-Chaos und Kader-Problemen. Rodri (Neu-Zugang von Man City) meldet sich nach Rücken-OP zurück, Adeyemi (Neu von Dortmund) startet ebenfalls möglich.",
-        "recovery_heim": "4 Tage seit 2:0 Athletic (27.08.) - normal",
-        "recovery_gast": "6 Tage seit letztem LaLiga-Spiel - frisch, dafür Personal-Not",
+        "parallel_heim": "keine — kein europäisches Geschäft für Parma, Serie A MD3 erst 12.-14.09.",
+        "parallel_gast": "keine — Cremonese als Aufsteiger ebenfalls ohne EU-Programm",
+        "saisonziel_heim": "Klassenerhalt Serie A unter Cuesta nach knappem Verbleib 2025/26",
+        "saisonziel_gast": "Klassenerhalt nach direktem Wiederaufstieg unter Giampaolo (kam von Lecce/Cagliari-Umfeld)",
+        "motivations_asymmetrie": "Coinflip-Charakter: beide Teams verloren die ersten zwei Serie-A-Spiele torlos, beide rotieren wahrscheinlich für die Liga-Aufgaben am Wochenende. Cremonese gewann das letzte Direkt-Duell im Tardini 2:0 (März 2026) und hat H2H-Historie auf ihrer Seite. Kein klares Klassen-Edge — das ist die Definition von 'kein SAFE'.",
+        "recovery_heim": "3 Tage nach Serie-A-Niederlage MD2 (Sa 29.08.), 0:x ohne Tor",
+        "recovery_gast": "3 Tage nach Serie-A-Niederlage MD2, ebenfalls 0:x ohne Tor",
         "quellen": [
-          "https://www.sportsmole.co.uk/football/barcelona/preview/barcelona-vs-rayo-vallecano-prediction-team-news-lineups_604020.html",
-          "https://www.barcablaugranes.com/barcelona-la-liga/130997/barcelona-rayo-vallecano-la-liga-team-news-match-preview-lineups-prediction",
-          "https://www.fcbarcelona.es/es/partidos/138302/fc-barcelona-rayo-la-liga-2026-2027",
-          "https://www.si.com/es-us/futbol/como-ver-el-partido-barcelona-vs-rayo-vallecano-en-tv-y-streaming-31-8-2026"
+          "https://sportparma.com/parma-calcio/coppa-italia-parma-cremonese-convocati-e-probabili-formazioni.html",
+          "https://www.fantamaster.it/probabili-formazioni-parma-cremonese-coppa-italia-2026-2027/",
+          "https://www.sportskeeda.com/football/parma-vs-cremonese-prediction-betting-tips-september-1st-2026",
+          "https://sport.sky.it/calcio/coppa-italia/tabellone-coppa-italia-2026-2027"
         ]
       },
       "news": [
-        "Barcelona 6/6 Punkte, 7 Tore geschossen, 0 kassiert - Flick-Defensive weiter felsenfest",
-        "Adeyemi (Sommer-Transfer von Dortmund für 22 Mio nach Barcelona) in der Vorschau in der Startelf für die linke Aussenbahn",
-        "Rodri (Sommer-Transfer von Man City nach Barcelona) nach Rücken-OP zurück, wahrscheinlich in der Startelf im Sechser",
-        "Frenkie De Jong verletzt out, Lewandowski laut Vorschau eher auf der Bank / rotiert (Raphinha im Zentrum)",
-        "Rayo hat Stadion-Krise Vallecas, musste ein Heimspiel bereits an alternativen Ort verlegen - Störfaktor"
+        "Parma-Coach Cuesta, Cremonese-Coach Giampaolo.",
+        "Parma voraussichtlich: Daffara; Britschgi, Drobnic, Valenti, Valeri; Cremaschi, Konate, Sorensen; Almqvist, Romero, Lontani (4-3-3).",
+        "Cremonese voraussichtlich: Agazzi; Folino, Bianchetti, Luperto, Rocchetti; Lottici Tessadri, Pontisso; Elia, Berti, Vandeputte; Nasti (4-2-3-1).",
+        "Beide starteten Serie A mit 0 Punkten / 0 Toren.",
+        "Coppa Italia: bei Remis nach 90 Min direkt Elfmeterschiessen — 1X2/DC werten nur die 90 Min."
       ],
       "tipps": [
         {
-          "id": "bar-ray-1",
+          "id": "par-cre-1",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.8,
+          "edge_prozent": 10.0,
+          "faire_quote": 1.63,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Absoluter Goldgruben-Markt (72 % Hit / +22.3 % ROI in der Bilanz). Beide Teams offensiv im Krebsgang (0 Tore in 2 Ligaspielen), beide rotieren wahrscheinlich, Coppa-Italia-Modus ohne Verlängerung (bei Remis direkt Elfmeter) — genau das Setup, in dem der Markt greift. H2H im Tardini war 0:2 knapp niedrig. Stake bei 1000€: 15€. Bei bet365 live prüfen."
+        },
+        {
+          "id": "par-cre-2",
+          "kategorie": "value",
+          "markt": "Cremonese oder Remis (Doppelte Chance)",
+          "quote": 1.85,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.73,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "DC X2 ist der stärkste Goldgruben-Markt im System (77.1 % Hit / +27.5 % ROI). Cremonese hat das jüngste H2H im Tardini gewonnen, spielt strukturell etwas kompakter unter Giampaolo, Parma-Angriff bislang blass. Coppa-Modus (nur 90 Min für Wette-Verrechnung) hilft der DC zusätzlich. Stake: 15€. Bei bet365 live prüfen."
+        },
+        {
+          "id": "par-cre-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen — Nein",
+          "quote": 1.65,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.57,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Konsistente Ergänzung zu Unter 2.5 — bei zwei Angriffen, die zusammen 0 Serie-A-Tore aus 2 Spielen mitbringen, ist Zu-Null einer Seite realistisch. Stake: 5€. Bei bet365 live prüfen."
+        },
+        {
+          "id": "par-cre-4",
+          "kategorie": "wackel",
+          "markt": "Cremonese Sieg (90 Min)",
+          "quote": 2.8,
+          "edge_prozent": 3.0,
+          "faire_quote": 2.72,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "H2H spricht dafür, Coinflip-Quote passt zur Kategorie. Nur als Risiko-Kombi-Bein spielbar — bei Remis nach 90 Min verliert der Tipp, obwohl Cremonese im Elfmeterschießen aufsteigt. Stake: 5€. Bei bet365 live prüfen."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-01-tor-mon",
+      "liga": "Coppa Italia",
+      "heim": "Torino FC",
+      "gast": "AC Monza",
+      "anstoss": "2026-09-01T21:00:00+02:00",
+      "stadion": "Stadio Olimpico Grande Torino",
+      "saison_kontext": {
+        "parallel_heim": "keine — kein EU-Geschäft für Torino, Serie A MD3 am 14.09.",
+        "parallel_gast": "keine — Monza spielt Serie B, Wochenendspiel folgt Sa 05.09.",
+        "saisonziel_heim": "gesicherter Serie-A-Mittelfeldplatz unter Neu-Coach Abate (Rückkehr nach kurzzeitiger Abwesenheit von Juric)",
+        "saisonziel_gast": "Wiederaufstieg in die Serie A unter Juric (ex-Torino! — pikante taktische Konstellation), noch im Umbruch nach Abstieg 2025/26",
+        "motivations_asymmetrie": "Klassen-Delta Serie A vs Serie B, Heimvorteil im Olimpico, Torino als Favorit. Juric kennt Turin allerdings extrem gut (Ex-Coach) — das dämpft ein bisschen. Beide Teams testen breit rotierte Elfen, Torino mit vielen jungen Namen (Fitz-Jim, Cacciamani, Gineitis). Monza-Debüts von Folorunsho und Maye möglich.",
+        "recovery_heim": "3 Tage nach Serie-A-MD2",
+        "recovery_gast": "3 Tage nach Serie-B-Spieltag",
+        "quellen": [
+          "https://sport.sky.it/calcio/coppa-italia/partite/2026/giornata-3/torino-monza",
+          "https://www.toro.it/toro/partite/torino-monza-probabile-formazione-abate-coppa-italia-26-27/1437214/",
+          "https://www.fantamaster.it/probabili-formazioni-torino-monza-coppa-italia-2026-2027/",
+          "https://sport.sky.it/calcio/coppa-italia/tabellone-coppa-italia-2026-2027"
+        ]
+      },
+      "news": [
+        "Torino-Coach Abate, Monza-Coach Juric (ex-Torino).",
+        "Torino voraussichtlich (3-4-2-1): Mascardi; Comuzzo, Coco, Cömert; Fortini, Fitz-Jim, Gineitis, Cacciamani; Vlasic, Adams; Simeone.",
+        "Monza voraussichtlich (3-4-2-1): Thiam; Kouadio, Lucchesi, Carboni; Birindelli, Foe Ondoa, Mout, Mangas; Colpani, Cutrone; Varela.",
+        "Bei Remis nach 90 Min direkt Elfmeterschiessen — 1X2/DC werten nur die 90 Min."
+      ],
+      "tipps": [
+        {
+          "id": "tor-mon-1",
+          "kategorie": "safe",
+          "markt": "Torino oder Remis (Doppelte Chance)",
+          "quote": 1.22,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.17,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Serie-A-Heimteam vs Serie-B-Aufstiegskandidat mit Ex-Coach-Faktor gedämpft — der DC 1X (Goldgrube 68.8 % / +12.2 % ROI) bildet das Klassen-Delta sauber ab und ist im Coppa-Modus (nur 90 Min) doppelt stark: Remis nach 90 zählt trotz Elfmeter-Fortgang. Stake bei 1000€: 15€. Bei bet365 live prüfen."
+        },
+        {
+          "id": "tor-mon-2",
+          "kategorie": "value",
+          "markt": "Simeone Torschütze jederzeit",
+          "quote": 2.2,
+          "edge_prozent": 8.0,
+          "faire_quote": 2.04,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Giovanni Simeone ist nominierter Anker-9er in Abates Startelf, gegen eine Serie-B-Innenverteidigung sind Chancen wahrscheinlich. Backup-Adams davor als 2. Sturmspitze deckt zusätzlich den Einwechslungs-Boost ab (Adams-Tor zählt für Simeone-Tipp bei Auswechslung). HR24 erfüllt (zentraler 9er + Gegner-Defense-Klassen-Delta). Stake: 15€. Bei bet365 live prüfen."
+        },
+        {
+          "id": "tor-mon-3",
+          "kategorie": "wackel",
+          "markt": "Torino Sieg (90 Min)",
+          "quote": 1.85,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.8,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Statt SAFE — weil Juric das Torino-Setup extrem gut kennt und Rotation auf beiden Seiten Klassen-Delta relativiert. Als Kombi-Beinchen oder Einzel-Wackel spielbar. Stake: 5€. Bei bet365 live prüfen."
+        },
+        {
+          "id": "tor-mon-4",
           "kategorie": "wackel",
           "markt": "Über 2.5 Tore",
-          "quote": 1.55,
-          "edge_prozent": 8,
-          "empfohlener_einsatz_prozent": 2.0,
-          "empfohlener_einsatz_euro": 20,
-          "begruendung": "Barcelona 7:0 in den ersten zwei Spielen, dazu Rayo defensiv anfällig auf Reisen. Selbst bei knappem Barca-Erfolg ist 3:0 oder 2:1 sehr wahrscheinlich. Reality-Check: SAFE-Kategorie 65.5 % Hitrate, dazu 'Über 2.5 Tore' selbst ist grenzwertig aber solide bei Heim-Favoriten. Stake 2 % = 20€.",
-          "faire_quote": 1.43
-        },
-        {
-          "id": "bar-ray-2",
-          "kategorie": "wackel",
-          "markt": "Barcelona Handicap -1 (Asian)",
-          "quote": 1.6,
-          "edge_prozent": 6,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15,
-          "begruendung": "Barca-Direktsieg unter 1.30 wäre HR1-Verstoss (SAFE-Range 1.30-1.65), deshalb der Handicap-Weg. Bei 20 Siegen zuhause in Folge und 5:0 Auftakt ist -1 der realistische Mindest-Weg. Push bei 1:0 wird bei Asian-Handicap-Variante Einsatz zurückgezahlt. Stake 1.5 % = 15€.",
-          "faire_quote": 1.5
-        },
-        {
-          "id": "bar-ray-3",
-          "kategorie": "wackel",
-          "markt": "Lamine Yamal Torschütze jederzeit",
-          "quote": 2.2,
-          "edge_prozent": 8,
-          "empfohlener_einsatz_prozent": 1.2,
-          "empfohlener_einsatz_euro": 12,
-          "begruendung": "Yamal in Top-Form (bereits in beiden Auftakt-Spielen an Toren beteiligt), rechte Seite gegen Rayos linken Aussenverteidiger (Vertrouwd/Ratiu) klarer Duell-Vorteil. HR24 Form-Edge erfüllt. Goldgrube 'Torschützen Jederzeit'. Stake 1.2 % = 12€.",
-          "faire_quote": 2.0
+          "quote": 1.95,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.87,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Torino heimstark und offensiv (Simeone/Adams/Vlasic), Monza-Defense im Umbruch — Coppa-Runden-Duelle Serie A vs Serie B enden oft in 3+ Toren. Historisch Über-2.5-Goldgrube (+18.5 % ROI). Stake: 5€. Bei bet365 live prüfen."
         }
       ],
-      "kontext_check_status": "WARN_QUELLE"
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
     {
-      "id": "e1",
-      "spiel_id": "2026-08-31-lec-rom",
-      "spiel_label": "Lecce vs Roma (18:30)",
+      "id": "heb-bvb-1",
+      "spiel_id": "2026-09-01-heb-bvb",
+      "spiel_label": "HEBC Hamburg vs Borussia Dortmund",
       "kategorie": "safe",
-      "markt": "Sieg AS Roma (90 Min)",
-      "quote": 1.5,
-      "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 20,
-      "begruendung": "Roma nach 4:0 gegen Fiorentina mit Klassen-Edge unter Gasperini + Malen in Form. H2H 9/11 pro Roma. SAFE-Kategorie 65.5 % Hitrate. 2:0-Insurance greift hier NICHT (nur BL + CL).",
+      "markt": "Guirassy Torschütze jederzeit",
+      "quote": 1.2,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Anker-9er in Kovacs rotierter Elf, MD1-Torschütze, Klassen-Delta 5 Ligen — solider Torschützen-Anker in einem erwartet torreichen Pokalspiel. 2:0-Insurance greift hier NICHT.",
       "rang": 1
     },
     {
-      "id": "e2",
-      "spiel_id": "2026-08-31-osa-get",
-      "spiel_label": "Osasuna vs Getafe (19:30)",
+      "id": "tor-mon-1",
+      "spiel_id": "2026-09-01-tor-mon",
+      "spiel_label": "Torino vs Monza",
       "kategorie": "safe",
-      "markt": "Unter 2.5 Tore",
-      "quote": 1.4,
-      "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 20,
-      "begruendung": "Bordalás-Defensive + Ramis-Osasuna + Getafe-Reisemüde von Do-Belgrad + Uche verletzt raus - alle Faktoren zeigen wenige Tore. Aktive Goldgrube 'Unter 2.5 Tore' (70.8 % / +17.4 %).",
+      "markt": "Torino oder Remis (Doppelte Chance)",
+      "quote": 1.22,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Serie A daheim gegen Serie B, DC deckt Elfmeter-Szenario komplett (nur 90 Min gewertet). Goldgrube DC 1X.",
       "rang": 2
     },
     {
-      "id": "e3",
-      "spiel_id": "2026-08-31-bar-ray",
-      "spiel_label": "Barcelona vs Rayo (21:30)",
-      "kategorie": "safe",
-      "markt": "Über 2.5 Tore",
-      "quote": 1.55,
-      "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 20,
-      "begruendung": "Barca 7:0 in 2 Spielen, Rayo defensiv fragil auf Reisen. Selbst knapper 3:0 oder 2:1 macht Über 2.5 wahrscheinlich.",
+      "id": "heb-bvb-2",
+      "spiel_id": "2026-09-01-heb-bvb",
+      "spiel_label": "HEBC Hamburg vs Borussia Dortmund",
+      "kategorie": "value",
+      "markt": "Über 4.5 Tore",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Analyse-Konsens 6–10 Tore erwartet, historisch ~65 % Hit bei Klassen-Delta 3+ Ligen im Pokal.",
       "rang": 3
     },
     {
-      "id": "e4",
-      "spiel_id": "2026-08-31-osa-get",
-      "spiel_label": "Osasuna vs Getafe (19:30)",
-      "kategorie": "safe",
-      "markt": "Doppelte Chance Osasuna oder Remis (1X)",
-      "quote": 1.4,
+      "id": "par-cre-1",
+      "spiel_id": "2026-09-01-par-cre",
+      "spiel_label": "Parma vs Cremonese",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.8,
       "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15,
-      "begruendung": "Osasuna frisch zuhause, Getafe müde nach Do-Reise Belgrad, Rotation Pflicht. Aktive Goldgrube 'DC X2/1X'.",
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Beide Angriffe mit 0 Toren in 2 Serie-A-Spielen, Rotations-Modus, Coppa-Setup ohne Verlängerung. Goldgrube (72 % / +22.3 %).",
       "rang": 4
     },
     {
-      "id": "e5",
-      "spiel_id": "2026-08-31-bar-ray",
-      "spiel_label": "Barcelona vs Rayo (21:30)",
-      "kategorie": "safe",
-      "markt": "Barcelona Handicap -1 (Asian)",
-      "quote": 1.6,
+      "id": "par-cre-2",
+      "spiel_id": "2026-09-01-par-cre",
+      "spiel_label": "Parma vs Cremonese",
+      "kategorie": "value",
+      "markt": "Cremonese oder Remis (Doppelte Chance)",
+      "quote": 1.85,
       "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15,
-      "begruendung": "20 Heimsiege in Folge + 5:0 in Elche - Barca -1 der realistische Mindest-Weg. Bei 1:0 Push (Asian).",
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Jüngstes H2H im Tardini 0:2 an Cremonese, DC X2 stärkster System-Markt (+27.5 %).",
       "rang": 5
     },
     {
-      "id": "e6",
-      "spiel_id": "2026-08-31-lec-rom",
-      "spiel_label": "Lecce vs Roma (18:30)",
+      "id": "tor-mon-2",
+      "spiel_id": "2026-09-01-tor-mon",
+      "spiel_label": "Torino vs Monza",
       "kategorie": "value",
-      "markt": "Denzel Malen Torschütze jederzeit",
-      "quote": 1.85,
+      "markt": "Simeone Torschütze jederzeit",
+      "quote": 2.2,
       "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15,
-      "begruendung": "Malen zentraler 9er, Dreierpack in MD1, Einwechslungs-Boost via Dovbyk. HR24 klar erfüllt. Goldgrube 'Torschützen Jederzeit'.",
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Nominierter 9er gegen Serie-B-Defense, Adams als Backup-Boost. HR24 erfüllt.",
       "rang": 6
     },
     {
-      "id": "e7",
-      "spiel_id": "2026-08-31-ata-bol",
-      "spiel_label": "Atalanta vs Bologna (20:45)",
-      "kategorie": "value",
-      "markt": "Sieg Atalanta (90 Min)",
-      "quote": 1.92,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15,
-      "begruendung": "Sarri-Heim-Debüt, Auftakt 2:1 gewonnen, Bologna im Trainer-Umbruch nach Italiano-Abgang + Auftakt-Pleite. VALUE.",
+      "id": "heb-bvb-3",
+      "spiel_id": "2026-09-01-heb-bvb",
+      "spiel_label": "HEBC Hamburg vs Borussia Dortmund",
+      "kategorie": "wackel",
+      "markt": "Über 5.5 Tore",
+      "quote": 2.3,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Same Story eine Etage höher — Kovac lässt in Pokal-Runde 1 gern mit halbem Gaspedal spielen.",
       "rang": 7
     },
     {
-      "id": "e8",
-      "spiel_id": "2026-08-31-bar-ray",
-      "spiel_label": "Barcelona vs Rayo (21:30)",
-      "kategorie": "value",
-      "markt": "Lamine Yamal Torschütze jederzeit",
-      "quote": 2.2,
-      "empfohlener_einsatz_prozent": 1.2,
-      "empfohlener_einsatz_euro": 12,
-      "begruendung": "Yamal Top-Form + Duell-Vorteil rechts. HR24 erfüllt. Goldgrube 'Torschützen Jederzeit'.",
-      "rang": 8
-    },
-    {
-      "id": "e9",
-      "spiel_id": "2026-08-31-ata-bol",
-      "spiel_label": "Atalanta vs Bologna (20:45)",
-      "kategorie": "value",
-      "markt": "Gianluca Scamacca Torschütze jederzeit",
-      "quote": 2.3,
-      "empfohlener_einsatz_prozent": 1.2,
-      "empfohlener_einsatz_euro": 12,
-      "begruendung": "Scamacca zentraler 9er im Sarri-System + Raspadori als Backup (Einwechslungs-Boost). HR24 durch Backup-Stürmer-Qualität erfüllt.",
-      "rang": 9
-    },
-    {
-      "id": "e10",
-      "spiel_id": "2026-08-31-ata-bol",
-      "spiel_label": "Atalanta vs Bologna (20:45)",
-      "kategorie": "value",
-      "markt": "Beide Teams treffen (BTTS Ja)",
-      "quote": 1.76,
-      "empfohlener_einsatz_prozent": 1.2,
-      "empfohlener_einsatz_euro": 12,
-      "begruendung": "Beide Teams offensiv, Sarri-hohe-Kette + Bologna Orsolini/Odgaard - typisch offenes Spiel.",
-      "rang": 10
-    },
-    {
-      "id": "e11",
-      "spiel_id": "2026-08-31-osa-get",
-      "spiel_label": "Osasuna vs Getafe (19:30)",
-      "kategorie": "value",
-      "markt": "Sieg Osasuna (90 Min)",
-      "quote": 2.24,
-      "empfohlener_einsatz_prozent": 1.0,
-      "empfohlener_einsatz_euro": 10,
-      "begruendung": "Heim-Vorteil El Sadar + Getafe-Rotation nach Do-Belgrad. VALUE, kein Klassen-Edge aber Kontext-Edge.",
-      "rang": 11
-    },
-    {
-      "id": "e12",
-      "spiel_id": "2026-08-31-lec-rom",
-      "spiel_label": "Lecce vs Roma (18:30)",
+      "id": "par-cre-4",
+      "spiel_id": "2026-09-01-par-cre",
+      "spiel_label": "Parma vs Cremonese",
       "kategorie": "wackel",
-      "markt": "Paulo Dybala Torschütze jederzeit",
-      "quote": 3.0,
+      "markt": "Cremonese Sieg (90 Min)",
+      "quote": 2.8,
       "empfohlener_einsatz_prozent": 0.5,
-      "empfohlener_einsatz_euro": 5,
-      "begruendung": "Dybala als hängende Spitze mit Standard-Torgefahr, aber primär Vorbereiter. WACKEL-Bilanz historisch -5.5 % - kleiner Stake.",
-      "rang": 12
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "H2H-Vorteil, aber Coinflip — Elfmeter-Aufstieg zählt nicht für den Wett-Verrechnung.",
+      "rang": 8
     }
   ],
   "kombis": [
     {
-      "name": "Safe-Kombi",
+      "id": "kombi-safe",
       "kategorie": "safe",
-      "gesamtquote": 3.36,
-      "rechnung": "1.50 x 1.40 x 1.60 = 3.36",
-      "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 20,
+      "name": "Safe-Kombi ~3-4x — DC + Tor-Total + Torino-DC",
       "beine": [
         {
-          "spiel_id": "2026-08-31-lec-rom",
-          "spiel_label": "Lecce vs Roma",
-          "markt": "Sieg AS Roma (90 Min)",
-          "quote": 1.5,
-          "kategorie": "safe"
+          "spiel_id": "2026-09-01-heb-bvb",
+          "spiel_label": "HEBC Hamburg vs Borussia Dortmund",
+          "markt": "Über 4.5 Tore",
+          "quote": 1.75,
+          "kategorie": "value"
         },
         {
-          "spiel_id": "2026-08-31-osa-get",
-          "spiel_label": "Osasuna vs Getafe",
+          "spiel_id": "2026-09-01-par-cre",
+          "spiel_label": "Parma vs Cremonese",
           "markt": "Unter 2.5 Tore",
-          "quote": 1.4,
-          "kategorie": "safe"
+          "quote": 1.8,
+          "kategorie": "value"
         },
         {
-          "spiel_id": "2026-08-31-bar-ray",
-          "spiel_label": "Barcelona vs Rayo",
-          "markt": "Barcelona Handicap -1",
-          "quote": 1.6,
+          "spiel_id": "2026-09-01-tor-mon",
+          "spiel_label": "Torino vs Monza",
+          "markt": "Torino oder Remis (Doppelte Chance)",
+          "quote": 1.22,
           "kategorie": "safe"
         }
       ],
-      "begruendung": "Drei ehrliche Favoriten-Beine aus drei verschiedenen Spielen: Roma-Klassen-Edge, Osasuna-Getafe-Defensiv-Muster (Goldgrube), Barca-Handicap-Weg über den 5:0-Auftakt. Kein Torschützen-Beine (jeder Ausfall-Restrisiko rausgehalten). Stake 2 % = 20€."
+      "gesamtquote": 3.84,
+      "rechnung": "1.75 x 1.80 x 1.22 = 3.84",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "3 Beine aus 3 verschiedenen Spielen, Markt-diversifiziert (Tor-Total offensiv + Tor-Total defensiv + DC). Kein Sieg-Outcome doppelt. Stake bei 1000€-Kasse: 20€."
     },
     {
-      "name": "Balance-Kombi",
+      "id": "kombi-balance",
       "kategorie": "balance",
-      "gesamtquote": 7.81,
-      "rechnung": "1.92 x 1.85 x 2.20 = 7.81",
-      "empfohlener_einsatz_prozent": 0.8,
-      "empfohlener_einsatz_euro": 8,
+      "name": "Balance-Kombi ~6-8x — Torschütze + Tor-Totale + Cremonese-DC",
       "beine": [
         {
-          "spiel_id": "2026-08-31-ata-bol",
-          "spiel_label": "Atalanta vs Bologna",
-          "markt": "Sieg Atalanta (90 Min)",
-          "quote": 1.92,
-          "kategorie": "balance"
+          "spiel_id": "2026-09-01-heb-bvb",
+          "spiel_label": "HEBC Hamburg vs Borussia Dortmund",
+          "markt": "Guirassy Torschütze jederzeit",
+          "quote": 1.2,
+          "kategorie": "safe"
         },
         {
-          "spiel_id": "2026-08-31-lec-rom",
-          "spiel_label": "Lecce vs Roma",
-          "markt": "Malen Torschütze jederzeit",
+          "spiel_id": "2026-09-01-par-cre",
+          "spiel_label": "Parma vs Cremonese",
+          "markt": "Cremonese oder Remis (Doppelte Chance)",
           "quote": 1.85,
-          "kategorie": "balance"
+          "kategorie": "value"
         },
         {
-          "spiel_id": "2026-08-31-bar-ray",
-          "spiel_label": "Barcelona vs Rayo",
-          "markt": "Yamal Torschütze jederzeit",
+          "spiel_id": "2026-09-01-tor-mon",
+          "spiel_label": "Torino vs Monza",
+          "markt": "Simeone Torschütze jederzeit",
           "quote": 2.2,
-          "kategorie": "balance"
+          "kategorie": "value"
         }
       ],
-      "begruendung": "Ein Sieg-Outcome (Atalanta) plus zwei Form-Torschützen aus Top-Spielen: Malen kommt vom Dreierpack, Yamal aus 2 Auftakt-Toren. Layer-2 erfüllt (nur 1 Sieg-Outcome), verschiedene Spiele. Stake 0.8 % = 8€."
+      "gesamtquote": 4.88,
+      "rechnung": "1.20 x 1.85 x 2.20 = 4.88",
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 8.0,
+      "begruendung": "3 Beine, 3 Spiele, zwei Torschützen-Anker + eine DC. Kein Layer-3-Konflikt zur Safe-Kombi (dort ist Torino-Bein die DC 1X, hier Torschütze — Markt-entkoppelt). Stake: 8€."
     },
     {
-      "name": "Risiko-Kombi",
+      "id": "kombi-risk",
       "kategorie": "risk",
-      "gesamtquote": 15.46,
-      "rechnung": "2.30 x 2.24 x 3.00 = 15.46",
+      "name": "Risiko-Kombi ~28x — Über 5.5 HEB + Torschütze Parma + Adams",
+      "beine": [
+        {
+          "spiel_id": "2026-09-01-heb-bvb",
+          "spiel_label": "HEBC Hamburg vs Borussia Dortmund",
+          "markt": "Über 5.5 Tore",
+          "quote": 2.3,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-09-01-par-cre",
+          "spiel_label": "Parma vs Cremonese",
+          "markt": "Nasti Torschütze jederzeit",
+          "quote": 3.5,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-09-01-tor-mon",
+          "spiel_label": "Torino vs Monza",
+          "markt": "Adams Torschütze jederzeit",
+          "quote": 3.5,
+          "kategorie": "risk"
+        }
+      ],
+      "gesamtquote": 28.18,
+      "rechnung": "2.30 x 3.50 x 3.50 = 28.18",
       "empfohlener_einsatz_prozent": 0.25,
       "empfohlener_einsatz_euro": 2.5,
-      "beine": [
-        {
-          "spiel_id": "2026-08-31-ata-bol",
-          "spiel_label": "Atalanta vs Bologna",
-          "markt": "Scamacca Torschütze jederzeit",
-          "quote": 2.3,
-          "kategorie": "risk"
-        },
-        {
-          "spiel_id": "2026-08-31-osa-get",
-          "spiel_label": "Osasuna vs Getafe",
-          "markt": "Sieg Osasuna",
-          "quote": 2.24,
-          "kategorie": "risk"
-        },
-        {
-          "spiel_id": "2026-08-31-lec-rom",
-          "spiel_label": "Lecce vs Roma",
-          "markt": "Dybala Torschütze jederzeit",
-          "quote": 3.0,
-          "kategorie": "risk"
-        }
-      ],
-      "begruendung": "Torschützen-Doppel (Scamacca + Dybala) plus Osasuna-Heimsieg. Layer-2 hart erfüllt: nur 1 Sieg-Outcome. Roma bereits als Sieg im Safe - hier über den zweiten Roma-Torschützen einen weiteren Roma-Zugriff, andere Spieler-Basis. Stake 0.25 % = 2.50€."
+      "begruendung": "Reines Tor-Volumen-Setup: 6+ HEBC-BVB-Tore + jeweils ein Torschütze auf beiden Coppa-Italia-Bühnen (Cremonese-9er Nasti als Solo-Spitze im 4-2-3-1, Torino-Backup-9er Ché Adams neben Simeone). Keine Sieg-Outcomes — die sind schon in Safe (Torino-DC) und Balance (Cremonese-DC) verbraucht. Stake: 2.50€. Bei bet365 live prüfen — Torschützen-Quoten schwanken."
     },
     {
-      "name": "Moonshot-Kombi",
+      "id": "kombi-moonshot",
       "kategorie": "moonshot",
-      "gesamtquote": 356.4,
-      "rechnung": "3.20 x 5.50 x 4.50 x 4.50 = 356.40",
-      "empfohlener_einsatz_prozent": 0.1,
-      "empfohlener_einsatz_euro": 1.0,
+      "name": "Moonshot-Kombi ~63x — Karetsas + Almqvist + Cutrone",
       "beine": [
         {
-          "spiel_id": "2026-08-31-bar-ray",
-          "spiel_label": "Barcelona vs Rayo",
-          "markt": "Adeyemi Torschütze jederzeit",
-          "quote": 3.2,
-          "kategorie": "moonshot"
-        },
-        {
-          "spiel_id": "2026-08-31-ata-bol",
-          "spiel_label": "Atalanta vs Bologna",
-          "markt": "Scamacca 2+ Tore",
-          "quote": 5.5,
-          "kategorie": "moonshot"
-        },
-        {
-          "spiel_id": "2026-08-31-lec-rom",
-          "spiel_label": "Lecce vs Roma",
-          "markt": "Malen 2+ Tore",
+          "spiel_id": "2026-09-01-heb-bvb",
+          "spiel_label": "HEBC Hamburg vs Borussia Dortmund",
+          "markt": "Karetsas Torschütze jederzeit",
           "quote": 4.5,
-          "kategorie": "moonshot"
+          "kategorie": "risk"
         },
         {
-          "spiel_id": "2026-08-31-osa-get",
-          "spiel_label": "Osasuna vs Getafe",
-          "markt": "Satriano Torschütze jederzeit",
-          "quote": 4.5,
-          "kategorie": "moonshot"
+          "spiel_id": "2026-09-01-par-cre",
+          "spiel_label": "Parma vs Cremonese",
+          "markt": "Almqvist Torschütze jederzeit",
+          "quote": 4.0,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-09-01-tor-mon",
+          "spiel_label": "Torino vs Monza",
+          "markt": "Cutrone Torschütze jederzeit",
+          "quote": 3.5,
+          "kategorie": "risk"
         }
       ],
-      "begruendung": "Vier Spiele, vier Torschützen-Wetten - kein Sieg-Outcome-Konflikt. Alle vier Beine müssen treffen, echter Lotterie-Charakter. Über 100x-Grenze. Stake 0.1 % = 1€ Spass-Einsatz. HINWEIS: Adeyemi ist erst seit Sommer bei Barca (Wechsel von Dortmund) - Startelf-Einsatz laut Vorschau, aber Debüt-Match-Risiko."
+      "gesamtquote": 63.0,
+      "rechnung": "4.50 x 4.00 x 3.50 = 63.00",
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 1.0,
+      "begruendung": "Ehrlich unter 100x: mit nur 3 Spielen und 1-Bein-pro-Spiel-Regel gehen 100x+ nicht ohne Fantasie-Quoten. Drei Backup-/Rotations-Torschützen: Konstantinos Karetsas (griechisches BVB-Talent, in der Startelf), Rasmus Almqvist (Parma-Flügel), Patrick Cutrone (Monza-Angriff). Wenn zwei davon treffen, wird's spannend — wenn alle drei, ist der Abend gemacht. Stake: 1€."
     }
   ],
   "lessons_angewandt": [
-    "HR1 Quoten-Range: Barca-Direktsieg unter 1.30 nicht als SAFE gesetzt, stattdessen Handicap -1 @1.60 im SAFE-Bereich",
-    "HR22 Star-OUT-Implosion: Uche-Ausfall bei Getafe berücksichtigt - kein Getafe-Sieg-VALUE, dafür Unter 2.5 Tore SAFE",
-    "HR24 Form-Edge Torschützen: Malen (Dreierpack MD1), Yamal (Form), Scamacca (zentraler 9er + Backup Raspadori)",
-    "DC-CAP: max 1 DC pro Spiel eingehalten (Osasuna-Getafe 1x DC 1X)",
-    "Layer-2 hart: pro Spiel max 1 Sieg-Outcome über alle Kombis (Roma Safe, Atalanta Balance, Osasuna Risk, Barca-Handicap Safe)",
-    "Layer-3: alle 4 Spiele in Moonshot mit Markt-Entkopplung (Torschützen), keine Sieg-Outcome-Doppelung",
-    "Kader-Frische: Adeyemi jetzt Barca (nicht mehr Dortmund - Fehler-Präzedenzfall vom 22.08.2026)",
-    "2:0-Insurance-Regel korrekt ausgewiesen: gilt in Serie A NICHT (nur 1. Bundesliga + Champions League bei bet365 DE)",
-    "Goldgruben aktiv gesucht: Unter 2.5 (Osasuna-Getafe), DC 1X (Osasuna-Getafe), Torschützen Jederzeit (Malen, Yamal, Scamacca)"
+    "HR1 Quoten-Range: alle Tipps in der Kategorie-Range einsortiert.",
+    "HR3 Rotations-Check: BVB im Pokal rotiert (Meyer, Anton, Veerman) — Torschützen-Tipp nur auf gesetzten Anker-9er (Guirassy), nicht auf Backup-Fläche.",
+    "HR24 Torschützen-Pflicht: bei Guirassy und Simeone durch Klassen-Delta + Backup-Stürmer-Qualität erfüllt.",
+    "Markt-Goldgruben-Regel: 3 der 4 Kombi-Beine kommen aus Goldgruben-Märkten (DC 1X, DC X2, Unter 2.5, Torschützen Jederzeit).",
+    "DC-CAP: max 1 DC pro Spiel eingehalten (Torino-DC + Parma-Cremonese-DC = 2 DC im ganzen Dossier).",
+    "Coinflip-Regel: Parma-Cremonese als Coinflip klassifiziert — bewusst kein SAFE, DC/Tor-Total-Werte statt Sieg.",
+    "Supercup-Sonderregel: greift heute nicht (heute kein Supercup).",
+    "2:0-Insurance-Ausweis: bei HEBC-BVB explizit im news[]-Block und in der Guirassy-Begründung dokumentiert, dass sie NICHT gilt (DFB-Pokal).",
+    "Kader-Wechsel-Check: Adeyemi (BVB→Barcelona) explizit ausgeschlossen; alle BVB-Torschützen-Tipps auf Namen aus der Kicker-Aufstellungs-Vorschau vom 01.09."
   ],
-  "_verifikations_report": {
-    "erstellt_am": "2026-08-31T14:51:00+02:00",
-    "modus": "watchdog_inline",
-    "drops": [],
-    "downgrades": [],
-    "warns": [
-      {
-        "art": "quoten_live_pruefen",
-        "details": "Alle Quoten sind aus Pre-Match-Aggregatoren (Sportsgambler, Mightytips, Agimeg, Betitaliaweb) - vor Einsatz bei bet365 live prüfen. Insbesondere Torschützen-Quoten und Handicap -1 können schwanken."
-      },
-      {
-        "art": "adeyemi_barca_debut_risiko",
-        "spiel_id": "2026-08-31-bar-ray",
-        "details": "Adeyemi seit Sommer Barca-Spieler (Wechsel von Dortmund für 22 Mio) - laut Vorschau in Startelf, aber Debüt-Risiko. Moonshot-Bein bewusst spekulativ."
-      }
-    ],
-    "checks_bestanden": [
-      "Spieler-Halluzination: Alle Torschützen (Malen, Dybala, Yamal, Adeyemi, Scamacca, Raspadori, Satriano) via Vorschau-Quelle bestätigt",
-      "Kader-Wechsel-Check: Adeyemi korrekt bei Barcelona (nicht Dortmund), Rodri bei Barcelona (nicht Man City), Anthony Gordon bei Barcelona (nicht Newcastle) - kein Verstoss gegen data/kader_wechsel_2026.json",
-      "Trainer-Frische: Roma-Gasperini, Atalanta-Sarri, Bologna-Tedesco, Osasuna-Ramis alle für 2026/27 verifiziert",
-      "Zeitfenster: alle 4 Spiele haben Anstoss am 31.08.2026 Berlin-Zeit - kein Spiel ausserhalb",
-      "Layer-2 hart: Sieg-Outcome pro Spiel max in 1 Kombi (Roma Safe, Atalanta Balance, Osasuna Risk, Barca Safe)",
-      "DC-CAP: max 1 DC pro Spiel (nur Osasuna-Getafe 1x DC 1X)",
-      "Verbotene Märkte: keine Assists/Rebounds/PRA/HZ-ES-Kombi/Genaues Ergebnis im Slate"
-    ],
-    "lessons_generiert": []
-  },
-  "footer": "18+ · bet365 DE · Hobby-Wetten | Sucht-Hilfe BZgA: 0800 1372700 | Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
+  "footer": "18+ · bet365 DE · Hobby-Wetten. BZgA-Glücksspielsucht-Hotline: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen, was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_watchdog": {
+    "ausgelöst": true,
+    "grund": "Kein data/tipps/2026-09-01.json vorhanden nach dem 13:30-Slot.",
+    "spiele_erwartet": 3,
+    "spiele_geliefert": 3,
+    "notiz": "Recherche-File data/recherche/2026-09-01.json fehlte auch — Watchdog hat live per WebSearch/WebFetch recherchiert (LiveSoccerTV/ESPN/UEFA-Domains sind aus dem Cloud-Sandbox blockiert, football-data.org ebenfalls). Alle Aufstellungs- und Terminquellen kommen aus Yahoo/Kicker/Sportskeeda/Sportparma/Toro.it/Sky-Italien via WebSearch."
+  }
 };

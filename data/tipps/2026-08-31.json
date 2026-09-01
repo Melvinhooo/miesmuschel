@@ -39,7 +39,7 @@
       "tipps": [
         {
           "id": "lec-rom-1",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "markt": "Sieg AS Roma (90 Min)",
           "quote": 1.5,
           "edge_prozent": 6,
@@ -50,7 +50,7 @@
         },
         {
           "id": "lec-rom-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Denzel Malen Torschuetze jederzeit",
           "quote": 1.85,
           "edge_prozent": 8,
@@ -71,7 +71,7 @@
           "faire_quote": 2.75
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
       "id": "2026-08-31-osa-get",
@@ -103,7 +103,7 @@
       "tipps": [
         {
           "id": "osa-get-1",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "markt": "Unter 2.5 Tore",
           "quote": 1.4,
           "edge_prozent": 10,
@@ -114,7 +114,7 @@
         },
         {
           "id": "osa-get-2",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "markt": "Doppelte Chance Osasuna oder Remis (1X)",
           "quote": 1.4,
           "edge_prozent": 8,
@@ -146,7 +146,7 @@
           "faire_quote": 2.45
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
       "id": "2026-08-31-ata-bol",
@@ -179,7 +179,7 @@
       "tipps": [
         {
           "id": "ata-bol-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Sieg Atalanta (90 Min)",
           "quote": 1.92,
           "edge_prozent": 7,
@@ -190,7 +190,7 @@
         },
         {
           "id": "ata-bol-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Gianluca Scamacca Torschuetze jederzeit",
           "quote": 2.3,
           "edge_prozent": 8,
@@ -211,7 +211,7 @@
           "faire_quote": 1.65
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
       "id": "2026-08-31-avl-ars",
@@ -324,7 +324,7 @@
       "tipps": [
         {
           "id": "bar-ray-1",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.55,
           "edge_prozent": 8,
@@ -335,7 +335,7 @@
         },
         {
           "id": "bar-ray-2",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "markt": "Barcelona Handicap -1 (Asian)",
           "quote": 1.6,
           "edge_prozent": 6,
@@ -346,7 +346,7 @@
         },
         {
           "id": "bar-ray-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Lamine Yamal Torschuetze jederzeit",
           "quote": 2.2,
           "edge_prozent": 8,
@@ -356,7 +356,7 @@
           "faire_quote": 2.0
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     }
   ],
   "einzeltipps": [
