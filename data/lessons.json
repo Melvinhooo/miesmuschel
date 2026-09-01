@@ -2857,6 +2857,30 @@
       "kategorie": "DC-Goldgrube-Cluster-HIT-8-von-8 (HR08-30-4 8c-8g)",
       "lesson": "Doppelte-Chance-Beine dieses Sonntags waren praktisch komplett durch: DC 1X (Chelsea 4:3, United 5:2, Real 4:0, Lazio 1:0, Freiburg 4:1, Depo 3:1, Leeds 1:1) und DC X2 (Inter, Athletic) - 8 von 8 DC-Beinen im Slate haben gehalten, egal ob Sieg oder Remis. Einziger Bust: Napoli-Heim (DC 1X @ 1.15) - siehe Lesson 1. Bestaetigt HR07-19-2 und Markt-Goldgruben-Datei: DC 1X (84.6 % / +9.5 %) und DC X2 (77.8 % / +9.4 %) bleiben Portfolio-Anker. Konsequenz: bei Coinflip-Spielen (Sun-Ful, Lee-Brf, Aug-S04, Mon-Mar) ist DC-oder-BTTS-JA statt Direkt-Sieg-Tipp weiter die konsistente Waffe.",
       "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-08-31",
+      "kategorie": "Torschuetzen-Goldgrube bei Team-Dominanz bestaetigt (HR08-31-1 8g)",
+      "lesson": "10/12 Einzeltipps + Safe- und Balance-Kombi getroffen (+179,88EUR Netto, +85,5 % ROI). Torschuetzen-Jederzeit-Goldgrube lieferte, wo das Team dominierte: Malen (Doppelpack im 0:4) und Yamal (Doppelpack im 5:2) - jeweils Volumen-9er/Fluegel im System, das den Gegner ueberrannte. Bestaetigt Markt-Goldgrube 'Torschuetzen Jederzeit' aus statistik.json - Trigger bleibt: Team-Fokus-Dominanz PLUS Spieler in Form. Ohne Team-Dominanz (siehe Havertz-Lesson) faellt der Edge weg.",
+      "bezug_spiel_id": "2026-08-31-bar-ray"
+    },
+    {
+      "datum": "2026-08-31",
+      "kategorie": "Einwechslungs-Boost greift NICHT ueber Positions-Aequivalenz (HR08-31-2 5a)",
+      "lesson": "4 potentielle Trigger heute (Scamacca->Krstovic, Havertz->Gyoekeres, Dybala->De Roon, Malen->Castro) - kein einziger loeste aus. Wichtigster Lehrfall: Atalanta-Bologna Samardzic-Tor 90+6' zaehlt NICHT fuer Scamacca-Tipp, weil Samardzic den Mittelfeldspieler Ederson (nicht Scamacca) ersetzte - Krstovic als direkter Scamacca-Ersatz traf nicht. Konsequenz: bei Tipps auf Volumen-9er mit 'Backup-Stuermer-Qualitaet' darf HR24 nur zaehlen, wenn der Coach den Backup-9er tatsaechlich fuer den getippten Spieler bringt. Cheat-Sheet-Note: Sarri-Atalanta rotiert komplett (Scamacca->Krstovic, Raspadori->Elmas, De Ketelaere->Zalewski) - eng zusammenhaengende Doppel-9-Systeme kollabieren fuer den Boost.",
+      "bezug_spiel_id": "2026-08-31-ata-bol"
+    },
+    {
+      "datum": "2026-08-31",
+      "kategorie": "Isolations-Warnung: Torschuetzen-Tipp auf 9er ohne Team-Volumen (HR08-31-3 8e)",
+      "lesson": "Havertz-Torschuetzen-Tipp @ 2.60 verloren obwohl Arsenal 1:0 zuhause bei Villa gewann. Grund: Havertz hatte in 79 Minuten nur 7 Ballkontakte - Arsenal ohne Bruno G./Saliba/Timber kontrollierte zwar das Spiel, aber ueber Saka-Flanken statt Havertz-Zentrum. Konsequenz: HR24 Form-Edge Torschuetzen darf nicht auf 9er angewandt werden, wenn a) das Team offensiv nicht dominant ist ODER b) der 9er in der Vorwoche schon nur 1-2 Ballkontakte pro 10 Min hatte. Grenz-Fall Arsenal: Havertz-Isolation ist Muster, nicht Ausrutscher - Torschuetzen-Tipps auf Arsenal-9er zurueckstellen bis Bruno G. zurueck ist.",
+      "bezug_spiel_id": "2026-08-31-avl-ars"
+    },
+    {
+      "datum": "2026-08-31",
+      "kategorie": "DC- und Unter-2.5-Goldgruben halten - Kombi-Anker (HR08-31-4 8c)",
+      "lesson": "Safe-Kombi (Roma-Sieg, Osasuna Unter 2.5, Villa-Arsenal DC X2, Barca Handicap -1) bei Quote 3.86 durch - +57,20EUR auf 20EUR. Balance-Kombi 3-Bein-Torschuetzen-Doppel Malen/Yamal + Atalanta-Sieg bei Quote 7.81 durch - +54,48EUR auf 8EUR. Bestaetigt: DC-X2/1X (76,5 % / +24,9 %) und Unter 2.5 (70,8 % / +17,4 %) bleiben die stabilsten Kombi-Anker. Wenn beide Torschuetzen-Beine ausserdem echte Volumen-Systeme haben (Roma-Gasperini, Barca-Flick), tragen sie Kombis bis 8-fach mit hoher Konfidenz. Konsequenz: Balance-Kombi-Vorlage 'Sieg-Outcome + 2 Torschuetzen aus dominanten Systemen' bleibt Standard.",
+      "bezug_spiel_id": null
     }
   ]
 }

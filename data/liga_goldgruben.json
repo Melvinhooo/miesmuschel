@@ -1,8 +1,15 @@
 {
-  "stand": "2026-08-31T06:24:47+00:00",
+  "stand": "2026-09-01T06:27:37+00:00",
   "kriterium": "ROI > 15.0% ODER (Trefferquote >= 65.0% UND ROI > 0%) bei min. 5 Tipps",
   "wirkung": "Schema-Mapper bestaetigt SAFE-Tipps in diesen Ligen. Andere SAFE-Tipps werden auf VALUE downgegradet wenn der Markt-Typ nicht in markt_goldgruben.json ist (Hebel C ROI-Sanierung 04.05.).",
   "ligen": [
+    {
+      "liga": "LaLiga - Jornada 3",
+      "tipps": 5,
+      "trefferquote": 100.0,
+      "roi_prozent": 163.0,
+      "netto": 8.15
+    },
     {
       "liga": "FIFA World Cup 2026 - Gruppe F - Spieltag 1",
       "tipps": 5,

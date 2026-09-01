@@ -1,5 +1,5 @@
 {
-  "stand": "2026-08-31T08:00:00+00:00",
+  "stand": "2026-09-01T08:20:00+00:00",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -7,12 +7,30 @@
   "transferfenster_hinweis": "Bis Ende August sind weitere Wechsel moeglich. Waehrend des offenen Fensters ist diese Datei besonders schnell veraltet - Aufstellungs-Vorschau am Spieltag schlaegt jeden Eintrag hier.",
   "abgaenge_NICHT_mehr_fuer_alten_verein_tippen": [
     {
+      "spieler": "Nicolas Jackson",
+      "von": "Chelsea FC",
+      "nach": "Aston Villa",
+      "datum": "2026-08-28",
+      "ablöse_mio": 65,
+      "hinweis": "Kein Chelsea-Torschuetzen-Tipp mehr. Debuet fuer Villa am 31.08.2026 gegen Arsenal - 3 Tage im Verein, sehr farblos (0 Schuesse aufs Tor).",
+      "quelle": "https://www.espn.com/soccer/story/_/id/49754547/aston-villa-transfer-nicolas-jackson-chelsea"
+    },
+    {
+      "spieler": "Ollie Watkins",
+      "von": "Aston Villa",
+      "nach": "Al Hilal (Saudi Pro League)",
+      "datum": "2026-08",
+      "ablöse_mio": null,
+      "hinweis": "Kein Villa-Torschuetzen-Tipp mehr auf Watkins. Villa-Sturmspitze jetzt Jackson + Guessand.",
+      "quelle": "https://ca.sports.yahoo.com/news/preview-osasuna-vs-getafe-cf-173500631.html"
+    },
+    {
       "spieler": "Karim Adeyemi",
       "von": "Borussia Dortmund",
       "nach": "FC Barcelona",
       "datum": "2026-07-24",
       "ablöse_mio": 22,
-      "hinweis": "NIE mehr als Dortmund-Torschuetze/Spieler tippen. Jetzt Barcelona (LaLiga). Dieser Fehler ist am 22.08.2026 trotzdem in die Wochen-Vorschau gelaufen - deshalb existiert diese Datei.",
+      "hinweis": "NIE mehr als Dortmund-Torschuetze/Spieler tippen. Jetzt Barcelona (LaLiga). Dieser Fehler ist am 22.08.2026 trotzdem in die Wochen-Vorschau gelaufen - deshalb existiert diese Datei. Update 01.09.: Adeyemi hat beim 5:2 gegen Rayo Vallecano als Joker den Assist zum 5:2 (Yamal 90') beigesteuert - integriert sich als Fluegel-Backup.",
       "quelle": "https://www.espn.com/soccer/story/_/id/49348762/barcelona-sign-karim-adeyemi-borussia-dortmund"
     },
     {

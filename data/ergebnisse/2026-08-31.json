@@ -1,0 +1,363 @@
+{
+  "datum": "2026-08-31",
+  "erstellt_am": "2026-08-31T16:20:00+02:00",
+  "hinweis": "Master-Tipps-Routine Mo 13:30 (Nachlauf) - Watchdog-Version 14:51 uebernommen, um das fehlende Monday-Night-Football Villa-Arsenal (21:00) erweitert und Satriano-Halluzination bei Osasuna korrigiert. Fuenf Anstoss-Slots am Montag 31.08.: Serie-A-Doppel Lecce-Roma (18:30) + Atalanta-Bologna (20:45), LaLiga-Doppel Osasuna-Getafe (19:30) + Barcelona-Rayo (21:30), Premier-League MD3 Villa-Arsenal (21:00). Kasse 1000€ / Stufe 1 (Saison-30-Tage-ROI-Filter noch nicht auf freigeschaltet, `stufe_2_freigeschaltet` steht in kasse.json auf false - Stakes bleiben konservativ). Aktive Goldgruben: 'Unter 2.5 Tore' (70.8 % / +17.4 %) und 'Doppelte Chance X2' (76.5 % / +24.9 %) - beide gezielt eingesetzt. Transferfenster schliesst heute 23:00 - Aufstellungen 1h vor Anstoss live pruefen.",
+  "kasse_stand_gelesen": {
+    "kasse_euro": 1000,
+    "stufe": 1,
+    "stufe_2_freigeschaltet": false,
+    "quelle": "data/kasse.json"
+  },
+  "spiele": [
+    {
+      "id": "2026-08-31-lec-rom",
+      "liga": "Serie A - 2. Spieltag",
+      "heim": "US Lecce",
+      "gast": "AS Roma",
+      "anstoss": "2026-08-31T18:30:00+02:00",
+      "stadion": "Stadio Via del Mare, Lecce",
+      "tipps": [
+        {"id": "lec-rom-1", "kategorie": "safe", "markt": "Sieg AS Roma (90 Min)", "quote": 1.5, "empfohlener_einsatz_euro": 20},
+        {"id": "lec-rom-2", "kategorie": "value", "markt": "Denzel Malen Torschuetze jederzeit", "quote": 1.85, "empfohlener_einsatz_euro": 15},
+        {"id": "lec-rom-3", "kategorie": "wackel", "markt": "Paulo Dybala Torschuetze jederzeit", "quote": 3.0, "empfohlener_einsatz_euro": 5}
+      ],
+      "ergebnis": {"heim": 0, "gast": 4, "halbzeit": "0:3", "endstand": "0:4"},
+      "tipps_ergebnis": [
+        {"tipp_id": "lec-rom-1", "status": "gewonnen", "gewinn_faktor": 1.5, "kommentar": "Roma 0:4 Auswaertssieg (Malen 4', Malen 23', Soulé 25', Mora 66')"},
+        {"tipp_id": "lec-rom-2", "status": "gewonnen", "gewinn_faktor": 1.85, "kommentar": "Malen Doppelpack (4' + 23')"},
+        {"tipp_id": "lec-rom-3", "status": "verloren", "gewinn_faktor": 0.0, "kommentar": "Dybala kein Tor; um 84' fuer De Roon ausgewechselt, kein Einwechslungs-Boost (De Roon nach 84' ohne Treffer)"}
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:3",
+        "endstand": "0:4",
+        "tore": [
+          {"min": 4, "team": "gast", "spieler": "Denzel Malen", "stand_danach": "0:1"},
+          {"min": 23, "team": "gast", "spieler": "Denzel Malen", "stand_danach": "0:2"},
+          {"min": 25, "team": "gast", "spieler": "Matias Soulé", "stand_danach": "0:3"},
+          {"min": 66, "team": "gast", "spieler": "Rodrigo Mora", "stand_danach": "0:4"}
+        ],
+        "drehung": {"war_drehung": false, "details": "Roma fuehrte durchweg, drei Tore in den ersten 25 Minuten - kein Comeback moeglich"},
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "halbzeit_endstand": "Roma/Roma",
+          "kein_team_zu_null": false,
+          "roma_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {"team": "gast", "ein": "Rodrigo Mora", "aus": "Matias Soulé", "minute": 60, "tor": true, "tor_min": 66, "kommentar": "Mora traf 6 Min nach Einwechslung - Boost-Trigger fuer Soulé-Torschuetzen-Tipps (kein Tipp lag drauf)"}
+        ],
+        "auffaellige_patterns": [
+          "Roma dominiert unter Gasperini seit MD1 mit 8:0 Toren in zwei Spielen - Malen als zentraler 9er extrem effektiv (5 Tore in 2 Spielen)",
+          "Lecce-Defensive (Gaspar besonders) gegen Vertikalspiel klar ueberfordert - Aufsteiger-Klassenerhalts-Kandidat wie erwartet",
+          "Einwechslungs-Boost-Trigger ohne Tipp: Mora-Tor 6 Min nach Einwechslung fuer Soulé"
+        ]
+      }
+    },
+    {
+      "id": "2026-08-31-osa-get",
+      "liga": "LaLiga - Jornada 3",
+      "heim": "CA Osasuna",
+      "gast": "Getafe CF",
+      "anstoss": "2026-08-31T19:30:00+02:00",
+      "stadion": "Estadio El Sadar, Pamplona",
+      "tipps": [
+        {"id": "osa-get-1", "kategorie": "safe", "markt": "Unter 2.5 Tore", "quote": 1.4, "empfohlener_einsatz_euro": 20},
+        {"id": "osa-get-2", "kategorie": "safe", "markt": "Doppelte Chance Osasuna oder Remis (1X)", "quote": 1.4, "empfohlener_einsatz_euro": 15},
+        {"id": "osa-get-3", "kategorie": "wackel", "markt": "Sieg Osasuna (90 Min)", "quote": 2.24, "empfohlener_einsatz_euro": 10},
+        {"id": "osa-get-4", "kategorie": "wackel", "markt": "Ante Budimir Torschuetze jederzeit", "quote": 2.6, "empfohlener_einsatz_euro": 5}
+      ],
+      "ergebnis": {"heim": 1, "gast": 0, "halbzeit": "1:0", "endstand": "1:0"},
+      "tipps_ergebnis": [
+        {"tipp_id": "osa-get-1", "status": "gewonnen", "gewinn_faktor": 1.4, "kommentar": "1:0 - genau ein Tor, Goldgrube Unter 2.5 haelt"},
+        {"tipp_id": "osa-get-2", "status": "gewonnen", "gewinn_faktor": 1.4, "kommentar": "Osasuna hat gewonnen, DC 1X trivial"},
+        {"tipp_id": "osa-get-3", "status": "gewonnen", "gewinn_faktor": 2.24, "kommentar": "Osasuna 1:0 zuhause dank Budimir-Elfmeter"},
+        {"tipp_id": "osa-get-4", "status": "gewonnen", "gewinn_faktor": 2.6, "kommentar": "Budimir hat um 40' per Elfmeter (Foul Djené an Budimir) getroffen"}
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "1:0",
+        "tore": [
+          {"min": 40, "team": "heim", "spieler": "Ante Budimir", "stand_danach": "1:0", "detail": "Elfmeter nach Foul von Djené"}
+        ],
+        "drehung": {"war_drehung": false, "details": "Osasuna fuehrte, hielt souveraen bis zum Ende"},
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Osasuna/Osasuna",
+          "kein_team_zu_null": false,
+          "getafe_zu_null": false,
+          "osasuna_zu_null": true
+        },
+        "rotation_highlights": [
+          {"team": "gast", "spieler": "Bordalás-Kader", "details": "Getafe kam nach Do-Belgrad-Rueckreise mit rotierter Mannschaft und wirkte muede - Prognose bestaetigt"}
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Ramis-Osasuna gestartet mit 7 Pkt aus 3 Spielen und nur 1 Gegentor - Defensive frueh gefestigt",
+          "Uche-Ausfall bei Getafe schlaegt durch: keine Torgefahr auswaerts",
+          "Elfmeter-Konversion Budimir - Volumen-9er-These voll bestaetigt"
+        ]
+      }
+    },
+    {
+      "id": "2026-08-31-ata-bol",
+      "liga": "Serie A - 2. Spieltag",
+      "heim": "Atalanta BC",
+      "gast": "Bologna FC 1909",
+      "anstoss": "2026-08-31T20:45:00+02:00",
+      "stadion": "New Balance Arena (ex Gewiss Stadium), Bergamo",
+      "tipps": [
+        {"id": "ata-bol-1", "kategorie": "value", "markt": "Sieg Atalanta (90 Min)", "quote": 1.92, "empfohlener_einsatz_euro": 15},
+        {"id": "ata-bol-2", "kategorie": "value", "markt": "Gianluca Scamacca Torschuetze jederzeit", "quote": 2.3, "empfohlener_einsatz_euro": 12},
+        {"id": "ata-bol-3", "kategorie": "wackel", "markt": "Beide Teams treffen (BTTS Ja)", "quote": 1.76, "empfohlener_einsatz_euro": 12}
+      ],
+      "ergebnis": {"heim": 1, "gast": 0, "halbzeit": "0:0", "endstand": "1:0"},
+      "tipps_ergebnis": [
+        {"tipp_id": "ata-bol-1", "status": "gewonnen", "gewinn_faktor": 1.92, "kommentar": "Atalanta 1:0 durch Samardzic-Traumtor 90+6' (Skorupski-Patzer)"},
+        {"tipp_id": "ata-bol-2", "status": "verloren", "gewinn_faktor": 0.0, "kommentar": "Scamacca kein Tor; 68' fuer Krstović ausgewechselt, kein Boost - Krstović auch ohne Treffer. Samardzic ersetzte Ederson, nicht Scamacca"},
+        {"tipp_id": "ata-bol-3", "status": "verloren", "gewinn_faktor": 0.0, "kommentar": "Nur Atalanta getroffen, Bologna 0 - Cambiaghi traf noch die Latte"}
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:0",
+        "tore": [
+          {"min": 96, "team": "heim", "spieler": "Lazar Samardzic", "stand_danach": "1:0", "detail": "Linksschuss aus der Distanz, Skorupski-Patzer"}
+        ],
+        "drehung": {"war_drehung": false, "details": "0:0 lang, spaeter Sieg-Treffer in der 96. Minute"},
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Atalanta",
+          "kein_team_zu_null": false,
+          "bologna_zu_null": false,
+          "atalanta_zu_null": true
+        },
+        "rotation_highlights": [
+          {"team": "heim", "spieler": "Scamacca (68' Krstović), Ederson (68' Samardzic), Raspadori (56' Elmas), De Ketelaere (56' Zalewski)", "details": "Sarri wechselte den kompletten Sturm frueh raus - Samardzic als Joker traf spaet"}
+        ],
+        "einwechslungs_tor_highlights": [
+          {"team": "heim", "ein": "Lazar Samardzic", "aus": "Ederson", "minute": 68, "tor": true, "tor_min": 96, "kommentar": "Samardzic ersetzte Ederson (nicht Scamacca) - fuer Scamacca-Torschuetzen-Tipp KEIN Boost, weil Krstović der direkte Ersatz war und Krstović nicht traf"}
+        ],
+        "auffaellige_patterns": [
+          "Bologna dominierte erste Halbzeit, Cambiaghi Lattentreffer - Punkteteilung waere gerechter gewesen",
+          "Atalanta ohne Scamacca/Raspadori-Doppel-9 offensiv duenn - Sarri musste komplett rotieren um zu punkten",
+          "Klarer Case dafuer, dass 'Backup-Stuermer-Boost' auf den falschen Ersatz-Mapping stossen kann: Samardzic (Ex-Mittelfeldspieler) traf, Krstović als eigentlicher 9er-Backup nicht - der bet365-Boost greift NICHT ueber Positions-Aequivalenz, sondern nur ueber direkten personellen Wechsel"
+        ]
+      }
+    },
+    {
+      "id": "2026-08-31-avl-ars",
+      "liga": "Premier League - Matchday 3",
+      "heim": "Aston Villa",
+      "gast": "Arsenal FC",
+      "anstoss": "2026-08-31T21:00:00+02:00",
+      "stadion": "Villa Park, Birmingham",
+      "tipps": [
+        {"id": "avl-ars-1", "kategorie": "safe", "markt": "Doppelte Chance Arsenal oder Remis (X2)", "quote": 1.15, "empfohlener_einsatz_euro": 15},
+        {"id": "avl-ars-2", "kategorie": "value", "markt": "Sieg Arsenal (90 Min)", "quote": 1.65, "empfohlener_einsatz_euro": 10},
+        {"id": "avl-ars-3", "kategorie": "value", "markt": "Kai Havertz Torschuetze jederzeit", "quote": 2.6, "empfohlener_einsatz_euro": 10},
+        {"id": "avl-ars-4", "kategorie": "wackel", "markt": "Ueber 2.5 Tore", "quote": 1.75, "empfohlener_einsatz_euro": 5}
+      ],
+      "ergebnis": {"heim": 0, "gast": 1, "halbzeit": "0:0", "endstand": "0:1"},
+      "tipps_ergebnis": [
+        {"tipp_id": "avl-ars-1", "status": "gewonnen", "gewinn_faktor": 1.15, "kommentar": "Arsenal 1:0 Auswaertssieg - Saka 59'; DC X2 trivial"},
+        {"tipp_id": "avl-ars-2", "status": "gewonnen", "gewinn_faktor": 1.65, "kommentar": "Arsenal-Sieg 1:0 durch Saka in 59. Min (Calafiori-Assist)"},
+        {"tipp_id": "avl-ars-3", "status": "verloren", "gewinn_faktor": 0.0, "kommentar": "Havertz kein Tor (nur 7 Ballkontakte), Gyoekeres kam erst 79' und traf ebenfalls nicht - kein Einwechslungs-Boost"},
+        {"tipp_id": "avl-ars-4", "status": "verloren", "gewinn_faktor": 0.0, "kommentar": "Nur 1 Tor im Spiel - Villa kein Schuss aufs Tor"}
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:1",
+        "tore": [
+          {"min": 59, "team": "gast", "spieler": "Bukayo Saka", "stand_danach": "0:1", "detail": "Nachschuss aus kurzer Distanz nach Calafiori-Flanke"}
+        ],
+        "drehung": {"war_drehung": false, "details": "0:0 lang, dann Arsenal-Fuehrung ohne Wackler"},
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Arsenal",
+          "kein_team_zu_null": false,
+          "villa_zu_null": false,
+          "arsenal_zu_null": true
+        },
+        "rotation_highlights": [
+          {"team": "gast", "spieler": "Havertz (79' Gyoekeres), Tzolis (46' Eze), Lewis-Skelly (71' Guimaraes), Odegaard (71' Merino), Mosquera (76' Konsa)", "details": "Arteta rotierte offensiv nach 45 Min (Tzolis raus) und stabilisierte in Sturm/Mittelfeld - kein Torschuetzen-Boost, weil Ersatzspieler nicht trafen"}
+        ],
+        "einwechslungs_tor_highlights": [
+          {"team": "gast", "ein": "Viktor Gyoekeres", "aus": "Kai Havertz", "minute": 79, "tor": false, "kommentar": "Havertz-Backup Gyoekeres kam, traf aber nicht - Boost griff nicht fuer Havertz-Torschuetzen-Tipp"}
+        ],
+        "auffaellige_patterns": [
+          "Villa 0 Pkt / 0 Schuesse aufs Tor / 0:5 Tore in 3 Spielen - Krise wie prognostiziert, Neu-Jackson auch farblos",
+          "Arsenal ohne Saliba/Timber/Bruno G. weiterhin 3. Clean-Sheet in Folge - Mosquera-White-Provisorium ueberrascht positiv",
+          "Havertz-Havertz-Debatte real: 7 Ballkontakte in 79 Min - Torschuetzen-Tipp auf Havertz strukturell fraglich, sobald er isoliert wird"
+        ]
+      }
+    },
+    {
+      "id": "2026-08-31-bar-ray",
+      "liga": "LaLiga - Jornada 3",
+      "heim": "FC Barcelona",
+      "gast": "Rayo Vallecano",
+      "anstoss": "2026-08-31T21:30:00+02:00",
+      "stadion": "Spotify Camp Nou, Barcelona",
+      "tipps": [
+        {"id": "bar-ray-1", "kategorie": "safe", "markt": "Ueber 2.5 Tore", "quote": 1.55, "empfohlener_einsatz_euro": 20},
+        {"id": "bar-ray-2", "kategorie": "safe", "markt": "Barcelona Handicap -1 (Asian)", "quote": 1.6, "empfohlener_einsatz_euro": 15},
+        {"id": "bar-ray-3", "kategorie": "value", "markt": "Lamine Yamal Torschuetze jederzeit", "quote": 2.2, "empfohlener_einsatz_euro": 12}
+      ],
+      "ergebnis": {"heim": 5, "gast": 2, "halbzeit": "2:1", "endstand": "5:2"},
+      "tipps_ergebnis": [
+        {"tipp_id": "bar-ray-1", "status": "gewonnen", "gewinn_faktor": 1.55, "kommentar": "7 Tore im Spiel - Ueber 2.5 trivial"},
+        {"tipp_id": "bar-ray-2", "status": "gewonnen", "gewinn_faktor": 1.6, "kommentar": "Barca gewinnt +3 (5:2) - Asian Handicap -1 komplett bedient"},
+        {"tipp_id": "bar-ray-3", "status": "gewonnen", "gewinn_faktor": 2.2, "kommentar": "Yamal Doppelpack (21' + spaet)"}
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:1",
+        "endstand": "5:2",
+        "tore": [
+          {"min": 12, "team": "gast", "spieler": "Sergio Camello", "stand_danach": "0:1"},
+          {"min": 15, "team": "heim", "spieler": "Raphinha", "stand_danach": "1:1"},
+          {"min": 21, "team": "heim", "spieler": "Lamine Yamal", "stand_danach": "2:1"},
+          {"min": 50, "team": "heim", "spieler": "Florian Lejeune (Eigentor)", "stand_danach": "3:1"},
+          {"min": 65, "team": "gast", "spieler": "Sergio Camello", "stand_danach": "3:2"},
+          {"min": 78, "team": "heim", "spieler": "Raphinha", "stand_danach": "4:2"},
+          {"min": 90, "team": "heim", "spieler": "Lamine Yamal", "stand_danach": "5:2", "detail": "Assist von Adeyemi"}
+        ],
+        "drehung": {"war_drehung": false, "details": "Rayo fuehrte kurz 0:1, Barca drehte binnen 6 Min und verwaltete danach"},
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "halbzeit_endstand": "Barcelona/Barcelona",
+          "kein_team_zu_null": true,
+          "handicap_barca_-1": "gewonnen",
+          "handicap_barca_-2": "gewonnen"
+        },
+        "rotation_highlights": [
+          {"team": "heim", "spieler": "Adeyemi (Einwechslung, Assist zu Yamal 90'), Rodri (Startelf zurueck nach OP)", "details": "Adeyemi als Fluegel-Backup direkt mit Torvorlage - Sommer-Wechsel Dortmund->Barca produktiv"}
+        ],
+        "einwechslungs_tor_highlights": [
+          {"team": "heim", "ein": "Karim Adeyemi", "aus": "Raphinha (ca.)", "minute": null, "tor": false, "kommentar": "Adeyemi mit Assist zu Yamals 5:2 - Vorlagen zaehlen nicht fuer Torschuetzen-Tipp; Adeyemi selbst kein Treffer -> Moonshot-Bein verloren"}
+        ],
+        "auffaellige_patterns": [
+          "Barca 12/12 Punkte, 12:2 Tore - Flick-System weiter dominant, Yamal 3 Tore in 3 Spielen",
+          "Rayo trotz Chancen zweimal getroffen - Vallecas-Stadion-Krise scheint mental zu belasten",
+          "Adeyemi debuetiert produktiv als Fluegel-Joker mit Assist - fuer kuenftige Backup-Fluegel-Torschuetzen-Tipps relevant"
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {"id": "e1", "spiel_id": "2026-08-31-lec-rom", "spiel_label": "Lecce vs Roma (18:30)", "kategorie": "safe", "markt": "Sieg AS Roma (90 Min)", "quote": 1.5, "empfohlener_einsatz_euro": 20, "rang": 1},
+    {"id": "e2", "spiel_id": "2026-08-31-osa-get", "spiel_label": "Osasuna vs Getafe (19:30)", "kategorie": "safe", "markt": "Unter 2.5 Tore", "quote": 1.4, "empfohlener_einsatz_euro": 20, "rang": 2},
+    {"id": "e3", "spiel_id": "2026-08-31-avl-ars", "spiel_label": "Aston Villa vs Arsenal (21:00)", "kategorie": "safe", "markt": "Doppelte Chance Arsenal oder Remis (X2)", "quote": 1.15, "empfohlener_einsatz_euro": 15, "rang": 3},
+    {"id": "e4", "spiel_id": "2026-08-31-bar-ray", "spiel_label": "Barcelona vs Rayo (21:30)", "kategorie": "safe", "markt": "Ueber 2.5 Tore", "quote": 1.55, "empfohlener_einsatz_euro": 20, "rang": 4},
+    {"id": "e5", "spiel_id": "2026-08-31-osa-get", "spiel_label": "Osasuna vs Getafe (19:30)", "kategorie": "safe", "markt": "Doppelte Chance Osasuna oder Remis (1X)", "quote": 1.4, "empfohlener_einsatz_euro": 15, "rang": 5},
+    {"id": "e6", "spiel_id": "2026-08-31-bar-ray", "spiel_label": "Barcelona vs Rayo (21:30)", "kategorie": "safe", "markt": "Barcelona Handicap -1 (Asian)", "quote": 1.6, "empfohlener_einsatz_euro": 15, "rang": 6},
+    {"id": "e7", "spiel_id": "2026-08-31-avl-ars", "spiel_label": "Aston Villa vs Arsenal (21:00)", "kategorie": "value", "markt": "Sieg Arsenal (90 Min)", "quote": 1.65, "empfohlener_einsatz_euro": 10, "rang": 7},
+    {"id": "e8", "spiel_id": "2026-08-31-lec-rom", "spiel_label": "Lecce vs Roma (18:30)", "kategorie": "value", "markt": "Denzel Malen Torschuetze jederzeit", "quote": 1.85, "empfohlener_einsatz_euro": 15, "rang": 8},
+    {"id": "e9", "spiel_id": "2026-08-31-ata-bol", "spiel_label": "Atalanta vs Bologna (20:45)", "kategorie": "value", "markt": "Sieg Atalanta (90 Min)", "quote": 1.92, "empfohlener_einsatz_euro": 15, "rang": 9},
+    {"id": "e10", "spiel_id": "2026-08-31-bar-ray", "spiel_label": "Barcelona vs Rayo (21:30)", "kategorie": "value", "markt": "Lamine Yamal Torschuetze jederzeit", "quote": 2.2, "empfohlener_einsatz_euro": 12, "rang": 10},
+    {"id": "e11", "spiel_id": "2026-08-31-ata-bol", "spiel_label": "Atalanta vs Bologna (20:45)", "kategorie": "value", "markt": "Gianluca Scamacca Torschuetze jederzeit", "quote": 2.3, "empfohlener_einsatz_euro": 12, "rang": 11},
+    {"id": "e12", "spiel_id": "2026-08-31-avl-ars", "spiel_label": "Aston Villa vs Arsenal (21:00)", "kategorie": "value", "markt": "Kai Havertz Torschuetze jederzeit", "quote": 2.6, "empfohlener_einsatz_euro": 10, "rang": 12}
+  ],
+  "einzeltipps_ergebnis": [
+    {"id": "e1", "tipp_id": "lec-rom-1", "spiel_id": "2026-08-31-lec-rom", "spiel_label": "Lecce vs Roma (18:30)", "kategorie": "safe", "markt": "Sieg AS Roma (90 Min)", "quote": 1.5, "empfohlener_einsatz_euro": 20, "rang": 1, "status": "gewonnen", "gewinn_faktor": 1.5, "gewinn_euro": 10.0, "kommentar": "Roma 0:4 - klar"},
+    {"id": "e2", "tipp_id": "osa-get-1", "spiel_id": "2026-08-31-osa-get", "spiel_label": "Osasuna vs Getafe (19:30)", "kategorie": "safe", "markt": "Unter 2.5 Tore", "quote": 1.4, "empfohlener_einsatz_euro": 20, "rang": 2, "status": "gewonnen", "gewinn_faktor": 1.4, "gewinn_euro": 8.0, "kommentar": "1:0 - genau 1 Tor"},
+    {"id": "e3", "tipp_id": "avl-ars-1", "spiel_id": "2026-08-31-avl-ars", "spiel_label": "Aston Villa vs Arsenal (21:00)", "kategorie": "safe", "markt": "Doppelte Chance Arsenal oder Remis (X2)", "quote": 1.15, "empfohlener_einsatz_euro": 15, "rang": 3, "status": "gewonnen", "gewinn_faktor": 1.15, "gewinn_euro": 2.25, "kommentar": "Arsenal 0:1 Auswaertssieg"},
+    {"id": "e4", "tipp_id": "bar-ray-1", "spiel_id": "2026-08-31-bar-ray", "spiel_label": "Barcelona vs Rayo (21:30)", "kategorie": "safe", "markt": "Ueber 2.5 Tore", "quote": 1.55, "empfohlener_einsatz_euro": 20, "rang": 4, "status": "gewonnen", "gewinn_faktor": 1.55, "gewinn_euro": 11.0, "kommentar": "5:2 - 7 Tore"},
+    {"id": "e5", "tipp_id": "osa-get-2", "spiel_id": "2026-08-31-osa-get", "spiel_label": "Osasuna vs Getafe (19:30)", "kategorie": "safe", "markt": "Doppelte Chance Osasuna oder Remis (1X)", "quote": 1.4, "empfohlener_einsatz_euro": 15, "rang": 5, "status": "gewonnen", "gewinn_faktor": 1.4, "gewinn_euro": 6.0, "kommentar": "Osasuna 1:0"},
+    {"id": "e6", "tipp_id": "bar-ray-2", "spiel_id": "2026-08-31-bar-ray", "spiel_label": "Barcelona vs Rayo (21:30)", "kategorie": "safe", "markt": "Barcelona Handicap -1 (Asian)", "quote": 1.6, "empfohlener_einsatz_euro": 15, "rang": 6, "status": "gewonnen", "gewinn_faktor": 1.6, "gewinn_euro": 9.0, "kommentar": "Barca +3 - Handicap -1 klar"},
+    {"id": "e7", "tipp_id": "avl-ars-2", "spiel_id": "2026-08-31-avl-ars", "spiel_label": "Aston Villa vs Arsenal (21:00)", "kategorie": "value", "markt": "Sieg Arsenal (90 Min)", "quote": 1.65, "empfohlener_einsatz_euro": 10, "rang": 7, "status": "gewonnen", "gewinn_faktor": 1.65, "gewinn_euro": 6.5, "kommentar": "Arsenal Sieg durch Saka 59'"},
+    {"id": "e8", "tipp_id": "lec-rom-2", "spiel_id": "2026-08-31-lec-rom", "spiel_label": "Lecce vs Roma (18:30)", "kategorie": "value", "markt": "Denzel Malen Torschuetze jederzeit", "quote": 1.85, "empfohlener_einsatz_euro": 15, "rang": 8, "status": "gewonnen", "gewinn_faktor": 1.85, "gewinn_euro": 12.75, "kommentar": "Malen Doppelpack (4' + 23')"},
+    {"id": "e9", "tipp_id": "ata-bol-1", "spiel_id": "2026-08-31-ata-bol", "spiel_label": "Atalanta vs Bologna (20:45)", "kategorie": "value", "markt": "Sieg Atalanta (90 Min)", "quote": 1.92, "empfohlener_einsatz_euro": 15, "rang": 9, "status": "gewonnen", "gewinn_faktor": 1.92, "gewinn_euro": 13.8, "kommentar": "Atalanta 1:0 durch Samardzic 90+6'"},
+    {"id": "e10", "tipp_id": "bar-ray-3", "spiel_id": "2026-08-31-bar-ray", "spiel_label": "Barcelona vs Rayo (21:30)", "kategorie": "value", "markt": "Lamine Yamal Torschuetze jederzeit", "quote": 2.2, "empfohlener_einsatz_euro": 12, "rang": 10, "status": "gewonnen", "gewinn_faktor": 2.2, "gewinn_euro": 14.4, "kommentar": "Yamal Doppelpack (21' + 90')"},
+    {"id": "e11", "tipp_id": "ata-bol-2", "spiel_id": "2026-08-31-ata-bol", "spiel_label": "Atalanta vs Bologna (20:45)", "kategorie": "value", "markt": "Gianluca Scamacca Torschuetze jederzeit", "quote": 2.3, "empfohlener_einsatz_euro": 12, "rang": 11, "status": "verloren", "gewinn_faktor": 0.0, "gewinn_euro": -12.0, "kommentar": "Scamacca kein Tor, direkter Ersatz Krstović auch nicht - Boost griff nicht"},
+    {"id": "e12", "tipp_id": "avl-ars-3", "spiel_id": "2026-08-31-avl-ars", "spiel_label": "Aston Villa vs Arsenal (21:00)", "kategorie": "value", "markt": "Kai Havertz Torschuetze jederzeit", "quote": 2.6, "empfohlener_einsatz_euro": 10, "rang": 12, "status": "verloren", "gewinn_faktor": 0.0, "gewinn_euro": -10.0, "kommentar": "Havertz kein Tor (7 Ballkontakte); Gyoekeres 79' rein, kein Treffer - Boost griff nicht"}
+  ],
+  "kombis": [
+    {
+      "name": "Safe-Kombi",
+      "kategorie": "safe",
+      "gesamtquote": 3.86,
+      "rechnung": "1.50 x 1.40 x 1.15 x 1.60 = 3.864",
+      "empfohlener_einsatz_euro": 20,
+      "beine": [
+        {"spiel_id": "2026-08-31-lec-rom", "spiel_label": "Lecce vs Roma", "markt": "Sieg AS Roma (90 Min)", "quote": 1.5},
+        {"spiel_id": "2026-08-31-osa-get", "spiel_label": "Osasuna vs Getafe", "markt": "Unter 2.5 Tore", "quote": 1.4},
+        {"spiel_id": "2026-08-31-avl-ars", "spiel_label": "Villa vs Arsenal", "markt": "Doppelte Chance Arsenal oder Remis (X2)", "quote": 1.15},
+        {"spiel_id": "2026-08-31-bar-ray", "spiel_label": "Barcelona vs Rayo", "markt": "Barcelona Handicap -1 (Asian)", "quote": 1.6}
+      ]
+    },
+    {
+      "name": "Balance-Kombi",
+      "kategorie": "balance",
+      "gesamtquote": 7.81,
+      "rechnung": "1.92 x 1.85 x 2.20 = 7.81",
+      "empfohlener_einsatz_euro": 8,
+      "beine": [
+        {"spiel_id": "2026-08-31-ata-bol", "spiel_label": "Atalanta vs Bologna", "markt": "Sieg Atalanta (90 Min)", "quote": 1.92},
+        {"spiel_id": "2026-08-31-lec-rom", "spiel_label": "Lecce vs Roma", "markt": "Malen Torschuetze jederzeit", "quote": 1.85},
+        {"spiel_id": "2026-08-31-bar-ray", "spiel_label": "Barcelona vs Rayo", "markt": "Yamal Torschuetze jederzeit", "quote": 2.2}
+      ]
+    },
+    {
+      "name": "Risiko-Kombi",
+      "kategorie": "risk",
+      "gesamtquote": 15.46,
+      "rechnung": "2.30 x 2.24 x 3.00 = 15.456",
+      "empfohlener_einsatz_euro": 2.5,
+      "beine": [
+        {"spiel_id": "2026-08-31-ata-bol", "spiel_label": "Atalanta vs Bologna", "markt": "Scamacca Torschuetze jederzeit", "quote": 2.3},
+        {"spiel_id": "2026-08-31-osa-get", "spiel_label": "Osasuna vs Getafe", "markt": "Sieg Osasuna", "quote": 2.24},
+        {"spiel_id": "2026-08-31-lec-rom", "spiel_label": "Lecce vs Roma", "markt": "Dybala Torschuetze jederzeit", "quote": 3.0}
+      ]
+    },
+    {
+      "name": "Moonshot-Kombi",
+      "kategorie": "moonshot",
+      "gesamtquote": 116.81,
+      "rechnung": "4.68 x 2.60 x 3.00 x 3.20 = 116.81",
+      "empfohlener_einsatz_euro": 1.0,
+      "beine": [
+        {"spiel_id": "2026-08-31-avl-ars", "spiel_label": "Villa vs Arsenal", "markt": "Havertz 2+ Tore", "quote": 4.68},
+        {"spiel_id": "2026-08-31-osa-get", "spiel_label": "Osasuna vs Getafe", "markt": "Budimir Torschuetze jederzeit", "quote": 2.6},
+        {"spiel_id": "2026-08-31-lec-rom", "spiel_label": "Lecce vs Roma", "markt": "Malen 2+ Tore", "quote": 3.0},
+        {"spiel_id": "2026-08-31-bar-ray", "spiel_label": "Barcelona vs Rayo", "markt": "Adeyemi Torschuetze jederzeit", "quote": 3.2}
+      ]
+    }
+  ],
+  "kombis_ergebnis": [
+    {"kombi_id": "Safe-Kombi", "status": "gewonnen", "gesamtquote": 3.86, "einsatz_euro": 20, "rueckzahlung_euro": 77.2, "gewinn_euro": 57.2, "beine_status": ["gewonnen", "gewonnen", "gewonnen", "gewonnen"], "kommentar": "Alle 4 Beine getroffen - Traumauflauf"},
+    {"kombi_id": "Balance-Kombi", "status": "gewonnen", "gesamtquote": 7.81, "einsatz_euro": 8, "rueckzahlung_euro": 62.48, "gewinn_euro": 54.48, "beine_status": ["gewonnen", "gewonnen", "gewonnen"], "kommentar": "Atalanta 90+6, Malen Doppelpack, Yamal Doppelpack - alles rein"},
+    {"kombi_id": "Risiko-Kombi", "status": "verloren", "gesamtquote": 15.46, "einsatz_euro": 2.5, "rueckzahlung_euro": 0, "gewinn_euro": -2.5, "beine_status": ["verloren", "gewonnen", "verloren"], "kommentar": "Scamacca und Dybala fehlten, Osasuna-Sieg allein reichte nicht"},
+    {"kombi_id": "Moonshot-Kombi", "status": "verloren", "gesamtquote": 116.81, "einsatz_euro": 1.0, "rueckzahlung_euro": 0, "gewinn_euro": -1.0, "beine_status": ["verloren", "gewonnen", "gewonnen", "verloren"], "kommentar": "Budimir und Malen-Doppelpack rein, Havertz-Doppelpack und Adeyemi-Tor fehlten (Adeyemi mit Assist statt Tor)"}
+  ],
+  "tagesbilanz": {
+    "einzeltipps": {"anzahl": 12, "gewonnen": 10, "verloren": 2, "hitrate_prozent": 83.3, "einsatz_euro": 179, "rueckzahlung_euro": 250.7, "gewinn_euro": 71.7, "roi_prozent": 40.1},
+    "kombis": {"anzahl": 4, "gewonnen": 2, "verloren": 2, "einsatz_euro": 31.5, "rueckzahlung_euro": 139.68, "gewinn_euro": 108.18, "roi_prozent": 343.4},
+    "gesamt": {"einsatz_euro": 210.5, "rueckzahlung_euro": 390.38, "gewinn_euro": 179.88, "roi_prozent": 85.5},
+    "kasse_stand_vorher_euro": 1000,
+    "kasse_stand_nachher_euro": 1179.88,
+    "kommentar": "Ausserordentlich starker Tag: 10/12 Einzeltipps + Safe-Kombi + Balance-Kombi. Saison-Kasse waechst um ca. 180€ auf ~1180€. Auszahlungs-Schwelle (Basis+200€=1200€) noch nicht ganz erreicht - noch ca. 20€ bis 200€-Skim faellig waere."
+  },
+  "auswertungs_hinweise": [
+    "2:0-Insurance-Regel wurde an KEINEM Tipp angewandt - kein Fall lag vor (Serie A/LaLiga/PL - nicht Bundesliga/CL; und keine Sieg-Fuehrung wurde spaeter noch verloren)",
+    "Einwechslungs-Boost wurde geprueft aber TRIGGERTE NICHT: (a) Scamacca->Krstović (Ata-Bol) - Krstović traf nicht, Samardzic-Tor kam von Ederson-Ersatz; (b) Havertz->Gyoekeres (Villa-Ars) - Gyoekeres traf nicht; (c) Dybala->De Roon (Lec-Rom) - De Roon traf nicht; (d) Malen->Castro (Lec-Rom) - Castro traf nicht, aber Malen hatte bereits Doppelpack",
+    "Elfmeter-90-Min-Regel nicht relevant heute (keine Supercup/Pokal-K.o./Final-Konstellation)",
+    "Ergebnisse per WebSearch geholt - football-data.org API vom Egress-Proxy blockiert (403 Forbidden), aber Ergebnisse waren alle offen zugaenglich"
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten | Sucht-Hilfe BZgA: 0800 1372700 | Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "ausgewertet_am": "2026-09-01T06:20:00+00:00"
+}
