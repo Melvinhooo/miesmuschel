@@ -1,0 +1,476 @@
+{
+  "datum": "2026-09-01",
+  "erstellt_am": "2026-09-01T14:30:00+02:00",
+  "hinweis": "Watchdog-Lauf 14:30 — die Hauptroutine um 13:30 hatte kein Dossier abgelegt. Heute Dienstag nur drei Spiele: DFB-Pokal HEBC-BVB (Nachzügler wegen Supercup-Kollision) plus Coppa-Italia-Sedicesimi Parma-Cremonese und Torino-Monza. Kasse steht auf 1000€, Stufe 1 aktiv (Saison-Edge in 2026/27 noch nicht bestätigt, deshalb keine 100€-Tipps). Alle Coppa-Italia-Spiele enden bei Remis nach 90 Min per Elfmeter — 1X2/DC werten nur die regulären 90 Minuten, das macht DC X2/1X strukturell attraktiver als der direkte Sieg-Tipp. Im DFB-Pokal 1. Runde gilt die 2:0-Insurance NICHT (nur Bundesliga + CL laut bet365 DE).",
+  "spiele": [
+    {
+      "id": "2026-09-01-heb-bvb",
+      "liga": "DFB-Pokal",
+      "heim": "HEBC Hamburg",
+      "gast": "Borussia Dortmund",
+      "anstoss": "2026-09-01T20:45:00+02:00",
+      "stadion": "Volksparkstadion, Hamburg (Ausweich-Stadion für den 5.-Liga-Klub)",
+      "saison_kontext": {
+        "parallel_heim": "keine — HEBC Hamburg spielt in der Oberliga Hamburg (5. Liga), kein europäisches Geschäft, kein Landespokal-Doppel diese Woche",
+        "parallel_gast": "keine — CL-Ligaphase startet erst am 15./16.09.2026, Bundesliga 2. Spieltag folgt am 05.09. (Sa) mit St. Pauli-Auswärtsspiel — 3 volle Tage nach diesem Pokalspiel",
+        "saisonziel_heim": "Aufstieg Regionalliga Nord / kompetitiver Oberliga-Platz. Der Pokalabend ist der wirtschaftliche Höhepunkt der Saison und wird im Volksparkstadion ausgetragen — reines Feiern und Widerstand leisten.",
+        "saisonziel_gast": "Bundesliga-Titel-Herausforderer hinter Bayern, CL-Ligaphase-Ziel Achtelfinal-Playoff. Nach Meistertitel-Rennen 2025/26 (Vize) und Aderlass (Adeyemi nach Barcelona) unter Neu-Ansatz von Kovac im 2. Amtsjahr.",
+        "motivations_asymmetrie": "Riesiger Klassenunterschied (5. Liga vs Bundesliga-Vize). BVB rotiert bewusst durch — Backup-Keeper Alex Meyer (Homecoming Hamburg-Umgebung) startet, Jobe Bellingham im Zentrum, Guirassy vorn als Anker. HEBC hat null Ausfälle und den vollen Erwachsenenkader — aber Klasse setzt sich in solchen Pokal-Runden fast immer durch. Kein Cinderella-Setup wie bei früheren 5.-Liga-Sensationen.",
+        "recovery_heim": "5.-Liga-Wochenende mit üblicher Belastung, alle Stammspieler fit (0 fresh injury concerns laut Coach Obloch)",
+        "recovery_gast": "3 Tage nach Bundesliga-MD1 (Sa 29.08. gegen HSV, 2:0-Sieg mit Guirassy-Tor). Kovac plant heavy rotation: Bensebaini (Rotsperre), Can (Kreuzbandriss), Konstantelias (Knieverletzung), Lerma (Muskel), Schlotterbeck (Bänderriss) fallen ohnehin aus. Kobel wird geschont.",
+        "quellen": [
+          "https://sports.yahoo.com/articles/hebc-hamburg-vs-borussia-dortmund-073000963.html",
+          "https://www.kicker.de/hebc-gegen-dortmund-2026-dfb-pokal-5204697/aufstellung",
+          "https://www.bvb.de/de/de/bvb-spielplan/spiel.html/2026-2027/Fussball/Profis/DFB-Pokal/1/HEBC-Hamburg-Borussia-Dortmund.html",
+          "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-ersten-hauptrunde"
+        ]
+      },
+      "news": [
+        "HEBC-Coach Philipp Obloch meldet null fresh injuries / null Sperren — voller Erwachsenenkader.",
+        "BVB-Backup-Keeper Alex Meyer startet (Hamburg-Homecoming), Kobel wird geschont.",
+        "BVB voraussichtlich: Meyer — Gadou, Anton, Mane — Ryerson, J. Bellingham, Veerman, Beier — Karetsas, Inacio — Guirassy.",
+        "2:0-Insurance gilt hier NICHT — DFB-Pokal ist nicht in der bet365-DE-Aktionsregel (nur 1. BL + CL).",
+        "Adeyemi seit 24.07.2026 bei Barcelona — nicht mehr als BVB-Torschütze tippbar."
+      ],
+      "tipps": [
+        {
+          "id": "heb-bvb-1",
+          "kategorie": "safe",
+          "markt": "Guirassy Torschütze jederzeit",
+          "quote": 1.2,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.15,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Serhou Guirassy ist als einziger nominierter Anker-9er im rotierten BVB-Kader gesetzt und traf schon am MD1 gegen HSV. Bei erwartetem BVB-Torvolumen von 4+ (5.-Liga-Defense) ist die 1.20 wirklich flach, aber es ist ein Goldgruben-Markt (Torschützen Jederzeit ROI +4.9%, laufender 30d-Trend positiv). Einwechslungs-Boost wäre über Beier/Inacio abgedeckt. Stake bei 1000€-Kasse: 15€. Bei bet365 live prüfen."
+        },
+        {
+          "id": "heb-bvb-2",
+          "kategorie": "value",
+          "markt": "Über 4.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 8.0,
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Vorabschätzungen der Analyse-Portale liegen bei 6–10 erwarteten Toren gesamt. HEBC verteidigt zwar hoch-motiviert, aber ein 5.-Liga-Fitness-Niveau reicht 90 Min gegen Bundesliga-Physis nicht durch. Historisch enden solche 1.-Runden-Pokalspiele mit Klassen-Delta 3+ Ligen in ~65 % über 4.5. Stake: 15€. Bei bet365 live prüfen."
+        },
+        {
+          "id": "heb-bvb-3",
+          "kategorie": "wackel",
+          "markt": "Über 5.5 Tore",
+          "quote": 2.3,
+          "edge_prozent": 6.0,
+          "faire_quote": 2.17,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Same Story eine Etage höher — 5+1-Tore-Szenarien (typisch 5:1 oder 6:0) sind gegen einen 5.-Liga-Gegner Standard, aber Kovac rotiert und lässt in Runde 1 gern mit halbem Gaspedal spielen. Stake: 5€. Bei bet365 live prüfen."
+        },
+        {
+          "id": "heb-bvb-4",
+          "kategorie": "wackel",
+          "markt": "Bellingham Torschütze jederzeit",
+          "quote": 3.6,
+          "edge_prozent": 4.0,
+          "faire_quote": 3.46,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Jobe Bellingham als zentraler 8er/10er sollte in einem Rotationsspiel bei erwartet 4+ BVB-Toren gute Ankunfts-Chancen in den Sechzehner haben. HR24 nur bedingt erfüllt (Backup-Stürmer-Qualität nein, aber Form-Edge aus MD1 und Gegner-Defense-Klassen-Delta ja). Stake: 5€. Bei bet365 live prüfen."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-01-par-cre",
+      "liga": "Coppa Italia",
+      "heim": "Parma Calcio 1913",
+      "gast": "US Cremonese",
+      "anstoss": "2026-09-01T18:00:00+02:00",
+      "stadion": "Stadio Ennio Tardini, Parma",
+      "saison_kontext": {
+        "parallel_heim": "keine — kein europäisches Geschäft für Parma, Serie A MD3 erst 12.-14.09.",
+        "parallel_gast": "keine — Cremonese als Aufsteiger ebenfalls ohne EU-Programm",
+        "saisonziel_heim": "Klassenerhalt Serie A unter Cuesta nach knappem Verbleib 2025/26",
+        "saisonziel_gast": "Klassenerhalt nach direktem Wiederaufstieg unter Giampaolo (kam von Lecce/Cagliari-Umfeld)",
+        "motivations_asymmetrie": "Coinflip-Charakter: beide Teams verloren die ersten zwei Serie-A-Spiele torlos, beide rotieren wahrscheinlich für die Liga-Aufgaben am Wochenende. Cremonese gewann das letzte Direkt-Duell im Tardini 2:0 (März 2026) und hat H2H-Historie auf ihrer Seite. Kein klares Klassen-Edge — das ist die Definition von 'kein SAFE'.",
+        "recovery_heim": "3 Tage nach Serie-A-Niederlage MD2 (Sa 29.08.), 0:x ohne Tor",
+        "recovery_gast": "3 Tage nach Serie-A-Niederlage MD2, ebenfalls 0:x ohne Tor",
+        "quellen": [
+          "https://sportparma.com/parma-calcio/coppa-italia-parma-cremonese-convocati-e-probabili-formazioni.html",
+          "https://www.fantamaster.it/probabili-formazioni-parma-cremonese-coppa-italia-2026-2027/",
+          "https://www.sportskeeda.com/football/parma-vs-cremonese-prediction-betting-tips-september-1st-2026",
+          "https://sport.sky.it/calcio/coppa-italia/tabellone-coppa-italia-2026-2027"
+        ]
+      },
+      "news": [
+        "Parma-Coach Cuesta, Cremonese-Coach Giampaolo.",
+        "Parma voraussichtlich: Daffara; Britschgi, Drobnic, Valenti, Valeri; Cremaschi, Konate, Sorensen; Almqvist, Romero, Lontani (4-3-3).",
+        "Cremonese voraussichtlich: Agazzi; Folino, Bianchetti, Luperto, Rocchetti; Lottici Tessadri, Pontisso; Elia, Berti, Vandeputte; Nasti (4-2-3-1).",
+        "Beide starteten Serie A mit 0 Punkten / 0 Toren.",
+        "Coppa Italia: bei Remis nach 90 Min direkt Elfmeterschiessen — 1X2/DC werten nur die 90 Min."
+      ],
+      "tipps": [
+        {
+          "id": "par-cre-1",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.8,
+          "edge_prozent": 10.0,
+          "faire_quote": 1.63,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Absoluter Goldgruben-Markt (72 % Hit / +22.3 % ROI in der Bilanz). Beide Teams offensiv im Krebsgang (0 Tore in 2 Ligaspielen), beide rotieren wahrscheinlich, Coppa-Italia-Modus ohne Verlängerung (bei Remis direkt Elfmeter) — genau das Setup, in dem der Markt greift. H2H im Tardini war 0:2 knapp niedrig. Stake bei 1000€: 15€. Bei bet365 live prüfen."
+        },
+        {
+          "id": "par-cre-2",
+          "kategorie": "value",
+          "markt": "Cremonese oder Remis (Doppelte Chance)",
+          "quote": 1.85,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.73,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "DC X2 ist der stärkste Goldgruben-Markt im System (77.1 % Hit / +27.5 % ROI). Cremonese hat das jüngste H2H im Tardini gewonnen, spielt strukturell etwas kompakter unter Giampaolo, Parma-Angriff bislang blass. Coppa-Modus (nur 90 Min für Wette-Verrechnung) hilft der DC zusätzlich. Stake: 15€. Bei bet365 live prüfen."
+        },
+        {
+          "id": "par-cre-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen — Nein",
+          "quote": 1.65,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.57,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Konsistente Ergänzung zu Unter 2.5 — bei zwei Angriffen, die zusammen 0 Serie-A-Tore aus 2 Spielen mitbringen, ist Zu-Null einer Seite realistisch. Stake: 5€. Bei bet365 live prüfen."
+        },
+        {
+          "id": "par-cre-4",
+          "kategorie": "wackel",
+          "markt": "Cremonese Sieg (90 Min)",
+          "quote": 2.8,
+          "edge_prozent": 3.0,
+          "faire_quote": 2.72,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "H2H spricht dafür, Coinflip-Quote passt zur Kategorie. Nur als Risiko-Kombi-Bein spielbar — bei Remis nach 90 Min verliert der Tipp, obwohl Cremonese im Elfmeterschießen aufsteigt. Stake: 5€. Bei bet365 live prüfen."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-01-tor-mon",
+      "liga": "Coppa Italia",
+      "heim": "Torino FC",
+      "gast": "AC Monza",
+      "anstoss": "2026-09-01T21:00:00+02:00",
+      "stadion": "Stadio Olimpico Grande Torino",
+      "saison_kontext": {
+        "parallel_heim": "keine — kein EU-Geschäft für Torino, Serie A MD3 am 14.09.",
+        "parallel_gast": "keine — Monza spielt Serie B, Wochenendspiel folgt Sa 05.09.",
+        "saisonziel_heim": "gesicherter Serie-A-Mittelfeldplatz unter Neu-Coach Abate (Rückkehr nach kurzzeitiger Abwesenheit von Juric)",
+        "saisonziel_gast": "Wiederaufstieg in die Serie A unter Juric (ex-Torino! — pikante taktische Konstellation), noch im Umbruch nach Abstieg 2025/26",
+        "motivations_asymmetrie": "Klassen-Delta Serie A vs Serie B, Heimvorteil im Olimpico, Torino als Favorit. Juric kennt Turin allerdings extrem gut (Ex-Coach) — das dämpft ein bisschen. Beide Teams testen breit rotierte Elfen, Torino mit vielen jungen Namen (Fitz-Jim, Cacciamani, Gineitis). Monza-Debüts von Folorunsho und Maye möglich.",
+        "recovery_heim": "3 Tage nach Serie-A-MD2",
+        "recovery_gast": "3 Tage nach Serie-B-Spieltag",
+        "quellen": [
+          "https://sport.sky.it/calcio/coppa-italia/partite/2026/giornata-3/torino-monza",
+          "https://www.toro.it/toro/partite/torino-monza-probabile-formazione-abate-coppa-italia-26-27/1437214/",
+          "https://www.fantamaster.it/probabili-formazioni-torino-monza-coppa-italia-2026-2027/",
+          "https://sport.sky.it/calcio/coppa-italia/tabellone-coppa-italia-2026-2027"
+        ]
+      },
+      "news": [
+        "Torino-Coach Abate, Monza-Coach Juric (ex-Torino).",
+        "Torino voraussichtlich (3-4-2-1): Mascardi; Comuzzo, Coco, Cömert; Fortini, Fitz-Jim, Gineitis, Cacciamani; Vlasic, Adams; Simeone.",
+        "Monza voraussichtlich (3-4-2-1): Thiam; Kouadio, Lucchesi, Carboni; Birindelli, Foe Ondoa, Mout, Mangas; Colpani, Cutrone; Varela.",
+        "Bei Remis nach 90 Min direkt Elfmeterschiessen — 1X2/DC werten nur die 90 Min."
+      ],
+      "tipps": [
+        {
+          "id": "tor-mon-1",
+          "kategorie": "safe",
+          "markt": "Torino oder Remis (Doppelte Chance)",
+          "quote": 1.22,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.17,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Serie-A-Heimteam vs Serie-B-Aufstiegskandidat mit Ex-Coach-Faktor gedämpft — der DC 1X (Goldgrube 68.8 % / +12.2 % ROI) bildet das Klassen-Delta sauber ab und ist im Coppa-Modus (nur 90 Min) doppelt stark: Remis nach 90 zählt trotz Elfmeter-Fortgang. Stake bei 1000€: 15€. Bei bet365 live prüfen."
+        },
+        {
+          "id": "tor-mon-2",
+          "kategorie": "value",
+          "markt": "Simeone Torschütze jederzeit",
+          "quote": 2.2,
+          "edge_prozent": 8.0,
+          "faire_quote": 2.04,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Giovanni Simeone ist nominierter Anker-9er in Abates Startelf, gegen eine Serie-B-Innenverteidigung sind Chancen wahrscheinlich. Backup-Adams davor als 2. Sturmspitze deckt zusätzlich den Einwechslungs-Boost ab (Adams-Tor zählt für Simeone-Tipp bei Auswechslung). HR24 erfüllt (zentraler 9er + Gegner-Defense-Klassen-Delta). Stake: 15€. Bei bet365 live prüfen."
+        },
+        {
+          "id": "tor-mon-3",
+          "kategorie": "wackel",
+          "markt": "Torino Sieg (90 Min)",
+          "quote": 1.85,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.8,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Statt SAFE — weil Juric das Torino-Setup extrem gut kennt und Rotation auf beiden Seiten Klassen-Delta relativiert. Als Kombi-Beinchen oder Einzel-Wackel spielbar. Stake: 5€. Bei bet365 live prüfen."
+        },
+        {
+          "id": "tor-mon-4",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.95,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.87,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Torino heimstark und offensiv (Simeone/Adams/Vlasic), Monza-Defense im Umbruch — Coppa-Runden-Duelle Serie A vs Serie B enden oft in 3+ Toren. Historisch Über-2.5-Goldgrube (+18.5 % ROI). Stake: 5€. Bei bet365 live prüfen."
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "heb-bvb-1",
+      "spiel_id": "2026-09-01-heb-bvb",
+      "spiel_label": "HEBC Hamburg vs Borussia Dortmund",
+      "kategorie": "safe",
+      "markt": "Guirassy Torschütze jederzeit",
+      "quote": 1.2,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Anker-9er in Kovacs rotierter Elf, MD1-Torschütze, Klassen-Delta 5 Ligen — solider Torschützen-Anker in einem erwartet torreichen Pokalspiel. 2:0-Insurance greift hier NICHT.",
+      "rang": 1
+    },
+    {
+      "id": "tor-mon-1",
+      "spiel_id": "2026-09-01-tor-mon",
+      "spiel_label": "Torino vs Monza",
+      "kategorie": "safe",
+      "markt": "Torino oder Remis (Doppelte Chance)",
+      "quote": 1.22,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Serie A daheim gegen Serie B, DC deckt Elfmeter-Szenario komplett (nur 90 Min gewertet). Goldgrube DC 1X.",
+      "rang": 2
+    },
+    {
+      "id": "heb-bvb-2",
+      "spiel_id": "2026-09-01-heb-bvb",
+      "spiel_label": "HEBC Hamburg vs Borussia Dortmund",
+      "kategorie": "value",
+      "markt": "Über 4.5 Tore",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Analyse-Konsens 6–10 Tore erwartet, historisch ~65 % Hit bei Klassen-Delta 3+ Ligen im Pokal.",
+      "rang": 3
+    },
+    {
+      "id": "par-cre-1",
+      "spiel_id": "2026-09-01-par-cre",
+      "spiel_label": "Parma vs Cremonese",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.8,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Beide Angriffe mit 0 Toren in 2 Serie-A-Spielen, Rotations-Modus, Coppa-Setup ohne Verlängerung. Goldgrube (72 % / +22.3 %).",
+      "rang": 4
+    },
+    {
+      "id": "par-cre-2",
+      "spiel_id": "2026-09-01-par-cre",
+      "spiel_label": "Parma vs Cremonese",
+      "kategorie": "value",
+      "markt": "Cremonese oder Remis (Doppelte Chance)",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Jüngstes H2H im Tardini 0:2 an Cremonese, DC X2 stärkster System-Markt (+27.5 %).",
+      "rang": 5
+    },
+    {
+      "id": "tor-mon-2",
+      "spiel_id": "2026-09-01-tor-mon",
+      "spiel_label": "Torino vs Monza",
+      "kategorie": "value",
+      "markt": "Simeone Torschütze jederzeit",
+      "quote": 2.2,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Nominierter 9er gegen Serie-B-Defense, Adams als Backup-Boost. HR24 erfüllt.",
+      "rang": 6
+    },
+    {
+      "id": "heb-bvb-3",
+      "spiel_id": "2026-09-01-heb-bvb",
+      "spiel_label": "HEBC Hamburg vs Borussia Dortmund",
+      "kategorie": "wackel",
+      "markt": "Über 5.5 Tore",
+      "quote": 2.3,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Same Story eine Etage höher — Kovac lässt in Pokal-Runde 1 gern mit halbem Gaspedal spielen.",
+      "rang": 7
+    },
+    {
+      "id": "par-cre-4",
+      "spiel_id": "2026-09-01-par-cre",
+      "spiel_label": "Parma vs Cremonese",
+      "kategorie": "wackel",
+      "markt": "Cremonese Sieg (90 Min)",
+      "quote": 2.8,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "H2H-Vorteil, aber Coinflip — Elfmeter-Aufstieg zählt nicht für den Wett-Verrechnung.",
+      "rang": 8
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "kategorie": "safe",
+      "name": "Safe-Kombi ~3-4x — DC + Tor-Total + Torino-DC",
+      "beine": [
+        {
+          "spiel_id": "2026-09-01-heb-bvb",
+          "spiel_label": "HEBC Hamburg vs Borussia Dortmund",
+          "markt": "Über 4.5 Tore",
+          "quote": 1.75,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-01-par-cre",
+          "spiel_label": "Parma vs Cremonese",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.8,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-01-tor-mon",
+          "spiel_label": "Torino vs Monza",
+          "markt": "Torino oder Remis (Doppelte Chance)",
+          "quote": 1.22,
+          "kategorie": "safe"
+        }
+      ],
+      "gesamtquote": 3.84,
+      "rechnung": "1.75 x 1.80 x 1.22 = 3.84",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "3 Beine aus 3 verschiedenen Spielen, Markt-diversifiziert (Tor-Total offensiv + Tor-Total defensiv + DC). Kein Sieg-Outcome doppelt. Stake bei 1000€-Kasse: 20€."
+    },
+    {
+      "id": "kombi-balance",
+      "kategorie": "balance",
+      "name": "Balance-Kombi ~6-8x — Torschütze + Tor-Totale + Cremonese-DC",
+      "beine": [
+        {
+          "spiel_id": "2026-09-01-heb-bvb",
+          "spiel_label": "HEBC Hamburg vs Borussia Dortmund",
+          "markt": "Guirassy Torschütze jederzeit",
+          "quote": 1.2,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-01-par-cre",
+          "spiel_label": "Parma vs Cremonese",
+          "markt": "Cremonese oder Remis (Doppelte Chance)",
+          "quote": 1.85,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-01-tor-mon",
+          "spiel_label": "Torino vs Monza",
+          "markt": "Simeone Torschütze jederzeit",
+          "quote": 2.2,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 4.88,
+      "rechnung": "1.20 x 1.85 x 2.20 = 4.88",
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 8.0,
+      "begruendung": "3 Beine, 3 Spiele, zwei Torschützen-Anker + eine DC. Kein Layer-3-Konflikt zur Safe-Kombi (dort ist Torino-Bein die DC 1X, hier Torschütze — Markt-entkoppelt). Stake: 8€."
+    },
+    {
+      "id": "kombi-risk",
+      "kategorie": "risk",
+      "name": "Risiko-Kombi ~28x — Über 5.5 HEB + Torschütze Parma + Adams",
+      "beine": [
+        {
+          "spiel_id": "2026-09-01-heb-bvb",
+          "spiel_label": "HEBC Hamburg vs Borussia Dortmund",
+          "markt": "Über 5.5 Tore",
+          "quote": 2.3,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-09-01-par-cre",
+          "spiel_label": "Parma vs Cremonese",
+          "markt": "Nasti Torschütze jederzeit",
+          "quote": 3.5,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-09-01-tor-mon",
+          "spiel_label": "Torino vs Monza",
+          "markt": "Adams Torschütze jederzeit",
+          "quote": 3.5,
+          "kategorie": "risk"
+        }
+      ],
+      "gesamtquote": 28.18,
+      "rechnung": "2.30 x 3.50 x 3.50 = 28.18",
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 2.5,
+      "begruendung": "Reines Tor-Volumen-Setup: 6+ HEBC-BVB-Tore + jeweils ein Torschütze auf beiden Coppa-Italia-Bühnen (Cremonese-9er Nasti als Solo-Spitze im 4-2-3-1, Torino-Backup-9er Ché Adams neben Simeone). Keine Sieg-Outcomes — die sind schon in Safe (Torino-DC) und Balance (Cremonese-DC) verbraucht. Stake: 2.50€. Bei bet365 live prüfen — Torschützen-Quoten schwanken."
+    },
+    {
+      "id": "kombi-moonshot",
+      "kategorie": "moonshot",
+      "name": "Moonshot-Kombi ~63x — Karetsas + Almqvist + Cutrone",
+      "beine": [
+        {
+          "spiel_id": "2026-09-01-heb-bvb",
+          "spiel_label": "HEBC Hamburg vs Borussia Dortmund",
+          "markt": "Karetsas Torschütze jederzeit",
+          "quote": 4.5,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-09-01-par-cre",
+          "spiel_label": "Parma vs Cremonese",
+          "markt": "Almqvist Torschütze jederzeit",
+          "quote": 4.0,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-09-01-tor-mon",
+          "spiel_label": "Torino vs Monza",
+          "markt": "Cutrone Torschütze jederzeit",
+          "quote": 3.5,
+          "kategorie": "risk"
+        }
+      ],
+      "gesamtquote": 63.0,
+      "rechnung": "4.50 x 4.00 x 3.50 = 63.00",
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 1.0,
+      "begruendung": "Ehrlich unter 100x: mit nur 3 Spielen und 1-Bein-pro-Spiel-Regel gehen 100x+ nicht ohne Fantasie-Quoten. Drei Backup-/Rotations-Torschützen: Konstantinos Karetsas (griechisches BVB-Talent, in der Startelf), Rasmus Almqvist (Parma-Flügel), Patrick Cutrone (Monza-Angriff). Wenn zwei davon treffen, wird's spannend — wenn alle drei, ist der Abend gemacht. Stake: 1€."
+    }
+  ],
+  "lessons_angewandt": [
+    "HR1 Quoten-Range: alle Tipps in der Kategorie-Range einsortiert.",
+    "HR3 Rotations-Check: BVB im Pokal rotiert (Meyer, Anton, Veerman) — Torschützen-Tipp nur auf gesetzten Anker-9er (Guirassy), nicht auf Backup-Fläche.",
+    "HR24 Torschützen-Pflicht: bei Guirassy und Simeone durch Klassen-Delta + Backup-Stürmer-Qualität erfüllt.",
+    "Markt-Goldgruben-Regel: 3 der 4 Kombi-Beine kommen aus Goldgruben-Märkten (DC 1X, DC X2, Unter 2.5, Torschützen Jederzeit).",
+    "DC-CAP: max 1 DC pro Spiel eingehalten (Torino-DC + Parma-Cremonese-DC = 2 DC im ganzen Dossier).",
+    "Coinflip-Regel: Parma-Cremonese als Coinflip klassifiziert — bewusst kein SAFE, DC/Tor-Total-Werte statt Sieg.",
+    "Supercup-Sonderregel: greift heute nicht (heute kein Supercup).",
+    "2:0-Insurance-Ausweis: bei HEBC-BVB explizit im news[]-Block und in der Guirassy-Begründung dokumentiert, dass sie NICHT gilt (DFB-Pokal).",
+    "Kader-Wechsel-Check: Adeyemi (BVB→Barcelona) explizit ausgeschlossen; alle BVB-Torschützen-Tipps auf Namen aus der Kicker-Aufstellungs-Vorschau vom 01.09."
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten. BZgA-Glücksspielsucht-Hotline: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen, was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_watchdog": {
+    "ausgelöst": true,
+    "grund": "Kein data/tipps/2026-09-01.json vorhanden nach dem 13:30-Slot.",
+    "spiele_erwartet": 3,
+    "spiele_geliefert": 3,
+    "notiz": "Recherche-File data/recherche/2026-09-01.json fehlte auch — Watchdog hat live per WebSearch/WebFetch recherchiert (LiveSoccerTV/ESPN/UEFA-Domains sind aus dem Cloud-Sandbox blockiert, football-data.org ebenfalls). Alle Aufstellungs- und Terminquellen kommen aus Yahoo/Kicker/Sportskeeda/Sportparma/Toro.it/Sky-Italien via WebSearch."
+  }
+}
