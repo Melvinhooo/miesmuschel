@@ -2882,6 +2882,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "DC- und Unter-2.5-Goldgruben halten - Kombi-Anker (HR08-31-4 8c)",
       "lesson": "Safe-Kombi (Roma-Sieg, Osasuna Unter 2.5, Villa-Arsenal DC X2, Barca Handicap -1) bei Quote 3.86 durch - +57,20EUR auf 20EUR. Balance-Kombi 3-Bein-Torschuetzen-Doppel Malen/Yamal + Atalanta-Sieg bei Quote 7.81 durch - +54,48EUR auf 8EUR. Bestaetigt: DC-X2/1X (76,5 % / +24,9 %) und Unter 2.5 (70,8 % / +17,4 %) bleiben die stabilsten Kombi-Anker. Wenn beide Torschuetzen-Beine ausserdem echte Volumen-Systeme haben (Roma-Gasperini, Barca-Flick), tragen sie Kombis bis 8-fach mit hoher Konfidenz. Konsequenz: Balance-Kombi-Vorlage 'Sieg-Outcome + 2 Torschuetzen aus dominanten Systemen' bleibt Standard.",
       "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-09-01",
+      "kategorie": "Rotations-Falle Pokal-Runde 1 (HR03 8h)",
+      "lesson": "BVB rotierte in DFB-Pokal 1. Runde bei HEBC (5. Liga) 7 Positionen: Guirassy + Bellingham + Kobel starteten auf der Bank, obwohl der Kicker-Aufstellungs-Vorschauartikel sie noch fest in der Startelf hatte. Beide Torschuetzen-Tipps auf 'gesetzten Anker-9er Guirassy' und '8er Bellingham' waren dadurch tot vor dem Anpfiff (2 verlorene Einzeltipps + 1 verlorene Balance-Kombi-Bein). Konsequenz: Cup-Runde 1 gegen unterklassigen Gegner = Torschuetzen-Tipps auf Bundesliga-Stars NIE SAFE, maximal Wackel. Fabio Silva (Startelf-Ersatz) traf zum 0:5 - der richtige Torschuetzen-Tipp waere der Backup-Starter gewesen, nicht der geschonte Anker.",
+      "bezug_spiel_id": "2026-09-01-heb-bvb"
+    },
+    {
+      "datum": "2026-09-01",
+      "kategorie": "Ex-Coach-Faktor entkraeftet Klassen-Delta (HR22 8h)",
+      "lesson": "Torino-DC 1X als SAFE @ 1.22 trotz Ex-Coach-Warnung im Dossier verloren - Juric-Monza gewann 0:1 in Turin, Serie A-vs-Serie-B-Klassen-Delta reichte nicht. Muster: wenn Ex-Coach mit anderem Team gegen seinen alten Verein antritt, ist der taktische Kenner-Vorteil so gross, dass DC-Kurzquoten (unter 1.30) unter dem fairen Wert liegen. Konsequenz: Ex-Coach-Setups pauschal 1 Kategorie herabstufen (SAFE->VALUE, VALUE->WACKEL) - egal wie gross das Ligen-Delta ist. Der Dossier-Text hat den Faktor erkannt, die Kategorie aber trotzdem SAFE gelassen; nachjustieren.",
+      "bezug_spiel_id": "2026-09-01-tor-mon"
+    },
+    {
+      "datum": "2026-09-01",
+      "kategorie": "Coppa-Italia Unter 2.5 Goldgrube bestaetigt (8g)",
+      "lesson": "Beide Coppa-Sedicesimi heute unter 2.5 Toren: Parma-Cremonese 0:2 (2 Tore), Torino-Monza 0:1 (1 Tor). Kombination aus Sommer-Rotation + Ohne-Verlaengerung-Regel (Elfmeter direkt bei Remis) treibt die Torzahlen strukturell nach unten. Coppa-Sedicesimi endet in ~70-80 % der Faelle unter 2.5. Konsequenz: Unter 2.5 (aktuelle Systemquote 70.8 % / +17.4 % ROI) als Coppa-Italia-Standard-Bein aufnehmen. Ueber-2.5-Tipp in Coppa-Runden-Duellen Serie A vs Serie B (wie tor-mon-4 heute @ 1.95) ist Trap - nicht laenger als VALUE, sondern max WACKEL setzen. Ausserdem: BTTS Nein war auch in beiden Coppa-Spielen richtig, deutet auf hohe Zu-Null-Wahrscheinlichkeit fuer den Underdog.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-09-01",
+      "kategorie": "Einwechslungs-Boost strikt CLAUDE.md-konform (8i / 5a)",
+      "lesson": "Silva startete auf Guirassy-Position und traf zum 0:5 in Hamburg - der Guirassy-Torschuetzen-Tipp galt trotzdem verloren, weil Guirassy nicht ausgewechselt wurde (er stand nie in der Startelf). Der bet365-Einwechslungs-Boost triggert NUR, wenn X in der Startelf war UND selbst ausgewechselt wurde UND der direkte Ersatz danach trifft. Nicht triggern: Backup-Starter (X ist Bank-Reserve, Backup startet fuer X), Positions-Swap ohne Wechsel, Doppel-Substitution. Konsequenz: die Auswertungs-Routine testet den Boost erst nach der Frage 'stand X in der Startelf?' - wenn nein, keine Boost-Pruefung. Und die Tipps-Routine sollte bei rotierten Anker-Stuermern kuenftig den Backup-Starter (heute: Silva) als eigentlichen Torschuetzen-Kandidaten fuehren, nicht den geschonten Star.",
+      "bezug_spiel_id": "2026-09-01-heb-bvb"
     }
   ]
 };

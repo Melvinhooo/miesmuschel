@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-09-01T06:27:37+00:00",
+  "letzte_berechnung": "2026-09-02T06:21:34+00:00",
   "gesamt": {
     "tipps": 427,
     "gewonnen": 223,
@@ -24,15 +24,15 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 19.6
   },
   "letzte_90_tage": {
-    "tipps": 427,
-    "gewonnen": 223,
-    "verloren": 192,
+    "tipps": 425,
+    "gewonnen": 222,
+    "verloren": 191,
     "push": 1,
     "offen": 11,
-    "einsatz": 416.0,
+    "einsatz": 414.0,
     "netto": 40.06,
-    "trefferquote": 53.7,
-    "roi_prozent": 9.6
+    "trefferquote": 53.8,
+    "roi_prozent": 9.7
   },
   "nach_liga": {
     "NBA Finals 2026 Game 1": {
@@ -4253,6 +4253,223 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-09-01",
+      "gesamt": {
+        "tipps": 8,
+        "gewonnen": 4,
+        "verloren": 4,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 8.0,
+        "netto": 8.2,
+        "trefferquote": 50.0,
+        "roi_prozent": 102.5
+      },
+      "spiele": [
+        {
+          "id": "2026-09-01-heb-bvb",
+          "liga": "DFB-Pokal",
+          "heim": "HEBC Hamburg",
+          "gast": "Borussia Dortmund",
+          "endstand": "0:5",
+          "tipps": [
+            {
+              "markt": "Guirassy Torschütze jederzeit",
+              "quote": 1.2,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Guirassy startete auf der Bank (Kovac rotierte) und wurde in keinem Live-Ticker als eingewechselt gefuehrt - Ankerposition uebernahm Fabio Silva, der zum 0:5 traf. Einwechslungs-Boost greift NICHT (Boost setzt voraus, dass X selbst ausgewechselt wurde, nicht dass X gar nicht in der Startelf stand)."
+            },
+            {
+              "markt": "Über 4.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.75,
+              "kommentar": "5 Tore = Ueber 4.5 gewonnen (Wrede OG 33', Svensson 36', Inacio 41'+45+2', Silva 59')."
+            },
+            {
+              "markt": "Über 5.5 Tore",
+              "quote": 2.3,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "5 Tore = Unter 5.5, Tipp Ueber 5.5 verloren. Kovac bremste in Halbzeit 2 tatsaechlich wie in der Begruendung vermutet - nur 1 weiteres Tor nach HZ 0:4."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-01-par-cre",
+          "liga": "Coppa Italia",
+          "heim": "Parma Calcio 1913",
+          "gast": "US Cremonese",
+          "endstand": "0:2",
+          "tipps": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.8,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.8,
+              "kommentar": "2 Tore = Unter 2.5 gewonnen. Beide Tore vor der Pause (Lottici Tessadri 5', Licina 41'), Halbzeit 2 torlos - Goldgruben-Prognose bestaetigt."
+            },
+            {
+              "markt": "Cremonese oder Remis (Doppelte Chance)",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.85,
+              "kommentar": "Cremonese-Sieg 0:2 nach 90 Min - DC X2 gewonnen. H2H-Tipp aus dem Dossier eingetreten (Tardini erneut Cremonese-Hunting-Ground)."
+            },
+            {
+              "markt": "Cremonese Sieg (90 Min)",
+              "quote": 2.8,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 2.8,
+              "kommentar": "Cremonese 0:2 Sieg nach 90 Min - Wackel-Tipp getroffen. Elfmeter-Fallback nicht gebraucht."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-01-tor-mon",
+          "liga": "Coppa Italia",
+          "heim": "Torino FC",
+          "gast": "AC Monza",
+          "endstand": "0:1",
+          "tipps": [
+            {
+              "markt": "Torino oder Remis (Doppelte Chance)",
+              "quote": 1.22,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Torino 0:1 verloren, DC 1X verloren. Juric (ex-Torino) tat genau das, was das Dossier als Daempfungs-Faktor benannte - Monza-Coach kannte jede Torino-Schwachstelle."
+            },
+            {
+              "markt": "Simeone Torschütze jederzeit",
+              "quote": 2.2,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Simeone spielte durch (nicht ausgewechselt) und traf nicht. Adams kam zwar in Min 79 rein, aber fuer Ismajli (Innenverteidiger) - kein Einwechslungs-Boost fuer Simeone, da nicht sein direkter Ersatz. Formations-Wechsel zu 3-4-1-2 (statt geplantes 3-4-2-1) machte Simeone zum Solo-9er ohne Ancorage-Partner."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi ~3-4x — DC + Tor-Total + Torino-DC",
+          "kategorie": "safe",
+          "gesamtquote": 3.84,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Über 4.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torino oder Remis (Doppelte Chance)",
+              "quote": 1.22,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi ~6-8x — Torschütze + Tor-Totale + Cremonese-DC",
+          "kategorie": "balance",
+          "gesamtquote": 4.88,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Guirassy Torschütze jederzeit",
+              "quote": 1.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Cremonese oder Remis (Doppelte Chance)",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Simeone Torschütze jederzeit",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi ~28x — Über 5.5 HEB + Torschütze Parma + Adams",
+          "kategorie": "risk",
+          "gesamtquote": 28.18,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Über 5.5 Tore",
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Nasti Torschütze jederzeit",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Adams Torschütze jederzeit",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi ~63x — Karetsas + Almqvist + Cutrone",
+          "kategorie": "moonshot",
+          "gesamtquote": 63.0,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Karetsas Torschütze jederzeit",
+              "quote": 4.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Almqvist Torschütze jederzeit",
+              "quote": 4.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Cutrone Torschütze jederzeit",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-08-31",
       "gesamt": {
