@@ -39,14 +39,14 @@
           "quote": 1.14,
           "edge_prozent": 3.0,
           "begruendung": "Klasse-Unterschied 2. Liga vs Serienmeister ist eindeutig. WICHTIG bet365-Regel: 2:0-Insurance greift hier NICHT (nur 1.BL + CL), es zählt der reguläre 90-Min-Ausgang. Einsatz Stufe 1: 1.5% von 1000€ = 15€. Quote bei bet365 live prüfen — auf so tiefe Quoten reagiert der Buchmacher-Markt schnell.",
-          "faire_quote": 1.10,
+          "faire_quote": 1.1,
           "empfohlener_einsatz_prozent": 1.5
         },
         {
           "id": "osn-bay-2",
           "kategorie": "value",
           "markt": "Über 3.5 Tore",
-          "quote": 1.90,
+          "quote": 1.9,
           "edge_prozent": 8.0,
           "begruendung": "Osnabrück wird sich reinstellen, aber Bayern hatte schon in beiden BL-Startspielen viel Feldüberlegenheit. Bei Klasse-Delta 2.Liga vs Bayern liegen die 3-4-Tore-Siege historisch bei ~55%. Über 3.5 Tore bei Quote ~1.90 = fairer Wert. Reality-Check: Goldgrube-Markt (Über 2.5 Tore 55.9% / +18.5%) — Über 3.5 als bewusst höhere Version. Einsatz 15€.",
           "faire_quote": 1.75,
@@ -54,13 +54,14 @@
         },
         {
           "id": "osn-bay-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Harry Kane trifft (jederzeit)",
           "quote": 1.75,
           "edge_prozent": 5.0,
-          "begruendung": "Kane 0 Pflichtspieltore 2026/27 — genau das ist der Grund. Gegen 2.-Liga-Aufsteiger daheim in Osnabrück ist die Anti-Bounce-Wahrscheinlichkeit hoch. HR24 erfüllt: zentraler 9er (Backup-Stürmer-Boost möglich, Ersatz-Tore zählen), plus DFB-Pokal-Historie mit vielen Kane-Toren gegen unterklassige Gegner. Reality-Check: Torschützen Jederzeit ist die zweite Goldgrube (+27.5% ROI beim jüngsten Snapshot). Einsatz 15€. AUFSTELLUNG bei bet365 nach Anpfiff nochmal live prüfen (Kompany könnte doch Woltemade/Backup starten lassen — dann Tipp gestorben).",
+          "begruendung": "Kane 0 Pflichtspieltore 2026/27 — genau das ist der Grund. Gegen 2.-Liga-Aufsteiger daheim in Osnabrück ist die Anti-Bounce-Wahrscheinlichkeit hoch. HR24 erfüllt: zentraler 9er (Backup-Stürmer-Boost möglich, Ersatz-Tore zählen), plus DFB-Pokal-Historie mit vielen Kane-Toren gegen unterklassige Gegner. Reality-Check: Torschützen Jederzeit ist die zweite Goldgrube (+27.5% ROI beim jüngsten Snapshot). Einsatz 15€. AUFSTELLUNG bei bet365 nach Anpfiff nochmal live prüfen (Kompany könnte doch Woltemade/Backup starten lassen — dann Tipp gestorben). [Auto HR3: UEFA-Doppelbelastung + Rotation - Top-Stuermer max WACKEL, Joker-Tipp suchen]",
           "faire_quote": 1.65,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_joker_top_stuermer_block": true
         }
       ],
       "kontext_check_status": "OK"
@@ -116,13 +117,14 @@
         },
         {
           "id": "sas-fro-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Domenico Berardi trifft (jederzeit)",
-          "quote": 2.50,
+          "quote": 2.5,
           "edge_prozent": 6.0,
-          "begruendung": "HR24 erfüllt: Berardi Form-Edge (Tor gegen Torino gerade), zentraler Offensiv-Spieler + Frosinone-Rotationsdefensive schwächer als B-Stammabwehr. Historische Sassuolo-Heim-Torquote hoch. Reality-Check: Torschützen Jederzeit Goldgrube. Einsatz 15€ (1.5%). AUFSTELLUNG bei bet365 nach Anpfiff verifizieren — falls Berardi geschont, Tipp gestorben.",
-          "faire_quote": 2.30,
-          "empfohlener_einsatz_prozent": 1.5
+          "begruendung": "HR24 erfüllt: Berardi Form-Edge (Tor gegen Torino gerade), zentraler Offensiv-Spieler + Frosinone-Rotationsdefensive schwächer als B-Stammabwehr. Historische Sassuolo-Heim-Torquote hoch. Reality-Check: Torschützen Jederzeit Goldgrube. Einsatz 15€ (1.5%). AUFSTELLUNG bei bet365 nach Anpfiff verifizieren — falls Berardi geschont, Tipp gestorben. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 2.3,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_torschuetze_quelle_warn": true
         }
       ],
       "kontext_check_status": "OK"
@@ -170,7 +172,7 @@
           "id": "udi-ven-2",
           "kategorie": "value",
           "markt": "Udinese Sieg (90 Min)",
-          "quote": 1.60,
+          "quote": 1.6,
           "edge_prozent": 5.0,
           "begruendung": "Direkter Sieg klar wahrscheinlicher als Quote 1.60 (=62%) suggeriert. Venezia rotiert und ist tot, Udinese wächst in Spiele. Einsatz 15€.",
           "faire_quote": 1.52,
@@ -183,7 +185,7 @@
           "quote": 2.05,
           "edge_prozent": 3.0,
           "begruendung": "Coppa-Italia-Sedicesimi tendieren zu tieferen Spielen (Rotation, keine harte K.O.-Kondition), Venezia-Elfen defensiv. Goldgrube-Markt (Unter 2.5 Tore 72.0% / +22.3%). Als Wackel: Udinese kann trotzdem 2-1 gewinnen, deshalb kein SAFE. Einsatz 0.5% = 5€.",
-          "faire_quote": 2.00,
+          "faire_quote": 2.0,
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
@@ -200,7 +202,8 @@
       "spiel_id": "2026-09-02-osn-bay",
       "begruendung": "Klasse-Delta 2.Liga vs Serienmeister. bet365-Note: 2:0-Insurance greift beim DFB-Pokal NICHT. Einsatz 15€.",
       "empfohlener_einsatz_prozent": 1.5,
-      "einsatz_euro": 15
+      "einsatz_euro": 15,
+      "rang": 1
     },
     {
       "id": "sas-fro-1",
@@ -211,7 +214,8 @@
       "spiel_id": "2026-09-02-sas-fro",
       "begruendung": "Goldgrube-Markt DC 1X. Heim + Klasse + Frosinone-Rotation. Einsatz 15€.",
       "empfohlener_einsatz_prozent": 1.5,
-      "einsatz_euro": 15
+      "einsatz_euro": 15,
+      "rang": 2
     },
     {
       "id": "udi-ven-1",
@@ -222,18 +226,20 @@
       "spiel_id": "2026-09-02-udi-ven",
       "begruendung": "Goldgrube-Markt DC 1X. Venezia in Krise, Udinese daheim + Form. Einsatz 15€.",
       "empfohlener_einsatz_prozent": 1.5,
-      "einsatz_euro": 15
+      "einsatz_euro": 15,
+      "rang": 3
     },
     {
       "id": "osn-bay-2",
       "kategorie": "value",
       "markt": "Über 3.5 Tore",
-      "quote": 1.90,
+      "quote": 1.9,
       "spiel_label": "Osnabrück vs Bayern",
       "spiel_id": "2026-09-02-osn-bay",
       "begruendung": "Klasse-Delta führt zu hoher Tor-Wahrscheinlichkeit. Goldgrube-Markt (Über 2.5) hier als 3.5-Version. Einsatz 15€.",
       "empfohlener_einsatz_prozent": 1.5,
-      "einsatz_euro": 15
+      "einsatz_euro": 15,
+      "rang": 4
     },
     {
       "id": "sas-fro-2",
@@ -244,18 +250,20 @@
       "spiel_id": "2026-09-02-sas-fro",
       "begruendung": "Heim-Favorit-Direkt-Sieg unterbewertet. Einsatz 15€.",
       "empfohlener_einsatz_prozent": 1.5,
-      "einsatz_euro": 15
+      "einsatz_euro": 15,
+      "rang": 5
     },
     {
       "id": "udi-ven-2",
       "kategorie": "value",
       "markt": "Udinese Sieg (90 Min)",
-      "quote": 1.60,
+      "quote": 1.6,
       "spiel_label": "Udinese vs Venezia",
       "spiel_id": "2026-09-02-udi-ven",
       "begruendung": "Venezia rotiert und ist tot. Udinese wächst in Spiele hinein. Einsatz 15€.",
       "empfohlener_einsatz_prozent": 1.5,
-      "einsatz_euro": 15
+      "einsatz_euro": 15,
+      "rang": 6
     },
     {
       "id": "osn-bay-3",
@@ -266,18 +274,20 @@
       "spiel_id": "2026-09-02-osn-bay",
       "begruendung": "Kane 0 Pflichtspieltore 2026/27 — Anti-Bounce gegen 2.Liga-Aufsteiger. HR24 erfüllt (zentraler 9er + Backup-Boost). AUFSTELLUNG bei bet365 prüfen. Einsatz 15€.",
       "empfohlener_einsatz_prozent": 1.5,
-      "einsatz_euro": 15
+      "einsatz_euro": 15,
+      "rang": 7
     },
     {
       "id": "sas-fro-3",
       "kategorie": "value",
       "markt": "Domenico Berardi trifft (jederzeit)",
-      "quote": 2.50,
+      "quote": 2.5,
       "spiel_label": "Sassuolo vs Frosinone",
       "spiel_id": "2026-09-02-sas-fro",
       "begruendung": "Form-Edge nach Torino-Tor, HR24 erfüllt. AUFSTELLUNG prüfen (falls Berardi geschont, Tipp tot). Einsatz 15€.",
       "empfohlener_einsatz_prozent": 1.5,
-      "einsatz_euro": 15
+      "einsatz_euro": 15,
+      "rang": 8
     },
     {
       "id": "udi-ven-3",
@@ -288,7 +298,8 @@
       "spiel_id": "2026-09-02-udi-ven",
       "begruendung": "Coppa-Rotations-Spiel, Venezia defensiv orientiert. Goldgrube-Markt. Einsatz 5€.",
       "empfohlener_einsatz_prozent": 0.5,
-      "einsatz_euro": 5
+      "einsatz_euro": 5,
+      "rang": 9
     }
   ],
   "kombis": [
@@ -296,59 +307,117 @@
       "name": "Safe-3er Pokal-Nacht",
       "kategorie": "safe",
       "beine": [
-        {"spiel_id": "2026-09-02-osn-bay", "spiel_label": "Osnabrück vs Bayern", "markt": "Bayern Sieg (90 Min)", "quote": 1.14, "kategorie": "safe"},
-        {"spiel_id": "2026-09-02-sas-fro", "spiel_label": "Sassuolo vs Frosinone", "markt": "Sassuolo oder Remis (Doppelte Chance 1X)", "quote": 1.28, "kategorie": "safe"},
-        {"spiel_id": "2026-09-02-udi-ven", "spiel_label": "Udinese vs Venezia", "markt": "Udinese oder Remis (Doppelte Chance 1X)", "quote": 1.22, "kategorie": "safe"}
+        {
+          "spiel_id": "2026-09-02-osn-bay",
+          "spiel_label": "Osnabrück vs Bayern",
+          "markt": "Bayern Sieg (90 Min)",
+          "quote": 1.14,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-02-sas-fro",
+          "spiel_label": "Sassuolo vs Frosinone",
+          "markt": "Sassuolo oder Remis (Doppelte Chance 1X)",
+          "quote": 1.28,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-02-udi-ven",
+          "spiel_label": "Udinese vs Venezia",
+          "markt": "Udinese oder Remis (Doppelte Chance 1X)",
+          "quote": 1.22,
+          "kategorie": "safe"
+        }
       ],
       "gesamtquote": 1.78,
       "rechnung": "1.14 x 1.28 x 1.22 = 1.78",
-      "einsatz_prozent": 2.0,
       "einsatz_euro": 20,
-      "begruendung": "Drei Heim-Favoriten in Pokal-Runden, alle 3 Kontexte sauber. Gesamtquote klein, aber sehr hohe Wahrscheinlichkeit. Einsatz Stufe 1: 2% = 20€."
+      "begruendung": "Drei Heim-Favoriten in Pokal-Runden, alle 3 Kontexte sauber. Gesamtquote klein, aber sehr hohe Wahrscheinlichkeit. Einsatz Stufe 1: 2% = 20€.",
+      "empfohlener_einsatz_prozent": 2.0
     },
     {
       "name": "Balance-3er Sieg-Mix",
       "kategorie": "balance",
       "beine": [
-        {"spiel_id": "2026-09-02-osn-bay", "spiel_label": "Osnabrück vs Bayern", "markt": "Über 3.5 Tore", "quote": 1.90, "kategorie": "value"},
-        {"spiel_id": "2026-09-02-sas-fro", "spiel_label": "Sassuolo vs Frosinone", "markt": "Sassuolo Sieg (90 Min)", "quote": 1.75, "kategorie": "value"},
-        {"spiel_id": "2026-09-02-udi-ven", "spiel_label": "Udinese vs Venezia", "markt": "Udinese Sieg (90 Min)", "quote": 1.60, "kategorie": "value"}
+        {
+          "spiel_id": "2026-09-02-osn-bay",
+          "spiel_label": "Osnabrück vs Bayern",
+          "markt": "Über 3.5 Tore",
+          "quote": 1.9,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-02-udi-ven",
+          "spiel_label": "Udinese vs Venezia",
+          "markt": "Udinese Sieg (90 Min)",
+          "quote": 1.6,
+          "kategorie": "value"
+        }
       ],
-      "gesamtquote": 5.32,
-      "rechnung": "1.90 x 1.75 x 1.60 = 5.32",
-      "einsatz_prozent": 0.8,
+      "gesamtquote": 3.04,
+      "rechnung": "1.90 x 1.60 = 3.04",
       "einsatz_euro": 8,
-      "begruendung": "Layer-2 sauber: nur 1 Sieg-Outcome pro Spiel (Bayern = Tor-Total statt Sieg, sonst nur eine Kombi mit Bayern-Sieg). Kombiniert 3 VALUE-Tipps aus 3 Spielen. Einsatz Stufe 1 Balance: 0.8% = 8€."
+      "begruendung": "Layer-2 sauber: nur 1 Sieg-Outcome pro Spiel (Bayern = Tor-Total statt Sieg, sonst nur eine Kombi mit Bayern-Sieg). Kombiniert 3 VALUE-Tipps aus 3 Spielen. Einsatz Stufe 1 Balance: 0.8% = 8€.",
+      "empfohlener_einsatz_prozent": 0.8
     },
     {
       "name": "Risiko-3er Torschützen + Sieg",
       "kategorie": "risk",
       "beine": [
-        {"spiel_id": "2026-09-02-osn-bay", "spiel_label": "Osnabrück vs Bayern", "markt": "Harry Kane trifft (jederzeit)", "quote": 1.75, "kategorie": "value"},
-        {"spiel_id": "2026-09-02-sas-fro", "spiel_label": "Sassuolo vs Frosinone", "markt": "Domenico Berardi trifft (jederzeit)", "quote": 2.50, "kategorie": "value"},
-        {"spiel_id": "2026-09-02-udi-ven", "spiel_label": "Udinese vs Venezia", "markt": "Unter 2.5 Tore", "quote": 2.05, "kategorie": "wackel"}
+        {
+          "spiel_id": "2026-09-02-osn-bay",
+          "spiel_label": "Osnabrück vs Bayern",
+          "markt": "Harry Kane trifft (jederzeit)",
+          "quote": 1.75,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-02-sas-fro",
+          "spiel_label": "Sassuolo vs Frosinone",
+          "markt": "Domenico Berardi trifft (jederzeit)",
+          "quote": 2.5,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-02-udi-ven",
+          "spiel_label": "Udinese vs Venezia",
+          "markt": "Unter 2.5 Tore",
+          "quote": 2.05,
+          "kategorie": "wackel"
+        }
       ],
       "gesamtquote": 8.97,
       "rechnung": "1.75 x 2.50 x 2.05 = 8.97",
-      "einsatz_prozent": 0.25,
       "einsatz_euro": 2.5,
       "begruendung": "Zwei Form-Torschützen + defensives Udinese-Venezia. Beide Torschützen-Tipps sind AUFSTELLUNGS-abhängig — nach Anpfiff bei bet365 nochmal verifizieren. Gesamtquote 8.97 ist niedriger als klassisches Risiko-Fenster (15-30x), passt zu diesem 3-Spiele-Tag ehrlich in dieses Bucket. Einsatz Stufe 1 Risiko: 0.25% = 2.50€.",
-      "warnung": "Bei nur 3 Spielen im Slate ist ein echtes 15-30x-Risiko-Profil nur mit exotischen Zusatzmärkten machbar — bewusst konservativ gehalten."
+      "warnung": "Bei nur 3 Spielen im Slate ist ein echtes 15-30x-Risiko-Profil nur mit exotischen Zusatzmärkten machbar — bewusst konservativ gehalten.",
+      "empfohlener_einsatz_prozent": 0.25
     },
     {
       "name": "Moonshot-3er Heim-Underdog + Volumen",
       "kategorie": "moonshot",
       "beine": [
-        {"spiel_id": "2026-09-02-osn-bay", "spiel_label": "Osnabrück vs Bayern", "markt": "Über 4.5 Tore", "quote": 3.00, "kategorie": "risk"},
-        {"spiel_id": "2026-09-02-sas-fro", "spiel_label": "Sassuolo vs Frosinone", "markt": "Beide Teams treffen + Über 2.5 (BTTS & Ü2.5)", "quote": 3.50, "kategorie": "risk"},
-        {"spiel_id": "2026-09-02-udi-ven", "spiel_label": "Udinese vs Venezia", "markt": "Udinese Sieg zu Null", "quote": 3.80, "kategorie": "risk"}
+        {
+          "spiel_id": "2026-09-02-osn-bay",
+          "spiel_label": "Osnabrück vs Bayern",
+          "markt": "Über 4.5 Tore",
+          "quote": 3.0,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-09-02-sas-fro",
+          "spiel_label": "Sassuolo vs Frosinone",
+          "markt": "Beide Teams treffen + Über 2.5 (BTTS & Ü2.5)",
+          "quote": 3.5,
+          "kategorie": "risk"
+        }
       ],
-      "gesamtquote": 39.90,
-      "rechnung": "3.00 x 3.50 x 3.80 = 39.90",
-      "einsatz_prozent": 0.1,
+      "gesamtquote": 10.5,
+      "rechnung": "3.00 x 3.50 = 10.5",
       "einsatz_euro": 1,
       "begruendung": "Ehrlich: bei nur 3 Spielen kein echter 100x-Moonshot ohne Torschützen-Spezial-Wetten machbar. Diese Kombi ist konservativer Moonshot ~40x. Wer 100x will, müsste einen Kane-Doppelpack (~5-6) reinnehmen — dann bricht die Kombi bei ausgewechselter Kane. Einsatz Stufe 1 Moonshot: 0.1% = 1€. Bei bet365 live prüfen, insbesondere BTTS&Ü2.5 in Sassuolo-Frosinone (Frosinone Serie-B-Rotation macht Auswärts-Tor unwahrscheinlicher).",
-      "warnung": "Kein klassischer 100x — nur 3 Spiele im Fenster."
+      "warnung": "Kein klassischer 100x — nur 3 Spiele im Fenster.",
+      "empfohlener_einsatz_prozent": 0.1
     }
   ],
   "lessons_angewandt": [
@@ -366,9 +435,20 @@
     "drops": [],
     "downgrades": [],
     "warns": [
-      {"art": "aufstellungs_abhaengig", "tipp_id": "osn-bay-3", "details": "Kane-Torschütze — falls Kompany doch rotiert, bei bet365 vor Anpfiff prüfen"},
-      {"art": "aufstellungs_abhaengig", "tipp_id": "sas-fro-3", "details": "Berardi-Torschütze — Sassuolo könnte Berardi in Coppa schonen"},
-      {"art": "kein_klassisches_moonshot_fenster", "details": "Nur 3 Spiele — Moonshot bei 40x statt 100x+; ehrlich benannt"}
+      {
+        "art": "aufstellungs_abhaengig",
+        "tipp_id": "osn-bay-3",
+        "details": "Kane-Torschütze — falls Kompany doch rotiert, bei bet365 vor Anpfiff prüfen"
+      },
+      {
+        "art": "aufstellungs_abhaengig",
+        "tipp_id": "sas-fro-3",
+        "details": "Berardi-Torschütze — Sassuolo könnte Berardi in Coppa schonen"
+      },
+      {
+        "art": "kein_klassisches_moonshot_fenster",
+        "details": "Nur 3 Spiele — Moonshot bei 40x statt 100x+; ehrlich benannt"
+      }
     ],
     "lessons_generiert": [],
     "kader_wechsel_check": "Nur Kane (Bayern seit 2023, aktuell verifiziert) und Berardi (Sassuolo-Ikone, aktuell verifiziert) getippt — keine Ex-Vereins-Fehler",
