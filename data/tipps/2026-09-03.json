@@ -1,23 +1,46 @@
 {
   "datum": "2026-09-03",
-  "erstellt_am": "2026-09-03T14:42:08+02:00",
-  "hinweis": "Länderspielpause: am Do 3.9. läuft in den aktiven Wettbewerben nichts. Bundesliga, Premier League, LaLiga, Serie A und Ligue 1 machen wegen der WM-2030-Quali-Woche Pause; die Champions-League-Ligaphase startet erst am 8.9. (Spieltag 1 vom 8.-10.9.), Europa und Conference League folgen in der Woche danach. DFB-Pokal 1. Runde war am 21.-24.8. mit den beiden Nachholspielen von Bayern und BVB am 1./2.9. abgeschlossen, Coppa Italia Runde 16 lag am 2.9. und am 15.9. Deshalb heute kein Dossier — keine Erfindungen, kein Tipp auf ein Länderspiel (National-Wettbewerbe stehen nicht in der aktiven Whitelist). Nächster Vereins-Slate: Fr 12.9. (Bundesliga-Auftakt Spieltag 3), davor am 8.9. CL Ligaphase. Kasse-Stand aktuell 1000€ (Saison 2026/27, Stufe 1).",
+  "erstellt_am": "2026-09-03T17:08:22+02:00",
+  "hinweis": "Länderspiel-Fenster: heute (Do 3.9.) läuft in den aktiven Wettbewerben nichts. Bundesliga (MD2 Fr-So 5.-7.9.), Premier League, LaLiga, Serie A und Ligue 1 machen Pause, die Champions-League-Ligaphase startet erst am 8.9. (Spieltag 1), Europa League 16.9., Conference League 24.9. DFB-Pokal 1. Runde ist mit den Nachholern Bayern (1.9. Osnabrück) und BVB (1.9. HEBC) abgeschlossen, Coppa-Italia-Sedicesimi lagen 1.-2.9. bzw. 15.9. UEFA Nations League MD1 startet erst 24.-26.9., die WM-2030-Quali hat noch nicht begonnen. Deshalb heute bewusst kein Dossier — keine Tipps auf Länderspiele (National-Wettbewerbe stehen nicht in der aktiven Whitelist), keine erfundenen Spiele. Nächster Vereins-Slate: Fr 4.9. (2. Bundesliga MD5) bzw. Sa 5.9. (Bundesliga MD2). Kasse 1000€, Stufe 1 (Saison-2026/27-Edge noch nicht bestätigt, Stufe 2 gesperrt).",
   "spiele": [],
   "einzeltipps": [],
   "kombis": [],
   "lessons_angewandt": [
-    "Zeitfenster-Hartregel (22.08.2026): nur Anstoss am Zieldatum; keine Erfindungen von Länderspielen ausserhalb der aktiven Whitelist.",
-    "Kader-Frische / Anti-Halluzination: keine Tipps ohne live-verifizierten Kader."
+    "Zeitfenster-Hartregel (22.08.2026): nur Anstoss am Zieldatum in Berliner Zeit — keine Erfindungen von Länderspielen oder Auslandspokal-Runden ausserhalb der aktiven Whitelist.",
+    "Kader-Frische / Anti-Halluzination: kein Tipp ohne live-verifizierten Kader und ohne echten Anstosstermin.",
+    "Notfall-Fallback (master_tipps_routine.md): ehrliches leeres Dossier mit erklärendem hinweis ist ein gültiges Ergebnis — lieber nichts als erfundene Spiele.",
+    "Recherche-Routine-Fallback: da data/recherche/2026-09-03.json fehlte, WebSearch-Verifikation über UEFA / Bundesliga / Wikipedia — Ergebnis konsistent mit dem Watchdog-Vorlauf um 14:42."
   ],
-  "_watchdog_hinweis": {
-    "quelle": "Watchdog Tages-Tipps Mo-Fr (14:30 Berlin, Backstop 15:15)",
-    "grund": "Hauptroutine 13:30 hat kein File erzeugt - Watchdog aktiv.",
-    "recherche_ergebnis": "Länderspielpause, kein Spiel im aktiven Fenster gefunden.",
-    "quellen_check": [
-      "https://de.uefa.com/uefachampionsleague/news/02a8-2173281de367-07c97c33cc6d-1000--die-ligaphase-der-champions-league-die-36-teams-und-ihre-g/",
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_master_routine_notiz": {
+    "quelle": "Master-Tipps-Routine Mo-Fr 13:30 (verspätet, hier 17:08 Berlin) — re-verifiziert nach Watchdog-Vorlauf 14:42.",
+    "grund_leeres_dossier": "Kein Spiel im aktiven Wettbewerbs-Fenster mit Anstoss am 2026-09-03 (Berliner Zeit).",
+    "recherche_fallback": "data/recherche/2026-09-03.json fehlt — Fallback-Recherche via WebSearch (UEFA, Bundesliga, Wikipedia, FIFA). Kein weiteres verwertbares Spiel gefunden.",
+    "verifikations_quellen": [
+      "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures/",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League",
+      "https://www.bundesliga.com/en/bundesliga/news/calendar-for-2026-27-season-world-cup-34676",
       "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-ersten-hauptrunde",
-      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Coppa_Italia"
+      "https://en.wikipedia.org/wiki/2025%E2%80%9326_Coppa_Italia"
     ]
   },
-  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700"
+  "_verifikations_report": {
+    "erstellt_am": "2026-09-03T17:08:22+02:00",
+    "modus": "leeres_dossier_verifikation",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "kein_slate",
+        "details": "Kein Spiel in aktiver Whitelist mit Anstoss am 2026-09-03. Länderspiel-Fenster vor der XL-Break (24.9.-6.10.), keine Vereins-Wettbewerbe. Watchdog 14:42 hatte identisches Ergebnis — Konsistenz-Check OK."
+      }
+    ],
+    "lessons_generiert": [],
+    "kader_wechsel_check": "n/a (keine Tipps)",
+    "zeitfenster_check": "0 Spiele im Fenster — Hartregel eingehalten (fix_schema.py validate_datum_scope droppt sowieso alles ausserhalb).",
+    "halluzinations_check": "OK — nichts erfunden, spiele[] leer statt gefüllt mit Ghost-Spielen.",
+    "selbstwiderspruchs_check": "OK — hinweis, lessons_angewandt und leerer Slate konsistent zueinander.",
+    "layer_cross_check": "n/a (keine Kombis)"
+  }
 }
