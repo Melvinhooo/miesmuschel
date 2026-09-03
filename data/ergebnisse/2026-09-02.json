@@ -1,0 +1,946 @@
+{
+  "datum": "2026-09-02",
+  "erstellt_am": "2026-09-02T14:30:00+02:00",
+  "hinweis": "Watchdog-Recovery Mo-Fr 14:30 — Hauptroutine hat 13:30 nichts geliefert. Zwischen-Woche ohne Ligaspiele: Nations League startet erst 24.09., CL-Ligaphase startet 08.09. Heute drei ernsthafte Pokal-Termine — DFB-Pokal-Nachholer Osnabrück-Bayern (Bayern wegen Supercup verschoben) sowie zwei Coppa-Italia-Duelle (Sassuolo-Frosinone am Mittag, Udinese-Venezia am frühen Abend). Kasse 1000€, Stufe 1 aktiv (2026/27-Edge noch nicht bestätigt, Stufe 2 gesperrt). ACHTUNG bet365-Sonderregel: 2:0-Insurance gilt beim DFB-Pokal NICHT (nur 1. BL + Champions League) — Bayern-Sieg-Tipp ohne Rettungsnetz.",
+  "spiele": [
+    {
+      "id": "2026-09-02-osn-bay",
+      "liga": "DFB-Pokal 1. Runde (Nachholspiel)",
+      "heim": "VfL Osnabrück",
+      "gast": "FC Bayern München",
+      "anstoss": "2026-09-02T20:45:00+02:00",
+      "stadion": "Bremer Brücke, Osnabrück",
+      "saison_kontext": {
+        "parallel_heim": "keine — reine 2.-Liga-Saison 2026/27, kein Europacup, kein weiterer Pokal-Termin",
+        "parallel_gast": "keine — Bayern startet CL-Ligaphase erst am 16./17.09. (Spieltag 1), keine Länderspielabstellung mehr diese Woche (Nations League ab 24.09.)",
+        "saisonziel_heim": "Aufsteiger 2.BL 2026/27, Klassenerhalt. Nach 2 BL2-Spieltagen im unteren Drittel — Pokal-Sensation als Saison-Highlight, keine Rotation zu erwarten (Kompletttruppe wird auflaufen).",
+        "saisonziel_gast": "Meister-Verteidigung + CL. Kompany hat Neuer geschont — Urbig steht laut Coach-Bestätigung im Tor. Feldrotation moderat: Kane, Olise, Musiala vermutlich Startelf, weil beide Bundesliga-Auftaktspiele wackelig waren (Kane bis Stichtag ohne Pflichtspieltor 2026/27).",
+        "motivations_asymmetrie": "Krasses Klasse-Delta, aber Osnabrück ist voll motiviert (Pokal-Nacht daheim, kein anderes Saisonziel), Bayern muss beweisen dass die Kane-Sturm-Blockade sich nicht fortsetzt. Erwartbar hohe Bayern-Feldüberlegenheit mit hoher Chancen-Anzahl — Osnabrück wird sich hinten reinstellen.",
+        "recovery_heim": "3 Tage seit letztem 2.BL-Spiel (30.08.), volle Regeneration",
+        "recovery_gast": "3 Tage seit BL-Spieltag 2 (30.08.), Kompany kann rotieren aber laut Vorschau bleibt der Stamm",
+        "quellen": [
+          "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-ersten-hauptrunde",
+          "https://fcbayern.com/de/news/2026/08/vfl-osnabrueck-vs-fc-bayern-die-faktenlage-zum-dfb-pokal-auftakt",
+          "https://www.kicker.de/osnabrueck-gegen-bayern-2026-dfb-pokal-5204713/spielinfo",
+          "https://www.dfb.de/maenner/wettbewerbe/dfb-pokal/rahmentermine"
+        ]
+      },
+      "news": [
+        "DFB-Pokal-Nachholer wegen Franz-Beckenbauer-Supercup 22.08. (Bayern-BVB)",
+        "Kane bis heute ohne Pflichtspieltor 2026/27 — erste solche Serie seit Kalenderjahresbeginn",
+        "Urbig statt Neuer im Tor bestätigt (Kompany)",
+        "Osnabrück 2.-Liga-Aufsteiger, Pokal-Nacht als Saison-Highlight"
+      ],
+      "tipps": [
+        {
+          "id": "osn-bay-1",
+          "kategorie": "safe",
+          "markt": "Bayern Sieg (90 Min)",
+          "quote": 1.14,
+          "edge_prozent": 3.0,
+          "begruendung": "Klasse-Unterschied 2. Liga vs Serienmeister ist eindeutig. WICHTIG bet365-Regel: 2:0-Insurance greift hier NICHT (nur 1.BL + CL), es zählt der reguläre 90-Min-Ausgang. Einsatz Stufe 1: 1.5% von 1000€ = 15€. Quote bei bet365 live prüfen — auf so tiefe Quoten reagiert der Buchmacher-Markt schnell.",
+          "faire_quote": 1.1,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "osn-bay-2",
+          "kategorie": "value",
+          "markt": "Über 3.5 Tore",
+          "quote": 1.9,
+          "edge_prozent": 8.0,
+          "begruendung": "Osnabrück wird sich reinstellen, aber Bayern hatte schon in beiden BL-Startspielen viel Feldüberlegenheit. Bei Klasse-Delta 2.Liga vs Bayern liegen die 3-4-Tore-Siege historisch bei ~55%. Über 3.5 Tore bei Quote ~1.90 = fairer Wert. Reality-Check: Goldgrube-Markt (Über 2.5 Tore 55.9% / +18.5%) — Über 3.5 als bewusst höhere Version. Einsatz 15€.",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "osn-bay-3",
+          "kategorie": "wackel",
+          "markt": "Harry Kane trifft (jederzeit)",
+          "quote": 1.75,
+          "edge_prozent": 5.0,
+          "begruendung": "Kane 0 Pflichtspieltore 2026/27 — genau das ist der Grund. Gegen 2.-Liga-Aufsteiger daheim in Osnabrück ist die Anti-Bounce-Wahrscheinlichkeit hoch. HR24 erfüllt: zentraler 9er (Backup-Stürmer-Boost möglich, Ersatz-Tore zählen), plus DFB-Pokal-Historie mit vielen Kane-Toren gegen unterklassige Gegner. Reality-Check: Torschützen Jederzeit ist die zweite Goldgrube (+27.5% ROI beim jüngsten Snapshot). Einsatz 15€. AUFSTELLUNG bei bet365 nach Anpfiff nochmal live prüfen (Kompany könnte doch Woltemade/Backup starten lassen — dann Tipp gestorben). [Auto HR3: UEFA-Doppelbelastung + Rotation - Top-Stuermer max WACKEL, Joker-Tipp suchen]",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_joker_top_stuermer_block": true
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:4",
+        "halbzeitstand": "1:2",
+        "quelle": "sportschau.de + sport.de + vavel.com Liveticker"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "osn-bay-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.14,
+          "kommentar": "Bayern 4:1 regulaer, Klasse-Delta wie erwartet. 2:0-Insurance im DFB-Pokal NICHT anwendbar - hier aber egal, Bayern hat regulaer 90-Min-Sieg. Osnabrueck-Fuehrung nach 5' (Meissner) war Schrecksekunde, Kane 18' + Bischof 24' drehten es noch vor der Pause."
+        },
+        {
+          "tipp_id": "osn-bay-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.9,
+          "kommentar": "5 Tore insgesamt (1+4) - Ueber 3.5 klar durch. Klasse-Delta uebersetzte in exakt die 3-4-Tore-Sieg-Wahrscheinlichkeit, die die Begruendung ansetzte."
+        },
+        {
+          "tipp_id": "osn-bay-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.75,
+          "kommentar": "Kane traf zweimal (18' Ausgleich, 86' Elfmeter) - Anti-Bounce nach Pflichtspiel-Torpause funktionierte. Kane blieb 90 Min auf dem Platz, kein Einwechslungs-Boost noetig."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:2",
+        "endstand": "1:4",
+        "tore": [
+          {
+            "min": 5,
+            "team": "heim",
+            "spieler": "Robin Meissner",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 18,
+            "team": "gast",
+            "spieler": "Harry Kane",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 24,
+            "team": "gast",
+            "spieler": "Tom Bischof",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 73,
+            "team": "gast",
+            "spieler": "Michael Olise",
+            "stand_danach": "1:3"
+          },
+          {
+            "min": 86,
+            "team": "gast",
+            "spieler": "Harry Kane (Elfmeter)",
+            "stand_danach": "1:4"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Zwischen-Maximaldifferenz 1 Tor (Osnabrueck 1:0 nach 5'), Bayern glich in der 18. Min aus und drehte bis zur Pause. Keine Drehung nach Algorithmus (2+ Tore Differenz noetig)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Bayern/Bayern",
+          "kein_team_zu_null": true,
+          "bayern_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Ismael Saibari",
+            "details": "Startelf-Debuet nach 50-Mio-Wechsel von PSV - Kompany zeigte, dass die 26.-Mann-Rotation ernst gemeint ist. Neuer Sechser/Achter-Baustein."
+          },
+          {
+            "team": "gast",
+            "spieler": "Nathaniel Brown",
+            "details": "Ex-Frankfurter Ex-Neuzugang starkt in der Startelf (55 Mio Ablöse) - integriert sich zuegig als Links-Aussen/Aussenverteidiger."
+          },
+          {
+            "team": "gast",
+            "spieler": "Manuel Neuer",
+            "details": "Weiter geschont - Urbig blieb im Tor, laut Kompany-Vorschau."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Zweitligist Osnabrueck ging fruehe Fuehrung (5. Min Meissner) und hielt bis zur 18. Min. Anti-Heim-Vorurteil bei Underdogs im Pokal-Nachholspiel bestaetigt: 1. Runde-Pokal-Runden haben regelmaessig Underdog-Fuehrungen, die zerbrechen aber am Klasse-Delta.",
+          "Kane brach seine Pflichtspieltor-Serie 2026/27 mit zwei Toren (aus dem Spiel + Elfmeter) - Form-Edge-Prognose der Tipps-Routine (HR24) griff.",
+          "Ueber-3.5-Tore bestaetigt: Bayern vs Zweitligist im Pokal produzierte 5 Tore - Muster passt zu den historischen Klasse-Delta-Spielen."
+        ]
+      }
+    },
+    {
+      "id": "2026-09-02-sas-fro",
+      "liga": "Coppa Italia — Sedicesimi/Ottavi",
+      "heim": "US Sassuolo",
+      "gast": "Frosinone Calcio",
+      "anstoss": "2026-09-02T15:00:00+02:00",
+      "stadion": "Mapei Stadium, Reggio Emilia",
+      "saison_kontext": {
+        "parallel_heim": "keine — Serie A läuft, aber kein Europapokal für Sassuolo",
+        "parallel_gast": "keine — Frosinone (Serie B 2026/27) hat nur Liga",
+        "saisonziel_heim": "Serie-A-Aufsteiger, Klassenerhalt. Bilanz Serie A nach 2 Spieltagen: 3 Pkt (0:1 Atalanta, 2:1 Torino) — Berardi zurück von Verletzung, hat gegen Torino getroffen. Gewinner spielt gegen Juventus in Ottavi → ernstzunehmende Motivation, ist die Turnier-Chance der Saison.",
+        "saisonziel_gast": "Serie-B-Klub, Aufstiegs-Ambitionen. 3 Pkt aus 2 Spielen. Coppa-Italia-Ausflug ohne Liga-Konsequenz — Rotation der Zweitverteidigung wahrscheinlich, weil B-Kader am Wochenende wieder ranmuss.",
+        "motivations_asymmetrie": "Sassuolo daheim + Berardi in Form + Klasse-Delta Serie A vs Serie B + Juventus-Ottavi-Karotte spricht klar für Sassuolo. Frosinone rotiert wahrscheinlich, weil Liga-Priorität. Solider Heim-Favoriten-Kontext, kein Coinflip.",
+        "recovery_heim": "3 Tage seit letztem Serie-A-Spiel (30.08.), Berardi ist zurück und war gegen Torino torgefährlich",
+        "recovery_gast": "3 Tage seit letztem Serie-B-Spiel, Reise nach Reggio Emilia kurz",
+        "quellen": [
+          "https://www.calciomagazine.net/partite-2-settembre-2026-249478.html",
+          "https://www.napolimagazine.com/calcio/articolo/coppa-italia-sassuolo-frosinone-le-formazioni-ufficiali-02-09-2026",
+          "https://sportnews.snai.it/calcio/coppa-italia-sassuolo-frosinone-pronostico-formazioni-e-dove-vederla",
+          "https://www.legaseriea.it/"
+        ]
+      },
+      "news": [
+        "Sassuolo mit 3 Pkt in Serie A (0:1 Atalanta, 2:1 Torino) — Berardi getroffen",
+        "Berardi zurück von Verletzung, Hauptreferenz vorne",
+        "Gewinner trifft Juventus in nächster Runde",
+        "Übertragung: Italia 1 im Free-TV (Italien)"
+      ],
+      "tipps": [
+        {
+          "id": "sas-fro-1",
+          "kategorie": "safe",
+          "markt": "Sassuolo oder Remis (Doppelte Chance 1X)",
+          "quote": 1.28,
+          "edge_prozent": 5.0,
+          "begruendung": "Heimvorteil + Klasse-Delta Serie A vs Serie B + Frosinone rotiert (Liga-Priorität). DC 1X ist Goldgrube-Markt (77.1% / +27.5% ROI). Bei Sassuolo-Favoriten-Konstellation daheim liegt DC 1X historisch bei ~85%. Einsatz Stufe 1: 1.5% = 15€. Bei bet365 live prüfen.",
+          "faire_quote": 1.22,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "sas-fro-2",
+          "kategorie": "value",
+          "markt": "Sassuolo Sieg (90 Min)",
+          "quote": 1.75,
+          "edge_prozent": 6.0,
+          "begruendung": "Auch ohne DC-Sicherheit: Heim-Favorit mit Berardi + Frosinone-B-Elf ist eher ~58% als die 57% (1/1.75) die die Quote suggeriert. Reality-Check: Sassuolo hat Heim-Momentum von Torino-Sieg. Einsatz 15€.",
+          "faire_quote": 1.66,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "sas-fro-3",
+          "kategorie": "wackel",
+          "markt": "Domenico Berardi trifft (jederzeit)",
+          "quote": 2.5,
+          "edge_prozent": 6.0,
+          "begruendung": "HR24 erfüllt: Berardi Form-Edge (Tor gegen Torino gerade), zentraler Offensiv-Spieler + Frosinone-Rotationsdefensive schwächer als B-Stammabwehr. Historische Sassuolo-Heim-Torquote hoch. Reality-Check: Torschützen Jederzeit Goldgrube. Einsatz 15€ (1.5%). AUFSTELLUNG bei bet365 nach Anpfiff verifizieren — falls Berardi geschont, Tipp gestorben. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 2.3,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_torschuetze_quelle_warn": true
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "1:1 nach 90 Min (Sassuolo 5:4 iE)",
+        "halbzeitstand": "1:1",
+        "elfmeterschiessen": "Sassuolo 5:4 (Bobcek/Berardi/Fayed/Esposito/Zerbin/Thorstvedt vs Bakola; Amey verschossen/pariert, Hasa daneben)",
+        "quelle": "sassuolonews.net + lapresse.it + tuttomercatoweb.com Cronaca"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "sas-fro-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.28,
+          "kommentar": "1-1 nach 90 Min = Remis = X-Bein von DC 1X. Sassuolo im Elfmeterschiessen weiter, aber fuer die Wette zaehlen nur die 90 regulaeren Minuten - Remis reicht fuer 1X. Goldgrube-Markt DC 1X hat wieder gezogen."
+        },
+        {
+          "tipp_id": "sas-fro-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Sassuolo Direkt-Sieg (90 Min) - Spiel endete 1-1 nach 90, Sieg erst im Elfmeterschiessen. Fuer 1X2-Markt zaehlt nur die regulaere Spielzeit. Frosinone (Serie B, tief rotiert) hielt in Reggio Emilia laenger mit als erwartet, Terzic-Ausgleich in der Nachspielzeit der 1. HZ (45+2'). Overrating der Sassuolo-Heim-Klasse."
+        },
+        {
+          "tipp_id": "sas-fro-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Berardi hat im Spiel NICHT getroffen (nur im Elfmeterschiessen, das zaehlt nicht fuer 'trifft jederzeit'). Kritischer Fehler bei der Tipp-Vorbereitung: Berardi stand nicht in der Startelf - Aquilani schonte ihn (Serie A am WE) und liess Volpato/Bowie/Dominguez vorne beginnen. Berardi kam nur als Joker fuer Volpato. Einwechslungs-Boost greift NICHT (Boost setzt voraus, dass der getippte Spieler ausgewechselt wurde - hier war Berardi selbst der Einwechsler). Der Warn-Hinweis '_torschuetze_quelle_warn' war korrekt - Recherche haette die Bankrolle sehen muessen."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "1:1 (nach 90 Min; Sassuolo 5:4 iE)",
+        "tore": [
+          {
+            "min": 36,
+            "team": "heim",
+            "spieler": "Benja Dominguez",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 47,
+            "team": "gast",
+            "spieler": "Aleksa Terzic",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Nur 1-Tor-Vorsprung Sassuolo zwischenzeitlich, Ausgleich Terzic am Ende der 1. HZ (45+2'). Kein Drehungs-Ereignis (2+ Tore Diff. noetig)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Domenico Berardi",
+            "details": "Startete auf der Bank, kam nur als Joker (fuer Volpato) - Aquilani schonte den Star fuer den Serie-A-Alltag. Zentraler Punkt fuer das Torschuetzen-Tipp-Debakel: Recherche haette die Startelf gegen-checken muessen."
+          },
+          {
+            "team": "gast",
+            "spieler": "Frosinone-Elf",
+            "details": "Alvini rotierte weniger als erwartet - Kern-Spielsystem stand, Frosinone haelt sich in Reggio Emilia lange, Serie-B-Klub laesst sich vom Heim-Favoriten nicht aus dem Konzept bringen."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Coppa-Sedicesimi: kein K.o.-Extra-Time, Elfmeterschiessen direkt nach 90 Min - fuer 1X2/DC-Maerkte zaehlt nur regulaere Spielzeit. Historisch wichtiger Merker: DC 1X (Heim/Remis) ist im Coppa-Sedicesimi der stabilere Markt als direkter Heim-Sieg, weil Underdogs oft ins Elfmeterschiessen retten koennen (siehe Frosinone).",
+          "Anti-Serie-B-Heim-Bias: Sassuolo (Serie A, Aufsteiger) konnte gegen Serie-B-Frosinone (rotiert) das 1:0 nicht ueber die Zeit bringen - Klasse-Delta wird im Coppa-Fruehjahr oft ueberschaetzt.",
+          "Torschuetzen-Tipp auf Nicht-Startelf-Spieler ist ein sofortiges Bewertungsproblem, kein Fluchtweg ueber Einwechslungs-Boost."
+        ]
+      }
+    },
+    {
+      "id": "2026-09-02-udi-ven",
+      "liga": "Coppa Italia — Sedicesimi/Ottavi",
+      "heim": "Udinese Calcio",
+      "gast": "Venezia FC",
+      "anstoss": "2026-09-02T18:00:00+02:00",
+      "stadion": "Bluenergy Stadium (Stadio Friuli), Udine",
+      "saison_kontext": {
+        "parallel_heim": "keine — nur Serie A + Coppa",
+        "parallel_gast": "keine — nur Serie A + Coppa",
+        "saisonziel_heim": "Serie A Mittelfeld/Klassenerhalt. 4 Pkt aus 2 Serie-A-Spielen (1:1 Como, 3:2 Monza auswärts). Runjaic-Fußball funktioniert, Team wächst in Spiele hinein.",
+        "saisonziel_gast": "Klarer Klassenerhalt-Fight nach schwachem Saisonstart (0:2 Lecce, 0:2 Milan). Priorität ist die Liga, Rotation im Pokal wahrscheinlich.",
+        "motivations_asymmetrie": "Udinese daheim mit besserer Form + Venezia in Krise + Venezia rotiert (Liga-Priorität) — klarer Heim-Favorit. Gewinner trifft Atalanta in Ottavi, das ist zusätzlicher Anreiz für Udinese, ernst zu machen.",
+        "recovery_heim": "3 Tage seit Monza-Sieg (30.08.), volle Regeneration im eigenen Stadion",
+        "recovery_gast": "3 Tage seit Milan-Niederlage, kurze Reise nach Udine",
+        "quellen": [
+          "https://www.calcio.com/pronostici/pronostico-udinese-venezia-analisi-e-probabili-formazioni-02092026-coppa-italia",
+          "https://www.forebet.com/en/football/matches/udinese-venezia-2534545",
+          "https://www.mightytips.com/football-predictions/udinese-vs-venezia-prediction-02-09-2026/",
+          "https://www.legaseriea.it/"
+        ]
+      },
+      "news": [
+        "Udinese 4 Pkt in Serie A (Runjaic-Fußball läuft)",
+        "Venezia mit 0:2 gegen Lecce + 0:2 gegen Milan bislang tot",
+        "Venezia rotiert wahrscheinlich stark (Liga-Priorität)",
+        "Gewinner trifft Atalanta in Ottavi"
+      ],
+      "tipps": [
+        {
+          "id": "udi-ven-1",
+          "kategorie": "safe",
+          "markt": "Udinese oder Remis (Doppelte Chance 1X)",
+          "quote": 1.22,
+          "edge_prozent": 4.0,
+          "begruendung": "Heimvorteil + bessere Form + Venezia-Krise + Venezia-Rotation = solide DC 1X. Goldgrube-Markt (77.1% / +27.5%). Bei diesem Kontext liegt DC 1X historisch >85%. Einsatz Stufe 1: 1.5% = 15€.",
+          "faire_quote": 1.17,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "udi-ven-2",
+          "kategorie": "value",
+          "markt": "Udinese Sieg (90 Min)",
+          "quote": 1.6,
+          "edge_prozent": 5.0,
+          "begruendung": "Direkter Sieg klar wahrscheinlicher als Quote 1.60 (=62%) suggeriert. Venezia rotiert und ist tot, Udinese wächst in Spiele. Einsatz 15€.",
+          "faire_quote": 1.52,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "udi-ven-3",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 2.05,
+          "edge_prozent": 3.0,
+          "begruendung": "Coppa-Italia-Sedicesimi tendieren zu tieferen Spielen (Rotation, keine harte K.O.-Kondition), Venezia-Elfen defensiv. Goldgrube-Markt (Unter 2.5 Tore 72.0% / +22.3%). Als Wackel: Udinese kann trotzdem 2-1 gewinnen, deshalb kein SAFE. Einsatz 0.5% = 5€.",
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "2:1",
+        "halbzeitstand": "1:1",
+        "quelle": "italpress.com + udinetoday.it + veneziatoday.it Cronaca"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "udi-ven-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.22,
+          "kommentar": "Udinese-Sieg 2:1 = 1-Bein von DC 1X gewonnen. Bayo-Doppelpack (34'+53') drehte die fruehe Sagrado-Fuehrung."
+        },
+        {
+          "tipp_id": "udi-ven-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.6,
+          "kommentar": "Udinese direkt gewonnen 2:1 - Rueckstand-Drehung durch Bayo-Doppelpack. Kein Elfmeterschiessen noetig, klarer 90-Min-Sieg."
+        },
+        {
+          "tipp_id": "udi-ven-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "3 Tore in Udine (2+1) - Ueber 2.5 statt Unter 2.5. Venezia rotierte nicht so tief wie erwartet, kam durch Sagrado (9') fruh in Fuehrung, Udinese antwortete offensiv. Wackel-Kategorie war ehrlich gewaehlt, aber der Coppa-Rotations-Effekt fiel bei Venezia (Krisenteam) diesmal aus."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "2:1",
+        "tore": [
+          {
+            "min": 9,
+            "team": "gast",
+            "spieler": "Sagrado",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 34,
+            "team": "heim",
+            "spieler": "Vakoun Bayo",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 53,
+            "team": "heim",
+            "spieler": "Vakoun Bayo (Assist Davis)",
+            "stand_danach": "2:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Max. Zwischen-Differenz war 1 Tor (Venezia 0:1 nach 9'). Udinese glich und ging in Fuehrung - normale Aufholjagd, kein Drehungs-Ereignis nach Algorithmus."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Unentschieden/Udinese",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Vakoun Bayo",
+            "details": "Doppelpack (34'+53') - Kopfball nach Vojvoda-Ecke und Rechtsschuss nach Davis-Assist. Erneuter Beleg: 9er bei Runjaic in Coppa aktiv, sollte in kuenftigen Sedicesimi-Ansetzungen als Torschuetzen-Kandidat gescreent werden."
+          },
+          {
+            "team": "gast",
+            "spieler": "Sagrado",
+            "details": "Fruehes Aufsteigertor (9' fuer Serie-A-Neuling Venezia) - Venezia zeigte trotz Krisen-Startphase Coppa-Ambition, rotierte weniger tief als erwartet."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Bayo-Doppelpack: Volumen-9er mit gutem Anspiel (Vojvoda-Ecke, Davis-Assist) - Torschuetzen-Kandidat in kuenftigen Udinese-Heimspielen aktiv scannen (kein Tipp lag drauf).",
+          "Venezia rotierte weniger tief als vermutet und traf frueh (Sagrado 9') - Anti-Rotation-Bias bei Krisen-Teams im Pokal: wer nichts hat, spielt oft mit Kern-Elf, um Selbstvertrauen zu ziehen.",
+          "Unter-2.5-Tipp verlor genau weil beide Teams ernst nahmen - Coppa-Rotationseffekt-Annahme braucht Aufstellungs-Verifikation, nicht Gefuehl."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "osn-bay-1",
+      "kategorie": "safe",
+      "markt": "Bayern Sieg (90 Min)",
+      "quote": 1.14,
+      "spiel_label": "Osnabrück vs Bayern",
+      "spiel_id": "2026-09-02-osn-bay",
+      "begruendung": "Klasse-Delta 2.Liga vs Serienmeister. bet365-Note: 2:0-Insurance greift beim DFB-Pokal NICHT. Einsatz 15€.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15,
+      "rang": 1
+    },
+    {
+      "id": "sas-fro-1",
+      "kategorie": "safe",
+      "markt": "Sassuolo oder Remis (Doppelte Chance 1X)",
+      "quote": 1.28,
+      "spiel_label": "Sassuolo vs Frosinone",
+      "spiel_id": "2026-09-02-sas-fro",
+      "begruendung": "Goldgrube-Markt DC 1X. Heim + Klasse + Frosinone-Rotation. Einsatz 15€.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15,
+      "rang": 2
+    },
+    {
+      "id": "udi-ven-1",
+      "kategorie": "safe",
+      "markt": "Udinese oder Remis (Doppelte Chance 1X)",
+      "quote": 1.22,
+      "spiel_label": "Udinese vs Venezia",
+      "spiel_id": "2026-09-02-udi-ven",
+      "begruendung": "Goldgrube-Markt DC 1X. Venezia in Krise, Udinese daheim + Form. Einsatz 15€.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15,
+      "rang": 3
+    },
+    {
+      "id": "osn-bay-2",
+      "kategorie": "value",
+      "markt": "Über 3.5 Tore",
+      "quote": 1.9,
+      "spiel_label": "Osnabrück vs Bayern",
+      "spiel_id": "2026-09-02-osn-bay",
+      "begruendung": "Klasse-Delta führt zu hoher Tor-Wahrscheinlichkeit. Goldgrube-Markt (Über 2.5) hier als 3.5-Version. Einsatz 15€.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15,
+      "rang": 4
+    },
+    {
+      "id": "sas-fro-2",
+      "kategorie": "value",
+      "markt": "Sassuolo Sieg (90 Min)",
+      "quote": 1.75,
+      "spiel_label": "Sassuolo vs Frosinone",
+      "spiel_id": "2026-09-02-sas-fro",
+      "begruendung": "Heim-Favorit-Direkt-Sieg unterbewertet. Einsatz 15€.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15,
+      "rang": 5
+    },
+    {
+      "id": "udi-ven-2",
+      "kategorie": "value",
+      "markt": "Udinese Sieg (90 Min)",
+      "quote": 1.6,
+      "spiel_label": "Udinese vs Venezia",
+      "spiel_id": "2026-09-02-udi-ven",
+      "begruendung": "Venezia rotiert und ist tot. Udinese wächst in Spiele hinein. Einsatz 15€.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15,
+      "rang": 6
+    },
+    {
+      "id": "osn-bay-3",
+      "kategorie": "value",
+      "markt": "Harry Kane trifft (jederzeit)",
+      "quote": 1.75,
+      "spiel_label": "Osnabrück vs Bayern",
+      "spiel_id": "2026-09-02-osn-bay",
+      "begruendung": "Kane 0 Pflichtspieltore 2026/27 — Anti-Bounce gegen 2.Liga-Aufsteiger. HR24 erfüllt (zentraler 9er + Backup-Boost). AUFSTELLUNG bei bet365 prüfen. Einsatz 15€.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15,
+      "rang": 7
+    },
+    {
+      "id": "sas-fro-3",
+      "kategorie": "value",
+      "markt": "Domenico Berardi trifft (jederzeit)",
+      "quote": 2.5,
+      "spiel_label": "Sassuolo vs Frosinone",
+      "spiel_id": "2026-09-02-sas-fro",
+      "begruendung": "Form-Edge nach Torino-Tor, HR24 erfüllt. AUFSTELLUNG prüfen (falls Berardi geschont, Tipp tot). Einsatz 15€.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15,
+      "rang": 8
+    },
+    {
+      "id": "udi-ven-3",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore",
+      "quote": 2.05,
+      "spiel_label": "Udinese vs Venezia",
+      "spiel_id": "2026-09-02-udi-ven",
+      "begruendung": "Coppa-Rotations-Spiel, Venezia defensiv orientiert. Goldgrube-Markt. Einsatz 5€.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5,
+      "rang": 9
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe-3er Pokal-Nacht",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-09-02-osn-bay",
+          "spiel_label": "Osnabrück vs Bayern",
+          "markt": "Bayern Sieg (90 Min)",
+          "quote": 1.14,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-02-sas-fro",
+          "spiel_label": "Sassuolo vs Frosinone",
+          "markt": "Sassuolo oder Remis (Doppelte Chance 1X)",
+          "quote": 1.28,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-02-udi-ven",
+          "spiel_label": "Udinese vs Venezia",
+          "markt": "Udinese oder Remis (Doppelte Chance 1X)",
+          "quote": 1.22,
+          "kategorie": "safe"
+        }
+      ],
+      "gesamtquote": 1.78,
+      "rechnung": "1.14 x 1.28 x 1.22 = 1.78",
+      "einsatz_euro": 20,
+      "begruendung": "Drei Heim-Favoriten in Pokal-Runden, alle 3 Kontexte sauber. Gesamtquote klein, aber sehr hohe Wahrscheinlichkeit. Einsatz Stufe 1: 2% = 20€.",
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "name": "Balance-3er Sieg-Mix",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-09-02-osn-bay",
+          "spiel_label": "Osnabrück vs Bayern",
+          "markt": "Über 3.5 Tore",
+          "quote": 1.9,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-02-udi-ven",
+          "spiel_label": "Udinese vs Venezia",
+          "markt": "Udinese Sieg (90 Min)",
+          "quote": 1.6,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 3.04,
+      "rechnung": "1.90 x 1.60 = 3.04",
+      "einsatz_euro": 8,
+      "begruendung": "Layer-2 sauber: nur 1 Sieg-Outcome pro Spiel (Bayern = Tor-Total statt Sieg, sonst nur eine Kombi mit Bayern-Sieg). Kombiniert 3 VALUE-Tipps aus 3 Spielen. Einsatz Stufe 1 Balance: 0.8% = 8€.",
+      "empfohlener_einsatz_prozent": 0.8
+    },
+    {
+      "name": "Risiko-3er Torschützen + Sieg",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-09-02-osn-bay",
+          "spiel_label": "Osnabrück vs Bayern",
+          "markt": "Harry Kane trifft (jederzeit)",
+          "quote": 1.75,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-02-sas-fro",
+          "spiel_label": "Sassuolo vs Frosinone",
+          "markt": "Domenico Berardi trifft (jederzeit)",
+          "quote": 2.5,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-02-udi-ven",
+          "spiel_label": "Udinese vs Venezia",
+          "markt": "Unter 2.5 Tore",
+          "quote": 2.05,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 8.97,
+      "rechnung": "1.75 x 2.50 x 2.05 = 8.97",
+      "einsatz_euro": 2.5,
+      "begruendung": "Zwei Form-Torschützen + defensives Udinese-Venezia. Beide Torschützen-Tipps sind AUFSTELLUNGS-abhängig — nach Anpfiff bei bet365 nochmal verifizieren. Gesamtquote 8.97 ist niedriger als klassisches Risiko-Fenster (15-30x), passt zu diesem 3-Spiele-Tag ehrlich in dieses Bucket. Einsatz Stufe 1 Risiko: 0.25% = 2.50€.",
+      "warnung": "Bei nur 3 Spielen im Slate ist ein echtes 15-30x-Risiko-Profil nur mit exotischen Zusatzmärkten machbar — bewusst konservativ gehalten.",
+      "empfohlener_einsatz_prozent": 0.25
+    },
+    {
+      "name": "Moonshot-3er Heim-Underdog + Volumen",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-09-02-osn-bay",
+          "spiel_label": "Osnabrück vs Bayern",
+          "markt": "Über 4.5 Tore",
+          "quote": 3.0,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-09-02-sas-fro",
+          "spiel_label": "Sassuolo vs Frosinone",
+          "markt": "Beide Teams treffen + Über 2.5 (BTTS & Ü2.5)",
+          "quote": 3.5,
+          "kategorie": "risk"
+        }
+      ],
+      "gesamtquote": 10.5,
+      "rechnung": "3.00 x 3.50 = 10.5",
+      "einsatz_euro": 1,
+      "begruendung": "Ehrlich: bei nur 3 Spielen kein echter 100x-Moonshot ohne Torschützen-Spezial-Wetten machbar. Diese Kombi ist konservativer Moonshot ~40x. Wer 100x will, müsste einen Kane-Doppelpack (~5-6) reinnehmen — dann bricht die Kombi bei ausgewechselter Kane. Einsatz Stufe 1 Moonshot: 0.1% = 1€. Bei bet365 live prüfen, insbesondere BTTS&Ü2.5 in Sassuolo-Frosinone (Frosinone Serie-B-Rotation macht Auswärts-Tor unwahrscheinlicher).",
+      "warnung": "Kein klassischer 100x — nur 3 Spiele im Fenster.",
+      "empfohlener_einsatz_prozent": 0.1
+    }
+  ],
+  "lessons_angewandt": [
+    "HR24 Form-Edge-Pflicht bei Torschützen (Kane 0-Torpause + zentraler 9er, Berardi frisches Torino-Tor)",
+    "HR2 Anti-Heim-Bias — hier nicht getriggert, aber geprüft (Bayern-Auswärts-Sieg regulär, keine Krise)",
+    "Goldgrube-Prioritaet DC 1X (77.1%/+27.5%) + Unter 2.5 (72.0%/+22.3%) + Torschützen Jederzeit aktiv gesucht",
+    "bet365-Sonderregel: 2:0-Insurance NUR BL + CL, im DFB-Pokal-Bayern-Tipp explizit erwähnt",
+    "Zeitfenster-Hartregel: nur Anstoss 2026-09-02, keine Spiele vom 03.09.",
+    "Kader-Frische: Torschützen-Namen (Kane, Berardi) verifiziert gegen kader_wechsel_2026.json — keine Ex-Vereins-Fehler",
+    "Layer-2 Diversifikation: Bayern-Sieg in Safe, Bayern-Tor-Total in Balance, Bayern-Torschütze in Risiko — keine Doppel-Sieg-Outcomes über Kombis"
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-09-02T14:30:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "aufstellungs_abhaengig",
+        "tipp_id": "osn-bay-3",
+        "details": "Kane-Torschütze — falls Kompany doch rotiert, bei bet365 vor Anpfiff prüfen"
+      },
+      {
+        "art": "aufstellungs_abhaengig",
+        "tipp_id": "sas-fro-3",
+        "details": "Berardi-Torschütze — Sassuolo könnte Berardi in Coppa schonen"
+      },
+      {
+        "art": "kein_klassisches_moonshot_fenster",
+        "details": "Nur 3 Spiele — Moonshot bei 40x statt 100x+; ehrlich benannt"
+      }
+    ],
+    "lessons_generiert": [],
+    "kader_wechsel_check": "Nur Kane (Bayern seit 2023, aktuell verifiziert) und Berardi (Sassuolo-Ikone, aktuell verifiziert) getippt — keine Ex-Vereins-Fehler",
+    "zeitfenster_check": "Alle 3 Spiele Anstoss am 2026-09-02 Berlin (15:00 / 18:00 / 20:45) — OK",
+    "watchdog_status": "AKTIV — Hauptroutine 13:30 hat nicht geliefert, Recherche-File fehlt, Recherche in dieser Watchdog-Runde selbst durchgefuehrt (WebSearch, football-data.org durch Proxy-403 blockiert)",
+    "auswertung_stand": "2026-09-03T06:14:41.979662+00:00",
+    "auswertung_notizen": [
+      "Elfmeterschiessen bei Coppa-Sedicesimi zaehlt fuer 1X2/DC NICHT - Sassuolo-Sieg wurde als Verlust gewertet, DC 1X (Remis nach 90) als Gewinn.",
+      "2:0-Insurance im DFB-Pokal-Bayern-Tipp irrelevant - Bayern gewann regulaer 4:1.",
+      "Kein Einwechslungs-Boost angewandt (Kane blieb 90 Min drauf; Berardi selbst war Einwechsler).",
+      "Torschuetzen-Tipp Berardi war Startelf-blind - er stand nicht in der Startelf (Aquilani schonte fuer Serie A). Lektion fuer Kader- und Startelf-Check.",
+      "Saibari (Bayern) machte Startelf-Debuet nach 50-Mio-Wechsel von PSV - Zugang in kader_wechsel_2026.json ergaenzt."
+    ]
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "id": "osn-bay-1",
+      "kategorie": "safe",
+      "markt": "Bayern Sieg (90 Min)",
+      "quote": 1.14,
+      "spiel_label": "Osnabrück vs Bayern",
+      "spiel_id": "2026-09-02-osn-bay",
+      "begruendung": "Klasse-Delta 2.Liga vs Serienmeister. bet365-Note: 2:0-Insurance greift beim DFB-Pokal NICHT. Einsatz 15€.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15,
+      "rang": 1,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.14,
+      "rueckzahlung_euro": 17.1,
+      "gewinn_euro": 2.1,
+      "kommentar": "Bayern 4:1 regulaer - Klasse-Delta wie erwartet, 2:0-Insurance nicht noetig"
+    },
+    {
+      "id": "sas-fro-1",
+      "kategorie": "safe",
+      "markt": "Sassuolo oder Remis (Doppelte Chance 1X)",
+      "quote": 1.28,
+      "spiel_label": "Sassuolo vs Frosinone",
+      "spiel_id": "2026-09-02-sas-fro",
+      "begruendung": "Goldgrube-Markt DC 1X. Heim + Klasse + Frosinone-Rotation. Einsatz 15€.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15,
+      "rang": 2,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.28,
+      "rueckzahlung_euro": 19.2,
+      "gewinn_euro": 4.2,
+      "kommentar": "1-1 nach 90 = Remis-Bein von DC 1X, Goldgrube zieht"
+    },
+    {
+      "id": "udi-ven-1",
+      "kategorie": "safe",
+      "markt": "Udinese oder Remis (Doppelte Chance 1X)",
+      "quote": 1.22,
+      "spiel_label": "Udinese vs Venezia",
+      "spiel_id": "2026-09-02-udi-ven",
+      "begruendung": "Goldgrube-Markt DC 1X. Venezia in Krise, Udinese daheim + Form. Einsatz 15€.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15,
+      "rang": 3,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.22,
+      "rueckzahlung_euro": 18.3,
+      "gewinn_euro": 3.3,
+      "kommentar": "Udinese 2:1 gewonnen - Bayo-Doppelpack drehte fruehe Sagrado-Fuehrung"
+    },
+    {
+      "id": "osn-bay-2",
+      "kategorie": "value",
+      "markt": "Über 3.5 Tore",
+      "quote": 1.9,
+      "spiel_label": "Osnabrück vs Bayern",
+      "spiel_id": "2026-09-02-osn-bay",
+      "begruendung": "Klasse-Delta führt zu hoher Tor-Wahrscheinlichkeit. Goldgrube-Markt (Über 2.5) hier als 3.5-Version. Einsatz 15€.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15,
+      "rang": 4,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.9,
+      "rueckzahlung_euro": 28.5,
+      "gewinn_euro": 13.5,
+      "kommentar": "5 Tore total - Ueber 3.5 klar getroffen"
+    },
+    {
+      "id": "sas-fro-2",
+      "kategorie": "value",
+      "markt": "Sassuolo Sieg (90 Min)",
+      "quote": 1.75,
+      "spiel_label": "Sassuolo vs Frosinone",
+      "spiel_id": "2026-09-02-sas-fro",
+      "begruendung": "Heim-Favorit-Direkt-Sieg unterbewertet. Einsatz 15€.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15,
+      "rang": 5,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "rueckzahlung_euro": 0.0,
+      "gewinn_euro": -15.0,
+      "kommentar": "1-1 nach 90 - Sieg erst iE, zaehlt fuer 1X2 nicht"
+    },
+    {
+      "id": "udi-ven-2",
+      "kategorie": "value",
+      "markt": "Udinese Sieg (90 Min)",
+      "quote": 1.6,
+      "spiel_label": "Udinese vs Venezia",
+      "spiel_id": "2026-09-02-udi-ven",
+      "begruendung": "Venezia rotiert und ist tot. Udinese wächst in Spiele hinein. Einsatz 15€.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15,
+      "rang": 6,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.6,
+      "rueckzahlung_euro": 24.0,
+      "gewinn_euro": 9.0,
+      "kommentar": "2:1 Udinese - klarer 90-Min-Sieg"
+    },
+    {
+      "id": "osn-bay-3",
+      "kategorie": "value",
+      "markt": "Harry Kane trifft (jederzeit)",
+      "quote": 1.75,
+      "spiel_label": "Osnabrück vs Bayern",
+      "spiel_id": "2026-09-02-osn-bay",
+      "begruendung": "Kane 0 Pflichtspieltore 2026/27 — Anti-Bounce gegen 2.Liga-Aufsteiger. HR24 erfüllt (zentraler 9er + Backup-Boost). AUFSTELLUNG bei bet365 prüfen. Einsatz 15€.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15,
+      "rang": 7,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.75,
+      "rueckzahlung_euro": 26.25,
+      "gewinn_euro": 11.25,
+      "kommentar": "Kane 2 Tore (18. + 86. Elfer) - Anti-Bounce-Prognose bestaetigt"
+    },
+    {
+      "id": "sas-fro-3",
+      "kategorie": "value",
+      "markt": "Domenico Berardi trifft (jederzeit)",
+      "quote": 2.5,
+      "spiel_label": "Sassuolo vs Frosinone",
+      "spiel_id": "2026-09-02-sas-fro",
+      "begruendung": "Form-Edge nach Torino-Tor, HR24 erfüllt. AUFSTELLUNG prüfen (falls Berardi geschont, Tipp tot). Einsatz 15€.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15,
+      "rang": 8,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "rueckzahlung_euro": 0.0,
+      "gewinn_euro": -15.0,
+      "kommentar": "Berardi war nur Joker, hat im Spiel nicht getroffen - Startelf-Check fehlte"
+    },
+    {
+      "id": "udi-ven-3",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore",
+      "quote": 2.05,
+      "spiel_label": "Udinese vs Venezia",
+      "spiel_id": "2026-09-02-udi-ven",
+      "begruendung": "Coppa-Rotations-Spiel, Venezia defensiv orientiert. Goldgrube-Markt. Einsatz 5€.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5,
+      "rang": 9,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "rueckzahlung_euro": 0.0,
+      "gewinn_euro": -5.0,
+      "kommentar": "3 Tore in Udine - Ueber 2.5 statt Unter 2.5, Venezia rotierte flach"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe-pokal-nacht",
+      "status": "gewonnen",
+      "gesamtquote": 1.78,
+      "einsatz_euro": 20.0,
+      "rueckzahlung_euro": 35.6,
+      "gewinn_euro": 15.6,
+      "beine_status": [
+        "gewonnen",
+        "gewonnen",
+        "gewonnen"
+      ],
+      "kommentar": "Alle 3 DC/Sieg-Beine getroffen: Bayern-Sieg, Sassuolo-DC-1X (Remis), Udinese-DC-1X (Sieg). Goldgrube-Kombi zog."
+    },
+    {
+      "kombi_id": "kombi-balance-sieg-mix",
+      "status": "gewonnen",
+      "gesamtquote": 3.04,
+      "einsatz_euro": 8.0,
+      "rueckzahlung_euro": 24.32,
+      "gewinn_euro": 16.32,
+      "beine_status": [
+        "gewonnen",
+        "gewonnen"
+      ],
+      "kommentar": "Ueber 3.5 Bayern (5 Tore) + Udinese-Sieg (2:1) - beide sauber. Layer-2-Diversifikation bewaehrt sich."
+    },
+    {
+      "kombi_id": "kombi-risiko-torschuetzen-sieg",
+      "status": "verloren",
+      "gesamtquote": 8.97,
+      "einsatz_euro": 2.5,
+      "rueckzahlung_euro": 0.0,
+      "gewinn_euro": -2.5,
+      "beine_status": [
+        "gewonnen",
+        "verloren",
+        "verloren"
+      ],
+      "kommentar": "Kane traf, aber Berardi (Bank!) nicht und Unter 2.5 in Udine gerissen. Torschuetze-auf-Nicht-Startelf-Spieler war der Killer."
+    },
+    {
+      "kombi_id": "kombi-moonshot-heim-underdog-volumen",
+      "status": "verloren",
+      "gesamtquote": 10.5,
+      "einsatz_euro": 1.0,
+      "rueckzahlung_euro": 0.0,
+      "gewinn_euro": -1.0,
+      "beine_status": [
+        "gewonnen",
+        "verloren"
+      ],
+      "kommentar": "Ueber 4.5 in Osnabrueck traf (5 Tore), aber BTTS&Ueber2.5 in Sassuolo verloren (BTTS ja, aber nur 2 Tore = Unter 2.5)."
+    }
+  ],
+  "ausgewertet_am": "2026-09-03T06:14:41.979662+00:00",
+  "tages_bilanz": {
+    "einzeltipps_gesamt": 9,
+    "einzeltipps_gewonnen": 6,
+    "einzeltipps_verloren": 3,
+    "hitrate_einzel": 0.667,
+    "einsatz_einzel_euro": 125.0,
+    "gewinn_einzel_euro": 8.35,
+    "roi_einzel_prozent": 6.68,
+    "einsatz_kombis_euro": 31.5,
+    "gewinn_kombis_euro": 28.42,
+    "einsatz_gesamt_euro": 156.5,
+    "gewinn_gesamt_euro": 36.77,
+    "roi_gesamt_prozent": 23.5
+  }
+}

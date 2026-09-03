@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-09-02T06:21:34+00:00",
+  "letzte_berechnung": "2026-09-03T06:17:41+00:00",
   "gesamt": {
     "tipps": 427,
     "gewonnen": 223,
@@ -4252,6 +4252,219 @@
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-09-02",
+      "gesamt": {
+        "tipps": 9,
+        "gewonnen": 6,
+        "verloren": 3,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 9.0,
+        "netto": 8.89,
+        "trefferquote": 66.7,
+        "roi_prozent": 98.8
+      },
+      "spiele": [
+        {
+          "id": "2026-09-02-osn-bay",
+          "liga": "DFB-Pokal 1. Runde (Nachholspiel)",
+          "heim": "VfL Osnabrück",
+          "gast": "FC Bayern München",
+          "endstand": "1:4",
+          "tipps": [
+            {
+              "markt": "Bayern Sieg (90 Min)",
+              "quote": 1.14,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.14,
+              "kommentar": "Bayern 4:1 regulaer, Klasse-Delta wie erwartet. 2:0-Insurance im DFB-Pokal NICHT anwendbar - hier aber egal, Bayern hat regulaer 90-Min-Sieg. Osnabrueck-Fuehrung nach 5' (Meissner) war Schrecksekunde, Kane 18' + Bischof 24' drehten es noch vor der Pause."
+            },
+            {
+              "markt": "Über 3.5 Tore",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.9,
+              "kommentar": "5 Tore insgesamt (1+4) - Ueber 3.5 klar durch. Klasse-Delta uebersetzte in exakt die 3-4-Tore-Sieg-Wahrscheinlichkeit, die die Begruendung ansetzte."
+            },
+            {
+              "markt": "Harry Kane trifft (jederzeit)",
+              "quote": 1.75,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.75,
+              "kommentar": "Kane traf zweimal (18' Ausgleich, 86' Elfmeter) - Anti-Bounce nach Pflichtspiel-Torpause funktionierte. Kane blieb 90 Min auf dem Platz, kein Einwechslungs-Boost noetig."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-02-sas-fro",
+          "liga": "Coppa Italia — Sedicesimi/Ottavi",
+          "heim": "US Sassuolo",
+          "gast": "Frosinone Calcio",
+          "endstand": "1:1 nach 90 Min (Sassuolo 5:4 iE)",
+          "tipps": [
+            {
+              "markt": "Sassuolo oder Remis (Doppelte Chance 1X)",
+              "quote": 1.28,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.28,
+              "kommentar": "1-1 nach 90 Min = Remis = X-Bein von DC 1X. Sassuolo im Elfmeterschiessen weiter, aber fuer die Wette zaehlen nur die 90 regulaeren Minuten - Remis reicht fuer 1X. Goldgrube-Markt DC 1X hat wieder gezogen."
+            },
+            {
+              "markt": "Sassuolo Sieg (90 Min)",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Sassuolo Direkt-Sieg (90 Min) - Spiel endete 1-1 nach 90, Sieg erst im Elfmeterschiessen. Fuer 1X2-Markt zaehlt nur die regulaere Spielzeit. Frosinone (Serie B, tief rotiert) hielt in Reggio Emilia laenger mit als erwartet, Terzic-Ausgleich in der Nachspielzeit der 1. HZ (45+2'). Overrating der Sassuolo-Heim-Klasse."
+            },
+            {
+              "markt": "Domenico Berardi trifft (jederzeit)",
+              "quote": 2.5,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Berardi hat im Spiel NICHT getroffen (nur im Elfmeterschiessen, das zaehlt nicht fuer 'trifft jederzeit'). Kritischer Fehler bei der Tipp-Vorbereitung: Berardi stand nicht in der Startelf - Aquilani schonte ihn (Serie A am WE) und liess Volpato/Bowie/Dominguez vorne beginnen. Berardi kam nur als Joker fuer Volpato. Einwechslungs-Boost greift NICHT (Boost setzt voraus, dass der getippte Spieler ausgewechselt wurde - hier war Berardi selbst der Einwechsler). Der Warn-Hinweis '_torschuetze_quelle_warn' war korrekt - Recherche haette die Bankrolle sehen muessen."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-02-udi-ven",
+          "liga": "Coppa Italia — Sedicesimi/Ottavi",
+          "heim": "Udinese Calcio",
+          "gast": "Venezia FC",
+          "endstand": "2:1",
+          "tipps": [
+            {
+              "markt": "Udinese oder Remis (Doppelte Chance 1X)",
+              "quote": 1.22,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.22,
+              "kommentar": "Udinese-Sieg 2:1 = 1-Bein von DC 1X gewonnen. Bayo-Doppelpack (34'+53') drehte die fruehe Sagrado-Fuehrung."
+            },
+            {
+              "markt": "Udinese Sieg (90 Min)",
+              "quote": 1.6,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.6,
+              "kommentar": "Udinese direkt gewonnen 2:1 - Rueckstand-Drehung durch Bayo-Doppelpack. Kein Elfmeterschiessen noetig, klarer 90-Min-Sieg."
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 2.05,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "3 Tore in Udine (2+1) - Ueber 2.5 statt Unter 2.5. Venezia rotierte nicht so tief wie erwartet, kam durch Sagrado (9') fruh in Fuehrung, Udinese antwortete offensiv. Wackel-Kategorie war ehrlich gewaehlt, aber der Coppa-Rotations-Effekt fiel bei Venezia (Krisenteam) diesmal aus."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-3er Pokal-Nacht",
+          "kategorie": "safe",
+          "gesamtquote": 1.78,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Bayern Sieg (90 Min)",
+              "quote": 1.14,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sassuolo oder Remis (Doppelte Chance 1X)",
+              "quote": 1.28,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Udinese oder Remis (Doppelte Chance 1X)",
+              "quote": 1.22,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-3er Sieg-Mix",
+          "kategorie": "balance",
+          "gesamtquote": 3.04,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Über 3.5 Tore",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Udinese Sieg (90 Min)",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-3er Torschützen + Sieg",
+          "kategorie": "risk",
+          "gesamtquote": 8.97,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Harry Kane trifft (jederzeit)",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Domenico Berardi trifft (jederzeit)",
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 2.05,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-3er Heim-Underdog + Volumen",
+          "kategorie": "moonshot",
+          "gesamtquote": 10.5,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Über 4.5 Tore",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen + Über 2.5 (BTTS & Ü2.5)",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-09-01",
       "gesamt": {
