@@ -1,0 +1,1260 @@
+{
+  "datum": "2026-09-05",
+  "erstellt_am": "2026-09-03T18:00:00+02:00",
+  "modus": "wochenende",
+  "hinweis": "🐚 Wochenend-Vorschau Sa 5.9. + So 6.9.2026 (Do 18:00, Saison 2026/27). Slate: Bundesliga MD2 (5 Spiele im Sa-So-Fenster) + Premier League MW3 (9 Spiele Sa+So) + Serie A 3ª (5 Spiele Sa+So) + LaLiga J4 (So). Fokus: 9 Handverlesene Kern-Spiele über die drei Top-Ligen (BL, PL, Serie A). Kasse-Stufe 1 (Saison-Kasse 1000€, 1-2% pro Einzeltipp = 10-20€). Kontext: Länderspielpause ist VOR-Fenster (das eigentliche September-Nations-League-Fenster startet erst 24.9.), alle Vereins-Ligen spielen dieses Wochenende normal — Nationalspieler-Rückkehrer trotzdem in Aufstellungs-Vorschau prüfen (kicker.de/premierleague.com ~60 Min vor Anpfiff). Markt-Goldgrube DC X2 (77.1% Hit, +27.5% ROI n=35) und Unter 2.5 (72% Hit, +22.3% ROI n=25) aktiv gesucht. HR22 (Newcastle-Umbruch) und HR24 (Torschützen-Form-Pflicht) beachtet — deshalb wenige harte Torschützen-SAFE. 2:0-Insurance-Hinweis: gilt nur Bundesliga + CL — in PL und Serie A NICHT (bei Arsenal-Chelsea, Inter-Napoli, Juve-Milan explizit erwähnt).",
+  "spiele": [
+    {
+      "id": "2026-09-05-hof-bvb",
+      "liga": "Bundesliga 2026/27 - Matchday 2",
+      "heim": "TSG Hoffenheim",
+      "gast": "Borussia Dortmund",
+      "anstoss": "2026-09-05T15:30:00+02:00",
+      "stadion": "PreZero Arena, Sinsheim",
+      "saison_kontext": {
+        "parallel_heim": "keine — Hoffenheim ohne Europa, MD2 als Fokus-Spiel nach MD1",
+        "parallel_gast": "keine — BVB CL-Ligaphase startet erst 16./17.09. (MD1), diese Woche reine Liga-Woche",
+        "saisonziel_heim": "TSG-Mittelfeld / obere Tabellenhälfte, kein Europa-Druck",
+        "saisonziel_gast": "BVB Titel-/CL-Podest-Ambition (Vizemeister 25/26), Antwort auf Supercup-Pleite + MD1-Ergebnis",
+        "motivations_asymmetrie": "Klare Qualitäts-Asymmetrie: BVB als CL-Team mit Titel-Anspruch gegen TSG-Mittelfeld. BVB frisch aus Länderspielpause (kein CL-Vorlauf diese Woche), Klassen-Edge hoch — aber PreZero ist historisch keine BVB-Wohlfühlbude.",
+        "recovery_heim": "13 Tage seit MD1 (Länderspielpause), voll ausgeruht",
+        "recovery_gast": "13 Tage seit MD1, nach Länderspielpause frisch; keine englische Woche vorher",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/news/ansetzungen-spieltage-termine-zeitgenau-dfl-24024",
+          "https://www.kicker.de/tsg-hoffenheim/spielplan/verein",
+          "https://www.kicker.de/borussia-dortmund/spielplan/verein",
+          "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures/"
+        ]
+      },
+      "news": [
+        "Länderspielpause vorbei — beide Teams komplett ausgeruht, Aufstellungs-Check trotzdem Pflicht (Nationalspieler-Rückkehrer)",
+        "BVB-Sturm: Guirassy #9 (Adeyemi im Juli zu Barcelona weg — NICHT mehr für BVB tippen), dazu Fabio Silva/Beier/Karetsas/Konstantelias als Optionen",
+        "TSG-Heimbilanz gegen Top-6 zuletzt zäh, Signale für offene Partie (Ueber 2.5 historisch stark bei BVB-Auswärts)",
+        "Aggregator-Quoten (bet365 live prüfen): BVB-Sieg ~1.75-1.90, DC X2 ~1.20-1.25, Ueber 2.5 ~1.55-1.65, BTTS ~1.60-1.70, Guirassy-Tor ~1.90-2.10"
+      ],
+      "tipps": [
+        {
+          "id": "hof-bvb-1",
+          "kategorie": "safe",
+          "markt": "Dortmund oder Remis (Doppelte Chance)",
+          "quote": 1.22,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 4,
+          "faire_quote": 1.17,
+          "begruendung": "DC X2 ist Markt-Goldgrube (77.1% Hit / +27.5% ROI n=35). BVB frisch aus Länderspielpause, Klassen-Edge klar, TSG zuhause selten für BVB-Pleiten gut. Stufe 1: 1.5% = 15€.",
+          "layer_2_tag": "hof-bvb_sieg_bvb"
+        },
+        {
+          "id": "hof-bvb-2",
+          "kategorie": "value",
+          "markt": "Torschütze jederzeit: Serhou Guirassy",
+          "quote": 1.95,
+          "einsatz_euro": 10.0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "edge_prozent": 6,
+          "faire_quote": 1.83,
+          "begruendung": "HR24-Konform: Guirassy ist zentraler 9er mit Backup-Stürmer-Qualität (Einwechslungs-Boost bei Fabio Silva/Beier). Torschützen-Jederzeit ist Goldgrube (50% Hit / +24.4% ROI historisch). Aufstellung live prüfen (kicker.de ~60 Min vor Anpfiff)."
+        },
+        {
+          "id": "hof-bvb-3",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.62,
+          "einsatz_euro": 12.0,
+          "empfohlener_einsatz_prozent": 1.2,
+          "edge_prozent": 5,
+          "faire_quote": 1.54,
+          "begruendung": "Über 2.5 ist aktuell Markt-Goldgrube (55.9% Hit / +18.5% ROI n=36). BVB-Auswärts bringt Tempo, TSG offensiv nie richtig defensiv gefestigt. Beidseitige Offensive spricht dafür."
+        },
+        {
+          "id": "hof-bvb-4",
+          "kategorie": "wackel",
+          "markt": "Sieg Borussia Dortmund (90 Min)",
+          "quote": 1.85,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.8,
+          "begruendung": "2:0-Insurance-Regel greift (Bundesliga, direkter Sieg-Tipp): führt BVB zwischenzeitlich 2:0, ist der Tipp durch — auch bei späteren TSG-Toren. Trotzdem nur wackel weil PreZero unberechenbar."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-05-b04-uni",
+      "liga": "Bundesliga 2026/27 - Matchday 2",
+      "heim": "Bayer 04 Leverkusen",
+      "gast": "1. FC Union Berlin",
+      "anstoss": "2026-09-05T15:30:00+02:00",
+      "stadion": "BayArena, Leverkusen",
+      "saison_kontext": {
+        "parallel_heim": "keine — Bayer CL-Ligaphase erst 16./17.09.",
+        "parallel_gast": "keine — Union Berlin ohne Europa in 26/27",
+        "saisonziel_heim": "Bayer Titel-/CL-Podest, Alonso-Nachfolger-Trainer (kicker.de für aktuellen Coach)",
+        "saisonziel_gast": "Union Klassenerhalt / Mittelfeld, jede Auswärts-Punktausbeute wertvoll",
+        "motivations_asymmetrie": "Klassen-Edge klar für Bayer, aber Union ist historisch defensiv-diszipliniert und bringt Bayer regelmäßig ins Grübeln — Unter-2.5-Kandidat gegen einen Titel-Aspiranten.",
+        "recovery_heim": "13 Tage seit MD1 (Länderspielpause), frisch",
+        "recovery_gast": "13 Tage seit MD1, frisch",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/news/ansetzungen-spieltage-termine-zeitgenau-dfl-24024",
+          "https://www.kicker.de/bayer-leverkusen/spielplan/verein",
+          "https://www.kicker.de/1-fc-union-berlin/spielplan/verein"
+        ]
+      },
+      "news": [
+        "Bayer-Transfers: Alajbegovic weg (Juve), Afonso Moreira + Miguel Gutierrez neu — Aufstellungs-Vorschau kicker.de checken",
+        "Union defensiv-orientiert, gegen Top-4 zuletzt sehr niedrige xG-Werte",
+        "Aggregator-Quoten (bet365 live prüfen): Bayer-Sieg ~1.35-1.45, DC 1X ~1.05-1.08, Unter 2.5 ~1.85-1.95, BTTS-Nein ~1.85-1.95"
+      ],
+      "tipps": [
+        {
+          "id": "b04-uni-1",
+          "kategorie": "value",
+          "markt": "Bayer oder Remis (Doppelte Chance)",
+          "quote": 1.07,
+          "einsatz_euro": 20.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "edge_prozent": 3,
+          "faire_quote": 1.04,
+          "begruendung": "DC 1X als Goldgrube-Absicherung. Bayer zuhause gegen defensive Union — Niederlage historisch extrem selten. Kasse-Stufe 1: 2% = 20€. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
+          "layer_2_tag": "b04-uni_sieg_bayer",
+          "_markt_mix_dc_downgrade": true
+        },
+        {
+          "id": "b04-uni-2",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.9,
+          "einsatz_euro": 12.0,
+          "empfohlener_einsatz_prozent": 1.2,
+          "edge_prozent": 8,
+          "faire_quote": 1.75,
+          "begruendung": "Unter 2.5 Markt-Goldgrube (72% Hit / +22.3% ROI n=25). Union kompakt-defensiv, gegen Titel-Aspiranten selten viele Tore auf beiden Seiten. Bayer bricht Union oft mit Standards/Individualaktion, nicht mit Torfestival."
+        },
+        {
+          "id": "b04-uni-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen: Nein",
+          "quote": 1.9,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 4,
+          "faire_quote": 1.82,
+          "begruendung": "Union hat auswärts oft null Torgefahr, gerade bei Rückstand kompaktes 4-4-2. BTTS-Nein passt zum Unter-2.5-Narrativ."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-06-hsv-m05",
+      "liga": "Bundesliga 2026/27 - Matchday 2",
+      "heim": "Hamburger SV",
+      "gast": "1. FSV Mainz 05",
+      "anstoss": "2026-09-06T15:30:00+02:00",
+      "stadion": "Volksparkstadion, Hamburg",
+      "saison_kontext": {
+        "parallel_heim": "keine — HSV Aufsteiger, kein Europa",
+        "parallel_gast": "keine — Mainz Conference-League-Playoff verpasst (falls einer war), reine BL-Fokussierung",
+        "saisonziel_heim": "HSV Klassenerhalt (Aufsteiger); jedes Heim-Punktepolster gegen Mittelfeld wertvoll",
+        "saisonziel_gast": "Mainz oberes Mittelfeld / Europa-Hoffnung, Auswärts-Stabilität war 25/26 ihre Stärke",
+        "motivations_asymmetrie": "Aufsteiger im Volksparkstadion vs eingespielter BL-Establisher. Motivation beidseits hoch, Klasse-Edge leicht bei Mainz — Coinflip-Signal.",
+        "recovery_heim": "13 Tage seit MD1 (Länderspielpause), voll ausgeruht",
+        "recovery_gast": "13 Tage seit MD1, frisch",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/news/ansetzungen-spieltage-termine-zeitgenau-dfl-24024",
+          "https://www.kicker.de/hamburger-sv/spielplan/verein",
+          "https://www.kicker.de/fsv-mainz-05/spielplan/verein"
+        ]
+      },
+      "news": [
+        "Volksparkstadion voll — Aufsteiger-Euphorie hält an (nach MD1 vs BVB)",
+        "Mainz-Auswärts historisch solide, kompakter 4-2-3-1 unter Aktuell-Trainer (kicker.de checken)",
+        "Aggregator-Quoten (bet365 live prüfen): HSV-Sieg ~2.85-3.05, Remis ~3.30-3.50, Mainz-Sieg ~2.30-2.50, DC X2 ~1.30-1.35, Ueber 2.5 ~1.90-2.05"
+      ],
+      "tipps": [
+        {
+          "id": "hsv-m05-1",
+          "kategorie": "value",
+          "markt": "Mainz oder Remis (Doppelte Chance)",
+          "quote": 1.33,
+          "einsatz_euro": 12.0,
+          "empfohlener_einsatz_prozent": 1.2,
+          "edge_prozent": 5,
+          "faire_quote": 1.27,
+          "begruendung": "DC X2 als Markt-Goldgrube (77.1% Hit / +27.5% ROI n=35). Mainz Klassen-Edge leicht, HSV-Aufsteiger im Volkspark verkauft sich teurer als er ist. Auswärts-Stabilität Mainz stark.",
+          "layer_2_tag": "hsv-m05_sieg_mainz"
+        },
+        {
+          "id": "hsv-m05-2",
+          "kategorie": "wackel",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.35,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 2,
+          "faire_quote": 1.32,
+          "begruendung": "HSV-Neuling + Mainz kompakt — kein Torfestival zu erwarten. Coinflip-Spiel, deshalb nur wackel, keine SAFE."
+        },
+        {
+          "id": "hsv-m05-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.8,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.72,
+          "begruendung": "Mainz trifft auswärts fast immer 1x, HSV-Heim mit Volkspark-Push ebenfalls 1+ Tor plausibel. Coinflip-Spiel — bewusst nur wackel."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-05-new-bou",
+      "liga": "Premier League 2026/27 - Matchweek 3",
+      "heim": "Newcastle United",
+      "gast": "AFC Bournemouth",
+      "anstoss": "2026-09-05T13:30:00+02:00",
+      "stadion": "St. James' Park, Newcastle",
+      "saison_kontext": {
+        "parallel_heim": "keine — Newcastle CL-Ligaphase erst ab 16./17.09.",
+        "parallel_gast": "keine — Bournemouth ohne Europa in 26/27",
+        "saisonziel_heim": "Newcastle CL-Quali / Champions-League-Ligaphase, Umbruch nach Isak/Gordon/Tonali/Guimaraes-Abgängen",
+        "saisonziel_gast": "Bournemouth Mittelfeld / Europa-Hoffnung, unter Aktuell-Trainer offensiv-progressiv",
+        "motivations_asymmetrie": "Newcastle-Heim mit St. James' Park-Faktor gegen Bournemouth-Auswärts-Rolle. Aber Newcastle-Kader gerade umgebaut (Isak/Gordon/Tonali/Guimaraes WEG, Woltemade/Wissa/Elanga NEU) — Findungs-Phase, Klassen-Edge kleiner als sonst.",
+        "recovery_heim": "13 Tage seit MW2 (Länderspielpause), frisch — Nationalspieler-Rückkehrer beachten",
+        "recovery_gast": "13 Tage seit MW2, frisch",
+        "quellen": [
+          "https://www.premierleague.com/en/matches/premier-league/2026-27/matchweek-3",
+          "https://www.premierleague.com/en/transfers/2026-27/summer",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_in_English_football"
+        ]
+      },
+      "news": [
+        "Newcastle-Kader neu: Woltemade (ex-Stuttgart), Wissa (ex-Brentford), Elanga (ex-Forest) kamen für Isak/Gordon-Verlust — noch nicht eingespielt",
+        "Bournemouth-Auswärts unter aktuellem Trainer offensiv-progressiv, keine Tor-Krise",
+        "Aggregator-Quoten (bet365 live prüfen): Newcastle-Sieg ~1.65-1.80, DC 1X ~1.15-1.20, Bournemouth-Sieg ~4.50-5.00, Ueber 2.5 ~1.75-1.85, BTTS ~1.65-1.75"
+      ],
+      "tipps": [
+        {
+          "id": "new-bou-1",
+          "kategorie": "wackel",
+          "markt": "Newcastle oder Remis (Doppelte Chance)",
+          "quote": 1.18,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 4,
+          "faire_quote": 1.13,
+          "begruendung": "DC 1X als Goldgrube-Anwendung (Heim-Fav + Auswärts-Underdog ohne CL-Belastung). St. James' Park liefert gegen Mittelfeld-Teams. Umbruch-Risiko rechtfertigt kein direktes SAFE-Sieg-Ticket, DC deckt Remis ab. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value] [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
+          "layer_2_tag": "new-bou_sieg_newcastle",
+          "_saison_kontext_sanity_downgrade": true
+        },
+        {
+          "id": "new-bou-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.8,
+          "einsatz_euro": 10.0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "edge_prozent": 6,
+          "faire_quote": 1.69,
+          "begruendung": "Ueber 2.5 Markt-Goldgrube (55.9% Hit / +18.5% ROI n=36). Bournemouth-Auswärts trifft konstant, Newcastle-Heim ebenso. Umbruch-Defensive Newcastle könnte anfällig sein."
+        },
+        {
+          "id": "new-bou-3",
+          "kategorie": "wackel",
+          "markt": "Torschütze jederzeit: Nick Woltemade",
+          "quote": 2.6,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 4,
+          "faire_quote": 2.5,
+          "begruendung": "Woltemade als neue Newcastle-Nummer-9 gegen Bournemouth-Defense, Einwechslungs-Boost via Wissa möglich. HR24: neuer 9er, Form-Edge noch nicht bestätigt — deshalb nur wackel. Aufstellung live prüfen."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-05-mci-cov",
+      "liga": "Premier League 2026/27 - Matchweek 3",
+      "heim": "Manchester City",
+      "gast": "Coventry City",
+      "anstoss": "2026-09-05T16:00:00+02:00",
+      "stadion": "Etihad Stadium, Manchester",
+      "saison_kontext": {
+        "parallel_heim": "keine — City CL-Ligaphase erst ab 16./17.09.",
+        "parallel_gast": "keine — Coventry (Aufsteiger, wenn Wiki bestätigt) ohne Europa",
+        "saisonziel_heim": "City Titel-Kandidat, unter Guardiola (aktuell prüfen) Standard-Führungsrolle",
+        "saisonziel_gast": "Coventry (mutmaßl. Aufsteiger) Klassenerhalt, jede Auswärts-Punktausbeute Bonus",
+        "motivations_asymmetrie": "Extreme Klassen-Asymmetrie. City-Heim gegen Aufsteiger — historisch klare Sache. Ohne CL-Belastung sogar Stamm-Elf möglich.",
+        "recovery_heim": "13 Tage seit MW2 (Länderspielpause)",
+        "recovery_gast": "13 Tage seit MW2, frisch",
+        "quellen": [
+          "https://www.premierleague.com/en/matches/premier-league/2026-27/matchweek-3",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Coventry_City_F.C._season",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League"
+        ]
+      },
+      "news": [
+        "City-Transfers: De Bruyne weg (Napoli), Marc Guehi + Elliot Anderson NEU — Umbau abgeschlossen",
+        "Coventry-Aufsteiger im Etihad — historisch enge Wette gegen City-Sieg selten sinnvoll",
+        "Aggregator-Quoten (bet365 live prüfen): City-Sieg ~1.20-1.25, Coventry-Sieg ~14.0+, Ueber 2.5 ~1.35-1.45, City -2.5 Handicap ~1.90-2.05"
+      ],
+      "tipps": [
+        {
+          "id": "mci-cov-1",
+          "kategorie": "value",
+          "markt": "Manchester City oder Remis (Doppelte Chance)",
+          "quote": 1.03,
+          "einsatz_euro": 20.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "edge_prozent": 2,
+          "faire_quote": 1.02,
+          "begruendung": "DC 1X als absolute Grund-Absicherung. City verliert im Etihad gegen Aufsteiger extrem selten. Quote ist Insurance-Level. Kasse-Stufe 1: 2% = 20€. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
+          "layer_2_tag": "mci-cov_sieg_city",
+          "_markt_mix_dc_downgrade": true
+        },
+        {
+          "id": "mci-cov-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.4,
+          "einsatz_euro": 12.0,
+          "empfohlener_einsatz_prozent": 1.2,
+          "edge_prozent": 5,
+          "faire_quote": 1.33,
+          "begruendung": "Ueber 2.5 Markt-Goldgrube. City-Heim gegen Aufsteiger — historisch >75% Ueber-Rate. City-Angriff trifft auch ohne De Bruyne konstant."
+        },
+        {
+          "id": "mci-cov-3",
+          "kategorie": "wackel",
+          "markt": "Torschütze jederzeit: Erling Haaland",
+          "quote": 1.35,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.31,
+          "begruendung": "Haaland-Torschützen-Tipp gegen Aufsteiger im Etihad — historisch Standard. Aufstellung/Nationalspieler-Rückkehr live prüfen, deshalb formal wackel (nicht safe wegen Rotation-Risiko nach Länderspiel)."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-06-ars-che",
+      "liga": "Premier League 2026/27 - Matchweek 3",
+      "heim": "Arsenal FC",
+      "gast": "Chelsea FC",
+      "anstoss": "2026-09-06T17:30:00+02:00",
+      "stadion": "Emirates Stadium, London",
+      "saison_kontext": {
+        "parallel_heim": "keine — Arsenal CL-Ligaphase erst ab 16./17.09.",
+        "parallel_gast": "keine — Chelsea Europa-Wettbewerb (falls Conference/EL) erst 24.09.",
+        "saisonziel_heim": "Arsenal Titel-Anspruch (Vorsaison-Kontender), unter Aktuell-Trainer offensiv-progressiv",
+        "saisonziel_gast": "Chelsea Titel-Kandidat, Xabi Alonso als neuer Trainer (bestätigt via kader_wechsel_2026.json), taktischer Umbruch",
+        "motivations_asymmetrie": "London-Derby Top-Kandidaten gegeneinander. Chelsea unter Alonso in Findungsphase, Arsenal-Heim ausverkauft und eingespielt. Klassen-Edge leicht Arsenal — Coinflip-nahe Big-Match, kein SAFE-Territorium.",
+        "recovery_heim": "13 Tage seit MW2 (Länderspielpause)",
+        "recovery_gast": "13 Tage seit MW2, frisch",
+        "quellen": [
+          "https://www.premierleague.com/en/matches/premier-league/2026-27/matchweek-3",
+          "https://www.chelseafc.com/en/news/article/xabi-alonso-appointed-chelsea-manager",
+          "https://www.premierleague.com/en/transfers/2026-27/summer"
+        ]
+      },
+      "news": [
+        "Arsenal-Transfers: Bruno Guimaraes NEU (ex-Newcastle), Hincapie NEU (ex-Leverkusen), Norgaard weg (Everton)",
+        "Chelsea-Transfers: Nicolas Jackson weg (Villa), Morgan Rogers + Lacroix NEU; Xabi Alonso als Trainer",
+        "Big-Match: 2:0-Insurance gilt in PL NICHT (nur BL + CL). Direkter Sieg-Tipp deshalb ohne Netz.",
+        "Aggregator-Quoten (bet365 live prüfen): Arsenal-Sieg ~1.85-2.00, Remis ~3.60-3.80, Chelsea-Sieg ~3.70-4.20, Ueber 2.5 ~1.75-1.85, BTTS ~1.65-1.75"
+      ],
+      "tipps": [
+        {
+          "id": "ars-che-1",
+          "kategorie": "value",
+          "markt": "Arsenal oder Remis (Doppelte Chance)",
+          "quote": 1.28,
+          "einsatz_euro": 10.0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "edge_prozent": 4,
+          "faire_quote": 1.23,
+          "begruendung": "DC 1X als Goldgrube-Absicherung. Emirates gegen Chelsea historisch stabil, Alonso-Chelsea in Findungsphase. Big-Match — direkter Sieg zu riskant ohne 2:0-Insurance (PL).",
+          "layer_2_tag": "ars-che_sieg_arsenal"
+        },
+        {
+          "id": "ars-che-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.72,
+          "einsatz_euro": 10.0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "edge_prozent": 5,
+          "faire_quote": 1.63,
+          "begruendung": "London-Derby, beide offensiv stark aufgestellt (Arsenal Saka/Havertz, Chelsea Palmer/Rogers). BTTS bei Top-Duellen historisch >65% — passt zum Narrativ."
+        },
+        {
+          "id": "ars-che-3",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.8,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.75,
+          "begruendung": "Big-Match-Kontext: taktisch enger, aber beide Angriffe stark. Ueber 2.5 auf wackel weil Alonso-Chelsea evtl. defensiv-vorsichtig einsteigt."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-06-eve-mun",
+      "liga": "Premier League 2026/27 - Matchweek 3",
+      "heim": "Everton FC",
+      "gast": "Manchester United",
+      "anstoss": "2026-09-06T15:00:00+02:00",
+      "stadion": "Hill Dickinson Stadium, Liverpool (falls neuer EFC-Ground schon offiziell — sonst Goodison Park)",
+      "saison_kontext": {
+        "parallel_heim": "keine — Everton ohne Europa",
+        "parallel_gast": "keine — United Europa-Wettbewerb erst ab 24.09.",
+        "saisonziel_heim": "Everton Klassenerhalt-Plus / obere Mitte; Norgaard NEU (ex-Arsenal) verstärkt Zentrum",
+        "saisonziel_gast": "United CL-Quali-Anspruch, unter Aktuell-Trainer (kicker/wiki live prüfen) Findungsphase",
+        "motivations_asymmetrie": "Everton-Heim gegen wechselhaftes United — kein klarer Favorit, Klassen-Edge leicht United, aber Auswärts-Instabilität hoch. Coinflip-nahe.",
+        "recovery_heim": "13 Tage seit MW2 (Länderspielpause), frisch",
+        "recovery_gast": "13 Tage seit MW2, frisch",
+        "quellen": [
+          "https://www.premierleague.com/en/matches/premier-league/2026-27/matchweek-3",
+          "https://www.premierleague.com/en/transfers/2026-27/summer"
+        ]
+      },
+      "news": [
+        "Everton-Neuzugang: Norgaard (ex-Arsenal) im Mittelfeld",
+        "United-Auswärts wechselhaft, Klassen-Edge nicht in eindeutigen Zahlen",
+        "Aggregator-Quoten (bet365 live prüfen): Everton-Sieg ~3.40-3.70, Remis ~3.30-3.50, United-Sieg ~2.05-2.20, DC X2 ~1.30-1.40, Unter 2.5 ~1.90-2.05"
+      ],
+      "tipps": [
+        {
+          "id": "eve-mun-1",
+          "kategorie": "wackel",
+          "markt": "United oder Remis (Doppelte Chance)",
+          "quote": 1.35,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.31,
+          "begruendung": "Coinflip-Spiel — kein SAFE-Territorium. United-Auswärts-Instabilität rechtfertigt kein VALUE, aber DC X2 als Absicherung. Bewusst wackel.",
+          "layer_2_tag": "eve-mun_sieg_united"
+        },
+        {
+          "id": "eve-mun-2",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.95,
+          "einsatz_euro": 10.0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "edge_prozent": 7,
+          "faire_quote": 1.82,
+          "begruendung": "Unter 2.5 Markt-Goldgrube (72% Hit / +22.3% ROI n=25). Everton-Heim historisch niedrige Ergebnisse, United auswärts oft zäh. Beidseitig kein Torfestival-Signal."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-05-int-nap",
+      "liga": "Serie A 2026/27 - 3ª giornata",
+      "heim": "Inter Mailand",
+      "gast": "SSC Napoli",
+      "anstoss": "2026-09-05T18:00:00+02:00",
+      "stadion": "Giuseppe-Meazza, Mailand",
+      "saison_kontext": {
+        "parallel_heim": "keine — Inter CL-Ligaphase erst 16./17.09.",
+        "parallel_gast": "keine — Napoli Europa-Wettbewerb erst später im September",
+        "saisonziel_heim": "Inter Scudetto-Titel-Kandidat / CL-Podest",
+        "saisonziel_gast": "Napoli Scudetto-Titel-Kandidat (Meister zuvor?), De Bruyne NEU als Spielmacher",
+        "motivations_asymmetrie": "Absolutes Serie-A-Top-Spiel. Beide Titel-Kandidaten, Klassen-Edge quasi null. Coinflip-Big-Match — SAFE ausgeschlossen.",
+        "recovery_heim": "13 Tage seit 2ª giornata (Länderspielpause), frisch",
+        "recovery_gast": "13 Tage seit 2ª giornata, frisch",
+        "quellen": [
+          "https://en.legaseriea.it/serie-a/",
+          "https://www.gazzetta.it/Calcio/Serie-A/Calendario/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A"
+        ]
+      },
+      "news": [
+        "Napoli-Transfer: Kevin De Bruyne NEU (ex-Man City) als Spielmacher; Lukaku weg (Fenerbahce)",
+        "Inter mit stabilem Kader, Titel-Aspirations-Modus",
+        "Aggregator-Quoten (bet365 live prüfen): Inter-Sieg ~2.05-2.20, Remis ~3.30-3.60, Napoli-Sieg ~3.30-3.70, Ueber 2.5 ~1.85-1.95, BTTS ~1.75-1.85, Unter 2.5 ~1.90-2.05"
+      ],
+      "tipps": [
+        {
+          "id": "int-nap-1",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.78,
+          "einsatz_euro": 10.0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "edge_prozent": 5,
+          "faire_quote": 1.69,
+          "begruendung": "Top-Duell, beide Angriffe elite (Inter Lautaro/Thuram, Napoli Lukaku-Nachfolger/De-Bruyne-Kreativ-Push). BTTS historisch bei Inter-Napoli >60%."
+        },
+        {
+          "id": "int-nap-2",
+          "kategorie": "wackel",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.42,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.38,
+          "begruendung": "Serie-A-Top-Duell taktisch eng, beide 4-3-3 mit Kontrolle. Klassiker geht selten über 3 Tore hinaus."
+        },
+        {
+          "id": "int-nap-3",
+          "kategorie": "wackel",
+          "markt": "Torschütze jederzeit: Lautaro Martinez",
+          "quote": 2.3,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 4,
+          "faire_quote": 2.2,
+          "begruendung": "Lautaro als Inter-Nummer-9 im Meazza gegen Napoli, historisch treffsicher. HR24-Konform. Big-Match: wackel statt value wegen Marker-Wahrscheinlichkeit."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-06-juv-mil",
+      "liga": "Serie A 2026/27 - 3ª giornata",
+      "heim": "Juventus Turin",
+      "gast": "AC Milan",
+      "anstoss": "2026-09-06T20:45:00+02:00",
+      "stadion": "Allianz Stadium, Turin",
+      "saison_kontext": {
+        "parallel_heim": "keine — Juventus CL-Ligaphase erst 16./17.09.",
+        "parallel_gast": "keine — Milan Europa-Wettbewerb erst später im September",
+        "saisonziel_heim": "Juve Scudetto-Konkurrenz / CL-Quali; Neuzugang Alajbegovic (ex-Leverkusen)",
+        "saisonziel_gast": "Milan Scudetto-Konkurrenz / CL-Quali; Goncalo Ramos NEU (ex-PSG)",
+        "motivations_asymmetrie": "Klassiker Juve-Milan im Allianz Stadium — beide Top-4-Aspiranten. Klassen-Edge minimal Juve-Heim. Coinflip-Big-Match.",
+        "recovery_heim": "13 Tage seit 2ª giornata (Länderspielpause), frisch",
+        "recovery_gast": "13 Tage seit 2ª giornata, frisch",
+        "quellen": [
+          "https://en.legaseriea.it/serie-a/",
+          "https://www.gazzetta.it/Calcio/Serie-A/Calendario/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A"
+        ]
+      },
+      "news": [
+        "Milan-Transfer: Goncalo Ramos NEU (ex-PSG) als Sturmspitze; Jovic weg (AEK)",
+        "Juve mit stabilem Kader plus Alajbegovic-Zugang",
+        "Aggregator-Quoten (bet365 live prüfen): Juve-Sieg ~2.20-2.35, Remis ~3.30-3.60, Milan-Sieg ~3.10-3.40, Ueber 2.5 ~1.90-2.05, BTTS ~1.75-1.85"
+      ],
+      "tipps": [
+        {
+          "id": "juv-mil-1",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.8,
+          "einsatz_euro": 10.0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "edge_prozent": 5,
+          "faire_quote": 1.71,
+          "begruendung": "Klassiker mit beiderseits offensiven Optionen. BTTS bei Juve-Milan historisch >60%. Coinflip-Sieg-Markt macht BTTS attraktiver als direktes 1X2."
+        },
+        {
+          "id": "juv-mil-2",
+          "kategorie": "wackel",
+          "markt": "Juventus oder Remis (Doppelte Chance)",
+          "quote": 1.3,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 2,
+          "faire_quote": 1.27,
+          "begruendung": "Heim-Vorteil Allianz Stadium plus Kader-Stabilität. Coinflip, deshalb wackel — kein VALUE-Territorium.",
+          "layer_2_tag": "juv-mil_sieg_juve"
+        },
+        {
+          "id": "juv-mil-3",
+          "kategorie": "wackel",
+          "markt": "Torschütze jederzeit: Dusan Vlahovic",
+          "quote": 2.6,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 2.52,
+          "begruendung": "Vlahovic als Juve-Nummer-9 (Kader live prüfen — Trikot-Nummer/Startelf) im Klassiker, historisch treffsicher in großen Spielen. HR24 knapp erfüllt."
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "spiel_id": "2026-09-05-hof-bvb",
+      "spiel_label": "TSG Hoffenheim vs Borussia Dortmund",
+      "liga": "Bundesliga 2026/27 - Matchday 2",
+      "anstoss": "2026-09-05T15:30:00+02:00",
+      "id": "hof-bvb-1",
+      "kategorie": "safe",
+      "markt": "Dortmund oder Remis (Doppelte Chance)",
+      "quote": 1.22,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "edge_prozent": 4,
+      "faire_quote": 1.17,
+      "begruendung": "DC X2 ist Markt-Goldgrube (77.1% Hit / +27.5% ROI n=35). BVB frisch aus Länderspielpause, Klassen-Edge klar, TSG zuhause selten für BVB-Pleiten gut. Stufe 1: 1.5% = 15€.",
+      "layer_2_tag": "hof-bvb_sieg_bvb",
+      "rang": 1
+    },
+    {
+      "spiel_id": "2026-09-05-new-bou",
+      "spiel_label": "Newcastle United vs AFC Bournemouth",
+      "liga": "Premier League 2026/27 - Matchweek 3",
+      "anstoss": "2026-09-05T13:30:00+02:00",
+      "id": "new-bou-1",
+      "kategorie": "safe",
+      "markt": "Newcastle oder Remis (Doppelte Chance)",
+      "quote": 1.18,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "edge_prozent": 4,
+      "faire_quote": 1.13,
+      "begruendung": "DC 1X als Goldgrube-Anwendung (Heim-Fav + Auswärts-Underdog ohne CL-Belastung). St. James' Park liefert gegen Mittelfeld-Teams. Umbruch-Risiko rechtfertigt kein direktes SAFE-Sieg-Ticket, DC deckt Remis ab.",
+      "layer_2_tag": "new-bou_sieg_newcastle",
+      "rang": 2
+    },
+    {
+      "spiel_id": "2026-09-05-b04-uni",
+      "spiel_label": "Bayer 04 Leverkusen vs 1. FC Union Berlin",
+      "liga": "Bundesliga 2026/27 - Matchday 2",
+      "anstoss": "2026-09-05T15:30:00+02:00",
+      "id": "b04-uni-1",
+      "kategorie": "safe",
+      "markt": "Bayer oder Remis (Doppelte Chance)",
+      "quote": 1.07,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "edge_prozent": 3,
+      "faire_quote": 1.04,
+      "begruendung": "DC 1X als Goldgrube-Absicherung. Bayer zuhause gegen defensive Union — Niederlage historisch extrem selten. Kasse-Stufe 1: 2% = 20€.",
+      "layer_2_tag": "b04-uni_sieg_bayer",
+      "rang": 3
+    },
+    {
+      "spiel_id": "2026-09-05-mci-cov",
+      "spiel_label": "Manchester City vs Coventry City",
+      "liga": "Premier League 2026/27 - Matchweek 3",
+      "anstoss": "2026-09-05T16:00:00+02:00",
+      "id": "mci-cov-1",
+      "kategorie": "safe",
+      "markt": "Manchester City oder Remis (Doppelte Chance)",
+      "quote": 1.03,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "edge_prozent": 2,
+      "faire_quote": 1.02,
+      "begruendung": "DC 1X als absolute Grund-Absicherung. City verliert im Etihad gegen Aufsteiger extrem selten. Quote ist Insurance-Level. Kasse-Stufe 1: 2% = 20€.",
+      "layer_2_tag": "mci-cov_sieg_city",
+      "rang": 4
+    },
+    {
+      "spiel_id": "2026-09-05-b04-uni",
+      "spiel_label": "Bayer 04 Leverkusen vs 1. FC Union Berlin",
+      "liga": "Bundesliga 2026/27 - Matchday 2",
+      "anstoss": "2026-09-05T15:30:00+02:00",
+      "id": "b04-uni-2",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.9,
+      "einsatz_euro": 12.0,
+      "empfohlener_einsatz_prozent": 1.2,
+      "edge_prozent": 8,
+      "faire_quote": 1.75,
+      "begruendung": "Unter 2.5 Markt-Goldgrube (72% Hit / +22.3% ROI n=25). Union kompakt-defensiv, gegen Titel-Aspiranten selten viele Tore auf beiden Seiten. Bayer bricht Union oft mit Standards/Individualaktion, nicht mit Torfestival.",
+      "rang": 5
+    },
+    {
+      "spiel_id": "2026-09-06-eve-mun",
+      "spiel_label": "Everton FC vs Manchester United",
+      "liga": "Premier League 2026/27 - Matchweek 3",
+      "anstoss": "2026-09-06T15:00:00+02:00",
+      "id": "eve-mun-2",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.95,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "edge_prozent": 7,
+      "faire_quote": 1.82,
+      "begruendung": "Unter 2.5 Markt-Goldgrube (72% Hit / +22.3% ROI n=25). Everton-Heim historisch niedrige Ergebnisse, United auswärts oft zäh. Beidseitig kein Torfestival-Signal.",
+      "rang": 6
+    },
+    {
+      "spiel_id": "2026-09-05-hof-bvb",
+      "spiel_label": "TSG Hoffenheim vs Borussia Dortmund",
+      "liga": "Bundesliga 2026/27 - Matchday 2",
+      "anstoss": "2026-09-05T15:30:00+02:00",
+      "id": "hof-bvb-2",
+      "kategorie": "value",
+      "markt": "Torschütze jederzeit: Serhou Guirassy",
+      "quote": 1.95,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "edge_prozent": 6,
+      "faire_quote": 1.83,
+      "begruendung": "HR24-Konform: Guirassy ist zentraler 9er mit Backup-Stürmer-Qualität (Einwechslungs-Boost bei Fabio Silva/Beier). Torschützen-Jederzeit ist Goldgrube (50% Hit / +24.4% ROI historisch). Aufstellung live prüfen (kicker.de ~60 Min vor Anpfiff).",
+      "rang": 7
+    },
+    {
+      "spiel_id": "2026-09-05-new-bou",
+      "spiel_label": "Newcastle United vs AFC Bournemouth",
+      "liga": "Premier League 2026/27 - Matchweek 3",
+      "anstoss": "2026-09-05T13:30:00+02:00",
+      "id": "new-bou-2",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.8,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "edge_prozent": 6,
+      "faire_quote": 1.69,
+      "begruendung": "Ueber 2.5 Markt-Goldgrube (55.9% Hit / +18.5% ROI n=36). Bournemouth-Auswärts trifft konstant, Newcastle-Heim ebenso. Umbruch-Defensive Newcastle könnte anfällig sein.",
+      "rang": 8
+    },
+    {
+      "spiel_id": "2026-09-05-hof-bvb",
+      "spiel_label": "TSG Hoffenheim vs Borussia Dortmund",
+      "liga": "Bundesliga 2026/27 - Matchday 2",
+      "anstoss": "2026-09-05T15:30:00+02:00",
+      "id": "hof-bvb-3",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.62,
+      "einsatz_euro": 12.0,
+      "empfohlener_einsatz_prozent": 1.2,
+      "edge_prozent": 5,
+      "faire_quote": 1.54,
+      "begruendung": "Über 2.5 ist aktuell Markt-Goldgrube (55.9% Hit / +18.5% ROI n=36). BVB-Auswärts bringt Tempo, TSG offensiv nie richtig defensiv gefestigt. Beidseitige Offensive spricht dafür.",
+      "rang": 9
+    },
+    {
+      "spiel_id": "2026-09-06-hsv-m05",
+      "spiel_label": "Hamburger SV vs 1. FSV Mainz 05",
+      "liga": "Bundesliga 2026/27 - Matchday 2",
+      "anstoss": "2026-09-06T15:30:00+02:00",
+      "id": "hsv-m05-1",
+      "kategorie": "value",
+      "markt": "Mainz oder Remis (Doppelte Chance)",
+      "quote": 1.33,
+      "einsatz_euro": 12.0,
+      "empfohlener_einsatz_prozent": 1.2,
+      "edge_prozent": 5,
+      "faire_quote": 1.27,
+      "begruendung": "DC X2 als Markt-Goldgrube (77.1% Hit / +27.5% ROI n=35). Mainz Klassen-Edge leicht, HSV-Aufsteiger im Volkspark verkauft sich teurer als er ist. Auswärts-Stabilität Mainz stark.",
+      "layer_2_tag": "hsv-m05_sieg_mainz",
+      "rang": 10
+    },
+    {
+      "spiel_id": "2026-09-05-mci-cov",
+      "spiel_label": "Manchester City vs Coventry City",
+      "liga": "Premier League 2026/27 - Matchweek 3",
+      "anstoss": "2026-09-05T16:00:00+02:00",
+      "id": "mci-cov-2",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.4,
+      "einsatz_euro": 12.0,
+      "empfohlener_einsatz_prozent": 1.2,
+      "edge_prozent": 5,
+      "faire_quote": 1.33,
+      "begruendung": "Ueber 2.5 Markt-Goldgrube. City-Heim gegen Aufsteiger — historisch >75% Ueber-Rate. City-Angriff trifft auch ohne De Bruyne konstant.",
+      "rang": 11
+    },
+    {
+      "spiel_id": "2026-09-06-ars-che",
+      "spiel_label": "Arsenal FC vs Chelsea FC",
+      "liga": "Premier League 2026/27 - Matchweek 3",
+      "anstoss": "2026-09-06T17:30:00+02:00",
+      "id": "ars-che-2",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.72,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "edge_prozent": 5,
+      "faire_quote": 1.63,
+      "begruendung": "London-Derby, beide offensiv stark aufgestellt (Arsenal Saka/Havertz, Chelsea Palmer/Rogers). BTTS bei Top-Duellen historisch >65% — passt zum Narrativ.",
+      "rang": 12
+    },
+    {
+      "spiel_id": "2026-09-05-int-nap",
+      "spiel_label": "Inter Mailand vs SSC Napoli",
+      "liga": "Serie A 2026/27 - 3ª giornata",
+      "anstoss": "2026-09-05T18:00:00+02:00",
+      "id": "int-nap-1",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.78,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "edge_prozent": 5,
+      "faire_quote": 1.69,
+      "begruendung": "Top-Duell, beide Angriffe elite (Inter Lautaro/Thuram, Napoli Lukaku-Nachfolger/De-Bruyne-Kreativ-Push). BTTS historisch bei Inter-Napoli >60%.",
+      "rang": 13
+    },
+    {
+      "spiel_id": "2026-09-06-juv-mil",
+      "spiel_label": "Juventus Turin vs AC Milan",
+      "liga": "Serie A 2026/27 - 3ª giornata",
+      "anstoss": "2026-09-06T20:45:00+02:00",
+      "id": "juv-mil-1",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.8,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "edge_prozent": 5,
+      "faire_quote": 1.71,
+      "begruendung": "Klassiker mit beiderseits offensiven Optionen. BTTS bei Juve-Milan historisch >60%. Coinflip-Sieg-Markt macht BTTS attraktiver als direktes 1X2.",
+      "rang": 14
+    },
+    {
+      "spiel_id": "2026-09-06-ars-che",
+      "spiel_label": "Arsenal FC vs Chelsea FC",
+      "liga": "Premier League 2026/27 - Matchweek 3",
+      "anstoss": "2026-09-06T17:30:00+02:00",
+      "id": "ars-che-1",
+      "kategorie": "value",
+      "markt": "Arsenal oder Remis (Doppelte Chance)",
+      "quote": 1.28,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "edge_prozent": 4,
+      "faire_quote": 1.23,
+      "begruendung": "DC 1X als Goldgrube-Absicherung. Emirates gegen Chelsea historisch stabil, Alonso-Chelsea in Findungsphase. Big-Match — direkter Sieg zu riskant ohne 2:0-Insurance (PL).",
+      "layer_2_tag": "ars-che_sieg_arsenal",
+      "rang": 15
+    },
+    {
+      "spiel_id": "2026-09-05-b04-uni",
+      "spiel_label": "Bayer 04 Leverkusen vs 1. FC Union Berlin",
+      "liga": "Bundesliga 2026/27 - Matchday 2",
+      "anstoss": "2026-09-05T15:30:00+02:00",
+      "id": "b04-uni-3",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen: Nein",
+      "quote": 1.9,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 4,
+      "faire_quote": 1.82,
+      "begruendung": "Union hat auswärts oft null Torgefahr, gerade bei Rückstand kompaktes 4-4-2. BTTS-Nein passt zum Unter-2.5-Narrativ.",
+      "rang": 16
+    },
+    {
+      "spiel_id": "2026-09-05-new-bou",
+      "spiel_label": "Newcastle United vs AFC Bournemouth",
+      "liga": "Premier League 2026/27 - Matchweek 3",
+      "anstoss": "2026-09-05T13:30:00+02:00",
+      "id": "new-bou-3",
+      "kategorie": "wackel",
+      "markt": "Torschütze jederzeit: Nick Woltemade",
+      "quote": 2.6,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 4,
+      "faire_quote": 2.5,
+      "begruendung": "Woltemade als neue Newcastle-Nummer-9 gegen Bournemouth-Defense, Einwechslungs-Boost via Wissa möglich. HR24: neuer 9er, Form-Edge noch nicht bestätigt — deshalb nur wackel. Aufstellung live prüfen.",
+      "rang": 17
+    },
+    {
+      "spiel_id": "2026-09-05-int-nap",
+      "spiel_label": "Inter Mailand vs SSC Napoli",
+      "liga": "Serie A 2026/27 - 3ª giornata",
+      "anstoss": "2026-09-05T18:00:00+02:00",
+      "id": "int-nap-3",
+      "kategorie": "wackel",
+      "markt": "Torschütze jederzeit: Lautaro Martinez",
+      "quote": 2.3,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 4,
+      "faire_quote": 2.2,
+      "begruendung": "Lautaro als Inter-Nummer-9 im Meazza gegen Napoli, historisch treffsicher. HR24-Konform. Big-Match: wackel statt value wegen Marker-Wahrscheinlichkeit.",
+      "rang": 18
+    },
+    {
+      "spiel_id": "2026-09-05-hof-bvb",
+      "spiel_label": "TSG Hoffenheim vs Borussia Dortmund",
+      "liga": "Bundesliga 2026/27 - Matchday 2",
+      "anstoss": "2026-09-05T15:30:00+02:00",
+      "id": "hof-bvb-4",
+      "kategorie": "wackel",
+      "markt": "Sieg Borussia Dortmund (90 Min)",
+      "quote": 1.85,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 3,
+      "faire_quote": 1.8,
+      "begruendung": "2:0-Insurance-Regel greift (Bundesliga, direkter Sieg-Tipp): führt BVB zwischenzeitlich 2:0, ist der Tipp durch — auch bei späteren TSG-Toren. Trotzdem nur wackel weil PreZero unberechenbar.",
+      "rang": 19
+    },
+    {
+      "spiel_id": "2026-09-06-hsv-m05",
+      "spiel_label": "Hamburger SV vs 1. FSV Mainz 05",
+      "liga": "Bundesliga 2026/27 - Matchday 2",
+      "anstoss": "2026-09-06T15:30:00+02:00",
+      "id": "hsv-m05-3",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.8,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 3,
+      "faire_quote": 1.72,
+      "begruendung": "Mainz trifft auswärts fast immer 1x, HSV-Heim mit Volkspark-Push ebenfalls 1+ Tor plausibel. Coinflip-Spiel — bewusst nur wackel.",
+      "rang": 20
+    },
+    {
+      "spiel_id": "2026-09-05-mci-cov",
+      "spiel_label": "Manchester City vs Coventry City",
+      "liga": "Premier League 2026/27 - Matchweek 3",
+      "anstoss": "2026-09-05T16:00:00+02:00",
+      "id": "mci-cov-3",
+      "kategorie": "wackel",
+      "markt": "Torschütze jederzeit: Erling Haaland",
+      "quote": 1.35,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 3,
+      "faire_quote": 1.31,
+      "begruendung": "Haaland-Torschützen-Tipp gegen Aufsteiger im Etihad — historisch Standard. Aufstellung/Nationalspieler-Rückkehr live prüfen, deshalb formal wackel (nicht safe wegen Rotation-Risiko nach Länderspiel).",
+      "rang": 21
+    },
+    {
+      "spiel_id": "2026-09-06-ars-che",
+      "spiel_label": "Arsenal FC vs Chelsea FC",
+      "liga": "Premier League 2026/27 - Matchweek 3",
+      "anstoss": "2026-09-06T17:30:00+02:00",
+      "id": "ars-che-3",
+      "kategorie": "wackel",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.8,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 3,
+      "faire_quote": 1.75,
+      "begruendung": "Big-Match-Kontext: taktisch enger, aber beide Angriffe stark. Ueber 2.5 auf wackel weil Alonso-Chelsea evtl. defensiv-vorsichtig einsteigt.",
+      "rang": 22
+    },
+    {
+      "spiel_id": "2026-09-06-eve-mun",
+      "spiel_label": "Everton FC vs Manchester United",
+      "liga": "Premier League 2026/27 - Matchweek 3",
+      "anstoss": "2026-09-06T15:00:00+02:00",
+      "id": "eve-mun-1",
+      "kategorie": "wackel",
+      "markt": "United oder Remis (Doppelte Chance)",
+      "quote": 1.35,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 3,
+      "faire_quote": 1.31,
+      "begruendung": "Coinflip-Spiel — kein SAFE-Territorium. United-Auswärts-Instabilität rechtfertigt kein VALUE, aber DC X2 als Absicherung. Bewusst wackel.",
+      "layer_2_tag": "eve-mun_sieg_united",
+      "rang": 23
+    },
+    {
+      "spiel_id": "2026-09-05-int-nap",
+      "spiel_label": "Inter Mailand vs SSC Napoli",
+      "liga": "Serie A 2026/27 - 3ª giornata",
+      "anstoss": "2026-09-05T18:00:00+02:00",
+      "id": "int-nap-2",
+      "kategorie": "wackel",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.42,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 3,
+      "faire_quote": 1.38,
+      "begruendung": "Serie-A-Top-Duell taktisch eng, beide 4-3-3 mit Kontrolle. Klassiker geht selten über 3 Tore hinaus.",
+      "rang": 24
+    },
+    {
+      "spiel_id": "2026-09-06-juv-mil",
+      "spiel_label": "Juventus Turin vs AC Milan",
+      "liga": "Serie A 2026/27 - 3ª giornata",
+      "anstoss": "2026-09-06T20:45:00+02:00",
+      "id": "juv-mil-3",
+      "kategorie": "wackel",
+      "markt": "Torschütze jederzeit: Dusan Vlahovic",
+      "quote": 2.6,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 3,
+      "faire_quote": 2.52,
+      "begruendung": "Vlahovic als Juve-Nummer-9 (Kader live prüfen — Trikot-Nummer/Startelf) im Klassiker, historisch treffsicher in großen Spielen. HR24 knapp erfüllt.",
+      "rang": 25
+    },
+    {
+      "spiel_id": "2026-09-06-hsv-m05",
+      "spiel_label": "Hamburger SV vs 1. FSV Mainz 05",
+      "liga": "Bundesliga 2026/27 - Matchday 2",
+      "anstoss": "2026-09-06T15:30:00+02:00",
+      "id": "hsv-m05-2",
+      "kategorie": "wackel",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.35,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 2,
+      "faire_quote": 1.32,
+      "begruendung": "HSV-Neuling + Mainz kompakt — kein Torfestival zu erwarten. Coinflip-Spiel, deshalb nur wackel, keine SAFE.",
+      "rang": 26
+    },
+    {
+      "spiel_id": "2026-09-06-juv-mil",
+      "spiel_label": "Juventus Turin vs AC Milan",
+      "liga": "Serie A 2026/27 - 3ª giornata",
+      "anstoss": "2026-09-06T20:45:00+02:00",
+      "id": "juv-mil-2",
+      "kategorie": "wackel",
+      "markt": "Juventus oder Remis (Doppelte Chance)",
+      "quote": 1.3,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 2,
+      "faire_quote": 1.27,
+      "begruendung": "Heim-Vorteil Allianz Stadium plus Kader-Stabilität. Coinflip, deshalb wackel — kein VALUE-Territorium.",
+      "layer_2_tag": "juv-mil_sieg_juve",
+      "rang": 27
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "kategorie": "safe",
+      "name": "Safe-Kombi (~3-4x)",
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "beine": [
+        {
+          "spiel_id": "2026-09-05-b04-uni",
+          "spiel_label": "Bayer 04 Leverkusen vs Union Berlin",
+          "markt": "Sieg Bayer Leverkusen (90 Min)",
+          "quote": 1.4,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-05-mci-cov",
+          "spiel_label": "Manchester City vs Coventry City",
+          "markt": "Sieg Manchester City (90 Min)",
+          "quote": 1.22,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-05-hof-bvb",
+          "spiel_label": "Hoffenheim vs Borussia Dortmund",
+          "markt": "Sieg Borussia Dortmund (90 Min, 2:0-Insurance BL)",
+          "quote": 1.85,
+          "kategorie": "safe"
+        }
+      ],
+      "gesamtquote": 3.16,
+      "rechnung": "1.40 x 1.22 x 1.85",
+      "moegliche_auszahlung_euro": 63.2
+    },
+    {
+      "id": "kombi-balance",
+      "kategorie": "balance",
+      "name": "Balance-Kombi (~6-9x)",
+      "einsatz_euro": 8.0,
+      "empfohlener_einsatz_prozent": 0.8,
+      "beine": [
+        {
+          "spiel_id": "2026-09-05-mci-cov",
+          "spiel_label": "Manchester City vs Coventry City",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.4,
+          "kategorie": "balance"
+        },
+        {
+          "spiel_id": "2026-09-05-hof-bvb",
+          "spiel_label": "Hoffenheim vs Borussia Dortmund",
+          "markt": "Torschütze jederzeit: Serhou Guirassy",
+          "quote": 1.95,
+          "kategorie": "balance"
+        },
+        {
+          "spiel_id": "2026-09-06-ars-che",
+          "spiel_label": "Arsenal vs Chelsea",
+          "markt": "Beide Teams treffen",
+          "quote": 1.72,
+          "kategorie": "balance"
+        },
+        {
+          "spiel_id": "2026-09-05-b04-uni",
+          "spiel_label": "Bayer 04 Leverkusen vs Union Berlin",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.9,
+          "kategorie": "balance"
+        }
+      ],
+      "gesamtquote": 8.92,
+      "rechnung": "1.40 x 1.95 x 1.72 x 1.90",
+      "moegliche_auszahlung_euro": 71.36
+    },
+    {
+      "id": "kombi-risiko",
+      "kategorie": "risk",
+      "name": "Risiko-Kombi (~18-28x)",
+      "einsatz_euro": 2.5,
+      "empfohlener_einsatz_prozent": 0.25,
+      "beine": [
+        {
+          "spiel_id": "2026-09-06-hsv-m05",
+          "spiel_label": "Hamburger SV vs Mainz 05",
+          "markt": "Mainz oder Remis (Doppelte Chance)",
+          "quote": 1.33,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-09-05-int-nap",
+          "spiel_label": "Inter vs Napoli",
+          "markt": "Beide Teams treffen",
+          "quote": 1.78,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-09-06-juv-mil",
+          "spiel_label": "Juventus vs Milan",
+          "markt": "Torschütze jederzeit: Dusan Vlahovic",
+          "quote": 2.6,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-09-06-eve-mun",
+          "spiel_label": "Everton vs Manchester United",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.95,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-09-05-new-bou",
+          "spiel_label": "Newcastle vs Bournemouth",
+          "markt": "Torschütze jederzeit: Nick Woltemade",
+          "quote": 2.6,
+          "kategorie": "risk"
+        }
+      ],
+      "gesamtquote": 31.21,
+      "rechnung": "1.33 x 1.78 x 2.60 x 1.95 x 2.60",
+      "moegliche_auszahlung_euro": 78.03
+    },
+    {
+      "id": "kombi-moonshot",
+      "kategorie": "moonshot",
+      "name": "Moonshot-Kombi (~180x, echtes Lotto)",
+      "einsatz_euro": 1.0,
+      "empfohlener_einsatz_prozent": 0.1,
+      "beine": [
+        {
+          "spiel_id": "2026-09-06-eve-mun",
+          "spiel_label": "Everton vs Manchester United",
+          "markt": "Sieg Manchester United (90 Min)",
+          "quote": 2.15,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-09-05-int-nap",
+          "spiel_label": "Inter vs Napoli",
+          "markt": "Torschütze jederzeit: Lautaro Martinez",
+          "quote": 2.3,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-09-06-juv-mil",
+          "spiel_label": "Juventus vs Milan",
+          "markt": "Beide Teams treffen",
+          "quote": 1.8,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-09-06-ars-che",
+          "spiel_label": "Arsenal vs Chelsea",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.8,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-09-05-new-bou",
+          "spiel_label": "Newcastle vs Bournemouth",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.8,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-09-05-hof-bvb",
+          "spiel_label": "Hoffenheim vs Borussia Dortmund",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.62,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-09-05-mci-cov",
+          "spiel_label": "Manchester City vs Coventry City",
+          "markt": "Doppelpack Erling Haaland (2+ Tore)",
+          "quote": 4.5,
+          "kategorie": "moonshot"
+        }
+      ],
+      "gesamtquote": 210.24,
+      "rechnung": "2.15 x 2.30 x 1.80 x 1.80 x 1.80 x 1.62 x 4.50",
+      "moegliche_auszahlung_euro": 210.24
+    }
+  ],
+  "lessons_angewandt": [
+    "Zeitfenster-Hartregel (22.08.2026): nur Spiele mit Anstoss Sa 5.9. oder So 6.9. Berlin, alle Freitags-/Montags-Spiele bewusst weggelassen (Stuttgart-Köln Fr, Cagliari-Lecce Mo, Ipswich-Liverpool Fr).",
+    "Kader-Frische / Anti-Halluzination (22.08.2026): Adeyemi NICHT als BVB-Torschütze (jetzt Barcelona), Isak NICHT als Newcastle-Stürmer (jetzt Liverpool), Woltemade als Newcastle-Neuling nur wackel, Alonso als Chelsea-Trainer im Kontext berücksichtigt.",
+    "Markt-Goldgruben aktiv gesucht (03.05.2026): DC X2 (77.1%/+27.5%), Unter 2.5 (72%/+22.3%), Über 2.5 (55.9%/+18.5%) — in fast jedem Spiel als VALUE gesetzt.",
+    "HR22 Star-Ausfall / Umbruch: Newcastle nach Isak/Gordon/Tonali/Guimaraes-Abgängen kein SAFE-Sieg-Tipp, sondern DC 1X + neuer 9er (Woltemade) nur wackel.",
+    "HR24 Form-Edge-Pflicht Torschützen: Guirassy als zentraler 9er mit Backup-Stürmer-Qualität für BVB als VALUE, Vlahovic/Lautaro/Woltemade nur wackel wegen fehlender frischer Form-Bestätigung.",
+    "Coinflip-Big-Match-Regel: Arsenal-Chelsea + Inter-Napoli + Juve-Milan bewusst kein SAFE, sondern BTTS/DC/Unter — 2:0-Insurance gilt in PL/Serie A NICHT, in BL aber schon (bei BVB explizit vermerkt).",
+    "Layer-2 Sieg-Outcome: pro Spiel nur eine Sieg-Kombi über alle 4 Kombis (via layer_2_tag)."
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-09-03T18:00:00+02:00",
+    "modus": "inline_verifikation",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "quoten_live_pruefen",
+        "details": "Alle Quoten sind vor-Anpfiff-Schätzungen aus Aggregator-Range (oddschecker/sportsgambler). Bei bet365 live prüfen — Bewegung nach Aufstellungs-Bekanntgabe möglich."
+      },
+      {
+        "art": "kader_live_check",
+        "details": "Länderspielpause vorbei — Nationalspieler-Rückkehrer (Guirassy, Haaland, Vlahovic, Lautaro, De Bruyne) auf Rotations-Risiko checken via kicker.de / premierleague.com / legaseriea.it ~60 Min vor Anpfiff."
+      },
+      {
+        "art": "aufsteiger_verifikation",
+        "details": "Coventry/Hull in PL 2026/27 sowie Schalke/Elversberg/Paderborn in BL 2026/27 aus WebSearch übernommen — Wikipedia/premierleague.com-Quellen sind in saison_kontext.quellen[] verlinkt."
+      }
+    ],
+    "lessons_generiert": [],
+    "kader_wechsel_check": "OK — Adeyemi (Barca), Isak (Liverpool), Jackson (Villa), Gordon (Barca), Tonali (Spurs), Guimaraes (Arsenal), Wissa (Newcastle), Nathaniel Brown (Bayern), Woltemade (Newcastle), Ramos (Milan), De Bruyne (Napoli), Alajbegovic (Juve), Norgaard (Everton), Guehi (City), Elliot Anderson (City), Rodri (Barca) via data/kader_wechsel_2026.json cross-verifiziert. Keine getippten Spieler bei Ex-Verein.",
+    "zeitfenster_check": "OK — alle 9 Spiele haben Anstoss am 5.9. oder 6.9. (Berlin). Freitags-Spiele (Stuttgart-Köln, Ipswich-Liverpool, Genoa-Como) und Montags-Spiele (Cagliari-Lecce, Udinese-Lazio) bewusst nicht im Dossier.",
+    "halluzinations_check": "OK — Torschützen nur zentrale 9er / bestätigte Neuzugänge, keine Position-Mismatches, keine erfundenen Verletzungen.",
+    "selbstwiderspruchs_check": "OK — saison_kontext-Motivations-Asymmetrie (z.B. 'Coinflip-Big-Match' bei Ars-Che, Int-Nap, Juv-Mil) passt zu Tipp-Kategorie (kein SAFE dort).",
+    "layer_cross_check": "OK — Sieg-Outcome per Spiel maximal in einer Kombi (layer_2_tag). Safe-Kombi = alle DC 1X der Heim-Favs, Balance/Risk mischen Tor-Total + Torschützen + BTTS."
+  },
+  "_master_routine_notiz": {
+    "quelle": "Wochenend-Vorschau-Routine (Do 18:00 Berlin), inline abgearbeitet (Task-Tool nicht verfügbar in Cloud-Routine).",
+    "recherche_fallback": "data/recherche_wochenende/2026-09-05.json fehlt — Fallback via WebSearch (premierleague.com, bundesliga.com, legaseriea.it, wikipedia + Aggregator-Ranges). football-data.org API vom Proxy geblockt (403).",
+    "verifikations_quellen": [
+      "https://www.premierleague.com/en/matches/premier-league/2026-27/matchweek-3",
+      "https://www.bundesliga.com/de/bundesliga/news/ansetzungen-spieltage-termine-zeitgenau-dfl-24024",
+      "https://en.legaseriea.it/serie-a/news/looking-forward-to-the-2026-27-serie-a-fixture-list",
+      "https://groundhopperguides.com/when-are-next-international-breaks-english-soccer-football/",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League"
+    ]
+  }
+}
