@@ -345,17 +345,10 @@
           "markt": "Über 3.5 Tore",
           "quote": 1.9,
           "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-09-02-udi-ven",
-          "spiel_label": "Udinese vs Venezia",
-          "markt": "Udinese Sieg (90 Min)",
-          "quote": 1.6,
-          "kategorie": "value"
         }
       ],
-      "gesamtquote": 3.04,
-      "rechnung": "1.90 x 1.60 = 3.04",
+      "gesamtquote": 1.9,
+      "rechnung": "1.90 = 1.9",
       "einsatz_euro": 8,
       "begruendung": "Layer-2 sauber: nur 1 Sieg-Outcome pro Spiel (Bayern = Tor-Total statt Sieg, sonst nur eine Kombi mit Bayern-Sieg). Kombiniert 3 VALUE-Tipps aus 3 Spielen. Einsatz Stufe 1 Balance: 0.8% = 8€.",
       "empfohlener_einsatz_prozent": 0.8
