@@ -1,0 +1,23 @@
+{
+  "datum": "2026-09-03",
+  "erstellt_am": "2026-09-03T14:42:08+02:00",
+  "hinweis": "Länderspielpause: am Do 3.9. läuft in den aktiven Wettbewerben nichts. Bundesliga, Premier League, LaLiga, Serie A und Ligue 1 machen wegen der WM-2030-Quali-Woche Pause; die Champions-League-Ligaphase startet erst am 8.9. (Spieltag 1 vom 8.-10.9.), Europa und Conference League folgen in der Woche danach. DFB-Pokal 1. Runde war am 21.-24.8. mit den beiden Nachholspielen von Bayern und BVB am 1./2.9. abgeschlossen, Coppa Italia Runde 16 lag am 2.9. und am 15.9. Deshalb heute kein Dossier — keine Erfindungen, kein Tipp auf ein Länderspiel (National-Wettbewerbe stehen nicht in der aktiven Whitelist). Nächster Vereins-Slate: Fr 12.9. (Bundesliga-Auftakt Spieltag 3), davor am 8.9. CL Ligaphase. Kasse-Stand aktuell 1000€ (Saison 2026/27, Stufe 1).",
+  "spiele": [],
+  "einzeltipps": [],
+  "kombis": [],
+  "lessons_angewandt": [
+    "Zeitfenster-Hartregel (22.08.2026): nur Anstoss am Zieldatum; keine Erfindungen von Länderspielen ausserhalb der aktiven Whitelist.",
+    "Kader-Frische / Anti-Halluzination: keine Tipps ohne live-verifizierten Kader."
+  ],
+  "_watchdog_hinweis": {
+    "quelle": "Watchdog Tages-Tipps Mo-Fr (14:30 Berlin, Backstop 15:15)",
+    "grund": "Hauptroutine 13:30 hat kein File erzeugt - Watchdog aktiv.",
+    "recherche_ergebnis": "Länderspielpause, kein Spiel im aktiven Fenster gefunden.",
+    "quellen_check": [
+      "https://de.uefa.com/uefachampionsleague/news/02a8-2173281de367-07c97c33cc6d-1000--die-ligaphase-der-champions-league-die-36-teams-und-ihre-g/",
+      "https://www.dfb.de/news/das-sind-die-zeitgenauen-ansetzungen-der-ersten-hauptrunde",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Coppa_Italia"
+    ]
+  },
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700"
+}
