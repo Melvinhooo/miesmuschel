@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-02T06:19:38+00:00",
+  "stand": "2026-09-04T06:20:00+00:00",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -437,6 +437,15 @@
       "ablöse_mio": 40,
       "hinweis": "Argentinischer Weltmeister-IV, jetzt Simeone-Achse. Vertrag bis 2031. Zu-Null-Quote Atletico ab jetzt aufwerten - Simeone bekam endlich seinen Wunsch-IV nach 156 PL-Einsaetzen bei Spurs.",
       "quelle": "https://en.atleticodemadrid.com/noticias/welcome-cuti-romero"
+    },
+    {
+      "spieler": "Ayase Ueda",
+      "nach": "LOSC Lille",
+      "von": "Feyenoord Rotterdam",
+      "ablöse_mio": null,
+      "hinweis": "Japanischer Volumen-9er, 25 Tore fuer Feyenoord in Vorsaison (Eredivisie 31 Spiele). Debut fuer Lille am 03.09.2026 als 73'-Joker in Toulouse und traf sofort per Kopf (Endstand 0:1 fuer Lille). Torschuetzen-Screening-Kandidat fuer alle Lille-Spiele; Fernandez-Pardo (Newcastle) und Igamane (verletzt) Abgaenge bedeuten breite Sturm-Rolle.",
+      "quelle": "https://japantoday.com/category/sports/japan's-ueda-fires-lille-top-of-ligue-1-on-debut",
+      "stand": "2026-09-04"
     }
   ],
   "trainer_2026_27": [
@@ -629,6 +638,15 @@
       "seit": "2026-07",
       "hinweis": "Ex-Milan/Lazio/Torino. Erstmals bestaetigt beim Coppa-0:2-Sieg in Parma 01.09.2026 (kompakte 4-2-3-1). Der Dossier-Text hat ihn richtig erraten.",
       "quelle": "https://sport.sky.it/calcio/coppa-italia/partite/2026/giornata-3/parma-cremonese"
+    },
+    {
+      "verein": "Toulouse FC",
+      "trainer_neu": "Jens Berthel Askou",
+      "trainer_alt": "Carles Martinez Novell",
+      "seit": "2026-07",
+      "hinweis": "Danischer Trainer, hat Toulouse-Interim-Rolle in Ligue 1 uebernommen nachdem Martinez Novell zu Leverkusen wechselte. Bekanntgabe 27.05.2026. Am 03.09.2026 (0:1 vs Lille): stellte 4-2-3-1 auf, zu-Null verloren gegen zweit-tiefsten Ligue-1-Absturz.",
+      "quelle": "https://ligue1.com/en/articles/l1_article_5186-who-is-new-toulouse-manager-jens-berthel-askou",
+      "stand": "2026-09-04"
     }
   ],
   "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist. Fulham hat mit Arbeloa (ex-Real Madrid) einen neuen Trainer, Silva zu Benfica (bestaetigt 25.08.2026).",

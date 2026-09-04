@@ -2930,6 +2930,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "HR24 Anti-Bounce bei Star-9er mit Tor-Pause + Klassen-Delta (positiv, 8g)",
       "lesson": "Kane-Doppelpack (18. + 86. Elfer) beim 4:1 in Osnabrueck: HR24 Form-Edge-Anti-Bounce-Prognose bestaetigt (Star-9er ohne Pflichtspieltor 2026/27 gegen Zweitligist daheim = hohe Bounce-Wahrscheinlichkeit). Der Wackel-Tipp @ 1.75 sass. Kombiniere mit Bayo-Doppelpack in Udinese-Venezia (34.+53.) ohne Tipp: Volumen-9er bei Runjaic-Udinese ist in Coppa-Heimspielen aktiv, sollte kuenftig als Torschuetzen-Kandidat gescreent werden (kein Tipp lag drauf - klassisches 8g-Muster aus nicht-getipptem Spiel). Konsequenz: (1) HR24 Anti-Bounce bei Star-9er mit >= 2 Pflichtspielen ohne Tor gegen unterklassigen Cup-Gegner darf kuenftig als VALUE gefuehrt werden, nicht nur WACKEL - das Pattern ist historisch stabil. (2) Fuer Udinese-Heimspiele in Coppa/Serie A: Bayo als Torschuetzen-Kandidat in die Screening-Liste aufnehmen (Volumen-9er, aktiv in Coppa).",
       "bezug_spiel_id": "2026-09-02-osn-bay"
+    },
+    {
+      "datum": "2026-09-03",
+      "kategorie": "Coppa-Rotation Anti-Unter-Reflex (8f Drehungs/Markt-Pattern)",
+      "lesson": "Coppa Italia Sedicesimi 2026/27, Tag 1: Palermo 5:2 Mantova (7 Tore) und Cagliari 1:2 Verona (3 Tore) - beide Cup-Spiele des Tages Ueber 2.5. Damit sind die 2 Unter-2.5-Wackel-Einzel (pal-man-2 und cag-ver-2, beide gerissen) und der reflexartige Kontext-Standpunkt 'Cup-Rotation heisst Low-Scoring' mechanisch widerlegt. Zweit-Reihen sind nicht kompakt sondern defensiv fehleranfaellig, waehrend die Sturm-Reihe (Pohjanpalo Doppelpack bei Palermo, Mulattieri spaeter Winner bei Verona) frisch und torhungrig ist. Konsequenz: (1) Cup-Rotation-Argument 'Unter 2.5 als Value/SAFE' NIE mehr - hoechstens WACKEL; (2) Ueber 2.5 in Coppa/Pokal-Sedicesimi ist mindestens neutral, tendenziell Value; (3) H2H-Historie 4/6 Unter 2.5 (Cagliari-Verona) hielt nicht - Cup-Rotation macht die Vorsaison-Statistik-Sample vergiftet.",
+      "bezug_spiel_id": "2026-09-03-cag-ver"
+    },
+    {
+      "datum": "2026-09-03",
+      "kategorie": "Debut-9er Einwechslungs-Boost-Trigger (8i, ohne Tipp)",
+      "lesson": "Ayase Ueda (Lille, Debut 3 Tage nach Feyenoord-Transfer) trifft in Toulouse in der 73. Minute per Kopfball als Joker - alleiniger Torschuetze beim 0:1-Auswaertssieg. 25 Tore fuer Feyenoord in Vorsaison (Eredivisie). Kein Lille-Torschuetzen-Tipp lag drauf, obwohl Ueber-2.5 und BTTS-Tipps beide gerissen sind. Klassischer 8i-Trigger: Einwechslungs-Boost-Fall waere gelaufen, aber kein Volumen-9er-Screening drauf. Konsequenz: bei Debut von Volumen-9ern mit Vor-Saison ≥ 20 Tore (Ueda!) sofort in die Torschuetzen-Screening-Liste fuer die naechste Runde aufnehmen - Debut-Tore sind pattern-historisch ueberproportional; ausserdem beim ersten Klub-Spiel Torschuetzen-Jederzeit als Wackel-Kandidat pruefen, auch wenn der Spieler nur Ersatzbank-Kandidat ist (Ueda kam als Joker, traf trotzdem).",
+      "bezug_spiel_id": "2026-09-03-tou-lil"
+    },
+    {
+      "datum": "2026-09-03",
+      "kategorie": "Klasse-Delta 1 Liga + beidseitige Cup-Rotation = kein DC-1X-Value (8h)",
+      "lesson": "Verona (Serie-B-Absteiger) schlaegt Cagliari (Serie A) 2:1 in Cagliari - DC-Cagliari-1X-Value-Tipp @ 1.20 gerissen, obwohl H2H der letzten 5 Duelle komplett fuer Cagliari war (u.a. 4:0 im Januar 2026 auf demselben Platz). Kader-Zyklus nach Abstieg macht Verona zu einer neuen Mannschaft, und beidseitige Cup-Rotation entwertet den Klasse-Vorteil. Konsequenz: (1) bei Coppa/DFB-Pokal mit Klasse-Delta = nur 1 Liga (nicht 2+) und beidseitigen Rotation-Signalen kein DC-1X als Value-Tipp mehr, hoechstens Wackel; (2) H2H-Sweep der Vorsaison nur zaehlen, wenn beide Kader >70% identisch (Vor-und-Nach-Abstiegs-Statistik nicht mischbar); (3) Cup-Sedicesimi/Pokal-Rungenpaarung Serie-A-vs-Serie-B: fair-Erwartung ist naeher an 60/40 als an 80/20.",
+      "bezug_spiel_id": "2026-09-03-cag-ver"
+    },
+    {
+      "datum": "2026-09-03",
+      "kategorie": "Safe-Kombi-Fragilitaet durch Cup-DC-Bein (8e/8h)",
+      "lesson": "Safe-Kombi 4x DC hatte 3/4 Beine gewonnen (Palermo, Real Sociedad, Lille) - aber Cagliari-Coppa-Bein riss und kippte die gesamte 2.73x-Kombi (-20 EUR). Damit auch hoehere Rueckzahlung im Tages-Rueckwaerts-Blick verloren: alle 3 anderen Beine haetten als 3er-Safe-Kombi ~2.28x gewonnen, +6 EUR statt -20 EUR. Konsequenz: Safe-Kombi bevorzugt aus 3+ reinen Liga-DC-Beinen bauen (kein Cup-DC im Safe-Backbone); Cup-DC entweder solo als Value-Einzel spielen oder in einer Balance-/Risiko-Kombi mit expliziter Cup-Toleranz. Kombi-Bilanz gestern 0/4 (Safe/Balance/Risiko/Moonshot alle verloren) zeigt: bei Cup-lastigen Slates hoehere Kombi-Verlustquote - Einsatz-Volumen an Cup-Tagen konservativer.",
+      "bezug_spiel_id": "2026-09-03-cag-ver"
     }
   ]
 };

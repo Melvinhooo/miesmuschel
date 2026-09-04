@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-09-03T06:17:41+00:00",
+  "letzte_berechnung": "2026-09-04T06:18:22+00:00",
   "gesamt": {
     "tipps": 427,
     "gewonnen": 223,
@@ -13,24 +13,24 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 9.6
   },
   "letzte_30_tage": {
-    "tipps": 170,
-    "gewonnen": 83,
-    "verloren": 75,
+    "tipps": 160,
+    "gewonnen": 80,
+    "verloren": 68,
     "push": 1,
     "offen": 11,
-    "einsatz": 159.0,
+    "einsatz": 149.0,
     "netto": 31.12,
-    "trefferquote": 52.5,
-    "roi_prozent": 19.6
+    "trefferquote": 54.1,
+    "roi_prozent": 20.9
   },
   "letzte_90_tage": {
-    "tipps": 425,
-    "gewonnen": 222,
-    "verloren": 191,
+    "tipps": 423,
+    "gewonnen": 221,
+    "verloren": 190,
     "push": 1,
     "offen": 11,
-    "einsatz": 414.0,
-    "netto": 40.06,
+    "einsatz": 412.0,
+    "netto": 40.15,
     "trefferquote": 53.8,
     "roi_prozent": 9.7
   },
@@ -4253,6 +4253,244 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-09-03",
+      "gesamt": {
+        "tipps": 8,
+        "gewonnen": 3,
+        "verloren": 5,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 8.0,
+        "netto": 3.95,
+        "trefferquote": 37.5,
+        "roi_prozent": 49.4
+      },
+      "spiele": [
+        {
+          "id": "2026-09-03-pal-man",
+          "liga": "Coppa Italia — Sedicesimi",
+          "heim": "US Palermo 1900",
+          "gast": "Mantova 1911",
+          "endstand": "5:2",
+          "tipps": [
+            {
+              "markt": "Palermo oder Remis (Doppelte Chance)",
+              "quote": 1.25,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.25,
+              "kommentar": "DC 1X: Palermo 5:2 - klarer Heimsieg (regulaere 90 Min)."
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.65,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Unter 2.5: 7 Tore gefallen - beide Cup-Rotationen offener als erwartet."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-03-tou-lil",
+          "liga": "Ligue 1 — Journée 4",
+          "heim": "Toulouse FC",
+          "gast": "LOSC Lille",
+          "endstand": "0:1",
+          "tipps": [
+            {
+              "markt": "Lille oder Remis (Doppelte Chance)",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.4,
+              "kommentar": "DC X2: Lille 0:1 durch Ueda-Kopfballtor (73', Debuet-Joker) - Smash-and-Grab, Auswaerts-Favorit setzte sich knapp durch."
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.9,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Ueber 2.5: nur 1 Tor - zaehes 0:0 zur Halbzeit, Torhueter Berke Oezer (Lille) parierte alles."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-03-cag-ver",
+          "liga": "Coppa Italia — Sedicesimi",
+          "heim": "Cagliari Calcio",
+          "gast": "Hellas Verona FC",
+          "endstand": "1:2",
+          "tipps": [
+            {
+              "markt": "Cagliari oder Remis (Doppelte Chance)",
+              "quote": 1.2,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "DC 1X: Verona gewinnt 2:1 in regulaerer 90 Min - kein Elfmeter/Verlaengerung. Serie-B-Aufsteiger schlaegt Serie-A-Team in Cagliari, H2H-Sweep der letzten 5 Duelle gerissen."
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.6,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Unter 2.5: 3 Tore gefallen (Harroui 23', Mendy 57', Mulattieri 87') - H2H-Historie 4/6 Unter 2.5 hielt nicht."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-03-rso-cel",
+          "liga": "LaLiga — Jornada 4",
+          "heim": "Real Sociedad de Fútbol",
+          "gast": "RC Celta de Vigo",
+          "endstand": "0:0",
+          "tipps": [
+            {
+              "markt": "Real Sociedad oder Remis (Doppelte Chance)",
+              "quote": 1.3,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.3,
+              "kommentar": "DC 1X: Remis 0:0 in Anoeta - LaLiga-Goldgrube haelt trotz torlosem Spiel."
+            },
+            {
+              "markt": "Mikel Oyarzabal trifft (jederzeit)",
+              "quote": 2.75,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Oyarzabal trifft: 0:0 - Oyarzabal hatte grosse Chance in Hz1 (Radu-Save), Kein Real-Sociedad-Tor, kein Einwechslungs-Boost-Fall (kein Ersatz-Tor)."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi 4er DC-Sammlung",
+          "kategorie": "safe",
+          "gesamtquote": 2.73,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Cagliari oder Remis (Doppelte Chance)",
+              "quote": 1.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Palermo oder Remis (Doppelte Chance)",
+              "quote": 1.25,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Real Sociedad oder Remis (Doppelte Chance)",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Lille oder Remis (Doppelte Chance)",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi Torschütze + Totals",
+          "kategorie": "balance",
+          "gesamtquote": 8.36,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Mikel Oyarzabal trifft (jederzeit)",
+              "quote": 2.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi Total + BTTS + Torschütze",
+          "kategorie": "risk",
+          "gesamtquote": 15.36,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 2.15,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 2.15,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot Underdog-Sweep + Total",
+          "kategorie": "moonshot",
+          "gesamtquote": 113.44,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Verona (90 Min)",
+              "quote": 5.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Mantova (90 Min)",
+              "quote": 5.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 3.5 Tore",
+              "quote": 3.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-09-02",
       "gesamt": {
