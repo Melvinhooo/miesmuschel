@@ -225,13 +225,14 @@
       "tipps": [
         {
           "id": "rso-cel-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Real Sociedad oder Remis (Doppelte Chance)",
           "quote": 1.3,
           "edge_prozent": 5.0,
-          "begruendung": "Heim-Favorit mit klarem Tabellen-Edge (13. vs. 18.), Celta seit 3 Spielen ohne Sieg. LaLiga-DC 1X ist Markt-Goldgrube (77% Hit / +27% ROI). Real Sociedad bounced-back-Form seit dem Espanyol-Sieg, Anoeta als Festung. Einsatz Stufe 1: 2% = 20€.",
+          "begruendung": "Heim-Favorit mit klarem Tabellen-Edge (13. vs. 18.), Celta seit 3 Spielen ohne Sieg. LaLiga-DC 1X ist Markt-Goldgrube (77% Hit / +27% ROI). Real Sociedad bounced-back-Form seit dem Espanyol-Sieg, Anoeta als Festung. Einsatz Stufe 1: 2% = 20€. [Auto HR4: Story-Konflikt v2 (Heim-Krise-Token in eigener Begruendung) -> value->wackel]",
           "faire_quote": 1.24,
-          "empfohlener_einsatz_prozent": 2.0
+          "empfohlener_einsatz_prozent": 2.0,
+          "_story_konflikt_v2": true
         },
         {
           "id": "rso-cel-2",
@@ -277,7 +278,8 @@
       "quote": 1.25,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "kurz": "Serie-B-Tabellenführer + Cup-Rotation-Draw-Deckung. Coppa 1X2 wertet 90 Min."
+      "kurz": "Serie-B-Tabellenführer + Cup-Rotation-Draw-Deckung. Coppa 1X2 wertet 90 Min.",
+      "rang": 1
     },
     {
       "id": "cag-ver-1",
@@ -288,7 +290,8 @@
       "quote": 1.2,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "kurz": "Serie-A-Klasse-Edge + H2H-Sweep + Draw-Deckung."
+      "kurz": "Serie-A-Klasse-Edge + H2H-Sweep + Draw-Deckung.",
+      "rang": 2
     },
     {
       "id": "rso-cel-1",
@@ -299,7 +302,8 @@
       "quote": 1.3,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "kurz": "Heim-Favorit gegen sieglosen Celta, LaLiga-DC 1X Goldgrube."
+      "kurz": "Heim-Favorit gegen sieglosen Celta, LaLiga-DC 1X Goldgrube.",
+      "rang": 3
     },
     {
       "id": "tou-lil-1",
@@ -310,7 +314,8 @@
       "quote": 1.4,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "kurz": "Auswärts-Favorit mit 4:0-H2H-Vorsprung, DC X2 als Markt-Goldgrube."
+      "kurz": "Auswärts-Favorit mit 4:0-H2H-Vorsprung, DC X2 als Markt-Goldgrube.",
+      "rang": 4
     },
     {
       "id": "rso-cel-2",
@@ -321,7 +326,8 @@
       "quote": 2.75,
       "empfohlener_einsatz_prozent": 0.5,
       "empfohlener_einsatz_euro": 5.0,
-      "kurz": "Formkurve nach 2 Assists + Torschützen-Jederzeit-Goldgrube + Einwechslungs-Boost."
+      "kurz": "Formkurve nach 2 Assists + Torschützen-Jederzeit-Goldgrube + Einwechslungs-Boost.",
+      "rang": 5
     },
     {
       "id": "cag-ver-2",
@@ -332,7 +338,8 @@
       "quote": 1.6,
       "empfohlener_einsatz_prozent": 0.5,
       "empfohlener_einsatz_euro": 5.0,
-      "kurz": "H2H 4/6 Unter 2.5 + Cup-Rotation."
+      "kurz": "H2H 4/6 Unter 2.5 + Cup-Rotation.",
+      "rang": 6
     },
     {
       "id": "tou-lil-2",
@@ -343,7 +350,8 @@
       "quote": 1.9,
       "empfohlener_einsatz_prozent": 0.5,
       "empfohlener_einsatz_euro": 5.0,
-      "kurz": "Beide zuletzt 2:2, kein Zu-Null-Signal."
+      "kurz": "Beide zuletzt 2:2, kein Zu-Null-Signal.",
+      "rang": 7
     },
     {
       "id": "pal-man-2",
@@ -354,7 +362,8 @@
       "quote": 1.65,
       "empfohlener_einsatz_prozent": 0.5,
       "empfohlener_einsatz_euro": 5.0,
-      "kurz": "Beidseitige Cup-Rotation + Serie-B-Niveau + Renzo-Barbera-Platz."
+      "kurz": "Beidseitige Cup-Rotation + Serie-B-Niveau + Renzo-Barbera-Platz.",
+      "rang": 8
     }
   ],
   "kombis": [
@@ -477,29 +486,15 @@
       "name": "Moonshot Underdog-Sweep + Total",
       "beine": [
         {
-          "spiel_id": "2026-09-03-cag-ver",
-          "spiel_label": "Cagliari vs Verona",
-          "markt": "Sieg Verona (90 Min)",
-          "quote": 5.5,
-          "kategorie": "moonshot"
-        },
-        {
           "spiel_id": "2026-09-03-pal-man",
           "spiel_label": "Palermo vs Mantova",
           "markt": "Sieg Mantova (90 Min)",
           "quote": 5.5,
           "kategorie": "moonshot"
-        },
-        {
-          "spiel_id": "2026-09-03-tou-lil",
-          "spiel_label": "Toulouse vs Lille",
-          "markt": "Über 3.5 Tore",
-          "quote": 3.75,
-          "kategorie": "moonshot"
         }
       ],
-      "gesamtquote": 113.44,
-      "rechnung": "5.50 x 5.50 x 3.75 = 113.44",
+      "gesamtquote": 5.5,
+      "rechnung": "5.50 = 5.5",
       "empfohlener_einsatz_prozent": 0.1,
       "empfohlener_einsatz_euro": 1.0,
       "kommentar": "Bewusster Spaßeinsatz 1€. Zwei Coppa-Underdog-Siege gleichzeitig plus offensiver Toulouse-Lille-Ausrutscher — mathematisch fast unmöglich, aber Moonshot ist Lotterie. Layer-2 kritisch: Verona-Sieg + Cagliari-DC 1X (Safe) sind entgegengesetzte Outcomes desselben Spiels, ähnlich Mantova-Sieg + Palermo-DC 1X. fix_schema.py wertet Layer-2 pro Spiel, nicht pro Kategorie — hier bewusst als Moonshot-Hedge stehengelassen, weil Kategorie 'Lotterie' die Silo-Regel implizit relaxiert."
