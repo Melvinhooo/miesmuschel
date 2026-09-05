@@ -2953,6 +2953,30 @@
       "kategorie": "Safe-Kombi-Fragilitaet durch Cup-DC-Bein (8e/8h)",
       "lesson": "Safe-Kombi 4x DC hatte 3/4 Beine gewonnen (Palermo, Real Sociedad, Lille) - aber Cagliari-Coppa-Bein riss und kippte die gesamte 2.73x-Kombi (-20 EUR). Damit auch hoehere Rueckzahlung im Tages-Rueckwaerts-Blick verloren: alle 3 anderen Beine haetten als 3er-Safe-Kombi ~2.28x gewonnen, +6 EUR statt -20 EUR. Konsequenz: Safe-Kombi bevorzugt aus 3+ reinen Liga-DC-Beinen bauen (kein Cup-DC im Safe-Backbone); Cup-DC entweder solo als Value-Einzel spielen oder in einer Balance-/Risiko-Kombi mit expliziter Cup-Toleranz. Kombi-Bilanz gestern 0/4 (Safe/Balance/Risiko/Moonshot alle verloren) zeigt: bei Cup-lastigen Slates hoehere Kombi-Verlustquote - Einsatz-Volumen an Cup-Tagen konservativer.",
       "bezug_spiel_id": "2026-09-03-cag-ver"
+    },
+    {
+      "datum": "2026-09-04",
+      "kategorie": "Layer-1-Klumpenrisiko: 4 gerankte Einzeltipps + 2 Kombi-Beine auf ein einziges Spiel (8a Korrelation)",
+      "lesson": "Betis vs Real Madrid hatte 4 der 12 gerankten Einzeltipps (RM DC X2 SAFE 20 EUR, Mbappe Torschuetze VALUE 20 EUR, RM Sieg VALUE 15 EUR, Vinicius Torschuetze WACKEL 5 EUR = 60 EUR gesetzt) plus 2 Kombi-Beine (Safe-Anker + Balance) plus das Moonshot-Doppelpack-Bein. Betis-Upset 1:0 durch Parrott (81., Joker) + Mbappe-Elfmeter in Nachspielzeit von Valles gehalten hat alle 4 RM-Tipps eingerissen und beide Kombis mit gekippt. Konsequenz: bei mehr als 3 gerankten Einzeltipps auf ein einzelnes Spiel eines der Beine streichen ODER die Einsaetze auf diese 4 Beine halbieren (Cluster-Discount 50%), sonst wird ein einziges 1:0-Upset zum Tagestreiber. Zusaetzlich Kombi-Regel: wenn ein Spiel schon 2 Beine liefert (Sieg-DC + Torschuetze), kein drittes Bein daraus in einer anderen Kombi mehr.",
+      "bezug_spiel_id": "2026-09-04-bet-rma"
+    },
+    {
+      "datum": "2026-09-04",
+      "kategorie": "Eigene 'KEIN SAFE'-Warnung wurde nur halb befolgt (HR2/HR4 Story-Konflikt)",
+      "lesson": "In saison_kontext.motivations_asymmetrie stand woertlich 'KEIN SAFE auf PSG' (H2H Monaco 3 der letzten 4, PSG-Formkrise, Mendes gesperrt). Der psg-mon-3 Sieg-Tipp wurde korrekt auf wackel abgestuft - aber PSG DC 1X blieb SAFE (Quote 1.20) und ging zusaetzlich ins Safe-Anker-Kombi-Bein. Monaco gewann 2:1, DC 1X + Kombi-Bein beide verloren. Konsequenz: sobald 'KEIN SAFE auf [Team]' im eigenen Text steht, gilt das fuer JEDEN Favoriten-Markt auf dieses Team - Sieg UND Doppelte Chance UND Handicap. Insbesondere: Team darf nicht als DC-Bein in der Safe-Anker-Kombi stehen. Der Widerspruch 'DC ist Goldgrube' vs. 'KEIN SAFE auf Team X' muss immer zugunsten des spielspezifischen Textes aufgeloest werden.",
+      "bezug_spiel_id": "2026-09-04-psg-mon"
+    },
+    {
+      "datum": "2026-09-04",
+      "kategorie": "Safe-Anker-Kombi aus 3 Favoriten-DCs = korreliertes Upset-Risiko (8a Korrelation)",
+      "lesson": "Die Safe-Anker-Kombi bestand aus 3 Favoriten-DCs (Lyon 1X, RM X2, PSG 1X) - Gesamtquote nur 1.72x, aber wenn irgendeiner der 3 Favoriten als Underdog-Opfer faellt, ist die ganze Kombi weg. 2/3 Beinen sind gerissen (Betis-Upset + Monaco-Upset am selben Freitag), Kombi -20 EUR. Konsequenz: eine 3er-Safe-Anker-Kombi darf hoechstens 2 Favoriten-DC-Beine haben, das dritte Bein sollte ein Torlinien-Markt aus einem Goldgruben-Markttyp sein (Ueber 2.5 oder Unter 2.5), so wird das Klumpenrisiko 'Underdog-Sonntag' entkoppelt. Kompensationseffekt heute: 3x Ueber 2.5 auf demselben Slate haetten 2/3 gewonnen (Lyon-Aux 5 Tore, PSG-Mon 3 Tore, Betis-RM 1 Tor).",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-09-04",
+      "kategorie": "Mourinho-Real-Madrid = Unter 2.5 statt Ueber 2.5 (8g Markt-Pattern aus volle_analyse)",
+      "lesson": "Real Madrid unter Mourinho hat in den 4 Saisonstart-Spielen bislang niedrige Torzahlen produziert: 4:0 Malaga (5 Tore) war der Ausreisser, die anderen drei liefen im Rahmen 2-3 Tore. Betis-RM heute endete 1:0 - Ueber 2.5 verloren, obwohl RM als Offensivstark modelliert wurde. Mourinho-Setup ist konter-orientiert, druckt bewusst die Torlinien-Zahlen. Konsequenz: bei RM-Spielen die Torlinie kritisch pruefen - Unter 2.5 als aktive Alternative zu Ueber 2.5 setzen, wenn Mourinho eine Auswaertspartie ohne Zwang zum Angriffsspiel bestreitet (also nicht gegen einen direkten Titelkonkurrenten). Bis mindestens 4 Ligaspiele weitere Belege vorliegen: RM-Ueber-2.5 mit +1 Wackel-Downgrade markieren, RM-Unter-2.5 aktiv als Goldgruben-Kandidat scannen.",
+      "bezug_spiel_id": "2026-09-04-bet-rma"
     }
   ]
 }

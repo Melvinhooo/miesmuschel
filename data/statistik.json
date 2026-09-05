@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-09-04T06:18:22+00:00",
+  "letzte_berechnung": "2026-09-05T06:11:57+00:00",
   "gesamt": {
     "tipps": 427,
     "gewonnen": 223,
@@ -12,26 +12,26 @@
     "roi_prozent": 9.6
   },
   "letzte_30_tage": {
-    "tipps": 160,
-    "gewonnen": 80,
-    "verloren": 68,
+    "tipps": 152,
+    "gewonnen": 75,
+    "verloren": 65,
     "push": 1,
     "offen": 11,
-    "einsatz": 149.0,
+    "einsatz": 141.0,
     "netto": 31.12,
-    "trefferquote": 54.1,
-    "roi_prozent": 20.9
+    "trefferquote": 53.6,
+    "roi_prozent": 22.1
   },
   "letzte_90_tage": {
-    "tipps": 423,
-    "gewonnen": 221,
-    "verloren": 190,
+    "tipps": 409,
+    "gewonnen": 209,
+    "verloren": 188,
     "push": 1,
     "offen": 11,
-    "einsatz": 412.0,
-    "netto": 40.15,
-    "trefferquote": 53.8,
-    "roi_prozent": 9.7
+    "einsatz": 398.0,
+    "netto": 35.04,
+    "trefferquote": 52.6,
+    "roi_prozent": 8.8
   },
   "nach_liga": {
     "NBA Finals 2026 Game 1": {
@@ -4252,6 +4252,276 @@
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-09-04",
+      "gesamt": {
+        "tipps": 12,
+        "gewonnen": 6,
+        "verloren": 5,
+        "push": 0,
+        "offen": 1,
+        "einsatz": 11.0,
+        "netto": 8.87,
+        "trefferquote": 54.5,
+        "roi_prozent": 80.6
+      },
+      "spiele": [
+        {
+          "id": "2026-09-04-lyo-aux",
+          "liga": "Ligue 1 — Journée 3",
+          "heim": "Olympique Lyon",
+          "gast": "AJ Auxerre",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Lyon Doppelte Chance 1X",
+              "quote": 1.12,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.12,
+              "kommentar": "Lyon Sieg 3:2 → DC 1X getroffen"
+            },
+            {
+              "markt": "Lyon Sieg (90 Min)",
+              "quote": 1.55,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.55,
+              "kommentar": "Lyon Sieg 3:2. 2:0-Insurance nicht relevant (Ligue 1 nicht abgedeckt, außerdem Sieg regulär)"
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.75,
+              "kommentar": "5 Tore → Über 2.5 getroffen"
+            },
+            {
+              "markt": "Malick Fofana Torschütze jederzeit",
+              "quote": 2.6,
+              "kategorie": "wackel",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Torschützen des 3:2 nicht aus WebSearch verifizierbar (nur April-Match-Detailmeldungen). Kann nachträglich auf gewonnen/verloren gesetzt werden, wenn Match-Bericht vorliegt."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-04-gen-com",
+          "liga": "Serie A — Round 3",
+          "heim": "Genoa CFC",
+          "gast": "Como 1907",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Como oder Unentschieden (Doppelte Chance X2)",
+              "quote": 1.35,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.35,
+              "kommentar": "Como Sieg 2:0 → DC X2 getroffen"
+            },
+            {
+              "markt": "Über 1.5 Tore",
+              "quote": 1.35,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.35,
+              "kommentar": "2 Tore → Über 1.5 getroffen"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-04-psg-mon",
+          "liga": "Ligue 1 — Journée 3",
+          "heim": "Paris Saint-Germain",
+          "gast": "AS Monaco",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "PSG oder Unentschieden (Doppelte Chance 1X)",
+              "quote": 1.2,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Monaco Sieg → DC 1X verloren"
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.75,
+              "kommentar": "3 Tore → Über 2.5 getroffen"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-04-bet-rma",
+          "liga": "LaLiga — Jornada 4",
+          "heim": "Real Betis",
+          "gast": "Real Madrid",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Real Madrid oder Unentschieden (Doppelte Chance X2)",
+              "quote": 1.28,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Betis Sieg 1:0 → DC X2 auf RM verloren"
+            },
+            {
+              "markt": "Kylian Mbappé Torschütze jederzeit",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Mbappé kein Tor (Elfer in Nachspielzeit von Vallés gehalten). Nicht ausgewechselt → kein Einwechslungs-Boost."
+            },
+            {
+              "markt": "Real Madrid Sieg (90 Min)",
+              "quote": 1.55,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "RM verliert 0:1"
+            },
+            {
+              "markt": "Vinicius Jr Torschütze jederzeit",
+              "quote": 2.4,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Vinicius kein Tor (holte Elfer heraus, blieb im Spiel). Kein Einwechslungs-Boost."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "🐚 Safe-Anker (~1.7x)",
+          "kategorie": "safe",
+          "gesamtquote": 1.72,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Lyon Doppelte Chance 1X",
+              "quote": 1.12,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Real Madrid oder Unentschieden (Doppelte Chance X2)",
+              "quote": 1.28,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "PSG oder Unentschieden (Doppelte Chance 1X)",
+              "quote": 1.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "🐚 Balance-Kombi (~5.7x)",
+          "kategorie": "balance",
+          "gesamtquote": 5.66,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Kylian Mbappé Torschütze jederzeit",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "🐚 Risiko-Kombi (~23x)",
+          "kategorie": "risk",
+          "gesamtquote": 23.16,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Malick Fofana Torschütze jederzeit",
+              "quote": 2.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Khvicha Kvaratskhelia Torschütze jederzeit",
+              "quote": 2.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Vinicius Jr Torschütze jederzeit",
+              "quote": 2.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 1.5 Tore",
+              "quote": 1.35,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "🐚 Moonshot (~109x)",
+          "kategorie": "moonshot",
+          "gesamtquote": 108.9,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Mbappé Doppelpack (2+ Tore)",
+              "quote": 5.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 3.5 Tore",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Anastasios Douvikas Torschütze jederzeit",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 3.5 Tore",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-09-03",
       "gesamt": {
