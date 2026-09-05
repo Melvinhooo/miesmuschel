@@ -33,14 +33,14 @@
       "tipps": [
         {
           "id": "lyo-aux-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Lyon Doppelte Chance 1X",
           "quote": 1.12,
           "edge_prozent": 6.0,
           "faire_quote": 1.06,
           "empfohlener_einsatz_prozent": 2.0,
           "empfohlener_einsatz_euro": 20.0,
-          "begruendung": "Auxerre spielt seit 2 Runden ohne Punkt und 8 Gegentore — noch dazu 6 Ausfälle. Doppelte Chance 1X ist bei Lyon zuhause der Anker-Tipp, den man auch bei Rutschgefahr mitnimmt. Bilanz: DC X2/1X ist Goldgrube (77.1%/+27.5% laut markt_goldgruben.json). Stufe-1-Einsatz 2% = 20€ auf 1000€ Kasse. 2:0-Insurance greift in L1 NICHT — daher DC statt direkter Sieg als SAFE. bet365 live prüfen. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value]",
+          "begruendung": "Auxerre spielt seit 2 Runden ohne Punkt und 8 Gegentore — noch dazu 6 Ausfälle. Doppelte Chance 1X ist bei Lyon zuhause der Anker-Tipp, den man auch bei Rutschgefahr mitnimmt. Bilanz: DC X2/1X ist Goldgrube (77.1%/+27.5% laut markt_goldgruben.json). Stufe-1-Einsatz 2% = 20€ auf 1000€ Kasse. 2:0-Insurance greift in L1 NICHT — daher DC statt direkter Sieg als SAFE. bet365 live prüfen. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value] [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "_saison_kontext_sanity_downgrade": true
         },
         {

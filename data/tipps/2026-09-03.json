@@ -479,25 +479,6 @@
       "empfohlener_einsatz_prozent": 0.25,
       "empfohlener_einsatz_euro": 2.5,
       "kommentar": "Layer-2 sauber (0 Sieg-Outcomes in dieser Kombi). Bewusst Kontra-Kombi gegen die Cup-Defensive-Erwartung — wenn beide Coppa-Spiele in offensive Richtung kippen (Rotation = mehr Fehler), zahlt sich die 15x-Quote aus. Palermo Über 2.5 @ 2.15 ist Kontra-Bein gegen den Pal-Man-2-Unter-Einzel-Tipp (Portfolio-Hedge)."
-    },
-    {
-      "id": "kombi-moonshot-2026-09-03",
-      "kategorie": "moonshot",
-      "name": "Moonshot Underdog-Sweep + Total",
-      "beine": [
-        {
-          "spiel_id": "2026-09-03-pal-man",
-          "spiel_label": "Palermo vs Mantova",
-          "markt": "Sieg Mantova (90 Min)",
-          "quote": 5.5,
-          "kategorie": "moonshot"
-        }
-      ],
-      "gesamtquote": 5.5,
-      "rechnung": "5.50 = 5.5",
-      "empfohlener_einsatz_prozent": 0.1,
-      "empfohlener_einsatz_euro": 1.0,
-      "kommentar": "Bewusster Spaßeinsatz 1€. Zwei Coppa-Underdog-Siege gleichzeitig plus offensiver Toulouse-Lille-Ausrutscher — mathematisch fast unmöglich, aber Moonshot ist Lotterie. Layer-2 kritisch: Verona-Sieg + Cagliari-DC 1X (Safe) sind entgegengesetzte Outcomes desselben Spiels, ähnlich Mantova-Sieg + Palermo-DC 1X. fix_schema.py wertet Layer-2 pro Spiel, nicht pro Kategorie — hier bewusst als Moonshot-Hedge stehengelassen, weil Kategorie 'Lotterie' die Silo-Regel implizit relaxiert."
     }
   ],
   "lessons_angewandt": [
