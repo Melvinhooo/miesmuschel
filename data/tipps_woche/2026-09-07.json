@@ -333,25 +333,27 @@
         },
         {
           "id": "psg-slo-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Ferran Torres Torschuetze jederzeit",
           "quote": 2.0,
           "edge_prozent": 8.0,
           "faire_quote": 1.85,
           "empfohlener_einsatz_prozent": 1.5,
           "empfohlener_einsatz_euro": 15.0,
-          "begruendung": "Ferran Torres als neuer PSG-#9 gegen unterlegene Slovan-Defense - Volumen-9er mit Backup (Kolo Muani), Einwechslungs-Boost erhoeht Faktor. Stake 15 EUR."
+          "begruendung": "Ferran Torres als neuer PSG-#9 gegen unterlegene Slovan-Defense - Volumen-9er mit Backup (Kolo Muani), Einwechslungs-Boost erhoeht Faktor. Stake 15 EUR. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "psg-slo-4",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Ousmane Dembele Torschuetze jederzeit",
           "quote": 2.3,
           "edge_prozent": 6.0,
           "faire_quote": 2.17,
           "empfohlener_einsatz_prozent": 1.0,
           "empfohlener_einsatz_euro": 10.0,
-          "begruendung": "Dembele als Fluegel-Volumen-Spieler gegen tief-stehende Slovan-Defense - Chancen-Aktivitaet garantiert. Stake 10 EUR."
+          "begruendung": "Dembele als Fluegel-Volumen-Spieler gegen tief-stehende Slovan-Defense - Chancen-Aktivitaet garantiert. Stake 10 EUR. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "psg-slo-5",
