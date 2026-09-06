@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-09-05T06:11:57+00:00",
+  "letzte_berechnung": "2026-09-06T06:11:26+00:00",
   "gesamt": {
     "tipps": 427,
     "gewonnen": 223,
@@ -13,26 +13,26 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 9.6
   },
   "letzte_30_tage": {
-    "tipps": 152,
-    "gewonnen": 75,
-    "verloren": 65,
+    "tipps": 143,
+    "gewonnen": 69,
+    "verloren": 62,
     "push": 1,
     "offen": 11,
-    "einsatz": 141.0,
+    "einsatz": 132.0,
     "netto": 31.12,
-    "trefferquote": 53.6,
-    "roi_prozent": 22.1
+    "trefferquote": 52.7,
+    "roi_prozent": 23.6
   },
   "letzte_90_tage": {
-    "tipps": 409,
-    "gewonnen": 209,
-    "verloren": 188,
+    "tipps": 398,
+    "gewonnen": 203,
+    "verloren": 183,
     "push": 1,
     "offen": 11,
-    "einsatz": 398.0,
-    "netto": 35.04,
+    "einsatz": 387.0,
+    "netto": 37.0,
     "trefferquote": 52.6,
-    "roi_prozent": 8.8
+    "roi_prozent": 9.6
   },
   "nach_liga": {
     "NBA Finals 2026 Game 1": {
@@ -4253,6 +4253,143 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-09-05",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Kombi",
+          "kategorie": "safe",
+          "gesamtquote": 3.82,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Bayern Muenchen (90 Min)",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Inter Mailand (90 Min)",
+              "quote": 1.68,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Newcastle (90 Min)",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi",
+          "kategorie": "balance",
+          "gesamtquote": 6.56,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Harry Kane Torschuetze jederzeit",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Guirassy Torschuetze jederzeit",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.55,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Atletico Madrid oder Remis (Doppelte Chance)",
+              "quote": 1.35,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi",
+          "kategorie": "risk",
+          "gesamtquote": 17.71,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Anthony Elanga Torschuetze jederzeit",
+              "quote": 2.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Donyell Malen Torschuetze jederzeit",
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Julian Alvarez Torschuetze jederzeit",
+              "quote": 2.8,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi",
+          "kategorie": "moonshot",
+          "gesamtquote": 142.51,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Kane trifft 2+ Mal",
+              "quote": 2.9,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Scamacca Torschuetze jederzeit",
+              "quote": 2.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Karetsas Torschuetze jederzeit",
+              "quote": 4.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Gibbs-White Torschuetze jederzeit",
+              "quote": 4.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-09-04",
       "gesamt": {

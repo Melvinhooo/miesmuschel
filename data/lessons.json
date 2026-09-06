@@ -2977,6 +2977,42 @@
       "kategorie": "Mourinho-Real-Madrid = Unter 2.5 statt Ueber 2.5 (8g Markt-Pattern aus volle_analyse)",
       "lesson": "Real Madrid unter Mourinho hat in den 4 Saisonstart-Spielen bislang niedrige Torzahlen produziert: 4:0 Malaga (5 Tore) war der Ausreisser, die anderen drei liefen im Rahmen 2-3 Tore. Betis-RM heute endete 1:0 - Ueber 2.5 verloren, obwohl RM als Offensivstark modelliert wurde. Mourinho-Setup ist konter-orientiert, druckt bewusst die Torlinien-Zahlen. Konsequenz: bei RM-Spielen die Torlinie kritisch pruefen - Unter 2.5 als aktive Alternative zu Ueber 2.5 setzen, wenn Mourinho eine Auswaertspartie ohne Zwang zum Angriffsspiel bestreitet (also nicht gegen einen direkten Titelkonkurrenten). Bis mindestens 4 Ligaspiele weitere Belege vorliegen: RM-Ueber-2.5 mit +1 Wackel-Downgrade markieren, RM-Unter-2.5 aktiv als Goldgruben-Kandidat scannen.",
       "bezug_spiel_id": "2026-09-04-bet-rma"
+    },
+    {
+      "datum": "2026-09-05",
+      "kategorie": "8f Drehungs-Cluster: 2 grosse Drehungen an einem Samstag (BVB in Sinsheim + Inter gg Napoli)",
+      "lesson": "Hoffenheim - Dortmund und Inter - Napoli hatten beide zeitweise 0:2-Rueckstaende, die in Sieg gedreht wurden (BVB dreht 0:2->3:2, Inter dreht 0:2->3:2 mit Lautaro-Doppelpack). Newcastle-Bournemouth war die dritte Fast-Drehung (0:2->2:2 durch Sub-Ramsey-Freistoss). Alle drei Kurzquoten-Sieg-Tipps auf die Underdog-Fuehrenden waeren an dem Tag GEWONNEN gewesen. Aber unser Sieg-Newcastle-Tipp (1.75) hat den Bournemouth-Impuls unterschaetzt. Konsequenz: bei mehr als einer Drehungs-Fuehrung im aktuellen Slate hebt sich die Vorsicht bei Sieg-Tipps unter Quote 1.80 auf DC anheben - insbesondere wenn der Underdog kompakt und der Favorit unter CL-Vorlauf-Rotationsdruck. Newcastle hatte de facto genau das Muster.",
+      "bezug_spiel_id": [
+        "2026-09-05-hof-bvb",
+        "2026-09-05-int-nap",
+        "2026-09-05-new-bou"
+      ]
+    },
+    {
+      "datum": "2026-09-05",
+      "kategorie": "8b Torschuetzen-Regression: Volumen-Peaks (Malen 5/2, Elanga 2/2) fielen simultan aus",
+      "lesson": "Beide Volumen-Torschuetzen der letzten Wochen (Malen 5 Tore in 2 Serie-A-Spielen, Elanga 2 Tore in 2 PL-Spielen) blieben am 05.09. blank - trotz Startelf, trotz Einwechslungs-Verlaengerung (Malen 63. raus fuer Castro, Elanga fuer Murphy - beide Ersatzspieler ebenfalls torlos). Auch Alvarez (Rueckkehr aus Krankheit, eingewechselt) traf nicht. Insgesamt 5 von 8 Torschuetzen-Tipps verloren (nur Guirassy, Karetsas via Boost, Lautaro trafen). Konsequenz: nach einem Volumen-Peak in den letzten 2 Spielen erst NACH einer Blank-Woche wieder als VALUE Torschuetzen setzen, sonst regression-anfaellig. HR24 (Form-Edge) darf nicht allein auf einem 2-Spiel-Streak beruhen.",
+      "bezug_spiel_id": [
+        "2026-09-05-rom-ata",
+        "2026-09-05-new-bou",
+        "2026-09-05-ath-atm"
+      ]
+    },
+    {
+      "datum": "2026-09-05",
+      "kategorie": "Einwechslungs-Boost hat Karetsas-Tipp gerettet - Volumen-Backup-Stuermer weiter aktiv scannen (8i)",
+      "lesson": "Karetsas als Adeyemi-Nachfolger (10er hinter Guirassy) wurde ca. 66. Min ausgewechselt fuer Fabio Silva - der direkt zum 2:2 traf. Der Karetsas-Wackel-Tipp (Quote 4.20) landete damit dank bet365-Einwechslungs-Boost als GEWONNEN. Das ist genau das Muster, das die Boost-Regel greifbar macht: neuer 10er mit begrenzter Spielzeit + Backup mit Torgefahr (Fabio Silva/Beier). Konsequenz: bei BVB-Torschuetzen-Tipps auf Sub-anfaellige Spieler (Karetsas, Beier, Nmecha) den Backup-Boost explizit in der begruendung dokumentieren. Kandidaten fuer die kommenden Wochen auch bei anderen Klubs mit klarer Boot-Camp-9er + Volumen-Backup-Struktur (z.B. Napoli mit Hoejlund/Lucca, Bayern mit Kane/Musiala).",
+      "bezug_spiel_id": [
+        "2026-09-05-hof-bvb"
+      ]
+    },
+    {
+      "datum": "2026-09-05",
+      "kategorie": "8h Rotation-Pattern: Kompany-Bayern rotierte Kane+Olise auf die Bank -> 0:0 Auswaerts kostet",
+      "lesson": "Bayern begann in Gelsenkirchen ohne Kane und ohne Olise (beide erst H2). Ergebnis 0:0 - erste Pflicht-Null seit CWC-Pleite gegen PSG (Juli 2025). Unsere Wackel-Bewertung \"Bayern haushoch, 12 in Folge, S04 ohne Achse\" hat die Kompany-Rotation NICHT eingepreist. CL-Ligaphase startet erst 11 Tage spaeter (16.-18.09.), was formell noch keine Doppelbelastung war - trotzdem rotierte Kompany aktiv. Konsequenz: rotationsbereite Trainer (Kompany, Guardiola-Nachfolger, Simeone in Nicht-Titel-Runden) auch OHNE akuten CL-Termin taktisch rotationsverdaechtig einstufen, wenn der letzte Sieg dominant war (5:1 gg Stuttgart). saison_kontext.recovery_gast von \"6 Tage frisch, wird nicht rotieren\" auf \"6 Tage frisch, ABER Kompany rotiert auch nach Kantersiegen\" umschreiben - Sieg-Tipps auf Bayern-Auswaerts bei Aufsteigern max VALUE, nicht SAFE.",
+      "bezug_spiel_id": [
+        "2026-09-05-s04-bay"
+      ]
     }
   ]
 }
