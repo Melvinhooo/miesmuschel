@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-04T06:20:00+00:00",
+  "stand": "2026-09-06T21:00:00+00:00",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -289,6 +289,62 @@
       "hinweis": "DFB-Torhueter zu Frankfurt per Leihe (1 Mio Leihgebuehr + 12.5 Mio Kaufpflicht ab 2027/28). Vertrag in Freiburg musste erst verlaengert werden, damit Leihe erlaubt. NIE mehr als Freiburg-Spieler tippen. Jetzt Frankfurt-Keeper unter Adi Huetter - relevant fuer Zu-Null- und Torschuetzen-Tore-gegen-Frankfurt-Maerkte.",
       "quelle": "https://www.scfreiburg.com/en/latest/first-team/news/2026-27/noah-atubolu-extends-contract-and-joins-frankfurt-on-loan",
       "stand": "2026-08-30"
+    },
+    {
+      "spieler": "Bradley Barcola",
+      "von": "Paris Saint-Germain",
+      "nach": "Liverpool FC",
+      "datum": "2026-09-01",
+      "ablöse_mio": 123,
+      "hinweis": "Deadline-Day-Rekord: £106m garantiert + £17m Add-Ons = potenziell £123m, 5-Jahres-Vertrag. Zweitteuerster Liverpool-Transfer aller Zeiten nach Isak. NIE mehr als PSG-Spieler tippen. Frankreich-Nationalspieler, letzte Saison 49 PSG-Einsaetze / 13 Tore / 7 Assists. Ab jetzt Liverpool-Fluegel unter Iraola.",
+      "quelle": "https://www.liverpoolfc.com/news/liverpool-sign-bradley-barcola-paris-saint-germain",
+      "stand": "2026-09-06"
+    },
+    {
+      "spieler": "Enzo Fernandez",
+      "von": "Chelsea FC",
+      "nach": "Manchester City",
+      "datum": "2026-09-01",
+      "ablöse_mio": 125,
+      "hinweis": "Deadline-Day-Wechsel: £125m, joint-britisches-Rekord-Ablöse (matcht Isak 2025). 5-Jahres-Vertrag. Argentinischer Weltmeister-6er. NIE mehr als Chelsea-Spieler tippen. Ab jetzt Man City-Mittelfeld unter Guardiola neben Elliot Anderson.",
+      "quelle": "https://www.mancity.com/news/mens/enzo-fernandez-signs-for-city-63923893",
+      "stand": "2026-09-06"
+    },
+    {
+      "spieler": "Niels Nkounkou",
+      "von": "Eintracht Frankfurt",
+      "nach": "OGC Nice (Leihe)",
+      "datum": "2026-09-01",
+      "hinweis": "Franz. LV per Leihe fuer den Rest der Saison 2026/27 nach Nice. NIE mehr als Frankfurt-Spieler tippen (bis Sommer 2027 mind.).",
+      "quelle": "https://www.bundesliga.com/en/bundesliga/news/official-bundesliga-transfer-centre-summer-2026-37051",
+      "stand": "2026-09-06"
+    },
+    {
+      "spieler": "Andreas Hanche-Olsen",
+      "von": "1. FSV Mainz 05",
+      "nach": "Chicago Fire FC (MLS)",
+      "datum": "2026-09-01",
+      "hinweis": "Norwegischer IV per Deadline-Day zu MLS-Klub Chicago Fire. NIE mehr als Mainz-Spieler tippen.",
+      "quelle": "https://www.bundesliga.com/en/bundesliga/news/official-bundesliga-transfer-centre-summer-2026-37051",
+      "stand": "2026-09-06"
+    },
+    {
+      "spieler": "Samuel Mbangula",
+      "von": "SV Werder Bremen",
+      "nach": "Bologna FC (Leihe mit Kaufoption)",
+      "datum": "2026-09-01",
+      "hinweis": "Belgischer Fluegel per Deadline-Day per Leihe zu Bologna, Kaufoption. NIE mehr als Bremen-Spieler tippen (mind. Saison 2026/27).",
+      "quelle": "https://www.bundesliga.com/en/bundesliga/news/official-bundesliga-transfer-centre-summer-2026-37051",
+      "stand": "2026-09-06"
+    },
+    {
+      "spieler": "Nicolas Kuehn",
+      "von": "Como 1907",
+      "nach": "Borussia Moenchengladbach (Leihe)",
+      "datum": "2026-09-01",
+      "hinweis": "Ex-DFB-U-Nationalspieler per Deadline-Day per Leihe fuer den Rest 2026/27 von Como zu Gladbach. NIE mehr als Como-Spieler tippen bis Sommer 2027. Ab jetzt Gladbach-Offensiv-Option.",
+      "quelle": "https://www.bundesliga.com/en/bundesliga/news/official-bundesliga-transfer-centre-summer-2026-37051",
+      "stand": "2026-09-06"
     }
   ],
   "zugaenge_neue_optionen": [
@@ -446,6 +502,45 @@
       "hinweis": "Japanischer Volumen-9er, 25 Tore fuer Feyenoord in Vorsaison (Eredivisie 31 Spiele). Debut fuer Lille am 03.09.2026 als 73'-Joker in Toulouse und traf sofort per Kopf (Endstand 0:1 fuer Lille). Torschuetzen-Screening-Kandidat fuer alle Lille-Spiele; Fernandez-Pardo (Newcastle) und Igamane (verletzt) Abgaenge bedeuten breite Sturm-Rolle.",
       "quelle": "https://japantoday.com/category/sports/japan's-ueda-fires-lille-top-of-ligue-1-on-debut",
       "stand": "2026-09-04"
+    },
+    {
+      "spieler": "Bradley Barcola",
+      "nach": "Liverpool FC",
+      "von": "Paris Saint-Germain",
+      "ablöse_mio": 123,
+      "datum": "2026-09-01",
+      "hinweis": "Deadline-Day-Rekord £123m (£106m fix). 5-Jahres-Vertrag. Neuer Fluegel-Star fuer Liverpool unter Iraola, ersetzt kombiniert die Salah-Luecke. Torschuetzen-Screening-Kandidat.",
+      "quelle": "https://www.liverpoolfc.com/news/liverpool-sign-bradley-barcola-paris-saint-germain",
+      "stand": "2026-09-06"
+    },
+    {
+      "spieler": "Enzo Fernandez",
+      "nach": "Manchester City",
+      "von": "Chelsea FC",
+      "ablöse_mio": 125,
+      "datum": "2026-09-01",
+      "hinweis": "Deadline-Day-Wechsel fuer £125m, joint-britisches-Rekord-Ablöse. 5-Jahres-Vertrag. Argentinischer Weltmeister-6er. Neu Man City-Achse mit Elliot Anderson und Bouaddi im Mittelfeld.",
+      "quelle": "https://www.mancity.com/news/mens/enzo-fernandez-signs-for-city-63923893",
+      "stand": "2026-09-06"
+    },
+    {
+      "spieler": "Guela Doue",
+      "nach": "Bayer Leverkusen",
+      "von": "RC Strasbourg",
+      "ablöse_mio": 37.5,
+      "datum": "2026-09",
+      "hinweis": "Ivorischer RV, 23 Jahre. €30m fix + bis €37.5m mit Boni, Vertrag bis 2031, Rueckennummer 20. Bruder von Desire Doue (PSG). Vier WM-2026-Einsaetze fuer die Elfenbeinkueste. Neu Leverkusen-RV unter Martinez Novell.",
+      "quelle": "https://www.bundesliga.com/en/bundesliga/news/bayer-leverkusen-guela-doue-strasbourg-transfer-full-back-38921",
+      "stand": "2026-09-06"
+    },
+    {
+      "spieler": "Nicolas Kuehn",
+      "nach": "Borussia Moenchengladbach",
+      "von": "Como 1907 (Leihe)",
+      "datum": "2026-09-01",
+      "hinweis": "Ex-DFB-U-Nationalspieler per Leihe fuer den Rest 2026/27. Neu Gladbach-Offensiv-Option.",
+      "quelle": "https://www.bundesliga.com/en/bundesliga/news/official-bundesliga-transfer-centre-summer-2026-37051",
+      "stand": "2026-09-06"
     }
   ],
   "trainer_2026_27": [
@@ -651,6 +746,9 @@
   ],
   "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist. Fulham hat mit Arbeloa (ex-Real Madrid) einen neuen Trainer, Silva zu Benfica (bestaetigt 25.08.2026).",
   "quellen": [
+    "https://www.bundesliga.com/en/bundesliga/news/official-bundesliga-transfer-centre-summer-2026-37051",
+    "https://www.tntsports.co.uk/football/transfers/2026-2027/deadline-day-summer-2026-done-deals-premier-league-la-liga-serie-a-ligue-1-bundesliga_sto23333078/story.shtml",
+    "https://www.skysports.com/transfer/news/12691/13579708/transfer-deadline-day-deals-summer-2026-confirmed-moves-across-premier-league-championship-efl-europe-and-more",
     "https://www.90min.de/sommer-transfers-in-der-bundesliga-2026-alle-offiziellen-wechsel-im-uberblick",
     "https://www.wetttippsheute.net/bundesliga-trainer-2026-27-die-trainerbank-zum-saisonstart-im-ueberblick/",
     "https://www.kicker.de/das-sind-die-bundesliga-trainer-der-saison-2026-27-902978/slideshow",
