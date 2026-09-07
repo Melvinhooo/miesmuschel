@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-06T21:00:00+00:00",
+  "stand": "2026-09-07T06:30:00+00:00",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -345,6 +345,16 @@
       "hinweis": "Ex-DFB-U-Nationalspieler per Deadline-Day per Leihe fuer den Rest 2026/27 von Como zu Gladbach. NIE mehr als Como-Spieler tippen bis Sommer 2027. Ab jetzt Gladbach-Offensiv-Option.",
       "quelle": "https://www.bundesliga.com/en/bundesliga/news/official-bundesliga-transfer-centre-summer-2026-37051",
       "stand": "2026-09-06"
+    },
+    {
+      "spieler": "Rafael Leao",
+      "von": "AC Milan",
+      "nach": "Galatasaray",
+      "datum": "2026-08-30",
+      "ablöse_mio": 38,
+      "hinweis": "€38m Fixfee + 20% Sell-on-Klausel fuer Milan, 4-Jahres-Vertrag bis 2030, Netto-Gehalt €10m/Saison. NIE mehr als Milan-Spieler tippen. Eintrag aus Auswertung 07.09.: Leao im Juve-Milan-Dossier 06.09. als Torschuetzen-Tipp aufgestellt worden, obwohl er 30.08. offiziell zu Galatasaray gewechselt ist - Milan lief 06.09. mit 3-4-2-1 Rabiot/Saelemaekers hinter Ramos auf, kein Leao im Kader.",
+      "quelle": "https://sports.yahoo.com/articles/official-milan-sell-leao-galatasaray-102000969.html",
+      "stand": "2026-09-07"
     }
   ],
   "zugaenge_neue_optionen": [
@@ -541,6 +551,33 @@
       "hinweis": "Ex-DFB-U-Nationalspieler per Leihe fuer den Rest 2026/27. Neu Gladbach-Offensiv-Option.",
       "quelle": "https://www.bundesliga.com/en/bundesliga/news/official-bundesliga-transfer-centre-summer-2026-37051",
       "stand": "2026-09-06"
+    },
+    {
+      "spieler": "Morgan Rogers",
+      "nach": "Chelsea FC",
+      "von": "Aston Villa",
+      "ablöse_mio": 117,
+      "datum": "2026-07-22",
+      "hinweis": "£117m Rekord-Transfer (teuerster britischer Spieler). Ab 06.09. Startelf bei Chelsea, traf zum 0:1 nach 77 Sek gegen Arsenal (Emirates). Ab jetzt aktiv als Chelsea-Volume-Torschuetze scoutbar.",
+      "quelle": "https://www.aljazeera.com/sports/liveblog/2026/9/6/live-arsenal-vs-chelsea-premier-league-2",
+      "stand": "2026-09-07"
+    },
+    {
+      "spieler": "Alphadjo Cisse",
+      "verein": "AC Milan",
+      "rolle": "Sturm (Youngster / Joker)",
+      "hinweis": "Milan-Nachwuchs. Kam 06.09. als Sub fuer Rabiot rein und traf zum 0:1 (69.) beim 1:1 in Turin - erster Serie-A-Treffer. Ab jetzt als Milan-Joker-Torschuetze scoutbar (kein Startelf-Fix, aber Joker-Boost-Trigger).",
+      "quelle": "https://milanreports.com/2026/09/06/juventus-1-milan-1-gatti-cisse/",
+      "stand": "2026-09-07"
+    },
+    {
+      "spieler": "Ainsley Maitland-Niles",
+      "nach": "Everton FC",
+      "von": "Lyon (frei)",
+      "datum": "2026-08",
+      "hinweis": "Kam als Sub 06.09. gegen Man United rein, traf 90+6 zum 2:2-Ausgleich - Debuet-Joker im neuen Hill Dickinson Stadium. Ab jetzt Everton-Joker-Screening.",
+      "quelle": "https://www.espn.com/soccer/report/_/gameId/401879291",
+      "stand": "2026-09-07"
     }
   ],
   "trainer_2026_27": [
