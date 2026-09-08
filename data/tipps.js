@@ -1,442 +1,157 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
-  "datum": "2026-09-06",
-  "erstellt_am": "2026-09-06T08:16:31+00:00",
-  "hinweis": "6 Top-Spiele fuer Sonntag 06.09.2026 (Big-Match-Wochenende: Juve-Milan + Arsenal-Chelsea + Valencia-Barca + Everton-United + BL-Sonntag mit HSV-Mainz und Frankfurt-Augsburg). Kasse Stufe 1 (1000€ Basis, stufe_2_freigeschaltet=false trotz +9.6% Gesamt-ROI - Saison-eigener Edge muss erst 30 Tage laufen). Fokus: Barca-Uebermacht + Arsenal-Heim + Sonntag-BTTS/Ueber-Tore, moderater Risk-Anteil. Kader-Frische geprueft: Adeyemi jetzt bei Barca (Assist zuletzt gegen Rayo), Jackson bei Villa (raus aus Chelsea), Rodri jetzt bei Barca (Rueckkehr von Rueckenverletzung), G. Ramos jetzt bei Milan, Grealish auf Leihe bei Everton, Norgaard bei Everton (aber verletzt), Bruno Guimaraes bei Arsenal, Isak bei Liverpool (spielt heute nicht). Ligue 1 Marseille-Paris FC + Serie-A-Kleinbrocken + Alaves-Osasuna/Espanyol-Sevilla/Malaga-Levante nicht in dieses Kern-Dossier aufgenommen (Konzentration auf Top-Big-Matches).",
+  "datum": "2026-09-08",
+  "erstellt_am": "2026-09-08T14:30:00+02:00",
+  "hinweis": "Watchdog-Recovery Mo-Fr - Hauptroutine 13:30 hat kein Dossier geliefert. Heute Dienstag: erster CL-Ligaphase-Spieltag mit zwei Fruehstartern - BVB vs Villarreal (21:00 Signal Iduna) und Real Madrid vs Inter (21:00 Bernabeu). Kein weiteres Vereins-Programm im Slate (Bundesliga/PL/LaLiga/Serie A/Ligue 1 haben Nationalmannschaftspause verlaengert bzw. spielen erst ab 12.09.). Zwei Spiele - bewusst schmales Kombi-Angebot: Safe + Balance. Risiko/Moonshot bewusst weggelassen (Layer-1 max 1 Bein/Spiel + nur 2 Spiele = keine tragfaehige Risiko-Struktur ohne fabrizierte Quoten). Kasse 1000 EUR, Stufe 1 (stufe_2 nicht freigeschaltet - Saison-eigener 30d-ROI noch nicht bestaetigt). CL-Match: 2:0-Insurance greift bei direktem Sieg-Tipp. Quoten sind Aggregator-Schaetzungen, bei bet365 live pruefen.",
   "spiele": [
     {
-      "id": "2026-09-06-juv-mil",
-      "liga": "Serie A - 3. Giornata",
-      "heim": "Juventus Turin",
-      "gast": "AC Milan",
-      "anstoss": "2026-09-06T20:45:00+02:00",
-      "stadion": "Allianz Stadium, Turin",
+      "id": "2026-09-08-bvb-vil",
+      "liga": "UEFA Champions League - Ligaphase Spieltag 1",
+      "heim": "Borussia Dortmund",
+      "gast": "Villarreal CF",
+      "anstoss": "2026-09-08T21:00:00+02:00",
+      "stadion": "Signal Iduna Park, Dortmund",
       "saison_kontext": {
-        "parallel_heim": "keine - kein Europapokal 2026/27 (Juve als Nicht-Quali in Vorsaison)",
-        "parallel_gast": "keine - Milan im letzten Jahr ohne Europa, jetzt zurueck in CL Ligaphase startet 16.-18.09.",
-        "saisonziel_heim": "Scudetto-Anwaerter unter Spalletti (1. Saison), 2 Siege in 2 (Parma-Sieg zuletzt)",
-        "saisonziel_gast": "Scudetto + CL-Comeback unter Ruben Amorim (1. Saison), 2 Siege in 2 (Venezia-Sieg zuletzt)",
-        "motivations_asymmetrie": "Big-Match beider Titel-Anwaerter, beide 100% Start. Milan mit CL-Auftakt in 10 Tagen, aber Amorim wird nicht rotieren beim ersten Saison-Klassiker. Coinflip mit leichtem Heim-Bonus fuer Juve.",
-        "recovery_heim": "13 Tage seit 2. Spieltag (Parma-Sieg), sehr frisch - Vorbereitung auf Big-Match ungestoert",
-        "recovery_gast": "13 Tage seit 2. Spieltag (Venezia-Sieg), sehr frisch, Amorim hatte volle Trainingswoche",
+        "parallel_heim": "CL-Ligaphase Auftakt - BVB rotiert im CL-Auftakt vor Heimkulisse nicht, Ligaphase-Punkte fuer Top-8-Direkteinzug haben Prioritaet. Naechster Bundesliga-Termin (MW3) erst 12.-14.09.",
+        "parallel_gast": "LaLiga J4 (Villarreal spielte am 06.09.) - drei Tage Regeneration, Marcelino kann Rotation im Mittelfeld nutzen, offensive Achse (Yeremy Pino / Gerard Moreno) bleibt",
+        "saisonziel_heim": "BL-Rueckkehr in Top-4 (letzte Saison Vize-Lock), CL-Ligaphase-Top-8 als sekundaeres Ziel - Kovac stabil auf der Bank",
+        "saisonziel_gast": "LaLiga Top-6 + CL-Achtelfinal-Play-offs (die 24 Plaetze 9-24 der Ligaphase spielen um 8 Achtelfinaltickets)",
+        "motivations_asymmetrie": "BVB Heim vor 81.000 mit klarer Favoritenrolle - Adeyemi weg zu Barcelona (siehe kader_wechsel_2026.json Eintrag 24.07.), Guirassy weiter Volumen-9er, Karetsas und Konstantelias als neue Fluegel-Optionen. Villarreal spielerisch sauber unter Marcelino, aber Auswaerts-Ausbeute in CL-Auftaktspielen historisch schwach, Kader-Tiefe im Sturm begrenzter als BVB",
+        "recovery_heim": "3 Tage seit Bundesliga MW2, kein Pokal-Spiel dazwischen - frisch",
+        "recovery_gast": "2 Tage seit LaLiga J4 - kurze Woche, Rotationsrisiko im Mittelfeld",
         "quellen": [
-          "https://www.lapresse.it/calcio/2026/09/06/serie-a-oggi-juventus-milan-orario-probabili-formazioni-e-dove-vederla-in-tv/",
-          "https://ju24.it/news/juventus-milan-probabili-formazioni-e-dove-vederla/",
-          "https://www.juventus.com/it/news/articoli/serie-a-dove-vedere-juventus-milan",
-          "https://www.milannews.it/news/probabile-formazione-torino-milan-amorim-maignan-rabiot-leao-pulisic-ramos-moreira-627223"
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.kicker.de/borussia-dortmund/kader",
+          "https://www.transfermarkt.de/villarreal-cf/kader/verein/1050"
         ]
       },
       "news": [
-        "Juve unter Spalletti (1. Saison) 4-2-3-1: Kolo Muani als 9er, Nico Gonzalez, Conceicao, Boga - Yildiz (Verletzung), Thuram und Ekhator OUT, Vlahovic Bank",
-        "Milan unter Ruben Amorim (1. Saison) 3-4-2-1: Goncalo Ramos (Sommer von PSG) als 9er, Leao + Pulisic auf Trequarti, Modric + Musah zentral - Nkunku ist als Leihe zu Leipzig weiter",
-        "Beide 2 Siege 2 Spielen - erstes Titel-Statement der Saison",
-        "CL-Ligaphase startet 16.-18.09. - noch keine Belastung; Amorim wird gegen Juve nicht rotieren"
+        "CL-Auftakt Dienstag 21:00 CEST vor ausverkauftem Signal-Iduna-Park",
+        "Adeyemi seit 24.07. bei Barcelona (kader_wechsel_2026.json bestaetigt) - kein Torschuetzen-Tipp auf ihn fuer BVB",
+        "Guirassy als zentraler Volumen-9er weiter Stamm, Karetsas/Konstantelias als neue Fluegel-Optionen ersetzen Adeyemi",
+        "2:0-Insurance greift bei direktem Sieg-Tipp (bet365-DE-Aktionsregel fuer CL) - Puffer bei Fuehrung",
+        "Villarreal-Marcelino-Setup defensiv-kompakt, Auswaerts-Ausbeute in CL historisch schwach"
       ],
       "tipps": [
         {
-          "id": "juv-mil-1",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen",
-          "quote": 1.72,
-          "edge_prozent": 6.0,
-          "begruendung": "Juve mit Kolo Muani + Nico Gonzalez offensiv, Milan mit G. Ramos + Leao + Pulisic hoch pressend. Amorim-System liefert Chancen. Beide haben in Saisonstart je 2 Tore geschossen. Fairness ~1.62. Stake 12€ (1.2%).",
-          "faire_quote": 1.62,
-          "empfohlener_einsatz_prozent": 1.2
-        },
-        {
-          "id": "juv-mil-2",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.85,
-          "edge_prozent": 5.5,
-          "begruendung": "Zwei offensive Systeme (Spalletti + Amorim), keine defensiv festgefahrenen Kader, Big-Match ohne taktische Zurueckhaltung. Ueber 2.5 ist aktuelle Markt-Goldgrube (+18.5% ROI historisch). Stake 12€ (1.2%).",
-          "faire_quote": 1.75,
-          "empfohlener_einsatz_prozent": 1.2
-        },
-        {
-          "id": "juv-mil-3",
-          "kategorie": "wackel",
-          "markt": "Rafael Leao Torschuetze jederzeit",
-          "quote": 3.4,
-          "edge_prozent": 5.0,
-          "begruendung": "Leao als Trequarti-Fluegel im Amorim-System hat Torbeteiligung in beiden Saison-Spielen. Volume-Aussenspieler, HR24 nur teilweise (kein zentraler 9er), daher wackel. Stake 5€ (0.5%).",
-          "faire_quote": 3.2,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "juv-mil-4",
-          "kategorie": "wackel",
-          "markt": "Doppelte Chance Milan oder Remis",
-          "quote": 1.62,
-          "edge_prozent": 4.0,
-          "begruendung": "Milan mit Modric/Musah zentral robuster als Juves Locatelli/Douglas Luiz, in Turin trotzdem ohne klaren Auswaerts-Edge - DC statt direkt Sieg wegen Coinflip-Charakter. Goldgrube-Markt (DC X2 +27% ROI). Stake 5€ (0.5%).",
-          "faire_quote": 1.55,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-09-06-ars-che",
-      "liga": "Premier League - Matchday 3",
-      "heim": "Arsenal FC",
-      "gast": "Chelsea FC",
-      "anstoss": "2026-09-06T17:30:00+02:00",
-      "stadion": "Emirates Stadium, London",
-      "saison_kontext": {
-        "parallel_heim": "keine - CL Ligaphase startet 16.-18.09.",
-        "parallel_gast": "keine - CL Ligaphase startet 16.-18.09.",
-        "saisonziel_heim": "Titel-Anwaerter unter Arteta, 2 Siege 2 Spiele, 4:0 Tore, 6 Pkt - Startphase makellos",
-        "saisonziel_gast": "Top-4 + CL unter Xabi Alonso (1. Saison), 2 Siege 2 Spiele (u.a. 4:3 vs Brighton), 6 Pkt",
-        "motivations_asymmetrie": "Beide 6 Pkt, London-Derby. Arsenal defensiv makellos (0 GA, 2 CS), Chelsea offensiv wilder (4:3-Krimi in MD2). Zuhause bleibt Arsenal knapp Favorit; Chelseas Defensive unter Alonso noch nicht eingespielt.",
-        "recovery_heim": "12 Tage seit 1:0 in Villa (Saka Winner 59.), voll frisch",
-        "recovery_gast": "12 Tage seit 4:3 vs Brighton (Lavia, Neto, J. Pedro, Palmer), voll frisch",
-        "quellen": [
-          "https://www.arsenal.com/fixture/arsenal/2026-Sep-06/chelsea",
-          "https://www.goal.com/en/news/arsenal-chelsea-premier-league-preview/bltf175cccc670a3c06",
-          "https://lastwordonsports.com/football/2026/09/06/arsenal-vs-chelsea-lineup/",
-          "https://sports.yahoo.com/articles/where-watch-arsenal-vs-chelsea-070005290.html"
-        ]
-      },
-      "news": [
-        "Arsenal 2W-0D-0N, 4:0 Tore - defensiv makellos unter Arteta, Saka Winner in Villa",
-        "Chelsea (Xabi Alonso 1. Saison) 2W, 4:3 vs Brighton mit Lavia/Neto/J.Pedro/Palmer",
-        "Kader-Wechsel Chelsea 2026: Jackson zu Villa (28.08.), Lacroix (Palace), Rogers (Villa), Guehi zu City weg",
-        "Kader-Wechsel Arsenal 2026: Hincapie (Leverkusen), Norgaard zu Everton weg; Bruno Guimaraes zugegangen",
-        "Odds: Arsenal 4/6 (1.67), Draw 14/5 (3.80), Chelsea 15/4 (4.75)"
-      ],
-      "tipps": [
-        {
-          "id": "ars-che-1",
-          "kategorie": "value",
-          "markt": "Sieg Arsenal (90 Min)",
-          "quote": 1.67,
-          "edge_prozent": 6.0,
-          "begruendung": "Zuhause makellos gestartet, defensiv unter Arteta (0 GA), Chelsea defensiv unter Alonso noch fragil (4:3 vs Brighton). Kein 2:0-Insurance in PL. Stake 15€ (1.5%).",
-          "faire_quote": 1.57,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "ars-che-2",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.8,
-          "edge_prozent": 5.5,
-          "begruendung": "Chelsea offensiv topaktiv (4:3 Brighton), Arsenal in Villa 1:0 aber Chelsea nicht Villa. Beide sind offensiv im Rhythmus. Ueber 2.5 Markt-Goldgrube (+18.5% ROI). Stake 12€ (1.2%).",
-          "faire_quote": 1.7,
-          "empfohlener_einsatz_prozent": 1.2
-        },
-        {
-          "id": "ars-che-3",
-          "kategorie": "wackel",
-          "markt": "Saka Torschuetze jederzeit",
-          "quote": 2.75,
-          "edge_prozent": 8.0,
-          "begruendung": "Saka Winner in Villa - Form-Edge zieht ins London-Derby. Volume-Fluegel gegen defensiv wackelnde Chelsea-Reihe unter Alonso. Torschuetzen Jederzeit ist Goldgrube (+24% ROI). Stake 12€ (1.2%). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
-          "faire_quote": 2.55,
-          "empfohlener_einsatz_prozent": 1.2,
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "id": "ars-che-4",
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen",
-          "quote": 1.7,
-          "edge_prozent": 3.5,
-          "begruendung": "Arsenal-Defensive stark (0 GA), aber Chelsea offensiv breit (4 Torschuetzen in MD2). Nicht SAFE weil Arsenal 2 CS in Folge halten kann. Stake 5€ (0.5%).",
-          "faire_quote": 1.62,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-09-06-val-fcb",
-      "liga": "LaLiga - Jornada 4",
-      "heim": "Valencia CF",
-      "gast": "FC Barcelona",
-      "anstoss": "2026-09-06T16:15:00+02:00",
-      "stadion": "Mestalla, Valencia",
-      "saison_kontext": {
-        "parallel_heim": "keine - kein Europapokal",
-        "parallel_gast": "keine - CL Ligaphase startet 16.-18.09.",
-        "saisonziel_heim": "Abstiegskampf-Modus - 1 Pkt aus 9, 2 Niederlagen (Betis 0:1, Depor 1:3)",
-        "saisonziel_gast": "Titel-Verteidiger unter Flick, 3 Siege aus 3, 12:2 Tore - Startphase perfekt",
-        "motivations_asymmetrie": "Massive Asymmetrie. Barca aggressiver Titel-Modus + Yamal/Raphinha im Rhythmus, Adeyemi seit Sommer 2026 fest im Kader (Assist gegen Rayo 30.08.). Valencia 6 verletzte Ausfaelle (Sadiq, G. Rodriguez, Copete, u.a.), heimschwach.",
-        "recovery_heim": "10 Tage seit Depor-1:3, unter Druck ohne Serienspieler",
-        "recovery_gast": "10 Tage seit Rayo-5:2, im Flow ohne CL-Ballast noch bis 16.09.",
-        "quellen": [
-          "https://www.eurosport.es/futbol/la-liga/2026-2027/valencia-barcelona-jornada-4-alineaciones-probables-previa-estadisticas-horario-como-ver-tv-online-streaming-enlace_sto23334258/story.shtml",
-          "https://www.jornadaperfecta.com/partido/13350/valencia-barcelona",
-          "https://libero.pe/futbol-internacional/2026/09/05/alineaciones-barcelona-vs-valencia-laliga-imponente-once-de-hansi-flick-pelear-liderato-53450",
-          "https://www.betfair.es/blog/futbol/futbol-espanol/laliga/valencia---barcelona-alineaciones-horario-donde-ver-pronosticos-y-estadisticas-040926-1210.html"
-        ]
-      },
-      "news": [
-        "Barca-Aufstellung: Joan Garcia; Cancelo, Christensen, Cubarsi, Kounde; Rodri (Sommer von Man City), Pedri, Dani Olmo; Raphinha, Yamal, Adeyemi (Sommer von BVB)",
-        "Barca 12:2 Tore aus 3 Spielen - Flicks 4-3-3 im Vollrhythmus, Yamal + Raphinha als Fluegel-Volumen-Optionen",
-        "Valencia mit 6 Verletzten (Sadiq, G. Rodriguez, Copete, S. Canos, u. a.), 1 Pkt in 3, 4 Gegentore",
-        "Kader-Wechsel Barca 2026: Rodri (City), Adeyemi (BVB), Torres zu PSG weg"
-      ],
-      "tipps": [
-        {
-          "id": "val-fcb-1",
+          "id": "bvb-vil-1",
           "kategorie": "safe",
-          "markt": "Doppelte Chance Barcelona oder Remis",
+          "markt": "Doppelte Chance BVB oder Remis (1X)",
           "quote": 1.15,
-          "edge_prozent": 4.5,
-          "begruendung": "Barca im 3-Siege-Modus, Valencia mit 6 Verletzten heimschwach - selbst ein Ausrutscher rettet das Remis. DC X2 ist Markt-Goldgrube (+27% ROI). Stake 15€ (1.5%).",
+          "edge_prozent": 4.0,
           "faire_quote": 1.11,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "BVB Heim gegen Villarreal - Doppelte Chance 1X ist Markt-Goldgrube (68.8% Hit, +12.2% ROI laut statistik.json n=16). Auswaertssieg von Villarreal im Signal Iduna Park bei CL-Auftakt historisch extrem selten. Stake 20 EUR (2% von 1000 EUR Kasse, Stufe 1)."
         },
         {
-          "id": "val-fcb-2",
+          "id": "bvb-vil-2",
           "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.55,
-          "edge_prozent": 5.5,
-          "begruendung": "Barca-Sturm bei 4.0 xG pro Spiel (12 Tore in 3), Valencia hat in jedem Spiel Gegentore kassiert. Ueber 2.5 Markt-Goldgrube (+18.5% ROI). Stake 12€ (1.2%).",
-          "faire_quote": 1.47,
-          "empfohlener_einsatz_prozent": 1.2
-        },
-        {
-          "id": "val-fcb-3",
-          "kategorie": "wackel",
-          "markt": "Lamine Yamal Torschuetze jederzeit",
-          "quote": 1.95,
-          "edge_prozent": 7.0,
-          "begruendung": "Volume-Fluegel bei Barca-Uebermacht - traf zuletzt vs Rayo (5:2, 90.). Torschuetzen Jederzeit ist Goldgrube (+24% ROI historisch). Stake 12€ (1.2%). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
-          "faire_quote": 1.82,
-          "empfohlener_einsatz_prozent": 1.2,
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "id": "val-fcb-4",
-          "kategorie": "wackel",
-          "markt": "Raphinha Torschuetze jederzeit",
-          "quote": 2.4,
-          "edge_prozent": 6.0,
-          "begruendung": "Zweiter Volume-Fluegel, wechselseitige Kombinationen mit Yamal. Backup-Boost falls ausgewechselt (Adeyemi kommt oft). Nicht SAFE weil nicht garantiert Startelf. Stake 5€ (0.5%).",
-          "faire_quote": 2.26,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-09-06-eve-mun",
-      "liga": "Premier League - Matchday 3",
-      "heim": "Everton FC",
-      "gast": "Manchester United",
-      "anstoss": "2026-09-06T15:00:00+02:00",
-      "stadion": "Hill Dickinson Stadium, Liverpool",
-      "saison_kontext": {
-        "parallel_heim": "keine - kein Europapokal 2026/27",
-        "parallel_gast": "keine - kein Europapokal 2026/27 (Man United Aussenseiter)",
-        "saisonziel_heim": "Konsolidierung + Europa-Ambition unter Moyes, Start W-W-D (1:0 Palace, EFL-Cup vs Preston, Remis vs Bournemouth)",
-        "saisonziel_gast": "Top-4-Ambition + CL-Rueckkehr unter Amorim (2. Saison), Auftakt 5:2 vs Ipswich - offensiv wieder Zug",
-        "motivations_asymmetrie": "Everton im neuen Hill Dickinson Stadium mit Heimvorteil + Grealish-Leih-Debuet (aus Man City) - Symbol-Match gegen Amorims Ex-Verein. United mit Rashford als 9er hat Formstart, aber Auswaerts historisch anfaellig unter Amorim. Coinflip-Match mit leichtem Heim-Bonus.",
-        "recovery_heim": "8 Tage seit Bournemouth-Remis, Norgaard (Verletzung) OUT",
-        "recovery_gast": "12 Tage seit 5:2 vs Ipswich, keine Kader-Sorgen laut Amorim",
-        "quellen": [
-          "https://www.sportsmole.co.uk/football/man-utd/preview/everton-vs-man-utd-prediction-team-news-lineups_604449.html",
-          "https://ca.sports.yahoo.com/news/where-watch-everton-vs-man-070004032.html",
-          "https://www.goal.com/en/news/everton-manchester-united-premier-league-preview/bltc4cd7f6497714041",
-          "https://www.sportsmole.co.uk/football/everton/predicted-lineups/jack-in-attack-predicted-everton-xi-vs-man-united_604454.html"
-        ]
-      },
-      "news": [
-        "Everton unter Moyes: Pickford - Roehl, Tarkowski, Branthwaite, Mykolenko - Armstrong, Garner - Dibling, Dewsbury-Hall, T. George - Barry (ST)",
-        "Grealish Leih-Rueckkehr (Man City -> Everton, Deadline Day), Ndiaye ging andersrum",
-        "Man United (Amorim): Lammens - Mazraoui, Maguire, Santos, Shaw - Mainoo, Tielemans - Mbeumo, Fernandes, Cunha - Rashford (ST)",
-        "Norgaard (aus Arsenal Sommer 2026) verletzt bei Everton, sonst voll da",
-        "Beide seit MD2 gleichauf mit 6 Direktangriffen im Ligavergleich"
-      ],
-      "tipps": [
-        {
-          "id": "eve-mun-1",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen",
-          "quote": 1.68,
-          "edge_prozent": 6.5,
-          "begruendung": "Everton hat mit Grealish + Barry Chancen (bei 3-3 vor 2 Wochen im Cup), United defensiv unter Amorim auswaerts wackelig (2 GA vs Ipswich trotz Sieg). Everton hatte 3:3 in MD2 - offensiv genug. Stake 12€ (1.2%).",
-          "faire_quote": 1.58,
-          "empfohlener_einsatz_prozent": 1.2
-        },
-        {
-          "id": "eve-mun-2",
-          "kategorie": "value",
-          "markt": "Doppelte Chance Everton oder Remis",
-          "quote": 1.72,
-          "edge_prozent": 5.0,
-          "begruendung": "Neues Hill Dickinson Stadium + Grealish-Symbol-Debuet + United auswaerts unter Amorim historisch schwach. DC X2 ist Markt-Goldgrube (+27% ROI). Stake 12€ (1.2%).",
-          "faire_quote": 1.64,
-          "empfohlener_einsatz_prozent": 1.2
-        },
-        {
-          "id": "eve-mun-3",
-          "kategorie": "wackel",
-          "markt": "Bruno Fernandes Torschuetze jederzeit",
-          "quote": 3.0,
-          "edge_prozent": 5.0,
-          "begruendung": "Fernandes als 10er hinter Rashford + Elfmeter-Schuetze. Auswaerts nicht garantiert (Everton Heim-Statement), aber Volumen-Standardschuetze. Stake 5€ (0.5%).",
-          "faire_quote": 2.85,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "eve-mun-4",
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 2.0,
-          "edge_prozent": 4.0,
-          "begruendung": "Beide je 3 Tore pro Spiel im Schnitt (Everton 3:3, United 5:2). Aber Everton kann auch defensiv unter Moyes stehen. Bewusst wackel wegen Coinflip. Stake 5€ (0.5%).",
-          "faire_quote": 1.92,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-09-06-sge-fca",
-      "liga": "Bundesliga - 2. Spieltag",
-      "heim": "Eintracht Frankfurt",
-      "gast": "FC Augsburg",
-      "anstoss": "2026-09-06T17:30:00+02:00",
-      "stadion": "Deutsche Bank Park, Frankfurt",
-      "saison_kontext": {
-        "parallel_heim": "keine - Europa League startet 24.09., noch keine Belastung",
-        "parallel_gast": "keine - kein Europapokal",
-        "saisonziel_heim": "Top-6 + EL unter Toppmoeller, 1 Pkt aus 1 Spiel (3:3 Union) - offensiv wild, defensiv wackelig",
-        "saisonziel_gast": "Klassenerhalt + Konsolidierung unter Manuel Baum, 3 Pkt in 1 (3:0 Schalke) - starker Auftakt",
-        "motivations_asymmetrie": "Frankfurt heim leicht Favorit trotz Baum-Start-Coup, Frankfurt-Sturm mit Burkardt + Ekitike-Nachfolger noch nicht eingespielt (viele Verletzte Larsson/Doan/Ngankam/Collins). Augsburg fahrbereit, aber Auswaerts-Rueckschlag-Risiko nach Wetter-Schock.",
-        "recovery_heim": "12 Tage seit 3:3 Union, viele Verletzte (Larsson, Doan, Ngankam, N. Collins)",
-        "recovery_gast": "12 Tage seit 3:0 Schalke, Verletzte: Claude-Maurice, Gouweleeuw, Breithaupt, Suso",
-        "quellen": [
-          "https://www.sofascore.com/football/match/eintracht-frankfurt-fc-augsburg/acbszdb",
-          "https://sports.yahoo.com/articles/preview-eintracht-frankfurt-vs-fc-154000796.html",
-          "https://www.sportskeeda.com/football/eintracht-frankfurt-vs-augsburg-prediction-betting-tips-september-6th-2026",
-          "https://footballwhispers.com/blog/eintracht-frankfurt-vs-augsburg-prediction-06-09-2026/"
-        ]
-      },
-      "news": [
-        "Frankfurt-Ausfaelle: Larsson, Doan, Ngankam, N. Collins (alle Verletzung)",
-        "Augsburg-Ausfaelle: Claude-Maurice, Gouweleeuw, Breithaupt, Suso",
-        "Kader-Wechsel Frankfurt 2026: N. Brown zu Bayern, N. Aseko (Bayern) rein - Ekitike war schon in vorheriger Saison abgewandert",
-        "Baum bei Augsburg nach 3:0 vs Schalke im Aufwind - erstes Auswaerts-Spiel als Reality-Check",
-        "H2H: letztes Duell 1:1"
-      ],
-      "tipps": [
-        {
-          "id": "sge-fca-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance Frankfurt oder Remis",
-          "quote": 1.3,
-          "edge_prozent": 4.0,
-          "begruendung": "Frankfurt heim Favorit, Augsburg trotz Aufwind auswaerts historisch schwach. DC 1X ist Markt-Goldgrube (+27% ROI). Kein SAFE weil Toppmoeller-Defensive noch loecherig (3 GA vs Union). Stake 12€ (1.2%).",
-          "faire_quote": 1.24,
-          "empfohlener_einsatz_prozent": 1.2
-        },
-        {
-          "id": "sge-fca-2",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen",
-          "quote": 1.72,
-          "edge_prozent": 5.5,
-          "begruendung": "Frankfurt kassierte 3 gegen Union, Augsburg schoss 3 gegen Schalke - beide Sturm-vs-Defensive im Wackel-Modus. Stake 10€ (1.0%).",
-          "faire_quote": 1.63,
-          "empfohlener_einsatz_prozent": 1.0
-        },
-        {
-          "id": "sge-fca-3",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
+          "markt": "Sieg Borussia Dortmund",
           "quote": 1.75,
-          "edge_prozent": 5.0,
-          "begruendung": "Frankfurt hat 6 Tore in einem Spiel produziert (3:3), Augsburg 3 gegen defensiv duenn. Beide offensiv. Ueber 2.5 Markt-Goldgrube (+18.5% ROI). Stake 10€ (1.0%).",
-          "faire_quote": 1.67,
-          "empfohlener_einsatz_prozent": 1.0
+          "edge_prozent": 8.0,
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0,
+          "begruendung": "Direkter Sieg-Tipp mit 2:0-Insurance-Puffer (bet365-DE-Regel, gilt in CL). Bei 2:0-Fuehrung im Signal-Iduna-Park ist der Tipp durch, auch wenn Villarreal spaet zurueckkaempft. Reality-Check statistik.json: Sieg-Markt n=129, ROI +1.5% - nicht besonders stark, aber Insurance-Puffer macht es zum VALUE-Kandidaten. Stake 15 EUR (1.5%)."
         },
         {
-          "id": "sge-fca-4",
+          "id": "bvb-vil-3",
+          "kategorie": "value",
+          "markt": "Serhou Guirassy Torschuetze jederzeit",
+          "quote": 2.1,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.98,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "begruendung": "Guirassy ist BVBs zentraler Volumen-9er (14+ Ligatore letzte Saison) mit Backup-Stuermern Beier/Konstantelias - Einwechslungs-Boost (bet365-DE-Regel) erhoeht die faktische Hitrate ueber den nominalen Quotenwert. Markt-Goldgrube Torschuetzen Jederzeit (34.3% Hit, +11.8% ROI, n=70 - Datenbasis solide). Villarreal-IV-Duo (Costa/Foyth) kompakt, aber Guirassy holt sich Chancen. Stake 10 EUR (1%)."
+        },
+        {
+          "id": "bvb-vil-4",
           "kategorie": "wackel",
-          "markt": "Burkardt Torschuetze jederzeit",
-          "quote": 2.8,
-          "edge_prozent": 4.0,
-          "begruendung": "Als zentraler 9er nach Ekitike-Abschied. Nicht SAFE weil Verletzten-Chaos vorne (Larsson/Doan raus, Aufstellungs-Unsicherheit). Stake 5€ (0.5%).",
-          "faire_quote": 2.7,
-          "empfohlener_einsatz_prozent": 0.5
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.84,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "CL-Auftaktspiele haben leicht erhoehte Tor-Erwartung (Anfangsnervoesitaet + offene Formationen), aber Marcelino-Defense hat in LaLiga bislang wenig zugelassen - kein Selbstlaeufer, deshalb WACKEL statt VALUE. Markt Ueber 2.5 Tore ist Goldgrube laut statistik.json (55.2% Hit, +21.9% ROI, n=31). Stake 5 EUR (0.5%)."
         }
       ],
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-09-06-hsv-m05",
-      "liga": "Bundesliga - 2. Spieltag",
-      "heim": "Hamburger SV",
-      "gast": "1. FSV Mainz 05",
-      "anstoss": "2026-09-06T15:30:00+02:00",
-      "stadion": "Volksparkstadion, Hamburg",
+      "id": "2026-09-08-rma-int",
+      "liga": "UEFA Champions League - Ligaphase Spieltag 1",
+      "heim": "Real Madrid",
+      "gast": "Inter Mailand",
+      "anstoss": "2026-09-08T21:00:00+02:00",
+      "stadion": "Santiago Bernabeu, Madrid",
       "saison_kontext": {
-        "parallel_heim": "keine - kein Europapokal",
-        "parallel_gast": "Conference League Play-off-Runde/Ligaphase kommt spaeter im Sept - noch keine akute Belastung",
-        "saisonziel_heim": "Klassenerhalt nach BL-Rueckkehr - 0 Pkt aus 1 Spiel (0:2 Startphase), Umbruch-Kader",
-        "saisonziel_gast": "obere Tabellenhaelfte + Conference League - 1 Pkt aus 1 (0:0 Startphase), spielintensiv aber torlos",
-        "motivations_asymmetrie": "Mainz auswaerts leicht Favorit - eingespielter Kader (Zentner, Amiri, Tietz, Caci, Sano) vs HSV im ersten BL-Rhythmus nach 7 Jahren Zweitklassigkeit. HSV mit Verletzten (Omari, Muheim, Rossing-Lelesiit) und Startelf-Unsicherheit. Ohne offensiven Edge auf beiden Seiten.",
-        "recovery_heim": "12 Tage seit 0:2, Ausfaelle: Omari, Muheim, Rossing-Lelesiit",
-        "recovery_gast": "12 Tage seit 0:0, konditionell frisch",
+        "parallel_heim": "LaLiga J4 (06.09.) und J5 (12./13.09.) rahmen den CL-Auftakt ein - Mourinho rotiert eher in der Defensive, die offensive Achse (Mbappe/Vinicius/Bellingham) bleibt fuer CL-Nachtspiel",
+        "parallel_gast": "Serie A g3 gespielt (30.-31.08.), Serie A g4 erst am 14.09. - kein Wochen-Doppel, aber Auswaerts-Reise nach Madrid und ungewohnte europaeische Buehne fuer Chivu-Neuling",
+        "saisonziel_heim": "LaLiga-Titel + CL-Sieg (Mourinho im ersten Jahr zurueck, Vertrag bis 2029, siehe kader_wechsel_2026.json Trainer-Block) - Ehrensache CL-Auftakt zuhause",
+        "saisonziel_gast": "Serie A Top-4 + CL-Achtelfinale (Chivu erstes Chef-Trainer-Jahr, uebernommen Sommer 2026 von Inzaghi)",
+        "motivations_asymmetrie": "Bernabeu-CL-Auftakt-Nacht ist Ehrensache fuer Mourinho - defensiv-solides Setup, Konter ueber Mbappe/Vinicius statt Alonso-Ballbesitz-Ansatz. Inter reist mit europaeischer Rueckennwind an, hat aber unter Chivu offensiv noch nicht seinen Rhythmus gefunden (Lautaro/Thuram noch nicht in Top-Form). Real klarer Favorit, aber Bernabeu vs Inter-Defense (Bastoni/Acerbi) kein Selbstlaeufer",
+        "recovery_heim": "3 Tage seit LaLiga J4",
+        "recovery_gast": "8 Tage seit Serie A g3 (Ende August) - vollkommen frisch, kann volle Elf aufbieten",
         "quellen": [
-          "https://www.sofascore.com/football/match/hamburger-sv-1-fsv-mainz-05/gbbsBdb",
-          "https://www.sportsmole.co.uk/football/hamburger-sv/preview/hamburger-sv-vs-mainz-prediction-team-news-lineups_604499.html",
-          "https://ca.sports.yahoo.com/news/preview-hamburger-sv-vs-mainz-133500105.html",
-          "https://www.mightytips.com/football-predictions/hamburger-sv-vs-mainz-prediction-06-09-2026/"
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.realmadrid.com/en-US/",
+          "https://www.transfermarkt.de/inter-mailand/kader/verein/46"
         ]
       },
       "news": [
-        "Mainz-Aufstellung: Zentner - Da Costa, Posch, Potulski, Caci - Amiri, Sano - Lee, Mwene, Becker - Tietz",
-        "HSV-Ausfaelle: Omari, Muheim, Rossing-Lelesiit - Startelf-Suche im Umbruch",
-        "HSV nach 7 Jahren wieder Bundesliga - Rueckkehr-Rhythmus fehlt",
-        "Mainz mit Amiri (Kapitaen) + Tietz (ST) als Achse, Conference-League-Ballast steht noch bevor"
+        "CL-Auftakt Bernabeu 21:00 CEST - Mourinho neuer Trainer seit 11.06.2026 (siehe kader_wechsel_2026.json Trainer-Block), zweite CL-Aera nach seiner Real-Zeit 2010-13",
+        "Mourinho-Setup: defensiv-kompakter als Alonso, mehr Konter - Unter-Tore und Zu-Null-Maerkte in Real-Spielen aufgewertet",
+        "Mbappe als Konter-Waffe, Vinicius im 1v1 gefaehrlich - beide Volumen-Torschuetzen",
+        "Inter unter Chivu (erstes Jahr): Lautaro/Thuram als Sturm-Duo, aber Auswaerts in Bernabeu historisch schwach (Inter-Auswaertsbilanz in Madrid: sehr magere Ausbeute)",
+        "2:0-Insurance greift auch hier (CL-Regel) - Puffer bei Real-Fuehrung"
       ],
       "tipps": [
         {
-          "id": "hsv-m05-1",
+          "id": "rma-int-1",
           "kategorie": "value",
-          "markt": "Doppelte Chance Mainz oder Remis",
-          "quote": 1.5,
-          "edge_prozent": 4.5,
-          "begruendung": "Mainz mit stabilem Kader + spielerischer Ueberlegenheit auf Papier, HSV im Umbruch. DC X2 ist Markt-Goldgrube (+27% ROI). Kein SAFE weil HSV zuhause emotional aufstellt. Stake 12€ (1.2%).",
-          "faire_quote": 1.42,
-          "empfohlener_einsatz_prozent": 1.2
+          "markt": "Doppelte Chance Real oder Remis (1X)",
+          "quote": 1.28,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.22,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "Bernabeu-CL-Nacht + Mourinho-Defensive - Inter-Auswaertssieg extrem unwahrscheinlich. Markt-Goldgrube DC 1X (68.8% Hit, +12.2% ROI laut statistik.json n=16). Real muss nicht mal gewinnen, damit der Tipp durchgeht. Stake 20 EUR (2%)."
         },
         {
-          "id": "hsv-m05-2",
+          "id": "rma-int-2",
           "kategorie": "value",
-          "markt": "Unter 3.5 Tore",
-          "quote": 1.32,
-          "edge_prozent": 3.5,
-          "begruendung": "Beide erste Saisonspiele torarm (HSV 0:2 knapp verloren, Mainz 0:0). Coinflip-Match ohne offensiven Edge, klassisches 1:1- oder 2:1-Szenario. Stake 10€ (1.0%).",
-          "faire_quote": 1.27,
-          "empfohlener_einsatz_prozent": 1.0
+          "markt": "Kylian Mbappe Torschuetze jederzeit",
+          "quote": 1.85,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.72,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0,
+          "begruendung": "Mbappe ist unter Mourinho weiter zentrale Konter-Waffe und Real-#1-Torschuetze - gegen Inters aggressive Aussenverteidiger (Dumfries) ergeben sich Raum-Situationen. HR24 erfuellt: Form-Edge (Volumen-Torschuetze) + Backup-Stuermer-Qualitaet (Endrick/Rodrygo). Markt-Goldgrube Torschuetzen Jederzeit (34.3% Hit, +11.8% ROI, n=70). Stake 15 EUR (1.5%)."
         },
         {
-          "id": "hsv-m05-3",
+          "id": "rma-int-3",
           "kategorie": "wackel",
-          "markt": "Tietz Torschuetze jederzeit",
-          "quote": 3.4,
-          "edge_prozent": 5.5,
-          "begruendung": "Als zentraler 9er im Mainz-System (Volumen-Standardposition). Kein SAFE weil Mainz-Angriff im Startspiel torlos blieb, aber Backup Sano/Amiri kann zaehlen (Einwechslungs-Boost). Stake 5€ (0.5%).",
-          "faire_quote": 3.2,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "hsv-m05-4",
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen - Nein",
-          "quote": 1.95,
+          "markt": "Unter 2.5 Tore",
+          "quote": 2.05,
           "edge_prozent": 4.0,
-          "begruendung": "Passt zum Coinflip-Charakter: eher 1:0- oder 0:1-Endstand als 1:1-Torshow. Mainz 0 Tore in 1, HSV 0 Tore in 1. Stake 5€ (0.5%).",
-          "faire_quote": 1.87,
-          "empfohlener_einsatz_prozent": 0.5
+          "faire_quote": 1.97,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Mourinho-Bernabeu-Setup + Chivus vorsichtiger Inter-Ansatz auf Auswaertsreise sprechen fuer taktisch enges Spiel. Markt-Goldgrube Unter 2.5 (73.1% Hit, +34.7% ROI, n=26). Aber: CL-Auftaktnaechte haben Nervoesitaets-Faktor, deshalb WACKEL statt VALUE. Stake 5 EUR (0.5%)."
+        },
+        {
+          "id": "rma-int-4",
+          "kategorie": "wackel",
+          "markt": "Lautaro Martinez Torschuetze jederzeit",
+          "quote": 3.2,
+          "edge_prozent": 3.0,
+          "faire_quote": 3.1,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Lautaro als Volumen-9er hat auf jeden Fall Schuss-Aktivitaet, aber Reals IV-Duo (Militao/Rueckdiger bzw. Huijsen) defensiv stark - Auswaerts-Torschuetzen-Tipps in Bernabeu historisch schwer. Wackel-Kategorie, kein Selbstlaeufer, aber Quote 3.20 fair fuer den Volumen-Faktor. Stake 5 EUR (0.5%)."
         }
       ],
       "kontext_check_status": "OK"
@@ -445,302 +160,183 @@ window.__MIESMUSCHEL_TIPPS = {
   "einzeltipps": [
     {
       "id": "einzel-1",
-      "spiel_id": "2026-09-06-val-fcb",
-      "spiel_label": "Valencia vs Barcelona",
+      "spiel_id": "2026-09-08-bvb-vil",
+      "spiel_label": "Borussia Dortmund vs Villarreal CF",
       "kategorie": "safe",
-      "markt": "Doppelte Chance Barcelona oder Remis",
+      "markt": "Doppelte Chance BVB oder Remis (1X)",
       "quote": 1.15,
-      "empfohlener_einsatz_prozent": 1.5,
-      "einsatz_euro": 15.0,
-      "begruendung": "Barca im 3-Siege-Modus, Valencia mit 6 Verletzten - DC-Goldgrube (+27% ROI). Stake 15€ (1.5%).",
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "BVB Heim vs Villarreal - DC 1X Markt-Goldgrube (68.8% Hit, +12.2% ROI). Villarreal-Auswaertssieg in Dortmund extrem selten. Stake 20 EUR.",
       "rang": 1
     },
     {
       "id": "einzel-2",
-      "spiel_id": "2026-09-06-ars-che",
-      "spiel_label": "Arsenal vs Chelsea",
+      "spiel_id": "2026-09-08-rma-int",
+      "spiel_label": "Real Madrid vs Inter Mailand",
       "kategorie": "value",
-      "markt": "Sieg Arsenal (90 Min)",
-      "quote": 1.67,
-      "empfohlener_einsatz_prozent": 1.5,
-      "einsatz_euro": 15.0,
-      "begruendung": "Arsenal 2W-0GA zuhause, Chelseas Defensive unter Alonso noch fragil. Stake 15€ (1.5%).",
+      "markt": "Doppelte Chance Real oder Remis (1X)",
+      "quote": 1.28,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Bernabeu-CL-Nacht + Mourinho-Defense - Inter-Auswaertssieg extrem unwahrscheinlich. DC 1X ist Markt-Goldgrube. Stake 20 EUR.",
       "rang": 2
     },
     {
       "id": "einzel-3",
-      "spiel_id": "2026-09-06-val-fcb",
-      "spiel_label": "Valencia vs Barcelona",
+      "spiel_id": "2026-09-08-bvb-vil",
+      "spiel_label": "Borussia Dortmund vs Villarreal CF",
       "kategorie": "value",
-      "markt": "Lamine Yamal Torschuetze jederzeit",
-      "quote": 1.95,
-      "empfohlener_einsatz_prozent": 1.2,
-      "einsatz_euro": 12.0,
-      "begruendung": "Volumen-Fluegel bei 4-Tore-Barca, traf zuletzt vs Rayo. Torschuetzen-Goldgrube. Stake 12€ (1.2%).",
+      "markt": "Sieg Borussia Dortmund",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "BVB Heim mit 2:0-Insurance-Puffer (CL-Regel, bet365-DE). Bei 2:0-Fuehrung durchgezaehlt egal was danach passiert. Stake 15 EUR.",
       "rang": 3
     },
     {
       "id": "einzel-4",
-      "spiel_id": "2026-09-06-ars-che",
-      "spiel_label": "Arsenal vs Chelsea",
+      "spiel_id": "2026-09-08-rma-int",
+      "spiel_label": "Real Madrid vs Inter Mailand",
       "kategorie": "value",
-      "markt": "Saka Torschuetze jederzeit",
-      "quote": 2.75,
-      "empfohlener_einsatz_prozent": 1.2,
-      "einsatz_euro": 12.0,
-      "begruendung": "Winner in Villa, Volume-Fluegel gegen wackelnde Chelsea-Defensive. Goldgrube-Markt. Stake 12€ (1.2%).",
+      "markt": "Kylian Mbappe Torschuetze jederzeit",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Mbappe #1-Torschuetze Real, gegen Inters aggressive AV Raum fuer Konter. Goldgrube Torschuetzen Jederzeit (34% Hit, +12% ROI, n=70). Stake 15 EUR.",
       "rang": 4
     },
     {
       "id": "einzel-5",
-      "spiel_id": "2026-09-06-val-fcb",
-      "spiel_label": "Valencia vs Barcelona",
+      "spiel_id": "2026-09-08-bvb-vil",
+      "spiel_label": "Borussia Dortmund vs Villarreal CF",
       "kategorie": "value",
-      "markt": "Ueber 2.5 Tore",
-      "quote": 1.55,
-      "empfohlener_einsatz_prozent": 1.2,
-      "einsatz_euro": 12.0,
-      "begruendung": "Barca-Sturm 4xG pro Spiel, Valencia in jedem Spiel Gegentor. Goldgrube. Stake 12€ (1.2%).",
+      "markt": "Serhou Guirassy Torschuetze jederzeit",
+      "quote": 2.1,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 10.0,
+      "begruendung": "Guirassy Volumen-9er BVB, Einwechslungs-Boost-Backup Beier/Konstantelias. Markt-Goldgrube Torschuetzen Jederzeit. Stake 10 EUR.",
       "rang": 5
     },
     {
       "id": "einzel-6",
-      "spiel_id": "2026-09-06-juv-mil",
-      "spiel_label": "Juventus vs Milan",
-      "kategorie": "value",
-      "markt": "Beide Teams treffen",
-      "quote": 1.72,
-      "empfohlener_einsatz_prozent": 1.2,
-      "einsatz_euro": 12.0,
-      "begruendung": "Zwei offensive Systeme, beide je 2 Tore gestartet - klassisches BTTS-Big-Match. Stake 12€ (1.2%).",
+      "spiel_id": "2026-09-08-rma-int",
+      "spiel_label": "Real Madrid vs Inter Mailand",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore",
+      "quote": 2.05,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Mourinho-Setup defensiv + Inter-Auswaerts vorsichtig. Goldgrube Unter 2.5 (73% Hit, +35% ROI, n=26). WACKEL wegen CL-Nervoesitaets-Faktor. Stake 5 EUR.",
       "rang": 6
     },
     {
       "id": "einzel-7",
-      "spiel_id": "2026-09-06-eve-mun",
-      "spiel_label": "Everton vs Manchester United",
-      "kategorie": "value",
-      "markt": "Doppelte Chance Everton oder Remis",
-      "quote": 1.72,
-      "empfohlener_einsatz_prozent": 1.2,
-      "einsatz_euro": 12.0,
-      "begruendung": "Neues Hill Dickinson Stadium + Grealish-Debuet, United auswaerts unter Amorim historisch schwach. DC-Goldgrube. Stake 12€ (1.2%).",
+      "spiel_id": "2026-09-08-bvb-vil",
+      "spiel_label": "Borussia Dortmund vs Villarreal CF",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.9,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "CL-Auftakt-Tor-Erwartung leicht erhoeht, aber Marcelino-Defense hat gerade wenig zugelassen. Kein Selbstlaeufer - WACKEL. Stake 5 EUR.",
       "rang": 7
     },
     {
       "id": "einzel-8",
-      "spiel_id": "2026-09-06-sge-fca",
-      "spiel_label": "Frankfurt vs Augsburg",
-      "kategorie": "value",
-      "markt": "Doppelte Chance Frankfurt oder Remis",
-      "quote": 1.3,
-      "empfohlener_einsatz_prozent": 1.2,
-      "einsatz_euro": 12.0,
-      "begruendung": "Heim-Favorit Frankfurt, Augsburg auswaerts historisch schwach. DC-Goldgrube. Stake 12€ (1.2%).",
+      "spiel_id": "2026-09-08-rma-int",
+      "spiel_label": "Real Madrid vs Inter Mailand",
+      "kategorie": "wackel",
+      "markt": "Lautaro Martinez Torschuetze jederzeit",
+      "quote": 3.2,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Lautaro Volumen-9er Inter, aber Reals IV kompakt in Bernabeu. Quote 3.20 fair fuer Volumen-Faktor - WACKEL. Stake 5 EUR.",
       "rang": 8
-    },
-    {
-      "id": "einzel-9",
-      "spiel_id": "2026-09-06-hsv-m05",
-      "spiel_label": "HSV vs Mainz",
-      "kategorie": "value",
-      "markt": "Doppelte Chance Mainz oder Remis",
-      "quote": 1.5,
-      "empfohlener_einsatz_prozent": 1.0,
-      "einsatz_euro": 10.0,
-      "begruendung": "Mainz spielerisch ueberlegen, HSV im Umbruch. Coinflip-Sicherung ueber DC-Goldgrube. Stake 10€ (1.0%).",
-      "rang": 9
-    },
-    {
-      "id": "einzel-10",
-      "spiel_id": "2026-09-06-juv-mil",
-      "spiel_label": "Juventus vs Milan",
-      "kategorie": "value",
-      "markt": "Ueber 2.5 Tore",
-      "quote": 1.85,
-      "empfohlener_einsatz_prozent": 1.0,
-      "einsatz_euro": 10.0,
-      "begruendung": "Big-Match, beide offensiv im Vollrhythmus. Goldgrube-Markt. Stake 10€ (1.0%).",
-      "rang": 10
-    },
-    {
-      "id": "einzel-11",
-      "spiel_id": "2026-09-06-sge-fca",
-      "spiel_label": "Frankfurt vs Augsburg",
-      "kategorie": "value",
-      "markt": "Beide Teams treffen",
-      "quote": 1.72,
-      "empfohlener_einsatz_prozent": 1.0,
-      "einsatz_euro": 10.0,
-      "begruendung": "Frankfurt kassierte 3 vs Union, Augsburg schoss 3 vs Schalke. Beide Sturm-vs-Defensive-schwach. Stake 10€ (1.0%).",
-      "rang": 11
-    },
-    {
-      "id": "einzel-12",
-      "spiel_id": "2026-09-06-eve-mun",
-      "spiel_label": "Everton vs Manchester United",
-      "kategorie": "value",
-      "markt": "Beide Teams treffen",
-      "quote": 1.68,
-      "empfohlener_einsatz_prozent": 1.0,
-      "einsatz_euro": 10.0,
-      "begruendung": "Everton 3:3 in Cup zuletzt, United defensiv unter Amorim wackelig. Stake 10€ (1.0%).",
-      "rang": 12
     }
   ],
   "kombis": [
     {
       "id": "kombi-safe",
-      "name": "Safe-Kombi (Sonntag Favoriten-Absicherung)",
+      "name": "Safe-Kombi (Sieg BVB + Mbappe Tor)",
       "kategorie": "safe",
       "beine": [
         {
-          "spiel_id": "2026-09-06-val-fcb",
-          "spiel_label": "Valencia vs Barcelona",
-          "markt": "Doppelte Chance Barcelona oder Remis",
-          "quote": 1.15,
+          "spiel_id": "2026-09-08-bvb-vil",
+          "spiel_label": "Borussia Dortmund vs Villarreal CF",
+          "markt": "Sieg Borussia Dortmund",
+          "quote": 1.75,
           "kategorie": "safe"
         },
         {
-          "spiel_id": "2026-09-06-ars-che",
-          "spiel_label": "Arsenal vs Chelsea",
-          "markt": "Sieg Arsenal (90 Min)",
-          "quote": 1.67,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-09-06-sge-fca",
-          "spiel_label": "Frankfurt vs Augsburg",
-          "markt": "Doppelte Chance Frankfurt oder Remis",
-          "quote": 1.3,
-          "kategorie": "value"
+          "spiel_id": "2026-09-08-rma-int",
+          "spiel_label": "Real Madrid vs Inter Mailand",
+          "markt": "Kylian Mbappe Torschuetze jederzeit",
+          "quote": 1.85,
+          "kategorie": "safe"
         }
       ],
-      "gesamtquote": 2.5,
-      "rechnung": "1.15 x 1.67 x 1.30 = 2.50",
+      "gesamtquote": 3.24,
+      "rechnung": "1.75 x 1.85 = 3.24",
       "empfohlener_einsatz_prozent": 2.0,
       "einsatz_euro": 20.0,
-      "moeglicher_gewinn_euro": 49.9,
-      "begruendung": "Drei Favoriten-DC-Legs aus 3 verschiedenen Ligen. Barca-Uebermacht + Arsenal-Heim-Makellosigkeit + Frankfurt-Heim. Stake 20€ (2.0%)."
+      "moeglicher_gewinn_euro": 64.8,
+      "begruendung": "Zwei Bank-Beine aus beiden CL-Auftakt-Spielen: BVB Heim-Sieg (2:0-Insurance-Puffer greift) plus Mbappe Torschuetze Bernabeu (Volumen-9er unter Mourinho). Kein DC-Doppel, Markt-entkoppelt (Sieg + Torschuetze). Layer-2 sauber (BVB Sieg-Outcome hier, kein weiteres BVB-Sieg-Outcome in anderen Kombis). Stake 20 EUR (2%)."
     },
     {
       "id": "kombi-balance",
-      "name": "Balance-Kombi (Sonntag Ueber-Tore + Fluegel-Volumen)",
+      "name": "Balance-Kombi (Torschuetzen-Duo Guirassy + Lautaro)",
       "kategorie": "balance",
       "beine": [
         {
-          "spiel_id": "2026-09-06-val-fcb",
-          "spiel_label": "Valencia vs Barcelona",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.55,
-          "kategorie": "value"
+          "spiel_id": "2026-09-08-bvb-vil",
+          "spiel_label": "Borussia Dortmund vs Villarreal CF",
+          "markt": "Serhou Guirassy Torschuetze jederzeit",
+          "quote": 2.1,
+          "kategorie": "balance"
         },
         {
-          "spiel_id": "2026-09-06-juv-mil",
-          "spiel_label": "Juventus vs Milan",
-          "markt": "Beide Teams treffen",
-          "quote": 1.72,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-09-06-ars-che",
-          "spiel_label": "Arsenal vs Chelsea",
-          "markt": "Saka Torschuetze jederzeit",
-          "quote": 2.75,
-          "kategorie": "value"
+          "spiel_id": "2026-09-08-rma-int",
+          "spiel_label": "Real Madrid vs Inter Mailand",
+          "markt": "Lautaro Martinez Torschuetze jederzeit",
+          "quote": 3.2,
+          "kategorie": "balance"
         }
       ],
-      "gesamtquote": 7.33,
-      "rechnung": "1.55 x 1.72 x 2.75 = 7.33",
+      "gesamtquote": 6.72,
+      "rechnung": "2.10 x 3.20 = 6.72",
       "empfohlener_einsatz_prozent": 0.8,
       "einsatz_euro": 8.0,
-      "moeglicher_gewinn_euro": 58.7,
-      "begruendung": "Ueber-Tore + BTTS + Torschuetze in verschiedenen Ligen. Layer-2 sauber (nur ein Sieg-Outcome via Saka-Tor). Stake 8€ (0.8%)."
-    },
-    {
-      "id": "kombi-risiko",
-      "name": "Risiko-Kombi (Sonntag Fluegel- und Sturm-Fokus)",
-      "kategorie": "risk",
-      "beine": [
-        {
-          "spiel_id": "2026-09-06-val-fcb",
-          "spiel_label": "Valencia vs Barcelona",
-          "markt": "Lamine Yamal Torschuetze jederzeit",
-          "quote": 1.95,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-09-06-juv-mil",
-          "spiel_label": "Juventus vs Milan",
-          "markt": "Rafael Leao Torschuetze jederzeit",
-          "quote": 3.4,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-09-06-eve-mun",
-          "spiel_label": "Everton vs Manchester United",
-          "markt": "Bruno Fernandes Torschuetze jederzeit",
-          "quote": 3.0,
-          "kategorie": "wackel"
-        }
-      ],
-      "gesamtquote": 19.89,
-      "rechnung": "1.95 x 3.40 x 3.00 = 19.89",
-      "empfohlener_einsatz_prozent": 0.25,
-      "einsatz_euro": 2.5,
-      "moeglicher_gewinn_euro": 49.7,
-      "begruendung": "Drei Torschuetzen-Legs (Goldgrube-Markt) aus 3 Big-Games. Fluegel/10er-Rollen mit Volumen. Stake 2.50€ (0.25%)."
-    },
-    {
-      "id": "kombi-moonshot",
-      "name": "Moonshot-Kombi (Sonntag Trapdoors 100x)",
-      "kategorie": "moonshot",
-      "beine": [
-        {
-          "spiel_id": "2026-09-06-val-fcb",
-          "spiel_label": "Valencia vs Barcelona",
-          "markt": "Raphinha Torschuetze jederzeit",
-          "quote": 2.4,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-09-06-hsv-m05",
-          "spiel_label": "HSV vs Mainz",
-          "markt": "Tietz Torschuetze jederzeit",
-          "quote": 3.4,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-09-06-sge-fca",
-          "spiel_label": "Frankfurt vs Augsburg",
-          "markt": "Burkardt Torschuetze jederzeit",
-          "quote": 2.8,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-09-06-juv-mil",
-          "spiel_label": "Juventus vs Milan",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.85,
-          "kategorie": "value"
-        }
-      ],
-      "gesamtquote": 42.27,
-      "rechnung": "2.40 x 3.40 x 2.80 x 1.85 = 42.27",
-      "empfohlener_einsatz_prozent": 0.1,
-      "einsatz_euro": 1.0,
-      "moeglicher_gewinn_euro": 42.3,
-      "begruendung": "Vier Beine aus 4 verschiedenen Spielen. Reichweite bleibt unter 100x - ehrlich als 42x-Moonshot-Light, keine echte 100x-Kombi heute weil Sonntag keine echten Underdog-Sieg-Konstellationen dabei sind. Stake 1€ (0.1%)."
+      "moeglicher_gewinn_euro": 53.76,
+      "begruendung": "Zwei Volumen-9er als Torschuetzen: Guirassy im Signal-Iduna-Park und Lautaro im Bernabeu. Layer-2 sauber (kein Sieg-Outcome). Layer-3-Hinweis: BVB laeuft in Safe (Sieg) + Balance (Guirassy Tor) - Markt-entkoppelt (Sieg vs Torschuetze). Real laeuft in Safe (Mbappe Tor) + Balance (Lautaro Tor) - beide Torschuetze aber verschiedene Spieler, semantisch unabhaengig. Stake 8 EUR (0.8%)."
     }
   ],
   "lessons_angewandt": [
-    "HR24 (Torschuetzen-Volumen-9er + Fluegel): Yamal/Saka/Leao/Fernandes/Tietz/Burkardt jeweils als Volume-Optionen ausgewaehlt",
-    "Kader-Frische-Pflicht: kader_wechsel_2026.json quergecheckt (Adeyemi nun Barca-Optionen, kein alter BVB-Tipp), Jackson raus aus Chelsea, Rodri jetzt Barca, G. Ramos jetzt Milan",
-    "Anti-DC-Sucht: max 1 DC pro Spiel, sinnvolle Streuung ueber Torschuetzen + Ueber/Unter + BTTS - insgesamt 5 DC in 24 Spiel-Tipps",
-    "Goldgruben aktiv gesucht: DC X2 (77% Hit, +27% ROI), Ueber 2.5 (+18.5% ROI), Torschuetzen Jederzeit (+24% ROI) mehrfach vertreten",
-    "Zeitfenster-Hartregel: ausschliesslich Sonntag 06.09.2026-Anstoesse enthalten (kein Sa+So-Slate)",
-    "Kein 2:0-Insurance-Bonus fuer PL/LaLiga/Serie A (gilt nur BL + CL)",
-    "Coinflip-Regel: HSV-Mainz + Juve-Milan bewusst kein SAFE (Marker-Match ohne klaren Sieg-Edge)"
+    {
+      "regel": "Kader-Frische (kader_wechsel_2026.json)",
+      "angewandt": "Adeyemi NICHT als BVB-Torschuetze getippt (seit 24.07.2026 bei Barcelona). Guirassy weiter als BVB-Volumen-9er (Stand kader_wechsel bestaetigt). Mbappe/Vinicius bei Real, Lautaro/Thuram bei Inter - alle noch bei ihren Vereinen."
+    },
+    {
+      "regel": "Trainerwechsel-Frische (kader_wechsel_2026.json Trainer-Block)",
+      "angewandt": "Mourinho neu bei Real Madrid seit 11.06.2026 (defensiv-kompakter als Alonso) - Unter/Zu-Null-Maerkte in Real-Inter aufgewertet, kein SAFE-Sieg-Tipp auf Real. Kovac stabil bei BVB, Marcelino weiter bei Villarreal, Chivu neu bei Inter (erstes Jahr) - Rotationsrisiko im Inter-Mittelfeld beruecksichtigt."
+    },
+    {
+      "regel": "Markt-Goldgruben aktiv gesucht (markt_goldgruben.json)",
+      "angewandt": "Doppelte Chance 1X als SAFE/VALUE-Basis in beiden CL-Spielen (BVB @1.15, Real @1.28) - 68.8% Hit, +12.2% ROI. Torschuetzen Jederzeit auf Volumen-9ern (Guirassy, Mbappe, Lautaro) - 34% Hit, +12% ROI. Unter 2.5 im Real-Inter, Ueber 2.5 im BVB-Vil als WACKEL-Hedges."
+    },
+    {
+      "regel": "2:0-Insurance-Nutzung (bet365-DE-Regel)",
+      "angewandt": "Direkter Sieg-Tipp mit 2:0-Puffer bei beiden CL-Spielen explizit ausgewiesen (BVB Sieg, kein Real-Sieg-Tipp weil DC 1X @1.28 reicht). Bei Fuehrung 2:0 laeuft der Tipp auch bei spaeter Aufholjagd durch."
+    },
+    {
+      "regel": "HR23 Layer-3 - Markt-Entkopplung bei wenigen Spielen",
+      "angewandt": "Bei nur 2 Spielen im Slate ist Layer-3 (Spiel max 1 Bein pro Kombi) unausweichlich - deshalb Markt-Entkopplung zwischen Safe und Balance (BVB: Sieg + Guirassy Tor / Real: Mbappe Tor + Lautaro Tor). Risiko/Moonshot bewusst weggelassen statt fabrizierte Quoten fuer Underdog-Siege einzuschmuggeln."
+    },
+    {
+      "regel": "HR22 Star-OUT-Check",
+      "angewandt": "Keine Star-Ausfaelle in verifizierbaren Quellen fuer BVB/Villarreal/Real/Inter - Aufstellungen live in bet365 vor Anpfiff pruefen."
+    }
   ],
-  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700"
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA-Gluecksspielsucht-Hotline: 0800 1372700 · Nur setzen was du verlieren kannst · Stress -> Pause · Probleme -> Hilfe holen",
+  "_watchdog_recovery": true
 };
