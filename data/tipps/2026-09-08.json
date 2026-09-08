@@ -1,0 +1,341 @@
+{
+  "datum": "2026-09-08",
+  "erstellt_am": "2026-09-08T14:30:00+02:00",
+  "hinweis": "Watchdog-Recovery Mo-Fr - Hauptroutine 13:30 hat kein Dossier geliefert. Heute Dienstag: erster CL-Ligaphase-Spieltag mit zwei Fruehstartern - BVB vs Villarreal (21:00 Signal Iduna) und Real Madrid vs Inter (21:00 Bernabeu). Kein weiteres Vereins-Programm im Slate (Bundesliga/PL/LaLiga/Serie A/Ligue 1 haben Nationalmannschaftspause verlaengert bzw. spielen erst ab 12.09.). Zwei Spiele - bewusst schmales Kombi-Angebot: Safe + Balance. Risiko/Moonshot bewusst weggelassen (Layer-1 max 1 Bein/Spiel + nur 2 Spiele = keine tragfaehige Risiko-Struktur ohne fabrizierte Quoten). Kasse 1000 EUR, Stufe 1 (stufe_2 nicht freigeschaltet - Saison-eigener 30d-ROI noch nicht bestaetigt). CL-Match: 2:0-Insurance greift bei direktem Sieg-Tipp. Quoten sind Aggregator-Schaetzungen, bei bet365 live pruefen.",
+  "spiele": [
+    {
+      "id": "2026-09-08-bvb-vil",
+      "liga": "UEFA Champions League - Ligaphase Spieltag 1",
+      "heim": "Borussia Dortmund",
+      "gast": "Villarreal CF",
+      "anstoss": "2026-09-08T21:00:00+02:00",
+      "stadion": "Signal Iduna Park, Dortmund",
+      "saison_kontext": {
+        "parallel_heim": "CL-Ligaphase Auftakt - BVB rotiert im CL-Auftakt vor Heimkulisse nicht, Ligaphase-Punkte fuer Top-8-Direkteinzug haben Prioritaet. Naechster Bundesliga-Termin (MW3) erst 12.-14.09.",
+        "parallel_gast": "LaLiga J4 (Villarreal spielte am 06.09.) - drei Tage Regeneration, Marcelino kann Rotation im Mittelfeld nutzen, offensive Achse (Yeremy Pino / Gerard Moreno) bleibt",
+        "saisonziel_heim": "BL-Rueckkehr in Top-4 (letzte Saison Vize-Lock), CL-Ligaphase-Top-8 als sekundaeres Ziel - Kovac stabil auf der Bank",
+        "saisonziel_gast": "LaLiga Top-6 + CL-Achtelfinal-Play-offs (die 24 Plaetze 9-24 der Ligaphase spielen um 8 Achtelfinaltickets)",
+        "motivations_asymmetrie": "BVB Heim vor 81.000 mit klarer Favoritenrolle - Adeyemi weg zu Barcelona (siehe kader_wechsel_2026.json Eintrag 24.07.), Guirassy weiter Volumen-9er, Karetsas und Konstantelias als neue Fluegel-Optionen. Villarreal spielerisch sauber unter Marcelino, aber Auswaerts-Ausbeute in CL-Auftaktspielen historisch schwach, Kader-Tiefe im Sturm begrenzter als BVB",
+        "recovery_heim": "3 Tage seit Bundesliga MW2, kein Pokal-Spiel dazwischen - frisch",
+        "recovery_gast": "2 Tage seit LaLiga J4 - kurze Woche, Rotationsrisiko im Mittelfeld",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.kicker.de/borussia-dortmund/kader",
+          "https://www.transfermarkt.de/villarreal-cf/kader/verein/1050"
+        ]
+      },
+      "news": [
+        "CL-Auftakt Dienstag 21:00 CEST vor ausverkauftem Signal-Iduna-Park",
+        "Adeyemi seit 24.07. bei Barcelona (kader_wechsel_2026.json bestaetigt) - kein Torschuetzen-Tipp auf ihn fuer BVB",
+        "Guirassy als zentraler Volumen-9er weiter Stamm, Karetsas/Konstantelias als neue Fluegel-Optionen ersetzen Adeyemi",
+        "2:0-Insurance greift bei direktem Sieg-Tipp (bet365-DE-Aktionsregel fuer CL) - Puffer bei Fuehrung",
+        "Villarreal-Marcelino-Setup defensiv-kompakt, Auswaerts-Ausbeute in CL historisch schwach"
+      ],
+      "tipps": [
+        {
+          "id": "bvb-vil-1",
+          "kategorie": "safe",
+          "markt": "Doppelte Chance BVB oder Remis (1X)",
+          "quote": 1.15,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.11,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "BVB Heim gegen Villarreal - Doppelte Chance 1X ist Markt-Goldgrube (68.8% Hit, +12.2% ROI laut statistik.json n=16). Auswaertssieg von Villarreal im Signal Iduna Park bei CL-Auftakt historisch extrem selten. Stake 20 EUR (2% von 1000 EUR Kasse, Stufe 1)."
+        },
+        {
+          "id": "bvb-vil-2",
+          "kategorie": "value",
+          "markt": "Sieg Borussia Dortmund",
+          "quote": 1.75,
+          "edge_prozent": 8.0,
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0,
+          "begruendung": "Direkter Sieg-Tipp mit 2:0-Insurance-Puffer (bet365-DE-Regel, gilt in CL). Bei 2:0-Fuehrung im Signal-Iduna-Park ist der Tipp durch, auch wenn Villarreal spaet zurueckkaempft. Reality-Check statistik.json: Sieg-Markt n=129, ROI +1.5% - nicht besonders stark, aber Insurance-Puffer macht es zum VALUE-Kandidaten. Stake 15 EUR (1.5%)."
+        },
+        {
+          "id": "bvb-vil-3",
+          "kategorie": "value",
+          "markt": "Serhou Guirassy Torschuetze jederzeit",
+          "quote": 2.1,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.98,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "begruendung": "Guirassy ist BVBs zentraler Volumen-9er (14+ Ligatore letzte Saison) mit Backup-Stuermern Beier/Konstantelias - Einwechslungs-Boost (bet365-DE-Regel) erhoeht die faktische Hitrate ueber den nominalen Quotenwert. Markt-Goldgrube Torschuetzen Jederzeit (34.3% Hit, +11.8% ROI, n=70 - Datenbasis solide). Villarreal-IV-Duo (Costa/Foyth) kompakt, aber Guirassy holt sich Chancen. Stake 10 EUR (1%)."
+        },
+        {
+          "id": "bvb-vil-4",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.84,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "CL-Auftaktspiele haben leicht erhoehte Tor-Erwartung (Anfangsnervoesitaet + offene Formationen), aber Marcelino-Defense hat in LaLiga bislang wenig zugelassen - kein Selbstlaeufer, deshalb WACKEL statt VALUE. Markt Ueber 2.5 Tore ist Goldgrube laut statistik.json (55.2% Hit, +21.9% ROI, n=31). Stake 5 EUR (0.5%)."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-08-rma-int",
+      "liga": "UEFA Champions League - Ligaphase Spieltag 1",
+      "heim": "Real Madrid",
+      "gast": "Inter Mailand",
+      "anstoss": "2026-09-08T21:00:00+02:00",
+      "stadion": "Santiago Bernabeu, Madrid",
+      "saison_kontext": {
+        "parallel_heim": "LaLiga J4 (06.09.) und J5 (12./13.09.) rahmen den CL-Auftakt ein - Mourinho rotiert eher in der Defensive, die offensive Achse (Mbappe/Vinicius/Bellingham) bleibt fuer CL-Nachtspiel",
+        "parallel_gast": "Serie A g3 gespielt (30.-31.08.), Serie A g4 erst am 14.09. - kein Wochen-Doppel, aber Auswaerts-Reise nach Madrid und ungewohnte europaeische Buehne fuer Chivu-Neuling",
+        "saisonziel_heim": "LaLiga-Titel + CL-Sieg (Mourinho im ersten Jahr zurueck, Vertrag bis 2029, siehe kader_wechsel_2026.json Trainer-Block) - Ehrensache CL-Auftakt zuhause",
+        "saisonziel_gast": "Serie A Top-4 + CL-Achtelfinale (Chivu erstes Chef-Trainer-Jahr, uebernommen Sommer 2026 von Inzaghi)",
+        "motivations_asymmetrie": "Bernabeu-CL-Auftakt-Nacht ist Ehrensache fuer Mourinho - defensiv-solides Setup, Konter ueber Mbappe/Vinicius statt Alonso-Ballbesitz-Ansatz. Inter reist mit europaeischer Rueckennwind an, hat aber unter Chivu offensiv noch nicht seinen Rhythmus gefunden (Lautaro/Thuram noch nicht in Top-Form). Real klarer Favorit, aber Bernabeu vs Inter-Defense (Bastoni/Acerbi) kein Selbstlaeufer",
+        "recovery_heim": "3 Tage seit LaLiga J4",
+        "recovery_gast": "8 Tage seit Serie A g3 (Ende August) - vollkommen frisch, kann volle Elf aufbieten",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.realmadrid.com/en-US/",
+          "https://www.transfermarkt.de/inter-mailand/kader/verein/46"
+        ]
+      },
+      "news": [
+        "CL-Auftakt Bernabeu 21:00 CEST - Mourinho neuer Trainer seit 11.06.2026 (siehe kader_wechsel_2026.json Trainer-Block), zweite CL-Aera nach seiner Real-Zeit 2010-13",
+        "Mourinho-Setup: defensiv-kompakter als Alonso, mehr Konter - Unter-Tore und Zu-Null-Maerkte in Real-Spielen aufgewertet",
+        "Mbappe als Konter-Waffe, Vinicius im 1v1 gefaehrlich - beide Volumen-Torschuetzen",
+        "Inter unter Chivu (erstes Jahr): Lautaro/Thuram als Sturm-Duo, aber Auswaerts in Bernabeu historisch schwach (Inter-Auswaertsbilanz in Madrid: sehr magere Ausbeute)",
+        "2:0-Insurance greift auch hier (CL-Regel) - Puffer bei Real-Fuehrung"
+      ],
+      "tipps": [
+        {
+          "id": "rma-int-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Real oder Remis (1X)",
+          "quote": 1.28,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.22,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "Bernabeu-CL-Nacht + Mourinho-Defensive - Inter-Auswaertssieg extrem unwahrscheinlich. Markt-Goldgrube DC 1X (68.8% Hit, +12.2% ROI laut statistik.json n=16). Real muss nicht mal gewinnen, damit der Tipp durchgeht. Stake 20 EUR (2%)."
+        },
+        {
+          "id": "rma-int-2",
+          "kategorie": "value",
+          "markt": "Kylian Mbappe Torschuetze jederzeit",
+          "quote": 1.85,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.72,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0,
+          "begruendung": "Mbappe ist unter Mourinho weiter zentrale Konter-Waffe und Real-#1-Torschuetze - gegen Inters aggressive Aussenverteidiger (Dumfries) ergeben sich Raum-Situationen. HR24 erfuellt: Form-Edge (Volumen-Torschuetze) + Backup-Stuermer-Qualitaet (Endrick/Rodrygo). Markt-Goldgrube Torschuetzen Jederzeit (34.3% Hit, +11.8% ROI, n=70). Stake 15 EUR (1.5%)."
+        },
+        {
+          "id": "rma-int-3",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 2.05,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.97,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Mourinho-Bernabeu-Setup + Chivus vorsichtiger Inter-Ansatz auf Auswaertsreise sprechen fuer taktisch enges Spiel. Markt-Goldgrube Unter 2.5 (73.1% Hit, +34.7% ROI, n=26). Aber: CL-Auftaktnaechte haben Nervoesitaets-Faktor, deshalb WACKEL statt VALUE. Stake 5 EUR (0.5%)."
+        },
+        {
+          "id": "rma-int-4",
+          "kategorie": "wackel",
+          "markt": "Lautaro Martinez Torschuetze jederzeit",
+          "quote": 3.2,
+          "edge_prozent": 3.0,
+          "faire_quote": 3.1,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Lautaro als Volumen-9er hat auf jeden Fall Schuss-Aktivitaet, aber Reals IV-Duo (Militao/Rueckdiger bzw. Huijsen) defensiv stark - Auswaerts-Torschuetzen-Tipps in Bernabeu historisch schwer. Wackel-Kategorie, kein Selbstlaeufer, aber Quote 3.20 fair fuer den Volumen-Faktor. Stake 5 EUR (0.5%)."
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "einzel-1",
+      "spiel_id": "2026-09-08-bvb-vil",
+      "spiel_label": "Borussia Dortmund vs Villarreal CF",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance BVB oder Remis (1X)",
+      "quote": 1.15,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "BVB Heim vs Villarreal - DC 1X Markt-Goldgrube (68.8% Hit, +12.2% ROI). Villarreal-Auswaertssieg in Dortmund extrem selten. Stake 20 EUR.",
+      "rang": 1
+    },
+    {
+      "id": "einzel-2",
+      "spiel_id": "2026-09-08-rma-int",
+      "spiel_label": "Real Madrid vs Inter Mailand",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Real oder Remis (1X)",
+      "quote": 1.28,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Bernabeu-CL-Nacht + Mourinho-Defense - Inter-Auswaertssieg extrem unwahrscheinlich. DC 1X ist Markt-Goldgrube. Stake 20 EUR.",
+      "rang": 2
+    },
+    {
+      "id": "einzel-3",
+      "spiel_id": "2026-09-08-bvb-vil",
+      "spiel_label": "Borussia Dortmund vs Villarreal CF",
+      "kategorie": "value",
+      "markt": "Sieg Borussia Dortmund",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "BVB Heim mit 2:0-Insurance-Puffer (CL-Regel, bet365-DE). Bei 2:0-Fuehrung durchgezaehlt egal was danach passiert. Stake 15 EUR.",
+      "rang": 3
+    },
+    {
+      "id": "einzel-4",
+      "spiel_id": "2026-09-08-rma-int",
+      "spiel_label": "Real Madrid vs Inter Mailand",
+      "kategorie": "value",
+      "markt": "Kylian Mbappe Torschuetze jederzeit",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Mbappe #1-Torschuetze Real, gegen Inters aggressive AV Raum fuer Konter. Goldgrube Torschuetzen Jederzeit (34% Hit, +12% ROI, n=70). Stake 15 EUR.",
+      "rang": 4
+    },
+    {
+      "id": "einzel-5",
+      "spiel_id": "2026-09-08-bvb-vil",
+      "spiel_label": "Borussia Dortmund vs Villarreal CF",
+      "kategorie": "value",
+      "markt": "Serhou Guirassy Torschuetze jederzeit",
+      "quote": 2.1,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 10.0,
+      "begruendung": "Guirassy Volumen-9er BVB, Einwechslungs-Boost-Backup Beier/Konstantelias. Markt-Goldgrube Torschuetzen Jederzeit. Stake 10 EUR.",
+      "rang": 5
+    },
+    {
+      "id": "einzel-6",
+      "spiel_id": "2026-09-08-rma-int",
+      "spiel_label": "Real Madrid vs Inter Mailand",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore",
+      "quote": 2.05,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Mourinho-Setup defensiv + Inter-Auswaerts vorsichtig. Goldgrube Unter 2.5 (73% Hit, +35% ROI, n=26). WACKEL wegen CL-Nervoesitaets-Faktor. Stake 5 EUR.",
+      "rang": 6
+    },
+    {
+      "id": "einzel-7",
+      "spiel_id": "2026-09-08-bvb-vil",
+      "spiel_label": "Borussia Dortmund vs Villarreal CF",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.9,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "CL-Auftakt-Tor-Erwartung leicht erhoeht, aber Marcelino-Defense hat gerade wenig zugelassen. Kein Selbstlaeufer - WACKEL. Stake 5 EUR.",
+      "rang": 7
+    },
+    {
+      "id": "einzel-8",
+      "spiel_id": "2026-09-08-rma-int",
+      "spiel_label": "Real Madrid vs Inter Mailand",
+      "kategorie": "wackel",
+      "markt": "Lautaro Martinez Torschuetze jederzeit",
+      "quote": 3.2,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Lautaro Volumen-9er Inter, aber Reals IV kompakt in Bernabeu. Quote 3.20 fair fuer Volumen-Faktor - WACKEL. Stake 5 EUR.",
+      "rang": 8
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "name": "Safe-Kombi (Sieg BVB + Mbappe Tor)",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-09-08-bvb-vil",
+          "spiel_label": "Borussia Dortmund vs Villarreal CF",
+          "markt": "Sieg Borussia Dortmund",
+          "quote": 1.75,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-08-rma-int",
+          "spiel_label": "Real Madrid vs Inter Mailand",
+          "markt": "Kylian Mbappe Torschuetze jederzeit",
+          "quote": 1.85,
+          "kategorie": "safe"
+        }
+      ],
+      "gesamtquote": 3.24,
+      "rechnung": "1.75 x 1.85 = 3.24",
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "moeglicher_gewinn_euro": 64.8,
+      "begruendung": "Zwei Bank-Beine aus beiden CL-Auftakt-Spielen: BVB Heim-Sieg (2:0-Insurance-Puffer greift) plus Mbappe Torschuetze Bernabeu (Volumen-9er unter Mourinho). Kein DC-Doppel, Markt-entkoppelt (Sieg + Torschuetze). Layer-2 sauber (BVB Sieg-Outcome hier, kein weiteres BVB-Sieg-Outcome in anderen Kombis). Stake 20 EUR (2%)."
+    },
+    {
+      "id": "kombi-balance",
+      "name": "Balance-Kombi (Torschuetzen-Duo Guirassy + Lautaro)",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-09-08-bvb-vil",
+          "spiel_label": "Borussia Dortmund vs Villarreal CF",
+          "markt": "Serhou Guirassy Torschuetze jederzeit",
+          "quote": 2.1,
+          "kategorie": "balance"
+        },
+        {
+          "spiel_id": "2026-09-08-rma-int",
+          "spiel_label": "Real Madrid vs Inter Mailand",
+          "markt": "Lautaro Martinez Torschuetze jederzeit",
+          "quote": 3.2,
+          "kategorie": "balance"
+        }
+      ],
+      "gesamtquote": 6.72,
+      "rechnung": "2.10 x 3.20 = 6.72",
+      "empfohlener_einsatz_prozent": 0.8,
+      "einsatz_euro": 8.0,
+      "moeglicher_gewinn_euro": 53.76,
+      "begruendung": "Zwei Volumen-9er als Torschuetzen: Guirassy im Signal-Iduna-Park und Lautaro im Bernabeu. Layer-2 sauber (kein Sieg-Outcome). Layer-3-Hinweis: BVB laeuft in Safe (Sieg) + Balance (Guirassy Tor) - Markt-entkoppelt (Sieg vs Torschuetze). Real laeuft in Safe (Mbappe Tor) + Balance (Lautaro Tor) - beide Torschuetze aber verschiedene Spieler, semantisch unabhaengig. Stake 8 EUR (0.8%)."
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "regel": "Kader-Frische (kader_wechsel_2026.json)",
+      "angewandt": "Adeyemi NICHT als BVB-Torschuetze getippt (seit 24.07.2026 bei Barcelona). Guirassy weiter als BVB-Volumen-9er (Stand kader_wechsel bestaetigt). Mbappe/Vinicius bei Real, Lautaro/Thuram bei Inter - alle noch bei ihren Vereinen."
+    },
+    {
+      "regel": "Trainerwechsel-Frische (kader_wechsel_2026.json Trainer-Block)",
+      "angewandt": "Mourinho neu bei Real Madrid seit 11.06.2026 (defensiv-kompakter als Alonso) - Unter/Zu-Null-Maerkte in Real-Inter aufgewertet, kein SAFE-Sieg-Tipp auf Real. Kovac stabil bei BVB, Marcelino weiter bei Villarreal, Chivu neu bei Inter (erstes Jahr) - Rotationsrisiko im Inter-Mittelfeld beruecksichtigt."
+    },
+    {
+      "regel": "Markt-Goldgruben aktiv gesucht (markt_goldgruben.json)",
+      "angewandt": "Doppelte Chance 1X als SAFE/VALUE-Basis in beiden CL-Spielen (BVB @1.15, Real @1.28) - 68.8% Hit, +12.2% ROI. Torschuetzen Jederzeit auf Volumen-9ern (Guirassy, Mbappe, Lautaro) - 34% Hit, +12% ROI. Unter 2.5 im Real-Inter, Ueber 2.5 im BVB-Vil als WACKEL-Hedges."
+    },
+    {
+      "regel": "2:0-Insurance-Nutzung (bet365-DE-Regel)",
+      "angewandt": "Direkter Sieg-Tipp mit 2:0-Puffer bei beiden CL-Spielen explizit ausgewiesen (BVB Sieg, kein Real-Sieg-Tipp weil DC 1X @1.28 reicht). Bei Fuehrung 2:0 laeuft der Tipp auch bei spaeter Aufholjagd durch."
+    },
+    {
+      "regel": "HR23 Layer-3 - Markt-Entkopplung bei wenigen Spielen",
+      "angewandt": "Bei nur 2 Spielen im Slate ist Layer-3 (Spiel max 1 Bein pro Kombi) unausweichlich - deshalb Markt-Entkopplung zwischen Safe und Balance (BVB: Sieg + Guirassy Tor / Real: Mbappe Tor + Lautaro Tor). Risiko/Moonshot bewusst weggelassen statt fabrizierte Quoten fuer Underdog-Siege einzuschmuggeln."
+    },
+    {
+      "regel": "HR22 Star-OUT-Check",
+      "angewandt": "Keine Star-Ausfaelle in verifizierbaren Quellen fuer BVB/Villarreal/Real/Inter - Aufstellungen live in bet365 vor Anpfiff pruefen."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA-Gluecksspielsucht-Hotline: 0800 1372700 · Nur setzen was du verlieren kannst · Stress -> Pause · Probleme -> Hilfe holen",
+  "_watchdog_recovery": true
+}
