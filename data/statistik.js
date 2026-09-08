@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-09-07T06:30:08+00:00",
+  "letzte_berechnung": "2026-09-08T06:20:55+00:00",
   "gesamt": {
-    "tipps": 398,
-    "gewonnen": 203,
-    "verloren": 183,
+    "tipps": 408,
+    "gewonnen": 209,
+    "verloren": 187,
     "push": 1,
     "offen": 11,
-    "einsatz": 387.0,
-    "netto": 37.0,
-    "trefferquote": 52.6,
-    "roi_prozent": 9.6
+    "einsatz": 397.0,
+    "netto": 48.44,
+    "trefferquote": 52.8,
+    "roi_prozent": 12.2
   },
   "letzte_30_tage": {
-    "tipps": 136,
-    "gewonnen": 66,
-    "verloren": 58,
+    "tipps": 138,
+    "gewonnen": 69,
+    "verloren": 57,
     "push": 1,
     "offen": 11,
-    "einsatz": 125.0,
-    "netto": 31.12,
-    "trefferquote": 53.2,
-    "roi_prozent": 24.9
+    "einsatz": 127.0,
+    "netto": 42.56,
+    "trefferquote": 54.8,
+    "roi_prozent": 33.5
   },
   "letzte_90_tage": {
-    "tipps": 393,
-    "gewonnen": 203,
-    "verloren": 178,
+    "tipps": 403,
+    "gewonnen": 209,
+    "verloren": 182,
     "push": 1,
     "offen": 11,
-    "einsatz": 382.0,
-    "netto": 42.0,
-    "trefferquote": 53.3,
-    "roi_prozent": 11.0
+    "einsatz": 392.0,
+    "netto": 53.44,
+    "trefferquote": 53.5,
+    "roi_prozent": 13.6
   },
   "nach_liga": {
     "NBA Playoffs - Finals Game 3": {
@@ -1068,6 +1068,28 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 2.8,
       "trefferquote": 66.7,
       "roi_prozent": 93.3
+    },
+    "LaLiga - Jornada 4": {
+      "tipps": 5,
+      "gewonnen": 2,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 5.0,
+      "netto": 3.1,
+      "trefferquote": 40.0,
+      "roi_prozent": 62.0
+    },
+    "Serie A - Giornata 3": {
+      "tipps": 5,
+      "gewonnen": 4,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 5.0,
+      "netto": 8.34,
+      "trefferquote": 80.0,
+      "roi_prozent": 166.8
     }
   },
   "nach_markt": {
@@ -1787,15 +1809,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 17,
-      "gewonnen": 14,
-      "verloren": 3,
+      "tipps": 20,
+      "gewonnen": 16,
+      "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 17.0,
-      "netto": 5.41,
-      "trefferquote": 82.4,
-      "roi_prozent": 31.8
+      "einsatz": 20.0,
+      "netto": 8.61,
+      "trefferquote": 80.0,
+      "roi_prozent": 43.0
     },
     "Marokko zu Null": {
       "tipps": 1,
@@ -3534,6 +3556,72 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Doppelte Chance Real Sociedad oder Remis": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.55,
+      "trefferquote": 100.0,
+      "roi_prozent": 155.0
+    },
+    "Doppelte Chance Lazio oder Remis": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.5,
+      "trefferquote": 100.0,
+      "roi_prozent": 150.0
+    },
+    "Mikel Oyarzabal Torschuetze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Beide Teams treffen - Nein": {
+      "tipps": 2,
+      "gewonnen": 1,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 1.69,
+      "trefferquote": 50.0,
+      "roi_prozent": 84.5
+    },
+    "Mattia Zaccagni Torschuetze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 3.5,
+      "trefferquote": 100.0,
+      "roi_prozent": 350.0
+    },
+    "Takefusa Kubo Torschuetze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
@@ -3593,37 +3681,37 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 23,
-      "gewonnen": 17,
-      "verloren": 6,
+      "tipps": 26,
+      "gewonnen": 19,
+      "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 23.0,
-      "netto": 5.83,
-      "trefferquote": 73.9,
-      "roi_prozent": 25.3
+      "einsatz": 26.0,
+      "netto": 9.03,
+      "trefferquote": 73.1,
+      "roi_prozent": 34.7
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 67,
-      "gewonnen": 23,
-      "verloren": 44,
+      "tipps": 70,
+      "gewonnen": 24,
+      "verloren": 46,
       "push": 0,
       "offen": 0,
-      "einsatz": 67.0,
-      "netto": 4.74,
+      "einsatz": 70.0,
+      "netto": 8.24,
       "trefferquote": 34.3,
-      "roi_prozent": 7.1
+      "roi_prozent": 11.8
     },
     "Beide Teams treffen NEIN": {
-      "tipps": 4,
-      "gewonnen": 2,
-      "verloren": 2,
+      "tipps": 6,
+      "gewonnen": 3,
+      "verloren": 3,
       "push": 0,
       "offen": 0,
-      "einsatz": 4.0,
-      "netto": -0.2,
+      "einsatz": 6.0,
+      "netto": 1.49,
       "trefferquote": 50.0,
-      "roi_prozent": -5.0
+      "roi_prozent": 24.8
     },
     "Ueber 2.5 Tore": {
       "tipps": 31,
@@ -3692,15 +3780,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 75.0
     },
     "Doppelte Chance": {
-      "tipps": 21,
-      "gewonnen": 8,
+      "tipps": 23,
+      "gewonnen": 10,
       "verloren": 6,
       "push": 0,
       "offen": 7,
-      "einsatz": 14.0,
-      "netto": 1.37,
-      "trefferquote": 57.1,
-      "roi_prozent": 9.8
+      "einsatz": 16.0,
+      "netto": 4.42,
+      "trefferquote": 62.5,
+      "roi_prozent": 27.6
     },
     "Kanada gewinnt regulär (90min)": {
       "tipps": 1,
@@ -3881,15 +3969,15 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 161,
-      "gewonnen": 79,
-      "verloren": 80,
+      "tipps": 168,
+      "gewonnen": 84,
+      "verloren": 82,
       "push": 0,
       "offen": 2,
-      "einsatz": 159.0,
-      "netto": 15.47,
-      "trefferquote": 49.7,
-      "roi_prozent": 9.7
+      "einsatz": 166.0,
+      "netto": 23.41,
+      "trefferquote": 50.6,
+      "roi_prozent": 14.1
     },
     "1.00-1.50": {
       "tipps": 164,
@@ -3903,61 +3991,61 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 13.5
     },
     "2.00-3.00": {
-      "tipps": 58,
+      "tipps": 59,
       "gewonnen": 19,
-      "verloren": 37,
+      "verloren": 38,
       "push": 0,
       "offen": 2,
-      "einsatz": 56.0,
+      "einsatz": 57.0,
       "netto": 3.87,
-      "trefferquote": 33.9,
-      "roi_prozent": 6.9
+      "trefferquote": 33.3,
+      "roi_prozent": 6.8
     },
     "3.00+": {
-      "tipps": 15,
-      "gewonnen": 3,
-      "verloren": 12,
+      "tipps": 17,
+      "gewonnen": 4,
+      "verloren": 13,
       "push": 0,
       "offen": 0,
-      "einsatz": 15.0,
-      "netto": -3.5,
-      "trefferquote": 20.0,
-      "roi_prozent": -23.3
+      "einsatz": 17.0,
+      "netto": 0.0,
+      "trefferquote": 23.5,
+      "roi_prozent": 0.0
     }
   },
   "nach_kategorie": {
     "value": {
-      "tipps": 233,
-      "gewonnen": 122,
-      "verloren": 106,
+      "tipps": 238,
+      "gewonnen": 124,
+      "verloren": 109,
       "push": 1,
       "offen": 4,
-      "einsatz": 229.0,
-      "netto": 18.92,
-      "trefferquote": 53.5,
-      "roi_prozent": 8.3
+      "einsatz": 234.0,
+      "netto": 22.11,
+      "trefferquote": 53.2,
+      "roi_prozent": 9.4
     },
     "wackel": {
-      "tipps": 93,
-      "gewonnen": 36,
-      "verloren": 57,
+      "tipps": 95,
+      "gewonnen": 37,
+      "verloren": 58,
       "push": 0,
       "offen": 0,
-      "einsatz": 93.0,
-      "netto": -5.34,
-      "trefferquote": 38.7,
-      "roi_prozent": -5.7
+      "einsatz": 95.0,
+      "netto": -1.84,
+      "trefferquote": 38.9,
+      "roi_prozent": -1.9
     },
     "safe": {
-      "tipps": 69,
-      "gewonnen": 44,
+      "tipps": 72,
+      "gewonnen": 47,
       "verloren": 18,
       "push": 0,
       "offen": 7,
-      "einsatz": 62.0,
-      "netto": 24.02,
-      "trefferquote": 71.0,
-      "roi_prozent": 38.7
+      "einsatz": 65.0,
+      "netto": 28.77,
+      "trefferquote": 72.3,
+      "roi_prozent": 44.3
     },
     "risiko": {
       "tipps": 3,
@@ -4006,15 +4094,15 @@ window.__MIESMUSCHEL_STAT = {
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 398,
-      "gewonnen": 203,
-      "verloren": 183,
+      "tipps": 408,
+      "gewonnen": 209,
+      "verloren": 187,
       "push": 1,
       "offen": 11,
-      "einsatz": 387.0,
-      "netto": 37.0,
-      "trefferquote": 52.6,
-      "roi_prozent": 9.6
+      "einsatz": 397.0,
+      "netto": 48.44,
+      "trefferquote": 52.8,
+      "roi_prozent": 12.2
     },
     "kasse": {
       "name": "2026/27",
@@ -4051,21 +4139,269 @@ window.__MIESMUSCHEL_STAT = {
         "start": "2026-08-22",
         "ende": "2027-06-30",
         "bilanz": {
-          "tipps": 32,
-          "gewonnen": 23,
-          "verloren": 9,
+          "tipps": 42,
+          "gewonnen": 29,
+          "verloren": 13,
           "push": 0,
           "offen": 0,
-          "einsatz": 32.0,
-          "netto": 34.25,
-          "trefferquote": 71.9,
-          "roi_prozent": 107.0
+          "einsatz": 42.0,
+          "netto": 45.69,
+          "trefferquote": 69.0,
+          "roi_prozent": 108.8
         },
         "ist_aktuell": true
       }
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-09-07",
+      "gesamt": {
+        "tipps": 10,
+        "gewonnen": 6,
+        "verloren": 4,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 10.0,
+        "netto": 11.44,
+        "trefferquote": 60.0,
+        "roi_prozent": 114.4
+      },
+      "spiele": [
+        {
+          "id": "2026-09-07-cag-lec",
+          "liga": "Serie A - Giornata 3",
+          "heim": "Cagliari Calcio",
+          "gast": "US Lecce",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.65,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.65,
+              "kommentar": "Nur 1 Tor (Maldini 29.) - Unter 2.5 klar drin"
+            },
+            {
+              "markt": "Beide Teams treffen - Nein",
+              "quote": 1.69,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.69,
+              "kommentar": "Lecce ohne Tor - BTTS-Nein bestaetigt (dritte Null in 3 Spielen offensiv)"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-07-udi-laz",
+          "liga": "Serie A - Giornata 3",
+          "heim": "Udinese Calcio",
+          "gast": "SS Lazio",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "3 Tore in H2 - Under 2.5 daneben"
+            },
+            {
+              "markt": "Doppelte Chance Lazio oder Remis",
+              "quote": 1.5,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.5,
+              "kommentar": "Lazio-Sieg 2:1 - DC X2 klar"
+            },
+            {
+              "markt": "Mattia Zaccagni Torschuetze jederzeit",
+              "quote": 3.5,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 3.5,
+              "kommentar": "Einwechslungs-Boost: Zaccagni assistierte 1:1, wurde ca. 80. Min ausgewechselt, Ersatz Gudmundsson trifft 88. zum 1:2 - Boost triggert (Gudmundssons Tor zaehlt fuer Zaccagni)"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-07-get-cel",
+          "liga": "LaLiga - Jornada 4",
+          "heim": "Getafe CF",
+          "gast": "RC Celta Vigo",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.55,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.55,
+              "kommentar": "2 Tore - Unter 2.5 gedeckt (Grenzfall)"
+            },
+            {
+              "markt": "Beide Teams treffen - Nein",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Beide trafen (Satriano 21, Starfelt 57) - BTTS-Nein daneben"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-07-elc-rso",
+          "liga": "LaLiga - Jornada 4",
+          "heim": "Elche CF",
+          "gast": "Real Sociedad",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Real Sociedad oder Remis",
+              "quote": 1.55,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.55,
+              "kommentar": "Real Sociedad 3:2-Sieg trotz Elche-Comeback von 0:2 auf 2:2 (Sucic 90.) - DC X2 gedeckt"
+            },
+            {
+              "markt": "Mikel Oyarzabal Torschuetze jederzeit",
+              "quote": 2.8,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Oyarzabal traf nicht, wurde ausgewechselt - aber Ersatz Sucic startete das Spiel bereits in der Startelf (4-4-2), also KEIN Einwechslungs-Boost (Sucics Tor 90. zaehlt nicht fuer Oyarzabal, weil Sucic nicht Oyarzabals direkter Ersatz war)"
+            },
+            {
+              "markt": "Takefusa Kubo Torschuetze jederzeit",
+              "quote": 3.4,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Kubo kein Tor - Real-Sociedad-Scorer waren Ochieng, Herrera, Sucic"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (Unter-Tore-Konzentration + Klassen-Edge)",
+          "kategorie": "safe",
+          "gesamtquote": 3.96,
+          "einsatz_prozent": 2.0,
+          "status": "gewonnen",
+          "beine": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.65,
+              "status": "gewonnen",
+              "kommentar": "Nur 1 Tor (Maldini 29.) - Unter 2.5 klar drin"
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.55,
+              "status": "gewonnen",
+              "kommentar": "2 Tore - Unter 2.5 gedeckt (Grenzfall)"
+            },
+            {
+              "markt": "Doppelte Chance Real Sociedad oder Remis",
+              "quote": 1.55,
+              "status": "gewonnen",
+              "kommentar": "Real Sociedad 3:2-Sieg trotz Elche-Comeback von 0:2 auf 2:2 (Sucic 90.) - DC X2 gedeckt"
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (Markt-Mix defensiv + Fluegel-Scorer)",
+          "kategorie": "balance",
+          "gesamtquote": 8.28,
+          "einsatz_prozent": 0.8,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.75,
+              "status": "verloren",
+              "kommentar": "3 Tore in H2 - Under 2.5 daneben"
+            },
+            {
+              "markt": "Beide Teams treffen - Nein",
+              "quote": 1.69,
+              "status": "gewonnen",
+              "kommentar": "Lecce ohne Tor - BTTS-Nein bestaetigt (dritte Null in 3 Spielen offensiv)"
+            },
+            {
+              "markt": "Oyarzabal Torschuetze jederzeit",
+              "quote": 2.8,
+              "status": "verloren",
+              "kommentar": "Oyarzabal traf nicht, wurde ausgewechselt - aber Ersatz Sucic startete das Spiel bereits in der Startelf (4-4-2), also KEIN Einwechslungs-Boost (Sucics Tor 90. zaehlt nicht fuer Oyarzabal, weil Sucic nicht Oyarzabals direkter Ersatz war)"
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (BTTS + Torschuetze + Total)",
+          "kategorie": "risk",
+          "gesamtquote": 10.68,
+          "einsatz_prozent": 0.25,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Beide Teams treffen - Nein",
+              "quote": 1.65,
+              "status": "verloren",
+              "kommentar": "Beide trafen (Satriano 21, Starfelt 57) - BTTS-Nein daneben"
+            },
+            {
+              "markt": "Zaccagni Torschuetze jederzeit",
+              "quote": 3.5,
+              "status": "gewonnen",
+              "kommentar": "Einwechslungs-Boost: Zaccagni assistierte 1:1, wurde ca. 80. Min ausgewechselt, Ersatz Gudmundsson trifft 88. zum 1:2 - Boost triggert (Gudmundssons Tor zaehlt fuer Zaccagni)"
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.85,
+              "status": "gewonnen",
+              "kommentar": "5 Tore - Ueber 2.5 deutlich getroffen"
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (Underdog-Lecce + Chaos-Cluster)",
+          "kategorie": "moonshot",
+          "gesamtquote": 115.19,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Lecce",
+              "quote": 3.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 3.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Zaniolo Torschuetze jederzeit",
+              "quote": 3.8,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-09-06",
       "gesamt": {

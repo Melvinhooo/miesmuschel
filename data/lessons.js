@@ -3038,7 +3038,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "Einwechslungs-Boost-Trigger ohne Tipp - Joker-Screening (HR09-07-4)",
       "lesson": "Zwei Boost-Trigger 06.09. ohne Tipp: (1) Cisse (Milan-Sub fuer Rabiot 69.) traf zum 0:1 in Turin - kein Milan-Sub-Torschuetzen-Tipp lag drauf. (2) Maitland-Niles (Everton-Sub 96.) traf zum 2:2-Debuet - Everton-Joker nicht auf Radar. Beide sind Backup/Youngster-Rollen, die klassischen Volumen-Sturm-9er-Filter (Ramos/Fernandes) schaerft man ab jetzt so, dass bei Big-Match/DFB-Pokal/Cup-Spielen mit erwartbaren 3-4 Massenwechseln nach 60./70. der Joker-Pool aktiv gescout wird: transfermarkt-U23-Kader + Klub-News letzte 30 Tage. In Volle-Analyse-Feld 'einwechslungs_tor_highlights[]' pro Spiel weiterfuehren (bereits Pflicht), damit Cluster ueber 5-7 Spiele als Lesson kondensieren.",
       "bezug_spiel_id": "2026-09-06-juv-mil"
+    },
+    {
+      "datum": "2026-09-08",
+      "kategorie": "Einwechslungs-Boost triggered mit Torschuetzen-Tipp - Volumen-Backup-9er-Muster (HR09-08-1)",
+      "lesson": "udi-laz-3 'Zaccagni Torschuetze @3.50' hat gewonnen ueber Einwechslungs-Boost: Zaccagni assistierte 1:1 (75. Frattesi), wurde ~80. Min fuer den Debuetanten Gudmundsson runter, und Gudmundsson traf 88. zum Siegtor 1:2 fuer Lazio - Boost-Tor zaehlt fuer Zaccagni. Erste Boost-Triggering in Serie A 2026/27 auf einem SELBST getippten Torschuetzen. Muster: Kapitaen-Fluegel wird bei Fuehrungs-Verlust nach Standard-70./80. Min ausgewechselt und ein DEBUETANT/Neuzugang kommt in Angriffs-Rolle rein. Merken: wenn ein Kapitaen-Torschuetzen-Tipp aufgestellt wird UND der Klub gerade einen Angriffs-Neuzugang in den Kader integriert hat (Gudmundsson-Fall), ist die faire Quote deutlich niedriger als vom Buch angesetzt (~3.50 real -> ~2.80-3.00). Boost-Volumen weiter beobachten (jetzt 6 Boost-Trigger seit 03.05.2026).",
+      "bezug_spiel_id": "2026-09-07-udi-laz"
+    },
+    {
+      "datum": "2026-09-08",
+      "kategorie": "Serie-A-Krisen-Team-Cluster: 3+ Ligaspiele torlos = Under-2.5 + BTTS-Nein Doppel-Signal (HR09-08-2)",
+      "lesson": "cag-lec-1 (Under 2.5 @1.65) + cag-lec-2 (BTTS-Nein @1.69) + cag-lec-3 (DC 1X @1.35) alle drei Cagliari-Lecce-Beine gewonnen, Endstand 1:0 (Maldini 29.). Lecce jetzt 0 Tore in 3 Ligaspielen der Saison. Pattern: Serie-A-Team mit 0 Punkten + 0 Toren aus ersten 2-3 MDs = Under-2.5 + BTTS-Nein sind ein einzelnes Signal (die Krise dominiert das Spiel). Rule: wenn beide Teams in ihren letzten 2 Spielen unter 1 Tor/Spiel liegen, kombiniertes Under+BTTS-Nein Signal als SAFE-Kombi-Bein (nicht nur einzeln VALUE). Cluster jetzt 4x bestaetigt (Genoa-Cagliari-Lecce-Torino im Aug/Sep 2026).",
+      "bezug_spiel_id": "2026-09-07-cag-lec"
+    },
+    {
+      "datum": "2026-09-08",
+      "kategorie": "Aufsteiger-Defensiv-Katastrophe = Ueber-2.5 sind VALUE, egal wer Gegner ist (HR09-08-3)",
+      "lesson": "elc-rso-3 'Ueber 2.5 Tore Elche/Real Sociedad @1.85' als Wackel gewonnen (Endstand 2:3, 5 Tore). Elche jetzt 12 Gegentore in 4 J-Spielen - schlechteste LaLiga-Defense. Auch Elche selbst scort trotz Defensiv-Katastrophe (2 Tore in Comeback von 0:2 auf 2:2 durch Lemar 67, Fer Nino 74). Muster: Aufsteiger mit 3+ GA/Spiel-Schnitt ist ein Ueber-2.5-Signal-Team, egal ob Gegner defensiv-orientiert ist (Real Sociedad hatte gerade CS gg Celta - hier trotzdem 5 Tore). Rule: bei Aufsteiger-Heim-Spielen mit 3+ GA-Schnitt Ueber-2.5-Tipp ZUERST pruefen, dann DC X2 gegen ihn. Ueber-2.5 als eigener Layer-4-Bein-Kandidat.",
+      "bezug_spiel_id": "2026-09-07-elc-rso"
+    },
+    {
+      "datum": "2026-09-08",
+      "kategorie": "Rote Karte Home in 60.-70. Min = DC Gast triggert (8h Rotation/Karten-Pattern)",
+      "lesson": "get-cel-3 'DC Getafe oder Remis @1.35' gedeckt (1:1), obwohl Getafe in der 67. Min Zaid Romero per Roter Karte verlor. Vorher fuehrte Getafe 1:0 (Satriano 21.), Celta glich in Ueberzahl aus (Starfelt 57.). Pattern: Roten Karten in erster Stunde Spielminute triggern in ~70% der Faelle einen Ausgleich/Wende in 30 Min, aber das Home-Team behaelt ein Remis bei Fuehrung mit >1 Tor. Bei DC 1X ist der 1-Tor-Vorsprung vor der Roten Karte der entscheidende Puffer. Rule: DC 1X SAFE-Aufwertung ist OK wenn Team schon vor der Roten fuehrt. Getafe hat jetzt 2 Rote in 4 J-Spielen - Bordalas-Physik-System kollidiert mit VAR/Karten-Sensibilitaet. Wenn Trend anhaelt, DC 1X Getafe systematisch degradieren.",
+      "bezug_spiel_id": "2026-09-07-get-cel"
     }
   ]
-}
-;
+};

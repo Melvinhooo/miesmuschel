@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-07T06:30:00+00:00",
+  "stand": "2026-09-08T06:15:00+00:00",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -578,6 +578,24 @@
       "hinweis": "Kam als Sub 06.09. gegen Man United rein, traf 90+6 zum 2:2-Ausgleich - Debuet-Joker im neuen Hill Dickinson Stadium. Ab jetzt Everton-Joker-Screening.",
       "quelle": "https://www.espn.com/soccer/report/_/gameId/401879291",
       "stand": "2026-09-07"
+    },
+    {
+      "spieler": "Albert Gudmundsson",
+      "nach": "SS Lazio",
+      "von": "ACF Fiorentina",
+      "datum": "2026-09-01",
+      "hinweis": "Leihe EUR 1m + Kaufoption EUR 12m, unterschrieben letzter Deadline-Day. Debuetierte 07.09.2026 gg Udinese, kam ca. 80. Min fuer Zaccagni rein, schoss 88. das 1:2-Siegtor. Zweitstuermer/offensiver Mittelfeldspieler - passt in Gattusos 4-2-3-1. Ab jetzt bevorzugte Lazio-Torschuetzen-Option (Volumen-Sub, Debuet-Impact-Muster). Einwechslungs-Boost-Backup fuer Zaccagni bei Kapitaen-Auswechslung.",
+      "quelle": "https://football-italia.net/official-lazio-sign-gudmundsson-fiorentina/",
+      "stand": "2026-09-08"
+    },
+    {
+      "spieler": "Job Ochieng",
+      "nach": "Real Sociedad (1. Mannschaft)",
+      "von": "Real Sociedad B (Aufstieg intern)",
+      "datum": "2026-02",
+      "hinweis": "Kenianischer Volumen-Stuermer, 23 Jahre, Nr. 12. Sommer 2026 vom B-Team fest hochgezogen, Vertrag bis 2028. Traf 07.09.2026 gg Elche 11. Min zum 0:1 - hat in LaLiga-Auswaerts-Spielen 2026/27 damit gescort. Ab jetzt als 2. RSoc-Torschuetzen-Option NEBEN Oyarzabal/Kubo tracken (nicht statt).",
+      "quelle": "https://striver.football/the-pathway/job-ochieng-real-sociedad-journey-bernabeu",
+      "stand": "2026-09-08"
     }
   ],
   "trainer_2026_27": [
