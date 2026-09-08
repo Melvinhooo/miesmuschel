@@ -337,5 +337,38 @@
     }
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA-Gluecksspielsucht-Hotline: 0800 1372700 · Nur setzen was du verlieren kannst · Stress -> Pause · Probleme -> Hilfe holen",
-  "_watchdog_recovery": true
+  "_watchdog_recovery": true,
+  "_verifikations_report": {
+    "erstellt_am": "2026-09-08T15:05:00+02:00",
+    "modus": "master_tipps_routine_nachlauf_ueber_watchdog_output",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "gesamtquote_rundung",
+        "kombi_id": "kombi-safe",
+        "details": "1.75 x 1.85 = 3.2375, aufgerundet auf 3.24 im Feld gesamtquote. Toleranz akzeptabel."
+      },
+      {
+        "art": "recherche_file_fehlt",
+        "details": "data/recherche/2026-09-08.json existiert nicht - Master-Routine wurde als Watchdog-Recovery aus Direkt-Kontext heraus gefahren. Nur 2 CL-Auftakt-Spiele im Slate, weiteres Vereins-Programm liegt in der Laenderspielpause (BL-MW3 erst 12.-14.09.). Keine Halluzinations-Ergaenzung, keine erfundenen Spiele."
+      },
+      {
+        "art": "risiko_moonshot_kombi_fehlend",
+        "details": "Bei nur 2 Spielen im Slate ist Layer-1 (max 1 Bein/Spiel/Kombi) hart limitierend - Risiko-/Moonshot-Kombis mit 3+ Beinen aus verschiedenen Spielen strukturell nicht baubar. Bewusstes Weglassen statt Halluzination fabrizierter Beine."
+      }
+    ],
+    "checks_ok": [
+      "Layer-2 sauber: nur 1 Sieg-Outcome pro Spiel (BVB-Sieg in Safe-Kombi, kein Real-Sieg irgendwo)",
+      "Kader-Frische: Adeyemi explizit NICHT als BVB-Torschuetze getippt (kader_wechsel_2026.json Eintrag 24.07.2026 bestaetigt) - Guirassy/Mbappe/Lautaro alle noch bei ihren Vereinen",
+      "Trainer-Frische: Mourinho bei Real Madrid bestaetigt (kader_wechsel_2026.json trainer_2026_27 Eintrag seit 11.06.2026 mit UEFA/Real-Quelle) - taktische Aussagen Unter-Tore/Zu-Null aufgewertet ist konsistent",
+      "Verband-Quellen: uefa.com in beiden saison_kontext.quellen[] vorhanden (CL-Pflicht-URL)",
+      "Position-Check Torschuetzen: Guirassy (ST), Mbappe (ST/LF), Lautaro (ST) - alle Sturm-Positionen, kein Hojlund-Typ-DM-als-Stuermer-Bug",
+      "Selbstwiderspruchs-Scan: keine gegensaetzlichen Aussagen zwischen saison_kontext/news/begruendungen",
+      "Zeitfenster-Hartregel: beide Spiele Anstoss 2026-09-08T21:00 CEST - im Fenster, kein datum_scope-Drop-Risiko",
+      "gesamtquote-Rechnung PFLICHT-Feld in beiden Kombis inkl. rechnung-String",
+      "Kasse-Stand-Konsistenz: alle Stakes gemaess Stufe 1 (1000 EUR Kasse, stufe_2_freigeschaltet=false) - 20/15/10/5 EUR = 2/1.5/1/0.5%"
+    ],
+    "lessons_generiert": []
+  }
 }
