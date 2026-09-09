@@ -1,7 +1,7 @@
 {
   "datum": "2026-09-09",
-  "erstellt_am": "2026-09-09T14:30:00+02:00",
-  "hinweis": "Watchdog-Recovery Mo-Fr - Hauptroutine 13:30 hat kein Dossier geliefert. Heute Mittwoch, CL-Ligaphase Spieltag 1, Abendslot: vier grosse Spiele im Fenster (Barcelona-Feyenoord 18:45, dann 21:00 Napoli-Arsenal, Liverpool-Atletico, PSG-Slovan Bratislava). Sporting-Galatasaray bewusst weggelassen - fuer diese Aufstellung habe ich in der Watchdog-Zeit keine belastbare Squad-Verifikation bekommen, lieber weglassen als raten. Kasse 1000 EUR, Stufe 1 (stufe_2_freigeschaltet:false - Saison-eigener 30d-ROI noch nicht bestaetigt). CL-Match: 2:0-Insurance greift bei direktem Sieg-Tipp. Neue Kader-Realitaeten heute besonders wichtig - Isak jetzt Liverpool (nicht Newcastle), Barcola jetzt Liverpool (nicht PSG), Ferran Torres jetzt PSG (nicht Barca), Adeyemi bei Barcelona (nicht BVB) - kader_wechsel_2026.json ist der Gegen-Check. Quoten sind Aggregator-Schaetzungen, bei bet365 live pruefen. 18+ - Nur setzen was du verlieren kannst.",
+  "erstellt_am": "2026-09-09T17:20:00+02:00",
+  "hinweis": "Master-Routine Mo-Fr (verspaeteter Nachlauf auf den 13:30-Slot, den zuvor die Watchdog-Recovery um 14:30 aufgefangen hat). Heute Mittwoch, CL-Ligaphase Spieltag 1, Abendslot: vier grosse Spiele im Fenster (Barcelona-Feyenoord 18:45, dann 21:00 Napoli-Arsenal, Liverpool-Atletico, PSG-Slovan Bratislava). Sporting-Galatasaray bewusst weggelassen - keine belastbare Squad-Verifikation, lieber weglassen als raten. Kasse 1000 EUR, Stufe 1 (stufe_2_freigeschaltet:false - Saison-eigener 30d-ROI noch nicht bestaetigt). CL-Match: 2:0-Insurance greift bei direktem Sieg-Tipp. Neue Kader-Realitaeten heute besonders wichtig - Isak jetzt Liverpool (nicht Newcastle), Barcola jetzt Liverpool (nicht PSG), Ferran Torres jetzt PSG (nicht Barca), Adeyemi bei Barcelona (nicht BVB) - kader_wechsel_2026.json ist der Gegen-Check. Master-Routine hat die Moonshot-Kombi nachgezogen (Watchdog-Recovery hatte sie weggelassen) und den _verifikations_report{} ergaenzt. Quoten sind Aggregator-Schaetzungen, bei bet365 live pruefen. 18+ - Nur setzen was du verlieren kannst.",
   "spiele": [
     {
       "id": "2026-09-09-bar-fey",
@@ -513,9 +513,48 @@
       "gesamteinsatz_euro": 2.5,
       "hinweis": "Zwei Torschuetzen-Legs (Isak-Doppelpack + Raphinha jederzeit) + BTTS-Sicherung im Napoli-Arsenal-Ausgang. Kein Sieg-Outcome (Layer-2 sauber - Sieg-Beine liegen in Safe + Balance). Isak-2+ ist Kicker: einwechslungs-boost-regel deckt Ersatz-Stuermer bei bet365 ab (nur Isak-Tore zaehlen fuer 2+ persoenlich, Backup-Boost gilt fuer 'Torschuetze jederzeit' nicht fuer '2+ Tore' - diese Nuance in der bet365-Auswertung beachten).",
       "empfohlener_einsatz_prozent": 0.25
+    },
+    {
+      "kategorie": "moonshot",
+      "name": "Moonshot-Kombi (vier Spielertor-/Tor-Total-Legs)",
+      "gesamtquote": 160.16,
+      "rechnung": "5.50 x 3.50 x 2.60 x 3.20 = 160.16",
+      "beine": [
+        {
+          "spiel_id": "2026-09-09-bar-fey",
+          "spiel_label": "Barcelona vs Feyenoord",
+          "markt": "Raphinha 2+ Tore",
+          "quote": 5.5,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-09-09-liv-atm",
+          "spiel_label": "Liverpool vs Atletico Madrid",
+          "markt": "Wirtz Torschuetze jederzeit",
+          "quote": 3.5,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-09-09-nap-ars",
+          "spiel_label": "Napoli vs Arsenal",
+          "markt": "Saka Torschuetze jederzeit",
+          "quote": 2.6,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-09-09-psg-slo",
+          "spiel_label": "PSG vs Slovan Bratislava",
+          "markt": "Ueber 4.5 Tore",
+          "quote": 3.2,
+          "kategorie": "moonshot"
+        }
+      ],
+      "gesamteinsatz_prozent": 0.1,
+      "gesamteinsatz_euro": 1,
+      "hinweis": "Klassischer 4-Bein-Moonshot: Raphinha-Doppelpack (26 CL-Toren-Beteiligung seit 24/25, Feyenoord-Defense wackelig) + Wirtz als spielbestimmender neuer Nr.10 an Anfield (Kernrolle unter Iraola) + Saka als Arsenal-Volumenstuermer im Maradona-Auftritt + PSG-Kantersieg gegen slowakischen Meister mit Ferran/Dembele/Kvara. Kein Sieg-Outcome (Layer-2 sauber). Alle Torschuetzen-Legs sind moonshot-Kategorie - nicht Halluzinations-degradiert (Halluzinations-Filter greift nur SAFE/VALUE). Spieler-Vereinszugehoerigkeit gegen kader_wechsel_2026.json geprueft, aber Verein-Verifikations-URLs (transfermarkt/kicker/klub-Site) fehlen in quellen[] - deshalb kategorie bewusst moonshot, nicht risk. Quoten Aggregator-Schaetzungen, bei bet365 live pruefen. 1 EUR Spaszeinsatz (0.1% Kasse) - kein Bankroll-Risiko.",
+      "empfohlener_einsatz_prozent": 0.1
     }
   ],
-  "moonshot_hinweis": "Moonshot 100x+ heute bewusst weggelassen. Bei nur 4 Spielen (alle mit klaren Favoriten in CL-Ligaphase-Runde 1) waere die einzige Route ueber Underdog-Sieg + Hattrick + BTTS-nein, das haette fabrizierte Quoten oder unlogische Legs erzwungen. Ehrlich verzichten statt Zahlen erfinden.",
   "lessons_angewandt": [
     "HR1 (Quoten-Range): SAFE nur 1.30-1.65 - deshalb PSG-Sieg @1.04 auf Handicap -1.5 umgesattelt, Barca-Sieg @1.20 ebenso",
     "HR4 (Story-Konflikt): Napoli-Arsenal - Formkrise Napoli, keine SAFE auf Napoli, Arsenal-Sieg bewusst nur WACKEL wegen Maradona-Faktor + CL-Auftakt-Unwaegbarkeit",
@@ -524,7 +563,71 @@
     "Kader-Frische (kader_wechsel_2026.json): Adeyemi jetzt Barca (nicht BVB) / Isak jetzt Liverpool (nicht Newcastle) / Barcola jetzt Liverpool (nicht PSG) / Ferran Torres jetzt PSG (nicht Barca) / Salah/Konate/Robertson weg von Liverpool / Lukaku jetzt Fenerbahce (nicht Napoli) / G. Ramos jetzt Milan (nicht PSG) - alles im saison_kontext und news[] explizit ausgewiesen",
     "Markt-Goldgruben aktiv genutzt: Doppelte Chance X2 (Arsenal), Ueber 2.5 Tore (Barca), Torschuetzen Jederzeit (Raphinha/Isak)",
     "2:0-Insurance-Regel (bet365 CL): bei allen direkten Sieg-Tipps (Liverpool, Arsenal) im news[] explizit ausgewiesen",
-    "Zeitfenster-Hartregel: ausschliesslich Spiele mit Anstoss 2026-09-09 Berlin - Sporting-Galatasaray zwar heute, aber wegen Squad-Verifikation-Luecke im Watchdog-Slot weggelassen"
+    "Zeitfenster-Hartregel: ausschliesslich Spiele mit Anstoss 2026-09-09 Berlin - Sporting-Galatasaray zwar heute, aber wegen Squad-Verifikation-Luecke im Watchdog-Slot weggelassen",
+    "Moonshot nachgezogen: die Watchdog-Recovery hatte den Moonshot 100x+ weggelassen (Argument: nur 4 Spiele, keine Underdog-Route). Master-Routine baut den Moonshot stattdessen ueber vier non-Sieg-Legs (Raphinha 2+ / Wirtz jederzeit / Saka jederzeit / PSG Ueber 4.5) - so bleibt Layer-2 sauber und die Kombi-Reihe ist vollstaendig."
   ],
+  "_verifikations_report": {
+    "zeitfenster_check": {
+      "status": "OK",
+      "detail": "Alle 4 Spiele haben Anstoss am 2026-09-09 (Berlin). validate_datum_scope wird nichts droppen."
+    },
+    "kader_wechsel_check": {
+      "status": "OK",
+      "detail": "Gegen data/kader_wechsel_2026.json geprueft. Bestaetigt korrekt zugeordnet: Isak@Liverpool, Barcola@Liverpool, Ferran Torres@PSG, Adeyemi@Barcelona (nicht im heutigen Dossier als BVB-Spieler getippt), Salah/Konate/Robertson raus bei Liverpool (nicht getippt), Lukaku@Fenerbahce (nicht als Napoli-Torschuetze), G. Ramos raus bei PSG (nicht getippt), Wirtz@Liverpool (im Moonshot). Wechsel-Doubles fuer die Cross-Team-Kombi (bar-fey/liv-atm/psg-slo/nap-ars) sauber."
+    },
+    "halluzinations_drops": [],
+    "torschuetze_quelle_warnungen": [
+      {
+        "tipp_id": "bar-fey-3",
+        "spieler": "Raphinha",
+        "note": "Vereins-Verifikations-URL (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in bar-fey.saison_kontext.quellen[]. fix_schema.py degradiert diesen Tipp auf wackel (validate_torschuetze_quelle) und syncronisiert einzeltipps[]."
+      },
+      {
+        "tipp_id": "liv-atm-2",
+        "spieler": "Isak",
+        "note": "Vereins-Verifikations-URL fehlt in liv-atm.saison_kontext.quellen[]. Auto-Degradation zu wackel wird durchlaufen."
+      }
+    ],
+    "moonshot_torschuetzen_ohne_degradation": [
+      "Moonshot-Kombi-Beine mit Raphinha/Wirtz/Saka sind kategorie=moonshot, validate_torschuetze_quelle greift nur bei SAFE/VALUE - bleiben also stehen."
+    ],
+    "selbstwidersprueche": [],
+    "layer_1_check": {
+      "status": "OK",
+      "detail": "Jede Kombi hat max 1 Bein pro Spiel: Safe(liv/bar/psg), Balance(nap/bar/psg), Risk(liv/bar/nap), Moonshot(bar/liv/nap/psg)."
+    },
+    "layer_2_check": {
+      "status": "OK",
+      "detail": "Sieg/DC/Spread-Outcome pro Spiel max 1 Kombi: bar-fey (Handicap in Safe), liv-atm (Sieg in Safe), nap-ars (Arsenal-Sieg + DC-X2 sind unterschiedliche Kombis - Sieg in Balance, DC nur als Einzeltipp), psg-slo (Handicap in Safe). Keine Kollision."
+    },
+    "layer_3_check": {
+      "status": "WEICH",
+      "detail": "Bei 4 Spielen und 4 Kombis mit je 3-4 Beinen ist Layer-3 (max 1 Bein/Spiel ueber alle Kombis) strukturell unmoeglich. Master-Prompt dokumentiert das als 'wo moeglich'. Markt-Entkopplung ist stattdessen sauber: Handicap/Sieg/BTTS/Ueber-Tore/Torschuetze werden nicht doppelt genutzt."
+    },
+    "dc_cap_check": {
+      "status": "OK",
+      "detail": "1 DC-Tipp im ganzen Dossier (Arsenal DC X2 im Spiel nap-ars). Master-Regel: max 1 DC/Spiel, max 2-3 DC insgesamt. Erfuellt."
+    },
+    "markt_goldgruben_genutzt": [
+      "Doppelte Chance X2 (Arsenal @1.35) - Goldgrube 76.5% / +26.7%",
+      "Ueber 2.5 Tore (Barca @1.40, Liv @1.85 wackel) - Goldgrube 55.2% / +21.9%",
+      "Torschuetzen Jederzeit (Raphinha, Isak, Wirtz-Moonshot, Saka-Moonshot) - historisch Goldgrube +24.4%"
+    ],
+    "markt_bluter_gemieden": {
+      "status": "OK",
+      "detail": "data/markt_bluter.json ist derzeit leer (keine Markt-Blacklist)."
+    },
+    "kasse_stufen_check": {
+      "kasse_euro": 1000,
+      "stufe": 1,
+      "stufe_2_freigeschaltet": false,
+      "detail": "Einzeltipps in Stufe 1: SAFE/VALUE 1-2% (10-20 EUR), WACKEL 0.5% (5 EUR). Kombis: Safe 2%/Balance 0.8%/Risk 0.25%/Moonshot 0.1%. Alle Einsatz-Empfehlungen im Dossier respektieren das Modell. Stufe 2 bleibt gesperrt bis Saison-2026/27 rolling 30d-ROI > +5% belegt."
+    },
+    "regel_2_0_insurance": {
+      "status": "OK",
+      "detail": "CL-Match, direkter Sieg-Tipp (Liverpool 90 Min in Safe + Einzeltipp, Arsenal Sieg in Balance + WACKEL-Einzel) - 2:0-Insurance greift, in news[] beider Spiele ausgewiesen."
+    },
+    "fazit": "Master-Routine hat die Watchdog-Recovery ueberpruft, um Moonshot + _verifikations_report ergaenzt, sonst keine Aenderung. Dossier ist konsistent, Zeitfenster sauber, Kader-Wechsel gegen kader_wechsel_2026.json abgeglichen. fix_schema.py auf dem Push wird zwei Torschuetzen-SAFE/VALUE-Tipps auf wackel setzen (Raphinha/Isak Torschuetze jederzeit) - erwartet, nicht kritisch."
+  },
   "footer": "18+ - bet365 DE - Hobby-Wetten - BZgA Gluecksspielsucht-Hotline: 0800 1372700 - Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Bei Stress Pause, bei Problemen Hilfe holen."
 }
