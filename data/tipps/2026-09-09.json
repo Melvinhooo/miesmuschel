@@ -55,13 +55,14 @@
         },
         {
           "id": "bar-fey-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Raphinha Torschuetze jederzeit",
           "quote": 2.2,
           "edge_prozent": 10.0,
-          "begruendung": "Raphinha seit 24/25 an 26 CL-Toren direkt beteiligt (16 Tore + 10 Assists in ~30 CL-Spielen). HR24 erfuellt (Form-Edge + zentrale Offensivrolle unter Flick). Torschuetzen Jederzeit ist Goldgrube-Markt (+24.4% ROI historisch). Faire Quote eher bei 2.0, bet365 tendenziell 2.10-2.30. Live pruefen. Stake 1.5% = 15 EUR.",
+          "begruendung": "Raphinha seit 24/25 an 26 CL-Toren direkt beteiligt (16 Tore + 10 Assists in ~30 CL-Spielen). HR24 erfuellt (Form-Edge + zentrale Offensivrolle unter Flick). Torschuetzen Jederzeit ist Goldgrube-Markt (+24.4% ROI historisch). Faire Quote eher bei 2.0, bet365 tendenziell 2.10-2.30. Live pruefen. Stake 1.5% = 15 EUR. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 2.0,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "bar-fey-4",
@@ -120,13 +121,14 @@
         },
         {
           "id": "liv-atm-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Isak Torschuetze jederzeit",
           "quote": 2.1,
           "edge_prozent": 8.0,
-          "begruendung": "Isak war Newcastle-Toptorjaeger 25/26 (~20+ PL-Tore), CL-Debut fuer Liverpool an Anfield als Nr.9. HR24 erfuellt (Form-Edge letzte Saison + zentraler 9er). Torschuetzen Jederzeit ist Goldgrube (+24.4% ROI historisch). Backup Jota/Diaz ggf. eingewechselt - Einwechslungs-Boost-Regel deckt das ab. Stake 1.5% = 15 EUR.",
+          "begruendung": "Isak war Newcastle-Toptorjaeger 25/26 (~20+ PL-Tore), CL-Debut fuer Liverpool an Anfield als Nr.9. HR24 erfuellt (Form-Edge letzte Saison + zentraler 9er). Torschuetzen Jederzeit ist Goldgrube (+24.4% ROI historisch). Backup Jota/Diaz ggf. eingewechselt - Einwechslungs-Boost-Regel deckt das ab. Stake 1.5% = 15 EUR. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 1.95,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "liv-atm-3",
@@ -300,7 +302,8 @@
       "quote": 1.6,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15,
-      "begruendung": "Camp Nou + Klassen-Unterschied + Feyenoord-Defense-Loecher. Handicap statt direkter Sieg wegen SAFE-Range. bet365 live pruefen."
+      "begruendung": "Camp Nou + Klassen-Unterschied + Feyenoord-Defense-Loecher. Handicap statt direkter Sieg wegen SAFE-Range. bet365 live pruefen.",
+      "rang": 1
     },
     {
       "id": "psg-slo-1",
@@ -311,7 +314,8 @@
       "quote": 1.3,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20,
-      "begruendung": "PSG direkter Sieg @1.04 unter SAFE-Range. Handicap -1.5 packt die 1.30-Zone und Klassen-Unterschied sitzt. bet365 live pruefen."
+      "begruendung": "PSG direkter Sieg @1.04 unter SAFE-Range. Handicap -1.5 packt die 1.30-Zone und Klassen-Unterschied sitzt. bet365 live pruefen.",
+      "rang": 2
     },
     {
       "id": "liv-atm-1",
@@ -322,7 +326,8 @@
       "quote": 1.65,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20,
-      "begruendung": "Anfield-Faktor + 3/3 gegen Atletico in letzten CL-Duellen. 2:0-Insurance greift (bet365 CL). bet365 live pruefen."
+      "begruendung": "Anfield-Faktor + 3/3 gegen Atletico in letzten CL-Duellen. 2:0-Insurance greift (bet365 CL). bet365 live pruefen.",
+      "rang": 3
     },
     {
       "id": "nap-ars-1",
@@ -333,7 +338,8 @@
       "quote": 1.35,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20,
-      "begruendung": "Napoli in Formkrise + Arsenal Formvorsprung. DC X2 ist Goldgrube-Markt (76.5% Hitrate). bet365 live pruefen."
+      "begruendung": "Napoli in Formkrise + Arsenal Formvorsprung. DC X2 ist Goldgrube-Markt (76.5% Hitrate). bet365 live pruefen.",
+      "rang": 4
     },
     {
       "id": "bar-fey-3",
@@ -344,7 +350,8 @@
       "quote": 2.2,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15,
-      "begruendung": "Raphinha in 26 CL-Toren beteiligt seit 24/25. Torschuetzen Jederzeit ist Goldgrube (+24.4% ROI). bet365 live pruefen."
+      "begruendung": "Raphinha in 26 CL-Toren beteiligt seit 24/25. Torschuetzen Jederzeit ist Goldgrube (+24.4% ROI). bet365 live pruefen.",
+      "rang": 5
     },
     {
       "id": "liv-atm-2",
@@ -355,7 +362,8 @@
       "quote": 2.1,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15,
-      "begruendung": "Isak Newcastle-Toptorjaeger 25/26 (20+ PL-Tore), Liverpool-Debut an Anfield. Form-Edge (HR24) klar. bet365 live pruefen."
+      "begruendung": "Isak Newcastle-Toptorjaeger 25/26 (20+ PL-Tore), Liverpool-Debut an Anfield. Form-Edge (HR24) klar. bet365 live pruefen.",
+      "rang": 6
     },
     {
       "id": "nap-ars-2",
@@ -366,7 +374,8 @@
       "quote": 1.7,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15,
-      "begruendung": "Zwei Meister-Klub-Offensiven, Napoli daheim wird mindestens 1 Tor bringen. BTTS-JA historisch 65-70% bei solchen Duellen. bet365 live pruefen."
+      "begruendung": "Zwei Meister-Klub-Offensiven, Napoli daheim wird mindestens 1 Tor bringen. BTTS-JA historisch 65-70% bei solchen Duellen. bet365 live pruefen.",
+      "rang": 7
     },
     {
       "id": "bar-fey-2",
@@ -377,7 +386,8 @@
       "quote": 1.4,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15,
-      "begruendung": "Barca-Sturm nach 5:0 Valencia in Form, Feyenoord-Defense wackelig. Ueber 2.5 markt_goldgrube. bet365 live pruefen."
+      "begruendung": "Barca-Sturm nach 5:0 Valencia in Form, Feyenoord-Defense wackelig. Ueber 2.5 markt_goldgrube. bet365 live pruefen.",
+      "rang": 8
     },
     {
       "id": "psg-slo-2",
@@ -388,7 +398,8 @@
       "quote": 1.75,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15,
-      "begruendung": "PSG-CL-Heimspiele gegen unterlegene Gegner historisch 3-4 Tore. Ferran Torres neuer Nr.9 frisch. bet365 live pruefen."
+      "begruendung": "PSG-CL-Heimspiele gegen unterlegene Gegner historisch 3-4 Tore. Ferran Torres neuer Nr.9 frisch. bet365 live pruefen.",
+      "rang": 9
     },
     {
       "id": "liv-atm-3",
@@ -399,7 +410,8 @@
       "quote": 1.85,
       "empfohlener_einsatz_prozent": 0.5,
       "empfohlener_einsatz_euro": 5,
-      "begruendung": "Simeone-Atletico kann klassisch defensiv einparken - WACKEL statt VALUE. bet365 live pruefen."
+      "begruendung": "Simeone-Atletico kann klassisch defensiv einparken - WACKEL statt VALUE. bet365 live pruefen.",
+      "rang": 10
     }
   ],
   "kombis": [
@@ -433,7 +445,8 @@
       ],
       "gesamteinsatz_prozent": 2.0,
       "gesamteinsatz_euro": 20,
-      "hinweis": "Drei Heim-Klassen-Unterschiede in der CL-Ligaphase Runde 1 - Anfield-Sieg + zwei Handicap-Legs auf Riesen-Favoriten. Sieg-Outcome nur einmal (Liverpool), Handicap-Legs Markt-entkoppelt. Layer-2 sauber, Layer-3 max 1 Bein/Spiel."
+      "hinweis": "Drei Heim-Klassen-Unterschiede in der CL-Ligaphase Runde 1 - Anfield-Sieg + zwei Handicap-Legs auf Riesen-Favoriten. Sieg-Outcome nur einmal (Liverpool), Handicap-Legs Markt-entkoppelt. Layer-2 sauber, Layer-3 max 1 Bein/Spiel.",
+      "empfohlener_einsatz_prozent": 1.5
     },
     {
       "kategorie": "balance",
@@ -465,7 +478,8 @@
       ],
       "gesamteinsatz_prozent": 0.8,
       "gesamteinsatz_euro": 8,
-      "hinweis": "Arsenal-Sieg als einziges Sieg-Outcome dieser Kombi (Layer-2 sauber, das Liverpool-Sieg-Leg ist in der Safe). Barca-BTTS + PSG-Ueber-3.5 sind Tor-Total-Maerkte, entkoppelt von den Handicaps der Safe-Kombi (Layer-3 respektiert)."
+      "hinweis": "Arsenal-Sieg als einziges Sieg-Outcome dieser Kombi (Layer-2 sauber, das Liverpool-Sieg-Leg ist in der Safe). Barca-BTTS + PSG-Ueber-3.5 sind Tor-Total-Maerkte, entkoppelt von den Handicaps der Safe-Kombi (Layer-3 respektiert).",
+      "empfohlener_einsatz_prozent": 0.5
     },
     {
       "kategorie": "risk",
@@ -497,7 +511,8 @@
       ],
       "gesamteinsatz_prozent": 0.25,
       "gesamteinsatz_euro": 2.5,
-      "hinweis": "Zwei Torschuetzen-Legs (Isak-Doppelpack + Raphinha jederzeit) + BTTS-Sicherung im Napoli-Arsenal-Ausgang. Kein Sieg-Outcome (Layer-2 sauber - Sieg-Beine liegen in Safe + Balance). Isak-2+ ist Kicker: einwechslungs-boost-regel deckt Ersatz-Stuermer bei bet365 ab (nur Isak-Tore zaehlen fuer 2+ persoenlich, Backup-Boost gilt fuer 'Torschuetze jederzeit' nicht fuer '2+ Tore' - diese Nuance in der bet365-Auswertung beachten)."
+      "hinweis": "Zwei Torschuetzen-Legs (Isak-Doppelpack + Raphinha jederzeit) + BTTS-Sicherung im Napoli-Arsenal-Ausgang. Kein Sieg-Outcome (Layer-2 sauber - Sieg-Beine liegen in Safe + Balance). Isak-2+ ist Kicker: einwechslungs-boost-regel deckt Ersatz-Stuermer bei bet365 ab (nur Isak-Tore zaehlen fuer 2+ persoenlich, Backup-Boost gilt fuer 'Torschuetze jederzeit' nicht fuer '2+ Tore' - diese Nuance in der bet365-Auswertung beachten).",
+      "empfohlener_einsatz_prozent": 0.25
     }
   ],
   "moonshot_hinweis": "Moonshot 100x+ heute bewusst weggelassen. Bei nur 4 Spielen (alle mit klaren Favoriten in CL-Ligaphase-Runde 1) waere die einzige Route ueber Underdog-Sieg + Hattrick + BTTS-nein, das haette fabrizierte Quoten oder unlogische Legs erzwungen. Ehrlich verzichten statt Zahlen erfinden.",
