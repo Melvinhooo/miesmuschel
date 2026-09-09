@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-09-08T06:20:55+00:00",
+  "letzte_berechnung": "2026-09-09T06:11:16+00:00",
   "gesamt": {
     "tipps": 408,
     "gewonnen": 209,
@@ -13,15 +13,15 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 12.2
   },
   "letzte_30_tage": {
-    "tipps": 138,
-    "gewonnen": 69,
-    "verloren": 57,
+    "tipps": 127,
+    "gewonnen": 65,
+    "verloren": 50,
     "push": 1,
     "offen": 11,
-    "einsatz": 127.0,
+    "einsatz": 116.0,
     "netto": 42.56,
-    "trefferquote": 54.8,
-    "roi_prozent": 33.5
+    "trefferquote": 56.5,
+    "roi_prozent": 36.7
   },
   "letzte_90_tage": {
     "tipps": 403,
@@ -4154,6 +4154,65 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-09-08",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (Sieg BVB + Mbappe Tor)",
+          "kategorie": "safe",
+          "gesamtquote": 3.24,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Borussia Dortmund",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Kylian Mbappe Torschuetze jederzeit",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (Torschuetzen-Duo Guirassy + Lautaro)",
+          "kategorie": "balance",
+          "gesamtquote": 6.72,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Serhou Guirassy Torschuetze jederzeit",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Lautaro Martinez Torschuetze jederzeit",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-09-07",
       "gesamt": {
