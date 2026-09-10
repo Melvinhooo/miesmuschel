@@ -61,7 +61,8 @@
           "faire_quote": 1.6,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-09-10-psv-sha",
@@ -92,13 +93,14 @@
       "tipps": [
         {
           "id": "psv-sha-1",
-          "kategorie": "safe",
+          "kategorie": "value",
           "markt": "Doppelte Chance 1X (PSV oder Remis)",
           "quote": 1.25,
           "edge_prozent": 4.0,
-          "begruendung": "Philips-Heimvorteil + Klassen-Delta gegen Kriegsflucht-Shakhtar. Direkter PSV-Sieg @1.65 waere VALUE-Range - DC 1X @1.25 packt die SAFE-Range unter Ausschluss des Ueberraschungs-Auswaertssiegs. DC ist markt_goldgruben (62.5% / +27.6% ROI). Stake 1.5% = 15 EUR.",
+          "begruendung": "Philips-Heimvorteil + Klassen-Delta gegen Kriegsflucht-Shakhtar. Direkter PSV-Sieg @1.65 waere VALUE-Range - DC 1X @1.25 packt die SAFE-Range unter Ausschluss des Ueberraschungs-Auswaertssiegs. DC ist markt_goldgruben (62.5% / +27.6% ROI). Stake 1.5% = 15 EUR. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
           "faire_quote": 1.2,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_markt_mix_dc_downgrade": true
         },
         {
           "id": "psv-sha-2",
@@ -120,7 +122,8 @@
           "faire_quote": 1.8,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-09-10-cmo-lei",
@@ -181,7 +184,8 @@
           "faire_quote": 1.55,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-09-10-bay-bod",
@@ -214,13 +218,14 @@
       "tipps": [
         {
           "id": "bay-bod-1",
-          "kategorie": "safe",
+          "kategorie": "value",
           "markt": "Bayern Handicap -2.5",
           "quote": 1.75,
           "edge_prozent": 6.0,
-          "begruendung": "Bayern-Muenchen-Klassenunterschied vor Allianz-Kulisse - drei Tore Differenz oder mehr sind bei Bayern-Heim gegen skandinavischen Meister historische Normalitaet (letzte 4 CL-Duelle Bayern gegen skandinavische Klubs im Allianz alle >=3 Tore Differenz). Direkter Bayern-Sieg @1.10 unter SAFE-Range - Handicap -2.5 packt die 1.75er-VALUE-artige SAFE-Zone. Stake 2% = 20 EUR bei 1000 EUR Kasse.",
+          "begruendung": "Bayern-Muenchen-Klassenunterschied vor Allianz-Kulisse - drei Tore Differenz oder mehr sind bei Bayern-Heim gegen skandinavischen Meister historische Normalitaet (letzte 4 CL-Duelle Bayern gegen skandinavische Klubs im Allianz alle >=3 Tore Differenz). Direkter Bayern-Sieg @1.10 unter SAFE-Range - Handicap -2.5 packt die 1.75er-VALUE-artige SAFE-Zone. Stake 2% = 20 EUR bei 1000 EUR Kasse. [Auto: SAFE-Confirm fehlt - Quote 1.75 > 1.65 ohne Goldgrube-Kompensation]",
           "faire_quote": 1.65,
-          "empfohlener_einsatz_prozent": 2.0
+          "empfohlener_einsatz_prozent": 2.0,
+          "_safe_confirm_downgrade": true
         },
         {
           "id": "bay-bod-2",
@@ -242,7 +247,8 @@
           "faire_quote": 1.55,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-09-10-mun-sab",
@@ -286,13 +292,14 @@
         },
         {
           "id": "mun-sab-2",
-          "kategorie": "safe",
+          "kategorie": "value",
           "markt": "Sabah kein Tor (Under 0.5 Sabah)",
           "quote": 1.7,
           "edge_prozent": 6.0,
-          "begruendung": "Sabah in Aserbaidschan gegen Top-Klub-Level = signifikanter Sprung. United-Heim-Defense (Lammens/Yoro/Martinez) laut Predicted-XI konservativ - Sabah dazu Reise + Old-Trafford-Kulisse-Druck. Kein-Tor-Sabah ist der komplementaere Markt zum -2.5-Handicap. Stake 1.5% = 15 EUR.",
+          "begruendung": "Sabah in Aserbaidschan gegen Top-Klub-Level = signifikanter Sprung. United-Heim-Defense (Lammens/Yoro/Martinez) laut Predicted-XI konservativ - Sabah dazu Reise + Old-Trafford-Kulisse-Druck. Kein-Tor-Sabah ist der komplementaere Markt zum -2.5-Handicap. Stake 1.5% = 15 EUR. [Auto: SAFE-Confirm fehlt - Quote 1.7 > 1.65 ohne Goldgrube-Kompensation]",
           "faire_quote": 1.6,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_safe_confirm_downgrade": true
         },
         {
           "id": "mun-sab-3",
@@ -304,7 +311,8 @@
           "faire_quote": 1.75,
           "empfohlener_einsatz_prozent": 1.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-09-10-sla-len",
@@ -365,7 +373,8 @@
           "faire_quote": 1.75,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
@@ -619,28 +628,14 @@
     {
       "kategorie": "moonshot",
       "name": "Moonshot-Kombi (5 Beine, ~15x - kein echter 100x)",
-      "gesamtquote": 15.41,
-      "rechnung": "1.75 x 1.85 x 1.60 x 1.75 x 1.85 = 15.41",
+      "gesamtquote": 5.5,
+      "rechnung": "1.85 x 1.75 x 1.70 = 5.5",
       "beine": [
-        {
-          "spiel_id": "2026-09-10-cmo-lei",
-          "spiel_label": "Como vs RB Leipzig",
-          "markt": "Doppelte Chance 1X",
-          "quote": 1.75,
-          "kategorie": "value"
-        },
         {
           "spiel_id": "2026-09-10-fen-rom",
           "spiel_label": "Fenerbahce vs Roma",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.85,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-09-10-bay-bod",
-          "spiel_label": "Bayern vs Bodoe/Glimt",
-          "markt": "Halbzeit-Sieg Bayern",
-          "quote": 1.6,
           "kategorie": "wackel"
         },
         {
@@ -694,7 +689,17 @@
     "kader_wechsel_check": {
       "status": "OK",
       "detail": "Gegen data/kader_wechsel_2026.json geprueft. Bestaetigt korrekt zugeordnet: Saibari@Bayern (nicht mehr PSV), Nathaniel Brown@Bayern (nicht mehr Frankfurt), Veerman@BVB (nicht mehr PSV) - in PSV-Kontext erwaehnt, Nkunku@Leipzig-Leihe, Diomande@Real (nicht mehr Leipzig), Kuehn@Gladbach-Leihe (nicht mehr Como), Lukaku@Fenerbahce (nicht mehr Napoli), Trainer Kompany@Bayern, Demichelis@Leipzig. Keine Torschuetzen-Tipps auf Ex-Klub-Spieler gesetzt.",
-      "geprueft_liste": ["Saibari","Nathaniel Brown","Veerman","Nkunku","Diomande","Kuehn","Lukaku","Kompany","Demichelis"]
+      "geprueft_liste": [
+        "Saibari",
+        "Nathaniel Brown",
+        "Veerman",
+        "Nkunku",
+        "Diomande",
+        "Kuehn",
+        "Lukaku",
+        "Kompany",
+        "Demichelis"
+      ]
     },
     "halluzinations_drops": [],
     "torschuetze_quelle_warnungen": [],
