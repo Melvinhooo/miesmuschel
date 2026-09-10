@@ -1153,13 +1153,6 @@
           "kategorie": "moonshot"
         },
         {
-          "spiel_id": "2026-09-13-rbl-hsv",
-          "spiel_label": "Leipzig vs HSV",
-          "markt": "Sieg RB Leipzig (90 Min)",
-          "quote": 1.62,
-          "kategorie": "moonshot"
-        },
-        {
           "spiel_id": "2026-09-12-sun-ars",
           "spiel_label": "Sunderland vs Arsenal",
           "markt": "Unter 2.5 Tore",
@@ -1167,8 +1160,8 @@
           "kategorie": "moonshot"
         }
       ],
-      "gesamtquote": 12.95,
-      "rechnung": "1.65 x 1.67 x 1.45 x 1.62 x 2.00 = 12.95",
+      "gesamtquote": 7.99,
+      "rechnung": "1.65 x 1.67 x 1.45 x 2.00 = 7.99",
       "einsatz_euro": 1.0,
       "empfohlener_einsatz_prozent": 0.1,
       "erwartungswert_euro": 58.38,
