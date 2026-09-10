@@ -3086,6 +3086,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "Auswaerts-Volumen-9er-Elite-Klassenduell-Bust",
       "lesson": "HR09-09-4 Auswaerts-Volumen-9er in Elite-Klassenduellen bleiben im Bernabeu/gegen Top-IV oft trocken: Lautaro (Wackel @3.20) im Bernabeu ohne Torbeteiligung, blieb 90 Minuten auf dem Platz - kein Einwechslungs-Boost auslos-Trigger. Anschluss durch Sub-LV Carlos Augusto (77.) - Wechselspieler-Tor, aber NICHT als Lautaro-Ersatz (Lautaro blieb drauf). Regel: Auswaerts-Volumen-9er im Champions-League-Klassenduell max Wackel-Kategorie, nicht als Kombi-Bein in Balance/Safe verwenden - Lautaro-Doppel-Kombi-Bein-Trauma (siehe 06.17 Mini-Spiele-Tag) erneut validiert.",
       "bezug_spiel_id": "2026-09-08-rma-int"
+    },
+    {
+      "datum": "2026-09-10",
+      "kategorie": "CL-Ligaphase-MD1-Kantersieg-Cluster",
+      "lesson": "HR09-10-1 CL-Ligaphase MD1 Klassen-Duelle mit klarem Heimfavoriten liefern SAFE-Handicap-Reihe (n=3/3 gewonnen): Barca -1.5 vs Feyenoord (5:1, +4), PSG -1.5 vs Slovan (6:1, +5), Liverpool Sieg vs Atletico (2:1 nach 0:1 Rueckstand). Direkte-Sieg-Quoten unter 1.30 auf Handicap -1.5 umsatteln (HR1) hat sich klar bezahlt. Ueber-Tore parallel durch: Barca >2.5 @1.40, PSG >3.5 @1.75 - CL-MD1 spielt sich in Kantersieg-Modus (Ausnahme: Napoli-Arsenal 0:1, taktisch). Fuer naechste MD2 (30.09./01.10.): Handicap -1.5 + Ueber-Tore bei Heim-Favoriten mit Quote unter 1.30 klar VALUE-priorisieren.",
+      "bezug_spiel_id": "2026-09-09-bar-fey"
+    },
+    {
+      "datum": "2026-09-10",
+      "kategorie": "Einwechslungs-Boost-Nuance-Isak-Bust",
+      "lesson": "HR09-10-2 Einwechslungs-Boost setzt Tor des Ersatzspielers voraus - Isak (Liverpool-Debut) ohne Tor, spaet fuer Lewis Koumas ausgewechselt, Koumas traf NICHT: Isak-Torschuetzen-Jederzeit (15€ VALUE) verloren, Isak-2+ Tore (2.50€ Risk) verloren. Wenn der getippte 9er ausgewechselt wird und sein Ersatz erst in der Schlussphase mit wenig Restzeit reinkommt, ist der Boost strukturell sehr eng - Kleinschraeger Ersatz + wenig Zeit = Boost quasi tot. Regel: bei neuen Spielsystemen (Iraola-Debut) mit unbekannter Sub-Reihenfolge Torschuetzen-Tipps auf den Nominal-9er nur WACKEL, nicht VALUE, auch wenn Form-Edge (HR24) da ist.",
+      "bezug_spiel_id": "2026-09-09-liv-atm"
+    },
+    {
+      "datum": "2026-09-10",
+      "kategorie": "Moonshot-Torschuetzen-Kombi-Realitaet",
+      "lesson": "HR09-10-3 Moonshot-Kombis mit 3+ Torschuetzen-Legs sind kumulativ sehr fragil - selbst Volumen-Spieler wie Saka (Arsenal), Wirtz (Liverpool) blieben im CL-MD1-Auftakt ohne Tor. Auch mit Raphinha 2+ und PSG >4.5 durch: 2/4 Beine reichte nicht. Aussage: kein systematischer Fehler, Moonshot ist per Definition <5% Trefferquote - aber Erwartungswert-Rechnung nicht heimlich ueber-optimistisch machen. 1€/Woche Moonshot-Konsistenz ist okay, aber nicht als 'oft-nah-dran' verkaufen.",
+      "bezug_spiel_id": "2026-09-09-nap-ars"
+    },
+    {
+      "datum": "2026-09-10",
+      "kategorie": "Kader-Wechsel-Realitaet-Debut-Impact",
+      "lesson": "HR09-10-4 Sommer-2026-Transfers zeigen Debut-Impact-Muster: Gabriel Jesus (Arsenal->Barca, 01.09.) trifft 85. beim Barca-CL-Debut als Sub fuer Olmo; Adeyemi (BVB->Barca, 24.07.) trifft 22. bei Barca; Ferran Torres (Barca->PSG, 14.08.) macht Hattrick beim PSG-CL-Auftritt; Bruno Guimaraes (Newcastle->Arsenal) kommt als Sub 66. bei Arsenal-CL-Debut. Neu-Transfers in CL-Kantersiegen sind Debut-Impact-affin (Motivations-Boost + Rotation-Chance). kader_wechsel_2026.json muss nach jedem Auswertungslauf refresht werden - Gabriel Jesus + Bruno Guimaraes heute nachgetragen. Neu-Regel: bei bestaetigten Deadline-Day-Zugaengen im ersten CL-Heim-Kantersieg Torschuetzen-Volume-Tipp aktiv scannen (n=3+ Beobachtungen letzte 6 Wochen).",
+      "bezug_spiel_id": "2026-09-09-bar-fey"
     }
   ]
 };

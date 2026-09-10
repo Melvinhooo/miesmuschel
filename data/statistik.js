@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-09-09T06:11:16+00:00",
+  "letzte_berechnung": "2026-09-10T06:12:54+00:00",
   "gesamt": {
     "tipps": 408,
     "gewonnen": 209,
@@ -13,15 +13,15 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 12.2
   },
   "letzte_30_tage": {
-    "tipps": 127,
-    "gewonnen": 65,
-    "verloren": 50,
-    "push": 1,
+    "tipps": 117,
+    "gewonnen": 62,
+    "verloren": 44,
+    "push": 0,
     "offen": 11,
-    "einsatz": 116.0,
+    "einsatz": 106.0,
     "netto": 42.56,
-    "trefferquote": 56.5,
-    "roi_prozent": 36.7
+    "trefferquote": 58.5,
+    "roi_prozent": 40.2
   },
   "letzte_90_tage": {
     "tipps": 403,
@@ -4154,6 +4154,254 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-09-09",
+      "gesamt": {
+        "tipps": 10,
+        "gewonnen": 8,
+        "verloren": 2,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 10.0,
+        "netto": 13.1,
+        "trefferquote": 80.0,
+        "roi_prozent": 131.0
+      },
+      "spiele": [
+        {
+          "id": "2026-09-09-bar-fey",
+          "liga": "UEFA Champions League - Ligaphase Spieltag 1",
+          "heim": "FC Barcelona",
+          "gast": "Feyenoord Rotterdam",
+          "endstand": "5:1",
+          "tipps": [
+            {
+              "markt": "Barcelona Handicap -1.5",
+              "quote": 1.6,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.6,
+              "kommentar": "Barca gewinnt mit 4 Toren Vorsprung - Handicap -1.5 klar durch"
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.4,
+              "kommentar": "6 Tore im Spiel - Ueber 2.5 klar durch"
+            },
+            {
+              "markt": "Raphinha Torschuetze jederzeit",
+              "quote": 2.2,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 2.2,
+              "kommentar": "Raphinha Doppelpack (3., 57.) - Torschuetze jederzeit lief schon vor Auswechslung durch"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-09-liv-atm",
+          "liga": "UEFA Champions League - Ligaphase Spieltag 1",
+          "heim": "Liverpool FC",
+          "gast": "Atletico Madrid",
+          "endstand": "2:1",
+          "tipps": [
+            {
+              "markt": "Sieg Liverpool (90 Min)",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.65,
+              "kommentar": "Liverpool 2:1 - Sieg direkt, keine 2:0-Insurance noetig (Fuehrung nie 2 Tore)"
+            },
+            {
+              "markt": "Isak Torschuetze jederzeit",
+              "quote": 2.1,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Isak kein Tor, Ersatz Lewis Koumas (spaet eingewechselt) traf NICHT - Einwechslungs-Boost greift nicht"
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.85,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.85,
+              "kommentar": "3 Tore im Spiel - Ueber 2.5 durch"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-09-nap-ars",
+          "liga": "UEFA Champions League - Ligaphase Spieltag 1",
+          "heim": "SSC Napoli",
+          "gast": "Arsenal FC",
+          "endstand": "0:1",
+          "tipps": [
+            {
+              "markt": "Arsenal Sieg oder Remis (Doppelte Chance X2)",
+              "quote": 1.35,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.35,
+              "kommentar": "Arsenal Sieg - DC X2 durch"
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Napoli kein Tor - BTTS-JA verfehlt"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-09-psg-slo",
+          "liga": "UEFA Champions League - Ligaphase Spieltag 1",
+          "heim": "Paris Saint-Germain",
+          "gast": "SK Slovan Bratislava",
+          "endstand": "6:1",
+          "tipps": [
+            {
+              "markt": "PSG Handicap -1.5",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.3,
+              "kommentar": "PSG +5 Tore Diff - Handicap -1.5 klar durch"
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.75,
+              "kommentar": "7 Tore im Spiel - Ueber 3.5 klar durch"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (3 Klassen-Unterschiede)",
+          "kategorie": "safe",
+          "gesamtquote": 3.43,
+          "einsatz_prozent": 1.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Liverpool (90 Min)",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Barcelona Handicap -1.5",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "PSG Handicap -1.5",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (Arsenal-Ausflug + zwei Tor-Legs)",
+          "kategorie": "balance",
+          "gesamtquote": 6.43,
+          "einsatz_prozent": 0.5,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Arsenal Sieg (90 Min)",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (Torschuetzen + Alt-Markt)",
+          "kategorie": "risk",
+          "gesamtquote": 16.83,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Isak 2+ Tore",
+              "quote": 4.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Raphinha Torschuetze jederzeit",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (vier Spielertor-/Tor-Total-Legs)",
+          "kategorie": "moonshot",
+          "gesamtquote": 160.16,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Raphinha 2+ Tore",
+              "quote": 5.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Wirtz Torschuetze jederzeit",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Saka Torschuetze jederzeit",
+              "quote": 2.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 4.5 Tore",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-09-08",
       "gesamt": {
