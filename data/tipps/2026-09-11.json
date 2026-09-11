@@ -145,7 +145,7 @@
       "tipps": [
         {
           "id": "whu-wre-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Doppelte Chance 1X (West Ham oder Remis)",
           "quote": 1.2,
           "edge_prozent": 4.0,
@@ -174,7 +174,7 @@
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
       "id": "2026-09-11-bur-ceu",
@@ -206,7 +206,7 @@
       "tipps": [
         {
           "id": "bur-ceu-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Doppelte Chance 1X (Burgos oder Remis)",
           "quote": 1.3,
           "edge_prozent": 5.0,
@@ -225,7 +225,7 @@
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     }
   ],
   "einzeltipps": [
@@ -236,9 +236,10 @@
       "kategorie": "value",
       "markt": "Doppelte Chance 1X (Nuernberg oder Remis)",
       "quote": 1.28,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 15.0,
-      "begruendung": "Nuernberg ungeschlagen + Tabellenzweiter zu Hause gegen Hannover 13. DC-Goldgrube. Bei bet365 live pruefen."
+      "begruendung": "Nuernberg ungeschlagen + Tabellenzweiter zu Hause gegen Hannover 13. DC-Goldgrube. Bei bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
     },
     {
       "id": "whu-wre-1",
@@ -247,9 +248,10 @@
       "kategorie": "value",
       "markt": "Doppelte Chance 1X (West Ham oder Remis)",
       "quote": 1.2,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 15.0,
-      "begruendung": "West Ham 3 Championship-Siege + 10 Tore in Serie vs Wrexham 14. mit Remis-Serie. DC-Goldgrube."
+      "begruendung": "West Ham 3 Championship-Siege + 10 Tore in Serie vs Wrexham 14. mit Remis-Serie. DC-Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
     },
     {
       "id": "svd-dsc-1",
@@ -258,9 +260,10 @@
       "kategorie": "value",
       "markt": "Doppelte Chance X2 (Bielefeld oder Remis)",
       "quote": 1.4,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 15.0,
-      "begruendung": "Bielefeld mit besserer Momentum-Story (8 Tore in 5), Darmstadt Letzter mit 2:7-Torverhaeltnis. DC-X2-Goldgrube."
+      "begruendung": "Bielefeld mit besserer Momentum-Story (8 Tore in 5), Darmstadt Letzter mit 2:7-Torverhaeltnis. DC-X2-Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
     },
     {
       "id": "bur-ceu-1",
@@ -269,9 +272,10 @@
       "kategorie": "value",
       "markt": "Doppelte Chance 1X (Burgos oder Remis)",
       "quote": 1.3,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 15.0,
-      "begruendung": "Ceuta noch punktlos in Segunda, Burgos Heim-Favorit im Plantio. DC-Goldgrube."
+      "begruendung": "Ceuta noch punktlos in Segunda, Burgos Heim-Favorit im Plantio. DC-Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
     },
     {
       "id": "nue-h96-2",
@@ -280,9 +284,10 @@
       "kategorie": "wackel",
       "markt": "Ueber 2.5 Tore",
       "quote": 1.95,
-      "einsatz_prozent": 0.5,
       "einsatz_euro": 5.0,
-      "begruendung": "Ueber-2.5-Goldgrube-Markt, Hannover kein defensiv-stabiler Gast."
+      "begruendung": "Ueber-2.5-Goldgrube-Markt, Hannover kein defensiv-stabiler Gast.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 5
     },
     {
       "id": "whu-wre-2",
@@ -291,9 +296,10 @@
       "kategorie": "wackel",
       "markt": "Ueber 2.5 Tore",
       "quote": 1.75,
-      "einsatz_prozent": 0.5,
       "einsatz_euro": 5.0,
-      "begruendung": "West Ham mit 10 Toren in 3 Spielen, Wrexham hat in 4 von 6 Spielen mit Toren remisiert."
+      "begruendung": "West Ham mit 10 Toren in 3 Spielen, Wrexham hat in 4 von 6 Spielen mit Toren remisiert.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 6
     },
     {
       "id": "bur-ceu-2",
@@ -302,9 +308,10 @@
       "kategorie": "wackel",
       "markt": "Unter 2.5 Tore",
       "quote": 1.75,
-      "einsatz_prozent": 0.5,
       "einsatz_euro": 5.0,
-      "begruendung": "Segunda tor-arm, Unter-2.5-Goldgrube-Markt."
+      "begruendung": "Segunda tor-arm, Unter-2.5-Goldgrube-Markt.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 7
     },
     {
       "id": "svd-dsc-2",
@@ -313,9 +320,10 @@
       "kategorie": "wackel",
       "markt": "Beide Teams treffen JA",
       "quote": 1.85,
-      "einsatz_prozent": 0.5,
       "einsatz_euro": 5.0,
-      "begruendung": "Bielefeld Sturm-Feuer (Grodowski), Darmstadt-Defense laessig - BTTS wahrscheinlich."
+      "begruendung": "Bielefeld Sturm-Feuer (Grodowski), Darmstadt-Defense laessig - BTTS wahrscheinlich.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8
     }
   ],
   "kombis": [
@@ -348,9 +356,9 @@
       ],
       "gesamtquote": 2.0,
       "rechnung": "1.28 x 1.20 x 1.30 = 2.00",
-      "einsatz_prozent": 2.0,
       "einsatz_euro": 20.0,
-      "kategorie_hinweis": "3 Heim-Favoriten-DCs aus 3 verschiedenen Ligen - Layer-1/2/3 sauber, Sieg-Outcome-Doppler nur hier."
+      "kategorie_hinweis": "3 Heim-Favoriten-DCs aus 3 verschiedenen Ligen - Layer-1/2/3 sauber, Sieg-Outcome-Doppler nur hier.",
+      "empfohlener_einsatz_prozent": 2.0
     },
     {
       "id": "kombi-balance",
@@ -381,9 +389,9 @@
       ],
       "gesamtquote": 4.78,
       "rechnung": "1.40 x 1.95 x 1.75 = 4.78",
-      "einsatz_prozent": 0.8,
       "einsatz_euro": 8.0,
-      "kategorie_hinweis": "Bielefeld-Underdog-DC + 2x Ueber-2.5 (Goldgrube-Markt). Nuernberg + West Ham hier Tor-Total-entkoppelt vom Sieg-Bein in Safe."
+      "kategorie_hinweis": "Bielefeld-Underdog-DC + 2x Ueber-2.5 (Goldgrube-Markt). Nuernberg + West Ham hier Tor-Total-entkoppelt vom Sieg-Bein in Safe.",
+      "empfohlener_einsatz_prozent": 0.8
     },
     {
       "id": "kombi-risk",
@@ -414,22 +422,15 @@
       ],
       "gesamtquote": 5.66,
       "rechnung": "1.85 x 1.75 x 1.75 = 5.66",
-      "einsatz_prozent": 0.25,
       "einsatz_euro": 2.5,
-      "kategorie_hinweis": "3 Markt-entkoppelte Wackel-Beine (BTTS Darmstadt, BTTS Nuernberg, Unter Burgos) - Layer-2 sauber (kein Sieg-Outcome). Knapp unter 6-10x Risk-Range, aber ehrlich."
+      "kategorie_hinweis": "3 Markt-entkoppelte Wackel-Beine (BTTS Darmstadt, BTTS Nuernberg, Unter Burgos) - Layer-2 sauber (kein Sieg-Outcome). Knapp unter 6-10x Risk-Range, aber ehrlich.",
+      "empfohlener_einsatz_prozent": 0.25
     },
     {
       "id": "kombi-moonshot",
       "kategorie": "moonshot",
       "name": "Moonshot Auswaerts-Ueberraschung + 2x Ueber 3.5",
       "beine": [
-        {
-          "spiel_id": "2026-09-11-bur-ceu",
-          "spiel_label": "Burgos vs Ceuta",
-          "markt": "Sieg AD Ceuta (90 Min)",
-          "quote": 5.5,
-          "kategorie": "moonshot"
-        },
         {
           "spiel_id": "2026-09-11-whu-wre",
           "spiel_label": "West Ham vs Wrexham",
@@ -445,11 +446,11 @@
           "kategorie": "risk"
         }
       ],
-      "gesamtquote": 53.9,
-      "rechnung": "5.50 x 2.80 x 3.50 = 53.90",
-      "einsatz_prozent": 0.1,
+      "gesamtquote": 9.8,
+      "rechnung": "2.80 x 3.50 = 9.8",
       "einsatz_euro": 1.0,
-      "kategorie_hinweis": "Erreicht keine 100x - offen kommuniziert. Ceuta-Sensation als Anti-Outcome zum Burgos-DC in Safe (kein Layer-2-Doppler), plus 2x Tor-Feuer-Ueber-3.5. Spass-Einsatz 1€, lieber ehrlich als aufgeblasen."
+      "kategorie_hinweis": "Erreicht keine 100x - offen kommuniziert. Ceuta-Sensation als Anti-Outcome zum Burgos-DC in Safe (kein Layer-2-Doppler), plus 2x Tor-Feuer-Ueber-3.5. Spass-Einsatz 1€, lieber ehrlich als aufgeblasen.",
+      "empfohlener_einsatz_prozent": 0.1
     }
   ],
   "lessons_angewandt": [
