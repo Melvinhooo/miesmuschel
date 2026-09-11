@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-10",
+  "stand": "2026-09-11",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -624,6 +624,24 @@
       "hinweis": "£75m aus Newcastle, 4-Jahres-Vertrag + 1J-Option. Debuet in CL-MD1 Napoli-Arsenal 09.09.2026 als Sub 66. Min fuer Merino. Ab jetzt Arsenal-Mittelfeld-Option - Verantwortung im Aufbau, weniger Torschuetzen-Risiko.",
       "quelle": "https://www.espn.com/soccer/story/_/id/49534772/arsenal-agree-deal-sign-bruno-guimaraes-newcastle-sources",
       "stand": "2026-09-10"
+    },
+    {
+      "spieler": "Martin Baturina",
+      "nach": "Como 1907",
+      "von": "Dinamo Zagreb",
+      "ablöse_mio": 25,
+      "position": "OM",
+      "notiz": "Kroate, unterschrieb bis 2030. CL-Debut-Torschuetze 15. Min 4:1 vs Leipzig 10.09.2026 - VALUE-Torschuetzen-Option bei Como-Heimspielen 2026/27.",
+      "quelle": "https://sports.yahoo.com/article/como-reach-25m-agreement-sign-202300376.html"
+    },
+    {
+      "spieler": "Gleiker Mendoza",
+      "nach": "Shakhtar Donetsk",
+      "von": "Kryvbas Kryvyi Rih",
+      "ablöse_mio": null,
+      "position": "OM/RW",
+      "notiz": "Venezolaner, Vertrag bis 2031. Erstes Shakhtar-Tor 45+1 CL vs PSV 10.09.2026 (Curler untere rechte Ecke). Verifikations-Kandidat fuer Shakhtar-Torschuetzen-Tipps.",
+      "quelle": "https://shakhtar.com/en/news/2026/may/22_news/22_mendoza/"
     }
   ],
   "trainer_2026_27": [

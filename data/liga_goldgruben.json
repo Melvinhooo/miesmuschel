@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-10T06:12:54+00:00",
+  "stand": "2026-09-11T06:13:21+00:00",
   "kriterium": "ROI > 15.0% ODER (Trefferquote >= 65.0% UND ROI > 0%) bei min. 5 Tipps",
   "wirkung": "Schema-Mapper bestaetigt SAFE-Tipps in diesen Ligen. Andere SAFE-Tipps werden auf VALUE downgegradet wenn der Markt-Typ nicht in markt_goldgruben.json ist (Hebel C ROI-Sanierung 04.05.).",
   "ligen": [
@@ -30,6 +30,13 @@
       "trefferquote": 80.0,
       "roi_prozent": 123.0,
       "netto": 6.15
+    },
+    {
+      "liga": "UEFA Champions League - Ligaphase Spieltag 1",
+      "tipps": 11,
+      "trefferquote": 72.7,
+      "roi_prozent": 121.4,
+      "netto": 13.35
     },
     {
       "liga": "UEFA Champions League - 2. Qualifikationsrunde",

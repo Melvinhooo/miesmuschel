@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-09-10T06:12:54+00:00",
+  "letzte_berechnung": "2026-09-11T06:13:21+00:00",
   "gesamt": {
-    "tipps": 408,
-    "gewonnen": 209,
-    "verloren": 187,
+    "tipps": 419,
+    "gewonnen": 217,
+    "verloren": 190,
     "push": 1,
     "offen": 11,
-    "einsatz": 397.0,
-    "netto": 48.44,
-    "trefferquote": 52.8,
-    "roi_prozent": 12.2
+    "einsatz": 408.0,
+    "netto": 61.79,
+    "trefferquote": 53.3,
+    "roi_prozent": 15.1
   },
   "letzte_30_tage": {
-    "tipps": 117,
-    "gewonnen": 62,
+    "tipps": 118,
+    "gewonnen": 63,
     "verloren": 44,
     "push": 0,
     "offen": 11,
-    "einsatz": 106.0,
-    "netto": 42.56,
-    "trefferquote": 58.5,
-    "roi_prozent": 40.2
+    "einsatz": 107.0,
+    "netto": 55.91,
+    "trefferquote": 58.9,
+    "roi_prozent": 52.3
   },
   "letzte_90_tage": {
-    "tipps": 403,
-    "gewonnen": 209,
-    "verloren": 182,
+    "tipps": 406,
+    "gewonnen": 214,
+    "verloren": 180,
     "push": 1,
     "offen": 11,
-    "einsatz": 392.0,
-    "netto": 53.44,
-    "trefferquote": 53.5,
-    "roi_prozent": 13.6
+    "einsatz": 395.0,
+    "netto": 68.77,
+    "trefferquote": 54.3,
+    "roi_prozent": 17.4
   },
   "nach_liga": {
     "NBA Playoffs - Finals Game 3": {
@@ -1090,6 +1090,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 8.34,
       "trefferquote": 80.0,
       "roi_prozent": 166.8
+    },
+    "UEFA Champions League - Ligaphase Spieltag 1": {
+      "tipps": 11,
+      "gewonnen": 8,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 11.0,
+      "netto": 13.35,
+      "trefferquote": 72.7,
+      "roi_prozent": 121.4
     }
   },
   "nach_markt": {
@@ -1765,15 +1776,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 23,
+      "tipps": 24,
       "gewonnen": 10,
-      "verloren": 11,
+      "verloren": 12,
       "push": 0,
       "offen": 2,
-      "einsatz": 21.0,
+      "einsatz": 22.0,
       "netto": 3.0,
-      "trefferquote": 47.6,
-      "roi_prozent": 14.3
+      "trefferquote": 45.5,
+      "roi_prozent": 13.6
     },
     "Vinicius Junior trifft jederzeit": {
       "tipps": 2,
@@ -1809,15 +1820,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 20,
+      "tipps": 21,
       "gewonnen": 16,
-      "verloren": 4,
+      "verloren": 5,
       "push": 0,
       "offen": 0,
-      "einsatz": 20.0,
+      "einsatz": 21.0,
       "netto": 8.61,
-      "trefferquote": 80.0,
-      "roi_prozent": 43.0
+      "trefferquote": 76.2,
+      "roi_prozent": 41.0
     },
     "Marokko zu Null": {
       "tipps": 1,
@@ -3622,6 +3633,94 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Bayern Handicap -2.5": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.75,
+      "trefferquote": 100.0,
+      "roi_prozent": 175.0
+    },
+    "Manchester United Handicap -2.5": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.6,
+      "trefferquote": 100.0,
+      "roi_prozent": 160.0
+    },
+    "Sabah kein Tor (Under 0.5 Sabah)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.7,
+      "trefferquote": 100.0,
+      "roi_prozent": 170.0
+    },
+    "Doppelte Chance 1X (PSV oder Remis)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.25,
+      "trefferquote": 100.0,
+      "roi_prozent": 125.0
+    },
+    "Doppelte Chance 1X (Slavia oder Remis)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Doppelte Chance 1X (Como oder Remis)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.75,
+      "trefferquote": 100.0,
+      "roi_prozent": 175.0
+    },
+    "Doppelte Chance X2 (Roma oder Remis)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.6,
+      "trefferquote": 100.0,
+      "roi_prozent": 160.0
+    },
+    "Ueber 3.5 Tore": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 3.7,
+      "trefferquote": 100.0,
+      "roi_prozent": 185.0
     }
   },
   "nach_markt_typ": {
@@ -3659,15 +3758,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Spread/Handicap": {
-      "tipps": 2,
-      "gewonnen": 1,
+      "tipps": 4,
+      "gewonnen": 3,
       "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.6,
-      "trefferquote": 50.0,
-      "roi_prozent": 30.0
+      "einsatz": 4.0,
+      "netto": 3.95,
+      "trefferquote": 75.0,
+      "roi_prozent": 98.8
     },
     "Victor Wembanyama Double-Double": {
       "tipps": 1,
@@ -3681,15 +3780,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 26,
+      "tipps": 27,
       "gewonnen": 19,
-      "verloren": 7,
+      "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 26.0,
+      "einsatz": 27.0,
       "netto": 9.03,
-      "trefferquote": 73.1,
-      "roi_prozent": 34.7
+      "trefferquote": 70.4,
+      "roi_prozent": 33.4
     },
     "Torschuetzen Jederzeit": {
       "tipps": 70,
@@ -3714,37 +3813,37 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 24.8
     },
     "Ueber 2.5 Tore": {
-      "tipps": 31,
+      "tipps": 32,
       "gewonnen": 16,
-      "verloren": 13,
+      "verloren": 14,
       "push": 0,
       "offen": 2,
-      "einsatz": 29.0,
+      "einsatz": 30.0,
       "netto": 6.35,
-      "trefferquote": 55.2,
-      "roi_prozent": 21.9
+      "trefferquote": 53.3,
+      "roi_prozent": 21.2
     },
     "Doppelte Chance X2": {
-      "tipps": 34,
-      "gewonnen": 26,
+      "tipps": 35,
+      "gewonnen": 27,
       "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 34.0,
-      "netto": 9.07,
-      "trefferquote": 76.5,
-      "roi_prozent": 26.7
+      "einsatz": 35.0,
+      "netto": 10.67,
+      "trefferquote": 77.1,
+      "roi_prozent": 30.5
     },
     "Doppelte Chance 1X": {
-      "tipps": 16,
-      "gewonnen": 11,
-      "verloren": 5,
+      "tipps": 19,
+      "gewonnen": 13,
+      "verloren": 6,
       "push": 0,
       "offen": 0,
-      "einsatz": 16.0,
-      "netto": 1.96,
-      "trefferquote": 68.8,
-      "roi_prozent": 12.2
+      "einsatz": 19.0,
+      "netto": 4.96,
+      "trefferquote": 68.4,
+      "roi_prozent": 26.1
     },
     "Unter 3.5 Tore": {
       "tipps": 3,
@@ -3965,30 +4064,52 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Sabah kein Tor (Under 0.5 Sabah)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.7,
+      "trefferquote": 100.0,
+      "roi_prozent": 170.0
+    },
+    "Ueber 3.5 Tore": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 3.7,
+      "trefferquote": 100.0,
+      "roi_prozent": 185.0
     }
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 168,
-      "gewonnen": 84,
-      "verloren": 82,
+      "tipps": 177,
+      "gewonnen": 91,
+      "verloren": 84,
       "push": 0,
       "offen": 2,
-      "einsatz": 166.0,
-      "netto": 23.41,
-      "trefferquote": 50.6,
-      "roi_prozent": 14.1
+      "einsatz": 175.0,
+      "netto": 35.51,
+      "trefferquote": 52.0,
+      "roi_prozent": 20.3
     },
     "1.00-1.50": {
-      "tipps": 164,
-      "gewonnen": 102,
-      "verloren": 54,
+      "tipps": 166,
+      "gewonnen": 103,
+      "verloren": 55,
       "push": 1,
       "offen": 7,
-      "einsatz": 157.0,
-      "netto": 21.16,
-      "trefferquote": 65.4,
-      "roi_prozent": 13.5
+      "einsatz": 159.0,
+      "netto": 22.41,
+      "trefferquote": 65.2,
+      "roi_prozent": 14.1
     },
     "2.00-3.00": {
       "tipps": 59,
@@ -4015,15 +4136,15 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "value": {
-      "tipps": 238,
-      "gewonnen": 124,
-      "verloren": 109,
+      "tipps": 248,
+      "gewonnen": 131,
+      "verloren": 112,
       "push": 1,
       "offen": 4,
-      "einsatz": 234.0,
-      "netto": 22.11,
-      "trefferquote": 53.2,
-      "roi_prozent": 9.4
+      "einsatz": 244.0,
+      "netto": 33.86,
+      "trefferquote": 53.9,
+      "roi_prozent": 13.9
     },
     "wackel": {
       "tipps": 95,
@@ -4037,15 +4158,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -1.9
     },
     "safe": {
-      "tipps": 72,
-      "gewonnen": 47,
+      "tipps": 73,
+      "gewonnen": 48,
       "verloren": 18,
       "push": 0,
       "offen": 7,
-      "einsatz": 65.0,
-      "netto": 28.77,
-      "trefferquote": 72.3,
-      "roi_prozent": 44.3
+      "einsatz": 66.0,
+      "netto": 30.37,
+      "trefferquote": 72.7,
+      "roi_prozent": 46.0
     },
     "risiko": {
       "tipps": 3,
@@ -4094,15 +4215,15 @@ window.__MIESMUSCHEL_STAT = {
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 408,
-      "gewonnen": 209,
-      "verloren": 187,
+      "tipps": 419,
+      "gewonnen": 217,
+      "verloren": 190,
       "push": 1,
       "offen": 11,
-      "einsatz": 397.0,
-      "netto": 48.44,
-      "trefferquote": 52.8,
-      "roi_prozent": 12.2
+      "einsatz": 408.0,
+      "netto": 61.79,
+      "trefferquote": 53.3,
+      "roi_prozent": 15.1
     },
     "kasse": {
       "name": "2026/27",
@@ -4139,21 +4260,301 @@ window.__MIESMUSCHEL_STAT = {
         "start": "2026-08-22",
         "ende": "2027-06-30",
         "bilanz": {
-          "tipps": 42,
-          "gewonnen": 29,
-          "verloren": 13,
+          "tipps": 53,
+          "gewonnen": 37,
+          "verloren": 16,
           "push": 0,
           "offen": 0,
-          "einsatz": 42.0,
-          "netto": 45.69,
-          "trefferquote": 69.0,
-          "roi_prozent": 108.8
+          "einsatz": 53.0,
+          "netto": 59.04,
+          "trefferquote": 69.8,
+          "roi_prozent": 111.4
         },
         "ist_aktuell": true
       }
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-09-10",
+      "gesamt": {
+        "tipps": 11,
+        "gewonnen": 8,
+        "verloren": 3,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 11.0,
+        "netto": 13.35,
+        "trefferquote": 72.7,
+        "roi_prozent": 121.4
+      },
+      "spiele": [
+        {
+          "id": "2026-09-10-fen-rom",
+          "liga": "UEFA Champions League - Ligaphase Spieltag 1",
+          "heim": "Fenerbahce SK",
+          "gast": "AS Roma",
+          "endstand": "1:1",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance X2 (Roma oder Remis)",
+              "quote": 1.6,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.6,
+              "kommentar": "DC X2 (Roma oder Remis) - Remis, Bein durch"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-10-psv-sha",
+          "liga": "UEFA Champions League - Ligaphase Spieltag 1",
+          "heim": "PSV Eindhoven",
+          "gast": "Shakhtar Donetsk",
+          "endstand": "1:1",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance 1X (PSV oder Remis)",
+              "quote": 1.25,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.25,
+              "kommentar": "DC 1X (PSV oder Remis) - Remis, Bein durch"
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Nur 2 Tore, Ueber 2.5 nicht erreicht"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-10-cmo-lei",
+          "liga": "UEFA Champions League - Ligaphase Spieltag 1",
+          "heim": "Como 1907",
+          "gast": "RB Leipzig",
+          "endstand": "4:1",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance 1X (Como oder Remis)",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.75,
+              "kommentar": "DC 1X (Como oder Remis) - Como Sieg 4:1"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-10-bay-bod",
+          "liga": "UEFA Champions League - Ligaphase Spieltag 1",
+          "heim": "FC Bayern Muenchen",
+          "gast": "FK Bodoe/Glimt",
+          "endstand": "5:0",
+          "tipps": [
+            {
+              "markt": "Bayern Handicap -2.5",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.75,
+              "kommentar": "Bayern +5 - Handicap -2.5 klar durch"
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.85,
+              "kommentar": "5 Tore - Ueber 3.5 durch"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-10-mun-sab",
+          "liga": "UEFA Champions League - Ligaphase Spieltag 1",
+          "heim": "Manchester United",
+          "gast": "Sabah FK",
+          "endstand": "4:0",
+          "tipps": [
+            {
+              "markt": "Manchester United Handicap -2.5",
+              "quote": 1.6,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.6,
+              "kommentar": "United +4 - Handicap -2.5 durch"
+            },
+            {
+              "markt": "Sabah kein Tor (Under 0.5 Sabah)",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.7,
+              "kommentar": "Sabah 0 Tore - Zu-Null durch"
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.85,
+              "kommentar": "4 Tore - Ueber 3.5 durch"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-10-sla-len",
+          "liga": "UEFA Champions League - Ligaphase Spieltag 1",
+          "heim": "SK Slavia Praha",
+          "gast": "RC Lens",
+          "endstand": "2:3",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance 1X (Slavia oder Remis)",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Lens Auswaertssieg 3:2 dank 90+1 und 90+3 - DC 1X gerissen (Slavia fuehrte nur maximal 1-Tor, keine 2:0-Insurance)"
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "5 Tore - Unter 2.5 klar gerissen"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (3 Klassen-Kanterduelle)",
+          "kategorie": "safe",
+          "gesamtquote": 3.5,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Bayern Handicap -2.5",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Manchester United Handicap -2.5",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance 1X (PSV oder Remis)",
+              "quote": 1.25,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (Goldgrube-Fokus 6-8x)",
+          "kategorie": "balance",
+          "gesamtquote": 6.66,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Doppelte Chance 1X (Como oder Remis)",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance 1X (Slavia oder Remis)",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sabah kein Tor",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance X2 (Roma oder Remis)",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risk-Kombi (Tor-Party ~11x)",
+          "kategorie": "risk",
+          "gesamtquote": 11.08,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (5 Beine, ~15x - kein echter 100x)",
+          "kategorie": "moonshot",
+          "gesamtquote": 5.5,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-09-09",
       "gesamt": {

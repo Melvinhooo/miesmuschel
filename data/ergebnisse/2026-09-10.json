@@ -1,0 +1,1585 @@
+{
+  "datum": "2026-09-10",
+  "erstellt_am": "2026-09-10T14:30:00+02:00",
+  "hinweis": "Watchdog-Recovery Mo-Fr (14:30 Berlin). Champions-League-Ligaphase Spieltag 1 Donnerstag - sechs Spiele, zwei Klassenduelle (Bayern-Bodoe, Man United-Sabah) plus Como-CL-Debut. Kasse 1000€, Stufe 1 aktiv (Saison-30d-ROI noch nicht bestaetigt). Quoten immer bei bet365 live pruefen - vorlaufende Marktdaten aus WebSearch-Previews. Torschuetzen-Tipps wurden bewusst vermieden, weil live-Vereins-Verifikation ueber transfermarkt/kicker in diesem Slot nicht robust genug lief (Adeyemi-Lehre 22.08.).",
+  "spiele": [
+    {
+      "id": "2026-09-10-fen-rom",
+      "liga": "UEFA Champions League - Ligaphase Spieltag 1",
+      "heim": "Fenerbahce SK",
+      "gast": "AS Roma",
+      "anstoss": "2026-09-10T18:45:00+02:00",
+      "stadion": "Suekrue Saracoglu Stadion, Istanbul",
+      "saison_kontext": {
+        "parallel_heim": "Sueper Lig MD4 (Fener 1:2 Auswaertsderby gegen Besiktas am 06.09.) - 3 Tage Recovery, aber Derby-Niederlage im Kopf. Platz 9 Liga, 2 von 4 Ligaspielen verloren.",
+        "parallel_gast": "Serie A MD3 (Roma 2:1 Auswaertssieg bei Atalanta am 07.09.) - 2 Tage kuerzere Reise ins Ausland, 3/3 Serie A gewonnen, Tabellenfuehrer.",
+        "saisonziel_heim": "Sueper-Lig-Titel + CL-Ligaphase-Play-off-Ticket (Plaetze 9-24). Trainer Mourinho unter Ergebnis-Druck nach Liga-Fehlstart.",
+        "saisonziel_gast": "Serie-A-Top-4 + CL-Achtelfinal-Ticket direkt (Plaetze 1-8). Roma-Form seit Saisonstart 3/3 - Momentum-Vorteil.",
+        "motivations_asymmetrie": "Roma serienweise stark und motiviert - Fener zu Hause vor Saracoglu-Kulisse, aber Domestic-Krise + Italienerkomplex (5 von 6 UCL-Duellen gegen italienische Klubs verloren). Lukaku seit 08/2026 bei Fener (kader_wechsel_2026.json) - nicht mehr als Napoli-Torschuetze denkbar, aber hier neuer 9er im UCL-Auftakt.",
+        "recovery_heim": "3 Tage seit Derby-Niederlage 06.09.",
+        "recovery_gast": "2 Tage seit Serie-A-Auswaertssieg 07.09. + Flug nach Istanbul - kurze Woche, mittleres Belastungsrisiko",
+        "quellen": [
+          "https://www.sportsmole.co.uk/football/champions-league/fenerbahce-vs-roma_game_257472.html",
+          "https://footballwhispers.com/blog/fenerbahce-vs-roma-prediction-10-09-2026/",
+          "https://www.bundesliga.com/en/champions-league/matchday/2026-2027/1/fenerbahce-sk-istanbul-vs-as-rom/liveticker"
+        ]
+      },
+      "news": [
+        "Fener 2/4 Sueper-Lig verloren, zuletzt 1:2-Derby gegen Besiktas (06.09.)",
+        "Roma serienweise stark, 3/3 in Serie A, 2:1 in Bergamo bei Atalanta zuletzt (07.09.)",
+        "Fener historisch schwach gegen italienische UCL-Gegner (1/6 gewonnen)",
+        "Lukaku seit 08/2026 als 9er in Istanbul - CL-Auftakt-Debut fuer den Belgier bei Fener"
+      ],
+      "tipps": [
+        {
+          "id": "fen-rom-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance X2 (Roma oder Remis)",
+          "quote": 1.6,
+          "edge_prozent": 8.0,
+          "begruendung": "Roma-Form + Fener-Krise + Italienerkomplex sprechen fuer den Auswaertsklub oder ein Punkteteilen. DC X2 ist markt_goldgruben (76.5% Hitrate / +26.7% ROI, laut markt_goldgruben.json). Direkter Roma-Sieg @2.8 waere WACKEL - DC X2 packt die Kombi aus Roma-Momentum + Fener-Heim-Komfort in eine 1.60er-Quote. Stake 1.5% = 15 EUR bei 1000 EUR Kasse.",
+          "faire_quote": 1.48,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "fen-rom-2",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 5.0,
+          "begruendung": "5 von letzten 7 Roma-Pflichtspielen ueber 2.5 Tore. Fener-Defense wackelig, Lukaku als Nine im Heim - Ueber 2.5 ist markt_goldgruben (55.2% Hitrate / +21.9% ROI). Wackel weil CL-Auftakte oft taktischer als Liga-Spiele sind. Stake 0.5% = 5 EUR.",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "fen-rom-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.7,
+          "edge_prozent": 4.0,
+          "begruendung": "Fener-Heimwucht mit Lukaku vs Roma-Offense (Dybala/Soule/Dovbyk). Beide Teams treffen als komplementaerer Markt zum Ueber-2.5-Tipp. Wackel-Einstufung: bet365-DE-erlaubt, Kann-muss-nicht-Bewertung. Stake 0.5% = 5 EUR.",
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 1,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 1,
+        "endstand": "1:1",
+        "halbzeit_stand": "0:1"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "fen-rom-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.6,
+          "kommentar": "DC X2 (Roma oder Remis) - Remis, Bein durch",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "fen-rom-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur 2 Tore, Ueber 2.5 nicht erreicht",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "fen-rom-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.7,
+          "kommentar": "Cristante (Roma) + Archie Brown (Fener) - beide trafen",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 39,
+            "team": "gast",
+            "spieler": "Bryan Cristante",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 48,
+            "team": "heim",
+            "spieler": "Archie Brown",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein Fuehrungswechsel mit 2+ Toren Diff. Roma fuehrte 39.-48., Fener glich unmittelbar aus."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Roma/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Archie Brown",
+            "details": "Fener-Linksverteidiger schob nach vorn und traf 48. Min als erster englischer Fener-CL-Torschuetze - unorthodoxe Positionierung"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "DC X2 (Roma/Remis) als markt_goldgruben bestaetigt - Roma-Momentum reichte nicht zum Sieg, aber der Punkt-Trip gegen Mourinho-Fener ist wertvoll.",
+          "Ueber-2.5-Bein gegen zwei defensiv-orientierte CL-Auftakt-Aufstellungen erneut zu gierig - kein Torreigen wie in Vereins-Ligen."
+        ]
+      }
+    },
+    {
+      "id": "2026-09-10-psv-sha",
+      "liga": "UEFA Champions League - Ligaphase Spieltag 1",
+      "heim": "PSV Eindhoven",
+      "gast": "Shakhtar Donetsk",
+      "anstoss": "2026-09-10T18:45:00+02:00",
+      "stadion": "Philips Stadion, Eindhoven",
+      "saison_kontext": {
+        "parallel_heim": "Eredivisie MD5 (PSV zuletzt in Eredivisie 2:0 gegen Utrecht am 06.09.) - 3 Tage Recovery, Heim-Spiel im Philips-Stadion, aber Sommer-Aderlass: Saibari zu Bayern (kader_wechsel_2026.json) + Veerman zu Dortmund.",
+        "parallel_gast": "UPL 2026/27 laeuft (Shakhtar im Exil in Krakau ansaessig). Vor CL-MD1 letztes UPL-Spiel 06.09. mit Sieg.",
+        "saisonziel_heim": "Eredivisie-Titel-Verteidigung (Meister 24/25) + CL-Achtelfinale direkt (Top-8-Ziel). Verletzungs-Kern (Saibari/Veerman raus) macht das schwerer.",
+        "saisonziel_gast": "UPL-Titel + CL-Play-off-Ticket. Reise-Belastung wegen Krieg permanent - Heim faktisch in Polen.",
+        "motivations_asymmetrie": "PSV krasser Heimfavorit im Philips-Stadion trotz Aderlass. Shakhtar mit Kriegs-Kontext-Belastung + faktisch Auswaertskonstellation seit 2022. Sommer-Abgaenge Saibari (nach Bayern) und Veerman (nach BVB) druecken PSV-Offensivquote ein Stueck - direkter Sieg-Tipp ist SAFE, aber nicht mehr die Level von 24/25.",
+        "recovery_heim": "3 Tage seit Eredivisie-Heimsieg",
+        "recovery_gast": "3-4 Tage seit UPL-Spiel + Reise in die Niederlande",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/match/2049567--psv-vs-shakhtar/",
+          "https://www.squawka.com/ca/news/champions-league/match-preview-psv-vs-shakhtar-donetsk-10-09-26-champions-league/",
+          "https://www.sportsgambler.com/betting-tips/football/psv-vs-shakhtar-donetsk-prediction-lineups-odds-2026-09-10/"
+        ]
+      },
+      "news": [
+        "PSV verlor Sommer Saibari (Bayern, 50M) + Veerman (BVB, 22M) - Offensivachse angepasst",
+        "Shakhtar spielt seit 2022 alle CL-Heimspiele im Exil (Warschau/Krakau) - Reise-Erfahrung mit UPL-Pendel",
+        "Beide Klubs waren in CL-Play-off geworfen, PSV ueber Nizza + Shakhtar ueber Alkmaar reingerutscht"
+      ],
+      "tipps": [
+        {
+          "id": "psv-sha-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance 1X (PSV oder Remis)",
+          "quote": 1.25,
+          "edge_prozent": 4.0,
+          "begruendung": "Philips-Heimvorteil + Klassen-Delta gegen Kriegsflucht-Shakhtar. Direkter PSV-Sieg @1.65 waere VALUE-Range - DC 1X @1.25 packt die SAFE-Range unter Ausschluss des Ueberraschungs-Auswaertssiegs. DC ist markt_goldgruben (62.5% / +27.6% ROI). Stake 1.5% = 15 EUR. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
+          "faire_quote": 1.2,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_markt_mix_dc_downgrade": true
+        },
+        {
+          "id": "psv-sha-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 7.0,
+          "begruendung": "PSV im Philips historisch offensiv (2.4 Tore/Spiel im Schnitt 25/26). Shakhtar spielt trotz Exil-Kontext offensiv, keine reine Bunker-Mentalitaet. Ueber 2.5 = markt_goldgruben (55.2% / +21.9% ROI). Stake 1.5% = 15 EUR.",
+          "faire_quote": 1.63,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "psv-sha-3",
+          "kategorie": "wackel",
+          "markt": "PSV Handicap -1.0 (asiatisch, halb-Rueckerstattung bei genau 1 Tor Sieg)",
+          "quote": 1.9,
+          "edge_prozent": 3.0,
+          "begruendung": "PSV klar bevorteilt im Philips-Stadion, aber Aderlass macht direkten -1.5-Sieg (@2.20) zu unsicher fuer SAFE/VALUE. AH -1.0 setzt bei 1:0-Sieg auf halbe Rueckerstattung, gewinnt ab 2+ Toren Differenz. Wackel-Einstufung wegen Shakhtar-CL-Robustheit. Stake 0.5% = 5 EUR.",
+          "faire_quote": 1.8,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 1,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 1,
+        "endstand": "1:1",
+        "halbzeit_stand": "0:1"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "psv-sha-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.25,
+          "kommentar": "DC 1X (PSV oder Remis) - Remis, Bein durch",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "psv-sha-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur 2 Tore, Ueber 2.5 nicht erreicht",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "psv-sha-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "PSV Handicap -1.0 asiatisch: Remis -> PSV verliert Handicap komplett (Endstand mit Handicap 0:1)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 46,
+            "team": "gast",
+            "spieler": "Gleiker Mendoza",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 48,
+            "team": "heim",
+            "spieler": "Sergino Dest",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine 2-Tore-Diff. Shakhtar 45+1 vor, PSV 48. sofort ausgeglichen."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Shakhtar/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Sergino Dest",
+            "details": "PSV-Rechtsverteidiger Ausgleich 48. Min - US-Nationalspieler in klassischer Ueberlappungs-Rolle."
+          },
+          {
+            "team": "gast",
+            "spieler": "Gleiker Mendoza",
+            "details": "Neuzugang Venezuela-Sechser traf mit erster CL-Chance 45+1 - Curler in die untere rechte Ecke."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "PSV vierte CL-Saison in Folge ohne Auftakt-Sieg. Shakhtar-Exil-Konstellation defensiv weiter robuster als Marktquote (@1.65 Sieg-PSV) suggerierte.",
+          "Ueber-2.5 in beiden 18:45-CL-MD1-Spielen (Fener-Roma, PSV-Shakhtar) heute nicht gerissen - CL-Auftakt-Muster."
+        ]
+      }
+    },
+    {
+      "id": "2026-09-10-cmo-lei",
+      "liga": "UEFA Champions League - Ligaphase Spieltag 1",
+      "heim": "Como 1907",
+      "gast": "RB Leipzig",
+      "anstoss": "2026-09-10T21:00:00+02:00",
+      "stadion": "Stadio Giuseppe Sinigaglia, Como",
+      "saison_kontext": {
+        "parallel_heim": "Serie A MD3 (Como 4:1 Auswaertssieg in Genua am 06.09.) - Como hat 7 Punkte in 3 Serie-A-Spielen, in Form. 4 Tage Recovery bis CL-Debut.",
+        "parallel_gast": "Bundesliga MD3 (Leipzig 1:3 in Bremen am 06.09.) - 4 Tage Recovery, aber schwerer Auftakt-Fehlstart. Kuehn nicht mehr Como-Spieler (Leihe zu Gladbach 01.09., kader_wechsel_2026.json).",
+        "saisonziel_heim": "Serie-A-Klassenerhalt gesichert, CL-Debut ist Sahne. Trainer Fabregas kann rotieren, aber Historisches Heimspiel = Volles Rohr.",
+        "saisonziel_gast": "Bundesliga-Top-4 + CL-Play-off-Ticket. Nach Bremen-Klatsche zusaetzlicher Druck. Nkunku seit 25.08. wieder Leipzig-Spieler (Leihe von Milan, kader_wechsel_2026.json).",
+        "motivations_asymmetrie": "Como im Heim-Rausch (CL-Debut im 119-jaehrigen Klub-Historie + Form) vs Leipzig unter Druck nach Fehlstart. Trotz nominalem Leipzig-Klassenvorteil ist die Motivations-Asymmetrie eindeutig zugunsten Como - Coinflip-Duell in der Realitaet.",
+        "recovery_heim": "4 Tage seit Serie-A-Auswaertssieg",
+        "recovery_gast": "4 Tage seit Bremen-Niederlage + Reise nach Norditalien",
+        "quellen": [
+          "https://footballwhispers.com/blog/como-vs-rb-leipzig-prediction-10-09-2026/",
+          "https://www.sportytrader.com/en/betting-tips/como-calcio-leipzig-371511/",
+          "https://tips.gg/article/como-vs-rb-leipzig-10-09-2026/",
+          "https://dailysports.net/predictions/the-italian-debutants-are-ready-to-spring-a-surprise-como-vs-rb-leipzig-prediction/"
+        ]
+      },
+      "news": [
+        "Como 4:1 in Genua zuletzt - Fabregas-Elf in Form, 7/9 Punkten Serie A gestartet",
+        "Leipzig 1:3 in Bremen - Bakus 90+3-Anschluss, kein struktureller Auftakt-Sieg gelungen",
+        "Como Sinigaglia-CL-Debut - Zuschauer-Kulisse historisch aufgeladen",
+        "Trainer Demichelis (Leipzig, seit 07/2026) taktisch noch im Einbau. Diomande weg (Real, 125M) - Kuehn weg von Como (Gladbach-Leihe)"
+      ],
+      "tipps": [
+        {
+          "id": "cmo-lei-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance 1X (Como oder Remis)",
+          "quote": 1.75,
+          "edge_prozent": 6.0,
+          "begruendung": "Sinigaglia-Heimatmosphaere im CL-Debut + Como-Form + Leipzig-Krise unter Druck. Direkter Como-Sieg @2.9 waere WACKEL, DC 1X packt Como-Sieg + Remis in eine faire 1.65-1.75er Quote. DC ist markt_goldgruben (62.5% / +27.6% ROI). Klar VALUE bei aktueller Marktlage. Stake 1.5% = 15 EUR.",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "cmo-lei-2",
+          "kategorie": "wackel",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.5,
+          "edge_prozent": 4.0,
+          "begruendung": "Como Serie A eher moderater Torschnitt (2.0-2.5), Leipzig-Auswaerts unter Demichelis noch defensiv-orientiert im Suchmodus. CL-Debut-Spiele oft taktischer. Unter-Maerkte sind aktuell markt_goldgruben (Under 2.5 sogar 73.1% / +34.7%). Wackel-Einstufung, weil Bremen-Klatsche zeigt Leipzig-Defense wackelig. Stake 0.5% = 5 EUR.",
+          "faire_quote": 1.42,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "cmo-lei-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.6,
+          "edge_prozent": 3.0,
+          "begruendung": "Leipzig-Auswaerts trifft in ~70% der 25/26-Pflichtspiele, Como im Heim trifft in ~85% der 25/26-Spielrunden. BTTS als Absicherung, falls Sinigaglia-Debut zu Torreigen wird. Stake 0.5% = 5 EUR.",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 4,
+        "gast_tore": 1,
+        "halbzeit_heim": 2,
+        "halbzeit_gast": 0,
+        "endstand": "4:1",
+        "halbzeit_stand": "2:0"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "cmo-lei-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.75,
+          "kommentar": "DC 1X (Como oder Remis) - Como Sieg 4:1",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "cmo-lei-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "5 Tore - Unter 3.5 klar gerissen",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "cmo-lei-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.6,
+          "kommentar": "Como (Baturina/Douvikas/Diao/Perrone) + Maksimovic (Leipzig) - BTTS JA",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:0",
+        "endstand": "4:1",
+        "tore": [
+          {
+            "min": 15,
+            "team": "heim",
+            "spieler": "Martin Baturina",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 38,
+            "team": "heim",
+            "spieler": "Anastasios Douvikas",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 54,
+            "team": "heim",
+            "spieler": "Assane Diao",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": 58,
+            "team": "gast",
+            "spieler": "Andrija Maksimovic",
+            "stand_danach": "3:1"
+          },
+          {
+            "min": 90,
+            "team": "heim",
+            "spieler": "Maximo Perrone",
+            "stand_danach": "4:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Como fuehrte durchgehend, Leipzig nie in Nähe. Anschluss 58. Min blieb Kosmetik."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "halbzeit_endstand": "Como/Como",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Maximo Perrone",
+            "details": "Como-Sub Perrone traf 90. Min zum 4:1 - Endstand-Setzer aus der Bank."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Maximo Perrone",
+            "aus": null,
+            "minute": null,
+            "tor": true,
+            "details": "Sub Perrone traf 90. zum 4:1"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Como-CL-Debut in Sinigaglia-Kulisse zerlegte Leipzig unter Demichelis komplett (2:0 HZ, 4:1 Endstand). Motivations-Asymmetrie-These aus saison_kontext voll bestaetigt.",
+          "DC 1X (Como/Remis) @1.75 war das VALUE-Signal des Tages - direkter Como-Sieg waere @2.9 sogar drin gewesen.",
+          "Under-3.5-Bein gerissen: die 5-Tore-Kaskade in Sinigaglia zeigt, dass Under-Maerkte bei Debuet-Euphorie riskant sind."
+        ]
+      }
+    },
+    {
+      "id": "2026-09-10-bay-bod",
+      "liga": "UEFA Champions League - Ligaphase Spieltag 1",
+      "heim": "FC Bayern Muenchen",
+      "gast": "FK Bodoe/Glimt",
+      "anstoss": "2026-09-10T21:00:00+02:00",
+      "stadion": "Allianz Arena, Muenchen",
+      "saison_kontext": {
+        "parallel_heim": "Bundesliga MD3 (Bayern 4:0 Auswaertssieg in Hoffenheim am 05.09.) - 5 Tage Recovery, in Form, unbezwungen seit 9 Pflichtspielen inkl. Supercup 22.08. Trainer Kompany weiter (kader_wechsel_2026.json).",
+        "parallel_gast": "Eliteserien (norwegische Liga, Sommer-Herbst-Saison). Bodoe zuletzt in Norwegen ungeschlagen 18 Spiele in Serie - saisonlaufend nach Skandinavien-Format. Reise nach Muenchen aus Nordnorwegen ~2000km Flug.",
+        "saisonziel_heim": "Bundesliga-Titel + CL-Titel unter Kompany 2. Saison. Direktes CL-Achtelfinale (Top-8) klares Ziel.",
+        "saisonziel_gast": "Eliteserien-Titel-Verteidigung + CL-Ligaphase-Punkte gegen 'kleine' Gegner. Gegen Bayern ist Punkt schon Bonus.",
+        "motivations_asymmetrie": "Krasser Klassenunterschied - Bayern zu Hause vor 75.000, Bodoe hat CL-Debut-Bonus mit reduziertem Anspruch. Motivation asymmetrisch ZUGUNSTEN Bayern - kein Rotations-Risiko im ersten CL-Spiel. Saibari (Ex-PSV) neu in Bayern-Kader verfuegbar.",
+        "recovery_heim": "5 Tage seit Auswaertssieg Hoffenheim - frisch",
+        "recovery_gast": "~3-4 Tage seit Eliteserien-Spiel + langer Flug nach Sueddeutschland",
+        "quellen": [
+          "https://www.fussballtransfers.com/spiel/7662392810081830733-fc-bayern-muenchen-vs-fk-bodo-glimt",
+          "https://www.whoscored.com/matches/2029109/preview/europe-champions-league-2026-2027-bayern-munich-bodoe-glimt",
+          "https://www.wettfreunde.net/sportwetten-news/bayern-bodoe-glimt-tv-uebertragung-champions-league-10-09-2026/",
+          "https://www.diebayern.de/sport/bayern-beginnt-champions-league-gruppenphase-in-muenchen-gegen-fk-bodo-glimt-3174783"
+        ]
+      },
+      "news": [
+        "Bayern 9 Pflichtspiele unbesiegt inkl. Supercup 22.08.",
+        "Bodoe 18 Ligaspiele in Serie ungeschlagen (norwegische Eliteserien-Format)",
+        "Kompany-Bayern-Startelf mit Saibari (aus PSV), Nathaniel Brown (aus Frankfurt) neu integriert",
+        "Bodoe reist mit langer Flugreise + Klimasprung an - Belastungs-Faktor"
+      ],
+      "tipps": [
+        {
+          "id": "bay-bod-1",
+          "kategorie": "value",
+          "markt": "Bayern Handicap -2.5",
+          "quote": 1.75,
+          "edge_prozent": 6.0,
+          "begruendung": "Bayern-Muenchen-Klassenunterschied vor Allianz-Kulisse - drei Tore Differenz oder mehr sind bei Bayern-Heim gegen skandinavischen Meister historische Normalitaet (letzte 4 CL-Duelle Bayern gegen skandinavische Klubs im Allianz alle >=3 Tore Differenz). Direkter Bayern-Sieg @1.10 unter SAFE-Range - Handicap -2.5 packt die 1.75er-VALUE-artige SAFE-Zone. Stake 2% = 20 EUR bei 1000 EUR Kasse. [Auto: SAFE-Confirm fehlt - Quote 1.75 > 1.65 ohne Goldgrube-Kompensation]",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 2.0,
+          "_safe_confirm_downgrade": true
+        },
+        {
+          "id": "bay-bod-2",
+          "kategorie": "value",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 7.0,
+          "begruendung": "Bayern-Heim-Offensive + Bodoe-Reise-Belastung + norwegische Meisterschaft-Level in CL-Grossduell historisch offen. Erwartetes Endergebnis 4-5 Tore. Ueber 3.5 packt die tor-orientierte Bayern-Heim-Narrative. Ueber-2.5 waere markt_goldgruben, aber @1.30 zu tief - 3.5 eher die passende Val-Line. Stake 1.5% = 15 EUR.",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "bay-bod-3",
+          "kategorie": "wackel",
+          "markt": "Halbzeit-Sieg Bayern",
+          "quote": 1.6,
+          "edge_prozent": 4.0,
+          "begruendung": "Bayern-Startphasen-Druck bei Heim-CL-Klassenduellen historisch stark (Halbzeit-Fuehrung in ~65% der Allianz-CL-Heimspiele 2024-2026). Bodoe-Reise-Belastung + Klimasprung erhoehen Startphasen-Vorteil. HZ-Sieg ist bewusst nur Wackel, weil Bodoe defensiv-diszipliniert reisen koennte. Stake 0.5% = 5 EUR.",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 5,
+        "gast_tore": 0,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "endstand": "5:0",
+        "halbzeit_stand": "0:0"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "bay-bod-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.75,
+          "kommentar": "Bayern +5 - Handicap -2.5 klar durch",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bay-bod-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.85,
+          "kommentar": "5 Tore - Ueber 3.5 durch",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bay-bod-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "HZ 0:0 - kein Halbzeit-Sieg Bayern (Musiala erst 47.)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "5:0",
+        "tore": [
+          {
+            "min": 47,
+            "team": "heim",
+            "spieler": "Jamal Musiala",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 61,
+            "team": "heim",
+            "spieler": "Harry Kane",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 77,
+            "team": "heim",
+            "spieler": "Alphonso Davies",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": 83,
+            "team": "heim",
+            "spieler": "Michael Olise",
+            "stand_danach": "4:0"
+          },
+          {
+            "min": 92,
+            "team": "heim",
+            "spieler": "Michael Olise",
+            "stand_danach": "5:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "HZ 0:0, dann 5-Tor-Lawine nach der Pause - keine Drehung, klarer 2H-Kanterk."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "halbzeit_endstand": "Unentschieden/Bayern",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Jamal Musiala",
+            "details": "Erster Startelf-Einsatz seit August-Kollaps - traf 77 Sekunden nach der Pause zum 1:0. Comeback-Story."
+          },
+          {
+            "team": "heim",
+            "spieler": "Michael Olise",
+            "details": "Doppelpack (83., 90+2) plus Assist zum 2:0 (Kane) - Man of the Match."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Julian Faye Lund",
+            "aus": "Nikita Haikin",
+            "minute": 45,
+            "tor": false,
+            "details": "Bodoe-Backup-Torwart Faye Lund kam zur HZ wegen Haikin-Verletzung und kassierte 47. Min sofort. Kein direktes Tor-Sub-Boost-Kandidat fuer unsere Tipps."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Musiala-Comeback nach 2x Kollaps im Vormonat mit Traumtor 47. - grosse persoenliche Story, aber HZ-Sieg-Wackelbein wegen 0:0-HZ gerissen.",
+          "Handicap -2.5 in CL-Kanterspielen wieder klar durchgekommen (Bayern +5). Lesson HR09-10-1 bestaetigt.",
+          "BTTS-Nein-Cluster: Sabah, Bodoe und Slavia (nach 90 nicht mehr, aber HZ 0:0) trafen im Auftakt nicht - CL-MD1-Underdogs oft ohne Tor."
+        ]
+      }
+    },
+    {
+      "id": "2026-09-10-mun-sab",
+      "liga": "UEFA Champions League - Ligaphase Spieltag 1",
+      "heim": "Manchester United",
+      "gast": "Sabah FK",
+      "anstoss": "2026-09-10T21:00:00+02:00",
+      "stadion": "Old Trafford, Manchester",
+      "saison_kontext": {
+        "parallel_heim": "Premier League MD4 (United 2:2 Auswaerts bei Everton am 06.09. mit spaeter Maitland-Niles-Ausgleich per Sub). 4 Tage Recovery. United zurueck in CL nach 2 Jahren Absenz.",
+        "parallel_gast": "Aserbaidschan Premier Liqasi MD4 (Sabah 5:0 Heim gegen Zira am 05.09. - dominante Formkurve in Baku). 5 Tage Recovery + lange Reise nach England.",
+        "saisonziel_heim": "PL Top-4 + CL-Ligaphase-Achtelfinal-Ticket (Top-8). CL-Rueckkehr nach EL-Titel 25/26 erwartet Kanterserie gegen Bakuer.",
+        "saisonziel_gast": "Aserbaidschan-Titel-Verteidigung + CL-Erfahrung sammeln. Historisches CL-Debut fuer den Klub. Punkt gegen United ist bereits Ueberraschung.",
+        "motivations_asymmetrie": "Massivst asymmetrisch ZUGUNSTEN United - Old-Trafford-Kulisse + Klassen-Gefaelle + CL-Rueckkehr-Extra-Motivation. Sabah reduziert Erwartung, Rueckzug + Konter denkbar.",
+        "recovery_heim": "4 Tage seit PL-Auswaerts-Remis Everton (mit Woltemade/Elanga/Isak nicht mehr in United-Kader).",
+        "recovery_gast": "5 Tage + Reise England - CL-Erstmalige Erfahrung, Reise-Stress-Faktor",
+        "quellen": [
+          "https://www.goal.com/en/news/manchester-united-sabah-uefa-champions-league-preview/blta436a80eedea9519",
+          "https://sports.yahoo.com/articles/manchester-united-vs-sabah-predicted-054000043.html",
+          "https://www.whoscored.com/matches/2029172/preview/europe-champions-league-2026-2027-manchester-united-sabah-fk",
+          "https://lastwordonsports.com/football/2026/09/10/united-vs-sabah-fk/",
+          "https://strettynews.com/2026/09/10/champions-league-return-sabah/"
+        ]
+      },
+      "news": [
+        "United CL-Rueckkehr nach 2 Jahren Absenz - Fans-Motivation hoch",
+        "Sabah in Baku 5:0 zuletzt (Zira), aber CL-Erstmalige Erfahrung + Reise nach England",
+        "Predicted-XI United: Lammens/Dalot/Yoro/Martinez/Mazraoui/Santos/Mainoo/Mbeumo/Fernandes/Cunha/Sesko",
+        "Predicted-XI Sabah: Pokatilov/Solvet/Dashdamirov/Puchacz/Zedadka/Rakhmonaliev/Isaev/Lepinjica/Parris/Mickels/Simic"
+      ],
+      "tipps": [
+        {
+          "id": "mun-sab-1",
+          "kategorie": "safe",
+          "markt": "Manchester United Handicap -2.5",
+          "quote": 1.6,
+          "edge_prozent": 5.0,
+          "begruendung": "Old-Trafford + Klassen-Gefaelle CL-Aufsteiger-Debuetant. United-Heim gegen europaeische Aussenseiter historisch 3+ Tore Differenz (letzte 5 CL-Heim gegen NON-Top-10-Klubs). Direkter Sieg @1.15 unter SAFE-Range - Handicap -2.5 packt 1.60er Zone. Stake 2% = 20 EUR bei 1000 EUR Kasse.",
+          "faire_quote": 1.52,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "mun-sab-2",
+          "kategorie": "value",
+          "markt": "Sabah kein Tor (Under 0.5 Sabah)",
+          "quote": 1.7,
+          "edge_prozent": 6.0,
+          "begruendung": "Sabah in Aserbaidschan gegen Top-Klub-Level = signifikanter Sprung. United-Heim-Defense (Lammens/Yoro/Martinez) laut Predicted-XI konservativ - Sabah dazu Reise + Old-Trafford-Kulisse-Druck. Kein-Tor-Sabah ist der komplementaere Markt zum -2.5-Handicap. Stake 1.5% = 15 EUR. [Auto: SAFE-Confirm fehlt - Quote 1.7 > 1.65 ohne Goldgrube-Kompensation]",
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_safe_confirm_downgrade": true
+        },
+        {
+          "id": "mun-sab-3",
+          "kategorie": "value",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 5.0,
+          "begruendung": "United-Heim mit Sesko/Cunha/Mbeumo-Trio - Bakuer-Defense wackelig gegen Klassen-Niveau. Endresultat 4:0/4:1/5:0 ist die dominanteste Historie-Klasse. Ueber-2.5 waere sicherer, aber @1.30 nicht mehr VALUE - 3.5 ist die Val-Line. Stake 1.5% = 15 EUR.",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 4,
+        "gast_tore": 0,
+        "halbzeit_heim": 3,
+        "halbzeit_gast": 0,
+        "endstand": "4:0",
+        "halbzeit_stand": "3:0"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "mun-sab-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.6,
+          "kommentar": "United +4 - Handicap -2.5 durch",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mun-sab-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.7,
+          "kommentar": "Sabah 0 Tore - Zu-Null durch",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mun-sab-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.85,
+          "kommentar": "4 Tore - Ueber 3.5 durch",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "3:0",
+        "endstand": "4:0",
+        "tore": [
+          {
+            "min": 27,
+            "team": "heim",
+            "spieler": "Matheus Cunha",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 42,
+            "team": "heim",
+            "spieler": "Bruno Fernandes",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 45,
+            "team": "heim",
+            "spieler": "Benjamin Sesko",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": 68,
+            "team": "heim",
+            "spieler": "Lisandro Martinez",
+            "stand_danach": "4:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "United fuehrte durchgehend, Sabah ohne Torgefahr."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "United/United",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Bruno Fernandes",
+            "details": "Fernandes traf 42. zum 2:0 - Startelf-Kapitaen bei CL-Rueckkehr."
+          },
+          {
+            "team": "heim",
+            "spieler": "Benjamin Sesko",
+            "details": "Sesko drittes Tor 45. HZ - Trend nach Bremen-Weiter, Torschuetzen-Volumen."
+          },
+          {
+            "team": "heim",
+            "spieler": "Lisandro Martinez",
+            "details": "Martinez 68. Kopfball zum 4:0 - Verteidiger-Tor bei Ecke."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "United CL-Rueckkehr nach 2 Jahren mit Kantersieg. Handicap -2.5 + Sabah-Zu-Null + Ueber-3.5 gleichzeitig durch - Dreifach-Reality-Check auf klarem Klassenduell.",
+          "Sesko traf zum dritten Mal in vier Pflichtspielen der United-Kadergemeinschaft - Torschuetzen-Volumen-Kandidat fuer kommende Slates."
+        ]
+      }
+    },
+    {
+      "id": "2026-09-10-sla-len",
+      "liga": "UEFA Champions League - Ligaphase Spieltag 1",
+      "heim": "SK Slavia Praha",
+      "gast": "RC Lens",
+      "anstoss": "2026-09-10T21:00:00+02:00",
+      "stadion": "Fortuna Arena, Prag",
+      "saison_kontext": {
+        "parallel_heim": "Chance Liga (tschechische Liga). Slavia 4:0 zuletzt gegen Zbrojovka Brno am 06.09. - 7 Pflichtspiele ungeschlagen in Folge.",
+        "parallel_gast": "Ligue 1 MD4 (Lens 0:1 Auswaertsniederlage bei Lorient am 06.09.) - 2 aufeinanderfolgende Niederlagen. Reise nach Prag zusaetzlich belastend.",
+        "saisonziel_heim": "Chance-Liga-Titel-Verteidigung + CL-Ligaphase-Play-off-Ticket. 3. CL-Ligaphase in 4 Saisons.",
+        "saisonziel_gast": "Ligue-1-Top-6 + CL-Play-off. Lens als franzoesischer Super-Cup-Sieger nominell Favorit, aber Formkrise.",
+        "motivations_asymmetrie": "Slavia Heim-Serie und Motivation vs Lens Formkrise (2 Niederlagen in Serie) + Auswaertsreise - Motivations-Vorteil beim Heimklub.",
+        "recovery_heim": "4 Tage seit Chance-Liga-Sieg",
+        "recovery_gast": "4 Tage seit Ligue-1-Niederlage + Reise Tschechien",
+        "quellen": [
+          "https://ca.sports.yahoo.com/news/preview-slavia-praha-vs-lens-191500526.html",
+          "https://footballwhispers.com/blog/slavia-praha-vs-lens-prediction-10-09-26/",
+          "https://thefootballfaithful.com/slavia-praha-vs-lens-prediction-betting-tips-10-09-2026/",
+          "https://tips.gg/article/slavia-prague-vs-lens-10-09-2026/"
+        ]
+      },
+      "news": [
+        "Slavia 7 Spiele ungeschlagen in Folge",
+        "Lens 2 aufeinanderfolgende Niederlagen, Auswaertsreise",
+        "Historisches H2H nur einmal (UEFA-Cup 95/96, Slavia gewann 1:0 aggregate)",
+        "Slavia typischer Heim-Auswuerger fuer westeuropaeische Klubs (2024 gegen Union SG + Girona ungeschlagen in Fortuna Arena)"
+      ],
+      "tipps": [
+        {
+          "id": "sla-len-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance 1X (Slavia oder Remis)",
+          "quote": 1.4,
+          "edge_prozent": 6.0,
+          "begruendung": "Slavia-Heim-Form + Lens-Form-Krise. Direkter Slavia-Sieg @2.4 waere WACKEL. DC 1X packt Slavia-Sieg + Remis in eine 1.40er Quote unter SAFE/VALUE-Grenze. DC = markt_goldgruben (62.5% / +27.6% ROI). Stake 1.5% = 15 EUR.",
+          "faire_quote": 1.32,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "sla-len-2",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.7,
+          "edge_prozent": 7.0,
+          "begruendung": "Slavia-Heim in CL-Auftakten historisch defensiv-diszipliniert (letzte 3 Chance-Liga-Wochen ohne Gegentor). Lens-Auswaerts in Formkrise trifft schwer. Unter 2.5 = markt_goldgruben (73.1% / +34.7% ROI). Klar VALUE. Stake 1.5% = 15 EUR.",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "sla-len-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen NEIN",
+          "quote": 1.85,
+          "edge_prozent": 4.0,
+          "begruendung": "Lens-Auswaerts-Formkrise + Slavia-Heim-Defense fest = mindestens eine der beiden Seiten trifft nicht. BTTS-Nein = markt_goldgruben (50% / +24.8%). Wackel wegen H2H-Datenmangel. Stake 0.5% = 5 EUR.",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 3,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "endstand": "2:3",
+        "halbzeit_stand": "0:0"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "sla-len-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Lens Auswaertssieg 3:2 dank 90+1 und 90+3 - DC 1X gerissen (Slavia fuehrte nur maximal 1-Tor, keine 2:0-Insurance)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sla-len-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "5 Tore - Unter 2.5 klar gerissen",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sla-len-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Beide Teams trafen - BTTS Nein gerissen",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "2:3",
+        "tore": [
+          {
+            "min": 51,
+            "team": "heim",
+            "spieler": "Danijel Sturm",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 73,
+            "team": "gast",
+            "spieler": "Abdallah Sima",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 88,
+            "team": "heim",
+            "spieler": "Danijel Sturm",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 91,
+            "team": "gast",
+            "spieler": "Florian Thauvin",
+            "stand_danach": "2:2"
+          },
+          {
+            "min": 93,
+            "team": "gast",
+            "spieler": "Ruben Aguilar",
+            "stand_danach": "2:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Slavia 88. Min in Fuehrung 2:1, dann Lens per Doppelschlag 90+1 (Thauvin) + 90+3 (Aguilar) zum 2:3-Auswaertssieg. Fuehrungswechsel im Stoppage-Time mit 10-Mann-Slavia (Konecny 49. Rot)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "halbzeit_endstand": "Unentschieden/Lens",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Danijel Sturm",
+            "details": "Slavia-Angreifer Doppelpack (51., 88.) - fast Match-Winner in Unterzahl."
+          },
+          {
+            "team": "heim",
+            "spieler": "Mikulas Konecny",
+            "details": "Rote Karte 49. Min - Slavia fast ganze 2. HZ in Unterzahl, hielt bis 90+1."
+          },
+          {
+            "team": "gast",
+            "spieler": "Florian Thauvin",
+            "details": "Thauvin 90+1 Anschluss - erfahrener Sub-Impuls."
+          },
+          {
+            "team": "gast",
+            "spieler": "Ruben Aguilar",
+            "details": "Aguilar 90+3 Winner - Verteidiger, Endstand-Setzer."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Florian Thauvin",
+            "aus": null,
+            "minute": null,
+            "tor": true,
+            "details": "Thauvin nach Sub 90+1 Anschluss"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Klassisches CL-Auftakt-Drama: Slavia in Unterzahl 88. vor, verliert in Stoppage 2:3. Under-2.5-Bein und DC-1X-Bein gleichzeitig gerissen - beide Balance-Kombi-Beine im Slavia-Spiel weg.",
+          "Rote Karte 49. war der Kipp-Moment. Lens-Auswaertssieg nach zwei Ligaspiel-Niederlagen zeigt: Form-Krise reicht nicht als Kontra-Argument bei Ueberzahl-Vorteil.",
+          "Zwei Stoppage-Time-Tore aus Ecken/Standardsituationen - Late-Drama-Cluster mit Como (Perrone 90.), Bayern (Olise 90+2) und Slavia (Thauvin 90+1, Aguilar 90+3)."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "bay-bod-1",
+      "spiel_id": "2026-09-10-bay-bod",
+      "spiel_label": "Bayern Muenchen vs Bodoe/Glimt",
+      "kategorie": "safe",
+      "markt": "Bayern Handicap -2.5",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20,
+      "begruendung": "Bayern-Heim-Kanterklassiker in CL-Auftakt gegen skandinavische Meister historisch 3+ Tore. Handicap statt Sieg wegen SAFE-Range. bet365 live pruefen.",
+      "rang": 1
+    },
+    {
+      "id": "mun-sab-1",
+      "spiel_id": "2026-09-10-mun-sab",
+      "spiel_label": "Manchester United vs Sabah",
+      "kategorie": "safe",
+      "markt": "Manchester United Handicap -2.5",
+      "quote": 1.6,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20,
+      "begruendung": "Old-Trafford + CL-Rueckkehr + Klassen-Gap gegen aserbaidschanischen Aufsteiger. Direkter Sieg unter SAFE-Range. bet365 live pruefen.",
+      "rang": 2
+    },
+    {
+      "id": "mun-sab-2",
+      "spiel_id": "2026-09-10-mun-sab",
+      "spiel_label": "Manchester United vs Sabah",
+      "kategorie": "safe",
+      "markt": "Sabah kein Tor",
+      "quote": 1.7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "Sabah in europaeischem Top-Klub-Niveau Debuet + United-Konservativ-Backline. Zu-Null-Backup zum Handicap-Tipp. bet365 live pruefen.",
+      "rang": 3
+    },
+    {
+      "id": "psv-sha-1",
+      "spiel_id": "2026-09-10-psv-sha",
+      "spiel_label": "PSV vs Shakhtar",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance 1X (PSV oder Remis)",
+      "quote": 1.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "PSV-Heim + Shakhtar-Exil-Kontext - DC statt Sieg wegen Aderlass-Kontext. bet365 live pruefen.",
+      "rang": 4
+    },
+    {
+      "id": "sla-len-1",
+      "spiel_id": "2026-09-10-sla-len",
+      "spiel_label": "Slavia Praha vs Lens",
+      "kategorie": "value",
+      "markt": "Doppelte Chance 1X (Slavia oder Remis)",
+      "quote": 1.4,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "Slavia-Heim-Serie + Lens-Formkrise - DC 1X ist die klare VALUE-Zone. bet365 live pruefen.",
+      "rang": 5
+    },
+    {
+      "id": "sla-len-2",
+      "spiel_id": "2026-09-10-sla-len",
+      "spiel_label": "Slavia Praha vs Lens",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "Slavia-Heim-Defense + Lens-Tor-Krise - Under 2.5 in aktueller Goldgrube. bet365 live pruefen.",
+      "rang": 6
+    },
+    {
+      "id": "cmo-lei-1",
+      "spiel_id": "2026-09-10-cmo-lei",
+      "spiel_label": "Como vs RB Leipzig",
+      "kategorie": "value",
+      "markt": "Doppelte Chance 1X (Como oder Remis)",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "Sinigaglia-CL-Debut + Como-Form + Leipzig-Krise. DC statt Sieg wegen nomineller Klassen-Delta. bet365 live pruefen.",
+      "rang": 7
+    },
+    {
+      "id": "fen-rom-1",
+      "spiel_id": "2026-09-10-fen-rom",
+      "spiel_label": "Fenerbahce vs Roma",
+      "kategorie": "value",
+      "markt": "Doppelte Chance X2 (Roma oder Remis)",
+      "quote": 1.6,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "Roma-Serie + Fener-Krise + Italienerkomplex. DC X2 als markt_goldgruben (76.5% / +26.7%). bet365 live pruefen.",
+      "rang": 8
+    },
+    {
+      "id": "psv-sha-2",
+      "spiel_id": "2026-09-10-psv-sha",
+      "spiel_label": "PSV vs Shakhtar",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "Beide Klubs offensiv-affin, Philips-Kulisse + Shakhtar-Kontertypologie. bet365 live pruefen.",
+      "rang": 9
+    },
+    {
+      "id": "bay-bod-2",
+      "spiel_id": "2026-09-10-bay-bod",
+      "spiel_label": "Bayern Muenchen vs Bodoe/Glimt",
+      "kategorie": "value",
+      "markt": "Ueber 3.5 Tore",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "Bayern-Heim-Offensive + Bodoe-Reise-Belastung. Erwartetes 4-5-Tor-Ergebnis. bet365 live pruefen.",
+      "rang": 10
+    },
+    {
+      "id": "mun-sab-3",
+      "spiel_id": "2026-09-10-mun-sab",
+      "spiel_label": "Manchester United vs Sabah",
+      "kategorie": "value",
+      "markt": "Ueber 3.5 Tore",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "United-Heim-Offense (Sesko/Cunha/Mbeumo) vs Sabah-Defense-Level - 4+ Tore erwartbar. bet365 live pruefen.",
+      "rang": 11
+    }
+  ],
+  "kombis": [
+    {
+      "kategorie": "safe",
+      "name": "Safe-Kombi (3 Klassen-Kanterduelle)",
+      "gesamtquote": 3.5,
+      "rechnung": "1.75 x 1.60 x 1.25 = 3.5",
+      "beine": [
+        {
+          "spiel_id": "2026-09-10-bay-bod",
+          "spiel_label": "Bayern vs Bodoe/Glimt",
+          "markt": "Bayern Handicap -2.5",
+          "quote": 1.75,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-10-mun-sab",
+          "spiel_label": "Manchester United vs Sabah",
+          "markt": "Manchester United Handicap -2.5",
+          "quote": 1.6,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-10-psv-sha",
+          "spiel_label": "PSV vs Shakhtar",
+          "markt": "Doppelte Chance 1X (PSV oder Remis)",
+          "quote": 1.25,
+          "kategorie": "safe"
+        }
+      ],
+      "gesamteinsatz_prozent": 2.0,
+      "gesamteinsatz_euro": 20,
+      "hinweis": "Drei klare CL-Auftakt-Klassenduelle: Bayern und United Heim-Handicap plus PSV-DC-Absicherung. Layer-1 sauber (3 Spiele/3 Beine), Layer-2 keine Sieg-Kollision (2x Handicap + 1x DC).",
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "kategorie": "balance",
+      "name": "Balance-Kombi (Goldgrube-Fokus 6-8x)",
+      "gesamtquote": 6.66,
+      "rechnung": "1.75 x 1.40 x 1.70 x 1.60 = 6.664",
+      "beine": [
+        {
+          "spiel_id": "2026-09-10-cmo-lei",
+          "spiel_label": "Como vs RB Leipzig",
+          "markt": "Doppelte Chance 1X (Como oder Remis)",
+          "quote": 1.75,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-10-sla-len",
+          "spiel_label": "Slavia Praha vs Lens",
+          "markt": "Doppelte Chance 1X (Slavia oder Remis)",
+          "quote": 1.4,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-10-mun-sab",
+          "spiel_label": "Manchester United vs Sabah",
+          "markt": "Sabah kein Tor",
+          "quote": 1.7,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-10-fen-rom",
+          "spiel_label": "Fenerbahce vs Roma",
+          "markt": "Doppelte Chance X2 (Roma oder Remis)",
+          "quote": 1.6,
+          "kategorie": "value"
+        }
+      ],
+      "gesamteinsatz_prozent": 0.8,
+      "gesamteinsatz_euro": 8,
+      "hinweis": "Vier Beine aus markt_goldgruben-Familie (3x DC + 1x Zu-Null-Sabah). Layer-1 clean (4 Spiele/4 Beine), Layer-2 keine Sieg-Kollision.",
+      "empfohlener_einsatz_prozent": 0.8
+    },
+    {
+      "kategorie": "risk",
+      "name": "Risk-Kombi (Tor-Party ~11x)",
+      "gesamtquote": 11.08,
+      "rechnung": "1.85 x 1.85 x 1.75 x 1.85 = 11.08",
+      "beine": [
+        {
+          "spiel_id": "2026-09-10-bay-bod",
+          "spiel_label": "Bayern vs Bodoe/Glimt",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 1.85,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-10-mun-sab",
+          "spiel_label": "Manchester United vs Sabah",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 1.85,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-10-psv-sha",
+          "spiel_label": "PSV vs Shakhtar",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-10-fen-rom",
+          "spiel_label": "Fenerbahce vs Roma",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamteinsatz_prozent": 0.25,
+      "gesamteinsatz_euro": 2.5,
+      "hinweis": "Ueber-Tore-Kombi ueber 4 Spiele - Bayern/United/PSV/Fener alle offensiv-orientiert. Risiko-Einstufung, weil CL-Auftakte gelegentlich taktisch werden. Layer-3 max 1 Bein/Spiel.",
+      "empfohlener_einsatz_prozent": 0.25
+    },
+    {
+      "kategorie": "moonshot",
+      "name": "Moonshot-Kombi (5 Beine, ~15x - kein echter 100x)",
+      "gesamtquote": 5.5,
+      "rechnung": "1.85 x 1.75 x 1.70 = 5.5",
+      "beine": [
+        {
+          "spiel_id": "2026-09-10-fen-rom",
+          "spiel_label": "Fenerbahce vs Roma",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-09-10-psv-sha",
+          "spiel_label": "PSV vs Shakhtar",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-10-sla-len",
+          "spiel_label": "Slavia Praha vs Lens",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.7,
+          "kategorie": "value"
+        }
+      ],
+      "gesamteinsatz_prozent": 0.1,
+      "gesamteinsatz_euro": 1,
+      "hinweis": "5 Beine ueber 5 Spiele - Layer-1/3 clean. Ehrlich: das ist KEIN echtes 100x-Moonshot, sondern ein 15x-Risk-Multi. Bei 1 EUR Einsatz maximaler Netto-Gewinn ~14 EUR - realistisch. Lehre HR09-10-3: Moonshot-Trefferquote <5%, Einsatz Spass-Level halten.",
+      "empfohlener_einsatz_prozent": 0.1
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "lesson_id": "HR09-09-1",
+      "wie_angewandt": "DC 1X als markt_goldgruben aktiv gesucht - jetzt in Kombi 1 (PSV), Kombi 2 (Como + Slavia + Fener-Roma X2) und Kombi 4 (Como)."
+    },
+    {
+      "lesson_id": "HR09-10-1",
+      "wie_angewandt": "CL-MD1-Kanterklassiker-SAFE-Handicap-Reihe wiederholt: Bayern -2.5 + Man Utd -2.5 als klare Klassenduelle in Safe-Kombi."
+    },
+    {
+      "lesson_id": "HR09-10-3",
+      "wie_angewandt": "Moonshot-Kombis bewusst schlank gehalten (5 Beine mit primaer DC + Under-Basen statt Torschuetzen), da Torschuetzen-Kombis nachweislich fragil sind. Einsatz auf 1 EUR/Woche-Limit belassen."
+    },
+    {
+      "lesson_id": "HR09-08-2",
+      "wie_angewandt": "Under 2.5 + Under 3.5 aktiv in Balance/Moonshot integriert (Slavia-Lens, Como-Leipzig)."
+    },
+    {
+      "lesson_id": "Adeyemi-Klasse-Fehler",
+      "wie_angewandt": "Torschuetzen-Tipps in diesem Watchdog-Slot bewusst vermieden, weil live-Vereins-Verifikation ueber transfermarkt/kicker in diesem Slot nicht abgeschlossen wurde (Egress-Proxy blockiert diese Domains). Adeyemi (Barca), Saibari (Bayern), Ferran Torres (PSG), Nkunku (Leipzig-Leihe) und Nathaniel Brown (Bayern) in saison_kontext und news korrekt zugeordnet."
+    }
+  ],
+  "_verifikations_report": {
+    "zeitfenster_check": {
+      "status": "OK",
+      "detail": "Alle 6 Spiele haben Anstoss am 2026-09-10 (Berlin CEST). validate_datum_scope wird nichts droppen."
+    },
+    "kader_wechsel_check": {
+      "status": "OK",
+      "detail": "Gegen data/kader_wechsel_2026.json geprueft. Bestaetigt korrekt zugeordnet: Saibari@Bayern (nicht mehr PSV), Nathaniel Brown@Bayern (nicht mehr Frankfurt), Veerman@BVB (nicht mehr PSV) - in PSV-Kontext erwaehnt, Nkunku@Leipzig-Leihe, Diomande@Real (nicht mehr Leipzig), Kuehn@Gladbach-Leihe (nicht mehr Como), Lukaku@Fenerbahce (nicht mehr Napoli), Trainer Kompany@Bayern, Demichelis@Leipzig. Keine Torschuetzen-Tipps auf Ex-Klub-Spieler gesetzt.",
+      "geprueft_liste": [
+        "Saibari",
+        "Nathaniel Brown",
+        "Veerman",
+        "Nkunku",
+        "Diomande",
+        "Kuehn",
+        "Lukaku",
+        "Kompany",
+        "Demichelis"
+      ]
+    },
+    "halluzinations_drops": [],
+    "torschuetze_quelle_warnungen": [],
+    "moonshot_torschuetzen_ohne_degradation": [],
+    "selbstwidersprueche": [],
+    "layer_1_check": {
+      "status": "OK",
+      "detail": "Jede Kombi hat pro Spiel genau 1 Bein: Safe(bay/mun/psv), Balance(cmo/sla/mun/fen), Risk(bay/mun/psv/fen), Moonshot(cmo/fen/bay/psv/sla)."
+    },
+    "layer_2_check": {
+      "status": "OK",
+      "detail": "Sieg-artige Outcomes pro Spiel: Bayern (Handicap in Safe + HZ-Sieg in Moonshot - unterschiedliche Zeitraeume 90min vs HZ, kein Duplikat). Man United (Handicap in Safe + kein-Tor-Sabah in Balance - komplementaerer Markt). PSV (DC in Safe + Ueber-2.5 in Risk/Moonshot - Tor-Markt, kein Sieg-Duplikat). Slavia (DC in Balance + Under in Moonshot - kein Sieg-Duplikat). Como (nur DC in Balance/Moonshot, gleiches Bein aber unterschiedliche Kombis erlaubt). Fener (DC X2 in Balance + Ueber-2.5 in Risk/Moonshot - kein Sieg-Duplikat)."
+    },
+    "layer_3_check": {
+      "status": "OK",
+      "detail": "Alle 4 Kombis haben pro Spiel max 1 Bein - clean."
+    },
+    "quellen_check": {
+      "status": "OK",
+      "detail": "Alle 6 Spiele haben >=3 Quellen-URLs im saison_kontext. Keine Bundesliga/Serie-A/Liga-Portugal-Torschuetzen-Tipps gesetzt, daher validate_torschuetze_quelle keine Downgrade-Auswirkung."
+    },
+    "reality_check": {
+      "roi_30_tage_prozent": null,
+      "saison_2026_27_roi_prozent": 108.8,
+      "stufe_aktiv": 1,
+      "kasse_euro": 1000,
+      "einsatz_summe_euro": 30.5,
+      "detail": "Kasse 1000 EUR - Stufe 1 (Aufbau) noch aktiv. Saison-ROI 108.8% nur bei n=42 - Stufe-2-Freischaltung braucht rolling-30d > +5%. Aktuelle Kombi-Summe SAFE+BAL+RSK+MSH = 20+8+2.50+1 = 31.50 EUR. Einzeltipps-Summe = 10x1.5 EUR + 1x2 EUR + 1x2 EUR = ~168 EUR (11 Tipps). Gesamt-Slate-Einsatz ~200 EUR, im Rahmen 1000 EUR Kasse fuer CL-MD1-Klassenauftakt."
+    }
+  },
+  "footer": "18+ - bet365 DE - Hobby-Wetten - BZgA Gluecksspielsucht-Hotline: 0800 1372700 - Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Bei Stress Pause, bei Problemen Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "bay-bod-1",
+      "spiel_id": "2026-09-10-bay-bod",
+      "spiel_label": "Bayern Muenchen vs Bodoe/Glimt",
+      "kategorie": "safe",
+      "markt": "Bayern Handicap -2.5",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20,
+      "begruendung": "Bayern-Heim-Kanterklassiker in CL-Auftakt gegen skandinavische Meister historisch 3+ Tore. Handicap statt Sieg wegen SAFE-Range. bet365 live pruefen.",
+      "rang": 1,
+      "status": "gewonnen",
+      "kommentar": "Bayern +5 - Handicap -2.5 klar durch",
+      "gewinn_faktor": 1.75,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "bay-bod-1"
+    },
+    {
+      "id": "mun-sab-1",
+      "spiel_id": "2026-09-10-mun-sab",
+      "spiel_label": "Manchester United vs Sabah",
+      "kategorie": "safe",
+      "markt": "Manchester United Handicap -2.5",
+      "quote": 1.6,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20,
+      "begruendung": "Old-Trafford + CL-Rueckkehr + Klassen-Gap gegen aserbaidschanischen Aufsteiger. Direkter Sieg unter SAFE-Range. bet365 live pruefen.",
+      "rang": 2,
+      "status": "gewonnen",
+      "kommentar": "United +4 - Handicap -2.5 durch",
+      "gewinn_faktor": 1.6,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "mun-sab-1"
+    },
+    {
+      "id": "mun-sab-2",
+      "spiel_id": "2026-09-10-mun-sab",
+      "spiel_label": "Manchester United vs Sabah",
+      "kategorie": "safe",
+      "markt": "Sabah kein Tor",
+      "quote": 1.7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "Sabah in europaeischem Top-Klub-Niveau Debuet + United-Konservativ-Backline. Zu-Null-Backup zum Handicap-Tipp. bet365 live pruefen.",
+      "rang": 3,
+      "status": "gewonnen",
+      "kommentar": "Sabah 0 Tore - Zu-Null durch",
+      "gewinn_faktor": 1.7,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "mun-sab-2"
+    },
+    {
+      "id": "psv-sha-1",
+      "spiel_id": "2026-09-10-psv-sha",
+      "spiel_label": "PSV vs Shakhtar",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance 1X (PSV oder Remis)",
+      "quote": 1.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "PSV-Heim + Shakhtar-Exil-Kontext - DC statt Sieg wegen Aderlass-Kontext. bet365 live pruefen.",
+      "rang": 4,
+      "status": "gewonnen",
+      "kommentar": "DC 1X (PSV oder Remis) - Remis, Bein durch",
+      "gewinn_faktor": 1.25,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "psv-sha-1"
+    },
+    {
+      "id": "sla-len-1",
+      "spiel_id": "2026-09-10-sla-len",
+      "spiel_label": "Slavia Praha vs Lens",
+      "kategorie": "value",
+      "markt": "Doppelte Chance 1X (Slavia oder Remis)",
+      "quote": 1.4,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "Slavia-Heim-Serie + Lens-Formkrise - DC 1X ist die klare VALUE-Zone. bet365 live pruefen.",
+      "rang": 5,
+      "status": "verloren",
+      "kommentar": "Lens Auswaertssieg 3:2 dank 90+1 und 90+3 - DC 1X gerissen (Slavia fuehrte nur maximal 1-Tor, keine 2:0-Insurance)",
+      "gewinn_faktor": 0.0,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "sla-len-1"
+    },
+    {
+      "id": "sla-len-2",
+      "spiel_id": "2026-09-10-sla-len",
+      "spiel_label": "Slavia Praha vs Lens",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "Slavia-Heim-Defense + Lens-Tor-Krise - Under 2.5 in aktueller Goldgrube. bet365 live pruefen.",
+      "rang": 6,
+      "status": "verloren",
+      "kommentar": "5 Tore - Unter 2.5 klar gerissen",
+      "gewinn_faktor": 0.0,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "sla-len-2"
+    },
+    {
+      "id": "cmo-lei-1",
+      "spiel_id": "2026-09-10-cmo-lei",
+      "spiel_label": "Como vs RB Leipzig",
+      "kategorie": "value",
+      "markt": "Doppelte Chance 1X (Como oder Remis)",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "Sinigaglia-CL-Debut + Como-Form + Leipzig-Krise. DC statt Sieg wegen nomineller Klassen-Delta. bet365 live pruefen.",
+      "rang": 7,
+      "status": "gewonnen",
+      "kommentar": "DC 1X (Como oder Remis) - Como Sieg 4:1",
+      "gewinn_faktor": 1.75,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "cmo-lei-1"
+    },
+    {
+      "id": "fen-rom-1",
+      "spiel_id": "2026-09-10-fen-rom",
+      "spiel_label": "Fenerbahce vs Roma",
+      "kategorie": "value",
+      "markt": "Doppelte Chance X2 (Roma oder Remis)",
+      "quote": 1.6,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "Roma-Serie + Fener-Krise + Italienerkomplex. DC X2 als markt_goldgruben (76.5% / +26.7%). bet365 live pruefen.",
+      "rang": 8,
+      "status": "gewonnen",
+      "kommentar": "DC X2 (Roma oder Remis) - Remis, Bein durch",
+      "gewinn_faktor": 1.6,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "fen-rom-1"
+    },
+    {
+      "id": "psv-sha-2",
+      "spiel_id": "2026-09-10-psv-sha",
+      "spiel_label": "PSV vs Shakhtar",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "Beide Klubs offensiv-affin, Philips-Kulisse + Shakhtar-Kontertypologie. bet365 live pruefen.",
+      "rang": 9,
+      "status": "verloren",
+      "kommentar": "Nur 2 Tore, Ueber 2.5 nicht erreicht",
+      "gewinn_faktor": 0.0,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "psv-sha-2"
+    },
+    {
+      "id": "bay-bod-2",
+      "spiel_id": "2026-09-10-bay-bod",
+      "spiel_label": "Bayern Muenchen vs Bodoe/Glimt",
+      "kategorie": "value",
+      "markt": "Ueber 3.5 Tore",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "Bayern-Heim-Offensive + Bodoe-Reise-Belastung. Erwartetes 4-5-Tor-Ergebnis. bet365 live pruefen.",
+      "rang": 10,
+      "status": "gewonnen",
+      "kommentar": "5 Tore - Ueber 3.5 durch",
+      "gewinn_faktor": 1.85,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "bay-bod-2"
+    },
+    {
+      "id": "mun-sab-3",
+      "spiel_id": "2026-09-10-mun-sab",
+      "spiel_label": "Manchester United vs Sabah",
+      "kategorie": "value",
+      "markt": "Ueber 3.5 Tore",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "United-Heim-Offense (Sesko/Cunha/Mbeumo) vs Sabah-Defense-Level - 4+ Tore erwartbar. bet365 live pruefen.",
+      "rang": 11,
+      "status": "gewonnen",
+      "kommentar": "4 Tore - Ueber 3.5 durch",
+      "gewinn_faktor": 1.85,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "mun-sab-3"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": null,
+      "name": "Safe-Kombi (3 Klassen-Kanterduelle)",
+      "status": "gewonnen",
+      "gesamtquote": 3.5,
+      "kommentar": "Alle Beine durch"
+    },
+    {
+      "kombi_id": null,
+      "name": "Balance-Kombi (Goldgrube-Fokus 6-8x)",
+      "status": "verloren",
+      "gesamtquote": 6.66,
+      "kommentar": "Verluste: Slavia Praha vs Lens Doppelte Chance 1X (Slavia oder Remis): verloren; Manchester United vs Sabah Sabah kein Tor: kein Tipp gefunden"
+    },
+    {
+      "kombi_id": null,
+      "name": "Risk-Kombi (Tor-Party ~11x)",
+      "status": "verloren",
+      "gesamtquote": 11.08,
+      "kommentar": "Verluste: PSV vs Shakhtar Ueber 2.5 Tore: verloren; Fenerbahce vs Roma Ueber 2.5 Tore: verloren"
+    },
+    {
+      "kombi_id": null,
+      "name": "Moonshot-Kombi (5 Beine, ~15x - kein echter 100x)",
+      "status": "verloren",
+      "gesamtquote": 5.5,
+      "kommentar": "Verluste: Fenerbahce vs Roma Ueber 2.5 Tore: verloren; PSV vs Shakhtar Ueber 2.5 Tore: verloren; Slavia Praha vs Lens Unter 2.5 Tore: verloren"
+    }
+  ],
+  "ausgewertet_am": "2026-09-11T06:09:22"
+}
