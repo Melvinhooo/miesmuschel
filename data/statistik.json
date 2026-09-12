@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-09-11T06:13:21+00:00",
+  "letzte_berechnung": "2026-09-12T06:09:48+00:00",
   "gesamt": {
-    "tipps": 419,
-    "gewonnen": 217,
-    "verloren": 190,
+    "tipps": 427,
+    "gewonnen": 223,
+    "verloren": 192,
     "push": 1,
     "offen": 11,
-    "einsatz": 408.0,
-    "netto": 61.79,
-    "trefferquote": 53.3,
-    "roi_prozent": 15.1
+    "einsatz": 416.0,
+    "netto": 71.12,
+    "trefferquote": 53.7,
+    "roi_prozent": 17.1
   },
   "letzte_30_tage": {
     "tipps": 118,
-    "gewonnen": 63,
-    "verloren": 44,
+    "gewonnen": 64,
+    "verloren": 43,
     "push": 0,
     "offen": 11,
     "einsatz": 107.0,
-    "netto": 55.91,
-    "trefferquote": 58.9,
-    "roi_prozent": 52.3
+    "netto": 65.24,
+    "trefferquote": 59.8,
+    "roi_prozent": 61.0
   },
   "letzte_90_tage": {
-    "tipps": 406,
-    "gewonnen": 214,
-    "verloren": 180,
+    "tipps": 408,
+    "gewonnen": 217,
+    "verloren": 179,
     "push": 1,
     "offen": 11,
-    "einsatz": 395.0,
-    "netto": 68.77,
-    "trefferquote": 54.3,
-    "roi_prozent": 17.4
+    "einsatz": 397.0,
+    "netto": 71.72,
+    "trefferquote": 54.8,
+    "roi_prozent": 18.1
   },
   "nach_liga": {
     "NBA Playoffs - Finals Game 3": {
@@ -1100,6 +1100,39 @@
       "netto": 13.35,
       "trefferquote": 72.7,
       "roi_prozent": 121.4
+    },
+    "2. Bundesliga - 5. Spieltag": {
+      "tipps": 4,
+      "gewonnen": 3,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 5.08,
+      "trefferquote": 75.0,
+      "roi_prozent": 127.0
+    },
+    "EFL Championship - Matchday 7": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 2.95,
+      "trefferquote": 100.0,
+      "roi_prozent": 147.5
+    },
+    "LaLiga Hypermotion - Jornada 5": {
+      "tipps": 2,
+      "gewonnen": 1,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 1.3,
+      "trefferquote": 50.0,
+      "roi_prozent": 65.0
     }
   },
   "nach_markt": {
@@ -1775,15 +1808,15 @@
       "roi_prozent": 0.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 24,
-      "gewonnen": 10,
+      "tipps": 26,
+      "gewonnen": 12,
       "verloren": 12,
       "push": 0,
       "offen": 2,
-      "einsatz": 22.0,
-      "netto": 3.0,
-      "trefferquote": 45.5,
-      "roi_prozent": 13.6
+      "einsatz": 24.0,
+      "netto": 6.7,
+      "trefferquote": 50.0,
+      "roi_prozent": 27.9
     },
     "Vinicius Junior trifft jederzeit": {
       "tipps": 2,
@@ -1819,15 +1852,15 @@
       "roi_prozent": -100.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 21,
+      "tipps": 22,
       "gewonnen": 16,
-      "verloren": 5,
+      "verloren": 6,
       "push": 0,
       "offen": 0,
-      "einsatz": 21.0,
+      "einsatz": 22.0,
       "netto": 8.61,
-      "trefferquote": 76.2,
-      "roi_prozent": 41.0
+      "trefferquote": 72.7,
+      "roi_prozent": 39.1
     },
     "Marokko zu Null": {
       "tipps": 1,
@@ -2105,15 +2138,15 @@
       "roi_prozent": 73.0
     },
     "Beide Teams treffen JA": {
-      "tipps": 7,
-      "gewonnen": 3,
+      "tipps": 8,
+      "gewonnen": 4,
       "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 7.0,
-      "netto": 2.1,
-      "trefferquote": 42.9,
-      "roi_prozent": 30.0
+      "einsatz": 8.0,
+      "netto": 3.95,
+      "trefferquote": 50.0,
+      "roi_prozent": 49.4
     },
     "Kai Havertz trifft jederzeit": {
       "tipps": 1,
@@ -3720,6 +3753,50 @@
       "netto": 3.7,
       "trefferquote": 100.0,
       "roi_prozent": 185.0
+    },
+    "Doppelte Chance 1X (Nuernberg oder Remis)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.28,
+      "trefferquote": 100.0,
+      "roi_prozent": 128.0
+    },
+    "Doppelte Chance 1X (West Ham oder Remis)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.2,
+      "trefferquote": 100.0,
+      "roi_prozent": 120.0
+    },
+    "Doppelte Chance X2 (Bielefeld oder Remis)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Doppelte Chance 1X (Burgos oder Remis)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 130.0
     }
   },
   "nach_markt_typ": {
@@ -3779,15 +3856,15 @@
       "roi_prozent": -100.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 27,
+      "tipps": 28,
       "gewonnen": 19,
-      "verloren": 8,
+      "verloren": 9,
       "push": 0,
       "offen": 0,
-      "einsatz": 27.0,
+      "einsatz": 28.0,
       "netto": 9.03,
-      "trefferquote": 70.4,
-      "roi_prozent": 33.4
+      "trefferquote": 67.9,
+      "roi_prozent": 32.2
     },
     "Torschuetzen Jederzeit": {
       "tipps": 70,
@@ -3812,37 +3889,37 @@
       "roi_prozent": 24.8
     },
     "Ueber 2.5 Tore": {
-      "tipps": 32,
-      "gewonnen": 16,
+      "tipps": 34,
+      "gewonnen": 18,
       "verloren": 14,
       "push": 0,
       "offen": 2,
-      "einsatz": 30.0,
-      "netto": 6.35,
-      "trefferquote": 53.3,
-      "roi_prozent": 21.2
+      "einsatz": 32.0,
+      "netto": 10.05,
+      "trefferquote": 56.2,
+      "roi_prozent": 31.4
     },
     "Doppelte Chance X2": {
-      "tipps": 35,
+      "tipps": 36,
       "gewonnen": 27,
-      "verloren": 8,
+      "verloren": 9,
       "push": 0,
       "offen": 0,
-      "einsatz": 35.0,
+      "einsatz": 36.0,
       "netto": 10.67,
-      "trefferquote": 77.1,
-      "roi_prozent": 30.5
+      "trefferquote": 75.0,
+      "roi_prozent": 29.6
     },
     "Doppelte Chance 1X": {
-      "tipps": 19,
-      "gewonnen": 13,
+      "tipps": 22,
+      "gewonnen": 16,
       "verloren": 6,
       "push": 0,
       "offen": 0,
-      "einsatz": 19.0,
-      "netto": 4.96,
-      "trefferquote": 68.4,
-      "roi_prozent": 26.1
+      "einsatz": 22.0,
+      "netto": 8.74,
+      "trefferquote": 72.7,
+      "roi_prozent": 39.7
     },
     "Unter 3.5 Tore": {
       "tipps": 3,
@@ -3900,15 +3977,15 @@
       "roi_prozent": 75.0
     },
     "Beide Teams treffen JA": {
-      "tipps": 34,
-      "gewonnen": 19,
+      "tipps": 35,
+      "gewonnen": 20,
       "verloren": 15,
       "push": 0,
       "offen": 0,
-      "einsatz": 34.0,
-      "netto": 3.03,
-      "trefferquote": 55.9,
-      "roi_prozent": 8.9
+      "einsatz": 35.0,
+      "netto": 4.88,
+      "trefferquote": 57.1,
+      "roi_prozent": 13.9
     },
     "Argentinien gewinnt (Sieg 1)": {
       "tipps": 1,
@@ -4089,26 +4166,26 @@
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 177,
-      "gewonnen": 91,
-      "verloren": 84,
+      "tipps": 181,
+      "gewonnen": 94,
+      "verloren": 85,
       "push": 0,
       "offen": 2,
-      "einsatz": 175.0,
-      "netto": 35.51,
-      "trefferquote": 52.0,
-      "roi_prozent": 20.3
+      "einsatz": 179.0,
+      "netto": 41.06,
+      "trefferquote": 52.5,
+      "roi_prozent": 22.9
     },
     "1.00-1.50": {
-      "tipps": 166,
-      "gewonnen": 103,
-      "verloren": 55,
+      "tipps": 170,
+      "gewonnen": 106,
+      "verloren": 56,
       "push": 1,
       "offen": 7,
-      "einsatz": 159.0,
-      "netto": 22.41,
-      "trefferquote": 65.2,
-      "roi_prozent": 14.1
+      "einsatz": 163.0,
+      "netto": 26.19,
+      "trefferquote": 65.4,
+      "roi_prozent": 16.1
     },
     "2.00-3.00": {
       "tipps": 59,
@@ -4135,26 +4212,26 @@
   },
   "nach_kategorie": {
     "value": {
-      "tipps": 248,
-      "gewonnen": 131,
-      "verloren": 112,
+      "tipps": 250,
+      "gewonnen": 132,
+      "verloren": 113,
       "push": 1,
       "offen": 4,
-      "einsatz": 244.0,
-      "netto": 33.86,
+      "einsatz": 246.0,
+      "netto": 35.14,
       "trefferquote": 53.9,
-      "roi_prozent": 13.9
+      "roi_prozent": 14.3
     },
     "wackel": {
-      "tipps": 95,
-      "gewonnen": 37,
-      "verloren": 58,
+      "tipps": 101,
+      "gewonnen": 42,
+      "verloren": 59,
       "push": 0,
       "offen": 0,
-      "einsatz": 95.0,
-      "netto": -1.84,
-      "trefferquote": 38.9,
-      "roi_prozent": -1.9
+      "einsatz": 101.0,
+      "netto": 6.21,
+      "trefferquote": 41.6,
+      "roi_prozent": 6.1
     },
     "safe": {
       "tipps": 73,
@@ -4214,15 +4291,15 @@
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 419,
-      "gewonnen": 217,
-      "verloren": 190,
+      "tipps": 427,
+      "gewonnen": 223,
+      "verloren": 192,
       "push": 1,
       "offen": 11,
-      "einsatz": 408.0,
-      "netto": 61.79,
-      "trefferquote": 53.3,
-      "roi_prozent": 15.1
+      "einsatz": 416.0,
+      "netto": 71.12,
+      "trefferquote": 53.7,
+      "roi_prozent": 17.1
     },
     "kasse": {
       "name": "2026/27",
@@ -4259,21 +4336,241 @@
         "start": "2026-08-22",
         "ende": "2027-06-30",
         "bilanz": {
-          "tipps": 53,
-          "gewonnen": 37,
-          "verloren": 16,
+          "tipps": 61,
+          "gewonnen": 43,
+          "verloren": 18,
           "push": 0,
           "offen": 0,
-          "einsatz": 53.0,
-          "netto": 59.04,
-          "trefferquote": 69.8,
-          "roi_prozent": 111.4
+          "einsatz": 61.0,
+          "netto": 68.37,
+          "trefferquote": 70.5,
+          "roi_prozent": 112.1
         },
         "ist_aktuell": true
       }
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-09-11",
+      "gesamt": {
+        "tipps": 8,
+        "gewonnen": 6,
+        "verloren": 2,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 8.0,
+        "netto": 9.33,
+        "trefferquote": 75.0,
+        "roi_prozent": 116.6
+      },
+      "spiele": [
+        {
+          "id": "2026-09-11-nue-h96",
+          "liga": "2. Bundesliga - 5. Spieltag",
+          "heim": "1. FC Nuernberg",
+          "gast": "Hannover 96",
+          "endstand": "2:1",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance 1X (Nuernberg oder Remis)",
+              "quote": 1.28,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.28,
+              "kommentar": "DC 1X (Nuernberg oder Remis) - Nuernberg gewinnt 2:1, Bein durch. Keine 2:0-Insurance (2.BL keine Hauptliga)."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.95,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.95,
+              "kommentar": "Ueber 2.5 - 3 Tore (Justvan 5., Gindorf 7., Zoma 65.)"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-11-svd-dsc",
+          "liga": "2. Bundesliga - 5. Spieltag",
+          "heim": "SV Darmstadt 98",
+          "gast": "DSC Arminia Bielefeld",
+          "endstand": "2:1",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance X2 (Bielefeld oder Remis)",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "DC X2 (Bielefeld oder Remis) verfehlt - Darmstadt gewinnt zuhause 2:1 dank Spaettreffer Smit (86. Elfmeter)."
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.85,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.85,
+              "kommentar": "BTTS JA - Lee (3.) fuer Darmstadt, Woerl (59.) fuer Bielefeld."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-11-whu-wre",
+          "liga": "EFL Championship - Matchday 7",
+          "heim": "West Ham United",
+          "gast": "Wrexham AFC",
+          "endstand": "6:0",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance 1X (West Ham oder Remis)",
+              "quote": 1.2,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.2,
+              "kommentar": "DC 1X - West Ham gewinnt klar 6:0."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.75,
+              "kommentar": "Ueber 2.5 - 6 Tore (Bowen 28., Piroe 37., Mavropanos 48., Castellanos 63., Kante 76., Solomon 82.)."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-11-bur-ceu",
+          "liga": "LaLiga Hypermotion - Jornada 5",
+          "heim": "Burgos CF",
+          "gast": "AD Ceuta FC",
+          "endstand": "3:1",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance 1X (Burgos oder Remis)",
+              "quote": 1.3,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.3,
+              "kommentar": "DC 1X - Burgos gewinnt 3:1."
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Unter 2.5 verfehlt - 4 Tore (Hernandez 14., Dadie 20., Karrikaburu 48., Redruello-Eigentor 82.)."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Trio DC-Favoriten",
+          "kategorie": "safe",
+          "gesamtquote": 2.0,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Doppelte Chance 1X (Nuernberg oder Remis)",
+              "quote": 1.28,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance 1X (West Ham oder Remis)",
+              "quote": 1.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance 1X (Burgos oder Remis)",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Trio Underdog-DC + Tor-Total + BTTS",
+          "kategorie": "balance",
+          "gesamtquote": 4.78,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Doppelte Chance X2 (Bielefeld oder Remis)",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.95,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risk-Trio BTTS-Doppel + Unter-2.5",
+          "kategorie": "risk",
+          "gesamtquote": 5.66,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot Auswaerts-Ueberraschung + 2x Ueber 3.5",
+          "kategorie": "moonshot",
+          "gesamtquote": 9.8,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 2.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-09-10",
       "gesamt": {
