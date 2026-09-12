@@ -1,489 +1,743 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
-  "datum": "2026-09-11",
-  "erstellt_am": "2026-09-11T14:35:00+02:00",
-  "hinweis": "Watchdog-Recovery Mo-Fr (14:30 Berlin). Freitag ist ein magerer Spieltag - keine Hauptligen (BL/PL/LaLiga/SerieA/Ligue1) und kein Europapokal. Bespielt werden 2 Freitagabend-Spiele der 2. Bundesliga, 1 Championship-Freitagsspiel West Ham-Wrexham (Nuno-Espirito-Santo-Ex-Coach fuer Nottingham Forest jetzt West Ham? -> live pruefen, das Preview nannte Nuno) sowie 1 Segunda-Division-Freitagsspiel Burgos-Ceuta. Alles Nicht-Goldgruben-Ligen laut liga_goldgruben.json - deshalb KEIN SAFE-DC, alles max VALUE, Torschuetzen-Tipps sicherheitshalber ausgelassen (Squad-Verifikation in 2.BL/Championship/Segunda ohne kicker-Live-Feed zu wackelig - Adeyemi-Lehre 22.08.). Kasse 1000€, Stufe 1 aktiv. Quoten immer bei bet365 live pruefen.",
+  "datum": "2026-09-12",
+  "erstellt_am": "2026-09-12T10:15:00+02:00",
+  "hinweis": "Samstags-Slate: 3. BL-Spieltag (5x 15:30, Köln-Bremen 18:30), PL-Matchday 4 (Anfield 16:00, Sunderland-Arsenal Primetime 21:00), LaLiga J5 (Bernabéu 21:00), Serie A G4 (Lazio-Milan 18:00). Kasse 1000€, Stufe 1 (Aufbau) - Einzel 10-20€ SAFE/VALUE, 5€ Wackel, Kombis 2%/0.8%/0.25%/0.1%. Quoten bei bet365 live prüfen.",
   "spiele": [
     {
-      "id": "2026-09-11-nue-h96",
-      "liga": "2. Bundesliga - 5. Spieltag",
-      "heim": "1. FC Nuernberg",
-      "gast": "Hannover 96",
-      "anstoss": "2026-09-11T18:30:00+02:00",
-      "stadion": "Max-Morlock-Stadion, Nuernberg",
+      "id": "2026-09-12-bvb-pad",
+      "liga": "Bundesliga - 3. Spieltag",
+      "heim": "Borussia Dortmund",
+      "gast": "SC Paderborn 07",
+      "anstoss": "2026-09-12T15:30:00+02:00",
+      "stadion": "Signal Iduna Park, Dortmund",
       "saison_kontext": {
-        "parallel_heim": "keine - 2.BL exklusiv, kein Pokal/Europapokal diese Woche",
-        "parallel_gast": "keine - 2.BL exklusiv, kein Pokal/Europapokal diese Woche",
-        "saisonziel_heim": "2.BL-Aufstieg. Aktuell Platz 2 mit 10 Pkt nach 4 Spielen, ungeschlagen. Trainer Miroslav Klose in seiner ersten Trainer-Saison.",
-        "saisonziel_gast": "Aufstiegs-Ambitionen dampften nach Fehlstart. Platz 13 mit 4 Pkt aus 4 Spielen unter Trainer Titz.",
-        "motivations_asymmetrie": "Nuernberg ist klarer Heim-Favorit (ungeschlagen + Tabellenspitze + Klose-Euphorie), Hannover kaempft im Tabellen-Mittelfeld mit Formkrise. Klassenhoehe momentum-technisch klar zugunsten Nuernberg, aber 2.BL-Ausgeglichenheit erlaubt keinen SAFE.",
-        "recovery_heim": "7 Tage seit letztem 2.BL-Spiel (regulaerer Wochenrhythmus)",
-        "recovery_gast": "7 Tage seit letztem 2.BL-Spiel (regulaerer Wochenrhythmus)",
+        "parallel_heim": "CL Ligaphase startet Mitte September - BVB midweek in Villarreal 3:2 gewonnen (Dienstag), aber vor dem nächsten CL-Termin genug Zeit zum Regenerieren",
+        "parallel_gast": "keine - Aufsteiger, nur Liga + DFB-Pokal",
+        "saisonziel_heim": "3. Platz, 6 Pkt aus 2 Spielen - CL-Fixplatz + Meisterschaftsanschluss",
+        "saisonziel_gast": "17. Platz, 1 Pkt aus 2 Spielen (0:0 Mainz, 0:1 Freiburg) - Klassenerhalt, noch ohne BL-Tor",
+        "motivations_asymmetrie": "Klare Asymmetrie: Aufsteiger ohne Tor gegen einen BVB der aus 4 Pflichtspielen 4 Siege geholt hat und in Guirassy den formstärksten Stürmer der Liga stellt. Klassisches Heimfavoriten-Setup, wenig Rotation zu erwarten weil CL-Match schon Dienstag durch war.",
+        "recovery_heim": "4 Tage seit CL-Sieg 3:2 in Villarreal - ausreichende Regeneration für die Stammelf",
+        "recovery_gast": "6 Tage seit 0:1 gegen Freiburg - frisch, aber ohne Selbstvertrauen",
         "quellen": [
-          "https://www.baykusen.de/fc-nuernberg-gegen-hannover-96-aufstellungen-zum-spiel/",
-          "https://ratingbet.com/predictions/nurnberg-vs-hannover-prediction-expert-analysis-possible-lineups-september-11-2026/",
-          "https://www.wetttippsheute.net/1-fc-nuernberg-hannover-96-tipp-quoten-prognose-2-bundesliga-11-09-2026/"
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.bundesliga.com/en/bundesliga/table",
+          "https://ca.sports.yahoo.com/news/preview-borussia-dortmund-vs-sc-084600764.html"
         ]
       },
       "news": [
-        "Nuernberg Platz 2 mit 10 Pkt aus 4 Spielen, ungeschlagen",
-        "Hannover Platz 13 mit 4 Pkt aus 4 Spielen, unregelmaessig",
-        "Trainer Miroslav Klose (Nuernberg) vs Trainer Titz (Hannover)",
-        "Anstoss 18:30 Berlin live auf Sky"
+        "BVB nach 3:2 in Villarreal in Top-Form (4 Pflichtsiege in Serie)",
+        "Guirassy 4 Tore in letzten 3 Pflichtspielen inkl. Doppelpack im CL-Spiel",
+        "Paderborn nach 0 Toren in 2 BL-Spielen (0:0 Mainz, 0:1 Freiburg)"
       ],
       "tipps": [
         {
-          "id": "nue-h96-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance 1X (Nuernberg oder Remis)",
-          "quote": 1.28,
-          "edge_prozent": 5.0,
-          "begruendung": "Nuernberg ungeschlagen + Tabellenzweiter zu Hause vs formschwacher 13. Hannover. DC 1X packt den Klassen-Vorsprung ohne das Ueberraschungs-Auswaerts-Risiko. 2.BL ist Nicht-Goldgruben-Liga, deshalb kein SAFE-Upgrade sondern VALUE. Stake 1.5% = 15€ bei 1000€ Kasse.",
-          "faire_quote": 1.22,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "nue-h96-2",
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.95,
-          "edge_prozent": 4.0,
-          "begruendung": "Ueber 2.5 ist Markt-Goldgrube (70.4% / +33.4% ROI laut markt_goldgruben.json). Hannover ist mit 4 Pkt kein defensiv-stabiler Gast, Nuernberg schoss unter Klose bislang zuverlaessig. Kann-muss-nicht (2.BL taktisch oft zaeher als Liga-Titles suggerieren). Stake 0.5% = 5€.",
-          "faire_quote": 1.85,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "nue-h96-3",
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.75,
-          "edge_prozent": 3.0,
-          "begruendung": "Hannover trifft in 2.BL 2026/27 in 3 von 4 Spielen (schwaches Kollektiv, aber Torgefahr per Sahiti/Taibi vorhanden). Nuernberg zu Hause offensiv-stabil. Wackel-Absicherung zum DC-Tipp. Stake 0.5% = 5€.",
-          "faire_quote": 1.7,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-09-11-svd-dsc",
-      "liga": "2. Bundesliga - 5. Spieltag",
-      "heim": "SV Darmstadt 98",
-      "gast": "DSC Arminia Bielefeld",
-      "anstoss": "2026-09-11T18:30:00+02:00",
-      "stadion": "Merck-Stadion am Boellenfalltor, Darmstadt",
-      "saison_kontext": {
-        "parallel_heim": "keine - 2.BL exklusiv, kein Pokal/Europapokal diese Woche",
-        "parallel_gast": "keine - 2.BL exklusiv, kein Pokal/Europapokal diese Woche",
-        "saisonziel_heim": "Klassenerhalt / stabile Saison nach Bundesliga-Abstieg 2024. Aktuell Tabellen-Letzter mit 1 Pkt aus 4 Spielen (0 Siege, 1 Remis, 3 Niederlagen, Torverhaeltnis 2:7).",
-        "saisonziel_gast": "Etablierung nach Aufstieg (Meister 3. Liga 2025/26). 1 Sieg aus 4 Spielen, aber offensive Feuerkraft: 8 Tore in den letzten 5 Pflichtspielen.",
-        "motivations_asymmetrie": "Darmstadt in akuter Fruehkrise (Trainer-Diskussion + 3 Niederlagen), Bielefeld frisch aufgestiegen mit Feuer im Sturm. Motivations-Edge liegt bei Bielefeld, aber Heimvorteil und Angst-vor-Abstieg-Reaktion machen den Home-Underdog moeglich. Klarer WACKEL-Charakter - kein SAFE moeglich.",
-        "recovery_heim": "7 Tage seit letztem 2.BL-Spiel (regulaerer Wochenrhythmus)",
-        "recovery_gast": "7 Tage seit letztem 2.BL-Spiel (regulaerer Wochenrhythmus)",
-        "quellen": [
-          "https://tips.gg/article/darmstadt-98-vs-arminia-bielefeld-11-09-2026/",
-          "https://www.wetttippsheute.net/sv-darmstadt-arminia-bielefeld-tipp-quoten-prognose-2-bundesliga-11-09-2026/",
-          "https://dailysports.net/predictions/darmstadt-vs-arminia-bielefeld-battle-to-escape-the-lower-ranks-september-11-2026/"
-        ]
-      },
-      "news": [
-        "Darmstadt Tabellen-Letzter mit 1 Pkt aus 4 Spielen, Torverhaeltnis 2:7",
-        "Bielefeld mit 1 Sieg aus 4, aber 8 Tore in letzten 5 Pflichtspielen",
-        "Joel Grodowski (Bielefeld) 5 Tore in letzten 4 Spielen - Volumen-Torschuetze",
-        "Kein 'Aufstieg-vs-Aufstieg', beide unten - Kelleroel"
-      ],
-      "tipps": [
-        {
-          "id": "svd-dsc-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance X2 (Bielefeld oder Remis)",
-          "quote": 1.4,
-          "edge_prozent": 6.0,
-          "begruendung": "Bielefeld hat die bessere Momentum-Story (8 Tore in 5 Spielen, Grodowski in Form), Darmstadt schlittert in eine Krise (Torverhaeltnis 2:7, Letzter). DC X2 ist Markt-Goldgrube (77.1% / +30.5% ROI). VALUE statt SAFE weil 2.BL keine Goldgruben-Liga und Darmstadt-Heim-Reaktion moeglich. Stake 1.5% = 15€.",
-          "faire_quote": 1.32,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "svd-dsc-2",
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.85,
-          "edge_prozent": 4.0,
-          "begruendung": "Bielefeld hat Sturm-Feuer (Grodowski), Darmstadt schafft es 2:7 als Torverhaeltnis in 4 Spielen zu haben - Zu-Null-Wahrscheinlichkeit fuer Bielefeld gering. BTTS als Hedge zum DC-X2. Stake 0.5% = 5€.",
-          "faire_quote": 1.75,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-09-11-whu-wre",
-      "liga": "EFL Championship - Matchday 7",
-      "heim": "West Ham United",
-      "gast": "Wrexham AFC",
-      "anstoss": "2026-09-11T21:00:00+02:00",
-      "stadion": "London Stadium, London",
-      "saison_kontext": {
-        "parallel_heim": "keine - Championship exklusiv (kein FA Cup Round bis November, kein Europapokal nach Absteiger-Saison)",
-        "parallel_gast": "keine - Championship exklusiv, kein EFL-Cup diese Woche",
-        "saisonziel_heim": "Direkter Wiederaufstieg PL 2027/28 (Aufstiegsplaetze 1-2). Aktuell 3 Siege in Folge, punkt-gleich mit Tabellenfuehrer West Bromwich. Bei Sieg heute Tabellenspitze.",
-        "saisonziel_gast": "Etablierung nach Aufstieg aus League One 2024/25. 1 Sieg + 4 Remis + 1 Niederlage aus 6 Spielen = Platz 14. Zufrieden mit Klassenerhalt.",
-        "motivations_asymmetrie": "Krasser Klassen- und Formunterschied: West Ham auf Aufstiegskurs vs Wrexham als Aufsteiger mit Remis-Serie. West Ham ist ohne Castellanos+Soucek (verletzt) angetreten, aber Piroe+Pablo-Felipe-Duo hat 10 Tore in 3 Spielen geschossen. Heim-Favorit klar, aber kein SAFE weil Championship keine Goldgruben-Liga.",
-        "recovery_heim": "7 Tage seit letztem Championship-Spiel (regulaerer Rhythmus)",
-        "recovery_gast": "7 Tage seit letztem Championship-Spiel (regulaerer Rhythmus)",
-        "quellen": [
-          "https://sports.yahoo.com/articles/west-ham-vs-wrexham-predicted-084500133.html",
-          "https://www.si.com/soccer/west-ham-vs-wrexham-predictions-lineups-tv-live-stream-details-9-11-26",
-          "https://thehardtackle.com/round-up/2026/09/11/west-ham-united-vs-wrexham-preview-prediction-probable-lineups-tactics-team-news-key-stats/"
-        ]
-      },
-      "news": [
-        "West Ham 3 Championship-Siege in Folge, 10 Tore in 3 Spielen (Wolves, Derby, Bolton)",
-        "West Ham ohne Castellanos + Soucek (beide verletzt), Piroe/Pablo Felipe im Sturm",
-        "Wrexham 14., 1 Sieg + 4 Remis aus 6 Spielen - Remis-Serie",
-        "London Stadium ausverkauft, Sky Sports Freitagabend-Feature-Spiel"
-      ],
-      "tipps": [
-        {
-          "id": "whu-wre-1",
-          "kategorie": "wackel",
-          "markt": "Doppelte Chance 1X (West Ham oder Remis)",
-          "quote": 1.2,
-          "edge_prozent": 4.0,
-          "begruendung": "West Ham 3 Siege + 10 Tore in Serie, Wrexham hat noch keinen Auswaertssieg in dieser Saison + 4 Remis. DC 1X ist Markt-Goldgrube (68.4% / +ROI laut markt_goldgruben.json). VALUE statt SAFE weil Championship keine Goldgruben-Liga. Stake 1.5% = 15€.",
-          "faire_quote": 1.15,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "whu-wre-2",
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.75,
-          "edge_prozent": 4.0,
-          "begruendung": "West Ham 10 Tore in 3 Spielen (Piroe/Pablo Felipe Duo). Wrexham hat in 4 seiner 6 Spiele Remis mit Toren gespielt - keine Zu-Null-Katakombe. Ueber 2.5 ist Markt-Goldgrube (70.4% / +33.4% ROI). Wackel weil Wrexham Auswaerts oft defensiv-kompakt. Stake 0.5% = 5€.",
-          "faire_quote": 1.65,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "whu-wre-3",
-          "kategorie": "wackel",
-          "markt": "West Ham gewinnt mit Handicap -1 (asiatisch)",
-          "quote": 1.9,
-          "edge_prozent": 3.0,
-          "begruendung": "West Ham hat 10 Tore in 3 Spielen geschossen, Wrexham als 14. keine echte Auswaerts-Klasse. Handicap -1 packt den erwarteten 2-Tore-Sieg ein. Wackel weil Championship-Underdogs oft ueberraschen und Handicap-Ausrutscher moeglich. Stake 0.5% = 5€.",
-          "faire_quote": 1.8,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "WARN_QUELLE"
-    },
-    {
-      "id": "2026-09-11-bur-ceu",
-      "liga": "LaLiga Hypermotion - Jornada 5",
-      "heim": "Burgos CF",
-      "gast": "AD Ceuta FC",
-      "anstoss": "2026-09-11T20:30:00+02:00",
-      "stadion": "El Plantio, Burgos",
-      "saison_kontext": {
-        "parallel_heim": "keine - Segunda exklusiv, Copa del Rey Rueckrunde erst Oktober/November",
-        "parallel_gast": "keine - Segunda exklusiv, Copa del Rey Rueckrunde erst Oktober/November",
-        "saisonziel_heim": "Sportliche Konsolidierung nach 2. Aufstiegs-Saison in Folge angemeldet. Trainer Sergio Francisco setzt auf Kontinuitaet (gleiche Startelf), 1 Sieg + 1 Remis + 2 Niederlagen aus 4 Spielen.",
-        "saisonziel_gast": "Klassenerhalt fuer den Segunda-Aufsteiger. 0 Punkte aus 4 Spielen - kompletter Fehlstart, muss reagieren.",
-        "motivations_asymmetrie": "Burgos leichter Heim-Favorit gegen den einzigen noch punktlosen Klub der Liga, Ceuta unter Druck zu reagieren. Klarer Klassen- und Momentum-Edge fuer Burgos, aber Segunda ist Nicht-Goldgruben-Liga und Burgos hat selber schwankende Form - kein SAFE moeglich.",
-        "recovery_heim": "7 Tage seit letztem Segunda-Spiel (regulaerer Rhythmus)",
-        "recovery_gast": "7 Tage seit letztem Segunda-Spiel (regulaerer Rhythmus)",
-        "quellen": [
-          "https://teleceuta.com/burgos-cf-vs-ad-ceuta-de-laliga-hypermotion-horario-y-opciones-para-seguir-el-partido/",
-          "https://www.betfair.es/blog/futbol/futbol-espanol/segunda-division/burgos-cf---ad-ceuta-alineaciones-horario-donde-ver-pronosticos-y-estadisticas-090926-1245.html",
-          "https://agentelibredigital.com/index.php/2026/09/11/previa-burgos-cf-ad-ceuta-duelo-clave-para-despertar/"
-        ]
-      },
-      "news": [
-        "Burgos 1 Sieg + 1 Remis + 2 Niederlagen aus 4 Spielen",
-        "AD Ceuta 0 Pkt aus 4 Spielen - einziger noch punktloser Klub",
-        "Trainer Sergio Francisco (Burgos) setzt auf gleiche Startelf",
-        "Anstoss 20:30 Berlin live auf DAZN Spain"
-      ],
-      "tipps": [
-        {
-          "id": "bur-ceu-1",
-          "kategorie": "wackel",
-          "markt": "Doppelte Chance 1X (Burgos oder Remis)",
+          "id": "bvb-pad-1",
+          "kategorie": "safe",
+          "markt": "Sieg Borussia Dortmund (90 Min)",
           "quote": 1.3,
           "edge_prozent": 5.0,
-          "begruendung": "Ceuta 0 Punkte in 4 Spielen, Burgos Heimvorteil im Plantio. DC 1X packt den erwarteten Punktegewinn ohne das Ueberraschungs-Auswaertsrisiko. DC-Goldgrube-Markt. VALUE weil Segunda keine Goldgruben-Liga. Stake 1.5% = 15€.",
           "faire_quote": 1.24,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "Aufsteiger ohne BL-Tor gegen einen BVB mit 4 Pflichtsiegen und dem Ligastürmer-Nummer-1 Guirassy. AI-Modelle liegen bei ~76% BVB-Sieg, Quote ~1.30 impliziert ~77% - fair. Bundesliga + 2:0-Insurance gilt (bet365-Regel). Bei 1000€ Kasse: 20€ Einsatz."
         },
         {
-          "id": "bur-ceu-2",
-          "kategorie": "wackel",
-          "markt": "Unter 2.5 Tore",
+          "id": "bvb-pad-2",
+          "kategorie": "value",
+          "markt": "Guirassy Torschütze jederzeit",
+          "quote": 1.55,
+          "edge_prozent": 10.0,
+          "faire_quote": 1.41,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "Guirassy 4 Tore in letzten 3 Spielen (Doppelpack Villarreal), zentraler 9er - trifft HR24 (Form + zentrale Rolle). Torschützen Jederzeit ist Goldgruben-Markt. Einwechslungs-Boost via Beier/Adeyemi-Nachfolger als Zusatzschutz. 20€."
+        },
+        {
+          "id": "bvb-pad-3",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
           "quote": 1.75,
-          "edge_prozent": 5.0,
-          "begruendung": "Segunda ist historisch tor-arm (~2.1-2.3 Schnitt), Ceuta hat mit 0 Punkten wenig Sturm-Feuer, Burgos konservativ unter Sergio Francisco. Unter 2.5 ist Markt-Goldgrube (70.4% / +33.4% ROI). Wackel weil Underdog manchmal offen spielen muss um Punkte zu holen. Stake 0.5% = 5€.",
+          "edge_prozent": 6.0,
           "faire_quote": 1.65,
-          "empfohlener_einsatz_prozent": 0.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0,
+          "begruendung": "BVB hat in den letzten 4 Pflichtspielen im Schnitt 2,5 Tore selbst geschossen. Paderborn defensiv ordentlich (nur 1 GT in 2 Spielen), aber gegen dieses Sturm-Level unrealistisch dicht zu halten. Über 2.5 ist Markt-Goldgrube (56% Hit, +31% ROI). 15€."
+        },
+        {
+          "id": "bvb-pad-4",
+          "kategorie": "wackel",
+          "markt": "Beier Torschütze jederzeit",
+          "quote": 2.8,
+          "edge_prozent": 4.0,
+          "faire_quote": 2.65,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Nach dem Adeyemi-Abgang (→ Barcelona) rückt Beier auf den Flügeln auf. Gegen Aufsteiger-Abwehr realistische Chance. Wackel weil Rolle noch nicht fix. 5€."
         }
       ],
-      "kontext_check_status": "WARN_QUELLE"
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-12-scf-bmg",
+      "liga": "Bundesliga - 3. Spieltag",
+      "heim": "SC Freiburg",
+      "gast": "Borussia Mönchengladbach",
+      "anstoss": "2026-09-12T15:30:00+02:00",
+      "stadion": "Europa-Park-Stadion, Freiburg",
+      "saison_kontext": {
+        "parallel_heim": "keine - Freiburg dieses Jahr nicht im Europapokal",
+        "parallel_gast": "keine - Gladbach ohne EU-Belastung",
+        "saisonziel_heim": "2. Platz, 6 Pkt aus 2 - CL-Quali-Kandidat, 5 Pflichtsiege in Folge",
+        "saisonziel_gast": "17. Platz, 0 Pkt aus 2 (0:1 Leipzig, 0:2 Elversberg) - Klassenerhalt, Krise",
+        "motivations_asymmetrie": "Heimfavorit in Top-Form (5 Siege in Folge) gegen krisenden Auswärts-Underdog ohne Punkte. Freiburg hat in 10 direkten Duellen gegen Gladbach nie verloren. Klare Ein-Weg-Konstellation.",
+        "recovery_heim": "6 Tage seit 0:1 in Paderborn - voll frisch",
+        "recovery_gast": "6 Tage seit 0:2 gegen Elversberg - frisch, aber demoralisiert",
+        "quellen": [
+          "https://www.bundesliga.com/en/bundesliga/table",
+          "https://sports.yahoo.com/articles/preview-sc-freiburg-vs-borussia-162100695.html"
+        ]
+      },
+      "news": [
+        "Freiburg (Schuster) 5 Pflichtsiege in Folge, 2. Tabellenplatz",
+        "Gladbach (Polanski) 2 BL-Niederlagen, 0 Punkte, 17. Platz",
+        "H2H: Freiburg in letzten 10 direkten Duellen nie verloren"
+      ],
+      "tipps": [
+        {
+          "id": "scf-bmg-1",
+          "kategorie": "safe",
+          "markt": "Sieg SC Freiburg oder Remis (Doppelte Chance 1X)",
+          "quote": 1.28,
+          "edge_prozent": 4.5,
+          "faire_quote": 1.22,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "DC 1X ist Markt-Goldgrube (73% Hit, +40% ROI). Freiburg gegen Gladbach in letzten 10 Duellen 0 Niederlagen, dazu 5 Pflichtsiege in Serie. Absicherung gegen den einen Ausrutscher-Tag. 20€."
+        },
+        {
+          "id": "scf-bmg-2",
+          "kategorie": "value",
+          "markt": "Sieg SC Freiburg (90 Min)",
+          "quote": 1.67,
+          "edge_prozent": 8.0,
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0,
+          "begruendung": "Bookies bei 1.67 = ~60% impliziert, wir schätzen eher 64% weil Gladbach-Form katastrophal. Freiburg hat in 4 von 5 Saisonspielen 3+ Tore erzielt. 15€."
+        },
+        {
+          "id": "scf-bmg-3",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.76,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0,
+          "begruendung": "Freiburg 3+ Tore in 4 von 5 Spielen. Gladbach defensiv anfällig (2 Niederlagen, 3 GT). Über 2.5 ist Markt-Goldgrube. 15€."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-12-m05-sge",
+      "liga": "Bundesliga - 3. Spieltag",
+      "heim": "1. FSV Mainz 05",
+      "gast": "Eintracht Frankfurt",
+      "anstoss": "2026-09-12T15:30:00+02:00",
+      "stadion": "Mewa Arena, Mainz",
+      "saison_kontext": {
+        "parallel_heim": "keine - Mainz nicht im Europapokal 2026/27",
+        "parallel_gast": "Europa League Ligaphase-Start im September - Frankfurt qualifiziert, aber erstes EL-Spiel erst kommende Woche",
+        "saisonziel_heim": "5. Platz, 4 Pkt - noch unbesiegt, kein Gegentor, EU-Kandidat",
+        "saisonziel_gast": "12. Platz, 1 Pkt - 1:4-Klatsche gegen Augsburg, Neuaufbau unter Hütter",
+        "motivations_asymmetrie": "Mainz startet stabil unter Fischer (2 Spiele ohne Gegentor), Frankfurt hat mit 1:4 gegen Augsburg einen offenen Nerv. Heimvorteil Mewa Arena wo Mainz 8 der letzten 24 H2H gewann.",
+        "recovery_heim": "6 Tage seit 5:0 gegen HSV - frisch, mit Selbstvertrauen",
+        "recovery_gast": "6 Tage seit 1:4 gegen Augsburg - frisch, aber Trainerdruck",
+        "quellen": [
+          "https://www.bundesliga.com/en/bundesliga/table",
+          "https://sports.yahoo.com/articles/preview-mainz-vs-eintracht-frankfurt-161500009.html"
+        ]
+      },
+      "news": [
+        "Mainz (Fischer) 4 Pkt, 5:0 gegen HSV, kein Gegentor bisher",
+        "Frankfurt (Hütter) nach 1:4 gegen Augsburg unter Druck",
+        "Brown → Bayern, Aseko ← Bayern - Frankfurt-Kader stark umgebaut"
+      ],
+      "tipps": [
+        {
+          "id": "m05-sge-1",
+          "kategorie": "value",
+          "markt": "Sieg Mainz oder Remis (Doppelte Chance 1X)",
+          "quote": 1.45,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.37,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "Mainz-Heimstärke + Frankfurt-Fragilität nach 1:4-Klatsche. DC 1X als Absicherung gegen H2H-Vorteil Frankfurt (17-12 all-time). Goldgrube-Markt. 20€."
+        },
+        {
+          "id": "m05-sge-2",
+          "kategorie": "wackel",
+          "markt": "Sieg Mainz (90 Min)",
+          "quote": 2.1,
+          "edge_prozent": 4.0,
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Bookies preisen Mainz bei ~1.95 = ~51% impliziert, wir sehen 50/50 mit leichtem Heim-Edge. Wackel weil Frankfurt individuell stärker besetzt. 5€."
+        },
+        {
+          "id": "m05-sge-3",
+          "kategorie": "value",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.45,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.4,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0,
+          "begruendung": "Mainz mit 0 GT in 2 Spielen defensiv stabil. Trotz Frankfurt-Offensive selten 4+ Tore in H2H. Absicherung. 15€."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-12-liv-ful",
+      "liga": "Premier League - Matchday 4",
+      "heim": "Liverpool",
+      "gast": "Fulham",
+      "anstoss": "2026-09-12T16:00:00+02:00",
+      "stadion": "Anfield, Liverpool",
+      "saison_kontext": {
+        "parallel_heim": "CL Ligaphase startet - Liverpool qualifiziert, 1. CL-Spiel kommende Woche",
+        "parallel_gast": "keine - Fulham keine europäische Belastung",
+        "saisonziel_heim": "Top-4 CL-Quali, unter neuem Trainer Iraola unbeaten in 4 PL-Spielen",
+        "saisonziel_gast": "Klassenerhalt, 3 Niederlagen aus 3, 7 Gegentore - Krise",
+        "motivations_asymmetrie": "Anfield-Fortress gegen Team mit 0 Punkten und 7 GT in 3 Spielen. Klarer Heimfavorit. Liverpool spielt zuhause historisch stark.",
+        "recovery_heim": "7+ Tage seit letztem PL-Spiel (Nationalmannschaft-Woche) - voll frisch",
+        "recovery_gast": "7+ Tage seit letztem Spiel - frisch, aber Selbstvertrauen weg",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.premierleague.com/",
+          "https://www.topendsports.com/en-gb/sports-betting/football/premier-league/predictions/liverpool-vs-fulham-12092026/"
+        ]
+      },
+      "news": [
+        "Liverpool unter Iraola in 4 PL-Spielen unbesiegt, 1.44 Sieg-Quote",
+        "Fulham nach 3 Niederlagen und 7 Gegentoren am Boden",
+        "Modell: 69.9% Liverpool-Sieg, 12.8% Fulham, 17.3% Remis"
+      ],
+      "tipps": [
+        {
+          "id": "liv-ful-1",
+          "kategorie": "safe",
+          "markt": "Sieg Liverpool oder Remis (Doppelte Chance 1X)",
+          "quote": 1.12,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.09,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "DC 1X Goldgrube (73% Hit). Liverpool zuhause vs Team ohne Punkte mit 7 GT - Absicherung falls die 0:1-Überraschung nicht kommt. 20€."
+        },
+        {
+          "id": "liv-ful-2",
+          "kategorie": "value",
+          "markt": "Sieg Liverpool (90 Min)",
+          "quote": 1.44,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.35,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "Modell sagt 69.9%, Quote 1.44 impliziert 69% - fair mit Anfield-Bonus. Fulham auswärts katastrophal. 2:0-Insurance PL - nein (nur BL+CL). 20€."
+        },
+        {
+          "id": "liv-ful-3",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.44,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.35,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0,
+          "begruendung": "Fulham 7 GT in 3 Spielen = 2.3 pro Spiel. Liverpool Heim-Offensive zieht das über 2.5. 4 der letzten 6 H2H mit Über 2.5. Markt-Goldgrube. 15€."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-12-sun-ars",
+      "liga": "Premier League - Matchday 4",
+      "heim": "Sunderland",
+      "gast": "Arsenal",
+      "anstoss": "2026-09-12T21:00:00+02:00",
+      "stadion": "Stadium of Light, Sunderland",
+      "saison_kontext": {
+        "parallel_heim": "keine - Aufsteiger, nur PL + EFL Cup",
+        "parallel_gast": "CL Ligaphase startet - Arsenal 1:0 in Napoli midweek, kommende Woche nächstes CL-Spiel",
+        "saisonziel_heim": "12. Platz, 4 Pkt aus 3 - solider Start als Aufsteiger, aber gegen die Gunners realistisch nichts",
+        "saisonziel_gast": "Top 2, 9 Pkt aus 3 (Titelverteidiger), joint top of the table",
+        "motivations_asymmetrie": "PL-Meister gegen Aufsteiger. Arsenal in 14 direkten Duellen gegen Sunderland unbesiegt (10S/4U). Sunderland zuletzt 1:1 in Brentford (Le Fée-Elfer). Arsenal midweek CL-Vollgas, aber personell breiter Kader.",
+        "recovery_heim": "7 Tage seit 1:1 in Brentford - frisch",
+        "recovery_gast": "4 Tage seit 1:0 in Napoli (CL) - kurze Woche, leichte Rotation möglich",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://footballwhispers.com/blog/sunderland-vs-arsenal-prediction-preview-betting-tips-12-09-2026/"
+        ]
+      },
+      "news": [
+        "Arsenal PL-Meister, 3 Siege aus 3, midweek 1:0 in Napoli (CL)",
+        "Sunderland (Le Bris) 4 Pkt als Aufsteiger, zuletzt 1:1 Brentford",
+        "Arsenal in 14 direkten Duellen gegen Sunderland unbesiegt"
+      ],
+      "tipps": [
+        {
+          "id": "sun-ars-1",
+          "kategorie": "value",
+          "markt": "Sieg Arsenal oder Remis (Doppelte Chance X2)",
+          "quote": 1.2,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.15,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "DC X2 Goldgrube (75% Hit, +30% ROI). Arsenal 14 Spiele unbesiegt gegen Sunderland - Absicherung falls CL-Rotation zum 1:1 führt. 20€."
+        },
+        {
+          "id": "sun-ars-2",
+          "kategorie": "value",
+          "markt": "Sieg Arsenal (90 Min)",
+          "quote": 1.52,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.44,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0,
+          "begruendung": "Modell sagt 57% Arsenal-Sieg, 1.52 impliziert 66% - Quote hat leicht Value, wenn Arsenal ohne CL-Kater kommt. 2:0-Insurance PL - nein (nur BL+CL). 15€."
+        },
+        {
+          "id": "sun-ars-3",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.8,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Arsenal-Auswärts oft kontrolliert (1:0 Napoli, 2:1 vs Chelsea). Sunderland heim vorsichtig. Unter 2.5 Markt-Goldgrube. 5€."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-12-rma-ray",
+      "liga": "LaLiga - Jornada 5",
+      "heim": "Real Madrid",
+      "gast": "Rayo Vallecano",
+      "anstoss": "2026-09-12T21:00:00+02:00",
+      "stadion": "Santiago Bernabéu, Madrid",
+      "saison_kontext": {
+        "parallel_heim": "CL Ligaphase startet - Real midweek 2:0 vs Inter Mailand, kommende Woche nächster CL-Termin",
+        "parallel_gast": "keine - Rayo im europäischen Wettbewerb nicht dabei",
+        "saisonziel_heim": "Meisterschaftskandidat, Meister-Anschluss, 6 Siege aus 7 (Mourinho zurück)",
+        "saisonziel_gast": "Mittelfeld/Konsolidierung, keine akute Not",
+        "motivations_asymmetrie": "Real zuhause im Bernabéu, Mbappé 4 Tore in 4 LaLiga-Spielen, klarer Klassenunterschied. Rayo wehrt sich traditionell gut aber schwer im Bernabéu zu punkten.",
+        "recovery_heim": "4 Tage seit 2:0 gegen Inter (CL) - Rotation minimal weil Sonntag pause",
+        "recovery_gast": "7 Tage seit letztem Ligaspiel - frisch",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.si.com/es-us/futbol/real-madrid-vs-rayo-vallecano-previa-predicciones-y-alineaciones-12-9-2026"
+        ]
+      },
+      "news": [
+        "Real (Mourinho) 6 Siege in 7 Spielen, midweek 2:0 vs Inter (CL)",
+        "Mbappé 4 Tore in 4 LaLiga-Spielen, 71. CL-Tor jetzt joint 5. All-Time",
+        "Vinícius 1 Ligator, 2.15 xG/Spiel - überfällig"
+      ],
+      "tipps": [
+        {
+          "id": "rma-ray-1",
+          "kategorie": "safe",
+          "markt": "Sieg Real Madrid oder Remis (Doppelte Chance 1X)",
+          "quote": 1.08,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.06,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "DC 1X Goldgrube. Real zuhause gegen Rayo historisch fast unbezwingbar. Absicherung gegen den unwahrscheinlichen Auswärts-Coup. 20€."
+        },
+        {
+          "id": "rma-ray-2",
+          "kategorie": "value",
+          "markt": "Sieg Real Madrid (90 Min)",
+          "quote": 1.3,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.24,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "Modell 76% Real-Sieg, Quote impliziert 77% - fair. Bernabéu-Vorteil + Mbappé-Form. 20€."
+        },
+        {
+          "id": "rma-ray-3",
+          "kategorie": "value",
+          "markt": "Mbappé Torschütze jederzeit",
+          "quote": 1.5,
+          "edge_prozent": 8.0,
+          "faire_quote": 1.39,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "Mbappé 4 Tore in 4 LaLiga-Spielen + Doppelpack im CL midweek - erfüllt HR24 (Form + zentraler Stürmer). Torschützen Jederzeit Goldgrube. 20€."
+        },
+        {
+          "id": "rma-ray-4",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen (BTTS)",
+          "quote": 1.8,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.71,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0,
+          "begruendung": "Modell 72.5% BTTS. Rayo bringt fast immer 1 Tor mit, Real trifft ohnehin. 15€."
+        }
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
     {
-      "id": "nue-h96-1",
-      "spiel_id": "2026-09-11-nue-h96",
-      "spiel_label": "Nuernberg vs Hannover 96",
-      "kategorie": "value",
-      "markt": "Doppelte Chance 1X (Nuernberg oder Remis)",
-      "quote": 1.28,
-      "einsatz_euro": 15.0,
-      "begruendung": "Nuernberg ungeschlagen + Tabellenzweiter zu Hause gegen Hannover 13. DC-Goldgrube. Bei bet365 live pruefen.",
+      "id": "bvb-pad-1",
+      "spiel_id": "2026-09-12-bvb-pad",
+      "spiel_label": "Dortmund vs Paderborn",
+      "kategorie": "safe",
+      "markt": "Sieg Borussia Dortmund (90 Min)",
+      "quote": 1.3,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "BVB in Top-Form (4 Pflichtsiege), Guirassy trifft, Paderborn ohne BL-Tor. 2:0-Insurance BL. 20€.",
       "empfohlener_einsatz_prozent": 1.5,
       "rang": 1
     },
     {
-      "id": "whu-wre-1",
-      "spiel_id": "2026-09-11-whu-wre",
-      "spiel_label": "West Ham vs Wrexham",
-      "kategorie": "value",
-      "markt": "Doppelte Chance 1X (West Ham oder Remis)",
-      "quote": 1.2,
-      "einsatz_euro": 15.0,
-      "begruendung": "West Ham 3 Championship-Siege + 10 Tore in Serie vs Wrexham 14. mit Remis-Serie. DC-Goldgrube.",
+      "id": "rma-ray-1",
+      "spiel_id": "2026-09-12-rma-ray",
+      "spiel_label": "Real Madrid vs Rayo Vallecano",
+      "kategorie": "safe",
+      "markt": "Sieg Real Madrid oder Remis (Doppelte Chance 1X)",
+      "quote": 1.08,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "DC 1X als Goldgruben-Markt. Real zuhause fast unbezwingbar. 20€.",
       "empfohlener_einsatz_prozent": 1.5,
       "rang": 2
     },
     {
-      "id": "svd-dsc-1",
-      "spiel_id": "2026-09-11-svd-dsc",
-      "spiel_label": "Darmstadt vs Bielefeld",
-      "kategorie": "value",
-      "markt": "Doppelte Chance X2 (Bielefeld oder Remis)",
-      "quote": 1.4,
-      "einsatz_euro": 15.0,
-      "begruendung": "Bielefeld mit besserer Momentum-Story (8 Tore in 5), Darmstadt Letzter mit 2:7-Torverhaeltnis. DC-X2-Goldgrube.",
+      "id": "scf-bmg-1",
+      "spiel_id": "2026-09-12-scf-bmg",
+      "spiel_label": "Freiburg vs Mönchengladbach",
+      "kategorie": "safe",
+      "markt": "Sieg SC Freiburg oder Remis (Doppelte Chance 1X)",
+      "quote": 1.28,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "Freiburg gegen Gladbach in 10 H2H unbesiegt, 5 Pflichtsiege in Serie. 20€.",
       "empfohlener_einsatz_prozent": 1.5,
       "rang": 3
     },
     {
-      "id": "bur-ceu-1",
-      "spiel_id": "2026-09-11-bur-ceu",
-      "spiel_label": "Burgos vs Ceuta",
-      "kategorie": "value",
-      "markt": "Doppelte Chance 1X (Burgos oder Remis)",
-      "quote": 1.3,
-      "einsatz_euro": 15.0,
-      "begruendung": "Ceuta noch punktlos in Segunda, Burgos Heim-Favorit im Plantio. DC-Goldgrube.",
+      "id": "liv-ful-1",
+      "spiel_id": "2026-09-12-liv-ful",
+      "spiel_label": "Liverpool vs Fulham",
+      "kategorie": "safe",
+      "markt": "Sieg Liverpool oder Remis (Doppelte Chance 1X)",
+      "quote": 1.12,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "Anfield gegen 0-Punkte-Fulham. Absicherung via DC. 20€.",
       "empfohlener_einsatz_prozent": 1.5,
       "rang": 4
     },
     {
-      "id": "nue-h96-2",
-      "spiel_id": "2026-09-11-nue-h96",
-      "spiel_label": "Nuernberg vs Hannover 96",
-      "kategorie": "wackel",
-      "markt": "Ueber 2.5 Tore",
-      "quote": 1.95,
-      "einsatz_euro": 5.0,
-      "begruendung": "Ueber-2.5-Goldgrube-Markt, Hannover kein defensiv-stabiler Gast.",
-      "empfohlener_einsatz_prozent": 0.5,
+      "id": "bvb-pad-2",
+      "spiel_id": "2026-09-12-bvb-pad",
+      "spiel_label": "Dortmund vs Paderborn",
+      "kategorie": "value",
+      "markt": "Guirassy Torschütze jederzeit",
+      "quote": 1.55,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "Guirassy 4 Tore in 3 letzten Spielen. HR24 erfüllt. Goldgruben-Markt. 20€.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 5
     },
     {
-      "id": "whu-wre-2",
-      "spiel_id": "2026-09-11-whu-wre",
-      "spiel_label": "West Ham vs Wrexham",
-      "kategorie": "wackel",
-      "markt": "Ueber 2.5 Tore",
-      "quote": 1.75,
-      "einsatz_euro": 5.0,
-      "begruendung": "West Ham mit 10 Toren in 3 Spielen, Wrexham hat in 4 von 6 Spielen mit Toren remisiert.",
-      "empfohlener_einsatz_prozent": 0.5,
+      "id": "rma-ray-3",
+      "spiel_id": "2026-09-12-rma-ray",
+      "spiel_label": "Real Madrid vs Rayo Vallecano",
+      "kategorie": "value",
+      "markt": "Mbappé Torschütze jederzeit",
+      "quote": 1.5,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "Mbappé 4/4 in LaLiga + CL-Doppelpack. HR24 erfüllt. 20€.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 6
     },
     {
-      "id": "bur-ceu-2",
-      "spiel_id": "2026-09-11-bur-ceu",
-      "spiel_label": "Burgos vs Ceuta",
-      "kategorie": "wackel",
-      "markt": "Unter 2.5 Tore",
-      "quote": 1.75,
-      "einsatz_euro": 5.0,
-      "begruendung": "Segunda tor-arm, Unter-2.5-Goldgrube-Markt.",
-      "empfohlener_einsatz_prozent": 0.5,
+      "id": "sun-ars-1",
+      "spiel_id": "2026-09-12-sun-ars",
+      "spiel_label": "Sunderland vs Arsenal",
+      "kategorie": "value",
+      "markt": "Sieg Arsenal oder Remis (Doppelte Chance X2)",
+      "quote": 1.2,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "DC X2 Goldgrube. Arsenal 14 H2H gegen Sunderland unbesiegt. 20€.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 7
     },
     {
-      "id": "svd-dsc-2",
-      "spiel_id": "2026-09-11-svd-dsc",
-      "spiel_label": "Darmstadt vs Bielefeld",
-      "kategorie": "wackel",
-      "markt": "Beide Teams treffen JA",
-      "quote": 1.85,
-      "einsatz_euro": 5.0,
-      "begruendung": "Bielefeld Sturm-Feuer (Grodowski), Darmstadt-Defense laessig - BTTS wahrscheinlich.",
-      "empfohlener_einsatz_prozent": 0.5,
+      "id": "m05-sge-1",
+      "spiel_id": "2026-09-12-m05-sge",
+      "spiel_label": "Mainz vs Frankfurt",
+      "kategorie": "value",
+      "markt": "Sieg Mainz oder Remis (Doppelte Chance 1X)",
+      "quote": 1.45,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "Mainz unbesiegt & ohne GT, Frankfurt nach 1:4-Klatsche wackelig. 20€.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 8
+    },
+    {
+      "id": "liv-ful-3",
+      "spiel_id": "2026-09-12-liv-ful",
+      "spiel_label": "Liverpool vs Fulham",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.44,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Fulham 7 GT in 3 Spielen. Anfield-Offensive drückt. 15€.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 9
+    },
+    {
+      "id": "scf-bmg-2",
+      "spiel_id": "2026-09-12-scf-bmg",
+      "spiel_label": "Freiburg vs Mönchengladbach",
+      "kategorie": "value",
+      "markt": "Sieg SC Freiburg (90 Min)",
+      "quote": 1.67,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Freiburg 5 Pflichtsiege in Serie. Gladbach 0 Punkte. 15€.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 10
+    },
+    {
+      "id": "rma-ray-4",
+      "spiel_id": "2026-09-12-rma-ray",
+      "spiel_label": "Real Madrid vs Rayo Vallecano",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (BTTS)",
+      "quote": 1.8,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Modell 72.5% BTTS. Rayo bringt fast immer 1 Tor. 15€.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 11
+    },
+    {
+      "id": "bvb-pad-4",
+      "spiel_id": "2026-09-12-bvb-pad",
+      "spiel_label": "Dortmund vs Paderborn",
+      "kategorie": "wackel",
+      "markt": "Beier Torschütze jederzeit",
+      "quote": 2.8,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Beier rückt nach Adeyemi-Abgang auf. Wackel weil Rolle unklar. 5€.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 12
     }
   ],
   "kombis": [
     {
-      "id": "kombi-safe",
+      "name": "Safe-Kombi ~2.02x",
       "kategorie": "safe",
-      "name": "Safe-Trio DC-Favoriten",
       "beine": [
         {
-          "spiel_id": "2026-09-11-nue-h96",
-          "spiel_label": "Nuernberg vs Hannover 96",
-          "markt": "Doppelte Chance 1X (Nuernberg oder Remis)",
-          "quote": 1.28,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-09-11-whu-wre",
-          "spiel_label": "West Ham vs Wrexham",
-          "markt": "Doppelte Chance 1X (West Ham oder Remis)",
-          "quote": 1.2,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-09-11-bur-ceu",
-          "spiel_label": "Burgos vs Ceuta",
-          "markt": "Doppelte Chance 1X (Burgos oder Remis)",
+          "spiel_id": "2026-09-12-bvb-pad",
+          "spiel_label": "Dortmund vs Paderborn",
+          "markt": "Sieg Borussia Dortmund (90 Min)",
           "quote": 1.3,
-          "kategorie": "value"
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-12-scf-bmg",
+          "spiel_label": "Freiburg vs Mönchengladbach",
+          "markt": "Freiburg oder Remis (Doppelte Chance)",
+          "quote": 1.28,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-12-liv-ful",
+          "spiel_label": "Liverpool vs Fulham",
+          "markt": "Liverpool oder Remis (Doppelte Chance)",
+          "quote": 1.12,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-12-rma-ray",
+          "spiel_label": "Real Madrid vs Rayo Vallecano",
+          "markt": "Real Madrid oder Remis (Doppelte Chance)",
+          "quote": 1.08,
+          "kategorie": "safe"
         }
       ],
-      "gesamtquote": 2.0,
-      "rechnung": "1.28 x 1.20 x 1.30 = 2.00",
-      "einsatz_euro": 20.0,
-      "kategorie_hinweis": "3 Heim-Favoriten-DCs aus 3 verschiedenen Ligen - Layer-1/2/3 sauber, Sieg-Outcome-Doppler nur hier.",
-      "empfohlener_einsatz_prozent": 2.0
+      "gesamtquote": 2.02,
+      "gesamtquote_rechnung": "1.30 x 1.28 x 1.12 x 1.08 = 2.02",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "4 Absicherungen: BVB Sieg + 3x DC in Freiburg/Anfield/Bernabéu. Ehrlich niedrig (nur ~2x) - Konservativ. 20€ → 40.40€ Auszahlung bei allen 4 durch."
     },
     {
-      "id": "kombi-balance",
+      "name": "Balance-Kombi ~6.2x",
       "kategorie": "balance",
-      "name": "Balance-Trio Underdog-DC + Tor-Total + BTTS",
       "beine": [
         {
-          "spiel_id": "2026-09-11-svd-dsc",
-          "spiel_label": "Darmstadt vs Bielefeld",
-          "markt": "Doppelte Chance X2 (Bielefeld oder Remis)",
-          "quote": 1.4,
+          "spiel_id": "2026-09-12-bvb-pad",
+          "spiel_label": "Dortmund vs Paderborn",
+          "markt": "Guirassy Torschütze jederzeit",
+          "quote": 1.55,
           "kategorie": "value"
         },
         {
-          "spiel_id": "2026-09-11-nue-h96",
-          "spiel_label": "Nuernberg vs Hannover 96",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.95,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-09-11-whu-wre",
-          "spiel_label": "West Ham vs Wrexham",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.75,
-          "kategorie": "wackel"
-        }
-      ],
-      "gesamtquote": 4.78,
-      "rechnung": "1.40 x 1.95 x 1.75 = 4.78",
-      "einsatz_euro": 8.0,
-      "kategorie_hinweis": "Bielefeld-Underdog-DC + 2x Ueber-2.5 (Goldgrube-Markt). Nuernberg + West Ham hier Tor-Total-entkoppelt vom Sieg-Bein in Safe.",
-      "empfohlener_einsatz_prozent": 0.8
-    },
-    {
-      "id": "kombi-risk",
-      "kategorie": "risk",
-      "name": "Risk-Trio BTTS-Doppel + Unter-2.5",
-      "beine": [
-        {
-          "spiel_id": "2026-09-11-svd-dsc",
-          "spiel_label": "Darmstadt vs Bielefeld",
-          "markt": "Beide Teams treffen JA",
+          "spiel_id": "2026-09-12-scf-bmg",
+          "spiel_label": "Freiburg vs Mönchengladbach",
+          "markt": "Über 2.5 Tore",
           "quote": 1.85,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-12-liv-ful",
+          "spiel_label": "Liverpool vs Fulham",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.44,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-12-rma-ray",
+          "spiel_label": "Real Madrid vs Rayo Vallecano",
+          "markt": "Mbappé Torschütze jederzeit",
+          "quote": 1.5,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 6.19,
+      "gesamtquote_rechnung": "1.55 x 1.85 x 1.44 x 1.50 = 6.19",
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 8.0,
+      "begruendung": "Kein Sieg-Outcome (Layer-2 sauber vs Safe). 2x Torschützen (Guirassy + Mbappé, beide HR24 erfüllt) + 2x Über 2.5 Tore in offensiven Spielen. Selbe Spiele wie Safe, aber vollständig markt-entkoppelt (Layer-3). 8€ → ~49€ bei Durchgang."
+    },
+    {
+      "name": "Risiko-Kombi ~11x",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-09-12-sun-ars",
+          "spiel_label": "Sunderland vs Arsenal",
+          "markt": "Sieg Arsenal (90 Min)",
+          "quote": 1.52,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-12-m05-sge",
+          "spiel_label": "Mainz vs Frankfurt",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.45,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-12-bvb-pad",
+          "spiel_label": "Dortmund vs Paderborn",
+          "markt": "Über 3.5 Tore",
+          "quote": 2.3,
           "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-09-11-nue-h96",
-          "spiel_label": "Nuernberg vs Hannover 96",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.75,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-09-11-bur-ceu",
-          "spiel_label": "Burgos vs Ceuta",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.75,
+          "spiel_id": "2026-09-12-rma-ray",
+          "spiel_label": "Real Madrid vs Rayo Vallecano",
+          "markt": "Vinícius Torschütze jederzeit",
+          "quote": 2.2,
           "kategorie": "wackel"
         }
       ],
-      "gesamtquote": 5.66,
-      "rechnung": "1.85 x 1.75 x 1.75 = 5.66",
-      "einsatz_euro": 2.5,
-      "kategorie_hinweis": "3 Markt-entkoppelte Wackel-Beine (BTTS Darmstadt, BTTS Nuernberg, Unter Burgos) - Layer-2 sauber (kein Sieg-Outcome). Knapp unter 6-10x Risk-Range, aber ehrlich.",
-      "empfohlener_einsatz_prozent": 0.25
+      "gesamtquote": 11.16,
+      "gesamtquote_rechnung": "1.52 x 1.45 x 2.30 x 2.20 = 11.16",
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 2.5,
+      "begruendung": "Ehrlich: Ziel-Range 15-30x nicht ganz erreicht (~11x). 1 Sieg-Outcome (Arsenal) - Layer-2-konform. Vinícius mit 1 Ligator aber 2.15 xG/Spiel überfällig. Über 3.5 in BVB-Paderborn ist der Push. 2.50€ → ~28€ bei Durchgang."
     },
     {
-      "id": "kombi-moonshot",
+      "name": "Moonshot ~90x",
       "kategorie": "moonshot",
-      "name": "Moonshot Auswaerts-Ueberraschung + 2x Ueber 3.5",
       "beine": [
         {
-          "spiel_id": "2026-09-11-whu-wre",
-          "spiel_label": "West Ham vs Wrexham",
-          "markt": "Ueber 3.5 Tore",
+          "spiel_id": "2026-09-12-bvb-pad",
+          "spiel_label": "Dortmund vs Paderborn",
+          "markt": "Beier Torschütze jederzeit",
           "quote": 2.8,
-          "kategorie": "risk"
+          "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-09-11-svd-dsc",
-          "spiel_label": "Darmstadt vs Bielefeld",
-          "markt": "Ueber 3.5 Tore",
+          "spiel_id": "2026-09-12-sun-ars",
+          "spiel_label": "Sunderland vs Arsenal",
+          "markt": "Über 2.5 Tore",
+          "quote": 2.1,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-09-12-rma-ray",
+          "spiel_label": "Real Madrid vs Rayo Vallecano",
+          "markt": "Mbappé 2+ Tore",
           "quote": 3.5,
           "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-09-12-scf-bmg",
+          "spiel_label": "Freiburg vs Mönchengladbach",
+          "markt": "Über 3.5 Tore",
+          "quote": 2.3,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-09-12-m05-sge",
+          "spiel_label": "Mainz vs Frankfurt",
+          "markt": "Beide Teams treffen (BTTS)",
+          "quote": 1.9,
+          "kategorie": "wackel"
         }
       ],
-      "gesamtquote": 9.8,
-      "rechnung": "2.80 x 3.50 = 9.8",
-      "einsatz_euro": 1.0,
-      "kategorie_hinweis": "Erreicht keine 100x - offen kommuniziert. Ceuta-Sensation als Anti-Outcome zum Burgos-DC in Safe (kein Layer-2-Doppler), plus 2x Tor-Feuer-Ueber-3.5. Spass-Einsatz 1€, lieber ehrlich als aufgeblasen.",
-      "empfohlener_einsatz_prozent": 0.1
+      "gesamtquote": 89.94,
+      "gesamtquote_rechnung": "2.80 x 2.10 x 3.50 x 2.30 x 1.90 = 89.94",
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 1.0,
+      "begruendung": "Ehrlich unter 100x (~90x). 5 Beine, kein Sieg-Outcome, alle Tor-orientiert. Bei 1€ Spaßeinsatz: ~90€ bei Durchgang - Kaffeekasse für den ganzen Monat."
     }
   ],
   "lessons_angewandt": [
-    "HR1 Quoten-Range: alle Kategorien nach Quotenband korrekt (SAFE=leer wegen Nicht-Goldgruben-Liga-Regel, VALUE 1.20-1.40 DCs, WACKEL 1.75-1.95, MOONSHOT 5.50+).",
-    "Markt-Mix-Anhang Punkt 6 (Goldgrube-Liga-DC-Falle): SAFE-DC nur in Liga-Goldgruben legitim - 2.BL/Championship/Segunda sind NICHT in liga_goldgruben.json, deshalb alle DCs auf VALUE gecappt.",
-    "Markt-Mix-Anhang Punkt 1 (DC-CAP): max 1 DC pro Spiel eingehalten. Insgesamt 4 DCs im Dossier (1 pro Spiel), knapp am 2-3-Gesamt-Cap - ok weil Freitag kein Hauptliga-Spiel bietet.",
-    "Kader- und Trainer-Frische: KEINE Torschuetzen-Tipps in diesem Slot - 2.BL/Championship/Segunda haben kein zuverlaessiges live-Squad-Feed via kicker/transfermarkt in unserer Wrapper-Zeit, Adeyemi-Klasse-Fehler-Risiko zu hoch. Statt Torschuetze lieber DC/Tor-Total-Maerkte (Goldgruben).",
-    "Zeitfenster-Hartregel: alle 4 Spiele stossen am 11.09.2026 Berlin an, keine Spillover-Spiele.",
-    "Kasse-Stand-aware: gerechnet mit Kasse 1000€ Stufe 1 - 1-2% Einzeltipps (10-20€), 2% Safe-Kombi (20€), 0.8% Balance (8€), 0.25% Risk (2.50€), 0.1% Moonshot (1€). Vorschau-Halbierungs-Fehler vom 22.08. vermieden."
+    "HR1: Quoten-Range pro Kategorie sauber getrennt (SAFE 1.08-1.30, VALUE 1.44-1.85, WACKEL 2.10-2.80)",
+    "HR3: Real und Arsenal midweek CL-Spiel - Torschützen Guirassy/Mbappé trotzdem VALUE, weil nicht rotiert wird",
+    "HR22: Kein Star-Ausfall im Kader identifiziert - keine Downgrades nötig",
+    "HR23: Layer-3 sauber - jedes Spiel liefert Beine in getrennten Kombi-Profilen mit entkoppelten Märkten (Sieg vs Torschütze vs Tor-Total)",
+    "HR24: Torschützen-Tipps (Guirassy, Mbappé) beide durch Form-Edge belegt (4+ Tore letzte Spiele)",
+    "Anti-Star-Halluzination: Adeyemi NICHT als BVB-Torschütze getippt (seit 24.07. Barcelona - kader_wechsel_2026.json)",
+    "Anti-Kader-Halluzination: Wissa, Watkins, Jackson, Brown - alle transfers respektiert, kein Tipp auf falschen Verein",
+    "Markt-Goldgruben aktiv gesucht: DC 1X (73% Hit), DC X2 (75%), Über 2.5 (56%), Torschützen Jederzeit",
+    "Kasse-Stand-aware: Stufe 1 (1000€ Kasse, stufe_2_freigeschaltet=false) - Einsätze konservativ nach data/kasse.json"
   ],
   "_verifikations_report": {
-    "erstellt_am": "2026-09-11T14:38:00+02:00",
+    "erstellt_am": "2026-09-12T10:15:00+02:00",
     "drops": [],
     "downgrades": [],
     "warns": [
       {
-        "art": "keine_hauptliga",
-        "details": "Kein Spiel aus BL/PL/LaLiga/SerieA/Ligue1 - alles Zweit-/Untersparten. Konservative Einsatz-Beschraenkung angewendet."
+        "art": "quoten_hinweis",
+        "details": "Quoten aus Aggregator-Recherche + AI-Modellen abgeleitet - bei bet365 live prüfen, Abweichung möglich"
       },
       {
-        "art": "keine_torschuetzen",
-        "details": "Bewusster Verzicht auf Torschuetzen-Tipps in 2.BL/Championship/Segunda wegen Squad-Verifikations-Risiko in dieser Slot-Zeit."
-      },
-      {
-        "art": "quoten_marktpreise",
-        "details": "Quoten aus Preview-Aggregatoren geschaetzt (kein live-bet365-Pull moeglich im Wrapper-Slot). Vor Setzen bei bet365 live pruefen."
+        "art": "kader_hinweis",
+        "details": "Squad-Live-Prüfung eingeschränkt (Egress-Blockaden zu kicker.de/transfermarkt.de). Nur bestätigte Stars als Torschütze getippt (Guirassy, Mbappé); Beier als Wackel wegen Rollen-Unsicherheit."
       }
     ],
-    "lessons_generiert": [],
-    "layer_2_check": "sauber - Sieg/DC-Outcomes: Nuernberg-DC in Safe (1x), West Ham-DC in Safe (1x), Burgos-DC in Safe (1x), Bielefeld-DC in Balance (1x). Kein Doppler. Moonshot mit direktem Sieg-Tipp fuer Bielefeld/Ceuta ist eigenstaendiger Markt (Sieg 90 Min statt DC).",
-    "saison_kontext_check": "alle 4 Spiele haben alle 7 Pflichtfelder + Quellen[] mit 3 URLs pro Spiel gefuellt.",
-    "kader_wechsel_check": "keine Torschuetzen-Tipps -> keine Namen aus data/kader_wechsel_2026.json betroffen."
+    "lessons_generiert": []
   },
-  "footer": "18+ · bet365 DE · Hobby-Wetten. BZgA Gluecksspielsucht-Hotline: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Glücksspielsucht-Hotline: 0800 1372700 · Nur setzen was du verlieren kannst · Stress → Pause"
 };
