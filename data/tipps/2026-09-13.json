@@ -422,14 +422,14 @@
       "tipps": [
         {
           "id": "nap-bol-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Napoli oder Remis (Doppelte Chance)",
           "quote": 1.15,
           "einsatz_euro": 20.0,
           "empfohlener_einsatz_prozent": 2.0,
           "edge_prozent": 4.0,
           "faire_quote": 1.1,
-          "begruendung": "DC 1X Markt-Goldgrube (72.7% Hit / +39.7% ROI). Napoli-Heim gg Bologna sehr sicher: Klassen-Edge, Home-Boost Maradona, Bologna auswaerts diszipliniert aber Punktverlust selten. Stufe 1: 2% = 20€. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value]",
+          "begruendung": "DC 1X Markt-Goldgrube (72.7% Hit / +39.7% ROI). Napoli-Heim gg Bologna sehr sicher: Klassen-Edge, Home-Boost Maradona, Bologna auswaerts diszipliniert aber Punktverlust selten. Stufe 1: 2% = 20€. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value] [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "_saison_kontext_sanity_downgrade": true
         },
         {
@@ -654,7 +654,7 @@
       "tipp_id": "nap-bol-1",
       "markt": "Napoli oder Remis (Doppelte Chance)",
       "quote": 1.15,
-      "kategorie": "value",
+      "kategorie": "wackel",
       "einsatz_euro": 20.0,
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "DC 1X Goldgrube - Napoli-Heim sehr sicher",
