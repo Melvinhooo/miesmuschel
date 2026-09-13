@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-09-12T06:09:48+00:00",
+  "letzte_berechnung": "2026-09-13T06:11:31+00:00",
   "gesamt": {
     "tipps": 427,
     "gewonnen": 223,
@@ -12,26 +12,26 @@
     "roi_prozent": 17.1
   },
   "letzte_30_tage": {
-    "tipps": 118,
-    "gewonnen": 64,
-    "verloren": 43,
+    "tipps": 108,
+    "gewonnen": 62,
+    "verloren": 35,
     "push": 0,
     "offen": 11,
-    "einsatz": 107.0,
+    "einsatz": 97.0,
     "netto": 65.24,
-    "trefferquote": 59.8,
-    "roi_prozent": 61.0
+    "trefferquote": 63.9,
+    "roi_prozent": 67.3
   },
   "letzte_90_tage": {
-    "tipps": 408,
-    "gewonnen": 217,
-    "verloren": 179,
+    "tipps": 398,
+    "gewonnen": 210,
+    "verloren": 176,
     "push": 1,
     "offen": 11,
-    "einsatz": 397.0,
-    "netto": 71.72,
-    "trefferquote": 54.8,
-    "roi_prozent": 18.1
+    "einsatz": 387.0,
+    "netto": 58.82,
+    "trefferquote": 54.4,
+    "roi_prozent": 15.2
   },
   "nach_liga": {
     "NBA Playoffs - Finals Game 3": {
@@ -4351,6 +4351,312 @@
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-09-12",
+      "gesamt": {
+        "tipps": 12,
+        "gewonnen": 8,
+        "verloren": 4,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 12.0,
+        "netto": 10.95,
+        "trefferquote": 66.7,
+        "roi_prozent": 91.3
+      },
+      "spiele": [
+        {
+          "id": "2026-09-12-bvb-pad",
+          "liga": "Bundesliga - 3. Spieltag",
+          "heim": "Borussia Dortmund",
+          "gast": "SC Paderborn 07",
+          "endstand": "3:0",
+          "tipps": [
+            {
+              "markt": "Sieg Borussia Dortmund (90 Min)",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.3,
+              "kommentar": "BVB gewinnt 3:0 - Sieg-Tipp durch"
+            },
+            {
+              "markt": "Guirassy Torschütze jederzeit",
+              "quote": 1.55,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Guirassy blieb bis Abpfiff auf dem Platz und hatte den Assist zu Silvas 1:0, traf aber selbst nicht. Einwechslungs-Boost gilt nicht (er wurde nicht ausgewechselt)."
+            },
+            {
+              "markt": "Beier Torschütze jederzeit",
+              "quote": 2.8,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Beier kam in 65. rein und legte Nmecha das 2:0 auf, traf aber selbst nicht."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-12-scf-bmg",
+          "liga": "Bundesliga - 3. Spieltag",
+          "heim": "SC Freiburg",
+          "gast": "Borussia Mönchengladbach",
+          "endstand": "5:0",
+          "tipps": [
+            {
+              "markt": "Sieg SC Freiburg oder Remis (Doppelte Chance 1X)",
+              "quote": 1.28,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.28,
+              "kommentar": "5:0 Sieg Freiburg - DC 1X durch"
+            },
+            {
+              "markt": "Sieg SC Freiburg (90 Min)",
+              "quote": 1.67,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.67,
+              "kommentar": "5:0 Sieg Freiburg"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-12-m05-sge",
+          "liga": "Bundesliga - 3. Spieltag",
+          "heim": "1. FSV Mainz 05",
+          "gast": "Eintracht Frankfurt",
+          "endstand": "1:3",
+          "tipps": [
+            {
+              "markt": "Sieg Mainz oder Remis (Doppelte Chance 1X)",
+              "quote": 1.45,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "1:3 Frankfurt gewinnt, DC 1X verloren"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-12-liv-ful",
+          "liga": "Premier League - Matchday 4",
+          "heim": "Liverpool",
+          "gast": "Fulham",
+          "endstand": "0:0",
+          "tipps": [
+            {
+              "markt": "Sieg Liverpool oder Remis (Doppelte Chance 1X)",
+              "quote": 1.12,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.12,
+              "kommentar": "0:0 Remis - DC 1X durch"
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.44,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "0:0, Über 2.5 verloren"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-12-sun-ars",
+          "liga": "Premier League - Matchday 4",
+          "heim": "Sunderland",
+          "gast": "Arsenal",
+          "endstand": "0:2",
+          "tipps": [
+            {
+              "markt": "Sieg Arsenal oder Remis (Doppelte Chance X2)",
+              "quote": 1.2,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.2,
+              "kommentar": "Arsenal 0:2 Sieg, DC X2 durch"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-12-rma-ray",
+          "liga": "LaLiga - Jornada 5",
+          "heim": "Real Madrid",
+          "gast": "Rayo Vallecano",
+          "endstand": "4:1",
+          "tipps": [
+            {
+              "markt": "Sieg Real Madrid oder Remis (Doppelte Chance 1X)",
+              "quote": 1.08,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.08,
+              "kommentar": "4:1 Real Sieg, DC 1X durch"
+            },
+            {
+              "markt": "Mbappé Torschütze jederzeit",
+              "quote": 1.5,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.5,
+              "kommentar": "Mbappé 2 Tore (14. Elfer, 91.)"
+            },
+            {
+              "markt": "Beide Teams treffen (BTTS)",
+              "quote": 1.8,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.8,
+              "kommentar": "Camello 51. → BTTS JA"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi ~2.02x",
+          "kategorie": "safe",
+          "gesamtquote": 2.02,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Borussia Dortmund (90 Min)",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Freiburg oder Remis (Doppelte Chance)",
+              "quote": 1.28,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Liverpool oder Remis (Doppelte Chance)",
+              "quote": 1.12,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Real Madrid oder Remis (Doppelte Chance)",
+              "quote": 1.08,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi ~6.2x",
+          "kategorie": "balance",
+          "gesamtquote": 6.19,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Guirassy Torschütze jederzeit",
+              "quote": 1.55,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.44,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Mbappé Torschütze jederzeit",
+              "quote": 1.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi ~11x",
+          "kategorie": "risk",
+          "gesamtquote": 11.16,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Arsenal (90 Min)",
+              "quote": 1.52,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 3.5 Tore",
+              "quote": 1.45,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 3.5 Tore",
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Vinícius Torschütze jederzeit",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot ~90x",
+          "kategorie": "moonshot",
+          "gesamtquote": 89.94,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Beier Torschütze jederzeit",
+              "quote": 2.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Mbappé 2+ Tore",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 3.5 Tore",
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen (BTTS)",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-09-11",
       "gesamt": {
