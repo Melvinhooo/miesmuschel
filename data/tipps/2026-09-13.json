@@ -88,7 +88,8 @@
           "faire_quote": 2.04,
           "begruendung": "Yamal war beim 6:1 vs Feyenoord Assist-Maschine + 1 Tor. Nicht klassischer 9er (Fluegel), daher wackel - bei Rotation kann er auch nur 45 Min bekommen."
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-09-13-rbl-hsv",
@@ -163,7 +164,8 @@
           "faire_quote": 2.67,
           "begruendung": "HR24: Nkunku ist Leipzig-Rueckkehr (Leihe Milan) auf seinem 'wahren' Klub, 29.08. bereits Halbzeit-Impact mit Assist zum 3:0 vs Gladbach. Wackel wegen unsicherer Startelf - kann Halbzeit-Sub bleiben. Aufstellung live pruefen (kicker.de-Vorschau)."
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-09-13-rso-atm",
@@ -226,7 +228,8 @@
           "faire_quote": 1.79,
           "begruendung": "Markt-Goldgrube Unter 2.5 (67.9% / +32.2% ROI). Simeone-Atleti taktisch kompakt, Sociedad ohne Sturm-Feuer - Coinflip-Marker aber Simeone-Muster: knappe Siege ohne Torfest."
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-09-13-elv-fcb",
@@ -311,7 +314,8 @@
           "faire_quote": 1.79,
           "begruendung": "Bayern trifft mind. 3 gegen Loechrig-Defense der Elv - historisch Bayern -2 gegen Aufsteiger stark. Wackel wegen Elv-Tor-Freude (koennte 3:2/4:3 statt 4:0 werden)."
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-09-13-mun-mci",
@@ -385,7 +389,8 @@
           "faire_quote": 1.7,
           "begruendung": "Derby-Historie oft mit 2-4 Toren. Wackel-Level weil Derbys manchmal auch verschlossen enden (0:0 / 1:0)."
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-09-13-nap-bol",
@@ -417,36 +422,39 @@
       "tipps": [
         {
           "id": "nap-bol-1",
-          "kategorie": "safe",
+          "kategorie": "value",
           "markt": "Napoli oder Remis (Doppelte Chance)",
           "quote": 1.15,
           "einsatz_euro": 20.0,
           "empfohlener_einsatz_prozent": 2.0,
           "edge_prozent": 4.0,
           "faire_quote": 1.1,
-          "begruendung": "DC 1X Markt-Goldgrube (72.7% Hit / +39.7% ROI). Napoli-Heim gg Bologna sehr sicher: Klassen-Edge, Home-Boost Maradona, Bologna auswaerts diszipliniert aber Punktverlust selten. Stufe 1: 2% = 20€."
+          "begruendung": "DC 1X Markt-Goldgrube (72.7% Hit / +39.7% ROI). Napoli-Heim gg Bologna sehr sicher: Klassen-Edge, Home-Boost Maradona, Bologna auswaerts diszipliniert aber Punktverlust selten. Stufe 1: 2% = 20€. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value]",
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "nap-bol-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Sieg SSC Napoli (90 Min)",
           "quote": 1.65,
           "einsatz_euro": 12.0,
           "empfohlener_einsatz_prozent": 1.2,
           "edge_prozent": 4.0,
           "faire_quote": 1.58,
-          "begruendung": "Direkt-Sieg Napoli als Kombi-Basis (Layer-2 Balance-Kombi). Ohne 2:0-Insurance in Serie A trotzdem valider VALUE - Heimstaerke + Allegri-Basis. Rotation nach CL-Debut moeglich, aber Bologna kein Kader-Killer."
+          "begruendung": "Direkt-Sieg Napoli als Kombi-Basis (Layer-2 Balance-Kombi). Ohne 2:0-Insurance in Serie A trotzdem valider VALUE - Heimstaerke + Allegri-Basis. Rotation nach CL-Debut moeglich, aber Bologna kein Kader-Killer. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "nap-bol-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Torschuetze jederzeit: Rasmus Hoejlund",
           "quote": 2.1,
           "einsatz_euro": 8.0,
           "empfohlener_einsatz_prozent": 0.8,
           "edge_prozent": 4.0,
           "faire_quote": 2.02,
-          "begruendung": "HR24: Hoejlund Volumen-9er unter Allegri mit 'more freedom' Zitat. Torschuetzen-Jederzeit Goldgrube (+24.4% ROI). Allegri-Napoli kreiert weniger Chancen aber die klaren Vollen bekommt der 9er."
+          "begruendung": "HR24: Hoejlund Volumen-9er unter Allegri mit 'more freedom' Zitat. Torschuetzen-Jederzeit Goldgrube (+24.4% ROI). Allegri-Napoli kreiert weniger Chancen aber die klaren Vollen bekommt der 9er. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "nap-bol-4",
@@ -459,7 +467,8 @@
           "faire_quote": 1.89,
           "begruendung": "Markt-Goldgrube Unter 2.5 (67.9% / +32.2% ROI). Allegri-Napoli reaktiver als Conte, Bologna defensiv-diszipliniert - 1:0 / 2:0 / 2:1 realistisch. Wackel-Absicherung gegen Ueber-2.5-Wette."
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-09-13-sas-juv",
@@ -512,14 +521,15 @@
         },
         {
           "id": "sas-juv-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Torschuetze jederzeit: Dusan Vlahovic",
           "quote": 2.0,
           "einsatz_euro": 8.0,
           "empfohlener_einsatz_prozent": 0.8,
           "edge_prozent": 4.0,
           "faire_quote": 1.92,
-          "begruendung": "HR24: Vlahovic zentraler 9er unter Spalletti, Rueckkehr in Rolle. Backup via Yildiz (Fluegel/OM) - Einwechslungs-Boost. Goldgrube-Markt."
+          "begruendung": "HR24: Vlahovic zentraler 9er unter Spalletti, Rueckkehr in Rolle. Backup via Yildiz (Fluegel/OM) - Einwechslungs-Boost. Goldgrube-Markt. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "sas-juv-4",
@@ -532,7 +542,8 @@
           "faire_quote": 2.22,
           "begruendung": "Yildiz OM/Zentral - trifft in Startelf regelmaessig. Wackel weil weniger klassischer 9er (Rotation moeglich vor CL)."
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-09-13-bre-psg",
@@ -586,16 +597,18 @@
         },
         {
           "id": "bre-psg-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Torschuetze jederzeit: Ousmane Dembélé",
           "quote": 2.2,
           "einsatz_euro": 8.0,
           "empfohlener_einsatz_prozent": 0.8,
           "edge_prozent": 4.0,
           "faire_quote": 2.12,
-          "begruendung": "HR24: Dembélé Volumen-Fluegel bei PSG, aktuell in Form. Backup via Doue/Torres - Einwechslungs-Boost aktiv. Aufstellung 60 Min vor Anpfiff pruefen (Rotation moeglich vor CL)."
+          "begruendung": "HR24: Dembélé Volumen-Fluegel bei PSG, aktuell in Form. Backup via Doue/Torres - Einwechslungs-Boost aktiv. Aufstellung 60 Min vor Anpfiff pruefen (Rotation moeglich vor CL). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "_torschuetze_quelle_warn": true
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
@@ -608,7 +621,8 @@
       "kategorie": "safe",
       "einsatz_euro": 20.0,
       "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Klassen-Edge + 2:0-Insurance (BL, direkter Sieg-Tipp)"
+      "begruendung": "Klassen-Edge + 2:0-Insurance (BL, direkter Sieg-Tipp)",
+      "rang": 1
     },
     {
       "spiel_id": "2026-09-13-lev-fcb-esp",
@@ -619,7 +633,8 @@
       "kategorie": "safe",
       "einsatz_euro": 20.0,
       "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "DC X2 Markt-Goldgrube (75% / +29.6% ROI)"
+      "begruendung": "DC X2 Markt-Goldgrube (75% / +29.6% ROI)",
+      "rang": 2
     },
     {
       "spiel_id": "2026-09-13-rbl-hsv",
@@ -630,7 +645,8 @@
       "kategorie": "safe",
       "einsatz_euro": 20.0,
       "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "DC 1X Markt-Goldgrube (72.7% / +39.7% ROI)"
+      "begruendung": "DC 1X Markt-Goldgrube (72.7% / +39.7% ROI)",
+      "rang": 3
     },
     {
       "spiel_id": "2026-09-13-nap-bol",
@@ -638,10 +654,11 @@
       "tipp_id": "nap-bol-1",
       "markt": "Napoli oder Remis (Doppelte Chance)",
       "quote": 1.15,
-      "kategorie": "safe",
+      "kategorie": "value",
       "einsatz_euro": 20.0,
       "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "DC 1X Goldgrube - Napoli-Heim sehr sicher"
+      "begruendung": "DC 1X Goldgrube - Napoli-Heim sehr sicher",
+      "rang": 4
     },
     {
       "spiel_id": "2026-09-13-elv-fcb",
@@ -652,7 +669,8 @@
       "kategorie": "safe",
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Elv-Tor-Freude + Bayern-Offensive - Ueber 2.5 fast garantiert"
+      "begruendung": "Elv-Tor-Freude + Bayern-Offensive - Ueber 2.5 fast garantiert",
+      "rang": 5
     },
     {
       "spiel_id": "2026-09-13-sas-juv",
@@ -660,10 +678,11 @@
       "tipp_id": "sas-juv-3",
       "markt": "Torschuetze jederzeit: Dusan Vlahovic",
       "quote": 2.0,
-      "kategorie": "value",
+      "kategorie": "wackel",
       "einsatz_euro": 8.0,
       "empfohlener_einsatz_prozent": 0.8,
-      "begruendung": "Vlahovic Volumen-9er unter Spalletti + Backup via Yildiz (Einwechslungs-Boost)"
+      "begruendung": "Vlahovic Volumen-9er unter Spalletti + Backup via Yildiz (Einwechslungs-Boost)",
+      "rang": 6
     },
     {
       "spiel_id": "2026-09-13-bre-psg",
@@ -674,7 +693,8 @@
       "kategorie": "safe",
       "einsatz_euro": 20.0,
       "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "PSG-Auswaertsklasse maximal - Brest historisch chancenlos"
+      "begruendung": "PSG-Auswaertsklasse maximal - Brest historisch chancenlos",
+      "rang": 7
     },
     {
       "spiel_id": "2026-09-13-elv-fcb",
@@ -685,7 +705,8 @@
       "kategorie": "value",
       "einsatz_euro": 12.0,
       "empfohlener_einsatz_prozent": 1.2,
-      "begruendung": "Kane Volumen-9er gegen loechrige Elv-Defense - Torschuetzen-Goldgrube"
+      "begruendung": "Kane Volumen-9er gegen loechrige Elv-Defense - Torschuetzen-Goldgrube",
+      "rang": 8
     },
     {
       "spiel_id": "2026-09-13-rbl-hsv",
@@ -696,7 +717,8 @@
       "kategorie": "value",
       "einsatz_euro": 12.0,
       "empfohlener_einsatz_prozent": 1.2,
-      "begruendung": "2:0-Insurance greift + Klassen-Edge trotz Demichelis-Umbau"
+      "begruendung": "2:0-Insurance greift + Klassen-Edge trotz Demichelis-Umbau",
+      "rang": 9
     },
     {
       "spiel_id": "2026-09-13-lev-fcb-esp",
@@ -707,7 +729,8 @@
       "kategorie": "value",
       "einsatz_euro": 12.0,
       "empfohlener_einsatz_prozent": 1.2,
-      "begruendung": "Lewa Volumen-9er + Backup via Jesus/Adeyemi (Einwechslungs-Boost)"
+      "begruendung": "Lewa Volumen-9er + Backup via Jesus/Adeyemi (Einwechslungs-Boost)",
+      "rang": 10
     },
     {
       "spiel_id": "2026-09-13-mun-mci",
@@ -718,7 +741,8 @@
       "kategorie": "value",
       "einsatz_euro": 12.0,
       "empfohlener_einsatz_prozent": 1.2,
-      "begruendung": "Manchester-Derby historisch offensiv, kein 0:0 zu erwarten"
+      "begruendung": "Manchester-Derby historisch offensiv, kein 0:0 zu erwarten",
+      "rang": 11
     },
     {
       "spiel_id": "2026-09-13-rso-atm",
@@ -729,7 +753,8 @@
       "kategorie": "value",
       "einsatz_euro": 10.0,
       "empfohlener_einsatz_prozent": 1.0,
-      "begruendung": "Alvarez Atleti-Volumen-9er, Backup via Sorloth"
+      "begruendung": "Alvarez Atleti-Volumen-9er, Backup via Sorloth",
+      "rang": 12
     }
   ],
   "kombis": [
