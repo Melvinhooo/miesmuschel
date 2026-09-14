@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-13",
+  "stand": "2026-09-08T06:15:00+00:00",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -168,21 +168,10 @@
     {
       "spieler": "Andy Robertson",
       "von": "Liverpool FC",
-      "nach": "Tottenham Hotspur",
-      "datum": "2026-07-01",
-      "hinweis": "Ablösefrei zu Spurs (De Zerbi), erster Tottenham-Sommer-Zugang. Kerkez als LV bei Liverpool. NIE mehr als Liverpool-Spieler tippen. Ab jetzt Tottenham-LV.",
-      "quelle": "https://www.tottenhamhotspur.com/news/1071931/robertson-signing-secured",
-      "stand": "2026-09-13"
-    },
-    {
-      "spieler": "Marcos Senesi",
-      "von": "AFC Bournemouth",
-      "nach": "Tottenham Hotspur",
-      "datum": "2026-07-01",
-      "ablöse_mio": 0,
-      "hinweis": "Ablösefrei aus Bournemouth (Vertrag ausgelaufen, 128 Bournemouth-Einsaetze in 4 Saisons), 4-Jahres-Vertrag bei Spurs unter De Zerbi. Argentinischer IV. NIE mehr als Bournemouth-Spieler tippen. Ab jetzt Tottenham-IV.",
-      "quelle": "https://www.tottenhamhotspur.com/news/1072863/senesi-switch-sealed",
-      "stand": "2026-09-13"
+      "nach": "abgegeben (Klub live pruefen)",
+      "datum": "2026",
+      "hinweis": "Robertson hat Liverpool im Sommer 2026 verlassen. Kerkez als LV bei Newcastle-Auswaerts 23.08.",
+      "quelle": "https://heavy.com/sports/soccer/premier-league/liverpool-fc/watch-newcastle-vs-liverpool-august-23/"
     },
     {
       "spieler": "Goncalo Ramos",
@@ -366,16 +355,6 @@
       "hinweis": "€38m Fixfee + 20% Sell-on-Klausel fuer Milan, 4-Jahres-Vertrag bis 2030, Netto-Gehalt €10m/Saison. NIE mehr als Milan-Spieler tippen. Eintrag aus Auswertung 07.09.: Leao im Juve-Milan-Dossier 06.09. als Torschuetzen-Tipp aufgestellt worden, obwohl er 30.08. offiziell zu Galatasaray gewechselt ist - Milan lief 06.09. mit 3-4-2-1 Rabiot/Saelemaekers hinter Ramos auf, kein Leao im Kader.",
       "quelle": "https://sports.yahoo.com/articles/official-milan-sell-leao-galatasaray-102000969.html",
       "stand": "2026-09-07"
-    },
-    {
-      "spieler": "Gabriel Jesus",
-      "von": "Arsenal FC",
-      "nach": "FC Barcelona",
-      "datum": "2026-09-01",
-      "ablöse_mio": 15,
-      "hinweis": "Deadline-Day-Wechsel Sommer 2026 (EUR 15m + Sell-on), Drei-Jahres-Vertrag. Debuet CL-MD1 Barca-Feyenoord 09.09.2026 als Sub fuer Dani Olmo, traf 85. das 5:1. NIE mehr als Arsenal-Spieler tippen. Barca-Neu-Volumenstuermer neben Adeyemi/Yamal/Raphinha.",
-      "quelle": "https://www.skysports.com/football/news/11833/13579275/gabriel-jesus-arsenal-forward-completes-barcelona-transfer-in-lb8-6m-deal-on-deadline-day",
-      "stand": "2026-09-10"
     }
   ],
   "zugaenge_neue_optionen": [
@@ -617,42 +596,6 @@
       "hinweis": "Kenianischer Volumen-Stuermer, 23 Jahre, Nr. 12. Sommer 2026 vom B-Team fest hochgezogen, Vertrag bis 2028. Traf 07.09.2026 gg Elche 11. Min zum 0:1 - hat in LaLiga-Auswaerts-Spielen 2026/27 damit gescort. Ab jetzt als 2. RSoc-Torschuetzen-Option NEBEN Oyarzabal/Kubo tracken (nicht statt).",
       "quelle": "https://striver.football/the-pathway/job-ochieng-real-sociedad-journey-bernabeu",
       "stand": "2026-09-08"
-    },
-    {
-      "spieler": "Gabriel Jesus",
-      "nach": "FC Barcelona",
-      "von": "Arsenal FC",
-      "datum": "2026-09-01",
-      "hinweis": "Deadline-Day-Wechsel EUR 15m, 3-Jahres-Vertrag. Debuetierte 09.09.2026 im CL-Auftakt gg Feyenoord als Sub fuer Olmo, traf 85. das 5:1 - erstes Barca-Tor beim Debut. Ab jetzt bevorzugte Barca-Sub-Torschuetzen-Option (Debuet-Impact-Muster), Einwechslungs-Boost-Backup fuer Lewandowski/Raphinha wenn ausgewechselt.",
-      "quelle": "https://www.fcbarcelona.com/en/football/first-team/news/4570072/gabriel-jesus-signs-for-fc-barcelona",
-      "stand": "2026-09-10"
-    },
-    {
-      "spieler": "Bruno Guimaraes",
-      "nach": "Arsenal FC",
-      "von": "Newcastle United",
-      "datum": "2026-08",
-      "hinweis": "£75m aus Newcastle, 4-Jahres-Vertrag + 1J-Option. Debuet in CL-MD1 Napoli-Arsenal 09.09.2026 als Sub 66. Min fuer Merino. Ab jetzt Arsenal-Mittelfeld-Option - Verantwortung im Aufbau, weniger Torschuetzen-Risiko.",
-      "quelle": "https://www.espn.com/soccer/story/_/id/49534772/arsenal-agree-deal-sign-bruno-guimaraes-newcastle-sources",
-      "stand": "2026-09-10"
-    },
-    {
-      "spieler": "Martin Baturina",
-      "nach": "Como 1907",
-      "von": "Dinamo Zagreb",
-      "ablöse_mio": 25,
-      "position": "OM",
-      "notiz": "Kroate, unterschrieb bis 2030. CL-Debut-Torschuetze 15. Min 4:1 vs Leipzig 10.09.2026 - VALUE-Torschuetzen-Option bei Como-Heimspielen 2026/27.",
-      "quelle": "https://sports.yahoo.com/article/como-reach-25m-agreement-sign-202300376.html"
-    },
-    {
-      "spieler": "Gleiker Mendoza",
-      "nach": "Shakhtar Donetsk",
-      "von": "Kryvbas Kryvyi Rih",
-      "ablöse_mio": null,
-      "position": "OM/RW",
-      "notiz": "Venezolaner, Vertrag bis 2031. Erstes Shakhtar-Tor 45+1 CL vs PSV 10.09.2026 (Curler untere rechte Ecke). Verifikations-Kandidat fuer Shakhtar-Torschuetzen-Tipps.",
-      "quelle": "https://shakhtar.com/en/news/2026/may/22_news/22_mendoza/"
     }
   ],
   "trainer_2026_27": [
@@ -854,24 +797,6 @@
       "hinweis": "Danischer Trainer, hat Toulouse-Interim-Rolle in Ligue 1 uebernommen nachdem Martinez Novell zu Leverkusen wechselte. Bekanntgabe 27.05.2026. Am 03.09.2026 (0:1 vs Lille): stellte 4-2-3-1 auf, zu-Null verloren gegen zweit-tiefsten Ligue-1-Absturz.",
       "quelle": "https://ligue1.com/en/articles/l1_article_5186-who-is-new-toulouse-manager-jens-berthel-askou",
       "stand": "2026-09-04"
-    },
-    {
-      "verein": "ACF Fiorentina",
-      "trainer_neu": "Paolo Vanoli",
-      "trainer_alt": "Fabio Grosso",
-      "seit": "2026-09-07",
-      "hinweis": "Grosso am 06.09.2026 nach 3 Spieltagen entlassen (3 Niederlagen, 1:9 Tore, u.a. 1:2 gegen Torino im Franchi) - erster Serie-A-Trainer der Saison 2026/27 ohne Job. Vanoli hatte Fiorentina bereits in Vorsaison uebernommen (Nachfolger Pioli) und Klassenerhalt geschafft, kehrt jetzt zurueck. Ex-Torino (Platz 11 in 2024/25). Taktische Aussagen ueber Fiorentina NICHT auf Grosso-Stand stuetzen. Vanoli spielt 3-5-2, pragmatischer.",
-      "quelle": "https://www.ilpost.it/2026/09/07/vanoli-nuovo-allenatore-fiorentina-ritorno/",
-      "stand": "2026-09-13"
-    },
-    {
-      "verein": "Valencia CF",
-      "trainer_neu": "offen (live pruefen)",
-      "trainer_alt": "Carlos Corberan",
-      "seit": "2026-09-13",
-      "hinweis": "Corberan + CEO Ron Gourlay am 13.09.2026 entlassen. Valencia nach 5 Spieltagen letzter (1 Punkt aus 15, 10 Gegentore, 1 Tor). Nachfolger noch nicht benannt - vor jedem Valencia-CL-/LaLiga-Tipp live pruefen. Taktische Aussagen NICHT auf Corberan-Stand stuetzen.",
-      "quelle": "https://www.infobae.com/america/agencias/2026/09/13/el-valencia-despide-a-su-tecnico-carlos-corberan-y-rompe-la-estructura-deportiva-actual/",
-      "stand": "2026-09-13"
     }
   ],
   "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist. Fulham hat mit Arbeloa (ex-Real Madrid) einen neuen Trainer, Silva zu Benfica (bestaetigt 25.08.2026).",

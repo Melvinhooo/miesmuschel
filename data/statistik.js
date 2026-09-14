@@ -1,29 +1,7 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-09-13T06:11:31+00:00",
+  "letzte_berechnung": "2026-09-14T06:13:32+00:00",
   "gesamt": {
-    "tipps": 427,
-    "gewonnen": 223,
-    "verloren": 192,
-    "push": 1,
-    "offen": 11,
-    "einsatz": 416.0,
-    "netto": 71.12,
-    "trefferquote": 53.7,
-    "roi_prozent": 17.1
-  },
-  "letzte_30_tage": {
-    "tipps": 108,
-    "gewonnen": 62,
-    "verloren": 35,
-    "push": 0,
-    "offen": 11,
-    "einsatz": 97.0,
-    "netto": 65.24,
-    "trefferquote": 63.9,
-    "roi_prozent": 67.3
-  },
-  "letzte_90_tage": {
     "tipps": 398,
     "gewonnen": 210,
     "verloren": 176,
@@ -34,106 +12,29 @@ window.__MIESMUSCHEL_STAT = {
     "trefferquote": 54.4,
     "roi_prozent": 15.2
   },
+  "letzte_30_tage": {
+    "tipps": 98,
+    "gewonnen": 58,
+    "verloren": 29,
+    "push": 0,
+    "offen": 11,
+    "einsatz": 87.0,
+    "netto": 65.24,
+    "trefferquote": 66.7,
+    "roi_prozent": 75.0
+  },
+  "letzte_90_tage": {
+    "tipps": 388,
+    "gewonnen": 209,
+    "verloren": 167,
+    "push": 1,
+    "offen": 11,
+    "einsatz": 377.0,
+    "netto": 67.7,
+    "trefferquote": 55.6,
+    "roi_prozent": 18.0
+  },
   "nach_liga": {
-    "NBA Playoffs - Finals Game 3": {
-      "tipps": 5,
-      "gewonnen": 0,
-      "verloren": 5,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 5.0,
-      "netto": -5.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe B)": {
-      "tipps": 4,
-      "gewonnen": 1,
-      "verloren": 3,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 4.0,
-      "netto": -2.28,
-      "trefferquote": 25.0,
-      "roi_prozent": -57.0
-    },
-    "FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe D)": {
-      "tipps": 4,
-      "gewonnen": 2,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 4.0,
-      "netto": 0.3,
-      "trefferquote": 50.0,
-      "roi_prozent": 7.5
-    },
-    "FIFA World Cup 2026 - Gruppe B - Spieltag 1": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "FIFA World Cup 2026 - Gruppe C - Spieltag 1": {
-      "tipps": 3,
-      "gewonnen": 2,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 4.45,
-      "trefferquote": 66.7,
-      "roi_prozent": 148.3
-    },
-    "FIFA World Cup 2026 - Gruppe D - Spieltag 1": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "NBA Finals Game 5 (Best of 7)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 1.93,
-      "trefferquote": 100.0,
-      "roi_prozent": 193.0
-    },
-    "FIFA World Cup 2026 - Gruppe E - Spieltag 1": {
-      "tipps": 5,
-      "gewonnen": 4,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 5.0,
-      "netto": 6.15,
-      "trefferquote": 80.0,
-      "roi_prozent": 123.0
-    },
-    "FIFA World Cup 2026 - Gruppe F - Spieltag 1": {
-      "tipps": 5,
-      "gewonnen": 3,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 5.0,
-      "netto": 6.75,
-      "trefferquote": 60.0,
-      "roi_prozent": 135.0
-    },
     "FIFA World Cup 2026 - Gruppe H - Spieltag 1": {
       "tipps": 6,
       "gewonnen": 1,
@@ -1137,292 +1038,6 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "nach_markt": {
-    "New York Knicks Sieg (Moneyline)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Unter 216.5 Gesamtpunkte": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Karl-Anthony Towns Double-Double": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Spread New York Knicks -2.5 Punkte": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Victor Wembanyama Double-Double": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Unter 2.5 Tore (Gesamt)": {
-      "tipps": 4,
-      "gewonnen": 2,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 4.0,
-      "netto": 0.52,
-      "trefferquote": 50.0,
-      "roi_prozent": 13.0
-    },
-    "Kanada Sieg (90 Min)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "USA Sieg (90 Min)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.9,
-      "trefferquote": 100.0,
-      "roi_prozent": 90.0
-    },
-    "Folarin Balogun Torschuetze Jederzeit": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 1.4,
-      "trefferquote": 100.0,
-      "roi_prozent": 140.0
-    },
-    "Jonathan David Torschuetze Jederzeit": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Christian Pulisic Torschuetze Jederzeit": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Beide Teams treffen — Nein": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Schweiz Sieg (1X2)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Brasilien Sieg (1X2)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Schottland Sieg (1X2)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 1.45,
-      "trefferquote": 100.0,
-      "roi_prozent": 145.0
-    },
-    "Vinicius Junior trifft jederzeit (Brasilien)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 3.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 300.0
-    },
-    "Tuerkei Sieg (1X2)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Unter 216.5 Gesamtpunkte (FT)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 1.93,
-      "trefferquote": 100.0,
-      "roi_prozent": 193.0
-    },
-    "Ueber 2.5 Tore (Gesamt)": {
-      "tipps": 4,
-      "gewonnen": 3,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 4.0,
-      "netto": 2.75,
-      "trefferquote": 75.0,
-      "roi_prozent": 68.8
-    },
-    "Florian Wirtz trifft jederzeit (Deutschland)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Deutschland Sieg (1X2)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 1.05,
-      "trefferquote": 100.0,
-      "roi_prozent": 105.0
-    },
-    "Viktor Gyokeres trifft jederzeit (Schweden)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 2.4,
-      "trefferquote": 100.0,
-      "roi_prozent": 240.0
-    },
-    "Jamal Musiala trifft jederzeit (Deutschland)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 2.1,
-      "trefferquote": 100.0,
-      "roi_prozent": 210.0
-    },
-    "Cody Gakpo trifft jederzeit (Niederlande)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Alexander Isak trifft jederzeit (Schweden)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 2.5,
-      "trefferquote": 100.0,
-      "roi_prozent": 250.0
-    },
-    "Niederlande Sieg (1X2)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
     "Spanien Sieg (1X2)": {
       "tipps": 1,
       "gewonnen": 0,
@@ -1445,6 +1060,17 @@ window.__MIESMUSCHEL_STAT = {
       "trefferquote": 0.0,
       "roi_prozent": -100.0
     },
+    "Ueber 2.5 Tore (Gesamt)": {
+      "tipps": 2,
+      "gewonnen": 1,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": -0.3,
+      "trefferquote": 50.0,
+      "roi_prozent": -15.0
+    },
     "Uruguay Doppelte Chance (X2)": {
       "tipps": 1,
       "gewonnen": 1,
@@ -1455,6 +1081,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.12,
       "trefferquote": 100.0,
       "roi_prozent": 12.0
+    },
+    "Unter 2.5 Tore (Gesamt)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     },
     "Uruguay Sieg (1X2)": {
       "tipps": 1,
@@ -3802,103 +3439,37 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_markt_typ": {
     "Sieg (1X2 / ML)": {
-      "tipps": 129,
-      "gewonnen": 61,
-      "verloren": 65,
+      "tipps": 120,
+      "gewonnen": 58,
+      "verloren": 59,
       "push": 1,
       "offen": 2,
-      "einsatz": 127.0,
-      "netto": 1.85,
-      "trefferquote": 48.4,
-      "roi_prozent": 1.5
-    },
-    "Spieler-Punkte Unter (NBA)": {
-      "tipps": 2,
-      "gewonnen": 1,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.93,
-      "trefferquote": 50.0,
-      "roi_prozent": 46.5
-    },
-    "Karl-Anthony Towns Double-Double": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Spread/Handicap": {
-      "tipps": 4,
-      "gewonnen": 3,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 4.0,
-      "netto": 3.95,
-      "trefferquote": 75.0,
-      "roi_prozent": 98.8
-    },
-    "Victor Wembanyama Double-Double": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Unter 2.5 Tore": {
-      "tipps": 28,
-      "gewonnen": 19,
-      "verloren": 9,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 28.0,
-      "netto": 9.03,
-      "trefferquote": 67.9,
-      "roi_prozent": 32.2
+      "einsatz": 118.0,
+      "netto": 0.45,
+      "trefferquote": 49.6,
+      "roi_prozent": 0.4
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 70,
-      "gewonnen": 24,
-      "verloren": 46,
+      "tipps": 61,
+      "gewonnen": 19,
+      "verloren": 42,
       "push": 0,
       "offen": 0,
-      "einsatz": 70.0,
-      "netto": 8.24,
-      "trefferquote": 34.3,
-      "roi_prozent": 11.8
-    },
-    "Beide Teams treffen NEIN": {
-      "tipps": 6,
-      "gewonnen": 3,
-      "verloren": 3,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 6.0,
-      "netto": 1.49,
-      "trefferquote": 50.0,
-      "roi_prozent": 24.8
+      "einsatz": 61.0,
+      "netto": -1.16,
+      "trefferquote": 31.1,
+      "roi_prozent": -1.9
     },
     "Ueber 2.5 Tore": {
-      "tipps": 34,
-      "gewonnen": 18,
+      "tipps": 32,
+      "gewonnen": 16,
       "verloren": 14,
       "push": 0,
       "offen": 2,
-      "einsatz": 32.0,
-      "netto": 10.05,
-      "trefferquote": 56.2,
-      "roi_prozent": 31.4
+      "einsatz": 30.0,
+      "netto": 7.0,
+      "trefferquote": 53.3,
+      "roi_prozent": 23.3
     },
     "Doppelte Chance X2": {
       "tipps": 36,
@@ -3910,6 +3481,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 10.67,
       "trefferquote": 75.0,
       "roi_prozent": 29.6
+    },
+    "Unter 2.5 Tore": {
+      "tipps": 25,
+      "gewonnen": 17,
+      "verloren": 8,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 25.0,
+      "netto": 7.51,
+      "trefferquote": 68.0,
+      "roi_prozent": 30.0
     },
     "Doppelte Chance 1X": {
       "tipps": 22,
@@ -4009,6 +3591,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.4,
       "trefferquote": 100.0,
       "roi_prozent": 40.0
+    },
+    "Beide Teams treffen NEIN": {
+      "tipps": 5,
+      "gewonnen": 3,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 5.0,
+      "netto": 2.49,
+      "trefferquote": 60.0,
+      "roi_prozent": 49.8
     },
     "Frankreich gewinnt (Sieg 2, 90min)": {
       "tipps": 1,
@@ -4142,6 +3735,17 @@ window.__MIESMUSCHEL_STAT = {
       "trefferquote": 0.0,
       "roi_prozent": 0.0
     },
+    "Spread/Handicap": {
+      "tipps": 3,
+      "gewonnen": 3,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 4.95,
+      "trefferquote": 100.0,
+      "roi_prozent": 165.0
+    },
     "Sabah kein Tor (Under 0.5 Sabah)": {
       "tipps": 1,
       "gewonnen": 1,
@@ -4166,84 +3770,84 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "nach_quoten_range": {
-    "1.50-2.00": {
-      "tipps": 181,
-      "gewonnen": 94,
-      "verloren": 85,
-      "push": 0,
-      "offen": 2,
-      "einsatz": 179.0,
-      "netto": 41.06,
-      "trefferquote": 52.5,
-      "roi_prozent": 22.9
-    },
     "1.00-1.50": {
-      "tipps": 170,
-      "gewonnen": 106,
-      "verloren": 56,
+      "tipps": 165,
+      "gewonnen": 103,
+      "verloren": 54,
       "push": 1,
       "offen": 7,
-      "einsatz": 163.0,
-      "netto": 26.19,
-      "trefferquote": 65.4,
-      "roi_prozent": 16.1
+      "einsatz": 158.0,
+      "netto": 23.49,
+      "trefferquote": 65.6,
+      "roi_prozent": 14.9
     },
-    "2.00-3.00": {
-      "tipps": 59,
-      "gewonnen": 19,
-      "verloren": 38,
+    "1.50-2.00": {
+      "tipps": 167,
+      "gewonnen": 89,
+      "verloren": 76,
       "push": 0,
       "offen": 2,
-      "einsatz": 57.0,
-      "netto": 3.87,
-      "trefferquote": 33.3,
-      "roi_prozent": 6.8
+      "einsatz": 165.0,
+      "netto": 40.86,
+      "trefferquote": 53.9,
+      "roi_prozent": 24.8
+    },
+    "2.00-3.00": {
+      "tipps": 51,
+      "gewonnen": 15,
+      "verloren": 34,
+      "push": 0,
+      "offen": 2,
+      "einsatz": 49.0,
+      "netto": -3.53,
+      "trefferquote": 30.6,
+      "roi_prozent": -7.2
     },
     "3.00+": {
-      "tipps": 17,
-      "gewonnen": 4,
-      "verloren": 13,
+      "tipps": 15,
+      "gewonnen": 3,
+      "verloren": 12,
       "push": 0,
       "offen": 0,
-      "einsatz": 17.0,
-      "netto": 0.0,
-      "trefferquote": 23.5,
-      "roi_prozent": 0.0
+      "einsatz": 15.0,
+      "netto": -2.0,
+      "trefferquote": 20.0,
+      "roi_prozent": -13.3
     }
   },
   "nach_kategorie": {
-    "value": {
-      "tipps": 250,
-      "gewonnen": 132,
-      "verloren": 113,
-      "push": 1,
-      "offen": 4,
-      "einsatz": 246.0,
-      "netto": 35.14,
-      "trefferquote": 53.9,
-      "roi_prozent": 14.3
-    },
-    "wackel": {
-      "tipps": 101,
-      "gewonnen": 42,
-      "verloren": 59,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 101.0,
-      "netto": 6.21,
-      "trefferquote": 41.6,
-      "roi_prozent": 6.1
-    },
     "safe": {
-      "tipps": 73,
-      "gewonnen": 48,
-      "verloren": 18,
+      "tipps": 69,
+      "gewonnen": 46,
+      "verloren": 16,
       "push": 0,
       "offen": 7,
-      "einsatz": 66.0,
-      "netto": 30.37,
-      "trefferquote": 72.7,
-      "roi_prozent": 46.0
+      "einsatz": 62.0,
+      "netto": 28.12,
+      "trefferquote": 74.2,
+      "roi_prozent": 45.4
+    },
+    "wackel": {
+      "tipps": 93,
+      "gewonnen": 40,
+      "verloren": 53,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 93.0,
+      "netto": 6.88,
+      "trefferquote": 43.0,
+      "roi_prozent": 7.4
+    },
+    "value": {
+      "tipps": 233,
+      "gewonnen": 123,
+      "verloren": 105,
+      "push": 1,
+      "offen": 4,
+      "einsatz": 229.0,
+      "netto": 24.42,
+      "trefferquote": 53.9,
+      "roi_prozent": 10.7
     },
     "risiko": {
       "tipps": 3,
@@ -4259,21 +3863,11 @@ window.__MIESMUSCHEL_STAT = {
   },
   "clv_gesamt": {
     "gesamt": {
-      "n": 18,
-      "durchschnitt": -1.51,
-      "median": 1.08
+      "n": 10,
+      "durchschnitt": -4.36,
+      "median": -4.55
     },
     "nach_liga": {
-      "FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe B)": {
-        "n": 4,
-        "durchschnitt": 1.21,
-        "median": 1.14
-      },
-      "FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe D)": {
-        "n": 4,
-        "durchschnitt": 2.9,
-        "median": 3.09
-      },
       "FIFA WM 2026 - Achtelfinale": {
         "n": 10,
         "durchschnitt": -4.36,
@@ -4292,15 +3886,15 @@ window.__MIESMUSCHEL_STAT = {
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 427,
-      "gewonnen": 223,
-      "verloren": 192,
+      "tipps": 398,
+      "gewonnen": 210,
+      "verloren": 176,
       "push": 1,
       "offen": 11,
-      "einsatz": 416.0,
-      "netto": 71.12,
-      "trefferquote": 53.7,
-      "roi_prozent": 17.1
+      "einsatz": 387.0,
+      "netto": 58.82,
+      "trefferquote": 54.4,
+      "roi_prozent": 15.2
     },
     "kasse": {
       "name": "2026/27",
@@ -4319,15 +3913,15 @@ window.__MIESMUSCHEL_STAT = {
         "start": "2000-01-01",
         "ende": "2026-08-21",
         "bilanz": {
-          "tipps": 366,
-          "gewonnen": 180,
-          "verloren": 174,
+          "tipps": 337,
+          "gewonnen": 167,
+          "verloren": 158,
           "push": 1,
           "offen": 11,
-          "einsatz": 355.0,
-          "netto": 2.75,
-          "trefferquote": 50.8,
-          "roi_prozent": 0.8
+          "einsatz": 326.0,
+          "netto": -9.55,
+          "trefferquote": 51.4,
+          "roi_prozent": -2.9
         },
         "ist_aktuell": false
       },
@@ -4352,6 +3946,318 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-09-13",
+      "gesamt": {
+        "tipps": 12,
+        "gewonnen": 8,
+        "verloren": 4,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 12.0,
+        "netto": 10.34,
+        "trefferquote": 66.7,
+        "roi_prozent": 86.2
+      },
+      "spiele": [
+        {
+          "id": "2026-09-13-lev-fcb-esp",
+          "liga": "LaLiga 2026/27 - Jornada 5",
+          "heim": "Levante UD",
+          "gast": "FC Barcelona",
+          "endstand": "2:4",
+          "tipps": [
+            {
+              "markt": "Barcelona oder Remis (Doppelte Chance)",
+              "quote": 1.06,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.06,
+              "kommentar": "Barcelona 4:2 - DC X2 durch"
+            },
+            {
+              "markt": "Torschuetze jederzeit: Robert Lewandowski",
+              "quote": 1.82,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Lewandowski Bank-Start, kein Tor - Einwechslungs-Boost greift nicht (er wurde nicht selbst ausgewechselt); Adeyemi kam fuer Gordon"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-13-rbl-hsv",
+          "liga": "Bundesliga 2026/27 - Matchday 3",
+          "heim": "RB Leipzig",
+          "gast": "Hamburger SV",
+          "endstand": "5:0",
+          "tipps": [
+            {
+              "markt": "Leipzig oder Remis (Doppelte Chance)",
+              "quote": 1.17,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.17,
+              "kommentar": "Leipzig 5:0 - DC 1X durch"
+            },
+            {
+              "markt": "Sieg RB Leipzig (90 Min)",
+              "quote": 1.62,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.62,
+              "kommentar": "Leipzig 5:0 - Direkt-Sieg, 2:0-Insurance nicht noetig aber Fuehrung erreicht"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-13-rso-atm",
+          "liga": "LaLiga 2026/27 - Jornada 5",
+          "heim": "Real Sociedad",
+          "gast": "Atletico Madrid",
+          "endstand": "0:3",
+          "tipps": [
+            {
+              "markt": "Torschuetze jederzeit: Julian Alvarez",
+              "quote": 2.2,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Julian Alvarez wegen Muskelfaser gar nicht im Kader (Sorloth ebenfalls verletzt) - kein Boost moeglich"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-13-elv-fcb",
+          "liga": "Bundesliga 2026/27 - Matchday 3",
+          "heim": "SV Elversberg",
+          "gast": "FC Bayern Muenchen",
+          "endstand": "1:2",
+          "tipps": [
+            {
+              "markt": "Sieg FC Bayern Muenchen (90 Min)",
+              "quote": 1.17,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.17,
+              "kommentar": "Bayern 2:1 - Sieg durch (2:0-Insurance NICHT getriggert, Bayern nie 2-Tor-Fuehrung)"
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.22,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.22,
+              "kommentar": "3 Tore - Ueber 2.5 durch"
+            },
+            {
+              "markt": "Torschuetze jederzeit: Harry Kane",
+              "quote": 1.6,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.6,
+              "kommentar": "Kane 72' - Torschuetzen-Tipp durch"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-13-mun-mci",
+          "liga": "Premier League 2026/27 - Matchweek 4",
+          "heim": "Manchester United",
+          "gast": "Manchester City",
+          "endstand": "0:1",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen: Ja",
+              "quote": 1.67,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "United nicht getroffen (10-Mann City verteidigte 0:1)"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-13-nap-bol",
+          "liga": "Serie A 2026/27 - 4^ giornata",
+          "heim": "SSC Napoli",
+          "gast": "Bologna FC",
+          "endstand": "1:0",
+          "tipps": [
+            {
+              "markt": "Napoli oder Remis (Doppelte Chance)",
+              "quote": 1.15,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.15,
+              "kommentar": "Napoli 1:0 - DC 1X durch"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-13-sas-juv",
+          "liga": "Serie A 2026/27 - 4^ giornata",
+          "heim": "US Sassuolo",
+          "gast": "Juventus FC",
+          "endstand": "3:2",
+          "tipps": [
+            {
+              "markt": "Torschuetze jederzeit: Dusan Vlahovic",
+              "quote": 2.0,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Vlahovic nicht in Startelf (Kolo Muani als 9er) - kein Tor, kein Boost"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-13-bre-psg",
+          "liga": "Ligue 1 2026/27 - Journee 4",
+          "heim": "Stade Brestois 29",
+          "gast": "Paris Saint-Germain",
+          "endstand": "0:1",
+          "tipps": [
+            {
+              "markt": "Sieg Paris Saint-Germain (90 Min)",
+              "quote": 1.35,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.35,
+              "kommentar": "PSG 1:0 - Sieg durch (F. Torres 5')"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe (3-5x)",
+          "kategorie": "safe",
+          "gesamtquote": 3.41,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg FC Bayern Muenchen (90 Min)",
+              "quote": 1.17,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Paris Saint-Germain (90 Min)",
+              "quote": 1.35,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg FC Barcelona (90 Min)",
+              "quote": 1.35,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Juventus FC (90 Min)",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance (6-10x)",
+          "kategorie": "balance",
+          "gesamtquote": 6.77,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg SSC Napoli (90 Min)",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen: Ja",
+              "quote": 1.67,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Atletico oder Remis (Doppelte Chance)",
+              "quote": 1.35,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetze jederzeit: Robert Lewandowski",
+              "quote": 1.82,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko (15-30x)",
+          "kategorie": "risk",
+          "gesamtquote": 19.48,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Torschuetze jederzeit: Kenan Yildiz",
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetze jederzeit: Erling Haaland",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 4.5 Tore",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetze jederzeit: Ousmane Dembele",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot (100x+)",
+          "kategorie": "moonshot",
+          "gesamtquote": 173.25,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Hamburger SV (90 Min)",
+              "quote": 7.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetze jederzeit: David Mokwa (Elversberg)",
+              "quote": 5.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetze jederzeit: Job Ochieng",
+              "quote": 4.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-09-12",
       "gesamt": {
@@ -15410,927 +15316,6 @@ window.__MIESMUSCHEL_STAT = {
             },
             {
               "markt": "Iran - Neuseeland: Wood trifft (NZ)",
-              "quote": 3.5,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-06-14",
-      "gesamt": {
-        "tipps": 10,
-        "gewonnen": 7,
-        "verloren": 3,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 10.0,
-        "netto": 12.9,
-        "trefferquote": 70.0,
-        "roi_prozent": 129.0
-      },
-      "spiele": [
-        {
-          "id": "2026-06-14-ger-cur",
-          "liga": "FIFA World Cup 2026 - Gruppe E - Spieltag 1",
-          "heim": "Deutschland",
-          "gast": "Curacao",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Deutschland Sieg (1X2)",
-              "quote": 1.05,
-              "kategorie": "safe",
-              "status": "gewonnen",
-              "gewinn_faktor": 1.05,
-              "kommentar": "Deutschland 7:1 - klarer Klassen-Edge realisiert, 2:0-Insurance gar nicht noetig (HZ 3:1)."
-            },
-            {
-              "markt": "Florian Wirtz trifft jederzeit (Deutschland)",
-              "quote": 2.0,
-              "kategorie": "safe",
-              "status": "verloren",
-              "gewinn_faktor": 0.0,
-              "kommentar": "Wirtz selber kein Tor (Assist Brown 68.). Wirtz in 72. fuer Goretzka ausgewechselt - Goretzka traf 72.-90. NICHT. Einwechslungs-Boost greift nicht. Lesson: Form-Stuermer mit 7 Quali-Toren liefert auch bei 7:1-Tor-Festival nicht zwingend selber."
-            },
-            {
-              "markt": "Ueber 2.5 Tore (Gesamt)",
-              "quote": 1.2,
-              "kategorie": "safe",
-              "status": "gewonnen",
-              "gewinn_faktor": 1.2,
-              "kommentar": "DE 7 Tore + CUR 1 Tor = 8 Tore - klar ueber 2.5. Markt-Goldgrube Ueber 2.5 voll bestaetigt."
-            },
-            {
-              "markt": "Jamal Musiala trifft jederzeit (Deutschland)",
-              "quote": 2.1,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 2.1,
-              "kommentar": "Musiala traf 47. (zweite Halbzeit-Eroeffnungs-Tor). Markt-Goldgrube Torschuetzen Jederzeit voll bestaetigt."
-            }
-          ]
-        },
-        {
-          "id": "2026-06-14-ned-jap",
-          "liga": "FIFA World Cup 2026 - Gruppe F - Spieltag 1",
-          "heim": "Niederlande",
-          "gast": "Japan",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Cody Gakpo trifft jederzeit (Niederlande)",
-              "quote": 2.5,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": 0.0,
-              "kommentar": "Gakpo selber kein Tor. In 85. fuer Brobbey ausgewechselt - Brobbey traf 85.-90. NICHT (Japan equalisierte stattdessen mit Kamada 89.). Einwechslungs-Boost greift nicht."
-            },
-            {
-              "markt": "Ueber 2.5 Tore (Gesamt)",
-              "quote": 1.85,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 1.85,
-              "kommentar": "2+2 = 4 Tore total - klar ueber 2.5. Goldgrube-Markt bestaetigt."
-            },
-            {
-              "markt": "Niederlande Sieg (1X2)",
-              "quote": 2.1,
-              "kategorie": "wackel",
-              "status": "verloren",
-              "gewinn_faktor": 0.0,
-              "kommentar": "NED 2:2 - kein Sieg, kein 2:0-Insurance (max-Fuehrung war 2:1 in 63., Kamada 89. equalisierte). 2:0-Insurance setzt 2-Tore-Vorsprung voraus - hier nie erreicht."
-            }
-          ]
-        },
-        {
-          "id": "2026-06-14-civ-ecu",
-          "liga": "FIFA World Cup 2026 - Gruppe E - Spieltag 1",
-          "heim": "Elfenbeinkueste",
-          "gast": "Ecuador",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Unter 2.5 Tore (Gesamt)",
-              "quote": 1.8,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 1.8,
-              "kommentar": "Nur 1 Tor (Amad Diallo 90.) - klar unter 2.5. Goldgrube-Markt (+28.1 ROI) voll bestaetigt - Unter-Pattern WM-Auftakt-Spiel 2 Tage in Folge."
-            }
-          ]
-        },
-        {
-          "id": "2026-06-14-swe-tun",
-          "liga": "FIFA World Cup 2026 - Gruppe F - Spieltag 1",
-          "heim": "Schweden",
-          "gast": "Tunesien",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Viktor Gyokeres trifft jederzeit (Schweden)",
-              "quote": 2.4,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 2.4,
-              "kommentar": "Gyokeres traf 59. (Skhiri-Fehler ausgenutzt). Goldgrube-Markt + Form-Edge voll bestaetigt - 6. Tor in 4 NT-Spielen."
-            },
-            {
-              "markt": "Alexander Isak trifft jederzeit (Schweden)",
-              "quote": 2.5,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 2.5,
-              "kommentar": "Isak traf 29. nach Gyokeres-Assist auf Konter. Backup-9er-Pflicht-Tipp voll bestaetigt - Doppel-9er-Setup performte."
-            }
-          ]
-        }
-      ],
-      "kombis": [
-        {
-          "name": "Safe-Kombi 3.50x",
-          "kategorie": "safe",
-          "gesamtquote": 3.5,
-          "einsatz_prozent": 2.0,
-          "status": "gewonnen",
-          "beine": [
-            {
-              "markt": "Deutschland Sieg (1X2)",
-              "quote": 1.05,
-              "status": "gewonnen",
-              "kommentar": "Deutschland 7:1 - klarer Klassen-Edge realisiert, 2:0-Insurance gar nicht noetig (HZ 3:1)."
-            },
-            {
-              "markt": "Unter 2.5 Tore (Gesamt)",
-              "quote": 1.8,
-              "status": "gewonnen",
-              "kommentar": "Nur 1 Tor (Amad Diallo 90.) - klar unter 2.5. Goldgrube-Markt (+28.1 ROI) voll bestaetigt - Unter-Pattern WM-Auftakt-Spiel 2 Tage in Folge."
-            },
-            {
-              "markt": "Ueber 2.5 Tore (Gesamt)",
-              "quote": 1.85,
-              "status": "gewonnen",
-              "kommentar": "2+2 = 4 Tore total - klar ueber 2.5. Goldgrube-Markt bestaetigt."
-            }
-          ]
-        },
-        {
-          "name": "Balance-Kombi 9.55x",
-          "kategorie": "balance",
-          "gesamtquote": 9.55,
-          "einsatz_prozent": 0.8,
-          "status": "verloren",
-          "beine": [
-            {
-              "markt": "Florian Wirtz trifft jederzeit",
-              "quote": 2.0,
-              "status": "verloren",
-              "kommentar": "Wirtz selber kein Tor (Assist Brown 68.). Wirtz in 72. fuer Goretzka ausgewechselt - Goretzka traf 72.-90. NICHT. Einwechslungs-Boost greift nicht. Lesson: Form-Stuermer mit 7 Quali-Toren liefert auch bei 7:1-Tor-Festival nicht zwingend selber."
-            },
-            {
-              "markt": "Cody Gakpo trifft jederzeit",
-              "quote": 2.5,
-              "status": "verloren",
-              "kommentar": "Gakpo selber kein Tor. In 85. fuer Brobbey ausgewechselt - Brobbey traf 85.-90. NICHT (Japan equalisierte stattdessen mit Kamada 89.). Einwechslungs-Boost greift nicht."
-            },
-            {
-              "markt": "Schweden Sieg (1X2)",
-              "quote": 1.91,
-              "status": "gewonnen",
-              "kommentar": "Schweden 5:1 dominanter Sieg, 2:0-Insurance ab 29. (Isak-Tor) gegeben aber gar nicht noetig."
-            }
-          ]
-        },
-        {
-          "name": "Risiko-Kombi 25.91x",
-          "kategorie": "risk",
-          "gesamtquote": 25.91,
-          "einsatz_prozent": 0.25,
-          "status": "verloren",
-          "beine": [
-            {
-              "markt": "Jamal Musiala trifft jederzeit",
-              "quote": 2.1,
-              "status": "gewonnen",
-              "kommentar": "Musiala traf 47. (zweite Halbzeit-Eroeffnungs-Tor). Markt-Goldgrube Torschuetzen Jederzeit voll bestaetigt."
-            },
-            {
-              "markt": "Niederlande Sieg (1X2)",
-              "quote": 2.1,
-              "status": "verloren",
-              "kommentar": "NED 2:2 - kein Sieg, kein 2:0-Insurance (max-Fuehrung war 2:1 in 63., Kamada 89. equalisierte). 2:0-Insurance setzt 2-Tore-Vorsprung voraus - hier nie erreicht."
-            },
-            {
-              "markt": "Ecuador Sieg (1X2)",
-              "quote": 2.35,
-              "status": "verloren",
-              "kommentar": "Ecuador 0:1 - Buchmacher-Favorit-Crash durch CIV-Joker Amad Diallo 90. Coinflip-Wackel-Tipp ohne Edge."
-            },
-            {
-              "markt": "Alexander Isak trifft jederzeit",
-              "quote": 2.5,
-              "status": "gewonnen",
-              "kommentar": "Isak traf 29. nach Gyokeres-Assist auf Konter. Backup-9er-Pflicht-Tipp voll bestaetigt - Doppel-9er-Setup performte."
-            }
-          ]
-        },
-        {
-          "name": "Moonshot-Kombi 79.20x",
-          "kategorie": "moonshot",
-          "gesamtquote": 79.2,
-          "einsatz_prozent": 0.1,
-          "status": "verloren",
-          "beine": [
-            {
-              "markt": "Deutschland Ueber 4.5 Tore",
-              "quote": 2.2,
-              "status": "gewonnen",
-              "kommentar": "Deutschland 7 Tore - klar ueber 4.5. Moonshot voll eingeschlagen."
-            },
-            {
-              "markt": "Beide Teams treffen (BTTS Ja)",
-              "quote": 2.0,
-              "status": "gewonnen",
-              "kommentar": "Beide Teams trafen 2x - BTTS Ja klar erfuellt."
-            },
-            {
-              "markt": "Gonzalo Plata trifft jederzeit",
-              "quote": 3.0,
-              "status": "verloren",
-              "kommentar": "Plata kein Tor (Ecuador insgesamt 0 Tore). Moonshot verfehlt."
-            },
-            {
-              "markt": "Gyokeres Doppelpack (2+ Tore)",
-              "quote": 6.0,
-              "status": "verloren",
-              "kommentar": "Gyokeres nur 1 Tor (59.) - kein Doppelpack. Einwechslungs-Boost-Hedge greift nicht (Gyokeres spielte durch). Moonshot verfehlt."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-06-13",
-      "gesamt": {
-        "tipps": 6,
-        "gewonnen": 3,
-        "verloren": 3,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 6.0,
-        "netto": 6.38,
-        "trefferquote": 50.0,
-        "roi_prozent": 106.3
-      },
-      "spiele": [
-        {
-          "id": "2026-06-13-qat-sui",
-          "liga": "FIFA World Cup 2026 - Gruppe B - Spieltag 1",
-          "heim": "Katar",
-          "gast": "Schweiz",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Schweiz Sieg (1X2)",
-              "quote": 1.3,
-              "kategorie": "safe",
-              "status": "verloren",
-              "gewinn_faktor": 0.0,
-              "kommentar": "Schweiz nur 1:0 Fuehrung, kein 2:0-Insurance-Auslosen - Khoukhi-Kopfball-Equalizer 90+4 sicherte Katar den ersten WM-Punkt der Geschichte."
-            }
-          ]
-        },
-        {
-          "id": "2026-06-13-bra-mar",
-          "liga": "FIFA World Cup 2026 - Gruppe C - Spieltag 1",
-          "heim": "Brasilien",
-          "gast": "Marokko",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Vinicius Junior trifft jederzeit (Brasilien)",
-              "quote": 3.0,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 3.0,
-              "kommentar": "Vinicius Jr 32' Top-Corner-Strike - klassischer Real-Madrid-Form-Edge realisiert. Torschuetzen-Goldgrube validiert."
-            },
-            {
-              "markt": "Brasilien Sieg (1X2)",
-              "quote": 1.57,
-              "kategorie": "wackel",
-              "status": "verloren",
-              "gewinn_faktor": 0.0,
-              "kommentar": "1:1 Remis - Brasilien Sieg verloren, keine 2:0-Insurance (Brasilien fuehrte nie). Marokko-Defensiv-Block (2022-HF) widerlegte Top5-Klassen-Edge."
-            }
-          ]
-        },
-        {
-          "id": "2026-06-13-sas-nyk-g5",
-          "liga": "NBA Finals Game 5 (Best of 7)",
-          "heim": "San Antonio Spurs",
-          "gast": "New York Knicks",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Unter 216.5 Gesamtpunkte (FT)",
-              "quote": 1.93,
-              "kategorie": "wackel",
-              "status": "gewonnen",
-              "gewinn_faktor": 1.93,
-              "kommentar": "Total 184 (90+94) deutlich unter 216.5 - NBA-Decider-Defensiv-Goldgrube G5 HIT (Track 4/5 = 80% in Finals)."
-            }
-          ]
-        },
-        {
-          "id": "2026-06-13-hai-sco",
-          "liga": "FIFA World Cup 2026 - Gruppe C - Spieltag 1",
-          "heim": "Haiti",
-          "gast": "Schottland",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Schottland Sieg (1X2)",
-              "quote": 1.45,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 1.45,
-              "kommentar": "Schottland 1:0 Sieg durch McGinn 28' - erster WM-Sieg seit 1990. Klassen-Edge-Sieg-These bestaetigt."
-            }
-          ]
-        },
-        {
-          "id": "2026-06-13-aus-tur",
-          "liga": "FIFA World Cup 2026 - Gruppe D - Spieltag 1",
-          "heim": "Australien",
-          "gast": "Tuerkei",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Tuerkei Sieg (1X2)",
-              "quote": 1.8,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": 0.0,
-              "kommentar": "Australien 2:0 Sieg ueber Tuerkei - Coinflip-Risiko realisiert. Calhanoglu spielte trotz Mueidigkeits-Warnung aber Tuerkei-Offensive ohne Durchschlagskraft."
-            }
-          ]
-        }
-      ],
-      "kombis": [
-        {
-          "name": "Safe-Kombi WM-Klassen-Edge 3er-Sieg ~2.96x",
-          "kategorie": "safe",
-          "gesamtquote": 2.96,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Katar vs Schweiz: Schweiz Sieg (1X2)",
-              "quote": 1.3,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Haiti vs Schottland: Schottland Sieg (1X2)",
-              "quote": 1.45,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Brasilien vs Marokko: Brasilien Sieg (1X2)",
-              "quote": 1.57,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Balance-Kombi Mixed-Markets Tor/Sieg/NBA ~10.42x",
-          "kategorie": "balance",
-          "gesamtquote": 10.42,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Australien vs Tuerkei: Tuerkei Sieg (1X2)",
-              "quote": 1.8,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Brasilien vs Marokko: Vinicius Jr trifft jederzeit",
-              "quote": 3.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Spurs vs Knicks NBA Finals G5: Unter 216.5 Gesamtpunkte (FT)",
-              "quote": 1.93,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Risiko-Kombi Markt-Mix Tor-Total + NBA-Sieg ~16.3x",
-          "kategorie": "risk",
-          "gesamtquote": 16.28,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Brasilien vs Marokko: Ueber 2.5 Tore",
-              "quote": 1.85,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Australien vs Tuerkei: Ueber 2.5 Tore",
-              "quote": 2.05,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Haiti vs Schottland: Ueber 2.5 Tore",
-              "quote": 2.1,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Katar vs Schweiz: Schweiz Ueber 1.5 Tore",
-              "quote": 1.4,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Spurs vs Knicks NBA Finals G5: San Antonio Spurs Heimsieg",
-              "quote": 1.46,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Moonshot-Kombi Underdog-Tore + Schwellen ~46x",
-          "kategorie": "moonshot",
-          "gesamtquote": 46.37,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Katar vs Schweiz: Katar trifft jederzeit (Almoez Ali / Akram Afif)",
-              "quote": 3.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Haiti vs Schottland: Haiti trifft jederzeit",
-              "quote": 2.3,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Brasilien vs Marokko: Ueber 3.5 Tore",
-              "quote": 3.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Australien vs Tuerkei: Beide Teams treffen (BTTS Ja)",
-              "quote": 2.1,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-06-12",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "Safe-Eroeffnungs-Doppel",
-          "kategorie": "safe",
-          "gesamtquote": 3.48,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Kanada vs Bosnien-Herzegowina: Kanada Sieg (90 Min)",
-              "quote": 1.83,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "USA vs Paraguay: USA Sieg (90 Min)",
-              "quote": 1.9,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Balance-Torschuetzen-Doppel",
-          "kategorie": "balance",
-          "gesamtquote": 6.84,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Kanada vs Bosnien-Herzegowina: Jonathan David Torschuetze Jederzeit",
-              "quote": 2.85,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "USA vs Paraguay: Folarin Balogun Torschuetze Jederzeit",
-              "quote": 2.4,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Risiko-Erster-Torschuetze-Upset",
-          "kategorie": "risk",
-          "gesamtquote": 31.5,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "USA vs Paraguay: Christian Pulisic Erster Torschuetze",
-              "quote": 9.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Kanada vs Bosnien-Herzegowina: Edin Dzeko Torschuetze Jederzeit",
-              "quote": 3.5,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Moonshot-Larin-Almiron-Lotto",
-          "kategorie": "moonshot",
-          "gesamtquote": 50.0,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Kanada vs Bosnien-Herzegowina: Cyle Larin Doppelpack (2+ Tore)",
-              "quote": 10.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "USA vs Paraguay: Miguel Almiron Torschuetze Jederzeit",
-              "quote": 5.0,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-06-11",
-      "gesamt": {
-        "tipps": 6,
-        "gewonnen": 3,
-        "verloren": 3,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 6.0,
-        "netto": -1.14,
-        "trefferquote": 50.0,
-        "roi_prozent": -19.0
-      },
-      "spiele": [
-        {
-          "id": "2026-06-11-mex-rsa",
-          "liga": "FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe A)",
-          "heim": "Mexiko",
-          "gast": "Suedafrika",
-          "endstand": "2:0",
-          "tipps": [
-            {
-              "markt": "Mexiko Sieg (90 Min)",
-              "quote": 1.48,
-              "kategorie": "safe",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.48,
-              "kommentar": "Mexico 2:0 Sieg — direkter 1X2-Sieg-Tipp gewonnen. 2:0-Insurance war irrelevant (Mexico hielt 2:0)."
-            },
-            {
-              "markt": "Unter 2.5 Tore (Gesamt)",
-              "quote": 1.68,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.68,
-              "kommentar": "Endstand 2:0 = 2 Tore < 2.5. Markt-Goldgrube Unter 2.5 wieder bestaetigt. WM-Eroeffnungs-Defensive-Pattern (7/10) griff."
-            },
-            {
-              "markt": "Beide Teams treffen — Nein",
-              "quote": 1.7,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.698,
-              "kommentar": "Suedafrika ohne Tor (Bafana-0/4-Tore-Pre-WM-Pattern hielt). BTTS-Nein gewonnen."
-            }
-          ]
-        },
-        {
-          "id": "2026-06-12-kor-cze",
-          "liga": "FIFA WM 2026 Gruppenphase Spieltag 1 (Gruppe A)",
-          "heim": "Suedkorea",
-          "gast": "Tschechien",
-          "endstand": "2:1",
-          "tipps": [
-            {
-              "markt": "Unter 2.5 Tore (Gesamt)",
-              "quote": 1.62,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Endstand 2:1 = 3 Tore — Unter 2.5 verloren. 2.HZ-Eskalation (3 Tore in 30 Min nach 0:0-HZ): Krejci 59., Hwang 67., Oh 80. Korea-14/15-BTTS-Nein-Pattern hielt nicht, Spieltag-1-Defensiv-Pattern galt nur fuer 1.HZ."
-            },
-            {
-              "markt": "Beide Teams treffen — Nein",
-              "quote": 1.91,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "BTTS: Tschechien (Krejci 59.) + Suedkorea (Hwang 67. + Oh 80.) = JA. BTTS-Nein verloren. Korea-Historie-Pattern brach."
-            },
-            {
-              "markt": "Patrik Schick — erster Torschuetze des Spiels",
-              "quote": 4.9,
-              "kategorie": "risk",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Erster Torschuetze war Krejci (Tschechien IV, 59. Min Kopfball nach Coufal-Einwurf), nicht Schick. Schick blieb torlos. Lotterie-Markt verloren wie erwartet."
-            }
-          ]
-        }
-      ],
-      "kombis": [
-        {
-          "name": "Safe-Kombi (~2.40x)",
-          "kategorie": "safe",
-          "gesamtquote": 2.4,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Mexiko Sieg (90 Min)",
-              "quote": 1.48,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Unter 2.5 Tore (Gesamt)",
-              "quote": 1.62,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Balance-Kombi (~4.03x)",
-          "kategorie": "balance",
-          "gesamtquote": 4.03,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Unter 2.5 Tore (Gesamt)",
-              "quote": 1.68,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Son Heung-min trifft jederzeit",
-              "quote": 2.4,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Risiko-Kombi (~6.88x)",
-          "kategorie": "risk",
-          "gesamtquote": 6.88,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Raul Jimenez trifft jederzeit",
-              "quote": 2.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Tschechien Sieg (90 Min)",
-              "quote": 2.75,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Moonshot-Kombi (~9.07x)",
-          "kategorie": "moonshot",
-          "gesamtquote": 9.07,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Mexiko zu Null (Suedafrika trifft nicht)",
-              "quote": 1.85,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Patrik Schick — erster Torschuetze des Spiels",
-              "quote": 4.9,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-06-10",
-      "gesamt": {
-        "tipps": 2,
-        "gewonnen": 2,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 2.0,
-        "netto": 3.89,
-        "trefferquote": 100.0,
-        "roi_prozent": 194.5
-      },
-      "spiele": [
-        {
-          "id": "2026-06-10-nyk-sas",
-          "liga": "NBA Finals Game 4 (Best of 7)",
-          "heim": "New York Knicks",
-          "gast": "San Antonio Spurs",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "San Antonio Spurs Handicap +1.5",
-              "quote": 1.96,
-              "kategorie": "wackel",
-              "status": "gewonnen",
-              "gewinn_faktor": 1.96,
-              "kommentar": "SAS verlor mit 1 Pkt (106-107), +1.5-Handicap deckt 1-Pkt-Niederlage komplett. Spurs fuehrten zur HZ 76-49 (+27, drittgroesster HZ-Vorsprung in NBA-Finals-Geschichte), Knicks-Comeback aus 29 Pkt Rueckstand (groesster Comeback in NBA-Finals-Geschichte) durch OG-Anunoby-Tip-In nach Brunson-Miss 1.2 Sek vor Schluss."
-            },
-            {
-              "markt": "Unter 216.5 Gesamtpunkte (FT)",
-              "quote": 1.93,
-              "kategorie": "wackel",
-              "status": "gewonnen",
-              "gewinn_faktor": 1.93,
-              "kommentar": "Endstand 107-106 = 213 Total < 216.5. Knapp gewonnen aber gewonnen - SAS-2.HZ-Wurf-Kollaps (3/17 von Downtown) drueckte Total trotz 1.HZ-Eskalation (125 in 1.HZ projiziert)."
-            }
-          ]
-        }
-      ],
-      "kombis": []
-    },
-    {
-      "datum": "2026-06-08",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "Knicks-SGP Safe (~3.31x)",
-          "kategorie": "safe",
-          "gesamtquote": 3.31,
-          "einsatz_prozent": 2.0,
-          "status": "verloren",
-          "beine": [
-            {
-              "markt": "New York Knicks Sieg",
-              "quote": 1.77,
-              "status": "verloren",
-              "kommentar": "Spurs gewinnen 115-111 - NYK-ML Sieg-Tipp verloren. Knicks 13-Spiele-Playoff-Streak gerissen. Brunson 11/25 FG + 5 TO ineffizient, Towns 11/8 weit unter Schnitt - Knicks-Offense brach im 3. Viertel ein (47 Pkt in 2. Hz vs 64 in 1. Hz)."
-            },
-            {
-              "markt": "Unter 216.5 Gesamtpunkte",
-              "quote": 1.87,
-              "status": "verloren",
-              "kommentar": "Endstand 111+115=226 - Linie 216.5 um 9.5 Pkt UEBERschritten. Lesson 02.05. NBA-Decider-Defensiv-These erstmals widerlegt in Finals-Serie (vorher 2/2 HIT bei 200 + 209). Closeout-Druck war diesmal Tempo-Beschleuniger statt Tempo-Bremse."
-            }
-          ]
-        },
-        {
-          "name": "Star-DD-SGP Balance (~7.46x)",
-          "kategorie": "balance",
-          "gesamtquote": 7.46,
-          "einsatz_prozent": 0.8,
-          "status": "verloren",
-          "beine": [
-            {
-              "markt": "Karl-Anthony Towns Double-Double",
-              "quote": 1.8,
-              "status": "verloren",
-              "kommentar": "Towns 11 Pkt / 8 Reb - kein DD (Punkte UND Rebounds beide unter 10-Schwelle). Massiver Bruch zum G1/G2-DD-Pattern (18/12 + 21/13). KAT-Punkte-Einbruch von 21 auf 11 unter Spurs-Wemby-Champagnie-Frontcourt-Druck."
-            },
-            {
-              "markt": "Victor Wembanyama Double-Double",
-              "quote": 1.3,
-              "status": "verloren",
-              "kommentar": "Wemby 32 Pkt / 8 Reb - kein DD (Rebounds unter 10). SHOCK-Bruch trotz Finals-Karriere-Hoch bei Punkten - Wemby hatte in G1+G2 12/9 Rebs, G3 nur 8. Knicks-Anunoby/Towns-Box-Out reduzierte Wemby-Rebound-Volumen. 1.30-VALUE-Edge-These (DD-Pattern robust) widerlegt."
-            },
-            {
-              "markt": "Josh Hart Double-Double",
-              "quote": 3.2,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Volume-Star-SGP Risiko (~19.95x)",
-          "kategorie": "risk",
-          "gesamtquote": 19.95,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Karl-Anthony Towns Ueber 22.5 Punkte",
-              "quote": 3.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Victor Wembanyama Ueber 31.5 Punkte",
-              "quote": 3.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Total Punkte 1. Viertel Ueber 54.5",
-              "quote": 1.9,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Sweep-Lotto Moonshot (~367.50x)",
-          "kategorie": "moonshot",
-          "gesamtquote": 367.5,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Serien-Sieg New York Knicks 4-0 (Finals-Sweep)",
-              "quote": 5.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Victor Wembanyama Triple-Double",
-              "quote": 21.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Jalen Brunson Ueber 35.5 Punkte",
               "quote": 3.5,
               "status": "offen",
               "kommentar": ""
