@@ -1,0 +1,68 @@
+{
+  "spiel_id": "2026-09-14-tor-rom",
+  "saison_kontext": {
+    "parallel_heim": "keine - kein Europa, Coppa Italia raus (0:1 gg Monza 01.09.)",
+    "parallel_gast": "Europa League Ligaphase startet MD1 erst am 24.09. -> vor diesem Spiel keine EU-Belastung, aber Fokus-Split moeglich",
+    "saisonziel_heim": "Torino oberes Tabellenmittelfeld / Europa-Konkurrenz - Fehlstart mit nur 3 Pkt aus 3 Spielen (Heim-0:1 gg Milan + Ausw-Pleite Sassuolo + einziger Sieg in Fiorentina). Neu-Trainer Ignazio Abate (seit 07/2026, Ex-Juve-Stabia B-Playoff-Halbfinale, spielt 3-4-1-2).",
+    "saisonziel_gast": "Roma Champions-League-Quali. Bilderbuch-Start mit 3 Siegen aus 3 Spielen = 9 Pkt. Dybala treibende Kraft (12 Chancen + 4 Assists in 3 Spielen).",
+    "motivations_asymmetrie": "Klarer Form- und Klassen-Edge fuer Roma auswaerts, Torino unter Neu-Trainer noch ohne Rhythmus + Sturmspitzen-Krise (Ché Adams verletzt, Simeone nicht fit). Aber Ausw-Favoriten in Serie A oft undankbar - daher DC X2 statt SAFE-Direkt.",
+    "recovery_heim": "5 Tage seit Sassuolo-Niederlage (Serie-A) - frisch aber angeschlagen",
+    "recovery_gast": "6 Tage seit letztem Liga-Spiel - voll frisch, EL-Vorlauf erst 24.09.",
+    "quellen": [
+      "https://www.legaseriea.it/",
+      "https://sport.sky.it/calcio/serie-a/2026/09/14/partite-serie-a-oggi-lunedi",
+      "https://www.ilmessaggero.it/sport/schede/torino_roma_dove_vederla_tv_sky_dazn_probabili_formazioni_orario_serie_a-9759571.html",
+      "https://www.napolimagazine.com/calcio/articolo/sky-roma-la-probabile-formazione-contro-il-torino-dybala-ancora-titolare-14-09-2026",
+      "https://www.pazzidifanta.com/news/torino-roma-probabili-formazioni-4a-giornata-serie-a-2026-27-459257",
+      "https://www.transfermarkt.de/as-rom/startseite/verein/12",
+      "https://www.kicker.de/as-roma/kader",
+      "https://www.transfermarkt.de/fc-turin/startseite/verein/416"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "tor-rom-1",
+      "kategorie": "safe",
+      "markt": "Roma oder Remis (Doppelte Chance)",
+      "quote": 1.3,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "edge_prozent": 4.0,
+      "faire_quote": 1.25,
+      "begruendung": "DC X2 ist Markt-Goldgrube (75% Hit / +9.4% ROI, n=36). Roma 3S/3S auswaerts gegen einen Torino mit Sturm-Krise und Neu-Trainer im Umbruch. Ohne 2:0-Insurance in Serie A DC statt Direkt-Sieg-SAFE. Stufe 1 (Kasse 1000€): 2% = 20€ Einsatz."
+    },
+    {
+      "id": "tor-rom-2",
+      "kategorie": "value",
+      "markt": "Sieg AS Roma (90 Min)",
+      "quote": 1.7,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "edge_prozent": 6.0,
+      "faire_quote": 1.6,
+      "begruendung": "Direkt-Sieg Roma fuer Kombi-Basis. Dybala + Konè in Top-Form, Torino-Defense (Milan-Debakel + Sassuolo-Pleite) unsortiert. Value @ 1.70 fair - implizite 58% vs faire ~63%."
+    },
+    {
+      "id": "tor-rom-3",
+      "kategorie": "value",
+      "markt": "Torschuetze jederzeit: Paulo Dybala",
+      "quote": 3.0,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "edge_prozent": 6.0,
+      "faire_quote": 2.83,
+      "begruendung": "HR24-konform: Dybala 4 Assists + 12 Chancen in 3 Spielen (Form-Edge), spielt hinter Dovbyk und drueckt in die Box, Torino-Defense anfaellig. Goldgrube-Markt 'Torschuetzen Jederzeit' aktiv suchen. Achtung: Standard-Kicker gehoert nicht ihm - der Elfer-Bonus fehlt in der Faire-Line-Kalkulation daher schon eingebaut."
+    },
+    {
+      "id": "tor-rom-4",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.78,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 2.0,
+      "faire_quote": 1.74,
+      "begruendung": "Torino defensiv-orientiert unter Abate (3-4-1-2, Coppa-Italia 0:1-Niederlage), Roma-Sturm ohne echten 20-Tore-9er - ideale Kulisse fuer knappes 1:0/1:1. Unter 2.5 Goldgrube (68% / +30% ROI, n=25). Wackel weil Roma-Momentum auch 2:1 werden kann."
+    }
+  ]
+}

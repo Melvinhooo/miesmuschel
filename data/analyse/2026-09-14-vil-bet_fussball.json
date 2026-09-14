@@ -1,0 +1,67 @@
+{
+  "spiel_id": "2026-09-14-vil-bet",
+  "saison_kontext": {
+    "parallel_heim": "CL-Ligaphase MD1 (09.09.) - Ausw-Niederlage gegen Borussia Dortmund, MD2 erst 30.09. -> keine akute Rotation, aber Kopf-Belastung",
+    "parallel_gast": "Conference League Ligaphase startet erst am 24.09. -> vor diesem Spiel keine EU-Belastung",
+    "saisonziel_heim": "Villarreal Europa-Podest (CL-Rueckkehr laeuft). Fehlstart mit 2 Pkt aus 4 Spielen (2 Remis + 2 Niederlagen), P17. 5 Spiele sieglos inkl. CL-Pleite vs Dortmund. Trainer Marcelino.",
+    "saisonziel_gast": "Real Betis Europa-Podest / oberes Drittel. 9 Pkt aus 4 Spielen (3 Siege + 1 Niederlage), P4 punktegleich mit Real Madrid, 3 Pkt hinter Barca. Antony/Isco/Fornals-Achse tickt.",
+    "motivations_asymmetrie": "Form-Edge klar bei Betis auswaerts trotz Villarreal-Heimvorteil. Villarreal-Home-Odds ~1.86 sind aggressiv fuer ein 5-Spiele-sieglos-Team gegen einen P4-Betis mit Momentum. Klassischer Underdog-DC-X2-Value.",
+    "recovery_heim": "5 Tage seit CL-MD1 vs Dortmund (Kopf hat noch die Niederlage) - koerperlich frisch aber mental angeknackst",
+    "recovery_gast": "6 Tage seit letztem Liga-Spiel - frisch, kein EU-Vorlauf",
+    "quellen": [
+      "https://www.laliga.com/en-GB/laliga-easports/calendar",
+      "https://www.mightytips.com/football-predictions/villarreal-vs-real-betis-prediction-14-09-2026/",
+      "https://www.sportytrader.com/en/betting-tips/villarreal-betis-372553/",
+      "https://www.uefa.com/uefachampionsleague/",
+      "https://lagrada.org/claves-jornada-5-laliga-ea-sports-2026-27-horarios-partidos-previa-osasuna-espanyol/",
+      "https://www.transfermarkt.de/real-betis-sevilla/startseite/verein/150",
+      "https://www.transfermarkt.de/fc-villarreal/startseite/verein/1050"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "vil-bet-1",
+      "kategorie": "value",
+      "markt": "Betis oder Remis (Doppelte Chance)",
+      "quote": 1.9,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "edge_prozent": 6.0,
+      "faire_quote": 1.79,
+      "begruendung": "DC X2 Markt-Goldgrube (75% Hit / +9.4% ROI, n=36). Villarreal 5 Spiele sieglos + Kopf-Belastung nach CL-Pleite vs Dortmund, Betis P4 mit Momentum. Home-Odds von Villarreal ~1.86 objektiv zu kurz - Value-Signal fuer die andere Seite. HR2-konform (Heim-Krise = kein Heim-SAFE). Stufe 1 (Kasse 1000€): 1.5% = 15€."
+    },
+    {
+      "id": "vil-bet-2",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.6,
+      "einsatz_euro": 12.0,
+      "empfohlener_einsatz_prozent": 1.2,
+      "edge_prozent": 5.0,
+      "faire_quote": 1.52,
+      "begruendung": "Betis 5:5 Tore-Bilanz aus 4 Spielen (BTTS in 3 von 4), Villarreal 6-8-Torbilanz - offene Partien programmiert. Antony/Isco/Fornals fuer Betis, Mikautadze/Ayoze fuer Villarreal - beide Sturmreihen treffsicher."
+    },
+    {
+      "id": "vil-bet-3",
+      "kategorie": "wackel",
+      "markt": "Torschuetze jederzeit: Antony",
+      "quote": 3.2,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 3.0,
+      "faire_quote": 3.1,
+      "begruendung": "Antony treibende Kraft im Betis-Fluegelspiel, in 4 Spielen 26/27 in Torbeteiligungen aktiv. HR24 nur teilweise erfuellt (kein zentraler 9er) -> wackel, nicht value."
+    },
+    {
+      "id": "vil-bet-4",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.85,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 2.0,
+      "faire_quote": 1.81,
+      "begruendung": "Beide Sturmreihen liefern, aber Betis kontrolliert enge Spiele (5:5 aus 4) - kein klarer Ueber-2.5-Selbstlaeufer, daher wackel. Stufe-1-Wackel-Regel 0.5% = 5€."
+    }
+  ]
+}

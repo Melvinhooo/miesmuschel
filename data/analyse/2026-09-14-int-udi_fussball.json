@@ -1,0 +1,67 @@
+{
+  "spiel_id": "2026-09-14-int-udi",
+  "saison_kontext": {
+    "parallel_heim": "CL-Ligaphase - Inter startet MD1 erst 16.09. (Dienstag) -> Rotations-Vorsicht Richtung Montag ist real",
+    "parallel_gast": "keine - kein Europa 26/27",
+    "saisonziel_heim": "Inter Scudetto-Verteidigung + CL-Podest. 3 Siege aus 3 Spielen (u.a. 3:2 vs Napoli), 9 Pkt, Platz 2 nur wegen Tordifferenz. Lautaro (2 Tore vs Napoli) + Thuram (1 Tor vs Napoli) offensiv on fire.",
+    "saisonziel_gast": "Udinese Klassenerhalt-Plus / oberes Mittelfeld. Ungeschlagen mit 5 Pkt aus 3 Spielen, P9, aber ohne Klassen-Edge.",
+    "motivations_asymmetrie": "Klassen-Edge Inter maximal, aber Rotations-Risiko vor CL-Start am Dienstag - Chivu koennte einen Achse-Spieler schonen. Trotzdem klare Home-Kulisse und Inter zu Hause historisch selten Punkt-Verlust gegen Udinese (Head-to-Head 26-9 all-time).",
+    "recovery_heim": "6 Tage seit letztem Liga-Spiel (3:2 vs Napoli 07.09.) - frisch, aber CL-Start 16.09. koennte Rotation triggern",
+    "recovery_gast": "7 Tage seit letztem Spiel - voll frisch",
+    "quellen": [
+      "https://www.legaseriea.it/",
+      "https://sport.sky.it/calcio/serie-a/2026/09/14/partite-serie-a-oggi-lunedi",
+      "https://www.uefa.com/uefachampionsleague/",
+      "https://www.lanotiziagiornale.it/serie-a-oggi-14-settembre-2026-formazioni-dove-vederle/",
+      "https://www.transfermarkt.de/inter-mailand/startseite/verein/46",
+      "https://www.kicker.de/inter-mailand/kader",
+      "https://www.transfermarkt.de/udinese-calcio/startseite/verein/410"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "int-udi-1",
+      "kategorie": "safe",
+      "markt": "Inter oder Remis (Doppelte Chance)",
+      "quote": 1.04,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "edge_prozent": 2.0,
+      "faire_quote": 1.02,
+      "begruendung": "DC 1X Markt-Goldgrube (72.7% Hit / +39.7% ROI, n=22). Inter zu Hause mit 3S/3S, Head-to-Head 26-9 gg Udinese, Klassen-Edge maximal. Ohne 2:0-Insurance in Serie A DC statt Direkt-Sieg. Stufe 1 (Kasse 1000€): 2% = 20€."
+    },
+    {
+      "id": "int-udi-2",
+      "kategorie": "value",
+      "markt": "Sieg FC Internazionale Milano (90 Min)",
+      "quote": 1.28,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.24,
+      "begruendung": "Direkt-Sieg Inter fuer Kombi-Basis (Layer-2 in Balance-Kombi verankert). CL-Rotation moeglich aber Inter-Kader tief genug. Kein SAFE weil Rotations-Risiko vor CL-Start real ist (HR3-Vorsicht)."
+    },
+    {
+      "id": "int-udi-3",
+      "kategorie": "value",
+      "markt": "Torschuetze jederzeit: Lautaro Martinez",
+      "quote": 1.75,
+      "einsatz_euro": 12.0,
+      "empfohlener_einsatz_prozent": 1.2,
+      "edge_prozent": 5.0,
+      "faire_quote": 1.66,
+      "begruendung": "HR24-konform: Lautaro 2 Tore in 3 Spielen (Form-Edge), zentraler 9er + Backup via Bonny/Esposito (Einwechslungs-Boost aktiv). Goldgrube-Markt 'Torschuetzen Jederzeit' (50% / +24.4% ROI, n=32)."
+    },
+    {
+      "id": "int-udi-4",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.62,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "edge_prozent": 4.0,
+      "faire_quote": 1.56,
+      "begruendung": "Inter-Offensive haemmert (3:2 vs Napoli), Udinese defensiv nicht Bunker-Typ (BTTS-Ja in beiden Ausw-Spielen 26/27). Goldgrube 'Ueber 2.5 Tore' (nicht drin in dieser Version, aber 66.7% / +27.5% ROI historisch)."
+    }
+  ]
+}

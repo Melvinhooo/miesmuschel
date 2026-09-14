@@ -1,0 +1,67 @@
+{
+  "spiel_id": "2026-09-14-lee-new",
+  "saison_kontext": {
+    "parallel_heim": "keine - Aufsteiger, Carabao Cup 2. Runde (6:3-Ausw-Niederlage bei Chelsea in der Vorwoche) raus, kein Europa",
+    "parallel_gast": "CL-Ligaphase - Newcastle-CL-MD1 vermutlich 16.-18.09. -> Rotations-Risiko real (HR3-Signal)",
+    "saisonziel_heim": "Leeds Klassenerhalt / oberes Mittelfeld-Ziel als Aufsteiger. 3 Spiele ungeschlagen (1S/2R = 5 Pkt), P9 in PL. Trainer Daniel Farke stabilisierend.",
+    "saisonziel_gast": "Newcastle CL-Quali. Massiver Umbruch 26/27: Isak/Tonali/Gordon/Guimaraes am 29.08. weg, neuer Trainer Matthias Jaissle (ex-RB-Salzburg / Al-Ahli). Trotzdem 3 Spiele ungeschlagen inkl. 0:2 in Tottenham am 29.08. (Elanga + Wissa-Tore).",
+    "motivations_asymmetrie": "Coinflip auf Papier: Leeds Aufsteiger-Heim-Motivation + Farke-Ordnung vs Newcastle mit Klassen-Restedge und CL-Vorlauf. Home-Odds ~2.30 fuer Leeds sind aggressiv. Aufsteiger unter der Woche Montag-Nightgame historisch mit Extra-Bonus.",
+    "recovery_heim": "5 Tage seit Carabao-Cup 6:3-Ausw bei Chelsea (viele Rotations-Kraefte gespielt) - Stamm frisch, keine akute Verletzung ausser Rodon-out",
+    "recovery_gast": "16 Tage seit Tottenham-Sieg (29.08., Laenderspielpause dazwischen) - viele Spieler international unterwegs, Wissa Knie-Reha, CL-MD1 uebermorgen",
+    "quellen": [
+      "https://www.newcastleunited.com/en/matches/mens-team/leeds-united-v-newcastle-united-english-premier-league-20260914",
+      "https://www.premierleague.com/en/clubs/2/leeds-united/squad",
+      "https://www.sportskeeda.com/football/leeds-united-vs-newcastle-united-prediction-betting-tips-september-14th-2026",
+      "https://www.sportsgambler.com/betting-tips/football/leeds-vs-newcastle-prediction-lineups-odds-2026-09-14/",
+      "https://www.uefa.com/uefachampionsleague/",
+      "https://www.transfermarkt.de/newcastle-united/startseite/verein/762",
+      "https://www.transfermarkt.de/leeds-united/startseite/verein/399"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "lee-new-1",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.6,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "edge_prozent": 5.0,
+      "faire_quote": 1.52,
+      "begruendung": "Beide Teams haben in allen bisherigen 3 PL-Spielen getroffen. Leeds mit Nmecha/Piroe/James offensive Kraft, Newcastle mit Elanga/Wissa/Woltemade. Coinflip-Match => BTTS-Ja am staerksten. Kein SAFE weil Coinflip-Regel (Sieg-Quoten 2.30-3.00 = kein SAFE erlaubt). Stufe 1: 1.5% = 15€."
+    },
+    {
+      "id": "lee-new-2",
+      "kategorie": "value",
+      "markt": "Torschuetze jederzeit: Anthony Elanga",
+      "quote": 3.2,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "edge_prozent": 6.0,
+      "faire_quote": 3.02,
+      "begruendung": "HR24-konform: Elanga Tor beim 0:2 in Tottenham 29.08. + WM-Form (5 Tore Turnier), auch als Fluegel-Backup-Boost aktiv (Woltemade/Wissa als 9er kommen ergaenzend). Aufsteiger-Defense Leeds noch aufsteigend, Elanga-Tempo passt."
+    },
+    {
+      "id": "lee-new-3",
+      "kategorie": "wackel",
+      "markt": "Leeds oder Remis (Doppelte Chance)",
+      "quote": 1.42,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.38,
+      "begruendung": "Aufsteiger-Heim + Newcastle-Umbruch + CL-Vorlauf 16.09. + Wissa-Knie: DC 1X ist statistisch attraktiver als Direkt-Sieg. Als Wackel (nicht Value) wegen Newcastle-Klasse trotz Umbruch."
+    },
+    {
+      "id": "lee-new-4",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.9,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 2.0,
+      "faire_quote": 1.86,
+      "begruendung": "Beide Teams offensiv, Montag-Nightgame oft mit offener Partie. Aber Leeds-Defense diszipliniert unter Farke, Newcastle nach Isak-Verlust nicht mehr Tor-Maschine - daher wackel."
+    }
+  ]
+}

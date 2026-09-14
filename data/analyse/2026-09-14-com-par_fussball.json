@@ -1,0 +1,67 @@
+{
+  "spiel_id": "2026-09-14-com-par",
+  "saison_kontext": {
+    "parallel_heim": "CL-Ligaphase MD1 (09.09.) - Debut-Sieg gegen RB Leipzig, MD2 erst 30.09. -> keine akute Rotation",
+    "parallel_gast": "keine - kein Europa, Coppa Italia noch nicht in Runde",
+    "saisonziel_heim": "Como Klassenerhalt-Plus / oberes Tabellendrittel (nach CL-Ueberraschung im Sommer). Erste 3 Spieltage: 1 Remis + 2 Siege = 7 Pkt.",
+    "saisonziel_gast": "Parma Klassenerhalt. Erste 3 Spieltage: 2 Niederlagen (Cagliari, Juventus) + 1 - = maximal 3 Pkt, harter Fehlstart. Neuer Trainer Carlos Cuesta (Ex-Arsenal-Co, erster Chef-Job).",
+    "motivations_asymmetrie": "Klarer Klassen- und Form-Edge fuer Como zu Hause. Nico Paz (~19 Karriere-Tore, LaLiga/Serie-A-Talent) in Top-Form, dazu Cutrone als Backup-9er. Parma noch ohne Rhythmus unter Cuesta.",
+    "recovery_heim": "5 Tage seit CL-MD1 vs Leipzig (09.09.) - Kern durchgespielt aber vor Heimspiel voll fokussiert",
+    "recovery_gast": "8 Tage seit letztem Serie-A-Spiel - frisch aber ohne Erfolgserlebnis",
+    "quellen": [
+      "https://sport.sky.it/calcio/serie-a/2026/09/14/partite-serie-a-oggi-lunedi",
+      "https://www.lanotiziagiornale.it/serie-a-oggi-14-settembre-2026-formazioni-dove-vederle/",
+      "https://www.uefa.com/uefachampionsleague/",
+      "https://www.legaseriea.it/",
+      "https://www.pazzidifanta.com/news/torino-roma-probabili-formazioni-4a-giornata-serie-a-2026-27-459257",
+      "https://www.transfermarkt.de/como-1907/startseite/verein/1047",
+      "https://www.kicker.de/como-1907/kader"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "com-par-1",
+      "kategorie": "safe",
+      "markt": "Como oder Remis (Doppelte Chance)",
+      "quote": 1.05,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.02,
+      "begruendung": "DC 1X ist Markt-Goldgrube (72.7% Hit / +39.7% ROI, n=22). Como zu Hause + 7 Punkte in 3 Serie-A-Spielen + CL-Sieg vs Leipzig 09.09. gegen einen Parma mit 0-2 Punkte-Fehlstart und Neu-Trainer im ersten Chef-Job. Klassen-Edge maximal, Punkt-Verlust extrem selten. Ohne 2:0-Insurance in Serie A DC statt Direkt-Sieg. Stufe 1 (Kasse 1000€): 2% = 20€ Einsatz."
+    },
+    {
+      "id": "com-par-2",
+      "kategorie": "value",
+      "markt": "Sieg Como 1907 (90 Min)",
+      "quote": 1.24,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "edge_prozent": 4.0,
+      "faire_quote": 1.19,
+      "begruendung": "Direkt-Sieg Como fuer Kombi-Basis (Safe-Kombi verankert). Como daheim seit dem Aufstiegs-Peak stabil, Parma noch ohne Auswaerts-Punkt in 26/27. Vorsicht bei moeglicher CL-Rotation, aber Kern-Achse spielt zu Hause voll."
+    },
+    {
+      "id": "com-par-3",
+      "kategorie": "value",
+      "markt": "Torschuetze jederzeit: Nico Paz",
+      "quote": 2.5,
+      "einsatz_euro": 12.0,
+      "empfohlener_einsatz_prozent": 1.2,
+      "edge_prozent": 5.0,
+      "faire_quote": 2.38,
+      "begruendung": "HR24-konform: Nico Paz zentraler Spielmacher mit Torschuetzen-Volumen, in Serie A 26/27 bereits treffsicher, Backup-Stuermer Cutrone/Diao vorhanden -> Einwechslungs-Boost aktiv (Tor eines Ersatzes zaehlt mit). Goldgrube-Markt 'Torschuetzen Jederzeit' (50% / +24.4% ROI)."
+    },
+    {
+      "id": "com-par-4",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.8,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 2.0,
+      "faire_quote": 1.76,
+      "begruendung": "Como spielt offensiv (2 Siege + CL-Debut-Show), Parma-Defense noch nicht sortiert. Aber CL-Muedigkeit im Como-Kader koennte Tempo drosseln - daher wackel statt Value. Stufe-1-Wackel-Regel 0.5% = 5€."
+    }
+  ]
+}
