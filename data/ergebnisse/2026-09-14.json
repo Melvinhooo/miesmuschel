@@ -1,0 +1,1724 @@
+{
+  "datum": "2026-09-14",
+  "erstellt_am": "2026-09-14T14:30:00+02:00",
+  "hinweis": "Montag 2026-09-14: 5 Spiele im Fenster - Serie A Giornata 4 (Como-Parma + Torino-Roma 18:30, Inter-Udinese 20:45), Premier League Monday-Night Leeds-Newcastle 21:00 und LaLiga Jornada 5 Villarreal-Betis 21:00. Kasse 1000€ / Stufe 1 aktiv (Saison-Edge noch nicht bestaetigt) - Einzel-SAFE/VALUE 10-20€, Wackel 5€, Kombi Safe 20€ / Balance 8€ / Risiko 2.50€ / Moonshot 1€. WATCHDOG-Recovery (Hauptroutine 13:30 hat kein gefuelltes Dossier geliefert). 2:0-Insurance greift NUR in Bundesliga + Champions League - heute in KEINEM Spiel wirksam.",
+  "spiele": [
+    {
+      "id": "2026-09-14-com-par",
+      "liga": "Serie A 2026/27 - 4^ giornata",
+      "heim": "Como 1907",
+      "gast": "Parma Calcio 1913",
+      "anstoss": "2026-09-14T18:30:00+02:00",
+      "stadion": "Stadio Giuseppe Sinigaglia, Como",
+      "saison_kontext": {
+        "parallel_heim": "CL-Ligaphase MD1 (09.09.) - Debut-Sieg gegen RB Leipzig, MD2 erst 30.09. -> keine akute Rotation",
+        "parallel_gast": "keine - kein Europa, Coppa Italia noch nicht in Runde",
+        "saisonziel_heim": "Como Klassenerhalt-Plus / oberes Tabellendrittel (nach CL-Ueberraschung im Sommer). Erste 3 Spieltage: 1 Remis + 2 Siege = 7 Pkt.",
+        "saisonziel_gast": "Parma Klassenerhalt. Erste 3 Spieltage: 2 Niederlagen (Cagliari, Juventus) + 1 - = maximal 3 Pkt, harter Fehlstart. Neuer Trainer Carlos Cuesta (Ex-Arsenal-Co, erster Chef-Job).",
+        "motivations_asymmetrie": "Klarer Klassen- und Form-Edge fuer Como zu Hause. Nico Paz (~19 Karriere-Tore, LaLiga/Serie-A-Talent) in Top-Form, dazu Cutrone als Backup-9er. Parma noch ohne Rhythmus unter Cuesta.",
+        "recovery_heim": "5 Tage seit CL-MD1 vs Leipzig (09.09.) - Kern durchgespielt aber vor Heimspiel voll fokussiert",
+        "recovery_gast": "8 Tage seit letztem Serie-A-Spiel - frisch aber ohne Erfolgserlebnis",
+        "quellen": [
+          "https://sport.sky.it/calcio/serie-a/2026/09/14/partite-serie-a-oggi-lunedi",
+          "https://www.lanotiziagiornale.it/serie-a-oggi-14-settembre-2026-formazioni-dove-vederle/",
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.legaseriea.it/",
+          "https://www.pazzidifanta.com/news/torino-roma-probabili-formazioni-4a-giornata-serie-a-2026-27-459257",
+          "https://www.transfermarkt.de/como-1907/startseite/verein/1047",
+          "https://www.kicker.de/como-1907/kader"
+        ]
+      },
+      "news": [
+        "Como P nach 3 Spieltagen 7 Pkt (1 Remis + 2 Siege), CL-Debut-Sieg vs RB Leipzig 09.09.",
+        "Parma 0-2 Punkte-Fehlstart unter Neu-Trainer Carlos Cuesta (Ex-Arsenal-Co)",
+        "Nico Paz treibende Kraft im Como-Spielaufbau, Cutrone als Backup-Stuermer (Einwechslungs-Boost aktiv)",
+        "2:0-Insurance greift NICHT (bet365-Aktionsregel nur BL + CL)",
+        "Aggregator-Quoten (bei bet365 live pruefen): Como-Sieg ~1.22-1.28, DC 1X ~1.05-1.08, Ueber 2.5 ~1.75-1.85, Nico-Paz-Tor ~2.40-2.70, Cutrone-Tor ~2.70-3.20"
+      ],
+      "tipps": [
+        {
+          "id": "com-par-1",
+          "kategorie": "safe",
+          "markt": "Como oder Remis (Doppelte Chance)",
+          "quote": 1.05,
+          "einsatz_euro": 20.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.02,
+          "begruendung": "DC 1X ist Markt-Goldgrube (72.7% Hit / +39.7% ROI, n=22). Como zu Hause + 7 Punkte in 3 Serie-A-Spielen + CL-Sieg vs Leipzig 09.09. gegen einen Parma mit 0-2 Punkte-Fehlstart und Neu-Trainer im ersten Chef-Job. Klassen-Edge maximal, Punkt-Verlust extrem selten. Ohne 2:0-Insurance in Serie A DC statt Direkt-Sieg. Stufe 1 (Kasse 1000€): 2% = 20€ Einsatz."
+        },
+        {
+          "id": "com-par-2",
+          "kategorie": "value",
+          "markt": "Sieg Como 1907 (90 Min)",
+          "quote": 1.24,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.19,
+          "begruendung": "Direkt-Sieg Como fuer Kombi-Basis (Safe-Kombi verankert). Como daheim seit dem Aufstiegs-Peak stabil, Parma noch ohne Auswaerts-Punkt in 26/27. Vorsicht bei moeglicher CL-Rotation, aber Kern-Achse spielt zu Hause voll."
+        },
+        {
+          "id": "com-par-3",
+          "kategorie": "value",
+          "markt": "Torschuetze jederzeit: Nico Paz",
+          "quote": 2.5,
+          "einsatz_euro": 12.0,
+          "empfohlener_einsatz_prozent": 1.2,
+          "edge_prozent": 5.0,
+          "faire_quote": 2.38,
+          "begruendung": "HR24-konform: Nico Paz zentraler Spielmacher mit Torschuetzen-Volumen, in Serie A 26/27 bereits treffsicher, Backup-Stuermer Cutrone/Diao vorhanden -> Einwechslungs-Boost aktiv (Tor eines Ersatzes zaehlt mit). Goldgrube-Markt 'Torschuetzen Jederzeit' (50% / +24.4% ROI)."
+        },
+        {
+          "id": "com-par-4",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.8,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.76,
+          "begruendung": "Como spielt offensiv (2 Siege + CL-Debut-Show), Parma-Defense noch nicht sortiert. Aber CL-Muedigkeit im Como-Kader koennte Tempo drosseln - daher wackel statt Value. Stufe-1-Wackel-Regel 0.5% = 5€."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 1,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 0,
+        "endstand": "2:1",
+        "quelle": "WebSearch 2026-09-15 (ESPN/AllFootball/football-italia/Sky/Yahoo/NBC)"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "com-par-1",
+          "status": "gewonnen",
+          "quote": 1.05,
+          "einsatz_euro": 20.0,
+          "auszahlung_euro": 21.0,
+          "gewinn_euro": 1.0,
+          "gewinn_faktor": 1.05,
+          "kommentar": "Como 2:1 - DC 1X durch (HZ 1:0)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "com-par-2",
+          "status": "gewonnen",
+          "quote": 1.24,
+          "einsatz_euro": 15.0,
+          "auszahlung_euro": 18.6,
+          "gewinn_euro": 3.6,
+          "gewinn_faktor": 1.24,
+          "kommentar": "Como 2:1 - Direkt-Sieg durch (Ramon 23., Kaiki 84.)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "com-par-3",
+          "status": "verloren",
+          "quote": 2.5,
+          "einsatz_euro": 12.0,
+          "auszahlung_euro": 0.0,
+          "gewinn_euro": -12.0,
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nico Paz mit Vorlage aber ohne eigenes Tor; 80. Min raus fuer Ricci (kein Ersatz-Tor) -> Einwechslungs-Boost verpufft",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "com-par-4",
+          "status": "gewonnen",
+          "quote": 1.8,
+          "einsatz_euro": 5.0,
+          "auszahlung_euro": 9.0,
+          "gewinn_euro": 4.0,
+          "gewinn_faktor": 1.8,
+          "kommentar": "3 Tore (2:1, Kaiki 84. + Romero 90+)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "2:1",
+        "tore": [
+          {
+            "min": 23,
+            "team": "heim",
+            "spieler": "Jacobo Ramón",
+            "stand_danach": "1:0",
+            "assist": "Nico Paz"
+          },
+          {
+            "min": 84,
+            "team": "heim",
+            "spieler": "Kaiki Bruno",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 92,
+            "team": "gast",
+            "spieler": "David Romero",
+            "stand_danach": "2:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "keine Drehung"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Heim/Heim",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "aus": "Nico Paz",
+            "ein": "Samuele Ricci",
+            "minute": 80,
+            "tor": false,
+            "details": "Ricci nach Nico-Paz-Auswechslung ohne Torbeteiligung"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Como stabil zu Hause: 2:1-Sieg trotz spaeter Parma-Antwort in der 92. - CL-Debut-Momentum haelt."
+        ]
+      }
+    },
+    {
+      "id": "2026-09-14-tor-rom",
+      "liga": "Serie A 2026/27 - 4^ giornata",
+      "heim": "Torino FC",
+      "gast": "AS Roma",
+      "anstoss": "2026-09-14T18:30:00+02:00",
+      "stadion": "Stadio Olimpico Grande Torino, Turin",
+      "saison_kontext": {
+        "parallel_heim": "keine - kein Europa, Coppa Italia raus (0:1 gg Monza 01.09.)",
+        "parallel_gast": "Europa League Ligaphase startet MD1 erst am 24.09. -> vor diesem Spiel keine EU-Belastung, aber Fokus-Split moeglich",
+        "saisonziel_heim": "Torino oberes Tabellenmittelfeld / Europa-Konkurrenz - Fehlstart mit nur 3 Pkt aus 3 Spielen (Heim-0:1 gg Milan + Ausw-Pleite Sassuolo + einziger Sieg in Fiorentina). Neu-Trainer Ignazio Abate (seit 07/2026, Ex-Juve-Stabia B-Playoff-Halbfinale, spielt 3-4-1-2).",
+        "saisonziel_gast": "Roma Champions-League-Quali. Bilderbuch-Start mit 3 Siegen aus 3 Spielen = 9 Pkt. Dybala treibende Kraft (12 Chancen + 4 Assists in 3 Spielen).",
+        "motivations_asymmetrie": "Klarer Form- und Klassen-Edge fuer Roma auswaerts, Torino unter Neu-Trainer noch ohne Rhythmus + Sturmspitzen-Krise (Ché Adams verletzt, Simeone nicht fit). Aber Ausw-Favoriten in Serie A oft undankbar - daher DC X2 statt SAFE-Direkt.",
+        "recovery_heim": "5 Tage seit Sassuolo-Niederlage (Serie-A) - frisch aber angeschlagen",
+        "recovery_gast": "6 Tage seit letztem Liga-Spiel - voll frisch, EL-Vorlauf erst 24.09.",
+        "quellen": [
+          "https://www.legaseriea.it/",
+          "https://sport.sky.it/calcio/serie-a/2026/09/14/partite-serie-a-oggi-lunedi",
+          "https://www.ilmessaggero.it/sport/schede/torino_roma_dove_vederla_tv_sky_dazn_probabili_formazioni_orario_serie_a-9759571.html",
+          "https://www.napolimagazine.com/calcio/articolo/sky-roma-la-probabile-formazione-contro-il-torino-dybala-ancora-titolare-14-09-2026",
+          "https://www.pazzidifanta.com/news/torino-roma-probabili-formazioni-4a-giornata-serie-a-2026-27-459257",
+          "https://www.transfermarkt.de/as-rom/startseite/verein/12",
+          "https://www.kicker.de/as-roma/kader",
+          "https://www.transfermarkt.de/fc-turin/startseite/verein/416"
+        ]
+      },
+      "news": [
+        "Roma 3S/3S = 9 Pkt Bilderbuch-Start unter Trainer, Dybala 12 Chancen + 4 Assists in 3 Spielen",
+        "Torino 3 Pkt aus 3 Spielen, Neu-Trainer Abate mit 3-4-1-2, Sturm-Krise (Adams verletzt, Simeone nicht fit)",
+        "Torino 01.09. Coppa-Italia-Aus 0:1 gg Monza als Warnsignal fuer Abates System",
+        "2:0-Insurance greift NICHT (bet365-Aktionsregel nur BL + CL)",
+        "Aggregator-Quoten (bei bet365 live pruefen): Roma-Sieg ~1.65-1.75, DC X2 ~1.28-1.34, Ueber 2.5 ~2.00-2.15, Unter 2.5 ~1.72-1.85, Dybala-Tor ~2.80-3.20"
+      ],
+      "tipps": [
+        {
+          "id": "tor-rom-1",
+          "kategorie": "safe",
+          "markt": "Roma oder Remis (Doppelte Chance)",
+          "quote": 1.3,
+          "einsatz_euro": 20.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.25,
+          "begruendung": "DC X2 ist Markt-Goldgrube (75% Hit / +9.4% ROI, n=36). Roma 3S/3S auswaerts gegen einen Torino mit Sturm-Krise und Neu-Trainer im Umbruch. Ohne 2:0-Insurance in Serie A DC statt Direkt-Sieg-SAFE. Stufe 1 (Kasse 1000€): 2% = 20€ Einsatz."
+        },
+        {
+          "id": "tor-rom-2",
+          "kategorie": "value",
+          "markt": "Sieg AS Roma (90 Min)",
+          "quote": 1.7,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.6,
+          "begruendung": "Direkt-Sieg Roma fuer Kombi-Basis. Dybala + Konè in Top-Form, Torino-Defense (Milan-Debakel + Sassuolo-Pleite) unsortiert. Value @ 1.70 fair - implizite 58% vs faire ~63%."
+        },
+        {
+          "id": "tor-rom-3",
+          "kategorie": "value",
+          "markt": "Torschuetze jederzeit: Paulo Dybala",
+          "quote": 3.0,
+          "einsatz_euro": 10.0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "edge_prozent": 6.0,
+          "faire_quote": 2.83,
+          "begruendung": "HR24-konform: Dybala 4 Assists + 12 Chancen in 3 Spielen (Form-Edge), spielt hinter Dovbyk und drueckt in die Box, Torino-Defense anfaellig. Goldgrube-Markt 'Torschuetzen Jederzeit' aktiv suchen. Achtung: Standard-Kicker gehoert nicht ihm - der Elfer-Bonus fehlt in der Faire-Line-Kalkulation daher schon eingebaut."
+        },
+        {
+          "id": "tor-rom-4",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.78,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.74,
+          "begruendung": "Torino defensiv-orientiert unter Abate (3-4-1-2, Coppa-Italia 0:1-Niederlage), Roma-Sturm ohne echten 20-Tore-9er - ideale Kulisse fuer knappes 1:0/1:1. Unter 2.5 Goldgrube (68% / +30% ROI, n=25). Wackel weil Roma-Momentum auch 2:1 werden kann."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 1,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 1,
+        "endstand": "0:1",
+        "quelle": "WebSearch 2026-09-15 (ESPN/AllFootball/football-italia/Sky/Yahoo/NBC)"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "tor-rom-1",
+          "status": "gewonnen",
+          "quote": 1.3,
+          "einsatz_euro": 20.0,
+          "auszahlung_euro": 26.0,
+          "gewinn_euro": 6.0,
+          "gewinn_faktor": 1.3,
+          "kommentar": "Roma-Ausw-Sieg 0:1 (Malen 40.) - DC X2 durch",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tor-rom-2",
+          "status": "gewonnen",
+          "quote": 1.7,
+          "einsatz_euro": 15.0,
+          "auszahlung_euro": 25.5,
+          "gewinn_euro": 10.5,
+          "gewinn_faktor": 1.7,
+          "kommentar": "Roma 0:1 durch Malen 40. - Sieg-Tipp durch",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tor-rom-3",
+          "status": "verloren",
+          "quote": 3.0,
+          "einsatz_euro": 10.0,
+          "auszahlung_euro": 0.0,
+          "gewinn_euro": -10.0,
+          "gewinn_faktor": 0.0,
+          "kommentar": "Dybala ohne Tor - fuer De Roon (defensiver 6er) ausgewechselt, De Roon traf nicht -> kein Einwechslungs-Boost",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tor-rom-4",
+          "status": "gewonnen",
+          "quote": 1.78,
+          "einsatz_euro": 5.0,
+          "auszahlung_euro": 8.9,
+          "gewinn_euro": 3.9,
+          "gewinn_faktor": 1.78,
+          "kommentar": "nur 1 Tor (0:1) - Unter 2.5 klar durch",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": 40,
+            "team": "gast",
+            "spieler": "Donyell Malen",
+            "stand_danach": "0:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "keine Drehung"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_0_5": true,
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Gast/Gast",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "aus": "Paulo Dybala",
+            "ein": "Marten de Roon",
+            "minute": null,
+            "tor": false,
+            "details": "De Roon (defensiver 6er) ersetzt Dybala, kein Tor -> Einwechslungs-Boost verpufft"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Roma 3S/3S + Malen 5 Tore in 4 Spielen - Auswaerts-Favorit-These bestaetigt ohne dass 2:0-Insurance ueberhaupt aktivierbar gewesen waere (Serie A)."
+        ]
+      }
+    },
+    {
+      "id": "2026-09-14-int-udi",
+      "liga": "Serie A 2026/27 - 4^ giornata",
+      "heim": "FC Internazionale Milano",
+      "gast": "Udinese Calcio",
+      "anstoss": "2026-09-14T20:45:00+02:00",
+      "stadion": "Stadio Giuseppe Meazza (San Siro), Mailand",
+      "saison_kontext": {
+        "parallel_heim": "CL-Ligaphase - Inter startet MD1 erst 16.09. (Dienstag) -> Rotations-Vorsicht Richtung Montag ist real",
+        "parallel_gast": "keine - kein Europa 26/27",
+        "saisonziel_heim": "Inter Scudetto-Verteidigung + CL-Podest. 3 Siege aus 3 Spielen (u.a. 3:2 vs Napoli), 9 Pkt, Platz 2 nur wegen Tordifferenz. Lautaro (2 Tore vs Napoli) + Thuram (1 Tor vs Napoli) offensiv on fire.",
+        "saisonziel_gast": "Udinese Klassenerhalt-Plus / oberes Mittelfeld. Ungeschlagen mit 5 Pkt aus 3 Spielen, P9, aber ohne Klassen-Edge.",
+        "motivations_asymmetrie": "Klassen-Edge Inter maximal, aber Rotations-Risiko vor CL-Start am Dienstag - Chivu koennte einen Achse-Spieler schonen. Trotzdem klare Home-Kulisse und Inter zu Hause historisch selten Punkt-Verlust gegen Udinese (Head-to-Head 26-9 all-time).",
+        "recovery_heim": "6 Tage seit letztem Liga-Spiel (3:2 vs Napoli 07.09.) - frisch, aber CL-Start 16.09. koennte Rotation triggern",
+        "recovery_gast": "7 Tage seit letztem Spiel - voll frisch",
+        "quellen": [
+          "https://www.legaseriea.it/",
+          "https://sport.sky.it/calcio/serie-a/2026/09/14/partite-serie-a-oggi-lunedi",
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.lanotiziagiornale.it/serie-a-oggi-14-settembre-2026-formazioni-dove-vederle/",
+          "https://www.transfermarkt.de/inter-mailand/startseite/verein/46",
+          "https://www.kicker.de/inter-mailand/kader",
+          "https://www.transfermarkt.de/udinese-calcio/startseite/verein/410"
+        ]
+      },
+      "news": [
+        "Inter 3S/3S, 9 Pkt, Lautaro-Doppelpack + Thuram vs Napoli 3:2 am 07.09.",
+        "Udinese ungeschlagen aber ohne Klassen-Edge (5 Pkt aus 3), auswaerts historisch schwach in Mailand",
+        "CL-Start Inter erst Dienstag 16.09. -> leichte Rotations-Wahrscheinlichkeit, aber Inter Standard-Achse zu Hause",
+        "2:0-Insurance greift NICHT (bet365-Aktionsregel nur BL + CL - dieses Spiel ist Serie A)",
+        "Aggregator-Quoten (bei bet365 live pruefen): Inter-Sieg ~1.25-1.30, DC 1X ~1.03-1.05, Ueber 2.5 ~1.55-1.65, Lautaro-Tor ~1.65-1.85, Thuram-Tor ~2.10-2.40"
+      ],
+      "tipps": [
+        {
+          "id": "int-udi-1",
+          "kategorie": "safe",
+          "markt": "Inter oder Remis (Doppelte Chance)",
+          "quote": 1.04,
+          "einsatz_euro": 20.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.02,
+          "begruendung": "DC 1X Markt-Goldgrube (72.7% Hit / +39.7% ROI, n=22). Inter zu Hause mit 3S/3S, Head-to-Head 26-9 gg Udinese, Klassen-Edge maximal. Ohne 2:0-Insurance in Serie A DC statt Direkt-Sieg. Stufe 1 (Kasse 1000€): 2% = 20€."
+        },
+        {
+          "id": "int-udi-2",
+          "kategorie": "value",
+          "markt": "Sieg FC Internazionale Milano (90 Min)",
+          "quote": 1.28,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.24,
+          "begruendung": "Direkt-Sieg Inter fuer Kombi-Basis (Layer-2 in Balance-Kombi verankert). CL-Rotation moeglich aber Inter-Kader tief genug. Kein SAFE weil Rotations-Risiko vor CL-Start real ist (HR3-Vorsicht)."
+        },
+        {
+          "id": "int-udi-3",
+          "kategorie": "value",
+          "markt": "Torschuetze jederzeit: Lautaro Martinez",
+          "quote": 1.75,
+          "einsatz_euro": 12.0,
+          "empfohlener_einsatz_prozent": 1.2,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.66,
+          "begruendung": "HR24-konform: Lautaro 2 Tore in 3 Spielen (Form-Edge), zentraler 9er + Backup via Bonny/Esposito (Einwechslungs-Boost aktiv). Goldgrube-Markt 'Torschuetzen Jederzeit' (50% / +24.4% ROI, n=32)."
+        },
+        {
+          "id": "int-udi-4",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.62,
+          "einsatz_euro": 10.0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.56,
+          "begruendung": "Inter-Offensive haemmert (3:2 vs Napoli), Udinese defensiv nicht Bunker-Typ (BTTS-Ja in beiden Ausw-Spielen 26/27). Goldgrube 'Ueber 2.5 Tore' (nicht drin in dieser Version, aber 66.7% / +27.5% ROI historisch)."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 5,
+        "gast_tore": 3,
+        "halbzeit_heim": 2,
+        "halbzeit_gast": 2,
+        "endstand": "5:3",
+        "quelle": "WebSearch 2026-09-15 (ESPN/AllFootball/football-italia/Sky/Yahoo/NBC)"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "int-udi-1",
+          "status": "gewonnen",
+          "quote": 1.04,
+          "einsatz_euro": 20.0,
+          "auszahlung_euro": 20.8,
+          "gewinn_euro": 0.8,
+          "gewinn_faktor": 1.04,
+          "kommentar": "Inter-Comeback 5:3 nach 0:2-Rueckstand - DC 1X durch",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "int-udi-2",
+          "status": "gewonnen",
+          "quote": 1.28,
+          "einsatz_euro": 15.0,
+          "auszahlung_euro": 19.2,
+          "gewinn_euro": 4.2,
+          "gewinn_faktor": 1.28,
+          "kommentar": "Inter 5:3 - Direkt-Sieg durch (5 Tore in 44 Min nach HZ 2:2)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "int-udi-3",
+          "status": "verloren",
+          "quote": 1.75,
+          "einsatz_euro": 12.0,
+          "auszahlung_euro": 0.0,
+          "gewinn_euro": -12.0,
+          "gewinn_faktor": 0.0,
+          "kommentar": "Lautaro vor CL-Start 16.09. von Chivu rotiert (nicht im Spieltagskader). Einwechslungs-Boost greift NICHT: Regel setzt voraus dass X selbst ausgewechselt wird - Lautaro hat gar nicht gespielt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "int-udi-4",
+          "status": "gewonnen",
+          "quote": 1.62,
+          "einsatz_euro": 10.0,
+          "auszahlung_euro": 16.2,
+          "gewinn_euro": 6.2,
+          "gewinn_faktor": 1.62,
+          "kommentar": "8 Tore (5:3) - Ueber 2.5 mit Ansage durch",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:2",
+        "endstand": "5:3",
+        "tore": [
+          {
+            "min": 9,
+            "team": "gast",
+            "spieler": "James Abankwah",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 16,
+            "team": "gast",
+            "spieler": "Jurgen Ekkelenkamp",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": 26,
+            "team": "heim",
+            "spieler": "Carlos Augusto",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 35,
+            "team": "heim",
+            "spieler": "Nicolo Barella",
+            "stand_danach": "2:2"
+          },
+          {
+            "min": 57,
+            "team": "heim",
+            "spieler": "Marcus Thuram",
+            "stand_danach": "3:2"
+          },
+          {
+            "min": 67,
+            "team": "heim",
+            "spieler": "Francesco Pio Esposito",
+            "stand_danach": "4:2"
+          },
+          {
+            "min": 79,
+            "team": "heim",
+            "spieler": "Ange-Yoan Bonny",
+            "stand_danach": "5:2"
+          },
+          {
+            "min": 91,
+            "team": "gast",
+            "spieler": "Idrissa Gueye",
+            "stand_danach": "5:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "keine Drehung"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "halbzeit_endstand": "Unentschieden/Heim",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Lautaro Martinez",
+            "details": "Chivu rotiert vor CL-Start 16.09.: Lautaro, Bisseck und Calhanoglu geschont - kein Kader-Eintrag"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Inter dreht 0:2-Ausw-Fuehrung in 44 Minuten - 5 verschiedene Torschuetzen ohne Lautaro. Kader-Tiefe schlaegt Rotation."
+        ]
+      }
+    },
+    {
+      "id": "2026-09-14-lee-new",
+      "liga": "Premier League 2026/27 - Matchweek 4",
+      "heim": "Leeds United",
+      "gast": "Newcastle United",
+      "anstoss": "2026-09-14T21:00:00+02:00",
+      "stadion": "Elland Road, Leeds",
+      "saison_kontext": {
+        "parallel_heim": "keine - Aufsteiger, Carabao Cup 2. Runde (6:3-Ausw-Niederlage bei Chelsea in der Vorwoche) raus, kein Europa",
+        "parallel_gast": "CL-Ligaphase - Newcastle-CL-MD1 vermutlich 16.-18.09. -> Rotations-Risiko real (HR3-Signal)",
+        "saisonziel_heim": "Leeds Klassenerhalt / oberes Mittelfeld-Ziel als Aufsteiger. 3 Spiele ungeschlagen (1S/2R = 5 Pkt), P9 in PL. Trainer Daniel Farke stabilisierend.",
+        "saisonziel_gast": "Newcastle CL-Quali. Massiver Umbruch 26/27: Isak/Tonali/Gordon/Guimaraes am 29.08. weg, neuer Trainer Matthias Jaissle (ex-RB-Salzburg / Al-Ahli). Trotzdem 3 Spiele ungeschlagen inkl. 0:2 in Tottenham am 29.08. (Elanga + Wissa-Tore).",
+        "motivations_asymmetrie": "Coinflip auf Papier: Leeds Aufsteiger-Heim-Motivation + Farke-Ordnung vs Newcastle mit Klassen-Restedge und CL-Vorlauf. Home-Odds ~2.30 fuer Leeds sind aggressiv. Aufsteiger unter der Woche Montag-Nightgame historisch mit Extra-Bonus.",
+        "recovery_heim": "5 Tage seit Carabao-Cup 6:3-Ausw bei Chelsea (viele Rotations-Kraefte gespielt) - Stamm frisch, keine akute Verletzung ausser Rodon-out",
+        "recovery_gast": "16 Tage seit Tottenham-Sieg (29.08., Laenderspielpause dazwischen) - viele Spieler international unterwegs, Wissa Knie-Reha, CL-MD1 uebermorgen",
+        "quellen": [
+          "https://www.newcastleunited.com/en/matches/mens-team/leeds-united-v-newcastle-united-english-premier-league-20260914",
+          "https://www.premierleague.com/en/clubs/2/leeds-united/squad",
+          "https://www.sportskeeda.com/football/leeds-united-vs-newcastle-united-prediction-betting-tips-september-14th-2026",
+          "https://www.sportsgambler.com/betting-tips/football/leeds-vs-newcastle-prediction-lineups-odds-2026-09-14/",
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.transfermarkt.de/newcastle-united/startseite/verein/762",
+          "https://www.transfermarkt.de/leeds-united/startseite/verein/399"
+        ]
+      },
+      "news": [
+        "Newcastle 29.08.2026: Isak (Rekord-Ablose zu Liverpool), Tonali, Gordon und Guimaraes abgegeben - massiver Umbruch",
+        "Neuer Newcastle-Trainer Matthias Jaissle (seit 07/2026, ex-RB-Salzburg / Al-Ahli) startete mit 0:2-Sieg in Tottenham",
+        "Leeds ungeschlagen in 3 PL-Spielen (1S/2R = 5 Pkt), Aufsteiger-Heim-Boost Montag-Nightgame",
+        "Wissa (Knie-Reha nach WM-Quali gg Senegal), Elanga (Top-Form) fuehren Newcastle-Angriff, Woltemade Backup-9er",
+        "2:0-Insurance greift NICHT (bet365-Aktionsregel nur BL + CL - PL ist ausgeschlossen)",
+        "Aggregator-Quoten (bei bet365 live pruefen): Leeds-Sieg ~2.30-2.55, Remis ~3.30-3.50, Newcastle-Sieg ~2.75-3.00, BTTS-Ja ~1.55-1.65, Ueber 2.5 ~1.85-2.00"
+      ],
+      "tipps": [
+        {
+          "id": "lee-new-1",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.6,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.52,
+          "begruendung": "Beide Teams haben in allen bisherigen 3 PL-Spielen getroffen. Leeds mit Nmecha/Piroe/James offensive Kraft, Newcastle mit Elanga/Wissa/Woltemade. Coinflip-Match => BTTS-Ja am staerksten. Kein SAFE weil Coinflip-Regel (Sieg-Quoten 2.30-3.00 = kein SAFE erlaubt). Stufe 1: 1.5% = 15€."
+        },
+        {
+          "id": "lee-new-2",
+          "kategorie": "value",
+          "markt": "Torschuetze jederzeit: Anthony Elanga",
+          "quote": 3.2,
+          "einsatz_euro": 10.0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "edge_prozent": 6.0,
+          "faire_quote": 3.02,
+          "begruendung": "HR24-konform: Elanga Tor beim 0:2 in Tottenham 29.08. + WM-Form (5 Tore Turnier), auch als Fluegel-Backup-Boost aktiv (Woltemade/Wissa als 9er kommen ergaenzend). Aufsteiger-Defense Leeds noch aufsteigend, Elanga-Tempo passt."
+        },
+        {
+          "id": "lee-new-3",
+          "kategorie": "wackel",
+          "markt": "Leeds oder Remis (Doppelte Chance)",
+          "quote": 1.42,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.38,
+          "begruendung": "Aufsteiger-Heim + Newcastle-Umbruch + CL-Vorlauf 16.09. + Wissa-Knie: DC 1X ist statistisch attraktiver als Direkt-Sieg. Als Wackel (nicht Value) wegen Newcastle-Klasse trotz Umbruch."
+        },
+        {
+          "id": "lee-new-4",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.86,
+          "begruendung": "Beide Teams offensiv, Montag-Nightgame oft mit offener Partie. Aber Leeds-Defense diszipliniert unter Farke, Newcastle nach Isak-Verlust nicht mehr Tor-Maschine - daher wackel."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 4,
+        "gast_tore": 1,
+        "halbzeit_heim": 3,
+        "halbzeit_gast": 0,
+        "endstand": "4:1",
+        "quelle": "WebSearch 2026-09-15 (ESPN/AllFootball/football-italia/Sky/Yahoo/NBC)"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "lee-new-1",
+          "status": "gewonnen",
+          "quote": 1.6,
+          "einsatz_euro": 15.0,
+          "auszahlung_euro": 24.0,
+          "gewinn_euro": 9.0,
+          "gewinn_faktor": 1.6,
+          "kommentar": "Leeds 4x, Newcastle 1x - BTTS Ja",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "lee-new-2",
+          "status": "verloren",
+          "quote": 3.2,
+          "einsatz_euro": 10.0,
+          "auszahlung_euro": 0.0,
+          "gewinn_euro": -10.0,
+          "gewinn_faktor": 0.0,
+          "kommentar": "Elanga im Aufwaermen verletzt, Murphy startete stattdessen - Elanga spielte keine Minute. Einwechslungs-Boost greift NICHT (Spieler wurde nicht ausgewechselt sondern gar nicht aufgestellt). MRT-Termin geplant",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "lee-new-3",
+          "status": "gewonnen",
+          "quote": 1.42,
+          "einsatz_euro": 5.0,
+          "auszahlung_euro": 7.1,
+          "gewinn_euro": 2.1,
+          "gewinn_faktor": 1.42,
+          "kommentar": "Leeds 4:1 - DC 1X durch (Aufsteiger-Heim-These voll bestaetigt)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "lee-new-4",
+          "status": "gewonnen",
+          "quote": 1.9,
+          "einsatz_euro": 5.0,
+          "auszahlung_euro": 9.5,
+          "gewinn_euro": 4.5,
+          "gewinn_faktor": 1.9,
+          "kommentar": "5 Tore (4:1) - Ueber 2.5 durch",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "3:0",
+        "endstand": "4:1",
+        "tore": [
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Lewis Miley (Eigentor, Vorlage Ao Tanaka)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Jayden Bogle (Kopfball)",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Dominic Calvert-Lewin",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Noah Okafor",
+            "stand_danach": "4:0"
+          },
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Newcastle Anschluss",
+            "stand_danach": "4:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "keine Drehung"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "halbzeit_endstand": "Heim/Heim",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Anthony Elanga",
+            "details": "Elanga im Aufwaermen verletzt, Jacob Murphy in die Startelf gerueckt - Elanga spielt keine Minute, MRT geplant. Einwechslungs-Boost NICHT anwendbar (Regel: Boost greift nur wenn Spieler X selbst runter geht)"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Aufsteiger Leeds fegt Newcastle 4:1 - erwartetes Coinflip war real ein Heim-Blowout, Elanga-Ausfall in der Aufwaermphase verschaerfte das Bild."
+        ]
+      }
+    },
+    {
+      "id": "2026-09-14-vil-bet",
+      "liga": "LaLiga 2026/27 - Jornada 5",
+      "heim": "Villarreal CF",
+      "gast": "Real Betis Balompie",
+      "anstoss": "2026-09-14T21:00:00+02:00",
+      "stadion": "Estadio de la Ceramica, Villarreal",
+      "saison_kontext": {
+        "parallel_heim": "CL-Ligaphase MD1 (09.09.) - Ausw-Niederlage gegen Borussia Dortmund, MD2 erst 30.09. -> keine akute Rotation, aber Kopf-Belastung",
+        "parallel_gast": "Conference League Ligaphase startet erst am 24.09. -> vor diesem Spiel keine EU-Belastung",
+        "saisonziel_heim": "Villarreal Europa-Podest (CL-Rueckkehr laeuft). Fehlstart mit 2 Pkt aus 4 Spielen (2 Remis + 2 Niederlagen), P17. 5 Spiele sieglos inkl. CL-Pleite vs Dortmund. Trainer Marcelino.",
+        "saisonziel_gast": "Real Betis Europa-Podest / oberes Drittel. 9 Pkt aus 4 Spielen (3 Siege + 1 Niederlage), P4 punktegleich mit Real Madrid, 3 Pkt hinter Barca. Antony/Isco/Fornals-Achse tickt.",
+        "motivations_asymmetrie": "Form-Edge klar bei Betis auswaerts trotz Villarreal-Heimvorteil. Villarreal-Home-Odds ~1.86 sind aggressiv fuer ein 5-Spiele-sieglos-Team gegen einen P4-Betis mit Momentum. Klassischer Underdog-DC-X2-Value.",
+        "recovery_heim": "5 Tage seit CL-MD1 vs Dortmund (Kopf hat noch die Niederlage) - koerperlich frisch aber mental angeknackst",
+        "recovery_gast": "6 Tage seit letztem Liga-Spiel - frisch, kein EU-Vorlauf",
+        "quellen": [
+          "https://www.laliga.com/en-GB/laliga-easports/calendar",
+          "https://www.mightytips.com/football-predictions/villarreal-vs-real-betis-prediction-14-09-2026/",
+          "https://www.sportytrader.com/en/betting-tips/villarreal-betis-372553/",
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://lagrada.org/claves-jornada-5-laliga-ea-sports-2026-27-horarios-partidos-previa-osasuna-espanyol/",
+          "https://www.transfermarkt.de/real-betis-sevilla/startseite/verein/150",
+          "https://www.transfermarkt.de/fc-villarreal/startseite/verein/1050"
+        ]
+      },
+      "news": [
+        "Villarreal 2 Pkt aus 4 (2 Remis + 2 Niederlagen), P17, sieglos in 5 Spielen inkl. CL-Pleite vs Dortmund",
+        "Betis P4 mit 9 Pkt (3S/1N), 5:5-Tore-Bilanz - kontrollierte enge Spiele",
+        "Villarreal-Home @ 1.86 gilt Aggregatoren als 'zu kurz' fuer 5-sieglos-Team, Betis-DC X2 als Value markiert",
+        "2:0-Insurance greift NICHT (bet365-Aktionsregel nur BL + CL)",
+        "Aggregator-Quoten (bei bet365 live pruefen): Villarreal-Sieg ~1.85-2.00, Remis ~3.60-3.80, Betis-Sieg ~3.90-4.30, DC X2 ~1.85-2.00, BTTS-Ja ~1.55-1.65, Ueber 2.5 ~1.80-1.90"
+      ],
+      "tipps": [
+        {
+          "id": "vil-bet-1",
+          "kategorie": "value",
+          "markt": "Betis oder Remis (Doppelte Chance)",
+          "quote": 1.9,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.79,
+          "begruendung": "DC X2 Markt-Goldgrube (75% Hit / +9.4% ROI, n=36). Villarreal 5 Spiele sieglos + Kopf-Belastung nach CL-Pleite vs Dortmund, Betis P4 mit Momentum. Home-Odds von Villarreal ~1.86 objektiv zu kurz - Value-Signal fuer die andere Seite. HR2-konform (Heim-Krise = kein Heim-SAFE). Stufe 1 (Kasse 1000€): 1.5% = 15€."
+        },
+        {
+          "id": "vil-bet-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.6,
+          "einsatz_euro": 12.0,
+          "empfohlener_einsatz_prozent": 1.2,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.52,
+          "begruendung": "Betis 5:5 Tore-Bilanz aus 4 Spielen (BTTS in 3 von 4), Villarreal 6-8-Torbilanz - offene Partien programmiert. Antony/Isco/Fornals fuer Betis, Mikautadze/Ayoze fuer Villarreal - beide Sturmreihen treffsicher."
+        },
+        {
+          "id": "vil-bet-3",
+          "kategorie": "wackel",
+          "markt": "Torschuetze jederzeit: Antony",
+          "quote": 3.2,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3.0,
+          "faire_quote": 3.1,
+          "begruendung": "Antony treibende Kraft im Betis-Fluegelspiel, in 4 Spielen 26/27 in Torbeteiligungen aktiv. HR24 nur teilweise erfuellt (kein zentraler 9er) -> wackel, nicht value."
+        },
+        {
+          "id": "vil-bet-4",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.81,
+          "begruendung": "Beide Sturmreihen liefern, aber Betis kontrolliert enge Spiele (5:5 aus 4) - kein klarer Ueber-2.5-Selbstlaeufer, daher wackel. Stufe-1-Wackel-Regel 0.5% = 5€."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 2,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 2,
+        "endstand": "1:2",
+        "quelle": "WebSearch 2026-09-15 (ESPN/AllFootball/football-italia/Sky/Yahoo/NBC)"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "vil-bet-1",
+          "status": "gewonnen",
+          "quote": 1.9,
+          "einsatz_euro": 15.0,
+          "auszahlung_euro": 28.5,
+          "gewinn_euro": 13.5,
+          "gewinn_faktor": 1.9,
+          "kommentar": "Betis 1:2 in Villarreal - DC X2 durch (Cucho 39./Natan 43. gedreht)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "vil-bet-2",
+          "status": "gewonnen",
+          "quote": 1.6,
+          "einsatz_euro": 12.0,
+          "auszahlung_euro": 19.2,
+          "gewinn_euro": 7.2,
+          "gewinn_faktor": 1.6,
+          "kommentar": "Moreno 29. + Cucho 39. + Natan 43. - BTTS Ja",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "vil-bet-3",
+          "status": "verloren",
+          "quote": 3.2,
+          "einsatz_euro": 5.0,
+          "auszahlung_euro": 0.0,
+          "gewinn_euro": -5.0,
+          "gewinn_faktor": 0.0,
+          "kommentar": "Antony kam nur von der Bank, traf nicht - kein Einwechslungs-Boost-Anlass (Antony wurde nicht selbst ausgewechselt)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "vil-bet-4",
+          "status": "gewonnen",
+          "quote": 1.85,
+          "einsatz_euro": 5.0,
+          "auszahlung_euro": 9.25,
+          "gewinn_euro": 4.25,
+          "gewinn_faktor": 1.85,
+          "kommentar": "3 Tore (1:2) - Ueber 2.5 hauchduenn durch",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:2",
+        "endstand": "1:2",
+        "tore": [
+          {
+            "min": 29,
+            "team": "heim",
+            "spieler": "Gerard Moreno",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 39,
+            "team": "gast",
+            "spieler": "Cucho Hernandez",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 43,
+            "team": "gast",
+            "spieler": "Natan",
+            "stand_danach": "1:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "keine Drehung"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Gast/Gast",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "aus": "Isco",
+            "ein": null,
+            "minute": 57,
+            "tor": false,
+            "details": "Isco Min 57 raus - direkter Ersatz ohne Tor -> kein Einwechslungs-Boost"
+          },
+          {
+            "team": "gast",
+            "aus": null,
+            "ein": "Antony",
+            "minute": null,
+            "tor": false,
+            "details": "Antony kam von der Bank, traf nicht - kein Boost-Anlass"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Villarreal Fuehrung durch Moreno 29. in 14 Min gedreht (Cucho 39./Natan 43.) - Home-Odds 1.86 waren wie prognostiziert zu kurz, DC-X2-Value bestaetigt."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "spiel_id": "2026-09-14-tor-rom",
+      "spiel_label": "Torino vs Roma",
+      "tipp_id": "tor-rom-1",
+      "markt": "Roma oder Remis (Doppelte Chance)",
+      "quote": 1.3,
+      "kategorie": "safe",
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "DC X2 Markt-Goldgrube (75% / +9.4% ROI). Roma 3S/3S, Torino Sturm-Krise + Neu-Trainer.",
+      "rang": 1
+    },
+    {
+      "spiel_id": "2026-09-14-com-par",
+      "spiel_label": "Como vs Parma",
+      "tipp_id": "com-par-1",
+      "markt": "Como oder Remis (Doppelte Chance)",
+      "quote": 1.05,
+      "kategorie": "safe",
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "DC 1X Markt-Goldgrube (72.7% / +39.7% ROI). Como daheim + CL-Debut-Sieg vs Leipzig.",
+      "rang": 2
+    },
+    {
+      "spiel_id": "2026-09-14-int-udi",
+      "spiel_label": "Inter vs Udinese",
+      "tipp_id": "int-udi-1",
+      "markt": "Inter oder Remis (Doppelte Chance)",
+      "quote": 1.04,
+      "kategorie": "safe",
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "DC 1X Markt-Goldgrube (72.7% / +39.7% ROI). Inter 3S/3S, HTH 26-9 vs Udinese.",
+      "rang": 3
+    },
+    {
+      "spiel_id": "2026-09-14-tor-rom",
+      "spiel_label": "Torino vs Roma",
+      "tipp_id": "tor-rom-2",
+      "markt": "Sieg AS Roma (90 Min)",
+      "quote": 1.7,
+      "kategorie": "value",
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Dybala + Konè in Top-Form, Torino-Defense (Milan/Sassuolo) unsortiert. Kombi-Basis Safe.",
+      "rang": 4
+    },
+    {
+      "spiel_id": "2026-09-14-tor-rom",
+      "spiel_label": "Torino vs Roma",
+      "tipp_id": "tor-rom-3",
+      "markt": "Torschuetze jederzeit: Paulo Dybala",
+      "quote": 3.0,
+      "kategorie": "value",
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Dybala 4 Assists + 12 Chancen in 3 Spielen. HR24-konform (Form-Edge).",
+      "rang": 5
+    },
+    {
+      "spiel_id": "2026-09-14-lee-new",
+      "spiel_label": "Leeds vs Newcastle",
+      "tipp_id": "lee-new-2",
+      "markt": "Torschuetze jederzeit: Anthony Elanga",
+      "quote": 3.2,
+      "kategorie": "value",
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Elanga-Tor bei 0:2 in Tottenham + WM-Form. Leeds-Defense im Aufbau.",
+      "rang": 6
+    },
+    {
+      "spiel_id": "2026-09-14-vil-bet",
+      "spiel_label": "Villarreal vs Betis",
+      "tipp_id": "vil-bet-1",
+      "markt": "Betis oder Remis (Doppelte Chance)",
+      "quote": 1.9,
+      "kategorie": "value",
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "DC X2 Goldgrube + Villarreal 5 Spiele sieglos + Kopf-Belastung CL-Pleite vs Dortmund.",
+      "rang": 7
+    },
+    {
+      "spiel_id": "2026-09-14-int-udi",
+      "spiel_label": "Inter vs Udinese",
+      "tipp_id": "int-udi-3",
+      "markt": "Torschuetze jederzeit: Lautaro Martinez",
+      "quote": 1.75,
+      "kategorie": "value",
+      "einsatz_euro": 12.0,
+      "empfohlener_einsatz_prozent": 1.2,
+      "begruendung": "Lautaro 2 Tore in 3 Spielen (Form-Edge), zentraler 9er + Backup via Bonny/Esposito.",
+      "rang": 8
+    },
+    {
+      "spiel_id": "2026-09-14-com-par",
+      "spiel_label": "Como vs Parma",
+      "tipp_id": "com-par-3",
+      "markt": "Torschuetze jederzeit: Nico Paz",
+      "quote": 2.5,
+      "kategorie": "value",
+      "einsatz_euro": 12.0,
+      "empfohlener_einsatz_prozent": 1.2,
+      "begruendung": "Nico Paz zentraler Spielmacher mit Torschuetzen-Volumen, Cutrone als Einwechslungs-Boost.",
+      "rang": 9
+    },
+    {
+      "spiel_id": "2026-09-14-lee-new",
+      "spiel_label": "Leeds vs Newcastle",
+      "tipp_id": "lee-new-1",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.6,
+      "kategorie": "value",
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Beide in allen 3 PL-Spielen getroffen. Coinflip-Match, BTTS-Ja am staerksten.",
+      "rang": 10
+    },
+    {
+      "spiel_id": "2026-09-14-vil-bet",
+      "spiel_label": "Villarreal vs Betis",
+      "tipp_id": "vil-bet-2",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.6,
+      "kategorie": "value",
+      "einsatz_euro": 12.0,
+      "empfohlener_einsatz_prozent": 1.2,
+      "begruendung": "Betis 5:5 Tore aus 4, Villarreal 6:8. BTTS-Ja in 3 von 4 Betis-Spielen.",
+      "rang": 11
+    },
+    {
+      "spiel_id": "2026-09-14-int-udi",
+      "spiel_label": "Inter vs Udinese",
+      "tipp_id": "int-udi-4",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.62,
+      "kategorie": "value",
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Inter-Offensive haemmert (3:2 vs Napoli), Udinese kein Bunker-Team auswaerts.",
+      "rang": 12
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe (3-5x)",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-09-14-tor-rom",
+          "spiel_label": "Torino vs Roma",
+          "markt": "Sieg AS Roma (90 Min)",
+          "quote": 1.7,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-14-int-udi",
+          "spiel_label": "Inter vs Udinese",
+          "markt": "Sieg FC Internazionale Milano (90 Min)",
+          "quote": 1.28,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-14-lee-new",
+          "spiel_label": "Leeds vs Newcastle",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.6,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 3.48,
+      "rechnung": "1.70 x 1.28 x 1.60 = 3.48",
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Zwei Klassen-Sieg-Beine (Roma auswaerts bei krisen-getroffenem Torino + Inter zu Hause vs Udinese) plus BTTS im Monday-Nightgame Leeds-Newcastle - dort wird beide Seiten treffen. Kein 2:0-Insurance im Slate. 20€ Einsatz Stufe 1 (2% von 1000€). Payout 69.60€."
+    },
+    {
+      "name": "Balance (6-10x)",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-09-14-com-par",
+          "spiel_label": "Como vs Parma",
+          "markt": "Sieg Como 1907 (90 Min)",
+          "quote": 1.24,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-14-vil-bet",
+          "spiel_label": "Villarreal vs Betis",
+          "markt": "Torschuetze jederzeit: Antony",
+          "quote": 3.2,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-09-14-int-udi",
+          "spiel_label": "Inter vs Udinese",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.62,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 6.43,
+      "rechnung": "1.24 x 3.20 x 1.62 = 6.43",
+      "einsatz_euro": 8.0,
+      "empfohlener_einsatz_prozent": 0.8,
+      "begruendung": "Como-Sieg-Basis + Antony-Tor bei Betis (Fluegel-Kreativ-Motor) + Ueber 2.5 im Inter-Napoli-Nachfolgespiel. Markt-Mix Sieg + Torschuetze + Tor-Total. Layer-2 sauber (Como-Sieg einzige Sieg-Outcome, Inter-Sieg-Slot bleibt fuer Safe). 8€ Einsatz (0.8%). Payout 51.44€."
+    },
+    {
+      "name": "Risiko (15-30x)",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-09-14-com-par",
+          "spiel_label": "Como vs Parma",
+          "markt": "Torschuetze jederzeit: Nico Paz",
+          "quote": 2.5,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-14-lee-new",
+          "spiel_label": "Leeds vs Newcastle",
+          "markt": "Torschuetze jederzeit: Anthony Elanga",
+          "quote": 3.2,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-14-tor-rom",
+          "spiel_label": "Torino vs Roma",
+          "markt": "Torschuetze jederzeit: Paulo Dybala",
+          "quote": 3.0,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 24.0,
+      "rechnung": "2.50 x 3.20 x 3.00 = 24.00",
+      "einsatz_euro": 2.5,
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "Torschuetzen-Kombi aus drei Form-Edge-Spielern: Nico Paz (Como-Spielmacher), Elanga (Tor bei 0:2 in Tottenham + WM-Form) und Dybala (4 Assists / 3 Spiele). Layer-3 sauber Markt-entkoppelt zu Safe/Balance. 2.50€ Einsatz (0.25%). Payout 60.00€."
+    },
+    {
+      "name": "Moonshot (100x+)",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-09-14-lee-new",
+          "spiel_label": "Leeds vs Newcastle",
+          "markt": "Sieg Newcastle United (90 Min)",
+          "quote": 2.9,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-09-14-com-par",
+          "spiel_label": "Como vs Parma",
+          "markt": "Cutrone Doppelpack (2+ Tore)",
+          "quote": 10.0,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-09-14-vil-bet",
+          "spiel_label": "Villarreal vs Betis",
+          "markt": "Torschuetze jederzeit: Isco",
+          "quote": 4.0,
+          "kategorie": "moonshot"
+        }
+      ],
+      "gesamtquote": 116.0,
+      "rechnung": "2.90 x 10.00 x 4.00 = 116.00",
+      "einsatz_euro": 1.0,
+      "empfohlener_einsatz_prozent": 0.1,
+      "begruendung": "Underdog-Sieg (Newcastle bei Leeds, Klasse-Rest trotz Umbruch) + Cutrone-Doppelpack (Backup-9er kommt oft von der Bank und trifft) + Isco-Torschuetze bei Betis (10er-Regie in Form). Lotterie mit 1€ Spass-Einsatz. Payout 116€."
+    }
+  ],
+  "lessons_angewandt": [
+    "HR2 Anti-Heim-Bias bei Form-Krise: Villarreal 5 Spiele sieglos + CL-Pleite vs Dortmund → kein Heim-SAFE, DC X2 als Value fuer Betis.",
+    "HR3 Rotations-Vorsicht: Inter vor CL-Start 16.09. → Sieg Inter nur Value (nicht SAFE), Achse-Rotation moeglich aber Kader tief genug.",
+    "HR22 Star-OUT-Implosions-Risiko Torino: Ché Adams verletzt + Simeone nicht fit → kein Torino-Sieg-VALUE, Roma-DC statt Underdog-Pattern.",
+    "HR23 Layer-3 Markt-Entkopplung: Torino-Roma taucht in Safe (Sieg) + Risiko (Dybala Tor), Como-Parma in Balance (Sieg) + Risiko (Nico Paz Tor) + Moonshot (Cutrone Doppelpack), Leeds-Newcastle in Safe (BTTS) + Risiko (Elanga Tor) + Moonshot (Sieg Newcastle) - alle Markt-entkoppelt.",
+    "HR24 Form-Edge-Pflicht: Dybala (4 Ass / 3 Sp), Lautaro (2/3), Nico Paz (Serie-A-Talent) - Torschuetzen-Tipps aktiv gesucht (Goldgrube 50% / +24.4% ROI).",
+    "Kader-Frische verifiziert: Newcastle Massenabgang 29.08. (Isak/Tonali/Gordon/Guimaraes weg, Wissa/Elanga/Woltemade an Bord, Trainer Jaissle neu), Torino Trainer Abate neu 07/2026, Parma Trainer Cuesta neu 07/2026, keine Fabio-Silva/Adeyemi-typischen Verein-Halluzinationen zugelassen.",
+    "Markt-Goldgruben aktiv verwendet: DC 1X (72.7%/+39.7%), DC X2 (75%/+9.4%), Ueber 2.5 (66.7%/+27.5% historisch), Torschuetzen Jederzeit (50%/+24.4%).",
+    "2:0-Insurance-Kontext: HEUTE in KEINEM Spiel wirksam (nur Bundesliga + CL, keine Bundesliga heute, kein CL heute) - in allen Sieg-Tipps ausgewiesen."
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-09-14T14:30:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "quoten_pflicht_live_check",
+        "details": "Alle Quoten aus Aggregatoren (oddschecker/sportsgambler/sky/mightytips-preview) - bei bet365 live pruefen. Abweichung bis 5% moeglich."
+      }
+    ],
+    "lessons_generiert": []
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten. BZgA Gluecksspielsucht-Hotline: 0800 1372700. Hobby-Tool, keine Einnahmequelle. Nur setzen was du verlieren kannst.",
+  "modus": "tages_dossier",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "tor-rom-1",
+      "spiel_id": "2026-09-14-tor-rom",
+      "spiel_label": "Torino vs Roma",
+      "kategorie": "safe",
+      "markt": "Roma oder Remis (Doppelte Chance)",
+      "quote": 1.3,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "DC X2 Markt-Goldgrube (75% / +9.4% ROI). Roma 3S/3S, Torino Sturm-Krise + Neu-Trainer.",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 1,
+      "status": "gewonnen",
+      "einsatz_euro": 20.0,
+      "auszahlung_euro": 26.0,
+      "gewinn_euro": 6.0,
+      "gewinn_faktor": 1.3,
+      "kommentar": "Roma-Ausw-Sieg 0:1 (Malen 40.) - DC X2 durch",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "com-par-1",
+      "spiel_id": "2026-09-14-com-par",
+      "spiel_label": "Como vs Parma",
+      "kategorie": "safe",
+      "markt": "Como oder Remis (Doppelte Chance)",
+      "quote": 1.05,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "DC 1X Markt-Goldgrube (72.7% / +39.7% ROI). Como daheim + CL-Debut-Sieg vs Leipzig.",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 2,
+      "status": "gewonnen",
+      "einsatz_euro": 20.0,
+      "auszahlung_euro": 21.0,
+      "gewinn_euro": 1.0,
+      "gewinn_faktor": 1.05,
+      "kommentar": "Como 2:1 - DC 1X durch (HZ 1:0)",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "int-udi-1",
+      "spiel_id": "2026-09-14-int-udi",
+      "spiel_label": "Inter vs Udinese",
+      "kategorie": "safe",
+      "markt": "Inter oder Remis (Doppelte Chance)",
+      "quote": 1.04,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "DC 1X Markt-Goldgrube (72.7% / +39.7% ROI). Inter 3S/3S, HTH 26-9 vs Udinese.",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 3,
+      "status": "gewonnen",
+      "einsatz_euro": 20.0,
+      "auszahlung_euro": 20.8,
+      "gewinn_euro": 0.8,
+      "gewinn_faktor": 1.04,
+      "kommentar": "Inter-Comeback 5:3 nach 0:2-Rueckstand - DC 1X durch",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "tor-rom-2",
+      "spiel_id": "2026-09-14-tor-rom",
+      "spiel_label": "Torino vs Roma",
+      "kategorie": "value",
+      "markt": "Sieg AS Roma (90 Min)",
+      "quote": 1.7,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Dybala + Konè in Top-Form, Torino-Defense (Milan/Sassuolo) unsortiert. Kombi-Basis Safe.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4,
+      "status": "gewonnen",
+      "einsatz_euro": 15.0,
+      "auszahlung_euro": 25.5,
+      "gewinn_euro": 10.5,
+      "gewinn_faktor": 1.7,
+      "kommentar": "Roma 0:1 durch Malen 40. - Sieg-Tipp durch",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "tor-rom-3",
+      "spiel_id": "2026-09-14-tor-rom",
+      "spiel_label": "Torino vs Roma",
+      "kategorie": "value",
+      "markt": "Torschuetze jederzeit: Paulo Dybala",
+      "quote": 3.0,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung": "Dybala 4 Assists + 12 Chancen in 3 Spielen. HR24-konform (Form-Edge).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5,
+      "status": "verloren",
+      "einsatz_euro": 10.0,
+      "auszahlung_euro": 0.0,
+      "gewinn_euro": -10.0,
+      "gewinn_faktor": 0.0,
+      "kommentar": "Dybala ohne Tor - fuer De Roon (defensiver 6er) ausgewechselt, De Roon traf nicht -> kein Einwechslungs-Boost",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "lee-new-2",
+      "spiel_id": "2026-09-14-lee-new",
+      "spiel_label": "Leeds vs Newcastle",
+      "kategorie": "value",
+      "markt": "Torschuetze jederzeit: Anthony Elanga",
+      "quote": 3.2,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung": "Elanga-Tor bei 0:2 in Tottenham + WM-Form. Leeds-Defense im Aufbau.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6,
+      "status": "verloren",
+      "einsatz_euro": 10.0,
+      "auszahlung_euro": 0.0,
+      "gewinn_euro": -10.0,
+      "gewinn_faktor": 0.0,
+      "kommentar": "Elanga im Aufwaermen verletzt, Murphy startete stattdessen - Elanga spielte keine Minute. Einwechslungs-Boost greift NICHT (Spieler wurde nicht ausgewechselt sondern gar nicht aufgestellt). MRT-Termin geplant",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "vil-bet-1",
+      "spiel_id": "2026-09-14-vil-bet",
+      "spiel_label": "Villarreal vs Betis",
+      "kategorie": "value",
+      "markt": "Betis oder Remis (Doppelte Chance)",
+      "quote": 1.9,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "DC X2 Goldgrube + Villarreal 5 Spiele sieglos + Kopf-Belastung CL-Pleite vs Dortmund.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 7,
+      "status": "gewonnen",
+      "einsatz_euro": 15.0,
+      "auszahlung_euro": 28.5,
+      "gewinn_euro": 13.5,
+      "gewinn_faktor": 1.9,
+      "kommentar": "Betis 1:2 in Villarreal - DC X2 durch (Cucho 39./Natan 43. gedreht)",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "int-udi-3",
+      "spiel_id": "2026-09-14-int-udi",
+      "spiel_label": "Inter vs Udinese",
+      "kategorie": "value",
+      "markt": "Torschuetze jederzeit: Lautaro Martinez",
+      "quote": 1.75,
+      "empfohlener_einsatz_euro": 12.0,
+      "begruendung": "Lautaro 2 Tore in 3 Spielen (Form-Edge), zentraler 9er + Backup via Bonny/Esposito.",
+      "empfohlener_einsatz_prozent": 1.2,
+      "rang": 8,
+      "status": "verloren",
+      "einsatz_euro": 12.0,
+      "auszahlung_euro": 0.0,
+      "gewinn_euro": -12.0,
+      "gewinn_faktor": 0.0,
+      "kommentar": "Lautaro vor CL-Start 16.09. von Chivu rotiert (nicht im Spieltagskader). Einwechslungs-Boost greift NICHT: Regel setzt voraus dass X selbst ausgewechselt wird - Lautaro hat gar nicht gespielt",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "com-par-3",
+      "spiel_id": "2026-09-14-com-par",
+      "spiel_label": "Como vs Parma",
+      "kategorie": "value",
+      "markt": "Torschuetze jederzeit: Nico Paz",
+      "quote": 2.5,
+      "empfohlener_einsatz_euro": 12.0,
+      "begruendung": "Nico Paz zentraler Spielmacher mit Torschuetzen-Volumen, Cutrone als Einwechslungs-Boost.",
+      "empfohlener_einsatz_prozent": 1.2,
+      "rang": 9,
+      "status": "verloren",
+      "einsatz_euro": 12.0,
+      "auszahlung_euro": 0.0,
+      "gewinn_euro": -12.0,
+      "gewinn_faktor": 0.0,
+      "kommentar": "Nico Paz mit Vorlage aber ohne eigenes Tor; 80. Min raus fuer Ricci (kein Ersatz-Tor) -> Einwechslungs-Boost verpufft",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "lee-new-1",
+      "spiel_id": "2026-09-14-lee-new",
+      "spiel_label": "Leeds vs Newcastle",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.6,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Beide in allen 3 PL-Spielen getroffen. Coinflip-Match, BTTS-Ja am staerksten.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 10,
+      "status": "gewonnen",
+      "einsatz_euro": 15.0,
+      "auszahlung_euro": 24.0,
+      "gewinn_euro": 9.0,
+      "gewinn_faktor": 1.6,
+      "kommentar": "Leeds 4x, Newcastle 1x - BTTS Ja",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "vil-bet-2",
+      "spiel_id": "2026-09-14-vil-bet",
+      "spiel_label": "Villarreal vs Betis",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.6,
+      "empfohlener_einsatz_euro": 12.0,
+      "begruendung": "Betis 5:5 Tore aus 4, Villarreal 6:8. BTTS-Ja in 3 von 4 Betis-Spielen.",
+      "empfohlener_einsatz_prozent": 1.2,
+      "rang": 11,
+      "status": "gewonnen",
+      "einsatz_euro": 12.0,
+      "auszahlung_euro": 19.2,
+      "gewinn_euro": 7.2,
+      "gewinn_faktor": 1.6,
+      "kommentar": "Moreno 29. + Cucho 39. + Natan 43. - BTTS Ja",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "int-udi-4",
+      "spiel_id": "2026-09-14-int-udi",
+      "spiel_label": "Inter vs Udinese",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.62,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung": "Inter-Offensive haemmert (3:2 vs Napoli), Udinese kein Bunker-Team auswaerts.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 12,
+      "status": "gewonnen",
+      "einsatz_euro": 10.0,
+      "auszahlung_euro": 16.2,
+      "gewinn_euro": 6.2,
+      "gewinn_faktor": 1.62,
+      "kommentar": "8 Tore (5:3) - Ueber 2.5 mit Ansage durch",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": null,
+      "status": "gewonnen",
+      "gesamtquote": 3.48,
+      "name": "Safe (3-5x)",
+      "kategorie": "safe",
+      "einsatz_euro": 20.0,
+      "auszahlung_euro": 69.6,
+      "gewinn_euro": 49.6,
+      "beine_ergebnis": [
+        {
+          "spiel_label": "Torino vs Roma",
+          "markt": "Sieg AS Roma (90 Min)",
+          "quote": 1.7,
+          "status": "gewonnen",
+          "kommentar": "Roma 0:1 durch Malen 40. - Sieg-Tipp durch"
+        },
+        {
+          "spiel_label": "Inter vs Udinese",
+          "markt": "Sieg FC Internazionale Milano (90 Min)",
+          "quote": 1.28,
+          "status": "gewonnen",
+          "kommentar": "Inter 5:3 - Direkt-Sieg durch (5 Tore in 44 Min nach HZ 2:2)"
+        },
+        {
+          "spiel_label": "Leeds vs Newcastle",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.6,
+          "status": "gewonnen",
+          "kommentar": "Leeds 4x, Newcastle 1x - BTTS Ja"
+        }
+      ]
+    },
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 6.43,
+      "name": "Balance (6-10x)",
+      "kategorie": "balance",
+      "einsatz_euro": 8.0,
+      "auszahlung_euro": 0.0,
+      "gewinn_euro": -8.0,
+      "beine_ergebnis": [
+        {
+          "spiel_label": "Como vs Parma",
+          "markt": "Sieg Como 1907 (90 Min)",
+          "quote": 1.24,
+          "status": "gewonnen",
+          "kommentar": "Como 2:1 - Direkt-Sieg durch (Ramon 23., Kaiki 84.)"
+        },
+        {
+          "spiel_label": "Villarreal vs Betis",
+          "markt": "Torschuetze jederzeit: Antony",
+          "quote": 3.2,
+          "status": "verloren",
+          "kommentar": "Antony kam nur von der Bank, traf nicht - kein Einwechslungs-Boost-Anlass (Antony wurde nicht selbst ausgewechselt)"
+        },
+        {
+          "spiel_label": "Inter vs Udinese",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.62,
+          "status": "gewonnen",
+          "kommentar": "8 Tore (5:3) - Ueber 2.5 mit Ansage durch"
+        }
+      ]
+    },
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 24.0,
+      "name": "Risiko (15-30x)",
+      "kategorie": "risk",
+      "einsatz_euro": 2.5,
+      "auszahlung_euro": 0.0,
+      "gewinn_euro": -2.5,
+      "beine_ergebnis": [
+        {
+          "spiel_label": "Como vs Parma",
+          "markt": "Torschuetze jederzeit: Nico Paz",
+          "quote": 2.5,
+          "status": "verloren",
+          "kommentar": "Nico Paz mit Vorlage aber ohne eigenes Tor; 80. Min raus fuer Ricci (kein Ersatz-Tor) -> Einwechslungs-Boost verpufft"
+        },
+        {
+          "spiel_label": "Leeds vs Newcastle",
+          "markt": "Torschuetze jederzeit: Anthony Elanga",
+          "quote": 3.2,
+          "status": "verloren",
+          "kommentar": "Elanga im Aufwaermen verletzt, Murphy startete stattdessen - Elanga spielte keine Minute. Einwechslungs-Boost greift NICHT (Spieler wurde nicht ausgewechselt sondern gar nicht aufgestellt). MRT-Termin geplant"
+        },
+        {
+          "spiel_label": "Torino vs Roma",
+          "markt": "Torschuetze jederzeit: Paulo Dybala",
+          "quote": 3.0,
+          "status": "verloren",
+          "kommentar": "Dybala ohne Tor - fuer De Roon (defensiver 6er) ausgewechselt, De Roon traf nicht -> kein Einwechslungs-Boost"
+        }
+      ]
+    },
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 116.0,
+      "name": "Moonshot (100x+)",
+      "kategorie": "moonshot",
+      "einsatz_euro": 1.0,
+      "auszahlung_euro": 0.0,
+      "gewinn_euro": -1.0,
+      "beine_ergebnis": [
+        {
+          "spiel_label": "Leeds vs Newcastle",
+          "markt": "Sieg Newcastle United (90 Min)",
+          "quote": 2.9,
+          "status": "verloren",
+          "kommentar": "Leeds 4:1 - Newcastle-Sieg futsch"
+        },
+        {
+          "spiel_label": "Como vs Parma",
+          "markt": "Cutrone Doppelpack (2+ Tore)",
+          "quote": 10.0,
+          "status": "verloren",
+          "kommentar": "Cutrone ohne Torbeteiligung"
+        },
+        {
+          "spiel_label": "Villarreal vs Betis",
+          "markt": "Torschuetze jederzeit: Isco",
+          "quote": 4.0,
+          "status": "verloren",
+          "kommentar": "Isco Min 57 raus ohne Tor - kein Boost"
+        }
+      ]
+    }
+  ],
+  "bilanz": {
+    "einzeltipps": {
+      "n": 12,
+      "gewonnen": 8,
+      "hitrate_prozent": 66.7,
+      "einsatz_euro": 171.0,
+      "auszahlung_euro": 181.2,
+      "gewinn_euro": 10.2
+    },
+    "kombis": {
+      "n": 4,
+      "gewonnen": 1,
+      "hitrate_prozent": 25.0,
+      "einsatz_euro": 31.5,
+      "auszahlung_euro": 69.6,
+      "gewinn_euro": 38.1
+    },
+    "gesamt": {
+      "einsatz_euro": 202.5,
+      "auszahlung_euro": 250.8,
+      "gewinn_euro": 48.3
+    }
+  },
+  "ausgewertet_am": "2026-09-15T06:10:00+02:00"
+}

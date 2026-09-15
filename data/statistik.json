@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-09-14T06:13:32+00:00",
+  "letzte_berechnung": "2026-09-15T06:12:20+00:00",
   "gesamt": {
     "tipps": 398,
     "gewonnen": 210,
@@ -12,26 +12,26 @@
     "roi_prozent": 15.2
   },
   "letzte_30_tage": {
-    "tipps": 98,
-    "gewonnen": 58,
-    "verloren": 29,
+    "tipps": 88,
+    "gewonnen": 51,
+    "verloren": 26,
     "push": 0,
     "offen": 11,
-    "einsatz": 87.0,
+    "einsatz": 77.0,
     "netto": 65.24,
-    "trefferquote": 66.7,
-    "roi_prozent": 75.0
+    "trefferquote": 66.2,
+    "roi_prozent": 84.7
   },
   "letzte_90_tage": {
-    "tipps": 388,
-    "gewonnen": 209,
-    "verloren": 167,
+    "tipps": 379,
+    "gewonnen": 202,
+    "verloren": 165,
     "push": 1,
     "offen": 11,
-    "einsatz": 377.0,
-    "netto": 67.7,
-    "trefferquote": 55.6,
-    "roi_prozent": 18.0
+    "einsatz": 368.0,
+    "netto": 65.99,
+    "trefferquote": 55.0,
+    "roi_prozent": 17.9
   },
   "nach_liga": {
     "FIFA World Cup 2026 - Gruppe H - Spieltag 1": {
@@ -3945,6 +3945,273 @@
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-09-14",
+      "gesamt": {
+        "tipps": 12,
+        "gewonnen": 8,
+        "verloren": 4,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 12.0,
+        "netto": 11.81,
+        "trefferquote": 66.7,
+        "roi_prozent": 98.4
+      },
+      "spiele": [
+        {
+          "id": "2026-09-14-com-par",
+          "liga": "Serie A 2026/27 - 4^ giornata",
+          "heim": "Como 1907",
+          "gast": "Parma Calcio 1913",
+          "endstand": "2:1",
+          "tipps": [
+            {
+              "markt": "Como oder Remis (Doppelte Chance)",
+              "quote": 1.05,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.05,
+              "kommentar": "Como 2:1 - DC 1X durch (HZ 1:0)"
+            },
+            {
+              "markt": "Torschuetze jederzeit: Nico Paz",
+              "quote": 2.5,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Nico Paz mit Vorlage aber ohne eigenes Tor; 80. Min raus fuer Ricci (kein Ersatz-Tor) -> Einwechslungs-Boost verpufft"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-14-tor-rom",
+          "liga": "Serie A 2026/27 - 4^ giornata",
+          "heim": "Torino FC",
+          "gast": "AS Roma",
+          "endstand": "0:1",
+          "tipps": [
+            {
+              "markt": "Roma oder Remis (Doppelte Chance)",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.3,
+              "kommentar": "Roma-Ausw-Sieg 0:1 (Malen 40.) - DC X2 durch"
+            },
+            {
+              "markt": "Sieg AS Roma (90 Min)",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.7,
+              "kommentar": "Roma 0:1 durch Malen 40. - Sieg-Tipp durch"
+            },
+            {
+              "markt": "Torschuetze jederzeit: Paulo Dybala",
+              "quote": 3.0,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Dybala ohne Tor - fuer De Roon (defensiver 6er) ausgewechselt, De Roon traf nicht -> kein Einwechslungs-Boost"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-14-int-udi",
+          "liga": "Serie A 2026/27 - 4^ giornata",
+          "heim": "FC Internazionale Milano",
+          "gast": "Udinese Calcio",
+          "endstand": "5:3",
+          "tipps": [
+            {
+              "markt": "Inter oder Remis (Doppelte Chance)",
+              "quote": 1.04,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.04,
+              "kommentar": "Inter-Comeback 5:3 nach 0:2-Rueckstand - DC 1X durch"
+            },
+            {
+              "markt": "Torschuetze jederzeit: Lautaro Martinez",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Lautaro vor CL-Start 16.09. von Chivu rotiert (nicht im Spieltagskader). Einwechslungs-Boost greift NICHT: Regel setzt voraus dass X selbst ausgewechselt wird - Lautaro hat gar nicht gespielt"
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.62,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.62,
+              "kommentar": "8 Tore (5:3) - Ueber 2.5 mit Ansage durch"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-14-lee-new",
+          "liga": "Premier League 2026/27 - Matchweek 4",
+          "heim": "Leeds United",
+          "gast": "Newcastle United",
+          "endstand": "4:1",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen: Ja",
+              "quote": 1.6,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.6,
+              "kommentar": "Leeds 4x, Newcastle 1x - BTTS Ja"
+            },
+            {
+              "markt": "Torschuetze jederzeit: Anthony Elanga",
+              "quote": 3.2,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Elanga im Aufwaermen verletzt, Murphy startete stattdessen - Elanga spielte keine Minute. Einwechslungs-Boost greift NICHT (Spieler wurde nicht ausgewechselt sondern gar nicht aufgestellt). MRT-Termin geplant"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-14-vil-bet",
+          "liga": "LaLiga 2026/27 - Jornada 5",
+          "heim": "Villarreal CF",
+          "gast": "Real Betis Balompie",
+          "endstand": "1:2",
+          "tipps": [
+            {
+              "markt": "Betis oder Remis (Doppelte Chance)",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.9,
+              "kommentar": "Betis 1:2 in Villarreal - DC X2 durch (Cucho 39./Natan 43. gedreht)"
+            },
+            {
+              "markt": "Beide Teams treffen: Ja",
+              "quote": 1.6,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.6,
+              "kommentar": "Moreno 29. + Cucho 39. + Natan 43. - BTTS Ja"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe (3-5x)",
+          "kategorie": "safe",
+          "gesamtquote": 3.48,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg AS Roma (90 Min)",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg FC Internazionale Milano (90 Min)",
+              "quote": 1.28,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen: Ja",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance (6-10x)",
+          "kategorie": "balance",
+          "gesamtquote": 6.43,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Como 1907 (90 Min)",
+              "quote": 1.24,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetze jederzeit: Antony",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.62,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko (15-30x)",
+          "kategorie": "risk",
+          "gesamtquote": 24.0,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Torschuetze jederzeit: Nico Paz",
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetze jederzeit: Anthony Elanga",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetze jederzeit: Paulo Dybala",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot (100x+)",
+          "kategorie": "moonshot",
+          "gesamtquote": 116.0,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Newcastle United (90 Min)",
+              "quote": 2.9,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Cutrone Doppelpack (2+ Tore)",
+              "quote": 10.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetze jederzeit: Isco",
+              "quote": 4.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-09-13",
       "gesamt": {

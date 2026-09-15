@@ -3062,7 +3062,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "Rote Karte Home in 60.-70. Min = DC Gast triggert (8h Rotation/Karten-Pattern)",
       "lesson": "get-cel-3 'DC Getafe oder Remis @1.35' gedeckt (1:1), obwohl Getafe in der 67. Min Zaid Romero per Roter Karte verlor. Vorher fuehrte Getafe 1:0 (Satriano 21.), Celta glich in Ueberzahl aus (Starfelt 57.). Pattern: Roten Karten in erster Stunde Spielminute triggern in ~70% der Faelle einen Ausgleich/Wende in 30 Min, aber das Home-Team behaelt ein Remis bei Fuehrung mit >1 Tor. Bei DC 1X ist der 1-Tor-Vorsprung vor der Roten Karte der entscheidende Puffer. Rule: DC 1X SAFE-Aufwertung ist OK wenn Team schon vor der Roten fuehrt. Getafe hat jetzt 2 Rote in 4 J-Spielen - Bordalas-Physik-System kollidiert mit VAR/Karten-Sensibilitaet. Wenn Trend anhaelt, DC 1X Getafe systematisch degradieren.",
       "bezug_spiel_id": "2026-09-07-get-cel"
+    },
+    {
+      "datum": "2026-09-14",
+      "kategorie": "Torschuetzen-Cluster-Verlust vor CL-Woche (8g/8h)",
+      "lesson": "3/3 Torschuetzen-Value-Tipps am 14.09. (Nico Paz Como, Dybala Roma, Lautaro Inter) alle verloren - Serie A Giornata 4 unmittelbar vor CL-MD2-Woche. Lautaro sogar von Chivu vor CL-Start 16.09. aus dem Kader rotiert, Einwechslungs-Boost greift dort per Definition nicht (Spieler wurde nicht selbst ausgewechselt sondern gar nicht aufgestellt). Konsequenz: an Serie-A-Spieltagen unmittelbar vor CL-MD Star-9er-Torschuetzen-Tipps nur noch als Wackel, nicht als VALUE - egal wie gut die letzten 3-Spiele-Form ist. Kader-Rotation-Risiko ist quantifizierbar hoeher als die Form-Edge suggeriert.",
+      "bezug_spiel_id": "2026-09-14-int-udi"
+    },
+    {
+      "datum": "2026-09-14",
+      "kategorie": "Pre-Match-Injury blockt Einwechslungs-Boost (8i)",
+      "lesson": "Elanga (Newcastle) verletzte sich im Aufwaermen, Murphy startete stattdessen - Elanga spielte keine Minute. Der bet365-Einwechslungs-Boost greift explizit NUR wenn Spieler X selbst ausgewechselt wird, nicht wenn er gar nicht aufgestellt wird. lee-new-2 'Elanga Torschuetze @3.20' war damit direkt tot. Konsequenz fuer die Tipps-Routine: bei Torschuetzen-Tipps auf Volumen-Stuermer/Fluegel-Kreativspieler ist die Aufstellungs-Verifikation ~30 Min vor Anstoss (kicker.de Live-Vorschau / Klub-Twitter) Pflicht. Fuer die Auswertungs-Routine: 'nicht aufgestellt' != 'ausgewechselt' - Kommentar sauber differenzieren.",
+      "bezug_spiel_id": "2026-09-14-lee-new"
+    },
+    {
+      "datum": "2026-09-14",
+      "kategorie": "Aufsteiger-Heim vs Umbruch-Ex-Top-Klub (8g)",
+      "lesson": "Leeds 4:1 Newcastle (HZ 3:0) trotz aggregierter Home-Odds 2.30-2.55. Muster: Aufsteiger mit geordneter Defense (Farke 3 PL-Spiele ungeschlagen) trifft auf Ex-Top-Klub mitten im Sturmumbruch (Isak-Rekordverkauf + Tonali/Gordon/Guimaraes weg + Wissa/Elanga verletzt + Neu-Trainer Jaissle). Das Dossier hatte den Coinflip erkannt aber BTTS statt DC 1X als Haupt-Value gesetzt - lee-new-3 (DC 1X @1.42) war 'nur' Wackel, gewann klar. Konsequenz: bei Aufsteiger-Heim gegen Ex-Top-Klub mit belegtem Sturmumbruch DC 1X als VALUE einordnen (nicht Wackel) und den Einsatz konservativ heben. BTTS bleibt legitim, ist aber nicht die schaerfste Value-Kante.",
+      "bezug_spiel_id": "2026-09-14-lee-new"
+    },
+    {
+      "datum": "2026-09-14",
+      "kategorie": "Ueber-2.5 bei Inter-Heim vs Serie-A-Mittelfeld (8g)",
+      "lesson": "Inter 5:3 Udinese: 5 verschiedene Torschuetzen fuer Inter (Augusto, Barella, Thuram, Esposito, Bonny) ohne Lautaro, plus 3 Udinese-Tore - insgesamt 8 Tore. Muster bestaetigt: Inter-Heim gegen Serie-A-Mittelfeld ist quasi-strukturell Ueber-2.5, auch wenn Chivu die halbe Achse rotiert. int-udi-4 'Ueber 2.5 @1.62' als VALUE (nicht wackel) war die korrekte Einordnung - die 'Rotations-Vorsicht' aus dem Dossier hat die Bewertung nicht wackelig gemacht. Konsequenz: Inter-Heim + Serie-A-Mittelfeld-Gast bleibt Ueber-2.5-VALUE bevorzugt (Goldgruben-Markt-Level), auch bei sichtbarer CL-Rotation. Kader-Tiefe kompensiert Star-Ausfaelle.",
+      "bezug_spiel_id": "2026-09-14-int-udi"
     }
   ]
-}
-;
+};
