@@ -1,0 +1,55 @@
+{
+  "spiel_id": "2026-09-15-liv-tot",
+  "saison_kontext": {
+    "parallel_heim": "keine (Liverpool naechster PL-Termin 20.09.). CL-Ligaphase MD1 vergangene Woche - Kader hat 6 Tage Pause",
+    "parallel_gast": "keine (Tottenham naechster PL-Termin 20.09.)",
+    "saisonziel_heim": "Liverpool Titel-Verteidiger / CL. Neuer Trainer Andoni Iraola (kam von Bournemouth, ersetzt Slot). Neuzugaenge: Isak (ex-Newcastle), Barcola (ex-PSG). Ekitike, Chiesa, Leoni langfristig OUT. Salah + Konate + Robertson im Sommer 2026 abgegeben.",
+    "saisonziel_gast": "Tottenham Top-6 / Europa-Wiedereinstieg. Neuer Trainer Roberto De Zerbi (uebernahm Sommer 2026 nach Postecoglou/Frank-Interim). PL-Auftakt maessig (0 Punkte aus ersten 2 Spielen incl 0:2 Newcastle Heim 29.08.). Romero ist zu Atletico weg, Tonali kam von Newcastle.",
+    "motivations_asymmetrie": "Cup-Nacht mit beidseitiger Rotation - Iraola hat 'Spieler die wir noch nicht gesehen haben' angekuendigt (Mamardashvili im Tor bestaetigt, Van Dijk moeglich Pause, Gomez zurueck). De Zerbi rotiert ebenfalls (Bergvall, Tel, Senesi, Davies moegliche Rotation). Anfield-Heimvorteil bleibt aber gross, dazu Liverpool's Torhueter-Reserve solider als Spurs' zweite Reihe. Kein 2:0-Insurance in EFL Cup.",
+    "recovery_heim": "3 Tage seit PL-Spiel am WE - eng, aber Rotation genau deshalb",
+    "recovery_gast": "3 Tage seit PL-Spiel am WE - eng, De Zerbi bestaetigt Rotation",
+    "quellen": [
+      "https://www.thisisanfield.com/2026/09/liverpool-vs-tottenham-carabao-cup-injuries-team-selection-tv-info/",
+      "https://lastwordonsports.com/football/2026/09/15/liverpool-vs-tottenham-pl-carabao/",
+      "https://www.premierleague.com/",
+      "https://www.efl.com/news/2026/august/28/carabao-cup--third-round-dates-confirmed/",
+      "https://www.transfermarkt.de/fc-liverpool/startseite/verein/31",
+      "https://www.kicker.de/tottenham-hotspur/kader"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "liv-tot-1",
+      "kategorie": "value",
+      "markt": "Liverpool oder Remis (Doppelte Chance)",
+      "quote": 1.25,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.21,
+      "begruendung": "DC 1X als Goldgrube-Markt-Sicherung. Anfield-Heimvorteil + Tottenham's massive Ausfall-Liste (Porro, Tonali, Kulusevski, Mudryk raus) - selbst mit Rotation ist Liverpool's B-Elf tiefer besetzt. Ohne 2:0-Insurance in EFL Cup DC statt Direkt-Sieg (bei Remis + Elfer-Niederlage bliebe DC gewonnen). Trotz VALUE nicht SAFE wegen beidseitiger Rotation - HR3-konform."
+    },
+    {
+      "id": "liv-tot-2",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.85,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.79,
+      "begruendung": "Rotierte Elfen produzieren oft chaotische Cup-Spiele - Isak/Barcola koennen bei Spurs' rotierter Abwehr treffen, Tel im Konter gefaehrlich. Aber Cup-Vorsicht + zweite Torhueter-Wahl im Feld (Kepa-analog Mamardashvili) druckt Erwartung. Wackel weil kein klares offensives Signal beidseitig. Ueber 2.5 ist Goldgrube-Markt (66.7% / +27.5% ROI) - hier nur wackel wegen Rotations-Unbekannten."
+    },
+    {
+      "id": "liv-tot-3",
+      "kategorie": "wackel",
+      "markt": "Torschuetze jederzeit: Mathys Tel",
+      "quote": 3.4,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 4.0,
+      "faire_quote": 3.26,
+      "begruendung": "Mathys Tel als moeglicher Startelf-Rotationsspieler bei Spurs - junger 20-Jaehriger, will sich beweisen in Cup-Chance. Anfield ist gross gegen ihn, aber sein Cup-Volumen bei Bayern vor der Leihe gut. Live pruefen ob er wirklich startet - sonst Tipp ziehen. Wackel weil viele Unbekannte."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "spiel_id": "2026-09-15-whu-ful",
+  "saison_kontext": {
+    "parallel_heim": "keine (West Ham naechster PL-Termin 20.09.)",
+    "parallel_gast": "keine (Fulham naechster PL-Termin 20.09.)",
+    "saisonziel_heim": "West Ham obere Tabellenhaelfte / Europa-Angriff. Trainer Nuno Espirito Santo. Aktuell 4 Siege in Folge inklusive 6:0 gegen Wrexham am Freitag - Formstark.",
+    "saisonziel_gast": "Fulham gesichertes Mittelfeld / Cup-Chance. Neuer Trainer Alvaro Arbeloa (seit Sommer 2026, ersetzt Silva). Zuletzt 0:0 in Anfield gegen Liverpool gehalten. Kapitan Cairney nach Knie-OP raus.",
+    "motivations_asymmetrie": "West Ham mit klarem Momentum + Heimspiel + starker Form. Fulham unter Neu-Trainer Arbeloa noch in Findung, wird Cup rotieren. Aber beide sind PL-Level, klarer Klassen-Edge fehlt - eher West-Ham-Home-Edge. Kein 2:0-Insurance in EFL Cup.",
+    "recovery_heim": "3 Tage seit PL-Wrexham-Cup-Sieg 6:0 - frisch, hohe Torlaune",
+    "recovery_gast": "3 Tage seit 0:0 in Anfield - defensiv stabil, aber offensive Rhythmus fehlend",
+    "quellen": [
+      "https://thehardtackle.com/round-up/2026/09/14/west-ham-united-vs-fulham-preview-prediction-probable-lineups-tactics-team-news-key-stats/",
+      "https://greenstreethammers.com/west-ham-vs-fulham-preview-prediction-team-news-and-lineups-01m2dzamtpek",
+      "https://www.whufc.com/en/news/date-set-for-fulham-carabao-cup-clash",
+      "https://www.efl.com/news/2026/august/28/carabao-cup--third-round-dates-confirmed/",
+      "https://www.transfermarkt.de/west-ham-united/startseite/verein/379",
+      "https://www.kicker.de/west-ham-united/kader"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "whu-ful-1",
+      "kategorie": "value",
+      "markt": "West Ham oder Remis (Doppelte Chance)",
+      "quote": 1.4,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "edge_prozent": 4.0,
+      "faire_quote": 1.35,
+      "begruendung": "DC 1X als Goldgrube-Markt. West Ham mit 4-Siege-Serie + Heim + 6:0-Rueckenwind vs Wrexham, dazu Fulham unter Neu-Trainer Arbeloa noch im Umbruch. Klare offensive Momentum-Asymmetrie. Kein 2:0-Insurance in EFL Cup. HR3 nicht anwendbar (keine UEFA-Doppelbelastung fuer beide)."
+    },
+    {
+      "id": "whu-ful-2",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.8,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 2.0,
+      "faire_quote": 1.76,
+      "begruendung": "Beide PL-Team-Rotationselfen produzieren typisch offene Cup-Spiele. West Ham torhungrig, Fulham hat mit Iwobi/Palacios genug Qualitaet fuer 1 Konter-Tor. Wackel weil beide Trainer moeglich Defensiv-System testen."
+    },
+    {
+      "id": "whu-ful-3",
+      "kategorie": "wackel",
+      "markt": "Torschuetze jederzeit: Jarrod Bowen",
+      "quote": 2.9,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 3.0,
+      "faire_quote": 2.81,
+      "begruendung": "Bowen als Kapitan + Volumen-Fluegel bei West Ham, HR24-konform bei Startelf-Einsatz. In der probabile-XI drin. Wackel weil Rotations-Risiko - Nuno koennte ihn schonen mit 4-Siege-Rueckenwind. Live pruefen."
+    },
+    {
+      "id": "whu-ful-4",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 2.0,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.94,
+      "begruendung": "West Ham's 6:0-Explosion + Cup-Rotations-offene-Verteidigung + Fulhams Umbruch. Ueber 2.5 Goldgrube-Markt, aber Cup-Vorsicht + Fulham's neuestes Ergebnis war 0:0 - deshalb wackel statt VALUE."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "spiel_id": "2026-09-15-fio-pis",
+  "saison_kontext": {
+    "parallel_heim": "keine (Fiorentina nicht in Europa, Serie A naechster Termin 20.09.)",
+    "parallel_gast": "keine (Pisa Serie-A-Aufsteiger, kein Europa)",
+    "saisonziel_heim": "Fiorentina Europa-Quali / oberes Tabellendrittel. Serie A 26/27 nach 3 Spieltagen im Mittelfeld unter Neu-Trainer Paolo Vanoli, der Palladino ersetzt hat. De Gea als etatmaessiger Torhueter, Pellegrino als 9er, Nico Goncalves + Gnonto auf den Fluegeln.",
+    "saisonziel_gast": "Pisa Klassenerhalt (Serie-A-Aufsteiger). Trainer Paolo Bianco. In Coppa Italia Ottavi nur weil sie den 2. Turno gewonnen haben - fuer die Liga nicht ihre Prioritaet.",
+    "motivations_asymmetrie": "Klarer Klassen-Edge fuer Fiorentina zu Hause + Vanoli will Titel-Chance nutzen (Coppa Italia ist realistischster Titel-Weg fuer Fiorentina). Pisa wird rotieren + Liga-Prio setzen. Aber: Cup-Match, Fiorentina rotiert auch teilweise (Pellegrino statt Kean laut probabili). Kein 2:0-Insurance in Coppa Italia.",
+    "recovery_heim": "6 Tage seit letztem Serie-A-Spiel - voll ausgeruht",
+    "recovery_gast": "6 Tage seit letztem Serie-A-Spiel - ausgeruht, aber Reise + niedrigere Prio",
+    "quellen": [
+      "https://www.tuttosport.com/news/calcio/coppa-italia/2026/09/15-151256859/fiorentina-pisa_probabili_formazioni_e_diretta_dove_si_vede_in_tv_e_streaming",
+      "https://www.shmag.it/sport/calcio/15_09_2026/coppa-italia-oggi-fiorentina-pisa-orario-probabili-formazioni-e-dove-vederla-in-tv-in-chiaro/",
+      "https://www.legaseriea.it/",
+      "https://www.transfermarkt.de/acf-fiorentina/startseite/verein/430",
+      "https://www.kicker.de/fiorentina/kader"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "fio-pis-1",
+      "kategorie": "safe",
+      "markt": "Fiorentina oder Remis (Doppelte Chance)",
+      "quote": 1.12,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.08,
+      "begruendung": "Goldgrube-Markt DC 1X (72.7% Hit / +39.7% ROI, n=22). Klassen-Edge Serie-A-Mittelfeld vs Serie-A-Aufsteiger im eigenen Franchi, Pisa rotiert Cup-Match + reist. Serie-A-Giornata 3 zaehlt als Goldgrube-Liga (80% / +166% ROI). Ohne 2:0-Insurance in Coppa Italia - DC 1X statt Direkt-Sieg, weil 90-Min-Remis + Fiorentina-Sieg im Elfer wuerde Sieg-Tipp verlieren. Stufe 1 (Kasse 1000E): 2% = 20E Einsatz."
+    },
+    {
+      "id": "fio-pis-2",
+      "kategorie": "value",
+      "markt": "Sieg ACF Fiorentina (90 Min)",
+      "quote": 1.6,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "edge_prozent": 4.0,
+      "faire_quote": 1.54,
+      "begruendung": "Direkt-Sieg als Kombi-Basis. Fiorentina zu Hause vs Serie-A-Aufsteiger, De-Gea-Ruhe hinten, Pellegrino + Nico Paz-Nachfolger Goncalves als Offensive. Rotation-Risiko begrenzt weil Vanoli mit Coppa Italia Titel-Chance sucht. Vorsicht Elfmeter-Szenario deshalb VALUE nicht SAFE."
+    },
+    {
+      "id": "fio-pis-3",
+      "kategorie": "value",
+      "markt": "Torschuetze jederzeit: Roberto Pellegrino",
+      "quote": 2.8,
+      "einsatz_euro": 12.0,
+      "empfohlener_einsatz_prozent": 1.2,
+      "edge_prozent": 6.0,
+      "faire_quote": 2.63,
+      "begruendung": "Pellegrino als Sturmspitze in der probabile-Aufstellung bestaetigt. HR24-konform: zentraler 9er mit Kean als Backup-Einwechslungs-Boost, Gegner Pisa-Defense-Serie-B-Level. Goldgrube-Markt Torschuetzen Jederzeit (50% / +24.4% ROI). Live pruefen ob Pellegrino wirklich startet, sonst Tipp ziehen."
+    },
+    {
+      "id": "fio-pis-4",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.85,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 2.0,
+      "faire_quote": 1.81,
+      "begruendung": "Fiorentina offensiv, Pisa mit Petagna oben ist auch bei Konter gefaehrlich. Aber Cup mit Rotation koennte Tempo drosseln + Pisa taktisch tief - daher wackel. Ueber-2.5-Markt-Goldgrube (66.7% / +27.5% ROI), aber in Cup vorsichtiger. Stufe-1-Wackel 0.5% = 5E."
+    }
+  ]
+}

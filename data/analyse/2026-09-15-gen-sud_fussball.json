@@ -1,0 +1,65 @@
+{
+  "spiel_id": "2026-09-15-gen-sud",
+  "saison_kontext": {
+    "parallel_heim": "keine (Genoa nicht in Europa, Serie A naechster Termin 20.09.)",
+    "parallel_gast": "keine (Sudtirol Serie B - eigener 4. Spieltag am Wochenende)",
+    "saisonziel_heim": "Genoa Klassenerhalt / oberes Mittelfeld. Trainer Daniele De Rossi (2. Saison), Vitinha + Meichtry als Offensive. Serie A 26/27 nach 3 Spieltagen im unteren Mittelfeld.",
+    "saisonziel_gast": "Sudtirol Serie-B-Mittelfeld / Playoff-Kandidat. Trainer Federico Possanzini. Coppa-Italia-Ottavi ein Bonus, klare Prio ist Serie-B-Liga.",
+    "motivations_asymmetrie": "Klarer Klassen-Edge Serie A vs Serie B, zusaetzlich De Rossi's Cup-Ambition (Coppa realistischer Titel-Weg als Serie A). Sudtirol wird definitiv rotieren + tief stehen. Aber Genoa's Offensiv-Kader nicht Top-Serie-A - Torfestival unwahrscheinlich. Kein 2:0-Insurance in Coppa Italia.",
+    "recovery_heim": "6 Tage seit letztem Serie-A-Spiel - voll ausgeruht",
+    "recovery_gast": "3 Tage seit letztem Serie-B-Spiel - knapp aber machbar",
+    "quellen": [
+      "https://www.tuttosport.com/news/calcio/coppa-italia/2026/09/15-151256847/genoa-sudtirol_probabili_formazioni_e_diretta_dove_si_vede_in_tv_e_streaming",
+      "https://www.fantamaster.it/probabili-formazioni-genoa-sudtirol-coppa-italia-2026-2027/",
+      "https://www.legaseriea.it/",
+      "https://www.transfermarkt.de/genoa-cfc/startseite/verein/252",
+      "https://www.kicker.de/genoa/kader"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "gen-sud-1",
+      "kategorie": "safe",
+      "markt": "Genoa oder Remis (Doppelte Chance)",
+      "quote": 1.1,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.07,
+      "begruendung": "Goldgrube-Markt DC 1X (72.7% Hit / +39.7% ROI, n=22). Serie A vs Serie B im eigenen Ferraris. Sudtirol muss reisen + rotiert typisch tief - Ergebnis-Risiko nur bei Elfmeterschiessen (dann trotzdem DC 1X gewonnen weil 90-Min-Remis). Stufe 1: 2% = 20E."
+    },
+    {
+      "id": "gen-sud-2",
+      "kategorie": "value",
+      "markt": "Sieg Genoa CFC (90 Min)",
+      "quote": 1.5,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "edge_prozent": 4.0,
+      "faire_quote": 1.44,
+      "begruendung": "Direkt-Sieg als Kombi-Basis. Genoa daheim gegen Serie-B-Team unterschaetzt selten. Vitinha + Meichtry im Sturm koennen Ergebnis in 60 Min klarmachen. Rotation begrenzt weil De Rossi Cup ernst nimmt. VALUE weil Elfmeter-Risiko im 90-Min-Remis."
+    },
+    {
+      "id": "gen-sud-3",
+      "kategorie": "wackel",
+      "markt": "Torschuetze jederzeit: Vitinha",
+      "quote": 2.9,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 3.0,
+      "faire_quote": 2.81,
+      "begruendung": "Vitinha in der probabile-Formation als Sturmspitze. HR24: gegen Serie-B-Defense Chancen wahrscheinlich, aber sein Torschnitt in Serie A ist moderat -> nur wackel, kein VALUE. Goldgrube-Markt Torschuetzen Jederzeit. Live Startelf pruefen."
+    },
+    {
+      "id": "gen-sud-4",
+      "kategorie": "wackel",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.4,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 2.0,
+      "faire_quote": 1.37,
+      "begruendung": "Cup-Match mit Rotation + Sudtirol Serie-B taktisch tief. Genoa kein Tor-Feuerwerks-Team. Erwartung 2-3 Tore. Unter 2.5 waere Goldgrube, aber Sudtirol-Konter-Risiko + Cup-Wert-Vergleich - Unter 3.5 sicherer. Stufe-1-Wackel 0.5%."
+    }
+  ]
+}

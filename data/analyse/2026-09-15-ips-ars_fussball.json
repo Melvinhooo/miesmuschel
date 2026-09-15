@@ -1,0 +1,66 @@
+{
+  "spiel_id": "2026-09-15-ips-ars",
+  "saison_kontext": {
+    "parallel_heim": "keine (Ipswich Championship - naechster Termin am WE)",
+    "parallel_gast": "keine (Arsenal PL naechster Termin 20.09.). CL-Ligaphase MD1 vergangene Woche",
+    "saisonziel_heim": "Ipswich Aufstiegs-Kandidat Championship 26/27 - nach PL-Abstieg. Trainer + Kader groesstenteils Championship-Level, Zian Flemming Neu-Sturmspitze.",
+    "saisonziel_gast": "Arsenal Titel-Verteidiger (PL-Meister 25/26). Coach Mikel Arteta. CL-Rotation heute klar angekuendigt.",
+    "motivations_asymmetrie": "Klarer Klassen-Edge PL-Meister vs Championship-Absteiger, ABER Arteta rotiert schwer: Kepa startet, Saliba out, Ben White frisch verletzt, Mosquera out, Calafiori/Rice/Saka/Odegaard bekommen Pause. Ipswich spielt nahe Voll-Elf mit Flemming vorne. Trotzdem Arsenal's Rotations-Elf ist besser als Ipswich's Starter - aber der Edge schrumpft auf VALUE-Niveau, nicht SAFE.",
+    "recovery_heim": "3 Tage seit Championship-Spiel - eng, aber gleicher Rhythmus wie sonst",
+    "recovery_gast": "3 Tage seit PL-Spiel am WE (Sieg bei Sunderland) + CL Mitte der Woche - eng, Rotation deshalb erzwungen",
+    "quellen": [
+      "https://sports.yahoo.com/articles/ipswich-town-vs-arsenal-predicted-042500571.html",
+      "https://heavy.com/sports/soccer/ipswich-arsenal-carabao-cup-team-news-lineups-tv/",
+      "https://thefootballfaithful.com/ipswich-town-vs-arsenal-predicted-lineup-and-team-news/",
+      "https://www.efl.com/news/2026/august/28/carabao-cup--third-round-dates-confirmed/",
+      "https://www.transfermarkt.de/fc-arsenal/startseite/verein/11",
+      "https://www.kicker.de/ipswich-town/kader"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "ips-ars-1",
+      "kategorie": "value",
+      "markt": "Arsenal oder Remis (Doppelte Chance)",
+      "quote": 1.2,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.16,
+      "begruendung": "DC X2 als Goldgrube-Markt (77.8% Hit / +9.4% ROI, n=36). Arsenal's Rotations-Elf immer noch tiefer als Championship-Ipswich, aber Saliba+Ben White+Mosquera-Ausfaelle in der Abwehr = kein SAFE. VALUE-Kategorie richtig. Kein 2:0-Insurance in EFL Cup - DC statt Sieg. HR3 (UEFA-Doppelbelastung Arsenal <4 Tage bis CL naechsten Dienstag) beachtet."
+    },
+    {
+      "id": "ips-ars-2",
+      "kategorie": "wackel",
+      "markt": "Sieg Arsenal FC (90 Min)",
+      "quote": 1.75,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 2.0,
+      "faire_quote": 1.72,
+      "begruendung": "Direkt-Sieg als Kombi-Basis-Option, aber wackel weil starke Rotation + Portman-Road-Kessel-Atmosphaere. Nicht als SAFE geeignet. Wackel-Range-Grenze (1.75 unter HR1-Range fuer wackel 2.30-3.50) - technisch grenzwertig, aber angesichts Rotations-Risiko realistischere Kategorie als VALUE."
+    },
+    {
+      "id": "ips-ars-3",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.95,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.9,
+      "begruendung": "Rotations-Abwehren bei Arsenal + Ipswich-Portman-Road offensiv gefaehrlich. Zian Flemming will sich zeigen. Aber Cup-Kontrolle + Arsenal-Absicht Ergebnis zu verwalten - deshalb wackel statt VALUE."
+    },
+    {
+      "id": "ips-ars-4",
+      "kategorie": "wackel",
+      "markt": "Torschuetze jederzeit: Kai Havertz",
+      "quote": 2.4,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "edge_prozent": 3.0,
+      "faire_quote": 2.33,
+      "begruendung": "Havertz als moegliche Rotations-Spitze wenn Odegaard/Saka Pause bekommen. HR24 tw erfuellt (zentraler 9er, gegen Ipswich-Championship-Abwehr Chancen). Wackel weil Startelf-Rolle unsicher - live pruefen. Alternativ Trossard @ ~2.70 vergleichbar."
+    }
+  ]
+}
