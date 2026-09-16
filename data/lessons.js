@@ -3086,6 +3086,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "Ueber-2.5 bei Inter-Heim vs Serie-A-Mittelfeld (8g)",
       "lesson": "Inter 5:3 Udinese: 5 verschiedene Torschuetzen fuer Inter (Augusto, Barella, Thuram, Esposito, Bonny) ohne Lautaro, plus 3 Udinese-Tore - insgesamt 8 Tore. Muster bestaetigt: Inter-Heim gegen Serie-A-Mittelfeld ist quasi-strukturell Ueber-2.5, auch wenn Chivu die halbe Achse rotiert. int-udi-4 'Ueber 2.5 @1.62' als VALUE (nicht wackel) war die korrekte Einordnung - die 'Rotations-Vorsicht' aus dem Dossier hat die Bewertung nicht wackelig gemacht. Konsequenz: Inter-Heim + Serie-A-Mittelfeld-Gast bleibt Ueber-2.5-VALUE bevorzugt (Goldgruben-Markt-Level), auch bei sichtbarer CL-Rotation. Kader-Tiefe kompensiert Star-Ausfaelle.",
       "bezug_spiel_id": "2026-09-14-int-udi"
+    },
+    {
+      "datum": "2026-09-15",
+      "kategorie": "Cup-Torschuetzen-Cluster (8c/8g)",
+      "lesson": "5/5 Torschuetzen-Tipps im Cup-Nacht-Slate verloren (Pellegrino als einziger Treffer, aber der stand ohnehin unter fio-pis-3 = gewonnen; die Kombi-Torschuetzen Vitinha, Tel, Havertz, Bowen alle 0 Tore, plus Moonshot Flemming/Iwobi/Burnete auch 0). Markt Torschuetzen Jederzeit sackte in der Gesamt-Statistik von +24.4% ROI (03.05.) auf -1.9% ROI ab (n=61) - das Ende der Goldgrube. Konsequenz: bei Cup-Rotations-Slates (EFL-Cup Third Round, Coppa Italia Ottavi) NIE mehr als 1 Torschuetzen-Tipp pro Slate; keine Torschuetzen-Kombis mit 3+ Beinen (Risiko/Moonshot); bevorzugt Volumen-Stuermer (Pellegrino) in Klassen-Duellen. Kombi-Diversifikation: Torschuetzen NIE als Kombi-Basis in Cup-Naechten stapeln.",
+      "bezug_spiel_id": "2026-09-15-liv-tot"
+    },
+    {
+      "datum": "2026-09-15",
+      "kategorie": "Rotations-Torschuetze ohne Live-Bestaetigung = strukturell tot (8i)",
+      "lesson": "Kai Havertz war im Ipswich-Spiel (Carabao Cup R3) nicht im Matchday-Squad - komplett geschont vor dem PL-Trip. Torschuetzen-Tipp ips-ars-4 @ 2.40 damit strukturell verloren, unabhaengig vom Spielverlauf. Einwechslungs-Boost greift nicht (Havertz nicht auf dem Platz = auch nicht ausgewechselt). Konsequenz: Torschuetzen-Tipps auf Rotations-Kandidaten (Top-Team im Cup, Star-Stuermer) NUR wenn die Aufstellung LIVE bestaetigt wurde. Wenn Team-News/probabile-Aufstellung fehlt, degradieren die Recherche-/Tipps-Routinen den Torschuetzen-Tipp auf wackel oder droppen ihn - der validate_torschuetze_quelle-Guard existiert genau dafuer.",
+      "bezug_spiel_id": "2026-09-15-ips-ars"
+    },
+    {
+      "datum": "2026-09-15",
+      "kategorie": "Cup-Klassen-Edge DC/Sieg bleibt VALUE (8h)",
+      "lesson": "Fiorentina 3-0 Pisa, Genoa 1-0 Sudtirol, Arsenal 4-2 Ipswich, Liverpool 3-1 Tottenham: 4/4 Direkt-Sieg/DC-Tipps auf hoeherklassige Heim/Auswaerts-Klasse-Favoriten in Cup-Ottavi/R3 durch (fio-pis-1/-2, gen-sud-1/-2, ips-ars-1/-2, liv-tot-1). Trotz massiver Rotation setzt sich Kader-Klasse durch, sobald das Spiel im Fluss ist. Konsequenz: Cup-Achtelfinal-Slate klar DC-1X/2X-lastig priorisieren (Goldgrube-Markt-Level 72.7%+/29.6%+ ROI), Torschuetzen-Tipps auf ein Minimum reduzieren.",
+      "bezug_spiel_id": "2026-09-15-fio-pis"
+    },
+    {
+      "datum": "2026-09-15",
+      "kategorie": "West Ham DC 1X @ 1.40 zu teuer in eigener Rotation (8h)",
+      "lesson": "whu-ful-1 'West Ham oder Remis' @ 1.40 verlor 2:3. Fulham (Arbeloa-Coaching) hat mit Bobb als Super-Sub, Muniz + Palacios strukturell mehr Sturm-Klasse als West Ham (Potter-Uebergang), auch mit Rotation. Der 'Home-DC 1X'-Reflex hat den PL-vs-PL-Fall unterschaetzt. Konsequenz: bei PL-vs-PL im Cup NICHT automatisch DC-Home-Sieg-Tipps geben, sondern jeweils Kader-Tiefe + Coaching-Momentum abgleichen. West Ham DC-Home nur wenn Fulham klar tiefer rotiert - hier hat Arbeloa die Startelf mit Muniz+Bobb+King+Palacios stark besetzt.",
+      "bezug_spiel_id": "2026-09-15-whu-ful"
     }
   ]
 };

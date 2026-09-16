@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-09-15T06:12:20+00:00",
+  "letzte_berechnung": "2026-09-16T06:14:37+00:00",
   "gesamt": {
     "tipps": 398,
     "gewonnen": 210,
@@ -13,26 +13,26 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 15.2
   },
   "letzte_30_tage": {
-    "tipps": 88,
+    "tipps": 77,
     "gewonnen": 51,
     "verloren": 26,
     "push": 0,
-    "offen": 11,
+    "offen": 0,
     "einsatz": 77.0,
     "netto": 65.24,
     "trefferquote": 66.2,
     "roi_prozent": 84.7
   },
   "letzte_90_tage": {
-    "tipps": 379,
-    "gewonnen": 202,
-    "verloren": 165,
+    "tipps": 369,
+    "gewonnen": 196,
+    "verloren": 161,
     "push": 1,
     "offen": 11,
-    "einsatz": 368.0,
+    "einsatz": 358.0,
     "netto": 65.99,
-    "trefferquote": 55.0,
-    "roi_prozent": 17.9
+    "trefferquote": 54.9,
+    "roi_prozent": 18.4
   },
   "nach_liga": {
     "FIFA World Cup 2026 - Gruppe H - Spieltag 1": {
@@ -3946,6 +3946,263 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-09-15",
+      "gesamt": {
+        "tipps": 10,
+        "gewonnen": 5,
+        "verloren": 5,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 10.0,
+        "netto": 8.12,
+        "trefferquote": 50.0,
+        "roi_prozent": 81.2
+      },
+      "spiele": [
+        {
+          "id": "2026-09-15-fio-pis",
+          "liga": "Coppa Italia 2026/27 - Ottavi di finale",
+          "heim": "ACF Fiorentina",
+          "gast": "Pisa Sporting Club",
+          "endstand": "3:0",
+          "tipps": [
+            {
+              "markt": "Fiorentina oder Remis (Doppelte Chance)",
+              "quote": 1.12,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.12,
+              "kommentar": "Fiorentina 3:0 - DC 1X sicher durch"
+            },
+            {
+              "markt": "Sieg ACF Fiorentina (90 Min)",
+              "quote": 1.6,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.6,
+              "kommentar": "Fiorentina 3:0 - Direkt-Sieg 90 Min durch"
+            },
+            {
+              "markt": "Torschuetze jederzeit: Roberto Pellegrino",
+              "quote": 2.8,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 2.8,
+              "kommentar": "Pellegrino traf in der 40. Min - Torschuetze jederzeit durch"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-15-gen-sud",
+          "liga": "Coppa Italia 2026/27 - Ottavi di finale",
+          "heim": "Genoa CFC",
+          "gast": "FC Sudtirol",
+          "endstand": "1:0",
+          "tipps": [
+            {
+              "markt": "Genoa oder Remis (Doppelte Chance)",
+              "quote": 1.1,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.1,
+              "kommentar": "Genoa 1:0 - DC 1X sicher durch"
+            },
+            {
+              "markt": "Sieg Genoa CFC (90 Min)",
+              "quote": 1.5,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.5,
+              "kommentar": "Genoa 1:0 - Direkt-Sieg 90 Min durch (spaeter Vasquez-Treffer 87.)"
+            },
+            {
+              "markt": "Torschuetze jederzeit: Vitinha",
+              "quote": 2.9,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Vitinha kein Tor - einziger Genoa-Treffer durch Vasquez (Verteidiger). Kein Einwechslungs-Boost, weil Vitinha selbst nicht ausgewechselt wurde in torrelevantem Kontext."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-15-liv-tot",
+          "liga": "EFL Cup 2026/27 - Third Round (Carabao Cup)",
+          "heim": "Liverpool FC",
+          "gast": "Tottenham Hotspur",
+          "endstand": "3:1",
+          "tipps": [
+            {
+              "markt": "Torschuetze jederzeit: Mathys Tel",
+              "quote": 3.4,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Tel kein Tor - einziger Spurs-Treffer durch Gallagher. Tel spielte, aber ohne Torbeteiligung. Kein Einwechslungs-Boost anwendbar."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-15-ips-ars",
+          "liga": "EFL Cup 2026/27 - Third Round (Carabao Cup)",
+          "heim": "Ipswich Town",
+          "gast": "Arsenal FC",
+          "endstand": "2:4",
+          "tipps": [
+            {
+              "markt": "Torschuetze jederzeit: Kai Havertz",
+              "quote": 2.4,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Havertz komplett geschont (Bank/nicht im Matchday-Squad) - Rotations-Rest vor PL-Trip. Torschuetzen-Tipp strukturell verloren, kein Einwechslungs-Boost weil Havertz nicht auf dem Platz. Lehre: bei Arsenal-Rotationsspielen Torschuetzen-Tipp nur wenn Aufstellung bestaetigt vor Anpfiff."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-15-whu-ful",
+          "liga": "EFL Cup 2026/27 - Third Round (Carabao Cup)",
+          "heim": "West Ham United",
+          "gast": "Fulham FC",
+          "endstand": "2:3",
+          "tipps": [
+            {
+              "markt": "West Ham oder Remis (Doppelte Chance)",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "West Ham 2:3 verloren - DC 1X verloren"
+            },
+            {
+              "markt": "Torschuetze jederzeit: Jarrod Bowen",
+              "quote": 2.9,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Bowen als Sub, Schuss 82. links vorbei - kein Tor. Kein Einwechslungs-Boost (Bowen kam rein, statt raus)."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe (3-5x)",
+          "kategorie": "safe",
+          "gesamtquote": 3.36,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg ACF Fiorentina (90 Min)",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Genoa CFC (90 Min)",
+              "quote": 1.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "West Ham oder Remis (Doppelte Chance)",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance (6-10x)",
+          "kategorie": "balance",
+          "gesamtquote": 8.05,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Arsenal oder Remis (Doppelte Chance)",
+              "quote": 1.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Liverpool oder Remis (Doppelte Chance)",
+              "quote": 1.25,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetze jederzeit: Vitinha",
+              "quote": 2.9,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko (15-30x)",
+          "kategorie": "risk",
+          "gesamtquote": 27.6,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Torschuetze jederzeit: Mathys Tel",
+              "quote": 3.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetze jederzeit: Roberto Pellegrino",
+              "quote": 2.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetze jederzeit: Jarrod Bowen",
+              "quote": 2.9,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot (100x+)",
+          "kategorie": "moonshot",
+          "gesamtquote": 105.84,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Torschuetze jederzeit: Zian Flemming",
+              "quote": 4.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetze jederzeit: Alex Iwobi",
+              "quote": 4.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Torschuetze jederzeit: Daniel Burnete",
+              "quote": 6.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-09-14",
       "gesamt": {
