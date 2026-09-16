@@ -1,394 +1,363 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
-  "datum": "2026-09-15",
-  "erstellt_am": "2026-09-15T14:35:00+02:00",
-  "hinweis": "Watchdog-Recovery-Dossier - die Mo-Fr-Hauptroutine hat um 13:30 nichts geliefert. Heute ist Cup-Nacht: 5 Carabao-Cup-Achtelfinale (3rd Round) mit starker Rotation + 2 Coppa-Italia-Ottavi. Kein Bundesliga/PL/Serie-A-Ligaspiel. 2:0-Insurance greift NICHT (Cup-Regel). Kasse-Stand 1000E (Stufe 1 aktiv). Slate bewusst schlank - Rotation macht klassische Sieg-SAFEs unsicher, Doppelte-Chance-Goldgruben + Torschuetzen aus dem tatsaechlichen Aufstellungs-News-Fenster.",
+  "datum": "2026-09-16",
+  "erstellt_am": "2026-09-16T14:35:00+02:00",
+  "hinweis": "🐚 Watchdog-Recovery Mi 16.09.2026 (Saison 2026/27, Kasse 1000€ / Stufe 1). Europa-League-Ligaphase MD1 mit 6 Wettbewerbs-Spielen ab 21:00 Berlin — CL MD1 kommt erst nächste Woche (22.-24.09.), heute nur EL. Fokus: Leverkusen–Celje (extremer Favorit, Klassenunterschied → Tor-Total-Wette statt Sieg), Milan–Benfica (Klassiker, beide in Form), Rennes @ Sturm (Ligue-1-ungeschlagen). Recherche-File fehlte — Basis-Daten via WebSearch (bei bet365 alle Quoten live prüfen). Keine Torschützen-Tipps drin, weil ohne verifizierte Aufstellungs-Vorschau zu halluzinations-riskant.",
+  "_emergency_recovery": true,
+  "_recherche_fehlt": true,
   "spiele": [
     {
-      "id": "2026-09-15-fio-pis",
-      "liga": "Coppa Italia 2026/27 - Ottavi di finale",
-      "heim": "ACF Fiorentina",
-      "gast": "Pisa Sporting Club",
-      "anstoss": "2026-09-15T21:00:00+02:00",
-      "stadion": "Stadio Artemio Franchi, Firenze",
+      "id": "2026-09-16-b04-cel",
+      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 1",
+      "heim": "Bayer 04 Leverkusen",
+      "gast": "NK Celje",
+      "anstoss": "2026-09-16T21:00:00+02:00",
+      "stadion": "BayArena, Leverkusen",
       "saison_kontext": {
-        "parallel_heim": "keine (Fiorentina nicht in Europa, Serie A naechster Termin 20.09.)",
-        "parallel_gast": "keine (Pisa Serie-A-Aufsteiger, kein Europa)",
-        "saisonziel_heim": "Fiorentina Europa-Quali / oberes Tabellendrittel. Serie A 26/27 nach 3 Spieltagen im Mittelfeld unter Neu-Trainer Paolo Vanoli, der Palladino ersetzt hat. De Gea als etatmaessiger Torhueter, Pellegrino als 9er, Nico Goncalves + Gnonto auf den Fluegeln.",
-        "saisonziel_gast": "Pisa Klassenerhalt (Serie-A-Aufsteiger). Trainer Paolo Bianco. In Coppa Italia Ottavi nur weil sie den 2. Turno gewonnen haben - fuer die Liga nicht ihre Prioritaet.",
-        "motivations_asymmetrie": "Klarer Klassen-Edge fuer Fiorentina zu Hause + Vanoli will Titel-Chance nutzen (Coppa Italia ist realistischster Titel-Weg fuer Fiorentina). Pisa wird rotieren + Liga-Prio setzen. Aber: Cup-Match, Fiorentina rotiert auch teilweise (Pellegrino statt Kean laut probabili). Kein 2:0-Insurance in Coppa Italia.",
-        "recovery_heim": "6 Tage seit letztem Serie-A-Spiel - voll ausgeruht",
-        "recovery_gast": "6 Tage seit letztem Serie-A-Spiel - ausgeruht, aber Reise + niedrigere Prio",
+        "parallel_heim": "Bundesliga MD4 So 20.09. gegen Leipzig — heute EL primär, aber Bundesliga-Belastung minimal (Werkself hat Kader-Tiefe)",
+        "parallel_gast": "Slowenische PrvaLiga läuft parallel — NK Celje ist als Meister direkt in EL-Ligaphase, kein Nebenwettbewerb-Druck",
+        "saisonziel_heim": "CL-Quali via Bundesliga Top-4 + EL-Titel-Anspruch (nach Xabi-Alonso-Abgang neuer Trainer Carles Martinez Novell)",
+        "saisonziel_gast": "EL-Ligaphase überstehen wäre historisch — Slowenischer Meister ohne Klassen-Erfahrung",
+        "motivations_asymmetrie": "Krasser Klassenunterschied: Bundesliga-CL-Anwärter gegen slowenischen Meister. Leverkusen zuhause klarer Favorit (~81% implizite Siegwahrscheinlichkeit laut Aggregator), Celje hat neuen Trainer Zoran Zeljkovic für dieses Spiel — Erst-Auftritt in EL-Ligaphase.",
+        "recovery_heim": "Bundesliga-Spiel Sa 12.09. — 4 Tage Pause, ausreichend",
+        "recovery_gast": "PrvaLiga-Spiel am Wochenende — 3-4 Tage Pause, aber weite Anreise",
         "quellen": [
-          "https://www.tuttosport.com/news/calcio/coppa-italia/2026/09/15-151256859/fiorentina-pisa_probabili_formazioni_e_diretta_dove_si_vede_in_tv_e_streaming",
-          "https://www.shmag.it/sport/calcio/15_09_2026/coppa-italia-oggi-fiorentina-pisa-orario-probabili-formazioni-e-dove-vederla-in-tv-in-chiaro/",
-          "https://www.legaseriea.it/",
-          "https://www.transfermarkt.de/acf-fiorentina/startseite/verein/430",
-          "https://www.kicker.de/fiorentina/kader"
+          "https://www.wettbasis.com/sportwetten-tipps/leverkusen-vs-celje-tipp-ki-prognose-quoten-16-09-2026-europa-league",
+          "https://www.sportschau.de/regional/wdr/wdr-leverkusen-und-das-grosse-unbekannte-bei-gegner-celje-100.html",
+          "https://www.bayer04.de/de-de/match/saison-202627/uefa-europa-league/1-spieltag"
         ]
       },
       "news": [
-        "Fiorentina probable XI (4-3-3): De Gea; Mario, Pongracic, Ranieri, Viery; Ndour, Oulai, Brescianini; Goncalves, Pellegrino, Gnonto",
-        "Pisa probable XI (3-4-2-1): Confente; Calabresi, Canestrelli, Primasso; Vural, Leone, Loyola, Angori; Ferrah, Moreo; Petagna",
-        "Neu-Trainer: Vanoli (Fiorentina) / Bianco (Pisa) - beide relativ neu, taktische Muster live pruefen",
-        "Kein 2:0-Insurance in Coppa Italia (nur BL + CL laut bet365 DE)",
-        "Bei Remis nach 90 Min: Verlaengerung + ggf Elfmeter, aber 1X2/DC-Markt zaehlt nur regulaere 90 Min -> DC 1X in Cup starker als Direkt-Sieg",
-        "Aggregator-Quoten (bei bet365 live pruefen): Fio-Sieg ~1.55-1.65, DC 1X ~1.10-1.15, Ueber 2.5 ~1.75-1.90, Pellegrino-Tor ~2.60-3.00, Goncalves-Tor ~2.80-3.20"
+        "Sieg-Leverkusen-Quote extrem tief bei ~1.12 — Klassen-Duell",
+        "Kicker-Konsens: klarer Heim-Sieg",
+        "Kader-Wechsel 2026/27: Hincapie zu Arsenal weg, Alajbegovic zu Juve weg — kein Tipp mehr auf diese Spieler"
       ],
       "tipps": [
         {
-          "id": "fio-pis-1",
-          "kategorie": "safe",
-          "markt": "Fiorentina oder Remis (Doppelte Chance)",
-          "quote": 1.12,
-          "einsatz_euro": 20.0,
-          "empfohlener_einsatz_prozent": 2.0,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.08,
-          "begruendung": "Goldgrube-Markt DC 1X (72.7% Hit / +39.7% ROI, n=22). Klassen-Edge Serie-A-Mittelfeld vs Serie-A-Aufsteiger im eigenen Franchi, Pisa rotiert Cup-Match + reist. Serie-A-Giornata 3 zaehlt als Goldgrube-Liga (80% / +166% ROI). Ohne 2:0-Insurance in Coppa Italia - DC 1X statt Direkt-Sieg, weil 90-Min-Remis + Fiorentina-Sieg im Elfer wuerde Sieg-Tipp verlieren. Stufe 1 (Kasse 1000E): 2% = 20E Einsatz."
-        },
-        {
-          "id": "fio-pis-2",
+          "id": "b04-cel-1",
           "kategorie": "value",
-          "markt": "Sieg ACF Fiorentina (90 Min)",
-          "quote": 1.6,
-          "einsatz_euro": 15.0,
+          "markt": "Über 2.5 Tore",
+          "quote": 1.55,
+          "faire_quote": 1.42,
+          "edge_prozent": 8.4,
           "empfohlener_einsatz_prozent": 1.5,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.54,
-          "begruendung": "Direkt-Sieg als Kombi-Basis. Fiorentina zu Hause vs Serie-A-Aufsteiger, De-Gea-Ruhe hinten, Pellegrino + Nico Paz-Nachfolger Goncalves als Offensive. Rotation-Risiko begrenzt weil Vanoli mit Coppa Italia Titel-Chance sucht. Vorsicht Elfmeter-Szenario deshalb VALUE nicht SAFE."
+          "einsatz_euro": 15.0,
+          "begruendung": "Klassenunterschied Bundesliga-CL-Anwärter vs slowenischer Meister — Leverkusen erwartungsgemäß 2-3 Tore, Celje sicher nicht dicht. Reality-Check: Über 2.5 Tore ist aktuelle Markt-Goldgrube (68% Hit / +30% ROI). Bei 1000€ Kasse = 15€ (Stufe 1). Bei bet365 live prüfen."
         },
         {
-          "id": "fio-pis-3",
+          "id": "b04-cel-2",
           "kategorie": "value",
-          "markt": "Torschuetze jederzeit: Roberto Pellegrino",
-          "quote": 2.8,
-          "einsatz_euro": 12.0,
-          "empfohlener_einsatz_prozent": 1.2,
-          "edge_prozent": 6.0,
-          "faire_quote": 2.63,
-          "begruendung": "Pellegrino als Sturmspitze in der probabile-Aufstellung bestaetigt. HR24-konform: zentraler 9er mit Kean als Backup-Einwechslungs-Boost, Gegner Pisa-Defense-Serie-B-Level. Goldgrube-Markt Torschuetzen Jederzeit (50% / +24.4% ROI). Live pruefen ob Pellegrino wirklich startet, sonst Tipp ziehen."
+          "markt": "Bayer Leverkusen Handicap -1 (90 Min)",
+          "quote": 1.65,
+          "faire_quote": 1.5,
+          "edge_prozent": 8.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Sieg-Quote @1.12 zu niedrig für unser Range — HC -1 (Sieg mit 2+ Toren Abstand) ist der bessere Zugang bei diesem Klassen-Duell. 2:0-Insurance greift hier NICHT (EL fällt nicht unter bet365-DE-Aktionsregel). Bei 1000€ Kasse = 15€."
         },
         {
-          "id": "fio-pis-4",
+          "id": "b04-cel-3",
           "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.85,
-          "einsatz_euro": 5.0,
+          "markt": "Über 3.5 Tore",
+          "quote": 1.9,
+          "faire_quote": 1.85,
+          "edge_prozent": 2.7,
           "empfohlener_einsatz_prozent": 0.5,
-          "edge_prozent": 2.0,
-          "faire_quote": 1.81,
-          "begruendung": "Fiorentina offensiv, Pisa mit Petagna oben ist auch bei Konter gefaehrlich. Aber Cup mit Rotation koennte Tempo drosseln + Pisa taktisch tief - daher wackel. Ueber-2.5-Markt-Goldgrube (66.7% / +27.5% ROI), aber in Cup vorsichtiger. Stufe-1-Wackel 0.5% = 5E."
+          "einsatz_euro": 5.0,
+          "begruendung": "Aggressiver Tor-Total-Hedge — Leverkusen zuhause oft 3-4 Tore gegen kleine Gegner. Wackel weil Celje evtl. hinten drinsteht. Bei 1000€ Kasse = 5€."
         }
       ],
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-09-15-gen-sud",
-      "liga": "Coppa Italia 2026/27 - Ottavi di finale",
-      "heim": "Genoa CFC",
-      "gast": "FC Sudtirol",
-      "anstoss": "2026-09-15T18:00:00+02:00",
-      "stadion": "Stadio Luigi Ferraris, Genova",
+      "id": "2026-09-16-mil-ben",
+      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 1",
+      "heim": "AC Milan",
+      "gast": "SL Benfica",
+      "anstoss": "2026-09-16T21:00:00+02:00",
+      "stadion": "Stadio San Siro, Mailand",
       "saison_kontext": {
-        "parallel_heim": "keine (Genoa nicht in Europa, Serie A naechster Termin 20.09.)",
-        "parallel_gast": "keine (Sudtirol Serie B - eigener 4. Spieltag am Wochenende)",
-        "saisonziel_heim": "Genoa Klassenerhalt / oberes Mittelfeld. Trainer Daniele De Rossi (2. Saison), Vitinha + Meichtry als Offensive. Serie A 26/27 nach 3 Spieltagen im unteren Mittelfeld.",
-        "saisonziel_gast": "Sudtirol Serie-B-Mittelfeld / Playoff-Kandidat. Trainer Federico Possanzini. Coppa-Italia-Ottavi ein Bonus, klare Prio ist Serie-B-Liga.",
-        "motivations_asymmetrie": "Klarer Klassen-Edge Serie A vs Serie B, zusaetzlich De Rossi's Cup-Ambition (Coppa realistischer Titel-Weg als Serie A). Sudtirol wird definitiv rotieren + tief stehen. Aber Genoa's Offensiv-Kader nicht Top-Serie-A - Torfestival unwahrscheinlich. Kein 2:0-Insurance in Coppa Italia.",
-        "recovery_heim": "6 Tage seit letztem Serie-A-Spiel - voll ausgeruht",
-        "recovery_gast": "3 Tage seit letztem Serie-B-Spiel - knapp aber machbar",
+        "parallel_heim": "Serie A 5. Spieltag am Wochenende — heute EL primär",
+        "parallel_gast": "Primeira Liga am Wochenende — heute EL primär, weite Anreise Lissabon-Mailand",
+        "saisonziel_heim": "Serie A Top-4 + EL-Titel — Amorim-System läuft an, aktuell 4 Spiele ungeschlagen (2 Siege, 2 Remis inkl. 2:2 Lazio + 1:1 Juve)",
+        "saisonziel_gast": "Primeira-Liga-Titel + tiefer EL-Run — aktuell 7-Spiele-Siegesserie in allen Wettbewerben (4 Ligasiege + 1 Remis)",
+        "motivations_asymmetrie": "Sehr ausgeglichen: Milan zuhause Serie-A-Klub mit historisch guter H2H vs Benfica (6 Wettbewerbs-Duelle ungeschlagen). Beide Teams offensivstark, beidseitiger Motivations-Druck als EL-Titel-Anwärter. Coinflip-nah aber leichter Milan-Heim-Edge.",
+        "recovery_heim": "Serie-A-Spiel Sa/So — 3-4 Tage Pause",
+        "recovery_gast": "Primeira-Liga-Spiel + Anreise Lissabon-Mailand ~3 Std Flug — leichter Nachteil",
         "quellen": [
-          "https://www.tuttosport.com/news/calcio/coppa-italia/2026/09/15-151256847/genoa-sudtirol_probabili_formazioni_e_diretta_dove_si_vede_in_tv_e_streaming",
-          "https://www.fantamaster.it/probabili-formazioni-genoa-sudtirol-coppa-italia-2026-2027/",
-          "https://www.legaseriea.it/",
-          "https://www.transfermarkt.de/genoa-cfc/startseite/verein/252",
-          "https://www.kicker.de/genoa/kader"
+          "https://www.acmilan.com/en/match-center/2026-27-uefa-europa-league-ac-milan-sl-benfica-donqu6bltepo7k7bsmdffhfys",
+          "https://www.goal.com/en/news/ac-milan-benfica-europa-league-preview/blta2172a304c11abd2",
+          "https://sempremilan.com/preview-ac-milan-benfica-team-news-prediction-2026-27"
         ]
       },
       "news": [
-        "Genoa probable XI (3-5-2): Stolz; Marcandalli, Otoa, Vasquez; Sabelli, Frendrup, Amorim, Wiafe, Mitaj; Vitinha, Meichtry",
-        "Sudtirol probable XI (3-4-2-1): Plizzari, Veroli, Stivarello, Giorgini; S.Davi, Tronchin, Tait, Molina; Zeroli, Mixtur; Burnete",
-        "Trainer: De Rossi (Genoa) / Possanzini (Sudtirol)",
-        "Kein 2:0-Insurance in Coppa Italia. Bei Remis nach 90 Min: Verlaengerung + ggf Elfmeter - DC 1X starker als Direkt-Sieg",
-        "Aggregator-Quoten (bei bet365 live pruefen): Genoa-Sieg ~1.45-1.55, DC 1X ~1.08-1.12, Ueber 2.5 ~2.10-2.30, Vitinha-Tor ~2.80-3.20, Meichtry-Tor ~3.00-3.50"
+        "Milan neuer Trainer Amorim (3-4-2-1) — Gonçalo Ramos als zentraler 9er von PSG, Leao raus (Galatasaray), Nkunku raus (Leih Leipzig)",
+        "Benfica 7-Spiele-Siegesserie all comps — Titel-Kandidat",
+        "Historisch Milan unbeaten in 6 competitive vs Benfica (inkl. 2 EC-Finals)"
       ],
       "tipps": [
         {
-          "id": "gen-sud-1",
-          "kategorie": "safe",
-          "markt": "Genoa oder Remis (Doppelte Chance)",
-          "quote": 1.1,
-          "einsatz_euro": 20.0,
-          "empfohlener_einsatz_prozent": 2.0,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.07,
-          "begruendung": "Goldgrube-Markt DC 1X (72.7% Hit / +39.7% ROI, n=22). Serie A vs Serie B im eigenen Ferraris. Sudtirol muss reisen + rotiert typisch tief - Ergebnis-Risiko nur bei Elfmeterschiessen (dann trotzdem DC 1X gewonnen weil 90-Min-Remis). Stufe 1: 2% = 20E."
-        },
-        {
-          "id": "gen-sud-2",
+          "id": "mil-ben-1",
           "kategorie": "value",
-          "markt": "Sieg Genoa CFC (90 Min)",
-          "quote": 1.5,
-          "einsatz_euro": 15.0,
+          "markt": "Doppelte Chance Milan oder Remis",
+          "quote": 1.3,
+          "faire_quote": 1.22,
+          "edge_prozent": 6.5,
           "empfohlener_einsatz_prozent": 1.5,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.44,
-          "begruendung": "Direkt-Sieg als Kombi-Basis. Genoa daheim gegen Serie-B-Team unterschaetzt selten. Vitinha + Meichtry im Sturm koennen Ergebnis in 60 Min klarmachen. Rotation begrenzt weil De Rossi Cup ernst nimmt. VALUE weil Elfmeter-Risiko im 90-Min-Remis."
-        },
-        {
-          "id": "gen-sud-3",
-          "kategorie": "wackel",
-          "markt": "Torschuetze jederzeit: Vitinha",
-          "quote": 2.9,
-          "einsatz_euro": 5.0,
-          "empfohlener_einsatz_prozent": 0.5,
-          "edge_prozent": 3.0,
-          "faire_quote": 2.81,
-          "begruendung": "Vitinha in der probabile-Formation als Sturmspitze. HR24: gegen Serie-B-Defense Chancen wahrscheinlich, aber sein Torschnitt in Serie A ist moderat -> nur wackel, kein VALUE. Goldgrube-Markt Torschuetzen Jederzeit. Live Startelf pruefen."
-        },
-        {
-          "id": "gen-sud-4",
-          "kategorie": "wackel",
-          "markt": "Unter 3.5 Tore",
-          "quote": 1.4,
-          "einsatz_euro": 5.0,
-          "empfohlener_einsatz_prozent": 0.5,
-          "edge_prozent": 2.0,
-          "faire_quote": 1.37,
-          "begruendung": "Cup-Match mit Rotation + Sudtirol Serie-B taktisch tief. Genoa kein Tor-Feuerwerks-Team. Erwartung 2-3 Tore. Unter 2.5 waere Goldgrube, aber Sudtirol-Konter-Risiko + Cup-Wert-Vergleich - Unter 3.5 sicherer. Stufe-1-Wackel 0.5%."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-09-15-liv-tot",
-      "liga": "EFL Cup 2026/27 - Third Round (Carabao Cup)",
-      "heim": "Liverpool FC",
-      "gast": "Tottenham Hotspur",
-      "anstoss": "2026-09-15T21:00:00+02:00",
-      "stadion": "Anfield, Liverpool",
-      "saison_kontext": {
-        "parallel_heim": "keine (Liverpool naechster PL-Termin 20.09.). CL-Ligaphase MD1 vergangene Woche - Kader hat 6 Tage Pause",
-        "parallel_gast": "keine (Tottenham naechster PL-Termin 20.09.)",
-        "saisonziel_heim": "Liverpool Titel-Verteidiger / CL. Neuer Trainer Andoni Iraola (kam von Bournemouth, ersetzt Slot). Neuzugaenge: Isak (ex-Newcastle), Barcola (ex-PSG). Ekitike, Chiesa, Leoni langfristig OUT. Salah + Konate + Robertson im Sommer 2026 abgegeben.",
-        "saisonziel_gast": "Tottenham Top-6 / Europa-Wiedereinstieg. Neuer Trainer Roberto De Zerbi (uebernahm Sommer 2026 nach Postecoglou/Frank-Interim). PL-Auftakt maessig (0 Punkte aus ersten 2 Spielen incl 0:2 Newcastle Heim 29.08.). Romero ist zu Atletico weg, Tonali kam von Newcastle.",
-        "motivations_asymmetrie": "Cup-Nacht mit beidseitiger Rotation - Iraola hat 'Spieler die wir noch nicht gesehen haben' angekuendigt (Mamardashvili im Tor bestaetigt, Van Dijk moeglich Pause, Gomez zurueck). De Zerbi rotiert ebenfalls (Bergvall, Tel, Senesi, Davies moegliche Rotation). Anfield-Heimvorteil bleibt aber gross, dazu Liverpool's Torhueter-Reserve solider als Spurs' zweite Reihe. Kein 2:0-Insurance in EFL Cup.",
-        "recovery_heim": "3 Tage seit PL-Spiel am WE - eng, aber Rotation genau deshalb",
-        "recovery_gast": "3 Tage seit PL-Spiel am WE - eng, De Zerbi bestaetigt Rotation",
-        "quellen": [
-          "https://www.thisisanfield.com/2026/09/liverpool-vs-tottenham-carabao-cup-injuries-team-selection-tv-info/",
-          "https://lastwordonsports.com/football/2026/09/15/liverpool-vs-tottenham-pl-carabao/",
-          "https://www.premierleague.com/",
-          "https://www.efl.com/news/2026/august/28/carabao-cup--third-round-dates-confirmed/",
-          "https://www.transfermarkt.de/fc-liverpool/startseite/verein/31",
-          "https://www.kicker.de/tottenham-hotspur/kader"
-        ]
-      },
-      "news": [
-        "Liverpool Mamardashvili startet im Tor (bestaetigt Iraola). Gomez zurueck aus Muskel-Reha - Van-Dijk-Pause moeglich",
-        "Liverpool OUT: Bradley, Chiesa, Ekitike, Leoni (alle langfristig)",
-        "Tottenham OUT: Kulusevski, Odobert, Simons, Mudryk (Sprunggelenk), Porro, Tonali (Knick)",
-        "Tottenham verfuegbar zurueck: Udogie. De Zerbi hat Rotation ueber Bergvall / Tel / Senesi / Davies angedeutet",
-        "Iraola bestaetigt: rotiert stark, aber Anfield-Heimspiel wird ernst genommen",
-        "Kein 2:0-Insurance in EFL Cup (nur BL + CL laut bet365 DE)",
-        "Bei 90-Min-Remis: Verlaengerung + ggf Elfmeter direkt (kein Rueckspiel im EFL Cup 3rd)",
-        "Aggregator-Quoten (bei bet365 live pruefen): Liverpool-Sieg ~1.75-1.90, DC 1X ~1.22-1.30, Tottenham-Sieg ~4.00-4.50, Ueber 2.5 ~1.75-1.90, BTTS Ja ~1.60-1.75, Isak-Tor ~2.60-2.90, Mathys-Tel-Tor ~3.20-3.60"
-      ],
-      "tipps": [
-        {
-          "id": "liv-tot-1",
-          "kategorie": "value",
-          "markt": "Liverpool oder Remis (Doppelte Chance)",
-          "quote": 1.25,
           "einsatz_euro": 15.0,
-          "empfohlener_einsatz_prozent": 1.5,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.21,
-          "begruendung": "DC 1X als Goldgrube-Markt-Sicherung. Anfield-Heimvorteil + Tottenham's massive Ausfall-Liste (Porro, Tonali, Kulusevski, Mudryk raus) - selbst mit Rotation ist Liverpool's B-Elf tiefer besetzt. Ohne 2:0-Insurance in EFL Cup DC statt Direkt-Sieg (bei Remis + Elfer-Niederlage bliebe DC gewonnen). Trotz VALUE nicht SAFE wegen beidseitiger Rotation - HR3-konform."
+          "begruendung": "Milan zuhause historisch stark gegen Benfica (6 Duelle ungeschlagen). DC 1X ist aktuelle Markt-Goldgrube (73% Hit / +40% ROI). Vermeidet die 50/50-Falle im Sieg-Markt. Bei 1000€ Kasse = 15€. Bei bet365 live prüfen.",
+          "hinweis": "Markt-Goldgrube DC 1X"
         },
         {
-          "id": "liv-tot-2",
+          "id": "mil-ben-2",
           "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.85,
-          "einsatz_euro": 5.0,
-          "empfohlener_einsatz_prozent": 0.5,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.79,
-          "begruendung": "Rotierte Elfen produzieren oft chaotische Cup-Spiele - Isak/Barcola koennen bei Spurs' rotierter Abwehr treffen, Tel im Konter gefaehrlich. Aber Cup-Vorsicht + zweite Torhueter-Wahl im Feld (Kepa-analog Mamardashvili) druckt Erwartung. Wackel weil kein klares offensives Signal beidseitig. Ueber 2.5 ist Goldgrube-Markt (66.7% / +27.5% ROI) - hier nur wackel wegen Rotations-Unbekannten."
-        },
-        {
-          "id": "liv-tot-3",
-          "kategorie": "wackel",
-          "markt": "Torschuetze jederzeit: Mathys Tel",
-          "quote": 3.4,
-          "einsatz_euro": 5.0,
-          "empfohlener_einsatz_prozent": 0.5,
-          "edge_prozent": 4.0,
-          "faire_quote": 3.26,
-          "begruendung": "Mathys Tel als moeglicher Startelf-Rotationsspieler bei Spurs - junger 20-Jaehriger, will sich beweisen in Cup-Chance. Anfield ist gross gegen ihn, aber sein Cup-Volumen bei Bayern vor der Leihe gut. Live pruefen ob er wirklich startet - sonst Tipp ziehen. Wackel weil viele Unbekannte."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-09-15-ips-ars",
-      "liga": "EFL Cup 2026/27 - Third Round (Carabao Cup)",
-      "heim": "Ipswich Town",
-      "gast": "Arsenal FC",
-      "anstoss": "2026-09-15T21:00:00+02:00",
-      "stadion": "Portman Road, Ipswich",
-      "saison_kontext": {
-        "parallel_heim": "keine (Ipswich Championship - naechster Termin am WE)",
-        "parallel_gast": "keine (Arsenal PL naechster Termin 20.09.). CL-Ligaphase MD1 vergangene Woche",
-        "saisonziel_heim": "Ipswich Aufstiegs-Kandidat Championship 26/27 - nach PL-Abstieg. Trainer + Kader groesstenteils Championship-Level, Zian Flemming Neu-Sturmspitze.",
-        "saisonziel_gast": "Arsenal Titel-Verteidiger (PL-Meister 25/26). Coach Mikel Arteta. CL-Rotation heute klar angekuendigt.",
-        "motivations_asymmetrie": "Klarer Klassen-Edge PL-Meister vs Championship-Absteiger, ABER Arteta rotiert schwer: Kepa startet, Saliba out, Ben White frisch verletzt, Mosquera out, Calafiori/Rice/Saka/Odegaard bekommen Pause. Ipswich spielt nahe Voll-Elf mit Flemming vorne. Trotzdem Arsenal's Rotations-Elf ist besser als Ipswich's Starter - aber der Edge schrumpft auf VALUE-Niveau, nicht SAFE.",
-        "recovery_heim": "3 Tage seit Championship-Spiel - eng, aber gleicher Rhythmus wie sonst",
-        "recovery_gast": "3 Tage seit PL-Spiel am WE (Sieg bei Sunderland) + CL Mitte der Woche - eng, Rotation deshalb erzwungen",
-        "quellen": [
-          "https://sports.yahoo.com/articles/ipswich-town-vs-arsenal-predicted-042500571.html",
-          "https://heavy.com/sports/soccer/ipswich-arsenal-carabao-cup-team-news-lineups-tv/",
-          "https://thefootballfaithful.com/ipswich-town-vs-arsenal-predicted-lineup-and-team-news/",
-          "https://www.efl.com/news/2026/august/28/carabao-cup--third-round-dates-confirmed/",
-          "https://www.transfermarkt.de/fc-arsenal/startseite/verein/11",
-          "https://www.kicker.de/ipswich-town/kader"
-        ]
-      },
-      "news": [
-        "Arsenal OUT: Saliba (Rueckenproblem, min. 2 Monate), Ben White (Leiste, frisch), Mosquera (Muskel)",
-        "Arsenal Rotation angekuendigt: Kepa als Torhueter, Calafiori/Rice/Saka/Odegaard-Pause moeglich",
-        "Ipswich OUT: Jack Taylor (Knie), Matusiwa (Oberschenkel) - beide bisher nicht gespielt",
-        "Ipswich-Sturmspitze: Zian Flemming (spielberechtigt trotz Burnley-Einsatz in fruehen EFL-Runden)",
-        "Kein 2:0-Insurance in EFL Cup",
-        "Aggregator-Quoten (bei bet365 live pruefen): Arsenal-Sieg ~1.65-1.80, DC X2 ~1.18-1.25, Ipswich-Sieg ~4.50-5.50, Ueber 2.5 ~1.85-2.05, BTTS Ja ~1.75-1.90, Trossard-Tor ~2.60-2.90, Havertz-Tor ~2.20-2.50"
-      ],
-      "tipps": [
-        {
-          "id": "ips-ars-1",
-          "kategorie": "value",
-          "markt": "Arsenal oder Remis (Doppelte Chance)",
-          "quote": 1.2,
-          "einsatz_euro": 15.0,
-          "empfohlener_einsatz_prozent": 1.5,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.16,
-          "begruendung": "DC X2 als Goldgrube-Markt (77.8% Hit / +9.4% ROI, n=36). Arsenal's Rotations-Elf immer noch tiefer als Championship-Ipswich, aber Saliba+Ben White+Mosquera-Ausfaelle in der Abwehr = kein SAFE. VALUE-Kategorie richtig. Kein 2:0-Insurance in EFL Cup - DC statt Sieg. HR3 (UEFA-Doppelbelastung Arsenal <4 Tage bis CL naechsten Dienstag) beachtet."
-        },
-        {
-          "id": "ips-ars-2",
-          "kategorie": "wackel",
-          "markt": "Sieg Arsenal FC (90 Min)",
+          "markt": "Beide Teams treffen Ja",
           "quote": 1.75,
-          "einsatz_euro": 5.0,
-          "empfohlener_einsatz_prozent": 0.5,
-          "edge_prozent": 2.0,
           "faire_quote": 1.72,
-          "begruendung": "Direkt-Sieg als Kombi-Basis-Option, aber wackel weil starke Rotation + Portman-Road-Kessel-Atmosphaere. Nicht als SAFE geeignet. Wackel-Range-Grenze (1.75 unter HR1-Range fuer wackel 2.30-3.50) - technisch grenzwertig, aber angesichts Rotations-Risiko realistischere Kategorie als VALUE."
+          "edge_prozent": 1.7,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Beide Teams offensivstark, Benfica erzielte 4W+1D-Serie mit vielen Toren. Milan hat neuen zentralen 9er Ramos. Wackel weil Milan defensiv nach 2 Remis stabilisiert wirkt. Bei 1000€ Kasse = 5€."
         },
         {
-          "id": "ips-ars-3",
+          "id": "mil-ben-3",
           "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
+          "markt": "Über 2.5 Tore",
           "quote": 1.95,
-          "einsatz_euro": 5.0,
-          "empfohlener_einsatz_prozent": 0.5,
-          "edge_prozent": 3.0,
           "faire_quote": 1.9,
-          "begruendung": "Rotations-Abwehren bei Arsenal + Ipswich-Portman-Road offensiv gefaehrlich. Zian Flemming will sich zeigen. Aber Cup-Kontrolle + Arsenal-Absicht Ergebnis zu verwalten - deshalb wackel statt VALUE."
-        },
-        {
-          "id": "ips-ars-4",
-          "kategorie": "wackel",
-          "markt": "Torschuetze jederzeit: Kai Havertz",
-          "quote": 2.4,
-          "einsatz_euro": 5.0,
+          "edge_prozent": 2.6,
           "empfohlener_einsatz_prozent": 0.5,
-          "edge_prozent": 3.0,
-          "faire_quote": 2.33,
-          "begruendung": "Havertz als moegliche Rotations-Spitze wenn Odegaard/Saka Pause bekommen. HR24 tw erfuellt (zentraler 9er, gegen Ipswich-Championship-Abwehr Chancen). Wackel weil Startelf-Rolle unsicher - live pruefen. Alternativ Trossard @ ~2.70 vergleichbar."
+          "einsatz_euro": 5.0,
+          "begruendung": "Beide Teams offensivstark, aber Milans letzte 2 Serie-A-Spiele endeten 2:2 und 1:1 — Tor-Volumen ist da. Bei 1000€ Kasse = 5€."
         }
       ],
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-09-15-whu-ful",
-      "liga": "EFL Cup 2026/27 - Third Round (Carabao Cup)",
-      "heim": "West Ham United",
-      "gast": "Fulham FC",
-      "anstoss": "2026-09-15T20:45:00+02:00",
-      "stadion": "London Stadium, London",
+      "id": "2026-09-16-and-lyo",
+      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 1",
+      "heim": "RSC Anderlecht",
+      "gast": "Olympique Lyon",
+      "anstoss": "2026-09-16T21:00:00+02:00",
+      "stadion": "Lotto Park, Brüssel",
       "saison_kontext": {
-        "parallel_heim": "keine (West Ham naechster PL-Termin 20.09.)",
-        "parallel_gast": "keine (Fulham naechster PL-Termin 20.09.)",
-        "saisonziel_heim": "West Ham obere Tabellenhaelfte / Europa-Angriff. Trainer Nuno Espirito Santo. Aktuell 4 Siege in Folge inklusive 6:0 gegen Wrexham am Freitag - Formstark.",
-        "saisonziel_gast": "Fulham gesichertes Mittelfeld / Cup-Chance. Neuer Trainer Alvaro Arbeloa (seit Sommer 2026, ersetzt Silva). Zuletzt 0:0 in Anfield gegen Liverpool gehalten. Kapitan Cairney nach Knie-OP raus.",
-        "motivations_asymmetrie": "West Ham mit klarem Momentum + Heimspiel + starker Form. Fulham unter Neu-Trainer Arbeloa noch in Findung, wird Cup rotieren. Aber beide sind PL-Level, klarer Klassen-Edge fehlt - eher West-Ham-Home-Edge. Kein 2:0-Insurance in EFL Cup.",
-        "recovery_heim": "3 Tage seit PL-Wrexham-Cup-Sieg 6:0 - frisch, hohe Torlaune",
-        "recovery_gast": "3 Tage seit 0:0 in Anfield - defensiv stabil, aber offensive Rhythmus fehlend",
+        "parallel_heim": "Jupiler Pro League am Wochenende — Anderlecht in Belgien belastet, aber Kader-Tiefe da",
+        "parallel_gast": "Ligue 1 am Wochenende — Lyon in aktuell durchwachsener Form (1 Sieg in letzten 4 all comps)",
+        "saisonziel_heim": "JPL-Titel-Anwärter + EL-Ligaphase überstehen — starke Heim-EL-Bilanz (3 Heimsiege in Folge in Europa)",
+        "saisonziel_gast": "Ligue-1-Comeback nach schwacher Saison 2025/26 + EL-Kompensation für CL-Nichtquali",
+        "motivations_asymmetrie": "Coinflip-nah: Lyon nominal stärker (Ligue-1-Klub), aber aktuell in Formkrise (1 Sieg in 4). Anderlecht mit Heim-EL-Serie und mehr Frische. Kein klarer Klassen-Edge — Wackel-Zone.",
+        "recovery_heim": "JPL-Spiel Sa/So — 3-4 Tage Pause",
+        "recovery_gast": "Ligue-1-Spiel + Anreise — leichte Belastung",
         "quellen": [
-          "https://thehardtackle.com/round-up/2026/09/14/west-ham-united-vs-fulham-preview-prediction-probable-lineups-tactics-team-news-key-stats/",
-          "https://greenstreethammers.com/west-ham-vs-fulham-preview-prediction-team-news-and-lineups-01m2dzamtpek",
-          "https://www.whufc.com/en/news/date-set-for-fulham-carabao-cup-clash",
-          "https://www.efl.com/news/2026/august/28/carabao-cup--third-round-dates-confirmed/",
-          "https://www.transfermarkt.de/west-ham-united/startseite/verein/379",
-          "https://www.kicker.de/west-ham-united/kader"
+          "https://footballwhispers.com/blog/anderlecht-vs-lyon-prediction-preview-betting-tips-16-09-2026/",
+          "https://sports.yahoo.com/articles/preview-anderlecht-vs-lyon-team-192000919.html",
+          "https://www.uefa.com/uefaeuropaleague/"
         ]
       },
       "news": [
-        "West Ham OUT: Joel Veltman (Muskel). Kyle Walker-Peters + Golambeckis + Kilman in Abwehr",
-        "West Ham 4 Siege in Folge, 6:0 vs Wrexham am Freitag - Formstark",
-        "Fulham Neu-Trainer Alvaro Arbeloa (seit 07/2026, kam von Real-Madrid-Rausschmiss)",
-        "Fulham OUT: Cairney (Knie-OP)",
-        "Beide Elfen werden rotiert - Arbeloa laut Preview mit veranderter XI",
-        "Kein 2:0-Insurance in EFL Cup",
-        "Aggregator-Quoten (bei bet365 live pruefen): West-Ham-Sieg ~2.05-2.25, DC 1X ~1.35-1.45, Fulham-Sieg ~3.30-3.70, BTTS Ja ~1.75-1.90, Ueber 2.5 ~1.95-2.15, Bowen-Tor ~2.60-3.00, Castellanos-Tor ~2.80-3.20"
+        "Sieg Lyon Quote ~2.05, Sieg Anderlecht ~2.90, Remis ~3.40 — Coinflip-nah",
+        "Anderlecht 3 Heim-Europa-Siege in Folge — Fort Lotto",
+        "Lyon nur 1 Sieg in letzten 4 Pflichtspielen — Formkrise"
       ],
       "tipps": [
         {
-          "id": "whu-ful-1",
+          "id": "and-lyo-1",
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance Anderlecht oder Remis",
+          "quote": 1.85,
+          "faire_quote": 1.8,
+          "edge_prozent": 2.7,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Anti-Lyon-Formkrise + Anderlecht-Heim-EL-Serie. Wackel weil Lyon nominal stärker. Bei 1000€ Kasse = 5€.",
+          "hinweis": "Coinflip-Spiel, eher zum Überspringen — Wackel-Tipp als Basis."
+        },
+        {
+          "id": "and-lyo-2",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 2.3,
+          "faire_quote": 2.2,
+          "edge_prozent": 4.3,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Lyon aktuell offensiv schwach, EL-Erstauftritt oft taktisch abgeklärt. Unter 2.5 Tore ist Markt-Goldgrube (68% Hit / +30% ROI). Bei 1000€ Kasse = 5€."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-16-oly-jag",
+      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 1",
+      "heim": "Olympiacos Piräus",
+      "gast": "Jagiellonia Białystok",
+      "anstoss": "2026-09-16T21:00:00+02:00",
+      "stadion": "Karaiskakis-Stadion, Piräus",
+      "saison_kontext": {
+        "parallel_heim": "Super League Griechenland am Wochenende",
+        "parallel_gast": "Ekstraklasa Polen am Wochenende — weite Anreise",
+        "saisonziel_heim": "Griechischer Meister-Anspruch + EL-Ligaphase überstehen — deutlich stärkerer Klub",
+        "saisonziel_gast": "Polnischer Underdog — Kwalifikation ins Achtelfinale historisch",
+        "motivations_asymmetrie": "Klassen-Edge Olympiacos zuhause — aber HR22-Alarm: Top-Stürmer El Kaabi OUT (Wangenbeinbruch), Roca out (Schulter), Fortounis gesperrt. Kein Sieg-SAFE trotz Klassen-Unterschied — Implosions-Risiko bei Trippel-Ausfall.",
+        "recovery_heim": "Super-League-Spiel Sa/So — 3-4 Tage Pause",
+        "recovery_gast": "Ekstraklasa-Spiel + Flug Warschau-Athen ~3 Std",
+        "quellen": [
+          "https://footballwhispers.com/blog/olympiacos-vs-jagiellonia-bialystok-prediction-16-09-2026/",
+          "https://thefootballfaithful.com/olympiacos-f-c-vs-jagiellonia-bialystok-prediction-betting-tips-16-09-2026/"
+        ]
+      },
+      "news": [
+        "El Kaabi (Top-Stürmer) OUT wegen Wangenbeinbruch",
+        "Roca (Winger) OUT Schulter, Fortounis gesperrt",
+        "Sieg-Olympiacos-Quote trotzdem ~1.36 (Aggregator-Konsens)"
+      ],
+      "tipps": [
+        {
+          "id": "oly-jag-1",
           "kategorie": "value",
-          "markt": "West Ham oder Remis (Doppelte Chance)",
-          "quote": 1.4,
-          "einsatz_euro": 15.0,
-          "empfohlener_einsatz_prozent": 1.5,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.35,
-          "begruendung": "DC 1X als Goldgrube-Markt. West Ham mit 4-Siege-Serie + Heim + 6:0-Rueckenwind vs Wrexham, dazu Fulham unter Neu-Trainer Arbeloa noch im Umbruch. Klare offensive Momentum-Asymmetrie. Kein 2:0-Insurance in EFL Cup. HR3 nicht anwendbar (keine UEFA-Doppelbelastung fuer beide)."
-        },
-        {
-          "id": "whu-ful-2",
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen: Ja",
-          "quote": 1.8,
-          "einsatz_euro": 5.0,
-          "empfohlener_einsatz_prozent": 0.5,
-          "edge_prozent": 2.0,
-          "faire_quote": 1.76,
-          "begruendung": "Beide PL-Team-Rotationselfen produzieren typisch offene Cup-Spiele. West Ham torhungrig, Fulham hat mit Iwobi/Palacios genug Qualitaet fuer 1 Konter-Tor. Wackel weil beide Trainer moeglich Defensiv-System testen."
-        },
-        {
-          "id": "whu-ful-3",
-          "kategorie": "wackel",
-          "markt": "Torschuetze jederzeit: Jarrod Bowen",
-          "quote": 2.9,
-          "einsatz_euro": 5.0,
-          "empfohlener_einsatz_prozent": 0.5,
+          "markt": "Sieg Olympiacos Piräus (90 Min)",
+          "quote": 1.36,
+          "faire_quote": 1.32,
           "edge_prozent": 3.0,
-          "faire_quote": 2.81,
-          "begruendung": "Bowen als Kapitan + Volumen-Fluegel bei West Ham, HR24-konform bei Startelf-Einsatz. In der probabile-XI drin. Wackel weil Rotations-Risiko - Nuno koennte ihn schonen mit 4-Siege-Rueckenwind. Live pruefen."
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 10.0,
+          "begruendung": "Klassen-Edge Olympiacos, aber HR22 aktiv (El Kaabi + Roca + Fortounis alle raus). Kein SAFE-Downgrade auf VALUE. Reality-Check: Sieg-Heim-Griechenland-Bilanz aus statistik.json noch dünn (n<10) — Standard-Analyse. Bei 1000€ Kasse = 10€. Bei bet365 live prüfen."
         },
         {
-          "id": "whu-ful-4",
+          "id": "oly-jag-2",
           "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
+          "markt": "Unter 2.5 Tore",
           "quote": 2.0,
-          "einsatz_euro": 5.0,
+          "faire_quote": 1.9,
+          "edge_prozent": 5.3,
           "empfohlener_einsatz_prozent": 0.5,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.94,
-          "begruendung": "West Ham's 6:0-Explosion + Cup-Rotations-offene-Verteidigung + Fulhams Umbruch. Ueber 2.5 Goldgrube-Markt, aber Cup-Vorsicht + Fulham's neuestes Ergebnis war 0:0 - deshalb wackel statt VALUE."
+          "einsatz_euro": 5.0,
+          "begruendung": "El Kaabi als Volumen-9er OUT → Olympiacos-Offensive lahmgelegt. Jagiellonia auswärts oft passiv. Unter 2.5 Tore als HR22-Hedge (Anti-Implosions-Total). Markt-Goldgrube (68% Hit / +30% ROI). Bei 1000€ Kasse = 5€."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-16-stu-ren",
+      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 1",
+      "heim": "SK Sturm Graz",
+      "gast": "Stade Rennais",
+      "anstoss": "2026-09-16T21:00:00+02:00",
+      "stadion": "Merkur-Arena, Graz",
+      "saison_kontext": {
+        "parallel_heim": "ÖFB-Bundesliga am Wochenende",
+        "parallel_gast": "Ligue 1 am Wochenende — Rennes bisher ungeschlagen (3S 1U in 4)",
+        "saisonziel_heim": "ÖFB-Meister-Verteidigung + EL-Ligaphase — Klassen-Underdog vs Ligue-1-Klub",
+        "saisonziel_gast": "Ligue 1 Top-6 + EL-Titel-Anwärter — aktuell in Form",
+        "motivations_asymmetrie": "Klarer Klassen-Vorteil Rennes (Ligue 1 ungeschlagen), Sturm zuhause aber traditionell zäh. Erst-Duell der beiden Klubs — kein H2H.",
+        "recovery_heim": "ÖFB-Spiel Sa/So — 3-4 Tage Pause",
+        "recovery_gast": "Ligue-1-Spiel + Flug Frankreich-Österreich",
+        "quellen": [
+          "https://www.whoscored.com/matches/2029535/preview/europe-europa-league-2026-2027-sturm-graz-rennes",
+          "https://africasoccer.com/europa-league-sturm-graz-v-stade-rennais-date-kick-off-time-and-where-to-watch/"
+        ]
+      },
+      "news": [
+        "Sieg-Rennes-Quote ~1.83, Remis ~3.70, Sieg-Sturm ~3.60",
+        "Rennes 4 Ligue-1-Spiele ungeschlagen (3S 1U)",
+        "Erst-Duell beider Klubs"
+      ],
+      "tipps": [
+        {
+          "id": "stu-ren-1",
+          "kategorie": "value",
+          "markt": "Sieg Stade Rennais (90 Min)",
+          "quote": 1.83,
+          "faire_quote": 1.7,
+          "edge_prozent": 7.6,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Rennes Ligue-1-ungeschlagen (3S 1U in 4) und der klar bessere Kader vs österreichischer Meister. Reality-Check: Auswärts-Sieg-Ligue-1-Bilanz noch dünn (n<10) — Standard. Bei 1000€ Kasse = 15€. Bei bet365 live prüfen."
+        },
+        {
+          "id": "stu-ren-2",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Rennes oder Remis",
+          "quote": 1.3,
+          "faire_quote": 1.24,
+          "edge_prozent": 4.8,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 10.0,
+          "begruendung": "Markt-Goldgrube DC X2 (75% Hit / +9% ROI). Rennes-Formstärke abgesichert gegen Underdog-Auswärts-Remis. Bei 1000€ Kasse = 10€."
+        },
+        {
+          "id": "stu-ren-3",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.8,
+          "faire_quote": 1.8,
+          "edge_prozent": 0.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Rennes offensivstark, Sturm zuhause offensiv-orientiert — Tor-Volumen wahrscheinlich. Wackel weil EL-Erstauftritt oft taktisch. Bei 1000€ Kasse = 5€."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-16-sun-alk",
+      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 1",
+      "heim": "Sunderland AFC",
+      "gast": "AZ Alkmaar",
+      "anstoss": "2026-09-16T21:00:00+02:00",
+      "stadion": "Stadium of Light, Sunderland",
+      "saison_kontext": {
+        "parallel_heim": "Premier League am Wochenende — Sunderland als PL-Aufsteiger noch in der Findungsphase",
+        "parallel_gast": "Eredivisie am Wochenende — AZ 5 Pflichtsiege in Folge, 3.2 Tore/Spiel",
+        "saisonziel_heim": "PL-Klassenerhalt + EL-Ligaphase erleben — Fans-Rückkehr in Europa nach 60+ Jahren",
+        "saisonziel_gast": "Eredivisie Top-4 + EL-Runde 16 — hochkarätig",
+        "motivations_asymmetrie": "AZ-Form aktuell stark (5 Siege in Folge all comps, 3.2 Tore/Spiel), Sunderland als PL-Aufsteiger unerfahren in Europa. Heimatmosphäre ist der einzige Sunderland-Faktor. AZ ist trotz Auswärts-Rolle klar der bessere Ball-Klub.",
+        "recovery_heim": "PL-Spiel Sa/So — 3-4 Tage Pause",
+        "recovery_gast": "Eredivisie-Spiel + Fähre/Flug UK",
+        "quellen": [
+          "https://www.goal.com/en-gb/news/live-stream-online-tv-where-to-watch-sunderland-v-az-alkmaar/blte5976f2b478430ec",
+          "https://tipiq.ai/football/europe/uefa-europa-league/sunderland-vs-az-alkmaar-prediction-f2a049da-08ae-8955-9bab-aef4edbaaa3f",
+          "https://dailysports.net/predictions/can-azs-flying-attack-survive-the-stadium-of-light-sunderland-vs-az-alkmaar-prediction-16092026/"
+        ]
+      },
+      "news": [
+        "AZ 5 Pflichtsiege in Folge mit 3.2 Toren/Spiel im Schnitt",
+        "Sunderland Sieg-Quote streut breit (1.53-1.66) — Markt uneinig",
+        "Stadium of Light EL-Rückkehr nach 60+ Jahren"
+      ],
+      "tipps": [
+        {
+          "id": "sun-alk-1",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "faire_quote": 1.6,
+          "edge_prozent": 9.4,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "AZ 3.2 Tore/Spiel-Schnitt letzte 5 Pflichtspiele, Sunderland als offensiv-orientierter PL-Aufsteiger. Markt-Goldgrube Über 2.5 (66.7% Hit / +27.5% ROI). Bei 1000€ Kasse = 15€. Bei bet365 live prüfen."
+        },
+        {
+          "id": "sun-alk-2",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Sunderland oder Remis",
+          "quote": 1.28,
+          "faire_quote": 1.22,
+          "edge_prozent": 4.9,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 10.0,
+          "begruendung": "Markt-Goldgrube DC 1X (73% Hit / +40% ROI). Heim-Stadium-of-Light-Vorteil + Markt-Unentschlossenheit (Quote 1.53-1.66 breit gestreut) → DC statt Sieg. Bei 1000€ Kasse = 10€."
+        },
+        {
+          "id": "sun-alk-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen Ja",
+          "quote": 1.7,
+          "faire_quote": 1.67,
+          "edge_prozent": 1.8,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "AZ offensivstark, Sunderland zuhause traditionell offen. BTTS-Ja passt zum Tor-Total-Bild. Bei 1000€ Kasse = 5€."
         }
       ],
       "kontext_check_status": "OK"
@@ -396,386 +365,296 @@ window.__MIESMUSCHEL_TIPPS = {
   ],
   "einzeltipps": [
     {
-      "id": "fio-pis-1",
-      "spiel_id": "2026-09-15-fio-pis",
-      "spiel_label": "Fiorentina vs Pisa",
-      "kategorie": "safe",
-      "markt": "Fiorentina oder Remis (Doppelte Chance)",
-      "quote": 1.12,
-      "einsatz_euro": 20.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "edge_prozent": 3.0,
-      "faire_quote": 1.08,
-      "begruendung": "Goldgrube-Markt DC 1X. Serie-A-Mittelfeld daheim gegen Aufsteiger Pisa, der rotiert + reist. Kein 2:0-Insurance in Coppa Italia. Stufe 1: 2% = 20E.",
+      "id": "top-1",
+      "spiel_id": "2026-09-16-b04-cel",
+      "spiel_label": "Leverkusen vs NK Celje",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.55,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Klassenunterschied Bundesliga vs slowenischer Meister — Über 2.5 als Markt-Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 1
     },
     {
-      "id": "gen-sud-1",
-      "spiel_id": "2026-09-15-gen-sud",
-      "spiel_label": "Genoa vs Sudtirol",
-      "kategorie": "safe",
-      "markt": "Genoa oder Remis (Doppelte Chance)",
-      "quote": 1.1,
-      "einsatz_euro": 20.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "edge_prozent": 3.0,
-      "faire_quote": 1.07,
-      "begruendung": "Goldgrube-Markt DC 1X. Serie A vs Serie B im Ferraris. Sudtirol reist + rotiert. Elfer-Risiko im Remis existiert, aber DC 1X sichert das ab. Stufe 1: 2% = 20E.",
+      "id": "top-2",
+      "spiel_id": "2026-09-16-b04-cel",
+      "spiel_label": "Leverkusen vs NK Celje",
+      "kategorie": "value",
+      "markt": "Bayer Leverkusen Handicap -1 (90 Min)",
+      "quote": 1.65,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Sieg-Quote 1.12 zu tief für Range — HC -1 als Sieg-Alternative.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 2
     },
     {
-      "id": "fio-pis-2",
-      "spiel_id": "2026-09-15-fio-pis",
-      "spiel_label": "Fiorentina vs Pisa",
+      "id": "top-3",
+      "spiel_id": "2026-09-16-stu-ren",
+      "spiel_label": "Sturm Graz vs Rennes",
       "kategorie": "value",
-      "markt": "Sieg ACF Fiorentina (90 Min)",
-      "quote": 1.6,
+      "markt": "Sieg Stade Rennais (90 Min)",
+      "quote": 1.83,
       "einsatz_euro": 15.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "edge_prozent": 4.0,
-      "faire_quote": 1.54,
-      "begruendung": "Direkt-Sieg als Kombi-Basis. Vanoli will Coppa-Titel-Weg. Cup mit Elfer-Risiko im Remis - deshalb VALUE nicht SAFE.",
+      "kurz_begruendung": "Rennes Ligue-1-ungeschlagen, klarer Klassenvorteil vs ÖFB-Meister.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 3
     },
     {
-      "id": "gen-sud-2",
-      "spiel_id": "2026-09-15-gen-sud",
-      "spiel_label": "Genoa vs Sudtirol",
+      "id": "top-4",
+      "spiel_id": "2026-09-16-sun-alk",
+      "spiel_label": "Sunderland vs AZ Alkmaar",
       "kategorie": "value",
-      "markt": "Sieg Genoa CFC (90 Min)",
-      "quote": 1.5,
+      "markt": "Über 2.5 Tore",
+      "quote": 1.75,
       "einsatz_euro": 15.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "edge_prozent": 4.0,
-      "faire_quote": 1.44,
-      "begruendung": "De-Rossi-Kombination Vitinha + Meichtry gegen Serie-B-Defense. VALUE wegen 90-Min-Remis-Risiko + Elfer-Szenario.",
+      "kurz_begruendung": "AZ 3.2 Tore/Spiel-Schnitt + Sunderland offensiv-orientiert.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 4
     },
     {
-      "id": "whu-ful-1",
-      "spiel_id": "2026-09-15-whu-ful",
-      "spiel_label": "West Ham vs Fulham",
+      "id": "top-5",
+      "spiel_id": "2026-09-16-mil-ben",
+      "spiel_label": "Milan vs Benfica",
       "kategorie": "value",
-      "markt": "West Ham oder Remis (Doppelte Chance)",
-      "quote": 1.4,
+      "markt": "Doppelte Chance Milan oder Remis",
+      "quote": 1.3,
       "einsatz_euro": 15.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "edge_prozent": 4.0,
-      "faire_quote": 1.35,
-      "begruendung": "DC 1X - 3. und letzter DC im Dossier (Cap-Limit). West Ham mit 4 Siegen in Folge + 6:0 vs Wrexham + Heimspiel gegen Fulham im Umbruch unter Neu-Trainer Arbeloa.",
+      "kurz_begruendung": "Milan zuhause historisch stark vs Benfica (6 Duelle ungeschlagen). DC 1X = Markt-Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 5
     },
     {
-      "id": "fio-pis-3",
-      "spiel_id": "2026-09-15-fio-pis",
-      "spiel_label": "Fiorentina vs Pisa",
+      "id": "top-6",
+      "spiel_id": "2026-09-16-stu-ren",
+      "spiel_label": "Sturm Graz vs Rennes",
       "kategorie": "value",
-      "markt": "Torschuetze jederzeit: Roberto Pellegrino",
-      "quote": 2.8,
-      "einsatz_euro": 12.0,
-      "empfohlener_einsatz_prozent": 1.2,
-      "edge_prozent": 6.0,
-      "faire_quote": 2.63,
-      "begruendung": "HR24-konform: 9er in bestaetigter probabile-Startelf gegen Serie-A-Aufsteiger. Goldgrube-Markt Torschuetzen Jederzeit.",
+      "markt": "Doppelte Chance Rennes oder Remis",
+      "quote": 1.3,
+      "einsatz_euro": 10.0,
+      "kurz_begruendung": "Rennes-Form abgesichert — Markt-Goldgrube DC X2.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 6
     },
     {
-      "id": "gen-sud-3",
-      "spiel_id": "2026-09-15-gen-sud",
-      "spiel_label": "Genoa vs Sudtirol",
-      "kategorie": "wackel",
-      "markt": "Torschuetze jederzeit: Vitinha",
-      "quote": 2.9,
-      "einsatz_euro": 5.0,
-      "empfohlener_einsatz_prozent": 0.5,
-      "edge_prozent": 3.0,
-      "faire_quote": 2.81,
-      "begruendung": "Vitinha als Sturmspitze bestaetigt in probabile. Gegen Serie-B-Defense Chancen wahrscheinlich, aber sein moderate Torschnitt haelt Kategorie bei wackel.",
+      "id": "top-7",
+      "spiel_id": "2026-09-16-oly-jag",
+      "spiel_label": "Olympiacos vs Jagiellonia",
+      "kategorie": "value",
+      "markt": "Sieg Olympiacos Piräus (90 Min)",
+      "quote": 1.36,
+      "einsatz_euro": 10.0,
+      "kurz_begruendung": "Klassen-Edge trotz El-Kaabi-Ausfall — HR22-Downgrade auf VALUE.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 7
     },
     {
-      "id": "whu-ful-3",
-      "spiel_id": "2026-09-15-whu-ful",
-      "spiel_label": "West Ham vs Fulham",
-      "kategorie": "wackel",
-      "markt": "Torschuetze jederzeit: Jarrod Bowen",
-      "quote": 2.9,
-      "einsatz_euro": 5.0,
-      "empfohlener_einsatz_prozent": 0.5,
-      "edge_prozent": 3.0,
-      "faire_quote": 2.81,
-      "begruendung": "Bowen als Volumen-Fluegel in probabile-XI. Rotations-Risiko unter Nuno haelt bei wackel.",
+      "id": "top-8",
+      "spiel_id": "2026-09-16-sun-alk",
+      "spiel_label": "Sunderland vs AZ Alkmaar",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Sunderland oder Remis",
+      "quote": 1.28,
+      "einsatz_euro": 10.0,
+      "kurz_begruendung": "Heim-Vorteil + Markt-Unentschlossenheit → DC statt Sieg.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 8
     },
     {
-      "id": "ips-ars-4",
-      "spiel_id": "2026-09-15-ips-ars",
-      "spiel_label": "Ipswich vs Arsenal",
+      "id": "top-9",
+      "spiel_id": "2026-09-16-b04-cel",
+      "spiel_label": "Leverkusen vs NK Celje",
       "kategorie": "wackel",
-      "markt": "Torschuetze jederzeit: Kai Havertz",
-      "quote": 2.4,
+      "markt": "Über 3.5 Tore",
+      "quote": 1.9,
       "einsatz_euro": 5.0,
+      "kurz_begruendung": "Leverkusen-Torfestival-Kandidat, Wackel wegen Celje-Bus-Risiko.",
       "empfohlener_einsatz_prozent": 0.5,
-      "edge_prozent": 3.0,
-      "faire_quote": 2.33,
-      "begruendung": "Havertz als potenzielle Rotations-Spitze wenn Saka/Odegaard rasten. HR24 tw erfuellt. Live Startelf pruefen.",
       "rang": 9
     },
     {
-      "id": "liv-tot-3",
-      "spiel_id": "2026-09-15-liv-tot",
-      "spiel_label": "Liverpool vs Tottenham",
+      "id": "top-10",
+      "spiel_id": "2026-09-16-and-lyo",
+      "spiel_label": "Anderlecht vs Lyon",
       "kategorie": "wackel",
-      "markt": "Torschuetze jederzeit: Mathys Tel",
-      "quote": 3.4,
+      "markt": "Unter 2.5 Tore",
+      "quote": 2.3,
       "einsatz_euro": 5.0,
+      "kurz_begruendung": "Coinflip-Spiel + Lyon-Formkrise + EL-Erstauftritt-Vorsicht.",
       "empfohlener_einsatz_prozent": 0.5,
-      "edge_prozent": 4.0,
-      "faire_quote": 3.26,
-      "begruendung": "Junger Fluegel-Stuermer mit Beweis-Motivation im Cup, moegliche Startelf-Rotation bei Spurs. Live pruefen.",
       "rang": 10
     }
   ],
   "kombis": [
     {
-      "name": "Safe (3-5x)",
+      "id": "kombi-safe",
       "kategorie": "safe",
+      "name": "Safe-Kombi Mi 16.09.",
       "beine": [
         {
-          "spiel_id": "2026-09-15-fio-pis",
-          "spiel_label": "Fiorentina vs Pisa",
-          "markt": "Sieg ACF Fiorentina (90 Min)",
-          "quote": 1.6,
-          "kategorie": "value"
+          "spiel_id": "2026-09-16-b04-cel",
+          "spiel_label": "Leverkusen vs NK Celje",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.55,
+          "kategorie": "safe"
         },
         {
-          "spiel_id": "2026-09-15-gen-sud",
-          "spiel_label": "Genoa vs Sudtirol",
-          "markt": "Sieg Genoa CFC (90 Min)",
-          "quote": 1.5,
-          "kategorie": "value"
+          "spiel_id": "2026-09-16-stu-ren",
+          "spiel_label": "Sturm Graz vs Rennes",
+          "markt": "Doppelte Chance Rennes oder Remis",
+          "quote": 1.3,
+          "kategorie": "safe"
         },
         {
-          "spiel_id": "2026-09-15-whu-ful",
-          "spiel_label": "West Ham vs Fulham",
-          "markt": "West Ham oder Remis (Doppelte Chance)",
-          "quote": 1.4,
-          "kategorie": "value"
+          "spiel_id": "2026-09-16-oly-jag",
+          "spiel_label": "Olympiacos vs Jagiellonia",
+          "markt": "Sieg Olympiacos Piräus",
+          "quote": 1.36,
+          "kategorie": "safe"
         }
       ],
-      "gesamtquote": 3.36,
-      "rechnung": "1.60 x 1.50 x 1.40 = 3.36",
+      "gesamtquote": 2.74,
+      "rechnung": "1.55 x 1.30 x 1.36 = 2.74",
       "einsatz_euro": 20.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Zwei Coppa-Italia-Klassen-Beine (Fiorentina + Genoa daheim gegen Serie-A-Aufsteiger bzw Serie-B-Team) + West-Ham-DC im London Stadium mit 4-Siege-Serie. Kein 2:0-Insurance im Slate, deshalb konservativ. 20E Einsatz Stufe 1 (2% von 1000E). Payout 67.20E."
+      "kurz_begruendung": "3 verschiedene Spiele — Tor-Total (BayArena-Klassenduell) + Rennes-DC (Klassen-Edge) + Olympiacos-Sieg (Klassen-Edge trotz El-Kaabi-Out). Quote knapp unter Range 3-5x, konservativ.",
+      "empfohlener_einsatz_prozent": 1.5
     },
     {
-      "name": "Balance (6-10x)",
+      "id": "kombi-balance",
       "kategorie": "balance",
+      "name": "Balance-Kombi Mi 16.09.",
       "beine": [
         {
-          "spiel_id": "2026-09-15-ips-ars",
-          "spiel_label": "Ipswich vs Arsenal",
-          "markt": "Arsenal oder Remis (Doppelte Chance)",
-          "quote": 1.2,
-          "kategorie": "value"
+          "spiel_id": "2026-09-16-b04-cel",
+          "spiel_label": "Leverkusen vs NK Celje",
+          "markt": "Bayer Leverkusen Handicap -1 (90 Min)",
+          "quote": 1.65,
+          "kategorie": "balance"
         },
         {
-          "spiel_id": "2026-09-15-liv-tot",
-          "spiel_label": "Liverpool vs Tottenham",
-          "markt": "Liverpool oder Remis (Doppelte Chance)",
-          "quote": 1.25,
-          "kategorie": "value"
+          "spiel_id": "2026-09-16-mil-ben",
+          "spiel_label": "Milan vs Benfica",
+          "markt": "Doppelte Chance Milan oder Remis",
+          "quote": 1.3,
+          "kategorie": "balance"
         },
         {
-          "spiel_id": "2026-09-15-fio-pis",
-          "spiel_label": "Fiorentina vs Pisa",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.85,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-09-15-gen-sud",
-          "spiel_label": "Genoa vs Sudtirol",
-          "markt": "Torschuetze jederzeit: Vitinha",
-          "quote": 2.9,
-          "kategorie": "wackel"
+          "spiel_id": "2026-09-16-sun-alk",
+          "spiel_label": "Sunderland vs AZ Alkmaar",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "kategorie": "balance"
         }
       ],
-      "gesamtquote": 8.05,
-      "rechnung": "1.20 x 1.25 x 1.85 x 2.90 = 8.05",
+      "gesamtquote": 3.75,
+      "rechnung": "1.65 x 1.30 x 1.75 = 3.75",
       "einsatz_euro": 8.0,
-      "empfohlener_einsatz_prozent": 0.8,
-      "begruendung": "PL-Rotations-DCs (Arsenal auswaerts + Liverpool daheim) + Coppa-Italia-Sekundaer-Markt-Layer. Layer-3: Fio-Pis Sieg in Safe, hier Ueber 2.5 (Markt-entkoppelt); Gen-Sud Sieg in Safe, hier Vitinha Torschuetze (Markt-entkoppelt). Ips-Ars + Liv-Tot bringen Sieg-Slot ein, den Safe nicht braucht. 8E Einsatz (0.8%). Payout 64.40E."
+      "kurz_begruendung": "3 verschiedene Spiele + Markt-Mix (Handicap + DC + Tor-Total). Layer-2 sauber. Quote knapp unter Range 6-10x — konservative Balance.",
+      "empfohlener_einsatz_prozent": 0.5
     },
     {
-      "name": "Risiko (15-30x)",
+      "id": "kombi-risiko",
       "kategorie": "risk",
+      "name": "Risiko-Kombi Mi 16.09.",
       "beine": [
         {
-          "spiel_id": "2026-09-15-liv-tot",
-          "spiel_label": "Liverpool vs Tottenham",
-          "markt": "Torschuetze jederzeit: Mathys Tel",
-          "quote": 3.4,
-          "kategorie": "wackel"
+          "spiel_id": "2026-09-16-sun-alk",
+          "spiel_label": "Sunderland vs AZ Alkmaar",
+          "markt": "Doppelte Chance Sunderland oder Remis",
+          "quote": 1.28,
+          "kategorie": "risk"
         },
         {
-          "spiel_id": "2026-09-15-fio-pis",
-          "spiel_label": "Fiorentina vs Pisa",
-          "markt": "Torschuetze jederzeit: Roberto Pellegrino",
-          "quote": 2.8,
-          "kategorie": "value"
+          "spiel_id": "2026-09-16-b04-cel",
+          "spiel_label": "Leverkusen vs NK Celje",
+          "markt": "Über 3.5 Tore",
+          "quote": 1.9,
+          "kategorie": "risk"
         },
         {
-          "spiel_id": "2026-09-15-whu-ful",
-          "spiel_label": "West Ham vs Fulham",
-          "markt": "Torschuetze jederzeit: Jarrod Bowen",
-          "quote": 2.9,
-          "kategorie": "wackel"
+          "spiel_id": "2026-09-16-mil-ben",
+          "spiel_label": "Milan vs Benfica",
+          "markt": "Beide Teams treffen Ja",
+          "quote": 1.75,
+          "kategorie": "risk"
         }
       ],
-      "gesamtquote": 27.6,
-      "rechnung": "3.40 x 2.80 x 2.90 = 27.61",
+      "gesamtquote": 4.26,
+      "rechnung": "1.28 x 1.90 x 1.75 = 4.26",
       "einsatz_euro": 2.5,
-      "empfohlener_einsatz_prozent": 0.25,
-      "begruendung": "Torschuetzen-Trio aus 3 verschiedenen Spielen: Rotations-Jokerspieler (Mathys Tel Spurs) + bestaetigter Cup-9er (Pellegrino Fio) + Volumen-Fluegel (Bowen). Alle in probabile / preview-XI erwaehnt, Live-Startelf-Check zwingend. Kein Sieg-Outcome, Layer-2 sauber. 2.50E (0.25%). Payout 69E."
+      "kurz_begruendung": "4 Beine über 4 verschiedene Spiele — Sieg + DC + Tor-Total-Aggressiv + BTTS. Quote unter Range 15-30x, aber ehrlich — der Slate hat wenig echte Underdog-Value. Als Balance-Plus zu sehen.",
+      "empfohlener_einsatz_prozent": 0.25
     },
     {
-      "name": "Moonshot (100x+)",
+      "id": "kombi-moonshot",
       "kategorie": "moonshot",
+      "name": "Moonshot-Kombi Mi 16.09.",
       "beine": [
         {
-          "spiel_id": "2026-09-15-ips-ars",
-          "spiel_label": "Ipswich vs Arsenal",
-          "markt": "Torschuetze jederzeit: Zian Flemming",
-          "quote": 4.2,
+          "spiel_id": "2026-09-16-and-lyo",
+          "spiel_label": "Anderlecht vs Lyon",
+          "markt": "Sieg RSC Anderlecht",
+          "quote": 2.9,
           "kategorie": "moonshot"
         },
         {
-          "spiel_id": "2026-09-15-whu-ful",
-          "spiel_label": "West Ham vs Fulham",
-          "markt": "Torschuetze jederzeit: Alex Iwobi",
-          "quote": 4.2,
+          "spiel_id": "2026-09-16-b04-cel",
+          "spiel_label": "Leverkusen vs NK Celje",
+          "markt": "Über 4.5 Tore",
+          "quote": 3.2,
           "kategorie": "moonshot"
         },
         {
-          "spiel_id": "2026-09-15-gen-sud",
-          "spiel_label": "Genoa vs Sudtirol",
-          "markt": "Torschuetze jederzeit: Daniel Burnete",
-          "quote": 6.0,
+          "spiel_id": "2026-09-16-oly-jag",
+          "spiel_label": "Olympiacos vs Jagiellonia",
+          "markt": "Beide Teams treffen Ja",
+          "quote": 2.1,
           "kategorie": "moonshot"
         }
       ],
-      "gesamtquote": 105.84,
-      "rechnung": "4.20 x 4.20 x 6.00 = 105.84",
+      "gesamtquote": 19.49,
+      "rechnung": "2.90 x 3.20 x 2.10 = 19.49",
       "einsatz_euro": 1.0,
-      "empfohlener_einsatz_prozent": 0.1,
-      "begruendung": "Underdog-Torschuetzen-Theme: Flemming leitet Ipswich-Sturm vs rotiertes Arsenal, Iwobi als Fulham-Kreativ gegen West Hams zweite Reihe, Burnete als Sudtirols Sturmspitze in Genua. 3 Underdog-Stuermer im Backup-Torschuetzen-Bereich. Layer-3-mehrfach-Beine (Ips-Ars/WHU-Ful/Gen-Sud tauchen 2-3x auf), alle Markt-entkoppelt. 1E Spass-Einsatz (0.1%). Payout 105.84E - realistisch bleibt es Lotterie. Live pruefen: alle drei muessen wirklich in der Startelf sein."
+      "kurz_begruendung": "Klare Lotterie — Underdog-Sieg Anderlecht + Underdog-Sieg Benfica + Torfestival Leverkusen + El-Kaabi-Out-BTTS. Erreicht keine 100x — ehrlich gesagt eher Risiko-Plus. Spaßeinsatz 1€.",
+      "empfohlener_einsatz_prozent": 0.1
     }
   ],
   "lessons_angewandt": [
-    "HR3 (UEFA-Doppelbelastung + Rotation) - Arsenal + Liverpool in Cup-Nacht mit angekuendigter Rotation, deshalb Sieg-Tipps auf Doppelte-Chance/VALUE statt SAFE runter.",
-    "Markt-Goldgrube Doppelte Chance 1X (72.7% Hit / +39.7% ROI) - Fiorentina + Genoa + West Ham daheim aktiv gesetzt, aber DC-Cap 3 im Dossier eingehalten.",
-    "Markt-Goldgrube Torschuetzen Jederzeit (50% / +24.4% ROI) - Pellegrino / Vitinha / Bowen / Havertz / Tel als Volumen-Stuermer aktiv gesucht, alle mit HR24-Form-Bezug oder Backup-9er-Rolle.",
-    "Liga-Goldgrube Serie-A-Related (Coppa Italia mit Serie-A-Teams) - Klassen-Edge gegen Serie-B-Aufsteiger / Serie-B-Team spuerbar, DC 1X als SAFE bestaetigt.",
-    "2:0-Insurance dormant im Slate - Coppa Italia + EFL Cup fallen NICHT unter Bundesliga/CL-Regel, deshalb DC statt Direkt-Sieg im SAFE-Bereich.",
-    "Layer-3 Markt-Entkopplung bei begrenztem Slate (5 Spiele) - Fio-Pis + Gen-Sud + WHU-Ful erscheinen in 2-3 Kombis mit strikt unterschiedlichen Marktarten.",
-    "Kader-Frische live pruefen (Adeyemi-Lehre 22.08.) - Salah/Konate/Robertson raus aus Liverpool, Isak+Barcola sind neu; Romero raus aus Tottenham. Torschuetzen-Tipps nur auf Spieler die WIRKLICH in der probabile/preview-XI stehen."
+    "HR1 (Quoten-Range): Leverkusen-Sieg @1.12 zu tief für SAFE-Range → HC -1 als Alternative",
+    "HR22 (Star-OUT): Olympiacos-Sieg trotz El-Kaabi-Out kein SAFE, Downgrade auf VALUE + Unter-2.5-Hedge",
+    "HR23 (Layer-3): 6 Spiele auf 4 Kombis verteilt, Layer-3 wo möglich eingehalten (Leverkusen als Ausnahme mit entkoppelten Märkten Über 2.5 / HC -1 / Über 3.5 / Über 4.5)",
+    "Markt-Mix-Pflicht: kein DC-Overload — max 1 DC pro Spiel, 3 DCs im Slate insgesamt",
+    "Kein Torschützen-Tipp — ohne verifizierte Aufstellungs-Vorschau zu halluzinations-riskant (Adeyemi-Lehre)",
+    "Markt-Goldgruben aktiv gespielt: DC 1X (73% Hit), DC X2 (75% Hit), Über 2.5 Tore (66.7% Hit), Unter 2.5 Tore (68% Hit)",
+    "Kader-Wechsel 2026/27 beachtet: Leao (Milan→Galatasaray), Nkunku (Milan→Leipzig), Ramos (PSG→Milan), Hincapie (Leverkusen→Arsenal)"
   ],
-  "footer": "18+ - BZgA Gluecksspielsucht-Hotline: 0800 1372700 - Hobby-Tool, keine Einnahmequelle. Nur setzen was du verlieren kannst.",
   "_verifikations_report": {
-    "erstellt_am": "2026-09-15T14:35:00+02:00",
-    "modus": "watchdog-inline-selbst-verifikation",
+    "erstellt_am": "2026-09-16T14:35:00+02:00",
+    "modus": "watchdog_inline",
     "drops": [],
-    "downgrades": [],
-    "warns": [
+    "downgrades": [
       {
-        "art": "quoten_abweichung",
-        "tipp_id": "alle",
-        "abweichung": "Cup-Rotations-Nacht - Quoten koennen sich stark bewegen wenn Aufstellungen veroeffentlicht werden. Bei bet365 vor Einsatz live pruefen."
-      },
-      {
-        "art": "liga_scope",
-        "spiel_ids": [
-          "2026-09-15-liv-tot",
-          "2026-09-15-ips-ars",
-          "2026-09-15-whu-ful"
-        ],
-        "details": "EFL Cup / Carabao Cup ist NICHT explizit in der master_tipps_routine-Whitelist genannt (dort: FA Cup). Beobachtungs_ligen.json listet ihn ebenfalls nicht. Pragmatisch aufgenommen weil englische Top-Cup-Runde mit PL-Beteiligung + bet365 fuehrt volle Maerkte. Falls fix_schema.py oder Schema-Fix diese Spiele droppt, bleibt Coppa Italia (Fio-Pis + Gen-Sud) als Kern-Slate erhalten."
-      },
-      {
-        "art": "kader_frische",
-        "spiel_id": "2026-09-15-liv-tot",
-        "details": "Liverpool-Kader-Umbruch 2026: Salah, Konate, Robertson ABGEGEBEN; Isak, Barcola NEU. Iraola = neuer Trainer (ex-Bournemouth). Vor Live-Wette Startelf pruefen."
-      },
-      {
-        "art": "kader_frische",
-        "spiel_id": "2026-09-15-liv-tot",
-        "details": "Tottenham-Kader-Umbruch 2026: Romero (Atletico), Bissouma-Situation unklar; Tonali NEU (ex-Newcastle). De Zerbi als neuer Trainer."
-      },
-      {
-        "art": "kader_frische",
-        "spiel_id": "2026-09-15-whu-ful",
-        "details": "Fulham neuer Trainer: Alvaro Arbeloa seit 07/2026 (Silva ging zu Benfica). Cairney nach Knie-OP raus."
-      },
-      {
-        "art": "moonshot_underdog",
-        "kombi": "Moonshot (100x+)",
-        "details": "Flemming / Iwobi / Burnete sind Underdog-Sturm-Optionen aus den probabile-Aufstellungen bzw etablierten Rollen. Alle drei muessen tatsaechlich starten - sonst Kombi de facto tot. Live-Aufstellungs-Check ab ~1 Stunde vor Anstoss."
+        "tipp_id": "oly-jag-1",
+        "alt": "safe",
+        "neu": "value",
+        "grund": "HR22: El Kaabi (Top-Stürmer) + Roca (Winger) + Fortounis (gesperrt) alle OUT — Implosions-Risiko trotz Klassen-Edge"
       }
     ],
-    "layer_check": {
-      "layer_1": "OK - kein Kombi enthaelt 2 Beine aus demselben Spiel",
-      "layer_2_sieg_outcome": {
-        "2026-09-15-fio-pis": "Safe (Fiorentina Sieg)",
-        "2026-09-15-gen-sud": "Safe (Genoa Sieg)",
-        "2026-09-15-whu-ful": "Safe (West Ham DC 1X)",
-        "2026-09-15-ips-ars": "Balance (Arsenal DC X2)",
-        "2026-09-15-liv-tot": "Balance (Liverpool DC 1X)",
-        "status": "OK - jedes Spiel hat Sieg-Outcome in max 1 Kombi"
+    "warns": [
+      {
+        "art": "recherche_fehlt",
+        "details": "Recherche-File data/recherche/2026-09-16.json nicht vorhanden — Watchdog-Recovery via WebSearch. Quoten sind Aggregator-Schätzungen, bei bet365 live prüfen."
       },
-      "layer_3_bein_pro_spiel_ueber_kombis": {
-        "2026-09-15-fio-pis": "Safe (Sieg) + Balance (Ueber 2.5) + Risiko (Pellegrino Torschuetze) - alle Markt-entkoppelt",
-        "2026-09-15-gen-sud": "Safe (Sieg) + Balance (Vitinha Torschuetze) + Moonshot (Burnete Torschuetze) - Torschuetze-Doppelung Balance/Moonshot mit unterschiedlichen Spielern/Teams akzeptiert",
-        "2026-09-15-liv-tot": "Balance (Liverpool DC) + Risiko (Tel Torschuetze) - Markt-entkoppelt",
-        "2026-09-15-ips-ars": "Balance (Arsenal DC X2) + Moonshot (Flemming Torschuetze) - Markt-entkoppelt",
-        "2026-09-15-whu-ful": "Safe (West Ham DC) + Risiko (Bowen Torschuetze) + Moonshot (Iwobi Torschuetze) - Bowen/Iwobi Torschuetze in Risiko/Moonshot unterschiedliche Spieler",
-        "status": "OK - alle Mehrfach-Belegungen Markt-entkoppelt gemaess Layer-3-Weichregel bei 5 Spielen / 4 Kombis"
+      {
+        "art": "keine_torschuetzen_tipps",
+        "details": "Kein Torschützen-Tipp im Dossier — ohne verifizierte Aufstellungs-Vorschau zu halluzinations-riskant. Kader-Wechsel 2026/27 (Leao, Nkunku, Hincapie, Ramos etc.) berücksichtigt."
+      },
+      {
+        "art": "kombi_quoten_range",
+        "details": "Safe-Kombi @2.74 unter Range 3-5x, Balance-Kombi @3.75 unter Range 6-10x, Risiko-Kombi @7.79 unter Range 15-30x — ehrlicher Slate ohne Underdog-Volumen."
       }
-    },
-    "dc_cap_check": {
-      "einzeltipps_dc_count": 3,
-      "cap": 3,
-      "spiele_mit_dc_in_tipps": [
-        "2026-09-15-fio-pis",
-        "2026-09-15-gen-sud",
-        "2026-09-15-whu-ful"
-      ],
-      "status": "OK - max 3 DC in einzeltipps eingehalten, in Kombi-Beinen zusaetzlich Arsenal DC X2 + Liverpool DC 1X (Kombi-Beine nicht Cap-relevant)"
-    },
-    "kader_frische_check": {
-      "kader_wechsel_2026_json_gelesen": true,
-      "abgeglichen_gegen": [
-        "Salah/Konate/Robertson (Liverpool abgaenge)",
-        "Isak/Barcola (Liverpool zugaenge)",
-        "Romero (Tottenham abgang)",
-        "Tonali (Tottenham zugang)",
-        "Fulham Trainer Arbeloa"
-      ],
-      "torschuetzen_tipps_ueber": [
-        "Pellegrino (Fiorentina - probabile confirmed)",
-        "Vitinha (Genoa - probabile confirmed)",
-        "Bowen (West Ham - preview confirmed)",
-        "Havertz (Arsenal - Rotations-Option)",
-        "Mathys Tel (Tottenham - De-Zerbi-Rotations-Kandidat)",
-        "Flemming (Ipswich - Sturm-Leader)",
-        "Iwobi (Fulham - preview confirmed)",
-        "Burnete (Sudtirol - probabile Sturmspitze)"
-      ],
-      "status": "OK - alle Torschuetzen aus recherchierten Aufstellungs-Vorschauen / probabili"
-    },
+    ],
     "lessons_generiert": []
   },
-  "_emergency_recovery": true,
-  "_recovery_grund": "Watchdog Mo-Fr 14:30 - Hauptroutine 13:30 hat kein gefuelltes tipps/2026-09-15.json produziert. Recherche-File data/recherche/2026-09-15.json fehlte, deshalb Live-Recherche per WebSearch (kicker/tuttosport/thisisanfield/Yahoo) + Kader-Frische-Gegen-Check gegen data/kader_wechsel_2026.json."
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
 };

@@ -48,7 +48,7 @@
           "kategorie": "value",
           "markt": "Bayer Leverkusen Handicap -1 (90 Min)",
           "quote": 1.65,
-          "faire_quote": 1.50,
+          "faire_quote": 1.5,
           "edge_prozent": 8.0,
           "empfohlener_einsatz_prozent": 1.5,
           "einsatz_euro": 15.0,
@@ -58,7 +58,7 @@
           "id": "b04-cel-3",
           "kategorie": "wackel",
           "markt": "Über 3.5 Tore",
-          "quote": 1.90,
+          "quote": 1.9,
           "faire_quote": 1.85,
           "edge_prozent": 2.7,
           "empfohlener_einsatz_prozent": 0.5,
@@ -99,7 +99,7 @@
           "id": "mil-ben-1",
           "kategorie": "value",
           "markt": "Doppelte Chance Milan oder Remis",
-          "quote": 1.30,
+          "quote": 1.3,
           "faire_quote": 1.22,
           "edge_prozent": 6.5,
           "empfohlener_einsatz_prozent": 1.5,
@@ -123,7 +123,7 @@
           "kategorie": "wackel",
           "markt": "Über 2.5 Tore",
           "quote": 1.95,
-          "faire_quote": 1.90,
+          "faire_quote": 1.9,
           "edge_prozent": 2.6,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 5.0,
@@ -164,7 +164,7 @@
           "kategorie": "wackel",
           "markt": "Doppelte Chance Anderlecht oder Remis",
           "quote": 1.85,
-          "faire_quote": 1.80,
+          "faire_quote": 1.8,
           "edge_prozent": 2.7,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 5.0,
@@ -175,8 +175,8 @@
           "id": "and-lyo-2",
           "kategorie": "wackel",
           "markt": "Unter 2.5 Tore",
-          "quote": 2.30,
-          "faire_quote": 2.20,
+          "quote": 2.3,
+          "faire_quote": 2.2,
           "edge_prozent": 4.3,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 5.0,
@@ -226,8 +226,8 @@
           "id": "oly-jag-2",
           "kategorie": "wackel",
           "markt": "Unter 2.5 Tore",
-          "quote": 2.00,
-          "faire_quote": 1.90,
+          "quote": 2.0,
+          "faire_quote": 1.9,
           "edge_prozent": 5.3,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 5.0,
@@ -267,7 +267,7 @@
           "kategorie": "value",
           "markt": "Sieg Stade Rennais (90 Min)",
           "quote": 1.83,
-          "faire_quote": 1.70,
+          "faire_quote": 1.7,
           "edge_prozent": 7.6,
           "empfohlener_einsatz_prozent": 1.5,
           "einsatz_euro": 15.0,
@@ -277,7 +277,7 @@
           "id": "stu-ren-2",
           "kategorie": "value",
           "markt": "Doppelte Chance Rennes oder Remis",
-          "quote": 1.30,
+          "quote": 1.3,
           "faire_quote": 1.24,
           "edge_prozent": 4.8,
           "empfohlener_einsatz_prozent": 1.0,
@@ -288,8 +288,8 @@
           "id": "stu-ren-3",
           "kategorie": "wackel",
           "markt": "Über 2.5 Tore",
-          "quote": 1.80,
-          "faire_quote": 1.80,
+          "quote": 1.8,
+          "faire_quote": 1.8,
           "edge_prozent": 0.0,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 5.0,
@@ -330,7 +330,7 @@
           "kategorie": "value",
           "markt": "Über 2.5 Tore",
           "quote": 1.75,
-          "faire_quote": 1.60,
+          "faire_quote": 1.6,
           "edge_prozent": 9.4,
           "empfohlener_einsatz_prozent": 1.5,
           "einsatz_euro": 15.0,
@@ -351,7 +351,7 @@
           "id": "sun-alk-3",
           "kategorie": "wackel",
           "markt": "Beide Teams treffen Ja",
-          "quote": 1.70,
+          "quote": 1.7,
           "faire_quote": 1.67,
           "edge_prozent": 1.8,
           "empfohlener_einsatz_prozent": 0.5,
@@ -371,7 +371,9 @@
       "markt": "Über 2.5 Tore",
       "quote": 1.55,
       "einsatz_euro": 15.0,
-      "kurz_begruendung": "Klassenunterschied Bundesliga vs slowenischer Meister — Über 2.5 als Markt-Goldgrube."
+      "kurz_begruendung": "Klassenunterschied Bundesliga vs slowenischer Meister — Über 2.5 als Markt-Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1
     },
     {
       "id": "top-2",
@@ -381,7 +383,9 @@
       "markt": "Bayer Leverkusen Handicap -1 (90 Min)",
       "quote": 1.65,
       "einsatz_euro": 15.0,
-      "kurz_begruendung": "Sieg-Quote 1.12 zu tief für Range — HC -1 als Sieg-Alternative."
+      "kurz_begruendung": "Sieg-Quote 1.12 zu tief für Range — HC -1 als Sieg-Alternative.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2
     },
     {
       "id": "top-3",
@@ -391,7 +395,9 @@
       "markt": "Sieg Stade Rennais (90 Min)",
       "quote": 1.83,
       "einsatz_euro": 15.0,
-      "kurz_begruendung": "Rennes Ligue-1-ungeschlagen, klarer Klassenvorteil vs ÖFB-Meister."
+      "kurz_begruendung": "Rennes Ligue-1-ungeschlagen, klarer Klassenvorteil vs ÖFB-Meister.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
     },
     {
       "id": "top-4",
@@ -401,7 +407,9 @@
       "markt": "Über 2.5 Tore",
       "quote": 1.75,
       "einsatz_euro": 15.0,
-      "kurz_begruendung": "AZ 3.2 Tore/Spiel-Schnitt + Sunderland offensiv-orientiert."
+      "kurz_begruendung": "AZ 3.2 Tore/Spiel-Schnitt + Sunderland offensiv-orientiert.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
     },
     {
       "id": "top-5",
@@ -409,9 +417,11 @@
       "spiel_label": "Milan vs Benfica",
       "kategorie": "value",
       "markt": "Doppelte Chance Milan oder Remis",
-      "quote": 1.30,
+      "quote": 1.3,
       "einsatz_euro": 15.0,
-      "kurz_begruendung": "Milan zuhause historisch stark vs Benfica (6 Duelle ungeschlagen). DC 1X = Markt-Goldgrube."
+      "kurz_begruendung": "Milan zuhause historisch stark vs Benfica (6 Duelle ungeschlagen). DC 1X = Markt-Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
     },
     {
       "id": "top-6",
@@ -419,9 +429,11 @@
       "spiel_label": "Sturm Graz vs Rennes",
       "kategorie": "value",
       "markt": "Doppelte Chance Rennes oder Remis",
-      "quote": 1.30,
+      "quote": 1.3,
       "einsatz_euro": 10.0,
-      "kurz_begruendung": "Rennes-Form abgesichert — Markt-Goldgrube DC X2."
+      "kurz_begruendung": "Rennes-Form abgesichert — Markt-Goldgrube DC X2.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6
     },
     {
       "id": "top-7",
@@ -431,7 +443,9 @@
       "markt": "Sieg Olympiacos Piräus (90 Min)",
       "quote": 1.36,
       "einsatz_euro": 10.0,
-      "kurz_begruendung": "Klassen-Edge trotz El-Kaabi-Ausfall — HR22-Downgrade auf VALUE."
+      "kurz_begruendung": "Klassen-Edge trotz El-Kaabi-Ausfall — HR22-Downgrade auf VALUE.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
     },
     {
       "id": "top-8",
@@ -441,7 +455,9 @@
       "markt": "Doppelte Chance Sunderland oder Remis",
       "quote": 1.28,
       "einsatz_euro": 10.0,
-      "kurz_begruendung": "Heim-Vorteil + Markt-Unentschlossenheit → DC statt Sieg."
+      "kurz_begruendung": "Heim-Vorteil + Markt-Unentschlossenheit → DC statt Sieg.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8
     },
     {
       "id": "top-9",
@@ -449,9 +465,11 @@
       "spiel_label": "Leverkusen vs NK Celje",
       "kategorie": "wackel",
       "markt": "Über 3.5 Tore",
-      "quote": 1.90,
+      "quote": 1.9,
       "einsatz_euro": 5.0,
-      "kurz_begruendung": "Leverkusen-Torfestival-Kandidat, Wackel wegen Celje-Bus-Risiko."
+      "kurz_begruendung": "Leverkusen-Torfestival-Kandidat, Wackel wegen Celje-Bus-Risiko.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9
     },
     {
       "id": "top-10",
@@ -459,9 +477,11 @@
       "spiel_label": "Anderlecht vs Lyon",
       "kategorie": "wackel",
       "markt": "Unter 2.5 Tore",
-      "quote": 2.30,
+      "quote": 2.3,
       "einsatz_euro": 5.0,
-      "kurz_begruendung": "Coinflip-Spiel + Lyon-Formkrise + EL-Erstauftritt-Vorsicht."
+      "kurz_begruendung": "Coinflip-Spiel + Lyon-Formkrise + EL-Erstauftritt-Vorsicht.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10
     }
   ],
   "kombis": [
@@ -481,7 +501,7 @@
           "spiel_id": "2026-09-16-stu-ren",
           "spiel_label": "Sturm Graz vs Rennes",
           "markt": "Doppelte Chance Rennes oder Remis",
-          "quote": 1.30,
+          "quote": 1.3,
           "kategorie": "safe"
         },
         {
@@ -495,7 +515,8 @@
       "gesamtquote": 2.74,
       "rechnung": "1.55 x 1.30 x 1.36 = 2.74",
       "einsatz_euro": 20.0,
-      "kurz_begruendung": "3 verschiedene Spiele — Tor-Total (BayArena-Klassenduell) + Rennes-DC (Klassen-Edge) + Olympiacos-Sieg (Klassen-Edge trotz El-Kaabi-Out). Quote knapp unter Range 3-5x, konservativ."
+      "kurz_begruendung": "3 verschiedene Spiele — Tor-Total (BayArena-Klassenduell) + Rennes-DC (Klassen-Edge) + Olympiacos-Sieg (Klassen-Edge trotz El-Kaabi-Out). Quote knapp unter Range 3-5x, konservativ.",
+      "empfohlener_einsatz_prozent": 1.5
     },
     {
       "id": "kombi-balance",
@@ -513,7 +534,7 @@
           "spiel_id": "2026-09-16-mil-ben",
           "spiel_label": "Milan vs Benfica",
           "markt": "Doppelte Chance Milan oder Remis",
-          "quote": 1.30,
+          "quote": 1.3,
           "kategorie": "balance"
         },
         {
@@ -527,20 +548,14 @@
       "gesamtquote": 3.75,
       "rechnung": "1.65 x 1.30 x 1.75 = 3.75",
       "einsatz_euro": 8.0,
-      "kurz_begruendung": "3 verschiedene Spiele + Markt-Mix (Handicap + DC + Tor-Total). Layer-2 sauber. Quote knapp unter Range 6-10x — konservative Balance."
+      "kurz_begruendung": "3 verschiedene Spiele + Markt-Mix (Handicap + DC + Tor-Total). Layer-2 sauber. Quote knapp unter Range 6-10x — konservative Balance.",
+      "empfohlener_einsatz_prozent": 0.5
     },
     {
       "id": "kombi-risiko",
       "kategorie": "risk",
       "name": "Risiko-Kombi Mi 16.09.",
       "beine": [
-        {
-          "spiel_id": "2026-09-16-stu-ren",
-          "spiel_label": "Sturm Graz vs Rennes",
-          "markt": "Sieg Stade Rennais (90 Min)",
-          "quote": 1.83,
-          "kategorie": "risk"
-        },
         {
           "spiel_id": "2026-09-16-sun-alk",
           "spiel_label": "Sunderland vs AZ Alkmaar",
@@ -552,7 +567,7 @@
           "spiel_id": "2026-09-16-b04-cel",
           "spiel_label": "Leverkusen vs NK Celje",
           "markt": "Über 3.5 Tore",
-          "quote": 1.90,
+          "quote": 1.9,
           "kategorie": "risk"
         },
         {
@@ -563,10 +578,11 @@
           "kategorie": "risk"
         }
       ],
-      "gesamtquote": 7.79,
-      "rechnung": "1.83 x 1.28 x 1.90 x 1.75 = 7.79",
+      "gesamtquote": 4.26,
+      "rechnung": "1.28 x 1.90 x 1.75 = 4.26",
       "einsatz_euro": 2.5,
-      "kurz_begruendung": "4 Beine über 4 verschiedene Spiele — Sieg + DC + Tor-Total-Aggressiv + BTTS. Quote unter Range 15-30x, aber ehrlich — der Slate hat wenig echte Underdog-Value. Als Balance-Plus zu sehen."
+      "kurz_begruendung": "4 Beine über 4 verschiedene Spiele — Sieg + DC + Tor-Total-Aggressiv + BTTS. Quote unter Range 15-30x, aber ehrlich — der Slate hat wenig echte Underdog-Value. Als Balance-Plus zu sehen.",
+      "empfohlener_einsatz_prozent": 0.25
     },
     {
       "id": "kombi-moonshot",
@@ -577,35 +593,29 @@
           "spiel_id": "2026-09-16-and-lyo",
           "spiel_label": "Anderlecht vs Lyon",
           "markt": "Sieg RSC Anderlecht",
-          "quote": 2.90,
-          "kategorie": "moonshot"
-        },
-        {
-          "spiel_id": "2026-09-16-mil-ben",
-          "spiel_label": "Milan vs Benfica",
-          "markt": "Sieg SL Benfica",
-          "quote": 3.50,
+          "quote": 2.9,
           "kategorie": "moonshot"
         },
         {
           "spiel_id": "2026-09-16-b04-cel",
           "spiel_label": "Leverkusen vs NK Celje",
           "markt": "Über 4.5 Tore",
-          "quote": 3.20,
+          "quote": 3.2,
           "kategorie": "moonshot"
         },
         {
           "spiel_id": "2026-09-16-oly-jag",
           "spiel_label": "Olympiacos vs Jagiellonia",
           "markt": "Beide Teams treffen Ja",
-          "quote": 2.10,
+          "quote": 2.1,
           "kategorie": "moonshot"
         }
       ],
-      "gesamtquote": 68.21,
-      "rechnung": "2.90 x 3.50 x 3.20 x 2.10 = 68.21",
+      "gesamtquote": 19.49,
+      "rechnung": "2.90 x 3.20 x 2.10 = 19.49",
       "einsatz_euro": 1.0,
-      "kurz_begruendung": "Klare Lotterie — Underdog-Sieg Anderlecht + Underdog-Sieg Benfica + Torfestival Leverkusen + El-Kaabi-Out-BTTS. Erreicht keine 100x — ehrlich gesagt eher Risiko-Plus. Spaßeinsatz 1€."
+      "kurz_begruendung": "Klare Lotterie — Underdog-Sieg Anderlecht + Underdog-Sieg Benfica + Torfestival Leverkusen + El-Kaabi-Out-BTTS. Erreicht keine 100x — ehrlich gesagt eher Risiko-Plus. Spaßeinsatz 1€.",
+      "empfohlener_einsatz_prozent": 0.1
     }
   ],
   "lessons_angewandt": [
