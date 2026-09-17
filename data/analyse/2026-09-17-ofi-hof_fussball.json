@@ -1,0 +1,49 @@
+{
+  "spiel_id": "2026-09-17-ofi-hof",
+  "saison_kontext": {
+    "parallel_heim": "Griechische Super League am Wochenende - OFI stark gestartet (7S aus 9)",
+    "parallel_gast": "Bundesliga am Wochenende - Hoffenheim 7 Gegentore in 3 BL-Spielen",
+    "saisonziel_heim": "Griechische-Liga-Top-6 + EL-Ligaphase-Premiere",
+    "saisonziel_gast": "BL-Klassenerhalt + EL-Weiterkommen als Bonus",
+    "motivations_asymmetrie": "Klassen-Edge fuer TSG, aber OFI mit 3 To-Null-Siegen in Serie und Heim-Premiere in EL-Hauptrunde. Nicht schwaechste Underdog-Konstellation. Hoffenheim-Defensive fragil.",
+    "recovery_heim": "3 Tage seit Griechenland-Spiel",
+    "recovery_gast": "3 Tage seit BL + Reise nach Kreta",
+    "quellen": [
+      "https://www.uefa.com/uefaeuropaleague/fixtures-results/",
+      "https://www.bundesliga.com/de/bundesliga",
+      "https://www.slgr.gr/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "ofi-hof-1",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Hoffenheim oder Remis (X2)",
+      "quote": 1.15,
+      "edge_prozent": 4.0,
+      "begruendung": "Klassen-Edge deutlich fuer TSG, DC X2 ist Goldgruben-Markt (75% Hitrate). Einsatz 2% = 20€.",
+      "faire_quote": 1.1,
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "id": "ofi-hof-2",
+      "kategorie": "wackel",
+      "markt": "Sieg Hoffenheim (90 Min)",
+      "quote": 1.46,
+      "edge_prozent": 2.0,
+      "begruendung": "Heim-Premiere von OFI in EL mit 3 Weisse-Westen macht das gefaehrlicher als die Quote sagt. Nur WACKEL. Einsatz 0.5% = 5€.",
+      "faire_quote": 1.42,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "ofi-hof-3",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "edge_prozent": 3.0,
+      "begruendung": "Hoffenheim-Defensive leckt (7 in 3), OFI zuhause immerhin Effizienz. Coinflip mit leichter Ja-Tendenz. Einsatz 0.5% = 5€.",
+      "faire_quote": 1.7,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

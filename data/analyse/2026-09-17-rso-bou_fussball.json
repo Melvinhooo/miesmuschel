@@ -1,0 +1,49 @@
+{
+  "spiel_id": "2026-09-17-rso-bou",
+  "saison_kontext": {
+    "parallel_heim": "LaLiga am Wochenende - Sociedad Platz 12 (2S aus 6), zuletzt 0:3 gg. Atletico daheim",
+    "parallel_gast": "Premier League am Wochenende - Bournemouth ohne PL-Sieg (2U/1N)",
+    "saisonziel_heim": "LaLiga-Europa-Ambition + EL-Weiterkommen",
+    "saisonziel_gast": "PL-Klassenerhalt + EL-Debuet (erste Europa-Teilnahme in Klub-Historie)",
+    "motivations_asymmetrie": "Beide in Form-Kruemel. Sociedad zuhause seit 17 Pflichtspielen ohne Zu-Null - klarer BTTS-Trigger. Coinflip mit leichtem Heim-Bonus.",
+    "recovery_heim": "3 Tage seit LaLiga-Pleite gg. Atletico",
+    "recovery_gast": "3 Tage seit PL + Reise nach Spanien",
+    "quellen": [
+      "https://www.uefa.com/uefaeuropaleague/fixtures-results/",
+      "https://www.laliga.com/en-GB",
+      "https://www.premierleague.com/fixtures"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "rso-bou-1",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.6,
+      "edge_prozent": 6.0,
+      "begruendung": "Sociedad-Defense zu Null-los seit 17 Spielen, Bournemouth offensiv immer da. Klarer Value auf BTTS Ja. Einsatz 2% = 20€.",
+      "faire_quote": 1.5,
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "id": "rso-bou-2",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.77,
+      "edge_prozent": 5.0,
+      "begruendung": "Beide Defensen leckend, offensiv okay. Goldgruben-Markt Ueber 2.5. Einsatz 1.5% = 15€.",
+      "faire_quote": 1.68,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "rso-bou-3",
+      "kategorie": "wackel",
+      "markt": "Doppelte Chance Sociedad oder Remis (1X)",
+      "quote": 1.6,
+      "edge_prozent": 2.0,
+      "begruendung": "Heimvorteil + Bournemouth-EL-Debuet, aber Sociedad-Form gruselig. Nur WACKEL. Einsatz 0.5% = 5€.",
+      "faire_quote": 1.55,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

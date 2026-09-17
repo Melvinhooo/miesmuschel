@@ -1,0 +1,59 @@
+{
+  "spiel_id": "2026-09-17-juv-nec",
+  "saison_kontext": {
+    "parallel_heim": "Serie A Spieltag 5 am Wochenende danach - Juve mit vollem Kader-Fokus auf EL-Auftakt",
+    "parallel_gast": "Eredivisie am Wochenende + weite Reise nach Turin",
+    "saisonziel_heim": "Scudetto-Kandidatur + EL-Titel als realistisches Ziel",
+    "saisonziel_gast": "EL-Weiterkommen (Top 24 fuer Ligaphase-Weiterkommen) als Ueberraschungs-Ziel, kleiner Etat",
+    "motivations_asymmetrie": "Klarer Klassen-Unterschied. Juve-Heim gegen Eredivisie-Mittelklasse ist historisch dominant, aber Auftakt-Charakter und die Quote 1.20 lassen nur VALUE zu.",
+    "recovery_heim": "3 Tage nach Serie A g4",
+    "recovery_gast": "3 Tage nach Eredivisie-Spiel, weite Reise",
+    "quellen": [
+      "https://www.uefa.com/uefaeuropaleague/fixtures-results/",
+      "https://www.legaseriea.it/en",
+      "https://www.eredivisie.nl/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "juv-nec-1",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance Juventus oder Remis (1X)",
+      "quote": 1.05,
+      "edge_prozent": 3.0,
+      "begruendung": "Klassen-Gefaelle deutlich, Juve zuhause + EL-Auftakt-Motivation. DC 1X ist Goldgruben-Markt (72.7% Hitrate, +39.7% ROI). Einsatz 1.5% = 15€.",
+      "faire_quote": 1.02,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "juv-nec-2",
+      "kategorie": "value",
+      "markt": "Sieg Juventus (90 Min)",
+      "quote": 1.2,
+      "edge_prozent": 5.0,
+      "begruendung": "Massive Klasse zuhause, NEC-Form schwach (1 Sieg aus 6). Aber Auftakt + Quote nur 1.20 -> max VALUE. Einsatz 1.5% = 15€.",
+      "faire_quote": 1.14,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "juv-nec-3",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "edge_prozent": 6.0,
+      "begruendung": "Juve-Heim gegen defensiv-fragile Ligaphase-Newcomer - typisches 3:0/3:1 Setup. Goldgrube (+23.3% ROI). Einsatz 1.5% = 15€.",
+      "faire_quote": 1.65,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "juv-nec-4",
+      "kategorie": "wackel",
+      "markt": "Handicap -1 Juventus",
+      "quote": 1.85,
+      "edge_prozent": 4.0,
+      "begruendung": "Bei so klarer Favoritenrolle ist Handicap -1 der value-nahe Hebel. Einsatz 0.5% = 5€.",
+      "faire_quote": 1.75,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

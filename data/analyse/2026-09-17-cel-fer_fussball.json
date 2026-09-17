@@ -1,0 +1,49 @@
+{
+  "spiel_id": "2026-09-17-cel-fer",
+  "saison_kontext": {
+    "parallel_heim": "Scottish Premiership am Wochenende - Celtic Tabellenfuehrer, aber Wochenend-Aufregung nach 0:3 im Old Firm im Ligapokal",
+    "parallel_gast": "Ungarische NB1 am Wochenende + Reise",
+    "saisonziel_heim": "Titel Scottish Premiership + EL-Achtelfinale-Play-off",
+    "saisonziel_gast": "Ungarischer Titel + EL-Weiterkommen (Top 24)",
+    "motivations_asymmetrie": "Celtic zuhause historisch fest (11 Siege in Folge zuhause vor der Ligapokal-Pleite). Ferencvaros aber Qualifiaktions-Champion mit 5:0 vs Trabzonspor - klar staerker als Auslosungs-Quote suggeriert.",
+    "recovery_heim": "3 Tage seit Ligapokal-0:3 gegen Rangers - Motivations-Reaktion erwartbar",
+    "recovery_gast": "3 Tage nach NB1 + Reise nach Glasgow",
+    "quellen": [
+      "https://www.uefa.com/uefaeuropaleague/fixtures-results/",
+      "https://spfl.co.uk/",
+      "https://mlsz.hu/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "cel-fer-1",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Celtic oder Remis (1X)",
+      "quote": 1.22,
+      "edge_prozent": 4.0,
+      "begruendung": "Heim-Bollwerk Celtic vs solide Fradi. DC 1X ist Goldgruben-Markt. Einsatz 1.5% = 15€.",
+      "faire_quote": 1.17,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "cel-fer-2",
+      "kategorie": "value",
+      "markt": "Sieg Celtic (90 Min)",
+      "quote": 1.73,
+      "edge_prozent": 5.0,
+      "begruendung": "Reaktions-Match nach Rangers-Pleite, Heim-Serie hoch. Einsatz 1.5% = 15€.",
+      "faire_quote": 1.64,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "cel-fer-3",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen",
+      "quote": 1.6,
+      "edge_prozent": 3.0,
+      "begruendung": "Fradi offensiv unangenehm, Celtic will klotzen. Coinflip mit Tendenz Ja. Einsatz 0.5% = 5€.",
+      "faire_quote": 1.55,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

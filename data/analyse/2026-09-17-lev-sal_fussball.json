@@ -1,0 +1,49 @@
+{
+  "spiel_id": "2026-09-17-lev-sal",
+  "saison_kontext": {
+    "parallel_heim": "Bulgarische Erste Profi-Liga am Wochenende - Levski nach CL-Play-off-Aus (0:1 gg. AEK Athen) frisch motiviert",
+    "parallel_gast": "Oesterreichische Bundesliga am Wochenende - Salzburg im Form-Hoch",
+    "saisonziel_heim": "Bulgarischer Titel + EL-Weiterkommen als riesige Chance",
+    "saisonziel_gast": "OeBL-Titel + EL-Achtelfinale",
+    "motivations_asymmetrie": "Salzburg klassen-hoeher und in Torlaune (17 Tore in 6 Spielen). Levski aber zuhause defensiv sehr solide (3 To-Null in EL-Hauptrunde-Quali).",
+    "recovery_heim": "3 Tage seit Liga-Spiel",
+    "recovery_gast": "3 Tage seit OeBL + Reise nach Sofia",
+    "quellen": [
+      "https://www.uefa.com/uefaeuropaleague/fixtures-results/",
+      "https://www.bundesliga.at/",
+      "https://pfl.bg/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "lev-sal-1",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Salzburg oder Remis (X2)",
+      "quote": 1.28,
+      "edge_prozent": 4.0,
+      "begruendung": "Klassen-Edge Salzburg + DC X2 = Goldgruben-Markt. Einsatz 1.5% = 15€.",
+      "faire_quote": 1.22,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "lev-sal-2",
+      "kategorie": "wackel",
+      "markt": "Sieg Salzburg (90 Min)",
+      "quote": 1.9,
+      "edge_prozent": 3.0,
+      "begruendung": "Form + Klasse fuer Salzburg, aber Levski-Heim-Defensive knallhart. Nur WACKEL. Einsatz 0.5% = 5€.",
+      "faire_quote": 1.85,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "lev-sal-3",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.9,
+      "edge_prozent": 2.0,
+      "begruendung": "Salzburg offensiv-Motor, Levski defensiv-stark. Coinflip. Einsatz 0.5% = 5€.",
+      "faire_quote": 1.85,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

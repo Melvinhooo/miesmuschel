@@ -1,0 +1,39 @@
+{
+  "spiel_id": "2026-09-17-plz-usg",
+  "saison_kontext": {
+    "parallel_heim": "Tschechische Liga am Wochenende",
+    "parallel_gast": "Belgische Pro League am Wochenende + Reise",
+    "saisonziel_heim": "Tschechischer Titel + EL-Weiterkommen",
+    "saisonziel_gast": "Belgischer Titel-Angriff + EL-Achtelfinale",
+    "motivations_asymmetrie": "Beide Teams im Form-Hoch: Plzen 5:1-Comeback vs Crvena Zvezda, Union unbesiegt in 5. Klassisches Coinflip-Spiel.",
+    "recovery_heim": "3 Tage seit Liga-Spiel",
+    "recovery_gast": "3 Tage seit Pro League + Reise",
+    "quellen": [
+      "https://www.uefa.com/uefaeuropaleague/fixtures-results/",
+      "https://www.fortunaliga.cz/",
+      "https://www.proleague.be/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "plz-usg-1",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen",
+      "quote": 1.6,
+      "edge_prozent": 3.0,
+      "begruendung": "Beide offensiv-orientiert und in Form. Coinflip-Spiel, defensive Absicherung schwer. Einsatz 0.5% = 5€.",
+      "faire_quote": 1.55,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "plz-usg-2",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.85,
+      "edge_prozent": 2.0,
+      "begruendung": "Zwei offensive Teams treffen zuhause. Aber Auftakt-Nervositaet moeglich. Einsatz 0.5% = 5€.",
+      "faire_quote": 1.8,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

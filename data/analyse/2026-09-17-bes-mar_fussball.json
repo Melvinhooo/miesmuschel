@@ -1,0 +1,49 @@
+{
+  "spiel_id": "2026-09-17-bes-mar",
+  "saison_kontext": {
+    "parallel_heim": "Sueper Lig am Wochenende - Besiktas Platz 2 (12 Pkt aus 5)",
+    "parallel_gast": "Ligue 1 am Wochenende - Marseille auf 3 Pleiten-Serie",
+    "saisonziel_heim": "Sueper-Lig-Titel + EL-Weiterkommen",
+    "saisonziel_gast": "Ligue-1-Podium + EL-Titel als Ziel, aber Krise akut",
+    "motivations_asymmetrie": "Besiktas heiss und im Form-Hoch, Marseille im Formtief mit 3 Pleiten in Folge. Klarer Motivations-Edge fuer die Tuerken.",
+    "recovery_heim": "3 Tage seit Sueper-Lig-Spiel",
+    "recovery_gast": "3 Tage seit Ligue-1-Pleite + Reise nach Istanbul",
+    "quellen": [
+      "https://www.uefa.com/uefaeuropaleague/fixtures-results/",
+      "https://www.tff.org/",
+      "https://www.ligue1.com/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "bes-mar-1",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Besiktas oder Remis (1X)",
+      "quote": 1.3,
+      "edge_prozent": 5.0,
+      "begruendung": "Heim-Vorteil + Form-Edge klar bei Besiktas, Marseille in Krise. DC 1X = Goldgruben-Markt. Einsatz 1.5% = 15€.",
+      "faire_quote": 1.24,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "bes-mar-2",
+      "kategorie": "value",
+      "markt": "Sieg Besiktas (90 Min)",
+      "quote": 1.85,
+      "edge_prozent": 7.0,
+      "begruendung": "Form-Asymmetrie: Besiktas Hoch, Marseille 3 Pleiten. Zuhause klarer Wert. Einsatz 1.5% = 15€.",
+      "faire_quote": 1.73,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "bes-mar-3",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen",
+      "quote": 1.65,
+      "edge_prozent": 3.0,
+      "begruendung": "Marseille offensiv okay auch in Krise, Besiktas offensiv-orientiert. Solide Coinflip-Wette. Einsatz 0.5% = 5€.",
+      "faire_quote": 1.6,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

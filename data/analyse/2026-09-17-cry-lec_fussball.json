@@ -1,0 +1,49 @@
+{
+  "spiel_id": "2026-09-17-cry-lec",
+  "saison_kontext": {
+    "parallel_heim": "Premier League Spieltag 5 am Wochenende - Palace nach Conference-Sieg 25/26 jetzt EL-Debuet",
+    "parallel_gast": "Ekstraklasa am Wochenende + Auswaertsreise",
+    "saisonziel_heim": "PL-Mittelfeld + EL-Weiterkommen ist realistisch",
+    "saisonziel_gast": "Polnisches Titel-Rennen + Ligaphase-Punkte als Bonus",
+    "motivations_asymmetrie": "Palace als Cup-Sieger und PL-Team klar hoeher eingestuft. Aber Auftakt in unbekannter Konkurrenz-Klasse - VALUE statt SAFE-Sieg.",
+    "recovery_heim": "3 Tage nach PL-Spiel",
+    "recovery_gast": "3 Tage nach Ekstraklasa + Reise",
+    "quellen": [
+      "https://www.uefa.com/uefaeuropaleague/fixtures-results/",
+      "https://www.premierleague.com/fixtures",
+      "https://www.ekstraklasa.org/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "cry-lec-1",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance Palace oder Remis (1X)",
+      "quote": 1.1,
+      "edge_prozent": 5.0,
+      "begruendung": "PL-Team zuhause gegen polnischen Meister im EL-Debuet. DC 1X = Goldgruben-Markt. Einsatz 2% = 20€.",
+      "faire_quote": 1.05,
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "id": "cry-lec-2",
+      "kategorie": "value",
+      "markt": "Sieg Crystal Palace (90 Min)",
+      "quote": 1.4,
+      "edge_prozent": 5.0,
+      "begruendung": "Klarer Heimfavorit, Palace mit EL-Erfahrung aus letztem Jahr (Conference-Sieger). Einsatz 1.5% = 15€.",
+      "faire_quote": 1.33,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "cry-lec-3",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen",
+      "quote": 1.87,
+      "edge_prozent": 3.0,
+      "begruendung": "Lech mit offensivem Ansatz + Palace-Defensive nicht bombenfest. Coinflip-Markt. Einsatz 0.5% = 5€.",
+      "faire_quote": 1.8,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}
