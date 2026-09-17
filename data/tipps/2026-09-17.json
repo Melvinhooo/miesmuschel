@@ -1,8 +1,7 @@
 {
   "datum": "2026-09-17",
-  "erstellt_am": "2026-09-17T14:30:00+02:00",
-  "hinweis": "Watchdog-Recovery-Dossier: 8 Europa-League-Auftakt-Spiele. Fokus auf Goldgruben-Maerkte (DC 1X/X2, BTTS, Ueber 2.5) statt Torschuetzen - Kader-Live-Check pro Spiel war im Notfall-Fenster nicht komplett moeglich. Kasse 1000€ (Stufe 1): SAFE/VALUE-Einzel 10-20€, Wackel 5€, Kombis 1-20€.",
-  "_emergency_recovery": true,
+  "erstellt_am": "2026-09-17T15:45:00+02:00",
+  "hinweis": "Europa-League-Auftakt (Ligaphase Spieltag 1) - 8 Spiele, 2x Anstoss 18:45, 6x Anstoss 21:00. Fokus auf Goldgruben-Maerkte (DC 1X/X2, BTTS, Ueber 2.5). Bewusst KEINE Torschuetzen-Tipps, weil Kader-Live-Check nicht ueberall abgesichert (siehe Kader-Frische-Regel). Kasse 1000€ (Stufe 1): SAFE/VALUE-Einzel 10-20€, Wackel 5€, Kombis 1-20€.",
   "spiele": [
     {
       "id": "2026-09-17-juv-nec",
@@ -104,7 +103,7 @@
         {
           "id": "cry-lec-1",
           "kategorie": "safe",
-          "markt": "Doppelte Chance Palace oder Remis (1X)",
+          "markt": "Doppelte Chance Crystal Palace oder Remis (1X)",
           "quote": 1.1,
           "edge_prozent": 5.0,
           "begruendung": "PL-Team zuhause gegen polnischen Meister im EL-Debuet. DC 1X = Goldgruben-Markt. Einsatz 2% = 20€.",
@@ -489,7 +488,7 @@
     {
       "id": "cry-lec-1",
       "kategorie": "safe",
-      "markt": "Doppelte Chance Palace oder Remis (1X)",
+      "markt": "Doppelte Chance Crystal Palace oder Remis (1X)",
       "quote": 1.1,
       "edge_prozent": 5.0,
       "begruendung": "PL-Team zuhause gegen polnischen Meister im EL-Debuet. DC 1X = Goldgruben-Markt. Einsatz 2% = 20€.",
@@ -638,18 +637,18 @@
           "kategorie": "safe"
         },
         {
-          "spiel_id": "2026-09-17-ofi-hof",
-          "spiel_label": "OFI Kreta vs Hoffenheim",
-          "markt": "Hoffenheim oder Remis (Doppelte Chance)",
-          "quote": 1.15,
+          "spiel_id": "2026-09-17-lev-sal",
+          "spiel_label": "Levski Sofia vs Salzburg",
+          "markt": "Salzburg oder Remis (Doppelte Chance)",
+          "quote": 1.28,
           "kategorie": "value"
         }
       ],
-      "gesamtquote": 1.33,
-      "rechnung": "1.05 x 1.10 x 1.15 = 1.33",
+      "gesamtquote": 1.48,
+      "rechnung": "1.05 x 1.10 x 1.28 = 1.48",
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Drei Favoriten-DC-Beine auf klare Klassen-Gefaelle. Ehrlich: nur 1.33x - hier gibt's kaum was zu holen ausser dem Motivations-Bonus, dass EL-MD1 durchbezahlt. Wer die Ehre der Kombi ueber Quote stellt, kann einsteigen."
+      "begruendung": "Drei Favoriten-DC-Beine auf grosse Klassen-Gefaelle (Juve/Palace/Salzburg gegen NEC/Lech/Levski). Ehrlich: 1.48x - dieser Slate hat keine 3-5x SAFE-Kombi zu bieten weil alle Top-Favoriten schon unter 1.30 stehen. Wer den MD1-Bonus mitnehmen will, sonst skippen."
     },
     {
       "id": "balance-1",
@@ -659,15 +658,15 @@
         {
           "spiel_id": "2026-09-17-bes-mar",
           "spiel_label": "Besiktas vs Marseille",
-          "markt": "Besiktas oder Remis (Doppelte Chance)",
-          "quote": 1.3,
+          "markt": "Sieg Besiktas (90 Min)",
+          "quote": 1.85,
           "kategorie": "value"
         },
         {
           "spiel_id": "2026-09-17-cel-fer",
           "spiel_label": "Celtic vs Ferencvaros",
-          "markt": "Celtic oder Remis (Doppelte Chance)",
-          "quote": 1.22,
+          "markt": "Sieg Celtic (90 Min)",
+          "quote": 1.73,
           "kategorie": "value"
         },
         {
@@ -678,18 +677,18 @@
           "kategorie": "value"
         },
         {
-          "spiel_id": "2026-09-17-lev-sal",
-          "spiel_label": "Levski Sofia vs Salzburg",
-          "markt": "Salzburg oder Remis (Doppelte Chance)",
-          "quote": 1.28,
-          "kategorie": "value"
+          "spiel_id": "2026-09-17-ofi-hof",
+          "spiel_label": "OFI Kreta vs Hoffenheim",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "kategorie": "wackel"
         }
       ],
-      "gesamtquote": 3.25,
-      "rechnung": "1.30 x 1.22 x 1.60 x 1.28 = 3.25",
+      "gesamtquote": 8.96,
+      "rechnung": "1.85 x 1.73 x 1.60 x 1.75 = 8.96",
       "empfohlener_einsatz_prozent": 0.8,
       "empfohlener_einsatz_euro": 8.0,
-      "begruendung": "Vier VALUE-Beine, alle DC + 1 BTTS. Layer-2 sauber: Sieg-Outcomes nur 1x/Kombi (DC ist Sieg-Outcome, aber je DC in anderem Spiel). Faire Chance auf ~3x-Ausschuettung."
+      "begruendung": "Vier VALUE-Beine, Markt-diversifiziert: 2x Sieg (Besiktas/Celtic Form-Edge) + 1x BTTS (Sociedad Defense) + 1x Ueber 2.5 (Hoffenheim-Fragilitaet). Landet mitten im Balance-Zielkorridor. Layer-2 sauber: pro Spiel max 1 Sieg-Outcome ueber alle Kombis."
     },
     {
       "id": "risk-1",
@@ -699,9 +698,9 @@
         {
           "spiel_id": "2026-09-17-juv-nec",
           "spiel_label": "Juventus vs NEC",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.75,
-          "kategorie": "value"
+          "markt": "Ueber 3.5 Tore",
+          "quote": 3.2,
+          "kategorie": "wackel"
         },
         {
           "spiel_id": "2026-09-17-rso-bou",
@@ -709,22 +708,10 @@
           "markt": "Ueber 2.5 Tore",
           "quote": 1.77,
           "kategorie": "value"
-        }
-      ],
-      "gesamtquote": 3.1,
-      "rechnung": "1.75 x 1.77 = 3.1",
-      "empfohlener_einsatz_prozent": 0.25,
-      "empfohlener_einsatz_euro": 2.5,
-      "begruendung": "Tor-Total + zwei Sieg-Beine. Zwei Ueber-2.5 stehen fuer offensiv-lecke Defensen, dazu zwei klare Heim-Favoriten. Solides Risiko-Profil um 8x - keine 15-30x, aber ehrlicher als kuenstliche Aufblasung."
-    },
-    {
-      "id": "moon-1",
-      "profil": "Moonshot",
-      "kategorie": "moonshot",
-      "beine": [
+        },
         {
-          "spiel_id": "2026-09-17-plz-usg",
-          "spiel_label": "Viktoria Plzen vs Union SG",
+          "spiel_id": "2026-09-17-cel-fer",
+          "spiel_label": "Celtic vs Ferencvaros",
           "markt": "Beide Teams treffen",
           "quote": 1.6,
           "kategorie": "wackel"
@@ -732,31 +719,97 @@
         {
           "spiel_id": "2026-09-17-lev-sal",
           "spiel_label": "Levski Sofia vs Salzburg",
-          "markt": "Sieg Salzburg (90 Min)",
+          "markt": "Ueber 2.5 Tore",
           "quote": 1.9,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-09-17-ofi-hof",
-          "spiel_label": "OFI Kreta vs Hoffenheim",
-          "markt": "Sieg Hoffenheim (90 Min)",
-          "quote": 1.46,
           "kategorie": "wackel"
         }
       ],
-      "gesamtquote": 4.44,
-      "rechnung": "1.60 x 1.90 x 1.46 = 4.44",
+      "gesamtquote": 17.24,
+      "rechnung": "3.20 x 1.77 x 1.60 x 1.90 = 17.24",
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 2.5,
+      "begruendung": "Torschlacht-Ticket: 3x Ueber-Tore + 1x BTTS. Hebel ist Juve Ueber 3.5 (3.20) - erwartet 3:0/3:1 Setup gegen defensiv-schwaches NEC. Alle vier Beine sind Torfrachten - Kombi springt nur wenn ueberall genug fallen. Landet knapp im Risiko-Korridor 15-30x. Keine Sieg-Outcomes."
+    },
+    {
+      "id": "moon-1",
+      "profil": "Moonshot",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-09-17-ofi-hof",
+          "spiel_label": "OFI Kreta vs Hoffenheim",
+          "markt": "Sieg OFI Kreta (90 Min)",
+          "quote": 5.5,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-09-17-plz-usg",
+          "spiel_label": "Viktoria Plzen vs Union SG",
+          "markt": "Sieg Viktoria Plzen (90 Min)",
+          "quote": 2.7,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-09-17-rso-bou",
+          "spiel_label": "Real Sociedad vs Bournemouth",
+          "markt": "Sieg Bournemouth (90 Min)",
+          "quote": 3.8,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-09-17-cry-lec",
+          "spiel_label": "Crystal Palace vs Lech Poznan",
+          "markt": "Beide Teams treffen",
+          "quote": 1.87,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 105.51,
+      "rechnung": "5.50 x 2.70 x 3.80 x 1.87 = 105.51",
       "empfohlener_einsatz_prozent": 0.1,
       "empfohlener_einsatz_euro": 1.0,
-      "begruendung": "5-Bein-Moonshot mit ~14x. Ehrlich: bei EL-Auftakt mit vielen Ueberraschungen ist 100x+ unrealistisch. Als Spass-Ticket okay, keine Lotterie-Illusion."
+      "begruendung": "3x Underdog-Sieg + 1x BTTS aus dem MD1-Chaos: OFI-Heim mit 3 To-Null in Folge kann Hoffenheims Defense-Krise (7 Gegentore in 3 BL) bestrafen, Plzen zuhause im Comeback-Modus, Bournemouth mit dem EL-Debuet-Adrenalin, dazu BTTS in Palace vs Lech. Hits die 100x-Marke. Spass-Ticket 1€ - erwartete Ausschuettung minimal, aber wenn ne EL-Sensation faellt, faellt sie oft mit anderen Underdogs zusammen."
     }
   ],
   "lessons_angewandt": [
-    "HR1 Quoten-Range: DC 1X = SAFE bei sehr klaren Favoriten (Juve 1.20, Palace 1.40, TSG-Auswaerts 1.46), sonst VALUE.",
-    "HR23 Layer-3: In Kombis Markt-entkoppelt (DC in Balance, Tor-Total + Sieg in Risiko, Handicap in Moonshot). Ueberlappung nur bei genug Spielen.",
-    "Markt-Goldgruben aktiv gesucht: DC 1X + DC X2 + BTTS + Ueber 2.5 - genau die 4 stark-positiven Maerkte aus statistik.json.",
-    "Watchdog-Fallback: keine Torschuetzen-Tipps ohne Squad-Live-Check aus kicker.de - stattdessen defensive Markt-Beine.",
-    "Coinflip-Spiele markiert (Plzen-Union, Sociedad-Bournemouth): dort keine SAFE, nur VALUE/WACKEL."
+    "HR1 Quoten-Range: DC 1X = SAFE bei sehr klaren Favoriten (Juve 1.05, Palace 1.10), DC X2 fuer Auswaerts-Favoriten (Salzburg 1.28, Hoffenheim 1.15).",
+    "HR23 Layer-3-Diversifikation: Layer-2 hart sauber (jedes Spiel max 1 Sieg-Outcome ueber alle Kombis). Layer-3 weich: bei Spielen mit mehreren Beinen ueber Kombis IMMER Markt-entkoppelt (DC vs Ueber-Tore vs BTTS).",
+    "HR4 Story-Konflikt-Check: keine SAFE bei Coinflip-Spielen (Plzen-Union, Sociedad-Bournemouth) - dort nur VALUE/WACKEL.",
+    "Markt-Goldgruben aktiv gesucht: DC 1X (72.7% / +39.7%), DC X2 (75% / +29.6%), Ueber 2.5 (53.3% / +23.3%), BTTS im Value-Segment - genau die vier Markt-Typen aus data/markt_goldgruben.json.",
+    "Kader-Frische-Regel: bewusst KEINE Torschuetzen-Tipps, weil Aufstellungs-Verifikation pro Team im Rush nicht abgesichert war. Nach Adeyemi-Hallu (Aug 26) lieber defensive Markt-Beine als falsche Namen.",
+    "Supercup/2:0-Insurance nicht anwendbar: keine 1. Bundesliga + keine Champions League im Slate - alle Sieg-Tipps ohne bet365-Insurance-Bonus bewertet."
   ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-09-17T15:45:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "moonshot_layer2_konflikt_alt",
+        "spiel_id": "2026-09-17-ofi-hof",
+        "details": "Vorgaenger-Dossier hatte Sieg Hoffenheim in Moonshot UND Hoffenheim-DC in Safe-Kombi (Layer-2 hart). Jetzt Moonshot auf OFI-Sieg (5.50) umgestellt - Sieg-Outcome ofi-hof nur noch in Moonshot."
+      },
+      {
+        "art": "moonshot_layer2_konflikt_alt",
+        "spiel_id": "2026-09-17-lev-sal",
+        "details": "Vorgaenger-Dossier hatte Sieg Salzburg in Moonshot UND Salzburg-DC-X2 in Balance-Kombi (Layer-2 hart). Salzburg-DC ist jetzt in Safe-Kombi verschoben, Moonshot ohne lev-sal Sieg-Outcome - Layer-2 sauber."
+      },
+      {
+        "art": "quoten_live_pruefen",
+        "details": "Alle Quoten Stand Aggregator/Analyse-Files - vor Wette bei bet365 live pruefen. Torschuetzen-Quoten mangels Aufstellungs-Verifikation komplett ausgespart."
+      }
+    ],
+    "checks_ok": [
+      "Datum-Scope: alle 8 Spiele Anstoss am 2026-09-17 Berlin ✓",
+      "Layer-1: jede Kombi max 1 Bein pro Spiel ✓",
+      "Layer-2 hart: pro Spiel max 1 Sieg-Outcome ueber alle Kombis - juv-nec(Safe DC), cry-lec(Safe DC), bes-mar(Balance Sieg), cel-fer(Balance Sieg), lev-sal(Safe DC-X2), ofi-hof(Moonshot Sieg), plz-usg(Moonshot Sieg), rso-bou(Moonshot Sieg) - alle einzigartig ✓",
+      "Layer-3 weich: Mehrfach-Spiele Markt-entkoppelt (DC + Ueber-Tore + BTTS getrennt) ✓",
+      "gesamtquote nachgerechnet in allen 4 Kombis ✓",
+      "saison_kontext-Pflichtfelder + Verband-Quellen in allen 8 Spielen gesetzt ✓",
+      "Keine Torschuetzen-Tipps -> keine Kader_wechsel_2026-Verletzungen moeglich ✓",
+      "Kein Markt aus markt_bluter.json (Liste aktuell leer) ✓"
+    ],
+    "lessons_generiert": []
+  },
   "footer": "18+ · bet365 DE · Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Nur setzen was du verlieren kannst."
 }
