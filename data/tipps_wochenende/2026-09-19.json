@@ -126,7 +126,7 @@
           "einsatz_euro": 12.0,
           "empfohlener_einsatz_prozent": 1.2,
           "edge_prozent": 5,
-          "faire_quote": 1.60,
+          "faire_quote": 1.6,
           "begruendung": "Über 2.5 Markt-Goldgrube (53.3% / +23.3% ROI n=32). Arsenal-Angriff produziert Chancen-Volumen (Sommer-Umbau + Brighton offensiv-mutig zuhause), BTTS-Basis solide."
         },
         {
@@ -137,7 +137,7 @@
           "einsatz_euro": 5.0,
           "empfohlener_einsatz_prozent": 0.5,
           "edge_prozent": 3,
-          "faire_quote": 1.60,
+          "faire_quote": 1.6,
           "begruendung": "BTTS-Standard: Arsenal-Defensiv-Krise (Saliba/Timber OUT) + Brighton-Heim traf zuletzt ~überall. Wackel weil Arsenal-Sturm trotzdem sauber verteidigen kann bei 1:0-Vorsprung."
         }
       ],
@@ -171,15 +171,16 @@
       "tipps": [
         {
           "id": "new-hul-1",
-          "kategorie": "safe",
+          "kategorie": "value",
           "markt": "Newcastle oder Remis (Doppelte Chance)",
           "quote": 1.05,
           "einsatz_euro": 20.0,
           "empfohlener_einsatz_prozent": 2.0,
           "edge_prozent": 3,
           "faire_quote": 1.02,
-          "begruendung": "DC 1X Markt-Goldgrube (72.7% Hit / +39.7% ROI n=22) UND Liga-Goldgrube-Konform (Aufsteiger-Blowout-Muster). St James' gegen Aufsteiger historisch niederlagenfrei. Stufe 1: 2% = 20€. KEIN 2:0-Insurance in PL, aber DC ist keine reine Sieg-Wette.",
-          "layer_2_tag": "new-hul_sieg_new"
+          "begruendung": "DC 1X Markt-Goldgrube (72.7% Hit / +39.7% ROI n=22) UND Liga-Goldgrube-Konform (Aufsteiger-Blowout-Muster). St James' gegen Aufsteiger historisch niederlagenfrei. Stufe 1: 2% = 20€. KEIN 2:0-Insurance in PL, aber DC ist keine reine Sieg-Wette. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
+          "layer_2_tag": "new-hul_sieg_new",
+          "_markt_mix_dc_downgrade": true
         },
         {
           "id": "new-hul-2",
@@ -244,15 +245,16 @@
       "tipps": [
         {
           "id": "nfo-cov-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Nottingham Forest oder Remis (Doppelte Chance)",
           "quote": 1.17,
           "einsatz_euro": 15.0,
           "empfohlener_einsatz_prozent": 1.5,
           "edge_prozent": 4,
           "faire_quote": 1.12,
-          "begruendung": "DC 1X Goldgrube (72.7%/+39.7% n=22). Forest-Heim-Bonus + Klassen-Edge trotz Kaderumbau, Coventry auswärts nicht stark genug für Blowout-Punkt.",
-          "layer_2_tag": "nfo-cov_sieg_nfo"
+          "begruendung": "DC 1X Goldgrube (72.7%/+39.7% n=22). Forest-Heim-Bonus + Klassen-Edge trotz Kaderumbau, Coventry auswärts nicht stark genug für Blowout-Punkt. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
+          "layer_2_tag": "nfo-cov_sieg_nfo",
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "nfo-cov-2",
@@ -373,7 +375,7 @@
           "id": "bou-liv-1",
           "kategorie": "value",
           "markt": "Liverpool oder Remis (Doppelte Chance)",
-          "quote": 1.20,
+          "quote": 1.2,
           "einsatz_euro": 18.0,
           "empfohlener_einsatz_prozent": 1.8,
           "edge_prozent": 4,
@@ -385,7 +387,7 @@
           "id": "bou-liv-2",
           "kategorie": "value",
           "markt": "Torschütze jederzeit: Alexander Isak",
-          "quote": 2.00,
+          "quote": 2.0,
           "einsatz_euro": 12.0,
           "empfohlener_einsatz_prozent": 1.2,
           "edge_prozent": 6,
@@ -434,15 +436,16 @@
       "tipps": [
         {
           "id": "mci-sun-1",
-          "kategorie": "safe",
+          "kategorie": "value",
           "markt": "Manchester City oder Remis (Doppelte Chance)",
           "quote": 1.04,
           "einsatz_euro": 20.0,
           "empfohlener_einsatz_prozent": 2.0,
           "edge_prozent": 2,
           "faire_quote": 1.02,
-          "begruendung": "DC 1X Markt-Goldgrube (72.7%/+39.7% n=22). Klassen-Edge maximal — Aufsteiger Sunderland historisch keine Chance im Etihad. Stufe 1: 2% = 20€.",
-          "layer_2_tag": "mci-sun_sieg_mci"
+          "begruendung": "DC 1X Markt-Goldgrube (72.7%/+39.7% n=22). Klassen-Edge maximal — Aufsteiger Sunderland historisch keine Chance im Etihad. Stufe 1: 2% = 20€. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
+          "layer_2_tag": "mci-sun_sieg_mci",
+          "_markt_mix_dc_downgrade": true
         },
         {
           "id": "mci-sun-2",
@@ -452,14 +455,14 @@
           "einsatz_euro": 15.0,
           "empfohlener_einsatz_prozent": 1.5,
           "edge_prozent": 4,
-          "faire_quote": 1.30,
+          "faire_quote": 1.3,
           "begruendung": "Über 2.5 Markt-Goldgrube (53.3%/+23.3% n=32). Maresca-City trifft ~3+ pro Heimspiel gegen Underdogs, Sunderland Konter-Kandidat mit Zugriffs-Versuchen."
         },
         {
           "id": "mci-sun-3",
           "kategorie": "value",
           "markt": "Torschütze jederzeit: Erling Haaland",
-          "quote": 1.50,
+          "quote": 1.5,
           "einsatz_euro": 15.0,
           "empfohlener_einsatz_prozent": 1.5,
           "edge_prozent": 4,
@@ -470,7 +473,7 @@
           "id": "mci-sun-4",
           "kategorie": "wackel",
           "markt": "City Handicap -2",
-          "quote": 1.90,
+          "quote": 1.9,
           "einsatz_euro": 5.0,
           "empfohlener_einsatz_prozent": 0.5,
           "edge_prozent": 3,
@@ -522,7 +525,7 @@
           "id": "fio-nap-2",
           "kategorie": "wackel",
           "markt": "Unter 2.5 Tore",
-          "quote": 1.90,
+          "quote": 1.9,
           "einsatz_euro": 5.0,
           "empfohlener_einsatz_prozent": 0.5,
           "edge_prozent": 4,
@@ -575,7 +578,7 @@
           "id": "om-psg-1",
           "kategorie": "value",
           "markt": "PSG oder Remis (Doppelte Chance)",
-          "quote": 1.30,
+          "quote": 1.3,
           "einsatz_euro": 15.0,
           "empfohlener_einsatz_prozent": 1.5,
           "edge_prozent": 5,
@@ -610,19 +613,162 @@
     }
   ],
   "einzeltipps": [
-    {"spiel_id": "2026-09-20-mci-sun", "tipp_id": "mci-sun-1", "kategorie": "safe", "markt": "Manchester City oder Remis (Doppelte Chance)", "quote": 1.04, "einsatz_euro": 20.0, "empfohlener_einsatz_prozent": 2.0, "spiel_label": "Man City vs Sunderland", "begruendung": "DC 1X Goldgrube + Klassen-Edge maximal (Aufsteiger im Etihad). Stufe 1: 20€."},
-    {"spiel_id": "2026-09-19-new-hul", "tipp_id": "new-hul-1", "kategorie": "safe", "markt": "Newcastle oder Remis (Doppelte Chance)", "quote": 1.05, "einsatz_euro": 20.0, "empfohlener_einsatz_prozent": 2.0, "spiel_label": "Newcastle vs Hull City", "begruendung": "DC 1X Goldgrube + St James' gegen Aufsteiger niederlagenfrei. Stufe 1: 20€."},
-    {"spiel_id": "2026-09-19-bri-ars", "tipp_id": "bri-ars-1", "kategorie": "value", "markt": "Arsenal oder Remis (Doppelte Chance)", "quote": 1.24, "einsatz_euro": 18.0, "empfohlener_einsatz_prozent": 1.8, "spiel_label": "Brighton vs Arsenal", "begruendung": "DC X2 Goldgrube + Arsenal-Klassen-Edge trotz Defensiv-Krise."},
-    {"spiel_id": "2026-09-20-bou-liv", "tipp_id": "bou-liv-1", "kategorie": "value", "markt": "Liverpool oder Remis (Doppelte Chance)", "quote": 1.20, "einsatz_euro": 18.0, "empfohlener_einsatz_prozent": 1.8, "spiel_label": "Bournemouth vs Liverpool", "begruendung": "DC X2 Goldgrube + Titel-Kandidat auswärts stabil."},
-    {"spiel_id": "2026-09-19-rom-int", "tipp_id": "rom-int-1", "kategorie": "value", "markt": "Inter oder Remis (Doppelte Chance)", "quote": 1.38, "einsatz_euro": 15.0, "empfohlener_einsatz_prozent": 1.5, "spiel_label": "Roma vs Inter", "begruendung": "DC X2 Goldgrube + Inter-Klassen-Edge, Chivu-Rotation moderat."},
-    {"spiel_id": "2026-09-20-fio-nap", "tipp_id": "fio-nap-1", "kategorie": "value", "markt": "Napoli oder Remis (Doppelte Chance)", "quote": 1.32, "einsatz_euro": 15.0, "empfohlener_einsatz_prozent": 1.5, "spiel_label": "Fiorentina vs Napoli", "begruendung": "DC X2 Goldgrube + De-Bruyne-Klasse trotz CL-Belastung."},
-    {"spiel_id": "2026-09-20-om-psg", "tipp_id": "om-psg-1", "kategorie": "value", "markt": "PSG oder Remis (Doppelte Chance)", "quote": 1.30, "einsatz_euro": 15.0, "empfohlener_einsatz_prozent": 1.5, "spiel_label": "Marseille vs PSG (Le Classique)", "begruendung": "DC X2 Goldgrube + PSG-Klassen-Edge trotz CL-Rotation."},
-    {"spiel_id": "2026-09-19-nfo-cov", "tipp_id": "nfo-cov-1", "kategorie": "value", "markt": "Nottingham Forest oder Remis (Doppelte Chance)", "quote": 1.17, "einsatz_euro": 15.0, "empfohlener_einsatz_prozent": 1.5, "spiel_label": "Forest vs Coventry", "begruendung": "DC 1X Goldgrube + Forest-Heim gegen Aufsteiger."},
-    {"spiel_id": "2026-09-19-tot-avl", "tipp_id": "tot-avl-1", "kategorie": "value", "markt": "Tottenham oder Remis (Doppelte Chance)", "quote": 1.35, "einsatz_euro": 15.0, "empfohlener_einsatz_prozent": 1.5, "spiel_label": "Tottenham vs Aston Villa", "begruendung": "DC 1X Goldgrube + Villa-Sturm-Umbruch (Watkins weg, Jackson farblos)."},
-    {"spiel_id": "2026-09-20-mci-sun", "tipp_id": "mci-sun-3", "kategorie": "value", "markt": "Torschütze jederzeit: Erling Haaland", "quote": 1.50, "einsatz_euro": 15.0, "empfohlener_einsatz_prozent": 1.5, "spiel_label": "Man City vs Sunderland", "begruendung": "HR24 klar erfüllt, Solo-9er gegen Aufsteiger."},
-    {"spiel_id": "2026-09-19-new-hul", "tipp_id": "new-hul-3", "kategorie": "value", "markt": "Torschütze jederzeit: Nick Woltemade", "quote": 1.95, "einsatz_euro": 12.0, "empfohlener_einsatz_prozent": 1.2, "spiel_label": "Newcastle vs Hull City", "begruendung": "HR24-konform, Isak-Ersatz + Solo-9er bei Newcastle."},
-    {"spiel_id": "2026-09-20-bou-liv", "tipp_id": "bou-liv-2", "kategorie": "value", "markt": "Torschütze jederzeit: Alexander Isak", "quote": 2.00, "einsatz_euro": 12.0, "empfohlener_einsatz_prozent": 1.2, "spiel_label": "Bournemouth vs Liverpool", "begruendung": "HR24-konform, Klub-Rekord-Zugang als Solo-9er."},
-    {"spiel_id": "2026-09-19-bri-ars", "tipp_id": "bri-ars-2", "kategorie": "value", "markt": "Torschütze jederzeit: Viktor Gyoekeres", "quote": 2.15, "einsatz_euro": 12.0, "empfohlener_einsatz_prozent": 1.2, "spiel_label": "Brighton vs Arsenal", "begruendung": "HR24-konform, 63M-Solo-9er."}
+    {
+      "spiel_id": "2026-09-20-mci-sun",
+      "tipp_id": "mci-sun-1",
+      "kategorie": "value",
+      "markt": "Manchester City oder Remis (Doppelte Chance)",
+      "quote": 1.04,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_label": "Man City vs Sunderland",
+      "begruendung": "DC 1X Goldgrube + Klassen-Edge maximal (Aufsteiger im Etihad). Stufe 1: 20€.",
+      "rang": 1
+    },
+    {
+      "spiel_id": "2026-09-19-new-hul",
+      "tipp_id": "new-hul-1",
+      "kategorie": "value",
+      "markt": "Newcastle oder Remis (Doppelte Chance)",
+      "quote": 1.05,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_label": "Newcastle vs Hull City",
+      "begruendung": "DC 1X Goldgrube + St James' gegen Aufsteiger niederlagenfrei. Stufe 1: 20€.",
+      "rang": 2
+    },
+    {
+      "spiel_id": "2026-09-19-bri-ars",
+      "tipp_id": "bri-ars-1",
+      "kategorie": "value",
+      "markt": "Arsenal oder Remis (Doppelte Chance)",
+      "quote": 1.24,
+      "einsatz_euro": 18.0,
+      "empfohlener_einsatz_prozent": 1.8,
+      "spiel_label": "Brighton vs Arsenal",
+      "begruendung": "DC X2 Goldgrube + Arsenal-Klassen-Edge trotz Defensiv-Krise.",
+      "rang": 3
+    },
+    {
+      "spiel_id": "2026-09-20-bou-liv",
+      "tipp_id": "bou-liv-1",
+      "kategorie": "value",
+      "markt": "Liverpool oder Remis (Doppelte Chance)",
+      "quote": 1.2,
+      "einsatz_euro": 18.0,
+      "empfohlener_einsatz_prozent": 1.8,
+      "spiel_label": "Bournemouth vs Liverpool",
+      "begruendung": "DC X2 Goldgrube + Titel-Kandidat auswärts stabil.",
+      "rang": 4
+    },
+    {
+      "spiel_id": "2026-09-19-rom-int",
+      "tipp_id": "rom-int-1",
+      "kategorie": "value",
+      "markt": "Inter oder Remis (Doppelte Chance)",
+      "quote": 1.38,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_label": "Roma vs Inter",
+      "begruendung": "DC X2 Goldgrube + Inter-Klassen-Edge, Chivu-Rotation moderat.",
+      "rang": 5
+    },
+    {
+      "spiel_id": "2026-09-20-fio-nap",
+      "tipp_id": "fio-nap-1",
+      "kategorie": "value",
+      "markt": "Napoli oder Remis (Doppelte Chance)",
+      "quote": 1.32,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_label": "Fiorentina vs Napoli",
+      "begruendung": "DC X2 Goldgrube + De-Bruyne-Klasse trotz CL-Belastung.",
+      "rang": 6
+    },
+    {
+      "spiel_id": "2026-09-20-om-psg",
+      "tipp_id": "om-psg-1",
+      "kategorie": "value",
+      "markt": "PSG oder Remis (Doppelte Chance)",
+      "quote": 1.3,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_label": "Marseille vs PSG (Le Classique)",
+      "begruendung": "DC X2 Goldgrube + PSG-Klassen-Edge trotz CL-Rotation.",
+      "rang": 7
+    },
+    {
+      "spiel_id": "2026-09-19-nfo-cov",
+      "tipp_id": "nfo-cov-1",
+      "kategorie": "wackel",
+      "markt": "Nottingham Forest oder Remis (Doppelte Chance)",
+      "quote": 1.17,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_label": "Forest vs Coventry",
+      "begruendung": "DC 1X Goldgrube + Forest-Heim gegen Aufsteiger.",
+      "rang": 8
+    },
+    {
+      "spiel_id": "2026-09-19-tot-avl",
+      "tipp_id": "tot-avl-1",
+      "kategorie": "value",
+      "markt": "Tottenham oder Remis (Doppelte Chance)",
+      "quote": 1.35,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_label": "Tottenham vs Aston Villa",
+      "begruendung": "DC 1X Goldgrube + Villa-Sturm-Umbruch (Watkins weg, Jackson farblos).",
+      "rang": 9
+    },
+    {
+      "spiel_id": "2026-09-20-mci-sun",
+      "tipp_id": "mci-sun-3",
+      "kategorie": "value",
+      "markt": "Torschütze jederzeit: Erling Haaland",
+      "quote": 1.5,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_label": "Man City vs Sunderland",
+      "begruendung": "HR24 klar erfüllt, Solo-9er gegen Aufsteiger.",
+      "rang": 10
+    },
+    {
+      "spiel_id": "2026-09-19-new-hul",
+      "tipp_id": "new-hul-3",
+      "kategorie": "value",
+      "markt": "Torschütze jederzeit: Nick Woltemade",
+      "quote": 1.95,
+      "einsatz_euro": 12.0,
+      "empfohlener_einsatz_prozent": 1.2,
+      "spiel_label": "Newcastle vs Hull City",
+      "begruendung": "HR24-konform, Isak-Ersatz + Solo-9er bei Newcastle.",
+      "rang": 11
+    },
+    {
+      "spiel_id": "2026-09-20-bou-liv",
+      "tipp_id": "bou-liv-2",
+      "kategorie": "value",
+      "markt": "Torschütze jederzeit: Alexander Isak",
+      "quote": 2.0,
+      "einsatz_euro": 12.0,
+      "empfohlener_einsatz_prozent": 1.2,
+      "spiel_label": "Bournemouth vs Liverpool",
+      "begruendung": "HR24-konform, Klub-Rekord-Zugang als Solo-9er.",
+      "rang": 12
+    },
+    {
+      "spiel_id": "2026-09-19-bri-ars",
+      "tipp_id": "bri-ars-2",
+      "kategorie": "value",
+      "markt": "Torschütze jederzeit: Viktor Gyoekeres",
+      "quote": 2.15,
+      "einsatz_euro": 12.0,
+      "empfohlener_einsatz_prozent": 1.2,
+      "spiel_label": "Brighton vs Arsenal",
+      "begruendung": "HR24-konform, 63M-Solo-9er.",
+      "rang": 13
+    }
   ],
   "kombis": [
     {
@@ -630,9 +776,27 @@
       "kategorie": "safe",
       "profil": "Safe-Kombi 3er",
       "beine": [
-        {"spiel_id": "2026-09-20-mci-sun", "spiel_label": "Man City vs Sunderland", "markt": "Manchester City oder Remis (Doppelte Chance)", "quote": 1.04, "kategorie": "safe"},
-        {"spiel_id": "2026-09-19-new-hul", "spiel_label": "Newcastle vs Hull City", "markt": "Newcastle oder Remis (Doppelte Chance)", "quote": 1.05, "kategorie": "safe"},
-        {"spiel_id": "2026-09-19-nfo-cov", "spiel_label": "Forest vs Coventry", "markt": "Nottingham Forest oder Remis (Doppelte Chance)", "quote": 1.17, "kategorie": "value"}
+        {
+          "spiel_id": "2026-09-20-mci-sun",
+          "spiel_label": "Man City vs Sunderland",
+          "markt": "Manchester City oder Remis (Doppelte Chance)",
+          "quote": 1.04,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-19-new-hul",
+          "spiel_label": "Newcastle vs Hull City",
+          "markt": "Newcastle oder Remis (Doppelte Chance)",
+          "quote": 1.05,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-19-nfo-cov",
+          "spiel_label": "Forest vs Coventry",
+          "markt": "Nottingham Forest oder Remis (Doppelte Chance)",
+          "quote": 1.17,
+          "kategorie": "value"
+        }
       ],
       "gesamtquote": 1.28,
       "rechnung": "1.04 × 1.05 × 1.17 = 1.28",
@@ -645,9 +809,27 @@
       "kategorie": "balance",
       "profil": "Balance-Kombi 3er",
       "beine": [
-        {"spiel_id": "2026-09-19-bri-ars", "spiel_label": "Brighton vs Arsenal", "markt": "Arsenal oder Remis (Doppelte Chance)", "quote": 1.24, "kategorie": "value"},
-        {"spiel_id": "2026-09-20-bou-liv", "spiel_label": "Bournemouth vs Liverpool", "markt": "Über 2.5 Tore", "quote": 1.62, "kategorie": "value"},
-        {"spiel_id": "2026-09-19-rom-int", "spiel_label": "Roma vs Inter", "markt": "Inter oder Remis (Doppelte Chance)", "quote": 1.38, "kategorie": "value"}
+        {
+          "spiel_id": "2026-09-19-bri-ars",
+          "spiel_label": "Brighton vs Arsenal",
+          "markt": "Arsenal oder Remis (Doppelte Chance)",
+          "quote": 1.24,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-20-bou-liv",
+          "spiel_label": "Bournemouth vs Liverpool",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.62,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-19-rom-int",
+          "spiel_label": "Roma vs Inter",
+          "markt": "Inter oder Remis (Doppelte Chance)",
+          "quote": 1.38,
+          "kategorie": "value"
+        }
       ],
       "gesamtquote": 2.77,
       "rechnung": "1.24 × 1.62 × 1.38 = 2.77",
@@ -660,10 +842,34 @@
       "kategorie": "risk",
       "profil": "Risiko-Kombi 4er",
       "beine": [
-        {"spiel_id": "2026-09-19-new-hul", "spiel_label": "Newcastle vs Hull City", "markt": "Torschütze jederzeit: Nick Woltemade", "quote": 1.95, "kategorie": "value"},
-        {"spiel_id": "2026-09-20-mci-sun", "spiel_label": "Man City vs Sunderland", "markt": "Torschütze jederzeit: Erling Haaland", "quote": 1.50, "kategorie": "value"},
-        {"spiel_id": "2026-09-20-om-psg", "spiel_label": "Marseille vs PSG", "markt": "Beide Teams treffen: Ja", "quote": 1.58, "kategorie": "value"},
-        {"spiel_id": "2026-09-19-tot-avl", "spiel_label": "Tottenham vs Aston Villa", "markt": "Unter 2.5 Tore", "quote": 1.88, "kategorie": "value"}
+        {
+          "spiel_id": "2026-09-19-new-hul",
+          "spiel_label": "Newcastle vs Hull City",
+          "markt": "Torschütze jederzeit: Nick Woltemade",
+          "quote": 1.95,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-20-mci-sun",
+          "spiel_label": "Man City vs Sunderland",
+          "markt": "Torschütze jederzeit: Erling Haaland",
+          "quote": 1.5,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-20-om-psg",
+          "spiel_label": "Marseille vs PSG",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.58,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-19-tot-avl",
+          "spiel_label": "Tottenham vs Aston Villa",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.88,
+          "kategorie": "value"
+        }
       ],
       "gesamtquote": 8.69,
       "rechnung": "1.95 × 1.50 × 1.58 × 1.88 = 8.69",
@@ -676,10 +882,34 @@
       "kategorie": "moonshot",
       "profil": "Moonshot 4er",
       "beine": [
-        {"spiel_id": "2026-09-19-tot-avl", "spiel_label": "Tottenham vs Aston Villa", "markt": "Sieg Tottenham Hotspur (90 Min)", "quote": 2.25, "kategorie": "wackel"},
-        {"spiel_id": "2026-09-19-bri-ars", "spiel_label": "Brighton vs Arsenal", "markt": "Torschütze jederzeit: Viktor Gyoekeres", "quote": 2.15, "kategorie": "value"},
-        {"spiel_id": "2026-09-19-rom-int", "spiel_label": "Roma vs Inter", "markt": "Torschütze jederzeit: Lautaro Martinez", "quote": 2.35, "kategorie": "wackel"},
-        {"spiel_id": "2026-09-20-fio-nap", "spiel_label": "Fiorentina vs Napoli", "markt": "Unter 2.5 Tore", "quote": 1.90, "kategorie": "wackel"}
+        {
+          "spiel_id": "2026-09-19-tot-avl",
+          "spiel_label": "Tottenham vs Aston Villa",
+          "markt": "Sieg Tottenham Hotspur (90 Min)",
+          "quote": 2.25,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-09-19-bri-ars",
+          "spiel_label": "Brighton vs Arsenal",
+          "markt": "Torschütze jederzeit: Viktor Gyoekeres",
+          "quote": 2.15,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-19-rom-int",
+          "spiel_label": "Roma vs Inter",
+          "markt": "Torschütze jederzeit: Lautaro Martinez",
+          "quote": 2.35,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-09-20-fio-nap",
+          "spiel_label": "Fiorentina vs Napoli",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.9,
+          "kategorie": "wackel"
+        }
       ],
       "gesamtquote": 21.63,
       "rechnung": "2.25 × 2.15 × 2.35 × 1.90 = 21.63",
@@ -712,11 +942,31 @@
     "drops": [],
     "downgrades": [],
     "warns": [
-      {"art": "aufstellungs_check_offen", "spiel_id": "2026-09-19-new-hul", "details": "Newcastle-Sturm nach Isak/Gordon/Bruno-Abgängen — Woltemade/Wissa/Elanga-Aufstellung live prüfen (kicker.de/premierleague.com ~60 Min vor Anpfiff)."},
-      {"art": "aufstellungs_check_offen", "spiel_id": "2026-09-20-bou-liv", "details": "Liverpool-Sturm nach Salah/Konate/Robertson-Abgängen laut Kader-Datei — Isak-Startelf + Backup-9er live prüfen."},
-      {"art": "aufstellungs_check_offen", "spiel_id": "2026-09-19-bri-ars", "details": "Arsenal-Angriff: Gyoekeres als Solo-9er, Merino/Havertz-Falsche-9-Variante möglich. Aufstellung live prüfen — bei Havertz-9 Downgrade auf wackel."},
-      {"art": "aufstellungs_check_offen", "spiel_id": "2026-09-20-om-psg", "details": "PSG-CL-Rotation garantiert (10 Tage nach CL-MD1 gegen Atalanta oder wen auch immer). Aufstellung live prüfen — bei Ferran-Torres-Start-9 Downgrade Torschützen-Tipps."},
-      {"art": "recherche_file_fehlt", "spiel_id": "*", "details": "Kein data/recherche_wochenende/2026-09-19.json vorhanden — Slate live per WebSearch/WebFetch rekonstruiert. Dossier bewusst kompakt gehalten (9 Kernspiele). Bundesliga MD4 + LaLiga J6 wegen widersprüchlicher Fixture-Quellen bewusst ausgespart."}
+      {
+        "art": "aufstellungs_check_offen",
+        "spiel_id": "2026-09-19-new-hul",
+        "details": "Newcastle-Sturm nach Isak/Gordon/Bruno-Abgängen — Woltemade/Wissa/Elanga-Aufstellung live prüfen (kicker.de/premierleague.com ~60 Min vor Anpfiff)."
+      },
+      {
+        "art": "aufstellungs_check_offen",
+        "spiel_id": "2026-09-20-bou-liv",
+        "details": "Liverpool-Sturm nach Salah/Konate/Robertson-Abgängen laut Kader-Datei — Isak-Startelf + Backup-9er live prüfen."
+      },
+      {
+        "art": "aufstellungs_check_offen",
+        "spiel_id": "2026-09-19-bri-ars",
+        "details": "Arsenal-Angriff: Gyoekeres als Solo-9er, Merino/Havertz-Falsche-9-Variante möglich. Aufstellung live prüfen — bei Havertz-9 Downgrade auf wackel."
+      },
+      {
+        "art": "aufstellungs_check_offen",
+        "spiel_id": "2026-09-20-om-psg",
+        "details": "PSG-CL-Rotation garantiert (10 Tage nach CL-MD1 gegen Atalanta oder wen auch immer). Aufstellung live prüfen — bei Ferran-Torres-Start-9 Downgrade Torschützen-Tipps."
+      },
+      {
+        "art": "recherche_file_fehlt",
+        "spiel_id": "*",
+        "details": "Kein data/recherche_wochenende/2026-09-19.json vorhanden — Slate live per WebSearch/WebFetch rekonstruiert. Dossier bewusst kompakt gehalten (9 Kernspiele). Bundesliga MD4 + LaLiga J6 wegen widersprüchlicher Fixture-Quellen bewusst ausgespart."
+      }
     ],
     "layer_checks": {
       "layer_1_max_1_bein_pro_spiel_pro_kombi": "OK — pro Kombi max 1 Bein je Spiel.",
