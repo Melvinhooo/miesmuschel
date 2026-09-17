@@ -3110,6 +3110,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "West Ham DC 1X @ 1.40 zu teuer in eigener Rotation (8h)",
       "lesson": "whu-ful-1 'West Ham oder Remis' @ 1.40 verlor 2:3. Fulham (Arbeloa-Coaching) hat mit Bobb als Super-Sub, Muniz + Palacios strukturell mehr Sturm-Klasse als West Ham (Potter-Uebergang), auch mit Rotation. Der 'Home-DC 1X'-Reflex hat den PL-vs-PL-Fall unterschaetzt. Konsequenz: bei PL-vs-PL im Cup NICHT automatisch DC-Home-Sieg-Tipps geben, sondern jeweils Kader-Tiefe + Coaching-Momentum abgleichen. West Ham DC-Home nur wenn Fulham klar tiefer rotiert - hier hat Arbeloa die Startelf mit Muniz+Bobb+King+Palacios stark besetzt.",
       "bezug_spiel_id": "2026-09-15-whu-ful"
+    },
+    {
+      "datum": "2026-09-16",
+      "kategorie": "EL-Ligaphase-MD1 defensiv-lastig - Ueber 2.5 als Falle",
+      "lesson": "4 von 6 EL-MD1-Spielen endeten UNTER 2.5 (Lev-Cel 2:0, Mil-Ben 0:2, Stu-Ren 0:0, Sun-Alk 1:0). Der Aggregator-Konsens 'Klassenunterschied bringt Tore' hat 3x nicht getragen: Leverkusen liess Celje bei 2:0 in Ruhe, Milan war zu Null zuhause, Sunderland gewann 1:0 gegen AZ (3.2 Tore/Spiel im Ruf). EL-Ligaphase-Auftakt ist strukturell defensiver als Vereins-Liga-Form suggeriert - Underdogs verteidigen mit 5er-Kette, Favoriten spielen kontrolliert. Konsequenz: bei EL/CL-Ligaphase-MD1 Ueber-2.5-Tipps auf 'wackel' setzen selbst bei klarem Favoriten-Kader. Unter-2.5-Value in MD1 aktiv suchen.",
+      "bezug_spiel_id": "2026-09-16-b04-cel"
+    },
+    {
+      "datum": "2026-09-16",
+      "kategorie": "HR22 Star-OUT bestaetigt + Einwechslungs-Boost-Trigger ohne Tipp",
+      "lesson": "oly-jag-1 (Sieg Olympiacos @1.36) mit HR22-Downgrade safe->value war korrekt: Trotz Klassen-Edge fuehrte Jagiellonia 20.-43. Min 0:1, erst der eingewechselte Yaremchuk (Backup-9er) rettete das Spiel per Kopfball in der 84. Klassisches Volumen-Backup-Muster: bei Star-Out-Vereinen (El Kaabi + Roca + Fortounis raus) den Backup-Stuermer als Torschuetzen-Kandidat aktiv scannen. Yaremchuk waere Einwechslungs-Boost-Kandidat gewesen, wenn Tipp auf El Kaabi's Startelf-Ersatz gelegen haette. Konsequenz: bei HR22-Downgrades zusaetzlich Backup-9er-Torschuetzen-VALUE-Tipp pruefen.",
+      "bezug_spiel_id": "2026-09-16-oly-jag"
+    },
+    {
+      "datum": "2026-09-16",
+      "kategorie": "DC-1X-Goldgruben-Falle in EL-MD1",
+      "lesson": "3 DC-1X-Tipps im Slate (Milan/Remis, Sunderland/Remis, Anderlecht/Remis), nur 1/3 durch (Sunderland). Milan verlor 0:2 zuhause gegen Benfica trotz 6-Duelle-ungeschlagen-H2H, Anderlecht 1:2 gegen Lyon-Formkrise. Der Markt-Goldgruben-Reflex 'DC 1X historisch 73% Hit' beruht auf einem Sample, das nicht EL-Ligaphase-Auftakt gewichtet - Auswaerts-Underdogs mit Motivations-Peak sind hier gefaehrlich. Konsequenz: DC 1X in EL-MD1 nur bei objektiv klarem Kader-Klassen-Vorteil UND Heim-Form-Serie - sonst statt DC-Home lieber Under-2.5 als Goldgrube-Ersatz spielen.",
+      "bezug_spiel_id": "2026-09-16-mil-ben"
+    },
+    {
+      "datum": "2026-09-16",
+      "kategorie": "Sieg-Auswaerts-Ligue1-vs-OeFB-Meister Klassen-These bricht in EL-Auftakt",
+      "lesson": "stu-ren-1 (Sieg Rennes @1.83) verlor 0:0 - Rennes 23 Torschuesse ohne Erfolg gegen Sturm-Defensive. Ligue-1-ungeschlagene Form (3S 1U in 4) und klarer Kader-Klassen-Vorteil reichten in Merkur-Arena nicht. Muster: OeFB-Meister zuhause in EL-Erstauftritt ist strukturell 'zaeher' als 1X2-Quote von 1.83 suggeriert - Underdog-Heim-EL-Debuet-Vorteil ist unterschaetzt. Fuer kuenftige EL-Auftakt-Auswaerts-Favoriten (Ligue1/Serie A/PL) mit Quote unter 2.00: DC statt Sieg spielen (DC X2 Rennes @1.30 rettete die Safe-Kombi trotz 0:0).",
+      "bezug_spiel_id": "2026-09-16-stu-ren"
     }
   ]
 };

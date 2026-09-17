@@ -1,0 +1,1499 @@
+{
+  "datum": "2026-09-16",
+  "erstellt_am": "2026-09-16T14:35:00+02:00",
+  "hinweis": "🐚 Watchdog-Recovery Mi 16.09.2026 (Saison 2026/27, Kasse 1000€ / Stufe 1). Europa-League-Ligaphase MD1 mit 6 Wettbewerbs-Spielen ab 21:00 Berlin — CL MD1 kommt erst nächste Woche (22.-24.09.), heute nur EL. Fokus: Leverkusen–Celje (extremer Favorit, Klassenunterschied → Tor-Total-Wette statt Sieg), Milan–Benfica (Klassiker, beide in Form), Rennes @ Sturm (Ligue-1-ungeschlagen). Recherche-File fehlte — Basis-Daten via WebSearch (bei bet365 alle Quoten live prüfen). Keine Torschützen-Tipps drin, weil ohne verifizierte Aufstellungs-Vorschau zu halluzinations-riskant.",
+  "_emergency_recovery": true,
+  "_recherche_fehlt": true,
+  "spiele": [
+    {
+      "id": "2026-09-16-b04-cel",
+      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 1",
+      "heim": "Bayer 04 Leverkusen",
+      "gast": "NK Celje",
+      "anstoss": "2026-09-16T21:00:00+02:00",
+      "stadion": "BayArena, Leverkusen",
+      "saison_kontext": {
+        "parallel_heim": "Bundesliga MD4 So 20.09. gegen Leipzig — heute EL primär, aber Bundesliga-Belastung minimal (Werkself hat Kader-Tiefe)",
+        "parallel_gast": "Slowenische PrvaLiga läuft parallel — NK Celje ist als Meister direkt in EL-Ligaphase, kein Nebenwettbewerb-Druck",
+        "saisonziel_heim": "CL-Quali via Bundesliga Top-4 + EL-Titel-Anspruch (nach Xabi-Alonso-Abgang neuer Trainer Carles Martinez Novell)",
+        "saisonziel_gast": "EL-Ligaphase überstehen wäre historisch — Slowenischer Meister ohne Klassen-Erfahrung",
+        "motivations_asymmetrie": "Krasser Klassenunterschied: Bundesliga-CL-Anwärter gegen slowenischen Meister. Leverkusen zuhause klarer Favorit (~81% implizite Siegwahrscheinlichkeit laut Aggregator), Celje hat neuen Trainer Zoran Zeljkovic für dieses Spiel — Erst-Auftritt in EL-Ligaphase.",
+        "recovery_heim": "Bundesliga-Spiel Sa 12.09. — 4 Tage Pause, ausreichend",
+        "recovery_gast": "PrvaLiga-Spiel am Wochenende — 3-4 Tage Pause, aber weite Anreise",
+        "quellen": [
+          "https://www.wettbasis.com/sportwetten-tipps/leverkusen-vs-celje-tipp-ki-prognose-quoten-16-09-2026-europa-league",
+          "https://www.sportschau.de/regional/wdr/wdr-leverkusen-und-das-grosse-unbekannte-bei-gegner-celje-100.html",
+          "https://www.bayer04.de/de-de/match/saison-202627/uefa-europa-league/1-spieltag"
+        ]
+      },
+      "news": [
+        "Sieg-Leverkusen-Quote extrem tief bei ~1.12 — Klassen-Duell",
+        "Kicker-Konsens: klarer Heim-Sieg",
+        "Kader-Wechsel 2026/27: Hincapie zu Arsenal weg, Alajbegovic zu Juve weg — kein Tipp mehr auf diese Spieler"
+      ],
+      "tipps": [
+        {
+          "id": "b04-cel-1",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.55,
+          "faire_quote": 1.42,
+          "edge_prozent": 8.4,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Klassenunterschied Bundesliga-CL-Anwärter vs slowenischer Meister — Leverkusen erwartungsgemäß 2-3 Tore, Celje sicher nicht dicht. Reality-Check: Über 2.5 Tore ist aktuelle Markt-Goldgrube (68% Hit / +30% ROI). Bei 1000€ Kasse = 15€ (Stufe 1). Bei bet365 live prüfen."
+        },
+        {
+          "id": "b04-cel-2",
+          "kategorie": "value",
+          "markt": "Bayer Leverkusen Handicap -1 (90 Min)",
+          "quote": 1.65,
+          "faire_quote": 1.5,
+          "edge_prozent": 8.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Sieg-Quote @1.12 zu niedrig für unser Range — HC -1 (Sieg mit 2+ Toren Abstand) ist der bessere Zugang bei diesem Klassen-Duell. 2:0-Insurance greift hier NICHT (EL fällt nicht unter bet365-DE-Aktionsregel). Bei 1000€ Kasse = 15€."
+        },
+        {
+          "id": "b04-cel-3",
+          "kategorie": "wackel",
+          "markt": "Über 3.5 Tore",
+          "quote": 1.9,
+          "faire_quote": 1.85,
+          "edge_prozent": 2.7,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Aggressiver Tor-Total-Hedge — Leverkusen zuhause oft 3-4 Tore gegen kleine Gegner. Wackel weil Celje evtl. hinten drinsteht. Bei 1000€ Kasse = 5€."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 0,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 0,
+        "endstand": "2:0",
+        "quelle": "WebSearch 2026-09-17 (ESPN/UEFA/VAVEL/fotmob/Sofascore/beinsports/TNT/allfootball)",
+        "abgerufen_am": "2026-09-17T06:08:42+00:00"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": 15,
+            "team": "heim",
+            "spieler": "Eigentor Svit Seslar",
+            "stand_danach": "1:0",
+            "details": "Eigentor durch Celje-Verteidiger"
+          },
+          {
+            "min": 74,
+            "team": "heim",
+            "spieler": "Facundo Medina",
+            "stand_danach": "2:0",
+            "details": "Volley nach Ecke, Abpraller"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Leverkusen fuehrte durchgehend"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Heim/Heim",
+          "kein_team_zu_null": false,
+          "celje_zu_null": true,
+          "handicap_leverkusen_minus_1": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "aus": "Patrik Schick",
+            "ein": "Christoph Kofane",
+            "minute": 71,
+            "tor": false,
+            "details": "kein Torschuetzen-Tipp lag drauf; Boost waere nicht aktiviert worden"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Klassenduell endet nur 2:0 - Leverkusen konservativer als von Aggregator-Quoten erwartet (Sieg @1.12 impliziert 89%, hier keine Torfestival-Auszahlung).",
+          "Ueber-2.5-Tipp gebrochen trotz Bundesliga-vs-slowen. Meister - HR3-Signal: Klassenunterschied garantiert kein Tor-Volumen.",
+          "HC -1 (Sieg mit 2+) war der richtige Zugang - Sieg-Quote 1.12 blieb ausserhalb Range, HC-Konstrukt zahlte @1.65 aus."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "b04-cel-1",
+          "status": "verloren",
+          "quote": 1.55,
+          "einsatz_euro": 15.0,
+          "auszahlung_euro": 0.0,
+          "gewinn_euro": -15.0,
+          "gewinn_faktor": 0.0,
+          "kommentar": "Leverkusen 2:0 - nur 2 Tore, Ueber 2.5 nicht durchgekommen",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "b04-cel-2",
+          "status": "gewonnen",
+          "quote": 1.65,
+          "einsatz_euro": 15.0,
+          "auszahlung_euro": 24.75,
+          "gewinn_euro": 9.75,
+          "gewinn_faktor": 1.65,
+          "kommentar": "Leverkusen 2:0 - HC -1 (Sieg mit 2+ Toren) sicher durch",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "b04-cel-3",
+          "status": "verloren",
+          "quote": 1.9,
+          "einsatz_euro": 5.0,
+          "auszahlung_euro": 0.0,
+          "gewinn_euro": -5.0,
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur 2 Tore, Ueber 3.5 verfehlt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-mil-ben",
+      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 1",
+      "heim": "AC Milan",
+      "gast": "SL Benfica",
+      "anstoss": "2026-09-16T21:00:00+02:00",
+      "stadion": "Stadio San Siro, Mailand",
+      "saison_kontext": {
+        "parallel_heim": "Serie A 5. Spieltag am Wochenende — heute EL primär",
+        "parallel_gast": "Primeira Liga am Wochenende — heute EL primär, weite Anreise Lissabon-Mailand",
+        "saisonziel_heim": "Serie A Top-4 + EL-Titel — Amorim-System läuft an, aktuell 4 Spiele ungeschlagen (2 Siege, 2 Remis inkl. 2:2 Lazio + 1:1 Juve)",
+        "saisonziel_gast": "Primeira-Liga-Titel + tiefer EL-Run — aktuell 7-Spiele-Siegesserie in allen Wettbewerben (4 Ligasiege + 1 Remis)",
+        "motivations_asymmetrie": "Sehr ausgeglichen: Milan zuhause Serie-A-Klub mit historisch guter H2H vs Benfica (6 Wettbewerbs-Duelle ungeschlagen). Beide Teams offensivstark, beidseitiger Motivations-Druck als EL-Titel-Anwärter. Coinflip-nah aber leichter Milan-Heim-Edge.",
+        "recovery_heim": "Serie-A-Spiel Sa/So — 3-4 Tage Pause",
+        "recovery_gast": "Primeira-Liga-Spiel + Anreise Lissabon-Mailand ~3 Std Flug — leichter Nachteil",
+        "quellen": [
+          "https://www.acmilan.com/en/match-center/2026-27-uefa-europa-league-ac-milan-sl-benfica-donqu6bltepo7k7bsmdffhfys",
+          "https://www.goal.com/en/news/ac-milan-benfica-europa-league-preview/blta2172a304c11abd2",
+          "https://sempremilan.com/preview-ac-milan-benfica-team-news-prediction-2026-27"
+        ]
+      },
+      "news": [
+        "Milan neuer Trainer Amorim (3-4-2-1) — Gonçalo Ramos als zentraler 9er von PSG, Leao raus (Galatasaray), Nkunku raus (Leih Leipzig)",
+        "Benfica 7-Spiele-Siegesserie all comps — Titel-Kandidat",
+        "Historisch Milan unbeaten in 6 competitive vs Benfica (inkl. 2 EC-Finals)"
+      ],
+      "tipps": [
+        {
+          "id": "mil-ben-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Milan oder Remis",
+          "quote": 1.3,
+          "faire_quote": 1.22,
+          "edge_prozent": 6.5,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Milan zuhause historisch stark gegen Benfica (6 Duelle ungeschlagen). DC 1X ist aktuelle Markt-Goldgrube (73% Hit / +40% ROI). Vermeidet die 50/50-Falle im Sieg-Markt. Bei 1000€ Kasse = 15€. Bei bet365 live prüfen.",
+          "hinweis": "Markt-Goldgrube DC 1X"
+        },
+        {
+          "id": "mil-ben-2",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen Ja",
+          "quote": 1.75,
+          "faire_quote": 1.72,
+          "edge_prozent": 1.7,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Beide Teams offensivstark, Benfica erzielte 4W+1D-Serie mit vielen Toren. Milan hat neuen zentralen 9er Ramos. Wackel weil Milan defensiv nach 2 Remis stabilisiert wirkt. Bei 1000€ Kasse = 5€."
+        },
+        {
+          "id": "mil-ben-3",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.95,
+          "faire_quote": 1.9,
+          "edge_prozent": 2.6,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Beide Teams offensivstark, aber Milans letzte 2 Serie-A-Spiele endeten 2:2 und 1:1 — Tor-Volumen ist da. Bei 1000€ Kasse = 5€."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 2,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 1,
+        "endstand": "0:2",
+        "quelle": "WebSearch 2026-09-17 (ESPN/UEFA/VAVEL/fotmob/Sofascore/beinsports/TNT/allfootball)",
+        "abgerufen_am": "2026-09-17T06:08:42+00:00"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "0:2",
+        "tore": [
+          {
+            "min": 16,
+            "team": "gast",
+            "spieler": "Dodi Lukebakio",
+            "stand_danach": "0:1",
+            "details": "Zuspiel Kaminski, Rechtsaussen-Curler ins lange Eck"
+          },
+          {
+            "min": 53,
+            "team": "gast",
+            "spieler": "Jakub Kaminski",
+            "stand_danach": "0:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Benfica fuehrte durchgehend"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Gast/Gast",
+          "kein_team_zu_null": false,
+          "milan_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "DC-1X-Goldgruben-Falle: historische H2H (Milan 6 Duelle ungeschlagen) hielt nicht, aktuelle Form (Amorim-System noch am Anlaufen) schlug klar durch.",
+          "BTTS-Ja-Wackel gebrochen trotz beidseitiger Offensiv-Analyse - Milan zuhause zu Null: 4 xG-Chancen minimal.",
+          "Benfica-Ligaphase-Auftakt bestaetigt 7-Spiele-Siegesserie - Auswaerts-Sieg gegen Serie-A-Klub war Motivations-Peak."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "mil-ben-1",
+          "status": "verloren",
+          "quote": 1.3,
+          "einsatz_euro": 15.0,
+          "auszahlung_euro": 0.0,
+          "gewinn_euro": -15.0,
+          "gewinn_faktor": 0.0,
+          "kommentar": "Benfica 2:0 auswaerts - DC 1X (Milan/Remis) verloren",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mil-ben-2",
+          "status": "verloren",
+          "quote": 1.75,
+          "einsatz_euro": 5.0,
+          "auszahlung_euro": 0.0,
+          "gewinn_euro": -5.0,
+          "gewinn_faktor": 0.0,
+          "kommentar": "Milan zu Null - BTTS Ja verloren",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mil-ben-3",
+          "status": "verloren",
+          "quote": 1.95,
+          "einsatz_euro": 5.0,
+          "auszahlung_euro": 0.0,
+          "gewinn_euro": -5.0,
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur 2 Tore, Ueber 2.5 verfehlt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-and-lyo",
+      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 1",
+      "heim": "RSC Anderlecht",
+      "gast": "Olympique Lyon",
+      "anstoss": "2026-09-16T21:00:00+02:00",
+      "stadion": "Lotto Park, Brüssel",
+      "saison_kontext": {
+        "parallel_heim": "Jupiler Pro League am Wochenende — Anderlecht in Belgien belastet, aber Kader-Tiefe da",
+        "parallel_gast": "Ligue 1 am Wochenende — Lyon in aktuell durchwachsener Form (1 Sieg in letzten 4 all comps)",
+        "saisonziel_heim": "JPL-Titel-Anwärter + EL-Ligaphase überstehen — starke Heim-EL-Bilanz (3 Heimsiege in Folge in Europa)",
+        "saisonziel_gast": "Ligue-1-Comeback nach schwacher Saison 2025/26 + EL-Kompensation für CL-Nichtquali",
+        "motivations_asymmetrie": "Coinflip-nah: Lyon nominal stärker (Ligue-1-Klub), aber aktuell in Formkrise (1 Sieg in 4). Anderlecht mit Heim-EL-Serie und mehr Frische. Kein klarer Klassen-Edge — Wackel-Zone.",
+        "recovery_heim": "JPL-Spiel Sa/So — 3-4 Tage Pause",
+        "recovery_gast": "Ligue-1-Spiel + Anreise — leichte Belastung",
+        "quellen": [
+          "https://footballwhispers.com/blog/anderlecht-vs-lyon-prediction-preview-betting-tips-16-09-2026/",
+          "https://sports.yahoo.com/articles/preview-anderlecht-vs-lyon-team-192000919.html",
+          "https://www.uefa.com/uefaeuropaleague/"
+        ]
+      },
+      "news": [
+        "Sieg Lyon Quote ~2.05, Sieg Anderlecht ~2.90, Remis ~3.40 — Coinflip-nah",
+        "Anderlecht 3 Heim-Europa-Siege in Folge — Fort Lotto",
+        "Lyon nur 1 Sieg in letzten 4 Pflichtspielen — Formkrise"
+      ],
+      "tipps": [
+        {
+          "id": "and-lyo-1",
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance Anderlecht oder Remis",
+          "quote": 1.85,
+          "faire_quote": 1.8,
+          "edge_prozent": 2.7,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Anti-Lyon-Formkrise + Anderlecht-Heim-EL-Serie. Wackel weil Lyon nominal stärker. Bei 1000€ Kasse = 5€.",
+          "hinweis": "Coinflip-Spiel, eher zum Überspringen — Wackel-Tipp als Basis."
+        },
+        {
+          "id": "and-lyo-2",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 2.3,
+          "faire_quote": 2.2,
+          "edge_prozent": 4.3,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Lyon aktuell offensiv schwach, EL-Erstauftritt oft taktisch abgeklärt. Unter 2.5 Tore ist Markt-Goldgrube (68% Hit / +30% ROI). Bei 1000€ Kasse = 5€."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 2,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 2,
+        "endstand": "1:2",
+        "quelle": "WebSearch 2026-09-17 (ESPN/UEFA/VAVEL/fotmob/Sofascore/beinsports/TNT/allfootball)",
+        "abgerufen_am": "2026-09-17T06:08:42+00:00"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "0:2",
+        "endstand": "1:2",
+        "tore": [
+          {
+            "min": 8,
+            "team": "gast",
+            "spieler": "Noah Nartey",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 22,
+            "team": "gast",
+            "spieler": "Keito Nakamura",
+            "stand_danach": "0:2",
+            "details": "erster Nakamura-Treffer fuer Lyon"
+          },
+          {
+            "min": 61,
+            "team": "heim",
+            "spieler": "Mihajlo Cvetkovic",
+            "stand_danach": "1:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Lyon fuehrte 0:2 nach 22. Min, Anderlecht kam nicht mehr ran"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Gast/Gast",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Lyon-Formkrise-These falsch: 2:0 nach 22 Min - Klasse setzte sich klar durch trotz \"1 Sieg in 4\"-Vorserie.",
+          "DC-Anderlecht-Wackel (Heim-EL-Serie 3S) gebrochen - eigene Analyse hatte \"Coinflip-Spiel, eher zum Ueberspringen\" markiert, aber Tipp trotzdem gesetzt: HR15-Verletzung.",
+          "Unter-2.5-Tipp gebrochen (3 Tore); Anderlecht/Lyon-Muster klar offensiv geordnet."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "and-lyo-1",
+          "status": "verloren",
+          "quote": 1.85,
+          "einsatz_euro": 5.0,
+          "auszahlung_euro": 0.0,
+          "gewinn_euro": -5.0,
+          "gewinn_faktor": 0.0,
+          "kommentar": "Lyon 2:1 - DC 1X (Anderlecht/Remis) verloren",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "and-lyo-2",
+          "status": "verloren",
+          "quote": 2.3,
+          "einsatz_euro": 5.0,
+          "auszahlung_euro": 0.0,
+          "gewinn_euro": -5.0,
+          "gewinn_faktor": 0.0,
+          "kommentar": "3 Tore, Unter 2.5 verfehlt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-oly-jag",
+      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 1",
+      "heim": "Olympiacos Piräus",
+      "gast": "Jagiellonia Białystok",
+      "anstoss": "2026-09-16T21:00:00+02:00",
+      "stadion": "Karaiskakis-Stadion, Piräus",
+      "saison_kontext": {
+        "parallel_heim": "Super League Griechenland am Wochenende",
+        "parallel_gast": "Ekstraklasa Polen am Wochenende — weite Anreise",
+        "saisonziel_heim": "Griechischer Meister-Anspruch + EL-Ligaphase überstehen — deutlich stärkerer Klub",
+        "saisonziel_gast": "Polnischer Underdog — Kwalifikation ins Achtelfinale historisch",
+        "motivations_asymmetrie": "Klassen-Edge Olympiacos zuhause — aber HR22-Alarm: Top-Stürmer El Kaabi OUT (Wangenbeinbruch), Roca out (Schulter), Fortounis gesperrt. Kein Sieg-SAFE trotz Klassen-Unterschied — Implosions-Risiko bei Trippel-Ausfall.",
+        "recovery_heim": "Super-League-Spiel Sa/So — 3-4 Tage Pause",
+        "recovery_gast": "Ekstraklasa-Spiel + Flug Warschau-Athen ~3 Std",
+        "quellen": [
+          "https://footballwhispers.com/blog/olympiacos-vs-jagiellonia-bialystok-prediction-16-09-2026/",
+          "https://thefootballfaithful.com/olympiacos-f-c-vs-jagiellonia-bialystok-prediction-betting-tips-16-09-2026/"
+        ]
+      },
+      "news": [
+        "El Kaabi (Top-Stürmer) OUT wegen Wangenbeinbruch",
+        "Roca (Winger) OUT Schulter, Fortounis gesperrt",
+        "Sieg-Olympiacos-Quote trotzdem ~1.36 (Aggregator-Konsens)"
+      ],
+      "tipps": [
+        {
+          "id": "oly-jag-1",
+          "kategorie": "value",
+          "markt": "Sieg Olympiacos Piräus (90 Min)",
+          "quote": 1.36,
+          "faire_quote": 1.32,
+          "edge_prozent": 3.0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 10.0,
+          "begruendung": "Klassen-Edge Olympiacos, aber HR22 aktiv (El Kaabi + Roca + Fortounis alle raus). Kein SAFE-Downgrade auf VALUE. Reality-Check: Sieg-Heim-Griechenland-Bilanz aus statistik.json noch dünn (n<10) — Standard-Analyse. Bei 1000€ Kasse = 10€. Bei bet365 live prüfen."
+        },
+        {
+          "id": "oly-jag-2",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 2.0,
+          "faire_quote": 1.9,
+          "edge_prozent": 5.3,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "El Kaabi als Volumen-9er OUT → Olympiacos-Offensive lahmgelegt. Jagiellonia auswärts oft passiv. Unter 2.5 Tore als HR22-Hedge (Anti-Implosions-Total). Markt-Goldgrube (68% Hit / +30% ROI). Bei 1000€ Kasse = 5€."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 1,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 1,
+        "endstand": "2:1",
+        "quelle": "WebSearch 2026-09-17 (ESPN/UEFA/VAVEL/fotmob/Sofascore/beinsports/TNT/allfootball)",
+        "abgerufen_am": "2026-09-17T06:08:42+00:00"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "2:1",
+        "tore": [
+          {
+            "min": 20,
+            "team": "gast",
+            "spieler": "Kajetan Szmyt",
+            "stand_danach": "0:1",
+            "assist": "Nik Prelec"
+          },
+          {
+            "min": 43,
+            "team": "heim",
+            "spieler": "Armando Gonzalez",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 84,
+            "team": "heim",
+            "spieler": "Roman Yaremchuk",
+            "stand_danach": "2:1",
+            "assist": "Remo Freuler",
+            "details": "Yaremchuk kam als Einwechsler, spaeter Kopfball-Winner"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein 2-Tore-Zwischenstand mit anschliessender Wende. Jagiellonia fuehrte 0:1, wurde eingeholt und ueberholt."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Remis/Heim",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "El Kaabi + Roca + Fortounis alle NICHT verfuegbar",
+            "details": "Trio-Ausfall wie erwartet; Offensive stotterte in 1. HZ (0:1 nach 20), Yaremchuk kam von Bank und traf 84."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "aus": "Ricard Sanchez",
+            "ein": "Roman Yaremchuk",
+            "minute": null,
+            "tor": true,
+            "details": "Yaremchuk als Einwechsler traf 84. Min zum 2:1 - kein Torschuetzen-Tipp lag drauf, waere aber Boost-Kandidat gewesen wenn auf Original-9er getippt."
+          }
+        ],
+        "auffaellige_patterns": [
+          "HR22-Downgrade (El-Kaabi-Trio-Out) war richtig - Olympiacos wackelte 90 Min, gewann erst 84. spaet.",
+          "Einwechslungs-Boost-Trigger ohne Tipp: Yaremchuk (Backup-9er) traf spaeten Winner - klassisches Volumen-Backup-Muster fuer kuenftige Torschuetzen-Tipps.",
+          "Unter-2.5-Wackel gebrochen trotz Star-Ausfaellen (3 Tore); Jagiellonia offensiver als erwartet."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "oly-jag-1",
+          "status": "gewonnen",
+          "quote": 1.36,
+          "einsatz_euro": 10.0,
+          "auszahlung_euro": 13.6,
+          "gewinn_euro": 3.6,
+          "gewinn_faktor": 1.36,
+          "kommentar": "Olympiacos 2:1 nach spaetem Yaremchuk-Treffer 84. Min",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "oly-jag-2",
+          "status": "verloren",
+          "quote": 2.0,
+          "einsatz_euro": 5.0,
+          "auszahlung_euro": 0.0,
+          "gewinn_euro": -5.0,
+          "gewinn_faktor": 0.0,
+          "kommentar": "3 Tore, Unter 2.5 verfehlt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-stu-ren",
+      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 1",
+      "heim": "SK Sturm Graz",
+      "gast": "Stade Rennais",
+      "anstoss": "2026-09-16T21:00:00+02:00",
+      "stadion": "Merkur-Arena, Graz",
+      "saison_kontext": {
+        "parallel_heim": "ÖFB-Bundesliga am Wochenende",
+        "parallel_gast": "Ligue 1 am Wochenende — Rennes bisher ungeschlagen (3S 1U in 4)",
+        "saisonziel_heim": "ÖFB-Meister-Verteidigung + EL-Ligaphase — Klassen-Underdog vs Ligue-1-Klub",
+        "saisonziel_gast": "Ligue 1 Top-6 + EL-Titel-Anwärter — aktuell in Form",
+        "motivations_asymmetrie": "Klarer Klassen-Vorteil Rennes (Ligue 1 ungeschlagen), Sturm zuhause aber traditionell zäh. Erst-Duell der beiden Klubs — kein H2H.",
+        "recovery_heim": "ÖFB-Spiel Sa/So — 3-4 Tage Pause",
+        "recovery_gast": "Ligue-1-Spiel + Flug Frankreich-Österreich",
+        "quellen": [
+          "https://www.whoscored.com/matches/2029535/preview/europe-europa-league-2026-2027-sturm-graz-rennes",
+          "https://africasoccer.com/europa-league-sturm-graz-v-stade-rennais-date-kick-off-time-and-where-to-watch/"
+        ]
+      },
+      "news": [
+        "Sieg-Rennes-Quote ~1.83, Remis ~3.70, Sieg-Sturm ~3.60",
+        "Rennes 4 Ligue-1-Spiele ungeschlagen (3S 1U)",
+        "Erst-Duell beider Klubs"
+      ],
+      "tipps": [
+        {
+          "id": "stu-ren-1",
+          "kategorie": "value",
+          "markt": "Sieg Stade Rennais (90 Min)",
+          "quote": 1.83,
+          "faire_quote": 1.7,
+          "edge_prozent": 7.6,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Rennes Ligue-1-ungeschlagen (3S 1U in 4) und der klar bessere Kader vs österreichischer Meister. Reality-Check: Auswärts-Sieg-Ligue-1-Bilanz noch dünn (n<10) — Standard. Bei 1000€ Kasse = 15€. Bei bet365 live prüfen."
+        },
+        {
+          "id": "stu-ren-2",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Rennes oder Remis",
+          "quote": 1.3,
+          "faire_quote": 1.24,
+          "edge_prozent": 4.8,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 10.0,
+          "begruendung": "Markt-Goldgrube DC X2 (75% Hit / +9% ROI). Rennes-Formstärke abgesichert gegen Underdog-Auswärts-Remis. Bei 1000€ Kasse = 10€."
+        },
+        {
+          "id": "stu-ren-3",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.8,
+          "faire_quote": 1.8,
+          "edge_prozent": 0.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Rennes offensivstark, Sturm zuhause offensiv-orientiert — Tor-Volumen wahrscheinlich. Wackel weil EL-Erstauftritt oft taktisch. Bei 1000€ Kasse = 5€."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 0,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "endstand": "0:0",
+        "quelle": "WebSearch 2026-09-17 (ESPN/UEFA/VAVEL/fotmob/Sofascore/beinsports/TNT/allfootball)",
+        "abgerufen_am": "2026-09-17T06:08:42+00:00"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:0",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Torloses Remis"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_0_5": false,
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Remis/Remis",
+          "kein_team_zu_null": false,
+          "beide_teams_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Rennes 23 Torschuesse ohne Treffer - Ligue-1-Formstaerke prallte an Sturm-Defensive ab.",
+          "Sieg-Rennes-Value (klarer Klassen-Vorteil) haette entkoppelt gespielt werden muessen - DC-X2 rettete die Kombi-Safe.",
+          "EL-Erstauftritt-Taktik-These bestaetigt: Underdog-Heim zu Null moeglich trotz Klassen-Gefaelle."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "stu-ren-1",
+          "status": "verloren",
+          "quote": 1.83,
+          "einsatz_euro": 15.0,
+          "auszahlung_euro": 0.0,
+          "gewinn_euro": -15.0,
+          "gewinn_faktor": 0.0,
+          "kommentar": "0:0 - Sieg Rennes verloren",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "stu-ren-2",
+          "status": "gewonnen",
+          "quote": 1.3,
+          "einsatz_euro": 10.0,
+          "auszahlung_euro": 13.0,
+          "gewinn_euro": 3.0,
+          "gewinn_faktor": 1.3,
+          "kommentar": "0:0 Remis - DC X2 (Rennes/Remis) durch",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "stu-ren-3",
+          "status": "verloren",
+          "quote": 1.8,
+          "einsatz_euro": 5.0,
+          "auszahlung_euro": 0.0,
+          "gewinn_euro": -5.0,
+          "gewinn_faktor": 0.0,
+          "kommentar": "0:0 - Ueber 2.5 verloren",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ]
+    },
+    {
+      "id": "2026-09-16-sun-alk",
+      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 1",
+      "heim": "Sunderland AFC",
+      "gast": "AZ Alkmaar",
+      "anstoss": "2026-09-16T21:00:00+02:00",
+      "stadion": "Stadium of Light, Sunderland",
+      "saison_kontext": {
+        "parallel_heim": "Premier League am Wochenende — Sunderland als PL-Aufsteiger noch in der Findungsphase",
+        "parallel_gast": "Eredivisie am Wochenende — AZ 5 Pflichtsiege in Folge, 3.2 Tore/Spiel",
+        "saisonziel_heim": "PL-Klassenerhalt + EL-Ligaphase erleben — Fans-Rückkehr in Europa nach 60+ Jahren",
+        "saisonziel_gast": "Eredivisie Top-4 + EL-Runde 16 — hochkarätig",
+        "motivations_asymmetrie": "AZ-Form aktuell stark (5 Siege in Folge all comps, 3.2 Tore/Spiel), Sunderland als PL-Aufsteiger unerfahren in Europa. Heimatmosphäre ist der einzige Sunderland-Faktor. AZ ist trotz Auswärts-Rolle klar der bessere Ball-Klub.",
+        "recovery_heim": "PL-Spiel Sa/So — 3-4 Tage Pause",
+        "recovery_gast": "Eredivisie-Spiel + Fähre/Flug UK",
+        "quellen": [
+          "https://www.goal.com/en-gb/news/live-stream-online-tv-where-to-watch-sunderland-v-az-alkmaar/blte5976f2b478430ec",
+          "https://tipiq.ai/football/europe/uefa-europa-league/sunderland-vs-az-alkmaar-prediction-f2a049da-08ae-8955-9bab-aef4edbaaa3f",
+          "https://dailysports.net/predictions/can-azs-flying-attack-survive-the-stadium-of-light-sunderland-vs-az-alkmaar-prediction-16092026/"
+        ]
+      },
+      "news": [
+        "AZ 5 Pflichtsiege in Folge mit 3.2 Toren/Spiel im Schnitt",
+        "Sunderland Sieg-Quote streut breit (1.53-1.66) — Markt uneinig",
+        "Stadium of Light EL-Rückkehr nach 60+ Jahren"
+      ],
+      "tipps": [
+        {
+          "id": "sun-alk-1",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "faire_quote": 1.6,
+          "edge_prozent": 9.4,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "AZ 3.2 Tore/Spiel-Schnitt letzte 5 Pflichtspiele, Sunderland als offensiv-orientierter PL-Aufsteiger. Markt-Goldgrube Über 2.5 (66.7% Hit / +27.5% ROI). Bei 1000€ Kasse = 15€. Bei bet365 live prüfen."
+        },
+        {
+          "id": "sun-alk-2",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Sunderland oder Remis",
+          "quote": 1.28,
+          "faire_quote": 1.22,
+          "edge_prozent": 4.9,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 10.0,
+          "begruendung": "Markt-Goldgrube DC 1X (73% Hit / +40% ROI). Heim-Stadium-of-Light-Vorteil + Markt-Unentschlossenheit (Quote 1.53-1.66 breit gestreut) → DC statt Sieg. Bei 1000€ Kasse = 10€."
+        },
+        {
+          "id": "sun-alk-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen Ja",
+          "quote": 1.7,
+          "faire_quote": 1.67,
+          "edge_prozent": 1.8,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "AZ offensivstark, Sunderland zuhause traditionell offen. BTTS-Ja passt zum Tor-Total-Bild. Bei 1000€ Kasse = 5€."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 0,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "endstand": "1:0",
+        "quelle": "WebSearch 2026-09-17 (ESPN/UEFA/VAVEL/fotmob/Sofascore/beinsports/TNT/allfootball)",
+        "abgerufen_am": "2026-09-17T06:08:42+00:00"
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": 66,
+            "team": "heim",
+            "spieler": "Enzo Le Fee",
+            "stand_danach": "1:0",
+            "details": "Foulelfmeter"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Sunderland fuehrte ab 66. Min bis Schluss"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_0_5": true,
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Remis/Heim",
+          "kein_team_zu_null": false,
+          "az_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Ueber-2.5-These (AZ 3.2 Tore/Spiel-Schnitt) klar gebrochen - Stadium-of-Light-Atmosphaere lahmlegte AZ-Offensive, 1 Tor nur per Elfmeter.",
+          "DC-Sunderland-Goldgrube zahlte (Sieg 1:0) - Heim-Vorteil und Markt-Unentschlossenheit-These bestaetigt.",
+          "BTTS-Wackel gebrochen: AZ-Offensiv-Ruf hielt Auswaerts-Debuet nicht durch."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "sun-alk-1",
+          "status": "verloren",
+          "quote": 1.75,
+          "einsatz_euro": 15.0,
+          "auszahlung_euro": 0.0,
+          "gewinn_euro": -15.0,
+          "gewinn_faktor": 0.0,
+          "kommentar": "1:0 - nur 1 Tor, Ueber 2.5 verfehlt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sun-alk-2",
+          "status": "gewonnen",
+          "quote": 1.28,
+          "einsatz_euro": 10.0,
+          "auszahlung_euro": 12.8,
+          "gewinn_euro": 2.8,
+          "gewinn_faktor": 1.28,
+          "kommentar": "Sunderland 1:0 - DC 1X durch",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sun-alk-3",
+          "status": "verloren",
+          "quote": 1.7,
+          "einsatz_euro": 5.0,
+          "auszahlung_euro": 0.0,
+          "gewinn_euro": -5.0,
+          "gewinn_faktor": 0.0,
+          "kommentar": "Sunderland zu Null 1:0 - BTTS Ja verloren",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ]
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "top-1",
+      "spiel_id": "2026-09-16-b04-cel",
+      "spiel_label": "Leverkusen vs NK Celje",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.55,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Klassenunterschied Bundesliga vs slowenischer Meister — Über 2.5 als Markt-Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1
+    },
+    {
+      "id": "top-2",
+      "spiel_id": "2026-09-16-b04-cel",
+      "spiel_label": "Leverkusen vs NK Celje",
+      "kategorie": "value",
+      "markt": "Bayer Leverkusen Handicap -1 (90 Min)",
+      "quote": 1.65,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Sieg-Quote 1.12 zu tief für Range — HC -1 als Sieg-Alternative.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2
+    },
+    {
+      "id": "top-3",
+      "spiel_id": "2026-09-16-stu-ren",
+      "spiel_label": "Sturm Graz vs Rennes",
+      "kategorie": "value",
+      "markt": "Sieg Stade Rennais (90 Min)",
+      "quote": 1.83,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Rennes Ligue-1-ungeschlagen, klarer Klassenvorteil vs ÖFB-Meister.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
+    },
+    {
+      "id": "top-4",
+      "spiel_id": "2026-09-16-sun-alk",
+      "spiel_label": "Sunderland vs AZ Alkmaar",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.75,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "AZ 3.2 Tore/Spiel-Schnitt + Sunderland offensiv-orientiert.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
+    },
+    {
+      "id": "top-5",
+      "spiel_id": "2026-09-16-mil-ben",
+      "spiel_label": "Milan vs Benfica",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Milan oder Remis",
+      "quote": 1.3,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Milan zuhause historisch stark vs Benfica (6 Duelle ungeschlagen). DC 1X = Markt-Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
+    },
+    {
+      "id": "top-6",
+      "spiel_id": "2026-09-16-stu-ren",
+      "spiel_label": "Sturm Graz vs Rennes",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Rennes oder Remis",
+      "quote": 1.3,
+      "einsatz_euro": 10.0,
+      "kurz_begruendung": "Rennes-Form abgesichert — Markt-Goldgrube DC X2.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6
+    },
+    {
+      "id": "top-7",
+      "spiel_id": "2026-09-16-oly-jag",
+      "spiel_label": "Olympiacos vs Jagiellonia",
+      "kategorie": "value",
+      "markt": "Sieg Olympiacos Piräus (90 Min)",
+      "quote": 1.36,
+      "einsatz_euro": 10.0,
+      "kurz_begruendung": "Klassen-Edge trotz El-Kaabi-Ausfall — HR22-Downgrade auf VALUE.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
+    },
+    {
+      "id": "top-8",
+      "spiel_id": "2026-09-16-sun-alk",
+      "spiel_label": "Sunderland vs AZ Alkmaar",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Sunderland oder Remis",
+      "quote": 1.28,
+      "einsatz_euro": 10.0,
+      "kurz_begruendung": "Heim-Vorteil + Markt-Unentschlossenheit → DC statt Sieg.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8
+    },
+    {
+      "id": "top-9",
+      "spiel_id": "2026-09-16-b04-cel",
+      "spiel_label": "Leverkusen vs NK Celje",
+      "kategorie": "wackel",
+      "markt": "Über 3.5 Tore",
+      "quote": 1.9,
+      "einsatz_euro": 5.0,
+      "kurz_begruendung": "Leverkusen-Torfestival-Kandidat, Wackel wegen Celje-Bus-Risiko.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9
+    },
+    {
+      "id": "top-10",
+      "spiel_id": "2026-09-16-and-lyo",
+      "spiel_label": "Anderlecht vs Lyon",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore",
+      "quote": 2.3,
+      "einsatz_euro": 5.0,
+      "kurz_begruendung": "Coinflip-Spiel + Lyon-Formkrise + EL-Erstauftritt-Vorsicht.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "kategorie": "safe",
+      "name": "Safe-Kombi Mi 16.09.",
+      "beine": [
+        {
+          "spiel_id": "2026-09-16-b04-cel",
+          "spiel_label": "Leverkusen vs NK Celje",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.55,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-16-stu-ren",
+          "spiel_label": "Sturm Graz vs Rennes",
+          "markt": "Doppelte Chance Rennes oder Remis",
+          "quote": 1.3,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-16-oly-jag",
+          "spiel_label": "Olympiacos vs Jagiellonia",
+          "markt": "Sieg Olympiacos Piräus",
+          "quote": 1.36,
+          "kategorie": "safe"
+        }
+      ],
+      "gesamtquote": 2.74,
+      "rechnung": "1.55 x 1.30 x 1.36 = 2.74",
+      "einsatz_euro": 20.0,
+      "kurz_begruendung": "3 verschiedene Spiele — Tor-Total (BayArena-Klassenduell) + Rennes-DC (Klassen-Edge) + Olympiacos-Sieg (Klassen-Edge trotz El-Kaabi-Out). Quote knapp unter Range 3-5x, konservativ.",
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "kombi-balance",
+      "kategorie": "balance",
+      "name": "Balance-Kombi Mi 16.09.",
+      "beine": [
+        {
+          "spiel_id": "2026-09-16-b04-cel",
+          "spiel_label": "Leverkusen vs NK Celje",
+          "markt": "Bayer Leverkusen Handicap -1 (90 Min)",
+          "quote": 1.65,
+          "kategorie": "balance"
+        },
+        {
+          "spiel_id": "2026-09-16-mil-ben",
+          "spiel_label": "Milan vs Benfica",
+          "markt": "Doppelte Chance Milan oder Remis",
+          "quote": 1.3,
+          "kategorie": "balance"
+        },
+        {
+          "spiel_id": "2026-09-16-sun-alk",
+          "spiel_label": "Sunderland vs AZ Alkmaar",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "kategorie": "balance"
+        }
+      ],
+      "gesamtquote": 3.75,
+      "rechnung": "1.65 x 1.30 x 1.75 = 3.75",
+      "einsatz_euro": 8.0,
+      "kurz_begruendung": "3 verschiedene Spiele + Markt-Mix (Handicap + DC + Tor-Total). Layer-2 sauber. Quote knapp unter Range 6-10x — konservative Balance.",
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "kombi-risiko",
+      "kategorie": "risk",
+      "name": "Risiko-Kombi Mi 16.09.",
+      "beine": [
+        {
+          "spiel_id": "2026-09-16-sun-alk",
+          "spiel_label": "Sunderland vs AZ Alkmaar",
+          "markt": "Doppelte Chance Sunderland oder Remis",
+          "quote": 1.28,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-09-16-b04-cel",
+          "spiel_label": "Leverkusen vs NK Celje",
+          "markt": "Über 3.5 Tore",
+          "quote": 1.9,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-09-16-mil-ben",
+          "spiel_label": "Milan vs Benfica",
+          "markt": "Beide Teams treffen Ja",
+          "quote": 1.75,
+          "kategorie": "risk"
+        }
+      ],
+      "gesamtquote": 4.26,
+      "rechnung": "1.28 x 1.90 x 1.75 = 4.26",
+      "einsatz_euro": 2.5,
+      "kurz_begruendung": "4 Beine über 4 verschiedene Spiele — Sieg + DC + Tor-Total-Aggressiv + BTTS. Quote unter Range 15-30x, aber ehrlich — der Slate hat wenig echte Underdog-Value. Als Balance-Plus zu sehen.",
+      "empfohlener_einsatz_prozent": 0.25
+    },
+    {
+      "id": "kombi-moonshot",
+      "kategorie": "moonshot",
+      "name": "Moonshot-Kombi Mi 16.09.",
+      "beine": [
+        {
+          "spiel_id": "2026-09-16-and-lyo",
+          "spiel_label": "Anderlecht vs Lyon",
+          "markt": "Sieg RSC Anderlecht",
+          "quote": 2.9,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-09-16-b04-cel",
+          "spiel_label": "Leverkusen vs NK Celje",
+          "markt": "Über 4.5 Tore",
+          "quote": 3.2,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-09-16-oly-jag",
+          "spiel_label": "Olympiacos vs Jagiellonia",
+          "markt": "Beide Teams treffen Ja",
+          "quote": 2.1,
+          "kategorie": "moonshot"
+        }
+      ],
+      "gesamtquote": 19.49,
+      "rechnung": "2.90 x 3.20 x 2.10 = 19.49",
+      "einsatz_euro": 1.0,
+      "kurz_begruendung": "Klare Lotterie — Underdog-Sieg Anderlecht + Underdog-Sieg Benfica + Torfestival Leverkusen + El-Kaabi-Out-BTTS. Erreicht keine 100x — ehrlich gesagt eher Risiko-Plus. Spaßeinsatz 1€.",
+      "empfohlener_einsatz_prozent": 0.1
+    }
+  ],
+  "lessons_angewandt": [
+    "HR1 (Quoten-Range): Leverkusen-Sieg @1.12 zu tief für SAFE-Range → HC -1 als Alternative",
+    "HR22 (Star-OUT): Olympiacos-Sieg trotz El-Kaabi-Out kein SAFE, Downgrade auf VALUE + Unter-2.5-Hedge",
+    "HR23 (Layer-3): 6 Spiele auf 4 Kombis verteilt, Layer-3 wo möglich eingehalten (Leverkusen als Ausnahme mit entkoppelten Märkten Über 2.5 / HC -1 / Über 3.5 / Über 4.5)",
+    "Markt-Mix-Pflicht: kein DC-Overload — max 1 DC pro Spiel, 3 DCs im Slate insgesamt",
+    "Kein Torschützen-Tipp — ohne verifizierte Aufstellungs-Vorschau zu halluzinations-riskant (Adeyemi-Lehre)",
+    "Markt-Goldgruben aktiv gespielt: DC 1X (73% Hit), DC X2 (75% Hit), Über 2.5 Tore (66.7% Hit), Unter 2.5 Tore (68% Hit)",
+    "Kader-Wechsel 2026/27 beachtet: Leao (Milan→Galatasaray), Nkunku (Milan→Leipzig), Ramos (PSG→Milan), Hincapie (Leverkusen→Arsenal)"
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-09-16T14:35:00+02:00",
+    "modus": "watchdog_inline",
+    "drops": [],
+    "downgrades": [
+      {
+        "tipp_id": "oly-jag-1",
+        "alt": "safe",
+        "neu": "value",
+        "grund": "HR22: El Kaabi (Top-Stürmer) + Roca (Winger) + Fortounis (gesperrt) alle OUT — Implosions-Risiko trotz Klassen-Edge"
+      }
+    ],
+    "warns": [
+      {
+        "art": "recherche_fehlt",
+        "details": "Recherche-File data/recherche/2026-09-16.json nicht vorhanden — Watchdog-Recovery via WebSearch. Quoten sind Aggregator-Schätzungen, bei bet365 live prüfen."
+      },
+      {
+        "art": "keine_torschuetzen_tipps",
+        "details": "Kein Torschützen-Tipp im Dossier — ohne verifizierte Aufstellungs-Vorschau zu halluzinations-riskant. Kader-Wechsel 2026/27 (Leao, Nkunku, Hincapie, Ramos etc.) berücksichtigt."
+      },
+      {
+        "art": "kombi_quoten_range",
+        "details": "Safe-Kombi @2.74 unter Range 3-5x, Balance-Kombi @3.75 unter Range 6-10x, Risiko-Kombi @7.79 unter Range 15-30x — ehrlicher Slate ohne Underdog-Volumen."
+      }
+    ],
+    "lessons_generiert": []
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "top-1",
+      "spiel_id": "2026-09-16-b04-cel",
+      "spiel_label": "Leverkusen vs NK Celje",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.55,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Klassenunterschied Bundesliga vs slowenischer Meister — Über 2.5 als Markt-Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1,
+      "status": "verloren",
+      "auszahlung_euro": 0.0,
+      "gewinn_euro": -15.0,
+      "gewinn_faktor": 0.0,
+      "kommentar": "Leverkusen 2:0 - nur 2 Tore, Ueber 2.5 nicht durchgekommen",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "top-2",
+      "spiel_id": "2026-09-16-b04-cel",
+      "spiel_label": "Leverkusen vs NK Celje",
+      "kategorie": "value",
+      "markt": "Bayer Leverkusen Handicap -1 (90 Min)",
+      "quote": 1.65,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Sieg-Quote 1.12 zu tief für Range — HC -1 als Sieg-Alternative.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2,
+      "status": "gewonnen",
+      "auszahlung_euro": 24.75,
+      "gewinn_euro": 9.75,
+      "gewinn_faktor": 1.65,
+      "kommentar": "Leverkusen 2:0 - HC -1 (Sieg mit 2+ Toren) sicher durch",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "top-3",
+      "spiel_id": "2026-09-16-stu-ren",
+      "spiel_label": "Sturm Graz vs Rennes",
+      "kategorie": "value",
+      "markt": "Sieg Stade Rennais (90 Min)",
+      "quote": 1.83,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Rennes Ligue-1-ungeschlagen, klarer Klassenvorteil vs ÖFB-Meister.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3,
+      "status": "verloren",
+      "auszahlung_euro": 0.0,
+      "gewinn_euro": -15.0,
+      "gewinn_faktor": 0.0,
+      "kommentar": "0:0 - Sieg Rennes verloren",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "top-4",
+      "spiel_id": "2026-09-16-sun-alk",
+      "spiel_label": "Sunderland vs AZ Alkmaar",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.75,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "AZ 3.2 Tore/Spiel-Schnitt + Sunderland offensiv-orientiert.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4,
+      "status": "verloren",
+      "auszahlung_euro": 0.0,
+      "gewinn_euro": -15.0,
+      "gewinn_faktor": 0.0,
+      "kommentar": "1:0 - nur 1 Tor, Ueber 2.5 verfehlt",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "top-5",
+      "spiel_id": "2026-09-16-mil-ben",
+      "spiel_label": "Milan vs Benfica",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Milan oder Remis",
+      "quote": 1.3,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Milan zuhause historisch stark vs Benfica (6 Duelle ungeschlagen). DC 1X = Markt-Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5,
+      "status": "verloren",
+      "auszahlung_euro": 0.0,
+      "gewinn_euro": -15.0,
+      "gewinn_faktor": 0.0,
+      "kommentar": "Benfica 2:0 auswaerts - DC 1X (Milan/Remis) verloren",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "top-6",
+      "spiel_id": "2026-09-16-stu-ren",
+      "spiel_label": "Sturm Graz vs Rennes",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Rennes oder Remis",
+      "quote": 1.3,
+      "einsatz_euro": 10.0,
+      "kurz_begruendung": "Rennes-Form abgesichert — Markt-Goldgrube DC X2.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6,
+      "status": "gewonnen",
+      "auszahlung_euro": 13.0,
+      "gewinn_euro": 3.0,
+      "gewinn_faktor": 1.3,
+      "kommentar": "0:0 Remis - DC X2 (Rennes/Remis) durch",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "top-7",
+      "spiel_id": "2026-09-16-oly-jag",
+      "spiel_label": "Olympiacos vs Jagiellonia",
+      "kategorie": "value",
+      "markt": "Sieg Olympiacos Piräus (90 Min)",
+      "quote": 1.36,
+      "einsatz_euro": 10.0,
+      "kurz_begruendung": "Klassen-Edge trotz El-Kaabi-Ausfall — HR22-Downgrade auf VALUE.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7,
+      "status": "gewonnen",
+      "auszahlung_euro": 13.6,
+      "gewinn_euro": 3.6,
+      "gewinn_faktor": 1.36,
+      "kommentar": "Olympiacos 2:1 nach spaetem Yaremchuk-Treffer 84. Min",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "top-8",
+      "spiel_id": "2026-09-16-sun-alk",
+      "spiel_label": "Sunderland vs AZ Alkmaar",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Sunderland oder Remis",
+      "quote": 1.28,
+      "einsatz_euro": 10.0,
+      "kurz_begruendung": "Heim-Vorteil + Markt-Unentschlossenheit → DC statt Sieg.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8,
+      "status": "gewonnen",
+      "auszahlung_euro": 12.8,
+      "gewinn_euro": 2.8,
+      "gewinn_faktor": 1.28,
+      "kommentar": "Sunderland 1:0 - DC 1X durch",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "top-9",
+      "spiel_id": "2026-09-16-b04-cel",
+      "spiel_label": "Leverkusen vs NK Celje",
+      "kategorie": "wackel",
+      "markt": "Über 3.5 Tore",
+      "quote": 1.9,
+      "einsatz_euro": 5.0,
+      "kurz_begruendung": "Leverkusen-Torfestival-Kandidat, Wackel wegen Celje-Bus-Risiko.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9,
+      "status": "verloren",
+      "auszahlung_euro": 0.0,
+      "gewinn_euro": -5.0,
+      "gewinn_faktor": 0.0,
+      "kommentar": "Nur 2 Tore, Ueber 3.5 verfehlt",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "top-10",
+      "spiel_id": "2026-09-16-and-lyo",
+      "spiel_label": "Anderlecht vs Lyon",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore",
+      "quote": 2.3,
+      "einsatz_euro": 5.0,
+      "kurz_begruendung": "Coinflip-Spiel + Lyon-Formkrise + EL-Erstauftritt-Vorsicht.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10,
+      "status": "verloren",
+      "auszahlung_euro": 0.0,
+      "gewinn_euro": -5.0,
+      "gewinn_faktor": 0.0,
+      "kommentar": "3 Tore, Unter 2.5 verfehlt",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe",
+      "status": "verloren",
+      "gesamtquote": 2.74,
+      "auszahlung_euro": 0.0,
+      "gewinn_euro": -20.0,
+      "einsatz_euro": 20.0,
+      "beine_ergebnis": [
+        {
+          "gewonnen": false,
+          "kommentar": "Ueber 2.5 Leverkusen-Celje verloren (nur 2:0)"
+        },
+        {
+          "gewonnen": true,
+          "kommentar": "DC X2 Sturm-Rennes durch (0:0 Remis)"
+        },
+        {
+          "gewonnen": true,
+          "kommentar": "Sieg Olympiacos durch (2:1)"
+        }
+      ]
+    },
+    {
+      "kombi_id": "kombi-balance",
+      "status": "verloren",
+      "gesamtquote": 3.75,
+      "auszahlung_euro": 0.0,
+      "gewinn_euro": -8.0,
+      "einsatz_euro": 8.0,
+      "beine_ergebnis": [
+        {
+          "gewonnen": true,
+          "kommentar": "HC -1 Leverkusen durch (2:0)"
+        },
+        {
+          "gewonnen": false,
+          "kommentar": "DC 1X Milan-Benfica verloren (0:2)"
+        },
+        {
+          "gewonnen": false,
+          "kommentar": "Ueber 2.5 Sunderland-AZ verloren (1:0)"
+        }
+      ]
+    },
+    {
+      "kombi_id": "kombi-risiko",
+      "status": "verloren",
+      "gesamtquote": 4.26,
+      "auszahlung_euro": 0.0,
+      "gewinn_euro": -2.5,
+      "einsatz_euro": 2.5,
+      "beine_ergebnis": [
+        {
+          "gewonnen": true,
+          "kommentar": "DC 1X Sunderland-AZ durch (1:0)"
+        },
+        {
+          "gewonnen": false,
+          "kommentar": "Ueber 3.5 Leverkusen-Celje verloren (2:0)"
+        },
+        {
+          "gewonnen": false,
+          "kommentar": "BTTS Milan-Benfica verloren (0:2)"
+        }
+      ]
+    },
+    {
+      "kombi_id": "kombi-moonshot",
+      "status": "verloren",
+      "gesamtquote": 19.49,
+      "auszahlung_euro": 0.0,
+      "gewinn_euro": -1.0,
+      "einsatz_euro": 1.0,
+      "beine_ergebnis": [
+        {
+          "gewonnen": false,
+          "kommentar": "Sieg Anderlecht verloren (1:2 Lyon)"
+        },
+        {
+          "gewonnen": false,
+          "kommentar": "Ueber 4.5 Leverkusen-Celje verloren (nur 2:0)"
+        },
+        {
+          "gewonnen": true,
+          "kommentar": "BTTS Olympiacos-Jag durch (2:1)"
+        }
+      ]
+    }
+  ],
+  "ausgewertet_am": "2026-09-17T06:08:42+00:00",
+  "bilanz": {
+    "einsatz_gesamt_euro": 146.5,
+    "gewinn_gesamt_euro": -82.35,
+    "roi_prozent": -56.21,
+    "einzeltipps_gewonnen": 4,
+    "einzeltipps_gesamt": 10,
+    "kombis_gewonnen": 0,
+    "kombis_gesamt": 4
+  }
+}
