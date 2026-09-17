@@ -496,7 +496,8 @@
       "faire_quote": 1.05,
       "empfohlener_einsatz_prozent": 2.0,
       "spiel_id": "2026-09-17-cry-lec",
-      "spiel_label": "Crystal Palace vs Lech Poznan"
+      "spiel_label": "Crystal Palace vs Lech Poznan",
+      "rang": 1
     },
     {
       "id": "juv-nec-1",
@@ -508,7 +509,8 @@
       "faire_quote": 1.02,
       "empfohlener_einsatz_prozent": 1.5,
       "spiel_id": "2026-09-17-juv-nec",
-      "spiel_label": "Juventus FC vs NEC Nijmegen"
+      "spiel_label": "Juventus FC vs NEC Nijmegen",
+      "rang": 2
     },
     {
       "id": "bes-mar-2",
@@ -520,7 +522,8 @@
       "faire_quote": 1.73,
       "empfohlener_einsatz_prozent": 1.5,
       "spiel_id": "2026-09-17-bes-mar",
-      "spiel_label": "Besiktas JK vs Olympique Marseille"
+      "spiel_label": "Besiktas JK vs Olympique Marseille",
+      "rang": 3
     },
     {
       "id": "juv-nec-3",
@@ -532,7 +535,8 @@
       "faire_quote": 1.65,
       "empfohlener_einsatz_prozent": 1.5,
       "spiel_id": "2026-09-17-juv-nec",
-      "spiel_label": "Juventus FC vs NEC Nijmegen"
+      "spiel_label": "Juventus FC vs NEC Nijmegen",
+      "rang": 4
     },
     {
       "id": "rso-bou-1",
@@ -544,7 +548,8 @@
       "faire_quote": 1.5,
       "empfohlener_einsatz_prozent": 2.0,
       "spiel_id": "2026-09-17-rso-bou",
-      "spiel_label": "Real Sociedad vs AFC Bournemouth"
+      "spiel_label": "Real Sociedad vs AFC Bournemouth",
+      "rang": 5
     },
     {
       "id": "juv-nec-2",
@@ -556,7 +561,8 @@
       "faire_quote": 1.14,
       "empfohlener_einsatz_prozent": 1.5,
       "spiel_id": "2026-09-17-juv-nec",
-      "spiel_label": "Juventus FC vs NEC Nijmegen"
+      "spiel_label": "Juventus FC vs NEC Nijmegen",
+      "rang": 6
     },
     {
       "id": "cry-lec-2",
@@ -568,7 +574,8 @@
       "faire_quote": 1.33,
       "empfohlener_einsatz_prozent": 1.5,
       "spiel_id": "2026-09-17-cry-lec",
-      "spiel_label": "Crystal Palace vs Lech Poznan"
+      "spiel_label": "Crystal Palace vs Lech Poznan",
+      "rang": 7
     },
     {
       "id": "bes-mar-1",
@@ -580,7 +587,8 @@
       "faire_quote": 1.24,
       "empfohlener_einsatz_prozent": 1.5,
       "spiel_id": "2026-09-17-bes-mar",
-      "spiel_label": "Besiktas JK vs Olympique Marseille"
+      "spiel_label": "Besiktas JK vs Olympique Marseille",
+      "rang": 8
     },
     {
       "id": "cel-fer-2",
@@ -592,7 +600,8 @@
       "faire_quote": 1.64,
       "empfohlener_einsatz_prozent": 1.5,
       "spiel_id": "2026-09-17-cel-fer",
-      "spiel_label": "Celtic FC vs Ferencvaros"
+      "spiel_label": "Celtic FC vs Ferencvaros",
+      "rang": 9
     },
     {
       "id": "rso-bou-2",
@@ -604,7 +613,8 @@
       "faire_quote": 1.68,
       "empfohlener_einsatz_prozent": 1.5,
       "spiel_id": "2026-09-17-rso-bou",
-      "spiel_label": "Real Sociedad vs AFC Bournemouth"
+      "spiel_label": "Real Sociedad vs AFC Bournemouth",
+      "rang": 10
     }
   ],
   "kombis": [
@@ -699,24 +709,10 @@
           "markt": "Ueber 2.5 Tore",
           "quote": 1.77,
           "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-09-17-bes-mar",
-          "spiel_label": "Besiktas vs Marseille",
-          "markt": "Sieg Besiktas (90 Min)",
-          "quote": 1.85,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-09-17-cry-lec",
-          "spiel_label": "Crystal Palace vs Lech Poznan",
-          "markt": "Sieg Crystal Palace (90 Min)",
-          "quote": 1.4,
-          "kategorie": "value"
         }
       ],
-      "gesamtquote": 8.02,
-      "rechnung": "1.75 x 1.77 x 1.85 x 1.40 = 8.02",
+      "gesamtquote": 3.1,
+      "rechnung": "1.75 x 1.77 = 3.1",
       "empfohlener_einsatz_prozent": 0.25,
       "empfohlener_einsatz_euro": 2.5,
       "begruendung": "Tor-Total + zwei Sieg-Beine. Zwei Ueber-2.5 stehen fuer offensiv-lecke Defensen, dazu zwei klare Heim-Favoriten. Solides Risiko-Profil um 8x - keine 15-30x, aber ehrlicher als kuenstliche Aufblasung."
@@ -734,20 +730,6 @@
           "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-09-17-cel-fer",
-          "spiel_label": "Celtic vs Ferencvaros",
-          "markt": "Sieg Celtic (90 Min)",
-          "quote": 1.73,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-09-17-juv-nec",
-          "spiel_label": "Juventus vs NEC",
-          "markt": "Handicap -1 Juventus",
-          "quote": 1.85,
-          "kategorie": "wackel"
-        },
-        {
           "spiel_id": "2026-09-17-lev-sal",
           "spiel_label": "Levski Sofia vs Salzburg",
           "markt": "Sieg Salzburg (90 Min)",
@@ -762,8 +744,8 @@
           "kategorie": "wackel"
         }
       ],
-      "gesamtquote": 14.21,
-      "rechnung": "1.60 x 1.73 x 1.85 x 1.90 x 1.46 = 14.20",
+      "gesamtquote": 4.44,
+      "rechnung": "1.60 x 1.90 x 1.46 = 4.44",
       "empfohlener_einsatz_prozent": 0.1,
       "empfohlener_einsatz_euro": 1.0,
       "begruendung": "5-Bein-Moonshot mit ~14x. Ehrlich: bei EL-Auftakt mit vielen Ueberraschungen ist 100x+ unrealistisch. Als Spass-Ticket okay, keine Lotterie-Illusion."
