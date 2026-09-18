@@ -1,0 +1,1739 @@
+{
+  "datum": "2026-09-17",
+  "erstellt_am": "2026-09-17T15:45:00+02:00",
+  "hinweis": "Europa-League-Auftakt (Ligaphase Spieltag 1) - 8 Spiele, 2x Anstoss 18:45, 6x Anstoss 21:00. Fokus auf Goldgruben-Maerkte (DC 1X/X2, BTTS, Ueber 2.5). Bewusst KEINE Torschuetzen-Tipps, weil Kader-Live-Check nicht ueberall abgesichert (siehe Kader-Frische-Regel). Kasse 1000€ (Stufe 1): SAFE/VALUE-Einzel 10-20€, Wackel 5€, Kombis 1-20€.",
+  "spiele": [
+    {
+      "id": "2026-09-17-juv-nec",
+      "liga": "UEFA Europa League - Ligaphase Spieltag 1",
+      "heim": "Juventus FC",
+      "gast": "NEC Nijmegen",
+      "anstoss": "2026-09-17T21:00:00+02:00",
+      "stadion": "Allianz Stadium, Turin",
+      "saison_kontext": {
+        "parallel_heim": "Serie A Spieltag 5 am Wochenende danach - Juve mit vollem Kader-Fokus auf EL-Auftakt",
+        "parallel_gast": "Eredivisie am Wochenende + weite Reise nach Turin",
+        "saisonziel_heim": "Scudetto-Kandidatur + EL-Titel als realistisches Ziel",
+        "saisonziel_gast": "EL-Weiterkommen (Top 24 fuer Ligaphase-Weiterkommen) als Ueberraschungs-Ziel, kleiner Etat",
+        "motivations_asymmetrie": "Klarer Klassen-Unterschied. Juve-Heim gegen Eredivisie-Mittelklasse ist historisch dominant, aber Auftakt-Charakter und die Quote 1.20 lassen nur VALUE zu.",
+        "recovery_heim": "3 Tage nach Serie A g4",
+        "recovery_gast": "3 Tage nach Eredivisie-Spiel, weite Reise",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/fixtures-results/",
+          "https://www.legaseriea.it/en",
+          "https://www.eredivisie.nl/"
+        ]
+      },
+      "news": [
+        "Juve unbeaten in 8 der letzten 9 EL-Spiele (4S/4U)",
+        "NEC nur 1 Sieg in den letzten 6 Pflichtspielen",
+        "Erstmalige EL-Ligaphase-Teilnahme fuer NEC in Klubgeschichte"
+      ],
+      "tipps": [
+        {
+          "id": "juv-nec-1",
+          "kategorie": "safe",
+          "markt": "Doppelte Chance Juventus oder Remis (1X)",
+          "quote": 1.05,
+          "edge_prozent": 3.0,
+          "begruendung": "Klassen-Gefaelle deutlich, Juve zuhause + EL-Auftakt-Motivation. DC 1X ist Goldgruben-Markt (72.7% Hitrate, +39.7% ROI). Einsatz 1.5% = 15€.",
+          "faire_quote": 1.02,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "juv-nec-2",
+          "kategorie": "value",
+          "markt": "Sieg Juventus (90 Min)",
+          "quote": 1.2,
+          "edge_prozent": 5.0,
+          "begruendung": "Massive Klasse zuhause, NEC-Form schwach (1 Sieg aus 6). Aber Auftakt + Quote nur 1.20 -> max VALUE. Einsatz 1.5% = 15€.",
+          "faire_quote": 1.14,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "juv-nec-3",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 6.0,
+          "begruendung": "Juve-Heim gegen defensiv-fragile Ligaphase-Newcomer - typisches 3:0/3:1 Setup. Goldgrube (+23.3% ROI). Einsatz 1.5% = 15€.",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "juv-nec-4",
+          "kategorie": "wackel",
+          "markt": "Handicap -1 Juventus",
+          "quote": 1.85,
+          "edge_prozent": 4.0,
+          "begruendung": "Bei so klarer Favoritenrolle ist Handicap -1 der value-nahe Hebel. Einsatz 0.5% = 5€.",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 5,
+        "gast_tore": 0,
+        "halbzeit_heim": 3,
+        "halbzeit_gast": 0,
+        "status": "FINISHED",
+        "quelle": "WebSearch (Skysports/ESPN/VAVEL/Flashscore/UEFA/FoxSports Konsens)",
+        "abgerufen_am": "2026-09-18T06:17:38+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "juv-nec-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.05,
+          "kommentar": "DC 1X Juventus: Juve 5:0 gewonnen",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "juv-nec-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.2,
+          "kommentar": "Sieg Juventus: 5:0 klar",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "juv-nec-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "kommentar": "Ueber 2.5 Tore: 5 Tore",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "juv-nec-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": "HC -1 Juventus: 5:0 deckt -1 klar ab (Handicap-Endstand 4:0)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "3:0",
+        "endstand": "5:0",
+        "tore": [
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Nico Gonzalez",
+            "stand_danach": "1:0",
+            "kommentar": "Frueher Kopfball nach Grabara-Fehler bei Polster-Long-Ball (Fehler NEC-Keeper)"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Juve dominant von Beginn, HZ 3:0, Endstand 5:0. Keine Drehung."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Juventus/Juventus",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Krasses Klassen-Duell realisiert: 5 verschiedene Torschuetzen, drei erste EL-Tore fuer Juve-Spieler. NEC schwerste Europa-Niederlage der Klub-Geschichte.",
+          "HZ 3:0 => 2:0-Insurance war nicht anwendbar (EL nicht in bet365-DE-Aktion), aber der Handicap-Bein aus dem Dossier (juv-nec-4, HC -1 @ 1.85) profitiert vom klaren Klassen-Sieg."
+        ],
+        "quelle": "WebSearch NL Times / Football Italia / VAVEL Konsens"
+      }
+    },
+    {
+      "id": "2026-09-17-cry-lec",
+      "liga": "UEFA Europa League - Ligaphase Spieltag 1",
+      "heim": "Crystal Palace",
+      "gast": "Lech Poznan",
+      "anstoss": "2026-09-17T21:00:00+02:00",
+      "stadion": "Selhurst Park, London",
+      "saison_kontext": {
+        "parallel_heim": "Premier League Spieltag 5 am Wochenende - Palace nach Conference-Sieg 25/26 jetzt EL-Debuet",
+        "parallel_gast": "Ekstraklasa am Wochenende + Auswaertsreise",
+        "saisonziel_heim": "PL-Mittelfeld + EL-Weiterkommen ist realistisch",
+        "saisonziel_gast": "Polnisches Titel-Rennen + Ligaphase-Punkte als Bonus",
+        "motivations_asymmetrie": "Palace als Cup-Sieger und PL-Team klar hoeher eingestuft. Aber Auftakt in unbekannter Konkurrenz-Klasse - VALUE statt SAFE-Sieg.",
+        "recovery_heim": "3 Tage nach PL-Spiel",
+        "recovery_gast": "3 Tage nach Ekstraklasa + Reise",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/fixtures-results/",
+          "https://www.premierleague.com/fixtures",
+          "https://www.ekstraklasa.org/"
+        ]
+      },
+      "news": [
+        "Palace als Titelverteidiger der Conference League 25/26 im EL-Debuet",
+        "Lech Poznan als polnischer Meister, hat 3 von 4 Quali-Duellen gewonnen",
+        "Palace @ bet365 2-5 (~1.40), klarer Favorit"
+      ],
+      "tipps": [
+        {
+          "id": "cry-lec-1",
+          "kategorie": "safe",
+          "markt": "Doppelte Chance Crystal Palace oder Remis (1X)",
+          "quote": 1.1,
+          "edge_prozent": 5.0,
+          "begruendung": "PL-Team zuhause gegen polnischen Meister im EL-Debuet. DC 1X = Goldgruben-Markt. Einsatz 2% = 20€.",
+          "faire_quote": 1.05,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "cry-lec-2",
+          "kategorie": "value",
+          "markt": "Sieg Crystal Palace (90 Min)",
+          "quote": 1.4,
+          "edge_prozent": 5.0,
+          "begruendung": "Klarer Heimfavorit, Palace mit EL-Erfahrung aus letztem Jahr (Conference-Sieger). Einsatz 1.5% = 15€.",
+          "faire_quote": 1.33,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "cry-lec-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.87,
+          "edge_prozent": 3.0,
+          "begruendung": "Lech mit offensivem Ansatz + Palace-Defensive nicht bombenfest. Coinflip-Markt. Einsatz 0.5% = 5€.",
+          "faire_quote": 1.8,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 4,
+        "gast_tore": 0,
+        "halbzeit_heim": null,
+        "halbzeit_gast": null,
+        "status": "FINISHED",
+        "quelle": "WebSearch (Skysports/ESPN/VAVEL/Flashscore/UEFA/FoxSports Konsens)",
+        "abgerufen_am": "2026-09-18T06:17:38+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "cry-lec-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.1,
+          "kommentar": "DC 1X Palace: 4:0 Heimsieg",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "cry-lec-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.4,
+          "kommentar": "Sieg Palace: 4:0",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "cry-lec-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "BTTS Ja: Lech zu Null gehalten",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "4:0",
+        "tore": [
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Yeremy Pino",
+            "stand_danach": "1:0",
+            "kommentar": "Fruehes Signal-Tor Palace"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Chris Richards",
+            "stand_danach": "2:0",
+            "kommentar": null
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Jorgen Strand Larsen",
+            "stand_danach": "3:0",
+            "kommentar": null
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Eddie Nketiah",
+            "stand_danach": "4:0",
+            "kommentar": "Einwechslungs-Tor Nketiah"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Palace jederzeit vorne, klarer 4:0-Heimsieg."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": null,
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Eddie Nketiah",
+            "aus": null,
+            "minute": null,
+            "tor": true,
+            "kommentar": "Nketiah kam von der Bank und traf zum 4:0"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Palace klarer Klassen-Sieg im EL-Debut gegen polnischen Meister — 4 verschiedene Torschuetzen, sehr komplettes Bild.",
+          "cry-lec-3 (BTTS ja @ 1.87) verloren: Lech Poznan zu-null-gehalten. War als WACKEL markiert, passt zur Kategorie-Erwartung."
+        ],
+        "quelle": "WebSearch Sky Sports / VAVEL Konsens"
+      }
+    },
+    {
+      "id": "2026-09-17-bes-mar",
+      "liga": "UEFA Europa League - Ligaphase Spieltag 1",
+      "heim": "Besiktas JK",
+      "gast": "Olympique Marseille",
+      "anstoss": "2026-09-17T21:00:00+02:00",
+      "stadion": "Tuepras Stadyumu, Istanbul",
+      "saison_kontext": {
+        "parallel_heim": "Sueper Lig am Wochenende - Besiktas Platz 2 (12 Pkt aus 5)",
+        "parallel_gast": "Ligue 1 am Wochenende - Marseille auf 3 Pleiten-Serie",
+        "saisonziel_heim": "Sueper-Lig-Titel + EL-Weiterkommen",
+        "saisonziel_gast": "Ligue-1-Podium + EL-Titel als Ziel, aber Krise akut",
+        "motivations_asymmetrie": "Besiktas heiss und im Form-Hoch, Marseille im Formtief mit 3 Pleiten in Folge. Klarer Motivations-Edge fuer die Tuerken.",
+        "recovery_heim": "3 Tage seit Sueper-Lig-Spiel",
+        "recovery_gast": "3 Tage seit Ligue-1-Pleite + Reise nach Istanbul",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/fixtures-results/",
+          "https://www.tff.org/",
+          "https://www.ligue1.com/"
+        ]
+      },
+      "news": [
+        "Besiktas mit 12 Pkt aus 5 Sueper-Lig-Spielen, Platz 2 hinter Galatasaray",
+        "Marseille auf 3 Ligue-1-Pleiten in Folge",
+        "Home-Vorteil in Istanbul historisch stark (Atmosphaere)"
+      ],
+      "tipps": [
+        {
+          "id": "bes-mar-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Besiktas oder Remis (1X)",
+          "quote": 1.3,
+          "edge_prozent": 5.0,
+          "begruendung": "Heim-Vorteil + Form-Edge klar bei Besiktas, Marseille in Krise. DC 1X = Goldgruben-Markt. Einsatz 1.5% = 15€.",
+          "faire_quote": 1.24,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "bes-mar-2",
+          "kategorie": "value",
+          "markt": "Sieg Besiktas (90 Min)",
+          "quote": 1.85,
+          "edge_prozent": 7.0,
+          "begruendung": "Form-Asymmetrie: Besiktas Hoch, Marseille 3 Pleiten. Zuhause klarer Wert. Einsatz 1.5% = 15€.",
+          "faire_quote": 1.73,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "bes-mar-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.65,
+          "edge_prozent": 3.0,
+          "begruendung": "Marseille offensiv okay auch in Krise, Besiktas offensiv-orientiert. Solide Coinflip-Wette. Einsatz 0.5% = 5€.",
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 4,
+        "gast_tore": 1,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 1,
+        "status": "FINISHED",
+        "quelle": "WebSearch (Skysports/ESPN/VAVEL/Flashscore/UEFA/FoxSports Konsens)",
+        "abgerufen_am": "2026-09-18T06:17:38+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "bes-mar-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.3,
+          "kommentar": "DC 1X Besiktas: 4:1 Heimsieg",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bes-mar-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": "Sieg Besiktas: 4:1",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bes-mar-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.65,
+          "kommentar": "BTTS Ja: Besiktas 4, Marseille 1",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "4:1",
+        "tore": [
+          {
+            "min": 15,
+            "team": "heim",
+            "spieler": "Ilhan Fakili",
+            "stand_danach": "1:0",
+            "kommentar": "Frueher Fuehrungstreffer Besiktas"
+          },
+          {
+            "min": 29,
+            "team": "gast",
+            "spieler": "Keyliane Abdallah",
+            "stand_danach": "1:1",
+            "kommentar": "Marseille-Ausgleich"
+          },
+          {
+            "min": 56,
+            "team": "heim",
+            "spieler": "Vaclav Cerny",
+            "stand_danach": "2:1",
+            "kommentar": "Besiktas legt in H2 los"
+          },
+          {
+            "min": 59,
+            "team": "heim",
+            "spieler": "Amir Murillo",
+            "stand_danach": "3:1",
+            "kommentar": "Kopfball, nur 3 Min nach 2:1"
+          },
+          {
+            "min": 81,
+            "team": "heim",
+            "spieler": "Ernest Poku",
+            "stand_danach": "4:1",
+            "kommentar": "Poku macht den Deckel drauf"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Marseille nie mehr als Ausgleich. Keine Drehung."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Besiktas",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Form-Edge Besiktas-heim gegen Marseille-in-Krise materialisiert nach 1:1-HZ. Zweite HZ Explosion (3 Tore in 25 Minuten).",
+          "Alle drei Besiktas-Tipps (bes-mar-1 DC, bes-mar-2 Sieg, bes-mar-3 BTTS) gewonnen — Tag-Highlight fuer VALUE-Selection."
+        ],
+        "quelle": "WebSearch Flashscore / VAVEL / Türkiye Today Konsens"
+      }
+    },
+    {
+      "id": "2026-09-17-cel-fer",
+      "liga": "UEFA Europa League - Ligaphase Spieltag 1",
+      "heim": "Celtic FC",
+      "gast": "Ferencvaros",
+      "anstoss": "2026-09-17T21:00:00+02:00",
+      "stadion": "Celtic Park, Glasgow",
+      "saison_kontext": {
+        "parallel_heim": "Scottish Premiership am Wochenende - Celtic Tabellenfuehrer, aber Wochenend-Aufregung nach 0:3 im Old Firm im Ligapokal",
+        "parallel_gast": "Ungarische NB1 am Wochenende + Reise",
+        "saisonziel_heim": "Titel Scottish Premiership + EL-Achtelfinale-Play-off",
+        "saisonziel_gast": "Ungarischer Titel + EL-Weiterkommen (Top 24)",
+        "motivations_asymmetrie": "Celtic zuhause historisch fest (11 Siege in Folge zuhause vor der Ligapokal-Pleite). Ferencvaros aber Qualifiaktions-Champion mit 5:0 vs Trabzonspor - klar staerker als Auslosungs-Quote suggeriert.",
+        "recovery_heim": "3 Tage seit Ligapokal-0:3 gegen Rangers - Motivations-Reaktion erwartbar",
+        "recovery_gast": "3 Tage nach NB1 + Reise nach Glasgow",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/fixtures-results/",
+          "https://spfl.co.uk/",
+          "https://mlsz.hu/"
+        ]
+      },
+      "news": [
+        "Celtic 3:0 im Old Firm im Ligapokal ausgeschieden - Reaktions-Match",
+        "Celtic 11 Heim-Siege in Serie vor dem Rangers-Debakel",
+        "Ferencvaros unbesiegt in 10 der letzten 11 EL-Spiele inkl. Quali"
+      ],
+      "tipps": [
+        {
+          "id": "cel-fer-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Celtic oder Remis (1X)",
+          "quote": 1.22,
+          "edge_prozent": 4.0,
+          "begruendung": "Heim-Bollwerk Celtic vs solide Fradi. DC 1X ist Goldgruben-Markt. Einsatz 1.5% = 15€.",
+          "faire_quote": 1.17,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "cel-fer-2",
+          "kategorie": "value",
+          "markt": "Sieg Celtic (90 Min)",
+          "quote": 1.73,
+          "edge_prozent": 5.0,
+          "begruendung": "Reaktions-Match nach Rangers-Pleite, Heim-Serie hoch. Einsatz 1.5% = 15€.",
+          "faire_quote": 1.64,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "cel-fer-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.6,
+          "edge_prozent": 3.0,
+          "begruendung": "Fradi offensiv unangenehm, Celtic will klotzen. Coinflip mit Tendenz Ja. Einsatz 0.5% = 5€.",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 3,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 2,
+        "status": "FINISHED",
+        "quelle": "WebSearch (Skysports/ESPN/VAVEL/Flashscore/UEFA/FoxSports Konsens)",
+        "abgerufen_am": "2026-09-18T06:17:38+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "cel-fer-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "DC 1X Celtic: Ferencvaros 3:1 Auswaertssieg",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "cel-fer-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Sieg Celtic: 1:3 Heimniederlage",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "cel-fer-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.6,
+          "kommentar": "BTTS Ja: Celtic 1, Ferencvaros 3",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:2",
+        "endstand": "1:3",
+        "tore": [
+          {
+            "min": 20,
+            "team": "gast",
+            "spieler": "Liam Scales (OT)",
+            "stand_danach": "0:1",
+            "kommentar": "Eigentor Scales nach Yusuf-Schuss ueber Tierney-Fehler"
+          },
+          {
+            "min": 44,
+            "team": "heim",
+            "spieler": "Mika Baur",
+            "stand_danach": "1:1",
+            "kommentar": "Baur-Ausgleich nach Tierney-Cross"
+          },
+          {
+            "min": 45,
+            "team": "gast",
+            "spieler": "Kristoffer Zachariassen",
+            "stand_danach": "1:2",
+            "kommentar": "Kurz vor HZ, Ferencvaros wieder vorne"
+          },
+          {
+            "min": 47,
+            "team": "gast",
+            "spieler": "Daniel Arzani",
+            "stand_danach": "1:3",
+            "kommentar": "Direkt nach Wiederanpfiff — Ex-Celtic-Spieler trifft gegen Ex-Klub"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Ferencvaros durchgehend vorne oder gleichauf, kein Zwischenstand +2 fuer Heim."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Ferencvaros/Ferencvaros",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Reaktions-Match-These verpufft: Celtic nach Rangers-0:3 im Ligapokal auch in EL geschlagen (1:3 zuhause). Erst zweite Heim-Niederlage nach 11-Siege-Serie.",
+          "Ferencvaros-Quali-Champion-Form (5:0 gg Trabzonspor + unbeaten 10/11) hielt an. Klassisches 'Reaktions-Match ohne echte Wende'-Pattern.",
+          "cel-fer-3 (BTTS @ 1.60) gewonnen — Wackel-Kategorie greift bei Coinflip-Story mit Torneigung beider Teams."
+        ],
+        "quelle": "WebSearch Sky Sports / Scotsman / UEFA.com Konsens"
+      }
+    },
+    {
+      "id": "2026-09-17-ofi-hof",
+      "liga": "UEFA Europa League - Ligaphase Spieltag 1",
+      "heim": "OFI Kreta",
+      "gast": "TSG Hoffenheim",
+      "anstoss": "2026-09-17T18:45:00+02:00",
+      "stadion": "Pankritio Stadium, Heraklion",
+      "saison_kontext": {
+        "parallel_heim": "Griechische Super League am Wochenende - OFI stark gestartet (7S aus 9)",
+        "parallel_gast": "Bundesliga am Wochenende - Hoffenheim 7 Gegentore in 3 BL-Spielen",
+        "saisonziel_heim": "Griechische-Liga-Top-6 + EL-Ligaphase-Premiere",
+        "saisonziel_gast": "BL-Klassenerhalt + EL-Weiterkommen als Bonus",
+        "motivations_asymmetrie": "Klassen-Edge fuer TSG, aber OFI mit 3 To-Null-Siegen in Serie und Heim-Premiere in EL-Hauptrunde. Nicht schwaechste Underdog-Konstellation. Hoffenheim-Defensive fragil.",
+        "recovery_heim": "3 Tage seit Griechenland-Spiel",
+        "recovery_gast": "3 Tage seit BL + Reise nach Kreta",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/fixtures-results/",
+          "https://www.bundesliga.com/de/bundesliga",
+          "https://www.slgr.gr/"
+        ]
+      },
+      "news": [
+        "OFI 3 Weisse-Weste-Siege in Folge zuhause",
+        "Hoffenheim 7 Gegentore in 3 BL-Spielen 26/27",
+        "OFI EL-Ligaphase-Premiere in Klubgeschichte"
+      ],
+      "tipps": [
+        {
+          "id": "ofi-hof-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Hoffenheim oder Remis (X2)",
+          "quote": 1.15,
+          "edge_prozent": 4.0,
+          "begruendung": "Klassen-Edge deutlich fuer TSG, DC X2 ist Goldgruben-Markt (75% Hitrate). Einsatz 2% = 20€.",
+          "faire_quote": 1.1,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "ofi-hof-2",
+          "kategorie": "wackel",
+          "markt": "Sieg Hoffenheim (90 Min)",
+          "quote": 1.46,
+          "edge_prozent": 2.0,
+          "begruendung": "Heim-Premiere von OFI in EL mit 3 Weisse-Westen macht das gefaehrlicher als die Quote sagt. Nur WACKEL. Einsatz 0.5% = 5€.",
+          "faire_quote": 1.42,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "ofi-hof-3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 3.0,
+          "begruendung": "Hoffenheim-Defensive leckt (7 in 3), OFI zuhause immerhin Effizienz. Coinflip mit leichter Ja-Tendenz. Einsatz 0.5% = 5€.",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 0,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 0,
+        "status": "FINISHED",
+        "quelle": "WebSearch (Skysports/ESPN/VAVEL/Flashscore/UEFA/FoxSports Konsens)",
+        "abgerufen_am": "2026-09-18T06:17:38+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ofi-hof-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "DC X2 Hoffenheim: OFI 2:0 Heimsieg",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ofi-hof-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Sieg Hoffenheim: 0:2 Auswaertsniederlage",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ofi-hof-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Ueber 2.5 Tore: nur 2 Tore",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": 30,
+            "team": "heim",
+            "spieler": "Aitor",
+            "stand_danach": "1:0",
+            "kommentar": "OFI-Fuehrung noch in HZ 1"
+          },
+          {
+            "min": 84,
+            "team": "heim",
+            "spieler": "Giorgos Kanellopoulos",
+            "stand_danach": "2:0",
+            "kommentar": "Deckel drauf spaet"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "OFI von Beginn an vorne, Klassen-Ueberraschung gehalten."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "OFI/OFI",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "MOONSHOT-BLUEPRINT: OFI @5.50 in Moonshot-Kombi war der EINE Underdog-Sieg, der reinkam. Andere drei Beine (Plzen, Bournemouth, Palace-BTTS) alle daneben - Kombi-Prinzip lehrt: 4 Beine mit je 30% Hitrate = ~1% Kombi-Trefferwahrscheinlichkeit.",
+          "OFI 4. weisse Weste in Folge zuhause, Hoffenheim-Defense-Krise (jetzt 9 Gegentore in 4 Spielen 26/27 wenn dieses Spiel dazuzaehlt) bestaetigt.",
+          "ofi-hof-3 (Über 2.5 @ 1.75) verloren: Nur 2 Tore trotz Hoffenheim-Defense-Fragilitaet. Wackel-Kategorie passt."
+        ],
+        "quelle": "WebSearch TSG Hoffenheim official / VAVEL / ESPN Konsens"
+      }
+    },
+    {
+      "id": "2026-09-17-lev-sal",
+      "liga": "UEFA Europa League - Ligaphase Spieltag 1",
+      "heim": "PFC Levski Sofia",
+      "gast": "FC Red Bull Salzburg",
+      "anstoss": "2026-09-17T18:45:00+02:00",
+      "stadion": "Vasil-Levski-Nationalstadion, Sofia",
+      "saison_kontext": {
+        "parallel_heim": "Bulgarische Erste Profi-Liga am Wochenende - Levski nach CL-Play-off-Aus (0:1 gg. AEK Athen) frisch motiviert",
+        "parallel_gast": "Oesterreichische Bundesliga am Wochenende - Salzburg im Form-Hoch",
+        "saisonziel_heim": "Bulgarischer Titel + EL-Weiterkommen als riesige Chance",
+        "saisonziel_gast": "OeBL-Titel + EL-Achtelfinale",
+        "motivations_asymmetrie": "Salzburg klassen-hoeher und in Torlaune (17 Tore in 6 Spielen). Levski aber zuhause defensiv sehr solide (3 To-Null in EL-Hauptrunde-Quali).",
+        "recovery_heim": "3 Tage seit Liga-Spiel",
+        "recovery_gast": "3 Tage seit OeBL + Reise nach Sofia",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/fixtures-results/",
+          "https://www.bundesliga.at/",
+          "https://pfl.bg/"
+        ]
+      },
+      "news": [
+        "Salzburg 17 Tore in den letzten 6 Spielen quer durch die Wettbewerbe",
+        "Levski 3 To-Null-Heimspiele in Serie in EL-Quali",
+        "Levski erster grosser Europapokal-Auftritt seit 15 Jahren - Motivation hoch"
+      ],
+      "tipps": [
+        {
+          "id": "lev-sal-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Salzburg oder Remis (X2)",
+          "quote": 1.28,
+          "edge_prozent": 4.0,
+          "begruendung": "Klassen-Edge Salzburg + DC X2 = Goldgruben-Markt. Einsatz 1.5% = 15€.",
+          "faire_quote": 1.22,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "lev-sal-2",
+          "kategorie": "wackel",
+          "markt": "Sieg Salzburg (90 Min)",
+          "quote": 1.9,
+          "edge_prozent": 3.0,
+          "begruendung": "Form + Klasse fuer Salzburg, aber Levski-Heim-Defensive knallhart. Nur WACKEL. Einsatz 0.5% = 5€.",
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "lev-sal-3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "edge_prozent": 2.0,
+          "begruendung": "Salzburg offensiv-Motor, Levski defensiv-stark. Coinflip. Einsatz 0.5% = 5€.",
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 1,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 1,
+        "status": "FINISHED",
+        "quelle": "WebSearch (Skysports/ESPN/VAVEL/Flashscore/UEFA/FoxSports Konsens)",
+        "abgerufen_am": "2026-09-18T06:17:38+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "lev-sal-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.28,
+          "kommentar": "DC X2 Salzburg: 0:1 Auswaertssieg",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "lev-sal-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.9,
+          "kommentar": "Sieg Salzburg: 0:1",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "lev-sal-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Ueber 2.5 Tore: nur 1 Tor",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": 39,
+            "team": "gast",
+            "spieler": "Haris Tabakovic",
+            "stand_danach": "0:1",
+            "kommentar": "Einziges Tor der Partie, HZ 0:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Salzburg fuehrte durchgehend nach 39.-Min-Tor."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Salzburg/Salzburg",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Levski defensiv extrem robust wie erwartet (3 zu-Null in Quali), Salzburg-17-Tore-in-6-Spielen-Torlaune wurde stark ausgebremst — nur 1 Tor.",
+          "lev-sal-3 (Über 2.5 @ 1.90) verloren: 1 Tor. Klassisches 'defensiv-solides-Heim'-Signal, das der Wackel-Tipp erwartete.",
+          "MOONSHOT-Levski Sofia hatte kein Bein hier — richtig, weil Salzburg-Sieg-Bein separat gelaufen waere."
+        ],
+        "quelle": "WebSearch VAVEL / Sofascore / thesportsencounter Konsens"
+      }
+    },
+    {
+      "id": "2026-09-17-plz-usg",
+      "liga": "UEFA Europa League - Ligaphase Spieltag 1",
+      "heim": "Viktoria Plzen",
+      "gast": "Union Saint-Gilloise",
+      "anstoss": "2026-09-17T21:00:00+02:00",
+      "stadion": "Doosan Arena, Pilsen",
+      "saison_kontext": {
+        "parallel_heim": "Tschechische Liga am Wochenende",
+        "parallel_gast": "Belgische Pro League am Wochenende + Reise",
+        "saisonziel_heim": "Tschechischer Titel + EL-Weiterkommen",
+        "saisonziel_gast": "Belgischer Titel-Angriff + EL-Achtelfinale",
+        "motivations_asymmetrie": "Beide Teams im Form-Hoch: Plzen 5:1-Comeback vs Crvena Zvezda, Union unbesiegt in 5. Klassisches Coinflip-Spiel.",
+        "recovery_heim": "3 Tage seit Liga-Spiel",
+        "recovery_gast": "3 Tage seit Pro League + Reise",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/fixtures-results/",
+          "https://www.fortunaliga.cz/",
+          "https://www.proleague.be/"
+        ]
+      },
+      "news": [
+        "Plzen 5:1-Comeback vs Crvena Zvezda nach 0:3 aus Hinspiel",
+        "Union in 5 Spielen unbesiegt",
+        "Coinflip-Spiel - offene Quoten 2.70/3.55/2.55"
+      ],
+      "tipps": [
+        {
+          "id": "plz-usg-1",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.6,
+          "edge_prozent": 3.0,
+          "begruendung": "Beide offensiv-orientiert und in Form. Coinflip-Spiel, defensive Absicherung schwer. Einsatz 0.5% = 5€.",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "plz-usg-2",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 2.0,
+          "begruendung": "Zwei offensive Teams treffen zuhause. Aber Auftakt-Nervositaet moeglich. Einsatz 0.5% = 5€.",
+          "faire_quote": 1.8,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 3,
+        "halbzeit_heim": null,
+        "halbzeit_gast": null,
+        "status": "FINISHED",
+        "quelle": "WebSearch (Skysports/ESPN/VAVEL/Flashscore/UEFA/FoxSports Konsens)",
+        "abgerufen_am": "2026-09-18T06:17:38+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "plz-usg-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "BTTS Ja: Plzen zu Null",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "plz-usg-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": "Ueber 2.5 Tore: 3 Tore",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "0:3",
+        "tore": [
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Relebohile Mofokeng",
+            "stand_danach": null,
+            "kommentar": null
+          },
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Mateo Biondic",
+            "stand_danach": null,
+            "kommentar": null
+          },
+          {
+            "min": 59,
+            "team": "gast",
+            "spieler": "Ondrej Kricfalski",
+            "stand_danach": "0:3",
+            "kommentar": "Deckel drauf 59."
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Union-SG dominant von Beginn, Plzen nie im Spiel."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": null,
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Coinflip-These falsch: Plzen 0:3 zuhause getreten. Union SG-in-Form (unbeaten 5) hat sich klar durchgesetzt.",
+          "plz-usg-1 (BTTS @ 1.60) verloren, plz-usg-2 (Über 2.5 @ 1.85) gewonnen — 1/2-Split bei einem Coinflip mit klarer offensiver Union-Ueberlegenheit.",
+          "MOONSHOT-Bein Plzen-Sieg @2.70 verloren — Coinflip-Tipp fuer Plzen in Moonshot war der Bruch-Punkt."
+        ],
+        "quelle": "WebSearch VAVEL / FOX Sports / Sofascore Konsens"
+      }
+    },
+    {
+      "id": "2026-09-17-rso-bou",
+      "liga": "UEFA Europa League - Ligaphase Spieltag 1",
+      "heim": "Real Sociedad",
+      "gast": "AFC Bournemouth",
+      "anstoss": "2026-09-17T21:00:00+02:00",
+      "stadion": "Reale Arena, San Sebastian",
+      "saison_kontext": {
+        "parallel_heim": "LaLiga am Wochenende - Sociedad Platz 12 (2S aus 6), zuletzt 0:3 gg. Atletico daheim",
+        "parallel_gast": "Premier League am Wochenende - Bournemouth ohne PL-Sieg (2U/1N)",
+        "saisonziel_heim": "LaLiga-Europa-Ambition + EL-Weiterkommen",
+        "saisonziel_gast": "PL-Klassenerhalt + EL-Debuet (erste Europa-Teilnahme in Klub-Historie)",
+        "motivations_asymmetrie": "Beide in Form-Kruemel. Sociedad zuhause seit 17 Pflichtspielen ohne Zu-Null - klarer BTTS-Trigger. Coinflip mit leichtem Heim-Bonus.",
+        "recovery_heim": "3 Tage seit LaLiga-Pleite gg. Atletico",
+        "recovery_gast": "3 Tage seit PL + Reise nach Spanien",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/fixtures-results/",
+          "https://www.laliga.com/en-GB",
+          "https://www.premierleague.com/fixtures"
+        ]
+      },
+      "news": [
+        "Sociedad seit 17 Spielen ohne Zu-Null",
+        "Bournemouth unbeaten in 4 (aber 0 PL-Siege)",
+        "Bournemouth erste Europapokal-Teilnahme der Klub-Historie"
+      ],
+      "tipps": [
+        {
+          "id": "rso-bou-1",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.6,
+          "edge_prozent": 6.0,
+          "begruendung": "Sociedad-Defense zu Null-los seit 17 Spielen, Bournemouth offensiv immer da. Klarer Value auf BTTS Ja. Einsatz 2% = 20€.",
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "rso-bou-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.77,
+          "edge_prozent": 5.0,
+          "begruendung": "Beide Defensen leckend, offensiv okay. Goldgruben-Markt Ueber 2.5. Einsatz 1.5% = 15€.",
+          "faire_quote": 1.68,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "rso-bou-3",
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance Sociedad oder Remis (1X)",
+          "quote": 1.6,
+          "edge_prozent": 2.0,
+          "begruendung": "Heimvorteil + Bournemouth-EL-Debuet, aber Sociedad-Form gruselig. Nur WACKEL. Einsatz 0.5% = 5€.",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 2,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 2,
+        "status": "FINISHED",
+        "quelle": "WebSearch (Skysports/ESPN/VAVEL/Flashscore/UEFA/FoxSports Konsens)",
+        "abgerufen_am": "2026-09-18T06:17:38+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "rso-bou-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.6,
+          "kommentar": "BTTS Ja: Sociedad 1, Bournemouth 2",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "rso-bou-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.77,
+          "kommentar": "Ueber 2.5 Tore: 3 Tore",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "rso-bou-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "DC 1X Sociedad: Bournemouth 1:2 Auswaertssieg",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:2",
+        "endstand": "1:2",
+        "tore": [
+          {
+            "min": 11,
+            "team": "gast",
+            "spieler": "Justin Kluivert",
+            "stand_danach": "0:1",
+            "kommentar": "Bournemouths erstes kompetitives Europa-Tor der Klub-Geschichte"
+          },
+          {
+            "min": 20,
+            "team": "gast",
+            "spieler": "Rayan",
+            "stand_danach": "0:2",
+            "kommentar": "Bournemouth-Doppelschlag bis Min 20"
+          },
+          {
+            "min": 58,
+            "team": "heim",
+            "spieler": "Sergio Gomez",
+            "stand_danach": "1:2",
+            "kommentar": "Fernschuss-Kracher Anschluss"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Bournemouth fuehrte durchgehend, kein Zwischenstand +2 fuer Sociedad."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Bournemouth/Bournemouth",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "BTTS-Ja-These (Sociedad-Defense zu-Null-los seit 17 Spielen) hat gestimmt — jetzt 18 in Folge.",
+          "Bournemouth erste Europapokal-Sieg der Klub-Geschichte im EL-Debut in Anoeta.",
+          "rso-bou-1 (BTTS @ 1.60) + rso-bou-2 (Ü2.5 @ 1.77) beide gewonnen. rso-bou-3 (DC 1X Sociedad @ 1.60) verloren — Sociedad-Form-Krise (0:3 gg Atletico + jetzt Heim-Niederlage) real. Wackel-Kategorie passt."
+        ],
+        "quelle": "WebSearch VAVEL / theobjective / thesportsencounter Konsens"
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "cry-lec-1",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance Crystal Palace oder Remis (1X)",
+      "quote": 1.1,
+      "edge_prozent": 5.0,
+      "begruendung": "PL-Team zuhause gegen polnischen Meister im EL-Debuet. DC 1X = Goldgruben-Markt. Einsatz 2% = 20€.",
+      "faire_quote": 1.05,
+      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_id": "2026-09-17-cry-lec",
+      "spiel_label": "Crystal Palace vs Lech Poznan",
+      "rang": 1
+    },
+    {
+      "id": "juv-nec-1",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance Juventus oder Remis (1X)",
+      "quote": 1.05,
+      "edge_prozent": 3.0,
+      "begruendung": "Klassen-Gefaelle deutlich, Juve zuhause + EL-Auftakt-Motivation. DC 1X ist Goldgruben-Markt (72.7% Hitrate, +39.7% ROI). Einsatz 1.5% = 15€.",
+      "faire_quote": 1.02,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-09-17-juv-nec",
+      "spiel_label": "Juventus FC vs NEC Nijmegen",
+      "rang": 2
+    },
+    {
+      "id": "bes-mar-2",
+      "kategorie": "value",
+      "markt": "Sieg Besiktas (90 Min)",
+      "quote": 1.85,
+      "edge_prozent": 7.0,
+      "begruendung": "Form-Asymmetrie: Besiktas Hoch, Marseille 3 Pleiten. Zuhause klarer Wert. Einsatz 1.5% = 15€.",
+      "faire_quote": 1.73,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-09-17-bes-mar",
+      "spiel_label": "Besiktas JK vs Olympique Marseille",
+      "rang": 3
+    },
+    {
+      "id": "juv-nec-3",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "edge_prozent": 6.0,
+      "begruendung": "Juve-Heim gegen defensiv-fragile Ligaphase-Newcomer - typisches 3:0/3:1 Setup. Goldgrube (+23.3% ROI). Einsatz 1.5% = 15€.",
+      "faire_quote": 1.65,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-09-17-juv-nec",
+      "spiel_label": "Juventus FC vs NEC Nijmegen",
+      "rang": 4
+    },
+    {
+      "id": "rso-bou-1",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.6,
+      "edge_prozent": 6.0,
+      "begruendung": "Sociedad-Defense zu Null-los seit 17 Spielen, Bournemouth offensiv immer da. Klarer Value auf BTTS Ja. Einsatz 2% = 20€.",
+      "faire_quote": 1.5,
+      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_id": "2026-09-17-rso-bou",
+      "spiel_label": "Real Sociedad vs AFC Bournemouth",
+      "rang": 5
+    },
+    {
+      "id": "juv-nec-2",
+      "kategorie": "value",
+      "markt": "Sieg Juventus (90 Min)",
+      "quote": 1.2,
+      "edge_prozent": 5.0,
+      "begruendung": "Massive Klasse zuhause, NEC-Form schwach (1 Sieg aus 6). Aber Auftakt + Quote nur 1.20 -> max VALUE. Einsatz 1.5% = 15€.",
+      "faire_quote": 1.14,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-09-17-juv-nec",
+      "spiel_label": "Juventus FC vs NEC Nijmegen",
+      "rang": 6
+    },
+    {
+      "id": "cry-lec-2",
+      "kategorie": "value",
+      "markt": "Sieg Crystal Palace (90 Min)",
+      "quote": 1.4,
+      "edge_prozent": 5.0,
+      "begruendung": "Klarer Heimfavorit, Palace mit EL-Erfahrung aus letztem Jahr (Conference-Sieger). Einsatz 1.5% = 15€.",
+      "faire_quote": 1.33,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-09-17-cry-lec",
+      "spiel_label": "Crystal Palace vs Lech Poznan",
+      "rang": 7
+    },
+    {
+      "id": "bes-mar-1",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Besiktas oder Remis (1X)",
+      "quote": 1.3,
+      "edge_prozent": 5.0,
+      "begruendung": "Heim-Vorteil + Form-Edge klar bei Besiktas, Marseille in Krise. DC 1X = Goldgruben-Markt. Einsatz 1.5% = 15€.",
+      "faire_quote": 1.24,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-09-17-bes-mar",
+      "spiel_label": "Besiktas JK vs Olympique Marseille",
+      "rang": 8
+    },
+    {
+      "id": "cel-fer-2",
+      "kategorie": "value",
+      "markt": "Sieg Celtic (90 Min)",
+      "quote": 1.73,
+      "edge_prozent": 5.0,
+      "begruendung": "Reaktions-Match nach Rangers-Pleite, Heim-Serie hoch. Einsatz 1.5% = 15€.",
+      "faire_quote": 1.64,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-09-17-cel-fer",
+      "spiel_label": "Celtic FC vs Ferencvaros",
+      "rang": 9
+    },
+    {
+      "id": "rso-bou-2",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.77,
+      "edge_prozent": 5.0,
+      "begruendung": "Beide Defensen leckend, offensiv okay. Goldgruben-Markt Ueber 2.5. Einsatz 1.5% = 15€.",
+      "faire_quote": 1.68,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-09-17-rso-bou",
+      "spiel_label": "Real Sociedad vs AFC Bournemouth",
+      "rang": 10
+    }
+  ],
+  "kombis": [
+    {
+      "id": "safe-1",
+      "profil": "Safe",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-09-17-juv-nec",
+          "spiel_label": "Juventus vs NEC",
+          "markt": "Juventus oder Remis (Doppelte Chance)",
+          "quote": 1.05,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-17-cry-lec",
+          "spiel_label": "Crystal Palace vs Lech Poznan",
+          "markt": "Palace oder Remis (Doppelte Chance)",
+          "quote": 1.1,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-17-lev-sal",
+          "spiel_label": "Levski Sofia vs Salzburg",
+          "markt": "Salzburg oder Remis (Doppelte Chance)",
+          "quote": 1.28,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 1.48,
+      "rechnung": "1.05 x 1.10 x 1.28 = 1.48",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "Drei Favoriten-DC-Beine auf grosse Klassen-Gefaelle (Juve/Palace/Salzburg gegen NEC/Lech/Levski). Ehrlich: 1.48x - dieser Slate hat keine 3-5x SAFE-Kombi zu bieten weil alle Top-Favoriten schon unter 1.30 stehen. Wer den MD1-Bonus mitnehmen will, sonst skippen."
+    },
+    {
+      "id": "balance-1",
+      "profil": "Balance",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-09-17-bes-mar",
+          "spiel_label": "Besiktas vs Marseille",
+          "markt": "Sieg Besiktas (90 Min)",
+          "quote": 1.85,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-17-cel-fer",
+          "spiel_label": "Celtic vs Ferencvaros",
+          "markt": "Sieg Celtic (90 Min)",
+          "quote": 1.73,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-17-rso-bou",
+          "spiel_label": "Real Sociedad vs Bournemouth",
+          "markt": "Beide Teams treffen",
+          "quote": 1.6,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-17-ofi-hof",
+          "spiel_label": "OFI Kreta vs Hoffenheim",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 8.96,
+      "rechnung": "1.85 x 1.73 x 1.60 x 1.75 = 8.96",
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 8.0,
+      "begruendung": "Vier VALUE-Beine, Markt-diversifiziert: 2x Sieg (Besiktas/Celtic Form-Edge) + 1x BTTS (Sociedad Defense) + 1x Ueber 2.5 (Hoffenheim-Fragilitaet). Landet mitten im Balance-Zielkorridor. Layer-2 sauber: pro Spiel max 1 Sieg-Outcome ueber alle Kombis."
+    },
+    {
+      "id": "risk-1",
+      "profil": "Risiko",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-09-17-juv-nec",
+          "spiel_label": "Juventus vs NEC",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 3.2,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-09-17-rso-bou",
+          "spiel_label": "Real Sociedad vs Bournemouth",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.77,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-17-cel-fer",
+          "spiel_label": "Celtic vs Ferencvaros",
+          "markt": "Beide Teams treffen",
+          "quote": 1.6,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-09-17-lev-sal",
+          "spiel_label": "Levski Sofia vs Salzburg",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 17.24,
+      "rechnung": "3.20 x 1.77 x 1.60 x 1.90 = 17.24",
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 2.5,
+      "begruendung": "Torschlacht-Ticket: 3x Ueber-Tore + 1x BTTS. Hebel ist Juve Ueber 3.5 (3.20) - erwartet 3:0/3:1 Setup gegen defensiv-schwaches NEC. Alle vier Beine sind Torfrachten - Kombi springt nur wenn ueberall genug fallen. Landet knapp im Risiko-Korridor 15-30x. Keine Sieg-Outcomes."
+    },
+    {
+      "id": "moon-1",
+      "profil": "Moonshot",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-09-17-ofi-hof",
+          "spiel_label": "OFI Kreta vs Hoffenheim",
+          "markt": "Sieg OFI Kreta (90 Min)",
+          "quote": 5.5,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-09-17-plz-usg",
+          "spiel_label": "Viktoria Plzen vs Union SG",
+          "markt": "Sieg Viktoria Plzen (90 Min)",
+          "quote": 2.7,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-09-17-rso-bou",
+          "spiel_label": "Real Sociedad vs Bournemouth",
+          "markt": "Sieg Bournemouth (90 Min)",
+          "quote": 3.8,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-09-17-cry-lec",
+          "spiel_label": "Crystal Palace vs Lech Poznan",
+          "markt": "Beide Teams treffen",
+          "quote": 1.87,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 105.51,
+      "rechnung": "5.50 x 2.70 x 3.80 x 1.87 = 105.51",
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 1.0,
+      "begruendung": "3x Underdog-Sieg + 1x BTTS aus dem MD1-Chaos: OFI-Heim mit 3 To-Null in Folge kann Hoffenheims Defense-Krise (7 Gegentore in 3 BL) bestrafen, Plzen zuhause im Comeback-Modus, Bournemouth mit dem EL-Debuet-Adrenalin, dazu BTTS in Palace vs Lech. Hits die 100x-Marke. Spass-Ticket 1€ - erwartete Ausschuettung minimal, aber wenn ne EL-Sensation faellt, faellt sie oft mit anderen Underdogs zusammen."
+    }
+  ],
+  "lessons_angewandt": [
+    "HR1 Quoten-Range: DC 1X = SAFE bei sehr klaren Favoriten (Juve 1.05, Palace 1.10), DC X2 fuer Auswaerts-Favoriten (Salzburg 1.28, Hoffenheim 1.15).",
+    "HR23 Layer-3-Diversifikation: Layer-2 hart sauber (jedes Spiel max 1 Sieg-Outcome ueber alle Kombis). Layer-3 weich: bei Spielen mit mehreren Beinen ueber Kombis IMMER Markt-entkoppelt (DC vs Ueber-Tore vs BTTS).",
+    "HR4 Story-Konflikt-Check: keine SAFE bei Coinflip-Spielen (Plzen-Union, Sociedad-Bournemouth) - dort nur VALUE/WACKEL.",
+    "Markt-Goldgruben aktiv gesucht: DC 1X (72.7% / +39.7%), DC X2 (75% / +29.6%), Ueber 2.5 (53.3% / +23.3%), BTTS im Value-Segment - genau die vier Markt-Typen aus data/markt_goldgruben.json.",
+    "Kader-Frische-Regel: bewusst KEINE Torschuetzen-Tipps, weil Aufstellungs-Verifikation pro Team im Rush nicht abgesichert war. Nach Adeyemi-Hallu (Aug 26) lieber defensive Markt-Beine als falsche Namen.",
+    "Supercup/2:0-Insurance nicht anwendbar: keine 1. Bundesliga + keine Champions League im Slate - alle Sieg-Tipps ohne bet365-Insurance-Bonus bewertet."
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-09-17T15:45:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "moonshot_layer2_konflikt_alt",
+        "spiel_id": "2026-09-17-ofi-hof",
+        "details": "Vorgaenger-Dossier hatte Sieg Hoffenheim in Moonshot UND Hoffenheim-DC in Safe-Kombi (Layer-2 hart). Jetzt Moonshot auf OFI-Sieg (5.50) umgestellt - Sieg-Outcome ofi-hof nur noch in Moonshot."
+      },
+      {
+        "art": "moonshot_layer2_konflikt_alt",
+        "spiel_id": "2026-09-17-lev-sal",
+        "details": "Vorgaenger-Dossier hatte Sieg Salzburg in Moonshot UND Salzburg-DC-X2 in Balance-Kombi (Layer-2 hart). Salzburg-DC ist jetzt in Safe-Kombi verschoben, Moonshot ohne lev-sal Sieg-Outcome - Layer-2 sauber."
+      },
+      {
+        "art": "quoten_live_pruefen",
+        "details": "Alle Quoten Stand Aggregator/Analyse-Files - vor Wette bei bet365 live pruefen. Torschuetzen-Quoten mangels Aufstellungs-Verifikation komplett ausgespart."
+      }
+    ],
+    "checks_ok": [
+      "Datum-Scope: alle 8 Spiele Anstoss am 2026-09-17 Berlin ✓",
+      "Layer-1: jede Kombi max 1 Bein pro Spiel ✓",
+      "Layer-2 hart: pro Spiel max 1 Sieg-Outcome ueber alle Kombis - juv-nec(Safe DC), cry-lec(Safe DC), bes-mar(Balance Sieg), cel-fer(Balance Sieg), lev-sal(Safe DC-X2), ofi-hof(Moonshot Sieg), plz-usg(Moonshot Sieg), rso-bou(Moonshot Sieg) - alle einzigartig ✓",
+      "Layer-3 weich: Mehrfach-Spiele Markt-entkoppelt (DC + Ueber-Tore + BTTS getrennt) ✓",
+      "gesamtquote nachgerechnet in allen 4 Kombis ✓",
+      "saison_kontext-Pflichtfelder + Verband-Quellen in allen 8 Spielen gesetzt ✓",
+      "Keine Torschuetzen-Tipps -> keine Kader_wechsel_2026-Verletzungen moeglich ✓",
+      "Kein Markt aus markt_bluter.json (Liste aktuell leer) ✓"
+    ],
+    "lessons_generiert": []
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Nur setzen was du verlieren kannst.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "cry-lec-1",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance Crystal Palace oder Remis (1X)",
+      "quote": 1.1,
+      "edge_prozent": 5.0,
+      "begruendung": "PL-Team zuhause gegen polnischen Meister im EL-Debuet. DC 1X = Goldgruben-Markt. Einsatz 2% = 20€.",
+      "faire_quote": 1.05,
+      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_id": "2026-09-17-cry-lec",
+      "spiel_label": "Crystal Palace vs Lech Poznan",
+      "rang": 1,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.1,
+      "kommentar": "DC 1X Palace: 4:0 Heimsieg",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "cry-lec-1"
+    },
+    {
+      "id": "juv-nec-1",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance Juventus oder Remis (1X)",
+      "quote": 1.05,
+      "edge_prozent": 3.0,
+      "begruendung": "Klassen-Gefaelle deutlich, Juve zuhause + EL-Auftakt-Motivation. DC 1X ist Goldgruben-Markt (72.7% Hitrate, +39.7% ROI). Einsatz 1.5% = 15€.",
+      "faire_quote": 1.02,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-09-17-juv-nec",
+      "spiel_label": "Juventus FC vs NEC Nijmegen",
+      "rang": 2,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.05,
+      "kommentar": "DC 1X Juventus: Juve 5:0 gewonnen",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "juv-nec-1"
+    },
+    {
+      "id": "bes-mar-2",
+      "kategorie": "value",
+      "markt": "Sieg Besiktas (90 Min)",
+      "quote": 1.85,
+      "edge_prozent": 7.0,
+      "begruendung": "Form-Asymmetrie: Besiktas Hoch, Marseille 3 Pleiten. Zuhause klarer Wert. Einsatz 1.5% = 15€.",
+      "faire_quote": 1.73,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-09-17-bes-mar",
+      "spiel_label": "Besiktas JK vs Olympique Marseille",
+      "rang": 3,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.85,
+      "kommentar": "Sieg Besiktas: 4:1",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "bes-mar-2"
+    },
+    {
+      "id": "juv-nec-3",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "edge_prozent": 6.0,
+      "begruendung": "Juve-Heim gegen defensiv-fragile Ligaphase-Newcomer - typisches 3:0/3:1 Setup. Goldgrube (+23.3% ROI). Einsatz 1.5% = 15€.",
+      "faire_quote": 1.65,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-09-17-juv-nec",
+      "spiel_label": "Juventus FC vs NEC Nijmegen",
+      "rang": 4,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.75,
+      "kommentar": "Ueber 2.5 Tore: 5 Tore",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "juv-nec-3"
+    },
+    {
+      "id": "rso-bou-1",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.6,
+      "edge_prozent": 6.0,
+      "begruendung": "Sociedad-Defense zu Null-los seit 17 Spielen, Bournemouth offensiv immer da. Klarer Value auf BTTS Ja. Einsatz 2% = 20€.",
+      "faire_quote": 1.5,
+      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_id": "2026-09-17-rso-bou",
+      "spiel_label": "Real Sociedad vs AFC Bournemouth",
+      "rang": 5,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.6,
+      "kommentar": "BTTS Ja: Sociedad 1, Bournemouth 2",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "rso-bou-1"
+    },
+    {
+      "id": "juv-nec-2",
+      "kategorie": "value",
+      "markt": "Sieg Juventus (90 Min)",
+      "quote": 1.2,
+      "edge_prozent": 5.0,
+      "begruendung": "Massive Klasse zuhause, NEC-Form schwach (1 Sieg aus 6). Aber Auftakt + Quote nur 1.20 -> max VALUE. Einsatz 1.5% = 15€.",
+      "faire_quote": 1.14,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-09-17-juv-nec",
+      "spiel_label": "Juventus FC vs NEC Nijmegen",
+      "rang": 6,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.2,
+      "kommentar": "Sieg Juventus: 5:0 klar",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "juv-nec-2"
+    },
+    {
+      "id": "cry-lec-2",
+      "kategorie": "value",
+      "markt": "Sieg Crystal Palace (90 Min)",
+      "quote": 1.4,
+      "edge_prozent": 5.0,
+      "begruendung": "Klarer Heimfavorit, Palace mit EL-Erfahrung aus letztem Jahr (Conference-Sieger). Einsatz 1.5% = 15€.",
+      "faire_quote": 1.33,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-09-17-cry-lec",
+      "spiel_label": "Crystal Palace vs Lech Poznan",
+      "rang": 7,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.4,
+      "kommentar": "Sieg Palace: 4:0",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "cry-lec-2"
+    },
+    {
+      "id": "bes-mar-1",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Besiktas oder Remis (1X)",
+      "quote": 1.3,
+      "edge_prozent": 5.0,
+      "begruendung": "Heim-Vorteil + Form-Edge klar bei Besiktas, Marseille in Krise. DC 1X = Goldgruben-Markt. Einsatz 1.5% = 15€.",
+      "faire_quote": 1.24,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-09-17-bes-mar",
+      "spiel_label": "Besiktas JK vs Olympique Marseille",
+      "rang": 8,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.3,
+      "kommentar": "DC 1X Besiktas: 4:1 Heimsieg",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "bes-mar-1"
+    },
+    {
+      "id": "cel-fer-2",
+      "kategorie": "value",
+      "markt": "Sieg Celtic (90 Min)",
+      "quote": 1.73,
+      "edge_prozent": 5.0,
+      "begruendung": "Reaktions-Match nach Rangers-Pleite, Heim-Serie hoch. Einsatz 1.5% = 15€.",
+      "faire_quote": 1.64,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-09-17-cel-fer",
+      "spiel_label": "Celtic FC vs Ferencvaros",
+      "rang": 9,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Sieg Celtic: 1:3 Heimniederlage",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "cel-fer-2"
+    },
+    {
+      "id": "rso-bou-2",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.77,
+      "edge_prozent": 5.0,
+      "begruendung": "Beide Defensen leckend, offensiv okay. Goldgruben-Markt Ueber 2.5. Einsatz 1.5% = 15€.",
+      "faire_quote": 1.68,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-09-17-rso-bou",
+      "spiel_label": "Real Sociedad vs AFC Bournemouth",
+      "rang": 10,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.77,
+      "kommentar": "Ueber 2.5 Tore: 3 Tore",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "rso-bou-2"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "safe-1",
+      "status": "gewonnen",
+      "gesamtquote": 1.48,
+      "kommentar": "Alle 3 Beine gewonnen: Juve 5:0, Palace 4:0, Salzburg 1:0. Gesamtquote 1.48."
+    },
+    {
+      "kombi_id": "balance-1",
+      "status": "verloren",
+      "gesamtquote": 8.96,
+      "kommentar": "Celtic-Sieg (1:3) und Ueber 2.5 in OFI-Hof (nur 2 Tore) verloren. Besiktas-Sieg + Sociedad-BTTS gewonnen."
+    },
+    {
+      "kombi_id": "risk-1",
+      "status": "verloren",
+      "gesamtquote": 17.24,
+      "kommentar": "Levski-Ueber 2.5 verloren (nur 1 Tor). Juve Ue3.5, Sociedad Ue2.5, Celtic BTTS gewonnen."
+    },
+    {
+      "kombi_id": "moon-1",
+      "status": "verloren",
+      "gesamtquote": 105.51,
+      "kommentar": "Nur OFI-Sieg gewonnen. Plzen (0:3 verloren), Bournemouth-Sieg (2:1) gewonnen aber Palace-BTTS verloren."
+    }
+  ],
+  "ausgewertet_am": "2026-09-18T06:17:38+00:00"
+}

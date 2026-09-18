@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-09-17T06:09:52+00:00",
+  "letzte_berechnung": "2026-09-18T06:21:37+00:00",
   "gesamt": {
-    "tipps": 398,
-    "gewonnen": 210,
-    "verloren": 176,
+    "tipps": 408,
+    "gewonnen": 219,
+    "verloren": 177,
     "push": 1,
     "offen": 11,
-    "einsatz": 387.0,
-    "netto": 58.82,
-    "trefferquote": 54.4,
-    "roi_prozent": 15.2
+    "einsatz": 397.0,
+    "netto": 61.84,
+    "trefferquote": 55.3,
+    "roi_prozent": 15.6
   },
   "letzte_30_tage": {
-    "tipps": 69,
-    "gewonnen": 46,
-    "verloren": 23,
+    "tipps": 71,
+    "gewonnen": 52,
+    "verloren": 19,
     "push": 0,
     "offen": 0,
-    "einsatz": 69.0,
-    "netto": 64.94,
-    "trefferquote": 66.7,
-    "roi_prozent": 94.1
+    "einsatz": 71.0,
+    "netto": 71.39,
+    "trefferquote": 73.2,
+    "roi_prozent": 100.5
   },
   "letzte_90_tage": {
-    "tipps": 359,
-    "gewonnen": 191,
+    "tipps": 362,
+    "gewonnen": 194,
     "verloren": 156,
     "push": 1,
     "offen": 11,
-    "einsatz": 348.0,
-    "netto": 65.99,
-    "trefferquote": 55.0,
-    "roi_prozent": 19.0
+    "einsatz": 351.0,
+    "netto": 69.01,
+    "trefferquote": 55.4,
+    "roi_prozent": 19.7
   },
   "nach_liga": {
     "FIFA World Cup 2026 - Gruppe H - Spieltag 1": {
@@ -1035,6 +1035,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 1.3,
       "trefferquote": 50.0,
       "roi_prozent": 65.0
+    },
+    "UEFA Europa League - Ligaphase Spieltag 1": {
+      "tipps": 10,
+      "gewonnen": 9,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 10.0,
+      "netto": 3.02,
+      "trefferquote": 90.0,
+      "roi_prozent": 30.2
     }
   },
   "nach_markt": {
@@ -1446,15 +1457,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 26,
-      "gewonnen": 12,
+      "tipps": 28,
+      "gewonnen": 14,
       "verloren": 12,
       "push": 0,
       "offen": 2,
-      "einsatz": 24.0,
-      "netto": 6.7,
-      "trefferquote": 50.0,
-      "roi_prozent": 27.9
+      "einsatz": 26.0,
+      "netto": 8.22,
+      "trefferquote": 53.8,
+      "roi_prozent": 31.6
     },
     "Vinicius Junior trifft jederzeit": {
       "tipps": 2,
@@ -3435,19 +3446,107 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 1.3,
       "trefferquote": 100.0,
       "roi_prozent": 130.0
+    },
+    "Doppelte Chance Crystal Palace oder Remis (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.1,
+      "trefferquote": 100.0,
+      "roi_prozent": 10.0
+    },
+    "Doppelte Chance Juventus oder Remis (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.05,
+      "trefferquote": 100.0,
+      "roi_prozent": 5.0
+    },
+    "Sieg Besiktas (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.85,
+      "trefferquote": 100.0,
+      "roi_prozent": 85.0
+    },
+    "Beide Teams treffen": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.6,
+      "trefferquote": 100.0,
+      "roi_prozent": 60.0
+    },
+    "Sieg Juventus (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.2,
+      "trefferquote": 100.0,
+      "roi_prozent": 20.0
+    },
+    "Sieg Crystal Palace (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.4,
+      "trefferquote": 100.0,
+      "roi_prozent": 40.0
+    },
+    "Doppelte Chance Besiktas oder Remis (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 30.0
+    },
+    "Sieg Celtic (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_markt_typ": {
     "Sieg (1X2 / ML)": {
-      "tipps": 120,
-      "gewonnen": 58,
-      "verloren": 59,
+      "tipps": 124,
+      "gewonnen": 61,
+      "verloren": 60,
       "push": 1,
       "offen": 2,
-      "einsatz": 118.0,
-      "netto": 0.45,
-      "trefferquote": 49.6,
-      "roi_prozent": 0.4
+      "einsatz": 122.0,
+      "netto": 0.9,
+      "trefferquote": 50.4,
+      "roi_prozent": 0.7
     },
     "Torschuetzen Jederzeit": {
       "tipps": 61,
@@ -3461,15 +3560,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -1.9
     },
     "Ueber 2.5 Tore": {
-      "tipps": 32,
-      "gewonnen": 16,
+      "tipps": 34,
+      "gewonnen": 18,
       "verloren": 14,
       "push": 0,
       "offen": 2,
-      "einsatz": 30.0,
-      "netto": 7.0,
-      "trefferquote": 53.3,
-      "roi_prozent": 23.3
+      "einsatz": 32.0,
+      "netto": 8.52,
+      "trefferquote": 56.2,
+      "roi_prozent": 26.6
     },
     "Doppelte Chance X2": {
       "tipps": 36,
@@ -3494,15 +3593,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 30.0
     },
     "Doppelte Chance 1X": {
-      "tipps": 22,
-      "gewonnen": 16,
+      "tipps": 25,
+      "gewonnen": 19,
       "verloren": 6,
       "push": 0,
       "offen": 0,
-      "einsatz": 22.0,
-      "netto": 8.74,
-      "trefferquote": 72.7,
-      "roi_prozent": 39.7
+      "einsatz": 25.0,
+      "netto": 9.19,
+      "trefferquote": 76.0,
+      "roi_prozent": 36.8
     },
     "Unter 3.5 Tore": {
       "tipps": 3,
@@ -3767,30 +3866,41 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 3.7,
       "trefferquote": 100.0,
       "roi_prozent": 185.0
+    },
+    "Beide Teams treffen": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.6,
+      "trefferquote": 100.0,
+      "roi_prozent": 60.0
     }
   },
   "nach_quoten_range": {
     "1.00-1.50": {
-      "tipps": 165,
-      "gewonnen": 103,
+      "tipps": 170,
+      "gewonnen": 108,
       "verloren": 54,
       "push": 1,
       "offen": 7,
-      "einsatz": 158.0,
-      "netto": 23.49,
-      "trefferquote": 65.6,
-      "roi_prozent": 14.9
+      "einsatz": 163.0,
+      "netto": 24.54,
+      "trefferquote": 66.7,
+      "roi_prozent": 15.1
     },
     "1.50-2.00": {
-      "tipps": 167,
-      "gewonnen": 89,
-      "verloren": 76,
+      "tipps": 172,
+      "gewonnen": 93,
+      "verloren": 77,
       "push": 0,
       "offen": 2,
-      "einsatz": 165.0,
-      "netto": 40.86,
-      "trefferquote": 53.9,
-      "roi_prozent": 24.8
+      "einsatz": 170.0,
+      "netto": 42.83,
+      "trefferquote": 54.7,
+      "roi_prozent": 25.2
     },
     "2.00-3.00": {
       "tipps": 51,
@@ -3817,15 +3927,15 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 69,
-      "gewonnen": 46,
+      "tipps": 71,
+      "gewonnen": 48,
       "verloren": 16,
       "push": 0,
       "offen": 7,
-      "einsatz": 62.0,
-      "netto": 28.12,
-      "trefferquote": 74.2,
-      "roi_prozent": 45.4
+      "einsatz": 64.0,
+      "netto": 28.27,
+      "trefferquote": 75.0,
+      "roi_prozent": 44.2
     },
     "wackel": {
       "tipps": 93,
@@ -3839,15 +3949,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 7.4
     },
     "value": {
-      "tipps": 233,
-      "gewonnen": 123,
-      "verloren": 105,
+      "tipps": 241,
+      "gewonnen": 130,
+      "verloren": 106,
       "push": 1,
       "offen": 4,
-      "einsatz": 229.0,
-      "netto": 24.42,
-      "trefferquote": 53.9,
-      "roi_prozent": 10.7
+      "einsatz": 237.0,
+      "netto": 27.29,
+      "trefferquote": 55.1,
+      "roi_prozent": 11.5
     },
     "risiko": {
       "tipps": 3,
@@ -3886,15 +3996,15 @@ window.__MIESMUSCHEL_STAT = {
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 398,
-      "gewonnen": 210,
-      "verloren": 176,
+      "tipps": 408,
+      "gewonnen": 219,
+      "verloren": 177,
       "push": 1,
       "offen": 11,
-      "einsatz": 387.0,
-      "netto": 58.82,
-      "trefferquote": 54.4,
-      "roi_prozent": 15.2
+      "einsatz": 397.0,
+      "netto": 61.84,
+      "trefferquote": 55.3,
+      "roi_prozent": 15.6
     },
     "kasse": {
       "name": "2026/27",
@@ -3931,21 +4041,290 @@ window.__MIESMUSCHEL_STAT = {
         "start": "2026-08-22",
         "ende": "2027-06-30",
         "bilanz": {
-          "tipps": 61,
-          "gewonnen": 43,
-          "verloren": 18,
+          "tipps": 71,
+          "gewonnen": 52,
+          "verloren": 19,
           "push": 0,
           "offen": 0,
-          "einsatz": 61.0,
-          "netto": 68.37,
-          "trefferquote": 70.5,
-          "roi_prozent": 112.1
+          "einsatz": 71.0,
+          "netto": 71.39,
+          "trefferquote": 73.2,
+          "roi_prozent": 100.5
         },
         "ist_aktuell": true
       }
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-09-17",
+      "gesamt": {
+        "tipps": 10,
+        "gewonnen": 9,
+        "verloren": 1,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 10.0,
+        "netto": 3.02,
+        "trefferquote": 90.0,
+        "roi_prozent": 30.2
+      },
+      "spiele": [
+        {
+          "id": "2026-09-17-juv-nec",
+          "liga": "UEFA Europa League - Ligaphase Spieltag 1",
+          "heim": "Juventus FC",
+          "gast": "NEC Nijmegen",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Juventus oder Remis (1X)",
+              "quote": 1.05,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.05,
+              "kommentar": "DC 1X Juventus: Juve 5:0 gewonnen"
+            },
+            {
+              "markt": "Sieg Juventus (90 Min)",
+              "quote": 1.2,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.2,
+              "kommentar": "Sieg Juventus: 5:0 klar"
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.75,
+              "kommentar": "Ueber 2.5 Tore: 5 Tore"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-17-cry-lec",
+          "liga": "UEFA Europa League - Ligaphase Spieltag 1",
+          "heim": "Crystal Palace",
+          "gast": "Lech Poznan",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Crystal Palace oder Remis (1X)",
+              "quote": 1.1,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.1,
+              "kommentar": "DC 1X Palace: 4:0 Heimsieg"
+            },
+            {
+              "markt": "Sieg Crystal Palace (90 Min)",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.4,
+              "kommentar": "Sieg Palace: 4:0"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-17-bes-mar",
+          "liga": "UEFA Europa League - Ligaphase Spieltag 1",
+          "heim": "Besiktas JK",
+          "gast": "Olympique Marseille",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Besiktas oder Remis (1X)",
+              "quote": 1.3,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": "DC 1X Besiktas: 4:1 Heimsieg"
+            },
+            {
+              "markt": "Sieg Besiktas (90 Min)",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.85,
+              "kommentar": "Sieg Besiktas: 4:1"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-17-cel-fer",
+          "liga": "UEFA Europa League - Ligaphase Spieltag 1",
+          "heim": "Celtic FC",
+          "gast": "Ferencvaros",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg Celtic (90 Min)",
+              "quote": 1.73,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Sieg Celtic: 1:3 Heimniederlage"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-17-rso-bou",
+          "liga": "UEFA Europa League - Ligaphase Spieltag 1",
+          "heim": "Real Sociedad",
+          "gast": "AFC Bournemouth",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.6,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.6,
+              "kommentar": "BTTS Ja: Sociedad 1, Bournemouth 2"
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.77,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.77,
+              "kommentar": "Ueber 2.5 Tore: 3 Tore"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "safe-1",
+          "kategorie": "safe",
+          "gesamtquote": 1.48,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Juventus oder Remis (Doppelte Chance)",
+              "quote": 1.05,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Palace oder Remis (Doppelte Chance)",
+              "quote": 1.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Salzburg oder Remis (Doppelte Chance)",
+              "quote": 1.28,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "balance-1",
+          "kategorie": "balance",
+          "gesamtquote": 8.96,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Besiktas (90 Min)",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Celtic (90 Min)",
+              "quote": 1.73,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "risk-1",
+          "kategorie": "risk",
+          "gesamtquote": 17.24,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.77,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "moon-1",
+          "kategorie": "moonshot",
+          "gesamtquote": 105.51,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg OFI Kreta (90 Min)",
+              "quote": 5.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Viktoria Plzen (90 Min)",
+              "quote": 2.7,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Bournemouth (90 Min)",
+              "quote": 3.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.87,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-09-16",
       "gesamt": {
