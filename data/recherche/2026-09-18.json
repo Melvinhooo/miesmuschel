@@ -1,0 +1,233 @@
+{
+  "datum": "2026-09-18",
+  "erstellt_am": "2026-09-18T15:15:00+02:00",
+  "modus": "tag",
+  "_emergency_recovery": true,
+  "_note": "Recherche-File nachtraeglich erstellt zum Sync mit dem bereits vom Watchdog-Recovery erstellten data/tipps/2026-09-18.json (5 Spiele im Fenster). Enthaelt alle 5 Spiele-IDs damit fix_schema.py::validate_recherche_completeness die Tipps nicht wegen fehlendem Recherche-Match droppt. Quellen aus Live-WebSearch der Master-Routine.",
+  "spiele": [
+    {
+      "id": "2026-09-18-wob-dar",
+      "liga": "2. Bundesliga - 6. Spieltag",
+      "heim": "VfL Wolfsburg",
+      "gast": "SV Darmstadt 98",
+      "anstoss": "2026-09-18T18:30:00+02:00",
+      "stadion": "Volkswagen Arena, Wolfsburg",
+      "tabellenstand": {"heim_platz": 6, "heim_pkt": 8, "gast_platz": 12, "gast_pkt": 5},
+      "form_heim_letzte_5": "S-N-U-S-U",
+      "form_gast_letzte_5": "U-N-S-N-U",
+      "recovery_heim": "6 Tage seit St.-Pauli-Setback",
+      "recovery_gast": "6 Tage seit letztem 2.BL-Spieltag",
+      "parallele_wettbewerbe": {"heim": "keine (nur 2. BL)", "gast": "keine (nur 2. BL)", "quellen": ["https://www.bundesliga.com/en/2bundesliga/matchday"]},
+      "saisonziel_heim": "Wiederaufstieg in die Bundesliga",
+      "saisonziel_gast": "Solides Mittelfeld / Aufstiegs-Zone",
+      "quoten": {
+        "bet365_geschaetzt": {
+          "sieg_heim": 1.90,
+          "draw": 3.50,
+          "sieg_gast": 4.20,
+          "dc_1x": 1.30,
+          "ueber_2_5": 2.00,
+          "unter_2_5": 1.85,
+          "btts_ja": 1.90,
+          "btts_nein": 1.85
+        }
+      },
+      "kader_hinweise": [
+        "Darmstadt-Trainer Florian Kohfeldt (ex-Wolfsburg) - Rueckkehr-Storyline",
+        "Darmstadt bisher schwaechster Angriff der Liga"
+      ],
+      "news_kompakt": [
+        "Wolfsburg-Aufstiegs-Ambition nach dem Abstieg 25/26",
+        "Kohfeldt-Rueckkehr an alte Wirkungsstaette",
+        "SVD offensiv-schwach"
+      ],
+      "quellen_aggregator": [
+        "https://www.bundesliga.com/en/2bundesliga/matchday",
+        "https://www.absolutfussball.com/deutschland/2-bundesliga/vfl-wolfsburg-gegen-sv-darmstadt-live-im-tv-und-stream-hier-sehen-sie-die-bundesliga-94495058.html",
+        "https://www.foxsports.com/soccer/2-bundesliga-vfl-wolfsburg-vs-darmstadt-sep-18-2026-game-boxscore-913258"
+      ]
+    },
+    {
+      "id": "2026-09-18-fue-mag",
+      "liga": "2. Bundesliga - 6. Spieltag",
+      "heim": "SpVgg Greuther Fuerth",
+      "gast": "1. FC Magdeburg",
+      "anstoss": "2026-09-18T18:30:00+02:00",
+      "stadion": "Sportpark Ronhof Thomas Sommer, Fuerth",
+      "tabellenstand": {"heim_platz": 13, "heim_pkt": 4, "gast_platz": 4, "gast_pkt": 9},
+      "form_heim_letzte_5": "N-U-N-S-N",
+      "form_gast_letzte_5": "S-S-U-S-N",
+      "recovery_heim": "6 Tage seit letztem 2.BL-Spieltag",
+      "recovery_gast": "6 Tage seit letztem 2.BL-Spieltag",
+      "parallele_wettbewerbe": {"heim": "keine (nur 2. BL)", "gast": "keine (nur 2. BL)", "quellen": ["https://www.bundesliga.com/en/2bundesliga/matchday"]},
+      "saisonziel_heim": "Umbruch / Klassenerhalt",
+      "saisonziel_gast": "Aufstiegs-Kandidat (Platz 4)",
+      "quoten": {
+        "bet365_geschaetzt": {
+          "sieg_heim": 2.75,
+          "draw": 3.40,
+          "sieg_gast": 2.40,
+          "dc_1x": 1.55,
+          "dc_x2": 1.40,
+          "ueber_2_5": 1.85,
+          "ueber_3_5": 2.35,
+          "btts_ja": 1.65,
+          "btts_nein": 2.15
+        }
+      },
+      "kader_hinweise": [
+        "H2H-Historie: letzte 2 Duelle jeweils 5:4 - klassisches Torfest-Pattern",
+        "Magdeburg im Aufstiegs-Modus, Fuerth im Umbruch"
+      ],
+      "news_kompakt": [
+        "Magdeburg Platz 4, 9 Pkt - Aufstiegs-Kandidat",
+        "H2H alles Tor-Fests (5:4-Cluster)",
+        "Fuerth-Umbruch nach knappem Klassenerhalt"
+      ],
+      "quellen_aggregator": [
+        "https://www.bundesliga.com/en/2bundesliga/matchday",
+        "https://anstosszeiten.de/2-bundesliga/spiel/greuther-fuerth-magdeburg/",
+        "https://magdeburg-fussball.de/live/greuther-fuerth-fcm-heute-live-stream-2-bundesliga-wer-uebertraegt-3745623"
+      ]
+    },
+    {
+      "id": "2026-09-18-bay-uni",
+      "liga": "Bundesliga - 4. Spieltag",
+      "heim": "FC Bayern Muenchen",
+      "gast": "1. FC Union Berlin",
+      "anstoss": "2026-09-18T20:30:00+02:00",
+      "stadion": "Allianz Arena, Muenchen",
+      "tabellenstand": {"heim_platz": 4, "heim_pkt": 7, "gast_platz": 16, "gast_pkt": 1},
+      "form_heim_letzte_5": "S-S-U-S-S",
+      "form_gast_letzte_5": "N-U-N-N-N",
+      "recovery_heim": "5 Tage seit 2:1 vs Elversberg (DFB-Pokal 13.09.)",
+      "recovery_gast": "7 Tage seit 1:3 vs Schalke (11.09.)",
+      "parallele_wettbewerbe": {"heim": "CL-Ligaphase - MD1 5:0 vs Bodoe/Glimt am 16.09. abgehakt, MD2 am 30.09.", "gast": "keine", "quellen": ["https://www.uefa.com/uefachampionsleague/", "https://fcbayern.com/en/matches/profis/bundesliga/2026-2027/fc-bayern-muenchen-1-fc-union-berlin-19-09-2026/liveticker"]},
+      "saisonziel_heim": "Bundesliga-Titelverteidigung + CL-Achtelfinale",
+      "saisonziel_gast": "Klassenerhalt (Platz 16, 1 Pkt aus 3)",
+      "quoten": {
+        "bet365_geschaetzt": {
+          "sieg_heim": 1.07,
+          "draw": 14.00,
+          "sieg_gast": 27.00,
+          "dc_1x": 1.03,
+          "dc_x2": 8.00,
+          "ueber_2_5": 1.35,
+          "ueber_3_5": 1.55,
+          "ueber_4_5": 2.30,
+          "btts_ja": 2.30,
+          "btts_nein": 1.35,
+          "handicap_heim_-2": 1.75
+        }
+      },
+      "kader_hinweise": [
+        "Bayern-Startelf 13.09.: Urbig-Stanisic-Upamecano-Kim-Brown | Pavlovic-Bischof-Karl-Olise-Saibari - Kane",
+        "Kompany bleibt Bayern-Trainer (seit 2024)",
+        "Union-Startelf 11.09.: Ronnow-Juranovic-Querfeld-Uduokhai-Rothe | Aebischer-Kemlein-Burcu | Khedira-Woo-yeong-Latte Lath",
+        "Union-Trainer: Mauro Lustrinelli (seit 2026-07, ex-FC Thun)",
+        "Gnabry wieder fit; Buchmann noch out"
+      ],
+      "news_kompakt": [
+        "Bayern heftigster Favorit der Saison @ 1.07",
+        "Union 1 Pkt aus 3, Tabellen-16.",
+        "1. Bundesliga - 2:0-Insurance greift bei direktem Bayern-Sieg-Tipp"
+      ],
+      "quellen_aggregator": [
+        "https://sports.yahoo.com/articles/preview-bayern-m-nchen-vs-183500758.html",
+        "https://www.sportsmole.co.uk/football/bayern-munich/preview/bayern-vs-union-berlin-prediction-team-news-lineups_605268.html",
+        "https://www.sportsbettingdime.com/news/soccer/bayern-munich-vs-union-berlin-odds-predictions-september-18-2026/"
+      ]
+    },
+    {
+      "id": "2026-09-18-mon-len",
+      "liga": "Ligue 1 - 5. Spieltag",
+      "heim": "AS Monaco",
+      "gast": "RC Lens",
+      "anstoss": "2026-09-18T20:45:00+02:00",
+      "stadion": "Stade Louis II, Monaco",
+      "tabellenstand": {"heim_platz": 2, "heim_pkt": 10, "gast_platz": 10, "gast_pkt": 4},
+      "form_heim_letzte_5": "S-S-U-S-U",
+      "form_gast_letzte_5": "S-U-U-N-N",
+      "recovery_heim": "Reichlich - keine CL-Doppelbelastung diese Woche",
+      "recovery_gast": "2 Tage nach CL-Kraftakt 3:2 vs Slavia (16.09.) + Reise",
+      "parallele_wettbewerbe": {"heim": "CL-Ligaphase startet 30.09.", "gast": "UEFA Champions League Ligaphase - MD1 3:2 vs Slavia am 16.09.", "quellen": ["https://www.uefa.com/uefachampionsleague/", "https://ligue1.com/en/calendar/ligue1"]},
+      "saisonziel_heim": "Ligue-1-Meisterschaft + CL-Achtelfinale",
+      "saisonziel_gast": "CL-Weiterkommen + Ligue-1-Mittelfeld",
+      "quoten": {
+        "bet365_geschaetzt": {
+          "sieg_heim": 1.55,
+          "draw": 4.00,
+          "sieg_gast": 5.50,
+          "dc_1x": 1.15,
+          "dc_x2": 2.30,
+          "ueber_2_5": 1.75,
+          "ueber_3_5": 2.30,
+          "btts_ja": 1.70,
+          "btts_nein": 2.05
+        }
+      },
+      "kader_hinweise": [
+        "Paris Brunner - Monaco-Sturm-Star, 4 Tore in 5 Spielen bei ~400 Min",
+        "Monaco out: Takumi Minamino, Jordan Teze, Mamadou Coulibaly (alle Muskel)",
+        "Lens massiv verletzt: Baidoo, Titraoui, Gradit, Chavez, Nawrocki (5 Defensiv-Spieler)"
+      ],
+      "news_kompakt": [
+        "Monaco 2. Platz, 10 Pkt, unbeaten in 6",
+        "Lens 5 Defensiv-Ausfaelle + CL-Nachwirkung",
+        "Monaco geht bei mind. Remis auf Tabellenfuehrung"
+      ],
+      "quellen_aggregator": [
+        "https://footballwhispers.com/blog/monaco-vs-lens-prediction-18-09-2026/",
+        "https://www.sportsgambler.com/betting-tips/football/monaco-vs-lens-prediction-lineups-odds-2026-09-18/",
+        "https://www.whoscored.com/matches/1984091/preview/france-ligue-1-2026-2027-monaco-lens"
+      ]
+    },
+    {
+      "id": "2026-09-18-esp-elc",
+      "liga": "LaLiga - 5. Spieltag",
+      "heim": "RCD Espanyol Barcelona",
+      "gast": "Elche CF",
+      "anstoss": "2026-09-18T21:00:00+02:00",
+      "stadion": "RCDE Stadium, Cornella-El Prat",
+      "tabellenstand": {"heim_platz": 8, "heim_pkt": 7, "gast_platz": 20, "gast_pkt": 2},
+      "form_heim_letzte_5": "S-U-N-S-N",
+      "form_gast_letzte_5": "N-N-N-U-N",
+      "recovery_heim": "6 Tage seit 1:2 vs Rayo Vallecano",
+      "recovery_gast": "6 Tage seit 2:3 vs Real Madrid",
+      "parallele_wettbewerbe": {"heim": "keine (kein Europapokal)", "gast": "keine (Aufsteiger, LaLiga exklusiv)", "quellen": ["https://www.laliga.com/en-GB/laliga-easports"]},
+      "saisonziel_heim": "LaLiga-Klassenerhalt / Mittelfeld",
+      "saisonziel_gast": "Klassenerhalt (Aufsteiger, 20. Platz)",
+      "quoten": {
+        "bet365_geschaetzt": {
+          "sieg_heim": 2.05,
+          "draw": 3.30,
+          "sieg_gast": 3.80,
+          "dc_1x": 1.30,
+          "dc_x2": 1.80,
+          "ueber_2_5": 2.10,
+          "unter_2_5": 1.80,
+          "unter_3_5": 1.30,
+          "btts_ja": 2.10,
+          "btts_nein": 1.65
+        }
+      },
+      "kader_hinweise": [
+        "Espanyol-Coach Manolo Gonzalez (seit 2024) - defensiv-kompaktes 4-4-2",
+        "Elche-Coach Martin Anselmi - Aufsteiger-Trainer",
+        "Espanyol Ausfaelle: Carreras (Leiste), Puado (Band), El Hilali (Rot-Sperre)",
+        "Elche Ausfall: Boayar - Sturm-Ausduennung",
+        "Espanyol H2H-dominant: unbeaten in letzten 6 vs Elche, keine Niederlage seit Jan 2022"
+      ],
+      "news_kompakt": [
+        "Espanyol H2H-Uebermacht (unbesiegt seit Jan 2022 vs Elche)",
+        "Elche 6 Spiele ohne Sieg (LaLiga-Krisen-Serie)",
+        "Espanyol-Sturm ausgeduennt, Espanyol-Defense okay zuhause"
+      ],
+      "quellen_aggregator": [
+        "https://sports.yahoo.com/articles/preview-espanyol-vs-elche-cf-190500707.html",
+        "https://www.sportsgambler.com/betting-tips/football/espanyol-vs-elche-prediction-lineups-odds-2026-09-18/",
+        "https://tips.gg/article/rcd-espanyol-vs-elche-18-09-2026/"
+      ]
+    }
+  ]
+}
