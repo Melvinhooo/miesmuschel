@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-09-18T06:21:37+00:00",
+  "letzte_berechnung": "2026-09-19T06:14:11+00:00",
   "gesamt": {
-    "tipps": 408,
-    "gewonnen": 219,
-    "verloren": 177,
+    "tipps": 418,
+    "gewonnen": 226,
+    "verloren": 180,
     "push": 1,
     "offen": 11,
-    "einsatz": 397.0,
-    "netto": 61.84,
-    "trefferquote": 55.3,
-    "roi_prozent": 15.6
+    "einsatz": 407.0,
+    "netto": 61.42,
+    "trefferquote": 55.7,
+    "roi_prozent": 15.1
   },
   "letzte_30_tage": {
-    "tipps": 71,
-    "gewonnen": 52,
-    "verloren": 19,
+    "tipps": 81,
+    "gewonnen": 59,
+    "verloren": 22,
     "push": 0,
     "offen": 0,
-    "einsatz": 71.0,
-    "netto": 71.39,
-    "trefferquote": 73.2,
-    "roi_prozent": 100.5
+    "einsatz": 81.0,
+    "netto": 70.97,
+    "trefferquote": 72.8,
+    "roi_prozent": 87.6
   },
   "letzte_90_tage": {
     "tipps": 362,
-    "gewonnen": 194,
-    "verloren": 156,
+    "gewonnen": 193,
+    "verloren": 157,
     "push": 1,
     "offen": 11,
     "einsatz": 351.0,
-    "netto": 69.01,
-    "trefferquote": 55.4,
-    "roi_prozent": 19.7
+    "netto": 68.59,
+    "trefferquote": 55.1,
+    "roi_prozent": 19.5
   },
   "nach_liga": {
     "FIFA World Cup 2026 - Gruppe H - Spieltag 1": {
@@ -1046,6 +1046,50 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 3.02,
       "trefferquote": 90.0,
       "roi_prozent": 30.2
+    },
+    "Bundesliga - 4. Spieltag": {
+      "tipps": 3,
+      "gewonnen": 3,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.53,
+      "trefferquote": 100.0,
+      "roi_prozent": 17.7
+    },
+    "Ligue 1 - 5. Spieltag": {
+      "tipps": 3,
+      "gewonnen": 3,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 1.4,
+      "trefferquote": 100.0,
+      "roi_prozent": 46.7
+    },
+    "2. Bundesliga - 6. Spieltag": {
+      "tipps": 3,
+      "gewonnen": 1,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": -1.35,
+      "trefferquote": 33.3,
+      "roi_prozent": -45.0
+    },
+    "LaLiga - 5. Spieltag": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_markt": {
@@ -1457,15 +1501,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 28,
-      "gewonnen": 14,
-      "verloren": 12,
+      "tipps": 30,
+      "gewonnen": 15,
+      "verloren": 13,
       "push": 0,
       "offen": 2,
-      "einsatz": 26.0,
-      "netto": 8.22,
-      "trefferquote": 53.8,
-      "roi_prozent": 31.6
+      "einsatz": 28.0,
+      "netto": 7.57,
+      "trefferquote": 53.6,
+      "roi_prozent": 27.0
     },
     "Vinicius Junior trifft jederzeit": {
       "tipps": 2,
@@ -1501,15 +1545,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -100.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 22,
+      "tipps": 23,
       "gewonnen": 16,
-      "verloren": 6,
+      "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 22.0,
-      "netto": 8.61,
-      "trefferquote": 72.7,
-      "roi_prozent": 39.1
+      "einsatz": 23.0,
+      "netto": 7.61,
+      "trefferquote": 69.6,
+      "roi_prozent": 33.1
     },
     "Marokko zu Null": {
       "tipps": 1,
@@ -2205,15 +2249,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 65.0
     },
     "Beide Teams treffen (BTTS Ja)": {
-      "tipps": 3,
-      "gewonnen": 1,
+      "tipps": 5,
+      "gewonnen": 3,
       "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 3.0,
-      "netto": -1.11,
-      "trefferquote": 33.3,
-      "roi_prozent": -37.0
+      "einsatz": 5.0,
+      "netto": 0.24,
+      "trefferquote": 60.0,
+      "roi_prozent": 4.8
     },
     "Lamine Yamal trifft (Torschuetze Jederzeit)": {
       "tipps": 1,
@@ -3534,19 +3578,74 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Doppelte Chance Bayern oder Remis (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.03,
+      "trefferquote": 100.0,
+      "roi_prozent": 3.0
+    },
+    "Doppelte Chance Monaco oder Remis (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.15,
+      "trefferquote": 100.0,
+      "roi_prozent": 15.0
+    },
+    "Sieg AS Monaco (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.55,
+      "trefferquote": 100.0,
+      "roi_prozent": 55.0
+    },
+    "Doppelte Chance Espanyol oder Remis (1X)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Sieg Bayern (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.15,
+      "trefferquote": 100.0,
+      "roi_prozent": 15.0
     }
   },
   "nach_markt_typ": {
     "Sieg (1X2 / ML)": {
-      "tipps": 124,
-      "gewonnen": 61,
+      "tipps": 126,
+      "gewonnen": 63,
       "verloren": 60,
       "push": 1,
       "offen": 2,
-      "einsatz": 122.0,
-      "netto": 0.9,
-      "trefferquote": 50.4,
-      "roi_prozent": 0.7
+      "einsatz": 124.0,
+      "netto": 1.6,
+      "trefferquote": 51.2,
+      "roi_prozent": 1.3
     },
     "Torschuetzen Jederzeit": {
       "tipps": 61,
@@ -3560,15 +3659,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -1.9
     },
     "Ueber 2.5 Tore": {
-      "tipps": 34,
-      "gewonnen": 18,
-      "verloren": 14,
+      "tipps": 36,
+      "gewonnen": 19,
+      "verloren": 15,
       "push": 0,
       "offen": 2,
-      "einsatz": 32.0,
-      "netto": 8.52,
-      "trefferquote": 56.2,
-      "roi_prozent": 26.6
+      "einsatz": 34.0,
+      "netto": 7.87,
+      "trefferquote": 55.9,
+      "roi_prozent": 23.1
     },
     "Doppelte Chance X2": {
       "tipps": 36,
@@ -3582,26 +3681,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 29.6
     },
     "Unter 2.5 Tore": {
-      "tipps": 25,
+      "tipps": 26,
       "gewonnen": 17,
-      "verloren": 8,
+      "verloren": 9,
       "push": 0,
       "offen": 0,
-      "einsatz": 25.0,
-      "netto": 7.51,
-      "trefferquote": 68.0,
-      "roi_prozent": 30.0
+      "einsatz": 26.0,
+      "netto": 6.51,
+      "trefferquote": 65.4,
+      "roi_prozent": 25.0
     },
     "Doppelte Chance 1X": {
-      "tipps": 25,
-      "gewonnen": 19,
-      "verloren": 6,
+      "tipps": 28,
+      "gewonnen": 21,
+      "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 25.0,
-      "netto": 9.19,
-      "trefferquote": 76.0,
-      "roi_prozent": 36.8
+      "einsatz": 28.0,
+      "netto": 8.37,
+      "trefferquote": 75.0,
+      "roi_prozent": 29.9
     },
     "Unter 3.5 Tore": {
       "tipps": 3,
@@ -3659,15 +3758,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 75.0
     },
     "Beide Teams treffen JA": {
-      "tipps": 35,
-      "gewonnen": 20,
+      "tipps": 37,
+      "gewonnen": 22,
       "verloren": 15,
       "push": 0,
       "offen": 0,
-      "einsatz": 35.0,
-      "netto": 4.88,
-      "trefferquote": 57.1,
-      "roi_prozent": 13.9
+      "einsatz": 37.0,
+      "netto": 6.23,
+      "trefferquote": 59.5,
+      "roi_prozent": 16.8
     },
     "Argentinien gewinnt (Sieg 1)": {
       "tipps": 1,
@@ -3881,26 +3980,26 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.00-1.50": {
-      "tipps": 170,
-      "gewonnen": 108,
-      "verloren": 54,
+      "tipps": 175,
+      "gewonnen": 112,
+      "verloren": 55,
       "push": 1,
       "offen": 7,
-      "einsatz": 163.0,
-      "netto": 24.54,
-      "trefferquote": 66.7,
-      "roi_prozent": 15.1
+      "einsatz": 168.0,
+      "netto": 24.22,
+      "trefferquote": 67.1,
+      "roi_prozent": 14.4
     },
     "1.50-2.00": {
-      "tipps": 172,
-      "gewonnen": 93,
-      "verloren": 77,
+      "tipps": 177,
+      "gewonnen": 96,
+      "verloren": 79,
       "push": 0,
       "offen": 2,
-      "einsatz": 170.0,
-      "netto": 42.83,
-      "trefferquote": 54.7,
-      "roi_prozent": 25.2
+      "einsatz": 175.0,
+      "netto": 42.73,
+      "trefferquote": 54.9,
+      "roi_prozent": 24.4
     },
     "2.00-3.00": {
       "tipps": 51,
@@ -3927,15 +4026,15 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 71,
-      "gewonnen": 48,
+      "tipps": 73,
+      "gewonnen": 50,
       "verloren": 16,
       "push": 0,
       "offen": 7,
-      "einsatz": 64.0,
-      "netto": 28.27,
-      "trefferquote": 75.0,
-      "roi_prozent": 44.2
+      "einsatz": 66.0,
+      "netto": 28.45,
+      "trefferquote": 75.8,
+      "roi_prozent": 43.1
     },
     "wackel": {
       "tipps": 93,
@@ -3949,15 +4048,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 7.4
     },
     "value": {
-      "tipps": 241,
-      "gewonnen": 130,
-      "verloren": 106,
+      "tipps": 249,
+      "gewonnen": 135,
+      "verloren": 109,
       "push": 1,
       "offen": 4,
-      "einsatz": 237.0,
-      "netto": 27.29,
-      "trefferquote": 55.1,
-      "roi_prozent": 11.5
+      "einsatz": 245.0,
+      "netto": 26.69,
+      "trefferquote": 55.3,
+      "roi_prozent": 10.9
     },
     "risiko": {
       "tipps": 3,
@@ -3996,15 +4095,15 @@ window.__MIESMUSCHEL_STAT = {
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 408,
-      "gewonnen": 219,
-      "verloren": 177,
+      "tipps": 418,
+      "gewonnen": 226,
+      "verloren": 180,
       "push": 1,
       "offen": 11,
-      "einsatz": 397.0,
-      "netto": 61.84,
-      "trefferquote": 55.3,
-      "roi_prozent": 15.6
+      "einsatz": 407.0,
+      "netto": 61.42,
+      "trefferquote": 55.7,
+      "roi_prozent": 15.1
     },
     "kasse": {
       "name": "2026/27",
@@ -4041,21 +4140,284 @@ window.__MIESMUSCHEL_STAT = {
         "start": "2026-08-22",
         "ende": "2027-06-30",
         "bilanz": {
-          "tipps": 71,
-          "gewonnen": 52,
-          "verloren": 19,
+          "tipps": 81,
+          "gewonnen": 59,
+          "verloren": 22,
           "push": 0,
           "offen": 0,
-          "einsatz": 71.0,
-          "netto": 71.39,
-          "trefferquote": 73.2,
-          "roi_prozent": 100.5
+          "einsatz": 81.0,
+          "netto": 70.97,
+          "trefferquote": 72.8,
+          "roi_prozent": 87.6
         },
         "ist_aktuell": true
       }
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-09-18",
+      "gesamt": {
+        "tipps": 10,
+        "gewonnen": 7,
+        "verloren": 3,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 10.0,
+        "netto": -0.42,
+        "trefferquote": 70.0,
+        "roi_prozent": -4.2
+      },
+      "spiele": [
+        {
+          "id": "2026-09-18-wob-dar",
+          "liga": "2. Bundesliga - 6. Spieltag",
+          "heim": "VfL Wolfsburg",
+          "gast": "SV Darmstadt 98",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Unter 2.5: 6 Tore (over)"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-18-fue-mag",
+          "liga": "2. Bundesliga - 6. Spieltag",
+          "heim": "SpVgg Greuther Fuerth",
+          "gast": "1. FC Magdeburg",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen (BTTS Ja)",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.65,
+              "kommentar": "BTTS Ja: Endstand 1:1 - beide Teams trafen"
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Ueber 2.5: 2 Tore (under)"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-18-bay-uni",
+          "liga": "Bundesliga - 4. Spieltag",
+          "heim": "FC Bayern Muenchen",
+          "gast": "1. FC Union Berlin",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Bayern oder Remis (1X)",
+              "quote": 1.03,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.03,
+              "kommentar": "DC 1X: Endstand 7:0 - Heim/Remis"
+            },
+            {
+              "markt": "Sieg Bayern (90 Min)",
+              "quote": 1.15,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.15,
+              "kommentar": "Sieg Heim: Endstand 7:0"
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.35,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.35,
+              "kommentar": "Ueber 2.5: 7 Tore (over)"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-18-mon-len",
+          "liga": "Ligue 1 - 5. Spieltag",
+          "heim": "AS Monaco",
+          "gast": "RC Lens",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Monaco oder Remis (1X)",
+              "quote": 1.15,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.15,
+              "kommentar": "DC 1X: Endstand 2:1 - Heim/Remis"
+            },
+            {
+              "markt": "Sieg AS Monaco (90 Min)",
+              "quote": 1.55,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.55,
+              "kommentar": "Sieg Heim: Endstand 2:1"
+            },
+            {
+              "markt": "Beide Teams treffen (BTTS Ja)",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.7,
+              "kommentar": "BTTS Ja: Endstand 2:1 - beide Teams trafen"
+            }
+          ]
+        },
+        {
+          "id": "2026-09-18-esp-elc",
+          "liga": "LaLiga - 5. Spieltag",
+          "heim": "RCD Espanyol Barcelona",
+          "gast": "Elche CF",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Espanyol oder Remis (1X)",
+              "quote": 1.3,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "DC 1X: Endstand 1:3 - Gast-Sieg"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "safe-1",
+          "kategorie": "safe",
+          "gesamtquote": 4.56,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Monaco oder Remis (Doppelte Chance)",
+              "quote": 1.15,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Espanyol oder Remis (Doppelte Chance)",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "balance-1",
+          "kategorie": "balance",
+          "gesamtquote": 6.15,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Wolfsburg",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "risk-1",
+          "kategorie": "risk",
+          "gesamtquote": 10.24,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.35,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 2.35,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen NEIN",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "moonshot-1",
+          "kategorie": "moonshot",
+          "gesamtquote": 8.9,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Handicap -2 Bayern",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Greuther Fuerth",
+              "quote": 2.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen NEIN",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-09-17",
       "gesamt": {

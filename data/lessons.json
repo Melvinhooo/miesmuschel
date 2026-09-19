@@ -3157,6 +3157,30 @@
       "kategorie": "HR09-18-4 Moonshot-Struktur-Reality-Check 4-Bein-Underdog-Sieg-Kombi <5pct-Cap 8a",
       "lesson": "moon-1 (105.51x) mit 3 Underdog-Sieg-Beinen (OFI 5.50 + Plzen 2.70 + Bournemouth 3.80) + 1 BTTS-Wackel (Palace 1.87) crashte. OFI-Sieg hit (2:0), Bournemouth-Sieg hit (1:2), aber Plzen 0:3 Heim-Debakel und Palace 4:0-BTTS-NEIN killten die Kombi. Struktur-Reality: multiplizierte Trefferwahrscheinlichkeit ~1% (~30% x ~35% x ~25% x ~55%) - Moonshot ist bewusst ein Lotterie-Ticket. Konsequenz: 1€-Einsatz (0.1%) war korrekt, keine Aufstockung noetig. Blueprint-Warnung: 3+ Underdog-Sieg-Beine in einer Kombi sind erwartbar <5% Hit - NIE mit >0.1% Stake und NIE mit VALUE-Framing im Dossier. Zusatz-Beobachtung: OFI-heim mit 3 zu-Null-Siegen vor dem Spiel war der stabilste Underdog-Bein-Kandidat (Aitor 30., Kanellopoulos 84.) - fuer kommende Moonshots priorisieren.",
       "bezug_spiel_id": "2026-09-17-ofi-hof"
+    },
+    {
+      "datum": "2026-09-19",
+      "kategorie": "HR09-19-1 Kombi-Kluster-Killer Fuerth-Mag in allen 4 Kombis 8a",
+      "lesson": "5-Spiele-Slate hat sich geraecht: 7/10 Einzeltipps gewonnen (+70%), aber 0/4 Kombis - Netto -35.15EUR trotz solider Einzel-Hitrate. Ursache: Fuerth-Mag (1:1) war in ALLEN 4 Kombis vertreten und lieferte 3x das Kill-Bein (Ueber 2.5, Ueber 3.5, Fuerth-Sieg jeweils verloren). Verifikations-Report warnte im Vorfeld 'Layer-3 weich strapaziert - Fuerth-Mag in 4 Kombis / Monaco in 3 Kombis'. Blueprint: bei 5-Spiele-Slates HART cappen - kein Spiel darf in mehr als 2 von 4 Kombi-Profilen vorkommen, unabhaengig davon ob Markt-entkoppelt. Sonst wird das Kluster-Risiko strukturell unterschaetzt und ein enttaeuschendes Ergebnis auf einem Spiel zerlegt saemtliche Layer.",
+      "bezug_spiel_id": "2026-09-18-fue-mag"
+    },
+    {
+      "datum": "2026-09-19",
+      "kategorie": "HR09-19-2 H2H-Torfest-Kluster erodiert bei Kader-Umbruch 8g",
+      "lesson": "Fuerth-Magdeburg letzte 2 H2H waren 5:4 und 5:4 (9 Tore je Spiel). Heute nur 1:1 (2 Tore). Beide Kader wurden ueber den Sommer umgekrempelt (Fuerth im Aufbau nach Beinahe-Abstieg, Magdeburg unter neuem Trainer). Alle Ueber-Tore-Beine (Ueber 2.5, Ueber 3.5, BTTS Ja wurde zufaellig doch gewonnen weil beide je 1 Tor) crashten. Blueprint: H2H-Torfest-Statistik aus alter Saison verliert schnell an Aussagekraft, wenn beide Kader >30% umgebaut sind - dann H2H nicht als VALUE-Grund, hoechstens als Kontext-Notiz. Konkret: BTTS Ja rettete das eine Bein knapp (1:1), aber Ueber 2.5 (@1.85 VALUE) und Ueber 3.5 (@2.35 Wackel) waren ohne Substanz - Papier-Historie ohne aktuelle Team-Realitaet.",
+      "bezug_spiel_id": "2026-09-18-fue-mag"
+    },
+    {
+      "datum": "2026-09-19",
+      "kategorie": "HR09-19-3 Fruehe-Rote-Karte-Falle: 10-Mann-Team kann trotzdem gewinnen 8h",
+      "lesson": "Espanyol vs Elche 1:3 (HZ 0:2): Elche verlor Redondo bereits in der 6. Minute (Rot), Espanyol spielte 84 Minuten in Ueberzahl - und verlor 1:3. Ursache: 10-Mann-Team zieht sich in eine tiefe kompakte Defensive zurueck, Fer Nino nutzte Konter zum Doppelpack in 3 Minuten (26', 29'), Valera setzte 78' den Deckel drauf. Espanyols einziges Tor kam aus einem Elche-Eigentor (Chust 72.). Alle 4 Espanyol-Tipps verloren (DC 1X, Unter 3.5, Sieg, BTTS Nein) - hoechster Einsatz war DC 1X @1.30 mit 2% = 20EUR. Blueprint: fruehe Rote Karte (vor Minute 25) ist KEIN automatischer VALUE-Trigger fuer das Ueberzahl-Team. Statistisch gewinnt das 10-Mann-Team noch in ~15-20% der Faelle, weil die Motivations-Umkehr und Defensiv-Verdichtung reale Effekte sind. Konsequenz: laufende Live-Wetten nach fruehen Roten NICHT reflexartig nachlegen. Auch: BTTS Nein war statistisch schlecht gedacht - bei 84 Minuten Ueberzahl trifft irgendwann irgendwer irgendwie (hier Chust-Eigentor).",
+      "bezug_spiel_id": "2026-09-18-esp-elc"
+    },
+    {
+      "datum": "2026-09-19",
+      "kategorie": "HR09-19-4 DC-1X-Goldgrube 2/3 heute - Muster halt (74.4% / +9.8%) 8c",
+      "lesson": "Doppelte-Chance-1X (Heim oder Remis) heute: Bayern DC @1.03 gewonnen (7:0), Monaco DC @1.15 gewonnen (2:1), Espanyol DC @1.30 verloren (1:3). 2 von 3 = 66% Hit heute, deckt sich mit rolling Goldgrube (statistik.json fuehrt DC 1X mit hoher Hitrate). Blueprint bestaetigt: DC 1X als SAFE-Kern bei Heim-Favoriten <=1.20 Sieg-Quote greift. Warnung: bei Heim-Sieg-Quote >1.60 wie Espanyol (2.05) ist DC 1X @1.30 kein SAFE mehr, sondern echter VALUE mit Verlustrisiko - Espanyol-Verlust bestaetigt dass die Quote 1.30 fuer DC 1X eher WACKEL-nah ist wenn der Sieg-Quote-Anker >2.0 liegt. Konkret fuer naechste Dossiers: DC 1X @<=1.15 fuer Klar-Favoriten (Sieg-Quote <=1.30) = SAFE, DC 1X 1.16-1.30 fuer Wackel-Favoriten = VALUE mit realem Kipp-Risiko, kein SAFE.",
+      "bezug_spiel_id": "2026-09-18-esp-elc"
     }
   ]
 }
