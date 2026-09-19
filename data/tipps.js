@@ -1,348 +1,574 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
-  "datum": "2026-09-18",
-  "erstellt_am": "2026-09-18T14:35:00+02:00",
-  "hinweis": "Watchdog-Recovery Mo-Fr: 5 Fussball-Spiele im Fenster (Anstoss 18-Sep Berlin). BL-Kracher Bayern-Union 20:30, Ligue-1-Spitzen-Spiel Monaco-Lens 20:45, LaLiga-Freitagabend Espanyol-Elche 21:00, zwei 2.-BL-Freitagsspiele Wolfsburg-Darmstadt und Fuerth-Magdeburg 18:30. Kasse 1000€ (Stufe 1): SAFE/VALUE-Einzel 10-20€, Wackel 5€. Bewusst KEINE Torschuetzen-Tipps - ohne Live-Aufstellungs-Verifikation waere das nach der Adeyemi-Halluzination fahrlaessig. Ehrlich: Slate ist favoritenlastig, sauberer 100x-Moonshot nicht drin - Moonshot-Profil deshalb bei ~9x mit Fuerth-Sieg-Underdog + Bayern-Handicap.",
+  "datum": "2026-09-19",
+  "erstellt_am": "2026-09-19T08:14:29.467346",
+  "modus": "tag",
+  "hinweis": "🐚 Sa 19.09.2026 (Sa+So-Cloud-Routine, 10:00 Berlin, Saison 2026/27). Zeitfenster-Hartregel: NUR Anstösse am 19.09. — Sonntagsspiele gehören ins Wochenend-Dossier bzw. morgen ins Sonntags-Dossier. 9 Spiele im Fenster (PL x 4, Serie A x 1, BL x 3, LaLiga-Derby x 1). Kasse-Stand 1000€, Stufe 1 aktiv (konservativ 1-2%). Kein Recherche-File vorhanden → Aufstellungs-Vorschau ~1h vor Anpfiff live prüfen (kicker.de / bundesliga.com / premierleague.com), speziell die Neuzugänge (Woltemade Newcastle, Gyökeres Arsenal, Jackson Villa) und deren Fit-/Aufstellungs-Status.",
   "spiele": [
     {
-      "id": "2026-09-18-wob-dar",
-      "liga": "2. Bundesliga - 6. Spieltag",
-      "heim": "VfL Wolfsburg",
-      "gast": "SV Darmstadt 98",
-      "anstoss": "2026-09-18T18:30:00+02:00",
-      "stadion": "Volkswagen Arena, Wolfsburg",
+      "id": "2026-09-19-tot-avl",
+      "liga": "Premier League 2026/27 - Matchweek 5",
+      "heim": "Tottenham Hotspur",
+      "gast": "Aston Villa",
+      "anstoss": "2026-09-19T13:30:00+02:00",
+      "stadion": "Tottenham Hotspur Stadium, London",
       "saison_kontext": {
-        "parallel_heim": "keine - Wolfsburg nur 2. Bundesliga, kein Pokal-Achtelfinale bis Ende Oktober",
-        "parallel_gast": "keine - Darmstadt nur 2. Bundesliga",
-        "saisonziel_heim": "Wiederaufstieg in die Bundesliga - Rueckkehr in Liga 1 nach dem Abstieg 2025/26 als Saisonziel",
-        "saisonziel_gast": "Solides Mittelfeld / Aufstiegs-Zone-Ambition, jedoch schwaechster Angriff der Liga",
-        "motivations_asymmetrie": "Wolfsburg-Heim nach Setback bei St. Pauli mit Druck, Darmstadt reist mit Kohfeldt (Ex-Wolfsburg-Trainer) an - Rueckkehr-Storyline sorgt fuer Extra-Fokus, aber offensive Nulls-Serie beim SVD dominiert.",
-        "recovery_heim": "6 Tage nach Setback bei St. Pauli - genug Zeit",
-        "recovery_gast": "6 Tage seit letztem 2. BL-Spieltag, frisch",
+        "parallel_heim": "keine — Europa-League-Ligaphase MD1 erst 24./25.09., diese Woche reine Liga-Woche",
+        "parallel_gast": "keine — Villa in Europa League/Conference League-Weg live prüfen, Ligaphase startet 24.09.",
+        "saisonziel_heim": "Tottenham Top-6/EL-Podest — Kaderumbruch (Sandro Tonali NEU aus Newcastle, Cristian Romero WEG zu Atletico Madrid) noch am justieren, Sommer-Investments einspielen lassen",
+        "saisonziel_gast": "Villa Top-6-Anschluss — Nicolas Jackson NEU aus Chelsea (65 Mio, sehr farblose Debüt-Phase laut Kader-Datei), Watkins WEG nach Al-Hilal, Morgan Rogers WEG zu Chelsea; Villa hat den kompletten Sturm umgebaut",
+        "motivations_asymmetrie": "Coinflip mit leichtem Heim-Bonus. Beide Teams im Kaderumbau: Tottenham defensiv geschwächt durch Romero-Abgang, Villa offensiv unklar (neuer Sturm, kein etablierter 9er in Form). Aggressiver Aggregator hat Tottenham als leichten Favoriten (~2.20-2.30 Heim-Sieg).",
+        "recovery_heim": "6 Tage seit MW4, keine internationale Reise",
+        "recovery_gast": "6 Tage seit MW4",
         "quellen": [
-          "https://www.bundesliga.com/en/2bundesliga/matchday",
-          "https://www.absolutfussball.com/deutschland/2-bundesliga/vfl-wolfsburg-gegen-sv-darmstadt-live-im-tv-und-stream-hier-sehen-sie-die-bundesliga-94495058.html",
-          "https://www.foxsports.com/soccer/2-bundesliga-vfl-wolfsburg-vs-darmstadt-sep-18-2026-game-boxscore-913258"
+          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
+          "https://www.nbcsports.com/soccer/news/premier-league-schedule-for-2026-27-season-released"
         ]
       },
       "news": [
-        "Rueckkehr Florian Kohfeldt (heute Darmstadt-Trainer) an alte Wirkungsstaette - Extra-Motivations-Story",
-        "Darmstadt mit schwaechstem Angriff der Liga bisher",
-        "Wolfsburg-Heim mit Aufstiegs-Druck nach St.-Pauli-Setback"
+        "Aufstellungs-Vorschau (premierleague.com / kicker.de) ~60 Min vor Anpfiff PFLICHT — Villa-Sturm live checken: Jackson noch nicht warmgelaufen (0 Torschuss aufs Tor beim Debüt gegen Arsenal), Guessand+Rogers-Abgang machen die Rolle unklar",
+        "Tottenham-Neuzugang Tonali (Sechser aus Newcastle) sortiert Mittelfeld neu, Romero-Loch in der IV noch nicht dicht (kicker.de checken)",
+        "Aggregator-Quoten (bei bet365 live prüfen): Tottenham-Sieg ~2.20-2.35, Remis ~3.40-3.60, Villa-Sieg ~2.90-3.20, DC 1X ~1.32-1.40, Unter 2.5 ~1.80-1.95, BTTS ~1.75-1.90"
       ],
       "tipps": [
         {
-          "id": "wob-dar-1",
+          "id": "tot-avl-1",
+          "kategorie": "value",
+          "markt": "Tottenham oder Remis (Doppelte Chance)",
+          "quote": 1.35,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 5,
+          "faire_quote": 1.28,
+          "begruendung": "DC 1X ist Markt-Goldgrube (72.7% Hit / +39.7% ROI n=22). Heim-Bonus + Villa-Sturm-Umbruch (Jackson-Debüt farblos, Watkins weg, Rogers weg → keine etablierte 9-er-Alternative). Stufe 1: 1.5% = 15€. Coinflip-Charakter → VALUE statt SAFE, KEIN 2:0-Insurance in PL.",
+          "layer_2_tag": "tot-avl_sieg_tot"
+        },
+        {
+          "id": "tot-avl-2",
           "kategorie": "value",
           "markt": "Unter 2.5 Tore",
-          "quote": 1.85,
-          "edge_prozent": 6.0,
-          "begruendung": "Darmstadt schwaechster Angriff der Liga, Wolfsburg-Heim eher kontrolliert - Setup fuer 1:0 / 2:0 / 1:1. Goldgrube (+30% ROI). Einsatz 1.5% = 15€.",
-          "faire_quote": 1.72,
-          "empfohlener_einsatz_prozent": 1.5
+          "quote": 1.88,
+          "einsatz_euro": 12.0,
+          "empfohlener_einsatz_prozent": 1.2,
+          "edge_prozent": 6,
+          "faire_quote": 1.77,
+          "begruendung": "Unter 2.5 ist Markt-Goldgrube (68.0% Hit / +30.0% ROI n=25). Beide Sturmreihen im Umbruch — Villa ohne fixem 9er, Tottenham defensiv neu justiert. Typisches vorsichtiges Anfeld-Duell, historisch niedrige Xg."
         },
         {
-          "id": "wob-dar-2",
-          "kategorie": "value",
-          "markt": "Sieg VfL Wolfsburg (90 Min)",
-          "quote": 1.9,
-          "edge_prozent": 4.0,
-          "begruendung": "Heim-Favorit gegen Ladehemmungs-SVD, Aufstiegs-Druck spricht fuer 3 Punkte. Bewusst nur VALUE weil Darmstadt-Trainer-Storyline Druck-Umkehr birgt. Einsatz 1.5% = 15€.",
-          "faire_quote": 1.8,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "wob-dar-3",
+          "id": "tot-avl-3",
           "kategorie": "wackel",
-          "markt": "Beide Teams treffen NEIN (BTTS Nein)",
-          "quote": 1.85,
-          "edge_prozent": 4.0,
-          "begruendung": "Darmstadts schwaechster-Liga-Angriff + Wolfsburgs Heim-Kontrolle - BTTS-Nein-Goldgrube-Kandidat (60% Hit, +49.8% ROI). Einsatz 0.5% = 5€.",
-          "faire_quote": 1.75,
-          "empfohlener_einsatz_prozent": 0.5
+          "markt": "Sieg Tottenham Hotspur (90 Min)",
+          "quote": 2.25,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 4,
+          "faire_quote": 2.15,
+          "begruendung": "Direkter Sieg-Tipp — bewusst wackel: Heim-Edge OK, aber Villa hat individuelle Klasse trotz Umbruch. 2:0-Insurance greift **NICHT** in PL — nur bei tatsächlichem Sieg-Endstand-Nachweis."
         }
       ],
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-09-18-fue-mag",
-      "liga": "2. Bundesliga - 6. Spieltag",
-      "heim": "SpVgg Greuther Fuerth",
-      "gast": "1. FC Magdeburg",
-      "anstoss": "2026-09-18T18:30:00+02:00",
-      "stadion": "Sportpark Ronhof Thomas Sommer, Fuerth",
+      "id": "2026-09-19-bri-ars",
+      "liga": "Premier League 2026/27 - Matchweek 5",
+      "heim": "Brighton & Hove Albion",
+      "gast": "Arsenal FC",
+      "anstoss": "2026-09-19T16:00:00+02:00",
+      "stadion": "Amex Stadium, Falmer/Brighton",
       "saison_kontext": {
-        "parallel_heim": "keine - Fuerth nur 2. Bundesliga",
-        "parallel_gast": "keine - Magdeburg nur 2. Bundesliga",
-        "saisonziel_heim": "Umbruch nach Beinahe-Abstieg 2025/26, Ziel Klassenerhalt und Konsolidierung",
-        "saisonziel_gast": "Aktuell Platz 4 mit 9 Pkt nach 5 Spielen - Aufstiegs-Kandidat",
-        "motivations_asymmetrie": "Klarer Form-Vorteil Magdeburg (Platz 4 vs. Fuerth im Umbruch), aber H2H-Historie sagt spektakulaer - alle bisherigen 2.-BL-Duelle waren Tor-Fests (letzte 2 Duelle jeweils 5:4).",
-        "recovery_heim": "6 Tage seit letztem 2. BL-Spieltag, frisch",
-        "recovery_gast": "6 Tage seit letztem 2. BL-Spieltag, frisch",
+        "parallel_heim": "keine — Brighton kein Europa 26/27",
+        "parallel_gast": "Champions-League-Ligaphase MD2 in der Woche danach (evtl. 22./23.09. oder 30.09./01.10. — uefa.com live checken); Arsenal spielte MD1 08./09.09. (Ligaphase-Kickoff Woche 1)",
+        "saisonziel_heim": "Brighton Top-8 / Europa-Hoffnung, Norgaard (aus Arsenal) NEU als Sechser",
+        "saisonziel_gast": "Arsenal Titel-Verteidigung (PL-Meister 25/26), 260-Mio-Kader-Umbau: Bruno Guimaraes (75M Newcastle), Zubimendi (51M Real Sociedad), Gyoekeres (63M Sporting), Madueke (48M Chelsea), Norgaard (Everton), Hincapie (35M Bayer), Mosquera, Kepa. Saliba + Timber weiter Rücken-/Leisten-Sorgen",
+        "motivations_asymmetrie": "Arsenal ist Auswärts-Favorit (Klassen-Edge trotz Defensiv-Krise). Brighton-Heim historisch zäh für Top-4, aber die Sturm-Kohle bei Arsenal (Gyoekeres+Madueke+Bruno+Zubimendi) ist frisch integriert und produziert Chancen-Volumen. Coinflip-Warnung: Brighton hat gegen Top-Teams zuletzt Punkte geholt.",
+        "recovery_heim": "6 Tage seit MW4",
+        "recovery_gast": "Wenn CL-MD1 08./09.09. → 10 Tage Pause, kein CL-Vorlauf in dieser Woche = frisch",
         "quellen": [
-          "https://www.bundesliga.com/en/2bundesliga/matchday",
-          "https://anstosszeiten.de/2-bundesliga/spiel/greuther-fuerth-magdeburg/",
-          "https://magdeburg-fussball.de/live/greuther-fuerth-fcm-heute-live-stream-2-bundesliga-wer-uebertraegt-3745623"
+          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.nbcsports.com/soccer/news/premier-league-schedule-for-2026-27-season-released"
         ]
       },
       "news": [
-        "H2H-Historie Fuerth-Magdeburg in 2. BL: alles Torfests, letzte 2 Duelle jeweils 5:4",
-        "Magdeburg 9 Pkt aus 5, Platz 4 - Aufstiegs-Kandidat",
-        "Fuerth im Umbruch nach knappem Klassenerhalt vergangene Saison"
+        "Arsenal-Defensiv: Saliba (Rücken chronisch), Timber (Leiste Rezidiv) beide weiter OUT laut letzter Wochenend-Vorschau — Hincapie/Lewis-Skelly/Zubimendi-vorgezogen als Backline",
+        "Arsenal-Sturm neu: Gyoekeres #9 (63M von Sporting) statt Havertz-9er, Madueke Flügel, Merino ist zurück im 8er-Rennen. Aufstellung live prüfen",
+        "Brighton-Zugang Norgaard bringt Sechser-Stabilität — Arsenal-Gegenprogramm zum Ballbesitz",
+        "Aggregator-Quoten (bei bet365 live prüfen): Arsenal-Sieg ~1.75-1.90, Remis ~3.80-4.00, Brighton-Sieg ~4.20-4.60, DC X2 ~1.22-1.28, Über 2.5 ~1.60-1.75, BTTS ~1.60-1.72, Gyoekeres-Tor ~2.10-2.30"
       ],
       "tipps": [
         {
-          "id": "fue-mag-1",
+          "id": "bri-ars-1",
           "kategorie": "value",
-          "markt": "Beide Teams treffen (BTTS Ja)",
+          "markt": "Arsenal oder Remis (Doppelte Chance)",
+          "quote": 1.24,
+          "einsatz_euro": 18.0,
+          "empfohlener_einsatz_prozent": 1.8,
+          "edge_prozent": 5,
+          "faire_quote": 1.18,
+          "begruendung": "DC X2 Markt-Goldgrube (75.0% Hit / +29.6% ROI n=36). Arsenal-Klassen-Edge trotz Defensiv-Baustelle — Brighton-Heim ist harter Boden für Top-Teams, aber eine PL-Meister-Elf verliert selten auswärts bei Top-8-Mittelfeldler. KEIN 2:0-Insurance in PL. Stufe 1: 1.8% = 18€.",
+          "layer_2_tag": "bri-ars_sieg_ars"
+        },
+        {
+          "id": "bri-ars-2",
+          "kategorie": "value",
+          "markt": "Torschütze jederzeit: Viktor Gyoekeres",
+          "quote": 2.15,
+          "einsatz_euro": 12.0,
+          "empfohlener_einsatz_prozent": 1.2,
+          "edge_prozent": 6,
+          "faire_quote": 2.02,
+          "begruendung": "HR24-konform: Gyoekeres ist zentraler 9er (63M-Rekordzugang von Sporting), Sturm-Volumen als einziger echter Solo-9er im Kader, mit Havertz noch integrationsphasig. Torschützen Jederzeit historisch Goldgrube. Aufstellung live prüfen — falls Merino/Havertz Falsche-9-Variante, downgraden."
+        },
+        {
+          "id": "bri-ars-3",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.68,
+          "einsatz_euro": 12.0,
+          "empfohlener_einsatz_prozent": 1.2,
+          "edge_prozent": 5,
+          "faire_quote": 1.6,
+          "begruendung": "Über 2.5 Markt-Goldgrube (53.3% / +23.3% ROI n=32). Arsenal-Angriff produziert Chancen-Volumen (Sommer-Umbau + Brighton offensiv-mutig zuhause), BTTS-Basis solide."
+        },
+        {
+          "id": "bri-ars-4",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen: Ja",
           "quote": 1.65,
-          "edge_prozent": 8.0,
-          "begruendung": "H2H-Torfest-Pattern (letzte 2 Duelle jeweils 5:4) macht BTTS zum klaren Value. Beide Teams treffen regelmaessig. Einsatz 2% = 20€.",
-          "faire_quote": 1.5,
-          "empfohlener_einsatz_prozent": 2.0
-        },
-        {
-          "id": "fue-mag-2",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.85,
-          "edge_prozent": 7.0,
-          "begruendung": "Historisch reines Ueber-2.5-Spiel (Torfest-Cluster). Goldgrube (+26.6% ROI, 56.2% Hit). Einsatz 1.5% = 15€.",
-          "faire_quote": 1.72,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "fue-mag-3",
-          "kategorie": "wackel",
-          "markt": "Ueber 3.5 Tore",
-          "quote": 2.35,
-          "edge_prozent": 6.0,
-          "begruendung": "Wackel-Hebel auf H2H-Torfest-Pattern (letzte 2 Duelle 9 bzw. 9 Tore). Einsatz 0.5% = 5€.",
-          "faire_quote": 2.2,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "fue-mag-4",
-          "kategorie": "wackel",
-          "markt": "Sieg SpVgg Greuther Fuerth (90 Min)",
-          "quote": 2.75,
-          "edge_prozent": 3.0,
-          "begruendung": "Underdog-Heim-Bein: Fuerth-Heim gegen form-besseres Magdeburg. H2H-Torfest-Pattern kann in beide Richtungen kippen, Heimvorteil nutzt Fuerth. Einsatz 0.5% = 5€.",
-          "faire_quote": 2.65,
-          "empfohlener_einsatz_prozent": 0.5
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.6,
+          "begruendung": "BTTS-Standard: Arsenal-Defensiv-Krise (Saliba/Timber OUT) + Brighton-Heim traf zuletzt ~überall. Wackel weil Arsenal-Sturm trotzdem sauber verteidigen kann bei 1:0-Vorsprung."
         }
       ],
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-09-18-bay-uni",
-      "liga": "Bundesliga - 4. Spieltag",
-      "heim": "FC Bayern Muenchen",
-      "gast": "1. FC Union Berlin",
-      "anstoss": "2026-09-18T20:30:00+02:00",
-      "stadion": "Allianz Arena, Muenchen",
+      "id": "2026-09-19-new-hul",
+      "liga": "Premier League 2026/27 - Matchweek 5",
+      "heim": "Newcastle United",
+      "gast": "Hull City",
+      "anstoss": "2026-09-19T16:00:00+02:00",
+      "stadion": "St James' Park, Newcastle",
       "saison_kontext": {
-        "parallel_heim": "UEFA Champions League Ligaphase - MD1 5:0 gegen Bodoe/Glimt gerade abgehakt (16.09.), MD2 am 30.09. - Kompany kann rotieren, muss aber nicht",
-        "parallel_gast": "keine - Union Berlin spielt europaweit nicht",
-        "saisonziel_heim": "Meisterschaft-Titelverteidigung + CL-Weiterkommen. Tabellen-4. mit 7 Pkt aus 3 (2S/1U), +5 Torschnitt, Serie mit 5:0 in CL",
-        "saisonziel_gast": "Klassenerhalt (nach schwachem Saisonstart Tabellen-16. mit 1 Pkt aus 3, -6 Torschnitt). Neuer Trainer Mauro Lustrinelli ex Thun mit Kader-Umbruch dringend Punkte-Serie noetig",
-        "motivations_asymmetrie": "Massiver Klassen- und Form-Unterschied. Bayern kommt aus 5:0 CL-Sieg vs Bodoe/Glimt (16.09.), 2 Tage vor Union-Match - kein Ausrede-Punkt fuer Union. Aber: Kompany kann vor CL MD2 nachrotieren, was Kane oder Musiala eine Pause geben koennte -> Torschuetzen-Tipps ohne Live-Aufstellung heute bewusst gemieden.",
-        "recovery_heim": "2 Tage nach 5:0 CL-Sieg vs Bodoe/Glimt (16.09.) - kurze Pause, aber Bayern hat Kader-Tiefe",
-        "recovery_gast": "6 Tage seit letztem BL-Spiel, frisch",
+        "parallel_heim": "keine — Newcastle in Champions League-Ligaphase (MD1 08./09.09.), MD2 evtl. 30.09./01.10., diese Woche reine Liga-Woche",
+        "parallel_gast": "keine — Hull City Aufsteiger, kein Europa",
+        "saisonziel_heim": "Newcastle Top-6 / CL-Ligaphase-Qualifikation Runde 2, mit **Isak weg** (Liverpool), **Bruno Guimaraes weg** (Arsenal), **Gordon weg** (Barca), **Tonali weg** (Tottenham) — massiver Star-Ausverkauf, dafür Elanga (Forest), Woltemade (Stuttgart), Wissa (Brentford) rein. Kader komplett neu",
+        "saisonziel_gast": "Hull City Klassenerhalt — Aufsteiger, jeder Punkt gegen Top-Team wäre Coup",
+        "motivations_asymmetrie": "Klassen-Edge klar bei Newcastle (Aufsteiger vs CL-Team), auch wenn Newcastle-Kader komplett neu und eingespielte Sturmkette fehlt. St James' Park im Aufsteiger-Duell historisch Kanterlagen (3:0/3:1). Star-Ausfall-Cluster (Isak weg) aber HR22 anwenden: **kein SAFE auf Newcastle-Torschütze** ohne verifizierte Aufstellung.",
+        "recovery_heim": "10 Tage seit CL-MD1 (falls 08./09.09.) + 6 Tage seit MW4 — leicht belastet aber okay",
+        "recovery_gast": "6 Tage seit MW4",
         "quellen": [
-          "https://fcbayern.com/de/news/vorberichte/2026/09/vorschau-bundesliga-fc-bayern-union-berlin",
-          "https://www.sofascore.com/football/match/fc-bayern-munchen-1-fc-union-berlin/Xabsxdb",
-          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
+          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
           "https://www.uefa.com/uefachampionsleague/"
         ]
       },
       "news": [
-        "Bayern nach 5:0 CL-Sieg vs Bodoe/Glimt (16.09.) mit Selbstvertrauen, aber CL MD2 in 12 Tagen - Rotations-Risiko bei Kane/Musiala",
-        "Union 1 Pkt aus 3 (-6 Torschnitt) - schwacher Saisonstart unter neuem Trainer Mauro Lustrinelli",
-        "Bundesliga-Sonderregel: 2:0-Insurance greift bei direktem Sieg-Tipp auf Bayern (bet365 DE)"
+        "Newcastle-Sturm: **Isak (LIV), Gordon (BAR), Bruno (ARS) alle WEG** — Woltemade (Stuttgart-Zugang 65M) als 9er, Elanga (Forest) auf dem Flügel, Wissa (Brentford) als Backup-9er/Flügel. Kader-Datei checken. Aufstellung live PFLICHT",
+        "Hull City Aufsteiger im 2. Auswärtsspiel gegen Top-6-Klub — Klassenerhalt-Modus",
+        "Aggregator-Quoten (bei bet365 live prüfen): Newcastle-Sieg ~1.30-1.38, DC 1X ~1.03-1.06, Über 2.5 ~1.55-1.68, Woltemade-Tor ~1.90-2.10, Wissa-Tor ~2.30-2.50"
       ],
       "tipps": [
         {
-          "id": "bay-uni-1",
-          "kategorie": "safe",
-          "markt": "Doppelte Chance Bayern oder Remis (1X)",
-          "quote": 1.03,
-          "edge_prozent": 2.0,
-          "begruendung": "Klassen-Gap massiv, Bayern-Heim gegen Union-Tabellen-16. mit -6 Torschnitt. DC 1X Goldgrube (76% Hit, +36.8% ROI). Einsatz 2% = 20€.",
-          "faire_quote": 1.01,
-          "empfohlener_einsatz_prozent": 2.0
-        },
-        {
-          "id": "bay-uni-2",
+          "id": "new-hul-1",
           "kategorie": "value",
-          "markt": "Sieg Bayern (90 Min)",
-          "quote": 1.15,
-          "edge_prozent": 4.0,
-          "begruendung": "Bayern-Heim + 2:0-Insurance (bet365 DE - Bayern muss nur 2:0 fuehren, dann durch). Union-Form desolat. Einsatz 2% = 20€.",
-          "faire_quote": 1.1,
-          "empfohlener_einsatz_prozent": 2.0
+          "markt": "Newcastle oder Remis (Doppelte Chance)",
+          "quote": 1.05,
+          "einsatz_euro": 20.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "edge_prozent": 3,
+          "faire_quote": 1.02,
+          "begruendung": "DC 1X Markt-Goldgrube (72.7% Hit / +39.7% ROI n=22) UND Liga-Goldgrube-Konform (Aufsteiger-Blowout-Muster). St James' gegen Aufsteiger historisch niederlagenfrei. Stufe 1: 2% = 20€. KEIN 2:0-Insurance in PL, aber DC ist keine reine Sieg-Wette. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
+          "layer_2_tag": "new-hul_sieg_new",
+          "_markt_mix_dc_downgrade": true
         },
         {
-          "id": "bay-uni-3",
+          "id": "new-hul-2",
           "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.35,
-          "edge_prozent": 5.0,
-          "begruendung": "Bayern schoss 12 Tore in ihren letzten 4 Pflichtspielen (5:1 Stuttgart, 5:0 Bodoe/Glimt). Union defensiv desolat (-6). Goldgrube (+26.6% ROI). Einsatz 1.5% = 15€.",
-          "faire_quote": 1.28,
-          "empfohlener_einsatz_prozent": 1.5
+          "markt": "Über 2.5 Tore",
+          "quote": 1.62,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 5,
+          "faire_quote": 1.54,
+          "begruendung": "Über 2.5 Markt-Goldgrube (53.3% / +23.3% ROI n=32). Newcastle-Heim gegen Aufsteiger endet historisch 3:0/3:1, Hull wird bei Rückstand aufmachen müssen."
         },
         {
-          "id": "bay-uni-4",
+          "id": "new-hul-3",
+          "kategorie": "value",
+          "markt": "Torschütze jederzeit: Nick Woltemade",
+          "quote": 1.95,
+          "einsatz_euro": 12.0,
+          "empfohlener_einsatz_prozent": 1.2,
+          "edge_prozent": 5,
+          "faire_quote": 1.85,
+          "begruendung": "HR24-konform: Woltemade ist zentraler 9er, 65-Mio-Zugang und Isak-Ersatz, Wissa als Backup (Einwechslungs-Boost relevant). Aufstellung live prüfen — bei Ausfall Downgrade."
+        },
+        {
+          "id": "new-hul-4",
           "kategorie": "wackel",
-          "markt": "Handicap -2 Bayern",
-          "quote": 1.75,
-          "edge_prozent": 3.0,
-          "begruendung": "Bei so klarer Favoritenrolle ist Handicap -2 der value-nahe Hebel. Union kassierte 10 Tore in 3 BL-Spielen. Einsatz 0.5% = 5€.",
+          "markt": "Sieg Newcastle Handicap -1",
+          "quote": 1.85,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.78,
+          "begruendung": "Handicap -1 als offensives Kombi-Bein: Newcastle-Kanterlagen gegen Aufsteiger historisch üblich. Wackel weil Kader-Umbau System-Kalibrierung noch braucht."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-19-nfo-cov",
+      "liga": "Premier League 2026/27 - Matchweek 5",
+      "heim": "Nottingham Forest",
+      "gast": "Coventry City",
+      "anstoss": "2026-09-19T18:30:00+02:00",
+      "stadion": "City Ground, Nottingham",
+      "saison_kontext": {
+        "parallel_heim": "keine — Forest kein Europa 26/27 nach dem 8.-Platz-Chaos",
+        "parallel_gast": "keine — Coventry City Aufsteiger, kein Europa",
+        "saisonziel_heim": "Forest Top-8 / Europa-Hoffnung, **Elliot Anderson weg (116M City-Rekord)**, **Elanga weg (Newcastle)** — kompletter Mittelfeld-Umbau + Wende in der Kaderphilosophie. Trainer-Wechsel live prüfen (kicker.de/premierleague.com)",
+        "saisonziel_gast": "Coventry Klassenerhalt — Aufsteiger, hat Championship-Playoff-Sieg 25/26",
+        "motivations_asymmetrie": "Klassen-Edge Forest trotz Kader-Umbau (Anderson+Elanga weg). Aufsteiger-Duell zuhause historisch Blowout-Kandidat, aber Forest-Sturm nach Anderson-Abgang unklar. Vorsicht: **kein SAFE-Sieg-Tipp** ohne Aufstellung.",
+        "recovery_heim": "6 Tage seit MW4",
+        "recovery_gast": "6 Tage seit MW4, Aufsteiger-Reise zum City Ground gering",
+        "quellen": [
+          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season"
+        ]
+      },
+      "news": [
+        "Forest-Umbau: Anderson (116M zu City) + Elanga (Newcastle) beide weg — Mittelfeld komplett neu, Aufstellung live PFLICHT (premierleague.com)",
+        "Aufsteiger-Coventry im Zweitspiel gegen Top-8-Klub auswärts — historische Aufsteiger-Blowout-Kandidat",
+        "Aggregator-Quoten (bei bet365 live prüfen): Forest-Sieg ~1.60-1.75, DC 1X ~1.15-1.20, Über 2.5 ~1.75-1.90, BTTS ~1.85-2.00"
+      ],
+      "tipps": [
+        {
+          "id": "nfo-cov-1",
+          "kategorie": "wackel",
+          "markt": "Nottingham Forest oder Remis (Doppelte Chance)",
+          "quote": 1.17,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 4,
+          "faire_quote": 1.12,
+          "begruendung": "DC 1X Goldgrube (72.7%/+39.7% n=22). Forest-Heim-Bonus + Klassen-Edge trotz Kaderumbau, Coventry auswärts nicht stark genug für Blowout-Punkt. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
+          "layer_2_tag": "nfo-cov_sieg_nfo",
+          "_saison_kontext_sanity_downgrade": true
+        },
+        {
+          "id": "nfo-cov-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.82,
+          "einsatz_euro": 12.0,
+          "empfohlener_einsatz_prozent": 1.2,
+          "edge_prozent": 5,
+          "faire_quote": 1.73,
+          "begruendung": "Über 2.5 Goldgrube (53.3%/+23.3% n=32). Forest-Heim gegen Aufsteiger historisch 2:1/3:0, Coventry im Konter-Modus."
+        },
+        {
+          "id": "nfo-cov-3",
+          "kategorie": "wackel",
+          "markt": "Sieg Nottingham Forest (90 Min)",
+          "quote": 1.68,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.62,
+          "begruendung": "Direkter Sieg-Tipp bewusst nur wackel: Anderson+Elanga-Abgänge machen Forest-Sturm noch unberechenbar. KEIN 2:0-Insurance in PL."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-19-rom-int",
+      "liga": "Serie A 2026/27 - 5. Giornata",
+      "heim": "AS Roma",
+      "gast": "Inter Mailand",
+      "anstoss": "2026-09-19T18:00:00+02:00",
+      "stadion": "Stadio Olimpico, Rom",
+      "saison_kontext": {
+        "parallel_heim": "keine — Roma in Europa-League-Ligaphase (Kickoff 24./25.09.), diese Woche reine Liga-Woche",
+        "parallel_gast": "Champions League-Ligaphase MD1 (08./09.09. Real Madrid 2:1 Inter Niederlage), MD2 ~30.09./01.10.",
+        "saisonziel_heim": "Roma Top-4 / CL-Podest — Ambition unter Trainer-Wechsel 26/27 (kicker.de checken)",
+        "saisonziel_gast": "Inter Titel-Verteidigung / CL-Podest — hat MD3 3:2 gegen Napoli gewonnen (05.09.), CL-Auftakt 2:1 gegen Real verloren; Kompletter Sturm intakt (Thuram/Lautaro/Bonny)",
+        "motivations_asymmetrie": "Coinflip-Duell mit leichter Auswärts-Edge bei Inter (Klassen-Edge, aber CL-Doppelbelastung Real-Niederlage 10 Tage her → Rotation-Risiko). Roma-Heim ist harter Boden mit lauter Olimpico-Kulisse. Big-Match-Charakter: kein SAFE bei Sieg-Wette.",
+        "recovery_heim": "6 Tage seit letztem Spiel",
+        "recovery_gast": "10 Tage seit CL-MD1 gegen Real (08.09.) — moderate Belastung + Reise Mailand-Rom",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
+          "https://www.uefa.com/uefaeuropaleague/"
+        ]
+      },
+      "news": [
+        "Roma-MW4-Ergebnis + Trainer-System live checken (kicker.de/legaseriea.it)",
+        "Inter kommt aus CL-Niederlage gegen Real (2:1) — Chivu-Rotation möglich, aber Lautaro+Thuram Stamm",
+        "Aggregator-Quoten (bei bet365 live prüfen): Roma-Sieg ~2.80-3.10, Remis ~3.20-3.40, Inter-Sieg ~2.30-2.55, DC X2 ~1.35-1.42, Über 2.5 ~1.85-2.00, BTTS ~1.60-1.72, Lautaro-Tor ~2.30-2.50"
+      ],
+      "tipps": [
+        {
+          "id": "rom-int-1",
+          "kategorie": "value",
+          "markt": "Inter oder Remis (Doppelte Chance)",
+          "quote": 1.38,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 5,
+          "faire_quote": 1.31,
+          "begruendung": "DC X2 Markt-Goldgrube (75.0% Hit / +29.6% ROI n=36). Inter Klassen-Edge trotz CL-Doppelbelastung — Chivu-Rotation typischerweise moderat bei Big-Match. Roma-Heim tough, aber DC-Absicherung reicht. KEIN 2:0-Insurance in Serie A. Stufe 1: 1.5% = 15€.",
+          "layer_2_tag": "rom-int_sieg_int"
+        },
+        {
+          "id": "rom-int-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.65,
+          "einsatz_euro": 12.0,
+          "empfohlener_einsatz_prozent": 1.2,
+          "edge_prozent": 5,
+          "faire_quote": 1.57,
+          "begruendung": "BTTS-Standard bei Top-Duell mit beidseitig offensiver Grundordnung — Inter trifft historisch fast überall, Roma-Heim ebenfalls torgefährlich."
+        },
+        {
+          "id": "rom-int-3",
+          "kategorie": "wackel",
+          "markt": "Torschütze jederzeit: Lautaro Martinez",
+          "quote": 2.35,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 2.27,
+          "begruendung": "HR24: Lautaro Kapitän + Solo-9er, Thuram als Backup (Einwechslungs-Boost). Wackel weil CL-Rotation-Risiko möglich."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-19-vfb-bvb",
+      "liga": "Bundesliga 2026/27 - 4. Spieltag",
+      "heim": "VfB Stuttgart",
+      "gast": "Borussia Dortmund",
+      "anstoss": "2026-09-19T18:30:00+02:00",
+      "stadion": "MHPArena, Stuttgart",
+      "saison_kontext": {
+        "parallel_heim": "keine — VfB Europa-Ligaphase (falls quali) startet erst 24.09.",
+        "parallel_gast": "keine — BVB Champions-League-Ligaphase MD1 lief 16.-18.09. (uefa.com live prüfen), 6 Tage Pause",
+        "saisonziel_heim": "VfB Top-6 / Europa-Konsolidierung, Woltemade weg (Newcastle 65M) → Sturm-Umbau",
+        "saisonziel_gast": "BVB Top-4 / CL-Podest, Adeyemi weg (Barça 24.07.), Guirassy Stamm-9 (falls fit)",
+        "motivations_asymmetrie": "BVB Auswärts-Favorit (Klassen-Edge), aber MHPArena ist harter Boden + BVB kommt aus CL-Ligaphase-Auftakt mit Reise-/Belastungs-Rest. Coinflip-Warnung mit leichter Gast-Edge.",
+        "recovery_heim": "6 Tage seit MW3",
+        "recovery_gast": "3-4 Tage seit CL-MD1 (falls Mitte der Woche) → moderate Belastung",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/spielplan",
+          "https://www.uefa.com/uefachampionsleague/"
+        ]
+      },
+      "news": [
+        "BVB kommt aus CL-Ligaphase MD1 (uefa.com live prüfen), Rotations-Risiko im Sturm/Flügel",
+        "VfB-Sturm nach Woltemade-Abgang neu strukturiert (bundesliga.com Aufstellungs-Vorschau ~1h vor Anpfiff)",
+        "Aggregator-Quoten (bei bet365 live prüfen): BVB-Sieg ~2.10-2.30, DC X2 ~1.35-1.42, Über 2.5 ~1.70-1.85, BTTS ~1.65-1.78"
+      ],
+      "tipps": [
+        {
+          "id": "vfb-bvb-1",
+          "kategorie": "value",
+          "markt": "Dortmund oder Remis (Doppelte Chance)",
+          "quote": 1.38,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 5,
+          "faire_quote": 1.31,
+          "begruendung": "DC X2 ist Markt-Goldgrube (75.0% Hit / +29.6% ROI n=36). BVB-Klassen-Edge trotz CL-Belastung, VfB-Heim tough aber DC-Absicherung reicht. 2:0-Insurance greift NUR in 1.BL + CL — hier BL, also aktiv. Stufe 1: 1.5% = 15€ bei Kasse 1000€.",
+          "layer_2_tag": "vfb-bvb_sieg_bvb"
+        },
+        {
+          "id": "vfb-bvb-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.8,
+          "einsatz_euro": 12.0,
+          "empfohlener_einsatz_prozent": 1.2,
+          "edge_prozent": 6,
           "faire_quote": 1.7,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-09-18-mon-len",
-      "liga": "Ligue 1 - 5. Spieltag",
-      "heim": "AS Monaco",
-      "gast": "RC Lens",
-      "anstoss": "2026-09-18T20:45:00+02:00",
-      "stadion": "Stade Louis-II, Monaco",
-      "saison_kontext": {
-        "parallel_heim": "keine - Monaco 2026/27 nicht in CL/EL vertreten, voller Kader-Fokus auf Ligue 1",
-        "parallel_gast": "UEFA Champions League Ligaphase - MD1 3:2 Sieg vs Slavia Prag (16.09.), MD2 am 30.09. - hohe Belastung + weite Reise nach Monaco",
-        "saisonziel_heim": "Titel-Kandidatur / CL-Quali - aktuell Platz 2 mit 10 Pkt, unbesiegt in 6, mit einem Remis heute Platz 1",
-        "saisonziel_gast": "CL-Weiterkommen + Ligue-1-Mittelfeld/Europa - aktuell Platz 10 mit 4 Pkt (kein Sieg aus letzten 3 Ligue-1-Spielen)",
-        "motivations_asymmetrie": "Deutliche Asymmetrie zugunsten Monaco: Heim, frisch, unbesiegt in 6, keine Europa-Doppelbelastung - vs Lens 2 Tage nach CL-Kraftakt (3:2 vs Slavia) mit 5 Ausfaellen in der Defensive (Baidoo, Titraoui, Gradit, Chavez, Nawrocki). Lens hat in den letzten 5 Spielen kein Zu-Null geschafft.",
-        "recovery_heim": "5 Tage seit letztem Ligue-1-Spiel, frisch",
-        "recovery_gast": "2 Tage nach CL-Kraftakt 3:2 vs Slavia + weite Reise Lens->Monaco",
-        "quellen": [
-          "https://www.uefa.com/uefachampionsleague/fixtures-results/",
-          "https://www.ligue1.com/",
-          "https://www.whoscored.com/matches/1984091/preview/france-ligue-1-2026-2027-monaco-lens",
-          "https://footballwhispers.com/blog/monaco-vs-lens-prediction-18-09-2026/"
-        ]
-      },
-      "news": [
-        "Monaco unbesiegt in letzten 6 Spielen, mit Remis heute Tabellenfuehrung",
-        "Lens 2 Tage nach CL-Kraftakt (3:2 vs Slavia) mit 5 Defensiv-Ausfaellen (Baidoo/Titraoui/Gradit/Chavez/Nawrocki)",
-        "Lens hat in letzten 5 Spielen kein einziges Zu-Null geschafft"
-      ],
-      "tipps": [
-        {
-          "id": "mon-len-1",
-          "kategorie": "safe",
-          "markt": "Doppelte Chance Monaco oder Remis (1X)",
-          "quote": 1.15,
-          "edge_prozent": 5.0,
-          "begruendung": "Monaco-Heim, frisch, unbesiegt in 6 vs. mueder Lens mit Defensiv-Notlage. DC 1X Goldgrube (76% Hit, +36.8% ROI). Einsatz 2% = 20€.",
-          "faire_quote": 1.1,
-          "empfohlener_einsatz_prozent": 2.0
+          "begruendung": "Über 2.5 Markt-Goldgrube (55.9%/+23.1% n=36). Top-Duell mit beidseitig offensiver DNA (VfB-Heim historisch tor-freudig, BVB-Klassen-Sturm) — Coinflip-Duell öffnet Räume."
         },
         {
-          "id": "mon-len-2",
+          "id": "vfb-bvb-3",
           "kategorie": "value",
-          "markt": "Sieg AS Monaco (90 Min)",
-          "quote": 1.55,
-          "edge_prozent": 6.0,
-          "begruendung": "Recovery-Asymmetrie (Monaco frisch, Lens 2 Tage nach CL + Reise) + 5 Lens-Ausfaelle in Defensive + Monaco unbesiegt in 6. Einsatz 2% = 20€.",
-          "faire_quote": 1.47,
-          "empfohlener_einsatz_prozent": 2.0
-        },
-        {
-          "id": "mon-len-3",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen (BTTS Ja)",
+          "markt": "Beide Teams treffen: Ja",
           "quote": 1.7,
-          "edge_prozent": 5.0,
-          "begruendung": "Lens hat in 5 Spielen 0 Zu-Null-Serie, Monaco offensiv stark (unbesiegt in 6). Lens greift trotz Reise-Muedigkeit an. Einsatz 1.5% = 15€.",
-          "faire_quote": 1.6,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "mon-len-4",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.75,
-          "edge_prozent": 5.0,
-          "begruendung": "Monaco-Heim gegen defensiv-loecheriges Lens (5 Ausfaelle IV/AV). Goldgrube (+26.6% ROI). Einsatz 1.5% = 15€.",
-          "faire_quote": 1.65,
-          "empfohlener_einsatz_prozent": 1.5
+          "einsatz_euro": 10.0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "edge_prozent": 4,
+          "faire_quote": 1.63,
+          "begruendung": "BTTS-Goldgrube (59.5%/+16.8% n=37). VfB-Heim trifft konstant, BVB-Sturm trifft fast überall. Klassisches Top-Duell mit beidseitigen Chancen."
         }
       ],
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-09-18-esp-elc",
-      "liga": "LaLiga - 5. Spieltag",
-      "heim": "RCD Espanyol Barcelona",
-      "gast": "Elche CF",
-      "anstoss": "2026-09-18T21:00:00+02:00",
-      "stadion": "RCDE Stadium, Cornella-El Prat",
+      "id": "2026-09-19-sge-scf",
+      "liga": "Bundesliga 2026/27 - 4. Spieltag",
+      "heim": "Eintracht Frankfurt",
+      "gast": "SC Freiburg",
+      "anstoss": "2026-09-19T15:30:00+02:00",
+      "stadion": "Deutsche Bank Park, Frankfurt",
       "saison_kontext": {
-        "parallel_heim": "keine - Espanyol nicht in europaeischem Wettbewerb",
-        "parallel_gast": "keine - Elche nicht in europaeischem Wettbewerb",
-        "saisonziel_heim": "Klassenerhalt / Mittelfeld nach starkem Aufsteiger-Saison, aktuell Platz 8 mit 7 Pkt aus 6 (2S/1U/3N) - stabil aber ohne Momentum",
-        "saisonziel_gast": "Klassenerhalt als Aufsteiger, aktuell Tabellenletzter Platz 20 mit 2 Pkt aus 6 - Muss-Punkte-Modus",
-        "motivations_asymmetrie": "Espanyol-Heim + H2H-Ueberlegenheit (unbesiegt in letzten 6 Duellen, nicht verloren gegen Elche seit Januar 2022) gegen Tabellenletzten Elche im Muss-Punkte-Modus - Asymmetrie: Espanyol Klassen-Edge, Elche Angst-Faktor + Sperren (El Hilali) + Ausfaelle (Puado, Carreras) fressen Angriff.",
-        "recovery_heim": "6 Tage seit 1:2 Niederlage bei Rayo Vallecano, ausreichend",
-        "recovery_gast": "6 Tage seit 2:3 Niederlage bei Real Madrid, ausreichend",
+        "parallel_heim": "SGE Europa-League-Ligaphase startet 24.09. — diese Woche reine Liga-Woche, kein Vor-EL-Ballast",
+        "parallel_gast": "keine — Freiburg kein Europa 26/27",
+        "saisonziel_heim": "SGE Top-6 / EL-Podest",
+        "saisonziel_gast": "SC Freiburg Klassenerhalt / Konsolidierung",
+        "motivations_asymmetrie": "Heim-Favorit SGE mit Klassen-Edge, aber Freiburg auswärts historisch defensiv-diszipliniert. Kein SAFE-Sieg-Tipp — DC + Tor-Total.",
+        "recovery_heim": "6 Tage seit MW3",
+        "recovery_gast": "6 Tage seit MW3",
         "quellen": [
-          "https://sports.yahoo.com/articles/preview-espanyol-vs-elche-cf-190500707.html",
-          "https://www.sportsmole.co.uk/football/espanyol/preview/espanyol-vs-elche-prediction-team-news-lineups_605215.html",
-          "https://www.laliga.com/",
-          "https://tips.gg/article/rcd-espanyol-vs-elche-18-09-2026/"
+          "https://www.bundesliga.com/de/bundesliga/spielplan"
         ]
       },
       "news": [
-        "Espanyol unbesiegt in letzten 6 H2H gegen Elche, keine Niederlage seit Januar 2022",
-        "Espanyol Ausfaelle: Carreras (Leiste), Puado (Band), El Hilali (Rot-Sperre nach Rayo)",
-        "Elche Tabellenletzter (Platz 20, 2 Pkt) mit Ausfall Boayar - Muss-Punkte-Modus, aber Sturm ausgeduennt"
+        "Aufstellungs-Vorschau live prüfen (bundesliga.com / offizielle Klub-Sites)",
+        "SGE-Sturm ohne Ekitiké (verkauft) — Neuzugänge live checken",
+        "Aggregator-Quoten (bei bet365 live prüfen): SGE-Sieg ~1.85-2.00, DC 1X ~1.22-1.28, Über 2.5 ~1.68-1.80"
       ],
       "tipps": [
         {
-          "id": "esp-elc-1",
+          "id": "sge-scf-1",
           "kategorie": "value",
-          "markt": "Doppelte Chance Espanyol oder Remis (1X)",
-          "quote": 1.3,
-          "edge_prozent": 5.0,
-          "begruendung": "Espanyol-Heim + H2H-Dominanz (unbesiegt seit Jan 2022 vs Elche) + Elche als Tabellenletzter unter Druck ohne Puado/Boayar. DC 1X Goldgrube (76% Hit, +36.8% ROI). Einsatz 2% = 20€.",
-          "faire_quote": 1.24,
-          "empfohlener_einsatz_prozent": 2.0
+          "markt": "Eintracht Frankfurt oder Remis (Doppelte Chance)",
+          "quote": 1.24,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 4,
+          "faire_quote": 1.19,
+          "begruendung": "DC 1X Goldgrube (75.0%/+29.9% n=28). SGE-Heim gegen Freiburg-Defensive, DC deckt Remis mit ab. Stufe 1: 15€.",
+          "layer_2_tag": "sge-scf_sieg_sge"
         },
         {
-          "id": "esp-elc-2",
+          "id": "sge-scf-2",
           "kategorie": "value",
-          "markt": "Unter 3.5 Tore",
-          "quote": 1.3,
-          "edge_prozent": 4.0,
-          "begruendung": "Beide Teams unter Druck, Espanyol taktisch vorsichtig, Elche mit angeschlagenem Sturm - typisch 1:0 / 2:0 / 2:1. Einsatz 1.5% = 15€.",
-          "faire_quote": 1.25,
-          "empfohlener_einsatz_prozent": 1.5
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "einsatz_euro": 10.0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "edge_prozent": 5,
+          "faire_quote": 1.67,
+          "begruendung": "Über 2.5 Goldgrube. SGE-Heim tor-freudig, Freiburg auswärts kassiert regelmäßig, offene Partie erwartbar."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-19-bmg-m05",
+      "liga": "Bundesliga 2026/27 - 4. Spieltag",
+      "heim": "Borussia Mönchengladbach",
+      "gast": "1. FSV Mainz 05",
+      "anstoss": "2026-09-19T15:30:00+02:00",
+      "stadion": "Borussia-Park, Mönchengladbach",
+      "saison_kontext": {
+        "parallel_heim": "keine — BMG kein Europa 26/27",
+        "parallel_gast": "keine — Mainz kein Europa 26/27",
+        "saisonziel_heim": "BMG Konsolidierung, kein klares Ziel — Trainer/Kader live prüfen",
+        "saisonziel_gast": "Mainz Klassenerhalt / Mittelfeld-Konsolidierung",
+        "motivations_asymmetrie": "Coinflip mit leichtem Heim-Bonus, beide Teams ohne offensiv-Krise, kein SAFE. Tor-Total + BTTS bevorzugt.",
+        "recovery_heim": "6 Tage seit MW3",
+        "recovery_gast": "6 Tage seit MW3",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/spielplan"
+        ]
+      },
+      "news": [
+        "Aufstellungs-Vorschau live prüfen (bundesliga.com)",
+        "Aggregator-Quoten (bei bet365 live prüfen): BMG-Sieg ~2.20-2.40, Mainz-Sieg ~3.00-3.30, Über 2.5 ~1.85-2.00"
+      ],
+      "tipps": [
+        {
+          "id": "bmg-m05-1",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.68,
+          "einsatz_euro": 10.0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "edge_prozent": 4,
+          "faire_quote": 1.61,
+          "begruendung": "BTTS-Goldgrube (59.5%/+16.8%). Beide Teams offensiv-orientiert ohne Krise, Coinflip-Duell öffnet Räume für beide."
         },
         {
-          "id": "esp-elc-3",
+          "id": "bmg-m05-2",
           "kategorie": "wackel",
-          "markt": "Sieg RCD Espanyol Barcelona (90 Min)",
-          "quote": 2.05,
-          "edge_prozent": 3.0,
-          "begruendung": "Espanyol als Heim-Favorit passt zur H2H-Serie, aber Espanyol-Form durchwachsen (3 Niederlagen in 6 Spielen) - Wackel-Sieg. Einsatz 0.5% = 5€.",
-          "faire_quote": 1.98,
-          "empfohlener_einsatz_prozent": 0.5
+          "markt": "Doppelte Chance BMG oder Remis (1X)",
+          "quote": 1.35,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.31,
+          "begruendung": "DC 1X als Heim-Bonus-Absicherung, aber ohne klaren Klassen-Edge nur wackel-Einsatz."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-19-atm-rma",
+      "liga": "LaLiga 2026/27 - Jornada 6",
+      "heim": "Atletico Madrid",
+      "gast": "Real Madrid",
+      "anstoss": "2026-09-19T21:00:00+02:00",
+      "stadion": "Estadio Metropolitano, Madrid",
+      "saison_kontext": {
+        "parallel_heim": "Atletico Champions-League-Ligaphase MD1 in dieser Woche (uefa.com prüfen), 3-4 Tage Pause",
+        "parallel_gast": "Real Champions-League-Ligaphase MD1 in dieser Woche (uefa.com prüfen), 3-4 Tage Pause. Real spielte 14.09. Elche 2:3 (Alaves).",
+        "saisonziel_heim": "Atletico Titel-Angriff / CL-Podest — vergangenen Spieltag 4:0 Osasuna souverän",
+        "saisonziel_gast": "Real Titel-Verteidigung / CL-Titel-Angriff — letzter Liga-Spieltag 3:2 gegen Elche (Sieg)",
+        "motivations_asymmetrie": "Madrid-Derby, Big-Match mit hoher Intensität. Beide aus CL-Belastung. Coinflip mit leichter Real-Klassen-Edge, aber Metropolitano historisch harter Boden für Real. KEIN SAFE-Sieg-Tipp, Big-Match-Regel.",
+        "recovery_heim": "3-4 Tage seit CL-MD1 → moderate Belastung",
+        "recovery_gast": "3-4 Tage seit CL-MD1 → moderate Belastung",
+        "quellen": [
+          "https://www.laliga.com/en-GB/laliga-easports/calendar",
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/horarios-de-la-quinta-jornada-de-liga-11-09-2026"
+        ]
+      },
+      "news": [
+        "Madrid-Derby im Metropolitano — Big-Match-Charakter, Intensität maximal",
+        "Beide Teams aus CL-Auftakt-Woche (uefa.com prüfen) → Rotations-Risiko bei Stammspielern",
+        "Aggregator-Quoten (bei bet365 live prüfen): Atletico-Sieg ~2.80-3.10, Remis ~3.30-3.60, Real-Sieg ~2.20-2.40, DC X2 ~1.30-1.38, Über 2.5 ~1.85-2.00, BTTS ~1.65-1.75"
+      ],
+      "tipps": [
+        {
+          "id": "atm-rma-1",
+          "kategorie": "value",
+          "markt": "Real oder Remis (Doppelte Chance)",
+          "quote": 1.32,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 5,
+          "faire_quote": 1.26,
+          "begruendung": "DC X2 Markt-Goldgrube (75.0% Hit / +29.6% ROI n=36). Real-Klassen-Edge trotz CL-Belastung, Metropolitano tough aber DC deckt Remis mit ab. LaLiga-Jornada-3 war Liga-Goldgrube (100%/+163%) — Format weiter goldig. Stufe 1: 15€.",
+          "layer_2_tag": "atm-rma_sieg_rma"
         },
         {
-          "id": "esp-elc-4",
+          "id": "atm-rma-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.7,
+          "einsatz_euro": 10.0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "edge_prozent": 4,
+          "faire_quote": 1.63,
+          "begruendung": "BTTS-Goldgrube. Derby-Duell mit beidseitig offensivem Sturm — Atletico trifft im Metropolitano konstant, Real-Sturm trifft ohnehin fast überall."
+        },
+        {
+          "id": "atm-rma-3",
           "kategorie": "wackel",
-          "markt": "Beide Teams treffen NEIN (BTTS Nein)",
-          "quote": 1.9,
-          "edge_prozent": 4.0,
-          "begruendung": "Elche-Sturm ausgeduennt (Boayar OUT), typisches 1:0-/2:0-Espanyol-Setup. BTTS-Nein Goldgrube (60% Hit, +49.8% ROI). Einsatz 0.5% = 5€.",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.88,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
           "faire_quote": 1.82,
-          "empfohlener_einsatz_prozent": 0.5
+          "begruendung": "Über 2.5 im Derby wackelig — Big-Match tendiert taktisch, aber beidseitig-offensive DNA. Kleiner Einsatz."
         }
       ],
       "kontext_check_status": "OK"
@@ -350,328 +576,332 @@ window.__MIESMUSCHEL_TIPPS = {
   ],
   "einzeltipps": [
     {
-      "id": "bay-uni-1",
-      "kategorie": "safe",
-      "markt": "Doppelte Chance Bayern oder Remis (1X)",
-      "quote": 1.03,
-      "edge_prozent": 2.0,
-      "begruendung": "Klassen-Gap massiv, Bayern-Heim gegen Union-Tabellen-16. mit -6 Torschnitt. DC 1X Goldgrube (76% Hit, +36.8% ROI). Einsatz 2% = 20€.",
-      "faire_quote": 1.01,
-      "empfohlener_einsatz_prozent": 2.0,
-      "spiel_id": "2026-09-18-bay-uni",
-      "spiel_label": "Bayern Muenchen vs Union Berlin",
+      "spiel_id": "2026-09-19-tot-avl",
+      "tipp_id": "tot-avl-2",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.88,
+      "einsatz_euro": 12.0,
+      "empfohlener_einsatz_prozent": 1.2,
+      "spiel_label": "Tottenham vs Aston Villa",
+      "begruendung": "Unter 2.5 ist Markt-Goldgrube (68.0% Hit / +30.0% ROI n=25). Beide Sturmreihen im Umbruch — Villa ohne fixem 9er, Tottenham defensiv neu justiert. Typisches vorsichtiges Anfeld-Duell, historisch niedr",
       "rang": 1
     },
     {
-      "id": "mon-len-1",
-      "kategorie": "safe",
-      "markt": "Doppelte Chance Monaco oder Remis (1X)",
-      "quote": 1.15,
-      "edge_prozent": 5.0,
-      "begruendung": "Monaco-Heim, frisch, unbesiegt in 6 vs. mueder Lens mit Defensiv-Notlage. DC 1X Goldgrube (76% Hit, +36.8% ROI). Einsatz 2% = 20€.",
-      "faire_quote": 1.1,
-      "empfohlener_einsatz_prozent": 2.0,
-      "spiel_id": "2026-09-18-mon-len",
-      "spiel_label": "Monaco vs Lens",
+      "spiel_id": "2026-09-19-bri-ars",
+      "tipp_id": "bri-ars-2",
+      "kategorie": "value",
+      "markt": "Torschütze jederzeit: Viktor Gyoekeres",
+      "quote": 2.15,
+      "einsatz_euro": 12.0,
+      "empfohlener_einsatz_prozent": 1.2,
+      "spiel_label": "Brighton vs Arsenal",
+      "begruendung": "HR24-konform: Gyoekeres ist zentraler 9er (63M-Rekordzugang von Sporting), Sturm-Volumen als einziger echter Solo-9er im Kader, mit Havertz noch integrationsphasig. Torschützen Jederzeit historisch Go",
       "rang": 2
     },
     {
-      "id": "fue-mag-1",
+      "spiel_id": "2026-09-19-vfb-bvb",
+      "tipp_id": "vfb-bvb-2",
       "kategorie": "value",
-      "markt": "Beide Teams treffen (BTTS Ja)",
-      "quote": 1.65,
-      "edge_prozent": 8.0,
-      "begruendung": "H2H-Torfest-Pattern (letzte 2 Duelle jeweils 5:4) macht BTTS zum klaren Value. Beide Teams treffen regelmaessig. Einsatz 2% = 20€.",
-      "faire_quote": 1.5,
-      "empfohlener_einsatz_prozent": 2.0,
-      "spiel_id": "2026-09-18-fue-mag",
-      "spiel_label": "Greuther Fuerth vs Magdeburg",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.8,
+      "einsatz_euro": 12.0,
+      "empfohlener_einsatz_prozent": 1.2,
+      "spiel_label": "VfB Stuttgart vs Borussia Dortmund",
+      "begruendung": "Über 2.5 Markt-Goldgrube (55.9%/+23.1% n=36). Top-Duell mit beidseitig offensiver DNA (VfB-Heim historisch tor-freudig, BVB-Klassen-Sturm) — Coinflip-Duell öffnet Räume.",
       "rang": 3
     },
     {
-      "id": "fue-mag-2",
+      "spiel_id": "2026-09-19-tot-avl",
+      "tipp_id": "tot-avl-1",
       "kategorie": "value",
-      "markt": "Ueber 2.5 Tore",
-      "quote": 1.85,
-      "edge_prozent": 7.0,
-      "begruendung": "Historisch reines Ueber-2.5-Spiel (Torfest-Cluster). Goldgrube (+26.6% ROI, 56.2% Hit). Einsatz 1.5% = 15€.",
-      "faire_quote": 1.72,
+      "markt": "Tottenham oder Remis (Doppelte Chance)",
+      "quote": 1.35,
+      "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "spiel_id": "2026-09-18-fue-mag",
-      "spiel_label": "Greuther Fuerth vs Magdeburg",
+      "spiel_label": "Tottenham vs Aston Villa",
+      "begruendung": "DC 1X ist Markt-Goldgrube (72.7% Hit / +39.7% ROI n=22). Heim-Bonus + Villa-Sturm-Umbruch (Jackson-Debüt farblos, Watkins weg, Rogers weg → keine etablierte 9-er-Alternative). Stufe 1: 1.5% = 15€. Coi",
       "rang": 4
     },
     {
-      "id": "mon-len-2",
+      "spiel_id": "2026-09-19-bri-ars",
+      "tipp_id": "bri-ars-1",
       "kategorie": "value",
-      "markt": "Sieg AS Monaco (90 Min)",
-      "quote": 1.55,
-      "edge_prozent": 6.0,
-      "begruendung": "Recovery-Asymmetrie (Monaco frisch, Lens 2 Tage nach CL + Reise) + 5 Lens-Ausfaelle in Defensive + Monaco unbesiegt in 6. Einsatz 2% = 20€.",
-      "faire_quote": 1.47,
-      "empfohlener_einsatz_prozent": 2.0,
-      "spiel_id": "2026-09-18-mon-len",
-      "spiel_label": "Monaco vs Lens",
+      "markt": "Arsenal oder Remis (Doppelte Chance)",
+      "quote": 1.24,
+      "einsatz_euro": 18.0,
+      "empfohlener_einsatz_prozent": 1.8,
+      "spiel_label": "Brighton vs Arsenal",
+      "begruendung": "DC X2 Markt-Goldgrube (75.0% Hit / +29.6% ROI n=36). Arsenal-Klassen-Edge trotz Defensiv-Baustelle — Brighton-Heim ist harter Boden für Top-Teams, aber eine PL-Meister-Elf verliert selten auswärts bei",
       "rang": 5
     },
     {
-      "id": "wob-dar-1",
+      "spiel_id": "2026-09-19-bri-ars",
+      "tipp_id": "bri-ars-3",
       "kategorie": "value",
-      "markt": "Unter 2.5 Tore",
-      "quote": 1.85,
-      "edge_prozent": 6.0,
-      "begruendung": "Darmstadt schwaechster Angriff der Liga, Wolfsburg-Heim eher kontrolliert - Setup fuer 1:0 / 2:0 / 1:1. Goldgrube (+30% ROI). Einsatz 1.5% = 15€.",
-      "faire_quote": 1.72,
-      "empfohlener_einsatz_prozent": 1.5,
-      "spiel_id": "2026-09-18-wob-dar",
-      "spiel_label": "Wolfsburg vs Darmstadt",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.68,
+      "einsatz_euro": 12.0,
+      "empfohlener_einsatz_prozent": 1.2,
+      "spiel_label": "Brighton vs Arsenal",
+      "begruendung": "Über 2.5 Markt-Goldgrube (53.3% / +23.3% ROI n=32). Arsenal-Angriff produziert Chancen-Volumen (Sommer-Umbau + Brighton offensiv-mutig zuhause), BTTS-Basis solide.",
       "rang": 6
     },
     {
-      "id": "mon-len-3",
+      "spiel_id": "2026-09-19-new-hul",
+      "tipp_id": "new-hul-2",
       "kategorie": "value",
-      "markt": "Beide Teams treffen (BTTS Ja)",
-      "quote": 1.7,
-      "edge_prozent": 5.0,
-      "begruendung": "Lens hat in 5 Spielen 0 Zu-Null-Serie, Monaco offensiv stark (unbesiegt in 6). Lens greift trotz Reise-Muedigkeit an. Einsatz 1.5% = 15€.",
-      "faire_quote": 1.6,
+      "markt": "Über 2.5 Tore",
+      "quote": 1.62,
+      "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "spiel_id": "2026-09-18-mon-len",
-      "spiel_label": "Monaco vs Lens",
+      "spiel_label": "Newcastle United vs Hull City",
+      "begruendung": "Über 2.5 Markt-Goldgrube (53.3% / +23.3% ROI n=32). Newcastle-Heim gegen Aufsteiger endet historisch 3:0/3:1, Hull wird bei Rückstand aufmachen müssen.",
       "rang": 7
     },
     {
-      "id": "esp-elc-1",
+      "spiel_id": "2026-09-19-new-hul",
+      "tipp_id": "new-hul-3",
       "kategorie": "value",
-      "markt": "Doppelte Chance Espanyol oder Remis (1X)",
-      "quote": 1.3,
-      "edge_prozent": 5.0,
-      "begruendung": "Espanyol-Heim + H2H-Dominanz (unbesiegt seit Jan 2022 vs Elche) + Elche als Tabellenletzter unter Druck ohne Puado/Boayar. DC 1X Goldgrube. Einsatz 2% = 20€.",
-      "faire_quote": 1.24,
-      "empfohlener_einsatz_prozent": 2.0,
-      "spiel_id": "2026-09-18-esp-elc",
-      "spiel_label": "Espanyol vs Elche",
+      "markt": "Torschütze jederzeit: Nick Woltemade",
+      "quote": 1.95,
+      "einsatz_euro": 12.0,
+      "empfohlener_einsatz_prozent": 1.2,
+      "spiel_label": "Newcastle United vs Hull City",
+      "begruendung": "HR24-konform: Woltemade ist zentraler 9er, 65-Mio-Zugang und Isak-Ersatz, Wissa als Backup (Einwechslungs-Boost relevant). Aufstellung live prüfen — bei Ausfall Downgrade.",
       "rang": 8
     },
     {
-      "id": "bay-uni-3",
+      "spiel_id": "2026-09-19-nfo-cov",
+      "tipp_id": "nfo-cov-2",
       "kategorie": "value",
-      "markt": "Ueber 2.5 Tore",
-      "quote": 1.35,
-      "edge_prozent": 5.0,
-      "begruendung": "Bayern schoss 12 Tore in ihren letzten 4 Pflichtspielen (5:1 Stuttgart, 5:0 Bodoe/Glimt). Union defensiv desolat (-6). Goldgrube (+26.6% ROI). Einsatz 1.5% = 15€.",
-      "faire_quote": 1.28,
-      "empfohlener_einsatz_prozent": 1.5,
-      "spiel_id": "2026-09-18-bay-uni",
-      "spiel_label": "Bayern Muenchen vs Union Berlin",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.82,
+      "einsatz_euro": 12.0,
+      "empfohlener_einsatz_prozent": 1.2,
+      "spiel_label": "Nottingham Forest vs Coventry City",
+      "begruendung": "Über 2.5 Goldgrube (53.3%/+23.3% n=32). Forest-Heim gegen Aufsteiger historisch 2:1/3:0, Coventry im Konter-Modus.",
       "rang": 9
     },
     {
-      "id": "bay-uni-2",
+      "spiel_id": "2026-09-19-rom-int",
+      "tipp_id": "rom-int-1",
       "kategorie": "value",
-      "markt": "Sieg Bayern (90 Min)",
-      "quote": 1.15,
-      "edge_prozent": 4.0,
-      "begruendung": "Bayern-Heim + 2:0-Insurance (bet365 DE - Bayern muss nur 2:0 fuehren, dann durch). Union-Form desolat. Einsatz 2% = 20€.",
-      "faire_quote": 1.1,
-      "empfohlener_einsatz_prozent": 2.0,
-      "spiel_id": "2026-09-18-bay-uni",
-      "spiel_label": "Bayern Muenchen vs Union Berlin",
+      "markt": "Inter oder Remis (Doppelte Chance)",
+      "quote": 1.38,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_label": "AS Roma vs Inter",
+      "begruendung": "DC X2 Markt-Goldgrube (75.0% Hit / +29.6% ROI n=36). Inter Klassen-Edge trotz CL-Doppelbelastung — Chivu-Rotation typischerweise moderat bei Big-Match. Roma-Heim tough, aber DC-Absicherung reicht. KEI",
       "rang": 10
+    },
+    {
+      "spiel_id": "2026-09-19-rom-int",
+      "tipp_id": "rom-int-2",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.65,
+      "einsatz_euro": 12.0,
+      "empfohlener_einsatz_prozent": 1.2,
+      "spiel_label": "AS Roma vs Inter",
+      "begruendung": "BTTS-Standard bei Top-Duell mit beidseitig offensiver Grundordnung — Inter trifft historisch fast überall, Roma-Heim ebenfalls torgefährlich.",
+      "rang": 11
+    },
+    {
+      "spiel_id": "2026-09-19-vfb-bvb",
+      "tipp_id": "vfb-bvb-1",
+      "kategorie": "value",
+      "markt": "Dortmund oder Remis (Doppelte Chance)",
+      "quote": 1.38,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_label": "VfB Stuttgart vs Borussia Dortmund",
+      "begruendung": "DC X2 ist Markt-Goldgrube (75.0% Hit / +29.6% ROI n=36). BVB-Klassen-Edge trotz CL-Belastung, VfB-Heim tough aber DC-Absicherung reicht. 2:0-Insurance greift NUR in 1.BL + CL — hier BL, also aktiv. St",
+      "rang": 12
     }
   ],
   "kombis": [
     {
-      "id": "safe-1",
-      "profil": "Safe",
+      "id": "kombi-safe",
       "kategorie": "safe",
+      "profil": "Safe-Kombi 3er",
       "beine": [
         {
-          "spiel_id": "2026-09-18-mon-len",
-          "spiel_label": "Monaco vs Lens",
-          "markt": "Monaco oder Remis (Doppelte Chance)",
-          "quote": 1.15,
-          "kategorie": "safe"
-        },
-        {
-          "spiel_id": "2026-09-18-esp-elc",
-          "spiel_label": "Espanyol vs Elche",
-          "markt": "Espanyol oder Remis (Doppelte Chance)",
-          "quote": 1.3,
+          "spiel_id": "2026-09-19-new-hul",
+          "spiel_label": "Newcastle vs Hull City",
+          "markt": "Newcastle oder Remis (Doppelte Chance)",
+          "quote": 1.05,
           "kategorie": "value"
         },
         {
-          "spiel_id": "2026-09-18-wob-dar",
-          "spiel_label": "Wolfsburg vs Darmstadt",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.85,
-          "kategorie": "value"
+          "spiel_id": "2026-09-19-nfo-cov",
+          "spiel_label": "Forest vs Coventry",
+          "markt": "Nottingham Forest oder Remis (Doppelte Chance)",
+          "quote": 1.17,
+          "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-09-18-fue-mag",
-          "spiel_label": "Greuther Fuerth vs Magdeburg",
-          "markt": "Beide Teams treffen",
-          "quote": 1.65,
+          "spiel_id": "2026-09-19-sge-scf",
+          "spiel_label": "Frankfurt vs Freiburg",
+          "markt": "Eintracht Frankfurt oder Remis (Doppelte Chance)",
+          "quote": 1.24,
           "kategorie": "value"
         }
       ],
-      "gesamtquote": 4.56,
-      "rechnung": "1.15 x 1.30 x 1.85 x 1.65 = 4.56",
+      "gesamtquote": 1.52,
+      "rechnung": "1.05 × 1.17 × 1.24 = 1.52",
+      "einsatz_euro": 20.0,
       "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Vier defensive/kontrollierte Beine mit hoher Trefferwahrscheinlichkeit: Monaco-Klasse gegen muede Lens, Espanyol-Heim gegen ausgeduennten Elche-Sturm, Wolfsburg-Unter-2.5 gegen SVD-Angriffs-Ladehemmung, Fuerth-Mag BTTS auf H2H-Torfest-Pattern. Bayern-DC bewusst NICHT im Kombi - wandert nach Moonshot (Handicap -2) fuer Layer-2-Ausbalancierung."
+      "begruendung": "3 DC-1X-Tipps aus 3 verschiedenen Ligen (PL x 2 + BL x 1). Aufsteiger-Duelle (Newcastle-Hull, Forest-Coventry) mit maximalem Klassen-Edge + SGE-Heim gegen Freiburg-Defensive. Layer-1 OK (unterschiedliche Spiele), Layer-2 OK (3× DC statt reiner Sieg = weicheres Sieg-Outcome), Layer-3 OK. Stufe 1: 2% = 20€."
     },
     {
-      "id": "balance-1",
-      "profil": "Balance",
+      "id": "kombi-balance",
       "kategorie": "balance",
+      "profil": "Balance-Kombi 3er",
       "beine": [
         {
-          "spiel_id": "2026-09-18-wob-dar",
-          "spiel_label": "Wolfsburg vs Darmstadt",
-          "markt": "Sieg Wolfsburg",
-          "quote": 1.9,
+          "spiel_id": "2026-09-19-bri-ars",
+          "spiel_label": "Brighton vs Arsenal",
+          "markt": "Arsenal oder Remis (Doppelte Chance)",
+          "quote": 1.24,
           "kategorie": "value"
         },
         {
-          "spiel_id": "2026-09-18-mon-len",
-          "spiel_label": "Monaco vs Lens",
-          "markt": "Ueber 2.5 Tore",
+          "spiel_id": "2026-09-19-vfb-bvb",
+          "spiel_label": "Stuttgart vs Dortmund",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.8,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-19-rom-int",
+          "spiel_label": "Roma vs Inter",
+          "markt": "Inter oder Remis (Doppelte Chance)",
+          "quote": 1.38,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 3.08,
+      "rechnung": "1.24 × 1.8 × 1.38 = 3.08",
+      "einsatz_euro": 8.0,
+      "empfohlener_einsatz_prozent": 0.8,
+      "begruendung": "2× DC-Sieg-Outcome (Arsenal auswärts, Inter auswärts — unterschiedliche Spiele + unterschiedliche Klassen-Edges) + 1× Tor-Total im BL-Topspiel VfB-BVB. Markt-Entkoppelung Layer-2/3 OK. Stufe 1: 0.8% = 8€."
+    },
+    {
+      "id": "kombi-risk",
+      "kategorie": "risk",
+      "profil": "Risiko-Kombi 4er",
+      "beine": [
+        {
+          "spiel_id": "2026-09-19-tot-avl",
+          "spiel_label": "Tottenham vs Aston Villa",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.88,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-19-bmg-m05",
+          "spiel_label": "Mönchengladbach vs Mainz",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.68,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-19-atm-rma",
+          "spiel_label": "Atletico vs Real Madrid",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.7,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-19-sge-scf",
+          "spiel_label": "Frankfurt vs Freiburg",
+          "markt": "Über 2.5 Tore",
           "quote": 1.75,
           "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-09-18-fue-mag",
-          "spiel_label": "Greuther Fuerth vs Magdeburg",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.85,
-          "kategorie": "value"
         }
       ],
-      "gesamtquote": 6.15,
-      "rechnung": "1.90 x 1.75 x 1.85 = 6.15",
-      "empfohlener_einsatz_prozent": 0.8,
-      "empfohlener_einsatz_euro": 8.0,
-      "begruendung": "Sieg + zwei Torfest-Beine: Wolfsburg-Heim gegen Darmstadt (Aufstiegs-Druck), Monaco-Heim + Lens-Defensiv-Notlage fuer Ueber 2.5, Fuerth-Mag im typischen Torfest-Muster. Layer-2 sauber: Wolfsburg-Sieg-Outcome hier, Monaco-Sieg-Outcome in Safe (DC), Fuerth-Mag hat kein Sieg-Outcome hier."
+      "gesamtquote": 9.4,
+      "rechnung": "1.88 × 1.68 × 1.7 × 1.75 = 9.4",
+      "einsatz_euro": 2.5,
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "4 Markt-Goldgruben (Unter 2.5 + 2× BTTS + Über 2.5) aus 4 verschiedenen Spielen. Layer-1/2/3 OK (kein Sieg-Outcome, alle Markt-Typen ROI-positiv). Rechnerisch keine 30x aber gut gestreut. Stufe 1: 0.25% = 2.50€."
     },
     {
-      "id": "risk-1",
-      "profil": "Risiko",
-      "kategorie": "risk",
+      "id": "kombi-moonshot",
+      "kategorie": "moonshot",
+      "profil": "Moonshot-Kombi 5er",
       "beine": [
         {
-          "spiel_id": "2026-09-18-bay-uni",
-          "spiel_label": "Bayern Muenchen vs Union Berlin",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.35,
+          "spiel_id": "2026-09-19-atm-rma",
+          "spiel_label": "Atletico vs Real Madrid",
+          "markt": "Real oder Remis (Doppelte Chance)",
+          "quote": 1.32,
           "kategorie": "value"
         },
         {
-          "spiel_id": "2026-09-18-fue-mag",
-          "spiel_label": "Greuther Fuerth vs Magdeburg",
-          "markt": "Ueber 3.5 Tore",
+          "spiel_id": "2026-09-19-bri-ars",
+          "spiel_label": "Brighton vs Arsenal",
+          "markt": "Torschütze jederzeit: Viktor Gyoekeres",
+          "quote": 2.15,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-19-new-hul",
+          "spiel_label": "Newcastle vs Hull City",
+          "markt": "Torschütze jederzeit: Nick Woltemade",
+          "quote": 1.95,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-19-rom-int",
+          "spiel_label": "Roma vs Inter",
+          "markt": "Torschütze jederzeit: Lautaro Martinez",
           "quote": 2.35,
           "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-09-18-esp-elc",
-          "spiel_label": "Espanyol vs Elche",
-          "markt": "Beide Teams treffen NEIN",
-          "quote": 1.9,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-09-18-mon-len",
-          "spiel_label": "Monaco vs Lens",
-          "markt": "Beide Teams treffen",
+          "spiel_id": "2026-09-19-vfb-bvb",
+          "spiel_label": "Stuttgart vs Dortmund",
+          "markt": "Beide Teams treffen: Ja",
           "quote": 1.7,
           "kategorie": "value"
         }
       ],
-      "gesamtquote": 10.24,
-      "rechnung": "1.35 x 2.35 x 1.90 x 1.70 = 10.24",
-      "empfohlener_einsatz_prozent": 0.25,
-      "empfohlener_einsatz_euro": 2.5,
-      "begruendung": "Ehrlich: ~10x - unter der Zielrange 15-30x. Vier Wackel-nahe Beine ohne Sieg-Outcomes: Bayern-Torfest, Fuerth-Mag-Ueber-3.5 (H2H-Cluster), Espanyol-Zu-Null gegen Elche-Ausduennung, Monaco-BTTS trotz Lens-Reise. Kein sauberes Sieg-Outcome frei fuer diese Kombi - Sieg-Outcomes sind in Safe (Monaco DC, Espanyol DC) und Balance (Wolfsburg) verteilt."
-    },
-    {
-      "id": "moonshot-1",
-      "profil": "Moonshot",
-      "kategorie": "moonshot",
-      "beine": [
-        {
-          "spiel_id": "2026-09-18-bay-uni",
-          "spiel_label": "Bayern Muenchen vs Union Berlin",
-          "markt": "Handicap -2 Bayern",
-          "quote": 1.75,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-09-18-fue-mag",
-          "spiel_label": "Greuther Fuerth vs Magdeburg",
-          "markt": "Sieg Greuther Fuerth",
-          "quote": 2.75,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-09-18-wob-dar",
-          "spiel_label": "Wolfsburg vs Darmstadt",
-          "markt": "Beide Teams treffen NEIN",
-          "quote": 1.85,
-          "kategorie": "wackel"
-        }
-      ],
-      "gesamtquote": 8.9,
-      "rechnung": "1.75 x 2.75 x 1.85 = 8.90",
+      "gesamtquote": 22.11,
+      "rechnung": "1.32 × 2.15 × 1.95 × 2.35 × 1.7 = 22.11",
+      "einsatz_euro": 1.0,
       "empfohlener_einsatz_prozent": 0.1,
-      "empfohlener_einsatz_euro": 1.0,
-      "begruendung": "Ehrlich: kein 100x+ moeglich in diesem 5-Spiele-Slate. Best-Effort mit 3 Wackel-Beinen: Bayern deckt Union ordentlich zu (Handicap -2), Fuerth-Heim-Underdog gegen Magdeburg, Wolfsburg-Zu-Null gegen SVD-Angriffs-Ladehemmung. Layer-2 sauber: Bayern-Sieg-Outcome hier (Handicap), Fuerth-Sieg-Outcome hier (Sieg). 1€ Spaesschen-Einsatz."
+      "begruendung": "5-Bein-Spaßeinsatz: Real-DC im Derby (Klassen-Edge) + 3× Torschütze (Gyökeres Arsenal-Neuzugang, Woltemade Newcastle-Neuzugang gegen Aufsteiger, Lautaro Big-Match) + BTTS im BL-Topspiel. Alle Beine aus verschiedenen Spielen. Nur 1€ Spaß-Einsatz."
     }
   ],
   "lessons_angewandt": [
-    "HR1 Quoten-Range: DC 1X = SAFE bei sehr klaren Favoriten (Bayern 1.03, Monaco 1.15), DC X2 / Sieg-VALUE bei kleineren Edges (Espanyol 1.30, Wolfsburg-Sieg 1.90).",
-    "HR23 Layer-3-Diversifikation: Fuenf Spiele, vier Kombi-Profile - Layer-3 nicht ueberall trennbar. Konsequent Markt-entkoppelt (DC vs Tor-Total vs BTTS vs Sieg vs Handicap) und Layer-2 hart auf jedes Spiel geprueft.",
-    "HR4 Story-Konflikt-Check: Bayern-Sieg-Outcome bewusst NICHT in Safe-Kombi (obwohl Bayern-DC 1.03 klarster SAFE-Bein waere), sondern Bayern-Handicap-2 im Moonshot - das gibt Layer-2 Luft und macht Moonshot ueberhaupt erst moeglich.",
-    "Markt-Goldgruben aktiv gesucht: DC 1X (76% / +36.8%), Ueber 2.5 (56.2% / +26.6%), BTTS Nein (60% / +49.8%), Unter 2.5 (68% / +30%) - alle vier Markt-Typen aus data/markt_goldgruben.json im Dossier.",
-    "Kader-Frische-Regel: bewusst KEINE Torschuetzen-Tipps - ohne Live-Aufstellungs-Verifikation nach dem Adeyemi-Fail 22.08.2026 fahrlaessig. Bayerns Kane, Monacos Balogun, Fuerths Neuzugaenge nicht im Dossier obwohl statistisch attraktiv.",
-    "Supercup / 2:0-Insurance: 2:0-Insurance greift bei Bayern (Bundesliga - direkter Sieg-Tipp). Bei Bayern-Sieg-Einzeltipp explizit in begruendung ausgewiesen. Monaco (Ligue 1) hat KEINE Insurance-Regel.",
-    "Slate-Ehrlichkeit: 5 Spiele in einem stark favoritenlastigen Slate - Risiko-Kombi bleibt ~10x (unter Range 15-30x), Moonshot bleibt ~9x (statt 100x+). Alternative waere kuenstliches Aufblasen mit Torschuetzen-Tipps, was ohne Kader-Verifikation die Regel verletzen wuerde."
+    "HR1 Quoten-Range: alle Tipps in Kategorie-Range einsortiert (SAFE 1.30-1.65 / VALUE 1.65-2.30 / WACKEL 2.30-3.50)",
+    "Anti-DC-Sucht: max 1 DC pro Spiel eingehalten, Dossier-total 4 DC-Tipps (im Rahmen)",
+    "Markt-Goldgruben aktiv gesucht: DC 1X / DC X2 / Über 2.5 / BTTS Ja + Unter 2.5 dominieren die Einzeltipps",
+    "Zeitfenster-Hartregel: NUR Anstoss am 2026-09-19 — Sonntagsspiele (Bournemouth-Liverpool, City-Sunderland, Fiorentina-Napoli, OM-PSG) bewusst NICHT im Täglich-Dossier",
+    "Kader-Frische: Adeyemi NIE mehr als BVB-Torschütze (bei Barça seit 24.07.2026), Isak/Gordon/Bruno-Guimaraes weg von Newcastle beachtet — kein Torschütze-Tipp auf weggewechselte Spieler",
+    "Layer-1/2/3-Diversifikation: kein Bein doppelt in Safe/Balance-Kombi; VfB-BVB als Sieg-Outcome NUR in einer Kombi",
+    "2:0-Insurance-Regel: gilt NUR für 1.BL + CL — im Dossier korrekt vermerkt (VfB-BVB ja, alle anderen nein)",
+    "HR4 Story-Konflikt-Check: kein Selbstwiderspruch zwischen begruendung und kategorie (VfB-BVB Klassen-Edge trotz BVB-CL-Belastung → wackel/value)",
+    "Kasse-Stand-aware: aus data/kasse.json gelesen (1000€ Saison-Start, Stufe 1 aktiv) — Einsätze konservativ 1-2% pro Tipp"
   ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Glücksspielsucht-Hotline: 0800 1372700 · Nur setzen was du verlieren kannst · Stress → Pause · Probleme → Hilfe holen",
   "_verifikations_report": {
-    "erstellt_am": "2026-09-18T14:35:00+02:00",
+    "erstellt_am": "2026-09-19T08:14:29.467363",
     "drops": [],
     "downgrades": [],
     "warns": [
       {
-        "art": "risiko_moonshot_unter_range",
-        "details": "Slate ist favoritenlastig (5 Spiele, alle 5 mit deutlichem Fav). Risiko-Kombi 10.24x (unter Range 15-30x), Moonshot 8.90x (statt 100x+). Ehrlich statt kuenstlich aufgeblasen mit Torschuetzen-Tipps ohne Live-Verifikation."
+        "art": "recherche_file_fehlt",
+        "details": "data/recherche/2026-09-19.json existiert nicht - Aufstellungen live prüfen"
       },
       {
-        "art": "layer_3_weich_strapaziert",
-        "details": "Nur 5 Spiele fuer 4 Kombi-Profile. Fuerth-Mag in 4 Kombis (BTTS/Ueber 2.5/Ueber 3.5/Fuerth-Sieg - alle Markt-entkoppelt), Monaco in 3 Kombis (DC/Ueber 2.5/BTTS - alle Markt-entkoppelt). Layer-2 hart aber ueberall sauber."
-      },
-      {
-        "art": "quoten_live_pruefen",
-        "details": "Alle Quoten aus Aggregator-Recherche (whoscored/sportsmole/sportskeeda). Vor Wette bei bet365 live pruefen - besonders Handicap-2-Bayern und Fuerth-Sieg-Quote koennen variieren."
-      },
-      {
-        "art": "keine_torschuetzen",
-        "details": "Bewusst KEINE Torschuetzen-Tipps im gesamten Dossier - ohne Live-Aufstellungs-Verifikation (kicker.de/transfermarkt pro Spieler) nach dem Adeyemi-Fail 22.08.2026 nicht seriös absicherbar."
+        "art": "kombi_moonshot_unter_100x",
+        "details": "Moonshot-Kombi gesamtquote=22.11x, keine echte 100x-Lottery — ehrlich benannt statt aufgeblasen"
       }
     ],
-    "checks_ok": [
-      "Datum-Scope: alle 5 Spiele Anstoss am 2026-09-18 Berlin (18:30 / 20:30 / 20:45 / 21:00) ✓",
-      "Layer-1: jede Kombi max 1 Bein pro Spiel ✓",
-      "Layer-2 hart: pro Spiel max 1 Sieg-Outcome ueber alle Kombis - bay-uni (Moonshot Handicap-2), mon-len (Safe DC), esp-elc (Safe DC), wob-dar (Balance Sieg), fue-mag (Moonshot Fuerth-Sieg) - alle einzigartig ✓",
-      "Layer-3 weich: Mehrfach-Spiele durchweg Markt-entkoppelt (DC vs Ueber-Tore vs BTTS vs Sieg vs Handicap) ✓",
-      "gesamtquote nachgerechnet in allen 4 Kombis ✓",
-      "saison_kontext-Pflichtfelder + Quellen-URLs in allen 5 Spielen gesetzt ✓",
-      "Keine Torschuetzen-Tipps -> keine Kader_wechsel_2026-Halluzinationen moeglich ✓",
-      "Kein Markt aus markt_bluter.json (Liste aktuell leer) ✓",
-      "DC-CAP: max 1 DC-Tipp pro Spiel; im Dossier 3 DC-Einzeltipps (Bayern DC, Monaco DC, Espanyol DC) - im 2-3-Rahmen ✓",
-      "Bayern (Bundesliga) mit 2:0-Insurance-Hinweis in Sieg-Tipp-begruendung ausgewiesen ✓"
-    ],
-    "lessons_generiert": []
-  },
-  "footer": "18+ · bet365 DE · Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Nur setzen was du verlieren kannst."
+    "lessons_generiert": [],
+    "notiz": "Sa-Cloud-Routine hat 5 Sa-Games aus wochenende-Dossier übernommen (bereits fx_schema-validiert) + 4 Games ergänzt (3 BL + Atletico-Real Derby) mit market-only Tipps um Halluzinations-Risiko zu minimieren. Kein Torschützen-Tipp in den ergänzten Spielen."
+  }
 };
