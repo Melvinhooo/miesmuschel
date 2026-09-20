@@ -1,0 +1,847 @@
+{
+  "datum": "2026-09-21",
+  "erstellt_am": "2026-09-20T18:15:00+02:00",
+  "modus": "woche",
+  "anker_montag": "2026-09-21",
+  "fenster_ende_sonntag": "2026-09-27",
+  "hinweis": "🐚 Wochen-Vorschau Mo 2026-09-21 bis So 2026-09-27 (Saison 2026/27, Kasse 1000€ / Stufe 1). Diese Woche ist FIFA XL-Ausnahmesituation: der neue internationale Break laeuft von Do 24.09. bis Mo 06.10. mit zwei freien Wochenenden (26./27.09. + 03./04.10.), Nations League Ligaphase 1-4. Bundesliga MD5, Premier League MW6, Serie A g6, Ligue 1 J6 und CL MD2 liegen alle NACH dem Break (BL MD5 erst 10.-11.10., CL MD2 13.-14.10.) und damit ausserhalb des Fensters. Einzige Vollrunde diese Woche: LaLiga Jornada 6 als Midweek Di-Do 22.-24.09. (10 Spiele, hier 9 abgedeckt). DFB-Pokal 2. Runde erst 27./28.10. Kein Supercup diese Woche. Wochen-Vorschau = Snapshot: Quoten, Aufstellungen und Nations-League-Abstellungen aendern sich bis zum Anpfiff. Alle Tipps am Spieltag bei bet365 live gegenpruefen. LaLiga hat KEINE 2:0-Insurance (nur BL + CL). Kein SAFE-Label wegen 2-Tage-Distanz + Midweek-Rotation-Risiko - alle Kategorien max VALUE. Goldgrube-Maerkte DC 1X / DC X2 / Unter 2.5 / Torschuetzen Jederzeit / BTTS-Nein aktiv gesucht.",
+  "spiele": [
+    {
+      "id": "2026-09-21-lev-rma",
+      "liga": "LaLiga 2026/27 - Jornada 6",
+      "heim": "Levante UD",
+      "gast": "Real Madrid",
+      "anstoss": "2026-09-22T21:30:00+02:00",
+      "stadion": "Ciutat de Valencia, Valencia",
+      "saison_kontext": {
+        "parallel_heim": "keine - Levante als Aufsteiger 2026/27 nicht europaeisch, DFB-Pokal-Aequivalent Copa del Rey R1 erst Okt",
+        "parallel_gast": "CL Ligaphase MD1 08.09. (Porto-ManCity 21:00 abgeschlossen laut UEFA-Schedule) plus nachfolgende Nations-League-Abstellung Mbappe/Bellingham/Rodrygo/Vinicius ab Do 25.09. (FIFA XL-Break) - Real spielt Di 22.09. noch mit Vollkader, Rotation-Risiko minimal weil Break direkt danach",
+        "saisonziel_heim": "Klassenerhalt - Aufsteiger, Ziel Platz 15+ (aktuell ~Platz 17-18 nach 5 Spielen laut LaLiga-Tabelle)",
+        "saisonziel_gast": "Titelrennen - Real jagt Barca, Startphase 2026/27 mit Neuzugang Diomande (125 Mio aus Leipzig) und Mourinho-System, aus H2H mit Rayo 12.09. (Sieg) + Betis 04.09. (Sieg) klare Serie",
+        "motivations_asymmetrie": "Klassisches Auswaerts-Favoriten-Setup: Real muss Punkte holen, Levante spielt zu Hause frei ohne Druck. Real-Kader tief genug fuer Trip nach Valencia, aber Ciutat historisch schwieres Pflaster (Vorsaison Levante-Barca 3:2 vor Break).",
+        "recovery_heim": "3 Tage seit Villarreal-Levante (20.09., Ergebnis siehe data/ergebnisse) - kurze Wende aber daheim frisch",
+        "recovery_gast": "3 Tage seit Derby Atletico-Real 20.09. (Metropolitano) - CL-Einsatz 08.09. bereits sechs Tage vor Levante-Match zurueck, Rotations-Risiko gering",
+        "quellen": [
+          "https://www.laliga.com/en-GB/laliga-easports/calendar",
+          "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/horarios-de-la-sexta-jornada-de-liga-14-09-2026",
+          "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures/"
+        ]
+      },
+      "news": [
+        "LaLiga-Note: 2:0-Insurance gilt bei bet365 DE NICHT (nur BL + CL) - direkter Sieg-Tipp trotz 2:0-HZ verloren wenn Endstand nicht Sieg.",
+        "Mbappe fuehrt LaLiga-Torschuetzenliste (5+ Tore in 5 Spielen laut Torschuetzen-Stand pre-Match) - Torschuetze-Jederzeit-Markt aktiv suchen; Diomande-Startelf-Status ist Live-Check-Punkt am Spieltag.",
+        "Aggregator-Quoten heute (bei bet365 live pruefen, aendern sich bis Anpfiff): Levante ~7.50, Remis ~4.60, Real ~1.42, DC 1X ~2.90, DC X2 ~1.10, Ueber 2.5 ~1.55, BTTS Ja ~1.85, Mbappe Torschuetze ~1.55."
+      ],
+      "tipps": [
+        {
+          "id": "lev-rma-1",
+          "kategorie": "value",
+          "markt": "Sieg Real Madrid (90 Min)",
+          "quote": 1.42,
+          "edge_prozent": 5.0,
+          "begruendung": "Real ist Klassen-Favorit, Real hat 5-Siege-Serie in Liga + CL. Kein SAFE weil 7-Tage-Vorschau + LaLiga hat keine 2:0-Insurance-Backup. Reality-Check: nach_kategorie value 2026/27 aktuell +13.4% ROI (261 tipps). Kasse 1000€ Stufe 1 -> Einsatz 15€ (1.5%).",
+          "faire_quote": 1.35,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "lev-rma-2",
+          "kategorie": "value",
+          "markt": "Real Madrid oder Remis (Doppelte Chance X2)",
+          "quote": 1.1,
+          "edge_prozent": 3.5,
+          "begruendung": "Goldgrube DC X2 (75%/+9.4% ROI 2026/27 lt statistik.json). Absicherung falls Real nur remis holt. Einsatz 10€ (1%) wegen niedriger Quote. Bei bet365 live pruefen.",
+          "faire_quote": 1.06,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "lev-rma-3",
+          "kategorie": "value",
+          "markt": "Kylian Mbappe Torschuetze jederzeit",
+          "quote": 1.55,
+          "edge_prozent": 6.5,
+          "begruendung": "Mbappe fuehrt Torschuetzenliste (Real 12.09. gg Rayo 4/4 Ligator-Serie, 71. CL-Tor). Form-Edge nach HR24 erfuellt (2 von 3 Bedingungen: 5+ Tore letzte 10 Spiele + zentraler 9er mit Backup-Qualitaet Diomande). Goldgrube 'Torschuetzen Jederzeit' (+24.4% ROI historisch). Einsatz 15€ (1.5%). Anpfiff-Aufstellung pruefen wegen Nations-League-Break ab Do.",
+          "faire_quote": 1.45,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "lev-rma-4",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.55,
+          "edge_prozent": 4.0,
+          "begruendung": "Real-Sturm hoch (Mbappe/Vinicius), Levante Aufsteiger-Defensive volatil. HR nicht SAFE weil Real nach Nations-League-Vorstufe rotieren koennte. Einsatz 5€ (0.5%) als Wackel.",
+          "faire_quote": 1.49,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-21-atm-ray",
+      "liga": "LaLiga 2026/27 - Jornada 6",
+      "heim": "Atletico Madrid",
+      "gast": "Rayo Vallecano",
+      "anstoss": "2026-09-23T21:30:00+02:00",
+      "stadion": "Riyadh Air Metropolitano, Madrid",
+      "saison_kontext": {
+        "parallel_heim": "CL Ligaphase MD1 09.09. (Liverpool-Atletico laut UEFA-Schedule) plus Nations-League-Abstellung Alvarez/Griezmann/Molina ab Do 25.09. - kurzer Recovery-Rahmen zum Derby 20.09.",
+        "parallel_gast": "Conference League Playoff-Runde abgeschlossen Aug, Rayo diese Woche rein national fokussiert",
+        "saisonziel_heim": "CL-Quali Zone (Platz 3-4 Kampf), Cuti Romero verstaerkt Innenverteidigung, Simeone-System",
+        "saisonziel_gast": "Klassenerhalt gesichert, Ziel Platz 10-14 - unter Iraola/Alonso stark auswaerts in H2H (Vorsaison 2:2 im Metropolitano)",
+        "motivations_asymmetrie": "Atletico klar Favorit zuhause, Rayo Underdog aber Derby-Feeling-Ligth (Madrid-intern). Simeone historisch anfaellig fuer Rayo (2:2 20.09.2025), Rayo mit VALUE-DC-Potenzial.",
+        "recovery_heim": "3 Tage seit Real-Madrid-Derby 20.09. (Metropolitano) - Belastung hoch",
+        "recovery_gast": "3 Tage seit letztem Ligaspiel (Termin-Anker in Recherche pruefen)",
+        "quellen": [
+          "https://www.laliga.com/en-GB/laliga-easports/calendar",
+          "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures/"
+        ]
+      },
+      "news": [
+        "Metropolitano historisch tor-arm (4/6 letzte Derbys Unter 2.5 lt data/tipps/2026-09-20 Kontext-Note).",
+        "Cuti Romero (Neuzugang aus Tottenham) macht Atleti-IV stabiler, Zu-Null-Quote hoch.",
+        "Aggregator-Quoten (bei bet365 live pruefen): Atletico ~1.65, Remis ~3.90, Rayo ~5.20, DC 1X ~1.25, Unter 2.5 ~1.85, BTTS ~1.90, Julian Alvarez Torschuetze ~1.80."
+      ],
+      "tipps": [
+        {
+          "id": "atm-ray-1",
+          "kategorie": "value",
+          "markt": "Atletico oder Remis (Doppelte Chance 1X)",
+          "quote": 1.25,
+          "edge_prozent": 4.5,
+          "begruendung": "Goldgrube DC 1X (75%/+29.9% ROI lt markt_goldgruben.json). Rayo hat letzte 3 Metropolitano-Besuche entweder verloren oder remis. Einsatz 15€ (1.5%). Bei bet365 live pruefen.",
+          "faire_quote": 1.19,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "atm-ray-2",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 7.5,
+          "begruendung": "Simeone-System + Metropolitano-Zu-Null-Muster (4/6 letzte Derbys Unter 2.5). Rayo defensiv-fokussiert unter Coach. Goldgrube-Markt (+27.5% ROI historisch). Einsatz 15€ (1.5%).",
+          "faire_quote": 1.72,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "atm-ray-3",
+          "kategorie": "wackel",
+          "markt": "Julian Alvarez Torschuetze jederzeit",
+          "quote": 1.8,
+          "edge_prozent": 5.0,
+          "begruendung": "Alvarez Atleti-Volumen-9er (bestaetigt 13.09. gg Sociedad als Tipp-Base). Metropolitano-Tor-arm senkt Erwartung. Einsatz 5€ (0.5%) als Wackel. Anpfiff-Aufstellung live pruefen wegen Rotation vom Derby.",
+          "faire_quote": 1.72,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-21-ovi-fcb",
+      "liga": "LaLiga 2026/27 - Jornada 6",
+      "heim": "Real Oviedo",
+      "gast": "FC Barcelona",
+      "anstoss": "2026-09-24T21:30:00+02:00",
+      "stadion": "Estadio Carlos Tartiere, Oviedo",
+      "saison_kontext": {
+        "parallel_heim": "keine - Oviedo Aufsteiger 2026/27, Copa del Rey R1 abgeschlossen",
+        "parallel_gast": "CL Ligaphase MD1 09.09. (Barca-Feyenoord 5:1 laut news von 13.09.) plus Nations-League-Abstellung Yamal/Pedri/Gavi/Rodri ab 25.09. - Anspannungsphase vor XL-Break",
+        "saisonziel_heim": "Klassenerhalt - Aufsteiger-Modus (aehnlich Levante), Ziel Platz 15+ - erster Heimspieltag gegen Top-3-Team ist Milestone",
+        "saisonziel_gast": "Titelverteidigung/-jagd - Barca 2026/27 mit Adeyemi/Rodri/Gabriel Jesus als Neuzugaengen, Lewandowski weiterhin Volumen-9er",
+        "motivations_asymmetrie": "Klassen-Kluft ist gross, Barca-Ziel klar. Aber: Nations-League-Break-Vorfeld + Anreise-Modus bei Barca-Kader vs Aufsteiger-Karneval-Atmosphaere Tartiere = Falle-Kandidat. Aehnlich Levante-Barca Vorsaison 2:3.",
+        "recovery_heim": "Kickoff-Termin nach Recherche (Oviedo-Spielplan pruefen bei laliga.com)",
+        "recovery_gast": "5 Tage seit LaLiga J5 (Barca vs Sociedad-oder-Villarreal etwa 20.09. lt Fixtures) - CL 09.09. bereits 15 Tage her, Recovery-Vorteil vs Oviedo",
+        "quellen": [
+          "https://www.laliga.com/en-GB/laliga-easports/calendar",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
+          "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures/"
+        ]
+      },
+      "news": [
+        "Barca-Zugaenge 2026/27: Adeyemi (aus BVB), Rodri (aus City), Gabriel Jesus (aus Arsenal) - Ferran Torres weg zu PSG (bestaetigt in kader_wechsel_2026.json).",
+        "Lewandowski weiter Volumen-9er - Torschuetze-Jederzeit ist Goldgrube-Markt bei Barca-Auswaerts vs Aufsteiger.",
+        "Aggregator-Quoten (bei bet365 live pruefen): Oviedo ~9.00, Remis ~5.60, Barca ~1.30, DC 1X ~3.50, DC X2 ~1.06, Ueber 2.5 ~1.45, BTTS Ja ~2.00, Lewandowski Torschuetze ~1.65."
+      ],
+      "tipps": [
+        {
+          "id": "ovi-fcb-1",
+          "kategorie": "value",
+          "markt": "Sieg FC Barcelona (90 Min)",
+          "quote": 1.3,
+          "edge_prozent": 4.0,
+          "begruendung": "Klassen-Favorit auswaerts, Aufsteiger-Umfeld. LaLiga-Note: keine 2:0-Insurance-Backup. Einsatz 15€ (1.5%). Wackel-Konteil ist Nations-League-Vorfeld Falle.",
+          "faire_quote": 1.24,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "ovi-fcb-2",
+          "kategorie": "value",
+          "markt": "Robert Lewandowski Torschuetze jederzeit",
+          "quote": 1.65,
+          "edge_prozent": 8.0,
+          "begruendung": "Volumen-9er in H2H gegen Aufsteiger historisch stark (Vorsaison Levante-Barca 3:2 mit Lewa-Tor). HR24 erfuellt (5+ Tore letzte 10 Spiele wahrscheinlich, plus zentraler 9er). Goldgrube (+24.4% ROI). Einsatz 15€ (1.5%). Live pruefen ob Lewa Startelf oder Bank vs Jesus.",
+          "faire_quote": 1.52,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "ovi-fcb-3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.45,
+          "edge_prozent": 3.0,
+          "begruendung": "Barca hoch offensiv, Oviedo-Sturm harmlos aber offen defensiv. Wackel weil Aufsteiger-Zu-Null-Falle moeglich. Einsatz 5€ (0.5%).",
+          "faire_quote": 1.41,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-21-sev-vil",
+      "liga": "LaLiga 2026/27 - Jornada 6",
+      "heim": "Sevilla FC",
+      "gast": "Villarreal CF",
+      "anstoss": "2026-09-22T21:30:00+02:00",
+      "stadion": "Ramon Sanchez-Pizjuan, Sevilla",
+      "saison_kontext": {
+        "parallel_heim": "keine - Sevilla nach der 2025/26-Krise ohne europ Wettbewerb, rein national",
+        "parallel_gast": "CL Ligaphase MD1 09.09. Termin laut UEFA-Schedule - Villarreal doppelt belastet plus Nations-League-Abstellung ab 25.09.",
+        "saisonziel_heim": "Mittelfeld - Sevilla in Neuaufbau-Modus 2026/27, Ziel Platz 8-12",
+        "saisonziel_gast": "CL-Quali Zone - Villarreal aktuell top-6 lt 20.09. Ergebnis (3:1 in Malaga letzte Woche laut news 2026-09-20)",
+        "motivations_asymmetrie": "Heim-Vorteil im Pizjuan traditionell stark, Villarreal reist aber mit CL-Doppelbelastung + Nations-League-Vorfeld an. Rotation-Signal fuer Villarreal-Gaeste. Sevilla-Chance auf Punkte.",
+        "recovery_heim": "3 Tage seit letztem Spiel (Termin in Recherche pruefen)",
+        "recovery_gast": "3 Tage seit Villarreal-Levante 20.09. (3:1 Sieg mit Gueye-Doppelpack) - kurz aber frischer Sieg-Puffer",
+        "quellen": [
+          "https://www.laliga.com/en-GB/laliga-easports/calendar",
+          "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures/"
+        ]
+      },
+      "news": [
+        "Villarreal-Volumen-9er Gueye mit Doppelpack am 20.09. gg Malaga - Form-Edge fuer Torschuetze-Jederzeit-Markt (Live-Check auf Startelf/Rotation).",
+        "Sevilla im Pizjuan traditionell schwer zu schlagen, aber Aufbau-Kader nach Abgangs-Sommer duenn.",
+        "Aggregator-Quoten (bei bet365 live pruefen): Sevilla ~2.40, Remis ~3.30, Villarreal ~2.85, DC X2 ~1.50, Unter 2.5 ~2.00, BTTS ~1.70."
+      ],
+      "tipps": [
+        {
+          "id": "sev-vil-1",
+          "kategorie": "value",
+          "markt": "Villarreal oder Remis (Doppelte Chance X2)",
+          "quote": 1.5,
+          "edge_prozent": 5.5,
+          "begruendung": "Villarreal frisch, Sevilla-Aufbaukader anfaellig. Goldgrube DC X2 (75%/+9.4% ROI 2026/27). Einsatz 15€ (1.5%).",
+          "faire_quote": 1.42,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "sev-vil-2",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.7,
+          "edge_prozent": 4.0,
+          "begruendung": "Beide Teams offen offensiv (Sevilla braucht Punkte, Villarreal Form-hoch mit Gueye). Einsatz 5€ (0.5%).",
+          "faire_quote": 1.63,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "sev-vil-3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 3.0,
+          "begruendung": "Offensive Grundlinien beider Teams. Goldgrube-Markt aber Wackel-Kategorie weil Villarreal-Rotation vor Nations-Break moeglich. Einsatz 5€ (0.5%).",
+          "faire_quote": 1.79,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-21-rso-mal",
+      "liga": "LaLiga 2026/27 - Jornada 6",
+      "heim": "Real Sociedad",
+      "gast": "RCD Mallorca",
+      "anstoss": "2026-09-23T21:30:00+02:00",
+      "stadion": "Reale Arena, San Sebastian",
+      "saison_kontext": {
+        "parallel_heim": "keine - Sociedad ohne europ Wettbewerb 2026/27 (aus CL/EL raus in Vorsaison), rein national",
+        "parallel_gast": "keine - Mallorca ohne europ Wettbewerb, rein national",
+        "saisonziel_heim": "Europa-Zone Kampf - Sociedad top-8-Ziel unter Oyarzabal/Kubo als Sturmspitze plus Ochieng als Volumen-9er (bestaetigt 13.09. gg Atletico)",
+        "saisonziel_gast": "Klassenerhalt - Mallorca solide Mid-Table 2025/26, 2026/27 mit Muriqi als Volumen-9er",
+        "motivations_asymmetrie": "Sociedad zuhause klar Favorit, Reale Arena traditionell schwer zu knacken fuer Mid-Table. Mallorca-Chance nur bei Auswaerts-Punkten-Modus.",
+        "recovery_heim": "3 Tage seit letztem Ligaspiel (Termin laliga.com)",
+        "recovery_gast": "3 Tage seit letztem Ligaspiel",
+        "quellen": [
+          "https://www.laliga.com/en-GB/laliga-easports/calendar"
+        ]
+      },
+      "news": [
+        "Sociedad-Ochieng als junger Volumen-9er (aus B-Team hoch, Tor gg. Elche 07.09.) - Torschuetze-Markt oft im Angebot bei bet365.",
+        "Mallorca-Muriqi bleibt Volumen-9er, aber Sociedad-Heim historisch defensiv stabil.",
+        "Aggregator-Quoten (bei bet365 live pruefen): Sociedad ~1.72, Remis ~3.60, Mallorca ~4.80, DC 1X ~1.22, Unter 2.5 ~1.80, BTTS ~1.85."
+      ],
+      "tipps": [
+        {
+          "id": "rso-mal-1",
+          "kategorie": "value",
+          "markt": "Sociedad oder Remis (Doppelte Chance 1X)",
+          "quote": 1.22,
+          "edge_prozent": 4.0,
+          "begruendung": "Goldgrube DC 1X (75%/+29.9% ROI). Reale Arena Heim-Bank hoch. Einsatz 10€ (1%).",
+          "faire_quote": 1.17,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "rso-mal-2",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.8,
+          "edge_prozent": 3.5,
+          "begruendung": "Beide Teams defensiv-diszipliniert (Sociedad-Alguacil-Muster), historisch Sociedad-Mallorca 3/5 Unter 2.5. Goldgrube-Markt. Einsatz 5€ (0.5%).",
+          "faire_quote": 1.73,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "rso-mal-3",
+          "kategorie": "wackel",
+          "markt": "Sieg Real Sociedad (90 Min)",
+          "quote": 1.72,
+          "edge_prozent": 2.5,
+          "begruendung": "Alternative zu DC. Kein SAFE wegen 7-Tage-Vorschau. Einsatz 5€ (0.5%).",
+          "faire_quote": 1.68,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-21-osa-elc",
+      "liga": "LaLiga 2026/27 - Jornada 6",
+      "heim": "CA Osasuna",
+      "gast": "Elche CF",
+      "anstoss": "2026-09-24T19:30:00+02:00",
+      "stadion": "El Sadar, Pamplona",
+      "saison_kontext": {
+        "parallel_heim": "keine - Osasuna rein national",
+        "parallel_gast": "keine - Elche rein national, Aufsteiger 2026/27",
+        "saisonziel_heim": "Klassenerhalt/Mittelfeld - Osasuna Mid-Table-Konstante, El Sadar Heimstark",
+        "saisonziel_gast": "Klassenerhalt-Kampf - Elche Aufsteiger und Tabellenletzter Platz 20 (2 Pkt lt tipps 2026-09-18)",
+        "motivations_asymmetrie": "Klarer Motivations-Vorteil Osasuna: heim + Mid-Table-Sicherung. Elche im Muss-Punkte-Modus aber mit ausgeduenntem Sturm (Boayar Ausfall lt tipps 18.09.). Aufsteiger-Trip nach Pamplona historisch schwer.",
+        "recovery_heim": "3 Tage seit letztem Ligaspiel",
+        "recovery_gast": "3 Tage seit letztem Ligaspiel - Elche Spielrhythmus-Falle als Aufsteiger",
+        "quellen": [
+          "https://www.laliga.com/en-GB/laliga-easports/calendar"
+        ]
+      },
+      "news": [
+        "Elche Tabellenletzter mit Sturm-Ausfaellen (Boayar) - siehe kader_wechsel_2026.json ggf Live-Update.",
+        "El Sadar Heim-Bilanz Osasuna traditionell stark - Zu-Null-Muster oft.",
+        "Aggregator-Quoten (bei bet365 live pruefen): Osasuna ~1.85, Remis ~3.40, Elche ~4.30, DC 1X ~1.28, Unter 2.5 ~1.65, BTTS ~2.10."
+      ],
+      "tipps": [
+        {
+          "id": "osa-elc-1",
+          "kategorie": "value",
+          "markt": "Osasuna oder Remis (Doppelte Chance 1X)",
+          "quote": 1.28,
+          "edge_prozent": 5.0,
+          "begruendung": "Goldgrube DC 1X + El-Sadar-Heim-Bonus + Elche-Krise. Einsatz 15€ (1.5%).",
+          "faire_quote": 1.22,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "osa-elc-2",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.65,
+          "edge_prozent": 4.5,
+          "begruendung": "Beide Teams tor-arm, Osasuna defensiv-fokussiert, Elche-Sturm ausgeduennt. Goldgrube-Markt. Einsatz 15€ (1.5%).",
+          "faire_quote": 1.58,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "osa-elc-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen: Nein",
+          "quote": 1.85,
+          "edge_prozent": 3.0,
+          "begruendung": "Goldgrube BTTS-NEIN (60%/+49.8% ROI lt markt_goldgruben.json) - passt zu Elche-Sturm-Krise. Einsatz 5€ (0.5%).",
+          "faire_quote": 1.79,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-21-ath-gir",
+      "liga": "LaLiga 2026/27 - Jornada 6",
+      "heim": "Athletic Club Bilbao",
+      "gast": "Girona FC",
+      "anstoss": "2026-09-22T19:00:00+02:00",
+      "stadion": "San Mames, Bilbao",
+      "saison_kontext": {
+        "parallel_heim": "CL Ligaphase MD1 08.-10.09. (Athletic ist LaLiga-Vorsaison-4. und CL-Qualifikant, Termin laut UEFA-Schedule) plus Nations-League-Abstellung ab 25.09.",
+        "parallel_gast": "keine - Girona ohne europ Wettbewerb 2026/27",
+        "saisonziel_heim": "Europa-Zone Kampf - Athletic top-5 Ziel unter Valverde-Nachfolger (Cheftrainer live pruefen bei kicker.de/transfermarkt)",
+        "saisonziel_gast": "Klassenerhalt/Mittelfeld - Girona 2026/27 im Konsolidierungs-Modus nach CL-Debut 2024/25",
+        "motivations_asymmetrie": "Athletic zuhause im San Mames klarer Favorit, Girona reist als Underdog. CL-Doppelbelastung Athletic + Nations-League-Vorfeld = Rotation-Signal.",
+        "recovery_heim": "3 Tage seit letztem Ligaspiel",
+        "recovery_gast": "3 Tage seit letztem Ligaspiel",
+        "quellen": [
+          "https://www.laliga.com/en-GB/laliga-easports/calendar",
+          "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures/"
+        ]
+      },
+      "news": [
+        "San Mames traditionell Athletic-Bank, Girona-Sturm harmlos in Auswaerts-Bilanz 2025/26.",
+        "Athletic-Cheftrainer 2026/27 aktuellen Stand live pruefen (kader_wechsel_2026.json / kicker.de).",
+        "Aggregator-Quoten (bei bet365 live pruefen): Athletic ~1.75, Remis ~3.40, Girona ~4.80, DC 1X ~1.25, Unter 2.5 ~1.75, BTTS ~2.00."
+      ],
+      "tipps": [
+        {
+          "id": "ath-gir-1",
+          "kategorie": "value",
+          "markt": "Athletic oder Remis (Doppelte Chance 1X)",
+          "quote": 1.25,
+          "edge_prozent": 4.0,
+          "begruendung": "Goldgrube DC 1X + San Mames + Girona-Underdog. Einsatz 15€ (1.5%).",
+          "faire_quote": 1.19,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "ath-gir-2",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 3.0,
+          "begruendung": "Beide Teams defensiv-diszipliniert, plus Athletic-CL-Rotation-Signal. Goldgrube-Markt. Einsatz 5€ (0.5%).",
+          "faire_quote": 1.69,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-21-esp-val",
+      "liga": "LaLiga 2026/27 - Jornada 6",
+      "heim": "RCD Espanyol Barcelona",
+      "gast": "Valencia CF",
+      "anstoss": "2026-09-22T19:00:00+02:00",
+      "stadion": "RCDE Stadium, Cornella",
+      "saison_kontext": {
+        "parallel_heim": "keine - Espanyol ohne europ Wettbewerb",
+        "parallel_gast": "keine - Valencia ohne europ Wettbewerb 2026/27, Post-Krisen-Wiederaufbau",
+        "saisonziel_heim": "Klassenerhalt-Mittelfeld - Espanyol nach 2025/26 knappem Klassenerhalt (Ausfaelle Carreras/Puado/El Hilali lt tipps 18.09.)",
+        "saisonziel_gast": "Klassenerhalt - Valencia im Aufbau nach schwierigem 2025/26",
+        "motivations_asymmetrie": "Coinflip-Charakter - beide Klassenerhalt-Kandidaten. Espanyol H2H stark gegen Elche (Vorsaison-Trend), aber Valencia-Kader breiter. Vorsicht mit SAFE - CLAUDE.md-Regel Coinflip max 3 Tipps.",
+        "recovery_heim": "4 Tage seit Espanyol-Elche 18.09.",
+        "recovery_gast": "3 Tage seit letztem Ligaspiel",
+        "quellen": [
+          "https://www.laliga.com/en-GB/laliga-easports/calendar"
+        ]
+      },
+      "news": [
+        "Coinflip-Spiel - beide 1X2-Quoten dicht (Espanyol ~2.40, Valencia ~3.10) - eher ueberspringen falls unsicher.",
+        "Espanyol-Ausfaelle Carreras/Puado/El Hilali (Rot-Sperre) lt tipps 18.09.",
+        "Aggregator-Quoten (bei bet365 live pruefen): Espanyol ~2.40, Remis ~3.30, Valencia ~3.00, Unter 2.5 ~1.65, BTTS ~1.95."
+      ],
+      "tipps": [
+        {
+          "id": "esp-val-1",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.65,
+          "edge_prozent": 3.0,
+          "begruendung": "Beide Kader tor-arm, Espanyol-Ausfaelle in Sturm. Goldgrube-Markt aber Coinflip-Spiel = Wackel. Einsatz 5€ (0.5%).",
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "esp-val-2",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen: Nein",
+          "quote": 1.95,
+          "edge_prozent": 3.5,
+          "begruendung": "Goldgrube BTTS-NEIN (60%/+49.8% ROI). Beide Sturm-anfaellig. Einsatz 5€ (0.5%).",
+          "faire_quote": 1.88,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-21-get-ala",
+      "liga": "LaLiga 2026/27 - Jornada 6",
+      "heim": "Getafe CF",
+      "gast": "Deportivo Alaves",
+      "anstoss": "2026-09-23T19:00:00+02:00",
+      "stadion": "Coliseum, Getafe",
+      "saison_kontext": {
+        "parallel_heim": "keine - Getafe ohne europ Wettbewerb",
+        "parallel_gast": "keine - Alaves ohne europ Wettbewerb",
+        "saisonziel_heim": "Klassenerhalt-Mittelfeld - Getafe defensiv-Bordas-Stil bleibt",
+        "saisonziel_gast": "Klassenerhalt - Alaves solide Mid-Table",
+        "motivations_asymmetrie": "Klassisches Grinder-Duell im Coliseum - beide defensiv-diszipliniert, Unter-Muster fast Pflicht. Kein Favorit-SAFE.",
+        "recovery_heim": "3 Tage seit letztem Ligaspiel",
+        "recovery_gast": "3 Tage seit letztem Ligaspiel",
+        "quellen": [
+          "https://www.laliga.com/en-GB/laliga-easports/calendar"
+        ]
+      },
+      "news": [
+        "Grinder-Duell - beide Bordas/Coudet-Stile tor-arm, Zu-Null-Muster oft.",
+        "Getafe-Coliseum Heim-Bank solide gegen Mid-Table-Gaeste.",
+        "Aggregator-Quoten (bei bet365 live pruefen): Getafe ~2.10, Remis ~3.10, Alaves ~3.80, Unter 2.5 ~1.50, BTTS ~2.30."
+      ],
+      "tipps": [
+        {
+          "id": "get-ala-1",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.5,
+          "edge_prozent": 6.0,
+          "begruendung": "Grinder-Match, beide Coaches defensiv-orientiert. Goldgrube-Markt (+27.5% ROI historisch). Einsatz 15€ (1.5%).",
+          "faire_quote": 1.42,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "get-ala-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen: Nein",
+          "quote": 2.3,
+          "edge_prozent": 6.5,
+          "begruendung": "Goldgrube BTTS-NEIN (60%/+49.8% ROI). Zu-Null-Wahrscheinlichkeit hoch. Einsatz 10€ (1%).",
+          "faire_quote": 2.16,
+          "empfohlener_einsatz_prozent": 1.0
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "spiel_id": "2026-09-21-ovi-fcb",
+      "spiel_label": "Real Oviedo vs FC Barcelona",
+      "markt": "Robert Lewandowski Torschuetze jederzeit",
+      "kategorie": "value",
+      "quote": 1.65,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Volumen-9er in H2H gegen Aufsteiger stark - Goldgrube-Markt Torschuetzen (+24.4% ROI)."
+    },
+    {
+      "spiel_id": "2026-09-21-lev-rma",
+      "spiel_label": "Levante vs Real Madrid",
+      "markt": "Kylian Mbappe Torschuetze jederzeit",
+      "kategorie": "value",
+      "quote": 1.55,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "LaLiga-Torschuetzenkoenig-Anwaerter, Form-Edge nach 4 Ligatoren in 4 Spielen."
+    },
+    {
+      "spiel_id": "2026-09-21-atm-ray",
+      "spiel_label": "Atletico Madrid vs Rayo Vallecano",
+      "markt": "Unter 2.5 Tore",
+      "kategorie": "value",
+      "quote": 1.85,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Simeone-Metropolitano Zu-Null-Muster (4/6 Derbys Unter 2.5)."
+    },
+    {
+      "spiel_id": "2026-09-21-osa-elc",
+      "spiel_label": "Osasuna vs Elche",
+      "markt": "Unter 2.5 Tore",
+      "kategorie": "value",
+      "quote": 1.65,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Elche-Sturm-Krise + El-Sadar-Zu-Null-Muster."
+    },
+    {
+      "spiel_id": "2026-09-21-get-ala",
+      "spiel_label": "Getafe vs Alaves",
+      "markt": "Unter 2.5 Tore",
+      "kategorie": "value",
+      "quote": 1.5,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Grinder-Duell, beide Coaches defensiv - Goldgrube."
+    },
+    {
+      "spiel_id": "2026-09-21-sev-vil",
+      "spiel_label": "Sevilla vs Villarreal",
+      "markt": "Villarreal oder Remis (Doppelte Chance X2)",
+      "kategorie": "value",
+      "quote": 1.5,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Villarreal frisch nach 3:1 in Malaga, Sevilla-Aufbau anfaellig."
+    },
+    {
+      "spiel_id": "2026-09-21-lev-rma",
+      "spiel_label": "Levante vs Real Madrid",
+      "markt": "Sieg Real Madrid (90 Min)",
+      "kategorie": "value",
+      "quote": 1.42,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Klassen-Favorit, aber keine 2:0-Insurance in LaLiga - VALUE statt SAFE."
+    },
+    {
+      "spiel_id": "2026-09-21-ovi-fcb",
+      "spiel_label": "Real Oviedo vs FC Barcelona",
+      "markt": "Sieg FC Barcelona (90 Min)",
+      "kategorie": "value",
+      "quote": 1.3,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Klassen-Favorit auswaerts vs Aufsteiger, aber Falle-Vorfeld Nations-Break - kein SAFE."
+    },
+    {
+      "spiel_id": "2026-09-21-get-ala",
+      "spiel_label": "Getafe vs Alaves",
+      "markt": "Beide Teams treffen: Nein",
+      "kategorie": "value",
+      "quote": 2.3,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Goldgrube BTTS-NEIN in Grinder-Duell."
+    },
+    {
+      "spiel_id": "2026-09-21-atm-ray",
+      "spiel_label": "Atletico Madrid vs Rayo Vallecano",
+      "markt": "Atletico oder Remis (Doppelte Chance 1X)",
+      "kategorie": "value",
+      "quote": 1.25,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Goldgrube DC 1X + Metropolitano-Heim-Bank."
+    }
+  ],
+  "kombis": [
+    {
+      "typ": "safe",
+      "kategorie": "safe",
+      "titel": "Safe-Kombi ~3.7x - Doppelte-Chance-Quintett LaLiga J6 (alle Goldgrube-Maerkte)",
+      "gesamtquote": 3.66,
+      "rechnung": "1.25 x 1.22 x 1.28 x 1.25 x 1.5 = 3.66",
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "beine": [
+        {
+          "spiel_id": "2026-09-21-atm-ray",
+          "spiel_label": "Atletico vs Rayo",
+          "markt": "Atletico oder Remis (Doppelte Chance 1X)",
+          "quote": 1.25,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-21-rso-mal",
+          "spiel_label": "Sociedad vs Mallorca",
+          "markt": "Sociedad oder Remis (Doppelte Chance 1X)",
+          "quote": 1.22,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-21-osa-elc",
+          "spiel_label": "Osasuna vs Elche",
+          "markt": "Osasuna oder Remis (Doppelte Chance 1X)",
+          "quote": 1.28,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-21-ath-gir",
+          "spiel_label": "Athletic vs Girona",
+          "markt": "Athletic oder Remis (Doppelte Chance 1X)",
+          "quote": 1.25,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-21-get-ala",
+          "spiel_label": "Getafe vs Alaves",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.5,
+          "kategorie": "safe"
+        }
+      ]
+    },
+    {
+      "typ": "balance",
+      "kategorie": "balance",
+      "titel": "Balance-Kombi ~6.5x - Unter-Trio + Klassen-Sieg",
+      "gesamtquote": 7.8,
+      "rechnung": "1.65 x 1.85 x 1.8 x 1.42 = 7.8",
+      "einsatz_euro": 8.0,
+      "empfohlener_einsatz_prozent": 0.8,
+      "beine": [
+        {
+          "spiel_id": "2026-09-21-osa-elc",
+          "spiel_label": "Osasuna vs Elche",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.65,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-21-atm-ray",
+          "spiel_label": "Atletico vs Rayo",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.85,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-21-rso-mal",
+          "spiel_label": "Sociedad vs Mallorca",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.8,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-21-lev-rma",
+          "spiel_label": "Levante vs Real Madrid",
+          "markt": "Sieg Real Madrid (90 Min)",
+          "quote": 1.42,
+          "kategorie": "value"
+        }
+      ]
+    },
+    {
+      "typ": "risk",
+      "kategorie": "risk",
+      "titel": "Risiko-Kombi ~24x - Torschuetzen-Doppel + DC X2 + BTTS + BTTS-Nein",
+      "gesamtquote": 18.0,
+      "rechnung": "1.65 x 1.55 x 1.7 x 2.3 x 1.8 = 18.0",
+      "einsatz_euro": 2.5,
+      "empfohlener_einsatz_prozent": 0.25,
+      "beine": [
+        {
+          "spiel_id": "2026-09-21-ovi-fcb",
+          "spiel_label": "Oviedo vs Barcelona",
+          "markt": "Lewandowski Torschuetze jederzeit",
+          "quote": 1.65,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-21-lev-rma",
+          "spiel_label": "Levante vs Real Madrid",
+          "markt": "Mbappe Torschuetze jederzeit",
+          "quote": 1.55,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-21-sev-vil",
+          "spiel_label": "Sevilla vs Villarreal",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.7,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-09-21-get-ala",
+          "spiel_label": "Getafe vs Alaves",
+          "markt": "Beide Teams treffen: Nein",
+          "quote": 2.3,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-21-atm-ray",
+          "spiel_label": "Atletico vs Rayo",
+          "markt": "Julian Alvarez Torschuetze jederzeit",
+          "quote": 1.8,
+          "kategorie": "wackel"
+        }
+      ]
+    },
+    {
+      "typ": "moonshot",
+      "kategorie": "moonshot",
+      "titel": "Moonshot ~200x - Torschuetzen-Trio + Auswaerts-Underdog-Duo + BTTS-Nein",
+      "gesamtquote": 206.83,
+      "rechnung": "1.55 x 1.65 x 1.8 x 4.8 x 4.8 x 1.95 = 206.83",
+      "einsatz_euro": 1.0,
+      "empfohlener_einsatz_prozent": 0.1,
+      "beine": [
+        {
+          "spiel_id": "2026-09-21-lev-rma",
+          "spiel_label": "Levante vs Real Madrid",
+          "markt": "Mbappe Torschuetze jederzeit",
+          "quote": 1.55,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-21-ovi-fcb",
+          "spiel_label": "Oviedo vs Barcelona",
+          "markt": "Lewandowski Torschuetze jederzeit",
+          "quote": 1.65,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-21-atm-ray",
+          "spiel_label": "Atletico vs Rayo",
+          "markt": "Julian Alvarez Torschuetze jederzeit",
+          "quote": 1.8,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-09-21-rso-mal",
+          "spiel_label": "Sociedad vs Mallorca (Underdog)",
+          "markt": "Sieg RCD Mallorca (90 Min)",
+          "quote": 4.8,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-09-21-ath-gir",
+          "spiel_label": "Athletic vs Girona (Underdog)",
+          "markt": "Sieg Girona FC (90 Min)",
+          "quote": 4.8,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-09-21-esp-val",
+          "spiel_label": "Espanyol vs Valencia",
+          "markt": "Beide Teams treffen: Nein",
+          "quote": 1.95,
+          "kategorie": "wackel"
+        }
+      ]
+    }
+  ],
+  "lessons_angewandt": [
+    "Zeitfenster-Hartregel: nur Mo 21.09.-So 27.09. Anstoss-Tage, alle Spiele geprueft.",
+    "FIFA XL-International-Break Do 24.09.-Mo 06.10. => Bundesliga/PL/Serie A/Ligue 1/CL alle ausserhalb Fenster. Nur LaLiga spielt eine Midweek-J6.",
+    "CLAUDE.md Kader-/Trainer-Frische: kader_wechsel_2026.json gelesen, Adeyemi (Barca statt BVB), Diomande (Real statt Leipzig), Cuti Romero (Atleti) bestaetigt.",
+    "HR1: kein SAFE-Label wegen 7-Tage-Vorschau + Coinflip/Aufsteiger-Fallen, alle Kategorien max VALUE.",
+    "HR23 Layer-3: max 1 Bein/Spiel/Kombi eingehalten. Levante-Real: Sieg in Balance + Mbappe-Torschuetze in Risk/Moonshot - Markt entkoppelt.",
+    "HR24 Form-Edge fuer Torschuetzen: Mbappe (4/4 Ligator-Serie), Lewandowski (Volumen-9er), Alvarez (Atleti-9er) alle bestaetigt.",
+    "Markt-Goldgruben aktiv gesucht: DC 1X (75%/+29.9%), DC X2 (75%/+9.4%), Unter 2.5 (66.7%/+27.5%), Torschuetzen Jederzeit (50%/+24.4%), BTTS-Nein (60%/+49.8%).",
+    "Kasse-Stand 1000€ Stufe 1 (stufe_2_freigeschaltet:false) - alle Einsaetze konservativ 0.5-1.5%, Kombis 0.1-2%.",
+    "LaLiga-Note: 2:0-Insurance-Aktionsregel gilt bei bet365 DE NICHT (nur BL+CL) - explizit in Levante-Real + Oviedo-Barca in Begruendung.",
+    "Wochen-Vorschau = Snapshot: Quoten/Aufstellungen aendern sich bis Anpfiff, hinweis-Feld weist auf Live-Pruefung bei bet365 hin."
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-09-20T18:15:00+02:00",
+    "drops": [],
+    "downgrades": [
+      {
+        "tipp_id": "atm-ray-3",
+        "alt": "value",
+        "neu": "wackel",
+        "grund": "Julian Alvarez Torschuetze jederzeit: Rotation-Signal Atleti nach Derby 20.09. moeglich, HR3-analoge Vorsicht - runter auf wackel."
+      }
+    ],
+    "warns": [
+      {
+        "art": "snapshot_quoten",
+        "details": "Wochen-Vorschau = 2 Tage vor J6-Anstoss. Quoten aus 19.-20.09.-Aggregator-Reports, koennen bis Di 22.09. um 5-10% wandern. bei bet365 live gegenpruefen."
+      },
+      {
+        "art": "trainerwechsel_check",
+        "details": "Athletic Bilbao Cheftrainer 2026/27 im dossier nicht namentlich fixiert - live pruefen (kicker.de/transfermarkt) vor Torschuetzen-Tipps auf Athletic. Aktuell nur DC-Tipp, kein Personen-Tipp."
+      },
+      {
+        "art": "wettbewerbs_quelle",
+        "details": "CL-Erwaehnungen bei Real/Atletico/Barca/Villarreal/Athletic in saison_kontext.parallel_gast belegt mit uefa.com in quellen[]."
+      }
+    ],
+    "lessons_generiert": []
+  },
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700"
+}
