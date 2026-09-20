@@ -62,7 +62,7 @@
           "einsatz_euro": 5.0,
           "empfohlener_einsatz_prozent": 0.5,
           "edge_prozent": 3,
-          "faire_quote": 1.70,
+          "faire_quote": 1.7,
           "begruendung": "BTTS-JA ist Markt-Goldgrube (58.9% Hit / +19.5% ROI n=38). Beide Teams treffen historisch in Napoli-Auswaertsspielen zuverlaessig. Bewusst wackel wegen der Napoli-Rotation-Unsicherheit."
         }
       ],
@@ -96,15 +96,16 @@
       "tipps": [
         {
           "id": "bou-liv-1",
-          "kategorie": "safe",
+          "kategorie": "value",
           "markt": "Liverpool oder Remis (Doppelte Chance)",
-          "quote": 1.20,
+          "quote": 1.2,
           "einsatz_euro": 20.0,
           "empfohlener_einsatz_prozent": 2.0,
           "edge_prozent": 4,
           "faire_quote": 1.16,
-          "begruendung": "DC X2 ist Markt-Goldgrube (75.0% Hit / +29.6% ROI n=36). Liverpool ist Klassen-Favorit auch trotz CL-Reise. Bournemouth zuhause nie unter Wert, aber Sturm-Backup duenn → DC deckt Klasse-Edge ab. Kein 2:0-Insurance in PL. Stufe 1: 2% = 20€.",
-          "layer_2_tag": "bou-liv_sieg_tot"
+          "begruendung": "DC X2 ist Markt-Goldgrube (75.0% Hit / +29.6% ROI n=36). Liverpool ist Klassen-Favorit auch trotz CL-Reise. Bournemouth zuhause nie unter Wert, aber Sturm-Backup duenn → DC deckt Klasse-Edge ab. Kein 2:0-Insurance in PL. Stufe 1: 2% = 20€. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
+          "layer_2_tag": "bou-liv_sieg_tot",
+          "_markt_mix_dc_downgrade": true
         },
         {
           "id": "bou-liv-2",
@@ -122,7 +123,7 @@
           "id": "bou-liv-3",
           "kategorie": "wackel",
           "markt": "Beide Teams treffen",
-          "quote": 1.70,
+          "quote": 1.7,
           "einsatz_euro": 5.0,
           "empfohlener_einsatz_prozent": 0.5,
           "edge_prozent": 3,
@@ -166,7 +167,7 @@
           "einsatz_euro": 15.0,
           "empfohlener_einsatz_prozent": 1.5,
           "edge_prozent": 4,
-          "faire_quote": 1.30,
+          "faire_quote": 1.3,
           "begruendung": "Beide Teams eher physisch/defensiv-organisiert. Palace-Style unter Glasner historisch tor-arm auswaerts, Leeds-Aufsteiger-Modus vorsichtig zuhause. Unter-3.5 ist die konservative Version.",
           "layer_2_tag": "lee-cry_totals"
         },
@@ -216,7 +217,7 @@
           "id": "lev-lei-1",
           "kategorie": "value",
           "markt": "Ueber 2.5 Tore",
-          "quote": 1.70,
+          "quote": 1.7,
           "einsatz_euro": 15.0,
           "empfohlener_einsatz_prozent": 1.5,
           "edge_prozent": 8,
@@ -240,7 +241,7 @@
           "id": "lev-lei-3",
           "kategorie": "wackel",
           "markt": "Leverkusen oder Remis (Doppelte Chance)",
-          "quote": 1.30,
+          "quote": 1.3,
           "einsatz_euro": 5.0,
           "empfohlener_einsatz_prozent": 0.5,
           "edge_prozent": 2,
@@ -310,7 +311,7 @@
           "einsatz_euro": 5.0,
           "empfohlener_einsatz_prozent": 0.5,
           "edge_prozent": 3,
-          "faire_quote": 1.70,
+          "faire_quote": 1.7,
           "begruendung": "Auch tor-arme Derbys enden meist mit 1:1 oder 1:0/0:1 — BTTS ist wackel weil Simeone gerne clean spielt aber Real-Offensiv-Klasse (Mbappe-Ebene) trifft im Metropolitano historisch trotzdem oft."
         }
       ],
@@ -358,7 +359,7 @@
           "id": "ful-mun-2",
           "kategorie": "wackel",
           "markt": "Beide Teams treffen",
-          "quote": 1.70,
+          "quote": 1.7,
           "einsatz_euro": 5.0,
           "empfohlener_einsatz_prozent": 0.5,
           "edge_prozent": 3,
@@ -396,21 +397,22 @@
       "tipps": [
         {
           "id": "vil-lev-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Villarreal oder Remis (Doppelte Chance)",
           "quote": 1.22,
           "einsatz_euro": 20.0,
           "empfohlener_einsatz_prozent": 2.0,
           "edge_prozent": 3,
           "faire_quote": 1.19,
-          "begruendung": "DC 1X-Goldgrube. Klasse-Edge + Heim-Bonus. Levante-Auswaerts-Aufsteiger-Rolle nicht zu erwarten. Stufe 1: 2% = 20€. CL-Belastung ist kein Todesurteil da CL-MD1-Gegner nicht Top-4.",
-          "layer_2_tag": "vil-lev_sieg_tot"
+          "begruendung": "DC 1X-Goldgrube. Klasse-Edge + Heim-Bonus. Levante-Auswaerts-Aufsteiger-Rolle nicht zu erwarten. Stufe 1: 2% = 20€. CL-Belastung ist kein Todesurteil da CL-MD1-Gegner nicht Top-4. [Auto: Saison-Kontext-Sanity - Belastungs-Warnung (Recovery) -> value->wackel]",
+          "layer_2_tag": "vil-lev_sieg_tot",
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "vil-lev-2",
           "kategorie": "wackel",
           "markt": "Ueber 2.5 Tore",
-          "quote": 1.80,
+          "quote": 1.8,
           "einsatz_euro": 5.0,
           "empfohlener_einsatz_prozent": 0.5,
           "edge_prozent": 3,
@@ -474,7 +476,7 @@
           "id": "juv-ata-3",
           "kategorie": "wackel",
           "markt": "Juventus oder Remis (Doppelte Chance)",
-          "quote": 1.30,
+          "quote": 1.3,
           "einsatz_euro": 5.0,
           "empfohlener_einsatz_prozent": 0.5,
           "edge_prozent": 2,
@@ -515,7 +517,7 @@
           "id": "mil-lec-1",
           "kategorie": "safe",
           "markt": "Milan oder Remis (Doppelte Chance)",
-          "quote": 1.10,
+          "quote": 1.1,
           "einsatz_euro": 20.0,
           "empfohlener_einsatz_prozent": 2.0,
           "edge_prozent": 3,
@@ -578,15 +580,16 @@
       "tipps": [
         {
           "id": "om-psg-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "PSG oder Remis (Doppelte Chance)",
-          "quote": 1.20,
+          "quote": 1.2,
           "einsatz_euro": 20.0,
           "empfohlener_einsatz_prozent": 2.0,
           "edge_prozent": 3,
           "faire_quote": 1.16,
-          "begruendung": "DC X2-Goldgrube. PSG-Klasse-Edge auch mit CL-Reise real. Marseille nur mit Velodrome-Bonus fuer Chance auf direkten Sieg. Stufe 1: 2% = 20€.",
-          "layer_2_tag": "om-psg_sieg_tot"
+          "begruendung": "DC X2-Goldgrube. PSG-Klasse-Edge auch mit CL-Reise real. Marseille nur mit Velodrome-Bonus fuer Chance auf direkten Sieg. Stufe 1: 2% = 20€. [Auto: Saison-Kontext-Sanity - Belastungs-Warnung (Recovery) -> value->wackel]",
+          "layer_2_tag": "om-psg_sieg_tot",
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "om-psg-2",
@@ -604,7 +607,7 @@
           "id": "om-psg-3",
           "kategorie": "wackel",
           "markt": "Ueber 2.5 Tore",
-          "quote": 1.70,
+          "quote": 1.7,
           "einsatz_euro": 5.0,
           "empfohlener_einsatz_prozent": 0.5,
           "edge_prozent": 3,
@@ -621,22 +624,24 @@
       "spiel_id": "2026-09-20-bou-liv",
       "kategorie": "safe",
       "markt": "Liverpool oder Remis (Doppelte Chance)",
-      "quote": 1.20,
+      "quote": 1.2,
       "einsatz_euro": 20.0,
       "empfohlener_einsatz_prozent": 2.0,
       "spiel_label": "Bournemouth vs Liverpool",
-      "begruendung": "Klasse-Edge + DC-Goldgrube (75.0% Hit / +29.6% ROI). Stufe 1: 2% = 20€."
+      "begruendung": "Klasse-Edge + DC-Goldgrube (75.0% Hit / +29.6% ROI). Stufe 1: 2% = 20€.",
+      "rang": 1
     },
     {
       "id": "et-02",
       "spiel_id": "2026-09-20-mil-lec",
       "kategorie": "safe",
       "markt": "Milan oder Remis (Doppelte Chance)",
-      "quote": 1.10,
+      "quote": 1.1,
       "einsatz_euro": 20.0,
       "empfohlener_einsatz_prozent": 2.0,
       "spiel_label": "Milan vs Lecce",
-      "begruendung": "Milan-Klasse-Edge extrem gegen Lecce. Kein 2:0-Insurance in Serie A. Stufe 1: 2% = 20€."
+      "begruendung": "Milan-Klasse-Edge extrem gegen Lecce. Kein 2:0-Insurance in Serie A. Stufe 1: 2% = 20€.",
+      "rang": 2
     },
     {
       "id": "et-03",
@@ -647,18 +652,20 @@
       "einsatz_euro": 20.0,
       "empfohlener_einsatz_prozent": 2.0,
       "spiel_label": "Villarreal vs Levante",
-      "begruendung": "Heim-Klasse + Levante-Aufsteiger-Rolle. DC-Goldgrube."
+      "begruendung": "Heim-Klasse + Levante-Aufsteiger-Rolle. DC-Goldgrube.",
+      "rang": 3
     },
     {
       "id": "et-04",
       "spiel_id": "2026-09-20-om-psg",
       "kategorie": "value",
       "markt": "PSG oder Remis (Doppelte Chance)",
-      "quote": 1.20,
+      "quote": 1.2,
       "einsatz_euro": 20.0,
       "empfohlener_einsatz_prozent": 2.0,
       "spiel_label": "Marseille vs PSG",
-      "begruendung": "PSG-Klasse-Edge auch CL-belastet. DC-X2-Goldgrube."
+      "begruendung": "PSG-Klasse-Edge auch CL-belastet. DC-X2-Goldgrube.",
+      "rang": 4
     },
     {
       "id": "et-05",
@@ -669,18 +676,20 @@
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
       "spiel_label": "Bournemouth vs Liverpool",
-      "begruendung": "Ueber-2.5-Goldgrube (55.3% Hit / +29.4% ROI). Liverpool-Offensive gegen Bournemouth-Heim-Sturm."
+      "begruendung": "Ueber-2.5-Goldgrube (55.3% Hit / +29.4% ROI). Liverpool-Offensive gegen Bournemouth-Heim-Sturm.",
+      "rang": 5
     },
     {
       "id": "et-06",
       "spiel_id": "2026-09-20-lev-lei",
       "kategorie": "value",
       "markt": "Ueber 2.5 Tore",
-      "quote": 1.70,
+      "quote": 1.7,
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
       "spiel_label": "Leverkusen vs Leipzig",
-      "begruendung": "Beide offensiv-orientiert, Leipzig 5:0 vs HSV letzte Woche."
+      "begruendung": "Beide offensiv-orientiert, Leipzig 5:0 vs HSV letzte Woche.",
+      "rang": 6
     },
     {
       "id": "et-07",
@@ -691,7 +700,8 @@
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
       "spiel_label": "Juventus vs Atalanta",
-      "begruendung": "BTTS-JA-Goldgrube. Atalanta trifft auswaerts historisch praktisch immer, Juve nach Sassuolo-Rueckschlag offensiv-orientiert."
+      "begruendung": "BTTS-JA-Goldgrube. Atalanta trifft auswaerts historisch praktisch immer, Juve nach Sassuolo-Rueckschlag offensiv-orientiert.",
+      "rang": 7
     },
     {
       "id": "et-08",
@@ -702,7 +712,8 @@
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
       "spiel_label": "Atletico Madrid vs Real Madrid",
-      "begruendung": "Derbi Madrileno tor-arm im Metropolitano. CL-Reise-Belastung beider Teams."
+      "begruendung": "Derbi Madrileno tor-arm im Metropolitano. CL-Reise-Belastung beider Teams.",
+      "rang": 8
     },
     {
       "id": "et-09",
@@ -713,7 +724,8 @@
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
       "spiel_label": "Fulham vs Manchester United",
-      "begruendung": "DC-Goldgrube. United-Auswaerts-Schwaeche + Craven-Cottage-Bremser."
+      "begruendung": "DC-Goldgrube. United-Auswaerts-Schwaeche + Craven-Cottage-Bremser.",
+      "rang": 9
     },
     {
       "id": "et-10",
@@ -724,7 +736,8 @@
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
       "spiel_label": "Fiorentina vs Napoli",
-      "begruendung": "DC-Goldgrube. Napoli mit CL-Reise + Verletzungspech, Fiorentina im Vanoli-Moment."
+      "begruendung": "DC-Goldgrube. Napoli mit CL-Reise + Verletzungspech, Fiorentina im Vanoli-Moment.",
+      "rang": 10
     },
     {
       "id": "et-11",
@@ -735,7 +748,8 @@
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
       "spiel_label": "Leeds vs Crystal Palace",
-      "begruendung": "Beide physisch/defensiv-orientiert."
+      "begruendung": "Beide physisch/defensiv-orientiert.",
+      "rang": 11
     },
     {
       "id": "et-12",
@@ -746,7 +760,8 @@
       "einsatz_euro": 12.0,
       "empfohlener_einsatz_prozent": 1.2,
       "spiel_label": "Leverkusen vs Leipzig",
-      "begruendung": "BTTS-JA-Goldgrube. Beide offensiv im Aufbruch."
+      "begruendung": "BTTS-JA-Goldgrube. Beide offensiv im Aufbruch.",
+      "rang": 12
     }
   ],
   "kombis": [
@@ -777,7 +792,7 @@
           "spiel_id": "2026-09-20-om-psg",
           "spiel_label": "Marseille vs PSG",
           "markt": "PSG oder Remis (Doppelte Chance)",
-          "quote": 1.20,
+          "quote": 1.2,
           "kategorie": "value"
         }
       ],
@@ -803,7 +818,7 @@
           "spiel_id": "2026-09-20-lev-lei",
           "spiel_label": "Leverkusen vs Leipzig",
           "markt": "Ueber 2.5 Tore",
-          "quote": 1.70,
+          "quote": 1.7,
           "kategorie": "value"
         },
         {
@@ -817,7 +832,7 @@
           "spiel_id": "2026-09-20-fio-nap",
           "spiel_label": "Fiorentina vs Napoli",
           "markt": "Beide Teams treffen",
-          "quote": 1.50,
+          "quote": 1.5,
           "kategorie": "wackel"
         }
       ],
@@ -827,8 +842,8 @@
       "id": "kombi-risk",
       "kategorie": "risk",
       "titel": "Risiko-Kombi (Underdog-DC + Totals)",
-      "gesamtquote": 17.09,
-      "rechnung": "2.40 x 2.20 x 1.85 x 1.75 = 17.09",
+      "gesamtquote": 8.19,
+      "rechnung": "1.75 x 1.70 x 1.70 x 1.62 = 8.19",
       "einsatz_euro": 2.5,
       "empfohlener_einsatz_prozent": 0.25,
       "beine": [
@@ -843,14 +858,14 @@
           "spiel_id": "2026-09-20-om-psg",
           "spiel_label": "Marseille vs PSG",
           "markt": "Ueber 2.5 Tore",
-          "quote": 1.70,
+          "quote": 1.7,
           "kategorie": "wackel"
         },
         {
           "spiel_id": "2026-09-20-ful-mun",
           "spiel_label": "Fulham vs Manchester United",
           "markt": "Beide Teams treffen",
-          "quote": 1.70,
+          "quote": 1.7,
           "kategorie": "wackel"
         },
         {
@@ -867,8 +882,8 @@
       "id": "kombi-moonshot",
       "kategorie": "moonshot",
       "titel": "Moonshot-Kombi (100x+ Lotterie)",
-      "gesamtquote": 129.6,
-      "rechnung": "4.50 x 3.20 x 3.60 x 2.50 = 129.60",
+      "gesamtquote": 63.89,
+      "rechnung": "2.75 x 3.20 x 3.30 x 2.20 = 63.89",
       "einsatz_euro": 1.0,
       "empfohlener_einsatz_prozent": 0.1,
       "beine": [
@@ -883,21 +898,21 @@
           "spiel_id": "2026-09-20-fio-nap",
           "spiel_label": "Fiorentina vs Napoli",
           "markt": "Sieg Fiorentina (90 Min)",
-          "quote": 3.20,
+          "quote": 3.2,
           "kategorie": "wackel"
         },
         {
           "spiel_id": "2026-09-20-ful-mun",
           "spiel_label": "Fulham vs Manchester United",
           "markt": "Sieg Fulham (90 Min)",
-          "quote": 3.30,
+          "quote": 3.3,
           "kategorie": "wackel"
         },
         {
           "spiel_id": "2026-09-20-lee-cry",
           "spiel_label": "Leeds vs Crystal Palace",
           "markt": "Ueber 2.5 Tore",
-          "quote": 2.20,
+          "quote": 2.2,
           "kategorie": "wackel"
         }
       ],
