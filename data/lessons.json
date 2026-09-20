@@ -3181,6 +3181,30 @@
       "kategorie": "HR09-19-4 DC-1X-Goldgrube 2/3 heute - Muster halt (74.4% / +9.8%) 8c",
       "lesson": "Doppelte-Chance-1X (Heim oder Remis) heute: Bayern DC @1.03 gewonnen (7:0), Monaco DC @1.15 gewonnen (2:1), Espanyol DC @1.30 verloren (1:3). 2 von 3 = 66% Hit heute, deckt sich mit rolling Goldgrube (statistik.json fuehrt DC 1X mit hoher Hitrate). Blueprint bestaetigt: DC 1X als SAFE-Kern bei Heim-Favoriten <=1.20 Sieg-Quote greift. Warnung: bei Heim-Sieg-Quote >1.60 wie Espanyol (2.05) ist DC 1X @1.30 kein SAFE mehr, sondern echter VALUE mit Verlustrisiko - Espanyol-Verlust bestaetigt dass die Quote 1.30 fuer DC 1X eher WACKEL-nah ist wenn der Sieg-Quote-Anker >2.0 liegt. Konkret fuer naechste Dossiers: DC 1X @<=1.15 fuer Klar-Favoriten (Sieg-Quote <=1.30) = SAFE, DC 1X 1.16-1.30 fuer Wackel-Favoriten = VALUE mit realem Kipp-Risiko, kein SAFE.",
       "bezug_spiel_id": "2026-09-18-esp-elc"
+    },
+    {
+      "datum": "2026-09-20",
+      "kategorie": "8b Zeitfenster-Hartregel muss bei falschem Anstoss-Datum greifen",
+      "lesson": "Atletico-Real-Madrid war im 2026-09-19-Dossier mit Anstoss 21:00 gefuehrt - laut FoxSports, Flashscore und ESPN wurde das Derby aber erst am 20.09.2026 gespielt. validate_datum_scope in fix_schema.py greift nur auf das anstoss-Feld im Dossier, kann falsche Anstoss-Zeiten aus der Recherche nicht erkennen. Konsequenz: 3 offene Tipps + 2 Kombi-Beine (Risk + Moonshot) blockiert. Recherche muss Anstoss gegen Verband-Seite gegenchecken - LaLiga-Kalender oder realmadrid.com waren im saison_kontext.quellen[] genannt, wurden aber nicht als Datum-Quelle genutzt.",
+      "bezug_spiel_id": "2026-09-19-atm-rma"
+    },
+    {
+      "datum": "2026-09-20",
+      "kategorie": "8f Drehung Roma-Inter (Big-Match, 2:0-HZ-Fuehrung gedreht)",
+      "lesson": "Roma fuehrte 2:0 zur Halbzeit nach Kone-Doppelpack, Inter drehte innerhalb von 7 Minuten (Lautaro 47' und 54') zum 2:2. Klassisches Drehungs-Muster im Big-Match - 2:0-HZ-Fuehrung ist bei Top-Duellen kein sicheres Polster. Fuer Halbzeit-Endstand-Tipps (Roma/Roma) und Ueber 3.5 Tipps in Big-Matches: HZ-Fuehrungs-Praemisse abschlagen wenn beide Teams offensive Klasse haben. Rom-int-1 (Inter DC) hat davon profitiert.",
+      "bezug_spiel_id": "2026-09-19-rom-int"
+    },
+    {
+      "datum": "2026-09-20",
+      "kategorie": "8i Backup-Stuermer verwertet nicht - Woltemade-Wissa",
+      "lesson": "Torschuetzen-Tipp Woltemade @1.95 verloren - Woltemade blieb ohne Tor gegen Aufsteiger Hull, sein Backup Wissa verschoss einen Elfmeter vor der Pause. Willock und Hall trafen in Min 3 und 7 statt. Muster: 65-Mio-Neuzugang laeuft sich noch warm, direkte Torschuss-Aktion vom Mittelfeld holt die Punkte. Torschuetzen-Tipps auf frisch integrierte Solo-9er in den ersten Wochen defensiver ansetzen - bevorzugen Ueber 2.5 als generisches Chance-Volumen-Signal statt Solo-9er-Wette.",
+      "bezug_spiel_id": "2026-09-19-new-hul"
+    },
+    {
+      "datum": "2026-09-20",
+      "kategorie": "HR22 Aufsteiger-Blowout-Praemisse gebrochen - Coventry gewinnt in Nottingham",
+      "lesson": "Aufsteiger-Duell nfo-cov: Coventry siegte 0:1 durch Dasilva-Tor im City Ground - Forests erster Punktverlust gegen einen Aufsteiger seit langem. Aufsteiger-Blowout-Muster wurde in 3/3 Aufsteiger-Duellen dieser Woche gebrochen (Nottingham verloren, Newcastle nur 2:1 statt 3:0, Hull kam auf 2:1). Konsequenz: DC-1X-Kombis mit Aufsteiger-Duellen als Fundament sind riskanter als die Statistik-Goldgrube (72.7% Hit) suggeriert - die alte Blowout-Praemisse braucht ein Update, Aufsteiger 26/27 (Hull/Coventry) sind organisierter/tiefer stehend als Vorgaenger. Kombi-safe (Newcastle+Forest+Frankfurt-DC) verlor an Forest-Bein.",
+      "bezug_spiel_id": "2026-09-19-nfo-cov"
     }
   ]
 }

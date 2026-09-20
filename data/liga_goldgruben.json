@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-19T06:14:11+00:00",
+  "stand": "2026-09-20T06:12:22+00:00",
   "kriterium": "ROI > 15.0% ODER (Trefferquote >= 65.0% UND ROI > 0%) bei min. 5 Tipps",
   "wirkung": "Schema-Mapper bestaetigt SAFE-Tipps in diesen Ligen. Andere SAFE-Tipps werden auf VALUE downgegradet wenn der Markt-Typ nicht in markt_goldgruben.json ist (Hebel C ROI-Sanierung 04.05.).",
   "ligen": [
@@ -37,6 +37,13 @@
       "trefferquote": 40.0,
       "roi_prozent": 62.0,
       "netto": 3.1
+    },
+    {
+      "liga": "Premier League 2026/27 - Matchweek 5",
+      "tipps": 8,
+      "trefferquote": 25.0,
+      "roi_prozent": 41.2,
+      "netto": 3.3
     },
     {
       "liga": "FIFA World Cup 2026 - Gruppe I - Spieltag 1",
