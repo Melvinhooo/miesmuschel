@@ -104,13 +104,14 @@
       "tipps": [
         {
           "id": "atm-ray-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Atletico oder Remis (Doppelte Chance 1X)",
           "quote": 1.25,
           "edge_prozent": 4.5,
-          "begruendung": "Goldgrube DC 1X (75%/+29.9% ROI lt markt_goldgruben.json). Rayo hat letzte 3 Metropolitano-Besuche entweder verloren oder remis. Einsatz 15€ (1.5%). Bei bet365 live pruefen.",
+          "begruendung": "Goldgrube DC 1X (75%/+29.9% ROI lt markt_goldgruben.json). Rayo hat letzte 3 Metropolitano-Besuche entweder verloren oder remis. Einsatz 15€ (1.5%). Bei bet365 live pruefen. [Auto: Saison-Kontext-Sanity - Belastungs-Warnung (Recovery) -> value->wackel]",
           "faire_quote": 1.19,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "atm-ray-2",
@@ -525,7 +526,8 @@
       "quote": 1.65,
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Volumen-9er in H2H gegen Aufsteiger stark - Goldgrube-Markt Torschuetzen (+24.4% ROI)."
+      "begruendung": "Volumen-9er in H2H gegen Aufsteiger stark - Goldgrube-Markt Torschuetzen (+24.4% ROI).",
+      "rang": 1
     },
     {
       "spiel_id": "2026-09-21-lev-rma",
@@ -535,7 +537,8 @@
       "quote": 1.55,
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "LaLiga-Torschuetzenkoenig-Anwaerter, Form-Edge nach 4 Ligatoren in 4 Spielen."
+      "begruendung": "LaLiga-Torschuetzenkoenig-Anwaerter, Form-Edge nach 4 Ligatoren in 4 Spielen.",
+      "rang": 2
     },
     {
       "spiel_id": "2026-09-21-atm-ray",
@@ -545,7 +548,8 @@
       "quote": 1.85,
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Simeone-Metropolitano Zu-Null-Muster (4/6 Derbys Unter 2.5)."
+      "begruendung": "Simeone-Metropolitano Zu-Null-Muster (4/6 Derbys Unter 2.5).",
+      "rang": 3
     },
     {
       "spiel_id": "2026-09-21-osa-elc",
@@ -555,7 +559,8 @@
       "quote": 1.65,
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Elche-Sturm-Krise + El-Sadar-Zu-Null-Muster."
+      "begruendung": "Elche-Sturm-Krise + El-Sadar-Zu-Null-Muster.",
+      "rang": 4
     },
     {
       "spiel_id": "2026-09-21-get-ala",
@@ -565,7 +570,8 @@
       "quote": 1.5,
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Grinder-Duell, beide Coaches defensiv - Goldgrube."
+      "begruendung": "Grinder-Duell, beide Coaches defensiv - Goldgrube.",
+      "rang": 5
     },
     {
       "spiel_id": "2026-09-21-sev-vil",
@@ -575,7 +581,8 @@
       "quote": 1.5,
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Villarreal frisch nach 3:1 in Malaga, Sevilla-Aufbau anfaellig."
+      "begruendung": "Villarreal frisch nach 3:1 in Malaga, Sevilla-Aufbau anfaellig.",
+      "rang": 6
     },
     {
       "spiel_id": "2026-09-21-lev-rma",
@@ -585,7 +592,8 @@
       "quote": 1.42,
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Klassen-Favorit, aber keine 2:0-Insurance in LaLiga - VALUE statt SAFE."
+      "begruendung": "Klassen-Favorit, aber keine 2:0-Insurance in LaLiga - VALUE statt SAFE.",
+      "rang": 7
     },
     {
       "spiel_id": "2026-09-21-ovi-fcb",
@@ -595,7 +603,8 @@
       "quote": 1.3,
       "einsatz_euro": 10.0,
       "empfohlener_einsatz_prozent": 1.0,
-      "begruendung": "Klassen-Favorit auswaerts vs Aufsteiger, aber Falle-Vorfeld Nations-Break - kein SAFE."
+      "begruendung": "Klassen-Favorit auswaerts vs Aufsteiger, aber Falle-Vorfeld Nations-Break - kein SAFE.",
+      "rang": 8
     },
     {
       "spiel_id": "2026-09-21-get-ala",
@@ -605,7 +614,8 @@
       "quote": 2.3,
       "einsatz_euro": 10.0,
       "empfohlener_einsatz_prozent": 1.0,
-      "begruendung": "Goldgrube BTTS-NEIN in Grinder-Duell."
+      "begruendung": "Goldgrube BTTS-NEIN in Grinder-Duell.",
+      "rang": 9
     },
     {
       "spiel_id": "2026-09-21-atm-ray",
@@ -615,7 +625,8 @@
       "quote": 1.25,
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Goldgrube DC 1X + Metropolitano-Heim-Bank."
+      "begruendung": "Goldgrube DC 1X + Metropolitano-Heim-Bank.",
+      "rang": 10
     }
   ],
   "kombis": [
@@ -754,8 +765,8 @@
       "typ": "moonshot",
       "kategorie": "moonshot",
       "titel": "Moonshot ~200x - Torschuetzen-Trio + Auswaerts-Underdog-Duo + BTTS-Nein",
-      "gesamtquote": 206.83,
-      "rechnung": "1.55 x 1.65 x 1.8 x 4.8 x 4.8 x 1.95 = 206.83",
+      "gesamtquote": 22.1,
+      "rechnung": "1.55 x 1.65 x 1.80 x 4.80 = 22.1",
       "einsatz_euro": 1.0,
       "empfohlener_einsatz_prozent": 0.1,
       "beine": [
@@ -781,25 +792,11 @@
           "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-09-21-rso-mal",
-          "spiel_label": "Sociedad vs Mallorca (Underdog)",
-          "markt": "Sieg RCD Mallorca (90 Min)",
-          "quote": 4.8,
-          "kategorie": "moonshot"
-        },
-        {
           "spiel_id": "2026-09-21-ath-gir",
           "spiel_label": "Athletic vs Girona (Underdog)",
           "markt": "Sieg Girona FC (90 Min)",
           "quote": 4.8,
           "kategorie": "moonshot"
-        },
-        {
-          "spiel_id": "2026-09-21-esp-val",
-          "spiel_label": "Espanyol vs Valencia",
-          "markt": "Beide Teams treffen: Nein",
-          "quote": 1.95,
-          "kategorie": "wackel"
         }
       ]
     }
