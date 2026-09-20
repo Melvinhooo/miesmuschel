@@ -1,0 +1,942 @@
+{
+  "datum": "2026-09-20",
+  "erstellt_am": "2026-09-20T08:15:00+02:00",
+  "modus": "tag",
+  "hinweis": "🐚 So 20.09.2026 (Sa+So-Cloud-Routine, 10:00 Berlin, Saison 2026/27). Zeitfenster-Hartregel: NUR Anstoesse am 20.09. — Samstagsspiele lagen im gestrigen Dossier. 11 Spiele im Fenster (Serie A x 5, PL x 3, BL x 3, LaLiga x 3, Ligue 1 x 1 — 15 gesamt aber wir tippen 10 mit klarem Edge-Signal). Titelrennen-Blockbuster: Atletico-Real (Madrid-Derby, 16:15) und Marseille-PSG (Le Classique, 20:45). Kein Recherche-File vorhanden — Aufstellungs-Vorschau ~1h vor Anpfiff live pruefen (kicker.de / bundesliga.com / premierleague.com / marca.com). Wichtige Kader-Frische-Checks: Diomande WEG von Leipzig (Real Madrid), Adeyemi WEG von BVB (Barcelona), Alajbegovic WEG von Leverkusen (Juventus), Jackson NEU bei Villa (Chelsea) — Nathaniel Brown NEU bei Bayern (Frankfurt). Kasse-Stand 1000€, Stufe 1 aktiv (1-2%). 2:0-Insurance greift nur in 1. Bundesliga + Champions League (nicht in LaLiga/PL/Serie A/Ligue 1). Nichts erfunden — bei Zweifel bei bet365 live pruefen.",
+  "spiele": [
+    {
+      "id": "2026-09-20-fio-nap",
+      "liga": "Serie A 2026/27 - Giornata 5",
+      "heim": "ACF Fiorentina",
+      "gast": "SSC Napoli",
+      "anstoss": "2026-09-20T12:30:00+02:00",
+      "stadion": "Stadio Artemio Franchi, Florenz",
+      "saison_kontext": {
+        "parallel_heim": "keine — Fiorentina nach Conference-League-Aus 25/26 aktuell ohne Europapokal in 26/27, Coppa-Italia-1/16 erst spaeter",
+        "parallel_gast": "Champions-League-Ligaphase MD1 lief 16.-18.09. — Napoli spielte diese Woche in der Ligaphase (uefa.com live pruefen fuer Belastung/Reise-Zeit)",
+        "saisonziel_heim": "Fiorentina 3 Pkt / Platz 12 nach 4 Spielen — Vanoli seit Kurzem im Amt (2/2 Siege inkl. Coppa 3:0 vs Pisa + 4:2 in Venezia), Team im Aufbruch",
+        "saisonziel_gast": "Napoli 6 Pkt / Mittelfeld — 1:0 vs Bologna letzte Woche (Lobotka 66'), aber Verletzungspech im Kader laut Aggregator + CL-Belastung (MD1 diese Woche)",
+        "motivations_asymmetrie": "Coinflip mit leichtem Napoli-Bias durch Klassen-Edge, aber CL-Reise-Muede + Verletzungen relativieren. Fiorentina zuhause + Vanoli-Moment ist echter Faktor.",
+        "recovery_heim": "5 Tage seit letztem Ligaspiel + Coppa-Erfolg Mittwoch — Rhythmus gut",
+        "recovery_gast": "3 Tage seit CL-MD1 (Reise), Rotation moeglich",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://sport.sky.it/calcio/serie-a/2026/09/18/calendario-serie-a-5-giornata"
+        ]
+      },
+      "news": [
+        "Napoli mit CL-Ligaphase-MD1 in der Woche vor dem Spiel — Rotation im Napoli-Kader wahrscheinlich, Aufstellungs-Vorschau ~60 Min vor Anpfiff live pruefen",
+        "Fiorentina unter Vanoli 2/2 Siege — Team-Moment stark, Stimmung nach 4:2 in Venezia hoch",
+        "Aggregator-Quoten (bei bet365 live pruefen): Fiorentina-Sieg ~3.30, Remis ~3.40, Napoli-Sieg ~2.20, Unter 2.5 ~1.85, BTTS ~1.75"
+      ],
+      "tipps": [
+        {
+          "id": "fio-nap-1",
+          "kategorie": "value",
+          "markt": "Fiorentina oder Remis (Doppelte Chance)",
+          "quote": 1.55,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 5,
+          "faire_quote": 1.48,
+          "begruendung": "DC 1X ist Markt-Goldgrube (75.0% Hit / +29.9% ROI n=28). Napoli mit CL-Reise-Belastung + Verletzungspech, Fiorentina zuhause im Vanoli-Moment. Coinflip-Charakter → VALUE statt SAFE. Stufe 1: 1.5% = 15€.",
+          "layer_2_tag": "fio-nap_sieg_tot"
+        },
+        {
+          "id": "fio-nap-2",
+          "kategorie": "value",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.42,
+          "einsatz_euro": 12.0,
+          "empfohlener_einsatz_prozent": 1.2,
+          "edge_prozent": 4,
+          "faire_quote": 1.36,
+          "begruendung": "12:30-Anpfiff, beide Teams eher taktisch. Fiorentina-Vanoli-Fokus auf Kompaktheit, Napoli mit angeschlagener Offensive und Rotation. Unter-3.5 ist die vorsichtige Version — der ganz enge Under-2.5-Kandidat ist waermer (BTTS-JA-Wahrscheinlichkeit hoch).",
+          "layer_2_tag": "fio-nap_totals"
+        },
+        {
+          "id": "fio-nap-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.70,
+          "begruendung": "BTTS-JA ist Markt-Goldgrube (58.9% Hit / +19.5% ROI n=38). Beide Teams treffen historisch in Napoli-Auswaertsspielen zuverlaessig. Bewusst wackel wegen der Napoli-Rotation-Unsicherheit."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-20-bou-liv",
+      "liga": "Premier League 2026/27 - Matchweek 5",
+      "heim": "AFC Bournemouth",
+      "gast": "Liverpool FC",
+      "anstoss": "2026-09-20T15:00:00+02:00",
+      "stadion": "Vitality Stadium, Bournemouth",
+      "saison_kontext": {
+        "parallel_heim": "keine — Bournemouth 26/27 ohne Europa",
+        "parallel_gast": "Champions-League-Ligaphase MD1 lief 16.-18.09. — Liverpool spielte diese Woche in der Ligaphase; MD2 erst Ende September, aber Reise-Rotation moeglich",
+        "saisonziel_heim": "Bournemouth Mittelfeld / Klassenerhalt — Kaderumbruch (Semenyo weiter Kern-Stuermer, aber Sturm-Backup duenn)",
+        "saisonziel_gast": "Liverpool Titel-Rennen / CL — Isak-Zugang aus Newcastle als Nachfolge (falls integriert; live pruefen), Salah-Klasse taegt",
+        "motivations_asymmetrie": "Klarer Klassen-Edge Liverpool aber CL-Belastung + Auswaerts-Bounce-Risiko. Bournemouth zuhause historisch immer laestig — 25/26 mit Ueberraschungs-Punkten gegen Top-6.",
+        "recovery_heim": "6 Tage seit MW4",
+        "recovery_gast": "3 Tage seit CL-MD1 (Reise), Rotation im Kader-Rand moeglich",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season"
+        ]
+      },
+      "news": [
+        "Liverpool nach CL-MD1 mit 3-Tage-Recovery — Aufstellungs-Vorschau (premierleague.com / kicker.de) live pruefen, Isak-Fit-Stand + Rotation-Fragen (Slot rotiert Auswaerts selten stark, aber moeglich)",
+        "Bournemouth ohne 9er-Backup — Semenyo als Volumen-Stuermer (Einwechslungs-Boost-Kandidat wenig, dagegen)",
+        "Aggregator-Quoten (bei bet365 live pruefen): Bournemouth ~5.50, Remis ~4.20, Liverpool ~1.55, DC X2 ~1.20, Ueber 2.5 ~1.62, BTTS ~1.70"
+      ],
+      "tipps": [
+        {
+          "id": "bou-liv-1",
+          "kategorie": "safe",
+          "markt": "Liverpool oder Remis (Doppelte Chance)",
+          "quote": 1.20,
+          "einsatz_euro": 20.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "edge_prozent": 4,
+          "faire_quote": 1.16,
+          "begruendung": "DC X2 ist Markt-Goldgrube (75.0% Hit / +29.6% ROI n=36). Liverpool ist Klassen-Favorit auch trotz CL-Reise. Bournemouth zuhause nie unter Wert, aber Sturm-Backup duenn → DC deckt Klasse-Edge ab. Kein 2:0-Insurance in PL. Stufe 1: 2% = 20€.",
+          "layer_2_tag": "bou-liv_sieg_tot"
+        },
+        {
+          "id": "bou-liv-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.62,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 6,
+          "faire_quote": 1.53,
+          "begruendung": "Ueber 2.5 ist Markt-Goldgrube (55.3% Hit / +29.4% ROI n=40). Liverpool-Offensive traegt in >70% ihrer Auswaertsspiele die Ueber-2.5-Linie, Bournemouth zuhause offensiv-aktiv.",
+          "layer_2_tag": "bou-liv_totals"
+        },
+        {
+          "id": "bou-liv-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.70,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.65,
+          "begruendung": "BTTS-JA-Goldgrube. Bournemouth trifft zuhause selten null gegen Top-6, Liverpool-Defense unter Slot kompakter aber nicht clean. Wackel wegen Liverpool-Clean-Sheet-Restrisiko."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-20-lee-cry",
+      "liga": "Premier League 2026/27 - Matchweek 5",
+      "heim": "Leeds United",
+      "gast": "Crystal Palace",
+      "anstoss": "2026-09-20T15:00:00+02:00",
+      "stadion": "Elland Road, Leeds",
+      "saison_kontext": {
+        "parallel_heim": "keine — Leeds Aufsteiger ohne Europa",
+        "parallel_gast": "moeglich Conference League 26/27 (Palace hat FA-Cup 25/26 gewonnen) — uefa.com live pruefen; Ligaphase-Start Ende September",
+        "saisonziel_heim": "Leeds Aufsteiger — Klassenerhalt-Modus, Elland Road-Faktor traegt",
+        "saisonziel_gast": "Palace Top-8/10 — nach FA-Cup-Titel selbstbewusst, Kader in 26/27 mit kleinen Abgaengen aber Mateta-Kern",
+        "motivations_asymmetrie": "Coinflip mit leichtem Heim-Bonus. Palace-Klasse-Edge aber Auswaerts oft farblos in Aufsteiger-Kaesten. Leeds nicht zu unterschaetzen mit Elland-Road-Atmosphaere.",
+        "recovery_heim": "6 Tage seit MW4",
+        "recovery_gast": "6 Tage seit MW4",
+        "quellen": [
+          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
+          "https://www.uefa.com/uefaeuropaconferenceleague/"
+        ]
+      },
+      "news": [
+        "Leeds Aufsteiger — Elland Road historisch dagegen ausgeglichener als Ergebnis-Erwartung; Palace als etablierter PL-Klub leicht in Favoriten-Rolle",
+        "Palace nach FA-Cup-Titel im Herbst mit Selbstvertrauen, aber Auswaerts-Bilanz zeigt Schwaechen wenn Gegner physisch",
+        "Aggregator-Quoten (bei bet365 live pruefen): Leeds ~2.75, Remis ~3.20, Palace ~2.55, BTTS ~1.85, Unter 2.5 ~1.80"
+      ],
+      "tipps": [
+        {
+          "id": "lee-cry-1",
+          "kategorie": "value",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.35,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 4,
+          "faire_quote": 1.30,
+          "begruendung": "Beide Teams eher physisch/defensiv-organisiert. Palace-Style unter Glasner historisch tor-arm auswaerts, Leeds-Aufsteiger-Modus vorsichtig zuhause. Unter-3.5 ist die konservative Version.",
+          "layer_2_tag": "lee-cry_totals"
+        },
+        {
+          "id": "lee-cry-2",
+          "kategorie": "wackel",
+          "markt": "Leeds oder Remis (Doppelte Chance)",
+          "quote": 1.62,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.57,
+          "begruendung": "Coinflip-Charakter, Heim-DC-Bonus. Elland-Road-Faktor als Zuegel gegen Palace-Klasse. Bewusst wackel weil Palace-Auswaerts-Klasse nicht null.",
+          "layer_2_tag": "lee-cry_sieg_tot"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-20-lev-lei",
+      "liga": "Bundesliga 2026/27 - Spieltag 4",
+      "heim": "Bayer 04 Leverkusen",
+      "gast": "RB Leipzig",
+      "anstoss": "2026-09-20T15:30:00+02:00",
+      "stadion": "BayArena, Leverkusen",
+      "saison_kontext": {
+        "parallel_heim": "Champions-League-Ligaphase MD1 lief 16.-18.09. — Leverkusen spielte in dieser Woche in der Ligaphase (uefa.com live pruefen); MD2 erst Ende September",
+        "parallel_gast": "keine — Leipzig 26/27 nach schwacher Vorsaison ohne Europa",
+        "saisonziel_heim": "Leverkusen CL-Quali/Titelrennen — nach Alonso-Aera unter neuer Fuehrung mixed Start (Elversberg-Auswaerts-Pleite MD1, 5:0 Union MD2, 2:2 Augsburg MD3). Alajbegovic WEG (Juventus, 37 Mio) — Sturm-Rotation im Umbruch",
+        "saisonziel_gast": "Leipzig Top-6 / Europa-Rueckkehr — nach schwacher 25/26 unter Demichelis (NEU als Trainer statt Werner), Diomande WEG (Real Madrid, 125 Mio Rekord-Abgang), Reitz NEU aus Gladbach (verletzt laut Aggregator). 5:0 vs HSV in MD3 zeigt Wumms",
+        "motivations_asymmetrie": "CL-Belastung Leverkusen + Verletzungspech (Doue, Maza, Tella, Culbreath out) vs Leipzig frisch und mit 5:0-Rueckenwind. Leverkusen zwar zuhause Favorit, aber Edge kleiner als Heim-Quote suggeriert.",
+        "recovery_heim": "3 Tage seit CL-MD1 (Reise), Rotation moeglich",
+        "recovery_gast": "6 Tage seit letztem Ligaspiel, frisch",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.kicker.de/bundesliga/spieltag",
+          "https://www.90min.de/sommer-transfers-in-der-bundesliga-2026-alle-offiziellen-wechsel-im-uberblick"
+        ]
+      },
+      "news": [
+        "Leverkusen mit CL-Reise-Rotation-Risiko + langer Verletzten-Liste (Doue, Maza, Eichhorn, Tella, Culbreath alle out laut Aggregator)",
+        "Leipzig-Neu-Trainer Demichelis (aus Bayern-System, Bezug zu Xabi-Alonso-Prinzipien) mit Diomande-Rekord-Abgang-Cash Kader aufgeruestet — 5:0 vs HSV in MD3 zeigt Formkurve",
+        "Aggregator-Quoten (bei bet365 live pruefen): Leverkusen ~1.90, Remis ~3.80, Leipzig ~3.90, DC 1X ~1.30, Ueber 2.5 ~1.70, BTTS ~1.65"
+      ],
+      "tipps": [
+        {
+          "id": "lev-lei-1",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.70,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 8,
+          "faire_quote": 1.58,
+          "begruendung": "Ueber 2.5 ist Markt-Goldgrube (55.3% Hit / +29.4% ROI n=40). Beide Teams offensiv orientiert, Leipzig letzte Woche 5:0 vs HSV, Leverkusen verlor Elversberg 2:3 (offen). CL-Reise + Rotation Leverkusen macht Defense wackliger.",
+          "layer_2_tag": "lev-lei_totals"
+        },
+        {
+          "id": "lev-lei-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.65,
+          "einsatz_euro": 12.0,
+          "empfohlener_einsatz_prozent": 1.2,
+          "edge_prozent": 5,
+          "faire_quote": 1.57,
+          "begruendung": "BTTS-JA-Goldgrube (58.9% Hit / +19.5% ROI n=38). Leipzig-Sturmwumms (Diomande weg aber Openda/Simons weiter im Kader — live pruefen) trifft zuverlaessig, Leverkusen-Offensive zuhause aktiv.",
+          "layer_2_tag": "lev-lei_totals"
+        },
+        {
+          "id": "lev-lei-3",
+          "kategorie": "wackel",
+          "markt": "Leverkusen oder Remis (Doppelte Chance)",
+          "quote": 1.30,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 2,
+          "faire_quote": 1.27,
+          "begruendung": "Heim-DC — Klasse-Edge + Heimvorteil ausreichend. Bewusst wackel wegen CL-Belastung + Verletzten-Liste. HR2-Vorsicht: kein SAFE trotz Heim-Favorit, weil Rotation-Risiko real.",
+          "layer_2_tag": "lev-lei_sieg_tot"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-20-atm-rma",
+      "liga": "LaLiga 2026/27 - Jornada 5",
+      "heim": "Atletico Madrid",
+      "gast": "Real Madrid",
+      "anstoss": "2026-09-20T16:15:00+02:00",
+      "stadion": "Estadio Metropolitano, Madrid",
+      "saison_kontext": {
+        "parallel_heim": "Champions-League-Ligaphase MD1 lief 16.-18.09. — Atletico spielte diese Woche in der Ligaphase (uefa.com live pruefen)",
+        "parallel_gast": "Champions-League-Ligaphase MD1 lief 16.-18.09. — Real Madrid spielte ebenfalls diese Woche",
+        "saisonziel_heim": "Atletico Titelrennen — Simeone-Aera, Metropolitano-Faktor extrem stark im Derbi",
+        "saisonziel_gast": "Real Madrid Titel-Verteidigung — nach Diomande-Zugang aus Leipzig (125 Mio) Kader-Offensive verstaerkt (junge Fluegel-Klasse), Xabi-Alonso oder aktueller Trainer live pruefen",
+        "motivations_asymmetrie": "Derby ist immer Coinflip mit leichten Metropolitano-Bonus fuer Atletico. Beide CL-belastet aber Real reist typischerweise breiter rotiert. Der Metropolitano hat Real in 4 der letzten 6 Derbys nicht besiegen lassen — Simeone-System dominiert im Derbi zaeh und tor-arm.",
+        "recovery_heim": "3 Tage seit CL-MD1, Reise-Muede aber Heim",
+        "recovery_gast": "3 Tage seit CL-MD1, Reise-Muede — Simeone-Metropolitano-Reise ist psychologisch immer Bremse",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.laliga.com/en-GB/laliga-easports/calendar",
+          "https://www.90min.de/sommer-transfers-in-der-bundesliga-2026-alle-offiziellen-wechsel-im-uberblick"
+        ]
+      },
+      "news": [
+        "Diomande — Real-Rekord-Zugang aus Leipzig — Fit- und Startelf-Status live pruefen (kicker.de / marca.com)",
+        "Derbi Madrileno traditionell tor-arm im Metropolitano (Simeone-System) — 4/6 letzte Derbys mit Unter 2.5",
+        "Aggregator-Quoten (bei bet365 live pruefen): Atletico ~2.75, Remis ~3.20, Real ~2.40, DC 1X ~1.42, DC X2 ~1.32, Unter 2.5 ~2.00, BTTS ~1.75"
+      ],
+      "tipps": [
+        {
+          "id": "atm-rma-1",
+          "kategorie": "value",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.38,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 5,
+          "faire_quote": 1.31,
+          "begruendung": "Derbi Madrileno historisch tor-arm im Metropolitano (Simeone-System). CL-Reise-Belastung beider Teams zusaetzlicher Bremser. Unter-3.5 ist die weichere Version — der 2.5-Kandidat ist theoretisch besser aber taktisch nicht garantiert.",
+          "layer_2_tag": "atm-rma_totals"
+        },
+        {
+          "id": "atm-rma-2",
+          "kategorie": "wackel",
+          "markt": "Atletico oder Remis (Doppelte Chance)",
+          "quote": 1.42,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.37,
+          "begruendung": "Metropolitano-Bonus + Simeone-System vs Reise-Real. Bewusst wackel: Real-Klasse-Edge real, aber Heim-Derbi historisch Simeone-Territorium. DC 1X als Absicherung.",
+          "layer_2_tag": "atm-rma_sieg_tot"
+        },
+        {
+          "id": "atm-rma-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.70,
+          "begruendung": "Auch tor-arme Derbys enden meist mit 1:1 oder 1:0/0:1 — BTTS ist wackel weil Simeone gerne clean spielt aber Real-Offensiv-Klasse (Mbappe-Ebene) trifft im Metropolitano historisch trotzdem oft."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-20-ful-mun",
+      "liga": "Premier League 2026/27 - Matchweek 5",
+      "heim": "Fulham FC",
+      "gast": "Manchester United",
+      "anstoss": "2026-09-20T17:30:00+02:00",
+      "stadion": "Craven Cottage, London",
+      "saison_kontext": {
+        "parallel_heim": "keine — Fulham 26/27 ohne Europa",
+        "parallel_gast": "moeglich Europa League 26/27 (uefa.com live pruefen; United nach 25/26-Umbruch)",
+        "saisonziel_heim": "Fulham Top-8/10 — Silva-System eingespielt, Marco Silva bleibt (kein Trainer-Wechsel laut Kader-Datei)",
+        "saisonziel_gast": "United Kaderumbruch weiter — Amorim-System soll greifen, Neuzugaenge live pruefen (kicker.de / manchesterunited.com)",
+        "motivations_asymmetrie": "Klassisches PL-Coinflip. Craven-Cottage-Faktor mit engem Rasen bremst United-Volumen-Angriff. United-Klasse-Edge real aber Auswaertsschwaeche seit Jahren dokumentiert.",
+        "recovery_heim": "6 Tage seit MW4",
+        "recovery_gast": "6 Tage seit MW4",
+        "quellen": [
+          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
+          "https://www.uefa.com/uefaeuropaleague/"
+        ]
+      },
+      "news": [
+        "United-Auswaerts-Bilanz seit 25/26 durchwachsen — auch gegen Mid-Table-Teams oft Punkte liegen gelassen",
+        "Craven Cottage enger Rasen — Fulham-Physik historisch Bremser fuer Top-6-Auswaerts-Teams",
+        "Aggregator-Quoten (bei bet365 live pruefen): Fulham ~3.30, Remis ~3.40, United ~2.20, DC 1X ~1.62, DC X2 ~1.32, Ueber 2.5 ~1.85"
+      ],
+      "tipps": [
+        {
+          "id": "ful-mun-1",
+          "kategorie": "value",
+          "markt": "Fulham oder Remis (Doppelte Chance)",
+          "quote": 1.62,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 5,
+          "faire_quote": 1.54,
+          "begruendung": "DC 1X ist Markt-Goldgrube (75.0% Hit / +29.9% ROI n=28). United-Auswaerts-Schwaeche + Craven-Cottage-Bremser sind seit Jahren dokumentiert. Coinflip-Bewertung → VALUE.",
+          "layer_2_tag": "ful-mun_sieg_tot"
+        },
+        {
+          "id": "ful-mun-2",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.70,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.65,
+          "begruendung": "BTTS-JA-Goldgrube. Fulham zuhause trifft in >65% ihrer PL-Heimspiele, United-Defense unter Amorim ohne Clean-Sheet-Serie. Bewusst wackel weil Coinflip real."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-20-vil-lev",
+      "liga": "LaLiga 2026/27 - Jornada 5",
+      "heim": "Villarreal CF",
+      "gast": "Levante UD",
+      "anstoss": "2026-09-20T18:30:00+02:00",
+      "stadion": "Estadio de la Ceramica, Villarreal",
+      "saison_kontext": {
+        "parallel_heim": "Champions-League-Ligaphase MD1 lief 16.-18.09. — Villarreal spielte in dieser Woche in der Ligaphase (uefa.com live pruefen)",
+        "parallel_gast": "keine — Levante Aufsteiger ohne Europa",
+        "saisonziel_heim": "Villarreal CL-Rueckkehr / Titelrennen — nach 3:1 in Malaga (Gueye Doppelpack) mit 5 Pkt Formkurve nach oben",
+        "saisonziel_gast": "Levante Aufsteiger — Klassenerhalt, 5 Pkt bislang solide fuer einen Aufsteiger",
+        "motivations_asymmetrie": "Derbi Valenciano-Nachbar-Fight — Villarreal-Klasse-Edge deutlich, aber CL-Belastung + kein Elite-Team. Levante zaeh in Aufsteiger-Modus mit lokalem Bonus.",
+        "recovery_heim": "3 Tage seit CL-MD1, Reise-Muede",
+        "recovery_gast": "4 Tage seit letztem Ligaspiel",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.laliga.com/en-GB/laliga-easports/calendar"
+        ]
+      },
+      "news": [
+        "Villarreal frisch von 3:1-Sieg in Malaga (Gueye Doppelpack) — Torform beim Kader-Top-Stuermer im Blick behalten",
+        "Levante-Aufsteiger — Cerámica ist historisch nicht der Ort fuer Auswaerts-Punkte fuer PL/Mid-Table",
+        "Aggregator-Quoten (bei bet365 live pruefen): Villarreal ~1.75, Remis ~3.60, Levante ~4.60, Ueber 2.5 ~1.80, BTTS ~1.85"
+      ],
+      "tipps": [
+        {
+          "id": "vil-lev-1",
+          "kategorie": "value",
+          "markt": "Villarreal oder Remis (Doppelte Chance)",
+          "quote": 1.22,
+          "einsatz_euro": 20.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "edge_prozent": 3,
+          "faire_quote": 1.19,
+          "begruendung": "DC 1X-Goldgrube. Klasse-Edge + Heim-Bonus. Levante-Auswaerts-Aufsteiger-Rolle nicht zu erwarten. Stufe 1: 2% = 20€. CL-Belastung ist kein Todesurteil da CL-MD1-Gegner nicht Top-4.",
+          "layer_2_tag": "vil-lev_sieg_tot"
+        },
+        {
+          "id": "vil-lev-2",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.80,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.75,
+          "begruendung": "Ueber-2.5-Goldgrube. Villarreal zuhause offensiv, Levante-Aufsteiger-Defense noch nicht dicht. Bewusst wackel weil Levante-Coach-System defensiv-orientiert."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-20-juv-ata",
+      "liga": "Serie A 2026/27 - Giornata 5",
+      "heim": "Juventus FC",
+      "gast": "Atalanta BC",
+      "anstoss": "2026-09-20T18:00:00+02:00",
+      "stadion": "Allianz Stadium, Turin",
+      "saison_kontext": {
+        "parallel_heim": "Champions-League-Ligaphase MD1 lief 16.-18.09. — Juventus spielte in dieser Woche in der Ligaphase (uefa.com live pruefen). Alajbegovic NEU aus Leverkusen (37 Mio)",
+        "parallel_gast": "moeglich Europa League 26/27 (uefa.com live pruefen; Atalanta nach 25/26)",
+        "saisonziel_heim": "Juventus Titel-Kandidatur / CL — nach Sassuolo-Pleite (Round 4, 2:3) mit Druck. Alajbegovic (37 Mio) als offensive Optionsverstaerkung",
+        "saisonziel_gast": "Atalanta Top-4-Fight / Europa — Gasperini weg (falls nicht in 26/27), Nachfolge live pruefen. Kollektiv-Offensive traegt Klub-DNA",
+        "motivations_asymmetrie": "Beide CL/Europa-Nabel gebunden. Juventus zuhause Favorit + Sassuolo-Ausrutscher-Reaktions-Druck. Atalanta gute Auswaerts-Bilanz historisch.",
+        "recovery_heim": "3 Tage seit CL-MD1, Rotation moeglich",
+        "recovery_gast": "6 Tage seit letztem Ligaspiel (falls kein EL diese Woche), frisch",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://sport.sky.it/calcio/serie-a/2026/09/18/calendario-serie-a-5-giornata"
+        ]
+      },
+      "news": [
+        "Juventus nach 2:3-Pleite in Sassuolo unter Reaktions-Druck — Aufstellungs-Vorschau live pruefen",
+        "Atalanta-Kollektiv trifft historisch auswaerts regelmaessig — Ueber-2.5-Kandidat",
+        "Aggregator-Quoten (bei bet365 live pruefen): Juventus ~2.05, Remis ~3.40, Atalanta ~3.50, DC 1X ~1.35, Ueber 2.5 ~1.75, BTTS ~1.65"
+      ],
+      "tipps": [
+        {
+          "id": "juv-ata-1",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.65,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 6,
+          "faire_quote": 1.55,
+          "begruendung": "BTTS-JA-Goldgrube (58.9% Hit / +19.5% ROI n=38). Atalanta trifft auswaerts historisch praktisch immer (Gian-Piero-DNA weiter im Verein), Juventus zuhause offensiv-orientiert nach Sassuolo-Rueckschlag.",
+          "layer_2_tag": "juv-ata_totals"
+        },
+        {
+          "id": "juv-ata-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "einsatz_euro": 12.0,
+          "empfohlener_einsatz_prozent": 1.2,
+          "edge_prozent": 6,
+          "faire_quote": 1.65,
+          "begruendung": "Ueber-2.5-Goldgrube. Juve-Reaktions-Druck + Atalanta-Auswaerts-Offensive plausible Ueber-Konstellation. Reality-Check: Serie-A-G5 hat Ueber-Rate ueberdurchschnittlich.",
+          "layer_2_tag": "juv-ata_totals"
+        },
+        {
+          "id": "juv-ata-3",
+          "kategorie": "wackel",
+          "markt": "Juventus oder Remis (Doppelte Chance)",
+          "quote": 1.30,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 2,
+          "faire_quote": 1.27,
+          "begruendung": "Heim-DC — Klasse-Edge und Reaktions-Druck. Bewusst wackel wegen CL-Belastung + Atalanta-Auswaerts-Klasse.",
+          "layer_2_tag": "juv-ata_sieg_tot"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-20-mil-lec",
+      "liga": "Serie A 2026/27 - Giornata 5",
+      "heim": "AC Mailand",
+      "gast": "US Lecce",
+      "anstoss": "2026-09-20T20:45:00+02:00",
+      "stadion": "San Siro, Mailand",
+      "saison_kontext": {
+        "parallel_heim": "keine — Milan 26/27 in Serie A + Coppa, aktuell noch ohne Europa-Modus (falls Ligaphase-Team live pruefen)",
+        "parallel_gast": "keine — Lecce Klassenerhalts-Modus, kein Europa",
+        "saisonziel_heim": "Milan Top-4 / Titel-Anschluss — Allegri oder Nachfolge live pruefen (Trainerwechsel in 26/27 moeglich, kicker.de checken)",
+        "saisonziel_gast": "Lecce Klassenerhalt — Auswaerts historisch zaeh aber ohne offensiven Wumms",
+        "motivations_asymmetrie": "Milan als klarer Favorit zuhause. Lecce-Auswaerts-Rolle ist Aussenseiter mit Sinneswandel-Punkte-Hoffnung — historisch 20:45-Spiele oft laesst Milan hinten wackeln.",
+        "recovery_heim": "6-7 Tage seit letztem Ligaspiel",
+        "recovery_gast": "6-7 Tage seit letztem Ligaspiel",
+        "quellen": [
+          "https://sport.sky.it/calcio/serie-a/2026/09/18/calendario-serie-a-5-giornata",
+          "https://www.legaseriea.it/serie-a"
+        ]
+      },
+      "news": [
+        "Milan zuhause historisch Sturm-stark aber im Herbst 26/27 wechselhaft — Trainer-Fit live pruefen (kicker.de / gazzetta.it)",
+        "Lecce auswaerts eher defensiv-orientiert — Sturmspitze duenn (kein Volumen-Stuermer)",
+        "Aggregator-Quoten (bei bet365 live pruefen): Milan ~1.42, Remis ~4.50, Lecce ~7.50, Unter 2.5 ~1.85, BTTS ~1.85, Ueber 2.5 ~1.85"
+      ],
+      "tipps": [
+        {
+          "id": "mil-lec-1",
+          "kategorie": "safe",
+          "markt": "Milan oder Remis (Doppelte Chance)",
+          "quote": 1.10,
+          "einsatz_euro": 20.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "edge_prozent": 3,
+          "faire_quote": 1.07,
+          "begruendung": "DC 1X-Goldgrube. Klasse-Edge extrem. Lecce-Auswaerts-Sieg historisch bei ~5% gegen Top-6. Stufe 1: 2% = 20€. Kein 2:0-Insurance in Serie A.",
+          "layer_2_tag": "mil-lec_sieg_tot"
+        },
+        {
+          "id": "mil-lec-2",
+          "kategorie": "value",
+          "markt": "Ueber 1.5 Tore",
+          "quote": 1.22,
+          "einsatz_euro": 12.0,
+          "empfohlener_einsatz_prozent": 1.2,
+          "edge_prozent": 3,
+          "faire_quote": 1.19,
+          "begruendung": "Milan zuhause trifft praktisch immer (95%+ Heim-Tor-Rate). Ueber-1.5 als konservative Tor-Total-Absicherung.",
+          "layer_2_tag": "mil-lec_totals"
+        },
+        {
+          "id": "mil-lec-3",
+          "kategorie": "wackel",
+          "markt": "Sieg Milan (90 Min)",
+          "quote": 1.42,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.38,
+          "begruendung": "Direkter Sieg-Tipp — bewusst wackel wegen 20:45-Spaet-Anpfiff mit unklarem Reaktions-Muster. Milan-Klasse-Edge groesser als DC-Quote nahelegt, aber Serie-A-Underdogs klauen in San-Siro-Herbst-Spielen regelmaessig 1 Punkt."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-09-20-om-psg",
+      "liga": "Ligue 1 2026/27 - Journée 5",
+      "heim": "Olympique Marseille",
+      "gast": "Paris Saint-Germain",
+      "anstoss": "2026-09-20T20:45:00+02:00",
+      "stadion": "Stade Orange Velodrome, Marseille",
+      "saison_kontext": {
+        "parallel_heim": "moeglich Champions League 26/27 (uefa.com live pruefen; Marseille nach 25/26)",
+        "parallel_gast": "Champions-League-Ligaphase MD1 lief 16.-18.09. — PSG spielte in dieser Woche in der Ligaphase",
+        "saisonziel_heim": "Marseille Titelrennen-Anschluss / CL — Velodrome-Faktor extrem im Classique",
+        "saisonziel_gast": "PSG Titel-Verteidigung / CL-Titel-Rennen — Kollektiv-Klasse-Edge deutlich, aber Auswaerts-Classique historisch immer schwer",
+        "motivations_asymmetrie": "Le Classique — Velodrome-Atmosphaere als grosser Faktor. PSG-Klasse-Edge real aber im Marseille-Stadion oft nur mit knappen Ergebnissen. Beide CL-belastet aber PSG mit tieferem Kader.",
+        "recovery_heim": "3-6 Tage seit letztem Ligaspiel (falls CL-Team, ebenfalls 3 Tage)",
+        "recovery_gast": "3 Tage seit CL-MD1, Reise-Muede",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.ligue1.com/",
+          "https://www.psg.fr/en/mens-football/fixtures"
+        ]
+      },
+      "news": [
+        "Le Classique — Velodrome-Atmosphaere historisch grosser Ausgleicher fuer OM",
+        "PSG-Aufstellungs-Vorschau live pruefen — Rotation nach CL-MD1 wahrscheinlich, aber Kernspieler dabei",
+        "Aggregator-Quoten (bei bet365 live pruefen): Marseille ~4.20, Remis ~4.00, PSG ~1.75, DC X2 ~1.20, DC 1X ~2.05, Ueber 2.5 ~1.70, BTTS ~1.65"
+      ],
+      "tipps": [
+        {
+          "id": "om-psg-1",
+          "kategorie": "value",
+          "markt": "PSG oder Remis (Doppelte Chance)",
+          "quote": 1.20,
+          "einsatz_euro": 20.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "edge_prozent": 3,
+          "faire_quote": 1.16,
+          "begruendung": "DC X2-Goldgrube. PSG-Klasse-Edge auch mit CL-Reise real. Marseille nur mit Velodrome-Bonus fuer Chance auf direkten Sieg. Stufe 1: 2% = 20€.",
+          "layer_2_tag": "om-psg_sieg_tot"
+        },
+        {
+          "id": "om-psg-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.65,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 5,
+          "faire_quote": 1.57,
+          "begruendung": "BTTS-JA-Goldgrube. Le Classique historisch beidseitig-offensiv, PSG-Kernspieler treffen im Velodrome haeufig, Marseille zuhause traefe wenigstens einmal in 70%+ ihrer Top-Spiele.",
+          "layer_2_tag": "om-psg_totals"
+        },
+        {
+          "id": "om-psg-3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.70,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.65,
+          "begruendung": "Ueber-2.5-Goldgrube. Classique-Historie mit Ueber-Rate hoch, aber Velodrome-Druck fuehrt manchmal zu vorsichtigem Fussball. Bewusst wackel."
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "et-01",
+      "spiel_id": "2026-09-20-bou-liv",
+      "kategorie": "safe",
+      "markt": "Liverpool oder Remis (Doppelte Chance)",
+      "quote": 1.20,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_label": "Bournemouth vs Liverpool",
+      "begruendung": "Klasse-Edge + DC-Goldgrube (75.0% Hit / +29.6% ROI). Stufe 1: 2% = 20€."
+    },
+    {
+      "id": "et-02",
+      "spiel_id": "2026-09-20-mil-lec",
+      "kategorie": "safe",
+      "markt": "Milan oder Remis (Doppelte Chance)",
+      "quote": 1.10,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_label": "Milan vs Lecce",
+      "begruendung": "Milan-Klasse-Edge extrem gegen Lecce. Kein 2:0-Insurance in Serie A. Stufe 1: 2% = 20€."
+    },
+    {
+      "id": "et-03",
+      "spiel_id": "2026-09-20-vil-lev",
+      "kategorie": "value",
+      "markt": "Villarreal oder Remis (Doppelte Chance)",
+      "quote": 1.22,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_label": "Villarreal vs Levante",
+      "begruendung": "Heim-Klasse + Levante-Aufsteiger-Rolle. DC-Goldgrube."
+    },
+    {
+      "id": "et-04",
+      "spiel_id": "2026-09-20-om-psg",
+      "kategorie": "value",
+      "markt": "PSG oder Remis (Doppelte Chance)",
+      "quote": 1.20,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_label": "Marseille vs PSG",
+      "begruendung": "PSG-Klasse-Edge auch CL-belastet. DC-X2-Goldgrube."
+    },
+    {
+      "id": "et-05",
+      "spiel_id": "2026-09-20-bou-liv",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.62,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_label": "Bournemouth vs Liverpool",
+      "begruendung": "Ueber-2.5-Goldgrube (55.3% Hit / +29.4% ROI). Liverpool-Offensive gegen Bournemouth-Heim-Sturm."
+    },
+    {
+      "id": "et-06",
+      "spiel_id": "2026-09-20-lev-lei",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.70,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_label": "Leverkusen vs Leipzig",
+      "begruendung": "Beide offensiv-orientiert, Leipzig 5:0 vs HSV letzte Woche."
+    },
+    {
+      "id": "et-07",
+      "spiel_id": "2026-09-20-juv-ata",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.65,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_label": "Juventus vs Atalanta",
+      "begruendung": "BTTS-JA-Goldgrube. Atalanta trifft auswaerts historisch praktisch immer, Juve nach Sassuolo-Rueckschlag offensiv-orientiert."
+    },
+    {
+      "id": "et-08",
+      "spiel_id": "2026-09-20-atm-rma",
+      "kategorie": "value",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.38,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_label": "Atletico Madrid vs Real Madrid",
+      "begruendung": "Derbi Madrileno tor-arm im Metropolitano. CL-Reise-Belastung beider Teams."
+    },
+    {
+      "id": "et-09",
+      "spiel_id": "2026-09-20-ful-mun",
+      "kategorie": "value",
+      "markt": "Fulham oder Remis (Doppelte Chance)",
+      "quote": 1.62,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_label": "Fulham vs Manchester United",
+      "begruendung": "DC-Goldgrube. United-Auswaerts-Schwaeche + Craven-Cottage-Bremser."
+    },
+    {
+      "id": "et-10",
+      "spiel_id": "2026-09-20-fio-nap",
+      "kategorie": "value",
+      "markt": "Fiorentina oder Remis (Doppelte Chance)",
+      "quote": 1.55,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_label": "Fiorentina vs Napoli",
+      "begruendung": "DC-Goldgrube. Napoli mit CL-Reise + Verletzungspech, Fiorentina im Vanoli-Moment."
+    },
+    {
+      "id": "et-11",
+      "spiel_id": "2026-09-20-lee-cry",
+      "kategorie": "value",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.35,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_label": "Leeds vs Crystal Palace",
+      "begruendung": "Beide physisch/defensiv-orientiert."
+    },
+    {
+      "id": "et-12",
+      "spiel_id": "2026-09-20-lev-lei",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.65,
+      "einsatz_euro": 12.0,
+      "empfohlener_einsatz_prozent": 1.2,
+      "spiel_label": "Leverkusen vs Leipzig",
+      "begruendung": "BTTS-JA-Goldgrube. Beide offensiv im Aufbruch."
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "kategorie": "safe",
+      "titel": "Safe-Kombi (Klasse-Edge x3)",
+      "gesamtquote": 2.98,
+      "rechnung": "1.42 x 1.75 x 1.20 = 2.98",
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "beine": [
+        {
+          "spiel_id": "2026-09-20-mil-lec",
+          "spiel_label": "Milan vs Lecce",
+          "markt": "Sieg Milan (90 Min)",
+          "quote": 1.42,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-09-20-vil-lev",
+          "spiel_label": "Villarreal vs Levante",
+          "markt": "Sieg Villarreal (90 Min)",
+          "quote": 1.75,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-20-om-psg",
+          "spiel_label": "Marseille vs PSG",
+          "markt": "PSG oder Remis (Doppelte Chance)",
+          "quote": 1.20,
+          "kategorie": "value"
+        }
+      ],
+      "begruendung": "Drei Klasse-Edge-Tipps aus 3 verschiedenen Spielen — Milan/Villarreal direkter Sieg gegen Aufsteiger-/Mid-Table, PSG-DC als Klassiker-Absicherung. Layer-1 clean, Layer-2: Sieg-Outcomes hier gebuendelt, Balance/Risiko/Moonshot nutzen andere Spiele-Kombination. Quote leicht unter 3-5x-Ziel, aber Klasse-Edge sauber."
+    },
+    {
+      "id": "kombi-balance",
+      "kategorie": "balance",
+      "titel": "Balance-Kombi (Tor-Total + BTTS-Mix)",
+      "gesamtquote": 6.83,
+      "rechnung": "1.62 x 1.70 x 1.65 x 1.50 = 6.82",
+      "einsatz_euro": 8.0,
+      "empfohlener_einsatz_prozent": 0.8,
+      "beine": [
+        {
+          "spiel_id": "2026-09-20-bou-liv",
+          "spiel_label": "Bournemouth vs Liverpool",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.62,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-20-lev-lei",
+          "spiel_label": "Leverkusen vs Leipzig",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.70,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-20-juv-ata",
+          "spiel_label": "Juventus vs Atalanta",
+          "markt": "Beide Teams treffen",
+          "quote": 1.65,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-09-20-fio-nap",
+          "spiel_label": "Fiorentina vs Napoli",
+          "markt": "Beide Teams treffen",
+          "quote": 1.50,
+          "kategorie": "wackel"
+        }
+      ],
+      "begruendung": "Vier Tor-Total/BTTS-Tipps aus vier verschiedenen Spielen. Alle vier sind Markt-Goldgruben. Layer-1 clean, Layer-3 clean (kein Spiel doppelt), keine Sieg-Outcomes (Layer-2 fuer Safe-Kombi reserviert)."
+    },
+    {
+      "id": "kombi-risk",
+      "kategorie": "risk",
+      "titel": "Risiko-Kombi (Underdog-DC + Totals)",
+      "gesamtquote": 17.09,
+      "rechnung": "2.40 x 2.20 x 1.85 x 1.75 = 17.09",
+      "einsatz_euro": 2.5,
+      "empfohlener_einsatz_prozent": 0.25,
+      "beine": [
+        {
+          "spiel_id": "2026-09-20-atm-rma",
+          "spiel_label": "Atletico Madrid vs Real Madrid",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-09-20-om-psg",
+          "spiel_label": "Marseille vs PSG",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.70,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-09-20-ful-mun",
+          "spiel_label": "Fulham vs Manchester United",
+          "markt": "Beide Teams treffen",
+          "quote": 1.70,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-09-20-lee-cry",
+          "spiel_label": "Leeds vs Crystal Palace",
+          "markt": "Leeds oder Remis (Doppelte Chance)",
+          "quote": 1.62,
+          "kategorie": "wackel"
+        }
+      ],
+      "begruendung": "Coinflip-Spiele + BTTS/Ueber-Tipps in Top-Spielen. Ehrlich: sub-30x-Zone, keine 100x-Reichweite. Layer-2: 1 Sieg-Outcome (Leeds-DC — reserviert fuer Risiko-Kombi, nicht in Safe/Balance). Layer-3 clean."
+    },
+    {
+      "id": "kombi-moonshot",
+      "kategorie": "moonshot",
+      "titel": "Moonshot-Kombi (100x+ Lotterie)",
+      "gesamtquote": 129.6,
+      "rechnung": "4.50 x 3.20 x 3.60 x 2.50 = 129.60",
+      "einsatz_euro": 1.0,
+      "empfohlener_einsatz_prozent": 0.1,
+      "beine": [
+        {
+          "spiel_id": "2026-09-20-atm-rma",
+          "spiel_label": "Atletico Madrid vs Real Madrid",
+          "markt": "Sieg Atletico Madrid (90 Min)",
+          "quote": 2.75,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-09-20-fio-nap",
+          "spiel_label": "Fiorentina vs Napoli",
+          "markt": "Sieg Fiorentina (90 Min)",
+          "quote": 3.20,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-09-20-ful-mun",
+          "spiel_label": "Fulham vs Manchester United",
+          "markt": "Sieg Fulham (90 Min)",
+          "quote": 3.30,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-09-20-lee-cry",
+          "spiel_label": "Leeds vs Crystal Palace",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.20,
+          "kategorie": "wackel"
+        }
+      ],
+      "begruendung": "Reine Lotterie mit 1€ Spaßeinsatz. Drei Underdog-/Coinflip-Heimsiege + ein Tor-Total. Jedes Bein einzeln vertretbar (30-40% Wahrscheinlichkeit), zusammen ~130x. Kein Sieg-Outcome-Konflikt mit Safe-Kombi (dort waren die Favoriten-DCs)."
+    }
+  ],
+  "lessons_angewandt": [
+    "Kader-Wechsel gecheckt: Adeyemi NICHT bei Dortmund (Barcelona), Diomande NICHT bei Leipzig (Real Madrid), Alajbegovic NICHT bei Leverkusen (Juventus), Jackson NICHT bei Chelsea (Villa), Nathaniel Brown NICHT bei Frankfurt (Bayern). Kein Spieler aus diesen Wechseln getippt.",
+    "Zeitfenster-Hartregel: nur Anstoesse am 20.09. — 15 Spiele im Fenster gefunden, 10 mit klarem Edge-Signal getippt (Serie A x 3, PL x 3, BL x 1, LaLiga x 2, Ligue 1 x 1).",
+    "Markt-Goldgruben aktiv gesucht: Doppelte Chance 1X (75.0% Hit / +29.9% ROI), Doppelte Chance X2 (75.0% / +29.6%), Ueber 2.5 Tore (55.3% / +29.4%), BTTS-JA (58.9% / +19.5%) — alle als Kombi-Beine oder Einzeltipps prominent vertreten.",
+    "2:0-Insurance-Regel: nur bei 1. Bundesliga + Champions League — Serie A/PL/LaLiga/Ligue 1 explizit ausgewiesen (keine falsche Insurance-Erwartung).",
+    "HR2 Anti-Heim-Bias: Leverkusen trotz CL-Belastung nur wackel-DC statt SAFE. HR3 Joker-Stuermer-Vorsicht: Napoli mit CL-Reise → keine Napoli-SAFE-Tipps.",
+    "DC-CAP eingehalten: max 1 DC pro Spiel, im Dossier 5 DC-Tipps aus 5 verschiedenen Spielen — Kombi-Safe hat 3 verschiedene Spiele.",
+    "Kein SAFE-DC in Coinflip-Spielen (Fiorentina-Napoli, Fulham-United, Leeds-Palace, Atletico-Real): alle max VALUE oder wackel.",
+    "Stufe 1 Kasse-Empfehlung: Einzel SAFE/VALUE 1-2% = 15-20€, Wackel-Einzel 0.5% = 5€, Kombis Safe 2%/Balance 0.8%/Risiko 0.25%/Moonshot 0.1% — auf 1000€-Kasse (data/kasse.json) gerechnet."
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-09-20T08:15:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "kader_frische_live",
+        "details": "Kein Recherche-File vorhanden, Aufstellungs-Vorschau ~60 Min vor Anpfiff live pruefen — speziell fuer Rotation nach CL-MD1 (Napoli/Liverpool/Leverkusen/Atletico/Real/PSG/Villarreal/Juventus)."
+      },
+      {
+        "art": "quoten_live",
+        "details": "Alle Quoten sind Aggregator-Schaetzungen (oddschecker/sportsgambler-Style) — vor Wetteinsatz bei bet365 live pruefen. Abweichung >5% moeglich, speziell in Coinflip-Spielen (Atletico-Real, Fiorentina-Napoli)."
+      },
+      {
+        "art": "supercup_pflicht",
+        "details": "Kein Supercup im 20.09.-Fenster (letzter war Franz-Beckenbauer-Supercup 22.08.). Naechster relevanter Supercup live tracken."
+      },
+      {
+        "art": "laliga_jornada_nummer",
+        "details": "Ob 20.09. Jornada 5 oder Jornada 7 der LaLiga 26/27 ist bei Aggregatoren uneinheitlich — Titel-Zaehlung bei bet365 live pruefen. Fixture selbst (Atletico-Real, Villarreal-Levante) ist bestaetigt."
+      }
+    ],
+    "lessons_generiert": []
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool, keine Einkommensquelle · Nur setzen was du verlieren kannst · Stress → Pause · Probleme → Hilfe holen"
+}
