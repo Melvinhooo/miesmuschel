@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-08T06:15:00+00:00",
+  "stand": "2026-09-20T21:24:00+00:00",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -797,9 +797,46 @@
       "hinweis": "Danischer Trainer, hat Toulouse-Interim-Rolle in Ligue 1 uebernommen nachdem Martinez Novell zu Leverkusen wechselte. Bekanntgabe 27.05.2026. Am 03.09.2026 (0:1 vs Lille): stellte 4-2-3-1 auf, zu-Null verloren gegen zweit-tiefsten Ligue-1-Absturz.",
       "quelle": "https://ligue1.com/en/articles/l1_article_5186-who-is-new-toulouse-manager-jens-berthel-askou",
       "stand": "2026-09-04"
+    },
+    {
+      "verein": "ACF Fiorentina",
+      "trainer_neu": "Paolo Vanoli",
+      "trainer_alt": "Fabio Grosso",
+      "seit": "2026-09-07",
+      "hinweis": "Grosso am 06.09.2026 nach 3 Niederlagen in 3 Serie-A-Spielen (0 Punkte, 9 Gegentore, 1 eigenes Tor) entlassen - erster Trainerwechsel der Serie A 2026/27. Vanoli-Rueckkehr: er hatte Fiorentina bereits ab Nov. 2025 (Pioli-Nachfolge) in den Klassenerhalt gefuehrt, wurde im Juni nicht verlaengert, jetzt ohne Bruch zurueck. Debuet gegen Venezia am ersten Freitag nach Uebernahme. Taktische Aussagen ueber Fiorentina NICHT auf Grosso-Stand stuetzen - Vanoli spielt kompakter (4-3-3 mit tiefer Linie), Zu-Null-Quote aufwerten sobald Personal steht.",
+      "quelle": "https://sport.sky.it/calcio/serie-a/2026/09/07/fiorentina-grosso-vanoli-allenatore-news-oggi",
+      "stand": "2026-09-20"
+    },
+    {
+      "verein": "Borussia Moenchengladbach",
+      "trainer_neu": "Jan-Moritz Lichte (Interim)",
+      "trainer_alt": "Eugen Polanski",
+      "seit": "2026-09-13",
+      "hinweis": "Polanski + Co-Trainer Trulsen am 13.09.2026 nach 0:5-Niederlage in Freiburg (3. Spieltag) entlassen - erster Bundesliga-Trainerwechsel der Saison 2026/27, zum zweiten Mal in Folge ist es Gladbach (2025/26 war es Seoane nach dem 4. Spieltag). Lichte uebernimmt vorerst kommissarisch, der endgueltige Nachfolger war zum Maintenance-Zeitpunkt 20.09. noch nicht offiziell (Priske und Blessin als Favoriten kolportiert - beides Geruecht, nicht in dieser Datei). Bis zur Bekanntgabe: Gladbach-Aufstellungs-Vorschau JEDES Spiel live pruefen, taktische Aussagen NICHT auf Polanski-Stand stuetzen.",
+      "quelle": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Borussia_M%C3%B6nchengladbach_season",
+      "stand": "2026-09-20"
+    },
+    {
+      "verein": "Bologna FC 1909",
+      "trainer_neu": "Raffaele Palladino",
+      "trainer_alt": "Domenico Tedesco",
+      "seit": "2026-09-16",
+      "vertrag_bis": "2029-06",
+      "hinweis": "Tedesco nach nur 4 Spielen (1 Punkt, Platz 16) am 16.09.2026 entlassen - zweiter Serie-A-Trainerwechsel der Saison 2026/27 nach Grosso/Fiorentina. Palladino unterschreibt bis 30.06.2029, kam zuletzt von Fiorentina (5. Platz 2024/25) und davor Atalanta/Monza. Taktische Aussagen ueber Bologna NICHT auf Tedesco-Stand stuetzen - Palladino spielt in der Regel 3-4-2-1 (Monza) oder 4-2-3-1 (Fiorentina), aggressiveres Umschaltspiel als Tedescos ballbesitz-orientierte Linie.",
+      "quelle": "https://sport.sky.it/calcio/serie-a/2026/09/16/bologna-tedesco-esonero-palladino-allenatore-news",
+      "stand": "2026-09-20"
+    },
+    {
+      "verein": "Valencia CF",
+      "trainer_neu": "Oscar Sanchez (Interim)",
+      "trainer_alt": "Carlos Corberan",
+      "seit": "2026-09-13",
+      "hinweis": "Corberan nach 5 LaLiga-Spielen (1 Remis, 4 Niederlagen, Tabellenletzter) am 13.09.2026 entlassen - dazu auch Fussball-CEO Ron Gourlay und die komplette sportliche Struktur. Oscar Sanchez (bisher Filial-Trainer) uebernimmt vorerst kommissarisch, der endgueltige Nachfolger war zum Maintenance-Zeitpunkt 20.09. noch nicht offiziell. Bis zur Bekanntgabe: Valencia-Aufstellungs-Vorschau JEDES Spiel live pruefen, taktische Aussagen NICHT auf Corberan-Stand stuetzen.",
+      "quelle": "https://www.infobae.com/america/agencias/2026/09/13/el-valencia-despide-a-su-tecnico-carlos-corberan-y-rompe-la-estructura-deportiva-actual/",
+      "stand": "2026-09-20"
     }
   ],
-  "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist. Fulham hat mit Arbeloa (ex-Real Madrid) einen neuen Trainer, Silva zu Benfica (bestaetigt 25.08.2026).",
+  "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist. Fulham hat mit Arbeloa (ex-Real Madrid) einen neuen Trainer, Silva zu Benfica (bestaetigt 25.08.2026). Saison-Verlauf (Stand 20.09.2026): erster Bundesliga-Wechsel Gladbach 13.09. (Polanski -> Lichte Interim), zwei Serie-A-Wechsel Fiorentina 07.09. (Grosso -> Vanoli) und Bologna 16.09. (Tedesco -> Palladino), ein LaLiga-Wechsel Valencia 13.09. (Corberan -> Oscar Sanchez Interim). Interim-Rollen bei Gladbach und Valencia: endgueltiger Nachfolger noch offen - Aufstellungs-Vorschau am Spieltag schlaegt jede Vermutung hier.",
   "quellen": [
     "https://www.bundesliga.com/en/bundesliga/news/official-bundesliga-transfer-centre-summer-2026-37051",
     "https://www.tntsports.co.uk/football/transfers/2026-2027/deadline-day-summer-2026-done-deals-premier-league-la-liga-serie-a-ligue-1-bundesliga_sto23333078/story.shtml",
@@ -815,6 +852,10 @@
     "https://en.atleticodemadrid.com/noticias/welcome-cuti-romero",
     "https://www.scfreiburg.com/en/latest/first-team/news/2026-27/noah-atubolu-extends-contract-and-joins-frankfurt-on-loan",
     "https://www.legaseriea.it/serie-a/news/ignazio-abate-nuovo-allenatore-del-torino",
-    "https://www.legaseriea.it/serie-a/news/ivan-juric-nuovo-allenatore-del-monza"
+    "https://www.legaseriea.it/serie-a/news/ivan-juric-nuovo-allenatore-del-monza",
+    "https://sport.sky.it/calcio/serie-a/2026/09/07/fiorentina-grosso-vanoli-allenatore-news-oggi",
+    "https://sport.sky.it/calcio/serie-a/2026/09/16/bologna-tedesco-esonero-palladino-allenatore-news",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Borussia_M%C3%B6nchengladbach_season",
+    "https://www.infobae.com/america/agencias/2026/09/13/el-valencia-despide-a-su-tecnico-carlos-corberan-y-rompe-la-estructura-deportiva-actual/"
   ]
 }
