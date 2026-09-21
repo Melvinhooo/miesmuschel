@@ -3205,6 +3205,30 @@
       "kategorie": "HR22 Aufsteiger-Blowout-Praemisse gebrochen - Coventry gewinnt in Nottingham",
       "lesson": "Aufsteiger-Duell nfo-cov: Coventry siegte 0:1 durch Dasilva-Tor im City Ground - Forests erster Punktverlust gegen einen Aufsteiger seit langem. Aufsteiger-Blowout-Muster wurde in 3/3 Aufsteiger-Duellen dieser Woche gebrochen (Nottingham verloren, Newcastle nur 2:1 statt 3:0, Hull kam auf 2:1). Konsequenz: DC-1X-Kombis mit Aufsteiger-Duellen als Fundament sind riskanter als die Statistik-Goldgrube (72.7% Hit) suggeriert - die alte Blowout-Praemisse braucht ein Update, Aufsteiger 26/27 (Hull/Coventry) sind organisierter/tiefer stehend als Vorgaenger. Kombi-safe (Newcastle+Forest+Frankfurt-DC) verlor an Forest-Bein.",
       "bezug_spiel_id": "2026-09-19-nfo-cov"
+    },
+    {
+      "datum": "2026-09-20",
+      "kategorie": "8c Markt-Cluster - CL-Reise-Muede Ueber-2.5 driftete unter Linie",
+      "lesson": "Vier Ueber-2.5-Tipps auf Spiele mit CL-belasteten Teams (Bou-Liv 0:1, Lev-Lei 2:0, Juv-Ata 2:0) verloren komplett: 3/3 unter Linie. Auch die BTTS-JA-Beine derselben Spiele: Leipzig blieb ohne Tor, Atalanta blieb ohne Tor - beides CL-belastete Auswaerts-Rotation. Muster: nach CL-MD1 laufen Spiele haeufiger 0:0/1:0/2:0 statt der historischen Ueber-/BTTS-Rate. Kombi-Balance verlor exakt an Bou-Liv-Ueber. Konsequenz: Ueber-2.5-Goldgruben-Status nicht blind auf Spiele mit 3-Tage-CL-Recovery legen - Kombi-Balance-Beine bei CL-Wochen nur mit klarer offensiver Anzeichen (5:0-Rueckenwind wie Leipzig reicht offenbar nicht).",
+      "bezug_spiel_id": "2026-09-20-bou-liv"
+    },
+    {
+      "datum": "2026-09-20",
+      "kategorie": "8f Drehungs-Muster im Derbi durch Rote Karte + Elfmeter",
+      "lesson": "Atletico-Real 2:1 nach 0:0-HZ - Huijsen (Real-IV) sah Rot fuer Foul, Grimaldo verwandelte den Elfmeter, David legte nach, Ruediger anschluss zu spaet. Der Derbi-Sieg fuer Atletico entstand nicht aus Simeone-System-Ueberlegenheit, sondern aus Real-Selbstschaden (Rot + 10-Mann-Phase). BTTS-JA im Derbi wackel-Tipp lief zwar durch (Ruediger-Anschluss), aber Unter-3.5 nur, weil Real nur 1x traf. Konsequenz: Derbi-Ergebnisse mit 3+ Toren haben oft eine Rote-Karte-Ursache - der Simeone-'clean und tor-arm'-Faktor haelt, wenn keine Karte faellt. Fuer kuenftige Derbi-Dossiers: BTTS-JA nicht als sicher fuers Simeone-System werten, es lief nur mit Uebersaettigung durch 10-Mann-Phase.",
+      "bezug_spiel_id": "2026-09-20-atm-rma"
+    },
+    {
+      "datum": "2026-09-20",
+      "kategorie": "8c Klasse-Edge-Kombi Woche 5 stabil - Safe- + Risiko-Kombi trafen",
+      "lesson": "Beide Klasse-Edge-Kombis trafen: Safe-Kombi (Milan-Sieg + Villarreal-Sieg + PSG-DC) bei @2.98 und Risiko-Kombi (Atm-BTTS + OM-PSG-Ueber + Ful-Mun-BTTS + Lee-Cry-DC) bei @8.19. Zusammen +57.60€ auf 22.50€ Einsatz (+256%). Muster: sowohl Favoriten-DC/-Sieg als auch Coinflip-BTTS-Kombis liefen an einem Spieltag durch, wo alle Toplevel-Klasse-Edges (Milan, Villarreal, PSG) direkt gewonnen haben. Bestaetigt Diversifikations-Doktrin: Safe-Kombi darf 3 Klasse-Beine haben, Risiko-Kombi 4 Coinflip-Beine - beide unabhaengige Layer, keine Korrelation. In der Serie-A-Giornata-5 waren die Klasse-Edges nicht 'ausgetauscht' durch CL-Reise-Muede - Villarreal und Milan waren zuhause dominant. Konsequenz: Kombi-Diversifikations-Doktrin (Safe: 3 Klasse / Risiko: 4 Coinflip) beibehalten, an CL-belasteten Auswaerts-Spielen aber keine Klasse-Edge-Sieg-Erwartung auf Reise-Teams legen (BTTS/Ueber statt Sieg-Edge, siehe Lesson 1).",
+      "bezug_spiel_id": "2026-09-20-mil-lec"
+    },
+    {
+      "datum": "2026-09-20",
+      "kategorie": "8b Kader-Trainer-Frische - Iraola als Liverpool-Manager bestaetigt",
+      "lesson": "Beim Auswerten von Bournemouth-Liverpool fiel auf: Skysports-Bericht 'Andoni Iraola triumphs at his former club' + kader_wechsel_2026.json (Barcola-Eintrag) fuehrt bereits 'Liverpool-Fluegel unter Iraola'. Bestaetigt: Iraola ist Liverpool-Cheftrainer 2026/27, nicht Slot. Bournemouth-Trainer neu - vor Bournemouth-Tipp live pruefen. Aehnlich: Spalletti als Juventus-Trainer nach Sassuolo-Pleite laut Match-Report ('Spalletti returns to winning ways in Serie A too'). Neue Info in trainer_2026_27 aufgenommen. Muster: die Routine-Prompts drueben schwebt teilweise noch mit 2025/26-Trainer-Bildern - Auswertung ist der beste Moment zur Korrektur.",
+      "bezug_spiel_id": "2026-09-20-bou-liv"
     }
   ]
 }

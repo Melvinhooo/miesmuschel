@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-20T21:24:00+00:00",
+  "stand": "2026-09-21T08:15:00+00:00",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -355,6 +355,15 @@
       "hinweis": "€38m Fixfee + 20% Sell-on-Klausel fuer Milan, 4-Jahres-Vertrag bis 2030, Netto-Gehalt €10m/Saison. NIE mehr als Milan-Spieler tippen. Eintrag aus Auswertung 07.09.: Leao im Juve-Milan-Dossier 06.09. als Torschuetzen-Tipp aufgestellt worden, obwohl er 30.08. offiziell zu Galatasaray gewechselt ist - Milan lief 06.09. mit 3-4-2-1 Rabiot/Saelemaekers hinter Ramos auf, kein Leao im Kader.",
       "quelle": "https://sports.yahoo.com/articles/official-milan-sell-leao-galatasaray-102000969.html",
       "stand": "2026-09-07"
+    },
+    {
+      "spieler": "Alejandro Grimaldo",
+      "von": "Bayer Leverkusen",
+      "nach": "Atletico Madrid",
+      "datum": "2026-07",
+      "hinweis": "NIE mehr als Leverkusen-Spieler tippen. Traf beim Derbi 20.09.2026 den Elfmeter zum 1:0 gegen Real.",
+      "quelle": "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby",
+      "stand": "2026-09-21"
     }
   ],
   "zugaenge_neue_optionen": [
@@ -596,6 +605,42 @@
       "hinweis": "Kenianischer Volumen-Stuermer, 23 Jahre, Nr. 12. Sommer 2026 vom B-Team fest hochgezogen, Vertrag bis 2028. Traf 07.09.2026 gg Elche 11. Min zum 0:1 - hat in LaLiga-Auswaerts-Spielen 2026/27 damit gescort. Ab jetzt als 2. RSoc-Torschuetzen-Option NEBEN Oyarzabal/Kubo tracken (nicht statt).",
       "quelle": "https://striver.football/the-pathway/job-ochieng-real-sociedad-journey-bernabeu",
       "stand": "2026-09-08"
+    },
+    {
+      "spieler": "Jonathan David",
+      "von": "Lille OSC",
+      "nach": "Atletico Madrid",
+      "datum": "2026-07",
+      "hinweis": "Ex-Lille-9er als neuer Sturmpartner unter Simeone. Traf am 20.09.2026 im Derbi zum 2:0 gegen Real Madrid.",
+      "quelle": "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby",
+      "stand": "2026-09-21"
+    },
+    {
+      "spieler": "Diego Moreira",
+      "von": "unbekannt (live pruefen)",
+      "nach": "AC Milan",
+      "datum": "2026-08",
+      "hinweis": "Milan-Neuzugang unter Amorim (in Milan-Startelf gegen Torino 23.08.2026 gelistet). Traf am 20.09.2026 zum 3:0 gegen Lecce.",
+      "quelle": "https://www.espn.com/soccer/report/_/gameId/401874944",
+      "stand": "2026-09-21"
+    },
+    {
+      "spieler": "Edon Zhegrova",
+      "von": "Lille OSC",
+      "nach": "Juventus Turin",
+      "datum": "2026-08",
+      "hinweis": "Lille-Fluegel zu Juve. Am 20.09.2026 mit Ecken-Assist zum Bremer-Kopfball (2:0 gegen Atalanta).",
+      "quelle": "https://www.juventus.com/en/news/articles/conceicao-bremer-score-win-atalanta-20-09-26",
+      "stand": "2026-09-21"
+    },
+    {
+      "spieler": "Alejandro Grimaldo",
+      "von": "Bayer Leverkusen",
+      "nach": "Atletico Madrid",
+      "datum": "2026-07",
+      "hinweis": "Grimaldo von Leverkusen zu Atletico. Verwandelte Elfmeter zum 1:0 im Derbi 20.09.2026. War in Kader-Wechsel bislang nicht gefuehrt - vor Torschuetzen-Tipp auf Leverkusen NICHT mehr fuer Bayer04 tippen.",
+      "quelle": "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby",
+      "stand": "2026-09-21"
     }
   ],
   "trainer_2026_27": [
@@ -834,6 +879,22 @@
       "hinweis": "Corberan nach 5 LaLiga-Spielen (1 Remis, 4 Niederlagen, Tabellenletzter) am 13.09.2026 entlassen - dazu auch Fussball-CEO Ron Gourlay und die komplette sportliche Struktur. Oscar Sanchez (bisher Filial-Trainer) uebernimmt vorerst kommissarisch, der endgueltige Nachfolger war zum Maintenance-Zeitpunkt 20.09. noch nicht offiziell. Bis zur Bekanntgabe: Valencia-Aufstellungs-Vorschau JEDES Spiel live pruefen, taktische Aussagen NICHT auf Corberan-Stand stuetzen.",
       "quelle": "https://www.infobae.com/america/agencias/2026/09/13/el-valencia-despide-a-su-tecnico-carlos-corberan-y-rompe-la-estructura-deportiva-actual/",
       "stand": "2026-09-20"
+    },
+    {
+      "verein": "Juventus Turin",
+      "trainer": "Luciano Spalletti",
+      "seit": "2026-09",
+      "hinweis": "Spalletti bei Juve nach Reaktions-Sieg 2:0 vs Atalanta am 20.09.2026 ('Spalletti returns to winning ways' - Goal.com). Trainerwechsel wohl nach 2:3-Sassuolo-Pleite.",
+      "quelle": "https://www.goal.com/en/lists/juventus-atalanta-2-0-conceicao-and-bremer-spalletti-return-to-winning-ways-in-serie-a-too-three-straight-defeats-for-sarri-s-team/blt5e5439513800f466",
+      "stand": "2026-09-21"
+    },
+    {
+      "verein": "Atalanta BC",
+      "trainer": "Maurizio Sarri",
+      "seit": "2026-07",
+      "hinweis": "Sarri bei Atalanta 26/27, nach Gasperini-Abgang. 3. Niederlage in Serie nach 20.09.2026 gegen Juventus.",
+      "quelle": "https://www.goal.com/en/lists/juventus-atalanta-2-0-conceicao-and-bremer-spalletti-return-to-winning-ways-in-serie-a-too-three-straight-defeats-for-sarri-s-team/blt5e5439513800f466",
+      "stand": "2026-09-21"
     }
   ],
   "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist. Fulham hat mit Arbeloa (ex-Real Madrid) einen neuen Trainer, Silva zu Benfica (bestaetigt 25.08.2026). Saison-Verlauf (Stand 20.09.2026): erster Bundesliga-Wechsel Gladbach 13.09. (Polanski -> Lichte Interim), zwei Serie-A-Wechsel Fiorentina 07.09. (Grosso -> Vanoli) und Bologna 16.09. (Tedesco -> Palladino), ein LaLiga-Wechsel Valencia 13.09. (Corberan -> Oscar Sanchez Interim). Interim-Rollen bei Gladbach und Valencia: endgueltiger Nachfolger noch offen - Aufstellungs-Vorschau am Spieltag schlaegt jede Vermutung hier.",

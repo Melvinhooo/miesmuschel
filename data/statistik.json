@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-09-20T06:12:22+00:00",
+  "letzte_berechnung": "2026-09-21T06:11:22+00:00",
   "gesamt": {
     "tipps": 430,
     "gewonnen": 231,
@@ -4275,6 +4275,149 @@
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-09-20",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "kombi-safe",
+          "kategorie": "safe",
+          "gesamtquote": 2.98,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Milan (90 Min)",
+              "quote": 1.42,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Villarreal (90 Min)",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "PSG oder Remis (Doppelte Chance)",
+              "quote": 1.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "kombi-balance",
+          "kategorie": "balance",
+          "gesamtquote": 6.83,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.62,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "kombi-risk",
+          "kategorie": "risk",
+          "gesamtquote": 8.19,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Leeds oder Remis (Doppelte Chance)",
+              "quote": 1.62,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "kombi-moonshot",
+          "kategorie": "moonshot",
+          "gesamtquote": 63.89,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Atletico Madrid (90 Min)",
+              "quote": 2.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Fiorentina (90 Min)",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Fulham (90 Min)",
+              "quote": 3.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-09-19",
       "gesamt": {
