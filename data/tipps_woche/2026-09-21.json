@@ -765,8 +765,8 @@
       "typ": "moonshot",
       "kategorie": "moonshot",
       "titel": "Moonshot ~200x - Torschuetzen-Trio + Auswaerts-Underdog-Duo + BTTS-Nein",
-      "gesamtquote": 22.1,
-      "rechnung": "1.55 x 1.65 x 1.80 x 4.80 = 22.1",
+      "gesamtquote": 4.6,
+      "rechnung": "1.55 x 1.65 x 1.80 = 4.6",
       "einsatz_euro": 1.0,
       "empfohlener_einsatz_prozent": 0.1,
       "beine": [
@@ -790,13 +790,6 @@
           "markt": "Julian Alvarez Torschuetze jederzeit",
           "quote": 1.8,
           "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-09-21-ath-gir",
-          "spiel_label": "Athletic vs Girona (Underdog)",
-          "markt": "Sieg Girona FC (90 Min)",
-          "quote": 4.8,
-          "kategorie": "moonshot"
         }
       ]
     }
