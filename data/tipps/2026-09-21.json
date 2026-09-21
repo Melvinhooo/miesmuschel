@@ -26,5 +26,22 @@
     "kasse_stand_eur": 1000,
     "stufe_aktiv": 1
   },
+  "_backstop_report": {
+    "erstellt_am": "2026-09-21T18:45:00+02:00",
+    "trigger": "Safety-Net-Backstop - unabhaengige Zweitpruefung nachdem Hauptroutine (13:30) + Watchdog (14:30) heute nur ein leeres Dossier lieferten. Aufgabe: sicherstellen, dass die leere Behauptung stimmt, bevor sie fest im Repo bleibt.",
+    "verifikations_methode": "Frische WebSearch-Runde (unabhaengig vom Watchdog-Lauf) fuer 21.09.2026 quer ueber alle Whitelist-Wettbewerbe.",
+    "quellen_geprueft": [
+      "https://www.livesoccertv.com/schedules/2026-09-21/",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_in_English_football",
+      "https://www.flashscore.com/news/soccer-premier-league-why-there-will-be-hardly-any-football-games-for-three-weeks-in-september-and-october/0MZtr5eJ/",
+      "https://groundhopperguides.com/when-are-next-international-breaks-english-soccer-football/",
+      "https://en.legaseriea.it/serie-a/news/looking-forward-to-the-2026-27-serie-a-fixture-list"
+    ],
+    "befund": "Bestaetigt: 21.09.2026 markiert den Start der neuen FIFA XL-Laenderspielpause 21.09.-06.10.2026 (16 Tage, neu 2026/27). Premier League/LaLiga/Serie A/Bundesliga/Ligue 1/2. Bundesliga alle pausieren. UEFA-Klubwettbewerbe: CL/EL/Conference MD1 lief 16.-18.09., MD2 startet erst 30.09. UEFA Nations League beginnt Do 24.09. Kein einziges Spiel aus der Whitelist mit Anstoss am 21.09.2026 auffindbar. Leerer Dossier-Zustand ist korrekt.",
+    "backstop_entscheidung": "Leeres Dossier bleibt - Backstop-Prinzip (CLAUDE.md): 'Lieber ein kleines, ehrliches Dossier als GAR KEINS. Wenn heute keine Spiele: gueltiges Dossier mit hinweis-Text der die Lage erklaert.' Trifft hier exakt zu. Kein Tipp erfinden.",
+    "verifikations_aussage": "OK - kein Widerspruch zwischen Watchdog-Befund und unabhaengiger Zweitpruefung. Kasse 1000€, Stufe 1 unangetastet."
+  },
   "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
 }
