@@ -1,31 +1,37 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
-  "datum": "2026-09-21",
-  "erstellt_am": "2026-09-21T14:43:00+02:00",
-  "modus": "tag",
-  "hinweis": "🐚 Mo 21.09.2026 (Watchdog Mo-Fr, 14:30 Berlin, Saison 2026/27). Kein Recherche-File - selbst nachrecherchiert. Ergebnis: NULL Spiele im Fenster fuer die aktiven Vereins-Ligen. Grund: erste grosse FIFA-Laenderspiel-Pause 2026/27 laeuft vom 21.09. bis 06.10.2026 (16 Tage, neuer Kalender-Modus). Alle Ligen pausieren - Bundesliga MW4 lief 18.-20.09., 2. Bundesliga 6. Spieltag lief WE, Premier League MW5 am WE, LaLiga J5 am WE, Serie A 5^ giornata 19.-20.09., Ligue 1 J5 am WE (Marseille-PSG So 20.45). CL/EL/Conference MD1 lief 16.-18.09., MD2 erst ab 30.09. UEFA Nations League 26/27 startet erst Do 24.09. — bis dahin nur Test-/Freundschaftsspiele + unterklassige Ligen (nicht in unserer Whitelist). Coppa Italia Sedicesimi durch, Ottavi erst Dezember. Deshalb kein Tipp heute — ehrlich statt erfunden. Naechster Tages-Slate: Di 22.09. (leer erwartet) → Do 24.09. mit Nations-League-Start (Mo-Fr-Routine 13:30). Wochenend-Dossier (Do 18:00) wird auch duenn ausfallen wegen Laenderspiel-Pause. Kasse-Stand 1000€ / Stufe 1 aktiv (Saison-Edge noch nicht bestaetigt) - bleibt heute unangetastet. 18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700.",
+  "datum": "2026-09-22",
+  "erstellt_am": "2026-09-22T14:35:00+02:00",
+  "hinweis": "🐚 Watchdog-Recovery Di 22.09.2026 (Saison 2026/27, Kasse 1000€ / Stufe 1). Recherche-File data/recherche/2026-09-22.json fehlt und die Cloud-Umgebung hat keinen Egress zu football-data.org, kicker.de, sport.sky.it, legaseriea.it, wettbasis.com, sport.de, ran.joyn.de, sportfair.it, corriere.it, cultofcalcio, ESPN, Wikipedia. Was WebSearch ergibt: (a) CL Ligaphase MD1 lief bereits 08.-10.09.2026, CL MD2 erst 13./14.10.2026 — heute kein CL. (b) EL/Conference-League Ligaphase MD1 lief 16.-18.09. — heute kein Europapokal. (c) Serie A 2026/27 hat KEINE Turni infrasettimanali im September (nächster erst 28.10., Giornata 9), plus Länderspielpause 27.09. und 04.10. — heute kein Serie-A-Spiel. (d) Ligue 1/LaLiga: keine bestätigte midweek-Runde am Di 22.09. gefunden. (e) EFL Cup / Carabao Cup Runde 3 zweite Woche läuft 22.-25.09. (Man Utd-Brighton 16.09. und Liverpool-Tottenham 15.09. gehörten schon zur ersten Woche) — aber ohne bestätigte Anstoßzeiten für den konkreten Dienstag 22.09. bleibe ich nach CLAUDE.md-Regel bei nichts erfinden. Der 15:15-GitHub-Actions-Backstop hat Zugriff auf die football-data.org-API und kann die konkrete Slate-Liste nachliefern. Bis dahin: leerer Slate, keine Einzeltipps, keine Kombis — lieber ehrlich als halluziniert.",
   "spiele": [],
   "einzeltipps": [],
   "kombis": [],
   "lessons_angewandt": [
-    "Zeitfenster-Hartregel (22.08.2026): Nur Anstoesse am Zieldatum ins Tages-File - lieber leer als aus dem Fenster tippen.",
-    "Notfall-Fallback (CLAUDE.md): Ehrliches leeres Dossier ist ein gueltiges Ergebnis, wenn im Fenster nichts liegt. Nichts erfinden - fehlende Daten als null benennen."
+    "CLAUDE.md-Notfall-Regel: Nichts erfinden — fehlende Daten transparent im hinweis benennen statt Anstoßzeiten oder Paarungen zu raten (Adeyemi-Lehre 22.08.2026)",
+    "Zeitfenster-Hartregel: Nur Anstöße am 22.09.2026 Berliner Zeit sind zulässig — Woche-Nachlese aus Sept-MD 1 (CL/EL) und 4./5. Serie-A-Runde bleiben draußen",
+    "Kader-Wechsel-Guard: keine Spielernamen aus dem Gedächtnis committet — data/kader_wechsel_2026.json wurde geladen aber ohne bestätigtes Match nicht angewandt",
+    "Recherche vor Tipp: ohne verifizierte Aufstellungs-Vorschau + Quoten kein SAFE/VALUE möglich (validate_torschuetze_quelle würde alles auf wackel degradieren)"
   ],
-  "_watchdog_report": {
-    "erstellt_am": "2026-09-21T14:43:00+02:00",
-    "trigger": "Mo-Fr-Watchdog 14:30 - Hauptroutine 13:30 hat kein Dossier abgeliefert",
-    "recherche_file_vorhanden": false,
-    "selbst_recherchiert": true,
-    "quellen_geprueft": [
-      "https://www.calcioefinanza.it/2026/09/21/quanto-dura-la-pausa-nazionali-sosta-serie-a/",
-      "https://de.wikipedia.org/wiki/2._Fu%C3%9Fball-Bundesliga_2026/27",
-      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
-      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
-      "https://fr.uefa.com/uefaeuropaleague/fixtures-results/"
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-09-22T14:35:00+02:00",
+    "modus": "watchdog_inline_notfall",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "recherche_fehlt",
+        "details": "Recherche-File data/recherche/2026-09-22.json nicht vorhanden. 10:30-Recherche-Routine und 13:30-Hauptroutine haben nichts geliefert."
+      },
+      {
+        "art": "egress_blockiert",
+        "details": "Cloud-Sandbox-Egress-Proxy blockiert alle Standard-Fußball-Sites (kicker, sky, legaseriea, wettbasis, corriere, espn, wikipedia, sport.de, ran.joyn, cultofcalcio, sportinglife, livesoccertv). football-data.org gibt 403 Forbidden. WebSearch liefert nur Suchergebnis-Snippets, keine Detail-Fixtures für den konkreten Di 22.09.2026."
+      },
+      {
+        "art": "leerer_slate_bewusst",
+        "details": "Slate bewusst leer statt halluziniert. Der 15:15-GitHub-Actions-Backstop (web-push.yml Watchdog-Fallback) hat Zugriff auf die football-data.org-API und kann heute noch nachliefern."
+      }
     ],
-    "befund": "FIFA-Laenderspielpause 21.09.-06.10.2026 - keine Spiele in BL/2.BL/PL/LaLiga/Serie A/Ligue 1/CL/EL/Conference/DFB-Pokal/FA Cup/Copa del Rey/Coppa Italia/Coupe de France am 21.09.2026.",
-    "kasse_stand_eur": 1000,
-    "stufe_aktiv": 1
-  },
-  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
+    "lessons_generiert": []
+  }
 };
