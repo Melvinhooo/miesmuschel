@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-09-21T06:11:22+00:00",
+  "letzte_berechnung": "2026-09-22T06:06:06+00:00",
   "gesamt": {
     "tipps": 430,
     "gewonnen": 231,
@@ -12,15 +12,15 @@
     "roi_prozent": 16.5
   },
   "letzte_30_tage": {
-    "tipps": 93,
-    "gewonnen": 64,
-    "verloren": 29,
+    "tipps": 83,
+    "gewonnen": 57,
+    "verloren": 26,
     "push": 0,
     "offen": 0,
-    "einsatz": 93.0,
-    "netto": 78.68,
-    "trefferquote": 68.8,
-    "roi_prozent": 84.6
+    "einsatz": 83.0,
+    "netto": 69.24,
+    "trefferquote": 68.7,
+    "roi_prozent": 83.4
   },
   "letzte_90_tage": {
     "tipps": 364,
