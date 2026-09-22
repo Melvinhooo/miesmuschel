@@ -264,7 +264,8 @@
       "faire_quote": 1.35,
       "empfohlener_einsatz_prozent": 1.5,
       "einsatz_euro": 15.0,
-      "begruendung": "Real ist Klassen-Favorit, Real hat 5-Siege-Serie in Liga + CL. Kein SAFE weil 7-Tage-Vorschau + LaLiga hat keine 2:0-Insurance-Backup. Reality-Check: nach_kategorie value 2026/27 aktuell +13.4% ROI (261 tipps). Kasse 1000€ Stufe 1 -> Einsatz 15€ (1.5%)."
+      "begruendung": "Real ist Klassen-Favorit, Real hat 5-Siege-Serie in Liga + CL. Kein SAFE weil 7-Tage-Vorschau + LaLiga hat keine 2:0-Insurance-Backup. Reality-Check: nach_kategorie value 2026/27 aktuell +13.4% ROI (261 tipps). Kasse 1000€ Stufe 1 -> Einsatz 15€ (1.5%).",
+      "rang": 1
     },
     {
       "id": "lev-rma-3",
@@ -277,7 +278,8 @@
       "faire_quote": 1.45,
       "empfohlener_einsatz_prozent": 1.5,
       "einsatz_euro": 15.0,
-      "begruendung": "Mbappe fuehrt Torschuetzenliste (Real 12.09. gg Rayo 4/4 Ligator-Serie, 71. CL-Tor). Form-Edge nach HR24 erfuellt (2 von 3 Bedingungen: 5+ Tore letzte 10 Spiele + zentraler 9er mit Backup-Qualitaet Diomande). Goldgrube 'Torschuetzen Jederzeit' (+24.4% ROI historisch). Einsatz 15€ (1.5%). Anpfiff-Aufstellung pruefen wegen Nations-League-Break ab Do."
+      "begruendung": "Mbappe fuehrt Torschuetzenliste (Real 12.09. gg Rayo 4/4 Ligator-Serie, 71. CL-Tor). Form-Edge nach HR24 erfuellt (2 von 3 Bedingungen: 5+ Tore letzte 10 Spiele + zentraler 9er mit Backup-Qualitaet Diomande). Goldgrube 'Torschuetzen Jederzeit' (+24.4% ROI historisch). Einsatz 15€ (1.5%). Anpfiff-Aufstellung pruefen wegen Nations-League-Break ab Do.",
+      "rang": 2
     },
     {
       "id": "sev-vil-1",
@@ -290,7 +292,8 @@
       "faire_quote": 1.42,
       "empfohlener_einsatz_prozent": 1.5,
       "einsatz_euro": 15.0,
-      "begruendung": "Villarreal frisch, Sevilla-Aufbaukader anfaellig. Goldgrube DC X2 (75%/+9.4% ROI 2026/27). Einsatz 15€ (1.5%)."
+      "begruendung": "Villarreal frisch, Sevilla-Aufbaukader anfaellig. Goldgrube DC X2 (75%/+9.4% ROI 2026/27). Einsatz 15€ (1.5%).",
+      "rang": 3
     },
     {
       "id": "ath-gir-1",
@@ -303,7 +306,8 @@
       "faire_quote": 1.19,
       "empfohlener_einsatz_prozent": 1.5,
       "einsatz_euro": 15.0,
-      "begruendung": "Goldgrube DC 1X + San Mames + Girona-Underdog. Einsatz 15€ (1.5%)."
+      "begruendung": "Goldgrube DC 1X + San Mames + Girona-Underdog. Einsatz 15€ (1.5%).",
+      "rang": 4
     },
     {
       "id": "lev-rma-2",
@@ -316,7 +320,8 @@
       "faire_quote": 1.06,
       "empfohlener_einsatz_prozent": 1.0,
       "einsatz_euro": 10.0,
-      "begruendung": "Goldgrube DC X2 (75%/+9.4% ROI 2026/27 lt statistik.json). Absicherung falls Real nur remis holt. Einsatz 10€ (1%) wegen niedriger Quote. Bei bet365 live pruefen."
+      "begruendung": "Goldgrube DC X2 (75%/+9.4% ROI 2026/27 lt statistik.json). Absicherung falls Real nur remis holt. Einsatz 10€ (1%) wegen niedriger Quote. Bei bet365 live pruefen.",
+      "rang": 5
     },
     {
       "id": "sev-vil-2",
@@ -329,7 +334,8 @@
       "faire_quote": 1.63,
       "empfohlener_einsatz_prozent": 0.5,
       "einsatz_euro": 5.0,
-      "begruendung": "Beide Teams offen offensiv (Sevilla braucht Punkte, Villarreal Form-hoch mit Gueye). Einsatz 5€ (0.5%)."
+      "begruendung": "Beide Teams offen offensiv (Sevilla braucht Punkte, Villarreal Form-hoch mit Gueye). Einsatz 5€ (0.5%).",
+      "rang": 6
     },
     {
       "id": "esp-val-1",
@@ -342,7 +348,8 @@
       "faire_quote": 1.6,
       "empfohlener_einsatz_prozent": 0.5,
       "einsatz_euro": 5.0,
-      "begruendung": "Beide Kader tor-arm, Espanyol-Ausfaelle in Sturm. Goldgrube-Markt aber Coinflip-Spiel = Wackel. Einsatz 5€ (0.5%)."
+      "begruendung": "Beide Kader tor-arm, Espanyol-Ausfaelle in Sturm. Goldgrube-Markt aber Coinflip-Spiel = Wackel. Einsatz 5€ (0.5%).",
+      "rang": 7
     },
     {
       "id": "ath-gir-2",
@@ -355,7 +362,8 @@
       "faire_quote": 1.69,
       "empfohlener_einsatz_prozent": 0.5,
       "einsatz_euro": 5.0,
-      "begruendung": "Beide Teams defensiv-diszipliniert, plus Athletic-CL-Rotation-Signal. Goldgrube-Markt. Einsatz 5€ (0.5%)."
+      "begruendung": "Beide Teams defensiv-diszipliniert, plus Athletic-CL-Rotation-Signal. Goldgrube-Markt. Einsatz 5€ (0.5%).",
+      "rang": 8
     }
   ],
   "kombis": [
@@ -368,25 +376,28 @@
           "tipp_id": "lev-rma-1",
           "spiel_id": "2026-09-22-lev-rma",
           "spiel_label": "Levante UD vs Real Madrid",
-          "markt": "Sieg Real Madrid (90 Min)",
+          "markt": "Levante UD - Real Madrid: Sieg Real Madrid (90 Min)",
           "quote": 1.42,
-          "kategorie": "value"
+          "kategorie": "value",
+          "spiel_titel": "Levante UD - Real Madrid"
         },
         {
           "tipp_id": "sev-vil-1",
           "spiel_id": "2026-09-22-sev-vil",
           "spiel_label": "Sevilla FC vs Villarreal CF",
-          "markt": "Villarreal oder Remis (Doppelte Chance X2)",
+          "markt": "Sevilla FC - Villarreal CF: Villarreal oder Remis (Doppelte Chance X2)",
           "quote": 1.5,
-          "kategorie": "value"
+          "kategorie": "value",
+          "spiel_titel": "Sevilla FC - Villarreal CF"
         },
         {
           "tipp_id": "ath-gir-1",
           "spiel_id": "2026-09-22-ath-gir",
           "spiel_label": "Athletic Club Bilbao vs Girona FC",
-          "markt": "Athletic oder Remis (Doppelte Chance 1X)",
+          "markt": "Athletic Club Bilbao - Girona FC: Athletic oder Remis (Doppelte Chance 1X)",
           "quote": 1.25,
-          "kategorie": "value"
+          "kategorie": "value",
+          "spiel_titel": "Athletic Club Bilbao - Girona FC"
         }
       ],
       "gesamtquote": 2.66,
@@ -404,25 +415,28 @@
           "tipp_id": "lev-rma-3",
           "spiel_id": "2026-09-22-lev-rma",
           "spiel_label": "Levante UD vs Real Madrid",
-          "markt": "Kylian Mbappe Torschuetze jederzeit",
+          "markt": "Levante UD - Real Madrid: Kylian Mbappe Torschuetze jederzeit",
           "quote": 1.55,
-          "kategorie": "value"
+          "kategorie": "value",
+          "spiel_titel": "Levante UD - Real Madrid"
         },
         {
           "tipp_id": "sev-vil-2",
           "spiel_id": "2026-09-22-sev-vil",
           "spiel_label": "Sevilla FC vs Villarreal CF",
-          "markt": "Beide Teams treffen",
+          "markt": "Sevilla FC - Villarreal CF: Beide Teams treffen",
           "quote": 1.7,
-          "kategorie": "wackel"
+          "kategorie": "wackel",
+          "spiel_titel": "Sevilla FC - Villarreal CF"
         },
         {
           "tipp_id": "esp-val-1",
           "spiel_id": "2026-09-22-esp-val",
           "spiel_label": "RCD Espanyol Barcelona vs Valencia CF",
-          "markt": "Unter 2.5 Tore",
+          "markt": "RCD Espanyol Barcelona - Valencia CF: Unter 2.5 Tore",
           "quote": 1.65,
-          "kategorie": "wackel"
+          "kategorie": "wackel",
+          "spiel_titel": "RCD Espanyol Barcelona - Valencia CF"
         }
       ],
       "gesamtquote": 4.35,
@@ -440,25 +454,28 @@
           "tipp_id": "lev-rma-4",
           "spiel_id": "2026-09-22-lev-rma",
           "spiel_label": "Levante UD vs Real Madrid",
-          "markt": "Ueber 2.5 Tore",
+          "markt": "Levante UD - Real Madrid: Ueber 2.5 Tore",
           "quote": 1.55,
-          "kategorie": "wackel"
+          "kategorie": "wackel",
+          "spiel_titel": "Levante UD - Real Madrid"
         },
         {
           "tipp_id": "sev-vil-3",
           "spiel_id": "2026-09-22-sev-vil",
           "spiel_label": "Sevilla FC vs Villarreal CF",
-          "markt": "Ueber 2.5 Tore",
+          "markt": "Sevilla FC - Villarreal CF: Ueber 2.5 Tore",
           "quote": 1.85,
-          "kategorie": "wackel"
+          "kategorie": "wackel",
+          "spiel_titel": "Sevilla FC - Villarreal CF"
         },
         {
           "tipp_id": "ath-gir-2",
           "spiel_id": "2026-09-22-ath-gir",
           "spiel_label": "Athletic Club Bilbao vs Girona FC",
-          "markt": "Unter 2.5 Tore",
+          "markt": "Athletic Club Bilbao - Girona FC: Unter 2.5 Tore",
           "quote": 1.75,
-          "kategorie": "wackel"
+          "kategorie": "wackel",
+          "spiel_titel": "Athletic Club Bilbao - Girona FC"
         }
       ],
       "gesamtquote": 5.02,
