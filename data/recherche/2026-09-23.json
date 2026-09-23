@@ -1,0 +1,33 @@
+{
+  "datum": "2026-09-23",
+  "erstellt_am": "2026-09-23T13:35:00+02:00",
+  "modus": "tag",
+  "_break_zone": true,
+  "_break_fenster": "2026-09-21 bis 2026-10-06 (FIFA XL International Break)",
+  "_note": "Break-flag-Recherche-File statt Skip (Lehre 22.09.2026): Damit die Master-Routine nicht wieder in eine Watchdog-Wochen-Dossier-Fake-Extraction rennt, wird auch in Break-Zonen ein leeres Recherche-File erzeugt, das den Zustand explizit dokumentiert. Kein einziges Spiel aus der CLAUDE.md-Whitelist mit Anstoss am 2026-09-23 (Berliner Zeit).",
+  "verifikation_quellen": [
+    "https://www.sportinglife.com/football/fixtures-results/2026-09-23",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League",
+    "https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-fixtures/",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Conference_League_league_phase",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_EFL_Cup",
+    "https://www.spox.com/fussball/news/bundesliga-saison-2026-27-warum-ist-zwischen-september-und-oktober-drei-wochen-laenderspielpause/blt405fb3fe17574750"
+  ],
+  "break_befund": {
+    "bundesliga_md5": "Fr 10.10.2026 (nach Break)",
+    "premier_league_mw7": "Sa 03.10.2026 (nach Break)",
+    "laliga_j8": "Fr 09.10.2026 (nach Break) - Midweek-Jornada-6 22.-24.09. war Wochen-Dossier-Halluzination (siehe tipps 2026-09-22 Drop)",
+    "serie_a_g6": "Sa 03.10.2026 (nach Break)",
+    "ligue_1_j8": "Sa 03.10.2026 (nach Break)",
+    "zweite_bundesliga_md6": "abgeschlossen Fr-So 18.-20.09., naechster Spieltag nach Break",
+    "champions_league_md2": "Di-Mi 13.-14.10.2026",
+    "europa_league_md2": "Do 15.10.2026",
+    "conference_league_md1": "Do 15.10.2026 (Ligaphase startet nach Break)",
+    "nations_league_md1": "startet Do 24.09.2026 (morgen) - heute noch nichts",
+    "dfb_pokal_r2": "27.-28.10.2026",
+    "coppa_italia_r16": "02.-16.12.2026",
+    "efl_cup_r3": "beendet 15.-17.09.2026, R4 Ende Oktober",
+    "supercup_diese_woche": "keiner"
+  },
+  "spiele": []
+}
