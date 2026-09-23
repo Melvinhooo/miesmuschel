@@ -52,6 +52,14 @@
       "https://en.wikipedia.org/wiki/2026%E2%80%9327_EFL_Cup",
       "https://www.spox.com/fussball/news/bundesliga-saison-2026-27-warum-ist-zwischen-september-und-oktober-drei-wochen-laenderspielpause/blt405fb3fe17574750"
     ],
-    "verifikations_aussage": "OK - Mi 23.09.2026 verifiziert leer. Keine Whitelist-Spiele im Fenster. Watchdog-Recovery-Fake-Slate (3 Spiele, 13 Tipps, 4 Kombis) sauber gedroppt und durch verifiziertes leeres Slate ersetzt. Break-flag-Recherche-File neu geschrieben, damit weitere Watchdog-Iterationen einen sauberen Anker haben. Kasse 1000€ / Stufe 1 unangetastet. Naechster echter Tipp-Tag: Do 24.09.2026 (Nations League A MD1)."
+    "verifikations_aussage": "OK - Mi 23.09.2026 verifiziert leer. Keine Whitelist-Spiele im Fenster. Watchdog-Recovery-Fake-Slate (3 Spiele, 13 Tipps, 4 Kombis) sauber gedroppt und durch verifiziertes leeres Slate ersetzt. Break-flag-Recherche-File neu geschrieben, damit weitere Watchdog-Iterationen einen sauberen Anker haben. Kasse 1000€ / Stufe 1 unangetastet. Naechster echter Tipp-Tag: Do 24.09.2026 (Nations League A MD1).",
+    "_backstop_run": {
+      "erstellt_am": "2026-09-23T18:15:00+02:00",
+      "modus": "safety_net_backstop_independent_recheck",
+      "aussage": "Backstop-Lauf hat das bereits committete Dossier gegen frische unabhaengige Quellen gegengeprueft (sportinglife.com/football/fixtures-results/2026-09-23 via WebFetch + WebSearch 'football fixtures Wednesday September 23 2026'). Ergebnis: keine Whitelist-Spiele in Bundesliga / 2. BL / Premier League / LaLiga / Serie A / Ligue 1 / Champions League / Europa League / Conference League / DFB-Pokal / FA Cup / Coppa Italia / EFL Cup / Coupe de France / UEFA Nations League / Supercups am 23.09.2026. FIFA XL Break bestaetigt. Bestehende Master-Verifikation traegt. Kein Overwrite noetig - leeres, ehrliches Dossier bleibt so wie es ist.",
+      "quellen": [
+        "https://www.sportinglife.com/football/fixtures-results/2026-09-23"
+      ]
+    }
   }
 }
