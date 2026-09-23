@@ -1,0 +1,68 @@
+{
+  "datum": "2026-09-22",
+  "erstellt_am": "2026-09-22T15:41:00+02:00",
+  "hinweis": "🐚 Master-Tipps-Routine Di 2026-09-22 (Saison 2026/27, Kasse 1000€ / Stufe 1). **Kein Vereins-Slate heute — FIFA XL International Break laeuft 21.09.-06.10.2026.** Bundesliga MD5 erst Fr 10.10., Premier League MW7 erst Sa 03.10. (Break verlaengert), LaLiga J8 startet Fr 09.10., Serie A g6 Sa 03.10., Ligue 1 J8 Sa 03.10. Cup: DFB-Pokal 2. Runde erst 27.-28.10., Coppa Italia R16 erst 02.-16.12., EFL Cup R3 abgeschlossen 15./16.09., R4 erst Ende Oktober. Kein Supercup diese Woche. Nations League Ligaphase A/B/C startet erst Do 24.09. / Fr 25.09. — heute Dienstag noch kein Nations-League-Spiel. **Watchdog-Recovery-File von heute Mittag** (Extract aus Wochen-Vorschau 21.09.) **hat 4 LaLiga-Jornada-6-Spiele als aktiv gelistet, die tatsaechlich nicht stattfinden**: Levante-Real Madrid (Real spielt naechstes LaLiga am Sa 10.10. gg Villarreal, Levante Mo 12.10. gg Sevilla, per LaLiga.com/next-matches), plus Sevilla-Villarreal, Athletic-Girona und Espanyol-Valencia sind ebenfalls nicht angesetzt. Ursprungs-Fehler steckt bereits im Wochen-Dossier 21.09. (Annahme LaLiga-Midweek-Jornada-6 fuer 22.-24.09.). Fuer heute deshalb ehrliches leeres Slate — kein SAFE, kein VALUE, kein Kombi. Naechster echter Tipp-Tag: Do 24.09. (Nations League A Ligaphase MD1). BZgA 0800 1372700.",
+  "spiele": [],
+  "einzeltipps": [],
+  "kombis": [],
+  "lessons_angewandt": [
+    "Zeitfenster-Hartregel (CLAUDE.md 22.08.2026): Tages-Dossier deckt nur Anstoss am 2026-09-22 (Berliner Zeit) ab — heute keine Spiele in Top-5-Ligen + Europapokal + nationalen Cups.",
+    "Kader- und Trainer-Frische / Anti-Halluzination: Spiele nicht aus Gedaechtnis oder Vor-Dossier uebernehmen, sondern pro Spieltag gegen offizielle Quelle (LaLiga.com/next-matches, bundesliga.com, uefa.com) verifizieren. Watchdog-Recovery hatte Vor-Dossier-Kopie ohne Live-Check uebernommen — Ergebnis waren 4 erfundene LaLiga-Spiele.",
+    "Ehrlichkeits-Prinzip (CLAUDE.md 'Notfall-Fallback'): Ein leeres, ehrliches Dossier mit erklaerendem hinweis ist ein gueltiges Ergebnis. Lieber sichtbar 0 Spiele als 4 Fake-Spiele mit sauber-aussehendem saison_kontext.",
+    "FIFA XL Break-Kontext: Neuer 3-Wochen-Break kombiniert Sept + Okt zu einem Fenster (21.09.-06.10.), fuehrt zu drei tipp-armen Kalenderwochen. Master-Routine erkennt Break-Zone und generiert leere Tages-Slates statt Fake-Fuellung."
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-09-22T15:41:00+02:00",
+    "modus": "master_routine_break_zone_ehrliches_leer_slate",
+    "drops": [
+      {
+        "art": "watchdog_recovery_fake_spiele",
+        "details": "Watchdog-Recovery-File 14:45 hatte 4 LaLiga-Jornada-6-Spiele (Levante-Real, Sevilla-Villarreal, Athletic-Girona, Espanyol-Valencia). Verifikation per LaLiga.com/clubs/<team>/next-matches ergibt: Real Madrid naechstes Spiel Sa 10.10. gg Villarreal (MD8), Levante Mo 12.10. gg Sevilla (MD8). Kein LaLiga-Spiel am 22.09.2026. Alle 4 Spiele + 8 Einzeltipps + 3 Kombis komplett gedroppt und durch leeres Slate ersetzt."
+      }
+    ],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "fifa_xl_international_break",
+        "details": "FIFA XL Break laeuft 21.09.2026-06.10.2026 (Quelle: Bundesliga.com 'Why is September October international break so long', Bavarian Football Works, Groundhopper Soccer Guides). Alle Top-5-Ligen (Bundesliga, Premier League, LaLiga, Serie A, Ligue 1) sowie 2. Bundesliga pausieren. Nationale Cups + Europapokal in dieser Woche keine Runden."
+      },
+      {
+        "art": "recherche_file_fehlt",
+        "details": "data/recherche/2026-09-22.json fehlt (letzte Recherche war 2026-09-18.json). Break-Zone-Bewusstsein war in Recherche-Routine nicht eingebaut — sollte fuer 21.09.-06.10. leeres oder Break-flag-Recherche-File erzeugen anstatt zu skippen."
+      },
+      {
+        "art": "wochen_dossier_2026_09_21_hat_gleiche_fake_spiele",
+        "details": "data/tipps_woche/2026-09-21.json listet dieselben LaLiga-Jornada-6-Spiele als 'Midweek Di-Do 22.-24.09.'. Da anker < today ist, gilt es als historisches Dossier und wird laut fix_schema.py validate_datum_scope nicht mehr umgeschrieben. Manueller Fix optional. Bug-Ursache: Wochen-Vorschau-Routine hat aus Vor-Wochen-Fahrplan (Midweek-Runden vor WM) auf 2026/27 extrapoliert, ohne den neuen FIFA-XL-Break einzurechnen."
+      },
+      {
+        "art": "kein_alternative_slate_moeglich",
+        "details": "U21-Quali, Frauen-CL, unterklassige Ligen sind nicht in CLAUDE.md 'Aktive Sportarten'. NBA ist Offseason (Start ~Okt). Bewusst keine Ausweich-Ligen-Fuellung — Break bleibt als Break sichtbar."
+      }
+    ],
+    "lessons_generiert": [
+      "Recherche-Routine sollte FIFA-Break-Zonen erkennen und leeres/Break-flag-File erzeugen statt zu skippen. Dann laeuft Watchdog nicht in eine Wochen-Dossier-Fake-Extraction rein.",
+      "Wochen-Vorschau-Routine muss FIFA-XL-Break vor jeder Runden-Annahme pruefen. Sowohl UEFA-Ligaphase-Termine als auch nationale Ligen ausschliessen wenn Break aktiv ist."
+    ]
+  },
+  "_backstop_report": {
+    "erstellt_am": "2026-09-22T19:15:00+02:00",
+    "trigger": "Safety-Net-Backstop - unabhaengige Drittpruefung nach Master-Routine (13:30, Fake-LaLiga-Drop 15:41) und ohne Watchdog-Recovery-Recycle. Aufgabe: sicherstellen, dass die leere Behauptung fuer 2026-09-22 wirklich stimmt, bevor sie dauerhaft im Repo bleibt.",
+    "verifikations_methode": "Frische WebSearch-Runde quer ueber alle Whitelist-Wettbewerbe fuer Di 22.09.2026, unabhaengig vom 15:41-Lauf. Direkt gecheckt: UEFA CL/EL Wikipedia-Fixtures, DFB / Bundesliga Rahmenterminkalender, UEFA Nations League Startdatum.",
+    "quellen_geprueft": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League",
+      "https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-fixtures/",
+      "https://www.sportinglife.com/football/fixtures-results/tomorrow",
+      "https://www.spox.com/fussball/news/bundesliga-saison-2026-27-warum-ist-zwischen-september-und-oktober-drei-wochen-laenderspielpause/blt405fb3fe17574750",
+      "https://magdeburg-fussball.de/news/bundesliga-laenderspielpause-zwei-wochen-xxl-pause-september-2026-4279173",
+      "https://www.dfb.de/news/rahmenterminkalender-fuer-saison-2026/2027-festgelegt"
+    ],
+    "befund": "Bestaetigt: Am Di 22.09.2026 kein einziges Spiel aus der CLAUDE.md-Whitelist. Champions League MD1 lief 8.-10.09., MD2 erst 13.-14.10. Europa League MD1 lief 16.-17.09., MD2 erst 15.10. Bundesliga MW4 endete 20.09., MW5 startet 10.10. Premier League/LaLiga/Serie A/Ligue 1 analog in der Pause. UEFA Nations League Ligaphase startet erst Do 24.09. (Germany-Netherlands u.a.). Keine nationalen Cup-Runden diese Woche. FIFA XL Break 21.09.-06.10.2026 offiziell bestaetigt.",
+    "backstop_entscheidung": "Leeres Dossier bleibt - Backstop-Prinzip (CLAUDE.md): 'Lieber ein kleines, ehrliches Dossier als GAR KEINS. Wenn heute keine Spiele: gueltiges Dossier mit hinweis-Text der die Lage erklaert.' Der 15:41-Lauf hat die Fake-LaLiga-Spiele aus der Watchdog-Recovery bereits sauber gedroppt und ein verifiziertes leeres Slate hinterlassen. Kein Bedarf, das mit einem Fantasy-Slate zu ueberschreiben. Kein Tipp erfunden.",
+    "verifikations_aussage": "OK - unabhaengige Drittpruefung bestaetigt den 15:41-Befund. Keine Widersprueche, kein zusaetzlicher Drop notwendig. Kasse 1000€ / Stufe 1 unangetastet. Naechster echter Tipp-Tag: Do 24.09.2026 (Nations League A MD1)."
+  },
+  "einzeltipps_ergebnis": [],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-09-23T06:11:50+00:00"
+}
