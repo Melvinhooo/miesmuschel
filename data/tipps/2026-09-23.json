@@ -35,13 +35,14 @@
       "tipps": [
         {
           "id": "atm-ray-1",
-          "kategorie": "safe",
+          "kategorie": "value",
           "markt": "Atletico Madrid oder Remis (Doppelte Chance 1X)",
           "quote": 1.14,
           "edge_prozent": 4.0,
-          "begruendung": "Simeone hat gegen Rayo seit 2013 nicht verloren, aktuelle Form + Heim-Metropolitano + LaLiga-Jornada-3-Goldgrube (100 % Hit / +163 % ROI). Doppelte Chance 1X ist Markt-Goldgrube (75 % Hit / +29.9 % ROI). Kasse 1000€ → 1.5 % = 15€. Quote bei bet365 live pruefen.",
+          "begruendung": "Simeone hat gegen Rayo seit 2013 nicht verloren, aktuelle Form + Heim-Metropolitano + LaLiga-Jornada-3-Goldgrube (100 % Hit / +163 % ROI). Doppelte Chance 1X ist Markt-Goldgrube (75 % Hit / +29.9 % ROI). Kasse 1000€ → 1.5 % = 15€. Quote bei bet365 live pruefen. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value]",
           "faire_quote": 1.1,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "atm-ray-2",
@@ -118,13 +119,14 @@
       "tipps": [
         {
           "id": "rso-mal-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Real Sociedad oder Remis (Doppelte Chance 1X)",
           "quote": 1.3,
           "edge_prozent": 4.0,
-          "begruendung": "DC 1X ist Top-Markt-Goldgrube (75 % Hit / +29.9 % ROI). RSoc traditionell stark in Anoeta gegen Mallorca (1:0 letzte Saison). EL-Belastung senkt aber die SAFE-Kandidatur - deshalb VALUE statt SAFE. 1.5 % = 15€.",
+          "begruendung": "DC 1X ist Top-Markt-Goldgrube (75 % Hit / +29.9 % ROI). RSoc traditionell stark in Anoeta gegen Mallorca (1:0 letzte Saison). EL-Belastung senkt aber die SAFE-Kandidatur - deshalb VALUE statt SAFE. 1.5 % = 15€. [Auto: Saison-Kontext-Sanity - Belastungs-Warnung (Recovery) -> value->wackel]",
           "faire_quote": 1.25,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "rso-mal-2",
@@ -241,9 +243,10 @@
       "kategorie": "safe",
       "markt": "Atletico Madrid oder Remis (Doppelte Chance 1X)",
       "quote": 1.14,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 15.0,
-      "begruendung": "Simeone gegen Rayo seit 2013 ungeschlagen, Home + LaLiga-Jornada-3-Goldgrube-Bilanz. DC-1X ist Markt-Goldgrube (75 % Hit / +29.9 % ROI). Kasse 1000€ Stufe 1. Quote bei bet365 live pruefen."
+      "begruendung": "Simeone gegen Rayo seit 2013 ungeschlagen, Home + LaLiga-Jornada-3-Goldgrube-Bilanz. DC-1X ist Markt-Goldgrube (75 % Hit / +29.9 % ROI). Kasse 1000€ Stufe 1. Quote bei bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
     },
     {
       "id": "get-ala-1",
@@ -252,9 +255,10 @@
       "kategorie": "safe",
       "markt": "Unter 3.5 Tore",
       "quote": 1.28,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 15.0,
-      "begruendung": "Bordalas-DNA + Alaves-Kompaktheit, direkte Historie 1:1 und 1:0. Unter 3.5 als sichere Variante von Unter 2.5 (Goldgrube 63 % Hit / +24.1 %)."
+      "begruendung": "Bordalas-DNA + Alaves-Kompaktheit, direkte Historie 1:1 und 1:0. Unter 3.5 als sichere Variante von Unter 2.5 (Goldgrube 63 % Hit / +24.1 %).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
     },
     {
       "id": "rso-mal-1",
@@ -263,9 +267,10 @@
       "kategorie": "value",
       "markt": "Real Sociedad oder Remis (Doppelte Chance 1X)",
       "quote": 1.3,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 15.0,
-      "begruendung": "Anoeta-Vorteil + DC-1X-Markt-Goldgrube. EL-Belastung senkt SAFE-Kandidatur, deshalb VALUE."
+      "begruendung": "Anoeta-Vorteil + DC-1X-Markt-Goldgrube. EL-Belastung senkt SAFE-Kandidatur, deshalb VALUE.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
     },
     {
       "id": "atm-ray-2",
@@ -274,9 +279,10 @@
       "kategorie": "value",
       "markt": "Julian Alvarez Torschuetze jederzeit",
       "quote": 2.0,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 15.0,
-      "begruendung": "Zentraler 9er mit Form-Edge, Einwechslungs-Boost via Jonathan David / Griezmann sichert Torschuetzen-Tipp. HR24 Bed. 1+2."
+      "begruendung": "Zentraler 9er mit Form-Edge, Einwechslungs-Boost via Jonathan David / Griezmann sichert Torschuetzen-Tipp. HR24 Bed. 1+2.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
     },
     {
       "id": "atm-ray-3",
@@ -285,9 +291,10 @@
       "kategorie": "value",
       "markt": "Über 2.5 Tore",
       "quote": 1.85,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 15.0,
-      "begruendung": "Atletico nach Umbau offensiver (2:1 gg Real, 0:3 in Bilbao). Rayo defensiv fragil auswaerts. Ueber-2.5-Markt-Goldgrube."
+      "begruendung": "Atletico nach Umbau offensiver (2:1 gg Real, 0:3 in Bilbao). Rayo defensiv fragil auswaerts. Ueber-2.5-Markt-Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5
     },
     {
       "id": "get-ala-2",
@@ -296,9 +303,10 @@
       "kategorie": "value",
       "markt": "Unter 2.5 Tore",
       "quote": 1.8,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 15.0,
-      "begruendung": "Historie 1:1 + 1:0, defensiv-orientierte Struktur beidseitig. Markt-Goldgrube 63 % Hit / +24.1 % ROI."
+      "begruendung": "Historie 1:1 + 1:0, defensiv-orientierte Struktur beidseitig. Markt-Goldgrube 63 % Hit / +24.1 % ROI.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6
     },
     {
       "id": "rso-mal-2",
@@ -307,9 +315,10 @@
       "kategorie": "value",
       "markt": "Unter 3.5 Tore",
       "quote": 1.35,
-      "einsatz_prozent": 1.0,
       "einsatz_euro": 10.0,
-      "begruendung": "RSoc-Heim-Spiele in dieser Saison ergebnisarm, Mallorca defensiv. Sichere Variante der Unter-2.5-Goldgrube."
+      "begruendung": "RSoc-Heim-Spiele in dieser Saison ergebnisarm, Mallorca defensiv. Sichere Variante der Unter-2.5-Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
     },
     {
       "id": "rso-mal-3",
@@ -318,9 +327,10 @@
       "kategorie": "value",
       "markt": "Mikel Oyarzabal Torschuetze jederzeit",
       "quote": 2.75,
-      "einsatz_prozent": 1.0,
       "einsatz_euro": 10.0,
-      "begruendung": "Kapitaen, Elfmeter-Schuetze, klarer 9er der Rolle. Ochieng als Ersatz sichert Einwechslungs-Boost."
+      "begruendung": "Kapitaen, Elfmeter-Schuetze, klarer 9er der Rolle. Ochieng als Ersatz sichert Einwechslungs-Boost.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8
     },
     {
       "id": "get-ala-3",
@@ -329,9 +339,10 @@
       "kategorie": "wackel",
       "markt": "Beide Teams treffen NEIN",
       "quote": 2.05,
-      "einsatz_prozent": 0.5,
       "einsatz_euro": 5.0,
-      "begruendung": "BTTS-NEIN Top-Goldgrube (60 % / +49.8 %, n=5 klein). Beide Zu-Null-Szenarien realistisch."
+      "begruendung": "BTTS-NEIN Top-Goldgrube (60 % / +49.8 %, n=5 klein). Beide Zu-Null-Szenarien realistisch.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9
     },
     {
       "id": "atm-ray-4",
@@ -340,9 +351,10 @@
       "kategorie": "wackel",
       "markt": "Beide Teams treffen JA",
       "quote": 2.1,
-      "einsatz_prozent": 0.5,
       "einsatz_euro": 5.0,
-      "begruendung": "Rayo hat in Barca- und Real-Pleite je getroffen, Atletico laesst hinten gerade was zu. BTTS-JA-Goldgrube."
+      "begruendung": "Rayo hat in Barca- und Real-Pleite je getroffen, Atletico laesst hinten gerade was zu. BTTS-JA-Goldgrube.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10
     }
   ],
   "kombis": [
@@ -375,10 +387,10 @@
       ],
       "gesamtquote": 1.9,
       "gesamtquote_rechnung": "1.14 x 1.30 x 1.28 = 1.90",
-      "einsatz_prozent": 2.0,
       "einsatz_euro": 20.0,
       "moeglicher_gewinn_euro": 37.94,
-      "begruendung": "Drei ergebnisarme bzw. Heim-Favoriten-Beine mit DC-Absicherung. Alle drei aus Markt-Goldgruben (DC 1X, Unter 3.5). Layer-1 sauber (3 verschiedene Spiele), Layer-2 keine Doppel-Sieg-Outcomes."
+      "begruendung": "Drei ergebnisarme bzw. Heim-Favoriten-Beine mit DC-Absicherung. Alle drei aus Markt-Goldgruben (DC 1X, Unter 3.5). Layer-1 sauber (3 verschiedene Spiele), Layer-2 keine Doppel-Sieg-Outcomes.",
+      "empfohlener_einsatz_prozent": 2.0
     },
     {
       "id": "kombi-balance",
@@ -409,10 +421,10 @@
       ],
       "gesamtquote": 4.5,
       "gesamtquote_rechnung": "1.85 x 1.35 x 1.80 = 4.50",
-      "einsatz_prozent": 0.8,
       "einsatz_euro": 8.0,
       "moeglicher_gewinn_euro": 36.0,
-      "begruendung": "Tor-Total-Mix: ein Ueber (Atletico-Rayo als offenes Match) plus zwei Unter (ergebnisarme LaLiga-Duelle). Layer-3: kein Bein doppelt zum Safe-Kombi. Quote knapp unter Balance-Ziel 6-10x - ehrlich flagged, aber die Beine sind alle Goldgruben-Maerkte, deshalb behalten."
+      "begruendung": "Tor-Total-Mix: ein Ueber (Atletico-Rayo als offenes Match) plus zwei Unter (ergebnisarme LaLiga-Duelle). Layer-3: kein Bein doppelt zum Safe-Kombi. Quote knapp unter Balance-Ziel 6-10x - ehrlich flagged, aber die Beine sind alle Goldgruben-Maerkte, deshalb behalten.",
+      "empfohlener_einsatz_prozent": 0.8
     },
     {
       "id": "kombi-risk",
@@ -443,23 +455,16 @@
       ],
       "gesamtquote": 11.28,
       "gesamtquote_rechnung": "2.00 x 2.75 x 2.05 = 11.28",
-      "einsatz_prozent": 0.25,
       "einsatz_euro": 2.5,
       "moeglicher_gewinn_euro": 28.19,
-      "begruendung": "Zwei zentrale 9er als Torschuetzen + BTTS-NEIN im Coliseum. Layer-2 sauber (keine Sieg-Outcomes), Layer-3 alle drei Beine markt-entkoppelt. Ehrlich flagged: liegt knapp unter Risiko-Range 15-30x - aber die Torschuetzen-Quoten sind bei diesen Spielen realistisch nicht hoeher, ohne die Kombi kuenstlich aufzublasen."
+      "begruendung": "Zwei zentrale 9er als Torschuetzen + BTTS-NEIN im Coliseum. Layer-2 sauber (keine Sieg-Outcomes), Layer-3 alle drei Beine markt-entkoppelt. Ehrlich flagged: liegt knapp unter Risiko-Range 15-30x - aber die Torschuetzen-Quoten sind bei diesen Spielen realistisch nicht hoeher, ohne die Kombi kuenstlich aufzublasen.",
+      "empfohlener_einsatz_prozent": 0.25
     },
     {
       "id": "kombi-moonshot",
       "profil": "Moonshot",
       "kategorie": "moonshot",
       "beine": [
-        {
-          "spiel_id": "2026-09-21-atm-ray",
-          "spiel_label": "Atletico Madrid vs Rayo Vallecano",
-          "markt": "Genauer Sieger Rayo Vallecano",
-          "quote": 8.5,
-          "kategorie": "moonshot"
-        },
         {
           "spiel_id": "2026-09-21-rso-mal",
           "spiel_label": "Real Sociedad vs Mallorca",
@@ -475,12 +480,13 @@
           "kategorie": "moonshot"
         }
       ],
-      "gesamtquote": 70.13,
+      "gesamtquote": 8.25,
       "gesamtquote_rechnung": "8.50 x 3.75 x 2.20 = 70.13",
-      "einsatz_prozent": 0.1,
       "einsatz_euro": 1.0,
       "moeglicher_gewinn_euro": 70.13,
-      "begruendung": "Underdog-Sieg Rayo als Anker + Muriqi-Standard-Bedrohung + Getafe-Alaves-BTTS als kleinerer Faktor. Ehrlich: Rayo hat seit 2013 nicht in Madrid gegen Atletico gewonnen, deshalb wirklich nur Spass-Einsatz. Quote knapp unter der 100x-Zielmarke - lieber ehrlich 70x als kuenstlich aufblasen. 1€ Spass."
+      "begruendung": "Underdog-Sieg Rayo als Anker + Muriqi-Standard-Bedrohung + Getafe-Alaves-BTTS als kleinerer Faktor. Ehrlich: Rayo hat seit 2013 nicht in Madrid gegen Atletico gewonnen, deshalb wirklich nur Spass-Einsatz. Quote knapp unter der 100x-Zielmarke - lieber ehrlich 70x als kuenstlich aufblasen. 1€ Spass.",
+      "empfohlener_einsatz_prozent": 0.1,
+      "rechnung": "3.75 x 2.20 = 8.25"
     }
   ],
   "lessons_angewandt": [
