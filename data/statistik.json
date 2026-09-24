@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-09-23T06:11:50+00:00",
+  "letzte_berechnung": "2026-09-24T06:11:51+00:00",
   "gesamt": {
     "tipps": 430,
     "gewonnen": 231,
@@ -23,15 +23,15 @@
     "roi_prozent": 83.1
   },
   "letzte_90_tage": {
-    "tipps": 354,
-    "gewonnen": 187,
-    "verloren": 155,
+    "tipps": 342,
+    "gewonnen": 181,
+    "verloren": 149,
     "push": 1,
     "offen": 11,
-    "einsatz": 343.0,
-    "netto": 75.23,
-    "trefferquote": 54.7,
-    "roi_prozent": 21.9
+    "einsatz": 331.0,
+    "netto": 78.58,
+    "trefferquote": 54.8,
+    "roi_prozent": 23.7
   },
   "nach_liga": {
     "FIFA World Cup 2026 - Gruppe H - Spieltag 1": {
