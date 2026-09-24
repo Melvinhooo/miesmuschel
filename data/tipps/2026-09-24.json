@@ -43,6 +43,18 @@
       "https://www.espn.com/soccer/schedule/_/league/fra.coupe_de_france",
       "https://www.spox.com/fussball/news/bundesliga-saison-2026-27-warum-ist-zwischen-september-und-oktober-drei-wochen-laenderspielpause/blt405fb3fe17574750"
     ],
-    "verifikations_aussage": "OK - Do 24.09.2026 verifiziert leer. Keine Whitelist-Spiele im Fenster. Nations-League-A-MD1 laeuft, ist aber Nationalmannschafts-Serie und laut CLAUDE.md nicht bespielbar. Kasse 1000€ / Stufe 1 unangetastet. Naechster echter Tipp-Tag: nach Break-Ende, voraussichtlich Fr 03.10.2026."
+    "verifikations_aussage": "OK - Do 24.09.2026 verifiziert leer. Keine Whitelist-Spiele im Fenster. Nations-League-A-MD1 laeuft, ist aber Nationalmannschafts-Serie und laut CLAUDE.md nicht bespielbar. Kasse 1000€ / Stufe 1 unangetastet. Naechster echter Tipp-Tag: nach Break-Ende, voraussichtlich Fr 03.10.2026.",
+    "backstop_cross_check": {
+      "gelaufen_am": "2026-09-24T19:51:00+02:00",
+      "rolle": "Safety-Net Backstop (dritte Stufe nach Hauptroutine + Watchdog)",
+      "vorgehen": "Anlass: Watchdog-Dossier existiert bereits mit spiele[]=[] und einzeltipps[]=[]. Aus Pipeline-Sicht ein 'leeres' Dossier - deshalb Backstop-Trigger. Zwei unabhaengige Zweit-Checks quer ueber die Whitelist-Wettbewerbe, um die ehrliche Leer-Aussage der Watchdog-Verifikation nicht blind zu uebernehmen.",
+      "unabhaengige_quellen": [
+        "https://www.sportinglife.com/football/fixtures-results/2026-09-24 - fetched: 'No matches found' fuer alle Whitelist-Wettbewerbe (Bundesliga, PL, LaLiga, Serie A, Ligue 1, DFB-Pokal, FA Cup, Copa del Rey, Coppa Italia, Coupe de France, CL, EL, ECL, Supercups). Nur Nations League + Friendlies gelistet.",
+        "WebSearch nach Cup-Terminen bestaetigt: DFB-Pokal R2 = 27.-28.10.2026, Coppa Italia R16 = 02.-16.12.2026 (Sep-Runden bereits am 02.09. + 15.09. gespielt), Copa del Rey Vor-Runde startet 26.-27.09. (Sa-So, nicht heute), Coupe de France R4 = 26.-27.09. (Sa-So, nicht heute). Keine Runde faellt auf Do 24.09."
+      ],
+      "urteil": "BESTAETIGT: 0 Whitelist-Vereins-Spiele mit Anstoss am 2026-09-24 (Berliner Zeit). Watchdog-Dossier ist faktisch korrekt.",
+      "aktion": "Watchdog-Dossier UNANGETASTET gelassen (keine Halluzinationen, keine Ersatz-Fuellung aus Nations League/U21/Frauen/unterklassigen Ligen entgegen CLAUDE.md-Whitelist). Kasse 1000€ / Stufe 1 unberuehrt. Nur dieser backstop_cross_check-Block angefuegt als Nachweis, dass die dritte Sicherheits-Stufe gelaufen und einverstanden ist.",
+      "naechster_tipp_tag": "Fr 03.10.2026 nach Break-Ende (PL MW7 startet, Serie A g6, Ligue 1 J8). Bundesliga MD5 dann Fr 10.10., LaLiga J8 Fr 09.10."
+    }
   }
 }
