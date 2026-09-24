@@ -1,36 +1,45 @@
 {
   "datum": "2026-09-26",
-  "erstellt_am": "2026-09-24T16:16:52",
+  "erstellt_am": "2026-09-24T18:20:00+02:00",
   "modus": "wochenende",
+  "safety_net_backstop": true,
   "fenster": {
     "samstag": "2026-09-26",
     "sonntag": "2026-09-27"
   },
-  "hinweis": "🐚 Wochenend-Vorschau Sa 26.09. + So 27.09.2026 (Do-Slot 18:00 Berlin, Saison 2026/27). Kein Recherche-File - selbst nachrecherchiert. Ergebnis: NULL Spiele im Fenster fuer die aktiven Vereins-Ligen und Pokale unserer Whitelist. Grund: neue MERGED FIFA-Laenderspiel-Pause 2026/27 vom 21.09. bis 06.10.2026 (16 Tage am Stueck). Bundesliga MW4 lief 18.-20.09., MW5 erst am WE 09.-11.10.; Premier League MW5 lief 19.-20.09., MW6 erst 10.-12.10.; LaLiga J5 durch, J6 nach dem Break; Serie A 5^ giornata durch, 6^ nach dem Break; Ligue 1 J5 durch, J6 nach dem Break; 2. Bundesliga 6. Spieltag durch, 7. Spieltag nach dem Break; CL/EL/Conference MD1 lief 16.-18.09., MD2 erst 30.09.-02.10. Nations League MD1 laeuft 24.-27.09. (Nl-D, D-Griechenland etc.), aber Nations League steht nicht in unserer Whitelist (nur Vereins-Wettbewerbe + WM/EM-Turniere). Copa del Rey Fase Territorial am 26.-27.09., aber nur Regional-Clubs, keine LaLiga-Teams. Kein Supercup dieses WE. Deshalb ehrlich ein leeres Wochenend-Dossier statt erfundener Tipps. Naechstes echtes Wochenend-Dossier: Do 08.10. (Vorschau auf Bundesliga MW5 + PL MW6 + Serie A / LaLiga / Ligue 1 J6). Kasse-Stand 1000€ / Stufe 1 aktiv (Saison-Edge noch nicht bestaetigt) - bleibt an diesem WE unangetastet. 18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700.",
+  "hinweis": "🐚 Wochenend-Vorschau Sa 26.09. + So 27.09.2026 (Do-Slot 18:00 Berlin, Saison 2026/27) - Safety-Net Backstop nach Ausfall von Cloud-Hauptroutine und Cloud-Watchdog. Ergebnis nach Nachrecherche via football-data.org API + WebSearch: NULL Spiele im Fenster fuer die aktiven Vereins-Ligen und Pokale unserer Whitelist. Grund: MERGED FIFA-Laenderspiel-Pause 2026/27 vom 21.09. bis 06.10.2026 (16 Tage am Stueck, siehe Bundesliga.com + Spox-Erklaerung zur XL-Pause). Bundesliga MW4 lief 18.-20.09., MW5 erst Fr 10.10.; Premier League MW5 lief 19.-20.09., MW6 erst 03.10.; LaLiga J5 durch, J6 erst nach dem Break; Serie A 5^ giornata durch, 6^ am 03.10.; Ligue 1 J5 durch, J6 am 03.10.; 2. Bundesliga MD6 durch, MD7 am 10.10. (u.a. Nuernberg-Wolfsburg 20:30); CL/EL/Conference MD1 lief 16.-18.09., CL-MD2 13.-14.10., EL-MD2 15.10., Conference-MD1 (Ligaphase-Start) 15.10.; DFB-Pokal R2 27.-28.10.; EFL-Cup R4 in der Woche 26.10.; Coppa Italia R16 mit Serie-A-Teams erst 02.12.; Copa del Rey R1 am 28.10.; Coupe de France R7 Oktober/November; FA Cup 3. Qualifikationsrunde 03.10. (immer noch Non-League-Teams, keine Whitelist). Kein Supercup dieses WE. Nations League MD1 laeuft 24.-27.09. (Niederlande-Deutschland, Serbien-Griechenland, Norwegen-Daenemark, Portugal-Wales), aber Nations League steht nicht in unserer Whitelist (nur Vereins-Wettbewerbe + WM/EM-Turniere, siehe CLAUDE.md 'Aktive Sportarten'). Deshalb ehrlich ein leeres Wochenend-Dossier statt erfundener Tipps - Notfall-Fallback-Regel aus master_tipps_routine.md greift. Naechstes echtes Wochenend-Dossier: Do 08.10. (Vorschau auf Bundesliga MW5 + PL MW6 + Serie A / LaLiga / Ligue 1 J6 + CL-MD2). Kasse-Stand 1000€ / Stufe 1 aktiv (Saison-Edge noch nicht bestaetigt) - bleibt an diesem WE unangetastet. 18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700.",
   "spiele": [],
   "einzeltipps": [],
   "kombis": [],
   "lessons_angewandt": [
-    "Zeitfenster-Hartregel (22.08.2026): Wochenend-Dossier deckt genau Sa+So ab. Keine Tages- oder Wochen-Verletzung.",
-    "Notfall-Fallback (CLAUDE.md / master_tipps_routine.md 'Notfall-Fallback'): lieber ehrlich leer als erfunden. Nichts halluzinieren - fehlende Daten als leer setzen und im Hinweis benennen.",
-    "Whitelist-Diszipline: Nations League nicht in aktive Ligen -> keine Tipps darauf, auch wenn Spiele stattfinden."
+    "Zeitfenster-Hartregel (22.08.2026): Wochenend-Dossier deckt genau Sa+So ab. Kein Nations-League-Nachschub aus Fr 25.09. oder Do 24.09. reingeschleppt.",
+    "Notfall-Fallback (CLAUDE.md / master_tipps_routine.md 'Notfall-Fallback'): lieber ehrlich leer als erfunden. Nichts halluzinieren - fehlende Daten als leer setzen und im Hinweis begruenden.",
+    "Whitelist-Disziplin: Nations League ist Nationalmannschafts-Wettbewerb, steht nicht in 'Aktive Sportarten' (nur Vereine + Turniere WM/EM) -> keine Tipps darauf, auch wenn Spiele stattfinden.",
+    "Break-Zone-Cross-Check (Lehre 22.-23.09.2026): weder die alte Wochen-Datei tipps_woche/2026-09-21 noch das Nations-League-Programm nachtraeglich als Whitelist-Ersatz missbrauchen."
   ],
   "_verifikations_report": {
-    "erstellt_am": "2026-09-24T16:16:52",
+    "erstellt_am": "2026-09-24T18:20:00+02:00",
+    "trigger": "Safety-Net Backstop - Cloud-Hauptroutine + Cloud-Watchdog haben heute keine gefuellte Vorschau geliefert. Lokaler Backstop hat unabhaengig nachverifiziert.",
     "drops": [],
     "downgrades": [],
     "warns": [
       {
         "art": "leerer_slate",
         "spiel_id": null,
-        "details": "Merged FIFA-Laenderspielpause 21.09.-06.10.2026 - alle Top-5-Ligen pausieren, keine Whitelist-Wettbewerbe am 26.-27.09. Erwartet und honestly reported."
+        "details": "Merged FIFA-Laenderspielpause 21.09.-06.10.2026 - alle Top-5-Ligen + 2.BL + Europapokal-Ligaphase pausieren, kein Whitelist-Wettbewerb am 26.-27.09. Verifiziert per football-data.org API (0 Matches im Fenster fuer BL/PL/LaLiga/Serie A/Ligue 1/DFB-Pokal/FA Cup/CL/EL/Conference) + WebSearch (Copa del Rey R1 28.10., Coppa Italia R16 Dez, DFB-Pokal R2 27.-28.10., 2.BL MD7 10.10., FA Cup 3rd Q 03.10. Non-League)."
       }
     ],
     "lessons_generiert": [],
     "quellen": [
+      "https://api.football-data.org/v4/matches?dateFrom=2026-09-26&dateTo=2026-09-27 (0 Matches im Whitelist-Fenster)",
+      "https://www.bundesliga.com/de/bundesliga/news/spielplan-saison-start-termine-daten-2026-27-22043",
+      "https://www.spox.com/fussball/news/bundesliga-saison-2026-27-warum-ist-zwischen-september-und-oktober-drei-wochen-laenderspielpause/blt405fb3fe17574750",
       "https://www.premierleague.com/en/news/4689113/when-are-the-international-breaks-for-202627",
       "https://en.legaseriea.it/serie-a/news/looking-forward-to-the-2026-27-serie-a-fixture-list",
-      "https://anstosszeiten.de/bundesliga/spieltag-5/",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Copa_del_Rey",
+      "https://groundhopperguides.com/coppa-italia-dates-schedule-2026-27-season/",
+      "https://www.thefa.com/competitions/thefacup/round-dates",
+      "https://www.kicker.de/2-bundesliga/spieltag/2026-27/7",
       "https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-fixtures/"
     ]
   },
