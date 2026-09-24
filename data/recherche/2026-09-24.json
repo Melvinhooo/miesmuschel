@@ -1,0 +1,41 @@
+{
+  "datum": "2026-09-24",
+  "erstellt_am": "2026-09-24T14:35:00+02:00",
+  "modus": "tag",
+  "_break_zone": true,
+  "_break_fenster": "2026-09-21 bis 2026-10-06 (FIFA XL International Break)",
+  "_note": "Break-flag-Recherche-File statt Skip (Lehre 22.-23.09.2026): Damit die Master-Routine und Watchdog nicht wieder in eine LaLiga-Jornada-6-Fake-Extraction aus dem historischen Wochen-Dossier 2026-09-21 rennen, wird auch heute (4. Break-Tag in Folge) ein explizites Break-Recherche-File erzeugt. Heute Do 24.09. startet die UEFA Nations League A Ligaphase MD1 (u.a. Niederlande-Deutschland 20:45 CET). Nations League ist eine Nationalmannschafts-Serie und steht NICHT in der CLAUDE.md Vereins-Whitelist (`Aktive Sportarten` = Vereins-Fussball; WM/EM-Regeln sind seit 20.07.2026 dormant). Also 0 Whitelist-Spiele mit Anstoss am 2026-09-24 Berliner Zeit.",
+  "verifikation_quellen": [
+    "https://www.uefa.com/uefanationsleague/news/02a9-21a4f1803092-7aad154369dc-1000--uefa-nations-league-matchday-1-preview-england-vs-spain-neth/",
+    "https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-fixtures/",
+    "https://www.bundesliga.com/de/bundesliga/news/spielplan-saison-start-termine-daten-2026-27-22043",
+    "https://www.efl.com/news/2026/august/28/carabao-cup--third-round-dates-confirmed/",
+    "https://www.espn.com/soccer/schedule/_/league/ita.coppa_italia",
+    "https://www.espn.com/soccer/schedule/_/league/fra.coupe_de_france",
+    "https://www.spox.com/fussball/news/bundesliga-saison-2026-27-warum-ist-zwischen-september-und-oktober-drei-wochen-laenderspielpause/blt405fb3fe17574750"
+  ],
+  "break_befund": {
+    "bundesliga_md5": "Fr 10.10.2026 (nach Break)",
+    "premier_league_mw7": "Sa 03.10.2026 (nach Break)",
+    "laliga_j8": "Fr 09.10.2026 (nach Break) - Midweek-Jornada-6 22.-24.09. war und bleibt Wochen-Dossier-Halluzination (bestaetigt via LaLiga.com/clubs/*/next-matches)",
+    "serie_a_g6": "Sa 03.10.2026 (nach Break)",
+    "ligue_1_j8": "Sa 03.10.2026 (nach Break)",
+    "zweite_bundesliga_md6": "abgeschlossen 18.-20.09., naechster Spieltag nach Break",
+    "champions_league_md2": "Di-Mi 13.-14.10.2026",
+    "europa_league_md2": "Do 15.10.2026",
+    "conference_league_md1": "Do 15.10.2026 (Ligaphase-Start nach Break)",
+    "dfb_pokal_r2": "27.-28.10.2026",
+    "efl_cup_r3": "beendet 15.-17.09.2026, R4 Woche 26.10.2026",
+    "coppa_italia_r16": "02.-16.12.2026",
+    "copa_del_rey_r1": "Herbst 2026, kein Termin am 24.09.",
+    "coupe_de_france_r7": "Oktober/November 2026, kein Termin am 24.09.",
+    "supercup_diese_woche": "keiner",
+    "nations_league_a_md1_heute": [
+      "Niederlande vs Deutschland 20:45 CET (Gruppe A2, Nationalmannschaft - NICHT in Whitelist)",
+      "Serbien vs Griechenland 20:45 CET (Gruppe A2, Nationalmannschaft - NICHT in Whitelist)",
+      "Norwegen vs Daenemark 20:45 CET (Gruppe A4, Nationalmannschaft - NICHT in Whitelist)",
+      "Portugal vs Wales 20:45 CET (Gruppe A4, Nationalmannschaft - NICHT in Whitelist)"
+    ]
+  },
+  "spiele": []
+}
