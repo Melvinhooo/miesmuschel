@@ -1,0 +1,38 @@
+{
+  "datum": "2026-09-26",
+  "erstellt_am": "2026-09-24T16:16:52",
+  "modus": "wochenende",
+  "fenster": {
+    "samstag": "2026-09-26",
+    "sonntag": "2026-09-27"
+  },
+  "hinweis": "🐚 Wochenend-Vorschau Sa 26.09. + So 27.09.2026 (Do-Slot 18:00 Berlin, Saison 2026/27). Kein Recherche-File - selbst nachrecherchiert. Ergebnis: NULL Spiele im Fenster fuer die aktiven Vereins-Ligen und Pokale unserer Whitelist. Grund: neue MERGED FIFA-Laenderspiel-Pause 2026/27 vom 21.09. bis 06.10.2026 (16 Tage am Stueck). Bundesliga MW4 lief 18.-20.09., MW5 erst am WE 09.-11.10.; Premier League MW5 lief 19.-20.09., MW6 erst 10.-12.10.; LaLiga J5 durch, J6 nach dem Break; Serie A 5^ giornata durch, 6^ nach dem Break; Ligue 1 J5 durch, J6 nach dem Break; 2. Bundesliga 6. Spieltag durch, 7. Spieltag nach dem Break; CL/EL/Conference MD1 lief 16.-18.09., MD2 erst 30.09.-02.10. Nations League MD1 laeuft 24.-27.09. (Nl-D, D-Griechenland etc.), aber Nations League steht nicht in unserer Whitelist (nur Vereins-Wettbewerbe + WM/EM-Turniere). Copa del Rey Fase Territorial am 26.-27.09., aber nur Regional-Clubs, keine LaLiga-Teams. Kein Supercup dieses WE. Deshalb ehrlich ein leeres Wochenend-Dossier statt erfundener Tipps. Naechstes echtes Wochenend-Dossier: Do 08.10. (Vorschau auf Bundesliga MW5 + PL MW6 + Serie A / LaLiga / Ligue 1 J6). Kasse-Stand 1000€ / Stufe 1 aktiv (Saison-Edge noch nicht bestaetigt) - bleibt an diesem WE unangetastet. 18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700.",
+  "spiele": [],
+  "einzeltipps": [],
+  "kombis": [],
+  "lessons_angewandt": [
+    "Zeitfenster-Hartregel (22.08.2026): Wochenend-Dossier deckt genau Sa+So ab. Keine Tages- oder Wochen-Verletzung.",
+    "Notfall-Fallback (CLAUDE.md / master_tipps_routine.md 'Notfall-Fallback'): lieber ehrlich leer als erfunden. Nichts halluzinieren - fehlende Daten als leer setzen und im Hinweis benennen.",
+    "Whitelist-Diszipline: Nations League nicht in aktive Ligen -> keine Tipps darauf, auch wenn Spiele stattfinden."
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-09-24T16:16:52",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "leerer_slate",
+        "spiel_id": null,
+        "details": "Merged FIFA-Laenderspielpause 21.09.-06.10.2026 - alle Top-5-Ligen pausieren, keine Whitelist-Wettbewerbe am 26.-27.09. Erwartet und honestly reported."
+      }
+    ],
+    "lessons_generiert": [],
+    "quellen": [
+      "https://www.premierleague.com/en/news/4689113/when-are-the-international-breaks-for-202627",
+      "https://en.legaseriea.it/serie-a/news/looking-forward-to-the-2026-27-serie-a-fixture-list",
+      "https://anstosszeiten.de/bundesliga/spieltag-5/",
+      "https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-fixtures/"
+    ]
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700"
+}
