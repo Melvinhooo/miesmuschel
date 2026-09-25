@@ -1,49 +1,58 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
-  "datum": "2026-09-24",
-  "erstellt_am": "2026-09-24T14:35:00+02:00",
-  "hinweis": "🐚 Watchdog Tages-Tipps Do 2026-09-24 (Saison 2026/27, Kasse 1000€ / Stufe 1). **Vierter Break-Tag in Folge — FIFA XL International Break laeuft 21.09.-06.10.2026.** Alle Top-5-Ligen + 2. Bundesliga pausieren. Bundesliga MD5 erst Fr 10.10., Premier League MW7 Sa 03.10., LaLiga J8 Fr 09.10., Serie A g6 Sa 03.10., Ligue 1 J8 Sa 03.10. Champions League MD2 erst Di-Mi 13.-14.10., Europa League MD2 Do 15.10., Conference League MD1 (Ligaphase-Start) Do 15.10. DFB-Pokal R2 erst 27.-28.10., EFL Cup R4 Woche 26.10., Coppa Italia R16 02.-16.12., Copa del Rey / Coupe de France keine Runde heute. Kein Supercup. Heute Do 24.09. startet die **UEFA Nations League A MD1** (Niederlande-Deutschland, Serbien-Griechenland, Norwegen-Daenemark, Portugal-Wales, jeweils 20:45 CET) — Nations League ist eine Nationalmannschafts-Serie und steht NICHT in der CLAUDE.md Vereins-Whitelist (Aktive Sportarten = Vereins-Fussball; WM/EM-Regeln dormant seit 20.07.2026). Also **kein Whitelist-Spiel im Tages-Fenster.** Ehrliches leeres Slate wie 21.-23.09., kein SAFE, kein VALUE, keine Kombi. Naechster echter Tipp-Tag: nach Ende der Laenderspielpause, voraussichtlich Fr 03.10.2026 (Ligue 1 J8, Serie A g6, PL MW7-Auftakt). BZgA 0800 1372700.",
+  "datum": "2026-09-25",
+  "erstellt_am": "2026-09-25T14:35:00+02:00",
+  "hinweis": "🐚 Watchdog Tages-Tipps Fr 2026-09-25 (Saison 2026/27, Kasse 1000€ / Stufe 1). **Fuenfter Break-Tag in Folge — FIFA XL International Break laeuft weiter 21.09.-06.10.2026.** Alle Top-5-Ligen + 2. Bundesliga pausieren. Bundesliga MD5 erst Fr 10.10., Premier League MW7 Sa 03.10., LaLiga J8 Fr 09.10., Serie A g6 Sa 03.10., Ligue 1 J8 Sa 03.10. Champions League MD2 erst Di-Mi 13.-14.10., Europa League MD2 Do 15.10., Conference League MD1 (Ligaphase-Start) Do 15.10. DFB-Pokal R2 erst 27.-28.10., EFL Cup R4 Woche 26.10., Coppa Italia R16 02.-16.12., Copa del Rey Vor-Runde 26.-27.09. (Sa-So, nicht heute), Coupe de France R4 26.-27.09. (Sa-So, nicht heute). Kein Supercup. Am heutigen Fr 25.09. laufen weiterhin Nations-League-A-Termine (Nationalmannschafts-Serie, nicht in der CLAUDE.md-Vereins-Whitelist) — Watchdog fuellt bewusst NICHT auf. Ehrliches leeres Slate wie Mo-Do 21.-24.09. Naechster echter Tipp-Tag: nach Ende der Laenderspielpause, voraussichtlich Fr 03.10.2026 (Ligue 1 J8, Serie A g6, PL MW7-Auftakt). BZgA 0800 1372700.",
   "spiele": [],
   "einzeltipps": [],
   "kombis": [],
   "lessons_angewandt": [
-    "Zeitfenster-Hartregel (CLAUDE.md 22.08.2026): Tages-Dossier deckt nur Anstoss am 2026-09-24 (Berliner Zeit) ab — heute keine Spiele in Top-5-Ligen + 2. BL + Europapokal + nationalen Cups + Supercups.",
+    "Zeitfenster-Hartregel (CLAUDE.md 22.08.2026): Tages-Dossier deckt nur Anstoss am 2026-09-25 (Berliner Zeit) ab — heute keine Spiele in Top-5-Ligen + 2. BL + Europapokal + nationalen Cups + Supercups.",
     "Aktive Sportarten (CLAUDE.md): Nations League ist Nationalmannschaft, gehoert nicht in `Fussball — Vereine`. WM/EM-Sonderregeln sind seit 20.07.2026 dormant. Watchdog fuellt Nations-League-Spiele NICHT als Ersatz auf, sondern bleibt ehrlich leer.",
     "Ehrlichkeits-Prinzip (CLAUDE.md 'Notfall-Fallback'): Ein leeres, ehrliches Dossier mit erklaerendem hinweis ist ein gueltiges Ergebnis. Lieber sichtbar 0 Spiele als erfundene Break-Fuellung aus einer alten Wochen-Vorschau (Vorfall 22.-23.09.: LaLiga-Jornada-6-Halluzination aus data/tipps_woche/2026-09-21.json).",
-    "Kader- und Trainer-Frische / Anti-Halluzination: Break-flag-Recherche-File data/recherche/2026-09-24.json ist neu geschrieben und dokumentiert den Zustand explizit — kein Rueckgriff auf das fehlerhafte Wochen-Dossier 2026-09-21, keine Uebernahme von Spielern aus Vor-Dossiers.",
-    "FIFA XL Break-Kontext: Der 3-Wochen-Break kombiniert Sept + Okt zu einem Fenster (21.09.-06.10.). Vierter leerer Tages-Slate in Folge — konsistent mit 21., 22., 23.09."
+    "Kasse-lesen-Regel (CLAUDE.md 22.08.2026): data/kasse.json vor jedem Lauf lesen — Kasse 1000€, Stufe 1 aktiv (stufe_2_freigeschaltet=false), keine Einsatzberechnung noetig da 0 Tipps.",
+    "Kader-Frische (CLAUDE.md + kader_wechsel_2026.json): auch beim leeren Slate keine Spielernamen aus dem Gedaechtnis nennen. Konsistent mit der Regel, die den Adeyemi-Bug am 22.08. abstellte."
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
   "_verifikations_report": {
-    "erstellt_am": "2026-09-24T14:35:00+02:00",
+    "erstellt_am": "2026-09-25T14:35:00+02:00",
     "modus": "watchdog_break_zone_ehrliches_leer_slate",
     "aktion": "Hauptroutine (13:30 Mo-Fr GitHub Action) hat heute kein Dossier geschrieben. Watchdog 14:30 springt ein und schreibt ein verifiziertes leeres Break-Dossier.",
     "drops": [],
     "downgrades": [],
     "warns": [
       {
-        "art": "fifa_xl_international_break_tag_4",
-        "details": "FIFA XL Break laeuft 21.09.2026-06.10.2026. Alle Top-5-Ligen (Bundesliga, Premier League, LaLiga, Serie A, Ligue 1) sowie 2. Bundesliga pausieren. Nationale Cups + Europapokal in dieser Woche keine Runden. Heute (Do 24.09.) ist der 4. Break-Tag in Folge (Mo 21., Di 22., Mi 23. bereits leer)."
+        "art": "fifa_xl_international_break_tag_5",
+        "details": "FIFA XL Break laeuft 21.09.2026-06.10.2026. Alle Top-5-Ligen (Bundesliga, Premier League, LaLiga, Serie A, Ligue 1) sowie 2. Bundesliga pausieren. Nationale Cups + Europapokal in dieser Woche keine Runden. Heute (Fr 25.09.) ist der 5. Break-Tag in Folge (Mo 21., Di 22., Mi 23., Do 24. bereits leer)."
       },
       {
-        "art": "nations_league_md1_startet_heute",
-        "details": "UEFA Nations League A MD1 startet 20:45 CET mit vier Spielen: Niederlande-Deutschland (A2), Serbien-Griechenland (A2), Norwegen-Daenemark (A4), Portugal-Wales (A4). Nationalmannschafts-Wettbewerb, nicht in CLAUDE.md-Whitelist der Aktiven Sportarten (Vereins-Fussball). WM/EM-Sonderregeln (HR25-HR29 in fussball_analyse.md) sind dormant. Bewusst nicht eingebaut — Watchdog waere sonst Vorbote fuer schleichende Kader- und Regel-Drift."
+        "art": "nations_league_woche_laeuft",
+        "details": "UEFA Nations League A: MD1 war Do 24.09. (Niederlande-Deutschland, Serbien-Griechenland, Norwegen-Daenemark, Portugal-Wales). Am Fr 25.09. laufen weitere Nations-League-Termine gemaess UEFA-Kalender. Nationalmannschafts-Wettbewerb, nicht in CLAUDE.md-Whitelist der Aktiven Sportarten (Vereins-Fussball). WM/EM-Sonderregeln (HR25-HR29 in fussball_analyse.md) sind dormant. Bewusst nicht eingebaut — Watchdog waere sonst Vorbote fuer schleichende Kader- und Regel-Drift."
       },
       {
         "art": "kein_alternative_slate_moeglich",
         "details": "U21-Quali, Frauen-CL, unterklassige Ligen sind nicht in CLAUDE.md 'Aktive Sportarten'. NBA ist Offseason (Saison-Start ~Okt 2026). Bewusst keine Ausweich-Ligen-Fuellung — Break bleibt als Break sichtbar."
+      },
+      {
+        "art": "webrecherche_partiell_blockiert",
+        "details": "livesoccertv.com per Egress-Proxy blockiert (403). WebSearch fuer 25.09.2026 lieferte eine offensichtliche LLM-Halluzinationsseite (vietreader.com behauptet Real-Barca 1:1 + Bayern-Dortmund 3:2 am Freitag mitten in Laenderspielpause — unplausibel + widerspricht dem gestern eigenverifizierten Break-Kalender). Verifikation stattdessen ueber (a) Konsistenz-Check gegen data/tipps/2026-09-24.json (Watchdog + Backstop-verifiziert) und (b) Wikipedia-Fixtures-Metadaten (CL-Ligaphase 08.09.-05.06., MD2 nach Break; EL-Ligaphase ab 16.09., MD2 nach Break)."
       }
     ],
-    "verifikations_methode": "Fresh WebSearch fuer Do 24.09.2026 quer ueber alle Whitelist-Wettbewerbe: UEFA.com Nations-League-Fixtures-Preview (MD1 Netherlands-Germany etc. 20:45 CET bestaetigt), Bundesliga.com Saisonstart-Kalender (MD5 erst Fr 10.10.), EFL.com Carabao-Cup-R3-Termine (abgeschlossen Woche 08.09. + 15.09.), ESPN Coppa-Italia + Coupe-de-France (keine Runde heute), spox.com FIFA-XL-Break-Bestaetigung. Zusaetzlich Konsistenz-Check gegen data/tipps/2026-09-23.json (gestern identisches leeres Slate) + data/recherche/2026-09-23.json (Break-flag Vorlage).",
+    "verifikations_methode": "Konsistenz-Check gegen den bereits verifizierten leeren Slate vom 24.09.2026 (data/tipps/2026-09-24.json, Watchdog + Backstop-Cross-Check). Der Kalender-Rahmen (FIFA-XL-Break 21.09.-06.10., MD5 Bundesliga erst 10.10. usw.) ist dort gegen sieben unabhaengige Quellen bestaetigt. Zusaetzlich frische WebSearch fuer 25.09.2026 gegen Wikipedia-Wettbewerbs-Metadaten (2026-27 UEFA Champions League: Ligaphase 08.09.-28.01. mit MD2 Di-Mi 13.-14.10.; 2026-27 UEFA Europa League: Ligaphase 16.09.-29.01. mit MD2 Do 15.10.). Ergebnis identisch: heute keine Whitelist-Spiele im Fenster.",
     "quellen_geprueft": [
-      "https://www.uefa.com/uefanationsleague/news/02a9-21a4f1803092-7aad154369dc-1000--uefa-nations-league-matchday-1-preview-england-vs-spain-neth/",
-      "https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-fixtures/",
-      "https://www.bundesliga.com/de/bundesliga/news/spielplan-saison-start-termine-daten-2026-27-22043",
-      "https://www.efl.com/news/2026/august/28/carabao-cup--third-round-dates-confirmed/",
-      "https://www.espn.com/soccer/schedule/_/league/ita.coppa_italia",
-      "https://www.espn.com/soccer/schedule/_/league/fra.coupe_de_france",
-      "https://www.spox.com/fussball/news/bundesliga-saison-2026-27-warum-ist-zwischen-september-und-oktober-drei-wochen-laenderspielpause/blt405fb3fe17574750"
+      "data/tipps/2026-09-24.json (gestern identisches leeres Slate, dort Watchdog + Backstop-Cross-Check mit 7 unabhaengigen Quellen)",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_in_German_football",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_in_English_football",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_in_Spanish_football"
     ],
-    "verifikations_aussage": "OK - Do 24.09.2026 verifiziert leer. Keine Whitelist-Spiele im Fenster. Nations-League-A-MD1 laeuft, ist aber Nationalmannschafts-Serie und laut CLAUDE.md nicht bespielbar. Kasse 1000€ / Stufe 1 unangetastet. Naechster echter Tipp-Tag: nach Break-Ende, voraussichtlich Fr 03.10.2026."
+    "verifikations_aussage": "OK - Fr 25.09.2026 verifiziert leer. Keine Whitelist-Spiele im Fenster. Nations-League-A-Woche laeuft weiter, ist aber Nationalmannschafts-Serie und laut CLAUDE.md nicht bespielbar. Kasse 1000€ / Stufe 1 unangetastet. Naechster echter Tipp-Tag: nach Break-Ende, voraussichtlich Fr 03.10.2026 (Ligue 1 J8, Serie A g6, PL MW7-Auftakt).",
+    "watchdog_kette": {
+      "hauptroutine_13_30": "kein Dossier geschrieben (kein file data/tipps/2026-09-25.json vor 14:30 Berlin)",
+      "watchdog_14_30": "diese Instanz, schreibt ehrliches leeres Dossier + Verifikations-Report",
+      "backstop_15_15": "GitHub-Actions-Backstop kann bei Bedarf zusaetzlichen Zweit-Check anfuegen, das Dossier bleibt sonst unangetastet"
+    }
   }
 };
