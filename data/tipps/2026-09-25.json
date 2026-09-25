@@ -50,8 +50,21 @@
     "verifikations_aussage": "OK - Fr 25.09.2026 verifiziert leer. Keine Whitelist-Spiele im Fenster. Nations-League-A-Woche laeuft weiter, ist aber Nationalmannschafts-Serie und laut CLAUDE.md nicht bespielbar. Kasse 1000€ / Stufe 1 unangetastet. Naechster echter Tipp-Tag: nach Break-Ende, voraussichtlich Fr 03.10.2026 (Ligue 1 J8, Serie A g6, PL MW7-Auftakt).",
     "watchdog_kette": {
       "hauptroutine_13_30": "kein Dossier geschrieben (kein file data/tipps/2026-09-25.json vor 14:30 Berlin)",
-      "watchdog_14_30": "diese Instanz, schreibt ehrliches leeres Dossier + Verifikations-Report",
-      "backstop_15_15": "GitHub-Actions-Backstop kann bei Bedarf zusaetzlichen Zweit-Check anfuegen, das Dossier bleibt sonst unangetastet"
+      "watchdog_14_30": "hat um 14:35 CET das ehrliche leere Break-Dossier + Verifikations-Report geschrieben",
+      "backstop_15_15": "GitHub-Actions-Safety-Net-Backstop (Workflow miesmuschel-tipps-safety-net.yml) hat um 15:15 CET unabhaengig gegengeprueft: Nations-League-A/B/C-MD1 auf 25.09.2026 (Italien-Belgien, Tuerkei-Frankreich, Polen-Bosnien, Ungarn-Ukraine, Schweden-Rumaenien, Montenegro-Zypern, Georgien-Nordirland, Armenien-Lettland) sind Nationalmannschaften und damit ausserhalb der CLAUDE.md-Vereins-Whitelist. Copa-del-Rey-Vor-Runde beginnt laut Wikipedia erst 26.-27.09. (Sa-So). soccerbase.com Fixtures 25.09.2026: keine Whitelist-Vereinsspiele, nur Freundschaftsspiele (Australien-Brasilien, Indien-Panama), Scottish Championship, League of Ireland, kolumbianische/paraguayische Ligen — alles ausserhalb der Whitelist. Backstop bestaetigt die ehrliche Empty-Slate-Entscheidung des Watchdogs; Dossier bleibt inhaltlich unveraendert."
+    },
+    "backstop_zusatz_verifikation": {
+      "erstellt_am": "2026-09-25T15:15:00+02:00",
+      "instanz": "Miesmuschel Tipps Safety-Net (Backstop)",
+      "unabhaengige_quellen": [
+        "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League",
+        "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League_A",
+        "https://en.wikipedia.org/wiki/2026%E2%80%9327_Copa_del_Rey",
+        "https://www.soccerbase.com/matches/results.sd?date=2026-09-25",
+        "UEFA.com Nations-League-Ligaphase-Fixtures (MD1 24.-25.09.2026)"
+      ],
+      "ergebnis": "OK - unabhaengiger Zweit-Check bestaetigt: kein Whitelist-Vereinsspiel am Fr 25.09.2026. Empty-Slate ist die korrekte Entscheidung. Backstop-Prinzip 'lieber kleines ehrliches Dossier als gar keins' ist erfuellt: hinweis + footer + Spielerschutz + lessons_angewandt + zweifach verifizierter _verifikations_report sind vorhanden.",
+      "hallu_gefahren_geprueft": "vietreader.com behauptet in einer WebSearch-Trefferseite Man-Utd-Chelsea 2:1 + Real-Barca 1:1 + Bayern-Dortmund am Fr 25.09.2026 - reine LLM-Halluzination mitten in der FIFA-Laenderspielpause. Nicht uebernommen. Watchdog hatte diesen Halluzinationstreffer bereits um 14:35 identifiziert."
     }
   }
 }
