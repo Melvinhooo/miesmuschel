@@ -1,83 +1,102 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
-  "datum": "2026-09-26",
-  "erstellt_am": "2026-09-26T10:15:00+02:00",
-  "hinweis": "🐚 Sa+So Cloud-Routine Tages-Tipps Sa 2026-09-26 (Saison 2026/27, Kasse 1000€ / Stufe 1). **Sechster Break-Tag in Folge — FIFA XL International Break laeuft weiter 21.09.–06.10.2026.** Alle Top-5-Ligen (Bundesliga, Premier League, LaLiga, Serie A, Ligue 1) plus 2. Bundesliga plus Europapokal (CL, EL, Conference) pausieren komplett. Am heutigen Sa 26.09. laufen zwar Fussball-Termine, aber keiner faellt in die CLAUDE.md-Aktive-Sportarten-Whitelist (Vereins-Fussball Top-5 + Pokale + Europapokal + Supercups): (1) UEFA Nations League A/B/C MD1 (u.a. England-Spanien, Tschechien-Kroatien, Slowenien-Schottland, Nordmazedonien-Schweiz, Slowakei-Moldau, Island-Estland) — Nationalmannschafts-Serie, WM/EM-Sonderregeln HR25-HR29 sind seit 20.07.2026 dormant, wird konsistent zu Mo 21.-Fr 25.09. NICHT als Ersatz-Slate aufgefuellt; (2) Copa del Rey ist heute Fase Previa Territorial (regionale Amateurvereine) — die nationale 1. Runde beginnt erst 28.10.2026, deshalb heute keine Data-Basis; (3) Coupe de France 4e Tour (Einstieg National 1) ist Sa+So-Runde, laut FFF-Zuteilung ueberwiegend Sonntag 27.09., einzelne Sa-Ansetzungen sind Amateur-Paarungen ohne Quoten- und Squad-Basis in unseren Aggregatoren; (4) Franz-Beckenbauer-Supercup war 22.08. (Dortmund-Bayern, Historie), FA Community Shield war 10.08., UEFA Super Cup 20.08. — kein Supercup im heutigen Fenster. Naechster echter Tipp-Tag: nach Break-Ende, voraussichtlich Fr 03.10.2026 (Ligue 1 J8, Serie A g6, Premier League MW7 Auftakt). Bis dahin bleibt die Kasse bei 1000€ unangetastet. Sonntag 27.09. wird die Sa+So-Routine erneut pruefen und voraussichtlich ebenfalls leer bleiben — falls doch ein Whitelist-Spiel auftaucht (z.B. verschobene Copa-del-Rey-Runde), wird sie es dann sauber aufnehmen. BZgA 0800 1372700.",
+  "datum": "2026-09-27",
+  "erstellt_am": "2026-09-27T10:15:00+02:00",
+  "hinweis": "🐚 Sa+So Cloud-Routine (Sonntags-Lauf) Tages-Tipps So 2026-09-27 (Saison 2026/27, Kasse 1000€ / Stufe 1). **Siebter Break-Tag in Folge — FIFA XL International Break laeuft weiter 21.09.–06.10.2026.** Alle Top-5-Ligen (Bundesliga, Premier League, LaLiga, Serie A, Ligue 1) plus 2. Bundesliga plus Europapokal (CL, EL, Conference) pausieren komplett. Am heutigen So 27.09. laufen zwar Fussball-Termine, aber keiner faellt in die CLAUDE.md-Aktive-Sportarten-Whitelist (Vereins-Fussball Top-5 + Pokale + Europapokal + Supercups): (1) UEFA Nations League A/B/C MD1 Sonntags-Programm (u.a. Deutschland-Griechenland 20:45 in Stuttgart, Portugal-Ungarn, Frankreich-Belgien, Niederlande-Polen, Daenemark-Wales, Norwegen-Serbien, Schweden-Israel, Rumaenien-Tuerkei, Wales-Belgien-Reste, Faeroer/San-Marino-Randgruppen der Gruppe D) — Nationalmannschafts-Serie, WM/EM-Sonderregeln HR25-HR29 sind seit 20.07.2026 dormant, konsistent zu Mo 21.–Sa 26.09. NICHT als Ersatz-Slate aufgefuellt; (2) Copa del Rey ist heute Fase Previa Territorial (regionale Amateurvereine wie Hortaleza-Union Guimar, Auriense-San Jose, El Espinar Sant Rafel-Prat, Talayuela-Alcazar, Maracena-Tavernes u.a.) — die nationale Primera Ronda beginnt erst 28.10.2026, deshalb heute keine Data-Basis (keine bet365-Quoten, kein Squad-File); (3) Coupe de France 4e Tour ist Einstiegs-Runde fuer National-1-Klubs (3. franzoesische Liga) — laut FFF/Wikipedia haben Ligue-1-Klubs KEINE Beteiligung im 4e Tour, sie steigen erst in den 32e de finale am 20.12.2026 ein. Amateur-/N1-Paarungen ohne Aggregator-Quoten; (4) Franz-Beckenbauer-Supercup war 22.08. (Dortmund-Bayern, Historie), FA Community Shield 10.08., Trophee des Champions 06.09., UEFA Super Cup 20.08. PSG-Tottenham — kein Supercup im heutigen Fenster; naechster Supercup ist die Supercopa de Espana / Supercoppa Italiana im Januar. Naechster echter Tipp-Tag: nach Break-Ende, voraussichtlich Fr 03.10.2026 (Ligue 1 J8, Serie A g6, Premier League MW7 Auftakt) — noch nicht ganz sicher da Ligue 1 unmittelbar nach Break bereits am Fr 02.10. spielt, die Recherche-Routine am Do 01.10. wird das gegenpruefen. Bis dahin bleibt die Kasse bei 1000€ unangetastet, Stufe 1 aktiv (`stufe_2_freigeschaltet: false` — Freischaltung an Saison-eigenen 30-Tage-ROI > +5% gebunden). BZgA 0800 1372700.",
   "spiele": [],
   "einzeltipps": [],
   "kombis": [],
   "lessons_angewandt": [
-    "Zeitfenster-Hartregel (CLAUDE.md 22.08.2026): Tages-Dossier deckt nur Anstoss am 2026-09-26 (Berliner Zeit) ab — heute kein Spiel in Top-5-Ligen + 2. BL + Europapokal + nationalen Cups (Runde-1-Ebene) + Supercups.",
-    "Aktive Sportarten (CLAUDE.md): Nations League ist Nationalmannschaft, gehoert nicht in `Fussball — Vereine`. WM/EM-Sonderregeln (HR25-HR29 in fussball_analyse.md) sind seit 20.07.2026 dormant. Sa+So-Routine fuellt Nations-League-Spiele NICHT als Ersatz auf, sondern bleibt konsistent zum Watchdog + Backstop-Precedent Mo-Fr 21.-25.09.2026 ehrlich leer.",
-    "Cup-Runden-Level (recherche_routine.md): Copa del Rey Fase Previa Territorial (Amateurvereine) und Coupe de France 4e Tour (National-1-Einstieg mit ueberwiegend Amateur-Paarungen) haben keine belastbare Quoten- und Squad-Datenbasis in unseren Aggregatoren. Nationale 1. Runde Copa del Rey beginnt erst 28.10.2026, Coupe de France 8e Tour ~Januar 2027.",
-    "Ehrlichkeits-Prinzip (CLAUDE.md 'Notfall-Fallback'): Ein leeres, ehrliches Dossier mit erklaerendem hinweis ist ein gueltiges Ergebnis. Lieber sichtbar 0 Spiele als erfundene Break-Fuellung aus einer alten Wochen-Vorschau (Vorfall 22.-23.09.: LaLiga-Jornada-6-Halluzination aus data/tipps_woche/2026-09-21.json).",
-    "Kasse-lesen-Regel (CLAUDE.md 22.08.2026): data/kasse.json vor jedem Lauf gelesen — Kasse 1000€, Stufe 1 aktiv (stufe_2_freigeschaltet=false), keine Einsatzberechnung noetig da 0 Tipps.",
-    "Kader-Frische (CLAUDE.md + kader_wechsel_2026.json): auch beim leeren Slate keine Spielernamen aus dem Gedaechtnis genannt. Konsistent mit der Regel, die den Adeyemi-Bug am 22.08. abstellte."
+    {
+      "hartregel": "Zeitfenster-Hartregel (CLAUDE.md 22.08.2026)",
+      "anwendung": "Tages-Dossier enthaelt ausschliesslich Spiele mit Anstoss am Zieldatum (Berliner Zeit). Nations-League-Sonntags-Spiele wie Deutschland-Griechenland liegen zwar im Fenster, sind aber Nationalmannschafts-Serie und damit ausserhalb der CLAUDE.md-Aktive-Sportarten-Whitelist. Nicht aufgenommen."
+    },
+    {
+      "hartregel": "Aktive Sportarten (CLAUDE.md - Vereins-Saison-Modus)",
+      "anwendung": "Whitelist strikt Vereins-Fussball Top-5 + Pokale + Europapokal + Supercups. Nations League faellt nicht darunter. WM-2026-Modus (HR25-HR29) ist seit 19.07.2026 dormant, nicht reaktivierbar ohne aktives Turnier. NBA-Offseason bis ~Oktober 2026."
+    },
+    {
+      "hartregel": "Kader- und Trainer-Frische (CLAUDE.md 22.08.2026)",
+      "anwendung": "Auch wenn Nations-League-Grosstermine wie England-Spanien (Sa 26.09.) oder Deutschland-Griechenland (So 27.09.) verfuehrerisch waren: Nationalmannschafts-Kader wechseln pro Fenster, sind ohne aktuelle Nationalmannschaftsaufgebot-Verifikation nicht sauber tipp-bar. Konsequent nicht getippt — gleiche Schutzregel wie beim Adeyemi-Fall am 22.08.2026."
+    },
+    {
+      "hartregel": "Notfall-Fallback (CLAUDE.md + master_tipps_routine.md Anhang)",
+      "anwendung": "Lieber ein ehrliches kleines/leeres Dossier mit erklaerendem hinweis als halluziniertes Fuellmaterial. Kette Mo 21.–Sa 26.09. war Watchdog + Backstop-verifiziert leer, So 27.09. bleibt konsistent."
+    },
+    {
+      "hartregel": "Supercup-Pflicht (CLAUDE.md 22.08.2026 + recherche_routine.md)",
+      "anwendung": "Aktiv nach Supercup-Ansetzung im Fenster gesucht. Ergebnis: kein Supercup am So 27.09.2026. Alle Saison-2026/27-Supercups sind entweder bereits gespielt (Franz-Beckenbauer-Supercup 22.08., FA Community Shield 10.08., UEFA Super Cup 20.08., Trophee des Champions 06.09.) oder liegen erst im Januar (Supercopa de Espana, Supercoppa Italiana)."
+    }
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
   "_verifikations_report": {
-    "erstellt_am": "2026-09-26T10:15:00+02:00",
-    "modus": "sa_so_cloud_routine_break_zone_ehrliches_leer_slate",
-    "aktion": "Sa+So Cloud-Routine (10:00 Berlin, Hauptroutine fuer das Wochenend-Tages-Dossier) hat heute kein Whitelist-Spiel im Fenster gefunden und schreibt ein verifiziertes leeres Break-Dossier. Damit ist die Kette Mo-Fr 21.-25.09. + Sa 26.09. konsistent leer.",
+    "erstellt_am": "2026-09-27T10:15:00+02:00",
+    "modus": "sa_so_cloud_routine_sonntag_break_zone_ehrliches_leer_slate",
+    "aktion": "Sa+So Cloud-Routine (10:00 Berlin, Sonntags-Lauf, Hauptroutine fuer das Wochenend-Tages-Dossier) hat heute kein Whitelist-Spiel im Fenster gefunden und schreibt ein verifiziertes leeres Break-Dossier. Damit ist die Kette Mo 21.–Sa 26.09. + So 27.09. konsistent leer (7 Tage in Folge Break, 15 Tage bis Break-Ende noch zu ueberbruecken).",
     "drops": [],
     "downgrades": [],
     "warns": [
       {
-        "art": "fifa_xl_international_break_tag_6",
-        "details": "FIFA XL Break laeuft 21.09.2026-06.10.2026. Alle Top-5-Ligen (Bundesliga, Premier League, LaLiga, Serie A, Ligue 1) sowie 2. Bundesliga pausieren komplett. Nationale Cups sind auf National-Runden-Ebene erst wieder ab 28.10. (Copa del Rey) bzw. spaeter (Coupe de France 8e). Europapokal-MD2 CL Di-Mi 13.-14.10., EL Do 15.10., Conference League MD1-Start Do 15.10. Heute (Sa 26.09.) ist der 6. Break-Tag in Folge (Mo 21., Di 22., Mi 23., Do 24., Fr 25. bereits leer). Konsistent mit dem gestern zweifach (Watchdog + Backstop) verifizierten Empty-Slate.",
+        "art": "fifa_xl_international_break_tag_7",
+        "details": "FIFA XL Break laeuft 21.09.2026–06.10.2026. Alle Top-5-Ligen (Bundesliga, Premier League, LaLiga, Serie A, Ligue 1) sowie 2. Bundesliga pausieren komplett. Nationale Cups sind auf National-Runden-Ebene erst wieder ab 28.10. (Copa del Rey Primera Ronda) bzw. 20.12. (Coupe de France 32e de finale mit Ligue-1-Einstieg). Europapokal-MD2 CL Di-Mi 13.-14.10., EL Do 15.10., Conference League MD1-Start Do 15.10. Heute (So 27.09.) ist der 7. Break-Tag in Folge (Mo 21., Di 22., Mi 23., Do 24., Fr 25., Sa 26. bereits leer). Konsistent mit dem gestern Tripel-verifizierten Empty-Slate.",
         "quellen_intern": [
           "data/tipps/2026-09-21.json",
           "data/tipps/2026-09-22.json",
           "data/tipps/2026-09-23.json",
           "data/tipps/2026-09-24.json",
-          "data/tipps/2026-09-25.json"
+          "data/tipps/2026-09-25.json",
+          "data/tipps/2026-09-26.json"
         ]
       },
       {
-        "art": "nations_league_woche_laeuft_md1_wochenende",
-        "details": "UEFA Nations League MD1 zieht sich ueber Do 24.09. bis Di 29.09. Am Sa 26.09. laufen laut UEFA-Kalender und den bestaetigten Kickoff-Zeiten: Slowenien-Schottland (15:00 Stozice Ljubljana, Group B1), Slowakei-Moldau (18:00 Presov, Group C), Island-Estland (18:00 Laugardalsvoellur, Group C), Tschechien-Kroatien (19:45 Fortuna Arena Prag, Group A3), Nordmazedonien-Schweiz (20:45 Todor-Proeski-Arena Skopje, Group B1), England-Spanien (20:45 Wembley London, Group A3), plus weitere Group-C/D-Termine (San Marino-Finnland, Faeroeer-Kasachstan, Bulgarien-Luxemburg, Albanien-Belarus). Deutschland spielt nicht Sa sondern So 27.09. gegen Griechenland (20:45). Alles Nationalmannschafts-Serie und damit ausserhalb der CLAUDE.md-Vereins-Whitelist. WM 2026 ist seit 19.07. beendet, HR25-HR29 dormant — also auch kein alter Turnier-Modus, den man reaktivieren duerfte. Bewusst nicht eingebaut.",
-        "hallu_gefahr_relevanz": "hoch — die Grosstermine (England-Spanien, Tschechien-Kroatien) verfuehren zum Aufnehmen. Aber: Squads wechseln pro Fenster, Kader-Verifikation waere aufwaendig, WM/EM-Regeln sind dormant. Der Schaden waere identisch zum Adeyemi-Fehler: Spieler mit halbaktuellem Vereins-Wissen in einen Kontext gepresst, in dem sie nicht sauber verifizierbar sind."
+        "art": "nations_league_md1_sonntag_hoehepunkt_deutschland_griechenland",
+        "details": "UEFA Nations League MD1 zieht sich ueber Do 24.09. bis Di 29.09. Am So 27.09. laufen laut UEFA-Kalender u.a. Deutschland-Griechenland (20:45 MHPArena Stuttgart, Group A2, Heim-Debuet der Nationalelf im neuen Zyklus), Portugal-Ungarn (18:00 Estadio da Luz Lissabon, Group A2), Frankreich-Belgien (20:45 Stade de France Saint-Denis, Group A1), Niederlande-Polen (15:00 Amsterdam Arena, Group A1), Daenemark-Wales (18:00 Parken Kopenhagen, Group A4), Norwegen-Serbien (20:45 Ullevaal Oslo, Group B2), Schweden-Israel (18:00 Friends Arena Solna, Group B3), sowie diverse Group-C/D-Ansetzungen. Alles Nationalmannschafts-Serie und damit ausserhalb der CLAUDE.md-Vereins-Whitelist. WM 2026 ist seit 19.07. beendet, HR25-HR29 dormant. Bewusst nicht eingebaut — auch nicht Deutschland-Griechenland, obwohl das ein Top-Termin fuer den User ist. Gleiche Konsequenz wie an den 6 Break-Tagen davor.",
+        "hallu_gefahr_relevanz": "hoch — Deutschland-Griechenland verfuehrt zum Aufnehmen, weil DFB-Spieler auch aus Vereins-Kader vertraut sind. Aber: Nagelsmann-Nominierungen wechseln pro Fenster (aktueller Kader mit Musiala, Wirtz, Havertz, Kimmich, Neuer o.ae. nicht ohne DFB-Kader-Verifikation belastbar), und die Torschuetzen-Historie in NL-A ist duenn. Der Schaden waere identisch zum Adeyemi-Fehler: Spieler mit halbaktuellem Vereins-Wissen in einen NL-Kontext gepresst, in dem Aufstellung und Standard-Ausfuehrende nicht sauber verifizierbar sind."
       },
       {
         "art": "copa_del_rey_fase_previa_territorial_ausserhalb_datenbasis",
-        "details": "Copa del Rey 2026-27 startet heute (Sa 26.09.) mit der Fase Previa Territorial (regionale Amateurvereine, gepaart nach geografischer Naehe, 10 Hin/Rueckspiel-Paarungen). Rueckspiele 03.-04.10. Die nationale Primera Ronda beginnt erst 28.10.2026. Amateurvereine haben in unseren Aggregatoren (oddschecker, sportsgambler) keine belastbaren Quoten und keine Squad-Datenbasis. Der Recherche_routine.md-Cup-Punkt zielt auf die nationalen Runden (Copa del Rey ab 1. Runde), nicht die regionale Vorschaltung. Konsistent zur Backstop-Anmerkung im Fr-25.09.-Dossier ('Copa-del-Rey-Vor-Runde beginnt laut Wikipedia erst 26.-27.09., Sa-So, nicht heute')."
+        "details": "Copa del Rey 2026-27 laeuft heute (So 27.09.) mit 5 bestaetigten Fase-Previa-Territorial-Paarungen (Hortaleza-Union Guimar, Auriense-San Jose, El Espinar Sant Rafel-Prat, Talayuela-Alcazar, Maracena-Tavernes — regionale Amateurvereine, geografisch gepaart). Insgesamt 20 Vor-Runden-Paarungen sind ueber Sa 26.09. und So 27.09. verteilt. Die nationale Primera Ronda beginnt erst 28.10.2026 (Wikipedia bestaetigt: 'Preliminary round 26–27 September 2026, First round 3–4 October 2026' — mit dem Hinweis dass die First-Round-Reise-Klub-Zuordnung eigentlich Primera Ronda ist, in beiden Faellen aber nur untere Ligen und keine bet365-Quoten in unseren Aggregatoren). Konsistent zur Sa-Analyse."
       },
       {
-        "art": "coupe_de_france_4e_tour_ueberwiegend_sonntag_und_amateur",
-        "details": "Coupe de France 2026-27 4e Tour spielt Sa+So 26.-27.09., mit Einstieg der National-1-Klubs (3. Liga Frankreich). Ueberwiegend Sonntag angesetzt, die vereinzelten Sa-Paarungen sind Regional-/Amateur-Duelle unterhalb National 1 ohne stabile Quoten-Basis in bet365. Coupe de France wird fuer die Miesmuschel-Whitelist ab dem 32er-Feld (8e Tour ~Januar) relevant, wenn Ligue-1-Klubs einsteigen. Heute keine Ligue-1-Beteiligung."
+        "art": "coupe_de_france_4e_tour_ohne_ligue_1_klubs",
+        "details": "Coupe de France 2026-27 4e Tour spielt Sa+So 26.-27.09., laut Wikipedia mit Einstieg der National-1-Klubs (3. franzoesische Liga). Ueberwiegend Sonntag angesetzt, aber KEIN Ligue-1-Klub im 4e Tour — Ligue-1-Klubs treten erst in den 32e de finale am 20.12.2026 an (bestaetigt via goal.com FR und radiosports.fr). Coupe de France wird fuer die Miesmuschel-Whitelist ab dem 32er-Feld relevant, wenn Ligue-1-Klubs einsteigen. Heute nur Amateur-/N1-Paarungen ohne stabile Quoten-Basis in bet365."
       },
       {
         "art": "kein_supercup_im_fenster",
-        "details": "Alle Supercups der Saison 2026/27 waren bereits im August (Franz-Beckenbauer-Supercup Sa 22.08. Dortmund-Bayern; FA Community Shield 10.08.; Supercopa de Espana ist Januar-Format; Trophee des Champions 06.09.; UEFA Super Cup 20.08. PSG-Tottenham; Supercoppa Italiana ist Januar-Format). Kein Titel-Einzelspiel heute im Fenster."
+        "details": "Alle Supercups der Saison 2026/27 waren bereits im August/Anfang September (Franz-Beckenbauer-Supercup Sa 22.08. Dortmund-Bayern; FA Community Shield 10.08.; UEFA Super Cup 20.08. PSG-Tottenham; Trophee des Champions 06.09.; Supercopa de Espana ist Januar-Format; Supercoppa Italiana ist Januar-Format). Kein Titel-Einzelspiel heute im Fenster."
       },
       {
         "art": "webrecherche_partiell_blockiert_football_data_org",
-        "details": "football-data.org API per Egress-Proxy blockiert (403 policy denial). Verifikation stattdessen ueber (a) Konsistenz-Check gegen die fuenf vorherigen Break-Tage (Mo-Fr 21.-25.09., alle Watchdog + Backstop-verifiziert leer), (b) WebSearch fuer 26.09.2026 mit expliziter Suche pro Kandidat (Bundesliga/PL/Nations League A-B-C, Copa del Rey, Coupe de France) und (c) Suche nach Supercup-Ansetzungen (keine im Fenster). Ergebnis eindeutig konsistent mit Precedent."
+        "details": "football-data.org API per Egress-Proxy blockiert (403 Tunnel connection failed fuer alle abgefragten Wettbewerbe BL1/BL2/PL/PD/SA/FL1/CL/EL/CLI/DFB/FAC/CDR/CIT/CDF/ELC). Verifikation stattdessen ueber (a) Konsistenz-Check gegen die sechs vorherigen Break-Tage (Mo 21.–Sa 26.09., alle Watchdog + Backstop bzw. Sa+So-Cloud-verifiziert leer), (b) frische WebSearch fuer 27.09.2026 (Bundesliga Spielplan Sonntag, Premier League fixtures, 2. Bundesliga Spielplan, Copa del Rey Primera Ronda 27 September, Coupe de France 4e Tour 27 septembre, FIFA international break dates 2026) — bestaetigt Break-Zone, keine Whitelist-Ansetzungen, (c) explizite Suche nach Supercup-Ansetzungen (keine im Fenster). Ergebnis eindeutig konsistent mit Precedent."
       }
     ],
-    "verifikations_methode": "Doppelter Check: (1) Konsistenz-Check gegen die fuenf zusammenhaengenden verifizierten leeren Slates 21.-25.09.2026 — gleiche Break-Zone, gleiches Regelwerk, gleiches Ergebnis. (2) Frische WebSearch fuer 26.09.2026 (Bundesliga Spielplan Samstag, Premier League fixtures, 2. Bundesliga Spielplan, Nations League 26.09., Copa del Rey primera ronda 26 sept, Coupe de France 4e tour) — keine Whitelist-Spiele im Fenster. Nations League MD1 zwar bestaetigt (England-Spanien, Tschechien-Kroatien u.a.), aber laut CLAUDE.md-Aktive-Sportarten nicht bespielbar. Copa del Rey heute nur territoriale Amateur-Vorschaltrunde. Coupe de France 4e Tour ohne Ligue-1-Beteiligung.",
+    "verifikations_methode": "Doppelter Check: (1) Konsistenz-Check gegen die sechs zusammenhaengenden verifizierten leeren Slates 21.-26.09.2026 — gleiche Break-Zone, gleiches Regelwerk, gleiches Ergebnis. Sa 26.09. war zusaetzlich Tripel-verifiziert (Sa+So Cloud-Routine + Watchdog + Backstop). (2) Frische WebSearch fuer 27.09.2026 (Bundesliga Sonntag, Premier League Sonntag, 2. Bundesliga, Copa del Rey 27 September, Coupe de France 4e tour 27 septembre, FIFA international break September October 2026) — keine Whitelist-Spiele im Fenster. Nations League MD1 mit Deutschland-Griechenland bestaetigt, aber laut CLAUDE.md-Aktive-Sportarten nicht bespielbar. Copa del Rey heute nur Fase Previa Territorial (Amateur). Coupe de France 4e Tour ohne Ligue-1-Beteiligung.",
     "quellen_geprueft": [
       "data/tipps/2026-09-21.json (Watchdog + Backstop-verifiziert leer)",
       "data/tipps/2026-09-22.json (Watchdog + Backstop-verifiziert leer)",
       "data/tipps/2026-09-23.json (Watchdog + Backstop-verifiziert leer)",
       "data/tipps/2026-09-24.json (Watchdog + Backstop-verifiziert leer)",
-      "data/tipps/2026-09-25.json (Watchdog + Backstop-verifiziert leer, dort explizit erwaehnt: 'Copa-del-Rey-Vor-Runde beginnt 26.-27.09., Sa-So, nicht heute')",
-      "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League_A (League-A-Fixtures 26.09.)",
-      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Copa_del_Rey (Fase Previa Territorial 26.09.-04.10., Primera Ronda 28.10.)",
+      "data/tipps/2026-09-25.json (Watchdog + Backstop-verifiziert leer)",
+      "data/tipps/2026-09-26.json (Sa+So Cloud-Routine + Safety-Net-Backstop, Tripel-Check leer)",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League_A (League-A-Fixtures 27.09. Sonntags-Programm)",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Copa_del_Rey (Fase Previa Territorial 26.-27.09., Primera Ronda 28.10., First round 3.-4.10.)",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Coupe_de_France (4e Tour 26.-27.09. mit National-1-Einstieg, kein Ligue-1)",
+      "https://www.premierleague.com/en/news/4689113/when-are-the-international-breaks-for-202627 (Break 20.09.-10.10., MW6 startet 10.10.)",
+      "https://www.bundesliga.com/en/bundesliga/news/calendar-for-2026-27-season-world-cup-34676 (Break-Wochenenden 26.09., 03.10., 14.11.)",
+      "https://sports.yahoo.com/articles/next-international-break-september-october-185416693.html (16-Tage-Break 21.09.-06.10.2026 bestaetigt)",
       "https://groundhopperguides.com/when-are-next-international-breaks-english-soccer-football/",
-      "https://www.uefa.com/uefanationsleague/news/0298-1d6ef1acfaef-b54fcf1da859-1000--2026-27-uefa-nations-league-all-you-need-to-know/",
-      "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season (MW6 vor dem Break, MW7 erst 03.10.)",
-      "https://www.bundesliga.com/de/bundesliga/news/spielplan-saison-start-termine-daten-2026-27-22043 (MD5 erst 10.10.)"
+      "football-data.org API (403 policy denial, deshalb Cross-Check via WebSearch/Wikipedia)"
     ],
-    "verifikations_aussage": "OK - Sa 26.09.2026 verifiziert leer. Keine Whitelist-Vereinsspiele im Fenster. Nations-League-MD1-Wochenende laeuft, ist aber Nationalmannschafts-Serie und laut CLAUDE.md 'Aktive Sportarten' nicht bespielbar. Copa del Rey Fase Previa Territorial (Amateur) heute ohne Datenbasis. Coupe de France 4e Tour ohne Ligue-1-Beteiligung. Kein Supercup. Kasse 1000€ / Stufe 1 unangetastet. Naechster echter Tipp-Tag: voraussichtlich Fr 03.10.2026.",
+    "verifikations_aussage": "OK - So 27.09.2026 verifiziert leer. Keine Whitelist-Vereinsspiele im Fenster. Nations-League-MD1-Sonntag laeuft mit Deutschland-Griechenland als Top-Termin, ist aber Nationalmannschafts-Serie und laut CLAUDE.md 'Aktive Sportarten' nicht bespielbar. Copa del Rey Fase Previa Territorial (Amateur) heute ohne Datenbasis. Coupe de France 4e Tour ohne Ligue-1-Beteiligung. Kein Supercup. Kasse 1000€ / Stufe 1 unangetastet. Naechster echter Tipp-Tag: voraussichtlich Fr 02.10./Fr 03.10.2026 (Ligue-1-Start, Serie-A/Bundesliga folgen Sa/So 10.-11.10.). Wochen-Vorschau-Routine heute Abend (So 18:00) wird die Woche 28.09.-04.10. abstecken.",
     "kette_der_verifikation": {
       "mo_21_09": "leer (Watchdog + Backstop)",
       "di_22_09": "leer (Watchdog + Backstop)",
       "mi_23_09": "leer (Watchdog + Backstop)",
       "do_24_09": "leer (Watchdog + Backstop)",
       "fr_25_09": "leer (Watchdog + Backstop)",
-      "sa_26_09": "leer (Sa+So Cloud-Routine, dieser Run) - konsistent",
-      "so_27_09": "Prognose: leer bleibt konsistent (Copa del Rey Fase Previa nur Amateur, Coupe de France 4e Tour ohne Ligue-1-Klubs, Deutschland-Griechenland Nations-League-A). Sonntagslauf wird das gegenpruefen."
+      "sa_26_09": "leer (Sa+So Cloud-Routine + Watchdog + Backstop, Tripel-Check konsistent)",
+      "so_27_09": "leer (Sa+So Cloud-Routine, konsistent zum Precedent) - Watchdog 11:00 + Backstop 12:00 werden das nachpruefen",
+      "prognose_mo_28_09_bis_do_01_10": "Prognose: leer bleibt konsistent bis Break-Ende (Ligue 1 startet frueh, Ligue 1 J8 wahrscheinlich Fr 02.10., Rest ab Sa 03.10./10.10.). Recherche-Routinen des Wochen-Modus (So 16:30 fuer Wochen-Vorschau + Do 16:30 fuer Wochenend-Vorschau) werden das segmentieren."
     }
   }
 };
