@@ -1,31 +1,65 @@
 {
   "datum": "2026-09-28",
-  "erstellt_am": "2026-09-27T18:05:00+02:00",
+  "erstellt_am": "2026-09-27T21:40:00+02:00",
   "modus": "woche",
   "anker_montag": "2026-09-28",
   "fenster_ende_sonntag": "2026-10-04",
-  "safety_net_backstop": false,
-  "hinweis": "🐚 Wochen-Vorschau Mo 28.09. bis So 04.10.2026 (So-Slot 18:00 Berlin, Saison 2026/27, Kasse 1000€ / Stufe 1). Ehrlich: NULL Spiele im Fenster fuer die aktiven Vereins-Wettbewerbe unserer Whitelist. Grund: XL-FIFA-Laenderspielpause 2026/27 vom 21.09. bis 06.10.2026 (16 Tage am Stueck - Nations League MD1 24.-27.09., MD3 01.-03.10., MD4 04.-06.10.). Recherche-Ergebnisse: Bundesliga MW4 lief 18.-20.09., MW5 erst Fr 09.10.-So 11.10. (Do 08.10. ausserhalb Fenster); Premier League MW5 durch 19.-20.09., MW6 erst Fr 09.10.-So 11.10. (Klassiker Liverpool-ManCity, ManUtd-Tottenham, Arsenal-Leeds); LaLiga J6 midweek 22.-24.09. durch (letzte Woche gespielt), J7 erst 10.-12.10.; Serie A g5 durch 19.-21.09., g6 erst Sa 10.10. (Genoa-Fiorentina, Inter-Parma, Napoli-Frosinone); Ligue 1 J5 durch 19.-21.09., J6 erst Fr 09.10.-So 11.10.; 2. Bundesliga MD6 durch 18.-20.09. (u.a. Wolfsburg 5:1 Darmstadt, Karlsruhe 0:1 Nuernberg, Hannover 2:1 Bochum), MD7 erst Sa 10.10. (u.a. Nuernberg-Wolfsburg 20:30 laut kicker); DFB-Pokal 2. Runde erst 27.-28.10. (Auslosung 05.09., u.a. Magdeburg-Bayern); Coppa Italia R16 mit Serie-A-Teams erst 02.12.; Champions League MD2 13.-14.10. (u.a. Arsenal-Lille, Atletico-ManUtd, Inter-Brugge, Galatasaray-Barca, ManCity-PSG); Europa League MD2 15.10.; Conference League MD1 (Ligaphase-Start) 15.10.; Copa del Rey R1 28.10.; Coupe de France Bundesliga-Aequivalent-Runde Okt/Nov (Ligue-1-Teams noch nicht dabei); EFL Cup R4 in der Woche 26.-29.10. (u.a. Fleetwood-Arsenal, Liverpool-Chelsea, ManCity-Brighton laut Auslosung 16.09.); FA Cup Emirates 3rd Qualifying Round Sa 03.10. - fallen alle unter Non-League und Beobachtungs-Liga-Filter (keine Vereinssaison-Whitelist). Kein Supercup in diesem Zeitfenster (Trophee des Champions erst Januar, Supercopa/Supercoppa/Community Shield lange durch, UEFA Super Cup war Mitte August). Nations League steht per CLAUDE.md-Regel 'Aktive Sportarten' NICHT in unserer Whitelist (nur Vereins-Wettbewerbe + WM/EM-Turniere), deshalb keine Spielansetzungen wie Deutschland-Griechenland 03.10. oder Portugal-Danemark 01.10. hier drin. Ergebnis: ehrliches leeres Wochen-Dossier statt erfundener Tipps - Notfall-Fallback-Regel aus master_tipps_routine.md greift ('lieber ein kleines ehrliches Dossier als gar keins'). Naechstes echtes Wochen-Dossier: So 04.10. abends fuer die Woche Mo 05.10.-So 11.10. mit vollem Restart aller Ligen. Wochenend-Dossier davor: Do 08.10. fuer Fr 09.10.-So 11.10. Kasse-Stand 1000€ / Stufe 1 aktiv (rolling 30 Tage ROI +83.1% ist stark, aber stufe_2_freigeschaltet noch false laut kasse.json - Saison-Edge muss erst manuell freigeschaltet werden) - bleibt in diesem Break unangetastet.",
+  "safety_net_backstop": true,
+  "hinweis": "🐚 Wochen-Vorschau Mo 28.09. bis So 04.10.2026 (So-Slot 18:00 Berlin, Saison 2026/27, Kasse 1000€ / Stufe 1). Safety-Net-Backstop: Cloud-Hauptroutine und Cloud-Watchdog haben heute keine gefuellte Vorschau geliefert, lokaler Backstop hat das Fenster unabhaengig ligaweise gegengecheckt - Ergebnis bleibt ehrlich leer. Grund: XL-FIFA-Laenderspielpause 2026/27 vom 21.09. bis 06.10.2026 (16 Tage am Stueck, DFB Rahmenterminkalender + Spox erklaeren die Sonder-XL-Sostenpause zwischen zwei geplanten Windows, Nations League Ligaphase MD2 24.-27.09., MD3 01.-03.10., MD4 04.-06.10.). Wir bespielen Nationalmannschafts-Wettbewerbe per CLAUDE.md-Whitelist bewusst NICHT (nur Vereins-Wettbewerbe + WM/EM-Turniere). Whitelist-Recherche (alle live gegengeprueft): Bundesliga MW4 lief 18.-20.09., MW5 erst Fr 09.10.-So 11.10. (u.a. Dortmund-Werder, Leipzig-Frankfurt, Hoffenheim-HSV, Freiburg-Schalke, Augsburg-Bayern); Premier League MW5 durch 19.-20.09., MW6 erst 10.-12.10. mit Liverpool-ManCity, ManUtd-Tottenham, Arsenal-Leeds, Chelsea-Bournemouth als Klassikerwoche; LaLiga J7 lief 18.-20.09. (u.a. Madrid-Derby Atletico-Real), J8 erst 09.-11.10. mit Barca-Getafe im Camp Nou; Serie A g5 durch 19.-21.09., g6 erst Sa 10.10.-Mo 12.10. (u.a. Genoa-Fiorentina, Inter-Parma, Napoli-Frosinone, Sassuolo-Milan, Torino-Udinese); Ligue 1 J5/J6 durch 19.-21.09., J7 erst ab 09.10.-11.10. bzw. 17.10.; 2. Bundesliga MD6 durch 18.-20.09. (u.a. Wolfsburg 5:1 Darmstadt, Karlsruhe 0:1 Nuernberg, Hannover 2:1 Bochum), MD7 erst Sa 10.10. (u.a. Nuernberg-Wolfsburg 20:30); DFB-Pokal 2. Runde erst 27.-28.10. (Auslosung 05.09.); Coppa Italia R16 lief am 02.09.2026, Ottavi erst 02.12. laut offiziellem Sky-Sport-Tabellone (Italienische Liga stoppt offiziell 27.09.-04.10. laut Serie-A-Kalender); Champions League MD2 13.-14.10. (u.a. Arsenal-Lille, Atletico-ManUtd, Inter-Brugge, Galatasaray-Barca, Bodo-Dortmund, ManCity-PSG); Europa League MD2 15.10.; Conference League MD1 (Ligaphase-Start) 15.10.; Copa del Rey R1 28.10.; Coupe de France Ligue-1-Einstieg erst spaeter Okt/Nov; EFL Cup R3 lief Mitte September, R4 erst Woche 26.-29.10. (Auslosung 16.09., u.a. Fleetwood-Arsenal, Liverpool-Chelsea, ManCity-Brighton); FA Cup Emirates 3rd Qualifying Round Sa 03.10. spielt nur Non-League-Teams (u.a. Bury vs Bromsgrove Sporting, Ebbsfleet-Sholing) - faellt unter Beobachtungs-Liga-Filter, keine Vereinssaison-Whitelist. Kein Supercup in diesem Zeitfenster (Trophee des Champions erst Januar in Riad, Supercopa/Supercoppa/Community Shield lange durch, UEFA Super Cup war 13.08. Mitte August, Franz-Beckenbauer-Supercup 22.08.). Konsequenz: ehrlich leeres Wochen-Dossier statt erfundener Tipps - Notfall-Fallback-Regel aus master_tipps_routine.md greift ('Niemals mit leerem einzeltipps[]/spiele[] enden, WENN Spiele im Fenster liegen' - hier liegen keine). Naechstes echtes Wochen-Dossier: So 04.10. abends fuer Mo 05.10.-So 11.10. mit dem vollen Restart aller fuenf Top-Ligen. Wochenend-Dossier davor: Do 08.10. fuer Fr 09.10.-So 11.10. Kasse-Stand 1000€ / Stufe 1 aktiv (rolling 30 Tage ROI ist stark, aber stufe_2_freigeschaltet noch false laut kasse.json - manueller Toggle steht aus) - bleibt in diesem Break unangetastet, es liegt kein Tipp zum Setzen an.",
   "spiele": [],
   "einzeltipps": [],
   "kombis": [],
   "lessons_angewandt": [
-    "Zeitfenster-Hartregel (CLAUDE.md 22.08.2026): nur Anstoss-Tage Mo 28.09.-So 04.10., alle Ligen live geprueft - keine Whitelist-Spiele im Fenster.",
-    "Notfall-Fallback aus master_tipps_routine.md: leeres Dossier ist ein gueltiges Ergebnis, wenn keine Spiele im Fenster liegen. Erfinden waere schaedlicher als Schweigen.",
-    "Konsistenz mit Wochenend-Safety-Net vom Do 26.09.: gleiche Datenlage (FIFA-Pause 21.09.-06.10.), gleiche Konsequenz.",
-    "CLAUDE.md Aktive-Sportarten-Whitelist: Nations-League-MDs 3/4 (01.-03.10. bzw. 04.-06.10.) werden explizit NICHT aufgenommen - Vereinssaison-Modus statt Nationalteam-Modus.",
-    "CLAUDE.md Supercup-Sonderregel: fuer diesen Zeitraum kein Supercup terminiert - Trophee des Champions Januar in Riad, Supercopa/Supercoppa/Community Shield laengst gespielt, UEFA Super Cup war 13.08.",
-    "CLAUDE.md Kasse-Regel: Stufe 1 aktiv bis stufe_2_freigeschaltet=true - obwohl rolling-30-Tage-ROI +83.1% laut statistik.json den Threshold reisst, wartet Freischaltung auf Melvi's manuelles Toggle."
+    "Zeitfenster-Hartregel (CLAUDE.md 22.08.2026): Modus 'woche' deckt genau Mo 28.09.-So 04.10. ab, gemessen am Anstosstag in Berliner Zeit. Alle fuenf Top-Ligen + 4 UEFA-Wettbewerbe + 4 nationale Pokale einzeln live geprueft - keine Whitelist-Anstoesse im Fenster.",
+    "Notfall-Fallback aus master_tipps_routine.md: leeres Dossier ist ein gueltiges Ergebnis, WENN keine Spiele im Fenster liegen. Erfinden waere schaedlicher als Schweigen - Bedingung 'wenn es Spiele im Zeitfenster gibt' hier explizit widerlegt.",
+    "Konsistenz mit Wochenend-Safety-Net vom Do 24.09. (tipps_wochenende/2026-09-26.json ist ebenfalls Safety-Net-Backstop mit leerem Slate): gleiche Datenlage (FIFA-Pause 21.09.-06.10.), gleiche Konsequenz.",
+    "CLAUDE.md Aktive-Sportarten-Whitelist: Nations-League-MDs 3/4 (01.-03.10. bzw. 04.-06.10.) werden explizit NICHT aufgenommen - Vereinssaison-Modus statt Nationalteam-Modus. NBA-Offseason (Regular Season startet erst Oktober-Ende) ebenfalls keine Tipp-Quelle.",
+    "CLAUDE.md Supercup-Sonderregel (22.08.2026): fuer diesen Zeitraum kein Supercup terminiert - Trophee des Champions erst Januar in Riad, Supercopa/Supercoppa/Community Shield laengst gespielt, UEFA Super Cup war 13.08., Franz-Beckenbauer-Supercup war 22.08.",
+    "CLAUDE.md Kasse-Regel: Stufe 1 aktiv bis stufe_2_freigeschaltet=true - Freischaltung wartet auf manuellen Toggle, egal wie stark der rolling-30-Tage-ROI ist. In diesem Break sowieso keine Einsatz-Frage.",
+    "Cloud-Routinen als Repo-Wrapper (CLAUDE.md 22.08.2026): Der Safety-Net-Backstop macht die gleiche Recherche wie die Cloud, gestuetzt auf denselben Regeltext - Ergebnisgleichheit zeigt, dass die Empty-Diagnose kein Prompt-Artefakt ist."
   ],
   "_verifikations_report": {
-    "erstellt_am": "2026-09-27T18:05:00+02:00",
+    "erstellt_am": "2026-09-27T21:40:00+02:00",
+    "trigger": "Safety-Net Backstop - Cloud-Hauptroutine und Cloud-Watchdog haben heute keine gefuellte Vorschau geliefert. Lokaler Backstop hat das Fenster Mo 28.09.-So 04.10. unabhaengig ligaweise nachverifiziert.",
     "drops": [],
     "downgrades": [],
-    "warns": [],
-    "lessons_generiert": [
-      "Wochen-Vorschau in FIFA-Pause: Recherche muss beide MD-Fenster (MD3 + MD4) und alle grossen Liga-Restart-Termine (09.-11.10. + 13.-15.10.) explizit abklopfen, bevor 'leer' als Ergebnis akzeptiert wird - so wie hier fuer 5 grosse Ligen + 4 UEFA-Wettbewerbe + 4 nationale Pokale einzeln verifiziert."
+    "warns": [
+      {
+        "art": "leerer_slate",
+        "spiel_id": null,
+        "details": "XL-FIFA-Laenderspielpause 21.09.-06.10.2026 - alle Top-5-Ligen + 2.BL + Europapokal-Ligaphase pausieren, kein Whitelist-Wettbewerb zwischen Mo 28.09. und So 04.10. Verifiziert per WebSearch fuer jede Liga einzeln: BL MW5 09.-11.10., PL MW6 10.-12.10., LaLiga J8 09.-11.10., Serie A g6 10.-12.10. (Championship stop offiziell 27.09.-04.10.), Ligue 1 J7 09.-11.10. bzw. 17.10., CL MD2 13.-14.10., EL MD2 15.10., Conference MD1 15.10., DFB-Pokal R2 27.-28.10., Coppa Italia Ottavi 02.12., Copa del Rey R1 28.10., EFL Cup R4 26.-29.10., FA Cup 3rd Q 03.10. nur Non-League."
+      },
+      {
+        "art": "kein_supercup_im_fenster",
+        "spiel_id": null,
+        "details": "CLAUDE.md-Pflichtcheck (Franz-Beckenbauer, FA Community Shield, Supercopa de Espana, Supercoppa Italiana, Trophee des Champions, UEFA Super Cup): alle bereits gespielt oder erst Januar. Explizit geprueft, damit die 22.08.2026-Lehre (fehlender FBS-Supercup im Slate) nicht wiederkehrt."
+      }
     ],
-    "note": "Kein Halluzinations-Risiko: spiele[] = [] verhindert Kader-/Trainer-/Markt-Widersprueche. Kein Downgrade noetig, weil kein Tipp gesetzt wurde."
+    "lessons_generiert": [
+      "Wochen-Vorschau in XL-FIFA-Pause: Recherche muss beide betroffenen MD-Fenster (Nations League MD3 + MD4) und alle grossen Liga-Restart-Termine (09.-11.10. + 13.-15.10.) explizit abklopfen, bevor 'leer' als Ergebnis akzeptiert wird - so wie hier fuer 5 Top-Ligen + 2. Bundesliga + 4 UEFA-Wettbewerbe + 4 nationale Pokale + 6 Supercups einzeln verifiziert.",
+      "Safety-Net-Konsistenz: wenn der Wochenend-Backstop vom Do (2026-09-26) mit gleicher FIFA-Break-Diagnose leer geblieben ist, muss der Wochen-Backstop vom So (2026-09-28) bei identischer Datenlage auch leer bleiben - alles andere waere ein Selbstwiderspruch der Safety-Net-Kette."
+    ],
+    "quellen": [
+      "https://www.dfb.de/rahmenterminkalender",
+      "https://www.bundesliga.com/de/bundesliga/news/spielplan-saison-start-termine-daten-2026-27-22043",
+      "https://www.kicker.de/bundesliga/spieltag/2026-27/5",
+      "https://www.premierleague.com/en/matches/premier-league/2026-27/matchweek-1",
+      "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
+      "https://www.laliga.com/en-GB/laliga-easports/calendar",
+      "https://www.laliga.com/noticias/horarios-de-la-decima-jornada-de-laliga-ea-sports-2026-27",
+      "https://sport.sky.it/calcio/coppa-italia/tabellone-coppa-italia-2026-2027",
+      "https://www.ilmessaggero.it/sport/schede/serie_a_calendario_sesta_dodicesima_giornata_anticipi_posticipi_orari_dove_vedere_partite-sesta_giornata-2-9741457.html",
+      "https://www.corrieredellosport.it/news/calcio/serie-a/2026/05/25-148870277/serie_a_2026_27_tutte_le_date_ufficiali_della_prossima_stagione_quando_si_parte_soste_turni_infrasettimanali_e_ultima_gi",
+      "https://www.lfp.fr/assets/L1_MD_2627_CALENDRIER_SOMBRE_920e8f5afd.pdf",
+      "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures/",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_EFL_Cup",
+      "https://www.efl.com/news/2026/august/28/carabao-cup--third-round-dates-confirmed/",
+      "https://www.thefa.com/competitions/thefacup/round-dates",
+      "https://www.kicker.de/2-bundesliga/spieltag/2026-27/7",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Copa_del_Rey"
+    ],
+    "note": "Kein Halluzinations-Risiko: spiele[] = [] verhindert Kader-/Trainer-/Markt-Widersprueche. Kein Kader-Gegencheck gegen data/kader_wechsel_2026.json noetig, weil kein Spieler-Tipp gesetzt wurde. Kein Downgrade noetig, weil kein Tipp gesetzt wurde. safety_net_backstop=true stempelt: Cloud liefert leer, Backstop hat nachrecherchiert und ehrlich bestaetigt statt zu erfinden."
   },
   "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
 }
