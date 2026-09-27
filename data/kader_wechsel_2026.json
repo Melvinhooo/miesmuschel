@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-21T08:15:00+00:00",
+  "stand": "2026-09-27T21:00:00+02:00",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -765,10 +765,12 @@
     },
     {
       "verein": "Parma Calcio 1913",
-      "trainer_neu": "Carlos Cuesta",
-      "trainer_alt": "Cristian Chivu",
-      "seit": "2026-07",
-      "hinweis": "Ex-Arsenal-Co / spanischer Trainer, sein erster Chef-Job. Uebernahm Sommer 2026."
+      "trainer_neu": "offen (Interim, live pruefen)",
+      "trainer_alt": "Carlos Cuesta (davor Cristian Chivu)",
+      "seit": "2026-09-27",
+      "hinweis": "Risoluzione consensuale mit Cuesta am 27.09.2026 nach 4 Punkten aus 5 Spielen und Uneinigkeit ueber das sportliche Projekt (obwohl gerade 2:1-Sieg gegen Venezia am Spieltag 5). Dritter Serie-A-Trainerwechsel 2026/27 nach Fiorentina (Grosso) und Bologna (Tedesco). Als Kandidaten fuer den Nachfolger kolportiert: Roberto D'Aversa (Rueckkehr), Alberto Gilardino und Paolo Zanetti - bis zur Bestaetigung nichts hier eintragen. Cuesta war Ex-Arsenal-Co und Neuling, sein Nachfolger duerfte pragmatischer aufstellen. Bis zur Bekanntgabe: Parma-Aufstellungs-Vorschau JEDES Spiel live pruefen, taktische Aussagen NICHT auf Cuesta-Stand stuetzen.",
+      "quelle": "https://www.corrieredellosport.it/news/calcio/serie-a/parma/2026/09/27-151505955/sorpresa_parma_ufficiale_la_risoluzione_consensuale_con_cuesta",
+      "stand": "2026-09-27"
     },
     {
       "verein": "SL Benfica",
@@ -895,9 +897,19 @@
       "hinweis": "Sarri bei Atalanta 26/27, nach Gasperini-Abgang. 3. Niederlage in Serie nach 20.09.2026 gegen Juventus.",
       "quelle": "https://www.goal.com/en/lists/juventus-atalanta-2-0-conceicao-and-bremer-spalletti-return-to-winning-ways-in-serie-a-too-three-straight-defeats-for-sarri-s-team/blt5e5439513800f466",
       "stand": "2026-09-21"
+    },
+    {
+      "verein": "West Ham United",
+      "trainer_neu": "Nuno Espirito Santo",
+      "trainer_alt": "Graham Potter",
+      "seit": "2026-09-28",
+      "vertrag_bis": "2029-06",
+      "hinweis": "Potter am 27.09.2026 nach 3 Punkten aus 5 PL-Spielen (Tabellenplatz 19) entlassen - erster Premier-League-Trainerwechsel 2026/27. Nuno Espirito Santo binnen Stunden auf 3-Jahres-Vertrag verpflichtet, sein Debut am Montag in Everton. Nuno kam aus dem freien Markt (laut Sky vor rund drei Wochen bei Nottingham Forest nach Streit mit Owner Marinakis ueber Transferpolitik getrennt - das bedeutet der Forest-Eintrag mit Glasner als 'trainer_neu seit 2026-07' war schon vor diesem Refresh entweder ueberholt oder Nunos Forest-Rueckkehr nach Glasner-Ende war nicht dokumentiert; vor West-Ham- ODER Forest-Tipps daher Aufstellungs-Vorschau am Spieltag live pruefen). Taktisch: Nuno spielt in der Regel kompaktes 3-4-3 mit tiefer Linie, Konter ueber Fluegel. Zu-Null-Quote West Ham ab jetzt aufwerten sobald Personal steht, Ueber-2.5 vorsichtiger.",
+      "quelle": "https://www.skysports.com/football/news/11685/13440165/west-ham-the-inside-story-on-graham-potters-sacking-and-nuno-espirito-santos-swift-appointment",
+      "stand": "2026-09-27"
     }
   ],
-  "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist. Fulham hat mit Arbeloa (ex-Real Madrid) einen neuen Trainer, Silva zu Benfica (bestaetigt 25.08.2026). Saison-Verlauf (Stand 20.09.2026): erster Bundesliga-Wechsel Gladbach 13.09. (Polanski -> Lichte Interim), zwei Serie-A-Wechsel Fiorentina 07.09. (Grosso -> Vanoli) und Bologna 16.09. (Tedesco -> Palladino), ein LaLiga-Wechsel Valencia 13.09. (Corberan -> Oscar Sanchez Interim). Interim-Rollen bei Gladbach und Valencia: endgueltiger Nachfolger noch offen - Aufstellungs-Vorschau am Spieltag schlaegt jede Vermutung hier.",
+  "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist. Fulham hat mit Arbeloa (ex-Real Madrid) einen neuen Trainer, Silva zu Benfica (bestaetigt 25.08.2026). Saison-Verlauf (Stand 27.09.2026): erster Bundesliga-Wechsel Gladbach 13.09. (Polanski -> Lichte Interim), drei Serie-A-Wechsel Fiorentina 07.09. (Grosso -> Vanoli), Bologna 16.09. (Tedesco -> Palladino) und Parma 27.09. (Cuesta -> offen), ein LaLiga-Wechsel Valencia 13.09. (Corberan -> Oscar Sanchez Interim), erster Premier-League-Wechsel West Ham 27.09. (Potter -> Nuno Espirito Santo, sofort auf 3 Jahre). Interim-Rollen bei Gladbach, Valencia und Parma: endgueltiger Nachfolger noch offen - Aufstellungs-Vorschau am Spieltag schlaegt jede Vermutung hier. Nuno-Wechsel wirft ausserdem Frage auf, ob der bisherige Forest-Eintrag (Glasner seit 2026-07 als Nuno-Nachfolger) noch stimmt - vor Forest-Tipps live pruefen.",
   "quellen": [
     "https://www.bundesliga.com/en/bundesliga/news/official-bundesliga-transfer-centre-summer-2026-37051",
     "https://www.tntsports.co.uk/football/transfers/2026-2027/deadline-day-summer-2026-done-deals-premier-league-la-liga-serie-a-ligue-1-bundesliga_sto23333078/story.shtml",
@@ -917,6 +929,8 @@
     "https://sport.sky.it/calcio/serie-a/2026/09/07/fiorentina-grosso-vanoli-allenatore-news-oggi",
     "https://sport.sky.it/calcio/serie-a/2026/09/16/bologna-tedesco-esonero-palladino-allenatore-news",
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Borussia_M%C3%B6nchengladbach_season",
-    "https://www.infobae.com/america/agencias/2026/09/13/el-valencia-despide-a-su-tecnico-carlos-corberan-y-rompe-la-estructura-deportiva-actual/"
+    "https://www.infobae.com/america/agencias/2026/09/13/el-valencia-despide-a-su-tecnico-carlos-corberan-y-rompe-la-estructura-deportiva-actual/",
+    "https://www.corrieredellosport.it/news/calcio/serie-a/parma/2026/09/27-151505955/sorpresa_parma_ufficiale_la_risoluzione_consensuale_con_cuesta",
+    "https://www.skysports.com/football/news/11685/13440165/west-ham-the-inside-story-on-graham-potters-sacking-and-nuno-espirito-santos-swift-appointment"
   ]
 }
