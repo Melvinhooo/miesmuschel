@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-09-26T06:13:05+00:00",
+  "letzte_berechnung": "2026-09-27T06:12:10+00:00",
   "gesamt": {
     "tipps": 430,
     "gewonnen": 231,
@@ -24,15 +24,15 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 83.1
   },
   "letzte_90_tage": {
-    "tipps": 324,
-    "gewonnen": 166,
-    "verloren": 146,
+    "tipps": 319,
+    "gewonnen": 163,
+    "verloren": 144,
     "push": 1,
     "offen": 11,
-    "einsatz": 313.0,
-    "netto": 78.58,
-    "trefferquote": 53.2,
-    "roi_prozent": 25.1
+    "einsatz": 308.0,
+    "netto": 79.35,
+    "trefferquote": 53.1,
+    "roi_prozent": 25.8
   },
   "nach_liga": {
     "FIFA World Cup 2026 - Gruppe H - Spieltag 1": {
