@@ -1,16 +1,16 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-09-27T06:12:10+00:00",
+  "letzte_berechnung": "2026-09-28T06:13:26+00:00",
   "gesamt": {
-    "tipps": 430,
-    "gewonnen": 231,
-    "verloren": 187,
+    "tipps": 319,
+    "gewonnen": 163,
+    "verloren": 144,
     "push": 1,
     "offen": 11,
-    "einsatz": 419.0,
-    "netto": 69.13,
-    "trefferquote": 55.3,
-    "roi_prozent": 16.5
+    "einsatz": 308.0,
+    "netto": 79.35,
+    "trefferquote": 53.1,
+    "roi_prozent": 25.8
   },
   "letzte_30_tage": {
     "tipps": 73,
@@ -24,390 +24,27 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 83.1
   },
   "letzte_90_tage": {
-    "tipps": 319,
-    "gewonnen": 163,
-    "verloren": 144,
+    "tipps": 310,
+    "gewonnen": 159,
+    "verloren": 139,
     "push": 1,
     "offen": 11,
-    "einsatz": 308.0,
-    "netto": 79.35,
-    "trefferquote": 53.1,
-    "roi_prozent": 25.8
+    "einsatz": 299.0,
+    "netto": 79.97,
+    "trefferquote": 53.4,
+    "roi_prozent": 26.7
   },
   "nach_liga": {
-    "FIFA World Cup 2026 - Gruppe H - Spieltag 1": {
-      "tipps": 6,
-      "gewonnen": 1,
-      "verloren": 5,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 6.0,
-      "netto": -4.88,
-      "trefferquote": 16.7,
-      "roi_prozent": -81.3
-    },
-    "FIFA World Cup 2026 - Gruppe (Iran/NZL) - Spieltag 1": {
-      "tipps": 2,
-      "gewonnen": 0,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": -2.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "FIFA World Cup 2026 - Gruppe G - Spieltag 1": {
-      "tipps": 2,
-      "gewonnen": 0,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": -2.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "FIFA World Cup 2026 - Gruppe I - Spieltag 1": {
-      "tipps": 6,
-      "gewonnen": 5,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 6.0,
-      "netto": 2.18,
-      "trefferquote": 83.3,
-      "roi_prozent": 36.3
-    },
-    "FIFA World Cup 2026 - Gruppe J - Spieltag 1": {
-      "tipps": 3,
-      "gewonnen": 2,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": -0.47,
-      "trefferquote": 66.7,
-      "roi_prozent": -15.7
-    },
-    "FIFA World Cup 2026 - Gruppe K - Spieltag 1": {
-      "tipps": 6,
-      "gewonnen": 2,
-      "verloren": 4,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 6.0,
-      "netto": 0.0,
-      "trefferquote": 33.3,
-      "roi_prozent": 0.0
-    },
-    "FIFA World Cup 2026 - Gruppe L - Spieltag 1": {
-      "tipps": 4,
-      "gewonnen": 4,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 4.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "FIFA World Cup 2026 - Gruppe A - Spieltag 2": {
-      "tipps": 5,
-      "gewonnen": 2,
-      "verloren": 3,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 5.0,
-      "netto": 0.0,
-      "trefferquote": 40.0,
-      "roi_prozent": 0.0
-    },
-    "FIFA World Cup 2026 - Gruppe B - Spieltag 2": {
-      "tipps": 5,
-      "gewonnen": 3,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 5.0,
-      "netto": 0.0,
-      "trefferquote": 60.0,
-      "roi_prozent": 0.0
-    },
-    "FIFA World Cup 2026 - Gruppe C - Spieltag 2": {
-      "tipps": 4,
-      "gewonnen": 4,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 4.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "FIFA World Cup 2026 - Gruppe D - Spieltag 2": {
-      "tipps": 3,
-      "gewonnen": 2,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 66.7,
-      "roi_prozent": 0.0
-    },
-    "FIFA World Cup 2026 - Gruppe E - Spieltag 2": {
-      "tipps": 5,
-      "gewonnen": 3,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 5.0,
-      "netto": 0.0,
-      "trefferquote": 60.0,
-      "roi_prozent": 0.0
-    },
-    "FIFA World Cup 2026 - Gruppe F - Spieltag 2": {
-      "tipps": 5,
-      "gewonnen": 5,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 5.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "FIFA World Cup 2026 - Gruppe H - Spieltag 2": {
-      "tipps": 5,
-      "gewonnen": 2,
-      "verloren": 3,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 5.0,
-      "netto": 0.0,
-      "trefferquote": 40.0,
-      "roi_prozent": 0.0
-    },
-    "FIFA World Cup 2026 - Gruppe G - Spieltag 2": {
-      "tipps": 5,
-      "gewonnen": 3,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 5.0,
-      "netto": 0.0,
-      "trefferquote": 60.0,
-      "roi_prozent": 0.0
-    },
-    "FIFA WM 2026 - Gruppe C - Spieltag 3 (Marokko-Quali / Haiti raus)": {
-      "tipps": 2,
-      "gewonnen": 1,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": -0.45,
-      "trefferquote": 50.0,
-      "roi_prozent": -22.5
-    },
-    "FIFA WM 2026 - Gruppe C - Spieltag 3 (Brasilien Gruppensieg-Chance)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.8,
-      "trefferquote": 100.0,
-      "roi_prozent": 80.0
-    },
-    "FIFA WM 2026 - Gruppe B - Spieltag 3 (BiH Muss-Sieg)": {
-      "tipps": 3,
-      "gewonnen": 3,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 2.87,
-      "trefferquote": 100.0,
-      "roi_prozent": 95.7
-    },
-    "FIFA WM 2026 - Gruppe B - Spieltag 3 (Gruppensieg-Duell)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.85,
-      "trefferquote": 100.0,
-      "roi_prozent": 85.0
-    },
-    "FIFA WM 2026 - Gruppe A - Spieltag 3 (Korea Quali-Chance / SAR Existenz)": {
-      "tipps": 2,
-      "gewonnen": 0,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": -2.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "FIFA WM 2026 - Gruppe A - Spieltag 3 (Mexico schon Gruppensieger / Tschechien Existenz)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "FIFA WM 2026 - Gruppe F - Spieltag 3 (Decider)": {
-      "tipps": 6,
-      "gewonnen": 3,
-      "verloren": 3,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 6.0,
-      "netto": -1.75,
-      "trefferquote": 50.0,
-      "roi_prozent": -29.2
-    },
-    "FIFA WM 2026 - Gruppe E - Spieltag 3 (Decider)": {
-      "tipps": 5,
-      "gewonnen": 2,
-      "verloren": 3,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 5.0,
-      "netto": -2.17,
-      "trefferquote": 40.0,
-      "roi_prozent": -43.4
-    },
-    "FIFA WM 2026 - Gruppe D - Spieltag 3 (Decider, Coinflip)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.57,
-      "trefferquote": 100.0,
-      "roi_prozent": 57.0
-    },
-    "FIFA WM 2026 - Gruppe I - Spieltag 3 (Decider Gruppensieg)": {
-      "tipps": 3,
-      "gewonnen": 2,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 66.7,
-      "roi_prozent": 0.0
-    },
-    "FIFA WM 2026 - Gruppe G - Spieltag 3 (Belgien-Decider)": {
-      "tipps": 2,
-      "gewonnen": 2,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "FIFA WM 2026 - Gruppe H - Spieltag 3 (Gruppensieg-Decider)": {
-      "tipps": 2,
-      "gewonnen": 1,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 50.0,
-      "roi_prozent": 0.0
-    },
-    "FIFA WM 2026 - Gruppe I - Spieltag 3 (Dead-Rubber, beide raus)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "FIFA WM 2026 - Gruppe G - Spieltag 3 (Decider, Coinflip)": {
-      "tipps": 2,
-      "gewonnen": 2,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "FIFA World Cup 2026 - Gruppe J - Spieltag 3": {
-      "tipps": 3,
-      "gewonnen": 3,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "FIFA World Cup 2026 - Gruppe L - Spieltag 3": {
-      "tipps": 3,
-      "gewonnen": 2,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 66.7,
-      "roi_prozent": 0.0
-    },
-    "FIFA World Cup 2026 - Gruppe L - Spieltag 3 (Decider)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "FIFA World Cup 2026 - Gruppe J - Spieltag 3 (Decider)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
     "FIFA WM 2026 - Round of 32": {
-      "tipps": 24,
-      "gewonnen": 11,
-      "verloren": 13,
+      "tipps": 19,
+      "gewonnen": 8,
+      "verloren": 11,
       "push": 0,
       "offen": 0,
-      "einsatz": 24.0,
-      "netto": -5.1,
-      "trefferquote": 45.8,
-      "roi_prozent": -21.2
+      "einsatz": 19.0,
+      "netto": -4.33,
+      "trefferquote": 42.1,
+      "roi_prozent": -22.8
     },
     "FIFA WM 2026 - Achtelfinale": {
       "tipps": 10,
@@ -1126,720 +763,16 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "nach_markt": {
-    "Spanien Sieg (1X2)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Mikel Oyarzabal trifft jederzeit (Spanien)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Ueber 2.5 Tore (Gesamt)": {
-      "tipps": 2,
-      "gewonnen": 1,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": -0.3,
-      "trefferquote": 50.0,
-      "roi_prozent": -15.0
-    },
-    "Uruguay Doppelte Chance (X2)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.12,
-      "trefferquote": 100.0,
-      "roi_prozent": 12.0
-    },
-    "Unter 2.5 Tore (Gesamt)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Uruguay Sieg (1X2)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Belgien Sieg (1X2)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Mehdi Taremi trifft jederzeit (Iran)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Darwin Nunez trifft jederzeit (Uruguay)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Jeremy Doku trifft jederzeit (Belgien)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Erling Haaland trifft jederzeit (Norwegen)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.43,
-      "trefferquote": 100.0,
-      "roi_prozent": 43.0
-    },
-    "Lautaro Martinez trifft jederzeit (Argentinien)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Kylian Mbappe trifft jederzeit (Frankreich)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.8,
-      "trefferquote": 100.0,
-      "roi_prozent": 80.0
-    },
-    "Ousmane Dembele trifft jederzeit (Frankreich)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 1.2,
-      "trefferquote": 100.0,
-      "roi_prozent": 120.0
-    },
-    "Doppelte Chance X2 (Unentschieden/Norwegen)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.05,
-      "trefferquote": 100.0,
-      "roi_prozent": 5.0
-    },
-    "Doppelte Chance 1X (Argentinien/Unentschieden)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.08,
-      "trefferquote": 100.0,
-      "roi_prozent": 8.0
-    },
-    "Alexander Sorloth trifft jederzeit (Norwegen)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Unter 3.5 Tore (Gesamt)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.45,
-      "trefferquote": 100.0,
-      "roi_prozent": 45.0
-    },
-    "Portugal Sieg": {
-      "tipps": 3,
-      "gewonnen": 0,
-      "verloren": 3,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "England Sieg": {
-      "tipps": 6,
-      "gewonnen": 5,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 6.0,
-      "netto": 0.0,
-      "trefferquote": 83.3,
-      "roi_prozent": 0.0
-    },
-    "Kolumbien Sieg": {
-      "tipps": 3,
-      "gewonnen": 2,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 66.7,
-      "roi_prozent": 0.0
-    },
-    "Ghana Doppelte Chance 1X (Sieg oder Remis)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "Mexiko Sieg": {
-      "tipps": 3,
-      "gewonnen": 2,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 66.7,
-      "roi_prozent": 0.0
-    },
-    "Kanada Sieg": {
-      "tipps": 3,
-      "gewonnen": 2,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 66.7,
-      "roi_prozent": 0.0
-    },
-    "Schweiz Sieg": {
-      "tipps": 2,
-      "gewonnen": 1,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 50.0,
-      "roi_prozent": 0.0
-    },
-    "Tschechien Sieg": {
-      "tipps": 2,
-      "gewonnen": 0,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Brasilien Sieg": {
-      "tipps": 4,
-      "gewonnen": 4,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 4.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "Doppelte Chance USA (1X)": {
-      "tipps": 2,
-      "gewonnen": 2,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "Doppelte Chance Türkei (1X)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Ecuador Sieg": {
-      "tipps": 2,
-      "gewonnen": 0,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Deutschland Sieg": {
-      "tipps": 3,
-      "gewonnen": 3,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "Doppelte Chance Japan (X2)": {
-      "tipps": 3,
-      "gewonnen": 3,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "Über 2.5 Tore": {
-      "tipps": 7,
-      "gewonnen": 5,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 7.0,
-      "netto": 4.9,
-      "trefferquote": 71.4,
-      "roi_prozent": 70.0
-    },
-    "Spanien Sieg": {
-      "tipps": 2,
-      "gewonnen": 2,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "Belgien Sieg": {
-      "tipps": 4,
-      "gewonnen": 2,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 4.0,
-      "netto": 0.0,
-      "trefferquote": 50.0,
-      "roi_prozent": 0.0
-    },
-    "Uruguay Sieg": {
-      "tipps": 3,
-      "gewonnen": 0,
-      "verloren": 3,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Doppelte Chance Ägypten (X2)": {
-      "tipps": 3,
-      "gewonnen": 3,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
     "Ueber 2.5 Tore": {
-      "tipps": 30,
-      "gewonnen": 15,
+      "tipps": 25,
+      "gewonnen": 10,
       "verloren": 13,
       "push": 0,
       "offen": 2,
-      "einsatz": 28.0,
-      "netto": 7.57,
-      "trefferquote": 53.6,
-      "roi_prozent": 27.0
-    },
-    "Vinicius Junior trifft jederzeit": {
-      "tipps": 2,
-      "gewonnen": 1,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": -0.2,
-      "trefferquote": 50.0,
-      "roi_prozent": -10.0
-    },
-    "Bosnien Sieg (1X2)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.37,
-      "trefferquote": 100.0,
-      "roi_prozent": 37.0
-    },
-    "Suedkorea Sieg (1X2)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Unter 2.5 Tore": {
-      "tipps": 24,
-      "gewonnen": 16,
-      "verloren": 8,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 24.0,
-      "netto": 7.61,
-      "trefferquote": 66.7,
-      "roi_prozent": 31.7
-    },
-    "Marokko zu Null": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Edin Dzeko trifft jederzeit": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 1.5,
-      "trefferquote": 100.0,
-      "roi_prozent": 150.0
-    },
-    "Son Heung-min trifft jederzeit": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Doppelte Chance X2 (Niederlande oder Remis)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.05,
-      "trefferquote": 100.0,
-      "roi_prozent": 5.0
-    },
-    "Deniz Undav Jederzeit-Torschuetze": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Cody Gakpo Jederzeit-Torschuetze": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Doppelte Chance X2 (Deutschland oder Remis)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Doppelte Chance X2 (Elfenbeinkueste oder Remis)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.18,
-      "trefferquote": 100.0,
-      "roi_prozent": 18.0
-    },
-    "Alexander Isak Jederzeit-Torschuetze": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Beide Mannschaften treffen Ja": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.75,
-      "trefferquote": 100.0,
-      "roi_prozent": 75.0
-    },
-    "Sebastien Haller Jederzeit-Torschuetze": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Viktor Gyokeres Jederzeit-Torschuetze": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Frankreich Doppelte Chance X2 (Sieg oder Remis)": {
-      "tipps": 3,
-      "gewonnen": 2,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 66.7,
-      "roi_prozent": 0.0
-    },
-    "Spanien Doppelte Chance X2 (Sieg oder Remis)": {
-      "tipps": 2,
-      "gewonnen": 1,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 50.0,
-      "roi_prozent": 0.0
-    },
-    "Senegal Sieg (1)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "Argentinien Sieg": {
-      "tipps": 3,
-      "gewonnen": 3,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "Kroatien Sieg": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "Doppelte Chance Oesterreich oder Remis (X2)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "Kanada Doppelte Chance (Unentschieden oder Sieg)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.18,
-      "trefferquote": 100.0,
-      "roi_prozent": 18.0
-    },
-    "Jonathan David trifft jederzeit": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Kanada gewinnt regulär (90min)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.75,
-      "trefferquote": 100.0,
-      "roi_prozent": 75.0
-    },
-    "Unter 3.5 Tore im Spiel": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.3,
-      "trefferquote": 100.0,
-      "roi_prozent": 30.0
-    },
-    "Cyle Larin trifft jederzeit": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
+      "einsatz": 23.0,
+      "netto": 4.07,
+      "trefferquote": 43.5,
+      "roi_prozent": 17.7
     },
     "Deutschland Sieg (90 Min)": {
       "tipps": 1,
@@ -1873,6 +806,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 3.95,
       "trefferquote": 50.0,
       "roi_prozent": 49.4
+    },
+    "Vinicius Junior trifft jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     },
     "Kai Havertz trifft jederzeit": {
       "tipps": 1,
@@ -1961,6 +905,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Unter 2.5 Tore": {
+      "tipps": 20,
+      "gewonnen": 13,
+      "verloren": 7,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 20.0,
+      "netto": 8.04,
+      "trefferquote": 65.0,
+      "roi_prozent": 40.2
     },
     "Beide Teams treffen NEIN": {
       "tipps": 1,
@@ -3183,6 +2138,17 @@ window.__MIESMUSCHEL_STAT = {
       "trefferquote": 100.0,
       "roi_prozent": 130.0
     },
+    "Über 2.5 Tore": {
+      "tipps": 5,
+      "gewonnen": 3,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 5.0,
+      "netto": 4.9,
+      "trefferquote": 60.0,
+      "roi_prozent": 98.0
+    },
     "Sieg Atalanta": {
       "tipps": 1,
       "gewonnen": 1,
@@ -3735,126 +2701,27 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "nach_markt_typ": {
+    "Ueber 2.5 Tore": {
+      "tipps": 31,
+      "gewonnen": 13,
+      "verloren": 16,
+      "push": 0,
+      "offen": 2,
+      "einsatz": 29.0,
+      "netto": 7.97,
+      "trefferquote": 44.8,
+      "roi_prozent": 27.5
+    },
     "Sieg (1X2 / ML)": {
-      "tipps": 126,
-      "gewonnen": 63,
-      "verloren": 60,
+      "tipps": 76,
+      "gewonnen": 34,
+      "verloren": 39,
       "push": 1,
       "offen": 2,
-      "einsatz": 124.0,
-      "netto": 1.6,
-      "trefferquote": 51.2,
-      "roi_prozent": 1.3
-    },
-    "Torschuetzen Jederzeit": {
-      "tipps": 61,
-      "gewonnen": 19,
-      "verloren": 42,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 61.0,
-      "netto": -1.16,
-      "trefferquote": 31.1,
-      "roi_prozent": -1.9
-    },
-    "Ueber 2.5 Tore": {
-      "tipps": 40,
-      "gewonnen": 21,
-      "verloren": 17,
-      "push": 0,
-      "offen": 2,
-      "einsatz": 38.0,
-      "netto": 11.17,
-      "trefferquote": 55.3,
-      "roi_prozent": 29.4
-    },
-    "Doppelte Chance X2": {
-      "tipps": 36,
-      "gewonnen": 27,
-      "verloren": 9,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 36.0,
-      "netto": 10.67,
-      "trefferquote": 75.0,
-      "roi_prozent": 29.6
-    },
-    "Unter 2.5 Tore": {
-      "tipps": 27,
-      "gewonnen": 17,
-      "verloren": 10,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 27.0,
-      "netto": 6.51,
-      "trefferquote": 63.0,
-      "roi_prozent": 24.1
-    },
-    "Doppelte Chance 1X": {
-      "tipps": 28,
-      "gewonnen": 21,
-      "verloren": 7,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 28.0,
-      "netto": 8.37,
-      "trefferquote": 75.0,
-      "roi_prozent": 29.9
-    },
-    "Unter 3.5 Tore": {
-      "tipps": 3,
-      "gewonnen": 3,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 1.1,
-      "trefferquote": 100.0,
-      "roi_prozent": 36.7
-    },
-    "Marokko zu Null": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Beide Mannschaften treffen Ja": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.75,
-      "trefferquote": 100.0,
-      "roi_prozent": 75.0
-    },
-    "Doppelte Chance": {
-      "tipps": 27,
-      "gewonnen": 12,
-      "verloren": 8,
-      "push": 0,
-      "offen": 7,
-      "einsatz": 20.0,
-      "netto": 7.18,
-      "trefferquote": 60.0,
-      "roi_prozent": 35.9
-    },
-    "Kanada gewinnt regulär (90min)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.75,
-      "trefferquote": 100.0,
-      "roi_prozent": 75.0
+      "einsatz": 74.0,
+      "netto": 5.23,
+      "trefferquote": 46.6,
+      "roi_prozent": 7.1
     },
     "Beide Teams treffen JA": {
       "tipps": 38,
@@ -3866,6 +2733,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 7.88,
       "trefferquote": 60.5,
       "roi_prozent": 20.7
+    },
+    "Torschuetzen Jederzeit": {
+      "tipps": 42,
+      "gewonnen": 14,
+      "verloren": 28,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 42.0,
+      "netto": 8.11,
+      "trefferquote": 33.3,
+      "roi_prozent": 19.3
     },
     "Argentinien gewinnt (Sieg 1)": {
       "tipps": 1,
@@ -3889,6 +2767,17 @@ window.__MIESMUSCHEL_STAT = {
       "trefferquote": 100.0,
       "roi_prozent": 40.0
     },
+    "Unter 2.5 Tore": {
+      "tipps": 22,
+      "gewonnen": 14,
+      "verloren": 8,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 22.0,
+      "netto": 7.94,
+      "trefferquote": 63.6,
+      "roi_prozent": 36.1
+    },
     "Beide Teams treffen NEIN": {
       "tipps": 5,
       "gewonnen": 3,
@@ -3899,6 +2788,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 2.49,
       "trefferquote": 60.0,
       "roi_prozent": 49.8
+    },
+    "Unter 3.5 Tore": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.35,
+      "trefferquote": 100.0,
+      "roi_prozent": 35.0
     },
     "Frankreich gewinnt (Sieg 2, 90min)": {
       "tipps": 1,
@@ -3944,6 +2844,17 @@ window.__MIESMUSCHEL_STAT = {
       "trefferquote": 66.7,
       "roi_prozent": 0.0
     },
+    "Doppelte Chance X2": {
+      "tipps": 19,
+      "gewonnen": 13,
+      "verloren": 6,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 19.0,
+      "netto": 11.27,
+      "trefferquote": 68.4,
+      "roi_prozent": 59.3
+    },
     "Unentschieden 90 Min FRA-ESP": {
       "tipps": 1,
       "gewonnen": 0,
@@ -3954,6 +2865,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Doppelte Chance 1X": {
+      "tipps": 23,
+      "gewonnen": 17,
+      "verloren": 6,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 23.0,
+      "netto": 8.29,
+      "trefferquote": 73.9,
+      "roi_prozent": 36.0
     },
     "Crvena Zvezda oder Unentschieden": {
       "tipps": 3,
@@ -3987,6 +2909,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Doppelte Chance": {
+      "tipps": 26,
+      "gewonnen": 11,
+      "verloren": 8,
+      "push": 0,
+      "offen": 7,
+      "einsatz": 19.0,
+      "netto": 7.0,
+      "trefferquote": 57.9,
+      "roi_prozent": 36.8
     },
     "Inter gewinnt": {
       "tipps": 1,
@@ -4100,84 +3033,84 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "nach_quoten_range": {
+    "1.50-2.00": {
+      "tipps": 154,
+      "gewonnen": 80,
+      "verloren": 72,
+      "push": 0,
+      "offen": 2,
+      "einsatz": 152.0,
+      "netto": 49.26,
+      "trefferquote": 52.6,
+      "roi_prozent": 32.4
+    },
     "1.00-1.50": {
-      "tipps": 179,
-      "gewonnen": 114,
-      "verloren": 57,
+      "tipps": 116,
+      "gewonnen": 70,
+      "verloren": 38,
       "push": 1,
       "offen": 7,
-      "einsatz": 172.0,
-      "netto": 26.98,
-      "trefferquote": 66.7,
-      "roi_prozent": 15.7
-    },
-    "1.50-2.00": {
-      "tipps": 184,
-      "gewonnen": 99,
-      "verloren": 83,
-      "push": 0,
-      "offen": 2,
-      "einsatz": 182.0,
-      "netto": 47.68,
-      "trefferquote": 54.4,
-      "roi_prozent": 26.2
+      "einsatz": 109.0,
+      "netto": 27.32,
+      "trefferquote": 64.8,
+      "roi_prozent": 25.1
     },
     "2.00-3.00": {
-      "tipps": 52,
-      "gewonnen": 15,
-      "verloren": 35,
+      "tipps": 36,
+      "gewonnen": 10,
+      "verloren": 24,
       "push": 0,
       "offen": 2,
-      "einsatz": 50.0,
-      "netto": -3.53,
-      "trefferquote": 30.0,
-      "roi_prozent": -7.1
+      "einsatz": 34.0,
+      "netto": 2.77,
+      "trefferquote": 29.4,
+      "roi_prozent": 8.1
     },
     "3.00+": {
-      "tipps": 15,
+      "tipps": 13,
       "gewonnen": 3,
-      "verloren": 12,
+      "verloren": 10,
       "push": 0,
       "offen": 0,
-      "einsatz": 15.0,
-      "netto": -2.0,
-      "trefferquote": 20.0,
-      "roi_prozent": -13.3
+      "einsatz": 13.0,
+      "netto": 0.0,
+      "trefferquote": 23.1,
+      "roi_prozent": 0.0
     }
   },
   "nach_kategorie": {
-    "safe": {
-      "tipps": 73,
-      "gewonnen": 50,
-      "verloren": 16,
-      "push": 0,
-      "offen": 7,
-      "einsatz": 66.0,
-      "netto": 28.45,
-      "trefferquote": 75.8,
-      "roi_prozent": 43.1
-    },
-    "wackel": {
-      "tipps": 93,
-      "gewonnen": 40,
-      "verloren": 53,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 93.0,
-      "netto": 6.88,
-      "trefferquote": 43.0,
-      "roi_prozent": 7.4
-    },
     "value": {
-      "tipps": 261,
-      "gewonnen": 140,
-      "verloren": 116,
+      "tipps": 195,
+      "gewonnen": 96,
+      "verloren": 94,
       "push": 1,
       "offen": 4,
-      "einsatz": 257.0,
-      "netto": 34.4,
-      "trefferquote": 54.7,
-      "roi_prozent": 13.4
+      "einsatz": 191.0,
+      "netto": 34.01,
+      "trefferquote": 50.5,
+      "roi_prozent": 17.8
+    },
+    "wackel": {
+      "tipps": 66,
+      "gewonnen": 28,
+      "verloren": 38,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 66.0,
+      "netto": 15.21,
+      "trefferquote": 42.4,
+      "roi_prozent": 23.0
+    },
+    "safe": {
+      "tipps": 55,
+      "gewonnen": 38,
+      "verloren": 10,
+      "push": 0,
+      "offen": 7,
+      "einsatz": 48.0,
+      "netto": 30.73,
+      "trefferquote": 79.2,
+      "roi_prozent": 64.0
     },
     "risiko": {
       "tipps": 3,
@@ -4216,15 +3149,15 @@ window.__MIESMUSCHEL_STAT = {
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 430,
-      "gewonnen": 231,
-      "verloren": 187,
+      "tipps": 319,
+      "gewonnen": 163,
+      "verloren": 144,
       "push": 1,
       "offen": 11,
-      "einsatz": 419.0,
-      "netto": 69.13,
-      "trefferquote": 55.3,
-      "roi_prozent": 16.5
+      "einsatz": 308.0,
+      "netto": 79.35,
+      "trefferquote": 53.1,
+      "roi_prozent": 25.8
     },
     "kasse": {
       "name": "2026/27",
@@ -4243,15 +3176,15 @@ window.__MIESMUSCHEL_STAT = {
         "start": "2000-01-01",
         "ende": "2026-08-21",
         "bilanz": {
-          "tipps": 337,
-          "gewonnen": 167,
-          "verloren": 158,
+          "tipps": 226,
+          "gewonnen": 99,
+          "verloren": 115,
           "push": 1,
           "offen": 11,
-          "einsatz": 326.0,
-          "netto": -9.55,
-          "trefferquote": 51.4,
-          "roi_prozent": -2.9
+          "einsatz": 215.0,
+          "netto": 0.67,
+          "trefferquote": 46.3,
+          "roi_prozent": 0.3
         },
         "ist_aktuell": false
       },
@@ -15261,2012 +14194,6 @@ window.__MIESMUSCHEL_STAT = {
               "quote": 2.5,
               "status": "gewonnen",
               "kommentar": "Gakpo traf in 72. Min (Weghorst-Sub-Header-Verlaengerung in den Lauf von Summerville, Querpass auf Gakpo zum Einschieben) - Torschuetzen-Jederzeit-Goldgrube validiert."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-06-28",
-      "gesamt": {
-        "tipps": 5,
-        "gewonnen": 3,
-        "verloren": 2,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 5.0,
-        "netto": -0.77,
-        "trefferquote": 60.0,
-        "roi_prozent": -15.4
-      },
-      "spiele": [
-        {
-          "id": "2026-06-28-rsa-can",
-          "liga": "FIFA WM 2026 - Round of 32",
-          "heim": "Südafrika",
-          "gast": "Kanada",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Kanada Doppelte Chance (Unentschieden oder Sieg)",
-              "quote": 1.18,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.18,
-              "kommentar": "Kanada gewann 0:1 - DC X2 (Unentschieden oder Kanada-Sieg) klar getroffen."
-            },
-            {
-              "markt": "Jonathan David trifft jederzeit",
-              "quote": 2.75,
-              "kategorie": "wackel",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "David spielte als Starter durch (Schuss in 78. min noch dokumentiert), traf nicht. Auch nicht ausgewechselt - somit kein Einwechslungs-Boost moeglich. Eustaquio (Starter, kein Sub) traf in 90+2. Trotz Hattrick-Form gegen Katar in K.O.-Defensiv-Premiere torlos."
-            },
-            {
-              "markt": "Kanada gewinnt regulär (90min)",
-              "quote": 1.75,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.75,
-              "kommentar": "Eustaquio-Volley in 90+2 = Nachspielzeit der regulären 90min. Tipp 'reguläre 90min' klar getroffen. 2:0-Insurance griff NICHT (nur 1 Tor), aber wegen direkter Reg-Sieg auch nicht noetig."
-            },
-            {
-              "markt": "Unter 3.5 Tore im Spiel",
-              "quote": 1.3,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.3,
-              "kommentar": "Endstand 0:1 = nur 1 Tor im ganzen Spiel = unter 3.5 deutlich getroffen. Unter-2.5-Goldgrube haette ebenfalls gewonnen (Sicherheits-Puffer als Folge der MUSS-Sieg-Druck-Cluster-Lesson 06.27/06.28 war konservativ aber unschaedlich)."
-            },
-            {
-              "markt": "Cyle Larin trifft jederzeit",
-              "quote": 3.25,
-              "kategorie": "wackel",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Larin war entgegen Sports-Mole-Vorschau KEIN Starter (Oluwaseyi+David starteten), kam erst ca. 74. Min als Sub rein - traf in restl. ~16+2 min nicht. Da Larin selbst NICHT ausgewechselt wurde (er war ja der Sub-In), keine Boost-Anwendung moeglich. Pre-Game-Lineup-Annahme aus Tipp-Begruendung war fehlerhaft."
-            }
-          ]
-        }
-      ],
-      "kombis": []
-    },
-    {
-      "datum": "2026-06-27",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "Tag-Safe ~3x (Klassen-Edge-Doppel + DC-Goldgrube-Trio)",
-          "kategorie": "safe",
-          "gesamtquote": 3.04,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Argentinien Sieg",
-              "quote": 1.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "England Sieg",
-              "quote": 1.16,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Doppelte Chance Oesterreich oder Remis (X2)",
-              "quote": 1.4,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Doppelte Chance Kroatien oder Remis (1X)",
-              "quote": 1.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 1.5 Tore",
-              "quote": 1.3,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Tag-Balance ~6.7x (Torschuetzen-Klasse-Duo + Tor-Total-Polster)",
-          "kategorie": "balance",
-          "gesamtquote": 6.72,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Harry Kane trifft jederzeit",
-              "quote": 1.85,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Lautaro Martinez trifft jederzeit",
-              "quote": 2.1,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Unter 2.5 Tore",
-              "quote": 1.73,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Tag-Risk ~26x (Sekundaer-Torschuetzen-Trio)",
-          "kategorie": "risk",
-          "gesamtquote": 26.5,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Jude Bellingham trifft jederzeit",
-              "quote": 3.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Cristiano Ronaldo trifft jederzeit",
-              "quote": 2.3,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Marko Arnautovic trifft jederzeit",
-              "quote": 3.6,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Tag-Moonshot ~52x (Total + Player + BTTS, 5 Spiele)",
-          "kategorie": "moonshot",
-          "gesamtquote": 52.13,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Julian Alvarez trifft jederzeit",
-              "quote": 2.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Andrej Kramaric trifft jederzeit",
-              "quote": 3.4,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Beide Teams treffen - Ja",
-              "quote": 1.85,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Beide Teams treffen - Ja",
-              "quote": 1.95,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.7,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-06-26",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "Safe-Kombi WM Decider",
-          "kategorie": "safe",
-          "gesamtquote": 2.9,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Norwegen - Frankreich: Kylian Mbappe Jederzeit-Torschuetze",
-              "quote": 1.65,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Senegal - Irak: Senegal Sieg (1)",
-              "quote": 1.22,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Uruguay - Spanien: Spanien Doppelte Chance X2",
-              "quote": 1.18,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Neuseeland - Belgien: Belgien Sieg (2)",
-              "quote": 1.22,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Balance-Kombi Form-Stuermer",
-          "kategorie": "balance",
-          "gesamtquote": 9.55,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Norwegen - Frankreich: Ueber 2.5 Tore",
-              "quote": 1.55,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Uruguay - Spanien: Lamine Yamal Jederzeit-Torschuetze",
-              "quote": 2.3,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Aegypten - Iran: Aegypten Doppelte Chance 1X",
-              "quote": 1.45,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Neuseeland - Belgien: Romelu Lukaku Jederzeit-Torschuetze",
-              "quote": 1.85,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Risiko-Kombi Torschuetzen-Plus",
-          "kategorie": "risk",
-          "gesamtquote": 18.94,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Kap Verde - Saudi-Arabien: Bebe Jederzeit-Torschuetze",
-              "quote": 4.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Aegypten - Iran: Mohamed Salah Jederzeit-Torschuetze",
-              "quote": 2.87,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Neuseeland - Belgien: Kevin De Bruyne Jederzeit-Torschuetze oder Assist",
-              "quote": 1.65,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Moonshot WM-Torschuetzen-Festival",
-          "kategorie": "moonshot",
-          "gesamtquote": 201.5,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Norwegen - Frankreich: Kylian Mbappe Jederzeit-Torschuetze",
-              "quote": 1.65,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Senegal - Irak: Sadio Mane Jederzeit-Torschuetze",
-              "quote": 2.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Uruguay - Spanien: Lamine Yamal Jederzeit-Torschuetze",
-              "quote": 2.3,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Kap Verde - Saudi-Arabien: Bebe Jederzeit-Torschuetze",
-              "quote": 4.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Aegypten - Iran: Mohamed Salah Jederzeit-Torschuetze",
-              "quote": 2.87,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Neuseeland - Belgien: Romelu Lukaku Jederzeit-Torschuetze",
-              "quote": 1.85,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-06-25",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "?",
-          "kategorie": "safe",
-          "gesamtquote": 1.49,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Niederlande Doppelte Chance X2",
-              "quote": 1.05,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Deutschland Doppelte Chance X2",
-              "quote": 1.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Elfenbeinkueste Doppelte Chance X2",
-              "quote": 1.18,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "balance",
-          "gesamtquote": 12.39,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Niederlande-Tunesien Ueber 2.5 Tore",
-              "quote": 1.45,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Deniz Undav Jederzeit-Torschuetze",
-              "quote": 2.1,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.85,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Alexander Isak Jederzeit-Torschuetze",
-              "quote": 2.2,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "risk",
-          "gesamtquote": 23.76,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Cody Gakpo Jederzeit-Torschuetze",
-              "quote": 1.8,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Florian Wirtz Jederzeit-Torschuetze",
-              "quote": 2.4,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Amad Diallo Jederzeit-Torschuetze",
-              "quote": 2.75,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Viktor Gyokeres Jederzeit-Torschuetze",
-              "quote": 2.0,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "moonshot",
-          "gesamtquote": 850.5,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Deniz Undav Doppelpack (2+ Tore)",
-              "quote": 4.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Alexander Isak Doppelpack (2+ Tore)",
-              "quote": 4.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Yan Diomande Jederzeit-Torschuetze (Bench-Joker)",
-              "quote": 3.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Cody Gakpo Doppelpack (2+ Tore)",
-              "quote": 4.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Kenan Yildiz Jederzeit-Torschuetze",
-              "quote": 3.5,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-06-24",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "Safe-Kombi ~3x",
-          "kategorie": "safe",
-          "gesamtquote": 2.94,
-          "einsatz_prozent": 1.5,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": null,
-              "quote": 1.55,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 1.37,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 1.36,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Balance-Kombi ~7x",
-          "kategorie": "balance",
-          "gesamtquote": 8.62,
-          "einsatz_prozent": 0.5,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": null,
-              "quote": 1.8,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 1.55,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 1.85,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 1.67,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Risiko-Kombi ~22x",
-          "kategorie": "risk",
-          "gesamtquote": 44.04,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": null,
-              "quote": 2.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 1.8,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 2.3,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 1.85,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 2.3,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Moonshot-Kombi ~92x",
-          "kategorie": "moonshot",
-          "gesamtquote": 468.83,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": null,
-              "quote": 2.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 2.8,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 3.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 2.3,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 3.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 2.6,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-06-23",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "Safe-Kombi Spieltag 2 (~6.94x)",
-          "kategorie": "safe",
-          "gesamtquote": 6.95,
-          "einsatz_prozent": 1.5,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": null,
-              "quote": 1.65,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 1.62,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 1.18,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 2.2,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Balance-Kombi Spieltag 2 (~6-9x)",
-          "kategorie": "balance",
-          "gesamtquote": 3.6,
-          "einsatz_prozent": 0.5,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": null,
-              "quote": 1.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 1.3,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 1.53,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 1.51,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Risiko-Kombi Spieltag 2 (~19x)",
-          "kategorie": "risk",
-          "gesamtquote": 19.25,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": null,
-              "quote": 3.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 2.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 2.2,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Moonshot-Kombi Spieltag 2 (~114.19x)",
-          "kategorie": "moonshot",
-          "gesamtquote": 114.19,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": null,
-              "quote": 4.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 2.9,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 2.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": null,
-              "quote": 3.5,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-06-22",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "Safe-Kombi WM-Stars",
-          "kategorie": "safe",
-          "gesamtquote": 2.93,
-          "einsatz_prozent": 1.5,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Kylian Mbappe trifft jederzeit",
-              "quote": 1.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Lionel Messi trifft jederzeit",
-              "quote": 1.95,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Balance-Kombi Favoriten + Tor-Flut",
-          "kategorie": "balance",
-          "gesamtquote": 7.1,
-          "einsatz_prozent": 0.5,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Argentinien Sieg (1X2)",
-              "quote": 1.6,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber/Unter Tore",
-              "quote": 1.85,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Algerien Sieg (1X2)",
-              "quote": 1.6,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber/Unter Tore",
-              "quote": 1.5,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Risiko-Kombi Backup-Stuermer & Form",
-          "kategorie": "risk",
-          "gesamtquote": 25.27,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Lautaro Martinez trifft jederzeit",
-              "quote": 2.1,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ousmane Dembele trifft jederzeit",
-              "quote": 1.91,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sadio Mane trifft jederzeit",
-              "quote": 2.8,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Mohamed Amoura trifft jederzeit",
-              "quote": 2.25,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Moonshot WM-Underdog-Lotterie",
-          "kategorie": "moonshot",
-          "gesamtquote": 24.3,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Senegal Sieg (1X2)",
-              "quote": 3.1,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Kylian Mbappe 2+ Tore",
-              "quote": 2.8,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Riyad Mahrez trifft jederzeit",
-              "quote": 2.8,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-06-21",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "Safe-Kombi",
-          "kategorie": "safe",
-          "gesamtquote": 3.41,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Spanien Sieg",
-              "quote": 1.08,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Belgien Sieg",
-              "quote": 1.44,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Doppelte Chance Ägypten (X2)",
-              "quote": 1.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Unter 2.5 Tore",
-              "quote": 1.83,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Balance-Kombi",
-          "kategorie": "balance",
-          "gesamtquote": 10.37,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Romelu Lukaku trifft jederzeit",
-              "quote": 2.05,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Federico Valverde trifft jederzeit",
-              "quote": 2.3,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Mohamed Salah trifft jederzeit",
-              "quote": 2.2,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Risiko-Kombi",
-          "kategorie": "risk",
-          "gesamtquote": 15.81,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Uruguay Sieg",
-              "quote": 1.48,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Mikel Oyarzabal trifft jederzeit",
-              "quote": 2.1,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Omar Marmoush trifft jederzeit",
-              "quote": 2.75,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Über 2.5 Tore",
-              "quote": 1.85,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Moonshot-Kombi",
-          "kategorie": "moonshot",
-          "gesamtquote": 134.75,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Lamine Yamal trifft jederzeit",
-              "quote": 2.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Leandro Trossard trifft jederzeit",
-              "quote": 3.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Garry Rodrigues trifft jederzeit",
-              "quote": 5.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Chris Wood trifft jederzeit",
-              "quote": 3.5,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-06-20",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "Safe-Kombi",
-          "kategorie": "safe",
-          "gesamtquote": 3.72,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Ecuador Sieg",
-              "quote": 1.15,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Über 2.5 Tore",
-              "quote": 1.75,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Über 2.5 Tore",
-              "quote": 1.85,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Balance-Kombi",
-          "kategorie": "balance",
-          "gesamtquote": 7.65,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Deutschland Sieg",
-              "quote": 1.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Über 2.5 Tore",
-              "quote": 1.7,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ayase Ueda trifft jederzeit",
-              "quote": 3.0,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Risiko-Kombi",
-          "kategorie": "risk",
-          "gesamtquote": 21.68,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Cody Gakpo trifft jederzeit",
-              "quote": 3.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Kai Havertz trifft jederzeit",
-              "quote": 2.1,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Enner Valencia trifft jederzeit",
-              "quote": 2.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Doppelte Chance Japan (X2)",
-              "quote": 1.18,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Moonshot-Kombi",
-          "kategorie": "moonshot",
-          "gesamtquote": 273.6,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Schweden Sieg",
-              "quote": 3.8,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sebastien Haller trifft jederzeit",
-              "quote": 3.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Kendry Paez trifft jederzeit",
-              "quote": 5.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Daichi Kamada trifft jederzeit",
-              "quote": 4.5,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-06-19",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "Safe-Kombi",
-          "kategorie": "safe",
-          "gesamtquote": 1.88,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Brasilien Sieg",
-              "quote": 1.1,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Doppelte Chance USA (1X)",
-              "quote": 1.22,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Doppelte Chance Türkei (1X)",
-              "quote": 1.4,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Balance-Kombi",
-          "kategorie": "balance",
-          "gesamtquote": 6.57,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Über 2.5 Tore",
-              "quote": 1.35,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Folarin Balogun trifft jederzeit",
-              "quote": 2.8,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Marokko Sieg",
-              "quote": 1.74,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Risiko-Kombi",
-          "kategorie": "risk",
-          "gesamtquote": 22.1,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Christian Pulisic trifft jederzeit",
-              "quote": 2.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Youssef En-Nesyri trifft jederzeit",
-              "quote": 2.6,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Kenan Yildiz trifft jederzeit",
-              "quote": 3.4,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Moonshot-Kombi",
-          "kategorie": "moonshot",
-          "gesamtquote": 58.5,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Über 4.5 Tore",
-              "quote": 3.25,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Achraf Hakimi trifft jederzeit",
-              "quote": 4.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Hakan Calhanoglu trifft jederzeit",
-              "quote": 4.0,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-06-18",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "Safe",
-          "kategorie": "",
-          "gesamtquote": 3.7,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "1X2",
-              "quote": 1.29,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "1X2",
-              "quote": 1.77,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "1X2",
-              "quote": 1.62,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Balance",
-          "kategorie": "",
-          "gesamtquote": 10.43,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Torschuetzen Jederzeit",
-              "quote": 1.85,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Torschuetzen Jederzeit",
-              "quote": 2.4,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Torschuetzen Jederzeit",
-              "quote": 2.35,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Risiko",
-          "kategorie": "",
-          "gesamtquote": 17.96,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Unter 2.5 Tore",
-              "quote": 2.1,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Beide Teams treffen NEIN",
-              "quote": 2.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Unter 2.5 Tore",
-              "quote": 1.71,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Raul Jimenez trifft jederzeit",
-              "quote": 2.5,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Moonshot",
-          "kategorie": "",
-          "gesamtquote": 77.0,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Ermedin Demirovic trifft jederzeit",
-              "quote": 5.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Alphonso Davies trifft jederzeit",
-              "quote": 3.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Son Heung-Min trifft jederzeit",
-              "quote": 4.0,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-06-17",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "Safe",
-          "kategorie": "",
-          "gesamtquote": 3.06,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "1X2",
-              "quote": 1.27,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "1X2",
-              "quote": 1.72,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "1X2",
-              "quote": 1.4,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Balance",
-          "kategorie": "",
-          "gesamtquote": 9.3,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Torschuetzen Jederzeit",
-              "quote": 1.72,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Torschuetzen Jederzeit",
-              "quote": 2.35,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Torschuetzen Jederzeit",
-              "quote": 2.3,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Risiko",
-          "kategorie": "",
-          "gesamtquote": 27.18,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Tor-Total",
-              "quote": 1.8,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "BTTS",
-              "quote": 1.65,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Tor-Total",
-              "quote": 1.83,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Torschuetzen Jederzeit",
-              "quote": 5.0,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Moonshot",
-          "kategorie": "",
-          "gesamtquote": 33.12,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Tor-Total",
-              "quote": 2.65,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "1X2",
-              "quote": 2.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Genau zu Null",
-              "quote": 2.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "BTTS",
-              "quote": 2.5,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-06-16",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "Safe-Kombi (3 WM-Sieg-Anker)",
-          "kategorie": "safe",
-          "gesamtquote": 2.49,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Norwegen Sieg (1X2)",
-              "quote": 1.22,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Frankreich Sieg (1X2)",
-              "quote": 1.44,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Argentinien Sieg (1X2)",
-              "quote": 1.42,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Balance-Kombi (3 Top-Stuermer Anytime)",
-          "kategorie": "balance",
-          "gesamtquote": 5.66,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Erling Haaland trifft jederzeit",
-              "quote": 1.43,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Kylian Mbappe trifft jederzeit",
-              "quote": 1.8,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Lautaro Martinez trifft jederzeit",
-              "quote": 2.2,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Risiko-Kombi (Backup-Stuermer + Veteran-Anytime)",
-          "kategorie": "risk",
-          "gesamtquote": 13.16,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Alexander Sorloth trifft jederzeit",
-              "quote": 2.3,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ousmane Dembele trifft jederzeit",
-              "quote": 2.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Lionel Messi trifft jederzeit",
-              "quote": 2.6,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Moonshot-Kombi (3x 2+ Tore)",
-          "kategorie": "moonshot",
-          "gesamtquote": 67.38,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Erling Haaland 2+ Tore",
-              "quote": 3.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Kylian Mbappe 2+ Tore",
-              "quote": 3.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Lautaro Martinez 2+ Tore",
-              "quote": 5.5,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-06-15",
-      "gesamt": {
-        "tipps": 10,
-        "gewonnen": 1,
-        "verloren": 9,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 10.0,
-        "netto": -8.88,
-        "trefferquote": 10.0,
-        "roi_prozent": -88.8
-      },
-      "spiele": [
-        {
-          "id": "2026-06-15-esp-cpv",
-          "liga": "FIFA World Cup 2026 - Gruppe H - Spieltag 1",
-          "heim": "Spanien",
-          "gast": "Kap Verde",
-          "endstand": "0:0",
-          "tipps": [
-            {
-              "markt": "Spanien Sieg (1X2)",
-              "quote": 1.1,
-              "kategorie": "safe",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Spanien 0:0 Cape Verde - kein 2:0-Insurance-Trigger (max Saudi-These 0:0 keine Fuehrung). Goldgrube-Sieg-Markt SCHWERER Verlust."
-            },
-            {
-              "markt": "Mikel Oyarzabal trifft jederzeit (Spanien)",
-              "quote": 1.8,
-              "kategorie": "wackel",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Oyarzabal kein Tor. 12-Spiel-Tor/Assist-Streak gebrochen (Athlon: Unwanted-Record). Kein Einwechslungs-Boost moeglich da keine Spanien-Tore."
-            },
-            {
-              "markt": "Ueber 2.5 Tore (Gesamt)",
-              "quote": 1.2,
-              "kategorie": "safe",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Ueber 2.5 verfehlt - 0:0 schluesselt Goldgrube-Markt-These bei Klassen-Edge bei WM-Auftakten."
-            }
-          ]
-        },
-        {
-          "id": "2026-06-15-bel-egy",
-          "liga": "FIFA World Cup 2026 - Gruppe G - Spieltag 1",
-          "heim": "Belgien",
-          "gast": "Aegypten",
-          "endstand": "1:1",
-          "tipps": [
-            {
-              "markt": "Belgien Sieg (1X2)",
-              "quote": 1.67,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Belgien 1:1 Aegypten - kein 2:0-Insurance-Trigger. Belgien lag sogar 0:1 hinten."
-            },
-            {
-              "markt": "Jeremy Doku trifft jederzeit (Belgien)",
-              "quote": 3.2,
-              "kategorie": "wackel",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Doku kein Tor. Belgien-Tor war OG Hany (66.) durch Lukaku-Einwechslung. Doku-Tipp-Spieler-Auswechslung-Status irrelevant da Belgien-Tor durch OG, nicht durch Doku-Ersatz."
-            }
-          ]
-        },
-        {
-          "id": "2026-06-15-sau-uru",
-          "liga": "FIFA World Cup 2026 - Gruppe H - Spieltag 1",
-          "heim": "Saudi-Arabien",
-          "gast": "Uruguay",
-          "endstand": "1:1",
-          "tipps": [
-            {
-              "markt": "Uruguay Doppelte Chance (X2)",
-              "quote": 1.12,
-              "kategorie": "safe",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.12,
-              "kommentar": "Uruguay DC X2 GEWONNEN durch 1:1-Unentschieden - Maxi Araujo Ausgleichs-Tor 80. nach Al-Amri 33. Goldgrube DC X2 (+20.3% ROI) bestaetigt sich erneut - DC-Cushion verhinderte Total-Crash."
-            },
-            {
-              "markt": "Uruguay Sieg (1X2)",
-              "quote": 1.5,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Uruguay nur 1:1 - kein 2:0-Insurance-Trigger (lag sogar 0:1 hinten)."
-            },
-            {
-              "markt": "Darwin Nunez trifft jederzeit (Uruguay)",
-              "quote": 2.0,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Nunez kein Tor. Nunez bei HZ ausgewechselt fuer Canobbio (ineffektiv, 3 Paesse). Maxi Araujo (Stamm-Linksaussen, NICHT direkter Ersatz) traf in 80. - Boost greift NICHT da Canobbio der direkte Ersatz war und selbst nicht traf."
-            }
-          ]
-        },
-        {
-          "id": "2026-06-16-irn-nzl",
-          "liga": "FIFA World Cup 2026 - Gruppe (Iran/NZL) - Spieltag 1",
-          "heim": "Iran",
-          "gast": "Neuseeland",
-          "endstand": "2:2",
-          "tipps": [
-            {
-              "markt": "Mehdi Taremi trifft jederzeit (Iran)",
-              "quote": 2.1,
-              "kategorie": "wackel",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Taremi kein Tor. Taremi in 80. ausgewechselt fuer Hosseinzadeh - aber beide Iran-Tore (Rezaeian 32., Mohebbi 64.) fielen VOR Taremis Auswechslung. Boost greift NICHT da keine Tore nach 80."
-            },
-            {
-              "markt": "Unter 2.5 Tore (Gesamt)",
-              "quote": 1.57,
-              "kategorie": "safe",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Unter 2.5 verfehlt - 4 Tore total. Goldgrube-Markt Unter 2.5 (+36.1% ROI) brach hier zusammen."
-            }
-          ]
-        }
-      ],
-      "kombis": [
-        {
-          "name": "Safe-Kombi WM-Sieg-Anker",
-          "kategorie": "safe",
-          "gesamtquote": 3.23,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Spanien - Kap Verde: Spanien Sieg",
-              "quote": 1.1,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Belgien - Aegypten: Belgien Sieg",
-              "quote": 1.67,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Saudi-Arabien - Uruguay: Uruguay DC X2",
-              "quote": 1.12,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Iran - Neuseeland: Unter 2.5 Tore",
-              "quote": 1.57,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Balance-Kombi Star-Torschuetzen",
-          "kategorie": "balance",
-          "gesamtquote": 8.64,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Spanien - Kap Verde: Oyarzabal trifft",
-              "quote": 1.8,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Belgien - Aegypten: Lukaku trifft",
-              "quote": 2.4,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Saudi-Arabien - Uruguay: Nunez trifft",
-              "quote": 2.0,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Risiko-Kombi Tor-Volumen-Mix",
-          "kategorie": "risk",
-          "gesamtquote": 25.8,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Spanien - Kap Verde: Ueber 2.5 Tore",
-              "quote": 1.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Belgien - Aegypten: Doku trifft",
-              "quote": 3.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Saudi-Arabien - Uruguay: Valverde trifft",
-              "quote": 3.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Iran - Neuseeland: Taremi trifft",
-              "quote": 2.1,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Moonshot Backup-Star-Show",
-          "kategorie": "moonshot",
-          "gesamtquote": 47.25,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Spanien - Kap Verde: Spanien Ueber 4.5 Tore",
-              "quote": 4.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Belgien - Aegypten: Salah trifft (Aegypten)",
-              "quote": 3.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Iran - Neuseeland: Wood trifft (NZ)",
-              "quote": 3.5,
-              "status": "offen",
-              "kommentar": ""
             }
           ]
         }
