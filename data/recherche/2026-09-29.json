@@ -1,0 +1,48 @@
+{
+  "datum": "2026-09-29",
+  "erstellt_am": "2026-09-29T16:56:00+02:00",
+  "modus": "tag",
+  "_break_zone": true,
+  "_break_fenster": "2026-09-21 bis 2026-10-06 (FIFA XL International Break)",
+  "_break_tag_in_folge": 9,
+  "_note": "Break-flag-Recherche-File (Fallback der Master-Tipps-Routine, weil kein Recherche-File von der Recherche-Routine vorlag). Tag 9 in Folge der FIFA XL Break-Kette (Mo 21.09. bis Mo 28.09. bereits leer, alle via Watchdog/Backstop verifiziert). Heute Di 29.09.2026 laeuft ausschliesslich UEFA Nations League A/B/C MD2 — Nationalmannschafts-Serie. Die CLAUDE.md-Whitelist (Aktive Sportarten) umfasst nur Vereins-Fussball (Top-5-Ligen + 2. Bundesliga + nationale Pokale + Europapokal + Supercups). WM/EM-Sonderregeln HR25-HR29 sind seit 20.07.2026 dormant (WM 2026 vorbei). NBA-Offseason bis ~Oktober. Also 0 Whitelist-Spiele mit Anstoss am 2026-09-29 Berliner Zeit.",
+  "verifikation_quellen": [
+    "https://www.uefa.com/uefanationsleague/news/02a9-21afe3d726f9-aa3f50373681-1000--uefa-nations-league-matchday-2-preview-players-to-watch-/",
+    "https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-fixtures-a/",
+    "https://www.espn.com/soccer/schedule/_/date/20260929",
+    "https://www.livesoccertv.com/schedules/2026-09-29/",
+    "https://bolavip.com/en/soccer/scotland-vs-switzerland-how-to-watch-live-stream-tv-channel-and-time-for-uefa-nations-league-game-on-september-29-2026",
+    "https://www.bundesliga.com/de/bundesliga/news/spielplan-saison-start-termine-daten-2026-27-22043",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1",
+    "data/recherche/2026-09-24.json (Break-Befund mit naechsten Spieltag-Terminen)"
+  ],
+  "nations_league_md2_heute_nicht_bespielbar": [
+    "Tschechien vs England 20:45 CET (Gruppe A2, Nationalmannschaft - NICHT in Whitelist)",
+    "Spanien vs Kroatien 20:45 CET (Gruppe A4, Nationalmannschaft - NICHT in Whitelist)",
+    "Schottland vs Schweiz 20:45 CET (Gruppe B, Nationalmannschaft - NICHT in Whitelist)",
+    "Slowenien vs Nordmazedonien 20:45 CET (Gruppe B, Nationalmannschaft - NICHT in Whitelist)",
+    "Finnland vs Belarus 18:00 CET (Gruppe C, Nationalmannschaft - NICHT in Whitelist)",
+    "Moldau vs Faeroeer 18:00 CET (Gruppe C, Nationalmannschaft - NICHT in Whitelist)",
+    "weitere Gruppe C-Paarungen (San Marino-Albanien, Slowakei-Kasachstan, Bulgarien-Estland, Luxemburg-Island)"
+  ],
+  "hallu_gefahr_relevanz": "hoch — Tschechien-England und Spanien-Kroatien verfuehren zum Aufnehmen, weil Spieler wie Bellingham, Kane, Saka, Foden, Yamal, Pedri aus Vereins-Kader vertraut sind. Tuchel-/de-la-Fuente-/Dalic-/Hasek-Nominierungen wechseln aber pro Fenster (aktuelle Kader ohne offizielle Verband-Verifikation nicht belastbar). Konsequent nicht aufgenommen — gleiche Schutzregel wie beim Adeyemi-Fehler 22.08.2026.",
+  "break_befund": {
+    "bundesliga_md5": "Fr 10.10.2026 (nach Break)",
+    "premier_league_mw7": "Sa 03.10.2026 (nach Break)",
+    "laliga_j8": "Fr 09.10.2026 (nach Break)",
+    "serie_a_g6": "Sa 03.10.2026 (nach Break)",
+    "ligue_1_j8": "Fr 02.10. bzw. Sa 03.10.2026 (nach Break)",
+    "zweite_bundesliga_md6": "abgeschlossen 18.-20.09., naechster Spieltag nach Break",
+    "champions_league_md2": "Di-Mi 13.-14.10.2026",
+    "europa_league_md2": "Do 15.10.2026",
+    "conference_league_md1": "Do 15.10.2026 (Ligaphase-Start nach Break)",
+    "dfb_pokal_r2": "27.-28.10.2026",
+    "efl_cup_r4": "Di 27.10. bis Do 29.10.2026 (offiziell bestaetigt)",
+    "coppa_italia_r16": "02.-16.12.2026",
+    "copa_del_rey_r1": "28.10.2026 (heute noch Fase Previa Territorial Amateur)",
+    "coupe_de_france_r7": "Oktober/November 2026, Ligue-1-Einstieg erst 32e de finale am 20.12.2026",
+    "supercup_diese_woche": "keiner (naechster: Supercopa de Espana / Supercoppa Italiana Januar 2027)",
+    "naechster_tipp_tag_prognose": "Fr 02.10. (Ligue 1 J8 Auftakt) oder Sa 03.10.2026 (PL MW7, Serie A g6, Ligue 1)"
+  },
+  "spiele": []
+}
