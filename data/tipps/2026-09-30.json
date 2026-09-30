@@ -1,0 +1,53 @@
+{
+  "datum": "2026-09-30",
+  "erstellt_am": "2026-09-30T14:30:00+02:00",
+  "hinweis": "🐚 Watchdog-Recovery Mo-Fr (Hauptroutine 13:30 hat heute nichts geliefert, Break-Empty-Slate nach Zweit-Recherche bestaetigt). Tages-Tipps Mi 2026-09-30 (Saison 2026/27, Kasse 1000€ / Stufe 1). **Zehnter Break-Tag in Folge — FIFA XL International Break laeuft weiter 21.09.–06.10.2026 (16 Tage, laut FIFA-Kalender 2025-2030 die neue kombinierte September/Oktober-Fensterphase).** Alle Top-5-Ligen (Bundesliga, Premier League, LaLiga, Serie A, Ligue 1) plus 2. Bundesliga plus Europapokal (Champions League, Europa League, Conference League) pausieren komplett bis mindestens Fr 02.10. (Ligue 1 J8 Auftakt) bzw. Sa 03.10. (PL MW7, Serie A g6) bzw. Fr 09.10. (LaLiga J8) bzw. Fr 10.10. (Bundesliga MD5). Am heutigen Mi 30.09. laufen zwar Fussball-Termine, aber keiner faellt in die CLAUDE.md-Aktive-Sportarten-Whitelist (Vereins-Fussball Top-5 + 2. BL + nationale Pokale + Europapokal + Supercups): (1) UEFA Nations League A/B/C MD3 Mittwochs-Programm — bestaetigt via UEFA.com / ESPN Nations-League-Schedule / Wikipedia 2026-27 Nations League A/B/C, u.a. Deutschland-Serbien (Gruppe A, 20:45 CET), Griechenland-Niederlande (Gruppe A, 20:45), Wales-Norwegen (Gruppe A, 20:45), Daenemark-Portugal (Gruppe A, 20:45) plus B/C-Paarungen — Nationalmannschafts-Serie, WM/EM-Sonderregeln HR25-HR29 sind seit 20.07.2026 dormant, konsistent zu Mo 21.–Di 29.09. NICHT als Ersatz-Slate aufgefuellt (gleiche Schutzregel wie beim Adeyemi-Fehler 22.08.2026: Nationalmannschafts-Kader wechseln pro Fenster, ohne aktuelle Aufgebot-Verifikation nicht sauber tipp-bar); (2) UEFA Women's Champions League MD1 Mittwochs-Programm (Roma-Barcelona, Haecken-Juventus, Paris FC-Arsenal, OL Lyonnes-Chelsea, Benfica-Bayern) — Frauen-Wettbewerb steht nicht auf der Vereins-Saison-2026/27-Whitelist der CLAUDE.md (Whitelist meint Herren-Vereinsfussball); (3) DFB-Pokal 2. Runde ist erst 27.-28.10.2026, nicht heute; (4) Coppa Italia Achtelfinale erst 02.-16.12.2026; (5) Copa del Rey Primera Ronda 26.-27.09. war letztes Wochenende, naechste Runde 03.-04.10., Segunda Ronda ab 28.10.2026; (6) Coupe de France 4e/5e Tour ohne Ligue-1-Beteiligung — Einstieg Ligue-1 erst 32e de finale am 20.12.2026; (7) EFL Cup Round 3 war 15.-17.09., Round 4 offiziell bestaetigt fuer Di 27.10.–Do 29.10.2026; (8) FA Community Shield war 10.08., Franz-Beckenbauer-Supercup 22.08. Dortmund-Bayern, UEFA Super Cup 20.08. PSG-Tottenham, Trophee des Champions 06.09. — kein Supercup im heutigen Fenster; naechster Supercup ist Supercopa de Espana / Supercoppa Italiana im Januar 2027. Naechster echter Tipp-Tag: nach Break-Ende voraussichtlich Fr 02.10.2026 (Ligue 1 J8 Auftakt) oder Sa 03.10.2026 (PL MW7, Serie A g6, Ligue 1) — die Recherche-Routine am Do 01.10. bzw. Fr 02.10. gegenprueft die genauen Anstoss-Tage. Bis dahin bleibt die Kasse bei 1000€ unangetastet, Stufe 1 aktiv (`stufe_2_freigeschaltet: false` — Freischaltung an Saison-eigenen 30-Tage-ROI > +5% gebunden, aktuell mangels Tipps waehrend Break nicht messbar). BZgA 0800 1372700.",
+  "spiele": [],
+  "einzeltipps": [],
+  "kombis": [],
+  "lessons_angewandt": [
+    {
+      "hartregel": "Zeitfenster-Hartregel (CLAUDE.md 22.08.2026)",
+      "anwendung": "Tages-Dossier enthaelt ausschliesslich Spiele mit Anstoss am Zieldatum in Berliner Zeit. Nations-League-A-MD3-Mittwochsspiele wie Deutschland-Serbien oder Daenemark-Portugal liegen zwar im Fenster, sind aber Nationalmannschafts-Serie und damit ausserhalb der CLAUDE.md-Aktive-Sportarten-Whitelist. Nicht aufgenommen."
+    },
+    {
+      "hartregel": "Aktive Sportarten (CLAUDE.md — Vereins-Saison-Modus)",
+      "anwendung": "Whitelist strikt Vereins-Fussball Top-5 (Bundesliga, Premier League, LaLiga, Serie A, Ligue 1) + 2. Bundesliga + nationale Pokale (DFB-Pokal, FA Cup, Coppa Italia, Copa del Rey, Coupe de France) + Europapokal (CL, EL, Conference League) + Supercups. Nations League faellt nicht darunter. Women's Champions League ebenfalls nicht — Whitelist meint Herren-Wettbewerbe. WM-2026-Modus (HR25-HR29) ist seit 19.07.2026 dormant, nicht reaktivierbar ohne aktives Turnier. NBA-Offseason bis ~Oktober 2026."
+    },
+    {
+      "hartregel": "Kader- und Trainer-Frische (CLAUDE.md 22.08.2026)",
+      "anwendung": "Auch wenn Nations-League-A-MD3-Grosstermine wie Deutschland-Serbien (Nagelsmann-Aufgebot), Daenemark-Portugal (Ronaldo?) oder Wales-Norwegen (Haaland) fuer Top-Ligen-Beobachter verfuehrerisch waren: Nationalmannschafts-Kader wechseln pro Fenster, Nominierungen ohne aktuelle Nationalmannschaftsaufgebot-Verifikation (kicker.de-Kader / offizielle Verband-Seiten) nicht sauber tipp-bar. Konsequent nicht getippt — gleiche Schutzregel wie beim Adeyemi-Fall am 22.08.2026 und konsistent zu den 9 Break-Tagen zuvor (Mo 21.–Di 29.09.)."
+    },
+    {
+      "hartregel": "Notfall-Fallback (CLAUDE.md + master_tipps_routine.md Anhang)",
+      "anwendung": "Lieber ein ehrliches kleines/leeres Dossier mit erklaerendem hinweis als halluziniertes Fuellmaterial. Kette Mo 21.–Di 29.09. war Watchdog + Backstop-verifiziert leer, Mi 30.09. bleibt konsistent als 10. Break-Tag in Folge. Watchdog bestaetigt via WebSearch-Zweit-Recherche (UEFA Nations League MD3 Mittwochs-Programm + Women's CL MD1 + keine nationalen Pokal-Runden + kein Supercup im Fenster), statt eine Ersatz-Slate mit halbverifiziertem Nations-League- oder Frauen-Fussball-Material aufzufuellen."
+    },
+    {
+      "hartregel": "Supercup-Pflicht (CLAUDE.md 22.08.2026 + recherche_routine.md)",
+      "anwendung": "Aktiv nach Supercup-Ansetzung im Fenster gesucht. Ergebnis: kein Supercup am Mi 30.09.2026. Alle Saison-2026/27-Supercups sind entweder bereits gespielt (Franz-Beckenbauer-Supercup 22.08. Dortmund-Bayern, FA Community Shield 10.08., UEFA Super Cup 20.08. PSG-Tottenham, Trophee des Champions 06.09.) oder liegen erst im Januar 2027 (Supercopa de Espana, Supercoppa Italiana)."
+    },
+    {
+      "hartregel": "Cloud-Routinen: Repo ist die Quelle der Wahrheit (CLAUDE.md 22.08.2026)",
+      "anwendung": "Watchdog-Wrapper haelt sich an schlanke Slot/Zeitfenster/Pfad-Verantwortung. Kein eigenes Schreiben von data/tipps.js (macht web-push.yml nach dem Schema-Fix). Nur JSON committen."
+    },
+    {
+      "hartregel": "Kasse-lesen-Regel (CLAUDE.md 22.08.2026)",
+      "anwendung": "data/kasse.json vor jedem Lauf gelesen — Kasse 1000€, Basis 1000€, Stufe 1 aktiv (stufe_2_freigeschaltet=false). Keine Euro-Berechnung noetig, da 0 Tipps. Saison-2026/27-Bilanz seit 22.08.2026 unveraendert bei +/- 0€ (letzter Vereins-Spieltag Sa-So 20.-21.09. abgeschlossen, danach Break)."
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-09-30T14:30:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "leerer_slate",
+        "spiel_id": null,
+        "details": "10. Break-Tag in Folge (FIFA XL International Break 21.09.–06.10.2026). Kein Vereins-Fussball im Whitelist-Fenster. Watchdog bestaetigt Empty-Slate — konsistent mit Kette Mo 21.–Di 29.09.2026."
+      }
+    ],
+    "lessons_generiert": [],
+    "kontext_check_status": "OK — 0 Spiele im Whitelist-Fenster, kein Tipp-Kandidat zu verifizieren."
+  }
+}
