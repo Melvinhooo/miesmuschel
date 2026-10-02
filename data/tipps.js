@@ -1,35 +1,35 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
-  "datum": "2026-10-01",
-  "erstellt_am": "2026-10-01T14:44:00+02:00",
-  "hinweis": "🐚 Watchdog-Recovery Do 2026-10-01 (Hauptroutine 13:30 hat kein Dossier geschrieben, Watchdog 14:30 springt mit WebSearch-Eigen-Recherche ein). Tages-Tipps Do 2026-10-01 (Saison 2026/27, Kasse 1000€ / Stufe 1). **Elfter Break-Tag in Folge — FIFA XL International Break laeuft weiter 21.09.–06.10.2026 (16 Tage, laut FIFA-Kalender 2025-2030 die neue kombinierte September/Oktober-Fensterphase).** Alle Top-5-Ligen (Bundesliga, Premier League, LaLiga, Serie A, Ligue 1) plus 2. Bundesliga plus Europapokal (Champions League, Europa League, Conference League) pausieren komplett bis Fr 09.10.2026 (Bundesliga MD5 Auftakt Dortmund-Bremen) bzw. Sa 10.-So 11.10. (BL MD5 weiter + Serie A g6 + LaLiga J7). Am heutigen Do 01.10. laufen zwar Fussball-Termine, aber keiner faellt in die CLAUDE.md-Aktive-Sportarten-Whitelist (Vereins-Fussball Top-5 + 2. BL + nationale Pokale + Europapokal + Supercups): (1) UEFA Nations League MD3 Donnerstags-Programm — bestaetigt via WebSearch/UEFA.com/fussballnationalmannschaft.net, u.a. Deutschland-Serbien (Gruppe A, 20:45 CET Allianz Arena, ZDF-Live, Nagelsmann-Aufgebot), Griechenland-Niederlande (Gruppe A, 20:45), Daenemark-Portugal (Gruppe A, 20:45), Wales-Norwegen (Gruppe A, 20:45 Haaland), Irland-Oesterreich, Israel-Kosovo, Aserbaidschan-Liechtenstein, Malta-Gibraltar — Nationalmannschafts-Serie, WM/EM-Sonderregeln HR25-HR29 sind seit 20.07.2026 dormant, konsistent zu Mo 21.–Mi 30.09. nicht als Ersatz-Slate aufgefuellt (gleiche Schutzregel wie beim Adeyemi-Fehler 22.08.2026: Nationalmannschafts-Kader wechseln pro Fenster, ohne aktuelle Aufgebot-Verifikation nicht sauber tipp-bar); (2) U21-EM-Qualifikation Donnerstags-Programm (6 Partien) — U21-Nachwuchs-Wettbewerb nicht auf der Vereins-Herren-Whitelist; (3) Africa Cup / MLS (New York Red Bulls - St. Louis City) — nicht auf der Herren-Vereinsfussball-Top-5-Whitelist; (4) DFB-Pokal 2. Runde ist erst Di 27.-Mi 28.10.2026 (Dynamo Dresden-Schalke, BMG-KSC, HSV-Frankfurt u.a.), nicht heute; (5) Coppa Italia Achtelfinale erst 02.-16.12.2026; (6) Copa del Rey Primera Ronda war 26.-27.09., naechste Runde (Primera Ronda Fortsetzung) 03.-04.10., Segunda Ronda ab 28.10.2026 — kein spanischer Pokal am Do 01.10.; (7) Coupe de France 4e/5e Tour ohne Ligue-1-Beteiligung — L1-Einstieg erst 32e de finale am 20.12.2026; (8) EFL Cup Round 4 offiziell bestaetigt fuer Di 27.10.–Do 29.10.2026, Round 3 war 15.-17.09. — kein englischer Pokal heute; (9) Supercup-Pflicht-Check: FA Community Shield war 10.08., Franz-Beckenbauer-Supercup 22.08. Dortmund-Bayern, UEFA Super Cup 20.08. PSG-Tottenham, Trophee des Champions 06.09. — kein Supercup im heutigen Fenster; naechster Supercup ist Supercopa de Espana / Supercoppa Italiana im Januar 2027. Hinweis zur Vorschau-Kette: der 30.09.-Backstop nannte Fr 02.10. als moeglichen Ligue-1-J8-Auftakt — die heutige Watchdog-Recherche hat das korrigiert, Ligue 1 J7 ist am 17.10. und J8 am 23.-25.10., L1 bleibt bis zur zweiten Oktoberhaelfte in Pause; der echte naechste Vereins-Tipp-Tag ist Fr 09.10.2026 (Bundesliga MD5 Auftakt BVB-Bremen) — die Mo-Fr-Hauptroutine am Do 08.10. / Fr 09.10. prueft die genauen Anstoss-Tage. Bis dahin bleibt die Kasse bei 1000€ unangetastet, Stufe 1 aktiv (`stufe_2_freigeschaltet: false` — Freischaltung an Saison-eigenen 30-Tage-ROI > +5% gebunden, aktuell mangels Tipps waehrend Break nicht messbar). BZgA 0800 1372700.",
+  "datum": "2026-10-02",
+  "erstellt_am": "2026-10-02T14:30:00+02:00",
+  "hinweis": "🐚 Watchdog-Recovery Mo-Fr (14:30 Berlin, 60 Min nach Hauptroutine 13:30 — die hat heute kein gefuelltes Dossier geliefert; GitHub-Actions-Backstop 15:15 folgt). Tages-Tipps Fr 2026-10-02 (Saison 2026/27, Kasse 1000€ / Stufe 1, stufe_2_freigeschaltet=false). **Zwoelfter Break-Tag in Folge — FIFA XL International Break 21.09.-06.10.2026 (16 Tage, kombiniertes September/Oktober-Fenster laut FIFA-Kalender 2025-2030).** Alle Top-5-Ligen (Bundesliga, Premier League, LaLiga, Serie A, Ligue 1), 2. Bundesliga und Europapokal (Champions League / Europa League / Conference League) pausieren weiter. Naechster Vereinsfussball-Tag ist Fr 09.10.2026 (Bundesliga MD5 Auftakt BVB-Bremen), danach Sa 10.-So 11.10. (BL MD5 weiter + Serie A G6 + LaLiga J7). Heute Abend laeuft UEFA Nations League MD3 (League A: Belgien-Tuerkei 20:45 + Frankreich-Italien 20:45 Classique; League B: Ungarn-Georgien, Ukraine-Nordirland, Bosnien-Schweden, Polen-Rumaenien; League C: Zypern-Armenien 17:00, Lettland-Montenegro 17:00, Faeroeer-Slowakei 20:45, Kasachstan-Moldau 15:00) — **alle ausserhalb der CLAUDE.md-Aktive-Sportarten-Whitelist** (Vereins-Fussball Top-5 + 2. BL + nationale Pokale + Europapokal + Supercups). WM/EM-Sonderregeln HR25-HR29 bleiben dormant seit 20.07.2026. Nationalmannschafts-Kader wechseln pro Fenster — ohne verifiziertes Aufgebot nicht sauber tipp-bar (gleiche Schutzregel wie beim Adeyemi-Fehler 22.08.2026). Pokal-Check: DFB-Pokal 2. Runde erst 27.-28.10., Coppa Italia Achtelfinale ab 02.12., Copa del Rey Primera Ronda zwar 26.09.-04.10. aber ohne LaLiga-Erstligisten (greifen erst ab Segunda Ronda 28.10.), Coupe de France 4e/5e Tour ohne L1-Beteiligung, EFL Cup R4 am 27.-29.10. — kein nationaler Pokal mit Erstliga-Beteiligung am Fr 02.10. Supercup-Pflicht-Check: Franz-Beckenbauer-Supercup war 22.08. (Dortmund-Bayern), FA Community Shield 10.08., UEFA Super Cup 20.08. (PSG-Tottenham), Trophee des Champions 06.09. — naechster Supercup ist Supercopa de Espana / Supercoppa Italiana im Januar 2027. NBA-Offseason bis ca. Mitte Oktober. Konsequenz: ehrlich leeres Dossier statt halluziniertem Fuellmaterial. Kasse bleibt unangetastet bei 1000€, Saison-ROI seit 22.08. +/- 0€. BZgA 0800 1372700.",
   "spiele": [],
   "einzeltipps": [],
   "kombis": [],
   "lessons_angewandt": [
     {
       "hartregel": "Zeitfenster-Hartregel (CLAUDE.md 22.08.2026)",
-      "anwendung": "Tages-Dossier enthaelt ausschliesslich Spiele mit Anstoss am Zieldatum in Berliner Zeit. Nations-League-A-MD3-Donnerstagsspiele wie Deutschland-Serbien, Griechenland-Niederlande, Daenemark-Portugal oder Wales-Norwegen liegen zwar im Fenster, sind aber Nationalmannschafts-Serie und damit ausserhalb der CLAUDE.md-Aktive-Sportarten-Whitelist. Nicht aufgenommen."
+      "anwendung": "Tages-Dossier enthaelt ausschliesslich Spiele mit Anstoss am Zieldatum in Berliner Zeit. Nations-League-MD3-Freitagsspiele (Belgien-Tuerkei 20:45, Frankreich-Italien 20:45 Classique, Polen-Rumaenien 20:45 Lewandowski, Ukraine-Nordirland u.a.) liegen zwar im 02.10.-Fenster, sind aber Nationalmannschafts-Serie und fallen damit ausserhalb der aktiven Sportarten-Whitelist. Konsequent nicht aufgenommen."
     },
     {
       "hartregel": "Aktive Sportarten (CLAUDE.md — Vereins-Saison-Modus)",
-      "anwendung": "Whitelist strikt Vereins-Fussball Top-5 (Bundesliga, Premier League, LaLiga, Serie A, Ligue 1) + 2. Bundesliga + nationale Pokale (DFB-Pokal, FA Cup, Coppa Italia, Copa del Rey, Coupe de France) + Europapokal (CL, EL, Conference League) + Supercups. Nations League faellt nicht darunter. U21-EM-Qualifikation, Africa Cup und MLS ebenfalls nicht. WM-2026-Modus (HR25-HR29) ist seit 19.07.2026 dormant, nicht reaktivierbar ohne aktives Turnier. NBA-Offseason bis ~Oktober 2026."
+      "anwendung": "Whitelist strikt Vereins-Fussball Top-5 (Bundesliga, Premier League, LaLiga, Serie A, Ligue 1) + 2. Bundesliga + nationale Pokale (DFB-Pokal, FA Cup, Coppa Italia, Copa del Rey, Coupe de France) + Europapokal (CL, EL, Conference League) + Supercups. UEFA Nations League, U21-EM-Qualifikation, Africa Cup und MLS fallen nicht darunter. WM-2026-Modus (HR25-HR29) ist seit 19.07.2026 dormant, nicht reaktivierbar ohne aktives Turnier. NBA-Offseason bis ca. Mitte Oktober 2026."
     },
     {
       "hartregel": "Kader- und Trainer-Frische (CLAUDE.md 22.08.2026)",
-      "anwendung": "Auch wenn Nations-League-A-MD3-Grosstermine wie Deutschland-Serbien (Nagelsmann-Aufgebot, Allianz Arena, ZDF-Live), Daenemark-Portugal (Ronaldo?) oder Wales-Norwegen (Haaland) fuer Top-Ligen-Beobachter verfuehrerisch waren: Nationalmannschafts-Kader wechseln pro Fenster, Nominierungen ohne aktuelle Nationalmannschaftsaufgebot-Verifikation (kicker.de-Kader / offizielle Verband-Seiten) nicht sauber tipp-bar. Konsequent nicht getippt — gleiche Schutzregel wie beim Adeyemi-Fall am 22.08.2026 und konsistent zu den 10 Break-Tagen zuvor (Mo 21.–Mi 30.09.)."
+      "anwendung": "Auch wenn Nations-League-Classique Frankreich-Italien oder Lewandowski in Polen-Rumaenien Vereins-Beobachter verfuehren wuerden: Nationalmannschafts-Kader wechseln pro Fenster, Nominierungen ohne tagesaktuelle Verband-Verifikation (kicker.de-Kader / offizielle Verband-Seiten / UEFA.com) nicht sauber tipp-bar. Konsequent nicht getippt — gleiche Schutzregel wie beim Adeyemi-Fall am 22.08.2026 und konsistent zu den 11 Break-Tagen zuvor (Mo 21.09.-Do 01.10.)."
     },
     {
       "hartregel": "Notfall-Fallback (CLAUDE.md + master_tipps_routine.md Anhang)",
-      "anwendung": "Lieber ein ehrliches leeres Dossier mit erklaerendem hinweis als halluziniertes Fuellmaterial. Kette Mo 21.–Mi 30.09. war Watchdog + Backstop-verifiziert leer, Do 01.10. bleibt konsistent als 11. Break-Tag in Folge. Watchdog bestaetigt via WebSearch-Zweit-Recherche (UEFA Nations League MD3 Donnerstags-Programm Deutschland-Serbien + U21-EM-Quali + Africa Cup + MLS + keine nationalen Pokal-Runden + kein Supercup im Fenster), statt eine Ersatz-Slate mit halbverifiziertem Nations-League- oder U21-Material aufzufuellen."
+      "anwendung": "Lieber ein ehrliches leeres Dossier mit erklaerendem hinweis als halluziniertes Fuellmaterial. Kette Mo 21.09.-Do 01.10. war Watchdog- + Backstop-verifiziert leer, Fr 02.10. bleibt konsistent als 12. Break-Tag in Folge. Verifiziert via WebSearch (Nations League MD3 fixtures Friday 2 October 2026, Betfred Football Fixtures 02-10-2026, Football Web Pages 20261002, UEFA Nations League 2026-27 league phase fixtures): keine Pflicht-Vereinsspiele + kein Supercup im heutigen Fenster."
     },
     {
       "hartregel": "Supercup-Pflicht (CLAUDE.md 22.08.2026 + recherche_routine.md)",
-      "anwendung": "Aktiv nach Supercup-Ansetzung im Fenster gesucht. Ergebnis: kein Supercup am Do 01.10.2026. Alle Saison-2026/27-Supercups sind entweder bereits gespielt (Franz-Beckenbauer-Supercup 22.08. Dortmund-Bayern, FA Community Shield 10.08., UEFA Super Cup 20.08. PSG-Tottenham, Trophee des Champions 06.09.) oder liegen erst im Januar 2027 (Supercopa de Espana, Supercoppa Italiana)."
+      "anwendung": "Aktiv nach Supercup-Ansetzung im Fenster gesucht. Ergebnis: kein Supercup am Fr 02.10.2026. Alle Saison-2026/27-Supercups sind entweder bereits gespielt (Franz-Beckenbauer-Supercup 22.08. Dortmund-Bayern, FA Community Shield 10.08., UEFA Super Cup 20.08. PSG-Tottenham, Trophee des Champions 06.09.) oder liegen erst im Januar 2027 (Supercopa de Espana, Supercoppa Italiana)."
     },
     {
-      "hartregel": "Vorschau-Korrektur (Backstop 30.09. → Watchdog 01.10.)",
-      "anwendung": "Der 30.09.-Backstop hatte Fr 02.10. als moeglichen Ligue-1-J8-Auftakt bzw. Sa 03.10. als PL-MW7-Start genannt. Heutige WebSearch-Recherche (lfp.fr, Wikipedia 2026-27 Ligue 1, ESPN, kicker.de) korrigiert: Ligue 1 J7 am 17.10., J8 am 23.-25.10.; Premier League MW7 am 17.-19.10.; Serie A G6 am 10.-12.10. (nicht 03.-05.10.). Die erste echte Vereinsfussball-Woche nach dem Break ist Fr 09.10. (Bundesliga MD5 Auftakt BVB-Bremen) → Sa 10.-So 11.10. (BL MD5 weiter + Serie A G6 + LaLiga J7). Fehler nicht uebernommen, Vorschau-Horizont neu gesetzt."
+      "hartregel": "Vorschau-Horizont (Horizont nach Break)",
+      "anwendung": "Erste echte Vereinsfussball-Woche nach dem Break: Fr 09.10. (Bundesliga MD5 Auftakt BVB-Bremen) → Sa 10.-So 11.10. (BL MD5 weiter + Serie A G6 + LaLiga J7). Premier League MW7 17.-19.10., Ligue 1 J7 17.10. (J8 23.-25.10.). Champions League MD2 20.-21.10., Europa League MD2 / Conference League MD1 am 15.10. Vorschau-Dossier fuer Fr-Wochenende macht die Donnerstag-Wochenend-Routine am 08.10., Woche-Vorschau die Sonntag-Woche-Routine am 05.10./12.10."
     },
     {
       "hartregel": "Cloud-Routinen: Repo ist die Quelle der Wahrheit (CLAUDE.md 22.08.2026)",
@@ -37,8 +37,55 @@ window.__MIESMUSCHEL_TIPPS = {
     },
     {
       "hartregel": "Kasse-lesen-Regel (CLAUDE.md 22.08.2026)",
-      "anwendung": "data/kasse.json vor jedem Lauf gelesen — Kasse 1000€, Basis 1000€, Stufe 1 aktiv (stufe_2_freigeschaltet=false). Keine Euro-Berechnung noetig, da 0 Tipps. Saison-2026/27-Bilanz seit 22.08.2026 unveraendert bei +/- 0€ (letzter Vereins-Spieltag Sa-So 20.-21.09. abgeschlossen, danach Break)."
+      "anwendung": "data/kasse.json vor dem Lauf gelesen — Kasse 1000€, Basis 1000€, Stufe 1 aktiv (stufe_2_freigeschaltet=false). Keine Euro-Berechnung noetig, da 0 Tipps. Saison-2026/27-Bilanz seit 22.08.2026 unveraendert bei +/- 0€ (letzter Vereins-Spieltag Sa-So 20.-21.09. abgeschlossen, danach Break)."
     }
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-10-02T14:30:00+02:00",
+    "modus": "watchdog_recovery_mo_fr_break_zone_ehrliches_leer_slate_tag_12",
+    "aktion": "Watchdog-Recovery Mo-Fr (14:30 Berlin, 60 Min nach Hauptroutine 13:30, die heute kein gefuelltes Dossier abgelegt hat). Unabhaengige Web-Verifikation (UEFA Nations League MD3 Friday 2 October 2026 Belgium-Turkey France-Italy Poland-Romania Ukraine-Northern Ireland, Betfred Football Fixtures 02-10-2026, Football Web Pages 20261002, Groundhopper Guides Europaeische Ligen-Saisonstart 2026-27) bestaetigt: heute Fr 02.10.2026 laeuft KEIN Whitelist-Vereinsspiel im Fenster. Es laeuft nur UEFA Nations League MD3 (League A: Belgien-Tuerkei 20:45, Frankreich-Italien 20:45; League B: Ungarn-Georgien, Ukraine-Nordirland, Bosnien-Schweden, Polen-Rumaenien; League C: Zypern-Armenien 17:00, Lettland-Montenegro 17:00, Faeroeer-Slowakei 20:45, Kasachstan-Moldau 15:00) — alles Nationalmannschafts-/Nicht-Whitelist-Serien, per CLAUDE.md-Aktive-Sportarten-Whitelist nicht bespielbar. FIFA XL Break offiziell bestaetigt: 21.09.-06.10.2026 (16 Tage, kombiniertes September/Oktober-Fenster laut FIFA-Kalender 2025-2030). Damit ist die Kette Mo 21.09.-Do 01.10. + Fr 02.10. weiter konsistent leer (12. Break-Tag in Folge). Watchdog laesst spiele[]/einzeltipps[]/kombis[] bewusst leer — Notfall-Fallback-Prinzip 'niemals mit leerem Slate enden wenn es Spiele gibt' greift NICHT, weil es keine Whitelist-Spiele gibt.",
+    "kette_hauptroutine_watchdog": {
+      "13_30_hauptroutine": "kein gefuelltes Dossier geliefert (Datei fehlte zum Zeitpunkt des Watchdog-Guards 14:30)",
+      "14_30_watchdog": "unabhaengige Zweit-Recherche (WebSearch football fixtures October 2 2026 Bundesliga Premier League LaLiga Serie A Ligue 1, UEFA Nations League matchday 3 October 2 2026 fixtures group, DFB-Pokal Coppa Italia Copa del Rey EFL Cup club fixtures 2 October 2026). Alle Treffer bestaetigen: naechstes Vereins-Wochenende Fr 09.10. Bundesliga MD5 (BVB-Bremen) / Sa 10.10. BL + PL + Serie A + LaLiga. CL MD2 erst Di-Mi 20.-21.10., EL MD2 / Conference MD1 Do 15.10. Keine Top-5-Liga, keine 2. Bundesliga, keine CL/EL/Conference, keine nationalen Pokale mit Top-Liga-Beteiligung, kein Supercup heute. Watchdog-Entscheidung: ehrliches Break-Empty-Slate Tag 12.",
+      "15_15_backstop": "folgt als GitHub-Actions-Backstop (siehe Watchdog-Wrapper-Prompt). Wird dieses Dossier respektieren, falls bereits korrekt gefuellt."
+    },
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "fifa_xl_international_break_tag_12",
+        "details": "FIFA XL Break laeuft 21.09.2026-06.10.2026 (16 Tage, offiziell bestaetigt via Flashscore / The Daily Star / Yahoo Sports / Sky Sports in den Verifikationen der 11 Break-Tage zuvor). Alle Top-5-Ligen (Bundesliga, Premier League, LaLiga, Serie A, Ligue 1) sowie 2. Bundesliga pausieren komplett. Champions League MD2 erst Di-Mi 20.-21.10.2026, Europa League MD2 / Conference League MD1 Do 15.10. Nationale Pokale auf National-Runden-Ebene erst wieder ab 27.-28.10. (DFB-Pokal 2. Runde, EFL Cup R4) bzw. 28.10. (Copa del Rey Primera Ronda mit LaLiga-Einstieg) bzw. 02.-16.12. (Coppa Italia Achtelfinale) bzw. 20.12. (Coupe de France 32e de finale mit Ligue-1-Einstieg). Heute (Fr 02.10.) ist der 12. Break-Tag in Folge. Konsistent mit den 11 vorherigen empty slates Mo 21.09.-Do 01.10.",
+        "quellen_intern": [
+          "data/tipps/2026-09-21.json",
+          "data/tipps/2026-09-22.json",
+          "data/tipps/2026-09-23.json",
+          "data/tipps/2026-09-24.json",
+          "data/tipps/2026-09-25.json",
+          "data/tipps/2026-09-26.json",
+          "data/tipps/2026-09-27.json",
+          "data/tipps/2026-09-28.json",
+          "data/tipps/2026-09-29.json",
+          "data/tipps/2026-09-30.json",
+          "data/tipps/2026-10-01.json",
+          "data/recherche/2026-09-29.json"
+        ]
+      },
+      {
+        "art": "nations_league_md3_freitag_belgien_tuerkei_frankreich_italien_polen_rumaenien",
+        "details": "UEFA Nations League MD3 Freitags-Programm bestaetigt via WebSearch (Football Web Pages 20261002): League A Group 1: Belgien-Tuerkei 20:45, Frankreich-Italien 20:45 (Classique Mbappe vs Donnarumma); League B Group 2: Ungarn-Georgien 20:45, Ukraine-Nordirland 20:45; League B Group 4: Bosnien-Schweden 20:45, Polen-Rumaenien 20:45 (Lewandowski); League C Group 2: Zypern-Armenien 17:00, Lettland-Montenegro 17:00; League C Group 3: Faeroeer-Slowakei 20:45, Kasachstan-Moldau 15:00. Alles Nationalmannschafts-Serien und damit ausserhalb der CLAUDE.md-Vereins-Whitelist. WM 2026 ist seit 19.07. beendet, HR25-HR29 dormant. Bewusst nicht eingebaut — auch nicht Frankreich-Italien oder Polen-Rumaenien oder Belgien-Tuerkei, obwohl das Top-Klassiker fuer Top-Ligen-Fans sind (Mbappe/Dembele bei Frankreich, Lewandowski bei Polen, Lukaku/De Bruyne bei Belgien, alle Vereins-Namen). Gleiche Konsequenz wie an den 11 Break-Tagen davor.",
+        "hallu_gefahr_relevanz": "hoch — Frankreich-Italien, Polen-Rumaenien und Belgien-Tuerkei verfuehren zum Aufnehmen, weil Spieler wie Mbappe, Lewandowski, De Bruyne, Lukaku aus Vereins-Kadern vertraut sind. Aber: Deschamps-/Probierz-/Garcia-Nominierungen wechseln pro Fenster (aktuelle Kader ohne offizielle Verband-Verifikation nicht belastbar), und Nations-League-Torschuetzen-Historie ist duenn. Gleicher Schadensmodus wie beim Adeyemi-Fehler 22.08.2026."
+      },
+      {
+        "art": "keine_pokal_oder_supercup_termine",
+        "details": "Aktiv gegen alle national/international Cups gecheckt: DFB-Pokal 2. Runde erst 27.-28.10.2026 (nicht heute), Coppa Italia Achtelfinale erst 02.-16.12.2026, Copa del Rey Primera Ronda zwar 26.09.-04.10. aber ohne LaLiga-Erstligisten (LaLiga-Einstieg erst Segunda Ronda 28.10.), Coupe de France 4e/5e Tour ohne Ligue-1-Beteiligung (L1-Einstieg erst 32e de finale 20.12.), EFL Cup R3 beendet (15.-17.09.), R4 offiziell 27.-29.10. Kein Supercup: Franz-Beckenbauer-Supercup war 22.08. (Dortmund-Bayern), FA Community Shield 10.08., UEFA Super Cup 20.08. (PSG-Tottenham), Trophee des Champions 06.09., naechster Supercopa de Espana / Supercoppa Italiana erst Januar 2027."
+      }
+    ],
+    "kader_wechsel_check": "N/A — 0 Spiele, keine Torschuetzen-Tipps zu pruefen. Datei data/kader_wechsel_2026.json bleibt Stand letzte Maintenance-Routine. Wird bei naechstem Whitelist-Tag (voraussichtlich Fr 09.10. Bundesliga MD5 Auftakt BVB-Bremen) wieder gegen den Kader geprueft.",
+    "zeitfenster_check": "OK — spiele[] leer, keine Datums-Verletzungen moeglich. validate_datum_scope greift nicht.",
+    "saison_kontext_check": "N/A — 0 Spiele, keine saison_kontext-Pflichtfelder zu pruefen.",
+    "markt_mix_check": "N/A — 0 Tipps.",
+    "halluzinations_check": "OK — kein Spieler/Trainer/Team erwaehnt, der nicht via WebSearch bestaetigt wurde. Nations-League-Namen (Mbappe/Lewandowski/De Bruyne) nur als Illustration der Hallu-Gefahr genannt, nicht als Tipp-Grundlage.",
+    "selbstwiderspruch_check": "OK — hinweis + lessons_angewandt + warns stimmig: FIFA XL Break Tag 12, nur Nations League im Fenster, konsequent nicht aufgenommen."
+  }
 };
