@@ -2,6 +2,7 @@
   "datum": "2026-10-03",
   "erstellt_am": "2026-10-03T10:00:00+02:00",
   "modus": "tag",
+  "safety_net_backstop": true,
   "hinweis": "🐚 Tages-Dossier Sa 03.10.2026 (Sa+So-Cloud-Routine 10:00 Berlin, Saison 2026/27). Ergebnis nach Nachrecherche: NULL Spiele im Zeitfenster für die aktiven Vereins-Ligen und Pokale unserer Whitelist. Grund: wir sind weiterhin mitten in der MERGED FIFA-Länderspielpause 2026/27 vom 21.09. bis 06.10.2026 (16 Tage am Stück, siehe beIN Sports + Spox + Sportschau + Flashscore). Bundesliga MW5 startet erst Fr 09.10. (BVB-Bremen 20:30), Premier League MW6 erst Sa 10.10. (Arsenal-Leeds, Chelsea-Bournemouth u.a.), Serie A 6ª giornata 10.-11.10., LaLiga J6 10.-11.10., Ligue 1 J6 10.-11.10., 2. Bundesliga MW7 09.-11.10. Europapokal läuft erst wieder: CL-MD2 13.-14.10., EL-MD2 15.10., Conference-MD2 22.10. Pokale: DFB-Pokal R2 am 27.-28.10. (BVB-Bremen Di + Bayern-Magdeburg Mi, bestätigt per Stuttgarter-Zeitung / ran.joyn), EFL-Cup R4 w/c 26.10., Coppa Italia R16 Serie-A-Teams ab 02.12., Copa del Rey R1 28.10., Coupe de France R7 Nov. FA Cup am Sa 03.10. nur Third Round Qualifying (Non-League, keine Whitelist). Kein Supercup heute (Franz-Beckenbauer-Supercup war 22.08., FA Community Shield 10.08., UEFA Super Cup Aug, Supercopa Espana 02.-07.02.2027 Istanbul, Supercoppa Italiana + Trophée des Champions laufen in der Winterpause). Was heute läuft: Nations League MD3 (01.-03.10.) - z.B. Kroatien-England, Spanien-Tschechien, Deutschland-Serbien - aber Nations League steht nicht in unserer Whitelist (nur Vereins-Wettbewerbe + Turniere WM/EM, siehe CLAUDE.md 'Aktive Sportarten'). Deshalb ehrlich ein leeres Tages-Dossier statt erfundener Tipps - Notfall-Fallback aus master_tipps_routine.md greift. Nächstes echtes Tages-Dossier: Fr 09.10. (Bundesliga MW5-Auftakt BVB-Bremen 20:30) bzw. Sa 10.10. (volles Programm). Kasse-Stand 1000€ / Stufe 1 aktiv (Saison-eigener Edge noch nicht bestätigt, stufe_2_freigeschaltet=false) - Kasse bleibt heute unangetastet. 18+ · BZgA Glücksspielsucht-Hotline: 0800 1372700.",
   "spiele": [],
   "einzeltipps": [],
@@ -29,6 +30,11 @@
         "art": "konsistenz_check",
         "spiel_id": null,
         "details": "Deckungsgleich mit tipps_wochenende/2026-10-03.json (Thursday-Slot 01.10. 18:00): beide Dossiers kommen auf 0 Whitelist-Spiele für 03.10. Keine Drift zwischen Wochenend-Vorschau und Tages-Lauf. Nächstes echtes Dossier: Fr 09.10. (Mo-Fr-Routine, BVB-Bremen 20:30 MW5-Auftakt)."
+      },
+      {
+        "art": "safety_net_backstop",
+        "spiel_id": null,
+        "details": "Safety-Net-Backstop-Lauf 2026-10-03 hat den leeren Slate unabhängig per WebSearch + WebFetch nachverifiziert: sportinglife.com/football/fixtures-results listet für Sa 03.10. kein Whitelist-Spiel (nur So 04.10. mit Nations League / FAWSL / Internationals / Copa del Rey R1 - alle NICHT in der Whitelist). Bundesliga-MW5-Auftakt BVB-Bremen Fr 09.10. 20:30 bestätigt per bvb.de + DFB-Datencenter. EFL-Cup R4 bestätigt für w/c 26.10. per si.com. Keine Spiele im Zeitfenster für die aktiven Vereins-Wettbewerbe heute - Notfall-Fallback bleibt die korrekte Antwort, kein Nachtipp."
       }
     ],
     "lessons_generiert": [],
@@ -44,7 +50,11 @@
       "https://www.thefa.com/competitions/thefacup/round-dates",
       "https://www.stuttgarter-zeitung.de/sport/sport-mix/dfb-pokal-uebertragung-diese-spiele-der-2-runde-laufen-gratis-im-free-tv-und-livestream-79476979.html",
       "https://www.footballwebpages.co.uk/fa-cup/20261003",
-      "https://es.thescore.com/news/3579169/spanish-super-cup-will-be-held-in-turkey-in-2027"
+      "https://es.thescore.com/news/3579169/spanish-super-cup-will-be-held-in-turkey-in-2027",
+      "https://www.sportinglife.com/football/fixtures-results/tomorrow",
+      "https://www.bvb.de/de/de/aktuelles/news/news.html/2026/9/10/Bundesliga-Spieltage-5-bis-11-angesetzt-Zwei-Topspiele-fuer-den-BVB.html",
+      "https://datencenter.dfb.de/datencenter/bundesliga/2026-2027/5-spieltag/borussia-dortmund-werder-bremen-2419312",
+      "https://www.si.com/soccer/2026-27-carabao-cup-fourth-round-draw-all-fixtures"
     ]
   },
   "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Glücksspielsucht-Hotline: 0800 1372700"
