@@ -60,5 +60,42 @@
     ],
     "note": "Kein Halluzinations-Risiko: spiele[] = [] verhindert Kader-/Trainer-/Markt-Widersprueche. Kein Kader-Gegencheck gegen data/kader_wechsel_2026.json noetig, weil kein Spieler-Tipp gesetzt wurde. Kein Downgrade noetig, weil kein Tipp gesetzt wurde. safety_net_backstop=true stempelt die Datenlage: Primaer-Quellen nicht erreichbar, deshalb ehrlich leer. Tages-Dossier Do 08.10. (Wochenend-Vorschau) und Fr/Sa/So Tages-Dossiers fuellen die Restart-Weekend-Tipps mit live-geprueften Aufstellungen nach."
   },
-  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_watchdog_report": {
+    "routine": "watchdog_wochen_vorschau",
+    "slot_berlin": "So 2026-10-04 19:15",
+    "ausgefuehrt_am": "2026-10-04T19:21:14+02:00",
+    "guard_ergebnis": "einzeltipps=0 UND spiele=0 -> Watchdog aktiv (NEED=1)",
+    "befund": "KEIN_UEBERSCHREIBEN",
+    "begruendung": "Die Hauptroutine um 18:00 Berlin hat bereits einen ehrlich-leeren Snapshot mit ausfuehrlichem _verifikations_report geliefert und darin die Nicht-Verfuegbarkeit aller Fixture-Primaer-Quellen (football-data.org 403, EGRESS_BLOCKED bei kicker/bundesliga/premierleague/laliga/legaseriea/ligue1/uefa/sofascore/flashscore/fbref/transfermarkt/openligadb/espn/skysports) begruendet. Der Watchdog hat diese Lage um 19:15 Berlin re-verifiziert und bestaetigt. WebSearch liefert in diesem Lauf nachweislich halluzinierte Spielpaarungen (z.B. Premier-League-Fixture-Liste mit Hull City, Coventry City und Ipswich Town fuer Mw6 am 10.10., obwohl diese Clubs in PL 2026/27 realistisch gar nicht spielen; LaLiga-Jornada-Suche widerspricht der Hauptroutine und meldet statt J8 am 10./11.10. nur Jornada 9 am 3./4.10. und Jornada 10 am 24./25.10. mit FIFA-Pause dazwischen). Ein Watchdog-Overwrite mit WebSearch-Rohdaten wuerde genau die Adeyemi-Lehre vom 22.08.2026 reproduzieren - deshalb bleibt der leere Snapshot als Watchdog-Ergebnis stehen. Tages-Routinen Do 08.10. (Wochenend-Dossier Fr-So) + Fr/Sa/So Tages-Dossiers liefern mit live-geprueften Aufstellungen und Quoten nach.",
+    "proxy_checks": [
+      {
+        "quelle": "api.football-data.org/v4/matches?dateFrom=2026-10-05&dateTo=2026-10-11",
+        "status": "403 Tunnel connection failed (Agent-Proxy)"
+      },
+      {
+        "quelle": "anstosszeiten.de",
+        "status": "EGRESS_BLOCKED"
+      },
+      {
+        "quelle": "openligadb.de",
+        "status": "EGRESS_BLOCKED"
+      },
+      {
+        "quelle": "de.wikipedia.org",
+        "status": "EGRESS_BLOCKED"
+      },
+      {
+        "quelle": "en.wikipedia.org",
+        "status": "EGRESS_BLOCKED"
+      }
+    ],
+    "websearch_haluzinations_evidenz": [
+      "Premier-League-WebSearch 'matchweek 7 fixtures October 10 11 2026' meldet Mw6 10.10. mit Teams wie Coventry City, Hull City, Ipswich Town - keine davon spielt realistisch in der PL 2026/27 (Hull seit 2016/17 zweit-/drittklassig, Coventry zweitklassig, Ipswich 2025 abgestiegen). Red Flag: Suche kombiniert Teams aus mehreren Spielzeiten.",
+      "LaLiga-WebSearch 'Jornada 8 fixtures schedule 10 11 October 2026' meldet J8 am 26./27.09., J9 am 3./4.10., J10 am 24./25.10. mit FIFA-Pause dazwischen - widerspricht der Haupt-Routine-Annahme 'LaLiga J8 am Restart-Weekend Fr-So'. Ohne Primaerquelle nicht aufloesbar - deshalb kein Tipp."
+    ],
+    "notfall_verweis": "CLAUDE.md Prinzip 'Nichts erfinden - fehlende Daten als null setzen und im hinweis benennen' hat Vorrang vor 'Niemals leer wenn Spiele im Fenster'. Begruendung in lessons_angewandt[4] des Hauptlaufs. Watchdog bestaetigt diese Prio-Entscheidung.",
+    "folge_slot": "Do 08.10. 18:00 Berlin: Wochenend-Dossier Sa 10.10./So 11.10. - bis dahin sollten Primaer-Quellen entweder wieder zugaenglich sein oder ein Direct-Push-Alert laeuft gegen den Admin.",
+    "kein_overwrite_der_hinweis_felder": true
+  }
 }
