@@ -1,5 +1,5 @@
 {
-  "stand": "2026-09-27T21:00:00+02:00",
+  "stand": "2026-10-04T22:30:00+02:00",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -738,9 +738,11 @@
     {
       "verein": "Nottingham Forest",
       "trainer_neu": "Oliver Glasner",
-      "trainer_alt": "Nuno Espirito Santo",
+      "trainer_alt": "Vitor Pereira (zuletzt, nicht Nuno)",
       "seit": "2026-07",
-      "hinweis": "Ex-Crystal-Palace / Frankfurt. Uebernahm zur Saison 2026/27."
+      "hinweis": "Ex-Crystal-Palace / Frankfurt. Uebernahm zur Saison 2026/27 fuer Vitor Pereira (nicht Nuno Espirito Santo - der war 2024/25-Trainer, davor war Pereira). Status 02.10.2026: Glasner weiter im Amt trotz 1 Sieg aus 6 Spielen und Platz 13 - 'unstable' laut Football Insider, aber nicht entlassen. Vor Forest-Tipps dennoch Aufstellungs-Vorschau am Spieltag live pruefen (volatile Situation).",
+      "quelle": "https://www.skysports.com/football/news/13560923/oliver-glasner-to-nottingham-forest-former-crystal-palace-boss-succeeds-vitor-pereira-at-the-city-ground",
+      "stand": "2026-10-04"
     },
     {
       "verein": "Tottenham Hotspur",
@@ -765,12 +767,13 @@
     },
     {
       "verein": "Parma Calcio 1913",
-      "trainer_neu": "offen (Interim, live pruefen)",
+      "trainer_neu": "Alberto Gilardino",
       "trainer_alt": "Carlos Cuesta (davor Cristian Chivu)",
-      "seit": "2026-09-27",
-      "hinweis": "Risoluzione consensuale mit Cuesta am 27.09.2026 nach 4 Punkten aus 5 Spielen und Uneinigkeit ueber das sportliche Projekt (obwohl gerade 2:1-Sieg gegen Venezia am Spieltag 5). Dritter Serie-A-Trainerwechsel 2026/27 nach Fiorentina (Grosso) und Bologna (Tedesco). Als Kandidaten fuer den Nachfolger kolportiert: Roberto D'Aversa (Rueckkehr), Alberto Gilardino und Paolo Zanetti - bis zur Bestaetigung nichts hier eintragen. Cuesta war Ex-Arsenal-Co und Neuling, sein Nachfolger duerfte pragmatischer aufstellen. Bis zur Bekanntgabe: Parma-Aufstellungs-Vorschau JEDES Spiel live pruefen, taktische Aussagen NICHT auf Cuesta-Stand stuetzen.",
-      "quelle": "https://www.corrieredellosport.it/news/calcio/serie-a/parma/2026/09/27-151505955/sorpresa_parma_ufficiale_la_risoluzione_consensuale_con_cuesta",
-      "stand": "2026-09-27"
+      "seit": "2026-09-30",
+      "vertrag_bis": "2027-06 (Klub-Option auf +2 Jahre)",
+      "hinweis": "Risoluzione consensuale mit Cuesta am 27.09.2026 nach 4 Punkten aus 5 Spielen - dritter Serie-A-Trainerwechsel 2026/27 nach Fiorentina (Grosso) und Bologna (Tedesco). Gilardino offiziell am 30.09.2026 verpflichtet, Vertrag bis Saisonende mit Option auf 2 weitere Jahre. Weltmeister 2006 (19 Tore in 57 Laenderspielen), kennt Parma als Spieler (2002-05, 3 Jahre). War seit Pisa-Entlassung Januar 2026 ohne Verein, davor Genoa (bis November 2024). Taktische Aussagen ueber Parma NICHT auf Cuesta-Stand stuetzen - Gilardino bevorzugt kompaktes 3-5-2 oder 4-3-3, pragmatischer als Cuestas Ball-Besitz-Linie. Erster Test: 05.10. gegen Inter (Serie-A-Spieltag 6).",
+      "quelle": "https://www.livescore.com/en/news/football/serie-a/official-parma-appoint-gilardino-as-head-coach-after-dismissing-cuesta-football-italia/",
+      "stand": "2026-10-04"
     },
     {
       "verein": "SL Benfica",
@@ -856,12 +859,13 @@
     },
     {
       "verein": "Borussia Moenchengladbach",
-      "trainer_neu": "Jan-Moritz Lichte (Interim)",
-      "trainer_alt": "Eugen Polanski",
-      "seit": "2026-09-13",
-      "hinweis": "Polanski + Co-Trainer Trulsen am 13.09.2026 nach 0:5-Niederlage in Freiburg (3. Spieltag) entlassen - erster Bundesliga-Trainerwechsel der Saison 2026/27, zum zweiten Mal in Folge ist es Gladbach (2025/26 war es Seoane nach dem 4. Spieltag). Lichte uebernimmt vorerst kommissarisch, der endgueltige Nachfolger war zum Maintenance-Zeitpunkt 20.09. noch nicht offiziell (Priske und Blessin als Favoriten kolportiert - beides Geruecht, nicht in dieser Datei). Bis zur Bekanntgabe: Gladbach-Aufstellungs-Vorschau JEDES Spiel live pruefen, taktische Aussagen NICHT auf Polanski-Stand stuetzen.",
-      "quelle": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Borussia_M%C3%B6nchengladbach_season",
-      "stand": "2026-09-20"
+      "trainer_neu": "Alexander Blessin",
+      "trainer_alt": "Eugen Polanski (bzw. Jan-Moritz Lichte Interim 13.-21.09.2026)",
+      "seit": "2026-09-22",
+      "vertrag_bis": "2028-06",
+      "hinweis": "Polanski + Co-Trainer Trulsen am 13.09.2026 nach 0:5 in Freiburg entlassen, Lichte war Interim (lief 4:3-Pleite in Mainz am 20.09. unter Interim). Blessin offiziell am 22.09.2026 verpflichtet (Vertrag bis 2028, Pressekonferenz 23.09.), zuletzt zwei Jahre bei St. Pauli, davor Union Saint-Gilloise und Genua. Debuet erst Sa 11.10. im Derby in Koeln - Laenderspielpause gibt ihm fast drei Wochen zum Aufsetzen. Taktische Aussagen ueber Gladbach NICHT auf Polanski-Stand stuetzen - Blessin spielt aggressiv pressing-orientiert mit 3-4-2-1 / 4-2-2-2. Zu-Null-Quote erst nach ein-zwei Spielen bewerten, Ueber-2.5 unter Blessin eher wahrscheinlicher als unter Polanski (viele Umschalt-Momente).",
+      "quelle": "https://www.bundesliga.com/en/bundesliga/news/alexander-blessin-appointed-borussia-monchengladbach-head-coach-39320",
+      "stand": "2026-10-04"
     },
     {
       "verein": "Bologna FC 1909",
@@ -909,7 +913,7 @@
       "stand": "2026-09-27"
     }
   ],
-  "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist. Fulham hat mit Arbeloa (ex-Real Madrid) einen neuen Trainer, Silva zu Benfica (bestaetigt 25.08.2026). Saison-Verlauf (Stand 27.09.2026): erster Bundesliga-Wechsel Gladbach 13.09. (Polanski -> Lichte Interim), drei Serie-A-Wechsel Fiorentina 07.09. (Grosso -> Vanoli), Bologna 16.09. (Tedesco -> Palladino) und Parma 27.09. (Cuesta -> offen), ein LaLiga-Wechsel Valencia 13.09. (Corberan -> Oscar Sanchez Interim), erster Premier-League-Wechsel West Ham 27.09. (Potter -> Nuno Espirito Santo, sofort auf 3 Jahre). Interim-Rollen bei Gladbach, Valencia und Parma: endgueltiger Nachfolger noch offen - Aufstellungs-Vorschau am Spieltag schlaegt jede Vermutung hier. Nuno-Wechsel wirft ausserdem Frage auf, ob der bisherige Forest-Eintrag (Glasner seit 2026-07 als Nuno-Nachfolger) noch stimmt - vor Forest-Tipps live pruefen.",
+  "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist. Fulham hat mit Arbeloa (ex-Real Madrid) einen neuen Trainer, Silva zu Benfica (bestaetigt 25.08.2026). Saison-Verlauf (Stand 04.10.2026): erster Bundesliga-Wechsel Gladbach 13.09. (Polanski -> Lichte Interim -> Blessin ab 22.09. permanent, Vertrag bis 2028), drei Serie-A-Wechsel Fiorentina 07.09. (Grosso -> Vanoli), Bologna 16.09. (Tedesco -> Palladino) und Parma 27.09. (Cuesta -> Gilardino ab 30.09. permanent, Weltmeister 2006), ein LaLiga-Wechsel Valencia 13.09. (Corberan -> Oscar Sanchez Interim, Nachfolger weiter offen), erster Premier-League-Wechsel West Ham 27.09. (Potter -> Nuno Espirito Santo, sofort auf 3 Jahre). Interim-Rollen nur noch Valencia (Oscar Sanchez) - Blessin + Gilardino inzwischen permanent. Nottingham Forest: Glasner trotz 1/6-Saisonstart noch im Amt (02.10. laut Football Insider 'unstable, aber nicht entlassen'). Benfica (nach Mourinho-Abgang) noch offen - vor Europapokal-Tipps auf diese drei Klubs live pruefen.",
   "quellen": [
     "https://www.bundesliga.com/en/bundesliga/news/official-bundesliga-transfer-centre-summer-2026-37051",
     "https://www.tntsports.co.uk/football/transfers/2026-2027/deadline-day-summer-2026-done-deals-premier-league-la-liga-serie-a-ligue-1-bundesliga_sto23333078/story.shtml",
@@ -931,6 +935,9 @@
     "https://en.wikipedia.org/wiki/2026%E2%80%9327_Borussia_M%C3%B6nchengladbach_season",
     "https://www.infobae.com/america/agencias/2026/09/13/el-valencia-despide-a-su-tecnico-carlos-corberan-y-rompe-la-estructura-deportiva-actual/",
     "https://www.corrieredellosport.it/news/calcio/serie-a/parma/2026/09/27-151505955/sorpresa_parma_ufficiale_la_risoluzione_consensuale_con_cuesta",
-    "https://www.skysports.com/football/news/11685/13440165/west-ham-the-inside-story-on-graham-potters-sacking-and-nuno-espirito-santos-swift-appointment"
+    "https://www.skysports.com/football/news/11685/13440165/west-ham-the-inside-story-on-graham-potters-sacking-and-nuno-espirito-santos-swift-appointment",
+    "https://www.bundesliga.com/en/bundesliga/news/alexander-blessin-appointed-borussia-monchengladbach-head-coach-39320",
+    "https://www.livescore.com/en/news/football/serie-a/official-parma-appoint-gilardino-as-head-coach-after-dismissing-cuesta-football-italia/",
+    "https://www.skysports.com/football/news/13560923/oliver-glasner-to-nottingham-forest-former-crystal-palace-boss-succeeds-vitor-pereira-at-the-city-ground"
   ]
 }
