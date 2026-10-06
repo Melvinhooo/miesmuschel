@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-10-05T06:13:00+00:00",
+  "letzte_berechnung": "2026-10-06T06:12:45+00:00",
   "gesamt": {
     "tipps": 290,
     "gewonnen": 150,
@@ -24,15 +24,15 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 72.8
   },
   "letzte_90_tage": {
-    "tipps": 290,
-    "gewonnen": 150,
-    "verloren": 128,
+    "tipps": 282,
+    "gewonnen": 145,
+    "verloren": 125,
     "push": 1,
     "offen": 11,
-    "einsatz": 279.0,
+    "einsatz": 271.0,
     "netto": 84.89,
-    "trefferquote": 54.0,
-    "roi_prozent": 30.4
+    "trefferquote": 53.7,
+    "roi_prozent": 31.3
   },
   "nach_liga": {
     "FIFA WM 2026 - Achtelfinale (Round of 16)": {

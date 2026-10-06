@@ -3232,5 +3232,4 @@ window.__MIESMUSCHEL_LESSONS = {
       "bezug_spiel_id": "2026-09-20-bou-liv"
     }
   ]
-}
-;
+};
