@@ -1,0 +1,57 @@
+{
+  "datum": "2026-10-07",
+  "erstellt_am": "2026-10-07T14:30:00+02:00",
+  "modus": "tag",
+  "watchdog_recovery": true,
+  "hinweis": "🐚 Watchdog-Recovery Mi 07.10.2026 (14:30 Berlin, Mo-Fr-Watchdog nach ausgelassener 13:30-Hauptroutine, Saison 2026/27). Watchdog hat gegriffen weil die Hauptroutine kein Dossier geliefert hat (Datei fehlte komplett, auch kein Recherche-File). Ergebnis nach Nachrecherche: NULL Spiele im Zeitfenster für die aktiven Vereins-Ligen und Pokale unserer Whitelist. Grund: Übergangstag zwischen Ende der merged FIFA-Länderspielpause 2026/27 (21.09.–06.10., 16 Tage am Stück, Tag 16/16 war gestern Di 06.10. mit Nations League MD4) und dem Wiederanpfiff der Vereins-Saison am Wochenende. Nations League MD4 ist gestern gelaufen (uefa.com + Wikipedia 2026–27 UEFA Nations League A: Croatia–Spain, England–Czech Republic, Scotland–Slovenia, Switzerland–North Macedonia u.a. alle 20:45), MD5 folgt erst im November-Fenster 12.–17.11.2026. Alle Top-5-Ligen (Bundesliga, Premier League, LaLiga, Serie A, Ligue 1) + 2. Bundesliga + Europapokal-Ligaphase starten erst am Wochenende wieder: Bundesliga MW5 Fr 09.–So 11.10. mit Auftakt RB Leipzig–Eintracht Frankfurt Fr 09.10. 20:30 und BVB–Bremen Sa 10.10. 15:30 (bayer04.de + schalke04.de + fifplay.com als Bestätigung), 2. Bundesliga MW7 Fr 09.–So 11.10., Premier League MW6 Sa 10.10. (Arsenal–Leeds u.a.), LaLiga J8 09.–11.10., Serie A 6a giornata 10.–11.10., Ligue 1 J8 10.–11.10., UEFA Champions League MD2 Di/Mi 13.–14.10.2026 (uefa.com + lanacion/skysports — bestätigt Roma–Real Madrid, Man City–PSG, Bodø/Glimt–BVB u.a.), UEFA Conference League MD1 Do 15.10., UEFA Europa League MD2 Do 22.10. Was heute (Mi 07.10.) läuft: einige Freundschaftsspiele + Brasileirão + Albanian Cup — alles nicht in der Whitelist. Supercup-Pflicht-Check durchgezogen: Franz-Beckenbauer-Supercup war 22.08. (BVB–Bayern), FA Community Shield 10.08., UEFA Super Cup 20.08. (PSG–Tottenham), Trophée des Champions 06.09., Supercopa de España 02.–07.02.2027 Istanbul, Supercoppa Italiana folgt Winterpause — kein Supercup heute. Pokal-Check: DFB-Pokal R2 erst 27.–28.10. (BVB–Bremen Di 27.10. + Bayern–Magdeburg Mi 28.10.), EFL-Cup R4 w/c 26.10., Coppa Italia R16 ab 02.12., Copa del Rey Segunda Ronda 28.10., Coupe de France 32e de finale 20.12., FA Cup heute nur Non-League-Qualifikationsrunden (nicht in Whitelist) — kein Whitelist-Pokalspiel. Kasse-Stand: 1000€ Saison-2026/27-Start, Stufe 1 Aufbau (stufe_2_freigeschaltet=false, Kasse exakt an der Grenze aber Saison-eigener 30-Tage-ROI noch nicht bestätigt weil letzter Vereinsspieltag Sa–So 19.–20.09. vor dem Break lag) — da heute 0 Tipps, keine Einsatz-Rechnung nötig. Nächstes echtes Dossier: entweder Fr 09.10. (Mo-Fr-Routine, Bundesliga-MW5-Auftakt RB Leipzig–Eintracht Frankfurt 20:30 — Live-Prüfung Aufstellung Fr 18:30 kicker Pflicht) oder Do 08.10. 18:00 Wochenend-Vorschau (Sa 10.–So 11.10. mit vollem Programm Top-5 + 2.BL + MW5). Notfall-Fallback nach CLAUDE.md: ehrlich leer schlägt erfunden — Freundschaftsspiele/Brasileirão/Albanian Cup reinschleppen würde die Whitelist aufweichen und Kader-Halluzinationen auf Teams riskieren, zu denen wir keine saubere 2026/27-Squad-Verifikation haben.",
+  "spiele": [],
+  "einzeltipps": [],
+  "kombis": [],
+  "lessons_angewandt": [
+    "Zeitfenster-Hartregel (22.08.2026): Tages-Dossier deckt genau 07.10.2026 ab. Freundschaftsspiele und Nicht-Whitelist-Ligen werden NICHT reingeschleppt, auch wenn Spiele im Fenster liegen.",
+    "Notfall-Fallback (CLAUDE.md / master_tipps_routine.md 'Notfall-Fallback'): lieber ehrlich leer als erfunden. Nichts halluzinieren — leer setzen und im Hinweis begründen.",
+    "Whitelist-Disziplin (CLAUDE.md 'Aktive Sportarten'): Freundschaftsspiele, Brasileirão und Albanian Cup sind nicht Teil der aktiven Vereins-Saison 2026/27 Whitelist — keine Tipps darauf.",
+    "Break-Ende + Vereins-Lücke (Lehre 02.–06.10.2026): die merged FIFA-Pause 21.09.–06.10.2026 ist gestern beendet. Zwei Lücken-Tage (07.–08.10.) folgen vor dem Wiederanpfiff der Vereins-Ligen am Wochenende. Konsistent mit dem Pattern der Vorwoche weiter geführt.",
+    "Supercup-Pflicht-Check (Lehre 22.08.2026, Franz-Beckenbauer-Supercup war vergessen worden): alle sechs Pflicht-Supercups durchgeprüft — keiner liegt auf 07.10.2026.",
+    "Kader-Halluzinations-Risiko minimiert: ohne Vereinsspiele keine Vereins-Spielernamen — kein Adeyemi-at-Dortmund-Fehler möglich. Keine Freundschaftsspiel-Aufstellungen aus dem Gedächtnis (Adeyemi-Schutzregel greift auch für Freundschaftsspiel-Kader).",
+    "Watchdog-Prinzip (CLAUDE.md technische Leitplanken): Watchdog prüft Inhalt, nicht nur Existenz — ein leeres Dossier wäre der Fehlerfall. Heute ist das leere Dossier das korrekte Ergebnis, dokumentiert mit watchdog_recovery=true."
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-10-07T14:30:00+02:00",
+    "modus": "watchdog_empty_slate_post_fifa_break_lull",
+    "trigger": "Mo-Fr-Watchdog 14:30 Berlin für Tages-Slot 07.10.2026, nachdem die 13:30-Hauptroutine kein Dossier geliefert hat (Datei existierte nicht, auch kein Recherche-File data/recherche/2026-10-07.json). Inhalts-Check per python-eval auf einzeltipps[]/spiele[] war negativ (NEED=1). Nachverifikation per WebSearch, da football-data.org API in der Routine-Sandbox vom egress-Proxy mit 403 Forbidden abgelehnt wird (Tunnel connection failed: 403 Forbidden — verifiziert durch direkten urllib-Call auf api.football-data.org/v4/matches). Konsistenz-Check mit 02.–06.10.-Dossiers (vorige fünf Tage: alle Empty-Slate wegen FIFA-Break, 06.10. mit zusätzlichem Safety-Net-Backstop-Pass).",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "leerer_slate",
+        "spiel_id": null,
+        "details": "Übergangstag zwischen Ende der merged FIFA-Länderspielpause (21.09.–06.10., gestern 06.10. war Tag 16/16 mit Nations League MD4 — uefa.com + Wikipedia 2026–27 UEFA Nations League A) und dem Wiederanpfiff der Vereins-Saison am Wochenende (Bundesliga MW5 Fr 09.–So 11.10. mit RB Leipzig–Eintracht Frankfurt Fr 09.10. 20:30 + BVB–Bremen Sa 10.10. 15:30 laut bayer04.de + schalke04.de + fifplay.com, 2.BL MW7 09.–11.10., Premier League MW6 10.10., LaLiga J8/Serie A 6a/Ligue 1 J8 10.–11.10., UEFA CL MD2 13.–14.10. mit u.a. Bodø/Glimt–BVB + Man City–PSG laut uefa.com + lanacion + skysports, UEFA CoL MD1 15.10., UEFA EL MD2 22.10., DFB-Pokal R2 27.–28.10., EFL-Cup R4 w/c 26.10., Coppa Italia R16 ab 02.12., Copa del Rey Segunda Ronda 28.10., Coupe de France 32e 20.12., FA Cup heute nur Non-League-Qualifikation, kein Supercup heute). Was im Fenster läuft: nur Freundschaftsspiele + Brasileirão + Albanian Cup — alle nicht in der Whitelist."
+      },
+      {
+        "art": "konsistenz_check",
+        "spiel_id": null,
+        "details": "Deckungsgleich mit tipps/2026-10-02.json bis tipps/2026-10-06.json (alle Break-/Lücken-Dossiers mit 0 Whitelist-Spielen). Kein Drift zwischen Vortagen und heute. Nächstes echtes Dossier: Do 08.10. 18:00 Wochenend-Vorschau (Sa 10.–So 11.10.) oder Fr 09.10. 13:30 Tages-Dossier (Bundesliga-MW5-Auftakt)."
+      },
+      {
+        "art": "watchdog_recovery",
+        "spiel_id": null,
+        "details": "Watchdog-Lauf hat gegriffen weil tipps/2026-10-07.json vorher nicht existierte (Hauptroutine 13:30 hat kein Dossier erzeugt). Watchdog hat Zeitfenster, Supercup-Check, FIFA-Break-Grenzen und Konsistenz zu den Vortagen unabhängig per WebSearch verifiziert und das korrekte leere Dossier geschrieben. Der 15:15-GitHub-Actions-Backstop kann dies als bereits erledigt überspringen (watchdog_recovery=true signalisiert bewussten Empty-Slate)."
+      }
+    ],
+    "lessons_generiert": [],
+    "quellen": [
+      "https://www.englandfootball.com/articles/2026/Feb/12/uefa-nations-league-2026-27-draw-made-20261202",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League_A",
+      "https://www.uefa.com/uefachampionsleague/news/02a8-2176fa83582b-d99f0b27f405-1000--champions-league-league-phase-fixtures-and-results-by-team/",
+      "https://www.bayer04.de/en-us/news/bundesliga/bundesliga-matchdays-5-11-scheduled-derby-and-dortmund-on-sunday",
+      "https://schalke04.de/en/bundesliga-en/matchdays-5-to-11-scheduled-2627/",
+      "https://www.fifplay.com/bundesliga-2026-2027-matchday-5/",
+      "https://www.lanacion.com.ar/usa/2026-27-champions-league-glance-nid10092026/",
+      "https://www.skysports.com/football/news/11667/13578265/champions-league-2026-27-fixtures-dates-schedule-format-and-who-has-qualified-from-premier-league-and-around-europe",
+      "https://www.si.com/soccer/2026-27-carabao-cup-fourth-round-draw-all-fixtures",
+      "https://es.thescore.com/news/3579169/spanish-super-cup-will-be-held-in-turkey-in-2027"
+    ]
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Glücksspielsucht-Hotline: 0800 1372700"
+}
