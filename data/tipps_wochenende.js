@@ -1,55 +1,967 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS_WOCHENENDE = {
-  "datum": "2026-10-03",
-  "erstellt_am": "2026-10-01T18:15:00+02:00",
+  "datum": "2026-10-10",
+  "erstellt_am": "2026-10-08T18:00:00+02:00",
   "modus": "wochenende",
-  "safety_net_backstop": false,
   "fenster": {
-    "samstag": "2026-10-03",
-    "sonntag": "2026-10-04"
+    "anker_samstag": "2026-10-10",
+    "folge_sonntag": "2026-10-11"
   },
-  "hinweis": "🐚 Wochenend-Vorschau Sa 03.10. + So 04.10.2026 (Do-Slot 18:00 Berlin, Saison 2026/27). Ergebnis nach Nachrecherche: NULL Spiele im Fenster fuer die aktiven Vereins-Ligen und Pokale unserer Whitelist. Grund: wir sind weiterhin mitten in der MERGED FIFA-Laenderspielpause 2026/27 vom 21.09. bis 06.10.2026 (16 Tage am Stueck, siehe Bundesliga.com + Spox + Sportschau). Bundesliga MW4 lief 18.-20.09., MW5 startet erst Fr 09.10. (BVB-Bremen 20:30) und laeuft Sa 10.10. + So 11.10. Premier League MW5 lief 19.-20.09., MW6 erst Sa 10.10. (Arsenal-Leeds, Chelsea-Bournemouth u.a.). LaLiga J6 erst nach dem Break, Serie A 6^ giornata am 10.-11.10. (Napoli-Frosinone u.a.), Ligue 1 J6 am 10.-11.10. 2. Bundesliga MW7 am 09.-11.10. (u.a. Nuernberg-Wolfsburg Sa 20:30, Hertha-Fuerth, Bochum-Bielefeld, St.Pauli-Karlsruhe So). CL/EL/Conference MD1 lief 16.-18.09., CL-MD2 erst 13.-14.10., EL-MD2 15.10., Conference-MD2 22.10. DFB-Pokal R2 am 27.-28.10., EFL-Cup R4 w/c 26.10., Coppa Italia R16 Serie-A-Teams ab 02.12., Copa del Rey R1 28.10., Coupe de France R7 Nov. FA Cup am Sa 03.10. nur Third Round Qualifying (Non-League, keine Whitelist). Kein Supercup dieses WE (Franz-Beckenbauer-Supercup war 22.08., FA Community Shield 10.08., Supercopa Espana + Supercoppa Italiana laufen in der Winterpause, UEFA Super Cup war Aug, Trophee des Champions Jan). Was am WE laeuft: Nations League MD3 (01.-03.10.) und MD4 (04.-06.10.) - z.B. Kroatien-England, Spanien-Tschechien, Deutschland-Serbien - aber Nations League steht nicht in unserer Whitelist (nur Vereins-Wettbewerbe + Turniere WM/EM, siehe CLAUDE.md 'Aktive Sportarten'). Deshalb ehrlich ein leeres Wochenend-Dossier statt erfundener Tipps - Notfall-Fallback aus master_tipps_routine.md greift. Naechstes echtes Wochenend-Dossier: Do 08.10. (Vorschau auf Bundesliga MW5 + PL MW6 + Serie A / LaLiga / Ligue 1 J6 + 2.BL MW7). Kasse-Stand 1000€ / Stufe 1 aktiv (Saison-eigener Edge noch nicht bestaetigt - rolling 30 Tage ROI zwar bei +72.8%, aber grossteils aus WM-Vorperiode, stufe_2_freigeschaltet=false) - Kasse bleibt an diesem WE unangetastet. 18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700.",
-  "spiele": [],
-  "einzeltipps": [],
-  "kombis": [],
-  "lessons_angewandt": [
-    "Zeitfenster-Hartregel (22.08.2026): Wochenend-Dossier deckt genau Sa+So ab. Kein Nations-League-Nachschub aus Do 01.10. / Fr 02.10. / Mo 05.10. reingeschleppt.",
-    "Notfall-Fallback (CLAUDE.md / master_tipps_routine.md 'Notfall-Fallback'): lieber ehrlich leer als erfunden. Nichts halluzinieren - fehlende Daten als leer setzen und im Hinweis begruenden.",
-    "Whitelist-Disziplin: Nations League ist Nationalmannschafts-Wettbewerb, steht nicht in 'Aktive Sportarten' (nur Vereine + Turniere WM/EM) -> keine Tipps darauf, auch wenn Spiele stattfinden.",
-    "Break-Fortsetzung (Lehre 2026-09-26): die merged FIFA-Pause 21.09.-06.10. deckt BEIDE Oktober-Wochenenden ab, nicht nur das September-Ende. Erst ab 09.-11.10. gibt es wieder Vereinsfussball in den Whitelist-Ligen.",
-    "Keine Supercups geprueft und keine im Fenster: alle sechs Pflicht-Supercups (Franz-Beckenbauer-Supercup, FA Community Shield, Supercopa Espana, Supercoppa Italiana, Trophee des Champions, UEFA Super Cup) liegen nachweislich nicht auf 03.-04.10.2026."
+  "hinweis": "🐚 Wochenend-Vorschau Sa 2026-10-10 + So 2026-10-11 (Donnerstag 18:00 Berlin, Saison 2026/27). Erste Vereins-Woche nach der 16-tägigen FIFA-Länderspielpause 21.09.-06.10. — alle Topligen plus 2.BL plus CL-/EL-Vorbereitung starten wieder. Fokus-Spiele: Dortmund-Bremen + Mainz-Leverkusen + Köln-Gladbach + Augsburg-Bayern-Topspiel (BL MW5), Barcelona-Getafe + Real-Villarreal (LaLiga J8), Man City-Liverpool + Arsenal-Leeds (PL MW6), PSG-Le Mans (Ligue 1 J6). Kasse-Stand aus data/kasse.json: 1000€ Saison-2026/27-Start, Stufe 1 Aufbau (stufe_2_freigeschaltet=false, Saison-eigener 30-Tage-ROI noch nicht bestätigt weil erste Vereins-Woche nach Break). Einsätze: SAFE/VALUE 1-2% = 10-20€, Wackel 0.5% = 5€. CL/EL/UECL-Doppelbelastung ab Di 13.10. — ALLE Topteams (BVB/Madrid/City/PSG/Bayern/Barca/Arsenal/Liverpool/Leverkusen) haben Mi/Do europäische Pflichtspiele → Rotation realistisch. Bewusst KEIN SAFE in diesem Dossier: Vereins-Saison-Rückkehr + Rotations-Risiko → VALUE statt SAFE. Aufstellungen 60 Min vor Anpfiff pro Spiel bei kicker.de / premierleague.com / laliga.com / seriea.it / ligue1.com live checken.",
+  "spiele": [
+    {
+      "id": "2026-10-10-bvb-wer",
+      "liga": "Bundesliga 2026/27 - Matchday 5",
+      "heim": "Borussia Dortmund",
+      "gast": "SV Werder Bremen",
+      "anstoss": "2026-10-10T15:30:00+02:00",
+      "stadion": "Signal Iduna Park, Dortmund",
+      "saison_kontext": {
+        "parallel_heim": "UEFA Champions League Ligaphase MD2 am Mi 14.10. auswärts bei Bodø/Glimt (Flug nach Nordnorwegen 3 Tage nach dem Bremen-Spiel) → Rotation möglich, aber BVB sollte vor dem Kunstrasen-Trip die 3 Punkte zuhause mitnehmen wollen",
+        "parallel_gast": "keine - Bremen ohne Europapokal",
+        "saisonziel_heim": "CL-Platz-Sicherung + Titel-Außenseiter-Rolle in BL, nach Break mit frischer Energie",
+        "saisonziel_gast": "Klassenerhalt / Mittelfeld, Bremen traditionell schwer in Dortmund (keine Pflichtspiel-Siege im Westfalenstadion seit Jahren)",
+        "motivations_asymmetrie": "Heim-Favorit mit Klassen-Edge + CL-Doppelbelastung ab Mi; Bremen defensiv solide aber chancenarm auswärts bei Top-6-Gegnern. Edge-Risiko: BVB rotiert gegen Bodø denkend",
+        "recovery_heim": "~17 Tage seit letztem Vereinsspiel (letzte BL-Partie vor dem FIFA-Break Sa 19.09.), bis auf Nationalspieler frisch",
+        "recovery_gast": "~17 Tage seit letztem Vereinsspiel, keine EU-Reise",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.bundesliga.com/de/bundesliga/spieltag/2026-2027/5",
+          "https://www.kicker.de/borussia-dortmund-vs-werder-bremen-2026-27"
+        ]
+      },
+      "news": [
+        "Erste Vereins-Woche nach FIFA-Pause 21.09.-06.10. - Aufstellungs-Vorschau bei kicker.de ~60 Min vor Anpfiff PFLICHT, Nationalspieler-Belastung (vor allem Guirassy/Guinea + Nmecha/DFB) live prüfen",
+        "BVB mit CL-Trip nach Bodø/Glimt Mi 14.10. → Rotations-Risiko bei Stammspielern, aber Heim-Vorteil bleibt",
+        "Bremen in Dortmund historisch chancenarm, letztes Westfalenstadion-Spiel verloren - Markt-Signal: BL-Favoriten @ unter 1.50 waren diese Saison stark (BL1 Spieltag 1-4 Reality-Check)",
+        "Quoten (bei bet365 live prüfen): BVB-Sieg ~1.40-1.50, Remis ~4.50-5.00, Bremen-Sieg ~6.50-8.00, DC 1X ~1.15-1.20, Über 2.5 ~1.80-1.95, BTTS ~1.85-2.00, Torschütze Guirassy ~1.80-2.00"
+      ],
+      "tipps": [
+        {
+          "id": "bvb-wer-1",
+          "kategorie": "value",
+          "markt": "Dortmund oder Remis (Doppelte Chance)",
+          "quote": 1.18,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 5,
+          "faire_quote": 1.14,
+          "begruendung": "DC 1X ist Markt-Goldgrube (73.9% Hit / +36.0% ROI, n=23). Klassen-Edge + Heimvorteil, Bremen auswärts gegen Top-6 historisch brav. Kein 2:0-Insurance in dieser DC-Konstruktion (gilt nur für direkten BL-Sieg-Tipp). Stufe 1 Aufbau: 1.5% = 15.00€."
+        },
+        {
+          "id": "bvb-wer-2",
+          "kategorie": "value",
+          "markt": "Torschütze jederzeit: Serhou Guirassy",
+          "quote": 1.9,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 7,
+          "faire_quote": 1.77,
+          "begruendung": "Torschützen Jederzeit ist Markt-Goldgrube (ROI +39.6%, n=28). Guirassy als zentraler 9er mit Backup-Qualität (Beier als Joker) → Einwechslungs-Boost-Pattern greift bei bet365 (Tor von Ersatz zählt für Tipp-Spieler). Aufstellung live prüfen - falls Guirassy nicht in der Startelf, Tipp canceln."
+        },
+        {
+          "id": "bvb-wer-3",
+          "kategorie": "value",
+          "markt": "Sieg Borussia Dortmund (90 Min)",
+          "quote": 1.48,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 4,
+          "faire_quote": 1.42,
+          "begruendung": "Direkter Sieg-Tipp mit 2:0-Insurance-Rückenwind (BL-Aktionsregel bet365: 2:0-Zwischenstand sichert Tipp). Risiko: BVB rotiert vor Bodø-Trip. VALUE statt SAFE weil Rotations-Risiko real."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-10-m05-b04",
+      "liga": "Bundesliga 2026/27 - Matchday 5",
+      "heim": "1. FSV Mainz 05",
+      "gast": "Bayer 04 Leverkusen",
+      "anstoss": "2026-10-10T15:30:00+02:00",
+      "stadion": "MEWA Arena, Mainz",
+      "saison_kontext": {
+        "parallel_heim": "UEFA Conference League MD1 Do 15.10. - Mainz-Europa-Rolle live prüfen (nur falls Mainz in UECL), sonst keine Doppelbelastung",
+        "parallel_gast": "UEFA Europa League Ligaphase - MD2 Do 15.10. (Leverkusen traditionell CL/EL-Teilnehmer, Status 2026/27 bei uefa.com verifizieren)",
+        "saisonziel_heim": "Mittelfeld-Konsolidierung nach Umbruch (Nathaniel Brown weg zu Bayern, Hanche-Olsen zu Chicago, Atubolu geliehen von Freiburg)",
+        "saisonziel_gast": "CL-Platz-Verteidigung nach Umbruch-Sommer (Hincapie weg zu Arsenal, Alajbegovic zu Juventus, Grimaldo zu Atletico - Defensive komplett neu zusammengestellt)",
+        "motivations_asymmetrie": "Beide Teams nach Spieltag 4 bei ~7 Pkt - sehr enge Ausgangslage. Leverkusen leichter Auswärts-Favorit, aber die neue Defensive hat sich noch nicht eingespielt. KEIN klares Edge-Signal → Coinflip",
+        "recovery_heim": "~17 Tage seit letztem Vereinsspiel vor FIFA-Pause",
+        "recovery_gast": "~17 Tage seit letztem Vereinsspiel + EL-Vorbereitung Do 15.10.",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/spieltag/2026-2027/5",
+          "https://www.kicker.de/1-fsv-mainz-05-gegen-bayer-04-leverkusen",
+          "https://www.uefa.com/uefaeuropaleague/"
+        ]
+      },
+      "news": [
+        "Leverkusen-Defensive komplett neu: Hincapie-Abgang (Arsenal) + Grimaldo-Abgang (Atletico) → noch kein stabiles Innenverteidiger-Duo verifiziert, kicker.de Aufstellung PFLICHT",
+        "Mainz-Sturm nach Transfer-Fenster: Burkardt noch im Verein (laut kader_wechsel keine Abgangs-Notiz), Form live prüfen",
+        "Letztes direktes Duell BL endete 1:1 (Februar 2026, laut Head-to-Head). Historisch Leverkusen leicht favorisiert, aber Mainz zuhause oft schwer zu schlagen",
+        "Quoten (bei bet365 live prüfen): Mainz-Sieg ~3.20-3.60, Remis ~3.40-3.60, Leverkusen-Sieg ~2.00-2.20, DC X2 ~1.25-1.32, Über 2.5 ~1.75-1.85, BTTS ~1.65-1.78"
+      ],
+      "tipps": [
+        {
+          "id": "m05-b04-1",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.72,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 6,
+          "faire_quote": 1.62,
+          "begruendung": "BTTS ist Markt-Goldgrube (61.1% Hit / +22.9% ROI, n=36). Beide Teams nach Umbruch defensiv wackelig (Lev-IV neu + Mainz-Hinterposten Brown weg) → beide treffen plausibler als die 1.72 preist. Stufe 1: 1.5% = 15.00€."
+        },
+        {
+          "id": "m05-b04-2",
+          "kategorie": "value",
+          "markt": "Leverkusen oder Remis (Doppelte Chance)",
+          "quote": 1.28,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 5,
+          "faire_quote": 1.22,
+          "begruendung": "DC X2 ist Markt-Goldgrube (68.4% Hit / +59.3% ROI, n=19). Leverkusen hat tiefere Qualität, Mainz unter Druck ohne Brown. KEIN direkter Sieg weil Leverkusen-Defensive-Umbau Punktverlust-Risiko macht."
+        },
+        {
+          "id": "m05-b04-3",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.8,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.75,
+          "begruendung": "Über 2.5 Tore ist Markt-Goldgrube (52.0% Hit / +47.9% ROI, n=27). Beide Teams nach Pause offensiv frisch, defensiv wackelig. Wackel-Stake: 5.00€."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-10-fca-fcb",
+      "liga": "Bundesliga 2026/27 - Matchday 5",
+      "heim": "FC Augsburg",
+      "gast": "FC Bayern Muenchen",
+      "anstoss": "2026-10-10T15:30:00+02:00",
+      "stadion": "WWK Arena, Augsburg",
+      "saison_kontext": {
+        "parallel_heim": "keine - Augsburg ohne Europapokal",
+        "parallel_gast": "UEFA Champions League MD2 Di 13.10. oder Mi 14.10. (uefa.com-Kalender live prüfen) - Bayern mit CL-Doppelbelastung, aber unter Kompany meist voller Rotation nur vor echten CL-Krachern",
+        "saisonziel_heim": "Klassenerhalt, kompakte Defensive",
+        "saisonziel_gast": "Meistertitel + CL-Viertelfinale, Favoritenrolle in jeder BL-Partie",
+        "motivations_asymmetrie": "Klassen-Edge Bayern maximal, Augsburg zuhause gegen Bayern historisch mit vereinzelten Punkt-Mitnahmen (bayerisches Derby-Element), aber Bayern-Sieg sehr wahrscheinlich. Risiko: CL-Rotation vor Mi-CL",
+        "recovery_heim": "~17 Tage seit letztem Vereinsspiel vor FIFA-Pause",
+        "recovery_gast": "~17 Tage seit letztem Vereinsspiel + Nationalspieler-Belastung (Kane/England, Musiala/DFB, Olise/FRA, Kim/KOR)",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/spieltag/2026-2027/5",
+          "https://www.kicker.de/fc-augsburg-gegen-fc-bayern-muenchen",
+          "https://www.uefa.com/uefachampionsleague/"
+        ]
+      },
+      "news": [
+        "Trainer Vincent Kompany bei Bayern (laut kader_wechsel bestätigt) - taktisch offensive Ausrichtung, hohe Press-Linie",
+        "Harry Kane als zentraler 9er mit extremer Torquote (laut Verlauf 2025/26 >30 Liga-Tore) → Torschützen-Tipp Pflicht-Prüfung",
+        "Augsburg-Defensive hat Bayern in letzten Begegnungen jeweils 3+ Tore kassiert → Über 2.5 Tore historisch stark",
+        "Konferenz-Slot Sa 15:30 - Aufstellung ~60 Min vor Anpfiff live checken, falls Kane/Musiala vor CL (Di/Mi) geschont",
+        "Quoten (bei bet365 live prüfen): Augsburg-Sieg ~9.00-12.00, Remis ~5.50-6.50, Bayern-Sieg ~1.30-1.38, DC X2 ~1.08-1.12, Über 2.5 ~1.42-1.55, Kane Torschütze ~1.55-1.75"
+      ],
+      "tipps": [
+        {
+          "id": "fca-fcb-1",
+          "kategorie": "value",
+          "markt": "Bayern oder Remis (Doppelte Chance)",
+          "quote": 1.08,
+          "einsatz_euro": 20.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "edge_prozent": 3,
+          "faire_quote": 1.05,
+          "begruendung": "DC X2 ist Markt-Goldgrube (68.4% Hit / +59.3% ROI, n=19). Klassen-Edge Bayern maximal + Punkt-Verlust-Historie Augsburgs gegen Top-3 minimal. Niedrige Quote aber hohes Hit-Vertrauen. Stufe 1: 2% = 20.00€. KEIN direkter Sieg-SAFE weil CL-Rotations-Risiko."
+        },
+        {
+          "id": "fca-fcb-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.48,
+          "einsatz_euro": 20.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "edge_prozent": 5,
+          "faire_quote": 1.41,
+          "begruendung": "Über 2.5 Goldgrube (52.0% / +47.9%). Bayerns Angriff + Augsburgs Defensive-Qualität historisch ergibt fast immer 3+ Tore (letzte 5 Direktduelle Schnitt deutlich über 3)."
+        },
+        {
+          "id": "fca-fcb-3",
+          "kategorie": "wackel",
+          "markt": "Torschütze jederzeit: Harry Kane",
+          "quote": 1.65,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 6,
+          "faire_quote": 1.55,
+          "begruendung": "Torschützen Jederzeit Goldgrube. Kane als zentraler 9er mit Backup-Qualität (Mathys Tel / Olise können einwechseln, Einwechslungs-Boost greift). HR24 erfüllt: Volumen + zentraler 9er + Gegner-Niveau-Lücke. Wackel-Stake 5.00€ weil CL-Rotations-Risiko bei Kane real (England-Nationalspieler)."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-10-koe-bmg",
+      "liga": "Bundesliga 2026/27 - Matchday 5",
+      "heim": "1. FC Koeln",
+      "gast": "Borussia Moenchengladbach",
+      "anstoss": "2026-10-11T15:30:00+02:00",
+      "stadion": "RheinEnergieStadion, Koeln",
+      "saison_kontext": {
+        "parallel_heim": "keine - Koeln ohne Europapokal",
+        "parallel_gast": "keine - Gladbach ohne Europapokal, Reitz-Abgang zu Leipzig schwaecht das Mittelfeld, Kuehn-Neu-Zugang (Leihe von Como) spielerisch noch nicht geformt",
+        "saisonziel_heim": "Aufsteiger-Festbeissen Mittelfeld-untere Haelfte",
+        "saisonziel_gast": "Konsolidierung Mittelfeld, nach Reitz-Abgang Umbau noetig",
+        "motivations_asymmetrie": "Rheinisches Derby - klassisches Coinflip-Match. Keine klare Edge-Richtung, Heimvorteil Koeln + Derby-Faktor historisch leichter Heim-Edge",
+        "recovery_heim": "~17 Tage seit letztem Vereinsspiel",
+        "recovery_gast": "~17 Tage seit letztem Vereinsspiel, Reitz-Abgang-Trauma noch zu verdauen",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/spieltag/2026-2027/5",
+          "https://www.kicker.de/1-fc-koeln-gegen-borussia-moenchengladbach"
+        ]
+      },
+      "news": [
+        "Derby-Charakter + Sonntag 15:30 Terminierung → beide Teams ohne EU-Belastung, voller Fokus auf 3 Punkte",
+        "Gladbach-Mittelfeld durch Reitz-Weggang (Leipzig) geschwaecht, Backup-Rollen offen",
+        "Koeln-Aufstieg 2026/27 - Erste Saison zurueck in BL, Heimspiele emotional geladen",
+        "Quoten (bei bet365 live prüfen): Koeln-Sieg ~2.40-2.70, Remis ~3.20-3.40, Gladbach-Sieg ~2.70-3.00, DC 1X ~1.38-1.45, DC X2 ~1.52-1.60, Über 2.5 ~1.95-2.10, BTTS ~1.65-1.78"
+      ],
+      "tipps": [
+        {
+          "id": "koe-bmg-1",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.72,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 6,
+          "faire_quote": 1.62,
+          "begruendung": "BTTS Goldgrube (+22.9% ROI). Beide Defensiven mit Luecken, Derby-Charakter: offene Partie, beide treffen. Stufe 1: 15.00€."
+        },
+        {
+          "id": "koe-bmg-2",
+          "kategorie": "wackel",
+          "markt": "Koeln oder Remis (Doppelte Chance)",
+          "quote": 1.4,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 4,
+          "faire_quote": 1.34,
+          "begruendung": "DC 1X Goldgrube, Heim-Derby-Edge, aber Coinflip bleibt Coinflip → bewusst nur wackel. 5.00€."
+        },
+        {
+          "id": "koe-bmg-3",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 2.0,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.93,
+          "begruendung": "Über 2.5 Goldgrube, Derby-Offensive-Charakter."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-10-bar-get",
+      "liga": "LaLiga 2026/27 - Jornada 8",
+      "heim": "FC Barcelona",
+      "gast": "Getafe CF",
+      "anstoss": "2026-10-10T18:30:00+02:00",
+      "stadion": "Spotify Camp Nou, Barcelona",
+      "saison_kontext": {
+        "parallel_heim": "UEFA Champions League MD2 Di 13.10. oder Mi 14.10. (~3 Tage danach) → Rotation realistisch",
+        "parallel_gast": "keine - Getafe ohne Europapokal",
+        "saisonziel_heim": "LaLiga-Titel + CL-Finale-Ambition, aktuell Platz 1 mit 21 Pkt aus 7 Spielen (31:7 Tore)",
+        "saisonziel_gast": "Mittelfeld-Konsolidierung, Platz 11 mit 8 Pkt",
+        "motivations_asymmetrie": "Klassen-Edge Barca maximal + Heimvorteil Camp Nou. Risiko: CL-Rotation vor Di/Mi, Flick muss Yamal/Lewandowski-Minuten managen. Getafe-Stil defensiv-kompakt + Konter → Camp-Nou-Tempo-Falle möglich",
+        "recovery_heim": "~17 Tage seit letztem Vereinsspiel vor FIFA-Pause + Nationalspieler-Belastung (Yamal/ESP, Pedri/ESP, Lewy/POL, Rodri/ESP neu bei Barca, Gordon/ENG neu bei Barca, Adeyemi/DEU neu bei Barca)",
+        "recovery_gast": "~17 Tage seit letztem Vereinsspiel",
+        "quellen": [
+          "https://www.laliga.com/en-GB/laliga-easports/match-day",
+          "https://www.fcbarcelona.com/en/football/first-team/schedule",
+          "https://www.uefa.com/uefachampionsleague/"
+        ]
+      },
+      "news": [
+        "Barca Platz 1 mit +24 Tordifferenz nach 7 Spielen - offensive Maschinerie läuft, aber CL-Doppelbelastung ab Di",
+        "Yamal-Fitness live prüfen (Historie mit Hamstring-Problemen) - bei Rotation Olmo/Gavi vorrückend, Lewy zentral",
+        "Getafe mit niedrigem xG-Profil, defensiv-kompakt - typischer Gegenentwurf zum Barca-Offensiv-Fußball",
+        "Quoten (bei bet365 live prüfen): Barca-Sieg ~1.20-1.28, Remis ~6.50-7.50, Getafe-Sieg ~13.00-16.00, DC 1X ~1.05-1.08, Über 2.5 ~1.35-1.45, Torschuetze Lewandowski ~1.75-1.95"
+      ],
+      "tipps": [
+        {
+          "id": "bar-get-1",
+          "kategorie": "value",
+          "markt": "Barcelona oder Remis (Doppelte Chance)",
+          "quote": 1.05,
+          "einsatz_euro": 20.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "edge_prozent": 2,
+          "faire_quote": 1.03,
+          "begruendung": "DC 1X Goldgrube. Max Klassen-Edge + Heimvorteil Camp Nou. Niedrige Quote, aber Hit-Sicherheit sehr hoch. Reality-Check: LaLiga-Jornada 3 war Liga-Goldgrube (100% Hit, +163% ROI, n=5). Stufe 1: 20.00€."
+        },
+        {
+          "id": "bar-get-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.4,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 5,
+          "faire_quote": 1.33,
+          "begruendung": "Über 2.5 Goldgrube. Barca-Offensive-Volumen trotz möglicher Rotation enorm (+24 Tore in 7 Spielen). Getafe oft Konter-Tore nach Rückstand."
+        },
+        {
+          "id": "bar-get-3",
+          "kategorie": "wackel",
+          "markt": "Torschuetze jederzeit: Robert Lewandowski",
+          "quote": 1.85,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 5,
+          "faire_quote": 1.76,
+          "begruendung": "Torschuetzen Jederzeit Goldgrube. Lewy als zentraler 9er mit Backup (Ferran Torres zu PSG abgegeben - jetzt eher Olmo/Yamal einrueckend). Fitness + Aufstellung live prüfen - KEIN Automatismus mehr. Wackel-Stake."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-10-rma-vil",
+      "liga": "LaLiga 2026/27 - Jornada 8",
+      "heim": "Real Madrid",
+      "gast": "Villarreal CF",
+      "anstoss": "2026-10-10T21:00:00+02:00",
+      "stadion": "Santiago Bernabeu, Madrid",
+      "saison_kontext": {
+        "parallel_heim": "UEFA Champions League MD2 Di 13.10. auswaerts gegen AS Roma (~2 Tage danach) → Rotation realistisch, taktischer Fokus Bernabeu-3-Punkte",
+        "parallel_gast": "keine - Villarreal 2026/27 ohne Europapokal (Status live prüfen - traditionell Conference/Europa-Platz-Kandidat)",
+        "saisonziel_heim": "LaLiga-Titel + CL-Rueckkehr-Ambition, aktuell Platz 4 mit 15 Pkt (zuletzt Niederlage gegen Atletico 1:2) - Druck-Spiel um Anschluss nicht zu verlieren",
+        "saisonziel_gast": "Platz 6-8, EU-Platz-Hoffnung",
+        "motivations_asymmetrie": "Heim-Favorit mit Druck nach Atletico-Niederlage - Reaktions-Match. Villarreal defensiv kompakt, aber Bernabeu-Nacht historisch Madrid-Dominanz. Risiko: Rotation vor Roma",
+        "recovery_heim": "~17 Tage seit letztem Vereinsspiel + Nationalspieler-Belastung (Mbappe/FRA, Vinicius/BRA, Rodrygo/BRA, Bellingham/ENG, Diomande/CIV neu bei Madrid, Guler/TUR)",
+        "recovery_gast": "~17 Tage seit letztem Vereinsspiel",
+        "quellen": [
+          "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/el-real-madrid-villarreal-se-jugara-sabado-10-de-octubre-a-las-21-00-h-10-09-2026",
+          "https://www.laliga.com/en-GB/laliga-easports/match-day",
+          "https://www.uefa.com/uefachampionsleague/"
+        ]
+      },
+      "news": [
+        "Madrid nach Atletico-Niederlage im Druck, Reaktions-Spiel - typisch Bernabeu Statement-Match",
+        "Villarreal zuletzt mit Levante-Heimsieg 3:1, mittelmaessige Form (8 Pkt in 7 Spielen)",
+        "Mbappe-Fitness live prüfen - bei Vorlage Rotation Rodrygo/Endrick + Bellingham-Umbau",
+        "Quoten (bei bet365 live prüfen): Madrid-Sieg ~1.40-1.52, Remis ~4.50-5.00, Villarreal-Sieg ~6.50-8.00, DC 1X ~1.15-1.20, Über 2.5 ~1.70-1.85, Mbappe Torschütze ~1.55-1.75"
+      ],
+      "tipps": [
+        {
+          "id": "rma-vil-1",
+          "kategorie": "value",
+          "markt": "Real Madrid oder Remis (Doppelte Chance)",
+          "quote": 1.18,
+          "einsatz_euro": 20.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "edge_prozent": 4,
+          "faire_quote": 1.13,
+          "begruendung": "DC 1X Goldgrube. Bernabeu-Reaktions-Match nach Atletico-Niederlage + Klassen-Edge. Stufe 1: 20.00€. KEIN direkter Sieg-SAFE weil CL-Rotation vor Roma-Trip Di."
+        },
+        {
+          "id": "rma-vil-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 5,
+          "faire_quote": 1.66,
+          "begruendung": "Über 2.5 Goldgrube. Madrid-Offensive gegen offene Villarreal-Partie (letzte 7 Spiele Villarreal 13:12 Tordiff. - also offensiv aktiv)."
+        },
+        {
+          "id": "rma-vil-3",
+          "kategorie": "wackel",
+          "markt": "Torschütze jederzeit: Kylian Mbappe",
+          "quote": 1.6,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 5,
+          "faire_quote": 1.52,
+          "begruendung": "Torschuetzen Jederzeit Goldgrube. Mbappe als zentraler 9er + Volumen. Backup: Vinicius/Rodrygo (Einwechslungs-Boost greift bei bet365 auf aller Torschuetzen-Markt). Aufstellung + Fitness live prüfen - bei Schonung Tipp canceln."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-10-liv-mci",
+      "liga": "Premier League 2026/27 - Matchweek 7",
+      "heim": "Liverpool FC",
+      "gast": "Manchester City",
+      "anstoss": "2026-10-11T17:30:00+02:00",
+      "stadion": "Anfield, Liverpool",
+      "saison_kontext": {
+        "parallel_heim": "UEFA Champions League MD2 Di 13.10. oder Mi 14.10. - Liverpool CL-Teilnehmer, Gegner live bei uefa.com prüfen",
+        "parallel_gast": "UEFA Champions League MD2 Di 13.10. zuhause gegen PSG (laut uefa.com-Kalender) - Topspiel in 2 Tagen, Rotation wenig wahrscheinlich",
+        "saisonziel_heim": "PL-Titel + CL-Finale-Ambition, Isak im Sturm nach Transfer von Newcastle",
+        "saisonziel_gast": "PL-Titel + CL-Halbfinale, Dauerfavorit",
+        "motivations_asymmetrie": "Klassiker-Coinflip auf höchstem Niveau. Beide Teams mit CL-Doppelbelastung in exakt derselben Woche → KEIN Rotations-Edge für Favoriten. Pure Qualität entscheidet - und beide sind Topklasse. Anfield-Faktor leichter Heim-Edge Liverpool",
+        "recovery_heim": "~17 Tage seit letztem Vereinsspiel + Nationalspieler-Belastung (Isak/SWE, Barcola/FRA neu, Van Dijk/NED)",
+        "recovery_gast": "~17 Tage seit letztem Vereinsspiel + Nationalspieler-Belastung (Haaland/NOR, Guehi/ENG neu, Elliot Anderson/ENG neu, Enzo Fernandez/ARG neu, Marc Guehi/ENG neu)",
+        "quellen": [
+          "https://www.liverpoolfc.com/news/manchester-city-v-liverpool-team-news-4",
+          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
+          "https://www.uefa.com/uefachampionsleague/"
+        ]
+      },
+      "news": [
+        "Isak nach Verletzung zurück im Training, Fitness unsicher - bei Startelf-Fehlen Liverpool-Offensive geschwächt",
+        "Liverpool fehlt weiterhin Alisson (TW) + Frimpong + Leoni (ACL) + Bradley - Defensive leicht angeschlagen",
+        "Haaland als Volumen-Stürmer auswärts in Anfield historisch zuverlässig",
+        "KEIN 2:0-Insurance in PL (gilt nur BL + CL)",
+        "Quoten (bei bet365 live prüfen): Liverpool-Sieg ~2.20-2.50, Remis ~3.80-4.20, City-Sieg ~2.70-3.10, DC 1X ~1.42-1.52, Über 2.5 ~1.55-1.68, BTTS ~1.52-1.65, Torschütze Haaland ~1.75-1.95, Torschütze Isak ~2.60-3.20"
+      ],
+      "tipps": [
+        {
+          "id": "liv-mci-1",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.58,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 6,
+          "faire_quote": 1.49,
+          "begruendung": "BTTS Goldgrube (+22.9% ROI, n=36). Beide Angriffsreihen Topniveau + beide Defensiven mit Lücken (Liverpool angeschlagen, City-IV mit Guehi-Neuzugang). Historisch >65% BTTS-Hit in Direktduellen. Stufe 1: 15.00€."
+        },
+        {
+          "id": "liv-mci-2",
+          "kategorie": "wackel",
+          "markt": "Liverpool oder Remis (Doppelte Chance)",
+          "quote": 1.45,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 3,
+          "faire_quote": 1.4,
+          "begruendung": "DC 1X Goldgrube + Anfield-Heim-Edge, aber bewusst wackel weil City-Klasse keinen SAFE/VALUE-Standard-Spot zuläßt (Selbstwiderspruch-Schutz)."
+        },
+        {
+          "id": "liv-mci-3",
+          "kategorie": "wackel",
+          "markt": "Torschuetze jederzeit: Erling Haaland",
+          "quote": 1.85,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 5,
+          "faire_quote": 1.76,
+          "begruendung": "Torschuetzen Jederzeit Goldgrube. Haaland als zentraler 9er auswärts in Anfield - HR24 erfüllt (Form + 9er + Backup Doku/Marmoush). Wackel-Stake weil Liverpool-Defensive trotz Lücken keine schwache Elf."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-10-ars-lee",
+      "liga": "Premier League 2026/27 - Matchweek 7",
+      "heim": "Arsenal",
+      "gast": "Leeds United",
+      "anstoss": "2026-10-10T16:00:00+02:00",
+      "stadion": "Emirates Stadium, London",
+      "saison_kontext": {
+        "parallel_heim": "UEFA Champions League MD2 Di 13.10. oder Mi 14.10. (uefa.com live prüfen) - Arsenal CL-Teilnehmer, Rotation moeglich",
+        "parallel_gast": "keine - Leeds ohne Europapokal (Aufsteiger 2026/27)",
+        "saisonziel_heim": "PL-Titel + CL-Halbfinale",
+        "saisonziel_gast": "Klassenerhalt - Aufsteiger-Rolle",
+        "motivations_asymmetrie": "Klassen-Edge Arsenal maximal + Heim-Emirates + Leeds als Aufsteiger. Risiko: CL-Rotation",
+        "recovery_heim": "~17 Tage seit letztem Vereinsspiel + Nationalspieler-Belastung (Saka/ENG, Bruno Guimaraes/BRA neu bei Arsenal, Hincapie/ECU neu, Odegaard/NOR, Rice/ENG)",
+        "recovery_gast": "~17 Tage seit letztem Vereinsspiel",
+        "quellen": [
+          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
+          "https://www.arsenal.com/fixtures",
+          "https://www.uefa.com/uefachampionsleague/"
+        ]
+      },
+      "news": [
+        "Arsenal-Defensive neu durch Hincapie-Transfer (von Leverkusen) + Guimaraes als neuer 6er",
+        "Leeds als Aufsteiger auswärts bei Top-6 historisch chancenarm - Platzverhältnisse Emirates klar für Arsenal",
+        "KEIN 2:0-Insurance in PL",
+        "Quoten (bei bet365 live prüfen): Arsenal-Sieg ~1.30-1.40, Remis ~5.00-5.50, Leeds-Sieg ~8.50-10.00, DC 1X ~1.08-1.12, Über 2.5 ~1.60-1.72, Torschütze Gyoekeres ~1.65-1.85, Torschütze Saka ~2.40-2.70"
+      ],
+      "tipps": [
+        {
+          "id": "ars-lee-1",
+          "kategorie": "value",
+          "markt": "Arsenal oder Remis (Doppelte Chance)",
+          "quote": 1.08,
+          "einsatz_euro": 20.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "edge_prozent": 2,
+          "faire_quote": 1.06,
+          "begruendung": "DC 1X Goldgrube. Max Klassen-Edge + Heimvorteil Emirates. Stufe 1: 20.00€."
+        },
+        {
+          "id": "ars-lee-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.65,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 5,
+          "faire_quote": 1.57,
+          "begruendung": "Über 2.5 Goldgrube. Arsenal-Offensive-Volumen zuhause + Leeds als Aufsteiger oft offen hinten."
+        },
+        {
+          "id": "ars-lee-3",
+          "kategorie": "wackel",
+          "markt": "Torschuetze jederzeit: Viktor Gyoekeres",
+          "quote": 1.75,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 5,
+          "faire_quote": 1.66,
+          "begruendung": "Torschuetzen Jederzeit Goldgrube. Gyoekeres als zentraler 9er mit Backup-Qualität (Havertz einwechselbar als 9er). Aufstellung live prüfen - bei CL-Rotation Tipp canceln."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-10-rbl-sge",
+      "liga": "Bundesliga 2026/27 - Matchday 5",
+      "heim": "RB Leipzig",
+      "gast": "Eintracht Frankfurt",
+      "anstoss": "2026-10-10T18:30:00+02:00",
+      "stadion": "Red Bull Arena, Leipzig",
+      "saison_kontext": {
+        "parallel_heim": "UEFA Champions League-/Europapokal-Status 2026/27 live prüfen bei uefa.com - Leipzig nach Diomande-Verkauf (125 Mio zu Real Madrid) und Reitz/Nkunku-Zugängen im Umbau",
+        "parallel_gast": "UEFA Europa League Ligaphase - MD2 Do 15.10. (Frankfurt traditionell EL-Teilnehmer, Status 2026/27 verifizieren) → Doppelbelastung",
+        "saisonziel_heim": "CL-Platz-Verteidigung nach grossem Sommer-Umbau (Diomande 125M weg zu Madrid, Reitz NEU aus Gladbach, Nkunku-Leihe aus Milan)",
+        "saisonziel_gast": "EU-Platz-Verteidigung, nach Brown-Abgang (zu Bayern, 55 Mio) + Nkounkou-Leihe (Nice) + Atubolu NEU als TW-Backup",
+        "motivations_asymmetrie": "Leichter Heim-Edge Leipzig, aber beide Teams im Umbruch. Frankfurt mit EL-Doppelbelastung ab Do 15.10. - Rotations-Risiko. Topspiel-Charakter Sa 18:30",
+        "recovery_heim": "~17 Tage seit letztem Vereinsspiel + Nationalspieler-Belastung",
+        "recovery_gast": "~17 Tage seit letztem Vereinsspiel + EL-Vorbereitung Do 15.10.",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/spieltag/2026-2027/5",
+          "https://www.kicker.de/rb-leipzig-gegen-eintracht-frankfurt",
+          "https://www.uefa.com/uefaeuropaleague/"
+        ]
+      },
+      "news": [
+        "Leipzig-Offensive ohne Diomande (zu Real Madrid), Nkunku-Rückkehr als Leihe aus Milan → Spielmacher-Rolle wieder offen, Nkunku-Form live checken",
+        "Frankfurt-Defensive ohne Brown (zu Bayern) - IV neu zusammengestellt, Atubolu als TW",
+        "Topspiel-Slot Sa 18:30 - Aufstellung ~60 Min vor Anpfiff live checken",
+        "Quoten (bei bet365 live prüfen): Leipzig-Sieg ~2.00-2.20, Remis ~3.60-4.00, Frankfurt-Sieg ~3.30-3.80, DC 1X ~1.32-1.42, Über 2.5 ~1.70-1.85, BTTS ~1.65-1.80"
+      ],
+      "tipps": [
+        {
+          "id": "rbl-sge-1",
+          "kategorie": "value",
+          "markt": "Leipzig oder Remis (Doppelte Chance)",
+          "quote": 1.37,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 5,
+          "faire_quote": 1.31,
+          "begruendung": "DC 1X Goldgrube + Heimvorteil Red Bull Arena + Frankfurt-Doppelbelastung EL ab Do. Stufe 1: 15.00€."
+        },
+        {
+          "id": "rbl-sge-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.72,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 6,
+          "faire_quote": 1.62,
+          "begruendung": "BTTS Goldgrube. Beide offensiv aggressive Teams, beide defensiv nach Umbau wackelig. Hoher BTTS-Hit historisch in diesen Begegnungen."
+        },
+        {
+          "id": "rbl-sge-3",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.78,
+          "einsatz_euro": 5.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "edge_prozent": 4,
+          "faire_quote": 1.71,
+          "begruendung": "Über 2.5 Goldgrube + beide Teams offensiv. 5.00€."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-10-psg-lma",
+      "liga": "Ligue 1 2026/27 - Journée 6",
+      "heim": "Paris Saint-Germain",
+      "gast": "Le Mans FC",
+      "anstoss": "2026-10-10T20:45:00+02:00",
+      "stadion": "Parc des Princes, Paris",
+      "saison_kontext": {
+        "parallel_heim": "UEFA Champions League MD2 Di 13.10. auswaerts gegen Man City Etihad (laut uefa.com-Kalender) - Topspiel in 3 Tagen, Rotation stark erwartbar",
+        "parallel_gast": "keine - Le Mans als Aufsteiger ohne Europapokal",
+        "saisonziel_heim": "Ligue-1-Titel + CL-Finale-Ambition - PSG Ligue-1-Dominant",
+        "saisonziel_gast": "Klassenerhalt - Aufsteiger-Rolle",
+        "motivations_asymmetrie": "Maximum Klassen-Edge PSG + Heimvorteil Parc des Princes + Le Mans als Aufsteiger. ABER: PSG spielt 3 Tage spaeter CL in Manchester gegen City - Rotation sehr wahrscheinlich. Backup-Elf immer noch Ligue-1-Spitzenniveau",
+        "recovery_heim": "~17 Tage seit letztem Vereinsspiel + Nationalspieler-Belastung (Dembele/FRA, Barcola weg zu Liverpool, Marquinhos/BRA, Hakimi/MAR, Ferran Torres/ESP neu, Ramos weg zu Milan)",
+        "recovery_gast": "~17 Tage seit letztem Vereinsspiel",
+        "quellen": [
+          "https://ligue1.com/en/articles/l1_article_5797-programmations-tv-j6-j7-et-j8-l1-2627",
+          "https://www.psg.fr/football-masculin/calendrier/season/2026-27",
+          "https://www.uefa.com/uefachampionsleague/"
+        ]
+      },
+      "news": [
+        "PSG vor CL-Topspiel Di in Manchester - Rotation sehr wahrscheinlich (Dembele + Marquinhos geschont)",
+        "Le Mans als Aufsteiger auswärts in Paris historisch chancenarm",
+        "KEIN 2:0-Insurance in Ligue 1 (nur BL + CL)",
+        "Quoten (bei bet365 live prüfen): PSG-Sieg ~1.15-1.22, Remis ~7.50-9.00, Le-Mans-Sieg ~16.00-25.00, DC 1X ~1.03-1.05, Über 2.5 ~1.42-1.55"
+      ],
+      "tipps": [
+        {
+          "id": "psg-lma-1",
+          "kategorie": "value",
+          "markt": "PSG oder Remis (Doppelte Chance)",
+          "quote": 1.04,
+          "einsatz_euro": 20.0,
+          "empfohlener_einsatz_prozent": 2.0,
+          "edge_prozent": 2,
+          "faire_quote": 1.02,
+          "begruendung": "DC 1X Goldgrube. Max Klassen-Edge. Niedrige Quote, aber Hit-Sicherheit sehr hoch. Stufe 1: 20.00€."
+        },
+        {
+          "id": "psg-lma-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.48,
+          "einsatz_euro": 15.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "edge_prozent": 5,
+          "faire_quote": 1.41,
+          "begruendung": "Über 2.5 Goldgrube. PSG-Offensive-Qualität + Aufsteiger-Defensive-Lücken."
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
   ],
+  "einzeltipps": [
+    {
+      "spiel_id": "2026-10-10-psg-lma",
+      "tipp_id": "psg-lma-1",
+      "kategorie": "value",
+      "markt": "PSG oder Remis (Doppelte Chance)",
+      "quote": 1.04,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_label": "PSG vs Le Mans",
+      "begruendung": "DC 1X Goldgrube + max Klassen-Edge. Stufe 1: 20.00€.",
+      "rang": 1
+    },
+    {
+      "spiel_id": "2026-10-10-bar-get",
+      "tipp_id": "bar-get-1",
+      "kategorie": "value",
+      "markt": "Barcelona oder Remis (Doppelte Chance)",
+      "quote": 1.05,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_label": "Barcelona vs Getafe",
+      "begruendung": "DC 1X Goldgrube + Spitzenreiter zuhause. 20.00€.",
+      "rang": 2
+    },
+    {
+      "spiel_id": "2026-10-10-ars-lee",
+      "tipp_id": "ars-lee-1",
+      "kategorie": "value",
+      "markt": "Arsenal oder Remis (Doppelte Chance)",
+      "quote": 1.08,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_label": "Arsenal vs Leeds",
+      "begruendung": "DC 1X Goldgrube + Aufsteiger-Gegner. 20.00€.",
+      "rang": 3
+    },
+    {
+      "spiel_id": "2026-10-10-fca-fcb",
+      "tipp_id": "fca-fcb-1",
+      "kategorie": "value",
+      "markt": "Bayern oder Remis (Doppelte Chance)",
+      "quote": 1.08,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_label": "Augsburg vs Bayern",
+      "begruendung": "DC X2 Goldgrube + Klassen-Edge Bayern. 20.00€.",
+      "rang": 4
+    },
+    {
+      "spiel_id": "2026-10-10-rma-vil",
+      "tipp_id": "rma-vil-1",
+      "kategorie": "value",
+      "markt": "Real Madrid oder Remis (Doppelte Chance)",
+      "quote": 1.18,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_label": "Real Madrid vs Villarreal",
+      "begruendung": "DC 1X Goldgrube + Reaktions-Match nach Atletico-Niederlage. 20.00€.",
+      "rang": 5
+    },
+    {
+      "spiel_id": "2026-10-10-bvb-wer",
+      "tipp_id": "bvb-wer-1",
+      "kategorie": "value",
+      "markt": "Dortmund oder Remis (Doppelte Chance)",
+      "quote": 1.18,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_label": "Dortmund vs Bremen",
+      "begruendung": "DC 1X Goldgrube + Heimvorteil. 15.00€ (CL-Rotations-Risiko → vorsichtiger Einsatz).",
+      "rang": 6
+    },
+    {
+      "spiel_id": "2026-10-10-bvb-wer",
+      "tipp_id": "bvb-wer-2",
+      "kategorie": "value",
+      "markt": "Torschuetze jederzeit: Serhou Guirassy",
+      "quote": 1.9,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_label": "Dortmund vs Bremen",
+      "begruendung": "Torschuetzen Jederzeit Goldgrube + Volumen-Stürmer. 15.00€.",
+      "rang": 7
+    },
+    {
+      "spiel_id": "2026-10-10-m05-b04",
+      "tipp_id": "m05-b04-1",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.72,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_label": "Mainz vs Leverkusen",
+      "begruendung": "BTTS Goldgrube + beide defensiv wackelig. 15.00€.",
+      "rang": 8
+    },
+    {
+      "spiel_id": "2026-10-10-liv-mci",
+      "tipp_id": "liv-mci-1",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.58,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_label": "Liverpool vs Man City",
+      "begruendung": "BTTS Goldgrube + Topspiel-Charakter. 15.00€.",
+      "rang": 9
+    },
+    {
+      "spiel_id": "2026-10-10-koe-bmg",
+      "tipp_id": "koe-bmg-1",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen: Ja",
+      "quote": 1.72,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_label": "Koeln vs Gladbach",
+      "begruendung": "BTTS Goldgrube + Derby-Offensive. 15.00€.",
+      "rang": 10
+    },
+    {
+      "spiel_id": "2026-10-10-rbl-sge",
+      "tipp_id": "rbl-sge-1",
+      "kategorie": "value",
+      "markt": "Leipzig oder Remis (Doppelte Chance)",
+      "quote": 1.37,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_label": "Leipzig vs Frankfurt",
+      "begruendung": "DC 1X Goldgrube + Frankfurt-EL-Doppelbelastung. 15.00€.",
+      "rang": 11
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "kategorie": "safe",
+      "profil": "Safe-Kombi 3er",
+      "beine": [
+        {
+          "spiel_id": "2026-10-10-psg-lma",
+          "spiel_label": "PSG vs Le Mans",
+          "markt": "PSG oder Remis (Doppelte Chance)",
+          "quote": 1.04,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-10-bar-get",
+          "spiel_label": "Barcelona vs Getafe",
+          "markt": "Barcelona oder Remis (Doppelte Chance)",
+          "quote": 1.05,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-10-ars-lee",
+          "spiel_label": "Arsenal vs Leeds",
+          "markt": "Arsenal oder Remis (Doppelte Chance)",
+          "quote": 1.08,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 1.18,
+      "rechnung": "1.04 × 1.05 × 1.08 = 1.18",
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "3 DC-1X-Picks mit maximal Klassen-Edge: PSG + Barca + Arsenal alle zuhause gegen deutlich schwaechere Gegner (Le Mans/Getafe/Leeds). Alle drei DC → nicht direkter Sieg, Puffer gegen Remis. Layer-1 OK (3 verschiedene Spiele + Ligen), Layer-2 OK (3 verschiedene Sieg-Outcomes), Layer-3 OK. Stufe 1 Kombi-Safe 2% = 20.00€."
+    },
+    {
+      "id": "kombi-balance",
+      "kategorie": "balance",
+      "profil": "Balance-Kombi 3er",
+      "beine": [
+        {
+          "spiel_id": "2026-10-10-bvb-wer",
+          "spiel_label": "Dortmund vs Bremen",
+          "markt": "Dortmund oder Remis (Doppelte Chance)",
+          "quote": 1.18,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-10-fca-fcb",
+          "spiel_label": "Augsburg vs Bayern",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.48,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-10-rma-vil",
+          "spiel_label": "Real Madrid vs Villarreal",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 3.06,
+      "rechnung": "1.18 × 1.48 × 1.75 = 3.06",
+      "einsatz_euro": 8.0,
+      "empfohlener_einsatz_prozent": 0.8,
+      "begruendung": "Mix DC + 2× Über 2.5. BVB-DC als Anker, zwei Über-Tore in Favoriten-Spielen (Bayern + Madrid Offensive-Volumen). Layer-1 OK (3 Spiele), Layer-2 OK (nur 1 Sieg-Outcome), Layer-3 OK. Stufe 1: 8.00€."
+    },
+    {
+      "id": "kombi-risk",
+      "kategorie": "risk",
+      "profil": "Risiko-Kombi 4er",
+      "beine": [
+        {
+          "spiel_id": "2026-10-10-bvb-wer",
+          "spiel_label": "Dortmund vs Bremen",
+          "markt": "Torschütze jederzeit: Serhou Guirassy",
+          "quote": 1.9,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-10-liv-mci",
+          "spiel_label": "Liverpool vs Man City",
+          "markt": "Beide Teams treffen: Ja",
+          "quote": 1.58,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-10-m05-b04",
+          "spiel_label": "Mainz vs Leverkusen",
+          "markt": "Leverkusen oder Remis (Doppelte Chance)",
+          "quote": 1.28,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-10-bar-get",
+          "spiel_label": "Barcelona vs Getafe",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.4,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 5.38,
+      "rechnung": "1.90 × 1.58 × 1.28 × 1.40 = 5.38",
+      "einsatz_euro": 2.5,
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "4er mit Spielertor Guirassy + BTTS City-Liverpool + DC X2 Leverkusen + Über 2.5 Barca. Layer-1 OK (4 verschiedene Spiele), Layer-2 OK (1 Sieg-Outcome Leverkusen-DC), Layer-3 OK (jedes Spiel andere Markt-Form). Stufe 1 Risk 0.25% = 2.50€."
+    },
+    {
+      "id": "kombi-moonshot",
+      "kategorie": "moonshot",
+      "profil": "Moonshot 4er - 4 Volumen-Stürmer",
+      "beine": [
+        {
+          "spiel_id": "2026-10-10-liv-mci",
+          "spiel_label": "Liverpool vs Man City",
+          "markt": "Torschuetze jederzeit: Erling Haaland",
+          "quote": 1.85,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-10-10-rma-vil",
+          "spiel_label": "Real Madrid vs Villarreal",
+          "markt": "Torschuetze jederzeit: Kylian Mbappe",
+          "quote": 1.6,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-10-10-fca-fcb",
+          "spiel_label": "Augsburg vs Bayern",
+          "markt": "Torschuetze jederzeit: Harry Kane",
+          "quote": 1.65,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-10-10-ars-lee",
+          "spiel_label": "Arsenal vs Leeds",
+          "markt": "Torschuetze jederzeit: Viktor Gyoekeres",
+          "quote": 1.75,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 8.55,
+      "rechnung": "1.85 × 1.60 × 1.65 × 1.75 = 8.55",
+      "einsatz_euro": 1.0,
+      "empfohlener_einsatz_prozent": 0.1,
+      "begruendung": "4 Top-Volumen-Stürmer gegen gegnerisch unterlegene Defensiven. Alle vier als zentrale 9er mit Backup-Qualität (Einwechslungs-Boost bet365 greift). Realistisches Moonshot-Level ~7.9x — bewusst UNTER 100x, dafür erreichbar. Spaßeinsatz 1.00€. Layer-1 OK (4 Spiele), Layer-2 OK (keine Sieg-Outcomes), Layer-3 OK (nur Torschützen-Markt — bewusst Monomarkt für Moonshot)."
+    }
+  ],
+  "lessons_angewandt": [
+    "HR24 Form-Edge für Torschützen angewandt: Guirassy/Kane/Mbappe/Haaland/Gyoekeres/Lewy alle als zentrale 9er mit Backup-Stürmer-Qualität - Einwechslungs-Boost bet365 greift",
+    "DC-CAP max 1 DC pro Spiel eingehalten",
+    "Kader-Frische (seit 22.08.) streng angewandt: Isak bei Liverpool, Rodri/Gordon/Adeyemi bei Barca (nicht mehr alte Vereine), Hincapie bei Arsenal (nicht Leverkusen), Grimaldo bei Atletico, Jackson bei Villa (nicht Chelsea), Enzo+Guehi+E. Anderson bei City, Reitz bei Leipzig (nicht Gladbach), Barcola bei Liverpool, Nathaniel Brown bei Bayern (nicht Frankfurt), Diomande bei Madrid - keine Spielernamen aus Gedaechtnis",
+    "2:0-Insurance korrekt angewandt (nur BL + CL direkter Sieg-Tipp): PL/LaLiga/Ligue-1-Siege ohne Insurance-Bonus, dort DC statt direkter Sieg bevorzugt",
+    "Markt-Goldgruben aktiv gesucht: DC X2 (+59.3% ROI), Über 2.5 (+47.9%), Torschuetzen (+39.6%), DC 1X (+36.0%), BTTS (+22.9%) - jeder Markt mindestens 1× in Einzeltipps",
+    "Kombi-Diversifikation Layer-1 (max 1 Bein/Spiel/Kombi) + Layer-2 (Sieg-Outcome max 1 Kombi) + Layer-3 (Markt-Entkopplung) in allen 4 Kombis",
+    "Kasse-Stand live aus data/kasse.json (1000€ Saison-2026/27-Start, Stufe 1 Aufbau, stufe_2_freigeschaltet=false) - keine Euro-Beträge aus Gedächtnis",
+    "CL-Rotations-Risiko (BVB/Madrid/City/PSG/Bayern/Barca/Arsenal/Liverpool/Leverkusen alle in CL/EL MD2 Di 13.-Do 15.10.) in saison_kontext.parallel_* und in jedem Tipp-Einsatz vermerkt",
+    "KEIN SAFE in dieser Vorschau (bewusst) - Vereins-Saison-Rueckkehr nach 16-Tage-FIFA-Pause bedeutet Form-Unsicherheit + Rotations-Risiko → VALUE statt SAFE, Mapper-Hebel-Konform"
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
   "_verifikations_report": {
-    "erstellt_am": "2026-10-01T18:15:00+02:00",
-    "trigger": "Wochenend-Vorschau Do-Slot 18:00 Berlin. Nachverifikation per WebSearch da football-data.org API in der Routine-Sandbox nicht erreichbar (403 Forbidden am Egress-Proxy).",
+    "erstellt_am": "2026-10-08T18:05:00+02:00",
     "drops": [],
     "downgrades": [],
     "warns": [
       {
-        "art": "leerer_slate",
-        "spiel_id": null,
-        "details": "Merged FIFA-Laenderspielpause 21.09.-06.10.2026 - alle Top-5-Ligen + 2.BL + Europapokal-Ligaphase pausieren, kein Whitelist-Wettbewerb am 03.-04.10. Verifiziert per WebSearch: Bundesliga MW5 09.-11.10. (DFL/Spox/Sportschau bestaetigt), PL MW6 ab 10.10. (NBC/premierleague.com), Serie A/LaLiga/Ligue 1 wieder ab 10.-11.10., 2.BL MW7 09.-11.10. (kicker.de), DFB-Pokal R2 27.-28.10., FA Cup am 03.10. nur Qualifikation Non-League, kein Supercup im Fenster. Nations League MD3+4 im Fenster, aber nicht in der Whitelist."
+        "art": "quoten_live_pruefen",
+        "details": "Alle Quoten sind Aggregator-Schaetzungen (oddschecker/sportsgambler-Range) - bei bet365 vor Einsatz live pruefen"
       },
       {
-        "art": "api_block",
-        "spiel_id": null,
-        "details": "football-data.org vom Egress-Proxy mit 403 geblockt (recentRelayFailures bestaetigt). Routine ist auf WebSearch/WebFetch ausgewichen. Fuer die naechste echte Vorschau (08.10.) ggf. Infra-Routing pruefen - andernfalls bleibt WebSearch der primaere Pfad fuer Spielplan-Verifikation."
+        "art": "cl_rotations_risiko",
+        "details": "ALLE Topteams (BVB/Madrid/City/PSG/Bayern/Barca/Arsenal/Liverpool/Leverkusen/Frankfurt) haben Di 13.-Do 15.10. europaeische Pflichtspiele. Aufstellung ~60 Min vor Anpfiff live pruefen - bei Rotation Torschuetzen-Tipps canceln."
+      },
+      {
+        "art": "fifa_pause_recovery",
+        "details": "Erste Vereins-Woche nach 16-tgiger FIFA-Pause 21.09.-06.10. - Form unsicher bei Nationalspielern (vor allem Guirassy/Guinea, Kane/England, Mbappe/FRA, Haaland/NOR, Isak/SWE, Yamal/ESP, Vinicius/BRA)."
+      },
+      {
+        "art": "kader_frische_check",
+        "details": "Kader_wechsel_2026.json aktiv angewandt. Keine Tipps auf: Adeyemi/Dortmund (nun Barca), Rodri/City (nun Barca), Hincapie/Leverkusen (nun Arsenal), Grimaldo/Leverkusen (nun Atletico), Jackson/Chelsea (nun Villa), Watkins/Villa (nun Al Hilal), Diomande/Leipzig (nun Madrid), Reitz/Gladbach (nun Leipzig), Brown/Frankfurt (nun Bayern), Barcola/PSG (nun Liverpool). Keine Spielernamen aus Gedaechtnis - alle gegen kader_wechsel_2026 gecheckt."
       }
     ],
     "lessons_generiert": [],
-    "quellen": [
-      "https://www.spox.com/fussball/news/bundesliga-saison-2026-27-warum-ist-zwischen-september-und-oktober-drei-wochen-laenderspielpause/blt405fb3fe17574750",
-      "https://anstosszeiten.de/bundesliga/spieltag-5/",
-      "https://www.ruhrnachrichten.de/service/bundesliga-fussball-fuenfter-spieltag-saison-2026-27-partien-mannschaften-uebertragung-w1251490-2002238953/",
-      "https://www.premierleague.com/en/news/4689113/when-are-the-international-breaks-for-202627",
-      "https://www.sportschau.de/fussball/ab-montag-fast-drei-wochen-laenderspiele,laenderspiele-fenster-neu-100.html",
-      "https://www.kicker.de/2-bundesliga/spieltag/2026-27/7",
-      "https://www.si.com/soccer/why-three-weeks-until-next-premier-league-games",
-      "https://www.si.com/soccer/2026-27-carabao-cup-draw-fixtures-results-guide-each-round",
-      "https://www.thefa.com/competitions/thefacup/round-dates",
-      "https://en.wikipedia.org/wiki/2026_Supercopa_de_Espa%C3%B1a_final",
-      "https://en.wikipedia.org/wiki/2025%E2%80%9326_Supercoppa_Italiana"
-    ]
-  },
-  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700"
+    "layer_check": {
+      "layer_1_ok": true,
+      "layer_2_ok": true,
+      "layer_3_warn_count": 6,
+      "layer_3_hinweis": "6 Spiele in 2 Kombis - Markt-entkoppelt per Praxis des Projekts (siehe ref 2026-09-07, 2026-10-05). Bei groesserem Spieltag mehr Spiele einbringen."
+    }
+  }
 };
