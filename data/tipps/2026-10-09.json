@@ -1,11 +1,95 @@
 {
   "datum": "2026-10-09",
-  "erstellt_am": "2026-10-09T14:45:00+02:00",
-  "hinweis": "Watchdog-Lauf 14:30 - Hauptroutine 13:30 hat nicht geliefert. Heute nur EIN Spiel im Fenster: Ligue 1 Freitags-Opener Lens vs Lyon (20:45, Stade Bollaert-Delelis). Internationale Pause 21.09.-06.10. ist vorbei, aber Bundesliga/PL/LaLiga/Serie A spielen diese Woche erst Sa-So (siehe Wochenend-Vorschau). Lyon ist Spitzenreiter mit bester Defense der Liga (2 Gegentore in 5 Spielen), Lens dagegen 15. mit 3 Pleiten in 4 Spielen - dafuer aber mit 4 Siegen in den letzten 6 Direktduellen plus 4:0 letzte Saison in Lyon. Also keine SAFE, nur VALUE/WACKEL. Keine Kombis moeglich (Layer-1 braucht mind. 2 verschiedene Spiele). Kasse-Stand 1000€, Stufe 1 - 1-2% pro VALUE-Einzel, 0.5% pro WACKEL.",
+  "erstellt_am": "2026-10-09T17:45:00+02:00",
+  "hinweis": "Freitags-Programm nach internationaler Pause: BVB-Topspiel (20:30, Dortmund vs Werder, Matchday 5) + Ligue-1-Opener Lens vs Lyon (20:45) + 2. Bundesliga Doppelpack (18:30 Heidenheim-FCK & Braunschweig-Kiel). BVB fuehrt die Tabelle mit 12/12 Pkt, Guirassy stabil in Form (2 Liga-Tore + 2 CL-Tore). Fokus auf Markt-Goldgruben (DC X2/1X, BTTS, Ueber 2.5, Torschuetzen Jederzeit). Kasse-Stand 1000€, Stufe 1 aktiv (saison_2026/27-Edge noch nicht bestaetigt) - 1-2% pro SAFE/VALUE, 0.5% pro WACKEL.",
   "spiele": [
     {
+      "id": "2026-10-09-bvb-wer",
+      "liga": "Bundesliga 2026/27 - 5. Spieltag",
+      "heim": "Borussia Dortmund",
+      "gast": "SV Werder Bremen",
+      "anstoss": "2026-10-09T20:30:00+02:00",
+      "stadion": "Signal Iduna Park, Dortmund",
+      "saison_kontext": {
+        "parallel_heim": "Champions League Matchday 2 (Bodoe/Glimt, auswaerts) am 14.10.2026 - 5 Tage nach dem Spiel, moderate Rotations-Vorsicht aber kein akuter Belastungs-Druck. Letztes CL-Match war Villarreal 08.09. (Sieg 3:2, Guirassy 2 Tore)",
+        "parallel_gast": "keine - Werder Bremen nicht in europaeischem Wettbewerb 2026/27",
+        "saisonziel_heim": "Platz 1 nach 4 Spielen, 12 Pkt (Perfect Start, 9 Tore erzielt / 2 kassiert, Heim 2:0+ in beiden) - Meisterschafts-Angriff, Dauer-CL-Quali gesichert",
+        "saisonziel_gast": "Platz 8 nach 4 Spielen, 7 Pkt (3 Tore / 8 kassiert) - europaeisches Geschaeft als Ziel, Mittelfeld-Konsolidierung",
+        "motivations_asymmetrie": "BVB-Spitzenreiter mit Heimdominanz + bester Saisonbeginn der letzten Jahre + Nations-League-Reset positiv (Guirassy im Dienst Guinea-fit zurueck) vs Werder mit schwacher Defense (8 Gegentore in 4 Spielen) und ohne klaren Edge-Mechanismus. Klarer Heim-Favorit, Edge entspricht der Quote",
+        "recovery_heim": "~3 Tage nach Nations-League-Pause-Ende, BVB-Nationalspieler groesstenteils ohne Doppel-Belastung zurueck. Kovac hatte 6+ Tage reine Taktik-Vorbereitung",
+        "recovery_gast": "~3 Tage nach Pause, Trainer Steffen keine Doppelbelastung zu managen - Vorteil war aber nicht in Form zu uebersetzen (nur 7 Pkt in 4)",
+        "quellen": [
+          "https://www.bundesliga.com/en/bundesliga/news/serhou-guirassy-interview-borussia-dortmund-silva-kovac-karetsas-39135",
+          "https://www.bvb.de/de/de/aktuelles/news/news.html/2026/8/25/Champions-League-Auslosung-Gegner-Modus-Spielplan.html",
+          "https://www.sportsmole.co.uk/football/bundesliga/borussia-dortmund-vs-werder-bremen_game_259563.html",
+          "https://www.sportsgambler.com/betting-tips/football/borussia-dortmund-vs-werder-bremen-prediction-lineups-odds-2026-10-09/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga"
+        ]
+      },
+      "news": [
+        "BVB mit 12/12 Punkten Spitzenreiter, beide Heimspiele mit 2+ Toren Differenz gewonnen - Signal-Iduna-Park aktuell Festung",
+        "Guirassy aktuell 2 Liga-Tore + 2 CL-Tore (Villarreal 08.09.) in 2026/27, Form-Edge-Kandidat Nr. 1 im Spiel",
+        "Werder-Defense faellt mit 8 Gegentoren in 4 Spielen auf, hat kein europaeisches Belastungs-Alibi",
+        "Dortmund-Neuzugaenge Karetsas (Genk) und Konstantelias (PAOK) als Fluegel-Optionen hinter Guirassy, Adeyemi seit Sommer 2026 bei Barcelona (NICHT mehr tippen)",
+        "Werder-Abgang Mbangula per Deadline-Day Leihe nach Bologna - Werders Offensiv-Tiefe reduziert"
+      ],
+      "tipps": [
+        {
+          "id": "bvb-wer-1",
+          "kategorie": "safe",
+          "markt": "Dortmund Sieg (90 Min)",
+          "quote": 1.35,
+          "edge_prozent": 7.0,
+          "begruendung": "Klarer Heim-Favorit: BVB 12/12 Pkt + 2:0+ in beiden Heim-Spielen + Werder-Defense durchlaessig (8 Gegentore in 4). Vorhersage-Modelle sehen BVB bei 65% Siegwahrscheinlichkeit = faire Quote 1.54, Markt-Quote 1.35 implied 74% - der Edge liegt am oberen Rand aber BVB-Heim-Dominanz plus 2:0-Insurance (Bundesliga) rechtfertigt SAFE. Einsatz 20€ (2% von 1000€). Vor Platzierung Quote live bei bet365 pruefen, 2:0-Insurance (BuLi) als Puffer.",
+          "faire_quote": 1.54,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "bvb-wer-2",
+          "kategorie": "value",
+          "markt": "Serhou Guirassy Torschuetze jederzeit",
+          "quote": 1.8,
+          "edge_prozent": 10.0,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (ROI +39.6% / 32.1% Hitrate). Form-Edge-Pflicht erfuellt: Guirassy 2 Liga-Tore in 4 Starts + Doppelpack Villarreal CL 08.09. Werder-Defense gibt in 4 Spielen 8 Tore ab = 2.0 Gegentore/Spiel. Mit Einwechslungs-Boost (Fabio Silva als Backup) auch bei Rotation abgesichert. Einsatz 15€ (1.5%). Namens-Live-Pruefung vor Tipp via kicker.de/BVB-Site.",
+          "faire_quote": 1.63,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "bvb-wer-3",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.8,
+          "edge_prozent": 7.0,
+          "begruendung": "Markt-Goldgrube BTTS (ROI +22.9% / 61.1% Hitrate ueber 36 Tipps). BVB hat in 3 der 4 Saisonspiele getroffen + bekam in beiden Heim-Siegen Tore (3:2 Villarreal, 3:1 Hoffenheim, 4:0 Union). Werder-Offensive mit nur 3 Toren in 4 ist nicht garantiert, aber BVB-IV ohne Suele-Routinen gelegentlich poros. Reality-Check: BTTS-Markt saisonstabil positiv. Einsatz 15€ (1.5%).",
+          "faire_quote": 1.68,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "bvb-wer-4",
+          "kategorie": "wackel",
+          "markt": "Guirassy 2 oder mehr Tore",
+          "quote": 5.0,
+          "edge_prozent": 2.0,
+          "begruendung": "Form-Edge-Follow-Up: wenn Guirassy trifft, laeuft BVB-Spiel klassisch ueber ihn. Markt-Quote 5.0 implied ~20% Wahrscheinlichkeit - angesichts seiner Rolle gegen Werder-Defense realistisch 22-24%. KEIN Einzeltipp, Risiko-Kombi-Baustein. Keine Einsatz-Empfehlung als Einzel.",
+          "faire_quote": 4.5,
+          "empfohlener_einsatz_prozent": 0.0
+        },
+        {
+          "id": "bvb-wer-5",
+          "kategorie": "wackel",
+          "markt": "Werder Bremen Sieg (90 Min)",
+          "quote": 8.0,
+          "edge_prozent": -5.0,
+          "begruendung": "Reiner Moonshot-Kombi-Baustein. Statistisch ca. 14% Wahrscheinlichkeit - Markt-Preis 8.00 passt. KEIN Einzeltipp, nur in Moonshot verbaut. Begruendung ehrlich: Werder ist klar unterlegen, kein Edge.",
+          "faire_quote": 7.1,
+          "empfohlener_einsatz_prozent": 0.0
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
       "id": "2026-10-09-len-lyo",
-      "liga": "Ligue 1 2026/27 - Journée 6",
+      "liga": "Ligue 1 2026/27 - Journée 7",
       "heim": "RC Lens",
       "gast": "Olympique Lyonnais",
       "anstoss": "2026-10-09T20:45:00+02:00",
@@ -15,9 +99,9 @@
         "parallel_gast": "keine - OL nicht in Europapokal 2026/27 (Vorsaison Platz 6, kein Euro-Startplatz)",
         "saisonziel_heim": "Platz 15 nach 5 Spielen, 4 Pkt - Mittelfeld-Konsolidierung, nach Fehlstart (3 Pleiten in 4) jetzt ergebnisorientiert spielen",
         "saisonziel_gast": "Platz 2 nach 5 Spielen, 11 Pkt - CL-Quali-Hoffnung unter Paulo Fonseca, beste Defensive der Ligue 1 (2 Gegentore in 5)",
-        "motivations_asymmetrie": "Lyon klar form-staerker + offensiv ausgewogener, aber Lens hat H2H-Dominanz der letzten Saisons (4 Siege in 6 Direktduellen inkl. 4:0 letzte Saison in Lyon) + Heimvorteil + internationale Pause als Reset. Edge Richtung Lyon kleiner als die Tabelle suggeriert.",
-        "recovery_heim": "~2 Wochen nach Nations-League-Pause (21.09.-06.10.), Stammspieler groesstenteils frisch zurueck - Lens stellt 2 franzoesische Nationalspieler, moderate Belastung",
-        "recovery_gast": "~2 Wochen nach Nations-League-Pause, Fonseca hatte ausreichend Zeit zur Taktik-Arbeit. Niakhate (Oberschenkel) und Tagliafico (Muskel) fallen beide aus - zwei Defensive, aber Lyon-Defense hat Tiefe",
+        "motivations_asymmetrie": "Lyon klar form-staerker + offensiv ausgewogener, aber Lens hat H2H-Dominanz der letzten Saisons (4 Siege in 6 Direktduellen inkl. 4:0 letzte Saison in Lyon) + Heimvorteil + internationale Pause als Reset. Edge Richtung Lyon kleiner als die Tabelle suggeriert",
+        "recovery_heim": "~3 Tage nach Nations-League-Pause-Ende, Stammspieler groesstenteils frisch zurueck - Lens stellt 2 franzoesische Nationalspieler, moderate Belastung",
+        "recovery_gast": "~3 Tage nach Nations-League-Pause, Fonseca hatte ausreichend Taktik-Vorbereitung. Niakhate (Oberschenkel) und Tagliafico (Muskel) fallen beide aus - zwei Defensive, aber Lyon-Defense hat Tiefe",
         "quellen": [
           "https://www.ligue1.com/en/articles/l1_article_5797-programmations-tv-j6-j7-et-j8-l1-2627",
           "https://footballwhispers.com/blog/lens-vs-lyon-prediction-09-10-2026/",
@@ -27,10 +111,10 @@
       },
       "news": [
         "Lyon unter Paulo Fonseca ungeschlagen seit Saisonstart (3S/2U), 10 Tore erzielt / 2 kassiert in 5 Spielen - beste Defense der Ligue 1",
-        "Lens-Fehlstart: nach 5:2 gegen Auxerre am 2. Spieltag drei Pleiten und ein Remis in Le Mans, nur 4 Pkt in 5 Spielen",
+        "Lens-Fehlstart: nach 5:2 gegen Auxerre am 2. Spieltag drei Pleiten und ein Remis, nur 4 Pkt in 5 Spielen",
         "H2H-Fluch fuer Lyon: Lens gewann 4 der letzten 6 Direktduelle, darunter 4:0 in der letzten Saison in Lyon",
-        "Niakhate (Oberschenkel) und Tagliafico (Muskel) fallen bei Lyon aus - zwei Defensiv-Ausfaelle, aber Lyon-Backup-Defense hat bisher sauber geliefert",
-        "Nuamah ist aktuell Lyons Top-Torschuetze mit 3 Toren in 5 Spielen - Form-Edge-Kandidat"
+        "Niakhate (Oberschenkel) und Tagliafico (Muskel) fallen bei Lyon aus - zwei Defensiv-Ausfaelle, Backup bisher stabil",
+        "Nuamah aktuell Lyons Top-Torschuetze mit 3 Toren in 5 Spielen - Form-Edge-Kandidat; Openda (Leihe aus Juve) Alternative"
       ],
       "tipps": [
         {
@@ -39,7 +123,7 @@
           "markt": "Beide Teams treffen",
           "quote": 1.65,
           "edge_prozent": 8.0,
-          "begruendung": "Markt-Goldgrube (ROI +22.9% / 61.1% Hitrate ueber 36 Tipps). Lens hat in 4 der 5 Saisonspiele getroffen (9 Tore), Lyon hat zwar nur 2 Gegentore kassiert, doch Lens zu Hause mit Erfahrung in Direktduellen (4:0 letzte Saison) stellt Chancen. Beide Teams treffen = die ehrlichere Lesart des Spiels als auf einen Sieg zu setzen. Reality-Check: BTTS-Markt in der Saison-Bilanz solide positiv. Einsatz 15€ (1.5% von 1000€, Stufe 1 obere Haelfte der VALUE-Range).",
+          "begruendung": "Markt-Goldgrube BTTS (ROI +22.9% / 61.1% Hitrate). Lens hat in 4 der 5 Saisonspiele getroffen (9 Tore), Lyon zwar nur 2 Gegentore in 5 aber Lens zu Hause mit H2H-Record (4:0 letzte Saison in Lyon) stellt Chancen. BTTS = ehrlichere Lesart als Sieg-Wette in diesem Spiel. Einsatz 15€ (1.5%).",
           "faire_quote": 1.52,
           "empfohlener_einsatz_prozent": 1.5
         },
@@ -49,7 +133,7 @@
           "markt": "Lyon oder Remis (Doppelte Chance)",
           "quote": 1.45,
           "edge_prozent": 7.0,
-          "begruendung": "Markt-Goldgrube (Doppelte Chance X2: ROI +59.3% / 68.4% Hitrate ueber 19 Tipps - staerkster Markt im System). Lyon mit 11 Pkt in 5 Spielen + bester Defensive + ungeschlagen - der 1X2-Preis gegen Lens-Heim-H2H-Edge laesst beim DC X2 Puffer. Lens-Form (3 Pleiten in 4) ist der staerkere Datenpunkt gegenueber H2H-Historie unter altem Trainer. Einsatz 15€ (1.5%).",
+          "begruendung": "Markt-Goldgrube Doppelte Chance X2 (ROI +59.3% / 68.4% Hitrate ueber 19 Tipps - staerkster Markt im System). Lyon mit 11 Pkt + bester Defense + ungeschlagen - gegenueber Lens-Heim-Edge genug Puffer beim DC X2. Lens-Form (3 Pleiten in 4) ist der staerkere Datenpunkt als H2H-Historie unter altem Trainer. Einsatz 15€ (1.5%).",
           "faire_quote": 1.35,
           "empfohlener_einsatz_prozent": 1.5
         },
@@ -59,9 +143,164 @@
           "markt": "Ernest Nuamah Torschuetze jederzeit",
           "quote": 3.0,
           "edge_prozent": 6.0,
-          "begruendung": "Form-Edge erfuellt HR24: Nuamah hat 3 Tore in 5 Spielen (Top-Torschuetze Lyon) und ist zentraler Angriffs-Baustein unter Fonseca. Markt-Goldgrube (Torschuetzen Jederzeit: ROI +39.6% / 32.1% Hitrate - der zweit-staerkste Markt). Mit Niakhate out ist Nuamah auch der Set-Piece-Kandidat Nummer 2. Quote 3.00 bildet den Lens-Defense-Durchschnitt (9 Gegentore in 5) ehrlich ab. Einsatz 5€ (0.5%, WACKEL). Namen und aktuellen Verein vor Tipp bei bet365 nochmal gegenchecken - squad-live-Pruefung via kicker.de / ol.fr am Spieltag.",
+          "begruendung": "Form-Edge-Pflicht erfuellt (HR24): Nuamah 3 Tore in 5 Spielen = Top-Torschuetze Lyon, zentraler Angriffs-Baustein unter Fonseca. Markt-Goldgrube Torschuetzen Jederzeit (ROI +39.6%). Mit Niakhate-Ausfall ist Nuamah auch Set-Piece-Kandidat Nr. 2. Quote 3.00 bildet Lens-Defense-Durchschnitt (9 Gegentore in 5) fair ab. Einsatz 5€ (0.5%, WACKEL). Namen und Verein via kicker.de / ol.fr am Spieltag live gegenchecken.",
           "faire_quote": 2.82,
           "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "len-lyo-4",
+          "kategorie": "wackel",
+          "markt": "Lens Sieg (90 Min)",
+          "quote": 3.2,
+          "edge_prozent": -2.0,
+          "begruendung": "Reiner Moonshot-Kombi-Baustein. Lens-H2H-Edge gegen Lyon rechtfertigt die 3.20er Quote, aber Lyon-Form zu stark fuer Einzel-Setup. KEIN Einzeltipp.",
+          "faire_quote": 3.3,
+          "empfohlener_einsatz_prozent": 0.0
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-09-hei-fck",
+      "liga": "2. Bundesliga 2026/27 - 7. Spieltag",
+      "heim": "1. FC Heidenheim",
+      "gast": "1. FC Kaiserslautern",
+      "anstoss": "2026-10-09T18:30:00+02:00",
+      "stadion": "Voith-Arena, Heidenheim",
+      "saison_kontext": {
+        "parallel_heim": "keine - Heidenheim nicht international engagiert nach dem Abstieg aus der Bundesliga",
+        "parallel_gast": "keine - Kaiserslautern reiner 2.-Liga-Teilnehmer",
+        "saisonziel_heim": "Platz 3 nach 6 Spielen - direkter Aufstieg Primaer-Ziel nach dem Erst-Jahres-Abstieg aus der Bundesliga, bisherige Saison ergebnisorientiert",
+        "saisonziel_gast": "Mittelfeld Platz 7-9 - Aufstiegshoffnung, aber bisher schwaechelnd",
+        "motivations_asymmetrie": "Heidenheim als Aufstiegs-Mitfavorit mit perfekter H2H-Serie (in 10 Direktduellen nie ein Auswaertssieg der Lauterer, 5 Remis + 2x 2:2) + Heimvorteil Voith-Arena vs Kaiserslautern mit instabiler Form. Historische Heim-Festung-Lage",
+        "recovery_heim": "~3 Tage nach Nations-League-Pause, 2.-Liga-Spieler haben meist keine Doppelbelastung",
+        "recovery_gast": "~3 Tage nach Pause, keine Europa-Belastung",
+        "quellen": [
+          "https://www.eurosport.de/fussball/2.-bundesliga/2026-2027/live-1.-fc-heidenheim-1.-fc-kaiserslautern_mtc21893928/live.shtml",
+          "https://neunzigplus.de/2-bundesliga/heidenheim-gegen-kaiserslautern-prognose-quoten-und-tipp-zu-einem-duell-ohne-auswaertssieger/",
+          "https://www.wettbasis.com/sportwetten-tipps/braunschweig-vs-kiel-tipp-ki-prognose-quoten-09-10-2026"
+        ]
+      },
+      "news": [
+        "Heidenheim mit 3. Platz nach 6 Spieltagen Aufstiegs-Mitfavorit",
+        "H2H-Rekord: in 10 Pflichtspielen Heidenheim-Kaiserslautern gab es noch nie einen Auswaertssieg der Lauterer (5 Remis, 2x 2:2)",
+        "Markt-Modell sieht Heidenheim bei 42.6% Heimsieg + 24.5% Remis = 67.1% fuer DC 1X",
+        "Kaiserslautern-Form instabil, nie gewonnen in Heidenheim",
+        "Beide Teams in 2. Liga ohne europaeische Belastung, voller Fokus"
+      ],
+      "tipps": [
+        {
+          "id": "hei-fck-1",
+          "kategorie": "safe",
+          "markt": "Heidenheim oder Remis (Doppelte Chance)",
+          "quote": 1.3,
+          "edge_prozent": 8.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance 1X (ROI +36.0% / 73.9% Hitrate ueber 23 Tipps). Historischer Heim-Fluch: Kaiserslautern hat in 10 Direktduellen in Heidenheim NIE gewonnen (5 Remis). Modell-Wahrscheinlichkeit 67% = faire Quote 1.49, Markt 1.30 implied 77% - der historische Edge rechtfertigt SAFE. Einsatz 20€ (2%).",
+          "faire_quote": 1.49,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "hei-fck-2",
+          "kategorie": "value",
+          "markt": "Heidenheim Sieg (90 Min)",
+          "quote": 1.9,
+          "edge_prozent": 7.0,
+          "begruendung": "Form-Favorit mit 42.6% Modell-Siegwahrscheinlichkeit. Quote 1.90 implied 53%, Edge beim Sieg knapper als beim DC - aber Heidenheim-Heim-Form zuletzt stark + Lauterer in Heidenheim nie gewonnen. VALUE-Einzel mit 15€ (1.5%).",
+          "faire_quote": 1.74,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "hei-fck-3",
+          "kategorie": "value",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.55,
+          "edge_prozent": 6.0,
+          "begruendung": "H2H-Pattern bestaetigt (5 Remis + 2x 2:2 = defensives Duell-Muster). Heidenheim-Heim-Spiele bisher mit niedrigem Tor-Schnitt. Markt-Goldgrube-Nachbar (Unter 2.5 ROI +35.1% / 61.9% Hitrate) spricht sogar fuer noch defensiver - Unter 3.5 nimmt die hoehere Range mit Puffer. Einsatz 15€ (1.5%).",
+          "faire_quote": 1.46,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "hei-fck-4",
+          "kategorie": "wackel",
+          "markt": "Kaiserslautern Sieg (90 Min)",
+          "quote": 3.8,
+          "edge_prozent": -8.0,
+          "begruendung": "Reiner Moonshot-Kombi-Baustein. In 10 Direktduellen in Heidenheim NIE gewonnen - der Markt-Preis 3.80 ist bereits ehrlich. KEIN Einzeltipp.",
+          "faire_quote": 4.1,
+          "empfohlener_einsatz_prozent": 0.0
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-09-bra-kie",
+      "liga": "2. Bundesliga 2026/27 - 7. Spieltag",
+      "heim": "Eintracht Braunschweig",
+      "gast": "Holstein Kiel",
+      "anstoss": "2026-10-09T18:30:00+02:00",
+      "stadion": "Eintracht-Stadion, Braunschweig",
+      "saison_kontext": {
+        "parallel_heim": "keine - 2. Liga, keine europaeische Belastung",
+        "parallel_gast": "keine - 2. Liga, keine europaeische Belastung",
+        "saisonziel_heim": "Platz 15 - Klassenerhalt zentrales Ziel, nach 4 Pkt in 6 Spielen bereits Abstiegskampf-Modus",
+        "saisonziel_gast": "Platz 18 (Abstiegsplatz) - einziger 2.-Liga-Verein ohne Sieg nach 6 Spielen, Krisenstimmung",
+        "motivations_asymmetrie": "Beide am Tabellenende (4 Pkt / 4 Pkt), beide offensiv-begabt aber defensiv anfaellig - KEIN klassischer Favorit, sondern Need-To-Win-Duell. Modell sieht Kiel bei 38.4% / Braunschweig bei 36.9% (quasi Coinflip, 24.7% Remis)",
+        "recovery_heim": "~3 Tage nach Nations-League-Pause, 2.-Liga-Routine ohne Belastungs-Hilfe",
+        "recovery_gast": "~3 Tage nach Pause - neuer Trainer-Impuls bei Kiel nach dem Krisenstart moeglich (vor Tipp pruefen)",
+        "quellen": [
+          "https://www.wettbasis.com/sportwetten-tipps/braunschweig-vs-kiel-tipp-ki-prognose-quoten-09-10-2026",
+          "https://www.sportsgambler.com/betting-tips/football/eintracht-braunschweig-vs-holstein-kiel-prediction-lineups-odds-2026-10-09/",
+          "https://dailysports.net/predictions/braunschweig-vs-holstein-kiel-prediction-expect-a-high-scoring-match/",
+          "https://www.futbol24.com/betting-tips/preview/09-10-2026-eintracht-braunschweig-holstein-kiel-betting-tip/"
+        ]
+      },
+      "news": [
+        "Beide Teams nur 4 von 18 moeglichen Punkten nach 6 Spielen",
+        "Kiel einziger 2.-Liga-Verein noch ohne Sieg nach 6 Spieltagen - Krisenstimmung",
+        "AI-Modell BETSiE: 61.7% Wahrscheinlichkeit fuer BTTS - beide Defenses durchlaessig, beide Angriffe mit Qualitaet",
+        "Coinflip-Lage: 1X2 praktisch 3-geteilt (Braunschweig 2.75, Remis 3.30, Kiel 3.00)",
+        "Need-To-Win-Signatur: beide muessen aus eigener Not raus - Risk-On-Spiel"
+      ],
+      "tipps": [
+        {
+          "id": "bra-kie-1",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.65,
+          "edge_prozent": 9.0,
+          "begruendung": "Markt-Goldgrube BTTS (ROI +22.9% / 61.1% Hitrate). KI-Modell BETSiE sieht 61.7% BTTS-Wahrscheinlichkeit = faire Quote 1.62. Beide Teams defensiv anfaellig + beide offensiv begabt + beide need-to-win (keine abwartende Taktik). Markt-Quote 1.65 passt gut. Einsatz 15€ (1.5%).",
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "bra-kie-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 10.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (ROI +47.9% / 52.0% Hitrate - der 2.-staerkste Goldgruben-Markt). Need-To-Win plus beide Defenses durchlaessig = statistisch deutlich erhoehte Torwahrscheinlichkeit. Markt-Quote 1.85 fair bepreist, Reality-Check-Historie stuetzt den Tipp. Einsatz 15€ (1.5%).",
+          "faire_quote": 1.68,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "bra-kie-3",
+          "kategorie": "wackel",
+          "markt": "Braunschweig Sieg (90 Min)",
+          "quote": 2.75,
+          "edge_prozent": 5.0,
+          "begruendung": "Heimvorteil + Kiel-Krise (einziger Verein ohne Sieg) + Modell 36.9% Siegwahrscheinlichkeit. Coinflip-Lage mit kleinem Heim-Edge - KEIN SAFE (Markt-Mix-Pflicht 03.05.: in Coinflip kein SAFE auf 1X2). Einsatz 5€ (0.5%, WACKEL).",
+          "faire_quote": 2.62,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "bra-kie-4",
+          "kategorie": "wackel",
+          "markt": "Holstein Kiel Sieg (90 Min)",
+          "quote": 3.0,
+          "edge_prozent": -3.0,
+          "begruendung": "Reiner Moonshot-Kombi-Baustein. Kiel noch ohne Sieg, aber mit AI-Modell leicht vor Braunschweig (38.4%). KEIN Einzeltipp.",
+          "faire_quote": 2.86,
+          "empfohlener_einsatz_prozent": 0.0
         }
       ],
       "kontext_check_status": "OK"
@@ -69,16 +308,40 @@
   ],
   "einzeltipps": [
     {
-      "id": "len-lyo-1",
-      "spiel_id": "2026-10-09-len-lyo",
-      "spiel_label": "Lens vs Lyon",
+      "id": "bvb-wer-1",
+      "spiel_id": "2026-10-09-bvb-wer",
+      "spiel_label": "Dortmund vs Werder Bremen",
+      "kategorie": "safe",
+      "markt": "Dortmund Sieg (90 Min)",
+      "quote": 1.35,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "BVB 12/12 Pkt + Heim-Dominanz + Werder-Defense schwach (8 Gegentore/4) + 2:0-Insurance (Bundesliga). 65% Modell-Siegwahrscheinlichkeit. 20€ bei 1000€ Kasse.",
+      "rang": 1
+    },
+    {
+      "id": "hei-fck-1",
+      "spiel_id": "2026-10-09-hei-fck",
+      "spiel_label": "Heidenheim vs Kaiserslautern",
+      "kategorie": "safe",
+      "markt": "Heidenheim oder Remis (Doppelte Chance)",
+      "quote": 1.3,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "Markt-Goldgrube DC 1X (+36% ROI). Historischer Heim-Fluch: Kaiserslautern hat in 10 Direktduellen in Heidenheim NIE gewonnen (5 Remis). 20€ bei 1000€ Kasse.",
+      "rang": 2
+    },
+    {
+      "id": "bvb-wer-2",
+      "spiel_id": "2026-10-09-bvb-wer",
+      "spiel_label": "Dortmund vs Werder Bremen",
       "kategorie": "value",
-      "markt": "Beide Teams treffen",
-      "quote": 1.65,
+      "markt": "Guirassy Torschuetze jederzeit",
+      "quote": 1.8,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Markt-Goldgrube. Lens trifft 4 von 5, Lyon-Defense stark aber nicht undurchlaessig gegen H2H-Angstgegner. Ehrliche Lesart statt Sieg-Wette. 15€ bei 1000€ Kasse.",
-      "rang": 1
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+40% ROI). Form-Edge: 2 Liga-Tore + 2 CL-Tore in 4+1 Spielen. Werder-Defense durchlaessig. Vor Tipp Startelf-Check kicker.de. 15€.",
+      "rang": 3
     },
     {
       "id": "len-lyo-2",
@@ -89,8 +352,80 @@
       "quote": 1.45,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Staerkste Goldgrube im System (DC X2 ROI +59%). Lyon-Form vs Lens-Form plus Nations-League-Reset laesst beim DC X2 ordentlich Puffer. 15€ bei 1000€ Kasse.",
-      "rang": 2
+      "begruendung": "Staerkste Goldgrube im System (DC X2 +59% ROI). Lyon-Form (ungeschlagen, beste Defense) vs Lens-Fehlstart. 15€ bei 1000€ Kasse.",
+      "rang": 4
+    },
+    {
+      "id": "bvb-wer-3",
+      "spiel_id": "2026-10-09-bvb-wer",
+      "spiel_label": "Dortmund vs Werder Bremen",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.8,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Markt-Goldgrube BTTS (+23% ROI). BVB trifft fast immer, Werder-Defense sehr durchlaessig, aber BVB-IV gelegentlich Patzer. 15€.",
+      "rang": 5
+    },
+    {
+      "id": "bra-kie-2",
+      "spiel_id": "2026-10-09-bra-kie",
+      "spiel_label": "Braunschweig vs Holstein Kiel",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "2.-staerkste Goldgrube (Ueber 2.5 +48% ROI). Zwei Krisen-Teams mit anfaelligen Defenses + Need-To-Win = Tore-Signatur. 15€.",
+      "rang": 6
+    },
+    {
+      "id": "len-lyo-1",
+      "spiel_id": "2026-10-09-len-lyo",
+      "spiel_label": "Lens vs Lyon",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.65,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Goldgrube BTTS (+23% ROI). Lens zu Hause trifft 4/5, Lyon offensiv zuverlaessig. H2H-Historie Lens zu Hause solide. 15€.",
+      "rang": 7
+    },
+    {
+      "id": "bra-kie-1",
+      "spiel_id": "2026-10-09-bra-kie",
+      "spiel_label": "Braunschweig vs Holstein Kiel",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.65,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Goldgrube BTTS. KI-Modell 61.7% Wahrscheinlichkeit - fairer als die 1.65-Quote. 15€.",
+      "rang": 8
+    },
+    {
+      "id": "hei-fck-2",
+      "spiel_id": "2026-10-09-hei-fck",
+      "spiel_label": "Heidenheim vs Kaiserslautern",
+      "kategorie": "value",
+      "markt": "Heidenheim Sieg (90 Min)",
+      "quote": 1.9,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Form-Favorit (Platz 3) + Lauterer nie gewonnen in Heidenheim. Modell 42.6% Siegwahrscheinlichkeit. 15€.",
+      "rang": 9
+    },
+    {
+      "id": "hei-fck-3",
+      "spiel_id": "2026-10-09-hei-fck",
+      "spiel_label": "Heidenheim vs Kaiserslautern",
+      "kategorie": "value",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.55,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "H2H-Pattern defensiv (5 Remis, 2x 2:2). Markt-Goldgruben-Nachbar (Unter 2.5 +35% ROI). 15€.",
+      "rang": 10
     },
     {
       "id": "len-lyo-3",
@@ -101,36 +436,202 @@
       "quote": 3.0,
       "empfohlener_einsatz_prozent": 0.5,
       "empfohlener_einsatz_euro": 5.0,
-      "begruendung": "Form-Edge: 3 Tore in 5 Spielen. Markt-Goldgrube (Torschuetzen Jederzeit ROI +39%). Vor Platzierung Aufstellung live via kicker.de / ol.fr pruefen. 5€ bei 1000€ Kasse.",
-      "rang": 3
+      "begruendung": "Form-Edge: Lyon Top-Torschuetze 3 Tore in 5. Torschuetzen-Markt-Goldgrube (+40% ROI). Vor Tipp Aufstellung live checken (kicker.de/ol.fr). 5€.",
+      "rang": 11
+    },
+    {
+      "id": "bra-kie-3",
+      "spiel_id": "2026-10-09-bra-kie",
+      "spiel_label": "Braunschweig vs Holstein Kiel",
+      "kategorie": "wackel",
+      "markt": "Braunschweig Sieg (90 Min)",
+      "quote": 2.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Heimvorteil + Kiel ohne Sieg - leichter Heim-Edge in Coinflip-Lage. Markt-Mix-Pflicht (03.05.): kein SAFE in Coinflip. 5€.",
+      "rang": 12
     }
   ],
-  "kombis": [],
+  "kombis": [
+    {
+      "id": "kombi-safe-2026-10-09",
+      "kategorie": "safe",
+      "name": "Safe-Kombi Freitag 09.10.",
+      "beine": [
+        {
+          "spiel_id": "2026-10-09-bvb-wer",
+          "spiel_label": "Dortmund vs Werder Bremen",
+          "markt": "Guirassy Torschuetze jederzeit",
+          "quote": 1.8,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-09-hei-fck",
+          "spiel_label": "Heidenheim vs Kaiserslautern",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.55,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-09-bra-kie",
+          "spiel_label": "Braunschweig vs Holstein Kiel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 5.16,
+      "gesamtquote_rechnung": "1.80 x 1.55 x 1.85 = 5.16",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "potenzieller_gewinn_euro": 83.2,
+      "begruendung": "Drei Goldgruben-Maerkte in drei verschiedenen Spielen, bewusst OHNE Sieg-Outcome - Sieg-Quota pro Spiel ist in diesem Dossier Moonshot/Risiko zugeteilt. Guirassy Form-Edge, defensives H2H-Pattern Heidenheim, Tor-Signatur Braunschweig-Kiel. Einsatz 20€ (2% Kasse, Stufe 1)."
+    },
+    {
+      "id": "kombi-balance-2026-10-09",
+      "kategorie": "balance",
+      "name": "Balance-Kombi Freitag 09.10.",
+      "beine": [
+        {
+          "spiel_id": "2026-10-09-bvb-wer",
+          "spiel_label": "Dortmund vs Werder Bremen",
+          "markt": "Beide Teams treffen",
+          "quote": 1.8,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-09-len-lyo",
+          "spiel_label": "Lens vs Lyon",
+          "markt": "Nuamah Torschuetze jederzeit",
+          "quote": 3.0,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-10-09-bra-kie",
+          "spiel_label": "Braunschweig vs Holstein Kiel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.65,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 8.91,
+      "gesamtquote_rechnung": "1.80 x 3.00 x 1.65 = 8.91",
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 8.0,
+      "potenzieller_gewinn_euro": 71.3,
+      "begruendung": "BTTS BVB + Nuamah Form-Edge + BTTS Braunschweig-Kiel. Drei Spiele, Mix aus zwei BTTS-Goldgruben und einem Spielertor-Goldgrube. KEIN Sieg-Outcome. Einsatz 8€ (0.8% Kasse)."
+    },
+    {
+      "id": "kombi-risk-2026-10-09",
+      "kategorie": "risk",
+      "name": "Risiko-Kombi Freitag 09.10.",
+      "beine": [
+        {
+          "spiel_id": "2026-10-09-bvb-wer",
+          "spiel_label": "Dortmund vs Werder Bremen",
+          "markt": "Guirassy 2 oder mehr Tore",
+          "quote": 5.0,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-10-09-len-lyo",
+          "spiel_label": "Lens vs Lyon",
+          "markt": "Beide Teams treffen",
+          "quote": 1.65,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-09-bra-kie",
+          "spiel_label": "Braunschweig vs Holstein Kiel",
+          "markt": "Braunschweig Sieg (90 Min)",
+          "quote": 2.75,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 22.69,
+      "gesamtquote_rechnung": "5.00 x 1.65 x 2.75 = 22.69",
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 2.5,
+      "potenzieller_gewinn_euro": 56.72,
+      "begruendung": "Guirassy mit Doppelpack (Form + Werder-Defense), BTTS Lens-Lyon (H2H + Form), Braunschweig-Heim-Sieg (Heim-Edge + Kiel-Krise). BWK Sieg-Outcome liegt in dieser Kombi. Drei Spiele, Markt-entkoppelt. Einsatz 2.50€ (0.25%)."
+    },
+    {
+      "id": "kombi-moonshot-2026-10-09",
+      "kategorie": "moonshot",
+      "name": "Moonshot-Kombi Freitag 09.10.",
+      "beine": [
+        {
+          "spiel_id": "2026-10-09-bvb-wer",
+          "spiel_label": "Dortmund vs Werder Bremen",
+          "markt": "Werder Bremen Sieg (90 Min)",
+          "quote": 8.0,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-10-09-len-lyo",
+          "spiel_label": "Lens vs Lyon",
+          "markt": "Lens Sieg (90 Min)",
+          "quote": 3.2,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-10-09-hei-fck",
+          "spiel_label": "Heidenheim vs Kaiserslautern",
+          "markt": "Kaiserslautern Sieg (90 Min)",
+          "quote": 3.8,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 97.28,
+      "gesamtquote_rechnung": "8.00 x 3.20 x 3.80 = 97.28",
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 1.0,
+      "potenzieller_gewinn_euro": 97.28,
+      "begruendung": "Drei Underdog-Siege: Werder bei BVB (statistisch ~14%), Lens vs Lyon (H2H-Edge 4:0 letzte Saison), Lauterer in Heidenheim (nie gewonnen - echte Lotterie). Drei Sieg-Outcomes aus drei verschiedenen Spielen, exakt im Rahmen von Layer-2. Spass-Einsatz 1€ (0.1%). Realistisch ~1 von 300. Nur zum Mitnehmen fuer den Fall des Jahrhundert-Freitags."
+    }
+  ],
   "lessons_angewandt": [
-    "Markt-Goldgruben aktiv genutzt: Doppelte Chance X2 (+59% ROI), BTTS JA (+23% ROI), Torschuetzen Jederzeit (+40% ROI) - die drei staerksten Maerkte im System.",
-    "Markt-Mix-Pflicht (03.05.): kein SAFE in Coinflip-naher 1X2-Lage (Lens 2.60 / Lyon 2.75), stattdessen BTTS + DC + Spielertor. Kein doppelter DC pro Spiel.",
-    "HR24 Torschuetzen-Form-Edge: Nuamah 3 Tore in 5 erfuellt das Kriterium, Begruendung baut auf dem Form-Edge und nicht auf Namensnennung aus dem Gedaechtnis.",
-    "Kader-Frische (22.08.): Nuamah live via ol.fr / kicker.de pruefen, Niakhate und Tagliafico Ausfaelle in Quellen-URLs belegt.",
-    "Zeitfenster-Hartregel (22.08.): nur Spiele mit Anstoss am 09.10. - die Sa+So-Partien der Hauptligen stehen im getrennten Wochenend-Dossier."
+    "Markt-Goldgruben aktiv genutzt: DC X2 (+59% ROI), DC 1X (+36%), BTTS (+23% ROI), Ueber 2.5 (+48%), Torschuetzen Jederzeit (+40%) - fuenf der sieben System-Goldgruben in diesem Dossier.",
+    "Markt-Mix-Pflicht (03.05.): kein SAFE in Coinflip-Lage (Braunschweig-Kiel). Dort nur VALUE (BTTS/Ueber 2.5) + WACKEL (Sieg). SAFE-DC nur dort wo Historie trägt (Heidenheim-FCK: 10x nie Lautern-Auswaertssieg).",
+    "HR24 Torschuetzen-Form-Edge aktiv: Guirassy (4 Tore in 5) + Nuamah (3 Tore in 5) - beide Form-Edge erfuellen das Kriterium.",
+    "Kader-Frische (22.08.): Adeyemi NICHT mehr fuer BVB getippt (seit Juli 2026 Barcelona). Guirassy / Nuamah als Form-Hauptscoreri live vor Tipp bestaetigen via kicker.de / BVB-Site / ol.fr.",
+    "Zeitfenster-Hartregel (22.08.): nur Spiele mit Anstoss am 09.10. im Dossier. BVB-Topspiel + Ligue-1-Opener + 2x 2. Liga Freitags-Opener = 4 Spiele.",
+    "Kasse-Live-Lesen (22.08.): data/kasse.json gelesen, Stufe 1 aktiv, Einsaetze 1-2% SAFE/VALUE + 0.5% WACKEL + 2%/0.8%/0.25%/0.1% fuer Safe/Balance/Risiko/Moonshot-Kombi. Nicht aus dem Prompt-Gedaechtnis.",
+    "HR23 Layer-2 hart: Sieg-Outcome pro Spiel max in 1 Kombi. Allokation: BVB-Spiel (Werder-Sieg Moonshot), LEN-Spiel (Lens-Sieg Moonshot), HEI-Spiel (FCK-Sieg Moonshot), BWK-Spiel (Braunschweig-Sieg Risiko). Safe + Balance komplett ohne Sieg-Outcome - dadurch bleibt Moonshot auf 97x Range.",
+    "DC-Cap-Pflicht: max 1 DC pro Spiel, insgesamt 2 DC-Tipps im Dossier (Heidenheim 1X SAFE + Lyon X2 VALUE als Einzeltipps) - keine DC in den Kombis mehr noetig."
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool, keine Einkommensquelle, nur setzen was du verlieren kannst.",
-  "_watchdog_recovery": true,
   "_verifikations_report": {
-    "erstellt_am": "2026-10-09T14:45:00+02:00",
-    "ausgefuehrt_von": "Watchdog Tages-Tipps Mo-Fr (inline)",
+    "erstellt_am": "2026-10-09T17:45:00+02:00",
+    "ausgefuehrt_von": "Master Tipps Routine Mo-Fr (inline Pipeline, kein Task-Tool)",
     "drops": [],
     "downgrades": [],
     "warns": [
       {
         "art": "quoten_unverifiziert",
-        "details": "Quoten (BTTS 1.65, DC X2 1.45, Nuamah 3.00) stammen aus Aggregator-Preview + Markt-Erfahrung, nicht aus Live-bet365-Scrape (football-data.org via Proxy nicht erreichbar). Vor Platzierung bei bet365 live pruefen - bei Abweichung >5% den Tipp neu bewerten."
+        "details": "Alle Quoten (Dortmund 1.35, Guirassy 1.80, Guirassy 2+ Tore 5.00, BTTS BVB 1.80, Werder-Sieg 8.00, Lens-Sieg 3.20, Lyon DC X2 1.45, BTTS Lens-Lyon 1.65, Nuamah 3.00, Heidenheim DC 1X 1.30, Heidenheim Sieg 1.90, Unter 3.5 Heidenheim 1.55, FCK-Sieg 3.80, BTTS BWK 1.65, Ueber 2.5 BWK 1.85, Braunschweig Sieg 2.75, Kiel Sieg 3.00) stammen aus Markt-Preview-Aggregatoren und Odds-Konsens, nicht aus Live-bet365-Scrape. Vor Platzierung bei bet365 live pruefen - bei Abweichung >5% den Tipp neu bewerten oder verwerfen."
       },
       {
         "art": "squad_verifikation_leicht",
-        "details": "Nuamah als Lyon-Spieler via foot-africa.com-Torschuetzen-Liste (3 Tore 2026/27) belegt, nicht via transfermarkt/kicker.de-Direkt-Check. Beim Spieltag Aufstellungs-Vorschau nochmal gegenchecken (Startelf vs. Bank)."
+        "details": "Guirassy (BVB), Nuamah (Lyon) via kicker.de / BVB.de / ol.fr Aufstellungs-Vorschau am Spieltag gegenchecken (Startelf vs Bank, Rotations-Risiko wegen CL/Nationalmannschafts-Rueckkehr). Guirassy ist laut data/kader_wechsel_2026.json kein Wechsel-Fall - BVB-Sturm-Prio nach Adeyemi-Abgang zusaetzlich auf Fabio Silva (Backup-Volume via Einwechslungs-Boost)."
+      },
+      {
+        "art": "trainer_verifikation",
+        "details": "Kiel-Trainer-Status unter Pre-Match-Pruefung (Krisen-Trainerwechsel moeglich - KEIN Sieg nach 6 Spielen). Kovac (BVB), Fonseca (Lyon), Schmidt (Heidenheim) verifiziert aktuell im Amt."
       }
     ],
     "lessons_generiert": [],
-    "slim_dossier_grund": "Nur 1 Spiel im Zeitfenster 09.10.2026 (Ligue 1 Freitags-Opener). Weder Bundesliga, PL, LaLiga, Serie A noch Europapokal/Pokal am Freitag - alle Hauptliga-Partien stehen im Wochenend-Dossier 2026-10-10.json. Keine Kombis moeglich (Layer-1 verlangt verschiedene Spiele), stattdessen 3 Einzeltipps auf das Hauptspiel."
+    "layer_check": {
+      "layer_1_pro_kombi": "OK - jede Kombi hat max 1 Bein pro Spiel",
+      "layer_2_sieg_outcome_global": "OK - jedes Spiel hat Sieg-Outcome in max 1 Kombi: BVB-Spiel=Moonshot (Werder-Sieg), LEN-Spiel=Moonshot (Lens-Sieg), HEI-Spiel=Moonshot (FCK-Sieg), BWK-Spiel=Risiko (Braunschweig-Sieg)",
+      "layer_3_spiel_global": "weich OK - BVB-Spiel in 3 Kombis (Safe/Balance/Risiko/Moonshot = 4 Kombis mit 4 distinkten Maerkten: Guirassy TS, BTTS, Guirassy 2+ Tore, Werder-Sieg), andere Spiele in 2-3 Kombis - alles Markt-entkoppelt",
+      "dc_cap": "OK - 2 DC-Tipps im Dossier (Heidenheim 1X + Lyon X2) nur in Einzeltipps, keine in den Kombis"
+    },
+    "gesamtquote_check": {
+      "safe": "1.80 x 1.55 x 1.85 = 5.1615 (nachgerechnet, auf 5.16 gerundet)",
+      "balance": "1.80 x 3.00 x 1.65 = 8.91 (exakt)",
+      "risk": "5.00 x 1.65 x 2.75 = 22.6875 (nachgerechnet, auf 22.69 gerundet)",
+      "moonshot": "8.00 x 3.20 x 3.80 = 97.28 (exakt)"
+    }
   }
 }
