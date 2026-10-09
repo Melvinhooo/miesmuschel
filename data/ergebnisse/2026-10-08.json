@@ -1,0 +1,73 @@
+{
+  "datum": "2026-10-08",
+  "erstellt_am": "2026-10-08T13:30:00+02:00",
+  "modus": "tag",
+  "pipeline_main_slot": true,
+  "watchdog_recovery_bestaetigt": true,
+  "safety_net_backstop": true,
+  "hinweis": "🐚 Safety-Net-Backstop Do 08.10.2026 (dritte und letzte Stufe der Kette, Saison 2026/27). Haupt-Routine 13:30 + Watchdog 14:30 haben beide das Empty-Slate-Dossier produziert, Backstop hat jetzt unabhängig per WebSearch gegengeprüft und BESTÄTIGT: kein Overwrite nötig, Pipeline-Dossier bleibt inhaltlich stehen, nur Backstop-Signatur ergänzt. Backstop-Gegenprüfung via WebSearch (livesoccertv.com 08.10.-Schedule + sportinglife + fbref als Negativ-Index, uefa.com Nations-League-Fixtures + Wikipedia 2026–27 UEFA Nations League A für MD-Datumsraster): kein Top-5-Liga-Spiel, kein 2.BL, kein UCL/UEL/UCoL, kein DFB-/EFL-/Copa-/Coppa-/Coupe-/FA-Cup-Whitelist-Match, kein Supercup, keine Nations-League-A-Partie am 08.10. (MD4 war 04.–06.10., MD5 folgt 12.–17.11.). Was heute im Fenster läuft bleibt unverändert: Brasileirão (Santos–Flamengo, Palmeiras–Bahia u.a.), Colombian Primera A, Romanian Liga I, Uzbekistan Super League, afrikanische + asiatische Ligen — alle nicht in der Whitelist. Pipeline-Verdikt ist korrekt und inhaltlich übernehmbar, keine Korrektur nötig. ---- Original-Pipeline-Hinweis ---- 🐚 Mo-Fr-Pipeline Do 08.10.2026 (13:30 Berlin, Saison 2026/27). Pipeline-Lauf bestätigt den Watchdog-Verdikt vom Vortag: NULL Spiele im Zeitfenster für die aktiven Vereins-Ligen und Pokale unserer Whitelist. Grund: zweiter und letzter Übergangstag zwischen Ende der merged FIFA-Länderspielpause 2026/27 (21.09.–06.10., 16 Tage am Stück, Tag 16/16 war Di 06.10. mit Nations League MD4) und dem Wiederanpfiff der Vereins-Saison morgen Fr 09.10. Nations League MD5 folgt erst im November-Fenster 12.–17.11.2026 (uefa.com + englandfootball.com + Wikipedia 2026–27 UEFA Nations League A als Primärquellen). Was im Tages-Fenster 08.10. läuft: nur Freundschaftsspiele + Brasileirão + einige südamerikanische + asiatische Ligen (Betfred-Fixtures-Listing für 08.10. zeigt vor allem Uzbekistan Super League, Afrika + Südamerika) — alles nicht in der Whitelist. Alle Top-5-Ligen + 2.BL + Europapokal + Whitelist-Pokale starten erst morgen Fr 09.10. bzw. später wieder: Bundesliga MW5 Fr 09.10. mit RB Leipzig–Eintracht Frankfurt 20:30 (Live-Prüfung Aufstellung Fr 18:30 kicker Pflicht), danach Sa 10.10. mit BVB–Bremen 15:30 u.a. (bayer04.de + schalke04.de + fifplay.com als Bestätigung), 2. Bundesliga MW7 Fr 09.–So 11.10., Premier League MW6 Sa 10.10., LaLiga J8/Serie A 6a/Ligue 1 J8 09.–11.10., UEFA Champions League MD2 Di/Mi 13.–14.10.2026 (uefa.com + skysports — Roma–Real Madrid, Man City–PSG, Bodø/Glimt–BVB u.a.), UEFA Conference League MD1 + Europa League MD2 beide Do 15.10. (nächster Donnerstag — footballwebpages + groundhopperguides bestätigen den 15.10. als Rückkehr-Datum für UEL/UECL, keiner heute), UEFA Europa League MD3 Do 22.10. Supercup-Pflicht-Check durchgezogen: Franz-Beckenbauer-Supercup war 22.08. (BVB–Bayern), FA Community Shield 10.08., UEFA Super Cup 20.08. (PSG–Tottenham), Trophée des Champions 06.09., Supercopa de España 02.–07.02.2027 Istanbul, Supercoppa Italiana folgt Winterpause — kein Supercup heute. Pokal-Check: DFB-Pokal R2 erst 27.–28.10. (BVB–Bremen Di 27.10. + Bayern–Magdeburg Mi 28.10.), EFL-Cup R4 w/c 26.10., Coppa Italia R16 ab 02.12., Copa del Rey Segunda Ronda 28.10., Coupe de France 32e de finale 20.12., FA Cup heute nur Non-League-Qualifikationsrunden (nicht in Whitelist) — kein Whitelist-Pokalspiel. Kasse-Stand: 1000€ Saison-2026/27-Start, Stufe 1 Aufbau (stufe_2_freigeschaltet=false, Kasse exakt an der Grenze, Saison-eigener 30-Tage-ROI noch nicht bestätigt weil der letzte Vereinsspieltag Sa–So 19.–20.09. vor dem Break lag und seitdem keine neuen Vereinsauswertungen) — da heute 0 Tipps, keine Einsatz-Rechnung nötig. Nächstes echtes Dossier: entweder heute Do 08.10. 18:00 Wochenend-Vorschau (Sa 10.–So 11.10. mit vollem Programm Top-5 + 2.BL + MW5) ODER morgen Fr 09.10. 13:30 Tages-Routine (Bundesliga-MW5-Freitags-Auftakt). Notfall-Fallback nach CLAUDE.md: ehrlich leer schlägt erfunden — Freundschaftsspiele/Brasileirão/Uzbekistan reinschleppen würde die Whitelist aufweichen und Kader-Halluzinationen auf Teams riskieren, zu denen wir keine saubere 2026/27-Squad-Verifikation haben.",
+  "spiele": [],
+  "einzeltipps": [],
+  "kombis": [],
+  "lessons_angewandt": [
+    "Zeitfenster-Hartregel (22.08.2026): Tages-Dossier deckt genau 08.10.2026 ab. Freundschaftsspiele, Brasileirão, Uzbekistan Super League und andere Nicht-Whitelist-Ligen werden NICHT reingeschleppt, auch wenn Spiele im Fenster liegen.",
+    "Notfall-Fallback (CLAUDE.md / master_tipps_routine.md 'Notfall-Fallback'): lieber ehrlich leer als erfunden. Nichts halluzinieren — leer setzen und im Hinweis begründen.",
+    "Whitelist-Disziplin (CLAUDE.md 'Aktive Sportarten'): Freundschaftsspiele und außereuropäische Ligen sind nicht Teil der aktiven Vereins-Saison 2026/27 Whitelist — keine Tipps darauf.",
+    "Break-Ende + Vereins-Lücke (Lehre 02.–07.10.2026): die merged FIFA-Pause 21.09.–06.10.2026 ist am Di 06.10. beendet. Zwei Lücken-Tage 07.–08.10. vor dem Wiederanpfiff der Vereins-Ligen morgen Fr 09.10. Konsistent mit dem Pattern der Vortage weiter geführt.",
+    "Supercup-Pflicht-Check (Lehre 22.08.2026, Franz-Beckenbauer-Supercup war vergessen worden): alle sechs Pflicht-Supercups durchgeprüft — keiner liegt auf 08.10.2026.",
+    "Kader-Halluzinations-Risiko minimiert (seit 22.08.2026 Adeyemi-Fehler): ohne Vereinsspiele keine Vereins-Spielernamen — kein Adeyemi-at-Dortmund-Fehler möglich. Keine Freundschaftsspiel-Aufstellungen aus dem Gedächtnis.",
+    "Pipeline-Prinzip (Mo-Fr 13:30): Pipeline-Hauptlauf bestätigt den Watchdog-Verdikt vom Vortag (dort als watchdog_recovery=true dokumentiert) nach unabhängiger Nachprüfung des Zeitfensters, der Whitelist und der sechs Pflicht-Supercups. Pipeline-Signatur ersetzt die Watchdog-Signatur, Empty-Slate-Begründung bleibt identisch."
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-10-08T13:30:00+02:00",
+    "modus": "pipeline_empty_slate_post_fifa_break_lull_day_2",
+    "trigger": "Mo-Fr-Pipeline-Hauptlauf 13:30 Berlin für Tages-Slot 08.10.2026. Recherche-File data/recherche/2026-10-08.json existiert nicht — Fallback-Recherche inline per Phase-1-Routine. Pipeline übernimmt den vorher vom Watchdog 14:30 erstellten Empty-Slate (das vorige File data/tipps/2026-10-08.json war watchdog_recovery=true) nach eigener Nachprüfung — gleicher Verdikt, Pipeline-Signatur ersetzt Watchdog-Signatur.",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "leerer_slate",
+        "spiel_id": null,
+        "details": "Zweiter und letzter Übergangstag zwischen Ende der merged FIFA-Länderspielpause (21.09.–06.10., Di 06.10. war Tag 16/16 mit Nations League MD4 — uefa.com + Wikipedia 2026–27 UEFA Nations League A) und dem Wiederanpfiff der Vereins-Saison morgen Fr 09.10. mit Bundesliga-MW5-Auftakt RB Leipzig–Eintracht Frankfurt 20:30 (laut bayer04.de + schalke04.de + fifplay.com + t-online Live-Ticker-Vorab-Seiten, komplettes MW5-Programm folgt Sa–So 10.–11.10.), 2.BL MW7 09.–11.10., Premier League MW6 10.10., LaLiga J8/Serie A 6a/Ligue 1 J8 09.–11.10., UEFA CL MD2 13.–14.10. mit u.a. Bodø/Glimt–BVB + Man City–PSG laut uefa.com + skysports, UEFA EL MD2 + UEFA CoL MD1 beide Do 15.10. (nächster Donnerstag — footballwebpages/uefa-europa-league/20261015 und groundhopperguides bestätigen 15.10. als UECL-League-Phase-Start und UEL-MD2), UEFA EL MD3 22.10., DFB-Pokal R2 27.–28.10., EFL-Cup R4 w/c 26.10., Coppa Italia R16 ab 02.12., Copa del Rey Segunda Ronda 28.10., Coupe de France 32e 20.12., FA Cup heute nur Non-League-Qualifikation, kein Supercup heute. Was im Fenster läuft: Freundschaftsspiele + Brasileirão + Uzbekistan Super League + andere Nicht-Whitelist-Ligen (Betfred-Fixtures-Listing 08.10. zeigt diese Partien) — alle nicht in der Whitelist."
+      },
+      {
+        "art": "konsistenz_check",
+        "spiel_id": null,
+        "details": "Deckungsgleich mit tipps/2026-10-02.json bis tipps/2026-10-07.json (alle Break-/Lücken-Dossiers mit 0 Whitelist-Spielen) und mit dem vorangegangenen tipps/2026-10-08.json des Watchdogs (14:30-Lauf). Kein Drift zwischen Vortagen, Watchdog und Pipeline. Nächstes echtes Dossier: heute Do 08.10. 18:00 Wochenend-Vorschau (Sa 10.–So 11.10., tipps_wochenende/2026-10-10.json) ODER spätestens morgen Fr 09.10. 13:30 Tages-Dossier (Bundesliga-MW5-Auftakt)."
+      },
+      {
+        "art": "pipeline_bestaetigt_watchdog",
+        "spiel_id": null,
+        "details": "Pipeline-Hauptlauf hat den Empty-Slate des Watchdogs 14:30 unabhängig per Phase-1-Fallback-Recherche nachgeprüft (football-data.org v4/matches liefert in der Routine-Sandbox 403 vom Egress-Proxy, Primärquellen daher über WebSearch: uefa.com Nations-League-Fixtures-Übersicht, Wikipedia 2026–27 UEFA Nations League A, bayer04.de / schalke04.de / fifplay.com für Bundesliga-MW5-Spielplan, skysports für Champions-League-MD2-Datumsraster, footballwebpages für UEL-MD2 am 15.10. und 22.10., groundhopperguides für UECL-MD1 am 15.10., Wikipedia 2026–27 DFB-Pokal für Pokal-R2 am 27.–28.10., Betfred-Fixtures-Listing für den 08.10.-Negativ-Check der Nicht-Whitelist-Partien). Verdikt gleich: 0 Whitelist-Spiele. Watchdog-Signatur wird durch Pipeline-Signatur ersetzt (pipeline_main_slot=true + watchdog_recovery_bestaetigt=true)."
+      },
+      {
+        "art": "backstop_verifikation",
+        "spiel_id": null,
+        "details": "Safety-Net-Backstop (dritte Kette-Stufe) hat um ~19:15 Berlin unabhängig gegengeprüft, nachdem Haupt-Routine 13:30 + Watchdog 14:30 beide das Empty-Slate-Dossier produziert haben. Backstop-Checks: (a) livesoccertv.com 08.10.2026-Schedule als Negativ-Index → nur Brasileirão (Santos–Flamengo 19:30, Athletico-PR–Atlético Mineiro 20:00, Palmeiras–Bahia 21:30, Fluminense–Coritiba 21:30), Colombian Primera A (Atlético Nacional–Deportes Tolima, Fortaleza–Millonarios), Romanian Liga I (CFR Cluj–Universitatea Cluj) — kein Whitelist-Match; (b) UEFA Nations League A 2026/27-Fixtures via uefa.com + Wikipedia → MD4 Sa 04.–Di 06.10., MD5 erst 12.–17.11., kein League-A-Spiel am 08.10.; (c) UCL/UEL/UCoL-Datumsraster → nächste Termine 13.–14.10. / 22.10. / 15.10., keiner heute; (d) Supercup-Pflichtcheck (sechs Pflicht-Supercups der CLAUDE.md-Whitelist) → keiner heute; (e) Pokal-Check (DFB/EFL/Coppa/Copa del Rey/Coupe de France/FA Cup) → kein Whitelist-Pokal heute; (f) Konsistenz-Vergleich mit 02.–07.10.-Dossiers → identisches Empty-Slate-Pattern wegen FIFA-Break-Übergang (zweiter und letzter Lücken-Tag vor Vereins-Wiederanpfiff morgen Fr 09.10. mit RB Leipzig–Eintracht Frankfurt 20:30). Verdikt: Pipeline + Watchdog haben korrekt den leeren Slate gewählt, kein Overwrite nötig. Backstop ergänzt lediglich safety_net_backstop=true + eigene Quellen zur Nachvollziehbarkeit."
+      }
+    ],
+    "lessons_generiert": [],
+    "quellen": [
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League_A",
+      "https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-fixtures-a/",
+      "https://www.englandfootball.com/articles/2026/Feb/12/uefa-nations-league-2026-27-draw-made-20261202",
+      "https://www.footballwebpages.co.uk/uefa-europa-league/20261015",
+      "https://www.footballwebpages.co.uk/uefa-europa-league/20261022",
+      "https://groundhopperguides.com/2026-27-conference-league-schedule/",
+      "https://insights.betfred.com/football/fixtures/08-10-2026/",
+      "https://www.bayer04.de/en-us/news/bundesliga/bundesliga-matchdays-5-11-scheduled-derby-and-dortmund-on-sunday",
+      "https://schalke04.de/en/bundesliga-en/matchdays-5-to-11-scheduled-2627/",
+      "https://www.fifplay.com/bundesliga-2026-2027-matchday-5/",
+      "https://www.skysports.com/football/news/11667/13578265/champions-league-2026-27-fixtures-dates-schedule-format-and-who-has-qualified-from-premier-league-and-around-europe",
+      "https://www.t-online.de/sport/live-ticker/fussball/german-bundesliga/sdc_fm-59325/leipzig-frankfurt-german-bundesliga-im-liveticker.html",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_DFB-Pokal",
+      "https://www.livesoccertv.com/schedules/2026-10-08/",
+      "https://www.sportinglife.com/football/fixtures-results/tomorrow",
+      "https://fbref.com/en/matches/"
+    ]
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Glücksspielsucht-Hotline: 0800 1372700",
+  "einzeltipps_ergebnis": [],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-10-09T06:12:44+00:00"
+}
