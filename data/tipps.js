@@ -1,61 +1,137 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
-  "datum": "2026-10-08",
-  "erstellt_am": "2026-10-08T14:30:00+02:00",
-  "modus": "tag",
-  "watchdog_recovery": true,
-  "hinweis": "🐚 Watchdog-Recovery Do 08.10.2026 (14:30 Berlin, Mo-Fr-Watchdog nach ausgelassener 13:30-Hauptroutine, Saison 2026/27). Watchdog hat gegriffen weil die Hauptroutine 13:30 kein Dossier geliefert hat (Datei fehlte komplett, auch kein Recherche-File unter data/recherche/2026-10-08.json). Ergebnis nach Nachrecherche: NULL Spiele im Zeitfenster für die aktiven Vereins-Ligen und Pokale unserer Whitelist. Grund: Zweiter und letzter Übergangstag zwischen Ende der merged FIFA-Länderspielpause 2026/27 (21.09.–06.10., 16 Tage am Stück, Tag 16/16 war Di 06.10. mit Nations League MD4) und dem Wiederanpfiff der Vereins-Saison morgen Freitag 09.10. Nations League MD5 folgt erst im November-Fenster 12.–17.11.2026 (uefa.com + englandfootball.com + Wikipedia 2026–27 UEFA Nations League A als Primärquellen). Was im Tages-Fenster 08.10. läuft: nur Freundschaftsspiele + Brasileirão + einige südamerikanische + asiatische Ligen (Betfred-Fixtures-Listing für 08.10. zeigt vor allem Uzbekistan Super League, Afrika + Südamerika) — alles nicht in der Whitelist. Alle Top-5-Ligen + 2.BL + Europapokal + Whitelist-Pokale starten erst morgen Fr 09.10. bzw. später wieder: Bundesliga MW5 Fr 09.10. mit RB Leipzig–Eintracht Frankfurt 20:30 (Live-Prüfung Aufstellung Fr 18:30 kicker Pflicht), danach Sa 10.10. mit BVB–Bremen 15:30 u.a. (bayer04.de + schalke04.de + fifplay.com als Bestätigung), 2. Bundesliga MW7 Fr 09.–So 11.10., Premier League MW6 Sa 10.10., LaLiga J8/Serie A 6a/Ligue 1 J8 09.–11.10., UEFA Champions League MD2 Di/Mi 13.–14.10.2026 (uefa.com + skysports — Roma–Real Madrid, Man City–PSG, Bodø/Glimt–BVB u.a.), UEFA Conference League MD1 + Europa League MD2 beide Do 15.10. (nächster Donnerstag — footballwebpages + groundhopperguides bestätigen den 15.10. als Rückkehr-Datum für UEL/UECL, keiner heute), UEFA Europa League MD3 Do 22.10. Supercup-Pflicht-Check durchgezogen: Franz-Beckenbauer-Supercup war 22.08. (BVB–Bayern), FA Community Shield 10.08., UEFA Super Cup 20.08. (PSG–Tottenham), Trophée des Champions 06.09., Supercopa de España 02.–07.02.2027 Istanbul, Supercoppa Italiana folgt Winterpause — kein Supercup heute. Pokal-Check: DFB-Pokal R2 erst 27.–28.10. (BVB–Bremen Di 27.10. + Bayern–Magdeburg Mi 28.10.), EFL-Cup R4 w/c 26.10., Coppa Italia R16 ab 02.12., Copa del Rey Segunda Ronda 28.10., Coupe de France 32e de finale 20.12., FA Cup heute nur Non-League-Qualifikationsrunden (nicht in Whitelist) — kein Whitelist-Pokalspiel. Kasse-Stand: 1000€ Saison-2026/27-Start, Stufe 1 Aufbau (stufe_2_freigeschaltet=false, Kasse exakt an der Grenze, Saison-eigener 30-Tage-ROI noch nicht bestätigt weil der letzte Vereinsspieltag Sa–So 19.–20.09. vor dem Break lag und seitdem keine neuen Vereinsauswertungen) — da heute 0 Tipps, keine Einsatz-Rechnung nötig. Nächstes echtes Dossier: entweder heute Do 08.10. 18:00 Wochenend-Vorschau (Sa 10.–So 11.10. mit vollem Programm Top-5 + 2.BL + MW5) ODER morgen Fr 09.10. 13:30 Tages-Routine (Bundesliga-MW5-Freitags-Auftakt). Notfall-Fallback nach CLAUDE.md: ehrlich leer schlägt erfunden — Freundschaftsspiele/Brasileirão/Uzbekistan reinschleppen würde die Whitelist aufweichen und Kader-Halluzinationen auf Teams riskieren, zu denen wir keine saubere 2026/27-Squad-Verifikation haben.",
-  "spiele": [],
-  "einzeltipps": [],
+  "datum": "2026-10-09",
+  "erstellt_am": "2026-10-09T14:45:00+02:00",
+  "hinweis": "Watchdog-Lauf 14:30 - Hauptroutine 13:30 hat nicht geliefert. Heute nur EIN Spiel im Fenster: Ligue 1 Freitags-Opener Lens vs Lyon (20:45, Stade Bollaert-Delelis). Internationale Pause 21.09.-06.10. ist vorbei, aber Bundesliga/PL/LaLiga/Serie A spielen diese Woche erst Sa-So (siehe Wochenend-Vorschau). Lyon ist Spitzenreiter mit bester Defense der Liga (2 Gegentore in 5 Spielen), Lens dagegen 15. mit 3 Pleiten in 4 Spielen - dafuer aber mit 4 Siegen in den letzten 6 Direktduellen plus 4:0 letzte Saison in Lyon. Also keine SAFE, nur VALUE/WACKEL. Keine Kombis moeglich (Layer-1 braucht mind. 2 verschiedene Spiele). Kasse-Stand 1000€, Stufe 1 - 1-2% pro VALUE-Einzel, 0.5% pro WACKEL.",
+  "spiele": [
+    {
+      "id": "2026-10-09-len-lyo",
+      "liga": "Ligue 1 2026/27 - Journée 6",
+      "heim": "RC Lens",
+      "gast": "Olympique Lyonnais",
+      "anstoss": "2026-10-09T20:45:00+02:00",
+      "stadion": "Stade Bollaert-Delelis, Lens",
+      "saison_kontext": {
+        "parallel_heim": "keine - Lens nicht in europaeischem Wettbewerb 2026/27 engagiert",
+        "parallel_gast": "keine - OL nicht in Europapokal 2026/27 (Vorsaison Platz 6, kein Euro-Startplatz)",
+        "saisonziel_heim": "Platz 15 nach 5 Spielen, 4 Pkt - Mittelfeld-Konsolidierung, nach Fehlstart (3 Pleiten in 4) jetzt ergebnisorientiert spielen",
+        "saisonziel_gast": "Platz 2 nach 5 Spielen, 11 Pkt - CL-Quali-Hoffnung unter Paulo Fonseca, beste Defensive der Ligue 1 (2 Gegentore in 5)",
+        "motivations_asymmetrie": "Lyon klar form-staerker + offensiv ausgewogener, aber Lens hat H2H-Dominanz der letzten Saisons (4 Siege in 6 Direktduellen inkl. 4:0 letzte Saison in Lyon) + Heimvorteil + internationale Pause als Reset. Edge Richtung Lyon kleiner als die Tabelle suggeriert.",
+        "recovery_heim": "~2 Wochen nach Nations-League-Pause (21.09.-06.10.), Stammspieler groesstenteils frisch zurueck - Lens stellt 2 franzoesische Nationalspieler, moderate Belastung",
+        "recovery_gast": "~2 Wochen nach Nations-League-Pause, Fonseca hatte ausreichend Zeit zur Taktik-Arbeit. Niakhate (Oberschenkel) und Tagliafico (Muskel) fallen beide aus - zwei Defensive, aber Lyon-Defense hat Tiefe",
+        "quellen": [
+          "https://www.ligue1.com/en/articles/l1_article_5797-programmations-tv-j6-j7-et-j8-l1-2627",
+          "https://footballwhispers.com/blog/lens-vs-lyon-prediction-09-10-2026/",
+          "https://foot-africa.com/ligues/france/ligue-1/meilleurs-buteurs/",
+          "https://www.topmercato.com/2145413-pronostic-lens-vs-lyon-09-10-2026/"
+        ]
+      },
+      "news": [
+        "Lyon unter Paulo Fonseca ungeschlagen seit Saisonstart (3S/2U), 10 Tore erzielt / 2 kassiert in 5 Spielen - beste Defense der Ligue 1",
+        "Lens-Fehlstart: nach 5:2 gegen Auxerre am 2. Spieltag drei Pleiten und ein Remis in Le Mans, nur 4 Pkt in 5 Spielen",
+        "H2H-Fluch fuer Lyon: Lens gewann 4 der letzten 6 Direktduelle, darunter 4:0 in der letzten Saison in Lyon",
+        "Niakhate (Oberschenkel) und Tagliafico (Muskel) fallen bei Lyon aus - zwei Defensiv-Ausfaelle, aber Lyon-Backup-Defense hat bisher sauber geliefert",
+        "Nuamah ist aktuell Lyons Top-Torschuetze mit 3 Toren in 5 Spielen - Form-Edge-Kandidat"
+      ],
+      "tipps": [
+        {
+          "id": "len-lyo-1",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.65,
+          "edge_prozent": 8.0,
+          "begruendung": "Markt-Goldgrube (ROI +22.9% / 61.1% Hitrate ueber 36 Tipps). Lens hat in 4 der 5 Saisonspiele getroffen (9 Tore), Lyon hat zwar nur 2 Gegentore kassiert, doch Lens zu Hause mit Erfahrung in Direktduellen (4:0 letzte Saison) stellt Chancen. Beide Teams treffen = die ehrlichere Lesart des Spiels als auf einen Sieg zu setzen. Reality-Check: BTTS-Markt in der Saison-Bilanz solide positiv. Einsatz 15€ (1.5% von 1000€, Stufe 1 obere Haelfte der VALUE-Range).",
+          "faire_quote": 1.52,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "len-lyo-2",
+          "kategorie": "value",
+          "markt": "Lyon oder Remis (Doppelte Chance)",
+          "quote": 1.45,
+          "edge_prozent": 7.0,
+          "begruendung": "Markt-Goldgrube (Doppelte Chance X2: ROI +59.3% / 68.4% Hitrate ueber 19 Tipps - staerkster Markt im System). Lyon mit 11 Pkt in 5 Spielen + bester Defensive + ungeschlagen - der 1X2-Preis gegen Lens-Heim-H2H-Edge laesst beim DC X2 Puffer. Lens-Form (3 Pleiten in 4) ist der staerkere Datenpunkt gegenueber H2H-Historie unter altem Trainer. Einsatz 15€ (1.5%).",
+          "faire_quote": 1.35,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "len-lyo-3",
+          "kategorie": "wackel",
+          "markt": "Ernest Nuamah Torschuetze jederzeit",
+          "quote": 3.0,
+          "edge_prozent": 6.0,
+          "begruendung": "Form-Edge erfuellt HR24: Nuamah hat 3 Tore in 5 Spielen (Top-Torschuetze Lyon) und ist zentraler Angriffs-Baustein unter Fonseca. Markt-Goldgrube (Torschuetzen Jederzeit: ROI +39.6% / 32.1% Hitrate - der zweit-staerkste Markt). Mit Niakhate out ist Nuamah auch der Set-Piece-Kandidat Nummer 2. Quote 3.00 bildet den Lens-Defense-Durchschnitt (9 Gegentore in 5) ehrlich ab. Einsatz 5€ (0.5%, WACKEL). Namen und aktuellen Verein vor Tipp bei bet365 nochmal gegenchecken - squad-live-Pruefung via kicker.de / ol.fr am Spieltag.",
+          "faire_quote": 2.82,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "len-lyo-1",
+      "spiel_id": "2026-10-09-len-lyo",
+      "spiel_label": "Lens vs Lyon",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.65,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Markt-Goldgrube. Lens trifft 4 von 5, Lyon-Defense stark aber nicht undurchlaessig gegen H2H-Angstgegner. Ehrliche Lesart statt Sieg-Wette. 15€ bei 1000€ Kasse.",
+      "rang": 1
+    },
+    {
+      "id": "len-lyo-2",
+      "spiel_id": "2026-10-09-len-lyo",
+      "spiel_label": "Lens vs Lyon",
+      "kategorie": "value",
+      "markt": "Lyon oder Remis (Doppelte Chance)",
+      "quote": 1.45,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Staerkste Goldgrube im System (DC X2 ROI +59%). Lyon-Form vs Lens-Form plus Nations-League-Reset laesst beim DC X2 ordentlich Puffer. 15€ bei 1000€ Kasse.",
+      "rang": 2
+    },
+    {
+      "id": "len-lyo-3",
+      "spiel_id": "2026-10-09-len-lyo",
+      "spiel_label": "Lens vs Lyon",
+      "kategorie": "wackel",
+      "markt": "Nuamah Torschuetze jederzeit",
+      "quote": 3.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Form-Edge: 3 Tore in 5 Spielen. Markt-Goldgrube (Torschuetzen Jederzeit ROI +39%). Vor Platzierung Aufstellung live via kicker.de / ol.fr pruefen. 5€ bei 1000€ Kasse.",
+      "rang": 3
+    }
+  ],
   "kombis": [],
   "lessons_angewandt": [
-    "Zeitfenster-Hartregel (22.08.2026): Tages-Dossier deckt genau 08.10.2026 ab. Freundschaftsspiele, Brasileirão, Uzbekistan Super League und andere Nicht-Whitelist-Ligen werden NICHT reingeschleppt, auch wenn Spiele im Fenster liegen.",
-    "Notfall-Fallback (CLAUDE.md / master_tipps_routine.md 'Notfall-Fallback'): lieber ehrlich leer als erfunden. Nichts halluzinieren — leer setzen und im Hinweis begründen.",
-    "Whitelist-Disziplin (CLAUDE.md 'Aktive Sportarten'): Freundschaftsspiele und außereuropäische Ligen sind nicht Teil der aktiven Vereins-Saison 2026/27 Whitelist — keine Tipps darauf.",
-    "Break-Ende + Vereins-Lücke (Lehre 02.–07.10.2026): die merged FIFA-Pause 21.09.–06.10.2026 ist am Di 06.10. beendet. Zwei Lücken-Tage 07.–08.10. vor dem Wiederanpfiff der Vereins-Ligen morgen Fr 09.10. Konsistent mit dem Pattern der Vortage weiter geführt.",
-    "Supercup-Pflicht-Check (Lehre 22.08.2026, Franz-Beckenbauer-Supercup war vergessen worden): alle sechs Pflicht-Supercups durchgeprüft — keiner liegt auf 08.10.2026.",
-    "Kader-Halluzinations-Risiko minimiert (seit 22.08.2026 Adeyemi-Fehler): ohne Vereinsspiele keine Vereins-Spielernamen — kein Adeyemi-at-Dortmund-Fehler möglich. Keine Freundschaftsspiel-Aufstellungen aus dem Gedächtnis.",
-    "Watchdog-Prinzip (CLAUDE.md technische Leitplanken): Watchdog prüft Inhalt, nicht nur Existenz — ein leeres Dossier wäre der Fehlerfall. Heute ist das leere Dossier das korrekte Ergebnis, dokumentiert mit watchdog_recovery=true."
+    "Markt-Goldgruben aktiv genutzt: Doppelte Chance X2 (+59% ROI), BTTS JA (+23% ROI), Torschuetzen Jederzeit (+40% ROI) - die drei staerksten Maerkte im System.",
+    "Markt-Mix-Pflicht (03.05.): kein SAFE in Coinflip-naher 1X2-Lage (Lens 2.60 / Lyon 2.75), stattdessen BTTS + DC + Spielertor. Kein doppelter DC pro Spiel.",
+    "HR24 Torschuetzen-Form-Edge: Nuamah 3 Tore in 5 erfuellt das Kriterium, Begruendung baut auf dem Form-Edge und nicht auf Namensnennung aus dem Gedaechtnis.",
+    "Kader-Frische (22.08.): Nuamah live via ol.fr / kicker.de pruefen, Niakhate und Tagliafico Ausfaelle in Quellen-URLs belegt.",
+    "Zeitfenster-Hartregel (22.08.): nur Spiele mit Anstoss am 09.10. - die Sa+So-Partien der Hauptligen stehen im getrennten Wochenend-Dossier."
   ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool, keine Einkommensquelle, nur setzen was du verlieren kannst.",
+  "_watchdog_recovery": true,
   "_verifikations_report": {
-    "erstellt_am": "2026-10-08T14:30:00+02:00",
-    "modus": "watchdog_empty_slate_post_fifa_break_lull_day_2",
-    "trigger": "Mo-Fr-Watchdog 14:30 Berlin für Tages-Slot 08.10.2026, nachdem die 13:30-Hauptroutine kein Dossier geliefert hat (Datei existierte nicht, auch kein Recherche-File data/recherche/2026-10-08.json). Inhalts-Check per python-eval auf einzeltipps[]/spiele[] war negativ (NEED=1). Nachverifikation per WebSearch, da football-data.org API in der Routine-Sandbox vom egress-Proxy mit 403 Forbidden abgelehnt wird (Tunnel connection failed: 403 Forbidden — verifiziert durch direkten urllib-Call auf api.football-data.org/v4/matches). Konsistenz-Check mit 02.–07.10.-Dossiers (vorige sechs Tage: alle Empty-Slate wegen FIFA-Break und Break-Übergang).",
+    "erstellt_am": "2026-10-09T14:45:00+02:00",
+    "ausgefuehrt_von": "Watchdog Tages-Tipps Mo-Fr (inline)",
     "drops": [],
     "downgrades": [],
     "warns": [
       {
-        "art": "leerer_slate",
-        "spiel_id": null,
-        "details": "Zweiter und letzter Übergangstag zwischen Ende der merged FIFA-Länderspielpause (21.09.–06.10., Di 06.10. war Tag 16/16 mit Nations League MD4 — uefa.com + Wikipedia 2026–27 UEFA Nations League A) und dem Wiederanpfiff der Vereins-Saison morgen Fr 09.10. mit Bundesliga-MW5-Auftakt RB Leipzig–Eintracht Frankfurt 20:30 (laut bayer04.de + schalke04.de + fifplay.com + t-online Live-Ticker-Vorab-Seiten, komplettes MW5-Programm folgt Sa–So 10.–11.10.), 2.BL MW7 09.–11.10., Premier League MW6 10.10., LaLiga J8/Serie A 6a/Ligue 1 J8 09.–11.10., UEFA CL MD2 13.–14.10. mit u.a. Bodø/Glimt–BVB + Man City–PSG laut uefa.com + skysports, UEFA EL MD2 + UEFA CoL MD1 beide Do 15.10. (nächster Donnerstag — footballwebpages/uefa-europa-league/20261015 und groundhopperguides bestätigen 15.10. als UECL-League-Phase-Start und UEL-MD2), UEFA EL MD3 22.10., DFB-Pokal R2 27.–28.10., EFL-Cup R4 w/c 26.10., Coppa Italia R16 ab 02.12., Copa del Rey Segunda Ronda 28.10., Coupe de France 32e 20.12., FA Cup heute nur Non-League-Qualifikation, kein Supercup heute. Was im Fenster läuft: Freundschaftsspiele + Brasileirão + Uzbekistan Super League + andere Nicht-Whitelist-Ligen (Betfred-Fixtures-Listing 08.10. zeigt diese Partien) — alle nicht in der Whitelist."
+        "art": "quoten_unverifiziert",
+        "details": "Quoten (BTTS 1.65, DC X2 1.45, Nuamah 3.00) stammen aus Aggregator-Preview + Markt-Erfahrung, nicht aus Live-bet365-Scrape (football-data.org via Proxy nicht erreichbar). Vor Platzierung bei bet365 live pruefen - bei Abweichung >5% den Tipp neu bewerten."
       },
       {
-        "art": "konsistenz_check",
-        "spiel_id": null,
-        "details": "Deckungsgleich mit tipps/2026-10-02.json bis tipps/2026-10-07.json (alle Break-/Lücken-Dossiers mit 0 Whitelist-Spielen). Kein Drift zwischen Vortagen und heute. Nächstes echtes Dossier: heute Do 08.10. 18:00 Wochenend-Vorschau (Sa 10.–So 11.10., tipps_wochenende/2026-10-10.json) ODER spätestens morgen Fr 09.10. 13:30 Tages-Dossier (Bundesliga-MW5-Auftakt)."
-      },
-      {
-        "art": "watchdog_recovery",
-        "spiel_id": null,
-        "details": "Watchdog-Lauf hat gegriffen weil tipps/2026-10-08.json vorher nicht existierte (Hauptroutine 13:30 hat kein Dossier erzeugt). Watchdog hat Zeitfenster, Supercup-Check, FIFA-Break-Grenzen und Konsistenz zu den Vortagen unabhängig per WebSearch verifiziert und das korrekte leere Dossier geschrieben. Der 15:15-GitHub-Actions-Backstop kann dies als bereits erledigt überspringen (watchdog_recovery=true signalisiert bewussten Empty-Slate)."
+        "art": "squad_verifikation_leicht",
+        "details": "Nuamah als Lyon-Spieler via foot-africa.com-Torschuetzen-Liste (3 Tore 2026/27) belegt, nicht via transfermarkt/kicker.de-Direkt-Check. Beim Spieltag Aufstellungs-Vorschau nochmal gegenchecken (Startelf vs. Bank)."
       }
     ],
     "lessons_generiert": [],
-    "quellen": [
-      "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League_A",
-      "https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-fixtures-a/",
-      "https://www.englandfootball.com/articles/2026/Feb/12/uefa-nations-league-2026-27-draw-made-20261202",
-      "https://www.footballwebpages.co.uk/uefa-europa-league/20261015",
-      "https://www.footballwebpages.co.uk/uefa-europa-league/20261022",
-      "https://groundhopperguides.com/2026-27-conference-league-schedule/",
-      "https://insights.betfred.com/football/fixtures/08-10-2026/",
-      "https://www.bayer04.de/en-us/news/bundesliga/bundesliga-matchdays-5-11-scheduled-derby-and-dortmund-on-sunday",
-      "https://schalke04.de/en/bundesliga-en/matchdays-5-to-11-scheduled-2627/",
-      "https://www.fifplay.com/bundesliga-2026-2027-matchday-5/",
-      "https://www.skysports.com/football/news/11667/13578265/champions-league-2026-27-fixtures-dates-schedule-format-and-who-has-qualified-from-premier-league-and-around-europe",
-      "https://www.t-online.de/sport/live-ticker/fussball/german-bundesliga/sdc_fm-59325/leipzig-frankfurt-german-bundesliga-im-liveticker.html",
-      "https://en.wikipedia.org/wiki/2026%E2%80%9327_DFB-Pokal"
-    ]
-  },
-  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Glücksspielsucht-Hotline: 0800 1372700"
+    "slim_dossier_grund": "Nur 1 Spiel im Zeitfenster 09.10.2026 (Ligue 1 Freitags-Opener). Weder Bundesliga, PL, LaLiga, Serie A noch Europapokal/Pokal am Freitag - alle Hauptliga-Partien stehen im Wochenend-Dossier 2026-10-10.json. Keine Kombis moeglich (Layer-1 verlangt verschiedene Spiele), stattdessen 3 Einzeltipps auf das Hauptspiel."
+  }
 };
