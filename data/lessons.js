@@ -3230,7 +3230,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "8b Kader-Trainer-Frische - Iraola als Liverpool-Manager bestaetigt",
       "lesson": "Beim Auswerten von Bournemouth-Liverpool fiel auf: Skysports-Bericht 'Andoni Iraola triumphs at his former club' + kader_wechsel_2026.json (Barcola-Eintrag) fuehrt bereits 'Liverpool-Fluegel unter Iraola'. Bestaetigt: Iraola ist Liverpool-Cheftrainer 2026/27, nicht Slot. Bournemouth-Trainer neu - vor Bournemouth-Tipp live pruefen. Aehnlich: Spalletti als Juventus-Trainer nach Sassuolo-Pleite laut Match-Report ('Spalletti returns to winning ways in Serie A too'). Neue Info in trainer_2026_27 aufgenommen. Muster: die Routine-Prompts drueben schwebt teilweise noch mit 2025/26-Trainer-Bildern - Auswertung ist der beste Moment zur Korrektur.",
       "bezug_spiel_id": "2026-09-20-bou-liv"
+    },
+    {
+      "datum": "2026-10-09",
+      "kategorie": "8e+Insurance Dortmund-Werder 2:2 - 2:0-Insurance rettet SAFE-Tipp",
+      "lesson": "BVB fuehrte 85. Min 2:0 (Svensson 80', Schlotterbeck 85') und kassierte dann in 7 Minuten den Ausgleich (Reis 88', Fuellkrug 90+2 nach Freistoss-Kopfball). Direkter Sieg-Tipp 'Dortmund Sieg 90 Min' war ohne 2:0-Insurance verloren - die Bundesliga-Regel hat ihn gerettet. Konkrete Mechanik: 2:0-Insurance greift nicht nur bei spaeter Niederlage ('4:3-Niederlage'-Beispiel in CLAUDE.md), sondern auch bei Remis, in dem BVB vorher 2:0 fuehrte. Fuer Dossier-Qualitaet: die Insurance ist das Argument fuer SAFE auf einen 1.35-Favoriten, nicht ein nachtraegliches Alibi. Weiter bei BuLi-Favoriten-Siegen aktiv mitrechnen - heute hat sie 7€ Gewinn statt 15€ Verlust gebracht.",
+      "bezug_spiel_id": "2026-10-09-bvb-wer"
+    },
+    {
+      "datum": "2026-10-09",
+      "kategorie": "8h Rotations-Pattern - Form-Edge-Torschuetzen nach Nations-League-Pause gedaempft",
+      "lesson": "Beide Form-Edge-Torschuetzen (Guirassy BVB mit 2 Liga + 2 CL = 4 Tore in 5, Nuamah Lyon mit 3 Tore in 5) blieben torlos. Guirassy startete, aber Werder-IV verteidigte den Topscorer wirksam. Lyons einziger Treffer kam vom Mittelfeldspieler Khalis Merah, nicht von Nuamah oder dem alternativen Openda. Pattern: unmittelbar nach internationaler Pause (3-4 Tage Taktik-Vorbereitung) sind Volumen-Stuermer oft gedaempft - entweder durch Belastungs-Resetter oder weil Trainer die ersten 60 Minuten vorsichtig stellen. Fuer naechste Dossiers: 'Torschuetzen Jederzeit' nach FIFA-/Nations-League-Pausen eine Stufe konservativer werten (SAFE/VALUE -> VALUE/WACKEL) oder nur bei kombinierter Form+Defense-Match-up-Signatur spielen.",
+      "bezug_spiel_id": "2026-10-09-bvb-wer"
+    },
+    {
+      "datum": "2026-10-09",
+      "kategorie": "8e Markt-Reality - BETSiE-Need-To-Win-These vs Realitaet Braunschweig-Kiel",
+      "lesson": "AI-Modell BETSiE sah 61.7% BTTS fuer Braunschweig vs Holstein Kiel ('beide need-to-win'), die Realitaet war 1:0 nach frueher TW-Patzer-Chance (Urbich 11.' nach Nekic-Rueckpass-Fehler). BTTS verloren, Ueber 2.5 verloren, Braunschweig-Sieg gewonnen. Pattern: Need-To-Win-Narrativ bei Krisen-Teams produziert oft eher Angst-Fussball + Standard/Patzer-Treffer statt Risk-On-Signatur. Besonders in der 2. Liga, wo defensive Grund-Setups dominieren. Fuer naechste Dossiers: BTTS/Ueber 2.5 bei '2x Krisen-Team'-Konstellation runter auf WACKEL statt VALUE - und BETSiE-Model-ROI (noch zu wenig Datenpunkte fuer belastbare Statistik) nicht als Hauptargument fuer SAFE/VALUE heranziehen.",
+      "bezug_spiel_id": "2026-10-09-bra-kie"
+    },
+    {
+      "datum": "2026-10-09",
+      "kategorie": "8g Markt-Pattern aus Spiel-Historie - H2H-Edge schlaegt kurzfristige Form (Lens-Lyon)",
+      "lesson": "Lens 2:1 Lyon trotz Lyon-Form (ungeschlagen 11 Pkt, beste Ligue-1-Defense). H2H-Fluch materialisierte sich: Lens gewinnt daheim gegen Lyon zum 5. Mal in den letzten 7 Direktduellen. Dossier-DC-X2-Tipp (Lyon oder Remis) stuetzte sich auf Form-Argument und verlor; Moonshot-Lens-Sieg Baustein gewann. Pattern: H2H-Edge mit struktureller Signatur (Lens' Stadium, Pressing-Zuschauer-Konstellation) ueberlebt oft eine 5-Spiele-Form-Momentaufnahme der Gegenseite. Fuer naechste Dossiers mit DC X2 auf Form-Teams gegen H2H-dominante Heimteams: SAFE-Downgrade auf VALUE, Form-Argument allein ist unzureichend bei dokumentierter 5-aus-7-Historie zugunsten des Heimteams.",
+      "bezug_spiel_id": "2026-10-09-len-lyo"
     }
   ]
-}
-;
+};

@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-10-09T17:11:21+00:00",
+  "letzte_berechnung": "2026-10-10T06:21:31+00:00",
   "gesamt": {
     "tipps": 290,
     "gewonnen": 150,
@@ -24,15 +24,15 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 64.7
   },
   "letzte_90_tage": {
-    "tipps": 282,
-    "gewonnen": 145,
-    "verloren": 125,
+    "tipps": 272,
+    "gewonnen": 142,
+    "verloren": 118,
     "push": 1,
     "offen": 11,
-    "einsatz": 271.0,
-    "netto": 84.89,
-    "trefferquote": 53.7,
-    "roi_prozent": 31.3
+    "einsatz": 261.0,
+    "netto": 87.32,
+    "trefferquote": 54.6,
+    "roi_prozent": 33.5
   },
   "nach_liga": {
     "FIFA WM 2026 - Achtelfinale (Round of 16)": {
@@ -2862,6 +2862,264 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-10-09",
+      "gesamt": {
+        "tipps": 12,
+        "gewonnen": 6,
+        "verloren": 6,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 12.0,
+        "netto": -1.6,
+        "trefferquote": 50.0,
+        "roi_prozent": -13.3
+      },
+      "spiele": [
+        {
+          "id": "2026-10-09-bvb-wer",
+          "liga": "Bundesliga 2026/27 - 5. Spieltag",
+          "heim": "Borussia Dortmund",
+          "gast": "SV Werder Bremen",
+          "endstand": "2:2",
+          "tipps": [
+            {
+              "markt": "Dortmund Sieg (90 Min)",
+              "quote": 1.35,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.35,
+              "kommentar": "2:0-Insurance (Bundesliga): BVB fuehrte durch Svensson 80' und Schlotterbeck 85' mit 2:0, Werder-Doppelschlag Reis 88' + Fuellkrug 90+2' zum 2:2. Direkter Sieg-Tipp in der Bundesliga - greift."
+            },
+            {
+              "markt": "Serhou Guirassy Torschuetze jederzeit",
+              "quote": 1.8,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Guirassy ohne Tor. Torschuetzen BVB: Svensson, Schlotterbeck. Einwechslungs-Boost nicht pruefbar - keine Treffer eines Guirassy-Ersatzes dokumentiert."
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.8,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.8,
+              "kommentar": "BTTS: BVB 2x (Svensson, Schlotterbeck), Werder 2x (Reis, Fuellkrug)."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-09-len-lyo",
+          "liga": "Ligue 1 2026/27 - Journée 7",
+          "heim": "RC Lens",
+          "gast": "Olympique Lyonnais",
+          "endstand": "2:1",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.65,
+              "kommentar": "BTTS: Lens Sotoca 36' + Udol 76', Lyon Merah 85'."
+            },
+            {
+              "markt": "Lyon oder Remis (Doppelte Chance)",
+              "quote": 1.45,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Lens 2:1-Heimsieg. DC X2 verloren. 2:0-Insurance gilt NICHT in Ligue 1 - trotz Lyon-Rot (Udol 84.) und Elfmeter-Fehlschuss Bacher bleibt der Tipp verloren."
+            },
+            {
+              "markt": "Ernest Nuamah Torschuetze jederzeit",
+              "quote": 3.0,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Nuamah ohne Tor. Lyon-Torschuetze: Khalis Merah. Einwechslungs-Boost nicht bestaetigt."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-09-hei-fck",
+          "liga": "2. Bundesliga 2026/27 - 7. Spieltag",
+          "heim": "1. FC Heidenheim",
+          "gast": "1. FC Kaiserslautern",
+          "endstand": "0:0",
+          "tipps": [
+            {
+              "markt": "Heidenheim oder Remis (Doppelte Chance)",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": "DC 1X: Remis 0:0 - Lautern verlaengert H2H-Serie (nie Auswaertssieg in Heidenheim) auf 11 Spiele."
+            },
+            {
+              "markt": "Heidenheim Sieg (90 Min)",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Heidenheim ohne Sieg, chancenarmes 0:0."
+            },
+            {
+              "markt": "Unter 3.5 Tore",
+              "quote": 1.55,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.55,
+              "kommentar": "Unter 3.5 Tore: 0:0 - deutlich darunter."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-09-bra-kie",
+          "liga": "2. Bundesliga 2026/27 - 7. Spieltag",
+          "heim": "Eintracht Braunschweig",
+          "gast": "Holstein Kiel",
+          "endstand": "1:0",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "BTTS: nur Braunschweig traf (Urbich 11.). Kiel ohne Tor."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Ueber 2.5 Tore: 1:0 - nur ein Tor."
+            },
+            {
+              "markt": "Braunschweig Sieg (90 Min)",
+              "quote": 2.75,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.75,
+              "kommentar": "Braunschweig-Heimsieg 1:0 (Urbich 11.). Kiel bleibt sieglos nach 7 Spielen."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi Freitag 09.10.",
+          "kategorie": "safe",
+          "gesamtquote": 5.16,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Guirassy Torschuetze jederzeit",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 3.5 Tore",
+              "quote": 1.55,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi Freitag 09.10.",
+          "kategorie": "balance",
+          "gesamtquote": 8.91,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Nuamah Torschuetze jederzeit",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi Freitag 09.10.",
+          "kategorie": "risk",
+          "gesamtquote": 22.69,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Guirassy 2 oder mehr Tore",
+              "quote": 5.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Braunschweig Sieg (90 Min)",
+              "quote": 2.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi Freitag 09.10.",
+          "kategorie": "moonshot",
+          "gesamtquote": 97.28,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Werder Bremen Sieg (90 Min)",
+              "quote": 8.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Lens Sieg (90 Min)",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Kaiserslautern Sieg (90 Min)",
+              "quote": 3.8,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-09-20",
       "gesamt": {
