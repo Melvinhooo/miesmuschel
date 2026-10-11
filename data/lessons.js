@@ -3254,6 +3254,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "8g Markt-Pattern aus Spiel-Historie - H2H-Edge schlaegt kurzfristige Form (Lens-Lyon)",
       "lesson": "Lens 2:1 Lyon trotz Lyon-Form (ungeschlagen 11 Pkt, beste Ligue-1-Defense). H2H-Fluch materialisierte sich: Lens gewinnt daheim gegen Lyon zum 5. Mal in den letzten 7 Direktduellen. Dossier-DC-X2-Tipp (Lyon oder Remis) stuetzte sich auf Form-Argument und verlor; Moonshot-Lens-Sieg Baustein gewann. Pattern: H2H-Edge mit struktureller Signatur (Lens' Stadium, Pressing-Zuschauer-Konstellation) ueberlebt oft eine 5-Spiele-Form-Momentaufnahme der Gegenseite. Fuer naechste Dossiers mit DC X2 auf Form-Teams gegen H2H-dominante Heimteams: SAFE-Downgrade auf VALUE, Form-Argument allein ist unzureichend bei dokumentierter 5-aus-7-Historie zugunsten des Heimteams.",
       "bezug_spiel_id": "2026-10-09-len-lyo"
+    },
+    {
+      "datum": "2026-10-10",
+      "kategorie": "8b Kader-Frische - Isak-Fehler bei Arsenal (nicht-dort-Klub)",
+      "lesson": "Dossier 10.10.2026 tippte Alexander Isak Torschuetze jederzeit bei Arsenal, obwohl Isak laut data/kader_wechsel_2026.json seit Sommer 2026 bei Liverpool spielt. Der Vorschau-Prompt platzierte ihn trotzdem bei Arsenal (Rekord-Zugang-Narrativ), Schema-Mapper erkannte das nicht - validate_kader_wechsel prueft nur 'player at OLD club', nicht 'player at nie-dort-Klub'. Tipp verlor, keine Isak-Erwaehnung in Match-Reports (ESPN, Arseblog, NBC). Lehre: fuer Torschuetzen-Tipps live auf kicker.de/transfermarkt die tatsaechliche Match-Zugehoerigkeit pruefen (Startelf-Vorschau zaehlt), kader_wechsel ist nur Negativ-Check. Fuer Mapper-Erweiterung: Positivliste erfolgreicher Torschuetzen pro Verein (aktuelle Saison) als Zusatz-Check.",
+      "bezug_spiel_id": "2026-10-10-ars-lee"
+    },
+    {
+      "datum": "2026-10-10",
+      "kategorie": "8f Drehungs-Cluster - 3 spaete Umschwuenge an einem Tag",
+      "lesson": "Slate 10.10.2026: drei Spiele kippten in zweiter Halbzeit zum Favoriten-Negativ. Augsburg-Bayern 2:2 (Augsburg fuehrte zweimal, Bayern Brown 80 nur zum Remis). Arsenal-Leeds 2:1 (Leeds Justin 55, Arsenal Comeback Calafiori 62 + Guimaraes 70). Man Utd-Tottenham 1:1 (Spurs 90+2 Solanke in Unterzahl, 11 Minuten nach Bentancur-Rot). Zweimal rettete nicht der Favorit sondern der Underdog Punkte / Dreier. Lehre: an einem Spieltag mit internationaler Pause und Mehrfach-Topspielen bleiben Kurzquoten-Sieg-Tipps (Quote <= 1.33) kein SAFE ohne 2:0-Insurance - fuer PL/LaLiga ohne Insurance in diesem Umfeld eher DC-1X/1 setzen. Daily-Pattern beobachten: bei >= 2 Comebacks im Slate Vorsicht bei Nummer-3-Favoritensieg.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-10-10",
+      "kategorie": "8e Kategorie-Reality - 0/4 Topscorer-Torschuetzen trotz Form-Edge",
+      "lesson": "Vier Torschuetzen-Jederzeit-Tipps auf Topscorer (Kane @ 1.60, Yamal @ 1.90, Mbappe @ 1.75, Isak @ 1.65) alle verloren an einem Tag - 0/4 Hitrate trotz Form-Edge-Pflicht-Erfuellung (HR24). Kane 2 Assists als MOTM statt Tor; Yamal Assist auf Kounde; Mbappe Chance pariert; Isak nicht einmal in Match-Reports erwaehnt (siehe Lesson 1). Gegen-Konstellationen: Augsburg-Dahmen-Startstarkform, Mourinho-Niedrigrhythmus bei Real 1:0, Getafe-Defensiv-Kompaktheit, Leeds-Startelf-Ueberraschung. Markt-Goldgrube Torschuetzen Jederzeit (+39.6 % ROI) bleibt - heute aber Konsistenz-Pleite, die den langfristigen Edge nicht widerlegt (n_hoch, einzelner Tagesausfall erwartbar bei ~50 % Hitrate). Lehre: Keine Panik, keine Downgradierung der Markt-Goldgrube; aber Zusatzregel - max 2 Topscorer-Torschuetzen-Jederzeit-Tipps pro Dossier parallel setzen (Korrelations-Reduktion gegen Tag-Pleiten).",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-10-10",
+      "kategorie": "8h Rotations-Pattern - Nkunku Rueckkehr dominiert, Burkardt-Form bricht ein",
+      "lesson": "Leipzig 6:0 Frankfurt. Christopher Nkunku Hat-Trick in erster HZ beim Comeback nach Leihe aus Milan - Form-Edge bei Spieler-Rueckkehrer in alte Umgebung sofort materialisiert. Burkardt (Frankfurt Top-Torschuetze der Vorsaison, Form-Edge laut HR24) ohne Treffer bei 0:6, kein Einwechslungs-Boost moeglich (Frankfurt insgesamt torlos). Lehre: Rueckkehrer-Momentum (Spieler kehrt per Leihe oder Permanent in alten Klub zurueck, nach Jahren Abwesenheit) ist ein VALUE-Trigger fuer Torschuetzen-Jederzeit-Tipps im Rueckkehrspiel. Nkunku 2.80-Quote war strukturell unterschaetzt. Zusatz: Form-Edge-Pflicht erlaubt nicht automatisch Standard-Edge bei intakt-stabilen Teams gegen Teams in akuter Umbruchphase (Huetter-Comeback Frankfurt noch nicht gefestigt). Weitere Nkunku-Tipps auf nachfolgenden Spieltagen rechtfertigbar.",
+      "bezug_spiel_id": "2026-10-10-rbl-sge"
     }
   ]
 };

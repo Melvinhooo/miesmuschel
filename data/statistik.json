@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-10-10T06:21:31+00:00",
+  "letzte_berechnung": "2026-10-11T06:24:57+00:00",
   "gesamt": {
     "tipps": 290,
     "gewonnen": 150,
@@ -12,15 +12,15 @@
     "roi_prozent": 30.4
   },
   "letzte_30_tage": {
-    "tipps": 51,
-    "gewonnen": 35,
-    "verloren": 16,
+    "tipps": 40,
+    "gewonnen": 27,
+    "verloren": 13,
     "push": 0,
     "offen": 0,
-    "einsatz": 51.0,
-    "netto": 32.99,
-    "trefferquote": 68.6,
-    "roi_prozent": 64.7
+    "einsatz": 40.0,
+    "netto": 19.64,
+    "trefferquote": 67.5,
+    "roi_prozent": 49.1
   },
   "letzte_90_tage": {
     "tipps": 272,
@@ -2861,6 +2861,161 @@
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-10-10",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Dreier",
+          "kategorie": "safe",
+          "gesamtquote": 2.16,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Barcelona (90 Min)",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Arsenal (90 Min)",
+              "quote": 1.28,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Bayern Muenchen (90 Min)",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Dreier",
+          "kategorie": "balance",
+          "gesamtquote": 7.62,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Harry Kane Torschuetze jederzeit",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Kylian Mbappe Torschuetze jederzeit",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Vierer",
+          "kategorie": "risk",
+          "gesamtquote": 21.64,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Alexander Isak Torschuetze jederzeit",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Lamine Yamal Torschuetze jederzeit",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.45,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Jonathan Burkardt Torschuetze jederzeit",
+              "quote": 2.8,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot",
+          "kategorie": "moonshot",
+          "gesamtquote": 75.6,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Kane 2 oder mehr Tore",
+              "quote": 3.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Christopher Nkunku Torschuetze jederzeit",
+              "quote": 2.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Son Heung-min Torschuetze jederzeit",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Koeln oder Remis (Doppelte Chance)",
+              "quote": 1.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 3.5 Tore",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-10-09",
       "gesamt": {

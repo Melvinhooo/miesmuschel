@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-04T22:30:00+02:00",
+  "stand": "2026-10-11T08:00:00+02:00",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -364,6 +364,24 @@
       "hinweis": "NIE mehr als Leverkusen-Spieler tippen. Traf beim Derbi 20.09.2026 den Elfmeter zum 1:0 gegen Real.",
       "quelle": "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby",
       "stand": "2026-09-21"
+    },
+    {
+      "spieler": "Gabriel Jesus",
+      "von": "Arsenal FC",
+      "nach": "FC Barcelona",
+      "datum": "2026-09-01",
+      "ablöse_mio": 10,
+      "hinweis": "Nicht mehr als Arsenal-Spieler tippen. Transfer am Deadline Day 01.09.2026 nach Alvarez-Absage. Vertrag bis 2029. Hintergrund: nach Lewandowski-/Ferran-Torres-Abgang Barcelonas Alternativ-Loesung. Erkannt beim Auswerten 10.10.2026: Jesus traf zum 2:0 beim 3:0 Barcelona vs Getafe.",
+      "quelle": "https://www.aljazeera.com/sports/2026/9/1/barcelona-sign-gabriel-jesus-from-arsenal"
+    },
+    {
+      "spieler": "Robert Lewandowski",
+      "von": "FC Barcelona",
+      "nach": "Saudi Pro League (Klub zu bestaetigen)",
+      "datum": "2026-07",
+      "ablöse_mio": null,
+      "hinweis": "Lewandowski verliess Barcelona am Ende der Saison 2025/26. Nicht mehr als Barca-Torschuetze tippen - der Vorschau-Prompt vom 10.10.2026 nannte ihn noch im Yamal/Lewandowski/Raphinha-Trio, das ist veraltet. Zieldestination Saudi Pro League (Berichte Mai 2026), konkreter Klub noch nicht bestaetigt. Erkannt beim Auswerten 10.10.2026 Barcelona 3:0 Getafe (Gordon, Jesus, Kounde - kein Lewandowski). Fuer naechste Dossiers: Barcelonas Torschuetzen aktuell Gordon/Jesus/Yamal/Rashford/Olmo.",
+      "quelle": "https://www.sportsmole.co.uk/football/barcelona/transfer-talk/news/lewa-addresses-barca-future-with-catalan-giants-eyeing-long-term-replacement_564290.html"
     }
   ],
   "zugaenge_neue_optionen": [
@@ -641,6 +659,14 @@
       "hinweis": "Grimaldo von Leverkusen zu Atletico. Verwandelte Elfmeter zum 1:0 im Derbi 20.09.2026. War in Kader-Wechsel bislang nicht gefuehrt - vor Torschuetzen-Tipp auf Leverkusen NICHT mehr fuer Bayer04 tippen.",
       "quelle": "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby",
       "stand": "2026-09-21"
+    },
+    {
+      "spieler": "Gabriel Jesus",
+      "nach": "FC Barcelona",
+      "von": "Arsenal FC",
+      "datum": "2026-09-01",
+      "hinweis": "Fluegel/9er bei Flick-System. Traf beim 3:0 Barca vs Getafe (10.10.2026, 30. Min).",
+      "quelle": "https://www.aljazeera.com/sports/2026/9/1/barcelona-sign-gabriel-jesus-from-arsenal"
     }
   ],
   "trainer_2026_27": [
