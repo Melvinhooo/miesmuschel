@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-12T08:00:00+02:00",
+  "stand": "2026-10-12",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -392,6 +392,15 @@
       "hinweis": "LANGZEIT-VERLETZT. Mittelfussknochen-Op, mehrere Monate Ausfall - noch kein Pflichtspiel-Einsatz 2026/27 seit Saisonstart. Nicht als Juve-Torschuetze tippen bis Rueckkehr (voraussichtlich Nov/Dez 2026). Anlass: am 11.10.2026 wurde Yildiz als wackel + moonshot bei Cagliari-Juve getippt (Dossier-Research-Luecke). Bei Comeback-Meldung Eintrag umziehen in Hinweis-only.",
       "wiedereinsatzbereit_ab": "unbekannt (schaetzung Dez 2026)",
       "quelle": "https://prod.beinsports.com/en-us/soccer/serie-a/articles/juventus-lose-kenan-yildiz-for-several-months-2026-08-30"
+    },
+    {
+      "spieler": "Ademola Lookman",
+      "von": "Atalanta BC",
+      "nach": "Atletico Madrid",
+      "datum": "2026-02",
+      "ablöse_mio": null,
+      "hinweis": "Nigerianischer Fluegelstuermer. Verliess Atalanta Februar 2026 Richtung Atletico Madrid, Vertrag bis 2030. NIE mehr als Atalanta-Spieler tippen; in LaLiga 2026/27 bisher 7 Spiele / 1 Tor (langsamer Start).",
+      "quelle": "https://www.vavel.com/en/data/ademola-lookman/bio/"
     }
   ],
   "zugaenge_neue_optionen": [
