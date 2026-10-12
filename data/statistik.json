@@ -1,26 +1,26 @@
 {
-  "letzte_berechnung": "2026-10-11T06:24:57+00:00",
+  "letzte_berechnung": "2026-10-12T06:25:58+00:00",
   "gesamt": {
-    "tipps": 290,
-    "gewonnen": 150,
-    "verloren": 128,
+    "tipps": 272,
+    "gewonnen": 142,
+    "verloren": 118,
     "push": 1,
     "offen": 11,
-    "einsatz": 279.0,
-    "netto": 84.89,
-    "trefferquote": 54.0,
-    "roi_prozent": 30.4
+    "einsatz": 261.0,
+    "netto": 87.32,
+    "trefferquote": 54.6,
+    "roi_prozent": 33.5
   },
   "letzte_30_tage": {
-    "tipps": 40,
-    "gewonnen": 27,
-    "verloren": 13,
+    "tipps": 32,
+    "gewonnen": 21,
+    "verloren": 11,
     "push": 0,
     "offen": 0,
-    "einsatz": 40.0,
-    "netto": 19.64,
-    "trefferquote": 67.5,
-    "roi_prozent": 49.1
+    "einsatz": 32.0,
+    "netto": 10.31,
+    "trefferquote": 65.6,
+    "roi_prozent": 32.2
   },
   "letzte_90_tage": {
     "tipps": 272,
@@ -34,28 +34,6 @@
     "roi_prozent": 33.5
   },
   "nach_liga": {
-    "FIFA WM 2026 - Achtelfinale (Round of 16)": {
-      "tipps": 8,
-      "gewonnen": 5,
-      "verloren": 3,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 8.0,
-      "netto": 0.0,
-      "trefferquote": 62.5,
-      "roi_prozent": 0.0
-    },
-    "FIFA World Cup 2026 - Viertelfinale": {
-      "tipps": 10,
-      "gewonnen": 3,
-      "verloren": 7,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 10.0,
-      "netto": -2.43,
-      "trefferquote": 30.0,
-      "roi_prozent": -24.3
-    },
     "FIFA WM 2026 - Halbfinale": {
       "tipps": 6,
       "gewonnen": 2,
@@ -740,138 +718,6 @@
     }
   },
   "nach_markt": {
-    "Argentinien": {
-      "tipps": 5,
-      "gewonnen": 3,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 5.0,
-      "netto": 0.0,
-      "trefferquote": 60.0,
-      "roi_prozent": 0.0
-    },
-    "Kolumbien": {
-      "tipps": 3,
-      "gewonnen": 2,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 66.7,
-      "roi_prozent": 0.0
-    },
-    "Unter 2.5 Tore": {
-      "tipps": 19,
-      "gewonnen": 12,
-      "verloren": 7,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 19.0,
-      "netto": 7.47,
-      "trefferquote": 63.2,
-      "roi_prozent": 39.3
-    },
-    "Ueber 2.5 Tore": {
-      "tipps": 22,
-      "gewonnen": 10,
-      "verloren": 10,
-      "push": 0,
-      "offen": 2,
-      "einsatz": 20.0,
-      "netto": 7.07,
-      "trefferquote": 50.0,
-      "roi_prozent": 35.4
-    },
-    "England Sieg 90min": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Argentinien Sieg 90min": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Lionel Messi trifft (Torschuetze Jederzeit)": {
-      "tipps": 2,
-      "gewonnen": 0,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": -2.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Harry Kane trifft (Torschuetze Jederzeit)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Erling Haaland trifft (Torschuetze Jederzeit)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Jude Bellingham trifft (Torschuetze Jederzeit)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 2.5,
-      "trefferquote": 100.0,
-      "roi_prozent": 250.0
-    },
-    "Lautaro Martinez trifft (Torschuetze Jederzeit)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": -1.0,
-      "trefferquote": 0.0,
-      "roi_prozent": -100.0
-    },
-    "Schweiz Doppelte Chance X2 (Remis oder Sieg)": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 1.4,
-      "trefferquote": 100.0,
-      "roi_prozent": 140.0
-    },
     "Unter 2.5 Tore FRA-ESP (90 Min)": {
       "tipps": 1,
       "gewonnen": 1,
@@ -938,6 +784,17 @@
       "trefferquote": 100.0,
       "roi_prozent": 65.0
     },
+    "Unter 2.5 Tore": {
+      "tipps": 18,
+      "gewonnen": 11,
+      "verloren": 7,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 18.0,
+      "netto": 6.8,
+      "trefferquote": 61.1,
+      "roi_prozent": 37.8
+    },
     "Beide Teams treffen (BTTS Ja)": {
       "tipps": 5,
       "gewonnen": 3,
@@ -948,6 +805,17 @@
       "netto": 0.24,
       "trefferquote": 60.0,
       "roi_prozent": 4.8
+    },
+    "Lionel Messi trifft (Torschuetze Jederzeit)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     },
     "Lamine Yamal trifft (Torschuetze Jederzeit)": {
       "tipps": 1,
@@ -992,6 +860,17 @@
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Ueber 2.5 Tore": {
+      "tipps": 21,
+      "gewonnen": 10,
+      "verloren": 9,
+      "push": 0,
+      "offen": 2,
+      "einsatz": 19.0,
+      "netto": 8.07,
+      "trefferquote": 52.6,
+      "roi_prozent": 42.5
     },
     "Sieg Twente (1X2)": {
       "tipps": 1,
@@ -2414,82 +2293,16 @@
     }
   },
   "nach_markt_typ": {
-    "Argentinien": {
-      "tipps": 5,
-      "gewonnen": 3,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 5.0,
-      "netto": 0.0,
-      "trefferquote": 60.0,
-      "roi_prozent": 0.0
-    },
-    "Kolumbien": {
-      "tipps": 3,
-      "gewonnen": 2,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 66.7,
-      "roi_prozent": 0.0
-    },
     "Unter 2.5 Tore": {
-      "tipps": 21,
-      "gewonnen": 13,
+      "tipps": 20,
+      "gewonnen": 12,
       "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 21.0,
-      "netto": 7.37,
-      "trefferquote": 61.9,
-      "roi_prozent": 35.1
-    },
-    "Ueber 2.5 Tore": {
-      "tipps": 27,
-      "gewonnen": 13,
-      "verloren": 12,
-      "push": 0,
-      "offen": 2,
-      "einsatz": 25.0,
-      "netto": 11.97,
-      "trefferquote": 52.0,
-      "roi_prozent": 47.9
-    },
-    "Sieg (1X2 / ML)": {
-      "tipps": 74,
-      "gewonnen": 33,
-      "verloren": 38,
-      "push": 1,
-      "offen": 2,
-      "einsatz": 72.0,
-      "netto": 5.5,
-      "trefferquote": 46.5,
-      "roi_prozent": 7.6
-    },
-    "Torschuetzen Jederzeit": {
-      "tipps": 28,
-      "gewonnen": 9,
-      "verloren": 19,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 28.0,
-      "netto": 11.1,
-      "trefferquote": 32.1,
-      "roi_prozent": 39.6
-    },
-    "Doppelte Chance X2": {
-      "tipps": 19,
-      "gewonnen": 13,
-      "verloren": 6,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 19.0,
-      "netto": 11.27,
-      "trefferquote": 68.4,
-      "roi_prozent": 59.3
+      "einsatz": 20.0,
+      "netto": 6.7,
+      "trefferquote": 60.0,
+      "roi_prozent": 33.5
     },
     "Beide Teams treffen NEIN": {
       "tipps": 4,
@@ -2513,6 +2326,28 @@
       "trefferquote": 0.0,
       "roi_prozent": -100.0
     },
+    "Torschuetzen Jederzeit": {
+      "tipps": 23,
+      "gewonnen": 8,
+      "verloren": 15,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 23.0,
+      "netto": 12.6,
+      "trefferquote": 34.8,
+      "roi_prozent": 54.8
+    },
+    "Doppelte Chance X2": {
+      "tipps": 18,
+      "gewonnen": 12,
+      "verloren": 6,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 18.0,
+      "netto": 9.87,
+      "trefferquote": 66.7,
+      "roi_prozent": 54.8
+    },
     "Beide Teams treffen JA": {
       "tipps": 36,
       "gewonnen": 22,
@@ -2534,6 +2369,28 @@
       "netto": 8.29,
       "trefferquote": 73.9,
       "roi_prozent": 36.0
+    },
+    "Sieg (1X2 / ML)": {
+      "tipps": 72,
+      "gewonnen": 33,
+      "verloren": 36,
+      "push": 1,
+      "offen": 2,
+      "einsatz": 70.0,
+      "netto": 7.5,
+      "trefferquote": 47.8,
+      "roi_prozent": 10.7
+    },
+    "Ueber 2.5 Tore": {
+      "tipps": 26,
+      "gewonnen": 13,
+      "verloren": 11,
+      "push": 0,
+      "offen": 2,
+      "einsatz": 24.0,
+      "netto": 12.97,
+      "trefferquote": 54.2,
+      "roi_prozent": 54.0
     },
     "Crvena Zvezda oder Unentschieden": {
       "tipps": 3,
@@ -2691,95 +2548,84 @@
     }
   },
   "nach_quoten_range": {
-    "1.00-1.50": {
-      "tipps": 111,
-      "gewonnen": 67,
-      "verloren": 36,
-      "push": 1,
-      "offen": 7,
-      "einsatz": 104.0,
-      "netto": 28.37,
-      "trefferquote": 65.0,
-      "roi_prozent": 27.3
-    },
     "1.50-2.00": {
-      "tipps": 142,
-      "gewonnen": 73,
-      "verloren": 67,
+      "tipps": 134,
+      "gewonnen": 70,
+      "verloren": 62,
       "push": 0,
       "offen": 2,
-      "einsatz": 140.0,
-      "netto": 49.62,
-      "trefferquote": 52.1,
-      "roi_prozent": 35.4
+      "einsatz": 132.0,
+      "netto": 52.95,
+      "trefferquote": 53.0,
+      "roi_prozent": 40.1
     },
     "2.00-3.00": {
-      "tipps": 28,
-      "gewonnen": 7,
-      "verloren": 19,
+      "tipps": 24,
+      "gewonnen": 6,
+      "verloren": 16,
       "push": 0,
       "offen": 2,
-      "einsatz": 26.0,
-      "netto": 2.9,
-      "trefferquote": 26.9,
-      "roi_prozent": 11.2
+      "einsatz": 22.0,
+      "netto": 4.5,
+      "trefferquote": 27.3,
+      "roi_prozent": 20.5
     },
     "3.00+": {
-      "tipps": 9,
-      "gewonnen": 3,
+      "tipps": 8,
+      "gewonnen": 2,
       "verloren": 6,
       "push": 0,
       "offen": 0,
-      "einsatz": 9.0,
-      "netto": 4.0,
-      "trefferquote": 33.3,
-      "roi_prozent": 44.4
+      "einsatz": 8.0,
+      "netto": 1.5,
+      "trefferquote": 25.0,
+      "roi_prozent": 18.8
+    },
+    "1.00-1.50": {
+      "tipps": 106,
+      "gewonnen": 64,
+      "verloren": 34,
+      "push": 1,
+      "offen": 7,
+      "einsatz": 99.0,
+      "netto": 28.37,
+      "trefferquote": 65.3,
+      "roi_prozent": 28.7
     }
   },
   "nach_kategorie": {
-    "safe": {
-      "tipps": 53,
-      "gewonnen": 36,
-      "verloren": 10,
-      "push": 0,
-      "offen": 7,
-      "einsatz": 46.0,
-      "netto": 29.81,
-      "trefferquote": 78.3,
-      "roi_prozent": 64.8
-    },
     "value": {
-      "tipps": 180,
-      "gewonnen": 89,
-      "verloren": 86,
+      "tipps": 173,
+      "gewonnen": 86,
+      "verloren": 82,
       "push": 1,
       "offen": 4,
-      "einsatz": 176.0,
-      "netto": 37.14,
-      "trefferquote": 50.9,
-      "roi_prozent": 21.1
+      "einsatz": 169.0,
+      "netto": 39.47,
+      "trefferquote": 51.2,
+      "roi_prozent": 23.4
     },
     "wackel": {
-      "tipps": 56,
-      "gewonnen": 24,
-      "verloren": 32,
+      "tipps": 51,
+      "gewonnen": 23,
+      "verloren": 28,
       "push": 0,
       "offen": 0,
-      "einsatz": 56.0,
-      "netto": 16.54,
-      "trefferquote": 42.9,
-      "roi_prozent": 29.5
+      "einsatz": 51.0,
+      "netto": 18.04,
+      "trefferquote": 45.1,
+      "roi_prozent": 35.4
     },
-    "risiko": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
+    "safe": {
+      "tipps": 48,
+      "gewonnen": 33,
+      "verloren": 8,
       "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 1.4,
-      "trefferquote": 100.0,
-      "roi_prozent": 140.0
+      "offen": 7,
+      "einsatz": 41.0,
+      "netto": 29.81,
+      "trefferquote": 80.5,
+      "roi_prozent": 72.7
     }
   },
   "clv_gesamt": {
@@ -2801,15 +2647,15 @@
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 290,
-      "gewonnen": 150,
-      "verloren": 128,
+      "tipps": 272,
+      "gewonnen": 142,
+      "verloren": 118,
       "push": 1,
       "offen": 11,
-      "einsatz": 279.0,
-      "netto": 84.89,
-      "trefferquote": 54.0,
-      "roi_prozent": 30.4
+      "einsatz": 261.0,
+      "netto": 87.32,
+      "trefferquote": 54.6,
+      "roi_prozent": 33.5
     },
     "kasse": {
       "name": "2026/27",
@@ -2828,15 +2674,15 @@
         "start": "2000-01-01",
         "ende": "2026-08-21",
         "bilanz": {
-          "tipps": 197,
-          "gewonnen": 86,
-          "verloren": 99,
+          "tipps": 179,
+          "gewonnen": 78,
+          "verloren": 89,
           "push": 1,
           "offen": 11,
-          "einsatz": 186.0,
-          "netto": 6.21,
-          "trefferquote": 46.5,
-          "roi_prozent": 3.3
+          "einsatz": 168.0,
+          "netto": 8.64,
+          "trefferquote": 46.7,
+          "roi_prozent": 5.1
         },
         "ist_aktuell": false
       },
@@ -2861,6 +2707,321 @@
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-10-11",
+      "gesamt": {
+        "tipps": 15,
+        "gewonnen": 7,
+        "verloren": 8,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 15.0,
+        "netto": -4.19,
+        "trefferquote": 46.7,
+        "roi_prozent": -27.9
+      },
+      "spiele": [
+        {
+          "id": "2026-10-11-liv-mci",
+          "liga": "Premier League 2026/27 - Matchweek 6",
+          "heim": "Liverpool FC",
+          "gast": "Manchester City",
+          "endstand": "0:3",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.57,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "BTTS verloren - nur Manchester City traf (3 Tore), Liverpool blieb nach Rot gegen Gravenberch chancenlos."
+            },
+            {
+              "markt": "Erling Haaland Torschuetze jederzeit",
+              "quote": 2.1,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.1,
+              "kommentar": "Haaland traf 1x in der 2. HZ und entschied das Spiel von Beginn des 2. Durchgangs an."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-11-cry-nfo",
+          "liga": "Premier League 2026/27 - Matchweek 6",
+          "heim": "Crystal Palace",
+          "gast": "Nottingham Forest",
+          "endstand": "3:1",
+          "tipps": [
+            {
+              "markt": "Nottingham Forest oder Remis (Doppelte Chance)",
+              "quote": 1.6,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Palace gewann 3:1 - DC X2 verloren, Palace drehte das Spiel in der 1. HZ."
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.75,
+              "kommentar": "3:1 mit Toren fuer beide Seiten (Ndoye fuer Forest, Kamada/Lerma/Pino fuer Palace)."
+            },
+            {
+              "markt": "Chris Wood Torschuetze jederzeit",
+              "quote": 3.0,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Chris Wood traf nicht - einziger Forest-Treffer durch Ndoye in Minute 3. Keine Einwechslungs-Boost-Konstellation (Wood war nicht ausgewechselt in den entscheidenden Minuten)."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-11-hul-eve",
+          "liga": "Premier League 2026/27 - Matchweek 6",
+          "heim": "Hull City",
+          "gast": "Everton",
+          "endstand": "2:2",
+          "tipps": [
+            {
+              "markt": "Everton oder Remis (Doppelte Chance)",
+              "quote": 1.33,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.33,
+              "kommentar": "2:2 Remis - DC X2 (Everton oder Remis) gewonnen."
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.95,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "4 Tore - Unter 2.5 verloren, alle Tore in der 2. HZ."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-11-ala-atm",
+          "liga": "LaLiga 2026/27 - Jornada 8",
+          "heim": "Deportivo Alavés",
+          "gast": "Atlético Madrid",
+          "endstand": "1:2",
+          "tipps": [
+            {
+              "markt": "Atlético Madrid oder Remis (Doppelte Chance)",
+              "quote": 1.28,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.28,
+              "kommentar": "Atleti gewann 2:1 - DC X2 problemlos durch."
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "3 Tore (Grimaldo 33, Boye 45+6 Pen, Romero 87) - Unter 2.5 verloren."
+            },
+            {
+              "markt": "Julian Alvarez Torschuetze jederzeit",
+              "quote": 2.6,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Julian Alvarez traf nicht - Atleti-Scorer waren Grimaldo (Flanke/Fuss) und Romero (87.). Keine Einwechslungs-Boost-Konstellation (Alvarez-Ersatz Raspadori ohne Tor)."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-11-bet-osa",
+          "liga": "LaLiga 2026/27 - Jornada 8",
+          "heim": "Real Betis",
+          "gast": "CA Osasuna",
+          "endstand": "5:2",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.8,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.8,
+              "kommentar": "BTTS gewonnen - Betis 5x, Osasuna 2x (Budimir 51, Raul Garcia 56)."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-11-sas-mil",
+          "liga": "Serie A 2026/27 - Giornata 6",
+          "heim": "US Sassuolo",
+          "gast": "AC Milan",
+          "endstand": "1:1",
+          "tipps": [
+            {
+              "markt": "AC Milan oder Remis (Doppelte Chance)",
+              "quote": 1.22,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.22,
+              "kommentar": "Remis 1:1 - DC X2 (Milan oder Remis) problemlos durch."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.72,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Nur 2 Tore - Ueber 2.5 verloren, beide Tore in der 2. HZ (63./68.)."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-11-cag-juv",
+          "liga": "Serie A 2026/27 - Giornata 6",
+          "heim": "Cagliari Calcio",
+          "gast": "Juventus Turin",
+          "endstand": "1:1",
+          "tipps": [
+            {
+              "markt": "Juventus oder Remis (Doppelte Chance)",
+              "quote": 1.33,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.33,
+              "kommentar": "Remis 1:1 - DC X2 (Juve oder Remis) durch, trotz Rueckstand bis 81."
+            },
+            {
+              "markt": "Kenan Yildiz Torschuetze jederzeit",
+              "quote": 3.0,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Yildiz spielte nicht mit (Metatarsale-Verletzung seit August 2026, OP, noch nie 2026/27 im Einsatz). Einwechslungs-Boost nicht anwendbar. Kolo Muani (81.) kam nicht fuer Yildiz, da Yildiz gar nicht im Kader stand."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi",
+          "kategorie": "safe",
+          "gesamtquote": 3.06,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Everton oder Remis (Doppelte Chance)",
+              "quote": 1.33,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Atlético oder Remis (Doppelte Chance)",
+              "quote": 1.28,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi",
+          "kategorie": "balance",
+          "gesamtquote": 7.54,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.57,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Nottingham Forest oder Remis (Doppelte Chance)",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Yildiz Torschuetze jederzeit",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi",
+          "kategorie": "risk",
+          "gesamtquote": 28.17,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Haaland Torschuetze jederzeit",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.72,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Chris Wood Torschuetze jederzeit",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Alvarez Torschuetze jederzeit",
+              "quote": 2.6,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi",
+          "kategorie": "moonshot",
+          "gesamtquote": 337.5,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Haaland 2 oder mehr Tore",
+              "quote": 5.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Chris Wood 2 oder mehr Tore",
+              "quote": 7.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Yildiz 2 oder mehr Tore",
+              "quote": 9.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-10-10",
       "gesamt": {
@@ -13009,408 +13170,6 @@
         }
       ],
       "kombis": []
-    },
-    {
-      "datum": "2026-07-11",
-      "gesamt": {
-        "tipps": 10,
-        "gewonnen": 3,
-        "verloren": 7,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 10.0,
-        "netto": -2.43,
-        "trefferquote": 30.0,
-        "roi_prozent": -24.3
-      },
-      "spiele": [
-        {
-          "id": "2026-07-11-nor-eng",
-          "liga": "FIFA World Cup 2026 - Viertelfinale",
-          "heim": "Norwegen",
-          "gast": "England",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "England Sieg 90min",
-              "quote": 1.87,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "England Sieg 90min: 90min-Endstand 1:1, England Sieg erst in Verlaengerung durch Bellingham 93'. 2:0-Insurance NICHT ausgeloest (England fuehrte nie 2:0 - Norwegen ging sogar 1:0 in Fuehrung durch Schjelderup 36'). Klassen-Konkurrent-Bunker-Muster von Norwegen umgesetzt."
-            },
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.7,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Ueber 2.5 Tore (90min): Endstand nach 90min war 1:1 = 2 Tore, unter 2.5. In Verlaengerung fiel drittes Tor (Bellingham 93'), zaehlt nicht fuer 90min-Markt. HR26 K.O.-Torzahl-nach-unten voll bestaetigt."
-            },
-            {
-              "markt": "Harry Kane trifft (Torschuetze Jederzeit)",
-              "quote": 1.95,
-              "kategorie": "wackel",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Kane 0 Tore in Spiel. Kane spielte 90+ Minuten durch, NICHT ausgewechselt -> Einwechslungs-Boost via Watkins NICHT anwendbar (Watkins unused sub geblieben). HR07-10-4 Turnier-Top-Scorer-Fehl-Cluster in QF DRAMATISCH bestaetigt: Kane trotz 6 Turnier-Toren als zentraler 9er 0 Chancen im Bunker-Setup Norwegens."
-            },
-            {
-              "markt": "Erling Haaland trifft (Torschuetze Jederzeit)",
-              "quote": 2.2,
-              "kategorie": "wackel",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Haaland 0 Tore trotz 7 Turnier-Tore vorher. Sorloth Startelf-Support brachte auch nichts. HR07-10-4-Cluster bestaetigt: Haaland als Underdog-Anfuehrer + Klassen-Konkurrent-Match komplett von England-IV (Stones/Konsa) neutralisiert."
-            },
-            {
-              "markt": "Jude Bellingham trifft (Torschuetze Jederzeit)",
-              "quote": 3.5,
-              "kategorie": "wackel",
-              "status": "gewonnen",
-              "gewinn_faktor": 2.5,
-              "kommentar": "Bellingham traf 45+2' (Ausgleich zum 1:1 vor der Pause) - Anytime-Markt in 90min-Regulaerzeit erfuellt. Zusaetzlich Winning Goal 93' in ET. Bellingham-Doppelpack innerhalb 48 Stunden nach R16-Doppelpack (Mexiko). HR07-10-4 GEGENBEISPIEL: Zweit-Zentrum (nicht primaerer Top-Scorer) hat Muster GEBROCHEN."
-            }
-          ]
-        },
-        {
-          "id": "2026-07-11-arg-sui",
-          "liga": "FIFA World Cup 2026 - Viertelfinale",
-          "heim": "Argentinien",
-          "gast": "Schweiz",
-          "endstand": "—",
-          "tipps": [
-            {
-              "markt": "Argentinien Sieg 90min",
-              "quote": 1.69,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Argentinien Sieg 90min: 90min-Endstand 1:1 (Mac Allister 10', Ndoye 67'). Argentinien Sieg erst in Verlaengerung (Alvarez 112' + Lautaro 120+1'). 2:0-Insurance NICHT ausgeloest (Argentinien fuehrte nur 1:0 vor Ausgleich). Schweiz-Klassen-Konkurrent-Bunker-Muster (Kobel/Elvedi/Akanji + Xhaka/Freuler) hielt trotz frueher 1:0-Fuehrung. Embolo-Rot 72' kam zu spaet zum entscheiden der Regulaerzeit."
-            },
-            {
-              "markt": "Unter 2.5 Tore",
-              "quote": 1.67,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 0.67,
-              "kommentar": "Unter 2.5 Tore (90min): Endstand nach 90min 1:1 = 2 Tore, unter 2.5. GOLDGRUBEN-BESTAETIGUNG: Unter 2.5 nun auf HR ~68%. HR07-07-3 Klassen-Konkurrent-Bunker-Muster (SUI-COL R16) exakt reproduziert - Schweiz Doppel-Defensive erneut erfolgreich in 90min."
-            },
-            {
-              "markt": "Lionel Messi trifft (Torschuetze Jederzeit)",
-              "quote": 2.0,
-              "kategorie": "wackel",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Messi 0 Tore - nur Corner-Assist zu Mac Allister 10'. Golden-Boot-Fuehrer (8 Turnier-Tore vorher) im Bunker-K.O.-Setup neutralisiert. HR07-10-4-Cluster massiv bestaetigt: Kane 0 + Haaland 0 + Messi 0 = ALLE 3 Golden-Boot-Anwaerter des Doppelslot ohne Tor. Einwechslungs-Boost nicht getriggert (Messi spielte durch)."
-            },
-            {
-              "markt": "Lautaro Martinez trifft (Torschuetze Jederzeit)",
-              "quote": 2.75,
-              "kategorie": "wackel",
-              "status": "verloren",
-              "gewinn_faktor": -1.0,
-              "kommentar": "Lautaro Martinez traf 120+1' - AUSSCHLIESSLICH in Verlaengerung. bet365 Anytime-Goalscorer-Markt settelt auf 90min+Nachspielzeit, NICHT auf Verlaengerung. Tor faellt komplett aus dem Markt heraus. HR07-07-1 Startelf-Rueckkehr-Bestaetigung war korrekt (Lautaro startete), aber 90min-Fehl-Cluster fortgesetzt."
-            },
-            {
-              "markt": "Schweiz Doppelte Chance X2 (Remis oder Sieg)",
-              "quote": 2.4,
-              "kategorie": "risiko",
-              "status": "gewonnen",
-              "gewinn_faktor": 1.4,
-              "kommentar": "Schweiz DC X2 (Remis oder Sieg) in 90min: 90min-Endstand 1:1 = Remis -> Bedingung erfuellt. HR07-07-3 Klassen-Konkurrent-Bunker-Empirie erneut aufgegangen (SUI-COL 0:0 nach 90min, SUI-ARG 1:1 nach 90min). Underdog-Bunker-Hedge klar aufgegangen."
-            }
-          ]
-        }
-      ],
-      "kombis": [
-        {
-          "name": "kombi-2026-07-11-safe",
-          "kategorie": "",
-          "gesamtquote": 3.16,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "England Sieg 90min",
-              "quote": 1.87,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Argentinien Sieg 90min",
-              "quote": 1.69,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "kombi-2026-07-11-balance",
-          "kategorie": "",
-          "gesamtquote": 7.0,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Jude Bellingham trifft (Torschuetze Jederzeit)",
-              "quote": 3.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Lionel Messi trifft (Torschuetze Jederzeit)",
-              "quote": 2.0,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "kombi-2026-07-11-risiko",
-          "kategorie": "",
-          "gesamtquote": 10.0,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Erling Haaland 2+ Tore",
-              "quote": 4.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Julian Alvarez trifft (Torschuetze Jederzeit)",
-              "quote": 2.5,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "kombi-2026-07-11-moonshot",
-          "kategorie": "",
-          "gesamtquote": 150.0,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Jude Bellingham 2+ Tore",
-              "quote": 10.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Julian Alvarez 2+ Tore",
-              "quote": 15.0,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-07-07",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "Safe ~3x",
-          "kategorie": "safe",
-          "gesamtquote": 3.01,
-          "einsatz_prozent": 1.5,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Argentinien vs Ägypten: Torschützen Jederzeit",
-              "quote": 1.67,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Schweiz vs Kolumbien: Beide Teams treffen: Nein",
-              "quote": 1.8,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Balance ~7x",
-          "kategorie": "balance",
-          "gesamtquote": 7.01,
-          "einsatz_prozent": 0.5,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Argentinien vs Ägypten: Torschützen 2+ Tore",
-              "quote": 4.33,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Schweiz vs Kolumbien: Unter 2.5 Tore",
-              "quote": 1.62,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Risiko ~19x",
-          "kategorie": "risk",
-          "gesamtquote": 18.75,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Argentinien vs Ägypten: Torschützen Jederzeit",
-              "quote": 5.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Schweiz vs Kolumbien: Sieg (1X2 / ML)",
-              "quote": 3.75,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Moonshot ~32x",
-          "kategorie": "moonshot",
-          "gesamtquote": 32.2,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Argentinien vs Ägypten: Messi 3+ Tore (Hattrick)",
-              "quote": 14.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Schweiz vs Kolumbien: Kolumbien-Sieg 90min (1X2)",
-              "quote": 2.3,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-07-06",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "Safe-Kombi (~3.33x)",
-          "kategorie": "safe",
-          "gesamtquote": 3.33,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Spanien gewinnt (Sieg 2, 90min)",
-              "quote": 1.9,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Beide Teams treffen JA USA-BEL",
-              "quote": 1.75,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Balance-Kombi (~6.75x)",
-          "kategorie": "balance",
-          "gesamtquote": 6.75,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Cristiano Ronaldo Torschuetze Jederzeit",
-              "quote": 2.85,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Folarin Balogun Torschuetze Jederzeit",
-              "quote": 2.37,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Risiko-Kombi (~19.20x)",
-          "kategorie": "risk",
-          "gesamtquote": 19.2,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Rafael Leao Torschuetze Jederzeit",
-              "quote": 3.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Romelu Lukaku Doppelpack (2+ Tore)",
-              "quote": 6.0,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Moonshot-Kombi (~71.5x)",
-          "kategorie": "moonshot",
-          "gesamtquote": 71.5,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Cristiano Ronaldo Doppelpack (2+ Tore)",
-              "quote": 6.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Haji Wright Doppelpack (2+ Tore)",
-              "quote": 11.0,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
     }
   ]
 }

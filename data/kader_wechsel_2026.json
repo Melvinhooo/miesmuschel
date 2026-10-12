@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-11T22:45:00+02:00",
+  "stand": "2026-10-12T08:00:00+02:00",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -382,6 +382,16 @@
       "ablöse_mio": null,
       "hinweis": "Lewandowski verliess Barcelona am Ende der Saison 2025/26. Nicht mehr als Barca-Torschuetze tippen - der Vorschau-Prompt vom 10.10.2026 nannte ihn noch im Yamal/Lewandowski/Raphinha-Trio, das ist veraltet. Zieldestination Saudi Pro League (Berichte Mai 2026), konkreter Klub noch nicht bestaetigt. Erkannt beim Auswerten 10.10.2026 Barcelona 3:0 Getafe (Gordon, Jesus, Kounde - kein Lewandowski). Fuer naechste Dossiers: Barcelonas Torschuetzen aktuell Gordon/Jesus/Yamal/Rashford/Olmo.",
       "quelle": "https://www.sportsmole.co.uk/football/barcelona/transfer-talk/news/lewa-addresses-barca-future-with-catalan-giants-eyeing-long-term-replacement_564290.html"
+    },
+    {
+      "spieler": "Kenan Yildiz",
+      "von": "Juventus Turin",
+      "nach": "Krankenstand (Metatarsale-OP)",
+      "datum": "2026-08-30",
+      "ablöse_mio": null,
+      "hinweis": "LANGZEIT-VERLETZT. Mittelfussknochen-Op, mehrere Monate Ausfall - noch kein Pflichtspiel-Einsatz 2026/27 seit Saisonstart. Nicht als Juve-Torschuetze tippen bis Rueckkehr (voraussichtlich Nov/Dez 2026). Anlass: am 11.10.2026 wurde Yildiz als wackel + moonshot bei Cagliari-Juve getippt (Dossier-Research-Luecke). Bei Comeback-Meldung Eintrag umziehen in Hinweis-only.",
+      "wiedereinsatzbereit_ab": "unbekannt (schaetzung Dez 2026)",
+      "quelle": "https://prod.beinsports.com/en-us/soccer/serie-a/articles/juventus-lose-kenan-yildiz-for-several-months-2026-08-30"
     }
   ],
   "zugaenge_neue_optionen": [

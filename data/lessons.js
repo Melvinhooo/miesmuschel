@@ -3278,6 +3278,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "8h Rotations-Pattern - Nkunku Rueckkehr dominiert, Burkardt-Form bricht ein",
       "lesson": "Leipzig 6:0 Frankfurt. Christopher Nkunku Hat-Trick in erster HZ beim Comeback nach Leihe aus Milan - Form-Edge bei Spieler-Rueckkehrer in alte Umgebung sofort materialisiert. Burkardt (Frankfurt Top-Torschuetze der Vorsaison, Form-Edge laut HR24) ohne Treffer bei 0:6, kein Einwechslungs-Boost moeglich (Frankfurt insgesamt torlos). Lehre: Rueckkehrer-Momentum (Spieler kehrt per Leihe oder Permanent in alten Klub zurueck, nach Jahren Abwesenheit) ist ein VALUE-Trigger fuer Torschuetzen-Jederzeit-Tipps im Rueckkehrspiel. Nkunku 2.80-Quote war strukturell unterschaetzt. Zusatz: Form-Edge-Pflicht erlaubt nicht automatisch Standard-Edge bei intakt-stabilen Teams gegen Teams in akuter Umbruchphase (Huetter-Comeback Frankfurt noch nicht gefestigt). Weitere Nkunku-Tipps auf nachfolgenden Spieltagen rechtfertigbar.",
       "bezug_spiel_id": "2026-10-10-rbl-sge"
+    },
+    {
+      "datum": "2026-10-11",
+      "kategorie": "8e Kategorie-Reality - Research-Luecke bei Langzeitverletzten",
+      "lesson": "Krasser Research-Fehler: Kenan Yildiz wurde als wackel (3.00) UND moonshot (9.00) bei Cagliari-Juventus getippt - obwohl er seit 30.08.2026 mit Metatarsale-OP ausfaellt und 2026/27 noch kein einziges Pflichtspiel bestritten hat. Dossier-Research via kicker/transfermarkt/Klub-Site haette das sofort gezeigt. Konsequenz: 2 nutzlos verheizte Tipps + Moonshot-Kombi (337.5) wegen Yildiz-Bein unmoeglich. Guardrail: Spieler mit Status \"Langzeit-verletzt\" in data/kader_wechsel_2026.json als \"abgang\" eingetragen (nach: Krankenstand) - Mapper droppt kuenftige Yildiz-Juve-Tipps bis Rueckkehr. Prinzip: Kader-/Verletzten-Verifikation ist Pflicht, nicht optional.",
+      "bezug_spiel_id": "2026-10-11-cag-juv"
+    },
+    {
+      "datum": "2026-10-11",
+      "kategorie": "8g Markt-Pattern aus nicht-getippten Spielen - Betis-Explosion",
+      "lesson": "Betis 5:2 Osasuna - Ueber 5.5 Tore gewonnen, aber kein BTTS-Tipp war aggressiver als 1.80 (das lief), kein Ueber-Tore-Tipp (haette +72 % ROI gebracht). Signal: Betis zu Hause gegen defensiv instabile Osasuna (Mourinho frisch, Umbruch) hatte historische Ueber-Tore-Edge (letzte 3 Betis-Heim-Spiele vs Osasuna cumulativ 11 Tore). Zukunft: Betis-Heim + Gegner mit Trainerwechsel/Umbruch = aktiv Ueber 3.5 scannen, nicht nur BTTS. Isco-Doppelpack + Budimir-Eigentor + Morante zeigen: Betis-Angriff ist aktuell nicht respektiert vom Markt.",
+      "bezug_spiel_id": "2026-10-11-bet-osa"
+    },
+    {
+      "datum": "2026-10-11",
+      "kategorie": "8f Drehungs-Cluster - Palace-Comeback von 0:1 in 1. HZ",
+      "lesson": "Palace 3:1 Forest - Ndoye traf in Minute 3 fuer Forest, Palace drehte das Spiel noch VOR der Pause (Kamada 41, Lerma 45+4) und entschied es durch Pino (59). Nottingham-DC-X2-Tipp (1.60) verlor, obwohl Forest nach 3 Minuten komfortabel fuehrte. Lehre: Fruehe Underdog-Fuehrung (<10. Min) ist statistisch der schwaechste Fuehrungszeitpunkt - der Favorit hat 80+ Minuten zur Umkehr. Fuer DC-X2-Underdog-Tipps bei Heimfavoriten mit Pflichtspiel-Durststrecke (Palace vor diesem Spiel ohne Heimsieg in 2026/27) besser Ueber-Tore-/BTTS-Tipp waehlen als DC-X2 (BTTS-Tipp lief).",
+      "bezug_spiel_id": "2026-10-11-cry-nfo"
+    },
+    {
+      "datum": "2026-10-11",
+      "kategorie": "8c Markt-Cluster - Torschuetzen-Tipps 1/4 trotz Goldgruben-Status",
+      "lesson": "Torschuetzen-Jederzeit (Goldgrube +39.6 % ROI historisch) heute 1/4: Haaland ja, Chris Wood nein (Forest nur 1 Tor Ndoye), Julian Alvarez nein (Atleti-Scorer Grimaldo/Romero), Yildiz nein (verletzt). Lehre: Volumen-Stuermer-Edge greift nur, wenn (a) der Spieler verfuegbar ist (!), (b) sein Team Tore schiesst, und (c) nicht nur Non-Stuermer die Tore machen (Grimaldo LV, Romero DV bei Atleti). Alvarez-Fall: Atleti schoss 2 Tore, aber beide von Verteidigern - Volumen-Edge gleicht Position-Edge nicht automatisch aus. Konkreter Filter fuer Torschuetzen-Tipps: Spieler-Volumen in letzten 5 Spielen des TEAMS (nicht nur Season-Avg) + Position-Scoring-Rate pruefen.",
+      "bezug_spiel_id": "2026-10-11-liv-mci"
     }
   ]
 };
