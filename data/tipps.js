@@ -1,460 +1,233 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
-  "datum": "2026-10-11",
-  "erstellt_am": "2026-10-11T10:00:00+02:00",
-  "hinweis": "Sonntags-Programm Spieltag 6 (teilweise): Premier League mit Headliner Liverpool-ManCity (Anfield, 17:30 Berlin) + Palace-Forest + Hull-Everton. LaLiga Jornada 8 Sonntags-Teil (Alavés-Atleti, Betis-Osasuna). Serie A Giornata 6 Sonntags-Teil (Sassuolo-Milan, Cagliari-Juve). Keine Nations-League-Spiele mehr (letzte NL-Matchday war Oct 4-6). Kasse-Stand 1000€, Stufe 1 aktiv (saison_2026/27-Edge noch nicht bestaetigt) - 1-2 % pro SAFE/VALUE, 0.5 % pro WACKEL, 0.1-2 % fuer Kombis. Fokus auf Markt-Goldgruben (DC X2 ROI +59.3 %, BTTS +22.9 %, Ueber 2.5 +47.9 %, Torschuetzen Jederzeit +39.6 %, Unter 2.5 +35.1 %). Kombis in Ziel-Range: Safe 3.06x, Balance 7.54x, Risiko 28.17x, Moonshot 337.5x. Live bei bet365 Quoten pruefen - koennen leicht abweichen.",
+  "datum": "2026-10-12",
+  "erstellt_am": "2026-10-12T14:30:00+02:00",
+  "hinweis": "Watchdog-Recovery Mo-Fr: 3 Spiele im Fenster Montag 12.10. - 1x Premier League (Coventry-Newcastle, 21:00 Berlin) + 2x Serie A (Atalanta-Venezia 18:30, Torino-Udinese 20:45). Dossier bewusst klein (lieber ehrlich als voll). Kasse 1000€, Stufe 1. 2:0-Insurance greift NUR fuer die PL-Partie. Quoten bei bet365 live pruefen.",
   "spiele": [
     {
-      "id": "2026-10-11-liv-mci",
+      "id": "2026-10-12-cov-new",
       "liga": "Premier League 2026/27 - Matchweek 6",
-      "heim": "Liverpool FC",
-      "gast": "Manchester City",
-      "anstoss": "2026-10-11T17:30:00+01:00",
-      "stadion": "Anfield, Liverpool",
+      "heim": "Coventry City",
+      "gast": "Newcastle United",
+      "anstoss": "2026-10-12T21:00:00+02:00",
+      "stadion": "Coventry Building Society Arena, Coventry",
       "saison_kontext": {
-        "parallel_heim": "Champions League Matchday 2 (14./15.10. terminiert, kein Spiel diese Woche) - Liverpool nach Nations-League-Pause mit regulärem 6-Tage-Takt",
-        "parallel_gast": "Champions League Matchday 2 (14./15.10.) - City mit 6 Tagen Pause nach Nations-League-Pause bis Anfield-Trip, keine Pflichtspiel-Doppelbelastung diese Woche",
-        "saisonziel_heim": "Titel-Herausforderer. Nach 5 Spielen durchwachsen (noch kein Heim-Liga-Sieg in 2026/27), aber in allen Pflichtspielen zuletzt ungeschlagen (4S/1U letzte 5). Platz ~5-7",
-        "saisonziel_gast": "Titel-Favorit. 5/5 Siege nach 5 Spieltagen (Rekord-Start, perfekte Serie), Haaland in Form, Guardiola-System stabil - Tabellenfuehrer",
-        "motivations_asymmetrie": "Beide Teams unter Druck: City will Serie halten, Liverpool will endlich Heim-Liga-Debut-Sieg - aber City mit klarem Form-Edge und ausgeruht. Liverpool ohne Heim-Sieg = Nicht-Favoriten-Edge bei bet365-Markt (Heim 2.50, City 2.80, Remis 3.50) = echter Coinflip mit City-Form-Vorteil",
-        "recovery_heim": "~1 Woche seit letztem Spiel vor Nations-League-Pause, englische Nationalspieler (Alexander-Arnold/Mac Allister) bei NL-Spielen eingesetzt - leichte Belastung aber nicht kritisch",
-        "recovery_gast": "~1 Woche Pause nach letztem Pflichtspiel. Haaland hatte Norwegen-WM-Qualifikation (ggf. Playoff-Phase 2026), Rodri wieder fit nach langer Verletzung - Rotations-Risiko minimal",
+        "parallel_heim": "keine - Coventry als Aufsteiger ausser PL ohne Europapokal, FA Cup noch nicht gestartet",
+        "parallel_gast": "UEFA-Doppelbelastung moeglich (Champions-League-Spieltag 2 Mitte Oktober), aber nicht in dieser Woche vor dem Montagsspiel",
+        "saisonziel_heim": "Platz ca. 20 (0-3 Punkte je nach Snapshot), nackter Klassenerhalt - erster PL-Sieg seit 25 Jahren gegen Nottingham Forest, Relegation-Diskussion laeuft bereits",
+        "saisonziel_gast": "Platz ca. 9-11 nach 5 Spielen, oberes Mittelfeld / Europa-Kampf unter Matthias Jaissle. 4:1-Pleite in Leeds als einziger Dropper eines sonst stabilen Starts.",
+        "motivations_asymmetrie": "Newcastle klar favorisiert und auswaerts motiviert, Coventry zu Hause mit Mut nach Forest-Sieg - aber die Verletztenliste schwaecht die Elf spuerbar.",
+        "recovery_heim": "~5 Tage seit letzter Partie, kein Englischer Woche-Druck, aber duenner Kader (siehe Ausfaelle)",
+        "recovery_gast": "~5 Tage seit letztem Spiel, 6 Fitness-Fragezeichen laut Preview - lange Pre-Match-Liste von Jaissle angesprochen",
         "quellen": [
-          "https://www.liverpoolfc.com/news/fixture-updates-new-dates-anfield-games-against-man-city-and-arsenal",
-          "https://khelnow.com/football/liverpool-vs-manchester-city-preview-premier-league-202610",
-          "https://africasoccer.com/liverpool-host-perfect-manchester-city-matchday6",
-          "https://www.premierleague.com/news/105430"
+          "https://www.vavel.com/en/football/2026/10/09/premier-league/1274500-newcastle-vs-coventry-preview.html",
+          "https://starting11.com/fixtures/coventry-vs-newcastle-20261012",
+          "https://extratimetalk.com/coventry-city-premier-league-2026-27-relegation/",
+          "https://www.footballdream.in/blog/coventry-city-vs-newcastle-united-gw6-premier-league-2026-27",
+          "https://www.uefa.com/uefachampionsleague/"
         ]
       },
       "news": [
-        "City mit perfekter 5/5-Serie - einziges Team ohne Punktverlust nach 5 Spieltagen",
-        "Liverpool wartet noch auf ersten Heim-Liga-Sieg der Saison (0S/1U/1N oder 0S/2U zu Hause)",
-        "Haaland weiterhin PL-Topscorer-Favorit - mindestens 7 Tore in 5 Liga-Spielen",
-        "2:0-Insurance (PL) greift NICHT bei bet365 - gilt nur Bundesliga + Champions League",
-        "Kickoff-Verlegung: Spiel auf Sonntag 16:30 UK (17:30 Berlin) wegen TV-Priority verschoben"
+        "Coventry: Taiwo Awoniyi gesperrt; Haji Wright, Kaine Kesler-Hayden, Josh Eccles, Luke Woolfenden, Aurele Amenda verletzt; Milan van Ewijk angeschlagen - duenner Sturm.",
+        "Newcastle: Ewen Jaouen und Valentino Livramento OUT; Elanga (Oberschenkel), Jacob Ramsey (Oberschenkel), Nico Gonzalez (Kopf), Dan Burn (Sprunggelenk) Fragezeichen.",
+        "Angriffskern Newcastle laut Preview: Willock, Barnes, Hall, Wissa. Woltemade / Osula je nach Fitness als 9er.",
+        "Trainer: Matthias Jaissle (Newcastle, seit Sommer 2026, Ex-Salzburg/Al-Ahli). 2:0-Insurance-Regel aktiv (Premier League zaehlt bei bet365 DE nicht - siehe CLAUDE.md: NUR 1. Bundesliga + Champions League). Daher hier KEIN Bonus im Sieg-Tipp."
       ],
       "tipps": [
         {
-          "id": "liv-mci-1",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen",
-          "quote": 1.57,
-          "edge_prozent": 7.0,
-          "begruendung": "Markt-Goldgrube BTTS JA (Hitrate 61.1 %, ROI +22.9 %). Haaland in Form + Salah/Diaz als Liverpool-Antworter in jedem Big-Game bisher. Beide Defensiven haben in 5 Spielen Gegentore kassiert. Model-Fair-Line ~1.47 bei 68 % Chance, Markt 1.57. Einsatz 15€ (1.5 %). Live bei bet365 pruefen.",
-          "faire_quote": 1.47,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "liv-mci-2",
-          "kategorie": "value",
-          "markt": "Erling Haaland Torschuetze jederzeit",
-          "quote": 2.1,
-          "edge_prozent": 8.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (ROI +39.6 %). Haaland hat in 5/5 Spielen getroffen - Form-Edge-Pflicht erfuellt. Gegen Liverpool-Defense ohne van Dijk-Fitness-Vollgewicht historisch stark. Markt 2.10 implied 47.6 %, Modell 52-54 %. Einwechslungs-Boost mit Marmoush/Doku als Backup-Angreifer. Einsatz 15€ (1.5 %). Startelf via skysports.com Aufstellungsvorschau live gegenchecken.",
-          "faire_quote": 1.9,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "liv-mci-3",
-          "kategorie": "wackel",
-          "markt": "Manchester City Sieg (90 Min)",
-          "quote": 2.8,
-          "edge_prozent": 4.0,
-          "begruendung": "City mit klarem Form-Edge (5/5) + Liverpool-Heim-Krise (0 Siege Anfield in 2026/27). Aber Anfield-Faktor bleibt real, deshalb max WACKEL - kein SAFE wegen HR2 (Heim-Form-Krise ist der Grund gegen Heim-Sieg, aber auch gegen Auswaerts-SAFE). Model-Fair 2.60, Markt 2.80. Einsatz 5€ (0.5 %) oder in Risiko-Kombi.",
-          "faire_quote": 2.6,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "liv-mci-4",
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.72,
+          "id": "cov-new-1",
+          "kategorie": "safe",
+          "markt": "Newcastle oder Remis (Doppelte Chance X2)",
+          "quote": 1.35,
           "edge_prozent": 5.0,
-          "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (ROI +47.9 %). Haaland + Salah fast immer Torgaranten in Big-Games. Aber Anfield-Big-Games tendieren zu 2:1/1:1-Resultaten - deshalb nur WACKEL als Hedge zu BTTS. Einsatz 5€ (0.5 %).",
-          "faire_quote": 1.65,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "liv-mci-5",
-          "kategorie": "moonshot",
-          "markt": "Haaland 2 oder mehr Tore",
-          "quote": 5.0,
-          "edge_prozent": 2.0,
-          "begruendung": "Form-Edge-Follow-Up: Haaland Doppelpack-Niveau laut Serie (5/5 Spiele getroffen). Markt 5.00 implied 20 %, Modell 22 %. Nur Moonshot-Bein (nicht als Einzel). Mit Einwechslungs-Boost (Marmoush/Doku als Backup) weiter abgesichert.",
-          "faire_quote": 4.55,
-          "empfohlener_einsatz_prozent": 0.1
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-11-cry-nfo",
-      "liga": "Premier League 2026/27 - Matchweek 6",
-      "heim": "Crystal Palace",
-      "gast": "Nottingham Forest",
-      "anstoss": "2026-10-11T17:00:00+01:00",
-      "stadion": "Selhurst Park, London",
-      "saison_kontext": {
-        "parallel_heim": "keine - Palace nicht international engagiert in 2026/27",
-        "parallel_gast": "keine - Forest aktuell nicht in Europa (Nach-CL-Enttaeuschung 2025/26)",
-        "saisonziel_heim": "Mittelfeld-Platz / europaeische Plaetze unter neuem Head Coach Pierre Sage - noch kein Heim-Liga-Sieg in 2026/27",
-        "saisonziel_gast": "Oberes Mittelfeld - gute Auswaerts-Form bisher, 1-2 Siege unterwegs",
-        "motivations_asymmetrie": "Palace unter neuem Trainer Sage weiter unter Druck - braucht Heim-Sieg zur Stabilisierung. Forest ausgeruht und zu Auswaerts-Siegen faehig. 50/50-Spiel mit leichtem Forest-Edge bei neutraler Heim-Krise-Analyse",
-        "recovery_heim": "~1 Woche seit letztem Spiel vor Nations-League-Pause, mehrere englische Nationalspieler bei NL-Spielen (Mateta/Guehi)",
-        "recovery_gast": "~1 Woche Pause, kaum Nationalspieler = frischer Kader. Potenziell Edge",
-        "quellen": [
-          "https://thekenyatimes.com/football/premier-league-fixtures-after-break/",
-          "https://footballweekly.substack.com/p/premier-league-matchweek-6-match",
-          "https://www.premierleague.com/news/105430"
-        ]
-      },
-      "news": [
-        "Palace sucht ersten Heim-Liga-Sieg der Saison unter Pierre Sage (neuer Trainer)",
-        "Forest ausgeruht + Form-stabil Auswaerts",
-        "Heim-Krise-Signal: HR2 greift - kein Palace-Heim-SAFE/-VALUE moeglich",
-        "Statistik-Historie: Doppelte Chance X2 Goldgrube (ROI +59.3 %, Hitrate 68.4 %)"
-      ],
-      "tipps": [
-        {
-          "id": "cry-nfo-1",
-          "kategorie": "value",
-          "markt": "Nottingham Forest oder Remis (Doppelte Chance)",
-          "quote": 1.6,
-          "edge_prozent": 7.0,
-          "begruendung": "Markt-Top-Goldgrube Doppelte Chance X2 (ROI +59.3 %, Hitrate 68.4 %). Palace mit Heim-Krise (HR2) + Forest ausgeruht/frisch. Modell gibt Forest-oder-Remis ~68 %, Markt 1.60 implied 62.5 %. Einsatz 20€ (2 %). Live bei bet365 pruefen.",
-          "faire_quote": 1.47,
-          "empfohlener_einsatz_prozent": 2.0
-        },
-        {
-          "id": "cry-nfo-2",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen",
-          "quote": 1.75,
-          "edge_prozent": 6.0,
-          "begruendung": "Markt-Goldgrube BTTS JA (ROI +22.9 %). Palace oeffnet zu Hause typisch (Mateta/Eze) + Forest nutzt Auswaerts-Konter. Palace hat in 2 von 2 Heim-Spielen getroffen aber auch kassiert. Markt 1.75 implied 57 %, Modell 61 %. Einsatz 15€ (1.5 %).",
-          "faire_quote": 1.64,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "cry-nfo-3",
-          "kategorie": "wackel",
-          "markt": "Chris Wood Torschuetze jederzeit",
-          "quote": 3.0,
-          "edge_prozent": 5.0,
-          "begruendung": "Form-Edge-Pflicht geprueft: Wood weiterhin Forest-Volumen-Stuermer in 2026/27. Palace-Defense aber solide. Markt 3.00 impled 33 %, Modell 36 %. Einwechslungs-Boost mit Taiwo Awoniyi als potentieller Ersatz. Nur WACKEL-Einzel (5€, 0.5 %) oder in Risiko-Kombi. Startelf via kicker.de Aufstellungsvorschau live gegenchecken.",
-          "faire_quote": 2.8,
-          "empfohlener_einsatz_prozent": 0.5
-        },
-        {
-          "id": "cry-nfo-4",
-          "kategorie": "moonshot",
-          "markt": "Chris Wood 2 oder mehr Tore",
-          "quote": 7.5,
-          "edge_prozent": 1.0,
-          "begruendung": "Form-Follow-Up: Wood Volumen-Stuermer bei Forest. Doppelpack-Chance begrenzt da Palace-Defense solide, aber bei Form-Welle moeglich. Markt 7.50 implied 13 %. Nur Moonshot-Bein. Einwechslungs-Boost mit Awoniyi als Backup.",
-          "faire_quote": 7.14,
-          "empfohlener_einsatz_prozent": 0.1
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-11-hul-eve",
-      "liga": "Premier League 2026/27 - Matchweek 6",
-      "heim": "Hull City",
-      "gast": "Everton",
-      "anstoss": "2026-10-11T17:00:00+01:00",
-      "stadion": "MKM Stadium, Hull",
-      "saison_kontext": {
-        "parallel_heim": "keine - Hull nicht international engagiert",
-        "parallel_gast": "keine - Everton nicht international engagiert in 2026/27",
-        "saisonziel_heim": "Klassenerhalt - Hull als Aufsteiger, Punkte sammeln wo moeglich",
-        "saisonziel_gast": "Oberes Mittelfeld / Europa-Plaetze - Everton nach stabilem Saisonstart",
-        "motivations_asymmetrie": "Everton auswaerts-stabil und mit Qualitaets-Edge. Hull mit Heim-Faktor als Aufsteiger-Energie. Everton leichter Favorit bei bet365 - Form-Edge auf Auswaerts-Seite",
-        "recovery_heim": "~1 Woche Pause, Hull stellt kaum A-Nationalspieler, komplette Kader-Verfuegbarkeit",
-        "recovery_gast": "~1 Woche Pause, Everton mit einigen Nationalspielern aber nicht Dauer-Belastet",
-        "quellen": [
-          "https://thekenyatimes.com/football/premier-league-fixtures-after-break/",
-          "https://www.premierleague.com/news/105430",
-          "https://www.hullcitytigers.com"
-        ]
-      },
-      "news": [
-        "Hull City als Premier-League-Aufsteiger - Heim-Erst-Saison",
-        "Everton mit stabilem Saisonstart - Qualitaets-Edge gegen Aufsteiger",
-        "Statistik: DC 1X Goldgrube - aber hier Auswaerts-Favorit, deshalb DC 2X stark",
-        "Kleine Datenbasis fuer Hull - vorsichtig bei Spielertor-Tipps"
-      ],
-      "tipps": [
-        {
-          "id": "hul-eve-1",
-          "kategorie": "value",
-          "markt": "Everton oder Remis (Doppelte Chance)",
-          "quote": 1.33,
-          "edge_prozent": 5.0,
-          "begruendung": "Markt-Goldgrube DC X2 (ROI +59.3 %). Everton mit Qualitaets-Edge gegen Aufsteiger Hull. Model-Fair 1.28, Markt 1.33. Modell gibt Everton-oder-Remis ~78 %. Einsatz 20€ (2 %). Live bei bet365 pruefen.",
           "faire_quote": 1.28,
-          "empfohlener_einsatz_prozent": 2.0
+          "empfohlener_einsatz_prozent": 2.0,
+          "begruendung": "Coventry seit Saisonstart konstant im Keller, nur 1 PL-Sieg - und das bei komplett dezimiertem Sturm (Awoniyi Sperre + Haji Wright OUT). Newcastle unter Jaissle 4 von 5 Spielen ohne Pleite ausser Leeds-Ausreisser. DC X2 ist Goldgrube (66.7% / +54.8% ROI im System). Bei Kasse 1000€ * 2% = 20€ Einsatz. Quote bei bet365 live pruefen.",
+          "goldgrube": "Doppelte Chance X2"
         },
         {
-          "id": "hul-eve-2",
+          "id": "cov-new-2",
           "kategorie": "value",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.95,
-          "edge_prozent": 7.0,
-          "begruendung": "Markt-Goldgrube Unter 2.5 Tore (ROI +35.1 %, Hitrate 61.9 %). Aufsteiger-Spiel + beide Defensiven typisch solide = defensives Spiel wahrscheinlich. Hull zu Hause als Aufsteiger meist defensiv-kompakt. Markt 1.95 implied 51 %, Modell 55 %. Einsatz 15€ (1.5 %).",
-          "faire_quote": 1.82,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "hul-eve-3",
-          "kategorie": "wackel",
-          "markt": "Everton Sieg (90 Min)",
-          "quote": 2.1,
-          "edge_prozent": 3.0,
-          "begruendung": "Everton Qualitaets-Edge klar - aber Heim-Faktor als Aufsteiger realistisch. Markt 2.10 implied 47.6 %, Modell 50-52 %. Nur WACKEL wegen Aufsteiger-Faktor + 2:0-Insurance greift NICHT (PL ausserhalb Bundesliga/CL). Einsatz 5€ (0.5 %).",
-          "faire_quote": 1.98,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-11-ala-atm",
-      "liga": "LaLiga 2026/27 - Jornada 8",
-      "heim": "Deportivo Alavés",
-      "gast": "Atlético Madrid",
-      "anstoss": "2026-10-11T14:00:00+02:00",
-      "stadion": "Mendizorroza, Vitoria",
-      "saison_kontext": {
-        "parallel_heim": "keine - Alavés nicht international engagiert",
-        "parallel_gast": "Champions League Matchday 2 (14./15.10.) - Atlético mit 3-4 Tagen Pause bis CL-Spiel, moderates Rotations-Risiko bei Dauer-Belastern",
-        "saisonziel_heim": "Klassenerhalt - Alavés nach 7 Spielen typisch im unteren Mittelfeld",
-        "saisonziel_gast": "LaLiga-Titel-Herausforderer / CL-Plaetze - Atlético unter Simeone stabil im Spitzenfeld",
-        "motivations_asymmetrie": "Atlético klarer Qualitaets-Favorit aber CL-Vorbelastung + Mendizorroza traditionell schwieriges Pflaster. Simeone kennt die Rotations-Falle - evtl. Griezmann/Alvarez geschont. 50/50-Favoriten-Spiel mit Edge-Edge-Edge im unteren Range",
-        "recovery_heim": "~1 Woche Pause, Alavés mit wenigen A-Nationalspielern - frischer Kader",
-        "recovery_gast": "~1 Woche Pause, Alvarez/Lemar aus Nationalmannschaft potenziell belastet",
-        "quellen": [
-          "https://www.laliga.com/partido/temporada-2026-2027-laliga-ea-sports-deportivo-alaves-atletico-de-madrid-8",
-          "https://www.transfermarkt.de/atletico-madrid/startseite/verein/13"
-        ]
-      },
-      "news": [
-        "Mendizorroza traditionell schwieriges Pflaster fuer Top-Teams (zuletzt mehrere Punktverluste von Real/Barca/Atleti dort)",
-        "Simeone-Rotation vor CL-Doppelbelastung erwartbar - Alvarez evtl. geschont",
-        "LaLiga-Goldgrube: DC X2 (ROI +59.3 %) + Unter 2.5 Tore (ROI +35.1 %)",
-        "Startelf via marca.com Aufstellungsvorschau live gegenchecken"
-      ],
-      "tipps": [
-        {
-          "id": "ala-atm-1",
-          "kategorie": "value",
-          "markt": "Atlético Madrid oder Remis (Doppelte Chance)",
-          "quote": 1.28,
-          "edge_prozent": 5.0,
-          "begruendung": "Markt-Top-Goldgrube DC X2 (ROI +59.3 %, Hitrate 68.4 %). Atleti-Qualitaets-Edge selbst bei Rotation. Model-Fair 1.22, Markt 1.28. Modell gibt Atleti-oder-Remis ~82 %. Einsatz 20€ (2 %). Live bei bet365 pruefen.",
-          "faire_quote": 1.22,
-          "empfohlener_einsatz_prozent": 2.0
-        },
-        {
-          "id": "ala-atm-2",
-          "kategorie": "value",
-          "markt": "Unter 2.5 Tore",
+          "markt": "Sieg Newcastle (90 Min)",
           "quote": 1.75,
           "edge_prozent": 6.0,
-          "begruendung": "Markt-Goldgrube Unter 2.5 Tore (ROI +35.1 %). Atleti unter Simeone defensiv-kompakt + Alavés niedriges Chancen-Volumen zu Hause. Model-Fair 1.65, Markt 1.75. Modell gibt Unter-2.5 ~57 %. Einsatz 15€ (1.5 %).",
           "faire_quote": 1.65,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Direkter Weg wenn man das Risiko eingeht. Newcastle hat Qualitaet und Kader-Tiefe, Coventry praktisch ohne Mittelstuermer. 2:0-Insurance ist bei PL-Spielen bei bet365 DE NICHT aktiv (nur BL + CL) - also normal auswerten. 15€ bei 1000€-Kasse.",
+          "warnung_insurance": "2:0-Insurance greift hier NICHT - nur direkter Sieg zaehlt."
         },
         {
-          "id": "ala-atm-3",
-          "kategorie": "wackel",
-          "markt": "Julian Alvarez Torschuetze jederzeit",
-          "quote": 2.6,
+          "id": "cov-new-3",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 5.5,
+          "faire_quote": 1.66,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Newcastle hat Volumen-Offensive (Wissa, Barnes, Willock), Coventry-Defense in Umbau (Woolfenden/Amenda OUT). Ueber 2.5 Tore ist Goldgrube (54.2% / +54.0% ROI). 15€ bei 1000€-Kasse.",
+          "goldgrube": "Ueber 2.5 Tore"
+        },
+        {
+          "id": "cov-new-4",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen (Ja)",
+          "quote": 1.85,
           "edge_prozent": 4.0,
-          "begruendung": "Form-Edge-Pflicht: Alvarez bisher starker Saisonstart bei Atleti. Aber Rotations-Risiko vor CL moeglich. Markt 2.60 implied 38.5 %, Modell 41 %. Nur WACKEL wegen Rotations-Unsicherheit. Einwechslungs-Boost mit Griezmann/Correa als Backup. Einsatz 5€ (0.5 %). Startelf via marca.com live gegenchecken.",
-          "faire_quote": 2.44,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-11-bet-osa",
-      "liga": "LaLiga 2026/27 - Jornada 8",
-      "heim": "Real Betis",
-      "gast": "CA Osasuna",
-      "anstoss": "2026-10-11T16:15:00+02:00",
-      "stadion": "Estadio La Cartuja, Sevilla",
-      "saison_kontext": {
-        "parallel_heim": "Europa League Matchday 3 (ca. 22./23.10. - noch kein Pflichtspiel in dieser Woche)",
-        "parallel_gast": "keine - Osasuna nicht international engagiert",
-        "saisonziel_heim": "Oberes Mittelfeld / Europa-Plaetze unter Manuel Pellegrini (bzw. Trainer-Stand 2026/27 via live-pruefung)",
-        "saisonziel_gast": "Gesichertes Mittelfeld - Osasuna bisher solide auswaerts",
-        "motivations_asymmetrie": "Betis zu Hause typisch stark + Qualitaets-Edge. Osasuna auswaerts aber mit cleverer Konter-Taktik - jederzeit fuer Punktgewinn gut. La Cartuja als Ausweich-Stadion statt Benito Villamarin leicht neutraler Heim-Vorteil",
-        "recovery_heim": "~1 Woche Pause, keine Dauer-Belastungen",
-        "recovery_gast": "~1 Woche Pause, kaum A-Nationalspieler - frischer Kader",
-        "quellen": [
-          "https://www.laliga.com/partido/temporada-2026-2027-laliga-ea-sports-real-betis-ca-osasuna-8",
-          "https://www.transfermarkt.de/real-betis-balompie/startseite/verein/150"
-        ]
-      },
-      "news": [
-        "La Cartuja als Ausweich-Stadion fuer Betis - weniger Heim-Fluidum",
-        "Osasuna auswaerts solide, mit cleverer Low-Block-Taktik",
-        "LaLiga-Goldgruben: BTTS JA + Unter 2.5 Tore je nach Verlauf",
-        "Betis-Trainer-Stand live via as.com pruefen"
-      ],
-      "tipps": [
-        {
-          "id": "bet-osa-1",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen",
-          "quote": 1.8,
-          "edge_prozent": 6.0,
-          "begruendung": "Markt-Goldgrube BTTS JA (ROI +22.9 %, Hitrate 61.1 %). Betis zu Hause meist offensiv + Osasuna nutzt Konter konsequent. Historische H2H meist mit beidseitigen Toren. Markt 1.80 implied 55.5 %, Modell 60 %. Einsatz 15€ (1.5 %). Live bei bet365 pruefen.",
-          "faire_quote": 1.67,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "bet-osa-2",
-          "kategorie": "wackel",
-          "markt": "Real Betis Sieg (90 Min)",
-          "quote": 1.95,
-          "edge_prozent": 3.0,
-          "begruendung": "Betis klarer Heim-Favorit aber La-Cartuja-Faktor + Osasuna-Konter-Qualitaet begrenzen Edge. 2:0-Insurance greift NICHT (LaLiga ausserhalb Bundesliga/CL). Markt 1.95 implied 51 %, Modell 54 %. Nur WACKEL. Einsatz 5€ (0.5 %).",
-          "faire_quote": 1.86,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-11-sas-mil",
-      "liga": "Serie A 2026/27 - Giornata 6",
-      "heim": "US Sassuolo",
-      "gast": "AC Milan",
-      "anstoss": "2026-10-11T18:00:00+02:00",
-      "stadion": "MAPEI Stadium, Reggio Emilia",
-      "saison_kontext": {
-        "parallel_heim": "keine - Sassuolo nicht international engagiert",
-        "parallel_gast": "keine - Milan nicht in UEFA-Wettbewerb 2026/27 (Vorsaison Platzierung Serie A nicht fuer Europa gereicht - Trainer-Allegri)",
-        "saisonziel_heim": "Klassenerhalt / Mittelfeld - Sassuolo oft Giant-Killer zu Hause",
-        "saisonziel_gast": "Scudetto-Herausforderer unter Allegri - Platz 2-4 Zielsetzung",
-        "motivations_asymmetrie": "Milan klarer Qualitaets-Favorit und ohne Europa-Belastung = voll fokussiert. Sassuolo zu Hause faehig zu Punkt-Diebstahl aber Milan-Form-Edge hoch. Favoriten-Spiel mit mittlerem Risiko",
-        "recovery_heim": "~1 Woche Pause, einige italienische Nationalspieler, kaum Dauer-Belastung",
-        "recovery_gast": "~1 Woche Pause, Pulisic/Leao bei Nationalteams eingesetzt - leichte Belastung",
-        "quellen": [
-          "https://www.idealista.it/news/node/457310",
-          "https://www.transfermarkt.de/ac-mailand/startseite/verein/5"
-        ]
-      },
-      "news": [
-        "Milan ohne Europa-Belastung in 2026/27 = voller Serie-A-Fokus",
-        "Sassuolo zu Hause oft Giant-Killer - MAPEI-Faktor real",
-        "Startelf via gazzetta.it Aufstellungsvorschau live gegenchecken",
-        "Topscorer-Favorit Milan: Leao oder neuer Signing - live pruefen"
-      ],
-      "tipps": [
-        {
-          "id": "sas-mil-1",
-          "kategorie": "value",
-          "markt": "AC Milan oder Remis (Doppelte Chance)",
-          "quote": 1.22,
-          "edge_prozent": 5.0,
-          "begruendung": "Markt-Top-Goldgrube DC X2 (ROI +59.3 %). Milan Qualitaets-Edge klar - Sassuolo-Giant-Killer-Potenzial begrenzt bei Milan ohne Europa-Doppelbelastung. Model-Fair 1.17, Markt 1.22. Modell gibt Milan-oder-Remis ~85 %. Einsatz 20€ (2 %). Live bei bet365 pruefen.",
-          "faire_quote": 1.17,
-          "empfohlener_einsatz_prozent": 2.0
-        },
-        {
-          "id": "sas-mil-2",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.72,
-          "edge_prozent": 6.0,
-          "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (ROI +47.9 %). Milan-Offensive stabil + Sassuolo offensiv-faehig zu Hause. Markt 1.72 implied 58 %, Modell 62 %. Einsatz 15€ (1.5 %).",
-          "faire_quote": 1.61,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "sas-mil-3",
-          "kategorie": "wackel",
-          "markt": "AC Milan Sieg (90 Min)",
-          "quote": 1.72,
-          "edge_prozent": 2.0,
-          "begruendung": "Milan Favorit aber Sassuolo-Heim-Edge + Nations-League-Pause-Nachwehen = max WACKEL. 2:0-Insurance NICHT in Serie A. Einsatz 5€ (0.5 %) oder in Risiko-Kombi.",
-          "faire_quote": 1.67,
-          "empfohlener_einsatz_prozent": 0.5
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-11-cag-juv",
-      "liga": "Serie A 2026/27 - Giornata 6",
-      "heim": "Cagliari Calcio",
-      "gast": "Juventus Turin",
-      "anstoss": "2026-10-11T20:45:00+02:00",
-      "stadion": "Unipol Domus, Cagliari",
-      "saison_kontext": {
-        "parallel_heim": "keine - Cagliari nicht international engagiert",
-        "parallel_gast": "Champions League Matchday 2 (14./15.10.) - Juve mit 3-4 Tagen Pause bis CL-Spiel, Rotations-Risiko moderat",
-        "saisonziel_heim": "Klassenerhalt - Cagliari auf Sardinien zu Hause oft kaempferisch",
-        "saisonziel_gast": "Scudetto-Herausforderer / CL-Plaetze - Juve nach Lineup-Stabilisierung",
-        "motivations_asymmetrie": "Juve klarer Qualitaets-Favorit aber CL-Vorbelastung + Sardinien-Reise + Heim-Druck-Spiel von Cagliari. Juve-Trainer kennt die Rotations-Falle - evtl. Yildiz/Vlahovic geschont. Favorit mit CL-Puffer",
-        "recovery_heim": "~1 Woche Pause, kaum Nationalspieler = frischer Kader",
-        "recovery_gast": "~1 Woche Pause, Yildiz (Tuerkei) + Vlahovic (Serbien) + Thuram (Frankreich) alle NL-aktiv - Mehrfach-Belastung",
-        "quellen": [
-          "https://www.idealista.it/news/node/457310",
-          "https://www.transfermarkt.de/juventus-turin/startseite/verein/506"
-        ]
-      },
-      "news": [
-        "Juve mit CL-Doppelbelastung 3-4 Tage spaeter - Rotationsrisiko bei Yildiz/Vlahovic",
-        "Cagliari-Heim-Faktor Sardinien traditionell hoch",
-        "Kerim Alajbegovic (ex-Leverkusen, Sommer-Wechsel) jetzt Juve-Mittelfeld - evtl Starter",
-        "Startelf via gazzetta.it Aufstellungsvorschau live gegenchecken"
-      ],
-      "tipps": [
-        {
-          "id": "cag-juv-1",
-          "kategorie": "value",
-          "markt": "Juventus oder Remis (Doppelte Chance)",
-          "quote": 1.33,
-          "edge_prozent": 5.0,
-          "begruendung": "Markt-Top-Goldgrube DC X2 (ROI +59.3 %, Hitrate 68.4 %). Juve-Edge gegen Cagliari-Low-Block erhalten auch bei Rotation. Model-Fair 1.26, Markt 1.33. Modell gibt Juve-oder-Remis ~78 %. Einsatz 20€ (2 %). Live bei bet365 pruefen.",
-          "faire_quote": 1.26,
-          "empfohlener_einsatz_prozent": 2.0
-        },
-        {
-          "id": "cag-juv-2",
-          "kategorie": "wackel",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.9,
-          "edge_prozent": 5.0,
-          "begruendung": "Markt-Goldgrube Unter 2.5 Tore (ROI +35.1 %). Cagliari defensiv-kompakt zu Hause + Juve bei Rotation vorsichtiger. Markt 1.90 implied 52.6 %, Modell 56 %. Einsatz 5€ (0.5 %). Live bei bet365 pruefen.",
           "faire_quote": 1.78,
-          "empfohlener_einsatz_prozent": 0.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Coventry hat zu Hause ein Tor-Risiko, auch gegen Forest getroffen. Newcastle laesst unter Jaissle gelegentlich hinten viel zu (4:1-Pleite in Leeds). BTTS JA ist Goldgrube (61.1% / +22.9% ROI). 15€.",
+          "goldgrube": "Beide Teams treffen JA"
         },
         {
-          "id": "cag-juv-3",
+          "id": "cov-new-5",
           "kategorie": "wackel",
-          "markt": "Kenan Yildiz Torschuetze jederzeit",
-          "quote": 3.0,
+          "markt": "Yoane Wissa Torschütze jederzeit",
+          "quote": 2.6,
           "edge_prozent": 3.0,
-          "begruendung": "Form-Edge-Pflicht geprueft: Yildiz als Juve-Toptalent in 2026/27 starker Form (laut aktuellem Transfermarkt-Stand). Aber Rotations-Risiko vor CL - evtl Startelf-Austausch. Markt 3.00 implied 33 %, Modell 36 %. Nur WACKEL. Einsatz 5€ (0.5 %). Startelf live gegenchecken.",
-          "faire_quote": 2.78,
-          "empfohlener_einsatz_prozent": 0.5
+          "faire_quote": 2.52,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Wissa laut Preview im Angriffskern. Deadline-Day-Transfer 2025 fuer £55m als Isak-Backup, hat jetzt mehr Minuten unter Jaissle. Form-Daten fuer 26/27 duenn - deshalb nur WACKEL. Einwechslungs-Boost zaehlt (bet365-Regel). 5€ bei 1000€-Kasse.",
+          "hinweis_einwechslungs_boost": "Wenn Wissa ausgewechselt wird, zaehlt das Tor des Nachfolgers (Woltemade/Osula) laut bet365-Regel fuer diesen Tipp."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-12-ata-ven",
+      "liga": "Serie A 2026/27 - Giornata 6",
+      "heim": "Atalanta BC",
+      "gast": "Venezia FC",
+      "anstoss": "2026-10-12T18:30:00+02:00",
+      "stadion": "New Balance Arena, Bergamo",
+      "saison_kontext": {
+        "parallel_heim": "Conference League Ligaphase laeuft (Atalanta auf UEFA-Liste), aber kein CL-Spiel in dieser Woche vor dem Montagsspiel",
+        "parallel_gast": "keine - Venezia als Aufsteiger ohne Europapokal",
+        "saisonziel_heim": "Platz 11 / Mittelfeld laut Snapshot - unter Sarri bislang unterhalb der Erwartungen (Gasperini-Nachfolge-Problem). Ziel bleibt Europa-Qualifikation.",
+        "saisonziel_gast": "Platz 20 - Keller-Material, nackter Klassenerhalt-Modus",
+        "motivations_asymmetrie": "Atalanta zu Hause klarer Favorit und mit Druck, nach schwachem Start zu liefern (3. Niederlage in Serie 20.09. gegen Juve mit Spalletti) - Venezia als Underdog ohne Erwartung spielt oft kompakt im Keller.",
+        "recovery_heim": "~7 Tage seit letztem Serie-A-Spiel, keine Englische Woche in dieser Woche",
+        "recovery_gast": "~7 Tage seit letztem Serie-A-Spiel, kein Doppelbelastungs-Druck",
+        "quellen": [
+          "https://en.atalanta.it/news/serie-a-enilive-2026-27-il-calendario",
+          "https://www.kickoff.co.uk/italian-serie-a-predictions-stats-odds/atalanta-vs-venezia/",
+          "https://sport.quotidiano.net/en/calcio/atalanta/atalanta-subito-al-lavoro-sarri-e6cc489f",
+          "https://www.uefa.com/uefaconferenceleague/"
+        ]
+      },
+      "news": [
+        "Atalanta Trainer: Maurizio Sarri (seit Sommer 2026, nach Gasperini-Abgang). Nach 3. Niederlage in Serie am 20.09. (0:2 bei Juve) unter Druck.",
+        "Atalanta Sturm 26/27 laut Pre-Season-Reports: Scamacca, Krstovic, Raspadori, De Ketelaere + Vlahovic-Rueckkehr aus Spezia. Lookman ist seit Februar 2026 bei Atletico Madrid (siehe data/kader_wechsel_2026.json).",
+        "Venezia: Aufsteiger, Tabellen-Keller - Statistik-Projektion ~1.1 erwartete Tore vs Atalanta 2.1.",
+        "Serie-A-Lokal-Faktor: Montagsspiele in Italien sind der TV-Topspiel-Slot - Atalanta hat Heim-Druck."
+      ],
+      "tipps": [
+        {
+          "id": "ata-ven-1",
+          "kategorie": "wackel",
+          "markt": "Atalanta oder Remis (Doppelte Chance 1X)",
+          "quote": 1.15,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.11,
+          "empfohlener_einsatz_prozent": 2.0,
+          "begruendung": "Venezia Tabellen-Letzter, Atalanta zu Hause selbst in Krise selten mit Heim-Pleite gegen so einen Gegner. DC 1X ist Goldgrube (73.9% / +36.0% ROI). 20€ Einsatz bei 1000€-Kasse. [Auto HR4: Story-Konflikt v2 (Heim-Krise-Token in eigener Begruendung) -> safe->wackel]",
+          "goldgrube": "Doppelte Chance 1X",
+          "_story_konflikt_v2": true
         },
         {
-          "id": "cag-juv-4",
-          "kategorie": "moonshot",
-          "markt": "Kenan Yildiz 2 oder mehr Tore",
-          "quote": 9.0,
-          "edge_prozent": 1.0,
-          "begruendung": "Form-Follow-Up: Yildiz Jahresform-Top-Talent, Doppelpack moeglich bei Cagliari-Low-Block-Oeffnung. Markt 9.00 implied 11 %, Modell 12 %. Nur Moonshot-Bein wegen CL-Rotations-Risiko. Startelf live gegenchecken.",
-          "faire_quote": 8.33,
-          "empfohlener_einsatz_prozent": 0.1
+          "id": "ata-ven-2",
+          "kategorie": "value",
+          "markt": "Sieg Atalanta (90 Min)",
+          "quote": 1.45,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.38,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Direkter Heimsieg - Statistik-Projektion 2.1:1.1. Trainer-Druck (Sarri) spricht fuer offensive Marschroute zu Hause. 2:0-Insurance greift hier NICHT (Serie A ist bei bet365 DE kein Insurance-Markt). 15€.",
+          "warnung_insurance": "2:0-Insurance greift hier NICHT - nur direkter Sieg zaehlt."
+        },
+        {
+          "id": "ata-ven-3",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.7,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Projektion 3.2 erwartete Tore gesamt. Atalanta unter Sarri attackiert, Venezia-Defense Keller-Niveau. Ueber 2.5 Tore ist Goldgrube (54.2% / +54.0% ROI). 15€.",
+          "goldgrube": "Ueber 2.5 Tore"
+        },
+        {
+          "id": "ata-ven-4",
+          "kategorie": "wackel",
+          "markt": "Atalanta Handicap -1 (90 Min)",
+          "quote": 2.1,
+          "edge_prozent": 3.0,
+          "faire_quote": 2.04,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Spread -1 fuer die klarere Variante gegen Keller-Material. 2-Tore-Vorsprung ist bei Atalanta-Form 26/27 kein Selbstlaeufer, deshalb Wackel. 5€.",
+          "hinweis": "Alternativ nur fuer Risiko-Kombi-Baustein geeignet."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-12-tor-udi",
+      "liga": "Serie A 2026/27 - Giornata 6",
+      "heim": "Torino FC",
+      "gast": "Udinese Calcio",
+      "anstoss": "2026-10-12T20:45:00+02:00",
+      "stadion": "Stadio Olimpico Grande Torino, Turin",
+      "saison_kontext": {
+        "parallel_heim": "keine - Torino ohne Europapokal",
+        "parallel_gast": "keine - Udinese ohne Europapokal",
+        "saisonziel_heim": "Platz 14 mit 4 Punkten nach 5 Spielen - unter Ignazio Abate (seit Juli 2026, Ex-Juve-Stabia) im Umbruch, Ziel ist stabile Mittelfeld-Saison",
+        "saisonziel_gast": "Platz 13 nach 5 Spielen, aehnlich im Mittelfeld - oberer Keller-Rand",
+        "motivations_asymmetrie": "Klassisches Mittelfeld-Duell, kein klarer Edge. Beide Mannschaften brauchen Punkte, aber keine mit druckvoller Saisonziel-Situation.",
+        "recovery_heim": "~7 Tage seit letztem Spiel",
+        "recovery_gast": "~7 Tage seit letztem Spiel",
+        "quellen": [
+          "https://futboltotal.futbol/partido/torino-vs-udinese-serie-a-2026-10-12",
+          "https://www.foresportia.com/en/prediction/premier-league/coventry-newcastle-united-2026-10-12/",
+          "https://www.sport-flash.com/sports/football/de/calendar/2026-10-12"
+        ]
+      },
+      "news": [
+        "Trainer Torino: Ignazio Abate (seit 01.07.2026, Vertrag bis 2028, Ex-Juve-Stabia). Taktischer Umbruch nach Baroni-Abschied.",
+        "Beide auf 4 bzw. aehnlichem Punktestand - Coinflip-Spiel. Master-Routine: keine SAFE, max 3 Tipps.",
+        "Serie-A-Montagsspiel-Slot - TV-Topspiel bei DAZN."
+      ],
+      "tipps": [
+        {
+          "id": "tor-udi-1",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen (Ja)",
+          "quote": 1.8,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.73,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Beide Mittelfeld-Teams scoren hin und wieder, Udinese auswaerts selten zu Null gegen Torino. BTTS JA ist Goldgrube (61.1% / +22.9% ROI). 5€ bei 1000€-Kasse.",
+          "goldgrube": "Beide Teams treffen JA"
+        },
+        {
+          "id": "tor-udi-2",
+          "kategorie": "wackel",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.4,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.36,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Beide Teams aktuell nicht offensiv-explosiv (4 Punkte Torino, aehnlich Udinese) - unter 3.5 Tore als sichere Range. 5€.",
+          "hinweis": "Alternativ Unter 2.5 Tore @1.95 fuer mehr Edge aber mehr Risiko."
+        },
+        {
+          "id": "tor-udi-3",
+          "kategorie": "wackel",
+          "markt": "Udinese oder Remis (Doppelte Chance X2)",
+          "quote": 1.75,
+          "edge_prozent": 4.5,
+          "faire_quote": 1.67,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Torino unter neuem Trainer im Umbruch, Heim-Vorteil begrenzt wenn keine Form da. Udinese tendiert zu kompaktem Auswaertsspiel. DC X2 ist Goldgrube (66.7% / +54.8% ROI) - der zweite goldgrube-Markt dieses Spiels. 5€.",
+          "goldgrube": "Doppelte Chance X2"
         }
       ],
       "kontext_check_status": "OK"
@@ -462,371 +235,285 @@ window.__MIESMUSCHEL_TIPPS = {
   ],
   "einzeltipps": [
     {
-      "id": "liv-mci-1",
-      "spiel_id": "2026-10-11-liv-mci",
-      "spiel_label": "Liverpool vs Manchester City",
-      "kategorie": "value",
-      "markt": "Beide Teams treffen",
-      "quote": 1.57,
-      "edge_prozent": 7.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "stake_euro": 15.0,
-      "begruendung": "BTTS-Goldgrube bei Top-Spiel mit beidseitiger Offensive. Edge +7%.",
+      "id": "cov-new-1",
+      "spiel_id": "2026-10-12-cov-new",
+      "spiel_label": "Coventry vs Newcastle",
+      "kategorie": "safe",
+      "markt": "Newcastle oder Remis (Doppelte Chance X2)",
+      "quote": 1.35,
+      "empfohlener_einsatz_prozent": 2.0,
+      "stake_euro": 20.0,
+      "begruendung": "Coventry 1 PL-Sieg der Saison + Sturm fast komplett ausgefallen (Awoniyi Sperre, Haji Wright OUT). Newcastle Qualitaet und Tiefe. DC X2 ist Goldgrube (66.7%/+54.8% ROI).",
       "rang": 1
     },
     {
-      "id": "liv-mci-2",
-      "spiel_id": "2026-10-11-liv-mci",
-      "spiel_label": "Liverpool vs Manchester City",
-      "kategorie": "value",
-      "markt": "Haaland Torschuetze jederzeit",
-      "quote": 2.1,
-      "edge_prozent": 8.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "stake_euro": 15.0,
-      "begruendung": "Haaland Form-Edge-Pflicht erfuellt (5 in 5). Torschuetzen-Goldgrube +39.6% ROI.",
+      "id": "ata-ven-1",
+      "spiel_id": "2026-10-12-ata-ven",
+      "spiel_label": "Atalanta vs Venezia",
+      "kategorie": "safe",
+      "markt": "Atalanta oder Remis (Doppelte Chance 1X)",
+      "quote": 1.15,
+      "empfohlener_einsatz_prozent": 2.0,
+      "stake_euro": 20.0,
+      "begruendung": "Venezia Tabellen-Letzter, Atalanta zu Hause auch in Krise selten mit Pleite gegen so einen Gegner. DC 1X Goldgrube (73.9%/+36.0% ROI).",
       "rang": 2
     },
     {
-      "id": "cry-nfo-3",
-      "spiel_id": "2026-10-11-cry-nfo",
-      "spiel_label": "Crystal Palace vs Nottingham Forest",
-      "kategorie": "wackel",
-      "markt": "Chris Wood Torschuetze jederzeit",
-      "quote": 3.0,
-      "edge_prozent": 5.0,
-      "empfohlener_einsatz_prozent": 0.5,
-      "stake_euro": 5.0,
-      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+39.6 % ROI). Wood Forest-Volumen-Stuermer, Form-Edge-Pflicht grob erfuellt. Einwechslungs-Boost mit Awoniyi. Nur WACKEL wegen Palace-Defense-Qualitaet.",
+      "id": "cov-new-2",
+      "spiel_id": "2026-10-12-cov-new",
+      "spiel_label": "Coventry vs Newcastle",
+      "kategorie": "value",
+      "markt": "Sieg Newcastle (90 Min)",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "stake_euro": 15.0,
+      "begruendung": "Direkter Sieg - 2:0-Insurance greift bei PL NICHT (nur BL + CL). Newcastle sollte das Gewicht ausspielen.",
       "rang": 3
     },
     {
-      "id": "cry-nfo-1",
-      "spiel_id": "2026-10-11-cry-nfo",
-      "spiel_label": "Crystal Palace vs Nottingham Forest",
+      "id": "ata-ven-2",
+      "spiel_id": "2026-10-12-ata-ven",
+      "spiel_label": "Atalanta vs Venezia",
       "kategorie": "value",
-      "markt": "Forest oder Remis (DC X2)",
-      "quote": 1.6,
-      "edge_prozent": 7.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "stake_euro": 20.0,
-      "begruendung": "DC-X2-Top-Goldgrube (+59.3% ROI) + Palace-Heim-Krise (HR2).",
+      "markt": "Sieg Atalanta (90 Min)",
+      "quote": 1.45,
+      "empfohlener_einsatz_prozent": 1.5,
+      "stake_euro": 15.0,
+      "begruendung": "Sarri unter Druck zu liefern, Statistik-Projektion 2.1:1.1. Direkter Weg.",
       "rang": 4
     },
     {
-      "id": "cry-nfo-2",
-      "spiel_id": "2026-10-11-cry-nfo",
-      "spiel_label": "Crystal Palace vs Nottingham Forest",
+      "id": "cov-new-3",
+      "spiel_id": "2026-10-12-cov-new",
+      "spiel_label": "Coventry vs Newcastle",
       "kategorie": "value",
-      "markt": "Beide Teams treffen",
+      "markt": "Über 2.5 Tore",
       "quote": 1.75,
-      "edge_prozent": 6.0,
       "empfohlener_einsatz_prozent": 1.5,
       "stake_euro": 15.0,
-      "begruendung": "BTTS-Goldgrube + Palace oeffnet zu Hause typisch.",
+      "begruendung": "Newcastle Volumen-Offensive, Coventry-Defense in Umbau. Ueber 2.5 Goldgrube (54.2%/+54.0% ROI).",
       "rang": 5
     },
     {
-      "id": "hul-eve-1",
-      "spiel_id": "2026-10-11-hul-eve",
-      "spiel_label": "Hull City vs Everton",
+      "id": "ata-ven-3",
+      "spiel_id": "2026-10-12-ata-ven",
+      "spiel_label": "Atalanta vs Venezia",
       "kategorie": "value",
-      "markt": "Everton oder Remis (DC X2)",
-      "quote": 1.33,
-      "edge_prozent": 5.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "stake_euro": 20.0,
-      "begruendung": "DC-X2-Goldgrube + Everton-Qualitaets-Edge gegen Aufsteiger.",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "stake_euro": 15.0,
+      "begruendung": "Projektion 3.2 Tore. Atalanta attackiert zu Hause, Venezia-Defense anfaellig.",
       "rang": 6
     },
     {
-      "id": "ala-atm-3",
-      "spiel_id": "2026-10-11-ala-atm",
-      "spiel_label": "Alavés vs Atlético Madrid",
-      "kategorie": "wackel",
-      "markt": "Julian Alvarez Torschuetze jederzeit",
-      "quote": 2.6,
-      "edge_prozent": 4.0,
-      "empfohlener_einsatz_prozent": 0.5,
-      "stake_euro": 5.0,
-      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+39.6 % ROI). Alvarez bisher starker Saisonstart bei Atleti. Rotations-Risiko vor CL moeglich. Einwechslungs-Boost mit Griezmann/Correa.",
+      "id": "cov-new-4",
+      "spiel_id": "2026-10-12-cov-new",
+      "spiel_label": "Coventry vs Newcastle",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (Ja)",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.5,
+      "stake_euro": 15.0,
+      "begruendung": "Coventry zu Hause mit Tor-Risiko (siehe Forest-Spiel). Newcastle hinten unter Jaissle noch nicht komplett dicht (4:1 in Leeds). BTTS JA Goldgrube.",
       "rang": 7
     },
     {
-      "id": "hul-eve-2",
-      "spiel_id": "2026-10-11-hul-eve",
-      "spiel_label": "Hull City vs Everton",
-      "kategorie": "value",
-      "markt": "Unter 2.5 Tore",
-      "quote": 1.95,
-      "edge_prozent": 7.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "stake_euro": 15.0,
-      "begruendung": "Unter-2.5-Goldgrube (+35.1% ROI). Aufsteiger-Spiel typisch defensiv.",
+      "id": "tor-udi-3",
+      "spiel_id": "2026-10-12-tor-udi",
+      "spiel_label": "Torino vs Udinese",
+      "kategorie": "wackel",
+      "markt": "Udinese oder Remis (Doppelte Chance X2)",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "stake_euro": 5.0,
+      "begruendung": "Torino unter Abate im Umbruch, Heim-Edge begrenzt. Udinese traditionell kompaktes Auswaertsspiel. DC X2 Goldgrube.",
       "rang": 8
     },
     {
-      "id": "ala-atm-1",
-      "spiel_id": "2026-10-11-ala-atm",
-      "spiel_label": "Alavés vs Atlético Madrid",
-      "kategorie": "value",
-      "markt": "Atleti oder Remis (DC X2)",
-      "quote": 1.28,
-      "edge_prozent": 5.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "stake_euro": 20.0,
-      "begruendung": "DC-X2-Top-Goldgrube + Atleti-Qualitaet trotz Rotation.",
+      "id": "tor-udi-1",
+      "spiel_id": "2026-10-12-tor-udi",
+      "spiel_label": "Torino vs Udinese",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen (Ja)",
+      "quote": 1.8,
+      "empfohlener_einsatz_prozent": 0.5,
+      "stake_euro": 5.0,
+      "begruendung": "Beide Mittelfeld-Teams scoren hin und wieder, Udinese selten zu Null bei Torino. BTTS JA Goldgrube.",
       "rang": 9
     },
     {
-      "id": "ala-atm-2",
-      "spiel_id": "2026-10-11-ala-atm",
-      "spiel_label": "Alavés vs Atlético Madrid",
-      "kategorie": "value",
-      "markt": "Unter 2.5 Tore",
-      "quote": 1.75,
-      "edge_prozent": 6.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "stake_euro": 15.0,
-      "begruendung": "Simeone-Fussball + Alavés-Low-Volumen = defensives Spiel wahrscheinlich.",
-      "rang": 10
-    },
-    {
-      "id": "bet-osa-1",
-      "spiel_id": "2026-10-11-bet-osa",
-      "spiel_label": "Real Betis vs Osasuna",
-      "kategorie": "value",
-      "markt": "Beide Teams treffen",
-      "quote": 1.8,
-      "edge_prozent": 6.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "stake_euro": 15.0,
-      "begruendung": "BTTS-Goldgrube + Betis-Offensive-Heim-Pattern + Osasuna-Konter.",
-      "rang": 11
-    },
-    {
-      "id": "sas-mil-1",
-      "spiel_id": "2026-10-11-sas-mil",
-      "spiel_label": "Sassuolo vs AC Milan",
-      "kategorie": "value",
-      "markt": "Milan oder Remis (DC X2)",
-      "quote": 1.22,
-      "edge_prozent": 5.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "stake_euro": 20.0,
-      "begruendung": "DC-X2-Top-Goldgrube + Milan ohne Europa-Belastung = voller Fokus.",
-      "rang": 12
-    },
-    {
-      "id": "sas-mil-2",
-      "spiel_id": "2026-10-11-sas-mil",
-      "spiel_label": "Sassuolo vs AC Milan",
-      "kategorie": "value",
-      "markt": "Ueber 2.5 Tore",
-      "quote": 1.72,
-      "edge_prozent": 6.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "stake_euro": 15.0,
-      "begruendung": "Ueber-2.5-Goldgrube (+47.9% ROI) + Milan-Offensive stabil.",
-      "rang": 13
-    },
-    {
-      "id": "cag-juv-1",
-      "spiel_id": "2026-10-11-cag-juv",
-      "spiel_label": "Cagliari vs Juventus",
-      "kategorie": "value",
-      "markt": "Juve oder Remis (DC X2)",
-      "quote": 1.33,
-      "edge_prozent": 5.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "stake_euro": 20.0,
-      "begruendung": "DC-X2-Top-Goldgrube + Juve-Qualitaets-Edge trotz CL-Belastung.",
-      "rang": 14
-    },
-    {
-      "id": "cag-juv-3",
-      "spiel_id": "2026-10-11-cag-juv",
-      "spiel_label": "Cagliari vs Juventus",
+      "id": "cov-new-5",
+      "spiel_id": "2026-10-12-cov-new",
+      "spiel_label": "Coventry vs Newcastle",
       "kategorie": "wackel",
-      "markt": "Kenan Yildiz Torschuetze jederzeit",
-      "quote": 3.0,
-      "edge_prozent": 3.0,
+      "markt": "Yoane Wissa Torschütze jederzeit",
+      "quote": 2.6,
       "empfohlener_einsatz_prozent": 0.5,
       "stake_euro": 5.0,
-      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+39.6 % ROI). Yildiz Juve-Top-Talent. CL-Rotations-Risiko. Startelf live gegenchecken.",
-      "rang": 15
+      "begruendung": "Wissa laut Preview im Angriffskern. Einwechslungs-Boost zaehlt. Daten 26/27 duenn - deshalb WACKEL.",
+      "rang": 10
     }
   ],
   "kombis": [
     {
       "name": "Safe-Kombi",
       "kategorie": "safe",
-      "beine": [
-        {
-          "spiel_id": "2026-10-11-hul-eve",
-          "spiel_label": "Hull City vs Everton",
-          "markt": "Everton oder Remis (Doppelte Chance)",
-          "quote": 1.33,
-          "kategorie": "safe"
-        },
-        {
-          "spiel_id": "2026-10-11-ala-atm",
-          "spiel_label": "Alavés vs Atlético Madrid",
-          "markt": "Atlético oder Remis (Doppelte Chance)",
-          "quote": 1.28,
-          "kategorie": "safe"
-        },
-        {
-          "spiel_id": "2026-10-11-bet-osa",
-          "spiel_label": "Real Betis vs Osasuna",
-          "markt": "Beide Teams treffen",
-          "quote": 1.8,
-          "kategorie": "safe"
-        }
-      ],
-      "gesamtquote": 3.06,
-      "rechnung": "1.33 x 1.28 x 1.80 = 3.06",
+      "gesamtquote": 4.13,
+      "rechnung": "1.35 x 1.70 x 1.80 = 4.131",
       "empfohlener_einsatz_prozent": 2.0,
       "stake_euro": 20.0,
-      "begruendung": "DC-X2-Top-Goldgrube (ROI +59.3 %) x2 + BTTS-Goldgrube (+22.9 %). Everton + Atleti Qualitaets-Favoriten gegen Mittelfeld-Gegner, Betis offensiv zu Hause mit Osasuna-Konter. Niedrige Varianz, realistisches Ziel. Einsatz 20€ (2 %)."
+      "beine": [
+        {
+          "spiel_id": "2026-10-12-cov-new",
+          "spiel_label": "Coventry vs Newcastle",
+          "markt": "Newcastle oder Remis (Doppelte Chance)",
+          "quote": 1.35,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-10-12-ata-ven",
+          "spiel_label": "Atalanta vs Venezia",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.7,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-12-tor-udi",
+          "spiel_label": "Torino vs Udinese",
+          "markt": "Beide Teams treffen",
+          "quote": 1.8,
+          "kategorie": "wackel"
+        }
+      ],
+      "layer_check": "Layer-1 OK (je 1 Bein pro Spiel). Layer-2 OK (nur CN Sieg-Outcome als DC in dieser Kombi).",
+      "begruendung": "Drei Goldgrube-Maerkte zusammengefuehrt: DC X2 Newcastle (73.9%/+36.0% ROI im System), Ueber 2.5 Atalanta (54.2%/+54.0%), BTTS Torino-Udinese (61.1%/+22.9%). Konservativ: Coventry Keller + Atalanta Heimdruck + offenes Mittelfeld-Duell Turin. Einsatz 20€ bei 1000€-Kasse (Stufe 1, Kombi-Safe 2%). Quoten bei bet365 live pruefen."
     },
     {
       "name": "Balance-Kombi",
       "kategorie": "balance",
-      "beine": [
-        {
-          "spiel_id": "2026-10-11-liv-mci",
-          "spiel_label": "Liverpool vs Manchester City",
-          "markt": "Beide Teams treffen",
-          "quote": 1.57,
-          "kategorie": "balance"
-        },
-        {
-          "spiel_id": "2026-10-11-cry-nfo",
-          "spiel_label": "Crystal Palace vs Nottingham Forest",
-          "markt": "Nottingham Forest oder Remis (Doppelte Chance)",
-          "quote": 1.6,
-          "kategorie": "balance"
-        },
-        {
-          "spiel_id": "2026-10-11-cag-juv",
-          "spiel_label": "Cagliari vs Juventus",
-          "markt": "Yildiz Torschuetze jederzeit",
-          "quote": 3.0,
-          "kategorie": "balance"
-        }
-      ],
-      "gesamtquote": 7.54,
-      "rechnung": "1.57 x 1.60 x 3.00 = 7.54",
+      "gesamtquote": 6.79,
+      "rechnung": "2.60 x 1.45 x 1.80 = 6.786",
       "empfohlener_einsatz_prozent": 0.8,
       "stake_euro": 8.0,
-      "begruendung": "Markt-Mix (BTTS + DC X2 + Torschuetze) ueber 3 verschiedene Spiele und Ligen. Liv-Mci BTTS, Palace-Heim-Krise = Forest-Edge, Yildiz Form-Edge als Juve-Top-Talent. Mittlere Varianz, 7.54x realistisches Ziel. Einsatz 8€ (0.8 %)."
+      "beine": [
+        {
+          "spiel_id": "2026-10-12-cov-new",
+          "spiel_label": "Coventry vs Newcastle",
+          "markt": "Yoane Wissa Torschütze jederzeit",
+          "quote": 2.6,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-10-12-ata-ven",
+          "spiel_label": "Atalanta vs Venezia",
+          "markt": "Sieg Atalanta (90 Min)",
+          "quote": 1.45,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-12-tor-udi",
+          "spiel_label": "Torino vs Udinese",
+          "markt": "Beide Teams treffen",
+          "quote": 1.8,
+          "kategorie": "wackel"
+        }
+      ],
+      "layer_check": "Layer-1 OK. Layer-2 OK (AV Sieg-Outcome nur hier). CN Sieg bleibt in Safe-Kombi, TU Sieg wandert in Risiko-Kombi.",
+      "begruendung": "Mix: Wissa-Torschuetze (Einwechslungs-Boost durch bet365-Regel abgesichert) + direkter Sieg Atalanta (Statistik-Projektion 2.1:1.1) + BTTS Turin-Udinese. 8€ bei 1000€-Kasse (Stufe 1, Kombi-Balance 0.8%)."
     },
     {
       "name": "Risiko-Kombi",
       "kategorie": "risk",
-      "beine": [
-        {
-          "spiel_id": "2026-10-11-liv-mci",
-          "spiel_label": "Liverpool vs Manchester City",
-          "markt": "Haaland Torschuetze jederzeit",
-          "quote": 2.1,
-          "kategorie": "risk"
-        },
-        {
-          "spiel_id": "2026-10-11-sas-mil",
-          "spiel_label": "Sassuolo vs AC Milan",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.72,
-          "kategorie": "risk"
-        },
-        {
-          "spiel_id": "2026-10-11-cry-nfo",
-          "spiel_label": "Crystal Palace vs Nottingham Forest",
-          "markt": "Chris Wood Torschuetze jederzeit",
-          "quote": 3.0,
-          "kategorie": "risk"
-        },
-        {
-          "spiel_id": "2026-10-11-ala-atm",
-          "spiel_label": "Alavés vs Atlético Madrid",
-          "markt": "Alvarez Torschuetze jederzeit",
-          "quote": 2.6,
-          "kategorie": "risk"
-        }
-      ],
-      "gesamtquote": 28.17,
-      "rechnung": "2.10 x 1.72 x 3.00 x 2.60 = 28.17",
+      "gesamtquote": 16.8,
+      "rechnung": "2.60 x 1.70 x 3.80 = 16.796",
       "empfohlener_einsatz_prozent": 0.25,
       "stake_euro": 2.5,
-      "begruendung": "3 Torschuetzen + 1 Tor-Total ueber 4 Spiele. Haaland/Wood/Alvarez alle Form-Edge-Pflicht erfuellt + Markt-Goldgrube Torschuetzen Jederzeit (+39.6 % ROI). Sassuolo-Milan Ueber 2.5 als Puffer. Hohe Varianz, 28x Ziel. Einsatz 2.50€ (0.25 %)."
-    },
-    {
-      "name": "Moonshot-Kombi",
-      "kategorie": "moonshot",
       "beine": [
         {
-          "spiel_id": "2026-10-11-liv-mci",
-          "spiel_label": "Liverpool vs Manchester City",
-          "markt": "Haaland 2 oder mehr Tore",
-          "quote": 5.0,
-          "kategorie": "moonshot"
+          "spiel_id": "2026-10-12-cov-new",
+          "spiel_label": "Coventry vs Newcastle",
+          "markt": "Yoane Wissa Torschütze jederzeit",
+          "quote": 2.6,
+          "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-10-11-cry-nfo",
-          "spiel_label": "Crystal Palace vs Nottingham Forest",
-          "markt": "Chris Wood 2 oder mehr Tore",
-          "quote": 7.5,
-          "kategorie": "moonshot"
+          "spiel_id": "2026-10-12-ata-ven",
+          "spiel_label": "Atalanta vs Venezia",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.7,
+          "kategorie": "value"
         },
         {
-          "spiel_id": "2026-10-11-cag-juv",
-          "spiel_label": "Cagliari vs Juventus",
-          "markt": "Yildiz 2 oder mehr Tore",
-          "quote": 9.0,
-          "kategorie": "moonshot"
+          "spiel_id": "2026-10-12-tor-udi",
+          "spiel_label": "Torino vs Udinese",
+          "markt": "Sieg Udinese (90 Min)",
+          "quote": 3.8,
+          "kategorie": "risk"
         }
       ],
-      "gesamtquote": 337.5,
-      "rechnung": "5.00 x 7.50 x 9.00 = 337.50",
-      "empfohlener_einsatz_prozent": 0.1,
-      "stake_euro": 1.0,
-      "begruendung": "Spass-Einsatz 1€. 3 Doppelpack-Tipps auf Form-Edge-Stuermer (Haaland 5/5 Spiele, Wood Forest-Volumen, Yildiz Juve-Top-Talent). Alle 3 muessen Doppelpack machen - unwahrscheinlich aber 337x bei Treffer = Jackpot."
+      "layer_check": "Layer-1 OK. Layer-2 OK (nur TU Sieg-Outcome in dieser Kombi - max 1 Sieg-Outcome fuer Risiko-Hartregel eingehalten).",
+      "begruendung": "Risiko-Baustein: Wissa-Tor + Atalanta-Toroffen + Udinese-Auswaerts-Upset (Torino unter neuem Trainer Abate noch nicht gefestigt). 2.50€ bei 1000€-Kasse (Stufe 1, Kombi-Risiko 0.25%)."
     }
   ],
   "lessons_angewandt": [
-    "HR1 Quoten-Range: alle SAFE 1.22-1.33 (DC-Favoriten), VALUE 1.57-2.10 (BTTS, Torschuetzen, Ueber/Unter), WACKEL 1.90-3.00 (Sieg-Favoriten + Torschuetzen-Wackel)",
-    "HR2 Anti-Heim-Bias: Palace Heim-Krise -> kein Palace-SAFE/-VALUE, nur Wackel + DC X2 fuer Forest; Liverpool Heim-Krise -> kein Liverpool-SAFE",
-    "HR3 Joker-Stuermer: Haaland + Alvarez + Yildiz vor CL-Doppelbelastung - Torschuetzen-Tipps mit Rotations-Hinweis im begruendung-Text",
-    "HR4 Story-Konflikt-Check: alle 7 Spiele - keine SAFE die der eigenen Motivations-Asymmetrie widerspricht",
-    "HR23 Layer-3: pro Spiel max 1 Bein/Kombi; wo Spiel in zwei Kombis -> Markt-entkoppelt (z.B. Cagliari-Juve: DC in Balance + Unter 2.5 in Risiko)",
-    "HR24 Form-Edge-Pflicht fuer Torschuetzen: Haaland 5/5 Spiele getroffen = Form-Edge erfuellt; Alvarez/Yildiz starke Saisonstarts = evaluiert",
-    "Markt-Mix-Pflicht Anti-DC-Sucht: pro Spiel max 1 DC (alle Spiele erfuellt - DC + BTTS/Ueber/Unter/Torschuetzen); im ganzen Dossier Einzeltipps enthalten 5 DC-Varianten + 7 andere Maerkte (Mix erfuellt)",
-    "Kader-Frische: Nathaniel Brown jetzt bei Bayern (nicht Frankfurt), Yildiz noch bei Juve, Alajbegovic jetzt Juve (ex-Leverkusen) - keine veralteten Namen in Tipps; Startelf pro Spiel live via kicker/marca/gazzetta gegencheck empfohlen",
-    "2:0-Insurance greift NICHT in PL/LaLiga/Serie A - nur Bundesliga + Champions League (keine Bundesliga/CL-Spiele heute, Vermerk in news[])"
-  ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
-  "_verifikations_report": {
-    "stand": "2026-10-11T10:05:00+02:00",
-    "status": "OK",
-    "checks": {
-      "datum_scope": "OK - alle 7 Spiele mit Anstoss 2026-10-11 Berlin",
-      "saison_kontext_vollstaendig": "OK - alle 7 Spiele mit 7-Felder-saison_kontext + Quellen[]",
-      "kader_wechsel_check": "OK - keine Namen auf Wechsler-Liste (Jackson, Watkins, Adeyemi, Diomande, Brown, Alajbegovic, Wissa, Reitz, Aseko, Goretzka, Guerreiro) im Tipps-Text falsch verortet; Alajbegovic korrekt als Juve-Spieler erwaehnt; Brown nur als Bayern erwaehnt",
-      "markt_bluter_check": "OK - keine Markt-Bluter in Tipps (data/markt_bluter.json ist leer)",
-      "markt_goldgrube_abdeckung": "OK - DC X2 x5, BTTS x4, Ueber 2.5 x1, Unter 2.5 x3, Torschuetzen Jederzeit x6 - alle Goldgruben in mehreren Tipps vertreten",
-      "quoten_range_hr1": "OK - alle Kategorien innerhalb HR1-Range: SAFE 1.22-1.33 (DC-Favoriten), VALUE 1.57-2.10, WACKEL 1.72-3.00, MOONSHOT 5.00-9.00",
-      "layer_1": "OK - jede Kombi hat max 1 Bein pro Spiel",
-      "layer_2": "OK - Sieg-Outcome pro Spiel max 1 Kombi (Everton DC nur in Safe, Forest DC nur in Balance, City Sieg nur in Moonshot per Haaland2+/Wood2+/Yildiz2+ sind Torschuetzen-Kat)",
-      "layer_3": "WARN - cry-nfo in 3 Kombis (Balance Forest DC + Risk Wood TJ + Moonshot Wood 2+) - Markt-entkoppelt (Sieg vs TJ vs 2+Tore) laut HR23 ok; liv-mci in 3 Kombis (Balance BTTS + Risk Haaland TJ + Moonshot Haaland 2+) - Markt-entkoppelt (BTTS vs TJ vs 2+Tore) ok; cag-juv in 2 Kombis (Balance Yildiz TJ + Moonshot Yildiz 2+) - Markt-entkoppelt",
-      "kombi_quoten_range": "OK - Safe 3.06x (3-5), Balance 7.54x (6-10), Risk 28.17x (15-30), Moonshot 337.5x (100+)",
-      "gesamtquote_nachgerechnet": "OK - alle 4 Kombi-Rechnungen numerisch korrekt"
+    {
+      "lesson": "Lookman-Transfer (Feb 2026 Atalanta → Atletico Madrid) heute in data/kader_wechsel_2026.json ergaenzt - NIE mehr als Atalanta-Torschuetze tippen",
+      "hartregel": "Kader-Frische"
     },
-    "halluzinations_checks": {
-      "spielernamen": "OK - Haaland (Man City), Salah (Liverpool), Mateta/Eze (Palace), Wood/Awoniyi (Forest), Alvarez/Griezmann/Correa (Atleti), Yildiz/Vlahovic (Juve), Alajbegovic (Juve, Ex-Leverkusen), Leao/Pulisic (Milan) - alle aktuell bei genannten Vereinen laut kader_wechsel_2026.json und live-Transfer-Stand 10/2026",
-      "trainer_namen": "OK - Guardiola (Man City), Simeone (Atleti), Pellegrini-Verweis bei Betis (mit live-pruefung-Hinweis), Allegri (Milan), Sage (Palace neu, laut Kenya Times); Trainer bei Verein nicht ueber Gedaechtnis-Nennung sondern begruendet mit live-check-Hinweis",
-      "kickoff_zeiten": "OK - Liverpool-ManCity 17:30 Berlin (Liverpool-FC-offiziell), Serie A 18:00+20:45 Berlin (idealista), LaLiga typische Sonntags-Slots",
-      "selbstwiderspruch": "OK - keine Begruendung widerspricht der eigenen Kategorie"
+    {
+      "lesson": "Zeitfenster-Hartregel eingehalten: nur Spiele mit Anstoss am 2026-10-12 (Berlin) - drei Spiele PL+SerieA, keine Spiele vom 11.10 oder 13.10 im Dossier",
+      "hartregel": "ZEITFENSTER-HARTREGEL (22.08.2026)"
+    },
+    {
+      "lesson": "2:0-Insurance greift NUR bei 1. Bundesliga + Champions League - heute 3 Spiele (PL + 2x Serie A), also KEINE Insurance in direkten Sieg-Tipps aktiv",
+      "hartregel": "bet365-Sonderregel 2:0-Insurance (CLAUDE.md)"
+    },
+    {
+      "lesson": "Einwechslungs-Boost beim Wissa-Torschuetze (bet365-Regel): Tore des Nachfolgers (Woltemade/Osula/sonstige) zaehlen fuer den Tipp",
+      "hartregel": "bet365-Sonderregel Einwechslungs-Boost (CLAUDE.md)"
+    },
+    {
+      "lesson": "Markt-Mix-Pflicht: Pro Spiel KEIN reines DC-SAFE-Carpet - Mix aus Sieg/DC + Tor-Total + BTTS + Torschuetze (Wissa) nach den Lehren vom 03.05.2026",
+      "hartregel": "DC-CAP + Markt-Mix-Pflicht (Anhang master_tipps_routine.md)"
+    },
+    {
+      "lesson": "Goldgruben aktiv gesucht: DC X2 (73.9%/+36.0%), DC 1X nicht genutzt (gleicher Markt-Typ wie DC X2), Ueber 2.5 (54.2%/+54.0%), BTTS JA (61.1%/+22.9%), Torschuetzen Jederzeit (34.8%/+54.8%) - alle in mindestens einer Kombi",
+      "hartregel": "Markt-Goldgruben aktiv suchen (markt_goldgruben.json)"
+    },
+    {
+      "lesson": "Mittelfeld-Coinflip Torino-Udinese bewusst mit nur 3 Tipps (Wackel-Range) - keine SAFE, siehe Markt-Mix-Pflicht Punkt 2 (Coinflip-Regel)",
+      "hartregel": "Markt-Mix Coinflip-Regel"
+    },
+    {
+      "lesson": "Kein Moonshot heute: mit nur 3 Spielen und ohne Beobachtungs-Liga oder verifiziertem Spielertor-2+-Markt ist 100x+ nicht sauber darstellbar - lieber ehrlich auslassen als erfinden",
+      "hartregel": "Notfall-Fallback (master_tipps_routine.md): lieber kleines ehrliches Dossier als volles mit erfundenen Beinen"
     }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-10-12T14:38:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "quoten_live_pruefen",
+        "details": "Alle Quoten im Dossier sind Schaetzwerte / Aggregator-Niveau - bei bet365 live pruefen vor Platzierung."
+      },
+      {
+        "art": "nur_3_spiele",
+        "details": "Nur 3 Spiele im Fenster (1 PL + 2 Serie A) - Layer-3-Diversifikation nicht perfekt moeglich; Reusen von Beinen akzeptiert."
+      },
+      {
+        "art": "kein_moonshot",
+        "details": "Moonshot (100x+) heute nicht sauber darstellbar - weder Beobachtungs-Liga noch verifizierter Spielertor-2+ im Slate. Lieber ehrlich auslassen."
+      }
+    ],
+    "lessons_generiert": [
+      {
+        "kategorie": "Kader-Frische",
+        "lesson": "Lookman-Abgang (Atalanta → Atletico Madrid, Feb 2026) in data/kader_wechsel_2026.json ergaenzt."
+      }
+    ]
   }
 };
