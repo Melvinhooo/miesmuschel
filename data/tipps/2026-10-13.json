@@ -1,7 +1,7 @@
 {
   "datum": "2026-10-13",
-  "erstellt_am": "2026-10-13T14:30:00+02:00",
-  "hinweis": "CL League Phase MD2 - 9 Spiele heute (5x 21:00, 2x 18:45). Fokus Goldgrube-Maerkte (DC, BTTS, Ueber 2.5, Torschuetzen Jederzeit). Kasse-Stufe 1 (Saison-Start 1000€, Freischaltung Stufe 2 noch nicht aktiv) - Einzel 1-2 %, Kombi-Safe 2 %, Risiko 0.25 %. Watchdog-Recovery: Hauptroutine 13:30 hat nicht geliefert, Mo-Fr-Watchdog hat Dossier aus Wochen-Vorschau + Live-Research zusammengebaut.",
+  "erstellt_am": "2026-10-13T15:45:00+02:00",
+  "hinweis": "CL League Phase MD2 - 9 Spiele heute (7x 21:00, 2x 18:45). Fokus Goldgrube-Maerkte (DC X2, BTTS, Ueber 2.5, Torschuetzen Jederzeit). Kasse-Stufe 1 (Saison-Start 1000€ am 22.08.2026, Stufe-2-Freischaltung noch nicht aktiv) - Einzel 1-2 %, Kombi-Safe 2 %, Risiko 0.25 %. Pipeline: Recherche-File fehlte -> Fallback-Recherche via WebSearch (UEFA-Fixtures, kader_wechsel_2026.json gegen Alt-Verein-Fallen gecheckt). Namen vor Live-Spiel bei kicker.de / Klub-Site final verifizieren.",
   "spiele": [
     {
       "id": "2026-10-13-vik-bay",
@@ -35,7 +35,7 @@
           "markt": "Bayern Muenchen Sieg oder Remis (Doppelte Chance)",
           "quote": 1.08,
           "edge_prozent": 2.0,
-          "begruendung": "DC 1X-Markt-Goldgrube (ROI +36.0 %, Hitrate 73.9 %). Bayern-Niederlage in Stavanger gegen Viking waere die Sensation des Spieltags - selbst mit Rotation reicht die Qualitaet fuer min. Remis. Einsatz 10€ (1 %) nur weil Quote so niedrig; echter Wert liegt in der Diversifikation.",
+          "begruendung": "DC X2-Markt-Goldgrube (ROI +54.8 %, Hitrate 66.7 %) - Bayern ist Gast in Stavanger. Bayern-Niederlage gegen Viking waere die Sensation des Spieltags - selbst mit Rotation reicht die Qualitaet fuer min. Remis. Einsatz 10€ (1 %) nur weil Quote so niedrig; echter Wert liegt in der Diversifikation.",
           "faire_quote": 1.05,
           "empfohlener_einsatz_prozent": 1.0,
           "goldgrube": "Doppelte Chance"
@@ -594,7 +594,7 @@
       "quote": 1.08,
       "empfohlener_einsatz_prozent": 1.0,
       "stake_euro": 10.0,
-      "begruendung": "DC 1X-Markt-Goldgrube (ROI +36.0 %, Hitrate 73.9 %). Bayern-Niederlage in Stavanger gegen Viking waere die Sensation des Spieltags - selbst mit Rotation reicht die Qualitaet fuer min. Remis. Einsatz 10€ (1 %) nur weil Quote so niedrig; echter Wert liegt in der Diversifikation.",
+      "begruendung": "DC X2-Markt-Goldgrube (ROI +54.8 %, Hitrate 66.7 %) - Bayern ist Gast in Stavanger. Bayern-Niederlage gegen Viking waere die Sensation des Spieltags - selbst mit Rotation reicht die Qualitaet fuer min. Remis. Einsatz 10€ (1 %) nur weil Quote so niedrig; echter Wert liegt in der Diversifikation.",
       "goldgrube": "Doppelte Chance",
       "rang": 2
     },
@@ -907,6 +907,34 @@
     }
   ],
   "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Nur Hobby-Tool, keine Einnahmequelle. Quoten bei bet365 live pruefen - koennen sich aendern. Stress -> Pause.",
-  "_watchdog_recovery": true,
-  "_watchdog_slot": "Mo-Fr 14:30"
+  "_verifikations_report": {
+    "erstellt_am": "2026-10-13T15:45:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "layer_3_korrelation",
+        "spiel_id": "2026-10-13-int-brg",
+        "details": "Inter-Brugge taucht in allen 4 Kombis als Bein auf (Safe: Ueber 2.5, Balance: Lautaro TS, Risiko: Lautaro TS, Moonshot: Lautaro TS). Markt-Diversifikation nur partiell (3x Lautaro TS). Bei Inter-Ausfall / Lautaro Startelf-Ausschluss faellt Groessteil des Dossiers mit. Zu akzeptieren wegen 9-Spiele-Slate und MD2-Form-Edge, aber bei Lautaro-Startelf-Zweifel vor Anpfiff den Balance- oder Moonshot-Bein tauschen."
+      },
+      {
+        "art": "torschuetze_quelle",
+        "tipp_id": "int-brg-3",
+        "details": "Lautaro Martinez Torschuetze: begruendung verweist auf Squawka, saison_kontext.quellen listet nur sportsmole/footballwhispers/inter.it (keine Transfermarkt/kicker-Spieler-URL). Mapper setzt deshalb _torschuetze_quelle_warn - laeuft weiter als wackel/value, aber Startelf 1h vor Anpfiff live pruefen."
+      },
+      {
+        "art": "quoten_live_pruefen",
+        "tipp_id": "*",
+        "details": "Alle Quoten geschaetzt aus Pre-Match-Markt-Richtwerten + Markt-Goldgrube-Pattern. Vor Setzen jede einzeln bei bet365 live abgleichen - Nations-League-Rueckkehrer koennen Aufstellungen 1h vor Anpfiff kippen."
+      }
+    ],
+    "layer_2_check": "OK - jedes Sieg-Outcome (Atleti-DC, Inter-DC, Bayern-DC, Barca-DC, Napoli-DC, Slavia-DC-X2, Bayern-HC, Sabah-Sieg) in maximal 1 Kombi.",
+    "layer_3_check": "WARN - int-brg in allen 4 Kombis (Markte unterschiedlich, aber Spiel = Single Point of Failure). Siehe warn oben.",
+    "halluzinations_check": "OK - Spielernamen (Kane @ Bayern, Lautaro @ Inter, Suarez @ Sporting, Mikautadze @ Villarreal, De Bruyne @ Napoli, Leao @ Galatasaray) gegen kader_wechsel_2026.json + WebSearch 2026/27 verifiziert. Keine Alt-Verein-Fallen.",
+    "selbstwiderspruch_check": "OK - keine Widersprueche zwischen saison_kontext und tipps_kategorie gefunden (Coinflip-Spiele rbl-psv, sab-sla, vil-nap bewusst ohne SAFE).",
+    "zeitfenster_check": "OK - alle 9 Spiele mit Anstoss 2026-10-13 Berliner Zeit (7x 21:00, 2x 18:45).",
+    "nba_check": "SKIP - Offseason, Regular Season startet ~21.10. (keine Spiele heute).",
+    "wm_em_check": "SKIP - kein Turnier aktiv (WM 2026 vorbei seit 19.07.2026).",
+    "lessons_generiert": []
+  }
 }
