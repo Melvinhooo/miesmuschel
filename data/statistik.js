@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-10-12T06:25:58+00:00",
+  "letzte_berechnung": "2026-10-13T06:20:14+00:00",
   "gesamt": {
     "tipps": 272,
     "gewonnen": 142,
@@ -24,14 +24,14 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 32.2
   },
   "letzte_90_tage": {
-    "tipps": 272,
-    "gewonnen": 142,
-    "verloren": 118,
+    "tipps": 269,
+    "gewonnen": 140,
+    "verloren": 117,
     "push": 1,
     "offen": 11,
-    "einsatz": 261.0,
-    "netto": 87.32,
-    "trefferquote": 54.6,
+    "einsatz": 258.0,
+    "netto": 86.37,
+    "trefferquote": 54.5,
     "roi_prozent": 33.5
   },
   "nach_liga": {
@@ -2708,6 +2708,212 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-10-12",
+      "gesamt": {
+        "tipps": 10,
+        "gewonnen": 6,
+        "verloren": 4,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 10.0,
+        "netto": 9.7,
+        "trefferquote": 60.0,
+        "roi_prozent": 97.0
+      },
+      "spiele": [
+        {
+          "id": "2026-10-12-cov-new",
+          "liga": "Premier League 2026/27 - Matchweek 6",
+          "heim": "Coventry City",
+          "gast": "Newcastle United",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Newcastle oder Remis (Doppelte Chance X2)",
+              "quote": 1.35,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Coventry gewann 4:1. Doppelte Chance X2 (Newcastle oder Remis) ging nicht auf."
+            },
+            {
+              "markt": "Sieg Newcastle (90 Min)",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Newcastle verlor 1:4. Sieg-Tipp verloren. 2:0-Insurance greift bei Premier League NICHT (nur 1. BL + CL) und Newcastle lag ohnehin nie 2 Tore vorn."
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.75,
+              "kommentar": "5 Tore gesamt (4:1). Ueber 2.5 locker ueber die Linie."
+            },
+            {
+              "markt": "Beide Teams treffen (Ja)",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.85,
+              "kommentar": "Beide trafen (Rudoni/Cherif/Mfuni fuer Coventry, Botman fuer Newcastle)."
+            },
+            {
+              "markt": "Yoane Wissa Torschütze jederzeit",
+              "quote": 2.6,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Wissa nicht unter den Torschuetzen (Botman traf fuer NEW, aber er ist IV und nicht Wissas Sturm-Ersatz) - Einwechslungs-Boost greift nicht. Newcastle-Angriff gegen den Keller-Aufsteiger wirkungslos."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-12-ata-ven",
+          "liga": "Serie A 2026/27 - Giornata 6",
+          "heim": "Atalanta BC",
+          "gast": "Venezia FC",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Atalanta oder Remis (Doppelte Chance 1X)",
+              "quote": 1.15,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.15,
+              "kommentar": "Atalanta gewann 3:1. DC 1X durch."
+            },
+            {
+              "markt": "Sieg Atalanta (90 Min)",
+              "quote": 1.45,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.45,
+              "kommentar": "Direkter Heimsieg. Krstovic-Doppelpack (6', 30') + Kessie-Eroeffnung (4') legten das Spiel frueh zu."
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.7,
+              "kommentar": "4 Tore gesamt (3:1). Alle 4 Tore in Halbzeit 1, 2. Halbzeit torlos."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-12-tor-udi",
+          "liga": "Serie A 2026/27 - Giornata 6",
+          "heim": "Torino FC",
+          "gast": "Udinese Calcio",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen (Ja)",
+              "quote": 1.8,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.8,
+              "kommentar": "Beide trafen (Braganca 37' + Kulenovic 67' fuer Torino, Ekkelenkamp 43' fuer Udinese)."
+            },
+            {
+              "markt": "Udinese oder Remis (Doppelte Chance X2)",
+              "quote": 1.75,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Torino gewann 2:1 - Kulenovic 67' nach Okoye-Patzer. DC X2 ging nicht auf."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi",
+          "kategorie": "safe",
+          "gesamtquote": 4.13,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Newcastle oder Remis (Doppelte Chance)",
+              "quote": 1.35,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi",
+          "kategorie": "balance",
+          "gesamtquote": 6.79,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Yoane Wissa Torschütze jederzeit",
+              "quote": 2.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Atalanta (90 Min)",
+              "quote": 1.45,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi",
+          "kategorie": "risk",
+          "gesamtquote": 16.8,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Yoane Wissa Torschütze jederzeit",
+              "quote": 2.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Udinese (90 Min)",
+              "quote": 3.8,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-10-11",
       "gesamt": {

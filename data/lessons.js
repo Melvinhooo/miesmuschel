@@ -3302,6 +3302,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "8c Markt-Cluster - Torschuetzen-Tipps 1/4 trotz Goldgruben-Status",
       "lesson": "Torschuetzen-Jederzeit (Goldgrube +39.6 % ROI historisch) heute 1/4: Haaland ja, Chris Wood nein (Forest nur 1 Tor Ndoye), Julian Alvarez nein (Atleti-Scorer Grimaldo/Romero), Yildiz nein (verletzt). Lehre: Volumen-Stuermer-Edge greift nur, wenn (a) der Spieler verfuegbar ist (!), (b) sein Team Tore schiesst, und (c) nicht nur Non-Stuermer die Tore machen (Grimaldo LV, Romero DV bei Atleti). Alvarez-Fall: Atleti schoss 2 Tore, aber beide von Verteidigern - Volumen-Edge gleicht Position-Edge nicht automatisch aus. Konkreter Filter fuer Torschuetzen-Tipps: Spieler-Volumen in letzten 5 Spielen des TEAMS (nicht nur Season-Avg) + Position-Scoring-Rate pruefen.",
       "bezug_spiel_id": "2026-10-11-liv-mci"
+    },
+    {
+      "datum": "2026-10-12",
+      "kategorie": "8e Kategorie-Reality - Volumen-Stuermer der Favoriten blieben torlos gegen Keller-Aufsteiger",
+      "lesson": "Newcastle verlor 1:4 beim Keller-Aufsteiger Coventry - trotz theoretischem Angriffs-Edge (Wissa, Barnes, Woltemade im Kader) blieben alle Volumen-Stuermer torlos; der einzige Newcastle-Treffer kam vom Innenverteidiger Botman (70. Minute). Wissa-Jederzeit-Tipp @2.60 (WACKEL) ging verloren, Einwechslungs-Boost half nicht (Botman ist IV, kein Wissa-Sturm-Ersatz). Muster: Favoriten-Volumen-Stuermer auswaerts bei physisch mutigen Aufsteigern mit erstem Heimsieg-Narrativ (Coventry: erster PL-Heimsieg seit 25 Jahren laut ESPN) scheitern haeufiger - vor allem wenn deren Verteidigung durch Verletzungen aufreisst und Lineup-Umbau die Konter-Dreier verhindert. Fuer kuenftige Dossiers: Torschuetzen-Jederzeit (Goldgrube +54.8%) bei Underdog-Mut-Narrativen nicht blind reinnehmen, sondern Edge-Downgrade von VALUE auf WACKEL/skip.",
+      "bezug_spiel_id": "2026-10-12-cov-new"
+    },
+    {
+      "datum": "2026-10-12",
+      "kategorie": "8g Markt-Pattern aus nicht-getippten Spielen - alle Tore in HZ1 bei Atalanta-Venezia",
+      "lesson": "Atalanta 3:1 Venezia: alle 4 Tore in Halbzeit 1 (Kessie 4', Krstovic 6', 30', Hainaut 37'), HZ-Stand = Endstand (3:1). 2. Halbzeit torlos trotz Elmas-Rot in 89'. Fuer 'Beide Haelften Tore' waere das verloren gewesen - fuer 'Ueber 1.5 HZ1-Tore' @ ~2.60 waere das MOONSHOT-Niveau-Gewinn gewesen. Markt-Blind-Spot: bei Favorit zu Hause gegen Keller-Material mit Trainerdruck (Sarri 3. Niederlage in Folge, Mehr-Attack-Narrativ) ist frueh-explosive Halbzeit 1 statistisch unterbewertet. Idee fuer kuenftige Routinen: 'Ueber 1.5 HZ1-Tore' und 'Heim fuehrt zur HZ' als VALUE-Kandidaten bei Druck-Favorit vs Keller-Mannschaft testen.",
+      "bezug_spiel_id": "2026-10-12-ata-ven"
+    },
+    {
+      "datum": "2026-10-12",
+      "kategorie": "8c Markt-Cluster - DC X2 Goldgrube bei Underdog-Upset nicht ausfallsicher",
+      "lesson": "Doppelte Chance X2 (Goldgrube historisch 73.9%/+54.8% ROI vor heute) ging als SAFE/VALUE-Hauptankerung (@1.35, 20€ Stake) bei Coventry 4:1 Newcastle leer aus - Newcastle als Auswaerts-Favorit kassierte 4 Tore ohne Antwort. Lehre: DC-X2-Goldgrube-Status trifft auf unterbewertete Underdog-Narrative (Keller-Aufsteiger mit erstem Heim-PL-Sieg seit 25 Jahren, massiver Verletzungs-Druck bei Coventry wurde fehlgedeutet). Fuer kuenftige Dossiers: wenn Verletzungs-Druck gegen Kader-Tiefe-Logik laeuft (dezimierter Sturm + trotzdem Edge via Mitreiss-Narrativ) → DC-X2 auf WACKEL downgraden statt als 2%-SAFE-Anker durchzuwinken.",
+      "bezug_spiel_id": "2026-10-12-cov-new"
+    },
+    {
+      "datum": "2026-10-12",
+      "kategorie": "8b Kader-Frische - Alaba zu Udinese + Runjaic in trainer_2026_27 nachgetragen",
+      "lesson": "Beim Auswerten des Torino 2:1 Udinese fiel auf: David Alaba machte sein Serie-A-Debuet (Transfer 24.09.2026 free agent von Real Madrid), stand aber bisher nicht in data/kader_wechsel_2026.json. Zusaetzlich fehlte Udinese-Trainer Kosta Runjaic (seit Juni 2024) komplett im trainer_2026_27-Dict. Beides heute ergaenzt mit Quellen. Konsequenz: Alaba steht ab jetzt als Udinese-Freistoss-Setpiece-Option auf dem Kader-Radar; Udinese-Taktik-Aussagen muessen auf Runjaic-Basis gefuehrt werden (nicht auf veraltete Trainer-Annahmen).",
+      "bezug_spiel_id": "2026-10-12-tor-udi"
     }
   ]
 };

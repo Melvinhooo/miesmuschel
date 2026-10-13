@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-12",
+  "stand": "2026-10-13",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -686,6 +686,15 @@
       "datum": "2026-09-01",
       "hinweis": "Fluegel/9er bei Flick-System. Traf beim 3:0 Barca vs Getafe (10.10.2026, 30. Min).",
       "quelle": "https://www.aljazeera.com/sports/2026/9/1/barcelona-sign-gabriel-jesus-from-arsenal"
+    },
+    {
+      "spieler": "David Alaba",
+      "von": "Real Madrid (Vertrag Juni 2026 ausgelaufen)",
+      "nach": "Udinese Calcio",
+      "datum": "2026-09-24",
+      "hinweis": "Free agent nach Real-Madrid-Vertragsende. 1-Jahres-Vertrag bis Saisonende 26/27. Serie-A-Debuet am 12.10.2026 gegen Torino (2:1-Niederlage) als Innenverteidiger. Vielseitig: IV/LV/DM. Als Udinese-Freistoss-Setpiece-Spezialist moeglicher Torschuetzen-Boost.",
+      "quelle": "https://www.beinsports.com/en-us/soccer/serie-a/articles/alaba-joins-udinese-as-free-agent-following-real-madrid-exit-2026-09-24",
+      "stand": "2026-10-13"
     }
   ],
   "trainer_2026_27": [
@@ -966,6 +975,14 @@
       "hinweis": "Aguirre offiziell am 23.09.2026 als Valencia-Trainer bestaetigt, praesentiert 28.09.2026 - loeste Interim Oscar Sanchez ab (Sanchez-Entry bleibt als Historie). Ex-Mexiko-Nationaltrainer (WM 2026), 67 Jahre, 7. Spanien-Klub nach Mallorca/Leganes/Espanyol/Zaragoza/Atletico/Osasuna. Uebernahm bei Platz 19 nach 7 Spielen - Mission Klassenerhalt. Taktische Aussagen ueber Valencia NICHT auf Corberan- oder Sanchez-Stand stuetzen.",
       "quelle": "https://www.infobae.com/mexico/deportes/2026/09/28/javier-aguirre-es-presentado-como-nuevo-entrenador-del-valencia-cf/",
       "stand": "2026-10-11"
+    },
+    {
+      "verein": "Udinese Calcio",
+      "trainer": "Kosta Runjaic",
+      "seit": "2024-06",
+      "hinweis": "Seit Juni 2024 Udinese-Trainer, uebernahm von Cannavaro. Deutsch-geborener Coach, zuvor Legia Warschau. Nach gutem Saisonstart 2026/27 jetzt in 4-Niederlagen-Serie (Stand 12.10.2026 nach 2:1 bei Torino) - unter Druck. Taktik: 3-5-2 / 3-4-2-1. Alaba-Verpflichtung 24.09.2026 war sein Deal zur Stabilisierung.",
+      "quelle": "https://en.wikipedia.org/wiki/Kosta_Runjai%C4%87",
+      "stand": "2026-10-13"
     }
   ],
   "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist. Fulham hat mit Arbeloa (ex-Real Madrid) einen neuen Trainer, Silva zu Benfica (bestaetigt 25.08.2026). Saison-Verlauf (Stand 04.10.2026): erster Bundesliga-Wechsel Gladbach 13.09. (Polanski -> Lichte Interim -> Blessin ab 22.09. permanent, Vertrag bis 2028), drei Serie-A-Wechsel Fiorentina 07.09. (Grosso -> Vanoli), Bologna 16.09. (Tedesco -> Palladino) und Parma 27.09. (Cuesta -> Gilardino ab 30.09. permanent, Weltmeister 2006), ein LaLiga-Wechsel Valencia 13.09. (Corberan -> Oscar Sanchez Interim, Nachfolger weiter offen), erster Premier-League-Wechsel West Ham 27.09. (Potter -> Nuno Espirito Santo, sofort auf 3 Jahre). Interim-Rollen nur noch Valencia (Oscar Sanchez) - Blessin + Gilardino inzwischen permanent. Nottingham Forest: Glasner trotz 1/6-Saisonstart noch im Amt (02.10. laut Football Insider 'unstable, aber nicht entlassen'). Benfica (nach Mourinho-Abgang) noch offen - vor Europapokal-Tipps auf diese drei Klubs live pruefen.",
