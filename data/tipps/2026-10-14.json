@@ -31,14 +31,15 @@
       "tipps": [
         {
           "id": "fey-com-1",
-          "kategorie": "safe",
+          "kategorie": "value",
           "markt": "Feyenoord Sieg oder Remis (Doppelte Chance 1X)",
           "quote": 1.25,
           "edge_prozent": 3.0,
-          "begruendung": "DC 1X ist eine System-Goldgrube (ROI +36.0 %, Hitrate 73.9 %). Feyenoord Heim im De Kuip, Como CL-Debuetant. Niederlage waere Sensation. Einsatz 10 EUR (1 %). Live bei bet365 pruefen.",
+          "begruendung": "DC 1X ist eine System-Goldgrube (ROI +36.0 %, Hitrate 73.9 %). Feyenoord Heim im De Kuip, Como CL-Debuetant. Niederlage waere Sensation. Einsatz 10 EUR (1 %). Live bei bet365 pruefen. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
           "faire_quote": 1.2,
           "empfohlener_einsatz_prozent": 1.0,
-          "goldgrube": "Doppelte Chance 1X"
+          "goldgrube": "Doppelte Chance 1X",
+          "_markt_mix_dc_downgrade": true
         },
         {
           "id": "fey-com-2",
@@ -93,14 +94,15 @@
       "tipps": [
         {
           "id": "las-liv-1",
-          "kategorie": "safe",
+          "kategorie": "value",
           "markt": "Liverpool Sieg oder Remis (Doppelte Chance X2)",
           "quote": 1.08,
           "edge_prozent": 2.0,
-          "begruendung": "DC X2 Markt-Goldgrube (ROI +54.8 %, Hitrate 66.7 %). Liverpool-Niederlage in Linz waere die Sensation der Woche. Niedrige Quote, dient primaer der Diversifikation. Einsatz 10 EUR (1 %).",
+          "begruendung": "DC X2 Markt-Goldgrube (ROI +54.8 %, Hitrate 66.7 %). Liverpool-Niederlage in Linz waere die Sensation der Woche. Niedrige Quote, dient primaer der Diversifikation. Einsatz 10 EUR (1 %). [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
           "faire_quote": 1.05,
           "empfohlener_einsatz_prozent": 1.0,
-          "goldgrube": "Doppelte Chance X2"
+          "goldgrube": "Doppelte Chance X2",
+          "_markt_mix_dc_downgrade": true
         },
         {
           "id": "las-liv-2",
@@ -167,14 +169,15 @@
         },
         {
           "id": "mci-psg-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Erling Haaland Torschuetze jederzeit",
           "quote": 1.55,
           "edge_prozent": 10.0,
-          "begruendung": "Torschuetzen-Jederzeit-Goldgrube (ROI +54.8 %). HR24 erfuellt: 15+ PL-Tore + Doppelpack Porto CL MD1 + 2 Tore Liverpool 3-0 = krasser Form-Edge. PSG-IV mit Verletzungskrise, Marquinhos einziger Fels. Einsatz 20 EUR (2 %). Quote bei bet365 live pruefen, oft 1.50-1.70.",
+          "begruendung": "Torschuetzen-Jederzeit-Goldgrube (ROI +54.8 %). HR24 erfuellt: 15+ PL-Tore + Doppelpack Porto CL MD1 + 2 Tore Liverpool 3-0 = krasser Form-Edge. PSG-IV mit Verletzungskrise, Marquinhos einziger Fels. Einsatz 20 EUR (2 %). Quote bei bet365 live pruefen, oft 1.50-1.70. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 1.4,
           "empfohlener_einsatz_prozent": 2.0,
-          "goldgrube": "Torschuetzen Jederzeit"
+          "goldgrube": "Torschuetzen Jederzeit",
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "mci-psg-3",
@@ -250,14 +253,15 @@
         },
         {
           "id": "rom-rma-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Kylian Mbappe Torschuetze jederzeit",
           "quote": 1.8,
           "edge_prozent": 9.0,
-          "begruendung": "Torschuetzen-Jederzeit-Goldgrube (+54.8 % ROI). HR24 erfuellt: 7+ Tore in 7 LaLiga-Spielen = krasses Form-Hoch, trifft in nahezu jedem Pflichtspiel. Roma-IV solide aber auf Mbappe nicht eingestellt. Einsatz 15 EUR (1.5 %). Live pruefen.",
+          "begruendung": "Torschuetzen-Jederzeit-Goldgrube (+54.8 % ROI). HR24 erfuellt: 7+ Tore in 7 LaLiga-Spielen = krasses Form-Hoch, trifft in nahezu jedem Pflichtspiel. Roma-IV solide aber auf Mbappe nicht eingestellt. Einsatz 15 EUR (1.5 %). Live pruefen. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 1.65,
           "empfohlener_einsatz_prozent": 1.5,
-          "goldgrube": "Torschuetzen Jederzeit"
+          "goldgrube": "Torschuetzen Jederzeit",
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "rom-rma-3",
@@ -496,14 +500,15 @@
         },
         {
           "id": "slo-vfb-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Ermedin Demirovic Torschuetze jederzeit",
           "quote": 1.95,
           "edge_prozent": 10.0,
-          "begruendung": "Torschuetzen-Jederzeit-Goldgrube (+54.8 % ROI). HR24 krass erfuellt: 3 Tore in letztem Pflichtspiel + zentraler 9er + Undav als Vorbereiter. Slovan-IV Niveau Slowakei. Einsatz 15 EUR (1.5 %). Quote bei bet365 live pruefen.",
+          "begruendung": "Torschuetzen-Jederzeit-Goldgrube (+54.8 % ROI). HR24 krass erfuellt: 3 Tore in letztem Pflichtspiel + zentraler 9er + Undav als Vorbereiter. Slovan-IV Niveau Slowakei. Einsatz 15 EUR (1.5 %). Quote bei bet365 live pruefen. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 1.75,
           "empfohlener_einsatz_prozent": 1.5,
-          "goldgrube": "Torschuetzen Jederzeit"
+          "goldgrube": "Torschuetzen Jederzeit",
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "slo-vfb-3",
@@ -528,10 +533,11 @@
       "kategorie": "safe",
       "markt": "Manchester City Sieg oder Remis (Doppelte Chance 1X)",
       "quote": 1.3,
-      "einsatz_prozent": 2.0,
       "einsatz_euro": 20,
       "edge_prozent": 8.0,
-      "begruendung": "Top-Pick des Abends: PSG mit Verletzungs-Krise (Dembele/Hakimi/Mendes/Doue raus), City-Vollgas + Haaland-Form. DC 1X Markt-Goldgrube. Oberes Ende Stufe-1-Range weil Edge so klar."
+      "begruendung": "Top-Pick des Abends: PSG mit Verletzungs-Krise (Dembele/Hakimi/Mendes/Doue raus), City-Vollgas + Haaland-Form. DC 1X Markt-Goldgrube. Oberes Ende Stufe-1-Range weil Edge so klar.",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 1
     },
     {
       "ref_spiel_id": "2026-10-14-rom-rma",
@@ -540,10 +546,11 @@
       "kategorie": "safe",
       "markt": "Real Madrid Sieg oder Remis (Doppelte Chance X2)",
       "quote": 1.28,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 15,
       "edge_prozent": 5.0,
-      "begruendung": "Real-Klassen-Edge + Mbappe-Topform. Niederlage in Rom unwahrscheinlich. DC X2 Goldgrube."
+      "begruendung": "Real-Klassen-Edge + Mbappe-Topform. Niederlage in Rom unwahrscheinlich. DC X2 Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
     },
     {
       "ref_spiel_id": "2026-10-14-slo-vfb",
@@ -552,10 +559,11 @@
       "kategorie": "safe",
       "markt": "VfB Stuttgart Sieg oder Remis (Doppelte Chance X2)",
       "quote": 1.22,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 15,
       "edge_prozent": 4.0,
-      "begruendung": "Stuttgart nach 3:1 Viking (Demirovic-Hattrick) im Form-Hoch, Slovan-Niveau Slowakei. Niederlage sehr unwahrscheinlich."
+      "begruendung": "Stuttgart nach 3:1 Viking (Demirovic-Hattrick) im Form-Hoch, Slovan-Niveau Slowakei. Niederlage sehr unwahrscheinlich.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
     },
     {
       "ref_spiel_id": "2026-10-14-avl-fen",
@@ -564,10 +572,11 @@
       "kategorie": "safe",
       "markt": "Aston Villa Sieg oder Remis (Doppelte Chance 1X)",
       "quote": 1.25,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 15,
       "edge_prozent": 4.0,
-      "begruendung": "Villa Heim + PL-Niveau-Edge. DC 1X Goldgrube."
+      "begruendung": "Villa Heim + PL-Niveau-Edge. DC 1X Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
     },
     {
       "ref_spiel_id": "2026-10-14-fey-com",
@@ -576,10 +585,11 @@
       "kategorie": "safe",
       "markt": "Feyenoord Sieg oder Remis (Doppelte Chance 1X)",
       "quote": 1.25,
-      "einsatz_prozent": 1.0,
       "einsatz_euro": 10,
       "edge_prozent": 3.0,
-      "begruendung": "Feyenoord Heim im De Kuip gegen CL-Debuetant Como. DC 1X Goldgrube."
+      "begruendung": "Feyenoord Heim im De Kuip gegen CL-Debuetant Como. DC 1X Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
     },
     {
       "ref_spiel_id": "2026-10-14-las-liv",
@@ -588,10 +598,11 @@
       "kategorie": "safe",
       "markt": "Liverpool Sieg oder Remis (Doppelte Chance X2)",
       "quote": 1.08,
-      "einsatz_prozent": 1.0,
       "einsatz_euro": 10,
       "edge_prozent": 2.0,
-      "begruendung": "Niedrige Quote, aber Niederlage waere Sensation. Vor allem fuer Diversifikation."
+      "begruendung": "Niedrige Quote, aber Niederlage waere Sensation. Vor allem fuer Diversifikation.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6
     },
     {
       "ref_spiel_id": "2026-10-14-mci-psg",
@@ -600,10 +611,11 @@
       "kategorie": "value",
       "markt": "Erling Haaland Torschuetze jederzeit",
       "quote": 1.55,
-      "einsatz_prozent": 2.0,
       "einsatz_euro": 20,
       "edge_prozent": 10.0,
-      "begruendung": "Haaland Allzeit-Topform (15 PL-Tore, 20 all comps, Doppelpack Porto MD1, 2 Tore Liverpool). HR24 krass erfuellt. Torschuetzen-Jederzeit-Goldgrube."
+      "begruendung": "Haaland Allzeit-Topform (15 PL-Tore, 20 all comps, Doppelpack Porto MD1, 2 Tore Liverpool). HR24 krass erfuellt. Torschuetzen-Jederzeit-Goldgrube.",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 7
     },
     {
       "ref_spiel_id": "2026-10-14-slo-vfb",
@@ -612,10 +624,11 @@
       "kategorie": "value",
       "markt": "Ermedin Demirovic Torschuetze jederzeit",
       "quote": 1.95,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 15,
       "edge_prozent": 10.0,
-      "begruendung": "Demirovic mit 3 Toren in MD1 (Viking). HR24 krass erfuellt + Undav als Vorbereiter. Torschuetzen-Jederzeit-Goldgrube."
+      "begruendung": "Demirovic mit 3 Toren in MD1 (Viking). HR24 krass erfuellt + Undav als Vorbereiter. Torschuetzen-Jederzeit-Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 8
     },
     {
       "ref_spiel_id": "2026-10-14-rom-rma",
@@ -624,10 +637,11 @@
       "kategorie": "value",
       "markt": "Kylian Mbappe Torschuetze jederzeit",
       "quote": 1.8,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 15,
       "edge_prozent": 9.0,
-      "begruendung": "Mbappe 7+ Tore in 7 LaLiga-Spielen, trifft in nahezu jedem Pflichtspiel. HR24 erfuellt."
+      "begruendung": "Mbappe 7+ Tore in 7 LaLiga-Spielen, trifft in nahezu jedem Pflichtspiel. HR24 erfuellt.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 9
     },
     {
       "ref_spiel_id": "2026-10-14-bod-bvb",
@@ -636,10 +650,11 @@
       "kategorie": "value",
       "markt": "Borussia Dortmund Sieg oder Remis (Doppelte Chance X2)",
       "quote": 1.4,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 15,
       "edge_prozent": 5.0,
-      "begruendung": "BVB-Klassen-Edge aber Rotation-Risiko -> DC statt direkter Sieg. Goldgrube."
+      "begruendung": "BVB-Klassen-Edge aber Rotation-Risiko -> DC statt direkter Sieg. Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 10
     },
     {
       "ref_spiel_id": "2026-10-14-mci-psg",
@@ -648,10 +663,11 @@
       "kategorie": "value",
       "markt": "Ueber 2.5 Tore",
       "quote": 1.6,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 15,
       "edge_prozent": 6.0,
-      "begruendung": "Beidseitig offensiv trotz PSG-Verletzungen. Markt-Goldgrube."
+      "begruendung": "Beidseitig offensiv trotz PSG-Verletzungen. Markt-Goldgrube.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 11
     },
     {
       "ref_spiel_id": "2026-10-14-slo-vfb",
@@ -660,10 +676,11 @@
       "kategorie": "value",
       "markt": "Ueber 2.5 Tore",
       "quote": 1.65,
-      "einsatz_prozent": 1.0,
       "einsatz_euro": 10,
       "edge_prozent": 6.0,
-      "begruendung": "Stuttgart-Angriff rollt (3 Tore MD1), Slovan muss offensiv kommen."
+      "begruendung": "Stuttgart-Angriff rollt (3 Tore MD1), Slovan muss offensiv kommen.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 12
     }
   ],
   "kombis": [
@@ -695,10 +712,10 @@
       ],
       "gesamtquote": 3.0,
       "rechnung": "1.30 x 1.40 x 1.65 = 3.00",
-      "einsatz_prozent": 2.0,
       "einsatz_euro": 20,
       "potentieller_gewinn_euro": 60.06,
-      "begruendung": "Drei System-Goldgrube-Maerkte (DC 1X, DC X2, Ueber 2.5). City-Edge wegen PSG-Verletzungen, BVB-DC statt direkter Sieg wegen Rotation, Ueber 2.5 bei Stuttgarts Angriffs-Momentum."
+      "begruendung": "Drei System-Goldgrube-Maerkte (DC 1X, DC X2, Ueber 2.5). City-Edge wegen PSG-Verletzungen, BVB-DC statt direkter Sieg wegen Rotation, Ueber 2.5 bei Stuttgarts Angriffs-Momentum.",
+      "empfohlener_einsatz_prozent": 2.0
     },
     {
       "kategorie": "balance",
@@ -735,22 +752,15 @@
       ],
       "gesamtquote": 9.25,
       "rechnung": "1.55 x 1.80 x 1.95 x 1.70 = 9.25",
-      "einsatz_prozent": 0.8,
       "einsatz_euro": 8,
       "potentieller_gewinn_euro": 73.99,
-      "begruendung": "Vier Form-Edge-Picks: Haaland (Topform), Mbappe (7+ Tore in 7 Spielen), Demirovic (Hattrick MD1), Ueber 2.5 bei beidseitig offensiven Feyenoord-Como. Alle Spiele unterschiedlich -> saubere Layer-1-Diversifikation."
+      "begruendung": "Vier Form-Edge-Picks: Haaland (Topform), Mbappe (7+ Tore in 7 Spielen), Demirovic (Hattrick MD1), Ueber 2.5 bei beidseitig offensiven Feyenoord-Como. Alle Spiele unterschiedlich -> saubere Layer-1-Diversifikation.",
+      "empfohlener_einsatz_prozent": 0.8
     },
     {
       "kategorie": "risk",
       "titel": "CL-MD2-Risiko (3 Beine, Backup-Torschuetzen + Handicap)",
       "beine": [
-        {
-          "spiel_id": "2026-10-14-mci-psg",
-          "spiel_label": "Manchester City vs Paris Saint-Germain",
-          "markt": "Manchester City Handicap -1.5",
-          "quote": 2.4,
-          "kategorie": "risk"
-        },
         {
           "spiel_id": "2026-10-14-bod-bvb",
           "spiel_label": "Bodo/Glimt vs Borussia Dortmund",
@@ -766,12 +776,12 @@
           "kategorie": "risk"
         }
       ],
-      "gesamtquote": 18.14,
-      "rechnung": "2.40 x 2.70 x 2.80 = 18.14",
-      "einsatz_prozent": 0.25,
+      "gesamtquote": 7.56,
+      "rechnung": "2.70 x 2.80 = 7.56",
       "einsatz_euro": 2.5,
       "potentieller_gewinn_euro": 45.36,
-      "begruendung": "Drei spekulative aber nachvollziehbare Beine: City mit Form- + Kader-Edge -> Handicap, Guirassy als BVB-#9 trotz Rotations-Risiko, Lukaku als Fener-Top-Stuermer. Keine Layer-2-Konflikte (nur 1 Handicap)."
+      "begruendung": "Drei spekulative aber nachvollziehbare Beine: City mit Form- + Kader-Edge -> Handicap, Guirassy als BVB-#9 trotz Rotations-Risiko, Lukaku als Fener-Top-Stuermer. Keine Layer-2-Konflikte (nur 1 Handicap).",
+      "empfohlener_einsatz_prozent": 0.25
     },
     {
       "kategorie": "moonshot",
@@ -808,10 +818,10 @@
       ],
       "gesamtquote": 127.58,
       "rechnung": "3.75 x 7.00 x 1.80 x 2.70 = 127.58",
-      "einsatz_prozent": 0.1,
       "einsatz_euro": 1,
       "potentieller_gewinn_euro": 127.58,
-      "begruendung": "Spasseinsatz. Haaland Doppelpack realistisch bei Allzeit-Form, Lukaku Doppelpack der klassische Moonshot-Trigger, Mbappe + Guirassy als Form-Edge-Volume-9er. 127x Hebel."
+      "begruendung": "Spasseinsatz. Haaland Doppelpack realistisch bei Allzeit-Form, Lukaku Doppelpack der klassische Moonshot-Trigger, Mbappe + Guirassy als Form-Edge-Volume-9er. 127x Hebel.",
+      "empfohlener_einsatz_prozent": 0.1
     }
   ],
   "lessons_angewandt": [
