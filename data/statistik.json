@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-10-13T06:20:14+00:00",
+  "letzte_berechnung": "2026-10-14T06:21:51+00:00",
   "gesamt": {
     "tipps": 272,
     "gewonnen": 142,
@@ -23,15 +23,15 @@
     "roi_prozent": 32.2
   },
   "letzte_90_tage": {
-    "tipps": 269,
+    "tipps": 266,
     "gewonnen": 140,
-    "verloren": 117,
+    "verloren": 114,
     "push": 1,
     "offen": 11,
-    "einsatz": 258.0,
-    "netto": 86.37,
-    "trefferquote": 54.5,
-    "roi_prozent": 33.5
+    "einsatz": 255.0,
+    "netto": 89.37,
+    "trefferquote": 55.1,
+    "roi_prozent": 35.0
   },
   "nach_liga": {
     "FIFA WM 2026 - Halbfinale": {
@@ -2707,6 +2707,300 @@
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-10-13",
+      "gesamt": {
+        "tipps": 12,
+        "gewonnen": 5,
+        "verloren": 6,
+        "push": 0,
+        "offen": 1,
+        "einsatz": 11.0,
+        "netto": -3.32,
+        "trefferquote": 45.5,
+        "roi_prozent": -30.2
+      },
+      "spiele": [
+        {
+          "id": "2026-10-13-vik-bay",
+          "liga": "UEFA Champions League - League Phase MD2",
+          "heim": "Viking FK",
+          "gast": "Bayern Muenchen",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Bayern Muenchen Sieg oder Remis (Doppelte Chance)",
+              "quote": 1.08,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.08000000000000007,
+              "kommentar": "Endstand 3:3. Doppelte Chance gelandet."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.6499999999999999,
+              "kommentar": "Endstand 3:3 = 6 Tore. Ueber 2.5 gelandet."
+            },
+            {
+              "markt": "Harry Kane Torschuetze jederzeit",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.6499999999999999,
+              "kommentar": "Harry Kane traf 54' (Elfmeter) und 60'. Torschuetze jederzeit gelandet."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-13-rbl-psv",
+          "liga": "UEFA Champions League - League Phase MD2",
+          "heim": "RB Leipzig",
+          "gast": "PSV Eindhoven",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.57,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 1:0. BTTS NEIN."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 1:0 = 1 Tore. Ueber 2.5 verfehlt."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-13-ars-lil",
+          "liga": "UEFA Champions League - League Phase MD2",
+          "heim": "Arsenal",
+          "gast": "LOSC Lille",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.7,
+              "kommentar": "Endstand 3:0 = 3 Tore. Ueber 2.5 gelandet."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-13-len-spo",
+          "liga": "UEFA Champions League - League Phase MD2",
+          "heim": "RC Lens",
+          "gast": "Sporting CP",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.57,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 0:2. BTTS NEIN."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 0:2 = 2 Tore. Ueber 2.5 verfehlt."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-13-atm-mun",
+          "liga": "UEFA Champions League - League Phase MD2",
+          "heim": "Atletico Madrid",
+          "gast": "Manchester United",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 2:0. BTTS NEIN."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-13-int-brg",
+          "liga": "UEFA Champions League - League Phase MD2",
+          "heim": "Inter Milan",
+          "gast": "Club Brugge",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Inter Milan oder Remis (Doppelte Chance)",
+              "quote": 1.1,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 3:4. Doppelte Chance verfehlt."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.6,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.6000000000000001,
+              "kommentar": "Endstand 3:4 = 7 Tore. Ueber 2.5 gelandet."
+            },
+            {
+              "markt": "Lautaro Martinez Torschuetze jederzeit",
+              "quote": 2.0,
+              "kategorie": "wackel",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Inter 3:4 Brugge bestaetigt (UEFA-Roundup). Torschuetzen-Verifikation Lautaro bei 3 Inter-Toren steht aus - watchdog pruefen."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (Goldgrube-Markt-Mix)",
+          "kategorie": "safe",
+          "gesamtquote": 3.39,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.57,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Atletico Madrid oder Remis (Doppelte Chance)",
+              "quote": 1.35,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (Tor + Torschuetze + DC)",
+          "kategorie": "balance",
+          "gesamtquote": 6.66,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Lautaro Martinez Torschuetze jederzeit",
+              "quote": 2.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "FC Barcelona oder Remis (Doppelte Chance)",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Napoli oder Remis (Doppelte Chance X2)",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (Torschuetzen + Handicap)",
+          "kategorie": "risk",
+          "gesamtquote": 17.64,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Bayern Muenchen Handicap -2.5",
+              "quote": 2.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Luis Suarez Torschuetze jederzeit",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Lautaro Martinez Torschuetze jederzeit",
+              "quote": 2.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (Volume-Stuermer + Underdogs)",
+          "kategorie": "moonshot",
+          "gesamtquote": 52.5,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Harry Kane 2 oder mehr Tore",
+              "quote": 5.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Luis Suarez Torschuetze jederzeit",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sabah Sieg (90 Min)",
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Lautaro Martinez Torschuetze jederzeit",
+              "quote": 2.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-10-12",
       "gesamt": {
