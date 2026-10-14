@@ -759,7 +759,7 @@
     },
     {
       "kategorie": "risk",
-      "titel": "CL-MD2-Risiko (3 Beine, Backup-Torschuetzen + Handicap)",
+      "titel": "CL-MD2-Risiko (4 Beine, Torschuetzen + Handicap + BTTS)",
       "beine": [
         {
           "spiel_id": "2026-10-14-bod-bvb",
@@ -774,13 +774,27 @@
           "markt": "Romelu Lukaku Torschuetze jederzeit",
           "quote": 2.8,
           "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-10-14-las-liv",
+          "spiel_label": "LASK vs Liverpool",
+          "markt": "Liverpool Handicap -1.5",
+          "quote": 1.95,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-10-14-fey-com",
+          "spiel_label": "Feyenoord vs Como",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "kategorie": "risk"
         }
       ],
-      "gesamtquote": 7.56,
-      "rechnung": "2.70 x 2.80 = 7.56",
+      "gesamtquote": 25.78,
+      "rechnung": "2.70 x 2.80 x 1.95 x 1.75 = 25.78",
       "einsatz_euro": 2.5,
-      "potentieller_gewinn_euro": 45.36,
-      "begruendung": "Drei spekulative aber nachvollziehbare Beine: City mit Form- + Kader-Edge -> Handicap, Guirassy als BVB-#9 trotz Rotations-Risiko, Lukaku als Fener-Top-Stuermer. Keine Layer-2-Konflikte (nur 1 Handicap).",
+      "potentieller_gewinn_euro": 64.45,
+      "begruendung": "Vier spekulative aber nachvollziehbare Beine: Guirassy als BVB-#9 trotz Rotations-Risiko, Lukaku als Fener-Volumen-9er, Liverpool-HC bei Klassen-Edge gegen LASK trotz Slot-Rotation, Fey-BTTS wegen beidseitig offensiver Spielweise (CL-Debuet Como kommt offensiv). Max 1 Sieg-Outcome (Liverpool HC) - Layer-2 sauber zu Safe (City DC, BVB DC).",
       "empfohlener_einsatz_prozent": 0.25
     },
     {
@@ -966,7 +980,7 @@
       {
         "name": "Layer-2 (Sieg-Outcome max 1 Kombi)",
         "status": "OK",
-        "detail": "Direkter Sieg nur im Risiko (City HC) - DCs sind Sieg-Hedge-Outcomes, 1 pro Kombi"
+        "detail": "Sieg-Outcomes verteilt: mci-psg DC 1X nur in Safe, bod-bvb DC X2 nur in Safe, las-liv HC -1.5 nur in Risk. Jedes Spiel-Sieg-Outcome in genau 1 Kombi."
       },
       {
         "name": "Layer-3 weich (Spiel max 1 Kombi wo moeglich)",
@@ -976,7 +990,7 @@
       {
         "name": "Kombi-Quoten nachgerechnet",
         "status": "OK",
-        "detail": "Safe 1.30x1.40x1.65=3.00; Balance 1.55x1.80x1.95x1.70=9.25; Risk 2.40x2.70x2.80=18.14; Moonshot 3.75x7.00x1.80x2.70=127.58"
+        "detail": "Safe 1.30x1.40x1.65=3.00; Balance 1.55x1.80x1.95x1.70=9.25; Risk 2.70x2.80x1.95x1.75=25.78; Moonshot 3.75x7.00x1.80x2.70=127.58"
       },
       {
         "name": "Einsatz-Limits Stufe 1 (Kasse 1000 EUR)",
