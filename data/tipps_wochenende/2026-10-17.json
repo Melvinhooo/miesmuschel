@@ -70,7 +70,8 @@
           "faire_quote": 1.8,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-10-17-lev-fre",
@@ -131,7 +132,8 @@
           "faire_quote": 2.25,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-10-17-fra-koe",
@@ -191,7 +193,8 @@
           "faire_quote": 1.75,
           "empfohlener_einsatz_prozent": 1.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-10-17-bay-lei",
@@ -262,7 +265,8 @@
           "faire_quote": 2.8,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-10-17-eve-che",
@@ -322,7 +326,8 @@
           "faire_quote": 3.2,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-10-17-bre-liv",
@@ -382,7 +387,8 @@
           "faire_quote": 1.9,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-10-18-lee-mun",
@@ -441,7 +447,8 @@
           "faire_quote": 1.85,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-10-18-not-ars",
@@ -501,7 +508,8 @@
           "faire_quote": 2.0,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-10-18-bet-bar",
@@ -572,7 +580,8 @@
           "faire_quote": 1.7,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     },
     {
       "id": "2026-10-18-mil-ata",
@@ -606,23 +615,25 @@
       "tipps": [
         {
           "id": "mil-ata-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Milan oder Remis (Doppelte Chance 1X)",
           "quote": 1.25,
           "edge_prozent": 4.0,
-          "begruendung": "Markt-Goldgrube DC 1X (73.9% / +36%). Milan Heim-Favorit auf San Siro, Atalanta in Trainer-Umbau mit Niederlagen-Serie. EL-Belastung Lite. Stake 20€ (2%).",
+          "begruendung": "Markt-Goldgrube DC 1X (73.9% / +36%). Milan Heim-Favorit auf San Siro, Atalanta in Trainer-Umbau mit Niederlagen-Serie. EL-Belastung Lite. Stake 20€ (2%). [Auto HR2: Heim-Krise/Sturm-Krise erkannt - Heim-Sieg/-DC/-Top-Stuermer max WACKEL]",
           "faire_quote": 1.2,
-          "empfohlener_einsatz_prozent": 2.0
+          "empfohlener_einsatz_prozent": 2.0,
+          "_heim_form_block": true
         },
         {
           "id": "mil-ata-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Goncalo Ramos Torschuetze jederzeit",
           "quote": 2.5,
           "edge_prozent": 7.0,
-          "begruendung": "HR24 teilweise erfuellt: Ramos als zentraler 9er bei Milan nach Leao-/Nkunku-Abgaengen, Volume-Sturm-Rolle. Startelf-Debuet 23.08. gegen Torino. Backup Cisse (Youngster, Joker-Torschuetze bereits am 06.09.). Markt-Goldgrube Torschuetzen Jederzeit. Stake 10€ (1%).",
+          "begruendung": "HR24 teilweise erfuellt: Ramos als zentraler 9er bei Milan nach Leao-/Nkunku-Abgaengen, Volume-Sturm-Rolle. Startelf-Debuet 23.08. gegen Torino. Backup Cisse (Youngster, Joker-Torschuetze bereits am 06.09.). Markt-Goldgrube Torschuetzen Jederzeit. Stake 10€ (1%). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 2.3,
-          "empfohlener_einsatz_prozent": 1.0
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "mil-ata-3",
@@ -634,7 +645,8 @@
           "faire_quote": 1.85,
           "empfohlener_einsatz_prozent": 0.5
         }
-      ]
+      ],
+      "kontext_check_status": "OK"
     }
   ],
   "einzeltipps": [
@@ -647,7 +659,8 @@
       "quote": 1.14,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Bayern Topspiel-Heim-Favorit, Markt-Goldgrube DC 1X. 2:0-Insurance stuetzt. Stake 20€."
+      "begruendung": "Bayern Topspiel-Heim-Favorit, Markt-Goldgrube DC 1X. 2:0-Insurance stuetzt. Stake 20€.",
+      "rang": 1
     },
     {
       "id": "bay-lei-2",
@@ -658,7 +671,8 @@
       "quote": 1.65,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "HR24 erfuellt, Torjaegerkanone-Form. Markt-Goldgrube Torschuetzen Jederzeit. Stake 15€."
+      "begruendung": "HR24 erfuellt, Torjaegerkanone-Form. Markt-Goldgrube Torschuetzen Jederzeit. Stake 15€.",
+      "rang": 2
     },
     {
       "id": "fra-koe-2",
@@ -669,7 +683,8 @@
       "quote": 2.5,
       "empfohlener_einsatz_prozent": 1.0,
       "empfohlener_einsatz_euro": 10.0,
-      "begruendung": "Hattrick MD1, Volume-9er bei Huetter, Aufsteiger-Gegner. Markt-Goldgrube. Stake 10€."
+      "begruendung": "Hattrick MD1, Volume-9er bei Huetter, Aufsteiger-Gegner. Markt-Goldgrube. Stake 10€.",
+      "rang": 3
     },
     {
       "id": "bet-bar-3",
@@ -680,7 +695,8 @@
       "quote": 2.3,
       "empfohlener_einsatz_prozent": 1.0,
       "empfohlener_einsatz_euro": 10.0,
-      "begruendung": "Letzter Scorer vs Getafe, zentraler Barca-9er nach Lewa-/Ferran-Abgang. Markt-Goldgrube. Stake 10€."
+      "begruendung": "Letzter Scorer vs Getafe, zentraler Barca-9er nach Lewa-/Ferran-Abgang. Markt-Goldgrube. Stake 10€.",
+      "rang": 4
     },
     {
       "id": "uni-bvb-1",
@@ -691,7 +707,8 @@
       "quote": 1.3,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Markt-Goldgrube DC X2, BVB-Klassen-Edge. Stake 20€."
+      "begruendung": "Markt-Goldgrube DC X2, BVB-Klassen-Edge. Stake 20€.",
+      "rang": 5
     },
     {
       "id": "bet-bar-1",
@@ -702,7 +719,8 @@
       "quote": 1.22,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Markt-Goldgrube DC X2, Barca-Form-Edge. Stake 20€."
+      "begruendung": "Markt-Goldgrube DC X2, Barca-Form-Edge. Stake 20€.",
+      "rang": 6
     },
     {
       "id": "lev-fre-1",
@@ -713,7 +731,8 @@
       "quote": 1.22,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Markt-Goldgrube DC 1X trotz EL-Belastung Donnerstag. Stake 20€."
+      "begruendung": "Markt-Goldgrube DC 1X trotz EL-Belastung Donnerstag. Stake 20€.",
+      "rang": 7
     },
     {
       "id": "not-ars-1",
@@ -724,7 +743,8 @@
       "quote": 1.65,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Arsenal Klassen-Favorit, Forest in Trainer-Krise. Stake 15€."
+      "begruendung": "Arsenal Klassen-Favorit, Forest in Trainer-Krise. Stake 15€.",
+      "rang": 8
     },
     {
       "id": "mil-ata-1",
@@ -735,7 +755,8 @@
       "quote": 1.25,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Markt-Goldgrube DC 1X, San-Siro-Heimvorteil, Atalanta im Umbau. Stake 20€."
+      "begruendung": "Markt-Goldgrube DC 1X, San-Siro-Heimvorteil, Atalanta im Umbau. Stake 20€.",
+      "rang": 9
     },
     {
       "id": "bay-lei-3",
@@ -746,7 +767,8 @@
       "quote": 1.6,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Bayern-Topspiele quasi immer offen, Markt-Goldgrube Ueber 2.5. Stake 15€."
+      "begruendung": "Bayern-Topspiele quasi immer offen, Markt-Goldgrube Ueber 2.5. Stake 15€.",
+      "rang": 10
     },
     {
       "id": "bre-liv-1",
@@ -757,7 +779,8 @@
       "quote": 1.25,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Markt-Goldgrube DC X2, Liverpool Transfer-Power. Stake 20€."
+      "begruendung": "Markt-Goldgrube DC X2, Liverpool Transfer-Power. Stake 20€.",
+      "rang": 11
     },
     {
       "id": "eve-che-1",
@@ -768,7 +791,8 @@
       "quote": 1.3,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Markt-Goldgrube DC X2, Chelsea Klassen-Favorit. Stake 20€."
+      "begruendung": "Markt-Goldgrube DC X2, Chelsea Klassen-Favorit. Stake 20€.",
+      "rang": 12
     }
   ],
   "kombis": [
