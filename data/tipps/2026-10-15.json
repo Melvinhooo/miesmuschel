@@ -44,7 +44,7 @@
           "id": "lec-lev-1",
           "kategorie": "safe",
           "markt": "Über 2.5 Tore",
-          "quote": 1.50,
+          "quote": 1.5,
           "edge_prozent": 8.0,
           "faire_quote": 1.39,
           "empfohlener_einsatz_prozent": 1.5,
@@ -79,7 +79,7 @@
           "markt": "Beide Teams treffen - Ja",
           "quote": 1.75,
           "edge_prozent": 3.0,
-          "faire_quote": 1.70,
+          "faire_quote": 1.7,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 5.0,
           "begruendung": "Lech heim 7/9 gewonnen, meist mit eigenen Toren. Lev Defense in BL diese Saison nicht wasserdicht. BTTS-Markt zieht aber viel - fairen Edge nur klein. Wackel-Groesse 5 EUR passt."
@@ -120,7 +120,7 @@
           "id": "sal-mil-1",
           "kategorie": "safe",
           "markt": "Milan Sieg oder Remis (Doppelte Chance X2)",
-          "quote": 1.30,
+          "quote": 1.3,
           "edge_prozent": 4.0,
           "faire_quote": 1.25,
           "empfohlener_einsatz_prozent": 1.5,
@@ -142,7 +142,7 @@
           "id": "sal-mil-3",
           "kategorie": "value",
           "markt": "Sieg AC Milan (90 Min)",
-          "quote": 1.80,
+          "quote": 1.8,
           "edge_prozent": 3.0,
           "faire_quote": 1.75,
           "empfohlener_einsatz_prozent": 1.0,
@@ -195,7 +195,7 @@
           "id": "lyo-cry-1",
           "kategorie": "value",
           "markt": "Über 2.5 Tore",
-          "quote": 1.60,
+          "quote": 1.6,
           "edge_prozent": 8.0,
           "faire_quote": 1.48,
           "empfohlener_einsatz_prozent": 1.5,
@@ -217,7 +217,7 @@
           "id": "lyo-cry-3",
           "kategorie": "value",
           "markt": "Beide Teams treffen - Ja",
-          "quote": 1.70,
+          "quote": 1.7,
           "edge_prozent": 3.0,
           "faire_quote": 1.65,
           "empfohlener_einsatz_prozent": 1.0,
@@ -260,7 +260,7 @@
           "id": "cel-juv-1",
           "kategorie": "safe",
           "markt": "Juventus Sieg oder Remis (Doppelte Chance X2)",
-          "quote": 1.30,
+          "quote": 1.3,
           "edge_prozent": 5.0,
           "faire_quote": 1.24,
           "empfohlener_einsatz_prozent": 1.5,
@@ -271,7 +271,7 @@
           "id": "cel-juv-2",
           "kategorie": "value",
           "markt": "Sieg Juventus (90 Min)",
-          "quote": 1.80,
+          "quote": 1.8,
           "edge_prozent": 4.0,
           "faire_quote": 1.73,
           "empfohlener_einsatz_prozent": 1.0,
@@ -284,7 +284,7 @@
           "markt": "Unter 2.5 Tore",
           "quote": 1.75,
           "edge_prozent": 3.0,
-          "faire_quote": 1.70,
+          "faire_quote": 1.7,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 5.0,
           "begruendung": "Juve kontrolliert fuehrend-Pattern, Celta scorelos MD1, Sportytrader-Pick Unter 2.5. Wackel weil es historisch Markt-Bluter sein KANN (statistik vorher check: nach_markt_typ 'Unter X.X Tore' pruefen). Kleiner Einsatz."
@@ -411,9 +411,9 @@
           "id": "fre-jab-2",
           "kategorie": "safe",
           "markt": "Über 2.5 Tore",
-          "quote": 1.60,
+          "quote": 1.6,
           "edge_prozent": 7.0,
-          "faire_quote": 1.50,
+          "faire_quote": 1.5,
           "empfohlener_einsatz_prozent": 1.5,
           "einsatz_euro": 15.0,
           "begruendung": "Markt-Goldgrube (+27.5% ROI / 66.7% Hitrate). Freiburg offensiv, Jablonec in Czechien 5. - keine Zu-Null-Mauer. Doppelter SAFE legitim weil Markt-Goldgrube bestaetigt."
@@ -441,43 +441,53 @@
       "markt": "Sieg SC Freiburg (90 Min)",
       "quote": 1.45,
       "einsatz_euro": 15.0,
-      "kurz": "BL-Spitzenreiter heim gegen Czech-Mittelfeld - Qualitaets-Edge"
+      "kurz": "BL-Spitzenreiter heim gegen Czech-Mittelfeld - Qualitaets-Edge",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
     },
     {
       "spiel_id": "2026-10-15-fre-jab",
       "spiel_label": "SC Freiburg - FK Jablonec",
       "kategorie": "safe",
       "markt": "Über 2.5 Tore",
-      "quote": 1.60,
+      "quote": 1.6,
       "einsatz_euro": 15.0,
-      "kurz": "Markt-Goldgrube - Freiburg offensiv, Jablonec keine Mauer"
+      "kurz": "Markt-Goldgrube - Freiburg offensiv, Jablonec keine Mauer",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
     },
     {
       "spiel_id": "2026-10-15-lec-lev",
       "spiel_label": "Lech Poznan - Bayer Leverkusen",
       "kategorie": "safe",
       "markt": "Über 2.5 Tore",
-      "quote": 1.50,
+      "quote": 1.5,
       "einsatz_euro": 15.0,
-      "kurz": "Beide offensiv - Schick-Dauerscorer + Lech-Palace-0:4-Defense"
+      "kurz": "Beide offensiv - Schick-Dauerscorer + Lech-Palace-0:4-Defense",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
     },
     {
       "spiel_id": "2026-10-15-sal-mil",
       "spiel_label": "RB Salzburg - AC Milan",
       "kategorie": "safe",
       "markt": "Milan Sieg oder Remis (Doppelte Chance X2)",
-      "quote": 1.30,
+      "quote": 1.3,
       "einsatz_euro": 15.0,
-      "kurz": "Markt-Goldgrube DC X2 - Milan Qualitaets-Fav gegen heimstarkes Salzburg"
+      "kurz": "Markt-Goldgrube DC X2 - Milan Qualitaets-Fav gegen heimstarkes Salzburg",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
     },
     {
       "spiel_id": "2026-10-15-cel-juv",
       "spiel_label": "Celta Vigo - Juventus",
       "kategorie": "safe",
       "markt": "Juventus Sieg oder Remis (Doppelte Chance X2)",
-      "quote": 1.30,
+      "quote": 1.3,
       "einsatz_euro": 15.0,
-      "kurz": "Markt-Goldgrube DC X2 - Juve 5:0 Momentum, Celta mit Verletzten-Welle"
+      "kurz": "Markt-Goldgrube DC X2 - Juve 5:0 Momentum, Celta mit Verletzten-Welle",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5
     },
     {
       "spiel_id": "2026-10-15-lec-lev",
@@ -486,7 +496,9 @@
       "markt": "Sieg Bayer Leverkusen (90 Min)",
       "quote": 1.65,
       "einsatz_euro": 10.0,
-      "kurz": "Lev klarer Favorit, Schick fit, Kofane-Ausfall ohne Breiten-Verlust"
+      "kurz": "Lev klarer Favorit, Schick fit, Kofane-Ausfall ohne Breiten-Verlust",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6
     },
     {
       "spiel_id": "2026-10-15-lec-lev",
@@ -495,16 +507,20 @@
       "markt": "Patrik Schick Torschütze jederzeit",
       "quote": 1.85,
       "einsatz_euro": 10.0,
-      "kurz": "HR24 erfuellt: 5 BL-Tore in 5 Spielen, zentraler 9er, Kofane-OUT"
+      "kurz": "HR24 erfuellt: 5 BL-Tore in 5 Spielen, zentraler 9er, Kofane-OUT",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
     },
     {
       "spiel_id": "2026-10-15-lyo-cry",
       "spiel_label": "Olympique Lyon - Crystal Palace",
       "kategorie": "value",
       "markt": "Über 2.5 Tore",
-      "quote": 1.60,
+      "quote": 1.6,
       "einsatz_euro": 15.0,
-      "kurz": "Wincomparator-Modell 69.3% Ueber 2.5 + Markt-Goldgrube"
+      "kurz": "Wincomparator-Modell 69.3% Ueber 2.5 + Markt-Goldgrube",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8
     },
     {
       "spiel_id": "2026-10-15-mar-oly",
@@ -513,16 +529,20 @@
       "markt": "Beide Teams treffen - Ja",
       "quote": 1.78,
       "einsatz_euro": 10.0,
-      "kurz": "Kickoff-Modell 61% BTTS - beide offensiv, OM-Besiktas-Pattern"
+      "kurz": "Kickoff-Modell 61% BTTS - beide offensiv, OM-Besiktas-Pattern",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 9
     },
     {
       "spiel_id": "2026-10-15-cel-juv",
       "spiel_label": "Celta Vigo - Juventus",
       "kategorie": "value",
       "markt": "Sieg Juventus (90 Min)",
-      "quote": 1.80,
+      "quote": 1.8,
       "einsatz_euro": 10.0,
-      "kurz": "Juve nach 5:0 Momentum, Celta heim fuer EL schwach + Verletzte"
+      "kurz": "Juve nach 5:0 Momentum, Celta heim fuer EL schwach + Verletzte",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 10
     },
     {
       "spiel_id": "2026-10-15-mar-oly",
@@ -531,7 +551,9 @@
       "markt": "Sieg Olympique Marseille (90 Min)",
       "quote": 2.25,
       "einsatz_euro": 10.0,
-      "kurz": "Velodrome + H2H-Dominanz 4-2 - OM muss reagieren"
+      "kurz": "Velodrome + H2H-Dominanz 4-2 - OM muss reagieren",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 11
     },
     {
       "spiel_id": "2026-10-15-sal-mil",
@@ -540,7 +562,9 @@
       "markt": "Christian Pulisic Torschütze jederzeit",
       "quote": 2.75,
       "einsatz_euro": 5.0,
-      "kurz": "Pulisic Volume-Scorer Milan, Sportsmole-XI zeigt Startelf"
+      "kurz": "Pulisic Volume-Scorer Milan, Sportsmole-XI zeigt Startelf",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 12
     }
   ],
   "kombis": [
@@ -560,7 +584,7 @@
           "spiel_id": "2026-10-15-sal-mil",
           "spiel_label": "RB Salzburg - AC Milan",
           "markt": "Sieg AC Milan (90 Min)",
-          "quote": 1.80,
+          "quote": 1.8,
           "kategorie": "safe"
         },
         {
@@ -575,7 +599,8 @@
       "gesamtquote_rechnung": "1.65 x 1.80 x 1.45 = 4.31",
       "einsatz_euro": 20.0,
       "potenzieller_gewinn_euro": 86.2,
-      "begruendung": "3 Favoriten-Siege in verschiedenen Spielen (3-5x Zielrange). Alle 3 waren bei Buchmachern klarer Fav, keine Doppelbelastung-Krise - solide Kombi. 20 EUR Einsatz (2% Kasse)."
+      "begruendung": "3 Favoriten-Siege in verschiedenen Spielen (3-5x Zielrange). Alle 3 waren bei Buchmachern klarer Fav, keine Doppelbelastung-Krise - solide Kombi. 20 EUR Einsatz (2% Kasse).",
+      "empfohlener_einsatz_prozent": 1.5
     },
     {
       "name": "Balance-Kombi 3er",
@@ -593,7 +618,7 @@
           "spiel_id": "2026-10-15-cel-juv",
           "spiel_label": "Celta Vigo - Juventus",
           "markt": "Sieg Juventus (90 Min)",
-          "quote": 1.80,
+          "quote": 1.8,
           "kategorie": "value"
         },
         {
@@ -608,7 +633,8 @@
       "gesamtquote_rechnung": "1.85 x 1.80 x 1.85 = 6.16",
       "einsatz_euro": 8.0,
       "potenzieller_gewinn_euro": 49.28,
-      "begruendung": "Markt-Mix: Torschuetze (HR24 bei Schick erfuellt) + Sieg (Juve) + Ueber 2.5 Tore (Markt-Goldgrube). Layer-2 sauber - nur 1 Sieg-Outcome (Juve). 8 EUR Einsatz (0.8% Kasse)."
+      "begruendung": "Markt-Mix: Torschuetze (HR24 bei Schick erfuellt) + Sieg (Juve) + Ueber 2.5 Tore (Markt-Goldgrube). Layer-2 sauber - nur 1 Sieg-Outcome (Juve). 8 EUR Einsatz (0.8% Kasse).",
+      "empfohlener_einsatz_prozent": 0.5
     },
     {
       "name": "Risiko-Kombi 4er",
@@ -648,7 +674,8 @@
       "gesamtquote_rechnung": "2.25 x 2.15 x 2.75 x 1.65 = 21.94",
       "einsatz_euro": 2.5,
       "potenzieller_gewinn_euro": 54.85,
-      "begruendung": "Risiko-Range (15-30x). 2 Sieg-Outcomes aus unterschiedlichen Spielen (Mar, Lyon), beide moderate Fav. Vlahovic WACKEL (Form-Verifikation offen). 2.50 EUR Einsatz (0.25% Kasse)."
+      "begruendung": "Risiko-Range (15-30x). 2 Sieg-Outcomes aus unterschiedlichen Spielen (Mar, Lyon), beide moderate Fav. Vlahovic WACKEL (Form-Verifikation offen). 2.50 EUR Einsatz (0.25% Kasse).",
+      "empfohlener_einsatz_prozent": 0.25
     },
     {
       "name": "Moonshot-Kombi 4er (~128x)",
@@ -659,14 +686,14 @@
           "spiel_id": "2026-10-15-fre-jab",
           "spiel_label": "SC Freiburg - FK Jablonec",
           "markt": "FK Jablonec 2+ Tore (Mannschaft)",
-          "quote": 6.00,
+          "quote": 6.0,
           "kategorie": "moonshot"
         },
         {
           "spiel_id": "2026-10-15-sal-mil",
           "spiel_label": "RB Salzburg - AC Milan",
           "markt": "Christian Pulisic Doppelpack (2+ Tore)",
-          "quote": 6.00,
+          "quote": 6.0,
           "kategorie": "moonshot"
         },
         {
@@ -680,7 +707,7 @@
           "spiel_id": "2026-10-15-cel-juv",
           "spiel_label": "Celta Vigo - Juventus",
           "markt": "Beide Teams treffen - Ja",
-          "quote": 2.00,
+          "quote": 2.0,
           "kategorie": "wackel"
         }
       ],
@@ -688,7 +715,8 @@
       "gesamtquote_rechnung": "6.00 x 6.00 x 1.78 x 2.00 = 128.16",
       "einsatz_euro": 1.0,
       "potenzieller_gewinn_euro": 128.16,
-      "begruendung": "Spass-Einsatz 1 EUR fuer ca. 128 EUR Return. Jablonec gegen Freiburg zweimal zu treffen ist der Lottery-Teil, Pulisic-Doppelpack ebenfalls. BTTS-Beine stabilisieren die Rechnung. 100x-Marke geknackt - ehrliches Moonshot ohne Doppelpack-Korrelation (Pulisic nicht nochmal als normaler Torschuetzen-Tipp in dieser Kombi)."
+      "begruendung": "Spass-Einsatz 1 EUR fuer ca. 128 EUR Return. Jablonec gegen Freiburg zweimal zu treffen ist der Lottery-Teil, Pulisic-Doppelpack ebenfalls. BTTS-Beine stabilisieren die Rechnung. 100x-Marke geknackt - ehrliches Moonshot ohne Doppelpack-Korrelation (Pulisic nicht nochmal als normaler Torschuetzen-Tipp in dieser Kombi).",
+      "empfohlener_einsatz_prozent": 0.1
     }
   ],
   "lessons_angewandt": [
