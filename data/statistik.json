@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-10-14T06:21:51+00:00",
+  "letzte_berechnung": "2026-10-15T06:25:45+00:00",
   "gesamt": {
     "tipps": 272,
     "gewonnen": 142,
@@ -2707,6 +2707,309 @@
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-10-14",
+      "gesamt": {
+        "tipps": 12,
+        "gewonnen": 10,
+        "verloren": 2,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 12.0,
+        "netto": 2.63,
+        "trefferquote": 83.3,
+        "roi_prozent": 21.9
+      },
+      "spiele": [
+        {
+          "id": "2026-10-14-fey-com",
+          "liga": "UEFA Champions League - League Phase MD2",
+          "heim": "Feyenoord Rotterdam",
+          "gast": "Como 1907",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Feyenoord Sieg oder Remis (Doppelte Chance 1X)",
+              "quote": 1.25,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.25,
+              "kommentar": "Endstand 3:2 (Feyenoord-Heimsieg). DC 1X gelandet."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-14-las-liv",
+          "liga": "UEFA Champions League - League Phase MD2",
+          "heim": "LASK Linz",
+          "gast": "Liverpool FC",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Liverpool Sieg oder Remis (Doppelte Chance X2)",
+              "quote": 1.08,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.08,
+              "kommentar": "Endstand 3:6 (Liverpool-Auswaertssieg). DC X2 gelandet."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-14-mci-psg",
+          "liga": "UEFA Champions League - League Phase MD2",
+          "heim": "Manchester City",
+          "gast": "Paris Saint-Germain",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Manchester City Sieg oder Remis (Doppelte Chance 1X)",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 2:4 (PSG-Auswaertssieg). DC 1X verloren. 2:0-Insurance greift NICHT - HZ 0:3, City fuehrte nie."
+            },
+            {
+              "markt": "Erling Haaland Torschuetze jederzeit",
+              "quote": 1.55,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.55,
+              "kommentar": "Haaland Doppelpack (2 Tore, 2.H). Torschuetze jederzeit gelandet."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.6,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.6,
+              "kommentar": "Endstand 2:4 = 6 Tore. Ueber 2.5 gelandet."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-14-rom-rma",
+          "liga": "UEFA Champions League - League Phase MD2",
+          "heim": "AS Roma",
+          "gast": "Real Madrid",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Real Madrid Sieg oder Remis (Doppelte Chance X2)",
+              "quote": 1.28,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.28,
+              "kommentar": "Endstand 3:4 (Real-Auswaertssieg nach Comeback). DC X2 gelandet."
+            },
+            {
+              "markt": "Kylian Mbappe Torschuetze jederzeit",
+              "quote": 1.8,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.8,
+              "kommentar": "Mbappe traf frueh (Ausgleich 1:1, ca. 20-25 Min). Torschuetze jederzeit gelandet."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-14-avl-fen",
+          "liga": "UEFA Champions League - League Phase MD2",
+          "heim": "Aston Villa",
+          "gast": "Fenerbahce Istanbul",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Aston Villa Sieg oder Remis (Doppelte Chance 1X)",
+              "quote": 1.25,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.25,
+              "kommentar": "Endstand 6:0 (Villa-Heimsieg). DC 1X gelandet."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-14-bod-bvb",
+          "liga": "UEFA Champions League - League Phase MD2",
+          "heim": "FK Bodo/Glimt",
+          "gast": "Borussia Dortmund",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Borussia Dortmund Sieg oder Remis (Doppelte Chance X2)",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 1:0 (Bodo-Heimsieg). DC X2 verloren - BVB verlor."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-14-slo-vfb",
+          "liga": "UEFA Champions League - League Phase MD2",
+          "heim": "Slovan Bratislava",
+          "gast": "VfB Stuttgart",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "VfB Stuttgart Sieg oder Remis (Doppelte Chance X2)",
+              "quote": 1.22,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.22,
+              "kommentar": "Endstand 0:3 (VfB-Auswaertssieg). DC X2 gelandet."
+            },
+            {
+              "markt": "Ermedin Demirovic Torschuetze jederzeit",
+              "quote": 1.95,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.95,
+              "kommentar": "Demirovic traf 90'. Torschuetze jederzeit gelandet."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.65,
+              "kommentar": "Endstand 0:3 = 3 Tore. Ueber 2.5 gelandet (knapp)."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "?",
+          "kategorie": "safe",
+          "gesamtquote": 3.0,
+          "einsatz_prozent": 2.0,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Manchester City Sieg oder Remis (Doppelte Chance 1X)",
+              "quote": 1.3,
+              "status": "verloren",
+              "kommentar": "Endstand 2:4 (PSG-Auswaertssieg). DC 1X verloren. 2:0-Insurance greift NICHT - HZ 0:3, City fuehrte nie."
+            },
+            {
+              "markt": "Borussia Dortmund oder Remis (Doppelte Chance X2)",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.65,
+              "status": "gewonnen",
+              "kommentar": "Endstand 0:3 = 3 Tore. Ueber 2.5 gelandet (knapp)."
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "balance",
+          "gesamtquote": 9.25,
+          "einsatz_prozent": 0.8,
+          "status": "gewonnen",
+          "beine": [
+            {
+              "markt": "Erling Haaland Torschuetze jederzeit",
+              "quote": 1.55,
+              "status": "gewonnen",
+              "kommentar": "Haaland Doppelpack (2 Tore, 2.H). Torschuetze jederzeit gelandet."
+            },
+            {
+              "markt": "Kylian Mbappe Torschuetze jederzeit",
+              "quote": 1.8,
+              "status": "gewonnen",
+              "kommentar": "Mbappe traf frueh (Ausgleich 1:1, ca. 20-25 Min). Torschuetze jederzeit gelandet."
+            },
+            {
+              "markt": "Ermedin Demirovic Torschuetze jederzeit",
+              "quote": 1.95,
+              "status": "gewonnen",
+              "kommentar": "Demirovic traf 90'. Torschuetze jederzeit gelandet."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.7,
+              "status": "gewonnen",
+              "kommentar": "Endstand 3:2 = 5 Tore. Ueber 2.5 gelandet."
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "risk",
+          "gesamtquote": 25.78,
+          "einsatz_prozent": 0.25,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Serhou Guirassy Torschuetze jederzeit",
+              "quote": 2.7,
+              "status": "verloren",
+              "kommentar": "Einziges Tor Sjovold (Bodo, 52'). Guirassy kein Tor, kein Einwechslungs-Boost (nur Bodo traf)."
+            },
+            {
+              "markt": "Romelu Lukaku Torschuetze jederzeit",
+              "quote": 2.8,
+              "status": "verloren",
+              "kommentar": "Lukaku kein Tor (verletzt/Rehab laut Pre-Match-Berichten, Fener 0 Tore). Torschuetze verloren."
+            },
+            {
+              "markt": "Liverpool Handicap -1.5",
+              "quote": 1.95,
+              "status": "gewonnen",
+              "kommentar": "Endstand 3:6 (Liverpool +3). Handicap -1.5 gelandet."
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.75,
+              "status": "gewonnen",
+              "kommentar": "Endstand 3:2 (Como traf 2x). BTTS JA gelandet."
+            }
+          ]
+        },
+        {
+          "name": "?",
+          "kategorie": "moonshot",
+          "gesamtquote": 127.58,
+          "einsatz_prozent": 0.1,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Erling Haaland 2 oder mehr Tore",
+              "quote": 3.75,
+              "status": "gewonnen",
+              "kommentar": "Haaland 2 Tore (Doppelpack). Moonshot 2+ Tore gelandet."
+            },
+            {
+              "markt": "Romelu Lukaku 2 oder mehr Tore",
+              "quote": 7.0,
+              "status": "verloren",
+              "kommentar": "Lukaku kein Tor. Moonshot 2+ verloren."
+            },
+            {
+              "markt": "Kylian Mbappe Torschuetze jederzeit",
+              "quote": 1.8,
+              "status": "gewonnen",
+              "kommentar": "Mbappe traf frueh (Ausgleich 1:1, ca. 20-25 Min). Torschuetze jederzeit gelandet."
+            },
+            {
+              "markt": "Serhou Guirassy Torschuetze jederzeit",
+              "quote": 2.7,
+              "status": "verloren",
+              "kommentar": "Einziges Tor Sjovold (Bodo, 52'). Guirassy kein Tor, kein Einwechslungs-Boost (nur Bodo traf)."
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-10-13",
       "gesamt": {
