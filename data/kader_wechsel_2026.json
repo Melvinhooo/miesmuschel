@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-15",
+  "stand": "2026-10-16",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -426,6 +426,15 @@
       "ablöse_mio": null,
       "hinweis": "Nigerianischer Fluegelstuermer. Verliess Atalanta Februar 2026 Richtung Atletico Madrid, Vertrag bis 2030. NIE mehr als Atalanta-Spieler tippen; in LaLiga 2026/27 bisher 7 Spiele / 1 Tor (langsamer Start).",
       "quelle": "https://www.vavel.com/en/data/ademola-lookman/bio/"
+    },
+    {
+      "spieler": "Dusan Vlahovic",
+      "von": "Juventus Turin",
+      "nach": "Besiktas",
+      "datum": "2026-08-14",
+      "ablöse_mio": 0,
+      "hinweis": "Free transfer. 3-Jahres-Vertrag bis 2029. Verliess Juve weil Gehaltseinigung scheiterte (Chiellini-Statement 03.06.2026). Vlahovic ist 2026/27 NICHT mehr bei Juventus - Juves Sturm-Hierarchie unter Spalletti: Woltemade (Leihe Newcastle, seit 01.09.) + Kolo Muani (fix seit 02.08., Trikot-Nr 9). Anlass: am 15.10.2026 wurde Vlahovic als Juve-Torschuetze (wackel + moonshot) im Celta-Juve-Dossier getippt und verlor erwartungsgemaess - er war gar nicht im Kader. In Juve-Dossiers nur noch Woltemade/Kolo Muani als zentrale 9er listen.",
+      "quelle": "https://www.beinsports.com/en-us/soccer/sper-lig/articles/dusan-vlahovic-is-a-new-besiktas-player-2026-08-14"
     }
   ],
   "zugaenge_neue_optionen": [
@@ -728,6 +737,26 @@
       "hinweis": "Free agent nach Real-Madrid-Vertragsende. 1-Jahres-Vertrag bis Saisonende 26/27. Serie-A-Debuet am 12.10.2026 gegen Torino (2:1-Niederlage) als Innenverteidiger. Vielseitig: IV/LV/DM. Als Udinese-Freistoss-Setpiece-Spezialist moeglicher Torschuetzen-Boost.",
       "quelle": "https://www.beinsports.com/en-us/soccer/serie-a/articles/alaba-joins-udinese-as-free-agent-following-real-madrid-exit-2026-09-24",
       "stand": "2026-10-13"
+    },
+    {
+      "spieler": "Nick Woltemade",
+      "von": "Newcastle United",
+      "nach": "Juventus Turin",
+      "datum": "2026-09-01",
+      "rolle": "Zentraler 9er (Leihe)",
+      "hinweis": "Leihe fuer Saison 2026/27 (keine Kaufoption/-pflicht laut Reuters). Woltemade war unter Jaissle in Newcastle hinter Osula/Wissa und ging auf Leihe nach Turin. Startelf-Debuet in der Europa League MD2 (15.10.2026 Celta Vigo auswaerts) - traf zum 1:1 (58.). Volume-9er in Spallettis 3-4-2-1 - als Juve-Torschuetzen-Option scoutbar. Verwirrende Lage: er steht auch noch als Newcastle-Zugang von Stuttgart in der alten Liste - das war 2025/26.",
+      "quelle": "https://www.flashscore.com/news/newcastle-united-striker-nick-woltemade-set-to-join-juventus-on-season-long-loan/UFlV4VRN/",
+      "stand": "2026-10-16"
+    },
+    {
+      "spieler": "Randal Kolo Muani",
+      "von": "Paris Saint-Germain",
+      "nach": "Juventus Turin",
+      "datum": "2026-08-02",
+      "rolle": "Zentraler 9er (Fixtransfer, Trikot-Nr 9)",
+      "hinweis": "Permanent-Transfer 38 Mio Euro + 12 Mio Boni. Vertrag bis 2031. War bereits Leihspieler Jan-Jun 2025 (10 Tore in 22 Spielen), dann Tottenham-Leihe 25/26, jetzt zurueck fix. Trug am 15.10.2026 im Celta-Juve-Spiel (MD2) als Einwechsler das Siegtor zum 1:2 in der Nachspielzeit (90+2). Spallettis 2. Sturm-Option neben Woltemade. Markt-Potenzial: Torschuetze Jederzeit + Last-Minute-Scorer-Pattern.",
+      "quelle": "https://www.thestar.com.my/sport/football/2026/08/03/soccer-juventus-sign-kolo-muani-from-psg-on-five-year-deal",
+      "stand": "2026-10-16"
     }
   ],
   "trainer_2026_27": [

@@ -3374,6 +3374,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "8c Markt-Cluster + 8g Markt-Pattern - 46-Tore-Nacht in CL MD2",
       "lesson": "7 von 8 Dossier-Spielen am 14.10. ueber 2.5 Tore (nur Bodo-BVB 1:0 drunter). Ueber-2.5-Trefferquote 87.5 % an diesem Abend - Markt-Goldgrube bestaetigt sich auch in CL League-Phase MD2 trotz Rotation. Konsequente Lesson: Ueber-2.5-Tore auf CL-League-Phase bleibt aktiv zu suchen; Villa 6:0, LASK 3:6, Betis 3:2, Roma 3:4, City 2:4 - vier Spiele mit 5+ Toren. Konter: Bodo 1:0 war das eine Falle, kaltes Heim gegen Rotations-Favorit = Ausnahme. Dossier fuer naechsten Mittwoch (21.10.) weiter Ueber-2.5 als VALUE bei beidseitig offensiven Match-ups anwenden, aber auf kaltes-Heim-vs-Favorit mit Rotation = max wackel.",
       "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-10-15",
+      "kategorie": "Kader-Lehre - Vlahovic ist NICHT MEHR bei Juventus (seit 14.08.2026 Besiktas)",
+      "lesson": "Celta-Juve-Dossier tippte Vlahovic als Torschuetze (wackel 2.75) UND als Moonshot-Bein. Vlahovic steht aber seit 14.08.2026 bei Besiktas (free transfer, Chiellini-Statement) - er war am 15.10. gar nicht im Kader. Juves tatsaechliche Sturm-Hierarchie 2026/27 unter Spalletti: Nick Woltemade (Leihe Newcastle seit 01.09., Startelf 15.10. + Tor zum 1:1) + Randal Kolo Muani (fix seit 02.08. fuer 38 Mio + 12 Mio Boni, Trikot 9, Last-Minute-Siegtor 90+2 am 15.10.). kader_wechsel_2026.json wurde heute ergaenzt (Vlahovic Abgang + Woltemade/Kolo Muani Zugaenge). Lehre: 'Yildiz LANGZEIT-OUT' heisst nicht automatisch 'Vlahovic ist die Alternative' - Routinen muessen die aktuelle Sturm-Hierarchie LIVE verifizieren, nicht aus Erinnerung schliessen (Adeyemi-Klasse-Fehler wiederholt).",
+      "bezug_spiel_id": "2026-10-15-cel-juv"
+    },
+    {
+      "datum": "2026-10-15",
+      "kategorie": "8h Rotations-Pattern + Milan-Sturm-Hierarchie - Cisse Hattrick trotz Ramos-Preview",
+      "lesson": "Sal-Mil-Preview nannte Ramos (zentraler 9er) und Pulisic (links/zehner) als Startelf. Tatsaechliche Milan-Lineup: Alphadjo Cisse startete als 9er (Hattrick 15'/32'/49'), Ramos kam als Einwechsler (Tor 72'), Pulisic kam als Einwechsler (Kopfball 69' knapp vorbei, kein Tor). Cisse war in kader_wechsel_2026 bereits als 'Milan-Joker/Youngster' seit 07.09. hinterlegt - aber seine Startelf-Rolle in der EL wurde nicht erkannt. Lehre: Milan-Sturm-Rotation ist unter Allegri/Amorim-Nachfolger-Regime tief - PFLICHT bei Milan-Torschuetzen-Tipps: aktuelle kicker.de-Aufstellungs-Vorschau prufen, nie aus Serie-A-Form schliessen. Pulisic-Tipp (wackel 2.75) ist aktuell NICHT verlaesslich - Bank-Rolle macht Torschuetzen-Jederzeit zum Wackel-Spot.",
+      "bezug_spiel_id": "2026-10-15-sal-mil"
+    },
+    {
+      "datum": "2026-10-15",
+      "kategorie": "8c Markt-Cluster - Marseille EL Heim-Underperform",
+      "lesson": "Marseille 0:1 heim gegen Olympiakos (Hezze-Set-Piece-Kopfball 42'). Drei Mar-Oly-Tipps alle verloren: Marseille Sieg (2.25), BTTS (1.78), Ueber 2.5 (1.85) - trotz Kickoff-Modell 61 % BTTS + H2H-Dominanz 4-2. Pattern: OM nach schrecklichem EL-Start (1:4 Besiktas MD1) kommt heim nicht in Fahrt - Velodrome-Mentalitaet gebrochen. Lehre fuer kommende OM-Dossiers: OM in EL-Heim-Spielen nach bitteren Pleiten KEINE Markt-Goldgruben-Over-2.5 mehr als VALUE taggen - Fruhsperre bei Over-2.5-Scouting. Auch BTTS auf OM-EL-Heim nur noch wackel. Zusaetzlich: Olympiakos-Set-Pieces fuer gegnerische Clean-Sheet-Tipps als Reality-Check einsetzen.",
+      "bezug_spiel_id": "2026-10-15-mar-oly"
+    },
+    {
+      "datum": "2026-10-15",
+      "kategorie": "8c Markt-Cluster + 8g Markt-Pattern - EL/Conference MD2 Favoriten-Welle (DC X2 + 90-Min-Siege)",
+      "lesson": "Alle Favoriten-Siege/DCs des 15.10. gelandet: Leverkusen 4:0 (DC + Sieg + Over 2.5 + Schick), Milan 4:0 (DC + Sieg), Lyon 3:2 (Sieg + Over 2.5 + BTTS), Juventus 1:2 (DC + Sieg), Freiburg 3:2 (Sieg + Over 2.5). Safe-Kombi 3er (Lev+Mil+Fre, 4.31x, 20 EUR → 86.20 EUR) sauber durch - erste Kombi-Hitrate seit mehreren Wochen. Konter: nur Marseille-Spot kippte (Favorit-Krise), und Vlahovic/Pulisic/Matanovic (alle 3 Torschuetzen-WACKEL-Tipps) verloren. Lehre: EL/Conf-League-Phase-Favoriten mit klarer Qualitaets-Luecke (Big-5 vs Osteuropa/Grossgriechenland) sind weiter die ROI-staerkste Zone - DC X2 Markt-Goldgrube bestaetigt. Aber Torschuetzen-Wackel-Tipps ohne final verifizierte Startelf-Nominierung sind diese Saison Negativ-EV - konsequente Boykott-Regel bis Startelf-Status gesichert.",
+      "bezug_spiel_id": null
     }
   ]
 };

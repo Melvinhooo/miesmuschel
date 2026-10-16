@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-10-15T06:25:45+00:00",
+  "letzte_berechnung": "2026-10-16T06:28:39+00:00",
   "gesamt": {
     "tipps": 272,
     "gewonnen": 142,
@@ -2708,6 +2708,294 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-10-15",
+      "gesamt": {
+        "tipps": 12,
+        "gewonnen": 9,
+        "verloren": 3,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 12.0,
+        "netto": 2.05,
+        "trefferquote": 75.0,
+        "roi_prozent": 17.1
+      },
+      "spiele": [
+        {
+          "id": "2026-10-15-lec-lev",
+          "liga": "Europa League (League Phase MD2)",
+          "heim": "Lech Poznan",
+          "gast": "Bayer Leverkusen",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.5,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.5,
+              "kommentar": "Endstand 0:4 = 4 Tore. Ueber 2.5 Tore klar gelandet."
+            },
+            {
+              "markt": "Sieg Bayer Leverkusen (90 Min)",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.65,
+              "kommentar": "Leverkusen gewinnt klar 4:0 auswaerts. 90-Min-Sieg gelandet."
+            },
+            {
+              "markt": "Patrik Schick Torschütze jederzeit",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.85,
+              "kommentar": "Schick macht Doppelpack (29' + 41', beide Elfmeter). Torschuetze Jederzeit klar gewonnen."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-15-sal-mil",
+          "liga": "Europa League (League Phase MD2)",
+          "heim": "RB Salzburg",
+          "gast": "AC Milan",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Milan Sieg oder Remis (Doppelte Chance X2)",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": "Milan auswaerts 4:0. DC X2 Markt-Goldgrube wie geplant gelandet."
+            },
+            {
+              "markt": "Christian Pulisic Torschütze jederzeit",
+              "quote": 2.75,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Pulisic kam als Einwechsler, Kopfball-Chance 69' knapp vorbei, kein Tor. Einwechslungs-Boost greift nicht (Pulisic selbst wurde eingewechselt, nicht ausgewechselt). Scorer waren Cisse (Hattrick) + Ramos. Lehre: Pulisic ab Bank - Startelf-Status war nicht final verifiziert."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-15-lyo-cry",
+          "liga": "Europa League (League Phase MD2)",
+          "heim": "Olympique Lyon",
+          "gast": "Crystal Palace",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.6,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.6,
+              "kommentar": "5 Tore, Ueber 2.5 klar gelandet. Wincomparator-Modell 69.3% Ueber 2.5 war accurate."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-15-cel-juv",
+          "liga": "Europa League (League Phase MD2)",
+          "heim": "Celta Vigo",
+          "gast": "Juventus Turin",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Juventus Sieg oder Remis (Doppelte Chance X2)",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": "Juventus 2:1 Auswaerts-Sieg. DC X2 Markt-Goldgrube gelandet."
+            },
+            {
+              "markt": "Sieg Juventus (90 Min)",
+              "quote": 1.8,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.8,
+              "kommentar": "Juventus 90-Min-Sieg 2:1 - Kolo Muani Last-Minute-Siegtor 90+2."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-15-mar-oly",
+          "liga": "Europa League (League Phase MD2)",
+          "heim": "Olympique Marseille",
+          "gast": "Olympiacos Piräus",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg Olympique Marseille (90 Min)",
+              "quote": 2.25,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Marseille verliert 0:1 heim. Trotz Velodrome-Druck und H2H-Dominanz nicht zum Ausgleich gekommen - Olympiakos-Set-Piece (Hezze-Kopfball 42') entschied."
+            },
+            {
+              "markt": "Beide Teams treffen - Ja",
+              "quote": 1.78,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Marseille blieb torlos - BTTS verloren. Kickoff-Modell 61% BTTS war daneben."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-15-fre-jab",
+          "liga": "Conference League (League Phase MD1)",
+          "heim": "SC Freiburg",
+          "gast": "FK Jablonec",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg SC Freiburg (90 Min)",
+              "quote": 1.45,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.45,
+              "kommentar": "Freiburg 3:2 Sieg - 90-Min-Markt gelandet. Spannend zum Schluss durch Kuol 90+3, aber Sieg sicher."
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.6,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.6,
+              "kommentar": "5 Tore, Ueber 2.5 klar gelandet. Markt-Goldgrube wie geplant."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi 3er",
+          "kategorie": "safe",
+          "gesamtquote": 4.31,
+          "einsatz_prozent": 1.5,
+          "status": "gewonnen",
+          "beine": [
+            {
+              "markt": "Sieg Bayer Leverkusen (90 Min)",
+              "quote": 1.65,
+              "status": "gewonnen",
+              "kommentar": "Leverkusen gewinnt klar 4:0 auswaerts. 90-Min-Sieg gelandet."
+            },
+            {
+              "markt": "Sieg AC Milan (90 Min)",
+              "quote": 1.8,
+              "status": "gewonnen",
+              "kommentar": "Milan 90-Min-Sieg klar 4:0."
+            },
+            {
+              "markt": "Sieg SC Freiburg (90 Min)",
+              "quote": 1.45,
+              "status": "gewonnen",
+              "kommentar": "Freiburg 3:2 Sieg - 90-Min-Markt gelandet. Spannend zum Schluss durch Kuol 90+3, aber Sieg sicher."
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi 3er",
+          "kategorie": "balance",
+          "gesamtquote": 6.16,
+          "einsatz_prozent": 0.5,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Patrik Schick Torschütze jederzeit",
+              "quote": 1.85,
+              "status": "gewonnen",
+              "kommentar": "Schick macht Doppelpack (29' + 41', beide Elfmeter). Torschuetze Jederzeit klar gewonnen."
+            },
+            {
+              "markt": "Sieg Juventus (90 Min)",
+              "quote": 1.8,
+              "status": "gewonnen",
+              "kommentar": "Juventus 90-Min-Sieg 2:1 - Kolo Muani Last-Minute-Siegtor 90+2."
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.85,
+              "status": "verloren",
+              "kommentar": "Nur 1 Tor im Spiel - Ueber 2.5 klar verloren. Markt-Goldgrube Ueber 2.5 schlug hier daneben."
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi 4er",
+          "kategorie": "risk",
+          "gesamtquote": 21.94,
+          "einsatz_prozent": 0.25,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Sieg Olympique Marseille (90 Min)",
+              "quote": 2.25,
+              "status": "verloren",
+              "kommentar": "Marseille verliert 0:1 heim. Trotz Velodrome-Druck und H2H-Dominanz nicht zum Ausgleich gekommen - Olympiakos-Set-Piece (Hezze-Kopfball 42') entschied."
+            },
+            {
+              "markt": "Sieg Olympique Lyon (90 Min)",
+              "quote": 2.15,
+              "status": "gewonnen",
+              "kommentar": "Lyon 3:2 Sieg, 90-Min-Markt gelandet. Palace kam auf 2:1 und 3:2 ran, aber nicht ausgleichen."
+            },
+            {
+              "markt": "Dusan Vlahovic Torschütze jederzeit",
+              "quote": 2.75,
+              "status": "verloren",
+              "kommentar": "Vlahovic stand NICHT in der Startelf - Juves tatsaechliche Sturmoption war Woltemade (traf zum 1:1) + Kolo Muani (Last-Minute-Siegtor). Tipp hatte den falschen Sturm-Konkurrenten gewaehlt. Einwechslungs-Boost greift nicht, da Vlahovic nicht ausgewechselt werden konnte (nicht Startelf). KADER-LEHRE: Juve-Sturm 2026/27 ist Woltemade/Kolo Muani, nicht Vlahovic."
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.65,
+              "status": "gewonnen",
+              "kommentar": "5 Tore, Ueber 2.5 klar gelandet. Markt-Goldgrube wie geplant."
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi 4er (~128x)",
+          "kategorie": "moonshot",
+          "gesamtquote": 128.16,
+          "einsatz_prozent": 0.1,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "FK Jablonec 2+ Tore (Mannschaft)",
+              "quote": 6.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Christian Pulisic Doppelpack (2+ Tore)",
+              "quote": 6.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen - Ja",
+              "quote": 1.78,
+              "status": "verloren",
+              "kommentar": "Marseille blieb torlos - BTTS verloren. Kickoff-Modell 61% BTTS war daneben."
+            },
+            {
+              "markt": "Beide Teams treffen - Ja",
+              "quote": 2.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-10-14",
       "gesamt": {
