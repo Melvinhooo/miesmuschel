@@ -1,434 +1,216 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
-  "datum": "2026-10-15",
-  "erstellt_am": "2026-10-15T14:30:00+02:00",
-  "modus": "tag",
-  "_emergency_recovery": true,
-  "hinweis": "Watchdog-Recovery (14:30): Mo-Fr-Hauptroutine um 13:30 hat kein gefuelltes Dossier geliefert. Heute Donnerstag = Europa League MD2 + Conference League MD1. 6 Spiele mit Vereinen aus Big-5-Ligen im Zeitfenster. Fokus auf Leverkusen auswaerts (Schick in Form), Freiburg heim als Heavy-Fav, dazu 3 Coinflip-ish Spots (Lyon-Palace, Marseille-Olympiakos, Celta-Juve). Kasse 1000 EUR Stufe 1 aktiv (stufe_2_freigeschaltet=false): SAFE/VALUE ca. 10-20 EUR, WACKEL 5 EUR. Alle Quoten bei bet365 live pruefen - 2:0-Insurance gilt in EL/Conference League NICHT.",
-  "kasse_stand": {
-    "kasse_euro": 1000,
-    "stand": "2026-08-22",
-    "stufe": 1,
-    "modus": "Standard 1-2% pro Tipp",
-    "hinweis": "Saison-Start 2026/27, Stufe 2 noch nicht freigeschaltet - konservativ bleiben."
-  },
+  "datum": "2026-10-16",
+  "erstellt_am": "2026-10-16T14:30:00+02:00",
+  "hinweis": "Watchdog-Recovery (14:30): Mo-Fr-Hauptroutine um 13:30 hat nichts geliefert. Nach Laenderspiel-Pause geht BL + 2.BL + Ligue 1 wieder los - 3 Fussball-Spiele im Zeitfenster (Freitags-Programm). Kein Supercup, keine CL/EL-Spieltage. Kasse 1000 EUR, Stufe 1 (1-2% Einzel, Kombis gedeckelt). Fokus: Frankfurt-Koeln als einziges BL-Spiel + 1 Markt-Goldgrube (Ueber 2.5 / DC X2) in jedem Spiel.",
   "spiele": [
     {
-      "id": "2026-10-15-lec-lev",
-      "liga": "Europa League (League Phase MD2)",
-      "heim": "Lech Poznan",
-      "gast": "Bayer Leverkusen",
-      "anstoss": "2026-10-15T18:45:00+02:00",
-      "stadion": "Stadion Poznan, Poznan",
+      "id": "2026-10-16-fra-koe",
+      "liga": "Bundesliga",
+      "heim": "Eintracht Frankfurt",
+      "gast": "1. FC Koeln",
+      "anstoss": "2026-10-16T20:30:00+02:00",
+      "stadion": "Deutsche Bank Park, Frankfurt",
       "saison_kontext": {
-        "parallel_heim": "Ekstraklasa (polnischer Meister 25/26, aktuell Titelverteidigung) - keine Rotations-Pflicht naechste Tage",
-        "parallel_gast": "Bundesliga: Leverkusen in CL-Quali-Rennen (Patrik Schick fuehrender Torjaeger der Liga, 5 Tore in bisherigen Liga-Spielen); naechstes BL-Spiel So 18.10. - 3-Tages-Pause schmal, aber keine Vollrotation erwartet",
-        "saisonziel_heim": "EL-League-Phase: nach 0:4 bei Crystal Palace MD1 noch ohne Punkt, braucht Heimsieg - heim 7 von 9 Pflichtspielen 2026/27 gewonnen (sehr stark)",
-        "saisonziel_gast": "EL-League-Phase: MD1 2:0 Heimsieg vs Celje - will Top-8-Platz um Playoff zu umgehen",
-        "motivations_asymmetrie": "Lech hat offensives Zuhause-Edge und MUSS gewinnen, Leverkusen deutlich besseres Niveau aber knapper Trip + Bundesliga-Spiel am Sonntag. Edge klar bei Leverkusen, aber nicht Rout-sicher.",
-        "recovery_heim": "4 Tage seit letztem Ekstraklasa-Spiel - frisch",
-        "recovery_gast": "4 Tage seit letztem Bundesliga-Spiel (Fr/So-Rhythmus); Kofane (Backup-Sturm) Muskel-OUT",
+        "parallel_heim": "keine - Frankfurt hat 2026/27 keinen Europapokal (2025/26 Vize-Platz 6 verpasst via 2:2 Schlusstag, keine CL/EL/Conference-Phase)",
+        "parallel_gast": "keine - Aufsteiger 2026/27, kein Europapokal",
+        "saisonziel_heim": "nach 4 Spielen 5 Pkt (1S/2U/1N) + 6:0-Debakel bei Leipzig (10.10.) - CL-Quali-Hoffnung bereits deutlich entfernt, aber Fuss im Mittelfeld",
+        "saisonziel_gast": "nach 4 Spielen 4 Pkt (13.), 2:1 bei Gladbach (11.10.) als jueungster Erfolg - Klassenerhalt-Modus, interim Baumgart-System",
+        "motivations_asymmetrie": "Frankfurt mit Druck nach 6:0-Schock, aber Verletzungs-Krise im Angriff (Kalimuendo/Knauff/Theate/Kristensen OUT, Burkardt unklar). Koeln mit Rueckenwind und Rotations-Freiraum (keine europaeische Doppelbelastung). Buchmacher sehen Frankfurt knapp vorn (~1.95), aber kein Rout-Favorit. Coinflip-nah mit Edge zu Toren.",
+        "recovery_heim": "6 Tage seit 0:6 bei Leipzig; grosser Teil des Sturms OUT",
+        "recovery_gast": "5 Tage seit 2:1 vs Gladbach - frisch, keine Vollrotation",
         "quellen": [
-          "https://www.sportsmole.co.uk/football/lech-poznan/europa-league/preview/lech-poznan-vs-b-leverkusen-prediction-team-news-lineups_606844.html",
-          "https://bundesliga.com/en/bundesliga/news/lech-poznan-bayer-leverkusen-live-europa-league-blog-preview-report-maza-quansah-39520",
-          "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures/"
+          "https://www.getfootballnewsgermany.com/2026/eintracht-frankfurt-vs-1-fc-koln-team-news-and-predicted-line-ups/",
+          "https://www.sportsmole.co.uk/football/eintracht-frankfurt/preview/frankfurt-vs-fc-koln-prediction-team-news-lineups_606886.html",
+          "https://thefootballfaithful.com/eintracht-frankfurt-vs-fc-koln-prediction-betting-tips-16-10-2026/",
+          "https://www.sportytrader.com/en/betting-tips/eintracht-frankfurt-koln-379258/",
+          "https://www.getfootballnewsgermany.com/2026/eintracht-frankfurts-injury-crisis-worsens-with-rasmus-kristensen-sidelined/"
         ]
       },
       "news": [
-        "Leverkusen MD1 heim 2:0 vs Celje, Lech MD1 auswaerts 0:4 vs Crystal Palace (klarer Underdog-Trip)",
-        "Patrik Schick in Rekord-Form: trifft in jedem Liga-Spiel bisher, 5 Tore in 5 Bundesliga-Spielen (fuehrender BL-Torjaeger)",
-        "Kofane (Backup-Sturm) nach Laenderspiel-Pause Muskel-OUT - weniger Rotation moeglich",
-        "Lech 2026/27 heim stark: 7 von 9 Spielen zuhause gewonnen"
+        "Frankfurt kommt vom 0:6 bei RB Leipzig und ist in einer Verletzungs-Krise im Angriff: Kalimuendo (Schulter, lange raus), Kristensen (Knoechel-OP, moeglicher Saison-OUT), Theate (Meniskus, ~1 Monat), Knauff (Bauch-OP) - Burkardt-Comeback laut Preview unklar.",
+        "Koeln hat am letzten Spieltag 2:1 bei Gladbach gewonnen und zieht mit 4 Pkt (13.) knapp an Frankfurt vorbei, hat aber auch Ausfaelle: Huebers, Kilian, Schmied aus der Defensive; Martel gesperrt.",
+        "Keine europaeische Doppelbelastung - beide Teams bauen voll auf diese Partie.",
+        "Buchmacher-Konsens: Frankfurt-Sieg 1.91-1.99, Draw ~4.20, Koeln ~3.45 (Sportytrader). Haupttipp mehrerer Preview-Seiten: Ueber 2.5 bzw. 3.5 Tore wegen Defensiv-Krisen beider Teams.",
+        "2:0-Insurance greift (Bundesliga + direkter Sieg-Tipp)."
       ],
       "tipps": [
         {
-          "id": "lec-lev-1",
+          "id": "fra-koe-1",
           "kategorie": "safe",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.5,
-          "edge_prozent": 8.0,
-          "faire_quote": 1.39,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +27.5% / 66.7% Hitrate laut markt_goldgruben.json). Beide Seiten offensiv, Lech heim 7/9 gewonnen aber hat 0:4 kassiert bei Palace - Defense wacklig. Lev kommt mit Schick der jedes Liga-Spiel trifft. Lev ohne Kofane hat weniger Rotation vorne, Schick spielt wohl 90 Min. Bilanz Ueber 2.5 historisch unser bester Markt - mitnehmen."
-        },
-        {
-          "id": "lec-lev-2",
-          "kategorie": "value",
-          "markt": "Sieg Bayer Leverkusen (90 Min)",
-          "quote": 1.65,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.57,
-          "empfohlener_einsatz_prozent": 1.0,
-          "einsatz_euro": 10.0,
-          "begruendung": "Lev klarer Favorit bei allen Buchmachern (1.62-1.70 Range). Celje-Sieg MD1 im Ruecken, Schick fit, Form-Breite im Kader intakt. Risiko: Lech heim stark, aber Qualitaets-Gap ist deutlich. Reality-Check nach_liga EL: solide bei Favoriten-Siegen 2026/27. 2:0-Insurance gilt in EL NICHT - also 90-Min-Markt waehlen."
-        },
-        {
-          "id": "lec-lev-3",
-          "kategorie": "value",
-          "markt": "Patrik Schick Torschütze jederzeit",
-          "quote": 1.85,
-          "edge_prozent": 7.0,
-          "faire_quote": 1.73,
-          "empfohlener_einsatz_prozent": 1.0,
-          "einsatz_euro": 10.0,
-          "begruendung": "HR24 Form-Edge-Pflicht erfuellt: Schick 5 Tore in 5 Liga-Spielen = Dauer-Scorer, dazu zentraler 9er mit Backup-Stuermer-Qualitaet (Einwechslungs-Boost moeglich). Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI / 50% Hitrate). Kofane out heisst mehr Minuten fuer Schick. Verifiziert via Bundesliga-Preview + Transfermarkt - aktuell Lev-Sturmzentrum."
-        },
-        {
-          "id": "lec-lev-4",
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen - Ja",
-          "quote": 1.75,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.7,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Lech heim 7/9 gewonnen, meist mit eigenen Toren. Lev Defense in BL diese Saison nicht wasserdicht. BTTS-Markt zieht aber viel - fairen Edge nur klein. Wackel-Groesse 5 EUR passt."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-15-sal-mil",
-      "liga": "Europa League (League Phase MD2)",
-      "heim": "RB Salzburg",
-      "gast": "AC Milan",
-      "anstoss": "2026-10-15T18:45:00+02:00",
-      "stadion": "Red Bull Arena, Salzburg",
-      "saison_kontext": {
-        "parallel_heim": "Oesterreichische Bundesliga, keine europaeische Doppelbelastung dieser Woche (ausgeschieden CL-Quali vor Saison)",
-        "parallel_gast": "Serie A: Milan steht nach schwachem Start wieder im Mittelfeld, naechstes Liga-Spiel So 18.10. - knapp wie bei Lev",
-        "saisonziel_heim": "EL-Playoff/Top-8-Platz, nach 1:0 Auswaerts-Sieg bei Levski Sofia MD1 mit 3 Punkten; heim 6/6 Pflichtspielen 2026/27 gewonnen",
-        "saisonziel_gast": "Milan EL-Priority nach Serie-A-Krise 2024/25 - will CL-Rueckkehr via EL-Sieg plus Serie-A-Top-4. MD1 heim 0:2 vs Benfica = unter Druck.",
-        "motivations_asymmetrie": "Salzburg heim 6/6 lauft heiss, Milan muss nach Benfica-Pleite liefern. Edge Milan auf Papier, aber Red Bull Arena nicht einfach - deshalb keine SAFE auf Milan-Sieg direkt.",
-        "recovery_heim": "4 Tage seit letztem Ligaspiel, frisch",
-        "recovery_gast": "4 Tage seit letztem Serie-A-Spiel; Allegri-Nachfolger Amorim mit 3-4-2-1 (Ramos vorne, Pulisic/Leao-Ersatz hinter ihm)",
-        "quellen": [
-          "https://khelnow.com/football/rb-salzburg-vs-ac-milan-preview-europa-league-202610",
-          "https://www.sportsmole.co.uk/football/red-bull-salzburg/europa-league/preview/salzburg-vs-ac-milan-prediction-team-news-lineups_606816.html",
-          "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures/"
-        ]
-      },
-      "news": [
-        "Salzburg MD1 1:0 auswaerts Levski Sofia, Milan MD1 0:2 heim gegen Benfica",
-        "Salzburg heim 6 von 6 Pflichtspielen 2026/27 gewonnen",
-        "Milan voraussichtlich mit Pulisic + Goncalo Ramos im Sturm (Ramos neu von PSG seit 07/26, Startelfdebuet Torino 23.08.)",
-        "Milan ohne Leao (seit 30.08. zu Galatasaray) - Amorim-System mit Ramos als zentraler 9er",
-        "Kein 2:0-Insurance in EL - direkt-Sieg-Tipps 90 Min werten"
-      ],
-      "tipps": [
-        {
-          "id": "sal-mil-1",
-          "kategorie": "safe",
-          "markt": "Milan Sieg oder Remis (Doppelte Chance X2)",
-          "quote": 1.3,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.25,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube DC X2 (77.8% Hitrate / +9.4% ROI). Milan klarer Qualitaets-Favorit (-125 bei DraftKings = ca. 52% implizit, mit Margin raus ~55-56%). Salzburg heim stark aber Milan-Elf tiefer. DC statt direkter Sieg weil Red Bull Arena historisch schwer. 15 EUR Einsatz (1.5% Kasse)."
-        },
-        {
-          "id": "sal-mil-2",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen - Ja",
-          "quote": 1.75,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.67,
-          "empfohlener_einsatz_prozent": 1.0,
-          "einsatz_euro": 10.0,
-          "begruendung": "Salzburg trifft heim verlaesslich, Milan mit Ramos + Pulisic offensiv. BTTS-Pattern aus Milan-Spielen 25/26 historisch stabil. Beide Mannschaften brauchen Punkte nach MD1."
-        },
-        {
-          "id": "sal-mil-3",
-          "kategorie": "value",
-          "markt": "Sieg AC Milan (90 Min)",
-          "quote": 1.8,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.75,
-          "empfohlener_einsatz_prozent": 1.0,
-          "einsatz_euro": 10.0,
-          "begruendung": "Milan sollte Benfica-Pleite korrigieren. Pflicht-Markt bei Auswaerts-Favorit <2.20: Spread/Sieg + Torschuetzen. Edge klein wegen Salzburg-Heim-Serie - deshalb VALUE statt SAFE."
-        },
-        {
-          "id": "sal-mil-4",
-          "kategorie": "wackel",
-          "markt": "Christian Pulisic Torschütze jederzeit",
-          "quote": 2.75,
-          "edge_prozent": 5.0,
-          "faire_quote": 2.62,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Pulisic ist Milans Volume-Scorer unter Amorim, zentraler Links-/Zehner. Pre-match-Lineup fuehrt ihn in der Startelf (Sportsmole). HR24 teils erfuellt (Volume-Scorer + Verein frisch, Form-Edge last-10 nicht final abrufbar - deshalb wackel, nicht VALUE). Verifiziert via Milan-Transfer-Rundum + Sportsmole-XI."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-15-lyo-cry",
-      "liga": "Europa League (League Phase MD2)",
-      "heim": "Olympique Lyon",
-      "gast": "Crystal Palace",
-      "anstoss": "2026-10-15T18:45:00+02:00",
-      "stadion": "Groupama Stadium, Lyon",
-      "saison_kontext": {
-        "parallel_heim": "Ligue 1, naechstes Spiel Fr 17.10. - knapp. Lyon just 2:1 bei Lens verloren",
-        "parallel_gast": "Premier League, naechstes Spiel Sa 18.10. - knapp. Palace just 3:1 vs Forest gewonnen (gute Form)",
-        "saisonziel_heim": "EL-Top-8 Playoff vermeiden, Lyon MD1 auswaerts 2:1 bei Anderlecht gewonnen",
-        "saisonziel_gast": "EL-Debut-Saison, MD1 4:0 Heimsieg vs Lech Poznan - heiss gestartet",
-        "motivations_asymmetrie": "Beide gleichzeitig unter Druck, Lyon mit nur knappem Heim-Edge (Groupama). Palace mit Welle - zuletzt 3:1 Forest, 4:0 Lech. Coinflip-Spot - KEIN SAFE allowed per Markt-Mix-Regeln.",
-        "recovery_heim": "3 Tage seit 1:2 Lens-Niederlage; Niakhate fraglich",
-        "recovery_gast": "3 Tage seit 3:1 Sieg vs Forest; LANGE Verletztenliste (Henderson, Mateta, u.a.)",
-        "quellen": [
-          "https://www.sportsmole.co.uk/football/lyon/europa-league/preview/lyon-vs-crystal-palace-prediction-team-news-lineups_606757.html",
-          "https://footballwhispers.com/blog/lyon-vs-crystal-palace-prediction-15-10-2026/",
-          "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures/"
-        ]
-      },
-      "news": [
-        "Lyon zuletzt 2:1 bei Lens verloren, Palace 3:1 vs Forest gewonnen",
-        "Palace Injury-Problem: Henderson, Mateta out - Mateta-Fehlen trifft die Offensive hart",
-        "Palace MD1 4:0 vs Lech - gute Startphase, aber Lech ist ein anderes Kaliber als Lyon",
-        "Lyon kickoff.co.uk-Modell 46%, Wincomparator 48% Siegwahrscheinlichkeit"
-      ],
-      "tipps": [
-        {
-          "id": "lyo-cry-1",
-          "kategorie": "value",
-          "markt": "Über 2.5 Tore",
+          "markt": "Beide Teams treffen",
           "quote": 1.6,
-          "edge_prozent": 8.0,
-          "faire_quote": 1.48,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.52,
           "empfohlener_einsatz_prozent": 1.5,
           "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube Ueber 2.5 (+27.5% ROI). Wincomparator-Modell: 69.3% Ueber 2.5. Beide Mannschaften brauchen Punkte, Palace defensiv-anfaellig in Pflichtspielen 2026/27, Lyon heim offensiv. Footballwhispers tippte Ueber 3.5 - wir bleiben konservativ bei 2.5."
+          "begruendung": "Beide Defensiven aktuell lecker: Frankfurt hat gegen Leipzig 0:6 kassiert und baut ohne Theate/Kristensen um; Koeln hat am letzten Spieltag Hoeher-Niveau-Gegner 2:1 geschlagen aber selbst 1 Tor kassiert. Preview-Konsens: Ueber 3.5 top Tipp -> BTTS folgt. Markt-Goldgrube ist zwar Torschuetzen Jederzeit, aber ohne verifizierte Form-Daten pro Spieler bleibt BTTS der sauberere Weg. Reality-Check nach_markt_typ BTTS 2026/27 solide. 2% Kasse -> 20 EUR... hier bewusst 1.5% -> 15 EUR da nicht Liga-Goldgrube. Bei bet365 live pruefen."
         },
         {
-          "id": "lyo-cry-2",
-          "kategorie": "value",
-          "markt": "Sieg Olympique Lyon (90 Min)",
-          "quote": 2.15,
-          "edge_prozent": 4.0,
-          "faire_quote": 2.07,
-          "empfohlener_einsatz_prozent": 1.0,
-          "einsatz_euro": 10.0,
-          "begruendung": "Heim-Edge Groupama + Palace mit langer Verletztenliste (Mateta/Henderson). Wincomparator/kickoff 46-48% Siegwahrscheinlichkeit. Keine SAFE weil Spot Coinflip-Grenze."
-        },
-        {
-          "id": "lyo-cry-3",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen - Ja",
-          "quote": 1.7,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.65,
-          "empfohlener_einsatz_prozent": 1.0,
-          "einsatz_euro": 10.0,
-          "begruendung": "Beide offensiv, Palace trotz Mateta-Ausfall 4 Tore MD1 + 3 Tore gegen Forest. BTTS ergaenzt Ueber-2.5-Linie ohne doppeltes Sieg-Outcome."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-15-cel-juv",
-      "liga": "Europa League (League Phase MD2)",
-      "heim": "Celta Vigo",
-      "gast": "Juventus Turin",
-      "anstoss": "2026-10-15T21:00:00+02:00",
-      "stadion": "Estadio de Balaidos, Vigo",
-      "saison_kontext": {
-        "parallel_heim": "LaLiga, naechstes Spiel So 18.10. - knapp. Celta Mittelfeld der LaLiga",
-        "parallel_gast": "Serie A, naechstes Spiel So 18.10. - knapp. Juve mit Yildiz-Dauerausfall seit 30.08. (Metatarsale-OP, laut kader_wechsel_2026 bis Nov/Dez OUT)",
-        "saisonziel_heim": "EL-Top-24-Platz. Celta MD1 0:1 auswaerts bei Omonia Nicosia - 3. EL-Niederlage in Folge (laengste eigene Serie)",
-        "saisonziel_gast": "EL-Top-8 nach 5:0 Heimsieg vs NEC Nijmegen MD1 (hoechste Shot-Conversion-Rate der ganzen MD1 mit 45.5%)",
-        "motivations_asymmetrie": "Juve klarer Favorit (fast 55% implizit nach Margin), Celta mit grosser Verletzten-Liste (Starfelt, Roman, El Abdellaoui) + Durmisi gesperrt. Edge klar Juve.",
-        "recovery_heim": "4 Tage seit letztem LaLiga-Spiel; Starfelt/Roman/El Abdellaoui OUT, Durmisi gesperrt",
-        "recovery_gast": "4 Tage seit letztem Serie-A-Spiel; Yildiz LANGZEIT-OUT (bestaetigt kader_wechsel_2026), Thuram + Locatelli fraglich",
-        "quellen": [
-          "https://khelnow.com/football/celta-vigo-vs-juventus-preview-europa-league-202610",
-          "https://www.sportsmole.co.uk/football/celta-vigo/europa-league/preview/celta-vigo-vs-juventus-prediction-team-news-lineups_606821.html",
-          "https://www.juventus.com/en/news/articles/preview-celta-vigo-vs-juventus",
-          "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures/"
-        ]
-      },
-      "news": [
-        "Celta MD1 0:1 Omonia Nicosia (3. EL-Pleite in Folge, laengste je), Juve MD1 5:0 vs NEC",
-        "Celta grosse Verletzten/Sperren-Liste: Starfelt, Roman, El Abdellaoui raus, Durmisi gesperrt",
-        "Juve ohne Yildiz (Metatarsale-OP seit 30.08., Rueckkehr Nov/Dez laut kader_wechsel) - Vlahovic bleibt die Volume-9-Option, Thuram/Locatelli fraglich",
-        "Sportytrader-Pick Unter 2.5 Tore @ -128 - Celta scorelos MD1 + Juve kontrolliert fuehrend"
-      ],
-      "tipps": [
-        {
-          "id": "cel-juv-1",
-          "kategorie": "safe",
-          "markt": "Juventus Sieg oder Remis (Doppelte Chance X2)",
-          "quote": 1.3,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.24,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube DC X2 (77.8% Hit / +9.4% ROI). Celta mit Mehr-Verletzten + Form-Krise (3 EL-Pleiten), Juve mit 5:0 Energie. Risiko: Yildiz out, Thuram/Locatelli fraglich - dennoch Qualitaets-Lead. DC statt Sieg weil Celta heim nicht komplett harmlos."
-        },
-        {
-          "id": "cel-juv-2",
-          "kategorie": "value",
-          "markt": "Sieg Juventus (90 Min)",
-          "quote": 1.8,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.73,
-          "empfohlener_einsatz_prozent": 1.0,
-          "einsatz_euro": 10.0,
-          "begruendung": "DraftKings +115 ca. 44.5% nach Margin = Juve fairer Fav. Celta heimlich scorelos MD1, Verletztenliste in der Defense passt. VALUE statt SAFE weil 1.80 nicht in SAFE-Range."
-        },
-        {
-          "id": "cel-juv-3",
-          "kategorie": "wackel",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.75,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.7,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Juve kontrolliert fuehrend-Pattern, Celta scorelos MD1, Sportytrader-Pick Unter 2.5. Wackel weil es historisch Markt-Bluter sein KANN (statistik vorher check: nach_markt_typ 'Unter X.X Tore' pruefen). Kleiner Einsatz."
-        },
-        {
-          "id": "cel-juv-4",
-          "kategorie": "wackel",
-          "markt": "Dusan Vlahovic Torschütze jederzeit",
-          "quote": 2.75,
-          "edge_prozent": 5.0,
-          "faire_quote": 2.62,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Vlahovic ist Juves verbleibender zentraler 9er (Yildiz out, David zu Atletico, Kolo Muani-Transfer-Status unklar). Celta-Defense ohne Starfelt/Roman defizitaer. HR24-Form-Edge: Volume-Position bestaetigt, letzte-10-Daten nicht final verifiziert → max wackel."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-15-mar-oly",
-      "liga": "Europa League (League Phase MD2)",
-      "heim": "Olympique Marseille",
-      "gast": "Olympiacos Piräus",
-      "anstoss": "2026-10-15T21:00:00+02:00",
-      "stadion": "Stade Velodrome, Marseille",
-      "saison_kontext": {
-        "parallel_heim": "Ligue 1, naechstes Spiel Sa 18.10. - knapp. OM gerade 2:0 Troyes als Trost nach 1:4 Besiktas",
-        "parallel_gast": "Super League Griechenland - Olympiakos aktuell 3. in Griechenland mit 13 Punkten / 6 Spielen",
-        "saisonziel_heim": "EL-Top-24 - OM nach schrecklichem Start (1:4 Besiktas MD1, 32. in EL-Phase) muss liefern",
-        "saisonziel_gast": "EL-Playoff/Top-8 Hoffnung nach MD1 2:1-Sieg und 13. Platz EL-Phase mit 3 Punkten",
-        "motivations_asymmetrie": "OM MUSS zuhause liefern nach Besiktas-Blamage, Olympiakos in besserer Form mit MD1-Sieg + guter Liga-Phase. Keine SAFE moeglich (OM-Krise + Olympiakos-Qualitaet).",
-        "recovery_heim": "3 Tage seit 2:0 vs Troyes - frisch, aber mental nach 1:4 noch wackelig",
-        "recovery_gast": "4 Tage seit letztem Super-League-Spiel",
-        "quellen": [
-          "https://africasoccer.com/?p=636228",
-          "https://www.sportsmole.co.uk/football/marseille/preview/marseille-vs-olympiacos-prediction-team-news-lineups_606818.html",
-          "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures/"
-        ]
-      },
-      "news": [
-        "OM MD1 1:4 bei Besiktas, Olympiakos MD1 2:1 (3 Punkte)",
-        "OM Troyes 2:0 Trost am 12.10. - aber EL-Form Katastrophe",
-        "H2H: OM 4 Siege vs Olympiakos 2 Siege ohne Remis - OM-dominantes H2H",
-        "Kickoff-Modell: OM 45% / Draw 24% / Olympiakos 31%, BTTS Ja Modell 61%"
-      ],
-      "tipps": [
-        {
-          "id": "mar-oly-1",
-          "kategorie": "value",
-          "markt": "Sieg Olympique Marseille (90 Min)",
-          "quote": 2.25,
-          "edge_prozent": 3.0,
-          "faire_quote": 2.19,
-          "empfohlener_einsatz_prozent": 1.0,
-          "einsatz_euro": 10.0,
-          "begruendung": "Velodrome-Heimdruck + H2H-Dominanz (4-2) + OM muss nach Besiktas-Blamage reagieren. 2.25 ist VALUE-Range (1.65-2.30). KEIN SAFE weil Besiktas-Niederlage frisch im Kopf."
-        },
-        {
-          "id": "mar-oly-2",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen - Ja",
-          "quote": 1.78,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.69,
-          "empfohlener_einsatz_prozent": 1.0,
-          "einsatz_euro": 10.0,
-          "begruendung": "Kickoff-Modell 61% BTTS. OM heim offensiv, Olympiakos trifft fast immer in EL. BTTS zuletzt der verlaesslichere Markt in diesem Spot."
-        },
-        {
-          "id": "mar-oly-3",
+          "id": "fra-koe-2",
           "kategorie": "value",
           "markt": "Über 2.5 Tore",
-          "quote": 1.85,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.78,
-          "empfohlener_einsatz_prozent": 1.0,
-          "einsatz_euro": 10.0,
-          "begruendung": "Markt-Goldgrube (+27.5% ROI). Beide offensiv, OM-Besiktas lief 5 Tore MD1. Olympiakos auswaerts weniger stabil."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-15-fre-jab",
-      "liga": "Conference League (League Phase MD1)",
-      "heim": "SC Freiburg",
-      "gast": "FK Jablonec",
-      "anstoss": "2026-10-15T21:00:00+02:00",
-      "stadion": "Europa-Park Stadion, Freiburg",
-      "saison_kontext": {
-        "parallel_heim": "Bundesliga - Freiburg aktuell BL-Tabellenfuehrer unbeat 2026/27, naechstes Spiel So 18.10. - knapp",
-        "parallel_gast": "Tschechische Liga - Jablonec aktuell 5. der Liga",
-        "saisonziel_heim": "Conference-Top-8 nach EL-Finale 25/26 (0:1 Villa). Zuhause Pflicht",
-        "saisonziel_gast": "Conference-Debut 2026/27, hat Rangers in der Playoff-Runde geschlagen - Lauf vorhanden",
-        "motivations_asymmetrie": "Freiburg BL-Spitze + heimstark + Qualitaets-Vorteil = klarer Favorit. Risiko Rotation wegen BL-Doppelbelastung, Huetter rotiert aber tendenziell wenig",
-        "recovery_heim": "4 Tage seit letztem BL-Spiel; Muslija OUT",
-        "recovery_gast": "4 Tage seit letztem Czech-Liga-Spiel",
-        "quellen": [
-          "https://footballwhispers.com/blog/freiburg-vs-jablonec-prediction-preview-15-10-2026/",
-          "https://www.bundesliga.com/en/bundesliga/news/freiburg-jablonec-live-conference-league-blog-preview-report-matanovic-goto-39522",
-          "https://scores24.live/en/soccer/m-15-10-2026-freiburg-jablonec-prediction",
-          "https://www.uefa.com/uefaconferenceleague/news/02a8-2174cb200f25-b94693ddff4e-1000--2026-27-conference-league-all-the-league-phase-fixtures/"
-        ]
-      },
-      "news": [
-        "Freiburg aktuell Bundesliga-Spitzenreiter, ungeschlagen 2026/27",
-        "Jablonec 5. in Tschechien, hat Rangers im Playoff rausgekickt - nicht harmlos",
-        "Muslija OUT, Freiburg-Kern komplett verfuegbar laut Preview",
-        "bet365 Markt Freiburg trifft zuerst ist Dauer-Angebot: Freiburg hat in 6/8 Pflichtspielen 2026/27 das erste Tor erzielt"
-      ],
-      "tipps": [
-        {
-          "id": "fre-jab-1",
-          "kategorie": "safe",
-          "markt": "Sieg SC Freiburg (90 Min)",
-          "quote": 1.45,
+          "quote": 1.72,
           "edge_prozent": 6.0,
-          "faire_quote": 1.37,
+          "faire_quote": 1.62,
           "empfohlener_einsatz_prozent": 1.5,
           "einsatz_euro": 15.0,
-          "begruendung": "SAFE-Range (1.30-1.65). Freiburg BL-Spitze + heim + Qualitaets-Gap. Markt-Goldgrube indirekt: Doppelte Chance 1X 84.6% Hit historisch - direkter Sieg bei heavy-Fav knapp darueber. 2:0-Insurance gilt in Conference League NICHT, deshalb 90-Min-Wertung."
+          "begruendung": "Markt-Goldgrube (ROI +54%, Hitrate 54.2% laut markt_goldgruben.json). Zwei defensiv angeschlagene Teams, beide ohne europaeische Belastung = hohe Intensitaet, keine Verwaltung. Frankfurt 2.3 Tore/Spiel Attack-Rate (Football Faithful), Koeln 1.5 - zusammen ~3.8 erwartet. Sportytrader empfiehlt sogar Ueber 3.5 - wir bleiben konservativ auf Ueber 2.5. 1.5% Kasse = 15 EUR."
         },
         {
-          "id": "fre-jab-2",
-          "kategorie": "safe",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.6,
-          "edge_prozent": 7.0,
-          "faire_quote": 1.5,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube (+27.5% ROI / 66.7% Hitrate). Freiburg offensiv, Jablonec in Czechien 5. - keine Zu-Null-Mauer. Doppelter SAFE legitim weil Markt-Goldgrube bestaetigt."
+          "id": "fra-koe-3",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Eintracht Frankfurt oder Remis",
+          "quote": 1.4,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.33,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 10.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance (ROI +40%, Hitrate 57.9%). Frankfurt-Heim gegen Koeln strukturell Favorit trotz Verletzungs-Chaos, Buchmacher-Linie bei 1X@~1.40. 2:0-Insurance zusaetzlich im Hintergrund (greift bei direktem Sieg-Tipp, hier nicht - aber Frankfurt kommt bei Rueckstand oft zurueck zuhause). Vorsicht: Koeln-Sieg nicht ausgeschlossen (3.45 bedeutet immer noch ~29% Wahrscheinlichkeit). 1% Kasse = 10 EUR."
         },
         {
-          "id": "fre-jab-3",
+          "id": "fra-koe-4",
           "kategorie": "wackel",
-          "markt": "Igor Matanovic Torschütze jederzeit",
-          "quote": 2.25,
+          "markt": "Sieg Eintracht Frankfurt (90 Min)",
+          "quote": 1.95,
           "edge_prozent": 3.0,
-          "faire_quote": 2.18,
+          "faire_quote": 1.89,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 5.0,
-          "begruendung": "Matanovic ist laut Bundesliga-Preview-Blog aktueller Freiburg-9er. HR24 nicht komplett erfuellt (letzte-10-Form nicht final verifiziert, kein Backup-Druck erkennbar) - deshalb max wackel. Kleiner 5-EUR-Einsatz. Verifikator soll gegen Squad live aufstellungs-Vorschau pruefen (fehlt im watchdog-Lauf)."
+          "begruendung": "Direkter Sieg-Tipp mit 2:0-Insurance (Bundesliga + Sieg-Markt = greift). Edge aber knapp wegen Verletzungs-Krise - Frankfurt kann auch den Punch nicht landen und das 6:0 zieht psychologisch nach. Wackel ist die ehrliche Kategorie. 0.5% Kasse = 5 EUR Wackel-Einsatz."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-16-cot-nur",
+      "liga": "2. Bundesliga",
+      "heim": "Energie Cottbus",
+      "gast": "1. FC Nuernberg",
+      "anstoss": "2026-10-16T18:30:00+02:00",
+      "stadion": "LEAG Energie Stadion, Cottbus",
+      "saison_kontext": {
+        "parallel_heim": "keine - Aufsteiger aus der 3. Liga, kein Pokal mehr",
+        "parallel_gast": "keine - 2. Bundesliga Mittelfeld, kein Pokal mehr nach moeglichem Pokal-Aus (hier nicht verifiziert)",
+        "saisonziel_heim": "Klassenerhalt-Modus - Aufsteiger ohne Vorsaison-Edge in dieser Liga",
+        "saisonziel_gast": "Aufstieg-Hoffnung bei starkem Saison-Start (3 Siege aus den ersten 3 Spielen laut Early-Snapshot), aktuelle Form unklar nach Laenderspielpause",
+        "motivations_asymmetrie": "Nuernberg strukturell und tabellarisch deutlich hoeher einzuordnen (Fruhfavorit auf Aufstiegs-Zone), Cottbus hat Heim-Vorteil + Underdog-Energie. Buchmacher-Linie: Nuernberg-Sieg @ 2.00, DC X2 @ 1.33 - der Gast ist leichter Favorit, aber nicht Rout.",
+        "recovery_heim": "nach Laenderspiel-Pause - 2 Wochen Vorbereitungs-Zeit, keine Vollrotation noetig",
+        "recovery_gast": "nach Laenderspiel-Pause - frisch; 2. BL-Spieler bringen keine Nationalmannschafts-Reisen mit",
+        "quellen": [
+          "https://www.t-online.de/sport/live-ticker/fussball/2-bundesliga/sdc_fm-59655/cottbus-nuernberg-2-bundesliga-im-liveticker.html",
+          "https://footballpredictions.ai/football-predictions/energie-cottbus-vs-1.-fc-nürnberg-predictions-tips-16-oct-2026/",
+          "https://www.wincomparator.com/de/tipps/energie-cottbus-fc-nurnberg-8596281/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_2._Bundesliga"
+        ]
+      },
+      "news": [
+        "Erstes Pflichtspiel-Duell dieser Saison; Cottbus 2026/27 wieder in Liga 2 nach Aufstieg aus der 3. Liga.",
+        "Nuernberg startete stark (3 Siege in Folge laut Early-Snapshot) - aktuelle Form nach der Laenderspielpause nicht vollstaendig verifizierbar, Aufstiegsgeruecht in der Presse.",
+        "Wincomparator sieht Nuernberg-Sieg mit 53.7%, BTTS Ja mit 83%, Ueber 2.5 mit 70% - konvergent zu footballpredictions.ai (BTTS @ 1.36, Ueber 2.5 @ 1.33, X2 @ 1.33).",
+        "2:0-Insurance greift in der 2. Bundesliga NICHT (nur 1. BL + CL)."
+      ],
+      "tipps": [
+        {
+          "id": "cot-nur-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Nuernberg oder Remis",
+          "quote": 1.33,
+          "edge_prozent": 8.0,
+          "faire_quote": 1.23,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Markt-Goldgrube DC X2 (ROI +54.8%, Hitrate 66.7% - stabilste Markt-Edge im Tool). Nuernberg strukturell und tabellarisch besser, selbst eine Niederlage ist nur mit ~27% Wahrscheinlichkeit auf dem Board. Reality-Check nach_markt_typ: DC X2 unser bester Markt 2026/27. 2% Kasse = 20 EUR. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
+          "_markt_mix_dc_downgrade": true
+        },
+        {
+          "id": "cot-nur-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.5,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.4,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Preview-Konsens BTTS Ja @ 1.36-1.50 je nach Buchmacher; Wincomparator sieht 83% Wahrscheinlichkeit. 2. Bundesliga hat generell hohe BTTS-Hitrate, zwei offensiv angelegte Teams. 1.5% Kasse = 15 EUR."
+        },
+        {
+          "id": "cot-nur-3",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.73,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.63,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 10.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5. Beide Teams in der 2. BL offensiv angelegt, Preview-Prognose 70% Wahrscheinlichkeit. 1% Kasse = 10 EUR."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-16-lem-tou",
+      "liga": "Ligue 1",
+      "heim": "Le Mans FC",
+      "gast": "Toulouse FC",
+      "anstoss": "2026-10-16T20:45:00+02:00",
+      "stadion": "MMArena / Stade Marie-Marvingt, Le Mans",
+      "saison_kontext": {
+        "parallel_heim": "keine - Aufsteiger in Ligue 1, kein Europapokal",
+        "parallel_gast": "keine - Toulouse 2026/27 nicht in europaeischer Konkurrenz",
+        "saisonziel_heim": "Klassenerhalt - 14. Platz mit 6 Pkt nach 6 Spielen (laut Sportsmole-Preview Ligue 1 GW7 PReview)",
+        "saisonziel_gast": "Oberes Mittelfeld - 15. Platz mit 5 Pkt (laut futboltotal), neuer Trainer Jens Berthel Askou seit Sommer 2026",
+        "motivations_asymmetrie": "Erstes Ligue-1-Duell seit mehr als 16 Jahren - zwei Teams aus der unteren Haelfte, keine klare Qualitaets-Trennung. Le Mans mit Heimvorteil aber vielen Ausfaellen (laut Preview mehrere Angreifer angeschlagen), Toulouse frisch nach 2:2 Monaco mit neuem Trainer-Setup. Buchmacher-Konsens: enges Spiel, kein klarer Favorit.",
+        "recovery_heim": "6 Tage seit 1:3-Niederlage bei PSG - Le Mans physisch gefordert",
+        "recovery_gast": "6 Tage seit 2:2 bei Monaco - frisch",
+        "quellen": [
+          "https://www.sportsmole.co.uk/football/le-mans/preview/le-mans-vs-toulouse-prediction-team-news-lineups_606855.html",
+          "https://futboltotal.futbol/partido/le-mans-vs-toulouse-ligue-1-2026-10-16",
+          "https://dicodusport.fr/blog/mercato-toulouse-2026-2027-le-tableau-complet-des-transferts-arrivees-et-departs/",
+          "https://www.livefoot.fr/joueur/jean-vercruysse/actualite/",
+          "https://fc.gradientsports.com/rankings/player/3533075/news"
+        ]
+      },
+      "news": [
+        "Erstes Pflichtspiel-Duell zwischen Le Mans und Toulouse seit ueber 16 Jahren (Sportsmole-Preview).",
+        "Le Mans mit Ausfallliste nach PSG-Spiel: Sidibe (gesperrt), Bourabaa (verletzt), Buades und Colas fraglich - Preview nennt das Team deutlich dezimiert.",
+        "Toulouse unter neuem Trainer Jens Berthel Askou (seit Sommer 2026); frisches 2:2 bei Monaco.",
+        "Tabellennachbarn (14./15.) ohne klaren Favoriten - Coinflip laut Buchmachern.",
+        "2:0-Insurance greift NICHT (Ligue 1 nicht in bet365-DE-Aktion)."
+      ],
+      "tipps": [
+        {
+          "id": "lem-tou-1",
+          "kategorie": "wackel",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.4,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.36,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Zwei untere-Haelfte-Teams der Ligue 1, kein offensiver Rout erwartbar. Historisch sind Begegnungen in dieser Tabellenregion torarm bis moderat. Als Wackel-Sicherung in der Hoffnung auf max. 3 Tore. 0.5% Kasse = 5 EUR."
+        },
+        {
+          "id": "lem-tou-2",
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance Le Mans oder Remis",
+          "quote": 1.55,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.52,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Heimvorteil + Tabellennachbar reicht fuer DC-Edge, aber mit kaputtem Kader kein SAFE. Coinflip-Zone. 0.5% Kasse = 5 EUR Spass-Einsatz."
+        },
+        {
+          "id": "lem-tou-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.72,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Zwei offensiv maessige Teams - BTTS ist in der Ligue 1 unter Mittelfeld oft Wackel, Preview-Daten geben keine starke Edge. 0.5% Kasse = 5 EUR."
         }
       ],
       "kontext_check_status": "OK"
@@ -436,355 +218,304 @@ window.__MIESMUSCHEL_TIPPS = {
   ],
   "einzeltipps": [
     {
-      "spiel_id": "2026-10-15-fre-jab",
-      "spiel_label": "SC Freiburg - FK Jablonec",
+      "id": "cot-nur-1",
+      "spiel_id": "2026-10-16-cot-nur",
+      "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
       "kategorie": "safe",
-      "markt": "Sieg SC Freiburg (90 Min)",
-      "quote": 1.45,
-      "einsatz_euro": 15.0,
-      "kurz": "BL-Spitzenreiter heim gegen Czech-Mittelfeld - Qualitaets-Edge",
-      "empfohlener_einsatz_prozent": 1.5,
+      "markt": "Doppelte Chance Nuernberg oder Remis",
+      "quote": 1.33,
+      "edge_prozent": 8.0,
+      "faire_quote": 1.23,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Markt-Goldgrube DC X2 (ROI +54.8%, Hitrate 66.7% - stabilste Markt-Edge im Tool). Nuernberg strukturell und tabellarisch deutlich hoeher, Cottbus Aufsteiger ohne klare Edge-Signale. 2% Kasse = 20 EUR.",
       "rang": 1
     },
     {
-      "spiel_id": "2026-10-15-fre-jab",
-      "spiel_label": "SC Freiburg - FK Jablonec",
+      "id": "fra-koe-1",
+      "spiel_id": "2026-10-16-fra-koe",
+      "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
       "kategorie": "safe",
-      "markt": "Über 2.5 Tore",
+      "markt": "Beide Teams treffen",
       "quote": 1.6,
-      "einsatz_euro": 15.0,
-      "kurz": "Markt-Goldgrube - Freiburg offensiv, Jablonec keine Mauer",
+      "edge_prozent": 5.0,
+      "faire_quote": 1.52,
       "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Beide Teams defensiv-angeschlagen (Frankfurt 0:6 vs Leipzig, Koeln mit 3 Defense-Ausfaellen) + beide ohne europaeische Doppelbelastung. BTTS-Konsens aus Preview-Seiten. 1.5% Kasse = 15 EUR.",
       "rang": 2
     },
     {
-      "spiel_id": "2026-10-15-lec-lev",
-      "spiel_label": "Lech Poznan - Bayer Leverkusen",
-      "kategorie": "safe",
+      "id": "fra-koe-2",
+      "spiel_id": "2026-10-16-fra-koe",
+      "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
+      "kategorie": "value",
       "markt": "Über 2.5 Tore",
-      "quote": 1.5,
-      "einsatz_euro": 15.0,
-      "kurz": "Beide offensiv - Schick-Dauerscorer + Lech-Palace-0:4-Defense",
+      "quote": 1.72,
+      "edge_prozent": 6.0,
+      "faire_quote": 1.62,
       "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +54%). Frankfurt 2.3 Tore/Spiel offensiv-Rate, Koeln 1.5 - erwartete Toranzahl 3.5+. Preview empfiehlt Ueber 3.5 - wir bleiben auf Ueber 2.5 konservativ. 1.5% Kasse = 15 EUR.",
       "rang": 3
     },
     {
-      "spiel_id": "2026-10-15-sal-mil",
-      "spiel_label": "RB Salzburg - AC Milan",
-      "kategorie": "safe",
-      "markt": "Milan Sieg oder Remis (Doppelte Chance X2)",
-      "quote": 1.3,
-      "einsatz_euro": 15.0,
-      "kurz": "Markt-Goldgrube DC X2 - Milan Qualitaets-Fav gegen heimstarkes Salzburg",
+      "id": "cot-nur-2",
+      "spiel_id": "2026-10-16-cot-nur",
+      "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.5,
+      "edge_prozent": 7.0,
+      "faire_quote": 1.4,
       "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Wincomparator sieht 83% BTTS-Wahrscheinlichkeit, Preview-Konsens @ 1.36-1.50. 1.5% Kasse = 15 EUR.",
       "rang": 4
     },
     {
-      "spiel_id": "2026-10-15-cel-juv",
-      "spiel_label": "Celta Vigo - Juventus",
-      "kategorie": "safe",
-      "markt": "Juventus Sieg oder Remis (Doppelte Chance X2)",
-      "quote": 1.3,
-      "einsatz_euro": 15.0,
-      "kurz": "Markt-Goldgrube DC X2 - Juve 5:0 Momentum, Celta mit Verletzten-Welle",
-      "empfohlener_einsatz_prozent": 1.5,
+      "id": "fra-koe-3",
+      "spiel_id": "2026-10-16-fra-koe",
+      "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Eintracht Frankfurt oder Remis",
+      "quote": 1.4,
+      "edge_prozent": 4.0,
+      "faire_quote": 1.33,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 10.0,
+      "begruendung": "Markt-Goldgrube Doppelte Chance (ROI +40%). Frankfurt-Heim strukturell Favorit trotz Verletzungs-Chaos, Koeln-Sieg nur ~29% Buchmacher-Linie. 1% Kasse = 10 EUR.",
       "rang": 5
     },
     {
-      "spiel_id": "2026-10-15-lec-lev",
-      "spiel_label": "Lech Poznan - Bayer Leverkusen",
+      "id": "cot-nur-3",
+      "spiel_id": "2026-10-16-cot-nur",
+      "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
       "kategorie": "value",
-      "markt": "Sieg Bayer Leverkusen (90 Min)",
-      "quote": 1.65,
-      "einsatz_euro": 10.0,
-      "kurz": "Lev klarer Favorit, Schick fit, Kofane-Ausfall ohne Breiten-Verlust",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.73,
+      "edge_prozent": 6.0,
+      "faire_quote": 1.63,
       "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 10.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +54%). Beide Teams offensiv-angelegt, Preview 70% Wahrscheinlichkeit. 1% Kasse = 10 EUR.",
       "rang": 6
     },
     {
-      "spiel_id": "2026-10-15-lec-lev",
-      "spiel_label": "Lech Poznan - Bayer Leverkusen",
-      "kategorie": "value",
-      "markt": "Patrik Schick Torschütze jederzeit",
-      "quote": 1.85,
-      "einsatz_euro": 10.0,
-      "kurz": "HR24 erfuellt: 5 BL-Tore in 5 Spielen, zentraler 9er, Kofane-OUT",
-      "empfohlener_einsatz_prozent": 1.0,
+      "id": "fra-koe-4",
+      "spiel_id": "2026-10-16-fra-koe",
+      "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
+      "kategorie": "wackel",
+      "markt": "Sieg Eintracht Frankfurt (90 Min)",
+      "quote": 1.95,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.89,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Direkter Sieg-Tipp mit 2:0-Insurance (Bundesliga + Sieg = greift). Edge knapp wegen Verletzungs-Krise, deshalb Wackel ehrlich. 0.5% Kasse = 5 EUR.",
       "rang": 7
     },
     {
-      "spiel_id": "2026-10-15-lyo-cry",
-      "spiel_label": "Olympique Lyon - Crystal Palace",
-      "kategorie": "value",
-      "markt": "Über 2.5 Tore",
-      "quote": 1.6,
-      "einsatz_euro": 15.0,
-      "kurz": "Wincomparator-Modell 69.3% Ueber 2.5 + Markt-Goldgrube",
-      "empfohlener_einsatz_prozent": 1.0,
+      "id": "lem-tou-1",
+      "spiel_id": "2026-10-16-lem-tou",
+      "spiel_label": "Le Mans - Toulouse",
+      "kategorie": "wackel",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.4,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.36,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Zwei untere-Haelfte-Teams der Ligue 1, torarm wahrscheinlich. 0.5% Kasse = 5 EUR Wackel.",
       "rang": 8
     },
     {
-      "spiel_id": "2026-10-15-mar-oly",
-      "spiel_label": "Olympique Marseille - Olympiakos",
-      "kategorie": "value",
-      "markt": "Beide Teams treffen - Ja",
-      "quote": 1.78,
-      "einsatz_euro": 10.0,
-      "kurz": "Kickoff-Modell 61% BTTS - beide offensiv, OM-Besiktas-Pattern",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 9
-    },
-    {
-      "spiel_id": "2026-10-15-cel-juv",
-      "spiel_label": "Celta Vigo - Juventus",
-      "kategorie": "value",
-      "markt": "Sieg Juventus (90 Min)",
-      "quote": 1.8,
-      "einsatz_euro": 10.0,
-      "kurz": "Juve nach 5:0 Momentum, Celta heim fuer EL schwach + Verletzte",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 10
-    },
-    {
-      "spiel_id": "2026-10-15-mar-oly",
-      "spiel_label": "Olympique Marseille - Olympiakos",
-      "kategorie": "value",
-      "markt": "Sieg Olympique Marseille (90 Min)",
-      "quote": 2.25,
-      "einsatz_euro": 10.0,
-      "kurz": "Velodrome + H2H-Dominanz 4-2 - OM muss reagieren",
-      "empfohlener_einsatz_prozent": 1.0,
-      "rang": 11
-    },
-    {
-      "spiel_id": "2026-10-15-sal-mil",
-      "spiel_label": "RB Salzburg - AC Milan",
+      "id": "lem-tou-2",
+      "spiel_id": "2026-10-16-lem-tou",
+      "spiel_label": "Le Mans - Toulouse",
       "kategorie": "wackel",
-      "markt": "Christian Pulisic Torschütze jederzeit",
-      "quote": 2.75,
-      "einsatz_euro": 5.0,
-      "kurz": "Pulisic Volume-Scorer Milan, Sportsmole-XI zeigt Startelf",
+      "markt": "Doppelte Chance Le Mans oder Remis",
+      "quote": 1.55,
+      "edge_prozent": 2.0,
+      "faire_quote": 1.52,
       "empfohlener_einsatz_prozent": 0.5,
-      "rang": 12
+      "einsatz_euro": 5.0,
+      "begruendung": "Heimvorteil + Tabellennachbar - Coinflip-nah mit dezimiertem Le-Mans-Kader. 0.5% Kasse = 5 EUR.",
+      "rang": 9
     }
   ],
   "kombis": [
     {
       "name": "Safe-Kombi 3er",
       "kategorie": "safe",
-      "profil": "Favoriten-Siege / DC in 3 verschiedenen Spielen",
+      "profil": "3 BTTS/DC-Beine aus 3 Spielen - alles Markt-Goldgruben",
       "beine": [
         {
-          "spiel_id": "2026-10-15-lec-lev",
-          "spiel_label": "Lech Poznan - Bayer Leverkusen",
-          "markt": "Sieg Bayer Leverkusen (90 Min)",
-          "quote": 1.65,
+          "spiel_id": "2026-10-16-fra-koe",
+          "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
+          "markt": "Beide Teams treffen",
+          "quote": 1.6,
           "kategorie": "safe"
         },
         {
-          "spiel_id": "2026-10-15-sal-mil",
-          "spiel_label": "RB Salzburg - AC Milan",
-          "markt": "Sieg AC Milan (90 Min)",
-          "quote": 1.8,
+          "spiel_id": "2026-10-16-cot-nur",
+          "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
+          "markt": "Nuernberg oder Remis (Doppelte Chance)",
+          "quote": 1.33,
           "kategorie": "safe"
         },
         {
-          "spiel_id": "2026-10-15-fre-jab",
-          "spiel_label": "SC Freiburg - FK Jablonec",
-          "markt": "Sieg SC Freiburg (90 Min)",
-          "quote": 1.45,
-          "kategorie": "safe"
+          "spiel_id": "2026-10-16-lem-tou",
+          "spiel_label": "Le Mans - Toulouse",
+          "markt": "Le Mans oder Remis (Doppelte Chance)",
+          "quote": 1.55,
+          "kategorie": "wackel"
         }
       ],
-      "gesamtquote": 4.31,
-      "gesamtquote_rechnung": "1.65 x 1.80 x 1.45 = 4.31",
+      "gesamtquote": 3.3,
+      "gesamtquote_rechnung": "1.60 x 1.33 x 1.55 = 3.30",
       "einsatz_euro": 20.0,
-      "potenzieller_gewinn_euro": 86.2,
-      "begruendung": "3 Favoriten-Siege in verschiedenen Spielen (3-5x Zielrange). Alle 3 waren bei Buchmachern klarer Fav, keine Doppelbelastung-Krise - solide Kombi. 20 EUR Einsatz (2% Kasse).",
-      "empfohlener_einsatz_prozent": 1.5
+      "potenzieller_gewinn_euro": 66.0,
+      "begruendung": "Kombi aus 2 Markt-Goldgruben (DC X2 Nuernberg, DC 1X Le Mans) + BTTS in Frankfurt-Koeln. 3 verschiedene Spiele, 3 verschiedene Markttypen = Layer-1/2/3 sauber. Stufe-1-Kombi-Einsatz 2% = 20 EUR.",
+      "empfohlener_einsatz_prozent": 2.0
     },
     {
       "name": "Balance-Kombi 3er",
       "kategorie": "balance",
-      "profil": "Torschuetze + Sieg + Tor-Total aus 3 verschiedenen Spielen",
+      "profil": "Sieg Frankfurt + Über 2.5 Cottbus + BTTS Le Mans - knapp unter 6x",
       "beine": [
         {
-          "spiel_id": "2026-10-15-lec-lev",
-          "spiel_label": "Lech Poznan - Bayer Leverkusen",
-          "markt": "Patrik Schick Torschütze jederzeit",
-          "quote": 1.85,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-10-15-cel-juv",
-          "spiel_label": "Celta Vigo - Juventus",
-          "markt": "Sieg Juventus (90 Min)",
-          "quote": 1.8,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-10-15-mar-oly",
-          "spiel_label": "Olympique Marseille - Olympiakos",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.85,
-          "kategorie": "value"
-        }
-      ],
-      "gesamtquote": 6.16,
-      "gesamtquote_rechnung": "1.85 x 1.80 x 1.85 = 6.16",
-      "einsatz_euro": 8.0,
-      "potenzieller_gewinn_euro": 49.28,
-      "begruendung": "Markt-Mix: Torschuetze (HR24 bei Schick erfuellt) + Sieg (Juve) + Ueber 2.5 Tore (Markt-Goldgrube). Layer-2 sauber - nur 1 Sieg-Outcome (Juve). 8 EUR Einsatz (0.8% Kasse).",
-      "empfohlener_einsatz_prozent": 0.5
-    },
-    {
-      "name": "Risiko-Kombi 4er",
-      "kategorie": "risk",
-      "profil": "Siege + Torschuetze + Tor-Total in 4 Spielen",
-      "beine": [
-        {
-          "spiel_id": "2026-10-15-mar-oly",
-          "spiel_label": "Olympique Marseille - Olympiakos",
-          "markt": "Sieg Olympique Marseille (90 Min)",
-          "quote": 2.25,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-10-15-lyo-cry",
-          "spiel_label": "Olympique Lyon - Crystal Palace",
-          "markt": "Sieg Olympique Lyon (90 Min)",
-          "quote": 2.15,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-10-15-cel-juv",
-          "spiel_label": "Celta Vigo - Juventus",
-          "markt": "Dusan Vlahovic Torschütze jederzeit",
-          "quote": 2.75,
+          "spiel_id": "2026-10-16-fra-koe",
+          "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
+          "markt": "Sieg Eintracht Frankfurt (90 Min)",
+          "quote": 1.95,
           "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-10-15-fre-jab",
-          "spiel_label": "SC Freiburg - FK Jablonec",
+          "spiel_id": "2026-10-16-cot-nur",
+          "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
           "markt": "Über 2.5 Tore",
-          "quote": 1.65,
+          "quote": 1.73,
           "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-16-lem-tou",
+          "spiel_label": "Le Mans - Toulouse",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "kategorie": "wackel"
         }
       ],
-      "gesamtquote": 21.94,
-      "gesamtquote_rechnung": "2.25 x 2.15 x 2.75 x 1.65 = 21.94",
+      "gesamtquote": 5.9,
+      "gesamtquote_rechnung": "1.95 x 1.73 x 1.75 = 5.90",
+      "einsatz_euro": 8.0,
+      "potenzieller_gewinn_euro": 47.2,
+      "begruendung": "Ehrlich: landet mit 5.90x knapp unter der 6-10x Balance-Zielrange - bei nur 3 Spielen im Fenster und defensiven Quoten laesst sich die Zielquote nicht ohne Risiko-Dehnung erreichen. 2:0-Insurance greift auf Fra-Sieg. 0.8% Kasse = 8 EUR Kombi-Einsatz.",
+      "empfohlener_einsatz_prozent": 0.8
+    },
+    {
+      "name": "Risk-Kombi 3er",
+      "kategorie": "risk",
+      "profil": "Draw Frankfurt + BTTS Cottbus + Unter 3.5 Le Mans - Risk-light (~9x)",
+      "beine": [
+        {
+          "spiel_id": "2026-10-16-fra-koe",
+          "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
+          "markt": "Remis Frankfurt - Koeln",
+          "quote": 4.2,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-10-16-cot-nur",
+          "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
+          "markt": "Beide Teams treffen",
+          "quote": 1.5,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-16-lem-tou",
+          "spiel_label": "Le Mans - Toulouse",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.4,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 8.82,
+      "gesamtquote_rechnung": "4.20 x 1.50 x 1.40 = 8.82",
       "einsatz_euro": 2.5,
-      "potenzieller_gewinn_euro": 54.85,
-      "begruendung": "Risiko-Range (15-30x). 2 Sieg-Outcomes aus unterschiedlichen Spielen (Mar, Lyon), beide moderate Fav. Vlahovic WACKEL (Form-Verifikation offen). 2.50 EUR Einsatz (0.25% Kasse).",
+      "potenzieller_gewinn_euro": 22.05,
+      "begruendung": "Ehrlich: landet mit 8.82x unterhalb der 15-30x Risk-Zielrange - mit nur 3 Spielen und ohne verifizierte Spielertor-Edges (keine Form-URL im Squad = Degradierungs-Risiko) kein echter Risk erreichbar. Draw in Fra-Koe als Hoch-Quoten-Anker (Verletzungs-Krise beider Teams). 0.25% Kasse = 2.50 EUR.",
       "empfohlener_einsatz_prozent": 0.25
     },
     {
-      "name": "Moonshot-Kombi 4er (~128x)",
+      "name": "Moonshot-Kombi 3er",
       "kategorie": "moonshot",
-      "profil": "Underdog + 2+-Tore-Spezial + BTTS - Lottery-Charakter",
+      "profil": "Über 3.5 Frankfurt + Doppel-Draw Cottbus + Le Mans - Spass-Lotterie (~29x, NICHT 100x)",
       "beine": [
         {
-          "spiel_id": "2026-10-15-fre-jab",
-          "spiel_label": "SC Freiburg - FK Jablonec",
-          "markt": "FK Jablonec 2+ Tore (Mannschaft)",
-          "quote": 6.0,
-          "kategorie": "moonshot"
-        },
-        {
-          "spiel_id": "2026-10-15-sal-mil",
-          "spiel_label": "RB Salzburg - AC Milan",
-          "markt": "Christian Pulisic Doppelpack (2+ Tore)",
-          "quote": 6.0,
-          "kategorie": "moonshot"
-        },
-        {
-          "spiel_id": "2026-10-15-mar-oly",
-          "spiel_label": "Olympique Marseille - Olympiakos",
-          "markt": "Beide Teams treffen - Ja",
-          "quote": 1.78,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-10-15-cel-juv",
-          "spiel_label": "Celta Vigo - Juventus",
-          "markt": "Beide Teams treffen - Ja",
-          "quote": 2.0,
+          "spiel_id": "2026-10-16-fra-koe",
+          "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
+          "markt": "Über 3.5 Tore",
+          "quote": 2.3,
           "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-10-16-cot-nur",
+          "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
+          "markt": "Remis Cottbus - Nuernberg",
+          "quote": 3.8,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-10-16-lem-tou",
+          "spiel_label": "Le Mans - Toulouse",
+          "markt": "Remis Le Mans - Toulouse",
+          "quote": 3.3,
+          "kategorie": "risk"
         }
       ],
-      "gesamtquote": 128.16,
-      "gesamtquote_rechnung": "6.00 x 6.00 x 1.78 x 2.00 = 128.16",
+      "gesamtquote": 28.84,
+      "gesamtquote_rechnung": "2.30 x 3.80 x 3.30 = 28.84",
       "einsatz_euro": 1.0,
-      "potenzieller_gewinn_euro": 128.16,
-      "begruendung": "Spass-Einsatz 1 EUR fuer ca. 128 EUR Return. Jablonec gegen Freiburg zweimal zu treffen ist der Lottery-Teil, Pulisic-Doppelpack ebenfalls. BTTS-Beine stabilisieren die Rechnung. 100x-Marke geknackt - ehrliches Moonshot ohne Doppelpack-Korrelation (Pulisic nicht nochmal als normaler Torschuetzen-Tipp in dieser Kombi).",
+      "potenzieller_gewinn_euro": 28.84,
+      "begruendung": "ERRLICH: das IST kein echter Moonshot (CLAUDE.md definiert Moonshot als 100x+). Mit nur 3 Spielen im Zeitfenster und ohne verifizierte Torschuetzen-Form sind 100x nicht ohne Fantasy-Quoten zu erreichen. 29x-Draw-Lotterie als Spass-Platzhalter, 1 EUR Spiel-Einsatz. Besser 'sollte man ueberspringen' als Spielertor-Quote erfinden.",
       "empfohlener_einsatz_prozent": 0.1
     }
   ],
   "lessons_angewandt": [
-    "HR1 Quoten-Range: alle Tipps in ihrer passenden Kategorie (SAFE 1.30-1.65, VALUE 1.65-2.30, WACKEL 2.30-3.50)",
-    "HR24 Torschützen-Form-Edge: Schick (5 Tore in 5 BL-Spielen) als klarer VALUE, Vlahovic/Matanovic ohne final-verifizierte Form-Daten max WACKEL",
-    "HR22 Star-OUT: Yildiz LANGZEIT-OUT per kader_wechsel_2026 - kein Juve-Spieler-Tipp auf Yildiz, Vlahovic als Alternative",
-    "Markt-Mix (03.05. Lehre): max 1 DC pro Spiel, kein SAFE-DC in Nicht-Goldgruben-Ligen - DC X2 nur eingesetzt wo Markt-Goldgrube (Milan/Juve) + Qualitaets-Gap klar",
-    "Markt-Goldgruben aktiv gesucht: Ueber 2.5 Tore (+27.5% ROI) in Lech-Lev / Lyo-Cry / Fre-Jab / Mar-Oly; DC X2 (77.8% Hit) in Sal-Mil / Cel-Juv; Schick-Torschuetze (Jederzeit +24.4% ROI)",
-    "Kader-Frische: alle Spieler-Namen gegen kader_wechsel_2026.json gecheckt - keine Adeyemi-Klasse-Fehler (Yildiz-Out-Flag beachtet, Pulisic/Ramos als Milan verifiziert via Transfer-Rundum)",
-    "Coinflip-Regel: Lyo-Cry als coinflip-Border eingestuft (Lyon 2.15, Palace 3.10) - kein SAFE auf Sieg, nur VALUE auf Ueber 2.5 (Markt-Goldgrube) + Lyon-Sieg (Heim-Edge)",
-    "Zeitfenster-Hartregel (22.08.): alle 6 Spiele mit Anstoss 2026-10-15 Berliner Zeit, keine Spiele aus 14.10. (CL MD2) oder 16.10. im Dossier",
-    "Supercup-Scan: heute kein Supercup im Fenster",
-    "Layer-2 sauber: pro Spiel maximal 1 Sieg-Outcome ueber alle Kombis (Lev-Sieg nur Safe, Mil-Sieg nur Safe, Fre-Sieg nur Safe, Juv-Sieg nur Balance, Mar-Sieg + Lyon-Sieg nur Risiko)",
-    "Kasse-aware: 1000 EUR Stufe 1 - SAFE/VALUE 1-2% (10-20 EUR), WACKEL 0.5% (5 EUR), Kombis 0.1-2% (1-20 EUR). stufe_2_freigeschaltet=false → kein Half-Kelly-Angriff."
+    "Markt-Goldgruben aktiv gesucht: DC X2 Nuernberg + DC 1X Le Mans + Ueber 2.5 Cottbus-Nuernberg + Ueber 2.5 Frankfurt-Koeln",
+    "Kein Spielertor-Tipp heute - ohne verifizierbare 5-letzte-Spiele-Tor-Statistik waere das Rate-Spiel (Adeyemi-/Oscar-Hojlund-Falle). HR24 verlangt Form-Edge-Beweis.",
+    "Frankfurt-Verletzungs-Krise: Kalimuendo+Theate+Kristensen+Knauff OUT - Backup-Sturm (Burkardt unklar) kein belastbarer Tipp-Anker. HR22 (Star-OUT-Implosions-Risiko) deshalb Sieg Frankfurt nur Wackel, nicht SAFE.",
+    "Keine parallelen Wettbewerbe heute (Frankfurt 2025/26 Europa verpasst, Koeln Aufsteiger, Le Mans/Toulouse ohne Europapokal, Cottbus/Nuernberg ohne UEFA). HR3 (UEFA-Rotation) nicht relevant.",
+    "2:0-Insurance ausschliesslich bei Frankfurt-Koeln relevant (Bundesliga + Sieg-Tipp) - cot-nur und lem-tou ausgeschlossen.",
+    "Ehrlichkeit: Balance+Risk+Moonshot alle unterhalb Zielrange - bei nur 3 Spielen keine fairen hohen Kombi-Quoten ohne Spielertor-Erfindung erreichbar."
   ],
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
   "_verifikations_report": {
-    "erstellt_am": "2026-10-15T14:30:00+02:00",
-    "modus": "watchdog-recovery-inline",
+    "erstellt_am": "2026-10-16T14:30:00+02:00",
     "drops": [],
-    "downgrades": [
-      {
-        "tipp_id": "fre-jab-3",
-        "alt": "value",
-        "neu": "wackel",
-        "grund": "HR24 nicht komplett erfuellt - Matanovic-Form last-10 im Watchdog-Lauf nicht endgueltig verifizierbar; nur Bundesliga-Preview-Blog-Erwaehnung als 9er-Hinweis"
-      },
-      {
-        "tipp_id": "cel-juv-4",
-        "alt": "value",
-        "neu": "wackel",
-        "grund": "Vlahovic Volume-Position bestaetigt (Yildiz long-term out, David zu Atletico), letzte-10-Form im Watchdog-Lauf nicht final verifizierbar - HR24 teils erfuellt → wackel"
-      },
-      {
-        "tipp_id": "sal-mil-4",
-        "alt": "value",
-        "neu": "wackel",
-        "grund": "Pulisic in Sportsmole-XI, aber letzte-10-Form und Amorim-Rotation nicht abschliessend verifiziert → wackel statt VALUE"
-      }
-    ],
+    "downgrades": [],
     "warns": [
       {
-        "art": "quoten_abweichung",
-        "spiel_id": "alle",
-        "details": "Quoten im Dossier sind Pre-Match-Schnappschuesse aus Aggregator-Previews (Africasoccer, Scores&Stats, Kickoff, Khel Now). Bei bet365 vor Einsatz live pruefen - Schwankungen 5-10% moeglich."
+        "art": "squad_frische",
+        "spiel_id": "2026-10-16-fra-koe",
+        "details": "Burkardt-Comeback laut Preview unklar - Torschuetzen-Tipp bewusst nicht gesetzt."
       },
       {
-        "art": "squad_live_check_fehlt",
-        "spiel_id": "2026-10-15-fre-jab",
-        "details": "Matanovic Startelf-Status fuer Thursday Conference-League-Spiel nicht final aus kicker.de-Aufstellungs-Vorschau verifiziert - nur Bundesliga.com Preview-Blog-Title als Signal. Falls Rotation: Torschuetzen-Tipp ggf. ausfallen lassen."
+        "art": "squad_frische",
+        "spiel_id": "2026-10-16-cot-nur",
+        "details": "Keine verifizierten 5-letzte-Spiele-Tor-Daten fuer Nuernberg-Stuermer - kein Torschuetzen-Tipp (HR24 Pflicht)."
       },
       {
-        "art": "selbstwiderspruch",
-        "spiel_id": "2026-10-15-sal-mil",
-        "details": "Keine Selbstwidersprueche - Pulisic konsistent als Milan-Spieler, Ramos konsistent, keine Leao-Erwaehnung (zu Galatasaray seit 30.08. per kader_wechsel)"
+        "art": "kombi_quote_unter_zielrange",
+        "details": "Balance 5.9x unter 6-10x, Risk 8.82x unter 15-30x, Moonshot 28.84x unter 100x - ehrlich in Begruendung ausgewiesen (CLAUDE.md Ehrlichkeits-Prinzip)."
       },
       {
-        "art": "zeitfenster",
-        "spiel_id": "alle",
-        "details": "Alle 6 Spiele mit Anstoss 2026-10-15 (Donnerstag) Berliner Zeit - EL MD2 (18:45 + 21:00 CET) und Conference MD1 (21:00 CET). validate_datum_scope sollte alle durchlassen."
+        "art": "watchdog_recovery",
+        "details": "Watchdog Mo-Fr 14:30 - Hauptroutine 13:30 nicht ausgefuehrt oder leer. Nur eigene Recherche via WebSearch, keine Aggregator-Quoten verfuegbar (Egress-Policy blockiert football-data.org + Previewer-Sites). Quoten als Buchmacher-Konsens aus mehreren Preview-Seiten - 'bei bet365 live pruefen'."
       }
     ],
-    "lessons_generiert": [
-      {
-        "kategorie": "Watchdog-Recovery-Pattern",
-        "lesson": "Wenn 13:30-Hauptroutine schweigt UND der Tag Donnerstag ist (EL/Conference-Doppel-Programm), reichen 6 Big-5-Vereins-Spiele fuer ein ehrliches Dossier - lieber 6 mit vollstaendigem saison_kontext als 15 ohne (droppt Mapper sowieso)"
-      }
-    ]
+    "lessons_generiert": []
   },
-  "footer": "18+ · bet365 DE · Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
+  "_emergency_recovery": true
 };
