@@ -1,0 +1,1037 @@
+{
+  "datum": "2026-10-16",
+  "erstellt_am": "2026-10-16T14:30:00+02:00",
+  "hinweis": "Watchdog-Recovery (14:30): Mo-Fr-Hauptroutine um 13:30 hat nichts geliefert. Nach Laenderspiel-Pause geht BL + 2.BL + Ligue 1 wieder los - 3 Fussball-Spiele im Zeitfenster (Freitags-Programm). Kein Supercup, keine CL/EL-Spieltage. Kasse 1000 EUR, Stufe 1 (1-2% Einzel, Kombis gedeckelt). Fokus: Frankfurt-Koeln als einziges BL-Spiel + 1 Markt-Goldgrube (Ueber 2.5 / DC X2) in jedem Spiel.",
+  "spiele": [
+    {
+      "id": "2026-10-16-fra-koe",
+      "liga": "Bundesliga",
+      "heim": "Eintracht Frankfurt",
+      "gast": "1. FC Koeln",
+      "anstoss": "2026-10-16T20:30:00+02:00",
+      "stadion": "Deutsche Bank Park, Frankfurt",
+      "saison_kontext": {
+        "parallel_heim": "keine - Frankfurt hat 2026/27 keinen Europapokal (2025/26 Vize-Platz 6 verpasst via 2:2 Schlusstag, keine CL/EL/Conference-Phase)",
+        "parallel_gast": "keine - Aufsteiger 2026/27, kein Europapokal",
+        "saisonziel_heim": "nach 4 Spielen 5 Pkt (1S/2U/1N) + 6:0-Debakel bei Leipzig (10.10.) - CL-Quali-Hoffnung bereits deutlich entfernt, aber Fuss im Mittelfeld",
+        "saisonziel_gast": "nach 4 Spielen 4 Pkt (13.), 2:1 bei Gladbach (11.10.) als jueungster Erfolg - Klassenerhalt-Modus, interim Baumgart-System",
+        "motivations_asymmetrie": "Frankfurt mit Druck nach 6:0-Schock, aber Verletzungs-Krise im Angriff (Kalimuendo/Knauff/Theate/Kristensen OUT, Burkardt unklar). Koeln mit Rueckenwind und Rotations-Freiraum (keine europaeische Doppelbelastung). Buchmacher sehen Frankfurt knapp vorn (~1.95), aber kein Rout-Favorit. Coinflip-nah mit Edge zu Toren.",
+        "recovery_heim": "6 Tage seit 0:6 bei Leipzig; grosser Teil des Sturms OUT",
+        "recovery_gast": "5 Tage seit 2:1 vs Gladbach - frisch, keine Vollrotation",
+        "quellen": [
+          "https://www.getfootballnewsgermany.com/2026/eintracht-frankfurt-vs-1-fc-koln-team-news-and-predicted-line-ups/",
+          "https://www.sportsmole.co.uk/football/eintracht-frankfurt/preview/frankfurt-vs-fc-koln-prediction-team-news-lineups_606886.html",
+          "https://thefootballfaithful.com/eintracht-frankfurt-vs-fc-koln-prediction-betting-tips-16-10-2026/",
+          "https://www.sportytrader.com/en/betting-tips/eintracht-frankfurt-koln-379258/",
+          "https://www.getfootballnewsgermany.com/2026/eintracht-frankfurts-injury-crisis-worsens-with-rasmus-kristensen-sidelined/"
+        ]
+      },
+      "news": [
+        "Frankfurt kommt vom 0:6 bei RB Leipzig und ist in einer Verletzungs-Krise im Angriff: Kalimuendo (Schulter, lange raus), Kristensen (Knoechel-OP, moeglicher Saison-OUT), Theate (Meniskus, ~1 Monat), Knauff (Bauch-OP) - Burkardt-Comeback laut Preview unklar.",
+        "Koeln hat am letzten Spieltag 2:1 bei Gladbach gewonnen und zieht mit 4 Pkt (13.) knapp an Frankfurt vorbei, hat aber auch Ausfaelle: Huebers, Kilian, Schmied aus der Defensive; Martel gesperrt.",
+        "Keine europaeische Doppelbelastung - beide Teams bauen voll auf diese Partie.",
+        "Buchmacher-Konsens: Frankfurt-Sieg 1.91-1.99, Draw ~4.20, Koeln ~3.45 (Sportytrader). Haupttipp mehrerer Preview-Seiten: Ueber 2.5 bzw. 3.5 Tore wegen Defensiv-Krisen beider Teams.",
+        "2:0-Insurance greift (Bundesliga + direkter Sieg-Tipp)."
+      ],
+      "tipps": [
+        {
+          "id": "fra-koe-1",
+          "kategorie": "safe",
+          "markt": "Beide Teams treffen",
+          "quote": 1.6,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.52,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Beide Defensiven aktuell lecker: Frankfurt hat gegen Leipzig 0:6 kassiert und baut ohne Theate/Kristensen um; Koeln hat am letzten Spieltag Hoeher-Niveau-Gegner 2:1 geschlagen aber selbst 1 Tor kassiert. Preview-Konsens: Ueber 3.5 top Tipp -> BTTS folgt. Markt-Goldgrube ist zwar Torschuetzen Jederzeit, aber ohne verifizierte Form-Daten pro Spieler bleibt BTTS der sauberere Weg. Reality-Check nach_markt_typ BTTS 2026/27 solide. 2% Kasse -> 20 EUR... hier bewusst 1.5% -> 15 EUR da nicht Liga-Goldgrube. Bei bet365 live pruefen."
+        },
+        {
+          "id": "fra-koe-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.72,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Markt-Goldgrube (ROI +54%, Hitrate 54.2% laut markt_goldgruben.json). Zwei defensiv angeschlagene Teams, beide ohne europaeische Belastung = hohe Intensitaet, keine Verwaltung. Frankfurt 2.3 Tore/Spiel Attack-Rate (Football Faithful), Koeln 1.5 - zusammen ~3.8 erwartet. Sportytrader empfiehlt sogar Ueber 3.5 - wir bleiben konservativ auf Ueber 2.5. 1.5% Kasse = 15 EUR."
+        },
+        {
+          "id": "fra-koe-3",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Eintracht Frankfurt oder Remis",
+          "quote": 1.4,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.33,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 10.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance (ROI +40%, Hitrate 57.9%). Frankfurt-Heim gegen Koeln strukturell Favorit trotz Verletzungs-Chaos, Buchmacher-Linie bei 1X@~1.40. 2:0-Insurance zusaetzlich im Hintergrund (greift bei direktem Sieg-Tipp, hier nicht - aber Frankfurt kommt bei Rueckstand oft zurueck zuhause). Vorsicht: Koeln-Sieg nicht ausgeschlossen (3.45 bedeutet immer noch ~29% Wahrscheinlichkeit). 1% Kasse = 10 EUR."
+        },
+        {
+          "id": "fra-koe-4",
+          "kategorie": "wackel",
+          "markt": "Sieg Eintracht Frankfurt (90 Min)",
+          "quote": 1.95,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.89,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Direkter Sieg-Tipp mit 2:0-Insurance (Bundesliga + Sieg-Markt = greift). Edge aber knapp wegen Verletzungs-Krise - Frankfurt kann auch den Punch nicht landen und das 6:0 zieht psychologisch nach. Wackel ist die ehrliche Kategorie. 0.5% Kasse = 5 EUR Wackel-Einsatz."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 0,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "quelle": "sportschau.de, bundesliga.com Spielplan 2026/27, zdfheute.de Liveticker"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "fra-koe-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "BTTS: Koeln traf nicht, Frankfurt zu null (1:0 durch Ebnoutalib 77')."
+        },
+        {
+          "tipp_id": "fra-koe-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur 1 Tor im Spiel (1:0 Frankfurt)."
+        },
+        {
+          "tipp_id": "fra-koe-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.4,
+          "kommentar": "DC 1X: Frankfurt-Sieg 1:0 - Edge voll ausgezahlt."
+        },
+        {
+          "tipp_id": "fra-koe-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.95,
+          "kommentar": "Direkter Sieg-Tipp: Frankfurt 1:0. 2:0-Insurance nicht noetig (Sieg direkt)."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": 77,
+            "team": "heim",
+            "spieler": "Younes Ebnoutalib",
+            "assist": "Noel Aseko Nkili",
+            "stand_danach": "1:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Fuehrungswechsel. Frankfurt dominiert, bricht Koeln-Fluch (erster Heimsieg gegen Koeln seit Maerz) nach 0:0-HZ via Ebnoutalib-Geistesblitz 77'."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Heim",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Noel Aseko Nkili",
+            "aus": null,
+            "minute": null,
+            "tor": false,
+            "assist_tor": true,
+            "details": "Aseko kam als Joker rein, legte Ebnoutalib das 1:0 auf - Volume-Backup-Trigger OHNE Torschuetzen-Tipp (Routine HR24 blockte Spielertor-Tipps mangels Form-Daten)."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Frankfurts Verletzungs-Krise (Kalimuendo/Theate/Kristensen/Knauff OUT, Burkardt unklar) hat nicht wie befuerchtet zu Offensiv-Kollaps gefuehrt - Ebnoutalib (Hattrick-Debut-Fenster vom 1. Spieltag) traf wieder. BTTS/Ueber-2.5-These wegen Doppel-Defensiv-Krise widerlegt - beide Defensiven haben erstmals die Null gehalten (fuer Frankfurt).",
+          "Preview-Konsens war flaechendeckend Ueber-2.5/3.5 wegen Defensiv-Krisen - hat sich als Falle entpuppt.",
+          "2:0-Insurance irrelevant: direkter Sieg Frankfurt lief ueber reines 1:0 (Volume-Joker-Pattern)."
+        ]
+      }
+    },
+    {
+      "id": "2026-10-16-cot-nur",
+      "liga": "2. Bundesliga",
+      "heim": "Energie Cottbus",
+      "gast": "1. FC Nuernberg",
+      "anstoss": "2026-10-16T18:30:00+02:00",
+      "stadion": "LEAG Energie Stadion, Cottbus",
+      "saison_kontext": {
+        "parallel_heim": "keine - Aufsteiger aus der 3. Liga, kein Pokal mehr",
+        "parallel_gast": "keine - 2. Bundesliga Mittelfeld, kein Pokal mehr nach moeglichem Pokal-Aus (hier nicht verifiziert)",
+        "saisonziel_heim": "Klassenerhalt-Modus - Aufsteiger ohne Vorsaison-Edge in dieser Liga",
+        "saisonziel_gast": "Aufstieg-Hoffnung bei starkem Saison-Start (3 Siege aus den ersten 3 Spielen laut Early-Snapshot), aktuelle Form unklar nach Laenderspielpause",
+        "motivations_asymmetrie": "Nuernberg strukturell und tabellarisch deutlich hoeher einzuordnen (Fruhfavorit auf Aufstiegs-Zone), Cottbus hat Heim-Vorteil + Underdog-Energie. Buchmacher-Linie: Nuernberg-Sieg @ 2.00, DC X2 @ 1.33 - der Gast ist leichter Favorit, aber nicht Rout.",
+        "recovery_heim": "nach Laenderspiel-Pause - 2 Wochen Vorbereitungs-Zeit, keine Vollrotation noetig",
+        "recovery_gast": "nach Laenderspiel-Pause - frisch; 2. BL-Spieler bringen keine Nationalmannschafts-Reisen mit",
+        "quellen": [
+          "https://www.t-online.de/sport/live-ticker/fussball/2-bundesliga/sdc_fm-59655/cottbus-nuernberg-2-bundesliga-im-liveticker.html",
+          "https://footballpredictions.ai/football-predictions/energie-cottbus-vs-1.-fc-nürnberg-predictions-tips-16-oct-2026/",
+          "https://www.wincomparator.com/de/tipps/energie-cottbus-fc-nurnberg-8596281/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_2._Bundesliga"
+        ]
+      },
+      "news": [
+        "Erstes Pflichtspiel-Duell dieser Saison; Cottbus 2026/27 wieder in Liga 2 nach Aufstieg aus der 3. Liga.",
+        "Nuernberg startete stark (3 Siege in Folge laut Early-Snapshot) - aktuelle Form nach der Laenderspielpause nicht vollstaendig verifizierbar, Aufstiegsgeruecht in der Presse.",
+        "Wincomparator sieht Nuernberg-Sieg mit 53.7%, BTTS Ja mit 83%, Ueber 2.5 mit 70% - konvergent zu footballpredictions.ai (BTTS @ 1.36, Ueber 2.5 @ 1.33, X2 @ 1.33).",
+        "2:0-Insurance greift in der 2. Bundesliga NICHT (nur 1. BL + CL)."
+      ],
+      "tipps": [
+        {
+          "id": "cot-nur-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Nuernberg oder Remis",
+          "quote": 1.33,
+          "edge_prozent": 8.0,
+          "faire_quote": 1.23,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Markt-Goldgrube DC X2 (ROI +54.8%, Hitrate 66.7% - stabilste Markt-Edge im Tool). Nuernberg strukturell und tabellarisch besser, selbst eine Niederlage ist nur mit ~27% Wahrscheinlichkeit auf dem Board. Reality-Check nach_markt_typ: DC X2 unser bester Markt 2026/27. 2% Kasse = 20 EUR. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
+          "_markt_mix_dc_downgrade": true
+        },
+        {
+          "id": "cot-nur-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.5,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.4,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Preview-Konsens BTTS Ja @ 1.36-1.50 je nach Buchmacher; Wincomparator sieht 83% Wahrscheinlichkeit. 2. Bundesliga hat generell hohe BTTS-Hitrate, zwei offensiv angelegte Teams. 1.5% Kasse = 15 EUR."
+        },
+        {
+          "id": "cot-nur-3",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.73,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.63,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 10.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5. Beide Teams in der 2. BL offensiv angelegt, Preview-Prognose 70% Wahrscheinlichkeit. 1% Kasse = 10 EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 1,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "quelle": "bundesliga.com 2. BL Spieltag 8, sky.de, niederlausitz-aktuell.de, np-coburg.de"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "cot-nur-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.33,
+          "kommentar": "DC X2: Remis 1:1 - Markt-Goldgrube DC X2 schlaegt ein trotz Zoma-Ausfall."
+        },
+        {
+          "tipp_id": "cot-nur-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.5,
+          "kommentar": "BTTS: Butler 56' + Mkrtchyan 79' - beide Teams getroffen."
+        },
+        {
+          "tipp_id": "cot-nur-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur 2 Tore (1:1). Markt-Goldgrube Ueber 2.5 verfehlt."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 56,
+            "team": "heim",
+            "spieler": "Justin Butler",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 79,
+            "team": "gast",
+            "spieler": "Styopa Mkrtchyan",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Kein 2-Tore-Vorsprung zwischendurch. Cottbus 56' in Fuehrung, Nuernberg spaet ausgeglichen - klassisches Spaetes-Ausgleichs-Pattern."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Mohamed Ali Zoma",
+            "details": "Topscorer Zoma (7 Saison-Tore, Liga-Toptorjaeger) musste in Anfangsphase mit Schulterverletzung ausgewechselt werden - raubte Nuernberg die zentrale Offensiv-Achse."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Spaetes-Tor-Cluster-Fortsetzung: Mkrtchyan-Ausgleich 79' passt in das 80+min-Tor-Pattern der letzten Wochen.",
+          "Nuernberg bleibt Tabellen-2., ungeschlagen - der Early-Snapshot-Favoriten-Status hat gehalten (DC X2 @1.33 schlug trotz Zoma-Ausfall ein).",
+          "Zoma-Schulterverletzung ist Red Flag fuer Nuernberg-Folgespiele: ohne Toptorjaeger kein Markt-Automatismus mehr auf Nuernberg-Siege."
+        ]
+      }
+    },
+    {
+      "id": "2026-10-16-lem-tou",
+      "liga": "Ligue 1",
+      "heim": "Le Mans FC",
+      "gast": "Toulouse FC",
+      "anstoss": "2026-10-16T20:45:00+02:00",
+      "stadion": "MMArena / Stade Marie-Marvingt, Le Mans",
+      "saison_kontext": {
+        "parallel_heim": "keine - Aufsteiger in Ligue 1, kein Europapokal",
+        "parallel_gast": "keine - Toulouse 2026/27 nicht in europaeischer Konkurrenz",
+        "saisonziel_heim": "Klassenerhalt - 14. Platz mit 6 Pkt nach 6 Spielen (laut Sportsmole-Preview Ligue 1 GW7 PReview)",
+        "saisonziel_gast": "Oberes Mittelfeld - 15. Platz mit 5 Pkt (laut futboltotal), neuer Trainer Jens Berthel Askou seit Sommer 2026",
+        "motivations_asymmetrie": "Erstes Ligue-1-Duell seit mehr als 16 Jahren - zwei Teams aus der unteren Haelfte, keine klare Qualitaets-Trennung. Le Mans mit Heimvorteil aber vielen Ausfaellen (laut Preview mehrere Angreifer angeschlagen), Toulouse frisch nach 2:2 Monaco mit neuem Trainer-Setup. Buchmacher-Konsens: enges Spiel, kein klarer Favorit.",
+        "recovery_heim": "6 Tage seit 1:3-Niederlage bei PSG - Le Mans physisch gefordert",
+        "recovery_gast": "6 Tage seit 2:2 bei Monaco - frisch",
+        "quellen": [
+          "https://www.sportsmole.co.uk/football/le-mans/preview/le-mans-vs-toulouse-prediction-team-news-lineups_606855.html",
+          "https://futboltotal.futbol/partido/le-mans-vs-toulouse-ligue-1-2026-10-16",
+          "https://dicodusport.fr/blog/mercato-toulouse-2026-2027-le-tableau-complet-des-transferts-arrivees-et-departs/",
+          "https://www.livefoot.fr/joueur/jean-vercruysse/actualite/",
+          "https://fc.gradientsports.com/rankings/player/3533075/news"
+        ]
+      },
+      "news": [
+        "Erstes Pflichtspiel-Duell zwischen Le Mans und Toulouse seit ueber 16 Jahren (Sportsmole-Preview).",
+        "Le Mans mit Ausfallliste nach PSG-Spiel: Sidibe (gesperrt), Bourabaa (verletzt), Buades und Colas fraglich - Preview nennt das Team deutlich dezimiert.",
+        "Toulouse unter neuem Trainer Jens Berthel Askou (seit Sommer 2026); frisches 2:2 bei Monaco.",
+        "Tabellennachbarn (14./15.) ohne klaren Favoriten - Coinflip laut Buchmachern.",
+        "2:0-Insurance greift NICHT (Ligue 1 nicht in bet365-DE-Aktion)."
+      ],
+      "tipps": [
+        {
+          "id": "lem-tou-1",
+          "kategorie": "wackel",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.4,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.36,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Zwei untere-Haelfte-Teams der Ligue 1, kein offensiver Rout erwartbar. Historisch sind Begegnungen in dieser Tabellenregion torarm bis moderat. Als Wackel-Sicherung in der Hoffnung auf max. 3 Tore. 0.5% Kasse = 5 EUR."
+        },
+        {
+          "id": "lem-tou-2",
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance Le Mans oder Remis",
+          "quote": 1.55,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.52,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Heimvorteil + Tabellennachbar reicht fuer DC-Edge, aber mit kaputtem Kader kein SAFE. Coinflip-Zone. 0.5% Kasse = 5 EUR Spass-Einsatz."
+        },
+        {
+          "id": "lem-tou-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.72,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Zwei offensiv maessige Teams - BTTS ist in der Ligue 1 unter Mittelfeld oft Wackel, Preview-Daten geben keine starke Edge. 0.5% Kasse = 5 EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 3,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "quelle": "eurosport.fr, news.footeo.com, sportytrader.com, X-TremLimit, beinsports.com"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "lem-tou-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.4,
+          "kommentar": "Unter 3.5: exakt 3 Tore (0:3) - gerade so durch."
+        },
+        {
+          "tipp_id": "lem-tou-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Toulouse gewann 0:3 - DC 1X Le Mans/Remis verloren."
+        },
+        {
+          "tipp_id": "lem-tou-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur Toulouse traf (0:3), Le Mans zu null - BTTS verloren."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:3",
+        "tore": [
+          {
+            "min": 46,
+            "team": "gast",
+            "spieler": "Joshua Russell-Rowe",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 59,
+            "team": "gast",
+            "spieler": "Aron Donnum",
+            "stand_danach": "0:2",
+            "hinweis": "beinsports listet dieses Tor als Eigentor Le Mans - Mehrheits-Quellen (Eurosport, X-TremLimit, Footeo) nennen Donnum als Schuetze"
+          },
+          {
+            "min": 87,
+            "team": "gast",
+            "spieler": "Casper Tengstedt",
+            "stand_danach": "0:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung. Toulouse direkt nach HZ-Pfiff auf 1:0 (Russell-Rowe 46'), danach konstant durchmarschiert. Vor Tengstedts 3:0 ein Tor aberkannt (Abseits)."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Auswaerts",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Lehrbuch-Blowout nach HZ-Reset: Toulouses neues Trainer-Setup unter Berthel Askou gewinnt die Pausen-Ansprache klar (0:0 → 0:3 nach Wiederanpfiff).",
+          "Preview-Coinflip-These (14./15. Tabellennachbarn) war falsch - Qualitaetsgefaelle in der 2. HZ sichtbar.",
+          "Le Mans mit stark dezimiertem Kader (Sidibe gesperrt, Bourabaa verletzt, Buades/Colas fraglich) konnte offensiv nichts entgegensetzen - BTTS-These zum Scheitern verurteilt."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "cot-nur-1",
+      "spiel_id": "2026-10-16-cot-nur",
+      "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance Nuernberg oder Remis",
+      "quote": 1.33,
+      "edge_prozent": 8.0,
+      "faire_quote": 1.23,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Markt-Goldgrube DC X2 (ROI +54.8%, Hitrate 66.7% - stabilste Markt-Edge im Tool). Nuernberg strukturell und tabellarisch deutlich hoeher, Cottbus Aufsteiger ohne klare Edge-Signale. 2% Kasse = 20 EUR.",
+      "rang": 1
+    },
+    {
+      "id": "fra-koe-1",
+      "spiel_id": "2026-10-16-fra-koe",
+      "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
+      "kategorie": "safe",
+      "markt": "Beide Teams treffen",
+      "quote": 1.6,
+      "edge_prozent": 5.0,
+      "faire_quote": 1.52,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Beide Teams defensiv-angeschlagen (Frankfurt 0:6 vs Leipzig, Koeln mit 3 Defense-Ausfaellen) + beide ohne europaeische Doppelbelastung. BTTS-Konsens aus Preview-Seiten. 1.5% Kasse = 15 EUR.",
+      "rang": 2
+    },
+    {
+      "id": "fra-koe-2",
+      "spiel_id": "2026-10-16-fra-koe",
+      "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.72,
+      "edge_prozent": 6.0,
+      "faire_quote": 1.62,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +54%). Frankfurt 2.3 Tore/Spiel offensiv-Rate, Koeln 1.5 - erwartete Toranzahl 3.5+. Preview empfiehlt Ueber 3.5 - wir bleiben auf Ueber 2.5 konservativ. 1.5% Kasse = 15 EUR.",
+      "rang": 3
+    },
+    {
+      "id": "cot-nur-2",
+      "spiel_id": "2026-10-16-cot-nur",
+      "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.5,
+      "edge_prozent": 7.0,
+      "faire_quote": 1.4,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Wincomparator sieht 83% BTTS-Wahrscheinlichkeit, Preview-Konsens @ 1.36-1.50. 1.5% Kasse = 15 EUR.",
+      "rang": 4
+    },
+    {
+      "id": "fra-koe-3",
+      "spiel_id": "2026-10-16-fra-koe",
+      "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Eintracht Frankfurt oder Remis",
+      "quote": 1.4,
+      "edge_prozent": 4.0,
+      "faire_quote": 1.33,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 10.0,
+      "begruendung": "Markt-Goldgrube Doppelte Chance (ROI +40%). Frankfurt-Heim strukturell Favorit trotz Verletzungs-Chaos, Koeln-Sieg nur ~29% Buchmacher-Linie. 1% Kasse = 10 EUR.",
+      "rang": 5
+    },
+    {
+      "id": "cot-nur-3",
+      "spiel_id": "2026-10-16-cot-nur",
+      "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.73,
+      "edge_prozent": 6.0,
+      "faire_quote": 1.63,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 10.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +54%). Beide Teams offensiv-angelegt, Preview 70% Wahrscheinlichkeit. 1% Kasse = 10 EUR.",
+      "rang": 6
+    },
+    {
+      "id": "fra-koe-4",
+      "spiel_id": "2026-10-16-fra-koe",
+      "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
+      "kategorie": "wackel",
+      "markt": "Sieg Eintracht Frankfurt (90 Min)",
+      "quote": 1.95,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.89,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Direkter Sieg-Tipp mit 2:0-Insurance (Bundesliga + Sieg = greift). Edge knapp wegen Verletzungs-Krise, deshalb Wackel ehrlich. 0.5% Kasse = 5 EUR.",
+      "rang": 7
+    },
+    {
+      "id": "lem-tou-1",
+      "spiel_id": "2026-10-16-lem-tou",
+      "spiel_label": "Le Mans - Toulouse",
+      "kategorie": "wackel",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.4,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.36,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Zwei untere-Haelfte-Teams der Ligue 1, torarm wahrscheinlich. 0.5% Kasse = 5 EUR Wackel.",
+      "rang": 8
+    },
+    {
+      "id": "lem-tou-2",
+      "spiel_id": "2026-10-16-lem-tou",
+      "spiel_label": "Le Mans - Toulouse",
+      "kategorie": "wackel",
+      "markt": "Doppelte Chance Le Mans oder Remis",
+      "quote": 1.55,
+      "edge_prozent": 2.0,
+      "faire_quote": 1.52,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Heimvorteil + Tabellennachbar - Coinflip-nah mit dezimiertem Le-Mans-Kader. 0.5% Kasse = 5 EUR.",
+      "rang": 9
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe-Kombi 3er",
+      "kategorie": "safe",
+      "profil": "3 BTTS/DC-Beine aus 3 Spielen - alles Markt-Goldgruben",
+      "beine": [
+        {
+          "spiel_id": "2026-10-16-fra-koe",
+          "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
+          "markt": "Beide Teams treffen",
+          "quote": 1.6,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-10-16-cot-nur",
+          "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
+          "markt": "Nuernberg oder Remis (Doppelte Chance)",
+          "quote": 1.33,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-10-16-lem-tou",
+          "spiel_label": "Le Mans - Toulouse",
+          "markt": "Le Mans oder Remis (Doppelte Chance)",
+          "quote": 1.55,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 3.3,
+      "gesamtquote_rechnung": "1.60 x 1.33 x 1.55 = 3.30",
+      "einsatz_euro": 20.0,
+      "potenzieller_gewinn_euro": 66.0,
+      "begruendung": "Kombi aus 2 Markt-Goldgruben (DC X2 Nuernberg, DC 1X Le Mans) + BTTS in Frankfurt-Koeln. 3 verschiedene Spiele, 3 verschiedene Markttypen = Layer-1/2/3 sauber. Stufe-1-Kombi-Einsatz 2% = 20 EUR.",
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "name": "Balance-Kombi 3er",
+      "kategorie": "balance",
+      "profil": "Sieg Frankfurt + Über 2.5 Cottbus + BTTS Le Mans - knapp unter 6x",
+      "beine": [
+        {
+          "spiel_id": "2026-10-16-fra-koe",
+          "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
+          "markt": "Sieg Eintracht Frankfurt (90 Min)",
+          "quote": 1.95,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-10-16-cot-nur",
+          "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.73,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-16-lem-tou",
+          "spiel_label": "Le Mans - Toulouse",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 5.9,
+      "gesamtquote_rechnung": "1.95 x 1.73 x 1.75 = 5.90",
+      "einsatz_euro": 8.0,
+      "potenzieller_gewinn_euro": 47.2,
+      "begruendung": "Ehrlich: landet mit 5.90x knapp unter der 6-10x Balance-Zielrange - bei nur 3 Spielen im Fenster und defensiven Quoten laesst sich die Zielquote nicht ohne Risiko-Dehnung erreichen. 2:0-Insurance greift auf Fra-Sieg. 0.8% Kasse = 8 EUR Kombi-Einsatz.",
+      "empfohlener_einsatz_prozent": 0.8
+    },
+    {
+      "name": "Risk-Kombi 3er",
+      "kategorie": "risk",
+      "profil": "Draw Frankfurt + BTTS Cottbus + Unter 3.5 Le Mans - Risk-light (~9x)",
+      "beine": [
+        {
+          "spiel_id": "2026-10-16-fra-koe",
+          "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
+          "markt": "Remis Frankfurt - Koeln",
+          "quote": 4.2,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-10-16-cot-nur",
+          "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
+          "markt": "Beide Teams treffen",
+          "quote": 1.5,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-16-lem-tou",
+          "spiel_label": "Le Mans - Toulouse",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.4,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 8.82,
+      "gesamtquote_rechnung": "4.20 x 1.50 x 1.40 = 8.82",
+      "einsatz_euro": 2.5,
+      "potenzieller_gewinn_euro": 22.05,
+      "begruendung": "Ehrlich: landet mit 8.82x unterhalb der 15-30x Risk-Zielrange - mit nur 3 Spielen und ohne verifizierte Spielertor-Edges (keine Form-URL im Squad = Degradierungs-Risiko) kein echter Risk erreichbar. Draw in Fra-Koe als Hoch-Quoten-Anker (Verletzungs-Krise beider Teams). 0.25% Kasse = 2.50 EUR.",
+      "empfohlener_einsatz_prozent": 0.25
+    },
+    {
+      "name": "Moonshot-Kombi 3er",
+      "kategorie": "moonshot",
+      "profil": "Über 3.5 Frankfurt + Doppel-Draw Cottbus + Le Mans - Spass-Lotterie (~29x, NICHT 100x)",
+      "beine": [
+        {
+          "spiel_id": "2026-10-16-fra-koe",
+          "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
+          "markt": "Über 3.5 Tore",
+          "quote": 2.3,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-10-16-cot-nur",
+          "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
+          "markt": "Remis Cottbus - Nuernberg",
+          "quote": 3.8,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-10-16-lem-tou",
+          "spiel_label": "Le Mans - Toulouse",
+          "markt": "Remis Le Mans - Toulouse",
+          "quote": 3.3,
+          "kategorie": "risk"
+        }
+      ],
+      "gesamtquote": 28.84,
+      "gesamtquote_rechnung": "2.30 x 3.80 x 3.30 = 28.84",
+      "einsatz_euro": 1.0,
+      "potenzieller_gewinn_euro": 28.84,
+      "begruendung": "ERRLICH: das IST kein echter Moonshot (CLAUDE.md definiert Moonshot als 100x+). Mit nur 3 Spielen im Zeitfenster und ohne verifizierte Torschuetzen-Form sind 100x nicht ohne Fantasy-Quoten zu erreichen. 29x-Draw-Lotterie als Spass-Platzhalter, 1 EUR Spiel-Einsatz. Besser 'sollte man ueberspringen' als Spielertor-Quote erfinden.",
+      "empfohlener_einsatz_prozent": 0.1
+    }
+  ],
+  "lessons_angewandt": [
+    "Markt-Goldgruben aktiv gesucht: DC X2 Nuernberg + DC 1X Le Mans + Ueber 2.5 Cottbus-Nuernberg + Ueber 2.5 Frankfurt-Koeln",
+    "Kein Spielertor-Tipp heute - ohne verifizierbare 5-letzte-Spiele-Tor-Statistik waere das Rate-Spiel (Adeyemi-/Oscar-Hojlund-Falle). HR24 verlangt Form-Edge-Beweis.",
+    "Frankfurt-Verletzungs-Krise: Kalimuendo+Theate+Kristensen+Knauff OUT - Backup-Sturm (Burkardt unklar) kein belastbarer Tipp-Anker. HR22 (Star-OUT-Implosions-Risiko) deshalb Sieg Frankfurt nur Wackel, nicht SAFE.",
+    "Keine parallelen Wettbewerbe heute (Frankfurt 2025/26 Europa verpasst, Koeln Aufsteiger, Le Mans/Toulouse ohne Europapokal, Cottbus/Nuernberg ohne UEFA). HR3 (UEFA-Rotation) nicht relevant.",
+    "2:0-Insurance ausschliesslich bei Frankfurt-Koeln relevant (Bundesliga + Sieg-Tipp) - cot-nur und lem-tou ausgeschlossen.",
+    "Ehrlichkeit: Balance+Risk+Moonshot alle unterhalb Zielrange - bei nur 3 Spielen keine fairen hohen Kombi-Quoten ohne Spielertor-Erfindung erreichbar."
+  ],
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-10-16T14:30:00+02:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "squad_frische",
+        "spiel_id": "2026-10-16-fra-koe",
+        "details": "Burkardt-Comeback laut Preview unklar - Torschuetzen-Tipp bewusst nicht gesetzt."
+      },
+      {
+        "art": "squad_frische",
+        "spiel_id": "2026-10-16-cot-nur",
+        "details": "Keine verifizierten 5-letzte-Spiele-Tor-Daten fuer Nuernberg-Stuermer - kein Torschuetzen-Tipp (HR24 Pflicht)."
+      },
+      {
+        "art": "kombi_quote_unter_zielrange",
+        "details": "Balance 5.9x unter 6-10x, Risk 8.82x unter 15-30x, Moonshot 28.84x unter 100x - ehrlich in Begruendung ausgewiesen (CLAUDE.md Ehrlichkeits-Prinzip)."
+      },
+      {
+        "art": "watchdog_recovery",
+        "details": "Watchdog Mo-Fr 14:30 - Hauptroutine 13:30 nicht ausgefuehrt oder leer. Nur eigene Recherche via WebSearch, keine Aggregator-Quoten verfuegbar (Egress-Policy blockiert football-data.org + Previewer-Sites). Quoten als Buchmacher-Konsens aus mehreren Preview-Seiten - 'bei bet365 live pruefen'."
+      }
+    ],
+    "lessons_generiert": []
+  },
+  "_emergency_recovery": true,
+  "einzeltipps_ergebnis": [
+    {
+      "id": "cot-nur-1",
+      "spiel_id": "2026-10-16-cot-nur",
+      "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance Nuernberg oder Remis",
+      "quote": 1.33,
+      "edge_prozent": 8.0,
+      "faire_quote": 1.23,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Markt-Goldgrube DC X2 (ROI +54.8%, Hitrate 66.7% - stabilste Markt-Edge im Tool). Nuernberg strukturell und tabellarisch deutlich hoeher, Cottbus Aufsteiger ohne klare Edge-Signale. 2% Kasse = 20 EUR.",
+      "rang": 1,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.33,
+      "kommentar": "DC X2: Remis 1:1 - Markt-Goldgrube DC X2 schlaegt ein trotz Zoma-Ausfall.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "fra-koe-1",
+      "spiel_id": "2026-10-16-fra-koe",
+      "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
+      "kategorie": "safe",
+      "markt": "Beide Teams treffen",
+      "quote": 1.6,
+      "edge_prozent": 5.0,
+      "faire_quote": 1.52,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Beide Teams defensiv-angeschlagen (Frankfurt 0:6 vs Leipzig, Koeln mit 3 Defense-Ausfaellen) + beide ohne europaeische Doppelbelastung. BTTS-Konsens aus Preview-Seiten. 1.5% Kasse = 15 EUR.",
+      "rang": 2,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "BTTS: Koeln traf nicht, Frankfurt zu null (1:0 durch Ebnoutalib 77').",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "fra-koe-2",
+      "spiel_id": "2026-10-16-fra-koe",
+      "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.72,
+      "edge_prozent": 6.0,
+      "faire_quote": 1.62,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +54%). Frankfurt 2.3 Tore/Spiel offensiv-Rate, Koeln 1.5 - erwartete Toranzahl 3.5+. Preview empfiehlt Ueber 3.5 - wir bleiben auf Ueber 2.5 konservativ. 1.5% Kasse = 15 EUR.",
+      "rang": 3,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Nur 1 Tor im Spiel (1:0 Frankfurt).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "cot-nur-2",
+      "spiel_id": "2026-10-16-cot-nur",
+      "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.5,
+      "edge_prozent": 7.0,
+      "faire_quote": 1.4,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Wincomparator sieht 83% BTTS-Wahrscheinlichkeit, Preview-Konsens @ 1.36-1.50. 1.5% Kasse = 15 EUR.",
+      "rang": 4,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.5,
+      "kommentar": "BTTS: Butler 56' + Mkrtchyan 79' - beide Teams getroffen.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "fra-koe-3",
+      "spiel_id": "2026-10-16-fra-koe",
+      "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Eintracht Frankfurt oder Remis",
+      "quote": 1.4,
+      "edge_prozent": 4.0,
+      "faire_quote": 1.33,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 10.0,
+      "begruendung": "Markt-Goldgrube Doppelte Chance (ROI +40%). Frankfurt-Heim strukturell Favorit trotz Verletzungs-Chaos, Koeln-Sieg nur ~29% Buchmacher-Linie. 1% Kasse = 10 EUR.",
+      "rang": 5,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.4,
+      "kommentar": "DC 1X: Frankfurt-Sieg 1:0 - Edge voll ausgezahlt.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "cot-nur-3",
+      "spiel_id": "2026-10-16-cot-nur",
+      "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.73,
+      "edge_prozent": 6.0,
+      "faire_quote": 1.63,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 10.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +54%). Beide Teams offensiv-angelegt, Preview 70% Wahrscheinlichkeit. 1% Kasse = 10 EUR.",
+      "rang": 6,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Nur 2 Tore (1:1). Markt-Goldgrube Ueber 2.5 verfehlt.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "fra-koe-4",
+      "spiel_id": "2026-10-16-fra-koe",
+      "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
+      "kategorie": "wackel",
+      "markt": "Sieg Eintracht Frankfurt (90 Min)",
+      "quote": 1.95,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.89,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Direkter Sieg-Tipp mit 2:0-Insurance (Bundesliga + Sieg = greift). Edge knapp wegen Verletzungs-Krise, deshalb Wackel ehrlich. 0.5% Kasse = 5 EUR.",
+      "rang": 7,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.95,
+      "kommentar": "Direkter Sieg-Tipp: Frankfurt 1:0. 2:0-Insurance nicht noetig (Sieg direkt).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "lem-tou-1",
+      "spiel_id": "2026-10-16-lem-tou",
+      "spiel_label": "Le Mans - Toulouse",
+      "kategorie": "wackel",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.4,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.36,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Zwei untere-Haelfte-Teams der Ligue 1, torarm wahrscheinlich. 0.5% Kasse = 5 EUR Wackel.",
+      "rang": 8,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.4,
+      "kommentar": "Unter 3.5: exakt 3 Tore (0:3) - gerade so durch.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "lem-tou-2",
+      "spiel_id": "2026-10-16-lem-tou",
+      "spiel_label": "Le Mans - Toulouse",
+      "kategorie": "wackel",
+      "markt": "Doppelte Chance Le Mans oder Remis",
+      "quote": 1.55,
+      "edge_prozent": 2.0,
+      "faire_quote": 1.52,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Heimvorteil + Tabellennachbar - Coinflip-nah mit dezimiertem Le-Mans-Kader. 0.5% Kasse = 5 EUR.",
+      "rang": 9,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Toulouse gewann 0:3 - DC 1X Le Mans/Remis verloren.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": 0,
+      "name": "Safe-Kombi 3er",
+      "status": "verloren",
+      "gesamtquote": 3.3,
+      "einsatz_euro": 20.0,
+      "gewinn_euro": -20.0,
+      "beine_status": [
+        {
+          "spiel_id": "2026-10-16-fra-koe",
+          "markt": "Beide Teams treffen",
+          "quote": 1.6,
+          "status": "verloren"
+        },
+        {
+          "spiel_id": "2026-10-16-cot-nur",
+          "markt": "DC X2 (Nuernberg/Remis)",
+          "quote": 1.33,
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-10-16-lem-tou",
+          "markt": "DC 1X (Le Mans/Remis)",
+          "quote": 1.55,
+          "status": "verloren"
+        }
+      ],
+      "kommentar": "Killer-Beine: BTTS Fra-Koe (1:0 Frankfurt zu null) + DC 1X Le Mans (0:3). Nur Nuernberg-Bein hat gehalten."
+    },
+    {
+      "kombi_id": 1,
+      "name": "Balance-Kombi 3er",
+      "status": "verloren",
+      "gesamtquote": 5.9,
+      "einsatz_euro": 8.0,
+      "gewinn_euro": -8.0,
+      "beine_status": [
+        {
+          "spiel_id": "2026-10-16-fra-koe",
+          "markt": "Sieg Frankfurt (90 Min)",
+          "quote": 1.95,
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-10-16-cot-nur",
+          "markt": "Ueber 2.5",
+          "quote": 1.73,
+          "status": "verloren"
+        },
+        {
+          "spiel_id": "2026-10-16-lem-tou",
+          "markt": "BTTS",
+          "quote": 1.75,
+          "status": "verloren"
+        }
+      ],
+      "kommentar": "Sieg-Frankfurt lief, aber Ueber-2.5-Cottbus (1:1) + BTTS-Le-Mans (0:3, LM zu null) killten die Kombi."
+    },
+    {
+      "kombi_id": 2,
+      "name": "Risk-Kombi 3er",
+      "status": "verloren",
+      "gesamtquote": 8.82,
+      "einsatz_euro": 2.5,
+      "gewinn_euro": -2.5,
+      "beine_status": [
+        {
+          "spiel_id": "2026-10-16-fra-koe",
+          "markt": "Remis Fra-Koe",
+          "quote": 4.2,
+          "status": "verloren"
+        },
+        {
+          "spiel_id": "2026-10-16-cot-nur",
+          "markt": "BTTS",
+          "quote": 1.5,
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-10-16-lem-tou",
+          "markt": "Unter 3.5",
+          "quote": 1.4,
+          "status": "gewonnen"
+        }
+      ],
+      "kommentar": "Nur Draw-Fra-Koe (1:0) scheiterte - 2 von 3 Beinen gehalten."
+    },
+    {
+      "kombi_id": 3,
+      "name": "Moonshot-Kombi 3er",
+      "status": "verloren",
+      "gesamtquote": 28.84,
+      "einsatz_euro": 1.0,
+      "gewinn_euro": -1.0,
+      "beine_status": [
+        {
+          "spiel_id": "2026-10-16-fra-koe",
+          "markt": "Ueber 3.5",
+          "quote": 2.3,
+          "status": "verloren"
+        },
+        {
+          "spiel_id": "2026-10-16-cot-nur",
+          "markt": "Remis Cot-Nur",
+          "quote": 3.8,
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-10-16-lem-tou",
+          "markt": "Remis Lem-Tou",
+          "quote": 3.3,
+          "status": "verloren"
+        }
+      ],
+      "kommentar": "Draw-Lotterie: Cottbus-Draw lief (1:1), die anderen zwei (Ueber 3.5 Fra-Koe = 1:0; Remis Lem-Tou = 0:3) brachen die Kombi."
+    }
+  ],
+  "ausgewertet_am": "2026-10-17T06:12:13+00:00"
+}

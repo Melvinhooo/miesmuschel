@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-16",
+  "stand": "2026-10-17",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -572,8 +572,9 @@
       "spieler": "Younes Ebnoutalib",
       "verein": "Eintracht Frankfurt",
       "rolle": "Sturm (Volume-Neuner, 20 Jahre)",
-      "hinweis": "Hattrick am 1. Spieltag 2026/27 gegen Union Berlin (3:3, 10./11./67.). Drittschnellstes Doppelpack an einem Bundesliga-Eroeffnungstag (Opta). Ab jetzt aktiv als Frankfurt-Torschuetze scoutbar.",
-      "quelle": "https://www.bundesliga.com/en/bundesliga/news/younes-ebnoutalib-hat-trick-eintracht-frankfurt-germany-jurgen-klopp-38883"
+      "hinweis": "Hattrick am 1. Spieltag 2026/27 gegen Union Berlin (3:3, 10./11./67.). Drittschnellstes Doppelpack an einem Bundesliga-Eroeffnungstag (Opta). Ab jetzt aktiv als Frankfurt-Torschuetze scoutbar. Update 17.10.2026: Erneut Matchwinner (77' zum 1:0 Fra-Koe nach Aseko-Vorlage, erster SGE-Zu-Null-Sieg 2026/27). Volume-Backup-Rolle unter Huetter bestaetigt.",
+      "quelle": "https://www.bundesliga.com/en/bundesliga/news/younes-ebnoutalib-hat-trick-eintracht-frankfurt-germany-jurgen-klopp-38883",
+      "stand": "2026-10-17"
     },
     {
       "spieler": "Noah Atubolu",
@@ -757,6 +758,14 @@
       "hinweis": "Permanent-Transfer 38 Mio Euro + 12 Mio Boni. Vertrag bis 2031. War bereits Leihspieler Jan-Jun 2025 (10 Tore in 22 Spielen), dann Tottenham-Leihe 25/26, jetzt zurueck fix. Trug am 15.10.2026 im Celta-Juve-Spiel (MD2) als Einwechsler das Siegtor zum 1:2 in der Nachspielzeit (90+2). Spallettis 2. Sturm-Option neben Woltemade. Markt-Potenzial: Torschuetze Jederzeit + Last-Minute-Scorer-Pattern.",
       "quelle": "https://www.thestar.com.my/sport/football/2026/08/03/soccer-juventus-sign-kolo-muani-from-psg-on-five-year-deal",
       "stand": "2026-10-16"
+    },
+    {
+      "spieler": "Mohamed Ali Zoma",
+      "verein": "1. FC Nuernberg",
+      "rolle": "Sturm (Toptorjaeger, 21, Burkina Faso)",
+      "hinweis": "FCN-Toptorjaeger 2026/27 (7 Tore in 7 Spielen, Toptorjaeger 2. BL). Vertrag bis 2029 (seit 08/2025 von AlbinoLeffe). AKTUELL: Schulterverletzung aus Cottbus-Spiel 16.10.2026 (Anfangsphase raus) - Status fuer Folge-Spiele bis zur Rueckkehr live pruefen; Torschuetzen-Jederzeit-Markt bis Comeback NICHT setzen. Backup-Volume ist Styopa Mkrtchyan (traf 79' gegen Cottbus zum 1:1).",
+      "quelle": "https://ran.joyn.de/sports/fussball/2-bundesliga/mohamed-ali-zoma-beim1-fc-nuernberg-aufstiegsgarant-oder-rekord-transfer-fuer-klose-und-co-168352",
+      "stand": "2026-10-17"
     }
   ],
   "trainer_2026_27": [

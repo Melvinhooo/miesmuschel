@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-10-16T06:28:39+00:00",
+  "letzte_berechnung": "2026-10-17T06:17:56+00:00",
   "gesamt": {
     "tipps": 272,
     "gewonnen": 142,
@@ -2708,6 +2708,231 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-10-16",
+      "gesamt": {
+        "tipps": 9,
+        "gewonnen": 5,
+        "verloren": 4,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 9.0,
+        "netto": 7.58,
+        "trefferquote": 55.6,
+        "roi_prozent": 84.2
+      },
+      "spiele": [
+        {
+          "id": "2026-10-16-fra-koe",
+          "liga": "Bundesliga",
+          "heim": "Eintracht Frankfurt",
+          "gast": "1. FC Koeln",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.6,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "BTTS: Koeln traf nicht, Frankfurt zu null (1:0 durch Ebnoutalib 77')."
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.72,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Nur 1 Tor im Spiel (1:0 Frankfurt)."
+            },
+            {
+              "markt": "Doppelte Chance Eintracht Frankfurt oder Remis",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.4,
+              "kommentar": "DC 1X: Frankfurt-Sieg 1:0 - Edge voll ausgezahlt."
+            },
+            {
+              "markt": "Sieg Eintracht Frankfurt (90 Min)",
+              "quote": 1.95,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.95,
+              "kommentar": "Direkter Sieg-Tipp: Frankfurt 1:0. 2:0-Insurance nicht noetig (Sieg direkt)."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-16-cot-nur",
+          "liga": "2. Bundesliga",
+          "heim": "Energie Cottbus",
+          "gast": "1. FC Nuernberg",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Nuernberg oder Remis",
+              "quote": 1.33,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.33,
+              "kommentar": "DC X2: Remis 1:1 - Markt-Goldgrube DC X2 schlaegt ein trotz Zoma-Ausfall."
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.5,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.5,
+              "kommentar": "BTTS: Butler 56' + Mkrtchyan 79' - beide Teams getroffen."
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.73,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Nur 2 Tore (1:1). Markt-Goldgrube Ueber 2.5 verfehlt."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-16-lem-tou",
+          "liga": "Ligue 1",
+          "heim": "Le Mans FC",
+          "gast": "Toulouse FC",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Unter 3.5 Tore",
+              "quote": 1.4,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.4,
+              "kommentar": "Unter 3.5: exakt 3 Tore (0:3) - gerade so durch."
+            },
+            {
+              "markt": "Doppelte Chance Le Mans oder Remis",
+              "quote": 1.55,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Toulouse gewann 0:3 - DC 1X Le Mans/Remis verloren."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi 3er",
+          "kategorie": "safe",
+          "gesamtquote": 3.3,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Nuernberg oder Remis (Doppelte Chance)",
+              "quote": 1.33,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Le Mans oder Remis (Doppelte Chance)",
+              "quote": 1.55,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi 3er",
+          "kategorie": "balance",
+          "gesamtquote": 5.9,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Eintracht Frankfurt (90 Min)",
+              "quote": 1.95,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.73,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risk-Kombi 3er",
+          "kategorie": "risk",
+          "gesamtquote": 8.82,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Remis Frankfurt - Koeln",
+              "quote": 4.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 3.5 Tore",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi 3er",
+          "kategorie": "moonshot",
+          "gesamtquote": 28.84,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Über 3.5 Tore",
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Remis Cottbus - Nuernberg",
+              "quote": 3.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Remis Le Mans - Toulouse",
+              "quote": 3.3,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-10-15",
       "gesamt": {
