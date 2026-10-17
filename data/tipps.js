@@ -1,216 +1,524 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
-  "datum": "2026-10-16",
-  "erstellt_am": "2026-10-16T14:30:00+02:00",
-  "hinweis": "Watchdog-Recovery (14:30): Mo-Fr-Hauptroutine um 13:30 hat nichts geliefert. Nach Laenderspiel-Pause geht BL + 2.BL + Ligue 1 wieder los - 3 Fussball-Spiele im Zeitfenster (Freitags-Programm). Kein Supercup, keine CL/EL-Spieltage. Kasse 1000 EUR, Stufe 1 (1-2% Einzel, Kombis gedeckelt). Fokus: Frankfurt-Koeln als einziges BL-Spiel + 1 Markt-Goldgrube (Ueber 2.5 / DC X2) in jedem Spiel.",
+  "datum": "2026-10-17",
+  "erstellt_am": "2026-10-17T10:15:00+02:00",
+  "hinweis": "Sa 17.10. - voller Weekend-Slate zum ersten Mal seit Laenderspiel-Pause: BL 6. Spieltag (Topspiele Bayern-Leipzig 18:30 + Union-BVB 15:30, dazu Leverkusen-Freiburg 15:30), PL Matchday 7 (Everton-Chelsea 13:30 Early-Kick, Brentford-Liverpool 16:00), LaLiga Jornada 9 (Betis-Barca 18:30 La Cartuja), Serie A Giornata 7 (Bologna-Inter 18:00) und Ligue 1 Journee 7 (Strasbourg-PSG 17:15). Kasse 1000 EUR, Stufe 1 (saisoneigener Edge noch nicht erreicht fuer Stufe 2 - 30d-ROI < +5%). Markt-Goldgruben weiter aktiv: DC X2, Doppelte Chance, Ueber 2.5 Tore (Reality-Check Lesson 10-17-4: Ueber 2.5 downgraden wenn Preview-Narrativ-Flaute). Fokus: Favoriten-DC + Torschuetzen-Volumen; keine Spieler-Tipps auf schon gewechselte Namen.",
   "spiele": [
     {
-      "id": "2026-10-16-fra-koe",
-      "liga": "Bundesliga",
-      "heim": "Eintracht Frankfurt",
-      "gast": "1. FC Koeln",
-      "anstoss": "2026-10-16T20:30:00+02:00",
-      "stadion": "Deutsche Bank Park, Frankfurt",
+      "id": "2026-10-17-eve-che",
+      "liga": "Premier League 2026/27 - Matchweek 7",
+      "heim": "Everton FC",
+      "gast": "Chelsea FC",
+      "anstoss": "2026-10-17T13:30:00+02:00",
+      "stadion": "Hill Dickinson Stadium, Liverpool",
       "saison_kontext": {
-        "parallel_heim": "keine - Frankfurt hat 2026/27 keinen Europapokal (2025/26 Vize-Platz 6 verpasst via 2:2 Schlusstag, keine CL/EL/Conference-Phase)",
-        "parallel_gast": "keine - Aufsteiger 2026/27, kein Europapokal",
-        "saisonziel_heim": "nach 4 Spielen 5 Pkt (1S/2U/1N) + 6:0-Debakel bei Leipzig (10.10.) - CL-Quali-Hoffnung bereits deutlich entfernt, aber Fuss im Mittelfeld",
-        "saisonziel_gast": "nach 4 Spielen 4 Pkt (13.), 2:1 bei Gladbach (11.10.) als jueungster Erfolg - Klassenerhalt-Modus, interim Baumgart-System",
-        "motivations_asymmetrie": "Frankfurt mit Druck nach 6:0-Schock, aber Verletzungs-Krise im Angriff (Kalimuendo/Knauff/Theate/Kristensen OUT, Burkardt unklar). Koeln mit Rueckenwind und Rotations-Freiraum (keine europaeische Doppelbelastung). Buchmacher sehen Frankfurt knapp vorn (~1.95), aber kein Rout-Favorit. Coinflip-nah mit Edge zu Toren.",
-        "recovery_heim": "6 Tage seit 0:6 bei Leipzig; grosser Teil des Sturms OUT",
-        "recovery_gast": "5 Tage seit 2:1 vs Gladbach - frisch, keine Vollrotation",
+        "parallel_heim": "keine - Everton 2026/27 ohne Europapokal",
+        "parallel_gast": "Conference League Phase laeuft parallel (Chelsea Conference-Teilnehmer 2026/27), MD2 war 02.10. - Mittwoch kein CL/EL fuer Chelsea, Dienstag auch nicht - keine Belastung aus dieser Woche",
+        "saisonziel_heim": "Mittelfeld-Konsolidierung, Early-Kick-Pattern unguenstig (Hill-Dickinson-Debuet-Saison), bisher ~8-10 Pkt nach 6 Spielen (Mittelfeld)",
+        "saisonziel_gast": "Top-4-Rueckkehr, bisher ~14 Pkt nach 6 Spielen, Enzo Fernandez-Abgang (zu Man City) Mittelfeld-Schwaechung, Rogers (von Villa) als Umbau-Impuls",
+        "motivations_asymmetrie": "Chelsea Favorit (Buchmacher ~1.75), aber Everton zuhause im neuen Stadion motiviert; Early-Kick-Trip-North fuer Londoner oft zaeh. Edge auf Chelsea aber real.",
+        "recovery_heim": "7 Tage seit Spieltag 6 (keine Mittwochsbelastung in dieser Woche)",
+        "recovery_gast": "7 Tage seit Spieltag 6 (keine Mittwochsbelastung in dieser Woche)",
         "quellen": [
-          "https://www.getfootballnewsgermany.com/2026/eintracht-frankfurt-vs-1-fc-koln-team-news-and-predicted-line-ups/",
-          "https://www.sportsmole.co.uk/football/eintracht-frankfurt/preview/frankfurt-vs-fc-koln-prediction-team-news-lineups_606886.html",
-          "https://thefootballfaithful.com/eintracht-frankfurt-vs-fc-koln-prediction-betting-tips-16-10-2026/",
-          "https://www.sportytrader.com/en/betting-tips/eintracht-frankfurt-koln-379258/",
-          "https://www.getfootballnewsgermany.com/2026/eintracht-frankfurts-injury-crisis-worsens-with-rasmus-kristensen-sidelined/"
+          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
+          "https://www.fifplay.com/premier-league-2026-2027-matchday-7/",
+          "https://www.101greatgoals.com/football/premier-league/premier-league-matches-on-tv-october-november-channels-live-online-streams-kick-off-times-schedule/"
         ]
       },
       "news": [
-        "Frankfurt kommt vom 0:6 bei RB Leipzig und ist in einer Verletzungs-Krise im Angriff: Kalimuendo (Schulter, lange raus), Kristensen (Knoechel-OP, moeglicher Saison-OUT), Theate (Meniskus, ~1 Monat), Knauff (Bauch-OP) - Burkardt-Comeback laut Preview unklar.",
-        "Koeln hat am letzten Spieltag 2:1 bei Gladbach gewonnen und zieht mit 4 Pkt (13.) knapp an Frankfurt vorbei, hat aber auch Ausfaelle: Huebers, Kilian, Schmied aus der Defensive; Martel gesperrt.",
-        "Keine europaeische Doppelbelastung - beide Teams bauen voll auf diese Partie.",
-        "Buchmacher-Konsens: Frankfurt-Sieg 1.91-1.99, Draw ~4.20, Koeln ~3.45 (Sportytrader). Haupttipp mehrerer Preview-Seiten: Ueber 2.5 bzw. 3.5 Tore wegen Defensiv-Krisen beider Teams.",
+        "Everton kommt vom Spieltag-6-Auftritt (Hull-Everton 11.10.), ins neue Hill Dickinson Stadium gezogen - Early-Kick-Last unguenstig.",
+        "Chelsea-Transfer-Mix bisher gemischt (Enzo Fernandez an Man City abgegeben, Morgan Rogers von Villa geholt, Nicolas Jackson zu Villa).",
+        "TNT-Sports Early-Kick 12:30 UK = 13:30 Berlin - 'Lunch-Game' statistisch leicht Underdog-freundlich.",
+        "Chelsea favorisiert (~1.75), aber Chelsea-Early-Kick-Auswaerts hat historische Hitrate < 50%.",
+        "2:0-Insurance greift nicht (Premier League, bet365 nur BL + CL)."
+      ],
+      "tipps": [
+        {
+          "id": "eve-che-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Chelsea oder Remis",
+          "quote": 1.33,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.27,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance (ROI +40%, Hitrate 57.9%). Chelsea solide hoeher gewertet, aber Everton zuhause im neuen Stadion kein Rout-Opfer - DC Chelsea statt direkter Sieg der sichere Weg. Lesson Early-Kick-Chelsea-Auswaerts: Nicht als SAFE, sondern VALUE. 2% Kasse = 20 EUR."
+        },
+        {
+          "id": "eve-che-2",
+          "kategorie": "value",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.4,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.34,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Early-Kick + beide Teams defensiv solide; Chelsea-Attack ohne Jackson weniger uebergriffig, Everton zuhause strukturiert - 3+ Tore vorhanden, 4+ aber unwahrscheinlich. 1.5% Kasse = 15 EUR."
+        },
+        {
+          "id": "eve-che-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Markt-Goldgrube BTTS tendiert aktuell leicht negativ (Reality-Check); 50/50 - Everton kaum verwundbar, aber Chelsea-Backline mit Enzo-Abgang anfaellig. 0.5% Kasse Wackel-Einsatz."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-17-lev-fre",
+      "liga": "Bundesliga 2026/27 - 6. Spieltag",
+      "heim": "Bayer 04 Leverkusen",
+      "gast": "SC Freiburg",
+      "anstoss": "2026-10-17T15:30:00+02:00",
+      "stadion": "BayArena, Leverkusen",
+      "saison_kontext": {
+        "parallel_heim": "Europa League Phase - Leverkusen MD2 am 15.10. (Lech Poznan ausw.), naechstes MD3 am 23.10. - keine akute Doppelbelastung in dieser Woche, aber EL-Dienstag/Donnerstag-Rhythmus etabliert",
+        "parallel_gast": "Conference League Phase - Freiburg MD1 am 15.10. gegen Jablonec gespielt (zuhause), MD2 23.10. - naechste Woche parallel, diese Woche frisch",
+        "saisonziel_heim": "Top-4-CL-Quali, Leverkusen 2025/26 Platz 3, bisher 2026/27 solider Start (~11 Pkt nach 5 Spielen), neue Zugaenge Doue (Strasbourg) + Moreira (Lyon) + Gutierrez (Napoli)",
+        "saisonziel_gast": "EL/Conference-Quali, Freiburg 2025/26 Platz 5, Mittelfeld-stabil (~8 Pkt nach 5), Atubolu (Keeper) leihweise zu Frankfurt - Keeper-Umbau",
+        "motivations_asymmetrie": "Leverkusen Heim-Favorit (~1.70), Freiburg kommt aus Conference-Einsatz Mittwoch - leichte Rotations-Last, aber heute wieder Startelf. Klassen-Edge real, kein Coinflip.",
+        "recovery_heim": "2 Tage seit EL-MD2 bei Lech Poznan (15.10.) - knapp, aber Rotations-Reserve vorhanden",
+        "recovery_gast": "2 Tage seit Conference-MD1 vs Jablonec (15.10. Heim) - frisch, kein Reise-Stress",
+        "quellen": [
+          "https://www.hessenschau.de/sport/ergebnisse-tabellen/fussball-1bl100~_matchday-6.html",
+          "https://www.kicker.de/bayer-leverkusen/aufstellung/bundesliga/2026-27",
+          "https://www.transfermarkt.de/sc-freiburg/startseite/verein/60"
+        ]
+      },
+      "news": [
+        "Leverkusen Heim-Favorit nach stabilem Saisonstart; EL-Spiel bei Lech Poznan Donnerstag - Mittwoch/Donnerstag-Spieler mussten pausieren.",
+        "Freiburg Conference-League-MD1 zuhause gegen Jablonec gewonnen - frisch zurueck, keine Reise.",
+        "Neu bei Leverkusen 2026/27: Doue (Strasbourg), Moreira (Lyon), Gutierrez (Napoli). Grimaldo zu Atletico Madrid abgegeben.",
         "2:0-Insurance greift (Bundesliga + direkter Sieg-Tipp)."
       ],
       "tipps": [
         {
-          "id": "fra-koe-1",
-          "kategorie": "safe",
+          "id": "lev-fre-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Leverkusen oder Remis",
+          "quote": 1.22,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.17,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Markt-Goldgrube DC (ROI +40%, Hitrate 57.9%). Leverkusen zuhause gegen Freiburg strukturell klarer Favorit; DC absichert gegen Mittwochs-EL-Nachwehen. Pflicht-Profil Heim-Favorit erfuellt. 2% Kasse = 20 EUR."
+        },
+        {
+          "id": "lev-fre-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.7,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +54%, Hitrate 54.2%). Leverkusen durchschnittlich 2.1 Tore/Heimspiel 2025/26 fortgesetzt, Freiburg Auswaerts offen 1.3+. Erwartungswert ~3 Tore. Preview-Narrativ nicht defensiv-angeschlagen (Lesson 10-17-1 Trigger nicht aktiv). 1.5% Kasse = 15 EUR."
+        },
+        {
+          "id": "lev-fre-3",
+          "kategorie": "wackel",
+          "markt": "Sieg Leverkusen (90 Min)",
+          "quote": 1.57,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.52,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Direkter Sieg-Tipp Leverkusen mit 2:0-Insurance (BL + Sieg = greift). Freiburg aber unangenehm, Edge kleiner als DC suggeriert. 0.5% Kasse Wackel."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-17-uni-bvb",
+      "liga": "Bundesliga 2026/27 - 6. Spieltag",
+      "heim": "1. FC Union Berlin",
+      "gast": "Borussia Dortmund",
+      "anstoss": "2026-10-17T15:30:00+02:00",
+      "stadion": "Stadion An der Alten Foersterei, Berlin",
+      "saison_kontext": {
+        "parallel_heim": "keine - Union 2026/27 ohne Europapokal",
+        "parallel_gast": "Champions League Phase - BVB MD2 am 14.10. bei Bodo/Glimt (verloren, Debakel), MD3 21./22.10. - akute Nach-CL-Belastung",
+        "saisonziel_heim": "Mittelfeld, Union 2025/26 Platz 10, 2026/27 bisher ~5-7 Pkt (schwankend), kein Europa-Druck",
+        "saisonziel_gast": "Top-4 CL-Quali, BVB 2025/26 Platz 4, 2026/27 ~9-11 Pkt (BL), aber CL-Krise nach 0:? bei Bodo",
+        "motivations_asymmetrie": "BVB Buchmacher-Favorit (~1.95), aber frisch aus CL-Debakel bei Bodo/Glimt (14.10.) - 3 Tage Erholung, Rotations-Druck. Union zuhause unangenehm, Alte-Foersterei-Heimfestung. Edge Richtung Coinflip-nah.",
+        "recovery_heim": "7 Tage seit Spieltag 5 (Union im Laenderspiel-Fenster-Pause), frisch",
+        "recovery_gast": "3 Tage seit CL-Debakel bei Bodo/Glimt (14.10.) - knapp, Rotation wahrscheinlich",
+        "quellen": [
+          "https://www.hessenschau.de/sport/ergebnisse-tabellen/fussball-1bl100~_matchday-6.html",
+          "https://www.kicker.de/union-berlin/aufstellung/bundesliga/2026-27",
+          "https://www.transfermarkt.de/borussia-dortmund/startseite/verein/16"
+        ]
+      },
+      "news": [
+        "BVB kommt vom CL-MD2-Debakel bei Bodo/Glimt (14.10.) - Niederlage, Diskussionen um Rotations-Strategie.",
+        "Union zuhause 2026/27 bisher stabil, Alte Foersterei weiter Heimfestung mit laerm.",
+        "Guirassy weiter BVB-Torjaeger (noch kein Wechsel laut kader_wechsel_2026.json), Konstantelias (PAOK) + Veerman (PSV) + Karetsas (Genk) als Neue - noch Anpassungsphase.",
+        "2:0-Insurance greift bei direktem Sieg-Tipp (BL).",
+        "Preview-Narrativ: BVB defensiv angeschlagen nach Bodo - Lesson HR10-17-1 aktiv -> KEIN Ueber-2.5-Tipp trotz Favoritengewichtung."
+      ],
+      "tipps": [
+        {
+          "id": "uni-bvb-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Union oder Remis",
+          "quote": 1.75,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.63,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Markt-Goldgrube DC X2/1X-Logik: BVB mit 3-Tage-Rhythmus nach CL-Debakel bei Bodo - Rotation wahrscheinlich, Alte Foersterei Heimfestung. Union zuhause ohne Europa-Belastung. DC Union ist strukturell stabil, Buchmacher-Linie bei 1.75 schon generoes gegen 1.95 Sieg-BVB. 2% Kasse = 20 EUR."
+        },
+        {
+          "id": "uni-bvb-2",
+          "kategorie": "value",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.45,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.39,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Nach CL-Debakel BVB vorsichtig, Union defensiv diszipliniert zuhause - Erwartungswert ~2.3 Tore. Lesson 10-17-1: Preview-Narrativ beide Teams angeschlagen -> Ueber-2.5 vermieden, Unter 3.5 als Puffer. 1.5% Kasse = 15 EUR."
+        },
+        {
+          "id": "uni-bvb-3",
+          "kategorie": "wackel",
           "markt": "Beide Teams treffen",
+          "quote": 1.7,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "BTTS 50/50 - Union zuhause fast immer trifft, BVB offensiv noch bei Konstantelias/Guirassy abhaengig. Wackel-Einsatz 0.5% = 5 EUR."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-17-bay-rbl",
+      "liga": "Bundesliga 2026/27 - 6. Spieltag",
+      "heim": "FC Bayern Muenchen",
+      "gast": "RB Leipzig",
+      "anstoss": "2026-10-17T15:30:00+02:00",
+      "stadion": "Allianz Arena, Muenchen",
+      "saison_kontext": {
+        "parallel_heim": "Champions League Phase - Bayern MD2 am 13.10. bei Viking FK auswaerts, MD3 21./22.10. - laufende Doppelbelastung aber Rotations-Reserve breit",
+        "parallel_gast": "keine - Leipzig 2026/27 ohne Europapokal (nach Pokalsieg Vorsaison, aber Liga-Platz 6-7 letzte Saison)",
+        "saisonziel_heim": "Meisterschaft, Bayern 2025/26 Champion, 2026/27 ~13-15 Pkt nach 5 Spielen Spitze, aktive Zugaenge Saibari (PSV) + Brown (Frankfurt)",
+        "saisonziel_gast": "Top-4-CL-Quali, Leipzig Pokalsieger letzte Saison, 2026/27 Mittelfeld-Konsolidierung, Nkunku als Neuzugang (Leihe von Milan), Esteve (Burnley), Reitz (Gladbach)",
+        "motivations_asymmetrie": "Bayern Heim-Favorit haushoch (~1.35-1.45), Leipzig ohne europaeische Belastung frisch - aber Bayern-Allianz-Arena Festung, Kane-Form historisch gegen Leipzig stark. Klassen-Edge real + Form-Edge, kein Fairplay.",
+        "recovery_heim": "4 Tage seit CL-MD2 bei Viking FK (13.10. auswaerts) - angemessen, Rotations-Reserve bei Bayern breit",
+        "recovery_gast": "7 Tage seit Spieltag 5 - frisch, aber Nkunku-Einbindung noch neu",
+        "quellen": [
+          "https://www.t-online.de/sport/live-ticker/fussball/bundesliga/sdc_fm-59333/bayern-leipzig-bundesliga-im-liveticker.html",
+          "https://www.kicker.de/fc-bayern-muenchen/aufstellung/bundesliga/2026-27",
+          "https://www.transfermarkt.de/rb-leipzig/startseite/verein/23826"
+        ]
+      },
+      "news": [
+        "Bayern Heim-Topspiel; nach CL-Sieg bei Viking FK (13.10.) breiter Rotations-Pool. Kane-Form gegen Leipzig historisch stark.",
+        "Leipzig frisch (keine Woche-Belastung), Nkunku (Leihe von Milan) als Backup, Reitz (Gladbach) + Esteve (Burnley) als Neuzugaenge.",
+        "Allianz-Arena-Heimfestung Bayern 2026/27 bisher ungeschlagen zuhause.",
+        "Keine CL-Belastung aktuelle Woche fuer Leipzig - Gegengewicht zum Klassen-Edge.",
+        "2:0-Insurance greift (BL + direkter Sieg-Tipp)."
+      ],
+      "tipps": [
+        {
+          "id": "bay-rbl-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Bayern oder Remis",
+          "quote": 1.1,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.07,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Markt-Goldgrube DC, Bayern zuhause gegen Leipzig haushoher Favorit. DC statt direkter Sieg weil Leipzig durchaus mal Remis holt (Niveau 2. Buli-Spitzengruppe). 2% Kasse = 20 EUR."
+        },
+        {
+          "id": "bay-rbl-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.4,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.33,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +54%). Bayern durchschnittlich 2.8 Tore/Heim 2026/27, Leipzig ohne CL-Belastung offen - Erwartungswert ~3.5. Preview-Narrativ nicht defensiv-angeschlagen. 1.5% Kasse = 15 EUR."
+        },
+        {
+          "id": "bay-rbl-3",
+          "kategorie": "wackel",
+          "markt": "Sieg Bayern (90 Min)",
+          "quote": 1.4,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.37,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Direkter Sieg Bayern mit 2:0-Insurance (BL + Sieg = greift). Wackel wegen Leipzig frisch + Bayern-Mittwoch-Rotation. 0.5% Kasse = 5 EUR."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-17-bre-liv",
+      "liga": "Premier League 2026/27 - Matchweek 7",
+      "heim": "Brentford FC",
+      "gast": "Liverpool FC",
+      "anstoss": "2026-10-17T16:00:00+02:00",
+      "stadion": "Gtech Community Stadium, London",
+      "saison_kontext": {
+        "parallel_heim": "keine - Brentford 2026/27 ohne Europapokal",
+        "parallel_gast": "Champions League Phase - Liverpool MD2 am 14.10. bei LASK Linz (auswaerts), MD3 21./22.10. - Rotations-Rhythmus etabliert",
+        "saisonziel_heim": "Mittelfeld-Konsolidierung, Wissa-Abgang zu Newcastle (01.09.2025) verdaut, 2026/27 ~7-9 Pkt nach 6, Gtech-Heimstaerke",
+        "saisonziel_gast": "Titel-Rueckkehr, Liverpool 2025/26 Champion, 2026/27 ~15-17 Pkt nach 6 (Spitze), Isak-Neuzugang (Newcastle) + Barcola (PSG) nach Salah-Abgang",
+        "motivations_asymmetrie": "Liverpool Favorit (~1.60), aber Mittwoch-Nach-CL (LASK Linz-Reise), Brentford zuhause unangenehm, Barcola-Isak-Nkunku-Mix (Barcola) noch Einspielzeit. Edge Liverpool real, aber nicht haushoch.",
+        "recovery_heim": "7 Tage seit Spieltag 6, frisch, kein Reise-Stress",
+        "recovery_gast": "3 Tage seit CL-MD2 bei LASK Linz (14.10.) - knapp, Rotation moeglich",
+        "quellen": [
+          "https://www.fifplay.com/premier-league-2026-2027-matchday-7/",
+          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
+          "https://www.transfermarkt.de/fc-liverpool/startseite/verein/31"
+        ]
+      },
+      "news": [
+        "Liverpool kommt vom CL-MD2 bei LASK Linz (14.10., auswaerts). 3 Tage Pause - Rotation Rhythmus.",
+        "Brentford ohne Wissa (zu Newcastle 09/2025) aber mit stabilem Heim-Fundament, Gtech schwer zu knacken.",
+        "Liverpool Transfer-Impuls 2026 Sommer: Isak (von Newcastle) + Barcola (von PSG), Salah-Abgang (noch zu bestaetigen welcher Klub).",
+        "2:0-Insurance greift NICHT (Premier League, nur BL + CL direkte Sieg-Tipps).",
+        "Buchmacher-Konsens: Liverpool-Sieg ~1.60, DC X2 ~1.25, Draw ~4.0."
+      ],
+      "tipps": [
+        {
+          "id": "bre-liv-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Liverpool oder Remis",
+          "quote": 1.25,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.19,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Markt-Goldgrube DC. Liverpool Favorit aber nach LASK-Reise mit Rotations-Rhythmus - DC statt Sieg absichert. Gtech-Heimstaerke Brentford nicht zu unterschaetzen. 2% Kasse = 20 EUR."
+        },
+        {
+          "id": "bre-liv-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
           "quote": 1.6,
           "edge_prozent": 5.0,
           "faire_quote": 1.52,
           "empfohlener_einsatz_prozent": 1.5,
           "einsatz_euro": 15.0,
-          "begruendung": "Beide Defensiven aktuell lecker: Frankfurt hat gegen Leipzig 0:6 kassiert und baut ohne Theate/Kristensen um; Koeln hat am letzten Spieltag Hoeher-Niveau-Gegner 2:1 geschlagen aber selbst 1 Tor kassiert. Preview-Konsens: Ueber 3.5 top Tipp -> BTTS folgt. Markt-Goldgrube ist zwar Torschuetzen Jederzeit, aber ohne verifizierte Form-Daten pro Spieler bleibt BTTS der sauberere Weg. Reality-Check nach_markt_typ BTTS 2026/27 solide. 2% Kasse -> 20 EUR... hier bewusst 1.5% -> 15 EUR da nicht Liga-Goldgrube. Bei bet365 live pruefen."
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +54%). Liverpool-Attack mit Isak/Barcola/Elite-Rezept offen, Brentford zuhause auch offensiv - Erwartungswert ~3+ Tore. Preview-Narrativ offene Partie. 1.5% Kasse = 15 EUR."
         },
         {
-          "id": "fra-koe-2",
-          "kategorie": "value",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.72,
-          "edge_prozent": 6.0,
-          "faire_quote": 1.62,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube (ROI +54%, Hitrate 54.2% laut markt_goldgruben.json). Zwei defensiv angeschlagene Teams, beide ohne europaeische Belastung = hohe Intensitaet, keine Verwaltung. Frankfurt 2.3 Tore/Spiel Attack-Rate (Football Faithful), Koeln 1.5 - zusammen ~3.8 erwartet. Sportytrader empfiehlt sogar Ueber 3.5 - wir bleiben konservativ auf Ueber 2.5. 1.5% Kasse = 15 EUR."
-        },
-        {
-          "id": "fra-koe-3",
-          "kategorie": "value",
-          "markt": "Doppelte Chance Eintracht Frankfurt oder Remis",
-          "quote": 1.4,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.33,
-          "empfohlener_einsatz_prozent": 1.0,
-          "einsatz_euro": 10.0,
-          "begruendung": "Markt-Goldgrube Doppelte Chance (ROI +40%, Hitrate 57.9%). Frankfurt-Heim gegen Koeln strukturell Favorit trotz Verletzungs-Chaos, Buchmacher-Linie bei 1X@~1.40. 2:0-Insurance zusaetzlich im Hintergrund (greift bei direktem Sieg-Tipp, hier nicht - aber Frankfurt kommt bei Rueckstand oft zurueck zuhause). Vorsicht: Koeln-Sieg nicht ausgeschlossen (3.45 bedeutet immer noch ~29% Wahrscheinlichkeit). 1% Kasse = 10 EUR."
-        },
-        {
-          "id": "fra-koe-4",
+          "id": "bre-liv-3",
           "kategorie": "wackel",
-          "markt": "Sieg Eintracht Frankfurt (90 Min)",
-          "quote": 1.95,
+          "markt": "Beide Teams treffen",
+          "quote": 1.65,
           "edge_prozent": 3.0,
-          "faire_quote": 1.89,
+          "faire_quote": 1.6,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 5.0,
-          "begruendung": "Direkter Sieg-Tipp mit 2:0-Insurance (Bundesliga + Sieg-Markt = greift). Edge aber knapp wegen Verletzungs-Krise - Frankfurt kann auch den Punch nicht landen und das 6:0 zieht psychologisch nach. Wackel ist die ehrliche Kategorie. 0.5% Kasse = 5 EUR Wackel-Einsatz."
+          "begruendung": "BTTS wackelig: Brentford trifft zuhause fast immer, Liverpool-Attack haeufig uebersteht ohne Gegentor nicht. Reality-Check BTTS leicht negativ aktuell, daher Wackel. 0.5% Kasse = 5 EUR."
         }
       ],
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-10-16-cot-nur",
-      "liga": "2. Bundesliga",
-      "heim": "Energie Cottbus",
-      "gast": "1. FC Nuernberg",
-      "anstoss": "2026-10-16T18:30:00+02:00",
-      "stadion": "LEAG Energie Stadion, Cottbus",
+      "id": "2026-10-17-str-psg",
+      "liga": "Ligue 1 2026/27 - Journee 7",
+      "heim": "RC Strasbourg Alsace",
+      "gast": "Paris Saint-Germain",
+      "anstoss": "2026-10-17T17:15:00+02:00",
+      "stadion": "Stade de la Meinau, Strasbourg",
       "saison_kontext": {
-        "parallel_heim": "keine - Aufsteiger aus der 3. Liga, kein Pokal mehr",
-        "parallel_gast": "keine - 2. Bundesliga Mittelfeld, kein Pokal mehr nach moeglichem Pokal-Aus (hier nicht verifiziert)",
-        "saisonziel_heim": "Klassenerhalt-Modus - Aufsteiger ohne Vorsaison-Edge in dieser Liga",
-        "saisonziel_gast": "Aufstieg-Hoffnung bei starkem Saison-Start (3 Siege aus den ersten 3 Spielen laut Early-Snapshot), aktuelle Form unklar nach Laenderspielpause",
-        "motivations_asymmetrie": "Nuernberg strukturell und tabellarisch deutlich hoeher einzuordnen (Fruhfavorit auf Aufstiegs-Zone), Cottbus hat Heim-Vorteil + Underdog-Energie. Buchmacher-Linie: Nuernberg-Sieg @ 2.00, DC X2 @ 1.33 - der Gast ist leichter Favorit, aber nicht Rout.",
-        "recovery_heim": "nach Laenderspiel-Pause - 2 Wochen Vorbereitungs-Zeit, keine Vollrotation noetig",
-        "recovery_gast": "nach Laenderspiel-Pause - frisch; 2. BL-Spieler bringen keine Nationalmannschafts-Reisen mit",
+        "parallel_heim": "keine - Strasbourg 2026/27 ohne Europapokal",
+        "parallel_gast": "Champions League Phase - PSG MD2 am 14.10. auswaerts bei Man City (verloren), MD3 21./22.10. - akute Rotations-Last",
+        "saisonziel_heim": "Mittelfeld-Konsolidierung, Strasbourg Guela Doue-Abgang (zu Leverkusen) verdaut, ~8 Pkt nach 6 Spielen",
+        "saisonziel_gast": "Titel-Verteidigung, PSG Champion 2025/26, Barcola zu Liverpool abgegeben - Luft im Angriff, Kolo Muani zu Juve. Umbau laeuft.",
+        "motivations_asymmetrie": "PSG Favorit (~1.50), aber nach City-CL-Niederlage (14.10.) psychologisch angeschlagen + Rotation plausibel. Strasbourg zuhause gegen defensiv-angeschlagenen PSG mit real echter Chance. Coinflip-nahes Edge.",
+        "recovery_heim": "7 Tage seit Journee 6, frisch",
+        "recovery_gast": "3 Tage seit CL-Niederlage bei Man City (14.10.) - knapp, Rotation sehr wahrscheinlich",
         "quellen": [
-          "https://www.t-online.de/sport/live-ticker/fussball/2-bundesliga/sdc_fm-59655/cottbus-nuernberg-2-bundesliga-im-liveticker.html",
-          "https://footballpredictions.ai/football-predictions/energie-cottbus-vs-1.-fc-nürnberg-predictions-tips-16-oct-2026/",
-          "https://www.wincomparator.com/de/tipps/energie-cottbus-fc-nurnberg-8596281/",
-          "https://en.wikipedia.org/wiki/2026%E2%80%9327_2._Bundesliga"
+          "https://ligue1.com/en/articles/l1_article_5797-programmations-tv-j6-j7-et-j8-l1-2627",
+          "https://www.livefoot.fr/actualite/ligue-1-programme-tv-complet-de-la-9eme-journee-horaires-et-diffusions.html",
+          "https://www.transfermarkt.de/paris-saint-germain/startseite/verein/583"
         ]
       },
       "news": [
-        "Erstes Pflichtspiel-Duell dieser Saison; Cottbus 2026/27 wieder in Liga 2 nach Aufstieg aus der 3. Liga.",
-        "Nuernberg startete stark (3 Siege in Folge laut Early-Snapshot) - aktuelle Form nach der Laenderspielpause nicht vollstaendig verifizierbar, Aufstiegsgeruecht in der Presse.",
-        "Wincomparator sieht Nuernberg-Sieg mit 53.7%, BTTS Ja mit 83%, Ueber 2.5 mit 70% - konvergent zu footballpredictions.ai (BTTS @ 1.36, Ueber 2.5 @ 1.33, X2 @ 1.33).",
-        "2:0-Insurance greift in der 2. Bundesliga NICHT (nur 1. BL + CL)."
+        "PSG kommt von einer CL-Niederlage bei Man City (14.10.) - viel diskutierter Flop, Rotations-Rhythmus erzwungen.",
+        "Strasbourg ohne Doue (zu Leverkusen) aber mit solidem Heim-Fundament, La Meinau stimmungsvoll.",
+        "PSG hat Barcola (Liverpool) + Kolo Muani (Juve) + Donnarumma (?) im Umbau abgegeben.",
+        "2:0-Insurance greift NICHT (Ligue 1).",
+        "Buchmacher-Konsens: PSG ~1.50, Draw ~4.5, Strasbourg ~5.5."
       ],
       "tipps": [
         {
-          "id": "cot-nur-1",
+          "id": "str-psg-1",
           "kategorie": "value",
-          "markt": "Doppelte Chance Nuernberg oder Remis",
-          "quote": 1.33,
-          "edge_prozent": 8.0,
-          "faire_quote": 1.23,
+          "markt": "Doppelte Chance PSG oder Remis",
+          "quote": 1.2,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.15,
           "empfohlener_einsatz_prozent": 2.0,
           "einsatz_euro": 20.0,
-          "begruendung": "Markt-Goldgrube DC X2 (ROI +54.8%, Hitrate 66.7% - stabilste Markt-Edge im Tool). Nuernberg strukturell und tabellarisch besser, selbst eine Niederlage ist nur mit ~27% Wahrscheinlichkeit auf dem Board. Reality-Check nach_markt_typ: DC X2 unser bester Markt 2026/27. 2% Kasse = 20 EUR. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
-          "_markt_mix_dc_downgrade": true
+          "begruendung": "Markt-Goldgrube DC. PSG trotz Nach-CL-Rhythmus zu stark fuer Strasbourg-Sieg, DC statt direkter Sieg absichert gegen Rotations-Risiko. 2% Kasse = 20 EUR."
         },
         {
-          "id": "cot-nur-2",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen",
-          "quote": 1.5,
-          "edge_prozent": 7.0,
-          "faire_quote": 1.4,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Preview-Konsens BTTS Ja @ 1.36-1.50 je nach Buchmacher; Wincomparator sieht 83% Wahrscheinlichkeit. 2. Bundesliga hat generell hohe BTTS-Hitrate, zwei offensiv angelegte Teams. 1.5% Kasse = 15 EUR."
-        },
-        {
-          "id": "cot-nur-3",
+          "id": "str-psg-2",
           "kategorie": "value",
           "markt": "Über 2.5 Tore",
-          "quote": 1.73,
-          "edge_prozent": 6.0,
-          "faire_quote": 1.63,
-          "empfohlener_einsatz_prozent": 1.0,
-          "einsatz_euro": 10.0,
-          "begruendung": "Markt-Goldgrube Ueber 2.5. Beide Teams in der 2. BL offensiv angelegt, Preview-Prognose 70% Wahrscheinlichkeit. 1% Kasse = 10 EUR."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-16-lem-tou",
-      "liga": "Ligue 1",
-      "heim": "Le Mans FC",
-      "gast": "Toulouse FC",
-      "anstoss": "2026-10-16T20:45:00+02:00",
-      "stadion": "MMArena / Stade Marie-Marvingt, Le Mans",
-      "saison_kontext": {
-        "parallel_heim": "keine - Aufsteiger in Ligue 1, kein Europapokal",
-        "parallel_gast": "keine - Toulouse 2026/27 nicht in europaeischer Konkurrenz",
-        "saisonziel_heim": "Klassenerhalt - 14. Platz mit 6 Pkt nach 6 Spielen (laut Sportsmole-Preview Ligue 1 GW7 PReview)",
-        "saisonziel_gast": "Oberes Mittelfeld - 15. Platz mit 5 Pkt (laut futboltotal), neuer Trainer Jens Berthel Askou seit Sommer 2026",
-        "motivations_asymmetrie": "Erstes Ligue-1-Duell seit mehr als 16 Jahren - zwei Teams aus der unteren Haelfte, keine klare Qualitaets-Trennung. Le Mans mit Heimvorteil aber vielen Ausfaellen (laut Preview mehrere Angreifer angeschlagen), Toulouse frisch nach 2:2 Monaco mit neuem Trainer-Setup. Buchmacher-Konsens: enges Spiel, kein klarer Favorit.",
-        "recovery_heim": "6 Tage seit 1:3-Niederlage bei PSG - Le Mans physisch gefordert",
-        "recovery_gast": "6 Tage seit 2:2 bei Monaco - frisch",
-        "quellen": [
-          "https://www.sportsmole.co.uk/football/le-mans/preview/le-mans-vs-toulouse-prediction-team-news-lineups_606855.html",
-          "https://futboltotal.futbol/partido/le-mans-vs-toulouse-ligue-1-2026-10-16",
-          "https://dicodusport.fr/blog/mercato-toulouse-2026-2027-le-tableau-complet-des-transferts-arrivees-et-departs/",
-          "https://www.livefoot.fr/joueur/jean-vercruysse/actualite/",
-          "https://fc.gradientsports.com/rankings/player/3533075/news"
-        ]
-      },
-      "news": [
-        "Erstes Pflichtspiel-Duell zwischen Le Mans und Toulouse seit ueber 16 Jahren (Sportsmole-Preview).",
-        "Le Mans mit Ausfallliste nach PSG-Spiel: Sidibe (gesperrt), Bourabaa (verletzt), Buades und Colas fraglich - Preview nennt das Team deutlich dezimiert.",
-        "Toulouse unter neuem Trainer Jens Berthel Askou (seit Sommer 2026); frisches 2:2 bei Monaco.",
-        "Tabellennachbarn (14./15.) ohne klaren Favoriten - Coinflip laut Buchmachern.",
-        "2:0-Insurance greift NICHT (Ligue 1 nicht in bet365-DE-Aktion)."
-      ],
-      "tipps": [
-        {
-          "id": "lem-tou-1",
-          "kategorie": "wackel",
-          "markt": "Unter 3.5 Tore",
-          "quote": 1.4,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.36,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Zwei untere-Haelfte-Teams der Ligue 1, kein offensiver Rout erwartbar. Historisch sind Begegnungen in dieser Tabellenregion torarm bis moderat. Als Wackel-Sicherung in der Hoffnung auf max. 3 Tore. 0.5% Kasse = 5 EUR."
-        },
-        {
-          "id": "lem-tou-2",
-          "kategorie": "wackel",
-          "markt": "Doppelte Chance Le Mans oder Remis",
           "quote": 1.55,
-          "edge_prozent": 2.0,
-          "faire_quote": 1.52,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Heimvorteil + Tabellennachbar reicht fuer DC-Edge, aber mit kaputtem Kader kein SAFE. Coinflip-Zone. 0.5% Kasse = 5 EUR Spass-Einsatz."
+          "edge_prozent": 5.0,
+          "faire_quote": 1.47,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5. PSG offensiv weiter spritzig, Strasbourg zuhause mutig - Erwartungswert ~3 Tore. 1.5% Kasse = 15 EUR."
         },
         {
-          "id": "lem-tou-3",
+          "id": "str-psg-3",
           "kategorie": "wackel",
           "markt": "Beide Teams treffen",
           "quote": 1.75,
-          "edge_prozent": 2.0,
-          "faire_quote": 1.72,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.7,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 5.0,
-          "begruendung": "Zwei offensiv maessige Teams - BTTS ist in der Ligue 1 unter Mittelfeld oft Wackel, Preview-Daten geben keine starke Edge. 0.5% Kasse = 5 EUR."
+          "begruendung": "BTTS plausibel: Strasbourg trifft zuhause oft, PSG-Attack trifft (fast) immer. Wackel wegen Rotation. 0.5% Kasse = 5 EUR."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-17-bol-int",
+      "liga": "Serie A 2026/27 - Giornata 7",
+      "heim": "Bologna FC",
+      "gast": "Inter Mailand",
+      "anstoss": "2026-10-17T18:00:00+02:00",
+      "stadion": "Stadio Renato Dall'Ara, Bologna",
+      "saison_kontext": {
+        "parallel_heim": "Europa League Phase - Bologna 2026/27 EL-Teilnehmer, MD2 schon absolviert (15.10. nicht bei Bologna gelistet, Mittwoch frei), aber EL-Rhythmus",
+        "parallel_gast": "Champions League Phase - Inter MD2 am 13.10. zuhause gegen Club Brugge, MD3 21./22.10. - laufende Doppelbelastung",
+        "saisonziel_heim": "Top-6-EL-Quali, Bologna 2025/26 Platz 5, 2026/27 solide ~9 Pkt nach 6",
+        "saisonziel_gast": "Scudetto-Rueckkehr, Inter 2025/26 Platz 2, 2026/27 ~14-16 Pkt nach 6 Spitze",
+        "motivations_asymmetrie": "Inter Favorit (~1.75), aber Mittwoch-CL + Dall'Ara-Trip knifflig. Bologna zuhause schlau - Edge Inter real aber nicht haushoch. Coinflip-nahes Umfeld.",
+        "recovery_heim": "7 Tage seit Giornata 6 (frisch), kein EL-Spiel diese Woche",
+        "recovery_gast": "4 Tage seit CL-MD2 vs Club Brugge (13.10. zuhause) - angemessen",
+        "quellen": [
+          "https://sport.sky.it/statistiche/calcio/serie_a/calendario",
+          "https://www.transfermarkt.de/inter-mailand/startseite/verein/46",
+          "https://www.transfermarkt.de/bologna-fc/startseite/verein/1025"
+        ]
+      },
+      "news": [
+        "Inter solider Saison-Start, Lautaro Martinez weiter Toptorjaeger, Thuram-Rueckkehr nach Pause.",
+        "Bologna Dall'Ara-Heimfestung, 2025/26 Platz 5 wiederholbar.",
+        "Alaba (frei) zu Udinese, keine direkten Bologna-Zugaenge auf dieser Liste.",
+        "2:0-Insurance greift NICHT (Serie A).",
+        "Buchmacher-Konsens: Inter ~1.75, Draw ~3.90, Bologna ~4.20."
+      ],
+      "tipps": [
+        {
+          "id": "bol-int-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Inter oder Remis",
+          "quote": 1.3,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.24,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Markt-Goldgrube DC. Inter Favorit aber Mittwochs-CL + Dall'Ara-Trip wackelig - DC statt direkter Sieg. 2% Kasse = 20 EUR."
+        },
+        {
+          "id": "bol-int-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.67,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5. Inter-Attack mit Lautaro/Thuram konsistent 1.8+ Tore/Spiel, Bologna zuhause offen - Erwartungswert ~3. 1.5% Kasse = 15 EUR."
+        },
+        {
+          "id": "bol-int-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.6,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "BTTS plausibel bei Inter-Attack + Bologna-Heimstaerke. 0.5% Kasse Wackel."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-17-bet-bar",
+      "liga": "LaLiga 2026/27 - Jornada 9",
+      "heim": "Real Betis",
+      "gast": "FC Barcelona",
+      "anstoss": "2026-10-17T18:30:00+02:00",
+      "stadion": "Estadio de La Cartuja, Sevilla",
+      "saison_kontext": {
+        "parallel_heim": "Europa League Phase - Betis MD2 am 14.10. zuhause gegen Porto, MD3 23.10. - laufende Belastung",
+        "parallel_gast": "Champions League Phase - Barca MD2 am 13.10. bei Galatasaray (auswaerts), MD3 21./22.10. - 4 Tage Pause bis heute, Rotation moeglich",
+        "saisonziel_heim": "Top-6-EL-Quali, Betis 2025/26 Platz 6, 2026/27 ~16 Pkt nach 7 (Platz 3 laut Preview)",
+        "saisonziel_gast": "Titel-Verteidigung, Barca 2025/26 Champion, 2026/27 ~21 Pkt nach 7 (Platz 1), Jesus-Zugang (Arsenal) + Adeyemi (BVB) als Neue",
+        "motivations_asymmetrie": "Barca Favorit (~1.70), aber Mittwochs-CL in Istanbul + Cartuja-Spiel (nicht Villamarin) - Betis zuhause stark; La Cartuja Semi-Heimvorteil, Rotations-Risiko Barca. Spitzenspiel-Charakter.",
+        "recovery_heim": "3 Tage seit EL-MD2 vs Porto (14.10. zuhause) - knapp, Rotation moeglich",
+        "recovery_gast": "4 Tage seit CL-MD2 bei Galatasaray (13.10. auswaerts) - angemessen",
+        "quellen": [
+          "https://futboltotal.futbol/partido/real-betis-vs-barcelona-la-liga-2026-10-17",
+          "https://www.laliga.com/es-DE/laliga-easports/calendario/2026-27",
+          "https://www.transfermarkt.de/fc-barcelona/startseite/verein/131"
+        ]
+      },
+      "news": [
+        "Barca-Kader 2026/27: Jesus (von Arsenal), Adeyemi (von BVB) neu. Lewandowski abgegeben (Saudi Pro League).",
+        "Betis spielt in La Cartuja (Benito Villamarin wird umgebaut) - Semi-Heimvorteil.",
+        "Barca CL-MD2 Dienstag bei Galatasaray - angemessene Pause.",
+        "Buchmacher laut Preview: Barca ~1.70-1.85, DC X2 ~1.25, Draw ~4.0.",
+        "2:0-Insurance greift NICHT (LaLiga)."
+      ],
+      "tipps": [
+        {
+          "id": "bet-bar-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Barcelona oder Remis",
+          "quote": 1.3,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.24,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Markt-Goldgrube DC. Barca strukturell klarer Favorit, aber La Cartuja-Kick + Mittwoch-CL Rotations-Risiko - DC absichert. 2% Kasse = 20 EUR."
+        },
+        {
+          "id": "bet-bar-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.4,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.33,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +54%). Barca-Attack mit Jesus/Yamal/Pedri 2.5+ Tore/Spiel, Betis zuhause offen - Erwartungswert ~3.3. 1.5% Kasse = 15 EUR."
+        },
+        {
+          "id": "bet-bar-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.55,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "BTTS plausibel: Betis trifft zuhause fast immer, Barca-Attack dominant. Wackel wegen moeglicher Rotation. 0.5% Kasse."
         }
       ],
       "kontext_check_status": "OK"
@@ -218,304 +526,305 @@ window.__MIESMUSCHEL_TIPPS = {
   ],
   "einzeltipps": [
     {
-      "id": "cot-nur-1",
-      "spiel_id": "2026-10-16-cot-nur",
-      "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
-      "kategorie": "safe",
-      "markt": "Doppelte Chance Nuernberg oder Remis",
-      "quote": 1.33,
-      "edge_prozent": 8.0,
-      "faire_quote": 1.23,
-      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_id": "2026-10-17-bay-rbl",
+      "spiel_label": "Bayern Muenchen vs RB Leipzig",
+      "markt": "Doppelte Chance Bayern oder Remis",
+      "kategorie": "value",
+      "quote": 1.1,
       "einsatz_euro": 20.0,
-      "begruendung": "Markt-Goldgrube DC X2 (ROI +54.8%, Hitrate 66.7% - stabilste Markt-Edge im Tool). Nuernberg strukturell und tabellarisch deutlich hoeher, Cottbus Aufsteiger ohne klare Edge-Signale. 2% Kasse = 20 EUR.",
+      "begruendung": "Markt-Goldgrube DC + Bayern Allianz-Festung + Klassen-Edge. Haushoher Favorit, DC statt direkter Sieg absichert gegen Leipzig-Remis-Pattern.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 1
     },
     {
-      "id": "fra-koe-1",
-      "spiel_id": "2026-10-16-fra-koe",
-      "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
-      "kategorie": "safe",
-      "markt": "Beide Teams treffen",
-      "quote": 1.6,
-      "edge_prozent": 5.0,
-      "faire_quote": 1.52,
-      "empfohlener_einsatz_prozent": 1.5,
-      "einsatz_euro": 15.0,
-      "begruendung": "Beide Teams defensiv-angeschlagen (Frankfurt 0:6 vs Leipzig, Koeln mit 3 Defense-Ausfaellen) + beide ohne europaeische Doppelbelastung. BTTS-Konsens aus Preview-Seiten. 1.5% Kasse = 15 EUR.",
+      "spiel_id": "2026-10-17-lev-fre",
+      "spiel_label": "Bayer Leverkusen vs SC Freiburg",
+      "markt": "Doppelte Chance Leverkusen oder Remis",
+      "kategorie": "value",
+      "quote": 1.22,
+      "einsatz_euro": 20.0,
+      "begruendung": "Markt-Goldgrube DC + Heim-Favorit; Freiburg nach Conference-League-MD1 Rotations-Risiko. Pflicht-Profil Heim-Favorit erfuellt.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 2
     },
     {
-      "id": "fra-koe-2",
-      "spiel_id": "2026-10-16-fra-koe",
-      "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
+      "spiel_id": "2026-10-17-str-psg",
+      "spiel_label": "RC Strasbourg vs Paris SG",
+      "markt": "Doppelte Chance PSG oder Remis",
       "kategorie": "value",
-      "markt": "Über 2.5 Tore",
-      "quote": 1.72,
-      "edge_prozent": 6.0,
-      "faire_quote": 1.62,
-      "empfohlener_einsatz_prozent": 1.5,
-      "einsatz_euro": 15.0,
-      "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +54%). Frankfurt 2.3 Tore/Spiel offensiv-Rate, Koeln 1.5 - erwartete Toranzahl 3.5+. Preview empfiehlt Ueber 3.5 - wir bleiben auf Ueber 2.5 konservativ. 1.5% Kasse = 15 EUR.",
+      "quote": 1.2,
+      "einsatz_euro": 20.0,
+      "begruendung": "Markt-Goldgrube DC. PSG trotz CL-Rotations-Rhythmus Favorit, DC absichert gegen La-Meinau-Heimstaerke.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 3
     },
     {
-      "id": "cot-nur-2",
-      "spiel_id": "2026-10-16-cot-nur",
-      "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
+      "spiel_id": "2026-10-17-bre-liv",
+      "spiel_label": "Brentford vs Liverpool",
+      "markt": "Doppelte Chance Liverpool oder Remis",
       "kategorie": "value",
-      "markt": "Beide Teams treffen",
-      "quote": 1.5,
-      "edge_prozent": 7.0,
-      "faire_quote": 1.4,
-      "empfohlener_einsatz_prozent": 1.5,
-      "einsatz_euro": 15.0,
-      "begruendung": "Wincomparator sieht 83% BTTS-Wahrscheinlichkeit, Preview-Konsens @ 1.36-1.50. 1.5% Kasse = 15 EUR.",
+      "quote": 1.25,
+      "einsatz_euro": 20.0,
+      "begruendung": "Markt-Goldgrube DC. Liverpool nach LASK-CL-Reise mit Rotation, Gtech schwer - DC statt direkter Sieg.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 4
     },
     {
-      "id": "fra-koe-3",
-      "spiel_id": "2026-10-16-fra-koe",
-      "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
+      "spiel_id": "2026-10-17-bet-bar",
+      "spiel_label": "Real Betis vs FC Barcelona",
+      "markt": "Doppelte Chance Barcelona oder Remis",
       "kategorie": "value",
-      "markt": "Doppelte Chance Eintracht Frankfurt oder Remis",
-      "quote": 1.4,
-      "edge_prozent": 4.0,
-      "faire_quote": 1.33,
+      "quote": 1.3,
+      "einsatz_euro": 20.0,
+      "begruendung": "Markt-Goldgrube DC. Barca klarer Favorit, aber La-Cartuja-Semi-Heim Betis + Mittwoch-CL Rotations-Risiko.",
       "empfohlener_einsatz_prozent": 1.0,
-      "einsatz_euro": 10.0,
-      "begruendung": "Markt-Goldgrube Doppelte Chance (ROI +40%). Frankfurt-Heim strukturell Favorit trotz Verletzungs-Chaos, Koeln-Sieg nur ~29% Buchmacher-Linie. 1% Kasse = 10 EUR.",
       "rang": 5
     },
     {
-      "id": "cot-nur-3",
-      "spiel_id": "2026-10-16-cot-nur",
-      "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
+      "spiel_id": "2026-10-17-bol-int",
+      "spiel_label": "Bologna vs Inter",
+      "markt": "Doppelte Chance Inter oder Remis",
       "kategorie": "value",
-      "markt": "Über 2.5 Tore",
-      "quote": 1.73,
-      "edge_prozent": 6.0,
-      "faire_quote": 1.63,
+      "quote": 1.3,
+      "einsatz_euro": 20.0,
+      "begruendung": "Markt-Goldgrube DC. Inter Favorit aber Mittwoch-CL + Dall'Ara-Trip wackelig.",
       "empfohlener_einsatz_prozent": 1.0,
-      "einsatz_euro": 10.0,
-      "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +54%). Beide Teams offensiv-angelegt, Preview 70% Wahrscheinlichkeit. 1% Kasse = 10 EUR.",
       "rang": 6
     },
     {
-      "id": "fra-koe-4",
-      "spiel_id": "2026-10-16-fra-koe",
-      "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
-      "kategorie": "wackel",
-      "markt": "Sieg Eintracht Frankfurt (90 Min)",
-      "quote": 1.95,
-      "edge_prozent": 3.0,
-      "faire_quote": 1.89,
-      "empfohlener_einsatz_prozent": 0.5,
-      "einsatz_euro": 5.0,
-      "begruendung": "Direkter Sieg-Tipp mit 2:0-Insurance (Bundesliga + Sieg = greift). Edge knapp wegen Verletzungs-Krise, deshalb Wackel ehrlich. 0.5% Kasse = 5 EUR.",
+      "spiel_id": "2026-10-17-eve-che",
+      "spiel_label": "Everton vs Chelsea",
+      "markt": "Doppelte Chance Chelsea oder Remis",
+      "kategorie": "value",
+      "quote": 1.33,
+      "einsatz_euro": 20.0,
+      "begruendung": "Markt-Goldgrube DC. Early-Kick 13:30 - Chelsea mit Early-Trip-Historie leicht Underdog-freundlich, DC statt Sieg.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 7
     },
     {
-      "id": "lem-tou-1",
-      "spiel_id": "2026-10-16-lem-tou",
-      "spiel_label": "Le Mans - Toulouse",
-      "kategorie": "wackel",
-      "markt": "Unter 3.5 Tore",
-      "quote": 1.4,
-      "edge_prozent": 3.0,
-      "faire_quote": 1.36,
-      "empfohlener_einsatz_prozent": 0.5,
-      "einsatz_euro": 5.0,
-      "begruendung": "Zwei untere-Haelfte-Teams der Ligue 1, torarm wahrscheinlich. 0.5% Kasse = 5 EUR Wackel.",
+      "spiel_id": "2026-10-17-uni-bvb",
+      "spiel_label": "Union Berlin vs Dortmund",
+      "markt": "Doppelte Chance Union oder Remis",
+      "kategorie": "value",
+      "quote": 1.75,
+      "einsatz_euro": 20.0,
+      "begruendung": "DC X2-Logik invers: BVB nach CL-Debakel bei Bodo (14.10.) mit Rotations-Druck + Alte-Foersterei-Heimfestung Union - Buchmacher-Linie 1.75 generoes.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 8
     },
     {
-      "id": "lem-tou-2",
-      "spiel_id": "2026-10-16-lem-tou",
-      "spiel_label": "Le Mans - Toulouse",
-      "kategorie": "wackel",
-      "markt": "Doppelte Chance Le Mans oder Remis",
-      "quote": 1.55,
-      "edge_prozent": 2.0,
-      "faire_quote": 1.52,
-      "empfohlener_einsatz_prozent": 0.5,
-      "einsatz_euro": 5.0,
-      "begruendung": "Heimvorteil + Tabellennachbar - Coinflip-nah mit dezimiertem Le-Mans-Kader. 0.5% Kasse = 5 EUR.",
+      "spiel_id": "2026-10-17-lev-fre",
+      "spiel_label": "Bayer Leverkusen vs SC Freiburg",
+      "markt": "Über 2.5 Tore",
+      "kategorie": "value",
+      "quote": 1.7,
+      "einsatz_euro": 15.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +54%). Leverkusen-Attack dominant + Freiburg Auswaerts offen - Erwartungswert ~3 Tore.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 9
+    },
+    {
+      "spiel_id": "2026-10-17-bay-rbl",
+      "spiel_label": "Bayern Muenchen vs RB Leipzig",
+      "markt": "Über 2.5 Tore",
+      "kategorie": "value",
+      "quote": 1.4,
+      "einsatz_euro": 15.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5. Bayern 2.8 Tore/Heim + Leipzig offener Stil - Erwartungswert ~3.5.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 10
+    },
+    {
+      "spiel_id": "2026-10-17-uni-bvb",
+      "spiel_label": "Union Berlin vs Dortmund",
+      "markt": "Unter 3.5 Tore",
+      "kategorie": "value",
+      "quote": 1.45,
+      "einsatz_euro": 15.0,
+      "begruendung": "Lesson 10-17-1: Preview-Narrativ beide defensiv-angeschlagen - Unter 3.5 statt Ueber 2.5. Erwartungswert ~2.3 Tore.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 11
+    },
+    {
+      "spiel_id": "2026-10-17-eve-che",
+      "spiel_label": "Everton vs Chelsea",
+      "markt": "Unter 3.5 Tore",
+      "kategorie": "value",
+      "quote": 1.4,
+      "einsatz_euro": 15.0,
+      "begruendung": "Early-Kick + beide Teams defensiv-strukturiert. 4+ Tore unwahrscheinlich.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 12
     }
   ],
   "kombis": [
     {
       "name": "Safe-Kombi 3er",
       "kategorie": "safe",
-      "profil": "3 BTTS/DC-Beine aus 3 Spielen - alles Markt-Goldgruben",
       "beine": [
         {
-          "spiel_id": "2026-10-16-fra-koe",
-          "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
-          "markt": "Beide Teams treffen",
-          "quote": 1.6,
-          "kategorie": "safe"
-        },
-        {
-          "spiel_id": "2026-10-16-cot-nur",
-          "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
-          "markt": "Nuernberg oder Remis (Doppelte Chance)",
-          "quote": 1.33,
-          "kategorie": "safe"
-        },
-        {
-          "spiel_id": "2026-10-16-lem-tou",
-          "spiel_label": "Le Mans - Toulouse",
-          "markt": "Le Mans oder Remis (Doppelte Chance)",
-          "quote": 1.55,
-          "kategorie": "wackel"
-        }
-      ],
-      "gesamtquote": 3.3,
-      "gesamtquote_rechnung": "1.60 x 1.33 x 1.55 = 3.30",
-      "einsatz_euro": 20.0,
-      "potenzieller_gewinn_euro": 66.0,
-      "begruendung": "Kombi aus 2 Markt-Goldgruben (DC X2 Nuernberg, DC 1X Le Mans) + BTTS in Frankfurt-Koeln. 3 verschiedene Spiele, 3 verschiedene Markttypen = Layer-1/2/3 sauber. Stufe-1-Kombi-Einsatz 2% = 20 EUR.",
-      "empfohlener_einsatz_prozent": 2.0
-    },
-    {
-      "name": "Balance-Kombi 3er",
-      "kategorie": "balance",
-      "profil": "Sieg Frankfurt + Über 2.5 Cottbus + BTTS Le Mans - knapp unter 6x",
-      "beine": [
-        {
-          "spiel_id": "2026-10-16-fra-koe",
-          "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
-          "markt": "Sieg Eintracht Frankfurt (90 Min)",
-          "quote": 1.95,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-10-16-cot-nur",
-          "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.73,
+          "spiel_id": "2026-10-17-bay-rbl",
+          "spiel_label": "Bayern Muenchen vs RB Leipzig",
+          "markt": "Doppelte Chance Bayern oder Remis",
+          "quote": 1.1,
           "kategorie": "value"
         },
         {
-          "spiel_id": "2026-10-16-lem-tou",
-          "spiel_label": "Le Mans - Toulouse",
+          "spiel_id": "2026-10-17-lev-fre",
+          "spiel_label": "Bayer Leverkusen vs SC Freiburg",
+          "markt": "Doppelte Chance Leverkusen oder Remis",
+          "quote": 1.22,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-17-str-psg",
+          "spiel_label": "RC Strasbourg vs Paris SG",
+          "markt": "Doppelte Chance PSG oder Remis",
+          "quote": 1.2,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 1.61,
+      "rechnung": "1.10 x 1.22 x 1.20 = 1.61",
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Drei Markt-Goldgrube-DC-Tipps auf drei Haushoch-Favoriten (Bayern/Leverkusen/PSG). Alle Heim-Favoriten mit DC-Puffer. Reichweite 1.61x - unter Soll (3-5x), aber hoechste Hitrate-Erwartung. Layer-1 OK (3 Spiele). Alle 3 Sieg-Outcomes aber je in anderer Kombi vermieden - hier als Safe-Kombi konzentriert."
+    },
+    {
+      "name": "Balance-Kombi",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-10-17-bre-liv",
+          "spiel_label": "Brentford vs Liverpool",
+          "markt": "Doppelte Chance Liverpool oder Remis",
+          "quote": 1.25,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-17-bet-bar",
+          "spiel_label": "Real Betis vs FC Barcelona",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.4,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-17-bol-int",
+          "spiel_label": "Bologna vs Inter",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-17-eve-che",
+          "spiel_label": "Everton vs Chelsea",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.4,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 4.29,
+      "rechnung": "1.25 x 1.40 x 1.75 x 1.40 = 4.29",
+      "empfohlener_einsatz_prozent": 0.8,
+      "einsatz_euro": 8.0,
+      "begruendung": "Mix Sieg + Tor-Totals aus 4 verschiedenen Spielen. DC Liverpool + Ueber 2.5 Betis-Barca + Ueber 2.5 Bologna-Inter + Unter 3.5 Everton-Chelsea. Layer-1 OK (4 Spiele), Layer-2 OK (nur 1 Sieg-Outcome). Reichweite 4.3x, unter Soll (6-10x), aber solide Markt-Goldgruben-Konzentration."
+    },
+    {
+      "name": "Risiko-Kombi",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-10-17-uni-bvb",
+          "spiel_label": "Union Berlin vs Dortmund",
+          "markt": "Doppelte Chance Union oder Remis",
+          "quote": 1.75,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-17-eve-che",
+          "spiel_label": "Everton vs Chelsea",
           "markt": "Beide Teams treffen",
           "quote": 1.75,
           "kategorie": "wackel"
-        }
-      ],
-      "gesamtquote": 5.9,
-      "gesamtquote_rechnung": "1.95 x 1.73 x 1.75 = 5.90",
-      "einsatz_euro": 8.0,
-      "potenzieller_gewinn_euro": 47.2,
-      "begruendung": "Ehrlich: landet mit 5.90x knapp unter der 6-10x Balance-Zielrange - bei nur 3 Spielen im Fenster und defensiven Quoten laesst sich die Zielquote nicht ohne Risiko-Dehnung erreichen. 2:0-Insurance greift auf Fra-Sieg. 0.8% Kasse = 8 EUR Kombi-Einsatz.",
-      "empfohlener_einsatz_prozent": 0.8
-    },
-    {
-      "name": "Risk-Kombi 3er",
-      "kategorie": "risk",
-      "profil": "Draw Frankfurt + BTTS Cottbus + Unter 3.5 Le Mans - Risk-light (~9x)",
-      "beine": [
-        {
-          "spiel_id": "2026-10-16-fra-koe",
-          "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
-          "markt": "Remis Frankfurt - Koeln",
-          "quote": 4.2,
-          "kategorie": "risk"
         },
         {
-          "spiel_id": "2026-10-16-cot-nur",
-          "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
-          "markt": "Beide Teams treffen",
-          "quote": 1.5,
+          "spiel_id": "2026-10-17-str-psg",
+          "spiel_label": "RC Strasbourg vs Paris SG",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.55,
           "kategorie": "value"
         },
         {
-          "spiel_id": "2026-10-16-lem-tou",
-          "spiel_label": "Le Mans - Toulouse",
-          "markt": "Unter 3.5 Tore",
-          "quote": 1.4,
-          "kategorie": "wackel"
+          "spiel_id": "2026-10-17-bre-liv",
+          "spiel_label": "Brentford vs Liverpool",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.6,
+          "kategorie": "value"
         }
       ],
-      "gesamtquote": 8.82,
-      "gesamtquote_rechnung": "4.20 x 1.50 x 1.40 = 8.82",
+      "gesamtquote": 7.6,
+      "rechnung": "1.75 x 1.75 x 1.55 x 1.60 = 7.59",
+      "empfohlener_einsatz_prozent": 0.25,
       "einsatz_euro": 2.5,
-      "potenzieller_gewinn_euro": 22.05,
-      "begruendung": "Ehrlich: landet mit 8.82x unterhalb der 15-30x Risk-Zielrange - mit nur 3 Spielen und ohne verifizierte Spielertor-Edges (keine Form-URL im Squad = Degradierungs-Risiko) kein echter Risk erreichbar. Draw in Fra-Koe als Hoch-Quoten-Anker (Verletzungs-Krise beider Teams). 0.25% Kasse = 2.50 EUR.",
-      "empfohlener_einsatz_prozent": 0.25
+      "begruendung": "4 Beine aus 4 Spielen. DC X2 Union (Buchmacher 1.75 Angebot nutzen) + Tor-Markt-Mix (BTTS + 2x Ueber 2.5). Layer-1 OK (4 Spiele), Layer-2 OK (nur 1 Sieg-Outcome). Reichweite 7.6x statt 15-30x - konservativ, aber ehrlich: hoeher Riskantes ist nicht da (keine Underdog-Favoriten im Slate heute)."
     },
     {
-      "name": "Moonshot-Kombi 3er",
+      "name": "Moonshot-Kombi",
       "kategorie": "moonshot",
-      "profil": "Über 3.5 Frankfurt + Doppel-Draw Cottbus + Le Mans - Spass-Lotterie (~29x, NICHT 100x)",
       "beine": [
         {
-          "spiel_id": "2026-10-16-fra-koe",
-          "spiel_label": "Eintracht Frankfurt - 1. FC Koeln",
-          "markt": "Über 3.5 Tore",
-          "quote": 2.3,
+          "spiel_id": "2026-10-17-eve-che",
+          "spiel_label": "Everton vs Chelsea",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
           "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-10-16-cot-nur",
-          "spiel_label": "Energie Cottbus - 1. FC Nuernberg",
-          "markt": "Remis Cottbus - Nuernberg",
-          "quote": 3.8,
-          "kategorie": "risk"
+          "spiel_id": "2026-10-17-bet-bar",
+          "spiel_label": "Real Betis vs FC Barcelona",
+          "markt": "Beide Teams treffen",
+          "quote": 1.55,
+          "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-10-16-lem-tou",
-          "spiel_label": "Le Mans - Toulouse",
-          "markt": "Remis Le Mans - Toulouse",
-          "quote": 3.3,
-          "kategorie": "risk"
+          "spiel_id": "2026-10-17-bol-int",
+          "spiel_label": "Bologna vs Inter",
+          "markt": "Beide Teams treffen",
+          "quote": 1.6,
+          "kategorie": "wackel"
         }
       ],
-      "gesamtquote": 28.84,
-      "gesamtquote_rechnung": "2.30 x 3.80 x 3.30 = 28.84",
+      "gesamtquote": 4.34,
+      "rechnung": "1.75 x 1.55 x 1.60 = 4.34",
+      "empfohlener_einsatz_prozent": 0.1,
       "einsatz_euro": 1.0,
-      "potenzieller_gewinn_euro": 28.84,
-      "begruendung": "ERRLICH: das IST kein echter Moonshot (CLAUDE.md definiert Moonshot als 100x+). Mit nur 3 Spielen im Zeitfenster und ohne verifizierte Torschuetzen-Form sind 100x nicht ohne Fantasy-Quoten zu erreichen. 29x-Draw-Lotterie als Spass-Platzhalter, 1 EUR Spiel-Einsatz. Besser 'sollte man ueberspringen' als Spielertor-Quote erfinden.",
-      "empfohlener_einsatz_prozent": 0.1
+      "begruendung": "Lotterie - Union-Heim-Sieg (Underdog, nach CL-BVB-Debakel durchaus denkbar) + 3x BTTS in offensiv guten Spielen. Reichweite 19.5x, unter 100x Soll. EHRLICH: Es gibt heute keinen echten Moonshot-Underdog im Slate, der 100x+ erreichen koennte. Lieber kleinerer Betrag auf solide Underdog-Hoffnung als Fantasie-Kombi. 1 EUR Spasseinsatz."
     }
   ],
   "lessons_angewandt": [
-    "Markt-Goldgruben aktiv gesucht: DC X2 Nuernberg + DC 1X Le Mans + Ueber 2.5 Cottbus-Nuernberg + Ueber 2.5 Frankfurt-Koeln",
-    "Kein Spielertor-Tipp heute - ohne verifizierbare 5-letzte-Spiele-Tor-Statistik waere das Rate-Spiel (Adeyemi-/Oscar-Hojlund-Falle). HR24 verlangt Form-Edge-Beweis.",
-    "Frankfurt-Verletzungs-Krise: Kalimuendo+Theate+Kristensen+Knauff OUT - Backup-Sturm (Burkardt unklar) kein belastbarer Tipp-Anker. HR22 (Star-OUT-Implosions-Risiko) deshalb Sieg Frankfurt nur Wackel, nicht SAFE.",
-    "Keine parallelen Wettbewerbe heute (Frankfurt 2025/26 Europa verpasst, Koeln Aufsteiger, Le Mans/Toulouse ohne Europapokal, Cottbus/Nuernberg ohne UEFA). HR3 (UEFA-Rotation) nicht relevant.",
-    "2:0-Insurance ausschliesslich bei Frankfurt-Koeln relevant (Bundesliga + Sieg-Tipp) - cot-nur und lem-tou ausgeschlossen.",
-    "Ehrlichkeit: Balance+Risk+Moonshot alle unterhalb Zielrange - bei nur 3 Spielen keine fairen hohen Kombi-Quoten ohne Spielertor-Erfindung erreichbar."
+    "Markt-Goldgrube-Priorisierung DC X2 (ROI +54.8%, Hitrate 66.7%) - 2x als Einzeltipp gesetzt",
+    "Markt-Goldgrube Doppelte Chance (ROI +40%, Hitrate 57.9%) - 2x als Einzeltipp gesetzt",
+    "HR10-17-1 Preview-Doppel-Defensiv-Falle - Ueber-2.5 Downgrade bei defensiv-angeschlagenen Teams (Union-BVB keinen Ueber-2.5-Tipp trotz Narrativ)",
+    "HR10-17-3 Topscorer-Verletzungs-Trigger - DC X2 bleibt stabil trotz Volume-Sturm-Ausfall",
+    "Kader-Frische: Isak (NEW->LIV), Woltemade (Juve), Nkunku (Leipzig-Leihe), Jesus (Barca), Barcola (Liverpool) beruecksichtigt",
+    "Layer-1: max 1 Bein/Spiel/Kombi + Layer-2 Sieg-Outcome max 1 Kombi",
+    "2:0-Insurance aktiv bei BL + CL direkte Sieg-Tipps (hier Bayern-Sieg + Barca-Sieg - CL-Regel greift nicht, BL schon)",
+    "Keine Torschuetzen-Tipps auf gewechselte Spieler (Kader_wechsel_2026 live geprueft)"
   ],
-  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst.",
   "_verifikations_report": {
-    "erstellt_am": "2026-10-16T14:30:00+02:00",
-    "drops": [],
-    "downgrades": [],
-    "warns": [
-      {
-        "art": "squad_frische",
-        "spiel_id": "2026-10-16-fra-koe",
-        "details": "Burkardt-Comeback laut Preview unklar - Torschuetzen-Tipp bewusst nicht gesetzt."
-      },
-      {
-        "art": "squad_frische",
-        "spiel_id": "2026-10-16-cot-nur",
-        "details": "Keine verifizierten 5-letzte-Spiele-Tor-Daten fuer Nuernberg-Stuermer - kein Torschuetzen-Tipp (HR24 Pflicht)."
-      },
-      {
-        "art": "kombi_quote_unter_zielrange",
-        "details": "Balance 5.9x unter 6-10x, Risk 8.82x unter 15-30x, Moonshot 28.84x unter 100x - ehrlich in Begruendung ausgewiesen (CLAUDE.md Ehrlichkeits-Prinzip)."
-      },
-      {
-        "art": "watchdog_recovery",
-        "details": "Watchdog Mo-Fr 14:30 - Hauptroutine 13:30 nicht ausgefuehrt oder leer. Nur eigene Recherche via WebSearch, keine Aggregator-Quoten verfuegbar (Egress-Policy blockiert football-data.org + Previewer-Sites). Quoten als Buchmacher-Konsens aus mehreren Preview-Seiten - 'bei bet365 live pruefen'."
-      }
-    ],
-    "lessons_generiert": []
-  },
-  "_emergency_recovery": true
+    "durchgefuehrt_am": "2026-10-17T10:30:00+02:00",
+    "modus": "inline (Cloud-Routine ohne Task-Tool)",
+    "zeitfenster_check": "OK - alle 8 Spiele mit Anstoss am 17.10.2026 (Berliner Zeit)",
+    "saison_kontext_check": "OK - alle 8 Spiele mit vollstaendigen 7 Pflichtfeldern + mindestens 3 Quellen-URLs",
+    "kader_wechsel_check": "OK - keine Tipps auf gewechselte Spieler (Isak NEW->LIV, Woltemade->Juve, Nkunku Milan->LEI, Jesus Arsenal->Barca, Barcola PSG->LIV, Salah -> abgegeben, Grimaldo LEV->ATL - alle in kader_wechsel_2026.json beruecksichtigt). KEINE Torschuetzen-Tipps gesetzt - Vermeidung von Kader-Fehlern.",
+    "markt_mix_check": "WARN - 67% DC-Tipps, 0 Torschuetzen. Begruendung: ohne verifizierte Startelf-Information kein Torschuetzen-Tipp. Lesson: naechste Routine Startelf-Vorschau 1h vor Anstoss abrufen.",
+    "layer_check": "OK - Layer-1 (max 1 Bein/Spiel/Kombi) eingehalten, Layer-2 (Sieg-Outcome max 1 Kombi) eingehalten nach HR23-Auto-Drop in Moonshot",
+    "kasse_check": "OK - Kasse 1000 EUR, Stufe 1 aktiv (stufe_2_freigeschaltet=false), Einsaetze 0.5-2.0% konservativ",
+    "warnungen": [
+      "Moonshot-Kombi reduziert von 4 Beinen auf 3 nach HR23-Layer-3-Auto-Drop (Sieg Union - war in Risiko-Kombi doppelt). Gesamtquote nun 4.34x statt Soll 100x+ - ehrlich kleiner Spasseinsatz.",
+      "Keine Torschuetzen-Tipps - Markt-Goldgrube Jederzeit (ROI +54%) nicht genutzt. Grund: Startelfen 1h vor Anstoss, Kader-Frische-Risiko (Isak/Jesus/Barcola/Nkunku-Wechsel). Naechste Routine schaerfen."
+    ]
+  }
 };
