@@ -32,14 +32,15 @@
       "tipps": [
         {
           "id": "sab-bvb-1",
-          "kategorie": "safe",
+          "kategorie": "value",
           "markt": "Dortmund oder Remis (Doppelte Chance)",
           "quote": 1.08,
           "edge_prozent": 2.0,
           "faire_quote": 1.05,
           "empfohlener_einsatz_prozent": 2.0,
           "einsatz_euro": 20.0,
-          "begruendung": "DC 1X-Markt-Goldgrube (ROI +36%, 73.9% Hit). Sabah daheim Pot-4-Debutant, BVB verliert hier praktisch nie. Niedrige Quote - deshalb nur 2% der 1000€ Kasse = 20€."
+          "begruendung": "DC 1X-Markt-Goldgrube (ROI +36%, 73.9% Hit). Sabah daheim Pot-4-Debutant, BVB verliert hier praktisch nie. Niedrige Quote - deshalb nur 2% der 1000€ Kasse = 20€. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value]",
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "sab-bvb-2",
@@ -54,14 +55,15 @@
         },
         {
           "id": "sab-bvb-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Serhou Guirassy Torschuetze jederzeit",
           "quote": 1.75,
           "edge_prozent": 8.0,
           "faire_quote": 1.6,
           "empfohlener_einsatz_prozent": 1.5,
           "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+54.8% ROI). HR24 erfuellt (2 Tore + 2 Assists in 4 Startelfeinsaetzen 2026/27 lt. Dossier 17.10.). Einwechslungs-Boost durch Konstantelias/Konstantinos vorhanden. 15€ (1.5%). Live-Quote 1.65-1.90 bei bet365 pruefen."
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+54.8% ROI). HR24 erfuellt (2 Tore + 2 Assists in 4 Startelfeinsaetzen 2026/27 lt. Dossier 17.10.). Einwechslungs-Boost durch Konstantelias/Konstantinos vorhanden. 15€ (1.5%). Live-Quote 1.65-1.90 bei bet365 pruefen. [Auto HR3: UEFA-Doppelbelastung + Rotation - Top-Stuermer max WACKEL, Joker-Tipp suchen]",
+          "_joker_top_stuermer_block": true
         },
         {
           "id": "sab-bvb-4",
@@ -201,14 +203,15 @@
         },
         {
           "id": "liv-vil-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Alexander Isak Torschuetze jederzeit",
           "quote": 1.85,
           "edge_prozent": 8.0,
           "faire_quote": 1.7,
           "empfohlener_einsatz_prozent": 1.5,
           "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+54.8% ROI). HR24: Isak als zentraler 9er mit Backup-Qualitaet (Barcola, Gakpo = Einwechslungs-Boost moeglich). Villarreal-IV auf CL-Niveau unterlegen. 15€ (1.5%). Live-Quote 1.75-2.00 bei bet365 pruefen."
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+54.8% ROI). HR24: Isak als zentraler 9er mit Backup-Qualitaet (Barcola, Gakpo = Einwechslungs-Boost moeglich). Villarreal-IV auf CL-Niveau unterlegen. 15€ (1.5%). Live-Quote 1.75-2.00 bei bet365 pruefen. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "_torschuetze_quelle_warn": true
         }
       ],
       "kontext_check_status": "OK"
@@ -378,25 +381,27 @@
         },
         {
           "id": "bay-ars-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Harry Kane Torschuetze jederzeit",
           "quote": 1.7,
           "edge_prozent": 8.0,
           "faire_quote": 1.57,
           "empfohlener_einsatz_prozent": 1.5,
           "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+54.8% ROI). Kane HR24 erfuellt (Form-Explosiv unter Kompany), gegen Arsenal-IV machbar. 15€ (1.5%). Quote 1.60-1.80 bet365 live pruefen."
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+54.8% ROI). Kane HR24 erfuellt (Form-Explosiv unter Kompany), gegen Arsenal-IV machbar. 15€ (1.5%). Quote 1.60-1.80 bet365 live pruefen. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "bay-ars-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Luis Diaz Torschuetze jederzeit",
           "quote": 2.75,
           "edge_prozent": 10.0,
           "faire_quote": 2.5,
           "empfohlener_einsatz_prozent": 1.0,
           "einsatz_euro": 10.0,
-          "begruendung": "HR24 erfuellt: Hattrick + Assist 17.10. vs Leipzig = extreme Form-Welle, Fluegel-9er-Rolle unter Kompany mit vielen Chancen. 10€ (1%). KADER: Luis Diaz seit Juli 26 Bayern (von Liverpool), siehe kader_wechsel_2026.json. Live-Quote 2.50-3.00 pruefen."
+          "begruendung": "HR24 erfuellt: Hattrick + Assist 17.10. vs Leipzig = extreme Form-Welle, Fluegel-9er-Rolle unter Kompany mit vielen Chancen. 10€ (1%). KADER: Luis Diaz seit Juli 26 Bayern (von Liverpool), siehe kader_wechsel_2026.json. Live-Quote 2.50-3.00 pruefen. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "bay-ars-4",
@@ -462,14 +467,15 @@
         },
         {
           "id": "rma-rbl-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Kylian Mbappe Torschuetze jederzeit",
           "quote": 1.65,
           "edge_prozent": 8.0,
           "faire_quote": 1.52,
           "empfohlener_einsatz_prozent": 1.5,
           "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. HR24 erfuellt (Mbappe stabil Form, zentraler 9er mit Backup Vinicius-Einwechslungs-Boost). 15€ (1.5%). Quote 1.55-1.75 bet365 live pruefen."
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. HR24 erfuellt (Mbappe stabil Form, zentraler 9er mit Backup Vinicius-Einwechslungs-Boost). 15€ (1.5%). Quote 1.55-1.75 bet365 live pruefen. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "_torschuetze_quelle_warn": true
         }
       ],
       "kontext_check_status": "OK"
@@ -712,14 +718,15 @@
         },
         {
           "id": "liv-bha-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Alexander Isak Torschuetze jederzeit",
           "quote": 1.85,
           "edge_prozent": 7.0,
           "faire_quote": 1.72,
           "empfohlener_einsatz_prozent": 1.5,
           "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. HR24 Isak zentraler 9er mit Barcola/Gakpo-Einwechslungs-Boost moeglich. 15€ (1.5%). Quote 1.75-1.95 bet365 live pruefen."
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. HR24 Isak zentraler 9er mit Barcola/Gakpo-Einwechslungs-Boost moeglich. 15€ (1.5%). Quote 1.75-1.95 bet365 live pruefen. [Auto HR3: UEFA-Doppelbelastung + Rotation - Top-Stuermer max WACKEL, Joker-Tipp suchen]",
+          "_joker_top_stuermer_block": true
         }
       ],
       "kontext_check_status": "OK"
@@ -809,7 +816,9 @@
       "markt": "Dortmund oder Remis (Doppelte Chance)",
       "quote": 1.08,
       "einsatz_euro": 20.0,
-      "begruendung": "DC 1X-Markt-Goldgrube (ROI +36%, 73.9% Hit). Sabah daheim Pot-4-Debutant, BVB verliert hier praktisch nie. Niedrige Quote - deshalb nur 2% der 1000€ Kasse = 20€."
+      "begruendung": "DC 1X-Markt-Goldgrube (ROI +36%, 73.9% Hit). Sabah daheim Pot-4-Debutant, BVB verliert hier praktisch nie. Niedrige Quote - deshalb nur 2% der 1000€ Kasse = 20€.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
     },
     {
       "spiel_id": "2026-10-19-liv-vil",
@@ -820,7 +829,9 @@
       "markt": "Liverpool oder Remis (Doppelte Chance)",
       "quote": 1.12,
       "einsatz_euro": 20.0,
-      "begruendung": "DC-1X-Markt-Goldgrube (ROI +36%). Anfield + Klassen-Edge - Villarreal-Sieg sehr unwahrscheinlich. 20€ (2%)."
+      "begruendung": "DC-1X-Markt-Goldgrube (ROI +36%). Anfield + Klassen-Edge - Villarreal-Sieg sehr unwahrscheinlich. 20€ (2%).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
     },
     {
       "spiel_id": "2026-10-19-nap-bod",
@@ -831,7 +842,9 @@
       "markt": "Napoli oder Remis (Doppelte Chance)",
       "quote": 1.1,
       "einsatz_euro": 20.0,
-      "begruendung": "DC-1X-Markt-Goldgrube. Napoli-Verlust gegen Bodø daheim unrealistisch. 20€ (2%)."
+      "begruendung": "DC-1X-Markt-Goldgrube. Napoli-Verlust gegen Bodø daheim unrealistisch. 20€ (2%).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
     },
     {
       "spiel_id": "2026-10-19-rma-rbl",
@@ -842,7 +855,9 @@
       "markt": "Real Madrid oder Remis (Doppelte Chance)",
       "quote": 1.08,
       "einsatz_euro": 20.0,
-      "begruendung": "DC-1X-Markt-Goldgrube. Real-Niederlage gegen Leipzig daheim ~5% Wahrscheinlichkeit. 20€ (2%)."
+      "begruendung": "DC-1X-Markt-Goldgrube. Real-Niederlage gegen Leipzig daheim ~5% Wahrscheinlichkeit. 20€ (2%).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
     },
     {
       "spiel_id": "2026-10-19-int-sha",
@@ -853,7 +868,9 @@
       "markt": "Inter oder Remis (Doppelte Chance)",
       "quote": 1.08,
       "einsatz_euro": 20.0,
-      "begruendung": "DC-1X-Markt-Goldgrube. Inter-Verlust gegen Shakhtar daheim sehr unwahrscheinlich. 20€ (2%)."
+      "begruendung": "DC-1X-Markt-Goldgrube. Inter-Verlust gegen Shakhtar daheim sehr unwahrscheinlich. 20€ (2%).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5
     },
     {
       "spiel_id": "2026-10-19-fre-bay",
@@ -864,7 +881,9 @@
       "markt": "Bayern Muenchen oder Remis (Doppelte Chance)",
       "quote": 1.08,
       "einsatz_euro": 20.0,
-      "begruendung": "DC-X2-Markt-Goldgrube (+54.8% ROI, 66.7% Hit). Bayern-Verlust in Freiburg nach 6:1-Form-Hoch sehr unwahrscheinlich. 20€ (2%)."
+      "begruendung": "DC-X2-Markt-Goldgrube (+54.8% ROI, 66.7% Hit). Bayern-Verlust in Freiburg nach 6:1-Form-Hoch sehr unwahrscheinlich. 20€ (2%).",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6
     },
     {
       "spiel_id": "2026-10-19-sab-bvb",
@@ -875,7 +894,9 @@
       "markt": "Ueber 2.5 Tore",
       "quote": 1.55,
       "einsatz_euro": 15.0,
-      "begruendung": "Markt-Goldgrube Ueber 2.5 (+53.5% ROI, 56% Hit). BVB offensiv-Kraft gegen aserbaidschanische IV = typisches 3-0/4-1-Muster. 15€ (1.5%)."
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (+53.5% ROI, 56% Hit). BVB offensiv-Kraft gegen aserbaidschanische IV = typisches 3-0/4-1-Muster. 15€ (1.5%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
     },
     {
       "spiel_id": "2026-10-19-sab-bvb",
@@ -886,7 +907,9 @@
       "markt": "Serhou Guirassy Torschuetze jederzeit",
       "quote": 1.75,
       "einsatz_euro": 15.0,
-      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+54.8% ROI). HR24 erfuellt (2 Tore + 2 Assists in 4 Startelfeinsaetzen 2026/27 lt. Dossier 17.10.). Einwechslungs-Boost durch Konstantelias/Konstantinos vorhand"
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+54.8% ROI). HR24 erfuellt (2 Tore + 2 Assists in 4 Startelfeinsaetzen 2026/27 lt. Dossier 17.10.). Einwechslungs-Boost durch Konstantelias/Konstantinos vorhand",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8
     },
     {
       "spiel_id": "2026-10-19-psg-bar",
@@ -897,7 +920,9 @@
       "markt": "Beide Teams treffen",
       "quote": 1.5,
       "einsatz_euro": 20.0,
-      "begruendung": "Markt-Goldgrube BTTS JA (+22.9% ROI, 61.1% Hit). Zwei offensiv-ausgerichtete Teams, beide mit Defensiv-Baustellen (PSG-Belastung + Barca-Umbruch). In 25/26 CL hatten beide BTTS in >60% der Spiele. 20€"
+      "begruendung": "Markt-Goldgrube BTTS JA (+22.9% ROI, 61.1% Hit). Zwei offensiv-ausgerichtete Teams, beide mit Defensiv-Baustellen (PSG-Belastung + Barca-Umbruch). In 25/26 CL hatten beide BTTS in >60% der Spiele. 20€",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 9
     },
     {
       "spiel_id": "2026-10-19-psg-bar",
@@ -908,7 +933,9 @@
       "markt": "Ueber 2.5 Tore",
       "quote": 1.65,
       "einsatz_euro": 15.0,
-      "begruendung": "Markt-Goldgrube Ueber 2.5 (+53.5% ROI). Beide Teams Form-Edge offensiv - Barca 2026/27 ~2.8 Tore/Spiel, PSG ~2.3. 15€ (1.5%)."
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (+53.5% ROI). Beide Teams Form-Edge offensiv - Barca 2026/27 ~2.8 Tore/Spiel, PSG ~2.3. 15€ (1.5%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 10
     },
     {
       "spiel_id": "2026-10-19-liv-vil",
@@ -919,7 +946,9 @@
       "markt": "Ueber 2.5 Tore",
       "quote": 1.55,
       "einsatz_euro": 15.0,
-      "begruendung": "Markt-Goldgrube Ueber 2.5 (+53.5% ROI). Liverpool-Offensive aggressiv eingestellt, Villarreal defensiv wackelig. Erwartbare Linien 3-1/3-0/4-1. 15€ (1.5%)."
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (+53.5% ROI). Liverpool-Offensive aggressiv eingestellt, Villarreal defensiv wackelig. Erwartbare Linien 3-1/3-0/4-1. 15€ (1.5%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 11
     },
     {
       "spiel_id": "2026-10-19-liv-vil",
@@ -930,7 +959,9 @@
       "markt": "Alexander Isak Torschuetze jederzeit",
       "quote": 1.85,
       "einsatz_euro": 15.0,
-      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+54.8% ROI). HR24: Isak als zentraler 9er mit Backup-Qualitaet (Barcola, Gakpo = Einwechslungs-Boost moeglich). Villarreal-IV auf CL-Niveau unterlegen. 15€ (1.5"
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+54.8% ROI). HR24: Isak als zentraler 9er mit Backup-Qualitaet (Barcola, Gakpo = Einwechslungs-Boost moeglich). Villarreal-IV auf CL-Niveau unterlegen. 15€ (1.5",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 12
     },
     {
       "spiel_id": "2026-10-19-nap-bod",
@@ -941,7 +972,9 @@
       "markt": "Ueber 2.5 Tore",
       "quote": 1.65,
       "einsatz_euro": 15.0,
-      "begruendung": "Markt-Goldgrube Ueber 2.5 (+53.5% ROI). Napoli daheim ~2.1 Tore/Spiel, Bodø zuhause offensiv aber auswaerts tiefer. Trotzdem Konter-BTTS-Risiko. Linien 3-1/3-0 erwartbar. 15€ (1.5%)."
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (+53.5% ROI). Napoli daheim ~2.1 Tore/Spiel, Bodø zuhause offensiv aber auswaerts tiefer. Trotzdem Konter-BTTS-Risiko. Linien 3-1/3-0 erwartbar. 15€ (1.5%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 13
     },
     {
       "spiel_id": "2026-10-19-stu-atm",
@@ -952,7 +985,9 @@
       "markt": "Unter 2.5 Tore",
       "quote": 1.75,
       "einsatz_euro": 15.0,
-      "begruendung": "Markt-Goldgrube Unter 2.5 (+33.5% ROI, 60% Hit). Simeone-Low-Scoring-Pattern (klassisch 1-0/0-1/1-1), Stuttgart-Sturm ohne Woltemade schwaecher. 15€ (1.5%)."
+      "begruendung": "Markt-Goldgrube Unter 2.5 (+33.5% ROI, 60% Hit). Simeone-Low-Scoring-Pattern (klassisch 1-0/0-1/1-1), Stuttgart-Sturm ohne Woltemade schwaecher. 15€ (1.5%).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 14
     }
   ],
   "kombis": [
