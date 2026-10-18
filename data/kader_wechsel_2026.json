@@ -1,11 +1,19 @@
 {
-  "stand": "2026-10-17",
+  "stand": "2026-10-18",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
   "transferfenster_schliesst": "2026-08-31",
   "transferfenster_hinweis": "Bis Ende August sind weitere Wechsel moeglich. Waehrend des offenen Fensters ist diese Datei besonders schnell veraltet - Aufstellungs-Vorschau am Spieltag schlaegt jeden Eintrag hier.",
   "abgaenge_NICHT_mehr_fuer_alten_verein_tippen": [
+    {
+      "spieler": "Luis Diaz",
+      "von": "Liverpool FC",
+      "nach": "Bayern Muenchen",
+      "datum": "2026-07",
+      "hinweis": "Aufgefallen bei Auswertung 17.10.2026: Diaz-Hattrick (12', 47', 69') + Assist beim 6:1 gegen RB Leipzig fuer Bayern. Nicht mehr als Liverpool-Spieler tippen. Fluegel/Volume-9er-Rotation bei Kompany, Torschuetzen-Volumen-Kandidat.",
+      "quelle": "https://www.espn.com/soccer/report/_/gameId/401884772"
+    },
     {
       "spieler": "Donyell Malen",
       "von": "Aston Villa",

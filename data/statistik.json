@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-10-17T06:17:56+00:00",
+  "letzte_berechnung": "2026-10-18T06:18:09+00:00",
   "gesamt": {
-    "tipps": 272,
-    "gewonnen": 142,
+    "tipps": 284,
+    "gewonnen": 152,
     "verloren": 118,
     "push": 1,
-    "offen": 11,
-    "einsatz": 261.0,
-    "netto": 87.32,
-    "trefferquote": 54.6,
+    "offen": 13,
+    "einsatz": 271.0,
+    "netto": 90.8,
+    "trefferquote": 56.3,
     "roi_prozent": 33.5
   },
   "letzte_30_tage": {
-    "tipps": 32,
-    "gewonnen": 21,
-    "verloren": 11,
+    "tipps": 34,
+    "gewonnen": 22,
+    "verloren": 10,
     "push": 0,
-    "offen": 0,
+    "offen": 2,
     "einsatz": 32.0,
-    "netto": 10.31,
-    "trefferquote": 65.6,
-    "roi_prozent": 32.2
+    "netto": 10.77,
+    "trefferquote": 68.8,
+    "roi_prozent": 33.7
   },
   "letzte_90_tage": {
-    "tipps": 266,
-    "gewonnen": 140,
-    "verloren": 114,
+    "tipps": 273,
+    "gewonnen": 148,
+    "verloren": 111,
     "push": 1,
-    "offen": 11,
-    "einsatz": 255.0,
-    "netto": 89.37,
-    "trefferquote": 55.1,
-    "roi_prozent": 35.0
+    "offen": 13,
+    "einsatz": 260.0,
+    "netto": 94.15,
+    "trefferquote": 57.1,
+    "roi_prozent": 36.2
   },
   "nach_liga": {
     "FIFA WM 2026 - Halbfinale": {
@@ -715,6 +715,61 @@
       "netto": 3.03,
       "trefferquote": 100.0,
       "roi_prozent": 151.5
+    },
+    "Bundesliga 2026/27 - 6. Spieltag": {
+      "tipps": 6,
+      "gewonnen": 4,
+      "verloren": 0,
+      "push": 0,
+      "offen": 2,
+      "einsatz": 4.0,
+      "netto": 1.7,
+      "trefferquote": 100.0,
+      "roi_prozent": 42.5
+    },
+    "Ligue 1 2026/27 - Journee 7": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.2,
+      "trefferquote": 100.0,
+      "roi_prozent": 20.0
+    },
+    "Premier League 2026/27 - Matchweek 7": {
+      "tipps": 3,
+      "gewonnen": 3,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.98,
+      "trefferquote": 100.0,
+      "roi_prozent": 32.7
+    },
+    "LaLiga 2026/27 - Jornada 9": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 30.0
+    },
+    "Serie A 2026/27 - Giornata 7": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 30.0
     }
   },
   "nach_markt": {
@@ -1731,15 +1786,15 @@
       "roi_prozent": 130.0
     },
     "Über 2.5 Tore": {
-      "tipps": 5,
-      "gewonnen": 3,
+      "tipps": 7,
+      "gewonnen": 4,
       "verloren": 2,
       "push": 0,
-      "offen": 0,
-      "einsatz": 5.0,
-      "netto": 4.9,
-      "trefferquote": 60.0,
-      "roi_prozent": 98.0
+      "offen": 1,
+      "einsatz": 6.0,
+      "netto": 5.3,
+      "trefferquote": 66.7,
+      "roi_prozent": 88.3
     },
     "Sieg Atalanta": {
       "tipps": 1,
@@ -2290,6 +2345,105 @@
       "netto": 1.38,
       "trefferquote": 100.0,
       "roi_prozent": 138.0
+    },
+    "Doppelte Chance Bayern oder Remis": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.1,
+      "trefferquote": 100.0,
+      "roi_prozent": 10.0
+    },
+    "Doppelte Chance Leverkusen oder Remis": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 0,
+      "push": 0,
+      "offen": 1,
+      "einsatz": 0.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Doppelte Chance PSG oder Remis": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.2,
+      "trefferquote": 100.0,
+      "roi_prozent": 20.0
+    },
+    "Doppelte Chance Liverpool oder Remis": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.25,
+      "trefferquote": 100.0,
+      "roi_prozent": 25.0
+    },
+    "Doppelte Chance Barcelona oder Remis": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 30.0
+    },
+    "Doppelte Chance Inter oder Remis": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 30.0
+    },
+    "Doppelte Chance Chelsea oder Remis": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.33,
+      "trefferquote": 100.0,
+      "roi_prozent": 33.0
+    },
+    "Doppelte Chance Union oder Remis": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.75,
+      "trefferquote": 100.0,
+      "roi_prozent": 75.0
+    },
+    "Unter 3.5 Tore": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.85,
+      "trefferquote": 100.0,
+      "roi_prozent": 42.5
     }
   },
   "nach_markt_typ": {
@@ -2382,15 +2536,15 @@
       "roi_prozent": 10.7
     },
     "Ueber 2.5 Tore": {
-      "tipps": 26,
-      "gewonnen": 13,
+      "tipps": 28,
+      "gewonnen": 14,
       "verloren": 11,
       "push": 0,
-      "offen": 2,
-      "einsatz": 24.0,
-      "netto": 12.97,
-      "trefferquote": 54.2,
-      "roi_prozent": 54.0
+      "offen": 3,
+      "einsatz": 25.0,
+      "netto": 13.37,
+      "trefferquote": 56.0,
+      "roi_prozent": 53.5
     },
     "Crvena Zvezda oder Unentschieden": {
       "tipps": 3,
@@ -2426,15 +2580,15 @@
       "roi_prozent": 0.0
     },
     "Doppelte Chance": {
-      "tipps": 26,
-      "gewonnen": 11,
+      "tipps": 34,
+      "gewonnen": 18,
       "verloren": 8,
       "push": 0,
-      "offen": 7,
-      "einsatz": 19.0,
-      "netto": 7.0,
-      "trefferquote": 57.9,
-      "roi_prozent": 36.8
+      "offen": 8,
+      "einsatz": 26.0,
+      "netto": 9.23,
+      "trefferquote": 69.2,
+      "roi_prozent": 35.5
     },
     "Inter gewinnt": {
       "tipps": 1,
@@ -2545,19 +2699,30 @@
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Unter 3.5 Tore": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.85,
+      "trefferquote": 100.0,
+      "roi_prozent": 42.5
     }
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 134,
-      "gewonnen": 70,
+      "tipps": 136,
+      "gewonnen": 71,
       "verloren": 62,
       "push": 0,
-      "offen": 2,
-      "einsatz": 132.0,
-      "netto": 52.95,
-      "trefferquote": 53.0,
-      "roi_prozent": 40.1
+      "offen": 3,
+      "einsatz": 133.0,
+      "netto": 53.7,
+      "trefferquote": 53.4,
+      "roi_prozent": 40.4
     },
     "2.00-3.00": {
       "tipps": 24,
@@ -2582,28 +2747,28 @@
       "roi_prozent": 18.8
     },
     "1.00-1.50": {
-      "tipps": 106,
-      "gewonnen": 64,
+      "tipps": 116,
+      "gewonnen": 73,
       "verloren": 34,
       "push": 1,
-      "offen": 7,
-      "einsatz": 99.0,
-      "netto": 28.37,
-      "trefferquote": 65.3,
-      "roi_prozent": 28.7
+      "offen": 8,
+      "einsatz": 108.0,
+      "netto": 31.1,
+      "trefferquote": 68.2,
+      "roi_prozent": 28.8
     }
   },
   "nach_kategorie": {
     "value": {
-      "tipps": 173,
-      "gewonnen": 86,
+      "tipps": 185,
+      "gewonnen": 96,
       "verloren": 82,
       "push": 1,
-      "offen": 4,
-      "einsatz": 169.0,
-      "netto": 39.47,
-      "trefferquote": 51.2,
-      "roi_prozent": 23.4
+      "offen": 6,
+      "einsatz": 179.0,
+      "netto": 42.95,
+      "trefferquote": 53.9,
+      "roi_prozent": 24.0
     },
     "wackel": {
       "tipps": 51,
@@ -2647,14 +2812,14 @@
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 272,
-      "gewonnen": 142,
+      "tipps": 284,
+      "gewonnen": 152,
       "verloren": 118,
       "push": 1,
-      "offen": 11,
-      "einsatz": 261.0,
-      "netto": 87.32,
-      "trefferquote": 54.6,
+      "offen": 13,
+      "einsatz": 271.0,
+      "netto": 90.8,
+      "trefferquote": 56.3,
       "roi_prozent": 33.5
     },
     "kasse": {
@@ -2692,21 +2857,158 @@
         "start": "2026-08-22",
         "ende": "2027-06-30",
         "bilanz": {
-          "tipps": 93,
-          "gewonnen": 64,
+          "tipps": 105,
+          "gewonnen": 74,
           "verloren": 29,
           "push": 0,
-          "offen": 0,
-          "einsatz": 93.0,
-          "netto": 78.68,
-          "trefferquote": 68.8,
-          "roi_prozent": 84.6
+          "offen": 2,
+          "einsatz": 103.0,
+          "netto": 82.16,
+          "trefferquote": 71.8,
+          "roi_prozent": 79.8
         },
         "ist_aktuell": true
       }
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-10-17",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Kombi 3er",
+          "kategorie": "safe",
+          "gesamtquote": 1.61,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Doppelte Chance Bayern oder Remis",
+              "quote": 1.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance Leverkusen oder Remis",
+              "quote": 1.22,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance PSG oder Remis",
+              "quote": 1.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi",
+          "kategorie": "balance",
+          "gesamtquote": 4.29,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Doppelte Chance Liverpool oder Remis",
+              "quote": 1.25,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 3.5 Tore",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi",
+          "kategorie": "risk",
+          "gesamtquote": 7.6,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Doppelte Chance Union oder Remis",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.55,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi",
+          "kategorie": "moonshot",
+          "gesamtquote": 4.34,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.55,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-10-16",
       "gesamt": {
