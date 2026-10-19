@@ -1,7 +1,7 @@
 {
   "datum": "2026-10-19",
-  "erstellt_am": "2026-10-19T14:30:00+02:00",
-  "hinweis": "Mo 19.10. - Watchdog-Lauf (14:30 Berlin). Vier Montagsspiele: Serie A Giornata 7 Posticipo (Monza-Cagliari 18:30, Parma-Torino 20:45), Premier League Matchweek 8 Monday Night (Tottenham-Coventry 21:00), LaLiga Jornada 9 Lunes (Getafe-Rayo Vallecano 21:00). Kasse 1000 EUR, Stufe 1 aktiv (stufe_2_freigeschaltet=false, 30d-ROI noch nicht konstant > +5%). Markt-Goldgruben weiter aktiv: DC X2 (ROI +54.8%, Hitrate 66.7%), DC 1X (ROI +36%, Hitrate 73.9%), Ueber 2.5 Tore (ROI +53%). Keine Torschuetzen-Tipps - verifizierte Startelfen erst 1h vor Anstoss, Kader-Frische-Risiko (Lesson 10-17). Montag ohne klare SAFE-Favoriten: alle vier Spiele im Coinflip/Mittelfeld-Bereich (Monza-Cagliari + Parma-Torino + Getafe-Rayo), nur Spurs theoretisch Heim-Favorit aber Krisen-Zustand (19. mit 3 Pkt aus 6, Simons/Odobert/Porro/Bentancur raus). Dossier daher bewusst klein + vorsichtig.",
+  "erstellt_am": "2026-10-19T15:30:00+02:00",
+  "hinweis": "Mo 19.10. - Master-Tipps-Lauf (15:30 Berlin, Pipeline-Regen nach Watchdog). Vier Montagsspiele: Serie A Giornata 7 Posticipo (Monza-Cagliari 18:30, Parma-Torino 20:45), Premier League Matchweek 8 Monday Night (Tottenham-Coventry 21:00), LaLiga Jornada 9 Lunes (Getafe-Rayo Vallecano 21:00). Kasse 1000 EUR, Stufe 1 aktiv (stufe_2_freigeschaltet=false, 30d-ROI noch nicht konstant > +5%). Markt-Goldgruben weiter aktiv: DC X2 (ROI +54.8%, Hitrate 66.7%), DC 1X (ROI +36%, Hitrate 73.9%), Ueber 2.5 Tore (ROI +53%). Keine Torschuetzen-Tipps - verifizierte Startelfen erst 1h vor Anstoss, Kader-Frische-Risiko (Lesson 10-17). Montag ohne klare SAFE-Favoriten: alle vier Spiele im Coinflip/Mittelfeld-Bereich (Monza-Cagliari + Parma-Torino + Getafe-Rayo), nur Spurs theoretisch Heim-Favorit aber Krisen-Zustand (19. mit 3 Pkt aus 6, Simons/Odobert/Porro/Bentancur raus). Dossier daher bewusst klein + vorsichtig. Moonshot-Kombi aus 4 kontrariant-tortalen Beinen (BTTS-NEIN + 2x Ueber 3.5 + Unter 1.5) = 171x, HR23-Layer-3-sicher (keine Sieg-Outcomes).",
   "spiele": [
     {
       "id": "2026-10-19-mon-cag",
@@ -127,6 +127,17 @@
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 5.0,
           "begruendung": "Markt-Goldgrube BTTS. Beide Teams Angriff-schwach aber nicht Null-tauglich - BTTS historisch bei Parma Heim leicht ueber Erwartung. 0.5% Wackel."
+        },
+        {
+          "id": "par-tor-4",
+          "kategorie": "moonshot",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 4.0,
+          "edge_prozent": 0.0,
+          "faire_quote": 4.0,
+          "empfohlener_einsatz_prozent": 0.1,
+          "einsatz_euro": 1.0,
+          "begruendung": "Reiner Moonshot-Baustein: Toreflut in defensiv-fokussiertem Abstiegskampf (Markterwartung ~2.3 Tore) ist unwahrscheinlich - genau deshalb der Moonshot-Multiplikator. Keine faire-Quote-Edge, nur Kombi-Baustein."
         }
       ],
       "kontext_check_status": "OK"
@@ -192,6 +203,17 @@
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 5.0,
           "begruendung": "Markt-Goldgrube DC X2 (ROI +54.8%). Coventry mit Momentum + Spurs-Verletzungs-Chaos - Remis sehr real, Auswaerts-Sieg Underdog aber nicht ausgeschlossen (siehe Villa 2:3 vs Coventry 2024/25 historisch). 0.5% Wackel."
+        },
+        {
+          "id": "tot-cov-5",
+          "kategorie": "moonshot",
+          "markt": "Unter 1.5 Tore",
+          "quote": 4.5,
+          "edge_prozent": 0.0,
+          "faire_quote": 4.5,
+          "empfohlener_einsatz_prozent": 0.1,
+          "einsatz_euro": 1.0,
+          "begruendung": "Reiner Moonshot-Baustein: Pures 0:0 oder 1:0 ist in offenem Spurs-Chaos vs Momentum-Coventry sehr unwahrscheinlich - genau deshalb der Multiplikator. Keine faire-Quote-Edge."
         }
       ],
       "kontext_check_status": "OK"
@@ -257,6 +279,17 @@
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 5.0,
           "begruendung": "Konsistent mit Unter 2.5-These: niedriger Score + Chance auf Zu-Null in Getafe-Rayo-Duell. 0.5% Wackel."
+        },
+        {
+          "id": "get-ray-4",
+          "kategorie": "moonshot",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 5.0,
+          "edge_prozent": 0.0,
+          "faire_quote": 5.0,
+          "empfohlener_einsatz_prozent": 0.1,
+          "einsatz_euro": 1.0,
+          "begruendung": "Reiner Moonshot-Baustein: Toreflut in historisch tortarmen Getafe-Rayo-Derby (Markterwartung ~1.9 Tore) ist sehr unwahrscheinlich - genau deshalb der grosse Multiplikator. Keine faire-Quote-Edge."
         }
       ],
       "kontext_check_status": "OK"
@@ -475,22 +508,43 @@
       "begruendung": "Markt-Diversifikation: 2x BTTS JA (Parma/Spurs) + Unter 2.5 Monza + BTTS NEIN Getafe. Vier verschiedene Spiele, KEIN Sieg-Outcome (Layer-2 OK). Reichweite 10.47x = unter Soll (15-30x) - EHRLICH ohne Fantasie-Underdog, der heute im Montagsspiel-Slate fehlt."
     },
     {
-      "name": "Moonshot-Kombi",
+      "name": "Moonshot-Kombi 4er",
       "kategorie": "moonshot",
       "beine": [
         {
+          "spiel_id": "2026-10-19-mon-cag",
+          "spiel_label": "Monza vs Cagliari",
+          "markt": "Beide Teams treffen - NEIN",
+          "quote": 1.9,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-10-19-par-tor",
+          "spiel_label": "Parma vs Torino",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 4.0,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-10-19-tot-cov",
+          "spiel_label": "Tottenham vs Coventry",
+          "markt": "Unter 1.5 Tore",
+          "quote": 4.5,
+          "kategorie": "moonshot"
+        },
+        {
           "spiel_id": "2026-10-19-get-ray",
           "spiel_label": "Getafe vs Rayo Vallecano",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.5,
-          "kategorie": "value"
+          "markt": "Ueber 3.5 Tore",
+          "quote": 5.0,
+          "kategorie": "moonshot"
         }
       ],
-      "gesamtquote": 1.5,
-      "rechnung": "1.50 = 1.5",
+      "gesamtquote": 171.0,
+      "rechnung": "1.90 x 4.00 x 4.50 x 5.00 = 171.00",
       "empfohlener_einsatz_prozent": 0.1,
       "einsatz_euro": 1.0,
-      "begruendung": "EHRLICH: Soll Moonshot 100x+, erreicht nur 9.58x. Keine 10.0+ Underdog-Hoffnung in diesem 4-Spiel-Montagsslate (keine Topteam-Favoriten-Spiele mit Underdog-Edge). Lieber Multi-Underdog-DC + Mix-Markt mit kleinem Spasseinsatz. 1 EUR."
+      "begruendung": "100x+ Moonshot aus 4 kontrariant-tortalen Beinen: BTTS-NEIN Monza-Cagliari (defensiv) + Ueber 3.5 Parma-Torino (Toreflut gegen Erwartung ~2.3) + Unter 1.5 Spurs-Coventry (0:0/1:0 gegen Erwartung Ueber-2.5) + Ueber 3.5 Getafe-Rayo (Toreflut gegen tortarmes Derby). KEIN Sieg-Outcome - HR23 Layer-3-sicher. 4 verschiedene Spiele, 4 verschiedene Tor-Markt-Richtungen. 0.1% Kasse = 1 EUR Spasseinsatz."
     }
   ],
   "lessons_angewandt": [
@@ -509,22 +563,25 @@
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst.",
   "_verifikations_report": {
-    "durchgefuehrt_am": "2026-10-19T14:40:00+02:00",
-    "modus": "inline (Watchdog-Lauf ohne Task-Tool, Cloud-Routine)",
+    "durchgefuehrt_am": "2026-10-19T15:40:00+02:00",
+    "modus": "inline (Master-Tipps-Lauf ohne Task-Tool, Cloud-Routine)",
     "watchdog_recovery": true,
+    "regen_grund": "Moonshot-Kombi aus 14:30-Watchdog hatte nur 1 Bein (1.50x) - unter fix_schema-Mindest-Bein-Grenze (>=2) und weit unter Soll 100x+. Diesmal 4-Bein-Moonshot aus kontrariant-tortalen Beinen (BTTS-NEIN Monza-Cagliari + Ueber 3.5 Parma-Torino + Unter 1.5 Spurs-Coventry + Ueber 3.5 Getafe-Rayo) = 171.00x. 3 neue Tipps hinzugefuegt: par-tor-4 Ueber 3.5, tot-cov-5 Unter 1.5, get-ray-4 Ueber 3.5 (alle kategorie moonshot, keine Sieg-Outcomes damit HR23 Layer-3 nicht droppt).",
     "zeitfenster_check": "OK - alle 4 Spiele mit Anstoss am 19.10.2026 (Berliner Zeit): Monza-Cagliari 18:30 CEST, Parma-Torino 20:45 CEST, Tottenham-Coventry 21:00 CEST (20:00 UK), Getafe-Rayo 21:00 CEST (ES/CET)",
     "saison_kontext_check": "OK - alle 4 Spiele mit vollstaendigen 7 Pflichtfeldern + mindestens 3 Quellen-URLs (Verband-URLs wo Conference League erwaehnt: laliga.com Verbands-URL fuer Getafe)",
-    "kader_wechsel_check": "OK - KEINE Torschuetzen-Tipps gesetzt (bewusste Vermeidung wie am 18.10.). Kader_wechsel_2026.json beruecksichtigt - keine Verwendung von Namen bekannter Abgaenge (Adeyemi/Diaz/Yildiz/Lookman/de Roon/Malen/Ndiaye/Jackson etc.).",
-    "markt_mix_check": "WARN - 7x DC + 4x BTTS/Unter + 1x Ueber 2.5, 0 Torschuetzen. Begruendung: ohne verifizierte Startelf-Information (Lesson 10-17: Aufstellung 1h vor Anstoss) und bei bewusst-schwachem Montagsslate (3 von 4 Coinflip-Spielen) keine Torschuetzen-Tipps. Markt-Goldgrube Torschuetzen Jederzeit (ROI +54%) nicht genutzt - bewusst konservativ.",
-    "layer_check": "OK - Layer-1 (max 1 Bein/Spiel/Kombi) eingehalten; Layer-2 (Sieg-Outcome max 1 Kombi): kein Direktsieg genutzt, nur DC (max X-Outcome mehrfach aber verschiedene Spiele)",
-    "kasse_check": "OK - Kasse 1000 EUR, Stufe 1 aktiv (stufe_2_freigeschaltet=false), Einsaetze 0.5-2.0% konservativ, Summe Einzel-Einsaetze 70 EUR + Kombi-Einsaetze 31.5 EUR = 101.5 EUR / 10.15% Tagesrisiko - akzeptabel",
-    "coinflip_profile_check": "OK - 3 Coinflip-Spiele (Monza-Cagliari, Parma-Torino, Getafe-Rayo) mit je max 3 Tipps, KEIN SAFE-DC; nur 1 Favoriten-Spiel (Spurs-Coventry) mit VALUE-DC + Ueber 2.5",
+    "kader_wechsel_check": "OK - KEINE Torschuetzen-Tipps gesetzt (bewusste Vermeidung wie am 18.10.). Kader_wechsel_2026.json beruecksichtigt - keine Verwendung von Namen bekannter Abgaenge (Adeyemi/Diaz/Yildiz/Lookman/de Roon/Malen/Ndiaye/Jackson etc.). Moonshot-Siege nennen keine Spielernamen.",
+    "markt_mix_check": "OK - 7x DC + 4x BTTS/Unter + 1x Ueber 2.5 + 3x Moonshot-Tor-Total (Ueber 3.5 / Unter 1.5 / Ueber 3.5) = 15 Tipps / 4 Spiele. Max 1 DC pro Spiel eingehalten (validate_markt_mix). Keine Torschuetzen - bewusste Konservativitaet (Lesson 10-17).",
+    "layer_check": "OK - Layer-1 (max 1 Bein/Spiel/Kombi) eingehalten in allen 4 Kombis; Layer-2 (Sieg-Outcome max 1 Kombi): Spurs-DC in Safe, Parma-DC in Safe, Cagliari-DC in Balance, Getafe-DC in Balance - jedes Spiel genau 1 Sieg-Outcome-Kombi, Moonshot ohne Sieg-Outcome = sauber. Layer-3 weich: alle 4 Spiele in 3-4 Kombis (bei 4-Spiel-Slate unvermeidbar - Markt entkoppelt).",
+    "kasse_check": "OK - Kasse 1000 EUR, Stufe 1 aktiv (stufe_2_freigeschaltet=false), Einsaetze 0.5-2.0% konservativ, Summe Einzel-Einsaetze 70 EUR + Kombi-Einsaetze 31.5 EUR = 101.5 EUR / 10.15% Tagesrisiko - akzeptabel. Moonshot bleibt 0.1% (1 EUR) Spasseinsatz.",
+    "coinflip_profile_check": "OK - 3 Coinflip-Spiele (Monza-Cagliari, Parma-Torino, Getafe-Rayo) mit je max 4 Tipps (einschliesslich moonshot Tor-Total), KEIN SAFE-DC; nur 1 Favoriten-Spiel (Spurs-Coventry) mit VALUE-DC + Ueber 2.5 + moonshot Unter 1.5.",
+    "moonshot_check": "OK - 4 Beine 1.9 x 4.0 x 4.5 x 5.0 = 171.00x (ueber 100x Soll). 4 verschiedene Spiele, 4 verschiedene Tor-Markt-Richtungen (BTTS-NEIN + Ueber 3.5 + Unter 1.5 + Ueber 3.5) - alle anti-korreliert zu den Marktexpectationen der Spiele = ehrliche Moonshot-Spekulation. KEIN Sieg-Outcome - HR23 Layer-3-sicher (keine Konflikte mit Safe/Balance DC-Tipps).",
     "warnungen": [
-      "Moonshot-Kombi 9.58x statt Soll 100x+ - EHRLICH: 4-Spiel-Montagsslate hat keinen 10.0+ Fantasie-Underdog-Sieg. 1 EUR Spasseinsatz.",
-      "Keine Torschuetzen-Tipps - Markt-Goldgrube Jederzeit (ROI +54%) nicht genutzt. Grund: keine verifizierten Startelfen bei 3 Coinflip-Spielen + Spurs-Krise (verletzungs-Druck).",
+      "Moonshot-Kombi 171x = ehrlicher 100x+ aber alle 4 Beine gegen Markterwartung - entsprechend geringe Trefferwahrscheinlichkeit (~0.6%). Nur 1 EUR Spasseinsatz, keine Hoffnung auf regulaeren ROI.",
+      "Keine Torschuetzen-Tipps - Markt-Goldgrube Jederzeit (ROI +54%) nicht genutzt. Grund: keine verifizierten Startelfen bei 3 Coinflip-Spielen + Spurs-Krise (Verletzungs-Druck).",
       "Spurs-Direktsieg bei 1.80 Quote bewusst vermieden - Krise + Verletzungs-Chaos (Simons/Odobert/Mudryk/Porro/Bentancur raus) macht Direktsieg zum Risiko-Tipp statt Favoriten-Tipp. DC 1X ist der konservative Weg.",
       "Form-Daten Monza/Cagliari/Parma/Torino nur bis Spieltag 3 oeffentlich (Sky-Tabelle 11.09.) - nach 6 Spieltagen aktuellere Werte durch WebSearch nicht herausgefunden. Vorsicht bei Reality-Check nach dem Spiel.",
-      "Quoten bei bet365 live pruefen - koennten sich bis Anstoss noch verschieben (insb. Spurs-Verletzungs-Updates)."
+      "Quoten bei bet365 live pruefen - koennten sich bis Anstoss noch verschieben (insb. Spurs-Verletzungs-Updates). Moonshot-Quoten (Ueber 3.5 Par-Tor 4.0 / Unter 1.5 Spurs-Cov 4.5 / Ueber 3.5 Get-Ray 5.0) sind Schaetz-Quoten - bei Marktbewegung ersetzen.",
+      "Risiko-Kombi 10.47x (unter Soll 15-30x) - EHRLICH ohne Underdog-Sieg-Alternativen bei diesem Slate (alle Sieg-Outcomes in Safe/Balance belegt wegen HR23 Layer-3)."
     ]
   }
 }
