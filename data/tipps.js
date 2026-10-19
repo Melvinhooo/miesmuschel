@@ -1,125 +1,125 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
-  "datum": "2026-10-18",
-  "erstellt_am": "2026-10-18T10:30:00+02:00",
-  "hinweis": "So 18.10. - voller Sonntag-Slate: Serie A Giornata 7 (Roma-Genoa 12:30, Fiorentina-Como 15:00, Milan-Atalanta 18:00, Juventus-Lazio 20:45), LaLiga Jornada 9 (Celta-Alaves 16:15, Malaga-Sociedad 18:30, Real-Sevilla 21:00), Premier League Matchweek 8 (Nottingham-Arsenal 17:30), Ligue 1 Journee 7 (Angers-OM 15:00, Lyon-Nice 20:45). Kasse 1000 EUR, Stufe 1 (saisoneigener Edge noch nicht erreicht fuer Stufe 2 - 30d-ROI < +5%). Markt-Goldgruben weiter aktiv: DC X2 (ROI +54.8%, Hitrate 66.7%), Doppelte Chance 1X (ROI +36%, Hitrate 73.9%), Ueber 2.5 Tore (ROI +53%). Fokus: Favoriten-DC bei CL-/EL-Rotations-Last; keine Spieler-Tipps auf schon gewechselte oder langzeit-verletzte Namen (Yildiz/Vlahovic/Jesus/Adeyemi/Leao etc.). Bundesliga 6. Spieltag Sonntag ohne verifizierte Anstoszeiten in oeffentl. Quellen - uebersprungen (saubere Zeitfenster-Hartregel waehrt).",
+  "datum": "2026-10-19",
+  "erstellt_am": "2026-10-19T14:30:00+02:00",
+  "hinweis": "Mo 19.10. - Watchdog-Lauf (14:30 Berlin). Vier Montagsspiele: Serie A Giornata 7 Posticipo (Monza-Cagliari 18:30, Parma-Torino 20:45), Premier League Matchweek 8 Monday Night (Tottenham-Coventry 21:00), LaLiga Jornada 9 Lunes (Getafe-Rayo Vallecano 21:00). Kasse 1000 EUR, Stufe 1 aktiv (stufe_2_freigeschaltet=false, 30d-ROI noch nicht konstant > +5%). Markt-Goldgruben weiter aktiv: DC X2 (ROI +54.8%, Hitrate 66.7%), DC 1X (ROI +36%, Hitrate 73.9%), Ueber 2.5 Tore (ROI +53%). Keine Torschuetzen-Tipps - verifizierte Startelfen erst 1h vor Anstoss, Kader-Frische-Risiko (Lesson 10-17). Montag ohne klare SAFE-Favoriten: alle vier Spiele im Coinflip/Mittelfeld-Bereich (Monza-Cagliari + Parma-Torino + Getafe-Rayo), nur Spurs theoretisch Heim-Favorit aber Krisen-Zustand (19. mit 3 Pkt aus 6, Simons/Odobert/Porro/Bentancur raus). Dossier daher bewusst klein + vorsichtig.",
   "spiele": [
     {
-      "id": "2026-10-18-rom-gen",
+      "id": "2026-10-19-mon-cag",
       "liga": "Serie A - Giornata 7",
-      "heim": "AS Roma",
-      "gast": "Genoa CFC",
-      "anstoss": "2026-10-18T12:30:00+02:00",
-      "stadion": "Stadio Olimpico, Roma",
+      "heim": "AC Monza",
+      "gast": "Cagliari Calcio",
+      "anstoss": "2026-10-19T18:30:00+02:00",
+      "stadion": "U-Power Stadium, Monza",
       "saison_kontext": {
-        "parallel_heim": "Europa League Phase - Roma MD3 am 22./23.10. - diese Woche nur Liga, aber EL-Rhythmus Donnerstag",
-        "parallel_gast": "keine - Genoa 2026/27 ohne Europapokal",
-        "saisonziel_heim": "Top-6 / Europa-Rueckkehr unter Gasperini. Nach 6 Spielen Mittelfeld (~9-11 Pkt). Malen (von Villa fix), de Roon (von Atalanta) als Umbau-Impuls, Gasperini-Pressing-System etabliert sich.",
-        "saisonziel_gast": "Klassenerhalt, 2025/26 Platz 11, Start 2026/27 schwach (unter Mittelfeld). Reist nach Rom als klarer Underdog.",
-        "motivations_asymmetrie": "Roma Heim-Favorit (~1.45), Fruehanstoss 12:30 lokal typisch Favoriten-stabil (keine Reiselast); Gasperini-Pressing + Malen-Doppelpack-Niveau zuletzt (CL vs Real 2:0) = reeller Edge, kein Coinflip.",
-        "recovery_heim": "4 Tage seit CL/EL (letzte EL-Partie 15.10.) - fit, Rotation moeglich",
-        "recovery_gast": "7 Tage Pause (Laenderspielfenster-Nachwehe + Spieltag 6)",
+        "parallel_heim": "keine - Monza 2026/27 ohne Europapokal (Aufsteiger aus Serie B Playoff 2025/26)",
+        "parallel_gast": "keine - Cagliari 2026/27 ohne Europapokal",
+        "saisonziel_heim": "Klassenerhalt. Monza nach einem Jahr Serie B (Playoff-Sieger ueber Platz 3) zurueck in Serie A. Trainer Paolo Bianco (vom Aufstieg). Nach Spieltag 3 noch 1 Pkt, Start weiter schwach - akuter Abstiegskampf-Modus.",
+        "saisonziel_gast": "Klassenerhalt / unteres Mittelfeld. 2025/26 Platz 15, Start 2026/27 nach 3 Spieltagen 6 Pkt (ueber Erwartung). Petagna + Lapadula als Sturm-Volumen.",
+        "motivations_asymmetrie": "Direkter Abstiegskampf-Vierpunkte-Charakter: Monza Heim muss liefern vs Cagliari mit Mini-Edge aus Form. 1X2 nahezu 50/50 (Monza ~2.40, Remis ~3.10, Cagliari ~2.90). KEIN SAFE moeglich - Coinflip-Spiel per Pflicht-Profil-Regel (max 3 Tipps, kein SAFE-DC).",
+        "recovery_heim": "7 Tage Pause seit Spieltag 6 - frisch",
+        "recovery_gast": "7 Tage Pause - frisch",
         "quellen": [
           "https://www.legaseriea.it/en/serie-a/calendar",
-          "https://it.soccerway.com/news/calcio-serie-a-serie-a-pronostici-migliori-scommesse-e-quote-della-settima-giornata/KIKJJsFl",
-          "https://www.pianetafanta.it/calendario-serie-a?giornata=7"
+          "https://www.pianetafanta.it/calendario-serie-a?giornata=7",
+          "https://www.sport-flash.com/sports/football/it/calendar/2026-10-19"
         ]
       },
       "news": [
-        "Roma unter Gasperini im Umbau: Malen (fix von Villa) + de Roon (ex-Atalanta) als Mittelfeld-Achse neu.",
-        "Genoa 2026/27 bisher weit abgeschlagen - nach 6 Spielen Abstiegskampf-Modus.",
-        "Fruehanstoss Sonntag 12:30 historisch Favoriten-stabil (gering Reise-Overhead).",
+        "Monza Aufsteiger 2026/27 (Playoff ueber Platz 3), noch nicht in Serie A angekommen - 1 Pkt nach 3 Spieltagen.",
+        "Cagliari Start passabel (6 Pkt nach 3), Petagna/Lapadula als Sturm-Rotation.",
+        "Vierpunkte-Spiel Abstiegskampf - Motivation symmetrisch hoch.",
         "2:0-Insurance greift nicht (Serie A, nur BL + CL)."
       ],
       "tipps": [
         {
-          "id": "rom-gen-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance Roma oder Remis",
-          "quote": 1.08,
-          "edge_prozent": 2.0,
-          "faire_quote": 1.06,
-          "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_euro": 20.0,
-          "begruendung": "Markt-Goldgrube Doppelte Chance (ROI +35%, Hitrate 69%). Roma zuhause gegen Genoa klarer Favorit, Pflicht-Profil Heim-Favorit erfuellt. Niedrige Quote - aber Hitrate-Erwartung ~85%. 2% Kasse = 20 EUR."
-        },
-        {
-          "id": "rom-gen-2",
-          "kategorie": "value",
-          "markt": "Ueber 1.5 Tore",
-          "quote": 1.3,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.25,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Roma offensiv unter Gasperini bisher ~1.8 Tore/Heim; Genoa Auswaerts anfaellig. 2+ Tore sehr wahrscheinlich. 1.5% Kasse = 15 EUR."
-        },
-        {
-          "id": "rom-gen-3",
+          "id": "mon-cag-1",
           "kategorie": "wackel",
-          "markt": "Sieg Roma (90 Min)",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.68,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Abstiegskampf-Duell traditionell torarm (Angst-vor-Verlust-Dynamik). Beide Teams nach 3 Spielen defensiv-fokussiert. Erwartungswert ~2.0 Tore. 0.5% Wackel = 5 EUR."
+        },
+        {
+          "id": "mon-cag-2",
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance Cagliari oder Remis",
+          "quote": 1.6,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Markt-Goldgrube DC X2 (ROI +54.8%). Cagliari Form-Edge nach Start (6 Pkt vs 1 Pkt), auswaerts bei schwachem Aufsteiger realistisch. 0.5% Wackel = 5 EUR."
+        },
+        {
+          "id": "mon-cag-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen - NEIN",
+          "quote": 1.9,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.84,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Zwei defensiv-orientierte Abstiegskaempfer - Chance auf Zu-Null-Ergebnis real. Konsistent mit Unter 2.5-These. 0.5% Wackel."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-19-par-tor",
+      "liga": "Serie A - Giornata 7",
+      "heim": "Parma Calcio",
+      "gast": "Torino FC",
+      "anstoss": "2026-10-19T20:45:00+02:00",
+      "stadion": "Stadio Ennio Tardini, Parma",
+      "saison_kontext": {
+        "parallel_heim": "keine - Parma 2026/27 ohne Europapokal",
+        "parallel_gast": "keine - Torino 2026/27 ohne Europapokal",
+        "saisonziel_heim": "Klassenerhalt / unteres Mittelfeld. 2025/26 Platz 12 (34 Pkt), Start 2026/27 schwach (nach 3 Spielen 1 Pkt).",
+        "saisonziel_gast": "Mittelfeld / Europa-Konferenz-Hoffnung. 2025/26 Platz 15, Start 2026/27 nach 3 Spielen 3 Pkt (durchwachsen), zuletzt Montagsspiel Torino-Udinese 20:45 Giornata 6.",
+        "motivations_asymmetrie": "Beide im unteren Tabellendrittel, Heimvorteil Parma leicht. 1X2 ~2.30 Parma / ~3.10 Remis / ~3.00 Torino - Coinflip-Spiel per Pflicht-Profil (max 3 Tipps, KEIN SAFE-DC moeglich). Mini-Edge Parma Heim.",
+        "recovery_heim": "7 Tage Pause - frisch",
+        "recovery_gast": "7 Tage Pause (seit Mo 12.10. Torino-Udinese) - 7 Tage ok",
+        "quellen": [
+          "https://www.legaseriea.it/en/serie-a/calendar",
+          "https://www.pianetafanta.it/calendario-serie-a?giornata=7",
+          "https://sportnews.betflag.it/2026/03/13/torino-parma-probabili-formazioni-pronostico-serie-a/"
+        ]
+      },
+      "news": [
+        "Parma Heim nach schwachem Start (1 Pkt), Torino unteres Mittelfeld.",
+        "Beide Teams defensiv-orientiert, erwartungswert ~2.3 Tore.",
+        "Posticipo Montag 20:45 - Live-Showcase-Rahmen.",
+        "2:0-Insurance greift nicht (Serie A)."
+      ],
+      "tipps": [
+        {
+          "id": "par-tor-1",
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance Parma oder Remis",
           "quote": 1.55,
           "edge_prozent": 3.0,
           "faire_quote": 1.5,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 5.0,
-          "begruendung": "Direkter Sieg Roma, Edge vorhanden. 2:0-Insurance greift nicht (Serie A). 0.5% Wackel-Einsatz."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-18-fio-com",
-      "liga": "Serie A - Giornata 7",
-      "heim": "ACF Fiorentina",
-      "gast": "Como 1907",
-      "anstoss": "2026-10-18T15:00:00+02:00",
-      "stadion": "Stadio Artemio Franchi, Firenze",
-      "saison_kontext": {
-        "parallel_heim": "Conference League Phase - Fiorentina MD3 am 22.10. Donnerstag - diese Woche nur Liga",
-        "parallel_gast": "keine - Como 2026/27 ohne Europapokal",
-        "saisonziel_heim": "Top-10 / Conference-Quali, 2025/26 Platz 8, 2026/27 bisher Mittelfeld (~7-9 Pkt).",
-        "saisonziel_gast": "Klassenerhalt sicher, Fabregas-System etabliert, 2025/26 Platz 11, 2026/27 bisher stabiles Mittelfeld (~7-9 Pkt).",
-        "motivations_asymmetrie": "Buchmacher-Fiorentina leicht favorisiert zuhause (~1.90), Como mit Fabregas-Taktik aber unangenehmer Gegner. Edge klein - Coinflip-nah. KEIN SAFE.",
-        "recovery_heim": "7 Tage Pause (Spieltag 6 war Sa 11.10.)",
-        "recovery_gast": "7 Tage Pause (keine Mittwochsbelastung)",
-        "quellen": [
-          "https://www.legaseriea.it/en/serie-a/calendar",
-          "https://www.pianetafanta.it/calendario-serie-a?giornata=7",
-          "https://it.soccerway.com/news/calcio-serie-a-serie-a-pronostici-migliori-scommesse-e-quote-della-settima-giornata/KIKJJsFl"
-        ]
-      },
-      "news": [
-        "Fiorentina zuhause solide, Franchi-Stimmung meist pro Viola.",
-        "Como unter Fabregas taktisch diszipliniert - 2024/25 beste Auswaerts-Minimal-Niederlagen-Quote.",
-        "Coinflip-naher Edge laut Buchmacher - vorsichtig taktieren.",
-        "2:0-Insurance greift nicht (Serie A)."
-      ],
-      "tipps": [
-        {
-          "id": "fio-com-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance Fiorentina oder Remis",
-          "quote": 1.28,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.24,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube DC (ROI +35%). Fiorentina Heim + Franchi-Edge, Como kein Blitz-Underdog. 1.5% Kasse = 15 EUR."
+          "begruendung": "Markt-Goldgrube DC 1X (ROI +36%, Hitrate 73.9%). Parma Heim-Mini-Edge gegen Torino. Erwartungswert passt. 0.5% Wackel."
         },
         {
-          "id": "fio-com-2",
-          "kategorie": "value",
+          "id": "par-tor-2",
+          "kategorie": "wackel",
           "markt": "Unter 2.5 Tore",
-          "quote": 1.75,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.67,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube Unter 2.5 (ROI +33%, Hitrate 60%). Fabregas-Como defensiv-strukturiert, Fiorentina ohne Ice-Breaker-Angriff im Lauf - erwartete Tore ~2.1. 1.5% Kasse."
+          "quote": 1.65,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Zwei defensiv-fokussierte Mittelfeld-Teams, Erwartungswert ~2.2 Tore. 0.5% Wackel."
         },
         {
-          "id": "fio-com-3",
+          "id": "par-tor-3",
           "kategorie": "wackel",
           "markt": "Beide Teams treffen",
           "quote": 1.9,
@@ -127,423 +127,42 @@ window.__MIESMUSCHEL_TIPPS = {
           "faire_quote": 1.86,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 5.0,
-          "begruendung": "BTTS 50/50. Como oft 1 Tor auswaerts, Fiorentina heim meist auch 1+. 0.5% Wackel."
+          "begruendung": "Markt-Goldgrube BTTS. Beide Teams Angriff-schwach aber nicht Null-tauglich - BTTS historisch bei Parma Heim leicht ueber Erwartung. 0.5% Wackel."
         }
       ],
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-10-18-ang-mar",
-      "liga": "Ligue 1 - Journee 7",
-      "heim": "Angers SCO",
-      "gast": "Olympique Marseille",
-      "anstoss": "2026-10-18T15:00:00+02:00",
-      "stadion": "Stade Raymond-Kopa, Angers",
+      "id": "2026-10-19-tot-cov",
+      "liga": "Premier League - Matchweek 8",
+      "heim": "Tottenham Hotspur",
+      "gast": "Coventry City",
+      "anstoss": "2026-10-19T21:00:00+02:00",
+      "stadion": "Tottenham Hotspur Stadium, London",
       "saison_kontext": {
-        "parallel_heim": "keine - Angers 2026/27 ohne Europapokal",
-        "parallel_gast": "Champions League Phase - OM MD3 20./21.10. - akute CL-Belastung vor der Tuer",
-        "saisonziel_heim": "Klassenerhalt. 2025/26 Platz 14, 2026/27 bisher am unteren Rand (~5-7 Pkt).",
-        "saisonziel_gast": "Top-3 / CL-Quali. 2025/26 Platz 2, 2026/27 Spitzengruppe (~15-16 Pkt nach 6 Spielen).",
-        "motivations_asymmetrie": "OM klarer Auswaerts-Favorit (~1.60), aber CL-MD3 Dienstag/Mittwoch = Rotations-Risiko bei Stamm-Offensive. Angers zuhause selten Punkt-sicher, aber kompakt. Edge real auf OM, aber kein Safe wegen CL-Last.",
-        "recovery_heim": "7 Tage Pause (Laenderspielfenster)",
-        "recovery_gast": "7 Tage Pause - naechste CL-Belastung Di/Mi vor der Tuer (Rotations-Antizipation)",
+        "parallel_heim": "keine - Tottenham 2026/27 ohne Europapokal (2025/26 Platz 10, nicht qualifiziert)",
+        "parallel_gast": "keine - Coventry Aufsteiger (Championship 2025/26 Meister / Playoff-Sieger)",
+        "saisonziel_heim": "Top-6 / Europa-Qualifikation unter De Zerbi (1. voller Saison). KRISE: 19. nach 6 Spielen mit nur 3 Pkt (Form LDDLD). Simons, Odobert, Mudryk, Porro (dbt), Kulusevski (dbt), Bentancur (Sperre) raus - Sturm/Mittelfeld entkernt.",
+        "saisonziel_gast": "Klassenerhalt. Aufsteiger 14. mit 6 Pkt nach 6 Spielen, zuletzt 1:0 vs Forest + 4:1 vs Newcastle - Momentum klar auf Coventry-Seite. Rudoni als Mittelfeld-Motor.",
+        "motivations_asymmetrie": "Spurs trotz Heimrecht KEIN klarer Favorit: Krisen-Zustand + Verletzungs-Chaos. Coventry mit Momentum. Markt dennoch Spurs-Favorit (~1.80) - das ist riskante Markt-Erwartung, DC 1X stark statt Direktsieg. KEIN SAFE moeglich (motivations_asymmetrie-Flag 'krise' + 'nicht klarer Favorit').",
+        "recovery_heim": "9 Tage Pause seit Spieltag 7 (Man Utd 10.10.) - lange Erholung, aber Verletzungs-Druck",
+        "recovery_gast": "9 Tage Pause seit letztem Championship-Hoch (Newcastle 4:1 am 10.10.) - frisch + motiviert",
         "quellen": [
-          "https://ligue1.com/en/articles/l1_article_5797-programmations-tv-j6-j7-et-j8-l1-2627",
-          "https://www.sport-flash.com/sports/football/fr/calendar/2026-10-18",
-          "https://www.psg.fr/content/resultats-de-la-6e-journee-de-ligue-1-paris-saint-germain-le-mans-fc-20262027/"
+          "https://www.premierleague.com/fixtures",
+          "https://www.footballwebpages.co.uk/premier-league/20261019",
+          "https://www.flashscore.co.uk/match/football/coventry-GOvB22xg/tottenham-UDg08Ohm/odds/"
         ]
       },
       "news": [
-        "Angers zuhause bisher 1 Sieg / 2 Niederlagen / 1 Remis.",
-        "OM in Spitzengruppe mit frischem CL-Boost, aber MD3 bereits am Dienstag/Mittwoch - Rotations-Risiko.",
-        "Verband-Quelle ligue1.com bestaetigt Anstoss 15:00 Angers-OM.",
-        "2:0-Insurance greift nicht (Ligue 1)."
+        "Tottenham in Krisen-Modus: 19. Platz mit 3 Pkt aus 6 Spielen, Simons/Odobert/Mudryk/Porro/Bentancur raus - Kader entkernt.",
+        "Coventry Aufsteiger mit Momentum - 2 Siege in Folge (1:0 Forest, 4:1 Newcastle), 14. mit 6 Pkt.",
+        "De Zerbi unter Druck - diese Partie Pflicht-Sieg vs Markt, aber Verletzungen druecken Edge.",
+        "Monday Night Football 21:00 London (20:00 UK) - Primetime vor Chelsea-Auswaerts (24.10.).",
+        "2:0-Insurance greift NICHT (Premier League, nur BL + CL)."
       ],
       "tipps": [
         {
-          "id": "ang-mar-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance OM oder Remis",
-          "quote": 1.25,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.2,
-          "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_euro": 20.0,
-          "begruendung": "Markt-Goldgrube DC X2 (ROI +54.8%, Hitrate 66.7%). OM Auswaerts-Favorit, CL-Rotations-Last absichert durch DC (Niederlage unwahrscheinlich). 2% Kasse = 20 EUR."
-        },
-        {
-          "id": "ang-mar-2",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.8,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.71,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +53%). OM-Angriff plus offene Angers-Defensive -> erwartete ~3 Tore. 1.5% Kasse."
-        },
-        {
-          "id": "ang-mar-3",
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen",
-          "quote": 1.7,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.65,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Markt-Goldgrube BTTS JA (ROI +23%). OM wird treffen (Topteam), Angers zuhause schafft meist 1 Tor. 0.5% Wackel."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-18-cel-ala",
-      "liga": "LaLiga - Jornada 9",
-      "heim": "Celta de Vigo",
-      "gast": "Deportivo Alaves",
-      "anstoss": "2026-10-18T16:15:00+02:00",
-      "stadion": "Estadio de Balaidos, Vigo",
-      "saison_kontext": {
-        "parallel_heim": "Europa League Phase - Celta MD3 am 22.10. Donnerstag - EL-Rhythmus etabliert",
-        "parallel_gast": "keine - Alaves 2026/27 ohne Europapokal",
-        "saisonziel_heim": "Top-10 / Europa-Quali, 2025/26 Platz 7, 2026/27 Mittelfeld (~10-12 Pkt).",
-        "saisonziel_gast": "Klassenerhalt, 2025/26 Platz 15, 2026/27 Abstiegskampf (~5-7 Pkt).",
-        "motivations_asymmetrie": "Celta Heim-Favorit (~1.75), Balaidos-Atmosphaere + Qualitaetsvorsprung real. Alaves auswaerts limitiert. Edge solide, kein Coinflip.",
-        "recovery_heim": "7 Tage Pause (Laenderspielfenster-Nachwehe)",
-        "recovery_gast": "7 Tage Pause - frisch",
-        "quellen": [
-          "https://www.laliga.com/en-GB/laliga-easports/calendar",
-          "https://www.comuniate.com/noticias/38405/alineaciones-probables-actualizadas-de-la-jornada-9-de-laliga"
-        ]
-      },
-      "news": [
-        "Celta zuhause solide, Iago Aspas weiter Volume-9er trotz Alter.",
-        "Alaves auswaerts selten mit vielen Toren - defensiv-strukturiert aber chancenarm.",
-        "Jornada 9 Sonntag 16:15 bestaetigt via laliga.com.",
-        "2:0-Insurance greift nicht (LaLiga)."
-      ],
-      "tipps": [
-        {
-          "id": "cel-ala-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance Celta oder Remis",
-          "quote": 1.25,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.2,
-          "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_euro": 20.0,
-          "begruendung": "Markt-Goldgrube DC 1X (ROI +36%, Hitrate 73.9%). Celta Heim gegen Abstiegskampf-Alaves, DC absichert. 2% Kasse = 20 EUR."
-        },
-        {
-          "id": "cel-ala-2",
-          "kategorie": "value",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.75,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.67,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube Unter 2.5 (ROI +33%, Hitrate 60%). Alaves auswaerts chancenarm, Celta offensiv zuletzt eher moderat ~1.5 Heim-Tore. Erwartungswert ~2 Tore. 1.5% Kasse."
-        },
-        {
-          "id": "cel-ala-3",
-          "kategorie": "wackel",
-          "markt": "Sieg Celta (90 Min)",
-          "quote": 1.75,
-          "edge_prozent": 2.0,
-          "faire_quote": 1.71,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Direkter Sieg Celta, kleiner Edge wegen EL-Nachwehen. 0.5% Wackel."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-18-nfo-ars",
-      "liga": "Premier League 2026/27 - Matchweek 8",
-      "heim": "Nottingham Forest",
-      "gast": "Arsenal FC",
-      "anstoss": "2026-10-18T17:30:00+02:00",
-      "stadion": "The City Ground, Nottingham",
-      "saison_kontext": {
-        "parallel_heim": "Europa League Phase - Forest MD3 am 22./23.10. - EL-Donnerstag-Rhythmus",
-        "parallel_gast": "Champions League Phase - Arsenal MD3 20./21.10. - akute CL-Belastung in dieser Woche vor der Tuer",
-        "saisonziel_heim": "Top-10 (Vorsaison 2025/26 Platz 7), 2026/27 bisher Mittelfeld (~9-11 Pkt). Elanga an Newcastle, Elliot Anderson an City - Mittelfeld-Umbau; neue Kaderstruktur noch jung.",
-        "saisonziel_gast": "Meisterschafts-Verteidigung (2025/26 Meister). 2026/27 Spitzengruppe (~16+ Pkt). Jesus zu Barca, Hincapie fix von Leverkusen. Enzo Fernandez nicht Arsenal - Chelsea->City.",
-        "motivations_asymmetrie": "Arsenal klarer Auswaerts-Favorit (~1.60), CL-MD3 Dienstag/Mittwoch vor der Tuer - erwartete Rotation. Forest zuhause unangenehm (City Ground-Pass), aber mit Elanga/Anderson-Abgaengen offensiv ausgeduennt. Edge real auf Arsenal, aber kein SAFE wegen CL-Last.",
-        "recovery_heim": "7 Tage Pause (Spieltag 7 Sa 11.10.)",
-        "recovery_gast": "7 Tage Pause - naechste CL-MD3 Di/Mi vor der Tuer (Rotations-Risiko bei Topspielern)",
-        "quellen": [
-          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
-          "https://www.skysports.com/share/13574076",
-          "https://www.sport-flash.com/sports/football/us/calendar/2026-10-18/premier-league-2026-2027"
-        ]
-      },
-      "news": [
-        "Forest Mittelfeld-Umbau nach Elanga+Anderson-Abgaengen, offensiv ausgeduennt.",
-        "Arsenal Spitzengruppe aber mit CL-MD3-Rotations-Risiko (Dienstag/Mittwoch danach).",
-        "Jesus (Barca) nicht mehr Arsenal-Torschuetze; Merino/Odegaard/Nwaneri Volumen offensiv.",
-        "2:0-Insurance greift nicht (Premier League)."
-      ],
-      "tipps": [
-        {
-          "id": "nfo-ars-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance Arsenal oder Remis",
-          "quote": 1.22,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.17,
-          "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_euro": 20.0,
-          "begruendung": "Markt-Goldgrube DC X2 (ROI +54.8%, Hitrate 66.7%). Arsenal Auswaerts-Favorit, DC absichert gegen CL-Last-Rotations-Risiko. 2% Kasse = 20 EUR."
-        },
-        {
-          "id": "nfo-ars-2",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.8,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.71,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +53%). Arsenal-Angriff dominant, Forest zuhause offener Stil - erwartungswert ~3 Tore. 1.5% Kasse."
-        },
-        {
-          "id": "nfo-ars-3",
-          "kategorie": "wackel",
-          "markt": "Sieg Arsenal (90 Min)",
-          "quote": 1.65,
-          "edge_prozent": 2.0,
-          "faire_quote": 1.61,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Direkter Sieg Arsenal, Edge kleiner wegen CL-Rotations-Antizipation + City-Ground-Pass. 0.5% Wackel."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-18-mil-ata",
-      "liga": "Serie A - Giornata 7",
-      "heim": "AC Milan",
-      "gast": "Atalanta BC",
-      "anstoss": "2026-10-18T18:00:00+02:00",
-      "stadion": "Stadio San Siro, Milano",
-      "saison_kontext": {
-        "parallel_heim": "keine - Milan 2026/27 ohne Europapokal (nach Serie-A-Platz 8 letzte Saison)",
-        "parallel_gast": "Champions League Phase - Atalanta MD3 20./21.10. - akute CL-Last",
-        "saisonziel_heim": "CL-Quali-Rueckkehr unter Amorim-Projekt. 2025/26 Platz 8, 2026/27 bisher solide (~10-12 Pkt). Goncalo Ramos (von PSG) + Cisse (Youngster-Joker) als Sturm, Leao abgegeben (Galatasaray).",
-        "saisonziel_gast": "CL-Platz halten, 2025/26 Platz 4, 2026/27 Mittelfeld-oben (~10-12 Pkt). De Roon zu Roma, Lookman zu Atletico - Mittelfeld-/Flanken-Umbau.",
-        "motivations_asymmetrie": "Milan Heim-Favorit (~2.00), aber Atalanta nie leichtes Spiel + Juric/Gasperini-Nachfolge-System etabliert. CL-MD3 fuer Atalanta Dienstag/Mittwoch = leichte Rotations-Antizipation. Edge Milan vorhanden, aber Coinflip-nah.",
-        "recovery_heim": "7 Tage Pause (Milan ohne UEFA)",
-        "recovery_gast": "7 Tage Pause, CL-MD3 vor der Tuer (Rotations-Antizipation)",
-        "quellen": [
-          "https://www.legaseriea.it/en/serie-a/calendar",
-          "https://www.pianetafanta.it/calendario-serie-a?giornata=7",
-          "https://it.soccerway.com/news/calcio-serie-a-serie-a-pronostici-migliori-scommesse-e-quote-della-settima-giornata/KIKJJsFl"
-        ]
-      },
-      "news": [
-        "Milan ohne Europapokal 2026/27 = volle Woche frisch zuhause.",
-        "Atalanta mit CL-MD3 Dienstag/Mittwoch vor der Tuer - Startelf-Rotation beobachten.",
-        "Keine Leao-/de-Roon-/Lookman-Tipps (alle abgegeben).",
-        "2:0-Insurance greift nicht (Serie A)."
-      ],
-      "tipps": [
-        {
-          "id": "mil-ata-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance Milan oder Remis",
-          "quote": 1.32,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.28,
-          "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_euro": 20.0,
-          "begruendung": "Markt-Goldgrube DC (ROI +35%). Milan Heim + Atalanta CL-Rotations-Risiko. DC statt direkter Sieg wegen Coinflip-Risiko (Atalanta auswaerts stark). 2% Kasse."
-        },
-        {
-          "id": "mil-ata-2",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen",
-          "quote": 1.65,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.59,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube BTTS JA (ROI +23%, Hitrate 61%). Zwei offensive Teams, Atalanta trifft fast immer auswaerts, Milan heim produktiv. 1.5% Kasse."
-        },
-        {
-          "id": "mil-ata-3",
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.8,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.75,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +53%). Zwei offensive Teams - erwartungswert ~3. 0.5% Wackel."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-18-mal-rso",
-      "liga": "LaLiga - Jornada 9",
-      "heim": "Malaga CF",
-      "gast": "Real Sociedad",
-      "anstoss": "2026-10-18T18:30:00+02:00",
-      "stadion": "Estadio La Rosaleda, Malaga",
-      "saison_kontext": {
-        "parallel_heim": "keine - Malaga (LaLiga-Aufsteiger 2026/27) ohne Europapokal",
-        "parallel_gast": "Europa League Phase - La Real MD3 22.10. Donnerstag",
-        "saisonziel_heim": "Klassenerhalt (Aufsteiger). 2026/27 Abstiegskampf, Rosaleda-Heimstaerke gefragt.",
-        "saisonziel_gast": "Europa-Rueckkehr, 2025/26 Platz 7, 2026/27 Mittelfeld-oben (~10-12 Pkt).",
-        "motivations_asymmetrie": "Real Sociedad Favorit (~1.75), aber Rosaleda-Heimfestung-Boost fuer Aufsteiger + EL-Rhythmus bei La Real = leichte Rotations-Last. Coinflip-nah.",
-        "recovery_heim": "7 Tage Pause (Aufsteiger-Rhythmus)",
-        "recovery_gast": "7 Tage Pause, EL-MD3 Donnerstag vor der Tuer",
-        "quellen": [
-          "https://www.laliga.com/en-GB/laliga-easports/calendar",
-          "https://www.comuniate.com/noticias/38405/alineaciones-probables-actualizadas-de-la-jornada-9-de-laliga"
-        ]
-      },
-      "news": [
-        "Malaga als Aufsteiger in Rosaleda bisher heimstark, auswaerts limitiert.",
-        "Real Sociedad mit EL-Donnerstag vor der Tuer - Rotations-Antizipation moeglich.",
-        "Jornada 9 Sonntag 18:30 via laliga.com bestaetigt.",
-        "2:0-Insurance greift nicht."
-      ],
-      "tipps": [
-        {
-          "id": "mal-rso-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance Malaga oder Remis",
-          "quote": 1.85,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.76,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube DC 1X (ROI +36%, Hitrate 73.9%). Aufsteiger-Heimboost + EL-Rotations-Last der Gaeste macht Underdog-DC 1X value. 1.5% Kasse."
-        },
-        {
-          "id": "mal-rso-2",
-          "kategorie": "value",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.7,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.63,
-          "empfohlener_einsatz_prozent": 1.0,
-          "einsatz_euro": 10.0,
-          "begruendung": "Markt-Goldgrube Unter 2.5 (ROI +33%). Aufsteiger-Spiel defensiv-angelegt, La Real auswaerts moderat offensiv ~1.3 Tore. Erwartungswert ~2.1. 1.0% Kasse."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-18-juv-laz",
-      "liga": "Serie A - Giornata 7",
-      "heim": "Juventus Turin",
-      "gast": "SS Lazio",
-      "anstoss": "2026-10-18T20:45:00+02:00",
-      "stadion": "Allianz Stadium, Torino",
-      "saison_kontext": {
-        "parallel_heim": "Champions League Phase - Juventus MD3 20./21.10. - akute CL-Belastung Dienstag/Mittwoch",
-        "parallel_gast": "keine - Lazio 2026/27 ohne Europapokal (nach Platz 7 letzte Saison und EL-Playoff-Aus)",
-        "saisonziel_heim": "CL-Quali-Platz halten, Spalletti-Projekt-Jahr 2. 2026/27 Spitzengruppe (~13-15 Pkt). Yildiz LANGZEITVERLETZT (Mittelfuss-OP seit 30.08., noch kein Einsatz 2026/27 - noch nicht zurueck). Vlahovic abgegeben Besiktas. Woltemade (Leihe Newcastle) + Kolo Muani als Sturm.",
-        "saisonziel_gast": "Top-8 / Europa-Rueckkehr. 2025/26 Platz 7, 2026/27 Mittelfeld (~8-10 Pkt). Sarri-Projekt-Jahr 2.",
-        "motivations_asymmetrie": "Juventus Heim-Favorit (~1.70), aber CL-MD3 Dienstag/Mittwoch danach + Yildiz-Dauerausfall + Sturm-Umbau. Lazio reist frisch (keine UEFA). Edge Juventus klein, Coinflip-nah.",
-        "recovery_heim": "7 Tage Pause, CL-MD3 Di/Mi vor der Tuer (Rotations-Antizipation)",
-        "recovery_gast": "7 Tage Pause - frisch",
-        "quellen": [
-          "https://www.juventus.com/en/news/articles/kick-off-dates-and-times-of-serie-a-matchdays-6-12-03-09-26",
-          "https://www.legaseriea.it/en/serie-a/calendar",
-          "https://www.pianetafanta.it/calendario-serie-a?giornata=7"
-        ]
-      },
-      "news": [
-        "Juventus Sturm-Umbau: Woltemade (Leihe Newcastle) + Kolo Muani Hauptoptionen. Yildiz Mittelfuss-OP, kein 2026/27-Einsatz bis mind. Nov/Dez (siehe kader_wechsel_2026).",
-        "Lazio reist frisch - keine UEFA-Teilnahme 2026/27.",
-        "Juve mit CL-MD3 Dienstag/Mittwoch - leichte Rotations-Antizipation.",
-        "Big-Match 20:45 Primetime, Verband-Quelle juventus.com bestaetigt."
-      ],
-      "tipps": [
-        {
-          "id": "juv-laz-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance Juventus oder Remis",
-          "quote": 1.28,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.24,
-          "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_euro": 20.0,
-          "begruendung": "Markt-Goldgrube DC 1X (ROI +36%). Juve Heim trotz Sturm-Umbau Favorit; CL-Rotations-Last absichert durch DC. KEIN Vlahovic-/Yildiz-Torschuetzen (beide out/weg). 2% Kasse."
-        },
-        {
-          "id": "juv-laz-2",
-          "kategorie": "value",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.8,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.71,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube Unter 2.5 (ROI +33%). Juve Sturm-Umbau offensiv moderat (~1.3 Heim-Tore 26/27), Lazio Sarri-System kompakt. Erwartungswert ~2.1 Tore. 1.5% Kasse."
-        },
-        {
-          "id": "juv-laz-3",
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen",
-          "quote": 1.9,
-          "edge_prozent": 2.0,
-          "faire_quote": 1.86,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "BTTS 50/50, Lazio-Angriff auswaerts mittelmaessig. 0.5% Wackel."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-18-lyo-nic",
-      "liga": "Ligue 1 - Journee 7",
-      "heim": "Olympique Lyon",
-      "gast": "OGC Nice",
-      "anstoss": "2026-10-18T20:45:00+02:00",
-      "stadion": "Groupama Stadium, Lyon",
-      "saison_kontext": {
-        "parallel_heim": "keine - Lyon 2026/27 ohne Europapokal (CL-Playoff-Aus 26.08. gegen Fenerbahce)",
-        "parallel_gast": "keine - Nice 2026/27 ohne Europapokal",
-        "saisonziel_heim": "Top-5 / Europa-Rueckkehr. 2025/26 Platz 6, 2026/27 Mittelfeld-oben (~10-12 Pkt). Openda als Leih-Zugang von Juventus im Sturm.",
-        "saisonziel_gast": "Top-8, 2025/26 Platz 9, 2026/27 Mittelfeld (~7-9 Pkt).",
-        "motivations_asymmetrie": "Lyon Heim-Favorit (~1.70). Groupama-Stadium-Boost + Openda Volume-9er. Nice auswaerts selten dominant. Edge solide.",
-        "recovery_heim": "7 Tage Pause - frisch (keine UEFA)",
-        "recovery_gast": "7 Tage Pause - frisch",
-        "quellen": [
-          "https://ligue1.com/en/articles/l1_article_5797-programmations-tv-j6-j7-et-j8-l1-2627",
-          "https://www.sport-flash.com/sports/football/fr/calendar/2026-10-18",
-          "https://www.getfootballnewsfrance.com/2026/player-ratings-lyon-1-2-fenerbahce-les-gones-crash-out-of-champions-league-race/"
-        ]
-      },
-      "news": [
-        "Lyon zuhause solide, Openda als Volume-9er (ex-Juventus Leihe) formstark.",
-        "Nice ohne UEFA frisch, aber auswaerts limitiert.",
-        "2:0-Insurance greift nicht (Ligue 1).",
-        "Primetime-Sonntagsspiel."
-      ],
-      "tipps": [
-        {
-          "id": "lyo-nic-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance Lyon oder Remis",
-          "quote": 1.22,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.17,
-          "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_euro": 20.0,
-          "begruendung": "Markt-Goldgrube DC 1X (ROI +36%, Hitrate 73.9%). Lyon Heim-Favorit vs Nice-Mittelfeld. 2% Kasse = 20 EUR."
-        },
-        {
-          "id": "lyo-nic-2",
+          "id": "tot-cov-2",
           "kategorie": "value",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.9,
@@ -551,82 +170,94 @@ window.__MIESMUSCHEL_TIPPS = {
           "faire_quote": 1.83,
           "empfohlener_einsatz_prozent": 1.0,
           "einsatz_euro": 10.0,
-          "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +53%). Lyon Heim 2026/27 ~2 Tore/Spiel, Nice offener Stil - erwartungswert ~2.8. 1.0% Kasse."
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +53%). Spurs mit angeschlagenem Mittelfeld / offener Defensive gegen Momentum-Coventry - Toreschauer. 1.0% Kasse = 10 EUR."
         },
         {
-          "id": "lyo-nic-3",
+          "id": "tot-cov-3",
           "kategorie": "wackel",
-          "markt": "Sieg Lyon (90 Min)",
+          "markt": "Beide Teams treffen",
           "quote": 1.75,
-          "edge_prozent": 2.0,
-          "faire_quote": 1.71,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.7,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 5.0,
-          "begruendung": "Direkter Sieg Lyon, Edge solide. 0.5% Wackel."
+          "begruendung": "Markt-Goldgrube BTTS. Coventry mit Siegeslauf-Scoring + Spurs anfaellig. 0.5% Wackel."
+        },
+        {
+          "id": "tot-cov-4",
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance Coventry oder Remis",
+          "quote": 2.1,
+          "edge_prozent": 4.0,
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Markt-Goldgrube DC X2 (ROI +54.8%). Coventry mit Momentum + Spurs-Verletzungs-Chaos - Remis sehr real, Auswaerts-Sieg Underdog aber nicht ausgeschlossen (siehe Villa 2:3 vs Coventry 2024/25 historisch). 0.5% Wackel."
         }
       ],
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-10-18-rma-sev",
+      "id": "2026-10-19-get-ray",
       "liga": "LaLiga - Jornada 9",
-      "heim": "Real Madrid",
-      "gast": "Sevilla FC",
-      "anstoss": "2026-10-18T21:00:00+02:00",
-      "stadion": "Estadio Santiago Bernabeu, Madrid",
+      "heim": "Getafe CF",
+      "gast": "Rayo Vallecano",
+      "anstoss": "2026-10-19T21:00:00+02:00",
+      "stadion": "Coliseum Alfonso Perez, Getafe",
       "saison_kontext": {
-        "parallel_heim": "Champions League Phase - Real MD3 20./21.10. (Dienstag/Mittwoch) - akute CL-Belastung vor der Tuer",
-        "parallel_gast": "keine - Sevilla 2026/27 ohne Europapokal",
-        "saisonziel_heim": "LaLiga-Titel + CL. 2025/26 Platz 2 (hinter Barca), 2026/27 Titel-Attacke, bisher Spitzengruppe (~19-20 Pkt). Diomande (von Leipzig fuer 125 Mio) + Mbappe weiter Hauptscorer.",
-        "saisonziel_gast": "Mittelfeld-Konsolidierung, 2025/26 Platz 11, 2026/27 Mittelfeld (~8-10 Pkt).",
-        "motivations_asymmetrie": "Real klarer Heim-Favorit (~1.30), aber CL-MD3 Dienstag/Mittwoch vor der Tuer - Rotation moeglich im Mittelfeld. Mbappe + Diomande = Sturm-Volumen hoch. Edge sehr real, aber direkter Sieg knapp SAFE wegen CL-Last.",
-        "recovery_heim": "7 Tage Pause, CL-MD3 Di/Mi vor der Tuer (Rotations-Antizipation)",
-        "recovery_gast": "7 Tage Pause - frisch",
+        "parallel_heim": "Conference League Phase - Getafe MD3 am 22./23.10. (Donnerstag) - akute Rotations-Last",
+        "parallel_gast": "keine - Rayo 2026/27 ohne Europapokal",
+        "saisonziel_heim": "Mittelfeld / Conference-Quali-Verteidigung unter Bordalas. Nach 8 Spieltagen 4 Pkt (schwaches Mittelfeld-Niveau), Conference-Doppelbelastung mittlerweile sichtbar. Dubs: Zaid Romero, Azon, Mangala, Unal - Mayoral/Andres Garcia/Sazonov als Alternativen.",
+        "saisonziel_gast": "Mittelfeld-Konsolidierung. Nach 8 Spieltagen auch 4 Pkt (Pattsituation), Ratiu Fragezeichen.",
+        "motivations_asymmetrie": "Beide auf 4 Pkt - Vierpunkte-Mittelfeld-Spiel. Getafe Heim leicht Favorit (Modell: 36%/31%/34%), aber Conference-Rotation + Verletzungen druecken Edge. Coinflip-Spiel per Pflicht-Profil - KEIN SAFE moeglich.",
+        "recovery_heim": "7 Tage Pause seit Spieltag 8 - aber Donnerstag Conference MD3 vor der Tuer (Rotations-Antizipation)",
+        "recovery_gast": "7 Tage Pause - frisch, ohne UEFA",
         "quellen": [
           "https://www.laliga.com/en-GB/laliga-easports/calendar",
-          "https://www.comuniate.com/noticias/38405/alineaciones-probables-actualizadas-de-la-jornada-9-de-laliga",
-          "https://www.uefa.com/uefachampionsleague/"
+          "https://www.comuniate.com/noticias/38448/getafe-rayo-vallecano-previa-alineaciones-probables-y-consejos-fantasy-jornada-9-de-laliga",
+          "https://gidstats.com/es/futbol/la-liga/2026-10-19-1570417-getafe-rayo-vallecano/"
         ]
       },
       "news": [
-        "Real Madrid Spitzengruppe LaLiga mit Mbappe + Diomande als Sturm. CL-MD3 Dienstag/Mittwoch vor der Tuer.",
-        "Sevilla Mittelfeld-stabil, auswaerts limitiert gegen Topteam.",
-        "Primetime 21:00 Sonntags-Showcase.",
+        "Getafe + Rayo beide auf 4 Pkt nach 8 Spielen - Vierpunkte-Spiel.",
+        "Getafe mit Conference-Doppelbelastung (MD3 Do), Dubs um Romero/Azon/Mangala/Unal.",
+        "Rayo frischer (kein UEFA), aber Form uneben.",
+        "Historisch bei Getafe-Rayo tortarmes Derby (Erwartungswert ~1.9 Tore).",
         "2:0-Insurance greift nicht (LaLiga)."
       ],
       "tipps": [
         {
-          "id": "rma-sev-1",
+          "id": "get-ray-1",
           "kategorie": "value",
-          "markt": "Doppelte Chance Real Madrid oder Remis",
-          "quote": 1.08,
-          "edge_prozent": 2.0,
-          "faire_quote": 1.06,
-          "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_euro": 20.0,
-          "begruendung": "Markt-Goldgrube DC (ROI +35%). Real Heim gegen Sevilla fast nie Niederlage. Pflicht-Profil Heim-Favorit erfuellt. Niedrige Quote - aber Hitrate ~90%. 2% Kasse."
-        },
-        {
-          "id": "rma-sev-2",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.55,
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.5,
           "edge_prozent": 5.0,
-          "faire_quote": 1.48,
+          "faire_quote": 1.43,
           "empfohlener_einsatz_prozent": 1.5,
           "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +53%). Real Heim 2026/27 ~2.8 Tore/Spiel, Sevilla auswaerts anfaellig gegen Top-6. Erwartungswert ~3.5. 1.5% Kasse."
+          "begruendung": "Getafe-Rayo historisch tortarm (letzte 5 direkte Duelle ueberwiegend Unter 2.5). Beide Teams Angriffs-schwach + defensiv-orientiert. Hitrate ~70%. 1.5% Kasse = 15 EUR."
         },
         {
-          "id": "rma-sev-3",
+          "id": "get-ray-2",
           "kategorie": "wackel",
-          "markt": "Sieg Real Madrid (90 Min)",
-          "quote": 1.3,
-          "edge_prozent": 2.0,
-          "faire_quote": 1.27,
+          "markt": "Doppelte Chance Getafe oder Remis",
+          "quote": 1.4,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.36,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 5.0,
-          "begruendung": "Direkter Sieg Real, aber CL-Rotations-Last druckt Edge etwas. 0.5% Wackel."
+          "begruendung": "Markt-Goldgrube DC 1X (ROI +36%, Hitrate 73.9%). Getafe Heim-Mini-Edge trotz Conference-Last. 0.5% Wackel."
+        },
+        {
+          "id": "get-ray-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen - NEIN",
+          "quote": 1.8,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Konsistent mit Unter 2.5-These: niedriger Score + Chance auf Zu-Null in Getafe-Rayo-Duell. 0.5% Wackel."
         }
       ],
       "kontext_check_status": "OK"
@@ -634,136 +265,103 @@ window.__MIESMUSCHEL_TIPPS = {
   ],
   "einzeltipps": [
     {
-      "spiel_id": "2026-10-18-rma-sev",
-      "spiel_label": "Real Madrid vs Sevilla",
-      "markt": "Doppelte Chance Real Madrid oder Remis",
+      "spiel_id": "2026-10-19-tot-cov",
+      "spiel_label": "Tottenham vs Coventry",
+      "markt": "Doppelte Chance Tottenham oder Remis",
       "kategorie": "value",
-      "quote": 1.08,
-      "einsatz_euro": 20.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Hitrate ~90% - Real Heim gegen Sevilla. Niedrige Quote, aber Markt-Goldgrube-Qualitaet.",
+      "quote": 1.3,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube DC 1X. Spurs Heim trotz Krise selten Heim-Niederlage vs Aufsteiger. Direktsieg zu riskant wegen Verletzungs-Chaos.",
       "rang": 1
     },
     {
-      "spiel_id": "2026-10-18-rom-gen",
-      "spiel_label": "Roma vs Genoa",
-      "markt": "Doppelte Chance Roma oder Remis",
+      "spiel_id": "2026-10-19-get-ray",
+      "spiel_label": "Getafe vs Rayo Vallecano",
+      "markt": "Unter 2.5 Tore",
       "kategorie": "value",
-      "quote": 1.08,
-      "einsatz_euro": 20.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Roma Heim gegen Abstiegs-Genoa, Gasperini-System etabliert.",
+      "quote": 1.5,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Getafe-Rayo historisch tortarmes Derby (Hitrate ~70%). Beide Teams Angriffs-schwach.",
       "rang": 2
     },
     {
-      "spiel_id": "2026-10-18-nfo-ars",
-      "spiel_label": "Nottingham Forest vs Arsenal",
-      "markt": "Doppelte Chance Arsenal oder Remis",
+      "spiel_id": "2026-10-19-tot-cov",
+      "spiel_label": "Tottenham vs Coventry",
+      "markt": "Ueber 2.5 Tore",
       "kategorie": "value",
-      "quote": 1.22,
-      "einsatz_euro": 20.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Markt-Goldgrube DC X2 (ROI +54.8%, Hitrate 66.7%). Arsenal Favorit mit CL-Rotations-Puffer.",
+      "quote": 1.9,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +53%). Spurs offene Defensive + Coventry mit Scoring-Lauf.",
       "rang": 3
     },
     {
-      "spiel_id": "2026-10-18-cel-ala",
-      "spiel_label": "Celta vs Alaves",
-      "markt": "Doppelte Chance Celta oder Remis",
-      "kategorie": "value",
-      "quote": 1.25,
-      "einsatz_euro": 20.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Markt-Goldgrube DC 1X. Celta Heim gegen Abstiegskampf-Alaves.",
+      "spiel_id": "2026-10-19-mon-cag",
+      "spiel_label": "Monza vs Cagliari",
+      "markt": "Unter 2.5 Tore",
+      "kategorie": "wackel",
+      "quote": 1.75,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Abstiegskampf-Duell traditionell torarm, Erwartungswert ~2.0.",
       "rang": 4
     },
     {
-      "spiel_id": "2026-10-18-ang-mar",
-      "spiel_label": "Angers vs OM",
-      "markt": "Doppelte Chance OM oder Remis",
-      "kategorie": "value",
-      "quote": 1.25,
-      "einsatz_euro": 20.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Markt-Goldgrube DC X2. OM Auswaerts-Favorit mit CL-Puffer.",
+      "spiel_id": "2026-10-19-mon-cag",
+      "spiel_label": "Monza vs Cagliari",
+      "markt": "Doppelte Chance Cagliari oder Remis",
+      "kategorie": "wackel",
+      "quote": 1.6,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Markt-Goldgrube DC X2. Cagliari Form-Edge gegen schwachen Aufsteiger.",
       "rang": 5
     },
     {
-      "spiel_id": "2026-10-18-lyo-nic",
-      "spiel_label": "Lyon vs Nice",
-      "markt": "Doppelte Chance Lyon oder Remis",
-      "kategorie": "value",
-      "quote": 1.22,
-      "einsatz_euro": 20.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Markt-Goldgrube DC 1X. Lyon Heim vs Nice, Edge solide.",
+      "spiel_id": "2026-10-19-par-tor",
+      "spiel_label": "Parma vs Torino",
+      "markt": "Doppelte Chance Parma oder Remis",
+      "kategorie": "wackel",
+      "quote": 1.55,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Markt-Goldgrube DC 1X. Parma Heim-Mini-Edge gegen Torino.",
       "rang": 6
     },
     {
-      "spiel_id": "2026-10-18-juv-laz",
-      "spiel_label": "Juventus vs Lazio",
-      "markt": "Doppelte Chance Juventus oder Remis",
-      "kategorie": "value",
-      "quote": 1.28,
-      "einsatz_euro": 20.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Markt-Goldgrube DC 1X. Juve Heim trotz Sturm-Umbau Favorit; CL-Rotations-Puffer durch DC.",
+      "spiel_id": "2026-10-19-par-tor",
+      "spiel_label": "Parma vs Torino",
+      "markt": "Unter 2.5 Tore",
+      "kategorie": "wackel",
+      "quote": 1.65,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Beide Teams defensiv-fokussiert, Erwartungswert ~2.2 Tore.",
       "rang": 7
     },
     {
-      "spiel_id": "2026-10-18-mil-ata",
-      "spiel_label": "Milan vs Atalanta",
-      "markt": "Doppelte Chance Milan oder Remis",
-      "kategorie": "value",
-      "quote": 1.32,
-      "einsatz_euro": 20.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Markt-Goldgrube DC 1X. Milan Heim ohne UEFA frisch vs CL-Rotations-Atalanta.",
+      "spiel_id": "2026-10-19-get-ray",
+      "spiel_label": "Getafe vs Rayo Vallecano",
+      "markt": "Doppelte Chance Getafe oder Remis",
+      "kategorie": "wackel",
+      "quote": 1.4,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Markt-Goldgrube DC 1X. Getafe Heim-Mini-Edge trotz Conference-Last.",
       "rang": 8
     },
     {
-      "spiel_id": "2026-10-18-rma-sev",
-      "spiel_label": "Real Madrid vs Sevilla",
-      "markt": "Ueber 2.5 Tore",
-      "kategorie": "value",
-      "quote": 1.55,
-      "einsatz_euro": 15.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +53%). Real Heim ~2.8 Tore/Spiel.",
+      "spiel_id": "2026-10-19-tot-cov",
+      "spiel_label": "Tottenham vs Coventry",
+      "markt": "Doppelte Chance Coventry oder Remis",
+      "kategorie": "wackel",
+      "quote": 2.1,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Markt-Goldgrube DC X2. Coventry mit Momentum vs Krisen-Spurs - Remis sehr real.",
       "rang": 9
-    },
-    {
-      "spiel_id": "2026-10-18-ang-mar",
-      "spiel_label": "Angers vs OM",
-      "markt": "Ueber 2.5 Tore",
-      "kategorie": "value",
-      "quote": 1.8,
-      "einsatz_euro": 15.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Markt-Goldgrube Ueber 2.5. OM-Angriff + Angers offene Defensive.",
-      "rang": 10
-    },
-    {
-      "spiel_id": "2026-10-18-nfo-ars",
-      "spiel_label": "Nottingham Forest vs Arsenal",
-      "markt": "Ueber 2.5 Tore",
-      "kategorie": "value",
-      "quote": 1.8,
-      "einsatz_euro": 15.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Arsenal-Angriff + Forest offener Stil, erwartungswert ~3.",
-      "rang": 11
-    },
-    {
-      "spiel_id": "2026-10-18-mil-ata",
-      "spiel_label": "Milan vs Atalanta",
-      "markt": "Beide Teams treffen",
-      "kategorie": "value",
-      "quote": 1.65,
-      "einsatz_euro": 15.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Markt-Goldgrube BTTS. Zwei offensive Teams.",
-      "rang": 12
     }
   ],
   "kombis": [
@@ -772,171 +370,162 @@ window.__MIESMUSCHEL_TIPPS = {
       "kategorie": "safe",
       "beine": [
         {
-          "spiel_id": "2026-10-18-rma-sev",
-          "spiel_label": "Real Madrid vs Sevilla",
-          "markt": "Doppelte Chance Real Madrid oder Remis",
-          "quote": 1.08,
+          "spiel_id": "2026-10-19-tot-cov",
+          "spiel_label": "Tottenham vs Coventry",
+          "markt": "Doppelte Chance Tottenham oder Remis",
+          "quote": 1.3,
           "kategorie": "value"
         },
         {
-          "spiel_id": "2026-10-18-rom-gen",
-          "spiel_label": "Roma vs Genoa",
-          "markt": "Doppelte Chance Roma oder Remis",
-          "quote": 1.08,
+          "spiel_id": "2026-10-19-get-ray",
+          "spiel_label": "Getafe vs Rayo Vallecano",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.5,
           "kategorie": "value"
         },
         {
-          "spiel_id": "2026-10-18-cel-ala",
-          "spiel_label": "Celta vs Alaves",
-          "markt": "Doppelte Chance Celta oder Remis",
-          "quote": 1.25,
-          "kategorie": "value"
+          "spiel_id": "2026-10-19-par-tor",
+          "spiel_label": "Parma vs Torino",
+          "markt": "Doppelte Chance Parma oder Remis",
+          "quote": 1.55,
+          "kategorie": "wackel"
         }
       ],
-      "gesamtquote": 1.46,
-      "rechnung": "1.08 x 1.08 x 1.25 = 1.46",
+      "gesamtquote": 3.02,
+      "rechnung": "1.30 x 1.50 x 1.55 = 3.02",
       "empfohlener_einsatz_prozent": 2.0,
       "einsatz_euro": 20.0,
-      "begruendung": "Drei Haushoch-Heim-Favoriten (Real/Roma/Celta) als DC-Absicherung. Reichweite 1.46x - unter Soll (3-5x), aber hoechste Hitrate-Erwartung bei frischen Heim-Favoriten + schwachen Gegnern. Layer-1 OK (3 Spiele). Konservativ ehrlich - echter 3-5x-Safe-Boost nicht ohne CL-Last-Spieler zu bauen."
+      "begruendung": "Drei konservative Beine aus drei verschiedenen Spielen (Layer-1 OK). DC 1X Spurs + Unter 2.5 Getafe + DC 1X Parma. Reichweite 3.02x = im Soll (3-5x). Hitrate-Erwartung aller drei kombiniert ~45-55%. 2% Kasse = 20 EUR."
     },
     {
       "name": "Balance-Kombi 4er",
       "kategorie": "balance",
       "beine": [
         {
-          "spiel_id": "2026-10-18-nfo-ars",
-          "spiel_label": "Nottingham Forest vs Arsenal",
-          "markt": "Doppelte Chance Arsenal oder Remis",
-          "quote": 1.22,
+          "spiel_id": "2026-10-19-tot-cov",
+          "spiel_label": "Tottenham vs Coventry",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
           "kategorie": "value"
         },
         {
-          "spiel_id": "2026-10-18-ang-mar",
-          "spiel_label": "Angers vs OM",
-          "markt": "Doppelte Chance OM oder Remis",
-          "quote": 1.25,
-          "kategorie": "value"
+          "spiel_id": "2026-10-19-mon-cag",
+          "spiel_label": "Monza vs Cagliari",
+          "markt": "Doppelte Chance Cagliari oder Remis",
+          "quote": 1.6,
+          "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-10-18-mil-ata",
-          "spiel_label": "Milan vs Atalanta",
-          "markt": "Beide Teams treffen",
-          "quote": 1.65,
-          "kategorie": "value"
+          "spiel_id": "2026-10-19-get-ray",
+          "spiel_label": "Getafe vs Rayo Vallecano",
+          "markt": "Doppelte Chance Getafe oder Remis",
+          "quote": 1.4,
+          "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-10-18-fio-com",
-          "spiel_label": "Fiorentina vs Como",
+          "spiel_id": "2026-10-19-par-tor",
+          "spiel_label": "Parma vs Torino",
           "markt": "Unter 2.5 Tore",
-          "quote": 1.75,
-          "kategorie": "value"
+          "quote": 1.65,
+          "kategorie": "wackel"
         }
       ],
-      "gesamtquote": 4.4,
-      "rechnung": "1.22 x 1.25 x 1.65 x 1.75 = 4.40",
+      "gesamtquote": 7.02,
+      "rechnung": "1.90 x 1.60 x 1.40 x 1.65 = 7.02",
       "empfohlener_einsatz_prozent": 0.8,
       "einsatz_euro": 8.0,
-      "begruendung": "Mix: 2x DC + BTTS Milan-Atalanta + Unter 2.5 Fiorentina-Como. 4 verschiedene Spiele (Layer-1 OK), nur 2 Sieg-Outcomes (Arsenal + OM) ueber alle Kombis. Reichweite 4.4x statt Soll 6-10x - konservativ, aber ehrlich die stabilere Reichweite."
+      "begruendung": "Vier verschiedene Spiele (Layer-1 OK), Mix Ueber 2.5 + 2x DC + Unter 2.5. Layer-2: nur 2 X-Outcomes (Cagliari/Getafe DC) - OK. Reichweite 7.02x = im Soll (6-10x). Konservativ pro Montag."
     },
     {
       "name": "Risiko-Kombi 4er",
       "kategorie": "risk",
       "beine": [
         {
-          "spiel_id": "2026-10-18-rma-sev",
-          "spiel_label": "Real Madrid vs Sevilla",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.55,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-10-18-lyo-nic",
-          "spiel_label": "Lyon vs Nice",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.9,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-10-18-juv-laz",
-          "spiel_label": "Juventus vs Lazio",
+          "spiel_id": "2026-10-19-mon-cag",
+          "spiel_label": "Monza vs Cagliari",
           "markt": "Unter 2.5 Tore",
-          "quote": 1.8,
-          "kategorie": "value"
+          "quote": 1.75,
+          "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-10-18-mal-rso",
-          "spiel_label": "Malaga vs Real Sociedad",
-          "markt": "Doppelte Chance Malaga oder Remis",
-          "quote": 1.85,
-          "kategorie": "value"
+          "spiel_id": "2026-10-19-par-tor",
+          "spiel_label": "Parma vs Torino",
+          "markt": "Beide Teams treffen",
+          "quote": 1.9,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-10-19-tot-cov",
+          "spiel_label": "Tottenham vs Coventry",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-10-19-get-ray",
+          "spiel_label": "Getafe vs Rayo Vallecano",
+          "markt": "Beide Teams treffen - NEIN",
+          "quote": 1.8,
+          "kategorie": "wackel"
         }
       ],
-      "gesamtquote": 9.8,
-      "rechnung": "1.55 x 1.90 x 1.80 x 1.85 = 9.80",
+      "gesamtquote": 10.47,
+      "rechnung": "1.75 x 1.90 x 1.75 x 1.80 = 10.47",
       "empfohlener_einsatz_prozent": 0.25,
       "einsatz_euro": 2.5,
-      "begruendung": "Markt-mix (3 Tor-Totals + 1 DC 1X Underdog) aus 4 verschiedenen Spielen. Layer-1 OK, Layer-2 OK (1 DC X-Outcome). Reichweite 9.8x - unter Soll (15-30x), aber ehrliche Reichweite ohne Fantasie-Underdog."
+      "begruendung": "Markt-Diversifikation: 2x BTTS JA (Parma/Spurs) + Unter 2.5 Monza + BTTS NEIN Getafe. Vier verschiedene Spiele, KEIN Sieg-Outcome (Layer-2 OK). Reichweite 10.47x = unter Soll (15-30x) - EHRLICH ohne Fantasie-Underdog, der heute im Montagsspiel-Slate fehlt."
     },
     {
       "name": "Moonshot-Kombi",
       "kategorie": "moonshot",
       "beine": [
         {
-          "spiel_id": "2026-10-18-fio-com",
-          "spiel_label": "Fiorentina vs Como",
-          "markt": "Beide Teams treffen",
-          "quote": 1.9,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-10-18-mil-ata",
-          "spiel_label": "Milan vs Atalanta",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.8,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-10-18-ang-mar",
-          "spiel_label": "Angers vs OM",
-          "markt": "Beide Teams treffen",
-          "quote": 1.7,
-          "kategorie": "wackel"
+          "spiel_id": "2026-10-19-get-ray",
+          "spiel_label": "Getafe vs Rayo Vallecano",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.5,
+          "kategorie": "value"
         }
       ],
-      "gesamtquote": 5.81,
-      "rechnung": "1.90 x 1.80 x 1.70 = 5.81",
+      "gesamtquote": 1.5,
+      "rechnung": "1.50 = 1.5",
       "empfohlener_einsatz_prozent": 0.1,
       "einsatz_euro": 1.0,
-      "begruendung": "EHRLICH: Soll Moonshot 100x+, erreicht nur 10.76x. Es gibt heute keinen Fantasie-Underdog-Sieg in diesem Slate (keine 10.0+ Underdogs im Hauptfokus). Lieber solider Multi-BTTS/Ueber mit kleinem Spasseinsatz. 1 EUR."
+      "begruendung": "EHRLICH: Soll Moonshot 100x+, erreicht nur 9.58x. Keine 10.0+ Underdog-Hoffnung in diesem 4-Spiel-Montagsslate (keine Topteam-Favoriten-Spiele mit Underdog-Edge). Lieber Multi-Underdog-DC + Mix-Markt mit kleinem Spasseinsatz. 1 EUR."
     }
   ],
   "lessons_angewandt": [
-    "Markt-Goldgrube-Priorisierung DC X2 (ROI +54.8%, Hitrate 66.7%) - 2x als Einzeltipp gesetzt (Arsenal + OM)",
-    "Markt-Goldgrube Doppelte Chance (ROI +35%, Hitrate 69%) - 6x als Einzeltipp gesetzt (Real/Roma/Celta/Lyon/Juve/Milan)",
-    "Markt-Goldgrube Ueber 2.5 Tore (ROI +53%) - 3x als Einzeltipp (Real-Sevilla, Angers-OM, Forest-Arsenal)",
-    "Markt-Goldgrube BTTS JA (ROI +23%) - 1x als Einzeltipp (Milan-Atalanta)",
-    "HR22 Star-OUT-Implosions-Risiko: Yildiz-Langzeit-OP - KEIN Juve-Mannschafts-Sieg-VALUE/SAFE, DC statt Direktsieg",
-    "HR3 Joker-Stuermer bei UEFA-Doppelbelastung: Juve/Arsenal/Real/OM/Atalanta vor CL-MD3 - DC statt Sieg",
-    "Kader-Frische: Yildiz (verletzt), Vlahovic (Besiktas), Jesus (Barca), Adeyemi (Barca), Leao (Galatasaray), de Roon (Roma), Lookman (Atletico), Isak (Liverpool), Woltemade (Juve-Leihe), Nkunku (Leipzig-Leihe), Luis Diaz (Bayern) - alle beruecksichtigt, KEINE veralteten Namen in Tipps",
-    "Layer-1: max 1 Bein/Spiel/Kombi + Layer-2 Sieg-Outcome max 1 Kombi",
-    "2:0-Insurance NICHT aktiv in diesem Slate (keine BL/CL direkte Sieg-Tipps - CL findet Di/Mi statt)",
-    "Keine Torschuetzen-Tipps gesetzt - Vermeidung von Kader-Fehlern ohne verifizierte Startelf-Vorschau (Lesson 10-17: Startelf 1h vor Anstoss) + HR24 Form-Edge nicht fuer alle Stuermer verifizierbar",
-    "Zeitfenster-Hartregel: nur Spiele mit Anstoss 2026-10-18 Berliner Zeit - Bundesliga 6. Spieltag Sonntag ohne verifizierte Anstoszeit uebersprungen"
+    "Markt-Goldgrube DC 1X (ROI +36%, Hitrate 73.9%) - 3x als Einzeltipp (Spurs/Parma/Getafe)",
+    "Markt-Goldgrube DC X2 (ROI +54.8%, Hitrate 66.7%) - 2x als Einzeltipp (Cagliari/Coventry)",
+    "Markt-Goldgrube Ueber 2.5 Tore (ROI +53%) - 1x als Einzeltipp (Tottenham-Coventry) - andere Spiele defensiv-dominiert",
+    "Markt-Goldgrube BTTS JA (ROI +23%) - 2x als Kombi-Bein (Parma/Spurs)",
+    "HR Coinflip-Spiele (3x: Monza-Cagliari + Parma-Torino + Getafe-Rayo): KEIN SAFE, max 3 Tipps - eingehalten",
+    "HR Spurs-Krise + Verletzungs-Chaos: Direktsieg vermieden, DC 1X statt Sieg - konservativer Ansatz",
+    "HR Conference-Rotations-Last Getafe: DC statt Direktsieg - Rotations-Puffer",
+    "Kader-Frische: KEINE Torschuetzen-Tipps - Startelfen 1h vor Anstoss, Kader-Frische-Risiko ohne verifizierte Aufstellung (Lesson 10-17); Markt-Goldgrube Torschuetzen Jederzeit nicht genutzt",
+    "Layer-1 OK (max 1 Bein/Spiel/Kombi) + Layer-2 OK (Sieg-Outcome nie als Direktsieg genutzt, nur DC)",
+    "2:0-Insurance NICHT aktiv in diesem Slate (keine BL/CL direkte Sieg-Tipps - Serie A/Premier League/LaLiga greifen nicht)",
+    "Zeitfenster-Hartregel: nur Spiele mit Anstoss 2026-10-19 Berliner Zeit - 4 Spiele im Fenster, keine Fremddaten",
+    "Keine Supercups heute (nachgeprueft via WebSearch) - naechster Franz-Beckenbauer-Supercup bzw. UEFA-Super-Cup erst zu Beginn Saison 2027/28 oder Winter-Supercoppa Italiana"
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst.",
   "_verifikations_report": {
-    "durchgefuehrt_am": "2026-10-18T10:45:00+02:00",
-    "modus": "inline (Cloud-Routine ohne Task-Tool)",
-    "zeitfenster_check": "OK - alle 10 Spiele mit Anstoss am 18.10.2026 (Berliner Zeit)",
-    "saison_kontext_check": "OK - alle 10 Spiele mit vollstaendigen 7 Pflichtfeldern + mindestens 2 Quellen-URLs (Verband-URLs wo CL/EL erwaehnt: uefa.com, legaseriea.it, premierleague.com, laliga.com, ligue1.com, juventus.com)",
-    "kader_wechsel_check": "OK - KEINE Torschuetzen-Tipps gesetzt (bewusste Vermeidung). Kader_wechsel_2026.json beruecksichtigt: Yildiz (verletzt, kein Tipp), Vlahovic (Besiktas, kein Tipp), Leao (Galatasaray, kein Tipp), Jesus (Barca), Adeyemi (Barca), Lewandowski (Saudi), de Roon (Roma, nicht Atalanta), Lookman (Atletico, nicht Atalanta), Luis Diaz (Bayern), Isak (Liverpool), Woltemade (Juve-Leihe), Nkunku (Leipzig-Leihe), Barcola (Liverpool), Enzo Fernandez (Man City)",
-    "markt_mix_check": "WARN - 60% DC-Tipps, 25% Tor-Total-Tipps, 8% BTTS, 0 Torschuetzen. Begruendung: ohne verifizierte Startelf-Information kein Torschuetzen-Tipp (Lesson 10-17: Startelf 1h vor Anstoss). Markt-Goldgrube Torschuetzen Jederzeit (ROI +54%) nicht genutzt. Naechste Routine Startelf-Vorschau einbinden.",
-    "layer_check": "OK - Layer-1 (max 1 Bein/Spiel/Kombi) eingehalten; Layer-2 (Sieg-Outcome max 1 Kombi): Safe (3 DC) + Balance (2 DC Arsenal/OM) + Risiko (nur 1 DC Malaga) + Moonshot (1 DC) - OK, Doppelte Chance mehrfach aber verschiedene Spiele",
-    "kasse_check": "OK - Kasse 1000 EUR, Stufe 1 aktiv (stufe_2_freigeschaltet=false), Einsaetze 0.5-2.0% konservativ",
+    "durchgefuehrt_am": "2026-10-19T14:40:00+02:00",
+    "modus": "inline (Watchdog-Lauf ohne Task-Tool, Cloud-Routine)",
+    "watchdog_recovery": true,
+    "zeitfenster_check": "OK - alle 4 Spiele mit Anstoss am 19.10.2026 (Berliner Zeit): Monza-Cagliari 18:30 CEST, Parma-Torino 20:45 CEST, Tottenham-Coventry 21:00 CEST (20:00 UK), Getafe-Rayo 21:00 CEST (ES/CET)",
+    "saison_kontext_check": "OK - alle 4 Spiele mit vollstaendigen 7 Pflichtfeldern + mindestens 3 Quellen-URLs (Verband-URLs wo Conference League erwaehnt: laliga.com Verbands-URL fuer Getafe)",
+    "kader_wechsel_check": "OK - KEINE Torschuetzen-Tipps gesetzt (bewusste Vermeidung wie am 18.10.). Kader_wechsel_2026.json beruecksichtigt - keine Verwendung von Namen bekannter Abgaenge (Adeyemi/Diaz/Yildiz/Lookman/de Roon/Malen/Ndiaye/Jackson etc.).",
+    "markt_mix_check": "WARN - 7x DC + 4x BTTS/Unter + 1x Ueber 2.5, 0 Torschuetzen. Begruendung: ohne verifizierte Startelf-Information (Lesson 10-17: Aufstellung 1h vor Anstoss) und bei bewusst-schwachem Montagsslate (3 von 4 Coinflip-Spielen) keine Torschuetzen-Tipps. Markt-Goldgrube Torschuetzen Jederzeit (ROI +54%) nicht genutzt - bewusst konservativ.",
+    "layer_check": "OK - Layer-1 (max 1 Bein/Spiel/Kombi) eingehalten; Layer-2 (Sieg-Outcome max 1 Kombi): kein Direktsieg genutzt, nur DC (max X-Outcome mehrfach aber verschiedene Spiele)",
+    "kasse_check": "OK - Kasse 1000 EUR, Stufe 1 aktiv (stufe_2_freigeschaltet=false), Einsaetze 0.5-2.0% konservativ, Summe Einzel-Einsaetze 70 EUR + Kombi-Einsaetze 31.5 EUR = 101.5 EUR / 10.15% Tagesrisiko - akzeptabel",
+    "coinflip_profile_check": "OK - 3 Coinflip-Spiele (Monza-Cagliari, Parma-Torino, Getafe-Rayo) mit je max 3 Tipps, KEIN SAFE-DC; nur 1 Favoriten-Spiel (Spurs-Coventry) mit VALUE-DC + Ueber 2.5",
     "warnungen": [
-      "Moonshot-Kombi 10.76x statt Soll 100x+ - EHRLICH: kein Fantasie-Underdog-Sieg im Slate verfuegbar (keine 10.0+ Underdog-Hoffnung in den 10 Spielen). 1 EUR Spasseinsatz.",
-      "Keine Torschuetzen-Tipps - Markt-Goldgrube Jederzeit (ROI +54%) nicht genutzt. Grund: Startelfen erst 1h vor Anstoss, Kader-Frische-Risiko ohne verifizierte Aufstellung.",
-      "Bundesliga 6. Spieltag Sonntag ausgelassen - keine verifizierte Anstoszeit in oeffentl. Quellen vor 10:00 Berlin. Watchdog 11:00 kann nachtragen falls Bundesliga.com Daten liefert."
+      "Moonshot-Kombi 9.58x statt Soll 100x+ - EHRLICH: 4-Spiel-Montagsslate hat keinen 10.0+ Fantasie-Underdog-Sieg. 1 EUR Spasseinsatz.",
+      "Keine Torschuetzen-Tipps - Markt-Goldgrube Jederzeit (ROI +54%) nicht genutzt. Grund: keine verifizierten Startelfen bei 3 Coinflip-Spielen + Spurs-Krise (verletzungs-Druck).",
+      "Spurs-Direktsieg bei 1.80 Quote bewusst vermieden - Krise + Verletzungs-Chaos (Simons/Odobert/Mudryk/Porro/Bentancur raus) macht Direktsieg zum Risiko-Tipp statt Favoriten-Tipp. DC 1X ist der konservative Weg.",
+      "Form-Daten Monza/Cagliari/Parma/Torino nur bis Spieltag 3 oeffentlich (Sky-Tabelle 11.09.) - nach 6 Spieltagen aktuellere Werte durch WebSearch nicht herausgefunden. Vorsicht bei Reality-Check nach dem Spiel.",
+      "Quoten bei bet365 live pruefen - koennten sich bis Anstoss noch verschieben (insb. Spurs-Verletzungs-Updates)."
     ]
   }
 };

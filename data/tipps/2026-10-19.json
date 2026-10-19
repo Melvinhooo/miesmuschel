@@ -479,13 +479,6 @@
       "kategorie": "moonshot",
       "beine": [
         {
-          "spiel_id": "2026-10-19-mon-cag",
-          "spiel_label": "Monza vs Cagliari",
-          "markt": "Doppelte Chance Cagliari oder Remis",
-          "quote": 1.6,
-          "kategorie": "wackel"
-        },
-        {
           "spiel_id": "2026-10-19-get-ray",
           "spiel_label": "Getafe vs Rayo Vallecano",
           "markt": "Unter 2.5 Tore",
@@ -493,8 +486,8 @@
           "kategorie": "value"
         }
       ],
-      "gesamtquote": 2.4,
-      "rechnung": "1.60 x 1.50 = 2.4",
+      "gesamtquote": 1.5,
+      "rechnung": "1.50 = 1.5",
       "empfohlener_einsatz_prozent": 0.1,
       "einsatz_euro": 1.0,
       "begruendung": "EHRLICH: Soll Moonshot 100x+, erreicht nur 9.58x. Keine 10.0+ Underdog-Hoffnung in diesem 4-Spiel-Montagsslate (keine Topteam-Favoriten-Spiele mit Underdog-Edge). Lieber Multi-Underdog-DC + Mix-Markt mit kleinem Spasseinsatz. 1 EUR."

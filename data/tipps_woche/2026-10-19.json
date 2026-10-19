@@ -32,14 +32,14 @@
       "tipps": [
         {
           "id": "sab-bvb-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Dortmund oder Remis (Doppelte Chance)",
           "quote": 1.08,
           "edge_prozent": 2.0,
           "faire_quote": 1.05,
           "empfohlener_einsatz_prozent": 2.0,
           "einsatz_euro": 20.0,
-          "begruendung": "DC 1X-Markt-Goldgrube (ROI +36%, 73.9% Hit). Sabah daheim Pot-4-Debutant, BVB verliert hier praktisch nie. Niedrige Quote - deshalb nur 2% der 1000€ Kasse = 20€. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value]",
+          "begruendung": "DC 1X-Markt-Goldgrube (ROI +36%, 73.9% Hit). Sabah daheim Pot-4-Debutant, BVB verliert hier praktisch nie. Niedrige Quote - deshalb nur 2% der 1000€ Kasse = 20€. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value] [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "_saison_kontext_sanity_downgrade": true
         },
         {
