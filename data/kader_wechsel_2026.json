@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-18",
+  "stand": "2026-10-20",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -443,6 +443,33 @@
       "ablöse_mio": 0,
       "hinweis": "Free transfer. 3-Jahres-Vertrag bis 2029. Verliess Juve weil Gehaltseinigung scheiterte (Chiellini-Statement 03.06.2026). Vlahovic ist 2026/27 NICHT mehr bei Juventus - Juves Sturm-Hierarchie unter Spalletti: Woltemade (Leihe Newcastle, seit 01.09.) + Kolo Muani (fix seit 02.08., Trikot-Nr 9). Anlass: am 15.10.2026 wurde Vlahovic als Juve-Torschuetze (wackel + moonshot) im Celta-Juve-Dossier getippt und verlor erwartungsgemaess - er war gar nicht im Kader. In Juve-Dossiers nur noch Woltemade/Kolo Muani als zentrale 9er listen.",
       "quelle": "https://www.beinsports.com/en-us/soccer/sper-lig/articles/dusan-vlahovic-is-a-new-besiktas-player-2026-08-14"
+    },
+    {
+      "spieler": "Dani Carvajal",
+      "von": "Real Madrid",
+      "nach": "Getafe CF",
+      "datum": "2026-10-13",
+      "ablöse_mio": 0,
+      "hinweis": "Ex-Real-Kapitaen (13 Jahre, 451 Einsaetze) als freier Spieler zu Getafe (Vertrag bis 30.06.2027). Debut am 19.10.2026 beim 1:1 vs Rayo Vallecano. Nicht mehr als Real-Spieler tippen, als Getafe-RV ab jetzt bedingt tippbar.",
+      "quelle": "https://www.comuniate.com/en/noticias/38406/official-dani-carvajal-new-signing-for-getafe-until-2027"
+    },
+    {
+      "spieler": "Omar Marmoush",
+      "von": "Manchester City",
+      "nach": "Tottenham Hotspur",
+      "datum": "2026-08-27",
+      "ablöse_mio": 60,
+      "hinweis": "Leihe mit Pflicht-Kauf (£60m) aus Manchester City. Debut-Tor am 19.10.2026 zum 2:1 gegen Coventry. Nicht mehr als Man-City-Torschuetze tippen, als Spurs-Volumen-Stuermer bedingt bei verifizierter Startelf tippbar.",
+      "quelle": "https://supersport.com/football/news/d2f83d1c-d4d2-48a6-94ba-505b5d1d3301/tottenham-land-marmoush-from-manchester-city"
+    },
+    {
+      "spieler": "Giovanni Simeone",
+      "von": "SSC Napoli",
+      "nach": "Torino FC",
+      "datum": "2025-08-07",
+      "ablöse_mio": 6.5,
+      "hinweis": "Leihe mit Kauf-Pflicht 2025/26 - 2026/27 fest. Doppelpack (4', 69') im Posticipo 0:3 bei Parma am 19.10.2026. Nicht mehr als Napoli-Spieler tippen; als Torino-Volumen-Stuermer tippbar.",
+      "quelle": "https://sscnapoli.it/en/ufficiale-simeone-al-torino/"
     }
   ],
   "zugaenge_neue_optionen": [
@@ -774,6 +801,38 @@
       "hinweis": "FCN-Toptorjaeger 2026/27 (7 Tore in 7 Spielen, Toptorjaeger 2. BL). Vertrag bis 2029 (seit 08/2025 von AlbinoLeffe). AKTUELL: Schulterverletzung aus Cottbus-Spiel 16.10.2026 (Anfangsphase raus) - Status fuer Folge-Spiele bis zur Rueckkehr live pruefen; Torschuetzen-Jederzeit-Markt bis Comeback NICHT setzen. Backup-Volume ist Styopa Mkrtchyan (traf 79' gegen Cottbus zum 1:1).",
       "quelle": "https://ran.joyn.de/sports/fussball/2-bundesliga/mohamed-ali-zoma-beim1-fc-nuernberg-aufstiegsgarant-oder-rekord-transfer-fuer-klose-und-co-168352",
       "stand": "2026-10-17"
+    },
+    {
+      "spieler": "Dani Carvajal",
+      "verein": "Getafe CF",
+      "von": "Real Madrid",
+      "datum": "2026-10-13",
+      "hinweis": "Ex-Real-Kapitaen (RV, 33 Jahre, 29 Trophaeen). Vertrag bis 30.06.2027. Debut 19.10.2026 beim 1:1 vs Rayo. Rotations-Alternative Carvajal/Andres Garcia/Ratiu auf rechter Seite - fuer Zu-Null-Markt Getafe aufwerten wenn verifizierte Startelf.",
+      "quelle": "https://www.comuniate.com/en/noticias/38406/official-dani-carvajal-new-signing-for-getafe-until-2027"
+    },
+    {
+      "spieler": "Omar Marmoush",
+      "verein": "Tottenham Hotspur",
+      "von": "Manchester City",
+      "datum": "2026-08-27",
+      "hinweis": "Ex-City-/Frankfurt-Stuermer (28 Jahre, EGY-Nationalspieler) als Spurs-Loan mit Pflicht-Kauf 60m£. Debut-Tor 19.10.2026 zum 2:1 vs Coventry. Spurs-Volumen-Stuermer-Kandidat ab jetzt - Startelf-Check 1h vor Anstoss (Marmoush als #22).",
+      "quelle": "https://supersport.com/football/news/d2f83d1c-d4d2-48a6-94ba-505b5d1d3301/tottenham-land-marmoush-from-manchester-city"
+    },
+    {
+      "spieler": "Giovanni Simeone",
+      "verein": "Torino FC",
+      "von": "SSC Napoli",
+      "datum": "2026-07",
+      "hinweis": "Nach erfolgreicher Leihe 2025/26 fest - Doppelpack (4', 69') am 19.10.2026 beim 3:0 in Parma. Zusammen mit Che Adams Torino-Sturm-Duo unter Trainer Ignazio Abate. Torino-Volumen-Stuermer bei Heim- und Favoriten-Spielen tippbar.",
+      "quelle": "https://en.legaseriea.it/serie-a/news/el-cholito-moves-to-torino"
+    },
+    {
+      "spieler": "Che Adams",
+      "verein": "Torino FC",
+      "von": "Torino FC",
+      "datum": "2024-07",
+      "hinweis": "Seit 2024 bei Torino (vom Southampton). Traf 19.10.2026 im Posticipo zum 0:2 bei Parma. Nicht neu - aber als Torino-Partner von Simeone (Doppelpack am 19.10.) jetzt in Volumen-Stuermer-Rolle unter Abate.",
+      "quelle": "https://en.legaseriea.it/serie-a/news/el-cholito-moves-to-torino"
     }
   ],
   "trainer_2026_27": [
