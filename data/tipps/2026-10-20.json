@@ -1,7 +1,7 @@
 {
   "datum": "2026-10-20",
   "erstellt_am": "2026-10-20T12:53:04.805938+00:00",
-  "hinweis": "Watchdog-Recovery Mo-Fr: Hauptroutine hat 13:30 nicht geliefert, dieses Dossier um 14:30 geschrieben. 9 CL-MD3-Spiele am Dienstag 20.10.2026 - Topspiele PSG vs Barca + Liverpool vs Villarreal + ManCity vs AEK. Kasse Stufe 1 (1000€): konservative Einsaetze 0.25-1.5 %. Alle Goldgrube-Maerkte (DC, Torschuetzen Jederzeit, Ueber 2.5, BTTS) aktiv gesucht. Keine Supercups heute, keine Vorsicht wegen Spielort-Hoehe. Kader-Frische via kader_wechsel_2026.json gegengecheckt (Diaz NICHT Liverpool, Adeyemi NICHT BVB, Rodri NICHT City, Lewa NICHT Barca, Woltemade NICHT Stuttgart).",
+  "hinweis": "Hauptroutine Mo-Fr: 9 CL-MD3-Spiele am Dienstag 20.10.2026 - Topspiele PSG vs Barca + Liverpool vs Villarreal + ManCity vs AEK. Kasse Stufe 1 (1000€): konservative Einsaetze 0.25-1.5 %. Alle Goldgrube-Maerkte (DC, Torschuetzen Jederzeit, Ueber 2.5, BTTS) aktiv gesucht. Keine Supercups heute, keine Vorsicht wegen Spielort-Hoehe. Kader-Frische via kader_wechsel_2026.json gegengecheckt (Diaz NICHT Liverpool, Adeyemi NICHT BVB, Rodri NICHT City, Lewa NICHT Barca, Woltemade NICHT Stuttgart, Malen -> Roma seit Mai).",
   "spiele": [
     {
       "id": "2026-10-20-sab-bvb",
@@ -935,5 +935,28 @@
     "2:0-Insurance erwaehnt wo relevant (CL-Spiele mit direktem Sieg-Tipp)",
     "DC-CAP (max 1 DC pro Spiel): eingehalten"
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst."
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-10-20T13:32:00+02:00",
+    "pruefungen": {
+      "spieler_hallucination_check": "OK - alle Torschuetzen gegen kader_wechsel_2026.json verifiziert (Haaland/MCI, Malen/Roma, Hojlund/Napoli, Guirassy/BVB, Ekitike/Liverpool, Yamal/Barca, Undav/Stuttgart) - keine Spieler bei altem Verein getippt",
+      "saison_kontext_quellen": "OK - alle 9 Spiele haben uefa.com oder Verband-URL in saison_kontext.quellen[]",
+      "layer_2_sieg_outcome": "OK - 1 Sieg-Outcome ueber alle Kombis (Fenerbahce in balance)",
+      "layer_3_spiel_overlap": "WEICH - nap-bod in 3 Kombis, rom-slb/mci-aek/liv-vil/psg-bar je 2x. Bei 9 Spielen + 14 Beinen akzeptabel (markt-entkoppelt).",
+      "gesamtquote_rechnung": "OK - alle 4 Kombi-Gesamtquoten nachgerechnet und bestaetigt (3.81 / 6.91 / 23.81 / 157.5)",
+      "selbstwiderspruch_scan": "OK - keine Widersprueche zwischen saison_kontext.motivations_asymmetrie und tipp-kategorien gefunden",
+      "quoten_plausibilitaet": "OK - alle Quoten in plausiblen Ranges (DC 1.03-1.40 fuer Favoriten, Totals 1.45-1.65, Torschuetzen 1.40-5.00)"
+    },
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "layer_3_overlap",
+        "spiel_id": "2026-10-20-nap-bod",
+        "details": "Napoli-Bodo kommt in safe + risk + moonshot vor (3 verschiedene Maerkte: Ueber 2.5 / Hojlund-Jederzeit / Hojlund-2+). Markt-entkoppelt zulaessig, aber Clusterrisiko falls Napoli ausgetrocknet (Hojlund-Verletzung o.ae.)."
+      }
+    ],
+    "lessons_generiert": [],
+    "status": "GRUEN - 0 Drops, 0 Downgrades, 1 Warn (Layer-3 Markt-entkoppelt)"
+  }
 }
