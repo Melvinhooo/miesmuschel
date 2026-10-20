@@ -45,14 +45,15 @@
         },
         {
           "id": "sab-bvb-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Serhou Guirassy Torschuetze jederzeit",
           "quote": 2.1,
           "edge_prozent": 6.0,
-          "begruendung": "Torschuetzen-Jederzeit-Goldgrube (ROI +54.8 %). Guirassy ist einziger Volume-9er bei BVB, Sabah-IV CL-ungewohnt. Form-Edge HR24 teilweise erfuellt (regelmaessige Chancen in BL). Einwechslungs-Boost: BVB-Backup Beier/Konstantelias zaehlt bei Auswechslung. Einsatz 10€ (1 %).",
+          "begruendung": "Torschuetzen-Jederzeit-Goldgrube (ROI +54.8 %). Guirassy ist einziger Volume-9er bei BVB, Sabah-IV CL-ungewohnt. Form-Edge HR24 teilweise erfuellt (regelmaessige Chancen in BL). Einwechslungs-Boost: BVB-Backup Beier/Konstantelias zaehlt bei Auswechslung. Einsatz 10€ (1 %). [Auto HR3: UEFA-Doppelbelastung + Rotation - Top-Stuermer max WACKEL, Joker-Tipp suchen]",
           "faire_quote": 1.98,
           "empfohlener_einsatz_prozent": 1.0,
-          "goldgrube": "Torschuetzen Jederzeit"
+          "goldgrube": "Torschuetzen Jederzeit",
+          "_joker_top_stuermer_block": true
         },
         {
           "id": "sab-bvb-3",
@@ -182,25 +183,27 @@
         },
         {
           "id": "rom-slb-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Paulo Dybala Torschuetze jederzeit",
           "quote": 2.3,
           "edge_prozent": 6.0,
-          "begruendung": "Dybala als Spielmacher hinter dem Stuermer-Duo mit regelmaessigen Standard-/Schuss-Chancen gegen Slovan-Defensive. Torschuetzen-Goldgrube-Markt. Einsatz 10€ (1 %).",
+          "begruendung": "Dybala als Spielmacher hinter dem Stuermer-Duo mit regelmaessigen Standard-/Schuss-Chancen gegen Slovan-Defensive. Torschuetzen-Goldgrube-Markt. Einsatz 10€ (1 %). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 2.17,
           "empfohlener_einsatz_prozent": 1.0,
-          "goldgrube": "Torschuetzen Jederzeit"
+          "goldgrube": "Torschuetzen Jederzeit",
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "rom-slb-4",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Donyell Malen Torschuetze jederzeit",
           "quote": 2.7,
           "edge_prozent": 5.0,
-          "begruendung": "Malen (neu, laut kader_wechsel_2026.json seit Mai 2026 bei Roma - Doppelpack gegen Real Madrid 14.10. in CL MD2) in Form. Volume-9er mit Form-Edge HR24 erfuellt. Einsatz 7.50€ (0.75 %).",
+          "begruendung": "Malen (neu, laut kader_wechsel_2026.json seit Mai 2026 bei Roma - Doppelpack gegen Real Madrid 14.10. in CL MD2) in Form. Volume-9er mit Form-Edge HR24 erfuellt. Einsatz 7.50€ (0.75 %). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 2.56,
           "empfohlener_einsatz_prozent": 0.75,
-          "goldgrube": "Torschuetzen Jederzeit"
+          "goldgrube": "Torschuetzen Jederzeit",
+          "_torschuetze_quelle_warn": true
         }
       ],
       "kontext_check_status": "OK"
@@ -318,14 +321,15 @@
         },
         {
           "id": "liv-vil-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Hugo Ekitike Torschuetze jederzeit",
           "quote": 2.0,
           "edge_prozent": 5.0,
-          "begruendung": "Ekitike als Hauptstuermer in Anfield, Villarreal-IV unter Hochdruck. Torschuetzen-Goldgrube. Form-Edge HR24: zuletzt in CL + PL regelmaessig unter den Torschuetzen. Einsatz 10€ (1 %).",
+          "begruendung": "Ekitike als Hauptstuermer in Anfield, Villarreal-IV unter Hochdruck. Torschuetzen-Goldgrube. Form-Edge HR24: zuletzt in CL + PL regelmaessig unter den Torschuetzen. Einsatz 10€ (1 %). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 1.9,
           "empfohlener_einsatz_prozent": 1.0,
-          "goldgrube": "Torschuetzen Jederzeit"
+          "goldgrube": "Torschuetzen Jederzeit",
+          "_torschuetze_quelle_warn": true
         }
       ],
       "kontext_check_status": "OK"
@@ -455,14 +459,15 @@
         },
         {
           "id": "nap-bod-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Rasmus Hojlund Torschuetze jederzeit",
           "quote": 2.1,
           "edge_prozent": 6.0,
-          "begruendung": "Hojlund als einziger Volume-9er bei Napoli - Reaktions-Pflichtspiel = maximale Chancen. Form-Edge HR24: trifft regelmaessig in Serie A. Einsatz 10€ (1 %).",
+          "begruendung": "Hojlund als einziger Volume-9er bei Napoli - Reaktions-Pflichtspiel = maximale Chancen. Form-Edge HR24: trifft regelmaessig in Serie A. Einsatz 10€ (1 %). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 1.98,
           "empfohlener_einsatz_prozent": 1.0,
-          "goldgrube": "Torschuetzen Jederzeit"
+          "goldgrube": "Torschuetzen Jederzeit",
+          "_torschuetze_quelle_warn": true
         }
       ],
       "kontext_check_status": "OK"
