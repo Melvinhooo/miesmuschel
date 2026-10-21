@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-10-20T06:20:50+00:00",
+  "letzte_berechnung": "2026-10-21T06:24:07+00:00",
   "gesamt": {
     "tipps": 284,
     "gewonnen": 152,
@@ -2872,6 +2872,318 @@
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-10-20",
+      "gesamt": {
+        "tipps": 12,
+        "gewonnen": 9,
+        "verloren": 3,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 12.0,
+        "netto": -0.28,
+        "trefferquote": 75.0,
+        "roi_prozent": -2.3
+      },
+      "spiele": [
+        {
+          "id": "2026-10-20-fen-sla",
+          "liga": "UEFA Champions League - League Phase MD3",
+          "heim": "Fenerbahce Istanbul",
+          "gast": "Slavia Prag",
+          "endstand": "2:2",
+          "tipps": [
+            {
+              "markt": "Sieg Fenerbahce Istanbul (90 Min)",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Sieg Fener - Remis 2:2. 2:0-Insurance greift nicht (Endstand Remis, keine Niederlage)."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-20-rom-slb",
+          "liga": "UEFA Champions League - League Phase MD3",
+          "heim": "AS Roma",
+          "gast": "Slovan Bratislava",
+          "endstand": "4:0",
+          "tipps": [
+            {
+              "markt": "AS Roma oder Remis (Doppelte Chance)",
+              "quote": 1.03,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.03,
+              "kommentar": "DC 1X: Endstand 4:0"
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.65,
+              "kommentar": "Ueber 2.5 - 4 Tore (4:0)"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-20-por-psv",
+          "liga": "UEFA Champions League - League Phase MD3",
+          "heim": "FC Porto",
+          "gast": "PSV Eindhoven",
+          "endstand": "0:1",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "BTTS NEIN - Porto zu null (0:1)"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-20-liv-vil",
+          "liga": "UEFA Champions League - League Phase MD3",
+          "heim": "Liverpool FC",
+          "gast": "Villarreal CF",
+          "endstand": "4:3",
+          "tipps": [
+            {
+              "markt": "Liverpool oder Remis (Doppelte Chance)",
+              "quote": 1.12,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.12,
+              "kommentar": "DC 1X: Liverpool-Sieg 4:3"
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.55,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.55,
+              "kommentar": "Ueber 2.5 - 7 Tore (4:3)"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-20-mci-aek",
+          "liga": "UEFA Champions League - League Phase MD3",
+          "heim": "Manchester City",
+          "gast": "AEK Athen",
+          "endstand": "5:1",
+          "tipps": [
+            {
+              "markt": "Manchester City oder Remis (Doppelte Chance)",
+              "quote": 1.02,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.02,
+              "kommentar": "DC 1X: City-Sieg 5:1"
+            },
+            {
+              "markt": "Erling Haaland Torschuetze jederzeit",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Haaland NICHT im Kader (Knock-Verletzung). Einwechslungs-Boost nicht anwendbar - Spieler wurde nicht ausgewechselt, er stand nie auf dem Platz."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-20-nap-bod",
+          "liga": "UEFA Champions League - League Phase MD3",
+          "heim": "SSC Neapel",
+          "gast": "Bodø/Glimt",
+          "endstand": "4:3",
+          "tipps": [
+            {
+              "markt": "SSC Neapel oder Remis (Doppelte Chance)",
+              "quote": 1.1,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.1,
+              "kommentar": "DC 1X: Napoli-Sieg 4:3"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-20-psg-bar",
+          "liga": "UEFA Champions League - League Phase MD3",
+          "heim": "Paris Saint-Germain",
+          "gast": "FC Barcelona",
+          "endstand": "4:2",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.4,
+              "kommentar": "BTTS JA (4:2)"
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.45,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.45,
+              "kommentar": "Ueber 2.5 - 6 Tore (4:2)"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-20-stu-atm",
+          "liga": "UEFA Champions League - League Phase MD3",
+          "heim": "VfB Stuttgart",
+          "gast": "Atletico Madrid",
+          "endstand": "1:1",
+          "tipps": [
+            {
+              "markt": "Atletico Madrid oder Remis (Doppelte Chance)",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.4,
+              "kommentar": "DC X2 Gast: Endstand 1:1 - Remis zaehlt."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (Haaland + Ueber 2.5 x2)",
+          "kategorie": "safe",
+          "gesamtquote": 3.81,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Erling Haaland Torschuetze jederzeit",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (BTTS + Totals + Sieg)",
+          "kategorie": "balance",
+          "gesamtquote": 6.91,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Fenerbahce Istanbul (90 Min)",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.45,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (Torschuetzen-Fokus)",
+          "kategorie": "risk",
+          "gesamtquote": 23.81,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Hugo Ekitike Torschuetze jederzeit",
+              "quote": 2.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Donyell Malen Torschuetze jederzeit",
+              "quote": 2.7,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Rasmus Hojlund Torschuetze jederzeit",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Serhou Guirassy Torschuetze jederzeit",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (Volume-9er + Doppelpack)",
+          "kategorie": "moonshot",
+          "gesamtquote": 157.5,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Erling Haaland 2+ Tore",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Lamine Yamal Torschuetze jederzeit",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Rasmus Hojlund 2+ Tore",
+              "quote": 5.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Deniz Undav Torschuetze jederzeit",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-10-19",
       "gesamt": {

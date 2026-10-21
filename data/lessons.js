@@ -3494,6 +3494,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "HR10-19-8 Moonshot-171x-Reality-Check: 1/4 Beine korrekt (8c)",
       "lesson": "Moonshot-Kombi 171x (BTTS-NEIN Monza + Ü3.5 Parma + U1.5 Spurs + Ü3.5 Getafe) landete nur 1/4 Beine (nur Monza BTTS-NEIN). Weder die extremen Tor-Totals (3-Tor-Ü oder 1-Tor-U) noch der zweite Ü3.5-Baustein triggerten. Lesson: Ehrlich-100x+-Moonshot mit vier anti-korrelierten Tor-Markt-Richtungen ist mathematisch sauber (0.6% Trefferchance), aber in diesem Marktzustand (Favoriten-Over-Perform, 1 BTTS-JA + 3 BTTS-NEIN im Slate) fallen typischerweise 1 Bein. Fuer kommende Moonshots: statt 4 Tor-Totale lieber 2 Tor-Totale + 1 Außenseiter-DC + 1 Torschuetzen-Jederzeit mischen (anti-korrelierte Markt-Dimensionen statt nur Tor-Total-Richtungen).",
       "bezug_spiel_id": "2026-10-19-mon-cag"
+    },
+    {
+      "datum": "2026-10-20",
+      "kategorie": "HR10-20-1 Torschuetzen-Jederzeit-Woche: Kader-Frische vor jedem Tipp (8h,8i)",
+      "lesson": "CL MD3 20.10. zeigte das Verletzungs-Risiko von Volume-9er-Tipps brutal: Haaland (Knock aus PL, bei City-Sieg 5:1 vs AEK NICHT im Kader -> 2 Tipps verloren), Ekitike (Verletzung bestaetigt, Liverpool-Sieg 4:3 vs Villarreal ohne ihn -> 1 Tipp verloren), Dembele (Minute 20 verletzt ausgewechselt, Ferran Torres kam, traf aber nicht -> kein Einwechslungs-Boost). 3 von 9 Torschuetzen-Tipps verloren allein wegen Nicht-Teilnahme. Lesson: Bei CL-Woche NACH intensiver Liga-Woche ist ein Pre-Match-Status-Check (kicker.de + ESPN + Vereins-Site) am Spieltag selbst Pflicht, bevor Jederzeit-Tipps auf Volume-9er veroeffentlicht werden - der Prompt-Flow bisher checkt nur kader_wechsel_2026.json, nicht den aktuellen Fitness-Status.",
+      "bezug_spiel_id": "2026-10-20-mci-aek"
+    },
+    {
+      "datum": "2026-10-20",
+      "kategorie": "HR10-20-2 Ueber-2.5-Pattern CL MD3: 7/9 Spiele > 2.5 Tore (8c,8g)",
+      "lesson": "CL MD3 20.10. war ein Ueber-Fest: 7 von 9 Spielen gingen klar ueber 2.5 Tore - BVB-Sabah 3, Fener-Slavia 4, Roma-Slovan 4, Liverpool-Villarreal 7, City-AEK 6, Napoli-Bodo 7, PSG-Barca 6. Nur Porto-PSV (1) und Stuttgart-Atleti (2) unterschritten. 6/7 Ueber-2.5-Einzeltipps gewonnen. Pattern: In CL-Pflichtsieg-Konstellationen (Underdog ohne Hemmungen vs Top-Team mit Druck) sind Ueber-2.5-Quoten in 1.35-1.65-Range weiterhin Markt-Goldgrube. Bestaetigung des bestehenden Markt-Goldgrube-Status (+53.5% ROI historisch).",
+      "bezug_spiel_id": "2026-10-20-psg-bar"
+    },
+    {
+      "datum": "2026-10-20",
+      "kategorie": "HR10-20-3 Doppelte-Chance-Hitrate 100%: Favoriten-Pflichtsieg-Pattern (8c,8d)",
+      "lesson": "Alle 5 DC-Einzeltipps auf CL-Favoriten gewonnen (Roma DC 1X 4:0, City DC 1X 5:1, Napoli DC 1X 4:3, Liverpool DC 1X 4:3, Atleti DC X2 1:1, BVB DC X2 1:2). 100% Hitrate, auch bei Mikro-Quoten 1.02-1.40. Pattern: Doppelte-Chance auf den Klassen-Favoriten in CL-Ligaphase bleibt mechanisch zuverlaessig, besonders wenn der Favorit zu Hause oder in Reaktions-Spiel (Napoli nach 0 Pkt, Liverpool nach Villarreal-2:0-Rueckstand) spielt. Markt-Goldgrube-Status DC 1X/X2 bestaetigt.",
+      "bezug_spiel_id": "2026-10-20-rom-slb"
+    },
+    {
+      "datum": "2026-10-20",
+      "kategorie": "HR10-20-4 Doppel-Drehung CL MD3: Fener-Kollaps + Liverpool-Comeback (8f)",
+      "lesson": "Zwei signifikante Drehungen am gleichen CL-Abend: (1) Fenerbahce fuehrte 2:0 nach 11 Min, Slavia Prag glich 2:2 bis 90. (Kacor-Joker) - 2-Tore-Fuehrung verspielt, direkter Sieg-Tipp (Quote 1.75) verloren trotz 2:0-Insurance-Flag im Dossier (Insurance greift nur bei Niederlage, nicht bei Remis). (2) Liverpool kam aus 0:2 nach 29 Min bis 4:2 nach 68 Min zurueck - DC 1X + Ueber 2.5 gewonnen trotz Early-Underdog-Pattern. Lesson: 2:0-Insurance greift NICHT bei Remis - direkter Sieg-Tipp bleibt echtes Niederlage-Risiko bei Druck-Favorit vs Underdog ohne Hemmungen. Bei Pflichtsieg-Konstellationen lieber DC 1X oder BTTS/Ueber 2.5 als direkten Sieg.",
+      "bezug_spiel_id": "2026-10-20-fen-sla"
     }
   ]
 };
