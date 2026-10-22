@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-20",
+  "stand": "2026-10-22",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -470,6 +470,15 @@
       "ablöse_mio": 6.5,
       "hinweis": "Leihe mit Kauf-Pflicht 2025/26 - 2026/27 fest. Doppelpack (4', 69') im Posticipo 0:3 bei Parma am 19.10.2026. Nicht mehr als Napoli-Spieler tippen; als Torino-Volumen-Stuermer tippbar.",
       "quelle": "https://sscnapoli.it/en/ufficiale-simeone-al-torino/"
+    },
+    {
+      "spieler": "Bernardo Silva",
+      "von": "Manchester City",
+      "nach": "Real Madrid",
+      "datum": "2026-06-17",
+      "ablöse_mio": 0,
+      "hinweis": "Ablaufender Vertrag -> Free Transfer. Nach 9 Jahren Man City. Aufgefallen bei Auswertung 21.10.2026: Bernardo Silva traf zum 1:0 kurz vor HZ beim 4:1 Real gegen Leipzig (CL MD3). 2-Jahres-Vertrag bis 2028. Nicht mehr als City-Spieler tippen.",
+      "quelle": "https://citizen.digital/article/bernardo-silva-signs-two-year-deal-with-real-madrid-n384792"
     }
   ],
   "zugaenge_neue_optionen": [
@@ -833,6 +842,14 @@
       "datum": "2024-07",
       "hinweis": "Seit 2024 bei Torino (vom Southampton). Traf 19.10.2026 im Posticipo zum 0:2 bei Parma. Nicht neu - aber als Torino-Partner von Simeone (Doppelpack am 19.10.) jetzt in Volumen-Stuermer-Rolle unter Abate.",
       "quelle": "https://en.legaseriea.it/serie-a/news/el-cholito-moves-to-torino"
+    },
+    {
+      "spieler": "Bernardo Silva",
+      "von": "Manchester City",
+      "nach": "Real Madrid",
+      "datum": "2026-06-17",
+      "hinweis": "Free Transfer. Portuguese Playmaker, Mittelfeld. Scorende Rolle beim 4:1 gegen Leipzig (1:0 kurz vor HZ, 21.10.2026). Backup/Rotation hinter Bellingham, aber eigene Torschuetzen-Qualitaet.",
+      "quelle": "https://www.realmadrid.com/en-US/news/club/latest-news/comunicado-oficial-mourinho-11-06-2026"
     }
   ],
   "trainer_2026_27": [

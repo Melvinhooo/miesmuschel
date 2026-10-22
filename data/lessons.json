@@ -3517,6 +3517,30 @@
       "kategorie": "HR10-20-4 Doppel-Drehung CL MD3: Fener-Kollaps + Liverpool-Comeback (8f)",
       "lesson": "Zwei signifikante Drehungen am gleichen CL-Abend: (1) Fenerbahce fuehrte 2:0 nach 11 Min, Slavia Prag glich 2:2 bis 90. (Kacor-Joker) - 2-Tore-Fuehrung verspielt, direkter Sieg-Tipp (Quote 1.75) verloren trotz 2:0-Insurance-Flag im Dossier (Insurance greift nur bei Niederlage, nicht bei Remis). (2) Liverpool kam aus 0:2 nach 29 Min bis 4:2 nach 68 Min zurueck - DC 1X + Ueber 2.5 gewonnen trotz Early-Underdog-Pattern. Lesson: 2:0-Insurance greift NICHT bei Remis - direkter Sieg-Tipp bleibt echtes Niederlage-Risiko bei Druck-Favorit vs Underdog ohne Hemmungen. Bei Pflichtsieg-Konstellationen lieber DC 1X oder BTTS/Ueber 2.5 als direkten Sieg.",
       "bezug_spiel_id": "2026-10-20-fen-sla"
+    },
+    {
+      "datum": "2026-10-22",
+      "kategorie": "HR24-21-1 Topstuermer-SAFE am CL-Abend MD3: 3/4 Form-Edge-Volltreffer (8e)",
+      "lesson": "Vier CL-Topstuermer-Jederzeit-Tipps am 21.10. (Mbappe 1.55, Lautaro 1.75, Jackson 1.80, Kane 2.05). Trefferquote 2/4: Mbappe traf 83' (Real 4:1 Leipzig), Kane traf 61' per Elfmeter (2:2 vs Arsenal). Jackson traf nicht trotz zwei Kopfball-Chancen (Villa 3:1 Viking, Villa-Tore kamen vom Mittelfeld). Lautaro OUT verletzt - trat gar nicht an. Lesson: HR24-Form-Edge-Pruefung muss die 'spielt heute ueberhaupt'-Pruefung an die erste Stelle setzen - Vor-Spiel-Verletzungen (Last-Minute-OUT) schlagen jeden Form-Edge. kicker.de-Aufstellungs-Vorschau Pflicht in saison_kontext.quellen bei Torschuetzen-Tipp.",
+      "bezug_spiel_id": "2026-10-21-int-shk"
+    },
+    {
+      "datum": "2026-10-22",
+      "kategorie": "HR23-6 CL-MD3 Underdog-Boost: 3 Favoriten-Siege gekippt (8h)",
+      "lesson": "Mittwochs-CL-Slate 21.10. - drei direkte Sieg-Tipps auf Topfavoriten verloren bzw. degradiert: (1) Sporting (1.25) in Lissabon 2:3 gegen LASK - 2:0-Insurance greift nicht, Sporting lag nie 2 vorn. (2) Bayern (2.10) daheim 2:2 gegen Arsenal - Insurance nutzlos, Remis. (3) Como (DC-Gegenbein 1.35 ManUtd+Remis) 4:1 ueberrannt ManUtd. Pattern: CL-Debuetanten/Underdog-Qualifikanten erhoehen zu Hause oder im Topduell Druck auf Favoriten. Lesson: Bei Favoriten-SAFE mit Quote <1.30 im CL-MD3+ Zeitraum weiterhin bevorzugt DC statt direkter Sieg - 2:0-Insurance zahlt nur bei Niederlage, nicht bei Remis.",
+      "bezug_spiel_id": "2026-10-21-scp-lsk"
+    },
+    {
+      "datum": "2026-10-22",
+      "kategorie": "HR24-9 Einwechsel-Boost-Trigger ohne Tipp: Diomande(ex-Leipzig) fuer Vinicius (8i)",
+      "lesson": "Diomande (Sommer-Zugang Real aus Leipzig) kam fuer Vinicius und traf zum 4:1 (90.) gegen seinen Ex-Verein. Vinicius hatte selbst nicht getroffen. Kein Vinicius-Torschuetzen-Tipp im Dossier - trotzdem haetten wir mit Vinicius-Tipp dank Einwechsel-Boost zum gewonnenen Status gefuehrt. Lesson: Backup-Stuermer-Qualitaet bei Topklubs mit tiefem Kader (Real/Bayern/Inter/Arsenal) erhoeht Torschuetzen-Jederzeit-Edge auch fuer Starter die selbst nicht treffen - solange ihr Backup selbe Position besetzt. Diomande 125-Mio-Transfer bestaetigt sich als CL-Produzent.",
+      "bezug_spiel_id": "2026-10-21-rma-rbl"
+    },
+    {
+      "datum": "2026-10-22",
+      "kategorie": "HR24-10 Kader-Frische: Bernardo Silva seit 06/2026 Real Madrid (Selbstlern)",
+      "lesson": "Beim Auswerten Real 4:1 Leipzig aufgefallen: Bernardo Silva traf zum 1:0 kurz vor HZ. War 9 Jahre Man-City-Spieler, am 17.06.2026 ablaufender Vertrag -> Free Transfer zu Real (Vertrag bis 2028). Nicht in unseren Previews gefuehrt. Konsequenz: In data/kader_wechsel_2026.json als Abgang Man City + Zugang Real ergaenzt. Lesson: Pre-Spiel-Routinen (Recherche/Analyse) muessen Portugal-Nationalspieler-Updates aus Juni-Transferfenster-Phase mitnehmen, nicht nur Deadline-Day. Trainer Mourinho wurde korrekt gefuehrt - Silva-Zugang kam im selben Fenster und wurde uebersehen.",
+      "bezug_spiel_id": "2026-10-21-rma-rbl"
     }
   ]
 }
