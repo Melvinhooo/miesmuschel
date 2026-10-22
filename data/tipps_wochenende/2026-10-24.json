@@ -35,7 +35,7 @@
       "tipps": [
         {
           "id": "bar-rea-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Über 2.5 Tore",
           "quote": 1.55,
           "edge_prozent": 7.0,
@@ -45,7 +45,7 @@
         },
         {
           "id": "bar-rea-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Beide Teams treffen",
           "quote": 1.45,
           "edge_prozent": 5.0,
@@ -84,7 +84,7 @@
           "begruendung": "Nach vier verlorenen Clásicos letzte Saison und 4:1 CL-Statement spricht Form für Real, Barça ohne Lewandowski-Vollgewicht. Risiko wegen Camp-Nou-Faktor. Keine 2:0-Insurance in LaLiga - Sieg muss durchgespielt werden. Stake 2,50€ (0,25 %)."
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
       "id": "2026-10-24-dor-fra",
@@ -116,13 +116,14 @@
       "tipps": [
         {
           "id": "dor-fra-1",
-          "kategorie": "safe",
+          "kategorie": "value",
           "markt": "Dortmund oder Remis (Doppelte Chance 1X)",
           "quote": 1.22,
           "edge_prozent": 4.0,
           "faire_quote": 1.18,
           "empfohlener_einsatz_prozent": 2.0,
-          "begruendung": "DC 1X ist aktuelle Goldgrube (73,9 % Hitrate / +36 % ROI). BVB-Heim gegen Frankfurt in den letzten 10 BL-Direktbegegnungen zu Hause 7 Siege + 2 Remis. Beide mit CL-Belastung → defensives Setup Frankfurt wahrscheinlich. Stake 20€ (2 %)."
+          "begruendung": "DC 1X ist aktuelle Goldgrube (73,9 % Hitrate / +36 % ROI). BVB-Heim gegen Frankfurt in den letzten 10 BL-Direktbegegnungen zu Hause 7 Siege + 2 Remis. Beide mit CL-Belastung → defensives Setup Frankfurt wahrscheinlich. Stake 20€ (2 %). [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
+          "_markt_mix_dc_downgrade": true
         },
         {
           "id": "dor-fra-2",
@@ -197,7 +198,7 @@
       "tipps": [
         {
           "id": "fre-bay-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Sieg Bayern München (90 Min)",
           "quote": 1.45,
           "edge_prozent": 6.0,
@@ -207,7 +208,7 @@
         },
         {
           "id": "fre-bay-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Harry Kane Torschütze jederzeit",
           "quote": 1.75,
           "edge_prozent": 8.0,
@@ -217,7 +218,7 @@
         },
         {
           "id": "fre-bay-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Über 2.5 Tore",
           "quote": 1.5,
           "edge_prozent": 5.0,
@@ -246,7 +247,7 @@
           "begruendung": "Olise als Flügel-Umschaltspieler, Freiburg-Außen schwach. Rotations-Risiko hoch (3 Tage nach CL). Stake 2,50€."
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
       "id": "2026-10-24-avl-mci",
@@ -359,7 +360,7 @@
       "tipps": [
         {
           "id": "int-fio-1",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "markt": "Inter oder Remis (Doppelte Chance 1X)",
           "quote": 1.14,
           "edge_prozent": 4.0,
@@ -369,7 +370,7 @@
         },
         {
           "id": "int-fio-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Sieg Inter Milano (90 Min)",
           "quote": 1.44,
           "edge_prozent": 7.0,
@@ -379,7 +380,7 @@
         },
         {
           "id": "int-fio-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Lautaro Martínez Torschütze jederzeit",
           "quote": 1.8,
           "edge_prozent": 6.0,
@@ -389,7 +390,7 @@
         },
         {
           "id": "int-fio-4",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Über 2.5 Tore",
           "quote": 1.9,
           "edge_prozent": 4.0,
@@ -398,7 +399,7 @@
           "begruendung": "Inter-Heim meist offensiv (Vorsaison 2,1 Tore/Spiel zu Hause), Fio mit Kean-Risiko für +1. Stake 10€."
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
       "id": "2026-10-24-nap-rom",
@@ -430,7 +431,7 @@
       "tipps": [
         {
           "id": "nap-rom-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Napoli oder Remis (Doppelte Chance 1X)",
           "quote": 1.33,
           "edge_prozent": 5.0,
@@ -440,7 +441,7 @@
         },
         {
           "id": "nap-rom-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Über 2.5 Tore",
           "quote": 1.95,
           "edge_prozent": 5.0,
@@ -479,7 +480,7 @@
           "begruendung": "Direkter Sieg - Risiko wegen Roma-Qualität trotz Belastungs-Nachteil. Keine 2:0-Insurance Serie A. Stake 2,50€."
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
       "id": "2026-10-24-psg-ol",
@@ -511,13 +512,14 @@
       "tipps": [
         {
           "id": "psg-ol-1",
-          "kategorie": "safe",
+          "kategorie": "value",
           "markt": "PSG oder Remis (Doppelte Chance 1X)",
           "quote": 1.1,
           "edge_prozent": 3.0,
           "faire_quote": 1.07,
           "empfohlener_einsatz_prozent": 2.0,
-          "begruendung": "PSG-Heim gegen Mittelfeld-Gegner, Belastungs-Vorteil. DC 1X Goldgrube (73,9 % Hit). Niedrige Quote → 2 % Kasse = 20€, aber nahezu-Sicherung."
+          "begruendung": "PSG-Heim gegen Mittelfeld-Gegner, Belastungs-Vorteil. DC 1X Goldgrube (73,9 % Hit). Niedrige Quote → 2 % Kasse = 20€, aber nahezu-Sicherung. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
+          "_markt_mix_dc_downgrade": true
         },
         {
           "id": "psg-ol-2",
@@ -563,7 +565,8 @@
       "quote": 1.22,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "BL-Goldgrube DC 1X, BVB-Heim gegen SGE historisch stabil. Beide mit CL-Belastung, Frankfurt defensives Setup wahrscheinlich."
+      "begruendung": "BL-Goldgrube DC 1X, BVB-Heim gegen SGE historisch stabil. Beide mit CL-Belastung, Frankfurt defensives Setup wahrscheinlich.",
+      "rang": 1
     },
     {
       "id": "e-02",
@@ -574,7 +577,8 @@
       "quote": 1.14,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Inter-Heim-Dominanz + Fiorentina mit Conf-Donnerstag-Belastung + Reise. Niedrige Quote, Puffer-Tipp."
+      "begruendung": "Inter-Heim-Dominanz + Fiorentina mit Conf-Donnerstag-Belastung + Reise. Niedrige Quote, Puffer-Tipp.",
+      "rang": 2
     },
     {
       "id": "e-03",
@@ -585,7 +589,8 @@
       "quote": 1.1,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "PSG-Heim gegen Mittelfeld-Lyon, Belastungs-Vorteil. Sehr niedrige Quote - Sicherungs-Tipp."
+      "begruendung": "PSG-Heim gegen Mittelfeld-Lyon, Belastungs-Vorteil. Sehr niedrige Quote - Sicherungs-Tipp.",
+      "rang": 3
     },
     {
       "id": "e-04",
@@ -596,7 +601,8 @@
       "quote": 1.45,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Bayern-Klassen-Edge + Luis Díaz nach Hattrick vs Leipzig in Form. 2:0-Insurance bet365 (BL) - Puffer bei Rückfall. Freiburg-Keeper-Umbau nach Atubolu-Abgang."
+      "begruendung": "Bayern-Klassen-Edge + Luis Díaz nach Hattrick vs Leipzig in Form. 2:0-Insurance bet365 (BL) - Puffer bei Rückfall. Freiburg-Keeper-Umbau nach Atubolu-Abgang.",
+      "rang": 4
     },
     {
       "id": "e-05",
@@ -607,7 +613,8 @@
       "quote": 1.44,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Klassen-Edge + Rotations-Vorteil + Heimstärke. Keine 2:0-Insurance in Serie A, muss durchgespielt werden."
+      "begruendung": "Klassen-Edge + Rotations-Vorteil + Heimstärke. Keine 2:0-Insurance in Serie A, muss durchgespielt werden.",
+      "rang": 5
     },
     {
       "id": "e-06",
@@ -618,7 +625,8 @@
       "quote": 1.55,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Clásico-Historie 8/10 Über 2.5. Beide offensiv voll motiviert, keine Rotation. Markt-Goldgrube."
+      "begruendung": "Clásico-Historie 8/10 Über 2.5. Beide offensiv voll motiviert, keine Rotation. Markt-Goldgrube.",
+      "rang": 6
     },
     {
       "id": "e-07",
@@ -629,7 +637,8 @@
       "quote": 1.75,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Kane durchspielt (nicht Rotations-Kandidat), Freiburg-Defense umgebaut. Goldgrube Torschützen (+45,5 % ROI). Einwechslungs-Boost als Puffer."
+      "begruendung": "Kane durchspielt (nicht Rotations-Kandidat), Freiburg-Defense umgebaut. Goldgrube Torschützen (+45,5 % ROI). Einwechslungs-Boost als Puffer.",
+      "rang": 7
     },
     {
       "id": "e-08",
@@ -640,7 +649,8 @@
       "quote": 1.33,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Roma mit EL-Donnerstag-Belastung (2 Tage Pause), Napoli-Heim-Kurve stark. DC 1X Goldgrube."
+      "begruendung": "Roma mit EL-Donnerstag-Belastung (2 Tage Pause), Napoli-Heim-Kurve stark. DC 1X Goldgrube.",
+      "rang": 8
     },
     {
       "id": "e-09",
@@ -651,7 +661,8 @@
       "quote": 2.0,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Guirassy BVB-Volume-9er + Einwechslungs-Boost (Beier-Backup). Markt-Goldgrube."
+      "begruendung": "Guirassy BVB-Volume-9er + Einwechslungs-Boost (Beier-Backup). Markt-Goldgrube.",
+      "rang": 9
     },
     {
       "id": "e-10",
@@ -662,7 +673,8 @@
       "quote": 1.7,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Haaland Topscorer PL, Villa-Defense durch EL-Belastung rotiert. Keine 2:0-Insurance PL."
+      "begruendung": "Haaland Topscorer PL, Villa-Defense durch EL-Belastung rotiert. Keine 2:0-Insurance PL.",
+      "rang": 10
     },
     {
       "id": "e-11",
@@ -673,7 +685,8 @@
       "quote": 1.8,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Lautaro-Topscorer + Einwechslungs-Boost Esposito. Markt-Goldgrube."
+      "begruendung": "Lautaro-Topscorer + Einwechslungs-Boost Esposito. Markt-Goldgrube.",
+      "rang": 11
     },
     {
       "id": "e-12",
@@ -684,7 +697,8 @@
       "quote": 2.0,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Torres Volume-9er, Debüt-Doppelpack vs Rennes. Lyon-Defense durchlässig."
+      "begruendung": "Torres Volume-9er, Debüt-Doppelpack vs Rennes. Lyon-Defense durchlässig.",
+      "rang": 12
     }
   ],
   "kombis": [
