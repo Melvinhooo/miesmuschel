@@ -446,7 +446,9 @@
       "markt": "Beide Teams treffen",
       "quote": 1.55,
       "kategorie": "value",
-      "begruendung": "Lyon 5 EL-Spiele in Serie mit Tor, Hoffenheim zu Hause 1+ Tor konstant. 15€ Einsatz."
+      "begruendung": "Lyon 5 EL-Spiele in Serie mit Tor, Hoffenheim zu Hause 1+ Tor konstant. 15€ Einsatz.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1
     },
     {
       "spiel_id": "2026-10-22-ofi-lev",
@@ -454,7 +456,9 @@
       "markt": "Doppelte Chance Leverkusen oder Remis",
       "quote": 1.3,
       "kategorie": "value",
-      "begruendung": "Markt-Goldgrube DC X2. Kaderqualitaets-Vorteil Leverkusen, aber OFI zu Hause stark - DC statt Sieg. 15€."
+      "begruendung": "Markt-Goldgrube DC X2. Kaderqualitaets-Vorteil Leverkusen, aber OFI zu Hause stark - DC statt Sieg. 15€.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2
     },
     {
       "spiel_id": "2026-10-22-juv-ren",
@@ -462,7 +466,9 @@
       "markt": "Doppelte Chance Juventus oder Remis",
       "quote": 1.14,
       "kategorie": "value",
-      "begruendung": "DC 1X Goldgrube. Juve zu Hause gegen Ligue-1-Mittelfeld, Lazio-Pleite drueckt Momentum. 15€."
+      "begruendung": "DC 1X Goldgrube. Juve zu Hause gegen Ligue-1-Mittelfeld, Lazio-Pleite drueckt Momentum. 15€.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
     },
     {
       "spiel_id": "2026-10-22-bes-cpa",
@@ -470,7 +476,9 @@
       "markt": "Doppelte Chance Besiktas oder Remis",
       "quote": 1.4,
       "kategorie": "value",
-      "begruendung": "DC 1X Goldgrube. Vodafone-Park-Heim-Edge, Palace mit Reise + IV-Problem. 15€."
+      "begruendung": "DC 1X Goldgrube. Vodafone-Park-Heim-Edge, Palace mit Reise + IV-Problem. 15€.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
     },
     {
       "spiel_id": "2026-10-22-bou-mil",
@@ -478,7 +486,9 @@
       "markt": "Ueber 2.5 Tore",
       "quote": 1.9,
       "kategorie": "value",
-      "begruendung": "Markt-Goldgrube. Beide offensiv konstant, Milan-IV im Umbau noch nicht gefestigt. 15€."
+      "begruendung": "Markt-Goldgrube. Beide offensiv konstant, Milan-IV im Umbau noch nicht gefestigt. 15€.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
     },
     {
       "spiel_id": "2026-10-22-ofi-lev",
@@ -486,7 +496,9 @@
       "markt": "Ueber 2.5 Tore",
       "quote": 1.75,
       "kategorie": "value",
-      "begruendung": "Markt-Goldgrube. Leverkusen offensiv unter Novell, OFI zuhause 2 Tore je Spiel - 3-Tore-Pattern. 15€."
+      "begruendung": "Markt-Goldgrube. Leverkusen offensiv unter Novell, OFI zuhause 2 Tore je Spiel - 3-Tore-Pattern. 15€.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6
     },
     {
       "spiel_id": "2026-10-22-juv-ren",
@@ -494,7 +506,9 @@
       "markt": "Kolo Muani Torschuetze jederzeit",
       "quote": 2.05,
       "kategorie": "value",
-      "begruendung": "Form-Edge: Last-Minute-Tor im Celta-Spiel, Spalletti-Startelf. Einwechslungs-Boost Woltemade. 15€."
+      "begruendung": "Form-Edge: Last-Minute-Tor im Celta-Spiel, Spalletti-Startelf. Einwechslungs-Boost Woltemade. 15€.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
     },
     {
       "spiel_id": "2026-10-22-bes-cpa",
@@ -502,7 +516,9 @@
       "markt": "Vlahovic Torschuetze jederzeit",
       "quote": 2.4,
       "kategorie": "value",
-      "begruendung": "HR24-Form-Edge: Vlahovic zentraler Nr. 9 bei Besiktas, Volumen. Palace-IV durch Guehi/Lacroix-Abgang geschwaecht. 15€."
+      "begruendung": "HR24-Form-Edge: Vlahovic zentraler Nr. 9 bei Besiktas, Volumen. Palace-IV durch Guehi/Lacroix-Abgang geschwaecht. 15€.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8
     },
     {
       "spiel_id": "2026-10-22-bou-mil",
@@ -510,7 +526,9 @@
       "markt": "Beide Teams treffen",
       "quote": 1.7,
       "kategorie": "value",
-      "begruendung": "Bournemouth zuhause 1+ Tor konstant, Milan defensiv noch nicht stabil. 15€."
+      "begruendung": "Bournemouth zuhause 1+ Tor konstant, Milan defensiv noch nicht stabil. 15€.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 9
     },
     {
       "spiel_id": "2026-10-22-hof-lyo",
@@ -518,7 +536,9 @@
       "markt": "Ueber 2.5 Tore",
       "quote": 1.85,
       "kategorie": "value",
-      "begruendung": "Markt-Goldgrube. xG-Modell 2.7+ gesamt, Historie 2024/25 2:2. 15€."
+      "begruendung": "Markt-Goldgrube. xG-Modell 2.7+ gesamt, Historie 2024/25 2:2. 15€.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 10
     },
     {
       "spiel_id": "2026-10-22-stu-mar",
@@ -526,7 +546,9 @@
       "markt": "Doppelte Chance Sturm Graz oder Remis",
       "quote": 2.0,
       "kategorie": "value",
-      "begruendung": "DC 1X Goldgrube. Sturm Underdog mit Druck-Vorteil, Marseille rotations-anfaellig. 15€."
+      "begruendung": "DC 1X Goldgrube. Sturm Underdog mit Druck-Vorteil, Marseille rotations-anfaellig. 15€.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 11
     },
     {
       "spiel_id": "2026-10-22-cel-cvi",
@@ -534,7 +556,9 @@
       "markt": "Doppelte Chance Celtic oder Remis",
       "quote": 1.4,
       "kategorie": "wackel",
-      "begruendung": "Celtic-Park-Heim-Edge, aber Coinflip - kein SAFE. 5€."
+      "begruendung": "Celtic-Park-Heim-Edge, aber Coinflip - kein SAFE. 5€.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 12
     }
   ],
   "kombis": [
@@ -566,9 +590,9 @@
       ],
       "gesamtquote": 2.07,
       "rechnung": "1.14 x 1.30 x 1.40 = 2.07",
-      "einsatz_prozent": 2.0,
       "einsatz_euro": 20.0,
-      "begruendung": "Drei DC-Goldgruben, verschiedene Spiele, Layer-2 sauber (3 verschiedene Sieg-Outcomes). Konservativ, Ziel: Quali-Kasse schuetzen. 20€ bei 1000€ Kasse."
+      "begruendung": "Drei DC-Goldgruben, verschiedene Spiele, Layer-2 sauber (3 verschiedene Sieg-Outcomes). Konservativ, Ziel: Quali-Kasse schuetzen. 20€ bei 1000€ Kasse.",
+      "empfohlener_einsatz_prozent": 2.0
     },
     {
       "name": "Balance-Kombi EL-MD3",
@@ -598,9 +622,9 @@
       ],
       "gesamtquote": 5.15,
       "rechnung": "1.55 x 1.90 x 1.75 = 5.15",
-      "einsatz_prozent": 0.8,
       "einsatz_euro": 8.0,
-      "begruendung": "Markt-Goldgruben: BTTS + Ueber 2.5 (zweimal). Alle in offensiven Matches. Ueber 1.9 Quote reicht fuer Balance. 8€ bei 1000€."
+      "begruendung": "Markt-Goldgruben: BTTS + Ueber 2.5 (zweimal). Alle in offensiven Matches. Ueber 1.9 Quote reicht fuer Balance. 8€ bei 1000€.",
+      "empfohlener_einsatz_prozent": 0.8
     },
     {
       "name": "Risiko-Kombi EL-MD3",
@@ -637,9 +661,9 @@
       ],
       "gesamtquote": 18.21,
       "rechnung": "2.05 x 2.40 x 1.85 x 2.00 = 18.21",
-      "einsatz_prozent": 0.25,
       "einsatz_euro": 2.5,
-      "begruendung": "Zwei Torschuetzen-Goldgruben + Ueber 2.5 + Underdog-DC. Verschiedene Spiele + Markt-Mix. 2.50€ bei 1000€."
+      "begruendung": "Zwei Torschuetzen-Goldgruben + Ueber 2.5 + Underdog-DC. Verschiedene Spiele + Markt-Mix. 2.50€ bei 1000€.",
+      "empfohlener_einsatz_prozent": 0.25
     },
     {
       "name": "Moonshot-Kombi EL-MD3",
@@ -676,9 +700,9 @@
       ],
       "gesamtquote": 33.66,
       "rechnung": "2.00 x 3.40 x 3.00 x 1.65 = 33.66",
-      "einsatz_prozent": 0.1,
       "einsatz_euro": 1.0,
-      "begruendung": "Zwei Spieltor-Volumen-Risiken + offene Tor-Spiele. 100x nicht ganz erreicht, aber ehrlich - 1€ Spasseinsatz."
+      "begruendung": "Zwei Spieltor-Volumen-Risiken + offene Tor-Spiele. 100x nicht ganz erreicht, aber ehrlich - 1€ Spasseinsatz.",
+      "empfohlener_einsatz_prozent": 0.1
     }
   ],
   "lessons_angewandt": [
