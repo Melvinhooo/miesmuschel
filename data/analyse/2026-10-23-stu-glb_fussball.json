@@ -1,0 +1,66 @@
+{
+  "spiel_id": "2026-10-23-stu-glb",
+  "saison_kontext": {
+    "parallel_heim": "keine - kein Europapokal, DFB-Pokal 2. Runde erst 03.-05.11.2026",
+    "parallel_gast": "keine - kein Europapokal, DFB-Pokal 2. Runde erst 03.-05.11.2026",
+    "saisonziel_heim": "Platz 10 (ca. 6 Pkt nach 5-6 Spielen), Mittelfeld, Europa-Hoffnung bei stabilem Lauf",
+    "saisonziel_gast": "LETZTER (0 Pkt nach 6 Spielen), historischer Fehlstart, Klassenerhalt-Krise ab Spiel 1",
+    "motivations_asymmetrie": "Riesen-Edge Stuttgart: Gladbach ist nach 6 Spielen punkt- und siegslos, Blessin hat seine ersten zwei BL-Spiele unter sich (0:2 in Koeln 11.10., 1:2 heim gegen Hoffenheim) auch verloren. Stuttgart zuhause stabil, hat gegen Gladbach zuletzt 2x in Folge gewonnen (zuletzt 3:0 in Gladbach 25.01.2026). Baustelle Gladbach: komplett neuer Trainer-Ansatz (Blessin 3-4-2-1/4-2-2-2, aggressiv pressen), Reitz-Abgang zu Leipzig schmerzt im Zentrum, Nicolas Kuehn (Leihe von Como) als Offensiv-Zugang noch im Einbau.",
+    "recovery_heim": "6 Tage seit 6. Spieltag (17.10. in Hamburg), ueblicher Wochen-Rhythmus",
+    "recovery_gast": "6 Tage seit 1:2 heim gegen Hoffenheim (17.10.), ebenfalls Standard-Rhythmus - keine englische Woche",
+    "quellen": [
+      "https://www.bundesliga.com/de/bundesliga/spieltag/2026-2027/7",
+      "https://ran.joyn.de/sports/fussball/bundesliga/vfb-stuttgart-vs-borussia-moenchengladbach-live-bundesliga-im-free-tv-livestream-und-liveticker-202396",
+      "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-fussball-1-fc-koeln-borussia-moenchengladbach-100.html",
+      "https://www.bundesliga.com/en/bundesliga/news/alexander-blessin-appointed-borussia-monchengladbach-head-coach-39320",
+      "https://www.stuttgarter-zeitung.de/sport/vfb-stuttgart/vfb-stuttgart-trotz-reisestress-vfb-will-seine-serie-in-gladbach-ausbauen-78875390.html",
+      "https://www.kicker.de/vfb-stuttgart/kader"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "stu-glb-1",
+      "kategorie": "safe",
+      "markt": "Sieg VfB Stuttgart (90 Min)",
+      "quote": 1.38,
+      "edge_prozent": 8.0,
+      "begruendung": "Gladbach ist seit 6 Spielen sieg- und punktlos, hat auch unter Blessin bislang beide BL-Spiele verloren. Stuttgart zuhause stabil, 2 Siege in Folge im Direktvergleich (3:0 zuletzt). Quote 1.38 im SAFE-Range (1.30-1.65), Hitrate 2026/27 SAFE 80.9% (n=54, ROI +65.5%) stuetzt. 2:0-Insurance (BL) gibt Zusatz-Puffer: Tipp gewinnt auch, wenn Stuttgart zwischendurch 2:0 fuehrt und am Ende verliert. Einsatz Stufe 1: 2.0% von 1000 EUR = 20 EUR.",
+      "faire_quote": 1.27,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0
+    },
+    {
+      "id": "stu-glb-2",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.8,
+      "edge_prozent": 7.0,
+      "begruendung": "Gladbach kassiert 2.67 Tore/Spiel (16 Gegentore in 6 Spielen vor Blessin), Blessin spielt zusaetzlich pressing-/umschalt-orientiert - mehr Umschaltmomente in beide Richtungen. Markt-Goldgrube 'Ueber 2.5 Tore' (58.6% HR / +50.8% ROI). Einsatz Stufe 1: 1.5% = 15 EUR.",
+      "faire_quote": 1.69,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0
+    },
+    {
+      "id": "stu-glb-3",
+      "kategorie": "value",
+      "markt": "Doppelte Chance 1X Stuttgart oder Remis",
+      "quote": 1.08,
+      "edge_prozent": 2.5,
+      "begruendung": "DC 1X ist aktuelle Markt-Goldgrube (73.9% HR / +36.0% ROI, n=23) und Stuttgart ist zuhause gegen Letzter de facto nicht-verlierbar. Quote niedrig, aber als zweite SAFE-Absicherung Richtung Kombi-Baustein brauchbar. Einsatz Stufe 1: 1.0% = 10 EUR.",
+      "faire_quote": 1.05,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0
+    },
+    {
+      "id": "stu-glb-4",
+      "kategorie": "wackel",
+      "markt": "Deniz Undav Torschuetze jederzeit",
+      "quote": 2.1,
+      "edge_prozent": 4.0,
+      "begruendung": "Undav war 2025/26 Vize-Torschuetzenkoenig (19 Tore in 29 Spielen) und ist weiter Stuttgart-Zielspieler. Form 2026/27 liegt mir nicht sauber vor - deshalb bewusst WACKEL statt VALUE (HR24 nur teilweise erfuellt, aktive Form-Edge nicht belegt). Gegen Gladbacher Krisen-Defense + Einwechslungs-Boost-Logik (Demirovic als Backup) brauchbare Quote. Einsatz Stufe 1: 0.5% = 5 EUR.",
+      "faire_quote": 2.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0
+    }
+  ]
+}

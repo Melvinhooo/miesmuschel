@@ -1,0 +1,65 @@
+{
+  "spiel_id": "2026-10-23-ala-mla",
+  "saison_kontext": {
+    "parallel_heim": "keine - kein Europapokal, Primera Division ohne parallelen Wettbewerb diese Woche",
+    "parallel_gast": "keine - kein Europapokal, Primera Division ohne parallelen Wettbewerb diese Woche",
+    "saisonziel_heim": "Platz 7 mit 11 Pkt (9 Spiele), 13 Tore / 10 Gegentore, Klassenerhalt locker, oberes Mittelfeld moeglich",
+    "saisonziel_gast": "LETZTER / Platz 18 mit 4 Pkt (9 Spiele), 6 Tore / 18 Gegentore (-12 Tordiff), klarer Abstiegskandidat",
+    "motivations_asymmetrie": "Klarer Edge Alaves: Málaga ist LaLiga-Aufsteiger mit katastrophaler Defensive (2 Gegentore/Spiel), Alaves zuhause und mit stabilem Punkte-Rhythmus. Málaga braucht Punkte, Form aber desolat (zuletzt viele Niederlagen).",
+    "recovery_heim": "ca. 13 Tage seit 1:2 vs Atletico Madrid (10.10.) - Laenderspielpause verbrauchte den Rest - voll fit",
+    "recovery_gast": "ca. 13 Tage seit letztem Spiel (Laenderspielpause) - voll fit, kann keine Muedigkeits-Ausrede",
+    "quellen": [
+      "https://www.laliga.com/en-GB/laliga-easports/match/2026-27/jornada-10",
+      "https://www.wincomparator.com/es/pronosticos/deportivo-alaves-malaga-8586503/",
+      "https://gainblers.com/es/apuestas/futbol/espana/liga-primera-division/alaves-malaga/",
+      "https://www.comuniate.com/partido/26/4/10/deportivo-alaves-malaga-club-de-futbol",
+      "https://thefootballfaithful.com/deportivo-alaves-vs-malaga-prediction-betting-tips-23-10-2026/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "ala-mla-1",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance 1X Alaves oder Remis",
+      "quote": 1.2,
+      "edge_prozent": 6.0,
+      "begruendung": "Markt-Goldgrube DC 1X (73.9% HR / +36.0% ROI). Alaves zuhause gegen Letzter mit -12 Tordiff - Risiko eines Málaga-Siegs minimal. Quote 1.20 im unteren SAFE-Range, Kombi-Baustein. Einsatz Stufe 1: 1.5% von 1000 EUR = 15 EUR.",
+      "faire_quote": 1.13,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0
+    },
+    {
+      "id": "ala-mla-2",
+      "kategorie": "value",
+      "markt": "Sieg Deportivo Alaves (90 Min)",
+      "quote": 1.8,
+      "edge_prozent": 7.0,
+      "begruendung": "Alaves 7./11 Pkt zuhause gegen Letzter 4 Pkt (-12 Tordiff) - Klassen- und Heim-Edge. Quote 1.80 im VALUE-Range, implizit 55% - Wincomparator schaetzt 56-60% je nach Buchmacher. Einsatz Stufe 1: 2.0% = 20 EUR.",
+      "faire_quote": 1.67,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0
+    },
+    {
+      "id": "ala-mla-3",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 2.0,
+      "edge_prozent": 6.5,
+      "begruendung": "Málaga kassiert 2.0 Tore/Spiel - garantierter Tor-Lieferant. Alaves zuhause offensiv ok (ca. 1.3 Tore/Spiel). Markt-Goldgrube Ueber 2.5 (58.6% HR / +50.8% ROI, n=32). Einsatz Stufe 1: 1.0% = 10 EUR.",
+      "faire_quote": 1.88,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0
+    },
+    {
+      "id": "ala-mla-4",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen - Ja",
+      "quote": 1.75,
+      "edge_prozent": 2.0,
+      "begruendung": "Málaga trifft trotz schlechter Form (6 Tore in 9 Spielen, nicht null), Alaves zuhause mit Torgefahr. BTTS laeuft gegen den Málaga-Trend aber (sie kriegen oft 2+, treffen aber weniger) - deshalb WACKEL. Einsatz Stufe 1: 0.5% = 5 EUR.",
+      "faire_quote": 1.72,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0
+    }
+  ]
+}

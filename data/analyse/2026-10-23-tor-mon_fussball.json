@@ -1,0 +1,54 @@
+{
+  "spiel_id": "2026-10-23-tor-mon",
+  "saison_kontext": {
+    "parallel_heim": "keine - kein Europapokal, Coppa Italia 4. Runde erst 02.-04.12.2026",
+    "parallel_gast": "keine - kein Europapokal, Coppa Italia 4. Runde erst 02.-04.12.2026",
+    "saisonziel_heim": "Mittelfeld / 14. mit 7 Pkt, Abate-Umbruch, defensiv noch instabil (2 Niederlagen zum Serie-A-Saisonstart)",
+    "saisonziel_gast": "Aufsteiger, 13. mit 7 Pkt, Klassenerhalt-Prioritaet - unter Juric aber aggressiv",
+    "motivations_asymmetrie": "COINFLIP mit leichter Monza-Historie-Edge: Juric kennt Torino perfekt (von 2021-2024 dort Trainer) und hat Torino schon in der Coppa Italia am 01.09.2026 in Turin 0:1 geschlagen (als Monza-Debuet). Abate dagegen Neu-Coach Torino (Ex-Milan-Primavera), noch im Aufbau 3-4-1-2. Beide Teams mit 7 Pkt gleichauf - kein klarer Favorit, bet365-Quote 2.10/3.30/3.50 bestaetigt das.",
+    "recovery_heim": "ca. 7 Tage seit letztem Serie-A-Spiel (voraussichtlich Giornata 7, 18./19.10.) - Standard-Rhythmus",
+    "recovery_gast": "ca. 7 Tage seit letztem Serie-A-Spiel - Standard-Rhythmus, keine Doppelbelastung",
+    "quellen": [
+      "https://www.livetipsportal.com/it/pronostici-scommesse-sportive/torino-vs-monza-serie-a-12131029/",
+      "https://www.legaseriea.it/serie-a/news/ignazio-abate-nuovo-allenatore-del-torino",
+      "https://www.legaseriea.it/serie-a/news/ivan-juric-nuovo-allenatore-del-monza",
+      "https://gainblers.com/it/scommesse/calcio/italia/serie-a/torino-monza/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "tor-mon-1",
+      "kategorie": "wackel",
+      "markt": "Doppelte Chance X2 Monza oder Remis",
+      "quote": 1.7,
+      "edge_prozent": 6.0,
+      "begruendung": "Markt-Goldgrube Doppelte Chance X2 (66.7% HR / +54.8% ROI, n=18). Juric-Trainer-Edge: kennt Torino aus 3 Jahren als Chef, hat Torino bereits am 01.09.2026 in Turin 0:1 geschlagen. Abate noch im Umbau. Monza mit 7 Pkt gleichauf, keine Klassen-Luecke erkennbar. Einsatz Stufe 1: 1.5% von 1000 EUR = 15 EUR. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
+      "faire_quote": 1.6,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "_saison_kontext_sanity_downgrade": true
+    },
+    {
+      "id": "tor-mon-2",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen - Ja",
+      "quote": 1.9,
+      "edge_prozent": 3.0,
+      "begruendung": "Beide Teams noch nicht defensiv gefestigt (Torino 2 Niederlagen zum Start, Monza als Aufsteiger normal durchlaessig). Juric-Pressing produziert zudem gute Chancen gegen hohe Abwehr. WACKEL weil Serie A grundsaetzlich defensiver ist als BL. Einsatz Stufe 1: 0.5% = 5 EUR.",
+      "faire_quote": 1.83,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0
+    },
+    {
+      "id": "tor-mon-3",
+      "kategorie": "risk",
+      "markt": "Sieg AC Monza (90 Min)",
+      "quote": 3.5,
+      "edge_prozent": 5.0,
+      "begruendung": "Spekulativer Ex-Coach-Trade: Juric hat Torino bereits dieses Jahr geschlagen, Abate noch nicht gefestigt. 2:0-Insurance gilt NICHT (nur BL/CL). Nur als Risiko-Kombi-Bein / kleiner Einzelspass. Einsatz Stufe 1: 0.25% = 2.50 EUR.",
+      "faire_quote": 3.33,
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 2.5
+    }
+  ]
+}
