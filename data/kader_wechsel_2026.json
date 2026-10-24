@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-22",
+  "stand": "2026-10-24",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -482,6 +482,24 @@
     }
   ],
   "zugaenge_neue_optionen": [
+    {
+      "spieler": "Kyan Fitz-Jim",
+      "nach": "Torino FC",
+      "von": "Ajax Amsterdam",
+      "datum": "2026-07-29",
+      "ablöse_mio": 3,
+      "hinweis": "Aufgefallen bei Auswertung 23.10.2026: Fitz-Jim traf zum 1:0 (39.) beim 3:2 gegen Monza. Mediano/Mittelfeld-Spieler, Abates 3-4-2-1 - Torschuetzen-Option (Volumen, kein Volume-9er).",
+      "quelle": "https://www.fantacalcio.it/calciomercato/29_07_2026/torino-colpo-dall-ajax-fatta-per-fitz-jim-oggi-l-arrivo-in-italia-495847"
+    },
+    {
+      "spieler": "Rafik Belghali",
+      "nach": "Torino FC",
+      "von": "Hellas Verona",
+      "datum": "2026-08-31",
+      "ablöse_mio": 7,
+      "hinweis": "Aufgefallen bei Auswertung 23.10.2026: Belghali traf zum 2:1 (61.) beim 3:2 gegen Monza. Rechter Aussenbahn-Spieler, Ersatz fuer Pedersen (nach Olympiakos). Nach 5 Serie-A-Spielen 1 Tor + 3 Assists - laut fantamaster Volumen-Flankenspieler.",
+      "quelle": "https://www.tuttomercatoweb.com/serie-a/belghali-sforna-assist-affare-torino-cifre-accordo-verona-2285605"
+    },
     {
       "spieler": "Mason Greenwood",
       "nach": "Fenerbahce",

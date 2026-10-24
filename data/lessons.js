@@ -3566,6 +3566,30 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "Kombi-Mix retteten den Tag: Safe +21.40, Rest -11.50 (Reality-Check 8a)",
       "lesson": "Einzeltipp-Bilanz 6/12 gewonnen, Netto -2.41 Einheiten (-20% ROI). Ohne Safe-Kombi (+21.40€) waere der Tag klar negativ: Balance -8€, Risiko -2.50€, Moonshot -1€ = -11.50€ aus den anderen drei Kombis. Pattern: Als Torschuetzen-Beine 2x in Risiko-Kombi stecken (Kolo Muani 2.05, Vlahovic 2.40) und beide platzen, zieht das die ganze 4-Bein-Kombi mit - Over 2.5 + DC-Beine konnten die Verluste nicht kompensieren. Lesson HR23 greift korrekt (Layer-3 je Markt entkoppelt), aber Torschuetzen-Beine sind so Hitrate-schwach (unter 50%) dass sie in Kombis uebergewichtet nicht hingehoeren. Vorschlag: Risiko-Kombi max 1 Torschuetzen-Bein neben 3 Non-Torschuetzen-Beinen, nicht 2.",
       "bezug_spiel_id": "2026-10-22-bes-cpa"
+    },
+    {
+      "datum": "2026-10-23",
+      "kategorie": "Krisen-Favorit-Falle: Neuer Underdog-Trainer kippt die SAFE-These (8h Rotations-/Trainer-Pattern)",
+      "lesson": "Stuttgart (1.38 SAFE, 20€) verliert 2:3 gegen Blessins Gladbacher Not-Elf. Gladbach war mit 0 Pkt / 6 Spielen und 0 Punkten unter Blessin \"sicherer Verlierer\" - genau das ist die Krisen-Favorit-Falle: ein Neu-Trainer-Underdog, der mit frischem Konzept (Blessin 3-4-2-1 pressing/umschalt-orientiert) im dritten Match untertitelt wird, aber \"noch nicht geliefert\" hat. Lesson HR-NEU: Bei Underdog mit Trainer-Wechsel in den letzten 4 Wochen und Quote-Favorit unter 1.50 KEIN SAFE-Status fuer den Gegner einstufen - max VALUE. Zusaetzlich Einsatz capen: nicht 2% Stufe 1, sondern 1%. Preview-Pattern verifiziert durch Mohya-Solo zum 1:3 (Machino-Vorlage) und Scally-Eigeninitiative - also keine Chaos-Tore, sondern spielerische Dominanz.",
+      "bezug_spiel_id": "2026-10-23-stu-glb"
+    },
+    {
+      "datum": "2026-10-23",
+      "kategorie": "Favoriten-Enttaeuschung Letzter-vs-oberes-Mittelfeld nach Laenderspielpause (8d Liga-Performance)",
+      "lesson": "Alaves (7./11 Pkt, 1.80 Favorit) nur 1:1 gegen Málaga (18./4 Pkt, -12 Tordiff) - Málaga fuehrte bis zur 90. durch Niño und Mañas rettete erst in der letzten regulaeren Minute. Lesson: Nach Laenderspielpause ist das Form-Argument \"Málaga desolat zuletzt\" nicht mehr belastbar - 13 Tage Pause reichen fuer taktischen Reset. Bei Letzter-vs-oberes-Mittelfeld-Konstellationen in LaLiga/Serie A/Premier League NACH einer Laenderspielpause: Favoriten-Quote 1.80 nicht als VALUE verkaufen, sondern als \"Marktpreis + Reality-Risiko\" wackeln. Alaves Sieg (1.80, 20€) + Ueber 2.5 (2.00, 10€) beide verloren = -30€ allein aus diesem Spiel; DC 1X (1.20, 15€) und BTTS Ja (1.75, 5€) haben die Haelfte gerettet.",
+      "bezug_spiel_id": "2026-10-23-ala-mla"
+    },
+    {
+      "datum": "2026-10-23",
+      "kategorie": "Markt-Goldgruben stabil: BTTS Ja + Ueber 2.5 Tore liefern bei Favoriten-Schocks (8c Markt-Cluster)",
+      "lesson": "An einem -89.75€-Tag haben die 4 Gewinner-Einzeltipps alle aus Markt-Goldgruben gestammt: Stuttgart Ueber 2.5 (1.80, 5 Tore), Alaves DC 1X (1.20, Remis), Alaves BTTS (1.75, 1:1), Torino BTTS (1.90, 3:2). Die 7 Verlierer waren allesamt Sieg-/DC-Favoriten-Tipps auf das falsche Team (3x Stuttgart/Alaves/Monza-Richtung) oder Spieler-Tipps (Undav). Reality-Check Markt-Clusters: BTTS Ja (61.1% HR / +22.9% ROI, n=36) und Ueber 2.5 (58.6% HR / +50.8% ROI, n=32) bleiben die stabilsten Edges - selbst wenn 1X2-Tipps kippen, retten diese Maerkte zumindest Teile des Tages. Lesson HR-NEU: In jeder Tages-Session mindestens 1 BTTS Ja + 1 Ueber 2.5 als Portfolio-Diversifikation gegen Sieg-Tipp-Kipp-Risiko planen.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-10-23",
+      "kategorie": "Kader-Pflege: Fitz-Jim (Ajax -> Torino 29.07.26) + Belghali (Verona -> Torino 31.08.26) sind Torino-Zugaenge (8b Selbstlernen)",
+      "lesson": "Beim Auswerten Torino 3:2 Monza aufgefallen: zwei Torschuetzen (39. Fitz-Jim, 61. Belghali) sind Sommer-2026-Zugaenge Torinos, die noch nicht in kader_wechsel_2026.json standen. Fitz-Jim ist 2003-geborener Mittelfeldspieler, Belghali ist 24-jaehriger algerischer Rechtsaussen (Nachfolger von Pedersen). Beide als zugaenge_neue_optionen erfasst mit Quelle und Hinweis zu Torschuetzen-Verwendbarkeit (Belghali 1 Tor + 3 Assists nach 5 Spielen = Volumen-Flankenspieler, Fitz-Jim im 3-4-2-1 als Mediano - eher kein Volume-9er). Lehre fuer Torschuetzen-Tipps auf Torino: nicht nur Simeone/Zapata/Adams als Volume-9er, sondern auch Belghali als Flanken-Volumen und Fitz-Jim als Standard-/Distanz-Variante im Blick haben.",
+      "bezug_spiel_id": "2026-10-23-tor-mon"
     }
   ]
 };

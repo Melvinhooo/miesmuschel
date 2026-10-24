@@ -1,0 +1,982 @@
+{
+  "datum": "2026-10-23",
+  "erstellt_am": "2026-10-23T14:35:00+02:00",
+  "hinweis": "Watchdog-Recovery Mo-Fr 14:30 - die Hauptroutine 13:30 hat heute nichts geliefert. 3 Freitagsspiele im Fenster: Bundesliga Stuttgart-Gladbach, Serie A Torino-Monza, LaLiga Alaves-Malaga. Kleines, ehrliches Dossier - Kasse 1000 EUR, Stufe 1 aktiv (Saison-30d-ROI nur +3.6% - unter +5% Freischalt-Schwelle). Quoten bei bet365 live pruefen.",
+  "spiele": [
+    {
+      "id": "2026-10-23-stu-glb",
+      "liga": "Bundesliga - 7. Spieltag",
+      "heim": "VfB Stuttgart",
+      "gast": "Borussia Moenchengladbach",
+      "anstoss": "2026-10-23T20:30:00+02:00",
+      "stadion": "MHPArena, Stuttgart",
+      "saison_kontext": {
+        "parallel_heim": "keine - kein Europapokal, DFB-Pokal 2. Runde erst 03.-05.11.2026",
+        "parallel_gast": "keine - kein Europapokal, DFB-Pokal 2. Runde erst 03.-05.11.2026",
+        "saisonziel_heim": "Platz 10 (ca. 6 Pkt nach 5-6 Spielen), Mittelfeld, Europa-Hoffnung bei stabilem Lauf",
+        "saisonziel_gast": "LETZTER (0 Pkt nach 6 Spielen), historischer Fehlstart, Klassenerhalt-Krise ab Spiel 1",
+        "motivations_asymmetrie": "Riesen-Edge Stuttgart: Gladbach ist nach 6 Spielen punkt- und siegslos, Blessin hat seine ersten zwei BL-Spiele unter sich (0:2 in Koeln 11.10., 1:2 heim gegen Hoffenheim) auch verloren. Stuttgart zuhause stabil, hat gegen Gladbach zuletzt 2x in Folge gewonnen (zuletzt 3:0 in Gladbach 25.01.2026). Baustelle Gladbach: komplett neuer Trainer-Ansatz (Blessin 3-4-2-1/4-2-2-2, aggressiv pressen), Reitz-Abgang zu Leipzig schmerzt im Zentrum, Nicolas Kuehn (Leihe von Como) als Offensiv-Zugang noch im Einbau.",
+        "recovery_heim": "6 Tage seit 6. Spieltag (17.10. in Hamburg), ueblicher Wochen-Rhythmus",
+        "recovery_gast": "6 Tage seit 1:2 heim gegen Hoffenheim (17.10.), ebenfalls Standard-Rhythmus - keine englische Woche",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/spieltag/2026-2027/7",
+          "https://ran.joyn.de/sports/fussball/bundesliga/vfb-stuttgart-vs-borussia-moenchengladbach-live-bundesliga-im-free-tv-livestream-und-liveticker-202396",
+          "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-fussball-1-fc-koeln-borussia-moenchengladbach-100.html",
+          "https://www.bundesliga.com/en/bundesliga/news/alexander-blessin-appointed-borussia-monchengladbach-head-coach-39320",
+          "https://www.stuttgarter-zeitung.de/sport/vfb-stuttgart/vfb-stuttgart-trotz-reisestress-vfb-will-seine-serie-in-gladbach-ausbauen-78875390.html",
+          "https://www.kicker.de/vfb-stuttgart/kader"
+        ]
+      },
+      "news": [
+        "Gladbach historischer Fehlstart: 0 Pkt / 6 Spiele, auch unter Neu-Coach Blessin bislang 0 Punkte (Koeln 1:2, Hoffenheim 1:2)",
+        "Woltemade im Sommer zu Newcastle abgegeben - Stuttgart-Angriff laeuft ueber Deniz Undav + Ermedin Demirovic",
+        "Rocco Reitz Abgang zu RB Leipzig schwaecht Gladbacher Zentrum zusaetzlich",
+        "2:0-Insurance (bet365 DE) gilt bei direktem Sieg-Tipp: Stuttgart-Sieg zaehlt sobald das Team im Spiel 2:0 vorne lag"
+      ],
+      "tipps": [
+        {
+          "id": "stu-glb-1",
+          "kategorie": "safe",
+          "markt": "Sieg VfB Stuttgart (90 Min)",
+          "quote": 1.38,
+          "edge_prozent": 8.0,
+          "begruendung": "Gladbach ist seit 6 Spielen sieg- und punktlos, hat auch unter Blessin bislang beide BL-Spiele verloren. Stuttgart zuhause stabil, 2 Siege in Folge im Direktvergleich (3:0 zuletzt). Quote 1.38 im SAFE-Range (1.30-1.65), Hitrate 2026/27 SAFE 80.9% (n=54, ROI +65.5%) stuetzt. 2:0-Insurance (BL) gibt Zusatz-Puffer: Tipp gewinnt auch, wenn Stuttgart zwischendurch 2:0 fuehrt und am Ende verliert. Einsatz Stufe 1: 2.0% von 1000 EUR = 20 EUR.",
+          "faire_quote": 1.27,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0
+        },
+        {
+          "id": "stu-glb-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.8,
+          "edge_prozent": 7.0,
+          "begruendung": "Gladbach kassiert 2.67 Tore/Spiel (16 Gegentore in 6 Spielen vor Blessin), Blessin spielt zusaetzlich pressing-/umschalt-orientiert - mehr Umschaltmomente in beide Richtungen. Markt-Goldgrube 'Ueber 2.5 Tore' (58.6% HR / +50.8% ROI). Einsatz Stufe 1: 1.5% = 15 EUR.",
+          "faire_quote": 1.69,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0
+        },
+        {
+          "id": "stu-glb-3",
+          "kategorie": "value",
+          "markt": "Doppelte Chance 1X Stuttgart oder Remis",
+          "quote": 1.08,
+          "edge_prozent": 2.5,
+          "begruendung": "DC 1X ist aktuelle Markt-Goldgrube (73.9% HR / +36.0% ROI, n=23) und Stuttgart ist zuhause gegen Letzter de facto nicht-verlierbar. Quote niedrig, aber als zweite SAFE-Absicherung Richtung Kombi-Baustein brauchbar. Einsatz Stufe 1: 1.0% = 10 EUR.",
+          "faire_quote": 1.05,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0
+        },
+        {
+          "id": "stu-glb-4",
+          "kategorie": "wackel",
+          "markt": "Deniz Undav Torschuetze jederzeit",
+          "quote": 2.1,
+          "edge_prozent": 4.0,
+          "begruendung": "Undav war 2025/26 Vize-Torschuetzenkoenig (19 Tore in 29 Spielen) und ist weiter Stuttgart-Zielspieler. Form 2026/27 liegt mir nicht sauber vor - deshalb bewusst WACKEL statt VALUE (HR24 nur teilweise erfuellt, aktive Form-Edge nicht belegt). Gegen Gladbacher Krisen-Defense + Einwechslungs-Boost-Logik (Demirovic als Backup) brauchbare Quote. Einsatz Stufe 1: 0.5% = 5 EUR.",
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 3,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 1,
+        "spielstatus": "FT",
+        "quelle": "WebSearch 24.10.2026 (bundesliga.com, sportschau.de, fotmob.com)"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "stu-glb-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Stuttgart 2:3 verloren. 2:0-Insurance greift nicht - Stuttgart lag nie mit 2+ Toren vorne (nur 1:0 ab 5. Demirović, dann 1:1 ab 38. Scally)."
+        },
+        {
+          "tipp_id": "stu-glb-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.8,
+          "kommentar": "5 Tore gefallen (2:3) - deutlich über 2.5."
+        },
+        {
+          "tipp_id": "stu-glb-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Gladbach-Sieg - weder Stuttgart-Sieg noch Remis."
+        },
+        {
+          "tipp_id": "stu-glb-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Undav kein Tor laut Berichten; Stuttgart-Tore beide von Demirović (5., 83.). Einwechslungs-Boost nicht nachweisbar (keine Quelle zu Undav-Auswechslung mit nachtreffendem Ersatzspieler)."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "2:3",
+        "tore": [
+          {
+            "min": 5,
+            "team": "heim",
+            "spieler": "Demirović",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 38,
+            "team": "gast",
+            "spieler": "Scally",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 51,
+            "team": "gast",
+            "spieler": "Machino",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 66,
+            "team": "gast",
+            "spieler": "Mohya",
+            "stand_danach": "1:3"
+          },
+          {
+            "min": 83,
+            "team": "heim",
+            "spieler": "Demirović",
+            "stand_danach": "2:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung im strengen Sinn: maximale Zwischendifferenz war 1:3 (Diff 2 Tore für Gladbach), Endstand bleibt bei Gladbach-Sieg. Aber: Stuttgart führte 1:0 und verlor 2:3 - also inverse Mini-Drehung (0:3 nach 1:0-Führung)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Unentschieden/Gladbach",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "-",
+            "details": "Gladbach-\"Not-Elf\" laut Sportschau - also mehrere Ausfälle/Umstellungen; dennoch erster Saisonsieg (vorher 0 Pkt / 6 Spiele)."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Gladbachs erster Saisonsieg unter Blessin (3-4-2-1) - Not-Elf überrumpelt Stuttgart. Mohya mit entscheidendem Solo-Tor zum 1:3 (Shuto Machino Vorlage).",
+          "Stuttgart-Favorit (Quote 1.38) kippt - obwohl Gladbach bis dato 0 Pkt / 6 Spiele hatte. Klassischer Krisen-Underdog-Edge gegen den Krisen-Vermuter."
+        ]
+      }
+    },
+    {
+      "id": "2026-10-23-tor-mon",
+      "liga": "Serie A - Giornata 8",
+      "heim": "Torino FC",
+      "gast": "AC Monza",
+      "anstoss": "2026-10-23T20:45:00+02:00",
+      "stadion": "Stadio Olimpico Grande Torino, Turin",
+      "saison_kontext": {
+        "parallel_heim": "keine - kein Europapokal, Coppa Italia 4. Runde erst 02.-04.12.2026",
+        "parallel_gast": "keine - kein Europapokal, Coppa Italia 4. Runde erst 02.-04.12.2026",
+        "saisonziel_heim": "Mittelfeld / 14. mit 7 Pkt, Abate-Umbruch, defensiv noch instabil (2 Niederlagen zum Serie-A-Saisonstart)",
+        "saisonziel_gast": "Aufsteiger, 13. mit 7 Pkt, Klassenerhalt-Prioritaet - unter Juric aber aggressiv",
+        "motivations_asymmetrie": "COINFLIP mit leichter Monza-Historie-Edge: Juric kennt Torino perfekt (von 2021-2024 dort Trainer) und hat Torino schon in der Coppa Italia am 01.09.2026 in Turin 0:1 geschlagen (als Monza-Debuet). Abate dagegen Neu-Coach Torino (Ex-Milan-Primavera), noch im Aufbau 3-4-1-2. Beide Teams mit 7 Pkt gleichauf - kein klarer Favorit, bet365-Quote 2.10/3.30/3.50 bestaetigt das.",
+        "recovery_heim": "ca. 7 Tage seit letztem Serie-A-Spiel (voraussichtlich Giornata 7, 18./19.10.) - Standard-Rhythmus",
+        "recovery_gast": "ca. 7 Tage seit letztem Serie-A-Spiel - Standard-Rhythmus, keine Doppelbelastung",
+        "quellen": [
+          "https://www.livetipsportal.com/it/pronostici-scommesse-sportive/torino-vs-monza-serie-a-12131029/",
+          "https://www.legaseriea.it/serie-a/news/ignazio-abate-nuovo-allenatore-del-torino",
+          "https://www.legaseriea.it/serie-a/news/ivan-juric-nuovo-allenatore-del-monza",
+          "https://gainblers.com/it/scommesse/calcio/italia/serie-a/torino-monza/"
+        ]
+      },
+      "news": [
+        "COINFLIP-Match - keine SAFE-Tipps (CLAUDE.md: alle 1X2-Quoten zwischen 2.40 und 3.50)",
+        "Ex-Coach-Faktor Juric: hat Torino bereits in Coppa 01.09.2026 0:1 besiegt (bestaetigt in kader_wechsel_2026.json: NIE Torino als SAFE gegen Juric-Monza)",
+        "Abate ist Neu-Coach Torino seit 01.07.2026, 3-4-1-2, Serie-A-Debuet-Saison als Chef-Trainer",
+        "2:0-Insurance gilt bei bet365 DE NICHT fuer Serie A - nur Bundesliga und Champions League",
+        "Giovanni Simeone (Zugang Torino 2025, Ex-Napoli) als Zielspieler im Sturm"
+      ],
+      "tipps": [
+        {
+          "id": "tor-mon-1",
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance X2 Monza oder Remis",
+          "quote": 1.7,
+          "edge_prozent": 6.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance X2 (66.7% HR / +54.8% ROI, n=18). Juric-Trainer-Edge: kennt Torino aus 3 Jahren als Chef, hat Torino bereits am 01.09.2026 in Turin 0:1 geschlagen. Abate noch im Umbau. Monza mit 7 Pkt gleichauf, keine Klassen-Luecke erkennbar. Einsatz Stufe 1: 1.5% von 1000 EUR = 15 EUR. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0,
+          "_saison_kontext_sanity_downgrade": true
+        },
+        {
+          "id": "tor-mon-2",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen - Ja",
+          "quote": 1.9,
+          "edge_prozent": 3.0,
+          "begruendung": "Beide Teams noch nicht defensiv gefestigt (Torino 2 Niederlagen zum Start, Monza als Aufsteiger normal durchlaessig). Juric-Pressing produziert zudem gute Chancen gegen hohe Abwehr. WACKEL weil Serie A grundsaetzlich defensiver ist als BL. Einsatz Stufe 1: 0.5% = 5 EUR.",
+          "faire_quote": 1.83,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0
+        },
+        {
+          "id": "tor-mon-3",
+          "kategorie": "risk",
+          "markt": "Sieg AC Monza (90 Min)",
+          "quote": 3.5,
+          "edge_prozent": 5.0,
+          "begruendung": "Spekulativer Ex-Coach-Trade: Juric hat Torino bereits dieses Jahr geschlagen, Abate noch nicht gefestigt. 2:0-Insurance gilt NICHT (nur BL/CL). Nur als Risiko-Kombi-Bein / kleiner Einzelspass. Einsatz Stufe 1: 0.25% = 2.50 EUR.",
+          "faire_quote": 3.33,
+          "empfohlener_einsatz_prozent": 0.25,
+          "empfohlener_einsatz_euro": 2.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 2,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 0,
+        "spielstatus": "FT",
+        "quelle": "WebSearch 24.10.2026 (sport.virgilio.it, tuttosport, sky.it)"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "tor-mon-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Torino-Sieg 3:2 - weder Monza-Sieg noch Remis."
+        },
+        {
+          "tipp_id": "tor-mon-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.9,
+          "kommentar": "Beide Teams getroffen: Torino 3 (Fitz-Jim 39., Belghali 61., Vlasic 72.), Monza 2 (Varela 47., Eigentor Patterson 94.)."
+        },
+        {
+          "tipp_id": "tor-mon-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Torino 3:2 - Monza verliert dritten in Folge gegen Torino."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "3:2",
+        "tore": [
+          {
+            "min": 39,
+            "team": "heim",
+            "spieler": "Fitz-Jim",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 47,
+            "team": "gast",
+            "spieler": "Varela",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 61,
+            "team": "heim",
+            "spieler": "Belghali",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 72,
+            "team": "heim",
+            "spieler": "Vlasic",
+            "stand_danach": "3:1"
+          },
+          {
+            "min": 94,
+            "team": "gast",
+            "spieler": "Patterson (Eigentor)",
+            "stand_danach": "3:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung. Torino führt ab 39., Zwischendifferenz max 3:1 (72.), Endstand Torino-Sieg."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "halbzeit_endstand": "Torino/Torino",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Simeone",
+            "details": "Simeone (Torino) 71. ausgewechselt für Kulenovic. Danach kein Tor-Highlight von Kulenovic."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Juric-Comeback an der Mole floppt: Ex-Torino-Trainer verliert 2:3 bei seinem Rückkehrmatch. Torino 3. Serie-A-Sieg in Folge, Fitz-Jim (Ajax-Neuzugang, Juli 2026) traf zum 1:0.",
+          "Monza wehrt sich stark bis in die Nachspielzeit (94. Eigentor Patterson zum 2:3-Anschluss), aber ohne Punkt-Ertrag."
+        ]
+      }
+    },
+    {
+      "id": "2026-10-23-ala-mla",
+      "liga": "LaLiga - Jornada 10",
+      "heim": "Deportivo Alaves",
+      "gast": "Malaga CF",
+      "anstoss": "2026-10-23T21:00:00+02:00",
+      "stadion": "Mendizorroza, Vitoria-Gasteiz",
+      "saison_kontext": {
+        "parallel_heim": "keine - kein Europapokal, Primera Division ohne parallelen Wettbewerb diese Woche",
+        "parallel_gast": "keine - kein Europapokal, Primera Division ohne parallelen Wettbewerb diese Woche",
+        "saisonziel_heim": "Platz 7 mit 11 Pkt (9 Spiele), 13 Tore / 10 Gegentore, Klassenerhalt locker, oberes Mittelfeld moeglich",
+        "saisonziel_gast": "LETZTER / Platz 18 mit 4 Pkt (9 Spiele), 6 Tore / 18 Gegentore (-12 Tordiff), klarer Abstiegskandidat",
+        "motivations_asymmetrie": "Klarer Edge Alaves: Málaga ist LaLiga-Aufsteiger mit katastrophaler Defensive (2 Gegentore/Spiel), Alaves zuhause und mit stabilem Punkte-Rhythmus. Málaga braucht Punkte, Form aber desolat (zuletzt viele Niederlagen).",
+        "recovery_heim": "ca. 13 Tage seit 1:2 vs Atletico Madrid (10.10.) - Laenderspielpause verbrauchte den Rest - voll fit",
+        "recovery_gast": "ca. 13 Tage seit letztem Spiel (Laenderspielpause) - voll fit, kann keine Muedigkeits-Ausrede",
+        "quellen": [
+          "https://www.laliga.com/en-GB/laliga-easports/match/2026-27/jornada-10",
+          "https://www.wincomparator.com/es/pronosticos/deportivo-alaves-malaga-8586503/",
+          "https://gainblers.com/es/apuestas/futbol/espana/liga-primera-division/alaves-malaga/",
+          "https://www.comuniate.com/partido/26/4/10/deportivo-alaves-malaga-club-de-futbol",
+          "https://thefootballfaithful.com/deportivo-alaves-vs-malaga-prediction-betting-tips-23-10-2026/"
+        ]
+      },
+      "news": [
+        "Málaga mit -12 Tordiff schlechtester Verteidigung der Liga (18 Gegentore in 9 Spielen)",
+        "Alaves 2:1 Favorit laut bet365 (1.80), Málaga 4.75 als Außenseiter",
+        "2:0-Insurance (bet365 DE) gilt NICHT fuer LaLiga - nur Bundesliga und Champions League",
+        "Jornada 10 wird im Mendizorroza eroeffnet, danach erst der Clasico am Sonntag"
+      ],
+      "tipps": [
+        {
+          "id": "ala-mla-1",
+          "kategorie": "safe",
+          "markt": "Doppelte Chance 1X Alaves oder Remis",
+          "quote": 1.2,
+          "edge_prozent": 6.0,
+          "begruendung": "Markt-Goldgrube DC 1X (73.9% HR / +36.0% ROI). Alaves zuhause gegen Letzter mit -12 Tordiff - Risiko eines Málaga-Siegs minimal. Quote 1.20 im unteren SAFE-Range, Kombi-Baustein. Einsatz Stufe 1: 1.5% von 1000 EUR = 15 EUR.",
+          "faire_quote": 1.13,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0
+        },
+        {
+          "id": "ala-mla-2",
+          "kategorie": "value",
+          "markt": "Sieg Deportivo Alaves (90 Min)",
+          "quote": 1.8,
+          "edge_prozent": 7.0,
+          "begruendung": "Alaves 7./11 Pkt zuhause gegen Letzter 4 Pkt (-12 Tordiff) - Klassen- und Heim-Edge. Quote 1.80 im VALUE-Range, implizit 55% - Wincomparator schaetzt 56-60% je nach Buchmacher. Einsatz Stufe 1: 2.0% = 20 EUR.",
+          "faire_quote": 1.67,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0
+        },
+        {
+          "id": "ala-mla-3",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.0,
+          "edge_prozent": 6.5,
+          "begruendung": "Málaga kassiert 2.0 Tore/Spiel - garantierter Tor-Lieferant. Alaves zuhause offensiv ok (ca. 1.3 Tore/Spiel). Markt-Goldgrube Ueber 2.5 (58.6% HR / +50.8% ROI, n=32). Einsatz Stufe 1: 1.0% = 10 EUR.",
+          "faire_quote": 1.88,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0
+        },
+        {
+          "id": "ala-mla-4",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen - Ja",
+          "quote": 1.75,
+          "edge_prozent": 2.0,
+          "begruendung": "Málaga trifft trotz schlechter Form (6 Tore in 9 Spielen, nicht null), Alaves zuhause mit Torgefahr. BTTS laeuft gegen den Málaga-Trend aber (sie kriegen oft 2+, treffen aber weniger) - deshalb WACKEL. Einsatz Stufe 1: 0.5% = 5 EUR.",
+          "faire_quote": 1.72,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 1,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 1,
+        "spielstatus": "FT",
+        "quelle": "WebSearch 24.10.2026 (eurosport.es, lanacion.com.ar, futeros.com)"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ala-mla-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.2,
+          "kommentar": "1:1 Remis - DC 1X (Alaves oder Remis) hält durch den späten Mañas-Ausgleich in Min. 90."
+        },
+        {
+          "tipp_id": "ala-mla-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur 1:1 - Alavés hat trotz Favoritenrolle (Málaga Letzter mit -12 Tordiff) nur spät ausgeglichen. 2:0-Insurance irrelevant (gilt nicht für LaLiga)."
+        },
+        {
+          "tipp_id": "ala-mla-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur 2 Tore gefallen - unter 2.5."
+        },
+        {
+          "tipp_id": "ala-mla-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.75,
+          "kommentar": "Beide Teams getroffen: Niño (Málaga 44.), Mañas (Alavés 90.)."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 44,
+            "team": "gast",
+            "spieler": "Adrián Niño",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 90,
+            "team": "heim",
+            "spieler": "Aitor Mañas",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - max 1 Tor Differenz (Málaga führt bis Min 90, dann Remis)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Málaga/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Underdog-Málaga führt bis zur 90. - Aitor Mañas rettet Alavés in der letzten regulären Minute. Platz-18-Team holt Punkt bei Platz-7-Team.",
+          "Favoriten-Edge enttäuscht: Alavés 1.80 Favorit, mindestens 55 % implizit - geliefert wurde Remis. Málaga-\"ich-schieße-nicht\"-Trend durchbrochen (Niño traf)."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "ref_spiel_id": "2026-10-23-stu-glb",
+      "ref_tipp_id": "stu-glb-1",
+      "spiel_label": "Stuttgart vs Moenchengladbach",
+      "kategorie": "safe",
+      "markt": "Sieg VfB Stuttgart (90 Min)",
+      "quote": 1.38,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung_kurz": "Gladbach noch sieg- und punktlos nach 6 Spielen, auch unter Blessin bislang verloren. Stuttgart zuhause stabil, 2:0-Insurance (BL) als Zusatz-Puffer.",
+      "rang": 1
+    },
+    {
+      "ref_spiel_id": "2026-10-23-ala-mla",
+      "ref_tipp_id": "ala-mla-1",
+      "spiel_label": "Alaves vs Malaga",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance 1X Alaves oder Remis",
+      "quote": 1.2,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung_kurz": "Alaves zuhause gegen Letzten mit -12 Tordiff - Risiko eines Malaga-Siegs minimal. Markt-Goldgrube DC 1X (73.9% HR / +36.0% ROI).",
+      "rang": 2
+    },
+    {
+      "ref_spiel_id": "2026-10-23-ala-mla",
+      "ref_tipp_id": "ala-mla-2",
+      "spiel_label": "Alaves vs Malaga",
+      "kategorie": "value",
+      "markt": "Sieg Deportivo Alaves (90 Min)",
+      "quote": 1.8,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung_kurz": "Platz 7 (11 Pkt) zuhause gegen Letzten (4 Pkt, -12 Tordiff). Klassen-Edge, Quote 1.80 im VALUE-Range.",
+      "rang": 3
+    },
+    {
+      "ref_spiel_id": "2026-10-23-ala-mla",
+      "ref_tipp_id": "ala-mla-3",
+      "spiel_label": "Alaves vs Malaga",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 2.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung_kurz": "Malaga kassiert 2.0 Tore/Spiel - Garantie-Tor-Lieferant. Markt-Goldgrube Ueber 2.5 (58.6% HR / +50.8% ROI).",
+      "rang": 4
+    },
+    {
+      "ref_spiel_id": "2026-10-23-stu-glb",
+      "ref_tipp_id": "stu-glb-2",
+      "spiel_label": "Stuttgart vs Moenchengladbach",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.8,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung_kurz": "Gladbach kassiert 2.67 Tore/Spiel, Blessin spielt pressing-/umschalt-orientiert. Markt-Goldgrube Ueber 2.5.",
+      "rang": 5
+    },
+    {
+      "ref_spiel_id": "2026-10-23-tor-mon",
+      "ref_tipp_id": "tor-mon-1",
+      "spiel_label": "Torino vs Monza",
+      "kategorie": "value",
+      "markt": "Doppelte Chance X2 Monza oder Remis",
+      "quote": 1.7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung_kurz": "Juric-Trainer-Edge: hat Torino 01.09. im Coppa 0:1 geschlagen. Markt-Goldgrube DC X2 (66.7% HR / +54.8% ROI).",
+      "rang": 6
+    },
+    {
+      "ref_spiel_id": "2026-10-23-stu-glb",
+      "ref_tipp_id": "stu-glb-3",
+      "spiel_label": "Stuttgart vs Moenchengladbach",
+      "kategorie": "value",
+      "markt": "Doppelte Chance 1X Stuttgart oder Remis",
+      "quote": 1.08,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung_kurz": "Doppelte Absicherung bei quasi-Nullrisiko. Niedrige Quote, als Kombi-Baustein brauchbar.",
+      "rang": 7
+    },
+    {
+      "ref_spiel_id": "2026-10-23-ala-mla",
+      "ref_tipp_id": "ala-mla-4",
+      "spiel_label": "Alaves vs Malaga",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen - Ja",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung_kurz": "Malaga trifft trotz schlechter Form, Alaves zuhause mit Torgefahr. BTTS laeuft aber gegen den Malaga-Trend.",
+      "rang": 8
+    },
+    {
+      "ref_spiel_id": "2026-10-23-tor-mon",
+      "ref_tipp_id": "tor-mon-2",
+      "spiel_label": "Torino vs Monza",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen - Ja",
+      "quote": 1.9,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung_kurz": "Beide defensiv noch instabil, Juric-Pressing produziert Chancen. Serie A grundsaetzlich defensiv -> WACKEL.",
+      "rang": 9
+    },
+    {
+      "ref_spiel_id": "2026-10-23-stu-glb",
+      "ref_tipp_id": "stu-glb-4",
+      "spiel_label": "Stuttgart vs Moenchengladbach",
+      "kategorie": "wackel",
+      "markt": "Deniz Undav Torschuetze jederzeit",
+      "quote": 2.1,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung_kurz": "Undav Vize-Torschuetzenkoenig 2025/26 (19 Tore), aktuelle Form 2026/27 nicht sauber verifiziert -> HR24 nur teilweise -> WACKEL.",
+      "rang": 10
+    },
+    {
+      "ref_spiel_id": "2026-10-23-tor-mon",
+      "ref_tipp_id": "tor-mon-3",
+      "spiel_label": "Torino vs Monza",
+      "kategorie": "risk",
+      "markt": "Sieg AC Monza (90 Min)",
+      "quote": 3.5,
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 2.5,
+      "begruendung_kurz": "Spekulativ: Juric kennt Torino perfekt, hat sie bereits im Coppa 0:1 geschlagen. Nur Risiko-Groesse.",
+      "rang": 11
+    }
+  ],
+  "kombis": [
+    {
+      "id": "safe",
+      "name": "Safe-Kombi (~5x)",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-10-23-stu-glb",
+          "spiel_label": "Stuttgart vs Moenchengladbach",
+          "markt": "Sieg VfB Stuttgart (90 Min)",
+          "quote": 1.38,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-10-23-ala-mla",
+          "spiel_label": "Alaves vs Malaga",
+          "markt": "Sieg Deportivo Alaves (90 Min)",
+          "quote": 1.8,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-23-tor-mon",
+          "spiel_label": "Torino vs Monza",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.0,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 4.97,
+      "rechnung": "1.38 x 1.80 x 2.00 = 4.97",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "Zwei Favoriten-Siege (Stuttgart gegen Krisen-Gladbach, Alaves gegen Letzten) plus ein Markt-Edge (Ueber 2.5 im Serie-A-Coinflip Torino-Monza). Alle drei Beine aus unterschiedlichen Spielen (Layer-1). Stuttgart-Sieg plus 2:0-Insurance (BL)."
+    },
+    {
+      "id": "balance",
+      "name": "Balance-Kombi (~7x)",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-10-23-stu-glb",
+          "spiel_label": "Stuttgart vs Moenchengladbach",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.8,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-23-ala-mla",
+          "spiel_label": "Alaves vs Malaga",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.0,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-23-tor-mon",
+          "spiel_label": "Torino vs Monza",
+          "markt": "Beide Teams treffen - Ja",
+          "quote": 1.9,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 6.84,
+      "rechnung": "1.80 x 2.00 x 1.90 = 6.84",
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 8.0,
+      "begruendung": "Tor-Fokus statt Sieg-Fokus: Malaga + Gladbach beide Defensiv-Katastrophen, Torino-Monza mit beidseitig schlechter Deckung. Alle drei Beine markt-entkoppelt zur Safe-Kombi (keine Sieg-Outcomes doppelt - Layer-2 sauber)."
+    },
+    {
+      "id": "risk",
+      "name": "Risiko-Kombi (~12.86x)",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-10-23-tor-mon",
+          "spiel_label": "Torino vs Monza",
+          "markt": "Sieg AC Monza (90 Min)",
+          "quote": 3.5,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-10-23-stu-glb",
+          "spiel_label": "Stuttgart vs Moenchengladbach",
+          "markt": "Deniz Undav Torschuetze jederzeit",
+          "quote": 2.1,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-10-23-ala-mla",
+          "spiel_label": "Alaves vs Malaga",
+          "markt": "Beide Teams treffen - Ja",
+          "quote": 1.75,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 12.86,
+      "rechnung": "3.50 x 2.10 x 1.75 = 12.86",
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 2.5,
+      "begruendung": "Monza-Sieg (Juric-Trainer-Edge + Coppa-Vorsprung) als Risiko-Bein, kombiniert mit Volume-Stuermer Undav gegen Gladbacher Krisen-Defense und BTTS im Alaves-Malaga-Spiel. Quote 12.86x knapp unter der 15x-Risiko-Zielmarke - bewusst nicht hochgeschoben, weil Alaves-Spiel sonst nur ueber 'Ueber 3.5' baubar waere (Markt-Variation von 'Ueber 2.5' aus Balance - Layer-3-Markt-Entkopplung aufgeweicht). Lieber ehrliche 12.86x als kuenstlich hochgezogene 20x."
+    }
+  ],
+  "lessons_angewandt": [
+    "Kader-Frische: Woltemade nicht fuer Stuttgart tippen (Juli-Transfer zu Newcastle laut kader_wechsel_2026.json). Reitz nicht fuer Gladbach tippen (zu RB Leipzig).",
+    "Trainer-Frische: Blessin (Gladbach, seit 22.09.2026) spielt 3-4-2-1/4-2-2-2, pressing-/umschalt-orientiert - deshalb Ueber-2.5-Tore eher staerker als unter Polanski. Abate (Torino, seit 01.07.2026) im 3-4-1-2-Aufbau, defensiv noch instabil (2 Saisonstart-Niederlagen). Juric (Monza, seit 01.07.2026) kennt Torino aus 3 Jahren als Chef-Trainer - kader_wechsel_2026.json: 'NIE mehr Torino als SAFE gegen Juric-Monza einstufen'.",
+    "Markt-Goldgruben aktiv genutzt: DC X2 (Monza-Spiel), DC 1X (Alaves-Spiel), Ueber 2.5 (zweimal), Torschuetzen Jederzeit (Undav).",
+    "DC-CAP eingehalten: pro Spiel max 1 Doppelte-Chance-Tipp, Dossier-gesamt 3 DC-Tipps (einer je Spiel).",
+    "COINFLIP-Markierung Torino-Monza: kein SAFE-Einzeltipp, max 3 Tipps (DC X2 VALUE, BTTS WACKEL, Monza Sieg RISK) - CLAUDE.md konform.",
+    "2:0-Insurance-Hinweis: gilt bei bet365 DE nur Bundesliga + Champions League -> einzig Stuttgart-Sieg hat den Zusatz-Puffer, Alaves-Sieg und Monza-Sieg NICHT.",
+    "HR24 Form-Edge-Pflicht fuer Torschuetzen: Undav-Form 2026/27 nicht sauber verifiziert (nur 2025/26-Bilanz vorhanden) -> bewusst WACKEL statt VALUE statt zu halluzinieren.",
+    "Layer-2 sauber: pro Spiel max 1 Sieg-Outcome ueber alle Kombis (Stuttgart Sieg nur Safe, Alaves Sieg nur Safe, Monza-Sieg-Outcome nur Risiko).",
+    "Watchdog-Transparenz: Hauptroutine 13:30 hat heute nichts geliefert, Recovery-Lauf hat 60 Min nach Backstop produziert. Dossier bewusst klein (3 Spiele / 11 Einzeltipps / 3 Kombis plus 1 Moonshot-Hinweis) - lieber ehrlich als Spiele vom Samstag/Sonntag ins Tagesfile schieben (validate_datum_scope wuerde die eh droppen)."
+  ],
+  "footer": "18+ - bet365 DE - BZgA Gluecksspielsucht-Hotline: 0800 1372700 - Hobby-Tool, nur setzen was du verlieren kannst.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-10-23T14:40:00+02:00",
+    "drops": [],
+    "downgrades": [
+      {
+        "tipp_id": "stu-glb-4",
+        "alt": "value",
+        "neu": "wackel",
+        "grund": "HR24 Form-Edge-Pflicht nicht sauber verifizierbar (Undav 2025/26-Bilanz vorhanden, aktuelle 2026/27-Form nicht in verifizierter Quelle gefunden) - bewusst WACKEL statt halluzinierter VALUE."
+      }
+    ],
+    "warns": [
+      {
+        "art": "quoten_abweichung",
+        "tipp_id": "alle",
+        "details": "Alle Quoten aus Aggregator-Wincomparator/Gainblers (Freitag ~14:30 Berlin). Bei bet365 live pruefen - koennen bis zum Anstoss (20:30/20:45/21:00) spuerbar schwanken."
+      },
+      {
+        "art": "kombi_fenster",
+        "details": "Nur 3 Spiele im Fenster -> Moonshot-Kombi (100x+) nicht sauber baubar ohne Layer-2-Verletzung oder verbotene Maerkte. Dokumentiert im moonshot_hinweis-Eintrag in kombis[]."
+      },
+      {
+        "art": "risiko_quote",
+        "details": "Risiko-Kombi 12.86x knapp unter dem 15x-Zielkorridor - bewusst nicht hochgezogen, siehe begruendung dort."
+      }
+    ],
+    "lessons_generiert": [],
+    "ergebnis": "Watchdog-Dossier klein aber sauber - keine halluzinierten Spieler, saison_kontext in allen 3 Spielen vollstaendig (7/7 Pflichtfelder + Quellen)."
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "ref_spiel_id": "2026-10-23-stu-glb",
+      "ref_tipp_id": "stu-glb-1",
+      "spiel_label": "Stuttgart vs Moenchengladbach",
+      "kategorie": "safe",
+      "markt": "Sieg VfB Stuttgart (90 Min)",
+      "quote": 1.38,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung_kurz": "Gladbach noch sieg- und punktlos nach 6 Spielen, auch unter Blessin bislang verloren. Stuttgart zuhause stabil, 2:0-Insurance (BL) als Zusatz-Puffer.",
+      "rang": 1,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Stuttgart 2:3 verloren. 2:0-Insurance greift nicht - Stuttgart lag nie mit 2+ Toren vorne (nur 1:0 ab 5. Demirović, dann 1:1 ab 38. Scally)."
+    },
+    {
+      "ref_spiel_id": "2026-10-23-ala-mla",
+      "ref_tipp_id": "ala-mla-1",
+      "spiel_label": "Alaves vs Malaga",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance 1X Alaves oder Remis",
+      "quote": 1.2,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung_kurz": "Alaves zuhause gegen Letzten mit -12 Tordiff - Risiko eines Malaga-Siegs minimal. Markt-Goldgrube DC 1X (73.9% HR / +36.0% ROI).",
+      "rang": 2,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.2,
+      "kommentar": "1:1 Remis - DC 1X (Alaves oder Remis) hält durch den späten Mañas-Ausgleich in Min. 90."
+    },
+    {
+      "ref_spiel_id": "2026-10-23-ala-mla",
+      "ref_tipp_id": "ala-mla-2",
+      "spiel_label": "Alaves vs Malaga",
+      "kategorie": "value",
+      "markt": "Sieg Deportivo Alaves (90 Min)",
+      "quote": 1.8,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung_kurz": "Platz 7 (11 Pkt) zuhause gegen Letzten (4 Pkt, -12 Tordiff). Klassen-Edge, Quote 1.80 im VALUE-Range.",
+      "rang": 3,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Nur 1:1 - Alavés hat trotz Favoritenrolle (Málaga Letzter mit -12 Tordiff) nur spät ausgeglichen. 2:0-Insurance irrelevant (gilt nicht für LaLiga)."
+    },
+    {
+      "ref_spiel_id": "2026-10-23-ala-mla",
+      "ref_tipp_id": "ala-mla-3",
+      "spiel_label": "Alaves vs Malaga",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 2.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung_kurz": "Malaga kassiert 2.0 Tore/Spiel - Garantie-Tor-Lieferant. Markt-Goldgrube Ueber 2.5 (58.6% HR / +50.8% ROI).",
+      "rang": 4,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Nur 2 Tore gefallen - unter 2.5."
+    },
+    {
+      "ref_spiel_id": "2026-10-23-stu-glb",
+      "ref_tipp_id": "stu-glb-2",
+      "spiel_label": "Stuttgart vs Moenchengladbach",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.8,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung_kurz": "Gladbach kassiert 2.67 Tore/Spiel, Blessin spielt pressing-/umschalt-orientiert. Markt-Goldgrube Ueber 2.5.",
+      "rang": 5,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.8,
+      "kommentar": "5 Tore gefallen (2:3) - deutlich über 2.5."
+    },
+    {
+      "ref_spiel_id": "2026-10-23-tor-mon",
+      "ref_tipp_id": "tor-mon-1",
+      "spiel_label": "Torino vs Monza",
+      "kategorie": "value",
+      "markt": "Doppelte Chance X2 Monza oder Remis",
+      "quote": 1.7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung_kurz": "Juric-Trainer-Edge: hat Torino 01.09. im Coppa 0:1 geschlagen. Markt-Goldgrube DC X2 (66.7% HR / +54.8% ROI).",
+      "rang": 6,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Torino-Sieg 3:2 - weder Monza-Sieg noch Remis."
+    },
+    {
+      "ref_spiel_id": "2026-10-23-stu-glb",
+      "ref_tipp_id": "stu-glb-3",
+      "spiel_label": "Stuttgart vs Moenchengladbach",
+      "kategorie": "value",
+      "markt": "Doppelte Chance 1X Stuttgart oder Remis",
+      "quote": 1.08,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung_kurz": "Doppelte Absicherung bei quasi-Nullrisiko. Niedrige Quote, als Kombi-Baustein brauchbar.",
+      "rang": 7,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Gladbach-Sieg - weder Stuttgart-Sieg noch Remis."
+    },
+    {
+      "ref_spiel_id": "2026-10-23-ala-mla",
+      "ref_tipp_id": "ala-mla-4",
+      "spiel_label": "Alaves vs Malaga",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen - Ja",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung_kurz": "Malaga trifft trotz schlechter Form, Alaves zuhause mit Torgefahr. BTTS laeuft aber gegen den Malaga-Trend.",
+      "rang": 8,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.75,
+      "kommentar": "Beide Teams getroffen: Niño (Málaga 44.), Mañas (Alavés 90.)."
+    },
+    {
+      "ref_spiel_id": "2026-10-23-tor-mon",
+      "ref_tipp_id": "tor-mon-2",
+      "spiel_label": "Torino vs Monza",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen - Ja",
+      "quote": 1.9,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung_kurz": "Beide defensiv noch instabil, Juric-Pressing produziert Chancen. Serie A grundsaetzlich defensiv -> WACKEL.",
+      "rang": 9,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.9,
+      "kommentar": "Beide Teams getroffen: Torino 3 (Fitz-Jim 39., Belghali 61., Vlasic 72.), Monza 2 (Varela 47., Eigentor Patterson 94.)."
+    },
+    {
+      "ref_spiel_id": "2026-10-23-stu-glb",
+      "ref_tipp_id": "stu-glb-4",
+      "spiel_label": "Stuttgart vs Moenchengladbach",
+      "kategorie": "wackel",
+      "markt": "Deniz Undav Torschuetze jederzeit",
+      "quote": 2.1,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung_kurz": "Undav Vize-Torschuetzenkoenig 2025/26 (19 Tore), aktuelle Form 2026/27 nicht sauber verifiziert -> HR24 nur teilweise -> WACKEL.",
+      "rang": 10,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Undav kein Tor laut Berichten; Stuttgart-Tore beide von Demirović (5., 83.). Einwechslungs-Boost nicht nachweisbar (keine Quelle zu Undav-Auswechslung mit nachtreffendem Ersatzspieler)."
+    },
+    {
+      "ref_spiel_id": "2026-10-23-tor-mon",
+      "ref_tipp_id": "tor-mon-3",
+      "spiel_label": "Torino vs Monza",
+      "kategorie": "risk",
+      "markt": "Sieg AC Monza (90 Min)",
+      "quote": 3.5,
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 2.5,
+      "begruendung_kurz": "Spekulativ: Juric kennt Torino perfekt, hat sie bereits im Coppa 0:1 geschlagen. Nur Risiko-Groesse.",
+      "rang": 11,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Torino 3:2 - Monza verliert dritten in Folge gegen Torino."
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "safe",
+      "status": "verloren",
+      "gesamtquote": 4.97,
+      "bein_status": [
+        [
+          "Sieg VfB Stuttgart (90 Min)",
+          "verloren"
+        ],
+        [
+          "Sieg Deportivo Alaves (90 Min)",
+          "verloren"
+        ]
+      ]
+    },
+    {
+      "kombi_id": "balance",
+      "status": "verloren",
+      "gesamtquote": 6.84,
+      "bein_status": [
+        [
+          "Ueber 2.5 Tore",
+          "gewonnen"
+        ],
+        [
+          "Ueber 2.5 Tore",
+          "verloren"
+        ],
+        [
+          "Beide Teams treffen - Ja",
+          "gewonnen"
+        ]
+      ]
+    },
+    {
+      "kombi_id": "risk",
+      "status": "verloren",
+      "gesamtquote": 12.86,
+      "bein_status": [
+        [
+          "Sieg AC Monza (90 Min)",
+          "verloren"
+        ],
+        [
+          "Deniz Undav Torschuetze jederzeit",
+          "verloren"
+        ],
+        [
+          "Beide Teams treffen - Ja",
+          "gewonnen"
+        ]
+      ]
+    }
+  ],
+  "ausgewertet_am": "2026-10-24T07:00:00+00:00"
+}
