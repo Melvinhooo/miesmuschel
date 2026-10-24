@@ -1,0 +1,54 @@
+{
+  "spiel_id": "2026-10-24-nap-rom",
+  "saison_kontext": {
+    "parallel_heim": "Champions League Ligaphase - Napoli MD3 Dienstag/Mittwoch 20./21.10., naechste MD am 04.11. - diese Woche nur Liga, aber CL-Rhythmus Mitte der Woche",
+    "parallel_gast": "Europa League Ligaphase - Roma MD3 Donnerstag 23.10. (gestern) - Reise-/Belastungs-Nachhall sehr frisch, 2 Tage Pause bis Napoli",
+    "saisonziel_heim": "Scudetto-Verteidigung unter Conte. Nach 7 Spielen Tabellenspitze/Top-3 (Kompaktheit statt Hochrisiko). KdB (von City) als neuer Mittelfeld-Dirigent, Lukaku weg (Fenerbahce), Simeone weg (Torino).",
+    "saisonziel_gast": "Top-6 / CL-Rueckkehr unter Gasperini. Nach 7 Spielen Top-4-Reichweite. Malen (fix von Villa, Doppelpack vs Real CL MD2), de Roon (ex-Atalanta) - Gasperini-Pressing-System etabliert sich sichtbar.",
+    "motivations_asymmetrie": "Beide hochmotiviert (Spitzenduell + Prestige). Napoli Heim-Vorteil + Scudetto-Druck, Roma 2 Tage nach EL-Spiel = Rotation plus mentale Last. Napoli leicht vorne (~1.80-1.95), aber kein Klassen-Edge - Pflicht-Profil Heim-Favorit knapp am Coinflip-Rand, DC + Tor-Markt bevorzugt gegen direkten Sieg.",
+    "recovery_heim": "4-5 Tage seit CL MD3 (21.10. Mittwoch) - fit, Rotation moeglich bei Flueglern",
+    "recovery_gast": "nur 2 Tage seit EL MD3 (23.10. Donnerstag) - Mueden-Risiko plus Reise Rom-Napoli, Gasperini wird rotieren muessen",
+    "quellen": [
+      "https://www.legaseriea.it/en/serie-a/calendar",
+      "https://www.uefa.com/uefachampionsleague/",
+      "https://www.uefa.com/uefaeuropaleague/",
+      "https://it.soccerway.com/news/calcio-serie-a-serie-a-giornata-da-sliding-doors-roma-e-napoli-puntano-in-alto-toro-e-fiorentina-rischiano-tutto/SGV7zyAD",
+      "https://www.kicker.de/napoli-ssc/startseite/klub/36195"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "nap-rom-1",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Napoli oder Remis",
+      "quote": 1.3,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.26,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Markt-Goldgrube DC 1X (ROI +36 %, Hitrate 73.9 %). Napoli Heim + Roma mit nur 2 Tagen Pause nach EL = Belastungs-Edge. Hitrate-Erwartung ~75 %. 2 % Kasse = 20 EUR bei Stufe 1. Quote bei bet365 live pruefen."
+    },
+    {
+      "id": "nap-rom-2",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.85,
+      "edge_prozent": 4.0,
+      "faire_quote": 1.78,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +50.8 %, Hit 58.6 %). Zwei offensive Teams, beide Top-5-Angriff Serie A, Roma unter Gasperini mit Pressing-Risiko (offene Raeume = beiderseitige Chancen). Als Wackel ehrlich eingeordnet - Topspiele koennen auch 1:0-Grind werden. 0.5 % Kasse = 5 EUR."
+    },
+    {
+      "id": "nap-rom-3",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.7,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.65,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Markt-Goldgrube BTTS JA (ROI +22.9 %, Hit 61.1 %). Beide treffen regelmaessig, Roma Chancen durch Napoli-Pressing-Luecken, Napoli durch Gasperini-Hochverteidigung. 0.5 % Kasse = 5 EUR."
+    }
+  ]
+}

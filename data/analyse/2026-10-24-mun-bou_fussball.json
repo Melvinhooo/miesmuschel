@@ -1,0 +1,52 @@
+{
+  "spiel_id": "2026-10-24-mun-bou",
+  "saison_kontext": {
+    "parallel_heim": "keine - Manchester United 2026/27 ohne Europapokal (2025/26 verfehlte Euro-Quali)",
+    "parallel_gast": "keine - Bournemouth 2026/27 ohne Europapokal",
+    "saisonziel_heim": "Top-5 / Europa-Rueckkehr. Manchester-Kader-Umbau unter neuem Trainer, Mount/Rashford/Hojlund (Rasmus)-Volumen weiter zentral.",
+    "saisonziel_gast": "Top-10 / Mittelfeld - Bournemouth seit zwei Jahren stabil im PL-Mittelfeld unter kooperativem Pressing.",
+    "motivations_asymmetrie": "Man U Heim-Favorit (~1.60-1.75), Bournemouth Auswaerts gegen Big-6-Equivalent historisch Underdog. Beide ohne Europa-Last - keine Belastungs-Asymmetrie. Form-Edge liegt beim Heim.",
+    "recovery_heim": "7+ Tage Pause - frisch",
+    "recovery_gast": "7+ Tage Pause - frisch",
+    "quellen": [
+      "https://www.premierleague.com/en/fixtures",
+      "https://www.manutd.com/",
+      "https://www.afcb.co.uk/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "mun-bou-1",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Manchester United oder Remis",
+      "quote": 1.25,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.21,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Markt-Goldgrube DC 1X. Man U Heim-Favorit, Bournemouth Auswaerts gegen Topteams schwach. Hitrate-Erwartung ~82 %. 2 % Kasse = 20 EUR."
+    },
+    {
+      "id": "mun-bou-2",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.8,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5. Beide offene Spielweisen - Old Trafford mit Hojlund/Mount offensiv, Bournemouth kooperativ offensiv. 0.5 % Kasse = 5 EUR."
+    },
+    {
+      "id": "mun-bou-3",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.75,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.7,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Markt-Goldgrube BTTS JA. Bournemouth-Angriff Semenyo + Volumen-9er trifft in PL regelmaessig. 0.5 % Kasse = 5 EUR."
+    }
+  ]
+}

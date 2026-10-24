@@ -1,0 +1,54 @@
+{
+  "spiel_id": "2026-10-24-avl-mci",
+  "saison_kontext": {
+    "parallel_heim": "Europa League Ligaphase - Villa MD3 Donnerstag 23.10. (gestern) - nur 1 Tag Pause, sehr muede ins Lunchtime-Spiel; Rotation Pflicht",
+    "parallel_gast": "Champions League Ligaphase - City MD3 Dienstag/Mittwoch 20./21.10. - 3-4 Tage Pause, deutlich frischer",
+    "saisonziel_heim": "Top-6 / Europa-Rueckkehr. Villa-Kader 2026/27 ohne Watkins (zu Al-Hilal) und Malen (zu Roma); neu Jackson (ex-Chelsea) als neuer Volumen-9er, Guessand weiter.",
+    "saisonziel_gast": "Titelrennen / Top-3. City-Kader 2026/27 ohne KdB (zu Napoli); neu Ndiaye (ex-Everton), Enzo Fernandez (ex-Chelsea), Guehi (ex-Palace), Elliot Anderson (ex-Forest), Bernardo Silva weg (Real Madrid).",
+    "motivations_asymmetrie": "City Auswaerts-Favorit (~1.80-2.00), aber Villa Heim + Lunchtime-Kickoff kann Favoriten irritieren. City deutlich frischer als Villa (CL-Mittwoch vs EL-Donnerstag). Villa-Jackson muss sich noch beweisen - DC X2 City (goldgrube) ist Hauptrichtung.",
+    "recovery_heim": "nur 1 Tag seit EL MD3 - extremer Mueden-Risiko, Rotation Pflicht",
+    "recovery_gast": "3-4 Tage seit CL MD3 - fit",
+    "quellen": [
+      "https://www.premierleague.com/en/fixtures",
+      "https://www.uefa.com/uefachampionsleague/",
+      "https://www.uefa.com/uefaeuropaleague/",
+      "https://www.avfc.co.uk/",
+      "https://www.mancity.com/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "avl-mci-1",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Manchester City oder Remis",
+      "quote": 1.3,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.26,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Markt-Goldgrube DC X2 (Hit 66.7 %, ROI +54.8 %). Villa mit nur 1 Tag Pause nach EL = klarer Belastungs-Edge. City deutlich frischer + Klassen-vorne. Hitrate-Erwartung ~80 %. 2 % Kasse = 20 EUR."
+    },
+    {
+      "id": "avl-mci-2",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.65,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.6,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Markt-Goldgrube BTTS JA. Villa Jackson/Guessand sollten gegen City offene Partien finden, Haaland + Ndiaye/Doku-Fluegel gegen muede Villa-Defense = beide Teams treffen wahrscheinlich. 0.5 % Kasse = 5 EUR."
+    },
+    {
+      "id": "avl-mci-3",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.7,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.65,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5. City offensiv + Villa muede = Chancen-Volumen hoch. 0.5 % Kasse = 5 EUR."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "spiel_id": "2026-10-24-len-pfc",
+  "saison_kontext": {
+    "parallel_heim": "keine - Lens 2026/27 ohne Europapokal (2025/26 nicht qualifiziert)",
+    "parallel_gast": "keine - Paris FC 2026/27 ohne Europapokal (Aufsteiger)",
+    "saisonziel_heim": "Top-6 / Europa-Rueckkehr. Lens-Heim historisch stark, Bollaert-Delelis-Atmosphaere ist Serie-A-Niveau-Faktor.",
+    "saisonziel_gast": "Klassenerhalt - Paris FC nach Aufstieg im Konsolidierungs-Modus.",
+    "motivations_asymmetrie": "Lens klarer Heim-Favorit (~1.60-1.75). Paris FC auswaerts gegen Lens-Heimkonstellation historisch Underdog. Pflicht-Profil Heim-Favorit erfuellt.",
+    "recovery_heim": "7+ Tage Pause - frisch",
+    "recovery_gast": "7+ Tage Pause - frisch",
+    "quellen": [
+      "https://www.ligue1.com/calendar",
+      "https://www.psg.fr/content/paris-lyon-le-2510-a-20h45-psg-ligue-1-programmation-calendrier-programme-8e-journee-2026-2027/",
+      "https://www.rclens.fr/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "len-pfc-1",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Lens oder Remis",
+      "quote": 1.3,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.26,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Markt-Goldgrube DC 1X. Lens-Heim + Paris FC Aufsteiger auswaerts = klarer Edge. Hitrate-Erwartung ~82 %. 2 % Kasse = 20 EUR."
+    },
+    {
+      "id": "len-pfc-2",
+      "kategorie": "wackel",
+      "markt": "Sieg RC Lens (90 Min)",
+      "quote": 1.75,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.7,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Direkter Sieg-Tipp - 2:0-Insurance greift NICHT (Ligue 1). Wackel wegen Aufsteiger-Zuckerle-Potenzial. 0.5 % Kasse = 5 EUR."
+    },
+    {
+      "id": "len-pfc-3",
+      "kategorie": "wackel",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.3,
+      "edge_prozent": 2.0,
+      "faire_quote": 1.27,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Lens-Heimspiele typisch 1-3 Tore, Paris FC auswaerts defensiv - erwartet eher 2:0 / 2:1 / 1:0 / 1:1. 0.5 % Kasse = 5 EUR."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "spiel_id": "2026-10-24-ars-eve",
+  "saison_kontext": {
+    "parallel_heim": "Champions League Ligaphase - Arsenal MD3 Dienstag/Mittwoch 20./21.10., naechste MD am 04./05.11. - CL-Last diese Woche vorbei",
+    "parallel_gast": "keine - Everton 2026/27 ohne Europapokal",
+    "saisonziel_heim": "Titelrennen / Top-2. Arsenal-Kader 2026/27 ohne Jesus (zu Barca); Hincapie (ex-Leverkusen) als neuer IV, Saka/Oedegaard/Rice weiter Kern. Odegaard/Saka letzte Saison Volumen-Produzenten.",
+    "saisonziel_gast": "Mittelfeld / Top-10. Everton-Kader 2026/27 ohne Ndiaye (zu City); Norgaard (ex-Arsenal) und Maitland-Niles neu - Umbau in Mitte.",
+    "motivations_asymmetrie": "Arsenal klarer Heim-Favorit (~1.35-1.50). Everton reist nach London ohne Europa-Last und mit mehr Pause - Underdog-Zuckerle moeglich, aber kein echter Edge-Punkt. Pflicht-Profil Heim-Favorit erfuellt.",
+    "recovery_heim": "3-4 Tage seit CL MD3 - knapp, Rotation moeglich",
+    "recovery_gast": "7+ Tage Pause - sehr frisch",
+    "quellen": [
+      "https://www.premierleague.com/en/fixtures",
+      "https://www.uefa.com/uefachampionsleague/",
+      "https://www.arsenal.com/",
+      "https://www.evertonfc.com/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "ars-eve-1",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Arsenal oder Remis",
+      "quote": 1.15,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.12,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Markt-Goldgrube DC 1X. Arsenal Heim-Favorit, Everton auswaerts gegen Top-Teams historisch schwach. Hitrate-Erwartung ~87 %. Niedrige Quote - fuer Kombi-Bein ideal. 2 % Kasse = 20 EUR."
+    },
+    {
+      "id": "ars-eve-2",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.65,
+      "edge_prozent": 4.0,
+      "faire_quote": 1.58,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +50.8 %). Arsenal zuhause offensiv (Oedegaard/Saka), Everton verwundbar auswaerts. 1.5 % Kasse = 15 EUR."
+    },
+    {
+      "id": "ars-eve-3",
+      "kategorie": "wackel",
+      "markt": "Sieg Arsenal (90 Min)",
+      "quote": 1.45,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.4,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Direkter Sieg-Tipp - 2:0-Insurance greift NICHT (nicht BL + nicht CL - PL ist nicht unter bet365-DE-Aktion). 0.5 % Kasse = 5 EUR."
+    }
+  ]
+}

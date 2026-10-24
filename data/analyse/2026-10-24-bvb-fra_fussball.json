@@ -1,0 +1,53 @@
+{
+  "spiel_id": "2026-10-24-bvb-fra",
+  "saison_kontext": {
+    "parallel_heim": "Champions League Ligaphase - BVB MD3 Dienstag/Mittwoch 20./21.10., naechste MD am 04./05.11. - Rotations-Risiko bei Spiel-dominanten Spielern",
+    "parallel_gast": "Champions League Ligaphase - Frankfurt MD3 Dienstag/Mittwoch 20./21.10. - gleiches Belastungs-Profil wie Dortmund",
+    "saisonziel_heim": "Vize/CL-Quali-Konsolidierung. BVB-Kader 2026/27 ohne Adeyemi (zu Barca), Guirassy weiter Volumen-9er, Konstantelias/Veerman/Karetsas als neue Kreativ-Spieler.",
+    "saisonziel_gast": "Top-6, Europapokal-Platz. Frankfurt-Kader 2026/27 ohne Brown (zu Bayern) - Linksverteidiger-Loch; neu: Noah Atubolu (ex-Freiburg, Leihe) als Torwart-Alternative, Aseko (ex-Bayern), Onyedika (ex-Brugge).",
+    "motivations_asymmetrie": "BVB Heim-Favorit (Topspiel), Frankfurt kommt mit CL-Last ebenfalls - aber beide gleich belastet. Dortmund hat Guirassy-Kern + Heim-Atmosphaere = klar vorne (~1.70-1.90). Pflicht-Profil Heim-Favorit erfuellt. 2:0-Insurance gilt (Bundesliga).",
+    "recovery_heim": "3-4 Tage seit CL MD3 - knapp, Rotation moeglich",
+    "recovery_gast": "3-4 Tage seit CL MD3 plus Reise Frankfurt-Dortmund - gleich knapp",
+    "quellen": [
+      "https://www.bundesliga.com/de/bundesliga/spieltag",
+      "https://www.uefa.com/uefachampionsleague/",
+      "https://www.kicker.de/borussia-dortmund-vereinsinfo-9/startseite",
+      "https://www.kicker.de/eintracht-frankfurt-vereinsinfo-37/startseite"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "bvb-fra-1",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Dortmund oder Remis",
+      "quote": 1.25,
+      "edge_prozent": 4.0,
+      "faire_quote": 1.2,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Markt-Goldgrube DC 1X (ROI +36 %, Hit 73.9 %). BVB Heim-Favorit, Frankfurt-Sieg in Dortmund historisch selten. Hitrate-Erwartung ~85 %. Niedrige Quote - aber Reality-Check: in letzter 30d-Bilanz haben DC-Tipps auf Heim-Favoriten konsistent getragen. 2 % Kasse = 20 EUR."
+    },
+    {
+      "id": "bvb-fra-2",
+      "kategorie": "wackel",
+      "markt": "Sieg Borussia Dortmund (90 Min)",
+      "quote": 1.9,
+      "edge_prozent": 4.0,
+      "faire_quote": 1.82,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Direkter Sieg-Tipp - **2:0-Insurance greift** (BL + bet365 DE): sobald BVB mind. 2:0 fuehrt, ist der Tipp durch, selbst bei spaeter 2:3-Niederlage. Das drueckt effektiv die faire Quote. Wackel wegen CL-Last beider Teams. 0.5 % Kasse = 5 EUR."
+    },
+    {
+      "id": "bvb-fra-3",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.75,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.7,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Markt-Goldgrube BTTS JA. Frankfurt-Angriff mit Burkardt kommt in BL im Schnitt zum Zug, BVB offensiv Pflicht als Heim-Favorit. 0.5 % Kasse = 5 EUR."
+    }
+  ]
+}

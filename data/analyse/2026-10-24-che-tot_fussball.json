@@ -1,0 +1,54 @@
+{
+  "spiel_id": "2026-10-24-che-tot",
+  "saison_kontext": {
+    "parallel_heim": "Champions League Ligaphase - Chelsea MD3 Dienstag/Mittwoch 20./21.10. - diese Woche nur Liga, aber Reiserhythmus Mitte der Woche",
+    "parallel_gast": "Europa League Ligaphase - Tottenham MD3 Donnerstag 23.10. (gestern) - nur 2 Tage Pause, deutlich muedere Mannschaft als Chelsea",
+    "saisonziel_heim": "Top-4 / CL-Quali. Chelsea-Kader 2026/27 ohne Jackson (zu Villa) und Enzo Fernandez (zu City) - neu Rogers (ex-Villa) und Lacroix (ex-Palace) als Umbau; Pedro + Palmer weiter Volumen-Spielentscheider.",
+    "saisonziel_gast": "Top-6 / Europa-Rueckkehr. Tottenham-Kader 2026/27 mit Tonali (ex-Newcastle) als neuer Mittelfeld-Chef, Marmoush weg (geruchtweise unklar), Volumen-9er in Son/Richarlison-Rotation.",
+    "motivations_asymmetrie": "London-Derby - immer motivational hoch. Chelsea Heim-Vorteil + weniger belastet als Tottenham (2 Tage mehr Pause); Spurs mit EL-Donnerstag plus Reise = klarer Belastungs-Nachteil. Chelsea Favorit (~1.75-1.95), aber Derby bleibt gefaehrlich - kein SAFE, max VALUE.",
+    "recovery_heim": "4-5 Tage seit CL MD3 - fit",
+    "recovery_gast": "2 Tage seit EL MD3 - mued, Rotation Pflicht",
+    "quellen": [
+      "https://www.premierleague.com/en/fixtures",
+      "https://www.uefa.com/uefachampionsleague/",
+      "https://www.uefa.com/uefaeuropaleague/",
+      "https://www.chelseafc.com/en/",
+      "https://www.tottenhamhotspur.com/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "che-tot-1",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Chelsea oder Remis",
+      "quote": 1.3,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.26,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Markt-Goldgrube DC 1X. Chelsea Heim + Tottenham mit EL-Last / 2 Tage Pause = Belastungs-Edge. Hitrate-Erwartung ~78 %. 2 % Kasse = 20 EUR."
+    },
+    {
+      "id": "che-tot-2",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.75,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.7,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Markt-Goldgrube BTTS JA (ROI +22.9 %). Derby mit beiderseits Chancen - Chelsea offensiv (Palmer/Pedro/Rogers), Spurs offensiv (Son/Richarlison/Tonali-Passspiel). 0.5 % Kasse = 5 EUR."
+    },
+    {
+      "id": "che-tot-3",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.7,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Derby-Spiel mit beiden offensiven Teams - Ueber 2.5 ist Markt-Goldgrube (ROI +50.8 %). 0.5 % Kasse = 5 EUR."
+    }
+  ]
+}
