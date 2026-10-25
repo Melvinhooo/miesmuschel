@@ -535,17 +535,6 @@
   ],
   "einzeltipps": [
     {
-      "spiel_id": "2026-10-24-ars-eve",
-      "spiel_label": "Arsenal vs Everton",
-      "markt": "Doppelte Chance Arsenal oder Remis",
-      "kategorie": "value",
-      "quote": 1.15,
-      "einsatz_euro": 20.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Hitrate ~87 %. Arsenal Heim gegen Everton klarer Favorit. Markt-Goldgrube DC 1X.",
-      "rang": 1
-    },
-    {
       "spiel_id": "2026-10-24-bvb-fra",
       "spiel_label": "Dortmund vs Frankfurt",
       "markt": "Doppelte Chance Dortmund oder Remis",
@@ -554,18 +543,7 @@
       "einsatz_euro": 20.0,
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "Hitrate ~85 %. BL-Topspiel BVB Heim, 2:0-Insurance greift bei direktem Sieg (hier eh DC). Goldgrube DC 1X.",
-      "rang": 2
-    },
-    {
-      "spiel_id": "2026-10-24-mun-bou",
-      "spiel_label": "Manchester United vs Bournemouth",
-      "markt": "Doppelte Chance Manchester United oder Remis",
-      "kategorie": "value",
-      "quote": 1.25,
-      "einsatz_euro": 20.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Hitrate ~82 %. Man U Heim, Bournemouth auswaerts gegen Big-6-Niveau. Goldgrube DC 1X.",
-      "rang": 3
+      "rang": 1
     },
     {
       "spiel_id": "2026-10-24-nap-rom",
@@ -576,18 +554,7 @@
       "einsatz_euro": 20.0,
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "Hitrate ~75 %. Napoli Heim + Roma mit nur 2 Tagen Pause nach EL. Topspiel-Edge via Belastung.",
-      "rang": 4
-    },
-    {
-      "spiel_id": "2026-10-24-che-tot",
-      "spiel_label": "Chelsea vs Tottenham",
-      "markt": "Doppelte Chance Chelsea oder Remis",
-      "kategorie": "value",
-      "quote": 1.3,
-      "einsatz_euro": 20.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Hitrate ~78 %. London-Derby, Chelsea Heim mit mehr Pause als Tottenham (EL Donnerstag). Goldgrube DC 1X.",
-      "rang": 5
+      "rang": 2
     },
     {
       "spiel_id": "2026-10-24-com-sas",
@@ -598,7 +565,7 @@
       "einsatz_euro": 20.0,
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "Hitrate ~78 %. Como Heim unter Fabregas, Sassuolo nach 4:2-Niederlage angeknackst.",
-      "rang": 6
+      "rang": 3
     },
     {
       "spiel_id": "2026-10-24-len-pfc",
@@ -609,40 +576,7 @@
       "einsatz_euro": 20.0,
       "empfohlener_einsatz_prozent": 2.0,
       "begruendung": "Hitrate ~82 %. Lens Heim bei Bollaert-Delelis, Paris FC Aufsteiger auswaerts.",
-      "rang": 7
-    },
-    {
-      "spiel_id": "2026-10-24-avl-mci",
-      "spiel_label": "Aston Villa vs Manchester City",
-      "markt": "Doppelte Chance Manchester City oder Remis",
-      "kategorie": "value",
-      "quote": 1.3,
-      "einsatz_euro": 20.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Hitrate ~80 %. Villa mit nur 1 Tag Pause nach EL, City deutlich frischer + Klassen-vorne. Goldgrube DC X2.",
-      "rang": 8
-    },
-    {
-      "spiel_id": "2026-10-24-ars-eve",
-      "spiel_label": "Arsenal vs Everton",
-      "markt": "Ueber 2.5 Tore",
-      "kategorie": "value",
-      "quote": 1.65,
-      "einsatz_euro": 15.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Markt-Goldgrube Ueber 2.5 (Hit 58.6 %, ROI +50.8 %). Arsenal Heim offensiv, Everton auswaerts anfaellig.",
-      "rang": 9
-    },
-    {
-      "spiel_id": "2026-10-24-che-tot",
-      "spiel_label": "Chelsea vs Tottenham",
-      "markt": "Beide Teams treffen JA",
-      "kategorie": "wackel",
-      "quote": 1.75,
-      "einsatz_euro": 5.0,
-      "empfohlener_einsatz_prozent": 0.5,
-      "begruendung": "London-Derby mit beiden offensiven Teams. Markt-Goldgrube BTTS JA.",
-      "rang": 10
+      "rang": 4
     },
     {
       "spiel_id": "2026-10-24-nap-rom",
@@ -653,7 +587,7 @@
       "einsatz_euro": 5.0,
       "empfohlener_einsatz_prozent": 0.5,
       "begruendung": "Topspiel kann 1:0-Grind werden, aber Gasperini-Pressing + Napoli-Offensive = Tor-Volumen wahrscheinlich.",
-      "rang": 11
+      "rang": 5
     },
     {
       "spiel_id": "2026-10-24-bvb-fra",
@@ -664,7 +598,7 @@
       "einsatz_euro": 5.0,
       "empfohlener_einsatz_prozent": 0.5,
       "begruendung": "Direkter Sieg-Tipp - 2:0-Insurance greift (BL + bet365 DE): wenn BVB 2:0 fuehrt, Tipp durch.",
-      "rang": 12
+      "rang": 6
     }
   ],
   "kombis": [
@@ -678,31 +612,10 @@
           "markt": "Doppelte Chance Dortmund oder Remis",
           "quote": 1.25,
           "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-10-24-ars-eve",
-          "spiel_label": "Arsenal vs Everton",
-          "markt": "Doppelte Chance Arsenal oder Remis",
-          "quote": 1.15,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-10-24-mun-bou",
-          "spiel_label": "Manchester United vs Bournemouth",
-          "markt": "Doppelte Chance Manchester United oder Remis",
-          "quote": 1.25,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-10-24-che-tot",
-          "spiel_label": "Chelsea vs Tottenham",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.75,
-          "kategorie": "wackel"
         }
       ],
-      "gesamtquote": 3.14,
-      "rechnung": "1.25 x 1.15 x 1.25 x 1.75 = 3.14",
+      "gesamtquote": 1.25,
+      "rechnung": "1.25 = 1.25",
       "empfohlener_einsatz_prozent": 2.0,
       "einsatz_euro": 20.0,
       "begruendung": "Drei Favoriten-DC-Beine (BVB, Arsenal, Man U) als stabiler Kern + ein Tor-Markt (BTTS Chelsea-Tottenham, Goldgrube ROI +22.9 %) als Diversifikator. Layer-1 OK (4 verschiedene Spiele). Reichweite 3.14x knapp an Safe-Range (3-5x) - ehrlich konservativ bei Stufe-1-Kasse. 2 % Kasse = 20 EUR."
@@ -719,20 +632,6 @@
           "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-10-24-avl-mci",
-          "spiel_label": "Aston Villa vs Manchester City",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.65,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-10-24-ars-eve",
-          "spiel_label": "Arsenal vs Everton",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.65,
-          "kategorie": "value"
-        },
-        {
           "spiel_id": "2026-10-24-bvb-fra",
           "spiel_label": "Dortmund vs Frankfurt",
           "markt": "Beide Teams treffen JA",
@@ -740,8 +639,8 @@
           "kategorie": "wackel"
         }
       ],
-      "gesamtquote": 8.58,
-      "rechnung": "1.80 x 1.65 x 1.65 x 1.75 = 8.58",
+      "gesamtquote": 3.15,
+      "rechnung": "1.80 x 1.75 = 3.15",
       "empfohlener_einsatz_prozent": 0.8,
       "einsatz_euro": 8.0,
       "begruendung": "Reine Tor-Marktmix (Ueber 2.5 + BTTS) ueber 4 verschiedene Spiele - keine Sieg-Outcomes, Layer-2 sauber getrennt von Safe-Kombi. Alle 4 Beine Markt-Goldgruben (Ueber 2.5 ROI +50.8 %, BTTS JA ROI +22.9 %). Reichweite 8.58x in Balance-Range (6-10x). 0.8 % Kasse = 8 EUR."
@@ -750,13 +649,6 @@
       "name": "Risiko-Kombi 4er",
       "kategorie": "risk",
       "beine": [
-        {
-          "spiel_id": "2026-10-24-che-tot",
-          "spiel_label": "Chelsea vs Tottenham",
-          "markt": "Sieg Tottenham (90 Min)",
-          "quote": 3.0,
-          "kategorie": "wackel"
-        },
         {
           "spiel_id": "2026-10-24-nap-rom",
           "spiel_label": "Napoli vs Roma",
@@ -779,8 +671,8 @@
           "kategorie": "wackel"
         }
       ],
-      "gesamtquote": 21.09,
-      "rechnung": "3.00 x 1.90 x 1.85 x 2.00 = 21.09",
+      "gesamtquote": 7.03,
+      "rechnung": "1.90 x 1.85 x 2.00 = 7.03",
       "empfohlener_einsatz_prozent": 0.25,
       "einsatz_euro": 2.5,
       "begruendung": "Mix Sieg-Outcomes (Spurs-Underdog Chelsea-Spiel, Napoli direkt) + Tor-Totals + Spielertor Guirassy (BVB-Spiel in Spielertor-Markt, Dortmund-Sieg-Outcome schon in Safe als DC - Markt entkoppelt). Guirassy ist Volumen-9er mit Backup-Stuermer-Qualitaet (Einwechslungs-Boost-Edge). Reichweite 21.09x in Risk-Range (15-30x). 0.25 % Kasse = 2.50 EUR."
@@ -789,20 +681,6 @@
       "name": "Moonshot-Kombi 4er",
       "kategorie": "moonshot",
       "beine": [
-        {
-          "spiel_id": "2026-10-24-avl-mci",
-          "spiel_label": "Aston Villa vs Manchester City",
-          "markt": "Haaland Doppelpack (2+ Tore)",
-          "quote": 4.0,
-          "kategorie": "moonshot"
-        },
-        {
-          "spiel_id": "2026-10-24-che-tot",
-          "spiel_label": "Chelsea vs Tottenham",
-          "markt": "Rogers Torschuetze jederzeit",
-          "quote": 3.0,
-          "kategorie": "moonshot"
-        },
         {
           "spiel_id": "2026-10-24-len-pfc",
           "spiel_label": "Lens vs Paris FC",
@@ -818,8 +696,8 @@
           "kategorie": "wackel"
         }
       ],
-      "gesamtquote": 36.75,
-      "rechnung": "4.00 x 3.00 x 1.75 x 1.75 = 36.75",
+      "gesamtquote": 3.06,
+      "rechnung": "1.75 x 1.75 = 3.06",
       "empfohlener_einsatz_prozent": 0.1,
       "einsatz_euro": 1.0,
       "begruendung": "Ehrlich: dies ist eher 'Risiko-Plus' als klassischer Moonshot (100x+). Fuer >100x waere nochmal ein echter Underdog-Sieg oder Hattrick noetig - gibt heute im Slate keinen klaren Kandidaten dafuer, der nicht nur Zufall waere. Stattdessen Haaland-Doppelpack (Form-Edge + muede Villa-Defense) + Rogers (neuer Chelsea-Spieler, Form-Beweis-Spiel) + Lens-Sieg + Como-BTTS. Spass-Einsatz. 0.1 % Kasse = 1 EUR."
