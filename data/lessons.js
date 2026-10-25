@@ -3590,6 +3590,34 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "Kader-Pflege: Fitz-Jim (Ajax -> Torino 29.07.26) + Belghali (Verona -> Torino 31.08.26) sind Torino-Zugaenge (8b Selbstlernen)",
       "lesson": "Beim Auswerten Torino 3:2 Monza aufgefallen: zwei Torschuetzen (39. Fitz-Jim, 61. Belghali) sind Sommer-2026-Zugaenge Torinos, die noch nicht in kader_wechsel_2026.json standen. Fitz-Jim ist 2003-geborener Mittelfeldspieler, Belghali ist 24-jaehriger algerischer Rechtsaussen (Nachfolger von Pedersen). Beide als zugaenge_neue_optionen erfasst mit Quelle und Hinweis zu Torschuetzen-Verwendbarkeit (Belghali 1 Tor + 3 Assists nach 5 Spielen = Volumen-Flankenspieler, Fitz-Jim im 3-4-2-1 als Mediano - eher kein Volume-9er). Lehre fuer Torschuetzen-Tipps auf Torino: nicht nur Simeone/Zapata/Adams als Volume-9er, sondern auch Belghali als Flanken-Volumen und Fitz-Jim als Standard-/Distanz-Variante im Blick haben.",
       "bezug_spiel_id": "2026-10-23-tor-mon"
+    },
+    {
+      "datum": "2026-10-24",
+      "kategorie": "Trainer-Pflege: Napoli unter Allegri (NICHT Conte) seit Juli 2026 - Routine-Prompt veraltet (8b Selbstlernen)",
+      "lesson": "Beim Auswerten von Napoli-Roma 3:3 aufgefallen, dass das Dossier Antonio Conte als Napoli-Trainer fuehrt - tatsaechlich ist Massimiliano Allegri seit Juli 2026 Chef am Maradona (Drei-Jahres-Vertrag, Conte-Abgang nach Scudetto-Verteidigung 2024/25 + 2.-Platz 2025/26). In kader_wechsel_2026.json ist der Wechsel seit 2026-08-31 dokumentiert - die Tipps-Routine hat die Datei beim Erstellen aber nicht gegengecheckt. Taktische Napoli-These im Dossier (\"Scudetto-Verteidigung unter Conte, Kompaktheit statt Hochrisiko\") passt NICHT zu Allegris reaktivem Verwalter-Stil - 3:3 nach 2:0-Fuehrung ist genau Allegri-Signatur. Fuer die Statistik unerheblich (DC/Ueber/BTTS trafen alle 3), aber als Prompt-Hygiene wichtig: Routinen MUESSEN kader_wechsel_2026.json JEDES Mal lesen, nicht nur bei Kader-Fragen.",
+      "bezug_spiel_id": "2026-10-24-nap-rom",
+      "trigger": "8b"
+    },
+    {
+      "datum": "2026-10-24",
+      "kategorie": "Zeitfenster-Hartregel verletzt: Man U vs Bournemouth landete im Sa-Dossier obwohl Anstoss Sonntag (8h Rotations-Pattern anders gelagert)",
+      "lesson": "Das Tages-Dossier 24.10.2026 enthielt Manchester United - Bournemouth als Sa-Spiel mit Anstoss \"24.10.2026 16:00\". Laut PL-Fixtures ist die Partie fuer Sonntag 25.10.2026 angesetzt. Konsequenz: Spiel noch nicht gespielt zum Watchdog-Zeitpunkt (So 09:00) - alle 3 Tipps bleiben \"offen\" und ziehen eine Safe-Kombi (BVB+Arsenal+ManU+ChelseaBTTS) ins unentscheidbare Terrain (verloren wegen BTTS-Chelsea, aber ManU-Bein ist noch offen). Lesson: fix_schema.py-validate_datum_scope greift nur, wenn Anstoss-Datum != Datei-Datum klar erkennbar ist - hier war das `anstoss`-Feld selbst falsch gesetzt (24.10.). Tipps-Routine muss das Anstoss-Datum per Liga-Spielplan live checken, nicht aus dem Prompt-Default \"heute\" ableiten.",
+      "bezug_spiel_id": "2026-10-24-mun-bou",
+      "trigger": "zeitfenster"
+    },
+    {
+      "datum": "2026-10-24",
+      "kategorie": "Belastungs-Edge nach EL-Donnerstag ist nicht automatisch Edge - Villa (1d Pause) besiegt City 2:1 (8h Rotations-Pattern)",
+      "lesson": "Beide EL-Donnerstag-Teams (Tottenham 2d Pause, Villa 1d Pause) GEWANNEN heute: Tottenham 2:0 bei Chelsea, Villa 2:1 vs City. Beide als Mueden-Underdog getippt (DC-Chelsea bzw. DC-X2-City), beide Tipps verloren. Pattern: ein EL-Donnerstag ist offenbar in 2026/27 im neuen Ligaphasen-Format nicht mehr der Edge-Faktor den die Routine ihm zuschreibt - der engere EL-Kader + 2-Spiele-Woche ist taktisch planbar, waehrend die 1-Spiel-pro-Woche-Teams eher ueberraschen koennen (siehe Chelsea-Palmer-Rot). Reality-Check: letzte 10 Tipps auf EL-Last-Edge aggregieren und auf Trefferquote pruefen - wenn < 50 %, Belastungs-These downgraden.",
+      "bezug_spiel_id": "2026-10-24-avl-mci",
+      "trigger": "8h"
+    },
+    {
+      "datum": "2026-10-24",
+      "kategorie": "Lens-Comeback-Pattern Halbzeit-ES Paris FC/Lens zeigt Markt-Edge auf 'Halbzeit-Fuehrung Underdog + ES-Sieg Favorit' (8g Markt-Pattern)",
+      "lesson": "Lens 2:1 vs Paris FC (0:1 HZ, Koleosho 45+2' - Thauvin 63' - Hazard 83') ist Comeback-Variante. In unseren letzten 7 ausgewerteten Dossiers haben Heim-Favoriten mit 0:1-HZ-Rueckstand bereits mehrfach gedreht (Lens Pattern + spezifisch Lens-Heim-Edge Bollaert-Delelis + weitere Franzoesische Ligaspiele). Die unter-3.5-Tore-Variante @1.3 ist trotz Drehungs-Pattern tragfaehig (3 Tore = unter 3.5). Lesson: bei Heim-Favoriten in Ligue 1 nach HZ-Rueckstand = DC-Heim weiter spielen (nicht switchen), und Unter 3.5 bleibt tragfaehig weil Comebacks selten > 3 Tore produzieren.",
+      "bezug_spiel_id": "2026-10-24-len-pfc",
+      "trigger": "8g"
     }
   ]
 };
