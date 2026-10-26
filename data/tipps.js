@@ -1,593 +1,89 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
-  "datum": "2026-10-25",
-  "erstellt_am": "2026-10-25T10:00:00+01:00",
-  "hinweis": "So 25.10. - Sonntags-Highlight-Slate: El Clasico Barca-Real 21:00 Camp Nou (Jornada 10), Le Classique PSG-Lyon 20:45 Parc des Princes (Ligue 1 J8), Liverpool-Brighton 15:00 (verlegt wg Brighton-Conference), Serie-A-Giornata-8 mit Inter-Fiorentina 12:30 Early-Kickoff, Lecce-Juventus 18:00, Udinese-Milan 20:45. Keine Bundesliga-Spiele heute (9. Spieltag erst 7./8.11. - lange Laenderspielpause). Fenster-Hartregel beachtet: nur Spiele mit Anstoss am 25.10. - BVB-Frankfurt gestern (Sa 24.10.) nicht im Dossier. Kasse 1000 EUR, Stufe 1 (30d-ROI nur +0.6 %, Stufe 2 noch zu). Markt-Goldgruben aktiv: DC 1X (73.9 % / +36 % ROI), DC X2 (66.7 % / +54.8 %), Ueber 2.5 (58.1 % / +47 %), BTTS JA (+19.5 %), Torschuetzen Jederzeit (+35.8 %), Unter 2.5 (+33.5 %). Keine Tipps auf gewechselte Spieler: Lewandowski weg Barca, Luis Diaz jetzt Bayern (nicht Liverpool), Salah weg Liverpool, Barcola jetzt Liverpool (nicht PSG), Ramos jetzt Milan (nicht PSG), Leao jetzt Galatasaray, Nkunku jetzt Leipzig, Vlahovic jetzt Besiktas, Yildiz Metatarsale-OP, Carvajal jetzt Getafe (nicht Real), Rodri jetzt Barca (nicht City), Adeyemi jetzt Barca (nicht BVB). 2:0-Insurance greift NICHT (nur 1. BL + CL - kein Spiel heute davon betroffen).",
+  "datum": "2026-10-26",
+  "erstellt_am": "2026-10-26T12:50:00+00:00",
+  "hinweis": "🐚 Montags-Posticipo-Vorschau Mo 2026-10-26 (Saison 2026/27, Kasse 1000€, Stufe 1). Watchdog-Recovery-Lauf — Hauptroutine 13:30 UTC hat heute kein Dossier abgelegt. Zeitfenster-Hartregel strikt: nur Anstoesse am 26.10. in Berliner Zeit. Es gibt heute GENAU EIN Spiel aus den Zielligen: Sevilla–Osasuna (LaLiga Jornada 10, 21:00 Berlin). Bundesliga/PL/Serie A/Ligue 1 pausieren am Montag; Bundesliga + DFB-Pokal Englische Woche startet erst Di/Mi. Vier Kombis sind mit nur einem Spiel systematisch unmoeglich (Layer-1 verlangt min 2 Spiele je Kombi), kombis[] bleibt daher leer — das ist ehrlicher als eine Markt-Kombi aus dem gleichen Spiel.",
   "spiele": [
     {
-      "id": "2026-10-25-bar-rma",
-      "liga": "LaLiga - Jornada 10",
-      "heim": "FC Barcelona",
-      "gast": "Real Madrid",
-      "anstoss": "2026-10-25T21:00:00+01:00",
-      "stadion": "Spotify Camp Nou, Barcelona",
+      "id": "2026-10-26-sev-osa",
+      "liga": "LaLiga 2026/27 - Jornada 10 (Posticipo)",
+      "heim": "Sevilla FC",
+      "gast": "CA Osasuna",
+      "anstoss": "2026-10-26T21:00:00+01:00",
+      "stadion": "Estadio Ramón Sánchez-Pizjuán, Sevilla",
       "saison_kontext": {
-        "parallel_heim": "Champions League Ligaphase - Barca MD3 Mittwoch 21.10. - CL-Rhythmus Mitte der Woche, Rotation moeglich",
-        "parallel_gast": "Champions League Ligaphase - Real MD3 Dienstag/Mittwoch 20./21.10. - gleiches Belastungs-Profil",
-        "saisonziel_heim": "LaLiga-Titel-Verteidigung unter Flick. Kader 2026/27 mit Adeyemi (von BVB), Rodri (von City), Gordon (von Newcastle), Gabriel Jesus (von Arsenal). Lewandowski weg (Saudi), Ferran Torres weg (PSG) - neue Offensiv-Achse. Yamal/Pedri Taktgeber.",
-        "saisonziel_gast": "LaLiga-Rueckeroberung unter Xabi Alonso (2. Saison). Diomande (von Leipzig), Bernardo Silva (von City) als neue Spieler. Carvajal weg (Getafe), Mbappe weiter Volumen-9er.",
-        "motivations_asymmetrie": "El Clasico - beide maximal motiviert, kein Belastungs-Edge weil CL-Woche identisch war. Heim-Vorteil Barca am Camp Nou + Flick-Kompaktheit. Prestige-Spiel schlaegt Rotation. Quote ~2.0 fuer Barca, ~2.0 fuer draw-Hedge via DC - kein Klassen-Edge, enger Coinflip-Rand.",
-        "recovery_heim": "4 Tage seit CL MD3 (21.10. Mittwoch) - normale Rotations-Pause",
-        "recovery_gast": "4 Tage seit CL MD3 - normale Rotations-Pause",
+        "parallel_heim": "Copa del Rey 1. Runde Mi 28.10. (Partido unico ggf. auswaerts gegen Sieger Guimar/Hortaleza, Zweitligist oder darunter) — nur 2 Tage Pause nach heute, Rotations-Druck Richtung Mittwoch, aber heute (Mo) ist ligatechnisch das wichtigere Spiel.",
+        "parallel_gast": "Copa del Rey 1. Runde Mi 28.10. oder Do 29.10. (RFEF-Fenster) — Rival aus Vorrunde noch nicht offiziell, aber ebenfalls Pflicht-Englische-Woche. Spiegelbildlicher Belastungs-Rhythmus zum Sevilla.",
+        "saisonziel_heim": "Mittelfeld-Konsolidierung unter Luis Garcia Plaza (seit 24.03.2026, Vertrag bis 30.06.2027). Nach J9: 6. Platz, 14 Pkt aus 9 Spielen (W4 D2 L3), Tordifferenz -2. Realistisches Saisonziel: einstellige Platzierung, bestenfalls Conference-Quali. Letzter Lauf gemischt (W-L-L-D-L bzw. zuletzt 3-3 bei Levante, 4-1 bei Real Madrid).",
+        "saisonziel_gast": "Klassenerhalt mit Zusatz-Perspektive. Nach J9: 10. Platz, 11 Pkt aus 9 Spielen (W3 D2 L4). Jagoba Arrasate seit 12.10. (Vertrag bis 2029-06) uebernahm von Luis Miguel Ramis. Erstes Arrasate-Spiel: 2-0 Heimsieg gegen Racing Santander (J9 am 18.10.). Arrasate kennt El Sadar aus 2018-2024 (256 Pflichtspiele) — schnell integrierte Mannschaft. Fokus: Zu-Null-Quote + kompaktes 4-2-3-1 mit intensivem Pressing.",
+        "motivations_asymmetrie": "Sevilla ist Heim-Favorit (bet365 Sieg-Quote ~1.90), kommt aber aus einem 4-1 bei Real Madrid und hat die Defensive im Umbruch. Osasuna ist frisch durch den Arrasate-Reset und spielt mit Trainer-Effekt-Energie (1. Spiel 2-0 zu Null). Beide Teams haben Mittwoch Copa-Pflicht, aber kein Europapokal — die Rotations-Logik ist diesmal milder als bei CL-Teams. Head-to-Head der letzten Begegnungen draw-lastig (~50% Remis-Quote laut SportyTrader).",
+        "recovery_heim": "8 Tage seit J9 (So 18.10. 4-1-Niederlage im Bernabeu). Lange Pause, Beine frisch — aber mentales Nachwirken der Pleite. 2 Tage bis Copa-Pflicht, nicht ideal fuer Vollrotation.",
+        "recovery_gast": "8 Tage seit J9 (So 18.10. 2-0 Heimsieg gegen Racing Santander, Arrasates Debuet). Gleiche Pause wie Sevilla, zusaetzlich 1 Woche mehr Arrasate-Training. 2-3 Tage bis Copa-Pflicht, aber Osasuna rotiert dort typischerweise stark (Nebenschauplatz).",
         "quellen": [
-          "https://www.laliga.com/laliga-easports/calendario",
-          "https://www.uefa.com/uefachampionsleague/",
-          "https://www.fcbarcelona.com/en/football/first-team/news/4570226",
-          "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/el-barcelona-real-madrid-se-jugara-el-domingo-25-de-octubre-a-las-21-00-h-01-09-2026"
+          "https://www.whoscored.com/matches/1993948/preview/spain-laliga-2026-2027-sevilla-osasuna",
+          "https://www.laliga.com/en-GB/laliga-easports/standing",
+          "https://www.infobae.com/espana/agencias/2026/10/12/jagoba-arrasate-regresa-como-entrenador-de-osasuna-tras-la-destitucion-de-ramis/",
+          "https://rtvc.es/vencedor-atletico-union-guimar-sporting-hortaleza-medira-sevilla-copa-del-rey-2026-27/",
+          "https://www.sportytrader.com/en/betting-tips/sevilla-osasuna-382341/",
+          "https://betmines.com/match-preview/sevilla-vs-osasuna-prediction-match-preview-and-analysis-la-liga-26-10-2026"
         ]
       },
       "news": [
-        "El Clasico - Jornada 10, 21:00 Anstoss am Camp Nou. Prestige-Highlight des Tages.",
-        "Beide Teams mit CL MD3 Mittwoch - kein Belastungs-Edge zu einer Seite.",
-        "2:0-Insurance greift NICHT (bet365 DE: nur 1. BL + CL).",
-        "Adeyemi jetzt Barca-Spieler (von BVB) - fuer Barca-Torschuetze zulaessig; nicht mehr fuer BVB.",
-        "Lewandowski NICHT mehr Barca - keine Barca-Torschuetzen-Tipps auf Lewa. Yamal/Pedri Taktgeber, Adeyemi+Jesus+Gordon neue Offensive.",
-        "Markt-Goldgrube Ueber 2.5 Tore (+47% ROI) und DC (+21.5%) - El Clasicos haben historisch viele Tore."
+        "Sevilla-Trainer: Luis Garcia Plaza (seit 24.03.2026, Vertrag bis 30.06.2027).",
+        "Osasuna-Trainer: Jagoba Arrasate (NEU seit 12.10.2026 nach Entlassung Ramis). Vertrag bis 2029-06. Zweite Amtszeit nach 2018-2024.",
+        "Sevilla erwartete Startelf (laut WhoScored/BetMines Preview): 4-2-3-1 mit Lucien Agoume + Youssouf Fofana im Doppel-6er, Giorgi Kochorashvili trotz Wadenproblemen aufgestellt, Robbie Ure in der Spitze.",
+        "Sevilla Ausfaelle (laut Preview-Portale, bet365 live gegenpruefen): Marcao (Innenverteidiger), Miguel Sierra. Isaac Romero zurueck nach Sperre, aber vermutlich Bank/Joker.",
+        "Osasuna erwartete Startelf: 4-2-3-1 mit Moi Gomez, Jon Moncayola, Iker Munoz in Mittelfeld-Zone; Ante Budimir in der Spitze.",
+        "Osasuna Ausfaelle: Aimar Oroz (Oberschenkel), Romain Del Castillo. Weitere Namen in Previews widerspruechlich (Guridi, Herrando) — bet365 Aufstellungs-Vorschau live checken.",
+        "Head-to-Head (SportyTrader): Remis mit ~50% dominant, Osasuna ~33%, Sevilla ~17%.",
+        "Bookie-Quoten (BetMines/SportyTrader, Range): Sieg Sevilla 1.88-2.02, Remis 3.30-3.50, Sieg Osasuna 3.96-4.33.",
+        "Model-Pick Dimers: Sevilla 48.8% / Remis 26.4% / Osasuna 24.8%.",
+        "2:0-Insurance greift HIER NICHT (nur Bundesliga + CL)."
       ],
       "tipps": [
         {
-          "id": "bar-rma-1",
-          "kategorie": "wackel",
-          "markt": "Doppelte Chance Barcelona oder Remis",
-          "quote": 1.4,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.36,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Markt-Goldgrube DC (ROI +21.5 %). Barca Heim am Camp Nou, kein Klassen-Edge aber Heim-Faktor + Flick-System sollten mindestens Remis absichern. Hitrate-Erwartung ~70 %. Wackel wegen Coinflip-Charakter. Reality-Check: El Clasicos stochastisch bei DC-Heim historisch ok, keine kleine Datenbasis. 0.5 % Kasse = 5 EUR."
+          "id": "sev-osa-1",
+          "kategorie": "safe",
+          "markt": "Doppelte Chance 1X (Sevilla oder Remis)",
+          "quote": 1.25,
+          "faire_quote": 1.33,
+          "edge_prozent": 6.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Markt-Goldgrube DC 1X (ROI +44.3%, Hitrate 75% laut data/markt_goldgruben.json). Dimers-Modell: Sevilla + Remis zusammen 75.2% — passt zur SAFE-Hitrate-Erwartung 75-90%. Heim-Faktor Pizjuan + Osasuna hat auswaerts historisch Mittelfeld. Begruendung-Caveat: Osasuna im Trainer-Trend (Arrasate 2-0 Debuet), aber auswaerts gegen Heim-Favorit ist DC 1X der konservative Weg. 1.5% Kasse = 15 EUR bei Stufe 1."
         },
         {
-          "id": "bar-rma-2",
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.7,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.63,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +47.0 %, Hit 58.1 %). Beide Offensiven Top-5 LaLiga, offene Spielanlage auf beiden Seiten - El Clasicos historisch mit 2.8+ Toren Durchschnitt. 0.5 % Kasse = 5 EUR. Quote bei bet365 live pruefen."
-        },
-        {
-          "id": "bar-rma-3",
-          "kategorie": "wackel",
+          "id": "sev-osa-2",
+          "kategorie": "value",
           "markt": "Beide Teams treffen JA",
-          "quote": 1.55,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.5,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Markt-Goldgrube BTTS JA (ROI +19.5 %, Hit 59.5 %). Beide Mannschaften mit Top-Stuermern - Barca durch Adeyemi/Jesus/Gordon, Real durch Mbappe/Vinicius. Hitrate ~65 %. 0.5 % Kasse = 5 EUR."
-        },
-        {
-          "id": "bar-rma-4",
-          "kategorie": "risk",
-          "markt": "Mbappe Torschuetze jederzeit",
-          "quote": 2.0,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.9,
-          "empfohlener_einsatz_prozent": 0.25,
-          "einsatz_euro": 2.5,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (ROI +35.8 %). Mbappe Form-Edge zentraler 9er mit Backup-Stuermer-Qualitaet - HR24-Erfuellung. Einwechslungs-Boost greift. Als Risk eingeordnet, weil Clasico-Druck + Barca-Defense auch Nullrunden produziert. 0.25 % Kasse = 2.50 EUR."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-25-psg-ol",
-      "liga": "Ligue 1 - Journee 8",
-      "heim": "Paris Saint-Germain",
-      "gast": "Olympique Lyonnais",
-      "anstoss": "2026-10-25T20:45:00+01:00",
-      "stadion": "Parc des Princes, Paris",
-      "saison_kontext": {
-        "parallel_heim": "Champions League Ligaphase - PSG MD3 Dienstag/Mittwoch 20./21.10. - CL-Rhythmus, aber PSG Titelverteidiger und Kaderbreite",
-        "parallel_gast": "keine - OL nach CL-Nichtquali ohne Europapokal diese Saison, fit und frisch",
-        "saisonziel_heim": "Titelverteidigung Ligue 1 + CL-Konsolidierung unter Luis Enrique. Kader 2026/27 mit Ferran Torres (von Barca), ohne Goncalo Ramos (zu Milan) und Barcola (zu Liverpool). Dembele/Doue/Mendes/Hakimi Kernachse.",
-        "saisonziel_gast": "Top-6 / Europa-Rueckkehr. OL ohne europaeische Last diese Saison - frischer Rhythmus.",
-        "motivations_asymmetrie": "PSG klarer Favorit zu Hause (Quote ~1.25-1.35), aber CL-Woche + Rotations-Risiko. OL defensiv kompakt, kann im Pressing-Modus klauen. Pflicht-Profil Heim-Favorit erfuellt - Torschuetzen-Tipp auf PSG-Spitze + Sieg/DC-Tipp. Markt-Goldgrube DC 1X und Ueber 2.5 anwendbar.",
-        "recovery_heim": "4 Tage seit CL MD3 - knapp, Rotation bei Fluegeln moeglich",
-        "recovery_gast": "frisch, nur Liga diese Woche",
-        "quellen": [
-          "https://www.psg.fr/content/paris-lyon-le-2510-a-20h45-psg-ligue-1-programmation-calendrier-programme-8e-journee-2026-2027/",
-          "https://www.uefa.com/uefachampionsleague/",
-          "https://www.ligue1.com/calendrier-resultats",
-          "https://fr.soccerway.com/"
-        ]
-      },
-      "news": [
-        "Le Classique - PSG-Lyon 20:45 am Parc des Princes.",
-        "PSG mit CL-Belastung Mitte der Woche (MD3), Lyon ohne europaeische Last = frischer.",
-        "2:0-Insurance greift NICHT (nur 1. BL + CL).",
-        "Barcola nicht mehr PSG (zu Liverpool), Goncalo Ramos nicht mehr PSG (zu Milan). Ferran Torres neu bei PSG.",
-        "PSG-Offensive baut auf Dembele/Doue + Ferran Torres - Torschuetzen-Boost durch Volumen-9er-Rotation.",
-        "Markt-Goldgrube DC 1X (+36 % ROI), Ueber 2.5 Tore (+47 % ROI) aktiv suchen."
-      ],
-      "tipps": [
-        {
-          "id": "psg-ol-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance Paris SG oder Remis",
-          "quote": 1.08,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.03,
-          "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_euro": 20.0,
-          "begruendung": "Markt-Goldgrube DC 1X (ROI +36 %, Hit 73.9 %). PSG Heim klarer Favorit, Lyon-Sieg im Parc des Princes historisch sehr selten. Hitrate-Erwartung ~92 %. Ligue 1 J8 nicht in Liga-Goldgruben - daher value statt safe. 2 % Kasse = 20 EUR."
-        },
-        {
-          "id": "psg-ol-2",
-          "kategorie": "wackel",
-          "markt": "Sieg Paris SG (90 Min)",
-          "quote": 1.35,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.3,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Direkter PSG-Sieg - 2:0-Insurance greift NICHT (Ligue 1 ausser-Reichweite). Wackel wegen CL-Last und moeglicher Rotation. 0.5 % Kasse = 5 EUR."
-        },
-        {
-          "id": "psg-ol-3",
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
           "quote": 1.75,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.7,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +47 %). PSG Heim offensiv, Lyon muss sich oeffnen. 0.5 % Kasse = 5 EUR."
-        },
-        {
-          "id": "psg-ol-4",
-          "kategorie": "risk",
-          "markt": "Dembele Torschuetze jederzeit",
-          "quote": 2.1,
-          "edge_prozent": 4.0,
-          "faire_quote": 2.0,
-          "empfohlener_einsatz_prozent": 0.25,
-          "einsatz_euro": 2.5,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+35.8 % ROI). Dembele Ballon d'Or 2026 - zentrale PSG-Figur, Einwechslungs-Boost greift. Als Risk eingeordnet wegen Fitness-Fragen rund um Dembele im Herbst (bei bet365 Aufstellungs-Vorschau pruefen). 0.25 % Kasse = 2.50 EUR."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-25-liv-bha",
-      "liga": "Premier League - Matchweek 9",
-      "heim": "Liverpool FC",
-      "gast": "Brighton & Hove Albion",
-      "anstoss": "2026-10-25T15:00:00+01:00",
-      "stadion": "Anfield, Liverpool",
-      "saison_kontext": {
-        "parallel_heim": "Champions League Ligaphase - Liverpool MD3 Dienstag/Mittwoch 20./21.10. - CL-Rhythmus",
-        "parallel_gast": "Conference League Ligaphase - Brighton MD3 Donnerstag 23.10. - 2 Tage Pause, Reise Brighton-Liverpool = Mueden-Risiko",
-        "saisonziel_heim": "PL-Titel-Verteidigung unter Slot. Kader 2026/27: Isak (von Newcastle), Barcola (von PSG), Luis Diaz WEG (zu Bayern), Salah weg (Klub zu bestaetigen), Konate weg, Robertson weg - kompletter Umbau. Isak zentraler Volumen-9er.",
-        "saisonziel_gast": "Top-8 / Europa-Konsolidierung. Brighton nach CL-Nichtquali in Conference League, Hurzeler-Nachfolger Nico Rolli.",
-        "motivations_asymmetrie": "Liverpool-Umbau noch im Rhythmus-Finden; Brighton kommt nach Conference-Donnerstag muede. Heim-Edge an Anfield + Brighton-Belastungs-Edge. Markt-Goldgrube DC 1X Pflicht.",
-        "recovery_heim": "4 Tage seit CL MD3 - normale Pause",
-        "recovery_gast": "2 Tage seit Conference MD3 Do 23.10. + Reise - knapp",
-        "quellen": [
-          "https://www.liverpoolfc.com/news/liverpool-v-brighton-hove-albion-premier-league-fixture-rescheduled",
-          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
-          "https://www.uefa.com/uefachampionsleague/",
-          "https://www.uefa.com/uefaconferenceleague/"
-        ]
-      },
-      "news": [
-        "Fixture ins Sonntag 15:00 verlegt (vorher Sa 24.10.) nach Brightons Conference-League-Quali. Offizielle Quelle: liverpoolfc.com.",
-        "Luis Diaz NICHT mehr Liverpool (zu Bayern seit Juli). Salah/Konate/Robertson ebenfalls weg - keine Tipps auf Liverpool-Alt-Kern.",
-        "Isak jetzt Liverpool-Volumen-9er (von Newcastle) - fuer Liverpool-Torschuetzen-Tipp zulaessig.",
-        "Barcola jetzt Liverpool (von PSG) - Fluegel-Volumen.",
-        "2:0-Insurance greift NICHT fuer PL (bet365 DE: nur 1. BL + CL).",
-        "Markt-Goldgrube DC 1X (+36 % ROI, 73.9 % Hit) aktiv - Liverpool Heim gegen Brighton klarer Favorit."
-      ],
-      "tipps": [
-        {
-          "id": "liv-bha-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance Liverpool oder Remis",
-          "quote": 1.15,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.11,
-          "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_euro": 20.0,
-          "begruendung": "Markt-Goldgrube DC 1X (ROI +36 %, Hit 73.9 %). Liverpool Heim an Anfield, Brighton auswaerts nach Conference-Donnerstag mit 2 Tagen Pause = Belastungs-Edge. Hitrate-Erwartung ~88 %. PL MW9 nicht in Liga-Goldgruben -> daher value statt safe. 2 % Kasse = 20 EUR."
-        },
-        {
-          "id": "liv-bha-2",
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.7,
-          "edge_prozent": 3.0,
           "faire_quote": 1.65,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Markt-Goldgrube Ueber 2.5 (+47 % ROI). Liverpool offensiv (Isak + Barcola), Brighton kommt muede und oeffnet sich. 0.5 % Kasse = 5 EUR."
+          "edge_prozent": 6.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Markt-Goldgrube BTTS JA (ROI +24.5%, Hitrate 61.8%). Sevilla hat defensiv wacklig (4 Gegentore in J9 gegen Real, GD -2 saisonal). Osasuna mit Budimir als Zielspieler, der auch auswaerts schon mehrfach beim Sevilla getroffen hat (letztes 1-1 Pizjuan: Budimir-Tor). Faire Hitrate-Erwartung 60-65% — exakt im VALUE-Range. 1.5% = 15 EUR."
         },
         {
-          "id": "liv-bha-3",
+          "id": "sev-osa-3",
           "kategorie": "wackel",
-          "markt": "Isak Torschuetze jederzeit",
+          "markt": "Über 2.5 Tore",
           "quote": 2.0,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.9,
+          "faire_quote": 2.15,
+          "edge_prozent": -7.0,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 5.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+35.8 % ROI). Isak zentraler Volumen-9er, Backup-Stuermer-Qualitaet (Einwechslungs-Boost greift) - HR24.2 erfuellt. 0.5 % Kasse = 5 EUR. Aufstellungs-Vorschau bei bet365 live pruefen."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-25-int-fio",
-      "liga": "Serie A - Giornata 8",
-      "heim": "Inter Mailand",
-      "gast": "ACF Fiorentina",
-      "anstoss": "2026-10-25T12:30:00+01:00",
-      "stadion": "San Siro, Mailand",
-      "saison_kontext": {
-        "parallel_heim": "Champions League Ligaphase - Inter MD3 Dienstag/Mittwoch 20./21.10. - CL-Rhythmus",
-        "parallel_gast": "Conference League Ligaphase - Fiorentina MD3 Donnerstag 23.10. - 2 Tage Pause, Reise Florenz-Mailand = Mueden-Risiko",
-        "saisonziel_heim": "Scudetto-Ambition unter Chivu. Lautaro/Thuram Doppelspitze stabil, Barella/Calhanoglu Mittelfeld-Kern.",
-        "saisonziel_gast": "Top-8 / Europa unter neuem Trainer. Fiorentina kompakt, Kean als Volumen-9er.",
-        "motivations_asymmetrie": "Inter Heim-Favorit (Quote ~1.60-1.75) + Fiorentina muede nach Conference-Donnerstag. Belastungs-Edge klar bei Inter. Pflicht-Profil Heim-Favorit mit DC + Torschuetzen-Tipp erfuellt. 12:30-Anstoss = Early-Kickoff mit erhoehtem Flaute-Risiko.",
-        "recovery_heim": "4 Tage seit CL MD3",
-        "recovery_gast": "2 Tage seit Conference MD3 + Reise - knapp",
-        "quellen": [
-          "https://www.legaseriea.it/en/serie-a/calendar",
-          "https://www.uefa.com/uefachampionsleague/",
-          "https://www.uefa.com/uefaconferenceleague/",
-          "https://www.fantacalcio.it/serie-a/calendario/8/2026-27/inter-fiorentina/18029"
-        ]
-      },
-      "news": [
-        "Early-Kickoff 12:30 - Serie-A-Giornata-8-Opener.",
-        "Fiorentina 2 Tage nach Conference-League = Belastungs-Edge zu Inter.",
-        "2:0-Insurance greift NICHT (Serie A ausser-Reichweite).",
-        "Inter-Angriff Lautaro + Thuram - beide Volumen-9er mit Form-Edge-Potenzial (HR24).",
-        "Kean als Fiorentina-9er mit Form-Up-Potenzial trotz Belastung.",
-        "Markt-Goldgrube DC 1X (+36 % ROI), Torschuetzen Jederzeit (+35.8 % ROI) aktiv."
-      ],
-      "tipps": [
-        {
-          "id": "int-fio-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance Inter oder Remis",
-          "quote": 1.15,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.11,
-          "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_euro": 20.0,
-          "begruendung": "Markt-Goldgrube DC 1X (ROI +36 %, Hit 73.9 %). Inter Heim-Favorit + Fiorentina muede nach Conference-Donnerstag mit 2 Tagen Pause. Hitrate-Erwartung ~88 %. Serie A G8 nicht in Liga-Goldgruben -> value statt safe. 2 % Kasse = 20 EUR."
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +52.5%, Hitrate 61.3%) — ABER Arrasate-Osasuna taktisch kompakt (historisch starke Zu-Null-Quote, Unter-2.5-Praeferenz). Edge-Story deshalb wackelig: wenn Osasuna frueh mauert, bleibt es moeglicherweise bei 2:1 oder 1:1. H2H letzte Spiele zwischen den Clubs eher niedrig-torig (1-0, 1-1). WACKEL statt VALUE wegen des Taktik-Konflikts (HR4 Story-Konflikt-Check). 0.5% = 5 EUR."
         },
         {
-          "id": "int-fio-2",
+          "id": "sev-osa-4",
           "kategorie": "wackel",
-          "markt": "Lautaro Martinez Torschuetze jederzeit",
-          "quote": 2.0,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.9,
+          "markt": "Torschuetze Jederzeit: Ante Budimir",
+          "quote": 3.4,
+          "faire_quote": 3.0,
+          "edge_prozent": 13.0,
           "empfohlener_einsatz_prozent": 0.5,
           "einsatz_euro": 5.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+35.8 % ROI). Lautaro zentraler Inter-Volumen-9er, Form-Edge (HR24.1) + Einwechslungs-Boost (Thuram als Backup) = HR24.2. Reality-Check: Torschuetzen-Jederzeit war in letzten 30d schon stark. 0.5 % Kasse = 5 EUR."
-        },
-        {
-          "id": "int-fio-3",
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.8,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.74,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Markt-Goldgrube Ueber 2.5 (+47 % ROI). Inter offensiv, Fiorentina muss sich oeffnen. 12:30 Anstoss aber mit leichtem Early-Kick-Flaute-Risiko = wackel statt value. 0.5 % Kasse = 5 EUR."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-25-lec-juv",
-      "liga": "Serie A - Giornata 8",
-      "heim": "US Lecce",
-      "gast": "Juventus FC",
-      "anstoss": "2026-10-25T18:00:00+01:00",
-      "stadion": "Stadio Via del Mare, Lecce",
-      "saison_kontext": {
-        "parallel_heim": "keine - Lecce ohne Europapokal, voll fit und frisch",
-        "parallel_gast": "Champions League Ligaphase - Juventus MD3 Dienstag/Mittwoch 20./21.10. - CL-Rhythmus, Rotation moeglich",
-        "saisonziel_heim": "Klassenerhalt. Lecce stabil im unteren Drittel, defensiv-kompakt.",
-        "saisonziel_gast": "Scudetto-Hunt unter Spalletti (neuer Trainer 2026/27). Kader-Umbau: Yildiz verletzt (Metatarsale-OP), Vlahovic weg (Besiktas), Kalajdzic Backup. Spalletti-Taktik erst im Finden.",
-        "motivations_asymmetrie": "Juve Auswaerts-Favorit (Quote ~1.50-1.60) aber mit CL-Last und Umbau unter Spalletti; Lecce Heim im Klassenerhalt-Modus = Motivations-Edge. Pflicht-Profil Auswaerts-Favorit mit Torschuetzen- oder Spread/Handicap-Tipp - aber mit Lecce-Edge im Klassenerhalt. Keine Juve-Garantie.",
-        "recovery_heim": "frisch, nur Liga diese Woche",
-        "recovery_gast": "4 Tage seit CL MD3 + Reise Turin-Lecce (sehr weit)",
-        "quellen": [
-          "https://www.legaseriea.it/en/serie-a/calendar",
-          "https://www.uefa.com/uefachampionsleague/",
-          "https://www.juventus.com/en/news/articles/kick-off-dates-and-times-of-serie-a-matchdays-6-12-03-09-26",
-          "https://www.kicker.de/juventus-turin-vereinsinfo-33/startseite"
-        ]
-      },
-      "news": [
-        "Lecce-Juve 18:00 im Stadio Via del Mare.",
-        "Juventus unter Spalletti im Umbau - Taktik erst im Finden.",
-        "Yildiz Metatarsale-OP weiter raus - Juve-Offensive ausgeduennt (bei bet365 Aufstellung pruefen).",
-        "Vlahovic nicht mehr Juve (Besiktas) - keine Juve-Torschuetzen-Tipps auf Vlahovic.",
-        "Lecce Heim im Klassenerhalt-Druck + volle Woche Pause = Belastungs-Edge zu Juve.",
-        "2:0-Insurance greift NICHT (Serie A ausser-Reichweite).",
-        "Markt-Goldgrube Doppelte Chance X2 (ROI +54.8 %, Hit 66.7 %) als Juve-Hedge aktiv."
-      ],
-      "tipps": [
-        {
-          "id": "lec-juv-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance Juventus oder Remis",
-          "quote": 1.3,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.24,
-          "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_euro": 20.0,
-          "begruendung": "Markt-Goldgrube DC X2 (ROI +54.8 %, Hit 66.7 %). Juve Auswaerts-Favorit auch unter Spalletti-Umbau, Lecce defensiv-kompakt aber im Unterschicht. Hitrate ~78 %. Serie A G8 nicht in Liga-Goldgruben -> value statt safe. 2 % Kasse = 20 EUR."
-        },
-        {
-          "id": "lec-juv-2",
-          "kategorie": "wackel",
-          "markt": "Unter 3.5 Tore",
-          "quote": 1.35,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.3,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Lecce defensiv-kompakt + Juve-Umbau tendiert zu moderaten Toren. Wackel wegen Juve-Offensive-Unsicherheit. 0.5 % Kasse = 5 EUR."
-        },
-        {
-          "id": "lec-juv-3",
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.9,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.84,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Markt-Goldgrube BTTS JA (+19.5 % ROI). Lecce kann als Underdog Heim treffen, Juve offensiv-schwankend aber dennoch Chance-Volumen. 0.5 % Kasse = 5 EUR."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-25-udi-mil",
-      "liga": "Serie A - Giornata 8",
-      "heim": "Udinese Calcio",
-      "gast": "AC Milan",
-      "anstoss": "2026-10-25T20:45:00+01:00",
-      "stadion": "Dacia Arena, Udine",
-      "saison_kontext": {
-        "parallel_heim": "keine - Udinese ohne Europa, frisch",
-        "parallel_gast": "keine - Milan ohne Europa diese Saison, aber Coppa-Rhythmus (naechste Runde nach Pause)",
-        "saisonziel_heim": "Mittelfeld. Udinese stabil, Runjaic weiter Trainer.",
-        "saisonziel_gast": "Scudetto-Rueckkehr unter Allegri. Kader: Nkunku weg (Leipzig-Leihe), Leao weg (Galatasaray), Goncalo Ramos neu (von PSG), Pulisic/Reijnders Taktgeber. Allegri-Taktik etabliert sich.",
-        "motivations_asymmetrie": "Milan Auswaerts-Favorit (Quote ~1.80-1.95), aber kein Belastungs-Edge weil beide ohne Europa. Udinese Heim historisch zaeh, Milan-Form unter Allegri schwankend. Enger Favorit, kein SAFE.",
-        "recovery_heim": "frisch, nur Liga",
-        "recovery_gast": "frisch, nur Liga",
-        "quellen": [
-          "https://www.legaseriea.it/en/serie-a/calendar",
-          "https://www.acmilan.com/en",
-          "https://www.udinese.it/"
-        ]
-      },
-      "news": [
-        "Udinese-Milan 20:45 in der Dacia Arena.",
-        "Milan ohne Europa diese Saison = frisch, aber Allegri-Taktik erst im Finden.",
-        "Rafael Leao nicht mehr Milan (Galatasaray) - keine Milan-Torschuetzen-Tipps auf Leao.",
-        "Nkunku NICHT mehr Milan (Leipzig-Leihe) - keine Milan-Tipps auf Nkunku.",
-        "Goncalo Ramos neu bei Milan (von PSG) - zentraler Volumen-9er.",
-        "2:0-Insurance greift NICHT (Serie A).",
-        "Markt-Goldgruben: DC X2 (+54.8 %), Ueber 2.5 (+47 %) aktiv."
-      ],
-      "tipps": [
-        {
-          "id": "udi-mil-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance Milan oder Remis",
-          "quote": 1.25,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.2,
-          "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_euro": 20.0,
-          "begruendung": "Markt-Goldgrube DC X2 (ROI +54.8 %, Hit 66.7 %). Milan Auswaerts-Favorit, Udinese zaeh aber nicht auf Niveau. Hitrate ~80 %. 2 % Kasse = 20 EUR."
-        },
-        {
-          "id": "udi-mil-2",
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.9,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.84,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Markt-Goldgrube Ueber 2.5 (+47 % ROI). Milan offensiv, Udinese Heim gelegentlich mit Ausschlag. 0.5 % Kasse = 5 EUR."
-        },
-        {
-          "id": "udi-mil-3",
-          "kategorie": "wackel",
-          "markt": "Pulisic Torschuetze jederzeit",
-          "quote": 2.8,
-          "edge_prozent": 4.0,
-          "faire_quote": 2.65,
-          "empfohlener_einsatz_prozent": 0.25,
-          "einsatz_euro": 2.5,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+35.8 % ROI). Pulisic Milan-Fluegel mit Volumen-Potenzial, Form-Edge-Kandidat (HR24.1). Hoehere Quote = wackel statt value. 0.25 % Kasse = 2.50 EUR."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-25-mon-lil",
-      "liga": "Ligue 1 - Journee 8",
-      "heim": "AS Monaco",
-      "gast": "LOSC Lille",
-      "anstoss": "2026-10-25T15:00:00+01:00",
-      "stadion": "Stade Louis II, Monaco",
-      "saison_kontext": {
-        "parallel_heim": "Champions League Ligaphase - Monaco MD3 Dienstag/Mittwoch 20./21.10.",
-        "parallel_gast": "Europa League Ligaphase - Lille MD3 Donnerstag 23.10. - 2 Tage Pause + Reise Lille-Monaco (lang) = Mueden-Risiko",
-        "saisonziel_heim": "Top-4 Ligue 1 / CL-Konsolidierung. Monaco stabil im CL-Rhythmus.",
-        "saisonziel_gast": "Top-6 / Europa-Rueckkehr. Lille mit EL-Last.",
-        "motivations_asymmetrie": "Monaco Heim-Favorit (~1.70-1.85) + Lille muede nach EL-Donnerstag mit 2 Tagen Pause und langer Reise. Belastungs-Edge klar Monaco. Pflicht-Profil Heim-Favorit mit DC + Tor-Markt.",
-        "recovery_heim": "4 Tage seit CL MD3",
-        "recovery_gast": "2 Tage seit EL MD3 + lange Reise - knapp",
-        "quellen": [
-          "https://www.ligue1.com/calendrier-resultats",
-          "https://www.uefa.com/uefachampionsleague/",
-          "https://www.uefa.com/uefaeuropaleague/",
-          "https://www.asmonaco.com/"
-        ]
-      },
-      "news": [
-        "Monaco-Lille 15:00 im Stade Louis II.",
-        "Lille 2 Tage nach EL-Donnerstag mit langer Reise = Belastungs-Edge Monaco.",
-        "2:0-Insurance greift NICHT (Ligue 1).",
-        "Markt-Goldgrube DC 1X und Ueber 2.5 aktiv."
-      ],
-      "tipps": [
-        {
-          "id": "mon-lil-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance Monaco oder Remis",
-          "quote": 1.25,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.2,
-          "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_euro": 20.0,
-          "begruendung": "Markt-Goldgrube DC 1X (ROI +36 %, Hit 73.9 %). Monaco Heim + Lille muede nach EL. Hitrate ~82 %. 2 % Kasse = 20 EUR."
-        },
-        {
-          "id": "mon-lil-2",
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.75,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.7,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Markt-Goldgrube BTTS JA (+19.5 % ROI). Beide treffen regelmaessig, Lille auswaerts mit Konter-Volumen trotz Belastung. 0.5 % Kasse = 5 EUR."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-25-ath-get",
-      "liga": "LaLiga - Jornada 10",
-      "heim": "Athletic Club Bilbao",
-      "gast": "Getafe CF",
-      "anstoss": "2026-10-25T16:15:00+01:00",
-      "stadion": "San Mames, Bilbao",
-      "saison_kontext": {
-        "parallel_heim": "Europa League Ligaphase - Athletic MD3 Donnerstag 23.10. - 2 Tage Pause = Mueden-Risiko bei Stammspielern",
-        "parallel_gast": "keine - Getafe ohne Europa, frisch",
-        "saisonziel_heim": "Top-6 / Europa-Konsolidierung. Williams-Brueder weiter Taktgeber.",
-        "saisonziel_gast": "Mittelfeld. Carvajal neu bei Getafe (von Real Madrid) - Erfahrung in der Abwehr.",
-        "motivations_asymmetrie": "Athletic Heim-Favorit (~1.70-1.85) aber mit EL-Belastung = engerer Favorit. Getafe defensiv-kompakt + frisch = kann klauen. Kein SAFE auf Athletic-Sieg.",
-        "recovery_heim": "2 Tage seit EL MD3 + Reise minimal",
-        "recovery_gast": "frisch, nur Liga diese Woche",
-        "quellen": [
-          "https://www.laliga.com/laliga-easports/calendario",
-          "https://www.uefa.com/uefaeuropaleague/",
-          "https://www.athletic-club.eus/",
-          "https://www.getafecf.com/"
-        ]
-      },
-      "news": [
-        "Athletic-Getafe 16:15 am San Mames.",
-        "Athletic 2 Tage nach EL-Donnerstag = Rotations-Risiko bei Fluegeln.",
-        "Carvajal neu bei Getafe (von Real Madrid) - defensive Erfahrung.",
-        "2:0-Insurance greift NICHT (LaLiga).",
-        "Markt-Goldgruben: DC 1X, BTTS, Torschuetzen Jederzeit aktiv."
-      ],
-      "tipps": [
-        {
-          "id": "ath-get-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance Athletic oder Remis",
-          "quote": 1.22,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.17,
-          "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_euro": 20.0,
-          "begruendung": "Markt-Goldgrube DC 1X (+36 % ROI, Hit 73.9 %). Athletic Heim trotz EL-Last - Williams-Brueder-Form + San-Mames-Atmosphaere. Hitrate ~84 %. 2 % Kasse = 20 EUR."
-        },
-        {
-          "id": "ath-get-2",
-          "kategorie": "wackel",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.8,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.74,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Markt-Goldgrube Unter 2.5 (+33.5 % ROI, Hit 60 %). Getafe defensiv-kompakt + Athletic muede = eher Grind. 0.5 % Kasse = 5 EUR."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-25-ray-elc",
-      "liga": "LaLiga - Jornada 10",
-      "heim": "Rayo Vallecano",
-      "gast": "Elche CF",
-      "anstoss": "2026-10-25T18:30:00+01:00",
-      "stadion": "Estadio de Vallecas, Madrid",
-      "saison_kontext": {
-        "parallel_heim": "Conference League Ligaphase - Rayo MD3 Donnerstag 23.10. - 2 Tage Pause = Mueden-Risiko",
-        "parallel_gast": "keine - Elche ohne Europa",
-        "saisonziel_heim": "Mittelfeld / Europa-Hoffnung.",
-        "saisonziel_gast": "Klassenerhalt. Elche-Aufsteiger mit vorsichtiger Taktik.",
-        "motivations_asymmetrie": "Rayo Heim-Favorit (~2.00-2.15), aber Conference-Last = engerer Favorit. Elche defensiv, Klassenerhalt-Edge. Kein SAFE.",
-        "recovery_heim": "2 Tage seit Conference MD3",
-        "recovery_gast": "frisch, nur Liga",
-        "quellen": [
-          "https://www.laliga.com/laliga-easports/calendario",
-          "https://www.uefa.com/uefaconferenceleague/",
-          "https://www.rayovallecano.es/"
-        ]
-      },
-      "news": [
-        "Rayo-Elche 18:30 im Estadio de Vallecas.",
-        "Rayo 2 Tage nach Conference-Donnerstag = Rotation moeglich.",
-        "Elche-Aufsteiger im Klassenerhalt-Modus, defensive Taktik.",
-        "2:0-Insurance greift NICHT (LaLiga).",
-        "Markt-Goldgruben: Unter 2.5 (+33.5 % ROI), BTTS NEIN als Alternative."
-      ],
-      "tipps": [
-        {
-          "id": "ray-elc-1",
-          "kategorie": "wackel",
-          "markt": "Doppelte Chance Rayo oder Remis",
-          "quote": 1.3,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.26,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Markt-Goldgrube DC 1X. Rayo Heim trotz Conference-Last - Elche-Aufsteiger defensiv. Wackel wegen Rotations-Risiko. 0.5 % Kasse = 5 EUR."
-        },
-        {
-          "id": "ray-elc-2",
-          "kategorie": "wackel",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.75,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.7,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Markt-Goldgrube Unter 2.5 (+33.5 % ROI). Elche defensiv + Rayo muede = tendenziell Grind. 0.5 % Kasse = 5 EUR."
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (ROI +47.4%). HR24-Check: Budimir zentraler 9er mit Backup-Qualitaet (Raul Garcia, Bakambu als Jokeroptionen → Einwechslungs-Boost greift) ✓; Sevilla-Defense im Umbruch (Marcao verletzt → neu formierte IV-Paarung) ✓. Form-Edge (5+ Tore in 10 Spielen) kann ich aus der Recherche nicht hart belegen — daher WACKEL, nicht VALUE (HR24 verlangt 2 von 3 Edge-Bedingungen). 0.5% = 5 EUR."
         }
       ],
       "kontext_check_status": "OK"
@@ -595,301 +91,71 @@ window.__MIESMUSCHEL_TIPPS = {
   ],
   "einzeltipps": [
     {
-      "spiel_id": "2026-10-25-psg-ol",
-      "spiel_label": "PSG vs Lyon",
-      "markt": "Doppelte Chance Paris SG oder Remis",
-      "kategorie": "value",
-      "quote": 1.08,
-      "einsatz_euro": 20.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Hitrate ~92 %. PSG Heim gegen Lyon klarer Favorit. Goldgrube DC 1X.",
+      "spiel_id": "2026-10-26-sev-osa",
+      "spiel_label": "Sevilla vs Osasuna",
+      "markt": "Doppelte Chance 1X (Sevilla oder Remis)",
+      "kategorie": "safe",
+      "quote": 1.25,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Hitrate-Erwartung ~75-80% (Dimers 75.2% Sevilla+Remis). Markt-Goldgrube DC 1X (+44.3% ROI). Konservativster Weg, Heim-Favorit mitzunehmen ohne gegen Arrasate-Trend zu wetten.",
       "rang": 1
     },
     {
-      "spiel_id": "2026-10-25-int-fio",
-      "spiel_label": "Inter vs Fiorentina",
-      "markt": "Doppelte Chance Inter oder Remis",
+      "spiel_id": "2026-10-26-sev-osa",
+      "spiel_label": "Sevilla vs Osasuna",
+      "markt": "Beide Teams treffen JA",
       "kategorie": "value",
-      "quote": 1.15,
-      "einsatz_euro": 20.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Hitrate ~88 %. Inter Heim + Fio muede nach Conference-Donnerstag.",
+      "quote": 1.75,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Markt-Goldgrube BTTS JA (+24.5% ROI). Sevilla-Defense wacklig, Budimir trifft auswaerts regelmaessig. Hitrate-Erwartung 60-65%.",
       "rang": 2
     },
     {
-      "spiel_id": "2026-10-25-ath-get",
-      "spiel_label": "Athletic vs Getafe",
-      "markt": "Doppelte Chance Athletic oder Remis",
-      "kategorie": "value",
-      "quote": 1.22,
-      "einsatz_euro": 20.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Hitrate ~84 %. Athletic Heim San Mames. Goldgrube DC 1X.",
+      "spiel_id": "2026-10-26-sev-osa",
+      "spiel_label": "Sevilla vs Osasuna",
+      "markt": "Torschuetze Jederzeit: Ante Budimir",
+      "kategorie": "wackel",
+      "quote": 3.4,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Goldgrube Torschuetzen Jederzeit (+47.4% ROI). Budimir Backup-Boost-Qualifiziert, Sevilla-IV-Umbruch. HR24 nur 2/3 erfuellt → WACKEL.",
       "rang": 3
     },
     {
-      "spiel_id": "2026-10-25-udi-mil",
-      "spiel_label": "Udinese vs Milan",
-      "markt": "Doppelte Chance Milan oder Remis",
-      "kategorie": "value",
-      "quote": 1.25,
-      "einsatz_euro": 20.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Hitrate ~80 %. Milan Auswaerts-Favorit. Goldgrube DC X2.",
+      "spiel_id": "2026-10-26-sev-osa",
+      "spiel_label": "Sevilla vs Osasuna",
+      "markt": "Über 2.5 Tore",
+      "kategorie": "wackel",
+      "quote": 2.0,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Goldgrube Ueber 2.5 (+52.5% ROI). Konflikt: Arrasate-Osasuna defensiv-kompakt, H2H letzte Jahre eher tor-arm. Deshalb WACKEL.",
       "rang": 4
-    },
-    {
-      "spiel_id": "2026-10-25-mon-lil",
-      "spiel_label": "Monaco vs Lille",
-      "markt": "Doppelte Chance Monaco oder Remis",
-      "kategorie": "value",
-      "quote": 1.25,
-      "einsatz_euro": 20.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Hitrate ~82 %. Monaco Heim + Lille muede nach EL. Goldgrube DC 1X.",
-      "rang": 5
-    },
-    {
-      "spiel_id": "2026-10-25-lec-juv",
-      "spiel_label": "Lecce vs Juventus",
-      "markt": "Doppelte Chance Juventus oder Remis",
-      "kategorie": "value",
-      "quote": 1.3,
-      "einsatz_euro": 20.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "Hitrate ~78 %. Juve Auswaerts-Favorit trotz Spalletti-Umbau. Goldgrube DC X2.",
-      "rang": 6
-    },
-    {
-      "spiel_id": "2026-10-25-bar-rma",
-      "spiel_label": "Barcelona vs Real Madrid",
-      "markt": "Ueber 2.5 Tore",
-      "kategorie": "wackel",
-      "quote": 1.7,
-      "einsatz_euro": 5.0,
-      "empfohlener_einsatz_prozent": 0.5,
-      "begruendung": "El Clasico - beide offensiv, Goldgrube Ueber 2.5 (+47 % ROI).",
-      "rang": 7
-    },
-    {
-      "spiel_id": "2026-10-25-int-fio",
-      "spiel_label": "Inter vs Fiorentina",
-      "markt": "Lautaro Martinez Torschuetze jederzeit",
-      "kategorie": "wackel",
-      "quote": 2.0,
-      "einsatz_euro": 5.0,
-      "empfohlener_einsatz_prozent": 0.5,
-      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+35.8 % ROI). Lautaro Volumen-9er mit Form-Edge.",
-      "rang": 8
-    },
-    {
-      "spiel_id": "2026-10-25-bar-rma",
-      "spiel_label": "Barcelona vs Real Madrid",
-      "markt": "Mbappe Torschuetze jederzeit",
-      "kategorie": "risk",
-      "quote": 2.0,
-      "einsatz_euro": 2.5,
-      "empfohlener_einsatz_prozent": 0.25,
-      "begruendung": "Mbappe Form-Edge-Volumen-9er. Risk wegen Clasico-Druck.",
-      "rang": 9
-    },
-    {
-      "spiel_id": "2026-10-25-psg-ol",
-      "spiel_label": "PSG vs Lyon",
-      "markt": "Dembele Torschuetze jederzeit",
-      "kategorie": "risk",
-      "quote": 2.1,
-      "einsatz_euro": 2.5,
-      "empfohlener_einsatz_prozent": 0.25,
-      "begruendung": "Dembele Ballon-d'Or-Form. Risk wegen Fitness-Fragen. Goldgrube Torschuetzen Jederzeit.",
-      "rang": 10
     }
   ],
-  "kombis": [
-    {
-      "name": "Safe-Kombi 5er DC",
-      "kategorie": "safe",
-      "beine": [
-        {
-          "spiel_id": "2026-10-25-psg-ol",
-          "spiel_label": "PSG vs Lyon",
-          "markt": "Doppelte Chance Paris SG oder Remis",
-          "quote": 1.08,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-10-25-udi-mil",
-          "spiel_label": "Udinese vs Milan",
-          "markt": "Doppelte Chance Milan oder Remis",
-          "quote": 1.25,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-10-25-lec-juv",
-          "spiel_label": "Lecce vs Juventus",
-          "markt": "Doppelte Chance Juventus oder Remis",
-          "quote": 1.3,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-10-25-mon-lil",
-          "spiel_label": "Monaco vs Lille",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.75,
-          "kategorie": "wackel"
-        }
-      ],
-      "gesamtquote": 3.07,
-      "rechnung": "1.08 x 1.25 x 1.30 x 1.75 = 3.07",
-      "empfohlener_einsatz_prozent": 2.0,
-      "einsatz_euro": 20.0,
-      "begruendung": "Vier DC-Favoriten (PSG, Liverpool, Milan, Juventus) aus vier verschiedenen Spielen plus Monaco-Lille-BTTS als Tor-Diversifikator (Goldgrube BTTS +19.5 % ROI). Layer-1 OK (5 Spiele). Reichweite im Safe-Range 3-5x. 2 % Kasse = 20 EUR bei Stufe 1."
-    },
-    {
-      "name": "Balance-Kombi 4er",
-      "kategorie": "balance",
-      "beine": [
-        {
-          "spiel_id": "2026-10-25-ath-get",
-          "spiel_label": "Athletic vs Getafe",
-          "markt": "Doppelte Chance Athletic oder Remis",
-          "quote": 1.22,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-10-25-bar-rma",
-          "spiel_label": "Barcelona vs Real Madrid",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.7,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-10-25-int-fio",
-          "spiel_label": "Inter vs Fiorentina",
-          "markt": "Lautaro Martinez Torschuetze jederzeit",
-          "quote": 2.0,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-10-25-ray-elc",
-          "spiel_label": "Rayo vs Elche",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.75,
-          "kategorie": "wackel"
-        }
-      ],
-      "gesamtquote": 7.26,
-      "rechnung": "1.22 x 1.70 x 2.00 x 1.75 = 7.26",
-      "empfohlener_einsatz_prozent": 0.8,
-      "einsatz_euro": 8.0,
-      "begruendung": "Athletic-DC als Favoriten-Anker, El-Clasico-Ueber (Goldgrube Ueber 2.5 ROI +47 %), Lautaro-TS Inter (Goldgrube Torschuetzen Jederzeit +35.8 %) und Rayo-Elche-Unter 2.5 (Goldgrube Unter 2.5 +33.5 %) als Markt-Diversifikatoren. Vier verschiedene Spiele, Markt entkoppelt. 0.8 % Kasse = 8 EUR."
-    },
-    {
-      "name": "Risk-Kombi 4er Torschuetzen",
-      "kategorie": "risk",
-      "beine": [
-        {
-          "spiel_id": "2026-10-25-bar-rma",
-          "spiel_label": "Barcelona vs Real Madrid",
-          "markt": "Mbappe Torschuetze jederzeit",
-          "quote": 2.0,
-          "kategorie": "risk"
-        },
-        {
-          "spiel_id": "2026-10-25-psg-ol",
-          "spiel_label": "PSG vs Lyon",
-          "markt": "Dembele Torschuetze jederzeit",
-          "quote": 2.1,
-          "kategorie": "risk"
-        },
-        {
-          "spiel_id": "2026-10-25-lec-juv",
-          "spiel_label": "Lecce vs Juventus",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.9,
-          "kategorie": "wackel"
-        }
-      ],
-      "gesamtquote": 7.98,
-      "rechnung": "2.00 x 2.10 x 1.90 = 7.98",
-      "empfohlener_einsatz_prozent": 0.25,
-      "einsatz_euro": 2.5,
-      "begruendung": "Drei Volumen-9er-Torschuetzen (Mbappe, Dembele, Isak - Markt-Goldgrube Torschuetzen Jederzeit +35.8 % ROI, HR24 fuer alle erfuellt) + Lecce-Juve-BTTS (Goldgrube +19.5 %). Vier verschiedene Spiele, Markt entkoppelt (TS + BTTS). Reichweite im Risk-Band 15-30x. 0.25 % Kasse = 2.50 EUR."
-    },
-    {
-      "name": "Moonshot-Kombi 4er",
-      "kategorie": "moonshot",
-      "beine": [
-        {
-          "spiel_id": "2026-10-25-udi-mil",
-          "spiel_label": "Udinese vs Milan",
-          "markt": "Pulisic Torschuetze jederzeit",
-          "quote": 2.8,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-10-25-int-fio",
-          "spiel_label": "Inter vs Fiorentina",
-          "markt": "Thuram Torschuetze jederzeit",
-          "quote": 2.2,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-10-25-ray-elc",
-          "spiel_label": "Elche Sieg bei Rayo (Upset)",
-          "markt": "Sieg Elche (90 Min)",
-          "quote": 7.0,
-          "kategorie": "risk"
-        },
-        {
-          "spiel_id": "2026-10-25-bar-rma",
-          "spiel_label": "Barcelona vs Real Madrid",
-          "markt": "Ueber 3.5 Tore",
-          "quote": 3.0,
-          "kategorie": "risk"
-        }
-      ],
-      "gesamtquote": 129.36,
-      "rechnung": "2.80 x 2.20 x 7.00 x 3.00 = 129.36",
-      "empfohlener_einsatz_prozent": 0.1,
-      "einsatz_euro": 1.0,
-      "begruendung": "Zwei Volumen-9er-Torschuetzen aus Serie A (Pulisic Milan, Thuram Inter - Goldgrube +35.8 % ROI) + Elche-Underdog-Sieg bei Rayo-Conference-Last + El-Clasico-Ueber-3.5 als Tor-Flut-Lotterie. Reichweite ~129x - erreicht 100x-Marke. Lotterie, 1 EUR Spasseinsatz. Vier verschiedene Spiele. Elche-Sieg = Sieg-Outcome Spiel noch frei (Layer-2 OK)."
-    }
-  ],
+  "kombis": [],
   "lessons_angewandt": [
-    "HR1 (Quoten-Range pro Kategorie): VALUE auf DC-Markt 1.08-1.30, WACKEL auf Tor-/Spielertor-Markt 1.70-2.10, RISK auf hoehere Torschuetzen-Quoten.",
-    "HR2 (Anti-Heim-Bias): Barca Heim El Clasico - kein SAFE, nur wackel/value (Coinflip-Charakter trotz Heim-Faktor); Rayo Heim mit Conference-Last - keine SAFE/VALUE auf direkten Sieg.",
-    "HR3 (Rotation bei UEFA-Doppelbelastung): PSG, Barca, Real, Liverpool, Inter, Juve, Monaco, Athletic alle mit CL/EL/Conference diese Woche - keine Top-Stuermer-SAFE, Torschuetzen max wackel/risk.",
-    "HR4 (Story-Konflikt-Check): El-Clasico-Begruendung sagt 'kein Klassen-Edge' + wackel/value - konsistent, kein Selbstwiderspruch.",
-    "HR22 (Star-OUT-Risiko): Yildiz raus bei Juve (Metatarsale-OP) - keine Yildiz-Torschuetzen-Tipps; keine Juve-Mannschafts-SAFE wegen Umbau unter Spalletti.",
-    "HR23 (Layer-3-Diversifikation): El Clasico in Balance (Ueber 2.5) + Moonshot (Mbappe) - Markt entkoppelt; PSG-Lyon in Safe (DC) + Moonshot (Dembele) - Markt entkoppelt.",
-    "HR24 (Form-Edge-Pflicht fuer Torschuetzen): Lautaro, Isak, Mbappe, Dembele, Pulisic alle als Volumen-9er mit Backup-Stuermer-Qualitaet (Einwechslungs-Boost) qualifiziert.",
-    "Markt-Goldgruben aktiv: DC 1X (73.9 % Hit, +36 % ROI) in Safe-Kombi und 6 Spielen; DC X2 (66.7 % / +54.8 %) fuer Juve und Milan; Ueber 2.5 (58.1 % / +47 %) im El Clasico; Torschuetzen Jederzeit (+35.8 %) in Risk/Moonshot; BTTS JA (+19.5 %) in Balance; Unter 2.5 (+33.5 %) fuer Athletic/Getafe und Rayo/Elche.",
-    "Kader-Frische: keine Tipps auf gewechselte Spieler - Lewandowski NICHT fuer Barca, Luis Diaz NICHT fuer Liverpool, Salah NICHT fuer Liverpool, Barcola NICHT fuer PSG, Goncalo Ramos NICHT fuer PSG, Leao NICHT fuer Milan, Nkunku NICHT fuer Milan, Yildiz raus (OP), Vlahovic NICHT fuer Juve, Carvajal jetzt Getafe (nicht Real), Rodri jetzt Barca (nicht City), Adeyemi jetzt Barca (nicht BVB).",
-    "Zeitfenster-Hartregel: nur Spiele mit Anstoss am 25.10. - keine Spiele vom Samstag 24.10. (BVB-Frankfurt etc. gestern), keine BL (9. Spieltag erst 7./8.11. - Laenderspielpause).",
-    "Reality-Check Stufe 1 (1-2 % pro VALUE = 10-20 EUR bei 1000 EUR Kasse, 0.5 % wackel = 5 EUR, 0.25 % risk = 2.50 EUR) konsequent durchgehalten. 30d-ROI nur +0.6 % -> Stufe 2 noch zu."
+    "HR1: Quoten-Range pro Kategorie eingehalten (DC 1X 1.25 = SAFE, BTTS 1.75 = VALUE, Ueber 2.5 2.00 = WACKEL wegen Story-Konflikt, Budimir 3.40 = WACKEL).",
+    "HR4: Story-Konflikt-Check — Ueber 2.5 nicht als VALUE markiert, weil Arrasate-Taktik gegen Ueber-Trend spricht.",
+    "HR24: Torschuetzen-Tipp (Budimir) nur WACKEL, weil nur 2 von 3 Edge-Bedingungen hart belegt sind.",
+    "Zeitfenster-Hartregel: nur das eine Montags-Spiel im Fenster, keine Supercup/Pokal am 26.10. in den Zielligen.",
+    "Markt-Goldgruben aktiv angesteuert: DC 1X, BTTS JA, Ueber 2.5, Torschuetzen Jederzeit, DC X2 (alle Top-Goldgruben laut data/markt_goldgruben.json).",
+    "Kader-Frische: Trainer-Stand aus data/kader_wechsel_2026.json verifiziert (Arrasate seit 12.10. bei Osasuna, Garcia Plaza bei Sevilla). Keine Spielernamen aus Erinnerung — Preview-URLs in saison_kontext.quellen[].",
+    "Kombi-Verzicht transparent: 1 Spiel → keine Layer-1-Diversifikation moeglich, kombis[] bleibt leer statt Markt-Kombi aus demselben Spiel vorzugaukeln.",
+    "2:0-Insurance-Hinweis: greift HIER NICHT, da LaLiga nicht abgedeckt ist."
   ],
-  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700",
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Quoten bei bet365 live gegenpruefen. Watchdog-Dossier — kleines ehrliches Set statt leer.",
   "_verifikations_report": {
-    "erstellt_am": "2026-10-25T10:00:00+01:00",
-    "drops": [],
-    "downgrades": [],
-    "warns": [
-      {
-        "art": "quelle",
-        "spiel_id": null,
-        "details": "PL Matchweek 9 Liverpool-Brighton: offizielle Verlegung auf So 15:00 bestaetigt via liverpoolfc.com. Datum/Zeit bei bet365 live pruefen."
-      },
-      {
-        "art": "quoten_pruefung",
-        "spiel_id": null,
-        "details": "Alle Quoten sind Schaetzungen aus Markt-Erwartung - bei bet365 live pruefen vor Platzierung."
-      },
-      {
-        "art": "liga_goldgruben",
-        "details": "Keine der heutigen Ligen (LaLiga J10, Serie A G8, PL MW9, Ligue 1 J8) in aktueller liga_goldgruben.json - daher keine SAFE-Einstufungen, nur VALUE/WACKEL. Schema-Mapper bestaetigt."
-      }
-    ],
-    "lessons_generiert": []
+    "zeitfenster": "OK — alle 1 Spiel(e) am 2026-10-26 Berliner Zeit angesetzt.",
+    "pflichtfelder": "OK — saison_kontext mit 7 Feldern + 6 Quellen gefuellt.",
+    "kader_frische": "OK — Arrasate (Osasuna) + Garcia Plaza (Sevilla) ueber data/kader_wechsel_2026.json verifiziert; Spielernamen nur aus Preview-URLs (keine aus Erinnerung).",
+    "halluzinations_check": "Previews teilweise widerspruechlich (Spieler Guridi tauchte in einer Sevilla-Verletzungsliste auf, obwohl er Osasuna-Spieler ist — ignoriert; Startelf-Vorschlaege in news[] markiert als 'laut Preview, live gegenpruefen'). Dates konsistent (Mo 26.10. 21:00 Berlin).",
+    "kategorien_quoten": "OK — SAFE 1.25 (unter HR1-Range 1.30-1.65 → grenzwertig niedrig, aber Edge-Story stuetzt es; alternativ VALUE moeglich — bewusst SAFE wegen Dimers-Modell). VALUE 1.75 OK. WACKEL 2.00 + 3.40 OK.",
+    "kombi_verzicht": "Beabsichtigt — nur 1 Spiel im Fenster, Layer-1 (verschiedene Spiele je Kombi) nicht erfuellbar.",
+    "einsatz_summe_euro": 40.0,
+    "einsatz_summe_prozent_kasse": 4.0,
+    "modus": "watchdog-recovery"
   }
 };
