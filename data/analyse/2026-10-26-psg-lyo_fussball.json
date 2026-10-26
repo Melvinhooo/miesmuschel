@@ -1,0 +1,79 @@
+{
+  "spiel_id": "2026-10-26-psg-lyo",
+  "saison_kontext": {
+    "parallel_heim": "UEFA Champions League Ligaphase Spieltag 3 war Di 20.10. (PSG 4-2 Barcelona, Heimsieg). Nächster CL-Termin erst 04.11. (ST 4 bei Tottenham). Keine akute Doppelbelastung diese Woche — PSG hat ligeintern 6 Tage Pause nach 3-1 bei Strasbourg (17.10.).",
+    "parallel_gast": "UEFA Europa League Ligaphase: Lyon spielte Do 22.10. bei TSG Hoffenheim (0-3-Niederlage auswärts) — nur 4 Tage Pause bis Mo-Posticipo. Starker Rotations-/Müdigkeits-Druck. Nächster EL-Termin Do 06.11. (Heim gegen PAOK).",
+    "saisonziel_heim": "Titel-Verteidigung Ligue 1 + CL-Lauf wiederholen. Nach J7: 14 Pkt aus 7 Spielen (W4 D2 L1), Platz 2 punktgleich mit Lyon, nur schlechtere Tordifferenz. Jüngste Form in Ligue 1: W-W-W (3-1 Le Mans, 3-1 Strasbourg) plus Prestige-Sieg 4-2 vs Barcelona in CL. Trainer Luis Enrique seit 2023. Saisonziel: Doublé Ligue 1 + CL erneut.",
+    "saisonziel_gast": "Nach J7: 14 Pkt, Platz 1 nur dank besserer Tordifferenz. Trainer Paulo Fonseca (seit Sommer 2026, Ex-Milan). Jüngste Ligue-1-Form gemischt: W4 D2 L1, aber zuletzt 2-1 Niederlage bei Lens (09.10.), 2-1 Heimsieg vs Nice (18.10.), dann 0-3-Pleite bei Hoffenheim (EL 22.10.). Beste Defensive der Ligue 1 (0.71 Gegentore/Spiel). Saisonziel: CL-Quali (Platz 1-4), realistisch Top-3 wenn der Mini-Dip nicht größer wird.",
+    "motivations_asymmetrie": "PSG ist klarer Heim-Favorit (bet365 Sieg ~1.42-1.48, implied ~67%) trotz 4 wichtiger Ausfälle (Dembélé Oberschenkel, Kvara Kreuzband Saison-Aus, Marquinhos Oberschenkel, Nuno Mendes Muskel). Gewinner geht alleine an Tabellenspitze — maximaler Prestige-Druck. Lyon reist mit 3-0-EL-Pleite und 4-Tage-Rhythmus an, Fonseca MUSS wegen Rotations-Druck Kräfte sparen oder optimal verteilen. PSG kommt frisch (6 Tage) + CL-Hochgefühl (4-2 Barca). Edge klar bei PSG trotz Lücken in der Defensive (Beraldo + Lucas Hernández als IV-Paarung, Hakimi rechts).",
+    "recovery_heim": "6 Tage seit 3-1 bei Strasbourg (17.10., Dembélé-Doué-Zabarnyi), dazwischen Di 20.10. 4-2 vs Barca (CL) — also 6 Tage ohne Spiel nach dem CL-Highlight. Frische + Rhythmus. Nächster Pflichttermin erst Sa 31.10. (Ligue 1 J9), Rotation gegen Lyon unnötig außer bei Verletzten.",
+    "recovery_gast": "Nur 4 Tage seit 0-3-EL-Pleite bei Hoffenheim (Do 22.10.). Kurzer Rhythmus zusätzlich zu Rotations-Druck Richtung Do 06.11. (EL vs PAOK). Fonseca könnte Nuamah / Tolisso schonen oder nur 60 Minuten geben.",
+    "quellen": [
+      "https://www.psg.fr/en/content/ligue-1-2026-202-matchday-8-fixtures-paris-saint-germain-olympique-lyonnais",
+      "https://www.psg.fr/en/content/paris-saint-germain-olympique-lyonnais-the-preview-ligue-1-20262027",
+      "https://www.fotmob.com/matches/lyon-vs-paris-saint-germain/36b9fd",
+      "https://www.sofascore.com/football/match/olympique-lyonnais-paris-saint-germain/UHsZH",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Olympique_Lyonnais_season",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_Paris_Saint-Germain_FC_season",
+      "https://www.beinsports.com/en-us/soccer/ligue-1/articles/psg-vs-lyon-rescheduled-for-monday-october-26-at-the-same-time-as-the-ballon-d-or-2026-10-23",
+      "https://www.goal.com/en-in/betting/tips/psg-vs-lyon-predictions-26-10-2026/A%3Ablt9cf2e54d79f019ad"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "psg-lyo-1",
+      "kategorie": "safe",
+      "markt": "Sieg Paris Saint-Germain (90 Min)",
+      "quote": 1.45,
+      "faire_quote": 1.60,
+      "edge_prozent": 10.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "PSG bet365 ~1.42-1.48 (implied 67%), bei Dimers/sportsbettingdime wird PSG-Hitrate noch höher taxiert. 4 Ausfälle schmerzen zwar, aber PSGs Kader-Tiefe (Barcola/Ferran Torres/Doué/Akliouche/Lee Kang-In als Rotations-Pool) + Heimvorteil + CL-Hochgefühl 4-2 Barca sprechen für klaren Sieg. Lyon kommt mit 3-0-Pleite in EL und 4-Tage-Rhythmus. Markt-Mix-Pflicht Heim-Favorit: Sieg erfüllt. 2:0-INSURANCE GREIFT HIER NICHT (nur BL + CL, nicht Ligue 1) - unten im news[]-Block ausgewiesen. 2.0% Kasse = 20 EUR."
+    },
+    {
+      "id": "psg-lyo-2",
+      "kategorie": "value",
+      "markt": "Doué Torschuetze jederzeit",
+      "quote": 2.5,
+      "faire_quote": 2.1,
+      "edge_prozent": 16.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (ROI +47.4%). HR24-Form-Edge: Doué 2 Tore in den letzten 2 Spielen (90'+3' vs Strasbourg 17.10. in Ligue 1, 38' vs Barcelona 20.10. in CL). Mit Dembélé + Kvara verletzt rückt Doué in die zentrale Offensiv-Rolle neben Ferran Torres und Barcola. Backup-Einwechslungs-Boost: wenn Doué früh ausgewechselt wird, kommt typischerweise Akliouche (hatte 68' vs Le Mans getroffen) — Tore werden für den Tipp gezählt. 1.5% = 15 EUR."
+    },
+    {
+      "id": "psg-lyo-3",
+      "kategorie": "value",
+      "markt": "Doppelte Chance 1X (PSG oder Remis)",
+      "quote": 1.1,
+      "faire_quote": 1.15,
+      "edge_prozent": 4.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "einsatz_euro": 10.0,
+      "begruendung": "Markt-Goldgrube DC 1X (Hitrate 75% / ROI +44.3%). Implied PSG + Remis ~85%. Konservative Doppelabsicherung des Siegs, wenn man gegen eine Lyon-Null wettet. Nicht als SAFE weil Quote 1.10 unter dem SAFE-Range-Minimum. 1.0% = 10 EUR."
+    },
+    {
+      "id": "psg-lyo-4",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen JA",
+      "quote": 1.8,
+      "faire_quote": 2.0,
+      "edge_prozent": -10.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Markt-Goldgrube BTTS JA (ROI +24.5%). Argument dafür: PSG hat 2 vs Barca kassiert (IV Beraldo/Hernández nicht fest), Lyon hat Nuamah/Tolisso mit Torgefahr. Argument dagegen: Lyon beste Ligue-1-Defensive (0.71 GT/Spiel), aber Lyon-Offensive AUSWÄRTS gegen Top-Favorit historisch schwach. HR4-Story-Konflikt: Lyons Defensiv-DNA passt zu BTTS JA, aber Lyons Offensive gegen PSG-Heim ist das Fragezeichen. Deshalb WACKEL, nicht VALUE. 0.5% = 5 EUR."
+    },
+    {
+      "id": "psg-lyo-5",
+      "kategorie": "wackel",
+      "markt": "Nuamah Torschuetze jederzeit",
+      "quote": 3.8,
+      "faire_quote": 3.3,
+      "edge_prozent": 15.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Lyons Top-Scorer (3 Ligue 1 / 5 total in 7 Spielen) - der einzige klare Torschuetzen-Pick auf Lyon-Seite. HR24 nur 2/3: Volumen OK, Form-Edge wackelig (nur Hoffenheim-Pleite im Beinahe-Rückraum). Rotations-Risiko wegen EL-Mi + EL-Rhythmus (siehe recovery_gast). Lyon spielt auswärts mit schwächerer Konterquote - 1 Chance könnte reichen. Kein VALUE wegen Rotations- und Topteam-Faktor. 0.5% = 5 EUR."
+    }
+  ]
+}
