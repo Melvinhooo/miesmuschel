@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-25",
+  "stand": "2026-10-26",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -1193,6 +1193,16 @@
       "hinweis": "Lueckenschluss - Coventry ist Aufsteiger 2026/27 (Championship-Meister 2025/26, nach 25 Jahren zurueck in der Premier League). Lampard war Championship Manager of the Season. Status 25.10.2026: Platz 19 (zweitletzter) nach 8 Spielen - 'surely first Premier League manager sacked' laut Yahoo nach 0:1-Pleite in Fulham, aber aktuell nicht entlassen. Vor Coventry-Tipp Lage am Spieltag live pruefen. Taktik: 4-2-3-1 mit aggressivem Pressing, offensiv ausgerichtet (Championship-Rekord-Torschuetzen) - gegen PL-Qualitaet aber zu offen, deshalb Ueber-2.5-Markt in Coventry-Spielen aufwerten.",
       "quelle": "https://www.espn.com/soccer/story/_/id/48493666/frank-lampard-coventry-city-promoted-premier-league-championship",
       "stand": "2026-10-25"
+    },
+    {
+      "verein": "AC Milan",
+      "trainer_neu": "Ruben Amorim",
+      "trainer_alt": "Massimiliano Allegri",
+      "seit": "2026-06",
+      "vertrag_bis": "2028-06",
+      "hinweis": "Allegri wurde nach 2:1-Heimniederlage gegen Cagliari am letzten Spieltag entlassen; Milan verpasste CL-Quali. Amorim uebernahm Mitte Juni 2026. Verifiziert am 26.10.2026 nach Udinese-Milan 0:2, in dem SempreMilan-Liveblog Amorim als Trainer nennt. Taktische Aussagen zu Milan NICHT mehr auf Allegri-Stand stuetzen.",
+      "quelle": "https://www.espn.com/soccer/story/_/id/49070225/ruben-amorim-appointed-ac-milan-boss-leaving-man-united",
+      "stand": "2026-10-26"
     }
   ],
   "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist. Fulham hat mit Arbeloa (ex-Real Madrid) einen neuen Trainer, Silva zu Benfica (bestaetigt 25.08.2026). Saison-Verlauf (Stand 04.10.2026): erster Bundesliga-Wechsel Gladbach 13.09. (Polanski -> Lichte Interim -> Blessin ab 22.09. permanent, Vertrag bis 2028), drei Serie-A-Wechsel Fiorentina 07.09. (Grosso -> Vanoli), Bologna 16.09. (Tedesco -> Palladino) und Parma 27.09. (Cuesta -> Gilardino ab 30.09. permanent, Weltmeister 2006), ein LaLiga-Wechsel Valencia 13.09. (Corberan -> Oscar Sanchez Interim, Nachfolger weiter offen), erster Premier-League-Wechsel West Ham 27.09. (Potter -> Nuno Espirito Santo, sofort auf 3 Jahre). Interim-Rollen nur noch Valencia (Oscar Sanchez) - Blessin + Gilardino inzwischen permanent. Nottingham Forest: Glasner trotz 1/6-Saisonstart noch im Amt (02.10. laut Football Insider 'unstable, aber nicht entlassen'). Benfica (nach Mourinho-Abgang) noch offen - vor Europapokal-Tipps auf diese drei Klubs live pruefen.",

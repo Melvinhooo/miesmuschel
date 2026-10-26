@@ -1,56 +1,56 @@
 {
-  "stand": "2026-10-25T07:14:42+00:00",
+  "stand": "2026-10-26T06:26:52+00:00",
   "kriterium": "Hitrate > 75.0% UND ROI > 15.0% bei min. 5 Tipps",
   "wirkung": "Tipps-Routinen sollen diese Maerkte aktiv suchen. Schema-Mapper warnt wenn Spiel im Dossier ist und der Markt nicht als Tipp gesetzt wurde.",
   "maerkte": [
     {
       "markt": "Doppelte Chance X2",
-      "tipps": 18,
-      "trefferquote": 66.7,
-      "roi_prozent": 54.8,
-      "netto": 9.87
+      "tipps": 16,
+      "trefferquote": 68.8,
+      "roi_prozent": 63.9,
+      "netto": 10.22
     },
     {
       "markt": "Ueber 2.5 Tore",
       "tipps": 34,
-      "trefferquote": 58.1,
-      "roi_prozent": 47.0,
-      "netto": 14.57
-    },
-    {
-      "markt": "Doppelte Chance 1X",
-      "tipps": 23,
-      "trefferquote": 73.9,
-      "roi_prozent": 36.0,
-      "netto": 8.29
+      "trefferquote": 61.3,
+      "roi_prozent": 52.5,
+      "netto": 16.27
     },
     {
       "markt": "Torschuetzen Jederzeit",
       "tipps": 30,
-      "trefferquote": 36.7,
-      "roi_prozent": 35.8,
-      "netto": 10.75
+      "trefferquote": 41.4,
+      "roi_prozent": 47.4,
+      "netto": 13.75
+    },
+    {
+      "markt": "Doppelte Chance 1X",
+      "tipps": 20,
+      "trefferquote": 75.0,
+      "roi_prozent": 44.3,
+      "netto": 8.86
     },
     {
       "markt": "Unter 2.5 Tore",
-      "tipps": 20,
-      "trefferquote": 60.0,
-      "roi_prozent": 33.5,
-      "netto": 6.7
-    },
-    {
-      "markt": "Doppelte Chance",
-      "tipps": 48,
-      "trefferquote": 69.2,
-      "roi_prozent": 21.5,
-      "netto": 8.37
+      "tipps": 16,
+      "trefferquote": 56.2,
+      "roi_prozent": 30.3,
+      "netto": 4.85
     },
     {
       "markt": "Beide Teams treffen JA",
-      "tipps": 37,
-      "trefferquote": 59.5,
-      "roi_prozent": 19.5,
-      "netto": 7.23
+      "tipps": 34,
+      "trefferquote": 61.8,
+      "roi_prozent": 24.5,
+      "netto": 8.34
+    },
+    {
+      "markt": "Doppelte Chance",
+      "tipps": 54,
+      "trefferquote": 72.7,
+      "roi_prozent": 21.7,
+      "netto": 9.54
     }
   ]
 }

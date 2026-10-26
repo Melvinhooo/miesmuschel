@@ -3617,6 +3617,35 @@
       "lesson": "Lens 2:1 vs Paris FC (0:1 HZ, Koleosho 45+2' - Thauvin 63' - Hazard 83') ist Comeback-Variante. In unseren letzten 7 ausgewerteten Dossiers haben Heim-Favoriten mit 0:1-HZ-Rueckstand bereits mehrfach gedreht (Lens Pattern + spezifisch Lens-Heim-Edge Bollaert-Delelis + weitere Franzoesische Ligaspiele). Die unter-3.5-Tore-Variante @1.3 ist trotz Drehungs-Pattern tragfaehig (3 Tore = unter 3.5). Lesson: bei Heim-Favoriten in Ligue 1 nach HZ-Rueckstand = DC-Heim weiter spielen (nicht switchen), und Unter 3.5 bleibt tragfaehig weil Comebacks selten > 3 Tore produzieren.",
       "bezug_spiel_id": "2026-10-24-len-pfc",
       "trigger": "8g"
+    },
+    {
+      "datum": "2026-10-25",
+      "kategorie": "Torschuetzen-Tipp: Verletzungs-Check Pflicht (Lautaro-Fall)",
+      "lesson": "Lautaro Martinez wurde als VALUE-Torschuetze bei Inter-Fiorentina getippt, fehlte aber verletzt. Einwechslungs-Boost schuetzt nur, wenn der getippte Spieler selbst im Spiel steht und ausgewechselt wird - fehlt er im Kader komplett, geht der Tipp zwangslaeufig verloren. Pattern 8h: nach CL/EL-Woche + Vereins-Belastung muss die Routine die Aufstellungs-Vorschau (kicker.de / club-site) als quellen[]-URL fuer Torschuetzen-Tipps verpflichtend lesen und bei Verletzungs-Hinweisen auf Backup-9er (hier: Thuram) umsetzen. Thuram traf tatsaechlich 90+1 - der Boost greift jedoch NICHT fuer Lautaro, weil Lautaro gar nicht spielte.",
+      "bezug_spiel_id": "2026-10-25-int-fio",
+      "trigger": "8h"
+    },
+    {
+      "datum": "2026-10-25",
+      "kategorie": "Trainer-Pflege: Milan unter Amorim (nicht Allegri)",
+      "lesson": "Das Udinese-Milan-Dossier bezeichnete Allegri als Milan-Trainer. Tatsaechlich ist seit Juni 2026 Ruben Amorim im Amt (nach Allegri-Entlassung CL-Verpassung). Fuer die Taktik-Begruendung war das irrelevant (DC X2 kam durch), aber die Routine muss `kader_wechsel_2026.json` auch beim Trainer wirklich einhalten. Ab heute im Datei: AC Milan -> Amorim. Ebenfalls verifiziert bei Napoli (Allegri), Juventus (Spalletti), Torino (Abate), Cremonese (Giampaolo). Die Routinen muessen Trainer-Namen in `saisonziel_*`-Feldern mit kader_wechsel abgleichen, nicht aus Erinnerung uebernehmen.",
+      "bezug_spiel_id": "2026-10-25-udi-mil",
+      "trigger": "8b"
+    },
+    {
+      "datum": "2026-10-25",
+      "kategorie": "Zeitfenster-Hartregel: Spielzeiten in Realwelt pruefen (Rayo-Elche)",
+      "lesson": "Das Rayo-Elche-Spiel stand im Dossier als Anstoss 25.10. 18:30, wurde laut ESPN und Sofascore tatsaechlich am 24.10. 14:00 CEST gespielt. Die Vorbereitungsroutine liest Anstosszeiten aus LaLiga-Kalender-Snapshots, die bei kurzfristigen Fenster-Verschiebungen veralten. Pattern: wenn ein Spiel am angekuendigten Anstoss noch nicht in Live-Scores erscheint, am naechsten Tag Verschiebung bzw. frueheren Anstoss checken. Die Zeitfenster-Hartregel in fix_schema.py darf fuer historische Anstoesse nicht Spiele verschieben, aber die Recherche muss am Wochenend-Vorlauf Anstoesse via football-data.org / kicker Spieltag-Abgleich kreuzpruefen.",
+      "bezug_spiel_id": "2026-10-25-ray-elc",
+      "trigger": "8a"
+    },
+    {
+      "datum": "2026-10-25",
+      "kategorie": "PSG-Lyon-Verschiebung: Pariser Sicherheitslage (externe Ursache)",
+      "lesson": "PSG-Lyon war fuer So 25.10. 20:45 angesetzt, wurde per LFP-Entscheidung aufgrund Pariser Sicherheitslage/Protest-Risiko auf Mo 26.10. verschoben (Reuters, L'Equipe). 4 Einzeltipps und ein Bein in der Safe-Kombi bleiben offen und werden in der Auswertung vom 27.10. nachgezogen. Operatives Learning: wenn die Vorbereitungsroutine am Donnerstag/Freitag auf PSG-Spiele tippt und am Wochenende Protest-Nachrichten ueber Paris laufen, Watchdog-Routinen soll kurzfristig den LFP-Spielplan-Status checken (noch nicht automatisiert).",
+      "bezug_spiel_id": "2026-10-25-psg-ol",
+      "trigger": "8a"
     }
-  ]
+  ],
+  "stand": "2026-10-26"
 }
