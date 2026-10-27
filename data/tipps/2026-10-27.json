@@ -331,14 +331,15 @@
       "tipps": [
         {
           "id": "rwe-rbl-1",
-          "kategorie": "safe",
+          "kategorie": "value",
           "markt": "Doppelte Chance Leipzig oder Remis (X2)",
           "quote": 1.15,
           "faire_quote": 1.1,
           "edge_prozent": 4.5,
           "empfohlener_einsatz_prozent": 1.5,
           "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube Doppelte Chance X2 (ROI +63.9%, 68.8% hitrate 2026/27). BL vs 3.Liga, Leipzig als klarer Favorit — DC X2 bündelt sicher. Vorbegegnung 17.08.2024 Leipzig 4:1 Essen. 2:0-Insurance NICHT im Pokal. 1.5% = 15 EUR."
+          "begruendung": "Markt-Goldgrube Doppelte Chance X2 (ROI +63.9%, 68.8% hitrate 2026/27). BL vs 3.Liga, Leipzig als klarer Favorit — DC X2 bündelt sicher. Vorbegegnung 17.08.2024 Leipzig 4:1 Essen. 2:0-Insurance NICHT im Pokal. 1.5% = 15 EUR. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
+          "_markt_mix_dc_downgrade": true
         },
         {
           "id": "rwe-rbl-2",
@@ -462,14 +463,15 @@
       "tipps": [
         {
           "id": "gro-fca-1",
-          "kategorie": "safe",
+          "kategorie": "value",
           "markt": "Doppelte Chance Augsburg oder Remis (X2)",
           "quote": 1.2,
           "faire_quote": 1.12,
           "edge_prozent": 7.1,
           "empfohlener_einsatz_prozent": 2.0,
           "einsatz_euro": 20.0,
-          "begruendung": "Markt-Goldgrube Doppelte Chance X2 (ROI +63.9%, 68.8% hitrate). BL vs RL = klassischer SAFE-DC. Augsburg Rotation-fähig aber Klassenunterschied dominant. 2% = 20 EUR."
+          "begruendung": "Markt-Goldgrube Doppelte Chance X2 (ROI +63.9%, 68.8% hitrate). BL vs RL = klassischer SAFE-DC. Augsburg Rotation-fähig aber Klassenunterschied dominant. 2% = 20 EUR. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
+          "_markt_mix_dc_downgrade": true
         },
         {
           "id": "gro-fca-2",
@@ -608,7 +610,8 @@
       "quote": 1.2,
       "empfohlener_einsatz_prozent": 2.0,
       "einsatz_euro": 20.0,
-      "begruendung": "BL vs RL + Markt-Goldgrube DC X2 (+63.9% ROI). Augsburg Weiterkommen praktisch sicher."
+      "begruendung": "BL vs RL + Markt-Goldgrube DC X2 (+63.9% ROI). Augsburg Weiterkommen praktisch sicher.",
+      "rang": 1
     },
     {
       "spiel_id": "2026-10-27-rwe-rbl",
@@ -618,7 +621,8 @@
       "quote": 1.15,
       "empfohlener_einsatz_prozent": 1.5,
       "einsatz_euro": 15.0,
-      "begruendung": "BL vs 3.Liga + Markt-Goldgrube DC X2. Vorbegegnung 2024: Leipzig 4:1."
+      "begruendung": "BL vs 3.Liga + Markt-Goldgrube DC X2. Vorbegegnung 2024: Leipzig 4:1.",
+      "rang": 2
     },
     {
       "spiel_id": "2026-10-27-bvb-wer",
@@ -628,7 +632,8 @@
       "quote": 1.4,
       "empfohlener_einsatz_prozent": 1.5,
       "einsatz_euro": 15.0,
-      "begruendung": "BVB kommt von 1:0 vs Frankfurt, Guirassy fit, Kovac rotiert moderat. 2:0-Insurance NICHT im Pokal."
+      "begruendung": "BVB kommt von 1:0 vs Frankfurt, Guirassy fit, Kovac rotiert moderat. 2:0-Insurance NICHT im Pokal.",
+      "rang": 3
     },
     {
       "spiel_id": "2026-10-27-bvb-wer",
@@ -638,7 +643,8 @@
       "quote": 1.8,
       "empfohlener_einsatz_prozent": 1.5,
       "einsatz_euro": 15.0,
-      "begruendung": "Markt-Goldgrube Torschützen Jederzeit (+33.6% ROI). HR24 Form-Edge."
+      "begruendung": "Markt-Goldgrube Torschützen Jederzeit (+33.6% ROI). HR24 Form-Edge.",
+      "rang": 4
     },
     {
       "spiel_id": "2026-10-27-fle-ars",
@@ -648,7 +654,8 @@
       "quote": 1.1,
       "empfohlener_einsatz_prozent": 1.5,
       "einsatz_euro": 15.0,
-      "begruendung": "PL-Top-Team vs L2 — extremer Klassenunterschied, Markt-Goldgrube DC X2."
+      "begruendung": "PL-Top-Team vs L2 — extremer Klassenunterschied, Markt-Goldgrube DC X2.",
+      "rang": 5
     },
     {
       "spiel_id": "2026-10-27-bmg-ksc",
@@ -658,7 +665,8 @@
       "quote": 1.55,
       "empfohlener_einsatz_prozent": 1.0,
       "einsatz_euro": 10.0,
-      "begruendung": "Model-Prognose 81% für Über 2.5. BL vs 2.BL = Tor-Volumen. Vorsaison 3:1."
+      "begruendung": "Model-Prognose 81% für Über 2.5. BL vs 2.BL = Tor-Volumen. Vorsaison 3:1.",
+      "rang": 6
     },
     {
       "spiel_id": "2026-10-27-hsv-sge",
@@ -668,7 +676,8 @@
       "quote": 1.35,
       "empfohlener_einsatz_prozent": 0.5,
       "einsatz_euro": 5.0,
-      "begruendung": "Frankfurt leichter Favorit laut Preview, aber Krisen-Stimmung + Rotation. Markt-Goldgrube DC X2."
+      "begruendung": "Frankfurt leichter Favorit laut Preview, aber Krisen-Stimmung + Rotation. Markt-Goldgrube DC X2.",
+      "rang": 7
     },
     {
       "spiel_id": "2026-10-27-bvb-wer",
@@ -678,7 +687,8 @@
       "quote": 1.7,
       "empfohlener_einsatz_prozent": 1.0,
       "einsatz_euro": 10.0,
-      "begruendung": "BL-Duell 09.10. endete 2:2 (BTTS JA). Füllkrug-Edge."
+      "begruendung": "BL-Duell 09.10. endete 2:2 (BTTS JA). Füllkrug-Edge.",
+      "rang": 8
     },
     {
       "spiel_id": "2026-10-27-koe-fcu",
@@ -688,7 +698,8 @@
       "quote": 1.85,
       "empfohlener_einsatz_prozent": 0.5,
       "einsatz_euro": 5.0,
-      "begruendung": "Zwei BL-Teams in Pokal-Englische-Woche. Markt-Goldgrube Über 2.5."
+      "begruendung": "Zwei BL-Teams in Pokal-Englische-Woche. Markt-Goldgrube Über 2.5.",
+      "rang": 9
     }
   ],
   "kombis": [

@@ -51,14 +51,15 @@
       "tipps": [
         {
           "id": "psg-lyo-1",
-          "kategorie": "safe",
+          "kategorie": "value",
           "markt": "Sieg Paris Saint-Germain (90 Min)",
           "quote": 1.45,
           "faire_quote": 1.6,
           "edge_prozent": 10.0,
           "empfohlener_einsatz_prozent": 1.5,
           "einsatz_euro": 15.0,
-          "begruendung": "PSG bet365 ~1.42-1.48 (implied 67%). Trotz 4 Ausfällen Kader-Tiefe + Heimvorteil + CL-Hochgefühl 4-2 Barca. Lyon kommt mit 3-0-EL-Pleite und 4-Tage-Rhythmus. Markt-Mix-Pflicht Heim-Favorit: Sieg erfüllt. 2:0-Insurance GREIFT HIER NICHT (Ligue 1). 1.5% Kasse = 15 EUR."
+          "begruendung": "PSG bet365 ~1.42-1.48 (implied 67%). Trotz 4 Ausfällen Kader-Tiefe + Heimvorteil + CL-Hochgefühl 4-2 Barca. Lyon kommt mit 3-0-EL-Pleite und 4-Tage-Rhythmus. Markt-Mix-Pflicht Heim-Favorit: Sieg erfüllt. 2:0-Insurance GREIFT HIER NICHT (Ligue 1). 1.5% Kasse = 15 EUR. [Auto: SAFE-Confirm fehlt - Liga 'Ligue 1 2026/27 - 8. Spieltag (Posticipo-Montag)' in beobachtungs_ligen]",
+          "_safe_confirm_downgrade": true
         },
         {
           "id": "psg-lyo-2",
@@ -135,14 +136,15 @@
       "tipps": [
         {
           "id": "sev-osa-1",
-          "kategorie": "safe",
+          "kategorie": "value",
           "markt": "Doppelte Chance 1X (Sevilla oder Remis)",
           "quote": 1.25,
           "faire_quote": 1.33,
           "edge_prozent": 6.0,
           "empfohlener_einsatz_prozent": 1.5,
           "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube DC 1X (ROI +44.3%, Hitrate 75%). Dimers-Modell: Sevilla + Remis zusammen 75.2% — passt zur SAFE-Hitrate-Erwartung 75-90%. Heim-Faktor Pizjuan + Osasuna auswaerts historisch Mittelfeld. 1.5% Kasse = 15 EUR."
+          "begruendung": "Markt-Goldgrube DC 1X (ROI +44.3%, Hitrate 75%). Dimers-Modell: Sevilla + Remis zusammen 75.2% — passt zur SAFE-Hitrate-Erwartung 75-90%. Heim-Faktor Pizjuan + Osasuna auswaerts historisch Mittelfeld. 1.5% Kasse = 15 EUR. [Auto: SAFE-Confirm fehlt - Liga 'LaLiga 2026/27 - Jornada 10 (Posticipo)' in beobachtungs_ligen]",
+          "_safe_confirm_downgrade": true
         },
         {
           "id": "sev-osa-2",
@@ -181,172 +183,8 @@
       "kontext_check_status": "OK"
     }
   ],
-  "einzeltipps": [
-    {
-      "spiel_id": "2026-10-26-psg-lyo",
-      "spiel_label": "PSG vs Lyon",
-      "markt": "Sieg Paris Saint-Germain (90 Min)",
-      "kategorie": "safe",
-      "quote": 1.45,
-      "einsatz_euro": 15.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Heim-Favorit ~1.45 (implied 67%), CL-Hochgefühl 4-2 Barca, Lyon mit 3-0-EL-Pleite + 4-Tage-Rhythmus. Pflicht-Markt-Mix Heim-Favorit = Sieg. 2:0-Insurance NICHT in Ligue 1.",
-      "rang": 1
-    },
-    {
-      "spiel_id": "2026-10-26-sev-osa",
-      "spiel_label": "Sevilla vs Osasuna",
-      "markt": "Doppelte Chance 1X (Sevilla oder Remis)",
-      "kategorie": "safe",
-      "quote": 1.25,
-      "einsatz_euro": 15.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Hitrate ~75% (Dimers 75.2% Sevilla+Remis). Markt-Goldgrube DC 1X (+44.3% ROI). Konservativster Weg Heim-Favorit mitzunehmen ohne gegen Arrasate-Trend zu wetten.",
-      "rang": 2
-    },
-    {
-      "spiel_id": "2026-10-26-psg-lyo",
-      "spiel_label": "PSG vs Lyon",
-      "markt": "Doué Torschuetze jederzeit",
-      "kategorie": "value",
-      "quote": 2.5,
-      "einsatz_euro": 15.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Goldgrube Torschuetzen Jederzeit (+47.4% ROI). HR24-Form: Doué 2 Tore in 2 Spielen (Strasbourg + Barca). Mit Dembélé + Kvara out zentrale Rolle. Einwechslungs-Boost Akliouche.",
-      "rang": 3
-    },
-    {
-      "spiel_id": "2026-10-26-sev-osa",
-      "spiel_label": "Sevilla vs Osasuna",
-      "markt": "Beide Teams treffen JA",
-      "kategorie": "value",
-      "quote": 1.75,
-      "einsatz_euro": 15.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Goldgrube BTTS JA (+24.5% ROI). Sevilla-Defense wacklig, Budimir trifft auswaerts regelmaessig. Hitrate 60-65%.",
-      "rang": 4
-    },
-    {
-      "spiel_id": "2026-10-26-psg-lyo",
-      "spiel_label": "PSG vs Lyon",
-      "markt": "Beide Teams treffen JA",
-      "kategorie": "wackel",
-      "quote": 1.8,
-      "einsatz_euro": 5.0,
-      "empfohlener_einsatz_prozent": 0.5,
-      "begruendung": "Goldgrube BTTS JA. Lyon beste Ligue-1-Defense (0.71 GT/Spiel), aber PSG kassiert aktuell etwa (2 vs Barca). HR4-Story-Konflikt → WACKEL.",
-      "rang": 5
-    },
-    {
-      "spiel_id": "2026-10-26-sev-osa",
-      "spiel_label": "Sevilla vs Osasuna",
-      "markt": "Über 2.5 Tore",
-      "kategorie": "wackel",
-      "quote": 2.0,
-      "einsatz_euro": 5.0,
-      "empfohlener_einsatz_prozent": 0.5,
-      "begruendung": "Goldgrube Ueber 2.5 (+52.5% ROI). Konflikt: Arrasate-Osasuna defensiv-kompakt. H2H letzte Jahre eher tor-arm. Deshalb WACKEL.",
-      "rang": 6
-    },
-    {
-      "spiel_id": "2026-10-26-sev-osa",
-      "spiel_label": "Sevilla vs Osasuna",
-      "markt": "Torschuetze Jederzeit: Ante Budimir",
-      "kategorie": "wackel",
-      "quote": 3.4,
-      "einsatz_euro": 5.0,
-      "empfohlener_einsatz_prozent": 0.5,
-      "begruendung": "Goldgrube Torschuetzen Jederzeit (+47.4% ROI). Budimir Backup-Boost-Qualifiziert, Sevilla-IV-Umbruch. HR24 nur 2/3 → WACKEL.",
-      "rang": 7
-    },
-    {
-      "spiel_id": "2026-10-26-psg-lyo",
-      "spiel_label": "PSG vs Lyon",
-      "markt": "Nuamah Torschuetze jederzeit",
-      "kategorie": "wackel",
-      "quote": 3.8,
-      "einsatz_euro": 5.0,
-      "empfohlener_einsatz_prozent": 0.5,
-      "begruendung": "Lyons Top-Scorer (3 Ligue 1 / 5 total). HR24 nur 2/3: Form-Edge wackelig (letztes Spiel 0-3 bei Hoffenheim torlos). Rotations-Risiko (EL-Rhythmus). Auswaerts gegen Top-Favorit → WACKEL.",
-      "rang": 8
-    }
-  ],
+  "einzeltipps": [],
   "kombis": [
-    {
-      "name": "🛡️ Safe-Doppel: PSG Sieg + Sevilla BTTS",
-      "kategorie": "safe",
-      "beine": [
-        {
-          "spiel_id": "2026-10-26-psg-lyo",
-          "spiel_label": "PSG vs Lyon",
-          "markt": "Sieg Paris Saint-Germain (90 Min)",
-          "quote": 1.45,
-          "kategorie": "safe"
-        },
-        {
-          "spiel_id": "2026-10-26-sev-osa",
-          "spiel_label": "Sevilla vs Osasuna",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.75,
-          "kategorie": "value"
-        }
-      ],
-      "gesamtquote": 2.54,
-      "rechnung": "1.45 x 1.75 = 2.54",
-      "einsatz_euro": 20.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "SAFE-Doppel mit nur 2 Spielen im Fenster — Range 3-5x nicht erreichbar, 2.54x ist der ehrliche Wert. PSG-Sieg = Heim-Favorit-Pflicht, Sevilla-BTTS = Markt-Goldgrube. Layer-2 OK (1 Sieg-Outcome). 2.0% Kasse = 20 EUR."
-    },
-    {
-      "name": "⚖️ Balance: Doué Torschütze + Sevilla Über 2.5",
-      "kategorie": "balance",
-      "beine": [
-        {
-          "spiel_id": "2026-10-26-psg-lyo",
-          "spiel_label": "PSG vs Lyon",
-          "markt": "Doué Torschuetze jederzeit",
-          "quote": 2.5,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-10-26-sev-osa",
-          "spiel_label": "Sevilla vs Osasuna",
-          "markt": "Über 2.5 Tore",
-          "quote": 2.0,
-          "kategorie": "wackel"
-        }
-      ],
-      "gesamtquote": 5.0,
-      "rechnung": "2.5 x 2.0 = 5.00",
-      "einsatz_euro": 8.0,
-      "empfohlener_einsatz_prozent": 0.8,
-      "begruendung": "Balance-Doppel mit zwei Markt-Goldgruben (Torschuetzen Jederzeit + Ueber 2.5). Doué in Form, Sevilla–Osasuna statistisch tor-neutral aber Goldgrube. Range 6-10x bei 2 Spielen nicht erreichbar — 5.00x ist der Punkt wo faire Hitrate und Quote ausbalancieren. 0.8% = 8 EUR."
-    },
-    {
-      "name": "🎯 Risiko: Doué Doppelpack + Budimir trifft",
-      "kategorie": "risk",
-      "beine": [
-        {
-          "spiel_id": "2026-10-26-psg-lyo",
-          "spiel_label": "PSG vs Lyon",
-          "markt": "Doué Doppelpack (2+ Tore)",
-          "quote": 8.0,
-          "kategorie": "risk"
-        },
-        {
-          "spiel_id": "2026-10-26-sev-osa",
-          "spiel_label": "Sevilla vs Osasuna",
-          "markt": "Torschuetze Jederzeit: Ante Budimir",
-          "quote": 3.4,
-          "kategorie": "wackel"
-        }
-      ],
-      "gesamtquote": 27.2,
-      "rechnung": "8.0 x 3.4 = 27.20",
-      "einsatz_euro": 2.5,
-      "empfohlener_einsatz_prozent": 0.25,
-      "begruendung": "Risiko-Konstrukt um die beiden Form-Torschuetzen der heutigen Spiele: Doué 2 Tore in 2 Spielen (HR24 Form-Edge), Budimir Volumen-9er mit Backup-Boost. Quote 8.00 fuer Doué-Doppelpack bei bet365 LIVE pruefen (variiert zwischen 7.00 und 10.00 je nach Markt). Doppelpack-Realitaet: statistisch ~10% Hitrate bei Spitzenstuermer vs 1.5-Tore-Favorit. 0.25% = 2.50 EUR."
-    },
     {
       "name": "🚀 Moonshot: Doué Doppelpack + Budimir Doppelpack",
       "kategorie": "moonshot",
