@@ -3645,7 +3645,31 @@
       "lesson": "PSG-Lyon war fuer So 25.10. 20:45 angesetzt, wurde per LFP-Entscheidung aufgrund Pariser Sicherheitslage/Protest-Risiko auf Mo 26.10. verschoben (Reuters, L'Equipe). 4 Einzeltipps und ein Bein in der Safe-Kombi bleiben offen und werden in der Auswertung vom 27.10. nachgezogen. Operatives Learning: wenn die Vorbereitungsroutine am Donnerstag/Freitag auf PSG-Spiele tippt und am Wochenende Protest-Nachrichten ueber Paris laufen, Watchdog-Routinen soll kurzfristig den LFP-Spielplan-Status checken (noch nicht automatisiert).",
       "bezug_spiel_id": "2026-10-25-psg-ol",
       "trigger": "8a"
+    },
+    {
+      "datum": "2026-10-27",
+      "kategorie": "Einwechsler-Scoring (PSG-Lyon): Kein Boost fuer Doué, obwohl beide PSG-Tore von Subs kamen",
+      "lesson": "PSG-Lyon 2:0 - Mayulu (72') und Godts (84') als Einwechsler. Doué wurde ca. 81. ausgewechselt. ABER: Mayulu und Godts waren bereits VOR Doué-Auswechslung auf dem Platz (Mayulu ~65. fuer Torres, Godts ~57-65. fuer Neves). Doué's direkter Ersatz (Beraldo/Ndjantou) traf nicht. Einwechslungs-Boost greift nach Hartregel NUR fuer den direkten Ersatz NACH der Auswechslung - nicht fuer alle Subs eines Spiels. Lehre: Bei getippten Spielern, die typischerweise frueh ausgewechselt werden (Doué in zweiter Haelfte raus-genommen), ist der Boost-Rechenweg: wer ist der naechste Sub NACH der Auswechslung? Oft ein defensiver Spieler (hier Beraldo), kein Scorer. Backup-Boost-Hoffnung oft fiktiv.",
+      "bezug_spiel_id": "2026-10-26-psg-lyo"
+    },
+    {
+      "datum": "2026-10-27",
+      "kategorie": "HR4 Story-Konflikt: Beide BTTS-JA-Tipps + Ueber 2.5 verloren (3/3 Konflikt-Tipps aus)",
+      "lesson": "Am 26.10. drei WACKEL/VALUE-Tipps mit HR4-Story-Konflikt (Lyon-Defense gegen PSG-BTTS, Arrasate-Kompaktheit gegen Sev-BTTS, Arrasate gegen Sev-Ueber 2.5) - ALLE verloren. Die HR4-Downgrade-Entscheidung (von VALUE auf WACKEL) hat die Verluste quantitativ limitiert (5EUR statt 15EUR). Trotzdem: 3/3 Konflikt-Tipps aus heisst, dass die Taktik-Signale (Lyon-Defense best in Ligue 1, Arrasate 2-0 Debuet) staerkere Prediktoren waren als die Markt-Goldgruben. Lehre: Wenn bei einem Spiel BEIDE Teams starke defensive Signale haben (nicht nur eins), ist nicht nur ein Downgrade angemessen, sondern eher gar kein Tipp auf BTTS JA / Ueber 2.5 in dem Spiel.",
+      "bezug_spiel_id": "2026-10-26-sev-osa"
+    },
+    {
+      "datum": "2026-10-27",
+      "kategorie": "Beobachtungs-Liga-Alarm: Ligue 1 + LaLiga Posticipo (-63.7% bzw. -68.8% ROI 30d bei n=4)",
+      "lesson": "Statistik zeigt neue Beobachtungs-Ligen 'Ligue 1 2026/27 - 8. Spieltag (Posticipo-Montag)' und 'LaLiga 2026/27 - Jornada 10 (Posticipo)' mit ROI 30d < -60% bei 4 Tipps. Caveat: Die Liga-Namen enthalten Spieltag-Suffix - jedes 'Posticipo' am Montag wird als eigene Liga gefuehrt. Fuer die statistik_berechnen.py-Logik wirkt das wie n=4 pro Posticipo-Montag. Trotzdem: BTTS/Ueber/Torschuetzen auf 2-Spiele-Dossiers mit nur 2 Zielspielen sind strukturell riskant, weil die Wachstums- und Fehler-Chancen zusammengebuendelt sind. Lehre: Bei 2-Spiele-Fenstern Einzel-Set kleiner halten (max 4 Einzel statt 8) und Kombi-Set auf 2-3 statt 4.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-10-27",
+      "kategorie": "Rolling 30d ROI dreht negativ (von +4.1% auf -5.1%) - Stufe-2-Freischaltung weiter blockiert",
+      "lesson": "Letzte 30 Tage: 66 Tipps, 65.6% Trefferquote, Netto -3.14EUR, ROI -5.1%. Vor heute war es noch +4.1% positiv. Zwei schlechte Dossiers (24.10. und 26.10.) kippen den Rolling-Durchschnitt. Lehre: Trefferquote 65.6% bei ROI -5.1% ist der klassische Fall 'wir treffen oft, aber zu niedrige Quoten gegenueber den Vernichtern'. Konkret: SAFE/VALUE mit Quote 1.25-1.45 bringen bei 65-70% Hitrate zu wenig Netto, waehrend 2-3 WACKEL-Verluste bei 5EUR Einsatz x 6-8 Tipps pro Tag das Gewinnen auffressen. Stufe-2-Freischaltung (laut CLAUDE.md: Rolling 30d > +5%) BLEIBT BLOCKIERT. Nicht aggressiver werden - eher noch defensiver, weniger WACKEL-Einzel.",
+      "bezug_spiel_id": null
     }
   ],
-  "stand": "2026-10-26"
+  "stand": "2026-10-27T06:17:00+00:00"
 }

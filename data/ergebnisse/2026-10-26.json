@@ -1,0 +1,737 @@
+{
+  "datum": "2026-10-26",
+  "erstellt_am": "2026-10-26T13:30:00+00:00",
+  "hinweis": "🐚 Montags-Posticipo-Doppel 2026-10-26 (Saison 2026/27, Kasse 1000€, Stufe 1). Hauptroutine-Lauf, der Watchdog-Entwurf 12:50 UTC ist überschrieben — er hatte PSG–Lyon komplett übersehen, das ist das Top-Spiel des Tages. Heute GENAU ZWEI Zielliga-Spiele in Berliner Zeit: 20:30 PSG–Lyon (Ligue 1 J8, Posticipo wegen Ballon d'Or-Kollision) + 21:00 Sevilla–Osasuna (LaLiga J10). PSG–Lyon ist ein echtes Spitzenduell (beide 14 Pkt, Gewinner geht an die Tabellenspitze), aber mit massiver PSG-Ausfallliste (Dembélé, Kvara, Marquinhos, Nuno Mendes) und einer Lyon-Mannschaft, die 4 Tage nach 0-3-EL-Pleite bei Hoffenheim antritt. 2:0-Insurance greift NUR Bundesliga + CL — bei Ligue 1 und LaLiga HEUTE NICHT. Vier Kombis in realistischer Form (2-Bein, da nur 2 Spiele im Fenster) — Risiko- und Moonshot-Range leicht unter Standard, dafür ehrlich dokumentiert.",
+  "spiele": [
+    {
+      "id": "2026-10-26-psg-lyo",
+      "liga": "Ligue 1 2026/27 - 8. Spieltag (Posticipo-Montag)",
+      "heim": "Paris Saint-Germain",
+      "gast": "Olympique Lyon",
+      "anstoss": "2026-10-26T20:30:00+01:00",
+      "stadion": "Parc des Princes, Paris",
+      "saison_kontext": {
+        "parallel_heim": "UEFA Champions League Ligaphase Spieltag 3 war Di 20.10. (PSG 4-2 Barcelona, Heimsieg). Nächster CL-Termin erst 04.11. (ST 4 bei Tottenham). Keine akute Doppelbelastung diese Woche — PSG hat ligeintern 6 Tage Pause nach 3-1 bei Strasbourg (17.10.).",
+        "parallel_gast": "UEFA Europa League Ligaphase: Lyon spielte Do 22.10. bei TSG Hoffenheim (0-3-Niederlage auswärts) — nur 4 Tage Pause bis Mo-Posticipo. Starker Rotations-/Müdigkeits-Druck. Nächster EL-Termin Do 06.11. (Heim gegen PAOK).",
+        "saisonziel_heim": "Titel-Verteidigung Ligue 1 + CL-Lauf wiederholen. Nach J7: 14 Pkt aus 7 Spielen (W4 D2 L1), Platz 2 punktgleich mit Lyon, nur schlechtere Tordifferenz. Jüngste Form in Ligue 1: W-W-W (3-1 Le Mans, 3-1 Strasbourg) plus Prestige-Sieg 4-2 vs Barcelona in CL. Trainer Luis Enrique seit 2023. Saisonziel: Doublé Ligue 1 + CL erneut.",
+        "saisonziel_gast": "Nach J7: 14 Pkt, Platz 1 nur dank besserer Tordifferenz. Trainer Paulo Fonseca (seit Sommer 2026, Ex-Milan). Jüngste Ligue-1-Form gemischt: W4 D2 L1, aber zuletzt 2-1 Niederlage bei Lens (09.10.), 2-1 Heimsieg vs Nice (18.10.), dann 0-3-Pleite bei Hoffenheim (EL 22.10.). Beste Defensive der Ligue 1 (0.71 Gegentore/Spiel). Saisonziel: CL-Quali (Platz 1-4), realistisch Top-3 wenn der Mini-Dip nicht größer wird.",
+        "motivations_asymmetrie": "PSG ist klarer Heim-Favorit (bet365 Sieg ~1.42-1.48, implied ~67%) trotz 4 wichtiger Ausfälle (Dembélé Oberschenkel, Kvara Kreuzband Saison-Aus, Marquinhos Oberschenkel, Nuno Mendes Muskel). Gewinner geht alleine an Tabellenspitze — maximaler Prestige-Druck. Lyon reist mit 3-0-EL-Pleite und 4-Tage-Rhythmus an, Fonseca MUSS wegen Rotations-Druck Kräfte sparen oder optimal verteilen. PSG kommt frisch (6 Tage) + CL-Hochgefühl (4-2 Barca). Edge klar bei PSG trotz Lücken in der Defensive (Beraldo + Lucas Hernández als IV-Paarung, Hakimi rechts).",
+        "recovery_heim": "6 Tage seit 3-1 bei Strasbourg (17.10., Dembélé-Doué-Zabarnyi), dazwischen Di 20.10. 4-2 vs Barca (CL) — also 6 Tage ohne Spiel nach dem CL-Highlight. Frische + Rhythmus. Nächster Pflichttermin erst Sa 31.10. (Ligue 1 J9), Rotation gegen Lyon unnötig außer bei Verletzten.",
+        "recovery_gast": "Nur 4 Tage seit 0-3-EL-Pleite bei Hoffenheim (Do 22.10.). Kurzer Rhythmus zusätzlich zu Rotations-Druck Richtung Do 06.11. (EL vs PAOK). Fonseca könnte Nuamah / Tolisso schonen oder nur 60 Minuten geben.",
+        "quellen": [
+          "https://www.psg.fr/en/content/ligue-1-2026-202-matchday-8-fixtures-paris-saint-germain-olympique-lyonnais",
+          "https://www.psg.fr/en/content/paris-saint-germain-olympique-lyonnais-the-preview-ligue-1-20262027",
+          "https://www.fotmob.com/matches/lyon-vs-paris-saint-germain/36b9fd",
+          "https://www.fotmob.com/teams/9847/overview/paris-saint-germain",
+          "https://www.fotmob.com/teams/9748/overview/olympique-lyonnais",
+          "https://www.transfermarkt.de/paris-saint-germain/startseite/verein/583",
+          "https://www.transfermarkt.de/olympique-lyon/startseite/verein/1041",
+          "https://www.sofascore.com/football/match/olympique-lyonnais-paris-saint-germain/UHsZH",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Olympique_Lyonnais_season",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Paris_Saint-Germain_FC_season",
+          "https://www.beinsports.com/en-us/soccer/ligue-1/articles/psg-vs-lyon-rescheduled-for-monday-october-26-at-the-same-time-as-the-ballon-d-or-2026-10-23",
+          "https://www.goal.com/en-in/betting/tips/psg-vs-lyon-predictions-26-10-2026/A%3Ablt9cf2e54d79f019ad"
+        ]
+      },
+      "news": [
+        "Anstoss ursprünglich So 20:45 — verlegt auf Mo 20:30 wegen Terminkollision mit Ballon d'Or (bestätigt bei beIN Sports und PSG offiziell).",
+        "PSG-Trainer: Luis Enrique (seit 2023). Lyon-Trainer: Paulo Fonseca (seit Sommer 2026, Ex-Milan/Lille/Roma).",
+        "PSG Ausfälle (bestätigt via mehrere Previews — bet365 live gegenprüfen): Khvicha Kvaratskhelia (Kreuzband-Riss, Saison-Aus), Ousmane Dembélé (Oberschenkel), Marquinhos (Oberschenkel), Nuno Mendes (Muskel), Longoni (fraglich).",
+        "PSG wahrscheinliche Startelf (4-3-3, laut WhoScored-Preview): Safonov - Hakimi, Zabarnyi, Beraldo, Lucas Hernández - João Neves, Vitinha, Fabián Ruiz - Barcola/Akliouche, Ferran Torres, Désiré Doué.",
+        "Lyon Ausfälle: Ouedraogo (Knie), Tagliafico (Knie), Nakamura (Sperre).",
+        "Lyon wahrscheinliche Startelf (4-2-3-1): Greif - Athekame, Bacher, Niakhaté, Abner - Tessmann, Bidstrup - Boudache, Tolisso, Duranville - Nuamah.",
+        "PSG letzte 3 Spiele: 3-1 Le Mans (10.10. H, Ligue 1), 3-1 Strasbourg (17.10. A, Ligue 1 — Doué 90'+3'), 4-2 Barcelona (20.10. H, CL — Doué 38' + Hernández + Vitinha + Fabián Ruiz).",
+        "Lyon letzte 3 Spiele: 2-1 bei Lens (09.10. L), 2-1 vs Nice (18.10. W), 0-3 bei Hoffenheim (22.10. L, Europa League).",
+        "Top-Scorer: PSG — Doué in Top-Form (2 Tore in 2 Spielen, Ligue 1 + CL), Ferran Torres neuer #9. Lyon — Ernest Nuamah (3 Ligue 1 / 5 total in 7 Spielen).",
+        "Lyon-Defense: 0.71 Gegentore/Spiel in Ligue 1 — beste Quote der Liga.",
+        "Head-to-Head Ligue 1: PSG dominiert zuletzt (6 Siege letzte 8 Begegnungen), aber vereinzelte Lyon-Erfolge wenn Rotation groß war.",
+        "Bookie-Quoten (goal.com/bet365-Range): Sieg PSG 1.42-1.48, Remis 5.00-5.50, Sieg Lyon 7.00-7.50. BTTS JA ~1.75-1.85. Über 2.5 ~1.55-1.65.",
+        "2:0-INSURANCE GREIFT HIER NICHT (Ligue 1 nicht abgedeckt — nur Bundesliga + CL)."
+      ],
+      "tipps": [
+        {
+          "id": "psg-lyo-1",
+          "kategorie": "safe",
+          "markt": "Sieg Paris Saint-Germain (90 Min)",
+          "quote": 1.45,
+          "faire_quote": 1.6,
+          "edge_prozent": 10.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "PSG bet365 ~1.42-1.48 (implied 67%). Trotz 4 Ausfällen Kader-Tiefe + Heimvorteil + CL-Hochgefühl 4-2 Barca. Lyon kommt mit 3-0-EL-Pleite und 4-Tage-Rhythmus. Markt-Mix-Pflicht Heim-Favorit: Sieg erfüllt. 2:0-Insurance GREIFT HIER NICHT (Ligue 1). 1.5% Kasse = 15 EUR."
+        },
+        {
+          "id": "psg-lyo-2",
+          "kategorie": "value",
+          "markt": "Doué Torschuetze jederzeit",
+          "quote": 2.5,
+          "faire_quote": 2.1,
+          "edge_prozent": 16.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (ROI +47.4%). HR24-Form-Edge: Doué 2 Tore in den letzten 2 Spielen (90'+3' vs Strasbourg 17.10., 38' vs Barcelona 20.10. CL). Mit Dembélé + Kvara verletzt rückt Doué in zentrale Offensiv-Rolle. Backup-Einwechslungs-Boost: Akliouche als Joker (hatte 68' vs Le Mans getroffen) — Tore nach Doué-Auswechslung zählen für den Tipp. 1.5% = 15 EUR"
+        },
+        {
+          "id": "psg-lyo-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.8,
+          "faire_quote": 2.0,
+          "edge_prozent": -10.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Markt-Goldgrube BTTS JA (ROI +24.5%). Pro: PSG hat 2 vs Barca kassiert (IV Beraldo/Hernández nicht fest). Contra: Lyon beste Ligue-1-Defensive (0.71 GT/Spiel), aber Lyon-Offensive auswärts gegen Top-Favorit historisch schwach. HR4-Story-Konflikt: Lyons Defensiv-DNA sagt eher 'JA' (Lyon kriegt Tore), aber Lyons Offensive-vs-PSG ist das Fragezeichen. Deshalb WACKEL. 0.5% = 5 EUR."
+        },
+        {
+          "id": "psg-lyo-4",
+          "kategorie": "wackel",
+          "markt": "Nuamah Torschuetze jederzeit",
+          "quote": 3.8,
+          "faire_quote": 3.3,
+          "edge_prozent": 15.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Lyons Top-Scorer (3 Ligue 1 / 5 total in 7 Spielen). HR24 nur 2/3: Volumen OK, Form-Edge wackelig (letztes Spiel 0-3-Pleite bei Hoffenheim, dort torlos). Rotations-Risiko wegen EL-Rhythmus (siehe recovery_gast). Auswärts gegen Top-Favorit — 1 Chance könnte reichen, aber nicht sicher. 0.5% = 5 EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "2:0",
+        "heim_tore": 2,
+        "gast_tore": 0,
+        "status": "FINISHED",
+        "quelle": "WebSearch 2026-10-27 (ESPN/VAVEL/footmercato/vzglyad.uz)"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "psg-lyo-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.45,
+          "kommentar": "PSG 2:0 — direkter Sieg erfuellt. 2:0-Insurance greift hier NICHT (Ligue 1), ist aber auch nicht noetig: ganz regulaerer Sieg."
+        },
+        {
+          "tipp_id": "psg-lyo-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Doué kein Tor. Doué wurde laut VAVEL etwa 81. Minute ausgewechselt — seine direkten Ersatzspieler (laut VAVEL Ndjantou/Beraldo) trafen danach NICHT. Senny Mayulu (72') und Mika Godts (84') scorten als Einwechsler, waren aber bereits vor Doué-Aus auf dem Platz (Mayulu kam fuer Ferran Torres, Godts fuer Joao Neves). Deshalb kein Einwechslungs-Boost."
+        },
+        {
+          "tipp_id": "psg-lyo-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "BTTS JA verlangt beide Teams. Lyon blieb torlos (Endstand 2:0). HR4-Story-Konflikt hat sich bestaetigt: Lyons Offensive auswaerts gegen PSG machtlos."
+        },
+        {
+          "tipp_id": "psg-lyo-4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nuamah kein Tor. Lyon kam offensiv kaum ins Spiel (0 Tore gesamt). Rotations-Risiko aus recovery_gast hat sich realisiert."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": 72,
+            "team": "heim",
+            "spieler": "Senny Mayulu",
+            "stand_danach": "1:0",
+            "quelle": "goal.com + footmercato + vzglyad.uz"
+          },
+          {
+            "min": 84,
+            "team": "heim",
+            "spieler": "Mika Godts",
+            "stand_danach": "2:0",
+            "quelle": "goal.com + fotmob + vzglyad.uz"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung. Halbzeit 0:0, PSG trifft erst in Schlussphase durch zwei Einwechselspieler. Lyon zu keinem Zeitpunkt in Fuehrung."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Remis/Heim",
+          "kein_team_zu_null": false,
+          "heim_zu_null": true,
+          "beide_haelften_tor": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Luis Enrique Rotation",
+            "details": "PSG mit vielen Pflichtausfaellen (Dembélé/Kvara/Marquinhos/Nuno Mendes) + geschonten Beinen. Doué/Akliouche/Ferran Torres/Zaire-Emery in der zweiten Haelfte alle rausgenommen."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Senny Mayulu",
+            "aus": "Ferran Torres",
+            "minute": 65,
+            "tor": true,
+            "details": "Mayulu kam fuer Ferran Torres (~65.), erzielte in der 72. das 1:0 — Vorlage Godts."
+          },
+          {
+            "team": "heim",
+            "ein": "Mika Godts",
+            "aus": "Joao Neves (laut einer Quelle)",
+            "minute": 65,
+            "tor": true,
+            "details": "Godts kam zwischen 57. und 65. (Quellen unterschiedlich), erzielte in der 84. das 2:0 — Vorlage Ndjantou. NICHT direkter Ersatz von Doué (Doué kam erst spaeter raus)."
+          }
+        ],
+        "auffaellige_patterns": [
+          "PSG-Einwechsler machen beide Tore — Luis-Enrique-Kadertiefe in Reinform (Zweit-Elf schlaegt Lyon)",
+          "Lyon unter 4-Tage-EL-Rueckkehr tatsaechlich offensiv neutralisiert — recovery_gast-Prognose hat sich 1:1 bestaetigt",
+          "Doué-Form-Edge brach bei zweiter Haelfte zusammen — ohne Dembélé fehlt der zweite Fluegel-Druck, PSG spielte zu zentral"
+        ],
+        "quellen": [
+          "https://www.espn.com/soccer/report/_/gameId/401876422",
+          "https://www.goal.com/en/news/psg-player-ratings-vs-lyon/bltaa508da75a0d621e",
+          "https://www.vavel.com/en-us/soccer/2026/10/26/1276749-psg-vs-lyon-live-score-ligue-1.html",
+          "https://www.footmercato.net/live/7347100937878128418-paris-saint-germain-vs-lyon",
+          "https://vzglyad.uz/en/2026/10/27/psg-lyon-2-0-mayulu-godts-ligue-1-october-26-2026"
+        ]
+      }
+    },
+    {
+      "id": "2026-10-26-sev-osa",
+      "liga": "LaLiga 2026/27 - Jornada 10 (Posticipo)",
+      "heim": "Sevilla FC",
+      "gast": "CA Osasuna",
+      "anstoss": "2026-10-26T21:00:00+01:00",
+      "stadion": "Estadio Ramón Sánchez-Pizjuán, Sevilla",
+      "saison_kontext": {
+        "parallel_heim": "Copa del Rey 1. Runde Mi 28.10. (Partido unico ggf. auswaerts gegen Sieger Guimar/Hortaleza, Zweitligist oder darunter) — nur 2 Tage Pause nach heute, Rotations-Druck Richtung Mittwoch, aber heute (Mo) ist ligatechnisch das wichtigere Spiel.",
+        "parallel_gast": "Copa del Rey 1. Runde Mi 28.10. oder Do 29.10. (RFEF-Fenster) — Rival aus Vorrunde noch nicht offiziell, aber ebenfalls Pflicht-Englische-Woche. Spiegelbildlicher Belastungs-Rhythmus zum Sevilla.",
+        "saisonziel_heim": "Mittelfeld-Konsolidierung unter Luis Garcia Plaza (seit 24.03.2026, Vertrag bis 30.06.2027). Nach J9: 6. Platz, 14 Pkt aus 9 Spielen (W4 D2 L3), Tordifferenz -2. Realistisches Saisonziel: einstellige Platzierung, bestenfalls Conference-Quali. Letzter Lauf gemischt (W-L-L-D-L bzw. zuletzt 3-3 bei Levante, 4-1 bei Real Madrid).",
+        "saisonziel_gast": "Klassenerhalt mit Zusatz-Perspektive. Nach J9: 10. Platz, 11 Pkt aus 9 Spielen (W3 D2 L4). Jagoba Arrasate seit 12.10. (Vertrag bis 2029-06) uebernahm von Luis Miguel Ramis. Erstes Arrasate-Spiel: 2-0 Heimsieg gegen Racing Santander (J9 am 18.10.). Arrasate kennt El Sadar aus 2018-2024 (256 Pflichtspiele) — schnell integrierte Mannschaft. Fokus: Zu-Null-Quote + kompaktes 4-2-3-1 mit intensivem Pressing.",
+        "motivations_asymmetrie": "Sevilla ist Heim-Favorit (bet365 Sieg-Quote ~1.90), kommt aber aus einem 4-1 bei Real Madrid und hat die Defensive im Umbruch. Osasuna ist frisch durch den Arrasate-Reset und spielt mit Trainer-Effekt-Energie (1. Spiel 2-0 zu Null). Beide Teams haben Mittwoch Copa-Pflicht, aber kein Europapokal — die Rotations-Logik ist diesmal milder als bei CL-Teams. Head-to-Head der letzten Begegnungen draw-lastig (~50% Remis-Quote laut SportyTrader).",
+        "recovery_heim": "8 Tage seit J9 (So 18.10. 4-1-Niederlage im Bernabeu). Lange Pause, Beine frisch — aber mentales Nachwirken der Pleite. 2 Tage bis Copa-Pflicht, nicht ideal fuer Vollrotation.",
+        "recovery_gast": "8 Tage seit J9 (So 18.10. 2-0 Heimsieg gegen Racing Santander, Arrasates Debuet). Gleiche Pause wie Sevilla, zusaetzlich 1 Woche mehr Arrasate-Training. 2-3 Tage bis Copa-Pflicht, aber Osasuna rotiert dort typischerweise stark (Nebenschauplatz).",
+        "quellen": [
+          "https://www.whoscored.com/matches/1993948/preview/spain-laliga-2026-2027-sevilla-osasuna",
+          "https://www.laliga.com/en-GB/laliga-easports/standing",
+          "https://www.infobae.com/espana/agencias/2026/10/12/jagoba-arrasate-regresa-como-entrenador-de-osasuna-tras-la-destitucion-de-ramis/",
+          "https://rtvc.es/vencedor-atletico-union-guimar-sporting-hortaleza-medira-sevilla-copa-del-rey-2026-27/",
+          "https://www.sportytrader.com/en/betting-tips/sevilla-osasuna-382341/",
+          "https://betmines.com/match-preview/sevilla-vs-osasuna-prediction-match-preview-and-analysis-la-liga-26-10-2026"
+        ]
+      },
+      "news": [
+        "Sevilla-Trainer: Luis Garcia Plaza (seit 24.03.2026, Vertrag bis 30.06.2027).",
+        "Osasuna-Trainer: Jagoba Arrasate (NEU seit 12.10.2026 nach Entlassung Ramis). Vertrag bis 2029-06. Zweite Amtszeit nach 2018-2024.",
+        "Sevilla erwartete Startelf (laut WhoScored/BetMines Preview): 4-2-3-1 mit Lucien Agoume + Youssouf Fofana im Doppel-6er, Giorgi Kochorashvili trotz Wadenproblemen aufgestellt, Robbie Ure in der Spitze.",
+        "Sevilla Ausfaelle (laut Preview-Portale, bet365 live gegenpruefen): Marcao (Innenverteidiger), Miguel Sierra. Isaac Romero zurueck nach Sperre, aber vermutlich Bank/Joker.",
+        "Osasuna erwartete Startelf: 4-2-3-1 mit Moi Gomez, Jon Moncayola, Iker Munoz in Mittelfeld-Zone; Ante Budimir in der Spitze.",
+        "Osasuna Ausfaelle: Aimar Oroz (Oberschenkel), Romain Del Castillo. Weitere Namen in Previews widerspruechlich (Guridi, Herrando) — bet365 Aufstellungs-Vorschau live checken.",
+        "Head-to-Head (SportyTrader): Remis mit ~50% dominant, Osasuna ~33%, Sevilla ~17%.",
+        "Bookie-Quoten (BetMines/SportyTrader, Range): Sieg Sevilla 1.88-2.02, Remis 3.30-3.50, Sieg Osasuna 3.96-4.33.",
+        "Model-Pick Dimers: Sevilla 48.8% / Remis 26.4% / Osasuna 24.8%.",
+        "2:0-Insurance greift HIER NICHT (LaLiga nicht abgedeckt, nur Bundesliga + CL)."
+      ],
+      "tipps": [
+        {
+          "id": "sev-osa-1",
+          "kategorie": "safe",
+          "markt": "Doppelte Chance 1X (Sevilla oder Remis)",
+          "quote": 1.25,
+          "faire_quote": 1.33,
+          "edge_prozent": 6.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Markt-Goldgrube DC 1X (ROI +44.3%, Hitrate 75%). Dimers-Modell: Sevilla + Remis zusammen 75.2% — passt zur SAFE-Hitrate-Erwartung 75-90%. Heim-Faktor Pizjuan + Osasuna auswaerts historisch Mittelfeld. 1.5% Kasse = 15 EUR."
+        },
+        {
+          "id": "sev-osa-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.75,
+          "faire_quote": 1.65,
+          "edge_prozent": 6.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Markt-Goldgrube BTTS JA (ROI +24.5%, Hitrate 61.8%). Sevilla defensiv wacklig (4 Gegentore in J9 gegen Real, GD -2 saisonal). Osasuna mit Budimir als Zielspieler (hat zuletzt mehrfach beim Sevilla getroffen). Faire Hitrate 60-65% — exakt im VALUE-Range. 1.5% = 15 EUR."
+        },
+        {
+          "id": "sev-osa-3",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 2.0,
+          "faire_quote": 2.15,
+          "edge_prozent": -7.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +52.5%) — ABER Arrasate-Osasuna taktisch kompakt (historisch starke Zu-Null-Quote, Unter-2.5-Praeferenz). H2H letzte Spiele eher niedrig-torig. WACKEL statt VALUE wegen Taktik-Konflikt (HR4). 0.5% = 5 EUR."
+        },
+        {
+          "id": "sev-osa-4",
+          "kategorie": "wackel",
+          "markt": "Torschuetze Jederzeit: Ante Budimir",
+          "quote": 3.4,
+          "faire_quote": 3.0,
+          "edge_prozent": 13.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (ROI +47.4%). HR24-Check: Budimir zentraler 9er mit Backup-Qualitaet (Raul Garcia, Bakambu als Jokeroptionen → Einwechslungs-Boost greift) ✓; Sevilla-IV im Umbruch (Marcao verletzt) ✓. Form-Edge nicht hart belegt — daher WACKEL. 0.5% = 5 EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "endstand": "2:0",
+        "heim_tore": 2,
+        "gast_tore": 0,
+        "status": "FINISHED",
+        "quelle": "WebSearch 2026-10-27 (365scores + vzglyad.uz + fotmob)"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "sev-osa-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.25,
+          "kommentar": "Sevilla 2:0 — Heimsieg, DC 1X erfuellt. Markt-Goldgrube hat gehalten."
+        },
+        {
+          "tipp_id": "sev-osa-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "BTTS JA verlangt Tore beider Teams. Osasuna blieb torlos (Endstand 2:0 fuer Sevilla). Arrasate-Reset bringt zwar Defensivstabilitaet, aber auswaerts gegen Pizjuan reichte Osasunas Offensive nicht. HR4-Taktik-Konflikt bei Ueber 2.5 schlug auch hier zu."
+        },
+        {
+          "tipp_id": "sev-osa-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur 2 Tore (23' Romero, 82' Félix) — Unter 2.5. WACKEL-Entscheidung war korrekt. Arrasate-Osasuna-Kompaktheit hat gehalten."
+        },
+        {
+          "tipp_id": "sev-osa-4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Budimir kein Tor. Osasuna insgesamt torlos — selbst wenn Budimir ausgewechselt wurde (unklar), haette der Einwechslungs-Boost nichts bewirkt, weil kein Osasuna-Ersatz traf. HR24-Form-Edge war nicht hart belegt — WACKEL war angemessen."
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": 23,
+            "team": "heim",
+            "spieler": "Isaac Romero",
+            "assist": "Youssouf Fofana",
+            "stand_danach": "1:0",
+            "quelle": "365scores (24'), vzglyad.uz (23')"
+          },
+          {
+            "min": 82,
+            "team": "heim",
+            "spieler": "Alexis Sánchez (Félix laut Quelle)",
+            "assist": "Youssouf Fofana",
+            "stand_danach": "2:0",
+            "quelle": "vzglyad.uz — Scorername 'Félix', Vorname nicht eindeutig."
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung. Sevilla fuehrte durchgehend, kein Rueckstand oder Gleichstand nach 23. Minute."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Heim/Heim",
+          "kein_team_zu_null": false,
+          "heim_zu_null": true,
+          "beide_haelften_tor": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Isaac Romero",
+            "details": "Nach Sperre zurueck — als Joker/Startelf getroffen (23' Tor). Von Preview als Bank-Option markiert, wurde zum Matchwinner."
+          },
+          {
+            "team": "gast",
+            "spieler": "Arrasate-Reset",
+            "details": "Zweites Spiel unter Arrasate — der 2-0-Debuet-Effekt gegen Racing Santander hielt auswaerts nicht."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Fofana doppelter Vorlagengeber — Markt 'Fofana Assist' waere Goldgrube gewesen, aber bei bet365 DE verboten (Einzel-Assists nicht erlaubt)",
+          "Osasuna-Trainer-Effekt bei Heimdebuet (2-0) nicht auswaerts replizierbar — eine Lesson zur Arrasate-Welle",
+          "Budimir weiter ohne Tor beim Sevilla-Auswaertsspiel — Volumen-Rolle alleine reicht nicht, wenn Zuspielqualitaet fehlt"
+        ],
+        "quellen": [
+          "https://www.365scores.com/football/match/laliga-11/osasuna-sevilla-135-143-11",
+          "https://vzglyad.uz/en/2026/10/27/sevilla-osasuna-2-0-romero-felix-la-liga-2026",
+          "https://www.foxsports.com/soccer/la-liga-sevilla-vs-osasuna-oct-25-2026-game-boxscore-909049",
+          "https://www.sofascore.com/football/match/sevilla-osasuna/vgbsIgb"
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "spiel_id": "2026-10-26-psg-lyo",
+      "spiel_label": "PSG vs Lyon",
+      "markt": "Sieg Paris Saint-Germain (90 Min)",
+      "kategorie": "safe",
+      "quote": 1.45,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Heim-Favorit ~1.45 (implied 67%), CL-Hochgefühl 4-2 Barca, Lyon mit 3-0-EL-Pleite + 4-Tage-Rhythmus. Pflicht-Markt-Mix Heim-Favorit = Sieg. 2:0-Insurance NICHT in Ligue 1.",
+      "rang": 1
+    },
+    {
+      "spiel_id": "2026-10-26-sev-osa",
+      "spiel_label": "Sevilla vs Osasuna",
+      "markt": "Doppelte Chance 1X (Sevilla oder Remis)",
+      "kategorie": "safe",
+      "quote": 1.25,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Hitrate ~75% (Dimers 75.2% Sevilla+Remis). Markt-Goldgrube DC 1X (+44.3% ROI). Konservativster Weg Heim-Favorit mitzunehmen ohne gegen Arrasate-Trend zu wetten.",
+      "rang": 2
+    },
+    {
+      "spiel_id": "2026-10-26-psg-lyo",
+      "spiel_label": "PSG vs Lyon",
+      "markt": "Doué Torschuetze jederzeit",
+      "kategorie": "value",
+      "quote": 2.5,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Goldgrube Torschuetzen Jederzeit (+47.4% ROI). HR24-Form: Doué 2 Tore in 2 Spielen (Strasbourg + Barca). Mit Dembélé + Kvara out zentrale Rolle. Einwechslungs-Boost Akliouche.",
+      "rang": 3
+    },
+    {
+      "spiel_id": "2026-10-26-sev-osa",
+      "spiel_label": "Sevilla vs Osasuna",
+      "markt": "Beide Teams treffen JA",
+      "kategorie": "value",
+      "quote": 1.75,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Goldgrube BTTS JA (+24.5% ROI). Sevilla-Defense wacklig, Budimir trifft auswaerts regelmaessig. Hitrate 60-65%.",
+      "rang": 4
+    },
+    {
+      "spiel_id": "2026-10-26-psg-lyo",
+      "spiel_label": "PSG vs Lyon",
+      "markt": "Beide Teams treffen JA",
+      "kategorie": "wackel",
+      "quote": 1.8,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Goldgrube BTTS JA. Lyon beste Ligue-1-Defense (0.71 GT/Spiel), aber PSG kassiert aktuell etwa (2 vs Barca). HR4-Story-Konflikt → WACKEL.",
+      "rang": 5
+    },
+    {
+      "spiel_id": "2026-10-26-sev-osa",
+      "spiel_label": "Sevilla vs Osasuna",
+      "markt": "Über 2.5 Tore",
+      "kategorie": "wackel",
+      "quote": 2.0,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Goldgrube Ueber 2.5 (+52.5% ROI). Konflikt: Arrasate-Osasuna defensiv-kompakt. H2H letzte Jahre eher tor-arm. Deshalb WACKEL.",
+      "rang": 6
+    },
+    {
+      "spiel_id": "2026-10-26-sev-osa",
+      "spiel_label": "Sevilla vs Osasuna",
+      "markt": "Torschuetze Jederzeit: Ante Budimir",
+      "kategorie": "wackel",
+      "quote": 3.4,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Goldgrube Torschuetzen Jederzeit (+47.4% ROI). Budimir Backup-Boost-Qualifiziert, Sevilla-IV-Umbruch. HR24 nur 2/3 → WACKEL.",
+      "rang": 7
+    },
+    {
+      "spiel_id": "2026-10-26-psg-lyo",
+      "spiel_label": "PSG vs Lyon",
+      "markt": "Nuamah Torschuetze jederzeit",
+      "kategorie": "wackel",
+      "quote": 3.8,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Lyons Top-Scorer (3 Ligue 1 / 5 total). HR24 nur 2/3: Form-Edge wackelig (letztes Spiel 0-3 bei Hoffenheim torlos). Rotations-Risiko (EL-Rhythmus). Auswaerts gegen Top-Favorit → WACKEL.",
+      "rang": 8
+    }
+  ],
+  "kombis": [
+    {
+      "name": "🛡️ Safe-Doppel: PSG Sieg + Sevilla BTTS",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-10-26-psg-lyo",
+          "spiel_label": "PSG vs Lyon",
+          "markt": "Sieg Paris Saint-Germain (90 Min)",
+          "quote": 1.45,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-10-26-sev-osa",
+          "spiel_label": "Sevilla vs Osasuna",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.75,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 2.54,
+      "rechnung": "1.45 x 1.75 = 2.54",
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "SAFE-Doppel mit nur 2 Spielen im Fenster — Range 3-5x nicht erreichbar, 2.54x ist der ehrliche Wert. PSG-Sieg = Heim-Favorit-Pflicht, Sevilla-BTTS = Markt-Goldgrube. Layer-2 OK (1 Sieg-Outcome). 2.0% Kasse = 20 EUR."
+    },
+    {
+      "name": "⚖️ Balance: Doué Torschütze + Sevilla Über 2.5",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-10-26-psg-lyo",
+          "spiel_label": "PSG vs Lyon",
+          "markt": "Doué Torschuetze jederzeit",
+          "quote": 2.5,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-26-sev-osa",
+          "spiel_label": "Sevilla vs Osasuna",
+          "markt": "Über 2.5 Tore",
+          "quote": 2.0,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 5.0,
+      "rechnung": "2.5 x 2.0 = 5.00",
+      "einsatz_euro": 8.0,
+      "empfohlener_einsatz_prozent": 0.8,
+      "begruendung": "Balance-Doppel mit zwei Markt-Goldgruben (Torschuetzen Jederzeit + Ueber 2.5). Doué in Form, Sevilla–Osasuna statistisch tor-neutral aber Goldgrube. Range 6-10x bei 2 Spielen nicht erreichbar — 5.00x ist der Punkt wo faire Hitrate und Quote ausbalancieren. 0.8% = 8 EUR."
+    },
+    {
+      "name": "🎯 Risiko: Doué Doppelpack + Budimir trifft",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-10-26-psg-lyo",
+          "spiel_label": "PSG vs Lyon",
+          "markt": "Doué Doppelpack (2+ Tore)",
+          "quote": 8.0,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-10-26-sev-osa",
+          "spiel_label": "Sevilla vs Osasuna",
+          "markt": "Torschuetze Jederzeit: Ante Budimir",
+          "quote": 3.4,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 27.2,
+      "rechnung": "8.0 x 3.4 = 27.20",
+      "einsatz_euro": 2.5,
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "Risiko-Konstrukt um die beiden Form-Torschuetzen der heutigen Spiele: Doué 2 Tore in 2 Spielen (HR24 Form-Edge), Budimir Volumen-9er mit Backup-Boost. Quote 8.00 fuer Doué-Doppelpack bei bet365 LIVE pruefen (variiert zwischen 7.00 und 10.00 je nach Markt). Doppelpack-Realitaet: statistisch ~10% Hitrate bei Spitzenstuermer vs 1.5-Tore-Favorit. 0.25% = 2.50 EUR."
+    },
+    {
+      "name": "🚀 Moonshot: Doué Doppelpack + Budimir Doppelpack",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-10-26-psg-lyo",
+          "spiel_label": "PSG vs Lyon",
+          "markt": "Doué Doppelpack (2+ Tore)",
+          "quote": 8.0,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-10-26-sev-osa",
+          "spiel_label": "Sevilla vs Osasuna",
+          "markt": "Budimir Doppelpack (2+ Tore)",
+          "quote": 11.0,
+          "kategorie": "moonshot"
+        }
+      ],
+      "gesamtquote": 88.0,
+      "rechnung": "8.0 x 11.0 = 88.00",
+      "einsatz_euro": 1.0,
+      "empfohlener_einsatz_prozent": 0.1,
+      "begruendung": "Moonshot mit 2 Doppelpack-Beinen — nur 2 Spiele im Fenster, deshalb bleibt die Gesamtquote bei ~88x knapp unter der 100x-Marke statt ueber 100x. Doué-Doppelpack ist der realistischere Teil (Form + Heim-Favorit), Budimir-Doppelpack ist der echte Lotterie-Anteil (auswaerts gegen Pizjuan selten). Quoten bei bet365 LIVE pruefen — kleine Verschiebung kann ueber die 100x-Grenze bringen. 0.1% = 1 EUR Spasseinsatz."
+    }
+  ],
+  "lessons_angewandt": [
+    "HR1 Quoten-Range: SAFE 1.25-1.45, VALUE 1.75-2.50, WACKEL 1.80-3.80, Risiko-Kombi 27x, Moonshot 88x — alles im Range (Moonshot grenzwertig, transparent gekennzeichnet).",
+    "HR4 Story-Konflikt-Check: PSG BTTS JA und Sev Über 2.5 beide als WACKEL statt VALUE, weil die Taktik der Gäste-Mannschaft (Lyon-Defense bzw Arrasate-Kompaktheit) gegen den Markt-Trend spricht.",
+    "HR24 Torschuetzen-Pflicht bei Heim-Favorit: Doué-Tipp als VALUE (Form-Edge klar belegt: 2 Tore in 2 Spielen). Budimir + Nuamah als WACKEL (nur 2/3 Edge-Bedingungen).",
+    "Zeitfenster-Hartregel: nur Spiele mit Anstoss am 26.10. in Berliner Zeit — PSG–Lyon 20:30, Sev–Osa 21:00. Keine Spiele aus anderen Tagen.",
+    "Supercup-Check: keine Supercups heute. Bundesliga/Premier League/Serie A/Primera-Englische-Woche startet erst Di/Mi/Do.",
+    "Markt-Goldgruben aktiv angesteuert: DC 1X (SAFE Sev), Torschuetzen Jederzeit (VALUE Doué + WACKEL Budimir/Nuamah), BTTS JA (VALUE Sev + WACKEL PSG), Ueber 2.5 (WACKEL Sev). 4 von 5 Top-Goldgruben in den Tipps vertreten.",
+    "Kader-Frische (Anti-Halluzination): Ferran Torres als PSG-#9 (nicht mehr Barca — kader_wechsel_2026.json Zeile), Dembélé/Kvara/Marquinhos/Nuno Mendes als bestätigte Ausfälle in news[], Doué als heutiger Haupt-Torschuetze. Arrasate (Osasuna) + Luis Garcia Plaza (Sevilla) + Fonseca (Lyon) + Luis Enrique (PSG) als Trainer verifiziert.",
+    "Layer-1 Diversifikation (max 1 Bein/Spiel/Kombi): streng eingehalten — alle 4 Kombis haben GENAU 1 Bein pro Spiel.",
+    "Layer-2 Sieg-Outcome-Cap: nur SAFE-Kombi enthält ein Sieg-Outcome (PSG Sieg), die anderen 3 Kombis sind reine Markt-/Torschuetzen-Kombis.",
+    "Layer-3 (max 1 Bein/Spiel ueber alle Kombis): bei nur 2 Spielen und 4 Kombis NICHT erfüllbar — ehrlich dokumentiert. Innerhalb der Kombis Markt-Diversifikation (Sieg/BTTS/Torschuetze/Totals/Doppelpack).",
+    "2:0-Insurance HEUTE NICHT aktiv (nur Bundesliga + CL abgedeckt; Ligue 1 und LaLiga außerhalb) — explizit in beiden Spielen in news[] + beim PSG-Sieg-Tipp vermerkt.",
+    "Supercup-Sonderregeln NICHT aktiv (keine Supercups heute)."
+  ],
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Quoten bei bet365 live gegenpruefen. Kleines ehrliches Set mit 2 Spielen statt kuenstlich aufgeblasener Slate.",
+  "einzeltipps_ergebnis": [
+    {
+      "spiel_id": "2026-10-26-psg-lyo",
+      "spiel_label": "PSG vs Lyon",
+      "markt": "Sieg Paris Saint-Germain (90 Min)",
+      "kategorie": "safe",
+      "quote": 1.45,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Heim-Favorit ~1.45 (implied 67%), CL-Hochgefühl 4-2 Barca, Lyon mit 3-0-EL-Pleite + 4-Tage-Rhythmus. Pflicht-Markt-Mix Heim-Favorit = Sieg. 2:0-Insurance NICHT in Ligue 1.",
+      "rang": 1,
+      "status": "gewonnen",
+      "kommentar": "PSG 2:0 (Mayulu 72', Godts 84') — direkter Sieg erfuellt.",
+      "tipp_id": "psg-lyo-1",
+      "gewinn_faktor": 0.45
+    },
+    {
+      "spiel_id": "2026-10-26-sev-osa",
+      "spiel_label": "Sevilla vs Osasuna",
+      "markt": "Doppelte Chance 1X (Sevilla oder Remis)",
+      "kategorie": "safe",
+      "quote": 1.25,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Hitrate ~75% (Dimers 75.2% Sevilla+Remis). Markt-Goldgrube DC 1X (+44.3% ROI). Konservativster Weg Heim-Favorit mitzunehmen ohne gegen Arrasate-Trend zu wetten.",
+      "rang": 2,
+      "status": "gewonnen",
+      "kommentar": "Sevilla 2:0 (Romero 23', Félix 82') — DC 1X erfuellt.",
+      "tipp_id": "sev-osa-1",
+      "gewinn_faktor": 0.25
+    },
+    {
+      "spiel_id": "2026-10-26-psg-lyo",
+      "spiel_label": "PSG vs Lyon",
+      "markt": "Doué Torschuetze jederzeit",
+      "kategorie": "value",
+      "quote": 2.5,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Goldgrube Torschuetzen Jederzeit (+47.4% ROI). HR24-Form: Doué 2 Tore in 2 Spielen (Strasbourg + Barca). Mit Dembélé + Kvara out zentrale Rolle. Einwechslungs-Boost Akliouche.",
+      "rang": 3,
+      "status": "verloren",
+      "kommentar": "Doué kein Tor. Mayulu + Godts (beide Einwechsler) trafen, waren aber bereits VOR Doué-Auswechslung (ca. 81') auf dem Platz — kein Einwechslungs-Boost.",
+      "tipp_id": "psg-lyo-2",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "spiel_id": "2026-10-26-sev-osa",
+      "spiel_label": "Sevilla vs Osasuna",
+      "markt": "Beide Teams treffen JA",
+      "kategorie": "value",
+      "quote": 1.75,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Goldgrube BTTS JA (+24.5% ROI). Sevilla-Defense wacklig, Budimir trifft auswaerts regelmaessig. Hitrate 60-65%.",
+      "rang": 4,
+      "status": "verloren",
+      "kommentar": "Osasuna torlos (0:2). Sevilla-Defense diesmal zu-Null.",
+      "tipp_id": "sev-osa-2",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "spiel_id": "2026-10-26-psg-lyo",
+      "spiel_label": "PSG vs Lyon",
+      "markt": "Beide Teams treffen JA",
+      "kategorie": "wackel",
+      "quote": 1.8,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Goldgrube BTTS JA. Lyon beste Ligue-1-Defense (0.71 GT/Spiel), aber PSG kassiert aktuell etwa (2 vs Barca). HR4-Story-Konflikt → WACKEL.",
+      "rang": 5,
+      "status": "verloren",
+      "kommentar": "Lyon torlos (0:2). HR4-Konflikt hat sich bestaetigt — WACKEL war richtig.",
+      "tipp_id": "psg-lyo-3",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "spiel_id": "2026-10-26-sev-osa",
+      "spiel_label": "Sevilla vs Osasuna",
+      "markt": "Über 2.5 Tore",
+      "kategorie": "wackel",
+      "quote": 2.0,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Goldgrube Ueber 2.5 (+52.5% ROI). Konflikt: Arrasate-Osasuna defensiv-kompakt. H2H letzte Jahre eher tor-arm. Deshalb WACKEL.",
+      "rang": 6,
+      "status": "verloren",
+      "kommentar": "2 Tore (Romero + Félix) — Unter 2.5. WACKEL richtig entschieden.",
+      "tipp_id": "sev-osa-3",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "spiel_id": "2026-10-26-sev-osa",
+      "spiel_label": "Sevilla vs Osasuna",
+      "markt": "Torschuetze Jederzeit: Ante Budimir",
+      "kategorie": "wackel",
+      "quote": 3.4,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Goldgrube Torschuetzen Jederzeit (+47.4% ROI). Budimir Backup-Boost-Qualifiziert, Sevilla-IV-Umbruch. HR24 nur 2/3 → WACKEL.",
+      "rang": 7,
+      "status": "verloren",
+      "kommentar": "Budimir kein Tor, Osasuna insgesamt torlos — Einwechslungs-Boost waere auch nicht gelaufen.",
+      "tipp_id": "sev-osa-4",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "spiel_id": "2026-10-26-psg-lyo",
+      "spiel_label": "PSG vs Lyon",
+      "markt": "Nuamah Torschuetze jederzeit",
+      "kategorie": "wackel",
+      "quote": 3.8,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Lyons Top-Scorer (3 Ligue 1 / 5 total). HR24 nur 2/3: Form-Edge wackelig (letztes Spiel 0-3 bei Hoffenheim torlos). Rotations-Risiko (EL-Rhythmus). Auswaerts gegen Top-Favorit → WACKEL.",
+      "rang": 8,
+      "status": "verloren",
+      "kommentar": "Nuamah kein Tor, Lyon komplett ohne Treffer. recovery_gast-These bestaetigt.",
+      "tipp_id": "psg-lyo-4",
+      "gewinn_faktor": -1.0
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 2.54,
+      "kommentar": "Bein 1 (PSG Sieg) gewonnen, Bein 2 (Sev BTTS) verloren — Kombi verliert."
+    },
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 5.0,
+      "kommentar": "Beide Beine verloren (Doué kein Tor, Sev unter 2.5)."
+    },
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 27.2,
+      "kommentar": "Beide Beine verloren (Doué nicht einmal getroffen, Budimir kein Tor)."
+    },
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 88.0,
+      "kommentar": "Beide Beine verloren — kein Doppelpack."
+    }
+  ],
+  "ausgewertet_am": "2026-10-27T06:12:00+00:00"
+}

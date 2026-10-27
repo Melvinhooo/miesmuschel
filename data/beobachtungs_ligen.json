@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-26T06:26:52+00:00",
+  "stand": "2026-10-27T06:19:18+00:00",
   "kriterium": "rolling 30 Tage ROI < -30.0% bei min. 4 Tipps",
   "ausstiegs_kriterium": "rolling 30 Tage ROI > -10.0% -> Liga wieder voll bespielbar",
   "ligen": [
@@ -9,6 +9,20 @@
       "roi_30d_prozent": -77.0,
       "trefferquote_30d": 20.0,
       "netto_30d": -3.85
+    },
+    {
+      "liga": "LaLiga 2026/27 - Jornada 10 (Posticipo)",
+      "tipps_30d": 4,
+      "roi_30d_prozent": -68.8,
+      "trefferquote_30d": 25.0,
+      "netto_30d": -2.75
+    },
+    {
+      "liga": "Ligue 1 2026/27 - 8. Spieltag (Posticipo-Montag)",
+      "tipps_30d": 4,
+      "roi_30d_prozent": -63.7,
+      "trefferquote_30d": 25.0,
+      "netto_30d": -2.55
     }
   ]
 }
