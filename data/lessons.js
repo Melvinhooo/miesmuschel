@@ -3670,7 +3670,35 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "Rolling 30d ROI dreht negativ (von +4.1% auf -5.1%) - Stufe-2-Freischaltung weiter blockiert",
       "lesson": "Letzte 30 Tage: 66 Tipps, 65.6% Trefferquote, Netto -3.14EUR, ROI -5.1%. Vor heute war es noch +4.1% positiv. Zwei schlechte Dossiers (24.10. und 26.10.) kippen den Rolling-Durchschnitt. Lehre: Trefferquote 65.6% bei ROI -5.1% ist der klassische Fall 'wir treffen oft, aber zu niedrige Quoten gegenueber den Vernichtern'. Konkret: SAFE/VALUE mit Quote 1.25-1.45 bringen bei 65-70% Hitrate zu wenig Netto, waehrend 2-3 WACKEL-Verluste bei 5EUR Einsatz x 6-8 Tipps pro Tag das Gewinnen auffressen. Stufe-2-Freischaltung (laut CLAUDE.md: Rolling 30d > +5%) BLEIBT BLOCKIERT. Nicht aggressiver werden - eher noch defensiver, weniger WACKEL-Einzel.",
       "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-10-28",
+      "kategorie": "Pokal-90-Min-Hartregel bezahlt sich aus: DC X2 trifft trotz Arsenal-Pokal-Aus",
+      "lesson": "Fleetwood-Arsenal 1:1 n.V., Fleetwood 5:3 n.E. — PL-Meister Arsenal fliegt gegen League-Two-Underdog aus dem Carabao Cup. Trotzdem ist unsere DC X2 (Arsenal oder Remis, Quote 1.10) in der SAFE-Kombi GEWONNEN, weil 1X2/DC-Maerkte nur die regulaeren 90 Minuten werten (Pokal-Hartregel). Lehre fuer die Dossier-Routine: Diese 90-Min-Regel ist bei Pokal-Spielen MIT KLASSENUNTERSCHIED besonders wertvoll — der Favorit kann im Elfer verlieren, aber in 90 Min ist der Remis-Puffer da. DC X2 war das richtige Instrument hier, DIREKT-Sieg Arsenal haette verloren (nicht gespielt). Pattern: bei Pokal-Spielen gegen Underdog in jedem Fenster primaer DC statt direkter Sieg, nicht nur bei BL-Pokal.",
+      "bezug_spiel_id": "2026-10-27-fle-ars",
+      "quelle": "ergebnisse/2026-10-27.json + ESPN/Sky Sports Carabao Cup Report"
+    },
+    {
+      "datum": "2026-10-28",
+      "kategorie": "Model-Prognosen fuer BL vs 2.BL/3.Liga im Pokal regelmaessig zu offensiv",
+      "lesson": "Wincomparator-Model prognostizierte 81% fuer Ueber 2.5 bei Gladbach-KSC — real nur 2 Tore (2:0). Gleichzeitig schaetzte das Model Model-Prognose 50% Gladbach-Sieg zu niedrig — real deutlicher 2:0. Pattern: Externe Prediction-Models bauen aus letzter BL-/2.BL-Form Tor-Raten, die im Pokal nicht halten, weil der Favorit sich ab 2:0 abschaltet und der 2.BL/3.Liga-Gegner defensiv zusammenbricht. Nicht nur Gladbach: Elversberg war wincomparator-Favorit mit Quote 1.40 (2.BL-Favorit vs 2.BL-Underdog) — Elversberg verlor 0:2 gegen Darmstadt. Lehre: bei Pokal-Dossiers Models-Prognosen auf Ueber-Linie um 10-15% nach unten korrigieren, und 'Favoriten-Rolle' konservativer werten.",
+      "bezug_spiel_id": "2026-10-27-bmg-ksc",
+      "quelle": "ergebnisse/2026-10-27.json + wincomparator.com"
+    },
+    {
+      "datum": "2026-10-28",
+      "kategorie": "BL-Rotations-Opfer-Lehre: Mainz + Elversberg + Union gehen 0-Tore-Pokal-Aus",
+      "lesson": "Drei BL/Favoriten-Rotations-Opfer am gleichen Tag: Mainz 0:2 bei Bochum (vor Conference 06.11.), Union 0:5 bei Koeln (BL-Mittelfeld-Rotation), Elversberg 0:2 vs Darmstadt (2.BL-Favorit-Rotation). Alle drei blieben torlos. Pattern: BL-Clubs mit paralleler Europapokal-Belastung ODER im BL-Rotationsmodus liefern im Pokal gegen hungrigere Underdog-Hausgastgeber regelmaessig ab, und zwar ohne eigene Tore (BTTS-NEIN). Lehre: bei Pokal-Dossiers mit BL-vs-niedrigere-Liga-Rotations-Setup NIE BTTS JA bei BL-Favorit auswaerts — alternativ Underdog-DC-X2 oder Underdog-Sieg zu hoher Quote.",
+      "bezug_spiel_id": "2026-10-27-bo-m05",
+      "quelle": "ergebnisse/2026-10-27.json (bo-m05, koe-fcu, elv-dar)"
+    },
+    {
+      "datum": "2026-10-28",
+      "kategorie": "HR24 Form-Edge Volumen-9er: Fuellkrug-Doppelpack bei Ex-Verein bestaetigt Pattern",
+      "lesson": "Niclas Fuellkrug (Werder) hat bei seinem Ex-Verein BVB einen Doppelpack erzielt (65. Elfmeter + 68.) — Werder dreht von 0:2 auf 2:2, verliert erst durch Sabitzer-Freistoss 90+3 den Pokal. Fuellkrug-Tipp war WACKEL (Quote 2.80, Einsatz 5€, Gewinnfaktor +1.80 realisiert). HR24 2/3 erfuellt (Form-Edge BL-Topscorer 8 Tore + zentraler 9er + ex-Verein-Motivation). Lehre fuer kuenftige Dossiers: Volumen-9er mit a) BL-Topscorer-Status b) direkter Rueckkehr an Ex-Verein-Wirkungsstaette c) Underdog-Druck bekommen in Torschuetzen-Jederzeit-Maerkten konsistent getroffen — dieser Trigger-Trio verdient einen VALUE statt WACKEL. Zweite Beobachtung: Fuellkrug hat per Elfmeter getroffen, also Elfer-Zuordnung im Spiel ist bei Volumen-9ern mitzudenken (bet365 wertet Elfer als Torschuetze).",
+      "bezug_spiel_id": "2026-10-27-bvb-wer",
+      "quelle": "ergebnisse/2026-10-27.json + bundesliga.com + bvb.de + sportnewsafrica.com"
     }
   ],
-  "stand": "2026-10-27T06:17:00+00:00"
+  "stand": "2026-10-28"
 };

@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-10-27T06:19:18+00:00",
+  "letzte_berechnung": "2026-10-28T06:19:37+00:00",
   "gesamt": {
-    "tipps": 317,
-    "gewonnen": 174,
-    "verloren": 126,
+    "tipps": 326,
+    "gewonnen": 182,
+    "verloren": 127,
     "push": 1,
     "offen": 16,
-    "einsatz": 301.0,
-    "netto": 91.31,
-    "trefferquote": 58.0,
+    "einsatz": 310.0,
+    "netto": 93.86,
+    "trefferquote": 58.9,
     "roi_prozent": 30.3
   },
   "letzte_30_tage": {
-    "tipps": 66,
-    "gewonnen": 40,
-    "verloren": 21,
+    "tipps": 75,
+    "gewonnen": 48,
+    "verloren": 22,
     "push": 0,
     "offen": 5,
-    "einsatz": 61.0,
-    "netto": -3.14,
-    "trefferquote": 65.6,
-    "roi_prozent": -5.1
+    "einsatz": 70.0,
+    "netto": -0.59,
+    "trefferquote": 68.6,
+    "roi_prozent": -0.8
   },
   "letzte_90_tage": {
-    "tipps": 308,
-    "gewonnen": 171,
-    "verloren": 120,
+    "tipps": 306,
+    "gewonnen": 172,
+    "verloren": 117,
     "push": 1,
     "offen": 16,
-    "einsatz": 292.0,
-    "netto": 85.27,
-    "trefferquote": 58.8,
-    "roi_prozent": 29.2
+    "einsatz": 290.0,
+    "netto": 74.96,
+    "trefferquote": 59.5,
+    "roi_prozent": 25.8
   },
   "nach_liga": {
     "UEFA Champions League - 2. Qualifikationsrunde": {
@@ -836,6 +836,28 @@
       "netto": -2.75,
       "trefferquote": 25.0,
       "roi_prozent": -68.8
+    },
+    "DFB-Pokal 2026/27 - 2. Runde": {
+      "tipps": 8,
+      "gewonnen": 7,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 8.0,
+      "netto": 2.45,
+      "trefferquote": 87.5,
+      "roi_prozent": 30.6
+    },
+    "Carabao Cup 2026/27 - Fourth Round (Achtelfinale)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.1,
+      "trefferquote": 100.0,
+      "roi_prozent": 10.0
     }
   },
   "nach_markt": {
@@ -1049,15 +1071,15 @@
       "roi_prozent": 0.0
     },
     "Beide Teams treffen JA": {
-      "tipps": 10,
-      "gewonnen": 3,
+      "tipps": 11,
+      "gewonnen": 4,
       "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 10.0,
-      "netto": 0.3,
-      "trefferquote": 30.0,
-      "roi_prozent": 3.0
+      "einsatz": 11.0,
+      "netto": 1.0,
+      "trefferquote": 36.4,
+      "roi_prozent": 9.1
     },
     "Sieg 1X2: Hibernian": {
       "tipps": 2,
@@ -1709,15 +1731,15 @@
       "roi_prozent": 130.0
     },
     "Über 2.5 Tore": {
-      "tipps": 8,
-      "gewonnen": 4,
-      "verloren": 3,
+      "tipps": 10,
+      "gewonnen": 5,
+      "verloren": 4,
       "push": 0,
       "offen": 1,
-      "einsatz": 7.0,
-      "netto": 4.3,
-      "trefferquote": 57.1,
-      "roi_prozent": 61.4
+      "einsatz": 9.0,
+      "netto": 4.15,
+      "trefferquote": 55.6,
+      "roi_prozent": 46.1
     },
     "Sieg Atalanta": {
       "tipps": 1,
@@ -1764,15 +1786,15 @@
       "roi_prozent": 150.0
     },
     "Doppelte Chance Arsenal oder Remis (X2)": {
-      "tipps": 1,
-      "gewonnen": 1,
+      "tipps": 2,
+      "gewonnen": 2,
       "verloren": 0,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": 1.15,
+      "einsatz": 2.0,
+      "netto": 1.25,
       "trefferquote": 100.0,
-      "roi_prozent": 115.0
+      "roi_prozent": 62.5
     },
     "Doppelte Chance Osasuna oder Remis (1X)": {
       "tipps": 1,
@@ -2622,15 +2644,15 @@
       "roi_prozent": -100.0
     },
     "Sieg Borussia Dortmund (90 Min)": {
-      "tipps": 1,
-      "gewonnen": 1,
+      "tipps": 2,
+      "gewonnen": 2,
       "verloren": 0,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.9,
+      "einsatz": 2.0,
+      "netto": 1.3,
       "trefferquote": 100.0,
-      "roi_prozent": 90.0
+      "roi_prozent": 65.0
     },
     "Doppelte Chance Paris SG oder Remis": {
       "tipps": 1,
@@ -2741,19 +2763,63 @@
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Doppelte Chance Augsburg oder Remis (X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.2,
+      "trefferquote": 100.0,
+      "roi_prozent": 20.0
+    },
+    "Doppelte Chance Leipzig oder Remis (X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.15,
+      "trefferquote": 100.0,
+      "roi_prozent": 15.0
+    },
+    "Guirassy Torschütze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.8,
+      "trefferquote": 100.0,
+      "roi_prozent": 80.0
+    },
+    "Doppelte Chance Frankfurt oder Remis (X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.35,
+      "trefferquote": 100.0,
+      "roi_prozent": 35.0
     }
   },
   "nach_markt_typ": {
     "Ueber 2.5 Tore": {
-      "tipps": 35,
-      "gewonnen": 19,
-      "verloren": 13,
+      "tipps": 37,
+      "gewonnen": 20,
+      "verloren": 14,
       "push": 0,
       "offen": 3,
-      "einsatz": 32.0,
-      "netto": 15.27,
-      "trefferquote": 59.4,
-      "roi_prozent": 47.7
+      "einsatz": 34.0,
+      "netto": 15.12,
+      "trefferquote": 58.8,
+      "roi_prozent": 44.5
     },
     "Doppelte Chance 1X": {
       "tipps": 21,
@@ -2767,15 +2833,15 @@
       "roi_prozent": 43.4
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 76,
-      "gewonnen": 38,
+      "tipps": 77,
+      "gewonnen": 39,
       "verloren": 35,
       "push": 1,
       "offen": 2,
-      "einsatz": 74.0,
-      "netto": 10.72,
-      "trefferquote": 52.1,
-      "roi_prozent": 14.5
+      "einsatz": 75.0,
+      "netto": 11.12,
+      "trefferquote": 52.7,
+      "roi_prozent": 14.8
     },
     "Torschuetzen Jederzeit": {
       "tipps": 33,
@@ -2789,26 +2855,26 @@
       "roi_prozent": 33.6
     },
     "Beide Teams treffen JA": {
-      "tipps": 36,
-      "gewonnen": 21,
+      "tipps": 37,
+      "gewonnen": 22,
       "verloren": 15,
       "push": 0,
       "offen": 0,
-      "einsatz": 36.0,
-      "netto": 6.34,
-      "trefferquote": 58.3,
-      "roi_prozent": 17.6
+      "einsatz": 37.0,
+      "netto": 7.04,
+      "trefferquote": 59.5,
+      "roi_prozent": 19.0
     },
     "Doppelte Chance X2": {
-      "tipps": 16,
-      "gewonnen": 11,
+      "tipps": 20,
+      "gewonnen": 15,
       "verloren": 5,
       "push": 0,
       "offen": 0,
-      "einsatz": 16.0,
-      "netto": 10.22,
-      "trefferquote": 68.8,
-      "roi_prozent": 63.9
+      "einsatz": 20.0,
+      "netto": 11.02,
+      "trefferquote": 75.0,
+      "roi_prozent": 55.1
     },
     "Crvena Zvezda oder Unentschieden": {
       "tipps": 3,
@@ -2996,29 +3062,40 @@
       "netto": 0.85,
       "trefferquote": 100.0,
       "roi_prozent": 42.5
+    },
+    "Guirassy Torschütze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.8,
+      "trefferquote": 100.0,
+      "roi_prozent": 80.0
     }
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 143,
-      "gewonnen": 76,
-      "verloren": 64,
+      "tipps": 147,
+      "gewonnen": 79,
+      "verloren": 65,
       "push": 0,
       "offen": 3,
-      "einsatz": 140.0,
-      "netto": 54.81,
-      "trefferquote": 54.3,
-      "roi_prozent": 39.2
+      "einsatz": 144.0,
+      "netto": 56.16,
+      "trefferquote": 54.9,
+      "roi_prozent": 39.0
     },
     "1.00-1.50": {
-      "tipps": 138,
-      "gewonnen": 89,
+      "tipps": 143,
+      "gewonnen": 94,
       "verloren": 38,
       "push": 1,
       "offen": 10,
-      "einsatz": 128.0,
-      "netto": 31.55,
-      "trefferquote": 70.1,
+      "einsatz": 133.0,
+      "netto": 32.75,
+      "trefferquote": 71.2,
       "roi_prozent": 24.6
     },
     "2.00-3.00": {
@@ -3046,26 +3123,26 @@
   },
   "nach_kategorie": {
     "value": {
-      "tipps": 203,
-      "gewonnen": 108,
-      "verloren": 86,
+      "tipps": 210,
+      "gewonnen": 114,
+      "verloren": 87,
       "push": 1,
       "offen": 8,
-      "einsatz": 195.0,
-      "netto": 41.47,
-      "trefferquote": 55.7,
-      "roi_prozent": 21.3
+      "einsatz": 202.0,
+      "netto": 42.82,
+      "trefferquote": 56.7,
+      "roi_prozent": 21.2
     },
     "wackel": {
-      "tipps": 59,
-      "gewonnen": 27,
+      "tipps": 61,
+      "gewonnen": 29,
       "verloren": 32,
       "push": 0,
       "offen": 0,
-      "einsatz": 59.0,
-      "netto": 16.79,
-      "trefferquote": 45.8,
-      "roi_prozent": 28.5
+      "einsatz": 61.0,
+      "netto": 17.99,
+      "trefferquote": 47.5,
+      "roi_prozent": 29.5
     },
     "safe": {
       "tipps": 53,
@@ -3109,14 +3186,14 @@
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 317,
-      "gewonnen": 174,
-      "verloren": 126,
+      "tipps": 326,
+      "gewonnen": 182,
+      "verloren": 127,
       "push": 1,
       "offen": 16,
-      "einsatz": 301.0,
-      "netto": 91.31,
-      "trefferquote": 58.0,
+      "einsatz": 310.0,
+      "netto": 93.86,
+      "trefferquote": 58.9,
       "roi_prozent": 30.3
     },
     "kasse": {
@@ -3154,21 +3231,300 @@
         "start": "2026-08-22",
         "ende": "2027-06-30",
         "bilanz": {
-          "tipps": 159,
-          "gewonnen": 104,
-          "verloren": 50,
+          "tipps": 168,
+          "gewonnen": 112,
+          "verloren": 51,
           "push": 0,
           "offen": 5,
-          "einsatz": 154.0,
-          "netto": 75.54,
-          "trefferquote": 67.5,
-          "roi_prozent": 49.1
+          "einsatz": 163.0,
+          "netto": 78.09,
+          "trefferquote": 68.7,
+          "roi_prozent": 47.9
         },
         "ist_aktuell": true
       }
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-10-27",
+      "gesamt": {
+        "tipps": 9,
+        "gewonnen": 8,
+        "verloren": 1,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 9.0,
+        "netto": 2.55,
+        "trefferquote": 88.9,
+        "roi_prozent": 28.3
+      },
+      "spiele": [
+        {
+          "id": "2026-10-27-bvb-wer",
+          "liga": "DFB-Pokal 2026/27 - 2. Runde",
+          "heim": "Borussia Dortmund",
+          "gast": "SV Werder Bremen",
+          "endstand": "3:2",
+          "tipps": [
+            {
+              "markt": "Sieg Borussia Dortmund (90 Min)",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.4,
+              "kommentar": "BVB 3:2 nach regulaeren 90 Min — Sieg-Tipp (90 Min) erfuellt. 2:0-Insurance NICHT benoetigt (regulaerer Sieg)."
+            },
+            {
+              "markt": "Guirassy Torschütze jederzeit",
+              "quote": 1.8,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.8,
+              "kommentar": "Guirassy 6. Minute — Markt-Goldgrube Torschuetzen Jederzeit haelt."
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.7,
+              "kommentar": "BTTS JA erfuellt (Fuellkrug-Doppelpack fuer Werder). Markt-Goldgrube BTTS JA trifft wie prognostiziert."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-27-hsv-sge",
+          "liga": "DFB-Pokal 2026/27 - 2. Runde",
+          "heim": "Hamburger SV",
+          "gast": "Eintracht Frankfurt",
+          "endstand": "1:3",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Frankfurt oder Remis (X2)",
+              "quote": 1.35,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.35,
+              "kommentar": "Frankfurt gewinnt 3:1 — DC X2 erfuellt. Markt-Goldgrube DC X2 trifft trotz Krisen-Stimmung-Warnung."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-27-koe-fcu",
+          "liga": "DFB-Pokal 2026/27 - 2. Runde",
+          "heim": "1. FC Köln",
+          "gast": "1. FC Union Berlin",
+          "endstand": "5:0",
+          "tipps": [
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.85,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.85,
+              "kommentar": "5 Tore — Ueber 2.5 locker erfuellt. Markt-Goldgrube Ueber 2.5 haelt."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-27-bmg-ksc",
+          "liga": "DFB-Pokal 2026/27 - 2. Runde",
+          "heim": "Borussia Mönchengladbach",
+          "gast": "Karlsruher SC",
+          "endstand": "2:0",
+          "tipps": [
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.55,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Nur 2 Tore — Ueber 2.5 verloren. Model-Prognose 81% hat ueberschaetzt; Lehre: Ueber-Linien im Pokal konservativer rechnen."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-27-rwe-rbl",
+          "liga": "DFB-Pokal 2026/27 - 2. Runde",
+          "heim": "Rot-Weiss Essen",
+          "gast": "RB Leipzig",
+          "endstand": "1:2",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Leipzig oder Remis (X2)",
+              "quote": 1.15,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.15,
+              "kommentar": "Leipzig 2:1 Sieg — DC X2 erfuellt. Markt-Goldgrube DC X2 haelt."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-27-gro-fca",
+          "liga": "DFB-Pokal 2026/27 - 2. Runde",
+          "heim": "SG Sonnenhof Großaspach",
+          "gast": "FC Augsburg",
+          "endstand": "2:4",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Augsburg oder Remis (X2)",
+              "quote": 1.2,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.2,
+              "kommentar": "Augsburg 4:2 Sieg — DC X2 (nach Downgrade-Marker im Dossier) erfuellt. Markt-Goldgrube DC X2 haelt."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-27-fle-ars",
+          "liga": "Carabao Cup 2026/27 - Fourth Round (Achtelfinale)",
+          "heim": "Fleetwood Town",
+          "gast": "Arsenal FC",
+          "endstand": "1:1",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Arsenal oder Remis (X2)",
+              "quote": 1.1,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.1,
+              "kommentar": "1:1 nach 90 Min — DC X2 (Arsenal oder Remis) erfuellt. Pokal-Hartregel 90-Min-Wertung spielt die Markt-Goldgrube DC X2 trotz Arsenal-Pokal-Aus heraus."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "🛡️ Safe-Kombi: BVB + Augsburg Sieg + Arsenal/Leipzig/Gladbach DC",
+          "kategorie": "safe",
+          "gesamtquote": 3.43,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Borussia Dortmund (90 Min)",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg FC Augsburg (90 Min)",
+              "quote": 1.55,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Arsenal oder Remis (Doppelte Chance)",
+              "quote": 1.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Leipzig oder Remis (Doppelte Chance)",
+              "quote": 1.15,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Gladbach oder Remis (Doppelte Chance)",
+              "quote": 1.25,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "⚖️ Balance: Guirassy Tor + Gladbach Über 2.5 + Arsenal Über 2.5 + Köln-Union BTTS",
+          "kategorie": "balance",
+          "gesamtquote": 8.04,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Guirassy Torschütze jederzeit",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.55,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "🎯 Risiko: Füllkrug + Burkardt trifft + Gladbach BTTS",
+          "kategorie": "risk",
+          "gesamtquote": 15.68,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Füllkrug Torschütze jederzeit",
+              "quote": 2.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Burkardt Torschütze jederzeit",
+              "quote": 3.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "🚀 Moonshot: Guirassy Hattrick + Arsenal Über 3.5 + RWE-Leipzig BTTS",
+          "kategorie": "moonshot",
+          "gesamtquote": 102.38,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Guirassy Hattrick (3+ Tore)",
+              "quote": 15.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Arsenal Über 3.5 Tore",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.95,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-10-26",
       "gesamt": {
