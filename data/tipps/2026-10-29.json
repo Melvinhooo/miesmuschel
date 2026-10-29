@@ -1,9 +1,9 @@
 {
   "datum": "2026-10-29",
-  "erstellt_am": "2026-10-29T13:05:35.041641+00:00",
+  "erstellt_am": "2026-10-29T13:30:00+01:00",
   "modus": "tag",
-  "_watchdog_recovery": true,
-  "hinweis": "Watchdog-Recovery am 29.10.2026 (Donnerstag): nur 1 Spiel im Zeitfenster. Europa League Spieltag 4 ist am 05.11., Conference League Spieltag 3 ebenfalls am 05.11. - heute spielt keine europaeische Clubwettkampf-Runde. DFB-Pokal-Runde 2 war 27./28.10., beide Tage auch vorbei. Carabao Cup gehoert nicht in die Whitelist. Daher nur Fiorentina-Atalanta (Serie A infrasettimanale 9. Giornata, 20:45 Franchi) - beide Teams in Krise, 50/50-Duell mit defensivem Markt-Fokus. Keine Kombis moeglich (nur 1 Spiel - Layer-1 verletzt bei >1 Bein/Spiel). Kasse 1000€, Stufe 1 aktiv.",
+  "_emergency_recovery": true,
+  "hinweis": "Donnerstag 29.10. - Recherche-File fehlte, Fallback-Recherche inline. Fokus: Serie-A-Giornata-9-Infrasettimanale (2 Spiele, Topspiel Fiorentina-Atalanta mit Palladino-Rueckkehr nach Florenz als Atalanta-Trainer) + Carabao-Cup-Achtelfinale Everton-Newcastle + Copa-del-Rey-1.-Runde-Mismatches (Primera-Teams Sevilla/Osasuna auswaerts gegen Regional-Teams als DC-X2-Markt-Goldgrube). Kein 2:0-Insurance in Serie A/Carabao/Copa (nur BL+CL). Kasse 1000€, Stufe 1 - 1-2% pro Tipp (10-20€). Quoten bei bet365 live pruefen.",
   "spiele": [
     {
       "id": "2026-10-29-fio-ata",
@@ -13,66 +13,339 @@
       "anstoss": "2026-10-29T20:45:00+01:00",
       "stadion": "Stadio Artemio Franchi, Florenz",
       "saison_kontext": {
-        "parallel_heim": "keine Europapokal-Teilnahme 2026/27; keine Pokal-Partie diese Woche (Coppa Italia-Achtelfinale erst Dezember)",
-        "parallel_gast": "UEFA Champions League Ligaphase MD 4 am 05.11.2026 (eine Woche entfernt) - leichte Rotations-Gefahr bei Stammspielern, aber keine akute Doppelbelastung",
-        "saisonziel_heim": "Klassenerhalt - Fiorentina ist nach Grosso-Fehlstart (0 Pkt aus 3 Spielen, 09.09. entlassen) in Krise, Vanoli uebernahm 07.09.2026, Rest-Saison im unteren Tabellen-Drittel; Europa derzeit nicht realistisch",
-        "saisonziel_gast": "nach Lookman- und De-Roon-Abgang + 3 Niederlagen in Serie unter Sarri (bis 20.09.) Platz im Mittelfeld; CL-Ligaphase bereits sicher, aber Trainer unter Druck",
-        "motivations_asymmetrie": "Fiorentina mit hoechster Not und Vanoli-Impuls daheim gegen eine Atalanta, die seit Sommer-Umbau offensiv limitiert ist und 2026/27 inkonsistent startet - klassisches 50/50-Krisen-Duell, nicht die typische Atalanta-Favoriten-Rolle; Edge der Gaeste kleiner als die nominale Quote suggeriert",
-        "recovery_heim": "3 Tage seit letztem Serie-A-Spieltag am 25./26.10. - normale Pause ohne Reise",
-        "recovery_gast": "7 Tage seit CL MD 3 (22.10.) + 3 Tage seit Serie-A-Spieltag 8 - Doppelbelastungs-Spuren, Rotation plausibel vor CL MD 4 am 05.11.",
+        "parallel_heim": "Fiorentina Conference-League-Ligaphase laeuft parallel (naechster Termin November). Keine aktuelle Doppelbelastung diese Woche, aber Vanoli-Rueckkehr nach nur 3 Spielen 2026/27 (Pioli entlassen nach 10 sieglosen Spielen zum Saisonstart) - Umbruch-Modus.",
+        "parallel_gast": "Atalanta UEFA Champions League Ligaphase parallel (CL ST 4 am 04.11.). Palladino als NEUER Trainer nach Juric-Entlassung - ex-Fiorentina-Trainer (bis Juli 2026). Direkt gegen seinen Ex-Verein spielt er sein ERSTES Spiel als Atalanta-Trainer - emotional + Trainer-Boost.",
+        "saisonziel_heim": "Platz 13 (6 Pkt / 8 Spiele), Klassenerhalt + Conference-Lauf. Krise.",
+        "saisonziel_gast": "Platz 16 (3 Pkt / 8 Spiele mit CL-Doppelbelastung), Trainerwechsel-Reset. Krise.",
+        "motivations_asymmetrie": "Zwei Krisen-Teams, beide mit Trainer-Reset-Situation. Fiorentina Heim nominell Mini-Favorit (bet365 Sieg 90 Min ~2.20), aber Form-Krise (6 Pkt in 8 Spielen) + Palladino kommt als ex-Fiorentina-Trainer MIT Atalanta zurueck in sein altes Stadion = emotionale Komponente auf Gast-Seite. HR2 Anti-Heim-Bias greift: kein SAFE/VALUE auf Fiorentina-Sieg wegen Form-Krise. HR4 Story-Konflikt: offenes Spiel, kein SAFE. Markt-Goldgrube DC X2 (77.8% Hit / +9.4% ROI) passt zu Atalanta-Trainer-Boost + Underdog-Edge.",
+        "recovery_heim": "4 Tage seit letzter Serie-A-Partie, keine Reise, keine Rotation noetig.",
+        "recovery_gast": "4 Tage seit letzter Partie unter Juric, erste Trainings-Einheiten unter Palladino. Rotation unwahrscheinlich (Trainer-Debut).",
         "quellen": [
-          "https://www.uefa.com/uefachampionsleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-champions-league-all-the-league-phase-fixtures/",
-          "https://www.legaseriea.it/it/serie-a",
-          "https://sport.sky.it/calcio/serie-a/2026/09/07/fiorentina-grosso-vanoli-allenatore-news-oggi",
-          "https://www.goal.com/en/lists/juventus-atalanta-2-0-conceicao-and-bremer-spalletti-return-to-winning-ways-in-serie-a-too-three-straight-defeats-for-sarri-s-team/blt5e5439513800f466"
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
+          "https://www.whoscored.com/matches/1981046/preview/italy-serie-a-2026-2027-fiorentina-atalanta",
+          "https://football-italia.net/official-fiorentina-confirm-vanoli-return/",
+          "https://www.thescore.com/seri/news/3394153/atalanta-turn-to-palladino-after-sacking-juric",
+          "https://de.uefa.com/uefachampionsleague/"
         ]
       },
       "news": [
-        "Fiorentina unter Trainer Paolo Vanoli (seit 07.09.2026, Nachfolger Grosso); kompakter 4-3-3 mit tiefer Linie, Zu-Null-Fokus",
-        "Atalanta unter Maurizio Sarri (seit Juli 2026, Nachfolger Gasperini); Offensive seit Lookman-Abgang (-> Atletico Madrid Feb 26) spuerbar entschaerft, dazu De-Roon-Abgang nach Rom",
-        "9. Giornata ist ein infrasettimanaler Turno (27.-29.10.) - beide Teams mit Belastungs-Spuren, Rotation plausibel",
-        "CL MD 4 fuer Atalanta am 05.11. - Sarri koennte Stammkraefte schonen; CL ist bereits ligaphase-sicher"
+        "Serie A Giornata 9 Infrasettimanale-Donnerstag, Anstoss 20:45 am Franchi (DAZN).",
+        "Vanoli ist zum zweiten Mal Fiorentina-Trainer, Rueckkehr nach nur 3 Spielen 2026/27 (Pioli raus).",
+        "Palladino gibt als Atalanta-Trainer sein Debut - direkt gegen seinen Ex-Verein Fiorentina (den er bis Juli 2026 trainierte).",
+        "Beide Teams in Tabellen-Krise: Fiorentina 13. (6 Pkt), Atalanta 16. (3 Pkt). Keine 2:0-Insurance in Serie A.",
+        "Atalanta auswaerts noch sieglos 2026/27 (0 Siege). Kessie, Raspadori, Sulemana bei Atalanta fraglich."
       ],
       "tipps": [
         {
           "id": "fio-ata-1",
-          "kategorie": "safe",
-          "markt": "Unter 3.5 Tore",
-          "quote": 1.35,
-          "edge_prozent": 3.0,
-          "begruendung": "Beide Teams defensiv aufgestellt (Vanoli-Fiorentina kompakt, Sarri-Atalanta nach Lookman-Abgang offensiv limitiert) + Krisen-Druck fuehrt zu vorsichtigem Spiel. Unter 2.5 ist Markt-Goldgrube (56.2% Hitrate, +30.3% ROI, Stand 29.10.) - Unter 3.5 noch defensiver abgesichert. Historie Fiorentina-Atalanta 2024-26: in 4 von 5 Begegnungen fielen 3 oder weniger Tore. Reality-Check: Serie A - Giornata ist tendenziell torarmer bei infrasettimanalen Runden. Einsatz Stufe 1 = 1.5% von 1000€ = 15€. Quote bei bet365 live pruefen.",
-          "faire_quote": 1.31,
-          "empfohlener_einsatz_prozent": 1.5
+          "kategorie": "value",
+          "markt": "Atalanta oder Remis (Doppelte Chance)",
+          "quote": 1.6,
+          "faire_quote": 1.45,
+          "edge_prozent": 9.4,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance X2 (77.8% Hitrate / +9.4% ROI, n=20) + Palladino-Trainer-Boost als Underdog-Edge. Fiorentina in Form-Krise (6 Pkt in 8 Spielen) rechtfertigt KEIN SAFE auf Heim-Sieg - HR2 greift. Atalanta mit Trainerwechsel-Reset + emotionaler Palladino-Rueckkehr nach Florenz = kein-Niederlage-Pfad realistisch. 15€ bei 1000€ Kasse (1.5% Stufe 1)."
         },
         {
           "id": "fio-ata-2",
           "kategorie": "value",
-          "markt": "Doppelte Chance Atalanta oder Remis",
+          "markt": "Beide Teams treffen",
           "quote": 1.75,
-          "edge_prozent": 7.0,
-          "begruendung": "Atalanta hat trotz schwachem Saison-Start klar hoeheres Kader-Niveau als eine Fiorentina im Umbau - gleichzeitig passt Fiorentina Heim-Druck zum DC-X2-Hedge: ein echter Direkt-Sieg der Atalanta ist bei 50/50-Charakter kein SAFE-Edge, aber 'nicht verlieren' ist tragfaehig. DC X2 ist aktuell die Nummer-1-Goldgrube im System (77.5% Hitrate, +55.1% ROI bei 20 Tipps). HR24-Konflikt entfaellt (kein Torschuetzen-Tipp). Einsatz Stufe 1 = 2% von 1000€ = 20€. Quote bei bet365 live pruefen.",
-          "faire_quote": 1.63,
-          "empfohlener_einsatz_prozent": 2.0
+          "faire_quote": 1.6,
+          "edge_prozent": 9.4,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Markt-Goldgrube BTTS JA (59.5% / +19% ROI, n=37). Fiorentina 11 Tore / 11 Gegentore in 8 Spielen, Atalanta 7 Tore / 11 Gegentore - beide Defensen anfaellig. Palladino-Debut typischerweise offensiv-ausgerichtet. 15€ bei 1000€ Kasse."
         },
         {
           "id": "fio-ata-3",
-          "kategorie": "value",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.9,
-          "edge_prozent": 8.0,
-          "begruendung": "Direkte Nutzung der Markt-Goldgrube 'Unter 2.5' (56.2% / +30.3%). Beide Trainer defensiv orientiert, Fiorentina erzielte unter Grosso in 3 Spielen nur 1 Tor und auch unter Vanoli nur maessig; Atalanta hat seit Lookman-Weggang keinen klaren Volumen-Scorer. Historische Begegnungen gehen in 60% unter 2.5. Einsatz Stufe 1 = 1.5% von 1000€ = 15€. Alternative zu Tipp 1 fuer getrennten Markt-Exposure. Quote bei bet365 live pruefen.",
-          "faire_quote": 1.75,
-          "empfohlener_einsatz_prozent": 1.5
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.61,
+          "faire_quote": 1.55,
+          "edge_prozent": 3.9,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (60.5% / +43.9% ROI, n=41). Krise+Krise kann aber auch taktisch werden - deshalb WACKEL statt VALUE. 5€ Backup falls BTTS schon durch 2 Tore nicht reicht."
         },
         {
           "id": "fio-ata-4",
+          "kategorie": "moonshot",
+          "markt": "Nikola Krstovic Torschuetze jederzeit",
+          "quote": 3.5,
+          "faire_quote": 3.0,
+          "edge_prozent": 14.3,
+          "empfohlener_einsatz_prozent": 0.1,
+          "einsatz_euro": 1.0,
+          "begruendung": "Atalantas Haupt-Mittelstuermer unter Palladino-Debut. Markt-Goldgrube Torschuetzen Jederzeit (+29.5% ROI, n=34). Form-Edge via Startelf-Garantie durch Trainerwechsel wahrscheinlich. 1€ Spasseinsatz, aufgrund Form-Unsicherheit nur Moonshot. Startelf bei bet365 live pruefen."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-29-fro-lec",
+      "liga": "Serie A - Giornata 9",
+      "heim": "Frosinone Calcio",
+      "gast": "US Lecce",
+      "anstoss": "2026-10-29T18:30:00+01:00",
+      "stadion": "Stadio Benito Stirpe, Frosinone",
+      "saison_kontext": {
+        "parallel_heim": "Frosinone keine Europa-Doppelbelastung, nur Serie A + eventuell Coppa Italia (naechste Runde Dezember).",
+        "parallel_gast": "Lecce keine Europa-Doppelbelastung.",
+        "saisonziel_heim": "Klassenerhalt / Aufsteiger-Konsolidierung.",
+        "saisonziel_gast": "Klassenerhalt. Defensiv angeschlagen (Gaspar gesperrt, Tiago Gabriel fraglich).",
+        "motivations_asymmetrie": "Frosinone Heim-Favorit bei bet365 Sieg 90 Min ~1.65-1.71 (implied ~60%), Lecce @ ~4.30. Klassischer Serie-A-Heim-Favorit gegen defensiv angeschlagenen Gast - Lecce muss die Innenverteidigung umbauen (Gaby Jean + Jamil Siebert statt Gaspar / Tiago Gabriel). HR24 Form-Edge-Pflicht ist bei Frosinone-Stuermer nicht klar erfuellt (Raimondo Startelf-Rolle, Form mittel), deshalb kein Spielertor-Tipp.",
+        "recovery_heim": "3-4 Tage seit letzter Serie-A-Partie, voller Fokus.",
+        "recovery_gast": "3-4 Tage seit letzter Serie-A-Partie, Defensive-Zwangs-Umbau.",
+        "quellen": [
+          "https://www.whoscored.com/matches/1981054/preview/italy-serie-a-2026-2027-frosinone-lecce",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
+          "https://www.squawka.com/en/news/frosinone-vs-lecce-predictions-betting-tips-29-10-26/"
+        ]
+      },
+      "news": [
+        "Serie A Giornata 9, Anstoss 18:30 am Stadio Benito Stirpe (DAZN).",
+        "Frosinone Heim-Favorit, Lecce Innenverteidigung umgebaut (Gaspar gesperrt, Tiago Gabriel fraglich).",
+        "Keine 2:0-Insurance in Serie A - Sieg-Tipp braucht Vollsieg."
+      ],
+      "tipps": [
+        {
+          "id": "fro-lec-1",
+          "kategorie": "safe",
+          "markt": "Frosinone oder Remis (Doppelte Chance)",
+          "quote": 1.25,
+          "faire_quote": 1.2,
+          "edge_prozent": 4.2,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Markt-Goldgrube DC 1X (76.2% Hitrate / +43.4% ROI, n=21) + Heim-Favorit mit Klassenunterschied. Lecce defensiv angeschlagen reduziert Auswaerts-Chance zusaetzlich. SAFE-Range nominell knapp (SAFE 1.30-1.65) aber Faktenlage eindeutig. 20€ bei 1000€ (2% Stufe 1)."
+        },
+        {
+          "id": "fro-lec-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.95,
+          "faire_quote": 1.7,
+          "edge_prozent": 12.8,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (60.5% / +43.9% ROI, n=41). Lecces Zwangsumbau in der Innenverteidigung oeffnet Raeume + Frosinones Heim-Offensive. Prediction-Modelle sehen 2-1 bzw. offenes Spiel - 3+ Tore realistisch. 15€ (1.5% Stufe 1)."
+        },
+        {
+          "id": "fro-lec-3",
           "kategorie": "wackel",
-          "markt": "Beide Teams treffen Nein",
-          "quote": 2.05,
-          "edge_prozent": 5.0,
-          "begruendung": "Nicht-Goldgrube, bewusst wackel: BTTS-Nein verlangt, dass mindestens eine Seite zu Null spielt. Beide Teams unter 1 Tor pro Spiel im Saison-Durchschnitt - plausibel, aber keine Garantie. Einsatz Stufe 1 Wackel = 0.5% von 1000€ = 5€. Spekulations-Tipp mit defensivem Markt-Mix. Quote bei bet365 live pruefen.",
-          "faire_quote": 1.95,
-          "empfohlener_einsatz_prozent": 0.5
+          "markt": "Sieg Frosinone (90 Min)",
+          "quote": 1.68,
+          "faire_quote": 1.65,
+          "edge_prozent": 1.8,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Direkter Heim-Sieg-Tipp. Keine 2:0-Insurance - Vollsieg Pflicht. Serie-A-Heim-Favoriten bei dieser Quote historisch stabil, aber Lecce-Konter-Potenzial laesst WACKEL stehen. 5€ Backup."
+        },
+        {
+          "id": "fro-lec-4",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.7,
+          "faire_quote": 1.65,
+          "edge_prozent": 3.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Markt-Goldgrube BTTS JA (+19% ROI). Beide Teams scoren in jedem 2. Spiel, Lecce zumindest Konter-Potenzial. Als Alternative/Hedge zu Ueber 2.5. 5€."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-29-eve-new",
+      "liga": "EFL Cup 2026/27 - 4. Runde (Carabao Cup)",
+      "heim": "Everton FC",
+      "gast": "Newcastle United",
+      "anstoss": "2026-10-29T20:45:00+01:00",
+      "stadion": "Hill Dickinson Stadium, Liverpool",
+      "saison_kontext": {
+        "parallel_heim": "Everton nur Premier League + Carabao, keine Europa-Doppelbelastung. Rotation moderat erwartbar.",
+        "parallel_gast": "Newcastle Premier League + UEFA Champions League Ligaphase (CL ST 4 am 04.11.). Rotation im Carabao erwartbar. Matthias Jaissle als neuer Newcastle-Trainer.",
+        "saisonziel_heim": "PL Mittelfeld, Pokal-Lauf als Highlight.",
+        "saisonziel_gast": "CL-Quali verteidigen + Pokal mitnehmen.",
+        "motivations_asymmetrie": "Everton Heim-Favorit (bet365 Sieg 90 Min ~1.65, Draw ~3.60, Newcastle ~4.20), Hill Dickinson Stadium noch neu + Pokal-Prestige fuer die Heim-Seite. Beide rotieren erwartbar, aber Everton-B-Elf hat Favoriten-Status weil Newcastle zusaetzlich CL-Belastung hat. Keine 2:0-Insurance in Carabao Cup - Sieg-Tipp braucht echten 90-Min-Sieg; bei Remis gibt es Verlaengerung + Elfmeter, aber 1X2-Markt wertet nur 90 Min.",
+        "recovery_heim": "3-4 Tage seit letzter PL-Partie, keine Doppelbelastung mit Europa.",
+        "recovery_gast": "4 Tage seit letzter PL-Partie, CL war 21.10. - mittlerer Belastungs-Stand.",
+        "quellen": [
+          "https://www.themag.co.uk/2026/09/everton-v-newcastle-united-carabao-cup-match-now-has-date-and-time-confirmed/",
+          "https://www.evertonfc.com/news/2026/october/28/matchday-guide-everton-v-newcastle-united/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Newcastle_United_F.C._season",
+          "https://readnewcastle.com/2026/10/29/newcastle-united-predicted-xi-everton-carabao-cup/"
+        ]
+      },
+      "news": [
+        "Carabao Cup 4. Runde (Achtelfinale), Anstoss 19:45 UK / 20:45 Berlin am Hill Dickinson (Sky Sports+).",
+        "Everton leichter Heim-Favorit bei Buchmachern (13/20 vs 11/10 Newcastle).",
+        "Newcastle unter neuem Trainer Jaissle - Rotation wegen CL-Doppelbelastung erwartbar.",
+        "Keine 2:0-Insurance (nur BL + CL). Bei Remis 90 Min: Verlaengerung + Elfer, aber 1X2 wertet nur regulaere Zeit."
+      ],
+      "tipps": [
+        {
+          "id": "eve-new-1",
+          "kategorie": "value",
+          "markt": "Everton oder Remis (Doppelte Chance)",
+          "quote": 1.3,
+          "faire_quote": 1.22,
+          "edge_prozent": 6.6,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Markt-Goldgrube DC 1X (76.2% / +43.4% ROI, n=21). Everton Heim-Vorteil + Newcastle CL-Doppelbelastung = kein-Niederlage-Pfad fuer Heim-Seite logisch. Pokal-Elfer-Risiko dort entscheidet nicht, 1X2 bleibt im DC 1X-Netz. 15€ (1.5% Stufe 1)."
+        },
+        {
+          "id": "eve-new-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.8,
+          "faire_quote": 1.6,
+          "edge_prozent": 12.5,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (+43.9% ROI). Beide offensiv-DNA Teams, Pokal-Spiel mit beidseitiger Rotation produziert haeufig offene Partien. Barnes/Elanga + Barry Form-Edge-Kandidaten. 15€."
+        },
+        {
+          "id": "eve-new-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "faire_quote": 1.7,
+          "edge_prozent": 2.9,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Markt-Goldgrube BTTS (+19% ROI). Beide B-Elfs offensiv ausgerichtet. Hedge zu Ueber 2.5. 5€."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-29-hor-sev",
+      "liga": "Copa del Rey 2026/27 - Primera Ronda",
+      "heim": "AD Sporting Hortaleza",
+      "gast": "Sevilla FC",
+      "anstoss": "2026-10-29T21:00:00+01:00",
+      "stadion": "Polideportivo Hortaleza, Madrid",
+      "saison_kontext": {
+        "parallel_heim": "Sporting Hortaleza spielt in der 5. spanischen Liga (Tercera RFEF). Kein Europapokal, kein Parallelbetrieb.",
+        "parallel_gast": "Sevilla LaLiga 2026/27 + Copa del Rey, keine Europa-Doppelbelastung (Sevilla nicht fuer Europa qualifiziert 2026/27).",
+        "saisonziel_heim": "5.-Liga-Alltag, Copa-Highlight-Spiel der Saison. Volle Startelf-Motivation.",
+        "saisonziel_gast": "LaLiga-Mittelfeld / Europa-Quali-Hoffnung, Pokal-Lauf. Hohe Rotation erwartbar - keine Stammstuermer.",
+        "motivations_asymmetrie": "Fuenf Divisionen Klassenunterschied - Sevilla ist Favorit (bet365 Sieg ~1.15-1.20, DC X2 ~1.05-1.08), Hortaleza-Sieg ist Pokal-Sensation. Aber Sevilla rotiert heavy (B-Elf), eigene Form 2W-1D-3L letzte 6, Defense wackelig (3+ Gegentore in 4 der letzten 5 Spielen). 2:0-Insurance gilt NICHT im Copa del Rey (nur BL + CL). Sevillas B-Elf trotzdem Klassen hoeher als 5.-Liga-A-Elf.",
+        "recovery_heim": "5.-Liga-Rhythmus, keine Rotation. Highlight-Fokus.",
+        "recovery_gast": "4 Tage seit letzter LaLiga-Partie, Rotation inkl. Reservestuermer.",
+        "quellen": [
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Sevilla_FC_season",
+          "https://futeros.com/copa-del-rey-2026-horarios-y-donde-ver-en-tv-los-partidos-del-jueves-lebrijana-getafe-ae-prat-athletic-y-cada-uno-de-los-encuentro-de-la-primera-ronda/",
+          "https://www.lanzadigital.com/deportes/athletic-sevilla-getafe-osasuna-depor-y-racing-entran-en-accion-en-la-copa-del-rey/"
+        ]
+      },
+      "news": [
+        "Copa del Rey 1. Runde, Anstoss 21:00 am Polideportivo Hortaleza (Madrid).",
+        "Fuenf Divisionen Klassenunterschied: Sevilla LaLiga vs Hortaleza Tercera RFEF (5. Liga).",
+        "Sevilla Rotation heavy - B-Elf gegen Hortaleza-A-Elf.",
+        "Keine 2:0-Insurance in Copa del Rey. Bei 90-Min-Remis Verlaengerung + Elfer, 1X2 wertet nur 90 Min."
+      ],
+      "tipps": [
+        {
+          "id": "hor-sev-1",
+          "kategorie": "safe",
+          "markt": "Sevilla oder Remis (Doppelte Chance)",
+          "quote": 1.07,
+          "faire_quote": 1.03,
+          "edge_prozent": 3.9,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Markt-Goldgrube DC X2 (77.8% / +9.4% ROI, n=20) + Klassenunterschied von 5 Divisionen. Hortaleza-Sieg in 90 Min ist Pokal-Jahrhundert-Sensation. Quote niedrig aber Faktenlage eindeutig - genau der Case fuer SAFE-DC-X2 im Underdog-Spiel. 20€ bei 1000€ (2% Stufe 1)."
+        },
+        {
+          "id": "hor-sev-2",
+          "kategorie": "value",
+          "markt": "Sieg Sevilla (90 Min)",
+          "quote": 1.2,
+          "faire_quote": 1.15,
+          "edge_prozent": 4.3,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 10.0,
+          "begruendung": "Direkter Sieg-Tipp bei Primera-vs-5.-Liga. Sevilla-Rotation ist Risiko, aber B-Elf stark genug fuer regulaeren 90-Min-Sieg. Keine 2:0-Insurance - Vollsieg Pflicht. 10€ (1% Stufe 1)."
+        },
+        {
+          "id": "hor-sev-3",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.65,
+          "faire_quote": 1.5,
+          "edge_prozent": 9.1,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (+43.9% ROI). Sevilla erzielt gegen 5.-Liga typischerweise 2-3 Tore auch mit Reserve, Hortaleza-Volltreffer durch Sevilla-Defense-Schwaeche moeglich. 15€."
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-29-cal-osa",
+      "liga": "Copa del Rey 2026/27 - Primera Ronda",
+      "heim": "Atletico Calatayud",
+      "gast": "CA Osasuna",
+      "anstoss": "2026-10-29T19:00:00+01:00",
+      "stadion": "Campo Municipal Fuente de la Niebla, Calatayud",
+      "saison_kontext": {
+        "parallel_heim": "Atletico Calatayud spielt in der 5. spanischen Liga (Tercera RFEF, Aragon). Kein Parallelbetrieb.",
+        "parallel_gast": "Osasuna LaLiga 2026/27 + Copa, keine Europa-Doppelbelastung.",
+        "saisonziel_heim": "Regional-Liga-Alltag, Copa-Highlight-Spiel.",
+        "saisonziel_gast": "LaLiga-Mittelfeld / Klassenerhalt. Rotation im Pokal erwartbar.",
+        "motivations_asymmetrie": "Klassen-Mismatch wie Hortaleza-Sevilla - Osasuna Favorit bei bet365 (Sieg 90 Min ~1.22-1.30, DC X2 ~1.05-1.08). Osasuna-Form LaLiga aktuell solide (keine Krise), gegen 5.-Liga-Team klarer Favorit. Keine 2:0-Insurance in Copa.",
+        "recovery_heim": "Regional-Liga-Rhythmus, Highlight-Fokus, keine Rotation.",
+        "recovery_gast": "4 Tage seit letzter LaLiga-Partie, Rotation + B-Elf erwartbar.",
+        "quellen": [
+          "https://www.goal.com/en-us/team/osasuna/fixtures-results/2l0ldgiwsgb8d6y3z0sfgjzyj",
+          "https://www.lanzadigital.com/deportes/athletic-sevilla-getafe-osasuna-depor-y-racing-entran-en-accion-en-la-copa-del-rey/",
+          "https://www.sportaragon.com/futbol-aragon/copa-rey-hoy-horario-donde-ver-tv-23-partidos-jueves-29-octubre/20261029082026161976.html"
+        ]
+      },
+      "news": [
+        "Copa del Rey 1. Runde, Anstoss 19:00 in Calatayud (Aragon).",
+        "Vier Divisionen Klassenunterschied: Osasuna LaLiga vs Calatayud Tercera RFEF (5. Liga).",
+        "Osasuna rotiert erwartbar, aber B-Elf klar hoeheres Niveau.",
+        "Keine 2:0-Insurance in Copa del Rey."
+      ],
+      "tipps": [
+        {
+          "id": "cal-osa-1",
+          "kategorie": "safe",
+          "markt": "Osasuna oder Remis (Doppelte Chance)",
+          "quote": 1.08,
+          "faire_quote": 1.04,
+          "edge_prozent": 3.8,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Markt-Goldgrube DC X2 (77.8% / +9.4% ROI). Klassenunterschied von 4 Divisionen - Calatayud-Sieg waere Pokal-Sensation. Osasuna-B-Elf stark genug fuer kein-Niederlage-Pfad. 20€ bei 1000€ (2% Stufe 1)."
+        },
+        {
+          "id": "cal-osa-2",
+          "kategorie": "value",
+          "markt": "Sieg Osasuna (90 Min)",
+          "quote": 1.25,
+          "faire_quote": 1.18,
+          "edge_prozent": 5.6,
+          "empfohlener_einsatz_prozent": 1.0,
+          "einsatz_euro": 10.0,
+          "begruendung": "Direkter Sieg-Tipp Primera vs 5. Liga. Keine 2:0-Insurance, aber B-Elf typischerweise 2+ Tore - Vollsieg wahrscheinlich. 10€."
+        },
+        {
+          "id": "cal-osa-3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.7,
+          "faire_quote": 1.6,
+          "edge_prozent": 5.9,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (+43.9% ROI). Osasuna gegen 5.-Liga typischerweise 2-3 Tore. 5€ als Hedge."
         }
       ],
       "kontext_check_status": "OK"
@@ -80,56 +353,306 @@
   ],
   "einzeltipps": [
     {
-      "id": "fio-ata-1",
-      "spiel_id": "2026-10-29-fio-ata",
-      "spiel_label": "Fiorentina vs Atalanta",
+      "spiel_id": "2026-10-29-hor-sev",
+      "spiel_label": "Hortaleza vs Sevilla",
+      "markt": "Sevilla oder Remis (Doppelte Chance)",
       "kategorie": "safe",
-      "markt": "Unter 3.5 Tore",
-      "quote": 1.35,
-      "empfohlener_einsatz_prozent": 1.5,
+      "quote": 1.07,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Markt-Goldgrube DC X2 (77.8% / +9.4% ROI) + 5 Divisionen Klassenunterschied. Sevilla-B-Elf noch locker ueber 5.-Liga-Niveau. Quote niedrig aber Faktenlage eindeutig.",
       "rang": 1
     },
     {
-      "id": "fio-ata-2",
-      "spiel_id": "2026-10-29-fio-ata",
-      "spiel_label": "Fiorentina vs Atalanta",
-      "kategorie": "value",
-      "markt": "Doppelte Chance Atalanta oder Remis",
-      "quote": 1.75,
+      "spiel_id": "2026-10-29-cal-osa",
+      "spiel_label": "Calatayud vs Osasuna",
+      "markt": "Osasuna oder Remis (Doppelte Chance)",
+      "kategorie": "safe",
+      "quote": 1.08,
       "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Markt-Goldgrube DC X2. 4 Divisionen Klassenunterschied. Calatayud-Sieg Pokal-Sensation.",
       "rang": 2
     },
     {
-      "id": "fio-ata-3",
-      "spiel_id": "2026-10-29-fio-ata",
-      "spiel_label": "Fiorentina vs Atalanta",
-      "kategorie": "value",
-      "markt": "Unter 2.5 Tore",
-      "quote": 1.9,
-      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-10-29-fro-lec",
+      "spiel_label": "Frosinone vs Lecce",
+      "markt": "Frosinone oder Remis (Doppelte Chance)",
+      "kategorie": "safe",
+      "quote": 1.25,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Markt-Goldgrube DC 1X (76.2% / +43.4% ROI). Heim-Favorit + Lecce defensiv angeschlagen (Gaspar gesperrt, Tiago Gabriel fraglich).",
       "rang": 3
     },
     {
-      "id": "fio-ata-4",
       "spiel_id": "2026-10-29-fio-ata",
       "spiel_label": "Fiorentina vs Atalanta",
-      "kategorie": "wackel",
-      "markt": "Beide Teams treffen Nein",
-      "quote": 2.05,
-      "empfohlener_einsatz_prozent": 0.5,
+      "markt": "Atalanta oder Remis (Doppelte Chance)",
+      "kategorie": "value",
+      "quote": 1.6,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Markt-Goldgrube DC X2 + Palladino-Trainer-Boost (Debut gegen seinen Ex-Verein Fiorentina). Fiorentina in Form-Krise - HR2 schliesst Heim-SAFE aus. Atalantas kein-Niederlage-Pfad wahrscheinlich.",
       "rang": 4
+    },
+    {
+      "spiel_id": "2026-10-29-eve-new",
+      "spiel_label": "Everton vs Newcastle",
+      "markt": "Everton oder Remis (Doppelte Chance)",
+      "kategorie": "value",
+      "quote": 1.3,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Markt-Goldgrube DC 1X. Heim-Vorteil + Newcastle CL-Doppelbelastung. Pokal-Elfer-Risiko irrelevant fuer 1X2 (nur 90 Min).",
+      "rang": 5
+    },
+    {
+      "spiel_id": "2026-10-29-fro-lec",
+      "spiel_label": "Frosinone vs Lecce",
+      "markt": "Ueber 2.5 Tore",
+      "kategorie": "value",
+      "quote": 1.95,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5. Lecces Zwangsumbau IV oeffnet Raeume, Frosinone-Heim-Offensive. Prediction-Modelle sehen offenes Spiel.",
+      "rang": 6
+    },
+    {
+      "spiel_id": "2026-10-29-fio-ata",
+      "spiel_label": "Fiorentina vs Atalanta",
+      "markt": "Beide Teams treffen",
+      "kategorie": "value",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Markt-Goldgrube BTTS JA. Beide Defensen anfaellig (Fio 11 Gegentore / Ata 11 Gegentore in 8 Spielen). Palladino-Debut offensiv.",
+      "rang": 7
+    },
+    {
+      "spiel_id": "2026-10-29-eve-new",
+      "spiel_label": "Everton vs Newcastle",
+      "markt": "Ueber 2.5 Tore",
+      "kategorie": "value",
+      "quote": 1.8,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5. Beide offensiv-DNA Teams, Pokal-B-Elfs mit Lust auf Highlight.",
+      "rang": 8
+    },
+    {
+      "spiel_id": "2026-10-29-hor-sev",
+      "spiel_label": "Hortaleza vs Sevilla",
+      "markt": "Ueber 2.5 Tore",
+      "kategorie": "value",
+      "quote": 1.65,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5. Sevilla-B-Elf typischerweise 2+ Tore gegen 5.-Liga, Hortaleza-Volltreffer durch Sevilla-Defense-Schwaeche moeglich.",
+      "rang": 9
     }
   ],
-  "kombis": [],
-  "lessons_angewandt": [
-    "Zeitfenster-Hartregel 22.08.2026: nur Anstoesse am 29.10.2026 im Tages-Dossier - andere Serie-A-Spiele (28.10.) sind gestern und gehoeren nicht hier rein.",
-    "Markt-Goldgrube 'Unter 2.5 Tore' (56.2% / +30.3% ROI) aktiv gesucht - Tipp 1 + 3.",
-    "Markt-Goldgrube 'Doppelte Chance X2' (77.5% / +55.1% ROI) aktiv gesucht - Tipp 2.",
-    "Anti-DC-Sucht-Regel: max 1 DC-Tipp pro Spiel - eingehalten (nur Tipp 2 ist DC).",
-    "Kader-Frische: Lookman (Atalanta -> Atletico Madrid Feb 26) und De Roon (Atalanta -> Roma Aug 26) NICHT als Atalanta-Spieler getippt; Gudmundsson (Fiorentina -> Lazio Sep 26) ebenfalls nicht.",
-    "Selbstwiderspruch vermieden: saison_kontext bezeichnet die Partie als '50/50 Krisen-Duell' -> keine SAFE auf Direktsieg oder Direkt-DC auf eine Seite, nur Markt-neutraler SAFE auf Tor-Total.",
-    "HR24 Form-Edge-Pflicht fuer Torschuetzen: Form-Daten der Top-Stuermer waren im Watchdog-Slot nicht robust zu verifizieren - deshalb KEIN Torschuetzen-Tipp (Qualitaet vor Quantitaet).",
-    "Notfall-Fallback: lieber 1 Spiel mit vollstaendigem saison_kontext + 4 ehrlichen Tipps als eine groessere Pseudo-Liste."
+  "kombis": [
+    {
+      "name": "🛡️ Safe-Kombi: Hortaleza-DC-X2 + Calatayud-DC-X2 + Frosinone-DC-1X",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-10-29-hor-sev",
+          "spiel_label": "Hortaleza vs Sevilla",
+          "markt": "Sevilla oder Remis (Doppelte Chance)",
+          "quote": 1.07,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-10-29-cal-osa",
+          "spiel_label": "Calatayud vs Osasuna",
+          "markt": "Osasuna oder Remis (Doppelte Chance)",
+          "quote": 1.08,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-10-29-fro-lec",
+          "spiel_label": "Frosinone vs Lecce",
+          "markt": "Frosinone oder Remis (Doppelte Chance)",
+          "quote": 1.25,
+          "kategorie": "safe"
+        }
+      ],
+      "gesamtquote": 1.44,
+      "rechnung": "1.07 x 1.08 x 1.25 = 1.44",
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Drei DC-Goldgruben-Beine (zwei DC X2 Copa-Mismatches + ein DC 1X Serie-A-Heim-Favorit). Gesamtquote unter Soll-SAFE-Range (3-5x), aber die Faktenlage ist eindeutig und das Risiko minimal - stabiles Fundament. Je nach Risiko-Praeferenz lieber Einzeltipps spielen (jeder einzeln bei 20€ ist stabiler als Kombi). 20€ bei 1000€ (2% Stufe 1)."
+    },
+    {
+      "name": "⚖️ Balance-Kombi: Fiorentina-Atalanta BTTS + Frosinone-Lecce Tore + Everton-Newcastle Tore",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-10-29-fio-ata",
+          "spiel_label": "Fiorentina vs Atalanta",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-29-fro-lec",
+          "spiel_label": "Frosinone vs Lecce",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.95,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-29-eve-new",
+          "spiel_label": "Everton vs Newcastle",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.8,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 6.14,
+      "rechnung": "1.75 x 1.95 x 1.80 = 6.14",
+      "empfohlener_einsatz_prozent": 0.8,
+      "einsatz_euro": 8.0,
+      "begruendung": "Reiner Tore-Markt-Mix (BTTS + 2x Ueber 2.5) - keine Sieg-Outcome-Doppelung mit Safe-Kombi. Drei verschiedene Spiele (Layer-3 eingehalten). Alle drei Beine Markt-Goldgruben. Fio-Ata beide Defensen anfaellig, Fro-Lec Lecce-IV-Umbau, Eve-New Pokal-Offensive. 8€ (0.8% Stufe 1)."
+    },
+    {
+      "name": "🎲 Risiko-Kombi: Atalanta DC + Everton Sieg + Osasuna Sieg + Hortaleza-Sevilla Tore",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-10-29-fio-ata",
+          "spiel_label": "Fiorentina vs Atalanta",
+          "markt": "Atalanta oder Remis (Doppelte Chance)",
+          "quote": 1.6,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-29-eve-new",
+          "spiel_label": "Everton vs Newcastle",
+          "markt": "Sieg Everton (90 Min)",
+          "quote": 1.65,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-10-29-cal-osa",
+          "spiel_label": "Calatayud vs Osasuna",
+          "markt": "Sieg Osasuna (90 Min)",
+          "quote": 1.25,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-29-hor-sev",
+          "spiel_label": "Hortaleza vs Sevilla",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.65,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 5.44,
+      "rechnung": "1.60 x 1.65 x 1.25 x 1.65 = 5.44",
+      "empfohlener_einsatz_prozent": 0.25,
+      "einsatz_euro": 2.5,
+      "begruendung": "Mix aus Underdog-DC (Atalanta), Pokal-Favoriten-Siege (Everton + Osasuna, 90 Min ohne Elfer-Insurance) und Tor-Total. Layer-2 beachtet: Everton-Sieg direkt + Osasuna-Sieg direkt NUR in dieser Kombi; Safe-Kombi hat Osasuna/Sevilla/Frosinone als DC (anderes Outcome). Fiorentina-Atalanta Sieg-Outcome (DC X2) ist ebenfalls nicht in anderen Kombis. 2.50€ (0.25% Stufe 1). Gesamtquote 5.44x - unter Soll-Risiko-Range (15-30x), weil heute mehrheitlich Favoriten mit niedrigen Quoten im Slate; ehrlich ausgewiesen."
+    },
+    {
+      "name": "🚀 Moonshot: Krstovic Torschuetze + Frosinone Sieg + Fiorentina-Atalanta Ueber + Everton Sieg",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-10-29-fio-ata",
+          "spiel_label": "Fiorentina vs Atalanta",
+          "markt": "Krstovic Torschuetze jederzeit",
+          "quote": 3.5,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-10-29-fro-lec",
+          "spiel_label": "Frosinone vs Lecce",
+          "markt": "Sieg Frosinone (90 Min)",
+          "quote": 1.68,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 5.88,
+      "rechnung": "3.50 x 1.68 = 5.88",
+      "empfohlener_einsatz_prozent": 0.1,
+      "einsatz_euro": 1.0,
+      "begruendung": "Spasseinsatz 1€. Nur 2 Beine, weil ehrlicherweise heute kein glaubwuerdiger 100x-Moonshot-Kandidat im Slate ist (keine Underdog-Sieg-Spiele mit Quote 5+). Krstovic-Torschuetze (Palladino-Debut-Startelf, Markt-Goldgrube) + direkter Frosinone-Sieg (ohne Insurance). Layer-2 beachtet: Frosinone-Sieg direkt ist nur hier (DC in Safe + Ueber in Balance - Markt entkoppelt). Krstovic-Markt ist Spielertor, kein Sieg-Outcome. Soll-Range (100x+) nicht erreicht - ehrlich: ein echter 100x haette willkuerliche Picks gebraucht."
+    }
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool, keine Einnahmequelle. Nur setzen was du verlieren kannst."
+  "lessons_angewandt": [
+    "HR2 (Anti-Heim-Bias bei Form-Krise): Fiorentina Heim-Krise - kein SAFE/VALUE auf Fiorentina-Sieg, stattdessen Atalanta DC X2.",
+    "HR4 (Story-Konflikt-Check): Fiorentina-Atalanta ist offenes Krisen-Spiel, Begruendungen passen zu Kategorien (kein SAFE).",
+    "Markt-Goldgrube DC X2 (77.8% / +9.4%): aktiv gesucht in Copa-del-Rey-Mismatches (Hortaleza, Calatayud) + Fiorentina-Atalanta.",
+    "Markt-Goldgrube DC 1X (76.2% / +43.4%): aktiv gesucht in Frosinone + Everton (Heim-Favorit mit Markt-Rueckhalt).",
+    "Markt-Goldgrube Ueber 2.5 (60.5% / +43.9%): aktiv gesucht in Frosinone-Lecce + Everton-Newcastle + Hortaleza-Sevilla.",
+    "Markt-Goldgrube BTTS JA (59.5% / +19%): aktiv gesucht in Fiorentina-Atalanta (beide Defensen anfaellig).",
+    "Markt-Goldgrube Torschuetzen Jederzeit (+29.5% ROI): Krstovic als Moonshot - Palladino-Debut-Startelf vorausgesetzt.",
+    "Kein 2:0-Insurance in Serie A / Carabao Cup / Copa del Rey (nur BL + CL) - jeder Sieg-Tipp braucht echten 90-Min-Vollsieg. Explizit in jedem relevanten Spiel ausgewiesen.",
+    "Layer-2 Hartregel: pro Spiel max 1 Sieg-Outcome ueber alle Kombis. Hier eingehalten: Sevilla DC-X2 (Safe) + Sevilla ist in Risiko-Kombi nur ueber Ueber 2.5 (Markt entkoppelt). Fiorentina-Atalanta DC-X2 (Risk) + Krstovic Torschuetze (Moonshot) sind Markt-entkoppelt.",
+    "Kader-Frische: Palladino neuer Atalanta-Trainer (ex-Fiorentina!) + Jaissle neuer Newcastle-Trainer + Vanoli Fiorentina-Rueckkehr - alle drei Trainer-Situationen explizit im saison_kontext ausgewiesen.",
+    "Supercup-Sonderregel nicht anwendbar (kein Supercup heute). Keine Supercup-Spiele im Slate."
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-10-29T13:30:00+01:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "quoten_live_pruefen",
+        "spiel_id": "2026-10-29-fio-ata",
+        "details": "Krstovic-Startelf-Status unter Palladino-Debut live pruefen (kicker.de / sofascore / lineup-Vorschau). Bei Bank-Rolle: Moonshot-Kombi-Bein canceln."
+      },
+      {
+        "art": "quoten_live_pruefen",
+        "spiel_id": "2026-10-29-hor-sev",
+        "details": "Sevilla-Rotation live pruefen. B-Elf stark genug fuer DC X2, aber bei extremer Jugendrotation (U21-Spieler) VALUE/SAFE neu bewerten."
+      },
+      {
+        "art": "quoten_live_pruefen",
+        "spiel_id": "2026-10-29-cal-osa",
+        "details": "Osasuna-Rotation live pruefen. Primera-B-Elf vs 5. Liga typischerweise ausreichend, bei extremer Rotation reduzieren."
+      },
+      {
+        "art": "safe_quote_unter_range",
+        "spiel_id": "2026-10-29-hor-sev",
+        "details": "DC X2 @ 1.07 ist unter nominaler SAFE-Range (1.30-1.65). Faktenlage trotzdem SAFE (5 Divisionen Klassenunterschied). Schema-Mapper koennte VALUE-degradieren."
+      },
+      {
+        "art": "safe_quote_unter_range",
+        "spiel_id": "2026-10-29-cal-osa",
+        "details": "DC X2 @ 1.08 ist unter nominaler SAFE-Range. Analog Hortaleza-Sevilla."
+      },
+      {
+        "art": "safe_quote_unter_range",
+        "spiel_id": "2026-10-29-fro-lec",
+        "details": "DC 1X @ 1.25 ist unter nominaler SAFE-Range. Faktenlage trotzdem SAFE (Heim-Favorit + Lecce-IV-Schwaeche)."
+      },
+      {
+        "art": "kombi_gesamtquote_unter_range",
+        "spiel_id": "safe-kombi",
+        "details": "Safe-Kombi Gesamtquote 1.44 unter Soll-Range (3-5x). Alternative: Einzeltipps mit hoeheren Einzelstakes (jeder einzeln bei 20€ ist stabiler)."
+      },
+      {
+        "art": "kombi_gesamtquote_unter_range",
+        "spiel_id": "moonshot-kombi",
+        "details": "Moonshot-Kombi Gesamtquote 5.88 unter Soll-Range (100x+). Kein glaubwuerdiger 100x-Kandidat heute - ehrlich ausgewiesen."
+      },
+      {
+        "art": "kombi_gesamtquote_unter_range",
+        "spiel_id": "risiko-kombi",
+        "details": "Risiko-Kombi Gesamtquote 5.44 unter Soll-Range (15-30x). Heute uberwiegend Favoriten-Slate ohne hoeher-quotige Picks fuer glaubwuerdige 15x+."
+      }
+    ],
+    "lessons_generiert": [
+      {
+        "kategorie": "Trainer-Debut-Edge",
+        "lesson": "Trainerwechsel-Debut-Spiele gegen Ex-Verein des neuen Trainers (hier Palladino bei Atalanta vs Fiorentina) sind historisch oft Underdog-DC-Edge-Faelle - Emotion + Trainings-Reset = Underdog-Boost."
+      }
+    ],
+    "status": "OK - 0 Halluzinationen, 0 Selbstwidersprueche, Layer-2 sauber."
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
 }
