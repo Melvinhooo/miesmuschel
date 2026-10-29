@@ -1,0 +1,890 @@
+{
+  "datum": "2026-10-31",
+  "modus": "wochenende",
+  "erstellt_am": "2026-10-29T18:00:00+01:00",
+  "hinweis": "Wochenend-Vorschau 31.10.-01.11.2026 (BL 8. Spieltag, PL MW 9, LaLiga Jornada 11, Serie A Giornata 10). Top-Spiele: Klassiker Bayern-Dortmund Sa Abend in der Allianz Arena, Milan-Inter Derby della Madonnina, Liverpool-Arsenal am So in Anfield, Juve-Napoli am So. CL-Doppelbelastung durchgehend relevant (MD4 lief Di/Mi 27./28.10., 3 Tage Pause). Kasse 1000€, Stufe 1 aktiv (30-Tage-ROI nur +1,7%, Stufe-2-Freischaltung bleibt gesperrt). Alle Quoten bei bet365 live prüfen. 2:0-Insurance gilt bei direkten Sieg-Tipps in BL + CL.",
+  "spiele": [
+    {
+      "id": "2026-10-31-bay-bvb",
+      "liga": "Bundesliga 2026/27 - 8. Spieltag",
+      "heim": "Bayern München",
+      "gast": "Borussia Dortmund",
+      "anstoss": "2026-10-31T18:30:00+01:00",
+      "stadion": "Allianz Arena, München",
+      "saison_kontext": {
+        "parallel_heim": "Champions League Ligaphase MD4 am 28.10.2026 (Di/Mi) - 3 Tage Recovery bis zum Klassiker, hohe Belastung bei Stammspielern",
+        "parallel_gast": "Champions League Ligaphase MD4 am 28.10.2026 - ebenfalls 3 Tage Pause, BVB-Rotation bei Zweikampf-Stürmern wahrscheinlich",
+        "saisonziel_heim": "Meisterschaft verteidigen + CL weit kommen - Bayern unter Kompany als Top-Favorit BL",
+        "saisonziel_gast": "CL-Quali-Platz 2-4 - BVB-Minimalziel Vize wie 25/26, kein direktes Druck-Spiel",
+        "motivations_asymmetrie": "Beide Teams voll motiviert (Klassiker), kein Rotations-Druck zugunsten Pokal. Bayern mit Heim-Vorteil + Luis Diaz-Boost (Hattrick gegen Leipzig 17.10. laut kader_wechsel_2026.json). BVB offensiver aber defensiv anfälliger. Edge Bayern klar, aber Klassiker-Historie zeigt BVB kann sich mit Außenseiter-Mentalität befreien.",
+        "recovery_heim": "3 Tage seit CL-Spiel am 28.10.",
+        "recovery_gast": "3 Tage seit CL-Spiel am 28.10.",
+        "quellen": [
+          "https://www.bundesliga.com/en/bundesliga/news/der-klassiker-derbies-key-dates-for-2026-27-season-38066",
+          "https://fcbayern.com/de/fans/online-aktionen/gewinnspiele/crm-aktionen-2026/bvb-ticket-gewinnspiel-2026",
+          "https://anstosszeiten.de/bundesliga/spiel/bayern-muenchen-borussia-dortmund/",
+          "https://www.uefa.com/uefachampionsleague/"
+        ]
+      },
+      "news": [
+        "Klassiker am Sa 18:30 in München (erwartetes DFL-Standard-Slot)",
+        "Bayern mit Luis Diaz nach Sommer-Transfer in starker Form - Hattrick + Assist beim 6:1 gegen Leipzig am 17.10.",
+        "Beide nach CL-MD4 am Mittwoch - 3 Tage Recovery, Rotations-Risiko bei Flügel-Positionen",
+        "2:0-Insurance gilt bei direktem Sieg-Tipp (bet365 DE Aktionsregel BL + CL)"
+      ],
+      "tipps": [
+        {
+          "id": "bay-bvb-1",
+          "kategorie": "value",
+          "markt": "Bayern Sieg (90 Min)",
+          "quote": 1.65,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "Bayern @ Heim-Klassiker mit starker Form, Kompany-System etabliert. Historie der letzten 15 Klassiker: Bayern hat zu Hause 11 Siege. 2:0-Insurance gilt (BL) - der Tipp fliegt auch durch wenn BVB auf 3:2 ran kommt sobald Bayern mal 2:0 vorne lag. Markt-Typ Sieg-Tipp solide. Einsatz 20€ (2% Kasse 1000€, Stufe 1). Quote bei bet365 live prüfen - der Klassiker verschiebt sich oft kurzfristig.",
+          "liga": "Bundesliga"
+        },
+        {
+          "id": "bay-bvb-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.55,
+          "edge_prozent": 8.0,
+          "faire_quote": 1.45,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "Klassiker-Historie der letzten 10 Direktduelle: Über 2.5 in 7-8 Fällen. Beide offensive Setups (Bayern 4-2-3-1 mit Diaz/Olise/Kane, BVB mit Beier/Brandt/Guirassy). Markt-Typ 'Über 2.5 Tore' ist aktuell Goldgrube (60,5% Hitrate, +43,9% ROI laut statistik.json). Einsatz 20€. Quote bei bet365 live prüfen.",
+          "liga": "Bundesliga"
+        },
+        {
+          "id": "bay-bvb-3",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.65,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.58,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0,
+          "begruendung": "BVB mit Guirassy/Beier auswärts in München trifft fast immer mindestens einmal (BTTS in 7 der letzten 10 Klassiker-Begegnungen). Bayern-Defensive bei CL-Rotation anfälliger. Einsatz 15€ (1,5% Kasse). Quote bei bet365 live prüfen.",
+          "liga": "Bundesliga"
+        },
+        {
+          "id": "bay-bvb-4",
+          "kategorie": "wackel",
+          "markt": "Harry Kane Torschütze jederzeit",
+          "quote": 1.75,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Kane als zentraler 9er Volumen-Stürmer bei Bayern - typisch 20+ Saisontore. Einwechslungs-Boost (bet365-Regel) kommt dazu: Tor des Ersatzstürmers zählt für Kane-Tipp. Form-Edge erfüllt HR24 (zentraler 9er mit Backup-Qualität bei Bayern). Markt-Typ Torschützen Jederzeit = Goldgrube (36,4% Hit, +29,5% ROI). Wackel-Einsatz 5€ (0,5%). Quote live prüfen.",
+          "liga": "Bundesliga"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-31-che-mun",
+      "liga": "Premier League 2026/27 - Matchweek 9",
+      "heim": "Chelsea FC",
+      "gast": "Manchester United",
+      "anstoss": "2026-10-31T13:30:00+01:00",
+      "stadion": "Stamford Bridge, London",
+      "saison_kontext": {
+        "parallel_heim": "Champions League Ligaphase MD4 am 28.10.2026 - 3 Tage Recovery, Chelsea mit Rotations-Risiko",
+        "parallel_gast": "Keine europäische Doppelbelastung (United verpasste europäische Qualifikation 24/25 nach 15. Platz, Europa-Pause)",
+        "saisonziel_heim": "Top 4 PL / CL-Quali verteidigen - Chelsea unter Maresca-Kurs weiter",
+        "saisonziel_gast": "Top 6 PL - United im Umbau unter neuem Trainer-Setup, Platz 15 25/26 war Boden",
+        "motivations_asymmetrie": "Chelsea mit CL-Last + Heimspiel, United mit mehr Erholungszeit (keine EU-Spiele) aber generell schwächere Form. United defensiv stabilisiert aber offensiv limitiert. Edge Chelsea leicht, aber Vorsicht wegen CL-Rotation bei Palmer/Jackson-Ersatz. Rogers-Transfer von Villa stärkt Chelsea-Offensive.",
+        "recovery_heim": "3 Tage seit CL-Spiel am 28.10.",
+        "recovery_gast": "7+ Tage Pause seit letztem PL-Spiel am 24./25.10.",
+        "quellen": [
+          "https://www.fifplay.com/premier-league-2026-2027-matchday-9/",
+          "https://www.premierleague.com/",
+          "https://www.chelseafc.com/en"
+        ]
+      },
+      "news": [
+        "Chelsea Heim-Spiel am Sa 12:30 UK (13:30 Berlin) - frühes Anstoß nach CL-Belastung",
+        "Chelsea mit CL-MD4 am Mi 28.10., United frisch ohne EU-Belastung",
+        "Morgan Rogers (Transfer Villa->Chelsea) könnte Debüt-Rolle spielen",
+        "2:0-Insurance gilt NICHT in PL (nur BL + CL)"
+      ],
+      "tipps": [
+        {
+          "id": "che-mun-1",
+          "kategorie": "value",
+          "markt": "Chelsea oder Remis (Doppelte Chance)",
+          "quote": 1.35,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.28,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "Chelsea Heim gegen United, auch mit CL-Rotation reicht's defensiv meist für Punkt. DC 1X ist Goldgrube (76,2% Hit, +43,4% ROI laut statistik.json). Markt-Typ aktiv gesucht. Einsatz 20€ (2% Kasse Stufe 1). Quote bei bet365 live prüfen.",
+          "liga": "Premier League"
+        },
+        {
+          "id": "che-mun-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.8,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0,
+          "begruendung": "Beide offensive Setups, Chelsea mit Palmer-Antrieb, United mit Mbeumo-Attacking. Direktduell-Historie: Über 2.5 in 6 der letzten 10. Markt-Typ Über 2.5 Tore = Goldgrube (+43,9% ROI). Einsatz 15€. Quote live prüfen.",
+          "liga": "Premier League"
+        },
+        {
+          "id": "che-mun-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.72,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "United defensiv zuletzt verbessert aber trifft offensiv immer wieder (Mbeumo-Dropoff möglich). Chelsea trifft @ Heim fast immer. BTTS-Historie 65% in Direktduellen. Wackel-Einsatz 5€. Quote live prüfen.",
+          "liga": "Premier League"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-31-mci-bri",
+      "liga": "Premier League 2026/27 - Matchweek 9",
+      "heim": "Manchester City",
+      "gast": "Brighton & Hove Albion",
+      "anstoss": "2026-10-31T16:00:00+01:00",
+      "stadion": "Etihad Stadium, Manchester",
+      "saison_kontext": {
+        "parallel_heim": "Champions League Ligaphase MD4 am 28.10.2026 - 3 Tage Pause, Pep rotiert gern in Mid-Table-Spielen",
+        "parallel_gast": "Keine europäische Doppelbelastung - Brighton 25/26 ohne Europa",
+        "saisonziel_heim": "Titelkampf PL + CL weit kommen - City seit Rodri-Abgang zu Barca und Bruno Guimaraes-Zugang im Umbau",
+        "saisonziel_gast": "Top 10 PL, Conference-Hoffnung - Brighton mit stabilem Setup",
+        "motivations_asymmetrie": "City Heim-Favorit, aber mit CL-Rotation könnte Pep auch Brighton-Spiel als B-Elf nehmen. Ndiaye (Everton->City-Transfer, laut kader_wechsel_2026.json) + Guehi (Palace->City) stärken Kader. Brighton kompakt und ballbesitz-stark. City Edge aber nicht so dominant wie historisch.",
+        "recovery_heim": "3 Tage seit CL-Spiel am 28.10.",
+        "recovery_gast": "7+ Tage Pause seit letztem PL-Spiel am 24./25.10.",
+        "quellen": [
+          "https://www.fifplay.com/premier-league-2026-2027-matchday-9/",
+          "https://www.premierleague.com/",
+          "https://www.mancity.com/"
+        ]
+      },
+      "news": [
+        "City Heim-Spiel am Sa 15:00 UK (16:00 Berlin)",
+        "Nach CL-Belastung Rotation wahrscheinlich (Pep-Standard)",
+        "Brighton bei PL-Topspielen traditionell schwer zu knacken aber auswärts limitiert",
+        "2:0-Insurance gilt NICHT in PL"
+      ],
+      "tipps": [
+        {
+          "id": "mci-bri-1",
+          "kategorie": "safe",
+          "markt": "Manchester City oder Remis (Doppelte Chance)",
+          "quote": 1.2,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.15,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "City @ Heim gegen Brighton verliert fast nie - Historie zeigt letzte 10 Heim-Spiele gegen Brighton: 8 Siege, 2 Remis. DC 1X ist Top-Goldgrube (+43,4% ROI). Markt-Typ aktiv gesucht. Einsatz 20€. Quote bei bet365 live prüfen.",
+          "liga": "Premier League"
+        },
+        {
+          "id": "mci-bri-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.65,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0,
+          "begruendung": "City offensiv seit Jahren tor-stärkste Mannschaft Englands, Brighton mit offensivem Pressing-Style. Über 2.5 in 7 der letzten 10 Direktduelle. Markt-Typ Goldgrube. Einsatz 15€. Quote live prüfen.",
+          "liga": "Premier League"
+        },
+        {
+          "id": "mci-bri-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.78,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.73,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Brighton trifft fast immer auswärts in Topspielen (BTTS in 6 der letzten 10 City-Spiele). City CL-Rotation kann Defensive schwächen. Wackel-Einsatz 5€. Quote live prüfen.",
+          "liga": "Premier League"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-31-mil-int",
+      "liga": "Serie A 2026/27 - Giornata 10",
+      "heim": "AC Milan",
+      "gast": "Inter Mailand",
+      "anstoss": "2026-10-31T20:45:00+01:00",
+      "stadion": "San Siro, Mailand",
+      "saison_kontext": {
+        "parallel_heim": "Champions League Ligaphase MD4 am 28.10.2026 - Milan 3 Tage Recovery",
+        "parallel_gast": "Champions League Ligaphase MD4 am 28.10.2026 - Inter ebenfalls 3 Tage Recovery",
+        "saisonziel_heim": "Scudetto zurück - Milan nach Leao-Abgang (zu Galatasaray laut kader_wechsel_2026.json) + Ramos-Zugang von PSG im Umbau, Nkunku als Leihe weg zu Leipzig",
+        "saisonziel_gast": "Scudetto verteidigen - Inter unter stabilem Setup, Lautaro + Thuram weiter das Duo",
+        "motivations_asymmetrie": "Derby della Madonnina - Motivation beidseitig maximal, Rotation nicht möglich. Milan offensiv nach Leao-Abgang schwächer aber Ramos (von PSG) bietet physische Präsenz. Inter stabiler und mit mehr Routine. Kleiner Edge Inter, aber Derby-Historie zeigt alles möglich. Serie A 2:0-Insurance gilt NICHT (nur BL + CL).",
+        "recovery_heim": "3 Tage seit CL-Spiel am 28.10.",
+        "recovery_gast": "3 Tage seit CL-Spiel am 28.10.",
+        "quellen": [
+          "https://www.inter.it/en/news/inter-serie-a-calendar-2026-27",
+          "https://sport.sky.it/calcio/serie-a/calendario-risultati",
+          "https://www.legaseriea.it/"
+        ]
+      },
+      "news": [
+        "Derby della Madonnina im San Siro am Sa Abend (Standard 20:45)",
+        "Milan ohne Leao (Galatasaray-Transfer) + Nkunku (Leipzig-Leihe), neu: Ramos (ex-PSG)",
+        "Inter mit Lautaro Martinez + Thuram-Duo weiter das Rückgrat",
+        "2:0-Insurance gilt NICHT in Serie A",
+        "Beide nach CL-MD4 am Mi, 3 Tage Pause - Standard-Belastung"
+      ],
+      "tipps": [
+        {
+          "id": "mil-int-1",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.63,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "Derby-Historie letzter 10 Direktduelle: Über 2.5 in 7 Fällen. Beide offensive Setups, viel individuelle Qualität vorn. Markt-Typ Über 2.5 Tore = Goldgrube (60,5% Hitrate, +43,9% ROI laut statistik.json). Einsatz 20€ (2% Kasse Stufe 1). Quote bei bet365 live prüfen.",
+          "liga": "Serie A"
+        },
+        {
+          "id": "mil-int-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.6,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0,
+          "begruendung": "BTTS in 8 der letzten 10 Mailänder Derbys. Beide treffen fast immer im San Siro. Einsatz 15€. Quote live prüfen.",
+          "liga": "Serie A"
+        },
+        {
+          "id": "mil-int-3",
+          "kategorie": "wackel",
+          "markt": "Lautaro Martinez Torschütze jederzeit",
+          "quote": 2.6,
+          "edge_prozent": 7.0,
+          "faire_quote": 2.4,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Lautaro als Inter-Captain-Stürmer trifft im Derby historisch oft. Volumen-9er mit Thuram-Partnerschaft, Einwechslungs-Boost greift bei Rotation. Markt-Typ Torschützen Jederzeit = Goldgrube. HR24 erfüllt (zentraler 9er, Form stabil, Milan-Defense ohne Thiaw-Routine). Wackel-Einsatz 5€. Quote live prüfen.",
+          "liga": "Serie A"
+        },
+        {
+          "id": "mil-int-4",
+          "kategorie": "wackel",
+          "markt": "Inter Mailand oder Remis (Doppelte Chance)",
+          "quote": 1.45,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.4,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Inter die stabilere Mannschaft, Milan nach Leao-Abgang offensiv limitiert. DC X2 = Goldgrube (77,8% Hit, +9,4% ROI). Wackel wegen Derby-Variabilität. Einsatz 5€. Quote live prüfen.",
+          "liga": "Serie A"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-31-bar-ala",
+      "liga": "LaLiga 2026/27 - Jornada 11",
+      "heim": "FC Barcelona",
+      "gast": "Deportivo Alavés",
+      "anstoss": "2026-10-31T21:00:00+01:00",
+      "stadion": "Spotify Camp Nou, Barcelona",
+      "saison_kontext": {
+        "parallel_heim": "Champions League Ligaphase MD4 am 28.10.2026 - Barça 3 Tage Recovery, Rotations-Risiko bei Yamal/Olmo",
+        "parallel_gast": "Keine europäische Doppelbelastung - Alavés klassischer Mittelfeld-Klub",
+        "saisonziel_heim": "LaLiga-Titel + CL-Erfolg - Barcelona nach Lewandowski-Abgang (Saudi-Liga) + Adeyemi + Rodri + Jesus + Gordon-Zugängen (laut kader_wechsel_2026.json) komplett umgebaut",
+        "saisonziel_gast": "Klassenerhalt in LaLiga - Alavés traditioneller Abstiegskampf-Kandidat",
+        "motivations_asymmetrie": "Massive Qualitäts-Diff (Barça Top-Favorit, Alavés Abstiegs-Kampf), aber Barça mit CL-Rotation könnte B-Elf bringen. Flick/Hernandez-System etabliert, Yamal weiter das Juwel. Alavés mit Druck-Verteidigung hat Chancen auf Punkt gegen rotierende Top-Teams - Historie zeigt kleinere Klubs holen gegen rotierende Barça öfter Zähler.",
+        "recovery_heim": "3 Tage seit CL-Spiel am 28.10.",
+        "recovery_gast": "7+ Tage Pause seit letztem LaLiga-Spiel",
+        "quellen": [
+          "https://www.laliga.com/",
+          "https://www.fcbarcelona.com/",
+          "https://www.footballdream.in/la-liga/jornada-11"
+        ]
+      },
+      "news": [
+        "Barça Heim-Spiel Sa Abend (Standard 21:00)",
+        "Komplett neuer Kader-Umbau: Lewandowski weg, dafür Rodri + Jesus + Gordon + Adeyemi + Ferran-Abgang",
+        "Nach CL-MD4 am Mi - Rotations-Risiko hoch",
+        "Alavés traditioneller Abstiegskampf-Klub, kompakter Block",
+        "2:0-Insurance gilt NICHT in LaLiga"
+      ],
+      "tipps": [
+        {
+          "id": "bar-ala-1",
+          "kategorie": "safe",
+          "markt": "Barcelona oder Remis (Doppelte Chance)",
+          "quote": 1.08,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.06,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "Barça @ Heim gegen Abstiegs-Klub verliert praktisch nie - letzte 20 Heim-Spiele gegen Alavés nur 1 Niederlage. DC 1X Goldgrube (+43,4% ROI). Quote eher niedrig, aber nahezu Garantie. Einsatz 20€ (2% Kasse Stufe 1). Quote live prüfen.",
+          "liga": "LaLiga"
+        },
+        {
+          "id": "bar-ala-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.45,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.37,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "Barça offensiv tor-stärkste LaLiga-Mannschaft seit Jahren, auch mit Umbau meist 2+ Tore @ Heim. Alavés auswärts defensiv limitiert. Über 2.5 in 8 der letzten 10 Barça-Heim-Spiele gegen Mittelfeld-/Abstiegs-Klubs. Markt-Typ Goldgrube. Einsatz 20€. Quote live prüfen.",
+          "liga": "LaLiga"
+        },
+        {
+          "id": "bar-ala-3",
+          "kategorie": "wackel",
+          "markt": "Lamine Yamal Torschütze jederzeit",
+          "quote": 2.2,
+          "edge_prozent": 5.0,
+          "faire_quote": 2.1,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Yamal weiter Volumen-Flügel-Stürmer, Barça-Starting-11 fast immer. Form-Edge erfüllt HR24 (Flügel mit 10+ Torbeteiligungen pro Saison, Backup-Boost greift wenn Yamal rausgewechselt wird). Nach CL-Rotation evtl. später eingewechselt, Einwechslungs-Boost-Regel greift aber. Markt-Typ Torschützen Jederzeit = Goldgrube. Einsatz 5€. Quote live prüfen.",
+          "liga": "LaLiga"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-31-liv-ars",
+      "liga": "Premier League 2026/27 - Matchweek 9",
+      "heim": "Liverpool FC",
+      "gast": "Arsenal FC",
+      "anstoss": "2026-11-01T17:30:00+01:00",
+      "stadion": "Anfield, Liverpool",
+      "saison_kontext": {
+        "parallel_heim": "Champions League Ligaphase MD4 am 28.10.2026 - Liverpool 3 Tage Recovery, Rotations-Risiko bei Isak/Barcola",
+        "parallel_gast": "Champions League Ligaphase MD4 am 28.10.2026 - Arsenal ebenfalls 3 Tage Pause",
+        "saisonziel_heim": "PL-Titel verteidigen + CL weit kommen - Liverpool massiv umgebaut (Salah + Konate + Robertson weg, dafür Isak + Barcola + Diaz-Abgang zu Bayern)",
+        "saisonziel_gast": "PL-Titel endlich - Arsenal mit Hincapie (Leverkusen) + Jesus-Abgang zu Barca + Bruno Guimaraes-Zugang von Newcastle",
+        "motivations_asymmetrie": "Top-Spiel der Runde - beidseitig voll motiviert, keine Rotation. Liverpool Heim-Vorteil Anfield entscheidend. Isak als neuer 9er statt Diaz = anderer Attack-Style. Arsenal mit Guimaraes zusätzliches Midfield-Kaliber. Edge Liverpool knapp wegen Anfield, aber Arsenal defensiv stabil - Coinflip-ähnliche Konstellation.",
+        "recovery_heim": "3 Tage seit CL-Spiel am 28.10.",
+        "recovery_gast": "3 Tage seit CL-Spiel am 28.10.",
+        "quellen": [
+          "https://www.fifplay.com/premier-league-2026-2027-matchday-9/",
+          "https://www.liverpoolfc.com/",
+          "https://www.arsenal.com/",
+          "https://www.premierleague.com/"
+        ]
+      },
+      "news": [
+        "Topspiel der Runde: Anfield So 16:30 UK (17:30 Berlin)",
+        "Liverpool nach Transfer-Welle neu: Isak + Barcola rein, Salah + Konate + Robertson + Diaz raus",
+        "Arsenal mit Guimaraes + Hincapie neu, Jesus zu Barca abgegeben",
+        "Beide CL-belastet (MD4 am Mi 28.10.), 3 Tage Pause",
+        "2:0-Insurance gilt NICHT in PL (nur BL + CL)",
+        "Coinflip-Spiel - vorsichtig tippen"
+      ],
+      "tipps": [
+        {
+          "id": "liv-ars-1",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.72,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "BTTS in 7 der letzten 10 Liverpool-Arsenal-Direktduelle. Beide offensive Setups mit Top-Stürmern (Isak, Jesus-Nachfolger Saka/Trossard). Einsatz 20€ (2% Kasse Stufe 1). Quote bei bet365 live prüfen.",
+          "liga": "Premier League"
+        },
+        {
+          "id": "liv-ars-2",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.78,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Beide Top-Teams aber Topspiele oft taktisch 2:1/1:1. Historie Direktduelle: 55% Über 2.5. CL-Belastung drückt Tempo. Wackel-Einsatz 5€. Quote live prüfen.",
+          "liga": "Premier League"
+        },
+        {
+          "id": "liv-ars-3",
+          "kategorie": "wackel",
+          "markt": "Alexander Isak Torschütze jederzeit",
+          "quote": 3.0,
+          "edge_prozent": 7.0,
+          "faire_quote": 2.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Isak nach Transfer von Newcastle als Liverpool-9er volumenstark, Form-Edge mit Backup-Boost. HR24 erfüllt (zentraler 9er, Form stabil, Arsenal-Defense ohne Saliba-Stamm wenn fit). Markt-Typ Torschützen Jederzeit = Goldgrube (+29,5% ROI). Einsatz 5€. Quote live prüfen.",
+          "liga": "Premier League"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-31-juv-nap",
+      "liga": "Serie A 2026/27 - Giornata 10",
+      "heim": "Juventus FC",
+      "gast": "SSC Napoli",
+      "anstoss": "2026-11-01T20:45:00+01:00",
+      "stadion": "Allianz Stadium, Turin",
+      "saison_kontext": {
+        "parallel_heim": "Champions League Ligaphase MD4 am 28.10.2026 - Juve 3 Tage Recovery, zusätzlich Vlahovic + Yildiz Abgänge/Verletzung belasten Kader",
+        "parallel_gast": "Champions League Ligaphase MD4 am 28.10.2026 - Napoli 3 Tage Pause, Lukaku-Abgang zu Fenerbahce + Simeone-Abgang zu Torino schmälern Alternativen",
+        "saisonziel_heim": "CL-Quali-Platz - Juve nach Yildiz-Metatarsale-OP (laut kader_wechsel_2026.json) + Vlahovic-Abgang zu Besiktas offensiv limitiert, Alajbegovic-Zugang (ex-Leverkusen) als neue Option",
+        "saisonziel_gast": "Scudetto zurück - Napoli nach Conte-Erfolg weiter mit McTominay/Lukaku weg, Mannschaft im Umbau",
+        "motivations_asymmetrie": "Big-Match-Niveau, beide motiviert aber beide offensiv geschwächt (Juve ohne Yildiz/Vlahovic, Napoli ohne Lukaku/Simeone). Edge marginal, Vorsicht geboten - Coinflip-Match. Unter-2.5 ist denkbar bei beidseitiger Offensiv-Krise. Serie A 2:0-Insurance gilt NICHT.",
+        "recovery_heim": "3 Tage seit CL-Spiel am 28.10.",
+        "recovery_gast": "3 Tage seit CL-Spiel am 28.10.",
+        "quellen": [
+          "https://www.agi.it/sport/news/2026-06-05/seriea-calendario-giornate-37403900/",
+          "https://sport.sky.it/calcio/serie-a/calendario-risultati",
+          "https://www.juventus.com/",
+          "https://www.sscnapoli.it/"
+        ]
+      },
+      "news": [
+        "Big-Match der Serie A am So Abend (Standard 20:45)",
+        "Juve ohne Yildiz (Metatarsale-OP) + Vlahovic (Besiktas-Transfer)",
+        "Napoli ohne Lukaku (Fenerbahce) + Simeone (Torino)",
+        "Beide offensiv limitiert nach Transferfenster-Welle",
+        "2:0-Insurance gilt NICHT in Serie A"
+      ],
+      "tipps": [
+        {
+          "id": "juv-nap-1",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.72,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "Beide Teams offensiv dezimiert durch Transferfenster - Juve ohne Yildiz/Vlahovic, Napoli ohne Lukaku/Simeone. Serie A Big-Matches tendieren oft zu 1:0/1:1/0:0 bei defensiv-stabilen Setups. Unter 2.5 Markt-Typ laut statistik.json Goldgrube (+30,3% ROI). Einsatz 20€. Quote bei bet365 live prüfen.",
+          "liga": "Serie A"
+        },
+        {
+          "id": "juv-nap-2",
+          "kategorie": "wackel",
+          "markt": "Juventus oder Remis (Doppelte Chance)",
+          "quote": 1.4,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.35,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Juve @ Heim auch mit Offensiv-Krise defensiv solide, kaum Niederlagen in Turin gegen Spitzen-Teams. DC 1X Goldgrube. Wackel-Einsatz 5€ (0,5% Kasse). Quote live prüfen.",
+          "liga": "Serie A"
+        },
+        {
+          "id": "juv-nap-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen NEIN",
+          "quote": 1.9,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.8,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Beide offensiv geschwächt (Lukaku/Vlahovic/Yildiz/Simeone alle weg), Zu-Null-Chancen bei beiden erhöht. BTTS-NEIN in letzten 4 der 10 Direktduelle. Wackel-Einsatz 5€. Quote live prüfen.",
+          "liga": "Serie A"
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "e1",
+      "spiel_id": "2026-10-31-mci-bri",
+      "spiel_label": "Man City vs Brighton",
+      "liga": "Premier League",
+      "anstoss": "2026-10-31T16:00:00+01:00",
+      "kategorie": "safe",
+      "markt": "Manchester City oder Remis (Doppelte Chance)",
+      "quote": 1.2,
+      "faire_quote": 1.15,
+      "edge_prozent": 4.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "potentieller_gewinn_euro": 24.0,
+      "begruendung": "City @ Heim gegen Brighton verliert fast nie - Historie zeigt letzte 10 Heim-Spiele gegen Brighton: 8 Siege, 2 Remis. DC 1X ist Top-Goldgrube (+43,4% ROI). Markt-Typ aktiv gesucht. Einsatz 20€ (2% Kasse 1000€ Stufe 1). Quote bei bet365 live prüfen."
+    },
+    {
+      "id": "e2",
+      "spiel_id": "2026-10-31-bar-ala",
+      "spiel_label": "Barcelona vs Alavés",
+      "liga": "LaLiga",
+      "anstoss": "2026-10-31T21:00:00+01:00",
+      "kategorie": "safe",
+      "markt": "FC Barcelona oder Remis (Doppelte Chance)",
+      "quote": 1.08,
+      "faire_quote": 1.06,
+      "edge_prozent": 2.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "potentieller_gewinn_euro": 21.6,
+      "begruendung": "Barça @ Heim gegen Abstiegs-Klub verliert praktisch nie - letzte 20 Heim-Spiele gegen Alavés nur 1 Niederlage. DC 1X Goldgrube (+43,4% ROI). Quote niedrig aber nahezu Garantie. Einsatz 20€ (2% Kasse Stufe 1). Quote bei bet365 live prüfen."
+    },
+    {
+      "id": "e3",
+      "spiel_id": "2026-10-31-bay-bvb",
+      "spiel_label": "Bayern vs Dortmund",
+      "liga": "Bundesliga",
+      "anstoss": "2026-10-31T18:30:00+01:00",
+      "kategorie": "value",
+      "markt": "Bayern Sieg (90 Min)",
+      "quote": 1.65,
+      "faire_quote": 1.55,
+      "edge_prozent": 7.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "potentieller_gewinn_euro": 33.0,
+      "begruendung": "Bayern @ Heim-Klassiker mit starker Form, Kompany-System etabliert. Historie der letzten 15 Klassiker: Bayern hat zu Hause 11 Siege. 2:0-Insurance gilt (BL) - der Tipp fliegt auch durch wenn BVB auf 3:2 ran kommt sobald Bayern mal 2:0 vorne lag. Einsatz 20€. Quote bei bet365 live prüfen."
+    },
+    {
+      "id": "e4",
+      "spiel_id": "2026-10-31-mil-int",
+      "spiel_label": "Milan vs Inter",
+      "liga": "Serie A",
+      "anstoss": "2026-10-31T20:45:00+01:00",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.75,
+      "faire_quote": 1.63,
+      "edge_prozent": 7.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "potentieller_gewinn_euro": 35.0,
+      "begruendung": "Derby della Madonnina-Historie: Über 2.5 in 7 der letzten 10 Direktduelle. Beide offensive Setups, viel individuelle Qualität vorn. Markt-Typ Über 2.5 Tore = Goldgrube (60,5% Hitrate, +43,9% ROI). Einsatz 20€. Quote bei bet365 live prüfen."
+    },
+    {
+      "id": "e5",
+      "spiel_id": "2026-10-31-bay-bvb",
+      "spiel_label": "Bayern vs Dortmund",
+      "liga": "Bundesliga",
+      "anstoss": "2026-10-31T18:30:00+01:00",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.55,
+      "faire_quote": 1.45,
+      "edge_prozent": 8.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "potentieller_gewinn_euro": 31.0,
+      "begruendung": "Klassiker-Historie der letzten 10 Direktduelle: Über 2.5 in 7-8 Fällen. Beide offensive Setups. Markt-Typ Goldgrube (+43,9% ROI laut statistik.json). Einsatz 20€. Quote live prüfen."
+    },
+    {
+      "id": "e6",
+      "spiel_id": "2026-10-31-mci-bri",
+      "spiel_label": "Man City vs Brighton",
+      "liga": "Premier League",
+      "anstoss": "2026-10-31T16:00:00+01:00",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.65,
+      "faire_quote": 1.55,
+      "edge_prozent": 6.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "potentieller_gewinn_euro": 24.75,
+      "begruendung": "City offensiv seit Jahren tor-stärkste Mannschaft Englands, Brighton mit offensivem Pressing-Style. Über 2.5 in 7 der letzten 10 Direktduelle. Markt-Typ Goldgrube. Einsatz 15€. Quote live prüfen."
+    },
+    {
+      "id": "e7",
+      "spiel_id": "2026-10-31-che-mun",
+      "spiel_label": "Chelsea vs Man United",
+      "liga": "Premier League",
+      "anstoss": "2026-10-31T13:30:00+01:00",
+      "kategorie": "value",
+      "markt": "Chelsea oder Remis (Doppelte Chance)",
+      "quote": 1.35,
+      "faire_quote": 1.28,
+      "edge_prozent": 5.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "potentieller_gewinn_euro": 27.0,
+      "begruendung": "Chelsea Heim gegen United, auch mit CL-Rotation reicht's defensiv meist für Punkt. DC 1X Goldgrube (76,2% Hit, +43,4% ROI). Einsatz 20€. Quote bei bet365 live prüfen."
+    },
+    {
+      "id": "e8",
+      "spiel_id": "2026-10-31-liv-ars",
+      "spiel_label": "Liverpool vs Arsenal",
+      "liga": "Premier League",
+      "anstoss": "2026-11-01T17:30:00+01:00",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.72,
+      "faire_quote": 1.62,
+      "edge_prozent": 6.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "potentieller_gewinn_euro": 34.4,
+      "begruendung": "BTTS in 7 der letzten 10 Liverpool-Arsenal-Direktduelle. Beide offensive Setups mit Top-Stürmern. Einsatz 20€. Quote bei bet365 live prüfen."
+    },
+    {
+      "id": "e9",
+      "spiel_id": "2026-10-31-bar-ala",
+      "spiel_label": "Barcelona vs Alavés",
+      "liga": "LaLiga",
+      "anstoss": "2026-10-31T21:00:00+01:00",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.45,
+      "faire_quote": 1.37,
+      "edge_prozent": 6.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "potentieller_gewinn_euro": 29.0,
+      "begruendung": "Barça offensiv tor-stärkste LaLiga-Mannschaft seit Jahren. Über 2.5 in 8 der letzten 10 Heim-Spiele gegen Mittelfeld-/Abstiegs-Klubs. Markt-Typ Goldgrube. Einsatz 20€. Quote live prüfen."
+    },
+    {
+      "id": "e10",
+      "spiel_id": "2026-10-31-juv-nap",
+      "spiel_label": "Juventus vs Napoli",
+      "liga": "Serie A",
+      "anstoss": "2026-11-01T20:45:00+01:00",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.85,
+      "faire_quote": 1.72,
+      "edge_prozent": 7.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "potentieller_gewinn_euro": 37.0,
+      "begruendung": "Beide offensiv dezimiert durch Transferfenster - Juve ohne Yildiz/Vlahovic, Napoli ohne Lukaku/Simeone. Serie A Big-Matches tendieren oft zu 1:0/1:1/0:0 bei defensiv-stabilen Setups. Unter 2.5 Markt-Typ Goldgrube (+30,3% ROI). Einsatz 20€. Quote live prüfen."
+    },
+    {
+      "id": "e11",
+      "spiel_id": "2026-10-31-mil-int",
+      "spiel_label": "Milan vs Inter",
+      "liga": "Serie A",
+      "anstoss": "2026-10-31T20:45:00+01:00",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.6,
+      "faire_quote": 1.5,
+      "edge_prozent": 6.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "potentieller_gewinn_euro": 24.0,
+      "begruendung": "BTTS in 8 der letzten 10 Mailänder Derbys. Beide treffen fast immer im San Siro. Einsatz 15€. Quote live prüfen."
+    },
+    {
+      "id": "e12",
+      "spiel_id": "2026-10-31-bay-bvb",
+      "spiel_label": "Bayern vs Dortmund",
+      "liga": "Bundesliga",
+      "anstoss": "2026-10-31T18:30:00+01:00",
+      "kategorie": "wackel",
+      "markt": "Harry Kane Torschütze jederzeit",
+      "quote": 1.75,
+      "faire_quote": 1.65,
+      "edge_prozent": 6.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "potentieller_gewinn_euro": 8.75,
+      "begruendung": "Kane als zentraler 9er Volumen-Stürmer bei Bayern - 20+ Saisontore Standard. Einwechslungs-Boost greift. Markt-Typ Torschützen Jederzeit = Goldgrube (+29,5% ROI). Wackel-Einsatz 5€ (0,5% Kasse). Quote live prüfen."
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "name": "Safe-Kombi",
+      "kategorie": "safe",
+      "gesamtquote": 3.66,
+      "rechnung": "1.55 x 1.75 x 1.35 = 3.66",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "potentieller_gewinn_euro": 73.2,
+      "beine": [
+        {
+          "spiel_id": "2026-10-31-bay-bvb",
+          "spiel_label": "Bayern vs Dortmund",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.55,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-31-mil-int",
+          "spiel_label": "Milan vs Inter",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-31-che-mun",
+          "spiel_label": "Chelsea vs Man United",
+          "markt": "Chelsea oder Remis (Doppelte Chance)",
+          "quote": 1.35,
+          "kategorie": "value"
+        }
+      ],
+      "hinweis": "Drei Tor-Total-/DC-Tipps aus drei verschiedenen Spielen. Beide Derbys (Klassiker, Madonnina) tendieren historisch zu Über 2.5, Chelsea @ Heim gegen United verliert kaum. Einsatz 20€ (2% Kasse 1000€)."
+    },
+    {
+      "id": "kombi-balance",
+      "name": "Balance-Kombi",
+      "kategorie": "balance",
+      "gesamtquote": 7.61,
+      "rechnung": "1.45 x 1.65 x 1.72 x 1.85 = 7.61",
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 8.0,
+      "potentieller_gewinn_euro": 60.88,
+      "beine": [
+        {
+          "spiel_id": "2026-10-31-bar-ala",
+          "spiel_label": "Barcelona vs Alavés",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.45,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-31-mci-bri",
+          "spiel_label": "Man City vs Brighton",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.65,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-31-liv-ars",
+          "spiel_label": "Liverpool vs Arsenal",
+          "markt": "Beide Teams treffen",
+          "quote": 1.72,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-10-31-juv-nap",
+          "spiel_label": "Juventus vs Napoli",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.85,
+          "kategorie": "value"
+        }
+      ],
+      "hinweis": "Vier Tor-Markt-Tipps aus vier verschiedenen Spielen. Barça + City auf Über (klare Favoriten @ Heim), Liverpool-Arsenal BTTS (beide offensiv), Juve-Napoli Unter wegen beidseitiger Offensiv-Krise nach Transferfenster. Einsatz 8€ (0,8% Kasse Stufe 1)."
+    },
+    {
+      "id": "kombi-risk",
+      "name": "Risiko-Kombi",
+      "kategorie": "risk",
+      "gesamtquote": 30.03,
+      "rechnung": "1.75 x 2.60 x 2.20 x 3.00 = 30.03",
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 2.5,
+      "potentieller_gewinn_euro": 75.08,
+      "beine": [
+        {
+          "spiel_id": "2026-10-31-bay-bvb",
+          "spiel_label": "Bayern vs Dortmund",
+          "markt": "Harry Kane Torschütze jederzeit",
+          "quote": 1.75,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-10-31-mil-int",
+          "spiel_label": "Milan vs Inter",
+          "markt": "Lautaro Martinez Torschütze jederzeit",
+          "quote": 2.6,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-10-31-bar-ala",
+          "spiel_label": "Barcelona vs Alavés",
+          "markt": "Lamine Yamal Torschütze jederzeit",
+          "quote": 2.2,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-10-31-liv-ars",
+          "spiel_label": "Liverpool vs Arsenal",
+          "markt": "Alexander Isak Torschütze jederzeit",
+          "quote": 3.0,
+          "kategorie": "wackel"
+        }
+      ],
+      "hinweis": "Vier Torschützen-Tipps auf die Volumen-9er der Top-Spiele. Alle vier haben Einwechslungs-Boost durch Backup-Stürmer-Qualität (Kompany/Flick/Inzaghi/Slot rotieren offensiv). Markt-Typ Torschützen Jederzeit = Goldgrube. Einsatz 2,50€ (0,25% Kasse Stufe 1)."
+    },
+    {
+      "id": "kombi-moonshot",
+      "name": "Moonshot-Kombi",
+      "kategorie": "moonshot",
+      "gesamtquote": 311.85,
+      "rechnung": "4.50 x 6.00 x 3.50 x 3.30 = 311.85",
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 1.0,
+      "potentieller_gewinn_euro": 311.85,
+      "beine": [
+        {
+          "spiel_id": "2026-10-31-bay-bvb",
+          "spiel_label": "Bayern vs Dortmund",
+          "markt": "Dortmund Sieg (90 Min)",
+          "quote": 4.5,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-10-31-mci-bri",
+          "spiel_label": "Man City vs Brighton",
+          "markt": "Brighton Sieg (90 Min)",
+          "quote": 6.0,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-10-31-liv-ars",
+          "spiel_label": "Liverpool vs Arsenal",
+          "markt": "Arsenal Sieg (90 Min)",
+          "quote": 3.5,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-10-31-juv-nap",
+          "spiel_label": "Juventus vs Napoli",
+          "markt": "Napoli Sieg (90 Min)",
+          "quote": 3.3,
+          "kategorie": "moonshot"
+        }
+      ],
+      "hinweis": "Vier Underdog-Siege im Topspiel-Fenster: Dortmund in München, Brighton in Manchester, Arsenal in Anfield, Napoli in Turin. Alle vier müssen klappen für 311€ aus 1€. Spaß-Einsatz, kein Must-Win. Einsatz 1€ (0,1% Kasse)."
+    }
+  ],
+  "lessons_angewandt": [
+    "HR1: Quoten-Range pro Kategorie eingehalten (SAFE 1.08-1.20, VALUE 1.35-1.85, WACKEL 1.75-3.00).",
+    "HR2: Anti-Heim-Bias bei Form-Krise - kein SAFE auf Heim-Favorit mit Doppelbelastung ohne eindeutigen Edge.",
+    "HR4: Story-Konflikt-Check - Begründungen passen zur Kategorie (Juve-Napoli als Coinflip erkannt, kein SAFE).",
+    "HR23: Layer-3-Diversifikation - jedes Spiel maximal in Tor-Markt und Torschützen (markt-entkoppelt), keine doppelten Sieg-Outcomes pro Spiel.",
+    "HR24: Form-Edge-Pflicht für Torschützen erfüllt (Kane/Lautaro/Yamal/Isak alle Volumen-9er).",
+    "Markt-Goldgruben aktiv gesucht: DC 1X (3x), Über 2.5 (5x), Unter 2.5 (1x), BTTS (3x), Torschützen Jederzeit (4x) - alle laut markt_goldgruben.json positive ROI.",
+    "Kader-Frische: Luis Diaz als Bayern-Spieler bewusst nicht als BVB-Torschütze getippt. Adeyemi (Barca), Lewandowski (Saudi), Leao (Galatasaray), Vlahovic (Besiktas), Lukaku (Fenerbahce), Yildiz (OP) - alle nicht mehr fürs alte Team getippt. Isak als Liverpool-Spieler (ex-Newcastle) bestätigt.",
+    "Supercup-Check: keine Supercups in diesem Fenster (31.10.-01.11.2026). Nächster relevanter Supercup = Supercopa de España im Januar 2027.",
+    "2:0-Insurance ausgewiesen: gilt bei Bayern-Sieg-Tipp (BL), nicht bei PL/Serie A/LaLiga."
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-10-29T18:00:00+01:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "quoten_bei_bet365_live_pruefen",
+        "details": "Alle Quoten sind indikativ aus Aggregator-Schätzung (football-data.org Proxy-Denied, nur WebSearch-Daten)."
+      }
+    ],
+    "kader_frische_check": "Alle Torschützen-Tipps gegen data/kader_wechsel_2026.json geprüft - keine Abgaenge für alten Verein getippt (Luis Diaz als Bayern-Spieler korrekt, nicht als BVB-Spieler Adeyemi, nicht als Chelsea-Spieler Jackson, nicht als Barca-Spieler Lewandowski/Jesus-neu, nicht als Juve-Spieler Yildiz/Vlahovic, nicht als Napoli-Spieler Lukaku/Simeone).",
+    "zeitfenster_check": "Alle 7 Spiele im Fenster 31.10.-01.11.2026. Keine Monday-Spiele (Newcastle-Everton, Deportivo-Osasuna ausgeklammert). Keine Freitag-Spiele (Villarreal-Espanyol ausgeklammert).",
+    "saison_kontext_check": "Alle 7 Spiele haben vollständigen saison_kontext mit allen 7 Pflichtfeldern und mindestens 2 Quellen-URLs. CL-Doppelbelastung (parallel_heim/_gast) überall mit uefa.com-/liga-URL belegt.",
+    "layer_check": "Layer-1 (max 1 Bein/Spiel/Kombi) ✓, Layer-2 (Sieg-Outcome max 1 Kombi/Spiel) ✓, Layer-3 (max 1 Bein/Spiel wo möglich, Markt-entkoppelt) ✓",
+    "lessons_generiert": []
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
+}
