@@ -1,658 +1,79 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
-  "datum": "2026-10-28",
-  "erstellt_am": "2026-10-28T13:50:00+01:00",
+  "datum": "2026-10-29",
+  "erstellt_am": "2026-10-29T13:05:35.041641+00:00",
+  "modus": "tag",
   "_watchdog_recovery": true,
-  "hinweis": "Watchdog-Recovery Mi 28.10. — die 13:30-Hauptroutine hat nicht geliefert. Pokal-Mittwoch + Serie-A-Giornata-9-Infrasettimanale + Carabao-Cup Achtelfinale. Fokus: Favoriten-Siege im DFB-Pokal (Bayern, Leverkusen, Stuttgart) als SAFE/VALUE-Basis + Torschuetzen-Jederzeit-Goldgrube (ROI +33%) + DC-Picks in Serie A. Keine 2:0-Insurance im DFB-Pokal (nur BL+CL). Kasse 1000€, Stufe 1 - also 1-2% pro Einzeltipp (10-20€), Kombis konservativ. Quoten bei bet365 live pruefen.",
+  "hinweis": "Watchdog-Recovery am 29.10.2026 (Donnerstag): nur 1 Spiel im Zeitfenster. Europa League Spieltag 4 ist am 05.11., Conference League Spieltag 3 ebenfalls am 05.11. - heute spielt keine europaeische Clubwettkampf-Runde. DFB-Pokal-Runde 2 war 27./28.10., beide Tage auch vorbei. Carabao Cup gehoert nicht in die Whitelist. Daher nur Fiorentina-Atalanta (Serie A infrasettimanale 9. Giornata, 20:45 Franchi) - beide Teams in Krise, 50/50-Duell mit defensivem Markt-Fokus. Keine Kombis moeglich (nur 1 Spiel - Layer-1 verletzt bei >1 Bein/Spiel). Kasse 1000€, Stufe 1 aktiv.",
   "spiele": [
     {
-      "id": "2026-10-28-bay-mag",
-      "liga": "DFB-Pokal 2026/27 - 2. Runde",
-      "heim": "FC Bayern Muenchen",
-      "gast": "1. FC Magdeburg",
-      "anstoss": "2026-10-28T20:45:00+01:00",
-      "stadion": "Allianz Arena, Muenchen",
+      "id": "2026-10-29-fio-ata",
+      "liga": "Serie A - Giornata 9",
+      "heim": "ACF Fiorentina",
+      "gast": "Atalanta BC",
+      "anstoss": "2026-10-29T20:45:00+01:00",
+      "stadion": "Stadio Artemio Franchi, Florenz",
       "saison_kontext": {
-        "parallel_heim": "Bayern vor BL-ST 9 am Wochenende und naechster CL-Termin ST 4 am 04.11. Vincent Kompany rotiert erfahrungsgemaess ca. 3-4 Positionen im Pokal gegen Zweitligisten - Luis Diaz-/Olise-/Jackson-/Harry Kane-Rotation moeglich, aber Startelf-Qualitaet bleibt hoch. BL-Tabellenfuehrer (17 Pkt, 25:6, zusammen mit BVB).",
-        "parallel_gast": "Magdeburg nur 2. Bundesliga, kein Europapokal. Spielt nach ca. 10 2.-Liga-Spieltagen im Mittelfeld bis unteres Drittel. Pokal gegen Bayern ist Highlight-Spiel der Saison - volle Startelf-Motivation, aber Klassenunterschied extrem.",
-        "saisonziel_heim": "Meisterschaft verteidigen + Pokal-Lauf + CL-Lauf. Zu-Null-Pflichtaufgabe, Rotation moderat.",
-        "saisonziel_gast": "2.-Liga-Klassenerhalt, Pokal-Erlebnis mitnehmen. Realistisch: 0:3+ einplanen und Haltung bewahren.",
-        "motivations_asymmetrie": "Klarster Favoriten-Mismatch des Tages. Bayern Heim gegen Zweitligist mit nahezu kompletter Qualitaet - Pokal-Favorit implied ~87% (bet365 Sieg 90 Min ~1.12-1.18). WICHTIG: 2:0-Insurance gilt NICHT im DFB-Pokal (nur BL + CL) - Sieg-Tipp braucht echten 90-Min-Sieg. Backup-Pfad DC 1X ist in BL/Pokal gegen Zweitliga-Underdogs historisch stabil (DC 1X Goldgrube 76% Hitrate / +43% ROI).",
-        "recovery_heim": "Rotation moderat, 3-4 Tage Pause seit letztem BL-Spiel. Diaz als Fluegel/Volume-9er-Backup (Hattrick 17.10. gegen Leipzig in Erinnerung) ist Pokal-Startelf-Kandidat.",
-        "recovery_gast": "Pokal-Highlight, keine Rotation seitens Magdeburg - volle Qualitaet trotz 2.-Liga-Niveau.",
+        "parallel_heim": "keine Europapokal-Teilnahme 2026/27; keine Pokal-Partie diese Woche (Coppa Italia-Achtelfinale erst Dezember)",
+        "parallel_gast": "UEFA Champions League Ligaphase MD 4 am 05.11.2026 (eine Woche entfernt) - leichte Rotations-Gefahr bei Stammspielern, aber keine akute Doppelbelastung",
+        "saisonziel_heim": "Klassenerhalt - Fiorentina ist nach Grosso-Fehlstart (0 Pkt aus 3 Spielen, 09.09. entlassen) in Krise, Vanoli uebernahm 07.09.2026, Rest-Saison im unteren Tabellen-Drittel; Europa derzeit nicht realistisch",
+        "saisonziel_gast": "nach Lookman- und De-Roon-Abgang + 3 Niederlagen in Serie unter Sarri (bis 20.09.) Platz im Mittelfeld; CL-Ligaphase bereits sicher, aber Trainer unter Druck",
+        "motivations_asymmetrie": "Fiorentina mit hoechster Not und Vanoli-Impuls daheim gegen eine Atalanta, die seit Sommer-Umbau offensiv limitiert ist und 2026/27 inkonsistent startet - klassisches 50/50-Krisen-Duell, nicht die typische Atalanta-Favoriten-Rolle; Edge der Gaeste kleiner als die nominale Quote suggeriert",
+        "recovery_heim": "3 Tage seit letztem Serie-A-Spieltag am 25./26.10. - normale Pause ohne Reise",
+        "recovery_gast": "7 Tage seit CL MD 3 (22.10.) + 3 Tage seit Serie-A-Spieltag 8 - Doppelbelastungs-Spuren, Rotation plausibel vor CL MD 4 am 05.11.",
         "quellen": [
-          "https://www.fussballnationalmannschaft.net/fussball-heute-am-28-10-2026-2-123314971.html",
-          "https://www.bundesliga.com/de/bundesliga/news/tabelle",
-          "https://www.transfermarkt.de/fc-bayern-muenchen/startseite/verein/27",
-          "https://www.transfermarkt.de/1-fc-magdeburg/startseite/verein/128"
+          "https://www.uefa.com/uefachampionsleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-champions-league-all-the-league-phase-fixtures/",
+          "https://www.legaseriea.it/it/serie-a",
+          "https://sport.sky.it/calcio/serie-a/2026/09/07/fiorentina-grosso-vanoli-allenatore-news-oggi",
+          "https://www.goal.com/en/lists/juventus-atalanta-2-0-conceicao-and-bremer-spalletti-return-to-winning-ways-in-serie-a-too-three-straight-defeats-for-sarri-s-team/blt5e5439513800f466"
         ]
       },
       "news": [
-        "DFB-Pokal 2. Runde, Anstoss 20:45 in der Allianz Arena, live im Ersten/Joyn.",
-        "Bayern BL-Tabellenfuehrer 17 Pkt / 25:6, Magdeburg 2.-Liga-Mittelfeld.",
-        "Kompany rotiert typischerweise 3-4 Positionen im Pokal - Harry Kane-Startelf nicht garantiert, Jackson/Diaz-Startoption moeglich.",
-        "2:0-Insurance gilt im Pokal NICHT (nur BL+CL). Sieg-Tipp braucht Vollsieg."
+        "Fiorentina unter Trainer Paolo Vanoli (seit 07.09.2026, Nachfolger Grosso); kompakter 4-3-3 mit tiefer Linie, Zu-Null-Fokus",
+        "Atalanta unter Maurizio Sarri (seit Juli 2026, Nachfolger Gasperini); Offensive seit Lookman-Abgang (-> Atletico Madrid Feb 26) spuerbar entschaerft, dazu De-Roon-Abgang nach Rom",
+        "9. Giornata ist ein infrasettimanaler Turno (27.-29.10.) - beide Teams mit Belastungs-Spuren, Rotation plausibel",
+        "CL MD 4 fuer Atalanta am 05.11. - Sarri koennte Stammkraefte schonen; CL ist bereits ligaphase-sicher"
       ],
       "tipps": [
         {
-          "id": "bay-mag-1",
+          "id": "fio-ata-1",
           "kategorie": "safe",
-          "markt": "Sieg FC Bayern Muenchen (90 Min)",
-          "quote": 1.15,
-          "faire_quote": 1.1,
-          "edge_prozent": 4.5,
-          "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_euro": 20.0,
-          "begruendung": "Klasse-Favorit zu Hause im Pokal gegen Zweitligist - DFB-Pokal-2.-Runde-Bilanz der Routinen: 87.5% Hitrate / +30.6% ROI (n=8). 2:0-Insurance gilt hier NICHT, Vollsieg Pflicht - Bayern verliert so eine Partie Zuhause de facto nie. Reality-Check: Quote 1.15 passt gerade so in SAFE-Range (1.30-1.65 Soll, hier Untergrenze unterschritten, aber Faktenlage trotzdem SAFE). 20€ bei 1000€ Kasse (2% Stufe 1)."
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.35,
+          "edge_prozent": 3.0,
+          "begruendung": "Beide Teams defensiv aufgestellt (Vanoli-Fiorentina kompakt, Sarri-Atalanta nach Lookman-Abgang offensiv limitiert) + Krisen-Druck fuehrt zu vorsichtigem Spiel. Unter 2.5 ist Markt-Goldgrube (56.2% Hitrate, +30.3% ROI, Stand 29.10.) - Unter 3.5 noch defensiver abgesichert. Historie Fiorentina-Atalanta 2024-26: in 4 von 5 Begegnungen fielen 3 oder weniger Tore. Reality-Check: Serie A - Giornata ist tendenziell torarmer bei infrasettimanalen Runden. Einsatz Stufe 1 = 1.5% von 1000€ = 15€. Quote bei bet365 live pruefen.",
+          "faire_quote": 1.31,
+          "empfohlener_einsatz_prozent": 1.5
         },
         {
-          "id": "bay-mag-2",
+          "id": "fio-ata-2",
           "kategorie": "value",
-          "markt": "Luis Diaz Torschuetze jederzeit",
-          "quote": 2.1,
-          "faire_quote": 1.75,
-          "edge_prozent": 16.7,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Diaz traf 17.10. Hattrick gegen Leipzig - Form-Edge klar erfuellt (3+ Tore in 5 letzten Spielen = HR24-Trigger). Fluegel-/Volume-9er-Rolle unter Kompany, gegen 2.-Liga-Defensive weitere Tor-Chancen wahrscheinlich. Markt-Goldgrube Torschuetzen-Jederzeit (ROI +33.6%, n=33). Startelf bei Rotation live pruefen - wenn Bank, Tipp canceln."
-        },
-        {
-          "id": "bay-mag-3",
-          "kategorie": "value",
-          "markt": "Ueber 3.5 Tore",
+          "markt": "Doppelte Chance Atalanta oder Remis",
           "quote": 1.75,
-          "faire_quote": 1.55,
-          "edge_prozent": 12.9,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Bayerns Angriffs-Volumen gegen 2.-Liga-Defense: 3+ Tore sind unterste Erwartung, 4+ realistisch. Markt-Goldgrube Ueber 2.5 Tore (ROI +44.5%) - Ueber 3.5 ist der konsequente nachste Schritt. Pokalspiele mit Klassenunterschied enden historisch oft 4:0+. Backup falls Diaz nicht trifft."
+          "edge_prozent": 7.0,
+          "begruendung": "Atalanta hat trotz schwachem Saison-Start klar hoeheres Kader-Niveau als eine Fiorentina im Umbau - gleichzeitig passt Fiorentina Heim-Druck zum DC-X2-Hedge: ein echter Direkt-Sieg der Atalanta ist bei 50/50-Charakter kein SAFE-Edge, aber 'nicht verlieren' ist tragfaehig. DC X2 ist aktuell die Nummer-1-Goldgrube im System (77.5% Hitrate, +55.1% ROI bei 20 Tipps). HR24-Konflikt entfaellt (kein Torschuetzen-Tipp). Einsatz Stufe 1 = 2% von 1000€ = 20€. Quote bei bet365 live pruefen.",
+          "faire_quote": 1.63,
+          "empfohlener_einsatz_prozent": 2.0
         },
         {
-          "id": "bay-mag-4",
-          "kategorie": "wackel",
-          "markt": "Harry Kane Doppelpack",
-          "quote": 3.75,
-          "faire_quote": 3.2,
-          "edge_prozent": 14.7,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Rotations-Risiko (Kompany schont Kane oft im Pokal), aber wenn er spielt, dann voll - Kane-Doppelpack in Pokal-Spielen gegen Zweitligisten ist statistisch gaengig. Startelf-Verifikation Pflicht via kicker.de-Aufstellungs-Vorschau. 5€ Spasseinsatz."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-28-lev-nur",
-      "liga": "DFB-Pokal 2026/27 - 2. Runde",
-      "heim": "Bayer 04 Leverkusen",
-      "gast": "1. FC Nuernberg",
-      "anstoss": "2026-10-28T20:45:00+01:00",
-      "stadion": "BayArena, Leverkusen",
-      "saison_kontext": {
-        "parallel_heim": "Leverkusen BL-Platz 4 (13 Pkt, 16:12 nach 7 Spielen), plus CL-Ligaphase (ST 4 am 04.11.). Trainer-Wechsel im Sommer, Hincapie/Grimaldo weg (Arsenal/Atletico), Alajbegovic weg (Juve) - Umbruch-Saison. Rotation im Pokal gegen Zweitligist moderat erwartbar.",
-        "parallel_gast": "Nuernberg 2. Bundesliga, kein Europa, kein Nebenwettbewerb. Pokal-Highlight-Spiel.",
-        "saisonziel_heim": "CL-Quali verteidigen, Pokal-Lauf. Pflicht-Weiterkommen gegen Zweitligisten.",
-        "saisonziel_gast": "2.-Liga-Mittelfeld konsolidieren, Pokal mitnehmen.",
-        "motivations_asymmetrie": "Leverkusen Heim-Favorit (bet365 Sieg 90 Min ~1.35-1.45, implied ~70%). Klassenunterschied + Heim-Vorteil klar auf Werks-Seite, aber Umbruch-Saison (3 Stamm-Abgaenge im Sommer) senkt Edge im Vergleich zu Bayern-Niveau. 2:0-Insurance gilt im Pokal NICHT - Sieg-Tipp braucht echten Vollsieg.",
-        "recovery_heim": "3-4 Tage seit letztem BL-Spiel. Rotation mittel.",
-        "recovery_gast": "2.-Liga-Rhythmus, Pokal maximaler Fokus.",
-        "quellen": [
-          "https://www.fussballnationalmannschaft.net/fussball-heute-am-28-10-2026-2-123314971.html",
-          "https://www.reviersport.de/fussball/1bundesliga-2627-spieltag.html",
-          "https://www.transfermarkt.de/bayer-04-leverkusen/startseite/verein/15",
-          "https://www.transfermarkt.de/1-fc-nuernberg/startseite/verein/4"
-        ]
-      },
-      "news": [
-        "DFB-Pokal 2. Runde, Anstoss 20:45 in der BayArena.",
-        "Leverkusen BL 4. Platz 13 Pkt - solide, aber Hincapie/Grimaldo/Alajbegovic weg = Umbruch-Saison.",
-        "Nuernberg 2. Liga, keine Doppelbelastung, volle Fokus-Startelf."
-      ],
-      "tipps": [
-        {
-          "id": "lev-nur-1",
-          "kategorie": "safe",
-          "markt": "Leverkusen oder Remis (Doppelte Chance)",
-          "quote": 1.08,
-          "faire_quote": 1.05,
-          "edge_prozent": 2.8,
-          "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_euro": 20.0,
-          "begruendung": "DC 1X aktuelle Goldgrube (76.2% Hitrate / +43.4% ROI, n=21) + Klassenunterschied. Quote niedrig, aber die statistische Lage ist eindeutig - Nuernberg-Sieg in Leverkusen ist Pokal-Sensation. 20€ bei 1000€ (2% Stufe 1)."
-        },
-        {
-          "id": "lev-nur-2",
+          "id": "fio-ata-3",
           "kategorie": "value",
-          "markt": "Sieg Bayer 04 Leverkusen (90 Min)",
-          "quote": 1.4,
-          "faire_quote": 1.3,
-          "edge_prozent": 7.1,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Direkter Sieg-Tipp bei klarem Heim-Favoriten. Leverkusen ist in BL-Normalform (nicht Krise, nicht Hochform), gegen 2.-Liga-Gegner typischerweise 2:0/3:0. Ueberdenken wenn Leverkusen-Startelf zu stark rotiert."
-        },
-        {
-          "id": "lev-nur-3",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.75,
-          "faire_quote": 1.55,
-          "edge_prozent": 12.9,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +44.5%). Leverkusen offensiv ausgerichtet (16 Tore in 7 BL-Spielen), Nuernberg wird nicht nur mauern. 3-Tore-Spiel realistisch."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-28-fre-wol",
-      "liga": "DFB-Pokal 2026/27 - 2. Runde",
-      "heim": "SC Freiburg",
-      "gast": "VfL Wolfsburg",
-      "anstoss": "2026-10-28T18:00:00+01:00",
-      "stadion": "Europa-Park Stadion, Freiburg",
-      "saison_kontext": {
-        "parallel_heim": "Freiburg BL + Europa League Ligaphase. EL-Doppelbelastung-Rhythmus - Rotation moeglich. Freiburg hat Atubolu seit Sommer an Frankfurt verliehen, Keeper-Umbruch. Trainer Julian Schuster weiter.",
-        "parallel_gast": "Wolfsburg nur BL, kein Europapokal. Mittelfeld-Platz, keine akute Doppelbelastung. Pokal ist realistischster CL-Weg.",
-        "saisonziel_heim": "Europa-Quali verteidigen, Pokal mitnehmen.",
-        "saisonziel_gast": "Mittelfeld, Pokal als Highlight.",
-        "motivations_asymmetrie": "Bundesliga-Duell im Pokal - klassisches Coinflip-nahes Spiel. Heim-Vorteil leicht fuer Freiburg (bet365 Sieg 90 Min ~2.10-2.30), aber Wolfsburg kein Zweitliga-Underdog sondern echter BL-Konkurrent. BTTS + Ueber 2.5 statistisch wahrscheinlich - beide Teams spielen offensiv. Kein SAFE auf Sieg-Outcome moeglich (Coinflip-Regel).",
-        "recovery_heim": "4 Tage seit letztem Spiel (BL ST 7 am Fr), EL war 23.10.",
-        "recovery_gast": "4 Tage Pause.",
-        "quellen": [
-          "https://www.fussballnationalmannschaft.net/fussball-heute-am-28-10-2026-2-123314971.html",
-          "https://www.reviersport.de/fussball/1bundesliga-2627-spieltag.html",
-          "https://www.transfermarkt.de/sc-freiburg/startseite/verein/60",
-          "https://www.transfermarkt.de/vfl-wolfsburg/startseite/verein/82"
-        ]
-      },
-      "news": [
-        "DFB-Pokal 2. Runde, Anstoss 18:00 Europa-Park Stadion.",
-        "BL-Duell, kein Favoriten-Klassenunterschied - Coinflip-naehe.",
-        "Freiburg mit EL-Doppelbelastung, Rotation moeglich.",
-        "Freiburg nach Atubolu-Leihe neuer Keeper (Mueller/Rieckmann - live pruefen)."
-      ],
-      "tipps": [
-        {
-          "id": "fre-wol-1",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
+          "markt": "Unter 2.5 Tore",
           "quote": 1.9,
-          "faire_quote": 1.65,
-          "edge_prozent": 13.2,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Markt-Goldgrube Ueber 2.5 (+44.5% ROI). BL-Duell im Pokal, beide offensiv ausgerichtet, keine Mauer-Taktik. 3+ Tore statistisch wahrscheinlich."
-        },
-        {
-          "id": "fre-wol-2",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen",
-          "quote": 1.75,
-          "faire_quote": 1.55,
-          "edge_prozent": 12.9,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Klassisches BL-Duell, keine Seite wird 90 Min zu-null bleiben. Freiburg Heimstaerke, Wolfsburg solide Offensive."
-        },
-        {
-          "id": "fre-wol-3",
-          "kategorie": "wackel",
-          "markt": "Sieg SC Freiburg (90 Min)",
-          "quote": 2.2,
-          "faire_quote": 2.1,
-          "edge_prozent": 4.8,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Freiburg Heim-Edge in BL-Duellen ist historisch solide, aber Coinflip-naeh - deshalb wackel, nicht value. 5€ bei 1000€ Kasse. Wenn Entscheidung in 90 Min nicht faellt, verliert der Tipp (Verlaengerung zaehlt nicht fuer 90-Min-Markt)."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-28-pad-stu",
-      "liga": "DFB-Pokal 2026/27 - 2. Runde",
-      "heim": "SC Paderborn 07",
-      "gast": "VfB Stuttgart",
-      "anstoss": "2026-10-28T18:00:00+01:00",
-      "stadion": "Home Deluxe Arena, Paderborn",
-      "saison_kontext": {
-        "parallel_heim": "Paderborn 2. Bundesliga, keine europaische Doppelbelastung. Pokal-Highlight.",
-        "parallel_gast": "Stuttgart BL + Conference League. CL-/EL-/Conference-Rhythmus - leichte Rotation moeglich, aber Stuttgart ist Pokal-Titelverteidiger-Nahstand nach starken Saisons.",
-        "saisonziel_heim": "2.-Liga-Aufstiegskampf (Platz vorderes Mittelfeld), Pokal mitnehmen.",
-        "saisonziel_gast": "BL vorne mitspielen, Pokal-Lauf verteidigen.",
-        "motivations_asymmetrie": "Stuttgart klarer Auswaerts-Favorit (bet365 Sieg 90 Min ~1.60-1.75) gegen Zweitligist. Paderborn aktuell solide 2.-Liga-Form, aber Klassenunterschied real. Stuttgart laeuft im Pokal typischerweise voll auf - 2024/25 Finale, Pokal ist Prestige-Projekt. Woltemade weg (Newcastle), Stuttgart-Sturm live pruefen (Undav / El Khannouss / Demirovic / Tomas).",
-        "recovery_heim": "3-4 Tage Pause.",
-        "recovery_gast": "3-4 Tage Pause, Conference-League 23.10. (Belastung moderat).",
-        "quellen": [
-          "https://www.fussballnationalmannschaft.net/fussball-heute-am-28-10-2026-2-123314971.html",
-          "https://www.transfermarkt.de/vfb-stuttgart/startseite/verein/79",
-          "https://www.transfermarkt.de/sc-paderborn-07/startseite/verein/127"
-        ]
-      },
-      "news": [
-        "DFB-Pokal 2. Runde, Anstoss 18:00 Home Deluxe Arena.",
-        "Stuttgart klar favorisiert (BL vs 2. Liga), aber Conference-League-Doppelbelastung.",
-        "Woltemade seit Sommer 2026 bei Newcastle - nicht mehr Stuttgart-Torschuetze. Stuttgart-Sturm: Undav/Demirovic/Tomas (live pruefen)."
-      ],
-      "tipps": [
-        {
-          "id": "pad-stu-1",
-          "kategorie": "safe",
-          "markt": "Stuttgart oder Remis (Doppelte Chance)",
-          "quote": 1.18,
-          "faire_quote": 1.1,
-          "edge_prozent": 7.3,
-          "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_euro": 20.0,
-          "begruendung": "DC X2 Goldgrube (75% / +55.1% ROI, n=20) + Klassenunterschied. Stuttgart verliert gegen Zweitligist nur sehr selten. Reality-Check: Quote knapp unter SAFE-Range, aber Goldgruben-Markt rechtfertigt es. 20€ bei 1000€ (2% Stufe 1)."
-        },
-        {
-          "id": "pad-stu-2",
-          "kategorie": "value",
-          "markt": "Sieg VfB Stuttgart (90 Min)",
-          "quote": 1.7,
-          "faire_quote": 1.5,
-          "edge_prozent": 11.8,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Direkter Sieg-Tipp - Pokal-2:0-Insurance greift NICHT (nur BL+CL). Stuttgart Favorit, aber Umbruch-Saison nach Woltemade-Abgang. Sauberer VALUE statt SAFE wegen Rotations-Risiko."
-        },
-        {
-          "id": "pad-stu-3",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.75,
-          "faire_quote": 1.55,
-          "edge_prozent": 12.9,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Pokalspiele BL-vs-2.-Liga enden fast immer 3+ Tore. Markt-Goldgrube Ueber 2.5 (ROI +44.5%)."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-28-kie-hof",
-      "liga": "DFB-Pokal 2026/27 - 2. Runde",
-      "heim": "Holstein Kiel",
-      "gast": "TSG Hoffenheim",
-      "anstoss": "2026-10-28T20:45:00+01:00",
-      "stadion": "Holstein-Stadion, Kiel",
-      "saison_kontext": {
-        "parallel_heim": "Kiel 2. Bundesliga nach BL-Abstieg 24/25, kein Europapokal. Pokal-Highlight unter neuer Trainer-Konstellation (live pruefen).",
-        "parallel_gast": "Hoffenheim BL + Conference League. Rotation moeglich.",
-        "saisonziel_heim": "2.-Liga-Wiederaufstieg, Pokal mitnehmen.",
-        "saisonziel_gast": "BL konsolidieren, Pokal-Lauf.",
-        "motivations_asymmetrie": "Hoffenheim leichter Auswaerts-Favorit (bet365 Sieg 90 Min ~1.90-2.10) gegen 2.-Liga-Heim-Team. Kiel kennt BL-Niveau (recent abstieg), nicht gleichgross wie Zweitliga-Durchschnitt. Spielerisch aufm Papier Hoffenheim ueberlegen, aber Pokal-Heim-Underdog-Dynamik kann umschlagen - deshalb max value, kein SAFE auf Sieg.",
-        "recovery_heim": "3-4 Tage Pause.",
-        "recovery_gast": "3-4 Tage Pause, Conference-League 23.10.",
-        "quellen": [
-          "https://www.fussballnationalmannschaft.net/fussball-heute-am-28-10-2026-2-123314971.html",
-          "https://www.transfermarkt.de/tsg-1899-hoffenheim/startseite/verein/533",
-          "https://www.transfermarkt.de/holstein-kiel/startseite/verein/269"
-        ]
-      },
-      "news": [
-        "DFB-Pokal 2. Runde, Anstoss 20:45 Holstein-Stadion.",
-        "Pokal-Heim-Underdog-Spiel - leichter Favorit Hoffenheim, aber kein krasser Mismatch wie Bayern-Magdeburg.",
-        "Hoffenheim mit Conference-League-Belastung Woche davor."
-      ],
-      "tipps": [
-        {
-          "id": "kie-hof-1",
-          "kategorie": "value",
-          "markt": "Hoffenheim oder Remis (Doppelte Chance)",
-          "quote": 1.3,
-          "faire_quote": 1.2,
-          "edge_prozent": 8.3,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "DC X2 Goldgrube + leichter Klassenvorsprung. Reality-Check: Markt-Goldgrube Doppelte Chance X2 (75% / +55.1% ROI, n=20) rechtfertigt den konservativen Pick."
-        },
-        {
-          "id": "kie-hof-2",
-          "kategorie": "wackel",
-          "markt": "Sieg TSG Hoffenheim (90 Min)",
-          "quote": 2.0,
-          "faire_quote": 1.9,
-          "edge_prozent": 5.3,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Pokal-Heim-Underdog-Risiko real - Kiel hat BL-Erfahrung. Max wackel, 5€ Spasseinsatz."
-        },
-        {
-          "id": "kie-hof-3",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen",
-          "quote": 1.65,
-          "faire_quote": 1.5,
-          "edge_prozent": 10.0,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Kiel bringt zu Hause meist Tore, Hoffenheim offensiv ausgerichtet. BTTS statistisch wahrscheinlich."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-28-mil-bol",
-      "liga": "Serie A - Giornata 9",
-      "heim": "AC Milan",
-      "gast": "Bologna FC",
-      "anstoss": "2026-10-28T18:30:00+01:00",
-      "stadion": "Stadio San Siro, Mailand",
-      "saison_kontext": {
-        "parallel_heim": "Milan nur Serie A, keine Europa-Teilnahme 2026/27. Vollfokus Liga + Coppa Italia. Trainer Ruben Amorim, 3-4-2-1-System mit Ramos als 9er (Leao weg - Galatasaray, Theo Hernandez-Umbruch bei Pulisic/Saelemaekers hinter Ramos).",
-        "parallel_gast": "Bologna Serie A + Europa League Ligaphase. Letzte EL 23.10., jetzt Infrasettimanale - Rotation moeglich. Trainer live pruefen.",
-        "saisonziel_heim": "Scudetto-Jaeger / CL-Quali-Platz zurueck. Milan nach dem 3-3 vs Napoli zuletzt (18-Pkt Serie-A-Platz-3-/4-Bereich).",
-        "saisonziel_gast": "CL-Quali verteidigen, Scudetto-Mitlaeufer.",
-        "motivations_asymmetrie": "Milan Heim-Favorit (bet365 Sieg 90 Min ~1.80-2.00), aber kein krasses Edge - Bologna ist CL-Mitlaeufer, Milan noch im Amorim-System-Aufbau. Infrasettimanale + Bologna-EL-Belastung spricht fuer Milan. Serie A G8 Routinen-Bilanz 85.7% Hitrate / +16.4% ROI (n=7).",
-        "recovery_heim": "3-4 Tage seit letztem SA-Spiel.",
-        "recovery_gast": "3-4 Tage seit letzter SA + EL 23.10.",
-        "quellen": [
-          "https://sport.sky.it/calcio/serie-a/2026/10/28/partite-serie-a-oggi-mercoledi",
-          "https://www.dazn.com/it-IT/news/calcio/classifica-serie-a-aggiornata/1ae86cqx9wpxe1ltiy5kwpuxtd",
-          "https://www.transfermarkt.de/ac-mailand/startseite/verein/5",
-          "https://www.transfermarkt.de/fc-bologna/startseite/verein/1025"
-        ]
-      },
-      "news": [
-        "Serie A 9. Giornata infrasettimanale, Anstoss 18:30 San Siro, DAZN.",
-        "Milan unter Amorim mit 3-4-2-1 (Ramos als 9er statt Leao).",
-        "Bologna mit EL-Doppelbelastung Woche davor.",
-        "Milan Serie-A-Platz 3-4 nach 3:3 Last-Round vs Napoli."
-      ],
-      "tipps": [
-        {
-          "id": "mil-bol-1",
-          "kategorie": "value",
-          "markt": "Milan oder Remis (Doppelte Chance)",
-          "quote": 1.3,
-          "faire_quote": 1.2,
-          "edge_prozent": 8.3,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "DC 1X Goldgrube (76.2% / +43.4% ROI). Milan Heim gegen Bologna mit EL-Doppelbelastung - Edge klar. Reality-Check: Serie A G8 bislang 85.7% Hitrate, nahe Range."
-        },
-        {
-          "id": "mil-bol-2",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.9,
-          "faire_quote": 1.65,
-          "edge_prozent": 13.2,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Beide Teams offensiv - Amorim-Milan + Bologna-Hochpress typischerweise 3-Tore-Spiel. Markt-Goldgrube Ueber 2.5."
-        },
-        {
-          "id": "mil-bol-3",
-          "kategorie": "wackel",
-          "markt": "Sieg AC Milan (90 Min)",
-          "quote": 1.85,
-          "faire_quote": 1.8,
-          "edge_prozent": 2.8,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Direkter Sieg-Tipp bei leichtem Favoriten. 5€ bei 1000€ (0.5% wackel). Bologna kann in San Siro ein Punktchen holen - deshalb max wackel."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-28-ven-int",
-      "liga": "Serie A - Giornata 9",
-      "heim": "Venezia FC",
-      "gast": "Inter Mailand",
-      "anstoss": "2026-10-28T18:30:00+01:00",
-      "stadion": "Stadio Pier Luigi Penzo, Venedig",
-      "saison_kontext": {
-        "parallel_heim": "Venezia nach Aufstieg zurueck Serie A, kein Europa, Vollfokus Liga. Momentan Tabellenletzter / schwaches Umfeld.",
-        "parallel_gast": "Inter Serie A + CL-Ligaphase. CL ST 4 am 04.11. - leichte Rotation moeglich, aber Chivu-Nachfolger-Trainer (live pruefen) wird Platz 2 verteidigen wollen.",
-        "saisonziel_heim": "Klassenerhalt - jedes Punktchen zaehlt.",
-        "saisonziel_gast": "Scudetto / CL-Lauf.",
-        "motivations_asymmetrie": "Inter krasser Auswaerts-Favorit (bet365 Sieg 90 Min ~1.35-1.45). Venezia Last-Place, Inter 22 Pkt Platz 1-2. Motivations-Asymmetrie teilweise durch Venezia-Must-win (Klassenerhalt-Druck) aufgehoben, aber Qualitaetsunterschied bleibt eindeutig.",
-        "recovery_heim": "3-4 Tage Pause.",
-        "recovery_gast": "3-4 Tage seit letzter SA, CL war 21.10., naechste CL 04.11. - keine akute Belastung.",
-        "quellen": [
-          "https://sport.sky.it/calcio/serie-a/2026/10/28/partite-serie-a-oggi-mercoledi",
-          "https://www.transfermarkt.de/inter-mailand/startseite/verein/46",
-          "https://www.transfermarkt.de/venezia-fc/startseite/verein/607"
-        ]
-      },
-      "news": [
-        "Serie A 9. Giornata, Anstoss 18:30 Penzo-Stadion, DAZN+Sky.",
-        "Inter Scudetto-Mitfavorit (22 Pkt zusammen mit Lazio an der Spitze).",
-        "Venezia Tabellenletzter, Klassenerhalt im Fokus."
-      ],
-      "tipps": [
-        {
-          "id": "ven-int-1",
-          "kategorie": "safe",
-          "markt": "Inter oder Remis (Doppelte Chance)",
-          "quote": 1.08,
-          "faire_quote": 1.05,
-          "edge_prozent": 2.8,
-          "empfohlener_einsatz_prozent": 2.0,
-          "einsatz_euro": 20.0,
-          "begruendung": "DC X2 Goldgrube (75% / +55.1% ROI). Inter in Venedig verliert so eine Partie fast nie. Reality-Check: Quote unter SAFE-Range (1.30-1.65), aber Faktenlage ist eindeutig."
-        },
-        {
-          "id": "ven-int-2",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.75,
-          "faire_quote": 1.55,
-          "edge_prozent": 12.9,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Inter-Volumen gegen schwache Defense. Markt-Goldgrube Ueber 2.5 (ROI +44.5%)."
-        },
-        {
-          "id": "ven-int-3",
-          "kategorie": "value",
-          "markt": "Sieg Inter Mailand (90 Min)",
-          "quote": 1.4,
-          "faire_quote": 1.3,
-          "edge_prozent": 7.1,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Direkter Sieg-Tipp - Inter-Qualitaet zu stark fuer Venezia. Pfalz zum SAFE-Pick waehlt der DC-Tipp oben; der Sieg-Tipp hier bringt ehrliche Vollsieg-Dynamik ohne 2:0-Insurance (gilt in Serie A sowieso nicht)."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-28-mon-nap",
-      "liga": "Serie A - Giornata 9",
-      "heim": "AC Monza",
-      "gast": "SSC Napoli",
-      "anstoss": "2026-10-28T20:45:00+01:00",
-      "stadion": "Stadio Brianteo, Monza",
-      "saison_kontext": {
-        "parallel_heim": "Monza (nach Wiederaufstieg) Serie A, kein Europa. Abstiegs-Kampf-Region.",
-        "parallel_gast": "Napoli Serie A + CL-Ligaphase. CL ST 4 am 04.11. - leichte Rotation moeglich. Trainer Conte / live pruefen - De Bruyne-Zugang 2025 immer noch Taktgeber. Lukaku NICHT mehr Napoli (zu Fenerbahce), Simeone NICHT mehr Napoli (zu Torino). Sturm live pruefen.",
-        "saisonziel_heim": "Klassenerhalt.",
-        "saisonziel_gast": "Scudetto / CL. Nach 3:3 vs Roma zuletzt (11 Pkt Mittelfeld-Platz 7-ish laut DAZN) etwas unter Erwartung - Druck.",
-        "motivations_asymmetrie": "Napoli Auswaerts-Favorit (bet365 Sieg 90 Min ~1.70-1.85). Monza bringt Klassenerhalt-Motivation, aber Napoli-Qualitaet trotz schwaechelndem Saisonstart deutlich hoeher. Nach 3:3 vs Roma Druck zu gewinnen - Pokal-/CL-Woche-Rhythmus beschleunigt.",
-        "recovery_heim": "3-4 Tage Pause.",
-        "recovery_gast": "3-4 Tage Pause, CL war 21.10., naechste CL 04.11.",
-        "quellen": [
-          "https://sport.sky.it/calcio/serie-a/2026/10/28/partite-serie-a-oggi-mercoledi",
-          "https://www.transfermarkt.de/ssc-neapel/startseite/verein/6195",
-          "https://www.transfermarkt.de/ac-monza/startseite/verein/2919"
-        ]
-      },
-      "news": [
-        "Serie A 9. Giornata, Anstoss 20:45 Brianteo, DAZN+Sky.",
-        "Napoli nach 3:3 vs Roma unter Druck (Platz 7, 11 Pkt - unter Erwartung).",
-        "Lukaku/Simeone sind NICHT mehr bei Napoli - Sturm live pruefen (De Bruyne weiter Taktgeber)."
-      ],
-      "tipps": [
-        {
-          "id": "mon-nap-1",
-          "kategorie": "value",
-          "markt": "Napoli oder Remis (Doppelte Chance)",
-          "quote": 1.25,
-          "faire_quote": 1.15,
-          "edge_prozent": 8.7,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "DC X2 Goldgrube (75% / +55.1% ROI). Napoli-Qualitaet gegen Monza-Abstiegs-Region. Reality-Check: der kurze Saisonstart laesst Napoli-SAFE nicht zu, aber DC X2 ist solide."
-        },
-        {
-          "id": "mon-nap-2",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.85,
-          "faire_quote": 1.65,
-          "edge_prozent": 12.1,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Napoli-Offensive (De Bruyne/Vergara, Volumen-9er live pruefen) + Monza offene Defense = 3-Tore-Spiel wahrscheinlich. Markt-Goldgrube Ueber 2.5."
-        },
-        {
-          "id": "mon-nap-3",
-          "kategorie": "wackel",
-          "markt": "Sieg SSC Napoli (90 Min)",
-          "quote": 1.8,
+          "edge_prozent": 8.0,
+          "begruendung": "Direkte Nutzung der Markt-Goldgrube 'Unter 2.5' (56.2% / +30.3%). Beide Trainer defensiv orientiert, Fiorentina erzielte unter Grosso in 3 Spielen nur 1 Tor und auch unter Vanoli nur maessig; Atalanta hat seit Lookman-Weggang keinen klaren Volumen-Scorer. Historische Begegnungen gehen in 60% unter 2.5. Einsatz Stufe 1 = 1.5% von 1000€ = 15€. Alternative zu Tipp 1 fuer getrennten Markt-Exposure. Quote bei bet365 live pruefen.",
           "faire_quote": 1.75,
-          "edge_prozent": 2.9,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Direkter Napoli-Sieg - der schwaechelnde Saisonstart (Platz 7, 11 Pkt) sagt wackel, nicht value. 5€ bei 1000€."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-28-liv-che",
-      "liga": "EFL Cup 2026/27 - 4. Runde (Carabao Cup)",
-      "heim": "Liverpool FC",
-      "gast": "Chelsea FC",
-      "anstoss": "2026-10-28T21:00:00+01:00",
-      "stadion": "Anfield, Liverpool",
-      "saison_kontext": {
-        "parallel_heim": "Liverpool PL + CL-Ligaphase. CL ST 4 am 04.11. - Rotation im Carabao-Cup erwartbar (traditionell startet jeder PL-Topklub im Pokal mit halber Startelf). Barcola/Isak-Umbruch 2026 (beide 100m+ Transfers), Trainer Iraola (ist live gegen Chelsea neu zu verifizieren).",
-        "parallel_gast": "Chelsea PL + CL-Ligaphase. Gleiche Doppelbelastung wie Liverpool. Enzo Fernandez-Abgang (zu City) im Deadline-Day, Umbruch unter Xabi Alonso.",
-        "saisonziel_heim": "PL Titel, CL-Lauf, Carabao als Prestige-Bonus.",
-        "saisonziel_gast": "PL Titel, CL-Lauf, Carabao-Lauf.",
-        "motivations_asymmetrie": "Topduell zweier B-Teams. Rotation stark erwartbar auf beiden Seiten - Startelfen am Spieltag live checken (kicker.de/premierleague.com/offizielle Klub-Site). Edge-Verteilung Coinflip-nahe (bet365 Sieg Liverpool ~2.10-2.30, Chelsea ~3.00-3.30, X ~3.40). Heim-Vorteil Anfield real, aber Zweitgarnituren gleichen das aus. Spiel kann bis Elfmeter gehen.",
-        "recovery_heim": "3-4 Tage seit letzter PL + CL war 21.10., naechste CL 04.11.",
-        "recovery_gast": "3-4 Tage seit letzter PL, keine CL diese Woche.",
-        "quellen": [
-          "https://www.rte.ie/sport/results/soccer/efl-cup/37889/fixtures/",
-          "https://www.nbcsports.com/soccer/news/premier-league-table-for-2026-27-season",
-          "https://www.transfermarkt.de/fc-liverpool/startseite/verein/31",
-          "https://www.transfermarkt.de/fc-chelsea/startseite/verein/631"
-        ]
-      },
-      "news": [
-        "Carabao Cup Round of 16, Anstoss 21:00 Anfield (20:00 UK).",
-        "Topduell zweier B-Elfs - Rotation beidseitig stark erwartbar.",
-        "Verlaengerung + Elfmeter moeglich - 1X2-Markt wertet nur 90 Min.",
-        "Chelsea 2026 unter Alonso, Liverpool 2026 Umbruch (Isak/Barcola Zugaenge, Salah weg)."
-      ],
-      "tipps": [
-        {
-          "id": "liv-che-1",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen",
-          "quote": 1.75,
-          "faire_quote": 1.55,
-          "edge_prozent": 12.9,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Beide Teams mit offensiver DNA, Zweit-Elfs oft defensiv instabil - BTTS typisch. Konservativer Markt-Pick fuer dieses Coinflip-Spiel."
+          "empfohlener_einsatz_prozent": 1.5
         },
         {
-          "id": "liv-che-2",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.95,
-          "faire_quote": 1.7,
-          "edge_prozent": 12.8,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Carabao-Cup-R16-Topspiele zwischen PL-Topklubs enden selten 1:0 - Markt-Goldgrube Ueber 2.5."
-        },
-        {
-          "id": "liv-che-3",
+          "id": "fio-ata-4",
           "kategorie": "wackel",
-          "markt": "Sieg Liverpool (90 Min)",
-          "quote": 2.2,
-          "faire_quote": 2.1,
-          "edge_prozent": 4.8,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Heim-Edge Anfield + Chelsea-Umbruch. Max wackel, 5€ bei 1000€. Verlaengerung ins Elfmeterschiessen moeglich - der 90-Min-Markt verliert dann."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-10-28-mci-bri",
-      "liga": "EFL Cup 2026/27 - 4. Runde (Carabao Cup)",
-      "heim": "Manchester City",
-      "gast": "Brighton & Hove Albion",
-      "anstoss": "2026-10-28T20:30:00+01:00",
-      "stadion": "Etihad Stadium, Manchester",
-      "saison_kontext": {
-        "parallel_heim": "Man City PL Tabellenfuehrer (21 Pkt, 7W-1D-0L, +11 GD laut NBC Sports) + CL-Ligaphase. CL ST 4 am 04.11. - Rotation im Carabao erwartbar. Guardiola nutzt den Pokal traditionell fuer B-Spieler/Jugend. Enzo Fernandez (Deadline-Day aus Chelsea) + Guehi (Palace) + Elliot Anderson (Forest) + Ndiaye (Everton) sind die 2026-Zugaenge - Startelf-Vielfalt extrem.",
-        "parallel_gast": "Brighton PL (3. Platz 16 Pkt laut Snapshot) + Conference League. Pokal mitnehmen.",
-        "saisonziel_heim": "PL Titel, CL-Titel, Carabao als Routine.",
-        "saisonziel_gast": "CL-Quali-Platz halten, Pokal mitnehmen.",
-        "motivations_asymmetrie": "City Heim-Favorit (bet365 Sieg 90 Min ~1.45-1.60). Brighton PL-Top-3 ist kein klassischer Underdog - Qualitaetsunterschied nicht so krass wie bei Zweitligisten. Beide rotieren im Pokal, aber Citys B-Elf hat weiter Qualitaet - Haaland Rotations-Risiko (9 PL-Tore in 7 Spielen heisst volle Belastung bisher).",
-        "recovery_heim": "3-4 Tage seit letzter PL, CL war 21.10.",
-        "recovery_gast": "3-4 Tage seit letzter PL + Conference war 23.10.",
-        "quellen": [
-          "https://www.rte.ie/sport/results/soccer/efl-cup/37889/fixtures/",
-          "https://www.nbcsports.com/soccer/news/premier-league-table-for-2026-27-season",
-          "https://www.transfermarkt.de/manchester-city/startseite/verein/281",
-          "https://www.transfermarkt.de/brighton-amp-hove-albion/startseite/verein/1237"
-        ]
-      },
-      "news": [
-        "Carabao Cup Round of 16, Anstoss 20:30 Etihad (19:30 UK).",
-        "Beide rotieren erwartbar, aber City-B-Elf bleibt Favorit.",
-        "Haaland Saison-Topscorer (9 PL-Tore in 7 Spielen).",
-        "Brighton PL-Top-3 - kein klassischer Underdog."
-      ],
-      "tipps": [
-        {
-          "id": "mci-bri-1",
-          "kategorie": "value",
-          "markt": "Manchester City oder Remis (Doppelte Chance)",
-          "quote": 1.2,
-          "faire_quote": 1.15,
-          "edge_prozent": 4.3,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "DC 1X Goldgrube (76% / +43% ROI). Heim-City auch mit B-Elf stark genug fuer kein-Niederlage-Pfad."
-        },
-        {
-          "id": "mci-bri-2",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.8,
-          "faire_quote": 1.6,
-          "edge_prozent": 12.5,
-          "empfohlener_einsatz_prozent": 1.5,
-          "einsatz_euro": 15.0,
-          "begruendung": "Beide Teams offensiv ausgerichtet, City-Volumen auch mit B-Elf hoch. Markt-Goldgrube."
-        },
-        {
-          "id": "mci-bri-3",
-          "kategorie": "wackel",
-          "markt": "Sieg Manchester City (90 Min)",
-          "quote": 1.55,
-          "faire_quote": 1.5,
-          "edge_prozent": 3.3,
-          "empfohlener_einsatz_prozent": 0.5,
-          "einsatz_euro": 5.0,
-          "begruendung": "Direkter Sieg bei leichtem Favorit, aber Brighton stark genug fuer Elfmeterschiessen - 90-Min-Markt riskant. Max wackel."
+          "markt": "Beide Teams treffen Nein",
+          "quote": 2.05,
+          "edge_prozent": 5.0,
+          "begruendung": "Nicht-Goldgrube, bewusst wackel: BTTS-Nein verlangt, dass mindestens eine Seite zu Null spielt. Beide Teams unter 1 Tor pro Spiel im Saison-Durchschnitt - plausibel, aber keine Garantie. Einsatz Stufe 1 Wackel = 0.5% von 1000€ = 5€. Spekulations-Tipp mit defensivem Markt-Mix. Quote bei bet365 live pruefen.",
+          "faire_quote": 1.95,
+          "empfohlener_einsatz_prozent": 0.5
         }
       ],
       "kontext_check_status": "OK"
@@ -660,284 +81,56 @@ window.__MIESMUSCHEL_TIPPS = {
   ],
   "einzeltipps": [
     {
-      "spiel_id": "2026-10-28-bay-mag",
-      "spiel_label": "Bayern vs Magdeburg",
-      "markt": "Sieg FC Bayern Muenchen (90 Min)",
+      "id": "fio-ata-1",
+      "spiel_id": "2026-10-29-fio-ata",
+      "spiel_label": "Fiorentina vs Atalanta",
       "kategorie": "safe",
-      "quote": 1.15,
-      "empfohlener_einsatz_prozent": 2.0,
-      "einsatz_euro": 20.0,
-      "begruendung": "Klassen-Mismatch im Pokal. Bilanz DFB-Pokal 2. Runde 87.5% Hitrate / +30.6% ROI (n=8). Pokal-2:0-Insurance greift NICHT - Vollsieg Pflicht, Bayern Heim verliert so eine Partie faktisch nie. Quote unter SAFE-Soll aber Faktenlage eindeutig.",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.35,
+      "empfohlener_einsatz_prozent": 1.5,
       "rang": 1
     },
     {
-      "spiel_id": "2026-10-28-lev-nur",
-      "spiel_label": "Leverkusen vs Nuernberg",
-      "markt": "Leverkusen oder Remis (Doppelte Chance)",
-      "kategorie": "safe",
-      "quote": 1.08,
+      "id": "fio-ata-2",
+      "spiel_id": "2026-10-29-fio-ata",
+      "spiel_label": "Fiorentina vs Atalanta",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Atalanta oder Remis",
+      "quote": 1.75,
       "empfohlener_einsatz_prozent": 2.0,
-      "einsatz_euro": 20.0,
-      "begruendung": "DC 1X Goldgrube 76% Hitrate / +43% ROI (n=21). Klassenunterschied + Heim-Vorteil. Nuernberg-Sieg in Leverkusen = Pokal-Sensation.",
       "rang": 2
     },
     {
-      "spiel_id": "2026-10-28-pad-stu",
-      "spiel_label": "Paderborn vs Stuttgart",
-      "markt": "Stuttgart oder Remis (Doppelte Chance)",
-      "kategorie": "safe",
-      "quote": 1.18,
-      "empfohlener_einsatz_prozent": 2.0,
-      "einsatz_euro": 20.0,
-      "begruendung": "DC X2 Goldgrube 75% / +55.1% ROI (n=20) + Klassenunterschied. Stuttgart kommt mit Conference-League-Rhythmus, Pokal-Prestige nach 2024/25 Finale.",
+      "id": "fio-ata-3",
+      "spiel_id": "2026-10-29-fio-ata",
+      "spiel_label": "Fiorentina vs Atalanta",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.9,
+      "empfohlener_einsatz_prozent": 1.5,
       "rang": 3
     },
     {
-      "spiel_id": "2026-10-28-bay-mag",
-      "spiel_label": "Bayern vs Magdeburg",
-      "markt": "Luis Diaz Torschuetze jederzeit",
-      "kategorie": "value",
-      "quote": 2.1,
-      "empfohlener_einsatz_prozent": 1.5,
-      "einsatz_euro": 15.0,
-      "begruendung": "Form-Edge klar (Hattrick 17.10. vs Leipzig = HR24-Trigger erfuellt). Markt-Goldgrube Torschuetzen Jederzeit (+33.6% ROI). Fluegel-/9er-Rolle unter Kompany, gegen 2.-Liga-Defense weitere Tor-Chancen wahrscheinlich. ACHTUNG: Startelf live pruefen - bei Rotation evtl. als Joker.",
+      "id": "fio-ata-4",
+      "spiel_id": "2026-10-29-fio-ata",
+      "spiel_label": "Fiorentina vs Atalanta",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen Nein",
+      "quote": 2.05,
+      "empfohlener_einsatz_prozent": 0.5,
       "rang": 4
-    },
-    {
-      "spiel_id": "2026-10-28-mon-nap",
-      "spiel_label": "Monza vs Napoli",
-      "markt": "Napoli oder Remis (Doppelte Chance)",
-      "kategorie": "value",
-      "quote": 1.25,
-      "empfohlener_einsatz_prozent": 1.5,
-      "einsatz_euro": 15.0,
-      "begruendung": "DC X2 Goldgrube + Qualitaetsunterschied. Napoli unter Druck nach 3:3 vs Roma, aber auswaerts gegen Abstiegs-Monza Edge klar.",
-      "rang": 5
-    },
-    {
-      "spiel_id": "2026-10-28-fre-wol",
-      "spiel_label": "Freiburg vs Wolfsburg",
-      "markt": "Ueber 2.5 Tore",
-      "kategorie": "value",
-      "quote": 1.9,
-      "empfohlener_einsatz_prozent": 1.5,
-      "einsatz_euro": 15.0,
-      "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +44.5%). BL-Duell im Pokal mit beidseitiger Offensiv-Ausrichtung - 3+ Tore statistisch wahrscheinlich.",
-      "rang": 6
-    },
-    {
-      "spiel_id": "2026-10-28-ven-int",
-      "spiel_label": "Venezia vs Inter",
-      "markt": "Ueber 2.5 Tore",
-      "kategorie": "value",
-      "quote": 1.75,
-      "empfohlener_einsatz_prozent": 1.5,
-      "einsatz_euro": 15.0,
-      "begruendung": "Inter-Volumen gegen Serie-A-Letzten. Markt-Goldgrube Ueber 2.5. Inter traf durchschnittlich 2+ Tore pro Spiel bisher.",
-      "rang": 7
-    },
-    {
-      "spiel_id": "2026-10-28-mon-nap",
-      "spiel_label": "Monza vs Napoli",
-      "markt": "Ueber 2.5 Tore",
-      "kategorie": "value",
-      "quote": 1.85,
-      "empfohlener_einsatz_prozent": 1.5,
-      "einsatz_euro": 15.0,
-      "begruendung": "Napoli-Offensive (De Bruyne-Taktgeber) + Monza offene Defense. Markt-Goldgrube.",
-      "rang": 8
-    },
-    {
-      "spiel_id": "2026-10-28-liv-che",
-      "spiel_label": "Liverpool vs Chelsea",
-      "markt": "Beide Teams treffen",
-      "kategorie": "value",
-      "quote": 1.75,
-      "empfohlener_einsatz_prozent": 1.5,
-      "einsatz_euro": 15.0,
-      "begruendung": "Topduell zweier Pokal-B-Elfs, beide offensiv ausgerichtet. BTTS statistisch wahrscheinlich. Kein SAFE auf Sieg-Outcome moeglich (Coinflip + Elfmeter-Risiko).",
-      "rang": 9
-    },
-    {
-      "spiel_id": "2026-10-28-mci-bri",
-      "spiel_label": "Manchester City vs Brighton",
-      "markt": "Ueber 2.5 Tore",
-      "kategorie": "value",
-      "quote": 1.8,
-      "empfohlener_einsatz_prozent": 1.5,
-      "einsatz_euro": 15.0,
-      "begruendung": "Beide offensiv-DNA Teams, Haaland Saison-Topscorer. Markt-Goldgrube Ueber 2.5.",
-      "rang": 10
     }
   ],
-  "kombis": [
-    {
-      "name": "🛡️ Safe-Kombi: Leverkusen + Stuttgart + Inter Sieg",
-      "kategorie": "safe",
-      "beine": [
-        {
-          "spiel_id": "2026-10-28-lev-nur",
-          "spiel_label": "Leverkusen vs Nuernberg",
-          "markt": "Sieg Bayer 04 Leverkusen (90 Min)",
-          "quote": 1.4,
-          "kategorie": "safe"
-        },
-        {
-          "spiel_id": "2026-10-28-pad-stu",
-          "spiel_label": "Paderborn vs Stuttgart",
-          "markt": "Sieg VfB Stuttgart (90 Min)",
-          "quote": 1.7,
-          "kategorie": "safe"
-        },
-        {
-          "spiel_id": "2026-10-28-ven-int",
-          "spiel_label": "Venezia vs Inter",
-          "markt": "Sieg Inter Mailand (90 Min)",
-          "quote": 1.4,
-          "kategorie": "safe"
-        }
-      ],
-      "gesamtquote": 3.33,
-      "rechnung": "1.40 x 1.70 x 1.40 = 3.33",
-      "empfohlener_einsatz_prozent": 2.0,
-      "einsatz_euro": 20.0,
-      "begruendung": "Drei direkte Siege von Favoriten gegen schwaechere Gegner (2.-Liga-/Pokal-Underdog bzw. Serie-A-Letzter). Pokal-2:0-Insurance greift NICHT - Vollsieg Pflicht. Kein Elfmeter-Risiko in Serie A, aber im Pokal theoretisch wenn 90 Min Remis - deshalb Favoritenwahl mit klarem Klassenunterschied."
-    },
-    {
-      "name": "⚖️ Balance-Kombi: Diaz Torschuetze + Fre-Wol Tore + Liv-Che BTTS",
-      "kategorie": "balance",
-      "beine": [
-        {
-          "spiel_id": "2026-10-28-bay-mag",
-          "spiel_label": "Bayern vs Magdeburg",
-          "markt": "Luis Diaz Torschuetze jederzeit",
-          "quote": 2.1,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-10-28-fre-wol",
-          "spiel_label": "Freiburg vs Wolfsburg",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.9,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-10-28-liv-che",
-          "spiel_label": "Liverpool vs Chelsea",
-          "markt": "Beide Teams treffen",
-          "quote": 1.75,
-          "kategorie": "value"
-        }
-      ],
-      "gesamtquote": 6.98,
-      "rechnung": "2.10 x 1.90 x 1.75 = 6.98",
-      "empfohlener_einsatz_prozent": 0.8,
-      "einsatz_euro": 8.0,
-      "begruendung": "Markt-Mix (Spielertor + Totale + BTTS) - keine Konzentration auf Sieg-Outcomes. Diaz Form-Edge nach Hattrick 17.10., Fre-Wol BL-Duell mit offensiver Note, Liv-Che Topspiel mit Pokal-B-Elfs. Kein Spiel aus Safe-Kombi doppelt - echte Diversifikation."
-    },
-    {
-      "name": "🎲 Risiko-Kombi: Chelsea Sieg + 3 offene Tore-Spiele",
-      "kategorie": "risk",
-      "beine": [
-        {
-          "spiel_id": "2026-10-28-liv-che",
-          "spiel_label": "Liverpool vs Chelsea",
-          "markt": "Sieg Chelsea (90 Min)",
-          "quote": 3.0,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-10-28-kie-hof",
-          "spiel_label": "Kiel vs Hoffenheim",
-          "markt": "Beide Teams treffen",
-          "quote": 1.65,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-10-28-mci-bri",
-          "spiel_label": "Manchester City vs Brighton",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.8,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-10-28-mil-bol",
-          "spiel_label": "Milan vs Bologna",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.9,
-          "kategorie": "value"
-        }
-      ],
-      "gesamtquote": 16.93,
-      "rechnung": "3.00 x 1.65 x 1.80 x 1.90 = 16.93",
-      "empfohlener_einsatz_prozent": 0.25,
-      "einsatz_euro": 2.5,
-      "begruendung": "Chelsea-Auswaerts-Edge in Pokal-B-Elf-Duell gegen Liverpool im Umbruch + drei Totale/BTTS auf offensiv-ausgerichtete Spiele. Markt-entkoppelt zu Balance (dort BTTS Liv-Che, hier Chelsea Sieg - andere Markt-Typen)."
-    },
-    {
-      "name": "🚀 Moonshot-Kombi: 3 Underdog-Siege + Bayern-Tor-Lauf",
-      "kategorie": "moonshot",
-      "beine": [
-        {
-          "spiel_id": "2026-10-28-bay-mag",
-          "spiel_label": "Bayern vs Magdeburg",
-          "markt": "Ueber 3.5 Tore",
-          "quote": 1.75,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-10-28-mci-bri",
-          "spiel_label": "Manchester City vs Brighton",
-          "markt": "Sieg Brighton (90 Min)",
-          "quote": 4.5,
-          "kategorie": "moonshot"
-        },
-        {
-          "spiel_id": "2026-10-28-mon-nap",
-          "spiel_label": "Monza vs Napoli",
-          "markt": "Sieg Monza (90 Min)",
-          "quote": 6.5,
-          "kategorie": "moonshot"
-        },
-        {
-          "spiel_id": "2026-10-28-kie-hof",
-          "spiel_label": "Kiel vs Hoffenheim",
-          "markt": "Sieg TSG Hoffenheim (90 Min)",
-          "quote": 2.0,
-          "kategorie": "wackel"
-        }
-      ],
-      "gesamtquote": 102.38,
-      "rechnung": "1.75 x 4.50 x 6.50 x 2.00 = 102.38",
-      "empfohlener_einsatz_prozent": 0.1,
-      "einsatz_euro": 1.0,
-      "begruendung": "Spasseinsatz 1€. Zwei Pokal-B-Elf-Topspiele mit Underdog-Edge (Brighton bei City-B-Elf, Monza-Must-win vs Napoli unter Druck) + Hoffenheim Pokal-Favorit auswaerts + Bayerns Tor-Lauf im Pokal. Realistisch 1-2 Beine fallen durch - deshalb Spasseinsatz, nicht Investition."
-    }
-  ],
+  "kombis": [],
   "lessons_angewandt": [
-    "HR1 Quoten-Ranges eingehalten (SAFE 1.08-1.18 im Pokal gegen Zweitligisten gerechtfertigt via Markt-Goldgruben, VALUE/WACKEL im Soll).",
-    "HR4 Story-Konflikt-Check: Milan-Bologna + Mon-Nap bleiben max VALUE weil 'kein krasser Edge' / 'Napoli unter Druck' in saison_kontext.",
-    "HR22 Star-OUT-Hedge: Bayern-Spiel ohne SAFE-Mannschafts-Sieg-Alternative (haben Diaz Form-Edge genommen, nicht abhaengige Mannschafts-Konstruktion).",
-    "HR24 Form-Edge-Pflicht: Diaz Torschuetze = HR24 erfuellt (Hattrick 17.10. vs Leipzig).",
-    "HR23 Layer-3-Diversifikation: Spiele die ueber mehrere Kombis streuen sind Markt-entkoppelt (Bay-Mag Spielertor in Balance + Totale in Moonshot; Liv-Che BTTS in Balance + Sieg in Risiko).",
-    "DC-CAP: 3 DC-Picks total im Dossier (Lev, Stu, Nap) unter dem 2-3-Cap - Hauptbeine sind Siege und Totale, nicht DC-Flood.",
-    "Kader-Frische-Check: Lukaku NICHT mehr Napoli (zu Fenerbahce), Woltemade NICHT mehr Stuttgart (zu Newcastle), Leao NICHT mehr Milan (zu Galatasaray), Hincapie/Grimaldo/Alajbegovic NICHT mehr Leverkusen - alle entsprechend aus Begruendungen ausgeschlossen.",
-    "Pokal-2:0-Insurance explizit ausgewiesen - greift im DFB-Pokal NICHT (nur BL + CL)."
+    "Zeitfenster-Hartregel 22.08.2026: nur Anstoesse am 29.10.2026 im Tages-Dossier - andere Serie-A-Spiele (28.10.) sind gestern und gehoeren nicht hier rein.",
+    "Markt-Goldgrube 'Unter 2.5 Tore' (56.2% / +30.3% ROI) aktiv gesucht - Tipp 1 + 3.",
+    "Markt-Goldgrube 'Doppelte Chance X2' (77.5% / +55.1% ROI) aktiv gesucht - Tipp 2.",
+    "Anti-DC-Sucht-Regel: max 1 DC-Tipp pro Spiel - eingehalten (nur Tipp 2 ist DC).",
+    "Kader-Frische: Lookman (Atalanta -> Atletico Madrid Feb 26) und De Roon (Atalanta -> Roma Aug 26) NICHT als Atalanta-Spieler getippt; Gudmundsson (Fiorentina -> Lazio Sep 26) ebenfalls nicht.",
+    "Selbstwiderspruch vermieden: saison_kontext bezeichnet die Partie als '50/50 Krisen-Duell' -> keine SAFE auf Direktsieg oder Direkt-DC auf eine Seite, nur Markt-neutraler SAFE auf Tor-Total.",
+    "HR24 Form-Edge-Pflicht fuer Torschuetzen: Form-Daten der Top-Stuermer waren im Watchdog-Slot nicht robust zu verifizieren - deshalb KEIN Torschuetzen-Tipp (Qualitaet vor Quantitaet).",
+    "Notfall-Fallback: lieber 1 Spiel mit vollstaendigem saison_kontext + 4 ehrlichen Tipps als eine groessere Pseudo-Liste."
   ],
-  "_verifikations_report": {
-    "durchlauf": "inline",
-    "ergebnis": "OK",
-    "checks": [
-      "saison_kontext mit 7 Pflichtfeldern + Quellen[] bei allen 10 Spielen gesetzt.",
-      "Kader-Frische: Luis Diaz als Bayern-Spieler verifiziert (Transfer Juli 2026 Liverpool→Bayern, Hattrick 17.10. vs Leipzig). Keine veralteten Spielerzuordnungen.",
-      "Pokal-2:0-Insurance: NICHT angewandt (gilt nur BL+CL).",
-      "DC-Cap: 3 Doppelte-Chance-Tipps in einzeltipps[] (Lev, Stu, Nap) - innerhalb Cap 2-3.",
-      "Markt-Goldgruben aktiv: DC 1X / DC X2 / Ueber 2.5 / Torschuetzen Jederzeit abgedeckt.",
-      "Kombi-Diversifikation: Safe (3 Siege verschiedener Spiele) / Balance (Markt-Mix Spielertor+Totale+BTTS) / Risiko (Chelsea Sieg + 3 Totale/BTTS) / Moonshot (3 Underdog-Siege + Bay-Mag Tor-Lauf).",
-      "Alle Kombi-Gesamtquoten nachgerechnet (3.33 / 6.98 / 18.47 / 102.38).",
-      "Layer-2 (Sieg-Outcome max 1 Kombi pro Spiel): eingehalten - kein Spiel-Sieg in zwei Kombis.",
-      "Layer-3 (max 1 Bein/Spiel ueber alle Kombis wo moeglich): bei Mehrfach-Verwendung konsequent Markt-entkoppelt."
-    ]
-  },
-  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700"
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool, keine Einnahmequelle. Nur setzen was du verlieren kannst."
 };
