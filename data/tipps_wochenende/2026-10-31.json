@@ -114,15 +114,16 @@
       "tipps": [
         {
           "id": "che-mun-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Chelsea oder Remis (Doppelte Chance)",
           "quote": 1.35,
           "edge_prozent": 5.0,
           "faire_quote": 1.28,
           "empfohlener_einsatz_prozent": 2.0,
           "empfohlener_einsatz_euro": 20.0,
-          "begruendung": "Chelsea Heim gegen United, auch mit CL-Rotation reicht's defensiv meist für Punkt. DC 1X ist Goldgrube (76,2% Hit, +43,4% ROI laut statistik.json). Markt-Typ aktiv gesucht. Einsatz 20€ (2% Kasse Stufe 1). Quote bei bet365 live prüfen.",
-          "liga": "Premier League"
+          "begruendung": "Chelsea Heim gegen United, auch mit CL-Rotation reicht's defensiv meist für Punkt. DC 1X ist Goldgrube (76,2% Hit, +43,4% ROI laut statistik.json). Markt-Typ aktiv gesucht. Einsatz 20€ (2% Kasse Stufe 1). Quote bei bet365 live prüfen. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
+          "liga": "Premier League",
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "che-mun-2",
@@ -181,15 +182,16 @@
       "tipps": [
         {
           "id": "mci-bri-1",
-          "kategorie": "safe",
+          "kategorie": "value",
           "markt": "Manchester City oder Remis (Doppelte Chance)",
           "quote": 1.2,
           "edge_prozent": 4.0,
           "faire_quote": 1.15,
           "empfohlener_einsatz_prozent": 2.0,
           "empfohlener_einsatz_euro": 20.0,
-          "begruendung": "City @ Heim gegen Brighton verliert fast nie - Historie zeigt letzte 10 Heim-Spiele gegen Brighton: 8 Siege, 2 Remis. DC 1X ist Top-Goldgrube (+43,4% ROI). Markt-Typ aktiv gesucht. Einsatz 20€. Quote bei bet365 live prüfen.",
-          "liga": "Premier League"
+          "begruendung": "City @ Heim gegen Brighton verliert fast nie - Historie zeigt letzte 10 Heim-Spiele gegen Brighton: 8 Siege, 2 Remis. DC 1X ist Top-Goldgrube (+43,4% ROI). Markt-Typ aktiv gesucht. Einsatz 20€. Quote bei bet365 live prüfen. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
+          "liga": "Premier League",
+          "_markt_mix_dc_downgrade": true
         },
         {
           "id": "mci-bri-2",
@@ -329,15 +331,16 @@
       "tipps": [
         {
           "id": "bar-ala-1",
-          "kategorie": "safe",
+          "kategorie": "value",
           "markt": "Barcelona oder Remis (Doppelte Chance)",
           "quote": 1.08,
           "edge_prozent": 2.0,
           "faire_quote": 1.06,
           "empfohlener_einsatz_prozent": 2.0,
           "empfohlener_einsatz_euro": 20.0,
-          "begruendung": "Barça @ Heim gegen Abstiegs-Klub verliert praktisch nie - letzte 20 Heim-Spiele gegen Alavés nur 1 Niederlage. DC 1X Goldgrube (+43,4% ROI). Quote eher niedrig, aber nahezu Garantie. Einsatz 20€ (2% Kasse Stufe 1). Quote live prüfen.",
-          "liga": "LaLiga"
+          "begruendung": "Barça @ Heim gegen Abstiegs-Klub verliert praktisch nie - letzte 20 Heim-Spiele gegen Alavés nur 1 Niederlage. DC 1X Goldgrube (+43,4% ROI). Quote eher niedrig, aber nahezu Garantie. Einsatz 20€ (2% Kasse Stufe 1). Quote live prüfen. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
+          "liga": "LaLiga",
+          "_markt_mix_dc_downgrade": true
         },
         {
           "id": "bar-ala-2",
@@ -468,7 +471,7 @@
       "tipps": [
         {
           "id": "juv-nap-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Unter 2.5 Tore",
           "quote": 1.85,
           "edge_prozent": 7.0,
@@ -503,7 +506,7 @@
           "liga": "Serie A"
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     }
   ],
   "einzeltipps": [
@@ -521,7 +524,8 @@
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
       "potentieller_gewinn_euro": 24.0,
-      "begruendung": "City @ Heim gegen Brighton verliert fast nie - Historie zeigt letzte 10 Heim-Spiele gegen Brighton: 8 Siege, 2 Remis. DC 1X ist Top-Goldgrube (+43,4% ROI). Markt-Typ aktiv gesucht. Einsatz 20€ (2% Kasse 1000€ Stufe 1). Quote bei bet365 live prüfen."
+      "begruendung": "City @ Heim gegen Brighton verliert fast nie - Historie zeigt letzte 10 Heim-Spiele gegen Brighton: 8 Siege, 2 Remis. DC 1X ist Top-Goldgrube (+43,4% ROI). Markt-Typ aktiv gesucht. Einsatz 20€ (2% Kasse 1000€ Stufe 1). Quote bei bet365 live prüfen.",
+      "rang": 1
     },
     {
       "id": "e2",
@@ -537,7 +541,8 @@
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
       "potentieller_gewinn_euro": 21.6,
-      "begruendung": "Barça @ Heim gegen Abstiegs-Klub verliert praktisch nie - letzte 20 Heim-Spiele gegen Alavés nur 1 Niederlage. DC 1X Goldgrube (+43,4% ROI). Quote niedrig aber nahezu Garantie. Einsatz 20€ (2% Kasse Stufe 1). Quote bei bet365 live prüfen."
+      "begruendung": "Barça @ Heim gegen Abstiegs-Klub verliert praktisch nie - letzte 20 Heim-Spiele gegen Alavés nur 1 Niederlage. DC 1X Goldgrube (+43,4% ROI). Quote niedrig aber nahezu Garantie. Einsatz 20€ (2% Kasse Stufe 1). Quote bei bet365 live prüfen.",
+      "rang": 2
     },
     {
       "id": "e3",
@@ -553,7 +558,8 @@
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
       "potentieller_gewinn_euro": 33.0,
-      "begruendung": "Bayern @ Heim-Klassiker mit starker Form, Kompany-System etabliert. Historie der letzten 15 Klassiker: Bayern hat zu Hause 11 Siege. 2:0-Insurance gilt (BL) - der Tipp fliegt auch durch wenn BVB auf 3:2 ran kommt sobald Bayern mal 2:0 vorne lag. Einsatz 20€. Quote bei bet365 live prüfen."
+      "begruendung": "Bayern @ Heim-Klassiker mit starker Form, Kompany-System etabliert. Historie der letzten 15 Klassiker: Bayern hat zu Hause 11 Siege. 2:0-Insurance gilt (BL) - der Tipp fliegt auch durch wenn BVB auf 3:2 ran kommt sobald Bayern mal 2:0 vorne lag. Einsatz 20€. Quote bei bet365 live prüfen.",
+      "rang": 3
     },
     {
       "id": "e4",
@@ -569,7 +575,8 @@
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
       "potentieller_gewinn_euro": 35.0,
-      "begruendung": "Derby della Madonnina-Historie: Über 2.5 in 7 der letzten 10 Direktduelle. Beide offensive Setups, viel individuelle Qualität vorn. Markt-Typ Über 2.5 Tore = Goldgrube (60,5% Hitrate, +43,9% ROI). Einsatz 20€. Quote bei bet365 live prüfen."
+      "begruendung": "Derby della Madonnina-Historie: Über 2.5 in 7 der letzten 10 Direktduelle. Beide offensive Setups, viel individuelle Qualität vorn. Markt-Typ Über 2.5 Tore = Goldgrube (60,5% Hitrate, +43,9% ROI). Einsatz 20€. Quote bei bet365 live prüfen.",
+      "rang": 4
     },
     {
       "id": "e5",
@@ -585,7 +592,8 @@
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
       "potentieller_gewinn_euro": 31.0,
-      "begruendung": "Klassiker-Historie der letzten 10 Direktduelle: Über 2.5 in 7-8 Fällen. Beide offensive Setups. Markt-Typ Goldgrube (+43,9% ROI laut statistik.json). Einsatz 20€. Quote live prüfen."
+      "begruendung": "Klassiker-Historie der letzten 10 Direktduelle: Über 2.5 in 7-8 Fällen. Beide offensive Setups. Markt-Typ Goldgrube (+43,9% ROI laut statistik.json). Einsatz 20€. Quote live prüfen.",
+      "rang": 5
     },
     {
       "id": "e6",
@@ -601,7 +609,8 @@
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15.0,
       "potentieller_gewinn_euro": 24.75,
-      "begruendung": "City offensiv seit Jahren tor-stärkste Mannschaft Englands, Brighton mit offensivem Pressing-Style. Über 2.5 in 7 der letzten 10 Direktduelle. Markt-Typ Goldgrube. Einsatz 15€. Quote live prüfen."
+      "begruendung": "City offensiv seit Jahren tor-stärkste Mannschaft Englands, Brighton mit offensivem Pressing-Style. Über 2.5 in 7 der letzten 10 Direktduelle. Markt-Typ Goldgrube. Einsatz 15€. Quote live prüfen.",
+      "rang": 6
     },
     {
       "id": "e7",
@@ -617,7 +626,8 @@
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
       "potentieller_gewinn_euro": 27.0,
-      "begruendung": "Chelsea Heim gegen United, auch mit CL-Rotation reicht's defensiv meist für Punkt. DC 1X Goldgrube (76,2% Hit, +43,4% ROI). Einsatz 20€. Quote bei bet365 live prüfen."
+      "begruendung": "Chelsea Heim gegen United, auch mit CL-Rotation reicht's defensiv meist für Punkt. DC 1X Goldgrube (76,2% Hit, +43,4% ROI). Einsatz 20€. Quote bei bet365 live prüfen.",
+      "rang": 7
     },
     {
       "id": "e8",
@@ -633,7 +643,8 @@
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
       "potentieller_gewinn_euro": 34.4,
-      "begruendung": "BTTS in 7 der letzten 10 Liverpool-Arsenal-Direktduelle. Beide offensive Setups mit Top-Stürmern. Einsatz 20€. Quote bei bet365 live prüfen."
+      "begruendung": "BTTS in 7 der letzten 10 Liverpool-Arsenal-Direktduelle. Beide offensive Setups mit Top-Stürmern. Einsatz 20€. Quote bei bet365 live prüfen.",
+      "rang": 8
     },
     {
       "id": "e9",
@@ -649,7 +660,8 @@
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
       "potentieller_gewinn_euro": 29.0,
-      "begruendung": "Barça offensiv tor-stärkste LaLiga-Mannschaft seit Jahren. Über 2.5 in 8 der letzten 10 Heim-Spiele gegen Mittelfeld-/Abstiegs-Klubs. Markt-Typ Goldgrube. Einsatz 20€. Quote live prüfen."
+      "begruendung": "Barça offensiv tor-stärkste LaLiga-Mannschaft seit Jahren. Über 2.5 in 8 der letzten 10 Heim-Spiele gegen Mittelfeld-/Abstiegs-Klubs. Markt-Typ Goldgrube. Einsatz 20€. Quote live prüfen.",
+      "rang": 9
     },
     {
       "id": "e10",
@@ -665,7 +677,8 @@
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
       "potentieller_gewinn_euro": 37.0,
-      "begruendung": "Beide offensiv dezimiert durch Transferfenster - Juve ohne Yildiz/Vlahovic, Napoli ohne Lukaku/Simeone. Serie A Big-Matches tendieren oft zu 1:0/1:1/0:0 bei defensiv-stabilen Setups. Unter 2.5 Markt-Typ Goldgrube (+30,3% ROI). Einsatz 20€. Quote live prüfen."
+      "begruendung": "Beide offensiv dezimiert durch Transferfenster - Juve ohne Yildiz/Vlahovic, Napoli ohne Lukaku/Simeone. Serie A Big-Matches tendieren oft zu 1:0/1:1/0:0 bei defensiv-stabilen Setups. Unter 2.5 Markt-Typ Goldgrube (+30,3% ROI). Einsatz 20€. Quote live prüfen.",
+      "rang": 10
     },
     {
       "id": "e11",
@@ -681,7 +694,8 @@
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15.0,
       "potentieller_gewinn_euro": 24.0,
-      "begruendung": "BTTS in 8 der letzten 10 Mailänder Derbys. Beide treffen fast immer im San Siro. Einsatz 15€. Quote live prüfen."
+      "begruendung": "BTTS in 8 der letzten 10 Mailänder Derbys. Beide treffen fast immer im San Siro. Einsatz 15€. Quote live prüfen.",
+      "rang": 11
     },
     {
       "id": "e12",
@@ -697,7 +711,8 @@
       "empfohlener_einsatz_prozent": 0.5,
       "empfohlener_einsatz_euro": 5.0,
       "potentieller_gewinn_euro": 8.75,
-      "begruendung": "Kane als zentraler 9er Volumen-Stürmer bei Bayern - 20+ Saisontore Standard. Einwechslungs-Boost greift. Markt-Typ Torschützen Jederzeit = Goldgrube (+29,5% ROI). Wackel-Einsatz 5€ (0,5% Kasse). Quote live prüfen."
+      "begruendung": "Kane als zentraler 9er Volumen-Stürmer bei Bayern - 20+ Saisontore Standard. Einwechslungs-Boost greift. Markt-Typ Torschützen Jederzeit = Goldgrube (+29,5% ROI). Wackel-Einsatz 5€ (0,5% Kasse). Quote live prüfen.",
+      "rang": 12
     }
   ],
   "kombis": [
