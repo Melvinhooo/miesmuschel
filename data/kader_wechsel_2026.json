@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-26",
+  "stand": "2026-10-29",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -904,7 +904,11 @@
       "verein": "Bayern Muenchen",
       "trainer": "Vincent Kompany",
       "seit": "2024-07",
-      "status": "weiter"
+      "status": "krankheits-bedingt pausierend seit ~Mitte Okt 2026",
+      "interim": "Aaron Danks (Assistent) betreut Bayern seit mehreren Spielen (u.a. BL 17.10. vs Leipzig 6:1 und DFB-Pokal 28.10. vs Magdeburg 6:1). Kompany mit Hirnhautreizung aus Klinik entlassen, Reha zu Hause. Max Eberl: 'Rueckkehr bald'.",
+      "hinweis_fuer_tipps": "Interim-Phase: Kane im Pokal gegen Magdeburg komplett geschont (Bank), Rotation unberechenbar - Stammsturm-Form-Edge-Tipps um eine Kategorie downgraden (vgl. Lesson HR10-29-1).",
+      "quelle": "https://sport.sky.de/fussball/artikel/kompany-aus-krankenhaus-entlassen-bayern-trainer-hat-hirnhautreizung/13604998/34130",
+      "quelle_stand": "2026-10-29"
     },
     {
       "verein": "VfB Stuttgart",

@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-10-29T06:18:04+00:00",
+  "letzte_berechnung": "2026-10-29T07:13:36+00:00",
   "gesamt": {
     "tipps": 336,
-    "gewonnen": 185,
-    "verloren": 127,
+    "gewonnen": 190,
+    "verloren": 129,
     "push": 1,
-    "offen": 23,
-    "einsatz": 313.0,
-    "netto": 94.99,
-    "trefferquote": 59.3,
-    "roi_prozent": 30.3
+    "offen": 16,
+    "einsatz": 320.0,
+    "netto": 95.82,
+    "trefferquote": 59.6,
+    "roi_prozent": 29.9
   },
   "letzte_30_tage": {
     "tipps": 85,
-    "gewonnen": 51,
-    "verloren": 22,
+    "gewonnen": 56,
+    "verloren": 24,
     "push": 0,
-    "offen": 12,
-    "einsatz": 73.0,
-    "netto": 0.54,
-    "trefferquote": 69.9,
-    "roi_prozent": 0.7
+    "offen": 5,
+    "einsatz": 80.0,
+    "netto": 1.37,
+    "trefferquote": 70.0,
+    "roi_prozent": 1.7
   },
   "letzte_90_tage": {
     "tipps": 316,
-    "gewonnen": 175,
-    "verloren": 117,
+    "gewonnen": 180,
+    "verloren": 119,
     "push": 1,
-    "offen": 23,
-    "einsatz": 293.0,
-    "netto": 76.09,
-    "trefferquote": 59.9,
-    "roi_prozent": 26.0
+    "offen": 16,
+    "einsatz": 300.0,
+    "netto": 76.92,
+    "trefferquote": 60.2,
+    "roi_prozent": 25.6
   },
   "nach_liga": {
     "UEFA Champions League - 2. Qualifikationsrunde": {
@@ -839,14 +839,14 @@
     },
     "DFB-Pokal 2026/27 - 2. Runde": {
       "tipps": 13,
-      "gewonnen": 10,
-      "verloren": 1,
+      "gewonnen": 11,
+      "verloren": 2,
       "push": 0,
-      "offen": 2,
-      "einsatz": 11.0,
-      "netto": 3.58,
-      "trefferquote": 90.9,
-      "roi_prozent": 32.5
+      "offen": 0,
+      "einsatz": 13.0,
+      "netto": 2.76,
+      "trefferquote": 84.6,
+      "roi_prozent": 21.2
     },
     "Carabao Cup 2026/27 - Fourth Round (Achtelfinale)": {
       "tipps": 1,
@@ -861,38 +861,38 @@
     },
     "Serie A - Giornata 9": {
       "tipps": 3,
-      "gewonnen": 0,
-      "verloren": 0,
+      "gewonnen": 2,
+      "verloren": 1,
       "push": 0,
-      "offen": 3,
-      "einsatz": 0.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.1,
+      "trefferquote": 66.7,
+      "roi_prozent": 3.3
     },
     "EFL Cup 2026/27 - 4. Runde (Carabao Cup)": {
       "tipps": 2,
-      "gewonnen": 0,
+      "gewonnen": 2,
       "verloren": 0,
       "push": 0,
-      "offen": 2,
-      "einsatz": 0.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 1.55,
+      "trefferquote": 100.0,
+      "roi_prozent": 77.5
     }
   },
   "nach_markt": {
     "Ueber 2.5 Tore": {
       "tipps": 31,
-      "gewonnen": 16,
-      "verloren": 10,
+      "gewonnen": 18,
+      "verloren": 11,
       "push": 0,
-      "offen": 5,
-      "einsatz": 26.0,
-      "netto": 11.87,
-      "trefferquote": 61.5,
-      "roi_prozent": 45.7
+      "offen": 2,
+      "einsatz": 29.0,
+      "netto": 12.52,
+      "trefferquote": 62.1,
+      "roi_prozent": 43.2
     },
     "Doppelte Chance Hearts oder X (1X)": {
       "tipps": 1,
@@ -2139,14 +2139,14 @@
     },
     "Beide Teams treffen": {
       "tipps": 5,
-      "gewonnen": 2,
+      "gewonnen": 3,
       "verloren": 2,
       "push": 0,
-      "offen": 1,
-      "einsatz": 4.0,
-      "netto": -0.85,
-      "trefferquote": 50.0,
-      "roi_prozent": -21.3
+      "offen": 0,
+      "einsatz": 5.0,
+      "netto": -0.1,
+      "trefferquote": 60.0,
+      "roi_prozent": -2.0
     },
     "Sieg Juventus (90 Min)": {
       "tipps": 1,
@@ -2854,49 +2854,49 @@
     },
     "Stuttgart oder Remis (Doppelte Chance)": {
       "tipps": 1,
-      "gewonnen": 0,
+      "gewonnen": 1,
       "verloren": 0,
       "push": 0,
-      "offen": 1,
-      "einsatz": 0.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.18,
+      "trefferquote": 100.0,
+      "roi_prozent": 18.0
     },
     "Luis Diaz Torschuetze jederzeit": {
       "tipps": 1,
       "gewonnen": 0,
-      "verloren": 0,
+      "verloren": 1,
       "push": 0,
-      "offen": 1,
-      "einsatz": 0.0,
-      "netto": 0.0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
       "trefferquote": 0.0,
-      "roi_prozent": 0.0
+      "roi_prozent": -100.0
     },
     "Napoli oder Remis (Doppelte Chance)": {
       "tipps": 1,
-      "gewonnen": 0,
+      "gewonnen": 1,
       "verloren": 0,
       "push": 0,
-      "offen": 1,
-      "einsatz": 0.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.25,
+      "trefferquote": 100.0,
+      "roi_prozent": 25.0
     }
   },
   "nach_markt_typ": {
     "Ueber 2.5 Tore": {
       "tipps": 41,
-      "gewonnen": 21,
-      "verloren": 14,
+      "gewonnen": 23,
+      "verloren": 15,
       "push": 0,
-      "offen": 6,
-      "einsatz": 35.0,
-      "netto": 16.02,
-      "trefferquote": 60.0,
-      "roi_prozent": 45.8
+      "offen": 3,
+      "einsatz": 38.0,
+      "netto": 16.67,
+      "trefferquote": 60.5,
+      "roi_prozent": 43.9
     },
     "Doppelte Chance 1X": {
       "tipps": 21,
@@ -2923,13 +2923,13 @@
     "Torschuetzen Jederzeit": {
       "tipps": 34,
       "gewonnen": 12,
-      "verloren": 20,
+      "verloren": 21,
       "push": 0,
-      "offen": 2,
-      "einsatz": 32.0,
-      "netto": 10.75,
-      "trefferquote": 37.5,
-      "roi_prozent": 33.6
+      "offen": 1,
+      "einsatz": 33.0,
+      "netto": 9.75,
+      "trefferquote": 36.4,
+      "roi_prozent": 29.5
     },
     "Beide Teams treffen JA": {
       "tipps": 37,
@@ -2999,13 +2999,13 @@
     },
     "Doppelte Chance": {
       "tipps": 57,
-      "gewonnen": 33,
+      "gewonnen": 35,
       "verloren": 12,
       "push": 0,
-      "offen": 12,
-      "einsatz": 45.0,
-      "netto": 9.62,
-      "trefferquote": 73.3,
+      "offen": 10,
+      "einsatz": 47.0,
+      "netto": 10.05,
+      "trefferquote": 74.5,
       "roi_prozent": 21.4
     },
     "Inter gewinnt": {
@@ -3098,14 +3098,14 @@
     },
     "Beide Teams treffen": {
       "tipps": 5,
-      "gewonnen": 2,
+      "gewonnen": 3,
       "verloren": 2,
       "push": 0,
-      "offen": 1,
-      "einsatz": 4.0,
-      "netto": -0.85,
-      "trefferquote": 50.0,
-      "roi_prozent": -21.3
+      "offen": 0,
+      "einsatz": 5.0,
+      "netto": -0.1,
+      "trefferquote": 60.0,
+      "roi_prozent": -2.0
     },
     "Torschütze jederzeit: Viktor Gyoekeres": {
       "tipps": 1,
@@ -3155,36 +3155,36 @@
   "nach_quoten_range": {
     "1.50-2.00": {
       "tipps": 152,
-      "gewonnen": 80,
-      "verloren": 65,
+      "gewonnen": 83,
+      "verloren": 66,
       "push": 0,
-      "offen": 7,
-      "einsatz": 145.0,
-      "netto": 57.06,
-      "trefferquote": 55.2,
-      "roi_prozent": 39.4
+      "offen": 3,
+      "einsatz": 149.0,
+      "netto": 58.46,
+      "trefferquote": 55.7,
+      "roi_prozent": 39.2
     },
     "1.00-1.50": {
       "tipps": 147,
-      "gewonnen": 96,
+      "gewonnen": 98,
       "verloren": 38,
       "push": 1,
-      "offen": 12,
-      "einsatz": 135.0,
-      "netto": 32.98,
-      "trefferquote": 71.6,
+      "offen": 10,
+      "einsatz": 137.0,
+      "netto": 33.41,
+      "trefferquote": 72.1,
       "roi_prozent": 24.4
     },
     "2.00-3.00": {
       "tipps": 31,
       "gewonnen": 7,
-      "verloren": 20,
+      "verloren": 21,
       "push": 0,
-      "offen": 4,
-      "einsatz": 27.0,
-      "netto": 1.45,
-      "trefferquote": 25.9,
-      "roi_prozent": 5.4
+      "offen": 3,
+      "einsatz": 28.0,
+      "netto": 0.45,
+      "trefferquote": 25.0,
+      "roi_prozent": 1.6
     },
     "3.00+": {
       "tipps": 6,
@@ -3201,14 +3201,14 @@
   "nach_kategorie": {
     "value": {
       "tipps": 217,
-      "gewonnen": 115,
-      "verloren": 87,
+      "gewonnen": 119,
+      "verloren": 89,
       "push": 1,
-      "offen": 14,
-      "einsatz": 203.0,
-      "netto": 43.72,
-      "trefferquote": 56.9,
-      "roi_prozent": 21.5
+      "offen": 8,
+      "einsatz": 209.0,
+      "netto": 44.37,
+      "trefferquote": 57.2,
+      "roi_prozent": 21.2
     },
     "wackel": {
       "tipps": 61,
@@ -3223,14 +3223,14 @@
     },
     "safe": {
       "tipps": 56,
-      "gewonnen": 40,
+      "gewonnen": 41,
       "verloren": 8,
       "push": 0,
-      "offen": 8,
-      "einsatz": 48.0,
-      "netto": 32.28,
-      "trefferquote": 83.3,
-      "roi_prozent": 67.2
+      "offen": 7,
+      "einsatz": 49.0,
+      "netto": 32.46,
+      "trefferquote": 83.7,
+      "roi_prozent": 66.2
     },
     "risk": {
       "tipps": 2,
@@ -3264,14 +3264,14 @@
     "aktuelle_saison": "2026/27",
     "gesamt": {
       "tipps": 336,
-      "gewonnen": 185,
-      "verloren": 127,
+      "gewonnen": 190,
+      "verloren": 129,
       "push": 1,
-      "offen": 23,
-      "einsatz": 313.0,
-      "netto": 94.99,
-      "trefferquote": 59.3,
-      "roi_prozent": 30.3
+      "offen": 16,
+      "einsatz": 320.0,
+      "netto": 95.82,
+      "trefferquote": 59.6,
+      "roi_prozent": 29.9
     },
     "kasse": {
       "name": "2026/27",
@@ -3309,14 +3309,14 @@
         "ende": "2027-06-30",
         "bilanz": {
           "tipps": 178,
-          "gewonnen": 115,
-          "verloren": 51,
+          "gewonnen": 120,
+          "verloren": 53,
           "push": 0,
-          "offen": 12,
-          "einsatz": 166.0,
-          "netto": 79.22,
-          "trefferquote": 69.3,
-          "roi_prozent": 47.7
+          "offen": 5,
+          "einsatz": 173.0,
+          "netto": 80.05,
+          "trefferquote": 69.4,
+          "roi_prozent": 46.3
         },
         "ist_aktuell": true
       }
@@ -3327,14 +3327,14 @@
       "datum": "2026-10-28",
       "gesamt": {
         "tipps": 10,
-        "gewonnen": 3,
-        "verloren": 0,
+        "gewonnen": 8,
+        "verloren": 2,
         "push": 0,
-        "offen": 7,
-        "einsatz": 3.0,
-        "netto": 1.13,
-        "trefferquote": 100.0,
-        "roi_prozent": 37.7
+        "offen": 0,
+        "einsatz": 10.0,
+        "netto": 1.96,
+        "trefferquote": 80.0,
+        "roi_prozent": 19.6
       },
       "spiele": [
         {
@@ -3356,9 +3356,9 @@
               "markt": "Luis Diaz Torschuetze jederzeit",
               "quote": 2.1,
               "kategorie": "value",
-              "status": "offen",
-              "gewinn_faktor": 0.0,
-              "kommentar": "Luis Diaz Torschuetze - Torschuetzen-Liste nicht final verifiziert (WebSearch-Indizes thin). Manuell nachpruefen (kicker.de/transfermarkt). Einwechslungs-Boost ggf. anwenden."
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Luis Diaz nicht unter den 6 Bayern-Torschuetzen (Olise 2x / Saibari / Davies / Brown / Daiber). Einwechslungs-Boost nicht pruefbar - Diaz nicht als eingewechselter Spieler oder dessen Ersatz-Trefferschuetze in den Spielberichten (kicker.de/sportschau) genannt. Form-Edge nach Hattrick 17.10. nicht in Pokal-Tor umgesetzt."
             }
           ]
         },
@@ -3401,15 +3401,15 @@
           "liga": "DFB-Pokal 2026/27 - 2. Runde",
           "heim": "SC Paderborn 07",
           "gast": "VfB Stuttgart",
-          "endstand": "—",
+          "endstand": "0:1",
           "tipps": [
             {
               "markt": "Stuttgart oder Remis (Doppelte Chance)",
               "quote": 1.18,
               "kategorie": "safe",
-              "status": "offen",
-              "gewinn_faktor": 0.0,
-              "kommentar": "DFB-Pokal 2026/27 - 2. Runde nicht im API-Free-Tier"
+              "status": "gewonnen",
+              "gewinn_faktor": 0.18,
+              "kommentar": "DC X2 durch - Stuttgart gewinnt 0:1 in 90 Min (Undav 90'). Spaet-Entscheidung, aber reicht."
             }
           ]
         },
@@ -3418,15 +3418,15 @@
           "liga": "Serie A - Giornata 9",
           "heim": "Venezia FC",
           "gast": "Inter Mailand",
-          "endstand": "—",
+          "endstand": "0:2",
           "tipps": [
             {
               "markt": "Ueber 2.5 Tore",
               "quote": 1.75,
               "kategorie": "value",
-              "status": "offen",
-              "gewinn_faktor": 0.0,
-              "kommentar": "kein API-Match"
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Nur 2 Tore im Spiel (beide Venezia-ET) - Ueber 2.5 verloren. Inter-Volumen-Erwartung gegen Serie-A-Letzten diesmal nicht aufgegangen."
             }
           ]
         },
@@ -3435,23 +3435,23 @@
           "liga": "Serie A - Giornata 9",
           "heim": "AC Monza",
           "gast": "SSC Napoli",
-          "endstand": "—",
+          "endstand": "1:4",
           "tipps": [
             {
               "markt": "Napoli oder Remis (Doppelte Chance)",
               "quote": 1.25,
               "kategorie": "value",
-              "status": "offen",
-              "gewinn_faktor": 0.0,
-              "kommentar": "kein API-Match"
+              "status": "gewonnen",
+              "gewinn_faktor": 0.25,
+              "kommentar": "DC X2 (Napoli oder Remis) durch - Napoli gewinnt 1:4."
             },
             {
               "markt": "Ueber 2.5 Tore",
               "quote": 1.85,
               "kategorie": "value",
-              "status": "offen",
-              "gewinn_faktor": 0.0,
-              "kommentar": "kein API-Match"
+              "status": "gewonnen",
+              "gewinn_faktor": 0.85,
+              "kommentar": "5 Tore im Spiel - Ueber 2.5 klar durch. Markt-Goldgrube bestaetigt."
             }
           ]
         },
@@ -3460,15 +3460,15 @@
           "liga": "EFL Cup 2026/27 - 4. Runde (Carabao Cup)",
           "heim": "Liverpool FC",
           "gast": "Chelsea FC",
-          "endstand": "—",
+          "endstand": "1:1 n.V. (Liverpool 6:5 i.E.)",
           "tipps": [
             {
               "markt": "Beide Teams treffen",
               "quote": 1.75,
               "kategorie": "value",
-              "status": "offen",
-              "gewinn_faktor": 0.0,
-              "kommentar": ""
+              "status": "gewonnen",
+              "gewinn_faktor": 0.75,
+              "kommentar": "BTTS durch - beide Teams trafen (Rogers 41' Elfer, Gakpo 44' Elfer)."
             }
           ]
         },
@@ -3477,15 +3477,15 @@
           "liga": "EFL Cup 2026/27 - 4. Runde (Carabao Cup)",
           "heim": "Manchester City",
           "gast": "Brighton & Hove Albion",
-          "endstand": "—",
+          "endstand": "2:2 n.V. (City 4:3 i.E.)",
           "tipps": [
             {
               "markt": "Ueber 2.5 Tore",
               "quote": 1.8,
               "kategorie": "value",
-              "status": "offen",
-              "gewinn_faktor": 0.0,
-              "kommentar": ""
+              "status": "gewonnen",
+              "gewinn_faktor": 0.8,
+              "kommentar": "4 Tore in 90 Min - Ueber 2.5 klar durch."
             }
           ]
         }

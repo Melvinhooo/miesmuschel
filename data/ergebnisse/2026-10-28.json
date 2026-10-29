@@ -95,9 +95,9 @@
         },
         {
           "tipp_id": "bay-mag-2",
-          "status": "offen",
-          "gewinn_faktor": 0.0,
-          "kommentar": "Luis Diaz Torschuetze - Torschuetzen-Liste nicht final verifiziert (WebSearch-Indizes thin). Manuell nachpruefen (kicker.de/transfermarkt). Einwechslungs-Boost ggf. anwenden."
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Luis Diaz nicht unter den 6 Bayern-Torschuetzen (Olise 2x / Saibari / Davies / Brown / Daiber). Einwechslungs-Boost nicht pruefbar - Diaz nicht als eingewechselter Spieler oder dessen Ersatz-Trefferschuetze in den Spielberichten (kicker.de/sportschau) genannt. Form-Edge nach Hattrick 17.10. nicht in Pokal-Tor umgesetzt."
         },
         {
           "tipp_id": "bay-mag-3",
@@ -107,15 +107,58 @@
         },
         {
           "tipp_id": "bay-mag-4",
-          "status": "offen",
-          "gewinn_faktor": 0.0,
-          "kommentar": "Harry Kane Doppelpack - Torschuetzen-Liste nicht verifiziert. Manuell nachpruefen."
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Harry Kane wurde von Interimscoach Aaron Danks geschont (nicht in Startelf, nicht eingewechselt laut sportschau.de/kicker). Doppelpack damit unmoeglich."
         }
       ],
       "volle_analyse": {
         "halbzeit_stand": "2:1",
         "endstand": "6:1",
-        "tore": null,
+        "tore": [
+          {
+            "min": 10,
+            "team": "heim",
+            "spieler": "Olise",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 21,
+            "team": "heim",
+            "spieler": "Saibari",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Zukowski",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 50,
+            "team": "heim",
+            "spieler": "Olise",
+            "stand_danach": "3:1"
+          },
+          {
+            "min": 70,
+            "team": "heim",
+            "spieler": "Davies",
+            "stand_danach": "4:1"
+          },
+          {
+            "min": 73,
+            "team": "heim",
+            "spieler": "Brown",
+            "stand_danach": "5:1"
+          },
+          {
+            "min": 93,
+            "team": "heim",
+            "spieler": "Daiber",
+            "stand_danach": "6:1"
+          }
+        ],
         "drehung": {
           "war_drehung": false,
           "details": "Bayern HZ 2:1, Endstand 6:1 - keine Drehung. Magdeburg traf einmal in HZ 1 fuer das 1:1 oder 2:1 (exakte Reihenfolge nicht verifiziert)."
@@ -131,11 +174,18 @@
           "halbzeit_endstand": "Bayern/Bayern",
           "kein_team_zu_null": false
         },
-        "rotation_highlights": null,
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Harry Kane",
+            "details": "Von Interimscoach Danks komplett geschont (Bank, nicht eingewechselt). Kompany weiter krankgeschrieben (Hirnhautreizung) - Danks betreut Bayern seit mehreren Spielen."
+          }
+        ],
         "einwechslungs_tor_highlights": null,
         "auffaellige_patterns": [
           "Klarer Pokal-Favoriten-Sieg trotz Magdeburg-Treffer in HZ 1 - Bayerns Angriffs-Volumen (6 Tore) typisch fuer Klassenunterschied-Spiele.",
-          "Pokal-2:0-Insurance greift hier nicht (nur BL+CL), spielte aber auch keine Rolle - Bayern gewinnt klar in 90 Min."
+          "Pokal-2:0-Insurance greift hier nicht (nur BL+CL), spielte aber auch keine Rolle - Bayern gewinnt klar in 90 Min.",
+          "Interimscoach Danks lies Kane auf der Bank und Diaz traf nicht - beide Spielertipps verloren trotz Form-Edge. Lesson: bei Interimscoach-Phasen (Rotation unberechenbar) Spielertipps auf Bayern-Stars tiefer gewichten."
         ]
       }
     },
@@ -436,28 +486,70 @@
         }
       ],
       "kontext_check_status": "OK",
-      "ergebnis": null,
+      "ergebnis": {
+        "endstand": "0:1",
+        "heim_tore": 0,
+        "gast_tore": 1,
+        "status": "FINISHED",
+        "quelle": "WebSearch 2026-10-29: sofascore + sapphirebet.com + sky.de Spielbericht - Undav 90' entschied, Paderborn-Kapitaen Curda rote Karte."
+      },
       "tipps_ergebnis": [
         {
           "tipp_id": "pad-stu-1",
-          "status": "offen",
-          "gewinn_faktor": 0.0,
-          "kommentar": "DFB-Pokal 2026/27 - 2. Runde nicht im API-Free-Tier"
+          "status": "gewonnen",
+          "gewinn_faktor": 0.18,
+          "kommentar": "DC X2 durch - Stuttgart gewinnt 0:1 in 90 Min (Undav 90'). Spaet-Entscheidung, aber reicht."
         },
         {
           "tipp_id": "pad-stu-2",
-          "status": "offen",
-          "gewinn_faktor": 0.0,
-          "kommentar": "DFB-Pokal 2026/27 - 2. Runde nicht im API-Free-Tier"
+          "status": "gewonnen",
+          "gewinn_faktor": 0.7,
+          "kommentar": "Direkter Sieg Stuttgart - Undav-Treffer in der 90. Minute reichte knapp vor Elfmeterschiessen. Pokal-2:0-Insurance greift nicht, Vollsieg trotzdem erreicht."
         },
         {
           "tipp_id": "pad-stu-3",
-          "status": "offen",
-          "gewinn_faktor": 0.0,
-          "kommentar": "DFB-Pokal 2026/27 - 2. Runde nicht im API-Free-Tier"
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur 1 Tor im Spiel (0:1 Endstand) - Ueber 2.5 klar verloren."
         }
       ],
-      "volle_analyse": null
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": 90,
+            "team": "gast",
+            "spieler": "Deniz Undav",
+            "stand_danach": "0:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Spaet-Tor-Spiel, kein Fuehrungswechsel - Stuttgart entschied in letzter Minute."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Stuttgart",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Laurin Curda (C)",
+            "details": "Paderborn-Kapitaen sah Rot - Stuttgart spielte lange in Ueberzahl."
+          }
+        ],
+        "einwechslungs_tor_highlights": null,
+        "auffaellige_patterns": [
+          "Pokal-Spaetentscheidung durch Undav 90' - typische Zweitliga-vs-BL-Dynamik: Paderborn hielt lange, Stuttgart erzwang den Vollsieg vor Elfmeter.",
+          "DC X2 (Stuttgart oder Remis) Goldgrube erneut bestaetigt - 90-Min-Entscheidung reichte knapp.",
+          "Direkter Sieg Stuttgart 90 Min knapp durch - Elfmeter-Risiko wurde nur um Minuten vermieden."
+        ]
+      }
     },
     {
       "id": "2026-10-28-kie-hof",
@@ -642,28 +734,103 @@
         }
       ],
       "kontext_check_status": "OK",
-      "ergebnis": null,
+      "ergebnis": {
+        "endstand": "2:4",
+        "heim_tore": 2,
+        "gast_tore": 4,
+        "status": "FINISHED",
+        "quelle": "WebSearch 2026-10-29: sky.it + dazn.it + sportmediaset + milanpress Tabellino - Mbangula Hattrick (8', 62', 86'), Cisse Doppelpack (14', 27'), OG Bartesaghi 60'."
+      },
       "tipps_ergebnis": [
         {
           "tipp_id": "mil-bol-1",
-          "status": "offen",
-          "gewinn_faktor": 0.0,
-          "kommentar": "kein API-Match"
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "DC 1X (Milan oder Remis) VERLOREN - Bologna gewinnt 2:4 nach HZ-Rueckstand 1:2. Komplette Drehung."
         },
         {
           "tipp_id": "mil-bol-2",
-          "status": "offen",
-          "gewinn_faktor": 0.0,
-          "kommentar": "kein API-Match"
+          "status": "gewonnen",
+          "gewinn_faktor": 0.9,
+          "kommentar": "6 Tore im Spiel - Ueber 2.5 klar durch."
         },
         {
           "tipp_id": "mil-bol-3",
-          "status": "offen",
-          "gewinn_faktor": 0.0,
-          "kommentar": "kein API-Match"
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Direkter Milan-Sieg verloren - Bologna gewinnt 2:4."
         }
       ],
-      "volle_analyse": null
+      "volle_analyse": {
+        "halbzeit_stand": "2:1",
+        "endstand": "2:4",
+        "tore": [
+          {
+            "min": 8,
+            "team": "gast",
+            "spieler": "Mbangula",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 14,
+            "team": "heim",
+            "spieler": "Cisse",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 27,
+            "team": "heim",
+            "spieler": "Cisse",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 60,
+            "team": "gast",
+            "spieler": "Bartesaghi (ET)",
+            "stand_danach": "2:2"
+          },
+          {
+            "min": 62,
+            "team": "gast",
+            "spieler": "Mbangula",
+            "stand_danach": "2:3"
+          },
+          {
+            "min": 86,
+            "team": "gast",
+            "spieler": "Mbangula",
+            "stand_danach": "2:4"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Milan fuehrte zur HZ 2:1 - Bologna dreht nach dem Seitenwechsel durch 3 Tore in 26 Minuten zum 2:4-Auswaertssieg. Bartesaghi-ET innerhalb 2 Minuten nach dem 62'-Mbangula-Treffer brach Milan ein."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Milan/Bologna",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Ramos",
+            "details": "Milan-9er Ramos erneut torlos trotz Startelf-Einsatz - Amorim-System produziert kaum Volumen-Chancen."
+          }
+        ],
+        "einwechslungs_tor_highlights": null,
+        "auffaellige_patterns": [
+          "Erste Milan-Niederlage der Saison - trotz 2:1-HZ-Fuehrung komplettes Zweit-Halbzeit-Einbruch.",
+          "Mbangula-Hattrick + Cisse-Doppelpack: 5 unterschiedliche Torschuetzen auf gast-Seite nicht vertreten, kompakter Markt.",
+          "Milan rutscht auf 18 Pkt ab (−7 zu Lazio/Roma). Bologna springt auf 11 Pkt - Serie-A-Mitlaeufer bestaetigt.",
+          "DREHUNGS-Spiel: 2:1 → 2:4 in H2 - gelbe Fahne fuer Milan-Heim-Favoriten-Picks naechste Wochen."
+        ]
+      }
     },
     {
       "id": "2026-10-28-ven-int",
@@ -727,28 +894,70 @@
         }
       ],
       "kontext_check_status": "OK",
-      "ergebnis": null,
+      "ergebnis": {
+        "endstand": "0:2",
+        "heim_tore": 0,
+        "gast_tore": 2,
+        "status": "FINISHED",
+        "quelle": "WebSearch 2026-10-29: sky.it + dazn + virgilio + sportmediaset - Zwei Venezia-Eigentore in 3 Minuten (Moreno 79', Halhal 82'). Inter springt auf 25 Pkt / Platz 1."
+      },
       "tipps_ergebnis": [
         {
           "tipp_id": "ven-int-1",
-          "status": "offen",
-          "gewinn_faktor": 0.0,
-          "kommentar": "kein API-Match"
+          "status": "gewonnen",
+          "gewinn_faktor": 0.08,
+          "kommentar": "DC X2 (Inter oder Remis) durch - Inter gewinnt 0:2."
         },
         {
           "tipp_id": "ven-int-2",
-          "status": "offen",
-          "gewinn_faktor": 0.0,
-          "kommentar": "kein API-Match"
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur 2 Tore im Spiel (beide Venezia-ET) - Ueber 2.5 verloren. Inter-Volumen-Erwartung gegen Serie-A-Letzten diesmal nicht aufgegangen."
         },
         {
           "tipp_id": "ven-int-3",
-          "status": "offen",
-          "gewinn_faktor": 0.0,
-          "kommentar": "kein API-Match"
+          "status": "gewonnen",
+          "gewinn_faktor": 0.4,
+          "kommentar": "Direkter Inter-Sieg 0:2 durch."
         }
       ],
-      "volle_analyse": null
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:2",
+        "tore": [
+          {
+            "min": 79,
+            "team": "gast",
+            "spieler": "Moreno (ET)",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 82,
+            "team": "gast",
+            "spieler": "Halhal (ET)",
+            "stand_danach": "0:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Enges Spiel bis zur 79. Minute - dann zwei Venezia-Eigentore in 3 Minuten. Keine Drehung, aber ein spaetes Ergebnis."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Inter",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": null,
+        "einwechslungs_tor_highlights": null,
+        "auffaellige_patterns": [
+          "Inter kommt durch zwei Venezia-Eigentore zum Sieg - keine Inter-Torschuetzen im Protokoll (Nkunku/Lautaro-Tipps haetten verloren).",
+          "Serie-A-Letzter Venezia haelt 79 Minuten dicht - Markt 'Inter Ueber 2.5' trotz Qualitaetsunterschied verloren.",
+          "Chivu-Inter mit Platz-1-Rekord trotz Zittersieg - Markt-Overvaluation von Inter-Toren bestaetigt."
+        ]
+      }
     },
     {
       "id": "2026-10-28-mon-nap",
@@ -812,28 +1021,96 @@
         }
       ],
       "kontext_check_status": "OK",
-      "ergebnis": null,
+      "ergebnis": {
+        "endstand": "1:4",
+        "heim_tore": 1,
+        "gast_tore": 4,
+        "status": "FINISHED",
+        "quelle": "WebSearch 2026-10-29: ESPN + fanpage + corrieredellosport + tuttosport + virgilio - Hojlund 10' / Varela ~44' / Politano + Rafa Marin + De Bruyne in H2. Napoli auf 14 Pkt."
+      },
       "tipps_ergebnis": [
         {
           "tipp_id": "mon-nap-1",
-          "status": "offen",
-          "gewinn_faktor": 0.0,
-          "kommentar": "kein API-Match"
+          "status": "gewonnen",
+          "gewinn_faktor": 0.25,
+          "kommentar": "DC X2 (Napoli oder Remis) durch - Napoli gewinnt 1:4."
         },
         {
           "tipp_id": "mon-nap-2",
-          "status": "offen",
-          "gewinn_faktor": 0.0,
-          "kommentar": "kein API-Match"
+          "status": "gewonnen",
+          "gewinn_faktor": 0.85,
+          "kommentar": "5 Tore im Spiel - Ueber 2.5 klar durch. Markt-Goldgrube bestaetigt."
         },
         {
           "tipp_id": "mon-nap-3",
-          "status": "offen",
-          "gewinn_faktor": 0.0,
-          "kommentar": "kein API-Match"
+          "status": "gewonnen",
+          "gewinn_faktor": 0.8,
+          "kommentar": "Direkter Napoli-Sieg 1:4 durch - trotz Druck-Lage nach 3:3 vs Roma."
         }
       ],
-      "volle_analyse": null
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "1:4",
+        "tore": [
+          {
+            "min": 10,
+            "team": "gast",
+            "spieler": "Hojlund",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 44,
+            "team": "heim",
+            "spieler": "Varela",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Politano",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Rafa Marin",
+            "stand_danach": "1:3"
+          },
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "De Bruyne",
+            "stand_danach": "1:4"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "HZ 1:1, Napoli zieht in H2 auf 1:4 davon - klassischer Favoriten-Durchmarsch nach Pause, keine echte Drehung."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Unentschieden/Napoli",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Hojlund + De Bruyne",
+            "details": "Napoli-Hauptsturm (Hojlund-9er + De Bruyne-Taktgeber) im Vollbetrieb - 4 verschiedene Torschuetzen auf Gast-Seite."
+          }
+        ],
+        "einwechslungs_tor_highlights": null,
+        "auffaellige_patterns": [
+          "Napoli-Durchmarsch in H2 - trotz 1:1-HZ keine Drehung, nur Qualitaetsdruck wirkt sich zum Ende aus.",
+          "Lobotka-Verletzung in diesem Spiel - Mittelfeld-Umbruch Napoli naechste Wochen beobachten.",
+          "DC X2 + Ueber 2.5 Doppel-Treffer - bestes Spiel-Paar fuer den Nachmittag.",
+          "4 verschiedene Napoli-Torschuetzen - Markt 'einzelner Torschuetze Napoli' schwierig; BTTS/Totals der sichere Pfad."
+        ]
+      }
     },
     {
       "id": "2026-10-28-liv-che",
@@ -899,8 +1176,86 @@
         }
       ],
       "kontext_check_status": "OK",
-      "ergebnis": null,
-      "volle_analyse": null
+      "ergebnis": {
+        "endstand": "1:1 n.V. (Liverpool 6:5 i.E.)",
+        "heim_tore": 1,
+        "gast_tore": 1,
+        "status": "FINISHED",
+        "quelle": "WebSearch 2026-10-29: tempo + tnt sports + liverpoolfc.com + vavel - Rogers 41' (Elfmeter) / Gakpo 44' (Elfmeter). Liverpool 6:5 im Elfmeterschiessen durch nach Fofana-Fehlschuss.",
+        "elfmeterschiessen": {
+          "heim": 6,
+          "gast": 5,
+          "sieger": "heim"
+        }
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "1:1 n.V.",
+        "tore": [
+          {
+            "min": 41,
+            "team": "gast",
+            "spieler": "Morgan Rogers",
+            "stand_danach": "0:1",
+            "typ": "elfmeter"
+          },
+          {
+            "min": 44,
+            "team": "heim",
+            "spieler": "Cody Gakpo",
+            "stand_danach": "1:1",
+            "typ": "elfmeter"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Zwei Elfmeter-Tore in HZ 1, danach keine weiteren Treffer in 90+30 Minuten. Entschieden im Elfmeterschiessen."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": false,
+          "neunzig_min_sieger": "Remis",
+          "elfmeterschiessen_sieger": "Liverpool"
+        },
+        "rotation_highlights": [
+          {
+            "team": "beide",
+            "spieler": "B-Elf-Duell",
+            "details": "Beide Mannschaften rotierten stark - Pokal-B-Elfs lieferten torlosen Fussball nach HZ 1, bis Elfmeterschiessen Entscheidung brachte."
+          }
+        ],
+        "einwechslungs_tor_highlights": null,
+        "auffaellige_patterns": [
+          "Zwei fruehe Elfmeter + torlose H2 - 90-Min-Markte Sieg Liverpool / Sieg Chelsea beide verloren wegen Remis.",
+          "BTTS durch (durch zwei Elfer!) - der konservative Markt-Pick auf dieses Coinflip-Spiel zahlte sich aus.",
+          "Ueber 2.5 verloren - trotz Topduell-Erwartung nur 2 Tore.",
+          "Elfmeter-Entscheidung bestaetigt die 'kein-SAFE-auf-Sieg-im-Pokal' Regel."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "liv-che-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "kommentar": "BTTS durch - beide Teams trafen (Rogers 41' Elfer, Gakpo 44' Elfer)."
+        },
+        {
+          "tipp_id": "liv-che-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur 2 Tore (beide Elfmeter) - Ueber 2.5 verloren. Carabao-Cup-R16-B-Elfs lieferten torlos nach HZ 1."
+        },
+        {
+          "tipp_id": "liv-che-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Sieg Liverpool 90 Min verloren - 1:1 nach 90 Min, Liverpool erst im Elfmeterschiessen durch. 90-Min-Markt zaehlt Verlaengerung + Elfmeter NICHT."
+        }
+      ]
     },
     {
       "id": "2026-10-28-mci-bri",
@@ -966,8 +1321,102 @@
         }
       ],
       "kontext_check_status": "OK",
-      "ergebnis": null,
-      "volle_analyse": null
+      "ergebnis": {
+        "endstand": "2:2 n.V. (City 4:3 i.E.)",
+        "heim_tore": 2,
+        "gast_tore": 2,
+        "status": "FINISHED",
+        "quelle": "WebSearch 2026-10-29: skysports + espn + vavel + mancity.com - Yalcouye 30' / Kovacic 40' / Rutter / Vitor Reis. City 4:3 im Elfmeterschiessen durch (Rulli 2 Elfer gehalten, Cherki verwandelte).",
+        "elfmeterschiessen": {
+          "heim": 4,
+          "gast": 3,
+          "sieger": "heim"
+        }
+      },
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "2:2 n.V.",
+        "tore": [
+          {
+            "min": 30,
+            "team": "gast",
+            "spieler": "Malick Yalcouye",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 40,
+            "team": "heim",
+            "spieler": "Mateo Kovacic",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Georginio Rutter",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Vitor Reis",
+            "stand_danach": "2:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Beide fuehrten einmal, City lag nie vorn. Zwei Ausgleichs-Tore - kein Drehungs-Pattern laut Algorithmus (keine 2-Tore-Fuehrung zwischendurch)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": false,
+          "neunzig_min_sieger": "Remis",
+          "elfmeterschiessen_sieger": "Manchester City"
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Rulli / Cherki",
+            "details": "City-Backup-Keeper Rulli hielt 2 Elfer, Rayan Cherki verwandelte den entscheidenden - Pep-Rotation bestaetigt die B-Elf-Qualitaet im Pokal."
+          },
+          {
+            "team": "heim",
+            "spieler": "Haaland",
+            "details": "Haaland geschont trotz PL-Topscorer-Status (9 Tore in 7 Spielen vor dem Spiel)."
+          }
+        ],
+        "einwechslungs_tor_highlights": null,
+        "auffaellige_patterns": [
+          "Carabao-Cup-R16 Pokal-Thriller - Pep's B-Elf durch Elfer gegen Brighton-Top-3.",
+          "Ueber 2.5 bestaetigt sich erneut als Goldgrube - 4 Tore in 90 Min trotz B-Elfs.",
+          "Sieg City 90 Min verloren - Elfmeter-Risiko wie prognostiziert eingetreten.",
+          "Brighton auswaerts bei PL-Spitzen-Team nicht aufgegeben - DC-Picks fuer Brighton zahlen sich aus."
+        ]
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "mci-bri-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.2,
+          "kommentar": "DC 1X (City oder Remis) durch - City kam nicht ueber Remis in 90 Min, aber kein Brighton-Sieg - DC gilt."
+        },
+        {
+          "tipp_id": "mci-bri-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.8,
+          "kommentar": "4 Tore in 90 Min - Ueber 2.5 klar durch."
+        },
+        {
+          "tipp_id": "mci-bri-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Sieg City 90 Min verloren - 2:2 nach 90 Min, City erst im Elfmeterschiessen durch."
+        }
+      ]
     }
   ],
   "einzeltipps": [
@@ -1303,8 +1752,8 @@
       "einsatz_euro": 20.0,
       "begruendung": "DC X2 Goldgrube 75% / +55.1% ROI (n=20) + Klassenunterschied. Stuttgart kommt mit Conference-League-Rhythmus, Pokal-Prestige nach 2024/25 Finale.",
       "rang": 3,
-      "status": "offen",
-      "kommentar": "Ergebnis nicht verifiziert - WebSearch-Indizes thin. Spiel manuell nachtragen.",
+      "status": "gewonnen",
+      "kommentar": "Stuttgart 1:0 durch Undav 90' - DC X2 knapp vor Elfmeter.",
       "tipp_id": "pad-stu-1"
     },
     {
@@ -1317,8 +1766,8 @@
       "einsatz_euro": 15.0,
       "begruendung": "Form-Edge klar (Hattrick 17.10. vs Leipzig = HR24-Trigger erfuellt). Markt-Goldgrube Torschuetzen Jederzeit (+33.6% ROI). Fluegel-/9er-Rolle unter Kompany, gegen 2.-Liga-Defense weitere Tor-Chancen wahrscheinlich. ACHTUNG: Startelf live pruefen - bei Rotation evtl. als Joker.",
       "rang": 4,
-      "status": "offen",
-      "kommentar": "Torschuetzen-Liste nicht verifiziert (WebSearch thin). Manuell nachpruefen.",
+      "status": "verloren",
+      "kommentar": "Diaz nicht unter den 6 Bayern-Torschuetzen (Olise 2x / Saibari / Davies / Brown / Daiber). Form-Edge nicht in Pokal-Tor umgesetzt.",
       "tipp_id": "bay-mag-2"
     },
     {
@@ -1331,8 +1780,8 @@
       "einsatz_euro": 15.0,
       "begruendung": "DC X2 Goldgrube + Qualitaetsunterschied. Napoli unter Druck nach 3:3 vs Roma, aber auswaerts gegen Abstiegs-Monza Edge klar.",
       "rang": 5,
-      "status": "offen",
-      "kommentar": "Ergebnis nicht verifiziert - API-Proxy blockiert, Spiel manuell nachtragen.",
+      "status": "gewonnen",
+      "kommentar": "Napoli 1:4 - DC X2 klar durch.",
       "tipp_id": "mon-nap-1"
     },
     {
@@ -1360,8 +1809,8 @@
       "einsatz_euro": 15.0,
       "begruendung": "Inter-Volumen gegen Serie-A-Letzten. Markt-Goldgrube Ueber 2.5. Inter traf durchschnittlich 2+ Tore pro Spiel bisher.",
       "rang": 7,
-      "status": "offen",
-      "kommentar": "Ergebnis nicht verifiziert - API-Proxy blockiert, Spiel manuell nachtragen.",
+      "status": "verloren",
+      "kommentar": "Nur 2 Tore (0:2, beide Venezia-ET) - Inter-Volumen-Erwartung nicht aufgegangen.",
       "tipp_id": "ven-int-2"
     },
     {
@@ -1374,8 +1823,8 @@
       "einsatz_euro": 15.0,
       "begruendung": "Napoli-Offensive (De Bruyne-Taktgeber) + Monza offene Defense. Markt-Goldgrube.",
       "rang": 8,
-      "status": "offen",
-      "kommentar": "Ergebnis nicht verifiziert - API-Proxy blockiert, Spiel manuell nachtragen.",
+      "status": "gewonnen",
+      "kommentar": "5 Tore im Spiel - Markt-Goldgrube bestaetigt.",
       "tipp_id": "mon-nap-2"
     },
     {
@@ -1388,8 +1837,8 @@
       "einsatz_euro": 15.0,
       "begruendung": "Topduell zweier Pokal-B-Elfs, beide offensiv ausgerichtet. BTTS statistisch wahrscheinlich. Kein SAFE auf Sieg-Outcome moeglich (Coinflip + Elfmeter-Risiko).",
       "rang": 9,
-      "status": "offen",
-      "kommentar": "Ergebnis nicht verifiziert - WebSearch thin, Spiel manuell nachtragen.",
+      "status": "gewonnen",
+      "kommentar": "BTTS durch - beide Elfmeter in HZ 1 (Rogers 41' / Gakpo 44').",
       "tipp_id": "liv-che-1"
     },
     {
@@ -1402,37 +1851,65 @@
       "einsatz_euro": 15.0,
       "begruendung": "Beide offensiv-DNA Teams, Haaland Saison-Topscorer. Markt-Goldgrube Ueber 2.5.",
       "rang": 10,
-      "status": "offen",
-      "kommentar": "Ergebnis nicht verifiziert - WebSearch thin, Spiel manuell nachtragen.",
+      "status": "gewonnen",
+      "kommentar": "4 Tore in 90 Min - Markt-Goldgrube erneut durch.",
       "tipp_id": "mci-bri-2"
     }
   ],
   "kombis_ergebnis": [
     {
       "kombi_id": null,
-      "status": "offen",
+      "status": "gewonnen",
       "gesamtquote": 3.33,
-      "kommentar": "Leverkusen-Sieg durch (1.40). Stuttgart und Inter noch offen (Ergebnisse nicht verifiziert)."
+      "kommentar": "Alle 3 Favoriten-Siege durch (Lev 5:2, Stu 0:1 Undav 90', Inter 0:2). Gesamtquote 3.33, Einsatz 20€, Gewinn 66.60€.",
+      "name": "🛡️ Safe-Kombi: Leverkusen + Stuttgart + Inter Sieg"
     },
     {
       "kombi_id": null,
-      "status": "offen",
+      "status": "verloren",
       "gesamtquote": 6.98,
-      "kommentar": "Fre-Wol Ueber 2.5 durch (1.90). Diaz-Torschuetze und Liv-Che BTTS noch offen."
+      "kommentar": "Diaz-Torschuetze-Bein verloren - der Rest (Fre-Wol U2.5, Liv-Che BTTS) gewann, rettet aber nichts. Kombi verloren -8€.",
+      "name": "⚖️ Balance-Kombi: Diaz Torschuetze + Fre-Wol Tore + Liv-Che BTTS"
     },
     {
       "kombi_id": null,
-      "status": "offen",
+      "status": "verloren",
       "gesamtquote": 16.93,
-      "kommentar": "Kie-Hof BTTS durch (1.65). Chelsea-Sieg, Mci-Bri Ueber 2.5, Mil-Bol Ueber 2.5 noch offen."
+      "kommentar": "Chelsea-Sieg-Bein (3.00) verloren - obwohl 3 Totale/BTTS liefen. Elfmeter-Risiko realisiert. Kombi verloren -2.50€.",
+      "name": "🎲 Risiko-Kombi: Chelsea Sieg + 3 offene Tore-Spiele"
     },
     {
       "kombi_id": null,
       "status": "verloren",
       "gesamtquote": 102.38,
       "gewinn_faktor": -1.0,
-      "kommentar": "Hoffenheim-Sieg 90 Min VERLOREN (1:1 n.V., Kiel durch im Elfmeterschiessen) - Moonshot gekippt. Bay-Mag Ueber 3.5 (gew) rettete nichts."
+      "kommentar": "Hoffenheim-Sieg 90 Min VERLOREN (1:1 n.V., Kiel durch i.E.) + Brighton + Monza Sieg verloren. Nur Bayern Ueber 3.5 gewann (7 Tore). Kombi -1€.",
+      "name": "🚀 Moonshot-Kombi: 3 Underdog-Siege + Bayern-Tor-Lauf"
     }
   ],
-  "ausgewertet_am": "2026-10-29T06:15:34.937223+00:00"
+  "ausgewertet_am": "2026-10-29T08:05:00+01:00",
+  "zusammenfassung_bilanz": {
+    "einzeltipps": {
+      "anzahl": 10,
+      "gewonnen": 8,
+      "verloren": 2,
+      "einsatz_euro": 165.0,
+      "gewinn_brutto_euro": 196.45,
+      "netto_euro": 31.45
+    },
+    "kombis": {
+      "anzahl": 4,
+      "gewonnen": 1,
+      "verloren": 3,
+      "einsatz_euro": 31.5,
+      "gewinn_brutto_euro": 66.6,
+      "netto_euro": 35.1
+    },
+    "gesamt": {
+      "einsatz_euro": 196.5,
+      "gewinn_brutto_euro": 263.05,
+      "netto_euro": 66.55,
+      "roi_prozent": 33.87
+    }
+  }
 }
