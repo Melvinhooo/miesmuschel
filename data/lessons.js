@@ -3698,7 +3698,35 @@ window.__MIESMUSCHEL_LESSONS = {
       "lesson": "Niclas Fuellkrug (Werder) hat bei seinem Ex-Verein BVB einen Doppelpack erzielt (65. Elfmeter + 68.) — Werder dreht von 0:2 auf 2:2, verliert erst durch Sabitzer-Freistoss 90+3 den Pokal. Fuellkrug-Tipp war WACKEL (Quote 2.80, Einsatz 5€, Gewinnfaktor +1.80 realisiert). HR24 2/3 erfuellt (Form-Edge BL-Topscorer 8 Tore + zentraler 9er + ex-Verein-Motivation). Lehre fuer kuenftige Dossiers: Volumen-9er mit a) BL-Topscorer-Status b) direkter Rueckkehr an Ex-Verein-Wirkungsstaette c) Underdog-Druck bekommen in Torschuetzen-Jederzeit-Maerkten konsistent getroffen — dieser Trigger-Trio verdient einen VALUE statt WACKEL. Zweite Beobachtung: Fuellkrug hat per Elfmeter getroffen, also Elfer-Zuordnung im Spiel ist bei Volumen-9ern mitzudenken (bet365 wertet Elfer als Torschuetze).",
       "bezug_spiel_id": "2026-10-27-bvb-wer",
       "quelle": "ergebnisse/2026-10-27.json + bundesliga.com + bvb.de + sportnewsafrica.com"
+    },
+    {
+      "datum": "2026-10-29",
+      "kategorie": "Pokal-Drehung aus HZ-Rueckstand: Zweitligist Nuernberg fuehrte 2:1 in Leverkusen zur Halbzeit, Favorit drehte",
+      "lesson": "Leverkusen 5:2 Nuernberg bei HZ 1:2 — Zweitligist fuehrte am Pokal-Mittwoch in der BayArena, Werks-Elf drehte mit 4 Toren in HZ 2. DC 1X (Quote 1.08, Einsatz 20€) rettete den Tipp trotz 1:2-HZ-Rueckstand. Lehre: bei BL-vs-2.-Liga-Pokal auf das 90-Min-Fenster vertrauen (Favorit hat 45 Min um die Partie zu drehen) — HZ-Endstand-Markt und Kombi-Beine auf 'HZ-Fuehrung-Favorit' sind riskant (Favorit hat oft erst nach HZ-Pause Zugriff). DC 1X bleibt der sicherere Pfad als Sieg-90-Min auf solche Partien.",
+      "bezug_spiel_id": "2026-10-28-lev-nur",
+      "quelle": "ergebnisse/2026-10-28.json + sportschau.de Konferenz + fussballnationalmannschaft.net"
+    },
+    {
+      "datum": "2026-10-29",
+      "kategorie": "Pokal-Elfmeterschiessen entwertet 90-Min-Sieg-Tipp: Hoffenheim raus trotz Weiterkommen-Chance",
+      "lesson": "Kiel 1:1 n.V. Hoffenheim, Kiel 4:3 i.E. — Hoffenheim-Sieg-90-Min-Tipp (Quote 2.00, Wackel, 5€) VERLOREN, obwohl Hoffenheim 'noch im Spiel' war. 1X2 wertet NUR 90 Min, Elfmeterschiessen zaehlt nicht. DC X2 (Quote 1.30, Einsatz 15€) rettete die DC-Linie. Lehre: in K.o.-Runden (Pokal, Carabao, Supercup) mit realistischer Elfmeter-Wahrscheinlichkeit ist Sieg-90-Min deutlich schwaecher als DC — Routine muss diesen Tradeoff im Prompt explizit markieren und DC X2 (Favorit oder Remis) als Default-Pfad fuer unentschieden-anfaellige Pokal-Spiele setzen.",
+      "bezug_spiel_id": "2026-10-28-kie-hof",
+      "quelle": "ergebnisse/2026-10-28.json + sportschau.de Konferenz"
+    },
+    {
+      "datum": "2026-10-29",
+      "kategorie": "Markt-Pattern BL-Duell im Pokal: Freiburg-Wolfsburg mit 5 Toren bestaetigt Offensiv-Rhythmus",
+      "lesson": "Freiburg 3:2 Wolfsburg: BL-Duell im Pokal lieferte wie prognostiziert viel Offensive — Ueber 2.5 (1.90), BTTS (1.75) und sogar Sieg-Freiburg-Wackel (2.20) kamen alle durch. Pattern: wenn beide Teams BL-Niveau haben (kein Zweitliga-Mismatch), spielen beide offener als in der Liga, defensive Rotationen summieren sich. Fuer kuenftige Pokal-Dossiers: bei BL-vs-BL-Konstellation Ueber 2.5 + BTTS prioritaer vor Sieg-Outcomes setzen; Sieg bleibt max Wackel wegen Coinflip-Charakter.",
+      "bezug_spiel_id": "2026-10-28-fre-wol",
+      "quelle": "ergebnisse/2026-10-28.json + sportschau.de Konferenz"
+    },
+    {
+      "datum": "2026-10-29",
+      "kategorie": "Operational: API-Proxy blockt Serie A, Carabao Cup fehlt im Free-Tier — 6 Spiele offen",
+      "lesson": "Auswertung 2026-10-28 konnte nur 4 von 10 Spielen final auswerten: football-data.org war fuer Serie A per Proxy 403-geblockt (3 Spiele), DFB-Pokal + Carabao Cup sind nicht im Free-Tier (restliche 6 Spiele). WebSearch lieferte fuer DFB-Pokal 4 Scores via Konferenz-Ueberblick, aber keine Scores fuer Paderborn-Stuttgart + Serie A + Carabao Cup — Suchindizes thin. Lehre: fuer Pokal-/Carabao-/Supercup-Mittwoche braucht die Auswertung ein zweites Werkzeug (direkter FBref/Transfermarkt-Fetch via Allowlist oder manuelles Nachtragen am Morgen danach). Bis dahin bleiben 20 Tipps aus heutigem Dossier technisch 'offen' und beschoenigen das ROI.",
+      "bezug_spiel_id": null,
+      "quelle": "ergebnisse/2026-10-28.json + ergebnisse_holen.py-Logs"
     }
   ],
-  "stand": "2026-10-28"
+  "stand": "2026-10-29"
 };

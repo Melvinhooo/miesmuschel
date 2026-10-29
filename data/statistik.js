@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-10-28T06:19:37+00:00",
+  "letzte_berechnung": "2026-10-29T06:18:04+00:00",
   "gesamt": {
-    "tipps": 326,
-    "gewonnen": 182,
+    "tipps": 336,
+    "gewonnen": 185,
     "verloren": 127,
     "push": 1,
-    "offen": 16,
-    "einsatz": 310.0,
-    "netto": 93.86,
-    "trefferquote": 58.9,
+    "offen": 23,
+    "einsatz": 313.0,
+    "netto": 94.99,
+    "trefferquote": 59.3,
     "roi_prozent": 30.3
   },
   "letzte_30_tage": {
-    "tipps": 75,
-    "gewonnen": 48,
+    "tipps": 85,
+    "gewonnen": 51,
     "verloren": 22,
     "push": 0,
-    "offen": 5,
-    "einsatz": 70.0,
-    "netto": -0.59,
-    "trefferquote": 68.6,
-    "roi_prozent": -0.8
+    "offen": 12,
+    "einsatz": 73.0,
+    "netto": 0.54,
+    "trefferquote": 69.9,
+    "roi_prozent": 0.7
   },
   "letzte_90_tage": {
-    "tipps": 306,
-    "gewonnen": 172,
+    "tipps": 316,
+    "gewonnen": 175,
     "verloren": 117,
     "push": 1,
-    "offen": 16,
-    "einsatz": 290.0,
-    "netto": 74.96,
-    "trefferquote": 59.5,
-    "roi_prozent": 25.8
+    "offen": 23,
+    "einsatz": 293.0,
+    "netto": 76.09,
+    "trefferquote": 59.9,
+    "roi_prozent": 26.0
   },
   "nach_liga": {
     "UEFA Champions League - 2. Qualifikationsrunde": {
@@ -839,15 +839,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -68.8
     },
     "DFB-Pokal 2026/27 - 2. Runde": {
-      "tipps": 8,
-      "gewonnen": 7,
+      "tipps": 13,
+      "gewonnen": 10,
       "verloren": 1,
       "push": 0,
-      "offen": 0,
-      "einsatz": 8.0,
-      "netto": 2.45,
-      "trefferquote": 87.5,
-      "roi_prozent": 30.6
+      "offen": 2,
+      "einsatz": 11.0,
+      "netto": 3.58,
+      "trefferquote": 90.9,
+      "roi_prozent": 32.5
     },
     "Carabao Cup 2026/27 - Fourth Round (Achtelfinale)": {
       "tipps": 1,
@@ -859,19 +859,41 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.1,
       "trefferquote": 100.0,
       "roi_prozent": 10.0
+    },
+    "Serie A - Giornata 9": {
+      "tipps": 3,
+      "gewonnen": 0,
+      "verloren": 0,
+      "push": 0,
+      "offen": 3,
+      "einsatz": 0.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "EFL Cup 2026/27 - 4. Runde (Carabao Cup)": {
+      "tipps": 2,
+      "gewonnen": 0,
+      "verloren": 0,
+      "push": 0,
+      "offen": 2,
+      "einsatz": 0.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt": {
     "Ueber 2.5 Tore": {
-      "tipps": 27,
-      "gewonnen": 15,
+      "tipps": 31,
+      "gewonnen": 16,
       "verloren": 10,
       "push": 0,
-      "offen": 2,
-      "einsatz": 25.0,
-      "netto": 10.97,
-      "trefferquote": 60.0,
-      "roi_prozent": 43.9
+      "offen": 5,
+      "einsatz": 26.0,
+      "netto": 11.87,
+      "trefferquote": 61.5,
+      "roi_prozent": 45.7
     },
     "Doppelte Chance Hearts oder X (1X)": {
       "tipps": 1,
@@ -2117,11 +2139,11 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 85.0
     },
     "Beide Teams treffen": {
-      "tipps": 4,
+      "tipps": 5,
       "gewonnen": 2,
       "verloren": 2,
       "push": 0,
-      "offen": 0,
+      "offen": 1,
       "einsatz": 4.0,
       "netto": -0.85,
       "trefferquote": 50.0,
@@ -2808,19 +2830,74 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.35,
       "trefferquote": 100.0,
       "roi_prozent": 35.0
+    },
+    "Sieg FC Bayern Muenchen (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.15,
+      "trefferquote": 100.0,
+      "roi_prozent": 15.0
+    },
+    "Leverkusen oder Remis (Doppelte Chance)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.08,
+      "trefferquote": 100.0,
+      "roi_prozent": 8.0
+    },
+    "Stuttgart oder Remis (Doppelte Chance)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 0,
+      "push": 0,
+      "offen": 1,
+      "einsatz": 0.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Luis Diaz Torschuetze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 0,
+      "push": 0,
+      "offen": 1,
+      "einsatz": 0.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Napoli oder Remis (Doppelte Chance)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 0,
+      "push": 0,
+      "offen": 1,
+      "einsatz": 0.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
     "Ueber 2.5 Tore": {
-      "tipps": 37,
-      "gewonnen": 20,
+      "tipps": 41,
+      "gewonnen": 21,
       "verloren": 14,
       "push": 0,
-      "offen": 3,
-      "einsatz": 34.0,
-      "netto": 15.12,
-      "trefferquote": 58.8,
-      "roi_prozent": 44.5
+      "offen": 6,
+      "einsatz": 35.0,
+      "netto": 16.02,
+      "trefferquote": 60.0,
+      "roi_prozent": 45.8
     },
     "Doppelte Chance 1X": {
       "tipps": 21,
@@ -2834,22 +2911,22 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 43.4
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 77,
-      "gewonnen": 39,
+      "tipps": 78,
+      "gewonnen": 40,
       "verloren": 35,
       "push": 1,
       "offen": 2,
-      "einsatz": 75.0,
-      "netto": 11.12,
-      "trefferquote": 52.7,
+      "einsatz": 76.0,
+      "netto": 11.27,
+      "trefferquote": 53.3,
       "roi_prozent": 14.8
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 33,
+      "tipps": 34,
       "gewonnen": 12,
       "verloren": 20,
       "push": 0,
-      "offen": 1,
+      "offen": 2,
       "einsatz": 32.0,
       "netto": 10.75,
       "trefferquote": 37.5,
@@ -2922,15 +2999,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 30.3
     },
     "Doppelte Chance": {
-      "tipps": 54,
-      "gewonnen": 32,
+      "tipps": 57,
+      "gewonnen": 33,
       "verloren": 12,
       "push": 0,
-      "offen": 10,
-      "einsatz": 44.0,
-      "netto": 9.54,
-      "trefferquote": 72.7,
-      "roi_prozent": 21.7
+      "offen": 12,
+      "einsatz": 45.0,
+      "netto": 9.62,
+      "trefferquote": 73.3,
+      "roi_prozent": 21.4
     },
     "Inter gewinnt": {
       "tipps": 1,
@@ -3021,11 +3098,11 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 185.0
     },
     "Beide Teams treffen": {
-      "tipps": 4,
+      "tipps": 5,
       "gewonnen": 2,
       "verloren": 2,
       "push": 0,
-      "offen": 0,
+      "offen": 1,
       "einsatz": 4.0,
       "netto": -0.85,
       "trefferquote": 50.0,
@@ -3078,33 +3155,33 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 147,
-      "gewonnen": 79,
+      "tipps": 152,
+      "gewonnen": 80,
       "verloren": 65,
       "push": 0,
-      "offen": 3,
-      "einsatz": 144.0,
-      "netto": 56.16,
-      "trefferquote": 54.9,
-      "roi_prozent": 39.0
+      "offen": 7,
+      "einsatz": 145.0,
+      "netto": 57.06,
+      "trefferquote": 55.2,
+      "roi_prozent": 39.4
     },
     "1.00-1.50": {
-      "tipps": 143,
-      "gewonnen": 94,
+      "tipps": 147,
+      "gewonnen": 96,
       "verloren": 38,
       "push": 1,
-      "offen": 10,
-      "einsatz": 133.0,
-      "netto": 32.75,
-      "trefferquote": 71.2,
-      "roi_prozent": 24.6
+      "offen": 12,
+      "einsatz": 135.0,
+      "netto": 32.98,
+      "trefferquote": 71.6,
+      "roi_prozent": 24.4
     },
     "2.00-3.00": {
-      "tipps": 30,
+      "tipps": 31,
       "gewonnen": 7,
       "verloren": 20,
       "push": 0,
-      "offen": 3,
+      "offen": 4,
       "einsatz": 27.0,
       "netto": 1.45,
       "trefferquote": 25.9,
@@ -3124,15 +3201,15 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "value": {
-      "tipps": 210,
-      "gewonnen": 114,
+      "tipps": 217,
+      "gewonnen": 115,
       "verloren": 87,
       "push": 1,
-      "offen": 8,
-      "einsatz": 202.0,
-      "netto": 42.82,
-      "trefferquote": 56.7,
-      "roi_prozent": 21.2
+      "offen": 14,
+      "einsatz": 203.0,
+      "netto": 43.72,
+      "trefferquote": 56.9,
+      "roi_prozent": 21.5
     },
     "wackel": {
       "tipps": 61,
@@ -3146,15 +3223,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 29.5
     },
     "safe": {
-      "tipps": 53,
-      "gewonnen": 38,
+      "tipps": 56,
+      "gewonnen": 40,
       "verloren": 8,
       "push": 0,
-      "offen": 7,
-      "einsatz": 46.0,
-      "netto": 32.05,
-      "trefferquote": 82.6,
-      "roi_prozent": 69.7
+      "offen": 8,
+      "einsatz": 48.0,
+      "netto": 32.28,
+      "trefferquote": 83.3,
+      "roi_prozent": 67.2
     },
     "risk": {
       "tipps": 2,
@@ -3187,14 +3264,14 @@ window.__MIESMUSCHEL_STAT = {
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 326,
-      "gewonnen": 182,
+      "tipps": 336,
+      "gewonnen": 185,
       "verloren": 127,
       "push": 1,
-      "offen": 16,
-      "einsatz": 310.0,
-      "netto": 93.86,
-      "trefferquote": 58.9,
+      "offen": 23,
+      "einsatz": 313.0,
+      "netto": 94.99,
+      "trefferquote": 59.3,
       "roi_prozent": 30.3
     },
     "kasse": {
@@ -3232,21 +3309,311 @@ window.__MIESMUSCHEL_STAT = {
         "start": "2026-08-22",
         "ende": "2027-06-30",
         "bilanz": {
-          "tipps": 168,
-          "gewonnen": 112,
+          "tipps": 178,
+          "gewonnen": 115,
           "verloren": 51,
           "push": 0,
-          "offen": 5,
-          "einsatz": 163.0,
-          "netto": 78.09,
-          "trefferquote": 68.7,
-          "roi_prozent": 47.9
+          "offen": 12,
+          "einsatz": 166.0,
+          "netto": 79.22,
+          "trefferquote": 69.3,
+          "roi_prozent": 47.7
         },
         "ist_aktuell": true
       }
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-10-28",
+      "gesamt": {
+        "tipps": 10,
+        "gewonnen": 3,
+        "verloren": 0,
+        "push": 0,
+        "offen": 7,
+        "einsatz": 3.0,
+        "netto": 1.13,
+        "trefferquote": 100.0,
+        "roi_prozent": 37.7
+      },
+      "spiele": [
+        {
+          "id": "2026-10-28-bay-mag",
+          "liga": "DFB-Pokal 2026/27 - 2. Runde",
+          "heim": "FC Bayern Muenchen",
+          "gast": "1. FC Magdeburg",
+          "endstand": "6:1",
+          "tipps": [
+            {
+              "markt": "Sieg FC Bayern Muenchen (90 Min)",
+              "quote": 1.15,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.15,
+              "kommentar": "Bayern gewinnt 6:1 (HZ 2:1). Direkter Sieg-Tipp durch."
+            },
+            {
+              "markt": "Luis Diaz Torschuetze jederzeit",
+              "quote": 2.1,
+              "kategorie": "value",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Luis Diaz Torschuetze - Torschuetzen-Liste nicht final verifiziert (WebSearch-Indizes thin). Manuell nachpruefen (kicker.de/transfermarkt). Einwechslungs-Boost ggf. anwenden."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-28-lev-nur",
+          "liga": "DFB-Pokal 2026/27 - 2. Runde",
+          "heim": "Bayer 04 Leverkusen",
+          "gast": "1. FC Nuernberg",
+          "endstand": "5:2",
+          "tipps": [
+            {
+              "markt": "Leverkusen oder Remis (Doppelte Chance)",
+              "quote": 1.08,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.08,
+              "kommentar": "DC 1X erfuellt (Leverkusen gewinnt 5:2) trotz 1:2-HZ-Rueckstand."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-28-fre-wol",
+          "liga": "DFB-Pokal 2026/27 - 2. Runde",
+          "heim": "SC Freiburg",
+          "gast": "VfL Wolfsburg",
+          "endstand": "3:2",
+          "tipps": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.9,
+              "kommentar": "5 Tore gesamt - Ueber 2.5 klar durch."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-28-pad-stu",
+          "liga": "DFB-Pokal 2026/27 - 2. Runde",
+          "heim": "SC Paderborn 07",
+          "gast": "VfB Stuttgart",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Stuttgart oder Remis (Doppelte Chance)",
+              "quote": 1.18,
+              "kategorie": "safe",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": "DFB-Pokal 2026/27 - 2. Runde nicht im API-Free-Tier"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-28-ven-int",
+          "liga": "Serie A - Giornata 9",
+          "heim": "Venezia FC",
+          "gast": "Inter Mailand",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": "kein API-Match"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-28-mon-nap",
+          "liga": "Serie A - Giornata 9",
+          "heim": "AC Monza",
+          "gast": "SSC Napoli",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Napoli oder Remis (Doppelte Chance)",
+              "quote": 1.25,
+              "kategorie": "value",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": "kein API-Match"
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": "kein API-Match"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-28-liv-che",
+          "liga": "EFL Cup 2026/27 - 4. Runde (Carabao Cup)",
+          "heim": "Liverpool FC",
+          "gast": "Chelsea FC",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-10-28-mci-bri",
+          "liga": "EFL Cup 2026/27 - 4. Runde (Carabao Cup)",
+          "heim": "Manchester City",
+          "gast": "Brighton & Hove Albion",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.8,
+              "kategorie": "value",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": ""
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "🛡️ Safe-Kombi: Leverkusen + Stuttgart + Inter Sieg",
+          "kategorie": "safe",
+          "gesamtquote": 3.33,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Bayer 04 Leverkusen (90 Min)",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg VfB Stuttgart (90 Min)",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Inter Mailand (90 Min)",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "⚖️ Balance-Kombi: Diaz Torschuetze + Fre-Wol Tore + Liv-Che BTTS",
+          "kategorie": "balance",
+          "gesamtquote": 6.98,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Luis Diaz Torschuetze jederzeit",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "🎲 Risiko-Kombi: Chelsea Sieg + 3 offene Tore-Spiele",
+          "kategorie": "risk",
+          "gesamtquote": 16.93,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Chelsea (90 Min)",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "🚀 Moonshot-Kombi: 3 Underdog-Siege + Bayern-Tor-Lauf",
+          "kategorie": "moonshot",
+          "gesamtquote": 102.38,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Brighton (90 Min)",
+              "quote": 4.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Monza (90 Min)",
+              "quote": 6.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg TSG Hoffenheim (90 Min)",
+              "quote": 2.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-10-27",
       "gesamt": {
