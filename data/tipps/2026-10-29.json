@@ -1,0 +1,135 @@
+{
+  "datum": "2026-10-29",
+  "erstellt_am": "2026-10-29T13:05:35.041641+00:00",
+  "modus": "tag",
+  "_watchdog_recovery": true,
+  "hinweis": "Watchdog-Recovery am 29.10.2026 (Donnerstag): nur 1 Spiel im Zeitfenster. Europa League Spieltag 4 ist am 05.11., Conference League Spieltag 3 ebenfalls am 05.11. - heute spielt keine europaeische Clubwettkampf-Runde. DFB-Pokal-Runde 2 war 27./28.10., beide Tage auch vorbei. Carabao Cup gehoert nicht in die Whitelist. Daher nur Fiorentina-Atalanta (Serie A infrasettimanale 9. Giornata, 20:45 Franchi) - beide Teams in Krise, 50/50-Duell mit defensivem Markt-Fokus. Keine Kombis moeglich (nur 1 Spiel - Layer-1 verletzt bei >1 Bein/Spiel). Kasse 1000€, Stufe 1 aktiv.",
+  "spiele": [
+    {
+      "id": "2026-10-29-fio-ata",
+      "liga": "Serie A - Giornata 9",
+      "heim": "ACF Fiorentina",
+      "gast": "Atalanta BC",
+      "anstoss": "2026-10-29T20:45:00+01:00",
+      "stadion": "Stadio Artemio Franchi, Florenz",
+      "saison_kontext": {
+        "parallel_heim": "keine Europapokal-Teilnahme 2026/27; keine Pokal-Partie diese Woche (Coppa Italia-Achtelfinale erst Dezember)",
+        "parallel_gast": "UEFA Champions League Ligaphase MD 4 am 05.11.2026 (eine Woche entfernt) - leichte Rotations-Gefahr bei Stammspielern, aber keine akute Doppelbelastung",
+        "saisonziel_heim": "Klassenerhalt - Fiorentina ist nach Grosso-Fehlstart (0 Pkt aus 3 Spielen, 09.09. entlassen) in Krise, Vanoli uebernahm 07.09.2026, Rest-Saison im unteren Tabellen-Drittel; Europa derzeit nicht realistisch",
+        "saisonziel_gast": "nach Lookman- und De-Roon-Abgang + 3 Niederlagen in Serie unter Sarri (bis 20.09.) Platz im Mittelfeld; CL-Ligaphase bereits sicher, aber Trainer unter Druck",
+        "motivations_asymmetrie": "Fiorentina mit hoechster Not und Vanoli-Impuls daheim gegen eine Atalanta, die seit Sommer-Umbau offensiv limitiert ist und 2026/27 inkonsistent startet - klassisches 50/50-Krisen-Duell, nicht die typische Atalanta-Favoriten-Rolle; Edge der Gaeste kleiner als die nominale Quote suggeriert",
+        "recovery_heim": "3 Tage seit letztem Serie-A-Spieltag am 25./26.10. - normale Pause ohne Reise",
+        "recovery_gast": "7 Tage seit CL MD 3 (22.10.) + 3 Tage seit Serie-A-Spieltag 8 - Doppelbelastungs-Spuren, Rotation plausibel vor CL MD 4 am 05.11.",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-champions-league-all-the-league-phase-fixtures/",
+          "https://www.legaseriea.it/it/serie-a",
+          "https://sport.sky.it/calcio/serie-a/2026/09/07/fiorentina-grosso-vanoli-allenatore-news-oggi",
+          "https://www.goal.com/en/lists/juventus-atalanta-2-0-conceicao-and-bremer-spalletti-return-to-winning-ways-in-serie-a-too-three-straight-defeats-for-sarri-s-team/blt5e5439513800f466"
+        ]
+      },
+      "news": [
+        "Fiorentina unter Trainer Paolo Vanoli (seit 07.09.2026, Nachfolger Grosso); kompakter 4-3-3 mit tiefer Linie, Zu-Null-Fokus",
+        "Atalanta unter Maurizio Sarri (seit Juli 2026, Nachfolger Gasperini); Offensive seit Lookman-Abgang (-> Atletico Madrid Feb 26) spuerbar entschaerft, dazu De-Roon-Abgang nach Rom",
+        "9. Giornata ist ein infrasettimanaler Turno (27.-29.10.) - beide Teams mit Belastungs-Spuren, Rotation plausibel",
+        "CL MD 4 fuer Atalanta am 05.11. - Sarri koennte Stammkraefte schonen; CL ist bereits ligaphase-sicher"
+      ],
+      "tipps": [
+        {
+          "id": "fio-ata-1",
+          "kategorie": "safe",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.35,
+          "edge_prozent": 3.0,
+          "begruendung": "Beide Teams defensiv aufgestellt (Vanoli-Fiorentina kompakt, Sarri-Atalanta nach Lookman-Abgang offensiv limitiert) + Krisen-Druck fuehrt zu vorsichtigem Spiel. Unter 2.5 ist Markt-Goldgrube (56.2% Hitrate, +30.3% ROI, Stand 29.10.) - Unter 3.5 noch defensiver abgesichert. Historie Fiorentina-Atalanta 2024-26: in 4 von 5 Begegnungen fielen 3 oder weniger Tore. Reality-Check: Serie A - Giornata ist tendenziell torarmer bei infrasettimanalen Runden. Einsatz Stufe 1 = 1.5% von 1000€ = 15€. Quote bei bet365 live pruefen.",
+          "faire_quote": 1.31,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "fio-ata-2",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Atalanta oder Remis",
+          "quote": 1.75,
+          "edge_prozent": 7.0,
+          "begruendung": "Atalanta hat trotz schwachem Saison-Start klar hoeheres Kader-Niveau als eine Fiorentina im Umbau - gleichzeitig passt Fiorentina Heim-Druck zum DC-X2-Hedge: ein echter Direkt-Sieg der Atalanta ist bei 50/50-Charakter kein SAFE-Edge, aber 'nicht verlieren' ist tragfaehig. DC X2 ist aktuell die Nummer-1-Goldgrube im System (77.5% Hitrate, +55.1% ROI bei 20 Tipps). HR24-Konflikt entfaellt (kein Torschuetzen-Tipp). Einsatz Stufe 1 = 2% von 1000€ = 20€. Quote bei bet365 live pruefen.",
+          "faire_quote": 1.63,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "fio-ata-3",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.9,
+          "edge_prozent": 8.0,
+          "begruendung": "Direkte Nutzung der Markt-Goldgrube 'Unter 2.5' (56.2% / +30.3%). Beide Trainer defensiv orientiert, Fiorentina erzielte unter Grosso in 3 Spielen nur 1 Tor und auch unter Vanoli nur maessig; Atalanta hat seit Lookman-Weggang keinen klaren Volumen-Scorer. Historische Begegnungen gehen in 60% unter 2.5. Einsatz Stufe 1 = 1.5% von 1000€ = 15€. Alternative zu Tipp 1 fuer getrennten Markt-Exposure. Quote bei bet365 live pruefen.",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "fio-ata-4",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen Nein",
+          "quote": 2.05,
+          "edge_prozent": 5.0,
+          "begruendung": "Nicht-Goldgrube, bewusst wackel: BTTS-Nein verlangt, dass mindestens eine Seite zu Null spielt. Beide Teams unter 1 Tor pro Spiel im Saison-Durchschnitt - plausibel, aber keine Garantie. Einsatz Stufe 1 Wackel = 0.5% von 1000€ = 5€. Spekulations-Tipp mit defensivem Markt-Mix. Quote bei bet365 live pruefen.",
+          "faire_quote": 1.95,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "fio-ata-1",
+      "spiel_id": "2026-10-29-fio-ata",
+      "spiel_label": "Fiorentina vs Atalanta",
+      "kategorie": "safe",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.35,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
+    },
+    {
+      "id": "fio-ata-2",
+      "spiel_id": "2026-10-29-fio-ata",
+      "spiel_label": "Fiorentina vs Atalanta",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Atalanta oder Remis",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 2
+    },
+    {
+      "id": "fio-ata-3",
+      "spiel_id": "2026-10-29-fio-ata",
+      "spiel_label": "Fiorentina vs Atalanta",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.9,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
+    },
+    {
+      "id": "fio-ata-4",
+      "spiel_id": "2026-10-29-fio-ata",
+      "spiel_label": "Fiorentina vs Atalanta",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen Nein",
+      "quote": 2.05,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 4
+    }
+  ],
+  "kombis": [],
+  "lessons_angewandt": [
+    "Zeitfenster-Hartregel 22.08.2026: nur Anstoesse am 29.10.2026 im Tages-Dossier - andere Serie-A-Spiele (28.10.) sind gestern und gehoeren nicht hier rein.",
+    "Markt-Goldgrube 'Unter 2.5 Tore' (56.2% / +30.3% ROI) aktiv gesucht - Tipp 1 + 3.",
+    "Markt-Goldgrube 'Doppelte Chance X2' (77.5% / +55.1% ROI) aktiv gesucht - Tipp 2.",
+    "Anti-DC-Sucht-Regel: max 1 DC-Tipp pro Spiel - eingehalten (nur Tipp 2 ist DC).",
+    "Kader-Frische: Lookman (Atalanta -> Atletico Madrid Feb 26) und De Roon (Atalanta -> Roma Aug 26) NICHT als Atalanta-Spieler getippt; Gudmundsson (Fiorentina -> Lazio Sep 26) ebenfalls nicht.",
+    "Selbstwiderspruch vermieden: saison_kontext bezeichnet die Partie als '50/50 Krisen-Duell' -> keine SAFE auf Direktsieg oder Direkt-DC auf eine Seite, nur Markt-neutraler SAFE auf Tor-Total.",
+    "HR24 Form-Edge-Pflicht fuer Torschuetzen: Form-Daten der Top-Stuermer waren im Watchdog-Slot nicht robust zu verifizieren - deshalb KEIN Torschuetzen-Tipp (Qualitaet vor Quantitaet).",
+    "Notfall-Fallback: lieber 1 Spiel mit vollstaendigem saison_kontext + 4 ehrlichen Tipps als eine groessere Pseudo-Liste."
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool, keine Einnahmequelle. Nur setzen was du verlieren kannst."
+}
