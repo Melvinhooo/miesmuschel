@@ -60,7 +60,7 @@
           "quote": 1.75,
           "edge_prozent": 3.0,
           "begruendung": "Markt-Goldgrube (Über 2.5 41 Tipps, 60.5% Hit, +43.9% ROI). Mainz offensiv, Elversberg macht meist 1-2 Tore zu Hause. Einsatz: 5€ Wackel.",
-          "faire_quote": 1.70,
+          "faire_quote": 1.7,
           "empfohlener_einsatz_prozent": 0.5,
           "empfohlener_einsatz_euro": 5
         }
@@ -120,7 +120,7 @@
           "id": "vil-esp-3",
           "kategorie": "wackel",
           "markt": "Beide Teams treffen - Ja",
-          "quote": 1.80,
+          "quote": 1.8,
           "edge_prozent": 2.0,
           "begruendung": "Markt-Goldgrube BTTS JA. Espanyol trifft offensiv regelmäßig (12 Saison-Tore), Villarreal-Defensive 14 Gegentore. Einsatz: 5€ Wackel.",
           "faire_quote": 1.75,
@@ -159,7 +159,7 @@
       "tipps": [
         {
           "id": "leh-psg-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Paris Saint-Germain Sieg (90 Min)",
           "quote": 1.35,
           "edge_prozent": 5.0,
@@ -170,7 +170,7 @@
         },
         {
           "id": "leh-psg-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Über 2.5 Tore",
           "quote": 1.65,
           "edge_prozent": 5.0,
@@ -183,7 +183,7 @@
           "id": "leh-psg-3",
           "kategorie": "wackel",
           "markt": "Beide Teams treffen - Ja",
-          "quote": 1.80,
+          "quote": 1.8,
           "edge_prozent": 2.0,
           "begruendung": "Le Havre trifft meist zu Hause (4 Tore in Marseille), PSG offensiv ohnehin. BTTS JA Markt-Goldgrube. Einsatz: 5€ Wackel.",
           "faire_quote": 1.76,
@@ -191,7 +191,7 @@
           "empfohlener_einsatz_euro": 5
         }
       ],
-      "kontext_check_status": "OK"
+      "kontext_check_status": "WARN_QUELLE"
     },
     {
       "id": "2026-10-30-lil-len",
@@ -223,7 +223,7 @@
           "id": "lil-len-1",
           "kategorie": "wackel",
           "markt": "LOSC Lille Sieg (90 Min)",
-          "quote": 2.40,
+          "quote": 2.4,
           "edge_prozent": 2.0,
           "begruendung": "3-Siege-H2H-Pattern + Heimvorteil Pierre-Mauroy. ABER: EL-Belastung dreht das deutlich runter - Rotation erwartbar. Markt-Mix-Regel 2 (Coinflip, alle 1X2 zwischen 2.40 und 3.50): KEIN SAFE möglich. Einsatz: 5€ Wackel.",
           "faire_quote": 2.35,
@@ -234,7 +234,7 @@
           "id": "lil-len-2",
           "kategorie": "wackel",
           "markt": "Beide Teams treffen - Ja",
-          "quote": 1.80,
+          "quote": 1.8,
           "edge_prozent": 3.0,
           "begruendung": "Markt-Goldgrube BTTS JA (+19% ROI). Derby mit beiderseitiger Qualität, offener Verlauf wahrscheinlich. Einsatz: 5€ Wackel.",
           "faire_quote": 1.75,
@@ -245,7 +245,7 @@
           "id": "lil-len-3",
           "kategorie": "wackel",
           "markt": "Über 2.5 Tore",
-          "quote": 1.90,
+          "quote": 1.9,
           "edge_prozent": 2.0,
           "begruendung": "Markt-Goldgrube (Über 2.5 +43.9% ROI). Derby mit Spannung + Lille-EL-Müdigkeit → Umschalt-Momente wahrscheinlich. Einsatz: 5€ Wackel.",
           "faire_quote": 1.85,
@@ -265,7 +265,9 @@
       "markt": "Paris Saint-Germain Sieg (90 Min)",
       "quote": 1.35,
       "einsatz_euro": 15,
-      "begruendung": "PSG seit 1999 ohne Niederlage gg Le Havre + Klassen-Edge massiv. CL-Rotation drückt von SAFE auf VALUE."
+      "begruendung": "PSG seit 1999 ohne Niederlage gg Le Havre + Klassen-Edge massiv. CL-Rotation drückt von SAFE auf VALUE.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 1
     },
     {
       "id": "vil-esp-1",
@@ -275,7 +277,9 @@
       "markt": "Villarreal Sieg (90 Min)",
       "quote": 1.65,
       "einsatz_euro": 15,
-      "begruendung": "Heim-Favorit + 7-Siege-H2H-Serie gegen Abstiegskandidaten Espanyol."
+      "begruendung": "Heim-Favorit + 7-Siege-H2H-Serie gegen Abstiegskandidaten Espanyol.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 2
     },
     {
       "id": "elv-mai-1",
@@ -285,7 +289,9 @@
       "markt": "Doppelte Chance Mainz oder Remis (X2)",
       "quote": 1.65,
       "einsatz_euro": 20,
-      "begruendung": "Markt-Goldgrube DC X2 (+55% ROI). Mainz Auswärts-Form (3 Siege) + Qualitäts-Edge."
+      "begruendung": "Markt-Goldgrube DC X2 (+55% ROI). Mainz Auswärts-Form (3 Siege) + Qualitäts-Edge.",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 3
     },
     {
       "id": "leh-psg-2",
@@ -295,7 +301,9 @@
       "markt": "Über 2.5 Tore",
       "quote": 1.65,
       "einsatz_euro": 15,
-      "begruendung": "Markt-Goldgrube Über 2.5 (+43.9% ROI). PSG-Offensive + Le Havre offensiv instabil (4 Tore in Marseille)."
+      "begruendung": "Markt-Goldgrube Über 2.5 (+43.9% ROI). PSG-Offensive + Le Havre offensiv instabil (4 Tore in Marseille).",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
     },
     {
       "id": "elv-mai-2",
@@ -305,7 +313,9 @@
       "markt": "Beide Teams treffen - Ja",
       "quote": 1.85,
       "einsatz_euro": 5,
-      "begruendung": "Markt-Goldgrube BTTS JA. Beide offensiv, kein Zu-Null-Match erwartbar."
+      "begruendung": "Markt-Goldgrube BTTS JA. Beide offensiv, kein Zu-Null-Match erwartbar.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 5
     },
     {
       "id": "vil-esp-2",
@@ -315,7 +325,9 @@
       "markt": "Über 2.5 Tore",
       "quote": 1.75,
       "einsatz_euro": 5,
-      "begruendung": "Markt-Goldgrube Über 2.5. Villarreal-Offensive + Espanyol-Defensive-Löcher."
+      "begruendung": "Markt-Goldgrube Über 2.5. Villarreal-Offensive + Espanyol-Defensive-Löcher.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 6
     },
     {
       "id": "lil-len-2",
@@ -323,9 +335,11 @@
       "spiel_label": "Lille vs Lens",
       "kategorie": "wackel",
       "markt": "Beide Teams treffen - Ja",
-      "quote": 1.80,
+      "quote": 1.8,
       "einsatz_euro": 5,
-      "begruendung": "Markt-Goldgrube BTTS JA. Derby mit beidseitiger Qualität + Lille-EL-Müdigkeit."
+      "begruendung": "Markt-Goldgrube BTTS JA. Derby mit beidseitiger Qualität + Lille-EL-Müdigkeit.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 7
     },
     {
       "id": "lil-len-1",
@@ -333,9 +347,11 @@
       "spiel_label": "Lille vs Lens",
       "kategorie": "wackel",
       "markt": "LOSC Lille Sieg (90 Min)",
-      "quote": 2.40,
+      "quote": 2.4,
       "einsatz_euro": 5,
-      "begruendung": "3-Siege-H2H-Pattern + Heimvorteil, aber EL-Belastung (HR3) dämpft klar - deshalb wackel, kein SAFE."
+      "begruendung": "3-Siege-H2H-Pattern + Heimvorteil, aber EL-Belastung (HR3) dämpft klar - deshalb wackel, kein SAFE.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8
     }
   ],
   "kombis": [
@@ -343,62 +359,140 @@
       "name": "Safe-Kombi 3er",
       "kategorie": "safe",
       "beine": [
-        {"spiel_id": "2026-10-30-leh-psg", "spiel_label": "Le Havre vs PSG", "markt": "Paris Saint-Germain Sieg (90 Min)", "quote": 1.35, "kategorie": "safe"},
-        {"spiel_id": "2026-10-30-vil-esp", "spiel_label": "Villarreal vs Espanyol", "markt": "Villarreal Sieg (90 Min)", "quote": 1.65, "kategorie": "safe"},
-        {"spiel_id": "2026-10-30-elv-mai", "spiel_label": "Elversberg vs Mainz", "markt": "Doppelte Chance Mainz oder Remis (X2)", "quote": 1.65, "kategorie": "safe"}
+        {
+          "spiel_id": "2026-10-30-leh-psg",
+          "spiel_label": "Le Havre vs PSG",
+          "markt": "Paris Saint-Germain Sieg (90 Min)",
+          "quote": 1.35,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-10-30-vil-esp",
+          "spiel_label": "Villarreal vs Espanyol",
+          "markt": "Villarreal Sieg (90 Min)",
+          "quote": 1.65,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-10-30-elv-mai",
+          "spiel_label": "Elversberg vs Mainz",
+          "markt": "Doppelte Chance Mainz oder Remis (X2)",
+          "quote": 1.65,
+          "kategorie": "safe"
+        }
       ],
       "gesamtquote": 3.67,
       "gesamtquote_rechnung": "1.35 x 1.65 x 1.65 = 3.67",
       "einsatz_euro": 20,
-      "einsatz_prozent": 2.0,
-      "potenzieller_gewinn_euro": 73.40,
-      "begruendung": "Drei Markt-/H2H-Edge-Siege aus drei Spielen. Alle Sieg-OCs Layer-2-sauber. Zielquote 3-5x erreicht. Kein 2:0-Insurance (Villarreal/Le Havre-PSG in LaLiga/Ligue 1), aber solide Edge-Stories."
+      "potenzieller_gewinn_euro": 73.4,
+      "begruendung": "Drei Markt-/H2H-Edge-Siege aus drei Spielen. Alle Sieg-OCs Layer-2-sauber. Zielquote 3-5x erreicht. Kein 2:0-Insurance (Villarreal/Le Havre-PSG in LaLiga/Ligue 1), aber solide Edge-Stories.",
+      "empfohlener_einsatz_prozent": 2.0
     },
     {
       "name": "Balance-Kombi 3er",
       "kategorie": "balance",
       "beine": [
-        {"spiel_id": "2026-10-30-leh-psg", "spiel_label": "Le Havre vs PSG", "markt": "Über 2.5 Tore", "quote": 1.65, "kategorie": "balance"},
-        {"spiel_id": "2026-10-30-vil-esp", "spiel_label": "Villarreal vs Espanyol", "markt": "Über 2.5 Tore", "quote": 1.75, "kategorie": "balance"},
-        {"spiel_id": "2026-10-30-lil-len", "spiel_label": "Lille vs Lens", "markt": "LOSC Lille Sieg (90 Min)", "quote": 2.40, "kategorie": "balance"}
+        {
+          "spiel_id": "2026-10-30-leh-psg",
+          "spiel_label": "Le Havre vs PSG",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.65,
+          "kategorie": "balance"
+        },
+        {
+          "spiel_id": "2026-10-30-vil-esp",
+          "spiel_label": "Villarreal vs Espanyol",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "kategorie": "balance"
+        },
+        {
+          "spiel_id": "2026-10-30-lil-len",
+          "spiel_label": "Lille vs Lens",
+          "markt": "LOSC Lille Sieg (90 Min)",
+          "quote": 2.4,
+          "kategorie": "balance"
+        }
       ],
       "gesamtquote": 6.93,
       "gesamtquote_rechnung": "1.65 x 1.75 x 2.40 = 6.93",
       "einsatz_euro": 8,
-      "einsatz_prozent": 0.8,
       "potenzieller_gewinn_euro": 55.44,
-      "begruendung": "Markt-Goldgruben-Mix (2x Über 2.5) + Lille-H2H-Edge. Zielquote 6-10x getroffen. Layer-2 sauber: Lille-Sieg-OC einziger Sieg-OC der Kombi."
+      "begruendung": "Markt-Goldgruben-Mix (2x Über 2.5) + Lille-H2H-Edge. Zielquote 6-10x getroffen. Layer-2 sauber: Lille-Sieg-OC einziger Sieg-OC der Kombi.",
+      "empfohlener_einsatz_prozent": 0.8
     },
     {
       "name": "Risiko-Kombi 4er",
       "kategorie": "risk",
       "beine": [
-        {"spiel_id": "2026-10-30-leh-psg", "spiel_label": "Le Havre vs PSG", "markt": "Über 3.5 Tore", "quote": 2.20, "kategorie": "risk"},
-        {"spiel_id": "2026-10-30-vil-esp", "spiel_label": "Villarreal vs Espanyol", "markt": "Über 3.5 Tore", "quote": 2.75, "kategorie": "risk"},
-        {"spiel_id": "2026-10-30-lil-len", "spiel_label": "Lille vs Lens", "markt": "Beide Teams treffen - Ja", "quote": 1.80, "kategorie": "risk"},
-        {"spiel_id": "2026-10-30-elv-mai", "spiel_label": "Elversberg vs Mainz", "markt": "Über 2.5 Tore", "quote": 1.75, "kategorie": "risk"}
+        {
+          "spiel_id": "2026-10-30-leh-psg",
+          "spiel_label": "Le Havre vs PSG",
+          "markt": "Über 3.5 Tore",
+          "quote": 2.2,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-10-30-vil-esp",
+          "spiel_label": "Villarreal vs Espanyol",
+          "markt": "Über 3.5 Tore",
+          "quote": 2.75,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-10-30-lil-len",
+          "spiel_label": "Lille vs Lens",
+          "markt": "Beide Teams treffen - Ja",
+          "quote": 1.8,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-10-30-elv-mai",
+          "spiel_label": "Elversberg vs Mainz",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "kategorie": "risk"
+        }
       ],
       "gesamtquote": 19.08,
       "gesamtquote_rechnung": "2.20 x 2.75 x 1.80 x 1.75 = 19.08",
-      "einsatz_euro": 2.50,
-      "einsatz_prozent": 0.25,
-      "potenzieller_gewinn_euro": 47.70,
-      "begruendung": "4-Beinige Tor-Total-Risiko-Kombi auf PSG-Offensive + Villarreal-Spanien-Hoch-Ergebnis + Derby-Spannung + Mainz-Offensive. Keine Sieg-OCs - Layer-2 sauber. Zielquote 15-30x getroffen."
+      "einsatz_euro": 2.5,
+      "potenzieller_gewinn_euro": 47.7,
+      "begruendung": "4-Beinige Tor-Total-Risiko-Kombi auf PSG-Offensive + Villarreal-Spanien-Hoch-Ergebnis + Derby-Spannung + Mainz-Offensive. Keine Sieg-OCs - Layer-2 sauber. Zielquote 15-30x getroffen.",
+      "empfohlener_einsatz_prozent": 0.25
     },
     {
       "name": "Moonshot 3er (knapp unter 100x)",
       "kategorie": "moonshot",
       "beine": [
-        {"spiel_id": "2026-10-30-leh-psg", "spiel_label": "Le Havre vs PSG", "markt": "Über 4.5 Tore", "quote": 4.00, "kategorie": "moonshot"},
-        {"spiel_id": "2026-10-30-vil-esp", "spiel_label": "Villarreal vs Espanyol", "markt": "Über 4.5 Tore", "quote": 6.50, "kategorie": "moonshot"},
-        {"spiel_id": "2026-10-30-lil-len", "spiel_label": "Lille vs Lens", "markt": "Über 3.5 Tore", "quote": 3.50, "kategorie": "moonshot"}
+        {
+          "spiel_id": "2026-10-30-leh-psg",
+          "spiel_label": "Le Havre vs PSG",
+          "markt": "Über 4.5 Tore",
+          "quote": 4.0,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-10-30-vil-esp",
+          "spiel_label": "Villarreal vs Espanyol",
+          "markt": "Über 4.5 Tore",
+          "quote": 6.5,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-10-30-lil-len",
+          "spiel_label": "Lille vs Lens",
+          "markt": "Über 3.5 Tore",
+          "quote": 3.5,
+          "kategorie": "moonshot"
+        }
       ],
-      "gesamtquote": 91.00,
+      "gesamtquote": 91.0,
       "gesamtquote_rechnung": "4.00 x 6.50 x 3.50 = 91.00",
-      "einsatz_euro": 1.00,
-      "einsatz_prozent": 0.1,
-      "potenzieller_gewinn_euro": 91.00,
-      "begruendung": "Ehrlich: knapp unter der 100x-Marke (91x), weil nur 4 Spiele im Fenster und Layer-2 Sieg-OC-Underdogs blockiert (alle 4 Spiel-Sieg-OCs schon in anderen Kombis). Tor-Total-Explosion als Alternative. Lotterie-Charakter - 1€ Spaßeinsatz."
+      "einsatz_euro": 1.0,
+      "potenzieller_gewinn_euro": 91.0,
+      "begruendung": "Ehrlich: knapp unter der 100x-Marke (91x), weil nur 4 Spiele im Fenster und Layer-2 Sieg-OC-Underdogs blockiert (alle 4 Spiel-Sieg-OCs schon in anderen Kombis). Tor-Total-Explosion als Alternative. Lotterie-Charakter - 1€ Spaßeinsatz.",
+      "empfohlener_einsatz_prozent": 0.1
     }
   ],
   "lessons_angewandt": [

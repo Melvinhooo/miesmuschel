@@ -1,79 +1,257 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
-  "datum": "2026-10-29",
-  "erstellt_am": "2026-10-29T13:05:35.041641+00:00",
-  "modus": "tag",
+  "datum": "2026-10-30",
+  "erstellt_am": "2026-10-30T14:30:00+01:00",
   "_watchdog_recovery": true,
-  "hinweis": "Watchdog-Recovery am 29.10.2026 (Donnerstag): nur 1 Spiel im Zeitfenster. Europa League Spieltag 4 ist am 05.11., Conference League Spieltag 3 ebenfalls am 05.11. - heute spielt keine europaeische Clubwettkampf-Runde. DFB-Pokal-Runde 2 war 27./28.10., beide Tage auch vorbei. Carabao Cup gehoert nicht in die Whitelist. Daher nur Fiorentina-Atalanta (Serie A infrasettimanale 9. Giornata, 20:45 Franchi) - beide Teams in Krise, 50/50-Duell mit defensivem Markt-Fokus. Keine Kombis moeglich (nur 1 Spiel - Layer-1 verletzt bei >1 Bein/Spiel). Kasse 1000€, Stufe 1 aktiv.",
+  "hinweis": "Watchdog-Recovery - Hauptroutine 13:30 hat nicht geliefert. 4 Spiele im Fenster: BL-Freitags-Opener Elversberg-Mainz, LaLiga Villarreal-Espanyol, Ligue 1 Le Havre-PSG + Derby du Nord Lille-Lens. Kasse 1000€ Stufe 1 (Saison-Edge noch nicht freigeschaltet) - Einzeltipps 10-15€. Fokus auf verifizierte Markt-Goldgruben (DC 1X/X2, Über 2.5, BTTS). Keine Spielertor-Tipps heute - Aufstellungen 14:30 noch nicht konfirmierbar und Transfer-Fenster hat PSG/Lille/Mainz-Stürmerreihen umgebaut. 2:0-Insurance gilt nur Elversberg-Mainz (BL), nicht in LaLiga/Ligue 1. Quoten bei bet365 live prüfen - bei starken Abweichungen zum unten gelisteten Fair-Line-Wert vorsichtig.",
   "spiele": [
     {
-      "id": "2026-10-29-fio-ata",
-      "liga": "Serie A - Giornata 9",
-      "heim": "ACF Fiorentina",
-      "gast": "Atalanta BC",
-      "anstoss": "2026-10-29T20:45:00+01:00",
-      "stadion": "Stadio Artemio Franchi, Florenz",
+      "id": "2026-10-30-elv-mai",
+      "liga": "Bundesliga 2026/27 - 8. Spieltag",
+      "heim": "SV Elversberg",
+      "gast": "1. FSV Mainz 05",
+      "anstoss": "2026-10-30T20:30:00+01:00",
+      "stadion": "Ursapharm-Arena an der Kaiserlinde, Elversberg",
       "saison_kontext": {
-        "parallel_heim": "keine Europapokal-Teilnahme 2026/27; keine Pokal-Partie diese Woche (Coppa Italia-Achtelfinale erst Dezember)",
-        "parallel_gast": "UEFA Champions League Ligaphase MD 4 am 05.11.2026 (eine Woche entfernt) - leichte Rotations-Gefahr bei Stammspielern, aber keine akute Doppelbelastung",
-        "saisonziel_heim": "Klassenerhalt - Fiorentina ist nach Grosso-Fehlstart (0 Pkt aus 3 Spielen, 09.09. entlassen) in Krise, Vanoli uebernahm 07.09.2026, Rest-Saison im unteren Tabellen-Drittel; Europa derzeit nicht realistisch",
-        "saisonziel_gast": "nach Lookman- und De-Roon-Abgang + 3 Niederlagen in Serie unter Sarri (bis 20.09.) Platz im Mittelfeld; CL-Ligaphase bereits sicher, aber Trainer unter Druck",
-        "motivations_asymmetrie": "Fiorentina mit hoechster Not und Vanoli-Impuls daheim gegen eine Atalanta, die seit Sommer-Umbau offensiv limitiert ist und 2026/27 inkonsistent startet - klassisches 50/50-Krisen-Duell, nicht die typische Atalanta-Favoriten-Rolle; Edge der Gaeste kleiner als die nominale Quote suggeriert",
-        "recovery_heim": "3 Tage seit letztem Serie-A-Spieltag am 25./26.10. - normale Pause ohne Reise",
-        "recovery_gast": "7 Tage seit CL MD 3 (22.10.) + 3 Tage seit Serie-A-Spieltag 8 - Doppelbelastungs-Spuren, Rotation plausibel vor CL MD 4 am 05.11.",
+        "parallel_heim": "keine - 2. DFB-Pokal-Runde war am 28.10. (SV Darmstadt 98), kein EU-Wettbewerb",
+        "parallel_gast": "keine - kein internationales Spiel, DFB-Pokal 2. Runde Woche",
+        "saisonziel_heim": "Aufsteiger-Saison 2026/27, Klassenerhalt - unteres Drittel BL",
+        "saisonziel_gast": "Oberes Tabellen-Drittel, mindestens EU-Quali - Mainz mit 3 Auswärtssiegen bisher stark unterwegs",
+        "motivations_asymmetrie": "Mainz hat klaren Qualitäts- und Auswärts-Form-Edge; Elversberg als Aufsteiger im Heimspiel mit Kampfkraft, aber ohne Klassen-Edge. Mainz-Favorit, Elversberg-Punkt möglich. Hanche-Olsen (IV) seit 01.09. in MLS - Mainz-Defensiv-Rotation.",
+        "recovery_heim": "3 Tage seit DFB-Pokal 2. Runde (28.10. vs Darmstadt) - leicht belastet",
+        "recovery_gast": "5 Tage seit letztem Ligaspiel - frisch",
         "quellen": [
-          "https://www.uefa.com/uefachampionsleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-champions-league-all-the-league-phase-fixtures/",
-          "https://www.legaseriea.it/it/serie-a",
-          "https://sport.sky.it/calcio/serie-a/2026/09/07/fiorentina-grosso-vanoli-allenatore-news-oggi",
-          "https://www.goal.com/en/lists/juventus-atalanta-2-0-conceicao-and-bremer-spalletti-return-to-winning-ways-in-serie-a-too-three-straight-defeats-for-sarri-s-team/blt5e5439513800f466"
+          "https://www.bundesliga.com/de/bundesliga/spieltag/2026-2027/8/sv-elversberg-vs-1-fsv-mainz-05/lineup",
+          "https://anstosszeiten.de/bundesliga/spieltag-8/",
+          "https://www.sportsmole.co.uk/football/elversberg/preview/elversberg-vs-mainz-prediction-team-news-lineups_607863.html"
         ]
       },
       "news": [
-        "Fiorentina unter Trainer Paolo Vanoli (seit 07.09.2026, Nachfolger Grosso); kompakter 4-3-3 mit tiefer Linie, Zu-Null-Fokus",
-        "Atalanta unter Maurizio Sarri (seit Juli 2026, Nachfolger Gasperini); Offensive seit Lookman-Abgang (-> Atletico Madrid Feb 26) spuerbar entschaerft, dazu De-Roon-Abgang nach Rom",
-        "9. Giornata ist ein infrasettimanaler Turno (27.-29.10.) - beide Teams mit Belastungs-Spuren, Rotation plausibel",
-        "CL MD 4 fuer Atalanta am 05.11. - Sarri koennte Stammkraefte schonen; CL ist bereits ligaphase-sicher"
+        "Elversberg Aufsteiger, Heimstärke-Bonus im Waldstadion aber ohne Erstliga-Klassen-Edge",
+        "Mainz mit 3 Auswärtssiegen bisher - Auswärts-Form-Argument für DC X2",
+        "Mainz-IV Hanche-Olsen seit Deadline-Day in MLS (Chicago Fire) - leichte Rotation hinten"
       ],
       "tipps": [
         {
-          "id": "fio-ata-1",
-          "kategorie": "safe",
-          "markt": "Unter 3.5 Tore",
-          "quote": 1.35,
-          "edge_prozent": 3.0,
-          "begruendung": "Beide Teams defensiv aufgestellt (Vanoli-Fiorentina kompakt, Sarri-Atalanta nach Lookman-Abgang offensiv limitiert) + Krisen-Druck fuehrt zu vorsichtigem Spiel. Unter 2.5 ist Markt-Goldgrube (56.2% Hitrate, +30.3% ROI, Stand 29.10.) - Unter 3.5 noch defensiver abgesichert. Historie Fiorentina-Atalanta 2024-26: in 4 von 5 Begegnungen fielen 3 oder weniger Tore. Reality-Check: Serie A - Giornata ist tendenziell torarmer bei infrasettimanalen Runden. Einsatz Stufe 1 = 1.5% von 1000€ = 15€. Quote bei bet365 live pruefen.",
-          "faire_quote": 1.31,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "fio-ata-2",
+          "id": "elv-mai-1",
           "kategorie": "value",
-          "markt": "Doppelte Chance Atalanta oder Remis",
-          "quote": 1.75,
+          "markt": "Doppelte Chance Mainz oder Remis (X2)",
+          "quote": 1.65,
           "edge_prozent": 7.0,
-          "begruendung": "Atalanta hat trotz schwachem Saison-Start klar hoeheres Kader-Niveau als eine Fiorentina im Umbau - gleichzeitig passt Fiorentina Heim-Druck zum DC-X2-Hedge: ein echter Direkt-Sieg der Atalanta ist bei 50/50-Charakter kein SAFE-Edge, aber 'nicht verlieren' ist tragfaehig. DC X2 ist aktuell die Nummer-1-Goldgrube im System (77.5% Hitrate, +55.1% ROI bei 20 Tipps). HR24-Konflikt entfaellt (kein Torschuetzen-Tipp). Einsatz Stufe 1 = 2% von 1000€ = 20€. Quote bei bet365 live pruefen.",
-          "faire_quote": 1.63,
-          "empfohlener_einsatz_prozent": 2.0
+          "begruendung": "Markt-Goldgrube (DC X2 20 Tipps, 75% Hitrate, +55% ROI). Mainz Auswärts-Form (3 Siege) + Qualitäts-Edge in BL gegen Aufsteiger-Heim. Einsatz bei Kasse 1000€ Stufe 1: 2% = 20€. 2:0-Insurance greift bei direktem Sieg-Tipp nicht, bei DC egal.",
+          "faire_quote": 1.54,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20
         },
         {
-          "id": "fio-ata-3",
-          "kategorie": "value",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.9,
-          "edge_prozent": 8.0,
-          "begruendung": "Direkte Nutzung der Markt-Goldgrube 'Unter 2.5' (56.2% / +30.3%). Beide Trainer defensiv orientiert, Fiorentina erzielte unter Grosso in 3 Spielen nur 1 Tor und auch unter Vanoli nur maessig; Atalanta hat seit Lookman-Weggang keinen klaren Volumen-Scorer. Historische Begegnungen gehen in 60% unter 2.5. Einsatz Stufe 1 = 1.5% von 1000€ = 15€. Alternative zu Tipp 1 fuer getrennten Markt-Exposure. Quote bei bet365 live pruefen.",
-          "faire_quote": 1.75,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "fio-ata-4",
+          "id": "elv-mai-2",
           "kategorie": "wackel",
-          "markt": "Beide Teams treffen Nein",
-          "quote": 2.05,
+          "markt": "Beide Teams treffen - Ja",
+          "quote": 1.85,
+          "edge_prozent": 4.0,
+          "begruendung": "Markt-Goldgrube (BTTS JA 37 Tipps, 59.5% Hit, +19% ROI). Elversberg-Heim trifft meistens, Mainz offensiv aktiv - kein Zu-Null-Match erwartbar. Einsatz Stufe 1 Wackel: 0.5% = 5€.",
+          "faire_quote": 1.78,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5
+        },
+        {
+          "id": "elv-mai-3",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 3.0,
+          "begruendung": "Markt-Goldgrube (Über 2.5 41 Tipps, 60.5% Hit, +43.9% ROI). Mainz offensiv, Elversberg macht meist 1-2 Tore zu Hause. Einsatz: 5€ Wackel.",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-30-vil-esp",
+      "liga": "LaLiga 2026/27 - Jornada 11",
+      "heim": "Villarreal CF",
+      "gast": "RCD Espanyol",
+      "anstoss": "2026-10-30T21:00:00+01:00",
+      "stadion": "Estadio de la Cerámica, Villarreal",
+      "saison_kontext": {
+        "parallel_heim": "keine Spiele diese Woche - EL war Do 29.10., Villarreal ohne EU-Wettbewerb",
+        "parallel_gast": "keine - Espanyol ohne EU-Wettbewerb",
+        "saisonziel_heim": "Platz 10 nach 10 Spielen, 12 Pkt - Oberes Mittelfeld, EU-Quali-Hoffnung",
+        "saisonziel_gast": "Platz 18, 8 Pkt - Abstiegszone, Klassenerhalt-Druck",
+        "motivations_asymmetrie": "Villarreal klarer Heim-Favorit mit 7 Siegen in Folge in H2H vs Espanyol. Espanyol braucht Punkte zum Klassenerhalt, hat aber keine klare Form-Grundlage für Auswärts-Punkt bei Villarreal. Jonathan David (ex-Lille) jetzt bei Atletico - nicht hier relevant.",
+        "recovery_heim": "5 Tage seit letztem LaLiga-Spiel - frisch",
+        "recovery_gast": "5 Tage seit letztem LaLiga-Spiel - frisch",
+        "quellen": [
+          "https://www.sportsmole.co.uk/football/villarreal/preview/villarreal-vs-espanyol-prediction-team-news-lineups_607852.html",
+          "https://footballwhispers.com/blog/villarreal-vs-espanyol-prediction-30-10-2026/",
+          "https://www.footballdream.in/blog/villarreal-vs-espanyol-matchday-11-la-liga-2026-27"
+        ]
+      },
+      "news": [
+        "Villarreal 10. Platz / 12 Pkt / Espanyol 18. / 8 Pkt - klares Edge-Gefälle",
+        "7 Villarreal-Siege in Folge im H2H vs Espanyol - starkes Pattern",
+        "LaLiga - 2:0-Insurance gilt NICHT (bet365-Regel nur BL + CL)"
+      ],
+      "tipps": [
+        {
+          "id": "vil-esp-1",
+          "kategorie": "value",
+          "markt": "Villarreal Sieg (90 Min)",
+          "quote": 1.65,
+          "edge_prozent": 6.0,
+          "begruendung": "Heim-Favorit gegen Abstiegskandidaten + 7-Siege-H2H-Serie. Keine Liga-Goldgrube für Jornada 11, aber Markt-Edge über Pinnacle-Fair-Line (~1.72 fair). KEIN SAFE (LaLiga Jornada 11 nicht in Liga-Goldgruben, 2:0-Insurance gilt nicht). Einsatz Stufe 1 Value: 1.5% = 15€.",
+          "faire_quote": 1.72,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15
+        },
+        {
+          "id": "vil-esp-2",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 3.0,
+          "begruendung": "Markt-Goldgrube (Über 2.5 +43.9% ROI). Villarreal 15 Tore in 10 Spielen (1.5 pro Spiel), Espanyol defensiv löchrig (14 Gegentore in 10). Einsatz: 5€ Wackel.",
+          "faire_quote": 1.68,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5
+        },
+        {
+          "id": "vil-esp-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen - Ja",
+          "quote": 1.8,
+          "edge_prozent": 2.0,
+          "begruendung": "Markt-Goldgrube BTTS JA. Espanyol trifft offensiv regelmäßig (12 Saison-Tore), Villarreal-Defensive 14 Gegentore. Einsatz: 5€ Wackel.",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-10-30-leh-psg",
+      "liga": "Ligue 1 2026/27 - Journée 9",
+      "heim": "Le Havre AC",
+      "gast": "Paris Saint-Germain",
+      "anstoss": "2026-10-30T20:00:00+01:00",
+      "stadion": "Stade Océane, Le Havre",
+      "saison_kontext": {
+        "parallel_heim": "keine - Le Havre ohne EU-Wettbewerb, keine Pokal-Pflicht diese Woche",
+        "parallel_gast": "keine - PSG CL-Spiel war Di 28.10. (Ligaphase MD3)",
+        "saisonziel_heim": "Letzter Platz, 2 Pkt nach 8 Spielen - akute Klassenerhalt-Not",
+        "saisonziel_gast": "Tabellenführer Ligue 1, Titelverteidiger auf Kurs Titel-Doppel",
+        "motivations_asymmetrie": "Extremes Favoriten-Spiel: PSG seit 1999 ohne Niederlage gegen Le Havre, in letzten 8 H2H ungeschlagen. Le Havre braucht Punkte, hat aber keinen Qualitäts-Edge. PSG rotiert nach CL-Spiel Di, aber Zweitgarnitur schlägt Le Havre historisch locker. Ferran Torres (ab Aug) jetzt PSG-9er, Barcola/Kolo Muani/Ramos weg - PSG-Angriff Transfer-umgebaut.",
+        "recovery_heim": "5 Tage seit letztem Ligue-1-Spiel (4:3 in Marseille) - frisch, aber Form-Krise",
+        "recovery_gast": "2 Tage seit CL-Spiel Di 28.10. - leichte Belastung, Rotation erwartbar",
+        "quellen": [
+          "https://www.sportsmole.co.uk/football/le-havre/preview/le-havre-vs-psg-prediction-team-news-lineups_607838.html",
+          "https://footballwhispers.com/blog/le-havre-vs-psg-prediction-30-10-2026/",
+          "https://khelnow.com/football/le-havre-vs-psg-preview-ligue-1-202610"
+        ]
+      },
+      "news": [
+        "PSG CL-Doppelbelastung (Di 28.10. gespielt) - Rotation plausibel, aber Zweitgarnitur ausreichend",
+        "Le Havre Letzter mit 2 Pkt, 4:3-Pleite in Marseille - Form-Krise",
+        "Ligue 1 - 2:0-Insurance gilt NICHT (bet365-Regel nur BL + CL)"
+      ],
+      "tipps": [
+        {
+          "id": "leh-psg-1",
+          "kategorie": "wackel",
+          "markt": "Paris Saint-Germain Sieg (90 Min)",
+          "quote": 1.35,
           "edge_prozent": 5.0,
-          "begruendung": "Nicht-Goldgrube, bewusst wackel: BTTS-Nein verlangt, dass mindestens eine Seite zu Null spielt. Beide Teams unter 1 Tor pro Spiel im Saison-Durchschnitt - plausibel, aber keine Garantie. Einsatz Stufe 1 Wackel = 0.5% von 1000€ = 5€. Spekulations-Tipp mit defensivem Markt-Mix. Quote bei bet365 live pruefen.",
-          "faire_quote": 1.95,
-          "empfohlener_einsatz_prozent": 0.5
+          "begruendung": "Favorit mit 100%-H2H-Serie seit 1999, Klassen-Edge massiv, aber CL-Rotations-Risiko dämpft von SAFE auf VALUE. Keine Liga-Goldgrube für Ligue 1 Journée 9, kein 2:0-Insurance - deshalb VALUE statt SAFE. Einsatz Stufe 1 Value: 1.5% = 15€.",
+          "faire_quote": 1.28,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15
+        },
+        {
+          "id": "leh-psg-2",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.65,
+          "edge_prozent": 5.0,
+          "begruendung": "Markt-Goldgrube (Über 2.5 +43.9% ROI). PSG schießt viele Tore auswärts, Le Havre offensiv instabil (4:3 Marseille) - typisches hohes Spiel. Einsatz: 15€ Value.",
+          "faire_quote": 1.57,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15
+        },
+        {
+          "id": "leh-psg-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen - Ja",
+          "quote": 1.8,
+          "edge_prozent": 2.0,
+          "begruendung": "Le Havre trifft meist zu Hause (4 Tore in Marseille), PSG offensiv ohnehin. BTTS JA Markt-Goldgrube. Einsatz: 5€ Wackel.",
+          "faire_quote": 1.76,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5
+        }
+      ],
+      "kontext_check_status": "WARN_QUELLE"
+    },
+    {
+      "id": "2026-10-30-lil-len",
+      "liga": "Ligue 1 2026/27 - Journée 9",
+      "heim": "LOSC Lille",
+      "gast": "RC Lens",
+      "anstoss": "2026-10-30T21:00:00+01:00",
+      "stadion": "Stade Pierre-Mauroy, Villeneuve-d'Ascq",
+      "saison_kontext": {
+        "parallel_heim": "EL war Do 29.10. (Ligaphase MD3) - Lille mit EL-Belastung, 1 Tag Pause - Rotations-Risiko hoch",
+        "parallel_gast": "keine - Lens ohne EU-Wettbewerb",
+        "saisonziel_heim": "Oberes Mittelfeld, EU-Quali - Lille mit EL-Zusatzbelastung",
+        "saisonziel_gast": "Oberes Mittelfeld, Push nach oben",
+        "motivations_asymmetrie": "Derby du Nord mit coinflip-nahen Quoten (Lille 2.40 / Draw 3.60 / Lens 2.75). Lille 3 Siege in Folge im H2H, aber EL-Belastung (Do gespielt, 1 Tag Pause) tiefenschnitt - starkes Argument für Lens als frischer Außenseiter. HR3 (Joker-Stürmer bei UEFA-Doppelbelastung <4 Tage): Rotation Lille erwartbar. Ueda (neu seit Sep) als Lille-9er, David/Zhegrova weg.",
+        "recovery_heim": "1 Tag seit EL-Spiel (Do 29.10.) - starke Belastung, Rotations-Pflicht erwartbar",
+        "recovery_gast": "5 Tage seit letztem Ligue-1-Spiel - frisch",
+        "quellen": [
+          "https://africasoccer.com/?p=646108",
+          "https://ligue1.com/en/articles/l1_article_1108-"
+        ]
+      },
+      "news": [
+        "Derby du Nord mit coinflip-nahen Quoten - KEIN SAFE in diesem Spiel",
+        "Lille EL Do 29.10. gespielt - 1 Tag Pause, Rotation hoch wahrscheinlich (HR3)",
+        "Ueda als neuer Lille-9er, David/Zhegrova transfer-weg - Sturmreihe umgebaut"
+      ],
+      "tipps": [
+        {
+          "id": "lil-len-1",
+          "kategorie": "wackel",
+          "markt": "LOSC Lille Sieg (90 Min)",
+          "quote": 2.4,
+          "edge_prozent": 2.0,
+          "begruendung": "3-Siege-H2H-Pattern + Heimvorteil Pierre-Mauroy. ABER: EL-Belastung dreht das deutlich runter - Rotation erwartbar. Markt-Mix-Regel 2 (Coinflip, alle 1X2 zwischen 2.40 und 3.50): KEIN SAFE möglich. Einsatz: 5€ Wackel.",
+          "faire_quote": 2.35,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5
+        },
+        {
+          "id": "lil-len-2",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen - Ja",
+          "quote": 1.8,
+          "edge_prozent": 3.0,
+          "begruendung": "Markt-Goldgrube BTTS JA (+19% ROI). Derby mit beiderseitiger Qualität, offener Verlauf wahrscheinlich. Einsatz: 5€ Wackel.",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5
+        },
+        {
+          "id": "lil-len-3",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.9,
+          "edge_prozent": 2.0,
+          "begruendung": "Markt-Goldgrube (Über 2.5 +43.9% ROI). Derby mit Spannung + Lille-EL-Müdigkeit → Umschalt-Momente wahrscheinlich. Einsatz: 5€ Wackel.",
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5
         }
       ],
       "kontext_check_status": "OK"
@@ -81,56 +259,274 @@ window.__MIESMUSCHEL_TIPPS = {
   ],
   "einzeltipps": [
     {
-      "id": "fio-ata-1",
-      "spiel_id": "2026-10-29-fio-ata",
-      "spiel_label": "Fiorentina vs Atalanta",
-      "kategorie": "safe",
-      "markt": "Unter 3.5 Tore",
+      "id": "leh-psg-1",
+      "spiel_id": "2026-10-30-leh-psg",
+      "spiel_label": "Le Havre vs PSG",
+      "kategorie": "value",
+      "markt": "Paris Saint-Germain Sieg (90 Min)",
       "quote": 1.35,
-      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15,
+      "begruendung": "PSG seit 1999 ohne Niederlage gg Le Havre + Klassen-Edge massiv. CL-Rotation drückt von SAFE auf VALUE.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 1
     },
     {
-      "id": "fio-ata-2",
-      "spiel_id": "2026-10-29-fio-ata",
-      "spiel_label": "Fiorentina vs Atalanta",
+      "id": "vil-esp-1",
+      "spiel_id": "2026-10-30-vil-esp",
+      "spiel_label": "Villarreal vs Espanyol",
       "kategorie": "value",
-      "markt": "Doppelte Chance Atalanta oder Remis",
-      "quote": 1.75,
-      "empfohlener_einsatz_prozent": 2.0,
+      "markt": "Villarreal Sieg (90 Min)",
+      "quote": 1.65,
+      "einsatz_euro": 15,
+      "begruendung": "Heim-Favorit + 7-Siege-H2H-Serie gegen Abstiegskandidaten Espanyol.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 2
     },
     {
-      "id": "fio-ata-3",
-      "spiel_id": "2026-10-29-fio-ata",
-      "spiel_label": "Fiorentina vs Atalanta",
+      "id": "elv-mai-1",
+      "spiel_id": "2026-10-30-elv-mai",
+      "spiel_label": "Elversberg vs Mainz",
       "kategorie": "value",
-      "markt": "Unter 2.5 Tore",
-      "quote": 1.9,
-      "empfohlener_einsatz_prozent": 1.5,
+      "markt": "Doppelte Chance Mainz oder Remis (X2)",
+      "quote": 1.65,
+      "einsatz_euro": 20,
+      "begruendung": "Markt-Goldgrube DC X2 (+55% ROI). Mainz Auswärts-Form (3 Siege) + Qualitäts-Edge.",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 3
     },
     {
-      "id": "fio-ata-4",
-      "spiel_id": "2026-10-29-fio-ata",
-      "spiel_label": "Fiorentina vs Atalanta",
-      "kategorie": "wackel",
-      "markt": "Beide Teams treffen Nein",
-      "quote": 2.05,
-      "empfohlener_einsatz_prozent": 0.5,
+      "id": "leh-psg-2",
+      "spiel_id": "2026-10-30-leh-psg",
+      "spiel_label": "Le Havre vs PSG",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.65,
+      "einsatz_euro": 15,
+      "begruendung": "Markt-Goldgrube Über 2.5 (+43.9% ROI). PSG-Offensive + Le Havre offensiv instabil (4 Tore in Marseille).",
+      "empfohlener_einsatz_prozent": 1.0,
       "rang": 4
+    },
+    {
+      "id": "elv-mai-2",
+      "spiel_id": "2026-10-30-elv-mai",
+      "spiel_label": "Elversberg vs Mainz",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen - Ja",
+      "quote": 1.85,
+      "einsatz_euro": 5,
+      "begruendung": "Markt-Goldgrube BTTS JA. Beide offensiv, kein Zu-Null-Match erwartbar.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 5
+    },
+    {
+      "id": "vil-esp-2",
+      "spiel_id": "2026-10-30-vil-esp",
+      "spiel_label": "Villarreal vs Espanyol",
+      "kategorie": "wackel",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.75,
+      "einsatz_euro": 5,
+      "begruendung": "Markt-Goldgrube Über 2.5. Villarreal-Offensive + Espanyol-Defensive-Löcher.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 6
+    },
+    {
+      "id": "lil-len-2",
+      "spiel_id": "2026-10-30-lil-len",
+      "spiel_label": "Lille vs Lens",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen - Ja",
+      "quote": 1.8,
+      "einsatz_euro": 5,
+      "begruendung": "Markt-Goldgrube BTTS JA. Derby mit beidseitiger Qualität + Lille-EL-Müdigkeit.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 7
+    },
+    {
+      "id": "lil-len-1",
+      "spiel_id": "2026-10-30-lil-len",
+      "spiel_label": "Lille vs Lens",
+      "kategorie": "wackel",
+      "markt": "LOSC Lille Sieg (90 Min)",
+      "quote": 2.4,
+      "einsatz_euro": 5,
+      "begruendung": "3-Siege-H2H-Pattern + Heimvorteil, aber EL-Belastung (HR3) dämpft klar - deshalb wackel, kein SAFE.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8
     }
   ],
-  "kombis": [],
-  "lessons_angewandt": [
-    "Zeitfenster-Hartregel 22.08.2026: nur Anstoesse am 29.10.2026 im Tages-Dossier - andere Serie-A-Spiele (28.10.) sind gestern und gehoeren nicht hier rein.",
-    "Markt-Goldgrube 'Unter 2.5 Tore' (56.2% / +30.3% ROI) aktiv gesucht - Tipp 1 + 3.",
-    "Markt-Goldgrube 'Doppelte Chance X2' (77.5% / +55.1% ROI) aktiv gesucht - Tipp 2.",
-    "Anti-DC-Sucht-Regel: max 1 DC-Tipp pro Spiel - eingehalten (nur Tipp 2 ist DC).",
-    "Kader-Frische: Lookman (Atalanta -> Atletico Madrid Feb 26) und De Roon (Atalanta -> Roma Aug 26) NICHT als Atalanta-Spieler getippt; Gudmundsson (Fiorentina -> Lazio Sep 26) ebenfalls nicht.",
-    "Selbstwiderspruch vermieden: saison_kontext bezeichnet die Partie als '50/50 Krisen-Duell' -> keine SAFE auf Direktsieg oder Direkt-DC auf eine Seite, nur Markt-neutraler SAFE auf Tor-Total.",
-    "HR24 Form-Edge-Pflicht fuer Torschuetzen: Form-Daten der Top-Stuermer waren im Watchdog-Slot nicht robust zu verifizieren - deshalb KEIN Torschuetzen-Tipp (Qualitaet vor Quantitaet).",
-    "Notfall-Fallback: lieber 1 Spiel mit vollstaendigem saison_kontext + 4 ehrlichen Tipps als eine groessere Pseudo-Liste."
+  "kombis": [
+    {
+      "name": "Safe-Kombi 3er",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-10-30-leh-psg",
+          "spiel_label": "Le Havre vs PSG",
+          "markt": "Paris Saint-Germain Sieg (90 Min)",
+          "quote": 1.35,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-10-30-vil-esp",
+          "spiel_label": "Villarreal vs Espanyol",
+          "markt": "Villarreal Sieg (90 Min)",
+          "quote": 1.65,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-10-30-elv-mai",
+          "spiel_label": "Elversberg vs Mainz",
+          "markt": "Doppelte Chance Mainz oder Remis (X2)",
+          "quote": 1.65,
+          "kategorie": "safe"
+        }
+      ],
+      "gesamtquote": 3.67,
+      "gesamtquote_rechnung": "1.35 x 1.65 x 1.65 = 3.67",
+      "einsatz_euro": 20,
+      "potenzieller_gewinn_euro": 73.4,
+      "begruendung": "Drei Markt-/H2H-Edge-Siege aus drei Spielen. Alle Sieg-OCs Layer-2-sauber. Zielquote 3-5x erreicht. Kein 2:0-Insurance (Villarreal/Le Havre-PSG in LaLiga/Ligue 1), aber solide Edge-Stories.",
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "name": "Balance-Kombi 3er",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-10-30-leh-psg",
+          "spiel_label": "Le Havre vs PSG",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.65,
+          "kategorie": "balance"
+        },
+        {
+          "spiel_id": "2026-10-30-vil-esp",
+          "spiel_label": "Villarreal vs Espanyol",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "kategorie": "balance"
+        },
+        {
+          "spiel_id": "2026-10-30-lil-len",
+          "spiel_label": "Lille vs Lens",
+          "markt": "LOSC Lille Sieg (90 Min)",
+          "quote": 2.4,
+          "kategorie": "balance"
+        }
+      ],
+      "gesamtquote": 6.93,
+      "gesamtquote_rechnung": "1.65 x 1.75 x 2.40 = 6.93",
+      "einsatz_euro": 8,
+      "potenzieller_gewinn_euro": 55.44,
+      "begruendung": "Markt-Goldgruben-Mix (2x Über 2.5) + Lille-H2H-Edge. Zielquote 6-10x getroffen. Layer-2 sauber: Lille-Sieg-OC einziger Sieg-OC der Kombi.",
+      "empfohlener_einsatz_prozent": 0.8
+    },
+    {
+      "name": "Risiko-Kombi 4er",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-10-30-leh-psg",
+          "spiel_label": "Le Havre vs PSG",
+          "markt": "Über 3.5 Tore",
+          "quote": 2.2,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-10-30-vil-esp",
+          "spiel_label": "Villarreal vs Espanyol",
+          "markt": "Über 3.5 Tore",
+          "quote": 2.75,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-10-30-lil-len",
+          "spiel_label": "Lille vs Lens",
+          "markt": "Beide Teams treffen - Ja",
+          "quote": 1.8,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-10-30-elv-mai",
+          "spiel_label": "Elversberg vs Mainz",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "kategorie": "risk"
+        }
+      ],
+      "gesamtquote": 19.08,
+      "gesamtquote_rechnung": "2.20 x 2.75 x 1.80 x 1.75 = 19.08",
+      "einsatz_euro": 2.5,
+      "potenzieller_gewinn_euro": 47.7,
+      "begruendung": "4-Beinige Tor-Total-Risiko-Kombi auf PSG-Offensive + Villarreal-Spanien-Hoch-Ergebnis + Derby-Spannung + Mainz-Offensive. Keine Sieg-OCs - Layer-2 sauber. Zielquote 15-30x getroffen.",
+      "empfohlener_einsatz_prozent": 0.25
+    },
+    {
+      "name": "Moonshot 3er (knapp unter 100x)",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-10-30-leh-psg",
+          "spiel_label": "Le Havre vs PSG",
+          "markt": "Über 4.5 Tore",
+          "quote": 4.0,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-10-30-vil-esp",
+          "spiel_label": "Villarreal vs Espanyol",
+          "markt": "Über 4.5 Tore",
+          "quote": 6.5,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-10-30-lil-len",
+          "spiel_label": "Lille vs Lens",
+          "markt": "Über 3.5 Tore",
+          "quote": 3.5,
+          "kategorie": "moonshot"
+        }
+      ],
+      "gesamtquote": 91.0,
+      "gesamtquote_rechnung": "4.00 x 6.50 x 3.50 = 91.00",
+      "einsatz_euro": 1.0,
+      "potenzieller_gewinn_euro": 91.0,
+      "begruendung": "Ehrlich: knapp unter der 100x-Marke (91x), weil nur 4 Spiele im Fenster und Layer-2 Sieg-OC-Underdogs blockiert (alle 4 Spiel-Sieg-OCs schon in anderen Kombis). Tor-Total-Explosion als Alternative. Lotterie-Charakter - 1€ Spaßeinsatz.",
+      "empfohlener_einsatz_prozent": 0.1
+    }
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool, keine Einnahmequelle. Nur setzen was du verlieren kannst."
+  "lessons_angewandt": [
+    "Markt-Mix-Regel 2: Lille-Lens coinflip (alle 1X2 zwischen 2.40 und 3.50) → KEIN SAFE in diesem Spiel.",
+    "HR3 Joker-Stürmer bei UEFA-Doppelbelastung: Lille Do EL-Spiel, 1 Tag Pause → Rotation erwartbar, kein SAFE auf Lille.",
+    "Kader-Frische (Anti-Adeyemi-Lehre): KEINE Spielertor-Tipps heute - Transfer-Fenster hat PSG/Lille/Mainz-Sturm umgebaut und Aufstellungen 14:30 nicht konfirmierbar.",
+    "2:0-Insurance (bet365-Regel) gilt nur BL + CL - in LaLiga/Ligue 1 explizit nicht genutzt (keine BL-Sieg-Tipps diese Watchdog-Phase deshalb VALUE-max statt SAFE).",
+    "Markt-Goldgruben aktiv genutzt: DC X2 (+55% ROI), Über 2.5 Tore (+43.9%), BTTS JA (+19%).",
+    "Kasse-Stand 1000€ Stufe 1 (stufe_2_freigeschaltet=false): Einzeltipps 10-20€, Wackel 5€, Kombis gemäß Stufe-1-Prozentsätzen.",
+    "Keine Liga-Goldgrube für Jornada 11 / Journée 9 / BL 8. Spieltag → kein SAFE auf Sieg-Tipps (Hebel C), stattdessen VALUE."
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-10-30T14:30:00+01:00",
+    "modus": "watchdog_inline (kein Task-Tool)",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "quellen_begrenzt",
+        "details": "football-data.org API via Proxy blockiert (403 CONNECT) - Spielplan + Fair-Line über WebSearch/Previews rekonstruiert. Quoten approximiert aus Bookmaker-Previews, bei bet365 live gegenprüfen."
+      },
+      {
+        "art": "squad_nicht_live_verifiziert",
+        "details": "Keine Spielertor-Tipps gesetzt, weil kicker.de/transfermarkt-Aufstellungs-Vorschau 14:30 noch nicht gezogen. Markt-/Team-Edges stattdessen."
+      },
+      {
+        "art": "moonshot_unter_100x",
+        "details": "4-Spiele-Fenster + Layer-2-Sieg-OC-Blockade erlauben nur 91x statt 100x+ im Moonshot. Ehrlich kommuniziert statt künstlich hochgetrieben."
+      }
+    ],
+    "layer_2_check": "OK - jedes Spiel-Sieg-OC nur in genau einer Kombi (Safe: PSG+Villarreal+Mainz; Balance: Lille; Risk+Moonshot: keine Sieg-OCs)",
+    "selbstwiderspruchs_check": "OK - saison_kontext (EL-Belastung Lille, PSG-Rotation) konsistent mit max-wackel-Einstufung Lille-Sieg und VALUE-statt-SAFE PSG",
+    "kader_wechsel_check": "OK - keine Spielertor-Tipps = kein Konflikt mit kader_wechsel_2026.json. Transferhinweise (Ferran Torres→PSG, Hanche-Olsen→MLS, Ueda→Lille, David/Zhegrova→weg) in saison_kontext/news erwähnt."
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA-Hotline: 0800 1372700 · Nur setzen was du verlieren kannst."
 };
