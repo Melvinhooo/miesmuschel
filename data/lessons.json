@@ -3749,6 +3749,30 @@
       "kategorie": "HR10-29-4 Milan-Amorim-Drehungs-Trauma Heim (8f/8b)",
       "lesson": "Milan HZ 2:1 → Endstand 2:4 - komplette Zweit-Halbzeit-Drehung durch Bologna (Mbangula-Hattrick + Cisse-Doppelpack + ET Bartesaghi). Erste Milan-Niederlage der Saison, Platz -7 zur Spitze. Unter Amorim produziert das 3-4-2-1-System Volumen-Chancen, aber verliert bei Ausgleich die Kontrolle - vgl Lesson 2026-04-22 'Real Madrid nach CL-Aus unberechenbar'. HARTREGEL: SAFE-/VALUE-Sieg-Tipps auf Milan Heim fuer die naechsten 4 Spiele downgraden (VALUE→WACKEL), Ueber 2.5 bleibt (Markt-Goldgrube unberuehrt, 6 Tore). Drehungs-Cluster allein heute: Milan - danach keine weiteren, also kein Mehrtages-Cluster - aber Milan isoliert flagged.",
       "bezug_spiel_id": "2026-10-28-mil-bol"
+    },
+    {
+      "datum": "2026-10-29",
+      "kategorie": "HR10-29-1 Repo-Kader-File vor Trainer-Claim gegenchecken (8b)",
+      "lesson": "Dossier 29.10. nahm 'Palladino als neuer Atalanta-Trainer (Debut gegen Ex-Verein Fiorentina)' als Edge an. Tatsaechlich ist Sarri seit Juli 2026 Atalanta-Trainer (steht in data/kader_wechsel_2026.json, trainer_2026_27, mit Quelle). Die Tipps-Routine hat die eigene Kader-Datei schlicht nicht gelesen — identischer Anlass wie der 22.08.-Adeyemi-Fall (CLAUDE.md 'Cloud-Routinen'). HARTREGEL: Vor jedem Dossier zuerst kader_wechsel_2026.json.trainer_2026_27 fuer jeden gespielten Verein konsultieren, insbesondere wenn im saison_kontext ein Trainer-Boost als Edge genannt wird. Konsequenz heute: Edge-Narrativ (Palladino-Rueckkehr-Emotion) war falsch; dass die DC-X2-Tipps trotzdem durchliefen, war Glueck ueber andere Faktoren. Routine haette ohne diese Fiktion vermutlich eine kuehlere Fio-Ata-Bewertung geliefert.",
+      "bezug_spiel_id": "2026-10-29-fio-ata"
+    },
+    {
+      "datum": "2026-10-29",
+      "kategorie": "HR10-29-2 Copa-Mismatch-Pattern Primera-vs-RFEF-5 (8g)",
+      "lesson": "Beide Primera-vs-Tercera-RFEF-Pokalspiele endeten 0-3 (Sevilla) und 0-6 (Osasuna) — DC X2 @ 1.07/1.08 ging mechanisch durch, Ü2.5 ebenfalls. 4-5 Divisionen Klassenunterschied ueberrollen jede Reserve-Rotation. HARTREGEL: In Copa-del-Rey-Primera-Ronda (und analog FA Cup, DFB-Pokal, Coppa Italia) sind Primera-Teams gegen RFEF-4/5-Teams DC-X2-Automatiken ab Quote 1.05. Statistik-Historie bestaetigt (Markt-Goldgrube DC X2 77.8% / +9.4% ROI). Problem: Quoten so niedrig, dass Hebel klein. Als Kombi-Fundament mit 2+ Beinen aber hoch-reliabel — heute Safe-Kombi (3 DC-Beine @ 1.44 Gesamt) ging durch. In naechster Copa-Runde wieder aktiv suchen.",
+      "bezug_spiel_id": "2026-10-29-cal-osa"
+    },
+    {
+      "datum": "2026-10-29",
+      "kategorie": "HR10-29-3 Ueber 2.5 heute 5/5 — Markt bleibt Goldgrube (8c/8g)",
+      "lesson": "Alle 5 Spiele gingen ueber 2.5 Tore: Fiorentina-Atalanta 2-2, Frosinone-Lecce 5-1, Everton-Newcastle 3-1, Hortaleza-Sevilla 0-3, Calatayud-Osasuna 0-6. Durchschnittliche Tore pro Spiel heute: 4.4. Markt-Goldgrube Ueber 2.5 (60.5% / +43.9% ROI, n>40) bestaetigt sich — vier von vier getippten Ueber-2.5-Picks heute gewonnen. Weiter aktiv suchen, besonders bei Pokal-Mismatches (Reserve-Elf trifft trotzdem gegen klassenniedrigeren Gegner) und bei Krisen-Krisen-Duellen (Fio-Ata beidseitig anfaellige Defense).",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-10-29",
+      "kategorie": "HR10-29-4 Reality-Check nach Monster-Tag — nicht als Baseline nehmen (8e)",
+      "lesson": "Bilanz 29.10.: 16/17 Einzeltipps gewonnen (Trefferquote 94%), 3/4 Kombis durch, Netto +128.77€ bei 181.50€ Einsatz (+71% Tages-ROI). Das ist rechte Verteilung, nicht neue Baseline. SAFE-Soll bleibt 75-90%, VALUE 50-70% — heute war eine Kombination aus (a) Favoriten-lastigem Pokal-Slate mit DC-Automatiken, (b) hoher Tor-Dichte in allen 5 Spielen, (c) kein Underdog-Schocker im Programm. HARTREGEL: Stufe-2-Freischaltung NICHT auf einen Monster-Tag stuetzen — rolling 30-Tage-ROI bleibt die Metrik. Einsatz-Groessen bleiben Stufe 1 (1-2%), auch wenn Kasse heute Richtung 1130€ geht. Mean Reversion in den naechsten Tagen erwarten.",
+      "bezug_spiel_id": null
     }
   ],
   "stand": "2026-10-29"
