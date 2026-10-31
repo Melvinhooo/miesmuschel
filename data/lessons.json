@@ -3773,7 +3773,31 @@
       "kategorie": "HR10-29-4 Reality-Check nach Monster-Tag — nicht als Baseline nehmen (8e)",
       "lesson": "Bilanz 29.10.: 16/17 Einzeltipps gewonnen (Trefferquote 94%), 3/4 Kombis durch, Netto +128.77€ bei 181.50€ Einsatz (+71% Tages-ROI). Das ist rechte Verteilung, nicht neue Baseline. SAFE-Soll bleibt 75-90%, VALUE 50-70% — heute war eine Kombination aus (a) Favoriten-lastigem Pokal-Slate mit DC-Automatiken, (b) hoher Tor-Dichte in allen 5 Spielen, (c) kein Underdog-Schocker im Programm. HARTREGEL: Stufe-2-Freischaltung NICHT auf einen Monster-Tag stuetzen — rolling 30-Tage-ROI bleibt die Metrik. Einsatz-Groessen bleiben Stufe 1 (1-2%), auch wenn Kasse heute Richtung 1130€ geht. Mean Reversion in den naechsten Tagen erwarten.",
       "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-10-30",
+      "kategorie": "HR10-30-1 BTTS JA heute 1/3 - BTTS-Streak gebrochen (8c/8e)",
+      "lesson": "Von 3 BTTS-JA-Tipps ging nur elv-mai durch (Hollerbach-Nachspielzeit-Tor 90+2). Villarreal-Espanyol endete 0:1 (Villarreal zu-null-Heim), Lille-Lens 1:0 (Lens zu-null-Gast). BTTS JA Markt-Goldgrube (59.5% / +19% ROI, n=37) bleibt bestehen, aber heute 2 taktisch-defensive Ligue-1/LaLiga-Spiele mit Zu-Null-Potenzial. HARTREGEL: BTTS JA bei LaLiga-Mittelfeld-vs-Abstieg und Ligue-1-Derby-Spielen mit beidseitig muedem Kader kritischer bewerten - lieber zu wackel abstufen statt als Goldgrube pushen. Rolling 30-Tage-ROI ist nur +1.7% - BTTS-Streak-Rueckkehr abwarten.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-10-30",
+      "kategorie": "HR10-30-2 LaLiga-Mittelfeld-H2H-Serien ueberbewertet (8d)",
+      "lesson": "Villarreal 0:1 Espanyol beendete 7-Siege-H2H-Serie - Edge-Narrativ aus langer Serie reichte nicht gegen Espanyols Klassenerhalt-Druck + 0.84 xG Villarreal. Villarreal-Sieg + Ue2.5 + BTTS JA, alle drei Tipps durchgefallen. HARTREGEL: In LaLiga sind lange H2H-Pattern (6+ Siege in Folge) schwaecherer Edge-Faktor als Form + Motivation. Fuer Jornada-ohne-Liga-Goldgrube keine SAFE-Hochstufung aus H2H-Serie allein. Edge-Vergabe braucht xG- oder Form-Rueckendeckung, nicht nur historische Dominanz.",
+      "bezug_spiel_id": "2026-10-30-vil-esp"
+    },
+    {
+      "datum": "2026-10-30",
+      "kategorie": "HR10-30-3 HR3 Lille-Rotation nicht panisch (8h)",
+      "lesson": "Lille mit 1 Tag Pause nach EL-Donnerstag gewinnt 1:0 vs Lens (Giroud-Jokertor 86'). HR3-Logik 'UEFA-Doppelbelastung <4 Tage = kein SAFE' funktionierte zum Downgrade (wackel statt safe), aber der Tipp lief trotzdem. Lille rotierte und war trotzdem erfolgreich. ANPASSUNG: HR3 bleibt bestehen fuer Auswaertsspiele oder gegen hochkaraetige Gegner, aber bei Heim-Derby + Giroud als Joker-Backup nicht automatisch bei wackel-Minimum. Volumen-Backup-Stuermer (Giroud) rettete das Spiel - 'einwechslungs_tor_highlights' pro Spiel scheinen auf diesen Faktor zu zeigen.",
+      "bezug_spiel_id": "2026-10-30-lil-len"
+    },
+    {
+      "datum": "2026-10-30",
+      "kategorie": "HR10-30-4 PSG-IV-Hattrick: Full-Back-Torschuetzen-Signal (8i)",
+      "lesson": "Hakimi (RV/IV) traf 3x + 2 Vorlagen beim 5:1 in Le Havre - 1. Karriere-Hattrick. PSG rotierte nach CL-Dienstag und laesst Hakimi offensiv frei agieren bei Favoritenrolle. Einwechslungs-Boost greift nicht (Hakimi Starter), aber FullBack-Torschuetzen-Markt ist bei PSG-Favoritenspielen gegen untere Ligue-1-Mannschaften als Lotterie-Moonshot-Bein scoutbar. BTTS JA lief hier - 6-Tore-Spiel mit Drehung. HR-Idee: bei PSG-vs-Abstieg + CL-Rotation Full-Back-Jederzeit-Torschuetze als Moonshot-Baustein pruefen (Quote 6-8+). Datenbasis noch n=1, keine Hartregel, nur Beobachtung.",
+      "bezug_spiel_id": "2026-10-30-leh-psg"
     }
   ],
-  "stand": "2026-10-29"
+  "stand": "2026-10-31T06:13:52+00:00"
 }

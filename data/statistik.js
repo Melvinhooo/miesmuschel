@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-10-30T06:15:21+00:00",
+  "letzte_berechnung": "2026-10-31T06:13:57+00:00",
   "gesamt": {
     "tipps": 336,
     "gewonnen": 190,
@@ -3324,6 +3324,238 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-10-30",
+      "gesamt": {
+        "tipps": 8,
+        "gewonnen": 4,
+        "verloren": 4,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 8.0,
+        "netto": 7.25,
+        "trefferquote": 50.0,
+        "roi_prozent": 90.6
+      },
+      "spiele": [
+        {
+          "id": "2026-10-30-elv-mai",
+          "liga": "Bundesliga 2026/27 - 8. Spieltag",
+          "heim": "SV Elversberg",
+          "gast": "1. FSV Mainz 05",
+          "endstand": "4:1",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Mainz oder Remis (X2)",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Elversberg gewinnt 4:1 - DC X2 (Mainz oder Remis) fiel"
+            },
+            {
+              "markt": "Beide Teams treffen - Ja",
+              "quote": 1.85,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.85,
+              "kommentar": "BTTS Ja - Hollerbach 90+2 fuer Mainz, Elversberg 4 Tore"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-30-vil-esp",
+          "liga": "LaLiga 2026/27 - Jornada 11",
+          "heim": "Villarreal CF",
+          "gast": "RCD Espanyol",
+          "endstand": "0:1",
+          "tipps": [
+            {
+              "markt": "Villarreal Sieg (90 Min)",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Villarreal verliert zu Hause - 7-Siege-H2H-Serie gebrochen, Cabrera 60'"
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Nur 1 Tor im Spiel - Ueber 2.5 verloren"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-30-leh-psg",
+          "liga": "Ligue 1 2026/27 - Journée 9",
+          "heim": "Le Havre AC",
+          "gast": "Paris Saint-Germain",
+          "endstand": "1:5",
+          "tipps": [
+            {
+              "markt": "Paris Saint-Germain Sieg (90 Min)",
+              "quote": 1.35,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.35,
+              "kommentar": "PSG 5:1 - klarer Auswaertssieg, keine Diskussion"
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.65,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.65,
+              "kommentar": "6 Tore insgesamt - Ueber 2.5 schon zur Halbzeit sicher"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-30-lil-len",
+          "liga": "Ligue 1 2026/27 - Journée 9",
+          "heim": "LOSC Lille",
+          "gast": "RC Lens",
+          "endstand": "1:0",
+          "tipps": [
+            {
+              "markt": "LOSC Lille Sieg (90 Min)",
+              "quote": 2.4,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 2.4,
+              "kommentar": "Lille Sieg - Giroud 86' entscheidet Derby du Nord"
+            },
+            {
+              "markt": "Beide Teams treffen - Ja",
+              "quote": 1.8,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Lens trifft nicht - BTTS JA verloren"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi 3er",
+          "kategorie": "safe",
+          "gesamtquote": 3.67,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Paris Saint-Germain Sieg (90 Min)",
+              "quote": 1.35,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Villarreal Sieg (90 Min)",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance Mainz oder Remis (X2)",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi 3er",
+          "kategorie": "balance",
+          "gesamtquote": 6.93,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "LOSC Lille Sieg (90 Min)",
+              "quote": 2.4,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi 4er",
+          "kategorie": "risk",
+          "gesamtquote": 19.08,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Über 3.5 Tore",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 3.5 Tore",
+              "quote": 2.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen - Ja",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot 3er (knapp unter 100x)",
+          "kategorie": "moonshot",
+          "gesamtquote": 91.0,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Über 4.5 Tore",
+              "quote": 4.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 4.5 Tore",
+              "quote": 6.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 3.5 Tore",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-10-29",
       "gesamt": {
