@@ -1217,9 +1217,28 @@
       "hinweis": "Allegri wurde nach 2:1-Heimniederlage gegen Cagliari am letzten Spieltag entlassen; Milan verpasste CL-Quali. Amorim uebernahm Mitte Juni 2026. Verifiziert am 26.10.2026 nach Udinese-Milan 0:2, in dem SempreMilan-Liveblog Amorim als Trainer nennt. Taktische Aussagen zu Milan NICHT mehr auf Allegri-Stand stuetzen.",
       "quelle": "https://www.espn.com/soccer/story/_/id/49070225/ruben-amorim-appointed-ac-milan-boss-leaving-man-united",
       "stand": "2026-10-26"
+    },
+    {
+      "verein": "RCD Espanyol",
+      "trainer_neu": "Eder Sarabia",
+      "trainer_alt": "Manolo Gonzalez",
+      "seit": "2026-10-28",
+      "vertrag_bis": "2028-06",
+      "hinweis": "Gonzalez am 27.10.2026 nach Copa-Pleite gegen Viertligist Sestao River entlassen - Espanyol stand bei 8 Punkten aus 10 LaLiga-Spielen (Platz 18, Abstiegszone). Sarabia (46) kam von Elche (fuehrte Elche 24/25 in LaLiga), davor Co-Trainer Setien bei Las Palmas/Betis/Barcelona, dann Head-Coach Andorra. Vertrag bis 30.06.2028. Dritter LaLiga-Trainerwechsel 2026/27 nach Valencia (Corberan -> Aguirre) und Osasuna (Ramis -> Arrasate). Taktische Aussagen ueber Espanyol NICHT auf Gonzalez-Stand stuetzen - Sarabia spielt besitzorientiertes 4-3-3 mit hohem Pressing.",
+      "quelle": "https://www.beinsports.com/en-au/football/laliga/articles-video/sarabia-named-as-espanyol-manager-2026-10-28",
+      "stand": "2026-11-01"
+    },
+    {
+      "verein": "Nottingham Forest",
+      "trainer": "Oliver Glasner",
+      "seit": "2026-07",
+      "status": "unter Druck (nicht entlassen, Stand 01.11.)",
+      "hinweis": "01.11.2026 nach 0:2 bei Brentford Saisonbilanz 1-2-2 nach 5 PL-Spielen (zusaetzlich zu Fruehstart) - Entlassungs-Spekulationen in Nottingham-Forest-News (01.11.) 'Glasners Postecoglou-Moment', Marinakis-Verfahren weiter offen. Vor Forest-Tipps Aufstellungs-Vorschau am Spieltag live pruefen; falls neuer Trainer bekannt, hier Eintrag mit trainer_neu/trainer_alt ersetzen.",
+      "quelle": "https://www.nottinghamforest.news/2026/11/01/oliver-glasner-has-just-had-his-ange-postecoglou-moment-nottingham-forest-must-shape-up/",
+      "stand": "2026-11-01"
     }
   ],
-  "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist. Fulham hat mit Arbeloa (ex-Real Madrid) einen neuen Trainer, Silva zu Benfica (bestaetigt 25.08.2026). Saison-Verlauf (Stand 04.10.2026): erster Bundesliga-Wechsel Gladbach 13.09. (Polanski -> Lichte Interim -> Blessin ab 22.09. permanent, Vertrag bis 2028), drei Serie-A-Wechsel Fiorentina 07.09. (Grosso -> Vanoli), Bologna 16.09. (Tedesco -> Palladino) und Parma 27.09. (Cuesta -> Gilardino ab 30.09. permanent, Weltmeister 2006), ein LaLiga-Wechsel Valencia 13.09. (Corberan -> Oscar Sanchez Interim, Nachfolger weiter offen), erster Premier-League-Wechsel West Ham 27.09. (Potter -> Nuno Espirito Santo, sofort auf 3 Jahre). Interim-Rollen nur noch Valencia (Oscar Sanchez) - Blessin + Gilardino inzwischen permanent. Nottingham Forest: Glasner trotz 1/6-Saisonstart noch im Amt (02.10. laut Football Insider 'unstable, aber nicht entlassen'). Benfica (nach Mourinho-Abgang) noch offen - vor Europapokal-Tipps auf diese drei Klubs live pruefen.",
+  "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist. Fulham hat mit Arbeloa (ex-Real Madrid) einen neuen Trainer, Silva zu Benfica (bestaetigt 25.08.2026). Saison-Verlauf (Stand 01.11.2026): erster Bundesliga-Wechsel Gladbach 13.09. (Polanski -> Lichte Interim -> Blessin ab 22.09. permanent, Vertrag bis 2028); drei Serie-A-Wechsel Fiorentina 07.09. (Grosso -> Vanoli), Bologna 16.09. (Tedesco -> Palladino), Parma 27.09. (Cuesta -> Gilardino ab 30.09. permanent, Weltmeister 2006), vierter Serie-A-Wechsel Venezia 13.10. (Stroppa -> Nicola); AC Milan 06. (Allegri -> Amorim verifiziert 26.10.); drei LaLiga-Wechsel Valencia 13.09. (Corberan -> Aguirre ab 23.09.), Osasuna 12.10. (Ramis -> Arrasate), Espanyol 27.10. (Gonzalez -> Sarabia ab 28.10.); erster Premier-League-Wechsel West Ham 27.09. (Potter -> Nuno Espirito Santo, sofort auf 3 Jahre). Interim-Rollen aktuell keine - alle permanent besetzt. Nottingham Forest: Glasner trotz 1-2-2-Start nach 5 PL-Spielen noch im Amt (01.11. 'Glasners Postecoglou-Moment' nach 0:2 in Brentford). Benfica (nach Mourinho-Abgang) noch offen - vor Europapokal-Tipps auf diese Klubs live pruefen. Bayern-Interim durch Kompany-Krankheit: Aaron Danks seit Mitte Okt.",
   "quellen": [
     "https://www.bundesliga.com/en/bundesliga/news/official-bundesliga-transfer-centre-summer-2026-37051",
     "https://www.tntsports.co.uk/football/transfers/2026-2027/deadline-day-summer-2026-done-deals-premier-league-la-liga-serie-a-ligue-1-bundesliga_sto23333078/story.shtml",
@@ -1244,6 +1263,7 @@
     "https://www.skysports.com/football/news/11685/13440165/west-ham-the-inside-story-on-graham-potters-sacking-and-nuno-espirito-santos-swift-appointment",
     "https://www.bundesliga.com/en/bundesliga/news/alexander-blessin-appointed-borussia-monchengladbach-head-coach-39320",
     "https://www.livescore.com/en/news/football/serie-a/official-parma-appoint-gilardino-as-head-coach-after-dismissing-cuesta-football-italia/",
-    "https://www.skysports.com/football/news/13560923/oliver-glasner-to-nottingham-forest-former-crystal-palace-boss-succeeds-vitor-pereira-at-the-city-ground"
+    "https://www.skysports.com/football/news/13560923/oliver-glasner-to-nottingham-forest-former-crystal-palace-boss-succeeds-vitor-pereira-at-the-city-ground",
+    "https://www.beinsports.com/en-au/football/laliga/articles-video/sarabia-named-as-espanyol-manager-2026-10-28"
   ]
 }
