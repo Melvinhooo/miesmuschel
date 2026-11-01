@@ -268,14 +268,14 @@
       "tipps": [
         {
           "id": "rac-rma-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Real Madrid oder Remis (Doppelte Chance)",
           "quote": 1.1,
           "edge_prozent": 3.0,
           "faire_quote": 1.07,
           "empfohlener_einsatz_prozent": 1.5,
           "empfohlener_einsatz_euro": 15.0,
-          "begruendung": "Klassen-Edge Real zu groß für Racing-Aufsteiger auch mit Zabiri-Form. Reine Verlust-Absicherung: Racing-Sieg ~12 %, Rest teilt sich Real-Sieg + Remis. DC X2 = Markt-Goldgrube (+55 % ROI). Niedrige Quote ok als SAFE-Füller. Einsatz 15€ (1,5 %). Quote bei bet365 live prüfen. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value]",
+          "begruendung": "Klassen-Edge Real zu groß für Racing-Aufsteiger auch mit Zabiri-Form. Reine Verlust-Absicherung: Racing-Sieg ~12 %, Rest teilt sich Real-Sieg + Remis. DC X2 = Markt-Goldgrube (+55 % ROI). Niedrige Quote ok als SAFE-Füller. Einsatz 15€ (1,5 %). Quote bei bet365 live prüfen. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value] [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "liga": "LaLiga",
           "_saison_kontext_sanity_downgrade": true
         },
