@@ -1,0 +1,56 @@
+{
+  "spiel_id": "2026-11-01-ath-rso",
+  "saison_kontext": {
+    "parallel_heim": "Europa League Ligaphase MD4 am 29./30.10.2026 - Athletic 2-3 Tage Recovery (EL-Donnerstag), Rotations-Risiko real",
+    "parallel_gast": "keine Europa-Belastung - Real Sociedad in dieser Saison nicht international, frisch",
+    "saisonziel_heim": "LaLiga Top-5 + EL-Weiterkommen; Athletic defensiv stabile Heim-Mannschaft im San Mamés",
+    "saisonziel_gast": "Oberes Mittelfeld + Europa-Comeback; Real Sociedad defensiv-pragmatisch",
+    "motivations_asymmetrie": "Baskenderby - Prestige-Spiel voller Rivalität, taktisch oft eng (viele 1:0/1:1-Ergebnisse historisch). Athletic Heim-Vorteil + EL-Last balanciert = kein klarer Favorit. Real Sociedad frischer, kann auswärts klauen. Coinflip-Charakter - KEIN SAFE auf direkten Athletic-Sieg. 2:0-Insurance gilt NICHT in LaLiga.",
+    "recovery_heim": "2-3 Tage seit EL-Spiel am 29./30.10. - Rotations-Risiko",
+    "recovery_gast": "6-7 Tage frisch (keine Europa-Belastung)",
+    "quellen": [
+      "https://www.athletic-club.eus/en/",
+      "https://www.realsociedad.eus/en/",
+      "https://www.laliga.com/en-FR/laliga-easports",
+      "https://www.uefa.com/uefaeuropaleague/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "ath-rso-1",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.75,
+      "edge_prozent": 5.0,
+      "faire_quote": 1.66,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Baskenderby historisch tortarm (6 der letzten 10 Direktduelle unter 2,5). Beide defensiv-stabil + Athletic EL-Belastung drückt Tempo. Markt-Goldgrube Unter 2.5 (+30 % ROI). Einsatz 15€ (1,5 %). Quote bei bet365 live prüfen.",
+      "liga": "LaLiga"
+    },
+    {
+      "id": "ath-rso-2",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen NEIN",
+      "quote": 1.95,
+      "edge_prozent": 4.0,
+      "faire_quote": 1.88,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Derby-Zu-Null-Pattern: 4 der letzten 10 Direktduelle ohne BTTS. Athletic-Keeper + Real-Sociedad-Defense beide top. Wackel-Einsatz 5€. Quote live prüfen.",
+      "liga": "LaLiga"
+    },
+    {
+      "id": "ath-rso-3",
+      "kategorie": "wackel",
+      "markt": "Athletic Club oder Remis (Doppelte Chance)",
+      "quote": 1.45,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.4,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Athletic-Heim-Edge San Mamés klar, Niederlagen gegen Real Sociedad zuhause selten (3 in 10). DC 1X Goldgrube (+43 %). Wegen EL-Last nur wackel. Einsatz 5€. Quote live prüfen.",
+      "liga": "LaLiga"
+    }
+  ]
+}

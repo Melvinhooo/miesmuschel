@@ -1,0 +1,56 @@
+{
+  "spiel_id": "2026-11-01-liv-ars",
+  "saison_kontext": {
+    "parallel_heim": "Champions League Ligaphase MD4 am 28.10.2026 - Liverpool 3 Tage Recovery, Rotations-Risiko bei Isak/Barcola nach Transfer-Umbau",
+    "parallel_gast": "Champions League Ligaphase MD4 am 28.10.2026 - Arsenal ebenfalls 3 Tage Pause",
+    "saisonziel_heim": "PL-Titel verteidigen + CL weit kommen - Liverpool massiv umgebaut (Salah + Konate + Robertson weg; Isak + Barcola rein; Diaz zu Bayern)",
+    "saisonziel_gast": "PL-Titel endlich - Arsenal mit Hincapie (ex-Leverkusen) + Bruno Guimaraes-Zugang von Newcastle; Jesus zu Barca abgegeben",
+    "motivations_asymmetrie": "Top-Spiel der Runde, beidseitig voll motiviert, keine Rotation. Liverpool-Heim-Vorteil Anfield entscheidend, aber Arsenal defensiv stabil - Coinflip-ähnliche Konstellation. 2:0-Insurance gilt NICHT in Premier League (nur BL + CL).",
+    "recovery_heim": "3 Tage seit CL-Spiel am 28.10.",
+    "recovery_gast": "3 Tage seit CL-Spiel am 28.10.",
+    "quellen": [
+      "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
+      "https://www.liverpoolfc.com/",
+      "https://www.arsenal.com/",
+      "https://www.uefa.com/uefachampionsleague/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "liv-ars-1",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen",
+      "quote": 1.72,
+      "edge_prozent": 5.0,
+      "faire_quote": 1.64,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "BTTS in 7 der letzten 10 Liverpool-Arsenal-Direktduelle. Beide offensive Setups mit Top-Stürmern (Isak, Saka/Trossard). Liga ist Beobachtung → wackel-Deckel. Markt-Goldgrube BTTS JA (+19 %). Einsatz 5€ (0,5 %). Quote bei bet365 live prüfen. Hinweis: Tipp wird vom Schema-Mapper aus einzeltipps[] gedroppt, da Liga 'Premier League - Matchweek 9' in beobachtungs_ligen.json steht - bleibt nur als Spiel-Analyse-Info erhalten.",
+      "liga": "Premier League"
+    },
+    {
+      "id": "liv-ars-2",
+      "kategorie": "wackel",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.85,
+      "edge_prozent": 4.0,
+      "faire_quote": 1.78,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Beide Top-Teams, aber Topspiele oft taktisch 2:1/1:1. Historie Direktduelle: 55 % Über 2.5. CL-Belastung drückt Tempo. Markt-Goldgrube Über 2.5 (+44 %). Wackel-Einsatz 5€. Quote live prüfen. Hinweis: wird wegen Beobachtungs-Liga aus Hauptliste gedroppt.",
+      "liga": "Premier League"
+    },
+    {
+      "id": "liv-ars-3",
+      "kategorie": "moonshot",
+      "markt": "Alexander Isak Torschütze jederzeit",
+      "quote": 3.0,
+      "edge_prozent": 7.0,
+      "faire_quote": 2.75,
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 1.0,
+      "begruendung": "Isak nach Transfer von Newcastle als Liverpool-9er volumenstark (Trikot 9, Standard-Startelf). HR24: zentraler 9er mit Form-Edge, Arsenal-IV ohne Saliba-Stamm bei Rotation anfällig. Markt-Typ Torschützen Jederzeit = Goldgrube (+30 % ROI). Wegen Beobachtungs-Liga nur Moonshot-Spaß 1€ (0,1 %). Quote unter 5 → wird vom Schema-Mapper eventuell weiter gefiltert, nur als Info im Spiel-Block sichtbar. Quote live prüfen.",
+      "liga": "Premier League"
+    }
+  ]
+}

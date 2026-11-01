@@ -1,0 +1,68 @@
+{
+  "spiel_id": "2026-11-01-uni-koe",
+  "saison_kontext": {
+    "parallel_heim": "keine - Union ohne Europa-Belastung, DFB-Pokal 2. Runde 27./28.10. gegen Köln (Rückspiel-Konstellation Pokal/Liga im kurzen Abstand belegt die mentale Energie beider Teams)",
+    "parallel_gast": "keine - Köln ebenfalls ohne Europa; Pokal-Duell gegen Union am 27./28.10. gerade erst gespielt - Doppelbegegnung in einer Woche",
+    "saisonziel_heim": "Mittelfeld-Konsolidierung + Pokal-Weiterkommen; Union etabliert in oberer Tabellenhälfte unter Trainer-Linie der letzten Saison",
+    "saisonziel_gast": "Klassenerhalt-Modus als Aufsteiger - Köln braucht jeden Punkt gegen untere/mittlere Konkurrenz",
+    "motivations_asymmetrie": "Pokal-Duell am Vorlauf (27./28.10.) heizt das Liga-Spiel an - der Verlierer des Pokals kommt mit Druck, der Gewinner mit Schwung. Union-Heim-Vorteil Alte Försterei (Lautstärke, enges Spielfeld) klar, Köln auswärts in Berlin historisch schwer. 2:0-Insurance GILT (Bundesliga)!",
+    "recovery_heim": "3-4 Tage seit Pokal (27./28.10.)",
+    "recovery_gast": "3-4 Tage seit Pokal (27./28.10.)",
+    "quellen": [
+      "https://www.bundesliga.com/de/bundesliga/spieltag/2026-2027/8/1-fc-union-berlin-vs-1-fc-koeln/news",
+      "https://anstosszeiten.de/bundesliga/spiel/union-berlin-fc-koeln/",
+      "https://www.fc-union-berlin.de/",
+      "https://www.fc-koeln.de/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "uni-koe-1",
+      "kategorie": "safe",
+      "markt": "Union Berlin oder Remis (Doppelte Chance)",
+      "quote": 1.3,
+      "edge_prozent": 4.0,
+      "faire_quote": 1.25,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "Union Heim gegen Aufsteiger Köln an der Alten Försterei + Köln auswärts in Berlin ohne Siege-Serie. DC 1X ist Markt-Goldgrube (+43 % ROI). SAFE legitim: BL ist historische Fokus-Liga, Markt-Goldgrube erfüllt. Einsatz 20€ (2 % Kasse Stufe 1). Quote bei bet365 live prüfen.",
+      "liga": "Bundesliga"
+    },
+    {
+      "id": "uni-koe-2",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.8,
+      "edge_prozent": 6.0,
+      "faire_quote": 1.7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Union offensiv ordentlich zuhause, Köln als Aufsteiger löchrig aber auswärts torgefährlich (Volumen-Stürmer-Pattern 2. Liga). BTTS-Markt-Goldgrube (+19 % ROI). Einsatz 15€. Quote live prüfen.",
+      "liga": "Bundesliga"
+    },
+    {
+      "id": "uni-koe-3",
+      "kategorie": "wackel",
+      "markt": "Union Berlin Sieg (90 Min)",
+      "quote": 1.85,
+      "edge_prozent": 5.0,
+      "faire_quote": 1.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Union-Sieg mit 2:0-Insurance (BL-Aktion bet365): Tipp gewinnt bereits bei zwischenzeitlichem 2:0-Vorsprung. Union-Heim-Edge + Köln-Reise-Belastung. Wackel-Einsatz 5€. Quote live prüfen.",
+      "liga": "Bundesliga"
+    },
+    {
+      "id": "uni-koe-4",
+      "kategorie": "wackel",
+      "markt": "Über 2.5 Tore",
+      "quote": 2.0,
+      "edge_prozent": 4.0,
+      "faire_quote": 1.92,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Union offensiv ordentlich, Köln defensiv zweitligatauglich - Tor-Volumen eher erwartbar. Über-2.5-Markt-Goldgrube (+44 % ROI). Wackel-Einsatz 5€. Quote live prüfen.",
+      "liga": "Bundesliga"
+    }
+  ]
+}

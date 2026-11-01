@@ -1,0 +1,56 @@
+{
+  "spiel_id": "2026-11-01-ata-par",
+  "saison_kontext": {
+    "parallel_heim": "Champions League Ligaphase MD4 am 28.10.2026 - Atalanta 3 Tage Recovery (ex Gasperini weg, de Roon zu Roma)",
+    "parallel_gast": "keine - Parma nicht europäisch, frisch",
+    "saisonziel_heim": "CL-Quali-Platz 4-5 - Atalanta nach Gasperini-Abgang zu Roma + de Roon-Verlust im Umbau, defensiv noch nicht stabil",
+    "saisonziel_gast": "Klassenerhalt - Parma als Aufsteiger-Konsolidierer, auswärts löchrig",
+    "motivations_asymmetrie": "Atalanta-Heim-Favorit, aber durch CL-Last + Umbau nach Gasperini-Abgang nicht so klar wie früher. Parma defensiv-pragmatisch kann klauen. Standard-Serie-A-Heim-Favorit-Konstellation mit Rotations-Risiko. 2:0-Insurance gilt NICHT in Serie A.",
+    "recovery_heim": "3 Tage seit CL-Spiel am 28.10.",
+    "recovery_gast": "6-7 Tage frisch",
+    "quellen": [
+      "https://en.atalanta.it/news/serie-a-enilive-2026-27-il-calendario",
+      "https://sport.sky.it/calcio/serie-a/calendario-risultati",
+      "https://www.parmacalcio1913.com/",
+      "https://www.uefa.com/uefachampionsleague/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "ata-par-1",
+      "kategorie": "value",
+      "markt": "Atalanta oder Remis (Doppelte Chance)",
+      "quote": 1.3,
+      "edge_prozent": 4.0,
+      "faire_quote": 1.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Atalanta-Heim-Edge Gewiss Stadium + Parma-Außenseiter + Fitness-Edge gegen Parma. DC 1X Goldgrube (+43 %). CL-Last begrenzt zum SAFE - value. Einsatz 15€. Quote bei bet365 live prüfen.",
+      "liga": "Serie A"
+    },
+    {
+      "id": "ata-par-2",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.9,
+      "edge_prozent": 7.0,
+      "faire_quote": 1.78,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "Atalanta offensiv-mutiger Stil + Parma defensiv löchrig = Tore. Markt-Goldgrube Über 2.5 (+44 % ROI). Einsatz 20€ (2 %). Quote live prüfen.",
+      "liga": "Serie A"
+    },
+    {
+      "id": "ata-par-3",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen",
+      "quote": 1.75,
+      "edge_prozent": 4.0,
+      "faire_quote": 1.68,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Atalanta-Umbau defensiv noch nicht sauber, Parma trifft gelegentlich auswärts. BTTS JA-Markt-Goldgrube (+19 %). Wackel 5€. Quote live prüfen.",
+      "liga": "Serie A"
+    }
+  ]
+}

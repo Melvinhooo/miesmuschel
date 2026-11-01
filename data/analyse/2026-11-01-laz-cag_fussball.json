@@ -1,0 +1,67 @@
+{
+  "spiel_id": "2026-11-01-laz-cag",
+  "saison_kontext": {
+    "parallel_heim": "keine - Lazio in dieser Saison nicht europäisch (verfehlte Qualifikation), frisch",
+    "parallel_gast": "keine - Cagliari in dieser Saison nicht europäisch, frisch",
+    "saisonziel_heim": "Europa-Qualifikation zurück nach ausbleibender Saison - Lazio braucht Heim-Punkte gegen untere Hälfte",
+    "saisonziel_gast": "Klassenerhalt - Cagliari als Mittelfeld-Abstiegskandidat auswärts in Rom schwer",
+    "motivations_asymmetrie": "Lazio-Heim-Favorit mit klarer Erwartung, Cagliari defensiv-kompakt gegen Favoriten aber ohne offensive Punkte. Edge Lazio dank Heim + Frische, aber Serie-A-Standard-Risiko bei Favoriten gegen Klassenerhalt-Teams (0:0/1:0 häufig). 2:0-Insurance gilt NICHT in Serie A.",
+    "recovery_heim": "6-7 Tage frisch",
+    "recovery_gast": "6-7 Tage frisch",
+    "quellen": [
+      "https://sport.sky.it/calcio/serie-a/calendario-risultati",
+      "https://www.sslazio.it/",
+      "https://www.cagliaricalcio.it/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "laz-cag-1",
+      "kategorie": "safe",
+      "markt": "Lazio oder Remis (Doppelte Chance)",
+      "quote": 1.2,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.17,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "Lazio-Heim-Vorteil + Cagliari-Außenseiter + Fitness-Edge beidseits ohne Europa. DC 1X Goldgrube (+43 %). Einsatz 20€ (2 %). Quote bei bet365 live prüfen.",
+      "liga": "Serie A"
+    },
+    {
+      "id": "laz-cag-2",
+      "kategorie": "value",
+      "markt": "Lazio Sieg (90 Min)",
+      "quote": 1.7,
+      "edge_prozent": 5.0,
+      "faire_quote": 1.62,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Direkter Heim-Sieg Lazio bei fairer Quote ca. 1.60-1.70 - Markt-Goldgrube Doppelte Chance ersetzt durch direkten Sieg bei Heim-Favorit (HR Pflicht-Profil Heim-Favorit). Einsatz 15€. Quote live prüfen.",
+      "liga": "Serie A"
+    },
+    {
+      "id": "laz-cag-3",
+      "kategorie": "wackel",
+      "markt": "Mattia Zaccagni Torschütze jederzeit",
+      "quote": 3.5,
+      "edge_prozent": 6.0,
+      "faire_quote": 3.3,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Zaccagni (Lazios Flügel-Volume-Scorer) ist Standardsetter und Volumen-Torschütze. Markt-Goldgrube Torschützen Jederzeit (+30 % ROI). Lazio-Heim gegen Klassenerhalt-Defense = Chance. Wackel 5€. Quote live prüfen.",
+      "liga": "Serie A"
+    },
+    {
+      "id": "laz-cag-4",
+      "kategorie": "wackel",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.3,
+      "edge_prozent": 2.0,
+      "faire_quote": 1.27,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Cagliari defensiv-kompakt, selten 4+-Tor-Spiele. Niedrige Quote - Füll-Tipp. Wackel 5€. Quote live prüfen.",
+      "liga": "Serie A"
+    }
+  ]
+}

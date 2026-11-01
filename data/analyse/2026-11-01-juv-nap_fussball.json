@@ -1,0 +1,68 @@
+{
+  "spiel_id": "2026-11-01-juv-nap",
+  "saison_kontext": {
+    "parallel_heim": "Champions League Ligaphase MD4 am 28.10.2026 - Juve 3 Tage Recovery; zusätzlich Yildiz Langzeit-OP (Metatarsale, laut kader_wechsel_2026.json) + Vlahovic-Abgang zu Besiktas belasten Offensive",
+    "parallel_gast": "Champions League Ligaphase MD4 am 28.10.2026 - Napoli 3 Tage Pause; Lukaku-Abgang zu Fenerbahce + Simeone-Abgang zu Torino schmälern Alternativen",
+    "saisonziel_heim": "CL-Quali-Platz + Scudetto-Außenseiter unter Spalletti - Sturm offensiv limitiert (Alajbegovic-Zugang von Leverkusen + Kolo Muani fix von PSG, Woltemade als Leihe aus Newcastle)",
+    "saisonziel_gast": "Scudetto zurückholen - Napoli nach Conte-Erfolg weiter mit McTominay/De Bruyne im Kreativ-Zentrum; Umbau nach Lukaku-Verkauf",
+    "motivations_asymmetrie": "Big-Match-Niveau auf voller Druck, beide motiviert aber beide offensiv geschwächt (Juve ohne Yildiz/Vlahovic, Napoli ohne Lukaku/Simeone). Edge marginal, Coinflip-Charakter - Unter 2.5 bei beidseitiger Offensiv-Krise denkbar. Serie-A-Standard: 2:0-Insurance gilt NICHT.",
+    "recovery_heim": "3 Tage seit CL-Spiel am 28.10.",
+    "recovery_gast": "3 Tage seit CL-Spiel am 28.10.",
+    "quellen": [
+      "https://www.juventus.com/en/news/articles/kick-off-dates-and-times-of-serie-a-matchdays-6-12-03-09-26",
+      "https://sport.sky.it/calcio/serie-a/calendario-risultati",
+      "https://www.sscnapoli.it/",
+      "https://www.uefa.com/uefachampionsleague/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "juv-nap-1",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.85,
+      "edge_prozent": 7.0,
+      "faire_quote": 1.72,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "Beide Teams offensiv geschwächt durch Transferfenster — Juve ohne Yildiz/Vlahovic, Napoli ohne Lukaku/Simeone. Serie-A-Big-Matches tendieren bei beidseitigem Defensivfokus zu 1:0/1:1/0:0. Markt-Typ Unter 2.5 ist Goldgrube (+30 % ROI laut data/markt_goldgruben.json). Einsatz 20€ (2 % Kasse Stufe 1). Quote bei bet365 live prüfen.",
+      "liga": "Serie A"
+    },
+    {
+      "id": "juv-nap-2",
+      "kategorie": "value",
+      "markt": "Juventus oder Remis (Doppelte Chance)",
+      "quote": 1.4,
+      "edge_prozent": 4.0,
+      "faire_quote": 1.35,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung": "Juve zuhause auch mit Offensiv-Krise defensiv solide, selten Niederlagen in Turin gegen Spitzen-Teams. DC 1X ist Markt-Goldgrube (+43 % ROI). Napoli trotz Qualität auswärts gegen Juve historisch oft nur Remis. Einsatz 10€ (1 %). Quote live prüfen.",
+      "liga": "Serie A"
+    },
+    {
+      "id": "juv-nap-3",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen NEIN",
+      "quote": 1.9,
+      "edge_prozent": 5.0,
+      "faire_quote": 1.8,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Beide offensiv geschwächt (Lukaku/Vlahovic/Yildiz/Simeone alle weg), Zu-Null-Chancen bei beiden erhöht. BTTS-NEIN in 4 der letzten 10 Direktduelle. Wackel-Einsatz 5€ (0,5 %). Quote live prüfen.",
+      "liga": "Serie A"
+    },
+    {
+      "id": "juv-nap-4",
+      "kategorie": "wackel",
+      "markt": "Kevin De Bruyne Torschütze jederzeit",
+      "quote": 4.0,
+      "edge_prozent": 6.0,
+      "faire_quote": 3.75,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "De Bruyne (seit Sommer 2025 bei Napoli, siehe kader_wechsel_2026.json) ist Napolis zentraler Kreativer — in Genua 22.08. als Joker 82. Minute getroffen. Standardsetter + Volume-Shooter. HR24 teilerfüllt (zentral + Backup-Volume + Juve-Defense ohne Stamm-IV wenn Rotation). Markt-Goldgrube Torschützen Jederzeit (+30 %). Wackel-Einsatz 5€. Quote live prüfen.",
+      "liga": "Serie A"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "spiel_id": "2026-11-01-rac-rma",
+  "saison_kontext": {
+    "parallel_heim": "keine - Racing Santander LaLiga-Aufsteiger (2026/27 nach Jahren in Segunda) ohne Europa-Belastung, aktueller Platz Mitte 11 Pkt laut Preview",
+    "parallel_gast": "Champions League Ligaphase MD4 am 28.10.2026 - Real Madrid 3 Tage Pause, Rotations-Risiko bei Stamm (Bellingham/Mbappé) nach El-Clasico-Niederlage vorige Woche",
+    "saisonziel_heim": "Klassenerhalt + Punkte sammeln als Aufsteiger - Racing hat Zabiri (Rennes-Leihe, U20-WM-Torschütze 2025) als Volumen-9er, Hattrick gegen Elche am 28.08. im Sardinero schon dagewesen",
+    "saisonziel_gast": "LaLiga-Titel + CL - Real Madrid Platz 3 mit 24 Pkt vor dem Spiel laut Preview; nach El-Clasico-Niederlage gegen Barca jetzt unter Druck",
+    "motivations_asymmetrie": "Massiver Klassen-Edge für Real (76 % Siegquote laut Preview-Modell), aber CL-Last + Rotations-Druck + Racing-Heim-Atmosphäre im Sardinero + Zabiri als Volumen-Risiko machen den Edge kleiner als die Quote suggeriert. Carvajal spielt jetzt für Getafe, nicht mehr für Real (siehe kader_wechsel_2026.json) - Real auf RV ohne Routinier. 2:0-Insurance gilt NICHT in LaLiga.",
+    "recovery_heim": "6-7 Tage frisch (keine Europa-Belastung)",
+    "recovery_gast": "3 Tage seit CL-Spiel am 28.10.",
+    "quellen": [
+      "https://www.realmadrid.com/de-DE/news/fussball/erste-mannshaft/latest-news/el-racing-santander-real-madrid-se-jugara-el-domingo-1-de-noviembre-a-las-16-15-h-03-10-2026",
+      "https://www.laliga.com/en-FR/clubs/r-racing-club",
+      "https://www.footballdream.in/blog/racing-santander-vs-real-madrid-matchday-11-la-liga-2026-27"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "rac-rma-1",
+      "kategorie": "value",
+      "markt": "Real Madrid oder Remis (Doppelte Chance)",
+      "quote": 1.1,
+      "edge_prozent": 3.0,
+      "faire_quote": 1.07,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Klassen-Edge Real zu groß für Racing-Aufsteiger auch mit Zabiri-Form. Reine Verlust-Absicherung: Racing-Sieg ~12 %, Rest teilt sich Real-Sieg + Remis. DC X2 = Markt-Goldgrube (+55 % ROI). Niedrige Quote ok als SAFE-Füller. Einsatz 15€ (1,5 %). Quote bei bet365 live prüfen. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value]",
+      "liga": "LaLiga",
+      "_saison_kontext_sanity_downgrade": true
+    },
+    {
+      "id": "rac-rma-2",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.6,
+      "edge_prozent": 6.0,
+      "faire_quote": 1.5,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "Real-Offensive (Mbappé + Bellingham + Rodrygo) gegen Aufsteiger-Defense = Tore wahrscheinlich. Racing-Heim-Risiko wenig gegen Real-Qualität. Markt-Goldgrube Über 2.5 (+44 %). Einsatz 20€ (2 %). Quote live prüfen.",
+      "liga": "LaLiga"
+    },
+    {
+      "id": "rac-rma-3",
+      "kategorie": "wackel",
+      "markt": "Yassir Zabiri Torschütze jederzeit",
+      "quote": 3.2,
+      "edge_prozent": 8.0,
+      "faire_quote": 2.95,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Zabiri hat am 28.08. im Sardinero gegen Elche einen Hattrick in 21 Min geschossen (laut kader_wechsel_2026.json). Form-Edge erfüllt + zentraler 9er + Real-IV bei Rotation anfällig = HR24 2/3 erfüllt. Torschützen-Jederzeit-Goldgrube (+30 % ROI). Wackel-Einsatz 5€ (0,5 %). Quote live prüfen.",
+      "liga": "LaLiga"
+    },
+    {
+      "id": "rac-rma-4",
+      "kategorie": "wackel",
+      "markt": "Kylian Mbappé Torschütze jederzeit",
+      "quote": 1.5,
+      "edge_prozent": 4.0,
+      "faire_quote": 1.44,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Mbappé Standard-Torschütze gegen Aufsteiger - Volumen + Klassen-Edge klar. Markt-Goldgrube Torschützen Jederzeit (+30 %). Wackel-Einsatz 5€. Quote live prüfen.",
+      "liga": "LaLiga"
+    }
+  ]
+}
