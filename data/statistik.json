@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-10-31T06:13:57+00:00",
+  "letzte_berechnung": "2026-11-01T06:19:26+00:00",
   "gesamt": {
     "tipps": 336,
     "gewonnen": 190,
@@ -3323,6 +3323,326 @@
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-10-31",
+      "gesamt": {
+        "tipps": 13,
+        "gewonnen": 9,
+        "verloren": 3,
+        "push": 0,
+        "offen": 1,
+        "einsatz": 12.0,
+        "netto": 1.75,
+        "trefferquote": 75.0,
+        "roi_prozent": 14.6
+      },
+      "spiele": [
+        {
+          "id": "2026-10-31-che-mun",
+          "liga": "Premier League 2026/27 - Matchweek 10",
+          "heim": "Chelsea FC",
+          "gast": "Manchester United",
+          "endstand": "2:0",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Chelsea oder Remis (1X)",
+              "quote": 1.35,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.35,
+              "kommentar": "Chelsea gewinnt 2:0 - DC 1X getroffen"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-31-lev-atm",
+          "liga": "LaLiga 2026/27 - Jornada 11",
+          "heim": "Levante UD",
+          "gast": "Atlético de Madrid",
+          "endstand": "0:2",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Atlético oder Remis (X2)",
+              "quote": 1.3,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": "Atletico 0:2-Sieg auswaerts - DC X2 getroffen"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-31-fra-hsv",
+          "liga": "Bundesliga 2026/27 - 8. Spieltag",
+          "heim": "Eintracht Frankfurt",
+          "gast": "Hamburger SV",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Frankfurt oder Remis (1X)",
+              "quote": 1.15,
+              "kategorie": "safe",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Dossier-Fehler: Spiel findet Sonntag 01.11. 17:30 statt, nicht Sa 31.10. - gehoert in Wochenend-Dossier. Tipp bleibt offen fuer die Statistik."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-31-mci-bri",
+          "liga": "Premier League 2026/27 - Matchweek 10",
+          "heim": "Manchester City",
+          "gast": "Brighton & Hove Albion",
+          "endstand": "0:1",
+          "tipps": [
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Nur 1 Tor - Ueber 2.5 verfehlt"
+            },
+            {
+              "markt": "Erling Haaland Torschütze jederzeit",
+              "quote": 1.75,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Haaland hat nicht getroffen - trotz Startelf von Brighton-Defense neutralisiert. Kein Einwechslungs-Boost (Haaland wurde nicht ausgewechselt)"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-31-udi-rom",
+          "liga": "Serie A 2026/27 - Giornata 10",
+          "heim": "Udinese Calcio",
+          "gast": "AS Roma",
+          "endstand": "2:5",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Roma oder Remis (X2)",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.4,
+              "kommentar": "Roma gewinnt 5:2 auswaerts - DC X2 klar getroffen"
+            },
+            {
+              "markt": "Donyell Malen Torschütze jederzeit",
+              "quote": 3.0,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 2.0,
+              "kommentar": "Malen trifft in 33. Minute zum 0:3 - Torschuetze erfuellt"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-31-bay-bvb",
+          "liga": "Bundesliga 2026/27 - 8. Spieltag",
+          "heim": "Bayern München",
+          "gast": "Borussia Dortmund",
+          "endstand": "2:2",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Bayern oder Remis (1X)",
+              "quote": 1.17,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.17,
+              "kommentar": "Remis 2:2 - DC 1X (Bayern o Remis) getroffen"
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.5,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.5,
+              "kommentar": "4 Tore - Ueber 2.5 klar erfuellt"
+            },
+            {
+              "markt": "Luis Díaz Torschütze jederzeit",
+              "quote": 2.4,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Luis Diaz WAR NICHT IM KADER (Oberschenkelverletzung, Dossier nahm Startelf an). Einwechslungs-Boost greift NICHT, da Diaz nicht selbst ausgewechselt wurde - er hat gar nicht gespielt."
+            }
+          ]
+        },
+        {
+          "id": "2026-10-31-mil-int",
+          "liga": "Serie A 2026/27 - Giornata 10",
+          "heim": "AC Milan",
+          "gast": "Inter Mailand",
+          "endstand": "3:1",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Milan oder Remis (1X)",
+              "quote": 1.55,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.55,
+              "kommentar": "Milan gewinnt 3:1 - DC 1X getroffen"
+            }
+          ]
+        },
+        {
+          "id": "2026-10-31-bar-ala",
+          "liga": "LaLiga 2026/27 - Jornada 11",
+          "heim": "FC Barcelona",
+          "gast": "Deportivo Alavés",
+          "endstand": "6:1",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Barcelona oder Remis (1X)",
+              "quote": 1.08,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.08,
+              "kommentar": "Barca gewinnt 6:1 - DC 1X klar getroffen"
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.4,
+              "kommentar": "7 Tore - Ueber 2.5 klar erfuellt"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi 3er",
+          "kategorie": "safe",
+          "gesamtquote": 3.25,
+          "einsatz_prozent": 2.0,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Bayern München Sieg (90 Min)",
+              "quote": 1.5,
+              "status": "verloren",
+              "kommentar": "Bayern nur Remis, kein Sieg. 2:0-Insurance greift NICHT: Bayern fuehrte nie mit 2 Toren Vorsprung (nur 1:0 bis 60. Min, dann 2:1 bis 89.)"
+            },
+            {
+              "markt": "Frankfurt Sieg (90 Min)",
+              "quote": 1.55,
+              "status": "offen",
+              "kommentar": "Dossier-Fehler: Spiel findet Sonntag 01.11. 17:30 statt, nicht Sa 31.10. - gehoert in Wochenend-Dossier. Tipp bleibt offen fuer die Statistik."
+            },
+            {
+              "markt": "Doppelte Chance Roma oder Remis (X2)",
+              "quote": 1.4,
+              "status": "gewonnen",
+              "kommentar": "Roma gewinnt 5:2 auswaerts - DC X2 klar getroffen"
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi 4er",
+          "kategorie": "balance",
+          "gesamtquote": 6.06,
+          "einsatz_prozent": 0.8,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.5,
+              "status": "gewonnen",
+              "kommentar": "4 Tore - Ueber 2.5 klar erfuellt"
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.4,
+              "status": "gewonnen",
+              "kommentar": "7 Tore - Ueber 2.5 klar erfuellt"
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.65,
+              "status": "verloren",
+              "kommentar": "Nur 1 Tor - Ueber 2.5 verfehlt"
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": "Dossier-Fehler: Spiel findet Sonntag 01.11. 17:30 statt, nicht Sa 31.10. - gehoert in Wochenend-Dossier. Tipp bleibt offen fuer die Statistik."
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi 4er",
+          "kategorie": "risk",
+          "gesamtquote": 24.15,
+          "einsatz_prozent": 0.25,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Luis Díaz Torschütze jederzeit",
+              "quote": 2.4,
+              "status": "verloren",
+              "kommentar": "Luis Diaz WAR NICHT IM KADER (Oberschenkelverletzung, Dossier nahm Startelf an). Einwechslungs-Boost greift NICHT, da Diaz nicht selbst ausgewechselt wurde - er hat gar nicht gespielt."
+            },
+            {
+              "markt": "Donyell Malen Torschütze jederzeit",
+              "quote": 3.0,
+              "status": "gewonnen",
+              "kommentar": "Malen trifft in 33. Minute zum 0:3 - Torschuetze erfuellt"
+            },
+            {
+              "markt": "Lamine Yamal Torschütze jederzeit",
+              "quote": 1.95,
+              "status": "gewonnen",
+              "kommentar": "Yamal trifft 2x (46. und 64. Minute) - Torschuetze erfuellt"
+            },
+            {
+              "markt": "Beide Teams treffen - Ja",
+              "quote": 1.72,
+              "status": "gewonnen",
+              "kommentar": "Beide Teams getroffen (Milan 3x, Inter 1x via Bastoni) - BTTS JA erfuellt"
+            }
+          ]
+        },
+        {
+          "name": "Moonshot 4er",
+          "kategorie": "moonshot",
+          "gesamtquote": 110.3,
+          "einsatz_prozent": 0.1,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Erling Haaland 2 oder mehr Tore",
+              "quote": 4.5,
+              "status": "verloren",
+              "kommentar": "Haaland hat gegen Brighton nicht getroffen (0 Tore) - 2+ Tore klar verfehlt"
+            },
+            {
+              "markt": "Beide Teams treffen - Ja",
+              "quote": 1.72,
+              "status": "verloren",
+              "kommentar": "Man Utd blieb torlos - BTTS JA verfehlt"
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.9,
+              "status": "gewonnen",
+              "kommentar": "4 Tore - Ueber 2.5 klar erfuellt"
+            },
+            {
+              "markt": "Levante UD Sieg (90 Min)",
+              "quote": 7.5,
+              "status": "verloren",
+              "kommentar": "Levante verlor 0:2 - Underdog-Sieg-Tipp verfehlt"
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-10-30",
       "gesamt": {

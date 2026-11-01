@@ -3797,7 +3797,31 @@
       "kategorie": "HR10-30-4 PSG-IV-Hattrick: Full-Back-Torschuetzen-Signal (8i)",
       "lesson": "Hakimi (RV/IV) traf 3x + 2 Vorlagen beim 5:1 in Le Havre - 1. Karriere-Hattrick. PSG rotierte nach CL-Dienstag und laesst Hakimi offensiv frei agieren bei Favoritenrolle. Einwechslungs-Boost greift nicht (Hakimi Starter), aber FullBack-Torschuetzen-Markt ist bei PSG-Favoritenspielen gegen untere Ligue-1-Mannschaften als Lotterie-Moonshot-Bein scoutbar. BTTS JA lief hier - 6-Tore-Spiel mit Drehung. HR-Idee: bei PSG-vs-Abstieg + CL-Rotation Full-Back-Jederzeit-Torschuetze als Moonshot-Baustein pruefen (Quote 6-8+). Datenbasis noch n=1, keine Hartregel, nur Beobachtung.",
       "bezug_spiel_id": "2026-10-30-leh-psg"
+    },
+    {
+      "datum": "2026-10-31",
+      "kategorie": "HR10-31-1 Dossier-Routing: Spielplan pro Spiel vor Freigabe gegen bulinews/kicker verifizieren (8h)",
+      "lesson": "Frankfurt-HSV wurde Sa 15:30 im Tages-Dossier terminiert, Spielinfo (bundesliga.com, kicker, hsv.de, hsv-Fixture-List) weist aber Sonntag 01.11. 17:30 aus. Resultat: 3 Tipps dauerhaft offen, Safe-Kombi + Balance-Kombi faelschlich verloren weil ein Bein nicht gespielt wird. Zweiter Routing-Fehler nach Liverpool-Arsenal in diesem Dossier. HR: Routine muss pro Spiel die Anstoss-Zeit aus mindestens einer Pflichtquelle (bundesliga.com/kicker/premierleague.com/laliga.com/serieA.com) ins saison_kontext.quellen[] packen UND das Datum/Uhrzeit explizit mit dem Datei-Fenster vergleichen. Bei Mismatch harten Drop, nicht Soft-Logging.",
+      "bezug_spiel_id": "2026-10-31-fra-hsv"
+    },
+    {
+      "datum": "2026-10-31",
+      "kategorie": "HR10-31-2 Luis Diaz Kader-vs-Startelf: Form-Edge-Pflicht reicht nicht ohne Startelf-Check (8h)",
+      "lesson": "Diaz-Torschuetze @2.40 im Bay-BVB-Klassiker als VALUE gesetzt wegen Leipzig-Hattrick vom 17.10. - er war aber zum Spieltag nicht im Kader (Oberschenkelverletzung, laut Preview Comeback nicht vor Ende November). Spieler-Tipp ohne live-verifizierte Startelf ist nicht Form-Edge, sondern Lotto. HR: fuer alle Torschuetzen-/Spieler-Tipps gilt neben HR24 (Form-Edge letzte 5 Spiele) jetzt zusaetzlich HR-S: Startelf-Verfuegbarkeit innerhalb von 48h vor Anstoss aus mindestens einer Primaerquelle (Klub-Website, kicker.de Aufstellungs-Vorschau) belegt. Fehlt die Quelle, Tipp hart droppen bzw. auf wackel runterziehen, keine SAFE/VALUE auf Spieler-Markt moeglich.",
+      "bezug_spiel_id": "2026-10-31-bay-bvb"
+    },
+    {
+      "datum": "2026-10-31",
+      "kategorie": "HR10-31-3 City-Krise unter Maresca: Heim-DC-1X-Automatik auf Pause (8d)",
+      "lesson": "City verlor zum zweiten Mal in Folge zu Hause (0:1 vs Brighton, Ayari 11.), erster Brighton-Sieg je im Etihad. Guardiola ist nicht mehr auf der Bank (Maresca), Pep rotiert bei PL-Standardspielen nicht mehr. DC 1X @1.15 im Heimspiel gegen Platz-10-Team verloren - das heisst der historische Goldgruben-ROI von DC 1X ist in City-Heimspielen aktuell NICHT verlaesslich. Beobachtung in liga_goldgruben zusammenfassen, wenn 3 solcher Verluste in 10 Spielen auflaufen: liga_goldgruben-Downgrade PL-City-Heim.",
+      "bezug_spiel_id": "2026-10-31-mci-bri"
+    },
+    {
+      "datum": "2026-10-31",
+      "kategorie": "HR10-31-4 2:0-Insurance greift nur bei tatsaechlicher 2-Tore-Fuehrung - BL-Sieg-Tipp bleibt riskant (8e)",
+      "lesson": "Bay-BVB-Sieg @1.50 (bay-bvb-3) verlor, obwohl 2:0-Insurance eingepreist war. Bayern fuehrte nie mit 2 Toren (1:0 bis 60., dann 2:1 bis 89., Equalizer 89.) - Insurance greift nicht, weil die Fuehrung dafuer nie erreicht wurde. Kane verschoss zudem einen Elfmeter in der 2. HZ (haette das 2:0 bedeutet). Lesson: 2:0-Insurance ist eine Zusatzsicherung, kein Freifahrtschein - der Sieg-Tipp bleibt eine SAFE/VALUE-Entscheidung nur wenn Bayern/CL-Favorit historisch oft 2 Tore Vorsprung aufbaut. Fuer Klassiker-Topspiele, die oft knapp sind (Historie Bay-BVB), eher DC 1X statt direkter Sieg - DC gewonnen (@1.17), direkt verloren.",
+      "bezug_spiel_id": "2026-10-31-bay-bvb"
     }
   ],
-  "stand": "2026-10-31T06:13:52+00:00"
+  "stand": "2026-11-01"
 }

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-10-29",
+  "stand": "2026-11-01",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -479,6 +479,16 @@
       "ablöse_mio": 0,
       "hinweis": "Ablaufender Vertrag -> Free Transfer. Nach 9 Jahren Man City. Aufgefallen bei Auswertung 21.10.2026: Bernardo Silva traf zum 1:0 kurz vor HZ beim 4:1 Real gegen Leipzig (CL MD3). 2-Jahres-Vertrag bis 2028. Nicht mehr als City-Spieler tippen.",
       "quelle": "https://citizen.digital/article/bernardo-silva-signs-two-year-deal-with-real-madrid-n384792"
+    },
+    {
+      "spieler": "Luis Diaz (Verletzungs-Hinweis Herbst 2026)",
+      "von": "Bayern Muenchen (bleibt dort)",
+      "nach": "Krankenstand (Oberschenkel-/Fasern-Verletzung)",
+      "datum": "2026-10-30",
+      "hinweis": "AKTUELL VERLETZT. Oberschenkel-/Fasern-Verletzung, Dossier Bay-BVB 31.10. ging irrtuemlich von Startelf-Einsatz aus - Diaz war gar nicht im Kader. Preview sagt Rueckkehr frueestens Ende November. Vor Diaz-Torschuetzen-Tipps bis Comeback IMMER kicker-Aufstellungs-Vorschau und ran.de Verletzungsmeldungen pruefen - Tipp ohne verifiziertes Comeback droppen.",
+      "wiedereinsatzbereit_ab": "unbekannt (Schaetzung Ende Nov 2026)",
+      "quelle": "https://bolavip.com/en/soccer/why-isnt-luis-diaz-playing-today-for-bayern-munich-vs-borussia-dortmund-in-2026-27-bundesliga-matchday-8",
+      "stand": "2026-11-01"
     }
   ],
   "zugaenge_neue_optionen": [
