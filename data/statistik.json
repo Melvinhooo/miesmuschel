@@ -1,50 +1,39 @@
 {
-  "letzte_berechnung": "2026-11-01T06:19:26+00:00",
+  "letzte_berechnung": "2026-11-02T06:25:34+00:00",
   "gesamt": {
-    "tipps": 336,
+    "tipps": 330,
     "gewonnen": 190,
-    "verloren": 129,
+    "verloren": 122,
     "push": 1,
-    "offen": 16,
-    "einsatz": 320.0,
-    "netto": 95.82,
-    "trefferquote": 59.6,
-    "roi_prozent": 29.9
+    "offen": 17,
+    "einsatz": 313.0,
+    "netto": 93.87,
+    "trefferquote": 60.9,
+    "roi_prozent": 30.0
   },
   "letzte_30_tage": {
-    "tipps": 85,
-    "gewonnen": 56,
-    "verloren": 24,
+    "tipps": 99,
+    "gewonnen": 66,
+    "verloren": 27,
     "push": 0,
-    "offen": 5,
-    "einsatz": 80.0,
-    "netto": 1.37,
-    "trefferquote": 70.0,
-    "roi_prozent": 1.7
+    "offen": 6,
+    "einsatz": 93.0,
+    "netto": 18.32,
+    "trefferquote": 71.0,
+    "roi_prozent": 19.7
   },
   "letzte_90_tage": {
-    "tipps": 316,
-    "gewonnen": 180,
-    "verloren": 119,
+    "tipps": 330,
+    "gewonnen": 190,
+    "verloren": 122,
     "push": 1,
-    "offen": 16,
-    "einsatz": 300.0,
-    "netto": 76.92,
-    "trefferquote": 60.2,
-    "roi_prozent": 25.6
+    "offen": 17,
+    "einsatz": 313.0,
+    "netto": 93.87,
+    "trefferquote": 60.9,
+    "roi_prozent": 30.0
   },
   "nach_liga": {
-    "UEFA Champions League - 2. Qualifikationsrunde": {
-      "tipps": 20,
-      "gewonnen": 10,
-      "verloren": 10,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 20.0,
-      "netto": 18.9,
-      "trefferquote": 50.0,
-      "roi_prozent": 94.5
-    },
     "UEFA Champions League - 3. Qualifikationsrunde": {
       "tipps": 10,
       "gewonnen": 3,
@@ -880,152 +869,42 @@
       "netto": 1.55,
       "trefferquote": 100.0,
       "roi_prozent": 77.5
-    }
-  },
-  "nach_markt": {
-    "Ueber 2.5 Tore": {
-      "tipps": 31,
-      "gewonnen": 18,
-      "verloren": 11,
-      "push": 0,
-      "offen": 2,
-      "einsatz": 29.0,
-      "netto": 12.52,
-      "trefferquote": 62.1,
-      "roi_prozent": 43.2
     },
-    "Doppelte Chance Hearts oder X (1X)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Dinamo Zagreb Sieg": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Marko Kvesic Torschuetze Jederzeit": {
-      "tipps": 1,
-      "gewonnen": 1,
+    "Bundesliga 2026/27 - 8. Spieltag": {
+      "tipps": 2,
+      "gewonnen": 2,
       "verloren": 0,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": 2.4,
+      "einsatz": 2.0,
+      "netto": 3.1,
       "trefferquote": 100.0,
-      "roi_prozent": 240.0
+      "roi_prozent": 155.0
     },
-    "Shamrock Rovers Sieg 90min": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
+    "Serie A 2026/27 - Giornata 10": {
+      "tipps": 7,
+      "gewonnen": 5,
+      "verloren": 1,
       "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 1.89,
-      "trefferquote": 100.0,
-      "roi_prozent": 189.0
+      "offen": 1,
+      "einsatz": 6.0,
+      "netto": 9.65,
+      "trefferquote": 83.3,
+      "roi_prozent": 160.8
     },
-    "BTTS Ja": {
-      "tipps": 3,
-      "gewonnen": 1,
+    "LaLiga 2026/27 - Jornada 11": {
+      "tipps": 5,
+      "gewonnen": 3,
       "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 3.0,
-      "netto": 1.91,
-      "trefferquote": 33.3,
-      "roi_prozent": 63.7
-    },
-    "Crvena Zvezda Doppelte Chance 1X": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 1.05,
-      "trefferquote": 100.0,
-      "roi_prozent": 105.0
-    },
-    "Lech Poznan Doppelte Chance 1X": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Fenerbahce Doppelte Chance X2": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 1.2,
-      "trefferquote": 100.0,
-      "roi_prozent": 120.0
-    },
-    "Kings Kangwa Torschuetze Jederzeit": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 2.5,
-      "trefferquote": 100.0,
-      "roi_prozent": 250.0
-    },
-    "Mikael Ishak Torschuetze Jederzeit": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Vasilije Kostov Torschuetze Jederzeit": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Anderson Talisca Torschuetze Jederzeit": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 3.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 300.0
-    },
+      "einsatz": 5.0,
+      "netto": 4.2,
+      "trefferquote": 60.0,
+      "roi_prozent": 84.0
+    }
+  },
+  "nach_markt": {
     "Crvena Zvezda oder Unentschieden": {
       "tipps": 3,
       "gewonnen": 0,
@@ -1137,15 +1016,26 @@
       "roi_prozent": 0.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 16,
-      "gewonnen": 9,
-      "verloren": 7,
+      "tipps": 18,
+      "gewonnen": 10,
+      "verloren": 8,
       "push": 0,
       "offen": 0,
-      "einsatz": 16.0,
-      "netto": 4.85,
-      "trefferquote": 56.2,
-      "roi_prozent": 30.3
+      "einsatz": 18.0,
+      "netto": 6.7,
+      "trefferquote": 55.6,
+      "roi_prozent": 37.2
+    },
+    "Ueber 2.5 Tore": {
+      "tipps": 25,
+      "gewonnen": 15,
+      "verloren": 8,
+      "push": 0,
+      "offen": 2,
+      "einsatz": 23.0,
+      "netto": 7.57,
+      "trefferquote": 65.2,
+      "roi_prozent": 32.9
     },
     "Doppelte Chance 1X: Heidenheim oder Remis": {
       "tipps": 2,
@@ -1753,15 +1643,15 @@
       "roi_prozent": 130.0
     },
     "Über 2.5 Tore": {
-      "tipps": 10,
-      "gewonnen": 5,
+      "tipps": 12,
+      "gewonnen": 6,
       "verloren": 4,
       "push": 0,
-      "offen": 1,
-      "einsatz": 9.0,
-      "netto": 4.15,
-      "trefferquote": 55.6,
-      "roi_prozent": 46.1
+      "offen": 2,
+      "einsatz": 10.0,
+      "netto": 5.75,
+      "trefferquote": 60.0,
+      "roi_prozent": 57.5
     },
     "Sieg Atalanta": {
       "tipps": 1,
@@ -2138,15 +2028,15 @@
       "roi_prozent": 85.0
     },
     "Beide Teams treffen": {
-      "tipps": 5,
-      "gewonnen": 3,
+      "tipps": 6,
+      "gewonnen": 4,
       "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 5.0,
-      "netto": -0.1,
-      "trefferquote": 60.0,
-      "roi_prozent": -2.0
+      "einsatz": 6.0,
+      "netto": 1.7,
+      "trefferquote": 66.7,
+      "roi_prozent": 28.3
     },
     "Sieg Juventus (90 Min)": {
       "tipps": 1,
@@ -2884,75 +2774,108 @@
       "netto": 0.25,
       "trefferquote": 100.0,
       "roi_prozent": 25.0
+    },
+    "Union Berlin oder Remis (Doppelte Chance)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 130.0
+    },
+    "Lazio oder Remis (Doppelte Chance)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.2,
+      "trefferquote": 100.0,
+      "roi_prozent": 120.0
+    },
+    "Lazio Sieg (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.7,
+      "trefferquote": 100.0,
+      "roi_prozent": 170.0
+    },
+    "Juventus oder Remis (Doppelte Chance)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.4,
+      "trefferquote": 100.0,
+      "roi_prozent": 140.0
+    },
+    "Real Madrid oder Remis (Doppelte Chance)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.1,
+      "trefferquote": 100.0,
+      "roi_prozent": 110.0
+    },
+    "Kevin De Bruyne Torschütze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Mattia Zaccagni Torschütze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 3.5,
+      "trefferquote": 100.0,
+      "roi_prozent": 350.0
+    },
+    "Yassir Zabiri Torschütze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Kylian Mbappé Torschütze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.5,
+      "trefferquote": 100.0,
+      "roi_prozent": 150.0
     }
   },
   "nach_markt_typ": {
-    "Ueber 2.5 Tore": {
-      "tipps": 41,
-      "gewonnen": 23,
-      "verloren": 15,
-      "push": 0,
-      "offen": 3,
-      "einsatz": 38.0,
-      "netto": 16.67,
-      "trefferquote": 60.5,
-      "roi_prozent": 43.9
-    },
-    "Doppelte Chance 1X": {
-      "tipps": 21,
-      "gewonnen": 16,
-      "verloren": 5,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 21.0,
-      "netto": 9.11,
-      "trefferquote": 76.2,
-      "roi_prozent": 43.4
-    },
-    "Sieg (1X2 / ML)": {
-      "tipps": 78,
-      "gewonnen": 40,
-      "verloren": 35,
-      "push": 1,
-      "offen": 2,
-      "einsatz": 76.0,
-      "netto": 11.27,
-      "trefferquote": 53.3,
-      "roi_prozent": 14.8
-    },
-    "Torschuetzen Jederzeit": {
-      "tipps": 34,
-      "gewonnen": 12,
-      "verloren": 21,
-      "push": 0,
-      "offen": 1,
-      "einsatz": 33.0,
-      "netto": 9.75,
-      "trefferquote": 36.4,
-      "roi_prozent": 29.5
-    },
-    "Beide Teams treffen JA": {
-      "tipps": 37,
-      "gewonnen": 22,
-      "verloren": 15,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 37.0,
-      "netto": 7.04,
-      "trefferquote": 59.5,
-      "roi_prozent": 19.0
-    },
-    "Doppelte Chance X2": {
-      "tipps": 20,
-      "gewonnen": 15,
-      "verloren": 5,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 20.0,
-      "netto": 11.02,
-      "trefferquote": 75.0,
-      "roi_prozent": 55.1
-    },
     "Crvena Zvezda oder Unentschieden": {
       "tipps": 3,
       "gewonnen": 0,
@@ -2986,27 +2909,93 @@
       "trefferquote": 0.0,
       "roi_prozent": 0.0
     },
-    "Unter 2.5 Tore": {
-      "tipps": 16,
-      "gewonnen": 9,
-      "verloren": 7,
+    "Sieg (1X2 / ML)": {
+      "tipps": 77,
+      "gewonnen": 40,
+      "verloren": 34,
+      "push": 1,
+      "offen": 2,
+      "einsatz": 75.0,
+      "netto": 11.08,
+      "trefferquote": 54.1,
+      "roi_prozent": 14.8
+    },
+    "Beide Teams treffen JA": {
+      "tipps": 34,
+      "gewonnen": 21,
+      "verloren": 13,
       "push": 0,
       "offen": 0,
-      "einsatz": 16.0,
-      "netto": 4.85,
-      "trefferquote": 56.2,
-      "roi_prozent": 30.3
+      "einsatz": 34.0,
+      "netto": 5.13,
+      "trefferquote": 61.8,
+      "roi_prozent": 15.1
+    },
+    "Doppelte Chance X2": {
+      "tipps": 19,
+      "gewonnen": 14,
+      "verloren": 5,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 19.0,
+      "netto": 9.82,
+      "trefferquote": 73.7,
+      "roi_prozent": 51.7
+    },
+    "Unter 2.5 Tore": {
+      "tipps": 18,
+      "gewonnen": 10,
+      "verloren": 8,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 18.0,
+      "netto": 6.7,
+      "trefferquote": 55.6,
+      "roi_prozent": 37.2
+    },
+    "Ueber 2.5 Tore": {
+      "tipps": 37,
+      "gewonnen": 21,
+      "verloren": 12,
+      "push": 0,
+      "offen": 4,
+      "einsatz": 33.0,
+      "netto": 13.32,
+      "trefferquote": 63.6,
+      "roi_prozent": 40.4
+    },
+    "Doppelte Chance 1X": {
+      "tipps": 18,
+      "gewonnen": 15,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 18.0,
+      "netto": 8.06,
+      "trefferquote": 83.3,
+      "roi_prozent": 44.8
     },
     "Doppelte Chance": {
-      "tipps": 57,
-      "gewonnen": 35,
+      "tipps": 61,
+      "gewonnen": 39,
       "verloren": 12,
       "push": 0,
       "offen": 10,
-      "einsatz": 47.0,
-      "netto": 10.05,
-      "trefferquote": 74.5,
-      "roi_prozent": 21.4
+      "einsatz": 51.0,
+      "netto": 15.05,
+      "trefferquote": 76.5,
+      "roi_prozent": 29.5
+    },
+    "Torschuetzen Jederzeit": {
+      "tipps": 29,
+      "gewonnen": 9,
+      "verloren": 19,
+      "push": 0,
+      "offen": 1,
+      "einsatz": 28.0,
+      "netto": 1.85,
+      "trefferquote": 32.1,
+      "roi_prozent": 6.6
     },
     "Inter gewinnt": {
       "tipps": 1,
@@ -3097,15 +3086,15 @@
       "roi_prozent": 185.0
     },
     "Beide Teams treffen": {
-      "tipps": 5,
-      "gewonnen": 3,
+      "tipps": 6,
+      "gewonnen": 4,
       "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 5.0,
-      "netto": -0.1,
-      "trefferquote": 60.0,
-      "roi_prozent": -2.0
+      "einsatz": 6.0,
+      "netto": 1.7,
+      "trefferquote": 66.7,
+      "roi_prozent": 28.3
     },
     "Torschütze jederzeit: Viktor Gyoekeres": {
       "tipps": 1,
@@ -3150,87 +3139,131 @@
       "netto": 0.8,
       "trefferquote": 100.0,
       "roi_prozent": 80.0
+    },
+    "Kevin De Bruyne Torschütze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Mattia Zaccagni Torschütze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 3.5,
+      "trefferquote": 100.0,
+      "roi_prozent": 350.0
+    },
+    "Yassir Zabiri Torschütze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Kylian Mbappé Torschütze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.5,
+      "trefferquote": 100.0,
+      "roi_prozent": 150.0
     }
   },
   "nach_quoten_range": {
-    "1.50-2.00": {
-      "tipps": 152,
-      "gewonnen": 83,
-      "verloren": 66,
-      "push": 0,
-      "offen": 3,
-      "einsatz": 149.0,
-      "netto": 58.46,
-      "trefferquote": 55.7,
-      "roi_prozent": 39.2
-    },
     "1.00-1.50": {
-      "tipps": 147,
-      "gewonnen": 98,
-      "verloren": 38,
+      "tipps": 146,
+      "gewonnen": 100,
+      "verloren": 35,
       "push": 1,
       "offen": 10,
-      "einsatz": 137.0,
-      "netto": 33.41,
-      "trefferquote": 72.1,
-      "roi_prozent": 24.4
+      "einsatz": 136.0,
+      "netto": 36.16,
+      "trefferquote": 74.1,
+      "roi_prozent": 26.6
+    },
+    "1.50-2.00": {
+      "tipps": 149,
+      "gewonnen": 83,
+      "verloren": 62,
+      "push": 0,
+      "offen": 4,
+      "einsatz": 145.0,
+      "netto": 58.16,
+      "trefferquote": 57.2,
+      "roi_prozent": 40.1
     },
     "2.00-3.00": {
-      "tipps": 31,
-      "gewonnen": 7,
-      "verloren": 21,
+      "tipps": 27,
+      "gewonnen": 5,
+      "verloren": 19,
       "push": 0,
       "offen": 3,
-      "einsatz": 28.0,
-      "netto": 0.45,
-      "trefferquote": 25.0,
-      "roi_prozent": 1.6
+      "einsatz": 24.0,
+      "netto": -4.45,
+      "trefferquote": 20.8,
+      "roi_prozent": -18.5
     },
     "3.00+": {
-      "tipps": 6,
+      "tipps": 8,
       "gewonnen": 2,
-      "verloren": 4,
+      "verloren": 6,
       "push": 0,
       "offen": 0,
-      "einsatz": 6.0,
-      "netto": 3.5,
-      "trefferquote": 33.3,
-      "roi_prozent": 58.3
+      "einsatz": 8.0,
+      "netto": 4.0,
+      "trefferquote": 25.0,
+      "roi_prozent": 50.0
     }
   },
   "nach_kategorie": {
     "value": {
-      "tipps": 217,
-      "gewonnen": 119,
-      "verloren": 89,
+      "tipps": 213,
+      "gewonnen": 118,
+      "verloren": 85,
       "push": 1,
-      "offen": 8,
-      "einsatz": 209.0,
-      "netto": 44.37,
-      "trefferquote": 57.2,
-      "roi_prozent": 21.2
+      "offen": 9,
+      "einsatz": 204.0,
+      "netto": 42.77,
+      "trefferquote": 58.1,
+      "roi_prozent": 21.0
     },
     "wackel": {
-      "tipps": 61,
+      "tipps": 60,
       "gewonnen": 29,
-      "verloren": 32,
+      "verloren": 31,
       "push": 0,
       "offen": 0,
-      "einsatz": 61.0,
-      "netto": 17.99,
-      "trefferquote": 47.5,
-      "roi_prozent": 29.5
+      "einsatz": 60.0,
+      "netto": 16.19,
+      "trefferquote": 48.3,
+      "roi_prozent": 27.0
     },
     "safe": {
-      "tipps": 56,
-      "gewonnen": 41,
-      "verloren": 8,
+      "tipps": 55,
+      "gewonnen": 42,
+      "verloren": 6,
       "push": 0,
       "offen": 7,
-      "einsatz": 49.0,
-      "netto": 32.46,
-      "trefferquote": 83.7,
-      "roi_prozent": 66.2
+      "einsatz": 48.0,
+      "netto": 33.91,
+      "trefferquote": 87.5,
+      "roi_prozent": 70.6
     },
     "risk": {
       "tipps": 2,
@@ -3263,15 +3296,15 @@
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 336,
+      "tipps": 330,
       "gewonnen": 190,
-      "verloren": 129,
+      "verloren": 122,
       "push": 1,
-      "offen": 16,
-      "einsatz": 320.0,
-      "netto": 95.82,
-      "trefferquote": 59.6,
-      "roi_prozent": 29.9
+      "offen": 17,
+      "einsatz": 313.0,
+      "netto": 93.87,
+      "trefferquote": 60.9,
+      "roi_prozent": 30.0
     },
     "kasse": {
       "name": "2026/27",
@@ -3290,15 +3323,15 @@
         "start": "2000-01-01",
         "ende": "2026-08-21",
         "bilanz": {
-          "tipps": 158,
-          "gewonnen": 70,
-          "verloren": 76,
+          "tipps": 138,
+          "gewonnen": 60,
+          "verloren": 66,
           "push": 1,
           "offen": 11,
-          "einsatz": 147.0,
-          "netto": 15.77,
-          "trefferquote": 47.9,
-          "roi_prozent": 10.7
+          "einsatz": 127.0,
+          "netto": -3.13,
+          "trefferquote": 47.6,
+          "roi_prozent": -2.5
         },
         "ist_aktuell": false
       },
@@ -3308,21 +3341,325 @@
         "start": "2026-08-22",
         "ende": "2027-06-30",
         "bilanz": {
-          "tipps": 178,
-          "gewonnen": 120,
-          "verloren": 53,
+          "tipps": 192,
+          "gewonnen": 130,
+          "verloren": 56,
           "push": 0,
-          "offen": 5,
-          "einsatz": 173.0,
-          "netto": 80.05,
-          "trefferquote": 69.4,
-          "roi_prozent": 46.3
+          "offen": 6,
+          "einsatz": 186.0,
+          "netto": 97.0,
+          "trefferquote": 69.9,
+          "roi_prozent": 52.2
         },
         "ist_aktuell": true
       }
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-11-01",
+      "gesamt": {
+        "tipps": 14,
+        "gewonnen": 10,
+        "verloren": 3,
+        "push": 0,
+        "offen": 1,
+        "einsatz": 13.0,
+        "netto": 16.95,
+        "trefferquote": 76.9,
+        "roi_prozent": 130.4
+      },
+      "spiele": [
+        {
+          "id": "2026-11-01-juv-nap",
+          "liga": "Serie A 2026/27 - Giornata 10",
+          "heim": "Juventus FC",
+          "gast": "SSC Napoli",
+          "endstand": "2:0",
+          "tipps": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.85,
+              "kommentar": "Unter 2.5 Tore trifft (0:0 HZ, 2:0 FT = 2 Tore)."
+            },
+            {
+              "markt": "Juventus oder Remis (Doppelte Chance)",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.4,
+              "kommentar": "Juve-Sieg → DC 1X erfüllt."
+            },
+            {
+              "markt": "Kevin De Bruyne Torschütze jederzeit",
+              "quote": 4.0,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Napoli ohne Tor, De Bruyne nicht getroffen."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-01-uni-koe",
+          "liga": "Bundesliga 2026/27 - 8. Spieltag",
+          "heim": "1. FC Union Berlin",
+          "gast": "1. FC Köln",
+          "endstand": "1:1",
+          "tipps": [
+            {
+              "markt": "Union Berlin oder Remis (Doppelte Chance)",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.3,
+              "kommentar": "Union verliert nicht (1:1 Remis) → DC 1X erfüllt."
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.8,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.8,
+              "kommentar": "Beide trafen - BTTS JA."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-01-rac-rma",
+          "liga": "LaLiga 2026/27 - Jornada 11",
+          "heim": "Racing de Santander",
+          "gast": "Real Madrid",
+          "endstand": "0:3",
+          "tipps": [
+            {
+              "markt": "Real Madrid oder Remis (Doppelte Chance)",
+              "quote": 1.1,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.1,
+              "kommentar": "Real-Sieg → DC X2 erfüllt."
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.6,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.6,
+              "kommentar": "3 Tore - Über 2.5 erfüllt."
+            },
+            {
+              "markt": "Yassir Zabiri Torschütze jederzeit",
+              "quote": 3.2,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Racing 0 Tore - Zabiri nicht getroffen."
+            },
+            {
+              "markt": "Kylian Mbappé Torschütze jederzeit",
+              "quote": 1.5,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.5,
+              "kommentar": "Mbappé 11' (Elfmeter) - Torschütze jederzeit erfüllt."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-01-ath-rso",
+          "liga": "LaLiga 2026/27 - Jornada 11",
+          "heim": "Athletic Club Bilbao",
+          "gast": "Real Sociedad",
+          "endstand": "2:1",
+          "tipps": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "3 Tore - Unter 2.5 nicht."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-01-laz-cag",
+          "liga": "Serie A 2026/27 - Giornata 10",
+          "heim": "Lazio",
+          "gast": "Cagliari",
+          "endstand": "2:1",
+          "tipps": [
+            {
+              "markt": "Lazio oder Remis (Doppelte Chance)",
+              "quote": 1.2,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.2,
+              "kommentar": "Lazio-Sieg - DC 1X erfüllt."
+            },
+            {
+              "markt": "Lazio Sieg (90 Min)",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.7,
+              "kommentar": "Lazio-Sieg 2:1 im 90-Min-Markt."
+            },
+            {
+              "markt": "Mattia Zaccagni Torschütze jederzeit",
+              "quote": 3.5,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 3.5,
+              "kommentar": "Einwechslungs-Boost: Zaccagni in 56. ausgewechselt für Pinamonti, der in 83. trifft - zählt für Zaccagni-Torschütze."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-01-ata-par",
+          "liga": "Serie A 2026/27 - Giornata 10",
+          "heim": "Atalanta BC",
+          "gast": "Parma Calcio",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Spiel verschoben auf 02.11., noch nicht gespielt."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "🐚 Safe-Kombi 3er (Sonntags-Goldgruben-DC)",
+          "kategorie": "safe",
+          "gesamtquote": 1.72,
+          "einsatz_prozent": 2.0,
+          "status": "gewonnen",
+          "beine": [
+            {
+              "markt": "Union Berlin oder Remis (Doppelte Chance)",
+              "quote": 1.3,
+              "status": "gewonnen",
+              "kommentar": "Union verliert nicht (1:1 Remis) → DC 1X erfüllt."
+            },
+            {
+              "markt": "Lazio oder Remis (Doppelte Chance)",
+              "quote": 1.2,
+              "status": "gewonnen",
+              "kommentar": "Lazio-Sieg - DC 1X erfüllt."
+            },
+            {
+              "markt": "Real Madrid oder Remis (Doppelte Chance)",
+              "quote": 1.1,
+              "status": "gewonnen",
+              "kommentar": "Real-Sieg → DC X2 erfüllt."
+            }
+          ]
+        },
+        {
+          "name": "🐚 Balance-Kombi 3er (Markt-Goldgruben-Mix)",
+          "kategorie": "balance",
+          "gesamtquote": 6.33,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.85,
+              "status": "gewonnen",
+              "kommentar": "Unter 2.5 Tore trifft (0:0 HZ, 2:0 FT = 2 Tore)."
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": "Spiel verschoben auf 02.11., noch nicht gespielt."
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.8,
+              "status": "gewonnen",
+              "kommentar": "Beide trafen - BTTS JA."
+            }
+          ]
+        },
+        {
+          "name": "🐚 Risiko-Kombi 4er (Torschützen + Tor-Totals)",
+          "kategorie": "risk",
+          "gesamtquote": 20.22,
+          "einsatz_prozent": 0.25,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Yassir Zabiri Torschütze jederzeit",
+              "quote": 3.2,
+              "status": "verloren",
+              "kommentar": "Racing 0 Tore - Zabiri nicht getroffen."
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.75,
+              "status": "verloren",
+              "kommentar": "3 Tore - Unter 2.5 nicht."
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": "Spiel verschoben auf 02.11., noch nicht gespielt."
+            },
+            {
+              "markt": "Beide Teams treffen NEIN",
+              "quote": 1.9,
+              "status": "gewonnen",
+              "kommentar": "Napoli 0 Tore → BTTS NEIN trifft."
+            }
+          ]
+        },
+        {
+          "name": "🐚 Moonshot-Kombi 4er (Lotterie)",
+          "kategorie": "moonshot",
+          "gesamtquote": 87.36,
+          "einsatz_prozent": 0.1,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Kevin De Bruyne Torschütze jederzeit",
+              "quote": 4.0,
+              "status": "verloren",
+              "kommentar": "Napoli ohne Tor, De Bruyne nicht getroffen."
+            },
+            {
+              "markt": "Yassir Zabiri Torschütze jederzeit",
+              "quote": 3.2,
+              "status": "verloren",
+              "kommentar": "Racing 0 Tore - Zabiri nicht getroffen."
+            },
+            {
+              "markt": "Mattia Zaccagni Torschütze jederzeit",
+              "quote": 3.5,
+              "status": "gewonnen",
+              "kommentar": "Einwechslungs-Boost: Zaccagni in 56. ausgewechselt für Pinamonti, der in 83. trifft - zählt für Zaccagni-Torschütze."
+            },
+            {
+              "markt": "Beide Teams treffen NEIN",
+              "quote": 1.95,
+              "status": "verloren",
+              "kommentar": "Beide trafen - BTTS NEIN nicht."
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-10-31",
       "gesamt": {
@@ -17404,526 +17741,6 @@
             {
               "markt": "Ueber 2.5 Tore",
               "quote": 1.85,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-07-29",
-      "gesamt": {
-        "tipps": 11,
-        "gewonnen": 7,
-        "verloren": 4,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 11.0,
-        "netto": 12.86,
-        "trefferquote": 63.6,
-        "roi_prozent": 116.9
-      },
-      "spiele": [
-        {
-          "id": "2026-07-29-crv-lar",
-          "liga": "UEFA Champions League - 2. Qualifikationsrunde",
-          "heim": "FK Crvena Zvezda",
-          "gast": "Larne FC",
-          "endstand": "5:0",
-          "tipps": [
-            {
-              "markt": "Crvena Zvezda Doppelte Chance 1X",
-              "quote": 1.05,
-              "kategorie": "safe",
-              "status": "gewonnen",
-              "gewinn_faktor": 1.05,
-              "kommentar": "Crvena Zvezda gewinnt 5:0 - DC 1X = Sieg"
-            },
-            {
-              "markt": "Vasilije Kostov Torschuetze Jederzeit",
-              "quote": 2.2,
-              "kategorie": "wackel",
-              "status": "verloren",
-              "gewinn_faktor": 0.0,
-              "kommentar": "Kostov nicht in Torschuetzenliste (Katai, Arnautovic 2x, Loizou, Bukari). Rotation vor CL Q3 - Kostov offenbar nicht in Startelf. Einwechslungs-Boost-Ersatz Bukari-Tor unklar zuordenbar."
-            },
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.5,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 1.5,
-              "kommentar": "5 Tore > 2.5"
-            }
-          ]
-        },
-        {
-          "id": "2026-07-29-lec-agf",
-          "liga": "UEFA Champions League - 2. Qualifikationsrunde",
-          "heim": "Lech Poznan",
-          "gast": "AGF Aarhus",
-          "endstand": "1:4 n.V. (Pen 3:4)",
-          "tipps": [
-            {
-              "markt": "Lech Poznan Doppelte Chance 1X",
-              "quote": 1.2,
-              "kategorie": "safe",
-              "status": "verloren",
-              "gewinn_faktor": 0.0,
-              "kommentar": "Lech verlor 0:3 in 90min (bet365 DC bezieht sich auf 90min). Aggregat-Drehung 4:1 verspielt."
-            },
-            {
-              "markt": "Mikael Ishak Torschuetze Jederzeit",
-              "quote": 2.3,
-              "kategorie": "wackel",
-              "status": "verloren",
-              "gewinn_faktor": 0.0,
-              "kommentar": "Ishak nicht Torschuetze. Lech-Tor kam von Jagiello (Verlaengerung)."
-            },
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.7,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 1.7,
-              "kommentar": "3 Tore in 90min = Ueber 2.5 (bet365 Ueber/Unter bezieht sich auf 90min inkl. Nachspielzeit)"
-            }
-          ]
-        },
-        {
-          "id": "2026-07-29-gor-fen",
-          "liga": "UEFA Champions League - 2. Qualifikationsrunde",
-          "heim": "Gornik Zabrze",
-          "gast": "Fenerbahce",
-          "endstand": "1:1",
-          "tipps": [
-            {
-              "markt": "Fenerbahce Doppelte Chance X2",
-              "quote": 1.2,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 1.2,
-              "kommentar": "Fenerbahce Remis 1:1 = DC X2 gewonnen"
-            },
-            {
-              "markt": "Anderson Talisca Torschuetze Jederzeit",
-              "quote": 3.0,
-              "kategorie": "wackel",
-              "status": "gewonnen",
-              "gewinn_faktor": 3.0,
-              "kommentar": "Talisca-Elfmeter 12'"
-            }
-          ]
-        },
-        {
-          "id": "2026-07-29-cra-lev",
-          "liga": "UEFA Champions League - 2. Qualifikationsrunde",
-          "heim": "CS Universitatea Craiova",
-          "gast": "Levski Sofia",
-          "endstand": "2:2",
-          "tipps": [
-            {
-              "markt": "BTTS Ja",
-              "quote": 1.91,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 1.91,
-              "kommentar": "BTTS Ja - beide trafen"
-            }
-          ]
-        },
-        {
-          "id": "2026-07-29-hbs-vik",
-          "liga": "UEFA Champions League - 2. Qualifikationsrunde",
-          "heim": "Hapoel Beer Sheva",
-          "gast": "Vikingur Reykjavik",
-          "endstand": "2:0",
-          "tipps": [
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.65,
-              "kategorie": "safe",
-              "status": "verloren",
-              "gewinn_faktor": 0.0,
-              "kommentar": "Nur 2 Tore, Ueber 2.5 verloren"
-            },
-            {
-              "markt": "Kings Kangwa Torschuetze Jederzeit",
-              "quote": 2.5,
-              "kategorie": "wackel",
-              "status": "gewonnen",
-              "gewinn_faktor": 2.5,
-              "kommentar": "Kangwa Torschuetze bestaetigt"
-            }
-          ]
-        }
-      ],
-      "kombis": [
-        {
-          "name": "Safe-Anker Goldgrube-Doppel-Kombi",
-          "kategorie": "safe",
-          "gesamtquote": 3.15,
-          "einsatz_prozent": 2.0,
-          "status": "verloren",
-          "beine": [
-            {
-              "markt": "Hapoel Beer Sheva - Vikingur Reykjavik: Ueber 2.5 Tore",
-              "quote": 1.65,
-              "status": "verloren",
-              "kommentar": "Nur 2 Tore, Ueber 2.5 verloren"
-            },
-            {
-              "markt": "CS Universitatea Craiova - Levski Sofia: BTTS Ja",
-              "quote": 1.91,
-              "status": "gewonnen",
-              "kommentar": "BTTS Ja - beide trafen"
-            }
-          ]
-        },
-        {
-          "name": "Balance Star-Sturm + Auswaerts-Klasse",
-          "kategorie": "value",
-          "gesamtquote": 6.9,
-          "einsatz_prozent": 0.8,
-          "status": "verloren",
-          "beine": [
-            {
-              "markt": "Hapoel Beer Sheva - Vikingur Reykjavik: Kings Kangwa Torschuetze Jederzeit",
-              "quote": 2.5,
-              "status": "gewonnen",
-              "kommentar": "Kangwa Torschuetze bestaetigt"
-            },
-            {
-              "markt": "Lech Poznan - AGF Aarhus: Mikael Ishak Torschuetze Jederzeit",
-              "quote": 2.3,
-              "status": "verloren",
-              "kommentar": "Ishak nicht Torschuetze. Lech-Tor kam von Jagiello (Verlaengerung)."
-            },
-            {
-              "markt": "Gornik Zabrze - Fenerbahce: Fenerbahce Doppelte Chance X2",
-              "quote": 1.2,
-              "status": "gewonnen",
-              "kommentar": "Fenerbahce Remis 1:1 = DC X2 gewonnen"
-            }
-          ]
-        },
-        {
-          "name": "Risiko Torschuetzen-Triple",
-          "kategorie": "risk",
-          "gesamtquote": 16.5,
-          "einsatz_prozent": 0.25,
-          "status": "verloren",
-          "beine": [
-            {
-              "markt": "Gornik Zabrze - Fenerbahce: Anderson Talisca Torschuetze Jederzeit",
-              "quote": 3.0,
-              "status": "gewonnen",
-              "kommentar": "Talisca-Elfmeter 12'"
-            },
-            {
-              "markt": "FK Crvena Zvezda - Larne FC: Vasilije Kostov Torschuetze Jederzeit",
-              "quote": 2.2,
-              "status": "verloren",
-              "kommentar": "Kostov nicht in Torschuetzenliste (Katai, Arnautovic 2x, Loizou, Bukari). Rotation vor CL Q3 - Kostov offenbar nicht in Startelf. Einwechslungs-Boost-Ersatz Bukari-Tor unklar zuordenbar."
-            },
-            {
-              "markt": "Hapoel Beer Sheva - Vikingur Reykjavik: Kings Kangwa Torschuetze Jederzeit",
-              "quote": 2.5,
-              "status": "gewonnen",
-              "kommentar": "Kangwa Torschuetze bestaetigt"
-            }
-          ]
-        },
-        {
-          "name": "Moonshot 5-Torschuetzen-Regenbogen",
-          "kategorie": "moonshot",
-          "gesamtquote": 172.68,
-          "einsatz_prozent": 0.1,
-          "status": "verloren",
-          "beine": [
-            {
-              "markt": "Gornik Zabrze - Fenerbahce: Anderson Talisca Torschuetze Jederzeit",
-              "quote": 3.0,
-              "status": "gewonnen",
-              "kommentar": "Talisca-Elfmeter 12'"
-            },
-            {
-              "markt": "Lech Poznan - AGF Aarhus: Mikael Ishak Torschuetze Jederzeit",
-              "quote": 2.3,
-              "status": "verloren",
-              "kommentar": "Ishak nicht Torschuetze. Lech-Tor kam von Jagiello (Verlaengerung)."
-            },
-            {
-              "markt": "FK Crvena Zvezda - Larne FC: Vasilije Kostov Torschuetze Jederzeit",
-              "quote": 2.2,
-              "status": "verloren",
-              "kommentar": "Kostov nicht in Torschuetzenliste (Katai, Arnautovic 2x, Loizou, Bukari). Rotation vor CL Q3 - Kostov offenbar nicht in Startelf. Einwechslungs-Boost-Ersatz Bukari-Tor unklar zuordenbar."
-            },
-            {
-              "markt": "Hapoel Beer Sheva - Vikingur Reykjavik: Nikolaj Hansen Torschuetze Jederzeit",
-              "quote": 3.25,
-              "status": "verloren",
-              "kommentar": "Hansen (Vikingur) nicht Torschuetze - Vikingur zu Null"
-            },
-            {
-              "markt": "CS Universitatea Craiova - Levski Sofia: Everton Bala Torschuetze Jederzeit",
-              "quote": 3.5,
-              "status": "gewonnen",
-              "kommentar": "Bala Tor 12'"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-07-28",
-      "gesamt": {
-        "tipps": 9,
-        "gewonnen": 3,
-        "verloren": 6,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 9.0,
-        "netto": 6.04,
-        "trefferquote": 33.3,
-        "roi_prozent": 67.1
-      },
-      "spiele": [
-        {
-          "id": "2026-07-28-din-thu",
-          "liga": "UEFA Champions League - 2. Qualifikationsrunde",
-          "heim": "Dinamo Zagreb",
-          "gast": "FC Thun",
-          "endstand": "3:2 n.V.",
-          "tipps": [
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.75,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 1.75,
-              "kommentar": "Ueber 2.5 Tore WIN (4 Tore 90min)"
-            },
-            {
-              "markt": "Dinamo Zagreb Sieg",
-              "quote": 1.43,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": 0.0,
-              "kommentar": "Dinamo Sieg LOSS 90min war 2:2 Draw - 2:0-Insurance nicht anwendbar (Dinamo lag NIE 2:0 vorne, sondern 0:2 zurueck). Erst n.V. Sieg."
-            }
-          ]
-        },
-        {
-          "id": "2026-07-28-cel-egn",
-          "liga": "UEFA Champions League - 2. Qualifikationsrunde",
-          "heim": "NK Celje",
-          "gast": "KF Egnatia Rrogozhine",
-          "endstand": "2:2 n.V. (Celje 4:1 i.E.)",
-          "tipps": [
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.67,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": 0.0,
-              "kommentar": "Ueber 2.5 Tore LOSS (90min 1:1 = 2 Tore)"
-            },
-            {
-              "markt": "Marko Kvesic Torschuetze Jederzeit",
-              "quote": 2.4,
-              "kategorie": "wackel",
-              "status": "gewonnen",
-              "gewinn_faktor": 2.4,
-              "kommentar": "Kvesic Torschuetze WIN (34' Regulaerzeit + 97' pen ET - 34' zaehlt 90min-Torschuetzen)"
-            }
-          ]
-        },
-        {
-          "id": "2026-07-28-hea-stu",
-          "liga": "UEFA Champions League - 2. Qualifikationsrunde",
-          "heim": "Heart of Midlothian",
-          "gast": "SK Sturm Graz",
-          "endstand": "0:2",
-          "tipps": [
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.75,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": 0.0,
-              "kommentar": "Ueber 2.5 LOSS (2 Tore 90min)"
-            },
-            {
-              "markt": "Doppelte Chance Hearts oder X (1X)",
-              "quote": 1.35,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": 0.0,
-              "kommentar": "Hearts DC 1X LOSS (Sturm gewann 0:2)"
-            },
-            {
-              "markt": "BTTS Ja",
-              "quote": 1.72,
-              "kategorie": "wackel",
-              "status": "verloren",
-              "gewinn_faktor": 0.0,
-              "kommentar": "BTTS Ja LOSS (Hearts kein Tor)"
-            }
-          ]
-        },
-        {
-          "id": "2026-07-28-sha-ara",
-          "liga": "UEFA Champions League - 2. Qualifikationsrunde",
-          "heim": "Shamrock Rovers",
-          "gast": "FC Ararat-Armenia",
-          "endstand": "2:1",
-          "tipps": [
-            {
-              "markt": "Shamrock Rovers Sieg 90min",
-              "quote": 1.89,
-              "kategorie": "value",
-              "status": "gewonnen",
-              "gewinn_faktor": 1.89,
-              "kommentar": "Rovers Sieg 90min WIN (2:1)"
-            }
-          ]
-        },
-        {
-          "id": "2026-07-28-kup-sab",
-          "liga": "UEFA Champions League - 2. Qualifikationsrunde",
-          "heim": "KuPS Kuopio",
-          "gast": "Sabah FK",
-          "endstand": "0:2",
-          "tipps": [
-            {
-              "markt": "BTTS Ja",
-              "quote": 1.75,
-              "kategorie": "value",
-              "status": "verloren",
-              "gewinn_faktor": 0.0,
-              "kommentar": "BTTS Ja LOSS (KuPS kein Tor)"
-            }
-          ]
-        }
-      ],
-      "kombis": [
-        {
-          "name": "Safe-Anker Goldgrube-Ueber-Kombi",
-          "kategorie": "safe",
-          "gesamtquote": 2.92,
-          "einsatz_prozent": 2.0,
-          "status": "verloren",
-          "beine": [
-            {
-              "markt": "Celje-Egnatia Ueber 2.5 Tore",
-              "quote": 1.67,
-              "status": "verloren",
-              "kommentar": "Ueber 2.5 Tore LOSS (90min 1:1 = 2 Tore)"
-            },
-            {
-              "markt": "Hearts-Sturm Ueber 2.5 Tore",
-              "quote": 1.75,
-              "status": "verloren",
-              "kommentar": "Ueber 2.5 LOSS (2 Tore 90min)"
-            }
-          ]
-        },
-        {
-          "name": "Balance-Kombi VALUE-Mix 4 Beine",
-          "kategorie": "balance",
-          "gesamtquote": 8.11,
-          "einsatz_prozent": 0.8,
-          "status": "verloren",
-          "beine": [
-            {
-              "markt": "Dinamo Zagreb Sieg",
-              "quote": 1.43,
-              "status": "verloren",
-              "kommentar": "Dinamo Sieg LOSS 90min war 2:2 Draw - 2:0-Insurance nicht anwendbar (Dinamo lag NIE 2:0 vorne, sondern 0:2 zurueck). Erst n.V. Sieg."
-            },
-            {
-              "markt": "Hearts DC 1X",
-              "quote": 1.35,
-              "status": "verloren",
-              "kommentar": "Hearts DC 1X LOSS (Sturm gewann 0:2)"
-            },
-            {
-              "markt": "KuPS-Sabah BTTS Ja",
-              "quote": 1.75,
-              "status": "verloren",
-              "kommentar": "BTTS Ja LOSS (KuPS kein Tor)"
-            },
-            {
-              "markt": "Kvesic Torschuetze Jederzeit",
-              "quote": 2.4,
-              "status": "gewonnen",
-              "kommentar": "Kvesic Torschuetze WIN (34' Regulaerzeit + 97' pen ET - 34' zaehlt 90min-Torschuetzen)"
-            }
-          ]
-        },
-        {
-          "name": "Risiko-Kombi Q2-Underdog-Home-Mix",
-          "kategorie": "risk",
-          "gesamtquote": 14.11,
-          "einsatz_prozent": 0.25,
-          "status": "gewonnen",
-          "beine": [
-            {
-              "markt": "Lincoln DC 1X",
-              "quote": 2.1,
-              "status": "gewonnen",
-              "kommentar": "Lincoln DC 1X WIN (0:0 Draw)"
-            },
-            {
-              "markt": "Shamrock Rovers Sieg 90min",
-              "quote": 1.89,
-              "status": "gewonnen",
-              "kommentar": "Rovers Sieg 90min WIN (2:1)"
-            },
-            {
-              "markt": "BTTS Ja",
-              "quote": 1.9,
-              "status": "gewonnen",
-              "kommentar": "BTTS Ja WIN (beide Teams trafen)"
-            },
-            {
-              "markt": "BTTS Ja",
-              "quote": 1.87,
-              "status": "gewonnen",
-              "kommentar": "BTTS Ja WIN (beide Teams trafen im 90min)"
-            }
-          ]
-        },
-        {
-          "name": "Moonshot Q2-Chaos-Underdog-Away-Wins",
-          "kategorie": "moonshot",
-          "gesamtquote": 85.38,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sturm Graz Sieg 90min (auswaerts)",
-              "quote": 4.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Thun DC X2 (Auswaerts oder Draw)",
-              "quote": 2.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sabah Sieg (Auswaerts)",
-              "quote": 2.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ararat-Armenia Sieg (Auswaerts)",
-              "quote": 4.2,
               "status": "offen",
               "kommentar": ""
             }

@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-01T06:19:26+00:00",
+  "stand": "2026-11-02T06:25:34+00:00",
   "kriterium": "ROI > 15.0% ODER (Trefferquote >= 65.0% UND ROI > 0%) bei min. 5 Tipps",
   "wirkung": "Schema-Mapper bestaetigt SAFE-Tipps in diesen Ligen. Andere SAFE-Tipps werden auf VALUE downgegradet wenn der Markt-Typ nicht in markt_goldgruben.json ist (Hebel C ROI-Sanierung 04.05.).",
   "ligen": [
@@ -18,6 +18,13 @@
       "netto": 8.15
     },
     {
+      "liga": "Serie A 2026/27 - Giornata 10",
+      "tipps": 7,
+      "trefferquote": 83.3,
+      "roi_prozent": 160.8,
+      "netto": 9.65
+    },
+    {
       "liga": "UEFA Champions League - Ligaphase Spieltag 1",
       "tipps": 11,
       "trefferquote": 72.7,
@@ -25,11 +32,11 @@
       "netto": 13.35
     },
     {
-      "liga": "UEFA Champions League - 2. Qualifikationsrunde",
-      "tipps": 20,
-      "trefferquote": 50.0,
-      "roi_prozent": 94.5,
-      "netto": 18.9
+      "liga": "LaLiga 2026/27 - Jornada 11",
+      "tipps": 5,
+      "trefferquote": 60.0,
+      "roi_prozent": 84.0,
+      "netto": 4.2
     },
     {
       "liga": "LaLiga - Jornada 4",

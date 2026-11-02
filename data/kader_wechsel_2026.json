@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-01",
+  "stand": "2026-11-02",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -489,6 +489,22 @@
       "wiedereinsatzbereit_ab": "unbekannt (Schaetzung Ende Nov 2026)",
       "quelle": "https://bolavip.com/en/soccer/why-isnt-luis-diaz-playing-today-for-bayern-munich-vs-borussia-dortmund-in-2026-27-bundesliga-matchday-8",
       "stand": "2026-11-01"
+    },
+    {
+      "spieler": "Andrea Pinamonti",
+      "von": "US Sassuolo",
+      "nach": "Lazio",
+      "datum": "2026-08-27",
+      "hinweis": "Pinamonti seit 27.08.2026 bei Lazio (Vertrag bis 2031). Nicht mehr als Sassuolo-Spieler tippen.",
+      "quelle": "https://www.ysscores.com/en/news/14028809/lazio-officially-signs-andrea-pinamonti"
+    },
+    {
+      "spieler": "Jérémie Boga",
+      "von": "OGC Nice",
+      "nach": "Juventus Turin",
+      "datum": "2026-07-01",
+      "hinweis": "Boga seit 01.07.2026 fest bei Juventus (nach Winter-Leihe + Kaufoption). Nicht mehr als Nice-Spieler tippen.",
+      "quelle": "https://www.ogcnice.com/en/article/130493/boga-completes-permanent-move-to-juventus.html"
     }
   ],
   "zugaenge_neue_optionen": [
@@ -878,6 +894,22 @@
       "datum": "2026-06-17",
       "hinweis": "Free Transfer. Portuguese Playmaker, Mittelfeld. Scorende Rolle beim 4:1 gegen Leipzig (1:0 kurz vor HZ, 21.10.2026). Backup/Rotation hinter Bellingham, aber eigene Torschuetzen-Qualitaet.",
       "quelle": "https://www.realmadrid.com/en-US/news/club/latest-news/comunicado-oficial-mourinho-11-06-2026"
+    },
+    {
+      "spieler": "Andrea Pinamonti",
+      "von": "US Sassuolo",
+      "nach": "Lazio",
+      "datum": "2026-08-27",
+      "hinweis": "Aufgefallen bei Auswertung 01.11.2026: Pinamonti kam in 56. fuer Zaccagni und traf in 83. zum 2:1-Siegtor gegen Cagliari (Serie A G10). Volumen-9er bei Lazio, Standard-Backup fuer Zaccagni/Castellanos - Einwechslungs-Boost-Trigger fuer Zaccagni-Torschuetzen-Tipps.",
+      "quelle": "https://www.ysscores.com/en/news/14028809/lazio-officially-signs-andrea-pinamonti"
+    },
+    {
+      "spieler": "Jérémie Boga",
+      "von": "OGC Nice",
+      "nach": "Juventus Turin",
+      "datum": "2026-07-01",
+      "hinweis": "Aufgefallen bei Auswertung 01.11.2026: Boga traf in 87. zum 2:0 gegen Napoli (Serie A G10). Nach Winter-Leihe 02.2026 fester Transfer per Kaufoption im Juni 2026 (Vertrag bis 2029). Fluegel-Scorer, Backup-Volumen fuer Juve-Offensive ohne Yildiz/Vlahovic.",
+      "quelle": "https://www.ogcnice.com/en/article/130493/boga-completes-permanent-move-to-juventus.html"
     }
   ],
   "trainer_2026_27": [
