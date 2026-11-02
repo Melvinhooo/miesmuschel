@@ -1,0 +1,479 @@
+{
+  "datum": "2026-11-02",
+  "erstellt_am": "2026-11-02T13:55:00+01:00",
+  "hinweis": "Watchdog-Recovery Mo 02.11. (Hauptroutine 13:30 hat nicht geliefert). Nur 3 Spiele im Fenster: zwei Serie-A-Posticipi (Giornata 10 schliesst am Montag ab) plus PL Monday Night in St James'. Serie A G10 ist aktuell Liga-Goldgrube (ROI +160.8%), PL Matchweek 9 steht als Beobachtungs-Liga (rolling 30d ROI -77%) - deshalb Newcastle-Everton nur Wackel. Kasse-Stufe 1 (1000EUR Saison-Start 2026/27) - Einzel SAFE/VALUE 10-20EUR, Wackel 5EUR. Moonshot bei 3-Spiele-Slate ehrlich nur ~82x, nicht 100x+.",
+  "spiele": [
+    {
+      "id": "2026-11-02-sas-fio",
+      "liga": "Serie A 2026/27 - Giornata 10",
+      "heim": "US Sassuolo",
+      "gast": "ACF Fiorentina",
+      "anstoss": "2026-11-02T18:30:00+01:00",
+      "stadion": "MAPEI Stadium, Reggio Emilia",
+      "saison_kontext": {
+        "parallel_heim": "keine - Sassuolo 2026/27 ohne Europapokal (Aufsteiger aus Serie B)",
+        "parallel_gast": "Conference-League-Ligaphase laeuft parallel; naechster Fio-Termin Do 05.11. (3 Tage danach) - Rotations-Risiko bei Stammspielern",
+        "saisonziel_heim": "Klassenerhalt nach Aufstieg, Mittelfeld-Mapei muss offensiv punkten",
+        "saisonziel_gast": "Rueckkehr Richtung Conference/Europa-Plaetze - aktuell Form-Krise (3 Spiele ohne Sieg: Pleite Como, Pleite Inter, 2:2 Atalanta)",
+        "motivations_asymmetrie": "Fiorentina muss gewinnen (3 Spiele sieglos, Trainer unter Druck) - aber Conference-Donnerstag drueckt auf Startelf. Sassuolo zuhause mit Mapei-Boost, 1:1 vs Milan und 0:2 bei Como - Mittelfeld-Form.",
+        "recovery_heim": "9 Tage seit 0:2 bei Como (24.10.) - voll ausgeruht",
+        "recovery_gast": "4 Tage seit 2:2 vs Atalanta (29.10.) - Conference-Spiel Do 05.11. in 3 Tagen danach, Rotation sehr wahrscheinlich",
+        "quellen": [
+          "https://en.legaseriea.it/team/fiorentina",
+          "https://en.legaseriea.it/team/sassuolo",
+          "https://www.fantacalcio.it/news/calcio-italia/30_10_2026/serie-a-gli-arbitri-della-10-giornata-guida-dirige-il-derby-di-milano-sozza-juventus-napoli-500002",
+          "https://www.uefa.com/uefaconferenceleague/fixtures-results/"
+        ]
+      },
+      "news": [
+        "Serie A G10 schliesst am Mo 02.11. mit Sassuolo-Fiorentina 18:30 und Atalanta-Parma 20:45",
+        "Fiorentina ohne Sieg in den letzten 3 Spielen (vs Como 1:3, bei Inter 1:2, vs Atalanta 2:2) - Vanoli unter Druck",
+        "Pinamonti seit 27.08.2026 bei Lazio - Sassuolos Sturm neu zusammengesetzt (Volpato/Laurienté-Zentrum)",
+        "Fiorentina mit Conference-Spiel Do 05.11. - Startelf-Rotation moeglich",
+        "Beide Teams in den letzten 3 Spielen immer min. 1 Gegentor kassiert"
+      ],
+      "tipps": [
+        {
+          "id": "sas-fio-1",
+          "kategorie": "value",
+          "markt": "Fiorentina oder Remis (Doppelte Chance X2)",
+          "quote": 1.65,
+          "edge_prozent": 6.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance X2 (73.7% Hit / +51.7% ROI). Fiorentina hat Not-Sieg-Druck, Sassuolo nur Mittelfeld-Form. Historisch sind Fiorentina-Auswaertsspiele gegen Serie-A-Aufsteiger stark. Einsatz Stufe 1 bei 1000EUR Kasse: ~15EUR (1.5%). Bei bet365 live pruefen.",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "sas-fio-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.8,
+          "edge_prozent": 7.0,
+          "begruendung": "Markt-Goldgrube BTTS Ja (61.8% / +15.1%). Beide Teams in letzten 3 Spielen Gegentore kassiert, Fiorentina hat Offensivdruck. Mapei historisch tor-reich. Stufe 1 Einsatz ~15EUR. Live pruefen.",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "sas-fio-3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "edge_prozent": 4.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (63.6% / +40.4%). Beide Teams defensiv wackelig, Druckspiel = oft 3+ Tore. Aber Fiorentina-Rotation mindert Chancenverwertung. Stufe 1 Einsatz ~5EUR (0.5%).",
+          "faire_quote": 2.05,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-02-ata-par",
+      "liga": "Serie A 2026/27 - Giornata 10",
+      "heim": "Atalanta BC",
+      "gast": "Parma Calcio",
+      "anstoss": "2026-11-02T20:45:00+01:00",
+      "stadion": "Gewiss Stadium, Bergamo",
+      "saison_kontext": {
+        "parallel_heim": "UEFA Champions League Ligaphase laeuft parallel - Atalanta MD4 am Mi 04.11. (nur 2 Tage danach!) - akute CL-Last, HR3 Rotation hoechst wahrscheinlich bei Stammspielern",
+        "parallel_gast": "keine - Parma 2026/27 ohne Europapokal",
+        "saisonziel_heim": "Rueckkehr in CL-Plaetze - unter neuem Trainer Juric Form noch nicht konstant (1:3 bei Milan, 2:2 bei Fiorentina)",
+        "saisonziel_gast": "Klassenerhalt - 0:3 vs Torino zuletzt (19.10.) war Alarmsignal, Defense in Krise",
+        "motivations_asymmetrie": "Atalanta Heim-Favorit gegen schwaches Parma - ABER CL in 48h, Juric rotiert mit hoher Wahrscheinlichkeit. Parma mit Not-Druck. Edge kleiner als nominale Quote suggeriert.",
+        "recovery_heim": "4 Tage seit 2:2 bei Fiorentina (29.10.) - CL in 2 Tagen bedeutet maximales Rotations-Risiko bei Retegui/Lookman-Ersatz/Flankenspielern",
+        "recovery_gast": "14 Tage seit 0:3 vs Torino (19.10.) - voll ausgeruht aber ohne Spielpraxis",
+        "quellen": [
+          "https://en.legaseriea.it/team/atalanta",
+          "https://en.legaseriea.it/team/parma",
+          "https://www.fantacalcio.it/news/calcio-italia/30_10_2026/serie-a-gli-arbitri-della-10-giornata-guida-dirige-il-derby-di-milano-sozza-juventus-napoli-500002",
+          "https://www.uefa.com/uefachampionsleague/fixtures-results/"
+        ]
+      },
+      "news": [
+        "Atalanta mit CL Matchday 4 am Mi 04.11. - Rotation unausweichlich (HR3)",
+        "Parma 0:3 zuhause gegen Torino (19.10.) - Defense in akuter Krise",
+        "Lookman seit Februar bei Atletico Madrid - Atalantas Offensive um Retegui umgebaut",
+        "de Roon seit 30.08.2026 bei Roma - Atalanta-Mittelfeld neu",
+        "Giornata 10 Liga-Goldgrube: 83.3% Hitrate / +160.8% ROI aktuell"
+      ],
+      "tipps": [
+        {
+          "id": "ata-par-1",
+          "kategorie": "value",
+          "markt": "Sieg Atalanta (90 Min)",
+          "quote": 1.65,
+          "edge_prozent": 8.0,
+          "begruendung": "Serie A G10 Liga-Goldgrube + Heim-Favorit gegen Parma mit Defense-Krise. Trotz CL-Rotation sollte Atalantas Qualitaet reichen. Einsatz Stufe 1 bei 1000EUR Kasse: 15EUR (1.5%). bet365 live pruefen. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value]",
+          "faire_quote": 1.53,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_saison_kontext_sanity_downgrade": true
+        },
+        {
+          "id": "ata-par-2",
+          "kategorie": "wackel",
+          "markt": "Atalanta oder Remis (Doppelte Chance 1X)",
+          "quote": 1.25,
+          "edge_prozent": 10.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance 1X (83.3% / +44.8%). Niedrige Quote aber bei CL-Rotation sinnvoll als DC. Einsatz 20EUR (2%). bet365 live pruefen. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
+          "faire_quote": 1.14,
+          "empfohlener_einsatz_prozent": 2.0,
+          "_saison_kontext_sanity_downgrade": true
+        },
+        {
+          "id": "ata-par-3",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.7,
+          "edge_prozent": 7.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (63.6% / +40.4%). Atalanta offensiv auch mit Rotation, Parma kassiert gerne (3 Tore in letzter Partie). Einsatz 15EUR (1.5%).",
+          "faire_quote": 1.59,
+          "empfohlener_einsatz_prozent": 1.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-02-new-eve",
+      "liga": "Premier League 2026/27 - Matchweek 9",
+      "heim": "Newcastle United",
+      "gast": "Everton FC",
+      "anstoss": "2026-11-02T21:00:00+01:00",
+      "stadion": "St James' Park, Newcastle",
+      "saison_kontext": {
+        "parallel_heim": "keine - Newcastle 2026/27 ohne europaeischen Hauptwettbewerb aktuell im Matchweek-Fenster; EFL-Cup 4. Runde am 29.10. bereits gespielt (1:3 verloren gegen Everton!)",
+        "parallel_gast": "keine - Everton nur Premier League und EFL-Cup",
+        "saisonziel_heim": "Rueckkehr Richtung Top-6 nach Umbruch (Isak/Gordon/Tonali/Guimaraes alle weg) - Volume-Sturm mit Woltemade/Wissa/Elanga noch im Finden",
+        "saisonziel_gast": "Mittelfeld-Konsolidierung nach Villa-Jackson-Umbruch, aktuell Form-Hoch (3:1 EFL-Cup bei Newcastle am 29.10.)",
+        "motivations_asymmetrie": "Everton kommt vom 3:1-Sieg im St James' Park (EFL-Cup, 29.10.) - mentales Momentum. Newcastle muss Punkte gegen die eigene Krise sammeln. Newcastle Heim-Vorteil aber eigene PL-Form nicht ueberzeugend. PL MW9 steht als Beobachtungs-Liga (-77% ROI 30d), deshalb hier konservativ.",
+        "recovery_heim": "4 Tage seit 1:3 EFL-Cup vs Everton (29.10.) - gleicher Gegner, revenge-Mentalitaet. Vorher PL-Match am 26.10./27.10.",
+        "recovery_gast": "4 Tage seit 3:1 EFL-Cup bei Newcastle (29.10.) + 2:0 bei Arsenal (24.10.) - heiss aber viele Spiele kurz hintereinander",
+        "quellen": [
+          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
+          "https://premierleaguenewsnow.com/2026/11/01/newcastle-everton-preview-team-news-lineups-prediction/",
+          "https://www.sportsgambler.com/betting-tips/football/newcastle-vs-everton-prediction-lineups-odds-2026-11-02/",
+          "https://www.toffeeweb.com/season/26-27/news/newcastle-utd-vs-everton-match-preview-and-team-news/"
+        ]
+      },
+      "news": [
+        "Everton gewann 3:1 im EFL-Cup bei Newcastle vor 4 Tagen - mentaler Vorteil Everton",
+        "Isak (jetzt Liverpool), Gordon (jetzt Barcelona), Tonali (Tottenham), Bruno Guimaraes (Arsenal) alle weg - Newcastle im Kader-Umbruch",
+        "Newcastle Neuzugaenge Woltemade (ex Stuttgart) + Wissa (ex Brentford) + Elanga (ex Forest) als Volume-Sturm",
+        "PL MW9 ist Beobachtungs-Liga (-77.0% ROI 30d) - deshalb nur Wackel-Tipps hier, kein SAFE/VALUE",
+        "Newcastle keine Clean Sheet zuhause diese Saison"
+      ],
+      "tipps": [
+        {
+          "id": "new-eve-1",
+          "kategorie": "wackel",
+          "markt": "Newcastle oder Remis (Doppelte Chance 1X)",
+          "quote": 1.5,
+          "edge_prozent": 3.0,
+          "begruendung": "Beobachtungs-Liga PL MW9 (-77% ROI) - deshalb bewusst nur Wackel, kein SAFE/VALUE auch bei DC-Markt-Goldgrube. Newcastle Heimvorteil aber Everton frisch vom 3:1 EFL-Cup. Einsatz 5EUR (0.5%). bet365 live pruefen.",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "new-eve-2",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.7,
+          "edge_prozent": 5.0,
+          "begruendung": "Newcastle ohne Clean Sheet zuhause, Everton offensiv heiss (2:0 bei Arsenal + 3:1 bei Newcastle). Markt-Goldgrube BTTS Ja aber in Beob-Liga nur Wackel. Einsatz 5EUR.",
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "ata-par-1",
+      "spiel_id": "2026-11-02-ata-par",
+      "spiel_label": "Atalanta vs Parma",
+      "kategorie": "safe",
+      "markt": "Sieg Atalanta (90 Min)",
+      "quote": 1.65,
+      "edge_prozent": 8.0,
+      "begruendung": "Serie A G10 Liga-Goldgrube (+160.8% ROI) + Heim-Favorit gegen Parma mit Defense-Krise (0:3 vs Torino zuletzt). CL in 48h bedeutet Rotation, aber Atalantas Qualitaet reicht. Einsatz Stufe 1 bei 1000EUR: 15EUR (1.5%). bet365 live pruefen.",
+      "faire_quote": 1.53,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
+    },
+    {
+      "id": "sas-fio-1",
+      "spiel_id": "2026-11-02-sas-fio",
+      "spiel_label": "Sassuolo vs Fiorentina",
+      "kategorie": "value",
+      "markt": "Fiorentina oder Remis (Doppelte Chance X2)",
+      "quote": 1.65,
+      "edge_prozent": 6.0,
+      "begruendung": "Markt-Goldgrube Doppelte Chance X2 (73.7% / +51.7%). Fiorentina Not-Druck nach 3 Spielen ohne Sieg, Sassuolo Mittelfeld-Form. Einsatz 15EUR (1.5%). bet365 live pruefen.",
+      "faire_quote": 1.55,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
+    },
+    {
+      "id": "ata-par-2",
+      "spiel_id": "2026-11-02-ata-par",
+      "spiel_label": "Atalanta vs Parma",
+      "kategorie": "value",
+      "markt": "Atalanta oder Remis (Doppelte Chance 1X)",
+      "quote": 1.25,
+      "edge_prozent": 10.0,
+      "begruendung": "Markt-Goldgrube Doppelte Chance 1X (83.3% / +44.8%). Als DC-Hedge gegen CL-Rotation. Einsatz 20EUR (2%).",
+      "faire_quote": 1.14,
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 3
+    },
+    {
+      "id": "ata-par-3",
+      "spiel_id": "2026-11-02-ata-par",
+      "spiel_label": "Atalanta vs Parma",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.7,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (63.6% / +40.4%). Atalanta offensiv, Parma defensiv gebrochen. Einsatz 15EUR (1.5%).",
+      "faire_quote": 1.59,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
+    },
+    {
+      "id": "sas-fio-2",
+      "spiel_id": "2026-11-02-sas-fio",
+      "spiel_label": "Sassuolo vs Fiorentina",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.8,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube BTTS Ja (61.8% / +15.1%). Beide Teams in letzten 3 Spielen Gegentore. Fiorentina offensiver Druck. Einsatz 15EUR (1.5%).",
+      "faire_quote": 1.7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5
+    },
+    {
+      "id": "sas-fio-3",
+      "spiel_id": "2026-11-02-sas-fio",
+      "spiel_label": "Sassuolo vs Fiorentina",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.9,
+      "edge_prozent": 4.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (63.6% / +40.4%). Beide defensiv wackelig aber Fiorentina-Rotation mindert Chancen-Volumen. Einsatz 5EUR (0.5%).",
+      "faire_quote": 2.05,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 6
+    },
+    {
+      "id": "new-eve-1",
+      "spiel_id": "2026-11-02-new-eve",
+      "spiel_label": "Newcastle vs Everton",
+      "kategorie": "wackel",
+      "markt": "Newcastle oder Remis (Doppelte Chance 1X)",
+      "quote": 1.5,
+      "edge_prozent": 3.0,
+      "begruendung": "PL MW9 Beobachtungs-Liga (-77% ROI 30d) - deshalb bewusst nur Wackel trotz DC-Markt-Goldgrube. Newcastle Heim-Vorteil aber Everton heiss nach 3:1 EFL-Cup-Sieg vor 4 Tagen. Einsatz 5EUR (0.5%). bet365 live pruefen.",
+      "faire_quote": 1.55,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 7
+    },
+    {
+      "id": "new-eve-2",
+      "spiel_id": "2026-11-02-new-eve",
+      "spiel_label": "Newcastle vs Everton",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen",
+      "quote": 1.7,
+      "edge_prozent": 5.0,
+      "begruendung": "Newcastle keine Clean Sheet zuhause diese Saison, Everton offensiv heiss. Markt-Goldgrube BTTS Ja aber Beob-Liga -> nur Wackel. Einsatz 5EUR.",
+      "faire_quote": 1.6,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "kategorie": "safe",
+      "name": "Mo-Safe (3 DC-Beine, G10-Goldgrube)",
+      "beine": [
+        {
+          "spiel_id": "2026-11-02-ata-par",
+          "spiel_label": "Atalanta vs Parma",
+          "markt": "Atalanta oder Remis (Doppelte Chance 1X)",
+          "quote": 1.25,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-11-02-sas-fio",
+          "spiel_label": "Sassuolo vs Fiorentina",
+          "markt": "Fiorentina oder Remis (Doppelte Chance X2)",
+          "quote": 1.65,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-11-02-new-eve",
+          "spiel_label": "Newcastle vs Everton",
+          "markt": "Newcastle oder Remis (Doppelte Chance 1X)",
+          "quote": 1.5,
+          "kategorie": "safe"
+        }
+      ],
+      "gesamtquote": 3.09,
+      "rechnung": "1.25 x 1.65 x 1.50 = 3.09",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "Drei DC-Tipps aus 3 verschiedenen Spielen - Mix aus Serie-A-G10-Goldgrube (Atalanta DC 1X, Fiorentina DC X2) und PL-Beob-Liga-Hedge (Newcastle DC 1X). Einsatz 2% der Kasse (20EUR bei 1000EUR). bet365 live pruefen - Quoten koennen bis 18:30 schwanken."
+    },
+    {
+      "id": "kombi-balance",
+      "kategorie": "balance",
+      "name": "Mo-Balance (3 Tor-Beine Markt-Mix)",
+      "beine": [
+        {
+          "spiel_id": "2026-11-02-ata-par",
+          "spiel_label": "Atalanta vs Parma",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.7,
+          "kategorie": "balance"
+        },
+        {
+          "spiel_id": "2026-11-02-sas-fio",
+          "spiel_label": "Sassuolo vs Fiorentina",
+          "markt": "Beide Teams treffen",
+          "quote": 1.8,
+          "kategorie": "balance"
+        },
+        {
+          "spiel_id": "2026-11-02-new-eve",
+          "spiel_label": "Newcastle vs Everton",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.0,
+          "kategorie": "balance"
+        }
+      ],
+      "gesamtquote": 6.12,
+      "rechnung": "1.70 x 1.80 x 2.00 = 6.12",
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 8.0,
+      "begruendung": "Reiner Markt-Mix ohne Sieg-Outcomes (die alle in Safe) - 2x Ueber 2.5 + 1x BTTS. Beide Serie-A-Spiele mit Rotation-Gegnern plus Monday-Night-Druck. Einsatz 0.8% (8EUR bei 1000EUR).",
+      "layer_notes": "Layer-2 sauber - keine Sieg-Outcomes doppelt. Layer-3 soft bei 3-Spiele-Slate: Markt-entkoppelt zu Safe-Kombi (DC vs Ü2.5/BTTS)."
+    },
+    {
+      "id": "kombi-risiko",
+      "kategorie": "risk",
+      "name": "Mo-Risiko (Tor-Volumen in allen 3 Spielen)",
+      "beine": [
+        {
+          "spiel_id": "2026-11-02-ata-par",
+          "spiel_label": "Atalanta vs Parma",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 3.0,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-11-02-sas-fio",
+          "spiel_label": "Sassuolo vs Fiorentina",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-11-02-new-eve",
+          "spiel_label": "Newcastle vs Everton",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 3.5,
+          "kategorie": "risk"
+        }
+      ],
+      "gesamtquote": 19.95,
+      "rechnung": "3.00 x 1.90 x 3.50 = 19.95",
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 2.5,
+      "begruendung": "Tor-Fiesta-Kombi (alle 3 Spiele mit 4+ Toren, auf Ü2.5 bei Sa-Fio). Grosse Spannbreite der Teams. Einsatz 0.25% (2.50EUR). bet365 live pruefen.",
+      "layer_notes": "Keine Sieg-Outcomes - Layer-2 sauber. Markt-entkoppelt zu Balance."
+    },
+    {
+      "id": "kombi-moonshot",
+      "kategorie": "moonshot",
+      "name": "Mo-Moonshot (ehrlich ~82x, nicht 100x+ bei 3-Spiele-Slate)",
+      "beine": [
+        {
+          "spiel_id": "2026-11-02-ata-par",
+          "spiel_label": "Atalanta vs Parma",
+          "markt": "Ueber 4.5 Tore",
+          "quote": 6.0,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-11-02-sas-fio",
+          "spiel_label": "Sassuolo vs Fiorentina",
+          "markt": "Ueber 4.5 Tore",
+          "quote": 8.0,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-11-02-new-eve",
+          "spiel_label": "Newcastle vs Everton",
+          "markt": "Beide Teams treffen",
+          "quote": 1.7,
+          "kategorie": "moonshot"
+        }
+      ],
+      "gesamtquote": 81.6,
+      "rechnung": "6.00 x 8.00 x 1.70 = 81.60",
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 1.0,
+      "begruendung": "Ehrlich: mit nur 3 Spielen und schon verbrauchten Sieg-Outcomes kein echter 100x+ Moonshot moeglich - 82x ist Spass-Lotterie. Zwei Serie-A-Posticipi mit 5+ Toren plus BTTS Newcastle-Everton. Einsatz 1EUR (0.1%).",
+      "layer_notes": "Honest-Moonshot-Hinweis: 100x+ nicht erreichbar bei 3-Spiele-Slate ohne Spielertor-Tipps (Squad-Verifikation fehlt). Nur Spass."
+    }
+  ],
+  "lessons_angewandt": [
+    "HR3 Rotation UEFA-Doppelbelastung: Atalanta hat CL in 48h -> Sieg-Tipp bewusst nur SAFE (Qualitaets-Edge) + DC-Hedge als VALUE statt pure Sieg-SAFE. Fiorentina Conference 3 Tage danach -> DC X2 statt direktem Sieg.",
+    "Markt-Goldgruben aktiv genutzt (Doppelte Chance 1X / X2 / Ueber 2.5 / BTTS Ja).",
+    "Beobachtungs-Liga PL MW9 (-77% ROI 30d) - alle Newcastle-Everton-Tipps bewusst auf wackel heruntergestuft, Mapper haette sonst eh degradiert.",
+    "Serie A G10 ist Liga-Goldgrube (ROI +160.8%) - SAFE-Kategorisierung des Atalanta-Siegs ist durch die Liga + Markt gedeckt (Hebel C).",
+    "Kader-Frische-Guardrail: KEINE Torschuetzen-Tipps ohne live-verifizierte Startelf-URL (Kader-Umbruch bei Newcastle: Isak/Gordon/Tonali/Guimaraes alle weg, bei Atalanta: Lookman/de Roon weg). Lieber Markt-Tipps als Halluzinations-Torschuetze.",
+    "Honest-Moonshot: 3-Spiele-Slate kann kein echter 100x+ gebaut werden ohne absurde Over-4.5-Beine - im hinweis offen angesprochen (CLAUDE.md Ehrlichkeits-Prinzip)."
+  ],
+  "footer": "18+ - BZgA Gluecksspielsucht-Hotline: 0800 1372700 - Hobby-Tool, keine Einnahmequelle",
+  "_verifikations_report": {
+    "erstellt_am": "2026-11-02T13:55:00+01:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "beobachtungs_liga",
+        "spiel_id": "2026-11-02-new-eve",
+        "details": "PL MW9 -77% ROI 30d - Newcastle-Everton bewusst nur wackel, Mapper-safe"
+      },
+      {
+        "art": "cl_rotation_risiko",
+        "spiel_id": "2026-11-02-ata-par",
+        "details": "Atalanta CL MD4 in 48h - Sieg-Tipp SAFE durch Qualitaets-Edge + Parma-Krise gedeckt, aber Rotation beobachten"
+      },
+      {
+        "art": "conference_rotation",
+        "spiel_id": "2026-11-02-sas-fio",
+        "details": "Fiorentina Conference Do 05.11. - Rotation moeglich, deshalb DC X2 statt direktem Sieg"
+      },
+      {
+        "art": "watchdog_recovery",
+        "spiel_id": "ALL",
+        "details": "Hauptroutine 13:30 hat nicht geliefert - Watchdog 14:30 greift ein, Dossier mit 3 Spielen ehrlich klein"
+      },
+      {
+        "art": "moonshot_realitaet",
+        "spiel_id": "kombi-moonshot",
+        "details": "Nur 82x statt 100x+ - mit 3-Spiele-Slate ohne Spielertor-Tipps nicht erreichbar, Spass-Einsatz 1EUR"
+      }
+    ],
+    "lessons_generiert": [
+      {
+        "kategorie": "Watchdog-Beob-Liga",
+        "lesson": "Bei Watchdog-Recovery immer Beobachtungs-Ligen-Datei lesen und entsprechend degradieren - Mapper tut es ohnehin, aber transparent im Dossier besser."
+      }
+    ]
+  },
+  "_emergency_recovery": true
+}
