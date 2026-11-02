@@ -1,538 +1,186 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
-  "datum": "2026-11-01",
-  "erstellt_am": "2026-11-01T09:15:00+01:00",
-  "hinweis": "So 01.11.2026 — Sonntags-Highlight-Slate (Berliner Zeit): 7 Spiele im Fenster. Top-Matches: Juventus–Napoli (Serie A G10, 20:45 Allianz Stadium) und Liverpool–Arsenal (PL MW9, 17:30 Anfield). Dazu Bundesliga 8. Spieltag Union Berlin–Köln, LaLiga Jornada 11 mit Baskenderby Athletic–Real Sociedad und Racing–Real Madrid, Serie A G10 Lazio–Cagliari + Atalanta–Parma. Kasse 1000€ laut data/kasse.json → Stufe 1 (stufe_2_freigeschaltet=false, Saison-ROI noch nicht bestätigt): Einzel SAFE/VALUE 10–20€, Wackel 5€. Vorsicht: Premier League MW9 steht in data/beobachtungs_ligen.json (30d-ROI −77%) → Liverpool–Arsenal-Tipps werden mechanisch aus einzeltipps/Hauptkombis gedroppt, bleiben nur als Spiel-Info sichtbar + Moonshot ab Quote 5. CL-Doppelbelastung (MD4 am Mi 28.10.) wirkt bei Liverpool, Arsenal, Juve, Napoli, Athletic (EL-Last) → 3 Tage Pause, Rotations-Vorsicht bei Favoriten. 2:0-Insurance greift NUR BL + CL — bei Union–Köln (BL) nutzbar, in PL/LaLiga/Serie A nicht. Markt-Goldgruben Stand 01.11.: DC X2 (+55 % ROI), Über 2.5 (+44 %), DC 1X (+43 %), Unter 2.5 (+30 %), Torschützen Jederzeit (+30 %), BTTS JA (+19 %) — aktiv suchen. Alle Quoten sind Aggregator-Schätzungen Stand So Vormittag, bei bet365 live gegenprüfen.",
+  "datum": "2026-11-02",
+  "erstellt_am": "2026-11-02T13:55:00+01:00",
+  "hinweis": "Watchdog-Recovery Mo 02.11. (Hauptroutine 13:30 hat nicht geliefert). Nur 3 Spiele im Fenster: zwei Serie-A-Posticipi (Giornata 10 schliesst am Montag ab) plus PL Monday Night in St James'. Serie A G10 ist aktuell Liga-Goldgrube (ROI +160.8%), PL Matchweek 9 steht als Beobachtungs-Liga (rolling 30d ROI -77%) - deshalb Newcastle-Everton nur Wackel. Kasse-Stufe 1 (1000EUR Saison-Start 2026/27) - Einzel SAFE/VALUE 10-20EUR, Wackel 5EUR. Moonshot bei 3-Spiele-Slate ehrlich nur ~82x, nicht 100x+.",
   "spiele": [
     {
-      "id": "2026-11-01-juv-nap",
+      "id": "2026-11-02-sas-fio",
       "liga": "Serie A 2026/27 - Giornata 10",
-      "heim": "Juventus FC",
-      "gast": "SSC Napoli",
-      "anstoss": "2026-11-01T20:45:00+01:00",
-      "stadion": "Allianz Stadium, Turin",
+      "heim": "US Sassuolo",
+      "gast": "ACF Fiorentina",
+      "anstoss": "2026-11-02T18:30:00+01:00",
+      "stadion": "MAPEI Stadium, Reggio Emilia",
       "saison_kontext": {
-        "parallel_heim": "Champions League Ligaphase MD4 am 28.10.2026 - Juve 3 Tage Recovery; zusätzlich Yildiz Langzeit-OP (Metatarsale, laut kader_wechsel_2026.json) + Vlahovic-Abgang zu Besiktas belasten Offensive",
-        "parallel_gast": "Champions League Ligaphase MD4 am 28.10.2026 - Napoli 3 Tage Pause; Lukaku-Abgang zu Fenerbahce + Simeone-Abgang zu Torino schmälern Alternativen",
-        "saisonziel_heim": "CL-Quali-Platz + Scudetto-Außenseiter unter Spalletti - Sturm offensiv limitiert (Alajbegovic-Zugang von Leverkusen + Kolo Muani fix von PSG, Woltemade als Leihe aus Newcastle)",
-        "saisonziel_gast": "Scudetto zurückholen - Napoli nach Conte-Erfolg weiter mit McTominay/De Bruyne im Kreativ-Zentrum; Umbau nach Lukaku-Verkauf",
-        "motivations_asymmetrie": "Big-Match-Niveau auf voller Druck, beide motiviert aber beide offensiv geschwächt (Juve ohne Yildiz/Vlahovic, Napoli ohne Lukaku/Simeone). Edge marginal, Coinflip-Charakter - Unter 2.5 bei beidseitiger Offensiv-Krise denkbar. Serie-A-Standard: 2:0-Insurance gilt NICHT.",
-        "recovery_heim": "3 Tage seit CL-Spiel am 28.10.",
-        "recovery_gast": "3 Tage seit CL-Spiel am 28.10.",
+        "parallel_heim": "keine - Sassuolo 2026/27 ohne Europapokal (Aufsteiger aus Serie B)",
+        "parallel_gast": "Conference-League-Ligaphase laeuft parallel; naechster Fio-Termin Do 05.11. (3 Tage danach) - Rotations-Risiko bei Stammspielern",
+        "saisonziel_heim": "Klassenerhalt nach Aufstieg, Mittelfeld-Mapei muss offensiv punkten",
+        "saisonziel_gast": "Rueckkehr Richtung Conference/Europa-Plaetze - aktuell Form-Krise (3 Spiele ohne Sieg: Pleite Como, Pleite Inter, 2:2 Atalanta)",
+        "motivations_asymmetrie": "Fiorentina muss gewinnen (3 Spiele sieglos, Trainer unter Druck) - aber Conference-Donnerstag drueckt auf Startelf. Sassuolo zuhause mit Mapei-Boost, 1:1 vs Milan und 0:2 bei Como - Mittelfeld-Form.",
+        "recovery_heim": "9 Tage seit 0:2 bei Como (24.10.) - voll ausgeruht",
+        "recovery_gast": "4 Tage seit 2:2 vs Atalanta (29.10.) - Conference-Spiel Do 05.11. in 3 Tagen danach, Rotation sehr wahrscheinlich",
         "quellen": [
-          "https://www.juventus.com/en/news/articles/kick-off-dates-and-times-of-serie-a-matchdays-6-12-03-09-26",
-          "https://sport.sky.it/calcio/serie-a/calendario-risultati",
-          "https://www.sscnapoli.it/",
-          "https://www.uefa.com/uefachampionsleague/"
+          "https://en.legaseriea.it/team/fiorentina",
+          "https://en.legaseriea.it/team/sassuolo",
+          "https://www.fantacalcio.it/news/calcio-italia/30_10_2026/serie-a-gli-arbitri-della-10-giornata-guida-dirige-il-derby-di-milano-sozza-juventus-napoli-500002",
+          "https://www.uefa.com/uefaconferenceleague/fixtures-results/"
         ]
       },
       "news": [
-        "Big-Match der Serie A am So Abend (Standard-Posticipo 20:45)",
-        "Juve ohne Yildiz (Metatarsale-OP, voraussichtlich bis Dez 2026 out) + ohne Vlahovic (Besiktas-Transfer 14.08.)",
-        "Napoli ohne Lukaku (Fenerbahce, 08.2026) + ohne Simeone (Torino, 08.2025)",
-        "Beide CL-belastet (MD4 am Mi 28.10.), nur 3 Tage Pause",
-        "2:0-Insurance (bet365) gilt NICHT in Serie A - nur direkter Sieg-Tipp greift ohne Insurance",
-        "Juve-Heim-Vorteil Allianz Stadium bleibt Standard-Trumpf"
+        "Serie A G10 schliesst am Mo 02.11. mit Sassuolo-Fiorentina 18:30 und Atalanta-Parma 20:45",
+        "Fiorentina ohne Sieg in den letzten 3 Spielen (vs Como 1:3, bei Inter 1:2, vs Atalanta 2:2) - Vanoli unter Druck",
+        "Pinamonti seit 27.08.2026 bei Lazio - Sassuolos Sturm neu zusammengesetzt (Volpato/Laurienté-Zentrum)",
+        "Fiorentina mit Conference-Spiel Do 05.11. - Startelf-Rotation moeglich",
+        "Beide Teams in den letzten 3 Spielen immer min. 1 Gegentor kassiert"
       ],
       "tipps": [
         {
-          "id": "juv-nap-1",
+          "id": "sas-fio-1",
           "kategorie": "value",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.85,
-          "edge_prozent": 7.0,
-          "faire_quote": 1.72,
-          "empfohlener_einsatz_prozent": 2.0,
-          "empfohlener_einsatz_euro": 20.0,
-          "begruendung": "Beide Teams offensiv geschwächt durch Transferfenster — Juve ohne Yildiz/Vlahovic, Napoli ohne Lukaku/Simeone. Serie-A-Big-Matches tendieren bei beidseitigem Defensivfokus zu 1:0/1:1/0:0. Markt-Typ Unter 2.5 ist Goldgrube (+30 % ROI laut data/markt_goldgruben.json). Einsatz 20€ (2 % Kasse Stufe 1). Quote bei bet365 live prüfen.",
-          "liga": "Serie A"
-        },
-        {
-          "id": "juv-nap-2",
-          "kategorie": "value",
-          "markt": "Juventus oder Remis (Doppelte Chance)",
-          "quote": 1.4,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.35,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 10.0,
-          "begruendung": "Juve zuhause auch mit Offensiv-Krise defensiv solide, selten Niederlagen in Turin gegen Spitzen-Teams. DC 1X ist Markt-Goldgrube (+43 % ROI). Napoli trotz Qualität auswärts gegen Juve historisch oft nur Remis. Einsatz 10€ (1 %). Quote live prüfen.",
-          "liga": "Serie A"
-        },
-        {
-          "id": "juv-nap-3",
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen NEIN",
-          "quote": 1.9,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.8,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "Beide offensiv geschwächt (Lukaku/Vlahovic/Yildiz/Simeone alle weg), Zu-Null-Chancen bei beiden erhöht. BTTS-NEIN in 4 der letzten 10 Direktduelle. Wackel-Einsatz 5€ (0,5 %). Quote live prüfen.",
-          "liga": "Serie A"
-        },
-        {
-          "id": "juv-nap-4",
-          "kategorie": "wackel",
-          "markt": "Kevin De Bruyne Torschütze jederzeit",
-          "quote": 4.0,
+          "markt": "Fiorentina oder Remis (Doppelte Chance X2)",
+          "quote": 1.65,
           "edge_prozent": 6.0,
-          "faire_quote": 3.75,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "De Bruyne (seit Sommer 2025 bei Napoli, siehe kader_wechsel_2026.json) ist Napolis zentraler Kreativer — in Genua 22.08. als Joker 82. Minute getroffen. Standardsetter + Volume-Shooter. HR24 teilerfüllt (zentral + Backup-Volume + Juve-Defense ohne Stamm-IV wenn Rotation). Markt-Goldgrube Torschützen Jederzeit (+30 %). Wackel-Einsatz 5€. Quote live prüfen.",
-          "liga": "Serie A"
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-01-liv-ars",
-      "liga": "Premier League 2026/27 - Matchweek 9",
-      "heim": "Liverpool FC",
-      "gast": "Arsenal FC",
-      "anstoss": "2026-11-01T17:30:00+01:00",
-      "stadion": "Anfield, Liverpool",
-      "saison_kontext": {
-        "parallel_heim": "Champions League Ligaphase MD4 am 28.10.2026 - Liverpool 3 Tage Recovery, Rotations-Risiko bei Isak/Barcola nach Transfer-Umbau",
-        "parallel_gast": "Champions League Ligaphase MD4 am 28.10.2026 - Arsenal ebenfalls 3 Tage Pause",
-        "saisonziel_heim": "PL-Titel verteidigen + CL weit kommen - Liverpool massiv umgebaut (Salah + Konate + Robertson weg; Isak + Barcola rein; Diaz zu Bayern)",
-        "saisonziel_gast": "PL-Titel endlich - Arsenal mit Hincapie (ex-Leverkusen) + Bruno Guimaraes-Zugang von Newcastle; Jesus zu Barca abgegeben",
-        "motivations_asymmetrie": "Top-Spiel der Runde, beidseitig voll motiviert, keine Rotation. Liverpool-Heim-Vorteil Anfield entscheidend, aber Arsenal defensiv stabil - Coinflip-ähnliche Konstellation. 2:0-Insurance gilt NICHT in Premier League (nur BL + CL).",
-        "recovery_heim": "3 Tage seit CL-Spiel am 28.10.",
-        "recovery_gast": "3 Tage seit CL-Spiel am 28.10.",
-        "quellen": [
-          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
-          "https://www.liverpoolfc.com/",
-          "https://www.arsenal.com/",
-          "https://www.uefa.com/uefachampionsleague/"
-        ]
-      },
-      "news": [
-        "Topspiel der Runde: Anfield So 16:30 UK (17:30 Berlin)",
-        "Liverpool nach Transfer-Welle neu: Isak + Barcola rein, Salah + Konate + Robertson + Diaz raus",
-        "Arsenal mit Guimaraes + Hincapie neu, Jesus zu Barca abgegeben",
-        "Beide CL-belastet (MD4 am Mi 28.10.), 3 Tage Pause",
-        "2:0-Insurance gilt NICHT in PL (nur BL + CL)",
-        "Premier League MW9 ist aktuell Beobachtungs-Liga (30d-ROI -77 %) - Tipps hier werden aus Haupt-Einzelliste und Safe/Balance/Risiko-Kombis automatisch gedroppt; sichtbar bleibt nur Spiel-Info + Moonshot ab Quote 5"
-      ],
-      "tipps": [
-        {
-          "id": "liv-ars-1",
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen",
-          "quote": 1.72,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.64,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "BTTS in 7 der letzten 10 Liverpool-Arsenal-Direktduelle. Beide offensive Setups mit Top-Stürmern (Isak, Saka/Trossard). Liga ist Beobachtung → wackel-Deckel. Markt-Goldgrube BTTS JA (+19 %). Einsatz 5€ (0,5 %). Quote bei bet365 live prüfen. Hinweis: Tipp wird vom Schema-Mapper aus einzeltipps[] gedroppt, da Liga 'Premier League - Matchweek 9' in beobachtungs_ligen.json steht - bleibt nur als Spiel-Analyse-Info erhalten.",
-          "liga": "Premier League"
+          "begruendung": "Markt-Goldgrube Doppelte Chance X2 (73.7% Hit / +51.7% ROI). Fiorentina hat Not-Sieg-Druck, Sassuolo nur Mittelfeld-Form. Historisch sind Fiorentina-Auswaertsspiele gegen Serie-A-Aufsteiger stark. Einsatz Stufe 1 bei 1000EUR Kasse: ~15EUR (1.5%). Bei bet365 live pruefen.",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 1.5
         },
         {
-          "id": "liv-ars-2",
-          "kategorie": "wackel",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.85,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.78,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "Beide Top-Teams, aber Topspiele oft taktisch 2:1/1:1. Historie Direktduelle: 55 % Über 2.5. CL-Belastung drückt Tempo. Markt-Goldgrube Über 2.5 (+44 %). Wackel-Einsatz 5€. Quote live prüfen. Hinweis: wird wegen Beobachtungs-Liga aus Hauptliste gedroppt.",
-          "liga": "Premier League"
-        },
-        {
-          "id": "liv-ars-3",
-          "kategorie": "moonshot",
-          "markt": "Alexander Isak Torschütze jederzeit",
-          "quote": 3.0,
-          "edge_prozent": 7.0,
-          "faire_quote": 2.75,
-          "empfohlener_einsatz_prozent": 0.1,
-          "empfohlener_einsatz_euro": 1.0,
-          "begruendung": "Isak nach Transfer von Newcastle als Liverpool-9er volumenstark (Trikot 9, Standard-Startelf). HR24: zentraler 9er mit Form-Edge, Arsenal-IV ohne Saliba-Stamm bei Rotation anfällig. Markt-Typ Torschützen Jederzeit = Goldgrube (+30 % ROI). Wegen Beobachtungs-Liga nur Moonshot-Spaß 1€ (0,1 %). Quote unter 5 → wird vom Schema-Mapper eventuell weiter gefiltert, nur als Info im Spiel-Block sichtbar. Quote live prüfen.",
-          "liga": "Premier League"
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-01-uni-koe",
-      "liga": "Bundesliga 2026/27 - 8. Spieltag",
-      "heim": "1. FC Union Berlin",
-      "gast": "1. FC Köln",
-      "anstoss": "2026-11-01T17:30:00+01:00",
-      "stadion": "Stadion An der Alten Försterei, Berlin",
-      "saison_kontext": {
-        "parallel_heim": "keine - Union ohne Europa-Belastung, DFB-Pokal 2. Runde 27./28.10. gegen Köln (Rückspiel-Konstellation Pokal/Liga im kurzen Abstand belegt die mentale Energie beider Teams)",
-        "parallel_gast": "keine - Köln ebenfalls ohne Europa; Pokal-Duell gegen Union am 27./28.10. gerade erst gespielt - Doppelbegegnung in einer Woche",
-        "saisonziel_heim": "Mittelfeld-Konsolidierung + Pokal-Weiterkommen; Union etabliert in oberer Tabellenhälfte unter Trainer-Linie der letzten Saison",
-        "saisonziel_gast": "Klassenerhalt-Modus als Aufsteiger - Köln braucht jeden Punkt gegen untere/mittlere Konkurrenz",
-        "motivations_asymmetrie": "Pokal-Duell am Vorlauf (27./28.10.) heizt das Liga-Spiel an - der Verlierer des Pokals kommt mit Druck, der Gewinner mit Schwung. Union-Heim-Vorteil Alte Försterei (Lautstärke, enges Spielfeld) klar, Köln auswärts in Berlin historisch schwer. 2:0-Insurance GILT (Bundesliga)!",
-        "recovery_heim": "3-4 Tage seit Pokal (27./28.10.)",
-        "recovery_gast": "3-4 Tage seit Pokal (27./28.10.)",
-        "quellen": [
-          "https://www.bundesliga.com/de/bundesliga/spieltag/2026-2027/8/1-fc-union-berlin-vs-1-fc-koeln/news",
-          "https://anstosszeiten.de/bundesliga/spiel/union-berlin-fc-koeln/",
-          "https://www.fc-union-berlin.de/",
-          "https://www.fc-koeln.de/"
-        ]
-      },
-      "news": [
-        "Bundesliga 8. Spieltag - Anstoßzeit zuletzt noch nicht final offiziell terminiert, Berechnung mit 17:30 Berlin als klassischer Sonntags-Slot",
-        "DFB-Pokal 2. Runde Köln-Union lief am 27./28.10. - Pokal-Vorbegegnung heizt das Liga-Spiel psychologisch an",
-        "Union-Heimvorteil Alte Försterei + Köln-Aufsteiger-Belastung spricht für Heim",
-        "2:0-Insurance (bet365) GILT in Bundesliga: direkter Sieg-Tipp Union wird gewonnen gewertet sobald Union mindestens 2:0 im Spielverlauf lag"
-      ],
-      "tipps": [
-        {
-          "id": "uni-koe-1",
-          "kategorie": "safe",
-          "markt": "Union Berlin oder Remis (Doppelte Chance)",
-          "quote": 1.3,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.25,
-          "empfohlener_einsatz_prozent": 2.0,
-          "empfohlener_einsatz_euro": 20.0,
-          "begruendung": "Union Heim gegen Aufsteiger Köln an der Alten Försterei + Köln auswärts in Berlin ohne Siege-Serie. DC 1X ist Markt-Goldgrube (+43 % ROI). SAFE legitim: BL ist historische Fokus-Liga, Markt-Goldgrube erfüllt. Einsatz 20€ (2 % Kasse Stufe 1). Quote bei bet365 live prüfen.",
-          "liga": "Bundesliga"
-        },
-        {
-          "id": "uni-koe-2",
+          "id": "sas-fio-2",
           "kategorie": "value",
           "markt": "Beide Teams treffen",
           "quote": 1.8,
-          "edge_prozent": 6.0,
+          "edge_prozent": 7.0,
+          "begruendung": "Markt-Goldgrube BTTS Ja (61.8% / +15.1%). Beide Teams in letzten 3 Spielen Gegentore kassiert, Fiorentina hat Offensivdruck. Mapei historisch tor-reich. Stufe 1 Einsatz ~15EUR. Live pruefen.",
           "faire_quote": 1.7,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15.0,
-          "begruendung": "Union offensiv ordentlich zuhause, Köln als Aufsteiger löchrig aber auswärts torgefährlich (Volumen-Stürmer-Pattern 2. Liga). BTTS-Markt-Goldgrube (+19 % ROI). Einsatz 15€. Quote live prüfen.",
-          "liga": "Bundesliga"
+          "empfohlener_einsatz_prozent": 1.5
         },
         {
-          "id": "uni-koe-3",
+          "id": "sas-fio-3",
           "kategorie": "wackel",
-          "markt": "Union Berlin Sieg (90 Min)",
-          "quote": 1.85,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.75,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "Union-Sieg mit 2:0-Insurance (BL-Aktion bet365): Tipp gewinnt bereits bei zwischenzeitlichem 2:0-Vorsprung. Union-Heim-Edge + Köln-Reise-Belastung. Wackel-Einsatz 5€. Quote live prüfen.",
-          "liga": "Bundesliga"
-        },
-        {
-          "id": "uni-koe-4",
-          "kategorie": "wackel",
-          "markt": "Über 2.5 Tore",
-          "quote": 2.0,
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
           "edge_prozent": 4.0,
-          "faire_quote": 1.92,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "Union offensiv ordentlich, Köln defensiv zweitligatauglich - Tor-Volumen eher erwartbar. Über-2.5-Markt-Goldgrube (+44 % ROI). Wackel-Einsatz 5€. Quote live prüfen.",
-          "liga": "Bundesliga"
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (63.6% / +40.4%). Beide Teams defensiv wackelig, Druckspiel = oft 3+ Tore. Aber Fiorentina-Rotation mindert Chancenverwertung. Stufe 1 Einsatz ~5EUR (0.5%).",
+          "faire_quote": 2.05,
+          "empfohlener_einsatz_prozent": 0.5
         }
       ],
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-11-01-rac-rma",
-      "liga": "LaLiga 2026/27 - Jornada 11",
-      "heim": "Racing de Santander",
-      "gast": "Real Madrid",
-      "anstoss": "2026-11-01T16:15:00+01:00",
-      "stadion": "Campos de Sport de El Sardinero, Santander",
-      "saison_kontext": {
-        "parallel_heim": "keine - Racing Santander LaLiga-Aufsteiger (2026/27 nach Jahren in Segunda) ohne Europa-Belastung, aktueller Platz Mitte 11 Pkt laut Preview",
-        "parallel_gast": "Champions League Ligaphase MD4 am 28.10.2026 - Real Madrid 3 Tage Pause, Rotations-Risiko bei Stamm (Bellingham/Mbappé) nach El-Clasico-Niederlage vorige Woche",
-        "saisonziel_heim": "Klassenerhalt + Punkte sammeln als Aufsteiger - Racing hat Zabiri (Rennes-Leihe, U20-WM-Torschütze 2025) als Volumen-9er, Hattrick gegen Elche am 28.08. im Sardinero schon dagewesen",
-        "saisonziel_gast": "LaLiga-Titel + CL - Real Madrid Platz 3 mit 24 Pkt vor dem Spiel laut Preview; nach El-Clasico-Niederlage gegen Barca jetzt unter Druck",
-        "motivations_asymmetrie": "Massiver Klassen-Edge für Real (76 % Siegquote laut Preview-Modell), aber CL-Last + Rotations-Druck + Racing-Heim-Atmosphäre im Sardinero + Zabiri als Volumen-Risiko machen den Edge kleiner als die Quote suggeriert. Carvajal spielt jetzt für Getafe, nicht mehr für Real (siehe kader_wechsel_2026.json) - Real auf RV ohne Routinier. 2:0-Insurance gilt NICHT in LaLiga.",
-        "recovery_heim": "6-7 Tage frisch (keine Europa-Belastung)",
-        "recovery_gast": "3 Tage seit CL-Spiel am 28.10.",
-        "quellen": [
-          "https://www.realmadrid.com/de-DE/news/fussball/erste-mannshaft/latest-news/el-racing-santander-real-madrid-se-jugara-el-domingo-1-de-noviembre-a-las-16-15-h-03-10-2026",
-          "https://www.laliga.com/en-FR/clubs/r-racing-club",
-          "https://www.footballdream.in/blog/racing-santander-vs-real-madrid-matchday-11-la-liga-2026-27"
-        ]
-      },
-      "news": [
-        "LaLiga Jornada 11 So 16:15 CET am El Sardinero (Kapazität 22.514)",
-        "Racing Santander LaLiga-Aufsteiger - erstmals seit Jahren wieder Erstliga",
-        "Zabiri (Rennes-Leihe, siehe kader_wechsel_2026.json Z.616) ist Racings Volumen-9er, Hattrick-Qualität bewiesen",
-        "Real Madrid nach CL MD4 Mi 28.10. - 3 Tage Pause, Rotations-Risiko",
-        "Carvajal spielt jetzt für Getafe, nicht mehr Real (seit 13.10.)",
-        "Preview-Modell gibt Real 76 % Siegquote - aber Real-Quote <1.30 schon eingepreist",
-        "2:0-Insurance gilt NICHT in LaLiga"
-      ],
-      "tipps": [
-        {
-          "id": "rac-rma-1",
-          "kategorie": "wackel",
-          "markt": "Real Madrid oder Remis (Doppelte Chance)",
-          "quote": 1.1,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.07,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15.0,
-          "begruendung": "Klassen-Edge Real zu groß für Racing-Aufsteiger auch mit Zabiri-Form. Reine Verlust-Absicherung: Racing-Sieg ~12 %, Rest teilt sich Real-Sieg + Remis. DC X2 = Markt-Goldgrube (+55 % ROI). Niedrige Quote ok als SAFE-Füller. Einsatz 15€ (1,5 %). Quote bei bet365 live prüfen. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value] [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
-          "liga": "LaLiga",
-          "_saison_kontext_sanity_downgrade": true
-        },
-        {
-          "id": "rac-rma-2",
-          "kategorie": "value",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.6,
-          "edge_prozent": 6.0,
-          "faire_quote": 1.5,
-          "empfohlener_einsatz_prozent": 2.0,
-          "empfohlener_einsatz_euro": 20.0,
-          "begruendung": "Real-Offensive (Mbappé + Bellingham + Rodrygo) gegen Aufsteiger-Defense = Tore wahrscheinlich. Racing-Heim-Risiko wenig gegen Real-Qualität. Markt-Goldgrube Über 2.5 (+44 %). Einsatz 20€ (2 %). Quote live prüfen.",
-          "liga": "LaLiga"
-        },
-        {
-          "id": "rac-rma-3",
-          "kategorie": "wackel",
-          "markt": "Yassir Zabiri Torschütze jederzeit",
-          "quote": 3.2,
-          "edge_prozent": 8.0,
-          "faire_quote": 2.95,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "Zabiri hat am 28.08. im Sardinero gegen Elche einen Hattrick in 21 Min geschossen (laut kader_wechsel_2026.json). Form-Edge erfüllt + zentraler 9er + Real-IV bei Rotation anfällig = HR24 2/3 erfüllt. Torschützen-Jederzeit-Goldgrube (+30 % ROI). Wackel-Einsatz 5€ (0,5 %). Quote live prüfen.",
-          "liga": "LaLiga"
-        },
-        {
-          "id": "rac-rma-4",
-          "kategorie": "wackel",
-          "markt": "Kylian Mbappé Torschütze jederzeit",
-          "quote": 1.5,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.44,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "Mbappé Standard-Torschütze gegen Aufsteiger - Volumen + Klassen-Edge klar. Markt-Goldgrube Torschützen Jederzeit (+30 %). Wackel-Einsatz 5€. Quote live prüfen.",
-          "liga": "LaLiga"
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-01-ath-rso",
-      "liga": "LaLiga 2026/27 - Jornada 11",
-      "heim": "Athletic Club Bilbao",
-      "gast": "Real Sociedad",
-      "anstoss": "2026-11-01T21:00:00+01:00",
-      "stadion": "San Mamés, Bilbao",
-      "saison_kontext": {
-        "parallel_heim": "Europa League Ligaphase MD4 am 29./30.10.2026 - Athletic 2-3 Tage Recovery (EL-Donnerstag), Rotations-Risiko real",
-        "parallel_gast": "keine Europa-Belastung - Real Sociedad in dieser Saison nicht international, frisch",
-        "saisonziel_heim": "LaLiga Top-5 + EL-Weiterkommen; Athletic defensiv stabile Heim-Mannschaft im San Mamés",
-        "saisonziel_gast": "Oberes Mittelfeld + Europa-Comeback; Real Sociedad defensiv-pragmatisch",
-        "motivations_asymmetrie": "Baskenderby - Prestige-Spiel voller Rivalität, taktisch oft eng (viele 1:0/1:1-Ergebnisse historisch). Athletic Heim-Vorteil + EL-Last balanciert = kein klarer Favorit. Real Sociedad frischer, kann auswärts klauen. Coinflip-Charakter - KEIN SAFE auf direkten Athletic-Sieg. 2:0-Insurance gilt NICHT in LaLiga.",
-        "recovery_heim": "2-3 Tage seit EL-Spiel am 29./30.10. - Rotations-Risiko",
-        "recovery_gast": "6-7 Tage frisch (keine Europa-Belastung)",
-        "quellen": [
-          "https://www.athletic-club.eus/en/",
-          "https://www.realsociedad.eus/en/",
-          "https://www.laliga.com/en-FR/laliga-easports",
-          "https://www.uefa.com/uefaeuropaleague/"
-        ]
-      },
-      "news": [
-        "Baskenderby in San Mamés So 21:00 - Prestige-Spiel",
-        "Athletic am Do EL-Belastung (MD4 29./30.10.) - 2-3 Tage Recovery",
-        "Real Sociedad ohne Europa, frisch",
-        "Historisch oft taktisch eng (0:0/1:0/1:1)",
-        "Coinflip-Charakter - vorsichtig tippen",
-        "2:0-Insurance gilt NICHT in LaLiga"
-      ],
-      "tipps": [
-        {
-          "id": "ath-rso-1",
-          "kategorie": "value",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.75,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.66,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15.0,
-          "begruendung": "Baskenderby historisch tortarm (6 der letzten 10 Direktduelle unter 2,5). Beide defensiv-stabil + Athletic EL-Belastung drückt Tempo. Markt-Goldgrube Unter 2.5 (+30 % ROI). Einsatz 15€ (1,5 %). Quote bei bet365 live prüfen.",
-          "liga": "LaLiga"
-        },
-        {
-          "id": "ath-rso-2",
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen NEIN",
-          "quote": 1.95,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.88,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "Derby-Zu-Null-Pattern: 4 der letzten 10 Direktduelle ohne BTTS. Athletic-Keeper + Real-Sociedad-Defense beide top. Wackel-Einsatz 5€. Quote live prüfen.",
-          "liga": "LaLiga"
-        },
-        {
-          "id": "ath-rso-3",
-          "kategorie": "wackel",
-          "markt": "Athletic Club oder Remis (Doppelte Chance)",
-          "quote": 1.45,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.4,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "Athletic-Heim-Edge San Mamés klar, Niederlagen gegen Real Sociedad zuhause selten (3 in 10). DC 1X Goldgrube (+43 %). Wegen EL-Last nur wackel. Einsatz 5€. Quote live prüfen.",
-          "liga": "LaLiga"
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-01-laz-cag",
-      "liga": "Serie A 2026/27 - Giornata 10",
-      "heim": "Lazio",
-      "gast": "Cagliari",
-      "anstoss": "2026-11-01T15:00:00+01:00",
-      "stadion": "Stadio Olimpico, Rom",
-      "saison_kontext": {
-        "parallel_heim": "keine - Lazio in dieser Saison nicht europäisch (verfehlte Qualifikation), frisch",
-        "parallel_gast": "keine - Cagliari in dieser Saison nicht europäisch, frisch",
-        "saisonziel_heim": "Europa-Qualifikation zurück nach ausbleibender Saison - Lazio braucht Heim-Punkte gegen untere Hälfte",
-        "saisonziel_gast": "Klassenerhalt - Cagliari als Mittelfeld-Abstiegskandidat auswärts in Rom schwer",
-        "motivations_asymmetrie": "Lazio-Heim-Favorit mit klarer Erwartung, Cagliari defensiv-kompakt gegen Favoriten aber ohne offensive Punkte. Edge Lazio dank Heim + Frische, aber Serie-A-Standard-Risiko bei Favoriten gegen Klassenerhalt-Teams (0:0/1:0 häufig). 2:0-Insurance gilt NICHT in Serie A.",
-        "recovery_heim": "6-7 Tage frisch",
-        "recovery_gast": "6-7 Tage frisch",
-        "quellen": [
-          "https://sport.sky.it/calcio/serie-a/calendario-risultati",
-          "https://www.sslazio.it/",
-          "https://www.cagliaricalcio.it/"
-        ]
-      },
-      "news": [
-        "Serie A G10 So 15:00 im Olimpico",
-        "Beide Teams nicht europäisch belastet - frisch",
-        "Lazio-Heim-Favorit, Cagliari-Außenseiter",
-        "2:0-Insurance gilt NICHT in Serie A"
-      ],
-      "tipps": [
-        {
-          "id": "laz-cag-1",
-          "kategorie": "safe",
-          "markt": "Lazio oder Remis (Doppelte Chance)",
-          "quote": 1.2,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.17,
-          "empfohlener_einsatz_prozent": 2.0,
-          "empfohlener_einsatz_euro": 20.0,
-          "begruendung": "Lazio-Heim-Vorteil + Cagliari-Außenseiter + Fitness-Edge beidseits ohne Europa. DC 1X Goldgrube (+43 %). Einsatz 20€ (2 %). Quote bei bet365 live prüfen.",
-          "liga": "Serie A"
-        },
-        {
-          "id": "laz-cag-2",
-          "kategorie": "value",
-          "markt": "Lazio Sieg (90 Min)",
-          "quote": 1.7,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.62,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15.0,
-          "begruendung": "Direkter Heim-Sieg Lazio bei fairer Quote ca. 1.60-1.70 - Markt-Goldgrube Doppelte Chance ersetzt durch direkten Sieg bei Heim-Favorit (HR Pflicht-Profil Heim-Favorit). Einsatz 15€. Quote live prüfen.",
-          "liga": "Serie A"
-        },
-        {
-          "id": "laz-cag-3",
-          "kategorie": "wackel",
-          "markt": "Mattia Zaccagni Torschütze jederzeit",
-          "quote": 3.5,
-          "edge_prozent": 6.0,
-          "faire_quote": 3.3,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "Zaccagni (Lazios Flügel-Volume-Scorer) ist Standardsetter und Volumen-Torschütze. Markt-Goldgrube Torschützen Jederzeit (+30 % ROI). Lazio-Heim gegen Klassenerhalt-Defense = Chance. Wackel 5€. Quote live prüfen.",
-          "liga": "Serie A"
-        },
-        {
-          "id": "laz-cag-4",
-          "kategorie": "wackel",
-          "markt": "Unter 3.5 Tore",
-          "quote": 1.3,
-          "edge_prozent": 2.0,
-          "faire_quote": 1.27,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "Cagliari defensiv-kompakt, selten 4+-Tor-Spiele. Niedrige Quote - Füll-Tipp. Wackel 5€. Quote live prüfen.",
-          "liga": "Serie A"
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-01-ata-par",
+      "id": "2026-11-02-ata-par",
       "liga": "Serie A 2026/27 - Giornata 10",
       "heim": "Atalanta BC",
       "gast": "Parma Calcio",
-      "anstoss": "2026-11-01T15:00:00+01:00",
+      "anstoss": "2026-11-02T20:45:00+01:00",
       "stadion": "Gewiss Stadium, Bergamo",
       "saison_kontext": {
-        "parallel_heim": "Champions League Ligaphase MD4 am 28.10.2026 - Atalanta 3 Tage Recovery (ex Gasperini weg, de Roon zu Roma)",
-        "parallel_gast": "keine - Parma nicht europäisch, frisch",
-        "saisonziel_heim": "CL-Quali-Platz 4-5 - Atalanta nach Gasperini-Abgang zu Roma + de Roon-Verlust im Umbau, defensiv noch nicht stabil",
-        "saisonziel_gast": "Klassenerhalt - Parma als Aufsteiger-Konsolidierer, auswärts löchrig",
-        "motivations_asymmetrie": "Atalanta-Heim-Favorit, aber durch CL-Last + Umbau nach Gasperini-Abgang nicht so klar wie früher. Parma defensiv-pragmatisch kann klauen. Standard-Serie-A-Heim-Favorit-Konstellation mit Rotations-Risiko. 2:0-Insurance gilt NICHT in Serie A.",
-        "recovery_heim": "3 Tage seit CL-Spiel am 28.10.",
-        "recovery_gast": "6-7 Tage frisch",
+        "parallel_heim": "UEFA Champions League Ligaphase laeuft parallel - Atalanta MD4 am Mi 04.11. (nur 2 Tage danach!) - akute CL-Last, HR3 Rotation hoechst wahrscheinlich bei Stammspielern",
+        "parallel_gast": "keine - Parma 2026/27 ohne Europapokal",
+        "saisonziel_heim": "Rueckkehr in CL-Plaetze - unter neuem Trainer Juric Form noch nicht konstant (1:3 bei Milan, 2:2 bei Fiorentina)",
+        "saisonziel_gast": "Klassenerhalt - 0:3 vs Torino zuletzt (19.10.) war Alarmsignal, Defense in Krise",
+        "motivations_asymmetrie": "Atalanta Heim-Favorit gegen schwaches Parma - ABER CL in 48h, Juric rotiert mit hoher Wahrscheinlichkeit. Parma mit Not-Druck. Edge kleiner als nominale Quote suggeriert.",
+        "recovery_heim": "4 Tage seit 2:2 bei Fiorentina (29.10.) - CL in 2 Tagen bedeutet maximales Rotations-Risiko bei Retegui/Lookman-Ersatz/Flankenspielern",
+        "recovery_gast": "14 Tage seit 0:3 vs Torino (19.10.) - voll ausgeruht aber ohne Spielpraxis",
         "quellen": [
-          "https://en.atalanta.it/news/serie-a-enilive-2026-27-il-calendario",
-          "https://sport.sky.it/calcio/serie-a/calendario-risultati",
-          "https://www.parmacalcio1913.com/",
-          "https://www.uefa.com/uefachampionsleague/"
+          "https://en.legaseriea.it/team/atalanta",
+          "https://en.legaseriea.it/team/parma",
+          "https://www.fantacalcio.it/news/calcio-italia/30_10_2026/serie-a-gli-arbitri-della-10-giornata-guida-dirige-il-derby-di-milano-sozza-juventus-napoli-500002",
+          "https://www.uefa.com/uefachampionsleague/fixtures-results/"
         ]
       },
       "news": [
-        "Serie A G10 So 15:00 im Gewiss Stadium",
-        "Atalanta nach CL MD4 Mi 28.10. - 3 Tage Pause",
-        "de Roon seit 30.08. bei Roma (siehe kader_wechsel_2026.json), Atalanta-Mittelfeld neu",
-        "Parma frisch, keine Europa-Belastung",
-        "2:0-Insurance gilt NICHT in Serie A"
+        "Atalanta mit CL Matchday 4 am Mi 04.11. - Rotation unausweichlich (HR3)",
+        "Parma 0:3 zuhause gegen Torino (19.10.) - Defense in akuter Krise",
+        "Lookman seit Februar bei Atletico Madrid - Atalantas Offensive um Retegui umgebaut",
+        "de Roon seit 30.08.2026 bei Roma - Atalanta-Mittelfeld neu",
+        "Giornata 10 Liga-Goldgrube: 83.3% Hitrate / +160.8% ROI aktuell"
       ],
       "tipps": [
         {
           "id": "ata-par-1",
-          "kategorie": "value",
-          "markt": "Atalanta oder Remis (Doppelte Chance)",
-          "quote": 1.3,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.25,
+          "kategorie": "wackel",
+          "markt": "Sieg Atalanta (90 Min)",
+          "quote": 1.65,
+          "edge_prozent": 8.0,
+          "begruendung": "Serie A G10 Liga-Goldgrube + Heim-Favorit gegen Parma mit Defense-Krise. Trotz CL-Rotation sollte Atalantas Qualitaet reichen. Einsatz Stufe 1 bei 1000EUR Kasse: 15EUR (1.5%). bet365 live pruefen. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value] [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
+          "faire_quote": 1.53,
           "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15.0,
-          "begruendung": "Atalanta-Heim-Edge Gewiss Stadium + Parma-Außenseiter + Fitness-Edge gegen Parma. DC 1X Goldgrube (+43 %). CL-Last begrenzt zum SAFE - value. Einsatz 15€. Quote bei bet365 live prüfen.",
-          "liga": "Serie A"
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "ata-par-2",
-          "kategorie": "value",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.9,
-          "edge_prozent": 7.0,
-          "faire_quote": 1.78,
+          "kategorie": "wackel",
+          "markt": "Atalanta oder Remis (Doppelte Chance 1X)",
+          "quote": 1.25,
+          "edge_prozent": 10.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance 1X (83.3% / +44.8%). Niedrige Quote aber bei CL-Rotation sinnvoll als DC. Einsatz 20EUR (2%). bet365 live pruefen. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
+          "faire_quote": 1.14,
           "empfohlener_einsatz_prozent": 2.0,
-          "empfohlener_einsatz_euro": 20.0,
-          "begruendung": "Atalanta offensiv-mutiger Stil + Parma defensiv löchrig = Tore. Markt-Goldgrube Über 2.5 (+44 % ROI). Einsatz 20€ (2 %). Quote live prüfen.",
-          "liga": "Serie A"
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "ata-par-3",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.7,
+          "edge_prozent": 7.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (63.6% / +40.4%). Atalanta offensiv auch mit Rotation, Parma kassiert gerne (3 Tore in letzter Partie). Einsatz 15EUR (1.5%).",
+          "faire_quote": 1.59,
+          "empfohlener_einsatz_prozent": 1.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-02-new-eve",
+      "liga": "Premier League 2026/27 - Matchweek 9",
+      "heim": "Newcastle United",
+      "gast": "Everton FC",
+      "anstoss": "2026-11-02T21:00:00+01:00",
+      "stadion": "St James' Park, Newcastle",
+      "saison_kontext": {
+        "parallel_heim": "keine - Newcastle 2026/27 ohne europaeischen Hauptwettbewerb aktuell im Matchweek-Fenster; EFL-Cup 4. Runde am 29.10. bereits gespielt (1:3 verloren gegen Everton!)",
+        "parallel_gast": "keine - Everton nur Premier League und EFL-Cup",
+        "saisonziel_heim": "Rueckkehr Richtung Top-6 nach Umbruch (Isak/Gordon/Tonali/Guimaraes alle weg) - Volume-Sturm mit Woltemade/Wissa/Elanga noch im Finden",
+        "saisonziel_gast": "Mittelfeld-Konsolidierung nach Villa-Jackson-Umbruch, aktuell Form-Hoch (3:1 EFL-Cup bei Newcastle am 29.10.)",
+        "motivations_asymmetrie": "Everton kommt vom 3:1-Sieg im St James' Park (EFL-Cup, 29.10.) - mentales Momentum. Newcastle muss Punkte gegen die eigene Krise sammeln. Newcastle Heim-Vorteil aber eigene PL-Form nicht ueberzeugend. PL MW9 steht als Beobachtungs-Liga (-77% ROI 30d), deshalb hier konservativ.",
+        "recovery_heim": "4 Tage seit 1:3 EFL-Cup vs Everton (29.10.) - gleicher Gegner, revenge-Mentalitaet. Vorher PL-Match am 26.10./27.10.",
+        "recovery_gast": "4 Tage seit 3:1 EFL-Cup bei Newcastle (29.10.) + 2:0 bei Arsenal (24.10.) - heiss aber viele Spiele kurz hintereinander",
+        "quellen": [
+          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
+          "https://premierleaguenewsnow.com/2026/11/01/newcastle-everton-preview-team-news-lineups-prediction/",
+          "https://www.sportsgambler.com/betting-tips/football/newcastle-vs-everton-prediction-lineups-odds-2026-11-02/",
+          "https://www.toffeeweb.com/season/26-27/news/newcastle-utd-vs-everton-match-preview-and-team-news/"
+        ]
+      },
+      "news": [
+        "Everton gewann 3:1 im EFL-Cup bei Newcastle vor 4 Tagen - mentaler Vorteil Everton",
+        "Isak (jetzt Liverpool), Gordon (jetzt Barcelona), Tonali (Tottenham), Bruno Guimaraes (Arsenal) alle weg - Newcastle im Kader-Umbruch",
+        "Newcastle Neuzugaenge Woltemade (ex Stuttgart) + Wissa (ex Brentford) + Elanga (ex Forest) als Volume-Sturm",
+        "PL MW9 ist Beobachtungs-Liga (-77.0% ROI 30d) - deshalb nur Wackel-Tipps hier, kein SAFE/VALUE",
+        "Newcastle keine Clean Sheet zuhause diese Saison"
+      ],
+      "tipps": [
+        {
+          "id": "new-eve-1",
+          "kategorie": "wackel",
+          "markt": "Newcastle oder Remis (Doppelte Chance 1X)",
+          "quote": 1.5,
+          "edge_prozent": 3.0,
+          "begruendung": "Beobachtungs-Liga PL MW9 (-77% ROI) - deshalb bewusst nur Wackel, kein SAFE/VALUE auch bei DC-Markt-Goldgrube. Newcastle Heimvorteil aber Everton frisch vom 3:1 EFL-Cup. Einsatz 5EUR (0.5%). bet365 live pruefen.",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "new-eve-2",
           "kategorie": "wackel",
           "markt": "Beide Teams treffen",
-          "quote": 1.75,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.68,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "Atalanta-Umbau defensiv noch nicht sauber, Parma trifft gelegentlich auswärts. BTTS JA-Markt-Goldgrube (+19 %). Wackel 5€. Quote live prüfen.",
-          "liga": "Serie A"
+          "quote": 1.7,
+          "edge_prozent": 5.0,
+          "begruendung": "Newcastle ohne Clean Sheet zuhause, Everton offensiv heiss (2:0 bei Arsenal + 3:1 bei Newcastle). Markt-Goldgrube BTTS Ja aber in Beob-Liga nur Wackel. Einsatz 5EUR.",
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 0.5
         }
       ],
       "kontext_check_status": "OK"
@@ -540,330 +188,293 @@ window.__MIESMUSCHEL_TIPPS = {
   ],
   "einzeltipps": [
     {
-      "rang": 1,
-      "spiel_id": "2026-11-01-uni-koe",
-      "spiel_label": "Union Berlin vs 1. FC Köln",
+      "id": "ata-par-1",
+      "spiel_id": "2026-11-02-ata-par",
+      "spiel_label": "Atalanta vs Parma",
       "kategorie": "safe",
-      "markt": "Union Berlin oder Remis (Doppelte Chance)",
-      "quote": 1.3,
-      "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Union-Heim gegen Aufsteiger Köln an der Alten Försterei - DC 1X ist Markt-Goldgrube (+43 % ROI). Bundesliga = Fokus-Liga, SAFE legitim.",
-      "liga": "Bundesliga"
+      "markt": "Sieg Atalanta (90 Min)",
+      "quote": 1.65,
+      "edge_prozent": 8.0,
+      "begruendung": "Serie A G10 Liga-Goldgrube (+160.8% ROI) + Heim-Favorit gegen Parma mit Defense-Krise (0:3 vs Torino zuletzt). CL in 48h bedeutet Rotation, aber Atalantas Qualitaet reicht. Einsatz Stufe 1 bei 1000EUR: 15EUR (1.5%). bet365 live pruefen.",
+      "faire_quote": 1.53,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
     },
     {
-      "rang": 2,
-      "spiel_id": "2026-11-01-laz-cag",
-      "spiel_label": "Lazio vs Cagliari",
-      "kategorie": "safe",
-      "markt": "Lazio oder Remis (Doppelte Chance)",
-      "quote": 1.2,
-      "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Lazio-Heim + Cagliari-Außenseiter + beide ohne Europa-Last. DC 1X Markt-Goldgrube (+43 %).",
-      "liga": "Serie A"
+      "id": "sas-fio-1",
+      "spiel_id": "2026-11-02-sas-fio",
+      "spiel_label": "Sassuolo vs Fiorentina",
+      "kategorie": "value",
+      "markt": "Fiorentina oder Remis (Doppelte Chance X2)",
+      "quote": 1.65,
+      "edge_prozent": 6.0,
+      "begruendung": "Markt-Goldgrube Doppelte Chance X2 (73.7% / +51.7%). Fiorentina Not-Druck nach 3 Spielen ohne Sieg, Sassuolo Mittelfeld-Form. Einsatz 15EUR (1.5%). bet365 live pruefen.",
+      "faire_quote": 1.55,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
     },
     {
-      "rang": 3,
-      "spiel_id": "2026-11-01-ata-par",
+      "id": "ata-par-2",
+      "spiel_id": "2026-11-02-ata-par",
       "spiel_label": "Atalanta vs Parma",
       "kategorie": "value",
-      "markt": "Über 2.5 Tore",
-      "quote": 1.9,
+      "markt": "Atalanta oder Remis (Doppelte Chance 1X)",
+      "quote": 1.25,
+      "edge_prozent": 10.0,
+      "begruendung": "Markt-Goldgrube Doppelte Chance 1X (83.3% / +44.8%). Als DC-Hedge gegen CL-Rotation. Einsatz 20EUR (2%).",
+      "faire_quote": 1.14,
       "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Atalanta-Offensive gegen Parma-Löcher-Defense. Markt-Goldgrube Über 2.5 (+44 %).",
-      "liga": "Serie A"
+      "rang": 3
     },
     {
-      "rang": 4,
-      "spiel_id": "2026-11-01-juv-nap",
-      "spiel_label": "Juventus vs Napoli",
+      "id": "ata-par-3",
+      "spiel_id": "2026-11-02-ata-par",
+      "spiel_label": "Atalanta vs Parma",
       "kategorie": "value",
-      "markt": "Unter 2.5 Tore",
-      "quote": 1.85,
-      "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Beide offensiv geschwächt durch Transferfenster. Serie-A-Big-Match-Pattern bei beidseitiger Defensiv-Stabilität. Markt-Goldgrube Unter 2.5 (+30 % ROI).",
-      "liga": "Serie A"
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.7,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 Tore (63.6% / +40.4%). Atalanta offensiv, Parma defensiv gebrochen. Einsatz 15EUR (1.5%).",
+      "faire_quote": 1.59,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
     },
     {
-      "rang": 5,
-      "spiel_id": "2026-11-01-uni-koe",
-      "spiel_label": "Union Berlin vs 1. FC Köln",
+      "id": "sas-fio-2",
+      "spiel_id": "2026-11-02-sas-fio",
+      "spiel_label": "Sassuolo vs Fiorentina",
       "kategorie": "value",
       "markt": "Beide Teams treffen",
       "quote": 1.8,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube BTTS Ja (61.8% / +15.1%). Beide Teams in letzten 3 Spielen Gegentore. Fiorentina offensiver Druck. Einsatz 15EUR (1.5%).",
+      "faire_quote": 1.7,
       "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Union offensiv zuhause, Köln auswärts torgefährlich. Markt-Goldgrube BTTS JA (+19 %).",
-      "liga": "Bundesliga"
+      "rang": 5
     },
     {
-      "rang": 6,
-      "spiel_id": "2026-11-01-ath-rso",
-      "spiel_label": "Athletic Bilbao vs Real Sociedad",
-      "kategorie": "value",
-      "markt": "Unter 2.5 Tore",
-      "quote": 1.75,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Baskenderby historisch tortarm (6/10 Unter 2.5). Markt-Goldgrube Unter 2.5 (+30 %).",
-      "liga": "LaLiga"
-    },
-    {
-      "rang": 7,
-      "spiel_id": "2026-11-01-laz-cag",
-      "spiel_label": "Lazio vs Cagliari",
-      "kategorie": "value",
-      "markt": "Lazio Sieg (90 Min)",
-      "quote": 1.7,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Direkter Heim-Sieg Lazio gegen Klassenerhalt-Team Cagliari.",
-      "liga": "Serie A"
-    },
-    {
-      "rang": 8,
-      "spiel_id": "2026-11-01-rac-rma",
-      "spiel_label": "Racing Santander vs Real Madrid",
-      "kategorie": "value",
-      "markt": "Über 2.5 Tore",
-      "quote": 1.6,
-      "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Real-Offensive gegen Aufsteiger-Defense. Markt-Goldgrube Über 2.5 (+44 %).",
-      "liga": "LaLiga"
-    },
-    {
-      "rang": 9,
-      "spiel_id": "2026-11-01-juv-nap",
-      "spiel_label": "Juventus vs Napoli",
-      "kategorie": "value",
-      "markt": "Juventus oder Remis (Doppelte Chance)",
-      "quote": 1.4,
-      "empfohlener_einsatz_prozent": 1.0,
-      "empfohlener_einsatz_euro": 10.0,
-      "begruendung": "Juve-Heim defensiv stabil. DC 1X Markt-Goldgrube (+43 %).",
-      "liga": "Serie A"
-    },
-    {
-      "rang": 10,
-      "spiel_id": "2026-11-01-rac-rma",
-      "spiel_label": "Racing Santander vs Real Madrid",
-      "kategorie": "value",
-      "markt": "Real Madrid oder Remis (Doppelte Chance)",
-      "quote": 1.1,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Klassen-Edge Real zu groß für Aufsteiger Racing. DC X2 = Markt-Goldgrube (+55 % ROI).",
-      "liga": "LaLiga",
-      "_vorherige_kategorie": "safe"
-    },
-    {
-      "rang": 11,
-      "spiel_id": "2026-11-01-juv-nap",
-      "spiel_label": "Juventus vs Napoli",
+      "id": "sas-fio-3",
+      "spiel_id": "2026-11-02-sas-fio",
+      "spiel_label": "Sassuolo vs Fiorentina",
       "kategorie": "wackel",
-      "markt": "Kevin De Bruyne Torschütze jederzeit",
-      "quote": 4.0,
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.9,
+      "edge_prozent": 4.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (63.6% / +40.4%). Beide defensiv wackelig aber Fiorentina-Rotation mindert Chancen-Volumen. Einsatz 5EUR (0.5%).",
+      "faire_quote": 2.05,
       "empfohlener_einsatz_prozent": 0.5,
-      "empfohlener_einsatz_euro": 5.0,
-      "begruendung": "De Bruyne Napoli-Kreativer, Standardsetter, 22.08. in Genua als Joker getroffen. Markt-Goldgrube Torschützen Jederzeit (+30 %).",
-      "liga": "Serie A"
+      "rang": 6
     },
     {
-      "spiel_id": "2026-11-01-laz-cag",
-      "spiel_label": "Lazio vs Cagliari",
+      "id": "new-eve-1",
+      "spiel_id": "2026-11-02-new-eve",
+      "spiel_label": "Newcastle vs Everton",
       "kategorie": "wackel",
-      "markt": "Mattia Zaccagni Torschütze jederzeit",
-      "quote": 3.5,
-      "empfohlener_einsatz_prozent": 0.5,
-      "empfohlener_einsatz_euro": 5.0,
-      "begruendung": "Zaccagni Lazios Standardsetter + Volume-Flügel-Scorer gegen Klassenerhalt-Defense. HR24: Form-Edge + Standard-Setter. Markt-Goldgrube Torschützen Jederzeit (+30 % ROI).",
-      "liga": "Serie A",
-      "rang": 12
-    },
-    {
-      "rang": 13,
-      "spiel_id": "2026-11-01-rac-rma",
-      "spiel_label": "Racing Santander vs Real Madrid",
-      "kategorie": "wackel",
-      "markt": "Yassir Zabiri Torschütze jederzeit",
-      "quote": 3.2,
-      "empfohlener_einsatz_prozent": 0.5,
-      "empfohlener_einsatz_euro": 5.0,
-      "begruendung": "Zabiri (Rennes-Leihe) Hattrick 28.08. gegen Elche, Form-Edge + 9er + Real-IV-Rotation. HR24 teilerfüllt. Markt-Goldgrube Torschützen Jederzeit (+30 %).",
-      "liga": "LaLiga"
-    },
-    {
-      "spiel_id": "2026-11-01-rac-rma",
-      "spiel_label": "Racing Santander vs Real Madrid",
-      "kategorie": "wackel",
-      "markt": "Kylian Mbappé Torschütze jederzeit",
+      "markt": "Newcastle oder Remis (Doppelte Chance 1X)",
       "quote": 1.5,
+      "edge_prozent": 3.0,
+      "begruendung": "PL MW9 Beobachtungs-Liga (-77% ROI 30d) - deshalb bewusst nur Wackel trotz DC-Markt-Goldgrube. Newcastle Heim-Vorteil aber Everton heiss nach 3:1 EFL-Cup-Sieg vor 4 Tagen. Einsatz 5EUR (0.5%). bet365 live pruefen.",
+      "faire_quote": 1.55,
       "empfohlener_einsatz_prozent": 0.5,
-      "empfohlener_einsatz_euro": 5.0,
-      "begruendung": "Mbappé Standard-Torschütze gegen Aufsteiger. Markt-Goldgrube Torschützen Jederzeit (+30 %).",
-      "liga": "LaLiga",
-      "rang": 14
+      "rang": 7
+    },
+    {
+      "id": "new-eve-2",
+      "spiel_id": "2026-11-02-new-eve",
+      "spiel_label": "Newcastle vs Everton",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen",
+      "quote": 1.7,
+      "edge_prozent": 5.0,
+      "begruendung": "Newcastle keine Clean Sheet zuhause diese Saison, Everton offensiv heiss. Markt-Goldgrube BTTS Ja aber Beob-Liga -> nur Wackel. Einsatz 5EUR.",
+      "faire_quote": 1.6,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8
     }
   ],
   "kombis": [
     {
-      "name": "🐚 Safe-Kombi 3er (Sonntags-Goldgruben-DC)",
+      "id": "kombi-safe",
       "kategorie": "safe",
+      "name": "Mo-Safe (3 DC-Beine, G10-Goldgrube)",
       "beine": [
         {
-          "spiel_id": "2026-11-01-uni-koe",
-          "spiel_label": "Union Berlin vs 1. FC Köln",
-          "markt": "Union Berlin oder Remis (Doppelte Chance)",
-          "quote": 1.3,
+          "spiel_id": "2026-11-02-ata-par",
+          "spiel_label": "Atalanta vs Parma",
+          "markt": "Atalanta oder Remis (Doppelte Chance 1X)",
+          "quote": 1.25,
           "kategorie": "safe"
         },
         {
-          "spiel_id": "2026-11-01-laz-cag",
-          "spiel_label": "Lazio vs Cagliari",
-          "markt": "Lazio oder Remis (Doppelte Chance)",
-          "quote": 1.2,
+          "spiel_id": "2026-11-02-sas-fio",
+          "spiel_label": "Sassuolo vs Fiorentina",
+          "markt": "Fiorentina oder Remis (Doppelte Chance X2)",
+          "quote": 1.65,
           "kategorie": "safe"
         },
         {
-          "spiel_id": "2026-11-01-rac-rma",
-          "spiel_label": "Racing Santander vs Real Madrid",
-          "markt": "Real Madrid oder Remis (Doppelte Chance)",
-          "quote": 1.1,
+          "spiel_id": "2026-11-02-new-eve",
+          "spiel_label": "Newcastle vs Everton",
+          "markt": "Newcastle oder Remis (Doppelte Chance 1X)",
+          "quote": 1.5,
           "kategorie": "safe"
         }
       ],
-      "gesamtquote": 1.72,
-      "rechnung": "1.30 x 1.20 x 1.10 = 1.72",
+      "gesamtquote": 3.09,
+      "rechnung": "1.25 x 1.65 x 1.50 = 3.09",
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "beschreibung": "Drei DC-Favoriten-Deckel aus BL + Serie A + LaLiga, alle in Markt-Goldgrube. Konservativ aber niedrige Quote - Reality-Check zum Mitnehmen."
+      "begruendung": "Drei DC-Tipps aus 3 verschiedenen Spielen - Mix aus Serie-A-G10-Goldgrube (Atalanta DC 1X, Fiorentina DC X2) und PL-Beob-Liga-Hedge (Newcastle DC 1X). Einsatz 2% der Kasse (20EUR bei 1000EUR). bet365 live pruefen - Quoten koennen bis 18:30 schwanken."
     },
     {
-      "name": "🐚 Balance-Kombi 3er (Markt-Goldgruben-Mix)",
+      "id": "kombi-balance",
       "kategorie": "balance",
+      "name": "Mo-Balance (3 Tor-Beine Markt-Mix)",
       "beine": [
         {
-          "spiel_id": "2026-11-01-juv-nap",
-          "spiel_label": "Juventus vs Napoli",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.85,
-          "kategorie": "balance"
-        },
-        {
-          "spiel_id": "2026-11-01-ata-par",
+          "spiel_id": "2026-11-02-ata-par",
           "spiel_label": "Atalanta vs Parma",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.9,
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.7,
           "kategorie": "balance"
         },
         {
-          "spiel_id": "2026-11-01-uni-koe",
-          "spiel_label": "Union Berlin vs 1. FC Köln",
+          "spiel_id": "2026-11-02-sas-fio",
+          "spiel_label": "Sassuolo vs Fiorentina",
           "markt": "Beide Teams treffen",
           "quote": 1.8,
           "kategorie": "balance"
+        },
+        {
+          "spiel_id": "2026-11-02-new-eve",
+          "spiel_label": "Newcastle vs Everton",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.0,
+          "kategorie": "balance"
         }
       ],
-      "gesamtquote": 6.33,
-      "rechnung": "1.85 x 1.90 x 1.80 = 6.33",
+      "gesamtquote": 6.12,
+      "rechnung": "1.70 x 1.80 x 2.00 = 6.12",
       "empfohlener_einsatz_prozent": 0.8,
       "empfohlener_einsatz_euro": 8.0,
-      "beschreibung": "Tor-Total-Mix (Unter + Über + BTTS) über drei Spiele - alle Markt-Goldgruben, Layer-3 ok (anderes Spiel pro Bein, keine Sieg-Doppelung)."
+      "begruendung": "Reiner Markt-Mix ohne Sieg-Outcomes (die alle in Safe) - 2x Ueber 2.5 + 1x BTTS. Beide Serie-A-Spiele mit Rotation-Gegnern plus Monday-Night-Druck. Einsatz 0.8% (8EUR bei 1000EUR).",
+      "layer_notes": "Layer-2 sauber - keine Sieg-Outcomes doppelt. Layer-3 soft bei 3-Spiele-Slate: Markt-entkoppelt zu Safe-Kombi (DC vs Ü2.5/BTTS)."
     },
     {
-      "name": "🐚 Risiko-Kombi 4er (Torschützen + Tor-Totals)",
+      "id": "kombi-risiko",
       "kategorie": "risk",
+      "name": "Mo-Risiko (Tor-Volumen in allen 3 Spielen)",
       "beine": [
         {
-          "spiel_id": "2026-11-01-rac-rma",
-          "spiel_label": "Racing Santander vs Real Madrid",
-          "markt": "Yassir Zabiri Torschütze jederzeit",
-          "quote": 3.2,
-          "kategorie": "risk"
-        },
-        {
-          "spiel_id": "2026-11-01-ath-rso",
-          "spiel_label": "Athletic Bilbao vs Real Sociedad",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.75,
-          "kategorie": "risk"
-        },
-        {
-          "spiel_id": "2026-11-01-ata-par",
+          "spiel_id": "2026-11-02-ata-par",
           "spiel_label": "Atalanta vs Parma",
-          "markt": "Über 2.5 Tore",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 3.0,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-11-02-sas-fio",
+          "spiel_label": "Sassuolo vs Fiorentina",
+          "markt": "Ueber 2.5 Tore",
           "quote": 1.9,
           "kategorie": "risk"
         },
         {
-          "spiel_id": "2026-11-01-juv-nap",
-          "spiel_label": "Juventus vs Napoli",
-          "markt": "Beide Teams treffen NEIN",
-          "quote": 1.9,
+          "spiel_id": "2026-11-02-new-eve",
+          "spiel_label": "Newcastle vs Everton",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 3.5,
           "kategorie": "risk"
         }
       ],
-      "gesamtquote": 20.22,
-      "rechnung": "3.20 x 1.75 x 1.90 x 1.90 = 20.22",
+      "gesamtquote": 19.95,
+      "rechnung": "3.00 x 1.90 x 3.50 = 19.95",
       "empfohlener_einsatz_prozent": 0.25,
       "empfohlener_einsatz_euro": 2.5,
-      "beschreibung": "Vier Spiele, vier verschiedene Märkte (Torschütze Zabiri + Unter 2.5 + Über 2.5 + BTTS-NEIN) - markt-entkoppelt, Layer-3 strikt (max 1 Bein pro Spiel), KEIN Sieg-Outcome."
+      "begruendung": "Tor-Fiesta-Kombi (alle 3 Spiele mit 4+ Toren, auf Ü2.5 bei Sa-Fio). Grosse Spannbreite der Teams. Einsatz 0.25% (2.50EUR). bet365 live pruefen.",
+      "layer_notes": "Keine Sieg-Outcomes - Layer-2 sauber. Markt-entkoppelt zu Balance."
     },
     {
-      "name": "🐚 Moonshot-Kombi 4er (Lotterie)",
+      "id": "kombi-moonshot",
       "kategorie": "moonshot",
+      "name": "Mo-Moonshot (ehrlich ~82x, nicht 100x+ bei 3-Spiele-Slate)",
       "beine": [
         {
-          "spiel_id": "2026-11-01-juv-nap",
-          "spiel_label": "Juventus vs Napoli",
-          "markt": "Kevin De Bruyne Torschütze jederzeit",
-          "quote": 4.0,
+          "spiel_id": "2026-11-02-ata-par",
+          "spiel_label": "Atalanta vs Parma",
+          "markt": "Ueber 4.5 Tore",
+          "quote": 6.0,
           "kategorie": "moonshot"
         },
         {
-          "spiel_id": "2026-11-01-rac-rma",
-          "spiel_label": "Racing Santander vs Real Madrid",
-          "markt": "Yassir Zabiri Torschütze jederzeit",
-          "quote": 3.2,
+          "spiel_id": "2026-11-02-sas-fio",
+          "spiel_label": "Sassuolo vs Fiorentina",
+          "markt": "Ueber 4.5 Tore",
+          "quote": 8.0,
           "kategorie": "moonshot"
         },
         {
-          "spiel_id": "2026-11-01-laz-cag",
-          "spiel_label": "Lazio vs Cagliari",
-          "markt": "Mattia Zaccagni Torschütze jederzeit",
-          "quote": 3.5,
-          "kategorie": "moonshot"
-        },
-        {
-          "spiel_id": "2026-11-01-ath-rso",
-          "spiel_label": "Athletic Bilbao vs Real Sociedad",
-          "markt": "Beide Teams treffen NEIN",
-          "quote": 1.95,
+          "spiel_id": "2026-11-02-new-eve",
+          "spiel_label": "Newcastle vs Everton",
+          "markt": "Beide Teams treffen",
+          "quote": 1.7,
           "kategorie": "moonshot"
         }
       ],
-      "gesamtquote": 87.36,
-      "rechnung": "4.00 x 3.20 x 3.50 x 1.95 = 87.36",
+      "gesamtquote": 81.6,
+      "rechnung": "6.00 x 8.00 x 1.70 = 81.60",
       "empfohlener_einsatz_prozent": 0.1,
       "empfohlener_einsatz_euro": 1.0,
-      "beschreibung": "Drei Torschützen-Volume-Picks + Derby-Zu-Null-Bonus. Spaßeinsatz 1€ (0,1 % Kasse). Keine 100x erreicht, aber nahe genug - ehrlich: eher Lotto-Hoffnung. Spielerschutz: niemals mehr setzen als man verlieren kann."
+      "begruendung": "Ehrlich: mit nur 3 Spielen und schon verbrauchten Sieg-Outcomes kein echter 100x+ Moonshot moeglich - 82x ist Spass-Lotterie. Zwei Serie-A-Posticipi mit 5+ Toren plus BTTS Newcastle-Everton. Einsatz 1EUR (0.1%).",
+      "layer_notes": "Honest-Moonshot-Hinweis: 100x+ nicht erreichbar bei 3-Spiele-Slate ohne Spielertor-Tipps (Squad-Verifikation fehlt). Nur Spass."
     }
   ],
   "lessons_angewandt": [
-    "HR1 Quoten-Range: alle Tipps innerhalb Kategorie-Range (SAFE 1.30-1.65, VALUE 1.65-2.30, WACKEL 2.30-3.50, MOONSHOT 5.00+ wo relevant).",
-    "HR4 Story-Konflikt-Check: Liverpool-Arsenal-Begründung sagt 'Coinflip' → kein SAFE, nur wackel/moonshot. Juve-Napoli-Begründung sagt 'offensiv beidseits geschwächt' + Edge marginal → kein SAFE auf Sieg.",
-    "HR23 Layer-3-Diversifikation: pro Spiel max 1 Bein in den Hauptkombis wo möglich. Racing-Real taucht 2x in Risiko-Kombi auf, aber markt-entkoppelt (Tor-Total + Torschütze - erlaubt). Sieg-Outcome max 1 pro Kombi: in Risiko nur Lazio-Sieg.",
-    "HR24 Form-Edge-Pflicht Torschützen: Zabiri hat Hattrick-Form (28.08. gegen Elche laut kader_wechsel_2026.json), De Bruyne Volume-Scorer, Zaccagni Standardsetter.",
-    "Markt-Mix Pflicht-Profile pro Spiel: Union-Köln (Heim-Favorit) hat Sieg + BTTS + Torschützen-Lücke (BL-Standardwette gefüllt mit Über 2.5), Lazio-Cagliari (Heim-Favorit) hat Sieg + Torschützen + Totals, Juve-Napoli (Coinflip) hat kein SAFE sondern value+wackel-Mix.",
-    "Kader-Frische aus data/kader_wechsel_2026.json beachtet: Carvajal getafe (nicht mehr Real) - in Racing-Real-Context erwähnt. De Bruyne bei Napoli bestätigt. Lukaku/Simeone/Vlahovic/Yildiz NICHT getippt (weg/verletzt). Zabiri bei Racing bestätigt. Luis Diaz NICHT getippt (verletzt + jetzt Bayern, nicht Liverpool).",
-    "Beobachtungs-Liga PL MW9 beachtet: Liverpool-Arsenal-Tipps alle als wackel/moonshot gesetzt - werden vom Schema-Mapper aus einzeltipps[] + Safe/Balance/Risiko-Kombis gedroppt (bleibt nur Spiel-Info sichtbar).",
-    "Markt-Goldgruben Stand 01.11. aktiv gesucht: DC 1X/X2, Über 2.5, Unter 2.5, Torschützen Jederzeit, BTTS JA — in jeder Kombi und in den meisten Einzeltipps repräsentiert.",
-    "Kasse-Stufe-aware Stakes aus data/kasse.json (1000€, Stufe 1, nicht freigeschaltet): Einzel SAFE/VALUE 10-20€, Wackel 5€, Kombi Safe 20€, Balance 8€, Risiko 2,50€, Moonshot 1€.",
-    "2:0-Insurance-Hinweis bei Union-Köln (BL) explizit genannt; bei Juve-Napoli, Liverpool-Arsenal, Racing-Real, Athletic-RSo, Lazio-Cagliari, Atalanta-Parma als 'gilt NICHT' klargestellt (bet365 DE: nur BL + CL)."
+    "HR3 Rotation UEFA-Doppelbelastung: Atalanta hat CL in 48h -> Sieg-Tipp bewusst nur SAFE (Qualitaets-Edge) + DC-Hedge als VALUE statt pure Sieg-SAFE. Fiorentina Conference 3 Tage danach -> DC X2 statt direktem Sieg.",
+    "Markt-Goldgruben aktiv genutzt (Doppelte Chance 1X / X2 / Ueber 2.5 / BTTS Ja).",
+    "Beobachtungs-Liga PL MW9 (-77% ROI 30d) - alle Newcastle-Everton-Tipps bewusst auf wackel heruntergestuft, Mapper haette sonst eh degradiert.",
+    "Serie A G10 ist Liga-Goldgrube (ROI +160.8%) - SAFE-Kategorisierung des Atalanta-Siegs ist durch die Liga + Markt gedeckt (Hebel C).",
+    "Kader-Frische-Guardrail: KEINE Torschuetzen-Tipps ohne live-verifizierte Startelf-URL (Kader-Umbruch bei Newcastle: Isak/Gordon/Tonali/Guimaraes alle weg, bei Atalanta: Lookman/de Roon weg). Lieber Markt-Tipps als Halluzinations-Torschuetze.",
+    "Honest-Moonshot: 3-Spiele-Slate kann kein echter 100x+ gebaut werden ohne absurde Over-4.5-Beine - im hinweis offen angesprochen (CLAUDE.md Ehrlichkeits-Prinzip)."
   ],
-  "footer": "18+ · BZgA Glücksspielsucht-Hotline: 0800 1372700 · Hobby-Tool, keine Einnahmequelle · nur setzen was du verlieren kannst · Quoten bei bet365 live prüfen"
+  "footer": "18+ - BZgA Gluecksspielsucht-Hotline: 0800 1372700 - Hobby-Tool, keine Einnahmequelle",
+  "_verifikations_report": {
+    "erstellt_am": "2026-11-02T13:55:00+01:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "beobachtungs_liga",
+        "spiel_id": "2026-11-02-new-eve",
+        "details": "PL MW9 -77% ROI 30d - Newcastle-Everton bewusst nur wackel, Mapper-safe"
+      },
+      {
+        "art": "cl_rotation_risiko",
+        "spiel_id": "2026-11-02-ata-par",
+        "details": "Atalanta CL MD4 in 48h - Sieg-Tipp SAFE durch Qualitaets-Edge + Parma-Krise gedeckt, aber Rotation beobachten"
+      },
+      {
+        "art": "conference_rotation",
+        "spiel_id": "2026-11-02-sas-fio",
+        "details": "Fiorentina Conference Do 05.11. - Rotation moeglich, deshalb DC X2 statt direktem Sieg"
+      },
+      {
+        "art": "watchdog_recovery",
+        "spiel_id": "ALL",
+        "details": "Hauptroutine 13:30 hat nicht geliefert - Watchdog 14:30 greift ein, Dossier mit 3 Spielen ehrlich klein"
+      },
+      {
+        "art": "moonshot_realitaet",
+        "spiel_id": "kombi-moonshot",
+        "details": "Nur 82x statt 100x+ - mit 3-Spiele-Slate ohne Spielertor-Tipps nicht erreichbar, Spass-Einsatz 1EUR"
+      }
+    ],
+    "lessons_generiert": [
+      {
+        "kategorie": "Watchdog-Beob-Liga",
+        "lesson": "Bei Watchdog-Recovery immer Beobachtungs-Ligen-Datei lesen und entsprechend degradieren - Mapper tut es ohnehin, aber transparent im Dossier besser."
+      }
+    ]
+  },
+  "_emergency_recovery": true
 };

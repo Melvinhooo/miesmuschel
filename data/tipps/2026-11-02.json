@@ -98,11 +98,11 @@
       "tipps": [
         {
           "id": "ata-par-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Sieg Atalanta (90 Min)",
           "quote": 1.65,
           "edge_prozent": 8.0,
-          "begruendung": "Serie A G10 Liga-Goldgrube + Heim-Favorit gegen Parma mit Defense-Krise. Trotz CL-Rotation sollte Atalantas Qualitaet reichen. Einsatz Stufe 1 bei 1000EUR Kasse: 15EUR (1.5%). bet365 live pruefen. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value]",
+          "begruendung": "Serie A G10 Liga-Goldgrube + Heim-Favorit gegen Parma mit Defense-Krise. Trotz CL-Rotation sollte Atalantas Qualitaet reichen. Einsatz Stufe 1 bei 1000EUR Kasse: 15EUR (1.5%). bet365 live pruefen. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value] [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "faire_quote": 1.53,
           "empfohlener_einsatz_prozent": 1.5,
           "_saison_kontext_sanity_downgrade": true
