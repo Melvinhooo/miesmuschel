@@ -1,0 +1,49 @@
+{
+  "spiel_id": "2026-11-02-dep-osa",
+  "saison_kontext": {
+    "parallel_heim": "keine - Deportivo nur LaLiga + Copa del Rey (nächste Runde später im November)",
+    "parallel_gast": "keine - Osasuna nur LaLiga, keine EU-Teilnahme 26/27",
+    "saisonziel_heim": "Klassenerhalt - Aufsteiger auf Platz 13 mit 11 Punkten nach 10 Spielen, 6 Spiele ohne Sieg",
+    "saisonziel_gast": "Mittelfeld-Konsolidierung - Platz 15 mit 11 Punkten, 4 Auswärts-Niederlagen in Folge",
+    "motivations_asymmetrie": "Beide direkt im Abstiegskampf-Umfeld (10 Punkte Differenz zu Platz 18 jeweils), beide Krisen-Serien. Deportivo zuhause mit minimalem Heimvorteil, aber Aubameyang + Casadó OUT schwächt Offensive. Osasuna auswärts fragil - Budimir trägt Last.",
+    "recovery_heim": "~5 Tage seit letzter Partie - regulär",
+    "recovery_gast": "~2 Tage seit 2:0-Niederlage gegen Sevilla (31.10.) - leicht gestresst",
+    "quellen": [
+      "https://www.sportsgambler.com/betting-tips/football/deportivo-la-coruna-vs-osasuna-prediction-lineups-odds-2026-11-02/",
+      "https://insights.betfred.com/football/la-liga/deportivo-vs-osasuna-prediction-betting-tips-monday-2-november-2026/",
+      "https://www.laliga.com/en-GB/laliga-easports/results"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "dep-osa-1",
+      "kategorie": "value",
+      "markt": "Deportivo oder Remis (Doppelte Chance)",
+      "quote": 1.42,
+      "edge_prozent": 6.0,
+      "begruendung": "Markt-Goldgrube DC 1X (+45% ROI, 83% Hitrate). Deportivo leichter Heim-Favorit (ca. 2.15 Sieg), Osasuna 4 Auswärts-Niederlagen in Folge und erst 2 Tage nach Sevilla-Niederlage. Riazor-Heimvorteil klassischer Faktor. Einsatz 15€.",
+      "faire_quote": 1.33,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "dep-osa-2",
+      "kategorie": "value",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.33,
+      "edge_prozent": 5.0,
+      "begruendung": "Beide Teams offensiv schwach (Deportivo 11 Tore in 10 Spielen, Osasuna 10 Tore in 10) + Aubameyang bei Deportivo OUT. Historisch tor-arme Partien beider Teams. Einsatz 10€.",
+      "faire_quote": 1.27,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "dep-osa-3",
+      "kategorie": "wackel",
+      "markt": "Budimir Torschütze jederzeit",
+      "quote": 2.80,
+      "edge_prozent": 5.0,
+      "begruendung": "Markt-Goldgrube Torschützen Jederzeit. Budimir als zentraler 9er bei Osasuna mit Volumen-Last - trotz Auswärts-Krise ist er alleiniger Zielspieler. Deportivo-Defense als Aufsteiger wacklig. Einsatz 5€.",
+      "faire_quote": 2.60,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

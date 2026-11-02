@@ -1,0 +1,49 @@
+{
+  "spiel_id": "2026-11-02-sas-fio",
+  "saison_kontext": {
+    "parallel_heim": "keine - Sassuolo nur Serie A, in dieser Woche keine Pokal/EU-Spiele",
+    "parallel_gast": "keine - Fiorentina nur Serie A, keine Conference League in dieser Woche (Ligaphase Pause-Woche)",
+    "saisonziel_heim": "Klassenerhalt Priorität 1 - Platz 15 mit 8 Punkten nach 9 Spielen, Abstiegskampf",
+    "saisonziel_gast": "Vermeidung Abstieg - unter Vanoli seit 07.09. Stabilisierung gesucht, nach katastrophalem Start",
+    "motivations_asymmetrie": "Beide im Krisen-Modus - Sassuolo Heimvorteil ohne Form (2 Pkt in letzten 5), Fiorentina leicht besser aber auswärts fragil. Coinflip, kein Klassen-Edge.",
+    "recovery_heim": "~5 Tage seit letztem Serie-A-Spiel - regulärer Rhythmus",
+    "recovery_gast": "~5 Tage seit letztem Serie-A-Spiel - regulärer Rhythmus",
+    "quellen": [
+      "https://www.sportsgambler.com/betting-tips/football/sassuolo-vs-fiorentina-prediction-lineups-odds-2026-11-02/",
+      "https://sport.sky.it/calcio/serie-a/2026/10/31/calendario-serie-a-10-giornata",
+      "https://www.kicker.de/fiorentina/vereinskader"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "sas-fio-1",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.60,
+      "edge_prozent": 10.0,
+      "begruendung": "Markt-Goldgrube BTTS JA (+28% ROI im System). Beide Teams haben die schlechteste Defensive der Liga (Sassuolo 22 Gegentore, Fiorentina 21 nach 9 Spielen) und BTTS in 7 der letzten 8 Serie-A-Spiele beider Teams. Einsatz 15€ (1,5% von 1000€).",
+      "faire_quote": 1.45,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "sas-fio-2",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.72,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube Über 2.5 (+40% ROI im System). Beide Teams gehören zu den defensiv wacklichsten der Liga - Prognose-Modelle sehen Over 3.0 als Base Case. Fiorentina/Sassuolo-Direktduelle historisch tor-reich. Einsatz 15€.",
+      "faire_quote": 1.60,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "sas-fio-3",
+      "kategorie": "wackel",
+      "markt": "Fiorentina Sieg (90 Min)",
+      "quote": 2.36,
+      "edge_prozent": 4.0,
+      "begruendung": "Fiorentina leichter Favorit (42% implizit) unter Trainer Vanoli, Sassuolo zuhause ohne Form (2 Pkt in letzten 5). Aber Coinflip-Markt - deshalb Wackel. Keine 2:0-Insurance (nur BL+CL). Einsatz 5€ (0,5% von 1000€).",
+      "faire_quote": 2.30,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

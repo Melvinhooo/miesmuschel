@@ -1,0 +1,60 @@
+{
+  "spiel_id": "2026-11-02-ata-par",
+  "saison_kontext": {
+    "parallel_heim": "keine - Atalanta in CL-Ligaphase, nächstes CL-Spiel erst 05.11. (3 Tage) - leichte Rotations-Vorsicht aber kein akuter Druck",
+    "parallel_gast": "keine - Parma nur Serie A, keine EU-Spiele",
+    "saisonziel_heim": "Europa-Platz / CL-Quali - aktuell Platz 13 mit 11 Punkten, Palladino-/Juric-Übergang, 4 Spiele ohne Sieg",
+    "saisonziel_gast": "Klassenerhalt - Trainer Gilardino seit 30.09., 4 Niederlagen aus letzten 4, Platz 17-19",
+    "motivations_asymmetrie": "Atalanta Pflicht-Sieg zuhause nach 4 Spielen ohne Sieg - Klassen-Edge klar trotz Scamacca+Raspadori-OUT. Parma defensiv wacklig (0:3 bei Torino 19.10.), unter neuem Trainer taktisch noch nicht gefestigt.",
+    "recovery_heim": "~3 Tage seit letztem Spiel, CL-Spiel am 05.11. in Sicht - leichte Rotations-Vorsicht in der zweiten Hälfte möglich",
+    "recovery_gast": "~5 Tage seit letztem Serie-A-Spiel - frisch",
+    "quellen": [
+      "https://www.sportsgambler.com/betting-tips/football/atalanta-vs-parma-prediction-lineups-odds-2026-11-02/",
+      "https://www.espn.com/soccer/odds/_/gameId/401874971",
+      "https://www.kicker.de/atalanta-bergamo/vereinskader",
+      "https://www.livescore.com/en/news/football/serie-a/official-parma-appoint-gilardino-as-head-coach-after-dismissing-cuesta-football-italia/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "ata-par-1",
+      "kategorie": "safe",
+      "markt": "Atalanta oder Remis (Doppelte Chance)",
+      "quote": 1.14,
+      "edge_prozent": 5.0,
+      "begruendung": "Markt-Goldgrube DC 1X (+45% ROI im System, 83% Hitrate). Atalanta klarer Favorit zuhause (1.50 Sieg-Quote), Parma 4 Niederlagen in Folge und defensiv wacklig unter neuem Trainer Gilardino. Keine 2:0-Insurance (nur BL+CL). Einsatz 20€ (2% von 1000€).",
+      "faire_quote": 1.08,
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "id": "ata-par-2",
+      "kategorie": "value",
+      "markt": "Krstovic Torschütze jederzeit",
+      "quote": 2.00,
+      "edge_prozent": 12.0,
+      "begruendung": "Markt-Goldgrube Torschützen Jederzeit (+24% ROI, 50% Hitrate). Krstovic: 6 Saisontore, 4 Spiele in Folge Shot on Target (2/Spiel). Mit Scamacca + Raspadori OUT ist er einzige fitte 9er-Option - voller Volumen + Einwechslungs-Boost greift falls Zalewski rein für Krstovic (bei Teams mit Backup-Qualität). Einsatz 15€.",
+      "faire_quote": 1.78,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "ata-par-3",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.90,
+      "edge_prozent": 8.0,
+      "begruendung": "Markt-Goldgrube Über 2.5 (+40% ROI). Atalanta zuhause offensiv unter Druck nach 4 Spielen ohne Sieg, Parma defensiv wacklig (18 Gegentore in 9 Spielen). Prognose-Modelle sehen Over 2.5 bei 55-60%. Einsatz 15€.",
+      "faire_quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "ata-par-4",
+      "kategorie": "wackel",
+      "markt": "Atalanta Sieg + Beide Teams treffen",
+      "quote": 3.20,
+      "edge_prozent": 5.0,
+      "begruendung": "Kombi-Markt wackel wegen Parma-Keller und Atalanta-Form-Krise - aber Krstovic + Lookman offensiv + Parma offensiv zumindest Volumen. Einsatz 5€ (0,5%).",
+      "faire_quote": 3.00,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

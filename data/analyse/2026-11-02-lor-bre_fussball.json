@@ -1,0 +1,49 @@
+{
+  "spiel_id": "2026-11-02-lor-bre",
+  "saison_kontext": {
+    "parallel_heim": "keine - Lorient nur Ligue 1, kein Europapokal (seit Jahren)",
+    "parallel_gast": "keine - Brest nur Ligue 1 (letztes CL-Jahr 25/26 abgeschlossen, keine EU-Teilnahme 26/27)",
+    "saisonziel_heim": "Klassenerhalt - Platz 10 in Ligue 1 nach ca. 11 Spielen",
+    "saisonziel_gast": "Klassenerhalt - Platz 13 in Ligue 1, 3 Pkt hinter Lorient",
+    "motivations_asymmetrie": "Breton-Derby, beide direkt auf Augenhöhe, kein klarer Favorit. Heimvorteil + Fan-Druck leicht pro Lorient, aber kein Klassen-Edge. Coinflip-Spiel.",
+    "recovery_heim": "~5 Tage seit letztem Spiel - regulär",
+    "recovery_gast": "~5 Tage seit letztem Spiel - regulär",
+    "quellen": [
+      "https://www.sportsgambler.com/betting-tips/football/lorient-vs-brest-prediction-lineups-odds-2026-11-02/",
+      "https://www.whoscored.com/articles/WEsJfrVVwka52hoI2SbfAg/show/cng111-20261102-lorient-vs-brest-prediction-1793620257",
+      "https://www.ligue1.com/clubs/lorient"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "lor-bre-1",
+      "kategorie": "value",
+      "markt": "Lorient oder Remis (Doppelte Chance)",
+      "quote": 1.42,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube DC 1X (+45% ROI, 83% Hitrate). Lorient knapper Heim-Favorit (41% implizit) im Breton-Derby, Heimvorteil + eigene Fan-Base. Brest-Defense mit Chardonnet-Problem, Le Guen Langzeit-OUT. Einsatz 15€.",
+      "faire_quote": 1.33,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "lor-bre-2",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen",
+      "quote": 1.80,
+      "edge_prozent": 4.0,
+      "begruendung": "Markt-Goldgrube BTTS JA. Derby-Charakter + beide Teams mit Verletzungen in Abwehr (Lorient Katseris raus bis Mitte Nov., Brest Chardonnet-Problem). Historisch tor-reich. Einsatz 5€.",
+      "faire_quote": 1.70,
+      "empfohlener_einsatz_prozent": 0.5
+    },
+    {
+      "id": "lor-bre-3",
+      "kategorie": "wackel",
+      "markt": "Über 2.5 Tore",
+      "quote": 2.10,
+      "edge_prozent": 3.0,
+      "begruendung": "Markt-Goldgrube. Derby-Setup + beide offensiv ausgerichtet (Brest 1,4 Tore/Spiel, Lorient 1,2). Keine SAFE wegen Coinflip-Charakter. Einsatz 5€.",
+      "faire_quote": 2.00,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}
