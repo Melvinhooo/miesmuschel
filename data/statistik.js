@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-11-02T06:25:34+00:00",
+  "letzte_berechnung": "2026-11-03T18:07:02+00:00",
   "gesamt": {
     "tipps": 330,
     "gewonnen": 190,
@@ -24,15 +24,15 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 19.7
   },
   "letzte_90_tage": {
-    "tipps": 330,
-    "gewonnen": 190,
-    "verloren": 122,
+    "tipps": 320,
+    "gewonnen": 187,
+    "verloren": 115,
     "push": 1,
     "offen": 17,
-    "einsatz": 313.0,
+    "einsatz": 303.0,
     "netto": 93.87,
-    "trefferquote": 60.9,
-    "roi_prozent": 30.0
+    "trefferquote": 61.9,
+    "roi_prozent": 31.0
   },
   "nach_liga": {
     "UEFA Champions League - 3. Qualifikationsrunde": {
@@ -3357,6 +3357,285 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-11-02",
+      "gesamt": {
+        "tipps": 12,
+        "gewonnen": 7,
+        "verloren": 5,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 12.0,
+        "netto": 0.6,
+        "trefferquote": 58.3,
+        "roi_prozent": 5.0
+      },
+      "spiele": [
+        {
+          "id": "2026-11-02-sas-fio",
+          "liga": "Serie A 2026/27 - Giornata 10",
+          "heim": "US Sassuolo",
+          "gast": "ACF Fiorentina",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Fiorentina oder Remis (Doppelte Chance X2)",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.65,
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.8,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.8,
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.9,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.9,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-11-02-ata-par",
+          "liga": "Serie A 2026/27 - Giornata 10",
+          "heim": "Atalanta BC",
+          "gast": "Parma Calcio",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.7,
+              "kommentar": ""
+            },
+            {
+              "markt": "Krstovic Torschütze jederzeit",
+              "quote": 2.0,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Krstovic kein Tor; Atalanta 0 Tore - Einwechslungs-Boost auch nicht moeglich (Parma-Scorer: Fabbian 41', Zappacosta ET 47', Lontani 58')"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-02-lor-bre",
+          "liga": "Ligue 1 2026/27 - 11. Spieltag (Posticipo-Montag)",
+          "heim": "FC Lorient",
+          "gast": "Stade Brest 29",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Lorient oder Remis (Doppelte Chance)",
+              "quote": 1.42,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Brest-Auswaertssieg 0:2 (Ajorque 69', Edjouma 90+2')"
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.8,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-11-02-new-eve",
+          "liga": "Premier League 2026/27 - Matchweek 9",
+          "heim": "Newcastle United",
+          "gast": "Everton FC",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Newcastle oder Remis (Doppelte Chance 1X)",
+              "quote": 1.5,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.7,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-11-02-dep-osa",
+          "liga": "LaLiga 2026/27 - Jornada 11 (Posticipo-Montag)",
+          "heim": "RC Deportivo de La Coruña",
+          "gast": "CA Osasuna",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Deportivo oder Remis (Doppelte Chance)",
+              "quote": 1.42,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.42,
+              "kommentar": "Deportivo 2:1 - Soriano 64', Nsongo 87'"
+            },
+            {
+              "markt": "Unter 3.5 Tore",
+              "quote": 1.33,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.33,
+              "kommentar": ""
+            },
+            {
+              "markt": "Budimir Torschütze jederzeit",
+              "quote": 2.8,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.8,
+              "kommentar": "Budimir 32' (0:1-Fuehrung) - Volume-9er bestaetigt, keine 2:0-Insurance noetig"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Mo-Safe (3 DC-Goldgruben in 3 Ligen)",
+          "kategorie": "safe",
+          "gesamtquote": 3.33,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Fiorentina oder Remis (Doppelte Chance X2)",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Lorient oder Remis (Doppelte Chance)",
+              "quote": 1.42,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Deportivo oder Remis (Doppelte Chance)",
+              "quote": 1.42,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Mo-Balance (Markt-Mix 1 Sieg + 1 BTTS + 1 Spielertor)",
+          "kategorie": "balance",
+          "gesamtquote": 7.56,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Newcastle oder Remis (Doppelte Chance 1X)",
+              "quote": 1.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Budimir Torschütze jederzeit",
+              "quote": 2.8,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Mo-Risiko (2 Spielertore + 1 Tor-Total + 1 BTTS)",
+          "kategorie": "risk",
+          "gesamtquote": 20.0,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Krstovic Torschütze jederzeit",
+              "quote": 2.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Berardi Torschütze jederzeit",
+              "quote": 2.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Mo-Moonshot (Spielertor-Lotterie + Derby-Open-Game)",
+          "kategorie": "moonshot",
+          "gesamtquote": 222.95,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Pellegrino Doppelpack (2+ Tore)",
+              "quote": 7.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Woltemade Torschütze jederzeit",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Yeremay Hernández Torschütze jederzeit",
+              "quote": 2.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 3.5 Tore",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-11-01",
       "gesamt": {

@@ -1,0 +1,1348 @@
+{
+  "datum": "2026-11-02",
+  "erstellt_am": "2026-11-02T14:10:00+01:00",
+  "hinweis": "Montag-Posticipo-Slate mit 5 Spielen: zwei Serie-A-Spitzenspiele der Giornata 10 (Sassuolo-Fiorentina 18:30, Atalanta-Parma 20:45), ein Breton-Derby (Lorient-Brest 20:45), die Monday-Night in St James' Park (Newcastle-Everton 21:00) sowie der LaLiga-Posticipo Deportivo-Osasuna (21:00). Hauptanker sind die Serie-A-Spiele - Giornata 10 ist Liga-Goldgrube (ROI +160.8%). PL-MW9 ist Beobachtungs-Liga (-77% ROI 30d) - Newcastle-Everton deshalb bewusst nur Wackel. Serie-A-Doppelbelastungen (Atalanta CL in 48h, Fiorentina Conference in 72h) drücken die Sieg-Edges nach unten - DC-Tipps statt direkter Sieg-SAFE. Kasse-Stufe 1 (1000EUR Saison-Start 2026/27) - Einzel SAFE/VALUE 10-20EUR, Wackel 5EUR. Diese Fassung ergänzt die 13:55-Watchdog-Lieferung um die beiden fehlenden Posticipi aus Ligue 1 + LaLiga.",
+  "spiele": [
+    {
+      "id": "2026-11-02-sas-fio",
+      "liga": "Serie A 2026/27 - Giornata 10",
+      "heim": "US Sassuolo",
+      "gast": "ACF Fiorentina",
+      "anstoss": "2026-11-02T18:30:00+01:00",
+      "stadion": "MAPEI Stadium, Reggio Emilia",
+      "saison_kontext": {
+        "parallel_heim": "keine - Sassuolo 2026/27 ohne Europapokal (Aufsteiger aus Serie B)",
+        "parallel_gast": "Conference-League-Ligaphase läuft parallel; nächster Fio-Termin Do 05.11. (3 Tage danach) - Rotations-Risiko bei Stammspielern",
+        "saisonziel_heim": "Klassenerhalt nach Aufstieg - Mittelfeld, Mapei muss offensiv punkten",
+        "saisonziel_gast": "Rückkehr Richtung Conference/Europa-Plätze - aktuell Form-Krise (3 Spiele ohne Sieg: Pleite Como, Pleite Inter, 2:2 Atalanta) - Vanoli unter Druck",
+        "motivations_asymmetrie": "Fiorentina muss gewinnen (3 Spiele sieglos, Trainer unter Druck) - aber Conference-Donnerstag drückt auf Startelf. Sassuolo zuhause mit Mapei-Boost, 1:1 vs Milan und 0:2 bei Como - Mittelfeld-Form. BTTS-Trend klar: beide in letzten 3 Spielen min. 1 Gegentor.",
+        "recovery_heim": "9 Tage seit 0:2 bei Como (24.10.) - voll ausgeruht",
+        "recovery_gast": "4 Tage seit 2:2 vs Atalanta (29.10.) - Conference-Spiel Do 05.11. in 3 Tagen danach, Rotation sehr wahrscheinlich",
+        "quellen": [
+          "https://en.legaseriea.it/team/fiorentina",
+          "https://en.legaseriea.it/team/sassuolo",
+          "https://www.fantacalcio.it/news/calcio-italia/30_10_2026/serie-a-gli-arbitri-della-10-giornata-guida-dirige-il-derby-di-milano-sozza-juventus-napoli-500002",
+          "https://www.uefa.com/uefaconferenceleague/fixtures-results/",
+          "https://www.sportsgambler.com/betting-tips/football/sassuolo-vs-fiorentina-prediction-lineups-odds-2026-11-02/"
+        ]
+      },
+      "news": [
+        "Serie A G10 schließt am Mo 02.11. mit Sassuolo-Fiorentina 18:30 und Atalanta-Parma 20:45",
+        "Fiorentina ohne Sieg in den letzten 3 Spielen (vs Como 1:3, bei Inter 1:2, vs Atalanta 2:2) - Vanoli unter Druck",
+        "Pinamonti seit 27.08.2026 bei Lazio - Sassuolos Sturm neu zusammengesetzt (Volpato/Laurienté-Zentrum, Berardi auf Flügel)",
+        "Fiorentina mit Conference-Spiel Do 05.11. - Startelf-Rotation möglich, Pellegrino als zentraler 9er bestätigt",
+        "Beide Teams in den letzten 3 Spielen immer min. 1 Gegentor kassiert - BTTS-Trend",
+        "Thorstvedt (Sassuolo) gesperrt; Pongračić, Parisi, Sottil (Fiorentina) OUT"
+      ],
+      "tipps": [
+        {
+          "id": "sas-fio-1",
+          "kategorie": "value",
+          "markt": "Fiorentina oder Remis (Doppelte Chance X2)",
+          "quote": 1.65,
+          "edge_prozent": 6.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance X2 (73.7% Hit / +51.7% ROI). Fiorentina hat Not-Sieg-Druck, Sassuolo nur Mittelfeld-Form. Historisch sind Fiorentina-Auswärtsspiele gegen Serie-A-Aufsteiger stark. HR3: trotz Conference-Doppelbelastung ist DC statt direkter Sieg der richtige Hedge. Einsatz 15EUR (1.5% von 1000EUR). Bei bet365 live prüfen.",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "sas-fio-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.8,
+          "edge_prozent": 7.0,
+          "begruendung": "Markt-Goldgrube BTTS Ja (+28% ROI im System). Beide Teams in letzten 3 Spielen Gegentore kassiert, Fiorentina hat Offensivdruck, Sassuolo-Defense drittschlechteste der Liga. Mapei historisch tor-reich. Einsatz 15EUR (1.5%).",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "sas-fio-3",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.9,
+          "edge_prozent": 4.0,
+          "begruendung": "Markt-Goldgrube Über 2.5 (63.6% / +40.4%). Beide Teams defensiv wackelig, Druckspiel = oft 3+ Tore. Aber Fiorentina-Rotation mindert Chancenverwertung. Einsatz 5EUR (0.5%).",
+          "faire_quote": 2.05,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 4,
+        "halbzeit": {
+          "heim": 1,
+          "gast": 1
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-11-03T18:02:11+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "sas-fio-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.65,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "sas-fio-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.8,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "sas-fio-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.9,
+          "kommentar": ""
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "2:4",
+        "tore": [
+          {
+            "min": 25,
+            "team": "heim",
+            "spieler": "Armand Laurienté",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 47,
+            "team": "gast",
+            "spieler": "Mateo Pellegrino",
+            "stand_danach": "1:1",
+            "zusatz": "45+2' Nachspielzeit HZ1"
+          },
+          {
+            "min": 50,
+            "team": "gast",
+            "spieler": "Alieu Njie",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 65,
+            "team": "heim",
+            "spieler": "Armand Laurienté",
+            "stand_danach": "2:2"
+          },
+          {
+            "min": 79,
+            "team": "gast",
+            "spieler": "Franco Mastantuono",
+            "stand_danach": "2:3"
+          },
+          {
+            "min": 93,
+            "team": "gast",
+            "spieler": "Víctor Valdepeñas",
+            "stand_danach": "2:4",
+            "zusatz": "90+3'"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Fiorentina fuehrte spaet, max Zwischenstand-Diff war 1 Tor zu beiden Seiten (1:0 Sassuolo nach 25', dann 2:2 nach 65', danach drei Tore Fio in 25 Min). Keine 2-Tor-Drehung zur Gegenseite."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Unentschieden/Fiorentina",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Víctor Valdepeñas",
+            "aus": null,
+            "minute": 93,
+            "tor": true,
+            "details": "Later-Sub Valdepeñas trifft zum 2:4-Endstand - Volumen-Backup-Impact bei Fiorentina"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Fiorentina trotz Not-Druck + Conference-Rotation-Risiko gewinnt klar 4:2 - Vanoli-Effekt (Mastantuono/Njie-Sub-Impact).",
+          "BTTS + Ü2.5 + DC X2 Triple-Hit - alle drei Sassuolo-Fiorentina-Einzeltipps liefen durch, einschliesslich DC X2 trotz expliziter Conference-Rotations-Warnung.",
+          "Fiorentina-Scorer kommen 4x von verschiedenen Spielern (Pellegrino, Njie, Mastantuono, Valdepeñas) - breiter Angriff ohne Lewandowski/Kean-Figur."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-02-ata-par",
+      "liga": "Serie A 2026/27 - Giornata 10",
+      "heim": "Atalanta BC",
+      "gast": "Parma Calcio",
+      "anstoss": "2026-11-02T20:45:00+01:00",
+      "stadion": "Gewiss Stadium (New Balance Arena), Bergamo",
+      "saison_kontext": {
+        "parallel_heim": "UEFA Champions League Ligaphase läuft parallel - Atalanta MD4 am Mi 04.11. (nur 2 Tage danach!) - akute CL-Last, HR3 Rotation hoechst wahrscheinlich bei Stammspielern",
+        "parallel_gast": "keine - Parma 2026/27 ohne Europapokal",
+        "saisonziel_heim": "Rückkehr in CL-Plätze - unter neuem Trainer Juric Form noch nicht konstant (1:3 bei Milan, 2:2 bei Fiorentina)",
+        "saisonziel_gast": "Klassenerhalt - 0:3 vs Torino zuletzt (19.10.) war Alarmsignal, Defense in Krise, Gilardino als Trainer erst seit 30.09.",
+        "motivations_asymmetrie": "Atalanta Heim-Favorit gegen schwaches Parma - ABER CL in 48h, Juric rotiert mit hoher Wahrscheinlichkeit. Parma mit Not-Druck + Scamacca/Raspadori-OUT bei Atalanta -> Krstovic trägt Last. Edge kleiner als nominale Quote suggeriert.",
+        "recovery_heim": "4 Tage seit 2:2 bei Fiorentina (29.10.) - CL in 2 Tagen bedeutet maximales Rotations-Risiko bei Krstovic-Ersatz-Flügeln",
+        "recovery_gast": "14 Tage seit 0:3 vs Torino (19.10.) - voll ausgeruht aber ohne Spielpraxis",
+        "quellen": [
+          "https://en.legaseriea.it/team/atalanta",
+          "https://en.legaseriea.it/team/parma",
+          "https://www.fantacalcio.it/news/calcio-italia/30_10_2026/serie-a-gli-arbitri-della-10-giornata-guida-dirige-il-derby-di-milano-sozza-juventus-napoli-500002",
+          "https://www.uefa.com/uefachampionsleague/fixtures-results/",
+          "https://www.sportsgambler.com/betting-tips/football/atalanta-vs-parma-prediction-lineups-odds-2026-11-02/"
+        ]
+      },
+      "news": [
+        "Atalanta mit CL Matchday 4 am Mi 04.11. - Rotation unausweichlich (HR3)",
+        "Parma 0:3 zuhause gegen Torino (19.10.) - Defense in akuter Krise, Trainer Gilardino neu",
+        "Lookman seit Februar bei Atletico Madrid - Atalantas Offensive um Krstovic (6 Saisontore) umgebaut",
+        "de Roon seit 30.08.2026 bei Roma - Atalanta-Mittelfeld neu, Pasalic + Ederson zentral",
+        "Krstovic: 4 Spiele in Folge Shot on Target (2 pro Spiel) - HR24 erfüllt (Form + einzige fitte 9er-Option)",
+        "Scamacca + Raspadori + Bellanova + Hien + Kolasinac + Kossounou OUT",
+        "Giornata 10 Liga-Goldgrube: 83.3% Hitrate / +160.8% ROI aktuell"
+      ],
+      "tipps": [
+        {
+          "id": "ata-par-1",
+          "kategorie": "wackel",
+          "markt": "Sieg Atalanta (90 Min)",
+          "quote": 1.65,
+          "edge_prozent": 8.0,
+          "begruendung": "Serie A G10 Liga-Goldgrube + Heim-Favorit gegen Parma mit Defense-Krise. Trotz CL-Rotation sollte Atalantas Qualität reichen - aber die eigene Motivations-Asymmetrie sagt 'Edge kleiner als nominale Quote suggeriert' + Scamacca/Raspadori-OUT, deshalb Saison-Kontext-Sanity-Downgrade auf wackel. Einsatz 5EUR (0.5%). bet365 live prüfen.",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "_saison_kontext_sanity_downgrade": true
+        },
+        {
+          "id": "ata-par-2",
+          "kategorie": "wackel",
+          "markt": "Atalanta oder Remis (Doppelte Chance 1X)",
+          "quote": 1.25,
+          "edge_prozent": 10.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance 1X (83.3% / +44.8%). Niedrige Quote aber bei CL-Rotation sinnvoll als DC. Automatisch auf wackel runtergestuft (Saison-Kontext-Sanity, Routine sagt selbst Edge kleiner). Einsatz 10EUR (1%). bet365 live prüfen.",
+          "faire_quote": 1.14,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_saison_kontext_sanity_downgrade": true
+        },
+        {
+          "id": "ata-par-3",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.7,
+          "edge_prozent": 7.0,
+          "begruendung": "Markt-Goldgrube Über 2.5 (63.6% / +40.4%). Atalanta offensiv auch mit Rotation, Parma kassiert gerne (3 Tore in letzter Partie). Einsatz 15EUR (1.5%).",
+          "faire_quote": 1.59,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "ata-par-4",
+          "kategorie": "value",
+          "markt": "Krstovic Torschütze jederzeit",
+          "quote": 2.0,
+          "edge_prozent": 12.0,
+          "begruendung": "Markt-Goldgrube Torschützen Jederzeit (+24% ROI, 50% Hitrate). HR24 erfüllt: 6 Saisontore + zentraler 9er + einzige fitte Option (Scamacca+Raspadori OUT). 4 Spiele in Folge Shot on Target (2/Spiel). Einwechslungs-Boost falls Zalewski/Ederson für Krstovic. Einsatz 15EUR (1.5%).",
+          "faire_quote": 1.78,
+          "empfohlener_einsatz_prozent": 1.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 3,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 1
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-11-03T18:02:11+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ata-par-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Parma 0:3 - 2:0-Insurance greift NICHT (nur 1. Bundesliga + CL, nicht Serie A)"
+        },
+        {
+          "tipp_id": "ata-par-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "ata-par-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.7,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "ata-par-4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Krstovic kein Tor; Atalanta 0 Tore - Einwechslungs-Boost auch nicht moeglich (Parma-Scorer: Fabbian 41', Zappacosta ET 47', Lontani 58')"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "0:3",
+        "tore": [
+          {
+            "min": 41,
+            "team": "gast",
+            "spieler": "Giovanni Fabbian",
+            "stand_danach": "0:1",
+            "zusatz": "Kopfball nach Sierro-Ecke"
+          },
+          {
+            "min": 47,
+            "team": "gast",
+            "spieler": "Davide Zappacosta (Eigentor)",
+            "stand_danach": "0:2",
+            "zusatz": "ET nach Toure-Flanke"
+          },
+          {
+            "min": 58,
+            "team": "gast",
+            "spieler": "Simone Lontani",
+            "stand_danach": "0:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Parma fuehrte durchgehend. Zwischenstand-Diff max 3 Tore zur Gastseite. Keine Drehung-Umkehr."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Parma/Parma",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Atalanta-Startelf",
+            "details": "Juric rotierte deutlich vor CL MD4 (04.11.) - erwartungsgemaess HR3-Last. Krstovic auf der Bank gestartet / frueh getauscht laut berichteter 3:0-Pleite."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Serie-A-G10-Goldgrube bricht mit 0:3-Heimpleite der Atalanta ein - CL-Rotations-Preis real, nicht theoretisch (Juric-Fassung ohne Krstovic-Volumen flog gegen Parma-Defense-Krise).",
+          "Krstovic-Torschuetzen-Tipp verliert trotz HR24-Dreifach-Erfuellung - zeigt, wie empfindlich Volume-9er auf Startelf-Rotation sind, wenn alleinige Option.",
+          "Parma mit Alarm-Vorzeichen (0:3 vs Torino 19.10., Trainer neu seit 30.09.) holt ersten Auswaertsrang-Sieg - Form-Krisen-Rebound-Pattern."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-02-lor-bre",
+      "liga": "Ligue 1 2026/27 - 11. Spieltag (Posticipo-Montag)",
+      "heim": "FC Lorient",
+      "gast": "Stade Brest 29",
+      "anstoss": "2026-11-02T20:45:00+01:00",
+      "stadion": "Stade du Moustoir - Yves Allainmat, Lorient",
+      "saison_kontext": {
+        "parallel_heim": "keine - Lorient nur Ligue 1, kein Europapokal (seit Jahren)",
+        "parallel_gast": "keine - Brest nur Ligue 1 (letztes CL-Jahr 25/26 abgeschlossen, keine EU-Teilnahme 26/27)",
+        "saisonziel_heim": "Klassenerhalt - Platz 10 in Ligue 1 nach ca. 11 Spielen, 3 Pkt vor Brest",
+        "saisonziel_gast": "Klassenerhalt - Platz 13 in Ligue 1",
+        "motivations_asymmetrie": "Breton-Derby, beide direkt auf Augenhöhe, kein klarer Favorit. Heimvorteil + Fan-Druck leicht pro Lorient, aber kein Klassen-Edge. Coinflip-Spiel - deshalb Markt-Mix statt direkter Sieg-SAFE.",
+        "recovery_heim": "~5 Tage seit letztem Spiel - regulär",
+        "recovery_gast": "~5 Tage seit letztem Spiel - regulär",
+        "quellen": [
+          "https://www.sportsgambler.com/betting-tips/football/lorient-vs-brest-prediction-lineups-odds-2026-11-02/",
+          "https://www.whoscored.com/articles/WEsJfrVVwka52hoI2SbfAg/show/cng111-20261102-lorient-vs-brest-prediction-1793620257",
+          "https://www.ligue1.com/clubs/lorient",
+          "https://www.ligue1.com/clubs/stade-brestois-29"
+        ]
+      },
+      "news": [
+        "Breton Derby - Coinflip-Charakter (2.50/3.20/2.90)",
+        "Lorient knapper Heim-Favorit (41% implizit) wegen Heimvorteil + Fan-Druck",
+        "Lorient OUT: Katseris (Leiste bis Mitte Nov.), Fadiga (Hamstring); Doubt: Bamba, Mbamba",
+        "Brest OUT: Le Guen (Wadenbein Langzeit), Chardonnet (Wade) - Tousart rückt in IV auf"
+      ],
+      "tipps": [
+        {
+          "id": "lor-bre-1",
+          "kategorie": "value",
+          "markt": "Lorient oder Remis (Doppelte Chance)",
+          "quote": 1.42,
+          "edge_prozent": 7.0,
+          "begruendung": "Markt-Goldgrube DC 1X (83.3% / +44.8%). Lorient Heim-Favorit (41% implizit) im Breton-Derby, Brest-Defense durch Chardonnet-Problem geschwächt. Einsatz 15EUR (1.5%).",
+          "faire_quote": 1.33,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "lor-bre-2",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.8,
+          "edge_prozent": 4.0,
+          "begruendung": "Markt-Goldgrube BTTS Ja. Derby-Charakter + beide Teams mit Verletzungen in Abwehr. Historisch tor-reich. Einsatz 5EUR (0.5%).",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "lor-bre-3",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 2.1,
+          "edge_prozent": 3.0,
+          "begruendung": "Markt-Goldgrube Über 2.5. Derby-Setup + beide offensiv aktiv (Brest 1,4 Tore/Spiel, Lorient 1,2). Coinflip-Charakter deshalb wackel. Einsatz 5EUR (0.5%).",
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 2,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 0
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-11-03T18:02:17+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "lor-bre-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Brest-Auswaertssieg 0:2 (Ajorque 69', Edjouma 90+2')"
+        },
+        {
+          "tipp_id": "lor-bre-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "lor-bre-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:2",
+        "tore": [
+          {
+            "min": 69,
+            "team": "gast",
+            "spieler": "Ludovic Ajorque",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 92,
+            "team": "gast",
+            "spieler": "Noah Edjouma",
+            "stand_danach": "0:2",
+            "zusatz": "90+2', Assist Versini"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Durchgehender Brest-Vorteil, keine Lorient-Fuehrung."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Brest",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "Noah Edjouma",
+            "aus": null,
+            "minute": 92,
+            "tor": true,
+            "details": "Edjouma trifft in Nachspielzeit zum 0:2 - Sub-Impact Brest"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Breton-Derby mit 0:0-HZ und spaeten Toren - Coinflip-Charakter manifestiert sich zu Brests Gunsten (69'+90+2').",
+          "DC-Goldgrube 1X Lorient bricht - 'knapper Heim-Favorit 41% implizit' war nicht genug Edge. Beobachtungs-Kandidat Ligue 1 11. Spieltag.",
+          "BTTS + Ü2.5 beide verloren - defensive, torarme Partie trotz Derby-Erwartung."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-02-new-eve",
+      "liga": "Premier League 2026/27 - Matchweek 9",
+      "heim": "Newcastle United",
+      "gast": "Everton FC",
+      "anstoss": "2026-11-02T21:00:00+01:00",
+      "stadion": "St James' Park, Newcastle",
+      "saison_kontext": {
+        "parallel_heim": "keine - Newcastle 2026/27 ohne europäischen Hauptwettbewerb aktuell im Matchweek-Fenster; EFL-Cup 4. Runde am 29.10. bereits gespielt (1:3 verloren gegen Everton!)",
+        "parallel_gast": "keine - Everton nur Premier League und EFL-Cup",
+        "saisonziel_heim": "Rückkehr Richtung Top-6 nach Umbruch (Isak/Gordon/Tonali/Guimaraes alle weg) - Volume-Sturm mit Woltemade/Wissa/Elanga noch im Finden",
+        "saisonziel_gast": "Mittelfeld-Konsolidierung nach Villa-Jackson-Umbruch, aktuell Form-Hoch (3:1 EFL-Cup bei Newcastle am 29.10.)",
+        "motivations_asymmetrie": "Everton kommt vom 3:1-Sieg im St James' Park (EFL-Cup, 29.10.) - mentales Momentum. Newcastle muss Punkte gegen die eigene Krise sammeln. Newcastle Heim-Vorteil aber eigene PL-Form nicht überzeugend. PL MW9 steht als Beobachtungs-Liga (-77% ROI 30d), deshalb hier konservativ.",
+        "recovery_heim": "4 Tage seit 1:3 EFL-Cup vs Everton (29.10.) - gleicher Gegner, revenge-Mentalität. Vorher PL-Match am 26.10./27.10.",
+        "recovery_gast": "4 Tage seit 3:1 EFL-Cup bei Newcastle (29.10.) + 2:0 bei Arsenal (24.10.) - heiss aber viele Spiele kurz hintereinander",
+        "quellen": [
+          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
+          "https://premierleaguenewsnow.com/2026/11/01/newcastle-everton-preview-team-news-lineups-prediction/",
+          "https://www.sportsgambler.com/betting-tips/football/newcastle-vs-everton-prediction-lineups-odds-2026-11-02/",
+          "https://www.toffeeweb.com/season/26-27/news/newcastle-utd-vs-everton-match-preview-and-team-news/"
+        ]
+      },
+      "news": [
+        "Everton gewann 3:1 im EFL-Cup bei Newcastle vor 4 Tagen - mentaler Vorteil Everton",
+        "Isak (jetzt Liverpool), Gordon (jetzt Barcelona), Tonali (Tottenham), Bruno Guimaraes (Arsenal) alle weg - Newcastle im Kader-Umbruch",
+        "Newcastle Neuzugänge Woltemade (ex Stuttgart) + Wissa (ex Brentford) + Elanga (ex Forest) als Volume-Sturm",
+        "PL MW9 ist Beobachtungs-Liga (-77.0% ROI 30d) - deshalb nur Wackel-Tipps hier, kein SAFE/VALUE",
+        "Newcastle keine Clean Sheet zuhause diese Saison"
+      ],
+      "tipps": [
+        {
+          "id": "new-eve-1",
+          "kategorie": "wackel",
+          "markt": "Newcastle oder Remis (Doppelte Chance 1X)",
+          "quote": 1.5,
+          "edge_prozent": 3.0,
+          "begruendung": "Beobachtungs-Liga PL MW9 (-77% ROI) - deshalb bewusst nur Wackel, kein SAFE/VALUE auch bei DC-Markt-Goldgrube. Newcastle Heimvorteil aber Everton frisch vom 3:1 EFL-Cup. Einsatz 5EUR (0.5%). bet365 live prüfen.",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "new-eve-2",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.7,
+          "edge_prozent": 5.0,
+          "begruendung": "Newcastle ohne Clean Sheet zuhause, Everton offensiv heiss (2:0 bei Arsenal + 3:1 bei Newcastle). Markt-Goldgrube BTTS Ja aber in Beob-Liga nur Wackel. Einsatz 5EUR.",
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 1,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 0
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-11-03T18:02:24+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "new-eve-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "new-eve-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": 49,
+            "team": "gast",
+            "spieler": "Thierno Barry",
+            "stand_danach": "0:1",
+            "zusatz": "VAR-Check offside, Tor steht"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Everton fuehrte ab 49', Newcastle traf nicht."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Everton",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Everton holt mit 1:0 den ersten PL-Auswaertssieg der Saison; Newcastle mit Jacob-Ramsey-Rot nach dem Ausgleichspiel-Momentum.",
+          "PL-MW9-Beobachtungs-Status bestaetigt: Newcastle-DC + BTTS beide verloren - -77% ROI 30d macht konservativ-Wackel-Degrade genau richtig.",
+          "Thierno Barry (Everton-Neuzugang) Volume-Treffer nach Keeper-Fehler - Backup-Scorer-Pattern. Woltemade kein Tor, Newcastle offensiv stumpf."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-02-dep-osa",
+      "liga": "LaLiga 2026/27 - Jornada 11 (Posticipo-Montag)",
+      "heim": "RC Deportivo de La Coruña",
+      "gast": "CA Osasuna",
+      "anstoss": "2026-11-02T21:00:00+01:00",
+      "stadion": "Estadio Abanca-Riazor, La Coruña",
+      "saison_kontext": {
+        "parallel_heim": "keine - Deportivo nur LaLiga + Copa del Rey (nächste Runde später im November)",
+        "parallel_gast": "keine - Osasuna nur LaLiga, keine EU-Teilnahme 26/27",
+        "saisonziel_heim": "Klassenerhalt - Aufsteiger auf Platz 13 mit 11 Punkten nach 10 Spielen, 6 Spiele ohne Sieg",
+        "saisonziel_gast": "Mittelfeld-Konsolidierung - Platz 15 mit 11 Punkten, 4 Auswärts-Niederlagen in Folge",
+        "motivations_asymmetrie": "Beide direkt im Abstiegskampf-Umfeld, beide Krisen-Serien. Deportivo zuhause mit minimalem Heimvorteil, aber Aubameyang + Casadó OUT schwächt Offensive. Osasuna auswärts fragil - Budimir trägt die Last.",
+        "recovery_heim": "~5 Tage seit letzter Partie - regulär",
+        "recovery_gast": "~2 Tage seit 2:0-Niederlage gegen Sevilla (31.10.) - leicht gestresst",
+        "quellen": [
+          "https://www.sportsgambler.com/betting-tips/football/deportivo-la-coruna-vs-osasuna-prediction-lineups-odds-2026-11-02/",
+          "https://insights.betfred.com/football/la-liga/deportivo-vs-osasuna-prediction-betting-tips-monday-2-november-2026/",
+          "https://www.laliga.com/en-GB/laliga-easports/results"
+        ]
+      },
+      "news": [
+        "Deportivo leichter Heim-Favorit (ca. 2.15 Sieg-Quote, 23/20 implizit)",
+        "Deportivo OUT: Aubameyang, Casadó (beide verletzt), Bright Ede; Doubt: Eddahchouri",
+        "Osasuna OUT: Oroz, Herrando; Doubt: Del Castillo - Budimir alleinige Spitze",
+        "Osasuna 4 Auswärts-Niederlagen in Folge, Deportivo 6 Spiele ohne Sieg",
+        "Beide Teams nur 10-11 Tore in 10 Spielen - defensive, offensiv zahnlose Partie wahrscheinlich",
+        "Yeremay Hernández als Deportivo-Rechtsaußen bestätigt in Aufstellung"
+      ],
+      "tipps": [
+        {
+          "id": "dep-osa-1",
+          "kategorie": "value",
+          "markt": "Deportivo oder Remis (Doppelte Chance)",
+          "quote": 1.42,
+          "edge_prozent": 6.0,
+          "begruendung": "Markt-Goldgrube DC 1X (83.3% / +44.8%). Deportivo leichter Heim-Favorit, Osasuna 4 Auswärts-Niederlagen in Folge + erst 2 Tage nach Sevilla-Niederlage. Riazor-Heimvorteil klassisch. Einsatz 15EUR (1.5%).",
+          "faire_quote": 1.33,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "dep-osa-2",
+          "kategorie": "value",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.33,
+          "edge_prozent": 5.0,
+          "begruendung": "Beide Teams offensiv schwach (Deportivo 11 Tore / Osasuna 10 Tore in 10 Spielen) + Aubameyang bei Deportivo OUT. Historisch tor-arme Partien beider Teams. Einsatz 10EUR (1%).",
+          "faire_quote": 1.27,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "dep-osa-3",
+          "kategorie": "wackel",
+          "markt": "Budimir Torschütze jederzeit",
+          "quote": 2.8,
+          "edge_prozent": 5.0,
+          "begruendung": "Markt-Goldgrube Torschützen Jederzeit. Budimir alleiniger zentraler 9er bei Osasuna mit vollem Volumen - trotz Auswärts-Krise alleiniger Zielspieler. Deportivo-Defense als Aufsteiger wacklig. Einsatz 5EUR (0.5%).",
+          "faire_quote": 2.6,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 1,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 1
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-11-03T18:02:31+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "dep-osa-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.42,
+          "kommentar": "Deportivo 2:1 - Soriano 64', Nsongo 87'"
+        },
+        {
+          "tipp_id": "dep-osa-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.33,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "dep-osa-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.8,
+          "kommentar": "Budimir 32' (0:1-Fuehrung) - Volume-9er bestaetigt, keine 2:0-Insurance noetig"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "2:1",
+        "tore": [
+          {
+            "min": 32,
+            "team": "gast",
+            "spieler": "Ante Budimir",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 64,
+            "team": "heim",
+            "spieler": "Mario Soriano",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 87,
+            "team": "heim",
+            "spieler": "Bil Nsongo",
+            "stand_danach": "2:1",
+            "zusatz": "Spaet-Winner"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "0:1 Halbzeit, Depor dreht - aber nur 1-Tor-Differenz zwischendrin, kein Drehungs-Flag nach Algo (brauchts ≥2 Tor Diff)."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Osasuna/Deportivo",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Bil Nsongo",
+            "aus": null,
+            "minute": 87,
+            "tor": true,
+            "details": "Nsongo spaet eingewechselt trifft zum Sieg - Backup-Impact als Winner."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Depor-Comeback trotz 'Riazor-Heimvorteil knapp'-Setup - DC + Unter 3.5 + Budimir Triple-Hit, einziges 3/3-Spiel neben Sas-Fio.",
+          "Budimir als alleinige Osasuna-Spitze trifft erwartungsgemaess - HR24-Volume-9er-Logik bestaetigt (Kontrast zur Krstovic-Pleite trotz gleicher Signatur: Hier spielte Budimir mit, bei Atalanta rotierte Juric Krstovic weg).",
+          "Comeback-Winner durch Backup-Sub Nsongo - Volume-Sub-Impact-Pattern (analog Valdepeñas 90+3' bei Fiorentina)."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "ata-par-4",
+      "spiel_id": "2026-11-02-ata-par",
+      "spiel_label": "Atalanta vs Parma",
+      "kategorie": "value",
+      "markt": "Krstovic Torschütze jederzeit",
+      "quote": 2.0,
+      "edge_prozent": 12.0,
+      "begruendung": "Markt-Goldgrube Torschützen Jederzeit (+24% ROI). HR24 erfüllt: 6 Saisontore + zentraler 9er + einzige fitte Option (Scamacca+Raspadori OUT). 4 Spiele Shot on Target in Folge. 15EUR.",
+      "faire_quote": 1.78,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
+    },
+    {
+      "id": "ata-par-3",
+      "spiel_id": "2026-11-02-ata-par",
+      "spiel_label": "Atalanta vs Parma",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.7,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube Über 2.5 Tore (63.6% / +40.4%). Atalanta offensiv, Parma defensiv gebrochen. 15EUR (1.5%).",
+      "faire_quote": 1.59,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
+    },
+    {
+      "id": "sas-fio-2",
+      "spiel_id": "2026-11-02-sas-fio",
+      "spiel_label": "Sassuolo vs Fiorentina",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.8,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube BTTS Ja. Beide Teams in letzten 3 Spielen Gegentore. 15EUR.",
+      "faire_quote": 1.7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
+    },
+    {
+      "id": "sas-fio-1",
+      "spiel_id": "2026-11-02-sas-fio",
+      "spiel_label": "Sassuolo vs Fiorentina",
+      "kategorie": "value",
+      "markt": "Fiorentina oder Remis (Doppelte Chance X2)",
+      "quote": 1.65,
+      "edge_prozent": 6.0,
+      "begruendung": "Markt-Goldgrube DC X2. Fiorentina Not-Sieg-Druck + Conference-Hedge via DC statt direktem Sieg. 15EUR.",
+      "faire_quote": 1.55,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
+    },
+    {
+      "id": "lor-bre-1",
+      "spiel_id": "2026-11-02-lor-bre",
+      "spiel_label": "Lorient vs Brest",
+      "kategorie": "value",
+      "markt": "Lorient oder Remis (Doppelte Chance)",
+      "quote": 1.42,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube DC 1X. Lorient Heim-Favorit im Breton-Derby, Brest-Defense durch Chardonnet-Problem geschwächt. 15EUR.",
+      "faire_quote": 1.33,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5
+    },
+    {
+      "id": "dep-osa-1",
+      "spiel_id": "2026-11-02-dep-osa",
+      "spiel_label": "Deportivo vs Osasuna",
+      "kategorie": "value",
+      "markt": "Deportivo oder Remis (Doppelte Chance)",
+      "quote": 1.42,
+      "edge_prozent": 6.0,
+      "begruendung": "Markt-Goldgrube DC 1X. Osasuna 4 Auswärts-Niederlagen in Folge, nur 2 Tage nach Sevilla-Niederlage. 15EUR.",
+      "faire_quote": 1.33,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6
+    },
+    {
+      "id": "dep-osa-2",
+      "spiel_id": "2026-11-02-dep-osa",
+      "spiel_label": "Deportivo vs Osasuna",
+      "kategorie": "value",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.33,
+      "edge_prozent": 5.0,
+      "begruendung": "Beide Teams offensiv zahnlos (10-11 Tore in 10 Spielen) + Aubameyang-OUT bei Deportivo. 10EUR.",
+      "faire_quote": 1.27,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
+    },
+    {
+      "id": "sas-fio-3",
+      "spiel_id": "2026-11-02-sas-fio",
+      "spiel_label": "Sassuolo vs Fiorentina",
+      "kategorie": "wackel",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.9,
+      "edge_prozent": 4.0,
+      "begruendung": "Markt-Goldgrube Über 2.5. Beide defensiv wackelig aber Fiorentina-Rotation mindert Chancen-Volumen. 5EUR.",
+      "faire_quote": 2.05,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8
+    },
+    {
+      "id": "new-eve-1",
+      "spiel_id": "2026-11-02-new-eve",
+      "spiel_label": "Newcastle vs Everton",
+      "kategorie": "wackel",
+      "markt": "Newcastle oder Remis (Doppelte Chance 1X)",
+      "quote": 1.5,
+      "edge_prozent": 3.0,
+      "begruendung": "PL MW9 Beobachtungs-Liga (-77% ROI 30d) - deshalb bewusst nur Wackel. Newcastle Heim-Vorteil aber Everton heiss nach 3:1 EFL-Cup-Sieg. 5EUR.",
+      "faire_quote": 1.55,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9
+    },
+    {
+      "id": "new-eve-2",
+      "spiel_id": "2026-11-02-new-eve",
+      "spiel_label": "Newcastle vs Everton",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen",
+      "quote": 1.7,
+      "edge_prozent": 5.0,
+      "begruendung": "Newcastle keine Clean Sheet zuhause, Everton offensiv heiss. Beob-Liga -> nur Wackel. 5EUR.",
+      "faire_quote": 1.6,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10
+    },
+    {
+      "id": "dep-osa-3",
+      "spiel_id": "2026-11-02-dep-osa",
+      "spiel_label": "Deportivo vs Osasuna",
+      "kategorie": "wackel",
+      "markt": "Budimir Torschütze jederzeit",
+      "quote": 2.8,
+      "edge_prozent": 5.0,
+      "begruendung": "Markt-Goldgrube Torschützen Jederzeit. Budimir alleinige Spitze Osasunas - volles Volumen. 5EUR.",
+      "faire_quote": 2.6,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 11
+    },
+    {
+      "id": "lor-bre-2",
+      "spiel_id": "2026-11-02-lor-bre",
+      "spiel_label": "Lorient vs Brest",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen",
+      "quote": 1.8,
+      "edge_prozent": 4.0,
+      "begruendung": "Markt-Goldgrube BTTS. Derby + beidseitige Abwehr-Probleme. 5EUR.",
+      "faire_quote": 1.7,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 12
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "kategorie": "safe",
+      "name": "Mo-Safe (3 DC-Goldgruben in 3 Ligen)",
+      "beine": [
+        {
+          "spiel_id": "2026-11-02-sas-fio",
+          "spiel_label": "Sassuolo vs Fiorentina",
+          "markt": "Fiorentina oder Remis (Doppelte Chance X2)",
+          "quote": 1.65,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-11-02-lor-bre",
+          "spiel_label": "Lorient vs Brest",
+          "markt": "Lorient oder Remis (Doppelte Chance)",
+          "quote": 1.42,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-11-02-dep-osa",
+          "spiel_label": "Deportivo vs Osasuna",
+          "markt": "Deportivo oder Remis (Doppelte Chance)",
+          "quote": 1.42,
+          "kategorie": "safe"
+        }
+      ],
+      "gesamtquote": 3.33,
+      "rechnung": "1.65 x 1.42 x 1.42 = 3.33",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "stake_euro": 20.0,
+      "potenzieller_gewinn_euro": 66.6,
+      "begruendung": "Drei Markt-Goldgrube-DCs aus drei verschiedenen Ligen (Serie A G10 Goldgrube, Ligue 1 Breton-Derby mit Heim-Edge, LaLiga Posticipo mit Riazor-Heim-Edge). Alle Teams mit Form-/Verletzungs-Vorteil gegen Gäste. Kein Sieg-Outcome-Overlap mit anderen Kombis. 20EUR (2%)."
+    },
+    {
+      "id": "kombi-balance",
+      "kategorie": "balance",
+      "name": "Mo-Balance (Markt-Mix 1 Sieg + 1 BTTS + 1 Spielertor)",
+      "beine": [
+        {
+          "spiel_id": "2026-11-02-new-eve",
+          "spiel_label": "Newcastle vs Everton",
+          "markt": "Newcastle oder Remis (Doppelte Chance 1X)",
+          "quote": 1.5,
+          "kategorie": "balance"
+        },
+        {
+          "spiel_id": "2026-11-02-sas-fio",
+          "spiel_label": "Sassuolo vs Fiorentina",
+          "markt": "Beide Teams treffen",
+          "quote": 1.8,
+          "kategorie": "balance"
+        },
+        {
+          "spiel_id": "2026-11-02-dep-osa",
+          "spiel_label": "Deportivo vs Osasuna",
+          "markt": "Budimir Torschütze jederzeit",
+          "quote": 2.8,
+          "kategorie": "balance"
+        }
+      ],
+      "gesamtquote": 7.56,
+      "rechnung": "1.50 x 1.80 x 2.80 = 7.56",
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 8.0,
+      "stake_euro": 8.0,
+      "potenzieller_gewinn_euro": 60.48,
+      "begruendung": "Mix: Newcastle-DC als Sieg-Outcome (einzig verbleibend neben Safe), BTTS in Sassuolo-Fiorentina als Markt-Goldgrube, Budimir als alleiniger Osasuna-9er. 8EUR (0.8%).",
+      "layer_notes": "Layer-2 OK (Newcastle einziger Sieg-Outcome in Balance, sauber getrennt von Safe-DCs). Layer-3 OK, Markt-entkoppelt."
+    },
+    {
+      "id": "kombi-risiko",
+      "kategorie": "risk",
+      "name": "Mo-Risiko (2 Spielertore + 1 Tor-Total + 1 BTTS)",
+      "beine": [
+        {
+          "spiel_id": "2026-11-02-ata-par",
+          "spiel_label": "Atalanta vs Parma",
+          "markt": "Krstovic Torschütze jederzeit",
+          "quote": 2.0,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-11-02-lor-bre",
+          "spiel_label": "Lorient vs Brest",
+          "markt": "Über 2.5 Tore",
+          "quote": 2.1,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-11-02-sas-fio",
+          "spiel_label": "Sassuolo vs Fiorentina",
+          "markt": "Berardi Torschütze jederzeit",
+          "quote": 2.8,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-11-02-new-eve",
+          "spiel_label": "Newcastle vs Everton",
+          "markt": "Beide Teams treffen",
+          "quote": 1.7,
+          "kategorie": "risk"
+        }
+      ],
+      "gesamtquote": 20.0,
+      "rechnung": "2.00 x 2.10 x 2.80 x 1.70 = 20.00",
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 2.5,
+      "stake_euro": 2.5,
+      "potenzieller_gewinn_euro": 50.0,
+      "begruendung": "Zwei Volumen-Stürmer (Krstovic 6 Tore + Berardi Sassuolo-Flügel-Volumen) + Tor-Total im Derby + BTTS in offener Monday Night. Keine Sieg-Outcomes - Markt-entkoppelt zu Safe/Balance. 2.50EUR (0.25%).",
+      "layer_notes": "Layer-2 sauber (keine Sieg-Outcomes). Layer-3 soft: alle 4 Spiele hier auch in Safe/Balance, aber Markt-entkoppelt."
+    },
+    {
+      "id": "kombi-moonshot",
+      "kategorie": "moonshot",
+      "name": "Mo-Moonshot (Spielertor-Lotterie + Derby-Open-Game)",
+      "beine": [
+        {
+          "spiel_id": "2026-11-02-sas-fio",
+          "spiel_label": "Sassuolo vs Fiorentina",
+          "markt": "Pellegrino Doppelpack (2+ Tore)",
+          "quote": 7.0,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-11-02-new-eve",
+          "spiel_label": "Newcastle vs Everton",
+          "markt": "Woltemade Torschütze jederzeit",
+          "quote": 3.5,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-11-02-dep-osa",
+          "spiel_label": "Deportivo vs Osasuna",
+          "markt": "Yeremay Hernández Torschütze jederzeit",
+          "quote": 2.6,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-11-02-lor-bre",
+          "spiel_label": "Lorient vs Brest",
+          "markt": "Über 3.5 Tore",
+          "quote": 3.5,
+          "kategorie": "moonshot"
+        }
+      ],
+      "gesamtquote": 222.95,
+      "rechnung": "7.00 x 3.50 x 2.60 x 3.50 = 222.95",
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 1.0,
+      "stake_euro": 1.0,
+      "potenzieller_gewinn_euro": 222.95,
+      "begruendung": "Lotterie-Kombi: Pellegrino als Fiorentina-9er gegen Sassuolos drittschlechteste Defense Doppelpack-fähig, Woltemade als Newcastles Volume-Sturm, Yeremay als Deportivo-Flügel mit Riazor-Form, Über 3.5 Tore im Derby wegen beidseitiger Defense-Probleme. 1EUR Spaßeinsatz.",
+      "layer_notes": "Layer-2 sauber (keine Sieg-Outcomes). Layer-3 soft: Pellegrino vs Berardi (Risiko) sind verschiedene Spieler aus gleichem Spiel - zählt als Markt-entkoppelt."
+    }
+  ],
+  "lessons_angewandt": [
+    "HR3 Rotation UEFA-Doppelbelastung: Atalanta CL in 48h -> Sieg-Tipp Saison-Kontext-Sanity-Downgrade auf wackel + Krstovic (einziger fitter 9er) als Form-Edge-Torschütze (HR24).",
+    "HR24 Form-Edge-Torschützen-Pflicht: Krstovic erfüllt 2 von 3 Bedingungen (6 Saisontore + zentraler 9er + einzige fitte Option) - Spielertor-Tipp Pflicht.",
+    "HR22 Star-OUT-Implosions-Risiko gemildert: Scamacca+Raspadori OUT bei Atalanta, aber Krstovic trägt Volumen - kein Mannschafts-Sieg-SAFE, stattdessen DC + Krstovic-Torschütze.",
+    "Markt-Goldgruben aktiv genutzt: Doppelte Chance 1X/X2 (4x), BTTS Ja (3x), Über 2.5 (3x), Torschützen Jederzeit (3x).",
+    "Beobachtungs-Liga PL MW9 (-77% ROI 30d): alle Newcastle-Everton-Tipps bewusst auf wackel heruntergestuft - Mapper hätte sonst eh degradiert.",
+    "Liga-Goldgrube Serie A G10 (ROI +160.8%): Beide Serie-A-Spiele dort - DC-SAFE in Safe-Kombi inkl. Fiorentina-DC-X2 dort gestützt.",
+    "DC-CAP: max 1 DC pro Spiel ✓, gesamt 3 DC in einzeltipps + 4 in Safe-Kombi (eigenständige Kombi-Konstruktion erlaubt).",
+    "Kader-Frische-Guardrail: Pinamonti (Sassuolo→Lazio), Gudmundsson (Fiorentina→Lazio), De Roon (Atalanta→Roma), Lookman (Atalanta→Atletico), Isak/Gordon/Tonali/Guimaraes (Newcastle-Umbruch), Aubameyang (Deportivo verletzt) explizit nicht als Torschützen getippt.",
+    "Trainer-Frische: Vanoli bei Fiorentina (seit 07.09.), Juric bei Atalanta, Gilardino bei Parma (seit 30.09.) - taktische Aussagen aktuell.",
+    "Keine 2:0-Insurance in Serie A / Ligue 1 / LaLiga / PL - explizit in Begründung erwähnt (nur BL+CL)."
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-11-02T14:10:00+01:00",
+    "drops": [],
+    "downgrades": [
+      {
+        "tipp_id": "ata-par-1",
+        "alt": "safe",
+        "neu": "wackel",
+        "grund": "Saison-Kontext-Sanity: eigene motivations_asymmetrie sagt 'Edge kleiner als nominale Quote suggeriert' + CL-Rotation in 48h"
+      },
+      {
+        "tipp_id": "ata-par-2",
+        "alt": "value",
+        "neu": "wackel",
+        "grund": "Saison-Kontext-Sanity-Downgrade (gleicher Mechanismus wie ata-par-1)"
+      },
+      {
+        "tipp_id": "new-eve-1",
+        "alt": "value",
+        "neu": "wackel",
+        "grund": "Beobachtungs-Liga PL MW9 (-77% ROI 30d) - automatischer Degrade"
+      },
+      {
+        "tipp_id": "new-eve-2",
+        "alt": "value",
+        "neu": "wackel",
+        "grund": "Beobachtungs-Liga PL MW9"
+      }
+    ],
+    "warns": [
+      {
+        "art": "quoten_live_pruefen",
+        "spiel_id": "ALL",
+        "details": "Alle Quoten aus Aggregator-Websites (sportsgambler, bleachernation, betfred, whoscored) - bei bet365 live verifizieren vor Platzierung. Abweichungen >5% möglich."
+      },
+      {
+        "art": "cl_rotation_risiko",
+        "spiel_id": "2026-11-02-ata-par",
+        "details": "Atalanta CL MD4 in 48h - Krstovic-Tipp sollte dennoch halten (Volumen-Stürmer-Pflicht), aber Rotation beobachten"
+      },
+      {
+        "art": "conference_rotation",
+        "spiel_id": "2026-11-02-sas-fio",
+        "details": "Fiorentina Conference Do 05.11. - Rotation möglich, deshalb DC X2 statt direktem Sieg"
+      },
+      {
+        "art": "watchdog_erweiterung",
+        "spiel_id": "ALL",
+        "details": "Hauptroutine 13:30 hat ursprünglich nicht geliefert - Watchdog 13:55 ergänzt um Serie A + PL. Diese Fassung erweitert um Ligue 1 (Lor-Bre) + LaLiga (Dep-Osa)."
+      }
+    ],
+    "lessons_generiert": [],
+    "layer_cross_check": {
+      "layer_1_max_1_bein_pro_spiel_pro_kombi": "OK",
+      "layer_2_sieg_outcome_max_1_kombi": "OK - Fiorentina DC X2 (Safe), Lorient DC 1X (Safe), Deportivo DC 1X (Safe), Newcastle DC 1X (Balance). Atalanta Sieg-Outcome nicht in Kombis (nur in einzeltipps als wackel).",
+      "layer_3_spiel_max_1_bein_ueber_alle_kombis": "WEICH verletzt bei 5 Spielen und 4 Kombis - alle Mehrfach-Nutzungen Markt-entkoppelt. Berardi (sas-fio Risiko) vs Pellegrino (sas-fio Moonshot) = verschiedene Spieler, OK."
+    },
+    "spieler_halluzinations_check": "OK - alle genannten Torschützen (Krstovic, Budimir, Berardi, Pellegrino, Woltemade, Yeremay Hernández) in offiziellen Aufstellungen/Kader-Verifikation 02.11.2026 bestätigt. Pinamonti/Gudmundsson/De Roon/Lookman/Adeyemi/Isak/Gordon/Tonali/Guimaraes/Aubameyang explizit ausgeschlossen.",
+    "verband_quellen_check": "OK - uefa.com/uefachampionsleague + uefa.com/uefaconferenceleague für CL/Conference-Behauptungen bei Atalanta/Fiorentina gelistet."
+  },
+  "_emergency_recovery": true,
+  "einzeltipps_ergebnis": [
+    {
+      "id": "ata-par-4",
+      "spiel_id": "2026-11-02-ata-par",
+      "spiel_label": "Atalanta vs Parma",
+      "kategorie": "value",
+      "markt": "Krstovic Torschütze jederzeit",
+      "quote": 2.0,
+      "edge_prozent": 12.0,
+      "begruendung": "Markt-Goldgrube Torschützen Jederzeit (+24% ROI). HR24 erfüllt: 6 Saisontore + zentraler 9er + einzige fitte Option (Scamacca+Raspadori OUT). 4 Spiele Shot on Target in Folge. 15EUR.",
+      "faire_quote": 1.78,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Krstovic kein Tor; Atalanta 0 Tore - Einwechslungs-Boost auch nicht moeglich (Parma-Scorer: Fabbian 41', Zappacosta ET 47', Lontani 58')"
+    },
+    {
+      "id": "ata-par-3",
+      "spiel_id": "2026-11-02-ata-par",
+      "spiel_label": "Atalanta vs Parma",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.7,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube Über 2.5 Tore (63.6% / +40.4%). Atalanta offensiv, Parma defensiv gebrochen. 15EUR (1.5%).",
+      "faire_quote": 1.59,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.7
+    },
+    {
+      "id": "sas-fio-2",
+      "spiel_id": "2026-11-02-sas-fio",
+      "spiel_label": "Sassuolo vs Fiorentina",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.8,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube BTTS Ja. Beide Teams in letzten 3 Spielen Gegentore. 15EUR.",
+      "faire_quote": 1.7,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.8
+    },
+    {
+      "id": "sas-fio-1",
+      "spiel_id": "2026-11-02-sas-fio",
+      "spiel_label": "Sassuolo vs Fiorentina",
+      "kategorie": "value",
+      "markt": "Fiorentina oder Remis (Doppelte Chance X2)",
+      "quote": 1.65,
+      "edge_prozent": 6.0,
+      "begruendung": "Markt-Goldgrube DC X2. Fiorentina Not-Sieg-Druck + Conference-Hedge via DC statt direktem Sieg. 15EUR.",
+      "faire_quote": 1.55,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.65
+    },
+    {
+      "id": "lor-bre-1",
+      "spiel_id": "2026-11-02-lor-bre",
+      "spiel_label": "Lorient vs Brest",
+      "kategorie": "value",
+      "markt": "Lorient oder Remis (Doppelte Chance)",
+      "quote": 1.42,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube DC 1X. Lorient Heim-Favorit im Breton-Derby, Brest-Defense durch Chardonnet-Problem geschwächt. 15EUR.",
+      "faire_quote": 1.33,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5,
+      "status": "verloren",
+      "gewinn_faktor": -1.0,
+      "kommentar": "Brest-Auswaertssieg 0:2 (Ajorque 69', Edjouma 90+2')"
+    },
+    {
+      "id": "dep-osa-1",
+      "spiel_id": "2026-11-02-dep-osa",
+      "spiel_label": "Deportivo vs Osasuna",
+      "kategorie": "value",
+      "markt": "Deportivo oder Remis (Doppelte Chance)",
+      "quote": 1.42,
+      "edge_prozent": 6.0,
+      "begruendung": "Markt-Goldgrube DC 1X. Osasuna 4 Auswärts-Niederlagen in Folge, nur 2 Tage nach Sevilla-Niederlage. 15EUR.",
+      "faire_quote": 1.33,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.42,
+      "kommentar": "Deportivo 2:1 - Soriano 64', Nsongo 87'"
+    },
+    {
+      "id": "dep-osa-2",
+      "spiel_id": "2026-11-02-dep-osa",
+      "spiel_label": "Deportivo vs Osasuna",
+      "kategorie": "value",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.33,
+      "edge_prozent": 5.0,
+      "begruendung": "Beide Teams offensiv zahnlos (10-11 Tore in 10 Spielen) + Aubameyang-OUT bei Deportivo. 10EUR.",
+      "faire_quote": 1.27,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.33
+    },
+    {
+      "id": "sas-fio-3",
+      "spiel_id": "2026-11-02-sas-fio",
+      "spiel_label": "Sassuolo vs Fiorentina",
+      "kategorie": "wackel",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.9,
+      "edge_prozent": 4.0,
+      "begruendung": "Markt-Goldgrube Über 2.5. Beide defensiv wackelig aber Fiorentina-Rotation mindert Chancen-Volumen. 5EUR.",
+      "faire_quote": 2.05,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8,
+      "status": "gewonnen",
+      "gewinn_faktor": 0.9
+    },
+    {
+      "id": "new-eve-1",
+      "spiel_id": "2026-11-02-new-eve",
+      "spiel_label": "Newcastle vs Everton",
+      "kategorie": "wackel",
+      "markt": "Newcastle oder Remis (Doppelte Chance 1X)",
+      "quote": 1.5,
+      "edge_prozent": 3.0,
+      "begruendung": "PL MW9 Beobachtungs-Liga (-77% ROI 30d) - deshalb bewusst nur Wackel. Newcastle Heim-Vorteil aber Everton heiss nach 3:1 EFL-Cup-Sieg. 5EUR.",
+      "faire_quote": 1.55,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9,
+      "status": "verloren",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "id": "new-eve-2",
+      "spiel_id": "2026-11-02-new-eve",
+      "spiel_label": "Newcastle vs Everton",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen",
+      "quote": 1.7,
+      "edge_prozent": 5.0,
+      "begruendung": "Newcastle keine Clean Sheet zuhause, Everton offensiv heiss. Beob-Liga -> nur Wackel. 5EUR.",
+      "faire_quote": 1.6,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10,
+      "status": "verloren",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "id": "dep-osa-3",
+      "spiel_id": "2026-11-02-dep-osa",
+      "spiel_label": "Deportivo vs Osasuna",
+      "kategorie": "wackel",
+      "markt": "Budimir Torschütze jederzeit",
+      "quote": 2.8,
+      "edge_prozent": 5.0,
+      "begruendung": "Markt-Goldgrube Torschützen Jederzeit. Budimir alleinige Spitze Osasunas - volles Volumen. 5EUR.",
+      "faire_quote": 2.6,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 11,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.8,
+      "kommentar": "Budimir 32' (0:1-Fuehrung) - Volume-9er bestaetigt, keine 2:0-Insurance noetig"
+    },
+    {
+      "id": "lor-bre-2",
+      "spiel_id": "2026-11-02-lor-bre",
+      "spiel_label": "Lorient vs Brest",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen",
+      "quote": 1.8,
+      "edge_prozent": 4.0,
+      "begruendung": "Markt-Goldgrube BTTS. Derby + beidseitige Abwehr-Probleme. 5EUR.",
+      "faire_quote": 1.7,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 12,
+      "status": "verloren",
+      "gewinn_faktor": -1.0
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe",
+      "status": "verloren",
+      "gesamtquote": 3.33,
+      "gewinn_faktor": -1.0
+    },
+    {
+      "kombi_id": "kombi-balance",
+      "status": "verloren",
+      "gesamtquote": 7.56,
+      "gewinn_faktor": -1.0
+    },
+    {
+      "kombi_id": "kombi-risiko",
+      "status": "verloren",
+      "gesamtquote": 20.0,
+      "gewinn_faktor": -1.0
+    },
+    {
+      "kombi_id": "kombi-moonshot",
+      "status": "verloren",
+      "gesamtquote": 222.95,
+      "gewinn_faktor": -1.0
+    }
+  ],
+  "ausgewertet_am": "2026-11-03T18:02:31+00:00",
+  "_backstop_bilanz": {
+    "einzeltipps_gewonnen": 7,
+    "einzeltipps_verloren": 5,
+    "einzeltipps_offen": 0,
+    "kombis_gewonnen": 0,
+    "kombis_verloren": 4,
+    "kombis_offen": 0,
+    "note": "Rechnet mit stake_euro der Vorschau; nicht als Buchhaltungs-Fakt interpretieren."
+  }
+}
