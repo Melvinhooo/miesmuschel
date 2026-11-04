@@ -1,0 +1,60 @@
+{
+  "spiel_id": "2026-11-04-len-com",
+  "saison_kontext": {
+    "parallel_heim": "Lens Ligue 1 - naechstes Liga-Spiel So 08.11., 4 Tage Pause",
+    "parallel_gast": "Como Serie A - naechstes Liga-Spiel Sa 07.11., 3 Tage Pause",
+    "saisonziel_heim": "Ligue-1-CL-Quali + CL-Top-24 - Lens 3 CL-Pkt, zuletzt 2 Niederlagen (0:2 Sporting, 0:3 Brugge) ohne Tor",
+    "saisonziel_gast": "Serie-A-CL-Quali-Ueberraschung + CL-Top-24 - Como 6 Pkt in 3 CL-Spielen, 10 Tore inkl 4:1 gegen Leipzig und ManUtd. Fabregas-Trainer-Projekt der Saison.",
+    "motivations_asymmetrie": "Buchmacher sehen Como als Favorit (2/1 vs 2.27), obwohl Lens Heim-Vorteil hat. Como 10 CL-Tore in 3 Spielen zeigt elite Offensiv-Form, Lens 2 CL-Pleiten ohne Tor zuletzt ist Krisen-Signal (HR2). Nico Paz + Douvikas als Como-Offensiv-Standbein.",
+    "recovery_heim": "4 Tage seit letztem Spiel - regulaer",
+    "recovery_gast": "3 Tage seit letztem Spiel - leicht knapper, aber Form stuetzt",
+    "quellen": [
+      "https://footballwhispers.com/blog/lens-vs-como-prediction-04-11-2026/",
+      "https://squawka.com/en/news/lens-vs-como-bet-builder-tips-this-evening-04-11-2026",
+      "https://www.sportsgambler.com/betting-tips/football/lens-vs-como-prediction-lineups-odds-2026-11-04/",
+      "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "len-com-1",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.5,
+      "edge_prozent": 8.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (+40.4% ROI). Como 10 CL-Tore in 3 Spielen, Lens-Defense konstant unter Druck. Historisch Lens-Heimspiele oft offen. Einsatz 20€ (2%). bet365 live pruefen.",
+      "faire_quote": 1.38,
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "id": "len-com-2",
+      "kategorie": "value",
+      "markt": "Como oder Remis (Doppelte Chance X2)",
+      "quote": 1.4,
+      "edge_prozent": 6.0,
+      "begruendung": "Markt-Goldgrube Doppelte Chance X2 (+44% ROI). Como-Form-Welle + Lens 2 Pleiten ohne Tor. HR2 (Anti-Heim-Bias in Krise) stuetzt Gast-Punkt-Erwartung. Einsatz 15€ (1.5%).",
+      "faire_quote": 1.32,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "len-com-3",
+      "kategorie": "value",
+      "markt": "Nico Paz Torschuetze jederzeit",
+      "quote": 2.8,
+      "edge_prozent": 5.0,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Nico Paz Como-Spielmacher mit Form-Edge in CL (mehrere Tore + Assists in 10 CL-Toren). HR24 erfuellt. Hoehere Quote wegen Mittelfeld-Position = Grenze VALUE/WACKEL. Einsatz 10€ (1%).",
+      "faire_quote": 2.6,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "len-com-4",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen",
+      "quote": 1.5,
+      "edge_prozent": 3.0,
+      "begruendung": "Markt-Goldgrube BTTS JA. Como 10 CL-Tore + 5 Gegentore, Lens zuhause nicht torlos. Keine starke Edge, deshalb wackel. Einsatz 5€ (0.5%).",
+      "faire_quote": 1.45,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

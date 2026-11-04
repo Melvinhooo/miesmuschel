@@ -1,0 +1,50 @@
+{
+  "spiel_id": "2026-11-04-por-nap",
+  "saison_kontext": {
+    "parallel_heim": "Porto Primeira Liga - naechstes Liga-Spiel So 08.11., 4 Tage Pause",
+    "parallel_gast": "Napoli Serie A - naechstes Liga-Spiel So 08.11., 4 Tage Pause",
+    "saisonziel_heim": "Portugiesischer Meister (10/10 Liga-Spielen gewonnen) + CL-Top-24. In CL bislang nur stottern.",
+    "saisonziel_gast": "Serie-A-Titel-Verteidigung + CL-Top-24 - mit De Bruyne (Transfer 2025, inzwischen Stamm) + Hojlund neu formiert, Verletzungswelle",
+    "motivations_asymmetrie": "Porto 54% Siegwahrscheinlichkeit - knapper Heim-Favorit. Porto 10/10 national dominant mit drei CL-Siegen in Serie (jedes mit Clean Sheet). Napoli angeschlagen: Buongiorno/Neres/Lobotka OUT, De Bruyne mit kleinem Infekt aber dabei. Gastspiel-Stress fuer Napoli.",
+    "recovery_heim": "4 Tage seit letztem Spiel - regulaer; keine Ausfaelle gemeldet",
+    "recovery_gast": "4 Tage seit letztem Spiel - regulaer; aber heavy injury list (Buongiorno/Neres/Lobotka/Di Lorenzo/Olivera OUT oder fraglich)",
+    "quellen": [
+      "https://footballwhispers.com/blog/porto-vs-napoli-prediction-04-11-2026/",
+      "https://www.whoscored.com/matches/2029167/preview/europe-champions-league-2026-2027-fc-porto-napoli",
+      "https://www.sportsgambler.com/betting-tips/football/porto-vs-napoli-prediction-lineups-odds-2026-11-04/",
+      "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "por-nap-1",
+      "kategorie": "safe",
+      "markt": "Porto oder Remis (Doppelte Chance 1X)",
+      "quote": 1.35,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube Doppelte Chance 1X (81%/+37.4% ROI). Porto 10/10 national + 3 CL-Clean-Sheets + Napoli-Verletzungswelle. Signal fuer SAFE: Heim-Fortress + Gast-Schwaeche-Serie. Einsatz 20€ (2%). bet365 live pruefen.",
+      "faire_quote": 1.25,
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "id": "por-nap-2",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.75,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube Unter 2.5 (+37.2% ROI). Porto drei CL-Clean-Sheets - defensiv top. Napoli ohne Buongiorno/Neres offensiv eingeschraenkt. Niedriges Tor-Volumen erwartbar. Einsatz 15€ (1.5%).",
+      "faire_quote": 1.65,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "por-nap-3",
+      "kategorie": "wackel",
+      "markt": "Hojlund Torschuetze jederzeit",
+      "quote": 3.4,
+      "edge_prozent": 4.0,
+      "begruendung": "Hojlund neuer Napoli-9er, aber Porto-Defense mit drei CL-Clean-Sheets - schwierig fuer ihn. Form-Edge nur mittel, deshalb wackel. Einsatz 5€ (0.5%).",
+      "faire_quote": 3.3,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

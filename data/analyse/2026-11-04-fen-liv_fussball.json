@@ -1,0 +1,60 @@
+{
+  "spiel_id": "2026-11-04-fen-liv",
+  "saison_kontext": {
+    "parallel_heim": "Fenerbahce Sueper Lig - naechstes Liga-Spiel So 08.11., 4 Tage Pause",
+    "parallel_gast": "Liverpool Premier League - naechstes Liga-Spiel So 08.11., 4 Tage Pause",
+    "saisonziel_heim": "CL-Top-24 (Playoff-Qualifikation) - bislang noch kein Sieg in der Ligaphase (0 aus 3), national starke Sueper-Lig-Position",
+    "saisonziel_gast": "CL-Top-8 (direkte Achtelfinal-Quali) - Liverpool 3 aus 3 CL-Siegen, hat Villarreal zuletzt geschlagen",
+    "motivations_asymmetrie": "Liverpool Pinnacle-Siegwahrscheinlichkeit 40%, Fener 36%, Remis 24% - fast Coinflip trotz Papier-Form. Fener-Heim-Atmosphaere Istanbul extrem. Lukaku + Greenwood bei Fener (Transfers 2026) als Offensiv-Standbein. Liverpool-Defensive in Umbruch nach Konate/Robertson-Abgaengen.",
+    "recovery_heim": "4 Tage seit letztem Spiel - regulaer; Asensio (Knie) OUT, Oosterwolde (Hamstring) OUT, Ake (Leiste) fraglich",
+    "recovery_gast": "4 Tage seit letztem Spiel - regulaer; Bradley (Knie) OUT, Ekitike (Achilles) OUT, Frimpong (Hamstring) OUT, Leoni (Knie) OUT",
+    "quellen": [
+      "https://www.sportsmole.co.uk/football/champions-league/fenerbahce-vs-liverpool_game_261555.html",
+      "https://www.squawka.com/en/news/previews/fenerbahce-vs-liverpool-predictions-today-04-11-2026/",
+      "https://www.canadasportsbetting.ca/news/soccer/fenerbahce-liverpool-november-odds-prediction-nov04/",
+      "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "fen-liv-1",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.5,
+      "edge_prozent": 8.0,
+      "begruendung": "Markt-Goldgrube BTTS JA (+15.1% ROI). Fener-Offensive Lukaku+Greenwood zuhause gegen Liverpool-Defense in Umbruch (Konate/Robertson weg), Fener drittschwaechste Defense + Liverpool 3/3 CL-Siege mit offensiv-Variante. Einsatz 20€ (2%). bet365 live pruefen.",
+      "faire_quote": 1.38,
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "id": "fen-liv-2",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (+40.4% ROI). Fener drittschwaechste Defense + Liverpool 4-Volume-Angriff mit Barcola/Isak/Salah. Erwartung 3-4 Tore. Einsatz 15€ (1.5%).",
+      "faire_quote": 1.6,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "fen-liv-3",
+      "kategorie": "value",
+      "markt": "Isak Torschuetze jederzeit",
+      "quote": 2.3,
+      "edge_prozent": 6.0,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Isak neuer Liverpool-9er seit Sommer, Form-Edge HR24 (3 Tore letzte 5 PL). Volume-Mittelstuermer gegen schwache Fener-Defense. Einsatz 10€ (1%).",
+      "faire_quote": 2.1,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "fen-liv-4",
+      "kategorie": "wackel",
+      "markt": "Lukaku Torschuetze jederzeit",
+      "quote": 3.2,
+      "edge_prozent": 5.0,
+      "begruendung": "Lukaku Fener-Zentral-9er (Transfer von Napoli), Heim-Atmosphaere Sukru Saracoglu + Liverpool-Defense ohne Konate. Keine Form-Garantie, deshalb wackel. Einsatz 5€ (0.5%).",
+      "faire_quote": 3.0,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

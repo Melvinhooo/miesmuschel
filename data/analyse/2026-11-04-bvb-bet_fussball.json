@@ -1,0 +1,60 @@
+{
+  "spiel_id": "2026-11-04-bvb-bet",
+  "saison_kontext": {
+    "parallel_heim": "BVB Bundesliga - naechstes Liga-Spiel Sa 08.11., 4 Tage Pause",
+    "parallel_gast": "Real Betis LaLiga - naechstes Liga-Spiel So 08.11., 4 Tage Pause",
+    "saisonziel_heim": "CL-Top-24 + BL-CL-Quali - 6 Pkt in CL (Platz ~13-14 von 36), national stabile Bundesliga-Spitze",
+    "saisonziel_gast": "CL-Top-24 - Betis perfekt in CL (9 Pkt aus 3 - Platz 5), national LaLiga-Mittelfeld-Spitze",
+    "motivations_asymmetrie": "Projektionen geben BVB 52.9% Siegwahrscheinlichkeit - knapper Favorit. Betis mit Ideal-CL-Start (3/3), aber zuhause ist Dortmund mit Guirassy-Volumen + Signal-Iduna-Atmosphaere ein Hartplatz. Bellingham/Nmecha-Mittelfeld vs. Isco/Fornals-Spielmacher-Achse. Betis ohne Watkins-Equivalent, Parrott als Mittelstuermer.",
+    "recovery_heim": "4 Tage seit letztem Spiel - regulaer; keine Top-Abwehr-Ausfaelle gemeldet",
+    "recovery_gast": "4 Tage seit letztem Spiel - regulaer; Antony wieder bei Betis einsatzfaehig",
+    "quellen": [
+      "https://footballwhispers.com/blog/borussia-dortmund-vs-real-betis-prediction-04-11-2026/",
+      "https://www.sportsgambler.com/betting-tips/football/borussia-dortmund-vs-real-betis-prediction-lineups-odds-2026-11-04/",
+      "https://tips.gg/article/borussia-dortmund-vs-real-betis-predicted-lineups-team-news-04-11-2026/",
+      "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "bvb-bet-1",
+      "kategorie": "value",
+      "markt": "Dortmund oder Remis (Doppelte Chance 1X)",
+      "quote": 1.3,
+      "edge_prozent": 6.0,
+      "begruendung": "Markt-Goldgrube Doppelte Chance 1X (81%/+37.4% ROI). Signal-Iduna-Heim-Edge + Betis trotz CL-Serie nicht Klassen-ueberlegen. Konservative Absicherung statt direkter Sieg (Betis kann in CL nicht nicht treffen). Einsatz 20€ (2%). bet365 live pruefen.",
+      "faire_quote": 1.22,
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "id": "bvb-bet-2",
+      "kategorie": "value",
+      "markt": "Guirassy Torschuetze jederzeit",
+      "quote": 2.0,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Guirassy Volume-9er BVB, Betis-Innenverteidigung nicht elite - Bartra/Natan haben CL-Erfahrungs-Luecken. Einwechslungs-Boost: Beier als Backup. Einsatz 15€ (1.5%).",
+      "faire_quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "bvb-bet-3",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.7,
+      "edge_prozent": 6.0,
+      "begruendung": "Markt-Goldgrube BTTS JA (+15.1% ROI). Betis in allen 3 CL-Spielen bislang mit Toren - wird nicht schweigen. BVB zuhause offensiv. Einsatz 10€ (1%).",
+      "faire_quote": 1.6,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "bvb-bet-4",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.85,
+      "edge_prozent": 4.0,
+      "begruendung": "Beide Teams offensiv in CL, aber BVB kann defensiv kontrolliert spielen. Keine klare Edge, deshalb wackel. Einsatz 5€ (0.5%).",
+      "faire_quote": 1.8,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

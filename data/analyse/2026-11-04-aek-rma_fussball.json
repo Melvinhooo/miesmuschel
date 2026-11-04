@@ -1,0 +1,60 @@
+{
+  "spiel_id": "2026-11-04-aek-rma",
+  "saison_kontext": {
+    "parallel_heim": "AEK Super League Griechenland - naechstes Liga-Spiel So 08.11., 4 Tage Pause",
+    "parallel_gast": "Real Madrid LaLiga - naechstes Liga-Spiel So 08.11., 4 Tage Pause",
+    "saisonziel_heim": "CL-Top-24 (Playoff-Qualifikation) - bislang maessig in CL (Debuet-Saison als Qualifikant), national Top-3 Super League",
+    "saisonziel_gast": "CL-Top-8 (direkte Achtelfinal-Quali) - Real ungeschlagen in der Ligaphase (3 Pkt-Runs), national Titelverteidigung LaLiga",
+    "motivations_asymmetrie": "Klarer Klassenunterschied - Real Madrid 82% Siegwahrscheinlichkeit laut Pinnacle-Basis. AEK als Underdog zuhause mit Fan-Support, aber Jovic (Ex-Real-Spieler, jetzt AEK) als einziger Hoffnungstraeger. Real tritt mit Mbappe/Vinicius-Offensive an.",
+    "recovery_heim": "4 Tage seit letztem Spiel - regulaer",
+    "recovery_gast": "4 Tage seit letztem Spiel - regulaer; Carvajal (Abgang Getafe) und B. Silva (Zugang) als frische Breite",
+    "quellen": [
+      "https://www.goal.com/en-us/betting/tips/aek-athens-vs-real-madrid-predictions-11-4-2026/A%3Ablt601e3c3b5cc40be2",
+      "https://insights.betfred.com/football/champions-league/aek-athens-vs-real-madrid-prediction-betting-tips-wednesday-4-november-2026/",
+      "https://www.sportsbettingdime.com/news/soccer/aek-athens-vs-real-madrid-picks-goal-bets/",
+      "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "aek-rma-1",
+      "kategorie": "safe",
+      "markt": "Mbappe Torschuetze jederzeit",
+      "quote": 1.45,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI im System). Mbappe Torschuetzenkoenig-Kandidat, gegen schwache AEK-Defense + 100% der Real-Spiele mit 4+ Toren. Einwechslungs-Boost: Endrick/Rodrygo als Backup. Einsatz 20€ (2%). bet365 live pruefen.",
+      "faire_quote": 1.35,
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "id": "aek-rma-2",
+      "kategorie": "value",
+      "markt": "Ueber 3.5 Tore",
+      "quote": 1.9,
+      "edge_prozent": 8.0,
+      "begruendung": "66% der AEK-Spiele 4+ Tore, 100% der Real-Spiele 4+ Tore - statistisch sehr starker Tor-Spiel-Kandidat. Markt-Goldgrube Ueber-Linien aktiv. Einsatz 15€ (1.5%).",
+      "faire_quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "aek-rma-3",
+      "kategorie": "value",
+      "markt": "Vinicius Jr. Torschuetze jederzeit",
+      "quote": 2.1,
+      "edge_prozent": 6.0,
+      "begruendung": "Zweites Angriffs-Standbein neben Mbappe. Volume-Linksaussen, AEK-Rechtsverteidiger ist CL-Schwachstelle. Form-Edge HR24. Einsatz 10€ (1%).",
+      "faire_quote": 1.95,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "aek-rma-4",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen",
+      "quote": 2.25,
+      "edge_prozent": 5.0,
+      "begruendung": "Jovic (Ex-Real) als Volume-9er fuer AEK + Athener Heim-Druck. Real zeigt jetzt teils poroese Defense bei auswaerts-Pressings. Keine klare Edge - deshalb wackel. Einsatz 5€ (0.5%).",
+      "faire_quote": 2.1,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

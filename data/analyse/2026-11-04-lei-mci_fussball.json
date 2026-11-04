@@ -1,0 +1,60 @@
+{
+  "spiel_id": "2026-11-04-lei-mci",
+  "saison_kontext": {
+    "parallel_heim": "Leipzig Bundesliga - naechstes Liga-Spiel Sa 08.11., 4 Tage Pause",
+    "parallel_gast": "City Premier League - naechstes Liga-Spiel So 08.11., 4 Tage Pause",
+    "saisonziel_heim": "Bundesliga-CL-Quali + CL-Top-24 - 3 Pkt in CL (29. Platz), aber 3 BL-Siege in Serie. Reitz (Zugang BMG) + Nkunku (Leih-Rueckkehr von Milan) als Boost",
+    "saisonziel_gast": "Premier-League-Titel-Ruckeroberung + CL-Top-8 - City 6 CL-Pkt (Platz 10), aber zwei PL-Niederlagen zuletzt - Druck-Spiel",
+    "motivations_asymmetrie": "City klarer Favorit (64%/ML -188). Haaland hat gegen Leipzig in seiner Karriere mehr Tore (12) als gegen jeden anderen Gegner geschossen. Leipzig zuhause mit Siegeswelle, aber Klassenunterschied in der Breite spuerbar. City-Verletzungssorgen moeglich aber Enzo Fernandez (Deadline-Day-Zugang) + Marc Guehi bringen frischen Impact.",
+    "recovery_heim": "4 Tage seit letztem Spiel - regulaer; Nkunku bereits integriert nach Leih-Rueckkehr",
+    "recovery_gast": "4 Tage seit letztem Spiel - regulaer; Ndiaye/Enzo Fernandez/Guehi (alle Neuzugaenge 2026) in der Rotation",
+    "quellen": [
+      "https://www.whoscored.com/articles/MREWtLyNkUeDZM0qT2D4Sg/show/cng111-20261104-rb-leipzig-vs-man-city-prediction-1793794909",
+      "https://insights.betfred.com/football/champions-league/rb-leipzig-vs-manchester-city-prediction-betting-tips-wednesday-4-november-2026/",
+      "https://dailysports.net/predictions/haaland-has-scored-12-goals-against-leipzig-will-city-run-riot-again-prediction-for-rb-leipzig-vs-manchester-city/",
+      "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "lei-mci-1",
+      "kategorie": "safe",
+      "markt": "Haaland Torschuetze jederzeit",
+      "quote": 1.5,
+      "edge_prozent": 12.0,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Haaland Karriere-Rekord gegen Leipzig: 12 Tore - mehr als gegen jeden anderen Gegner. Volume-9er + schwache CL-Gegner-Position. Einwechslungs-Boost: Ndiaye als Flanker fuer City. Einsatz 20€ (2%). bet365 live pruefen.",
+      "faire_quote": 1.35,
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "id": "lei-mci-2",
+      "kategorie": "value",
+      "markt": "Manchester City oder Remis (Doppelte Chance X2)",
+      "quote": 1.25,
+      "edge_prozent": 5.0,
+      "begruendung": "Markt-Goldgrube Doppelte Chance X2 (+44% ROI). City 64% Siegwahrscheinlichkeit, Bounce-Back-Motivation nach zwei PL-Niederlagen. DC als sicherere Variante zum direkten Sieg (Leipzig zuhause stark). Einsatz 15€ (1.5%).",
+      "faire_quote": 1.18,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "lei-mci-3",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.7,
+      "edge_prozent": 6.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (+40.4% ROI). City offensiv Breite + Leipzig zuhause mit Heim-Druck. Historisch City-Leipzig oft Tor-Spiel. Einsatz 10€ (1%).",
+      "faire_quote": 1.6,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "lei-mci-4",
+      "kategorie": "wackel",
+      "markt": "Beide Teams treffen",
+      "quote": 1.6,
+      "edge_prozent": 3.0,
+      "begruendung": "Leipzig Heim-Druck + Nkunku-Rueckkehr, City kann defensiv aber kontrolliert spielen. Edge begrenzt wegen City-Breite. Einsatz 5€ (0.5%).",
+      "faire_quote": 1.55,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

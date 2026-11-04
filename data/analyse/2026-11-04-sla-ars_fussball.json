@@ -1,0 +1,60 @@
+{
+  "spiel_id": "2026-11-04-sla-ars",
+  "saison_kontext": {
+    "parallel_heim": "Slavia Chance Liga (Tschechien) - naechstes Liga-Spiel Sa 08.11., 4 Tage Pause",
+    "parallel_gast": "Arsenal Premier League - naechstes Liga-Spiel Sa 08.11., 4 Tage Pause",
+    "saisonziel_heim": "CL-Top-24 - Slavia winless seit 18 UEFA-Spielen, national stabile Chance-Liga-Spitze",
+    "saisonziel_gast": "Premier-League-Titel + CL-Top-8 - Arsenal in CL ungeschlagen, national Spitzen-Position",
+    "motivations_asymmetrie": "Arsenal klar Klassen-ueberlegen, Slavia 18 UEFA-Spiele ohne Sieg - laenger als jedes andere CL-Team. Gyokeres neuer Arsenal-9er + Eze/Madueke Flanken-Breite. Slavia-Chefstuermer Chory nach Mittelfinger-Geste gegen Schiri suspendiert (massiver Ausfall).",
+    "recovery_heim": "4 Tage seit letztem Spiel - regulaer; Schranz krank, Provod fraglich, Chory gesperrt - alle drei Top-Offensiv-Spieler aussen vor",
+    "recovery_gast": "4 Tage seit letztem Spiel - regulaer; Tzolis/Rice/Madueke/Calafiori zurueck, Saliba dabei, Saka OUT",
+    "quellen": [
+      "https://www.sportsmole.co.uk/football/arsenal/champions-league/preview/slavia-prague-vs-arsenal-prediction-team-news-lineups_608243.html",
+      "https://thehardtackle.com/round-up/2026/11/04/slavia-praha-vs-arsenal-preview-prediction-probable-lineups-tactics-team-news-key-stats/",
+      "https://www.sportsgambler.com/betting-tips/football/slavia-prague-vs-arsenal-prediction-lineups-odds-2026-11-04/",
+      "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "sla-ars-1",
+      "kategorie": "safe",
+      "markt": "Arsenal oder Remis (Doppelte Chance X2)",
+      "quote": 1.08,
+      "edge_prozent": 4.0,
+      "begruendung": "Markt-Goldgrube Doppelte Chance X2 (+44% ROI). Slavia 18 UEFA-Spiele ohne Sieg + Chory-Suspension + Schranz/Provod-Ausfall = Offensiv-Katastrophe. Sicherste Varianten im Dossier. Niedrige Quote, aber sehr hohe Hitrate-Erwartung. Einsatz 20€ (2%). bet365 live pruefen.",
+      "faire_quote": 1.04,
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "id": "sla-ars-2",
+      "kategorie": "value",
+      "markt": "Gyokeres Torschuetze jederzeit",
+      "quote": 1.8,
+      "edge_prozent": 8.0,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Gyokeres Arsenal-Volume-9er gegen Slavia-Defense ohne Chefstuermer als Defense-Alarm-Spiegel. HR24 erfuellt (Form-Edge seit September). Einsatz 15€ (1.5%).",
+      "faire_quote": 1.65,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "sla-ars-3",
+      "kategorie": "value",
+      "markt": "Arsenal Sieg zu Null",
+      "quote": 2.0,
+      "edge_prozent": 6.0,
+      "begruendung": "Slavia ohne Chory + Schranz + Provod - Offensiv-Dreifach-Ausfall bedeutet sehr wenig Torgefahr. Arsenal-Defense mit Saliba/Hincapie/Gabriel elite. Clean-Sheet-Signal. Einsatz 10€ (1%).",
+      "faire_quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "sla-ars-4",
+      "kategorie": "wackel",
+      "markt": "Eze Torschuetze jederzeit",
+      "quote": 2.8,
+      "edge_prozent": 4.0,
+      "begruendung": "Eze offensiver Flanken-Spieler, oft Volume-Schuetze bei Favoriten-Spielen gegen Mittelfeld-Defense. HR24 nur mittel erfuellt, deshalb wackel. Einsatz 5€ (0.5%).",
+      "faire_quote": 2.7,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}

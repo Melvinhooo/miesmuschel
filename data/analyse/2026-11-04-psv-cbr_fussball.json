@@ -1,0 +1,60 @@
+{
+  "spiel_id": "2026-11-04-psv-cbr",
+  "saison_kontext": {
+    "parallel_heim": "PSV Eredivisie - naechstes Liga-Spiel So 08.11., 4 Tage Pause",
+    "parallel_gast": "Club Brugge Jupiler Pro League - naechstes Liga-Spiel Sa 07.11., 3 Tage Pause (leicht angespannt)",
+    "saisonziel_heim": "Eredivisie-Titel-Verteidigung + CL-Top-24 - Saibari (Abgang Bayern) und Veerman (Abgang BVB) als Groessen-Verluste, Neuaufbau-Modus",
+    "saisonziel_gast": "Jupiler-Pro-League-Titel + CL-Top-24 - Brugge mit 8 Siegen in Serie, 9 Tore + 19 Schuesse aufs Tor in 3 CL-Spielen",
+    "motivations_asymmetrie": "Buchmacher sehen PSV knapp vorn (46.5% vs 34.8%) - aber Brugge form-ueberlegen mit 8-Spiele-Siegesserie. Tresoldi Brugge-Form-Striker mit 8 Toren in 6 Spielen. PSV offensiv deutlich schwaecher als letzte Saison (nur 2 CL-Tore in 3 Spielen).",
+    "recovery_heim": "4 Tage seit letztem Spiel - regulaer",
+    "recovery_gast": "3 Tage seit letztem Spiel - leicht knapper, aber Brugge-Form stuetzt",
+    "quellen": [
+      "https://footballwhispers.com/blog/psv-eindhoven-vs-club-brugge-prediction-04-11-2026/",
+      "https://insights.betfred.com/football/champions-league/psv-vs-club-brugge-prediction-betting-tips-wednesday-4-november-2026/",
+      "https://www.sportsgambler.com/betting-tips/football/psv-vs-club-brugge-prediction-lineups-odds-2026-11-04/",
+      "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+    ]
+  },
+  "tipps": [
+    {
+      "id": "psv-cbr-1",
+      "kategorie": "safe",
+      "markt": "Beide Teams treffen",
+      "quote": 1.33,
+      "edge_prozent": 10.0,
+      "begruendung": "Markt-Goldgrube BTTS JA (+15.1% ROI). Brugge 9 Tore in 3 CL + 8-Spiele-Siegesserie, PSV zuhause offensiv ueberschaubar aber nicht null. BTTS-Markt-Konsensus (mehrere Aggregatoren). Einsatz 20€ (2%). bet365 live pruefen.",
+      "faire_quote": 1.22,
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "id": "psv-cbr-2",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.65,
+      "edge_prozent": 8.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5 (+40.4% ROI). Brugge 9 CL-Tore, Tresoldi-Form, PSV-Offensive trotz Abgaenge zuhause +1-2 Tore wahrscheinlich. Einsatz 15€ (1.5%).",
+      "faire_quote": 1.55,
+      "empfohlener_einsatz_prozent": 1.5
+    },
+    {
+      "id": "psv-cbr-3",
+      "kategorie": "value",
+      "markt": "Tresoldi Torschuetze jederzeit",
+      "quote": 2.1,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit + HR24 erfuellt (8 Tore in 6 Spielen). Form-Hochphase, PSV-Defense durch Transfer-Verluste geschwaecht. Einsatz 10€ (1%).",
+      "faire_quote": 1.95,
+      "empfohlener_einsatz_prozent": 1.0
+    },
+    {
+      "id": "psv-cbr-4",
+      "kategorie": "wackel",
+      "markt": "Brugge oder Remis (Doppelte Chance X2)",
+      "quote": 1.75,
+      "edge_prozent": 4.0,
+      "begruendung": "Markt-Goldgrube Doppelte Chance X2 (+44% ROI). Brugge-Form-Welle + 3-Tage-Rhythmus macht Punkt-Gewinn realistisch. Keine SAFE, weil PSV-Heim-Faktor. Einsatz 5€ (0.5%).",
+      "faire_quote": 1.7,
+      "empfohlener_einsatz_prozent": 0.5
+    }
+  ]
+}
