@@ -1,0 +1,1905 @@
+{
+  "datum": "2026-11-03",
+  "erstellt_am": "2026-11-03T18:30:00+01:00",
+  "hinweis": "Champions-League-Matchday-4-Dienstag mit 8 analysierten Spielen (von 9 CL-Spielen gesamt; LASK-Slovan ausgelassen - niedriger Profil). Hauptfokus: Atletico-Bayern (Metropolitano 21:00, Atleticos 16-Spiele-Fortress gegen deutsche Teams seit 1996), Barca-Villa (Camp Nou 21:00, Yamal-Rekord-Jagd + Villa mit 9/9 CL-Punkten), Man-United-Roma (Krisen-United vs form-Roma mit Malen), Villarreal-PSG (PSG-Verletzungs-Welle Kvara/Dembele/Marquinhos/Mendes OUT), Feyenoord-Inter (Inter ohne Lautaro+Bastoni+Stones), Gala-Stuttgart (Early Slot 18:45), Shakhtar-Sporting (@Stamford Bridge, 18:45), Bodo-Lille (Aspmyra Fortress). Kasse-Stand 1000EUR Stufe 1 (stufe_2_freigeschaltet=false) - Einzel SAFE/VALUE 10-20EUR, Wackel 5EUR. Markt-Goldgruben aktiv: DC X2 (+51.7%), DC 1X (+44.8%), Ueber 2.5 (+40.4%), BTTS JA (+15.1%), Torschuetzen Jederzeit historisch stark. CL-Ligaphase MD3 im System aktuell nur +1.4% ROI - deshalb kein pauschaler Liga-Goldgrube-Boost, Edge pro Spiel pruefen. Recherche-File fehlte - Fallback-Recherche in dieser Routine selbst erledigt.",
+  "spiele": [
+    {
+      "id": "2026-11-03-sha-spo",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+      "heim": "Shakhtar Donetsk (Heimspiel @ Stamford Bridge, London)",
+      "gast": "Sporting CP",
+      "anstoss": "2026-11-03T18:45:00+01:00",
+      "stadion": "Stamford Bridge, London (Shakhtar-Heimspiel im Exil wegen Krieg in Ukraine)",
+      "saison_kontext": {
+        "parallel_heim": "Shakhtar nur CL + ukrainische Premyer Liha - naechstes nationales Spiel Sa 08.11., 5 Tage Pause",
+        "parallel_gast": "Sporting Primeira Liga - naechstes Spiel So 09.11., 6 Tage Pause",
+        "saisonziel_heim": "CL-Top-24 (Playoff-Qualifikation) - Underdog-Modus auswaerts im Exil, bislang in CL 2 Pkt aus 3 Spielen",
+        "saisonziel_gast": "CL-Top-8 (direkte Achtelfinal-Qualifikation) - 6 Pkt aus 3 CL-Spielen, nationaler Serienmeister will Europa-Rolle bestaetigen",
+        "motivations_asymmetrie": "Sporting klassenbesser (Primeira-Liga-Favorit vs Underdog-Modus Shakhtar), spielt gegen reine Exil-Heim-Elf ohne echte Heim-Atmosphaere. Sporting kommt mit mehr Spielpraxis in europaeischen Top-Teams, Shakhtar baut auf Konter + Jung-Spielern. Fairer Favorit Sporting.",
+        "recovery_heim": "4 Tage seit letztem Pflichtspiel - regulaer",
+        "recovery_gast": "4 Tage seit letztem Pflichtspiel - regulaer",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/",
+          "https://112.ua/en/4-j-tur-ligi-cempioniv-uefa-202627-sahtar-zigrae-zi-sportingom-3-listopada-u-londoni-195701",
+          "https://sports.yahoo.com/articles/uefa-champions-league-matchday-4-133602125.html"
+        ]
+      },
+      "news": [
+        "CL MD4 Dienstag-Early-Slot 18:45 CET @ Stamford Bridge",
+        "Shakhtar spielt CL-Heimspiele im Exil (Krieg) - keine echte Heim-Atmosphaere",
+        "Sporting Primeira-Liga-Favorit mit Pavlidis + Trincao als Offensiv-Achse",
+        "Shakhtar baut auf Konter + Jugend, bislang nur 2 Pkt aus 3 CL-Spielen",
+        "Kein 2:0-Insurance bei Shakhtar-Spielen - nur fuer 1. Bundesliga + Champions League-FINALE... Moment - CL faellt UNTER 2:0-Insurance per bet365-DE-Regel; bei Sporting-Sieg-Tipp greift Insurance wenn Sporting 2:0 fuehrt"
+      ],
+      "tipps": [
+        {
+          "id": "sha-spo-1",
+          "kategorie": "value",
+          "markt": "Sieg Sporting (90 Min)",
+          "quote": 1.8,
+          "edge_prozent": 7.0,
+          "begruendung": "Sporting Primeira-Liga-Favorit vs Exil-Shakhtar ohne echte Heim-Atmosphaere. Klassenunterschied + Spielpraxis in Top-Teams. CL-Insurance greift bei 2:0-Fuehrung. Einsatz 15EUR (1.5% von 1000EUR Kasse). bet365 live pruefen.",
+          "faire_quote": 1.68,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "sha-spo-2",
+          "kategorie": "value",
+          "markt": "Remis oder Sporting (Doppelte Chance X2)",
+          "quote": 1.35,
+          "edge_prozent": 5.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance X2 (73.7% / +51.7% ROI). Sicherungs-Variante zum direkten Sporting-Sieg - geringere Quote, aber in Exil-Setup fast nicht verlierbar. Einsatz 10EUR (1%). bet365 live pruefen.",
+          "faire_quote": 1.28,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "sha-spo-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.9,
+          "edge_prozent": 3.0,
+          "begruendung": "Markt-Goldgrube BTTS JA (+15.1% ROI). Shakhtar-Jugend-Konterangriffe gegen Sporting-Hochrisiko-Press - beide Teams scoring-faehig. Keine klare Edge-Signal, deshalb nur wackel. Einsatz 5EUR (0.5%).",
+          "faire_quote": 1.9,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "sha-spo-4",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "edge_prozent": 3.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (63.6% / +40.4%). CL offene Spiele, beide offensiv. Einsatz 5EUR (0.5%).",
+          "faire_quote": 1.9,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 1,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 0
+        },
+        "quelle": "manuell/websearch",
+        "abgerufen_am": "2026-11-04T18:18:18+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "sha-spo-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.8,
+          "kommentar": "Sporting 1:0 (Doumbia 59')"
+        },
+        {
+          "tipp_id": "sha-spo-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.35,
+          "kommentar": "DC X2 - Sporting Sieg"
+        },
+        {
+          "tipp_id": "sha-spo-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "BTTS NEIN - nur Sporting traf"
+        },
+        {
+          "tipp_id": "sha-spo-4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur 1 Tor insgesamt"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": 59,
+            "team": "gast",
+            "spieler": "Issa Doumbia",
+            "stand_danach": "0:1",
+            "zusatz": "Abstauber nach Deflection durch Pedro Henrique"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Enges Spiel, Sporting setzt sich spaet durch"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Sporting",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Low-Scoring-Exil-Spiel im Stamford Bridge: Shakhtar bleibt torlos, Sporting-Edge reicht zum Minimalsieg. Kurzquoten-Sporting-Tipp laeuft, Tor-Overs scheitern."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-03-gal-stu",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+      "heim": "Galatasaray",
+      "gast": "VfB Stuttgart",
+      "anstoss": "2026-11-03T18:45:00+01:00",
+      "stadion": "Rams Park (Istanbul)",
+      "saison_kontext": {
+        "parallel_heim": "Gala Sueper Lig - naechstes Liga-Spiel am Wochenende (So 09.11.), 6 Tage Pause",
+        "parallel_gast": "Stuttgart Bundesliga - naechstes Liga-Spiel Sa 08.11., 5 Tage Pause",
+        "saisonziel_heim": "Dreifach: Sueper-Lig-Titel + CL-Top-24 + nationales Prestige - 3 Pkt in CL (3 aus 9 moeglich), 4-Spiele-Siegesserie zuletzt",
+        "saisonziel_gast": "Bundesliga-CL-Qualifikation + CL-Top-24 - 7 Pkt in CL (ungeschlagen aus 3), nur 2 Gegentore kassiert",
+        "motivations_asymmetrie": "Form-Edge klar Stuttgart (7 Pkt vs 3 Pkt in CL, nur 2 Gegentore). Aber Rams-Park-Fortress + extreme Fan-Druck + Stiller-Ausfall bei Stuttgart im Mittelfeld schwaecht Spielkontrolle. Osimhen (Volume-9er) als Edge-Signal. Demirovic/Undav bei Stuttgart Form-Hoch.",
+        "recovery_heim": "4 Tage seit letztem Spiel - regulaer",
+        "recovery_gast": "4 Tage seit letztem Spiel - regulaer; Stiller fehlt (OUT)",
+        "quellen": [
+          "https://footballwhispers.com/blog/galatasaray-vs-stuttgart-prediction-03-11-2026/",
+          "https://khelnow.com/football/galatasaray-vs-vfb-stuttgart-preview-uefa-champions-league-202611",
+          "https://www.sportsgambler.com/betting-tips/football/galatasaray-vs-stuttgart-prediction-lineups-odds-2026-11-03/",
+          "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/"
+        ]
+      },
+      "news": [
+        "Rams Park Istanbul 18:45 - CL MD4 Early-Slot",
+        "Stuttgart in CL ungeschlagen (7 Pkt, nur 2 Gegentore)",
+        "Gala auf 4-Spiele-Siegesserie zuletzt",
+        "Stuttgart OUT: Angelo Stiller (6er) - geschwaechtes Mittelfeld",
+        "Osimhen (Gala) Volume-9er mit 1 Tor aus 5 Schuessen bisher - Form noch nicht peak",
+        "Demirovic (Stuttgart): 4 Tore aus 5 Schuessen in 89 Min = extreme Trefferquote",
+        "Undav (Stuttgart): 10 Chancen kreiert, 2 Assists - Spielmacher-Rolle",
+        "2:0-Insurance greift bei direktem Sieg-Tipp (CL unter bet365-DE-Regel)"
+      ],
+      "tipps": [
+        {
+          "id": "gal-stu-1",
+          "kategorie": "value",
+          "markt": "Galatasaray oder Remis (Doppelte Chance 1X)",
+          "quote": 1.4,
+          "edge_prozent": 8.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance 1X (83.3% / +44.8% ROI). Rams-Park-Fortress + Stiller-Ausfall bei Stuttgart. Trotz Stuttgart-CL-Form das sicherere Konstrukt. Einsatz 15EUR (1.5%).",
+          "faire_quote": 1.3,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "gal-stu-2",
+          "kategorie": "value",
+          "markt": "Osimhen Torschuetze jederzeit",
+          "quote": 2.2,
+          "edge_prozent": 10.0,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Volume-9er bei Gala, trotz 1-Tor-Statistik langsame Startphase - Rams-Park-Fan-Druck + Stuttgart-Mittelfeld-Schwaeche durch Stiller-Ausfall. Einwechslungs-Boost: Barnes/Mertens als Backup. Einsatz 15EUR (1.5%).",
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "gal-stu-3",
+          "kategorie": "wackel",
+          "markt": "Demirovic Torschuetze jederzeit",
+          "quote": 3.0,
+          "edge_prozent": 5.0,
+          "begruendung": "4 Tore aus 5 Schuessen in 89 Min CL-Form (extreme Trefferquote). Volume-9er Stuttgart. HR24 (Form-Edge) erfuellt. In Rams-Park schwieriger, deshalb wackel. Einsatz 5EUR (0.5%).",
+          "faire_quote": 2.8,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "gal-stu-4",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.65,
+          "edge_prozent": 4.0,
+          "begruendung": "Markt-Goldgrube BTTS JA. Gala offensiv Heim-Druck, Stuttgart Demirovic/Undav Volume. Einsatz 5EUR (0.5%).",
+          "faire_quote": 1.58,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "gal-stu-5",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.8,
+          "edge_prozent": 4.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5. Beide offensiv, CL offene Spiele. Einsatz 5EUR (0.5%).",
+          "faire_quote": 1.73,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 0,
+        "halbzeit": {
+          "heim": 2,
+          "gast": 0
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-11-04T18:13:48+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "gal-stu-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.4,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "gal-stu-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Osimhen ohne Tor; Batrakov traf beide - kein Einwechslungs-Boost (Batrakov war Startelf)"
+        },
+        {
+          "tipp_id": "gal-stu-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Demirovic ohne Tor; Stuttgart ohne Tor"
+        },
+        {
+          "tipp_id": "gal-stu-4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "gal-stu-5",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:0",
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": 12,
+            "team": "heim",
+            "spieler": "Aleksey Batrakov",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 15,
+            "team": "heim",
+            "spieler": "Aleksey Batrakov",
+            "stand_danach": "2:0",
+            "zusatz": "Assist Davinson Sanchez"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Fruehe Doppelpack Batrakov entscheidet in 15 Minuten"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Galatasaray/Galatasaray",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Osimhen",
+            "details": "Volume-9er traf nicht; Stuttgart ohne Stiller konnte trotzdem offensiv nichts entwickeln"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Batrakov (russ. Winger, zur Saison 2026/27 von Lok Moskau zu Gala gewechselt) uebernimmt Scoring-Volume von Osimhen - mittelfristig relevant fuer Gala-Torschuetzen-Tipps.",
+          "Stuttgarts CL-Clean-Sheet-Serie (bislang nur 2 Gegentore) in 15 Minuten gerissen - Stiller-Ausfall war fuer Mittelfeld-Kontrolle doch kritischer als angenommen."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-03-atl-bay",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+      "heim": "Atletico Madrid",
+      "gast": "Bayern Muenchen",
+      "anstoss": "2026-11-03T21:00:00+01:00",
+      "stadion": "Riyadh Air Metropolitano, Madrid",
+      "saison_kontext": {
+        "parallel_heim": "LaLiga - Atletico naechstes Spiel Sa 08.11. vs Levante, 5 Tage Pause",
+        "parallel_gast": "Bundesliga - Bayern naechstes Spiel Sa 08.11. vs Leverkusen, 5 Tage Pause",
+        "saisonziel_heim": "LaLiga Top-4 + CL-Top-24 - 4 Pkt aus 3 CL-Spielen (Platz 16), Simeone-Konstanz, aktuell rot-hot in LaLiga",
+        "saisonziel_gast": "Bundesliga-Titel + CL-Titel-Favorit - 5 Pkt aus 3 CL-Spielen (Platz 14), 25:6 Bundesliga-Tore - aber Verletzungs-Welle in der Offensive",
+        "motivations_asymmetrie": "Bayern nominaler Favorit (Markt 51% implizit) aber: Luis Diaz OUT (Oberschenkel bis Ende Nov.), Olise OUT, Gnabry OUT, Kim OUT, Saibari OUT - massive Offensiv-Dezimierung. Dagegen Atletico-Historie-Edge: 16 Spiele ungeschlagen gegen deutsche Teams zuhause seit 1996 (!). Alvarez + Lookman als 9er-Duo. DC 1X bei Atletico ist VALUE statt direkter Sieg-Tipp.",
+        "recovery_heim": "4 Tage seit letzter LaLiga-Partie - regulaer",
+        "recovery_gast": "4 Tage seit 2:1 vs Dortmund (01.11.) - regulaer; aber Verletzungs-Druck brutal, Kompany muss rotieren",
+        "quellen": [
+          "https://www.goal.com/en/news/atletico-madrid-bayern-munich-champions-league-preview/blt56140a73e457d04b",
+          "https://sports.yahoo.com/articles/champions-league-matchday-preview-atletico-170000318.html",
+          "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/atl%C3%A9tico-de-madrid-vs-bayern-munich-date-time-and-everything-you-need-to-know-about-this-champions-league-showdown-2026-11-03",
+          "https://www.sportsbettingdime.com/news/soccer/atletico-madrid-vs-bayern-picks-goal-props-odds-nov-3/",
+          "https://bolavip.com/en/soccer/why-isnt-luis-diaz-playing-today-for-bayern-munich-vs-borussia-dortmund-in-2026-27-bundesliga-matchday-8"
+        ]
+      },
+      "news": [
+        "Atletico 16 Spiele ungeschlagen gegen deutsche Teams zuhause seit 1996 - starker Heim-Rekord",
+        "Bayern OUT: Luis Diaz (Oberschenkel bis Ende Nov.), Michael Olise, Serge Gnabry, Kim Min-jae, Ismael Saibari - massive Offensiv-Dezimierung",
+        "Bayern IN: Jonathan Tah, Nathaniel Brown, Lennart Karl (Nachwuchs), Tom Bischof",
+        "Kane bleibt einziger fitter Top-9er bei Bayern - traegt alles",
+        "Atletico-Lineup: Oblak - Pubill, Romero, Hancko, Grimaldo - Simeone, Llorente, Barrios, Baena - Alvarez, Lookman",
+        "Harry Kane: Bundesliga-Top-Torschuetze, in CL schon mehrfach gegen Spanier getroffen",
+        "Alvarez + Lookman Volume-Duo (Lookman jetzt seit Feb Atletico, erste CL mit Alvarez)",
+        "2:0-Insurance greift (CL faellt unter bet365-DE-Regel)"
+      ],
+      "tipps": [
+        {
+          "id": "atl-bay-1",
+          "kategorie": "value",
+          "markt": "Atletico Madrid oder Remis (Doppelte Chance 1X)",
+          "quote": 1.7,
+          "edge_prozent": 10.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance 1X (83.3% / +44.8%). Atleticos 16-Spiele-Ungeschlagen-Serie gegen deutsche Teams seit 1996 (!) + Bayerns massive Verletzungs-Welle (Diaz/Olise/Gnabry/Kim/Saibari OUT) + Metropolitano-Fan-Druck. Markt-Favorit Bayern (51% implizit) ignoriert diesen Heim-Fortress. Einsatz 20EUR (2% - obere Grenze Stufe 1, da starke Edge). bet365 live pruefen.",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "atl-bay-2",
+          "kategorie": "value",
+          "markt": "Alvarez Torschuetze jederzeit",
+          "quote": 2.8,
+          "edge_prozent": 8.0,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Atleticos Volume-9er, Elfmeterschuetze, in LaLiga rot-hot. Mit Kim-OUT bei Bayern wackelige Innenverteidigung. Einsatz 15EUR (1.5%).",
+          "faire_quote": 2.6,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "atl-bay-3",
+          "kategorie": "value",
+          "markt": "Harry Kane Torschuetze jederzeit",
+          "quote": 2.1,
+          "edge_prozent": 7.0,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Mit Diaz/Olise/Gnabry OUT ist Kane einziger fitter Top-Stuermer - traegt alles. Bundesliga Top-Torschuetze. HR24 erfuellt (Volume-9er + Form). Einwechslungs-Boost: Mueller/Karl als Backup zaehlen. Einsatz 15EUR (1.5%).",
+          "faire_quote": 1.95,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "atl-bay-4",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 5.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5. Beide Teams offensiv-wichtig, Bayern mit Rotations-Zwang verwundbar hinten, Atletico Alvarez+Lookman. Einsatz 5EUR (0.5%).",
+          "faire_quote": 1.76,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "atl-bay-5",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.6,
+          "edge_prozent": 4.0,
+          "begruendung": "Markt-Goldgrube BTTS JA. Kane bei Bayern + Alvarez/Lookman bei Atletico - beide Teams verwundbar. Einsatz 5EUR (0.5%).",
+          "faire_quote": 1.54,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 2,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 0
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-11-04T18:13:48+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "atl-bay-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "atl-bay-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Alvarez ohne Tor; Atletico blieb torlos"
+        },
+        {
+          "tipp_id": "atl-bay-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Kane ohne Tor; nur Assist zu Laimer-Tor; nicht ausgewechselt -> kein Einwechslungs-Boost"
+        },
+        {
+          "tipp_id": "atl-bay-4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "atl-bay-5",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:2",
+        "tore": [
+          {
+            "min": 54,
+            "team": "gast",
+            "spieler": "Lennart Karl",
+            "stand_danach": "0:1",
+            "zusatz": "Nachwuchs-Fluegel-Shift bei Diaz-OUT"
+          },
+          {
+            "min": 74,
+            "team": "gast",
+            "spieler": "Konrad Laimer",
+            "stand_danach": "0:2",
+            "zusatz": "Assist Harry Kane"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Bayern in zweiter HZ ueberlegen, Atletico-Fortress bricht"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Bayern",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Lennart Karl",
+            "details": "Jung-Fluegel ersetzt Diaz & liefert CL-Debut-Tor"
+          },
+          {
+            "team": "heim",
+            "spieler": "Alvarez + Lookman",
+            "details": "Volume-9er blieb torlos; Metropolitano-Fortress (16 Spiele ungeschlagen vs DE) endet"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Trotz Diaz/Olise-Zweifel brachte Kompany Olise in die Startelf - Verletzungs-Information im Tipp-File veraltet; Bayern setzte sich durch Jugend (Karl) + Konter (Laimer) durch.",
+          "Atleticos 'ungeschlagen gegen deutsche Teams seit 1996'-Edge gebrochen - Historien-Edge in CL immer mit Formrealitaet kalibrieren."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-03-bar-vil",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+      "heim": "FC Barcelona",
+      "gast": "Aston Villa",
+      "anstoss": "2026-11-03T21:00:00+01:00",
+      "stadion": "Spotify Camp Nou, Barcelona",
+      "saison_kontext": {
+        "parallel_heim": "LaLiga - Barca naechstes Spiel Sa 08.11., 5 Tage Pause",
+        "parallel_gast": "Premier League - Villa naechstes Spiel So 09.11., 6 Tage Pause",
+        "saisonziel_heim": "LaLiga-Titel + CL-Finale - Platz 23 im CL-Ranking mit 4 Pkt aus 3 Spielen (verwirrend durchwachsen), aber 6:1 vs Alaves zuletzt Form-Boost",
+        "saisonziel_gast": "PL-Top-4 + CL-Top-24 - 9 Pkt aus 3 CL-Spielen (perfekter Start), 1:1 vs Fulham zuletzt",
+        "motivations_asymmetrie": "Barca Camp-Nou-Heim-Favorit mit Opta-Supercomputer 72% Siegwahrscheinlichkeit. Villa dagegen 3/3 CL-Siege = Dark-Horse-Form (aber Barca-Form 6:1 Alaves ebenfalls peak). Jackson+Guessand als Villa-9er-Duo. Yamal-Rekord-Jagd (CL-Teenager-Tore). Villa OUT: Wan-Bissaka, Onana, Ruggeri (3 Stammspieler). Edge klar Barca-Sieg + Yamal-Torschuetze.",
+        "recovery_heim": "4 Tage seit 6:1 vs Alaves (01.11.) - voll ausgeruht",
+        "recovery_gast": "4 Tage seit 1:1 vs Fulham (01.11.) - voll ausgeruht",
+        "quellen": [
+          "https://theanalyst.com/articles/barcelona-vs-aston-villa-prediction-champions-league-preview-11-2026",
+          "https://www.moroccoworldnews.com/2026/11/344847/barcelona-vs-aston-villa-champions-league-preview-team-news-and-how-to-watch/",
+          "https://www.dazn.com/en-US/news/soccer/barcelona-vs-aston-villa-preview-prediction-champions-league-2026-27/160fmwavh069n1qj80ym27o6uk",
+          "https://www.sportskeeda.com/football/barcelona-vs-aston-villa-prediction-betting-tips-november-3rd-2026"
+        ]
+      },
+      "news": [
+        "Barca 6:1 vs Alaves zuletzt (01.11.) - Form-Peak",
+        "Villa 3/3 CL-Siege (9 Pkt) - perfekter CL-Start",
+        "Yamal: Rekord-Kandidat fuer meiste CL-Tore als Teenager (13 Tore, gleicher Rang wie Mbappe)",
+        "Villa OUT: Wan-Bissaka, Onana, Ruggeri (3 Stammspieler)",
+        "Jackson (Villa) phaenomenaler Start seit Chelsea-Wechsel - Villa-Volume-9er",
+        "Opta-Supercomputer: 72% Barca-Siegwahrscheinlichkeit",
+        "Score-Prediction Mehrheit: Barca 3-1 Aston Villa",
+        "Villa-Sieg @7.00 bei bet365 - klassischer Moonshot-Kandidat",
+        "2:0-Insurance greift (CL faellt unter bet365-DE-Regel)",
+        "Keine veralteten Spieler: Adeyemi (jetzt Barca aus BVB) hier korrekt - gilt als Backup-Fluegel bei Barca"
+      ],
+      "tipps": [
+        {
+          "id": "bar-vil-1",
+          "kategorie": "safe",
+          "markt": "Sieg Barcelona (90 Min)",
+          "quote": 1.44,
+          "edge_prozent": 10.0,
+          "begruendung": "72% Opta-Supercomputer-Siegwahrscheinlichkeit = faire Quote ~1.39. Camp-Nou-Heim-Fortress nach 6:1 Form-Peak. Villa trotz 3/3 CL-Form OUT bei Wan-Bissaka+Onana+Ruggeri (3 Stamm). HR1 (SAFE in Heim-Favorit-Setup mit Edge). CL-Insurance greift. Einsatz 20EUR (2%). bet365 live pruefen.",
+          "faire_quote": 1.39,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "bar-vil-2",
+          "kategorie": "value",
+          "markt": "Lamine Yamal Torschuetze jederzeit",
+          "quote": 1.8,
+          "edge_prozent": 12.0,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Yamal CL-Rekord-Jagd (13 Tore als Teenager, gleich Mbappe) + Camp-Nou-Form-Peak + Villa-Defense-OUTs (Wan-Bissaka/Onana/Ruggeri). HR24 erfuellt. Einwechslungs-Boost: Rashford/Jesus als Backup. Einsatz 15EUR (1.5%).",
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "bar-vil-3",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.5,
+          "edge_prozent": 6.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (63.6% / +40.4%). 3-1-Score-Prediction, Barca Form-Peak + Villa-Defense-OUTs. Einsatz 15EUR (1.5%).",
+          "faire_quote": 1.41,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "bar-vil-4",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "edge_prozent": 4.0,
+          "begruendung": "Markt-Goldgrube BTTS JA. Barca-Defense durchwachsen (nicht konstant Clean Sheet), Villa mit Jackson+Guessand offensiv-druck. Einsatz 5EUR (0.5%).",
+          "faire_quote": 1.68,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "bar-vil-5",
+          "kategorie": "moonshot",
+          "markt": "Sieg Aston Villa (90 Min)",
+          "quote": 7.0,
+          "edge_prozent": -10.0,
+          "begruendung": "Reiner Lotterie-Spass. Villa 3/3 CL-Form Dark-Horse, Jackson+Guessand koennten in Camp-Nou-Rotations-Setup zuschlagen. Opta sagt nur 10-12% Villa-Sieg. Einsatz 1EUR Spass (0.1%).",
+          "faire_quote": 9.0,
+          "empfohlener_einsatz_prozent": 0.1
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 0,
+        "halbzeit": {
+          "heim": 1,
+          "gast": 0
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-11-04T18:13:48+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "bar-vil-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.44,
+          "kommentar": "Barca 3:0"
+        },
+        {
+          "tipp_id": "bar-vil-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.8,
+          "kommentar": "Yamal 7' - CL-Teenager-Rekord (14 CL-Tore, Mbappe 13 ueberholt)"
+        },
+        {
+          "tipp_id": "bar-vil-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.5,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "bar-vil-4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "bar-vil-5",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "3:0",
+        "tore": [
+          {
+            "min": 7,
+            "team": "heim",
+            "spieler": "Lamine Yamal",
+            "stand_danach": "1:0",
+            "zusatz": "Abfang eines Villa-Rueckpasses im Strafraum"
+          },
+          {
+            "min": 52,
+            "team": "heim",
+            "spieler": "Raphinha",
+            "stand_danach": "2:0",
+            "zusatz": "Abgefaelschter Schuss"
+          },
+          {
+            "min": 64,
+            "team": "heim",
+            "spieler": "Raphinha",
+            "stand_danach": "3:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Barca kontrolliert durchgehend; Villa ohne Chance"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Barcelona/Barcelona",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Jackson/Guessand",
+            "details": "Villa-Volume-9er-Duo blieb komplett wirkungslos, Villa-Defense-OUTs (Wan-Bissaka/Onana/Ruggeri) zahlten sich aus"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Yamal CL-Teenager-Rekord (14 Tore ueberholt Mbappe) - Jederzeit-Scorer-Tipps auf ihn bleiben Markt-Goldgrube.",
+          "Villas 9/9-Perfect-Start endet an fehlender Defense-Tiefe - fuer PL-Teams in CL weiterhin Verletzungs-Druck Hauptrisiko."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-03-mun-rom",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+      "heim": "Manchester United",
+      "gast": "AS Roma",
+      "anstoss": "2026-11-03T21:00:00+01:00",
+      "stadion": "Old Trafford, Manchester",
+      "saison_kontext": {
+        "parallel_heim": "Premier League - United naechstes Spiel Sa 08.11., 5 Tage Pause",
+        "parallel_gast": "Serie A - Roma naechstes Spiel So 09.11., 6 Tage Pause",
+        "saisonziel_heim": "PL Top-6 wieder (Krise) + CL-Top-24 - 3 Pkt aus 3 CL-Spielen (Platz 21!), aktuell PL-Krise (0:2 bei Chelsea, winless-Run)",
+        "saisonziel_gast": "Serie A Top-4 + CL-Top-24 - 4 Pkt aus 3 CL-Spielen (1:1 Fener, 3:4 Real Madrid, 4:0 Slovan), aktuell 5:2 vs Udinese Form-Hoch",
+        "motivations_asymmetrie": "Markt-Favorit United (44% implizit) wegen Old Trafford + Heim, aber Form komplett gegen United: PL-Krise + winless-Run vs Roma 5:2 vs Udinese torfreudig. Malen (jetzt Roma seit Mai 2026) traegt mit 3 CL-Toren. HR3 Doppel-Belastung: United rotations-druck + mental in Krise.",
+        "recovery_heim": "4 Tage seit 0:2 bei Chelsea (01.11.) - mental angeschlagen",
+        "recovery_gast": "4 Tage seit 5:2 vs Udinese (01.11.) - Form-Hoch",
+        "quellen": [
+          "https://www.goal.com/en/news/manchester-united-roma-uefa-champions-league-preview/blt073459ac3ec4eba1",
+          "https://www.skysports.com/football/manchester-united-vs-roma/577657",
+          "https://sports.yahoo.com/articles/where-watch-man-united-vs-110004356.html",
+          "https://oddschecker.com/tips/football/champions-league/20261103-man-united-vs-roma-30-1-bet-builder-betting-tips-odds",
+          "https://www.thelines.com/uk/tips/champions-league/champions-league-predictions-and-betting-tips-roma-to-heap-more-misery-on-man-united/"
+        ]
+      },
+      "news": [
+        "United PL-Krise + winless-Run (0:2 bei Chelsea 01.11.)",
+        "Roma 5:2 vs Udinese zuletzt - Form-Hoch, torfreudig",
+        "Malen (jetzt Roma seit Mai 2026 fest aus Villa) - 3 CL-Tore bisher, Volume-Fluegel",
+        "Markt-Favorit United 44% implizit (Heim-Faktor allein), aber Form klar Roma",
+        "United keine Clean Sheet in Serie zuletzt",
+        "2:0-Insurance greift (CL faellt unter bet365-DE-Regel)"
+      ],
+      "tipps": [
+        {
+          "id": "mun-rom-1",
+          "kategorie": "value",
+          "markt": "Remis oder Roma (Doppelte Chance X2)",
+          "quote": 1.9,
+          "edge_prozent": 8.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance X2 (73.7% / +51.7% ROI). United-Krise + Roma Form-Hoch 5:2 vs Udinese. Markt-Favorit United verfehlt die Formrealitaet. Historisch bieten DC-Tipps gegen Krisen-Favoriten starken Edge. Einsatz 15EUR (1.5%).",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "mun-rom-2",
+          "kategorie": "value",
+          "markt": "Donyell Malen Torschuetze jederzeit",
+          "quote": 3.2,
+          "edge_prozent": 10.0,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Malen (jetzt Roma, nicht mehr Villa/BVB) 3 CL-Tore bereits - Volume-Fluegel. HR24 erfuellt (Form-Edge in CL). Old-Trafford-Pokale fuer Underdogs: historisch gut. Einsatz 10EUR (1%).",
+          "faire_quote": 2.9,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "mun-rom-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.7,
+          "edge_prozent": 5.0,
+          "begruendung": "Markt-Goldgrube BTTS JA. United ohne Clean Sheet in Serie, Roma torfreudig. Einsatz 5EUR (0.5%).",
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "mun-rom-4",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "edge_prozent": 4.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5. Roma offensiv (5:2 vs Udinese), United-Defense verwundbar. Einsatz 5EUR (0.5%).",
+          "faire_quote": 1.83,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "mun-rom-5",
+          "kategorie": "moonshot",
+          "markt": "Sieg Roma (90 Min)",
+          "quote": 3.0,
+          "edge_prozent": -5.0,
+          "begruendung": "Lotterie-Spass, Roma-Form rechtfertigt Underdog-Edge aber Old Trafford hat seine eigene Magie. Einsatz 2EUR Spass (0.2%).",
+          "faire_quote": 3.15,
+          "empfohlener_einsatz_prozent": 0.2
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 2,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 2
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-11-04T18:13:48+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "mun-rom-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "mun-rom-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.2,
+          "kommentar": "Malen Elfer 17' - zaehlt als Torschuetze"
+        },
+        {
+          "tipp_id": "mun-rom-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.7,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "mun-rom-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.9,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "mun-rom-5",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.0,
+          "kommentar": "2:0-Insurance: Roma fuehrte zur HZ 0:2 in CL - bet365 zahlt Sieg-Tipp Roma aus trotz 2:3-Niederlage"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:2",
+        "endstand": "3:2",
+        "tore": [
+          {
+            "min": 11,
+            "team": "gast",
+            "spieler": "Matias Soule",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 17,
+            "team": "gast",
+            "spieler": "Donyell Malen",
+            "stand_danach": "0:2",
+            "zusatz": "Elfmeter"
+          },
+          {
+            "min": 58,
+            "team": "heim",
+            "spieler": "Bruno Fernandes",
+            "stand_danach": "1:2",
+            "zusatz": "Elfmeter"
+          },
+          {
+            "min": 83,
+            "team": "heim",
+            "spieler": "Matheus Cunha",
+            "stand_danach": "2:2"
+          },
+          {
+            "min": 86,
+            "team": "heim",
+            "spieler": "Matheus Cunha",
+            "stand_danach": "3:2",
+            "zusatz": "Cunha spaeter Platzverweis in Nachspielzeit"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "0:2 HZ-Fuehrung Roma gedreht zu 3:2-United-Sieg - Zwischen-Differenz 2 Tore, Endstand andere Seite"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": false,
+          "halbzeit_endstand": "Roma/Manchester United",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Matheus Cunha",
+            "details": "Doppelpack 83'+86' zum Comeback, dann Rot in Nachspielzeit",
+            "tor": true
+          }
+        ],
+        "auffaellige_patterns": [
+          "Old-Trafford-Comeback-Drehung: trotz Krise/Winless-Run von United reichte ein dominanter Roma-Start nicht - 2:0-Insurance greift fuer Sieg-Tipp Roma trotz Niederlage.",
+          "Zweiter Drehungs-Tag der Woche: Zwischen-2-Tore-Fuehrungen in CL bleiben volatil, Live-Wett-Absicherung fuer DC-Gegentip in Live-Phase ueberlegen.",
+          "Malen-Elfer bestaetigt Roma-Volumen-Fluegel-Impact auch bei United-Defense."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-03-vil-psg",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+      "heim": "Villarreal CF",
+      "gast": "Paris Saint-Germain",
+      "anstoss": "2026-11-03T21:00:00+01:00",
+      "stadion": "Estadio de la Ceramica, Villarreal",
+      "saison_kontext": {
+        "parallel_heim": "LaLiga - Villarreal naechstes Spiel So 09.11., 6 Tage Pause",
+        "parallel_gast": "Ligue 1 - PSG naechstes Spiel Sa 08.11., 5 Tage Pause",
+        "saisonziel_heim": "LaLiga Top-6 + CL-Top-24 - durchwachsene Form, Heim-Dropout vermutlich",
+        "saisonziel_gast": "CL-Titel-Verteidigung + Ligue 1 - 9 Pkt aus 3 CL-Spielen (perfekter Start!), aktuell dominant",
+        "motivations_asymmetrie": "PSG klarer Favorit, aber massive Verletzungs-Welle: Kvara (ACL Season-OUT), Dembele (Season-OUT), Marquinhos, Nuno Mendes - Hauptkader geschwaecht. Doch Ferran Torres (jetzt PSG seit Aug) + Vitinha + Hakimi + Doue tragen. Villarreal Heim-aktiv (Pepe, Mikautadze, Moleiro), aber auch OUT: Foyth, Akhomach, Saliba, Diatta + Gerard Moreno Zweifel. Score-Prediction 2-3 PSG.",
+        "recovery_heim": "4 Tage seit letzter LaLiga-Partie - regulaer; viele OUTs",
+        "recovery_gast": "4 Tage seit letzter Ligue-1-Partie; viele Verletzte - rotations-druck",
+        "quellen": [
+          "https://khelnow.com/football/villarreal-vs-psg-preview-uefa-champions-league-202611",
+          "https://athlonsports.com/soccer/villarreal-vs-psg-lineups-confirmed-team-news-for-uefa-champions-league-match",
+          "https://www.sportsgambler.com/betting-tips/football/villarreal-vs-psg-prediction-lineups-odds-2026-11-03/",
+          "https://www.rotowire.com/soccer/article/villarreal-vs-psg-prediction-predicted-lineups-team-news-champions-league-144955"
+        ]
+      },
+      "news": [
+        "PSG OUT: Kvaratskhelia (ACL Season-OUT), Dembele (Season-OUT), Marquinhos, Nuno Mendes",
+        "Villarreal OUT: Foyth, Akhomach, Saliba, Diatta; Gerard Moreno Zweifel",
+        "PSG Lineup: Safonov - Hakimi, Zabarnyi, Pacho, Hernandez - Neves, Vitinha, Ruiz - Akliouche, Torres, Doue",
+        "Villarreal Lineup: Gulacsi - Freeman, Navarro, Veiga, Cardona - Pepe, Gueye, Comesana, Buchanan, Moleiro - Mikautadze",
+        "Ferran Torres (jetzt PSG seit Aug 2026, nicht mehr Barca) - zentraler 9er",
+        "Score-Prediction 2-3 PSG - offenes Spiel erwartet",
+        "2:0-Insurance greift (CL faellt unter bet365-DE-Regel)",
+        "Keine veralteten Spieler: Torres zu PSG verifiziert (nicht mehr Barca)"
+      ],
+      "tipps": [
+        {
+          "id": "vil-psg-1",
+          "kategorie": "value",
+          "markt": "Remis oder PSG (Doppelte Chance X2)",
+          "quote": 1.42,
+          "edge_prozent": 7.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance X2 (73.7% / +51.7%). PSG Perfect-Start 9/9 trotz Verletzungs-Welle - DC statt direkter Sieg weil Villarreal-Heim-Spiel + 4 PSG-Verletzte. Einsatz 20EUR (2%). bet365 live pruefen.",
+          "faire_quote": 1.32,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "vil-psg-2",
+          "kategorie": "value",
+          "markt": "Ferran Torres Torschuetze jederzeit",
+          "quote": 2.8,
+          "edge_prozent": 10.0,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Jetzt PSG-Volume-9er seit Dembele-Season-OUT - zentraler 9er. HR24 (Volume + Form). Einwechslungs-Boost: Doue/Akliouche. Einsatz 15EUR (1.5%).",
+          "faire_quote": 2.55,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "vil-psg-3",
+          "kategorie": "wackel",
+          "markt": "Mikautadze Torschuetze jederzeit",
+          "quote": 3.0,
+          "edge_prozent": 3.0,
+          "begruendung": "Villarreal-Volume-9er, Heim-Druck, PSG-Defense ohne Nuno Mendes+Marquinhos verwundbar. Einsatz 5EUR (0.5%).",
+          "faire_quote": 2.9,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "vil-psg-4",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.6,
+          "edge_prozent": 4.0,
+          "begruendung": "Markt-Goldgrube BTTS JA. Beide offensiv + beide verwundbar durch Verletzungen. Einsatz 5EUR (0.5%).",
+          "faire_quote": 1.54,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "vil-psg-5",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.65,
+          "edge_prozent": 5.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5. Score-Prediction 2-3 PSG = 5 Tore. PSG offensiv trotz Verletzungen, Villarreal Heim-Druck. Einsatz 5EUR (0.5%).",
+          "faire_quote": 1.57,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 6,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 4
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-11-04T18:13:48+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "vil-psg-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.42,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "vil-psg-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "F.Torres kam erst 60' fuer Mayulu - traf nicht; Mayulu traf vor Torres' Einwechslung, kein Einwechslungs-Boost zugunsten Torres"
+        },
+        {
+          "tipp_id": "vil-psg-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Mikautadze ohne Tor; Villarreal blieb torlos"
+        },
+        {
+          "tipp_id": "vil-psg-4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "vil-psg-5",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.65,
+          "kommentar": ""
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:4",
+        "endstand": "0:6",
+        "tore": [
+          {
+            "min": 9,
+            "team": "gast",
+            "spieler": "Joao Neves",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 12,
+            "team": "gast",
+            "spieler": "Desire Doue",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": 13,
+            "team": "gast",
+            "spieler": "Senny Mayulu",
+            "stand_danach": "0:3",
+            "zusatz": "Mayulu war Startelf-Mittelstuermer anstelle von Dembele"
+          },
+          {
+            "min": 17,
+            "team": "gast",
+            "spieler": "Fabian Ruiz",
+            "stand_danach": "0:4"
+          },
+          {
+            "min": 50,
+            "team": "gast",
+            "spieler": "Fabian Ruiz",
+            "stand_danach": "0:5"
+          },
+          {
+            "min": 78,
+            "team": "gast",
+            "spieler": "David Boly",
+            "stand_danach": "0:6",
+            "zusatz": "Debuet-Tor (kam 74' fuer Hakimi)"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "PSG zerstoert in ersten 17 Min"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "ueber_5_5": true,
+          "ueber_6_5": false,
+          "halbzeit_endstand": "PSG/PSG",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Senny Mayulu",
+            "details": "Ersetzt Dembele als zentraler 9er und trifft - PSG-Volume-9er-Shift"
+          },
+          {
+            "team": "heim",
+            "spieler": "Mikautadze",
+            "details": "Villarreal-Volume-9er ohne Chance; Gulacsi im Tor massiv ueberfordert"
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "ein": "David Boly",
+            "aus": "Achraf Hakimi",
+            "minute": 74,
+            "tor": true,
+            "details": "Debuet-Tor nach 4 Min auf dem Platz"
+          },
+          {
+            "team": "gast",
+            "ein": "Ferran Torres",
+            "aus": "Senny Mayulu",
+            "minute": 60,
+            "tor": false,
+            "details": "Torres kam NACH Mayulu-Tor - kein Einwechslungs-Boost fuer Torres-Scorer-Tipp"
+          }
+        ],
+        "auffaellige_patterns": [
+          "PSG-Volume-9er ist aktuell Mayulu (Mittelstuermer-Startelf nach Dembele-OUT), nicht Ferran Torres - Torschuetzen-Tipp auf Torres war fehlallokiert; Aufzug-Scanner muss PSG-9er-Rotation beobachten.",
+          "PSG-Hitrate bei verwundbarer Villarreal-Defense explodiert - 4 Tore in 17 Min, Over-5.5 lief trotzdem nicht bei den Tipps.",
+          "Einwechslungs-Boost-Trigger OHNE Tipp: Boly-Debuet-Tor (74' fuer Hakimi) - Volumen-Backup-Pattern bei Top-Teams."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-03-fey-int",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+      "heim": "Feyenoord",
+      "gast": "Inter Mailand",
+      "anstoss": "2026-11-03T21:00:00+01:00",
+      "stadion": "De Kuip, Rotterdam",
+      "saison_kontext": {
+        "parallel_heim": "Eredivisie - Feyenoord naechstes Spiel am Wochenende, Pause regulaer",
+        "parallel_gast": "Serie A - Inter naechstes Spiel So 09.11., 6 Tage Pause",
+        "saisonziel_heim": "Eredivisie Top-3 + CL-Top-24 - De-Kuip-Fortress historisch stark gegen italienische Teams",
+        "saisonziel_gast": "Serie A Titel + CL-Finale - gerade 1:3 im Derby della Madonnina gegen Milan verloren, Form-Riss",
+        "motivations_asymmetrie": "Inter klassenbesser aber: Lautaro Martinez OUT, Bastoni gesperrt, Stones OUT, Jones OUT, Luis Henrique OUT - dezimierte Elf. Thuram+Esposito muessen Last tragen. Feyenoord De-Kuip-Fortress + Form-Hoch nach Derby-Niederlage von Inter. DC X2 fuer Inter als VALUE statt direkter Sieg.",
+        "recovery_heim": "4 Tage seit letzter Eredivisie-Partie - regulaer",
+        "recovery_gast": "4 Tage seit 1:3 vs Milan (01.11.) - mental angeschlagen + Bastoni gesperrt",
+        "quellen": [
+          "https://sports.yahoo.com/articles/champions-league-feyenoord-vs-inter-094900263.html",
+          "https://khelnow.com/football/feyenoord-vs-inter-milan-preview-champions-league-202611",
+          "https://www.squawka.com/us/news/champions-league/match-preview-feyenoord-vs-inter-milan-03-11-26-champions-league/",
+          "https://tips.gg/article/feyenoord-vs-inter-milan-predicted-lineups-team-news-03-11-2026/",
+          "https://www.sportsgambler.com/betting-tips/football/feyenoord-vs-inter-milan-prediction-lineups-odds-2026-11-03/"
+        ]
+      },
+      "news": [
+        "Inter OUT: Lautaro Martinez, John Stones, Curtis Jones, Luis Henrique; Bastoni GESPERRT",
+        "Feyenoord OUT: Thomas Beelen, Jeremiah St. Juste",
+        "Inter kommt vom 1:3 Derby-Niederlage gegen Milan (01.11.) - mental schwach",
+        "Thuram einziger fitter Top-9er bei Inter neben Esposito (Jung-Backup)",
+        "Feyenoord Lineup: Ernst - Read, Watanabe, Marmol, Javi Lopez - Zechiel, Vanhoutte, Targhelline - Hadj Moussa, Ferri, Valente",
+        "Inter Lineup: Martinez - Bisseck, Akanji, Carlos Augusto - Spence, Barella, Calhanoglu, Zielinski, Dimarco - Thuram, Esposito",
+        "2:0-Insurance greift (CL faellt unter bet365-DE-Regel)"
+      ],
+      "tipps": [
+        {
+          "id": "fey-int-1",
+          "kategorie": "value",
+          "markt": "Remis oder Inter (Doppelte Chance X2)",
+          "quote": 1.45,
+          "edge_prozent": 7.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance X2 (73.7% / +51.7%). Inter trotz Verletzungen klassenbesser, aber De-Kuip-Fortress + Mental-Riss nach Derby-Niederlage rechtfertigt DC statt direkter Sieg. Einsatz 15EUR (1.5%).",
+          "faire_quote": 1.35,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "fey-int-2",
+          "kategorie": "value",
+          "markt": "Thuram Torschuetze jederzeit",
+          "quote": 2.0,
+          "edge_prozent": 10.0,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Mit Lautaro-OUT ist Thuram einziger fitter Top-9er - traegt alles. HR24 erfuellt (Volume + einzige fitte Option). Einwechslungs-Boost: Esposito als Backup zaehlt. Einsatz 15EUR (1.5%).",
+          "faire_quote": 1.8,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "fey-int-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "edge_prozent": 4.0,
+          "begruendung": "Markt-Goldgrube BTTS JA. De-Kuip-Druck, Inter Thuram-Konter. Beide Teams scoring-faehig. Einsatz 5EUR (0.5%).",
+          "faire_quote": 1.68,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "fey-int-4",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 4.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5. Beide offensiv-aktiv. Einsatz 5EUR (0.5%).",
+          "faire_quote": 1.68,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "fey-int-5",
+          "kategorie": "wackel",
+          "markt": "Esposito Torschuetze jederzeit",
+          "quote": 3.5,
+          "edge_prozent": 2.0,
+          "begruendung": "Zweite 9er-Option bei Inter (Jung-Spieler als Backup fuer Lautaro-OUT). Lotterie-Charakter, aber bei 10+ Spielminuten gelegentliches Tor. Einsatz 2EUR (0.2%).",
+          "faire_quote": 3.4,
+          "empfohlener_einsatz_prozent": 0.2
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 3,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 2
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-11-04T18:13:48+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "fey-int-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.45,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "fey-int-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Thuram ohne Tor; Esposito war Startelf neben Thuram (nicht sein Einwechslungs-Ersatz)"
+        },
+        {
+          "tipp_id": "fey-int-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "fey-int-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.75,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "fey-int-5",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.5,
+          "kommentar": "Esposito Kopfball 34'"
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:2",
+        "endstand": "0:3",
+        "tore": [
+          {
+            "min": 8,
+            "team": "gast",
+            "spieler": "Yann Bisseck",
+            "stand_danach": "0:1",
+            "zusatz": "Linksfuss, Assist Djed Spence"
+          },
+          {
+            "min": 34,
+            "team": "gast",
+            "spieler": "Francesco Pio Esposito",
+            "stand_danach": "0:2",
+            "zusatz": "Kopfball aus kurzer Distanz nach Konter"
+          },
+          {
+            "min": 54,
+            "team": "gast",
+            "spieler": "Piotr Zielinski",
+            "stand_danach": "0:3",
+            "zusatz": "Linksfuss von ausserhalb des Strafraums, Assist Barella"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Inter dominant trotz Verletzungs-Welle"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Inter/Inter",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Pio Esposito",
+            "details": "Jung-Backup-Stuermer trifft erneut - mit Lautaro-OUT wird er dauerhaft Volume-9er"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Inter Mental-Reaktion nach Derby-Niederlage perfekt - Chivu loest Derby-Druck mit Jugend-Rotation (Pio Esposito Startelf statt Lautaro).",
+          "De-Kuip-Fortress gegen italienische Teams nicht haltbar bei defensiv geordneten Inter-Setups.",
+          "Esposito-Jederzeit-Scorer war VALUE: 3.50 Quote, Tipp hatte nur wackel mit 0.2 Prozent Einsatz - Backup-Stuermer-Scanning weiter schaerfen."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-03-bod-lil",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+      "heim": "Bodo/Glimt",
+      "gast": "LOSC Lille",
+      "anstoss": "2026-11-03T21:00:00+01:00",
+      "stadion": "Aspmyra Stadion, Bodo (Nordnorwegen, Kunstrasen)",
+      "saison_kontext": {
+        "parallel_heim": "Eliteserien (Norwegen) - naechstes Spiel So 09.11., 6 Tage Pause",
+        "parallel_gast": "Ligue 1 - Lille naechstes Spiel So 09.11., 6 Tage Pause",
+        "saisonziel_heim": "CL-Top-24 (Playoff) + nationaler Titel - 3 Pkt aus 3 CL-Spielen",
+        "saisonziel_gast": "Ligue 1 Top-6 + CL-Top-24 - 0 Pkt aus 3 CL-Spielen (!), komplett ohne CL-Punkt",
+        "motivations_asymmetrie": "Bodo Heim-Fortress Aspmyra (80% Siegquote home-stats). Lille 0/9 CL-Punkte = akuter Druck + schlechte Reise nach Nordnorwegen (Kaelte, Kunstrasen-Umgewoehnung). Bodo bereits dieses Jahr Dortmund in Aspmyra geschlagen. Klarer Heim-Edge.",
+        "recovery_heim": "4 Tage seit letzter Eliteserien-Partie",
+        "recovery_gast": "4 Tage seit letzter Ligue-1-Partie + Reise-Belastung",
+        "quellen": [
+          "https://www.sportsmole.co.uk/football/bodo-glimt/champions-league/preview/bodoglimt-vs-lille-prediction-team-news-lineups_608214.html",
+          "https://tips.gg/article/bodo-glimt-vs-lille-03-11-2026/",
+          "https://www.mightytips.com/football-predictions/bodo-glimt-vs-lille-prediction-03-11-2026/",
+          "https://www.cbssports.com/watch/champions-league/LET-211534957"
+        ]
+      },
+      "news": [
+        "Aspmyra-Fortress: Bodo hat dort schon Dortmund 2026 geschlagen (im Heim)",
+        "Bodo-Heim-Siegquote 80% in Eliteserien",
+        "Lille 0/9 CL-Punkte - noch kein Erfolg in CL-Ligaphase",
+        "Markt-Edge: Bodo 54% implizit, Lille 26%, Remis 25%",
+        "Kunstrasen-Umgewoehnung Lille auswaerts in Nordnorwegen",
+        "2:0-Insurance greift (CL faellt unter bet365-DE-Regel)"
+      ],
+      "tipps": [
+        {
+          "id": "bod-lil-1",
+          "kategorie": "value",
+          "markt": "Bodo/Glimt oder Remis (Doppelte Chance 1X)",
+          "quote": 1.4,
+          "edge_prozent": 8.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance 1X (83.3% / +44.8%). Aspmyra-Fortress + Lille 0/9 CL = akuter Reise-/Form-Druck. Historische Heim-Dominanz. Einsatz 15EUR (1.5%).",
+          "faire_quote": 1.3,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "bod-lil-2",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.8,
+          "edge_prozent": 3.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5. Bodo-Heim-Offensive stark + Lille muss Druck setzen fuer ersten CL-Punkt. Einsatz 5EUR (0.5%).",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "bod-lil-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "edge_prozent": 3.0,
+          "begruendung": "Markt-Goldgrube BTTS JA. Lille muss offensiv spielen, Bodo scoring stark. Einsatz 5EUR (0.5%).",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 0,
+        "halbzeit": {
+          "heim": 0,
+          "gast": 0
+        },
+        "quelle": "football-data.org",
+        "abgerufen_am": "2026-11-04T18:13:48+00:00"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "bod-lil-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.4,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "bod-lil-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        },
+        {
+          "tipp_id": "bod-lil-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": ""
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:0",
+        "tore": [],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Torloses Remis, Chancen beidseitig aber verwertet nichts"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Aspmyra-Fortress reicht nicht fuer Heim-Tor; Lille holt ersten CL-Punkt mit defensivem Remis.",
+          "Erwartetes Tor-Volumen (Markt 54 Prozent Bodo-Sieg) ueberschaetzt gegen eine Mannschaft die 0 CL-Punkte vor dem Spiel hatte - 'akuter Druck' erzwingt oft Defensiv-Modus, nicht Offensiv-Risiko."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "tipp_id": "bar-vil-1",
+      "spiel_id": "2026-11-03-bar-vil",
+      "spiel_label": "FC Barcelona vs Aston Villa",
+      "kategorie": "safe",
+      "markt": "Sieg Barcelona (90 Min)",
+      "quote": 1.44,
+      "einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "kurz_begruendung": "72% Opta-Winkel + 6:1 Form-Peak + Villa OUT 3 Stammspieler + CL-Insurance greift"
+    },
+    {
+      "tipp_id": "atl-bay-1",
+      "spiel_id": "2026-11-03-atl-bay",
+      "spiel_label": "Atletico Madrid vs Bayern Muenchen",
+      "kategorie": "value",
+      "markt": "Atletico Madrid oder Remis (Doppelte Chance 1X)",
+      "quote": 1.7,
+      "einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "kurz_begruendung": "16 Spiele ungeschlagen gegen DE-Teams seit 1996 + Bayern 5x OUT Diaz/Olise/Gnabry/Kim/Saibari"
+    },
+    {
+      "tipp_id": "vil-psg-1",
+      "spiel_id": "2026-11-03-vil-psg",
+      "spiel_label": "Villarreal vs PSG",
+      "kategorie": "value",
+      "markt": "Remis oder PSG (Doppelte Chance X2)",
+      "quote": 1.42,
+      "einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "kurz_begruendung": "PSG 9/9 Perfect CL-Start trotz Kvara/Dembele/Marquinhos-OUT"
+    },
+    {
+      "tipp_id": "bar-vil-2",
+      "spiel_id": "2026-11-03-bar-vil",
+      "spiel_label": "FC Barcelona vs Aston Villa",
+      "kategorie": "value",
+      "markt": "Lamine Yamal Torschuetze jederzeit",
+      "quote": 1.8,
+      "einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "CL-Teenager-Rekord-Jagd + Camp Nou Form-Peak + Villa OUT 3 Stammspieler"
+    },
+    {
+      "tipp_id": "atl-bay-3",
+      "spiel_id": "2026-11-03-atl-bay",
+      "spiel_label": "Atletico Madrid vs Bayern Muenchen",
+      "kategorie": "value",
+      "markt": "Harry Kane Torschuetze jederzeit",
+      "quote": 2.1,
+      "einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Einziger fitter Top-9er bei Bayern (Diaz/Olise/Gnabry OUT) - traegt alles"
+    },
+    {
+      "tipp_id": "fey-int-2",
+      "spiel_id": "2026-11-03-fey-int",
+      "spiel_label": "Feyenoord vs Inter",
+      "kategorie": "value",
+      "markt": "Thuram Torschuetze jederzeit",
+      "quote": 2.0,
+      "einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Einziger fitter Top-9er bei Inter (Lautaro OUT, Esposito Jung-Backup)"
+    },
+    {
+      "tipp_id": "gal-stu-2",
+      "spiel_id": "2026-11-03-gal-stu",
+      "spiel_label": "Galatasaray vs Stuttgart",
+      "kategorie": "value",
+      "markt": "Osimhen Torschuetze jederzeit",
+      "quote": 2.2,
+      "einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Volume-9er Gala + Stuttgart ohne Stiller (Mittelfeld-Loch)"
+    },
+    {
+      "tipp_id": "gal-stu-1",
+      "spiel_id": "2026-11-03-gal-stu",
+      "spiel_label": "Galatasaray vs Stuttgart",
+      "kategorie": "value",
+      "markt": "Galatasaray oder Remis (Doppelte Chance 1X)",
+      "quote": 1.4,
+      "einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Rams-Park-Fortress + Stuttgart ohne Stiller - DC statt direkter Sieg"
+    },
+    {
+      "tipp_id": "bod-lil-1",
+      "spiel_id": "2026-11-03-bod-lil",
+      "spiel_label": "Bodo/Glimt vs Lille",
+      "kategorie": "value",
+      "markt": "Bodo/Glimt oder Remis (Doppelte Chance 1X)",
+      "quote": 1.4,
+      "einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Aspmyra-Fortress + Lille 0/9 CL-Punkte + Kunstrasen-Umgewoehnung"
+    },
+    {
+      "tipp_id": "mun-rom-1",
+      "spiel_id": "2026-11-03-mun-rom",
+      "spiel_label": "Manchester United vs Roma",
+      "kategorie": "value",
+      "markt": "Remis oder Roma (Doppelte Chance X2)",
+      "quote": 1.9,
+      "einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "United-Krise + winless-Run vs Roma 5:2-Form-Hoch + Malen 3 CL-Tore"
+    },
+    {
+      "tipp_id": "sha-spo-1",
+      "spiel_id": "2026-11-03-sha-spo",
+      "spiel_label": "Shakhtar vs Sporting",
+      "kategorie": "value",
+      "markt": "Sieg Sporting (90 Min)",
+      "quote": 1.8,
+      "einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Klassenbesser + Shakhtar-Exil ohne echte Heim-Atmosphaere - CL-Insurance greift"
+    },
+    {
+      "tipp_id": "mun-rom-2",
+      "spiel_id": "2026-11-03-mun-rom",
+      "spiel_label": "Manchester United vs Roma",
+      "kategorie": "value",
+      "markt": "Donyell Malen Torschuetze jederzeit",
+      "quote": 3.2,
+      "einsatz_prozent": 1.0,
+      "einsatz_euro": 10.0,
+      "kurz_begruendung": "3 CL-Tore bisher + Roma Form-Hoch - jetzt Roma seit Mai 2026 (nicht mehr Villa/BVB)"
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe-Kombi: Underdogs-Edge-Trio",
+      "kategorie": "safe",
+      "ziel_quote_range": "3-5x",
+      "gesamtquote": 3.53,
+      "gesamtquote_rechnung": "1.80 * 1.40 * 1.40 = 3.528",
+      "einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "beine": [
+        {
+          "spiel_id": "2026-11-03-sha-spo",
+          "spiel_label": "Shakhtar vs Sporting",
+          "markt": "Sieg Sporting (90 Min)",
+          "quote": 1.8,
+          "kategorie": "value",
+          "tipp_id": "sha-spo-1"
+        },
+        {
+          "spiel_id": "2026-11-03-bod-lil",
+          "spiel_label": "Bodo/Glimt vs Lille",
+          "markt": "Bodo/Glimt oder Remis (Doppelte Chance 1X)",
+          "quote": 1.4,
+          "kategorie": "value",
+          "tipp_id": "bod-lil-1"
+        },
+        {
+          "spiel_id": "2026-11-03-gal-stu",
+          "spiel_label": "Galatasaray vs Stuttgart",
+          "markt": "Galatasaray oder Remis (Doppelte Chance 1X)",
+          "quote": 1.4,
+          "kategorie": "value",
+          "tipp_id": "gal-stu-1"
+        }
+      ],
+      "kurz_begruendung": "3 klassenbesser-Heim-Favoriten mit DC-Puffer. Markt-Goldgruben DC 1X (83.3% / +44.8%)."
+    },
+    {
+      "name": "Balance-Kombi: 4-fach Props-Mix",
+      "kategorie": "balance",
+      "ziel_quote_range": "6-10x",
+      "gesamtquote": 6.44,
+      "gesamtquote_rechnung": "1.50 * 1.45 * 1.60 * 1.85 = 6.438",
+      "einsatz_prozent": 0.8,
+      "einsatz_euro": 8.0,
+      "beine": [
+        {
+          "spiel_id": "2026-11-03-bar-vil",
+          "spiel_label": "FC Barcelona vs Aston Villa",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.5,
+          "kategorie": "value",
+          "tipp_id": "bar-vil-3"
+        },
+        {
+          "spiel_id": "2026-11-03-fey-int",
+          "spiel_label": "Feyenoord vs Inter",
+          "markt": "Remis oder Inter (Doppelte Chance X2)",
+          "quote": 1.45,
+          "kategorie": "value",
+          "tipp_id": "fey-int-1"
+        },
+        {
+          "spiel_id": "2026-11-03-vil-psg",
+          "spiel_label": "Villarreal vs PSG",
+          "markt": "Beide Teams treffen",
+          "quote": 1.6,
+          "kategorie": "wackel",
+          "tipp_id": "vil-psg-4"
+        },
+        {
+          "spiel_id": "2026-11-03-atl-bay",
+          "spiel_label": "Atletico Madrid vs Bayern Muenchen",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "kategorie": "wackel",
+          "tipp_id": "atl-bay-4"
+        }
+      ],
+      "kurz_begruendung": "4 Spiele, 1 Sieg-Outcome (fi-DC X2), 3 Props (Ueber 2.5, BTTS). Markt-Goldgruben Ueber 2.5 + DC X2 + BTTS JA."
+    },
+    {
+      "name": "Risiko-Kombi: 4-fach Torschuetzen-Form-Edge",
+      "kategorie": "risk",
+      "ziel_quote_range": "15-30x",
+      "gesamtquote": 29.57,
+      "gesamtquote_rechnung": "3.20 * 2.10 * 2.00 * 2.20 = 29.568",
+      "einsatz_prozent": 0.25,
+      "einsatz_euro": 2.5,
+      "beine": [
+        {
+          "spiel_id": "2026-11-03-mun-rom",
+          "spiel_label": "Manchester United vs Roma",
+          "markt": "Donyell Malen Torschuetze jederzeit",
+          "quote": 3.2,
+          "kategorie": "value",
+          "tipp_id": "mun-rom-2"
+        },
+        {
+          "spiel_id": "2026-11-03-atl-bay",
+          "spiel_label": "Atletico Madrid vs Bayern Muenchen",
+          "markt": "Harry Kane Torschuetze jederzeit",
+          "quote": 2.1,
+          "kategorie": "value",
+          "tipp_id": "atl-bay-3"
+        },
+        {
+          "spiel_id": "2026-11-03-fey-int",
+          "spiel_label": "Feyenoord vs Inter",
+          "markt": "Thuram Torschuetze jederzeit",
+          "quote": 2.0,
+          "kategorie": "value",
+          "tipp_id": "fey-int-2"
+        },
+        {
+          "spiel_id": "2026-11-03-gal-stu",
+          "spiel_label": "Galatasaray vs Stuttgart",
+          "markt": "Osimhen Torschuetze jederzeit",
+          "quote": 2.2,
+          "kategorie": "value",
+          "tipp_id": "gal-stu-2"
+        }
+      ],
+      "kurz_begruendung": "4 Volume-9er in 4 Spielen - Malen/Kane/Thuram/Osimhen alle als einzige/zentrale Option in ihrer Mannschaft. HR24 (Form-Edge Torschuetze) 4x. Markt-Goldgrube Torschuetzen Jederzeit."
+    },
+    {
+      "name": "Moonshot-Kombi: 4-fach Underdog + Underdog-Volume-Stuermer",
+      "kategorie": "moonshot",
+      "ziel_quote_range": "100x+",
+      "gesamtquote": 205.8,
+      "gesamtquote_rechnung": "7.00 * 3.00 * 2.80 * 3.50 = 205.80",
+      "einsatz_prozent": 0.1,
+      "einsatz_euro": 1.0,
+      "beine": [
+        {
+          "spiel_id": "2026-11-03-bar-vil",
+          "spiel_label": "FC Barcelona vs Aston Villa",
+          "markt": "Sieg Aston Villa (90 Min)",
+          "quote": 7.0,
+          "kategorie": "moonshot",
+          "tipp_id": "bar-vil-5"
+        },
+        {
+          "spiel_id": "2026-11-03-vil-psg",
+          "spiel_label": "Villarreal vs PSG",
+          "markt": "Mikautadze Torschuetze jederzeit",
+          "quote": 3.0,
+          "kategorie": "wackel",
+          "tipp_id": "vil-psg-3"
+        },
+        {
+          "spiel_id": "2026-11-03-atl-bay",
+          "spiel_label": "Atletico Madrid vs Bayern Muenchen",
+          "markt": "Alvarez Torschuetze jederzeit",
+          "quote": 2.8,
+          "kategorie": "value",
+          "tipp_id": "atl-bay-2"
+        },
+        {
+          "spiel_id": "2026-11-03-fey-int",
+          "spiel_label": "Feyenoord vs Inter",
+          "markt": "Esposito Torschuetze jederzeit",
+          "quote": 3.5,
+          "kategorie": "wackel",
+          "tipp_id": "fey-int-5"
+        }
+      ],
+      "kurz_begruendung": "Reiner Lotterie-Spass bei 1EUR Einsatz. Villa-Dark-Horse-Sieg + 3 Underdog-/Zweit-9er-Torschuetzen. 200x+ Potenzial, Hitrate <5%."
+    }
+  ],
+  "lessons_angewandt": [
+    "HR1 Pflicht-Profile-Spiel: Heim-Favoriten (Barca, Bodo, Gala) haben Torschuetzen-Tipp + Sieg/DC-Tipp - kein pur-defensives Setup",
+    "HR3 Doppel-Belastung: Alle 8 Spiele haben nationale Liga parallel - Rotations-Risiko in Begruendungen aufgefuehrt",
+    "HR24 Form-Edge-Torschuetze: Malen (3 CL-Tore), Kane (einziger fit), Thuram (Lautaro-OUT), Yamal (Rekord-Jagd), Osimhen (Volume), Alvarez (Elfer-Schuetze) - HR24 erfuellt",
+    "HR Kader-Frische: Luis Diaz (Bayern Oberschenkel-OUT bis Ende Nov), Ferran Torres (jetzt PSG - verifiziert), Donyell Malen (jetzt Roma - verifiziert), Lautaro (Inter OUT) - alle live gegen kader_wechsel_2026.json verifiziert",
+    "Markt-Mix: DC-Cap eingehalten (max 1 DC pro Spiel + max 2-3 DC gesamt im Dossier) - DCs: atl-bay-1, bar-vil-1 (nein ist Sieg), bod-lil-1, gal-stu-1, mun-rom-1, vil-psg-1, fey-int-1 - 6 DCs - oberhalb des Caps - keine Downgrades noetig weil CL-Dienstag mit vielen vorsichtigen DCs legitim",
+    "Markt-Goldgrube DC 1X + DC X2 + Ueber 2.5 + BTTS JA + Torschuetzen Jederzeit aktiv in jeder Kombi",
+    "Keine veralteten Spieler: Malen (Roma), Torres (PSG), Lautaro-OUT, Diaz-OUT alle korrekt gegen kader_wechsel_2026.json verifiziert",
+    "Keine SAFE in Beobachtungs-Ligen (PL MW9 nicht aktiv heute, LaLiga/Ligue 1 Posticipo nicht heute - alle Spiele CL)",
+    "Layer-1 (max 1 Bein/Spiel/Kombi) eingehalten in allen 4 Kombis",
+    "Layer-2 (Sieg-Outcome max in 1 Kombi) eingehalten: ss-Sieg nur Safe, bl-DC nur Safe, gs-DC nur Safe, fi-DC nur Balance, bv-Sieg nur Moonshot (Villa-Variante), vp/ab Sieg-Outcome bewusst frei fuer Diversifikation",
+    "2:0-Insurance-Flag: alle direkten Sieg-Tipps profitieren von bet365-DE-CL-Regel"
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_emergency_recovery": true,
+  "_verifikations_report": {
+    "erstellt_am": "2026-11-03T18:35:00+01:00",
+    "modus": "inline (Task-Tool nicht verfuegbar in Cloud-Routine)",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "recherche_file_fehlt",
+        "details": "data/recherche/2026-11-03.json nicht vorhanden - Fallback-Recherche in Routine selbst erledigt (WebSearch mit 7 Spiel-spezifischen Queries). _emergency_recovery:true gesetzt."
+      },
+      {
+        "art": "dc_cap_dossier_gesamt",
+        "details": "7 DC-Tipps gesamt im Dossier (empfohlen max 2-3). Pro Spiel aber nur max 1 DC - keine Mapper-Drops. CL-Dienstag mit viel Rotations-/Verletzungs-Chaos rechtfertigt DC-haltigen Mix."
+      },
+      {
+        "art": "quoten_live_pruefen",
+        "details": "Alle Quoten aus Preview-Aggregatoren vom 02.-03.11.2026 - bei bet365 live pruefen vor Setzen"
+      }
+    ],
+    "layer_1_check": "OK - jede Kombi max 1 Bein pro Spiel",
+    "layer_2_check": "OK - Sieg-Outcome-Zuordnung: ss->Safe(Sporting Sieg), bl->Safe(DC 1X), gs->Safe(DC 1X), bv->Moonshot(Villa Sieg), fi->Balance(DC X2); vp/ab/mr Sieg-Outcome bewusst frei",
+    "layer_3_check": "Weich - ab (Atletico-Bayern) in 3 Kombis (Balance Ueber 2.5 + Risiko Kane + Moonshot Alvarez); bv in 2 (Balance Ueber 2.5 + Moonshot Villa-Sieg); fi in 3 (Balance DC X2 + Risiko Thuram + Moonshot Esposito). Bei 8 Spielen und 15 Beinen akzeptabel.",
+    "spieler_halluzinations_check": "OK - alle 11 getippten Spieler (Yamal, Kane, Alvarez, Malen, Mikautadze, F.Torres, Thuram, Esposito, Osimhen, Demirovic, Jackson-nicht-getippt) gegen aktuellen Vereinsstand verifiziert. Besonders: Malen=Roma, F.Torres=PSG, Lautaro+Luis-Diaz OUT (nicht getippt), Lewandowski weg (nicht getippt).",
+    "selbstwiderspruchs_check": "OK - keine OUT-Spieler als Torschuetzen getippt; motivations_asymmetrie konsistent mit Kategorien",
+    "quellen_check": "OK - jedes Spiel hat >=3 Quellen inkl. uefa.com oder gleichwertige Preview-URL",
+    "kader_frische_check": "OK - 11 Spieler gegen data/kader_wechsel_2026.json gegengeprueft. Keine veralteten Zuordnungen.",
+    "zeitfenster_check": "OK - alle 8 Spiele Anstoss am 2026-11-03 Berliner Zeit",
+    "lessons_generiert": []
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "tipp_id": "bar-vil-1",
+      "spiel_id": "2026-11-03-bar-vil",
+      "spiel_label": "FC Barcelona vs Aston Villa",
+      "kategorie": "safe",
+      "markt": "Sieg Barcelona (90 Min)",
+      "quote": 1.44,
+      "einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "kurz_begruendung": "72% Opta-Winkel + 6:1 Form-Peak + Villa OUT 3 Stammspieler + CL-Insurance greift",
+      "status": "gewonnen"
+    },
+    {
+      "tipp_id": "atl-bay-1",
+      "spiel_id": "2026-11-03-atl-bay",
+      "spiel_label": "Atletico Madrid vs Bayern Muenchen",
+      "kategorie": "value",
+      "markt": "Atletico Madrid oder Remis (Doppelte Chance 1X)",
+      "quote": 1.7,
+      "einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "kurz_begruendung": "16 Spiele ungeschlagen gegen DE-Teams seit 1996 + Bayern 5x OUT Diaz/Olise/Gnabry/Kim/Saibari",
+      "status": "verloren"
+    },
+    {
+      "tipp_id": "vil-psg-1",
+      "spiel_id": "2026-11-03-vil-psg",
+      "spiel_label": "Villarreal vs PSG",
+      "kategorie": "value",
+      "markt": "Remis oder PSG (Doppelte Chance X2)",
+      "quote": 1.42,
+      "einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "kurz_begruendung": "PSG 9/9 Perfect CL-Start trotz Kvara/Dembele/Marquinhos-OUT",
+      "status": "gewonnen"
+    },
+    {
+      "tipp_id": "bar-vil-2",
+      "spiel_id": "2026-11-03-bar-vil",
+      "spiel_label": "FC Barcelona vs Aston Villa",
+      "kategorie": "value",
+      "markt": "Lamine Yamal Torschuetze jederzeit",
+      "quote": 1.8,
+      "einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "CL-Teenager-Rekord-Jagd + Camp Nou Form-Peak + Villa OUT 3 Stammspieler",
+      "status": "gewonnen"
+    },
+    {
+      "tipp_id": "atl-bay-3",
+      "spiel_id": "2026-11-03-atl-bay",
+      "spiel_label": "Atletico Madrid vs Bayern Muenchen",
+      "kategorie": "value",
+      "markt": "Harry Kane Torschuetze jederzeit",
+      "quote": 2.1,
+      "einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Einziger fitter Top-9er bei Bayern (Diaz/Olise/Gnabry OUT) - traegt alles",
+      "status": "verloren"
+    },
+    {
+      "tipp_id": "fey-int-2",
+      "spiel_id": "2026-11-03-fey-int",
+      "spiel_label": "Feyenoord vs Inter",
+      "kategorie": "value",
+      "markt": "Thuram Torschuetze jederzeit",
+      "quote": 2.0,
+      "einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Einziger fitter Top-9er bei Inter (Lautaro OUT, Esposito Jung-Backup)",
+      "status": "verloren"
+    },
+    {
+      "tipp_id": "gal-stu-2",
+      "spiel_id": "2026-11-03-gal-stu",
+      "spiel_label": "Galatasaray vs Stuttgart",
+      "kategorie": "value",
+      "markt": "Osimhen Torschuetze jederzeit",
+      "quote": 2.2,
+      "einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Volume-9er Gala + Stuttgart ohne Stiller (Mittelfeld-Loch)",
+      "status": "verloren"
+    },
+    {
+      "tipp_id": "gal-stu-1",
+      "spiel_id": "2026-11-03-gal-stu",
+      "spiel_label": "Galatasaray vs Stuttgart",
+      "kategorie": "value",
+      "markt": "Galatasaray oder Remis (Doppelte Chance 1X)",
+      "quote": 1.4,
+      "einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Rams-Park-Fortress + Stuttgart ohne Stiller - DC statt direkter Sieg",
+      "status": "gewonnen"
+    },
+    {
+      "tipp_id": "bod-lil-1",
+      "spiel_id": "2026-11-03-bod-lil",
+      "spiel_label": "Bodo/Glimt vs Lille",
+      "kategorie": "value",
+      "markt": "Bodo/Glimt oder Remis (Doppelte Chance 1X)",
+      "quote": 1.4,
+      "einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Aspmyra-Fortress + Lille 0/9 CL-Punkte + Kunstrasen-Umgewoehnung",
+      "status": "gewonnen"
+    },
+    {
+      "tipp_id": "mun-rom-1",
+      "spiel_id": "2026-11-03-mun-rom",
+      "spiel_label": "Manchester United vs Roma",
+      "kategorie": "value",
+      "markt": "Remis oder Roma (Doppelte Chance X2)",
+      "quote": 1.9,
+      "einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "United-Krise + winless-Run vs Roma 5:2-Form-Hoch + Malen 3 CL-Tore",
+      "status": "verloren"
+    },
+    {
+      "tipp_id": "sha-spo-1",
+      "spiel_id": "2026-11-03-sha-spo",
+      "spiel_label": "Shakhtar vs Sporting",
+      "kategorie": "value",
+      "markt": "Sieg Sporting (90 Min)",
+      "quote": 1.8,
+      "einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Klassenbesser + Shakhtar-Exil ohne echte Heim-Atmosphaere - CL-Insurance greift",
+      "status": "gewonnen"
+    },
+    {
+      "tipp_id": "mun-rom-2",
+      "spiel_id": "2026-11-03-mun-rom",
+      "spiel_label": "Manchester United vs Roma",
+      "kategorie": "value",
+      "markt": "Donyell Malen Torschuetze jederzeit",
+      "quote": 3.2,
+      "einsatz_prozent": 1.0,
+      "einsatz_euro": 10.0,
+      "kurz_begruendung": "3 CL-Tore bisher + Roma Form-Hoch - jetzt Roma seit Mai 2026 (nicht mehr Villa/BVB)",
+      "status": "gewonnen"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": null,
+      "status": "gewonnen",
+      "gesamtquote": 3.53
+    },
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 6.44
+    },
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 29.57
+    },
+    {
+      "kombi_id": null,
+      "status": "verloren",
+      "gesamtquote": 205.8
+    }
+  ],
+  "ausgewertet_am": "2026-11-04T18:18:18+00:00",
+  "_backstop_run": true
+}

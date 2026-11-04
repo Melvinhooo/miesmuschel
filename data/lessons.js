@@ -3870,8 +3870,31 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "HR11-02-4 Ligue-1-Posticipo-Montag Breton-Derby-Bruch - Beob-Status gefestigt (8d-8e)",
       "lesson": "Lorient-Brest 0:2 trotz Lorient-Heim-Favorit (41% implizit, DC 1X @1.42 Markt-Goldgrube): BTTS + Ü2.5 + DC 1X alle verloren. Zweite Ligue-1-Posticipo-Montag-Pleite im Rolling-30d (nach 'Ligue 1 8. Spieltag Posticipo-Montag' -63.7% ROI). Beob-Status Ligue 1 Posticipi-Montag bestaetigt - Heim-Favorit-DC in solchen Partien reicht nicht als VALUE. Hartregel-Vorschlag: Ligue-1-Montagsspiele = Wackel-Default, auch bei DC-Markt-Goldgrube. Mapper setzt via beobachtungs_ligen bereits selbst automatisch Degrade; Routine soll dort gar nicht erst VALUE schreiben.",
       "bezug_spiel_id": "2026-11-02-lor-bre"
+    },
+    {
+      "datum": "2026-11-03",
+      "kategorie": "HR11-03-1 BTTS JA 1/8 am CL-Favoriten-Dienstag - Markt-Pattern-Bruch (8c + 8g)",
+      "lesson": "Alle 8 CL-Spiele hatten BTTS-JA-Tipp, nur mun-rom (3:2) traf. 7x Shutout mind. einer Seite: sha-spo 0:1, gal-stu 2:0, atl-bay 0:2, bar-vil 3:0, vil-psg 0:6, fey-int 0:3, bod-lil 0:0. CL-MD4 war ausgepraegter Favoriten-Tag mit deutlichen Klassenunterschieden -> Shutouts statt offener Partien. Lesson: BTTS-JA als Markt-Goldgrube (+15.1% ROI All-Time) ist konditional - an CL-Tagen mit grossen Favoriten-Underdog-Gefaellen (Barca-Villa, PSG-Villarreal, Inter-Feyenoord) kippt der Markt. Trigger: wenn 4+ CL-Spiele am gleichen Tag Favoriten ab Quote 1.65 haben, BTTS-Tipps auf max 2 beschraenken und bei Underdog-Defense-Guerteln (0/9 wie Lille) komplett streichen.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-11-03",
+      "kategorie": "HR11-03-2 Torschuetzen Jederzeit 3/10 trotz HR24 - Favoriten-Shutout-Realitaet (8h + 8e)",
+      "lesson": "Kane, Alvarez, Thuram, Osimhen, Demirovic, Mikautadze, F.Torres - alle als Volume-9er in HR24-Setups getippt, alle ohne Tor. Nur Malen (Elfer), Yamal, Esposito trafen. Pattern: CL-Favoriten-Shutouts (Bayern 2:0 Atletico, PSG 6:0, Inter 3:0) stammten von Mittelfeld-/Backup-Toren (Karl, Laimer, Mayulu, Doue, Ruiz, Neves, Boly, Bisseck, Zielinski), NICHT vom Volume-9er. Lesson: HR24 'einziger fitter 9er' bleibt gueltig, aber bei starken Favoriten rotiert die Torverteilung in die Breite. Fuer Torschuetzen-Tipps auf Volume-9er in CL-Favoriten-Rollen Mindest-Quote 2.50 fordern (statt 2.00-2.20) oder stattdessen 'Team scored 2+' spielen.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-11-03",
+      "kategorie": "HR11-03-3 PSG-Volume-9er ist Mayulu nicht Torres - Scanner-Update (8i + 8b Kader-Frische)",
+      "lesson": "vil-psg-2 'Ferran Torres Torschuetze jederzeit' war falsch allokiert: bei Dembele-Season-OUT ist Senny Mayulu aktueller Startelf-Mittelstuermer (traf 13'), Torres kam erst 60' fuer Mayulu rein. Boly-Debuet-Tor 78' nach Einwechslung fuer Hakimi - Einwechslungs-Boost waere nur fuer Hakimi-Tipp gelaufen. Lesson: PSG-9er-Rolle 2026/27 mit mehrfachen OUTs ist fluid - Scanner-Pflicht auf aktuelle Startelf-Nachrichten-URL pro Match, nicht aus Vorwoche uebernehmen. kader_wechsel_2026.json pflegen: Mayulu als aktueller PSG-9er-Volume, Torres als Rotations-Option.",
+      "bezug_spiel_id": "2026-11-03-vil-psg"
+    },
+    {
+      "datum": "2026-11-03",
+      "kategorie": "HR11-03-4 DC-Goldgrube haelt auch an schwierigem Tag - 5/7 DC-Hit (8c + 8d)",
+      "lesson": "Trotz -18% Tages-ROI blieb Doppelte Chance stabil: DC X2 3/4 (sha-spo-2, vil-psg-1, fey-int-1 trafen; mun-rom-1 verlor nach Comeback), DC 1X 2/3 (bod-lil-1, gal-stu-1 gewannen; atl-bay-1 verlor). Safe-Kombi 'Underdogs-Edge-Trio' mit 3x DC/Sieg-Mix lief komplett durch (3.53x @ 20EUR = +50.60EUR netto). Lesson: DC bleibt Markt-Goldgrube auch an Volatil-CL-Tagen mit Drehungs-Kandidaten, weil es den Drehungs-Wert im Tipp schon mit-kauft. Bei Sieg-Tipp-Zweifel (CL-Doppelbelastung, Favoriten-Rotations-Risiko, Reise-Druck) immer DC-Variante bevorzugen - Edge-Stabilitaet ueber direkter-Sieg-Quote.",
+      "bezug_spiel_id": null
     }
   ],
   "stand": "2026-11-02"
-}
-;
+};

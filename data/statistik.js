@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-11-03T18:07:02+00:00",
+  "letzte_berechnung": "2026-11-04T18:20:22+00:00",
   "gesamt": {
-    "tipps": 330,
-    "gewonnen": 190,
-    "verloren": 122,
+    "tipps": 342,
+    "gewonnen": 197,
+    "verloren": 127,
     "push": 1,
     "offen": 17,
-    "einsatz": 313.0,
-    "netto": 93.87,
-    "trefferquote": 60.9,
-    "roi_prozent": 30.0
+    "einsatz": 325.0,
+    "netto": 94.33,
+    "trefferquote": 60.8,
+    "roi_prozent": 29.0
   },
   "letzte_30_tage": {
-    "tipps": 99,
-    "gewonnen": 66,
-    "verloren": 27,
+    "tipps": 111,
+    "gewonnen": 73,
+    "verloren": 32,
     "push": 0,
     "offen": 6,
-    "einsatz": 93.0,
-    "netto": 18.32,
-    "trefferquote": 71.0,
-    "roi_prozent": 19.7
+    "einsatz": 105.0,
+    "netto": 18.78,
+    "trefferquote": 69.5,
+    "roi_prozent": 17.9
   },
   "letzte_90_tage": {
-    "tipps": 320,
-    "gewonnen": 187,
-    "verloren": 115,
+    "tipps": 324,
+    "gewonnen": 189,
+    "verloren": 117,
     "push": 1,
     "offen": 17,
-    "einsatz": 303.0,
-    "netto": 93.87,
-    "trefferquote": 61.9,
-    "roi_prozent": 31.0
+    "einsatz": 307.0,
+    "netto": 94.33,
+    "trefferquote": 61.8,
+    "roi_prozent": 30.7
   },
   "nach_liga": {
     "UEFA Champions League - 3. Qualifikationsrunde": {
@@ -903,6 +903,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 4.2,
       "trefferquote": 60.0,
       "roi_prozent": 84.0
+    },
+    "UEFA Champions League 2026/27 - Ligaphase Spieltag 4": {
+      "tipps": 12,
+      "gewonnen": 7,
+      "verloren": 5,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 12.0,
+      "netto": 0.46,
+      "trefferquote": 58.3,
+      "roi_prozent": 3.8
     }
   },
   "nach_markt": {
@@ -1765,15 +1776,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 192.0
     },
     "Lamine Yamal Torschuetze jederzeit": {
-      "tipps": 1,
-      "gewonnen": 1,
+      "tipps": 2,
+      "gewonnen": 2,
       "verloren": 0,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
-      "netto": 2.2,
+      "einsatz": 2.0,
+      "netto": 3.0,
       "trefferquote": 100.0,
-      "roi_prozent": 220.0
+      "roi_prozent": 150.0
     },
     "Gianluca Scamacca Torschuetze jederzeit": {
       "tipps": 1,
@@ -2874,6 +2885,127 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 1.5,
       "trefferquote": 100.0,
       "roi_prozent": 150.0
+    },
+    "Sieg Barcelona (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.44,
+      "trefferquote": 100.0,
+      "roi_prozent": 44.0
+    },
+    "Atletico Madrid oder Remis (Doppelte Chance 1X)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Remis oder PSG (Doppelte Chance X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.42,
+      "trefferquote": 100.0,
+      "roi_prozent": 42.0
+    },
+    "Harry Kane Torschuetze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Thuram Torschuetze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Osimhen Torschuetze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Galatasaray oder Remis (Doppelte Chance 1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.4,
+      "trefferquote": 100.0,
+      "roi_prozent": 40.0
+    },
+    "Bodo/Glimt oder Remis (Doppelte Chance 1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.4,
+      "trefferquote": 100.0,
+      "roi_prozent": 40.0
+    },
+    "Remis oder Roma (Doppelte Chance X2)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Sieg Sporting (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.8,
+      "trefferquote": 100.0,
+      "roi_prozent": 80.0
+    },
+    "Donyell Malen Torschuetze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 2.2,
+      "trefferquote": 100.0,
+      "roi_prozent": 220.0
     }
   },
   "nach_markt_typ": {
@@ -2911,15 +3043,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 77,
-      "gewonnen": 40,
+      "tipps": 79,
+      "gewonnen": 42,
       "verloren": 34,
       "push": 1,
       "offen": 2,
-      "einsatz": 75.0,
-      "netto": 11.08,
-      "trefferquote": 54.1,
-      "roi_prozent": 14.8
+      "einsatz": 77.0,
+      "netto": 12.32,
+      "trefferquote": 55.3,
+      "roi_prozent": 16.0
     },
     "Beide Teams treffen JA": {
       "tipps": 34,
@@ -2933,15 +3065,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 15.1
     },
     "Doppelte Chance X2": {
-      "tipps": 19,
-      "gewonnen": 14,
-      "verloren": 5,
+      "tipps": 21,
+      "gewonnen": 15,
+      "verloren": 6,
       "push": 0,
       "offen": 0,
-      "einsatz": 19.0,
-      "netto": 9.82,
-      "trefferquote": 73.7,
-      "roi_prozent": 51.7
+      "einsatz": 21.0,
+      "netto": 9.24,
+      "trefferquote": 71.4,
+      "roi_prozent": 44.0
     },
     "Unter 2.5 Tore": {
       "tipps": 18,
@@ -2966,15 +3098,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 40.4
     },
     "Doppelte Chance 1X": {
-      "tipps": 18,
-      "gewonnen": 15,
-      "verloren": 3,
+      "tipps": 21,
+      "gewonnen": 17,
+      "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 18.0,
-      "netto": 8.06,
-      "trefferquote": 83.3,
-      "roi_prozent": 44.8
+      "einsatz": 21.0,
+      "netto": 7.86,
+      "trefferquote": 81.0,
+      "roi_prozent": 37.4
     },
     "Doppelte Chance": {
       "tipps": 61,
@@ -2988,15 +3120,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 29.5
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 29,
-      "gewonnen": 9,
-      "verloren": 19,
+      "tipps": 34,
+      "gewonnen": 11,
+      "verloren": 22,
       "push": 0,
       "offen": 1,
-      "einsatz": 28.0,
+      "einsatz": 33.0,
       "netto": 1.85,
-      "trefferquote": 32.1,
-      "roi_prozent": 6.6
+      "trefferquote": 33.3,
+      "roi_prozent": 5.6
     },
     "Inter gewinnt": {
       "tipps": 1,
@@ -3188,61 +3320,61 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.00-1.50": {
-      "tipps": 146,
-      "gewonnen": 100,
+      "tipps": 150,
+      "gewonnen": 104,
       "verloren": 35,
       "push": 1,
       "offen": 10,
-      "einsatz": 136.0,
-      "netto": 36.16,
-      "trefferquote": 74.1,
-      "roi_prozent": 26.6
+      "einsatz": 140.0,
+      "netto": 37.82,
+      "trefferquote": 74.8,
+      "roi_prozent": 27.0
     },
     "1.50-2.00": {
-      "tipps": 149,
-      "gewonnen": 83,
-      "verloren": 62,
+      "tipps": 153,
+      "gewonnen": 85,
+      "verloren": 64,
       "push": 0,
       "offen": 4,
-      "einsatz": 145.0,
-      "netto": 58.16,
-      "trefferquote": 57.2,
-      "roi_prozent": 40.1
+      "einsatz": 149.0,
+      "netto": 57.76,
+      "trefferquote": 57.0,
+      "roi_prozent": 38.8
     },
     "2.00-3.00": {
-      "tipps": 27,
+      "tipps": 30,
       "gewonnen": 5,
-      "verloren": 19,
+      "verloren": 22,
       "push": 0,
       "offen": 3,
-      "einsatz": 24.0,
-      "netto": -4.45,
-      "trefferquote": 20.8,
-      "roi_prozent": -18.5
+      "einsatz": 27.0,
+      "netto": -7.45,
+      "trefferquote": 18.5,
+      "roi_prozent": -27.6
     },
     "3.00+": {
-      "tipps": 8,
-      "gewonnen": 2,
+      "tipps": 9,
+      "gewonnen": 3,
       "verloren": 6,
       "push": 0,
       "offen": 0,
-      "einsatz": 8.0,
-      "netto": 4.0,
-      "trefferquote": 25.0,
-      "roi_prozent": 50.0
+      "einsatz": 9.0,
+      "netto": 6.2,
+      "trefferquote": 33.3,
+      "roi_prozent": 68.9
     }
   },
   "nach_kategorie": {
     "value": {
-      "tipps": 213,
-      "gewonnen": 118,
-      "verloren": 85,
+      "tipps": 224,
+      "gewonnen": 124,
+      "verloren": 90,
       "push": 1,
       "offen": 9,
-      "einsatz": 204.0,
-      "netto": 42.77,
-      "trefferquote": 58.1,
-      "roi_prozent": 21.0
+      "einsatz": 215.0,
+      "netto": 42.79,
+      "trefferquote": 57.9,
+      "roi_prozent": 19.9
     },
     "wackel": {
       "tipps": 60,
@@ -3256,15 +3388,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 27.0
     },
     "safe": {
-      "tipps": 55,
-      "gewonnen": 42,
+      "tipps": 56,
+      "gewonnen": 43,
       "verloren": 6,
       "push": 0,
       "offen": 7,
-      "einsatz": 48.0,
-      "netto": 33.91,
-      "trefferquote": 87.5,
-      "roi_prozent": 70.6
+      "einsatz": 49.0,
+      "netto": 34.35,
+      "trefferquote": 87.8,
+      "roi_prozent": 70.1
     },
     "risk": {
       "tipps": 2,
@@ -3297,15 +3429,15 @@ window.__MIESMUSCHEL_STAT = {
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 330,
-      "gewonnen": 190,
-      "verloren": 122,
+      "tipps": 342,
+      "gewonnen": 197,
+      "verloren": 127,
       "push": 1,
       "offen": 17,
-      "einsatz": 313.0,
-      "netto": 93.87,
-      "trefferquote": 60.9,
-      "roi_prozent": 30.0
+      "einsatz": 325.0,
+      "netto": 94.33,
+      "trefferquote": 60.8,
+      "roi_prozent": 29.0
     },
     "kasse": {
       "name": "2026/27",
@@ -3342,21 +3474,333 @@ window.__MIESMUSCHEL_STAT = {
         "start": "2026-08-22",
         "ende": "2027-06-30",
         "bilanz": {
-          "tipps": 192,
-          "gewonnen": 130,
-          "verloren": 56,
+          "tipps": 204,
+          "gewonnen": 137,
+          "verloren": 61,
           "push": 0,
           "offen": 6,
-          "einsatz": 186.0,
-          "netto": 97.0,
-          "trefferquote": 69.9,
-          "roi_prozent": 52.2
+          "einsatz": 198.0,
+          "netto": 97.46,
+          "trefferquote": 69.2,
+          "roi_prozent": 49.2
         },
         "ist_aktuell": true
       }
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-11-03",
+      "gesamt": {
+        "tipps": 12,
+        "gewonnen": 7,
+        "verloren": 5,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 12.0,
+        "netto": 0.46,
+        "trefferquote": 58.3,
+        "roi_prozent": 3.8
+      },
+      "spiele": [
+        {
+          "id": "2026-11-03-sha-spo",
+          "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+          "heim": "Shakhtar Donetsk (Heimspiel @ Stamford Bridge, London)",
+          "gast": "Sporting CP",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg Sporting (90 Min)",
+              "quote": 1.8,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.8,
+              "kommentar": "Sporting 1:0 (Doumbia 59')"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-03-gal-stu",
+          "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+          "heim": "Galatasaray",
+          "gast": "VfB Stuttgart",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Galatasaray oder Remis (Doppelte Chance 1X)",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.4,
+              "kommentar": ""
+            },
+            {
+              "markt": "Osimhen Torschuetze jederzeit",
+              "quote": 2.2,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Osimhen ohne Tor; Batrakov traf beide - kein Einwechslungs-Boost (Batrakov war Startelf)"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-03-atl-bay",
+          "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+          "heim": "Atletico Madrid",
+          "gast": "Bayern Muenchen",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Atletico Madrid oder Remis (Doppelte Chance 1X)",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            },
+            {
+              "markt": "Harry Kane Torschuetze jederzeit",
+              "quote": 2.1,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Kane ohne Tor; nur Assist zu Laimer-Tor; nicht ausgewechselt -> kein Einwechslungs-Boost"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-03-bar-vil",
+          "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+          "heim": "FC Barcelona",
+          "gast": "Aston Villa",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg Barcelona (90 Min)",
+              "quote": 1.44,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.44,
+              "kommentar": "Barca 3:0"
+            },
+            {
+              "markt": "Lamine Yamal Torschuetze jederzeit",
+              "quote": 1.8,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.8,
+              "kommentar": "Yamal 7' - CL-Teenager-Rekord (14 CL-Tore, Mbappe 13 ueberholt)"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-03-mun-rom",
+          "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+          "heim": "Manchester United",
+          "gast": "AS Roma",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Remis oder Roma (Doppelte Chance X2)",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            },
+            {
+              "markt": "Donyell Malen Torschuetze jederzeit",
+              "quote": 3.2,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 2.2,
+              "kommentar": "Malen Elfer 17' - zaehlt als Torschuetze"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-03-vil-psg",
+          "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+          "heim": "Villarreal CF",
+          "gast": "Paris Saint-Germain",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Remis oder PSG (Doppelte Chance X2)",
+              "quote": 1.42,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.42,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-11-03-fey-int",
+          "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+          "heim": "Feyenoord",
+          "gast": "Inter Mailand",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Thuram Torschuetze jederzeit",
+              "quote": 2.0,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Thuram ohne Tor; Esposito war Startelf neben Thuram (nicht sein Einwechslungs-Ersatz)"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-03-bod-lil",
+          "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+          "heim": "Bodo/Glimt",
+          "gast": "LOSC Lille",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Bodo/Glimt oder Remis (Doppelte Chance 1X)",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.4,
+              "kommentar": ""
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi: Underdogs-Edge-Trio",
+          "kategorie": "safe",
+          "gesamtquote": 3.53,
+          "einsatz_prozent": 0.0,
+          "status": "gewonnen",
+          "beine": [
+            {
+              "markt": "Sieg Sporting (90 Min)",
+              "quote": 1.8,
+              "status": "gewonnen",
+              "kommentar": "Sporting 1:0 (Doumbia 59')"
+            },
+            {
+              "markt": "Bodo/Glimt oder Remis (Doppelte Chance 1X)",
+              "quote": 1.4,
+              "status": "gewonnen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Galatasaray oder Remis (Doppelte Chance 1X)",
+              "quote": 1.4,
+              "status": "gewonnen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi: 4-fach Props-Mix",
+          "kategorie": "balance",
+          "gesamtquote": 6.44,
+          "einsatz_prozent": 0.0,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.5,
+              "status": "gewonnen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Remis oder Inter (Doppelte Chance X2)",
+              "quote": 1.45,
+              "status": "gewonnen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.6,
+              "status": "verloren",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.85,
+              "status": "verloren",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi: 4-fach Torschuetzen-Form-Edge",
+          "kategorie": "risk",
+          "gesamtquote": 29.57,
+          "einsatz_prozent": 0.0,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Donyell Malen Torschuetze jederzeit",
+              "quote": 3.2,
+              "status": "gewonnen",
+              "kommentar": "Malen Elfer 17' - zaehlt als Torschuetze"
+            },
+            {
+              "markt": "Harry Kane Torschuetze jederzeit",
+              "quote": 2.1,
+              "status": "verloren",
+              "kommentar": "Kane ohne Tor; nur Assist zu Laimer-Tor; nicht ausgewechselt -> kein Einwechslungs-Boost"
+            },
+            {
+              "markt": "Thuram Torschuetze jederzeit",
+              "quote": 2.0,
+              "status": "verloren",
+              "kommentar": "Thuram ohne Tor; Esposito war Startelf neben Thuram (nicht sein Einwechslungs-Ersatz)"
+            },
+            {
+              "markt": "Osimhen Torschuetze jederzeit",
+              "quote": 2.2,
+              "status": "verloren",
+              "kommentar": "Osimhen ohne Tor; Batrakov traf beide - kein Einwechslungs-Boost (Batrakov war Startelf)"
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi: 4-fach Underdog + Underdog-Volume-Stuermer",
+          "kategorie": "moonshot",
+          "gesamtquote": 205.8,
+          "einsatz_prozent": 0.0,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Sieg Aston Villa (90 Min)",
+              "quote": 7.0,
+              "status": "verloren",
+              "kommentar": ""
+            },
+            {
+              "markt": "Mikautadze Torschuetze jederzeit",
+              "quote": 3.0,
+              "status": "verloren",
+              "kommentar": "Mikautadze ohne Tor; Villarreal blieb torlos"
+            },
+            {
+              "markt": "Alvarez Torschuetze jederzeit",
+              "quote": 2.8,
+              "status": "verloren",
+              "kommentar": "Alvarez ohne Tor; Atletico blieb torlos"
+            },
+            {
+              "markt": "Esposito Torschuetze jederzeit",
+              "quote": 3.5,
+              "status": "gewonnen",
+              "kommentar": "Esposito Kopfball 34'"
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-11-02",
       "gesamt": {

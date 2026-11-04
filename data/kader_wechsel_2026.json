@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-02",
+  "stand": "2026-11-04",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -508,6 +508,23 @@
     }
   ],
   "zugaenge_neue_optionen": [
+    {
+      "spieler": "Aleksey Batrakov",
+      "nach": "Galatasaray",
+      "von": "Lokomotiv Moskau",
+      "datum": "2026-08-18",
+      "ablöse_mio": 25,
+      "hinweis": "Aufgefallen bei Auswertung 2026-11-03: Batrakov Doppelpack 12'+15' beim 2:0 vs Stuttgart - Man of the Match (9.4). 21-jaehriger offensiver Mittelfeldspieler, Nr. 10. Vertrag bis 2031. Uebernimmt Scoring-Volume von Osimhen in CL-Partien - fuer Torschuetzen-Tipps aktive Option.",
+      "quelle": "https://www.sofascore.com/news/aleksey-batrakov-signs-for-galatasaray-e25m-playmaker-joins-okan-buruks-midfield"
+    },
+    {
+      "spieler": "Senny Mayulu",
+      "nach": "Paris Saint-Germain",
+      "von": "PSG-Akademie (Beförderung Profis)",
+      "datum": "2025-2026",
+      "hinweis": "Aufgefallen bei Auswertung 2026-11-03: Mayulu Startelf-Mittelstuermer bei Villarreal-PSG 0:6 (traf 13'), nachdem Enrique ihn ueber Ferran Torres bei Dembele-OUT stellte. Primaer Mittelfeld, aber als 9er einsetzbar. 3 Tore + 1 Assist in letzten 3 Spielen. Fuer PSG-Torschuetzen-Tipps in Dembele-Phase AKTIVE 9er-Option statt Torres.",
+      "quelle": "https://sports.yahoo.com/articles/villarreal-vs-psg-official-line-184900234.html"
+    },
     {
       "spieler": "Kyan Fitz-Jim",
       "nach": "Torino FC",
