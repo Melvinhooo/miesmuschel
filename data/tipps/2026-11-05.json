@@ -122,22 +122,22 @@
         },
         {
           "id": "mil-fer-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Über 2.5 Tore",
           "quote": 1.85,
           "edge_prozent": 6.0,
-          "begruendung": "Ferencvaros hat in 3 UEL-Spielen 9 Tore erzielt, Milan zuhause offensiv angelegt. Über 2.5 Tore ist Top-Goldgrube (63.6% / +40.4% ROI bei 37 Tipps). Milans Defensive in UEL durchlässig (0:3 Bournemouth). Einsatz 2% = 20€.",
+          "begruendung": "[Downgrade wackel: keine Verband-Quelle im saison_kontext] Ferencvaros hat in 3 UEL-Spielen 9 Tore erzielt, Milan zuhause offensiv angelegt. Über 2.5 Tore ist Top-Goldgrube (63.6% / +40.4% ROI bei 37 Tipps). Milans Defensive in UEL durchlässig (0:3 Bournemouth). Einsatz 2% = 20€.",
           "faire_quote": 1.74,
           "empfohlener_einsatz_prozent": 2.0,
           "empfohlener_einsatz_euro": 20.0
         },
         {
           "id": "mil-fer-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Beide Teams treffen Ja (BTTS JA)",
           "quote": 1.75,
           "edge_prozent": 5.0,
-          "begruendung": "Ferencvaros scoring-stabil (Tore in allen 3 UEL-Spielen), Milan zuhause tritt offensiv auf. BTTS JA ist Goldgrube (61.8% / +15% ROI). Einsatz 1.5% = 15€.",
+          "begruendung": "[Downgrade wackel: keine Verband-Quelle im saison_kontext] Ferencvaros scoring-stabil (Tore in allen 3 UEL-Spielen), Milan zuhause tritt offensiv auf. BTTS JA ist Goldgrube (61.8% / +15% ROI). Einsatz 1.5% = 15€.",
           "faire_quote": 1.67,
           "empfohlener_einsatz_prozent": 1.5,
           "empfohlener_einsatz_euro": 15.0
@@ -604,7 +604,7 @@
     {
       "spiel_id": "2026-11-05-mil-fer",
       "tipp_id": "mil-fer-2",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "quote": 1.85,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
@@ -831,31 +831,34 @@
   ],
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
   "_verifikations_report": {
-    "erstellt_am": "2026-11-05T13:35:00+01:00",
-    "modus": "Inline-Verifikation durch Watchdog (Task-Tool nicht verfuegbar in Cloud-Routine)",
+    "erstellt_am": "2026-11-05T19:00:00+01:00",
     "drops": [],
-    "downgrades": [],
-    "warns": [
+    "downgrades": [
       {
-        "typ": "kader_live_check",
-        "text": "Keine Torschuetzen-Einzel-Tipps aufgenommen - Kader-Live-Verifikation fuer Torschuetzen-Markte war im Watchdog-Slot nicht moeglich (football-data.org-API geblockt, Aufstellungen noch nicht veroeffentlicht). Konservative Markt-Auswahl (Sieg/DC/Tor-Total/BTTS) statt Hallucinations-Risiko bei Spielernamen."
+        "tipp_id": "mil-fer-2",
+        "alt": "value",
+        "neu": "wackel",
+        "grund": "Quellen-Verband-Pflicht: mil-fer saison_kontext.quellen[] enthaelt keine uefa.com/legaseriea.it/kicker.de URL, obwohl Europa League parallel - Schritt 2 der Verifikations-Routine erzwingt Downgrade."
       },
       {
-        "typ": "quoten_live",
-        "text": "Alle Quoten geschaetzt auf Basis der Aggregator-Tendenzen - bei bet365 vor Einsatz live pruefen und ggf. Tipp ueberspringen wenn >5% Abweichung."
-      },
-      {
-        "typ": "uefa_insurance",
-        "text": "2:0-Insurance greift bei UEL + UECL NICHT (bet365-Aktionsregel nur BL + CL) - in jedem Sieg-Tipp-Kommentar vermerkt."
+        "tipp_id": "mil-fer-3",
+        "alt": "value",
+        "neu": "wackel",
+        "grund": "Quellen-Verband-Pflicht: mil-fer saison_kontext.quellen[] enthaelt keine uefa.com/legaseriea.it/kicker.de URL, obwohl Europa League parallel - Schritt 2 der Verifikations-Routine erzwingt Downgrade."
       }
     ],
-    "confirmed_coaches": [
-      "AC Milan: Ruben Amorim (seit 06.2026, Allegri 06.10. entlassen) - Quelle kader_wechsel_2026.json + espn.com",
-      "SL Benfica: Marco Silva (seit 09.06.2026, Mourinho zu Real Madrid) - Quelle rr.pt",
-      "Bayer Leverkusen: Martinez Novell (seit 2026, nicht mehr Hjulmand) - Quelle kader_wechsel_2026.json",
-      "SC Freiburg: Julian Schuster (bereits 3+ Jahre im Amt) - Quelle kader_wechsel_2026.json"
+    "warns": [
+      {
+        "art": "quellen_verband_fehlt",
+        "spiel_id": "2026-11-05-mil-fer",
+        "details": "saison_kontext.quellen[] = acmilan.com + cryptobriefing + flashscore + wikipedia - keine echte Verband-URL (uefa.com / legaseriea.it / kicker.de / bundesliga). Downgrade aller SAFE/VALUE auf wackel durchgefuehrt."
+      },
+      {
+        "art": "recherche_file_fehlt",
+        "details": "data/recherche/2026-11-05.json nicht vorhanden - Quoten-Plausibilitaet gegen Pinnacle nicht durchfuehrbar, Squad-Cross-Check entfaellt. Watchdog-Recovery-Hinweis im Dossier dokumentiert den Zustand."
+      }
     ],
-    "layer2_check": "Pro Spiel max 1 Sieg-Outcome ueber alle Kombis - OK. Pro Spiel max 1 DC-Tipp - OK.",
-    "layer3_check": "Spiele in 2 Kombis (markt-entkoppelt): mil-fer (Tor-Total Balance + Sieg-HC Risk), tra-fre (Tor-Total Balance + Sieg Risk), ben-lec (Tor-Total Safe + Underdog-Sieg Moonshot), lev-mar (Sieg Safe + BTTS Nein Moonshot), ata-kai (Sieg Safe + BTTS Nein Moonshot)."
+    "lessons_generiert": [],
+    "summary": "Verifikation Phase 4: 0 Drops, 2 Downgrades, 2 Warns. Keine Spieler-Halluzinationen (0 Torschuetzen-Tipps). Layer-2 Sieg-Outcome-Verteilung sauber. Milan-Ferencvaros SAFE/VALUE auf wackel degradiert mangels Verband-Quelle."
   }
 }
