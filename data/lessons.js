@@ -3894,7 +3894,32 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "HR11-03-4 DC-Goldgrube haelt auch an schwierigem Tag - 5/7 DC-Hit (8c + 8d)",
       "lesson": "Trotz -18% Tages-ROI blieb Doppelte Chance stabil: DC X2 3/4 (sha-spo-2, vil-psg-1, fey-int-1 trafen; mun-rom-1 verlor nach Comeback), DC 1X 2/3 (bod-lil-1, gal-stu-1 gewannen; atl-bay-1 verlor). Safe-Kombi 'Underdogs-Edge-Trio' mit 3x DC/Sieg-Mix lief komplett durch (3.53x @ 20EUR = +50.60EUR netto). Lesson: DC bleibt Markt-Goldgrube auch an Volatil-CL-Tagen mit Drehungs-Kandidaten, weil es den Drehungs-Wert im Tipp schon mit-kauft. Bei Sieg-Tipp-Zweifel (CL-Doppelbelastung, Favoriten-Rotations-Risiko, Reise-Druck) immer DC-Variante bevorzugen - Edge-Stabilitaet ueber direkter-Sieg-Quote.",
       "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-11-04",
+      "kategorie": "HR11-04-1 Einwechslungs-Boost x2 bestaetigt Volume-9er-Tipps auch bei frueher Auswechslung (8i + 8c)",
+      "lesson": "Zwei Einwechslungs-Boost-Treffer am CL-Mittwoch: Guirassy (BVB, in 34. Minute ausgewechselt) via Karetsas (Tor 72') und Lukaku (Fener, in 63. Minute ausgewechselt) via Muriqi (Siegtreffer 79'). Beide Torschuetzen-Tipps so gewonnen - bet365-Einwechslungs-Boost zahlt sich erneut aus. Pattern: Volume-9er-Tipps bei Mannschaften mit Qualitaets-Backup (Karetsas, Muriqi) sind robuster als die nominale Quote suggeriert, selbst bei frueher Auswechslung (Guirassy 34'!). Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI) damit weiter gestuetzt. Konkret: BVB + Fenerbahce + Real Madrid + City-Betrieb haben Kader-Breite fuer Boost-Zahlungen.",
+      "bezug_spiel_id": null
+    },
+    {
+      "datum": "2026-11-04",
+      "kategorie": "HR11-04-2 Clean-Sheet-Serie ist KEIN Prediktor fuer Unter 2.5 (8c + 8e)",
+      "lesson": "por-nap-2 (Unter 2.5 Tore, VALUE @ 1.75) verloren beim 4:1 Porto. Pre-Tipp-Begruendung war 'Porto 3 CL-Clean-Sheets in Serie + Napoli-Verletzungswelle' - beide Teams aber offensiv aktiv, Porto explodierte in der 2. Halbzeit zu 3 weiteren Toren. Lektion: Clean-Sheet-Serie misst Defense-Form, nicht Spiel-Total. Wenn der Gegner selbst offensiv-faehig ist (hier Napoli mit De Bruyne/Hojlund/McTominay), kann das Heimteam trotz 3 Clean-Sheets 4 schiessen. Zukuenftige Unter-2.5-Begruendung MUSS Gegner-xG-Flaute explizit belegen, nicht nur eigene Clean-Sheet-Serie.",
+      "bezug_spiel_id": "2026-11-04-por-nap"
+    },
+    {
+      "datum": "2026-11-04",
+      "kategorie": "HR11-04-3 Krise-Cluster (HR2) + Historisches Over-shoot - Zusatz-Tipp Ü4.5/Ü5.5 pruefen (8g + 8c)",
+      "lesson": "Lens 1:9 Como (10 Tore!) erst das zweite Team der CL-Geschichte mit 9 Toren. Pre-Tipp-Signal war da: 'Lens 2 CL-Pleiten in Serie ohne Tor + Como 10 CL-Tore in 3 Spielen' - HR2 (Anti-Heim-Bias in Krise) wurde korrekt auf DC X2 angewendet (+40c Gewinn), aber der Over-shoot auf Ü4.5 @ 3.3 oder Ü5.5 @ 7.0 wurde nicht zusaetzlich getippt. Pattern: in extrem-asymmetrischen Krise-vs-Form-Clustern (ein Team 0 Tore in 3 Spielen, Gegner 10+ in 3 Spielen) sollte ein kleiner Zusatz-Tipp Ü4.5/Ü5.5 als VALUE-ADD bzw. MOONSHOT-Beilage mitlaufen. Nicht als SAFE - aber als kalkuliertes Zusatz-Instrument.",
+      "bezug_spiel_id": "2026-11-04-len-com"
+    },
+    {
+      "datum": "2026-11-04",
+      "kategorie": "HR11-04-4 Sieg-zu-Null-Tipp bei komfortabler 2:0-Fuehrung in letzten 10 Min anfaellig (8e)",
+      "lesson": "sla-ars-3 (Arsenal Sieg zu Null, VALUE @ 2.0) verloren durch Nowak-90'-Treffer. Arsenal fuehrte 2:0 ab 38', Clean Sheet durchgehalten bis 90. Minute, dann Ehrentreffer. Pattern: Clean-Sheet-Tipps bei komfortabler Spitzen-Fuehrung in letzten 10 Min anfaellig, weil Favorit mental abschaltet, Rotation bringt Defense-Qualitaet runter (Arsenal brachte Tzolis + Mosquera + Timber + Oedegaard), Gegner spielt mit Risiko. Kategorie-Downgrade: Arsenal-Sieg-zu-Null gegen Mittelfeld-Defensiv-Teams max WACKEL, nicht VALUE - zu viel 90min-Last-Kick-Variance.",
+      "bezug_spiel_id": "2026-11-04-sla-ars"
     }
   ],
-  "stand": "2026-11-02"
-};
+  "stand": "2026-11-05"
+}
+;

@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-11-04T18:20:22+00:00",
+  "letzte_berechnung": "2026-11-05T18:22:55+00:00",
   "gesamt": {
     "tipps": 342,
     "gewonnen": 197,
@@ -23,15 +23,15 @@
     "roi_prozent": 17.9
   },
   "letzte_90_tage": {
-    "tipps": 324,
-    "gewonnen": 189,
-    "verloren": 117,
+    "tipps": 315,
+    "gewonnen": 183,
+    "verloren": 114,
     "push": 1,
     "offen": 17,
-    "einsatz": 307.0,
+    "einsatz": 298.0,
     "netto": 94.33,
-    "trefferquote": 61.8,
-    "roi_prozent": 30.7
+    "trefferquote": 61.6,
+    "roi_prozent": 31.7
   },
   "nach_liga": {
     "UEFA Champions League - 3. Qualifikationsrunde": {
@@ -3488,6 +3488,298 @@
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-11-04",
+      "gesamt": {
+        "tipps": 11,
+        "gewonnen": 11,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 11.0,
+        "netto": 6.11,
+        "trefferquote": 100.0,
+        "roi_prozent": 55.5
+      },
+      "spiele": [
+        {
+          "id": "2026-11-04-aek-rma",
+          "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+          "heim": "AEK Athen",
+          "gast": "Real Madrid",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Mbappe Torschuetze jederzeit",
+              "quote": 1.45,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.45,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-11-04-fen-liv",
+          "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+          "heim": "Fenerbahce",
+          "gast": "Liverpool FC",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.5,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.5,
+              "kommentar": ""
+            },
+            {
+              "markt": "Isak Torschuetze jederzeit",
+              "quote": 2.3,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.3,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-11-04-bvb-bet",
+          "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+          "heim": "Borussia Dortmund",
+          "gast": "Real Betis",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Dortmund oder Remis (Doppelte Chance 1X)",
+              "quote": 1.3,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": ""
+            },
+            {
+              "markt": "Guirassy Torschuetze jederzeit",
+              "quote": 2.0,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.0,
+              "kommentar": "Einwechslungs-Boost: Tor von Karetsas (72') zaehlt fuer Guirassy (ausgewechselt 34' fuer Karetsas)"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-04-por-nap",
+          "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+          "heim": "FC Porto",
+          "gast": "SSC Napoli",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Porto oder Remis (Doppelte Chance 1X)",
+              "quote": 1.35,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.35,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-11-04-psv-cbr",
+          "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+          "heim": "PSV Eindhoven",
+          "gast": "Club Brugge KV",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.33,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.33,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-11-04-lei-mci",
+          "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+          "heim": "RB Leipzig",
+          "gast": "Manchester City",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Haaland Torschuetze jederzeit",
+              "quote": 1.5,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.5,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-11-04-len-com",
+          "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+          "heim": "RC Lens",
+          "gast": "Como 1907",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.5,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.5,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-11-04-sla-ars",
+          "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
+          "heim": "SK Slavia Praha",
+          "gast": "Arsenal FC",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Arsenal oder Remis (Doppelte Chance X2)",
+              "quote": 1.08,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.08,
+              "kommentar": ""
+            },
+            {
+              "markt": "Gyokeres Torschuetze jederzeit",
+              "quote": 1.8,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.8,
+              "kommentar": ""
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (Volume-Striker + BTTS-Goldgrube)",
+          "kategorie": "safe",
+          "gesamtquote": 3.59,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Haaland Torschuetze jederzeit",
+              "quote": 1.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Gyokeres Torschuetze jederzeit",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.33,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (Volume-9er + Tor-Totals)",
+          "kategorie": "balance",
+          "gesamtquote": 6.12,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Guirassy Torschuetze jederzeit",
+              "quote": 2.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (Torschuetzen-Triplett)",
+          "kategorie": "risk",
+          "gesamtquote": 13.52,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Vinicius Jr. Torschuetze jederzeit",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Isak Torschuetze jederzeit",
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Nico Paz Torschuetze jederzeit",
+              "quote": 2.8,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (Underdogs + Tor-Explosion)",
+          "kategorie": "moonshot",
+          "gesamtquote": 134.84,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 4.5 Tore",
+              "quote": 3.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Fenerbahce (90 Min)",
+              "quote": 5.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Como (90 Min)",
+              "quote": 2.27,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Hojlund Torschuetze jederzeit",
+              "quote": 3.6,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-11-03",
       "gesamt": {
