@@ -36,7 +36,7 @@
           "id": "sha-spo-1",
           "kategorie": "value",
           "markt": "Sieg Sporting (90 Min)",
-          "quote": 1.80,
+          "quote": 1.8,
           "edge_prozent": 7.0,
           "begruendung": "Sporting Primeira-Liga-Favorit vs Exil-Shakhtar ohne echte Heim-Atmosphaere. Klassenunterschied + Spielpraxis in Top-Teams. CL-Insurance greift bei 2:0-Fuehrung. Einsatz 15EUR (1.5% von 1000EUR Kasse). bet365 live pruefen.",
           "faire_quote": 1.68,
@@ -56,20 +56,20 @@
           "id": "sha-spo-3",
           "kategorie": "wackel",
           "markt": "Beide Teams treffen",
-          "quote": 1.90,
+          "quote": 1.9,
           "edge_prozent": 3.0,
           "begruendung": "Markt-Goldgrube BTTS JA (+15.1% ROI). Shakhtar-Jugend-Konterangriffe gegen Sporting-Hochrisiko-Press - beide Teams scoring-faehig. Keine klare Edge-Signal, deshalb nur wackel. Einsatz 5EUR (0.5%).",
-          "faire_quote": 1.90,
+          "faire_quote": 1.9,
           "empfohlener_einsatz_prozent": 0.5
         },
         {
           "id": "sha-spo-4",
           "kategorie": "wackel",
           "markt": "Ueber 2.5 Tore",
-          "quote": 1.90,
+          "quote": 1.9,
           "edge_prozent": 3.0,
           "begruendung": "Markt-Goldgrube Ueber 2.5 (63.6% / +40.4%). CL offene Spiele, beide offensiv. Einsatz 5EUR (0.5%).",
-          "faire_quote": 1.90,
+          "faire_quote": 1.9,
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
@@ -112,30 +112,31 @@
           "id": "gal-stu-1",
           "kategorie": "value",
           "markt": "Galatasaray oder Remis (Doppelte Chance 1X)",
-          "quote": 1.40,
+          "quote": 1.4,
           "edge_prozent": 8.0,
           "begruendung": "Markt-Goldgrube Doppelte Chance 1X (83.3% / +44.8% ROI). Rams-Park-Fortress + Stiller-Ausfall bei Stuttgart. Trotz Stuttgart-CL-Form das sicherere Konstrukt. Einsatz 15EUR (1.5%).",
-          "faire_quote": 1.30,
+          "faire_quote": 1.3,
           "empfohlener_einsatz_prozent": 1.5
         },
         {
           "id": "gal-stu-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Osimhen Torschuetze jederzeit",
-          "quote": 2.20,
+          "quote": 2.2,
           "edge_prozent": 10.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Volume-9er bei Gala, trotz 1-Tor-Statistik langsame Startphase - Rams-Park-Fan-Druck + Stuttgart-Mittelfeld-Schwaeche durch Stiller-Ausfall. Einwechslungs-Boost: Barnes/Mertens als Backup. Einsatz 15EUR (1.5%).",
-          "faire_quote": 2.00,
-          "empfohlener_einsatz_prozent": 1.5
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Volume-9er bei Gala, trotz 1-Tor-Statistik langsame Startphase - Rams-Park-Fan-Druck + Stuttgart-Mittelfeld-Schwaeche durch Stiller-Ausfall. Einwechslungs-Boost: Barnes/Mertens als Backup. Einsatz 15EUR (1.5%). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "gal-stu-3",
           "kategorie": "wackel",
           "markt": "Demirovic Torschuetze jederzeit",
-          "quote": 3.00,
+          "quote": 3.0,
           "edge_prozent": 5.0,
           "begruendung": "4 Tore aus 5 Schuessen in 89 Min CL-Form (extreme Trefferquote). Volume-9er Stuttgart. HR24 (Form-Edge) erfuellt. In Rams-Park schwieriger, deshalb wackel. Einsatz 5EUR (0.5%).",
-          "faire_quote": 2.80,
+          "faire_quote": 2.8,
           "empfohlener_einsatz_prozent": 0.5
         },
         {
@@ -152,7 +153,7 @@
           "id": "gal-stu-5",
           "kategorie": "wackel",
           "markt": "Ueber 2.5 Tore",
-          "quote": 1.80,
+          "quote": 1.8,
           "edge_prozent": 4.0,
           "begruendung": "Markt-Goldgrube Ueber 2.5. Beide offensiv, CL offene Spiele. Einsatz 5EUR (0.5%).",
           "faire_quote": 1.73,
@@ -199,7 +200,7 @@
           "id": "atl-bay-1",
           "kategorie": "value",
           "markt": "Atletico Madrid oder Remis (Doppelte Chance 1X)",
-          "quote": 1.70,
+          "quote": 1.7,
           "edge_prozent": 10.0,
           "begruendung": "Markt-Goldgrube Doppelte Chance 1X (83.3% / +44.8%). Atleticos 16-Spiele-Ungeschlagen-Serie gegen deutsche Teams seit 1996 (!) + Bayerns massive Verletzungs-Welle (Diaz/Olise/Gnabry/Kim/Saibari OUT) + Metropolitano-Fan-Druck. Markt-Favorit Bayern (51% implizit) ignoriert diesen Heim-Fortress. Einsatz 20EUR (2% - obere Grenze Stufe 1, da starke Edge). bet365 live pruefen.",
           "faire_quote": 1.55,
@@ -207,23 +208,25 @@
         },
         {
           "id": "atl-bay-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Alvarez Torschuetze jederzeit",
-          "quote": 2.80,
+          "quote": 2.8,
           "edge_prozent": 8.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Atleticos Volume-9er, Elfmeterschuetze, in LaLiga rot-hot. Mit Kim-OUT bei Bayern wackelige Innenverteidigung. Einsatz 15EUR (1.5%).",
-          "faire_quote": 2.60,
-          "empfohlener_einsatz_prozent": 1.5
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Atleticos Volume-9er, Elfmeterschuetze, in LaLiga rot-hot. Mit Kim-OUT bei Bayern wackelige Innenverteidigung. Einsatz 15EUR (1.5%). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 2.6,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "atl-bay-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Harry Kane Torschuetze jederzeit",
-          "quote": 2.10,
+          "quote": 2.1,
           "edge_prozent": 7.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Mit Diaz/Olise/Gnabry OUT ist Kane einziger fitter Top-Stuermer - traegt alles. Bundesliga Top-Torschuetze. HR24 erfuellt (Volume-9er + Form). Einwechslungs-Boost: Mueller/Karl als Backup zaehlen. Einsatz 15EUR (1.5%).",
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Mit Diaz/Olise/Gnabry OUT ist Kane einziger fitter Top-Stuermer - traegt alles. Bundesliga Top-Torschuetze. HR24 erfuellt (Volume-9er + Form). Einwechslungs-Boost: Mueller/Karl als Backup zaehlen. Einsatz 15EUR (1.5%). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 1.95,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "atl-bay-4",
@@ -239,7 +242,7 @@
           "id": "atl-bay-5",
           "kategorie": "wackel",
           "markt": "Beide Teams treffen",
-          "quote": 1.60,
+          "quote": 1.6,
           "edge_prozent": 4.0,
           "begruendung": "Markt-Goldgrube BTTS JA. Kane bei Bayern + Alvarez/Lookman bei Atletico - beide Teams verwundbar. Einsatz 5EUR (0.5%).",
           "faire_quote": 1.54,
@@ -295,19 +298,20 @@
         },
         {
           "id": "bar-vil-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Lamine Yamal Torschuetze jederzeit",
-          "quote": 1.80,
+          "quote": 1.8,
           "edge_prozent": 12.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Yamal CL-Rekord-Jagd (13 Tore als Teenager, gleich Mbappe) + Camp-Nou-Form-Peak + Villa-Defense-OUTs (Wan-Bissaka/Onana/Ruggeri). HR24 erfuellt. Einwechslungs-Boost: Rashford/Jesus als Backup. Einsatz 15EUR (1.5%).",
-          "faire_quote": 1.60,
-          "empfohlener_einsatz_prozent": 1.5
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Yamal CL-Rekord-Jagd (13 Tore als Teenager, gleich Mbappe) + Camp-Nou-Form-Peak + Villa-Defense-OUTs (Wan-Bissaka/Onana/Ruggeri). HR24 erfuellt. Einwechslungs-Boost: Rashford/Jesus als Backup. Einsatz 15EUR (1.5%). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "bar-vil-3",
           "kategorie": "value",
           "markt": "Ueber 2.5 Tore",
-          "quote": 1.50,
+          "quote": 1.5,
           "edge_prozent": 6.0,
           "begruendung": "Markt-Goldgrube Ueber 2.5 (63.6% / +40.4%). 3-1-Score-Prediction, Barca Form-Peak + Villa-Defense-OUTs. Einsatz 15EUR (1.5%).",
           "faire_quote": 1.41,
@@ -327,10 +331,10 @@
           "id": "bar-vil-5",
           "kategorie": "moonshot",
           "markt": "Sieg Aston Villa (90 Min)",
-          "quote": 7.00,
+          "quote": 7.0,
           "edge_prozent": -10.0,
           "begruendung": "Reiner Lotterie-Spass. Villa 3/3 CL-Form Dark-Horse, Jackson+Guessand koennten in Camp-Nou-Rotations-Setup zuschlagen. Opta sagt nur 10-12% Villa-Sieg. Einsatz 1EUR Spass (0.1%).",
-          "faire_quote": 9.00,
+          "faire_quote": 9.0,
           "empfohlener_einsatz_prozent": 0.1
         }
       ],
@@ -372,7 +376,7 @@
           "id": "mun-rom-1",
           "kategorie": "value",
           "markt": "Remis oder Roma (Doppelte Chance X2)",
-          "quote": 1.90,
+          "quote": 1.9,
           "edge_prozent": 8.0,
           "begruendung": "Markt-Goldgrube Doppelte Chance X2 (73.7% / +51.7% ROI). United-Krise + Roma Form-Hoch 5:2 vs Udinese. Markt-Favorit United verfehlt die Formrealitaet. Historisch bieten DC-Tipps gegen Krisen-Favoriten starken Edge. Einsatz 15EUR (1.5%).",
           "faire_quote": 1.75,
@@ -380,19 +384,20 @@
         },
         {
           "id": "mun-rom-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Donyell Malen Torschuetze jederzeit",
-          "quote": 3.20,
+          "quote": 3.2,
           "edge_prozent": 10.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Malen (jetzt Roma, nicht mehr Villa/BVB) 3 CL-Tore bereits - Volume-Fluegel. HR24 erfuellt (Form-Edge in CL). Old-Trafford-Pokale fuer Underdogs: historisch gut. Einsatz 10EUR (1%).",
-          "faire_quote": 2.90,
-          "empfohlener_einsatz_prozent": 1.0
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Malen (jetzt Roma, nicht mehr Villa/BVB) 3 CL-Tore bereits - Volume-Fluegel. HR24 erfuellt (Form-Edge in CL). Old-Trafford-Pokale fuer Underdogs: historisch gut. Einsatz 10EUR (1%). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 2.9,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "mun-rom-3",
           "kategorie": "wackel",
           "markt": "Beide Teams treffen",
-          "quote": 1.70,
+          "quote": 1.7,
           "edge_prozent": 5.0,
           "begruendung": "Markt-Goldgrube BTTS JA. United ohne Clean Sheet in Serie, Roma torfreudig. Einsatz 5EUR (0.5%).",
           "faire_quote": 1.62,
@@ -402,7 +407,7 @@
           "id": "mun-rom-4",
           "kategorie": "wackel",
           "markt": "Ueber 2.5 Tore",
-          "quote": 1.90,
+          "quote": 1.9,
           "edge_prozent": 4.0,
           "begruendung": "Markt-Goldgrube Ueber 2.5. Roma offensiv (5:2 vs Udinese), United-Defense verwundbar. Einsatz 5EUR (0.5%).",
           "faire_quote": 1.83,
@@ -412,7 +417,7 @@
           "id": "mun-rom-5",
           "kategorie": "moonshot",
           "markt": "Sieg Roma (90 Min)",
-          "quote": 3.00,
+          "quote": 3.0,
           "edge_prozent": -5.0,
           "begruendung": "Lotterie-Spass, Roma-Form rechtfertigt Underdog-Edge aber Old Trafford hat seine eigene Magie. Einsatz 2EUR Spass (0.2%).",
           "faire_quote": 3.15,
@@ -466,29 +471,30 @@
         },
         {
           "id": "vil-psg-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Ferran Torres Torschuetze jederzeit",
-          "quote": 2.80,
+          "quote": 2.8,
           "edge_prozent": 10.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Jetzt PSG-Volume-9er seit Dembele-Season-OUT - zentraler 9er. HR24 (Volume + Form). Einwechslungs-Boost: Doue/Akliouche. Einsatz 15EUR (1.5%).",
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Jetzt PSG-Volume-9er seit Dembele-Season-OUT - zentraler 9er. HR24 (Volume + Form). Einwechslungs-Boost: Doue/Akliouche. Einsatz 15EUR (1.5%). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 2.55,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "vil-psg-3",
           "kategorie": "wackel",
           "markt": "Mikautadze Torschuetze jederzeit",
-          "quote": 3.00,
+          "quote": 3.0,
           "edge_prozent": 3.0,
           "begruendung": "Villarreal-Volume-9er, Heim-Druck, PSG-Defense ohne Nuno Mendes+Marquinhos verwundbar. Einsatz 5EUR (0.5%).",
-          "faire_quote": 2.90,
+          "faire_quote": 2.9,
           "empfohlener_einsatz_prozent": 0.5
         },
         {
           "id": "vil-psg-4",
           "kategorie": "wackel",
           "markt": "Beide Teams treffen",
-          "quote": 1.60,
+          "quote": 1.6,
           "edge_prozent": 4.0,
           "begruendung": "Markt-Goldgrube BTTS JA. Beide offensiv + beide verwundbar durch Verletzungen. Einsatz 5EUR (0.5%).",
           "faire_quote": 1.54,
@@ -552,13 +558,14 @@
         },
         {
           "id": "fey-int-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Thuram Torschuetze jederzeit",
-          "quote": 2.00,
+          "quote": 2.0,
           "edge_prozent": 10.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Mit Lautaro-OUT ist Thuram einziger fitter Top-9er - traegt alles. HR24 erfuellt (Volume + einzige fitte Option). Einwechslungs-Boost: Esposito als Backup zaehlt. Einsatz 15EUR (1.5%).",
-          "faire_quote": 1.80,
-          "empfohlener_einsatz_prozent": 1.5
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Mit Lautaro-OUT ist Thuram einziger fitter Top-9er - traegt alles. HR24 erfuellt (Volume + einzige fitte Option). Einwechslungs-Boost: Esposito als Backup zaehlt. Einsatz 15EUR (1.5%). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 1.8,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "fey-int-3",
@@ -584,10 +591,10 @@
           "id": "fey-int-5",
           "kategorie": "wackel",
           "markt": "Esposito Torschuetze jederzeit",
-          "quote": 3.50,
+          "quote": 3.5,
           "edge_prozent": 2.0,
           "begruendung": "Zweite 9er-Option bei Inter (Jung-Spieler als Backup fuer Lautaro-OUT). Lotterie-Charakter, aber bei 10+ Spielminuten gelegentliches Tor. Einsatz 2EUR (0.2%).",
-          "faire_quote": 3.40,
+          "faire_quote": 3.4,
           "empfohlener_einsatz_prozent": 0.2
         }
       ],
@@ -628,17 +635,17 @@
           "id": "bod-lil-1",
           "kategorie": "value",
           "markt": "Bodo/Glimt oder Remis (Doppelte Chance 1X)",
-          "quote": 1.40,
+          "quote": 1.4,
           "edge_prozent": 8.0,
           "begruendung": "Markt-Goldgrube Doppelte Chance 1X (83.3% / +44.8%). Aspmyra-Fortress + Lille 0/9 CL = akuter Reise-/Form-Druck. Historische Heim-Dominanz. Einsatz 15EUR (1.5%).",
-          "faire_quote": 1.30,
+          "faire_quote": 1.3,
           "empfohlener_einsatz_prozent": 1.5
         },
         {
           "id": "bod-lil-2",
           "kategorie": "wackel",
           "markt": "Ueber 2.5 Tore",
-          "quote": 1.80,
+          "quote": 1.8,
           "edge_prozent": 3.0,
           "begruendung": "Markt-Goldgrube Ueber 2.5. Bodo-Heim-Offensive stark + Lille muss Druck setzen fuer ersten CL-Punkt. Einsatz 5EUR (0.5%).",
           "faire_quote": 1.75,
@@ -651,7 +658,7 @@
           "quote": 1.75,
           "edge_prozent": 3.0,
           "begruendung": "Markt-Goldgrube BTTS JA. Lille muss offensiv spielen, Bodo scoring stark. Einsatz 5EUR (0.5%).",
-          "faire_quote": 1.70,
+          "faire_quote": 1.7,
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
@@ -666,9 +673,10 @@
       "kategorie": "safe",
       "markt": "Sieg Barcelona (90 Min)",
       "quote": 1.44,
-      "einsatz_prozent": 2.0,
-      "einsatz_euro": 20.00,
-      "kurz_begruendung": "72% Opta-Winkel + 6:1 Form-Peak + Villa OUT 3 Stammspieler + CL-Insurance greift"
+      "einsatz_euro": 20.0,
+      "kurz_begruendung": "72% Opta-Winkel + 6:1 Form-Peak + Villa OUT 3 Stammspieler + CL-Insurance greift",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 1
     },
     {
       "tipp_id": "atl-bay-1",
@@ -676,10 +684,11 @@
       "spiel_label": "Atletico Madrid vs Bayern Muenchen",
       "kategorie": "value",
       "markt": "Atletico Madrid oder Remis (Doppelte Chance 1X)",
-      "quote": 1.70,
-      "einsatz_prozent": 2.0,
-      "einsatz_euro": 20.00,
-      "kurz_begruendung": "16 Spiele ungeschlagen gegen DE-Teams seit 1996 + Bayern 5x OUT Diaz/Olise/Gnabry/Kim/Saibari"
+      "quote": 1.7,
+      "einsatz_euro": 20.0,
+      "kurz_begruendung": "16 Spiele ungeschlagen gegen DE-Teams seit 1996 + Bayern 5x OUT Diaz/Olise/Gnabry/Kim/Saibari",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 2
     },
     {
       "tipp_id": "vil-psg-1",
@@ -688,53 +697,58 @@
       "kategorie": "value",
       "markt": "Remis oder PSG (Doppelte Chance X2)",
       "quote": 1.42,
-      "einsatz_prozent": 2.0,
-      "einsatz_euro": 20.00,
-      "kurz_begruendung": "PSG 9/9 Perfect CL-Start trotz Kvara/Dembele/Marquinhos-OUT"
+      "einsatz_euro": 20.0,
+      "kurz_begruendung": "PSG 9/9 Perfect CL-Start trotz Kvara/Dembele/Marquinhos-OUT",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 3
     },
     {
       "tipp_id": "bar-vil-2",
       "spiel_id": "2026-11-03-bar-vil",
       "spiel_label": "FC Barcelona vs Aston Villa",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "markt": "Lamine Yamal Torschuetze jederzeit",
-      "quote": 1.80,
-      "einsatz_prozent": 1.5,
-      "einsatz_euro": 15.00,
-      "kurz_begruendung": "CL-Teenager-Rekord-Jagd + Camp Nou Form-Peak + Villa OUT 3 Stammspieler"
+      "quote": 1.8,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "CL-Teenager-Rekord-Jagd + Camp Nou Form-Peak + Villa OUT 3 Stammspieler",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
     },
     {
       "tipp_id": "atl-bay-3",
       "spiel_id": "2026-11-03-atl-bay",
       "spiel_label": "Atletico Madrid vs Bayern Muenchen",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "markt": "Harry Kane Torschuetze jederzeit",
-      "quote": 2.10,
-      "einsatz_prozent": 1.5,
-      "einsatz_euro": 15.00,
-      "kurz_begruendung": "Einziger fitter Top-9er bei Bayern (Diaz/Olise/Gnabry OUT) - traegt alles"
+      "quote": 2.1,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Einziger fitter Top-9er bei Bayern (Diaz/Olise/Gnabry OUT) - traegt alles",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 5
     },
     {
       "tipp_id": "fey-int-2",
       "spiel_id": "2026-11-03-fey-int",
       "spiel_label": "Feyenoord vs Inter",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "markt": "Thuram Torschuetze jederzeit",
-      "quote": 2.00,
-      "einsatz_prozent": 1.5,
-      "einsatz_euro": 15.00,
-      "kurz_begruendung": "Einziger fitter Top-9er bei Inter (Lautaro OUT, Esposito Jung-Backup)"
+      "quote": 2.0,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Einziger fitter Top-9er bei Inter (Lautaro OUT, Esposito Jung-Backup)",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 6
     },
     {
       "tipp_id": "gal-stu-2",
       "spiel_id": "2026-11-03-gal-stu",
       "spiel_label": "Galatasaray vs Stuttgart",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "markt": "Osimhen Torschuetze jederzeit",
-      "quote": 2.20,
-      "einsatz_prozent": 1.5,
-      "einsatz_euro": 15.00,
-      "kurz_begruendung": "Volume-9er Gala + Stuttgart ohne Stiller (Mittelfeld-Loch)"
+      "quote": 2.2,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Volume-9er Gala + Stuttgart ohne Stiller (Mittelfeld-Loch)",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 7
     },
     {
       "tipp_id": "gal-stu-1",
@@ -742,10 +756,11 @@
       "spiel_label": "Galatasaray vs Stuttgart",
       "kategorie": "value",
       "markt": "Galatasaray oder Remis (Doppelte Chance 1X)",
-      "quote": 1.40,
-      "einsatz_prozent": 1.5,
-      "einsatz_euro": 15.00,
-      "kurz_begruendung": "Rams-Park-Fortress + Stuttgart ohne Stiller - DC statt direkter Sieg"
+      "quote": 1.4,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Rams-Park-Fortress + Stuttgart ohne Stiller - DC statt direkter Sieg",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 8
     },
     {
       "tipp_id": "bod-lil-1",
@@ -753,10 +768,11 @@
       "spiel_label": "Bodo/Glimt vs Lille",
       "kategorie": "value",
       "markt": "Bodo/Glimt oder Remis (Doppelte Chance 1X)",
-      "quote": 1.40,
-      "einsatz_prozent": 1.5,
-      "einsatz_euro": 15.00,
-      "kurz_begruendung": "Aspmyra-Fortress + Lille 0/9 CL-Punkte + Kunstrasen-Umgewoehnung"
+      "quote": 1.4,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Aspmyra-Fortress + Lille 0/9 CL-Punkte + Kunstrasen-Umgewoehnung",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 9
     },
     {
       "tipp_id": "mun-rom-1",
@@ -764,10 +780,11 @@
       "spiel_label": "Manchester United vs Roma",
       "kategorie": "value",
       "markt": "Remis oder Roma (Doppelte Chance X2)",
-      "quote": 1.90,
-      "einsatz_prozent": 1.5,
-      "einsatz_euro": 15.00,
-      "kurz_begruendung": "United-Krise + winless-Run vs Roma 5:2-Form-Hoch + Malen 3 CL-Tore"
+      "quote": 1.9,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "United-Krise + winless-Run vs Roma 5:2-Form-Hoch + Malen 3 CL-Tore",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 10
     },
     {
       "tipp_id": "sha-spo-1",
@@ -775,21 +792,23 @@
       "spiel_label": "Shakhtar vs Sporting",
       "kategorie": "value",
       "markt": "Sieg Sporting (90 Min)",
-      "quote": 1.80,
-      "einsatz_prozent": 1.5,
-      "einsatz_euro": 15.00,
-      "kurz_begruendung": "Klassenbesser + Shakhtar-Exil ohne echte Heim-Atmosphaere - CL-Insurance greift"
+      "quote": 1.8,
+      "einsatz_euro": 15.0,
+      "kurz_begruendung": "Klassenbesser + Shakhtar-Exil ohne echte Heim-Atmosphaere - CL-Insurance greift",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 11
     },
     {
       "tipp_id": "mun-rom-2",
       "spiel_id": "2026-11-03-mun-rom",
       "spiel_label": "Manchester United vs Roma",
-      "kategorie": "value",
+      "kategorie": "wackel",
       "markt": "Donyell Malen Torschuetze jederzeit",
-      "quote": 3.20,
-      "einsatz_prozent": 1.0,
-      "einsatz_euro": 10.00,
-      "kurz_begruendung": "3 CL-Tore bisher + Roma Form-Hoch - jetzt Roma seit Mai 2026 (nicht mehr Villa/BVB)"
+      "quote": 3.2,
+      "einsatz_euro": 10.0,
+      "kurz_begruendung": "3 CL-Tore bisher + Roma Form-Hoch - jetzt Roma seit Mai 2026 (nicht mehr Villa/BVB)",
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 12
     }
   ],
   "kombis": [
@@ -799,35 +818,38 @@
       "ziel_quote_range": "3-5x",
       "gesamtquote": 3.53,
       "gesamtquote_rechnung": "1.80 * 1.40 * 1.40 = 3.528",
-      "einsatz_prozent": 2.0,
-      "einsatz_euro": 20.00,
+      "einsatz_euro": 20.0,
       "beine": [
         {
           "spiel_id": "2026-11-03-sha-spo",
           "spiel_label": "Shakhtar vs Sporting",
-          "markt": "Sieg Sporting (90 Min)",
-          "quote": 1.80,
+          "markt": "Shakhtar Donetsk (Heimspiel @ Stamford Bridge, London) - Sporting CP: Sieg Sporting (90 Min)",
+          "quote": 1.8,
           "kategorie": "value",
-          "tipp_id": "sha-spo-1"
+          "tipp_id": "sha-spo-1",
+          "spiel_titel": "Shakhtar Donetsk (Heimspiel @ Stamford Bridge, London) - Sporting CP"
         },
         {
           "spiel_id": "2026-11-03-bod-lil",
           "spiel_label": "Bodo/Glimt vs Lille",
-          "markt": "Bodo/Glimt oder Remis (Doppelte Chance 1X)",
-          "quote": 1.40,
+          "markt": "Bodo/Glimt - LOSC Lille: Bodo/Glimt oder Remis (Doppelte Chance 1X)",
+          "quote": 1.4,
           "kategorie": "value",
-          "tipp_id": "bod-lil-1"
+          "tipp_id": "bod-lil-1",
+          "spiel_titel": "Bodo/Glimt - LOSC Lille"
         },
         {
           "spiel_id": "2026-11-03-gal-stu",
           "spiel_label": "Galatasaray vs Stuttgart",
-          "markt": "Galatasaray oder Remis (Doppelte Chance 1X)",
-          "quote": 1.40,
+          "markt": "Galatasaray - VfB Stuttgart: Galatasaray oder Remis (Doppelte Chance 1X)",
+          "quote": 1.4,
           "kategorie": "value",
-          "tipp_id": "gal-stu-1"
+          "tipp_id": "gal-stu-1",
+          "spiel_titel": "Galatasaray - VfB Stuttgart"
         }
       ],
-      "kurz_begruendung": "3 klassenbesser-Heim-Favoriten mit DC-Puffer. Markt-Goldgruben DC 1X (83.3% / +44.8%)."
+      "kurz_begruendung": "3 klassenbesser-Heim-Favoriten mit DC-Puffer. Markt-Goldgruben DC 1X (83.3% / +44.8%).",
+      "empfohlener_einsatz_prozent": 2.0
     },
     {
       "name": "Balance-Kombi: 4-fach Props-Mix",
@@ -835,43 +857,47 @@
       "ziel_quote_range": "6-10x",
       "gesamtquote": 6.44,
       "gesamtquote_rechnung": "1.50 * 1.45 * 1.60 * 1.85 = 6.438",
-      "einsatz_prozent": 0.8,
-      "einsatz_euro": 8.00,
+      "einsatz_euro": 8.0,
       "beine": [
         {
           "spiel_id": "2026-11-03-bar-vil",
           "spiel_label": "FC Barcelona vs Aston Villa",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.50,
+          "markt": "FC Barcelona - Aston Villa: Ueber 2.5 Tore",
+          "quote": 1.5,
           "kategorie": "value",
-          "tipp_id": "bar-vil-3"
+          "tipp_id": "bar-vil-3",
+          "spiel_titel": "FC Barcelona - Aston Villa"
         },
         {
           "spiel_id": "2026-11-03-fey-int",
           "spiel_label": "Feyenoord vs Inter",
-          "markt": "Remis oder Inter (Doppelte Chance X2)",
+          "markt": "Feyenoord - Inter Mailand: Remis oder Inter (Doppelte Chance X2)",
           "quote": 1.45,
           "kategorie": "value",
-          "tipp_id": "fey-int-1"
+          "tipp_id": "fey-int-1",
+          "spiel_titel": "Feyenoord - Inter Mailand"
         },
         {
           "spiel_id": "2026-11-03-vil-psg",
           "spiel_label": "Villarreal vs PSG",
-          "markt": "Beide Teams treffen",
-          "quote": 1.60,
+          "markt": "Villarreal CF - Paris Saint-Germain: Beide Teams treffen",
+          "quote": 1.6,
           "kategorie": "wackel",
-          "tipp_id": "vil-psg-4"
+          "tipp_id": "vil-psg-4",
+          "spiel_titel": "Villarreal CF - Paris Saint-Germain"
         },
         {
           "spiel_id": "2026-11-03-atl-bay",
           "spiel_label": "Atletico Madrid vs Bayern Muenchen",
-          "markt": "Ueber 2.5 Tore",
+          "markt": "Atletico Madrid - Bayern Muenchen: Ueber 2.5 Tore",
           "quote": 1.85,
           "kategorie": "wackel",
-          "tipp_id": "atl-bay-4"
+          "tipp_id": "atl-bay-4",
+          "spiel_titel": "Atletico Madrid - Bayern Muenchen"
         }
       ],
-      "kurz_begruendung": "4 Spiele, 1 Sieg-Outcome (fi-DC X2), 3 Props (Ueber 2.5, BTTS). Markt-Goldgruben Ueber 2.5 + DC X2 + BTTS JA."
+      "kurz_begruendung": "4 Spiele, 1 Sieg-Outcome (fi-DC X2), 3 Props (Ueber 2.5, BTTS). Markt-Goldgruben Ueber 2.5 + DC X2 + BTTS JA.",
+      "empfohlener_einsatz_prozent": 0.8
     },
     {
       "name": "Risiko-Kombi: 4-fach Torschuetzen-Form-Edge",
@@ -879,87 +905,95 @@
       "ziel_quote_range": "15-30x",
       "gesamtquote": 29.57,
       "gesamtquote_rechnung": "3.20 * 2.10 * 2.00 * 2.20 = 29.568",
-      "einsatz_prozent": 0.25,
-      "einsatz_euro": 2.50,
+      "einsatz_euro": 2.5,
       "beine": [
         {
           "spiel_id": "2026-11-03-mun-rom",
           "spiel_label": "Manchester United vs Roma",
-          "markt": "Donyell Malen Torschuetze jederzeit",
-          "quote": 3.20,
+          "markt": "Manchester United - AS Roma: Donyell Malen Torschuetze jederzeit",
+          "quote": 3.2,
           "kategorie": "value",
-          "tipp_id": "mun-rom-2"
+          "tipp_id": "mun-rom-2",
+          "spiel_titel": "Manchester United - AS Roma"
         },
         {
           "spiel_id": "2026-11-03-atl-bay",
           "spiel_label": "Atletico Madrid vs Bayern Muenchen",
-          "markt": "Harry Kane Torschuetze jederzeit",
-          "quote": 2.10,
+          "markt": "Atletico Madrid - Bayern Muenchen: Harry Kane Torschuetze jederzeit",
+          "quote": 2.1,
           "kategorie": "value",
-          "tipp_id": "atl-bay-3"
+          "tipp_id": "atl-bay-3",
+          "spiel_titel": "Atletico Madrid - Bayern Muenchen"
         },
         {
           "spiel_id": "2026-11-03-fey-int",
           "spiel_label": "Feyenoord vs Inter",
-          "markt": "Thuram Torschuetze jederzeit",
-          "quote": 2.00,
+          "markt": "Feyenoord - Inter Mailand: Thuram Torschuetze jederzeit",
+          "quote": 2.0,
           "kategorie": "value",
-          "tipp_id": "fey-int-2"
+          "tipp_id": "fey-int-2",
+          "spiel_titel": "Feyenoord - Inter Mailand"
         },
         {
           "spiel_id": "2026-11-03-gal-stu",
           "spiel_label": "Galatasaray vs Stuttgart",
-          "markt": "Osimhen Torschuetze jederzeit",
-          "quote": 2.20,
+          "markt": "Galatasaray - VfB Stuttgart: Osimhen Torschuetze jederzeit",
+          "quote": 2.2,
           "kategorie": "value",
-          "tipp_id": "gal-stu-2"
+          "tipp_id": "gal-stu-2",
+          "spiel_titel": "Galatasaray - VfB Stuttgart"
         }
       ],
-      "kurz_begruendung": "4 Volume-9er in 4 Spielen - Malen/Kane/Thuram/Osimhen alle als einzige/zentrale Option in ihrer Mannschaft. HR24 (Form-Edge Torschuetze) 4x. Markt-Goldgrube Torschuetzen Jederzeit."
+      "kurz_begruendung": "4 Volume-9er in 4 Spielen - Malen/Kane/Thuram/Osimhen alle als einzige/zentrale Option in ihrer Mannschaft. HR24 (Form-Edge Torschuetze) 4x. Markt-Goldgrube Torschuetzen Jederzeit.",
+      "empfohlener_einsatz_prozent": 0.25
     },
     {
       "name": "Moonshot-Kombi: 4-fach Underdog + Underdog-Volume-Stuermer",
       "kategorie": "moonshot",
       "ziel_quote_range": "100x+",
-      "gesamtquote": 205.80,
+      "gesamtquote": 205.8,
       "gesamtquote_rechnung": "7.00 * 3.00 * 2.80 * 3.50 = 205.80",
-      "einsatz_prozent": 0.1,
-      "einsatz_euro": 1.00,
+      "einsatz_euro": 1.0,
       "beine": [
         {
           "spiel_id": "2026-11-03-bar-vil",
           "spiel_label": "FC Barcelona vs Aston Villa",
-          "markt": "Sieg Aston Villa (90 Min)",
-          "quote": 7.00,
+          "markt": "FC Barcelona - Aston Villa: Sieg Aston Villa (90 Min)",
+          "quote": 7.0,
           "kategorie": "moonshot",
-          "tipp_id": "bar-vil-5"
+          "tipp_id": "bar-vil-5",
+          "spiel_titel": "FC Barcelona - Aston Villa"
         },
         {
           "spiel_id": "2026-11-03-vil-psg",
           "spiel_label": "Villarreal vs PSG",
-          "markt": "Mikautadze Torschuetze jederzeit",
-          "quote": 3.00,
+          "markt": "Villarreal CF - Paris Saint-Germain: Mikautadze Torschuetze jederzeit",
+          "quote": 3.0,
           "kategorie": "wackel",
-          "tipp_id": "vil-psg-3"
+          "tipp_id": "vil-psg-3",
+          "spiel_titel": "Villarreal CF - Paris Saint-Germain"
         },
         {
           "spiel_id": "2026-11-03-atl-bay",
           "spiel_label": "Atletico Madrid vs Bayern Muenchen",
-          "markt": "Alvarez Torschuetze jederzeit",
-          "quote": 2.80,
+          "markt": "Atletico Madrid - Bayern Muenchen: Alvarez Torschuetze jederzeit",
+          "quote": 2.8,
           "kategorie": "value",
-          "tipp_id": "atl-bay-2"
+          "tipp_id": "atl-bay-2",
+          "spiel_titel": "Atletico Madrid - Bayern Muenchen"
         },
         {
           "spiel_id": "2026-11-03-fey-int",
           "spiel_label": "Feyenoord vs Inter",
-          "markt": "Esposito Torschuetze jederzeit",
-          "quote": 3.50,
+          "markt": "Feyenoord - Inter Mailand: Esposito Torschuetze jederzeit",
+          "quote": 3.5,
           "kategorie": "wackel",
-          "tipp_id": "fey-int-5"
+          "tipp_id": "fey-int-5",
+          "spiel_titel": "Feyenoord - Inter Mailand"
         }
       ],
-      "kurz_begruendung": "Reiner Lotterie-Spass bei 1EUR Einsatz. Villa-Dark-Horse-Sieg + 3 Underdog-/Zweit-9er-Torschuetzen. 200x+ Potenzial, Hitrate <5%."
+      "kurz_begruendung": "Reiner Lotterie-Spass bei 1EUR Einsatz. Villa-Dark-Horse-Sieg + 3 Underdog-/Zweit-9er-Torschuetzen. 200x+ Potenzial, Hitrate <5%.",
+      "empfohlener_einsatz_prozent": 0.1
     }
   ],
   "lessons_angewandt": [

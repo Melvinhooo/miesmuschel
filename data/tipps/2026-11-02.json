@@ -49,17 +49,17 @@
           "id": "sas-fio-2",
           "kategorie": "value",
           "markt": "Beide Teams treffen",
-          "quote": 1.80,
+          "quote": 1.8,
           "edge_prozent": 7.0,
           "begruendung": "Markt-Goldgrube BTTS Ja (+28% ROI im System). Beide Teams in letzten 3 Spielen Gegentore kassiert, Fiorentina hat Offensivdruck, Sassuolo-Defense drittschlechteste der Liga. Mapei historisch tor-reich. Einsatz 15EUR (1.5%).",
-          "faire_quote": 1.70,
+          "faire_quote": 1.7,
           "empfohlener_einsatz_prozent": 1.5
         },
         {
           "id": "sas-fio-3",
           "kategorie": "wackel",
           "markt": "Über 2.5 Tore",
-          "quote": 1.90,
+          "quote": 1.9,
           "edge_prozent": 4.0,
           "begruendung": "Markt-Goldgrube Über 2.5 (63.6% / +40.4%). Beide Teams defensiv wackelig, Druckspiel = oft 3+ Tore. Aber Fiorentina-Rotation mindert Chancenverwertung. Einsatz 5EUR (0.5%).",
           "faire_quote": 2.05,
@@ -127,7 +127,7 @@
           "id": "ata-par-3",
           "kategorie": "value",
           "markt": "Über 2.5 Tore",
-          "quote": 1.70,
+          "quote": 1.7,
           "edge_prozent": 7.0,
           "begruendung": "Markt-Goldgrube Über 2.5 (63.6% / +40.4%). Atalanta offensiv auch mit Rotation, Parma kassiert gerne (3 Tore in letzter Partie). Einsatz 15EUR (1.5%).",
           "faire_quote": 1.59,
@@ -137,7 +137,7 @@
           "id": "ata-par-4",
           "kategorie": "value",
           "markt": "Krstovic Torschütze jederzeit",
-          "quote": 2.00,
+          "quote": 2.0,
           "edge_prozent": 12.0,
           "begruendung": "Markt-Goldgrube Torschützen Jederzeit (+24% ROI, 50% Hitrate). HR24 erfüllt: 6 Saisontore + zentraler 9er + einzige fitte Option (Scamacca+Raspadori OUT). 4 Spiele in Folge Shot on Target (2/Spiel). Einwechslungs-Boost falls Zalewski/Ederson für Krstovic. Einsatz 15EUR (1.5%).",
           "faire_quote": 1.78,
@@ -177,32 +177,33 @@
       "tipps": [
         {
           "id": "lor-bre-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Lorient oder Remis (Doppelte Chance)",
           "quote": 1.42,
           "edge_prozent": 7.0,
-          "begruendung": "Markt-Goldgrube DC 1X (83.3% / +44.8%). Lorient Heim-Favorit (41% implizit) im Breton-Derby, Brest-Defense durch Chardonnet-Problem geschwächt. Einsatz 15EUR (1.5%).",
+          "begruendung": "Markt-Goldgrube DC 1X (83.3% / +44.8%). Lorient Heim-Favorit (41% implizit) im Breton-Derby, Brest-Defense durch Chardonnet-Problem geschwächt. Einsatz 15EUR (1.5%). [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "faire_quote": 1.33,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "lor-bre-2",
           "kategorie": "wackel",
           "markt": "Beide Teams treffen",
-          "quote": 1.80,
+          "quote": 1.8,
           "edge_prozent": 4.0,
           "begruendung": "Markt-Goldgrube BTTS Ja. Derby-Charakter + beide Teams mit Verletzungen in Abwehr. Historisch tor-reich. Einsatz 5EUR (0.5%).",
-          "faire_quote": 1.70,
+          "faire_quote": 1.7,
           "empfohlener_einsatz_prozent": 0.5
         },
         {
           "id": "lor-bre-3",
           "kategorie": "wackel",
           "markt": "Über 2.5 Tore",
-          "quote": 2.10,
+          "quote": 2.1,
           "edge_prozent": 3.0,
           "begruendung": "Markt-Goldgrube Über 2.5. Derby-Setup + beide offensiv aktiv (Brest 1,4 Tore/Spiel, Lorient 1,2). Coinflip-Charakter deshalb wackel. Einsatz 5EUR (0.5%).",
-          "faire_quote": 2.00,
+          "faire_quote": 2.0,
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
@@ -242,7 +243,7 @@
           "id": "new-eve-1",
           "kategorie": "wackel",
           "markt": "Newcastle oder Remis (Doppelte Chance 1X)",
-          "quote": 1.50,
+          "quote": 1.5,
           "edge_prozent": 3.0,
           "begruendung": "Beobachtungs-Liga PL MW9 (-77% ROI) - deshalb bewusst nur Wackel, kein SAFE/VALUE auch bei DC-Markt-Goldgrube. Newcastle Heimvorteil aber Everton frisch vom 3:1 EFL-Cup. Einsatz 5EUR (0.5%). bet365 live prüfen.",
           "faire_quote": 1.55,
@@ -252,10 +253,10 @@
           "id": "new-eve-2",
           "kategorie": "wackel",
           "markt": "Beide Teams treffen",
-          "quote": 1.70,
+          "quote": 1.7,
           "edge_prozent": 5.0,
           "begruendung": "Newcastle ohne Clean Sheet zuhause, Everton offensiv heiss (2:0 bei Arsenal + 3:1 bei Newcastle). Markt-Goldgrube BTTS Ja aber in Beob-Liga nur Wackel. Einsatz 5EUR.",
-          "faire_quote": 1.60,
+          "faire_quote": 1.6,
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
@@ -293,13 +294,14 @@
       "tipps": [
         {
           "id": "dep-osa-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Deportivo oder Remis (Doppelte Chance)",
           "quote": 1.42,
           "edge_prozent": 6.0,
-          "begruendung": "Markt-Goldgrube DC 1X (83.3% / +44.8%). Deportivo leichter Heim-Favorit, Osasuna 4 Auswärts-Niederlagen in Folge + erst 2 Tage nach Sevilla-Niederlage. Riazor-Heimvorteil klassisch. Einsatz 15EUR (1.5%).",
+          "begruendung": "Markt-Goldgrube DC 1X (83.3% / +44.8%). Deportivo leichter Heim-Favorit, Osasuna 4 Auswärts-Niederlagen in Folge + erst 2 Tage nach Sevilla-Niederlage. Riazor-Heimvorteil klassisch. Einsatz 15EUR (1.5%). [Auto HR2: Heim-Krise/Sturm-Krise erkannt - Heim-Sieg/-DC/-Top-Stuermer max WACKEL]",
           "faire_quote": 1.33,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_heim_form_block": true
         },
         {
           "id": "dep-osa-2",
@@ -315,10 +317,10 @@
           "id": "dep-osa-3",
           "kategorie": "wackel",
           "markt": "Budimir Torschütze jederzeit",
-          "quote": 2.80,
+          "quote": 2.8,
           "edge_prozent": 5.0,
           "begruendung": "Markt-Goldgrube Torschützen Jederzeit. Budimir alleiniger zentraler 9er bei Osasuna mit vollem Volumen - trotz Auswärts-Krise alleiniger Zielspieler. Deportivo-Defense als Aufsteiger wacklig. Einsatz 5EUR (0.5%).",
-          "faire_quote": 2.60,
+          "faire_quote": 2.6,
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
@@ -332,7 +334,7 @@
       "spiel_label": "Atalanta vs Parma",
       "kategorie": "value",
       "markt": "Krstovic Torschütze jederzeit",
-      "quote": 2.00,
+      "quote": 2.0,
       "edge_prozent": 12.0,
       "begruendung": "Markt-Goldgrube Torschützen Jederzeit (+24% ROI). HR24 erfüllt: 6 Saisontore + zentraler 9er + einzige fitte Option (Scamacca+Raspadori OUT). 4 Spiele Shot on Target in Folge. 15EUR.",
       "faire_quote": 1.78,
@@ -345,7 +347,7 @@
       "spiel_label": "Atalanta vs Parma",
       "kategorie": "value",
       "markt": "Über 2.5 Tore",
-      "quote": 1.70,
+      "quote": 1.7,
       "edge_prozent": 7.0,
       "begruendung": "Markt-Goldgrube Über 2.5 Tore (63.6% / +40.4%). Atalanta offensiv, Parma defensiv gebrochen. 15EUR (1.5%).",
       "faire_quote": 1.59,
@@ -358,10 +360,10 @@
       "spiel_label": "Sassuolo vs Fiorentina",
       "kategorie": "value",
       "markt": "Beide Teams treffen",
-      "quote": 1.80,
+      "quote": 1.8,
       "edge_prozent": 7.0,
       "begruendung": "Markt-Goldgrube BTTS Ja. Beide Teams in letzten 3 Spielen Gegentore. 15EUR.",
-      "faire_quote": 1.70,
+      "faire_quote": 1.7,
       "empfohlener_einsatz_prozent": 1.5,
       "rang": 3
     },
@@ -423,7 +425,7 @@
       "spiel_label": "Sassuolo vs Fiorentina",
       "kategorie": "wackel",
       "markt": "Über 2.5 Tore",
-      "quote": 1.90,
+      "quote": 1.9,
       "edge_prozent": 4.0,
       "begruendung": "Markt-Goldgrube Über 2.5. Beide defensiv wackelig aber Fiorentina-Rotation mindert Chancen-Volumen. 5EUR.",
       "faire_quote": 2.05,
@@ -436,7 +438,7 @@
       "spiel_label": "Newcastle vs Everton",
       "kategorie": "wackel",
       "markt": "Newcastle oder Remis (Doppelte Chance 1X)",
-      "quote": 1.50,
+      "quote": 1.5,
       "edge_prozent": 3.0,
       "begruendung": "PL MW9 Beobachtungs-Liga (-77% ROI 30d) - deshalb bewusst nur Wackel. Newcastle Heim-Vorteil aber Everton heiss nach 3:1 EFL-Cup-Sieg. 5EUR.",
       "faire_quote": 1.55,
@@ -449,10 +451,10 @@
       "spiel_label": "Newcastle vs Everton",
       "kategorie": "wackel",
       "markt": "Beide Teams treffen",
-      "quote": 1.70,
+      "quote": 1.7,
       "edge_prozent": 5.0,
       "begruendung": "Newcastle keine Clean Sheet zuhause, Everton offensiv heiss. Beob-Liga -> nur Wackel. 5EUR.",
-      "faire_quote": 1.60,
+      "faire_quote": 1.6,
       "empfohlener_einsatz_prozent": 0.5,
       "rang": 10
     },
@@ -462,10 +464,10 @@
       "spiel_label": "Deportivo vs Osasuna",
       "kategorie": "wackel",
       "markt": "Budimir Torschütze jederzeit",
-      "quote": 2.80,
+      "quote": 2.8,
       "edge_prozent": 5.0,
       "begruendung": "Markt-Goldgrube Torschützen Jederzeit. Budimir alleinige Spitze Osasunas - volles Volumen. 5EUR.",
-      "faire_quote": 2.60,
+      "faire_quote": 2.6,
       "empfohlener_einsatz_prozent": 0.5,
       "rang": 11
     },
@@ -475,10 +477,10 @@
       "spiel_label": "Lorient vs Brest",
       "kategorie": "wackel",
       "markt": "Beide Teams treffen",
-      "quote": 1.80,
+      "quote": 1.8,
       "edge_prozent": 4.0,
       "begruendung": "Markt-Goldgrube BTTS. Derby + beidseitige Abwehr-Probleme. 5EUR.",
-      "faire_quote": 1.70,
+      "faire_quote": 1.7,
       "empfohlener_einsatz_prozent": 0.5,
       "rang": 12
     }
@@ -516,7 +518,7 @@
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
       "stake_euro": 20.0,
-      "potenzieller_gewinn_euro": 66.60,
+      "potenzieller_gewinn_euro": 66.6,
       "begruendung": "Drei Markt-Goldgrube-DCs aus drei verschiedenen Ligen (Serie A G10 Goldgrube, Ligue 1 Breton-Derby mit Heim-Edge, LaLiga Posticipo mit Riazor-Heim-Edge). Alle Teams mit Form-/Verletzungs-Vorteil gegen Gäste. Kein Sieg-Outcome-Overlap mit anderen Kombis. 20EUR (2%)."
     },
     {
@@ -528,21 +530,21 @@
           "spiel_id": "2026-11-02-new-eve",
           "spiel_label": "Newcastle vs Everton",
           "markt": "Newcastle oder Remis (Doppelte Chance 1X)",
-          "quote": 1.50,
+          "quote": 1.5,
           "kategorie": "balance"
         },
         {
           "spiel_id": "2026-11-02-sas-fio",
           "spiel_label": "Sassuolo vs Fiorentina",
           "markt": "Beide Teams treffen",
-          "quote": 1.80,
+          "quote": 1.8,
           "kategorie": "balance"
         },
         {
           "spiel_id": "2026-11-02-dep-osa",
           "spiel_label": "Deportivo vs Osasuna",
           "markt": "Budimir Torschütze jederzeit",
-          "quote": 2.80,
+          "quote": 2.8,
           "kategorie": "balance"
         }
       ],
@@ -564,37 +566,37 @@
           "spiel_id": "2026-11-02-ata-par",
           "spiel_label": "Atalanta vs Parma",
           "markt": "Krstovic Torschütze jederzeit",
-          "quote": 2.00,
+          "quote": 2.0,
           "kategorie": "risk"
         },
         {
           "spiel_id": "2026-11-02-lor-bre",
           "spiel_label": "Lorient vs Brest",
           "markt": "Über 2.5 Tore",
-          "quote": 2.10,
+          "quote": 2.1,
           "kategorie": "risk"
         },
         {
           "spiel_id": "2026-11-02-sas-fio",
           "spiel_label": "Sassuolo vs Fiorentina",
           "markt": "Berardi Torschütze jederzeit",
-          "quote": 2.80,
+          "quote": 2.8,
           "kategorie": "risk"
         },
         {
           "spiel_id": "2026-11-02-new-eve",
           "spiel_label": "Newcastle vs Everton",
           "markt": "Beide Teams treffen",
-          "quote": 1.70,
+          "quote": 1.7,
           "kategorie": "risk"
         }
       ],
-      "gesamtquote": 20.00,
+      "gesamtquote": 20.0,
       "rechnung": "2.00 x 2.10 x 2.80 x 1.70 = 20.00",
       "empfohlener_einsatz_prozent": 0.25,
       "empfohlener_einsatz_euro": 2.5,
       "stake_euro": 2.5,
-      "potenzieller_gewinn_euro": 50.00,
+      "potenzieller_gewinn_euro": 50.0,
       "begruendung": "Zwei Volumen-Stürmer (Krstovic 6 Tore + Berardi Sassuolo-Flügel-Volumen) + Tor-Total im Derby + BTTS in offener Monday Night. Keine Sieg-Outcomes - Markt-entkoppelt zu Safe/Balance. 2.50EUR (0.25%).",
       "layer_notes": "Layer-2 sauber (keine Sieg-Outcomes). Layer-3 soft: alle 4 Spiele hier auch in Safe/Balance, aber Markt-entkoppelt."
     },
@@ -607,28 +609,28 @@
           "spiel_id": "2026-11-02-sas-fio",
           "spiel_label": "Sassuolo vs Fiorentina",
           "markt": "Pellegrino Doppelpack (2+ Tore)",
-          "quote": 7.00,
+          "quote": 7.0,
           "kategorie": "moonshot"
         },
         {
           "spiel_id": "2026-11-02-new-eve",
           "spiel_label": "Newcastle vs Everton",
           "markt": "Woltemade Torschütze jederzeit",
-          "quote": 3.50,
+          "quote": 3.5,
           "kategorie": "moonshot"
         },
         {
           "spiel_id": "2026-11-02-dep-osa",
           "spiel_label": "Deportivo vs Osasuna",
           "markt": "Yeremay Hernández Torschütze jederzeit",
-          "quote": 2.60,
+          "quote": 2.6,
           "kategorie": "moonshot"
         },
         {
           "spiel_id": "2026-11-02-lor-bre",
           "spiel_label": "Lorient vs Brest",
           "markt": "Über 3.5 Tore",
-          "quote": 3.50,
+          "quote": 3.5,
           "kategorie": "moonshot"
         }
       ],

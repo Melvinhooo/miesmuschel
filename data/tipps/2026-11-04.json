@@ -36,13 +36,14 @@
       "tipps": [
         {
           "id": "aek-rma-1",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "markt": "Mbappe Torschuetze jederzeit",
           "quote": 1.45,
           "edge_prozent": 7.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI im System). Mbappe Torschuetzenkoenig-Kandidat, gegen schwache AEK-Defense + 100% der Real-Spiele mit 4+ Toren. Einwechslungs-Boost: Endrick/Rodrygo als Backup. Einsatz 20€ (2%). bet365 live pruefen.",
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI im System). Mbappe Torschuetzenkoenig-Kandidat, gegen schwache AEK-Defense + 100% der Real-Spiele mit 4+ Toren. Einwechslungs-Boost: Endrick/Rodrygo als Backup. Einsatz 20€ (2%). bet365 live pruefen. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 1.35,
-          "empfohlener_einsatz_prozent": 2.0
+          "empfohlener_einsatz_prozent": 2.0,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "aek-rma-2",
@@ -56,13 +57,14 @@
         },
         {
           "id": "aek-rma-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Vinicius Jr. Torschuetze jederzeit",
           "quote": 2.1,
           "edge_prozent": 6.0,
-          "begruendung": "Zweites Angriffs-Standbein neben Mbappe. Volume-Linksaussen, AEK-Rechtsverteidiger ist CL-Schwachstelle. Form-Edge HR24. Einsatz 10€ (1%).",
+          "begruendung": "Zweites Angriffs-Standbein neben Mbappe. Volume-Linksaussen, AEK-Rechtsverteidiger ist CL-Schwachstelle. Form-Edge HR24. Einsatz 10€ (1%). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 1.95,
-          "empfohlener_einsatz_prozent": 1.0
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "aek-rma-4",
@@ -132,13 +134,14 @@
         },
         {
           "id": "fen-liv-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Isak Torschuetze jederzeit",
           "quote": 2.3,
           "edge_prozent": 6.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Isak neuer Liverpool-9er seit Sommer, Form-Edge HR24 (3 Tore letzte 5 PL). Volume-Mittelstuermer gegen schwache Fener-Defense. Einsatz 10€ (1%).",
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Isak neuer Liverpool-9er seit Sommer, Form-Edge HR24 (3 Tore letzte 5 PL). Volume-Mittelstuermer gegen schwache Fener-Defense. Einsatz 10€ (1%). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 2.1,
-          "empfohlener_einsatz_prozent": 1.0
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "fen-liv-4",
@@ -197,13 +200,14 @@
         },
         {
           "id": "bvb-bet-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Guirassy Torschuetze jederzeit",
           "quote": 2.0,
           "edge_prozent": 7.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Guirassy Volume-9er BVB, Betis-Innenverteidigung nicht elite - Bartra/Natan haben CL-Erfahrungs-Luecken. Einwechslungs-Boost: Beier als Backup. Einsatz 15€ (1.5%).",
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Guirassy Volume-9er BVB, Betis-Innenverteidigung nicht elite - Bartra/Natan haben CL-Erfahrungs-Luecken. Einwechslungs-Boost: Beier als Backup. Einsatz 15€ (1.5%). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 1.85,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "bvb-bet-3",
@@ -346,13 +350,14 @@
         },
         {
           "id": "psv-cbr-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Tresoldi Torschuetze jederzeit",
           "quote": 2.1,
           "edge_prozent": 7.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit + HR24 erfuellt (8 Tore in 6 Spielen). Form-Hochphase, PSV-Defense durch Transfer-Verluste geschwaecht. Einsatz 10€ (1%).",
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit + HR24 erfuellt (8 Tore in 6 Spielen). Form-Hochphase, PSV-Defense durch Transfer-Verluste geschwaecht. Einsatz 10€ (1%). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 1.95,
-          "empfohlener_einsatz_prozent": 1.0
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "psv-cbr-4",
@@ -403,13 +408,14 @@
       "tipps": [
         {
           "id": "lei-mci-1",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "markt": "Haaland Torschuetze jederzeit",
           "quote": 1.5,
           "edge_prozent": 12.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Haaland Karriere-Rekord gegen Leipzig: 12 Tore - mehr als gegen jeden anderen Gegner. Volume-9er + schwache CL-Gegner-Position. Einwechslungs-Boost: Ndiaye als Flanker fuer City. Einsatz 20€ (2%). bet365 live pruefen.",
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Haaland Karriere-Rekord gegen Leipzig: 12 Tore - mehr als gegen jeden anderen Gegner. Volume-9er + schwache CL-Gegner-Position. Einwechslungs-Boost: Ndiaye als Flanker fuer City. Einsatz 20€ (2%). bet365 live pruefen. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 1.35,
-          "empfohlener_einsatz_prozent": 2.0
+          "empfohlener_einsatz_prozent": 2.0,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "lei-mci-2",
@@ -497,13 +503,14 @@
         },
         {
           "id": "len-com-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Nico Paz Torschuetze jederzeit",
           "quote": 2.8,
           "edge_prozent": 5.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Nico Paz Como-Spielmacher mit Form-Edge in CL (mehrere Tore + Assists in 10 CL-Toren). HR24 erfuellt. Hoehere Quote wegen Mittelfeld-Position = Grenze VALUE/WACKEL. Einsatz 10€ (1%).",
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit. Nico Paz Como-Spielmacher mit Form-Edge in CL (mehrere Tore + Assists in 10 CL-Toren). HR24 erfuellt. Hoehere Quote wegen Mittelfeld-Position = Grenze VALUE/WACKEL. Einsatz 10€ (1%). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 2.6,
-          "empfohlener_einsatz_prozent": 1.0
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "len-com-4",
@@ -562,13 +569,14 @@
         },
         {
           "id": "sla-ars-2",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Gyokeres Torschuetze jederzeit",
           "quote": 1.8,
           "edge_prozent": 8.0,
-          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Gyokeres Arsenal-Volume-9er gegen Slavia-Defense ohne Chefstuermer als Defense-Alarm-Spiegel. HR24 erfuellt (Form-Edge seit September). Einsatz 15€ (1.5%).",
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Gyokeres Arsenal-Volume-9er gegen Slavia-Defense ohne Chefstuermer als Defense-Alarm-Spiegel. HR24 erfuellt (Form-Edge seit September). Einsatz 15€ (1.5%). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
           "faire_quote": 1.65,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_torschuetze_quelle_warn": true
         },
         {
           "id": "sla-ars-3",
@@ -607,7 +615,8 @@
       "spiel_id": "2026-11-04-por-nap",
       "spiel_label": "FC Porto vs SSC Napoli",
       "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
-      "anstoss": "2026-11-04T21:00:00+01:00"
+      "anstoss": "2026-11-04T21:00:00+01:00",
+      "rang": 1
     },
     {
       "id": "psv-cbr-1",
@@ -621,7 +630,8 @@
       "spiel_id": "2026-11-04-psv-cbr",
       "spiel_label": "PSV Eindhoven vs Club Brugge KV",
       "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
-      "anstoss": "2026-11-04T21:00:00+01:00"
+      "anstoss": "2026-11-04T21:00:00+01:00",
+      "rang": 2
     },
     {
       "id": "lei-mci-1",
@@ -635,7 +645,8 @@
       "spiel_id": "2026-11-04-lei-mci",
       "spiel_label": "RB Leipzig vs Manchester City",
       "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
-      "anstoss": "2026-11-04T21:00:00+01:00"
+      "anstoss": "2026-11-04T21:00:00+01:00",
+      "rang": 3
     },
     {
       "id": "aek-rma-1",
@@ -649,7 +660,8 @@
       "spiel_id": "2026-11-04-aek-rma",
       "spiel_label": "AEK Athen vs Real Madrid",
       "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
-      "anstoss": "2026-11-04T18:45:00+01:00"
+      "anstoss": "2026-11-04T18:45:00+01:00",
+      "rang": 4
     },
     {
       "id": "sla-ars-1",
@@ -663,7 +675,8 @@
       "spiel_id": "2026-11-04-sla-ars",
       "spiel_label": "SK Slavia Praha vs Arsenal FC",
       "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
-      "anstoss": "2026-11-04T21:00:00+01:00"
+      "anstoss": "2026-11-04T21:00:00+01:00",
+      "rang": 5
     },
     {
       "id": "bvb-bet-1",
@@ -677,7 +690,8 @@
       "spiel_id": "2026-11-04-bvb-bet",
       "spiel_label": "Borussia Dortmund vs Real Betis",
       "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
-      "anstoss": "2026-11-04T21:00:00+01:00"
+      "anstoss": "2026-11-04T21:00:00+01:00",
+      "rang": 6
     },
     {
       "id": "bvb-bet-2",
@@ -691,7 +705,8 @@
       "spiel_id": "2026-11-04-bvb-bet",
       "spiel_label": "Borussia Dortmund vs Real Betis",
       "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
-      "anstoss": "2026-11-04T21:00:00+01:00"
+      "anstoss": "2026-11-04T21:00:00+01:00",
+      "rang": 7
     },
     {
       "id": "sla-ars-2",
@@ -705,7 +720,8 @@
       "spiel_id": "2026-11-04-sla-ars",
       "spiel_label": "SK Slavia Praha vs Arsenal FC",
       "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
-      "anstoss": "2026-11-04T21:00:00+01:00"
+      "anstoss": "2026-11-04T21:00:00+01:00",
+      "rang": 8
     },
     {
       "id": "fen-liv-1",
@@ -719,7 +735,8 @@
       "spiel_id": "2026-11-04-fen-liv",
       "spiel_label": "Fenerbahce vs Liverpool FC",
       "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
-      "anstoss": "2026-11-04T18:45:00+01:00"
+      "anstoss": "2026-11-04T18:45:00+01:00",
+      "rang": 9
     },
     {
       "id": "len-com-1",
@@ -733,7 +750,8 @@
       "spiel_id": "2026-11-04-len-com",
       "spiel_label": "RC Lens vs Como 1907",
       "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
-      "anstoss": "2026-11-04T21:00:00+01:00"
+      "anstoss": "2026-11-04T21:00:00+01:00",
+      "rang": 10
     },
     {
       "id": "fen-liv-3",
@@ -747,7 +765,8 @@
       "spiel_id": "2026-11-04-fen-liv",
       "spiel_label": "Fenerbahce vs Liverpool FC",
       "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 4",
-      "anstoss": "2026-11-04T18:45:00+01:00"
+      "anstoss": "2026-11-04T18:45:00+01:00",
+      "rang": 11
     }
   ],
   "kombis": [
@@ -780,9 +799,9 @@
       "gesamtquote": 3.59,
       "rechnung": "1.50 x 1.80 x 1.33 = 3.59",
       "einsatz_euro": 20.0,
-      "einsatz_prozent": 2.0,
       "potential_gewinn_euro": 71.82,
-      "begruendung": "Drei Markt-Goldgruben-Beine: Torschuetzen Jederzeit (2x +24.4% ROI) + BTTS (+15.1% ROI). Haaland Leipzig-Rekord-Torschuetze, Gyokeres gegen Slavia-Chefstuermer-Ausfall-Spiel, Brugge-PSV mit gesicherter Tor-Erwartung. Drei verschiedene Spiele = Layer-1 OK, nur Torschuetzen-Markt gebunden (Layer-2 keine Sieg-Outcomes). Einsatz 20€ (2%, Kombi-SAFE-Regel Stufe 1). bet365 live pruefen."
+      "begruendung": "Drei Markt-Goldgruben-Beine: Torschuetzen Jederzeit (2x +24.4% ROI) + BTTS (+15.1% ROI). Haaland Leipzig-Rekord-Torschuetze, Gyokeres gegen Slavia-Chefstuermer-Ausfall-Spiel, Brugge-PSV mit gesicherter Tor-Erwartung. Drei verschiedene Spiele = Layer-1 OK, nur Torschuetzen-Markt gebunden (Layer-2 keine Sieg-Outcomes). Einsatz 20€ (2%, Kombi-SAFE-Regel Stufe 1). bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 2.0
     },
     {
       "name": "Balance-Kombi (Volume-9er + Tor-Totals)",
@@ -813,9 +832,9 @@
       "gesamtquote": 6.12,
       "rechnung": "2.00 x 1.75 x 1.75 = 6.12",
       "einsatz_euro": 8.0,
-      "einsatz_prozent": 0.8,
       "potential_gewinn_euro": 49.0,
-      "begruendung": "Drei verschiedene Markt-Logiken: Guirassy-Volume (Torschuetzen Goldgrube +24.4% ROI) + Fener-Liv offenes Spiel (Ueber 2.5 Goldgrube +40.4%) + Porto Clean-Sheet-Serie (Unter 2.5 Goldgrube +37.2%). Drei verschiedene Spiele, keine Sieg-Outcomes = Layer-2 sauber. Einsatz 8€ (0.8%, Kombi-Balance-Regel). bet365 live pruefen."
+      "begruendung": "Drei verschiedene Markt-Logiken: Guirassy-Volume (Torschuetzen Goldgrube +24.4% ROI) + Fener-Liv offenes Spiel (Ueber 2.5 Goldgrube +40.4%) + Porto Clean-Sheet-Serie (Unter 2.5 Goldgrube +37.2%). Drei verschiedene Spiele, keine Sieg-Outcomes = Layer-2 sauber. Einsatz 8€ (0.8%, Kombi-Balance-Regel). bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 0.8
     },
     {
       "name": "Risiko-Kombi (Torschuetzen-Triplett)",
@@ -846,9 +865,9 @@
       "gesamtquote": 13.52,
       "rechnung": "2.10 x 2.30 x 2.80 = 13.52",
       "einsatz_euro": 2.5,
-      "einsatz_prozent": 0.25,
       "potential_gewinn_euro": 33.81,
-      "begruendung": "Torschuetzen-Triplett quer durch die Ligen: Vinicius vs schwache AEK-Defense (Volume-Linksaussen), Isak als neuer Liverpool-9er gegen Fener-Defense (drittschwaechste CL), Nico Paz als Como-Spielmacher mit Form-Edge in CL. Drei verschiedene Spiele, keine Sieg-Outcomes = Layer-2 sauber. Zielquote ~13-14x. Einsatz 2.50€ (0.25%, Kombi-Risiko-Regel). bet365 live pruefen."
+      "begruendung": "Torschuetzen-Triplett quer durch die Ligen: Vinicius vs schwache AEK-Defense (Volume-Linksaussen), Isak als neuer Liverpool-9er gegen Fener-Defense (drittschwaechste CL), Nico Paz als Como-Spielmacher mit Form-Edge in CL. Drei verschiedene Spiele, keine Sieg-Outcomes = Layer-2 sauber. Zielquote ~13-14x. Einsatz 2.50€ (0.25%, Kombi-Risiko-Regel). bet365 live pruefen.",
+      "empfohlener_einsatz_prozent": 0.25
     },
     {
       "name": "Moonshot-Kombi (Underdogs + Tor-Explosion)",
@@ -886,9 +905,9 @@
       "gesamtquote": 134.84,
       "rechnung": "3.30 x 5.00 x 2.27 x 3.60 = 134.84",
       "einsatz_euro": 1.0,
-      "einsatz_prozent": 0.1,
       "potential_gewinn_euro": 134.84,
-      "begruendung": "Moonshot-Kombi: Real-AEK-Tor-Festival (4.5+) + Fener-Istanbul-Heim-Upset gegen Liverpool-Injury-Welle + Como-Form-Siegeszug gegen Lens-Krise + Hojlund-Tor als Volatilitaets-Boost. Zielquote 100x+, Einsatz 1€ (0.1% Spaßeinsatz, Kombi-Moonshot-Regel). bet365 live pruefen - echte Lotterie, aber keine coinflip-Beine."
+      "begruendung": "Moonshot-Kombi: Real-AEK-Tor-Festival (4.5+) + Fener-Istanbul-Heim-Upset gegen Liverpool-Injury-Welle + Como-Form-Siegeszug gegen Lens-Krise + Hojlund-Tor als Volatilitaets-Boost. Zielquote 100x+, Einsatz 1€ (0.1% Spaßeinsatz, Kombi-Moonshot-Regel). bet365 live pruefen - echte Lotterie, aber keine coinflip-Beine.",
+      "empfohlener_einsatz_prozent": 0.1
     }
   ],
   "lessons_angewandt": [
