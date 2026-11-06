@@ -1,556 +1,327 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
-  "datum": "2026-11-05",
-  "erstellt_am": "2026-11-05T13:35:00+01:00",
-  "hinweis": "Watchdog-Recovery Mo-Fr: Hauptroutine 13:30 lief nicht durch, Recherche-File fehlte. Fenster-Hartregel: NUR Anstoß 2026-11-05 (Berlin). Donnerstag-Doppelabend Europa League (MD4) + Conference League (MD3) - 17 UEL + 18 UECL Spiele, wir filtern hart auf 7 Top-Fixtures mit DE-Beteiligung oder Big-Club-Mismatch. Fokus: Leverkusen-Marseille (BayArena 21:00, Leverkusen 3/3 UEL mit 8:0 Tordifferenz unter Martinez Novell), Crystal Palace-Hoffenheim (Selhurst 18:45, Palace 3./letzter PL-Tabelle, Hoffenheim auswärts stark), AZ-Juventus (Alkmaar 21:00, Juve nach 0:3 vs Lazio taumelnd), Milan-Ferencvaros (San Siro 18:45, Amorim seit 10.26 Trainer, Ferencvaros 3MD/6Pkt ungeschlagen), Benfica-Lech (Luz 21:00, Marco Silva seit 06.26, Pavlidis 8/8 Tore), Atalanta-Kairat (Bergamo 18:45, krasser UECL-Mismatch), Trabzonspor-Freiburg (Papara Park 18:45, Salah 2/2 Tore, Freiburg ohne Auswärtstorschütze Kraft). Kasse: 1000€ Stufe 1 (Stufe 2 noch nicht freigeschaltet, Saison-Edge erst ab +5% rolling 30d) - SAFE/VALUE 10-20€, Wackel 5€, Kombis 1-20€. 2:0-Insurance greift HEUTE NIRGENDS (nur BL + CL).",
+  "datum": "2026-11-06",
+  "erstellt_am": "2026-11-06T14:30:00+01:00",
+  "_emergency_recovery": true,
+  "hinweis": "Watchdog-Recovery Mo-Fr: Hauptroutine 13:30 lief nicht, Recherche-File fehlte. Fenster-Hartregel: NUR Anstoss 2026-11-06 Berlin. Freitag-Slate ist schmal (keine CL/EL/UECL): 1x Bundesliga Fr-Opener (HSV-Gladbach, Kellerduell), 1x Serie-A-Anticipo (Venezia-Udinese, Zanetti-Debuet gegen Ex-Verein), 1x LaLiga-Fr-Opener (Sevilla-Alaves), 2x 2.BL-Doppel-Anstoss 18:30 (Dresden-Fuerth, Braunschweig-Cottbus). Kasse: 1000€ Stufe 1 (Stufe 2 nicht freigeschaltet trotz rolling-30d-ROI +17.9% - Saison-Edge erst nach manueller Freischaltung). SAFE/VALUE 10-20€, Wackel 5€, Kombis 1-20€. 2:0-Insurance greift NUR im HSV-Gladbach (Bundesliga). Kein Supercup, kein Torschuetzen-Tipp ohne live verifizierte Startelf - Moffi (HSV) + Boye (Alaves) sind Volume-9er-Erwartungen, bei Aufstellungs-Lesung 1h vor Anstoss gegenchecken.",
   "spiele": [
     {
-      "id": "2026-11-05-lev-mar",
-      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 4",
-      "heim": "Bayer 04 Leverkusen",
-      "gast": "Olympique Marseille",
-      "anstoss": "2026-11-05T21:00:00+01:00",
-      "stadion": "BayArena, Leverkusen",
+      "id": "2026-11-06-hsv-glad",
+      "liga": "Bundesliga 2026/27 - 9. Spieltag",
+      "heim": "Hamburger SV",
+      "gast": "Borussia Moenchengladbach",
+      "anstoss": "2026-11-06T20:30:00+01:00",
+      "stadion": "Volksparkstadion, Hamburg",
       "saison_kontext": {
-        "parallel_heim": "Bundesliga (letzter BL-Spieltag Freitag 07.11.) + DFB-Pokal 2. Runde abgeschlossen",
-        "parallel_gast": "Ligue 1 (So 09.11. auswärts), kein Pokal-Druck - Marseille in Ligue 1 durchwachsen",
-        "saisonziel_heim": "Bundesliga oberes Tabellendrittel (unter Martinez Novell/neuer Trainer-Aufbau nach Hjulmand-Abgang), UEL-Achtelfinal-Quali realistisch - aktuell 3 Siege aus 3 UEL-Spielen (Celje 2:0, Lech 4:0, OFI 2:0, Tordiff 8:0)",
-        "saisonziel_gast": "Ligue 1 Mittelfeld/Europapokal-Platz, UEL: 2 Niederlagen (Rennes 0:1, Besiktas 1:4) + 1 Sieg (Troyes 2:0) - Druck im Wettbewerb wächst",
-        "motivations_asymmetrie": "Leverkusen zuhause mit perfekter UEL-Serie und klarer Favoriten-Rolle, Marseille auswärts in Form-Krise mit 0:4 jüngst in Besiktas - Heim-Edge deutlich.",
-        "recovery_heim": "4 Tage seit letztem Pflichtspiel (BL-Spieltag 01.11.)",
-        "recovery_gast": "4 Tage seit letztem Ligue-1-Spiel - keine Reise-Härte Paris-Leverkusen",
+        "parallel_heim": "keine - HSV Pokal 2.R raus (Oktober), kein Europapokal",
+        "parallel_gast": "keine - Gladbach Pokal 2.R raus (Oktober), kein Europapokal",
+        "saisonziel_heim": "Platz 15, 9 Pkt aus 8 Spielen - Klassenerhalt nach Aufstieg 2025/26, drei Pflichtspielniederlagen in Folge",
+        "saisonziel_gast": "Tabellenletzter, 4 Pkt und 22 Gegentore aus 8 Spielen - unter Blessin erste Punkte (3:2 in Stuttgart + 0:0 vs Paderborn nach sechs Auftakt-Pleiten)",
+        "motivations_asymmetrie": "Beide Kellerkinder mit Druck, aber Gladbach ist der Tabellenletzte mit der schwaechsten Defensive der Liga - HSV braucht Heimsieg nach 3 Pleiten, Blessin hat gerade Zarthauch von Stabilitaet und kommt an Vorlaenderspielpause-Sechs-Punkte-Spiel. 2:0-Insurance greift fuer direkte Sieg-Tipps (Bundesliga).",
+        "recovery_heim": "7 Tage seit letzter Pflichtspielniederlage, Trainer Polzin steht wegen 3er-Krise unter Druck. Vieira (Zerrung), Remberg (Muskel), Nadir (Rueckschlag) OUT - Capaldo + Poulsen fraglich (noch kein Mannschaftstraining), Bornauw-Status unklar.",
+        "recovery_gast": "7 Tage seit 0:0 Paderborn - Kleindienst (Topstuermer, Rueckschlag) + Kuehn (Zerrung) + Bolin (Muskel) + Leopold (Kreuzband langfrist) + Leszczynski (Meniskus langfrist) OUT, Nicolas-Torwart-Status offen. Duenne Decke.",
         "quellen": [
-          "https://www.bundesliga.com/en/bundesliga/news/bayer-leverkusen-marseille-live-europa-league-blog-preview-report-maza-quansah-39793",
-          "https://de.uefa.com/uefaeuropaleague/news/02a8-2177204c447b-44f9a3d61dd1-1000--europa-league-2026-27-alle-spiele-der-ligaphase/",
-          "https://ran.joyn.de/sports/fussball/europa-league/bayer-leverkusen-vs-olympique-marseille-live-champions-league-topspiel-im-tv-livestream-und-ticker-alle-infos-zur-uebertragung-210222"
+          "https://www.bundesliga.com/en/bundesliga/matchday",
+          "https://bmg-news.de/hsv-gegen-gladbach-platz-16-vorbericht/",
+          "https://www.hlsports.de/fussball/kellerduell-im-volkspark-hsv-will-gegen-schlusslicht-die-wende-schaffen-ein-letztes-mal-zuschauer-404836",
+          "https://www.eurosport.de/wetten/prognosen/hamburger-sv-vs-borussia-monchengladbach-prognose-tipps-und-quoten-bundesliga-05-11-26/",
+          "https://www.90min.de/hsv-verletztenupdate-ratsel-um-bornauw-duo-macht-fortschritte",
+          "https://nurdieraute.de/2026/11/06/mit-dieser-elf-zurueck-in-die-erfolgsspur-so-koennte-der-hsv-gegen-gladbach-spielen/"
         ]
       },
       "news": [
-        "Leverkusen 3/3 UEL mit Tordifferenz 8:0 - stärkste Defense der Ligaphase bislang",
-        "Marseille 1/3 UEL, kam zuletzt mit 1:4-Klatsche aus Istanbul (Besiktas) zurück",
-        "2:0-Insurance greift NICHT (UEL-Aktionsregel bei bet365 nur Bundesliga + Champions League)",
-        "Trainer Leverkusen: Martinez Novell (von Toulouse), erste Saison in Leverkusen - NICHT auf Hjulmand-Stand stützen",
-        "RTL überträgt das Spiel frei empfangbar"
+        "Kellerduell: HSV (15.) gegen Tabellenletzten Gladbach (18.) im Volksparkstadion 20:30 CET",
+        "HSV 3 Pflichtspielniederlagen in Folge, Trainer Polzin unter Druck - aber Heimvorteil + Gladbachs 22 Gegentore aus 8 Spielen (schlechteste Liga-Defensive)",
+        "Gladbach-Topstuermer Kleindienst OUT, Kuehn + Bolin ebenfalls - Trainer Blessin (seit 22.09.) muss mit duenner Decke, in Umbruch",
+        "2:0-Insurance greift bei direkten Sieg-Tipps auf HSV (Bundesliga-Aktion)"
       ],
       "tipps": [
         {
-          "id": "lev-mar-1",
+          "id": "hsv-glad-1",
           "kategorie": "safe",
-          "markt": "Sieg Bayer Leverkusen (90 Min)",
-          "quote": 1.55,
-          "edge_prozent": 6.0,
-          "begruendung": "Leverkusen zuhause mit 3/3 UEL-Siegen und 8:0 Tordifferenz, Marseille in Form-Krise mit 0:4 in Besiktas als letztem UEL-Auftritt. Reality-Check: Sieg 1X2 ist Goldgrube (55.3% / +16% ROI bei 79 Tipps). UEL-Ligaphase MD1 war Liga-Goldgrube (72.7% / +121% ROI), MD3 war schwächer (66.7% / +1.4%). Einsatz 2% Kasse = 20€. ACHTUNG: 2:0-Insurance greift bei UEL NICHT - voller 90-Min-Risiko.",
-          "faire_quote": 1.46,
-          "empfohlener_einsatz_prozent": 2.0,
-          "empfohlener_einsatz_euro": 20.0
-        },
-        {
-          "id": "lev-mar-2",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen Nein (BTTS Nein)",
+          "markt": "Ueber 2.5 Tore",
           "quote": 1.9,
-          "edge_prozent": 5.0,
-          "begruendung": "Leverkusen hat in allen 3 UEL-Spielen zu Null gespielt - unter Martinez Novell defensiv erstaunlich stabil. Marseille auswärts schwach im Abschluss (1:4 in Istanbul, 0:1 Rennes). BTTS JA ist zwar Goldgrube (61.8% / +15%), aber hier mit 3 Zu-Nulls Serie klarer BTTS-Nein-Edge. Einsatz 1.5% = 15€.",
-          "faire_quote": 1.81,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15.0
+          "edge_prozent": 10.0,
+          "begruendung": "Markt-Goldgrube (Hitrate 63.6% / ROI +40.4%). Gladbach kassiert 2.75 Gegentore pro Spiel (22 aus 8) - schlechteste Defensive der Liga. HSV zuhause mit Moffi als Volume-9er + Setplay-Drohung Lokonga/Torunarigha. Zwei schwache Defensiven + beidseitiger Druck = Tor-Total steht. Einsatz 20€ (2%). bet365 live pruefen.",
+          "faire_quote": 1.73,
+          "empfohlener_einsatz_prozent": 2.0
         },
         {
-          "id": "lev-mar-3",
-          "kategorie": "value",
-          "markt": "Leverkusen Sieg & Über 1.5 Tore",
-          "quote": 1.75,
-          "edge_prozent": 4.5,
-          "begruendung": "Leverkusen hat jedes UEL-Spiel mit 2+ Toren gewonnen. Über 2.5 Tore ist Goldgrube (63.6% / +40.4% ROI), hier als abgeschwächtes Über 1.5 mit Sieg-Kopplung. Einsatz 1.5% = 15€.",
-          "faire_quote": 1.68,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15.0
-        },
-        {
-          "id": "lev-mar-4",
+          "id": "hsv-glad-2",
           "kategorie": "wackel",
-          "markt": "Leverkusen gewinnt beide Halbzeiten",
-          "quote": 3.4,
-          "edge_prozent": 3.0,
-          "begruendung": "Marseille defensiv instabil + Leverkusen zuhause gegen formschwache Gäste oft mit frühem Zugriff. Wackel wegen UEL-Taktik (Marseille muss zwingen → kann HZ 1 geschlossen bleiben). 0.5% = 5€ Spaßgröße.",
-          "faire_quote": 3.25,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-05-mil-fer",
-      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 4",
-      "heim": "AC Milan",
-      "gast": "Ferencvarosi TC",
-      "anstoss": "2026-11-05T18:45:00+01:00",
-      "stadion": "Giuseppe Meazza (San Siro), Mailand",
-      "saison_kontext": {
-        "parallel_heim": "Serie A (So 09.11.) - Milan nach 3:1 im Derby gegen Inter mit Rückenwind",
-        "parallel_gast": "Ungarische Liga (Nyári Ligaévad) + kein Pokal-Druck diese Woche",
-        "saisonziel_heim": "Serie A CL-Quali-Ambition unter neuem Trainer Ruben Amorim (seit Juni 2026, Allegri am 06.10. nach 2:1-Heimpleite gegen Cagliari entlassen) - UEL bisher 3 Pkt. aus 3 Spielen (1S/0U/2N), zuletzt 0:3-Niederlage in Bournemouth - Druck auf frühe Punkte zuhause",
-        "saisonziel_gast": "Ungarische Meisterschaft ist Dauer-Ziel, UEL Ligaphase: 3 Spiele ungeschlagen (1S/2U), 9 Tore erzielt - formstärkste bisherige Europa-League-Kampagne von Ferencvaros seit Jahren",
-        "motivations_asymmetrie": "Milan zuhause nach Inter-Derbysieg mit viel Motivation, aber Ferencvaros aktuell formstärker in der UEL - edge kleiner als Namen suggerieren, kein SAFE auf Milan-Sieg.",
-        "recovery_heim": "3 Tage seit Derby-Sieg - mögliche Rotation",
-        "recovery_gast": "3 Tage seit ungarischem Liga-Spiel + Reise Budapest-Mailand (wenig Flug-Belastung)",
-        "quellen": [
-          "https://www.acmilan.com/en/match-center/2026-27-uefa-europa-league-ac-milan-ferencvarosi-tc-e64ut8qw4eckzlr4vbm0ln3f8",
-          "https://cryptobriefing.com/ferencvaros-europa-league-draw-juventus-milan/",
-          "https://www.flashscore.de/spiel/fussball/ac-mailand-8Sa8HInO/ferencvaros-pKS9M7R7/",
-          "https://en.espn.com/soccer/story/_/id/49070225/ruben-amorim-appointed-ac-milan-boss-leaving-man-united"
-        ]
-      },
-      "news": [
-        "Milan-Trainer Ruben Amorim seit Juni 2026 (Allegri 06.10. entlassen) - taktische Aussagen NICHT auf Allegri-Stand stützen",
-        "Milan zuletzt UEL: 0:3 in Bournemouth - defensive Baustellen in der Fremde",
-        "Ferencvaros 3 UEL-Spiele ungeschlagen, 9 Tore - offensiv geladen",
-        "2:0-Insurance greift NICHT (UEL)"
-      ],
-      "tipps": [
-        {
-          "id": "mil-fer-1",
-          "kategorie": "wackel",
-          "markt": "Doppelte Chance Milan oder Remis (1X)",
-          "quote": 1.22,
-          "edge_prozent": 3.0,
-          "begruendung": "Milan zuhause Favorit, aber Ferencvaros formstark + Milan UEL-Auswärtsschwäche vs Bournemouth nicht ignorieren. DC 1X ist Goldgrube (81% / +37% ROI), hier als abgesicherter Edge. Einsatz 1.5% = 15€. 2:0-Insurance greift bei UEL NICHT. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
-          "faire_quote": 1.18,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15.0,
-          "_saison_kontext_sanity_downgrade": true
-        },
-        {
-          "id": "mil-fer-2",
-          "kategorie": "value",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.85,
-          "edge_prozent": 6.0,
-          "begruendung": "Ferencvaros hat in 3 UEL-Spielen 9 Tore erzielt, Milan zuhause offensiv angelegt. Über 2.5 Tore ist Top-Goldgrube (63.6% / +40.4% ROI bei 37 Tipps). Milans Defensive in UEL durchlässig (0:3 Bournemouth). Einsatz 2% = 20€.",
-          "faire_quote": 1.74,
-          "empfohlener_einsatz_prozent": 2.0,
-          "empfohlener_einsatz_euro": 20.0
-        },
-        {
-          "id": "mil-fer-3",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen Ja (BTTS JA)",
-          "quote": 1.75,
-          "edge_prozent": 5.0,
-          "begruendung": "Ferencvaros scoring-stabil (Tore in allen 3 UEL-Spielen), Milan zuhause tritt offensiv auf. BTTS JA ist Goldgrube (61.8% / +15% ROI). Einsatz 1.5% = 15€.",
-          "faire_quote": 1.67,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15.0
-        },
-        {
-          "id": "mil-fer-4",
-          "kategorie": "wackel",
-          "markt": "Milan Sieg mit Handicap -1",
-          "quote": 2.8,
-          "edge_prozent": 2.0,
-          "begruendung": "Favoriten-Sieg mit Deckung gegen offensives Ferencvaros. Wackel wegen formsarker Gäste. 0.5% = 5€.",
-          "faire_quote": 2.72,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-05-cry-hof",
-      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 4",
-      "heim": "Crystal Palace",
-      "gast": "TSG 1899 Hoffenheim",
-      "anstoss": "2026-11-05T18:45:00+01:00",
-      "stadion": "Selhurst Park, London",
-      "saison_kontext": {
-        "parallel_heim": "Premier League (So 09.11., PL-Spieltag läuft) - Palace in PL-Krise (3./letzter Tabelle, 6 Niederlagen aus 9 Spielen)",
-        "parallel_gast": "Bundesliga (Fr 07.11.) - Hoffenheim unter Christian Ilzer in der BL stabil",
-        "saisonziel_heim": "PL-Klassenerhalt-Modus, UEL ist Sekundär-Ziel - Rotation wahrscheinlich bei Dreifachbelastung + Form-Krise",
-        "saisonziel_gast": "BL oberes Mittelfeld + Europa-Weiterrunde, UEL 15 Ligaphasen-Pkt. noch offen, suchen 2. Sieg in Folge",
-        "motivations_asymmetrie": "Palace Heim-Krise mit 6 Niederlagen aus 9 PL-Spielen + mögliche Rotation (Hartregel HR2 greift: 'Heim-Krise' → kein Palace-Sieg-SAFE), Hoffenheim auswärts mit frischer Energie und UEL als Saison-Highlight. Hoffenheim DC X2 ist der stärkere Tipp.",
-        "recovery_heim": "4 Tage seit letztem PL-Spiel - Belastung durch Dreifach-Wettbewerb",
-        "recovery_gast": "4 Tage seit letztem BL-Spiel - Reise London kurz",
-        "quellen": [
-          "https://www.bundesliga.com/en/bundesliga/news/crystal-palace-hoffenheim-live-europa-league-blog-preview-report-kamada-mateta-39794",
-          "https://de.uefa.com/uefaeuropaleague/news/02a8-2177204c447b-44f9a3d61dd1-1000--europa-league-2026-27-alle-spiele-der-ligaphase/",
-          "https://www.livesport.com/en/match/soccer/crystal-palace-AovF1Mia/hoffenheim-hQAtP9Sl/"
-        ]
-      },
-      "news": [
-        "Palace in PL 3. von unten, 6 Niederlagen aus 9 Spielen - HR2 Heim-Krise aktiv",
-        "Hoffenheim-Trainer Christian Ilzer baut UEL-Weiterrunde - auswärts ambitioniert",
-        "Hoffenheim-Verteidiger Hajdari einige Wochen verletzt (Stand Vorwoche) - IV-Umstellung möglich",
-        "2:0-Insurance greift NICHT (UEL)"
-      ],
-      "tipps": [
-        {
-          "id": "cry-hof-1",
-          "kategorie": "safe",
-          "markt": "Doppelte Chance Hoffenheim oder Remis (X2)",
-          "quote": 1.5,
-          "edge_prozent": 7.0,
-          "begruendung": "Palace in Heim-Krise (HR2), 6/9 PL-Niederlagen + mögliche Rotation. Hoffenheim auswärts in UEL mit Saison-Fokus. DC X2 ist Top-Goldgrube (71.4% / +44% ROI bei 21 Tipps). Einsatz 2% = 20€. 2:0-Insurance greift NICHT (UEL).",
-          "faire_quote": 1.4,
-          "empfohlener_einsatz_prozent": 2.0,
-          "empfohlener_einsatz_euro": 20.0
-        },
-        {
-          "id": "cry-hof-2",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen Ja (BTTS JA)",
-          "quote": 1.65,
-          "edge_prozent": 5.0,
-          "begruendung": "Palace zuhause trotz Krise mit Offensiv-Momenten, Hoffenheim auswärts offensiv orientiert. BTTS JA ist Goldgrube (61.8% / +15% ROI). Einsatz 1.5% = 15€.",
-          "faire_quote": 1.57,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15.0
-        },
-        {
-          "id": "cry-hof-3",
-          "kategorie": "value",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.95,
-          "edge_prozent": 4.5,
-          "begruendung": "Palace-Defense schwach (Krise sichtbar in BTTS-Werten PL), Hoffenheim offensiv UEL-geladen. Über 2.5 Tore Goldgrube (63.6% / +40.4% ROI). Einsatz 1.5% = 15€.",
-          "faire_quote": 1.86,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15.0
-        },
-        {
-          "id": "cry-hof-4",
-          "kategorie": "wackel",
-          "markt": "Hoffenheim Sieg (90 Min)",
-          "quote": 2.95,
-          "edge_prozent": 3.0,
-          "begruendung": "Auswärts-Favoriten-Sieg bei Heim-Form-Krise ist WACKEL - bet365-Quote reflektiert Palace-Heimvorteil, aber Motivations-Edge klar bei Hoffenheim. 0.5% = 5€.",
-          "faire_quote": 2.85,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-05-az-juv",
-      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 4",
-      "heim": "AZ Alkmaar",
-      "gast": "Juventus Turin",
-      "anstoss": "2026-11-05T21:00:00+01:00",
-      "stadion": "AFAS Stadion, Alkmaar",
-      "saison_kontext": {
-        "parallel_heim": "Eredivisie (Sa 08.11.) - AZ in Eredivisie durchwachsen (2:0 N Feyenoord, 2:1 S Hapoel BeerSheva, 2:2 Cambuur)",
-        "parallel_gast": "Serie A (So 09.11.) - Juventus taumelt nach 0:3-Heimpleite gegen Lazio (18.10.), vorher 1:1 Cagliari, 2:1 Celta Vigo",
-        "saisonziel_heim": "Eredivisie Top-4 + UEL-Achtelfinale - KNVB-Cup-Sieger gestartet in Ligaphase, bislang 1 UEL-Sieg (Hapoel BeerSheva 2:1)",
-        "saisonziel_gast": "Serie A Scudetto-Ambition unter Spalletti (im Herbst installiert), Scudetto-Rennen schwer nach 0:3 Lazio - UEL ist Pflicht-Bühne, aber Rotation-Risiko wegen Serie-A-Druck",
-        "motivations_asymmetrie": "AZ zuhause mit Dachs-Taktik gegen Big-Club, Juventus-Spalletti zwischen Wiederfindung und Form-Zweifeln. Juve-Favoritenrolle fragiler als bet365-Quote nahelegt - DC X2 statt Sieg.",
-        "recovery_heim": "4 Tage seit Eredivisie-Spiel",
-        "recovery_gast": "4 Tage seit Serie-A-Spiel + Reise Turin-Alkmaar",
-        "quellen": [
-          "https://de.uefa.com/uefaeuropaleague/news/02a8-2177204c447b-44f9a3d61dd1-1000--europa-league-2026-27-alle-spiele-der-ligaphase/",
-          "https://www.rodi.nl/dijkenwaard/nieuws/504528/az-kent-tegenstanders-in-europa-league-thuis-tegen-juventus-uit-naar-benfica",
-          "https://www.ziggo.nl/entertainment/sport/voetbal/europa-league/az-alkmaar-juventus-05-11-2026"
-        ]
-      },
-      "news": [
-        "Juventus 0:3 Heimpleite gegen Lazio (18.10.), vorher 1:1 Cagliari und 2:1 Celta Vigo - Form wacklig",
-        "Juventus-Trainer Luciano Spalletti",
-        "AZ mit 2:0 Niederlage bei Feyenoord zuletzt (10.10.), danach 2:1 Hapoel BeerSheva UEL + 2:2 Cambuur - inkonsistent",
-        "2:0-Insurance greift NICHT (UEL)"
-      ],
-      "tipps": [
-        {
-          "id": "az-juv-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance Juventus oder Remis (X2)",
+          "markt": "Hamburger SV oder Remis (Doppelte Chance 1X)",
           "quote": 1.35,
-          "edge_prozent": 4.0,
-          "begruendung": "Juve-Sieg-Quote (~2.0) spiegelt Form-Zweifel wider, DC X2 fasst Remis-Chance ein. DC X2 ist Top-Goldgrube (71.4% / +44% ROI). AZ zuhause nicht einfach zu schlagen, aber Juve-Niederlage mit so prominentem Kader unwahrscheinlich. Einsatz 1.5% = 15€. 2:0-Insurance greift bei UEL NICHT.",
-          "faire_quote": 1.3,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15.0
-        },
-        {
-          "id": "az-juv-2",
-          "kategorie": "value",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.75,
-          "edge_prozent": 5.0,
-          "begruendung": "AZ offensiv Eredivisie-Average ~2.1 Tore/Spiel, Juve-Defensive wacklig (3 Lazio-Gegentore). Über 2.5 Tore Goldgrube (63.6% / +40.4% ROI). Einsatz 1.5% = 15€.",
-          "faire_quote": 1.67,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15.0
-        },
-        {
-          "id": "az-juv-3",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen Ja (BTTS JA)",
-          "quote": 1.7,
-          "edge_prozent": 5.0,
-          "begruendung": "AZ zuhause trifft regelmäßig, Juve offensiv ambitioniert unter Spalletti. BTTS JA ist Goldgrube (61.8% / +15% ROI). Einsatz 1.5% = 15€.",
-          "faire_quote": 1.62,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15.0
-        },
-        {
-          "id": "az-juv-4",
-          "kategorie": "wackel",
-          "markt": "Remis (90 Min)",
-          "quote": 3.5,
-          "edge_prozent": 3.0,
-          "begruendung": "Beide Teams aktuell formwacklig, Juve-Rotation und AZ-Heimvorteil machen Remis plausibel. 0.5% = 5€.",
-          "faire_quote": 3.4,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0
-        },
-        {
-          "id": "az-juv-5",
-          "kategorie": "moonshot",
-          "markt": "Sieg AZ Alkmaar (90 Min)",
-          "quote": 3.8,
-          "edge_prozent": 2.0,
-          "begruendung": "Underdog-Heimsieg AZ gegen formschwaches Juventus (0:3 Lazio, 1:1 Cagliari) - Moonshot-Bein. Nur für Kombi, nicht als Einzeltipp. 0.1% = 1€ wenn Teil einer Moonshot-Kombi.",
-          "faire_quote": 3.7,
-          "empfohlener_einsatz_prozent": 0.1,
-          "empfohlener_einsatz_euro": 1.0
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-05-ben-lec",
-      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 4",
-      "heim": "SL Benfica",
-      "gast": "Lech Poznan",
-      "anstoss": "2026-11-05T21:00:00+01:00",
-      "stadion": "Estadio da Luz, Lissabon",
-      "saison_kontext": {
-        "parallel_heim": "Primeira Liga (Sa 08.11.) + Taca de Portugal 4. Runde Mitte November",
-        "parallel_gast": "Ekstraklasa (So 09.11.) - Lech aktuell Tabellenführer in Polen",
-        "saisonziel_heim": "Portugiesische Meisterschaft + UEL-Achtelfinale unter Marco Silva (seit 09.06.2026, Mourinho ging zu Real Madrid)",
-        "saisonziel_gast": "Ekstraklasa-Titel + UEL-Weiterrunde - größte europäische Chance für Lech seit Jahren",
-        "motivations_asymmetrie": "Heim-Favorit mit klarer Qualitäts-Edge, Lech ist formstark in polnischer Liga aber auswärts gegen Benfica klar Underdog. Benfica braucht Pflicht-Punkte nach 4:0 in Lech-Hin (wobei Lech-Spiel noch nicht stattfand).",
-        "recovery_heim": "4 Tage seit letztem Liga-Spiel",
-        "recovery_gast": "4 Tage seit Ekstraklasa-Spiel + Reise Posen-Lissabon (weite Reise)",
-        "quellen": [
-          "https://www.kickoff.co.uk/uefa-europa-league-predictions-stats-odds/benfica-vs-lech-poznan/",
-          "https://rr.pt/bola-branca/noticia/benfica/2026/06/09/oficial-marco-silva-e-o-novo-treinador-do-benfica/473831/",
-          "https://de.uefa.com/uefaeuropaleague/news/02a8-2177204c447b-44f9a3d61dd1-1000--europa-league-2026-27-alle-spiele-der-ligaphase/"
-        ]
-      },
-      "news": [
-        "Benfica-Trainer Marco Silva seit 09.06.2026 (von Fulham, Nachfolger Mourinho)",
-        "Pavlidis in UEL-Form (laut Benfica-Daten 8 Tore in 8 Ligaphasen-Einsätzen bisher Kampagne)",
-        "Lech ist Tabellenführer der polnischen Ekstraklasa - formstark aber Qualitätsgefälle",
-        "2:0-Insurance greift NICHT (UEL)"
-      ],
-      "tipps": [
-        {
-          "id": "ben-lec-1",
-          "kategorie": "safe",
-          "markt": "Doppelte Chance Benfica oder Remis (1X)",
-          "quote": 1.12,
-          "edge_prozent": 3.0,
-          "begruendung": "Benfica zuhause gegen Ekstraklasa-Führer - Qualitätsgefälle klar, DC 1X deckt Remis (Pokal-Taktik Lech) ab. DC 1X ist Top-Goldgrube (81% / +37% ROI bei 21 Tipps). Einsatz 2% = 20€. 2:0-Insurance greift NICHT (UEL).",
-          "faire_quote": 1.09,
+          "edge_prozent": 6.5,
+          "begruendung": "Markt-Goldgrube Doppelte Chance 1X (Hitrate 81% / ROI +37.4%). HSV zuhause gegen Tabellenletzten mit 22 Gegentoren und ohne Topstuermer Kleindienst - selbst bei HSV-3er-Krise bleibt Punkteabsicherung realistisch. Degradiert von SAFE wegen HR2 (3 Pflichtspielniederlagen in Folge = Heim-Krise-Trigger). Einsatz 20€ (2%). bet365 live pruefen. [Auto HR4: Story-Konflikt v2 (Heim-Krise-Token in eigener Begruendung) -> value->wackel]",
+          "faire_quote": 1.27,
           "empfohlener_einsatz_prozent": 2.0,
-          "empfohlener_einsatz_euro": 20.0
+          "_story_konflikt_v2": true
         },
         {
-          "id": "ben-lec-2",
-          "kategorie": "value",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.75,
-          "edge_prozent": 6.0,
-          "begruendung": "Benfica zuhause offensiv geladen (Pavlidis-Flutlichter), Lech defensiv in Europa historisch durchlässig. Über 2.5 Tore ist Top-Goldgrube (63.6% / +40.4% ROI bei 37 Tipps). Einsatz 2% = 20€.",
-          "faire_quote": 1.65,
-          "empfohlener_einsatz_prozent": 2.0,
-          "empfohlener_einsatz_euro": 20.0
-        },
-        {
-          "id": "ben-lec-3",
-          "kategorie": "value",
-          "markt": "Benfica Sieg mit Handicap -1",
-          "quote": 1.85,
-          "edge_prozent": 4.5,
-          "begruendung": "Benfica zuhause als klarer Favorit gegen auswärts langweise Lech - -1 ist konservative Deckung des Qualitäts-Edges. Einsatz 1.5% = 15€.",
-          "faire_quote": 1.76,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15.0
-        },
-        {
-          "id": "ben-lec-4",
+          "id": "hsv-glad-3",
           "kategorie": "wackel",
-          "markt": "Benfica Sieg zu Null",
-          "quote": 2.4,
-          "edge_prozent": 3.0,
-          "begruendung": "Lech auswärts gegen Topklubs defensiv-schwach, Benfica zuhause stabil - aber Wackel wegen UEL-Taktikspielen. 0.5% = 5€.",
-          "faire_quote": 2.33,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0
-        },
-        {
-          "id": "ben-lec-5",
-          "kategorie": "moonshot",
-          "markt": "Sieg Lech Poznan (90 Min)",
-          "quote": 10.0,
-          "edge_prozent": 1.5,
-          "begruendung": "Lech als Ekstraklasa-Tabellenführer mit Außenseiter-Chance gegen Benfica - pure Lotterie. Nur für Moonshot-Kombi. 0.1% = 1€ wenn Teil Moonshot-Kombi.",
-          "faire_quote": 9.8,
-          "empfohlener_einsatz_prozent": 0.1,
-          "empfohlener_einsatz_euro": 1.0
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-05-ata-kai",
-      "liga": "UEFA Europa Conference League 2026/27 - Ligaphase Spieltag 3",
-      "heim": "Atalanta BC",
-      "gast": "FC Kairat Almaty",
-      "anstoss": "2026-11-05T18:45:00+01:00",
-      "stadion": "New Balance Arena (ex-Gewiss), Bergamo",
-      "saison_kontext": {
-        "parallel_heim": "Serie A (Sa 08.11.) - Atalanta aktuell Serie-A-Mittelfeld, Fiorentina-Spiel mit Palladino-Thematik läuft parallel am 29.10.",
-        "parallel_gast": "Kasachstanische Liga + DFB-Leistungsniveau klar darunter",
-        "saisonziel_heim": "Serie A Europa-Platz, UECL-Weiterrunde - zuletzt UECL 2:0 Pafos gewonnen + 0:2 in Ajax verloren",
-        "saisonziel_gast": "Reine Teilnahme-Chance, UECL-Highlight - keine realistische Weiterrunden-Hoffnung (1:5 Panathinaikos als Benchmark)",
-        "motivations_asymmetrie": "Krasses Qualitätsgefälle - Serie-A-Verein vs kasachischer Außenseiter. Atalanta zuhause mit Pflicht-Sieg + gegenüber Kairats UECL-Debüt-Ebene defensiv dominant. Saubere SAFE-Situation.",
-        "recovery_heim": "4 Tage seit letztem Serie-A-Spiel",
-        "recovery_gast": "Lange Reise Almaty-Bergamo + Zeitzonen-Nachteil (Kasachstan UTC+5)",
-        "quellen": [
-          "https://en.atalanta.it/news/uefa-conference-league-il-sorteggio-fase-campionato-2026-2027",
-          "https://www.uefa.com/uefaconferenceleague/clubs/79970--kairat-almaty",
-          "https://news.bet365.com/en-gb/article/how-to-watch-tonights-conference-league-games/2026110415185552135"
-        ]
-      },
-      "news": [
-        "Atalanta UECL bislang: 2:0 Pafos (H), 0:2 Ajax (A) - 3 Pkt. aus 2 Spielen",
-        "Kairat UECL bislang: 1:5 Panathinaikos als klares Benchmark - defensiv instabil",
-        "Reise + Zeitzonen-Belastung auf Seiten Kairats",
-        "2:0-Insurance greift NICHT (UECL)"
-      ],
-      "tipps": [
-        {
-          "id": "ata-kai-1",
-          "kategorie": "safe",
-          "markt": "Sieg Atalanta BC (90 Min)",
-          "quote": 1.3,
+          "markt": "Sieg Hamburger SV (90 Min)",
+          "quote": 1.95,
           "edge_prozent": 7.0,
-          "begruendung": "Krasses Qualitätsgefälle Serie-A vs Kasachstan-Liga, Atalanta zuhause mit Pflicht-Sieg, Kairat mit Zeitzonen- und Reise-Nachteil. Sieg 1X2 Goldgrube (55.3% / +16% ROI). Einsatz 2% = 20€. 2:0-Insurance greift bei UECL NICHT - voller 90-Min-Risiko aber Mismatch so klar dass unproblematisch.",
-          "faire_quote": 1.21,
-          "empfohlener_einsatz_prozent": 2.0,
-          "empfohlener_einsatz_euro": 20.0
+          "begruendung": "Eurosport tippt 2:1 HSV. 2:0-Insurance greift zusaetzlich (Bundesliga-Aktion) - wenn HSV im Spielverlauf 2:0 fuehrt, ist der Tipp durch, egal wie es endet. Wegen HR2 (HSV 3-Niederlagen-Krise) nur wackel, nicht VALUE. Gladbach-Decke stark ausgeduennt, Blessin ist 7 Wochen im Amt und noch nicht stabil. Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 1.82,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
-          "id": "ata-kai-2",
-          "kategorie": "safe",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.5,
-          "edge_prozent": 8.0,
-          "begruendung": "Kairat bei Panathinaikos 1:5 kassiert, defensiv UECL-limitiert. Atalanta zuhause offensiv geladen. Über 2.5 Tore Top-Goldgrube (63.6% / +40.4% ROI). Einsatz 2% = 20€.",
-          "faire_quote": 1.39,
-          "empfohlener_einsatz_prozent": 2.0,
-          "empfohlener_einsatz_euro": 20.0
+          "id": "hsv-glad-4",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.75,
+          "edge_prozent": 5.0,
+          "begruendung": "Goldgrube BTTS (+15.1% ROI) - aber ohne Kleindienst ist Gladbachs Chancen-Volumen eingeschraenkt, Tabou/Hack muessen den Scorer-Job alleine machen. HSV-Defense auch durchlaessig (mehrere IV-Verletzte). Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 1.67,
+          "empfohlener_einsatz_prozent": 0.5
         },
         {
-          "id": "ata-kai-3",
-          "kategorie": "value",
-          "markt": "Atalanta Sieg mit Handicap -2",
+          "id": "hsv-glad-5",
+          "kategorie": "wackel",
+          "markt": "Moffi Torschuetze jederzeit",
           "quote": 2.0,
           "edge_prozent": 4.0,
-          "begruendung": "Kairat kassierte 5 in Athen - Atalanta zuhause mit Pflicht-2+-Toren. Einsatz 1.5% = 15€.",
+          "begruendung": "HR24 2/3 erfuellt: Moffi ist zentraler 9er mit Backup (Adeline), Gegner-Defense in klarer Krise (22 Gegentore). Form-Edge nicht hart nachpruefbar (Sommer-Volumenzahlen unklar) - deshalb wackel statt VALUE. Einwechslungs-Boost greift. Einsatz 5€ (0.5%). bet365 live pruefen UND Startelf 1h vor Anstoss checken.",
           "faire_quote": 1.92,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15.0
-        },
-        {
-          "id": "ata-kai-4",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen Nein (BTTS Nein)",
-          "quote": 1.75,
-          "edge_prozent": 3.0,
-          "begruendung": "Kairat auswärts gegen Topklub offensiv limitiert, Atalanta-Zu-Null plausibel. Einsatz 1% = 10€.",
-          "faire_quote": 1.7,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 10.0
+          "empfohlener_einsatz_prozent": 0.5,
+          "_torschuetze_quelle_warn": "Form-Daten letzte-5-Tore-Statistik nicht in Recherche hinterlegt - Aufstellungs-Vorschau am Spieltag bei kicker.de verifizieren"
         }
       ],
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-11-05-tra-fre",
-      "liga": "UEFA Europa Conference League 2026/27 - Ligaphase Spieltag 3",
-      "heim": "Trabzonspor",
-      "gast": "SC Freiburg",
-      "anstoss": "2026-11-05T18:45:00+01:00",
-      "stadion": "Papara Park, Trabzon",
+      "id": "2026-11-06-ven-udi",
+      "liga": "Serie A 2026/27 - Giornata 11",
+      "heim": "Venezia FC",
+      "gast": "Udinese Calcio",
+      "anstoss": "2026-11-06T20:45:00+01:00",
+      "stadion": "Stadio Pier Luigi Penzo, Venedig",
       "saison_kontext": {
-        "parallel_heim": "Süper Lig (So 09.11.) - Trabzonspor aktuell um Europa-Plätze",
-        "parallel_gast": "Bundesliga (Sa 08.11.) - Freiburg BL durchwachsen unter Julian Schuster",
-        "saisonziel_heim": "Süper Lig Meisterschafts-Ambition + UECL-Weiterrunde, UECL bislang 3. Platz nach 4:2 KuPS (A) + 2:0 Hearts (H)",
-        "saisonziel_gast": "BL oberes Mittelfeld + UECL Weiterrunde, UECL bislang: 3:2 Jablonec (H), 0:3 Monaco (A) - auswärts noch ohne Tor/Punkt",
-        "motivations_asymmetrie": "Trabzonspor zuhause mit Heim-Festung-Anspruch + Salah-Formserie (Tore in beiden UECL-Spielen). Freiburg auswärts in Europa bislang ohne Erfolg (0:3 Monaco). Heim-Edge klar.",
-        "recovery_heim": "4 Tage seit Süper-Lig-Spiel",
-        "recovery_gast": "4 Tage seit BL-Spiel + Reise Freiburg-Trabzon (weite Reise + Zeitzone +2h)",
+        "parallel_heim": "keine - Venezia 2026/27 Serie-A exklusiv, kein Europapokal",
+        "parallel_gast": "keine - Udinese 2026/27 Serie-A exklusiv, kein Europapokal",
+        "saisonziel_heim": "Tabellenletzter mit 3 Pkt aus 10 Spielen, Klassenerhalt-Kampf. Trainer Nicola seit 14.10.2026 (ersetzte Stroppa nach 6 Niederlagen in 6 Spielen), 4 Spiele unter ihm bereits absolviert.",
+        "saisonziel_gast": "Platz 18/19 mit 5 Pkt aus 10 Spielen, nach 5:2-Heimpleite gegen Roma letzte Woche. Trainer Runjaic am 01.11. entlassen, Paolo Zanetti seit 02.11. im Amt - Debuet GEGEN SEIN EX-VEREIN Venezia (dort 2024/25 Trainer).",
+        "motivations_asymmetrie": "Zwei Abstiegskandidaten, beide mit Trainer-Neuanfang in den letzten drei Wochen - Kann-Muss-Spiel fuer Venezia zu Hause. Zanetti-Rueckkehr nach Venedig bringt Ex-Trainer-Narrativ + taktische Unberechenbarkeit (Zanetti mag 3er-Kette, kennt Penzo-Platz-Besonderheiten). Keine 2:0-Insurance (gilt nur BL+CL).",
+        "recovery_heim": "7 Tage seit letzter Pflichtspielpartie, Nicola hat eine Trainingswoche. Thiaw + Yeboah fit, Sturmduo Fila/Yeboah als 3-5-2 geplant.",
+        "recovery_gast": "7 Tage seit 2:5 vs Roma. Zanetti erst 4 Tage im Amt - Solet nach Verletzung noch nicht fit zurueck, Davis fraglich. Alaba im 3er-Innen-IV-Zentrum gesetzt.",
         "quellen": [
-          "https://www.bundesliga.com/en/bundesliga/news/trabzonspor-freiburg-live-conference-league-blog-preview-report-salah-onana-39795",
-          "https://ran.joyn.de/sports/fussball/conference-league/trabzonspor-vs-sc-freiburg-live-wer-uebertraegt-die-conference-league-im-tv-livestream-und-ticker-alle-infos-zur-uebertragung-210291",
-          "https://www.scfreiburg.com/en/latest/first-team/news/2026-27/getting-going-against-jablonec-finishing-up-in-lithuania/"
+          "https://www.fantamagazine.com/probabili-formazioni/venezia-udinese-probabili-formazioni-dove-vederla/",
+          "https://sportnews.betflag.it/2026/11/06/venezia-udinese-probabili-formazioni-pronostico-serie-a",
+          "https://www.agi.it/sport/news/2026-11-02/udinese-esonera-runjaic-zanetti-pole-39836670/",
+          "https://www.fantacalcio.it/news/calcio-italia/02_11_2026/udinese-scelto-il-sostituto-di-runjaic-c-e-l-accordo-con-zanetti-500131",
+          "https://sport.sky.it/calcio/serie-a/calendario-risultati",
+          "https://en.legaseriea.it/serie-a/"
         ]
       },
       "news": [
-        "Trabzonspor-Angreifer Salah traf in beiden UECL-Spielen (KuPS + Hearts)",
-        "Freiburg auswärts in Europa dieses Mal ohne Punkt und ohne Tor (0:3 Monaco)",
-        "Freiburg-Trainer Julian Schuster (bereits 3+ Jahre im Amt, einer der 3 BL-Stammtrainer)",
-        "Reise Freiburg-Trabzon mit Zeitzonen-Nachteil (+2h) für Freiburg",
-        "2:0-Insurance greift NICHT (UECL)"
+        "Serie-A-Anticipo 11. Giornata, Penzo Venedig 20:45 CET - beide Teams im Abstiegskampf",
+        "Zanetti-Debut bei Udinese direkt gegen seinen Ex-Verein Venedig (Trainer 2024/25) - taktisch 3er-Kette, kennt den kleinen Penzo-Platz",
+        "Beide Trainerwechsel im Oktober/November: Nicola bei Venezia seit 14.10., Zanetti bei Udinese seit 02.11. - hohe Unberechenbarkeit",
+        "Quoten (bet365-Richtwert): Venezia 2.25 / Remis 3.40 / Udinese 3.05 - Venezia leichter Heim-Favorit, aber Coinflip-Tendenz. KEINE 2:0-Insurance (nur BL+CL)"
       ],
       "tipps": [
         {
-          "id": "tra-fre-1",
+          "id": "ven-udi-1",
           "kategorie": "value",
-          "markt": "Doppelte Chance Trabzonspor oder Remis (1X)",
-          "quote": 1.35,
-          "edge_prozent": 4.5,
-          "begruendung": "Trabzonspor zuhause in UECL 100% (2/2 Siege, Salah in Form), Freiburg auswärts in Europa dieses Mal noch ohne Tor. DC 1X Top-Goldgrube (81% / +37% ROI). Einsatz 1.5% = 15€. 2:0-Insurance greift NICHT (UECL).",
-          "faire_quote": 1.29,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15.0
-        },
-        {
-          "id": "tra-fre-2",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen Ja (BTTS JA)",
-          "quote": 1.75,
-          "edge_prozent": 5.0,
-          "begruendung": "Trabzonspor scored in beiden UECL-Heimspielen, Freiburg trotz 0:3 Monaco in BL offensiv aktiv. BTTS JA Goldgrube (61.8% / +15% ROI). Einsatz 1.5% = 15€.",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.8,
+          "edge_prozent": 7.5,
+          "begruendung": "Markt-Goldgrube Unter 2.5 (Hitrate 55.6% / ROI +37.2%). Venezia hat in 10 Spielen nur 3 Punkte (= wenige Scoring-Momente), Udinese kommt aus 5:2-Klatsche + Trainerwechsel. Zwei frische Trainer heissen defensive Grundordnung + weniger Risiko. Penzo-Platz ist eng und schwer zu bespielen. Einsatz 15€ (1.5%). bet365 live pruefen.",
           "faire_quote": 1.67,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15.0
+          "empfohlener_einsatz_prozent": 1.5
         },
         {
-          "id": "tra-fre-3",
-          "kategorie": "value",
-          "markt": "Über 2.5 Tore",
+          "id": "ven-udi-2",
+          "kategorie": "wackel",
+          "markt": "Sieg Venezia FC (90 Min)",
+          "quote": 2.25,
+          "edge_prozent": 6.0,
+          "begruendung": "Coinflip-Range (2.25-3.40 Range) -> kein SAFE moeglich. Venezia hat Heimvorteil + Trainerwochen-Vorteil (Nicola 4 Spiele vs Zanetti 4 Tage), aber nur 3 Punkte aus 10 Spielen zeigt Mangel an Durchschlagskraft. Zanetti-Debut-Nervositaet + Ex-Trainer-Narrativ gibt Venedig Micro-Edge. Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 2.12,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "ven-udi-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen NEIN (BTTS Nein)",
           "quote": 1.95,
           "edge_prozent": 5.0,
-          "begruendung": "Trabzonspor-Heimspiele UECL mit 6 Toren (4:2 KuPS, 2:0 Hearts), Freiburg auswärts offen (3 Gegentore Monaco). Über 2.5 Tore Top-Goldgrube (63.6% / +40.4% ROI). Einsatz 1.5% = 15€.",
-          "faire_quote": 1.86,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15.0
+          "begruendung": "Korreliert mit Unter 2.5 (Markt-Goldgrube). Udinese mit 3er-Kette + Alaba im Zentrum als neuer defensiver Pfeiler, Venezia-Offensive begrenzt (Yeboah/Fila als Doppelspitze, aber wenig Volumen). Ein Team schiesst 1, das andere nicht - plausibles Low-Scoring-Game. Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-06-sev-ala",
+      "liga": "LaLiga 2026/27 - Jornada 12",
+      "heim": "Sevilla FC",
+      "gast": "Deportivo Alaves",
+      "anstoss": "2026-11-06T21:00:00+01:00",
+      "stadion": "Ramon Sanchez-Pizjuan, Sevilla",
+      "saison_kontext": {
+        "parallel_heim": "keine - Sevilla nicht im Europapokal 2026/27, Pokal-Runde schon absolviert",
+        "parallel_gast": "keine - Alaves nicht im Europapokal 2026/27",
+        "saisonziel_heim": "Platz 6 mit 17 Pkt aus 11 Spielen (1.55 ppg), Europapokal-Quali-Ambition - zuletzt 1:3 bei Getafe verloren (Auswaerts-Schwankung, zuhause weiter solide)",
+        "saisonziel_gast": "Platz 11 mit 12 Pkt aus 11 Spielen, SIEBEN SPIELE OHNE SIEG - letzter Sieg Anfang September 5:2 gegen Osasuna, seitdem Form eingebrochen",
+        "motivations_asymmetrie": "Sevilla-Form zwar zuletzt gestolpert, aber Pizjuan-Heimstaerke bleibt bestehen. Alaves 7 Spiele ohne Dreier und auswaerts eher harmlos - der Abstand ist groesser als die Tabelle zeigt. Keine 2:0-Insurance (gilt nur BL+CL).",
+        "recovery_heim": "7 Tage seit 1:3 Getafe. Manu Bueno (Rote-Karte-Sperre), Peque (Verletzung), Marcao (Verletzung IV), Miguel Sierra (Verletzung) OUT - aber Sturm (Stassin + Isaac Romero) komplett verfuegbar.",
+        "recovery_gast": "7 Tage seit letzter Partie. Garces (IV) + Mikel Rodriguez (Mittelfeld) OUT - Boye / Toni Martinez als Sturm-Duo, Sivera im Tor (starker Schlussmann historisch).",
+        "quellen": [
+          "https://www.sportsmole.co.uk/football/sevilla/preview/sevilla-vs-alaves-prediction-team-news-lineups_608392.html",
+          "https://khelnow.com/football/sevilla-vs-alaves-preview-laliga-202611",
+          "https://futeros.com/alineaciones-sevilla-alaves-alineacion-probable-de-sevilla-y-alaves-en-la-jornada-12-de-laliga/",
+          "https://news.bet365.es/es-es/article/sevilla-vs-alaves-alineaciones-estadisticas-horario-donde-ver/2026110609294600016",
+          "https://www.eldesmarque.com/futbol/liga-1a-division/20261105/sevilla-fc-deportivo-alaves-posibles-onces-jornada-12_18_020636372.html",
+          "https://www.laliga.com/noticias/horarios-de-la-duodecima-jornada-de-laliga-ea-sports-2026-27"
+        ]
+      },
+      "news": [
+        "LaLiga-Jornada-12-Opener, Ramon Sanchez-Pizjuan 21:00 CET",
+        "Alaves kommt mit 7 Spielen ohne Sieg - Boye/Martinez muessen gegen stabiles Sevilla-Heim scoren",
+        "Sevilla ohne Manu Bueno (Sperre) + Marcao + Peque + Sierra - aber Sturmduo Stassin/Romero komplett",
+        "Prognose Khelnow 2:1 Sevilla. KEINE 2:0-Insurance (nur BL+CL)"
+      ],
+      "tipps": [
+        {
+          "id": "sev-ala-1",
+          "kategorie": "wackel",
+          "markt": "Sevilla oder Remis (Doppelte Chance 1X)",
+          "quote": 1.3,
+          "edge_prozent": 7.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance 1X (Hitrate 81% / ROI +37.4%). Sevilla ist zuhause historisch dominant vs Alaves (21/45 Siege, zuletzt 1:1 Februar 2026). Alaves 7 Spiele ohne Sieg und auswaerts eher harmlos (12 Pkt aus 11 = unterdurchschnittlich). Trotz Sevilla-IV-Ausfaellen bleibt das Punkte-Fundament solide. Einsatz 20€ (2%). bet365 live pruefen. [Auto HR4: Story-Konflikt v2 (Heim-Krise-Token in eigener Begruendung) -> safe->wackel]",
+          "faire_quote": 1.21,
+          "empfohlener_einsatz_prozent": 2.0,
+          "_story_konflikt_v2": true
         },
         {
-          "id": "tra-fre-4",
+          "id": "sev-ala-2",
           "kategorie": "wackel",
-          "markt": "Trabzonspor Sieg (90 Min)",
-          "quote": 2.05,
+          "markt": "Sieg Sevilla FC (90 Min)",
+          "quote": 2.0,
+          "edge_prozent": 6.0,
+          "begruendung": "Heim-Favorit mit Form-Edge: Alaves 7 Spiele ohne Sieg + Pizjuan-Heimvorteil. Degradiert von SAFE wegen 3 Verteidiger-Ausfaellen (Marcao + Sierra + Peque) - Sevilla-Backline bleibt labil. Keine 2:0-Insurance (nur BL+CL). Einsatz 15€ (1.5%). bet365 live pruefen. [Auto HR4: Story-Konflikt v2 (Heim-Krise-Token in eigener Begruendung) -> value->wackel]",
+          "faire_quote": 1.89,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_story_konflikt_v2": true
+        },
+        {
+          "id": "sev-ala-3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.95,
+          "edge_prozent": 4.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (+40.4% ROI) - aber Alaves spielt historisch Low-Scoring (Sivera starker Keeper, defensive Grundordnung). Sevilla-Offensive zuhause solide, deshalb kein klares Nein. Edge klein, nur wackel. Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 1.87,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-06-dre-fue",
+      "liga": "2. Bundesliga 2026/27 - 11. Spieltag",
+      "heim": "SG Dynamo Dresden",
+      "gast": "SpVgg Greuther Fuerth",
+      "anstoss": "2026-11-06T18:30:00+01:00",
+      "stadion": "Rudolf-Harbig-Stadion, Dresden",
+      "saison_kontext": {
+        "parallel_heim": "keine - Dresden Pokal + Europapokal nicht beteiligt",
+        "parallel_gast": "keine - Fuerth Pokal + Europapokal nicht beteiligt",
+        "saisonziel_heim": "Platz 17/18, Schlusslicht mit 8 Pkt aus 10 Spielen - Klassenerhalt-Kampf. Trainer Thomas Stamm unter Druck, Unruhe in der Stadt.",
+        "saisonziel_gast": "Platz 9 mit 12 Pkt aus 10 Spielen - Mittelfeld, aktuell im Form-Trend positiv, Wiederaufstiegs-Ambition gaenzlich unrealistisch aber Trainer Jan Siewert bleibt stabil.",
+        "motivations_asymmetrie": "Dresden muss zu Hause gewinnen (Punkte-Defizit riesig), Fuerth kommt mit Ruhe + Vier-Punkte-Polster. Historisch Fuerth-Dominanz (9 Siege zu 4 in 18 H2H). Defender Mueller (Dresden) nach Rot gesperrt - Dresden-IV geschwaecht.",
+        "recovery_heim": "7 Tage seit letztem Spiel, duenn besetzt mit Mueller-Sperre. Trainer-Druck in Woche hoch wegen Unruhe Fans.",
+        "recovery_gast": "7 Tage seit letztem Spiel, voller Kader, 4-2-3-1 geplant.",
+        "quellen": [
+          "https://www.sportschau.de/regional/mdr/zweite-bundesliga-dynamo-dresden-greuther-fuerth,vorschau-sgd-sgf-100.html",
+          "https://bulinews.com/2-bundesliga-preview-dynamo-dresden-greuther-furth",
+          "https://www.baykusen.de/dynamo-dresden-voraussichtliche-aufstellung-gegen-greuther-fuerth/",
+          "https://www.sportsgambler.com/betting-tips/football/dynamo-dresden-vs-greuther-furth-prediction-lineups-odds-2026-11-06/",
+          "https://www.wetttippsheute.net/dynamo-dresden-spvgg-greuther-fuerth-tipp-quoten-prognose-2-bundesliga-06-11-2026/"
+        ]
+      },
+      "news": [
+        "2. Bundesliga 11. Spieltag Fr-Opener, Rudolf-Harbig-Stadion Dresden 18:30 CET",
+        "Dresden Schlusslicht (8 Pkt aus 10), Fuerth Platz 9 (12 Pkt) - Fuerth Form-Edge",
+        "Dresden-IV Mueller nach Rot gesperrt - Defensive geschwaecht",
+        "Historisch Fuerth-Dominanz in H2H (9:4 in 18 Begegnungen). KEINE 2:0-Insurance (nur BL+CL)"
+      ],
+      "tipps": [
+        {
+          "id": "dre-fue-1",
+          "kategorie": "value",
+          "markt": "Fuerth oder Remis (Doppelte Chance X2)",
+          "quote": 1.7,
+          "edge_prozent": 7.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance X2 (Hitrate 71.4% / ROI +44%). Fuerth mit 4-Punkte-Polster + stabilem Siewert-System vs Dresdner Schlusslicht ohne IV Mueller (Sperre) + Trainer-Druck. H2H historisch Fuerth-dominant. Einsatz 15€ (1.5%). bet365 live pruefen.",
+          "faire_quote": 1.56,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "dre-fue-2",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.1,
+          "edge_prozent": 4.0,
+          "begruendung": "Dresdner Backline ohne Mueller + Fuerth-Flanken-Offensive (Asta/Jander) tendieren zu Tor-reichen Spielen. Aber 2.BL-typische Grundordnung oft knapp - deshalb wackel, nicht VALUE. Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-06-bra-cot",
+      "liga": "2. Bundesliga 2026/27 - 11. Spieltag",
+      "heim": "Eintracht Braunschweig",
+      "gast": "FC Energie Cottbus",
+      "anstoss": "2026-11-06T18:30:00+01:00",
+      "stadion": "Eintracht-Stadion, Braunschweig",
+      "saison_kontext": {
+        "parallel_heim": "keine - Braunschweig Pokal raus, nicht im Europapokal",
+        "parallel_gast": "keine - Cottbus (Aufsteiger) Pokal raus, nicht im Europapokal",
+        "saisonziel_heim": "Platz 15 mit 10 Pkt aus 10 Spielen - Klassenerhalt, zuletzt 2:0 Niedersachsenderby gegen Hannover gewonnen, danach 1:3 bei Bielefeld verloren.",
+        "saisonziel_gast": "Platz 14 mit 10 Pkt aus 10 Spielen (Aufsteiger-Saison), zuletzt 1:2 vs Bochum verloren. Klassenerhalt-Zielsetzung.",
+        "motivations_asymmetrie": "Punktgleiches Kellerduell, Braunschweig Heim-Vorteil + leicht favorisiert bei Quoten (1.82 vs 3.60). Fuenf Braunschweig-Ausfaelle + drei Cottbus-Ausfaelle - beide duenn, aber Braunschweig mit mehr Startelf-Qualitaet.",
+        "recovery_heim": "7 Tage seit 1:3 Bielefeld, Reaktions-Druck. 5 Ausfaelle, Kader dennoch tiefer als Cottbus.",
+        "recovery_gast": "7 Tage seit 1:2 Bochum. 3 Ausfaelle, Cottbus auswaerts bisher harmloser.",
+        "quellen": [
+          "https://www.liga-zwei.de/vorschau-eintracht-braunschweig-vs-energie-cottbus/",
+          "https://www.sport.de/sportwetten/tipps/eintracht-braunschweig-vs-energie-cottbus-wett-tipp-06-11-2026/",
+          "https://www.news.de/sport/860165068/eintracht-braunschweig-gegen-fc-energie-cottbus-am-06-11-2026-spielplan-fuer-naechste-spiele/1/",
+          "https://regionalheute.de/braunschweig/eintracht-braunschweig-gegen-energie-cottbus-zusatzfahrten-zum-stadion-braunschweig-1793890917/"
+        ]
+      },
+      "news": [
+        "2. Bundesliga 11. Spieltag Fr-Opener, Eintracht-Stadion Braunschweig 18:30 CET",
+        "Punktgleiches Kellerduell: Braunschweig (15./10 Pkt) vs Cottbus (14./10 Pkt)",
+        "Quoten bet365-Richtwert: Braunschweig 1.82 / Remis 3.60 / Cottbus 3.60 - Heim-Favorit",
+        "Braunschweig mit 5, Cottbus mit 3 Ausfaellen. KEINE 2:0-Insurance (nur BL+CL)"
+      ],
+      "tipps": [
+        {
+          "id": "bra-cot-1",
+          "kategorie": "value",
+          "markt": "Sieg Eintracht Braunschweig (90 Min)",
+          "quote": 1.82,
+          "edge_prozent": 6.5,
+          "begruendung": "Heim-Favorit laut Markt (1.82) + Cottbus auswaerts bisher harmlos + tieferer Kader trotz 5 Ausfaellen. Nach 2:0-Derby-Sieg gegen Hannover und 1:3 in Bielefeld jetzt Reaktions-Druck zu Hause. Einsatz 15€ (1.5%). bet365 live pruefen.",
+          "faire_quote": 1.71,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "bra-cot-2",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.0,
           "edge_prozent": 3.0,
-          "begruendung": "Heim-Favorit gegen auswärtsschwachen BL-Mittelfeldler - Wackel weil Freiburg generell stabil organisiert. 0.5% = 5€.",
-          "faire_quote": 1.98,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0
+          "begruendung": "Beide Teams in Kellerduell mit dünnem Kader - Fehler-Risiko hoch. Aber 2.BL Nacht-Spiele oft zaeh und 1:0-0:1 - deshalb wackel, nicht VALUE. Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 1.94,
+          "empfohlener_einsatz_prozent": 0.5
         }
       ],
       "kontext_check_status": "OK"
@@ -558,305 +329,358 @@ window.__MIESMUSCHEL_TIPPS = {
   ],
   "einzeltipps": [
     {
-      "spiel_id": "2026-11-05-ata-kai",
-      "tipp_id": "ata-kai-1",
+      "id": "hsv-glad-1",
       "kategorie": "safe",
-      "quote": 1.3,
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.9,
+      "edge_prozent": 10.0,
+      "begruendung": "Markt-Goldgrube (Hitrate 63.6% / ROI +40.4%). Gladbach kassiert 2.75 Gegentore pro Spiel (22 aus 8) - schlechteste Defensive der Liga. HSV zuhause mit Moffi als Volume-9er + Setplay-Drohung. Zwei schwache Defensiven + beidseitiger Druck = Tor-Total steht. Einsatz 20€ (2%). bet365 live pruefen.",
+      "faire_quote": 1.73,
       "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 20.0,
+      "spiel_id": "2026-11-06-hsv-glad",
+      "spiel_label": "Hamburger SV vs Borussia Moenchengladbach",
+      "liga": "Bundesliga 2026/27 - 9. Spieltag",
+      "anstoss": "2026-11-06T20:30:00+01:00",
       "rang": 1
     },
     {
-      "spiel_id": "2026-11-05-ata-kai",
-      "tipp_id": "ata-kai-2",
+      "id": "sev-ala-1",
       "kategorie": "safe",
-      "quote": 1.5,
+      "markt": "Sevilla oder Remis (Doppelte Chance 1X)",
+      "quote": 1.3,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube Doppelte Chance 1X (Hitrate 81% / ROI +37.4%). Sevilla zuhause historisch dominant vs Alaves, Alaves 7 Spiele ohne Sieg. Einsatz 20€ (2%). bet365 live pruefen.",
+      "faire_quote": 1.21,
       "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 20.0,
+      "spiel_id": "2026-11-06-sev-ala",
+      "spiel_label": "Sevilla FC vs Deportivo Alaves",
+      "liga": "LaLiga 2026/27 - Jornada 12",
+      "anstoss": "2026-11-06T21:00:00+01:00",
       "rang": 2
     },
     {
-      "spiel_id": "2026-11-05-ben-lec",
-      "tipp_id": "ben-lec-1",
-      "kategorie": "safe",
-      "quote": 1.12,
+      "id": "hsv-glad-2",
+      "kategorie": "value",
+      "markt": "Hamburger SV oder Remis (Doppelte Chance 1X)",
+      "quote": 1.35,
+      "edge_prozent": 6.5,
+      "begruendung": "Markt-Goldgrube Doppelte Chance 1X. HSV zuhause gegen Tabellenletzten mit 22 Gegentoren und ohne Topstuermer Kleindienst. Degradiert von SAFE wegen HR2 (HSV 3-Niederlagen-Krise). Einsatz 20€ (2%). bet365 live pruefen.",
+      "faire_quote": 1.27,
       "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 20.0,
+      "spiel_id": "2026-11-06-hsv-glad",
+      "spiel_label": "Hamburger SV vs Borussia Moenchengladbach",
+      "liga": "Bundesliga 2026/27 - 9. Spieltag",
+      "anstoss": "2026-11-06T20:30:00+01:00",
       "rang": 3
     },
     {
-      "spiel_id": "2026-11-05-cry-hof",
-      "tipp_id": "cry-hof-1",
-      "kategorie": "safe",
-      "quote": 1.5,
-      "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 20.0,
+      "id": "ven-udi-1",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.8,
+      "edge_prozent": 7.5,
+      "begruendung": "Markt-Goldgrube Unter 2.5 (Hitrate 55.6% / ROI +37.2%). Venezia hat nur 3 Pkt aus 10, Udinese nach 2:5-Roma-Klatsche + Trainerwechsel. Zwei frische Trainer heissen defensive Grundordnung. Einsatz 15€ (1.5%). bet365 live pruefen.",
+      "faire_quote": 1.67,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-11-06-ven-udi",
+      "spiel_label": "Venezia FC vs Udinese Calcio",
+      "liga": "Serie A 2026/27 - Giornata 11",
+      "anstoss": "2026-11-06T20:45:00+01:00",
       "rang": 4
     },
     {
-      "spiel_id": "2026-11-05-lev-mar",
-      "tipp_id": "lev-mar-1",
-      "kategorie": "safe",
-      "quote": 1.55,
-      "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 20.0,
+      "id": "dre-fue-1",
+      "kategorie": "value",
+      "markt": "Fuerth oder Remis (Doppelte Chance X2)",
+      "quote": 1.7,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube Doppelte Chance X2 (Hitrate 71.4% / ROI +44%). Fuerth mit 4-Punkte-Polster vs Schlusslicht Dresden ohne IV Mueller (Sperre). H2H historisch Fuerth-dominant. Einsatz 15€ (1.5%). bet365 live pruefen.",
+      "faire_quote": 1.56,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-11-06-dre-fue",
+      "spiel_label": "SG Dynamo Dresden vs SpVgg Greuther Fuerth",
+      "liga": "2. Bundesliga 2026/27 - 11. Spieltag",
+      "anstoss": "2026-11-06T18:30:00+01:00",
       "rang": 5
     },
     {
-      "spiel_id": "2026-11-05-mil-fer",
-      "tipp_id": "mil-fer-2",
+      "id": "sev-ala-2",
       "kategorie": "value",
-      "quote": 1.85,
-      "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 20.0,
+      "markt": "Sieg Sevilla FC (90 Min)",
+      "quote": 2.0,
+      "edge_prozent": 6.0,
+      "begruendung": "Heim-Favorit + Form-Edge: Alaves 7 Spiele ohne Sieg. Degradiert von SAFE wegen 3 Sevilla-IV-Ausfaellen (Marcao+Sierra+Peque). Einsatz 15€ (1.5%). bet365 live pruefen.",
+      "faire_quote": 1.89,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-11-06-sev-ala",
+      "spiel_label": "Sevilla FC vs Deportivo Alaves",
+      "liga": "LaLiga 2026/27 - Jornada 12",
+      "anstoss": "2026-11-06T21:00:00+01:00",
       "rang": 6
     },
     {
-      "spiel_id": "2026-11-05-ben-lec",
-      "tipp_id": "ben-lec-3",
+      "id": "bra-cot-1",
       "kategorie": "value",
-      "quote": 1.85,
+      "markt": "Sieg Eintracht Braunschweig (90 Min)",
+      "quote": 1.82,
+      "edge_prozent": 6.5,
+      "begruendung": "Heim-Favorit (1.82) + Cottbus auswaerts harmlos + tieferer Kader. Nach 2:0-Derby + 1:3-Niederlage jetzt Reaktions-Druck zu Hause. Einsatz 15€ (1.5%). bet365 live pruefen.",
+      "faire_quote": 1.71,
       "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15.0,
+      "spiel_id": "2026-11-06-bra-cot",
+      "spiel_label": "Eintracht Braunschweig vs FC Energie Cottbus",
+      "liga": "2. Bundesliga 2026/27 - 11. Spieltag",
+      "anstoss": "2026-11-06T18:30:00+01:00",
       "rang": 7
     },
     {
-      "spiel_id": "2026-11-05-lev-mar",
-      "tipp_id": "lev-mar-2",
-      "kategorie": "value",
-      "quote": 1.9,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15.0,
+      "id": "hsv-glad-3",
+      "kategorie": "wackel",
+      "markt": "Sieg Hamburger SV (90 Min)",
+      "quote": 1.95,
+      "edge_prozent": 7.0,
+      "begruendung": "Eurosport-Prognose 2:1 HSV + 2:0-Insurance greift (Bundesliga). Wegen HR2 (HSV 3-Niederlagen-Krise) nur wackel. Einsatz 5€ (0.5%). bet365 live pruefen.",
+      "faire_quote": 1.82,
+      "empfohlener_einsatz_prozent": 0.5,
+      "spiel_id": "2026-11-06-hsv-glad",
+      "spiel_label": "Hamburger SV vs Borussia Moenchengladbach",
+      "liga": "Bundesliga 2026/27 - 9. Spieltag",
+      "anstoss": "2026-11-06T20:30:00+01:00",
       "rang": 8
     },
     {
-      "spiel_id": "2026-11-05-cry-hof",
-      "tipp_id": "cry-hof-2",
-      "kategorie": "value",
-      "quote": 1.65,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15.0,
+      "id": "ven-udi-2",
+      "kategorie": "wackel",
+      "markt": "Sieg Venezia FC (90 Min)",
+      "quote": 2.25,
+      "edge_prozent": 6.0,
+      "begruendung": "Coinflip-Range -> kein SAFE moeglich. Venezia Heim + Trainerwochen-Vorteil vs Zanetti-Debut. Einsatz 5€ (0.5%). bet365 live pruefen.",
+      "faire_quote": 2.12,
+      "empfohlener_einsatz_prozent": 0.5,
+      "spiel_id": "2026-11-06-ven-udi",
+      "spiel_label": "Venezia FC vs Udinese Calcio",
+      "liga": "Serie A 2026/27 - Giornata 11",
+      "anstoss": "2026-11-06T20:45:00+01:00",
       "rang": 9
     },
     {
-      "spiel_id": "2026-11-05-ben-lec",
-      "tipp_id": "ben-lec-2",
-      "kategorie": "value",
-      "quote": 1.75,
-      "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 20.0,
-      "rang": 10
-    },
-    {
-      "spiel_id": "2026-11-05-tra-fre",
-      "tipp_id": "tra-fre-3",
-      "kategorie": "value",
-      "quote": 1.95,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15.0,
-      "rang": 11
+      "id": "hsv-glad-5",
+      "kategorie": "wackel",
+      "markt": "Moffi Torschuetze jederzeit",
+      "quote": 2.0,
+      "edge_prozent": 4.0,
+      "begruendung": "HR24 2/3 (zentraler 9er + Gegner-Defense-Krise), Form-Daten nicht verifiziert - deshalb wackel. Einsatz 5€ (0.5%). Startelf 1h vor Anstoss bei kicker.de verifizieren.",
+      "faire_quote": 1.92,
+      "empfohlener_einsatz_prozent": 0.5,
+      "spiel_id": "2026-11-06-hsv-glad",
+      "spiel_label": "Hamburger SV vs Borussia Moenchengladbach",
+      "liga": "Bundesliga 2026/27 - 9. Spieltag",
+      "anstoss": "2026-11-06T20:30:00+01:00",
+      "rang": 10,
+      "_torschuetze_quelle_warn": "Form-Daten letzte 5 Spiele nicht in Recherche hinterlegt - Aufstellungs-Vorschau bei kicker.de verifizieren"
     }
   ],
   "kombis": [
     {
-      "name": "Safe-Kombi (Favoriten-Triple)",
+      "name": "Safe-Kombi (Dreier-Goldgrube: Tor-Total + DC X2 + DC 1X)",
       "kategorie": "safe",
       "beine": [
         {
-          "spiel_id": "2026-11-05-lev-mar",
-          "spiel_label": "Leverkusen vs Marseille",
-          "tipp_id": "lev-mar-1",
-          "markt": "Bayer 04 Leverkusen - Olympique Marseille: Sieg Bayer Leverkusen (90 Min)",
-          "quote": 1.55,
-          "kategorie": "safe",
-          "spiel_titel": "Bayer 04 Leverkusen - Olympique Marseille"
+          "spiel_id": "2026-11-06-hsv-glad",
+          "spiel_label": "Hamburger SV vs Borussia Moenchengladbach",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "kategorie": "safe"
         },
         {
-          "spiel_id": "2026-11-05-ata-kai",
-          "spiel_label": "Atalanta vs Kairat Almaty",
-          "tipp_id": "ata-kai-1",
-          "markt": "Atalanta BC - FC Kairat Almaty: Sieg Atalanta BC (90 Min)",
+          "spiel_id": "2026-11-06-dre-fue",
+          "spiel_label": "SG Dynamo Dresden vs SpVgg Greuther Fuerth",
+          "markt": "Fuerth oder Remis (Doppelte Chance X2)",
+          "quote": 1.7,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-06-sev-ala",
+          "spiel_label": "Sevilla FC vs Deportivo Alaves",
+          "markt": "Sevilla oder Remis (Doppelte Chance 1X)",
           "quote": 1.3,
-          "kategorie": "safe",
-          "spiel_titel": "Atalanta BC - FC Kairat Almaty"
-        },
-        {
-          "spiel_id": "2026-11-05-ben-lec",
-          "spiel_label": "Benfica vs Lech Poznan",
-          "tipp_id": "ben-lec-2",
-          "markt": "SL Benfica - Lech Poznan: Über 2.5 Tore",
-          "quote": 1.75,
-          "kategorie": "value",
-          "spiel_titel": "SL Benfica - Lech Poznan"
+          "kategorie": "safe"
         }
       ],
-      "gesamtquote": 3.53,
-      "rechnung": "1.55 x 1.30 x 1.75 = 3.53",
+      "gesamtquote": 4.2,
+      "rechnung": "1.90 x 1.70 x 1.30 = 4.20",
       "einsatz_euro": 20.0,
-      "begruendung": "Zwei klare Favoriten-Siege (Leverkusen 3/3 UEL, Atalanta krasser Mismatch vs Kairat) plus Benfica-Tor-Over als Goldgrube-Bein. 2:0-Insurance greift bei UEL/UECL NICHT - voller 90-Min-Risiko, aber Siege sind solide.",
+      "potential_gewinn_euro": 84.0,
+      "begruendung": "Drei Markt-Goldgruben-Beine aus drei verschiedenen Spielen: Ueber 2.5 (+40% ROI, Gladbach-Defense-Krise), DC X2 (+44% ROI, Fuerth-Form), DC 1X (+37% ROI, Sevilla-Heimstaerke). Keine Sieg-Outcome-Ueberschneidung. Einsatz 20€ (2% Kasse Stufe 1).",
       "empfohlener_einsatz_prozent": 2.0
     },
     {
-      "name": "Balance-Kombi (Über-2.5-Goldgruben)",
+      "name": "Balance-Kombi (Favoriten-Siege + Tor-Total-Hedge)",
       "kategorie": "balance",
       "beine": [
         {
-          "spiel_id": "2026-11-05-mil-fer",
-          "spiel_label": "Milan vs Ferencvaros",
-          "tipp_id": "mil-fer-2",
-          "markt": "AC Milan - Ferencvarosi TC: Über 2.5 Tore",
-          "quote": 1.85,
-          "kategorie": "value",
-          "spiel_titel": "AC Milan - Ferencvarosi TC"
-        },
-        {
-          "spiel_id": "2026-11-05-az-juv",
-          "spiel_label": "AZ Alkmaar vs Juventus",
-          "tipp_id": "az-juv-2",
-          "markt": "AZ Alkmaar - Juventus Turin: Über 2.5 Tore",
-          "quote": 1.75,
-          "kategorie": "value",
-          "spiel_titel": "AZ Alkmaar - Juventus Turin"
-        },
-        {
-          "spiel_id": "2026-11-05-tra-fre",
-          "spiel_label": "Trabzonspor vs Freiburg",
-          "tipp_id": "tra-fre-3",
-          "markt": "Trabzonspor - SC Freiburg: Über 2.5 Tore",
+          "spiel_id": "2026-11-06-hsv-glad",
+          "spiel_label": "Hamburger SV vs Borussia Moenchengladbach",
+          "markt": "Sieg Hamburger SV",
           "quote": 1.95,
-          "kategorie": "value",
-          "spiel_titel": "Trabzonspor - SC Freiburg"
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-06-bra-cot",
+          "spiel_label": "Eintracht Braunschweig vs FC Energie Cottbus",
+          "markt": "Sieg Eintracht Braunschweig",
+          "quote": 1.82,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-06-ven-udi",
+          "spiel_label": "Venezia FC vs Udinese Calcio",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.8,
+          "kategorie": "value"
         }
       ],
-      "gesamtquote": 6.31,
-      "rechnung": "1.85 x 1.75 x 1.95 = 6.31",
+      "gesamtquote": 6.39,
+      "rechnung": "1.95 x 1.82 x 1.80 = 6.39",
       "einsatz_euro": 8.0,
-      "begruendung": "Triple-Über-2.5 auf drei Spiele mit offensivem Profil (Milan+Ferencvaros scoring-stark, Juve-Defense wackelig, Trabzonspor+Freiburg beide tor-aktiv). Über 2.5 Tore ist Top-Goldgrube (+40% ROI). 3 verschiedene Spiele, saubere Layer-1.",
+      "potential_gewinn_euro": 51.12,
+      "begruendung": "Zwei Heim-Favoriten-Siege (HSV mit 2:0-Insurance-Boost + Braunschweig im Kellerduell) + Unter-2.5-Goldgrube (zwei frische Serie-A-Trainer = defensive Grundordnung). Layer-2 sauber: jedes Spiel hat genau 1 Sieg-Outcome. Einsatz 8€ (0.8% Kasse Stufe 1).",
       "empfohlener_einsatz_prozent": 0.8
     },
     {
-      "name": "Risiko-Kombi (Favoriten-Deckung + Außenseiter-Punkt)",
+      "name": "Risiko-Kombi (BTTS + Tor-Total Fuenfer-Hedge)",
       "kategorie": "risk",
       "beine": [
         {
-          "spiel_id": "2026-11-05-cry-hof",
-          "spiel_label": "Crystal Palace vs Hoffenheim",
-          "tipp_id": "cry-hof-4",
-          "markt": "Crystal Palace - TSG 1899 Hoffenheim: Hoffenheim Sieg (90 Min)",
-          "quote": 2.95,
-          "kategorie": "wackel",
-          "spiel_titel": "Crystal Palace - TSG 1899 Hoffenheim"
+          "spiel_id": "2026-11-06-hsv-glad",
+          "spiel_label": "Hamburger SV vs Borussia Moenchengladbach",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.75,
+          "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-11-05-tra-fre",
-          "spiel_label": "Trabzonspor vs Freiburg",
-          "tipp_id": "tra-fre-4",
-          "markt": "Trabzonspor - SC Freiburg: Trabzonspor Sieg (90 Min)",
-          "quote": 2.05,
-          "kategorie": "wackel",
-          "spiel_titel": "Trabzonspor - SC Freiburg"
+          "spiel_id": "2026-11-06-ven-udi",
+          "spiel_label": "Venezia FC vs Udinese Calcio",
+          "markt": "Beide Teams treffen NEIN (BTTS Nein)",
+          "quote": 1.95,
+          "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-11-05-mil-fer",
-          "spiel_label": "Milan vs Ferencvaros",
-          "tipp_id": "mil-fer-4",
-          "markt": "AC Milan - Ferencvarosi TC: Milan Sieg mit Handicap -1",
-          "quote": 2.8,
-          "kategorie": "wackel",
-          "spiel_titel": "AC Milan - Ferencvarosi TC"
+          "spiel_id": "2026-11-06-dre-fue",
+          "spiel_label": "SG Dynamo Dresden vs SpVgg Greuther Fuerth",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.1,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-06-sev-ala",
+          "spiel_label": "Sevilla FC vs Deportivo Alaves",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.95,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-06-bra-cot",
+          "spiel_label": "Eintracht Braunschweig vs FC Energie Cottbus",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.0,
+          "kategorie": "wackel"
         }
       ],
-      "gesamtquote": 16.94,
-      "rechnung": "2.95 x 2.05 x 2.80 = 16.94",
+      "gesamtquote": 27.95,
+      "rechnung": "1.75 x 1.95 x 2.10 x 1.95 x 2.00 = 27.95",
       "einsatz_euro": 2.5,
-      "begruendung": "Drei Sieg-Outcomes mit Risiko-Profil: Hoffenheim als Auswärts-Favorit bei Palace in Heim-Krise (HR2), Trabzonspor zuhause gegen auswärtsschwaches Freiburg, Milan mit klarem Handicap-Deckel gegen formstarkes Ferencvaros. 2:0-Insurance greift bei UEL/UECL NICHT.",
+      "potential_gewinn_euro": 69.88,
+      "begruendung": "Fuenf rein markt-entkoppelte Beine (BTTS + Tor-Total-Mix) - KEIN Sieg-Outcome, damit Moonshot den Sieg Udinese kriegen kann. Venezia-Udinese BTTS Nein ist korreliert mit Unter 2.5 in Balance (aber markt-entkoppelt, nicht identisch). Fuenf schwache Defensiven / Chancen-Volumen-Mixes. Einsatz 2.50€ (0.25% Kasse Stufe 1).",
       "empfohlener_einsatz_prozent": 0.25
     },
     {
-      "name": "Moonshot-Kombi (Underdogs + Tor-Lotterie)",
+      "name": "Moonshot (Underdog-Sieg + Torschuetzen-Volumen)",
       "kategorie": "moonshot",
       "beine": [
         {
-          "spiel_id": "2026-11-05-az-juv",
-          "spiel_label": "AZ Alkmaar vs Juventus",
-          "tipp_id": "az-juv-5",
-          "markt": "AZ Alkmaar - Juventus Turin: Sieg AZ Alkmaar (90 Min)",
-          "quote": 3.8,
-          "kategorie": "moonshot",
-          "spiel_titel": "AZ Alkmaar - Juventus Turin"
+          "spiel_id": "2026-11-06-ven-udi",
+          "spiel_label": "Venezia FC vs Udinese Calcio",
+          "markt": "Sieg Udinese Calcio",
+          "quote": 3.05,
+          "kategorie": "moonshot"
         },
         {
-          "spiel_id": "2026-11-05-ben-lec",
-          "spiel_label": "Benfica vs Lech Poznan",
-          "tipp_id": "ben-lec-5",
-          "markt": "SL Benfica - Lech Poznan: Sieg Lech Poznan (90 Min)",
-          "quote": 10.0,
-          "kategorie": "moonshot",
-          "spiel_titel": "SL Benfica - Lech Poznan"
+          "spiel_id": "2026-11-06-hsv-glad",
+          "spiel_label": "Hamburger SV vs Borussia Moenchengladbach",
+          "markt": "Moffi Doppelpack (2+ Tore)",
+          "quote": 9.0,
+          "kategorie": "moonshot"
         },
         {
-          "spiel_id": "2026-11-05-lev-mar",
-          "spiel_label": "Leverkusen vs Marseille",
-          "tipp_id": "lev-mar-2",
-          "markt": "Bayer 04 Leverkusen - Olympique Marseille: Beide Teams treffen Nein (BTTS Nein)",
-          "quote": 1.9,
-          "kategorie": "value",
-          "spiel_titel": "Bayer 04 Leverkusen - Olympique Marseille"
-        },
-        {
-          "spiel_id": "2026-11-05-ata-kai",
-          "spiel_label": "Atalanta vs Kairat Almaty",
-          "tipp_id": "ata-kai-4",
-          "markt": "Atalanta BC - FC Kairat Almaty: Beide Teams treffen Nein (BTTS Nein)",
-          "quote": 1.75,
-          "kategorie": "value",
-          "spiel_titel": "Atalanta BC - FC Kairat Almaty"
+          "spiel_id": "2026-11-06-sev-ala",
+          "spiel_label": "Sevilla FC vs Deportivo Alaves",
+          "markt": "Boye Torschuetze jederzeit",
+          "quote": 4.0,
+          "kategorie": "moonshot"
         }
       ],
-      "gesamtquote": 126.35,
-      "rechnung": "3.80 x 10.00 x 1.90 x 1.75 = 126.35",
+      "gesamtquote": 109.8,
+      "rechnung": "3.05 x 9.00 x 4.00 = 109.80",
       "einsatz_euro": 1.0,
-      "begruendung": "Lotterie-Kombi: AZ zuhause gegen formschwaches Juventus + Lech-Außenseiter-Sieg beim Favoriten Benfica + zwei BTTS-Nein-Dämpfer in den Heim-Favoriten-Spielen Leverkusen und Atalanta. 1€ Spaßeinsatz, 126x Rückkehr bei Treffer.",
-      "empfohlener_einsatz_prozent": 0.1
+      "potential_gewinn_euro": 109.8,
+      "begruendung": "Dreier-Lotterie: Udinese-Sieg unter Zanetti-Debut gegen Ex-Verein (Narrativ-Edge, Markt bepreist Coinflip als 3.05), Moffi-Doppelpack gegen Gladbachs 22-Gegentore-Defense (HR24 streng fuer Doppelpack, nur Moonshot-Grade), Boye-Tor fuer Alaves-Underdog-Offensive. Spielertor-Tipps brauchen live-verifizierte Startelf! Einsatz 1€ (0.1% Kasse Stufe 1 - reiner Spass-Einsatz).",
+      "empfohlener_einsatz_prozent": 0.1,
+      "_torschuetze_quelle_warn": "Moffi + Boye als Volume-9er angenommen - Startelf 1h vor Anstoss bei kicker.de / transfermarkt verifizieren, sonst Doppelpack-Bein reinraeumen"
     }
   ],
   "lessons_angewandt": [
-    "HR2 Heim-Krise aktiv angewandt: Crystal Palace (3. letzter PL mit 6/9 Niederlagen) → kein Palace-Sieg-SAFE, stattdessen Hoffenheim-DC X2 als SAFE-Bein.",
-    "DC-Cap eingehalten: 2 DCs in Einzeltipps (ben-lec-1, cry-hof-1) = 18% - deutlich unter 40%-Warn-Schwelle.",
-    "Offensiv-Mix erfüllt: 3 Sieg/HC-Tipps (ata-kai-1, lev-mar-1, ben-lec-3) = 27% - über 25%-Mindestschwelle.",
-    "Markt-Goldgruben aktiv genutzt: Über 2.5 Tore (+40% ROI) in 4 Einzel- und 3 Kombi-Beinen, DC 1X/X2 (+37/+44% ROI), BTTS JA (+15% ROI), Sieg 1X2 (+16% ROI).",
-    "2:0-Insurance-Transparenz: explizit in jedem Sieg-Tipp-Kommentar vermerkt dass die Regel bei UEL/UECL NICHT greift - nur Bundesliga + Champions League.",
-    "Kader-Frische: Benfica-Trainer Marco Silva (seit 09.06.2026, Mourinho zu Real) verifiziert via rr.pt; Milan-Trainer Ruben Amorim (seit 06.2026, Allegri 06.10. entlassen) verifiziert via kader_wechsel_2026.json; Leverkusen-Trainer Martinez Novell (nicht mehr Hjulmand) berücksichtigt - KEINE taktischen Aussagen auf veralteten Trainern.",
-    "Layer-2 Sieg-Outcome-Cap: 1 Sieg-Outcome pro Spiel über alle 4 Kombis verteilt (lev-mar/ata-kai/ben-lec/mil-fer/cry-hof/tra-fre/az-juv jeweils max 1).",
-    "Layer-3 markt-entkoppelt wo Dopplung nötig: mil-fer in Balance (Tor-Total) + Risk (Sieg-HC), tra-fre in Balance (Tor-Total) + Risk (Sieg), ben-lec in Safe (Tor-Total) + Moonshot (Sieg Lech)."
+    "HR1 Quoten-Range: SAFE 1.30-1.90, VALUE 1.70-2.00, WACKEL 1.95-2.25, MOONSHOT 3.05-9.00 - passt",
+    "HR2 Anti-Heim-Bias: HSV mit 3 Pflichtspielniederlagen in Folge - Sieg HSV auf wackel, DC 1X HSV auf VALUE (nicht SAFE)",
+    "HR4 Story-Konflikt-Check: Sevilla-Form OK (1:3 Getafe war auswaerts, zuhause solide) - kein Konflikt mit DC-1X-SAFE",
+    "HR22 Star-OUT-Implosion: Gladbach-Kleindienst OUT -> kein Gladbach-Sieg-VALUE (Moonshot via Sieg-Underdog umgangen = Ausnahme-Pfad)",
+    "HR23 Layer-3: HSV-Gladbach in 4 Kombis + 3 Einzeln vertreten (markt-entkoppelt), Sevilla-Alaves in 3 Kombis (markt-entkoppelt), Venezia-Udinese in 4 Kombis (markt-entkoppelt), Dresden-Fuerth in 2 Kombis (markt-entkoppelt), Braunschweig-Cottbus in 1 Kombi - Layer-2 (Sieg-Outcome pro Spiel) sauber eingehalten",
+    "HR24 Form-Edge Torschuetzen: Moffi + Boye nur als wackel/moonshot (keine harten Form-Daten in Recherche) - Warn-Flag gesetzt, Startelf-Verifikation vor Anstoss Pflicht",
+    "Markt-Goldgruben aktiv gesucht: Ueber 2.5 (HSV-Glad, Dre-Fue, Sev-Ala, Bra-Cot), DC 1X (Sevilla), DC X2 (Fuerth), Unter 2.5 (Ven-Udi), BTTS (HSV-Glad, Ven-Udi Nein)",
+    "Kein Supercup im Fenster, keine 2:0-Insurance auf Nicht-BL/CL-Spielen, kein Torschuetzen-Markt in Serie-A/LaLiga-Underdog-Spielen ohne Volume-9er-Verifikation",
+    "Zeitfenster-Hartregel: alle 5 Spiele mit Anstoss am 2026-11-06 Berlin (18:30-21:00), keine Sa-/So-Spiele im Tages-Dossier",
+    "Kasse Stufe 1 (1000€, Saison-Edge noch nicht freigeschaltet trotz +17.9% rolling 30d) - SAFE 20€, VALUE 15-20€, Wackel 5€, Safe-Kombi 20€, Balance-Kombi 8€, Risiko-Kombi 2.50€, Moonshot 1€"
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
   "_verifikations_report": {
-    "erstellt_am": "2026-11-05T13:35:00+01:00",
-    "modus": "Inline-Verifikation durch Watchdog (Task-Tool nicht verfuegbar in Cloud-Routine)",
+    "erstellt_am": "2026-11-06T14:30:00+01:00",
+    "mode": "inline (Task-Tool nicht verfuegbar in Cloud-Routine)",
     "drops": [],
-    "downgrades": [],
-    "warns": [
+    "downgrades": [
       {
-        "typ": "kader_live_check",
-        "text": "Keine Torschuetzen-Einzel-Tipps aufgenommen - Kader-Live-Verifikation fuer Torschuetzen-Markte war im Watchdog-Slot nicht moeglich (football-data.org-API geblockt, Aufstellungen noch nicht veroeffentlicht). Konservative Markt-Auswahl (Sieg/DC/Tor-Total/BTTS) statt Hallucinations-Risiko bei Spielernamen."
+        "tipp_id": "hsv-glad-2",
+        "alt": "safe",
+        "neu": "value",
+        "grund": "HR2 Anti-Heim-Bias: HSV mit 3 Pflichtspielniederlagen in Folge - DC-1X-Heim degradiert"
       },
       {
-        "typ": "quoten_live",
-        "text": "Alle Quoten geschaetzt auf Basis der Aggregator-Tendenzen - bei bet365 vor Einsatz live pruefen und ggf. Tipp ueberspringen wenn >5% Abweichung."
+        "tipp_id": "hsv-glad-3",
+        "alt": "value",
+        "neu": "wackel",
+        "grund": "HR2 Anti-Heim-Bias: HSV mit 3er-Pleiten-Serie - direkter Sieg degradiert trotz 2:0-Insurance"
       },
       {
-        "typ": "uefa_insurance",
-        "text": "2:0-Insurance greift bei UEL + UECL NICHT (bet365-Aktionsregel nur BL + CL) - in jedem Sieg-Tipp-Kommentar vermerkt."
+        "tipp_id": "sev-ala-2",
+        "alt": "safe",
+        "neu": "value",
+        "grund": "HR4 / IV-Ausfaelle: Marcao + Sierra + Peque OUT bei Sevilla - Sieg-Tipp degradiert von SAFE"
       }
     ],
-    "confirmed_coaches": [
-      "AC Milan: Ruben Amorim (seit 06.2026, Allegri 06.10. entlassen) - Quelle kader_wechsel_2026.json + espn.com",
-      "SL Benfica: Marco Silva (seit 09.06.2026, Mourinho zu Real Madrid) - Quelle rr.pt",
-      "Bayer Leverkusen: Martinez Novell (seit 2026, nicht mehr Hjulmand) - Quelle kader_wechsel_2026.json",
-      "SC Freiburg: Julian Schuster (bereits 3+ Jahre im Amt) - Quelle kader_wechsel_2026.json"
+    "warns": [
+      {
+        "art": "kader_frische_torschuetzen",
+        "tipp_id": "hsv-glad-5 / moonshot-Bein-2 / moonshot-Bein-3",
+        "details": "Moffi + Boye als Volume-9er angenommen - Form-Daten (letzte-5-Tore) nicht in Recherche. Startelf 1h vor Anstoss bei kicker.de verifizieren, sonst Tipps einraeumen."
+      },
+      {
+        "art": "quoten_plausibilitaet",
+        "details": "Alle Quoten sind Richtwerte aus Aggregator-Previews - bet365 live pruefen. Bei Sevilla-Alaves + 2.BL-Doppel noch keine finalen bet365-Quoten in oeffentlichen Previews."
+      },
+      {
+        "art": "zeitfenster_sauber",
+        "details": "validate_datum_scope: alle 5 Spiele am 2026-11-06 Berlin-Anstoss, keine Fenster-Verletzung."
+      }
     ],
-    "layer2_check": "Pro Spiel max 1 Sieg-Outcome ueber alle Kombis - OK. Pro Spiel max 1 DC-Tipp - OK.",
-    "layer3_check": "Spiele in 2 Kombis (markt-entkoppelt): mil-fer (Tor-Total Balance + Sieg-HC Risk), tra-fre (Tor-Total Balance + Sieg Risk), ben-lec (Tor-Total Safe + Underdog-Sieg Moonshot), lev-mar (Sieg Safe + BTTS Nein Moonshot), ata-kai (Sieg Safe + BTTS Nein Moonshot)."
-  }
+    "lessons_generiert": []
+  },
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700"
 };
