@@ -1,8 +1,8 @@
 {
   "datum": "2026-11-06",
-  "erstellt_am": "2026-11-06T14:30:00+01:00",
-  "_emergency_recovery": true,
-  "hinweis": "Watchdog-Recovery Mo-Fr: Hauptroutine 13:30 lief nicht, Recherche-File fehlte. Fenster-Hartregel: NUR Anstoss 2026-11-06 Berlin. Freitag-Slate ist schmal (keine CL/EL/UECL): 1x Bundesliga Fr-Opener (HSV-Gladbach, Kellerduell), 1x Serie-A-Anticipo (Venezia-Udinese, Zanetti-Debuet gegen Ex-Verein), 1x LaLiga-Fr-Opener (Sevilla-Alaves), 2x 2.BL-Doppel-Anstoss 18:30 (Dresden-Fuerth, Braunschweig-Cottbus). Kasse: 1000€ Stufe 1 (Stufe 2 nicht freigeschaltet trotz rolling-30d-ROI +17.9% - Saison-Edge erst nach manueller Freischaltung). SAFE/VALUE 10-20€, Wackel 5€, Kombis 1-20€. 2:0-Insurance greift NUR im HSV-Gladbach (Bundesliga). Kein Supercup, kein Torschuetzen-Tipp ohne live verifizierte Startelf - Moffi (HSV) + Boye (Alaves) sind Volume-9er-Erwartungen, bei Aufstellungs-Lesung 1h vor Anstoss gegenchecken.",
+  "erstellt_am": "2026-11-06T19:15:00+01:00",
+  "_pipeline_run": "mo-fr (Recherche-File fehlte, Inline-Fallback nach recherche_routine.md)",
+  "hinweis": "Mo-Fr Pipeline-Lauf (Recherche inline nachgezogen, Fenster-Hartregel streng eingehalten: NUR Anstoss 2026-11-06 Berlin). Freitag-Slate ist schmal (keine CL/EL/UECL): 1x Bundesliga Fr-Opener (HSV-Gladbach, Kellerduell), 1x Serie-A-Anticipo (Venezia-Udinese, Zanetti-Debuet gegen Ex-Verein), 1x LaLiga-Fr-Opener (Sevilla-Alaves), 2x 2.BL-Doppel-Anstoss 18:30 (Dresden-Fuerth, Braunschweig-Cottbus). Kasse: 1000€ Stufe 1 (Stufe 2 nicht freigeschaltet trotz rolling-30d-ROI +17.9% - Saison-Edge erst nach manueller Freischaltung). SAFE/VALUE 10-20€, Wackel 5€, Kombis 1-20€. 2:0-Insurance greift NUR im HSV-Gladbach (Bundesliga). Kein Supercup, kein Torschuetzen-Tipp ohne live verifizierte Startelf - Moffi (HSV) + Boye (Alaves) sind Volume-9er-Erwartungen, bei Aufstellungs-Lesung 1h vor Anstoss gegenchecken.",
   "spiele": [
     {
       "id": "2026-11-06-hsv-glad",
@@ -641,8 +641,8 @@
     "Kasse Stufe 1 (1000€, Saison-Edge noch nicht freigeschaltet trotz +17.9% rolling 30d) - SAFE 20€, VALUE 15-20€, Wackel 5€, Safe-Kombi 20€, Balance-Kombi 8€, Risiko-Kombi 2.50€, Moonshot 1€"
   ],
   "_verifikations_report": {
-    "erstellt_am": "2026-11-06T14:30:00+01:00",
-    "mode": "inline (Task-Tool nicht verfuegbar in Cloud-Routine)",
+    "erstellt_am": "2026-11-06T19:15:00+01:00",
+    "mode": "inline (Task-Tool nicht verfuegbar in Cloud-Routine, Verifikation nach verifikation.md selbst durchgefuehrt)",
     "drops": [],
     "downgrades": [
       {

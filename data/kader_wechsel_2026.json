@@ -1214,11 +1214,12 @@
     },
     {
       "verein": "Udinese Calcio",
-      "trainer": "Kosta Runjaic",
-      "seit": "2024-06",
-      "hinweis": "Seit Juni 2024 Udinese-Trainer, uebernahm von Cannavaro. Deutsch-geborener Coach, zuvor Legia Warschau. Nach gutem Saisonstart 2026/27 jetzt in 4-Niederlagen-Serie (Stand 12.10.2026 nach 2:1 bei Torino) - unter Druck. Taktik: 3-5-2 / 3-4-2-1. Alaba-Verpflichtung 24.09.2026 war sein Deal zur Stabilisierung.",
-      "quelle": "https://en.wikipedia.org/wiki/Kosta_Runjai%C4%87",
-      "stand": "2026-10-13"
+      "trainer_neu": "Paolo Zanetti",
+      "trainer_alt": "Kosta Runjaic",
+      "seit": "2026-11-02",
+      "hinweis": "Runjaic am 01.11.2026 nach 5:2-Heimpleite gegen Roma entlassen (Platz 18, 5 Pkt aus 10 Spielen). Zanetti seit 02.11.2026 im Amt - fuenfter Serie-A-Trainerwechsel 2026/27 nach Fiorentina/Bologna/Parma/Venezia. Zanetti war 2024/25 selbst Venezia-Trainer - Debuet am 06.11.2026 direkt gegen seinen Ex-Verein in Venedig. Taktik: 3er-Kette (3-5-2 / 3-4-2-1), kennt den kleinen Penzo-Platz. Taktische Aussagen ueber Udinese NICHT mehr auf Runjaic-Stand stuetzen.",
+      "quelle": "https://www.agi.it/sport/news/2026-11-02/udinese-esonera-runjaic-zanetti-pole-39836670/",
+      "stand": "2026-11-06"
     },
     {
       "verein": "Venezia FC",
