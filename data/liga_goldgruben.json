@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-05T18:22:55+00:00",
+  "stand": "2026-11-06T17:48:35+00:00",
   "kriterium": "ROI > 15.0% ODER (Trefferquote >= 65.0% UND ROI > 0%) bei min. 5 Tipps",
   "wirkung": "Schema-Mapper bestaetigt SAFE-Tipps in diesen Ligen. Andere SAFE-Tipps werden auf VALUE downgegradet wenn der Markt-Typ nicht in markt_goldgruben.json ist (Hebel C ROI-Sanierung 04.05.).",
   "ligen": [
@@ -65,6 +65,13 @@
       "trefferquote": 90.0,
       "roi_prozent": 30.2,
       "netto": 3.02
+    },
+    {
+      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 4",
+      "tipps": 8,
+      "trefferquote": 75.0,
+      "roi_prozent": 22.1,
+      "netto": 1.77
     },
     {
       "liga": "DFB-Pokal 2026/27 - 2. Runde",

@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-11-05T18:22:55+00:00",
+  "letzte_berechnung": "2026-11-06T17:48:35+00:00",
   "gesamt": {
-    "tipps": 342,
-    "gewonnen": 197,
-    "verloren": 127,
+    "tipps": 353,
+    "gewonnen": 203,
+    "verloren": 132,
     "push": 1,
     "offen": 17,
-    "einsatz": 325.0,
-    "netto": 94.33,
-    "trefferquote": 60.8,
-    "roi_prozent": 29.0
+    "einsatz": 336.0,
+    "netto": 93.1,
+    "trefferquote": 60.6,
+    "roi_prozent": 27.7
   },
   "letzte_30_tage": {
-    "tipps": 111,
-    "gewonnen": 73,
-    "verloren": 32,
+    "tipps": 122,
+    "gewonnen": 79,
+    "verloren": 37,
     "push": 0,
     "offen": 6,
-    "einsatz": 105.0,
-    "netto": 18.78,
-    "trefferquote": 69.5,
-    "roi_prozent": 17.9
+    "einsatz": 116.0,
+    "netto": 17.55,
+    "trefferquote": 68.1,
+    "roi_prozent": 15.1
   },
   "letzte_90_tage": {
-    "tipps": 315,
-    "gewonnen": 183,
-    "verloren": 114,
+    "tipps": 319,
+    "gewonnen": 186,
+    "verloren": 115,
     "push": 1,
     "offen": 17,
-    "einsatz": 298.0,
-    "netto": 94.33,
-    "trefferquote": 61.6,
-    "roi_prozent": 31.7
+    "einsatz": 302.0,
+    "netto": 93.1,
+    "trefferquote": 61.8,
+    "roi_prozent": 30.8
   },
   "nach_liga": {
     "UEFA Champions League - 3. Qualifikationsrunde": {
@@ -913,6 +913,28 @@
       "netto": 0.46,
       "trefferquote": 58.3,
       "roi_prozent": 3.8
+    },
+    "UEFA Europa Conference League 2026/27 - Ligaphase Spieltag 3": {
+      "tipps": 3,
+      "gewonnen": 0,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": -3.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "UEFA Europa League 2026/27 - Ligaphase Spieltag 4": {
+      "tipps": 8,
+      "gewonnen": 6,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 8.0,
+      "netto": 1.77,
+      "trefferquote": 75.0,
+      "roi_prozent": 22.1
     }
   },
   "nach_markt": {
@@ -1654,15 +1676,15 @@
       "roi_prozent": 130.0
     },
     "Über 2.5 Tore": {
-      "tipps": 12,
-      "gewonnen": 6,
-      "verloren": 4,
+      "tipps": 16,
+      "gewonnen": 7,
+      "verloren": 7,
       "push": 0,
       "offen": 2,
-      "einsatz": 10.0,
-      "netto": 5.75,
-      "trefferquote": 60.0,
-      "roi_prozent": 57.5
+      "einsatz": 14.0,
+      "netto": 3.5,
+      "trefferquote": 50.0,
+      "roi_prozent": 25.0
     },
     "Sieg Atalanta": {
       "tipps": 1,
@@ -3005,6 +3027,83 @@
       "netto": 2.2,
       "trefferquote": 100.0,
       "roi_prozent": 220.0
+    },
+    "Sieg Atalanta BC (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Doppelte Chance Benfica oder Remis (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.12,
+      "trefferquote": 100.0,
+      "roi_prozent": 12.0
+    },
+    "Doppelte Chance Hoffenheim oder Remis (X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.5,
+      "trefferquote": 100.0,
+      "roi_prozent": 50.0
+    },
+    "Sieg Bayer Leverkusen (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Benfica Sieg mit Handicap -1": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.85,
+      "trefferquote": 100.0,
+      "roi_prozent": 85.0
+    },
+    "Beide Teams treffen Nein (BTTS Nein)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.9,
+      "trefferquote": 100.0,
+      "roi_prozent": 90.0
+    },
+    "Beide Teams treffen Ja (BTTS JA)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.65,
+      "trefferquote": 100.0,
+      "roi_prozent": 65.0
     }
   },
   "nach_markt_typ": {
@@ -3042,37 +3141,37 @@
       "roi_prozent": 0.0
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 79,
+      "tipps": 81,
       "gewonnen": 42,
-      "verloren": 34,
+      "verloren": 36,
       "push": 1,
       "offen": 2,
-      "einsatz": 77.0,
-      "netto": 12.32,
-      "trefferquote": 55.3,
-      "roi_prozent": 16.0
+      "einsatz": 79.0,
+      "netto": 10.32,
+      "trefferquote": 53.8,
+      "roi_prozent": 13.1
     },
     "Beide Teams treffen JA": {
-      "tipps": 34,
-      "gewonnen": 21,
+      "tipps": 35,
+      "gewonnen": 22,
       "verloren": 13,
       "push": 0,
       "offen": 0,
-      "einsatz": 34.0,
-      "netto": 5.13,
-      "trefferquote": 61.8,
-      "roi_prozent": 15.1
+      "einsatz": 35.0,
+      "netto": 5.78,
+      "trefferquote": 62.9,
+      "roi_prozent": 16.5
     },
     "Doppelte Chance X2": {
-      "tipps": 21,
-      "gewonnen": 15,
+      "tipps": 22,
+      "gewonnen": 16,
       "verloren": 6,
       "push": 0,
       "offen": 0,
-      "einsatz": 21.0,
-      "netto": 9.24,
-      "trefferquote": 71.4,
-      "roi_prozent": 44.0
+      "einsatz": 22.0,
+      "netto": 9.74,
+      "trefferquote": 72.7,
+      "roi_prozent": 44.3
     },
     "Unter 2.5 Tore": {
       "tipps": 18,
@@ -3086,26 +3185,26 @@
       "roi_prozent": 37.2
     },
     "Ueber 2.5 Tore": {
-      "tipps": 37,
-      "gewonnen": 21,
-      "verloren": 12,
+      "tipps": 41,
+      "gewonnen": 22,
+      "verloren": 15,
       "push": 0,
       "offen": 4,
-      "einsatz": 33.0,
-      "netto": 13.32,
-      "trefferquote": 63.6,
-      "roi_prozent": 40.4
+      "einsatz": 37.0,
+      "netto": 11.07,
+      "trefferquote": 59.5,
+      "roi_prozent": 29.9
     },
     "Doppelte Chance 1X": {
-      "tipps": 21,
-      "gewonnen": 17,
+      "tipps": 22,
+      "gewonnen": 18,
       "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 21.0,
-      "netto": 7.86,
-      "trefferquote": 81.0,
-      "roi_prozent": 37.4
+      "einsatz": 22.0,
+      "netto": 7.98,
+      "trefferquote": 81.8,
+      "roi_prozent": 36.3
     },
     "Doppelte Chance": {
       "tipps": 61,
@@ -3174,26 +3273,26 @@
       "roi_prozent": 0.0
     },
     "Spread/Handicap": {
-      "tipps": 3,
-      "gewonnen": 3,
+      "tipps": 4,
+      "gewonnen": 4,
       "verloren": 0,
       "push": 0,
       "offen": 0,
-      "einsatz": 3.0,
-      "netto": 4.95,
+      "einsatz": 4.0,
+      "netto": 5.8,
       "trefferquote": 100.0,
-      "roi_prozent": 165.0
+      "roi_prozent": 145.0
     },
     "Beide Teams treffen NEIN": {
-      "tipps": 2,
-      "gewonnen": 1,
+      "tipps": 3,
+      "gewonnen": 2,
       "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 2.0,
-      "netto": 1.69,
-      "trefferquote": 50.0,
-      "roi_prozent": 84.5
+      "einsatz": 3.0,
+      "netto": 2.59,
+      "trefferquote": 66.7,
+      "roi_prozent": 86.3
     },
     "Sabah kein Tor (Under 0.5 Sabah)": {
       "tipps": 1,
@@ -3319,26 +3418,26 @@
   },
   "nach_quoten_range": {
     "1.00-1.50": {
-      "tipps": 150,
-      "gewonnen": 104,
-      "verloren": 35,
+      "tipps": 152,
+      "gewonnen": 105,
+      "verloren": 36,
       "push": 1,
       "offen": 10,
-      "einsatz": 140.0,
-      "netto": 37.82,
-      "trefferquote": 74.8,
-      "roi_prozent": 27.0
+      "einsatz": 142.0,
+      "netto": 36.94,
+      "trefferquote": 74.5,
+      "roi_prozent": 26.0
     },
     "1.50-2.00": {
-      "tipps": 153,
-      "gewonnen": 85,
-      "verloren": 64,
+      "tipps": 162,
+      "gewonnen": 90,
+      "verloren": 68,
       "push": 0,
       "offen": 4,
-      "einsatz": 149.0,
-      "netto": 57.76,
+      "einsatz": 158.0,
+      "netto": 57.41,
       "trefferquote": 57.0,
-      "roi_prozent": 38.8
+      "roi_prozent": 36.3
     },
     "2.00-3.00": {
       "tipps": 30,
@@ -3365,37 +3464,37 @@
   },
   "nach_kategorie": {
     "value": {
-      "tipps": 224,
-      "gewonnen": 124,
-      "verloren": 90,
+      "tipps": 229,
+      "gewonnen": 128,
+      "verloren": 91,
       "push": 1,
       "offen": 9,
-      "einsatz": 215.0,
-      "netto": 42.79,
-      "trefferquote": 57.9,
-      "roi_prozent": 19.9
+      "einsatz": 220.0,
+      "netto": 44.94,
+      "trefferquote": 58.4,
+      "roi_prozent": 20.4
     },
     "wackel": {
-      "tipps": 60,
+      "tipps": 61,
       "gewonnen": 29,
-      "verloren": 31,
+      "verloren": 32,
       "push": 0,
       "offen": 0,
-      "einsatz": 60.0,
-      "netto": 16.19,
-      "trefferquote": 48.3,
-      "roi_prozent": 27.0
+      "einsatz": 61.0,
+      "netto": 15.19,
+      "trefferquote": 47.5,
+      "roi_prozent": 24.9
     },
     "safe": {
-      "tipps": 56,
-      "gewonnen": 43,
-      "verloren": 6,
+      "tipps": 61,
+      "gewonnen": 45,
+      "verloren": 9,
       "push": 0,
       "offen": 7,
-      "einsatz": 49.0,
-      "netto": 34.35,
-      "trefferquote": 87.8,
-      "roi_prozent": 70.1
+      "einsatz": 54.0,
+      "netto": 31.97,
+      "trefferquote": 83.3,
+      "roi_prozent": 59.2
     },
     "risk": {
       "tipps": 2,
@@ -3428,15 +3527,15 @@
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 342,
-      "gewonnen": 197,
-      "verloren": 127,
+      "tipps": 353,
+      "gewonnen": 203,
+      "verloren": 132,
       "push": 1,
       "offen": 17,
-      "einsatz": 325.0,
-      "netto": 94.33,
-      "trefferquote": 60.8,
-      "roi_prozent": 29.0
+      "einsatz": 336.0,
+      "netto": 93.1,
+      "trefferquote": 60.6,
+      "roi_prozent": 27.7
     },
     "kasse": {
       "name": "2026/27",
@@ -3473,21 +3572,295 @@
         "start": "2026-08-22",
         "ende": "2027-06-30",
         "bilanz": {
-          "tipps": 204,
-          "gewonnen": 137,
-          "verloren": 61,
+          "tipps": 215,
+          "gewonnen": 143,
+          "verloren": 66,
           "push": 0,
           "offen": 6,
-          "einsatz": 198.0,
-          "netto": 97.46,
-          "trefferquote": 69.2,
-          "roi_prozent": 49.2
+          "einsatz": 209.0,
+          "netto": 96.23,
+          "trefferquote": 68.4,
+          "roi_prozent": 46.0
         },
         "ist_aktuell": true
       }
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-11-05",
+      "gesamt": {
+        "tipps": 11,
+        "gewonnen": 6,
+        "verloren": 5,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 11.0,
+        "netto": -1.23,
+        "trefferquote": 54.5,
+        "roi_prozent": -11.2
+      },
+      "spiele": [
+        {
+          "id": "2026-11-05-lev-mar",
+          "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 4",
+          "heim": "Bayer 04 Leverkusen",
+          "gast": "Olympique Marseille",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg Bayer Leverkusen (90 Min)",
+              "quote": 1.55,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Marseille gewinnt 0:1 (Gouiri 77')"
+            },
+            {
+              "markt": "Beide Teams treffen Nein (BTTS Nein)",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.9,
+              "kommentar": "Nur ein Tor im Spiel - Leverkusen trifft nicht"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-05-mil-fer",
+          "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 4",
+          "heim": "AC Milan",
+          "gast": "Ferencvarosi TC",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.85,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Nur 2 Tore im Spiel"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-05-cry-hof",
+          "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 4",
+          "heim": "Crystal Palace",
+          "gast": "TSG 1899 Hoffenheim",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Hoffenheim oder Remis (X2)",
+              "quote": 1.5,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.5,
+              "kommentar": "Remis 1:1 - DC X2 greift"
+            },
+            {
+              "markt": "Beide Teams treffen Ja (BTTS JA)",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.65,
+              "kommentar": "Beide Teams trafen (Prass 7', Kamada 90+1)"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-05-ben-lec",
+          "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 4",
+          "heim": "SL Benfica",
+          "gast": "Lech Poznan",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Benfica oder Remis (1X)",
+              "quote": 1.12,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.12,
+              "kommentar": "Benfica Sieg 3:1 - DC 1X greift"
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.75,
+              "kommentar": "4 Tore - deutlich ueber 2.5"
+            },
+            {
+              "markt": "Benfica Sieg mit Handicap -1",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.85,
+              "kommentar": "Benfica gewinnt mit 2 Toren Vorsprung - HC -1 erfuellt"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-05-ata-kai",
+          "liga": "UEFA Europa Conference League 2026/27 - Ligaphase Spieltag 3",
+          "heim": "Atalanta BC",
+          "gast": "FC Kairat Almaty",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg Atalanta BC (90 Min)",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Remis 1:1 - Atalanta gewinnt nicht (siebtes Spiel ohne Sieg)"
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.5,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Nur 2 Tore"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-05-tra-fre",
+          "liga": "UEFA Europa Conference League 2026/27 - Ligaphase Spieltag 3",
+          "heim": "Trabzonspor",
+          "gast": "SC Freiburg",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.95,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Nur 1 Tor im Spiel"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (Favoriten-Triple)",
+          "kategorie": "safe",
+          "gesamtquote": 3.53,
+          "einsatz_prozent": 2.0,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Bayer 04 Leverkusen - Olympique Marseille: Sieg Bayer Leverkusen (90 Min)",
+              "quote": 1.55,
+              "status": "verloren",
+              "kommentar": "Marseille gewinnt 0:1 (Gouiri 77')"
+            },
+            {
+              "markt": "Atalanta BC - FC Kairat Almaty: Sieg Atalanta BC (90 Min)",
+              "quote": 1.3,
+              "status": "verloren",
+              "kommentar": "Remis 1:1 - Atalanta gewinnt nicht (siebtes Spiel ohne Sieg)"
+            },
+            {
+              "markt": "SL Benfica - Lech Poznan: Über 2.5 Tore",
+              "quote": 1.75,
+              "status": "gewonnen",
+              "kommentar": "4 Tore - deutlich ueber 2.5"
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (Über-2.5-Goldgruben)",
+          "kategorie": "balance",
+          "gesamtquote": 6.31,
+          "einsatz_prozent": 0.8,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "AC Milan - Ferencvarosi TC: Über 2.5 Tore",
+              "quote": 1.85,
+              "status": "verloren",
+              "kommentar": "Nur 2 Tore im Spiel"
+            },
+            {
+              "markt": "AZ Alkmaar - Juventus Turin: Über 2.5 Tore",
+              "quote": 1.75,
+              "status": "gewonnen",
+              "kommentar": "3 Tore im Spiel"
+            },
+            {
+              "markt": "Trabzonspor - SC Freiburg: Über 2.5 Tore",
+              "quote": 1.95,
+              "status": "verloren",
+              "kommentar": "Nur 1 Tor im Spiel"
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (Favoriten-Deckung + Außenseiter-Punkt)",
+          "kategorie": "risk",
+          "gesamtquote": 16.94,
+          "einsatz_prozent": 0.25,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Crystal Palace - TSG 1899 Hoffenheim: Hoffenheim Sieg (90 Min)",
+              "quote": 2.95,
+              "status": "verloren",
+              "kommentar": "Remis - Hoffenheim nicht gewonnen"
+            },
+            {
+              "markt": "Trabzonspor - SC Freiburg: Trabzonspor Sieg (90 Min)",
+              "quote": 2.05,
+              "status": "verloren",
+              "kommentar": "Trabzonspor verliert"
+            },
+            {
+              "markt": "AC Milan - Ferencvarosi TC: Milan Sieg mit Handicap -1",
+              "quote": 2.8,
+              "status": "verloren",
+              "kommentar": "Milan verliert, HC -1 nicht erfuellt"
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (Underdogs + Tor-Lotterie)",
+          "kategorie": "moonshot",
+          "gesamtquote": 126.35,
+          "einsatz_prozent": 0.1,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "AZ Alkmaar - Juventus Turin: Sieg AZ Alkmaar (90 Min)",
+              "quote": 3.8,
+              "status": "verloren",
+              "kommentar": "AZ verloren"
+            },
+            {
+              "markt": "SL Benfica - Lech Poznan: Sieg Lech Poznan (90 Min)",
+              "quote": 10.0,
+              "status": "verloren",
+              "kommentar": "Lech verliert"
+            },
+            {
+              "markt": "Bayer 04 Leverkusen - Olympique Marseille: Beide Teams treffen Nein (BTTS Nein)",
+              "quote": 1.9,
+              "status": "gewonnen",
+              "kommentar": "Nur ein Tor im Spiel - Leverkusen trifft nicht"
+            },
+            {
+              "markt": "Atalanta BC - FC Kairat Almaty: Beide Teams treffen Nein (BTTS Nein)",
+              "quote": 1.75,
+              "status": "verloren",
+              "kommentar": "Beide Teams trafen (Gual 53', Krstovic 82') - BTTS NEIN fiel"
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-11-04",
       "gesamt": {

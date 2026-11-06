@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-04",
+  "stand": "2026-11-06",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -1285,6 +1285,15 @@
       "hinweis": "01.11.2026 nach 0:2 bei Brentford Saisonbilanz 1-2-2 nach 5 PL-Spielen (zusaetzlich zu Fruehstart) - Entlassungs-Spekulationen in Nottingham-Forest-News (01.11.) 'Glasners Postecoglou-Moment', Marinakis-Verfahren weiter offen. Vor Forest-Tipps Aufstellungs-Vorschau am Spieltag live pruefen; falls neuer Trainer bekannt, hier Eintrag mit trainer_neu/trainer_alt ersetzen.",
       "quelle": "https://www.nottinghamforest.news/2026/11/01/oliver-glasner-has-just-had-his-ange-postecoglou-moment-nottingham-forest-must-shape-up/",
       "stand": "2026-11-01"
+    },
+    {
+      "verein": "Crystal Palace",
+      "trainer_neu": "Pierre Sage",
+      "trainer_alt": "Oliver Glasner",
+      "seit": "2026-06-15",
+      "vertrag_bis": "2029-06",
+      "hinweis": "Aufgefallen bei Auswertung 2026-11-05 (Palace 1:1 Hoffenheim UEL MD4): Sky-Sports-Match-Report nennt 'under-pressure Pierre Sage' als Trainer. Kam von RC Lens (Ligue-1-Manager-of-the-Year 2025/26 + Coupe-de-France-Sieger). Kader_wechsel-Datei fuehrte Palace bisher nicht - Nachtrag.",
+      "quelle": "https://www.cpfc.co.uk/news/announcement/pierre-sage-appointed-crystal-palace-manager/"
     }
   ],
   "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist. Fulham hat mit Arbeloa (ex-Real Madrid) einen neuen Trainer, Silva zu Benfica (bestaetigt 25.08.2026). Saison-Verlauf (Stand 01.11.2026): erster Bundesliga-Wechsel Gladbach 13.09. (Polanski -> Lichte Interim -> Blessin ab 22.09. permanent, Vertrag bis 2028); drei Serie-A-Wechsel Fiorentina 07.09. (Grosso -> Vanoli), Bologna 16.09. (Tedesco -> Palladino), Parma 27.09. (Cuesta -> Gilardino ab 30.09. permanent, Weltmeister 2006), vierter Serie-A-Wechsel Venezia 13.10. (Stroppa -> Nicola); AC Milan 06. (Allegri -> Amorim verifiziert 26.10.); drei LaLiga-Wechsel Valencia 13.09. (Corberan -> Aguirre ab 23.09.), Osasuna 12.10. (Ramis -> Arrasate), Espanyol 27.10. (Gonzalez -> Sarabia ab 28.10.); erster Premier-League-Wechsel West Ham 27.09. (Potter -> Nuno Espirito Santo, sofort auf 3 Jahre). Interim-Rollen aktuell keine - alle permanent besetzt. Nottingham Forest: Glasner trotz 1-2-2-Start nach 5 PL-Spielen noch im Amt (01.11. 'Glasners Postecoglou-Moment' nach 0:2 in Brentford). Benfica (nach Mourinho-Abgang) noch offen - vor Europapokal-Tipps auf diese Klubs live pruefen. Bayern-Interim durch Kompany-Krankheit: Aaron Danks seit Mitte Okt.",
@@ -1313,6 +1322,7 @@
     "https://www.bundesliga.com/en/bundesliga/news/alexander-blessin-appointed-borussia-monchengladbach-head-coach-39320",
     "https://www.livescore.com/en/news/football/serie-a/official-parma-appoint-gilardino-as-head-coach-after-dismissing-cuesta-football-italia/",
     "https://www.skysports.com/football/news/13560923/oliver-glasner-to-nottingham-forest-former-crystal-palace-boss-succeeds-vitor-pereira-at-the-city-ground",
-    "https://www.beinsports.com/en-au/football/laliga/articles-video/sarabia-named-as-espanyol-manager-2026-10-28"
+    "https://www.beinsports.com/en-au/football/laliga/articles-video/sarabia-named-as-espanyol-manager-2026-10-28",
+    "https://www.cpfc.co.uk/news/announcement/pierre-sage-appointed-crystal-palace-manager/"
   ]
 }
