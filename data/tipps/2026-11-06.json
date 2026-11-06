@@ -1,0 +1,685 @@
+{
+  "datum": "2026-11-06",
+  "erstellt_am": "2026-11-06T14:30:00+01:00",
+  "_emergency_recovery": true,
+  "hinweis": "Watchdog-Recovery Mo-Fr: Hauptroutine 13:30 lief nicht, Recherche-File fehlte. Fenster-Hartregel: NUR Anstoss 2026-11-06 Berlin. Freitag-Slate ist schmal (keine CL/EL/UECL): 1x Bundesliga Fr-Opener (HSV-Gladbach, Kellerduell), 1x Serie-A-Anticipo (Venezia-Udinese, Zanetti-Debuet gegen Ex-Verein), 1x LaLiga-Fr-Opener (Sevilla-Alaves), 2x 2.BL-Doppel-Anstoss 18:30 (Dresden-Fuerth, Braunschweig-Cottbus). Kasse: 1000€ Stufe 1 (Stufe 2 nicht freigeschaltet trotz rolling-30d-ROI +17.9% - Saison-Edge erst nach manueller Freischaltung). SAFE/VALUE 10-20€, Wackel 5€, Kombis 1-20€. 2:0-Insurance greift NUR im HSV-Gladbach (Bundesliga). Kein Supercup, kein Torschuetzen-Tipp ohne live verifizierte Startelf - Moffi (HSV) + Boye (Alaves) sind Volume-9er-Erwartungen, bei Aufstellungs-Lesung 1h vor Anstoss gegenchecken.",
+  "spiele": [
+    {
+      "id": "2026-11-06-hsv-glad",
+      "liga": "Bundesliga 2026/27 - 9. Spieltag",
+      "heim": "Hamburger SV",
+      "gast": "Borussia Moenchengladbach",
+      "anstoss": "2026-11-06T20:30:00+01:00",
+      "stadion": "Volksparkstadion, Hamburg",
+      "saison_kontext": {
+        "parallel_heim": "keine - HSV Pokal 2.R raus (Oktober), kein Europapokal",
+        "parallel_gast": "keine - Gladbach Pokal 2.R raus (Oktober), kein Europapokal",
+        "saisonziel_heim": "Platz 15, 9 Pkt aus 8 Spielen - Klassenerhalt nach Aufstieg 2025/26, drei Pflichtspielniederlagen in Folge",
+        "saisonziel_gast": "Tabellenletzter, 4 Pkt und 22 Gegentore aus 8 Spielen - unter Blessin erste Punkte (3:2 in Stuttgart + 0:0 vs Paderborn nach sechs Auftakt-Pleiten)",
+        "motivations_asymmetrie": "Beide Kellerkinder mit Druck, aber Gladbach ist der Tabellenletzte mit der schwaechsten Defensive der Liga - HSV braucht Heimsieg nach 3 Pleiten, Blessin hat gerade Zarthauch von Stabilitaet und kommt an Vorlaenderspielpause-Sechs-Punkte-Spiel. 2:0-Insurance greift fuer direkte Sieg-Tipps (Bundesliga).",
+        "recovery_heim": "7 Tage seit letzter Pflichtspielniederlage, Trainer Polzin steht wegen 3er-Krise unter Druck. Vieira (Zerrung), Remberg (Muskel), Nadir (Rueckschlag) OUT - Capaldo + Poulsen fraglich (noch kein Mannschaftstraining), Bornauw-Status unklar.",
+        "recovery_gast": "7 Tage seit 0:0 Paderborn - Kleindienst (Topstuermer, Rueckschlag) + Kuehn (Zerrung) + Bolin (Muskel) + Leopold (Kreuzband langfrist) + Leszczynski (Meniskus langfrist) OUT, Nicolas-Torwart-Status offen. Duenne Decke.",
+        "quellen": [
+          "https://www.bundesliga.com/en/bundesliga/matchday",
+          "https://bmg-news.de/hsv-gegen-gladbach-platz-16-vorbericht/",
+          "https://www.hlsports.de/fussball/kellerduell-im-volkspark-hsv-will-gegen-schlusslicht-die-wende-schaffen-ein-letztes-mal-zuschauer-404836",
+          "https://www.eurosport.de/wetten/prognosen/hamburger-sv-vs-borussia-monchengladbach-prognose-tipps-und-quoten-bundesliga-05-11-26/",
+          "https://www.90min.de/hsv-verletztenupdate-ratsel-um-bornauw-duo-macht-fortschritte",
+          "https://nurdieraute.de/2026/11/06/mit-dieser-elf-zurueck-in-die-erfolgsspur-so-koennte-der-hsv-gegen-gladbach-spielen/"
+        ]
+      },
+      "news": [
+        "Kellerduell: HSV (15.) gegen Tabellenletzten Gladbach (18.) im Volksparkstadion 20:30 CET",
+        "HSV 3 Pflichtspielniederlagen in Folge, Trainer Polzin unter Druck - aber Heimvorteil + Gladbachs 22 Gegentore aus 8 Spielen (schlechteste Liga-Defensive)",
+        "Gladbach-Topstuermer Kleindienst OUT, Kuehn + Bolin ebenfalls - Trainer Blessin (seit 22.09.) muss mit duenner Decke, in Umbruch",
+        "2:0-Insurance greift bei direkten Sieg-Tipps auf HSV (Bundesliga-Aktion)"
+      ],
+      "tipps": [
+        {
+          "id": "hsv-glad-1",
+          "kategorie": "safe",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "edge_prozent": 10.0,
+          "begruendung": "Markt-Goldgrube (Hitrate 63.6% / ROI +40.4%). Gladbach kassiert 2.75 Gegentore pro Spiel (22 aus 8) - schlechteste Defensive der Liga. HSV zuhause mit Moffi als Volume-9er + Setplay-Drohung Lokonga/Torunarigha. Zwei schwache Defensiven + beidseitiger Druck = Tor-Total steht. Einsatz 20€ (2%). bet365 live pruefen.",
+          "faire_quote": 1.73,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "hsv-glad-2",
+          "kategorie": "wackel",
+          "markt": "Hamburger SV oder Remis (Doppelte Chance 1X)",
+          "quote": 1.35,
+          "edge_prozent": 6.5,
+          "begruendung": "Markt-Goldgrube Doppelte Chance 1X (Hitrate 81% / ROI +37.4%). HSV zuhause gegen Tabellenletzten mit 22 Gegentoren und ohne Topstuermer Kleindienst - selbst bei HSV-3er-Krise bleibt Punkteabsicherung realistisch. Degradiert von SAFE wegen HR2 (3 Pflichtspielniederlagen in Folge = Heim-Krise-Trigger). Einsatz 20€ (2%). bet365 live pruefen. [Auto HR4: Story-Konflikt v2 (Heim-Krise-Token in eigener Begruendung) -> value->wackel]",
+          "faire_quote": 1.27,
+          "empfohlener_einsatz_prozent": 2.0,
+          "_story_konflikt_v2": true
+        },
+        {
+          "id": "hsv-glad-3",
+          "kategorie": "wackel",
+          "markt": "Sieg Hamburger SV (90 Min)",
+          "quote": 1.95,
+          "edge_prozent": 7.0,
+          "begruendung": "Eurosport tippt 2:1 HSV. 2:0-Insurance greift zusaetzlich (Bundesliga-Aktion) - wenn HSV im Spielverlauf 2:0 fuehrt, ist der Tipp durch, egal wie es endet. Wegen HR2 (HSV 3-Niederlagen-Krise) nur wackel, nicht VALUE. Gladbach-Decke stark ausgeduennt, Blessin ist 7 Wochen im Amt und noch nicht stabil. Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 1.82,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "hsv-glad-4",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.75,
+          "edge_prozent": 5.0,
+          "begruendung": "Goldgrube BTTS (+15.1% ROI) - aber ohne Kleindienst ist Gladbachs Chancen-Volumen eingeschraenkt, Tabou/Hack muessen den Scorer-Job alleine machen. HSV-Defense auch durchlaessig (mehrere IV-Verletzte). Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 1.67,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "hsv-glad-5",
+          "kategorie": "wackel",
+          "markt": "Moffi Torschuetze jederzeit",
+          "quote": 2.0,
+          "edge_prozent": 4.0,
+          "begruendung": "HR24 2/3 erfuellt: Moffi ist zentraler 9er mit Backup (Adeline), Gegner-Defense in klarer Krise (22 Gegentore). Form-Edge nicht hart nachpruefbar (Sommer-Volumenzahlen unklar) - deshalb wackel statt VALUE. Einwechslungs-Boost greift. Einsatz 5€ (0.5%). bet365 live pruefen UND Startelf 1h vor Anstoss checken.",
+          "faire_quote": 1.92,
+          "empfohlener_einsatz_prozent": 0.5,
+          "_torschuetze_quelle_warn": "Form-Daten letzte-5-Tore-Statistik nicht in Recherche hinterlegt - Aufstellungs-Vorschau am Spieltag bei kicker.de verifizieren"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-06-ven-udi",
+      "liga": "Serie A 2026/27 - Giornata 11",
+      "heim": "Venezia FC",
+      "gast": "Udinese Calcio",
+      "anstoss": "2026-11-06T20:45:00+01:00",
+      "stadion": "Stadio Pier Luigi Penzo, Venedig",
+      "saison_kontext": {
+        "parallel_heim": "keine - Venezia 2026/27 Serie-A exklusiv, kein Europapokal",
+        "parallel_gast": "keine - Udinese 2026/27 Serie-A exklusiv, kein Europapokal",
+        "saisonziel_heim": "Tabellenletzter mit 3 Pkt aus 10 Spielen, Klassenerhalt-Kampf. Trainer Nicola seit 14.10.2026 (ersetzte Stroppa nach 6 Niederlagen in 6 Spielen), 4 Spiele unter ihm bereits absolviert.",
+        "saisonziel_gast": "Platz 18/19 mit 5 Pkt aus 10 Spielen, nach 5:2-Heimpleite gegen Roma letzte Woche. Trainer Runjaic am 01.11. entlassen, Paolo Zanetti seit 02.11. im Amt - Debuet GEGEN SEIN EX-VEREIN Venezia (dort 2024/25 Trainer).",
+        "motivations_asymmetrie": "Zwei Abstiegskandidaten, beide mit Trainer-Neuanfang in den letzten drei Wochen - Kann-Muss-Spiel fuer Venezia zu Hause. Zanetti-Rueckkehr nach Venedig bringt Ex-Trainer-Narrativ + taktische Unberechenbarkeit (Zanetti mag 3er-Kette, kennt Penzo-Platz-Besonderheiten). Keine 2:0-Insurance (gilt nur BL+CL).",
+        "recovery_heim": "7 Tage seit letzter Pflichtspielpartie, Nicola hat eine Trainingswoche. Thiaw + Yeboah fit, Sturmduo Fila/Yeboah als 3-5-2 geplant.",
+        "recovery_gast": "7 Tage seit 2:5 vs Roma. Zanetti erst 4 Tage im Amt - Solet nach Verletzung noch nicht fit zurueck, Davis fraglich. Alaba im 3er-Innen-IV-Zentrum gesetzt.",
+        "quellen": [
+          "https://www.fantamagazine.com/probabili-formazioni/venezia-udinese-probabili-formazioni-dove-vederla/",
+          "https://sportnews.betflag.it/2026/11/06/venezia-udinese-probabili-formazioni-pronostico-serie-a",
+          "https://www.agi.it/sport/news/2026-11-02/udinese-esonera-runjaic-zanetti-pole-39836670/",
+          "https://www.fantacalcio.it/news/calcio-italia/02_11_2026/udinese-scelto-il-sostituto-di-runjaic-c-e-l-accordo-con-zanetti-500131",
+          "https://sport.sky.it/calcio/serie-a/calendario-risultati",
+          "https://en.legaseriea.it/serie-a/"
+        ]
+      },
+      "news": [
+        "Serie-A-Anticipo 11. Giornata, Penzo Venedig 20:45 CET - beide Teams im Abstiegskampf",
+        "Zanetti-Debut bei Udinese direkt gegen seinen Ex-Verein Venedig (Trainer 2024/25) - taktisch 3er-Kette, kennt den kleinen Penzo-Platz",
+        "Beide Trainerwechsel im Oktober/November: Nicola bei Venezia seit 14.10., Zanetti bei Udinese seit 02.11. - hohe Unberechenbarkeit",
+        "Quoten (bet365-Richtwert): Venezia 2.25 / Remis 3.40 / Udinese 3.05 - Venezia leichter Heim-Favorit, aber Coinflip-Tendenz. KEINE 2:0-Insurance (nur BL+CL)"
+      ],
+      "tipps": [
+        {
+          "id": "ven-udi-1",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.8,
+          "edge_prozent": 7.5,
+          "begruendung": "Markt-Goldgrube Unter 2.5 (Hitrate 55.6% / ROI +37.2%). Venezia hat in 10 Spielen nur 3 Punkte (= wenige Scoring-Momente), Udinese kommt aus 5:2-Klatsche + Trainerwechsel. Zwei frische Trainer heissen defensive Grundordnung + weniger Risiko. Penzo-Platz ist eng und schwer zu bespielen. Einsatz 15€ (1.5%). bet365 live pruefen.",
+          "faire_quote": 1.67,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "ven-udi-2",
+          "kategorie": "wackel",
+          "markt": "Sieg Venezia FC (90 Min)",
+          "quote": 2.25,
+          "edge_prozent": 6.0,
+          "begruendung": "Coinflip-Range (2.25-3.40 Range) -> kein SAFE moeglich. Venezia hat Heimvorteil + Trainerwochen-Vorteil (Nicola 4 Spiele vs Zanetti 4 Tage), aber nur 3 Punkte aus 10 Spielen zeigt Mangel an Durchschlagskraft. Zanetti-Debut-Nervositaet + Ex-Trainer-Narrativ gibt Venedig Micro-Edge. Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 2.12,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "ven-udi-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen NEIN (BTTS Nein)",
+          "quote": 1.95,
+          "edge_prozent": 5.0,
+          "begruendung": "Korreliert mit Unter 2.5 (Markt-Goldgrube). Udinese mit 3er-Kette + Alaba im Zentrum als neuer defensiver Pfeiler, Venezia-Offensive begrenzt (Yeboah/Fila als Doppelspitze, aber wenig Volumen). Ein Team schiesst 1, das andere nicht - plausibles Low-Scoring-Game. Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-06-sev-ala",
+      "liga": "LaLiga 2026/27 - Jornada 12",
+      "heim": "Sevilla FC",
+      "gast": "Deportivo Alaves",
+      "anstoss": "2026-11-06T21:00:00+01:00",
+      "stadion": "Ramon Sanchez-Pizjuan, Sevilla",
+      "saison_kontext": {
+        "parallel_heim": "keine - Sevilla nicht im Europapokal 2026/27, Pokal-Runde schon absolviert",
+        "parallel_gast": "keine - Alaves nicht im Europapokal 2026/27",
+        "saisonziel_heim": "Platz 6 mit 17 Pkt aus 11 Spielen (1.55 ppg), Europapokal-Quali-Ambition - zuletzt 1:3 bei Getafe verloren (Auswaerts-Schwankung, zuhause weiter solide)",
+        "saisonziel_gast": "Platz 11 mit 12 Pkt aus 11 Spielen, SIEBEN SPIELE OHNE SIEG - letzter Sieg Anfang September 5:2 gegen Osasuna, seitdem Form eingebrochen",
+        "motivations_asymmetrie": "Sevilla-Form zwar zuletzt gestolpert, aber Pizjuan-Heimstaerke bleibt bestehen. Alaves 7 Spiele ohne Dreier und auswaerts eher harmlos - der Abstand ist groesser als die Tabelle zeigt. Keine 2:0-Insurance (gilt nur BL+CL).",
+        "recovery_heim": "7 Tage seit 1:3 Getafe. Manu Bueno (Rote-Karte-Sperre), Peque (Verletzung), Marcao (Verletzung IV), Miguel Sierra (Verletzung) OUT - aber Sturm (Stassin + Isaac Romero) komplett verfuegbar.",
+        "recovery_gast": "7 Tage seit letzter Partie. Garces (IV) + Mikel Rodriguez (Mittelfeld) OUT - Boye / Toni Martinez als Sturm-Duo, Sivera im Tor (starker Schlussmann historisch).",
+        "quellen": [
+          "https://www.sportsmole.co.uk/football/sevilla/preview/sevilla-vs-alaves-prediction-team-news-lineups_608392.html",
+          "https://khelnow.com/football/sevilla-vs-alaves-preview-laliga-202611",
+          "https://futeros.com/alineaciones-sevilla-alaves-alineacion-probable-de-sevilla-y-alaves-en-la-jornada-12-de-laliga/",
+          "https://news.bet365.es/es-es/article/sevilla-vs-alaves-alineaciones-estadisticas-horario-donde-ver/2026110609294600016",
+          "https://www.eldesmarque.com/futbol/liga-1a-division/20261105/sevilla-fc-deportivo-alaves-posibles-onces-jornada-12_18_020636372.html",
+          "https://www.laliga.com/noticias/horarios-de-la-duodecima-jornada-de-laliga-ea-sports-2026-27"
+        ]
+      },
+      "news": [
+        "LaLiga-Jornada-12-Opener, Ramon Sanchez-Pizjuan 21:00 CET",
+        "Alaves kommt mit 7 Spielen ohne Sieg - Boye/Martinez muessen gegen stabiles Sevilla-Heim scoren",
+        "Sevilla ohne Manu Bueno (Sperre) + Marcao + Peque + Sierra - aber Sturmduo Stassin/Romero komplett",
+        "Prognose Khelnow 2:1 Sevilla. KEINE 2:0-Insurance (nur BL+CL)"
+      ],
+      "tipps": [
+        {
+          "id": "sev-ala-1",
+          "kategorie": "wackel",
+          "markt": "Sevilla oder Remis (Doppelte Chance 1X)",
+          "quote": 1.3,
+          "edge_prozent": 7.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance 1X (Hitrate 81% / ROI +37.4%). Sevilla ist zuhause historisch dominant vs Alaves (21/45 Siege, zuletzt 1:1 Februar 2026). Alaves 7 Spiele ohne Sieg und auswaerts eher harmlos (12 Pkt aus 11 = unterdurchschnittlich). Trotz Sevilla-IV-Ausfaellen bleibt das Punkte-Fundament solide. Einsatz 20€ (2%). bet365 live pruefen. [Auto HR4: Story-Konflikt v2 (Heim-Krise-Token in eigener Begruendung) -> safe->wackel]",
+          "faire_quote": 1.21,
+          "empfohlener_einsatz_prozent": 2.0,
+          "_story_konflikt_v2": true
+        },
+        {
+          "id": "sev-ala-2",
+          "kategorie": "wackel",
+          "markt": "Sieg Sevilla FC (90 Min)",
+          "quote": 2.0,
+          "edge_prozent": 6.0,
+          "begruendung": "Heim-Favorit mit Form-Edge: Alaves 7 Spiele ohne Sieg + Pizjuan-Heimvorteil. Degradiert von SAFE wegen 3 Verteidiger-Ausfaellen (Marcao + Sierra + Peque) - Sevilla-Backline bleibt labil. Keine 2:0-Insurance (nur BL+CL). Einsatz 15€ (1.5%). bet365 live pruefen. [Auto HR4: Story-Konflikt v2 (Heim-Krise-Token in eigener Begruendung) -> value->wackel]",
+          "faire_quote": 1.89,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_story_konflikt_v2": true
+        },
+        {
+          "id": "sev-ala-3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.95,
+          "edge_prozent": 4.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (+40.4% ROI) - aber Alaves spielt historisch Low-Scoring (Sivera starker Keeper, defensive Grundordnung). Sevilla-Offensive zuhause solide, deshalb kein klares Nein. Edge klein, nur wackel. Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 1.87,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-06-dre-fue",
+      "liga": "2. Bundesliga 2026/27 - 11. Spieltag",
+      "heim": "SG Dynamo Dresden",
+      "gast": "SpVgg Greuther Fuerth",
+      "anstoss": "2026-11-06T18:30:00+01:00",
+      "stadion": "Rudolf-Harbig-Stadion, Dresden",
+      "saison_kontext": {
+        "parallel_heim": "keine - Dresden Pokal + Europapokal nicht beteiligt",
+        "parallel_gast": "keine - Fuerth Pokal + Europapokal nicht beteiligt",
+        "saisonziel_heim": "Platz 17/18, Schlusslicht mit 8 Pkt aus 10 Spielen - Klassenerhalt-Kampf. Trainer Thomas Stamm unter Druck, Unruhe in der Stadt.",
+        "saisonziel_gast": "Platz 9 mit 12 Pkt aus 10 Spielen - Mittelfeld, aktuell im Form-Trend positiv, Wiederaufstiegs-Ambition gaenzlich unrealistisch aber Trainer Jan Siewert bleibt stabil.",
+        "motivations_asymmetrie": "Dresden muss zu Hause gewinnen (Punkte-Defizit riesig), Fuerth kommt mit Ruhe + Vier-Punkte-Polster. Historisch Fuerth-Dominanz (9 Siege zu 4 in 18 H2H). Defender Mueller (Dresden) nach Rot gesperrt - Dresden-IV geschwaecht.",
+        "recovery_heim": "7 Tage seit letztem Spiel, duenn besetzt mit Mueller-Sperre. Trainer-Druck in Woche hoch wegen Unruhe Fans.",
+        "recovery_gast": "7 Tage seit letztem Spiel, voller Kader, 4-2-3-1 geplant.",
+        "quellen": [
+          "https://www.sportschau.de/regional/mdr/zweite-bundesliga-dynamo-dresden-greuther-fuerth,vorschau-sgd-sgf-100.html",
+          "https://bulinews.com/2-bundesliga-preview-dynamo-dresden-greuther-furth",
+          "https://www.baykusen.de/dynamo-dresden-voraussichtliche-aufstellung-gegen-greuther-fuerth/",
+          "https://www.sportsgambler.com/betting-tips/football/dynamo-dresden-vs-greuther-furth-prediction-lineups-odds-2026-11-06/",
+          "https://www.wetttippsheute.net/dynamo-dresden-spvgg-greuther-fuerth-tipp-quoten-prognose-2-bundesliga-06-11-2026/"
+        ]
+      },
+      "news": [
+        "2. Bundesliga 11. Spieltag Fr-Opener, Rudolf-Harbig-Stadion Dresden 18:30 CET",
+        "Dresden Schlusslicht (8 Pkt aus 10), Fuerth Platz 9 (12 Pkt) - Fuerth Form-Edge",
+        "Dresden-IV Mueller nach Rot gesperrt - Defensive geschwaecht",
+        "Historisch Fuerth-Dominanz in H2H (9:4 in 18 Begegnungen). KEINE 2:0-Insurance (nur BL+CL)"
+      ],
+      "tipps": [
+        {
+          "id": "dre-fue-1",
+          "kategorie": "value",
+          "markt": "Fuerth oder Remis (Doppelte Chance X2)",
+          "quote": 1.7,
+          "edge_prozent": 7.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance X2 (Hitrate 71.4% / ROI +44%). Fuerth mit 4-Punkte-Polster + stabilem Siewert-System vs Dresdner Schlusslicht ohne IV Mueller (Sperre) + Trainer-Druck. H2H historisch Fuerth-dominant. Einsatz 15€ (1.5%). bet365 live pruefen.",
+          "faire_quote": 1.56,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "dre-fue-2",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.1,
+          "edge_prozent": 4.0,
+          "begruendung": "Dresdner Backline ohne Mueller + Fuerth-Flanken-Offensive (Asta/Jander) tendieren zu Tor-reichen Spielen. Aber 2.BL-typische Grundordnung oft knapp - deshalb wackel, nicht VALUE. Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-06-bra-cot",
+      "liga": "2. Bundesliga 2026/27 - 11. Spieltag",
+      "heim": "Eintracht Braunschweig",
+      "gast": "FC Energie Cottbus",
+      "anstoss": "2026-11-06T18:30:00+01:00",
+      "stadion": "Eintracht-Stadion, Braunschweig",
+      "saison_kontext": {
+        "parallel_heim": "keine - Braunschweig Pokal raus, nicht im Europapokal",
+        "parallel_gast": "keine - Cottbus (Aufsteiger) Pokal raus, nicht im Europapokal",
+        "saisonziel_heim": "Platz 15 mit 10 Pkt aus 10 Spielen - Klassenerhalt, zuletzt 2:0 Niedersachsenderby gegen Hannover gewonnen, danach 1:3 bei Bielefeld verloren.",
+        "saisonziel_gast": "Platz 14 mit 10 Pkt aus 10 Spielen (Aufsteiger-Saison), zuletzt 1:2 vs Bochum verloren. Klassenerhalt-Zielsetzung.",
+        "motivations_asymmetrie": "Punktgleiches Kellerduell, Braunschweig Heim-Vorteil + leicht favorisiert bei Quoten (1.82 vs 3.60). Fuenf Braunschweig-Ausfaelle + drei Cottbus-Ausfaelle - beide duenn, aber Braunschweig mit mehr Startelf-Qualitaet.",
+        "recovery_heim": "7 Tage seit 1:3 Bielefeld, Reaktions-Druck. 5 Ausfaelle, Kader dennoch tiefer als Cottbus.",
+        "recovery_gast": "7 Tage seit 1:2 Bochum. 3 Ausfaelle, Cottbus auswaerts bisher harmloser.",
+        "quellen": [
+          "https://www.liga-zwei.de/vorschau-eintracht-braunschweig-vs-energie-cottbus/",
+          "https://www.sport.de/sportwetten/tipps/eintracht-braunschweig-vs-energie-cottbus-wett-tipp-06-11-2026/",
+          "https://www.news.de/sport/860165068/eintracht-braunschweig-gegen-fc-energie-cottbus-am-06-11-2026-spielplan-fuer-naechste-spiele/1/",
+          "https://regionalheute.de/braunschweig/eintracht-braunschweig-gegen-energie-cottbus-zusatzfahrten-zum-stadion-braunschweig-1793890917/"
+        ]
+      },
+      "news": [
+        "2. Bundesliga 11. Spieltag Fr-Opener, Eintracht-Stadion Braunschweig 18:30 CET",
+        "Punktgleiches Kellerduell: Braunschweig (15./10 Pkt) vs Cottbus (14./10 Pkt)",
+        "Quoten bet365-Richtwert: Braunschweig 1.82 / Remis 3.60 / Cottbus 3.60 - Heim-Favorit",
+        "Braunschweig mit 5, Cottbus mit 3 Ausfaellen. KEINE 2:0-Insurance (nur BL+CL)"
+      ],
+      "tipps": [
+        {
+          "id": "bra-cot-1",
+          "kategorie": "value",
+          "markt": "Sieg Eintracht Braunschweig (90 Min)",
+          "quote": 1.82,
+          "edge_prozent": 6.5,
+          "begruendung": "Heim-Favorit laut Markt (1.82) + Cottbus auswaerts bisher harmlos + tieferer Kader trotz 5 Ausfaellen. Nach 2:0-Derby-Sieg gegen Hannover und 1:3 in Bielefeld jetzt Reaktions-Druck zu Hause. Einsatz 15€ (1.5%). bet365 live pruefen.",
+          "faire_quote": 1.71,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "bra-cot-2",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.0,
+          "edge_prozent": 3.0,
+          "begruendung": "Beide Teams in Kellerduell mit dünnem Kader - Fehler-Risiko hoch. Aber 2.BL Nacht-Spiele oft zaeh und 1:0-0:1 - deshalb wackel, nicht VALUE. Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 1.94,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "hsv-glad-1",
+      "kategorie": "safe",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.9,
+      "edge_prozent": 10.0,
+      "begruendung": "Markt-Goldgrube (Hitrate 63.6% / ROI +40.4%). Gladbach kassiert 2.75 Gegentore pro Spiel (22 aus 8) - schlechteste Defensive der Liga. HSV zuhause mit Moffi als Volume-9er + Setplay-Drohung. Zwei schwache Defensiven + beidseitiger Druck = Tor-Total steht. Einsatz 20€ (2%). bet365 live pruefen.",
+      "faire_quote": 1.73,
+      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_id": "2026-11-06-hsv-glad",
+      "spiel_label": "Hamburger SV vs Borussia Moenchengladbach",
+      "liga": "Bundesliga 2026/27 - 9. Spieltag",
+      "anstoss": "2026-11-06T20:30:00+01:00",
+      "rang": 1
+    },
+    {
+      "id": "sev-ala-1",
+      "kategorie": "safe",
+      "markt": "Sevilla oder Remis (Doppelte Chance 1X)",
+      "quote": 1.3,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube Doppelte Chance 1X (Hitrate 81% / ROI +37.4%). Sevilla zuhause historisch dominant vs Alaves, Alaves 7 Spiele ohne Sieg. Einsatz 20€ (2%). bet365 live pruefen.",
+      "faire_quote": 1.21,
+      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_id": "2026-11-06-sev-ala",
+      "spiel_label": "Sevilla FC vs Deportivo Alaves",
+      "liga": "LaLiga 2026/27 - Jornada 12",
+      "anstoss": "2026-11-06T21:00:00+01:00",
+      "rang": 2
+    },
+    {
+      "id": "hsv-glad-2",
+      "kategorie": "value",
+      "markt": "Hamburger SV oder Remis (Doppelte Chance 1X)",
+      "quote": 1.35,
+      "edge_prozent": 6.5,
+      "begruendung": "Markt-Goldgrube Doppelte Chance 1X. HSV zuhause gegen Tabellenletzten mit 22 Gegentoren und ohne Topstuermer Kleindienst. Degradiert von SAFE wegen HR2 (HSV 3-Niederlagen-Krise). Einsatz 20€ (2%). bet365 live pruefen.",
+      "faire_quote": 1.27,
+      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_id": "2026-11-06-hsv-glad",
+      "spiel_label": "Hamburger SV vs Borussia Moenchengladbach",
+      "liga": "Bundesliga 2026/27 - 9. Spieltag",
+      "anstoss": "2026-11-06T20:30:00+01:00",
+      "rang": 3
+    },
+    {
+      "id": "ven-udi-1",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.8,
+      "edge_prozent": 7.5,
+      "begruendung": "Markt-Goldgrube Unter 2.5 (Hitrate 55.6% / ROI +37.2%). Venezia hat nur 3 Pkt aus 10, Udinese nach 2:5-Roma-Klatsche + Trainerwechsel. Zwei frische Trainer heissen defensive Grundordnung. Einsatz 15€ (1.5%). bet365 live pruefen.",
+      "faire_quote": 1.67,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-11-06-ven-udi",
+      "spiel_label": "Venezia FC vs Udinese Calcio",
+      "liga": "Serie A 2026/27 - Giornata 11",
+      "anstoss": "2026-11-06T20:45:00+01:00",
+      "rang": 4
+    },
+    {
+      "id": "dre-fue-1",
+      "kategorie": "value",
+      "markt": "Fuerth oder Remis (Doppelte Chance X2)",
+      "quote": 1.7,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube Doppelte Chance X2 (Hitrate 71.4% / ROI +44%). Fuerth mit 4-Punkte-Polster vs Schlusslicht Dresden ohne IV Mueller (Sperre). H2H historisch Fuerth-dominant. Einsatz 15€ (1.5%). bet365 live pruefen.",
+      "faire_quote": 1.56,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-11-06-dre-fue",
+      "spiel_label": "SG Dynamo Dresden vs SpVgg Greuther Fuerth",
+      "liga": "2. Bundesliga 2026/27 - 11. Spieltag",
+      "anstoss": "2026-11-06T18:30:00+01:00",
+      "rang": 5
+    },
+    {
+      "id": "sev-ala-2",
+      "kategorie": "value",
+      "markt": "Sieg Sevilla FC (90 Min)",
+      "quote": 2.0,
+      "edge_prozent": 6.0,
+      "begruendung": "Heim-Favorit + Form-Edge: Alaves 7 Spiele ohne Sieg. Degradiert von SAFE wegen 3 Sevilla-IV-Ausfaellen (Marcao+Sierra+Peque). Einsatz 15€ (1.5%). bet365 live pruefen.",
+      "faire_quote": 1.89,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-11-06-sev-ala",
+      "spiel_label": "Sevilla FC vs Deportivo Alaves",
+      "liga": "LaLiga 2026/27 - Jornada 12",
+      "anstoss": "2026-11-06T21:00:00+01:00",
+      "rang": 6
+    },
+    {
+      "id": "bra-cot-1",
+      "kategorie": "value",
+      "markt": "Sieg Eintracht Braunschweig (90 Min)",
+      "quote": 1.82,
+      "edge_prozent": 6.5,
+      "begruendung": "Heim-Favorit (1.82) + Cottbus auswaerts harmlos + tieferer Kader. Nach 2:0-Derby + 1:3-Niederlage jetzt Reaktions-Druck zu Hause. Einsatz 15€ (1.5%). bet365 live pruefen.",
+      "faire_quote": 1.71,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-11-06-bra-cot",
+      "spiel_label": "Eintracht Braunschweig vs FC Energie Cottbus",
+      "liga": "2. Bundesliga 2026/27 - 11. Spieltag",
+      "anstoss": "2026-11-06T18:30:00+01:00",
+      "rang": 7
+    },
+    {
+      "id": "hsv-glad-3",
+      "kategorie": "wackel",
+      "markt": "Sieg Hamburger SV (90 Min)",
+      "quote": 1.95,
+      "edge_prozent": 7.0,
+      "begruendung": "Eurosport-Prognose 2:1 HSV + 2:0-Insurance greift (Bundesliga). Wegen HR2 (HSV 3-Niederlagen-Krise) nur wackel. Einsatz 5€ (0.5%). bet365 live pruefen.",
+      "faire_quote": 1.82,
+      "empfohlener_einsatz_prozent": 0.5,
+      "spiel_id": "2026-11-06-hsv-glad",
+      "spiel_label": "Hamburger SV vs Borussia Moenchengladbach",
+      "liga": "Bundesliga 2026/27 - 9. Spieltag",
+      "anstoss": "2026-11-06T20:30:00+01:00",
+      "rang": 8
+    },
+    {
+      "id": "ven-udi-2",
+      "kategorie": "wackel",
+      "markt": "Sieg Venezia FC (90 Min)",
+      "quote": 2.25,
+      "edge_prozent": 6.0,
+      "begruendung": "Coinflip-Range -> kein SAFE moeglich. Venezia Heim + Trainerwochen-Vorteil vs Zanetti-Debut. Einsatz 5€ (0.5%). bet365 live pruefen.",
+      "faire_quote": 2.12,
+      "empfohlener_einsatz_prozent": 0.5,
+      "spiel_id": "2026-11-06-ven-udi",
+      "spiel_label": "Venezia FC vs Udinese Calcio",
+      "liga": "Serie A 2026/27 - Giornata 11",
+      "anstoss": "2026-11-06T20:45:00+01:00",
+      "rang": 9
+    },
+    {
+      "id": "hsv-glad-5",
+      "kategorie": "wackel",
+      "markt": "Moffi Torschuetze jederzeit",
+      "quote": 2.0,
+      "edge_prozent": 4.0,
+      "begruendung": "HR24 2/3 (zentraler 9er + Gegner-Defense-Krise), Form-Daten nicht verifiziert - deshalb wackel. Einsatz 5€ (0.5%). Startelf 1h vor Anstoss bei kicker.de verifizieren.",
+      "faire_quote": 1.92,
+      "empfohlener_einsatz_prozent": 0.5,
+      "spiel_id": "2026-11-06-hsv-glad",
+      "spiel_label": "Hamburger SV vs Borussia Moenchengladbach",
+      "liga": "Bundesliga 2026/27 - 9. Spieltag",
+      "anstoss": "2026-11-06T20:30:00+01:00",
+      "rang": 10,
+      "_torschuetze_quelle_warn": "Form-Daten letzte 5 Spiele nicht in Recherche hinterlegt - Aufstellungs-Vorschau bei kicker.de verifizieren"
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe-Kombi (Dreier-Goldgrube: Tor-Total + DC X2 + DC 1X)",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-11-06-hsv-glad",
+          "spiel_label": "Hamburger SV vs Borussia Moenchengladbach",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-11-06-dre-fue",
+          "spiel_label": "SG Dynamo Dresden vs SpVgg Greuther Fuerth",
+          "markt": "Fuerth oder Remis (Doppelte Chance X2)",
+          "quote": 1.7,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-06-sev-ala",
+          "spiel_label": "Sevilla FC vs Deportivo Alaves",
+          "markt": "Sevilla oder Remis (Doppelte Chance 1X)",
+          "quote": 1.3,
+          "kategorie": "safe"
+        }
+      ],
+      "gesamtquote": 4.2,
+      "rechnung": "1.90 x 1.70 x 1.30 = 4.20",
+      "einsatz_euro": 20.0,
+      "potential_gewinn_euro": 84.0,
+      "begruendung": "Drei Markt-Goldgruben-Beine aus drei verschiedenen Spielen: Ueber 2.5 (+40% ROI, Gladbach-Defense-Krise), DC X2 (+44% ROI, Fuerth-Form), DC 1X (+37% ROI, Sevilla-Heimstaerke). Keine Sieg-Outcome-Ueberschneidung. Einsatz 20€ (2% Kasse Stufe 1).",
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "name": "Balance-Kombi (Favoriten-Siege + Tor-Total-Hedge)",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-11-06-hsv-glad",
+          "spiel_label": "Hamburger SV vs Borussia Moenchengladbach",
+          "markt": "Sieg Hamburger SV",
+          "quote": 1.95,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-06-bra-cot",
+          "spiel_label": "Eintracht Braunschweig vs FC Energie Cottbus",
+          "markt": "Sieg Eintracht Braunschweig",
+          "quote": 1.82,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-06-ven-udi",
+          "spiel_label": "Venezia FC vs Udinese Calcio",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.8,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 6.39,
+      "rechnung": "1.95 x 1.82 x 1.80 = 6.39",
+      "einsatz_euro": 8.0,
+      "potential_gewinn_euro": 51.12,
+      "begruendung": "Zwei Heim-Favoriten-Siege (HSV mit 2:0-Insurance-Boost + Braunschweig im Kellerduell) + Unter-2.5-Goldgrube (zwei frische Serie-A-Trainer = defensive Grundordnung). Layer-2 sauber: jedes Spiel hat genau 1 Sieg-Outcome. Einsatz 8€ (0.8% Kasse Stufe 1).",
+      "empfohlener_einsatz_prozent": 0.8
+    },
+    {
+      "name": "Risiko-Kombi (BTTS + Tor-Total Fuenfer-Hedge)",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-11-06-hsv-glad",
+          "spiel_label": "Hamburger SV vs Borussia Moenchengladbach",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.75,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-06-ven-udi",
+          "spiel_label": "Venezia FC vs Udinese Calcio",
+          "markt": "Beide Teams treffen NEIN (BTTS Nein)",
+          "quote": 1.95,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-06-dre-fue",
+          "spiel_label": "SG Dynamo Dresden vs SpVgg Greuther Fuerth",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.1,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-06-sev-ala",
+          "spiel_label": "Sevilla FC vs Deportivo Alaves",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.95,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-06-bra-cot",
+          "spiel_label": "Eintracht Braunschweig vs FC Energie Cottbus",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.0,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 27.95,
+      "rechnung": "1.75 x 1.95 x 2.10 x 1.95 x 2.00 = 27.95",
+      "einsatz_euro": 2.5,
+      "potential_gewinn_euro": 69.88,
+      "begruendung": "Fuenf rein markt-entkoppelte Beine (BTTS + Tor-Total-Mix) - KEIN Sieg-Outcome, damit Moonshot den Sieg Udinese kriegen kann. Venezia-Udinese BTTS Nein ist korreliert mit Unter 2.5 in Balance (aber markt-entkoppelt, nicht identisch). Fuenf schwache Defensiven / Chancen-Volumen-Mixes. Einsatz 2.50€ (0.25% Kasse Stufe 1).",
+      "empfohlener_einsatz_prozent": 0.25
+    },
+    {
+      "name": "Moonshot (Underdog-Sieg + Torschuetzen-Volumen)",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-11-06-ven-udi",
+          "spiel_label": "Venezia FC vs Udinese Calcio",
+          "markt": "Sieg Udinese Calcio",
+          "quote": 3.05,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-11-06-hsv-glad",
+          "spiel_label": "Hamburger SV vs Borussia Moenchengladbach",
+          "markt": "Moffi Doppelpack (2+ Tore)",
+          "quote": 9.0,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-11-06-sev-ala",
+          "spiel_label": "Sevilla FC vs Deportivo Alaves",
+          "markt": "Boye Torschuetze jederzeit",
+          "quote": 4.0,
+          "kategorie": "moonshot"
+        }
+      ],
+      "gesamtquote": 109.8,
+      "rechnung": "3.05 x 9.00 x 4.00 = 109.80",
+      "einsatz_euro": 1.0,
+      "potential_gewinn_euro": 109.8,
+      "begruendung": "Dreier-Lotterie: Udinese-Sieg unter Zanetti-Debut gegen Ex-Verein (Narrativ-Edge, Markt bepreist Coinflip als 3.05), Moffi-Doppelpack gegen Gladbachs 22-Gegentore-Defense (HR24 streng fuer Doppelpack, nur Moonshot-Grade), Boye-Tor fuer Alaves-Underdog-Offensive. Spielertor-Tipps brauchen live-verifizierte Startelf! Einsatz 1€ (0.1% Kasse Stufe 1 - reiner Spass-Einsatz).",
+      "empfohlener_einsatz_prozent": 0.1,
+      "_torschuetze_quelle_warn": "Moffi + Boye als Volume-9er angenommen - Startelf 1h vor Anstoss bei kicker.de / transfermarkt verifizieren, sonst Doppelpack-Bein reinraeumen"
+    }
+  ],
+  "lessons_angewandt": [
+    "HR1 Quoten-Range: SAFE 1.30-1.90, VALUE 1.70-2.00, WACKEL 1.95-2.25, MOONSHOT 3.05-9.00 - passt",
+    "HR2 Anti-Heim-Bias: HSV mit 3 Pflichtspielniederlagen in Folge - Sieg HSV auf wackel, DC 1X HSV auf VALUE (nicht SAFE)",
+    "HR4 Story-Konflikt-Check: Sevilla-Form OK (1:3 Getafe war auswaerts, zuhause solide) - kein Konflikt mit DC-1X-SAFE",
+    "HR22 Star-OUT-Implosion: Gladbach-Kleindienst OUT -> kein Gladbach-Sieg-VALUE (Moonshot via Sieg-Underdog umgangen = Ausnahme-Pfad)",
+    "HR23 Layer-3: HSV-Gladbach in 4 Kombis + 3 Einzeln vertreten (markt-entkoppelt), Sevilla-Alaves in 3 Kombis (markt-entkoppelt), Venezia-Udinese in 4 Kombis (markt-entkoppelt), Dresden-Fuerth in 2 Kombis (markt-entkoppelt), Braunschweig-Cottbus in 1 Kombi - Layer-2 (Sieg-Outcome pro Spiel) sauber eingehalten",
+    "HR24 Form-Edge Torschuetzen: Moffi + Boye nur als wackel/moonshot (keine harten Form-Daten in Recherche) - Warn-Flag gesetzt, Startelf-Verifikation vor Anstoss Pflicht",
+    "Markt-Goldgruben aktiv gesucht: Ueber 2.5 (HSV-Glad, Dre-Fue, Sev-Ala, Bra-Cot), DC 1X (Sevilla), DC X2 (Fuerth), Unter 2.5 (Ven-Udi), BTTS (HSV-Glad, Ven-Udi Nein)",
+    "Kein Supercup im Fenster, keine 2:0-Insurance auf Nicht-BL/CL-Spielen, kein Torschuetzen-Markt in Serie-A/LaLiga-Underdog-Spielen ohne Volume-9er-Verifikation",
+    "Zeitfenster-Hartregel: alle 5 Spiele mit Anstoss am 2026-11-06 Berlin (18:30-21:00), keine Sa-/So-Spiele im Tages-Dossier",
+    "Kasse Stufe 1 (1000€, Saison-Edge noch nicht freigeschaltet trotz +17.9% rolling 30d) - SAFE 20€, VALUE 15-20€, Wackel 5€, Safe-Kombi 20€, Balance-Kombi 8€, Risiko-Kombi 2.50€, Moonshot 1€"
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-11-06T14:30:00+01:00",
+    "mode": "inline (Task-Tool nicht verfuegbar in Cloud-Routine)",
+    "drops": [],
+    "downgrades": [
+      {
+        "tipp_id": "hsv-glad-2",
+        "alt": "safe",
+        "neu": "value",
+        "grund": "HR2 Anti-Heim-Bias: HSV mit 3 Pflichtspielniederlagen in Folge - DC-1X-Heim degradiert"
+      },
+      {
+        "tipp_id": "hsv-glad-3",
+        "alt": "value",
+        "neu": "wackel",
+        "grund": "HR2 Anti-Heim-Bias: HSV mit 3er-Pleiten-Serie - direkter Sieg degradiert trotz 2:0-Insurance"
+      },
+      {
+        "tipp_id": "sev-ala-2",
+        "alt": "safe",
+        "neu": "value",
+        "grund": "HR4 / IV-Ausfaelle: Marcao + Sierra + Peque OUT bei Sevilla - Sieg-Tipp degradiert von SAFE"
+      }
+    ],
+    "warns": [
+      {
+        "art": "kader_frische_torschuetzen",
+        "tipp_id": "hsv-glad-5 / moonshot-Bein-2 / moonshot-Bein-3",
+        "details": "Moffi + Boye als Volume-9er angenommen - Form-Daten (letzte-5-Tore) nicht in Recherche. Startelf 1h vor Anstoss bei kicker.de verifizieren, sonst Tipps einraeumen."
+      },
+      {
+        "art": "quoten_plausibilitaet",
+        "details": "Alle Quoten sind Richtwerte aus Aggregator-Previews - bet365 live pruefen. Bei Sevilla-Alaves + 2.BL-Doppel noch keine finalen bet365-Quoten in oeffentlichen Previews."
+      },
+      {
+        "art": "zeitfenster_sauber",
+        "details": "validate_datum_scope: alle 5 Spiele am 2026-11-06 Berlin-Anstoss, keine Fenster-Verletzung."
+      }
+    ],
+    "lessons_generiert": []
+  },
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700"
+}
