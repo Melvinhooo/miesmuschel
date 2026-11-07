@@ -1,0 +1,740 @@
+{
+  "datum": "2026-11-07",
+  "erstellt_am": "2026-11-07T17:30:00+01:00",
+  "_pipeline_run": "Safety-Net Backstop (Haupt + Watchdog nicht geliefert; Recherche-File fehlte, Inline-Fallback nach recherche_routine.md + master_tipps_routine.md). SPAETER-LAUF: Backstop erst kurz vor den 18:30-Anstoessen, deshalb kompaktes Dossier auf die 5 Hauptfokus-Spiele mit Anstoss 18:30-21:00 Berlin.",
+  "hinweis": "Safety-Net Backstop-Lauf (3. Schicht, Haupt + Watchdog haben kein Dossier geliefert). Fenster streng (nur Anstoss 2026-11-07 Berlin). Samstag ist Hauptfokus: 5 Spiele aus Bundesliga + Premier League + LaLiga + Serie A mit Anstoessen 18:30 (Stuttgart-Werder / Nott-City / Osasuna-Athletic), 20:45 (Roma-Sassuolo), 21:00 (Valencia-Real). 2:0-Insurance greift NUR Stuttgart-Werder (Bundesliga). Kasse: 1000€ Stufe 1 (Stufe 2 trotz Saison-Edge noch nicht freigeschaltet). SAFE/VALUE 10-20€, Wackel 5€, Safe-Kombi 20€, Balance 8€, Risiko 2.50€, Moonshot 1€. BACKSTOP-WARNUNG: Torschuetzen-Tipps nur WACKEL/VALUE wenn Volume-9er mit sichtbarer Form-Edge, Startelf 1h vor Anstoss bei kicker.de / fantamagazine verifizieren.",
+  "spiele": [
+    {
+      "id": "2026-11-07-stu-wer",
+      "liga": "Bundesliga 2026/27 - 10. Spieltag",
+      "heim": "VfB Stuttgart",
+      "gast": "SV Werder Bremen",
+      "anstoss": "2026-11-07T18:30:00+01:00",
+      "stadion": "MHPArena, Stuttgart",
+      "saison_kontext": {
+        "parallel_heim": "keine - Stuttgart Pokal + Europapokal in dieser Woche nicht angesetzt",
+        "parallel_gast": "keine - Werder Pokal 2.R bereits durch, nicht im Europapokal 2026/27",
+        "saisonziel_heim": "Platz 11 mit 9 Pkt aus 8 Spielen (1.13 ppg) - Form-Einbruch nach starkem 2025/26, Diehl/Stiller/Zagadou OUT bis mind. Mitte November. Woltemade im Sommer zu Newcastle verkauft, zentraler Volume-9er fehlt bisher",
+        "saisonziel_gast": "Platz 5 mit 15 Pkt aus 8 Spielen (1.88 ppg) - SIEBEN LIGA-SPIELE UNGESCHLAGEN, zuletzt 2:0 vs Hoffenheim. Starke Fluegel-Spiele + Set-Piece-Qualitaet, letzte Partie vor Laenderspielpause",
+        "motivations_asymmetrie": "Werder mit klarem Form-Edge: 7-Spiele-Ungeschlagen-Serie + 15 vs 9 Pkt + 3 Stuttgart-IV-Ausfaelle (Zagadou, Stiller, Diehl). Stuttgart zu Hause solide aber ohne Mittelfeld-Hirn Stiller unsicher. 2:0-Insurance greift fuer direkte Sieg-Tipps (Bundesliga)",
+        "recovery_heim": "7 Tage seit letzter Pflichtspielpartie, kein Europapokal-Belastung. Zagadou, Stiller, Diehl OUT bis mind. Mitte November. Trainer-Druck wegen Form steigt",
+        "recovery_gast": "7 Tage seit 2:0 Hoffenheim-Heimsieg. Felix Agu, Jens Stage, Paul Erevbenagie OUT. Trotz Ausfaellen in Form - letzte Partie vor Laenderspielpause, Siewert-Werder presst hoch",
+        "quellen": [
+          "https://www.espn.com/soccer/team/fixtures/_/id/137/werder-bremen",
+          "https://www.fotmob.com/matches/werder-bremen-vs-vfb-stuttgart/2z3api",
+          "https://www.sofascore.com/football/match/vfb-stuttgart-sv-werder-bremen/JabsCdb",
+          "https://www.sportskeeda.com/football/vfb-stuttgart-vs-werder-bremen-prediction-betting-tips-november-7th-2026",
+          "https://www.bundesliga.com/en/bundesliga/news/confirmed-kick-off-times-dates-2026-27-fixtures-23955"
+        ]
+      },
+      "news": [
+        "Bundesliga 10. Spieltag Samstag-Abendspiel MHPArena 18:30 CET",
+        "Werder 7 Liga-Spiele ungeschlagen (2:0 vs Hoffenheim zuletzt), Platz 5 - Stuttgart 11. mit 9 Pkt, drei IV-Ausfaelle (Zagadou, Stiller, Diehl)",
+        "Letzte Partie vor zweiter Laenderspielpause - fuer beide ein Punkte-Snapshot",
+        "2:0-Insurance greift fuer direkte Sieg-Tipps (Bundesliga-Aktion)"
+      ],
+      "tipps": [
+        {
+          "id": "stu-wer-1",
+          "kategorie": "value",
+          "markt": "Werder oder Remis (Doppelte Chance X2)",
+          "quote": 1.65,
+          "edge_prozent": 8.5,
+          "begruendung": "Markt-Goldgrube Doppelte Chance X2 (Hitrate 72.7% / ROI +44.3%). Werder 7 Spiele ungeschlagen + 15 vs 9 Pkt + Stuttgart-Kernspieler-Ausfaelle (Zagadou IV / Stiller MF-Hirn / Diehl). Auswaerts solide, Form-Edge klar nachweisbar. Einsatz 20€ (2%). bet365 live pruefen.",
+          "faire_quote": 1.52,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "stu-wer-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.95,
+          "edge_prozent": 7.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (Hitrate 59.5% / ROI +29.9%). Werder-Fluegeloffensive hoch, Stuttgart-Mittelfeld ohne Stiller ruhiger Aufbau fehlt + IV-Ausfaelle geben Umschalt-Risiko. Beide Teams brauchen Punkte vor Laenderspielpause. Einsatz 15€ (1.5%). bet365 live pruefen.",
+          "faire_quote": 1.82,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "stu-wer-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.75,
+          "edge_prozent": 5.0,
+          "begruendung": "Markt-Goldgrube BTTS Ja (+16.5% ROI) - Werder presst hoch mit Set-Piece-Volumen, Stuttgart zuhause mit MHPArena-Impuls. Beide Defensiven mit Baustellen (Werder Agu/Stage OUT, Stuttgart komplette IV-Reihe wackelig). Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 1.67,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-07-not-mci",
+      "liga": "Premier League 2026/27 - Matchweek 10",
+      "heim": "Nottingham Forest",
+      "gast": "Manchester City",
+      "anstoss": "2026-11-07T18:30:00+01:00",
+      "stadion": "City Ground, Nottingham",
+      "saison_kontext": {
+        "parallel_heim": "keine - Forest nicht im Europapokal 2026/27, Carabao Cup raus",
+        "parallel_gast": "Champions League Mittwoch 04.11. absolviert (Sieg vs Dortmund 4:1 laut CL MD4) - 3 Tage Recovery, Rotation moeglich",
+        "saisonziel_heim": "Platz 19 mit 6 Pkt aus 9 Spielen (0.67 ppg) - 5 Spiele sieglos, zuhause NOCH NIE PL-Tore getroffen 2026/27 (Herbst), Trainer-Druck wegen Abstiegskampf. Anderson-Verkauf (£116m zu City) hat Mittelfeld-Kern gesprengt",
+        "saisonziel_gast": "Platz 2 mit 21 Pkt aus 10 Spielen (2.10 ppg), 10 von 14 Pflichtspiel-Siegen. Haaland 9 PL-Tore + Toptorschuetze. Enzo Fernandez / Marc Guehi / Ndiaye als Neuzugaenge integriert, Elliot Anderson als Mittelfeld-Motor (kam aus Nott Forest)",
+        "motivations_asymmetrie": "Klarer Klassen-Edge fuer City (21 vs 6 Pkt) + Forest 5 Spiele sieglos + 0 Heimtore in PL. Anderson-Narrativ: Ex-Forest-Mittelfeld kehrt zurueck, City-Startelf durch Anderson-Transfer gestaerkt. Gleichzeitig Pep-Rotation-Risiko nach CL MD4. KEINE 2:0-Insurance (nur BL+CL)",
+        "recovery_heim": "7 Tage seit letzter Partie, voll ausgeruht aber Form-tief",
+        "recovery_gast": "3 Tage seit CL MD4-Sieg - Haaland nicht geschont (Serie unbrochen), aber 2-3 Rotationen bei Flanken/6er-Position wahrscheinlich",
+        "quellen": [
+          "https://www.sportsgambler.com/betting-tips/football/nottingham-forest-vs-manchester-city-prediction-lineups-odds-2026-11-07/",
+          "https://khelnow.com/football/nottingham-forest-vs-manchester-city-preview-premier-league-202611",
+          "https://www.whoscored.com/matches/1983851/preview/england-premier-league-2026-2027-nottingham-forest-manchester-city",
+          "https://www.sportskeeda.com/football/nottingham-forest-vs-manchester-city-prediction-betting-tips-november-7th-2026",
+          "https://footballwhispers.com/blog/nottingham-forest-vs-manchester-city-prediction-07-11-2026/",
+          "https://www.uefa.com/uefachampionsleague/fixtures-results/",
+          "https://www.premierleague.com/fixtures"
+        ]
+      },
+      "news": [
+        "Premier League Matchweek 10, City Ground 17:30 UK = 18:30 CET",
+        "Forest 19./6 Pkt (0 PL-Heimtore 2026/27), City 2./21 Pkt - Haaland 9 PL-Tore Toptorschuetze",
+        "City nach CL MD4 (3 Tage Recovery) - Pep-Rotation moeglich an den Flanken",
+        "Elliot Anderson kehrt mit City-Trikot zu seinem Ex-Verein zurueck (£116m Transfer im Sommer). KEINE 2:0-Insurance (nur BL+CL)"
+      ],
+      "tipps": [
+        {
+          "id": "not-mci-1",
+          "kategorie": "safe",
+          "markt": "Manchester City oder Remis (Doppelte Chance 2X)",
+          "quote": 1.2,
+          "edge_prozent": 7.5,
+          "begruendung": "Markt-Goldgrube DC-Gesamt (+29.5% ROI). City 21 vs 6 Pkt + Forest 5 Spiele sieglos + Forest 0 PL-Heimtore 2026/27. Selbst mit Pep-Rotation nach CL ist Punkte-Absicherung fuer City extrem wahrscheinlich. Einsatz 20€ (2%). bet365 live pruefen.",
+          "faire_quote": 1.11,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "not-mci-2",
+          "kategorie": "value",
+          "markt": "Haaland Torschuetze jederzeit",
+          "quote": 1.65,
+          "edge_prozent": 9.0,
+          "begruendung": "Goldgrube Torschuetze Jederzeit (+24% historisch) + HR24 alle 3 erfuellt: zentraler 9er, kein Backup auf seinem Niveau, Form-Edge sehr hart (9 PL-Tore = Toptorschuetze PL + CL-Tor gegen Dortmund 04.11.). Gegen Forest-Heimdefense (0 eigene Tore ist keine Defense-Kennzahl, aber 1.44 Gegentore/Spiel passt). Einsatz 15€ (1.5%). Startelf-Check 1h vor Anstoss bei bbc.co.uk pflicht.",
+          "faire_quote": 1.51,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "not-mci-3",
+          "kategorie": "value",
+          "markt": "Sieg Manchester City (90 Min)",
+          "quote": 1.45,
+          "edge_prozent": 5.5,
+          "begruendung": "City Auswaerts-Favorit mit Klassen-Edge (21 vs 6 Pkt). Degradiert von SAFE wegen HR2 Away-Favorit-Risiko (Forest spielt im Overdrive zu Hause, Abstiegskampf-Trigger) + Pep-Rotation nach CL MD4. Dennoch solider VALUE-Sieg. Einsatz 15€ (1.5%). bet365 live pruefen.",
+          "faire_quote": 1.37,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "not-mci-4",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen NEIN (BTTS Nein)",
+          "quote": 2.0,
+          "edge_prozent": 4.0,
+          "begruendung": "Forest 0 Heimtore 2026/27 in PL + Ederson defensiv stabil + City-IV durch Guehi-Zugang verbessert. Aber Forest kann im Abstiegs-Overdrive Konter setzen - deshalb nur wackel, nicht VALUE. Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 1.92,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-07-osa-ath",
+      "liga": "LaLiga 2026/27 - Jornada 12",
+      "heim": "CA Osasuna",
+      "gast": "Athletic Club",
+      "anstoss": "2026-11-07T18:30:00+01:00",
+      "stadion": "El Sadar, Pamplona",
+      "saison_kontext": {
+        "parallel_heim": "keine - Osasuna nicht im Europapokal 2026/27, Copa-Runde absolviert",
+        "parallel_gast": "Europa League Donnerstag 05.11. absolviert (CL-/EL-Status laut UEFA-Portal pruefen) - 2 Tage Recovery, Rotations-Risiko bei Flanken",
+        "saisonziel_heim": "Platz 15 mit 11 Pkt aus 11 Spielen (1.00 ppg) - Mittelfeld-Tabelle, zuletzt 1S/1U/3N. Aranguiz' Grundordnung 4-2-3-1, El Sadar-Heimvorteil historisch",
+        "saisonziel_gast": "Platz 7 mit 15 Pkt aus 11 Spielen (1.36 ppg), 2 Siege in Folge nach 2 Remis + 1 Niederlage. Nico Williams / Inaki Williams Doppel-Fluegel-Angriff, Valverde-System stabil",
+        "motivations_asymmetrie": "Baskisches Derby - immer kampfbetont und defensiv. Markt-Quoten 33% Osasuna / 29% Remis / 37% Athletic = reiner COINFLIP. Osasuna braucht Heim-Punkte gegen Abstiegskampf-Nebenzone, Athletic will CL-Quali-Platz 4 verteidigen. Coinflip -> KEIN SAFE moeglich (HR Markt-Mix Punkt 2). KEINE 2:0-Insurance (nur BL+CL)",
+        "recovery_heim": "7 Tage seit letzter Partie, voller Kader",
+        "recovery_gast": "2 Tage seit EL-Donnerstag - Rotation Flanken/6er-Position wahrscheinlich",
+        "quellen": [
+          "https://www.osasuna.es/en-laliga-2026-osasuna-vs-athletic-club",
+          "https://www.dazn.com/es-ES/news/futbol/osasuna-vs-athletic-horario-donde-ver-hoy-tv-online-partido-laliga-2026-2027/j2jvbr3w5awg1xnz9ubb4desz",
+          "https://www.laliga.com/en-GB/clubs/c-a-osasuna/next-matches",
+          "https://es.soccerway.com/partido/athletic-club-IP5zl0cJ/ca-osasuna-ETdxjU8a/",
+          "https://www.sofascore.com/football/match/athletic-club-osasuna/vgbsAgb"
+        ]
+      },
+      "news": [
+        "LaLiga Jornada 12 El Sadar 18:30 CET - Baskisches Derby",
+        "Osasuna 15./11 Pkt vs Athletic 7./15 Pkt - 33/29/37-Quoten = Coinflip-Range",
+        "Athletic nach EL-Donnerstag (2 Tage Recovery) - Rotation bei Flanken wahrscheinlich",
+        "Markt-Ordnung: Coinflip -> kein SAFE moeglich. KEINE 2:0-Insurance (nur BL+CL)"
+      ],
+      "tipps": [
+        {
+          "id": "osa-ath-1",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.8,
+          "edge_prozent": 8.0,
+          "begruendung": "Markt-Goldgrube Unter 2.5 (Hitrate 55.6% / ROI +37.2%). Baskisches Derby historisch defensiv und kampfbetont, beide Teams unterdurchschnittliche Tor-Volumina (Osasuna 1.0 Tor/Spiel, Athletic 1.4 Tor/Spiel). El Sadar enger Platz, Valverde-System kompakt, Athletic-Flanken nach EL muede. Einsatz 15€ (1.5%). bet365 live pruefen.",
+          "faire_quote": 1.67,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "osa-ath-2",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen NEIN (BTTS Nein)",
+          "quote": 1.9,
+          "edge_prozent": 5.0,
+          "begruendung": "Korreliert mit Unter 2.5. Baske-Derby-DNA defensiv, beide Teams historisch 40%+ Zu-Null-Spiele. Athletic nach EL mit Rotation-Risiko in Offensive, Osasuna-Front ohne Volume-9er. Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 1.81,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "osa-ath-3",
+          "kategorie": "wackel",
+          "markt": "Osasuna oder Remis (Doppelte Chance 1X)",
+          "quote": 1.6,
+          "edge_prozent": 6.5,
+          "begruendung": "Markt-Goldgrube Doppelte Chance 1X (Hitrate 81.8% / ROI +36.3%) - aber Coinflip-Range -> kein SAFE moeglich. El Sadar-Heimvorteil + Athletic-EL-Muedigkeit sprechen fuer Osasuna-Puntkeabsicherung. Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 1.5,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-07-rom-sas",
+      "liga": "Serie A 2026/27 - Giornata 11",
+      "heim": "AS Roma",
+      "gast": "US Sassuolo",
+      "anstoss": "2026-11-07T20:45:00+01:00",
+      "stadion": "Stadio Olimpico, Rom",
+      "saison_kontext": {
+        "parallel_heim": "Europa League Donnerstag 05.11. absolviert (CL-/EL-Teilnahme Roma 2026/27: EL) - 2 Tage Recovery nach bitter verlorenem 3:2 bei Manchester United, Rotation wahrscheinlich",
+        "parallel_gast": "keine - Sassuolo (Aufsteiger) nicht im Europapokal",
+        "saisonziel_heim": "Platz 3 mit 24 Pkt aus 10 Spielen (2.40 ppg), -4 zur Lazio-Spitze - Europapokal-Qualifikant unter Gasperini (bewusst defensiv-stabil 3-4-2-1), zuletzt 2:3 bei ManUtd verloren nach 2:0-Rueckstand erzielt",
+        "saisonziel_gast": "Aufsteiger, bisherige Saison Mittelfeld-/Abstiegskampf-Nebenzone. 4-3-3 unter Trainer Aquilani, Berardi als Volumen-Flanke",
+        "motivations_asymmetrie": "Klarer Klassen-Edge Roma (24 Pkt / Platz 3 vs Sassuolo Aufsteiger), aber Roma nach ManUtd-Niederlage + EL-Belastung (2 Tage Recovery) + Gasperini-Rotation. Malen (ex-Villa/BVB) als Roma-Spitze, mit Doppelpack gegen Real CL MD2 - Form-Edge Torschuetzen-Markt. KEINE 2:0-Insurance (nur BL+CL)",
+        "recovery_heim": "2 Tage seit 2:3 bei Manchester United (EL MD4) - Rotation bei Molina / Pisilli moeglich, Gasperini laesst auch Starter im Topspiel starten",
+        "recovery_gast": "7 Tage seit 0:3 Niederlage bei Parma (laut Auswertungen 19.10.), komplette Woche Erholung",
+        "quellen": [
+          "https://www.ilsussidiario.net/news/probabili-formazioni-roma-sassuolo-quote-molti-dubbi-per-gasperini-serie-a-oggi-7-novembre-2026/3016194/",
+          "https://www.dazn.com/it-IT/news/calcio/roma-sassuolo-2026-dove-vedere-diretta-streaming-formazioni/10sweu055emao115sg4pi81wmt",
+          "https://www.ilromanista.eu/news/as-roma/174430/roma-sassuolo-probabili-formazioni-biglietti-dove-vederla-in-tv-e-streaming",
+          "https://www.eurosport.it/calcio/serie-a/2026-2027/roma-sassuolo-probabili-formazioni-statistiche-quando-e-dove-vederla_sto23352585/story.shtml",
+          "https://www.sportal.it/calcio/serie-a/serie-a-2026-2027-roma-sassuolo-le-probabili-formazioni.html",
+          "https://www.uefa.com/uefaeuropaleague/fixtures-results/",
+          "https://en.legaseriea.it/en/"
+        ]
+      },
+      "news": [
+        "Serie A 11. Giornata Olimpico 20:45 CET",
+        "Roma 3./24 Pkt nach 2:3 bei ManUtd (EL MD4) - Rotations-Risiko, aber Topspiel-Startelf erwartet",
+        "Gasperini-System 3-4-2-1: Soule / Mora hinter Malen - Malen Doppelpack gegen Real 14.10. (CL MD2)",
+        "Sassuolo Aufsteiger, 4-3-3, zuletzt 0:3 bei Parma. KEINE 2:0-Insurance (nur BL+CL)"
+      ],
+      "tipps": [
+        {
+          "id": "rom-sas-1",
+          "kategorie": "safe",
+          "markt": "Roma oder Remis (Doppelte Chance 1X)",
+          "quote": 1.22,
+          "edge_prozent": 6.5,
+          "begruendung": "Markt-Goldgrube Doppelte Chance 1X (Hitrate 81.8% / ROI +36.3%) + Serie-A-Spieltag-Context (Liga-Goldgrube Serie A 2026/27 - Giornata 10 lief +160% ROI auf 83% Hitrate). Roma 24 Pkt vs Sassuolo-Aufsteiger, selbst mit EL-Rotations-Risiko bleibt Punkte-Absicherung extrem wahrscheinlich. Einsatz 20€ (2%). bet365 live pruefen.",
+          "faire_quote": 1.14,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "rom-sas-2",
+          "kategorie": "value",
+          "markt": "Sieg AS Roma (90 Min)",
+          "quote": 1.5,
+          "edge_prozent": 6.0,
+          "begruendung": "Heim-Favorit mit 24 Pkt gegen Aufsteiger-Mittelfeld. Degradiert von SAFE wegen HR2/HR4 (Roma nach ManUtd-Niederlage mit 2 Tagen Recovery + Gasperini-Rotation-Risiko). Olimpico-Vorteil bleibt bestehen. Einsatz 15€ (1.5%). bet365 live pruefen.",
+          "faire_quote": 1.42,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "rom-sas-3",
+          "kategorie": "value",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.5,
+          "edge_prozent": 5.0,
+          "begruendung": "Gasperini bei Roma deutlich defensiver als Atalanta-Ara (bewusst 3-4-2-1 mit Dreier-Kette). Sassuolo-Aufsteiger-Offense begrenzt. Zwei frische Dreier-Ketten + EL-Recovery-Modus senken Tor-Erwartung. Einsatz 15€ (1.5%). bet365 live pruefen.",
+          "faire_quote": 1.43,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "rom-sas-4",
+          "kategorie": "wackel",
+          "markt": "Malen Torschuetze jederzeit",
+          "quote": 2.5,
+          "edge_prozent": 6.0,
+          "begruendung": "HR24 2/3 erfuellt: Form-Edge klar (Doppelpack gegen Real CL MD2 14.10.) + zentraler 9er bei Roma (nach Winter-Leihe 2026 fest zum Klub, 14 Serie-A-Tore 2025/26). Backup Dovbyk begrenzt. Rotations-Risiko Einwechslungs-Boost greift. Einsatz 5€ (0.5%). bet365 live pruefen UND Aufstellungs-Vorschau 1h vor Anstoss bei fantamagazine verifizieren.",
+          "faire_quote": 2.36,
+          "empfohlener_einsatz_prozent": 0.5,
+          "_torschuetze_quelle_warn": "Startelf-Verifikation pflicht - Gasperini koennte nach EL-Mittwoch Malen auf Bank setzen"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-07-val-rma",
+      "liga": "LaLiga 2026/27 - Jornada 12",
+      "heim": "Valencia CF",
+      "gast": "Real Madrid",
+      "anstoss": "2026-11-07T21:00:00+01:00",
+      "stadion": "Mestalla, Valencia",
+      "saison_kontext": {
+        "parallel_heim": "keine - Valencia nicht im Europapokal 2026/27",
+        "parallel_gast": "Champions League Dienstag/Mittwoch Pause (MD4 bereits durch), 3 Tage Recovery - keine Rotation noetig",
+        "saisonziel_heim": "Abstiegskampf-Plaetze, 9 Pkt aus 11 Spielen - NOCH KEIN LALIGA-HEIMSIEG 2026/27. Trainer Javier Aguirre, Grundordnung defensiv 4-4-2",
+        "saisonziel_gast": "Platz 1 (oder 2 je nach Barca-Sieg Sonntag) mit 27 Pkt aus 11 Spielen - SIEBEN SIEGE IN FOLGE zwischen LaLiga und CL, Chance mit Barca gleichzuziehen vor Sonntag-Topspiel Atleti-Barca. Mbappe 6 Spiele in Folge getroffen",
+        "motivations_asymmetrie": "Massiver Klassen-Edge Real (27 vs 9 Pkt + 7-Siege-Serie + Barca-Druck). Real will UNBEDINGT gewinnen um mit Barca gleichzuziehen (strategisches Momentum vor Atleti-Barca-Spitzenspiel). Valencia ohne Heimsieg zuhause. KEINE 2:0-Insurance (nur BL+CL)",
+        "recovery_heim": "7 Tage seit letzter Partie, voller Kader",
+        "recovery_gast": "3-4 Tage seit CL MD4 - keine muedigkeitsbedingte Rotation. Mbappe Volume-9er in Form, Bellingham + Vinicius (Status fraglich laut Preview) + Tchouameni/Arda Gueler zurueck",
+        "quellen": [
+          "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/el-valencia-real-madrid-se-jugara-el-sabado-7-de-noviembre-a-las-21-00-h-12-10-2026",
+          "https://www.eldebate.com/deportes/futbol/la-liga/20261106/valencia-real-madrid-horario-donde-ver-tv-jornada-12-laliga_478111.html",
+          "https://blog.codere.pa/futbol/2026/11/previa-de-valencia-vs-real-madrid-de-la-jornada-12-de-laliga-2026/",
+          "https://futbolete.com/actualidad/partidos-de-hoy-sabado-7-de-noviembre-horarios-y-donde-ver-valencia-real-madrid-osasuna-athletic-y-messi/264/",
+          "https://www.laliga.com/en-GB/clubs/real-madrid/next-matches"
+        ]
+      },
+      "news": [
+        "LaLiga Jornada 12 Mestalla 21:00 CET - Topspiel des Tages",
+        "Real 27 Pkt + 7 Siege in Folge, Valencia 9 Pkt + 0 Heimsiege 2026/27 - Mbappe 6 Spiele in Folge Torschuetze",
+        "Real-Druck: mit Barca gleichziehen vor Atleti-Barca Sonntag 18:30",
+        "Vinicius-Startelf fraglich laut Preview - andere Torschuetzen-Optionen (Mbappe, Bellingham) absichern. KEINE 2:0-Insurance (nur BL+CL)"
+      ],
+      "tipps": [
+        {
+          "id": "val-rma-1",
+          "kategorie": "safe",
+          "markt": "Real Madrid oder Remis (Doppelte Chance 2X)",
+          "quote": 1.2,
+          "edge_prozent": 7.5,
+          "begruendung": "Markt-Goldgrube DC-Gesamt (+29.5% ROI) + Liga-Goldgrube LaLiga 2026/27 - Jornada 11 lief +84% ROI bei 60% Hitrate. Real 27 vs 9 Pkt + 7-Siege-Serie + Valencia 0 Heimsiege 2026/27. Selbst bei Valencia-Punkt-Sensation (0%) ist DC-Absicherung extrem wahrscheinlich. Einsatz 20€ (2%). bet365 live pruefen.",
+          "faire_quote": 1.12,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "val-rma-2",
+          "kategorie": "value",
+          "markt": "Sieg Real Madrid (90 Min)",
+          "quote": 1.5,
+          "edge_prozent": 6.5,
+          "begruendung": "Massiver Klassen-Edge + Barca-Druck + 7-Siege-Serie. Degradiert von SAFE wegen HR2 Away-Favorit-Risiko (Mestalla-Druck + Valencia-Abstiegskampf-Overdrive). KEINE 2:0-Insurance (nur BL+CL). Einsatz 15€ (1.5%). bet365 live pruefen.",
+          "faire_quote": 1.41,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "val-rma-3",
+          "kategorie": "value",
+          "markt": "Mbappe Torschuetze jederzeit",
+          "quote": 1.75,
+          "edge_prozent": 8.5,
+          "begruendung": "HR24 alle 3 erfuellt: zentraler 9er bei Real + Form-Edge extrem hart (6 Spiele in Folge Tore / Toptorschuetze LaLiga + CL) + begrenzter Backup (Rodrygo als Fluegel, kein 9er-Backup auf seinem Niveau). Einwechslungs-Boost greift. Einsatz 15€ (1.5%). Startelf 1h vor Anstoss bei marca.com verifizieren.",
+          "faire_quote": 1.61,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_torschuetze_quelle_warn": "Mbappe seit 6 Spielen Scorer - Startelf extrem wahrscheinlich, trotzdem bei marca.com Lineup-Bestaetigung einholen"
+        },
+        {
+          "id": "val-rma-4",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.65,
+          "edge_prozent": 7.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (+29.9% ROI). Real im Barca-Druck-Modus offensiv voll, Valencia offensiv harmlos aber defensiv so loecherig (9 Pkt aus 11 = Abstiegs-Niveau) dass 3+ Tore mit Mbappe-Doppelpack-Szenarien realistisch. Einsatz 15€ (1.5%). bet365 live pruefen.",
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 1.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "rom-sas-1",
+      "kategorie": "safe",
+      "markt": "Roma oder Remis (Doppelte Chance 1X)",
+      "quote": 1.22,
+      "edge_prozent": 6.5,
+      "begruendung": "Markt-Goldgrube DC 1X + Liga-Goldgrube Serie A. Roma 24 Pkt vs Sassuolo-Aufsteiger, Punkte-Absicherung extrem wahrscheinlich trotz EL-Recovery. Einsatz 20€ (2%). bet365 live pruefen.",
+      "faire_quote": 1.14,
+      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_id": "2026-11-07-rom-sas",
+      "spiel_label": "AS Roma vs US Sassuolo",
+      "liga": "Serie A 2026/27 - Giornata 11",
+      "anstoss": "2026-11-07T20:45:00+01:00",
+      "rang": 1
+    },
+    {
+      "id": "val-rma-1",
+      "kategorie": "safe",
+      "markt": "Real Madrid oder Remis (Doppelte Chance 2X)",
+      "quote": 1.2,
+      "edge_prozent": 7.5,
+      "begruendung": "Markt-Goldgrube DC + Liga-Goldgrube LaLiga. Real 27 vs 9 Pkt + 7-Siege-Serie + Valencia 0 Heimsiege 2026/27. Einsatz 20€ (2%). bet365 live pruefen.",
+      "faire_quote": 1.12,
+      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_id": "2026-11-07-val-rma",
+      "spiel_label": "Valencia CF vs Real Madrid",
+      "liga": "LaLiga 2026/27 - Jornada 12",
+      "anstoss": "2026-11-07T21:00:00+01:00",
+      "rang": 2
+    },
+    {
+      "id": "not-mci-1",
+      "kategorie": "safe",
+      "markt": "Manchester City oder Remis (Doppelte Chance 2X)",
+      "quote": 1.2,
+      "edge_prozent": 7.5,
+      "begruendung": "Markt-Goldgrube DC. City 21 vs 6 Pkt + Forest 5 Spiele sieglos + Forest 0 PL-Heimtore 2026/27. Einsatz 20€ (2%). bet365 live pruefen.",
+      "faire_quote": 1.11,
+      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_id": "2026-11-07-not-mci",
+      "spiel_label": "Nottingham Forest vs Manchester City",
+      "liga": "Premier League 2026/27 - Matchweek 10",
+      "anstoss": "2026-11-07T18:30:00+01:00",
+      "rang": 3
+    },
+    {
+      "id": "stu-wer-1",
+      "kategorie": "value",
+      "markt": "Werder oder Remis (Doppelte Chance X2)",
+      "quote": 1.65,
+      "edge_prozent": 8.5,
+      "begruendung": "Markt-Goldgrube DC X2. Werder 7 Spiele ungeschlagen + 15 vs 9 Pkt + Stuttgart-IV-Ausfaelle (Zagadou/Stiller/Diehl). Einsatz 20€ (2%). bet365 live pruefen.",
+      "faire_quote": 1.52,
+      "empfohlener_einsatz_prozent": 2.0,
+      "spiel_id": "2026-11-07-stu-wer",
+      "spiel_label": "VfB Stuttgart vs SV Werder Bremen",
+      "liga": "Bundesliga 2026/27 - 10. Spieltag",
+      "anstoss": "2026-11-07T18:30:00+01:00",
+      "rang": 4
+    },
+    {
+      "id": "val-rma-3",
+      "kategorie": "value",
+      "markt": "Mbappe Torschuetze jederzeit",
+      "quote": 1.75,
+      "edge_prozent": 8.5,
+      "begruendung": "Goldgrube Torschuetze + HR24 alle 3 (Volume-9er + harter Form-Edge 6 Spiele in Folge + begrenzter Backup). Einsatz 15€ (1.5%). Startelf 1h vor Anstoss bei marca.com pruefen.",
+      "faire_quote": 1.61,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-11-07-val-rma",
+      "spiel_label": "Valencia CF vs Real Madrid",
+      "liga": "LaLiga 2026/27 - Jornada 12",
+      "anstoss": "2026-11-07T21:00:00+01:00",
+      "rang": 5,
+      "_torschuetze_quelle_warn": "Mbappe seit 6 Spielen Scorer - Startelf wahrscheinlich, trotzdem bei marca.com Lineup-Bestaetigung einholen"
+    },
+    {
+      "id": "osa-ath-1",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.8,
+      "edge_prozent": 8.0,
+      "begruendung": "Markt-Goldgrube Unter 2.5 (Hitrate 55.6% / ROI +37.2%). Baskisches Derby historisch defensiv, beide unterdurchschnittliche Tor-Volumina, Athletic nach EL muede. Einsatz 15€ (1.5%). bet365 live pruefen.",
+      "faire_quote": 1.67,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-11-07-osa-ath",
+      "spiel_label": "CA Osasuna vs Athletic Club",
+      "liga": "LaLiga 2026/27 - Jornada 12",
+      "anstoss": "2026-11-07T18:30:00+01:00",
+      "rang": 6
+    },
+    {
+      "id": "stu-wer-2",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.95,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5. Werder-Fluegeloffensive hoch, Stuttgart ohne Stiller MF-Hirn + IV-Ausfaelle Umschalt-Risiko. Einsatz 15€ (1.5%). bet365 live pruefen.",
+      "faire_quote": 1.82,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-11-07-stu-wer",
+      "spiel_label": "VfB Stuttgart vs SV Werder Bremen",
+      "liga": "Bundesliga 2026/27 - 10. Spieltag",
+      "anstoss": "2026-11-07T18:30:00+01:00",
+      "rang": 7
+    },
+    {
+      "id": "not-mci-2",
+      "kategorie": "value",
+      "markt": "Haaland Torschuetze jederzeit",
+      "quote": 1.65,
+      "edge_prozent": 9.0,
+      "begruendung": "Goldgrube Torschuetze + HR24 alle 3 (Volume-9er + harter Form-Edge 9 PL-Tore Toptorschuetze + CL-Tor gegen BVB 04.11.). Einsatz 15€ (1.5%). Startelf 1h vor Anstoss bei bbc.co.uk pruefen.",
+      "faire_quote": 1.51,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-11-07-not-mci",
+      "spiel_label": "Nottingham Forest vs Manchester City",
+      "liga": "Premier League 2026/27 - Matchweek 10",
+      "anstoss": "2026-11-07T18:30:00+01:00",
+      "rang": 8
+    },
+    {
+      "id": "val-rma-4",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.65,
+      "edge_prozent": 7.0,
+      "begruendung": "Markt-Goldgrube. Real offensiv voll im Barca-Druck-Modus, Valencia defensiv loecherig (9 Pkt aus 11). Einsatz 15€ (1.5%). bet365 live pruefen.",
+      "faire_quote": 1.55,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-11-07-val-rma",
+      "spiel_label": "Valencia CF vs Real Madrid",
+      "liga": "LaLiga 2026/27 - Jornada 12",
+      "anstoss": "2026-11-07T21:00:00+01:00",
+      "rang": 9
+    },
+    {
+      "id": "val-rma-2",
+      "kategorie": "value",
+      "markt": "Sieg Real Madrid (90 Min)",
+      "quote": 1.5,
+      "edge_prozent": 6.5,
+      "begruendung": "Klassen-Edge + Barca-Druck + 7-Siege-Serie. Degradiert von SAFE wegen HR2 Away-Favorit-Risiko. Einsatz 15€ (1.5%). bet365 live pruefen.",
+      "faire_quote": 1.41,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-11-07-val-rma",
+      "spiel_label": "Valencia CF vs Real Madrid",
+      "liga": "LaLiga 2026/27 - Jornada 12",
+      "anstoss": "2026-11-07T21:00:00+01:00",
+      "rang": 10
+    },
+    {
+      "id": "rom-sas-2",
+      "kategorie": "value",
+      "markt": "Sieg AS Roma (90 Min)",
+      "quote": 1.5,
+      "edge_prozent": 6.0,
+      "begruendung": "Heim-Favorit gegen Aufsteiger-Mittelfeld. Degradiert von SAFE wegen HR4 (Roma nach ManUtd-Niederlage + EL-Recovery + Gasperini-Rotation-Risiko). Einsatz 15€ (1.5%). bet365 live pruefen.",
+      "faire_quote": 1.42,
+      "empfohlener_einsatz_prozent": 1.5,
+      "spiel_id": "2026-11-07-rom-sas",
+      "spiel_label": "AS Roma vs US Sassuolo",
+      "liga": "Serie A 2026/27 - Giornata 11",
+      "anstoss": "2026-11-07T20:45:00+01:00",
+      "rang": 11
+    },
+    {
+      "id": "rom-sas-4",
+      "kategorie": "wackel",
+      "markt": "Malen Torschuetze jederzeit",
+      "quote": 2.5,
+      "edge_prozent": 6.0,
+      "begruendung": "HR24 2/3: Form-Edge klar (Doppelpack gegen Real CL MD2 14.10.) + zentraler 9er bei Roma. Rotations-Risiko nach EL wackel statt VALUE. Einsatz 5€ (0.5%). Aufstellungs-Vorschau 1h vor Anstoss bei fantamagazine verifizieren.",
+      "faire_quote": 2.36,
+      "empfohlener_einsatz_prozent": 0.5,
+      "spiel_id": "2026-11-07-rom-sas",
+      "spiel_label": "AS Roma vs US Sassuolo",
+      "liga": "Serie A 2026/27 - Giornata 11",
+      "anstoss": "2026-11-07T20:45:00+01:00",
+      "rang": 12,
+      "_torschuetze_quelle_warn": "Startelf-Verifikation pflicht - Gasperini koennte nach EL-Mittwoch Malen auf Bank setzen"
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe-Kombi (Dreier-Goldgrube: Torschuetze + DC X2 + Sieg-Favorit)",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-11-07-not-mci",
+          "spiel_label": "Nottingham Forest vs Manchester City",
+          "markt": "Haaland Torschuetze jederzeit",
+          "quote": 1.65,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-07-stu-wer",
+          "spiel_label": "VfB Stuttgart vs SV Werder Bremen",
+          "markt": "Werder oder Remis (Doppelte Chance X2)",
+          "quote": 1.65,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-07-val-rma",
+          "spiel_label": "Valencia CF vs Real Madrid",
+          "markt": "Sieg Real Madrid",
+          "quote": 1.65,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 4.49,
+      "rechnung": "1.65 x 1.65 x 1.65 = 4.49",
+      "einsatz_euro": 20.0,
+      "potential_gewinn_euro": 89.8,
+      "begruendung": "Drei Goldgruben-Beine aus drei verschiedenen Spielen: Haaland Torschuetze (Form-Edge 9 PL-Tore), Werder DC X2 (7 Spiele ungeschlagen), Real Sieg (7 Siege Folge). Keine Sieg-Outcome-Ueberschneidung mit anderen Kombis. Einsatz 20€ (2% Kasse Stufe 1).",
+      "empfohlener_einsatz_prozent": 2.0
+    },
+    {
+      "name": "Balance-Kombi (Tor-Total + BTTS + Torschuetze-Hedge)",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-11-07-osa-ath",
+          "spiel_label": "CA Osasuna vs Athletic Club",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.8,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-07-stu-wer",
+          "spiel_label": "VfB Stuttgart vs SV Werder Bremen",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.75,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-07-val-rma",
+          "spiel_label": "Valencia CF vs Real Madrid",
+          "markt": "Mbappe Torschuetze jederzeit",
+          "quote": 1.75,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 5.51,
+      "rechnung": "1.80 x 1.75 x 1.75 = 5.51",
+      "einsatz_euro": 8.0,
+      "potential_gewinn_euro": 44.08,
+      "begruendung": "Markt-entkoppelte 3er aus 3 Spielen: Unter 2.5 (Baske-Derby-DNA), BTTS Ja (beide Stu/Wer Defensiven loecherig), Mbappe Torschuetze (6 Spiele Folge). Alle Beine Nicht-Sieg-Outcome, damit Risiko-/Moonshot-Kombis die Sieg-Varianten einbauen koennen. Layer-3: Stu-Wer + Val-Rma je 2 Kombis mit markt-entkoppelten Beinen. Einsatz 8€ (0.8% Kasse Stufe 1). Hinweis: Quote 5.51 liegt leicht unter der 6-10x-Zielspanne - Backstop-Modus mit konservativen Form-Quoten.",
+      "empfohlener_einsatz_prozent": 0.8
+    },
+    {
+      "name": "Risiko-Kombi (Coinflip-Sieg + Torschuetze + BTTS)",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-11-07-osa-ath",
+          "spiel_label": "CA Osasuna vs Athletic Club",
+          "markt": "Sieg Osasuna",
+          "quote": 3.0,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-07-rom-sas",
+          "spiel_label": "AS Roma vs US Sassuolo",
+          "markt": "Malen Torschuetze jederzeit",
+          "quote": 2.5,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-07-not-mci",
+          "spiel_label": "Nottingham Forest vs Manchester City",
+          "markt": "Beide Teams treffen NEIN (BTTS Nein)",
+          "quote": 2.0,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 15.0,
+      "rechnung": "3.00 x 2.50 x 2.00 = 15.00",
+      "einsatz_euro": 2.5,
+      "potential_gewinn_euro": 37.5,
+      "begruendung": "Drei markt-entkoppelte Beine: Osasuna-Coinflip-Sieg (El-Sadar-Vorteil + Athletic-EL-Muedigkeit), Malen-Form-Torschuetze, BTTS Nein (Forest 0 Heimtore). Layer-2 sauber: Sieg-Outcomes in Osasuna-Spiel hier erstmals vergeben, Malen = Torschuetze (nicht Sieg-O), BTTS Nein (nicht Sieg-O). Einsatz 2.50€ (0.25% Kasse Stufe 1).",
+      "empfohlener_einsatz_prozent": 0.25
+    },
+    {
+      "name": "Moonshot (Underdog-Doppel + Tor-Flut)",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-11-07-not-mci",
+          "spiel_label": "Nottingham Forest vs Manchester City",
+          "markt": "Sieg Nottingham Forest",
+          "quote": 8.0,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-11-07-rom-sas",
+          "spiel_label": "AS Roma vs US Sassuolo",
+          "markt": "Sieg Sassuolo",
+          "quote": 7.5,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-11-07-val-rma",
+          "spiel_label": "Valencia CF vs Real Madrid",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 2.8,
+          "kategorie": "moonshot"
+        }
+      ],
+      "gesamtquote": 168.0,
+      "rechnung": "8.00 x 7.50 x 2.80 = 168.00",
+      "einsatz_euro": 1.0,
+      "potential_gewinn_euro": 168.0,
+      "begruendung": "Dreier-Lotterie: Forest-Sieg als 19./0-Heimtore-Underdog (City-Pep-Rotation-Risiko nach CL), Sassuolo-Sieg als Aufsteiger-Sensation (Roma nach ManUtd + EL-Muede), Ueber 3.5 im Valencia-Real (Mbappe-Doppelpack-Szenario + Valencia-Defense-Krise). Layer-2 sauber: Forest-Sieg + Sassuolo-Sieg erstmals vergeben, Ueber 3.5 ist Nicht-Sieg-Outcome. Einsatz 1€ (0.1% Kasse Stufe 1 - reiner Spass-Einsatz).",
+      "empfohlener_einsatz_prozent": 0.1
+    }
+  ],
+  "lessons_angewandt": [
+    "HR1 Quoten-Range: SAFE 1.20-1.22, VALUE 1.50-1.95, WACKEL 1.60-2.50, MOONSHOT 2.80-8.00 - passt",
+    "HR2 Anti-Heim-Bias / Away-Favorit-Risiko: Man City (Away-Favorit 1.45) + Real Madrid (Away-Favorit 1.50) beide auf VALUE degradiert statt SAFE - trotz Klassen-Edge",
+    "HR4 Story-Konflikt: Roma nach ManUtd-Niederlage + EL-Recovery -> Sieg-Roma auf VALUE statt SAFE, DC 1X bleibt SAFE (Markt-Goldgrube)",
+    "HR24 Form-Edge Torschuetzen: Haaland (9 PL-Tore + CL-Tor) + Mbappe (6 Spiele Folge) auf VALUE mit Startelf-Verifikations-Warning; Malen nur WACKEL wegen EL-Rotations-Risiko",
+    "HR23 Layer-3: Stuttgart-Werder 2 Kombis (Safe DC X2 + Balance BTTS, markt-entkoppelt), Nott Forest-City 3 Kombis (Safe Haaland + Risiko BTTS Nein + Moonshot Forest-Sieg, markt-entkoppelt), Osasuna-Athletic 2 Kombis (Balance Unter + Risiko Osasuna-Sieg), Roma-Sassuolo 2 Kombis (Risiko Malen + Moonshot Sassuolo-Sieg), Valencia-Real 3 Kombis (Safe Real-Sieg + Balance Mbappe + Moonshot Ueber 3.5)",
+    "Markt-Goldgruben aktiv gesucht: DC 1X (Roma), DC 2 (Real, City), DC X2 (Werder), Ueber 2.5 (Stu-Wer, Val-Rma), Unter 2.5 (Osa-Ath), Torschuetze (Haaland, Mbappe, Malen), BTTS Ja (Stu-Wer), BTTS Nein (Not-Mci, Osa-Ath)",
+    "Coinflip-Regel: Osasuna-Athletic 33/29/37 Quoten-Range = kein SAFE in diesem Spiel, max 3 Tipps (DC 1X wackel, Unter 2.5 VALUE, BTTS Nein wackel - 3 Tipps, erfuellt)",
+    "Kader-Frische: Luis Diaz (Bayern, verletzt bis Ende Nov - heute nicht relevant), Woltemade nicht mehr bei Stuttgart (Newcastle), Elliot Anderson nicht mehr bei Nott Forest (Man City seit Juli 2026), Carvajal nicht mehr bei Real (Getafe seit Oktober). Kader_wechsel_2026.json gegengeprueft.",
+    "Zeitfenster-Hartregel: alle 5 Spiele mit Anstoss am 2026-11-07 Berlin (18:30-21:00), keine Freitag-/Sonntag-Spiele im Tages-Dossier",
+    "2:0-Insurance-Regel: greift NUR Stuttgart-Werder (Bundesliga). In allen 4 anderen Spielen (PL, LaLiga, Serie A) nicht anwendbar - Sieg-Tipps ohne Insurance-Boost bewertet",
+    "Kasse Stufe 1 (1000€, Saison-Edge noch nicht freigeschaltet): SAFE 20€, VALUE 15-20€, Wackel 5€, Safe-Kombi 20€, Balance 8€, Risiko 2.50€, Moonshot 1€"
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-11-07T17:30:00+01:00",
+    "mode": "inline-backstop (Task-Tool nicht verfuegbar in Cloud-Routine, Verifikation nach verifikation.md selbst durchgefuehrt)",
+    "drops": [],
+    "downgrades": [
+      {
+        "tipp_id": "not-mci-3",
+        "alt": "safe",
+        "neu": "value",
+        "grund": "HR2 Away-Favorit-Risiko: Man City Auswaerts + Pep-Rotation nach CL MD4 (3 Tage) + Forest im Abstiegs-Overdrive zu Hause - direkter Sieg degradiert, DC 2X bleibt SAFE"
+      },
+      {
+        "tipp_id": "val-rma-2",
+        "alt": "safe",
+        "neu": "value",
+        "grund": "HR2 Away-Favorit-Risiko: Real Auswaerts + Mestalla-Druck + Valencia-Abstiegs-Overdrive - direkter Sieg degradiert, DC 2X bleibt SAFE"
+      },
+      {
+        "tipp_id": "rom-sas-2",
+        "alt": "safe",
+        "neu": "value",
+        "grund": "HR4 Story-Konflikt: Roma nach bitter verlorenem 2:3 bei ManUtd (EL MD4) + Gasperini-Rotations-Risiko bei 2 Tagen Recovery - direkter Sieg degradiert, DC 1X bleibt SAFE"
+      }
+    ],
+    "warns": [
+      {
+        "art": "kader_frische_torschuetzen",
+        "tipp_id": "not-mci-2 (Haaland) / val-rma-3 (Mbappe) / rom-sas-4 (Malen) / Kombi-Beine",
+        "details": "Haaland + Mbappe beide Volume-9er mit sichtbarer Form-Edge (9 PL-Tore bzw 6 Spiele Folge) - Startelf 1h vor Anstoss bei bbc.co.uk / marca.com verifizieren. Malen WACKEL-Grad wegen Gasperini-Rotations-Risiko nach EL-Donnerstag - Aufstellungs-Vorschau bei fantamagazine pflicht, sonst Tipp einraeumen."
+      },
+      {
+        "art": "quoten_plausibilitaet",
+        "details": "Alle Quoten sind Richtwerte aus Preview-Aggregatoren (whoscored, dazn, fantamagazine). bet365 live pruefen - Backstop-Modus mit Spaet-Lauf, Quoten kurz vor Anstoss volatil."
+      },
+      {
+        "art": "zeitfenster_sauber",
+        "details": "validate_datum_scope: alle 5 Spiele am 2026-11-07 Berlin-Anstoss (18:30 / 20:45 / 21:00), keine Fenster-Verletzung. Bundesliga-Fruehspiele (14:30 Dortmund-Elversberg etc.) sind BEWUSST NICHT im Dossier - Backstop wurde erst gegen 17:30 Berlin erstellt, die 14:30/15:30-Anstoesse waren bereits angelaufen und sind fuer Pre-Match-Tipps zu spaet."
+      },
+      {
+        "art": "backstop_spaet_lauf",
+        "details": "Dossier wurde erst gegen 17:30 Berlin erzeugt (3. Schicht nach Haupt + Watchdog-Ausfall). Bundesliga-14:30-/15:30-Spiele + Fruehe Serie-A-Spiele (Cagliari-Frosinone, Torino-Lecce) + Premier League 12:30- (Leeds-Tottenham) und 15:00-Spiele (Arsenal-Hull, Fulham-Newcastle) sind fuer Pre-Match-Tipps zu spaet - bewusst NICHT im Dossier. Fokus 5 Spiele 18:30-21:00."
+      },
+      {
+        "art": "balance_quote_unter_zielrange",
+        "details": "Balance-Kombi liegt bei 5.51x statt 6-10x Zielrange. Grund: die Backstop-Quoten sind konservativ geschaetzt (Preview-Aggregator-Mittel statt bet365-Live). Bei bet365 kann die Balance-Kombi bei leicht hoeheren Quoten (z.B. Mbappe 1.80 + BTTS Ja 1.90 + Unter 2.5 1.85) auch 6.3x+ erreichen. Bitte vor Einsatz nachrechnen."
+      }
+    ],
+    "lessons_generiert": []
+  },
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700"
+}
