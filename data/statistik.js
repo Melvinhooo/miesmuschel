@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-11-06T17:48:35+00:00",
+  "letzte_berechnung": "2026-11-07T16:43:59+00:00",
   "gesamt": {
     "tipps": 353,
     "gewonnen": 203,
@@ -24,15 +24,15 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 15.1
   },
   "letzte_90_tage": {
-    "tipps": 319,
-    "gewonnen": 186,
-    "verloren": 115,
+    "tipps": 311,
+    "gewonnen": 183,
+    "verloren": 110,
     "push": 1,
     "offen": 17,
-    "einsatz": 302.0,
+    "einsatz": 294.0,
     "netto": 93.1,
-    "trefferquote": 61.8,
-    "roi_prozent": 30.8
+    "trefferquote": 62.5,
+    "roi_prozent": 31.7
   },
   "nach_liga": {
     "UEFA Champions League - 3. Qualifikationsrunde": {
@@ -3588,6 +3588,269 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-11-06",
+      "gesamt": {
+        "tipps": 10,
+        "gewonnen": 5,
+        "verloren": 5,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 10.0,
+        "netto": -1.25,
+        "trefferquote": 50.0,
+        "roi_prozent": -12.5
+      },
+      "spiele": [
+        {
+          "id": "2026-11-06-hsv-glad",
+          "liga": "Bundesliga 2026/27 - 9. Spieltag",
+          "heim": "Hamburger SV",
+          "gast": "Borussia Moenchengladbach",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.9,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.9,
+              "kommentar": ""
+            },
+            {
+              "markt": "Hamburger SV oder Remis (Doppelte Chance 1X)",
+              "quote": 1.35,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.35,
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Hamburger SV (90 Min)",
+              "quote": 1.95,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.95,
+              "kommentar": ""
+            },
+            {
+              "markt": "Moffi Torschuetze jederzeit",
+              "quote": 2.0,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Moffi hat nicht getroffen. Moffi kam erst in der 63. Minute fuer Adeline ins Spiel (eingewechselt, nicht ausgewechselt) - Einwechslungs-Boost greift NICHT (nur wenn getippter Spieler SELBST ausgewechselt wird). HSV-Tore: Muheim 11', Nandja 60', Groenbaek 70'."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-06-ven-udi",
+          "liga": "Serie A 2026/27 - Giornata 11",
+          "heim": "Venezia FC",
+          "gast": "Udinese Calcio",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.8,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Venezia FC (90 Min)",
+              "quote": 2.25,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.25,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-11-06-sev-ala",
+          "liga": "LaLiga 2026/27 - Jornada 12",
+          "heim": "Sevilla FC",
+          "gast": "Deportivo Alaves",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sevilla oder Remis (Doppelte Chance 1X)",
+              "quote": 1.3,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Sevilla FC (90 Min)",
+              "quote": 2.0,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-11-06-dre-fue",
+          "liga": "2. Bundesliga 2026/27 - 11. Spieltag",
+          "heim": "SG Dynamo Dresden",
+          "gast": "SpVgg Greuther Fuerth",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Fuerth oder Remis (Doppelte Chance X2)",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Dresden gewinnt 3:0 - DC X2 (Fuerth oder Remis) faellt aus."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-06-bra-cot",
+          "liga": "2. Bundesliga 2026/27 - 11. Spieltag",
+          "heim": "Eintracht Braunschweig",
+          "gast": "FC Energie Cottbus",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg Eintracht Braunschweig (90 Min)",
+              "quote": 1.82,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 0:0 - Braunschweig gewinnt nicht."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (Dreier-Goldgrube: Tor-Total + DC X2 + DC 1X)",
+          "kategorie": "safe",
+          "gesamtquote": 4.2,
+          "einsatz_prozent": 2.0,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.9,
+              "status": "gewonnen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Fuerth oder Remis (Doppelte Chance X2)",
+              "quote": 1.7,
+              "status": "verloren",
+              "kommentar": "Dresden gewinnt 3:0 - DC X2 (Fuerth oder Remis) faellt aus."
+            },
+            {
+              "markt": "Sevilla oder Remis (Doppelte Chance 1X)",
+              "quote": 1.3,
+              "status": "gewonnen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (Favoriten-Siege + Tor-Total-Hedge)",
+          "kategorie": "balance",
+          "gesamtquote": 6.39,
+          "einsatz_prozent": 0.8,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Sieg Hamburger SV",
+              "quote": 1.95,
+              "status": "gewonnen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Eintracht Braunschweig",
+              "quote": 1.82,
+              "status": "verloren",
+              "kommentar": "Endstand 0:0 - Braunschweig gewinnt nicht."
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.8,
+              "status": "verloren",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (BTTS + Tor-Total Fuenfer-Hedge)",
+          "kategorie": "risk",
+          "gesamtquote": 27.95,
+          "einsatz_prozent": 0.25,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Beide Teams treffen (BTTS Ja)",
+              "quote": 1.75,
+              "status": "gewonnen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen NEIN (BTTS Nein)",
+              "quote": 1.95,
+              "status": "verloren",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 2.1,
+              "status": "gewonnen",
+              "kommentar": "Endstand 3:0 - Ueber 2.5 Tore getroffen."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.95,
+              "status": "verloren",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 2.0,
+              "status": "verloren",
+              "kommentar": "Endstand 0:0 - Ueber 2.5 verfehlt."
+            }
+          ]
+        },
+        {
+          "name": "Moonshot (Underdog-Sieg + Torschuetzen-Volumen)",
+          "kategorie": "moonshot",
+          "gesamtquote": 109.8,
+          "einsatz_prozent": 0.1,
+          "status": "verloren",
+          "beine": [
+            {
+              "markt": "Sieg Udinese Calcio",
+              "quote": 3.05,
+              "status": "verloren",
+              "kommentar": "Venezia gewinnt 2:1 - Udinese-Sieg weg."
+            },
+            {
+              "markt": "Moffi Doppelpack (2+ Tore)",
+              "quote": 9.0,
+              "status": "verloren",
+              "kommentar": "Moffi 0 Tore - Doppelpack-Bedingung nicht erfuellt."
+            },
+            {
+              "markt": "Boye Torschuetze jederzeit",
+              "quote": 4.0,
+              "status": "verloren",
+              "kommentar": "Endstand 0:0 - Boye hat nicht getroffen; Boye in 85' ausgewechselt, Ersatz-Tor-Boost greift mangels Tor nicht."
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-11-05",
       "gesamt": {

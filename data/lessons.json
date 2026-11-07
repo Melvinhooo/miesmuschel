@@ -3941,7 +3941,31 @@
       "kategorie": "HR11-05-4 Topklub-Form-Zweifel-Narrativ zu konservativ gewichtet - Juve-Sieg-Edge verschenkt (8h + 8b)",
       "lesson": "Juventus-Pre-Match-Narrativ war 'taumelnd nach 0:3 Lazio, 1:1 Cagliari' - Routine gewichtete DC X2 statt direkten Sieg (az-juv-1 DC X2 @ 1.35 statt Juve-Sieg ~2.0). Spalletti-Team stand aber 0:2 schon nach 37 Min (Koopmeiners 19', Kolo Muani 37') dank Zugaengen Kolo Muani + Woltemade. DC X2 war Hit (+5.25 EUR), direkter Sieg-Tipp waere +15 EUR gewesen. Pattern: Topklubs mit Umbruch-Phasen (neue Trainer wie Spalletti seit Herbst 2026) haben einen offensiven Zugang + einen Backup, der frueh traegt - Form-Zweifel-Narrativ ueber letzte 2-3 Spiele unterschlaegt den Kader-Edge. Lesson: bei Serie-A/BL/La-Liga-Topklubs mit tiefem Kader + mind. einem offensiven Neuzugang, nicht nur DC X2 als Minimum, sondern bei bet365-Sieg-Quote in Range 1.85-2.10 zusaetzlich einen klassischen Sieg-Tipp oder HC -1 pruefen.",
       "bezug_spiel_id": "2026-11-05-az-juv"
+    },
+    {
+      "datum": "2026-11-06",
+      "kategorie": "HR11-06-1 HR2-Degradierung bei Mega-Defense-Krise des Gastes zu hart (8h + 8b)",
+      "lesson": "HSV-Gladbach 3:1: HR2 Anti-Heim-Bias degradierte DC-1X-HSV von SAFE auf VALUE und Sieg-HSV von VALUE auf wackel, Begruendung 'HSV 3 Pflichtspielniederlagen in Folge = Heim-Krise-Trigger'. Spiel lief klassisch Heim-Favorit (Muheim 11', Scally-Ausgleich, Nandja 60', Groenbaek 70') mit Itakura-Rot als zusaetzlichem Katalysator. Edge-Argument Gladbach-Defense-Krise (22 Gegentore aus 8 Spielen, Kleindienst OUT) wurde vom HR2-Penalty ueberschrieben. Nachrechnung: DC 1X @ 1.35 brachte 20€ x 0.35 = 7€, SAFE haette 2% x 1000 = 20€ identisch gebracht (DC=SAFE-Range), aber Sieg-HSV @ 1.95 brachte 5€ x 0.95 = 4.75€ statt 15€ x 0.95 = 14.25€ bei VALUE-Freigabe. Minder-Ertrag ca. 10€ auf dem Sieg-Tipp. Pattern-Verschaerfung: HR2-Heim-Krise nur ziehen, wenn Gegner nicht selbst schlimmere Trends mitbringt. Schwellen-Vorschlag: Gegner-Gegentore pro Spiel > 2.0 oder Top-Stuermer OUT -> HR2-Penalty wird neutralisiert.",
+      "bezug_spiel_id": "2026-11-06-hsv-glad"
+    },
+    {
+      "datum": "2026-11-06",
+      "kategorie": "HR11-06-2 Doppel-0:0-Freitag - Unter-2.5-Edge bei Keller-/Nacht-Openern (8g + 8c)",
+      "lesson": "Fuenferslate am 2026-11-06 lieferte zwei 0:0 (Sevilla-Alaves + Braunschweig-Cottbus) + ein 3:0 (Dre-Fue) + ein 2:1 (Ven-Udi) + ein 3:1 (HSV-Glad). Vier Ueber-2.5-Einzeltipps 2/4 Hit (hsv-glad-1 G, dre-fue-2 G, sev-ala-3 V, bra-cot-2 V) + zwei weitere Ueber-2.5-Risiko-Kombi-Beine - Kombi gekippt wegen der zwei Null-Spiele. Unter-2.5 war in 2/5 Spielen Hit (SevAla, BraCot). Beide Null-Spiele teilen: LaLiga/2.BL-Fruehansetzung (18:30/21:00 ohne Primetime-Nachbrand), beide Kellerduelle mit duennen Kadern (BTSV 5 Ausfaelle, Alaves auswaerts 7 Spiele sieglos). Pattern: Kellerduelle in Nebenslot-Openern tendieren systematisch zu Unter-2.5 trotz Markt-Goldgrube Ueber-2.5 (+40.4% ROI historisch). Zusatz: BTTS Nein waere in beiden Null-Spielen Hit gewesen - war kein Einzeltipp.",
+      "bezug_spiel_id": "2026-11-06-bra-cot"
+    },
+    {
+      "datum": "2026-11-06",
+      "kategorie": "HR11-06-3 Volume-9er-Torschuetzen ohne Form-Daten streng weglassen (8i + 8h)",
+      "lesson": "Drei Torschuetzen-Tipps: Moffi Jederzeit (wackel @ 2.0) + Moffi Doppelpack (Moonshot @ 9.0) + Boye Jederzeit (Moonshot @ 4.0) - alle drei verloren. Moffi stand nicht in der Startelf, kam erst 63' fuer Adeline rein (Einwechselspieler!) - Einwechslungs-Boost greift NUR wenn der getippte Spieler SELBST ausgewechselt wurde, ist also hier nicht aktiv. Boye wurde 85' ausgewechselt in einem 0:0 - sein Ersatz hat ebenfalls nicht getroffen. Routine hat zurecht wackel-Flag gesetzt wegen fehlender Form-Daten, aber: Volume-9er-These ohne nachgewiesene Startelf-Fixierung + Letzte-5-Tore-Statistik ist strukturell nicht tippbar. Verschaerfung: Bei fehlenden Startelf-Signalen 1h vor Anstoss Torschuetzen-Markt HART droppen, nicht nur wackel. Insgesamt 10€ Einsatz auf Torschuetzen = 10€ Totalverlust an einem Abend ohne Edge. Historisch Torschuetzen Jederzeit = Goldgrube (50% / +24.4% ROI) - aber nur bei verifizierten Startelf-9ern.",
+      "bezug_spiel_id": "2026-11-06-hsv-glad"
+    },
+    {
+      "datum": "2026-11-06",
+      "kategorie": "HR11-06-4 Trainer-Debuet gegen Ex-Verein = Coinflip-Edge zum Heim (8b + 8h)",
+      "lesson": "Venezia 2:1 Udinese: ven-udi-2 (Sieg Venezia @ 2.25) gewonnen - der einzige echte Edge-Treffer in der Coinflip-Range (2.25/3.40/3.05). Narrativ 'Zanetti-Debuet gegen Ex-Verein + Nicola 4 Spiele vs Zanetti 4 Tage Trainerwochen-Vorteil' hat getragen: Basic 53', Kike Perez 65' - Venezia drehte das Spiel nach dem Moreno-ET-Ausgleich. Pattern-Bestaetigung: Trainer-Debuet mit nur 4 Tagen Vorbereitung gegen eingespieltes Heim-Team (gleicher Punkt-Horizont beide) gibt dem Heim-Team Coinflip-Edge, selbst wenn Buchmacher sie als knappen Favoriten taxieren. Ergaenzend: Unter 2.5 Tore (ven-udi-1 V) + BTTS Nein (ven-udi-3 V) scheiterten beide am 2:1 - 'zwei frische Trainer = defensive Grundordnung' ist Trugschluss. Trainer-Debuets bringen eher Chaos in 2.HZ, nicht Low-Scoring.",
+      "bezug_spiel_id": "2026-11-06-ven-udi"
     }
   ],
-  "stand": "2026-11-05"
+  "stand": "2026-11-07"
 }
