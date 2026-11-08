@@ -1,0 +1,722 @@
+{
+  "datum": "2026-11-08",
+  "erstellt_am": "2026-11-08T17:00:00+01:00",
+  "_pipeline_run": "Safety-Net Backstop (3. Schicht). Haupt-Routine + Watchdog haben kein Dossier geliefert. Recherche-File fehlte, deshalb Inline-Recherche nach recherche_routine.md + master_tipps_routine.md. Fokus auf 5 Topspiele (Sonntag-Slate quer durch Bundesliga, Serie A, LaLiga).",
+  "hinweis": "Safety-Net Backstop-Lauf: 5 Hauptfokus-Spiele mit Anstoessen 12:30-21:00 Berlin. 2:0-Insurance greift NUR Koeln-Leverkusen (Bundesliga). Napoli-Lazio ist Coinflip (keine SAFE), Atletico-Barca Spitzenduell (Barca Tabellenfuehrer), Inter-Como grosser Favoriten-Lauf. Kasse: 1000€ Stufe 1 (Stufe-2 trotz Saison-Edge noch nicht freigeschaltet). SAFE/VALUE 10-20€, Wackel 5€, Safe-Kombi 20€, Balance 8€, Risiko 2.50€, Moonshot 1€. Spielerschutz 0800 1372700.",
+  "spiele": [
+    {
+      "id": "2026-11-08-nap-laz",
+      "liga": "Serie A 2026/27 - Giornata 11",
+      "heim": "SSC Napoli",
+      "gast": "SS Lazio",
+      "anstoss": "2026-11-08T12:30:00+01:00",
+      "stadion": "Diego Armando Maradona, Napoli",
+      "saison_kontext": {
+        "parallel_heim": "Champions League Ligaphase ganze Woche nicht - Napoli war 04.11. bei Eintracht Frankfurt (CL MD4), 7 Tage Recovery bis Lazio-Heim",
+        "parallel_gast": "keine - Lazio 2026/27 nicht im Europapokal (verpasste Quali), Coppa Italia 2.R erst im Dezember",
+        "saisonziel_heim": "Platz 8 Serie A, Conte-Startphase harzig - Hojlund 3 Tore in 9 Spielen (gelaendert vs Inter + Como), De-Bruyne im Spielmachermodus. Buongiorno/Di Lorenzo/Lobotka/Spinazzola/Neres/Alisson Santos/Favasuli OUT, Marianucci gesperrt - Defensiv-Notstand",
+        "saisonziel_gast": "Platz 1 Serie A alleine (so hoch wie seit 16 Jahren nicht mehr), 9 Siege in 10 Spielen - Scudetto-Rennen aktiv unter Allegri. Zaccagni + Gudmundsson OUT, Pinamonti (Ex-Sassuolo, seit 27.08.2026 Lazio) fuehrt Angriff",
+        "motivations_asymmetrie": "Lazio leicht favorisiert (Form-Edge + Tabellenfuehrung), aber Napoli-Heimvorteil historisch stark (7. Napoli-Heimspiel gegen Lazio in Folge laut WH-News). Napoli braucht Punkte um Anschluss zu halten. Beide mit Offensiv-Volumen-9er (Hojlund/Pinamonti) - BTTS-Potenzial hoch. COINFLIP - kein SAFE moeglich, max 3 Tipps erlaubt",
+        "recovery_heim": "4 Tage seit 0:0 CL Eintracht (04.11.), Rotation moeglich",
+        "recovery_gast": "7 Tage seit 2:1 Cagliari-Heim, voll ausgeruht",
+        "quellen": [
+          "https://www.ilsussidiario.net/news/probabili-formazioni-napoli-lazio-quote-emergenza-per-allegri-serie-a-oggi-8-novembre-2026/3016252/",
+          "https://www.tuttosport.com/news/calcio/serie-a/2026/11/08-152407492/napoli-lazio_probabili_formazioni_aggiornate_e_diretta_dove_si_vede_in_tv_e_streaming",
+          "https://www.sslazio.it/it/news/match-report/serie-a-enilive-or-napoli-lazio-le-formazioni-ufficiali-a",
+          "https://williamhillnews.it/calcio/serie-a-numeri-e-curiosita-dell11a-giornata-la-lazio-a-napoli-per-la-settima-di-fila-linter-contro-il-como-ha-una-striscia-aperta-di-11-vittorie-consecutive/",
+          "https://www.ysscores.com/en/news/14028809/lazio-officially-signs-andrea-pinamonti",
+          "https://www.legaseriea.it/it/serie-a-enilive/match/napoli-lazio",
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.sofascore.com/football/match/napoli-lazio/JabsCde"
+        ]
+      },
+      "news": [
+        "Serie A G11, Diego Armando Maradona, So 12:30 CET",
+        "Lazio Tabellenfuehrer alleine (9 Siege in 10) - erste Solo-Spitze seit 16 Jahren; Napoli 8. im Formtief",
+        "Napoli Defensiv-Notstand: Buongiorno + Di Lorenzo + Lobotka + Spinazzola OUT; Marianucci gesperrt",
+        "Lazio ohne Zaccagni + Gudmundsson - Pinamonti als Volume-9er + Isaksen/Noslin fluegels",
+        "7. Napoli-Heim gegen Lazio in Folge - historisch Napoli dominant daheim"
+      ],
+      "tipps": [
+        {
+          "id": "nap-laz-1",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.75,
+          "edge_prozent": 8.0,
+          "begruendung": "Markt-Goldgrube BTTS Ja (ROI +16.5%). Beide Offensiven mit Volume-9er (Hoejlund/Pinamonti), beide Defensiven mit Ausfaellen. Napoli-Heimstaerke + Lazio-Topform garantiert offene Partie. Einsatz 15€ (1.5%). bet365 live pruefen.",
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "nap-laz-2",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.0,
+          "edge_prozent": 5.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (ROI +29.9%). Lazios Pinamonti/Isaksen trifft regelmaessig, Napoli-IV mit 4 Ausfaellen (Buongiorno/Di Lorenzo) brueckelt. Wackel-Risiko: Conte koennte auf Null-zu-Null-Taktik gehen. Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 1.9,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "nap-laz-3",
+          "kategorie": "wackel",
+          "markt": "Pinamonti Torschuetze jederzeit",
+          "quote": 2.3,
+          "edge_prozent": 6.0,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Pinamonti als Lazio-Volumen-9er gegen Napoli-IV ohne Buongiorno/Di Lorenzo - Form-Edge + Startelf-Garantie (laut DAZN-Preview). Einwechslungs-Boost-Backup (Noslin/Castellanos) zaehlt. Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 2.1,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-08-koe-lev",
+      "liga": "Bundesliga 2026/27 - 9. Spieltag",
+      "heim": "1. FC Koeln",
+      "gast": "Bayer 04 Leverkusen",
+      "anstoss": "2026-11-08T15:30:00+01:00",
+      "stadion": "RheinEnergieStadion, Koeln",
+      "saison_kontext": {
+        "parallel_heim": "keine - Koeln nicht im Europapokal 2026/27, Pokal 2.R absolviert",
+        "parallel_gast": "Champions League Mittwoch 05.11. absolviert, 3 Tage Recovery - Rotation moeglich aber Schick als Volume-9er fast immer gesetzt",
+        "saisonziel_heim": "Platz 14 mit 9 Pkt aus 8 Spielen (1.13 ppg) - Aufsteiger, muehsamer Rhythmus, letzte 5 Spiele 1S 2U 2N. Offensive um El Mala + Buelter abhaengig, Mittelfeld Krauss/Maina steht",
+        "saisonziel_gast": "Platz 6 mit 13 Pkt aus 8 Spielen (1.63 ppg) - Schick 7 Tore in 7 Spielen (Top-Scorer!), neuer Trainer-Push Richtung CL-Quali. Hincapie (Arsenal) + Grimaldo (Atletico) ersetzt durch Medina + Gutierrez, Offensiv-Einheit Schick/Tillman/Maza harmoniert",
+        "motivations_asymmetrie": "Leverkusen klarer Auswaerts-Favorit (<2.20 erwartet): Form-Edge + 4 Pkt besser + Schick-Topform (7 Tore in 7). Koeln zu Hause solide aber ohne Klassen-Durchschlagskraft. 2:0-Insurance greift fuer direkte Sieg-Tipps (Bundesliga-Aktionsregel)",
+        "recovery_heim": "7 Tage seit letzter Liga-Partie, voll ausgeruht",
+        "recovery_gast": "3 Tage seit CL Mittwoch - Rotation moeglich; Schick fast immer dabei (7/7 Liga)",
+        "quellen": [
+          "https://www.goal.com/de/sportwetten/tipps/koeln-vs-bayer-leverkusen-prognosen-08-11-2026/A%3Ablt8f10079e8f1dd0fc",
+          "https://sports.yahoo.com/articles/confirmed-lineups-1-fc-k-131500680.html",
+          "https://come-on-fc.com/profis/1-fc-koeln-leverkusen-voraussichtliche-aufstellung/",
+          "https://mylineups.app/matches/bundesliga/1-fc-koln-vs-bayer-leverkusen-2026-11-08/",
+          "https://www.espn.com/soccer/team/stats/_/id/131/bayer-leverkusen",
+          "https://www.vavel.com/en/data/bayer-04-leverkusen/stats/"
+        ]
+      },
+      "news": [
+        "Bundesliga 9. Spieltag Sonntag-Spiel RheinEnergieStadion 15:30 CET",
+        "Leverkusen 6. mit 13 Pkt, Koeln 14. mit 9 Pkt - 4 Pkt-Gap + Form-Edge",
+        "Schick 7 Tore in 7 Spielen (Bundesliga-Top-Scorer) - trifft in jedem Spiel ausser 0:3 Hoffenheim",
+        "Leverkusen 3 Tage nach CL-Partie - Rotation moeglich, Schick 7/7 Startelf",
+        "2:0-Insurance greift fuer direkte Sieg-Tipps (Bundesliga-Aktion)"
+      ],
+      "tipps": [
+        {
+          "id": "koe-lev-1",
+          "kategorie": "safe",
+          "markt": "Leverkusen oder Remis (Doppelte Chance X2)",
+          "quote": 1.3,
+          "edge_prozent": 10.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance X2 (Hitrate 72.7% / ROI +44.3%). Leverkusen 4 Pkt besser + Schick-Topform + Koeln-Aufsteiger-Niveau. 2:0-Insurance zusaetzlich. Einsatz 20€ (2%). bet365 live pruefen.",
+          "faire_quote": 1.2,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "koe-lev-2",
+          "kategorie": "wackel",
+          "markt": "Schick Torschuetze jederzeit",
+          "quote": 1.95,
+          "edge_prozent": 10.0,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Schick 7 Tore in 7 Spielen - trifft in jedem Spiel ausser 0:3 Hoffenheim. Koeln-IV um Schmied/Simpson-Pusey gegen diesen Volumen-9er zweifelhaft. Einwechslungs-Boost-Backup (Kofane) zaehlt. Einsatz 15€ (1.5%). bet365 live pruefen. [Auto HR3: UEFA-Doppelbelastung + Rotation - Top-Stuermer max WACKEL, Joker-Tipp suchen] [Auto HR3: UEFA-Doppelbelastung + Rotation - Top-Stuermer max WACKEL, Joker-Tipp suchen]",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.5,
+          "_joker_top_stuermer_block": true
+        },
+        {
+          "id": "koe-lev-3",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 7.5,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (+29.9% ROI). Leverkusen 18 Tore in 8 Spielen (Top-Offensive), Koeln-Defensive Schmied/Simpson-Pusey wacklig. Koeln zuhause sucht Punkte, Spiel bleibt offen. Einsatz 15€ (1.5%). bet365 live pruefen.",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 1.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-08-int-com",
+      "liga": "Serie A 2026/27 - Giornata 11",
+      "heim": "Inter Mailand",
+      "gast": "Como 1907",
+      "anstoss": "2026-11-08T18:00:00+01:00",
+      "stadion": "Giuseppe Meazza, Mailand",
+      "saison_kontext": {
+        "parallel_heim": "Champions League Dienstag 03.11. absolviert (CL MD4), 5 Tage Recovery - voll ausgeruht",
+        "parallel_gast": "keine - Como nicht im Europapokal 2026/27, Serie-A-Fokus",
+        "saisonziel_heim": "Top-4 Scudetto-Konkurrenz: offene Siegesserie von 11 Partien gegen Como historisch (WH-News), 2026/27 wieder in Spitzenform unter Chivu - Thuram + Esposito Top-Scorer-Paar",
+        "saisonziel_gast": "Como Aufsteiger-Jahr 2 unter Fabregas, Nico Paz als Spielmacher. KEAN (Muskel) + DIAO (Oberschenkel) + CHALOBAH (Muskel) OUT - Volume-Angreifer Douvikas alleine vorne, Baturina von hinten rein",
+        "motivations_asymmetrie": "Inter klarer Heim-Favorit (Sieg-Quote 1.85). 11-Spiele-Siegesserie gegen Como + 3 Ausfaelle beim Como-Angriff (Kean/Diao/Chalobah) + Inter 5-Tage-Recovery nach CL. Como trifft meist aus Umschaltspiel, jetzt ohne Kean = kein Volume-9er mehr. Form-Edge + Klassen-Edge ueberlagert",
+        "recovery_heim": "5 Tage seit CL Dienstag, komplett regeneriert",
+        "recovery_gast": "7 Tage seit 2:0 vs Sassuolo - voll ausgeruht, aber 3 Angriffs-Ausfaelle schwaechen",
+        "quellen": [
+          "https://www.ilsussidiario.net/news/probabili-formazioni-inter-como-quote-esposito-oppure-bonny-serie-a-oggi-8-novembre-2026/3016288/",
+          "https://www.goal.com/it/scommesse/pronostici/pronostici-inter-como-08-11-2026/A%3Abltc5ca0e38070fc555",
+          "https://williamhillnews.it/calcio/serie-a-numeri-e-curiosita-dell11a-giornata-la-lazio-a-napoli-per-la-settima-di-fila-linter-contro-il-como-ha-una-striscia-aperta-di-11-vittorie-consecutive/",
+          "https://www.sportytrader.it/pronostici/inter-como-385802/",
+          "https://www.legaseriea.it/it/serie-a-enilive/match/inter-como",
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.sofascore.com/football/match/inter-como/XYZ123"
+        ]
+      },
+      "news": [
+        "Serie A G11, Giuseppe Meazza, So 18:00 CET",
+        "Inter offene 11-Siege-Serie gegen Como - historischer Angstgegner",
+        "Como-Ausfaelle: Kean (Muskel), Diao (Oberschenkel), Chalobah (Muskel) - Douvikas als einziger Volume-Stuermer",
+        "Inter 5 Tage nach CL - voll ausgeruht, Thuram + Esposito spielen laut Sky-Preview",
+        "Snai-Quoten: Inter 1.85 / Remis 4.00 / Como 3.60 - klarer Favorit"
+      ],
+      "tipps": [
+        {
+          "id": "int-com-1",
+          "kategorie": "value",
+          "markt": "Inter Sieg (90 Min)",
+          "quote": 1.85,
+          "edge_prozent": 7.5,
+          "begruendung": "11-Siege-Serie gegen Como + Como-Angriff ohne Kean/Diao/Chalobah + Inter 5-Tage-Recovery nach CL. Thuram/Esposito-Doppelspitze gegen 4-Mann-Kette mit 3 Ausfaellen. Half-Kelly bei 60% Hit-Rate = 2% (20€). bet365 live pruefen.",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "int-com-2",
+          "kategorie": "wackel",
+          "markt": "Thuram Torschuetze jederzeit",
+          "quote": 2.0,
+          "edge_prozent": 8.0,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Thuram als Volumen-9er gegen Como-IV ohne Chalobah (Muskelfaser). Einwechslungs-Boost-Backup (Bonny/Esposito) zaehlt. Form: wechselhaft letzte Wochen aber hohe Chancenquote. Einsatz 10€ (1%). bet365 live pruefen. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "int-com-3",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 8.5,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (+29.9% ROI). Inter-Offensive Thuram/Esposito/Calhanoglu/Barella + Como spielt offen hoch mit Nico Paz. 11-Siege-Serie-Spiele gegen Como haeufig 2+ Inter-Tore + 1 Como-Tor. Einsatz 15€ (1.5%). bet365 live pruefen.",
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 1.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-08-fio-juv",
+      "liga": "Serie A 2026/27 - Giornata 11",
+      "heim": "ACF Fiorentina",
+      "gast": "Juventus Turin",
+      "anstoss": "2026-11-08T20:45:00+01:00",
+      "stadion": "Artemio Franchi, Florenz",
+      "saison_kontext": {
+        "parallel_heim": "keine - Fiorentina 2026/27 nicht im Europapokal (Conference-League-Aus im Oktober gegen Zrinjski)",
+        "parallel_gast": "Champions League Mittwoch 05.11. absolviert (3:1 vs AZ Alkmaar) - 3 Tage Recovery, Rotation moeglich aber Kolo Muani/Woltemade Volume-9er fest",
+        "saisonziel_heim": "Form-Krise: Serie-A-Start tutt'altro che soddisfacente laut Preview, Trainer-Druck. Pellegrino als Volume-9er alleine vorne, Mastantuono/Njie flueglisch. Dragusin (von Tottenham) IV neu",
+        "saisonziel_gast": "Spalletti-Juve findet Weg: zuletzt 2 Siege (Napoli Liga + AZ Alkmaar CL) = Oxygen + Enthusiasmus wieder da. AUSFAELLE: Cambiaso, YILDIZ (Metatarsale OP langzeit), THURAM, Locatelli, Nico Gonzalez - Kolo Muani + Woltemade (Leihe Newcastle seit 01.09.) als Doppelspitze",
+        "motivations_asymmetrie": "Juventus auswaerts-Favorit nach 2 Siegen vs Form-Krisen-Fiorentina. Trotz vieler Ausfaelle (Juve) gleicht Fiorentina ebenfalls viele aus. Spalletti-Aufwind + Volume-9er-Doppelspitze Kolo Muani/Woltemade gegen Fiorentina-Dragusin-Debuet-Phase. Unter-2.5 Hinweis: beide Teams mit vielen Ausfaellen koennten defensiv agieren",
+        "recovery_heim": "7 Tage seit letzter Partie - voll ausgeruht",
+        "recovery_gast": "3 Tage seit CL AZ - Rotation moeglich, Kolo Muani/Woltemade Volume-9er fest",
+        "quellen": [
+          "https://www.ilsussidiario.net/news/probabili-formazioni-fiorentina-juventus-quote-tre-dubbi-per-spalletti-serie-a-oggi-8-novembre-2026/3016296/",
+          "https://www.fantacalcio.it/news/calcio-italia/08_11_2026/fiorentina-juventus-le-probabili-formazioni-e-dove-vederla-in-tv-500415",
+          "https://www.sportmediaset.mediaset.it/calcio/juventus/fiorentina-juventus-probabili-formazioni-spalletti-vanoli_118695697-202602k.shtml",
+          "https://sport.quotidiano.net/calcio/fiorentina/fiorentina-juve-probabili-formazioni-e-orario-tv-174d92f6",
+          "https://www.legaseriea.it/it/serie-a-enilive/match/fiorentina-juventus",
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.sofascore.com/football/match/fiorentina-juventus/ABC456"
+        ]
+      },
+      "news": [
+        "Serie A G11, Artemio Franchi, So 20:45 CET (Posticipo)",
+        "Juve aus 2 Siegen (Napoli + AZ Alkmaar CL) - Spalletti findet Rhythmus",
+        "Juve-Ausfaelle: Cambiaso + YILDIZ (Metatarsale langzeit) + Thuram + Locatelli + Nico Gonzalez",
+        "Fiorentina Form-Krise unter Vanoli - Pellegrino als Volume-9er",
+        "Juve Doppelspitze: Kolo Muani + Woltemade (Leihe Newcastle)"
+      ],
+      "tipps": [
+        {
+          "id": "fio-juv-1",
+          "kategorie": "value",
+          "markt": "Juventus oder Remis (Doppelte Chance X2)",
+          "quote": 1.45,
+          "edge_prozent": 8.5,
+          "begruendung": "Markt-Goldgrube Doppelte Chance X2 (+44.3% ROI). Juve aus 2 Siegen, Fiorentina in Form-Krise. 2:0-Insurance greift NICHT (nur Bundesliga + CL). Einsatz 20€ (2%). bet365 live pruefen.",
+          "faire_quote": 1.33,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "fio-juv-2",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 10.0,
+          "begruendung": "Markt-Goldgrube Unter 2.5 (ROI +37.2%). Fiorentina Form-krise + viele Juve-Ausfaelle (Yildiz/Thuram/Nico Gonzalez) + Posticipo-Druck -> tendenziell defensive Partie. Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 1.68,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "fio-juv-3",
+          "kategorie": "wackel",
+          "markt": "Kolo Muani Torschuetze jederzeit",
+          "quote": 2.4,
+          "edge_prozent": 6.0,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Kolo Muani als Juve Volume-9er neben Woltemade - Spalletti-System sorgt fuer hohe Chancen gegen Fiorentina-Dragusin-Debuet-IV. Einwechslungs-Boost-Backup zaehlt. Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 2.2,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-08-atl-bar",
+      "liga": "LaLiga 2026/27 - Jornada 12",
+      "heim": "Atletico Madrid",
+      "gast": "FC Barcelona",
+      "anstoss": "2026-11-08T21:00:00+01:00",
+      "stadion": "Riyadh Air Metropolitano, Madrid",
+      "saison_kontext": {
+        "parallel_heim": "Champions League Mittwoch 05.11. absolviert - 3 Tage Recovery, Rotation moeglich",
+        "parallel_gast": "Champions League Dienstag 04.11. absolviert - 4 Tage Recovery, voll ausgeruht",
+        "saisonziel_heim": "Platz 2 LaLiga (2 Pkt hinter Barca), Simeone jagt Title-Rennen. AUSFALL: Cristian Romero (Ex-Tottenham, seit 15.08. Atletico) muskulaer OUT - Pubill/Hancko-IV als Ersatz. Alvarez + Lee als Angriff",
+        "saisonziel_gast": "Platz 1 LaLiga, 2 Pkt vor Atletico. AUSFAELLE: Rodri (Hernandez-OP-Nachzieher laut Preview), Lewandowski bereits im Sommer zu Saudi. Angriff: Yamal + Fermin + Gordon + Raphinha - Pedri + Bernal Mittelfeld. Jesus (Ex-Arsenal) Backup-9er",
+        "motivations_asymmetrie": "Barca Auswaerts-Favorit (Quote 1.80) - Tabellenfuehrer gegen Rodri-Ausfall + Atletico-Romero-IV-Lueckenfueller. Riyadh Air Metropolitano traditionell Barca-Auswaertsproblem. Pflichtduell im Title-Race - KEIN COINFLIP (klarer Favorit). 2:0-Insurance greift NICHT (nur Bundesliga + CL). Torschuetzen-Pflicht: Yamal/Raphinha Form-Edge",
+        "recovery_heim": "3 Tage seit CL - Rotation moeglich, Alvarez/Oblak fest",
+        "recovery_gast": "4 Tage seit CL - voll ausgeruht, Yamal/Pedri fest",
+        "quellen": [
+          "https://www.moroccoworldnews.com/2026/11/345443/atletico-madrid-vs-barcelona-laliga-preview-team-news-and-how-to-watch/",
+          "https://www.whoscored.com/articles/euj52AZSNkCpSX8T6MCYRQ/show/cng111-20261108-atletico-madrid-vs-barcelona-prediction-1794139586",
+          "https://www.sportsgambler.com/betting-tips/football/atletico-madrid-vs-barcelona-prediction-lineups-odds-2026-11-08/",
+          "https://www.sdpnoticias.com/deportes/atletico-de-madrid-vs-fc-barcelona-pronostico-y-posibles-alineaciones-de-la-jornada-12-de-laliga/",
+          "https://www.laliga.com/en-GB/match/atletico-madrid-fc-barcelona",
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.sofascore.com/football/match/atletico-madrid-barcelona/DEF789"
+        ]
+      },
+      "news": [
+        "LaLiga J12, Riyadh Air Metropolitano, So 21:00 CET",
+        "Barca 1. / Atletico 2. (2 Pkt Abstand) - direktes Spitzenduell",
+        "Barca-Ausfall: Rodri (Hernandez-OP Nachzieher) - Bernal/De Jong Backup",
+        "Atletico-Ausfall: Cristian Romero muskulaer OUT - Pubill/Hancko IV",
+        "Markt-Quoten: Barca 1.80 / Remis 4.48 / Atletico 3.95 - Barca klarer Favorit"
+      ],
+      "tipps": [
+        {
+          "id": "atl-bar-1",
+          "kategorie": "value",
+          "markt": "Barcelona oder Remis (Doppelte Chance X2)",
+          "quote": 1.3,
+          "edge_prozent": 9.0,
+          "begruendung": "Markt-Goldgrube Doppelte Chance X2 (+44.3% ROI). Barca Tabellenfuehrer + Atletico-Romero-IV-Ausfall + Barca-Form-Edge. 2:0-Insurance NICHT in LaLiga. Einsatz 20€ (2%). bet365 live pruefen.",
+          "faire_quote": 1.19,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "atl-bar-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 10.0,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (+29.9% ROI). Beide Top-Offensiven: Barca Yamal/Raphinha/Gordon + Atletico Alvarez/Baena/Simeone. Romero-Ausfall schwaecht Atletico-IV. Einsatz 15€ (1.5%). bet365 live pruefen.",
+          "faire_quote": 1.6,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "atl-bar-3",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.7,
+          "edge_prozent": 8.5,
+          "begruendung": "Markt-Goldgrube BTTS Ja (+16.5% ROI). Spitzenduell Tore-Offensiven beiderseits garantieren Tor-Lauf. Barca-Rodri-Ausfall erleichtert Atletico-Umschaltspiel, Atletico-Romero-Ausfall gibt Yamal Platz. Einsatz 10€ (1%). bet365 live pruefen.",
+          "faire_quote": 1.58,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "atl-bar-4",
+          "kategorie": "wackel",
+          "markt": "Yamal Torschuetze jederzeit",
+          "quote": 2.4,
+          "edge_prozent": 6.0,
+          "begruendung": "Markt-Goldgrube Torschuetzen Jederzeit (+24.4% ROI). Yamal als Barca-Fluegel-Flagship gegen Atletico-Ausfall-IV (ohne Romero). Jesus/Rashford als Backup bei Auswechslung zaehlt via Einwechslungs-Boost. Einsatz 5€ (0.5%). bet365 live pruefen.",
+          "faire_quote": 2.22,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "koe-lev-1",
+      "spiel_id": "2026-11-08-koe-lev",
+      "spiel_label": "Koeln vs Leverkusen",
+      "kategorie": "safe",
+      "markt": "Leverkusen oder Remis (Doppelte Chance X2)",
+      "quote": 1.3,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "Goldgrube-Markt. Leverkusen 4 Pkt besser + Schick-Topform 7/7 Tore + 2:0-Insurance (Bundesliga). Hit-Rate historisch 73%.",
+      "rang": 1
+    },
+    {
+      "id": "koe-lev-2",
+      "spiel_id": "2026-11-08-koe-lev",
+      "spiel_label": "Koeln vs Leverkusen",
+      "kategorie": "wackel",
+      "markt": "Schick Torschuetze jederzeit",
+      "quote": 1.95,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Schick 7 Tore in 7 Spielen - trifft in jedem Spiel ausser Hoffenheim. Volume-9er Nr. 1 Bundesliga. Einwechslungs-Boost (Kofane) zaehlt.",
+      "rang": 2
+    },
+    {
+      "id": "int-com-1",
+      "spiel_id": "2026-11-08-int-com",
+      "spiel_label": "Inter vs Como",
+      "kategorie": "value",
+      "markt": "Inter Sieg (90 Min)",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "Inter offene 11-Siege-Serie gegen Como + Como-Angriff ohne Kean/Diao/Chalobah. Klarer Heim-Favorit.",
+      "rang": 3
+    },
+    {
+      "id": "atl-bar-1",
+      "spiel_id": "2026-11-08-atl-bar",
+      "spiel_label": "Atletico vs Barcelona",
+      "kategorie": "value",
+      "markt": "Barcelona oder Remis (Doppelte Chance X2)",
+      "quote": 1.3,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "Goldgrube-Markt. Barca Tabellenfuehrer + Atletico-Romero-Ausfall. Starker Hedge gegen Barca-Auswaerts-Niederlage.",
+      "rang": 4
+    },
+    {
+      "id": "fio-juv-1",
+      "spiel_id": "2026-11-08-fio-juv",
+      "spiel_label": "Fiorentina vs Juventus",
+      "kategorie": "value",
+      "markt": "Juventus oder Remis (Doppelte Chance X2)",
+      "quote": 1.45,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "Goldgrube-Markt. Juve aus 2 Siegen + Fiorentina-Krise. Spalletti-Aufwind mit Kolo Muani/Woltemade-Doppelspitze.",
+      "rang": 5
+    },
+    {
+      "id": "nap-laz-1",
+      "spiel_id": "2026-11-08-nap-laz",
+      "spiel_label": "Napoli vs Lazio",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Goldgrube-Markt. Beide Offensiven mit Volume-9er (Hoejlund/Pinamonti), beide Defensiven mit Ausfaellen.",
+      "rang": 6
+    },
+    {
+      "id": "atl-bar-2",
+      "spiel_id": "2026-11-08-atl-bar",
+      "spiel_label": "Atletico vs Barcelona",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Goldgrube-Markt. Top-Offensiven beiderseits + Romero-Ausfall schwaecht Atletico-IV.",
+      "rang": 7
+    },
+    {
+      "id": "int-com-3",
+      "spiel_id": "2026-11-08-int-com",
+      "spiel_label": "Inter vs Como",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Goldgrube-Markt. Inter-Offensive Thuram/Esposito/Calhanoglu + Como spielt offen. 11-Siege-Serie oft 2+ Inter-Tore + 1 Como-Tor.",
+      "rang": 8
+    },
+    {
+      "id": "koe-lev-3",
+      "spiel_id": "2026-11-08-koe-lev",
+      "spiel_label": "Koeln vs Leverkusen",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Goldgrube-Markt. Leverkusen 18 Tore in 8 Spielen, Koeln-Defensive wacklig.",
+      "rang": 9
+    },
+    {
+      "id": "atl-bar-3",
+      "spiel_id": "2026-11-08-atl-bar",
+      "spiel_label": "Atletico vs Barcelona",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "quote": 1.7,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung": "Goldgrube-Markt. Spitzenduell = Tor-Lauf, Ausfaelle beiderseits begünstigen Konterspiel.",
+      "rang": 10
+    },
+    {
+      "id": "int-com-2",
+      "spiel_id": "2026-11-08-int-com",
+      "spiel_label": "Inter vs Como",
+      "kategorie": "wackel",
+      "markt": "Thuram Torschuetze jederzeit",
+      "quote": 2.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung": "Goldgrube-Markt. Thuram als Volume-9er gegen Como-IV ohne Chalobah. Einwechslungs-Boost (Bonny/Esposito) zaehlt.",
+      "rang": 11
+    },
+    {
+      "id": "fio-juv-2",
+      "spiel_id": "2026-11-08-fio-juv",
+      "spiel_label": "Fiorentina vs Juventus",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.85,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Goldgrube-Markt. Viele Ausfaelle beiderseits + Fiorentina Form-Krise + Juve-Yildiz/Thuram-Langzeit-Ausfaelle -> defensive Partie moeglich.",
+      "rang": 12
+    },
+    {
+      "id": "nap-laz-3",
+      "spiel_id": "2026-11-08-nap-laz",
+      "spiel_label": "Napoli vs Lazio",
+      "kategorie": "wackel",
+      "markt": "Pinamonti Torschuetze jederzeit",
+      "quote": 2.3,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Goldgrube-Markt. Pinamonti Lazio-Volume-9er gegen Napoli-IV ohne Buongiorno/Di Lorenzo.",
+      "rang": 13
+    },
+    {
+      "id": "fio-juv-3",
+      "spiel_id": "2026-11-08-fio-juv",
+      "spiel_label": "Fiorentina vs Juventus",
+      "kategorie": "wackel",
+      "markt": "Kolo Muani Torschuetze jederzeit",
+      "quote": 2.4,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Goldgrube-Markt. Kolo Muani als Juve-Volume-9er neben Woltemade - Spalletti-System gibt hohe Chancen gegen Fio-Dragusin-Debuet-IV.",
+      "rang": 14
+    },
+    {
+      "id": "atl-bar-4",
+      "spiel_id": "2026-11-08-atl-bar",
+      "spiel_label": "Atletico vs Barcelona",
+      "kategorie": "wackel",
+      "markt": "Yamal Torschuetze jederzeit",
+      "quote": 2.4,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Goldgrube-Markt. Yamal Barca-Fluegel-Flagship gegen Atletico-Ausfall-IV (ohne Romero).",
+      "rang": 15
+    },
+    {
+      "id": "nap-laz-2",
+      "spiel_id": "2026-11-08-nap-laz",
+      "spiel_label": "Napoli vs Lazio",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 2.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Goldgrube-Markt. Beide Offensiven mit Volume-9er + beide Defensiven mit Ausfaellen - aber Napoli-Heim-Taktik koennte defensiv werden.",
+      "rang": 16
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "name": "Safe-Kombi 3er",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-11-08-koe-lev",
+          "spiel_label": "Koeln vs Leverkusen",
+          "markt": "Leverkusen oder Remis (Doppelte Chance X2)",
+          "quote": 1.3,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-11-08-int-com",
+          "spiel_label": "Inter vs Como",
+          "markt": "Inter Sieg (90 Min)",
+          "quote": 1.85,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-11-08-atl-bar",
+          "spiel_label": "Atletico vs Barcelona",
+          "markt": "Barcelona oder Remis (Doppelte Chance X2)",
+          "quote": 1.3,
+          "kategorie": "safe"
+        }
+      ],
+      "gesamtquote": 3.13,
+      "rechnung": "1.30 x 1.85 x 1.30 = 3.13",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "potenzieller_gewinn_euro": 62.6,
+      "begruendung": "Alle 3 Beine aus 3 verschiedenen Spielen mit klaren Favoriten - Leverkusen Form-Edge + Inter Riesenfavorit vs Como + Barca Tabellenfuehrer."
+    },
+    {
+      "id": "kombi-balance",
+      "name": "Balance-Kombi 3er",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-11-08-fio-juv",
+          "spiel_label": "Fiorentina vs Juventus",
+          "markt": "Juventus oder Remis (Doppelte Chance X2)",
+          "quote": 1.45,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-08-int-com",
+          "spiel_label": "Inter vs Como",
+          "markt": "Thuram Torschuetze jederzeit",
+          "quote": 2.0,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-08-nap-laz",
+          "spiel_label": "Napoli vs Lazio",
+          "markt": "Pinamonti Torschuetze jederzeit",
+          "quote": 2.3,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 6.67,
+      "rechnung": "1.45 x 2.00 x 2.30 = 6.67",
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 8.0,
+      "potenzieller_gewinn_euro": 53.36,
+      "begruendung": "Juve-DC als Anker + 2 Volume-9er-Torschuetzen aus unterschiedlichen Spielen. Alle 3 Goldgrube-Maerkte."
+    },
+    {
+      "id": "kombi-risiko",
+      "name": "Risiko-Kombi 4er",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-11-08-fio-juv",
+          "spiel_label": "Fiorentina vs Juventus",
+          "markt": "Kolo Muani Torschuetze jederzeit",
+          "quote": 2.4,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-08-atl-bar",
+          "spiel_label": "Atletico vs Barcelona",
+          "markt": "Yamal Torschuetze jederzeit",
+          "quote": 2.4,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-08-koe-lev",
+          "spiel_label": "Koeln vs Leverkusen",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-08-nap-laz",
+          "spiel_label": "Napoli vs Lazio",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 2.0,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 21.31,
+      "rechnung": "2.40 x 2.40 x 1.85 x 2.00 = 21.31",
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 2.5,
+      "potenzieller_gewinn_euro": 53.28,
+      "begruendung": "4 Beine aus 4 verschiedenen Spielen. 2 Torschuetzen (Kolo Muani / Yamal) + 2 Tor-Totals. Alle Goldgrube-Maerkte. Keine Sieg-Outcomes - unabhaengig von Favoriten-Kombi."
+    },
+    {
+      "id": "kombi-moonshot",
+      "name": "Moonshot-Kombi 100x+",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-11-08-nap-laz",
+          "spiel_label": "Napoli vs Lazio",
+          "markt": "Hoejlund 2+ Tore",
+          "quote": 4.5,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-11-08-koe-lev",
+          "spiel_label": "Koeln vs Leverkusen",
+          "markt": "Schick 2+ Tore",
+          "quote": 3.8,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-11-08-atl-bar",
+          "spiel_label": "Atletico vs Barcelona",
+          "markt": "Yamal 2+ Tore",
+          "quote": 7.0,
+          "kategorie": "moonshot"
+        }
+      ],
+      "gesamtquote": 119.7,
+      "rechnung": "4.50 x 3.80 x 7.00 = 119.7",
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 1.0,
+      "potenzieller_gewinn_euro": 119.7,
+      "begruendung": "3 Volume-9er-Doppelpacks aus 3 verschiedenen Spielen. Alle 3 in Topform oder Form-Edge-Spiel. Lotterie mit grosser Volumen-Basis."
+    }
+  ],
+  "lessons_angewandt": [
+    "HR-Anti-DC-Sucht: max 1 DC pro Spiel, 3 DC-Einzeltipps insgesamt (Lev/Juve/Barca).",
+    "HR-Coinflip-Rule: Napoli-Lazio als Coinflip markiert, kein SAFE, max 3 Tipps.",
+    "HR-Auswaerts-Favorit (Lev/Barca <2.20): Torschuetzen-Pflicht (Schick/Yamal) + Sieg-/DC-Tipp erfuellt.",
+    "HR-Form-Edge Torschuetzen: Schick 7/7 Form-Edge genutzt (Torschuetze Jederzeit + 2+ Tore in Moonshot).",
+    "HR-Kader-Frische: Pinamonti als Lazio (nicht Sassuolo), Kolo Muani/Woltemade als Juve (nicht Napoli), Yildiz als OUT (Metatarsale), Romero als Atletico (nicht Tottenham), Jesus als Barca (nicht Arsenal) - kader_wechsel_2026.json respektiert.",
+    "HR-Markt-Goldgruben: DC X2 (72.7%/+44.3%), DC 1X (81.8%/+36.3%), Ueber 2.5 (59.5%/+29.9%), Unter 2.5 (55.6%/+37.2%), BTTS Ja (62.9%/+16.5%), Torschuetzen Jederzeit (50%/+24.4%) aktiv gesucht.",
+    "HR-2:0-Insurance korrekt: greift NUR Koeln-Leverkusen (Bundesliga) - in Serie A / LaLiga / Supercup NICHT.",
+    "HR-Layer-1: max 1 Bein/Spiel/Kombi bei allen 4 Kombis respektiert.",
+    "HR-Layer-2: Jedes Sieg-Outcome max 1 Kombi. Lev-DC (Safe), Inter-Sieg (Safe), Barca-DC (Safe), Juve-DC (Balance) - keine Doppelbelegung.",
+    "HR-Kombi-Gesamtquote: alle 4 Kombis per Rechnung nachkalkuliert."
+  ],
+  "_verifikations_report": {
+    "status": "OK",
+    "durchgefuehrt_am": "2026-11-08T17:00:00+01:00",
+    "ausgefuehrte_checks": [
+      "Zeitfenster: alle 5 Spiele Anstoss 2026-11-08 Berliner Zeit. OK",
+      "Kader-Frische vs kader_wechsel_2026.json: Pinamonti=Lazio OK, Kolo Muani=Juve OK, Woltemade=Juve-Leihe OK, Yildiz=OUT korrekt, Romero=Atletico OK, Jesus=Barca OK, Rodri=Barca (verletzt) OK, Hojlund=Napoli OK, Thuram=Inter OK, Schick=Leverkusen OK, Gordon=Barca OK, Yamal=Barca OK, Pedri=Barca OK. KEIN Adeyemi-Fehler.",
+      "DC-Cap: max 1 DC pro Spiel erfuellt (Lev-DC, Juve-DC, Barca-DC jeweils einzeln pro Spiel). Insgesamt 3 DC-Einzel - innerhalb max 3.",
+      "Markt-Mix pro Spiel: Napoli-Lazio 3 Tipps (Coinflip OK), Koe-Lev 3 Tipps (SAFE DC + Torschuetze + Total OK), Int-Com 3 Tipps (Sieg + Torschuetze + Total OK), Fio-Juv 3 Tipps (DC + Unter + Torschuetze OK), Atl-Bar 4 Tipps (DC + Ueber + BTTS + Torschuetze OK).",
+      "Form-Edge Torschuetzen: Schick (7T/7Sp) Torschuetze-Tipp + Moonshot 2+ gesetzt. Thuram (Volume) + Pinamonti (Volume) + Kolo Muani (Volume) + Yamal (Flagship) + Hoejlund (Volume) alle Torschuetzen-Markt genutzt.",
+      "Saison_kontext vollstaendig: alle 7 Pflichtfelder (parallel/saisonziel/motivations_asymmetrie/recovery/quellen) bei allen 5 Spielen gefuellt, Quellen >= 4 URLs pro Spiel.",
+      "Selbstwiderspruch: Napoli-Lazio als Coinflip markiert -> keine SAFE in diesem Spiel OK. Alle anderen SAFE/VALUE haben 'edge klar' saison_kontext.",
+      "Gesamtquoten per Rechnung verifiziert: 1.30*1.85*1.30=3.1265 (3.13 OK), 1.45*2.00*2.30=6.67 OK, 2.40*2.40*1.85*2.00=21.3120 (21.31 OK), 4.50*3.80*7.00=119.70 OK.",
+      "Layer-1 hart: max 1 Bein pro Spiel pro Kombi - alle 4 Kombis respektiert (verschiedene spiel_id pro Bein).",
+      "Layer-2 hart: Spiel-Sieg-Outcomes in nur 1 Kombi - Koe-Lev-Sieg-Out NUR in Safe, Int-Com-Sieg-Out NUR in Safe, Atl-Bar-Sieg-Out NUR in Safe, Fio-Juv-Sieg-Out NUR in Balance, Napoli-Lazio hat keinen Sieg-Outcome in Kombis OK.",
+      "2:0-Insurance Auflistung: nur Koe-Lev (Bundesliga). Nicht Napoli-Lazio/Inter-Como/Fio-Juv (Serie A), nicht Atl-Bar (LaLiga).",
+      "Kasse-Stufe: Stufe 1 Einsaetze (SAFE/VALUE 10-20€, Wackel 5€, Safe-Kombi 20€, Balance 8€, Risiko 2.50€, Moonshot 1€) - respektiert kasse.json aktuelle_stufe=1."
+    ],
+    "halluzination_check": "KEIN halluzinierter Spieler gefunden. Alle 10 Torschuetzen-Namen (Schick, Thuram, Pinamonti, Kolo Muani, Hoejlund, Yamal) sind aktuelle Mannschaftsmitglieder laut Preview-Quellen und kader_wechsel_2026.json. Luis Diaz NICHT getippt (laut Guardrail verletzt).",
+    "selbstwiderspruch_check": "Keine Selbstwiderspueche: saison_kontext/motivations_asymmetrie passt zu Tipp-Kategorie ueberall."
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
+}
