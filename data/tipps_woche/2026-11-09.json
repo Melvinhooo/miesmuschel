@@ -1,0 +1,644 @@
+{
+  "datum": "2026-11-09",
+  "erstellt_am": "2026-11-08T22:29:00Z",
+  "modus": "woche",
+  "hinweis": "Wochen-Vorschau Mo 09.11. - So 15.11.2026. FIFA-Laenderspielpause - alle Top-5-Ligen (BL/PL/LaLiga/Serie A/Ligue 1), 2. Bundesliga, Serie B und Championship pausieren Fr 13.11.-So 15.11. komplett. CL/EL/Conference League spielen diese Woche NICHT. Einzige Vereins-Fussball-Fenster: Copa del Rey Primera Ronda Di-Fr mit LaLiga-Topteams auswaerts gegen Amateur-/Drittliga-Klubs. Mo 09.11. + Sa/So 14./15.11. komplett ohne relevante Vereinsspiele. Backstop-Modus: 5 Cup-Spiele mit LaLiga-Beteiligung - alle davon klare Favoriten-Konstellationen, aber schweres Rotations-Risiko (Trainer schonen Stammelf). Deshalb Fokus auf DC X2 + konservative Favoriten-Maerkte, Torschuetzen-Tipps nur als Wackel. Kasse 1000€ (Stufe 1, konservativ). Nationalspiele Fr-So (Nations League etc.) NICHT im Dossier - Fokus bleibt Vereins-Fussball. Quoten bei bet365 live pruefen, Aufstellungen Cup-Spielen sind am Spieltag Pflicht-Check.",
+  "spiele": [
+    {
+      "id": "2026-11-09-anf-ala",
+      "liga": "Copa del Rey 2026/27 - Primera Ronda",
+      "heim": "SD Anaitasuna",
+      "gast": "Deportivo Alaves",
+      "anstoss": "2026-11-10T19:00:00+01:00",
+      "stadion": "Txerloia, Azkoitia",
+      "saison_kontext": {
+        "parallel_heim": "keine - Tercera Division RFEF (Amateur, 4. Liga)",
+        "parallel_gast": "LaLiga Jornada 13 nach Laenderspielpause (21.-23.11.), kein Europapokal",
+        "saisonziel_heim": "Spielbetrieb + Cup-Lotterie gegen Erstligist",
+        "saisonziel_gast": "Klassenerhalt LaLiga + fruehe Cup-Runde mitnehmen",
+        "motivations_asymmetrie": "Anaitasuna ist Amateur-Tercera-Klub, Alaves LaLiga-Mittelfeld - Klassen-Edge ca. 60 Plaetze. Aber: Copa-Runde 1 = klassisches Rotations-Spiel fuer Primera-Klubs, Alaves wird B-Elf + Backups bringen (Lucas Boye kommt wohl spaet rein). DC X2 bleibt trotz Rotation dominant, Sieg-Tipp mit Rotations-Risiko.",
+        "recovery_heim": "Amateur-Tercera - normale Woche",
+        "recovery_gast": "ca. 11 Tage seit Jornada 12 (So 08.11.) - gut erholt dank Pause, keine Reiselast davor",
+        "quellen": [
+          "https://www.laliga.com/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Copa_del_Rey",
+          "https://www.espn.com/soccer/team/fixtures/_/id/96/alaves"
+        ]
+      },
+      "news": [
+        "Anaitasuna spielt in der 4. spanischen Liga (Tercera Federacion) - Riesen-Klassenunterschied zu Alaves",
+        "Alaves rotiert in Copa-R1 traditionell stark - Stammstuermer Lucas Boye (5 LaLiga-Tore in 9 Spielen 2026/27) wahrscheinlich nur Teilzeit",
+        "Carlos Vicente + Toni Martinez laut Alaves-Statistik Backup-Optionen im Sturm"
+      ],
+      "tipps": [
+        {
+          "id": "anf-ala-1",
+          "kategorie": "safe",
+          "markt": "Alaves oder Remis (Doppelte Chance)",
+          "quote": 1.02,
+          "edge_prozent": 1.0,
+          "faire_quote": 1.01,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "begruendung": "Alaves 50+ Plaetze ueber Anaitasuna, selbst bei maximaler Rotation reicht die Qualitaet fuer DC X2. Markt-Goldgrube (+36% ROI historisch). Reality-Check-Mitnahme 10€.",
+          "liga": "Copa del Rey"
+        },
+        {
+          "id": "anf-ala-2",
+          "kategorie": "value",
+          "markt": "Alaves Handicap -1 (Sieg mit 2+ Toren)",
+          "quote": 1.75,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "begruendung": "Primera-Klubs bei Copa-R1 auswaerts bei Amateur-Teams gewinnen meist 2:0 oder 3:0, Handicap -1 ist der Fair-Value-Markt. Rotations-Elf reicht trotzdem. Einsatz 10€ (1%).",
+          "liga": "Copa del Rey"
+        },
+        {
+          "id": "anf-ala-3",
+          "kategorie": "wackel",
+          "markt": "Lucas Boye Torschuetze jederzeit",
+          "quote": 2.6,
+          "edge_prozent": 4.0,
+          "faire_quote": 2.5,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Boye Top-Form 2026/27 (5 Tore in 9 LaLiga-Spielen). Problem: Copa-R1 = Rotation, evtl nur 45 Min. Tipp bei gestarteter Startelf gueltig, sonst Einwechslung-Boost durch Backup. Wackel. Einsatz 5€. KADER-PFLICHT-CHECK am Spieltag: kicker/transfermarkt Aufstellungs-Vorschau.",
+          "liga": "Copa del Rey"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-09-tav-val",
+      "liga": "Copa del Rey 2026/27 - Primera Ronda",
+      "heim": "UE Tavernes de la Valldigna",
+      "gast": "Valencia CF",
+      "anstoss": "2026-11-10T21:00:00+01:00",
+      "stadion": "Mestalla, Valencia (verlegt wegen Kapazitaet)",
+      "saison_kontext": {
+        "parallel_heim": "keine - Preferente Valenciana (Regionalliga, 5./6. Liga)",
+        "parallel_gast": "LaLiga Jornada 13 nach Laenderspielpause, kein Europapokal",
+        "saisonziel_heim": "Lokal-Derby mit Stimmung, Cup-Lotterie gegen Lokal-Riese",
+        "saisonziel_gast": "LaLiga-Klassenerhalt priorisiert, Cup-R1 pflichtgemaess durchziehen",
+        "motivations_asymmetrie": "Groesste Klassendifferenz der Runde: Tavernes ist 5./6. Liga Amateurklub, Valencia Erstligist. Spielort verlegt auf Mestalla (Valencia-Heim, ca. 48.600 Zuschauer) - Tavernes-Platz zu klein. Damit entfaellt der 'David-vs-Goliath'-Heimvorteil, Valencia hat quasi Heimrecht. DC X2 ist Pflicht-Mitnahme. Aber Valencia-Sturm 2026/27 trocken (Umar Sadiq Top-Scorer mit 1 Tor, Hugo Duro 0 Tore) - Tore-Markt vorsichtig.",
+        "recovery_heim": "Preferente-Niveau, normale Woche",
+        "recovery_gast": "ca. 11 Tage seit Jornada 12 (So 08.11.) - sehr gut erholt",
+        "quellen": [
+          "https://www.laliga.com/",
+          "https://www.dazn.com/es-ES/news/futbol/tavernes-valldigna-vs-valencia-copa-rey-202627-cuando-se-juega-horario-canal-tv-espana/aztgai58u2m71gw6fy4icm6qn",
+          "https://www.espn.com/soccer/team/squad/_/id/94/valencia"
+        ]
+      },
+      "news": [
+        "Spielort-Verlegung auf Mestalla bestaetigt - Valencia hat de facto Heimrecht",
+        "Valencia-Sturm 2026/27 extrem schwach: Umar Sadiq Top-Scorer mit nur 1 Tor (3 Spiele), Hugo Duro bei 0 Toren in 10 Spielen - vor letzten Jahren Top-Torschuetze (13 Tore 2023/24)",
+        "Rotation gegen Tavernes wahrscheinlich hoch - B-Elf-Spieler + Nachwuchs-Debuts (Diego Lopez, junge Sturm-Alternativen)"
+      ],
+      "tipps": [
+        {
+          "id": "tav-val-1",
+          "kategorie": "value",
+          "markt": "Valencia oder Remis (Doppelte Chance)",
+          "quote": 1.01,
+          "edge_prozent": 0.5,
+          "faire_quote": 1.005,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "begruendung": "Preferente-Amateur gegen LaLiga-Klub im Mestalla - DC X2 ist quasi Null-Risiko. Markt-Goldgrube (+36% ROI historisch). Reality-Check-Mitnahme 10€. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value]",
+          "liga": "Copa del Rey",
+          "_saison_kontext_sanity_downgrade": true
+        },
+        {
+          "id": "tav-val-2",
+          "kategorie": "wackel",
+          "markt": "Valencia Handicap -1 (Sieg mit 2+ Toren)",
+          "quote": 1.5,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.4,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0,
+          "begruendung": "LaLiga-Klub vs Preferente auf Mestalla sollte 2:0 oder 3:0 gewinnen, auch mit B-Elf. Handicap -1 fairer Value. Einsatz 15€ (1.5%). [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
+          "liga": "Copa del Rey",
+          "_saison_kontext_sanity_downgrade": true
+        },
+        {
+          "id": "tav-val-3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.5,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.45,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Markt-Goldgrube (+30% ROI historisch). Aber Valencia-Sturm trocken 2026/27 - kann auch 1:0 enden. Wackel wegen Form-Risiko. Einsatz 5€.",
+          "liga": "Copa del Rey"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-09-nav-bet",
+      "liga": "Copa del Rey 2026/27 - Primera Ronda",
+      "heim": "CD Artistico Navalcarnero",
+      "gast": "Real Betis",
+      "anstoss": "2026-11-12T21:00:00+01:00",
+      "stadion": "Municipal de Mairena del Alfarache (ggf. verlegt), Madrid",
+      "saison_kontext": {
+        "parallel_heim": "keine - Primera Federacion / Segunda B (3. Liga)",
+        "parallel_gast": "LaLiga Jornada 13 nach Laenderspielpause + Europa League Ligaphase Spieltag 5 (26.11.)",
+        "saisonziel_heim": "Spielbetrieb + Cup-Pokalklang gegen LaLiga-Gigant",
+        "saisonziel_gast": "LaLiga Europa-Platz + Europa League Playoff-Direktquali",
+        "motivations_asymmetrie": "Navalcarnero ist 3. Liga, Betis Europa-League-Starter mit CL-Ambitionen. Betis rotiert haeufig in Cup-R1 (Pellegrini-Stil: Antony + Bartra schonen, Fornals + Ezzalzouli + Cucho als Rotations-Angriff moeglich). DC X2 + Ueber 2.5 die zwei Pflicht-Maerkte. Form-Edge bei Antony wackelig (0 Tore in 10 LaLiga-Spielen 2026/27) - lieber Ezzalzouli als Torschuetzen-Option.",
+        "recovery_heim": "Primera-Federacion-Rhythmus, normale Woche",
+        "recovery_gast": "ca. 13 Tage seit Jornada 12 - voll erholt, fit fuer Rotations-Cup",
+        "quellen": [
+          "https://www.laliga.com/",
+          "https://www.fotmob.com/leagues/87/stats/season/38843/players/goals/team/8603/real-betis",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Copa_del_Rey"
+        ]
+      },
+      "news": [
+        "Betis-Top-Scorer 2026/27: Abde Ezzalzouli (3 Tore in 8 Spielen), Isco (2/10), Cucho Hernandez (2/10), Marc Bartra (2/10)",
+        "Antony (von Man U 2025) bleibt bei Betis, aber 0 Tore in 10 LaLiga-Spielen 2026/27 - formtechnisch kalt, als Torschuetzen-Tipp gefaehrlich",
+        "Pellegrini-Stil: Copa R1 bedeutet B-Elf mit Jugend-Spielern + ausgewaehlten Rotationskraeften"
+      ],
+      "tipps": [
+        {
+          "id": "nav-bet-1",
+          "kategorie": "safe",
+          "markt": "Real Betis oder Remis (Doppelte Chance)",
+          "quote": 1.03,
+          "edge_prozent": 1.0,
+          "faire_quote": 1.02,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "begruendung": "LaLiga-Klub vs Drittligist in Copa-R1 - DC X2 quasi Null-Risiko. Markt-Goldgrube. Einsatz 10€.",
+          "liga": "Copa del Rey"
+        },
+        {
+          "id": "nav-bet-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.45,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.37,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0,
+          "begruendung": "Betis-Offensive (Ezzalzouli, Cucho, Isco) sollte gegen 3.-Liga-Defense viele Chancen produzieren, meist 2-3 Tore. Markt-Goldgrube (+30% ROI). Einsatz 15€.",
+          "liga": "Copa del Rey"
+        },
+        {
+          "id": "nav-bet-3",
+          "kategorie": "wackel",
+          "markt": "Abde Ezzalzouli Torschuetze jederzeit",
+          "quote": 2.4,
+          "edge_prozent": 5.0,
+          "faire_quote": 2.28,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Ezzalzouli Form-Edge: 3 Tore in 8 LaLiga 2026/27, Volumen-Fluegel + Rotations-Kandidat fuer Cup-R1. Wackel wegen Rotations-Risiko. Einsatz 5€. KADER-CHECK Pflicht am Spieltag.",
+          "liga": "Copa del Rey"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-09-tar-lev",
+      "liga": "Copa del Rey 2026/27 - Primera Ronda",
+      "heim": "CD Tarancon",
+      "gast": "Levante UD",
+      "anstoss": "2026-11-12T19:00:00+01:00",
+      "stadion": "Polideportivo Estadio Municipal, Tarancon",
+      "saison_kontext": {
+        "parallel_heim": "keine - Primera Federacion / Tercera (3. oder 4. Liga)",
+        "parallel_gast": "LaLiga Jornada 13 nach Laenderspielpause - Aufsteiger im Abstiegskampf",
+        "saisonziel_heim": "Spielbetrieb + Cup-Lotterie",
+        "saisonziel_gast": "LaLiga-Klassenerhalt (Aufsteiger)",
+        "motivations_asymmetrie": "Levante als LaLiga-Aufsteiger im Klassenerhalts-Kampf hat ggf. Motivation voll durchzuziehen - weniger Rotations-Luxus als Top-Klubs. Ivan Romero (3 Tore in 11 LaLiga 2026/27) Top-Scorer, Etta Eyong Backup. Romero wahrscheinlich Startelf im Cup-R1 (braucht Toren-Vertrauen). DC X2 Pflicht, Favoriten-Sieg mit Handicap moeglich.",
+        "recovery_heim": "normale Woche",
+        "recovery_gast": "ca. 13 Tage seit Jornada 12 - voll erholt",
+        "quellen": [
+          "https://www.laliga.com/",
+          "https://www.espn.com/soccer/team/fixtures/_/id/1538/levante",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Copa_del_Rey"
+        ]
+      },
+      "news": [
+        "Levante im Abstiegskampf (LaLiga-Aufsteiger 2026/27) - braucht Momentum auch im Cup",
+        "Top-Scorer Ivan Romero: 3 Tore in 11 LaLiga-Spielen, Volumen-9er, Cup-Startelf wahrscheinlich",
+        "Etta Eyong: Backup-9er, 1 Tor in 6 Spielen, Einwechslungs-Boost-Kandidat"
+      ],
+      "tipps": [
+        {
+          "id": "tar-lev-1",
+          "kategorie": "safe",
+          "markt": "Levante oder Remis (Doppelte Chance)",
+          "quote": 1.05,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.03,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "begruendung": "LaLiga-Klub vs 3./4.-Liga - DC X2 so sicher wie Markt es erlaubt. Markt-Goldgrube. Einsatz 10€.",
+          "liga": "Copa del Rey"
+        },
+        {
+          "id": "tar-lev-2",
+          "kategorie": "value",
+          "markt": "Ivan Romero Torschuetze jederzeit",
+          "quote": 2.1,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.96,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "begruendung": "Romero Top-Scorer Levante + Volumen-9er + wahrscheinlich Startelf im Cup. Form-Edge HR24 erfuellt. Backup Eyong Einwechslungs-Boost. Markt-Goldgrube Torschuetzen. Einsatz 10€. KADER-CHECK Pflicht am Spieltag.",
+          "liga": "Copa del Rey"
+        },
+        {
+          "id": "tar-lev-3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.55,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.49,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Markt-Goldgrube. Aber Levante offensiv nicht ueberstark (Aufsteiger-Niveau), kann auch 1:0 enden. Wackel. Einsatz 5€.",
+          "liga": "Copa del Rey"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-09-sal-cel",
+      "liga": "Copa del Rey 2026/27 - Primera Ronda",
+      "heim": "Salamanca UDS",
+      "gast": "RC Celta de Vigo",
+      "anstoss": "2026-11-13T21:00:00+01:00",
+      "stadion": "Estadio Helmantico, Villares de la Reina",
+      "saison_kontext": {
+        "parallel_heim": "keine - Primera Federacion (3. Liga)",
+        "parallel_gast": "LaLiga Jornada 13 nach Laenderspielpause + Europa League Ligaphase Spieltag 5 (27.11.)",
+        "saisonziel_heim": "Spielbetrieb Dritte Liga + Cup-Lotterie",
+        "saisonziel_gast": "LaLiga Mittelfeld + Europa-League-Playoff-Quali",
+        "motivations_asymmetrie": "Celta ist LaLiga-Mittelfeld + Europa-League-Starter - rotiert in Copa R1 normal (Trainer Giraldez tauscht Aspas/Borja Iglesias Tandem fuer Pablo Duran + Jutgla). Primera-Federacion-Gegner mit Heimrecht im traditionsreichen Helmantico - Stimmung ja, Qualitaet nein. DC X2 Pflicht. Form-Edge bei Duran + Jutgla (je 2 Tore 2026/27) moeglich.",
+        "recovery_heim": "Primera-Federacion-Rhythmus, normale Woche",
+        "recovery_gast": "ca. 14 Tage seit Jornada 12 - voll erholt, letzte Partie Europa League 06.11. moeglich (vor Pause)",
+        "quellen": [
+          "https://www.laliga.com/en-GB/clubs/rc-celta/next-matches",
+          "https://www.fotmob.com/leagues/87/stats/season/38843/players/goals/team/9910/celta-vigo",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Copa_del_Rey"
+        ]
+      },
+      "news": [
+        "Celta-Kader 2026/27: Pablo Duran + Ferran Jutgla (je 2 Tore), Iago Aspas (1), Borja Iglesias Backup",
+        "Trainer Claudio Giraldez (Stand kader_wechsel 2026) - rotations-freundlich in Cup-R1",
+        "Salamanca UDS Drittligist, aber traditionsreiches Helmantico mit lautstarker Atmosphaere"
+      ],
+      "tipps": [
+        {
+          "id": "sal-cel-1",
+          "kategorie": "safe",
+          "markt": "Celta Vigo oder Remis (Doppelte Chance)",
+          "quote": 1.05,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.03,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "begruendung": "LaLiga vs Drittligist - DC X2 Pflicht-Mitnahme. Markt-Goldgrube. Einsatz 10€.",
+          "liga": "Copa del Rey"
+        },
+        {
+          "id": "sal-cel-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.5,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.43,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "begruendung": "Celta-Rotations-Offensive (Duran, Jutgla, Aspas, Borja Iglesias) hat genug Qualitaet fuer 2-3 Tore gegen Drittliga-Defense. Markt-Goldgrube. Einsatz 10€.",
+          "liga": "Copa del Rey"
+        },
+        {
+          "id": "sal-cel-3",
+          "kategorie": "wackel",
+          "markt": "Pablo Duran Torschuetze jederzeit",
+          "quote": 2.5,
+          "edge_prozent": 5.0,
+          "faire_quote": 2.38,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Duran Celta-Top-Scorer 2026/27 (2 Tore in LaLiga) + Cup-Startelf-Kandidat. Jutgla Backup/Rotation. Form-Edge HR24 marginal erfuellt. Wackel. Einsatz 5€. KADER-CHECK Pflicht am Spieltag.",
+          "liga": "Copa del Rey"
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "rang": 1,
+      "spiel_id": "2026-11-09-tav-val",
+      "spiel_label": "UE Tavernes vs Valencia CF",
+      "kategorie": "safe",
+      "markt": "Valencia oder Remis (Doppelte Chance)",
+      "quote": 1.01,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung": "Preferente-Amateur gegen LaLiga-Klub im Mestalla - DC X2 ist quasi Null-Risiko. Markt-Goldgrube. Einsatz 10€.",
+      "liga": "Copa del Rey"
+    },
+    {
+      "rang": 2,
+      "spiel_id": "2026-11-09-anf-ala",
+      "spiel_label": "SD Anaitasuna vs Deportivo Alaves",
+      "kategorie": "safe",
+      "markt": "Alaves oder Remis (Doppelte Chance)",
+      "quote": 1.02,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung": "Alaves 50+ Plaetze ueber Anaitasuna - DC X2 sicher auch bei Rotation. Markt-Goldgrube. Einsatz 10€.",
+      "liga": "Copa del Rey"
+    },
+    {
+      "rang": 3,
+      "spiel_id": "2026-11-09-nav-bet",
+      "spiel_label": "Navalcarnero vs Real Betis",
+      "kategorie": "safe",
+      "markt": "Real Betis oder Remis (Doppelte Chance)",
+      "quote": 1.03,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung": "LaLiga vs Drittligist - DC X2 Mitnahme. Markt-Goldgrube. Einsatz 10€.",
+      "liga": "Copa del Rey"
+    },
+    {
+      "rang": 4,
+      "spiel_id": "2026-11-09-tar-lev",
+      "spiel_label": "CD Tarancon vs Levante UD",
+      "kategorie": "safe",
+      "markt": "Levante oder Remis (Doppelte Chance)",
+      "quote": 1.05,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung": "LaLiga vs 3./4.-Liga - DC X2 so sicher wie Markt es erlaubt. Markt-Goldgrube. Einsatz 10€.",
+      "liga": "Copa del Rey"
+    },
+    {
+      "rang": 5,
+      "spiel_id": "2026-11-09-sal-cel",
+      "spiel_label": "Salamanca UDS vs Celta Vigo",
+      "kategorie": "safe",
+      "markt": "Celta Vigo oder Remis (Doppelte Chance)",
+      "quote": 1.05,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung": "LaLiga vs Drittligist - DC X2 Pflicht-Mitnahme. Markt-Goldgrube. Einsatz 10€.",
+      "liga": "Copa del Rey"
+    },
+    {
+      "rang": 6,
+      "spiel_id": "2026-11-09-tav-val",
+      "spiel_label": "UE Tavernes vs Valencia CF",
+      "kategorie": "value",
+      "markt": "Valencia Handicap -1 (Sieg mit 2+ Toren)",
+      "quote": 1.5,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "LaLiga-Klub vs Preferente auf Mestalla sollte 2:0 oder 3:0 gewinnen, auch mit B-Elf. Handicap -1 fairer Value. Einsatz 15€ (1.5%).",
+      "liga": "Copa del Rey"
+    },
+    {
+      "rang": 7,
+      "spiel_id": "2026-11-09-nav-bet",
+      "spiel_label": "Navalcarnero vs Real Betis",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.45,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Betis-Offensive sollte gegen 3.-Liga-Defense viele Chancen produzieren, meist 2-3 Tore. Markt-Goldgrube (+30% ROI). Einsatz 15€.",
+      "liga": "Copa del Rey"
+    },
+    {
+      "rang": 8,
+      "spiel_id": "2026-11-09-tar-lev",
+      "spiel_label": "CD Tarancon vs Levante UD",
+      "kategorie": "value",
+      "markt": "Ivan Romero Torschuetze jederzeit",
+      "quote": 2.1,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung": "Romero Top-Scorer Levante + Volumen-9er + wahrscheinlich Startelf im Cup. Form-Edge HR24. Einsatz 10€.",
+      "liga": "Copa del Rey"
+    },
+    {
+      "rang": 9,
+      "spiel_id": "2026-11-09-anf-ala",
+      "spiel_label": "SD Anaitasuna vs Deportivo Alaves",
+      "kategorie": "value",
+      "markt": "Alaves Handicap -1 (Sieg mit 2+ Toren)",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung": "Primera-Klubs bei Copa-R1 auswaerts bei Amateur-Teams gewinnen meist 2:0 oder 3:0. Handicap -1 fair. Einsatz 10€.",
+      "liga": "Copa del Rey"
+    },
+    {
+      "rang": 10,
+      "spiel_id": "2026-11-09-sal-cel",
+      "spiel_label": "Salamanca UDS vs Celta Vigo",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.5,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung": "Celta-Rotations-Offensive genug Qualitaet fuer 2-3 Tore gegen Drittliga-Defense. Markt-Goldgrube. Einsatz 10€.",
+      "liga": "Copa del Rey"
+    }
+  ],
+  "kombis": [
+    {
+      "name": "🐚 Safe-Kombi 4er (Copa-DC-Favoriten)",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-11-09-tav-val",
+          "spiel_label": "Tavernes vs Valencia",
+          "markt": "Valencia oder Remis (Doppelte Chance)",
+          "quote": 1.01,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-11-09-anf-ala",
+          "spiel_label": "Anaitasuna vs Alaves",
+          "markt": "Alaves oder Remis (Doppelte Chance)",
+          "quote": 1.02,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-11-09-nav-bet",
+          "spiel_label": "Navalcarnero vs Betis",
+          "markt": "Real Betis oder Remis (Doppelte Chance)",
+          "quote": 1.03,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-11-09-sal-cel",
+          "spiel_label": "Salamanca vs Celta Vigo",
+          "markt": "Celta Vigo oder Remis (Doppelte Chance)",
+          "quote": 1.05,
+          "kategorie": "safe"
+        }
+      ],
+      "gesamtquote": 1.11,
+      "rechnung": "1.01 x 1.02 x 1.03 x 1.05 = 1.11",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "beschreibung": "Vier Copa-del-Rey-DC-Favoriten (Valencia/Alaves/Betis/Celta jeweils DC X2 bzw 1X aus Sicht LaLiga-Klub). Ultra-niedrige Quote - Reality-Check-Mitnahme. Alle Beine aus unterschiedlichen Spielen (Layer-1 erfuellt). Ehrlicher Hinweis: Mehr als 10% Zuwachs ist bei dieser Gesamtquote nicht realistisch - reine Risikoreduktion."
+    },
+    {
+      "name": "🐚 Balance-Kombi 3er (Tore + Torschuetze)",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-11-09-tav-val",
+          "spiel_label": "Tavernes vs Valencia",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.5,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-09-nav-bet",
+          "spiel_label": "Navalcarnero vs Betis",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.45,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-09-tar-lev",
+          "spiel_label": "Tarancon vs Levante",
+          "markt": "Ivan Romero Torschuetze jederzeit",
+          "quote": 2.1,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 4.57,
+      "rechnung": "1.50 x 1.45 x 2.10 = 4.57",
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 8.0,
+      "beschreibung": "Drei unterschiedliche Spiele und drei unterschiedliche Maerkte: zwei Tore-Totals + ein Volumen-Stuermer. Alle Beine Markt-Goldgruben. Keine Sieg-Outcomes (Layer-2 klar, Safe-Kombi hat bereits die DCs). Gesamtquote ca. 4.5x - erreicht die Balance-Zielrange nicht voll (6-10x Soll), diese Woche mit Cup-Favoriten-Markt nicht hoeher ehrlich erreichbar. Einsatz 8€."
+    },
+    {
+      "name": "🐚 Risiko-Kombi 5er (Alle 5 Spiele, Tore + Torschuetzen)",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-11-09-anf-ala",
+          "spiel_label": "Anaitasuna vs Alaves",
+          "markt": "Lucas Boye Torschuetze jederzeit",
+          "quote": 2.6,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-09-tav-val",
+          "spiel_label": "Tavernes vs Valencia",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.5,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-09-nav-bet",
+          "spiel_label": "Navalcarnero vs Betis",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.45,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-09-tar-lev",
+          "spiel_label": "Tarancon vs Levante",
+          "markt": "Ivan Romero Torschuetze jederzeit",
+          "quote": 2.1,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-09-sal-cel",
+          "spiel_label": "Salamanca vs Celta Vigo",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.5,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 17.81,
+      "rechnung": "2.60 x 1.50 x 1.45 x 2.10 x 1.50 = 17.81",
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 2.5,
+      "beschreibung": "Alle 5 Spiele der Woche abgedeckt (ein Bein pro Spiel, Layer-1 voll). Mix aus Tore-Totals + Torschuetzen. Keine Sieg-Outcomes (Layer-2 sauber gegen Safe-Kombi). Gesamtquote ca. 17.8x - in der Risiko-Zielrange (15-30x). Einsatz 2.5€ (0.25%)."
+    },
+    {
+      "name": "🐚 Moonshot 4er (Underdog-Lotterie)",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-11-09-tar-lev",
+          "spiel_label": "Tarancon vs Levante",
+          "markt": "Etta Eyong Torschuetze jederzeit",
+          "quote": 3.5,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-09-nav-bet",
+          "spiel_label": "Navalcarnero vs Betis",
+          "markt": "Abde Ezzalzouli Torschuetze jederzeit",
+          "quote": 2.4,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-09-anf-ala",
+          "spiel_label": "Anaitasuna vs Alaves",
+          "markt": "Lucas Boye Torschuetze jederzeit",
+          "quote": 2.6,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-09-sal-cel",
+          "spiel_label": "Salamanca vs Celta Vigo",
+          "markt": "Pablo Duran Torschuetze jederzeit",
+          "quote": 2.5,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 54.6,
+      "rechnung": "3.50 x 2.40 x 2.60 x 2.50 = 54.60",
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 1.0,
+      "beschreibung": "Vier Rotations-Torschuetzen aus unterschiedlichen Cup-Spielen. Alles Wackel wegen Cup-Rotation-Risiko (keiner garantiert in Startelf). Erreicht ehrlich ca. 55x statt der 100x+ Moonshot-Zielrange - diese Woche ohne Nations-League-/Underdog-Siege nicht hoeher sauber erreichbar. Spasseinsatz 1€."
+    }
+  ],
+  "lessons_angewandt": [
+    "HR24 Form-Edge-Pflicht: Torschuetzen-Tipps nur auf aktuelle Top-Scorer (Boye 5/9, Romero 3/11, Ezzalzouli 3/8, Duran 2/n).",
+    "Markt-Mix: DC-CAP max 1 pro Spiel durchgezogen. Alle 5 Spiele haben genau 1 DC + 1 Zweit-Markt + 1 Torschuetze/Tor-Total.",
+    "Markt-Goldgruben aktiv genutzt: DC X2/1X (+36% ROI), Ueber 2.5 (+30% ROI), Torschuetzen Jederzeit (+24% ROI historisch).",
+    "Kader-Wechsel-File gegengecheckt: Antony bleibt Betis (nicht in abgaenge-Liste), Aspas/Celta bestaetigt, Boye/Alaves bestaetigt, Umar Sadiq/Valencia-Top-Scorer bestaetigt.",
+    "2:0-Insurance (bet365 BL+CL) gilt im Copa del Rey NICHT - bei Sieg-Tipps auf LaLiga-Klub kein Rueckhalt, deshalb lieber DC X2 oder Handicap -1.",
+    "Rotations-Risiko Copa-R1 explizit markiert: alle Torschuetzen-Tipps auf 'wackel' degradiert, Kader-Pflicht-Check am Spieltag in 'begruendung' aufgenommen.",
+    "Zeitfenster-Hartregel: 5 Spiele im Fenster Mo 09.11. - So 15.11. - alle Copa del Rey Primera Ronda (Di-Fr), keine Vereinsspiele Mo/Sa/So wegen FIFA-Laenderspielpause. Nations-League-Spiele bewusst ausgeklammert (CLAUDE.md-Fokus = Vereins-Fussball).",
+    "Backstop-Prinzip: 5 ehrliche Cup-Spiele statt leerer Vorschau. Kombi-Quoten ehrlich kleiner als Zielrange (Balance 4.5x/Risiko 12x/Moonshot 55x) - nicht kuenstlich hochgezogen."
+  ],
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool, keine Einkommensquelle. Quoten bei bet365 live pruefen - Aufstellungen Copa-R1 am Spieltag auf kicker.de bzw. offizieller LaLiga-/Verein-Site Pflicht-Check (Rotations-Risiko).",
+  "_safety_net_backstop": {
+    "ausloeser": "Cloud-Hauptroutine (So 18:00) + Cloud-Watchdog haben keine Wochen-Vorschau fuer 2026-11-09 geliefert.",
+    "modus": "Backstop-Rekonstruktion durch Safety-Net-Backup",
+    "erstellt_am": "2026-11-08T22:29:00Z",
+    "spiele_gefunden": 5,
+    "spiele_art": "Copa del Rey Primera Ronda - einziges Vereinsfussball-Fenster in FIFA-Laenderspielpause",
+    "ausgeklammert": "Nations-League-Spiele (Fr-So, nationale Teams, CLAUDE.md-Fokus = Vereins-Fussball) + Amateur-Copa-Spiele ohne LaLiga-Beteiligung + Coupe-de-France-7e-Tour (nur Amateurteams, keine Ligue-1-Beteiligung)",
+    "warns": [
+      "Alle Quoten sind Markt-Schaetzungen - bei bet365 vor Anstoss live pruefen",
+      "Aufstellungen fuer Copa-R1 Pflicht-Check am Spieltag (hoehe Rotations-Wahrscheinlichkeit) - Torschuetzen-Tipps bei Nicht-Startelf droppen",
+      "Kombi-Zielranges nicht alle erreicht (Balance 4.5x statt 6-10x, Risiko 12x statt 15-30x, Moonshot 55x statt 100x+) - diese Woche mit nur 5 Cup-Favoriten ohne Nations-League nicht sauber erreichbar, nicht kuenstlich hochgedreht"
+    ]
+  }
+}
