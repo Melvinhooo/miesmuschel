@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-11-07T16:43:59+00:00",
+  "letzte_berechnung": "2026-11-08T16:54:17+00:00",
   "gesamt": {
     "tipps": 353,
     "gewonnen": 203,
@@ -24,15 +24,15 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 15.1
   },
   "letzte_90_tage": {
-    "tipps": 311,
-    "gewonnen": 183,
-    "verloren": 110,
+    "tipps": 300,
+    "gewonnen": 179,
+    "verloren": 103,
     "push": 1,
     "offen": 17,
-    "einsatz": 294.0,
+    "einsatz": 283.0,
     "netto": 93.1,
-    "trefferquote": 62.5,
-    "roi_prozent": 31.7
+    "trefferquote": 63.5,
+    "roi_prozent": 32.9
   },
   "nach_liga": {
     "UEFA Champions League - 3. Qualifikationsrunde": {
@@ -3588,6 +3588,273 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-11-07",
+      "gesamt": {
+        "tipps": 12,
+        "gewonnen": 7,
+        "verloren": 5,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 12.0,
+        "netto": -1.38,
+        "trefferquote": 58.3,
+        "roi_prozent": -11.5
+      },
+      "spiele": [
+        {
+          "id": "2026-11-07-stu-wer",
+          "liga": "Bundesliga 2026/27 - 10. Spieltag",
+          "heim": "VfB Stuttgart",
+          "gast": "SV Werder Bremen",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Werder oder Remis (Doppelte Chance X2)",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.95,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-11-07-not-mci",
+          "liga": "Premier League 2026/27 - Matchweek 10",
+          "heim": "Nottingham Forest",
+          "gast": "Manchester City",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Manchester City oder Remis (Doppelte Chance 2X)",
+              "quote": 1.2,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            },
+            {
+              "markt": "Haaland Torschuetze jederzeit",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Haaland blieb ohne Tor und wurde nicht ausgewechselt - City-Tor erzielte Rayan Cherki. Einwechslungs-Boost greift nicht (Haaland durchgespielt)."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-07-osa-ath",
+          "liga": "LaLiga 2026/27 - Jornada 12",
+          "heim": "CA Osasuna",
+          "gast": "Athletic Club",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.8,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.8,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-11-07-rom-sas",
+          "liga": "Serie A 2026/27 - Giornata 11",
+          "heim": "AS Roma",
+          "gast": "US Sassuolo",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Roma oder Remis (Doppelte Chance 1X)",
+              "quote": 1.22,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.22,
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg AS Roma (90 Min)",
+              "quote": 1.5,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.5,
+              "kommentar": ""
+            },
+            {
+              "markt": "Malen Torschuetze jederzeit",
+              "quote": 2.5,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Malen blieb ohne Tor (nur Assist zum 3:0 fuer Rodrigo Mora). Malen wurde zwar fuer Santiago Castro ausgewechselt - Castro traf aber nicht. Einwechslungs-Boost greift nicht. Mora war Startelf und zaehlt als eigenstaendiger Torschuetze, nicht als Malen-Ersatz."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-07-val-rma",
+          "liga": "LaLiga 2026/27 - Jornada 12",
+          "heim": "Valencia CF",
+          "gast": "Real Madrid",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Real Madrid oder Remis (Doppelte Chance 2X)",
+              "quote": 1.2,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.2,
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Real Madrid (90 Min)",
+              "quote": 1.5,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.5,
+              "kommentar": ""
+            },
+            {
+              "markt": "Mbappe Torschuetze jederzeit",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.75,
+              "kommentar": "Mbappe traf in der 75. Minute zum 0:3-Endstand - 7. Spiel in Folge mit Tor, Form-Edge voll ausgespielt."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.65,
+              "kommentar": ""
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (Dreier-Goldgrube: Torschuetze + DC X2 + Sieg-Favorit)",
+          "kategorie": "safe",
+          "gesamtquote": 4.49,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Haaland Torschuetze jederzeit",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Werder oder Remis (Doppelte Chance X2)",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Real Madrid",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (Tor-Total + BTTS + Torschuetze-Hedge)",
+          "kategorie": "balance",
+          "gesamtquote": 5.51,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen (BTTS Ja)",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Mbappe Torschuetze jederzeit",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (Coinflip-Sieg + Torschuetze + BTTS)",
+          "kategorie": "risk",
+          "gesamtquote": 15.0,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Osasuna",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Malen Torschuetze jederzeit",
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen NEIN (BTTS Nein)",
+              "quote": 2.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot (Underdog-Doppel + Tor-Flut)",
+          "kategorie": "moonshot",
+          "gesamtquote": 168.0,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Nottingham Forest",
+              "quote": 8.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Sassuolo",
+              "quote": 7.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 2.8,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-11-06",
       "gesamt": {
