@@ -3989,6 +3989,31 @@
       "kategorie": "HR11-07-4 Fruehes-Tor-Cluster 18:30-Slot + Delap Volume-9er-Backup-Blind-Spot (8g + 8i)",
       "lesson": "In den drei 18:30-Anstoessen fielen Fruehtore: Mittelstaedt 7.Min (Stuttgart 1:0), Jair Cunha 6.Min + Delap 18.Min (Forest 2:0 HZ). Beide Spiele endeten mit dem fruehen Favoritensieg-Narrativ gebrochen (Stuttgart haelt 1:0 durch, Forest baut aus). Markt-Pattern 18:30-Anstoesse mit Konkurrenz um die Flutlicht-Primetime: Teams starten mit maximaler Intensitaet, fruehe Tore (<10.Min) in 2/3 Spielen. Zusatz-Beobachtung Volume-Backup-9er: Liam Delap war Forest-Winter-Kauf 2026 (aus Ipswich Town zu Forest) - 'ends City Ground goal drought' laut Sky. Dossier hatte nur Haaland im Torschuetzen-Markt fuer dieses Spiel, Delap als Underdog-Volume-9er nicht aktiv gescannt. HR11-07-4a: Pre-Match Underdog-Volume-9er auch dann scannen, wenn das Team Favoriten-Gegner hat (bisher fokussiert auf Favoriten-Volume-9er). HR11-07-4b: 18:30-Samstags-Anstoesse-Markt Ueber 1.5 Tore als VALUE-Markt pruefen, wenn beide Teams ueberdurchschnittliche Fruehtor-Historie haben.",
       "bezug_spiel_id": "2026-11-07-not-mci"
+    },
+    {
+      "datum": "2026-11-09",
+      "kategorie": "AUTO-PATTERN: Serie A 2026/27 - Giornata 11 / Torschuetze / wackel - 75% Verlust (3/4)",
+      "lesson": "Auto-erkannter Verlust-Cluster Stand 2026-11-09: in Liga 'Serie A 2026/27 - Giornata 11' wurden 4 WACKEL-Tipps auf Markt-Kat 'Torschuetze' platziert, davon 3 verloren (75%). Empfehlung: diesen Cluster in den naechsten Lauefen NICHT mehr als WACKEL - max eine Stufe runter (safe->value, value->wackel) bis Verlust-Quote < 50%. Beispiele: 2026-11-07 AS Roma - US Sassuolo (Malen Torschuetze jederzeit) -> ?; 2026-11-08 SSC Napoli - SS Lazio (Pinamonti Torschuetze jederzeit) -> ?; 2026-11-08 ACF Fiorentina - Juventus Turin (Kolo Muani Torschuetze jederzeit) -> ?",
+      "bezug_spiel_id": null,
+      "auto_generiert": true
+    },
+    {
+      "datum": "2026-11-09",
+      "kategorie": "HR11-09-2 Volume-9er-Backup-Yamal-Kreator-Switch Fermin-Trifft-Yamal-Assistiert (8g-8b-8c)",
+      "lesson": "Atletico-Barca 1:2: Lamine Yamal spielte 2 Assists (Fermin Lopez 45' + 66'), traf aber nicht selbst - Torschuetzen-Tipp Yamal Jederzeit @2.40 verloren. Fermin Lopez als Barca-IR-Volumen-Waffe (2 Tore in Spitzenduell) hat diese Saison 2026/27 die Scorer-Rolle uebernommen, Yamal ist mittlerweile mehr Spielmacher/Kreator als Finisher. VERFEINERUNG: Bei Barca-Torschuetzen-Tipps kuenftig Fermin Lopez (Mittelfeld-Box-to-Box) vor Yamal (Fluegel-Kreator) setzen, Yamal eher fuer Assists / Doppelpack-Moonshot wenn er in Form ist. bet365-Markt 'Yamal Jederzeit' bleibt WACKEL max.",
+      "bezug_spiel_id": "2026-11-08-atl-bar"
+    },
+    {
+      "datum": "2026-11-09",
+      "kategorie": "HR11-09-3 Einwechslungs-Boost Falle Juve-Doppelspitze Kolo-Muani blieb auf Platz (8h-8i-8b)",
+      "lesson": "Fio-Juve 2:2: Kolo Muani Torschuetze Jederzeit @2.40 verloren - der Spalletti-Trick ist die DOPPELSPITZE Kolo Muani + Woltemade, nicht Volume-9er + Backup. In 57' wurde WOLTEMADE (nicht Kolo Muani!) ausgewechselt fuer Zhegrova. Kolo Muani blieb 90min auf dem Platz. Einwechslungs-Boost-Logik greift nicht - der Boost entsteht nur wenn der getippte Spieler SELBST runter geht und sein direkter Ersatz trifft. Umgekehrt: Woltemade (der heute traf, 32') und WURDE ausgewechselt, hat Zhegrova als Ersatz - der traf nicht. HARTREGEL: Bei Juve Doppelspitze Muani+Woltemade KEIN Boost-Netz zwischen den beiden - jeder einzeln getippt, Boost-Backup nur ueber 3. Stuermer (Boga/Vlahovic falls im Kader)",
+      "bezug_spiel_id": "2026-11-08-fio-juv"
+    },
+    {
+      "datum": "2026-11-09",
+      "kategorie": "HR11-09-4 Safe-Kombi 3er Favoriten-Blueprint DC+Sieg+DC 3/3-Hit n4-Validierung (8c-8a)",
+      "lesson": "Safe-Kombi 3.13x gewonnen: Leverkusen DC X2 @1.30 + Inter Sieg @1.85 + Barca DC X2 @1.30 = 3.13 Gesamtquote, 20€ Einsatz -> 62.60€ Payout (+42.60€ netto). 3 verschiedene Spiele, 2 DC-Goldgruben + 1 klarer Heim-Favorit. Blueprint bestaetigt sich jetzt zum 4. Mal (seit CL MD4 02.11., EL MD4 05.11., Fav-Sonntag 07.11., Fav-Sonntag 08.11.). SAFE-Kombi-Struktur: 2x DC-X2-Auswaerts-Favorit (<1.35 Quote) + 1x klarer Heim-Sieg-Favorit (~1.80) in verschiedenen Ligen diversifiziert gegen Layer-1-Single-Point-Failure. Falls Stufe-2 Freischaltung: Half-Kelly 40€ auf diesen Blueprint, nicht 60€ (DC-Streak kann brechen).",
+      "bezug_spiel_id": "2026-11-08-koe-lev"
     }
   ],
   "stand": "2026-11-08"

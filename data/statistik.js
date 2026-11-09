@@ -1,16 +1,16 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-11-08T16:54:17+00:00",
+  "letzte_berechnung": "2026-11-09T21:09:24+00:00",
   "gesamt": {
-    "tipps": 353,
-    "gewonnen": 203,
-    "verloren": 132,
+    "tipps": 300,
+    "gewonnen": 179,
+    "verloren": 103,
     "push": 1,
     "offen": 17,
-    "einsatz": 336.0,
+    "einsatz": 283.0,
     "netto": 93.1,
-    "trefferquote": 60.6,
-    "roi_prozent": 27.7
+    "trefferquote": 63.5,
+    "roi_prozent": 32.9
   },
   "letzte_30_tage": {
     "tipps": 122,
@@ -24,149 +24,17 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 15.1
   },
   "letzte_90_tage": {
-    "tipps": 300,
-    "gewonnen": 179,
-    "verloren": 103,
-    "push": 1,
+    "tipps": 290,
+    "gewonnen": 176,
+    "verloren": 97,
+    "push": 0,
     "offen": 17,
-    "einsatz": 283.0,
+    "einsatz": 273.0,
     "netto": 93.1,
-    "trefferquote": 63.5,
-    "roi_prozent": 32.9
+    "trefferquote": 64.5,
+    "roi_prozent": 34.1
   },
   "nach_liga": {
-    "UEFA Champions League - 3. Qualifikationsrunde": {
-      "tipps": 10,
-      "gewonnen": 3,
-      "verloren": 7,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 10.0,
-      "netto": 0.0,
-      "trefferquote": 30.0,
-      "roi_prozent": 0.0
-    },
-    "UEFA Champions League - 3. Qualifikationsrunde (League Path)": {
-      "tipps": 4,
-      "gewonnen": 2,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 4.0,
-      "netto": 0.0,
-      "trefferquote": 50.0,
-      "roi_prozent": 0.0
-    },
-    "UEFA Champions League - 3. Qualifikationsrunde (Champions Path)": {
-      "tipps": 4,
-      "gewonnen": 3,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 4.0,
-      "netto": 0.0,
-      "trefferquote": 75.0,
-      "roi_prozent": 0.0
-    },
-    "UEFA Europa League - 3. Qualifikationsrunde (League Path)": {
-      "tipps": 5,
-      "gewonnen": 3,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 5.0,
-      "netto": 0.0,
-      "trefferquote": 60.0,
-      "roi_prozent": 0.0
-    },
-    "UEFA Conference League - 3. Qualifikationsrunde": {
-      "tipps": 2,
-      "gewonnen": 2,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "UEFA Europa League - 3. Qualifikationsrunde (Champions Path)": {
-      "tipps": 2,
-      "gewonnen": 1,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 50.0,
-      "roi_prozent": 0.0
-    },
-    "Portugal Primeira Liga 2026/27 - 1. Spieltag": {
-      "tipps": 2,
-      "gewonnen": 1,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 50.0,
-      "roi_prozent": 0.0
-    },
-    "2. Bundesliga 2026/27 - 1. Spieltag": {
-      "tipps": 19,
-      "gewonnen": 7,
-      "verloren": 12,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 19.0,
-      "netto": 0.0,
-      "trefferquote": 36.8,
-      "roi_prozent": 0.0
-    },
-    "Belgien Jupiler Pro League 2026/27 - 1. Spieltag": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "Brasilien Serie B 2026": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Brasilien Serie A 2026 - 22. Runde": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Brasilien Serie A 2026 - 22. Spieltag": {
-      "tipps": 2,
-      "gewonnen": 1,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 50.0,
-      "roi_prozent": 0.0
-    },
     "Liga Portugal Betclic 2026/27 - 1. Spieltag": {
       "tipps": 3,
       "gewonnen": 0,
@@ -939,215 +807,6 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "nach_markt": {
-    "Crvena Zvezda oder Unentschieden": {
-      "tipps": 3,
-      "gewonnen": 0,
-      "verloren": 3,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Levski oder Unentschieden": {
-      "tipps": 4,
-      "gewonnen": 3,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 4.0,
-      "netto": 0.0,
-      "trefferquote": 75.0,
-      "roi_prozent": 0.0
-    },
-    "Lyon oder Unentschieden": {
-      "tipps": 3,
-      "gewonnen": 0,
-      "verloren": 3,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Sieg 1X2: Fenerbahce": {
-      "tipps": 4,
-      "gewonnen": 2,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 4.0,
-      "netto": 0.0,
-      "trefferquote": 50.0,
-      "roi_prozent": 0.0
-    },
-    "Sieg 1X2: Aarhus": {
-      "tipps": 4,
-      "gewonnen": 3,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 4.0,
-      "netto": 0.0,
-      "trefferquote": 75.0,
-      "roi_prozent": 0.0
-    },
-    "Sieg 1X2: Benfica": {
-      "tipps": 2,
-      "gewonnen": 2,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "Beide Teams treffen JA": {
-      "tipps": 11,
-      "gewonnen": 4,
-      "verloren": 7,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 11.0,
-      "netto": 1.0,
-      "trefferquote": 36.4,
-      "roi_prozent": 9.1
-    },
-    "Sieg 1X2: Hibernian": {
-      "tipps": 2,
-      "gewonnen": 2,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "Doppelte Chance X2: Jagiellonia oder Remis": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "Sieg 1X2: Salzburg": {
-      "tipps": 2,
-      "gewonnen": 1,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 50.0,
-      "roi_prozent": 0.0
-    },
-    "Unter 2.5 Tore": {
-      "tipps": 18,
-      "gewonnen": 10,
-      "verloren": 8,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 18.0,
-      "netto": 6.7,
-      "trefferquote": 55.6,
-      "roi_prozent": 37.2
-    },
-    "Ueber 2.5 Tore": {
-      "tipps": 25,
-      "gewonnen": 15,
-      "verloren": 8,
-      "push": 0,
-      "offen": 2,
-      "einsatz": 23.0,
-      "netto": 7.57,
-      "trefferquote": 65.2,
-      "roi_prozent": 32.9
-    },
-    "Doppelte Chance 1X: Heidenheim oder Remis": {
-      "tipps": 2,
-      "gewonnen": 2,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "Doppelte Chance 1X: Magdeburg oder Remis": {
-      "tipps": 2,
-      "gewonnen": 1,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 50.0,
-      "roi_prozent": 0.0
-    },
-    "Sieg 1X2: Wolfsburg": {
-      "tipps": 3,
-      "gewonnen": 0,
-      "verloren": 3,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Sieg 1X2: Palmeiras": {
-      "tipps": 2,
-      "gewonnen": 1,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 50.0,
-      "roi_prozent": 0.0
-    },
-    "Beide Teams treffen: Ja": {
-      "tipps": 21,
-      "gewonnen": 15,
-      "verloren": 6,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 21.0,
-      "netto": 2.78,
-      "trefferquote": 71.4,
-      "roi_prozent": 13.2
-    },
-    "Doppelte Chance X2: Dresden oder Remis": {
-      "tipps": 3,
-      "gewonnen": 1,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 33.3,
-      "roi_prozent": 0.0
-    },
-    "Doppelte Chance X2: Hannover oder Remis": {
-      "tipps": 2,
-      "gewonnen": 1,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 50.0,
-      "roi_prozent": 0.0
-    },
     "Sieg 1X2: Santa Clara": {
       "tipps": 3,
       "gewonnen": 0,
@@ -1203,6 +862,17 @@ window.__MIESMUSCHEL_STAT = {
       "trefferquote": 100.0,
       "roi_prozent": 0.0
     },
+    "Unter 2.5 Tore": {
+      "tipps": 15,
+      "gewonnen": 9,
+      "verloren": 6,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 15.0,
+      "netto": 6.7,
+      "trefferquote": 60.0,
+      "roi_prozent": 44.7
+    },
     "Sieg 1X2: Roter Stern Belgrad": {
       "tipps": 1,
       "gewonnen": 0,
@@ -1224,6 +894,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 50.0,
       "roi_prozent": 0.0
+    },
+    "Beide Teams treffen: Ja": {
+      "tipps": 17,
+      "gewonnen": 14,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 17.0,
+      "netto": 2.78,
+      "trefferquote": 82.4,
+      "roi_prozent": 16.4
     },
     "Sieg 1X2: Arsenal FC": {
       "tipps": 2,
@@ -1401,6 +1082,17 @@ window.__MIESMUSCHEL_STAT = {
       "trefferquote": 0.0,
       "roi_prozent": 0.0
     },
+    "Ueber 2.5 Tore": {
+      "tipps": 23,
+      "gewonnen": 14,
+      "verloren": 7,
+      "push": 0,
+      "offen": 2,
+      "einsatz": 21.0,
+      "netto": 7.57,
+      "trefferquote": 66.7,
+      "roi_prozent": 36.0
+    },
     "Doppelte Chance: Deportivo La Coruna oder Unentschieden": {
       "tipps": 1,
       "gewonnen": 1,
@@ -1554,6 +1246,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 1.25,
       "trefferquote": 100.0,
       "roi_prozent": 125.0
+    },
+    "Beide Teams treffen JA": {
+      "tipps": 6,
+      "gewonnen": 3,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 6.0,
+      "netto": 1.0,
+      "trefferquote": 50.0,
+      "roi_prozent": 16.7
     },
     "Kylian Mbappé trifft": {
       "tipps": 1,
@@ -3108,104 +2811,49 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "nach_markt_typ": {
-    "Crvena Zvezda oder Unentschieden": {
-      "tipps": 3,
-      "gewonnen": 0,
-      "verloren": 3,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Levski oder Unentschieden": {
-      "tipps": 4,
-      "gewonnen": 3,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 4.0,
-      "netto": 0.0,
-      "trefferquote": 75.0,
-      "roi_prozent": 0.0
-    },
-    "Lyon oder Unentschieden": {
-      "tipps": 3,
-      "gewonnen": 0,
-      "verloren": 3,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
     "Sieg (1X2 / ML)": {
-      "tipps": 81,
-      "gewonnen": 42,
-      "verloren": 36,
+      "tipps": 62,
+      "gewonnen": 31,
+      "verloren": 28,
       "push": 1,
       "offen": 2,
-      "einsatz": 79.0,
+      "einsatz": 60.0,
       "netto": 10.32,
-      "trefferquote": 53.8,
-      "roi_prozent": 13.1
+      "trefferquote": 52.5,
+      "roi_prozent": 17.2
     },
-    "Beide Teams treffen JA": {
-      "tipps": 35,
-      "gewonnen": 22,
-      "verloren": 13,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 35.0,
-      "netto": 5.78,
-      "trefferquote": 62.9,
-      "roi_prozent": 16.5
-    },
-    "Doppelte Chance X2": {
-      "tipps": 22,
-      "gewonnen": 16,
+    "Unter 2.5 Tore": {
+      "tipps": 15,
+      "gewonnen": 9,
       "verloren": 6,
       "push": 0,
       "offen": 0,
-      "einsatz": 22.0,
-      "netto": 9.74,
-      "trefferquote": 72.7,
-      "roi_prozent": 44.3
-    },
-    "Unter 2.5 Tore": {
-      "tipps": 18,
-      "gewonnen": 10,
-      "verloren": 8,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 18.0,
+      "einsatz": 15.0,
       "netto": 6.7,
-      "trefferquote": 55.6,
-      "roi_prozent": 37.2
+      "trefferquote": 60.0,
+      "roi_prozent": 44.7
     },
-    "Ueber 2.5 Tore": {
-      "tipps": 41,
-      "gewonnen": 22,
-      "verloren": 15,
-      "push": 0,
-      "offen": 4,
-      "einsatz": 37.0,
-      "netto": 11.07,
-      "trefferquote": 59.5,
-      "roi_prozent": 29.9
-    },
-    "Doppelte Chance 1X": {
-      "tipps": 22,
-      "gewonnen": 18,
-      "verloren": 4,
+    "Beide Teams treffen JA": {
+      "tipps": 26,
+      "gewonnen": 20,
+      "verloren": 6,
       "push": 0,
       "offen": 0,
-      "einsatz": 22.0,
-      "netto": 7.98,
-      "trefferquote": 81.8,
-      "roi_prozent": 36.3
+      "einsatz": 26.0,
+      "netto": 5.78,
+      "trefferquote": 76.9,
+      "roi_prozent": 22.2
+    },
+    "Doppelte Chance X2": {
+      "tipps": 16,
+      "gewonnen": 13,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 16.0,
+      "netto": 9.74,
+      "trefferquote": 81.2,
+      "roi_prozent": 60.9
     },
     "Doppelte Chance": {
       "tipps": 61,
@@ -3217,6 +2865,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 15.05,
       "trefferquote": 76.5,
       "roi_prozent": 29.5
+    },
+    "Ueber 2.5 Tore": {
+      "tipps": 39,
+      "gewonnen": 21,
+      "verloren": 14,
+      "push": 0,
+      "offen": 4,
+      "einsatz": 35.0,
+      "netto": 11.07,
+      "trefferquote": 60.0,
+      "roi_prozent": 31.6
     },
     "Torschuetzen Jederzeit": {
       "tipps": 34,
@@ -3272,6 +2931,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Doppelte Chance 1X": {
+      "tipps": 18,
+      "gewonnen": 15,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 18.0,
+      "netto": 7.98,
+      "trefferquote": 83.3,
+      "roi_prozent": 44.3
     },
     "Spread/Handicap": {
       "tipps": 4,
@@ -3418,27 +3088,27 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "nach_quoten_range": {
-    "1.00-1.50": {
-      "tipps": 152,
-      "gewonnen": 105,
-      "verloren": 36,
-      "push": 1,
-      "offen": 10,
-      "einsatz": 142.0,
-      "netto": 36.94,
-      "trefferquote": 74.5,
-      "roi_prozent": 26.0
-    },
     "1.50-2.00": {
-      "tipps": 162,
-      "gewonnen": 90,
-      "verloren": 68,
+      "tipps": 133,
+      "gewonnen": 79,
+      "verloren": 50,
       "push": 0,
       "offen": 4,
-      "einsatz": 158.0,
+      "einsatz": 129.0,
       "netto": 57.41,
-      "trefferquote": 57.0,
-      "roi_prozent": 36.3
+      "trefferquote": 61.2,
+      "roi_prozent": 44.5
+    },
+    "1.00-1.50": {
+      "tipps": 128,
+      "gewonnen": 92,
+      "verloren": 25,
+      "push": 1,
+      "offen": 10,
+      "einsatz": 118.0,
+      "netto": 36.94,
+      "trefferquote": 78.6,
+      "roi_prozent": 31.3
     },
     "2.00-3.00": {
       "tipps": 30,
@@ -3464,38 +3134,38 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "nach_kategorie": {
-    "value": {
-      "tipps": 229,
-      "gewonnen": 128,
-      "verloren": 91,
-      "push": 1,
-      "offen": 9,
-      "einsatz": 220.0,
-      "netto": 44.94,
-      "trefferquote": 58.4,
-      "roi_prozent": 20.4
-    },
     "wackel": {
-      "tipps": 61,
-      "gewonnen": 29,
-      "verloren": 32,
+      "tipps": 42,
+      "gewonnen": 20,
+      "verloren": 22,
       "push": 0,
       "offen": 0,
-      "einsatz": 61.0,
+      "einsatz": 42.0,
       "netto": 15.19,
-      "trefferquote": 47.5,
-      "roi_prozent": 24.9
+      "trefferquote": 47.6,
+      "roi_prozent": 36.2
+    },
+    "value": {
+      "tipps": 197,
+      "gewonnen": 114,
+      "verloren": 73,
+      "push": 1,
+      "offen": 9,
+      "einsatz": 188.0,
+      "netto": 44.94,
+      "trefferquote": 61.0,
+      "roi_prozent": 23.9
     },
     "safe": {
-      "tipps": 61,
-      "gewonnen": 45,
-      "verloren": 9,
+      "tipps": 59,
+      "gewonnen": 44,
+      "verloren": 8,
       "push": 0,
       "offen": 7,
-      "einsatz": 54.0,
+      "einsatz": 52.0,
       "netto": 31.97,
-      "trefferquote": 83.3,
-      "roi_prozent": 59.2
+      "trefferquote": 84.6,
+      "roi_prozent": 61.5
     },
     "risk": {
       "tipps": 2,
@@ -3528,15 +3198,15 @@ window.__MIESMUSCHEL_STAT = {
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 353,
-      "gewonnen": 203,
-      "verloren": 132,
+      "tipps": 300,
+      "gewonnen": 179,
+      "verloren": 103,
       "push": 1,
       "offen": 17,
-      "einsatz": 336.0,
+      "einsatz": 283.0,
       "netto": 93.1,
-      "trefferquote": 60.6,
-      "roi_prozent": 27.7
+      "trefferquote": 63.5,
+      "roi_prozent": 32.9
     },
     "kasse": {
       "name": "2026/27",
@@ -3555,15 +3225,15 @@ window.__MIESMUSCHEL_STAT = {
         "start": "2000-01-01",
         "ende": "2026-08-21",
         "bilanz": {
-          "tipps": 138,
-          "gewonnen": 60,
-          "verloren": 66,
+          "tipps": 85,
+          "gewonnen": 36,
+          "verloren": 37,
           "push": 1,
           "offen": 11,
-          "einsatz": 127.0,
+          "einsatz": 74.0,
           "netto": -3.13,
-          "trefferquote": 47.6,
-          "roi_prozent": -2.5
+          "trefferquote": 49.3,
+          "roi_prozent": -4.2
         },
         "ist_aktuell": false
       },
@@ -3588,6 +3258,311 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-11-08",
+      "gesamt": {
+        "tipps": 16,
+        "gewonnen": 10,
+        "verloren": 6,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 16.0,
+        "netto": 0.9,
+        "trefferquote": 62.5,
+        "roi_prozent": 5.6
+      },
+      "spiele": [
+        {
+          "id": "2026-11-08-nap-laz",
+          "liga": "Serie A 2026/27 - Giornata 11",
+          "heim": "SSC Napoli",
+          "gast": "SS Lazio",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen (BTTS Ja)",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.75,
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 2.0,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            },
+            {
+              "markt": "Pinamonti Torschuetze jederzeit",
+              "quote": 2.3,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Pinamonti kein Tor; in 61. fuer Dele-Bashiru ausgewechselt - Ersatz traf ebenfalls nicht. Einwechslungs-Boost greift nicht. Quelle: ESPN/Sofascore."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-08-koe-lev",
+          "liga": "Bundesliga 2026/27 - 9. Spieltag",
+          "heim": "1. FC Koeln",
+          "gast": "Bayer 04 Leverkusen",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Leverkusen oder Remis (Doppelte Chance X2)",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": ""
+            },
+            {
+              "markt": "Schick Torschuetze jederzeit",
+              "quote": 1.95,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.95,
+              "kommentar": "Schick traf in 85. Minute (Vorlage Maza) - Tor direkt. Quelle: sportschau.de Liveticker."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.85,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-11-08-int-com",
+          "liga": "Serie A 2026/27 - Giornata 11",
+          "heim": "Inter Mailand",
+          "gast": "Como 1907",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Inter Sieg (90 Min)",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.85,
+              "kommentar": "Inter 2:0 Heimsieg, Markt \"Inter Sieg (90 Min)\" erfuellt - Autoscript konnte Markt-Variante nicht matchen. Quelle: ESPN."
+            },
+            {
+              "markt": "Thuram Torschuetze jederzeit",
+              "quote": 2.0,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.0,
+              "kommentar": "Thuram traf in 19. Minute direkt. Quelle: TNT Sports / ESPN."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-11-08-fio-juv",
+          "liga": "Serie A 2026/27 - Giornata 11",
+          "heim": "ACF Fiorentina",
+          "gast": "Juventus Turin",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Juventus oder Remis (Doppelte Chance X2)",
+              "quote": 1.45,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.45,
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.85,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": ""
+            },
+            {
+              "markt": "Kolo Muani Torschuetze jederzeit",
+              "quote": 2.4,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Kolo Muani traf nicht, blieb auf dem Platz - Woltemade wurde 57. ausgewechselt (Zhegrova rein). Kein Einwechslungs-Boost auf Kolo Muani moeglich."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-08-atl-bar",
+          "liga": "LaLiga 2026/27 - Jornada 12",
+          "heim": "Atletico Madrid",
+          "gast": "FC Barcelona",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Barcelona oder Remis (Doppelte Chance X2)",
+              "quote": 1.3,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.75,
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen (BTTS Ja)",
+              "quote": 1.7,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.7,
+              "kommentar": ""
+            },
+            {
+              "markt": "Yamal Torschuetze jederzeit",
+              "quote": 2.4,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Yamal kein Tor (2 Assists fuer Fermin Lopez 45. + 66.). Kein Einwechslungs-Boost: Fermin ist kein direkter Yamal-Ersatz."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi 3er",
+          "kategorie": "safe",
+          "gesamtquote": 3.13,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Leverkusen oder Remis (Doppelte Chance X2)",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Inter Sieg (90 Min)",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Barcelona oder Remis (Doppelte Chance X2)",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi 3er",
+          "kategorie": "balance",
+          "gesamtquote": 6.67,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Juventus oder Remis (Doppelte Chance X2)",
+              "quote": 1.45,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Thuram Torschuetze jederzeit",
+              "quote": 2.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Pinamonti Torschuetze jederzeit",
+              "quote": 2.3,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi 4er",
+          "kategorie": "risk",
+          "gesamtquote": 21.31,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Kolo Muani Torschuetze jederzeit",
+              "quote": 2.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Yamal Torschuetze jederzeit",
+              "quote": 2.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 2.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi 100x+",
+          "kategorie": "moonshot",
+          "gesamtquote": 119.7,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Hoejlund 2+ Tore",
+              "quote": 4.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Schick 2+ Tore",
+              "quote": 3.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Yamal 2+ Tore",
+              "quote": 7.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-11-07",
       "gesamt": {
@@ -18973,693 +18948,6 @@ window.__MIESMUSCHEL_STAT = {
             {
               "markt": "Sieg Exeter City",
               "quote": 6.0,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-08-09",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 3.6,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg Palmeiras",
-              "quote": 1.57,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Doppelte Chance X2 Dresden/Remis",
-              "quote": 1.64,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Doppelte Chance X2 Hannover/Remis",
-              "quote": 1.4,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 4.83,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "BTTS Ja",
-              "quote": 1.6,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Über 2.5 Tore",
-              "quote": 1.65,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Unter 2.5 Tore",
-              "quote": 1.83,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 3.1,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg Cottbus",
-              "quote": 3.1,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 30.75,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg Greuther Fürth",
-              "quote": 4.1,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Vermeij Doppelpack",
-              "quote": 7.5,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-08-08",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "Kombi Safe ~4.66x (Value-Anker-Kombi)",
-          "kategorie": "",
-          "gesamtquote": 4.66,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg 1X2: Wolfsburg",
-              "quote": 1.64,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Doppelte Chance 1X: Heidenheim oder Remis",
-              "quote": 1.25,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Doppelte Chance 1X: Magdeburg oder Remis",
-              "quote": 1.3,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Unter 2.5 Tore",
-              "quote": 1.75,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Kombi Balance ~6.89x (Grêmio-Sieg-Anker)",
-          "kategorie": "",
-          "gesamtquote": 6.89,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg 1X2: Grêmio",
-              "quote": 2.4,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Beide Teams treffen JA",
-              "quote": 1.64,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Über 2.5 Tore",
-              "quote": 1.75,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Kombi Risiko ~15.96x (Bielefeld-Underdog + Non-Sieg-Mix)",
-          "kategorie": "",
-          "gesamtquote": 15.96,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg 1X2: Arminia Bielefeld",
-              "quote": 2.35,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Torschützen Jederzeit: Robert Glatzel",
-              "quote": 2.18,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Über 2.5 Tore",
-              "quote": 1.75,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Beide Teams treffen JA",
-              "quote": 1.78,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Kombi Moonshot ~320x (4-Underdog-Cluster)",
-          "kategorie": "",
-          "gesamtquote": 320.4,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg 1X2: VfL Osnabrück",
-              "quote": 5.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sieg 1X2: 1. FC Kaiserslautern",
-              "quote": 4.8,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sieg 1X2: Eintracht Braunschweig",
-              "quote": 4.45,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sieg 1X2: São Paulo",
-              "quote": 3.0,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-08-07",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "Kombi Safe ~4.75x (Auftakt-Slate)",
-          "kategorie": "",
-          "gesamtquote": 4.75,
-          "einsatz_prozent": 1.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Beide Teams treffen JA",
-              "quote": 1.72,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.55,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Unter 2.5 Tore",
-              "quote": 1.78,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Kombi Balance ~8x",
-          "kategorie": "",
-          "gesamtquote": 8.12,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg 1X2: Club Brugge",
-              "quote": 1.25,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sieg 1X2: Famalicao",
-              "quote": 2.28,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sieg 1X2: Hertha",
-              "quote": 2.85,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Kombi Risiko ~44x (Underdog-Ponte-Sieg + Non-Sieg)",
-          "kategorie": "",
-          "gesamtquote": 44.01,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg 1X2: Ponte Preta",
-              "quote": 8.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.72,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Beide Teams treffen NEIN",
-              "quote": 1.72,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Beide Teams treffen NEIN",
-              "quote": 1.75,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Kombi Moonshot-Light ~12x (Slate zu duenn fuer echten 100x)",
-          "kategorie": "",
-          "gesamtquote": 16.14,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Torschuetzen Jederzeit: Josip Brekalo (Hertha)",
-              "quote": 3.75,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Beide Teams treffen JA",
-              "quote": 2.1,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Beide Teams treffen JA",
-              "quote": 2.05,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-08-06",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "Kombi Safe ~3x",
-          "kategorie": "",
-          "gesamtquote": 2.9,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg 1X2: Benfica",
-              "quote": 1.21,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sieg 1X2: Hibernian",
-              "quote": 1.37,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.75,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Kombi Balance ~8x",
-          "kategorie": "",
-          "gesamtquote": 6.06,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Torschuetzen Jederzeit: Pavlidis",
-              "quote": 1.75,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Torschuetzen Jederzeit: Elding",
-              "quote": 2.1,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Beide Teams treffen JA",
-              "quote": 1.65,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Kombi Risiko ~20x",
-          "kategorie": "",
-          "gesamtquote": 30.08,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Doppelte Chance X2 (Jag oder Remis)",
-              "quote": 1.75,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Torschuetzen Jederzeit: Konate",
-              "quote": 2.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Torschuetzen Jederzeit: Zivkovic",
-              "quote": 2.75,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Torschuetzen Jederzeit: Boyle",
-              "quote": 2.5,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Kombi Moonshot ~200x",
-          "kategorie": "",
-          "gesamtquote": 145.01,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Ueber 1.5 Tore",
-              "quote": 1.35,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sieg 1X2: Salzburg",
-              "quote": 1.55,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Torschuetzen Jederzeit: Zivkovic",
-              "quote": 2.75,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Torschuetzen Jederzeit: Elding",
-              "quote": 2.1,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Genau 4:0 Benfica",
-              "quote": 12.0,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-08-05",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "Kombi Safe ~3x",
-          "kategorie": "",
-          "gesamtquote": 3.06,
-          "einsatz_prozent": 0.5,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.95,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sieg 1X2: Aarhus",
-              "quote": 1.57,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Kombi Balance ~8x",
-          "kategorie": "",
-          "gesamtquote": 6.6,
-          "einsatz_prozent": 0.5,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Torschuetze Jederzeit: Anderson Talisca",
-              "quote": 2.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Torschuetze Jederzeit: Kristian Arnstad",
-              "quote": 3.0,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-08-04",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "SAFE-Basis ~2.5x",
-          "kategorie": "safe",
-          "gesamtquote": 2.46,
-          "einsatz_prozent": 1.5,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Doppelte Chance 1X",
-              "quote": 1.15,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Doppelte Chance X2",
-              "quote": 1.22,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Doppelte Chance X2",
-              "quote": 1.3,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Doppelte Chance 1X",
-              "quote": 1.35,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Balance ~7.3x",
-          "kategorie": "balance",
-          "gesamtquote": 7.31,
-          "einsatz_prozent": 0.5,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Torschuetze Jederzeit (Kostov)",
-              "quote": 2.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Beide Teams treffen",
-              "quote": 1.75,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Unter 2.5 Tore",
-              "quote": 1.9,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "Risiko ~16x",
-          "kategorie": "risk",
-          "gesamtquote": 16.28,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Torschuetze Jederzeit (Openda)",
-              "quote": 3.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Torschuetze Jederzeit (Oko-Flex)",
-              "quote": 2.75,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.85,
               "status": "offen",
               "kommentar": ""
             }
