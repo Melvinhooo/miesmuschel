@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-11-09T21:09:24+00:00",
+  "letzte_berechnung": "2026-11-10T06:16:24+00:00",
   "gesamt": {
-    "tipps": 300,
-    "gewonnen": 179,
-    "verloren": 103,
+    "tipps": 303,
+    "gewonnen": 180,
+    "verloren": 105,
     "push": 1,
     "offen": 17,
-    "einsatz": 283.0,
-    "netto": 93.1,
-    "trefferquote": 63.5,
-    "roi_prozent": 32.9
+    "einsatz": 286.0,
+    "netto": 94.52,
+    "trefferquote": 63.2,
+    "roi_prozent": 33.0
   },
   "letzte_30_tage": {
-    "tipps": 122,
-    "gewonnen": 79,
-    "verloren": 37,
+    "tipps": 125,
+    "gewonnen": 80,
+    "verloren": 39,
     "push": 0,
     "offen": 6,
-    "einsatz": 116.0,
-    "netto": 17.55,
-    "trefferquote": 68.1,
-    "roi_prozent": 15.1
+    "einsatz": 119.0,
+    "netto": 18.97,
+    "trefferquote": 67.2,
+    "roi_prozent": 15.9
   },
   "letzte_90_tage": {
-    "tipps": 290,
-    "gewonnen": 176,
-    "verloren": 97,
+    "tipps": 283,
+    "gewonnen": 170,
+    "verloren": 96,
     "push": 0,
     "offen": 17,
-    "einsatz": 273.0,
-    "netto": 93.1,
-    "trefferquote": 64.5,
-    "roi_prozent": 34.1
+    "einsatz": 266.0,
+    "netto": 94.52,
+    "trefferquote": 63.9,
+    "roi_prozent": 35.5
   },
   "nach_liga": {
     "Liga Portugal Betclic 2026/27 - 1. Spieltag": {
@@ -804,6 +804,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 1.77,
       "trefferquote": 75.0,
       "roi_prozent": 22.1
+    },
+    "🔍 Beobachtung - LaLiga 2 Hypermotion 2026/27 - Jornada 13 (Posticipo-Montag, verschoben wegen Sturm Bruna)": {
+      "tipps": 3,
+      "gewonnen": 1,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 1.42,
+      "trefferquote": 33.3,
+      "roi_prozent": 47.3
     }
   },
   "nach_markt": {
@@ -1083,15 +1094,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 23,
+      "tipps": 24,
       "gewonnen": 14,
-      "verloren": 7,
+      "verloren": 8,
       "push": 0,
       "offen": 2,
-      "einsatz": 21.0,
+      "einsatz": 22.0,
       "netto": 7.57,
-      "trefferquote": 66.7,
-      "roi_prozent": 36.0
+      "trefferquote": 63.6,
+      "roi_prozent": 34.4
     },
     "Doppelte Chance: Deportivo La Coruna oder Unentschieden": {
       "tipps": 1,
@@ -1248,15 +1259,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 125.0
     },
     "Beide Teams treffen JA": {
-      "tipps": 6,
+      "tipps": 7,
       "gewonnen": 3,
-      "verloren": 3,
+      "verloren": 4,
       "push": 0,
       "offen": 0,
-      "einsatz": 6.0,
+      "einsatz": 7.0,
       "netto": 1.0,
-      "trefferquote": 50.0,
-      "roi_prozent": 16.7
+      "trefferquote": 42.9,
+      "roi_prozent": 14.3
     },
     "Kylian Mbappé trifft": {
       "tipps": 1,
@@ -2808,6 +2819,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.65,
       "trefferquote": 100.0,
       "roi_prozent": 65.0
+    },
+    "Doppelte Chance 1X (Las Palmas oder Remis)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.42,
+      "trefferquote": 100.0,
+      "roi_prozent": 142.0
     }
   },
   "nach_markt_typ": {
@@ -2834,15 +2856,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 44.7
     },
     "Beide Teams treffen JA": {
-      "tipps": 26,
+      "tipps": 27,
       "gewonnen": 20,
-      "verloren": 6,
+      "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 26.0,
+      "einsatz": 27.0,
       "netto": 5.78,
-      "trefferquote": 76.9,
-      "roi_prozent": 22.2
+      "trefferquote": 74.1,
+      "roi_prozent": 21.4
     },
     "Doppelte Chance X2": {
       "tipps": 16,
@@ -2867,15 +2889,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 29.5
     },
     "Ueber 2.5 Tore": {
-      "tipps": 39,
+      "tipps": 40,
       "gewonnen": 21,
-      "verloren": 14,
+      "verloren": 15,
       "push": 0,
       "offen": 4,
-      "einsatz": 35.0,
+      "einsatz": 36.0,
       "netto": 11.07,
-      "trefferquote": 60.0,
-      "roi_prozent": 31.6
+      "trefferquote": 58.3,
+      "roi_prozent": 30.7
     },
     "Torschuetzen Jederzeit": {
       "tipps": 34,
@@ -2933,15 +2955,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "Doppelte Chance 1X": {
-      "tipps": 18,
-      "gewonnen": 15,
+      "tipps": 19,
+      "gewonnen": 16,
       "verloren": 3,
       "push": 0,
       "offen": 0,
-      "einsatz": 18.0,
-      "netto": 7.98,
-      "trefferquote": 83.3,
-      "roi_prozent": 44.3
+      "einsatz": 19.0,
+      "netto": 9.4,
+      "trefferquote": 84.2,
+      "roi_prozent": 49.5
     },
     "Spread/Handicap": {
       "tipps": 4,
@@ -3089,26 +3111,26 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 133,
+      "tipps": 135,
       "gewonnen": 79,
-      "verloren": 50,
+      "verloren": 52,
       "push": 0,
       "offen": 4,
-      "einsatz": 129.0,
+      "einsatz": 131.0,
       "netto": 57.41,
-      "trefferquote": 61.2,
-      "roi_prozent": 44.5
+      "trefferquote": 60.3,
+      "roi_prozent": 43.8
     },
     "1.00-1.50": {
-      "tipps": 128,
-      "gewonnen": 92,
+      "tipps": 129,
+      "gewonnen": 93,
       "verloren": 25,
       "push": 1,
       "offen": 10,
-      "einsatz": 118.0,
-      "netto": 36.94,
-      "trefferquote": 78.6,
-      "roi_prozent": 31.3
+      "einsatz": 119.0,
+      "netto": 38.36,
+      "trefferquote": 78.8,
+      "roi_prozent": 32.2
     },
     "2.00-3.00": {
       "tipps": 30,
@@ -3135,15 +3157,15 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "wackel": {
-      "tipps": 42,
-      "gewonnen": 20,
-      "verloren": 22,
+      "tipps": 45,
+      "gewonnen": 21,
+      "verloren": 24,
       "push": 0,
       "offen": 0,
-      "einsatz": 42.0,
-      "netto": 15.19,
-      "trefferquote": 47.6,
-      "roi_prozent": 36.2
+      "einsatz": 45.0,
+      "netto": 16.61,
+      "trefferquote": 46.7,
+      "roi_prozent": 36.9
     },
     "value": {
       "tipps": 197,
@@ -3198,15 +3220,15 @@ window.__MIESMUSCHEL_STAT = {
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 300,
-      "gewonnen": 179,
-      "verloren": 103,
+      "tipps": 303,
+      "gewonnen": 180,
+      "verloren": 105,
       "push": 1,
       "offen": 17,
-      "einsatz": 283.0,
-      "netto": 93.1,
-      "trefferquote": 63.5,
-      "roi_prozent": 32.9
+      "einsatz": 286.0,
+      "netto": 94.52,
+      "trefferquote": 63.2,
+      "roi_prozent": 33.0
     },
     "kasse": {
       "name": "2026/27",
@@ -3243,21 +3265,71 @@ window.__MIESMUSCHEL_STAT = {
         "start": "2026-08-22",
         "ende": "2027-06-30",
         "bilanz": {
-          "tipps": 215,
-          "gewonnen": 143,
-          "verloren": 66,
+          "tipps": 218,
+          "gewonnen": 144,
+          "verloren": 68,
           "push": 0,
           "offen": 6,
-          "einsatz": 209.0,
-          "netto": 96.23,
-          "trefferquote": 68.4,
-          "roi_prozent": 46.0
+          "einsatz": 212.0,
+          "netto": 97.65,
+          "trefferquote": 67.9,
+          "roi_prozent": 46.1
         },
         "ist_aktuell": true
       }
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-11-09",
+      "gesamt": {
+        "tipps": 3,
+        "gewonnen": 1,
+        "verloren": 2,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 3.0,
+        "netto": 1.42,
+        "trefferquote": 33.3,
+        "roi_prozent": 47.3
+      },
+      "spiele": [
+        {
+          "id": "2026-11-09-lpa-eld",
+          "liga": "🔍 Beobachtung - LaLiga 2 Hypermotion 2026/27 - Jornada 13 (Posticipo-Montag, verschoben wegen Sturm Bruna)",
+          "heim": "UD Las Palmas",
+          "gast": "CD Eldense",
+          "endstand": "2:0",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance 1X (Las Palmas oder Remis)",
+              "quote": 1.42,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.42,
+              "kommentar": "Las Palmas 2:0. Doppelte Chance 1X trifft (Sieg Heim)."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.95,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Endstand 2:0 = 2 Tore, unter der 2.5er-Grenze."
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.8,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Eldense ohne Tor (Clemente-Treffer per VAR-Abseits aberkannt), BTTS NEIN."
+            }
+          ]
+        }
+      ],
+      "kombis": []
+    },
     {
       "datum": "2026-11-08",
       "gesamt": {

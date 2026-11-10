@@ -1,0 +1,289 @@
+{
+  "datum": "2026-11-09",
+  "erstellt_am": "2026-11-09T13:30:00+01:00",
+  "hinweis": "Heute startet die FIFA-Laenderspielpause (09.-17.11.). Alle Hauptligen (Bundesliga, 2. Bundesliga, Premier League, LaLiga, Serie A, Ligue 1, CL/EL/Conference, DFB-Pokal) pausieren. Einziges Pflichtspiel-Montag im Fenster ist das wegen Sturm Bruna vom So verschobene LaLiga-2-Hypermotion-Spiel Las Palmas vs Eldense (Beobachtungs-Liga, nicht in aktiver Haupt-Liste). Deshalb duennes Dossier: 1 Spiel, 3 Wackel-Einzeltipps, keine Kombis (1 Spiel reicht nicht fuer Layer-2-Diversifikation, 2-Beine-Minimum). Kasse 1000 EUR, Stufe 1 aktiv - Wackel-Einzel = 5 EUR pro Tipp.",
+  "spiele": [
+    {
+      "id": "2026-11-09-lpa-eld",
+      "liga": "🔍 Beobachtung - LaLiga 2 Hypermotion 2026/27 - Jornada 13 (Posticipo-Montag, verschoben wegen Sturm Bruna)",
+      "heim": "UD Las Palmas",
+      "gast": "CD Eldense",
+      "anstoss": "2026-11-09T20:30:00+01:00",
+      "stadion": "Estadio de Gran Canaria, Las Palmas de Gran Canaria",
+      "saison_kontext": {
+        "parallel_heim": "keine - Segunda-Division-Fokus",
+        "parallel_gast": "keine - Segunda-Division-Fokus",
+        "saisonziel_heim": "Rueckkehr in LaLiga (Aufstieg) - aktuell Platz 11-13 mit 17 Pkt aus 12 Spielen (5S-2U-5N), 17:21 Tore. Mittelfeld statt Aufstiegsrennen.",
+        "saisonziel_gast": "Klassenerhalt / Abstiegskampf-Vermeidung - aktuell Platz 15 mit 14 Pkt aus 12 Spielen (4S-2U-6N), 13:17 Tore. Drei Punkte ueber Abstiegszone.",
+        "motivations_asymmetrie": "Beide im unteren Tabellenmittelfeld, kein klares Motivations-Edge. Las Palmas Heimpflichtsieg zur Abkehr vom 5-Niederlagen-Stau; Eldense vor Laenderspielpause Punkt-Mitnahme-Modus. Trotz Heim-Favorit-Quote 2.10 Coinflip-Profil, kein SAFE.",
+        "recovery_heim": "Eigentlich Sa-Pause (So-Spiel verschoben), jetzt Montag-Anstoss. Lief zuletzt gegen Oviedo (laut Club gute Leistung). Standard-Woche sonst. Sandro Ramirez (Nr. 19, 1 Tor in 5 Einsaetzen) laut fotmob Muskel-Verletzung Mitte-Nov - Status am Spieltag live pruefen.",
+        "recovery_gast": "Anreise von Elda auf die Kanaren = Langstrecke (ca. 4h Flug) + Zeitverschiebung (-1h Canary Time) + Hitze/Feuchte-Umstellung. Verschoben von So auf Mo = ein Tag Extra-Belastung durch Warten vor Ort. Nachteil Eldense.",
+        "quellen": [
+          "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-hypermotion-ud-las-palmas-cd-eldense-13",
+          "https://www.udlaspalmas.es/en/matches/season-2026-2027-laliga-hypermotion-13-ud-las-palmas-vs-cd-eldense-3440",
+          "https://officialpress.es/la-ud-las-palmas-cd-eldense-se-jugara-el-lunes-a-las-2030-tras-su-suspension-por-la-borrasca-bruna/",
+          "https://www.fotmob.com/teams/8306/squad/las-palmas",
+          "https://www.espn.com/soccer/team/stats/_/id/7320/betbrain.eldense"
+        ]
+      },
+      "news": [
+        "LaLiga 2 Hypermotion Jornada 13 - urspruenglich So 08.11. 18:30 angesetzt, wegen Sturm 'Bruna' auf Kanaren auf Mo 09.11. verschoben.",
+        "Las Palmas Platz 11-13 (17 Pkt / 12 Sp, Torverhaeltnis -4), Eldense Platz 15 (14 Pkt / 12 Sp, Torverhaeltnis -4). Mittelfeld-Duell ohne Druck-Spitze.",
+        "Las Palmas-Trainer Albert Sanchez; Sandro Ramirez (19) muskulaer angeschlagen. Eldense-Top-Scorer Jorge Rastrojo (3 Tore / 10 Sp), dahinter Fidel + Olabarrieta (je 2).",
+        "Bet365-Quoten vorab: Las Palmas 2.10 / Remis 3.40 / Eldense 3.25 - Heim-Vorteil, aber Coinflip-naeher Favorit. Live bei bet365 pruefen.",
+        "Beobachtungs-Liga - LaLiga 2 nicht in aktiver Haupt-Liste (CLAUDE.md). Nur wackel-Einzel, keine SAFE/VALUE, keine Hauptkombis."
+      ],
+      "tipps": [
+        {
+          "id": "t1",
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance 1X (Las Palmas oder Remis)",
+          "quote": 1.42,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "DC 1X ist Goldgruben-Markt des Systems (83.3 % Hitrate, +44.3 % ROI). Las Palmas Heim-Favorit laut bet365 (2.10), Eldense von Langstrecke Elda-Kanaren + Posticipo-Belastung gebeutelt. Trotzdem nur wackel: (a) LaLiga 2 Beobachtungs-Status, (b) Coinflip-Profil (keine 1X2-Quote unter 1.80 im Spiel), (c) Las Palmas hat 5 der letzten 6 Liga-Spiele verloren - Heim-Edge nominal, Form-Edge nicht. Kasse-Stufe 1: 0.5 % = 5 EUR. Quote live bei bet365 pruefen.",
+          "quellen": [
+            "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-hypermotion-ud-las-palmas-cd-eldense-13"
+          ],
+          "faire_quote": 1.42
+        },
+        {
+          "id": "t2",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.95,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Markt-Goldgrube (Ueber 2.5 = +31.6 % ROI bei 60 % Hitrate). Beide Teams defensiv unsicher: Las Palmas 1.75 Gegentore/Spiel (21 in 12), Eldense 1.42 Gegentore/Spiel (17 in 12). Zusammen-Average der Spiele: 2.83 Tore. Rastrojo + Fidel + Olabarrieta auf Eldense-Seite scoren regelmaessig, Las Palmas Heim-Druck. Wackel wegen Beobachtungs-Liga + Unsicherheit welche Las-Palmas-Sturmpaarung bei Sandro-Zweifel aufgeboten wird. Einsatz 5 EUR.",
+          "quellen": [
+            "https://www.espn.com/soccer/team/stats/_/id/7320/betbrain.eldense"
+          ],
+          "faire_quote": 1.95
+        },
+        {
+          "id": "t3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.8,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "BTTS JA ist System-Goldgrube (76.9 % Hitrate, +22.2 % ROI). Beide Teams treffen und kassieren regelmaessig (Las Palmas 17:21, Eldense 13:17 - keine Zu-Null-Dauerkandidaten). Eldense scort trotz Auswaerts in 2/3 der Liga-Spiele mindestens einmal (13 Tore / 12 Sp). Las Palmas als Heim-Team gegen Mittelfeld-Gast praktisch Pflicht zum Toretreffen. Wackel wegen Coinflip-Profil + Beobachtungs-Status. Einsatz 5 EUR.",
+          "quellen": [
+            "https://www.laliga.com/en-GB/laliga-hypermotion"
+          ],
+          "faire_quote": 1.8
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "tore_heim": 2,
+        "tore_gast": 0,
+        "endstand": "2:0",
+        "halbzeit": "0:0",
+        "status": "FINISHED",
+        "quelle": "EFE/Infobae/Teleprensa/Archyde - 09.11.2026"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "t1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.42,
+          "kommentar": "Las Palmas 2:0. Doppelte Chance 1X trifft (Sieg Heim).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "t2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Endstand 2:0 = 2 Tore, unter der 2.5er-Grenze.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "t3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Eldense ohne Tor (Clemente-Treffer per VAR-Abseits aberkannt), BTTS NEIN.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Alex Suarez",
+            "stand_danach": "1:0",
+            "kommentar": "Spaetes Tor in der Schlussphase - erstes Saisontor fuer den Innenverteidiger."
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Jefte Betancor",
+            "stand_danach": "2:0",
+            "kommentar": "Einwechselspieler, abgefaelschter Schuss gegen Keeper Ramon Vila - 2. Saisontor."
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Drehung - es stand bis zu den Nachspielzeit-Toren 0:0, Eldense hatte vor dem 1:0 den Clemente-Treffer per VAR-Abseits aberkannt bekommen. Las Palmas ging nie in Rueckstand."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Las Palmas",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Jefte Betancor",
+            "aus": null,
+            "minute": null,
+            "tor": true,
+            "kommentar": "Jefte kam als Einwechselspieler und machte das 2:0 zum Schluss - klassischer Joker-Torschuetze, kein Torschuetzen-Tipp lag drauf."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Zwei spaete Tore in der Schlussphase bzw. Nachspielzeit nach zuvor zaehem Spielverlauf (0:0 ueber 85+ Minuten). Beide Teams-Tore erst spaet.",
+          "VAR griff ein und erkannte ein Eldense-Tor von Clemente wegen Abseits ab. Ohne VAR waere es moeglicherweise ein 1:1- oder 1:0-Zwischenstand gewesen - der DC-1X-Tipp haette auch dann getroffen, der BTTS-JA-Tipp waere gewonnen gewesen.",
+          "Dritter Sieg in Folge fuer Las Palmas (nun 20 Pkt, 2 Punkte hinter Platz 6), Eldense bleibt bei 14 Pkt.",
+          "Vorab-Note zum Sandro-Ramirez-Status (muskulaer) war relevant: Trainer Albert Sanchez loeste das Sturm-Problem spaet ueber Joker-Einsatz Jefte - Backup-Volumen-Stuermer sticht."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "e1",
+      "spiel_id": "2026-11-09-lpa-eld",
+      "spiel_label": "Las Palmas vs Eldense",
+      "tipp_id": "t1",
+      "markt": "Doppelte Chance 1X (Las Palmas oder Remis)",
+      "kategorie": "wackel",
+      "quote": 1.42,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "DC 1X Goldgruben-Markt, Las Palmas Heim-Vorteil + Eldense Langstrecken-Nachteil. Max wackel wegen Beobachtungs-Liga + Coinflip-Quote.",
+      "rang": 1
+    },
+    {
+      "id": "e2",
+      "spiel_id": "2026-11-09-lpa-eld",
+      "spiel_label": "Las Palmas vs Eldense",
+      "tipp_id": "t2",
+      "markt": "Ueber 2.5 Tore",
+      "kategorie": "wackel",
+      "quote": 1.95,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Beide Teams defensiv unsicher (je ~1.5 Gegentore/Sp), Avg-Total 2.83. Goldgruben-Markt.",
+      "rang": 2
+    },
+    {
+      "id": "e3",
+      "spiel_id": "2026-11-09-lpa-eld",
+      "spiel_label": "Las Palmas vs Eldense",
+      "tipp_id": "t3",
+      "markt": "Beide Teams treffen JA",
+      "kategorie": "wackel",
+      "quote": 1.8,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "BTTS JA Goldgrube + beide Teams scoren regelmaessig. Keine Zu-Null-Dauerkandidaten.",
+      "rang": 3
+    }
+  ],
+  "kombis": [],
+  "lessons_angewandt": [
+    "CLAUDE.md Coinflip-Regel: Sieg-Favorit nicht unter 1.80 + kein offensives Edge-Signal -> KEIN SAFE, max wackel, max 2-3 Tipps (hier 3 wegen Markt-Mix-Diversifikation).",
+    "CLAUDE.md DC-CAP: max 1 DC pro Spiel - hier DC 1X als einziger DC-Tipp, kein zweiter DC.",
+    "master_tipps_routine Beobachtungs-Liga: LaLiga 2 Hypermotion ist nicht in aktiver Haupt-Liste (Bundesliga/2.BL/PL/LaLiga/Serie A/Ligue 1) -> Praefix '🔍 Beobachtung -' + nicht in Hauptkombis.",
+    "master_tipps_routine Zeitfenster-Hartregel: Tages-Dossier nur Spiele mit Anstoss am 09.11. - hier 1 Spiel 20:30 Berlin, Rest der Woche faellt in Laenderspielpause bzw. ab Di CL/EL (eigener Zeitraum).",
+    "Markt-Goldgruben aktiv gesucht: DC 1X (+44.3 % ROI), Ueber 2.5 Tore (+31.6 % ROI), BTTS JA (+22.2 % ROI) - alle drei im Dossier.",
+    "Kasse-Stand aware (data/kasse.json): Kasse 1000 EUR, Stufe 1 (nicht stufe_2_freigeschaltet) -> Wackel-Einzel 0.5 % = 5 EUR pro Tipp.",
+    "master_tipps_routine Notfall-Fallback: trotz Laenderspielpause und nur 1 verifiziertem Spiel im Fenster lieber duennes Dossier mit vollstaendigem saison_kontext als leer."
+  ],
+  "_verifikations_report": {
+    "lief_am": "2026-11-09T13:30:00+01:00",
+    "modus": "inline (Phase 4 des master_tipps_routine ohne Task-Tool)",
+    "zeitfenster_check": "OK - einziges Spiel (2026-11-09-lpa-eld) hat Anstoss 09.11.2026 20:30 Berlin, im Tages-Fenster.",
+    "halluzinations_check": "OK - saemtliche genannten Spieler verifiziert: Sandro Ramirez (Nr. 19, Las Palmas, fotmob), Jorge Rastrojo + Fidel + Olabarrieta (Eldense, ESPN-Stats). Trainer Albert Sanchez (Las Palmas, fotmob) bestaetigt. Keine Namen aus data/kader_wechsel_2026.json abgaenge_NICHT_mehr_fuer_alten_verein_tippen[] in Tipps/Begruendungen enthalten.",
+    "selbstwiderspruch_check": "OK - saison_kontext sagt 'Coinflip-Profil, kein klares Motivations-Edge' -> keine SAFE/VALUE-Einstufung, alle Tipps wackel. Konsistent.",
+    "layer_cross_check": "OK (trivial) - nur 1 Spiel, keine Kombis moeglich (Mindestens 2 Beine). Einzeltipps aus demselben Spiel ueber 3 unterschiedliche Maerkte (DC, Tor-Total, BTTS) -> kein Markt-Doppel.",
+    "markt_mix_check": "OK - 3 Tipps, 3 unterschiedliche Maerkte, 1 DC (unter DC-CAP 1 pro Spiel), 0 SAFE, 0 VALUE, 3 wackel. Keine gefaelschte Sicherheit bei Coinflip.",
+    "kader_wechsel_check": "OK - keine Spieler aus abgaenge_NICHT_mehr_fuer_alten_verein_tippen[] in diesem Spiel relevant (Las Palmas + Eldense sind nicht betroffen).",
+    "kombi_quoten_check": "n/a - keine Kombis.",
+    "notizen": "Duennes Dossier als Konsequenz der FIFA-Laenderspielpause 09.-17.11. Alle grossen Ligen inklusive 2. Bundesliga pausieren bis 20./21.11. Naechstes volles Dossier voraussichtlich ab Di 10.11. durch den Wochen-Vorschau-Modus (Sonntag-Routine) bzw. ab Fr 20.11. durch den normalen Tages-Modus. Keine Halluzinationen durch unnoetiges Fuellen des Dossiers mit weiteren Spielen - lieber ehrliches 1-Spiel-Dossier.",
+    "ergebnis": "FREIGEGEBEN"
+  },
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool, keine Einnahmequelle. Nur setzen was du verlieren kannst.",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "e1",
+      "spiel_id": "2026-11-09-lpa-eld",
+      "spiel_label": "Las Palmas vs Eldense",
+      "tipp_id": "t1",
+      "markt": "Doppelte Chance 1X (Las Palmas oder Remis)",
+      "kategorie": "wackel",
+      "quote": 1.42,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "DC 1X Goldgruben-Markt, Las Palmas Heim-Vorteil + Eldense Langstrecken-Nachteil. Max wackel wegen Beobachtungs-Liga + Coinflip-Quote.",
+      "rang": 1,
+      "status": "gewonnen",
+      "kommentar": "Las Palmas 2:0 - DC 1X trifft.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "e2",
+      "spiel_id": "2026-11-09-lpa-eld",
+      "spiel_label": "Las Palmas vs Eldense",
+      "tipp_id": "t2",
+      "markt": "Ueber 2.5 Tore",
+      "kategorie": "wackel",
+      "quote": 1.95,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "Beide Teams defensiv unsicher (je ~1.5 Gegentore/Sp), Avg-Total 2.83. Goldgruben-Markt.",
+      "rang": 2,
+      "status": "verloren",
+      "kommentar": "Nur 2 Tore (2:0), 0.5 zu wenig.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    },
+    {
+      "id": "e3",
+      "spiel_id": "2026-11-09-lpa-eld",
+      "spiel_label": "Las Palmas vs Eldense",
+      "tipp_id": "t3",
+      "markt": "Beide Teams treffen JA",
+      "kategorie": "wackel",
+      "quote": 1.8,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "BTTS JA Goldgrube + beide Teams scoren regelmaessig. Keine Zu-Null-Dauerkandidaten.",
+      "rang": 3,
+      "status": "verloren",
+      "kommentar": "Eldense ohne Tor (Clemente VAR-Abseits).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null
+    }
+  ],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-11-10T06:15:00+00:00"
+}
