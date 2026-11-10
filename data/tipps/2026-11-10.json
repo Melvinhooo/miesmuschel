@@ -1,13 +1,27 @@
 {
   "datum": "2026-11-10",
-  "erstellt_am": "2026-11-10T14:30:00+01:00",
-  "hinweis": "Watchdog Mo-Fr 14:30: FIFA-Laenderspielpause 09.-17.11. — Dienstag 10.11. komplett in der Pause. Alle Hauptligen aus der Whitelist pausieren (Bundesliga, Premier League, LaLiga, Serie A, Ligue 1, 2.BL, CL, EL, Conference League, DFB-Pokal, Coppa Italia, FA Cup, Coupe de France, Supercups). LaLiga Hypermotion kehrt Fr 13.11. mit Jornada 14 zurueck, Premier League erst Sa 21.11. (Hin- und Rueckreise-Fenster Nationalspieler), Serie A am Sa 22.11. Internationale WM-Qualifikations- und Nations-League-Spiele beginnen Do 12.11. (nicht im Whitelist-Scope). Einzige Klub-Partien heute laut Recherche: UEFA Women's Champions League MD4 (PSG-Bayern, Inter-ManCity, Haecken-Chelsea) — **Frauenfussball ist nicht im Scope** der Routine, keine Tipps. Kasse 1000€, Stufe 1 (stufe_2 nicht freigeschaltet). Ehrlicher Leertag — nichts tippen ist das richtige Tipping.",
+  "erstellt_am": "2026-11-10T21:29:00+01:00",
+  "hinweis": "Safety-Net-Backstop Di 10.11. 21:29: Watchdog 14:30 hatte heute bereits ein ehrliches Leertag-Dossier gesetzt, Backstop bestaetigt per WebSearch — FIFA-Laenderspielpause 09.-17.11.2026, keine Spiele aus dem Whitelist-Scope heute. Live-Soccer-TV fuer 10.11. zeigt nur UEFA Women's Champions League MD4 (PSG-Bayern, Inter-ManCity, Haecken-Chelsea, Real Madrid-Paris FC, Roma-Servette) — Frauenfussball ist nicht im Scope dieser Routine — sowie Copa-del-Rey-Preliminaer-Runden (Trival Valderas-Leganes, Amorebieta-UD Logrones, Tavernes-Valencia u.a.) — Copa del Rey steht nicht in der Whitelist von CLAUDE.md / master_tipps_routine.md (nur DFB-Pokal, Coppa Italia, FA Cup, Coupe de France als Pokale). Alle Hauptligen (Bundesliga, Premier League, LaLiga, Serie A, Ligue 1, 2.BL, CL, EL, Conference, Supercups) pausieren komplett — Rueckkehr erst ab Fr 13.11. (LaLiga Hypermotion Jornada 14) bzw. Sa 21.-22.11. (Premier League, Bundesliga, Serie A). Internationale WM-Qualifikations- und Nations-League-Spiele starten Do 12.11. — nicht im Scope. Kasse 1000€, Stufe 1 (stufe_2_freigeschaltet=false). Ehrlicher Leertag — nichts tippen ist das richtige Tipping. Naechstes volles Dossier: Fr 13.11. (bei LaLiga-Hypermotion-Spielen) oder Sa 21.11.",
   "spiele": [],
   "einzeltipps": [],
   "kombis": [],
   "lessons_angewandt": [
-    "Zeitfenster-Hartregel 22.08.2026: nur Anstoss 2026-11-10 Berlin — heute keine Spiele im Scope (FIFA-Pause).",
-    "Notfall-Regel: lieber leeres Dossier mit ehrlichem Hinweis als erfundene Tipps."
+    "Zeitfenster-Hartregel 22.08.2026: nur Anstoss 2026-11-10 Berlin — heute keine Spiele im Whitelist-Scope (FIFA-Pause).",
+    "Notfall-Regel master_tipps_routine.md Zeile 276: lieber leeres Dossier mit ehrlichem Hinweis als erfundene Tipps.",
+    "Scope-Disziplin: Copa del Rey und Women's Champions League sind laut CLAUDE.md und master_tipps_routine.md NICHT im Whitelist-Scope — nicht nachtraeglich aufweichen."
   ],
+  "_verifikations_report": {
+    "modus": "safety_net_backstop",
+    "verifiziert_am": "2026-11-10T21:29:00+01:00",
+    "quellen": [
+      "https://www.livesoccertv.com/schedules/2026-11-10/",
+      "https://www.ourgameplan.co.uk/blog/when-are-the-next-football-international-breaks-in-europe",
+      "https://www.givemesport.com/international-breaks-football-soccer/"
+    ],
+    "ergebnis": "BESTAETIGT_LEERTAG",
+    "halluzinationen_gedroppt": 0,
+    "spiele_im_scope": 0,
+    "kommentar": "Backstop-Verifikation: existierendes Watchdog-Leertag-Dossier ist korrekt. FIFA-Pause 09.-17.11.2026 bestaetigt, keine Hauptligen- oder Europapokal-Spiele heute. Copa del Rey und Women's CL sind recherchierte Spiele, aber nicht im Whitelist-Scope — kein Dossier-Eintrag notwendig."
+  },
   "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
 }
