@@ -99,14 +99,14 @@
       "tipps": [
         {
           "id": "tav-val-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Valencia oder Remis (Doppelte Chance)",
           "quote": 1.01,
           "edge_prozent": 0.5,
           "faire_quote": 1.005,
           "empfohlener_einsatz_prozent": 1.0,
           "empfohlener_einsatz_euro": 10.0,
-          "begruendung": "Preferente-Amateur gegen LaLiga-Klub im Mestalla - DC X2 ist quasi Null-Risiko. Markt-Goldgrube (+36% ROI historisch). Reality-Check-Mitnahme 10€. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value]",
+          "begruendung": "Preferente-Amateur gegen LaLiga-Klub im Mestalla - DC X2 ist quasi Null-Risiko. Markt-Goldgrube (+36% ROI historisch). Reality-Check-Mitnahme 10€. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value] [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "liga": "Copa del Rey",
           "_saison_kontext_sanity_downgrade": true
         },
