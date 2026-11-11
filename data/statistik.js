@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-11-10T06:16:24+00:00",
+  "letzte_berechnung": "2026-11-11T06:08:10+00:00",
   "gesamt": {
     "tipps": 303,
     "gewonnen": 180,
@@ -24,15 +24,15 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 15.9
   },
   "letzte_90_tage": {
-    "tipps": 283,
-    "gewonnen": 170,
-    "verloren": 96,
+    "tipps": 275,
+    "gewonnen": 165,
+    "verloren": 93,
     "push": 0,
     "offen": 17,
-    "einsatz": 266.0,
+    "einsatz": 258.0,
     "netto": 94.52,
-    "trefferquote": 63.9,
-    "roi_prozent": 35.5
+    "trefferquote": 64.0,
+    "roi_prozent": 36.6
   },
   "nach_liga": {
     "Liga Portugal Betclic 2026/27 - 1. Spieltag": {
