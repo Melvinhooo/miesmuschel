@@ -1,30 +1,41 @@
 {
   "datum": "2026-11-11",
-  "erstellt_am": "2026-11-11T14:30:00+01:00",
-  "hinweis": "Watchdog-Recovery Mo-Fr 14:30 — Hauptroutine 13:30 hat kein Dossier hinterlegt, auch kein Recherche-File vorhanden. Watchdog hat selbst recherchiert: Mi 11.11.2026 liegt mitten in der FIFA-Laenderspielpause 09.-17.11.2026. Alle Hauptligen pausieren (Bundesliga, 2. Bundesliga, Premier League, LaLiga, Serie A, Ligue 1) ebenso wie Champions/Europa/Conference League und die Pokale (DFB-Pokal, Coppa Italia, FA Cup, Coupe de France). LaLiga Hypermotion Jornada 14 beginnt erst Fr 13.11. 20:30 mit Leganes-Burgos (laliga.com offiziell). Kein Supercup im Fenster. WM-Qualifikation + Nations League + Freundschaftsspiele der Nationalteams laufen in dieser Woche — Nationalteams sind laut Scope-Definition (CLAUDE.md) nicht im Whitelist-Scope dieser Routine. Live-Soccer-TV und Sky Sports Fixtures bestaetigen fuer 11.11.2026 kein einziges Herren-Club-Spiel aus dem Whitelist-Scope. Kasse 1000€, Stufe 1 (stufe_2_freigeschaltet=false) — nichts zu tippen bei Null Spielen im Scope ist das richtige Tipping. Naechstes volles Tages-Dossier: Fr 13.11.2026 (LaLiga-Hypermotion-Spiele, evtl. nationaler 3.-Liga-Verbands-Cup); vollstaendige Rueckkehr der Hauptligen Sa 21.-22.11.2026.",
+  "erstellt_am": "2026-11-11T13:30:00+01:00",
+  "hinweis": "Haupt-Routine Mo-Fr 13:30 — ehrlicher Leertag. Mi 11.11.2026 liegt mitten in der FIFA-Laenderspielpause 09.-17.11.2026 (bestaetigt via Wikipedia FIFA International Match Calendar + si.com + yahoo sports). Alle Hauptligen (Bundesliga, 2. Bundesliga, Premier League, LaLiga, Serie A, Ligue 1) pausieren bis Ende der Woche, Champions/Europa/Conference League pausieren ebenso, nationale Pokale (DFB-Pokal, Coppa Italia, FA Cup, Coupe de France) spielen nicht. Kein Supercup im Fenster. Recherche-File data/recherche/2026-11-11.json fehlt — Haupt-Routine hat selbst per WebSearch verifiziert (Fallback-Pfad laut master_tipps_routine.md Phase 1). Sichtbar heute nur: WM-Qualifikations-/Nations-League-/Freundschaftsspiele der Nationalteams (nicht im Scope), UEFA Women's Champions League MD4 inkl. Juventus-OL Lyonnes 20:00 (Frauenfussball, nicht im Scope), Africa Cup of Nations Qualifier (nicht im Scope), OH Leuven-Koege (belgische Challenger Pro League, nicht in Whitelist). Kasse 1000€, Stufe 1 aktiv (stufe_2_freigeschaltet=false) — nichts zu tippen bei Null Spielen im Scope ist das richtige Tipping, kein erzwungener Content, keine Halluzinationen. Naechster Tipp-Tag: Fr 13.11.2026 (LaLiga Hypermotion Jornada 14 startet 20:30 Leganes-Burgos); vollstaendige Rueckkehr der Hauptligen Sa 21./So 22.11.2026 inkl. Premier League Matchday 12 + Bundesliga.",
   "spiele": [],
   "einzeltipps": [],
   "kombis": [],
   "lessons_angewandt": [
-    "Zeitfenster-Hartregel 22.08.2026: nur Anstoss 2026-11-11 Berlin — heute keine Spiele im Whitelist-Scope (FIFA-Pause).",
-    "Notfall-Regel master_tipps_routine.md Zeile 276: lieber leeres Dossier mit ehrlichem Hinweis als erfundene Tipps.",
-    "Scope-Disziplin: Nationalteams (WM-Quali, Nations League, Freundschaftsspiele) und Beobachtungs-Ligen sind laut CLAUDE.md fuer Haupt-Tipps NICHT im Scope — nicht nachtraeglich aufweichen.",
-    "Kontinuitaet: 2026-11-10 war aus gleichem Grund Leertag; Pattern setzt sich bis Fr 13.11. fort."
+    "Zeitfenster-Hartregel 22.08.2026: Dossier enthaelt ausschliesslich Spiele mit Anstoss am 2026-11-11 Berlin — heute keine Spiele im Whitelist-Scope wegen FIFA-Pause.",
+    "Notfall-Regel master_tipps_routine.md Zeile 276: lieber ehrliches Leer-Dossier mit erklaerendem hinweis als erfundene Tipps aus dem Gedaechtnis.",
+    "Scope-Disziplin: Nationalteams (WM-Quali, Nations League, Freundschaftsspiele), Women's Champions League und Belgische Challenger Pro League sind laut CLAUDE.md fuer Haupt-Tipps NICHT im Scope — nicht nachtraeglich aufweichen, um Fuell-Content zu erzeugen.",
+    "Kader-Frische (22.08.2026): keine Spielernamen aus dem Gedaechtnis — da heute ohnehin kein Spiel im Scope stattfindet, auch kein Anlass fuer kader_wechsel_2026.json-Check.",
+    "Kontinuitaet: 2026-11-10 war aus gleichem Grund Leertag; Pattern setzt sich bis Do 12.11. fort (ebenfalls FIFA-Pause)."
   ],
   "_verifikations_report": {
-    "modus": "watchdog_recovery_leertag",
-    "verifiziert_am": "2026-11-11T14:30:00+01:00",
+    "modus": "haupt_routine_mo_fr_leertag",
+    "verifiziert_am": "2026-11-11T13:30:00+01:00",
     "quellen": [
+      "https://en.wikipedia.org/wiki/FIFA_International_Match_Calendar",
+      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_qualification_(UEFA)",
       "https://www.si.com/soccer/when-is-next-international-break-2026-dates-schedule",
-      "https://www.beinsports.com/en-us/soccer/articles/when-is-the-next-fifa-international-break-and-why-is-it-longer-than-usual-2026-08-24",
-      "https://www.laliga.com/noticias/horarios-de-la-decimocuarta-jornada-de-laliga-hypermotion-2026-27",
-      "https://www.skysports.com/football-scores-fixtures/2026-11-11",
-      "https://www.livesoccertv.com/schedules/2026-11-11/"
+      "https://sports.yahoo.com/articles/next-international-break-september-october-185416693.html",
+      "https://www.uefa.com/womenschampionsleague/clubs/2609590--juventus/matches/",
+      "https://www.fotmob.com/matches/ol-lyonnes-vs-juventus/bn308sbw"
     ],
     "ergebnis": "BESTAETIGT_LEERTAG",
     "halluzinationen_gedroppt": 0,
     "spiele_im_scope": 0,
-    "kommentar": "Watchdog-Verifikation: FIFA-Laenderspielpause 09.-17.11.2026 bestaetigt. Keine Herren-Club-Spiele aus dem Whitelist-Scope (Bundesliga, 2. BL, PL, LaLiga, Serie A, Ligue 1, CL, EL, Conference, DFB-Pokal, Coppa Italia, FA Cup, Coupe de France, Supercups) heute. LaLiga Hypermotion startet erst Fr 13.11. 20:30 (Leganes-Burgos). WM-Quali/Nations League/Freundschaftsspiele der Nationalteams laufen diese Woche, liegen aber ausserhalb des Scopes dieser Routine."
+    "verifikations_checks": {
+      "fifa_pause_bestaetigt": "09.-17.11.2026 per Wikipedia FIFA International Match Calendar + si.com + Yahoo Sports",
+      "whitelist_ligen_heute_alle_leer": "Bundesliga/2.BL/PL/LaLiga/Serie A/Ligue 1/CL/EL/Conference/DFB-Pokal/Coppa Italia/FA Cup/Coupe de France/Supercups — alle pausieren",
+      "scope_grenzfall_juve_lyon": "Juventus-OL Lyonnes 20:00 ist UEFA Women's Champions League MD4, nicht Men's CL — nicht im Scope",
+      "scope_grenzfall_africa_cup_quali": "Nationalteam-Spiele laut CLAUDE.md und Scope-Definition dieser Routine nicht im Whitelist-Scope",
+      "scope_grenzfall_oh_leuven_koege": "Belgische Challenger Pro League nicht in Whitelist von master_tipps_routine.md",
+      "selbstwiderspruch_check": "keine Tipps vorhanden -> keine Widersprueche moeglich",
+      "kader_halluzinations_check": "keine Spielernamen im Dossier -> kein Risiko"
+    },
+    "kommentar": "Haupt-Routine-Verifikation: FIFA-Laenderspielpause 09.-17.11.2026 bestaetigt. Keine Herren-Club-Spiele aus dem Whitelist-Scope heute. Naechstes volles Tages-Dossier erst Fr 13.11.2026 bei LaLiga-Hypermotion-Start. Ehrliches Leer-Dossier ist laut master_tipps_routine.md (Notfall-Fallback Zeile 276) ein gueltiges Ergebnis."
   },
   "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
 }
