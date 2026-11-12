@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-11-11T06:08:10+00:00",
+  "letzte_berechnung": "2026-11-12T06:07:26+00:00",
   "gesamt": {
     "tipps": 303,
     "gewonnen": 180,
@@ -23,15 +23,15 @@
     "roi_prozent": 15.9
   },
   "letzte_90_tage": {
-    "tipps": 275,
-    "gewonnen": 165,
-    "verloren": 93,
+    "tipps": 265,
+    "gewonnen": 163,
+    "verloren": 85,
     "push": 0,
     "offen": 17,
-    "einsatz": 258.0,
+    "einsatz": 248.0,
     "netto": 94.52,
-    "trefferquote": 64.0,
-    "roi_prozent": 36.6
+    "trefferquote": 65.7,
+    "roi_prozent": 38.1
   },
   "nach_liga": {
     "Liga Portugal Betclic 2026/27 - 1. Spieltag": {

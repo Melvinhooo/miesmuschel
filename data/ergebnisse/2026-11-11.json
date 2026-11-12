@@ -1,0 +1,53 @@
+{
+  "datum": "2026-11-11",
+  "erstellt_am": "2026-11-11T13:30:00+01:00",
+  "hinweis": "Haupt-Routine Mo-Fr 13:30 — ehrlicher Leertag. Mi 11.11.2026 liegt mitten in der FIFA-Laenderspielpause 09.-17.11.2026 (bestaetigt via Wikipedia FIFA International Match Calendar + si.com + yahoo sports). Alle Hauptligen (Bundesliga, 2. Bundesliga, Premier League, LaLiga, Serie A, Ligue 1) pausieren bis Ende der Woche, Champions/Europa/Conference League pausieren ebenso, nationale Pokale (DFB-Pokal, Coppa Italia, FA Cup, Coupe de France) spielen nicht. Kein Supercup im Fenster. Recherche-File data/recherche/2026-11-11.json fehlt — Haupt-Routine hat selbst per WebSearch verifiziert (Fallback-Pfad laut master_tipps_routine.md Phase 1). Sichtbar heute nur: WM-Qualifikations-/Nations-League-/Freundschaftsspiele der Nationalteams (nicht im Scope), UEFA Women's Champions League MD4 inkl. Juventus-OL Lyonnes 20:00 (Frauenfussball, nicht im Scope), Africa Cup of Nations Qualifier (nicht im Scope), OH Leuven-Koege (belgische Challenger Pro League, nicht in Whitelist). Kasse 1000€, Stufe 1 aktiv (stufe_2_freigeschaltet=false) — nichts zu tippen bei Null Spielen im Scope ist das richtige Tipping, kein erzwungener Content, keine Halluzinationen. Naechster Tipp-Tag: Fr 13.11.2026 (LaLiga Hypermotion Jornada 14 startet 20:30 Leganes-Burgos); vollstaendige Rueckkehr der Hauptligen Sa 21./So 22.11.2026 inkl. Premier League Matchday 12 + Bundesliga.",
+  "spiele": [],
+  "einzeltipps": [],
+  "kombis": [],
+  "lessons_angewandt": [
+    "Zeitfenster-Hartregel 22.08.2026: Dossier enthaelt ausschliesslich Spiele mit Anstoss am 2026-11-11 Berlin — heute keine Spiele im Whitelist-Scope wegen FIFA-Pause.",
+    "Notfall-Regel master_tipps_routine.md Zeile 276: lieber ehrliches Leer-Dossier mit erklaerendem hinweis als erfundene Tipps aus dem Gedaechtnis.",
+    "Scope-Disziplin: Nationalteams (WM-Quali, Nations League, Freundschaftsspiele), Women's Champions League und Belgische Challenger Pro League sind laut CLAUDE.md fuer Haupt-Tipps NICHT im Scope — nicht nachtraeglich aufweichen, um Fuell-Content zu erzeugen.",
+    "Kader-Frische (22.08.2026): keine Spielernamen aus dem Gedaechtnis — da heute ohnehin kein Spiel im Scope stattfindet, auch kein Anlass fuer kader_wechsel_2026.json-Check.",
+    "Kontinuitaet: 2026-11-10 war aus gleichem Grund Leertag; Pattern setzt sich bis Do 12.11. fort (ebenfalls FIFA-Pause)."
+  ],
+  "_verifikations_report": {
+    "modus": "haupt_routine_mo_fr_leertag_plus_backstop_bestaetigung",
+    "verifiziert_am": "2026-11-11T13:30:00+01:00",
+    "quellen": [
+      "https://en.wikipedia.org/wiki/FIFA_International_Match_Calendar",
+      "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_qualification_(UEFA)",
+      "https://www.si.com/soccer/when-is-next-international-break-2026-dates-schedule",
+      "https://sports.yahoo.com/articles/next-international-break-september-october-185416693.html",
+      "https://www.uefa.com/womenschampionsleague/clubs/2609590--juventus/matches/",
+      "https://www.fotmob.com/matches/ol-lyonnes-vs-juventus/bn308sbw"
+    ],
+    "ergebnis": "BESTAETIGT_LEERTAG",
+    "halluzinationen_gedroppt": 0,
+    "spiele_im_scope": 0,
+    "verifikations_checks": {
+      "fifa_pause_bestaetigt": "09.-17.11.2026 per Wikipedia FIFA International Match Calendar + si.com + Yahoo Sports",
+      "whitelist_ligen_heute_alle_leer": "Bundesliga/2.BL/PL/LaLiga/Serie A/Ligue 1/CL/EL/Conference/DFB-Pokal/Coppa Italia/FA Cup/Coupe de France/Supercups — alle pausieren",
+      "scope_grenzfall_juve_lyon": "Juventus-OL Lyonnes 20:00 ist UEFA Women's Champions League MD4, nicht Men's CL — nicht im Scope",
+      "scope_grenzfall_africa_cup_quali": "Nationalteam-Spiele laut CLAUDE.md und Scope-Definition dieser Routine nicht im Whitelist-Scope",
+      "scope_grenzfall_oh_leuven_koege": "Belgische Challenger Pro League nicht in Whitelist von master_tipps_routine.md",
+      "selbstwiderspruch_check": "keine Tipps vorhanden -> keine Widersprueche moeglich",
+      "kader_halluzinations_check": "keine Spielernamen im Dossier -> kein Risiko"
+    },
+    "kommentar": "Haupt-Routine-Verifikation: FIFA-Laenderspielpause 09.-17.11.2026 bestaetigt. Keine Herren-Club-Spiele aus dem Whitelist-Scope heute. Naechstes volles Tages-Dossier erst Fr 13.11.2026 bei LaLiga-Hypermotion-Start. Ehrliches Leer-Dossier ist laut master_tipps_routine.md (Notfall-Fallback Zeile 276) ein gueltiges Ergebnis.",
+    "backstop_verifikation": {
+      "modus": "safety_net_backstop_zweite_schicht",
+      "verifiziert_am": "2026-11-11T19:00:00+01:00",
+      "ausloeser": "Safety-Net-Workflow — Tipps-Backstop prueft, ob ein vorhandenes Leertag-Dossier legitim ist oder nachtraeglich mit Tipps befuellt werden muss.",
+      "unabhaengige_quelle": "https://en.wikipedia.org/wiki/FIFA_International_Match_Calendar (per WebSearch erneut bestaetigt: FIFA Men's International Window 09.-17.11.2026, Premier League/Bundesliga/Serie A/LaLiga/Ligue 1 pausieren, Europapokal-Spieltage liegen ebenfalls ausserhalb des Fensters)",
+      "ergebnis": "LEERTAG_BESTAETIGT_KEIN_HANDLUNGSBEDARF",
+      "entscheidung": "Haupt-Routine-Dossier ist vollstaendig korrekt. Backstop-Prinzip 'lieber kleines Dossier als keins' trifft NUR zu, wenn Spiele im Scope existieren. Heute existieren schlicht keine — Nationalteam-Spiele (WM-Quali, Nations League, Freundschaftsspiele), Women's CL und belgische 2.-Liga-Partien liegen laut CLAUDE.md ausserhalb des Whitelist-Scopes. Erzwungenes Befuellen waere Halluzination und wuerde die Statistik vergiften.",
+      "kommentar": "Safety-Net ist durchgelaufen, hat das bestehende Leertag-Dossier unabhaengig verifiziert und keine zusaetzlichen Tipps hinzugefuegt. Das ist der korrekte Backstop-Output fuer einen echten Leertag. Naechster potenzieller Tipp-Tag: Fr 13.11.2026 (LaLiga Hypermotion Jornada 14), voller Liga-Betrieb kehrt am Wochenende 21./22.11.2026 zurueck."
+    }
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "einzeltipps_ergebnis": [],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-11-12T06:07:26+00:00"
+}
