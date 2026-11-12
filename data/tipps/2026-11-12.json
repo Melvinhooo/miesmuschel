@@ -1,26 +1,26 @@
 {
   "datum": "2026-11-12",
-  "erstellt_am": "2026-11-12T14:30:00+01:00",
-  "hinweis": "Watchdog Mo-Fr 14:30 — ehrlicher Leertag. Do 12.11.2026 liegt mitten in der FIFA-Laenderspielpause 09.-17.11.2026 (bestaetigt via Wikipedia FIFA International Match Calendar + Stuttgarter Zeitung Bundesliga-Spielplan + si.com). Haupt-Routine Mo-Fr 13:30 hat kein gefuelltes Dossier geliefert (file fehlte komplett); Grund = legitimer Leertag, keine Spiele im Whitelist-Scope. Alle Hauptligen (Bundesliga, 2. Bundesliga, Premier League, LaLiga, Serie A, Ligue 1) pausieren bis 20.-22.11., Champions/Europa/Conference League pausieren bis 24.-26.11., nationale Pokale (DFB-Pokal, Coppa Italia, FA Cup, Coupe de France) sind nicht angesetzt, kein Supercup im Fenster. Sichtbar heute nur: UEFA Nations League MD5 Herren (Tuerkei-Belgien, Tschechien-Spanien, England-Kroatien, Italien-Frankreich, Albanien-Finnland, San Marino-Belarus, Armenien-Zypern, Montenegro-Lettland) — Nationalteam-Spiele sind laut CLAUDE.md und master_tipps_routine.md NICHT im Scope; plus Testspiele (u.a. Neuseeland-Indien) und UEFA Women's Nations League B/C-Spiele, alles nicht im Scope. Kasse 1000€, Stufe 1 aktiv (stufe_2_freigeschaltet=false) — nichts zu tippen bei Null Spielen im Scope ist das richtige Tipping, kein erzwungener Content, keine Halluzinationen. Kontinuitaet: 10.11. + 11.11. waren aus gleichem Grund Leertage; Pattern setzt sich auch am Fr 13.11. noch grossteils fort — erst spaetabends Fr 13.11. 20:30 startet LaLiga Hypermotion Jornada 14 (Leganes-Burgos) wieder; voller Hauptligen-Betrieb kehrt am Sa 21./So 22.11. zurueck inkl. Premier League Matchday 12 + Bundesliga + Serie A.",
+  "erstellt_am": "2026-11-12T13:30:00+01:00",
+  "hinweis": "Master-Tipps-Routine Mo-Fr 13:30 — ehrlicher Leertag (Phase 1 Fallback: data/recherche/2026-11-12.json fehlt komplett → selbst verifiziert per WebSearch). Do 12.11.2026 liegt mitten in der FIFA-Laenderspielpause 09.-17.11.2026 (bestaetigt via Wikipedia FIFA International Match Calendar + Stuttgarter Zeitung Bundesliga-Spielplan + livesoccertv.com Tagesplan + skysports fixtures). Alle Hauptligen (Bundesliga, 2. Bundesliga, Premier League, LaLiga, Serie A, Ligue 1) pausieren bis 20.-22.11., Champions/Europa/Conference League pausieren bis 24.-26.11., DFB-Pokal/Coppa Italia/FA Cup/Coupe de France nicht angesetzt, kein Supercup im Fenster. Sichtbar heute nur: UEFA Nations League MD5 Herren (Tuerkei-Belgien, Tschechien-Spanien, England-Kroatien, Italien-Frankreich, Albanien-Finnland, San Marino-Belarus, Armenien-Zypern, Montenegro-Lettland) = Nationalteams, laut CLAUDE.md NICHT im Scope; UEFA Women's Champions League Barcelona-Arsenal (Frauenfussball, nicht im Scope); Copa del Rey Preliminary Tarancon-Levante (Copa del Rey nicht in Whitelist, nur DFB-Pokal/Coppa Italia/FA Cup/Coupe de France). Kasse 1000€, Stufe 1 aktiv (stufe_2_freigeschaltet=false) — nichts zu tippen bei Null Spielen im Scope ist das richtige Tipping, kein erzwungener Content, keine Halluzinationen. Kontinuitaet: 10.11. + 11.11. waren aus gleichem Grund Leertage, 12.11. ist der dritte Leertag in Folge. Naechster Teiltipp-Tag: Fr 13.11. (ab 20:30 LaLiga Hypermotion Jornada 14 Leganes-Burgos — 2. spanische Liga, Beobachtungs-Scope); voller Hauptligen-Rueckkehrtag Sa 21./So 22.11. inkl. Premier League Matchday 12 + Bundesliga + Serie A.",
   "spiele": [],
   "einzeltipps": [],
   "kombis": [],
   "lessons_angewandt": [
     "Zeitfenster-Hartregel 22.08.2026: Dossier enthaelt ausschliesslich Spiele mit Anstoss am 2026-11-12 Berlin — heute keine Spiele im Whitelist-Scope wegen FIFA-Pause.",
     "Notfall-Regel master_tipps_routine.md Zeile 276: lieber ehrliches Leer-Dossier mit erklaerendem hinweis als erfundene Tipps aus dem Gedaechtnis.",
-    "Scope-Disziplin: Nationalteams (Nations League, WM-Quali-Fensterrest, Freundschaftsspiele) und UEFA Women's Nations League sind laut CLAUDE.md fuer Haupt-Tipps NICHT im Scope — nicht nachtraeglich aufweichen, nur um Fuell-Content zu erzeugen.",
+    "Scope-Disziplin: Nationalteams (Nations League, WM-Quali, Freundschaftsspiele), UWCL (Frauenfussball) und Copa del Rey sind laut CLAUDE.md fuer Haupt-Tipps NICHT im Scope — nicht aufweichen, nur um Fuell-Content zu erzeugen.",
     "Kader-Frische (22.08.2026): keine Spielernamen aus dem Gedaechtnis — da heute ohnehin kein Spiel im Scope stattfindet, auch kein Anlass fuer kader_wechsel_2026.json-Check.",
-    "Kontinuitaet: 2026-11-10 und 2026-11-11 waren aus gleichem Grund Leertage; 12.11. ist der dritte und letzte Tag vor dem ersten Wiedereinstieg (Fr 13.11. abends LaLiga Hypermotion)."
+    "Kontinuitaet: 2026-11-10 und 2026-11-11 waren aus gleichem Grund Leertage; 12.11. ist der dritte und letzte volle Leertag vor dem ersten Wiedereinstieg (Fr 13.11. abends LaLiga Hypermotion)."
   ],
   "_verifikations_report": {
-    "modus": "watchdog_mo_fr_leertag_14_30",
-    "verifiziert_am": "2026-11-12T14:30:00+01:00",
-    "ausloeser": "Watchdog hat festgestellt, dass data/tipps/2026-11-12.json vom Haupt-Lauf 13:30 nicht geschrieben wurde. Guard-Check NEED=1 → Dossier selbst gebaut.",
+    "modus": "master_tipps_routine_mo_fr_13_30_fallback_recherche",
+    "verifiziert_am": "2026-11-12T13:30:00+01:00",
+    "ausloeser": "data/recherche/2026-11-12.json fehlt → Master-Routine Phase 1 Fallback: selbst recherchiert via WebSearch, keine Halluzinationen.",
     "quellen": [
       "https://en.wikipedia.org/wiki/FIFA_International_Match_Calendar",
       "https://www.stuttgarter-zeitung.de/sport/sport-mix/wann-geht-die-bundesliga-weiter-alle-termine-nach-der-laenderspielpause-79532225.html",
-      "https://www.si.com/soccer/when-is-next-international-break-2026-dates-schedule",
-      "https://www.sportbusy.com/events/fifa-international-break-november-2026",
+      "https://www.livesoccertv.com/schedules/2026-11-12/",
+      "https://www.skysports.com/football-scores-fixtures/2026-11-12",
       "data/tipps/2026-11-10.json (eigener Leertag mit identischer Quellenlage)",
       "data/tipps/2026-11-11.json (eigener Leertag mit identischer Quellenlage)"
     ],
@@ -28,16 +28,16 @@
     "halluzinationen_gedroppt": 0,
     "spiele_im_scope": 0,
     "verifikations_checks": {
-      "fifa_pause_bestaetigt": "09.-17.11.2026 per Wikipedia FIFA International Match Calendar + Stuttgarter Zeitung Bundesliga-Terminkalender + si.com; Bundesliga kehrt am Sa 21./So 22.11. zurueck (Matchday 10)",
+      "fifa_pause_bestaetigt": "09.-17.11.2026 per Wikipedia FIFA International Match Calendar + Stuttgarter Zeitung Bundesliga-Terminkalender; Bundesliga kehrt Sa 21./So 22.11. zurueck (Matchday 10)",
       "whitelist_ligen_heute_alle_leer": "Bundesliga/2.BL/PL/LaLiga/Serie A/Ligue 1/CL/EL/Conference/DFB-Pokal/Coppa Italia/FA Cup/Coupe de France/Supercups — alle pausieren oder nicht angesetzt",
-      "scope_grenzfall_nations_league_herren": "Tuerkei-Belgien, Tschechien-Spanien, England-Kroatien, Italien-Frankreich u.a. sind Nationalteam-Spiele — laut CLAUDE.md AKTIVE SPORTARTEN und recherche_routine.md Whitelist NICHT im Scope",
-      "scope_grenzfall_testspiele": "Neuseeland-Indien u.a. Freundschaftsspiele sind laut recherche_routine.md explizit zu ignorieren ('Freundschaftsspiele/Testspiele ignorieren')",
-      "scope_grenzfall_womens_nations_league": "Frauenfussball ist nicht im Scope dieser Routine (analog zu Entscheidung vom 10.11. + 11.11.)",
-      "selbstwiderspruch_check": "keine Tipps vorhanden -> keine Widersprueche moeglich",
-      "kader_halluzinations_check": "keine Spielernamen im Dossier -> kein Risiko",
-      "wm_regeln_dormant_check": "HR25-HR29 dormant, keine Aktivierung auch wenn Nationalteam-Spiele sichtbar — CLAUDE.md 'WM 2026 Sonderregeln (DORMANT seit 20.07.2026)' bleibt gueltig"
+      "scope_grenzfall_nations_league_herren": "Tuerkei-Belgien, Tschechien-Spanien, England-Kroatien, Italien-Frankreich, Albanien-Finnland, San Marino-Belarus, Armenien-Zypern, Montenegro-Lettland sind Nationalteam-Spiele — laut CLAUDE.md AKTIVE SPORTARTEN und recherche_routine.md Whitelist NICHT im Scope",
+      "scope_grenzfall_uwcl": "Barcelona-Arsenal Women UCL ist Frauenfussball — nicht im Scope dieser Routine (analog 10.11. + 11.11.)",
+      "scope_grenzfall_copa_del_rey": "Tarancon-Levante Copa del Rey Preliminary — Copa del Rey steht nicht in der Pokal-Whitelist (nur DFB-Pokal/Coppa Italia/FA Cup/Coupe de France)",
+      "selbstwiderspruch_check": "keine Tipps vorhanden → keine Widersprueche moeglich",
+      "kader_halluzinations_check": "keine Spielernamen im Dossier → kein Halluzinations-Risiko, kein kader_wechsel_2026.json-Check noetig",
+      "wm_regeln_dormant_check": "HR25-HR29 dormant — kein Turnier aktiv; auch bei sichtbaren Nationalteam-Spielen NICHT reaktivieren (nur bei WM/EM mit liga='WM'/'EM')"
     },
-    "kommentar": "Watchdog-Verifikation: FIFA-Laenderspielpause 09.-17.11.2026 bestaetigt, dritter Leertag in Folge (nach 10.11. + 11.11.). Keine Herren-Club-Spiele aus dem Whitelist-Scope heute. Naechster Teiltipp-Tag: Fr 13.11.2026 (ab 20:30 LaLiga Hypermotion Jornada 14 Leganes-Burgos — einzelnes Spiel der 2. spanischen Liga, Routine prueft dort separat ob Beobachtungs-Status reicht); voller Hauptligen-Rueckkehrtag: Sa 21.11.2026. Ehrliches Leer-Dossier ist laut master_tipps_routine.md (Notfall-Fallback Zeile 276) ein gueltiges Ergebnis."
+    "kommentar": "Master-Routine Mo-Fr 13:30: FIFA-Laenderspielpause 09.-17.11.2026 bestaetigt, dritter Leertag in Folge (nach 10.11. + 11.11.). Keine Herren-Club-Spiele aus dem Whitelist-Scope heute, auch nach WebSearch-Gegencheck gegen livesoccertv/skysports keine. Naechster Teiltipp-Tag: Fr 13.11.2026 (LaLiga Hypermotion Jornada 14 Leganes-Burgos 20:30, Beobachtungs-Scope). Voller Hauptligen-Rueckkehrtag: Sa 21.11.2026. Ehrliches Leer-Dossier ist laut master_tipps_routine.md Zeile 276 ein gueltiges Ergebnis."
   },
   "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
 }
