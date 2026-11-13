@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-09",
+  "stand": "2026-11-13",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -505,6 +505,15 @@
       "datum": "2026-07-01",
       "hinweis": "Boga seit 01.07.2026 fest bei Juventus (nach Winter-Leihe + Kaufoption). Nicht mehr als Nice-Spieler tippen.",
       "quelle": "https://www.ogcnice.com/en/article/130493/boga-completes-permanent-move-to-juventus.html"
+    },
+    {
+      "spieler": "Yadaly Diaby",
+      "von": "Grenoble Foot 38",
+      "nach": "Vancouver Whitecaps (MLS)",
+      "datum": "2026-09-01",
+      "hinweis": "Senegalesischer Fluegelstuermer wechselte am 01.09.2026 zu Vancouver Whitecaps (MLS). Nicht mehr als Grenoble-Spieler tippen. Erkannt im Chambery-Grenoble-Dossier 12.11.2026 (als Hinweis im News-Block). Eintrag per Auswertungs-Routine 13.11. nachgetragen.",
+      "quelle": "https://fr.wikipedia.org/wiki/Saison_2026-2027_du_Grenoble_Foot_38",
+      "stand": "2026-11-13"
     }
   ],
   "zugaenge_neue_optionen": [
@@ -927,6 +936,15 @@
       "datum": "2026-07-01",
       "hinweis": "Aufgefallen bei Auswertung 01.11.2026: Boga traf in 87. zum 2:0 gegen Napoli (Serie A G10). Nach Winter-Leihe 02.2026 fester Transfer per Kaufoption im Juni 2026 (Vertrag bis 2029). Fluegel-Scorer, Backup-Volumen fuer Juve-Offensive ohne Yildiz/Vlahovic.",
       "quelle": "https://www.ogcnice.com/en/article/130493/boga-completes-permanent-move-to-juventus.html"
+    },
+    {
+      "spieler": "Leonardo Cerri",
+      "nach": "Grenoble Foot 38",
+      "von": "Juventus Turin",
+      "datum": "2026-07",
+      "hinweis": "Italienischer Mittelstuermer, bei Grenoble als einziger echter 'avant-centre de metier' im Kader 2026/27 angelegt. Rotations-Risiko realisiert im Coupe de France 12.11.2026 vs Chambery: startete auf der Bank, kam als Teil der Doppel-Einwechslung mit Djitte in der 75. Min rein, blieb torlos. Fuer kuenftige L2-Dossiers Volume-9er-Option; fuer Pokal-Dossiers gegen klar schwaechere Gegner Rotations-Vorsicht (Bonnet startet dann vorne).",
+      "quelle": "https://fr.wikipedia.org/wiki/Saison_2026-2027_du_Grenoble_Foot_38",
+      "stand": "2026-11-13"
     }
   ],
   "trainer_2026_27": [
@@ -1295,6 +1313,15 @@
       "vertrag_bis": "2029-06",
       "hinweis": "Aufgefallen bei Auswertung 2026-11-05 (Palace 1:1 Hoffenheim UEL MD4): Sky-Sports-Match-Report nennt 'under-pressure Pierre Sage' als Trainer. Kam von RC Lens (Ligue-1-Manager-of-the-Year 2025/26 + Coupe-de-France-Sieger). Kader_wechsel-Datei fuehrte Palace bisher nicht - Nachtrag.",
       "quelle": "https://www.cpfc.co.uk/news/announcement/pierre-sage-appointed-crystal-palace-manager/"
+    },
+    {
+      "verein": "Grenoble Foot 38",
+      "trainer_neu": "Olivier Frapolli",
+      "trainer_alt": "Vincent Hognon (bis Mai 2026)",
+      "seit": "2026-07",
+      "vertrag_bis": null,
+      "hinweis": "Erkannt im Chambery-Grenoble-Coupe-de-France-Dossier 12.11.2026 (Trainer rotierte Cerri auf die Bank und startete mit Bonnet). Nicht in kader_wechsel-Datei gefuehrt - Nachtrag per Auswertungs-Routine 13.11.2026.",
+      "quelle": "https://fr.wikipedia.org/wiki/Saison_2026-2027_du_Grenoble_Foot_38"
     }
   ],
   "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist. Fulham hat mit Arbeloa (ex-Real Madrid) einen neuen Trainer, Silva zu Benfica (bestaetigt 25.08.2026). Saison-Verlauf (Stand 01.11.2026): erster Bundesliga-Wechsel Gladbach 13.09. (Polanski -> Lichte Interim -> Blessin ab 22.09. permanent, Vertrag bis 2028); drei Serie-A-Wechsel Fiorentina 07.09. (Grosso -> Vanoli), Bologna 16.09. (Tedesco -> Palladino), Parma 27.09. (Cuesta -> Gilardino ab 30.09. permanent, Weltmeister 2006), vierter Serie-A-Wechsel Venezia 13.10. (Stroppa -> Nicola); AC Milan 06. (Allegri -> Amorim verifiziert 26.10.); drei LaLiga-Wechsel Valencia 13.09. (Corberan -> Aguirre ab 23.09.), Osasuna 12.10. (Ramis -> Arrasate), Espanyol 27.10. (Gonzalez -> Sarabia ab 28.10.); erster Premier-League-Wechsel West Ham 27.09. (Potter -> Nuno Espirito Santo, sofort auf 3 Jahre). Interim-Rollen aktuell keine - alle permanent besetzt. Nottingham Forest: Glasner trotz 1-2-2-Start nach 5 PL-Spielen noch im Amt (01.11. 'Glasners Postecoglou-Moment' nach 0:2 in Brentford). Benfica (nach Mourinho-Abgang) noch offen - vor Europapokal-Tipps auf diese Klubs live pruefen. Bayern-Interim durch Kompany-Krankheit: Aaron Danks seit Mitte Okt.",

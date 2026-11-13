@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-11-12T18:35:26+00:00",
+  "letzte_berechnung": "2026-11-13T06:13:35+00:00",
   "gesamt": {
-    "tipps": 303,
-    "gewonnen": 180,
-    "verloren": 105,
+    "tipps": 306,
+    "gewonnen": 181,
+    "verloren": 107,
     "push": 1,
     "offen": 17,
-    "einsatz": 286.0,
+    "einsatz": 289.0,
     "netto": 94.52,
-    "trefferquote": 63.2,
-    "roi_prozent": 33.0
+    "trefferquote": 62.8,
+    "roi_prozent": 32.7
   },
   "letzte_30_tage": {
-    "tipps": 125,
-    "gewonnen": 80,
-    "verloren": 39,
+    "tipps": 128,
+    "gewonnen": 81,
+    "verloren": 41,
     "push": 0,
     "offen": 6,
-    "einsatz": 119.0,
+    "einsatz": 122.0,
     "netto": 18.97,
-    "trefferquote": 67.2,
-    "roi_prozent": 15.9
+    "trefferquote": 66.4,
+    "roi_prozent": 15.5
   },
   "letzte_90_tage": {
-    "tipps": 265,
-    "gewonnen": 163,
-    "verloren": 85,
+    "tipps": 258,
+    "gewonnen": 160,
+    "verloren": 81,
     "push": 0,
     "offen": 17,
-    "einsatz": 248.0,
+    "einsatz": 241.0,
     "netto": 94.52,
-    "trefferquote": 65.7,
-    "roi_prozent": 38.1
+    "trefferquote": 66.4,
+    "roi_prozent": 39.2
   },
   "nach_liga": {
     "Liga Portugal Betclic 2026/27 - 1. Spieltag": {
@@ -815,6 +815,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 1.42,
       "trefferquote": 33.3,
       "roi_prozent": 47.3
+    },
+    "Coupe de France 2026/27 - 7e Tour": {
+      "tipps": 3,
+      "gewonnen": 1,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 33.3,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt": {
@@ -1094,15 +1105,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 24,
+      "tipps": 25,
       "gewonnen": 14,
-      "verloren": 8,
+      "verloren": 9,
       "push": 0,
       "offen": 2,
-      "einsatz": 22.0,
+      "einsatz": 23.0,
       "netto": 7.57,
-      "trefferquote": 63.6,
-      "roi_prozent": 34.4
+      "trefferquote": 60.9,
+      "roi_prozent": 32.9
     },
     "Doppelte Chance: Deportivo La Coruna oder Unentschieden": {
       "tipps": 1,
@@ -2830,19 +2841,41 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 1.42,
       "trefferquote": 100.0,
       "roi_prozent": 142.0
+    },
+    "Sieg Grenoble (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 100.0,
+      "roi_prozent": 0.0
+    },
+    "Leonardo Cerri Torschuetze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
     "Sieg (1X2 / ML)": {
-      "tipps": 62,
-      "gewonnen": 31,
+      "tipps": 63,
+      "gewonnen": 32,
       "verloren": 28,
       "push": 1,
       "offen": 2,
-      "einsatz": 60.0,
+      "einsatz": 61.0,
       "netto": 10.32,
-      "trefferquote": 52.5,
-      "roi_prozent": 17.2
+      "trefferquote": 53.3,
+      "roi_prozent": 16.9
     },
     "Unter 2.5 Tore": {
       "tipps": 15,
@@ -2889,26 +2922,26 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 29.5
     },
     "Ueber 2.5 Tore": {
-      "tipps": 40,
+      "tipps": 41,
       "gewonnen": 21,
-      "verloren": 15,
+      "verloren": 16,
       "push": 0,
       "offen": 4,
-      "einsatz": 36.0,
+      "einsatz": 37.0,
       "netto": 11.07,
-      "trefferquote": 58.3,
-      "roi_prozent": 30.7
+      "trefferquote": 56.8,
+      "roi_prozent": 29.9
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 34,
+      "tipps": 35,
       "gewonnen": 11,
-      "verloren": 22,
+      "verloren": 23,
       "push": 0,
       "offen": 1,
-      "einsatz": 33.0,
+      "einsatz": 34.0,
       "netto": 1.85,
-      "trefferquote": 33.3,
-      "roi_prozent": 5.6
+      "trefferquote": 32.4,
+      "roi_prozent": 5.4
     },
     "Inter gewinnt": {
       "tipps": 1,
@@ -3111,26 +3144,26 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 135,
+      "tipps": 136,
       "gewonnen": 79,
-      "verloren": 52,
+      "verloren": 53,
       "push": 0,
       "offen": 4,
-      "einsatz": 131.0,
+      "einsatz": 132.0,
       "netto": 57.41,
-      "trefferquote": 60.3,
-      "roi_prozent": 43.8
+      "trefferquote": 59.8,
+      "roi_prozent": 43.5
     },
     "1.00-1.50": {
-      "tipps": 129,
-      "gewonnen": 93,
+      "tipps": 130,
+      "gewonnen": 94,
       "verloren": 25,
       "push": 1,
       "offen": 10,
-      "einsatz": 119.0,
+      "einsatz": 120.0,
       "netto": 38.36,
-      "trefferquote": 78.8,
-      "roi_prozent": 32.2
+      "trefferquote": 79.0,
+      "roi_prozent": 32.0
     },
     "2.00-3.00": {
       "tipps": 30,
@@ -3144,50 +3177,50 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": -27.6
     },
     "3.00+": {
-      "tipps": 9,
+      "tipps": 10,
       "gewonnen": 3,
-      "verloren": 6,
+      "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 9.0,
+      "einsatz": 10.0,
       "netto": 6.2,
-      "trefferquote": 33.3,
-      "roi_prozent": 68.9
+      "trefferquote": 30.0,
+      "roi_prozent": 62.0
     }
   },
   "nach_kategorie": {
     "wackel": {
-      "tipps": 45,
+      "tipps": 46,
       "gewonnen": 21,
-      "verloren": 24,
+      "verloren": 25,
       "push": 0,
       "offen": 0,
-      "einsatz": 45.0,
+      "einsatz": 46.0,
       "netto": 16.61,
-      "trefferquote": 46.7,
-      "roi_prozent": 36.9
+      "trefferquote": 45.7,
+      "roi_prozent": 36.1
     },
     "value": {
-      "tipps": 197,
+      "tipps": 198,
       "gewonnen": 114,
-      "verloren": 73,
+      "verloren": 74,
       "push": 1,
       "offen": 9,
-      "einsatz": 188.0,
+      "einsatz": 189.0,
       "netto": 44.94,
-      "trefferquote": 61.0,
-      "roi_prozent": 23.9
+      "trefferquote": 60.6,
+      "roi_prozent": 23.8
     },
     "safe": {
-      "tipps": 59,
-      "gewonnen": 44,
+      "tipps": 60,
+      "gewonnen": 45,
       "verloren": 8,
       "push": 0,
       "offen": 7,
-      "einsatz": 52.0,
+      "einsatz": 53.0,
       "netto": 31.97,
-      "trefferquote": 84.6,
-      "roi_prozent": 61.5
+      "trefferquote": 84.9,
+      "roi_prozent": 60.3
     },
     "risk": {
       "tipps": 2,
@@ -3220,15 +3253,15 @@ window.__MIESMUSCHEL_STAT = {
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 303,
-      "gewonnen": 180,
-      "verloren": 105,
+      "tipps": 306,
+      "gewonnen": 181,
+      "verloren": 107,
       "push": 1,
       "offen": 17,
-      "einsatz": 286.0,
+      "einsatz": 289.0,
       "netto": 94.52,
-      "trefferquote": 63.2,
-      "roi_prozent": 33.0
+      "trefferquote": 62.8,
+      "roi_prozent": 32.7
     },
     "kasse": {
       "name": "2026/27",
@@ -3265,21 +3298,71 @@ window.__MIESMUSCHEL_STAT = {
         "start": "2026-08-22",
         "ende": "2027-06-30",
         "bilanz": {
-          "tipps": 218,
-          "gewonnen": 144,
-          "verloren": 68,
+          "tipps": 221,
+          "gewonnen": 145,
+          "verloren": 70,
           "push": 0,
           "offen": 6,
-          "einsatz": 212.0,
+          "einsatz": 215.0,
           "netto": 97.65,
-          "trefferquote": 67.9,
-          "roi_prozent": 46.1
+          "trefferquote": 67.4,
+          "roi_prozent": 45.4
         },
         "ist_aktuell": true
       }
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-11-12",
+      "gesamt": {
+        "tipps": 3,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 3,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [
+        {
+          "id": "2026-11-12-cha-gre",
+          "liga": "Coupe de France 2026/27 - 7e Tour",
+          "heim": "Chambery Savoie Football",
+          "gast": "Grenoble Foot 38",
+          "endstand": "0:2",
+          "tipps": [
+            {
+              "markt": "Sieg Grenoble (90 Min)",
+              "quote": 1.45,
+              "kategorie": "safe",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.8,
+              "kategorie": "value",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": ""
+            },
+            {
+              "markt": "Leonardo Cerri Torschuetze jederzeit",
+              "quote": 3.0,
+              "kategorie": "wackel",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": ""
+            }
+          ]
+        }
+      ],
+      "kombis": []
+    },
     {
       "datum": "2026-11-09",
       "gesamt": {
