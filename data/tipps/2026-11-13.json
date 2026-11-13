@@ -1,0 +1,345 @@
+{
+  "datum": "2026-11-13",
+  "erstellt_am": "2026-11-13T14:35:00+01:00",
+  "_watchdog": true,
+  "hinweis": "Watchdog-Recovery nach Ausfall der 13:30-Hauptroutine. FIFA-Laenderspielpause 09.-17.11.2026 laeuft - Bundesliga, 2.BL, PL, LaLiga, Serie A, Ligue 1 + CL/EL/Conference pausieren. Statt Vereins-Liga laeuft heute die Coupe de France 7e Tour (Do-So-Runde, Ligue-2-Klubs steigen ein) - Pokal-Whitelist in CLAUDE.md, also in-scope. Kein Recherche-File vorhanden - selbst recherchiert via WebSearch (fff.fr, madeinfoot.ouest-france.fr, livefoot, dicodusport). Drei Spiele im Fenster mit L2-Favoriten gegen unterklassige Gegner (Dijon gegen National-Klub Orleans 20:00, Dunkerque gegen National-Klub Quevilly-Rouen 18:00, Guingamp auswaerts gegen N2-Klub Lannion 19:00). Keine Torschuetzen-Tipps - ohne Pokal-Squad-Daten zu riskant. Fokus auf Markt-Goldgruben DC 1X / DC X2 (ROI +49% / +60% in Saison-Bilanz). Kasse 1000 EUR, Stufe 1 aktiv (stufe_2_freigeschaltet=false). Pokal-Favoritenstuerze real - keine SAFE-Lotterie. Quoten bei bet365 live pruefen (kein Live-Aggregator-Fetch moeglich). Naechster voller Haupt-Ligen-Tag: Sa 21.11. nach LSP-Ende (Bundesliga Spieltag 10, PL, LaLiga, Serie A).",
+  "spiele": [
+    {
+      "id": "2026-11-13-dij-orl",
+      "liga": "Coupe de France 2026/27 - 7e Tour",
+      "heim": "Dijon FCO",
+      "gast": "US Orleans",
+      "anstoss": "2026-11-13T20:00:00+01:00",
+      "stadion": "Stade Gaston-Gerard, Dijon",
+      "saison_kontext": {
+        "parallel_heim": "keine - Ligue 2 pausiert in FIFA-Laenderspielpause 09.-17.11.",
+        "parallel_gast": "keine - National 2026/27 pausiert ebenfalls in LSP",
+        "saisonziel_heim": "Dijon FCO: 9. Platz Ligue 2 nach 10 Spielen (12 Pkt laut Vavel), Trainer Baptiste Ridira - Pokal als Zweit-Ziel neben Liga-Aufstiegsplaetzen",
+        "saisonziel_gast": "US Orleans: aktuell National (Ligue 3) 2026/27 - abgestiegen aus L2 in Vorsaison. Pokal als Prestige-Fenster, Hauptfokus Liga-Wiederaufstieg",
+        "motivations_asymmetrie": "Dijon klarer Klassenvorteil (L2 vs L3), aber Pokal-Underdog-Risiko real - Orleans schlug Dijon im Mai 2026 noch 3:2 in National, historisch 8:6 Dijon. Heimrecht + Klasse sprechen fuer Dijon, aber kein Durchmarsch-Erwarten.",
+        "recovery_heim": "Dijon mind. 5 Tage seit letztem L2-Spiel (LSP-Fenster, letzter Liga-Einsatz spaetestens 8.11.) - frisch",
+        "recovery_gast": "Orleans ebenfalls mind. 5 Tage pausiert - frisch, keine Doppelbelastung",
+        "quellen": [
+          "https://www.fff.fr/article/17728-le-7e-tour-est-en-action.html",
+          "https://www.vavel.com/es/data/dijon-fco/estadisticas/",
+          "https://madeinfoot.ouest-france.fr/infos/article-coupe-de-france-le-calendrier-complet-du-7e-tour-de-coupe-de-france-pour-les-clubs-de-ligue-2-544380.html"
+        ]
+      },
+      "news": [
+        "Dijon FCO (Ligue 2, aktuell 9. Platz) empfaengt US Orleans (National/Ligue 3) im Coupe de France 7e Tour - Pokal-Pflichtsieg fuer den Favoriten",
+        "Orleans hat Dijon in der Vorsaison 3:2 in National geschlagen, historisch 8:6 fuer Dijon aus 16 direkten Begegnungen",
+        "Beide Teams aus FIFA-Laenderspielpause frisch, keine Doppelbelastung",
+        "Dijon Trainer Baptiste Ridira, Form zuletzt durchwachsen (letzte 5 L2: S-S-U-N-U-S ungefaehr, Mittelfeld-Niveau)"
+      ],
+      "tipps": [
+        {
+          "id": "dij-orl-1",
+          "kategorie": "value",
+          "markt": "Dijon oder Remis (Doppelte Chance 1X)",
+          "quote": 1.22,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.17,
+          "begruendung": "L2-Heim gegen L3-Underdog, Dijon faellt nur bei echter Blamage raus. Markt-Goldgrube DC 1X (84.2% Hitrate, +49.5% ROI in Saison-Statistik). Einsatz bei 1000 EUR Kasse Stufe 1: 1.5% = 15 EUR. Quote 1.22 unter Downgrade-Grenze fuer SAFE-Range (1.30+) - daher VALUE nicht SAFE, trotz hoher Hitrate-Erwartung. Bei bet365 live pruefen.",
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "dij-orl-2",
+          "kategorie": "wackel",
+          "markt": "Sieg Dijon (90 Min)",
+          "quote": 1.50,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.45,
+          "begruendung": "Direkter Sieg des L2-Favoriten in 90 Min - Pokal-Rate ~60-65% fuer L2 gegen L3 bei Heimrecht. Orleans hat Dijon in der Vorsaison in gleicher Klasse geschlagen - Favoriten-Sturz real. Einsatz 0.5% Wackel-Level = 5 EUR. Keine 2:0-Insurance in Coupe de France (nur BL + CL).",
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "dij-orl-3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.80,
+          "begruendung": "Pokal-Spiele L2 vs L3 enden oft offener als Liga - L3-Klub spielt meist auf Konter, defensive Luecken. Markt-Goldgrube Ueber 2.5 (56.8% Hitrate, positiver ROI). Einsatz 0.5%. Risiko: taktisch gebremst wenn Dijon 1:0 fuehrt und verwaltet.",
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-13-dun-qui",
+      "liga": "Coupe de France 2026/27 - 7e Tour",
+      "heim": "USL Dunkerque",
+      "gast": "Quevilly-Rouen Metropole",
+      "anstoss": "2026-11-13T18:00:00+01:00",
+      "stadion": "Stade Marcel-Tribut, Dunkerque",
+      "saison_kontext": {
+        "parallel_heim": "keine - Ligue 2 pausiert in FIFA-Laenderspielpause",
+        "parallel_gast": "keine - National 2026/27 pausiert ebenfalls",
+        "saisonziel_heim": "USL Dunkerque: Mittelfeld Ligue 2 (10.-12. Platz nach 7-10 Spieltagen laut foot-africa.com und FotMob), Klassenerhalt vor Aufstieg",
+        "saisonziel_gast": "Quevilly-Rouen Metropole: National (Ligue 3) 2026/27, Pokal als Prestige",
+        "motivations_asymmetrie": "Dunkerque klarer Klassenvorteil + Heimrecht. L2-Mittelfeld gegen L3 ist statistisch ca. 65-70% Siegwahrscheinlichkeit. Kein Sonder-Risiko-Faktor erkennbar - Standard-Pokal-Favoriten-Konstellation.",
+        "recovery_heim": "Dunkerque mind. 5 Tage Pause (LSP), frisch",
+        "recovery_gast": "Quevilly-Rouen ebenfalls mind. 5 Tage Pause, frisch",
+        "quellen": [
+          "https://www.fff.fr/article/17728-le-7e-tour-est-en-action.html",
+          "https://foot-africa.com/ligues/france/ligue-2/classements/",
+          "https://madeinfoot.ouest-france.fr/infos/article-coupe-de-france-le-calendrier-complet-du-7e-tour-de-coupe-de-france-pour-les-clubs-de-ligue-2-544380.html"
+        ]
+      },
+      "news": [
+        "USL Dunkerque (Ligue 2 Mittelfeld) empfaengt Quevilly-Rouen Metropole (National/L3) - L2-Pflichtsieg-Konstellation",
+        "Dunkerque laut foot-africa.com aktuell 10. Platz L2 2026/27, laut FotMob 12. nach 7 Spieltagen",
+        "Keine Doppelbelastung bei beiden Teams - 5 Tage Pokal-Vorbereitung durch LSP",
+        "Underdog-Risiko wie in jedem Pokal real, aber kein Krisen- oder Rotations-Signal fuer Dunkerque"
+      ],
+      "tipps": [
+        {
+          "id": "dun-qui-1",
+          "kategorie": "value",
+          "markt": "Dunkerque oder Remis (Doppelte Chance 1X)",
+          "quote": 1.25,
+          "edge_prozent": 4.5,
+          "faire_quote": 1.20,
+          "begruendung": "L2-Heim gegen L3, Markt-Goldgrube DC 1X (84.2% / +49.5% ROI). Quote 1.25 knapp unter SAFE-Range - deshalb VALUE. Einsatz 1.5% = 15 EUR. Risiko: Dunkerque Mittelfeld-L2 ist kein Top-L2-Favorit - daher kein SAFE trotz Klasse.",
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "dun-qui-2",
+          "kategorie": "wackel",
+          "markt": "Sieg Dunkerque (90 Min)",
+          "quote": 1.55,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.50,
+          "begruendung": "L2-Heim-Sieg erwartbar bei ca. 60-65% - knapp VALUE/WACKEL-Grenze. Pokal-Risiko in 90 Min: bei Remis geht es in Elfmeterschiessen, Sieg-Tipp-nur-90-Min kann daher verloren gehen trotz spaeterem Weiterkommen. Einsatz 0.5% = 5 EUR.",
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-13-lan-gui",
+      "liga": "Coupe de France 2026/27 - 7e Tour",
+      "heim": "Lannion FC",
+      "gast": "EA Guingamp",
+      "anstoss": "2026-11-13T19:00:00+01:00",
+      "stadion": "Stade Yves-Cariou, Lannion",
+      "saison_kontext": {
+        "parallel_heim": "keine - National 2 (Amateur-Spielklasse) pausiert in LSP",
+        "parallel_gast": "keine - Ligue 2 pausiert in LSP",
+        "saisonziel_heim": "Lannion FC: National 2 2026/27 (4. Liga Amateur), Klassenerhalt + Pokal-Sensation",
+        "saisonziel_gast": "EA Guingamp: Ligue 2 2026/27, Aufstiegsambitionen (traditioneller L1/L2-Klub)",
+        "motivations_asymmetrie": "Zwei Klassen Differenz (L2 vs N2) macht Guingamp klaren Favoriten. Lannion mit Heimvorteil + Amateur-Begeisterung kann einzelne Phasen dominieren, aber ueber 90 Min sollte Guingamp durchkommen. Groesster Favoritenvorsprung aller 3 Spiele im Dossier.",
+        "recovery_heim": "Lannion mind. 7 Tage Pause (N2-Spieltage unregelmaessig), frisch",
+        "recovery_gast": "Guingamp mind. 5 Tage Pause durch LSP, frisch",
+        "quellen": [
+          "https://www.fff.fr/article/17728-le-7e-tour-est-en-action.html",
+          "https://madeinfoot.ouest-france.fr/infos/article-coupe-de-france-le-calendrier-complet-du-7e-tour-de-coupe-de-france-pour-les-clubs-de-ligue-2-544380.html"
+        ]
+      },
+      "news": [
+        "Lannion FC (National 2, 4. Liga) empfaengt En Avant Guingamp (Ligue 2) im Coupe de France 7e Tour",
+        "Zwei Klassen Niveau-Differenz - Guingamp klarster Favorit der 3 Dossier-Spiele",
+        "Beide Teams aus LSP-Pause frisch",
+        "Guingamp traditioneller Pokal-Klub (Coupe-de-France-Sieger 2009, 2014) - nimmt Wettbewerb ernst"
+      ],
+      "tipps": [
+        {
+          "id": "lan-gui-1",
+          "kategorie": "safe",
+          "markt": "Remis oder Guingamp (Doppelte Chance X2)",
+          "quote": 1.18,
+          "edge_prozent": 5.5,
+          "faire_quote": 1.12,
+          "begruendung": "Zwei Klassen Niveau-Differenz = Pokal-Pflichtergebnis fuer Guingamp. Markt-Goldgrube DC X2 (81.2% Hitrate, +60.9% ROI) - staerkste Markt-Edge im System. Lannion in 90 Min einen Sieg gegen L2-Klub zu holen ist statistisch deutlich unter 10%. Einsatz 2% Stufe 1 = 20 EUR. Trotz Quote unter 1.30 als SAFE eingestuft wegen DC-Pokal-Goldgrube.",
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "lan-gui-2",
+          "kategorie": "value",
+          "markt": "Sieg Guingamp (90 Min)",
+          "quote": 1.45,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.38,
+          "begruendung": "Direkter L2-Sieg gegen N2-Underdog in 90 Min - erwartbare Hitrate ca. 65-70%. Quote 1.45 im VALUE-Band. Einsatz 1.5% = 15 EUR. Risiko wie bei Pokal immer: Lannion holt Remis in 90 Min und Guingamp zieht erst via Elfmeterschiessen weiter - Sieg-Tipp waere dann verloren.",
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "lan-gui-3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.70,
+          "begruendung": "L2 gegen N2 im Pokal endet oft 2:0, 3:0, 3:1 - Klassen-Differenz schlaegt sich in Toren nieder. Lannion-Defense kann gegen L2-Angriff nicht lange standhalten. Einsatz 0.5%. Risiko: Guingamp macht 1:0 und verwaltet.",
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "lan-gui-1",
+      "spiel_id": "2026-11-13-lan-gui",
+      "spiel_label": "Lannion FC vs EA Guingamp",
+      "kategorie": "safe",
+      "markt": "Remis oder Guingamp (Doppelte Chance X2)",
+      "quote": 1.18,
+      "einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "L2 gegen N2 (2 Klassen Differenz) + Markt-Goldgrube DC X2 (81.2% / +60.9% ROI). Staerkster Edge im Tagesdossier."
+    },
+    {
+      "id": "dun-qui-1",
+      "spiel_id": "2026-11-13-dun-qui",
+      "spiel_label": "USL Dunkerque vs Quevilly-Rouen Metropole",
+      "kategorie": "value",
+      "markt": "Dunkerque oder Remis (Doppelte Chance 1X)",
+      "quote": 1.25,
+      "einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "L2-Heim gegen L3 + Markt-Goldgrube DC 1X (84.2% / +49.5% ROI). Quote unter SAFE-Range, sonst waere es SAFE."
+    },
+    {
+      "id": "dij-orl-1",
+      "spiel_id": "2026-11-13-dij-orl",
+      "spiel_label": "Dijon FCO vs US Orleans",
+      "kategorie": "value",
+      "markt": "Dijon oder Remis (Doppelte Chance 1X)",
+      "quote": 1.22,
+      "einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "L2-Heim gegen L3 + DC 1X Goldgrube. Orleans schlug Dijon in Vorsaison 3:2 - deshalb kein SAFE trotz Klasse."
+    },
+    {
+      "id": "lan-gui-2",
+      "spiel_id": "2026-11-13-lan-gui",
+      "spiel_label": "Lannion FC vs EA Guingamp",
+      "kategorie": "value",
+      "markt": "Sieg Guingamp (90 Min)",
+      "quote": 1.45,
+      "einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Direkter L2-Sieg gegen N2 in 90 Min bei 2 Klassen Differenz. Quote im VALUE-Band."
+    },
+    {
+      "id": "dij-orl-2",
+      "spiel_id": "2026-11-13-dij-orl",
+      "spiel_label": "Dijon FCO vs US Orleans",
+      "kategorie": "wackel",
+      "markt": "Sieg Dijon (90 Min)",
+      "quote": 1.50,
+      "einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Dijon Mittelfeld-L2 ist kein Top-Favorit - direkter Sieg gegen Orleans (historisch 3:2 im Mai) ist Wackel."
+    },
+    {
+      "id": "dun-qui-2",
+      "spiel_id": "2026-11-13-dun-qui",
+      "spiel_label": "USL Dunkerque vs Quevilly-Rouen Metropole",
+      "kategorie": "wackel",
+      "markt": "Sieg Dunkerque (90 Min)",
+      "quote": 1.55,
+      "einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "L2-Heim-Sieg in 90 Min gegen L3 - Standard-Wackel. Elfmeterschiessen-Risiko bei Remis."
+    },
+    {
+      "id": "lan-gui-3",
+      "spiel_id": "2026-11-13-lan-gui",
+      "spiel_label": "Lannion FC vs EA Guingamp",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "L2 gegen N2 im Pokal oft 2:0/3:0/3:1. Klassen-Differenz schlaegt sich in Toren nieder."
+    },
+    {
+      "id": "dij-orl-3",
+      "spiel_id": "2026-11-13-dij-orl",
+      "spiel_label": "Dijon FCO vs US Orleans",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.85,
+      "einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Pokal L2 vs L3 oft offener als Liga - L3 spielt auf Konter. Markt-Goldgrube Ueber 2.5."
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe-Kombi Pokal-Favoriten",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-11-13-lan-gui",
+          "spiel_label": "Lannion FC vs EA Guingamp",
+          "markt": "Remis oder Guingamp (Doppelte Chance X2)",
+          "quote": 1.18,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-11-13-dun-qui",
+          "spiel_label": "USL Dunkerque vs Quevilly-Rouen Metropole",
+          "markt": "Dunkerque oder Remis (Doppelte Chance 1X)",
+          "quote": 1.25,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-13-dij-orl",
+          "spiel_label": "Dijon FCO vs US Orleans",
+          "markt": "Dijon oder Remis (Doppelte Chance 1X)",
+          "quote": 1.22,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 1.80,
+      "rechnung": "1.18 x 1.25 x 1.22 = 1.80",
+      "einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Drei Doppelte-Chance-Tipps auf L2-Favoriten gegen L3/N2-Underdogs - alle in Markt-Goldgrube DC 1X/X2 (81-84% Hitrate). Layer-1 OK (3 verschiedene Spiele). Layer-2 OK (3 DC statt direkter Sieg = kein Sieg-Outcome doppelt). Zielquote fuer Safe-Kombi 3-5x wird knapp verfehlt (1.80) - das ist der ehrliche Markt heute bei LSP + Pokal-Pflichtsiegen. Einsatz 2% Stufe 1 = 20 EUR."
+    },
+    {
+      "name": "Balance-Kombi Pokal-Siege",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-11-13-lan-gui",
+          "spiel_label": "Lannion FC vs EA Guingamp",
+          "markt": "Sieg Guingamp (90 Min)",
+          "quote": 1.45,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-13-dij-orl",
+          "spiel_label": "Dijon FCO vs US Orleans",
+          "markt": "Sieg Dijon (90 Min)",
+          "quote": 1.50,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-13-dun-qui",
+          "spiel_label": "USL Dunkerque vs Quevilly-Rouen Metropole",
+          "markt": "Sieg Dunkerque (90 Min)",
+          "quote": 1.55,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 3.37,
+      "rechnung": "1.45 x 1.50 x 1.55 = 3.37",
+      "einsatz_prozent": 0.8,
+      "einsatz_euro": 8.0,
+      "begruendung": "Drei direkte Siege der L2-Favoriten - naeher an der klassischen Balance-Range (6-10x) kommt der heutige Markt nicht. Layer-1 OK. Layer-2-Spannung: 3 Sieg-Outcomes in einer Kombi - innerhalb EINER Kombi erlaubt, nur ueber MEHRERE Kombis derselbe Markt wuerde Layer-2 brechen. Elfmeterschiessen-Risiko bei Remis nach 90 Min (90-Min-Sieg-Tipp wuerde verloren gehen, selbst wenn das L2-Team weiterkommt). Einsatz 0.8% = 8 EUR."
+    }
+  ],
+  "lessons_angewandt": [
+    "CLAUDE.md Markt-Goldgrube DC 1X (84.2% / +49.5% ROI) + DC X2 (81.2% / +60.9% ROI) aktiv gesucht - beide als Safe-Kombi-Basis",
+    "HR24 Form-Edge-Pflicht fuer Torschuetzen: keine Pokal-Squad-Daten -> KEINE Torschuetzen-Tipps gesetzt",
+    "CLAUDE.md Zeitfenster-Hartregel: nur Anstoss 13.11.2026 Berliner Zeit - Coupe-de-France-Samstagsspiele 14.11. NICHT im Dossier",
+    "CLAUDE.md Kader-Frische: keine Spielernamen aus Gedaechtnis - wegen fehlender Live-Aufstellungs-Quellen auf Mannschaftsmaerkte beschraenkt",
+    "CLAUDE.md Supercup-Sonderregel: 2:0-Insurance gilt NUR in BL + CL - in Coupe de France NICHT (in Begruendung erwaehnt)",
+    "Kasse 1000 EUR Stufe 1 (stufe_2_freigeschaltet=false): Einsaetze 0.5-2% - keine aggressiven 3-5% Stufe-2-Saetze"
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
+}
