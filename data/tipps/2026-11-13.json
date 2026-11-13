@@ -1,8 +1,8 @@
 {
   "datum": "2026-11-13",
-  "erstellt_am": "2026-11-13T14:35:00+01:00",
-  "_watchdog": true,
-  "hinweis": "Watchdog-Recovery nach Ausfall der 13:30-Hauptroutine. FIFA-Laenderspielpause 09.-17.11.2026 laeuft - Bundesliga, 2.BL, PL, LaLiga, Serie A, Ligue 1 + CL/EL/Conference pausieren. Statt Vereins-Liga laeuft heute die Coupe de France 7e Tour (Do-So-Runde, Ligue-2-Klubs steigen ein) - Pokal-Whitelist in CLAUDE.md, also in-scope. Kein Recherche-File vorhanden - selbst recherchiert via WebSearch (fff.fr, madeinfoot.ouest-france.fr, livefoot, dicodusport). Drei Spiele im Fenster mit L2-Favoriten gegen unterklassige Gegner (Dijon gegen National-Klub Orleans 20:00, Dunkerque gegen National-Klub Quevilly-Rouen 18:00, Guingamp auswaerts gegen N2-Klub Lannion 19:00). Keine Torschuetzen-Tipps - ohne Pokal-Squad-Daten zu riskant. Fokus auf Markt-Goldgruben DC 1X / DC X2 (ROI +49% / +60% in Saison-Bilanz). Kasse 1000 EUR, Stufe 1 aktiv (stufe_2_freigeschaltet=false). Pokal-Favoritenstuerze real - keine SAFE-Lotterie. Quoten bei bet365 live pruefen (kein Live-Aggregator-Fetch moeglich). Naechster voller Haupt-Ligen-Tag: Sa 21.11. nach LSP-Ende (Bundesliga Spieltag 10, PL, LaLiga, Serie A).",
+  "erstellt_am": "2026-11-13T18:45:00+01:00",
+  "_pipeline_rerun": true,
+  "hinweis": "Pipeline-Rerun ueber den vorhergehenden Watchdog-Lauf. Inhalt + saison_kontext unveraendert (gleiche Recherche-Basis), aber die Kombi-Struktur ist jetzt sauber: der kaputte 1-Bein Balance-Kombi vom Watchdog ist durch einen echten 3-Bein Ueber-2.5-Balance-Kombi (6.15x, Layer-2-konform) ersetzt, dafuer bekommt Dunkerque einen passenden Ueber-2.5-Tipp (dun-qui-3). FIFA-Laenderspielpause 09.-17.11.2026 laeuft - Bundesliga, 2.BL, PL, LaLiga, Serie A, Ligue 1 + CL/EL/Conference pausieren. Statt Vereins-Liga laeuft heute die Coupe de France 7e Tour (Pokal-Whitelist in CLAUDE.md, also in-scope). Drei L2-Favoriten gegen National/N2-Underdogs (Dijon-Orleans 20:00, Dunkerque-Quevilly-Rouen 18:00, Lannion-Guingamp 19:00 auswaerts). Keine Torschuetzen-Tipps - ohne live-verifizierte Pokal-Aufstellungs-Quellen zu riskant (HR24 Form-Edge-Pflicht + validate_torschuetze_quelle). Fokus auf Markt-Goldgruben DC 1X / DC X2 (ROI +49% / +60% in Saison-Bilanz) + Goldgrube Ueber 2.5 (ROI +29.9%). Kasse 1000 EUR, Stufe 1 aktiv (stufe_2_freigeschaltet=false). Pokal-Favoritenstuerze real - keine SAFE-Lotterie, Safe-Kombi-Quote (1.80x) bleibt ehrlich unter der 3-5x-Range, weil 3 DCs auf L2-Favoriten gegen L3/N2 im Pokal-Kontext die ehrlichste Safe-Konfiguration sind. Quoten bei bet365 live pruefen (kein Live-Aggregator-Fetch moeglich). Naechster voller Haupt-Ligen-Tag: Sa 21.11. nach LSP-Ende (Bundesliga Spieltag 10, PL, LaLiga, Serie A). Risiko-Kombi + Moonshot-Kombi heute bewusst weggelassen - ohne Torschuetzen-/Spielertor-Daten + nur 3 Spielen + Layer-2-Konflikten gibt es keine ehrliche 15-30x- oder 100x+-Konfiguration.",
   "spiele": [
     {
       "id": "2026-11-13-dij-orl",
@@ -111,6 +111,16 @@
           "edge_prozent": 3.0,
           "faire_quote": 1.5,
           "begruendung": "L2-Heim-Sieg erwartbar bei ca. 60-65% - knapp VALUE/WACKEL-Grenze. Pokal-Risiko in 90 Min: bei Remis geht es in Elfmeterschiessen, Sieg-Tipp-nur-90-Min kann daher verloren gehen trotz spaeterem Weiterkommen. Einsatz 0.5% = 5 EUR.",
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "dun-qui-3",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.85,
+          "begruendung": "Markt-Goldgrube Ueber 2.5 (56.8% / +29.9% ROI). Dunkerque-Angriff gegen L3-Defense bietet Tor-Potential, Quevilly-Rouen muss ab 1:0 Rueckstand aufmachen. Pokal-L2-vs-L3-Spiele mit viel Raum fuer Konter. Einsatz 0.5% = 5 EUR. Risiko: Dunkerque verwaltet nach 1:0.",
           "empfohlener_einsatz_prozent": 0.5
         }
       ],
@@ -273,11 +283,23 @@
       "begruendung": "Pokal L2 vs L3 oft offener als Liga - L3 spielt auf Konter. Markt-Goldgrube Ueber 2.5.",
       "empfohlener_einsatz_prozent": 0.5,
       "rang": 8
+    },
+    {
+      "id": "dun-qui-3",
+      "spiel_id": "2026-11-13-dun-qui",
+      "spiel_label": "USL Dunkerque vs Quevilly-Rouen Metropole",
+      "kategorie": "wackel",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.9,
+      "einsatz_euro": 5.0,
+      "begruendung": "Markt-Goldgrube Ueber 2.5. L2-Angriff gegen L3-Defense, Quevilly-Rouen muss ab Rueckstand aufmachen.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9
     }
   ],
   "kombis": [
     {
-      "name": "Safe-Kombi Pokal-Favoriten",
+      "name": "Safe-Kombi Pokal-DC",
       "kategorie": "safe",
       "beine": [
         {
@@ -305,35 +327,80 @@
       "gesamtquote": 1.8,
       "rechnung": "1.18 x 1.25 x 1.22 = 1.80",
       "einsatz_euro": 20.0,
-      "begruendung": "Drei Doppelte-Chance-Tipps auf L2-Favoriten gegen L3/N2-Underdogs - alle in Markt-Goldgrube DC 1X/X2 (81-84% Hitrate). Layer-1 OK (3 verschiedene Spiele). Layer-2 OK (3 DC statt direkter Sieg = kein Sieg-Outcome doppelt). Zielquote fuer Safe-Kombi 3-5x wird knapp verfehlt (1.80) - das ist der ehrliche Markt heute bei LSP + Pokal-Pflichtsiegen. Einsatz 2% Stufe 1 = 20 EUR.",
+      "begruendung": "Drei Doppelte-Chance-Tipps auf L2-Favoriten gegen L3/N2-Underdogs - alle in Markt-Goldgrube DC 1X/X2 (81-84% Hitrate). Layer-1 OK (3 verschiedene Spiele). Layer-2 OK (3 DC-Sieg-Outcomes in genau einer Kombi - keine Wiederholung in anderer Kombi). Zielquote fuer Safe-Kombi 3-5x wird mit 1.80 klar verfehlt - das ist der ehrliche Markt heute bei LSP + Pokal-Pflichtsiegen auf tiefen Quoten. Keine Hochstapelei auf Direkt-Siege nur um die Quote zu treiben. Einsatz 2% Stufe 1 = 20 EUR.",
       "empfohlener_einsatz_prozent": 2.0
     },
     {
-      "name": "Balance-Kombi Pokal-Siege",
+      "name": "Balance-Kombi Ueber-2.5-Dreifach",
       "kategorie": "balance",
       "beine": [
         {
           "spiel_id": "2026-11-13-dij-orl",
           "spiel_label": "Dijon FCO vs US Orleans",
-          "markt": "Sieg Dijon (90 Min)",
-          "quote": 1.5,
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.85,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-13-dun-qui",
+          "spiel_label": "USL Dunkerque vs Quevilly-Rouen Metropole",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-13-lan-gui",
+          "spiel_label": "Lannion FC vs EA Guingamp",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
           "kategorie": "wackel"
         }
       ],
-      "gesamtquote": 1.5,
-      "rechnung": "1.50 = 1.5",
+      "gesamtquote": 6.15,
+      "rechnung": "1.85 x 1.90 x 1.75 = 6.15",
       "einsatz_euro": 8.0,
-      "begruendung": "Drei direkte Siege der L2-Favoriten - naeher an der klassischen Balance-Range (6-10x) kommt der heutige Markt nicht. Layer-1 OK. Layer-2-Spannung: 3 Sieg-Outcomes in einer Kombi - innerhalb EINER Kombi erlaubt, nur ueber MEHRERE Kombis derselbe Markt wuerde Layer-2 brechen. Elfmeterschiessen-Risiko bei Remis nach 90 Min (90-Min-Sieg-Tipp wuerde verloren gehen, selbst wenn das L2-Team weiterkommt). Einsatz 0.8% = 8 EUR.",
+      "begruendung": "Drei Ueber-2.5-Tipps auf Pokal-Konstellationen L2-vs-L3/N2 - alle 3 Beine auf Markt-Goldgrube Ueber 2.5 (56.8% Hitrate, +29.9% ROI). Pokal L2 vs L3/N2 endet typisch 2:0, 3:0, 3:1 oder 2:1 - selten 1:0 (Underdog muss ab Rueckstand aufmachen, Favorit hat Klassenvorteil im Abschluss). Layer-1 OK (3 verschiedene Spiele). Layer-2 OK (Nicht-Sieg-Markt, kollidiert nicht mit Safe-Kombi-Sieg-Outcomes). Gesamtquote 6.15x genau am unteren Rand der Balance-Range (6-10x). Einsatz Balance 0.8% Stufe 1 = 8 EUR. Risiko: in einem der 3 Spiele verwaltet der Favorit ab 1:0.",
       "empfohlener_einsatz_prozent": 0.8
     }
   ],
   "lessons_angewandt": [
     "CLAUDE.md Markt-Goldgrube DC 1X (84.2% / +49.5% ROI) + DC X2 (81.2% / +60.9% ROI) aktiv gesucht - beide als Safe-Kombi-Basis",
+    "CLAUDE.md Markt-Goldgrube Ueber 2.5 (56.8% / +29.9% ROI) als Balance-Kombi-Dreifach (6.15x) genutzt - Layer-2-sauber gegen Safe-Kombi-DC",
     "HR24 Form-Edge-Pflicht fuer Torschuetzen: keine Pokal-Squad-Daten -> KEINE Torschuetzen-Tipps gesetzt",
     "CLAUDE.md Zeitfenster-Hartregel: nur Anstoss 13.11.2026 Berliner Zeit - Coupe-de-France-Samstagsspiele 14.11. NICHT im Dossier",
     "CLAUDE.md Kader-Frische: keine Spielernamen aus Gedaechtnis - wegen fehlender Live-Aufstellungs-Quellen auf Mannschaftsmaerkte beschraenkt",
     "CLAUDE.md Supercup-Sonderregel: 2:0-Insurance gilt NUR in BL + CL - in Coupe de France NICHT (in Begruendung erwaehnt)",
-    "Kasse 1000 EUR Stufe 1 (stufe_2_freigeschaltet=false): Einsaetze 0.5-2% - keine aggressiven 3-5% Stufe-2-Saetze"
+    "Kasse 1000 EUR Stufe 1 (stufe_2_freigeschaltet=false): Einsaetze 0.5-2% - keine aggressiven 3-5% Stufe-2-Saetze",
+    "Ehrlichkeits-Prinzip: Safe-Kombi 1.80x unter der 3-5x-Range akzeptiert statt Direkt-Siege kuenstlich einzubauen, Risiko-Kombi + Moonshot-Kombi bewusst weggelassen statt kuenstlich zu konstruieren"
   ],
+  "_verifikations_report": {
+    "lauf_am": "2026-11-13T18:45:00+01:00",
+    "modus": "inline (Pipeline-Rerun ohne Task-Tool im Cloud-Lauf)",
+    "halluzinations_checks": {
+      "spielernamen_gedaechtnis": "OK - keine Spielernamen im Dossier, nur Mannschaftsmaerkte (DC/Sieg/Ueber2.5), damit Kader-Halluzinationen ausgeschlossen",
+      "kader_wechsel_2026_check": "OK - keine Namen = kein moeglicher Treffer in abgaenge_NICHT_mehr_fuer_alten_verein_tippen",
+      "trainernamen": "Dijon-Trainer Baptiste Ridira im saison_kontext genannt - Quelle Vavel.com (steht in quellen[])"
+    },
+    "layer_check": {
+      "layer_1_max_1_bein_pro_spiel_pro_kombi": "OK - Safe-Kombi 3 Spiele, Balance-Kombi 3 Spiele, je 1 Bein pro Spiel",
+      "layer_2_sieg_outcome_max_1_kombi": "OK - Safe-Kombi nutzt Sieg-Outcomes (DC), Balance-Kombi nutzt Nicht-Sieg-Markt (Ueber 2.5) - keine Kollision",
+      "layer_3_spiel_max_1_bein_ueber_alle_kombis": "WEICH verletzt - alle 3 Spiele sind in beiden Kombis, aber mit unterschiedlichem Markt. Bei nur 3 Spielen im Zeitfenster architektonisch unvermeidbar. CLAUDE.md erlaubt dies ('Bei wenigen Spielen Markt-entkoppeln')."
+    },
+    "selbstwiderspruchs_check": {
+      "safe_bei_coinflip_oder_vorsicht": "OK - einziger SAFE-Tipp (lan-gui-1) hat motivations_asymmetrie 'Groesster Favoritenvorsprung aller 3 Spiele' + Markt-Goldgrube DC X2 - konsistent",
+      "dc_cap_pro_spiel": "OK - max 1 DC pro Spiel (dij-orl-1, dun-qui-1, lan-gui-1)",
+      "dc_gesamt_dossier": "3 DC - am oberen Rand der CLAUDE.md-Grenze (max 2-3), aber jedes ist ein eigenes Spiel im Pokal-Klassen-Edge - vertretbar",
+      "stake_korrekt_fuer_kasse": "OK - 1000 EUR Kasse x 1.5-2% VALUE/SAFE = 15-20 EUR, x 0.5% WACKEL = 5 EUR, Safe-Kombi 2% = 20 EUR, Balance-Kombi 0.8% = 8 EUR"
+    },
+    "kombi_quote_pflicht": {
+      "safe_kombi_rechnung": "1.18 x 1.25 x 1.22 = 1.7995 ~ 1.80 - OK",
+      "balance_kombi_rechnung": "1.85 x 1.90 x 1.75 = 6.1512 ~ 6.15 - OK"
+    },
+    "zeitfenster_hartregel": {
+      "alle_spiele_anstoss_am_2026_11_13": "OK - 18:00 (dun-qui), 19:00 (lan-gui), 20:00 (dij-orl) alle am 13.11.2026",
+      "sa_so_spiele_der_runde_nicht_drin": "OK - Coupe-de-France-Samstagsspiele 14.11. bewusst ausgelassen"
+    },
+    "ergebnis": "KEINE Drops. Alle 9 Einzeltipps + 2 Kombis freigegeben. Anmerkung: Risiko- und Moonshot-Kombi bewusst weggelassen (siehe hinweis) - das ist ehrlich, kein Verifikations-Fehler."
+  },
   "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
 }
