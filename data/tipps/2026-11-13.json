@@ -46,7 +46,7 @@
           "id": "dij-orl-2",
           "kategorie": "wackel",
           "markt": "Sieg Dijon (90 Min)",
-          "quote": 1.50,
+          "quote": 1.5,
           "edge_prozent": 3.0,
           "faire_quote": 1.45,
           "begruendung": "Direkter Sieg des L2-Favoriten in 90 Min - Pokal-Rate ~60-65% fuer L2 gegen L3 bei Heimrecht. Orleans hat Dijon in der Vorsaison in gleicher Klasse geschlagen - Favoriten-Sturz real. Einsatz 0.5% Wackel-Level = 5 EUR. Keine 2:0-Insurance in Coupe de France (nur BL + CL).",
@@ -58,7 +58,7 @@
           "markt": "Ueber 2.5 Tore",
           "quote": 1.85,
           "edge_prozent": 2.0,
-          "faire_quote": 1.80,
+          "faire_quote": 1.8,
           "begruendung": "Pokal-Spiele L2 vs L3 enden oft offener als Liga - L3-Klub spielt meist auf Konter, defensive Luecken. Markt-Goldgrube Ueber 2.5 (56.8% Hitrate, positiver ROI). Einsatz 0.5%. Risiko: taktisch gebremst wenn Dijon 1:0 fuehrt und verwaltet.",
           "empfohlener_einsatz_prozent": 0.5
         }
@@ -99,7 +99,7 @@
           "markt": "Dunkerque oder Remis (Doppelte Chance 1X)",
           "quote": 1.25,
           "edge_prozent": 4.5,
-          "faire_quote": 1.20,
+          "faire_quote": 1.2,
           "begruendung": "L2-Heim gegen L3, Markt-Goldgrube DC 1X (84.2% / +49.5% ROI). Quote 1.25 knapp unter SAFE-Range - deshalb VALUE. Einsatz 1.5% = 15 EUR. Risiko: Dunkerque Mittelfeld-L2 ist kein Top-L2-Favorit - daher kein SAFE trotz Klasse.",
           "empfohlener_einsatz_prozent": 1.5
         },
@@ -109,7 +109,7 @@
           "markt": "Sieg Dunkerque (90 Min)",
           "quote": 1.55,
           "edge_prozent": 3.0,
-          "faire_quote": 1.50,
+          "faire_quote": 1.5,
           "begruendung": "L2-Heim-Sieg erwartbar bei ca. 60-65% - knapp VALUE/WACKEL-Grenze. Pokal-Risiko in 90 Min: bei Remis geht es in Elfmeterschiessen, Sieg-Tipp-nur-90-Min kann daher verloren gehen trotz spaeterem Weiterkommen. Einsatz 0.5% = 5 EUR.",
           "empfohlener_einsatz_prozent": 0.5
         }
@@ -169,7 +169,7 @@
           "markt": "Ueber 2.5 Tore",
           "quote": 1.75,
           "edge_prozent": 2.0,
-          "faire_quote": 1.70,
+          "faire_quote": 1.7,
           "begruendung": "L2 gegen N2 im Pokal endet oft 2:0, 3:0, 3:1 - Klassen-Differenz schlaegt sich in Toren nieder. Lannion-Defense kann gegen L2-Angriff nicht lange standhalten. Einsatz 0.5%. Risiko: Guingamp macht 1:0 und verwaltet.",
           "empfohlener_einsatz_prozent": 0.5
         }
@@ -185,9 +185,10 @@
       "kategorie": "safe",
       "markt": "Remis oder Guingamp (Doppelte Chance X2)",
       "quote": 1.18,
-      "einsatz_prozent": 2.0,
       "einsatz_euro": 20.0,
-      "begruendung": "L2 gegen N2 (2 Klassen Differenz) + Markt-Goldgrube DC X2 (81.2% / +60.9% ROI). Staerkster Edge im Tagesdossier."
+      "begruendung": "L2 gegen N2 (2 Klassen Differenz) + Markt-Goldgrube DC X2 (81.2% / +60.9% ROI). Staerkster Edge im Tagesdossier.",
+      "empfohlener_einsatz_prozent": 2.0,
+      "rang": 1
     },
     {
       "id": "dun-qui-1",
@@ -196,9 +197,10 @@
       "kategorie": "value",
       "markt": "Dunkerque oder Remis (Doppelte Chance 1X)",
       "quote": 1.25,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 15.0,
-      "begruendung": "L2-Heim gegen L3 + Markt-Goldgrube DC 1X (84.2% / +49.5% ROI). Quote unter SAFE-Range, sonst waere es SAFE."
+      "begruendung": "L2-Heim gegen L3 + Markt-Goldgrube DC 1X (84.2% / +49.5% ROI). Quote unter SAFE-Range, sonst waere es SAFE.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
     },
     {
       "id": "dij-orl-1",
@@ -207,9 +209,10 @@
       "kategorie": "value",
       "markt": "Dijon oder Remis (Doppelte Chance 1X)",
       "quote": 1.22,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 15.0,
-      "begruendung": "L2-Heim gegen L3 + DC 1X Goldgrube. Orleans schlug Dijon in Vorsaison 3:2 - deshalb kein SAFE trotz Klasse."
+      "begruendung": "L2-Heim gegen L3 + DC 1X Goldgrube. Orleans schlug Dijon in Vorsaison 3:2 - deshalb kein SAFE trotz Klasse.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
     },
     {
       "id": "lan-gui-2",
@@ -218,9 +221,10 @@
       "kategorie": "value",
       "markt": "Sieg Guingamp (90 Min)",
       "quote": 1.45,
-      "einsatz_prozent": 1.5,
       "einsatz_euro": 15.0,
-      "begruendung": "Direkter L2-Sieg gegen N2 in 90 Min bei 2 Klassen Differenz. Quote im VALUE-Band."
+      "begruendung": "Direkter L2-Sieg gegen N2 in 90 Min bei 2 Klassen Differenz. Quote im VALUE-Band.",
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 4
     },
     {
       "id": "dij-orl-2",
@@ -228,10 +232,11 @@
       "spiel_label": "Dijon FCO vs US Orleans",
       "kategorie": "wackel",
       "markt": "Sieg Dijon (90 Min)",
-      "quote": 1.50,
-      "einsatz_prozent": 0.5,
+      "quote": 1.5,
       "einsatz_euro": 5.0,
-      "begruendung": "Dijon Mittelfeld-L2 ist kein Top-Favorit - direkter Sieg gegen Orleans (historisch 3:2 im Mai) ist Wackel."
+      "begruendung": "Dijon Mittelfeld-L2 ist kein Top-Favorit - direkter Sieg gegen Orleans (historisch 3:2 im Mai) ist Wackel.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 5
     },
     {
       "id": "dun-qui-2",
@@ -240,9 +245,10 @@
       "kategorie": "wackel",
       "markt": "Sieg Dunkerque (90 Min)",
       "quote": 1.55,
-      "einsatz_prozent": 0.5,
       "einsatz_euro": 5.0,
-      "begruendung": "L2-Heim-Sieg in 90 Min gegen L3 - Standard-Wackel. Elfmeterschiessen-Risiko bei Remis."
+      "begruendung": "L2-Heim-Sieg in 90 Min gegen L3 - Standard-Wackel. Elfmeterschiessen-Risiko bei Remis.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 6
     },
     {
       "id": "lan-gui-3",
@@ -251,9 +257,10 @@
       "kategorie": "wackel",
       "markt": "Ueber 2.5 Tore",
       "quote": 1.75,
-      "einsatz_prozent": 0.5,
       "einsatz_euro": 5.0,
-      "begruendung": "L2 gegen N2 im Pokal oft 2:0/3:0/3:1. Klassen-Differenz schlaegt sich in Toren nieder."
+      "begruendung": "L2 gegen N2 im Pokal oft 2:0/3:0/3:1. Klassen-Differenz schlaegt sich in Toren nieder.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 7
     },
     {
       "id": "dij-orl-3",
@@ -262,9 +269,10 @@
       "kategorie": "wackel",
       "markt": "Ueber 2.5 Tore",
       "quote": 1.85,
-      "einsatz_prozent": 0.5,
       "einsatz_euro": 5.0,
-      "begruendung": "Pokal L2 vs L3 oft offener als Liga - L3 spielt auf Konter. Markt-Goldgrube Ueber 2.5."
+      "begruendung": "Pokal L2 vs L3 oft offener als Liga - L3 spielt auf Konter. Markt-Goldgrube Ueber 2.5.",
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 8
     }
   ],
   "kombis": [
@@ -294,43 +302,29 @@
           "kategorie": "value"
         }
       ],
-      "gesamtquote": 1.80,
+      "gesamtquote": 1.8,
       "rechnung": "1.18 x 1.25 x 1.22 = 1.80",
-      "einsatz_prozent": 2.0,
       "einsatz_euro": 20.0,
-      "begruendung": "Drei Doppelte-Chance-Tipps auf L2-Favoriten gegen L3/N2-Underdogs - alle in Markt-Goldgrube DC 1X/X2 (81-84% Hitrate). Layer-1 OK (3 verschiedene Spiele). Layer-2 OK (3 DC statt direkter Sieg = kein Sieg-Outcome doppelt). Zielquote fuer Safe-Kombi 3-5x wird knapp verfehlt (1.80) - das ist der ehrliche Markt heute bei LSP + Pokal-Pflichtsiegen. Einsatz 2% Stufe 1 = 20 EUR."
+      "begruendung": "Drei Doppelte-Chance-Tipps auf L2-Favoriten gegen L3/N2-Underdogs - alle in Markt-Goldgrube DC 1X/X2 (81-84% Hitrate). Layer-1 OK (3 verschiedene Spiele). Layer-2 OK (3 DC statt direkter Sieg = kein Sieg-Outcome doppelt). Zielquote fuer Safe-Kombi 3-5x wird knapp verfehlt (1.80) - das ist der ehrliche Markt heute bei LSP + Pokal-Pflichtsiegen. Einsatz 2% Stufe 1 = 20 EUR.",
+      "empfohlener_einsatz_prozent": 2.0
     },
     {
       "name": "Balance-Kombi Pokal-Siege",
       "kategorie": "balance",
       "beine": [
         {
-          "spiel_id": "2026-11-13-lan-gui",
-          "spiel_label": "Lannion FC vs EA Guingamp",
-          "markt": "Sieg Guingamp (90 Min)",
-          "quote": 1.45,
-          "kategorie": "value"
-        },
-        {
           "spiel_id": "2026-11-13-dij-orl",
           "spiel_label": "Dijon FCO vs US Orleans",
           "markt": "Sieg Dijon (90 Min)",
-          "quote": 1.50,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-11-13-dun-qui",
-          "spiel_label": "USL Dunkerque vs Quevilly-Rouen Metropole",
-          "markt": "Sieg Dunkerque (90 Min)",
-          "quote": 1.55,
+          "quote": 1.5,
           "kategorie": "wackel"
         }
       ],
-      "gesamtquote": 3.37,
-      "rechnung": "1.45 x 1.50 x 1.55 = 3.37",
-      "einsatz_prozent": 0.8,
+      "gesamtquote": 1.5,
+      "rechnung": "1.50 = 1.5",
       "einsatz_euro": 8.0,
-      "begruendung": "Drei direkte Siege der L2-Favoriten - naeher an der klassischen Balance-Range (6-10x) kommt der heutige Markt nicht. Layer-1 OK. Layer-2-Spannung: 3 Sieg-Outcomes in einer Kombi - innerhalb EINER Kombi erlaubt, nur ueber MEHRERE Kombis derselbe Markt wuerde Layer-2 brechen. Elfmeterschiessen-Risiko bei Remis nach 90 Min (90-Min-Sieg-Tipp wuerde verloren gehen, selbst wenn das L2-Team weiterkommt). Einsatz 0.8% = 8 EUR."
+      "begruendung": "Drei direkte Siege der L2-Favoriten - naeher an der klassischen Balance-Range (6-10x) kommt der heutige Markt nicht. Layer-1 OK. Layer-2-Spannung: 3 Sieg-Outcomes in einer Kombi - innerhalb EINER Kombi erlaubt, nur ueber MEHRERE Kombis derselbe Markt wuerde Layer-2 brechen. Elfmeterschiessen-Risiko bei Remis nach 90 Min (90-Min-Sieg-Tipp wuerde verloren gehen, selbst wenn das L2-Team weiterkommt). Einsatz 0.8% = 8 EUR.",
+      "empfohlener_einsatz_prozent": 0.8
     }
   ],
   "lessons_angewandt": [
