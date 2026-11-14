@@ -259,7 +259,35 @@
           "clv_quelle": null
         }
       ],
-      "volle_analyse": null
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": null,
+        "tore": [],
+        "drehung": {
+          "war_drehung": null,
+          "details": null
+        },
+        "markt_resultate": {
+          "btts": null,
+          "ueber_1_5": null,
+          "ueber_2_5": null,
+          "ueber_3_5": null,
+          "halbzeit_endstand": null,
+          "kein_team_zu_null": null
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Coupe de France 7e Tour USL Dunkerque - US Quevilly-Rouen Metropole ist laut FFF Parcours-Coupe / bein Sports / Flashscore / Sofascore auf Samstag 2026-11-14 17:00 UTC (18:00 CET) terminiert, Stade Marcel-Tribut Dunkerque. Dossier-Zeitstempel 2026-11-13T18:00+01:00 war falsch. Spiel zum Watchdog-Zeitpunkt 2026-11-14 09:00 CET noch nicht angepfiffen - Auswertung erfolgt im naechsten Routinelauf."
+        ],
+        "quellen": [
+          "https://www.fff.fr/parcours/competition/coupe-de-france/club/usl-dunkerque",
+          "https://www.beinsports.com/fr-fr/coupe-de-france",
+          "https://www.flashscore.de/mannschaft/usl-dunkerque/"
+        ],
+        "pending": true,
+        "pending_grund": "Coupe de France 7e Tour USL Dunkerque - US Quevilly-Rouen Metropole ist laut FFF Parcours-Coupe / bein Sports / Flashscore / Sofascore auf Samstag 2026-11-14 17:00 UTC (18:00 CET) terminiert, Stade Marcel-Tribut Dunkerque. Dossier-Zeitstempel 2026-11-13T18:00+01:00 war falsch. Spiel zum Watchdog-Zeitpunkt 2026-11-14 09:00 CET noch nicht angepfiffen - Auswertung erfolgt im naechsten Routinelauf."
+      }
     },
     {
       "id": "2026-11-13-lan-gui",
@@ -363,7 +391,35 @@
           "clv_quelle": null
         }
       ],
-      "volle_analyse": null
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": null,
+        "tore": [],
+        "drehung": {
+          "war_drehung": null,
+          "details": null
+        },
+        "markt_resultate": {
+          "btts": null,
+          "ueber_1_5": null,
+          "ueber_2_5": null,
+          "ueber_3_5": null,
+          "halbzeit_endstand": null,
+          "kein_team_zu_null": null
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Coupe de France 7e Tour Lannion FC - EA Guingamp ist laut bein Sports / Ouest-France Vorbericht / Flashscore / Flashfootball auf Samstag 2026-11-14 19:00 CET terminiert, Stade Rene-Guillou Lannion. Ouest-France Vorbericht: \"coup d envoi samedi 14 novembre 2026 a 19h00\". Dossier-Zeitstempel 2026-11-13T19:00+01:00 war falsch. Spiel zum Watchdog-Zeitpunkt 2026-11-14 09:00 CET noch nicht angepfiffen - Auswertung erfolgt im naechsten Routinelauf."
+        ],
+        "quellen": [
+          "https://www.beinsports.com/fr-fr/coupe-de-france",
+          "https://www.ouest-france.fr/sport/football/coupe-de-france/",
+          "https://www.flashscore.de/mannschaft/lannion-fc/"
+        ],
+        "pending": true,
+        "pending_grund": "Coupe de France 7e Tour Lannion FC - EA Guingamp ist laut bein Sports / Ouest-France Vorbericht / Flashscore / Flashfootball auf Samstag 2026-11-14 19:00 CET terminiert, Stade Rene-Guillou Lannion. Ouest-France Vorbericht: \"coup d envoi samedi 14 novembre 2026 a 19h00\". Dossier-Zeitstempel 2026-11-13T19:00+01:00 war falsch. Spiel zum Watchdog-Zeitpunkt 2026-11-14 09:00 CET noch nicht angepfiffen - Auswertung erfolgt im naechsten Routinelauf."
+      }
     }
   ],
   "einzeltipps": [
@@ -766,6 +822,16 @@
   "auswertung_warnung": {
     "zeitfenster_dossier_fehler": "Das Dossier hat alle 3 Spiele mit anstoss 2026-11-13 ausgewiesen, tatsaechlich fand nur Dijon-Orleans am 13.11. statt. Die beiden anderen Spiele (Dunkerque-Quevilly-Rouen, Lannion-Guingamp) sind laut FFF/beinSports/Flashscore Samstag-Slate 14.11.2026 - Zeitfenster-Hartregel in CLAUDE.md wurde bei der Dossier-Erstellung verletzt. Tipps dieser beiden Spiele bleiben 'offen' und werden am 2026-11-14 ausgewertet. Verifikationsbericht im Dossier hat den Fehler nicht erkannt (behauptete 'alle_spiele_anstoss_am_2026_11_13: OK').",
     "gespielte_spiele": 1,
-    "offene_spiele": 2
+    "offene_spiele": 2,
+    "watchdog_runs": [
+      {
+        "zeitpunkt": "2026-11-14T09:00+01:00",
+        "befund": "Zwei NOT_PLAYED_ON_DATE-Spiele hatten keinen volle_analyse-Block. Watchdog hat beide als pending=true nachgetragen (halbzeit/endstand=null, patterns=Terminquellen).",
+        "fehlende_volle_analyse_ergaenzt": 2,
+        "aenderungen_an_tipps_ergebnis": 0,
+        "aenderungen_an_statistik": 0,
+        "aenderungen_an_lessons": 0
+      }
+    ]
   }
 }
