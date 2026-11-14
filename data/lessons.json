@@ -4055,7 +4055,30 @@
       "kategorie": "HR11-13-3 Spaet-Tor-Cluster-Fortsetzung Pokal",
       "lesson": "Spaete-Tore-Cluster-Pattern (8g) laeuft weiter: beide Grenoble-Tore fielen in der 76. (Djitte) und 89. (Magnin) Min - Cluster-Fortsetzung konsistent mit Oktober-/November-Trend (zuletzt 11.07. Spaet-Tor-Cluster, 10.19. 9/10 Spiele Min75+, 11.02. 3/5 Spielen Min85+). Wenn in Mehrklassen-Pokal-Begegnungen die Klassendifferenz nicht frueh durchschlaegt (HZ 0:0 bei 2-Klassen-Edge), ist die Trefferzeit fast immer im letzten Viertel, selten im ersten. Konsequenz: bei Mehrklassen-Pokal-Dossiers ist 'Tor in 2. Halbzeit' / 'Tor nach der 75.' systematisch besser als 'frueher Tor' - und erst-Torschuetzen-Tipps sind riskant. 8g.",
       "bezug_spiel_id": "2026-11-12-cha-gre"
+    },
+    {
+      "datum": "2026-11-13",
+      "kategorie": "Zeitfenster-Dossier-Fehler Pokal Datum-Verifikation extern",
+      "lesson": "Die Tipps-Routine hat am 13.11.2026 drei Coupe-de-France-7e-Tour-Spiele ins Tages-Dossier gesetzt - tatsaechlich fand nur Dijon-Orleans am Freitag statt. Dunkerque-Quevilly-Rouen und Lannion-Guingamp stehen laut FFF/beinSports/Flashscore fest auf Samstag 14.11.2026 (Saturday-Slate). Der interne Verifikationsreport hat 'alle_spiele_anstoss_am_2026_11_13: OK' bestaetigt, ohne den Zeitstempel extern zu verifizieren - weil der Zeitstempel im Dossier selbst stand (self-referential). Konsequenz: bei Pokal-Wettbewerben (Coupe de France, FA Cup, Coppa, DFB-Pokal) muss die Routine den Anstoss-Tag IMMER extern pruefen - FFF-Spieltagsliste (fff.fr/parcours-coupe-{team}) ist die kanonische Quelle fuer Coupe de France. Internes Dossier-Datum ist KEINE verifizierte Quelle. fix_schema.py validate_datum_scope kann hier nicht helfen, weil der Dossier-Zeitstempel formell in Scope liegt - die externe Realitaet nicht."
+    },
+    {
+      "datum": "2026-11-13",
+      "kategorie": "Pokal DC 1X Mittelfeld-L2 kein Aggregat-Edge Favoritensturz Dijon",
+      "lesson": "Dijon FCO (L2, 9. Platz Mittelfeld) als Heim gegen Orleans (L3) bei 1.22 DC 1X - verloren (Endstand 1:2, HZ 0:2). Die Markt-Goldgrube 'DC 1X' (84.2%, +49.5% ROI) ist ein Aggregat ueber ALLE Dossier-DC-1X-Tipps - ueberwiegend starke Top-5-Teams in Liga-Begegnungen. Fuer Mittelfeld-L2 gegen L3-Underdog mit frischem 3:2-Sieg des Underdogs in der Vorsaison (dokumentiert im saison_kontext) ist die Goldgrube-Hitrate NICHT uebertragbar. Das Risiko war in der Begruendung sogar explizit benannt ('Favoritensturz real') - trotzdem als VALUE gesetzt. Hartregel: Pokal-DC-1X nur auf L2-Top-5 bei Heimrecht gegen L3/N2, nicht auf L2-Mittelfeld-Teams mit dokumentierter Niederlage gegen den gleichen Gegner. Zweiter Pokal-Favoritensturz in 48 h (Chambery R1 hielt gegen Grenoble L2 bis 75. Min 0:0 - selbes Muster: L2-Favorit ist im Pokal fragiler als die Liga-Statistik suggeriert).",
+      "bezug_spiel_id": "2026-11-13-dij-orl"
+    },
+    {
+      "datum": "2026-11-13",
+      "kategorie": "8h Pokal-Favoritensturz-Cluster Bundesliga-Pause-Fenster L2-Fragilitaet",
+      "lesson": "Seit Beginn der FIFA-LSP 09.-17.11.2026 haeufen sich Pokal-Edge-Verluste auf L2-Favoriten in Mehrklassen-Begegnungen: 12.11. Chambery (R1) - Grenoble (L2) Grenoble gewann zwar, aber Underdog hielt bis 75. Min 0:0 (Ueber-2.5-Value verloren); 13.11. Dijon (L2 Mittelfeld) verliert daheim gegen Orleans (L3). Interpretation: L2-Vereine stehen in LSP-Fenstern dem Pokal gegenueber ohne Liga-Rhythmus und ohne Rotationsentlastung - der Edge gegen L3/N2/R1 ist deutlich geringer als die Klassendifferenz vermuten laesst, speziell wenn das L2-Team nicht Top-5-Form zeigt. Konsequenz fuer kommende Pokal-Dossiers (Coupe-de-France 8e Tour Dezember, DFB-Pokal etc.): L2-DC-/Sieg-Tipps auf NICHT-Top-5-L2-Teams systematisch auf WACKEL downgraden. SAFE-Kombi-Bausteine aus solchen Begegnungen vermeiden - lieber Kombi-Quote unter Ziel-Range akzeptieren als Dijon-/Chambery-aehnliche Favoritenstuerze im Kombi-Bein.",
+      "bezug_spiel_id": "2026-11-13-dij-orl"
+    },
+    {
+      "datum": "2026-11-13",
+      "kategorie": "Pokal Ueber 2.5 bei L2 vs L3 Elfmeter-Dynamik-Bestaetigung",
+      "lesson": "Dijon-Orleans 1:2 mit 3 Toren erfuellt Ueber 2.5 (@1.85 WACKEL getippt) - gegenlaeufig zum 12.11.-Pattern (Chambery-Grenoble exakt 2 Tore = Unter 2.5). Unterschied: wer in Fuehrung geht entscheidet, nicht die Klassendifferenz. Wenn der Pokal-Favorit frueh fuehrt -> verwaltet er -> Unter 2.5 tendiert. Wenn der Favorit frueh in Rueckstand geraet -> muss er aufmachen -> Ueber 2.5 tendiert. Bei 'Elfmeter-Entscheider' (Ndicka-Elfer 40. Min hier) wird die Spielform noch offener. Verfeinerung der 12.11.-Lesson 'HR11-13-2': Ueber 2.5 im Mehrklassen-Pokal ist WACKEL - statt VALUE als Default - aber bei dokumentierter Rueckschlag-Historie des Favoriten (Dijon hatte verlorene Vorsaison-Direktbegegnung) kippt die Wahrscheinlichkeit Richtung Ueber.",
+      "bezug_spiel_id": "2026-11-13-dij-orl"
     }
   ],
-  "stand": "2026-11-10"
+  "stand": "2026-11-14 (Auswertung 2026-11-13)"
 }

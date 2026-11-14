@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-11-13T06:13:35+00:00",
+  "letzte_berechnung": "2026-11-14T06:12:53+00:00",
   "gesamt": {
-    "tipps": 306,
-    "gewonnen": 181,
-    "verloren": 107,
+    "tipps": 315,
+    "gewonnen": 182,
+    "verloren": 109,
     "push": 1,
-    "offen": 17,
-    "einsatz": 289.0,
+    "offen": 23,
+    "einsatz": 292.0,
     "netto": 94.52,
-    "trefferquote": 62.8,
-    "roi_prozent": 32.7
+    "trefferquote": 62.5,
+    "roi_prozent": 32.4
   },
   "letzte_30_tage": {
-    "tipps": 128,
-    "gewonnen": 81,
-    "verloren": 41,
+    "tipps": 137,
+    "gewonnen": 82,
+    "verloren": 43,
     "push": 0,
-    "offen": 6,
-    "einsatz": 122.0,
+    "offen": 12,
+    "einsatz": 125.0,
     "netto": 18.97,
-    "trefferquote": 66.4,
-    "roi_prozent": 15.5
+    "trefferquote": 65.6,
+    "roi_prozent": 15.2
   },
   "letzte_90_tage": {
-    "tipps": 258,
-    "gewonnen": 160,
-    "verloren": 81,
+    "tipps": 257,
+    "gewonnen": 154,
+    "verloren": 80,
     "push": 0,
-    "offen": 17,
-    "einsatz": 241.0,
+    "offen": 23,
+    "einsatz": 234.0,
     "netto": 94.52,
-    "trefferquote": 66.4,
-    "roi_prozent": 39.2
+    "trefferquote": 65.8,
+    "roi_prozent": 40.4
   },
   "nach_liga": {
     "Liga Portugal Betclic 2026/27 - 1. Spieltag": {
@@ -817,12 +817,12 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 47.3
     },
     "Coupe de France 2026/27 - 7e Tour": {
-      "tipps": 3,
-      "gewonnen": 1,
-      "verloren": 2,
+      "tipps": 12,
+      "gewonnen": 2,
+      "verloren": 4,
       "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
+      "offen": 6,
+      "einsatz": 6.0,
       "netto": 0.0,
       "trefferquote": 33.3,
       "roi_prozent": 0.0
@@ -1105,15 +1105,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 25,
-      "gewonnen": 14,
+      "tipps": 28,
+      "gewonnen": 15,
       "verloren": 9,
       "push": 0,
-      "offen": 2,
-      "einsatz": 23.0,
+      "offen": 4,
+      "einsatz": 24.0,
       "netto": 7.57,
-      "trefferquote": 60.9,
-      "roi_prozent": 32.9
+      "trefferquote": 62.5,
+      "roi_prozent": 31.5
     },
     "Doppelte Chance: Deportivo La Coruna oder Unentschieden": {
       "tipps": 1,
@@ -2863,19 +2863,85 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Remis oder Guingamp (Doppelte Chance X2)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 0,
+      "push": 0,
+      "offen": 1,
+      "einsatz": 0.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Dunkerque oder Remis (Doppelte Chance 1X)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 0,
+      "push": 0,
+      "offen": 1,
+      "einsatz": 0.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Dijon oder Remis (Doppelte Chance 1X)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Sieg Guingamp (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 0,
+      "push": 0,
+      "offen": 1,
+      "einsatz": 0.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Sieg Dijon (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Sieg Dunkerque (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 0,
+      "push": 0,
+      "offen": 1,
+      "einsatz": 0.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
     "Sieg (1X2 / ML)": {
-      "tipps": 63,
+      "tipps": 66,
       "gewonnen": 32,
-      "verloren": 28,
+      "verloren": 29,
       "push": 1,
-      "offen": 2,
-      "einsatz": 61.0,
+      "offen": 4,
+      "einsatz": 62.0,
       "netto": 10.32,
-      "trefferquote": 53.3,
-      "roi_prozent": 16.9
+      "trefferquote": 52.5,
+      "roi_prozent": 16.6
     },
     "Unter 2.5 Tore": {
       "tipps": 15,
@@ -2900,11 +2966,11 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 21.4
     },
     "Doppelte Chance X2": {
-      "tipps": 16,
+      "tipps": 17,
       "gewonnen": 13,
       "verloren": 3,
       "push": 0,
-      "offen": 0,
+      "offen": 1,
       "einsatz": 16.0,
       "netto": 9.74,
       "trefferquote": 81.2,
@@ -2922,15 +2988,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 29.5
     },
     "Ueber 2.5 Tore": {
-      "tipps": 41,
-      "gewonnen": 21,
+      "tipps": 44,
+      "gewonnen": 22,
       "verloren": 16,
       "push": 0,
-      "offen": 4,
-      "einsatz": 37.0,
+      "offen": 6,
+      "einsatz": 38.0,
       "netto": 11.07,
-      "trefferquote": 56.8,
-      "roi_prozent": 29.9
+      "trefferquote": 57.9,
+      "roi_prozent": 29.1
     },
     "Torschuetzen Jederzeit": {
       "tipps": 35,
@@ -2988,15 +3054,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "Doppelte Chance 1X": {
-      "tipps": 19,
+      "tipps": 21,
       "gewonnen": 16,
-      "verloren": 3,
+      "verloren": 4,
       "push": 0,
-      "offen": 0,
-      "einsatz": 19.0,
+      "offen": 1,
+      "einsatz": 20.0,
       "netto": 9.4,
-      "trefferquote": 84.2,
-      "roi_prozent": 49.5
+      "trefferquote": 80.0,
+      "roi_prozent": 47.0
     },
     "Spread/Handicap": {
       "tipps": 4,
@@ -3144,26 +3210,26 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 136,
-      "gewonnen": 79,
-      "verloren": 53,
+      "tipps": 141,
+      "gewonnen": 80,
+      "verloren": 54,
       "push": 0,
-      "offen": 4,
-      "einsatz": 132.0,
+      "offen": 7,
+      "einsatz": 134.0,
       "netto": 57.41,
-      "trefferquote": 59.8,
-      "roi_prozent": 43.5
+      "trefferquote": 59.7,
+      "roi_prozent": 42.8
     },
     "1.00-1.50": {
-      "tipps": 130,
+      "tipps": 134,
       "gewonnen": 94,
-      "verloren": 25,
+      "verloren": 26,
       "push": 1,
-      "offen": 10,
-      "einsatz": 120.0,
+      "offen": 13,
+      "einsatz": 121.0,
       "netto": 38.36,
-      "trefferquote": 79.0,
-      "roi_prozent": 32.0
+      "trefferquote": 78.3,
+      "roi_prozent": 31.7
     },
     "2.00-3.00": {
       "tipps": 30,
@@ -3190,33 +3256,33 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "wackel": {
-      "tipps": 46,
-      "gewonnen": 21,
-      "verloren": 25,
+      "tipps": 51,
+      "gewonnen": 22,
+      "verloren": 26,
       "push": 0,
-      "offen": 0,
-      "einsatz": 46.0,
+      "offen": 3,
+      "einsatz": 48.0,
       "netto": 16.61,
-      "trefferquote": 45.7,
-      "roi_prozent": 36.1
+      "trefferquote": 45.8,
+      "roi_prozent": 34.6
     },
     "value": {
-      "tipps": 198,
+      "tipps": 201,
       "gewonnen": 114,
-      "verloren": 74,
+      "verloren": 75,
       "push": 1,
-      "offen": 9,
-      "einsatz": 189.0,
+      "offen": 11,
+      "einsatz": 190.0,
       "netto": 44.94,
-      "trefferquote": 60.6,
-      "roi_prozent": 23.8
+      "trefferquote": 60.3,
+      "roi_prozent": 23.7
     },
     "safe": {
-      "tipps": 60,
+      "tipps": 61,
       "gewonnen": 45,
       "verloren": 8,
       "push": 0,
-      "offen": 7,
+      "offen": 8,
       "einsatz": 53.0,
       "netto": 31.97,
       "trefferquote": 84.9,
@@ -3253,15 +3319,15 @@ window.__MIESMUSCHEL_STAT = {
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 306,
-      "gewonnen": 181,
-      "verloren": 107,
+      "tipps": 315,
+      "gewonnen": 182,
+      "verloren": 109,
       "push": 1,
-      "offen": 17,
-      "einsatz": 289.0,
+      "offen": 23,
+      "einsatz": 292.0,
       "netto": 94.52,
-      "trefferquote": 62.8,
-      "roi_prozent": 32.7
+      "trefferquote": 62.5,
+      "roi_prozent": 32.4
     },
     "kasse": {
       "name": "2026/27",
@@ -3298,21 +3364,192 @@ window.__MIESMUSCHEL_STAT = {
         "start": "2026-08-22",
         "ende": "2027-06-30",
         "bilanz": {
-          "tipps": 221,
-          "gewonnen": 145,
-          "verloren": 70,
+          "tipps": 230,
+          "gewonnen": 146,
+          "verloren": 72,
           "push": 0,
-          "offen": 6,
-          "einsatz": 215.0,
+          "offen": 12,
+          "einsatz": 218.0,
           "netto": 97.65,
-          "trefferquote": 67.4,
-          "roi_prozent": 45.4
+          "trefferquote": 67.0,
+          "roi_prozent": 44.8
         },
         "ist_aktuell": true
       }
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-11-13",
+      "gesamt": {
+        "tipps": 9,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 9,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [
+        {
+          "id": "2026-11-13-dij-orl",
+          "liga": "Coupe de France 2026/27 - 7e Tour",
+          "heim": "Dijon FCO",
+          "gast": "US Orleans",
+          "endstand": "1:2",
+          "tipps": [
+            {
+              "markt": "Dijon oder Remis (Doppelte Chance 1X)",
+              "quote": 1.22,
+              "kategorie": "value",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Dijon (90 Min)",
+              "quote": 1.5,
+              "kategorie": "wackel",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.85,
+              "kategorie": "wackel",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-11-13-dun-qui",
+          "liga": "Coupe de France 2026/27 - 7e Tour",
+          "heim": "USL Dunkerque",
+          "gast": "Quevilly-Rouen Metropole",
+          "endstand": null,
+          "tipps": [
+            {
+              "markt": "Dunkerque oder Remis (Doppelte Chance 1X)",
+              "quote": 1.25,
+              "kategorie": "value",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Dunkerque (90 Min)",
+              "quote": 1.55,
+              "kategorie": "wackel",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.9,
+              "kategorie": "wackel",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "id": "2026-11-13-lan-gui",
+          "liga": "Coupe de France 2026/27 - 7e Tour",
+          "heim": "Lannion FC",
+          "gast": "EA Guingamp",
+          "endstand": null,
+          "tipps": [
+            {
+              "markt": "Remis oder Guingamp (Doppelte Chance X2)",
+              "quote": 1.18,
+              "kategorie": "safe",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Guingamp (90 Min)",
+              "quote": 1.45,
+              "kategorie": "value",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "wackel",
+              "status": "offen",
+              "gewinn_faktor": 0.0,
+              "kommentar": ""
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi Pokal-DC",
+          "kategorie": "safe",
+          "gesamtquote": 1.8,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Remis oder Guingamp (Doppelte Chance X2)",
+              "quote": 1.18,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Dunkerque oder Remis (Doppelte Chance 1X)",
+              "quote": 1.25,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Dijon oder Remis (Doppelte Chance 1X)",
+              "quote": 1.22,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi Ueber-2.5-Dreifach",
+          "kategorie": "balance",
+          "gesamtquote": 6.15,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-11-12",
       "gesamt": {
