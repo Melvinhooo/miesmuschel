@@ -4079,7 +4079,31 @@ window.__MIESMUSCHEL_LESSONS = {
       "kategorie": "Pokal Ueber 2.5 bei L2 vs L3 Elfmeter-Dynamik-Bestaetigung",
       "lesson": "Dijon-Orleans 1:2 mit 3 Toren erfuellt Ueber 2.5 (@1.85 WACKEL getippt) - gegenlaeufig zum 12.11.-Pattern (Chambery-Grenoble exakt 2 Tore = Unter 2.5). Unterschied: wer in Fuehrung geht entscheidet, nicht die Klassendifferenz. Wenn der Pokal-Favorit frueh fuehrt -> verwaltet er -> Unter 2.5 tendiert. Wenn der Favorit frueh in Rueckstand geraet -> muss er aufmachen -> Ueber 2.5 tendiert. Bei 'Elfmeter-Entscheider' (Ndicka-Elfer 40. Min hier) wird die Spielform noch offener. Verfeinerung der 12.11.-Lesson 'HR11-13-2': Ueber 2.5 im Mehrklassen-Pokal ist WACKEL - statt VALUE als Default - aber bei dokumentierter Rueckschlag-Historie des Favoriten (Dijon hatte verlorene Vorsaison-Direktbegegnung) kippt die Wahrscheinlichkeit Richtung Ueber.",
       "bezug_spiel_id": "2026-11-13-dij-orl"
+    },
+    {
+      "datum": "2026-11-14",
+      "kategorie": "8h Pokal-Favoritensturz-Cluster Hoehepunkt - 4 L2-Stuerze in einer Runde",
+      "lesson": "Coupe-de-France 7e Tour 14.11. (mitten in FIFA-LSP) zeigt die Zuspitzung des seit 12./13.11. laufenden L2-Favoritensturz-Clusters: Rodez (L2) verliert 2:3 bei Versailles (N1, nur 1 Klasse edge); Dunkerque (L2 Mittelfeld) verliert 0:3 daheim gegen Quevilly-Rouen (N1) - exakt die Dijon-Konstellation von gestern wiederholt; Guingamp (L2) scheitert im Elfmeterschiessen 3:4 bei Lannion (N2 bretonisches Derby, 2 Klassen edge, 0:0 nach 90 + Verlaengerung); Boulogne (L2) raus (lt. Ouest-France). Damit vier L2-Pleiten im Mehrklassen-Pokal in einer einzigen Runde (von 18 L2-Startern = 22% Sturz-Quote). Rettung in diesem Dossier: 6 von 6 DC-X2-SAFE-Picks haben gehalten (inklusive 0:0-Remis bei Lannion-Guingamp, 1:1 bei Firminy-Annecy - Remis zaehlt fuer DC X2, Elfmeter irrelevant). Konsequenz fuer Pokal-Tipps in LSP-Fenstern: direkter Sieg des L2-Favoriten in 1-2-Klassen-Begegnungen ist RISIKO (nicht Wackel), DC-X2 bleibt die einzige valide SAFE-Form, Ueber 2.5 bei L2-vs-R1/N2-Gastgeber ist Falle (siehe Lesson Nr. 2 heute).",
+      "bezug_spiel_id": "2026-11-14-dun-que"
+    },
+    {
+      "datum": "2026-11-14",
+      "kategorie": "Ueber 2.5 bei L2-vs-Amateur-Pokal: Falle in Reinform (Balance-Kombi 0/3)",
+      "lesson": "Balance-Kombi 'Ueber-2.5-Dreifach' @4.73 (Caen-Choisy, Reims-Tourcoing, Guingamp-Lannion) heute zu 0/3 verloren: Caen 2:0, Reims 0:1, Lannion-Guingamp 0:0. Alle drei Spiele wurden vom L2-Favoriten entweder torarm kontrolliert (Caen 2:0 mit HZ 0:1) oder gar nicht entschieden (Lannion 0:0). Tourcoing-Reims fiel 90+1' durch ersten Profi-Treffer von Celestin - 90 Minuten torlos trotz 4 Klassen Edge. Verfeinerung der Lesson 11-13-2: Ueber 2.5 im L2-vs-Amateur-Pokal ist nicht WACKEL, sondern negatives EV - Favoriten-Kontroll-Szenario ist der Normalfall, nicht die Ausnahme. Einzig Pau-Lourdes 4:0 und Balagne-Montpellier 0:5 drueckten ueber 3.5 (beides Teams mit expliziter offensiver Qualitaet + maximalem Klassen-Edge + Doppelstuermer-Depth). Regel: Ueber 2.5 nur als VALUE/WACKEL-Einzel setzen, wenn der Favorit doppelstuermer-faehig ist (zwei Volumen-9er im Kader) UND >=4 Klassen Edge. Ansonsten DC-X2 bleiben, Ueber 2.5 passen.",
+      "bezug_spiel_id": "2026-11-14-cho-cae"
+    },
+    {
+      "datum": "2026-11-14",
+      "kategorie": "DC X2 bleibt Markt-Goldgrube - Remis-Rettung durch 90-Min-Wertung",
+      "lesson": "In den beiden L2-Pokal-Wacklern Firminy-Annecy (1:1, Annecy iE) und Lannion-Guingamp (0:0, Lannion iE) rettete DC X2 trotz Pokal-Ausscheiden des Favoriten den SAFE-Tipp: fuer DC X2 zaehlt die 90-Minuten-Wertung, ein Remis nach regulaerer Zeit erfuellt 'Remis oder Gast'. Elfmeterschiessen hat keine Wirkung auf 1X2-/DC-Maerkte. Diese Robustheit erklaert, warum DC X2 trotz Favoritensturz-Cluster bei 6/6 Hitrate heute geblieben ist - selbst wenn der L2-Favorit scheitert, rettet das Remis. Konsequenz: wenn Pokal-Favoritensturz-Risiko hoch ist (siehe Lesson 1 heute), DC X2 statt Direkt-Sieg wird noch dringender - beide schlechten Szenarien (L2 gewinnt knapp, L2 gewinnt nur nach Verlaengerung/Elfmeter) deckt DC X2 ab, nur die reine 90-Minuten-Niederlage (Dunkerque 0:3, Rodez 2:3) ist Verlust-Fall. Markt-Goldgrube DC X2 (82.6% HR / +41.7% ROI in Saison) steht weiter.",
+      "bezug_spiel_id": "2026-11-14-lan-gui"
+    },
+    {
+      "datum": "2026-11-14",
+      "kategorie": "DC-1X auf Mittelfeld-L2 im Pokal: Lesson 11-13-Wiederholung im zweiten Fall",
+      "lesson": "Dunkerque (L2 Mittelfeld) 0:3 daheim gegen Quevilly-Rouen (N1) ist exakt die Konstellation Dijon-Orleans von gestern: L2-Heim + 1-Klasse-Edge + Mittelfeld-Form = kein Aggregat-Edge in der Markt-Goldgrube DC 1X. Beide Spiele endeten in HZ 0:1 oder schlimmer und wurden nie gedreht. Dunkerque verlor zudem frueh Niang zur Verletzung (10. Min). Das Tool hatte heute Lesson 11-13 bereits angewendet und Dunkerque explizit als VALUE (nicht SAFE) gefuehrt - richtig, hat den Schaden aber nicht verhindert (15 EUR Einsatz, -15 EUR). Zuspitzung: solange ein L2-Klub Mittelfeld-Form zeigt UND nur 1 Klasse ueber dem Pokal-Gegner steht, ist weder DC 1X noch DC X2 valid SAFE - der Tipp gehoert in die WACKEL-Schicht, und zwar auch ohne dokumentierte Historien-Niederlage. Bei >=2 Klassen Edge bleibt DC die Goldgrube, bei 1 Klasse ist die Markt-Aggregat-Hitrate taeuschend.",
+      "bezug_spiel_id": "2026-11-14-dun-que"
     }
   ],
-  "stand": "2026-11-14 (Auswertung 2026-11-13)"
+  "stand": "2026-11-15"
 };

@@ -1,37 +1,37 @@
 {
-  "letzte_berechnung": "2026-11-14T07:05:29+00:00",
+  "letzte_berechnung": "2026-11-15T06:16:11+00:00",
   "gesamt": {
-    "tipps": 315,
-    "gewonnen": 182,
-    "verloren": 109,
+    "tipps": 325,
+    "gewonnen": 188,
+    "verloren": 113,
     "push": 1,
     "offen": 23,
-    "einsatz": 292.0,
-    "netto": 94.52,
+    "einsatz": 302.0,
+    "netto": 91.36,
     "trefferquote": 62.5,
-    "roi_prozent": 32.4
+    "roi_prozent": 30.3
   },
   "letzte_30_tage": {
-    "tipps": 137,
-    "gewonnen": 82,
-    "verloren": 43,
+    "tipps": 147,
+    "gewonnen": 88,
+    "verloren": 47,
     "push": 0,
     "offen": 12,
-    "einsatz": 125.0,
-    "netto": 18.97,
-    "trefferquote": 65.6,
-    "roi_prozent": 15.2
+    "einsatz": 135.0,
+    "netto": 15.81,
+    "trefferquote": 65.2,
+    "roi_prozent": 11.7
   },
   "letzte_90_tage": {
-    "tipps": 257,
-    "gewonnen": 154,
-    "verloren": 80,
+    "tipps": 256,
+    "gewonnen": 160,
+    "verloren": 84,
     "push": 0,
-    "offen": 23,
-    "einsatz": 234.0,
-    "netto": 94.52,
-    "trefferquote": 65.8,
-    "roi_prozent": 40.4
+    "offen": 12,
+    "einsatz": 244.0,
+    "netto": 91.36,
+    "trefferquote": 65.6,
+    "roi_prozent": 37.4
   },
   "nach_liga": {
     "Liga Portugal Betclic 2026/27 - 1. Spieltag": {
@@ -816,15 +816,15 @@
       "roi_prozent": 47.3
     },
     "Coupe de France 2026/27 - 7e Tour": {
-      "tipps": 12,
-      "gewonnen": 2,
-      "verloren": 4,
+      "tipps": 22,
+      "gewonnen": 8,
+      "verloren": 8,
       "push": 0,
       "offen": 6,
-      "einsatz": 6.0,
-      "netto": 0.0,
-      "trefferquote": 33.3,
-      "roi_prozent": 0.0
+      "einsatz": 16.0,
+      "netto": -3.16,
+      "trefferquote": 50.0,
+      "roi_prozent": -19.8
     }
   },
   "nach_markt": {
@@ -1104,15 +1104,15 @@
       "roi_prozent": 0.0
     },
     "Ueber 2.5 Tore": {
-      "tipps": 28,
+      "tipps": 30,
       "gewonnen": 15,
-      "verloren": 9,
+      "verloren": 11,
       "push": 0,
       "offen": 4,
-      "einsatz": 24.0,
-      "netto": 7.57,
-      "trefferquote": 62.5,
-      "roi_prozent": 31.5
+      "einsatz": 26.0,
+      "netto": 5.57,
+      "trefferquote": 57.7,
+      "roi_prozent": 21.4
     },
     "Doppelte Chance: Deportivo La Coruna oder Unentschieden": {
       "tipps": 1,
@@ -2864,26 +2864,26 @@
       "roi_prozent": 0.0
     },
     "Remis oder Guingamp (Doppelte Chance X2)": {
-      "tipps": 1,
-      "gewonnen": 0,
+      "tipps": 2,
+      "gewonnen": 1,
       "verloren": 0,
       "push": 0,
       "offen": 1,
-      "einsatz": 0.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
+      "einsatz": 1.0,
+      "netto": 0.18,
+      "trefferquote": 100.0,
+      "roi_prozent": 18.0
     },
     "Dunkerque oder Remis (Doppelte Chance 1X)": {
-      "tipps": 1,
+      "tipps": 2,
       "gewonnen": 0,
-      "verloren": 0,
+      "verloren": 1,
       "push": 0,
       "offen": 1,
-      "einsatz": 0.0,
-      "netto": 0.0,
+      "einsatz": 1.0,
+      "netto": -1.0,
       "trefferquote": 0.0,
-      "roi_prozent": 0.0
+      "roi_prozent": -100.0
     },
     "Dijon oder Remis (Doppelte Chance 1X)": {
       "tipps": 1,
@@ -2928,6 +2928,72 @@
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Remis oder Caen (Doppelte Chance X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.08,
+      "trefferquote": 100.0,
+      "roi_prozent": 8.0
+    },
+    "Remis oder Reims (Doppelte Chance X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.12,
+      "trefferquote": 100.0,
+      "roi_prozent": 12.0
+    },
+    "Remis oder Annecy (Doppelte Chance X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.14,
+      "trefferquote": 100.0,
+      "roi_prozent": 14.0
+    },
+    "Remis oder Pau (Doppelte Chance X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.14,
+      "trefferquote": 100.0,
+      "roi_prozent": 14.0
+    },
+    "Remis oder Montpellier (Doppelte Chance X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.18,
+      "trefferquote": 100.0,
+      "roi_prozent": 18.0
+    },
+    "Remis oder Rodez (Doppelte Chance X2)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
     }
   },
   "nach_markt_typ": {
@@ -2965,15 +3031,15 @@
       "roi_prozent": 21.4
     },
     "Doppelte Chance X2": {
-      "tipps": 17,
-      "gewonnen": 13,
-      "verloren": 3,
+      "tipps": 24,
+      "gewonnen": 19,
+      "verloren": 4,
       "push": 0,
       "offen": 1,
-      "einsatz": 16.0,
-      "netto": 9.74,
-      "trefferquote": 81.2,
-      "roi_prozent": 60.9
+      "einsatz": 23.0,
+      "netto": 9.58,
+      "trefferquote": 82.6,
+      "roi_prozent": 41.7
     },
     "Doppelte Chance": {
       "tipps": 61,
@@ -2987,15 +3053,15 @@
       "roi_prozent": 29.5
     },
     "Ueber 2.5 Tore": {
-      "tipps": 44,
+      "tipps": 46,
       "gewonnen": 22,
-      "verloren": 16,
+      "verloren": 18,
       "push": 0,
       "offen": 6,
-      "einsatz": 38.0,
-      "netto": 11.07,
-      "trefferquote": 57.9,
-      "roi_prozent": 29.1
+      "einsatz": 40.0,
+      "netto": 9.07,
+      "trefferquote": 55.0,
+      "roi_prozent": 22.7
     },
     "Torschuetzen Jederzeit": {
       "tipps": 35,
@@ -3053,15 +3119,15 @@
       "roi_prozent": 0.0
     },
     "Doppelte Chance 1X": {
-      "tipps": 21,
+      "tipps": 22,
       "gewonnen": 16,
-      "verloren": 4,
+      "verloren": 5,
       "push": 0,
       "offen": 1,
-      "einsatz": 20.0,
-      "netto": 9.4,
-      "trefferquote": 80.0,
-      "roi_prozent": 47.0
+      "einsatz": 21.0,
+      "netto": 8.4,
+      "trefferquote": 76.2,
+      "roi_prozent": 40.0
     },
     "Spread/Handicap": {
       "tipps": 4,
@@ -3209,26 +3275,26 @@
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 141,
+      "tipps": 144,
       "gewonnen": 80,
-      "verloren": 54,
+      "verloren": 57,
       "push": 0,
       "offen": 7,
-      "einsatz": 134.0,
-      "netto": 57.41,
-      "trefferquote": 59.7,
-      "roi_prozent": 42.8
+      "einsatz": 137.0,
+      "netto": 54.41,
+      "trefferquote": 58.4,
+      "roi_prozent": 39.7
     },
     "1.00-1.50": {
-      "tipps": 134,
-      "gewonnen": 94,
-      "verloren": 26,
+      "tipps": 141,
+      "gewonnen": 100,
+      "verloren": 27,
       "push": 1,
       "offen": 13,
-      "einsatz": 121.0,
-      "netto": 38.36,
-      "trefferquote": 78.3,
-      "roi_prozent": 31.7
+      "einsatz": 128.0,
+      "netto": 38.2,
+      "trefferquote": 78.7,
+      "roi_prozent": 29.8
     },
     "2.00-3.00": {
       "tipps": 30,
@@ -3266,26 +3332,26 @@
       "roi_prozent": 34.6
     },
     "value": {
-      "tipps": 201,
+      "tipps": 205,
       "gewonnen": 114,
-      "verloren": 75,
+      "verloren": 79,
       "push": 1,
       "offen": 11,
-      "einsatz": 190.0,
-      "netto": 44.94,
-      "trefferquote": 60.3,
-      "roi_prozent": 23.7
+      "einsatz": 194.0,
+      "netto": 40.94,
+      "trefferquote": 59.1,
+      "roi_prozent": 21.1
     },
     "safe": {
-      "tipps": 61,
-      "gewonnen": 45,
+      "tipps": 67,
+      "gewonnen": 51,
       "verloren": 8,
       "push": 0,
       "offen": 8,
-      "einsatz": 53.0,
-      "netto": 31.97,
-      "trefferquote": 84.9,
-      "roi_prozent": 60.3
+      "einsatz": 59.0,
+      "netto": 32.81,
+      "trefferquote": 86.4,
+      "roi_prozent": 55.6
     },
     "risk": {
       "tipps": 2,
@@ -3318,15 +3384,15 @@
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 315,
-      "gewonnen": 182,
-      "verloren": 109,
+      "tipps": 325,
+      "gewonnen": 188,
+      "verloren": 113,
       "push": 1,
       "offen": 23,
-      "einsatz": 292.0,
-      "netto": 94.52,
+      "einsatz": 302.0,
+      "netto": 91.36,
       "trefferquote": 62.5,
-      "roi_prozent": 32.4
+      "roi_prozent": 30.3
     },
     "kasse": {
       "name": "2026/27",
@@ -3363,21 +3429,278 @@
         "start": "2026-08-22",
         "ende": "2027-06-30",
         "bilanz": {
-          "tipps": 230,
-          "gewonnen": 146,
-          "verloren": 72,
+          "tipps": 240,
+          "gewonnen": 152,
+          "verloren": 76,
           "push": 0,
           "offen": 12,
-          "einsatz": 218.0,
-          "netto": 97.65,
-          "trefferquote": 67.0,
-          "roi_prozent": 44.8
+          "einsatz": 228.0,
+          "netto": 94.49,
+          "trefferquote": 66.7,
+          "roi_prozent": 41.4
         },
         "ist_aktuell": true
       }
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-11-14",
+      "gesamt": {
+        "tipps": 10,
+        "gewonnen": 6,
+        "verloren": 4,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 10.0,
+        "netto": -3.16,
+        "trefferquote": 60.0,
+        "roi_prozent": -31.6
+      },
+      "spiele": [
+        {
+          "id": "2026-11-14-tou-rei",
+          "liga": "Coupe de France 2026/27 - 7e Tour",
+          "heim": "US Tourcoing",
+          "gast": "Stade de Reims",
+          "endstand": "0:1",
+          "tipps": [
+            {
+              "markt": "Remis oder Reims (Doppelte Chance X2)",
+              "quote": 1.12,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.12,
+              "kommentar": "Endstand 0:1. DC X2 (Remis oder Gast) getroffen. 2:0-Insurance greift NICHT (Coupe de France, nicht BuLi/CL). Bei K.o.-Remis zählt für DC die regulaere 90-Minuten-Wertung - Elfmeterschiessen irrelevant."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 0:1 = 1 Tore. Ueber 2.5 nicht getroffen."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-14-bal-mon",
+          "liga": "Coupe de France 2026/27 - 7e Tour",
+          "heim": "FC Balagne",
+          "gast": "Montpellier HSC",
+          "endstand": "0:5",
+          "tipps": [
+            {
+              "markt": "Remis oder Montpellier (Doppelte Chance X2)",
+              "quote": 1.18,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.18,
+              "kommentar": "Endstand 0:5. DC X2 (Remis oder Gast) getroffen. 2:0-Insurance greift NICHT (Coupe de France, nicht BuLi/CL). Bei K.o.-Remis zählt für DC die regulaere 90-Minuten-Wertung - Elfmeterschiessen irrelevant."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-14-ver-rod",
+          "liga": "Coupe de France 2026/27 - 7e Tour",
+          "heim": "FC Versailles 78",
+          "gast": "Rodez AF",
+          "endstand": "3:2",
+          "tipps": [
+            {
+              "markt": "Remis oder Rodez (Doppelte Chance X2)",
+              "quote": 1.5,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 3:2. DC X2 (Remis oder Gast) nicht getroffen. 2:0-Insurance greift NICHT (Coupe de France, nicht BuLi/CL). Bei K.o.-Remis zählt für DC die regulaere 90-Minuten-Wertung - Elfmeterschiessen irrelevant."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-14-cho-cae",
+          "liga": "Coupe de France 2026/27 - 7e Tour",
+          "heim": "US Choisy-au-Bac",
+          "gast": "SM Caen",
+          "endstand": "0:2",
+          "tipps": [
+            {
+              "markt": "Remis oder Caen (Doppelte Chance X2)",
+              "quote": 1.08,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.08,
+              "kommentar": "Endstand 0:2. DC X2 (Remis oder Gast) getroffen. 2:0-Insurance greift NICHT (Coupe de France, nicht BuLi/CL). Bei K.o.-Remis zählt für DC die regulaere 90-Minuten-Wertung - Elfmeterschiessen irrelevant."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.5,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 0:2 = 2 Tore. Ueber 2.5 nicht getroffen."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-14-dun-que",
+          "liga": "Coupe de France 2026/27 - 7e Tour",
+          "heim": "USL Dunkerque",
+          "gast": "Quevilly-Rouen Metropole",
+          "endstand": "0:3",
+          "tipps": [
+            {
+              "markt": "Dunkerque oder Remis (Doppelte Chance 1X)",
+              "quote": 1.3,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 0:3. DC 1X (Heim oder Remis) nicht getroffen. 2:0-Insurance greift NICHT (Coupe de France)."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-14-fir-ann",
+          "liga": "Coupe de France 2026/27 - 7e Tour",
+          "heim": "FCO Firminy Insersport",
+          "gast": "FC Annecy",
+          "endstand": "1:1",
+          "tipps": [
+            {
+              "markt": "Remis oder Annecy (Doppelte Chance X2)",
+              "quote": 1.14,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.14,
+              "kommentar": "Endstand 1:1. DC X2 (Remis oder Gast) getroffen. 2:0-Insurance greift NICHT (Coupe de France, nicht BuLi/CL). Bei K.o.-Remis zählt für DC die regulaere 90-Minuten-Wertung - Elfmeterschiessen irrelevant."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-14-lan-gui",
+          "liga": "Coupe de France 2026/27 - 7e Tour",
+          "heim": "Lannion FC",
+          "gast": "EA Guingamp",
+          "endstand": "0:0",
+          "tipps": [
+            {
+              "markt": "Remis oder Guingamp (Doppelte Chance X2)",
+              "quote": 1.18,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.18,
+              "kommentar": "Endstand 0:0. DC X2 (Remis oder Gast) getroffen. 2:0-Insurance greift NICHT (Coupe de France, nicht BuLi/CL). Bei K.o.-Remis zählt für DC die regulaere 90-Minuten-Wertung - Elfmeterschiessen irrelevant."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-14-lou-pau",
+          "liga": "Coupe de France 2026/27 - 7e Tour",
+          "heim": "Lourdes FC",
+          "gast": "Pau FC",
+          "endstand": "0:4",
+          "tipps": [
+            {
+              "markt": "Remis oder Pau (Doppelte Chance X2)",
+              "quote": 1.14,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.14,
+              "kommentar": "Endstand 0:4. DC X2 (Remis oder Gast) getroffen. 2:0-Insurance greift NICHT (Coupe de France, nicht BuLi/CL). Bei K.o.-Remis zählt für DC die regulaere 90-Minuten-Wertung - Elfmeterschiessen irrelevant."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi Pokal-DC-Dreifach",
+          "kategorie": "safe",
+          "gesamtquote": 1.38,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Remis oder Caen (Doppelte Chance X2)",
+              "quote": 1.08,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Remis oder Reims (Doppelte Chance X2)",
+              "quote": 1.12,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Remis oder Annecy (Doppelte Chance X2)",
+              "quote": 1.14,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi Ueber-2.5-Dreifach",
+          "kategorie": "balance",
+          "gesamtquote": 4.73,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi Pokal-Underdog-Mix",
+          "kategorie": "risk",
+          "gesamtquote": 5.7,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Dunkerque oder Remis (Doppelte Chance 1X)",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Remis oder Rodez (Doppelte Chance X2)",
+              "quote": 1.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.95,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Pau",
+              "quote": 1.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-11-13",
       "gesamt": {
