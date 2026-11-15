@@ -40,7 +40,7 @@
           "id": "cas-nan-1",
           "kategorie": "safe",
           "markt": "Remis oder Nantes (Doppelte Chance X2)",
-          "quote": 1.10,
+          "quote": 1.1,
           "edge_prozent": 3.5,
           "begruendung": "Vier Klassen Edge (L2 vs R1) - selbst mit 8 Ausfaellen bei Nantes und dem laufenden Pokal-Favoritensturz-Cluster der LSP sollte das 90-Min-Ergebnis Remis oder Nantes-Sieg sein (Elfmeter-Entscheid faellt nicht ins 1X2). Lesson 11-14: DC X2 lief gestern 6/6, Markt-Goldgrube DC X2 steht bei 82.6% Hitrate / +41.7% ROI (24 Tipps). Reality-Check: 'Doppelte Chance X2' aktuelle Goldgrube Nr.1. Stake-Berechnung: 1000€ Kasse x 1.5% = 15€. Quote bei bet365 live pruefen.",
           "faire_quote": 1.06,
@@ -96,7 +96,7 @@
           "quote": 1.25,
           "edge_prozent": 4.0,
           "begruendung": "Betmines-Modell 80% Red-Star-oder-Remis - DC X2 mit 90-Min-Wertung ist hier VALUE, nicht SAFE (nur 1-Klasse-Edge). Markt-Goldgrube DC X2 (82.6% / +41.7% ROI). Risiko: P13A ist cup-starker N1-Mittelfeld-Club, nicht klassischer Amateur. Stake 1%=10€.",
-          "faire_quote": 1.20,
+          "faire_quote": 1.2,
           "empfohlener_einsatz_prozent": 1.0,
           "empfohlener_einsatz_euro": 10.0
         },
@@ -159,7 +159,7 @@
           "id": "sdk-met-2",
           "kategorie": "value",
           "markt": "Sieg FC Metz (90 Min)",
-          "quote": 1.30,
+          "quote": 1.3,
           "edge_prozent": 5.0,
           "begruendung": "Metz regulaerer Sieg in 75%+ der L2-vs-R1-Begegnungen erwartbar - aber Favoritensturz-Cluster der LSP (4 L2-Stuerze gestern) + Metz-Pokal-Blamage-Gedaechtnis senken auf VALUE. Fallback Elfmeterschiessen = verloren. Stake 1%=10€.",
           "faire_quote": 1.25,
@@ -215,7 +215,7 @@
           "quote": 1.36,
           "edge_prozent": 4.0,
           "begruendung": "Laval regulaerer Sieg in ~70% der 4-Klassen-Begegnungen erwartbar - aber Pokal-Favoritensturz-Cluster der LSP + Laval-Offensiv-Form (nur 1 Tor/Liga-Spiel) senkt auf VALUE. Fallback Elfmeterschiessen = verloren (2:0-Insurance greift nicht im Pokal). Stake 1%=10€.",
-          "faire_quote": 1.30,
+          "faire_quote": 1.3,
           "empfohlener_einsatz_prozent": 1.0,
           "empfohlener_einsatz_euro": 10.0
         },
@@ -264,23 +264,24 @@
       "tipps": [
         {
           "id": "rum-ase-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Remis oder Saint-Etienne (Doppelte Chance X2)",
           "quote": 1.22,
           "edge_prozent": 3.5,
-          "begruendung": "2-Klassen-Edge statt 4 - Rumilly cup-stark + Rotation moeglich senkt auf VALUE. Betmines 86% Saint-Etienne-oder-Remis-Modellwahrscheinlichkeit, DC X2 rettet bei Elfmeterschiessen-Niederlage. Markt-Goldgrube DC X2 (82.6% / +41.7%). Stake 1%=10€.",
+          "begruendung": "2-Klassen-Edge statt 4 - Rumilly cup-stark + Rotation moeglich senkt auf VALUE. Betmines 86% Saint-Etienne-oder-Remis-Modellwahrscheinlichkeit, DC X2 rettet bei Elfmeterschiessen-Niederlage. Markt-Goldgrube DC X2 (82.6% / +41.7%). Stake 1%=10€. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "faire_quote": 1.17,
           "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 10.0
+          "empfohlener_einsatz_euro": 10.0,
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "rum-ase-2",
           "kategorie": "wackel",
           "markt": "Sieg AS Saint-Étienne (90 Min)",
-          "quote": 1.80,
+          "quote": 1.8,
           "edge_prozent": 3.0,
           "begruendung": "Saint-Etienne direkter Sieg Betmines-Modell 67% - WACKEL wegen Rumilly-Cup-Tradition + Rotation. Favoritensturz-Cluster der LSP (4/14) als Warnung. Stake 0.5%=5€.",
-          "faire_quote": 1.70,
+          "faire_quote": 1.7,
           "empfohlener_einsatz_prozent": 0.5,
           "empfohlener_einsatz_euro": 5.0
         }
@@ -295,10 +296,12 @@
       "spiel_label": "Castelbourgeois vs Nantes",
       "kategorie": "safe",
       "markt": "Remis oder Nantes (Doppelte Chance X2)",
-      "quote": 1.10,
+      "quote": 1.1,
       "edge_prozent": 3.5,
       "begruendung": "4-Klassen-Edge + Markt-Goldgrube DC X2 (82.6%/+41.7%). Stake 15€.",
-      "empfohlener_einsatz_euro": 15.0
+      "empfohlener_einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
     },
     {
       "id": "sdk-met-1",
@@ -309,7 +312,9 @@
       "quote": 1.08,
       "edge_prozent": 3.0,
       "begruendung": "4-Klassen-Edge + Markt-Goldgrube DC X2. Stake 15€. Datum bei bet365 live verifizieren.",
-      "empfohlener_einsatz_euro": 15.0
+      "empfohlener_einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
     },
     {
       "id": "ren-lav-1",
@@ -320,7 +325,9 @@
       "quote": 1.12,
       "edge_prozent": 3.0,
       "begruendung": "4-Klassen-Edge + Markt-Goldgrube DC X2. Stake 15€.",
-      "empfohlener_einsatz_euro": 15.0
+      "empfohlener_einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
     },
     {
       "id": "p13-red-1",
@@ -331,7 +338,9 @@
       "quote": 1.25,
       "edge_prozent": 4.0,
       "begruendung": "Nur 1 Klasse Edge - VALUE statt SAFE. Betmines 80% Red-Star-oder-Remis-Wahrscheinlichkeit. Stake 10€.",
-      "empfohlener_einsatz_euro": 10.0
+      "empfohlener_einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
     },
     {
       "id": "rum-ase-1",
@@ -342,7 +351,9 @@
       "quote": 1.22,
       "edge_prozent": 3.5,
       "begruendung": "2-Klassen-Edge - VALUE. Betmines 86% Saint-Etienne-oder-Remis. Stake 10€.",
-      "empfohlener_einsatz_euro": 10.0
+      "empfohlener_einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
     },
     {
       "id": "cas-nan-2",
@@ -353,7 +364,9 @@
       "quote": 1.33,
       "edge_prozent": 4.0,
       "begruendung": "Nantes-Direktsieg bei 4 Klassen Edge aber Favoritensturz-Cluster-Risiko. Stake 10€.",
-      "empfohlener_einsatz_euro": 10.0
+      "empfohlener_einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6
     },
     {
       "id": "sdk-met-2",
@@ -361,10 +374,12 @@
       "spiel_label": "Saint-Dié Kellermann vs Metz",
       "kategorie": "value",
       "markt": "Sieg FC Metz (90 Min)",
-      "quote": 1.30,
+      "quote": 1.3,
       "edge_prozent": 5.0,
       "begruendung": "Metz Direkt-Sieg 4-Klassen-Edge aber Pokal-Blamage-Historie + Cluster-Risiko. Stake 10€.",
-      "empfohlener_einsatz_euro": 10.0
+      "empfohlener_einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
     },
     {
       "id": "ren-lav-2",
@@ -375,7 +390,9 @@
       "quote": 1.36,
       "edge_prozent": 4.0,
       "begruendung": "Laval Direkt-Sieg 4-Klassen-Edge aber Offensiv-Form schwach + Cluster-Risiko. Stake 10€.",
-      "empfohlener_einsatz_euro": 10.0
+      "empfohlener_einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8
     },
     {
       "id": "ren-lav-3",
@@ -386,7 +403,9 @@
       "quote": 1.85,
       "edge_prozent": 4.0,
       "begruendung": "Laval-Offensive 1 Tor/Liga-Spiel + Lesson 11-14-2. Markt-Goldgrube Unter 2.5 (60%/+44.7%). Stake 5€.",
-      "empfohlener_einsatz_euro": 5.0
+      "empfohlener_einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9
     },
     {
       "id": "p13-red-2",
@@ -397,7 +416,9 @@
       "quote": 1.85,
       "edge_prozent": 3.0,
       "begruendung": "Betmines U/O 53% Under + Spaet-Tor-Cluster-Lesson. Stake 5€.",
-      "empfohlener_einsatz_euro": 5.0
+      "empfohlener_einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10
     },
     {
       "id": "rum-ase-2",
@@ -405,10 +426,12 @@
       "spiel_label": "Rumilly vs Saint-Etienne",
       "kategorie": "wackel",
       "markt": "Sieg AS Saint-Étienne (90 Min)",
-      "quote": 1.80,
+      "quote": 1.8,
       "edge_prozent": 3.0,
       "begruendung": "Saint-Etienne-Sieg Betmines 67% - WACKEL wegen Rumilly-Cup-Tradition. Stake 5€.",
-      "empfohlener_einsatz_euro": 5.0
+      "empfohlener_einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 11
     }
   ],
   "kombis": [
@@ -420,7 +443,7 @@
           "spiel_id": "2026-11-15-cas-nan",
           "spiel_label": "Castelbourgeois vs Nantes",
           "markt": "Remis oder Nantes (Doppelte Chance X2)",
-          "quote": 1.10,
+          "quote": 1.1,
           "kategorie": "safe"
         },
         {
@@ -459,7 +482,7 @@
           "spiel_id": "2026-11-15-rum-ase",
           "spiel_label": "Rumilly vs Saint-Etienne",
           "markt": "Sieg AS Saint-Étienne (90 Min)",
-          "quote": 1.80,
+          "quote": 1.8,
           "kategorie": "wackel"
         },
         {
@@ -484,7 +507,7 @@
           "spiel_id": "2026-11-15-cas-nan",
           "spiel_label": "Castelbourgeois vs Nantes",
           "markt": "Unter 2.5 Tore",
-          "quote": 1.80,
+          "quote": 1.8,
           "kategorie": "wackel"
         },
         {
@@ -505,7 +528,7 @@
       "gesamtquote": 5.83,
       "gesamtquote_rechnung": "1.80 x 1.85 x 1.75 = 5.83",
       "empfohlener_einsatz_prozent": 0.25,
-      "empfohlener_einsatz_euro": 2.50,
+      "empfohlener_einsatz_euro": 2.5,
       "begruendung": "Drei Unter 2.5 Tore (Markt-Goldgrube, 60%/+44.7% ROI) auf Mehrklassen-Pokal-Spielen - exakt das Favoriten-Kontroll-Narrativ aus Lesson 11-14-2 + 11-13-2 (Caen 2:0, Reims 0:1, Chambery-Grenoble 0:2 alles exakt 2 Tore). Markt-entkoppelt vs Safe (DC X2 auf cas-nan/sdk-met) und Balance (Unter 2.5 auf p13-red/ren-lav, Sieg auf rum-ase). Keine Sieg-Outcome-Doppelung. 100x+ Moonshot bei L2-vs-Amateur-Pokal nicht seriös erreichbar. Stake 0.25%=2.50€."
     }
   ],
