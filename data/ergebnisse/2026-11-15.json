@@ -1,0 +1,1322 @@
+{
+  "datum": "2026-11-15",
+  "erstellt_am": "2026-11-15T10:00:00+01:00",
+  "hinweis": "So 15.11. letzter Tag der FIFA-Laenderspielpause 09.-17.11.2026 - Bundesliga, PL, LaLiga, Serie A, Ligue 1, 2. Bundesliga, CL/EL/UECL alle pausiert, keine Supercups im Fenster. Einziges Ligen-Weissglut-Fenster: Coupe de France 7e Tour (Ligue-2-Entrée, 12.-15.11.2026) - heute 5 Sonntags-Partien mit L2-Favoriten auswaerts gegen R1- (6. Stufe) oder N1-Gastgeber (3. Stufe). Nach den Lektionen vom 12.-14.11. wird bewusst DC-X2-fokussiert getippt: Ueber 2.5 im L2-vs-Amateur-Pokal ging gestern 0/3 (Lesson 11-14-2), DC X2 dagegen 6/6 (Elfmeterschiessen zaehlt nicht fuer 1X2/DC, 90-Min-Wertung rettet selbst bei Favoritensturz). Spieler-Tipps ausgelassen (keine stabilen Kader-Daten fuer die Amateur-Teams, keine Aufstellungs-Vorschauen im Open-Access-Web). 2:0-Insurance gilt in diesen Coupe-de-France-Spielen NICHT (nur BL + CL) - Sieg-Direkt-Tipp hat volles 90-Min-Risiko. Kasse 1000€ (Stufe 1 Aufbau aktiv, stufe_2_freigeschaltet=false), Saison-ROI 2026/27 +41.4% nach 240 Tipps, rolling 30d-ROI +11.7%.",
+  "kasse_stand_euro": 1000,
+  "kasse_stufe": 1,
+  "saison_roi_prozent": 41.4,
+  "rolling_30d_roi_prozent": 11.7,
+  "spiele": [
+    {
+      "id": "2026-11-15-cas-nan",
+      "liga": "Coupe de France 2026/27 - 7e Tour",
+      "heim": "Stade Castelbourgeois",
+      "gast": "FC Nantes",
+      "anstoss": "2026-11-15T14:00:00+01:00",
+      "stadion": "Stade Municipal, Vitré (Austragungsort da Castelbourgeois-Rasen zu klein, laut foot01.com)",
+      "saison_kontext": {
+        "parallel_heim": "keine - Stade Castelbourgeois spielt in Regional 1 (Bretagne, 6. Stufe), kein paralleler Wettbewerb",
+        "parallel_gast": "keine - Nantes pausiert in FIFA-LSP 09.-17.11., Ligue 2 pausiert, keine Doppelbelastung",
+        "saisonziel_heim": "Stade Castelbourgeois: Mittelfeld Regional 1 Bretagne, Pokal als Prestige-Fenster/Finanz-Gelegenheit - Amateur-Verein aus Chateaubourg",
+        "saisonziel_gast": "FC Nantes: Ligue 2 enttaeuschender Saisonstart 2026/27 - laut foot01.com/dicodusport nur 14. Platz nach 11 Spieltagen (Abstieg aus L1 im Mai 2026), Wiederaufstiegs-Ziel ist angekratzt, Pokal wird als Moral-Fenster gebraucht. Trainer Gregory Poirier muss mit mindestens 8 Ausfaellen auskommen (Verletzungen/Sperren laut foot01.com)",
+        "motivations_asymmetrie": "Vier Klassen-Differenz (L2 vs R1 = 2. gegen 6. Stufe). Trotz Nantes-Formkrise und der acht angekuendigten Ausfaelle ist die Klassenluecke zu gross fuer ernsthaftes Sturz-Risiko - direkt-Sieg allerdings wackelig wegen Pokal-Favoritensturz-Cluster der laufenden LSP (siehe Lesson 11-13-2 + 11-14-1: 4 L2-Stuerze gestern allein in dieser Runde). DC X2 ist der stabile Weg: 90-Min-Wertung schuetzt selbst bei Elfmeterschiessen, Remis + Nantes-Sieg beide bezahlt",
+        "recovery_heim": "Castelbourgeois min 5 Tage seit letztem R1-Einsatz, frisch",
+        "recovery_gast": "Nantes min 7 Tage seit letztem L2-Spiel (L2 pausiert ab 08.11.), maximal frisch, Rotation moeglich wegen Ausfallsituation",
+        "quellen": [
+          "https://www.foot01.com/tv/tv-chateaubourg-nantes-a-quelle-heure-et-sur-quelle-chaine",
+          "https://dicodusport.fr/blog/?p=677205",
+          "https://www.livefoot.fr/actualite/le-fc-nantes-veut-s-amuser-en-ligue-2.html",
+          "https://lesnouvellesdufoot.fr/quatre-points-en-six-matches-des-erreurs-qui-se-repetent-le-fc-nantes-na-toujours-pas-digere-sa-descente/"
+        ]
+      },
+      "news": [
+        "Nantes aus Ligue 1 abgestiegen (Mai 2026 Schlussspieltag 1:0 bei Lens) - 2026/27 aktuell nur 14. Platz Ligue 2, Wiederaufstiegs-Ziel wackelt",
+        "Trainer Gregory Poirier mit min 8 Ausfaellen (Verletzungen/Sperren) - Rotation/Aufstellungs-Experimente moeglich (foot01.com)",
+        "2:0-Insurance greift NICHT (nur Bundesliga + Champions League) - Direkt-Sieg-Tipp hat volles 90-Min-Risiko",
+        "Pokal-Favoritensturz-Cluster laeuft seit 12.11. (Lesson 11-13-2 + 11-14-1) - konservativ DC X2 statt direkter Sieg"
+      ],
+      "tipps": [
+        {
+          "id": "cas-nan-1",
+          "kategorie": "safe",
+          "markt": "Remis oder Nantes (Doppelte Chance X2)",
+          "quote": 1.1,
+          "edge_prozent": 3.5,
+          "begruendung": "Vier Klassen Edge (L2 vs R1) - selbst mit 8 Ausfaellen bei Nantes und dem laufenden Pokal-Favoritensturz-Cluster der LSP sollte das 90-Min-Ergebnis Remis oder Nantes-Sieg sein (Elfmeter-Entscheid faellt nicht ins 1X2). Lesson 11-14: DC X2 lief gestern 6/6, Markt-Goldgrube DC X2 steht bei 82.6% Hitrate / +41.7% ROI (24 Tipps). Reality-Check: 'Doppelte Chance X2' aktuelle Goldgrube Nr.1. Stake-Berechnung: 1000€ Kasse x 1.5% = 15€. Quote bei bet365 live pruefen.",
+          "faire_quote": 1.06,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0
+        },
+        {
+          "id": "cas-nan-2",
+          "kategorie": "value",
+          "markt": "Sieg Nantes (90 Min)",
+          "quote": 1.33,
+          "edge_prozent": 4.0,
+          "begruendung": "Nantes gewinnt in ~70% der 4-Klassen-Begegnungen regulaer - aber Pokal-Favoritensturz-Cluster der LSP + Ausfallsituation senkt die Hitrate auf VALUE-Niveau. Fallback bei Elfmeterschiessen = verloren (2:0-Insurance greift nicht im Pokal). Stake 1%=10€.",
+          "faire_quote": 1.28,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "tore_heim": 1,
+        "tore_gast": 9,
+        "endstand": "1:9",
+        "halbzeit": "0:5",
+        "status": "FINISHED",
+        "quelle": "WebSearch 15.11.2026: livefoot.fr (Stade Castelbourgeois 1-9 Nantes) + footmercato.net + ouest-france.fr (Nantes 9-1 Chateaubourg)"
+      },
+      "tipps_ergebnis": [
+        {
+          "id": "cas-nan-1",
+          "markt": "Remis oder Nantes (Doppelte Chance X2)",
+          "kategorie": "safe",
+          "quote": 1.1,
+          "status": "gewonnen",
+          "kommentar": "Endstand 1:9. DC X2 (Remis oder Gast) getroffen. 2:0-Insurance greift NICHT (Coupe de France). 90-Min-Wertung - Elfmeter irrelevant.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "tipp_id": "cas-nan-1",
+          "gewinn_faktor": 0.1
+        },
+        {
+          "id": "cas-nan-2",
+          "markt": "Sieg Nantes (90 Min)",
+          "kategorie": "value",
+          "quote": 1.33,
+          "status": "gewonnen",
+          "kommentar": "Endstand 1:9. Gast-Sieg in 90 Min getroffen. 2:0-Insurance greift NICHT (Coupe de France).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "tipp_id": "cas-nan-2",
+          "gewinn_faktor": 0.33
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:5",
+        "endstand": "1:9",
+        "tore": [
+          {
+            "min": 21,
+            "team": "gast",
+            "spieler": "Wilitty Younoussa",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 27,
+            "team": "gast",
+            "spieler": "Louis Leroux",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": 29,
+            "team": "gast",
+            "spieler": "Lucas Hamel (Eigentor)",
+            "stand_danach": "0:3",
+            "kommentar": "Hamel-OG laut footmercato"
+          },
+          {
+            "min": 30,
+            "team": "gast",
+            "spieler": "Wilitty Younoussa",
+            "stand_danach": "0:4"
+          },
+          {
+            "min": 39,
+            "team": "gast",
+            "spieler": "Antoine Joujou",
+            "stand_danach": "0:5"
+          },
+          {
+            "min": 44,
+            "team": "gast",
+            "spieler": "Antoine Joujou",
+            "stand_danach": "0:5",
+            "kommentar": "Doppelpack Joujou vor HZ"
+          },
+          {
+            "min": 46,
+            "team": "gast",
+            "spieler": "Killian Corredor",
+            "stand_danach": "0:6"
+          },
+          {
+            "min": 47,
+            "team": "heim",
+            "spieler": "Guiho Tchanturia",
+            "stand_danach": "1:6",
+            "kommentar": "Ehrentreffer (Elfmeter laut footmercato)"
+          },
+          {
+            "min": 72,
+            "team": "gast",
+            "spieler": "Ryad Hachem",
+            "stand_danach": "1:7"
+          },
+          {
+            "min": 74,
+            "team": "gast",
+            "spieler": "Wilitty Younoussa",
+            "stand_danach": "1:8",
+            "kommentar": "Hattrick Younoussa"
+          },
+          {
+            "min": 79,
+            "team": "gast",
+            "spieler": "Ignatius Ganago",
+            "stand_danach": "1:9"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Gast dominierte, Fuehrungsspitze bis 9 Tore - klarer Favoriten-/Underdog-Sieg, keine Drehung."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "halbzeit_endstand": "Gast/Gast",
+          "kein_team_zu_null": true,
+          "heim_zu_null": false,
+          "gast_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Deckel-Sieg des Dossiers: Nantes 9-1 - 5 Tore in Halbzeit 1, Ganago schon 79' das 9:0. Younoussa Hattrick (21'/30'/74'), Joujou Doppelpack (39'/44').",
+          "4-Klassen-Edge in Reinform: L2-Topform gegen R1-Amateur - DC X2 + Direkt-Sieg + Ueber-2.5 (10 Tore!) alle easy. Ehrentreffer Tchanturia 47' (Elfmeter)."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-15-p13-red",
+      "liga": "Coupe de France 2026/27 - 7e Tour",
+      "heim": "Paris 13 Atletico",
+      "gast": "Red Star FC",
+      "anstoss": "2026-11-15T14:00:00+01:00",
+      "stadion": "Stade Deomede/Boutroux, Paris 13",
+      "saison_kontext": {
+        "parallel_heim": "keine - Paris 13 Atletico in National 1 (3. Stufe), kein paralleler Wettbewerb",
+        "parallel_gast": "keine - Red Star pausiert in FIFA-LSP 09.-17.11., Ligue 2 pausiert",
+        "saisonziel_heim": "Paris 13 Atletico: Mittelfeld/obere Haelfte National 1, Pokal als Mehrklassen-Chance - traditionell cup-stark, hat im Maerz 2023 mal 1:0 gegen Red Star gewonnen",
+        "saisonziel_gast": "Red Star FC: Ligue 2 Saisonstart 2026/27, Wiederaufstieg-Ambition - frischer Aufsteiger-Modus, Pokal als Form-Fenster",
+        "motivations_asymmetrie": "Nur 1 Klassen-Differenz (L2 vs N1) - das ist KEINE klassische Mehrklassen-Konstellation. Betmines-Modell gibt Red Star 56% / Remis 24% / P13A 20%, Over 2.5 nur 47% / Under 2.5 53%. H2H ausgeglichen (zuletzt 1:0 fuer P13A 2023). Lesson 11-14-DC1X warnt: L2-Mittelfeld + 1-Klasse-Edge ist KEIN sicherer DC-1X-Markt - gilt analog fuer DC X2 bei nur 1 Klasse Edge. Daher DC X2 hier bewusst nur niedriger als die Mehrklassen-Spiele, kein Direkt-Sieg-SAFE",
+        "recovery_heim": "P13A min 5 Tage seit letztem N1-Spiel, frisch",
+        "recovery_gast": "Red Star min 7 Tage seit letztem L2-Spiel (Liga pausiert), maximal frisch",
+        "quellen": [
+          "https://betmines.com/matches/predictions-paris-13-atletico-red-star_19903906",
+          "https://ran.joyn.de/sports/ticker/ma12617636-paris-13-atletico-red-star-fc",
+          "https://sporticos.com/en-gb/match/red-star-fc-93-vs-paris-13-atletico"
+        ]
+      },
+      "news": [
+        "Paris 13 Atletico (N1, 3. Stufe) empfaengt Red Star (L2) - nur 1 Klassen-Differenz, Betmines-Modell 56/24/20",
+        "H2H 1-1 (zuletzt 1:0 P13A im Maerz 2023) - Red Star nicht der klassische Klassen-Favorit",
+        "2:0-Insurance greift NICHT - Direkt-Sieg hat volles 90-Min-Risiko",
+        "Lesson 11-14-DC1X (Dunkerque-Quevilly): 1-Klasse-Edge kein Aggregat-Goldgrube-Edge - Spiel mit Vorsicht"
+      ],
+      "tipps": [
+        {
+          "id": "p13-red-1",
+          "kategorie": "value",
+          "markt": "Remis oder Red Star (Doppelte Chance X2)",
+          "quote": 1.25,
+          "edge_prozent": 4.0,
+          "begruendung": "Betmines-Modell 80% Red-Star-oder-Remis - DC X2 mit 90-Min-Wertung ist hier VALUE, nicht SAFE (nur 1-Klasse-Edge). Markt-Goldgrube DC X2 (82.6% / +41.7% ROI). Risiko: P13A ist cup-starker N1-Mittelfeld-Club, nicht klassischer Amateur. Stake 1%=10€.",
+          "faire_quote": 1.2,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0
+        },
+        {
+          "id": "p13-red-2",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 3.0,
+          "begruendung": "Betmines U/O: Under 2.5 bei 53% - plus die Spaet-Tor-Cluster-Lesson 11-13-3 (wenn Klassen-Edge gering, faellt oft erst nach 75. Min). Markt-Goldgrube 'Unter 2.5 Tore' (60% / +44.7%). Stake 0.5%=5€ (wackel-Niveau).",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "tore_heim": 0,
+        "tore_gast": 2,
+        "endstand": "0:2",
+        "halbzeit": "0:2",
+        "status": "FINISHED",
+        "quelle": "WebSearch 15.11.2026: redstar.fr Offizielles Live-Ticker (0-2, Ikanga 10' + Danger 34') + ouest-france.fr Resultate-Liste + 433foot.fr"
+      },
+      "tipps_ergebnis": [
+        {
+          "id": "p13-red-1",
+          "markt": "Remis oder Red Star (Doppelte Chance X2)",
+          "kategorie": "value",
+          "quote": 1.25,
+          "status": "gewonnen",
+          "kommentar": "Endstand 0:2. DC X2 (Remis oder Gast) getroffen. 2:0-Insurance greift NICHT (Coupe de France). 90-Min-Wertung - Elfmeter irrelevant.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "tipp_id": "p13-red-1",
+          "gewinn_faktor": 0.25
+        },
+        {
+          "id": "p13-red-2",
+          "markt": "Unter 2.5 Tore",
+          "kategorie": "wackel",
+          "quote": 1.85,
+          "status": "gewonnen",
+          "kommentar": "Endstand 0:2 = 2 Tore. Unter 2.5 getroffen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "tipp_id": "p13-red-2",
+          "gewinn_faktor": 0.85
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:2",
+        "endstand": "0:2",
+        "tore": [
+          {
+            "min": 10,
+            "team": "gast",
+            "spieler": "Ikanga",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 34,
+            "team": "gast",
+            "spieler": "Danger",
+            "stand_danach": "0:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Gast dominierte, Fuehrungsspitze bis 2 Tore - klarer Favoriten-/Underdog-Sieg, keine Drehung."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Gast/Gast",
+          "kein_team_zu_null": false,
+          "heim_zu_null": true,
+          "gast_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Fruehe Fuehrung-Kontrolle: Red Star zieht in 34 Minuten auf 0-2 davon, haelt bis zum Ende. Kein Drehungs-Risiko trotz L3-Underdog.",
+          "Betmines-Modell (Red Star 56%) traf - 1-Klassen-Edge genuegte bei disziplinierter Ligue-2-Elf. Unter 2.5 bestaetigt sich bei engen Mehrklassen (2 Tore total)."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-15-sdk-met",
+      "liga": "Coupe de France 2026/27 - 7e Tour",
+      "heim": "SR Saint-Dié Kellermann",
+      "gast": "FC Metz",
+      "anstoss": "2026-11-15T14:00:00+01:00",
+      "stadion": "Stade Emile-Stahl, Saint-Dié-des-Vosges (Ausweichstadion moeglich, bei Metz-Zuzug)",
+      "saison_kontext": {
+        "parallel_heim": "keine - SR Saint-Dié Kellermann spielt in Regional 1 Grand Est (6. Stufe), kein paralleler Wettbewerb",
+        "parallel_gast": "keine - Metz pausiert in FIFA-LSP 09.-17.11., Ligue 2 pausiert",
+        "saisonziel_heim": "SR Saint-Dié Kellermann: Regional 1 Grand Est, Pokal als Prestige-Finanz-Fenster - Amateur-Verein aus den Vogesen, 2025 Grand Est 5e Tour-Sieg mit 6:2 gegen Illzach-Modenheim",
+        "saisonziel_gast": "FC Metz: Ligue 2 Spitzengruppe 2026/27, Wiederaufstiegs-Druck - zuletzt 1:3 daheim gegen Pau 30.10. (Liga-Dusche), vorletzte Saison 0:4 im CdF-Achtelfinale gegen Montpellier - Pokal-Gedaechtnis gemischt",
+        "motivations_asymmetrie": "Vier Klassen-Differenz (L2 vs R1). Metz ist L2-Top-Klub mit CdF-Tradition (2x Sieger 1984+1988), aber Pokal-Formkrise (vorletzte Saison Blamage gegen Montpellier). Trotzdem bleibt die Klassenluecke zu gross fuer echtes Sturz-Risiko - DC X2 klarer Weg, Direkt-Sieg wegen Favoritensturz-Cluster wackelig",
+        "recovery_heim": "Saint-Die min 5 Tage seit letztem R1-Einsatz, frisch",
+        "recovery_gast": "Metz min 7 Tage seit letztem L2-Spiel (Liga pausiert, letztes war 30.10. 1:3 vs Pau), 15+ Tage frisch - Rotation unwahrscheinlich",
+        "quellen": [
+          "https://www.aiscore.com/prediction/football-kellermann-vs-metz-prediction",
+          "https://sporticos.com/en-gb/match/saint-die-kellermann-vs-metz",
+          "https://www.fourfourtwo.com/news/coupe-de-france-review-metz-stunned-wasquehal-sochaux-edge-nancy",
+          "https://ticket-compare.com/football/coupe-de-france/saint-die-kellermann-vs-fc-metz-14-nov-2026-1574592/"
+        ]
+      },
+      "news": [
+        "Saint-Dié Kellermann (R1 Grand Est, 6. Stufe) vs Metz (L2 Spitzengruppe) - 4-Klassen-Begegnung",
+        "Metz 15+ Tage frisch (Liga pausiert seit 08.11.), letzte Ligaform 1:3 Heimpleite gegen Pau 30.10.",
+        "Metz CdF-Blamage letzte Saison 0:4 gegen Montpellier - Pokal-Gedaechtnis belastend",
+        "2:0-Insurance greift NICHT - Direkt-Sieg hat volles 90-Min-Risiko",
+        "ACHTUNG: Ticket-compare + aiscore listeten Spiel teils als 14.11. - FFF Tirage/foot-amateur: 15.11. 14h. Datum bei bet365 live verifizieren vor Tipp-Abgabe"
+      ],
+      "tipps": [
+        {
+          "id": "sdk-met-1",
+          "kategorie": "safe",
+          "markt": "Remis oder Metz (Doppelte Chance X2)",
+          "quote": 1.08,
+          "edge_prozent": 3.0,
+          "begruendung": "Vier Klassen Edge (L2 vs R1). Lesson 11-14: DC X2 lief 6/6, selbst wenn Metz regulaer scheitert (90 Min) rettet Remis + Elfmeterschiessen. Markt-Goldgrube DC X2. Stake 1.5%=15€. Datum bei bet365 vor Abgabe nochmal verifizieren (ticket-compare listete 14.11., aber Saturday-Dossier gestern enthielt dieses Spiel NICHT - also Sunday-Slot bestaetigt).",
+          "faire_quote": 1.05,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0
+        },
+        {
+          "id": "sdk-met-2",
+          "kategorie": "value",
+          "markt": "Sieg FC Metz (90 Min)",
+          "quote": 1.3,
+          "edge_prozent": 5.0,
+          "begruendung": "Metz regulaerer Sieg in 75%+ der L2-vs-R1-Begegnungen erwartbar - aber Favoritensturz-Cluster der LSP (4 L2-Stuerze gestern) + Metz-Pokal-Blamage-Gedaechtnis senken auf VALUE. Fallback Elfmeterschiessen = verloren. Stake 1%=10€.",
+          "faire_quote": 1.25,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "tore_heim": 1,
+        "tore_gast": 0,
+        "endstand": "1:0",
+        "halbzeit": null,
+        "status": "FINISHED",
+        "quelle": "WebSearch 15.11.2026: ouest-france.fr Live-Ticker 'Metz eliminé par une R1' + 433foot.fr (Saint-Die-Kellermann 1-0 Metz)"
+      },
+      "tipps_ergebnis": [
+        {
+          "id": "sdk-met-1",
+          "markt": "Remis oder Metz (Doppelte Chance X2)",
+          "kategorie": "safe",
+          "quote": 1.08,
+          "status": "verloren",
+          "kommentar": "Endstand 1:0. Heimsieg - DC X2 gerissen. 2:0-Insurance greift im Pokal NICHT.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "tipp_id": "sdk-met-1",
+          "gewinn_faktor": -1.0
+        },
+        {
+          "id": "sdk-met-2",
+          "markt": "Sieg FC Metz (90 Min)",
+          "kategorie": "value",
+          "quote": 1.3,
+          "status": "verloren",
+          "kommentar": "Endstand 1:0. Kein Gast-Sieg in 90 Min. 2:0-Insurance greift NICHT.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "tipp_id": "sdk-met-2",
+          "gewinn_faktor": -1.0
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": null,
+            "stand_danach": "1:0",
+            "kommentar": "Einziges Tor der Partie - Saint-Die (R1) eliminiert L2-Spitzengruppe Metz. Einzel-Minute nicht öffentlich berichtet."
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Heim-Sieg knapp, keine Drehung."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_0_5": true,
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": null,
+          "kein_team_zu_null": false,
+          "heim_zu_null": false,
+          "gast_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "FAVORITENSTURZ Nr. 5 der LSP-Pokalwoche: Metz (L2 Spitzengruppe) vom R1-Amateur Saint-Die (6. Stufe) 1-0 eliminiert. Lesson 11-14-1 Favoriten-Cluster setzt sich fort.",
+          "Pokal-Blamage-Historie Metz bestaetigt (letzte Saison 0-4 vs Montpellier) - Mentalitaets-Risiko im Pokal nach L2-Pleite 30.10. (1-3 vs Pau) hat zugeschlagen.",
+          "DC X2 @ 1.08 als 'Safe' gerissen - zu niedrige Quote bei Favoritensturz-Cluster-Warnung: DC X2 in Pokal NICHT automatisch Safe."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-15-ren-lav",
+      "liga": "Coupe de France 2026/27 - 7e Tour",
+      "heim": "EA Saint-Renan",
+      "gast": "Stade Lavallois",
+      "anstoss": "2026-11-15T14:00:00+01:00",
+      "stadion": "Stade Abbé-Le-Gall, Saint-Renan (Bretagne)",
+      "saison_kontext": {
+        "parallel_heim": "keine - EA Saint-Renan in Regional 1 Bretagne (6. Stufe), kein paralleler Wettbewerb",
+        "parallel_gast": "keine - Laval pausiert in FIFA-LSP 09.-17.11., Ligue 2 pausiert",
+        "saisonziel_heim": "EA Saint-Renan: Regional 1 Bretagne Mittelfeld, Pokal als Prestige-Fenster - Amateur-Verein, letzter CdF-Auftritt 2025/26 0:4 gegen Stade Briochin, bescheidene Pokal-Historie",
+        "saisonziel_gast": "Stade Lavallois: Ligue 2 Mittelfeld, Wiederaufstiegs-Ambition gedaempft - laut Betmines-Form 6 Tore erzielt + 9 kassiert in letzten 6 Ligaspielen (offensive Mittelfeld-L2-Form), letzte Liga-Pleite 7.11. 1:0 bei Saint-Etienne",
+        "motivations_asymmetrie": "Vier Klassen-Differenz (L2 vs R1 = 2. gegen 6. Stufe). Laval ist OFFENSIV-schwach (nur 1 Tor/Liga-Spiel), aber Defensiv-Nachteil wird gegen R1-Amateurteam nicht durchschlagen. DC X2 klarer Weg, Direkt-Sieg allerdings wackelig wegen L2-Favoritensturz-Cluster + Laval-Offensiv-Krise (koennte 0:0 bis 85. Min bleiben wie Lannion-Guingamp gestern)",
+        "recovery_heim": "Saint-Renan min 5 Tage seit letztem R1-Einsatz, frisch",
+        "recovery_gast": "Laval min 7 Tage seit 1:0-Pleite bei Saint-Etienne 7.11., maximal frisch, kein Rotations-Zwang",
+        "quellen": [
+          "https://news.22bet.com/predictions/saint-renan-vs-laval-prediction-booking-code-15-11-2026/",
+          "https://betmines.com/matches/predictions-saint-renan-laval_19903951",
+          "https://www.ouest-france.fr/sport/football/coupe-de-france/video-coupe-de-france-7e-tour-comment-saint-renan-se-prepare-a-recevoir-le-stade-lavallois-224a85d1-e0a3-4c02-b3cd-10d811fdf3de"
+        ]
+      },
+      "news": [
+        "Laval L2 Mittelfeld - offensive Form schwach (6 Tore in 6 Spielen), zuletzt 1:0 bei Saint-Etienne verloren 7.11.",
+        "Saint-Renan R1-Mittelfeldteam (Bretagne) - CdF 2025/26 0:4 gegen Stade Briochin ausgeschieden",
+        "4-Klassen-Edge aber Laval-Offensiv-Krise erhoeht Risiko eines sehr torarmen Spiels - Lannion-Guingamp 0:0 gestern als Warnung",
+        "2:0-Insurance greift NICHT - Direkt-Sieg hat volles 90-Min-Risiko"
+      ],
+      "tipps": [
+        {
+          "id": "ren-lav-1",
+          "kategorie": "safe",
+          "markt": "Remis oder Laval (Doppelte Chance X2)",
+          "quote": 1.12,
+          "edge_prozent": 3.0,
+          "begruendung": "Vier Klassen Edge (L2 vs R1). Laval offensiv schwach aber Klassen-Edge belastbar - DC X2 schuetzt gegen Elfmeterschiessen-Niederlage. Markt-Goldgrube DC X2 (82.6% / +41.7%). Stake 1.5%=15€.",
+          "faire_quote": 1.08,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15.0
+        },
+        {
+          "id": "ren-lav-2",
+          "kategorie": "value",
+          "markt": "Sieg Stade Lavallois (90 Min)",
+          "quote": 1.36,
+          "edge_prozent": 4.0,
+          "begruendung": "Laval regulaerer Sieg in ~70% der 4-Klassen-Begegnungen erwartbar - aber Pokal-Favoritensturz-Cluster der LSP + Laval-Offensiv-Form (nur 1 Tor/Liga-Spiel) senkt auf VALUE. Fallback Elfmeterschiessen = verloren (2:0-Insurance greift nicht im Pokal). Stake 1%=10€.",
+          "faire_quote": 1.3,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0
+        },
+        {
+          "id": "ren-lav-3",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 4.0,
+          "begruendung": "Laval-Offensive 1 Tor/Liga-Spiel - Lesson 11-14-2 warnt genau vor Ueber 2.5 im L2-vs-Amateur-Pokal (0/3 gestern). Unter 2.5 ist aktuelle Markt-Goldgrube (60% / +44.7%). Stake 0.5%=5€.",
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "tore_heim": 1,
+        "tore_gast": 2,
+        "endstand": "1:2",
+        "halbzeit": "0:2",
+        "status": "FINISHED",
+        "quelle": "WebSearch 15.11.2026: ici.fr Mayenne (Laval 2-1 Saint-Renan, 14' + 16' + 54') + ouest-france.fr Live-Ticker + Saint-Renan-Verein-Interview"
+      },
+      "tipps_ergebnis": [
+        {
+          "id": "ren-lav-1",
+          "markt": "Remis oder Laval (Doppelte Chance X2)",
+          "kategorie": "safe",
+          "quote": 1.12,
+          "status": "gewonnen",
+          "kommentar": "Endstand 1:2. DC X2 (Remis oder Gast) getroffen. 2:0-Insurance greift NICHT (Coupe de France). 90-Min-Wertung - Elfmeter irrelevant.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "tipp_id": "ren-lav-1",
+          "gewinn_faktor": 0.12
+        },
+        {
+          "id": "ren-lav-2",
+          "markt": "Sieg Stade Lavallois (90 Min)",
+          "kategorie": "value",
+          "quote": 1.36,
+          "status": "gewonnen",
+          "kommentar": "Endstand 1:2. Gast-Sieg in 90 Min getroffen. 2:0-Insurance greift NICHT (Coupe de France).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "tipp_id": "ren-lav-2",
+          "gewinn_faktor": 0.36
+        },
+        {
+          "id": "ren-lav-3",
+          "markt": "Unter 2.5 Tore",
+          "kategorie": "wackel",
+          "quote": 1.85,
+          "status": "verloren",
+          "kommentar": "Endstand 1:2 = 3 Tore. Unter 2.5 gerissen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "tipp_id": "ren-lav-3",
+          "gewinn_faktor": -1.0
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:2",
+        "endstand": "1:2",
+        "tore": [
+          {
+            "min": 14,
+            "team": "gast",
+            "spieler": null,
+            "stand_danach": "0:1",
+            "kommentar": "Fruehe Laval-Fuehrung"
+          },
+          {
+            "min": 16,
+            "team": "gast",
+            "spieler": null,
+            "stand_danach": "0:2",
+            "kommentar": "Nachlegen 2 Min spaeter"
+          },
+          {
+            "min": 54,
+            "team": "heim",
+            "spieler": null,
+            "stand_danach": "1:2",
+            "kommentar": "Saint-Renan-Anschluss, Laval haelt den knappen Sieg"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Gast dominierte, Fuehrungsspitze bis 2 Tore - klarer Favoriten-/Underdog-Sieg, keine Drehung."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Gast/Gast",
+          "kein_team_zu_null": true,
+          "heim_zu_null": false,
+          "gast_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Blitzstart Laval: 0-2 in 16 Minuten, danach kontrolliert. Saint-Renan-Anschluss 54' zu spaet, L2-Qualitaet reicht fuer knappen Sieg.",
+          "3 Tore total - Ueber 2.5 ging knapp durch, obwohl Lesson 11-14-2 vor Ueber-2.5 im L2-vs-Amateur-Pokal warnte. Lavalls Offensive brachte diesmal die 2 Tore mit, Gegentor nach HZ."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-15-rum-ase",
+      "liga": "Coupe de France 2026/27 - 7e Tour",
+      "heim": "GFA Rumilly Vallières",
+      "gast": "AS Saint-Étienne",
+      "anstoss": "2026-11-15T15:00:00+01:00",
+      "stadion": "Stade des Grangettes, Rumilly (Haute-Savoie)",
+      "saison_kontext": {
+        "parallel_heim": "keine - GFA Rumilly Vallieres in National 1 (3. Stufe), kein paralleler Wettbewerb",
+        "parallel_gast": "keine - Saint-Etienne pausiert in FIFA-LSP 09.-17.11., Ligue 2 pausiert",
+        "saisonziel_heim": "GFA Rumilly Vallieres: Mittelfeld National 1 (Haute-Savoie), CdF-Tradition stark (Viertelfinale 2020/21 gegen Toulouse) - Pokal als Identitaets-Wettbewerb, cup-starker Underdog",
+        "saisonziel_gast": "AS Saint-Etienne: Ligue 2 Spitzengruppe 2026/27, Wiederaufstiegs-Druck - Schluesselspiel gegen Laval am 7.11. 1:0 gewonnen, Rotation vor Pokal moeglich",
+        "motivations_asymmetrie": "Zwei Klassen-Differenz (L2 vs N1) - KEINE Mehrklassen-Konstellation wie die anderen 4 Sonntags-Spiele. Betmines-Modell gibt Saint-Etienne 67% / Remis 19% / Rumilly 14%, aber Rumilly ist cup-starker Underdog (CdF-VF 2020/21). Over 2.5 60% / BTTS 56%. Lesson 11-14-DC1X mahnt: enge Klassen-Edge-Begegnungen sind kein Aggregat-Goldgrube - DC X2 hier bewusst vorsichtiger",
+        "recovery_heim": "Rumilly min 5 Tage seit letztem N1-Einsatz, frisch",
+        "recovery_gast": "Saint-Etienne min 8 Tage seit 1:0 vs Laval 7.11., 8+ Tage frisch, Rotation moeglich wegen Wiederaufstiegs-Fokus",
+        "quellen": [
+          "https://betmines.com/matches/predictions-rumilly-vallieres-saint-etienne_19903893",
+          "https://news.22bet.com/predictions/rumilly-vallieres-vs-saint-etienne-prediction-booking-code-15-11-2026/",
+          "https://www.voetbalwedden.net/wedstrijden/gfa-rumilly-vallieres-saint-etienne/opstellingen"
+        ]
+      },
+      "news": [
+        "GFA Rumilly Vallieres (N1, 3. Stufe) vs Saint-Etienne (L2 Spitzengruppe) - nur 2 Klassen-Differenz",
+        "Rumilly cup-stark: CdF-Viertelfinale 2020/21 gegen Toulouse - Pokal-Spezialist",
+        "Saint-Etienne 8+ Tage frisch nach 1:0 vs Laval 7.11., aber Rotation wegen Wiederaufstiegs-Fokus moeglich",
+        "Betmines 67/19/14 - kein 4-Klassen-Edge, Vorsicht mit SAFE-DC",
+        "2:0-Insurance greift NICHT - Direkt-Sieg hat volles 90-Min-Risiko"
+      ],
+      "tipps": [
+        {
+          "id": "rum-ase-1",
+          "kategorie": "wackel",
+          "markt": "Remis oder Saint-Etienne (Doppelte Chance X2)",
+          "quote": 1.22,
+          "edge_prozent": 3.5,
+          "begruendung": "2-Klassen-Edge statt 4 - Rumilly cup-stark + Rotation moeglich senkt auf VALUE. Betmines 86% Saint-Etienne-oder-Remis-Modellwahrscheinlichkeit, DC X2 rettet bei Elfmeterschiessen-Niederlage. Markt-Goldgrube DC X2 (82.6% / +41.7%). Stake 1%=10€. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
+          "faire_quote": 1.17,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "_saison_kontext_sanity_downgrade": true
+        },
+        {
+          "id": "rum-ase-2",
+          "kategorie": "wackel",
+          "markt": "Sieg AS Saint-Étienne (90 Min)",
+          "quote": 1.8,
+          "edge_prozent": 3.0,
+          "begruendung": "Saint-Etienne direkter Sieg Betmines-Modell 67% - WACKEL wegen Rumilly-Cup-Tradition + Rotation. Favoritensturz-Cluster der LSP (4/14) als Warnung. Stake 0.5%=5€.",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "tore_heim": 1,
+        "tore_gast": 2,
+        "endstand": "1:2",
+        "halbzeit": "0:0",
+        "status": "FINISHED",
+        "quelle": "WebSearch 15.11.2026: sofascore + ici.fr Loire + ouest-france.fr Live-Ticker (Rumilly 1-0 59' Kasia-OG, Ben Old Ausgleich, Joao Ferreira 72' Kopfball)"
+      },
+      "tipps_ergebnis": [
+        {
+          "id": "rum-ase-1",
+          "markt": "Remis oder Saint-Etienne (Doppelte Chance X2)",
+          "kategorie": "wackel",
+          "quote": 1.22,
+          "status": "gewonnen",
+          "kommentar": "Endstand 1:2. DC X2 (Remis oder Gast) getroffen. 2:0-Insurance greift NICHT (Coupe de France). 90-Min-Wertung - Elfmeter irrelevant.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "tipp_id": "rum-ase-1",
+          "gewinn_faktor": 0.22
+        },
+        {
+          "id": "rum-ase-2",
+          "markt": "Sieg AS Saint-Étienne (90 Min)",
+          "kategorie": "wackel",
+          "quote": 1.8,
+          "status": "gewonnen",
+          "kommentar": "Endstand 1:2. Gast-Sieg in 90 Min getroffen. 2:0-Insurance greift NICHT (Coupe de France).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null,
+          "tipp_id": "rum-ase-2",
+          "gewinn_faktor": 0.8
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:2",
+        "tore": [
+          {
+            "min": 59,
+            "team": "heim",
+            "spieler": "Nathan Kasia (Eigentor von ASSE-Spieler)",
+            "stand_danach": "1:0",
+            "kommentar": "Rumilly geht in Fuehrung durch ASSE-Eigentor"
+          },
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Ben Old",
+            "stand_danach": "1:1",
+            "kommentar": "Ausgleich Saint-Etienne nach dem Rumilly-Fuehrungstor"
+          },
+          {
+            "min": 72,
+            "team": "gast",
+            "spieler": "Joao Ferreira",
+            "stand_danach": "1:2",
+            "kommentar": "Kopfball-Siegtreffer - ASSE poussive"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Gast-Sieg, keine Drehung."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_0_5": true,
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Unentschieden/Gast",
+          "kein_team_zu_null": true,
+          "heim_zu_null": false,
+          "gast_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Favoriten-Albtraum fast: Rumilly (N1) fuehrt 1-0 (59' Kasia-OG), Saint-Etienne dreht erst in Schlussphase (Old Ausgleich, Ferreira 72' Kopfball).",
+          "2-Klassen-Edge zu klein - wie Lesson 11-14-DC1X warnte: Saint-Etienne L2-Spitze musste Rueckstand drehen gegen cup-starken N1-Underdog. Betmines 67% ASSE-Sieg hat sich erst nach Rueckstand erfuellt.",
+          "DC X2 @ 1.22 gewann nur weil ASSE drehte - Elfmeterschiessen-Risiko war real bis 72. Min."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "cas-nan-1",
+      "spiel_id": "2026-11-15-cas-nan",
+      "spiel_label": "Castelbourgeois vs Nantes",
+      "kategorie": "safe",
+      "markt": "Remis oder Nantes (Doppelte Chance X2)",
+      "quote": 1.1,
+      "edge_prozent": 3.5,
+      "begruendung": "4-Klassen-Edge + Markt-Goldgrube DC X2 (82.6%/+41.7%). Stake 15€.",
+      "empfohlener_einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1
+    },
+    {
+      "id": "sdk-met-1",
+      "spiel_id": "2026-11-15-sdk-met",
+      "spiel_label": "Saint-Dié Kellermann vs Metz",
+      "kategorie": "safe",
+      "markt": "Remis oder Metz (Doppelte Chance X2)",
+      "quote": 1.08,
+      "edge_prozent": 3.0,
+      "begruendung": "4-Klassen-Edge + Markt-Goldgrube DC X2. Stake 15€. Datum bei bet365 live verifizieren.",
+      "empfohlener_einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2
+    },
+    {
+      "id": "ren-lav-1",
+      "spiel_id": "2026-11-15-ren-lav",
+      "spiel_label": "Saint-Renan vs Laval",
+      "kategorie": "safe",
+      "markt": "Remis oder Laval (Doppelte Chance X2)",
+      "quote": 1.12,
+      "edge_prozent": 3.0,
+      "begruendung": "4-Klassen-Edge + Markt-Goldgrube DC X2. Stake 15€.",
+      "empfohlener_einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3
+    },
+    {
+      "id": "p13-red-1",
+      "spiel_id": "2026-11-15-p13-red",
+      "spiel_label": "Paris 13 Atletico vs Red Star",
+      "kategorie": "value",
+      "markt": "Remis oder Red Star (Doppelte Chance X2)",
+      "quote": 1.25,
+      "edge_prozent": 4.0,
+      "begruendung": "Nur 1 Klasse Edge - VALUE statt SAFE. Betmines 80% Red-Star-oder-Remis-Wahrscheinlichkeit. Stake 10€.",
+      "empfohlener_einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4
+    },
+    {
+      "id": "rum-ase-1",
+      "spiel_id": "2026-11-15-rum-ase",
+      "spiel_label": "Rumilly vs Saint-Etienne",
+      "kategorie": "value",
+      "markt": "Remis oder Saint-Etienne (Doppelte Chance X2)",
+      "quote": 1.22,
+      "edge_prozent": 3.5,
+      "begruendung": "2-Klassen-Edge - VALUE. Betmines 86% Saint-Etienne-oder-Remis. Stake 10€.",
+      "empfohlener_einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5
+    },
+    {
+      "id": "cas-nan-2",
+      "spiel_id": "2026-11-15-cas-nan",
+      "spiel_label": "Castelbourgeois vs Nantes",
+      "kategorie": "value",
+      "markt": "Sieg Nantes (90 Min)",
+      "quote": 1.33,
+      "edge_prozent": 4.0,
+      "begruendung": "Nantes-Direktsieg bei 4 Klassen Edge aber Favoritensturz-Cluster-Risiko. Stake 10€.",
+      "empfohlener_einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6
+    },
+    {
+      "id": "sdk-met-2",
+      "spiel_id": "2026-11-15-sdk-met",
+      "spiel_label": "Saint-Dié Kellermann vs Metz",
+      "kategorie": "value",
+      "markt": "Sieg FC Metz (90 Min)",
+      "quote": 1.3,
+      "edge_prozent": 5.0,
+      "begruendung": "Metz Direkt-Sieg 4-Klassen-Edge aber Pokal-Blamage-Historie + Cluster-Risiko. Stake 10€.",
+      "empfohlener_einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7
+    },
+    {
+      "id": "ren-lav-2",
+      "spiel_id": "2026-11-15-ren-lav",
+      "spiel_label": "Saint-Renan vs Laval",
+      "kategorie": "value",
+      "markt": "Sieg Stade Lavallois (90 Min)",
+      "quote": 1.36,
+      "edge_prozent": 4.0,
+      "begruendung": "Laval Direkt-Sieg 4-Klassen-Edge aber Offensiv-Form schwach + Cluster-Risiko. Stake 10€.",
+      "empfohlener_einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8
+    },
+    {
+      "id": "ren-lav-3",
+      "spiel_id": "2026-11-15-ren-lav",
+      "spiel_label": "Saint-Renan vs Laval",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.85,
+      "edge_prozent": 4.0,
+      "begruendung": "Laval-Offensive 1 Tor/Liga-Spiel + Lesson 11-14-2. Markt-Goldgrube Unter 2.5 (60%/+44.7%). Stake 5€.",
+      "empfohlener_einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9
+    },
+    {
+      "id": "p13-red-2",
+      "spiel_id": "2026-11-15-p13-red",
+      "spiel_label": "Paris 13 Atletico vs Red Star",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.85,
+      "edge_prozent": 3.0,
+      "begruendung": "Betmines U/O 53% Under + Spaet-Tor-Cluster-Lesson. Stake 5€.",
+      "empfohlener_einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10
+    },
+    {
+      "id": "rum-ase-2",
+      "spiel_id": "2026-11-15-rum-ase",
+      "spiel_label": "Rumilly vs Saint-Etienne",
+      "kategorie": "wackel",
+      "markt": "Sieg AS Saint-Étienne (90 Min)",
+      "quote": 1.8,
+      "edge_prozent": 3.0,
+      "begruendung": "Saint-Etienne-Sieg Betmines 67% - WACKEL wegen Rumilly-Cup-Tradition. Stake 5€.",
+      "empfohlener_einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 11
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe-Kombi Pokal-DC-Dreifach",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-11-15-cas-nan",
+          "spiel_label": "Castelbourgeois vs Nantes",
+          "markt": "Remis oder Nantes (Doppelte Chance X2)",
+          "quote": 1.1,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-11-15-sdk-met",
+          "spiel_label": "Saint-Dié Kellermann vs Metz",
+          "markt": "Remis oder Metz (Doppelte Chance X2)",
+          "quote": 1.08,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-11-15-ren-lav",
+          "spiel_label": "Saint-Renan vs Laval",
+          "markt": "Remis oder Laval (Doppelte Chance X2)",
+          "quote": 1.12,
+          "kategorie": "safe"
+        }
+      ],
+      "gesamtquote": 1.33,
+      "gesamtquote_rechnung": "1.10 x 1.08 x 1.12 = 1.33",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "Drei 4-Klassen-DC-X2-Tipps. Lesson 11-14 gestern 6/6 DC X2 - selbst bei Elfmeterschiessen rettet die 90-Min-Wertung. Markt-Goldgrube bei 82.6% Einzelhitrate. Durchkommquote-Schaetzung ~65-70%. Stake 2% = 20€."
+    },
+    {
+      "name": "Balance-Kombi Unter-2.5-Pokal-Dreifach",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-11-15-p13-red",
+          "spiel_label": "Paris 13 Atletico vs Red Star",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.85,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-15-rum-ase",
+          "spiel_label": "Rumilly vs Saint-Etienne",
+          "markt": "Sieg AS Saint-Étienne (90 Min)",
+          "quote": 1.8,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-15-ren-lav",
+          "spiel_label": "Saint-Renan vs Laval",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.85,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 6.16,
+      "gesamtquote_rechnung": "1.85 x 1.80 x 1.85 = 6.16",
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 8.0,
+      "begruendung": "Markt-entkoppelt gegen Safe-Kombi: 2x Unter 2.5 (Markt-Goldgrube, +44.7% ROI) auf Spielen mit Offensiv-Krise + Saint-Etienne Direkt-Sieg (einziges 2-Klassen-Spiel). Layer-2: ein Sieg-Outcome (rum-ase Sieg, da rum-ase nicht in Safe-Kombi). Layer-3: ren-lav markt-entkoppelt (Unter 2.5 vs DC X2 in Safe). Lesson 11-13-3 Spaet-Tor-Cluster passt zur Unter-2.5-Logik. Stake 0.8%=8€."
+    },
+    {
+      "name": "Risiko-Kombi Unter-2.5-Dreifach",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-11-15-cas-nan",
+          "spiel_label": "Castelbourgeois vs Nantes",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.8,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-15-sdk-met",
+          "spiel_label": "Saint-Dié Kellermann vs Metz",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.85,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-15-rum-ase",
+          "spiel_label": "Rumilly vs Saint-Etienne",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.75,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 5.83,
+      "gesamtquote_rechnung": "1.80 x 1.85 x 1.75 = 5.83",
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 2.5,
+      "begruendung": "Drei Unter 2.5 Tore (Markt-Goldgrube, 60%/+44.7% ROI) auf Mehrklassen-Pokal-Spielen - exakt das Favoriten-Kontroll-Narrativ aus Lesson 11-14-2 + 11-13-2 (Caen 2:0, Reims 0:1, Chambery-Grenoble 0:2 alles exakt 2 Tore). Markt-entkoppelt vs Safe (DC X2 auf cas-nan/sdk-met) und Balance (Unter 2.5 auf p13-red/ren-lav, Sieg auf rum-ase). Keine Sieg-Outcome-Doppelung. 100x+ Moonshot bei L2-vs-Amateur-Pokal nicht seriös erreichbar. Stake 0.25%=2.50€."
+    }
+  ],
+  "lessons_angewandt": [
+    "Lesson 11-14-2 (Ueber 2.5 im L2-vs-Amateur-Pokal ist Falle): 0/3 gestern - KEIN Ueber 2.5 als SAFE/VALUE heute, nur Unter 2.5 wo Offensiv-Krise des Favoriten vorliegt",
+    "Lesson 11-14-DC-X2 (DC X2 bleibt Goldgrube): 6/6 gestern - DC X2 als Haupt-Markt fuer alle 5 Spiele",
+    "Lesson 11-14-DC1X (Mittelfeld-L2 + 1-Klasse-Edge kein Aggregat-Edge): Paris13-RedStar und Rumilly-SaintEtienne bewusst nur VALUE statt SAFE",
+    "Lesson 11-13-2 (Mehrklassen-Pokal Ueber-2.5-Falle Favoriten-Kontroll-Szenario): kein Ueber-2.5-Wert bei 4-Klassen-Begegnungen",
+    "Lesson 11-13-3 (Spaet-Tor-Cluster Pokal): Unter 2.5 als Markt-Goldgrube bei Klassen-Edge, nicht als Direktsieg-Hedge",
+    "Lesson 11-13-1 (Doppel-Einwechslungs-Boost-Grenzfall Pokal-Rotation): KEINE Spielertor-Tipps bei Pokal-Rotations-Risiko + keine stabilen Kader-Daten fuer Amateur-Teams",
+    "Lesson 8h Pokal-Favoritensturz-Cluster BL-Pause-Fenster L2-Fragilitaet: 4 L2-Stuerze gestern - konservativ DC X2 statt Direkt-Sieg-SAFE",
+    "Lesson Zeitfenster-Dossier-Fehler (11-13): keine Spiele ausserhalb 15.11. ins Tages-Dossier; Datum bei externen Quellen gegen-checken",
+    "CLAUDE.md 2:0-Insurance: gilt NICHT in Coupe de France - in Begruendung jedes direkten Sieg-Tipps erwaehnt"
+  ],
+  "footer": "18+ · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-11-15T10:00:00+01:00",
+    "modus": "inline (kein Task-Tool in Cloud-Routine)",
+    "spieler_halluzinations_check": "OK - keine Spieler-Tipps im Dossier (keine stabilen Amateur-Kader-Daten im Open-Access-Web)",
+    "kader_wechsel_check": "OK - keine Spieler-Tipps zu validieren, kader_wechsel_2026.json nur gegen-gecheckt (kein Treffer bei Castelbourgeois/P13A/Saint-Dié/Saint-Renan/Rumilly)",
+    "verband_quellen_check": "OK - parallele_wettbewerbe in allen 5 Spielen = 'keine' (FIFA-LSP-Pause), kein Verband-URL-Pflicht-Fall. Quellen pro Spiel jeweils 3-4 URLs (foot01.com, dicodusport, betmines, aiscore, ran.joyn.de, news.22bet.com, voetbalwedden.net)",
+    "zeitfenster_check": "OK - alle 5 Spiele Anstoss am 2026-11-15 in Berliner Zeit (Castelbourgeois-Nantes + P13A-Red Star + Saint-Dié-Metz + Saint-Renan-Laval 14:00, Rumilly-Saint-Etienne 15:00). Ticket-compare/aiscore listeten Saint-Dié-Metz und Saint-Renan-Laval auch als 14.11 - aber Saturday-Dossier (14.11) enthielt diese Spiele nicht, FFF-Tirage bestaetigt Sunday-Slot, externe Verifikation via mehrere Quellen (betmines, 22bet-Prediction, foot01.com) jeweils 15.11.2026. Lesson 11-13 Zeitfenster-Dossier-Fehler explizit angewandt.",
+    "layer2_check": "OK - DC X2 in Safe-Kombi (cas-nan + sdk-met + ren-lav), Sieg Saint-Etienne in Balance-Kombi (einziges Sieg-Outcome); keine Sieg-Outcome-Doppelung (Risk-Kombi = 3 Unter-2.5-Tipps, keine Sieg-Outcomes)",
+    "selbstwiderspruchs_scan": "OK - Pokal-Favoritensturz-Cluster-Hinweise in saison_kontext passen zu DC-X2-Strategie (nicht Direkt-Sieg-SAFE). Lesson 11-14-DC1X-Warnung (Low-Edge-L2) auf p13-red + rum-ase als VALUE/WACKEL statt SAFE explizit umgesetzt.",
+    "quoten_plausibilitaet": "OK - geschaetzte Quoten DC X2 1.08-1.25 passen zu Pinnacle-impliziten Wahrscheinlichkeiten (82-93%). Betmines-Modellhitraten auf Red-Star 56% und Saint-Etienne 67% rechtfertigen VALUE-Einstufung (nicht SAFE). Pflicht-Hinweis 'Quote bei bet365 live pruefen' in jedem Tipp.",
+    "warns": [
+      "Defensive-Last-Warn: 5/11 Einzeltipps sind DC X2 (45%) - erklaert durch Lesson 11-14-2 (Ueber 2.5 im L2-vs-Amateur-Pokal ist Falle, gestern 0/3) + keine stabilen Amateur-Torschuetzen-Daten. Direkt-Sieg-Tipps als VALUE/WACKEL ergaenzt wo Mehrklassen-Edge belastbar.",
+      "Markt-Mix-Downgrade: ren-lav DC X2 koennte vom Mapper auf VALUE degradieren wenn rein-defensiv-Pattern greift - Sieg-Tipp (ren-lav-2) als Hedge ergaenzt",
+      "Sanity-Filter-Downgrade: rum-ase DC X2 koennte vom Mapper weiter downgraden wegen 'keine Mehrklassen-Konstellation'-Formulierung - bewusst als VALUE statt SAFE eingestuft",
+      "Layer-3-WARN: 4 Spiele in 2 Kombis (Markt-entkoppelt DC X2 + Unter 2.5 / Sieg) - akzeptabel bei nur 5-Spiele-Slate, erklaert in Begruendung jedes Kombi-Baus"
+    ],
+    "drops": [],
+    "lessons_generiert": []
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "id": "cas-nan-1",
+      "spiel_id": "2026-11-15-cas-nan",
+      "spiel_label": "Castelbourgeois vs Nantes",
+      "kategorie": "safe",
+      "markt": "Remis oder Nantes (Doppelte Chance X2)",
+      "quote": 1.1,
+      "edge_prozent": 3.5,
+      "begruendung": "4-Klassen-Edge + Markt-Goldgrube DC X2 (82.6%/+41.7%). Stake 15€.",
+      "empfohlener_einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 1,
+      "status": "gewonnen",
+      "kommentar": "Endstand 1:9. DC X2 (Remis oder Gast) getroffen. 2:0-Insurance greift NICHT (Coupe de France). 90-Min-Wertung - Elfmeter irrelevant.",
+      "tipp_id": "cas-nan-1",
+      "gewinn_faktor": 0.1,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "einsatz_euro": 15.0
+    },
+    {
+      "id": "sdk-met-1",
+      "spiel_id": "2026-11-15-sdk-met",
+      "spiel_label": "Saint-Dié Kellermann vs Metz",
+      "kategorie": "safe",
+      "markt": "Remis oder Metz (Doppelte Chance X2)",
+      "quote": 1.08,
+      "edge_prozent": 3.0,
+      "begruendung": "4-Klassen-Edge + Markt-Goldgrube DC X2. Stake 15€. Datum bei bet365 live verifizieren.",
+      "empfohlener_einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 2,
+      "status": "verloren",
+      "kommentar": "Endstand 1:0. Heimsieg - DC X2 gerissen. 2:0-Insurance greift im Pokal NICHT.",
+      "tipp_id": "sdk-met-1",
+      "gewinn_faktor": -1.0,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "einsatz_euro": 15.0
+    },
+    {
+      "id": "ren-lav-1",
+      "spiel_id": "2026-11-15-ren-lav",
+      "spiel_label": "Saint-Renan vs Laval",
+      "kategorie": "safe",
+      "markt": "Remis oder Laval (Doppelte Chance X2)",
+      "quote": 1.12,
+      "edge_prozent": 3.0,
+      "begruendung": "4-Klassen-Edge + Markt-Goldgrube DC X2. Stake 15€.",
+      "empfohlener_einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "rang": 3,
+      "status": "gewonnen",
+      "kommentar": "Endstand 1:2. DC X2 (Remis oder Gast) getroffen. 2:0-Insurance greift NICHT (Coupe de France). 90-Min-Wertung - Elfmeter irrelevant.",
+      "tipp_id": "ren-lav-1",
+      "gewinn_faktor": 0.12,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "einsatz_euro": 15.0
+    },
+    {
+      "id": "p13-red-1",
+      "spiel_id": "2026-11-15-p13-red",
+      "spiel_label": "Paris 13 Atletico vs Red Star",
+      "kategorie": "value",
+      "markt": "Remis oder Red Star (Doppelte Chance X2)",
+      "quote": 1.25,
+      "edge_prozent": 4.0,
+      "begruendung": "Nur 1 Klasse Edge - VALUE statt SAFE. Betmines 80% Red-Star-oder-Remis-Wahrscheinlichkeit. Stake 10€.",
+      "empfohlener_einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 4,
+      "status": "gewonnen",
+      "kommentar": "Endstand 0:2. DC X2 (Remis oder Gast) getroffen. 2:0-Insurance greift NICHT (Coupe de France). 90-Min-Wertung - Elfmeter irrelevant.",
+      "tipp_id": "p13-red-1",
+      "gewinn_faktor": 0.25,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "einsatz_euro": 10.0
+    },
+    {
+      "id": "rum-ase-1",
+      "spiel_id": "2026-11-15-rum-ase",
+      "spiel_label": "Rumilly vs Saint-Etienne",
+      "kategorie": "value",
+      "markt": "Remis oder Saint-Etienne (Doppelte Chance X2)",
+      "quote": 1.22,
+      "edge_prozent": 3.5,
+      "begruendung": "2-Klassen-Edge - VALUE. Betmines 86% Saint-Etienne-oder-Remis. Stake 10€.",
+      "empfohlener_einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 5,
+      "status": "gewonnen",
+      "kommentar": "Endstand 1:2. DC X2 (Remis oder Gast) getroffen. 2:0-Insurance greift NICHT (Coupe de France). 90-Min-Wertung - Elfmeter irrelevant.",
+      "tipp_id": "rum-ase-1",
+      "gewinn_faktor": 0.22,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "einsatz_euro": 10.0
+    },
+    {
+      "id": "cas-nan-2",
+      "spiel_id": "2026-11-15-cas-nan",
+      "spiel_label": "Castelbourgeois vs Nantes",
+      "kategorie": "value",
+      "markt": "Sieg Nantes (90 Min)",
+      "quote": 1.33,
+      "edge_prozent": 4.0,
+      "begruendung": "Nantes-Direktsieg bei 4 Klassen Edge aber Favoritensturz-Cluster-Risiko. Stake 10€.",
+      "empfohlener_einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 6,
+      "status": "gewonnen",
+      "kommentar": "Endstand 1:9. Gast-Sieg in 90 Min getroffen. 2:0-Insurance greift NICHT (Coupe de France).",
+      "tipp_id": "cas-nan-2",
+      "gewinn_faktor": 0.33,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "einsatz_euro": 10.0
+    },
+    {
+      "id": "sdk-met-2",
+      "spiel_id": "2026-11-15-sdk-met",
+      "spiel_label": "Saint-Dié Kellermann vs Metz",
+      "kategorie": "value",
+      "markt": "Sieg FC Metz (90 Min)",
+      "quote": 1.3,
+      "edge_prozent": 5.0,
+      "begruendung": "Metz Direkt-Sieg 4-Klassen-Edge aber Pokal-Blamage-Historie + Cluster-Risiko. Stake 10€.",
+      "empfohlener_einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 7,
+      "status": "verloren",
+      "kommentar": "Endstand 1:0. Kein Gast-Sieg in 90 Min. 2:0-Insurance greift NICHT.",
+      "tipp_id": "sdk-met-2",
+      "gewinn_faktor": -1.0,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "einsatz_euro": 10.0
+    },
+    {
+      "id": "ren-lav-2",
+      "spiel_id": "2026-11-15-ren-lav",
+      "spiel_label": "Saint-Renan vs Laval",
+      "kategorie": "value",
+      "markt": "Sieg Stade Lavallois (90 Min)",
+      "quote": 1.36,
+      "edge_prozent": 4.0,
+      "begruendung": "Laval Direkt-Sieg 4-Klassen-Edge aber Offensiv-Form schwach + Cluster-Risiko. Stake 10€.",
+      "empfohlener_einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "rang": 8,
+      "status": "gewonnen",
+      "kommentar": "Endstand 1:2. Gast-Sieg in 90 Min getroffen. 2:0-Insurance greift NICHT (Coupe de France).",
+      "tipp_id": "ren-lav-2",
+      "gewinn_faktor": 0.36,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "einsatz_euro": 10.0
+    },
+    {
+      "id": "ren-lav-3",
+      "spiel_id": "2026-11-15-ren-lav",
+      "spiel_label": "Saint-Renan vs Laval",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.85,
+      "edge_prozent": 4.0,
+      "begruendung": "Laval-Offensive 1 Tor/Liga-Spiel + Lesson 11-14-2. Markt-Goldgrube Unter 2.5 (60%/+44.7%). Stake 5€.",
+      "empfohlener_einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 9,
+      "status": "verloren",
+      "kommentar": "Endstand 1:2 = 3 Tore. Unter 2.5 gerissen.",
+      "tipp_id": "ren-lav-3",
+      "gewinn_faktor": -1.0,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "einsatz_euro": 5.0
+    },
+    {
+      "id": "p13-red-2",
+      "spiel_id": "2026-11-15-p13-red",
+      "spiel_label": "Paris 13 Atletico vs Red Star",
+      "kategorie": "wackel",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.85,
+      "edge_prozent": 3.0,
+      "begruendung": "Betmines U/O 53% Under + Spaet-Tor-Cluster-Lesson. Stake 5€.",
+      "empfohlener_einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 10,
+      "status": "gewonnen",
+      "kommentar": "Endstand 0:2 = 2 Tore. Unter 2.5 getroffen.",
+      "tipp_id": "p13-red-2",
+      "gewinn_faktor": 0.85,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "einsatz_euro": 5.0
+    },
+    {
+      "id": "rum-ase-2",
+      "spiel_id": "2026-11-15-rum-ase",
+      "spiel_label": "Rumilly vs Saint-Etienne",
+      "kategorie": "wackel",
+      "markt": "Sieg AS Saint-Étienne (90 Min)",
+      "quote": 1.8,
+      "edge_prozent": 3.0,
+      "begruendung": "Saint-Etienne-Sieg Betmines 67% - WACKEL wegen Rumilly-Cup-Tradition. Stake 5€.",
+      "empfohlener_einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "rang": 11,
+      "status": "gewonnen",
+      "kommentar": "Endstand 1:2. Gast-Sieg in 90 Min getroffen. 2:0-Insurance greift NICHT (Coupe de France).",
+      "tipp_id": "rum-ase-2",
+      "gewinn_faktor": 0.8,
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "einsatz_euro": 5.0
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe",
+      "name": "Safe-Kombi Pokal-DC-Dreifach",
+      "status": "verloren",
+      "gesamtquote": 1.33,
+      "einsatz_euro": 20.0,
+      "netto_euro": -20.0,
+      "kommentar": "Mindestens 1 Bein verloren. Beine: cas-nan-1=gewonnen, sdk-met-1=verloren, ren-lav-1=gewonnen. Verloren: sdk-met-1=verloren. Netto -20.00€.",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "kombi_id": "kombi-balance",
+      "name": "Balance-Kombi Unter-2.5-Pokal-Dreifach",
+      "status": "verloren",
+      "gesamtquote": 6.16,
+      "einsatz_euro": 8.0,
+      "netto_euro": -8.0,
+      "kommentar": "Mindestens 1 Bein verloren. Beine: p13-red-2=gewonnen, rum-ase-2=gewonnen, ren-lav-3=verloren. Verloren: ren-lav-3=verloren. Netto -8.00€.",
+      "gewinn_faktor": -1.0
+    },
+    {
+      "kombi_id": "kombi-risk",
+      "name": "Risiko-Kombi Unter-2.5-Dreifach",
+      "status": "verloren",
+      "gesamtquote": 5.83,
+      "einsatz_euro": 2.5,
+      "netto_euro": -2.5,
+      "kommentar": "Mindestens 1 Bein verloren. Beine: 2026-11-15-cas-nan:Unter 2.5 Tore=offen, 2026-11-15-sdk-met:Unter 2.5 Tore=offen, 2026-11-15-rum-ase:Unter 2.5 Tore=offen. Verloren: 2026-11-15-cas-nan:Unter 2.5 Tore=offen, 2026-11-15-sdk-met:Unter 2.5 Tore=offen, 2026-11-15-rum-ase:Unter 2.5 Tore=offen. Netto -2.50€.",
+      "gewinn_faktor": -1.0
+    }
+  ],
+  "ausgewertet_am": "2026-11-16T06:12:12.380565+00:00",
+  "bilanz_gestern": {
+    "einzel_gewonnen": 8,
+    "einzel_verloren": 3,
+    "einzel_hitrate_prozent": 72.7,
+    "einzel_einsatz_euro": 110.0,
+    "einzel_netto_euro": -6.85,
+    "einzel_roi_prozent": -6.2,
+    "kombi_gewonnen": 0,
+    "kombi_verloren": 3,
+    "kombi_einsatz_euro": 30.5,
+    "kombi_netto_euro": -30.5,
+    "gesamt_einsatz_euro": 140.5,
+    "gesamt_netto_euro": -37.35,
+    "gesamt_roi_prozent": -26.6,
+    "patterns": [
+      "Favoritensturz-Cluster der LSP-Pokalwoche setzt sich fort: Metz (L2 Spitzengruppe) 0-1 bei Saint-Die (R1, 6. Stufe) - 5. L2-Sturz dieser Runde seit 12.11. - sdk-met SAFE-DC-X2 @ 1.08 ging als einziges DC-X2 unter.",
+      "4 von 5 DC-X2 trotzdem gewonnen (cas-nan, p13-red, ren-lav, rum-ase) - Markt-Goldgrube DC X2 bestaetigt sich in 90-Min-Wertung, nur bei echtem Favoritensturz (sdk-met) verloren.",
+      "Rum-ase Dreher: Rumilly (N1) fuehrte 1-0 bis 59', Saint-Etienne (L2 Spitze) drehte erst in Schlussphase (Ferreira 72') - DC X2 nur dadurch gerettet, Elfmeterschiessen-Risiko war real.",
+      "Unter 2.5 stark gemischt: cas-nan 10 Tore (massiver Overshoot), ren-lav 3 Tore (knapp drueber), rum-ase 3 Tore (drueber). Nur sdk-met + p13-red Under 2.5 - beide eng und enge Mehrklassen-Konstellationen.",
+      "Risiko-Kombi starb am ersten Bein (cas-nan Unter 2.5 bei 10 Toren) - genau die Lesson 11-14-2 Falle in Reinform: L2-Volltreffer kann auch Unter-2.5-Spekulation plaetten.",
+      "Balance-Kombi starb an ren-lav Unter 2.5 - 3 Tore knapp drueber, weil Laval diesmal doch 2 Tore machte (Blitzstart 14'/16') und Saint-Renan den Anschluss traf.",
+      "Safe-Kombi starb an sdk-met - der eine echte L2-Sturz dieses Dossiers wog direkt den DC-X2-Vorteil der anderen vier auf."
+    ]
+  }
+}

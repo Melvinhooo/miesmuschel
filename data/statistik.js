@@ -1,238 +1,40 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-11-15T06:16:11+00:00",
+  "letzte_berechnung": "2026-11-16T06:14:08+00:00",
   "gesamt": {
-    "tipps": 325,
-    "gewonnen": 188,
-    "verloren": 113,
-    "push": 1,
-    "offen": 23,
-    "einsatz": 302.0,
-    "netto": 91.36,
-    "trefferquote": 62.5,
-    "roi_prozent": 30.3
-  },
-  "letzte_30_tage": {
-    "tipps": 147,
-    "gewonnen": 88,
-    "verloren": 47,
+    "tipps": 267,
+    "gewonnen": 168,
+    "verloren": 87,
     "push": 0,
     "offen": 12,
-    "einsatz": 135.0,
-    "netto": 15.81,
-    "trefferquote": 65.2,
-    "roi_prozent": 11.7
+    "einsatz": 255.0,
+    "netto": 91.39,
+    "trefferquote": 65.9,
+    "roi_prozent": 35.8
+  },
+  "letzte_30_tage": {
+    "tipps": 158,
+    "gewonnen": 96,
+    "verloren": 50,
+    "push": 0,
+    "offen": 12,
+    "einsatz": 146.0,
+    "netto": 15.84,
+    "trefferquote": 65.8,
+    "roi_prozent": 10.8
   },
   "letzte_90_tage": {
-    "tipps": 256,
-    "gewonnen": 160,
+    "tipps": 259,
+    "gewonnen": 163,
     "verloren": 84,
     "push": 0,
     "offen": 12,
-    "einsatz": 244.0,
-    "netto": 91.36,
-    "trefferquote": 65.6,
-    "roi_prozent": 37.4
+    "einsatz": 247.0,
+    "netto": 91.09,
+    "trefferquote": 66.0,
+    "roi_prozent": 36.9
   },
   "nach_liga": {
-    "Liga Portugal Betclic 2026/27 - 1. Spieltag": {
-      "tipps": 3,
-      "gewonnen": 0,
-      "verloren": 3,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Allsvenskan 2026 - 16. Spieltag": {
-      "tipps": 4,
-      "gewonnen": 2,
-      "verloren": 1,
-      "push": 1,
-      "offen": 0,
-      "einsatz": 4.0,
-      "netto": 0.0,
-      "trefferquote": 66.7,
-      "roi_prozent": 0.0
-    },
-    "EFL Carabao Cup 2026/27 - Runde 1": {
-      "tipps": 3,
-      "gewonnen": 1,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 33.3,
-      "roi_prozent": 0.0
-    },
-    "UEFA Champions League 2026/27 - 3. Qualifikationsrunde Meisterpfad Rueckspiel": {
-      "tipps": 5,
-      "gewonnen": 3,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 5.0,
-      "netto": 0.0,
-      "trefferquote": 60.0,
-      "roi_prozent": 0.0
-    },
-    "UEFA Champions League 2026/27 - 3. Qualifikationsrunde Ligapfad Rueckspiel": {
-      "tipps": 5,
-      "gewonnen": 4,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 5.0,
-      "netto": 0.0,
-      "trefferquote": 80.0,
-      "roi_prozent": 0.0
-    },
-    "UEFA Super Cup 2026": {
-      "tipps": 5,
-      "gewonnen": 4,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 5.0,
-      "netto": 0.0,
-      "trefferquote": 80.0,
-      "roi_prozent": 0.0
-    },
-    "🔍 Beobachtung - Club Friendly (Pre-Season Emirates)": {
-      "tipps": 2,
-      "gewonnen": 1,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 50.0,
-      "roi_prozent": 0.0
-    },
-    "🔍 Beobachtung - Club Friendly (Pre-Season City Ground)": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "UEFA Europa League - 3. Qualifikationsrunde (Rueckspiel)": {
-      "tipps": 10,
-      "gewonnen": 2,
-      "verloren": 8,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 10.0,
-      "netto": 0.0,
-      "trefferquote": 20.0,
-      "roi_prozent": 0.0
-    },
-    "EFL Championship - Saison-Auftakt Spieltag 1": {
-      "tipps": 2,
-      "gewonnen": 0,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Primeira Liga - Spieltag 2": {
-      "tipps": 3,
-      "gewonnen": 2,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 66.7,
-      "roi_prozent": 0.0
-    },
-    "Jupiler Pro League - Spieltag 4": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "2. Bundesliga - Spieltag 2": {
-      "tipps": 7,
-      "gewonnen": 5,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 7.0,
-      "netto": 0.0,
-      "trefferquote": 71.4,
-      "roi_prozent": 0.0
-    },
-    "Eredivisie - Spieltag 2": {
-      "tipps": 3,
-      "gewonnen": 1,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 33.3,
-      "roi_prozent": 0.0
-    },
-    "EFL Championship - Spieltag 1": {
-      "tipps": 4,
-      "gewonnen": 2,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 4.0,
-      "netto": 0.0,
-      "trefferquote": 50.0,
-      "roi_prozent": 0.0
-    },
-    "LaLiga 2026/27 - Spieltag 1": {
-      "tipps": 7,
-      "gewonnen": 0,
-      "verloren": 0,
-      "push": 0,
-      "offen": 7,
-      "einsatz": 0.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Trophée des Champions 2026": {
-      "tipps": 2,
-      "gewonnen": 0,
-      "verloren": 0,
-      "push": 0,
-      "offen": 2,
-      "einsatz": 0.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "FA Community Shield 2026": {
-      "tipps": 2,
-      "gewonnen": 0,
-      "verloren": 0,
-      "push": 0,
-      "offen": 2,
-      "einsatz": 0.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
     "LaLiga 2026/27 - Matchday 1": {
       "tipps": 4,
       "gewonnen": 3,
@@ -817,304 +619,18 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 47.3
     },
     "Coupe de France 2026/27 - 7e Tour": {
-      "tipps": 22,
-      "gewonnen": 8,
-      "verloren": 8,
+      "tipps": 33,
+      "gewonnen": 16,
+      "verloren": 11,
       "push": 0,
       "offen": 6,
-      "einsatz": 16.0,
-      "netto": -3.16,
-      "trefferquote": 50.0,
-      "roi_prozent": -19.8
+      "einsatz": 27.0,
+      "netto": -3.13,
+      "trefferquote": 59.3,
+      "roi_prozent": -11.6
     }
   },
   "nach_markt": {
-    "Sieg 1X2: Santa Clara": {
-      "tipps": 3,
-      "gewonnen": 0,
-      "verloren": 3,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Sieg 1X2: IK Sirius": {
-      "tipps": 4,
-      "gewonnen": 2,
-      "verloren": 1,
-      "push": 1,
-      "offen": 0,
-      "einsatz": 4.0,
-      "netto": 0.0,
-      "trefferquote": 66.7,
-      "roi_prozent": 0.0
-    },
-    "Sieg 1X2: Plymouth Argyle": {
-      "tipps": 3,
-      "gewonnen": 1,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 33.3,
-      "roi_prozent": 0.0
-    },
-    "Sieg 1X2: Olympique Lyon": {
-      "tipps": 3,
-      "gewonnen": 2,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 66.7,
-      "roi_prozent": 0.0
-    },
-    "Sieg 1X2: SK Slovan Bratislava": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "Unter 2.5 Tore": {
-      "tipps": 15,
-      "gewonnen": 9,
-      "verloren": 6,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 15.0,
-      "netto": 6.7,
-      "trefferquote": 60.0,
-      "roi_prozent": 44.7
-    },
-    "Sieg 1X2: Roter Stern Belgrad": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Sieg 1X2: NK Celje": {
-      "tipps": 2,
-      "gewonnen": 1,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 50.0,
-      "roi_prozent": 0.0
-    },
-    "Beide Teams treffen: Ja": {
-      "tipps": 17,
-      "gewonnen": 14,
-      "verloren": 3,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 17.0,
-      "netto": 2.78,
-      "trefferquote": 82.4,
-      "roi_prozent": 16.4
-    },
-    "Sieg 1X2: Arsenal FC": {
-      "tipps": 2,
-      "gewonnen": 1,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 50.0,
-      "roi_prozent": 0.0
-    },
-    "Doppelte Chance X2: Bayer Leverkusen oder Draw": {
-      "tipps": 1,
-      "gewonnen": 0,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Doppelte Chance: Anderlecht oder Draw": {
-      "tipps": 3,
-      "gewonnen": 2,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 66.7,
-      "roi_prozent": 0.0
-    },
-    "Sieg 1X2: SL Benfica Lissabon": {
-      "tipps": 2,
-      "gewonnen": 0,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Doppelte Chance: Bayer Salzburg oder Draw": {
-      "tipps": 3,
-      "gewonnen": 0,
-      "verloren": 3,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Sieg 1X2: Rangers FC": {
-      "tipps": 2,
-      "gewonnen": 0,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Sieg 1X2: Wolverhampton Wanderers": {
-      "tipps": 2,
-      "gewonnen": 0,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Sieg 1X2: Sporting CP": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "Sieg 1X2: SC Telstar": {
-      "tipps": 2,
-      "gewonnen": 0,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Doppelte Chance: Norwich City oder Unentschieden": {
-      "tipps": 3,
-      "gewonnen": 1,
-      "verloren": 2,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 3.0,
-      "netto": 0.0,
-      "trefferquote": 33.3,
-      "roi_prozent": 0.0
-    },
-    "Doppelte Chance: Sheffield United oder Unentschieden": {
-      "tipps": 1,
-      "gewonnen": 1,
-      "verloren": 0,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 1.0,
-      "netto": 0.0,
-      "trefferquote": 100.0,
-      "roi_prozent": 0.0
-    },
-    "Sieg 1X2: FC Porto": {
-      "tipps": 2,
-      "gewonnen": 1,
-      "verloren": 1,
-      "push": 0,
-      "offen": 0,
-      "einsatz": 2.0,
-      "netto": 0.0,
-      "trefferquote": 50.0,
-      "roi_prozent": 0.0
-    },
-    "Doppelte Chance: Celta Vigo oder Unentschieden": {
-      "tipps": 2,
-      "gewonnen": 0,
-      "verloren": 0,
-      "push": 0,
-      "offen": 2,
-      "einsatz": 0.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Doppelte Chance: PSG oder Unentschieden": {
-      "tipps": 2,
-      "gewonnen": 0,
-      "verloren": 0,
-      "push": 0,
-      "offen": 2,
-      "einsatz": 0.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Doppelte Chance: Espanyol oder Unentschieden": {
-      "tipps": 3,
-      "gewonnen": 0,
-      "verloren": 0,
-      "push": 0,
-      "offen": 3,
-      "einsatz": 0.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Villarreal CF Sieg": {
-      "tipps": 2,
-      "gewonnen": 0,
-      "verloren": 0,
-      "push": 0,
-      "offen": 2,
-      "einsatz": 0.0,
-      "netto": 0.0,
-      "trefferquote": 0.0,
-      "roi_prozent": 0.0
-    },
-    "Ueber 2.5 Tore": {
-      "tipps": 30,
-      "gewonnen": 15,
-      "verloren": 11,
-      "push": 0,
-      "offen": 4,
-      "einsatz": 26.0,
-      "netto": 5.57,
-      "trefferquote": 57.7,
-      "roi_prozent": 21.4
-    },
     "Doppelte Chance: Deportivo La Coruna oder Unentschieden": {
       "tipps": 1,
       "gewonnen": 1,
@@ -1136,6 +652,39 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.4,
       "trefferquote": 100.0,
       "roi_prozent": 40.0
+    },
+    "Unter 2.5 Tore": {
+      "tipps": 14,
+      "gewonnen": 7,
+      "verloren": 7,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 14.0,
+      "netto": 6.55,
+      "trefferquote": 50.0,
+      "roi_prozent": 46.8
+    },
+    "Beide Teams treffen: Ja": {
+      "tipps": 3,
+      "gewonnen": 3,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 2.78,
+      "trefferquote": 100.0,
+      "roi_prozent": 92.7
+    },
+    "Ueber 2.5 Tore": {
+      "tipps": 28,
+      "gewonnen": 15,
+      "verloren": 11,
+      "push": 0,
+      "offen": 2,
+      "einsatz": 26.0,
+      "netto": 5.57,
+      "trefferquote": 57.7,
+      "roi_prozent": 21.4
     },
     "Deportivo La Coruna Sieg (90 Min)": {
       "tipps": 1,
@@ -2995,74 +2544,162 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -1.0,
       "trefferquote": 0.0,
       "roi_prozent": -100.0
+    },
+    "Remis oder Nantes (Doppelte Chance X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.1,
+      "trefferquote": 100.0,
+      "roi_prozent": 10.0
+    },
+    "Remis oder Metz (Doppelte Chance X2)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Remis oder Laval (Doppelte Chance X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.12,
+      "trefferquote": 100.0,
+      "roi_prozent": 12.0
+    },
+    "Remis oder Red Star (Doppelte Chance X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.25,
+      "trefferquote": 100.0,
+      "roi_prozent": 25.0
+    },
+    "Remis oder Saint-Etienne (Doppelte Chance X2)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.22,
+      "trefferquote": 100.0,
+      "roi_prozent": 22.0
+    },
+    "Sieg Nantes (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.33,
+      "trefferquote": 100.0,
+      "roi_prozent": 33.0
+    },
+    "Sieg FC Metz (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": -1.0,
+      "trefferquote": 0.0,
+      "roi_prozent": -100.0
+    },
+    "Sieg Stade Lavallois (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.36,
+      "trefferquote": 100.0,
+      "roi_prozent": 36.0
+    },
+    "Sieg AS Saint-Étienne (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.8,
+      "trefferquote": 100.0,
+      "roi_prozent": 80.0
     }
   },
   "nach_markt_typ": {
-    "Sieg (1X2 / ML)": {
-      "tipps": 66,
-      "gewonnen": 32,
-      "verloren": 29,
-      "push": 1,
-      "offen": 4,
-      "einsatz": 62.0,
-      "netto": 10.32,
-      "trefferquote": 52.5,
-      "roi_prozent": 16.6
-    },
-    "Unter 2.5 Tore": {
-      "tipps": 15,
-      "gewonnen": 9,
+    "Doppelte Chance": {
+      "tipps": 44,
+      "gewonnen": 35,
       "verloren": 6,
       "push": 0,
-      "offen": 0,
-      "einsatz": 15.0,
-      "netto": 6.7,
-      "trefferquote": 60.0,
-      "roi_prozent": 44.7
+      "offen": 3,
+      "einsatz": 41.0,
+      "netto": 15.05,
+      "trefferquote": 85.4,
+      "roi_prozent": 36.7
     },
-    "Beide Teams treffen JA": {
-      "tipps": 27,
-      "gewonnen": 20,
+    "Unter 2.5 Tore": {
+      "tipps": 14,
+      "gewonnen": 7,
       "verloren": 7,
       "push": 0,
       "offen": 0,
-      "einsatz": 27.0,
-      "netto": 5.78,
-      "trefferquote": 74.1,
-      "roi_prozent": 21.4
+      "einsatz": 14.0,
+      "netto": 6.55,
+      "trefferquote": 50.0,
+      "roi_prozent": 46.8
     },
-    "Doppelte Chance X2": {
-      "tipps": 24,
-      "gewonnen": 19,
+    "Beide Teams treffen JA": {
+      "tipps": 13,
+      "gewonnen": 9,
       "verloren": 4,
       "push": 0,
-      "offen": 1,
-      "einsatz": 23.0,
-      "netto": 9.58,
-      "trefferquote": 82.6,
-      "roi_prozent": 41.7
-    },
-    "Doppelte Chance": {
-      "tipps": 61,
-      "gewonnen": 39,
-      "verloren": 12,
-      "push": 0,
-      "offen": 10,
-      "einsatz": 51.0,
-      "netto": 15.05,
-      "trefferquote": 76.5,
-      "roi_prozent": 29.5
+      "offen": 0,
+      "einsatz": 13.0,
+      "netto": 5.78,
+      "trefferquote": 69.2,
+      "roi_prozent": 44.5
     },
     "Ueber 2.5 Tore": {
-      "tipps": 46,
+      "tipps": 44,
       "gewonnen": 22,
       "verloren": 18,
       "push": 0,
-      "offen": 6,
+      "offen": 4,
       "einsatz": 40.0,
       "netto": 9.07,
       "trefferquote": 55.0,
       "roi_prozent": 22.7
+    },
+    "Sieg (1X2 / ML)": {
+      "tipps": 38,
+      "gewonnen": 25,
+      "verloren": 11,
+      "push": 0,
+      "offen": 2,
+      "einsatz": 36.0,
+      "netto": 10.81,
+      "trefferquote": 69.4,
+      "roi_prozent": 30.0
     },
     "Torschuetzen Jederzeit": {
       "tipps": 35,
@@ -3074,6 +2711,17 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 1.85,
       "trefferquote": 32.4,
       "roi_prozent": 5.4
+    },
+    "Doppelte Chance X2": {
+      "tipps": 28,
+      "gewonnen": 23,
+      "verloren": 4,
+      "push": 0,
+      "offen": 1,
+      "einsatz": 27.0,
+      "netto": 9.27,
+      "trefferquote": 85.2,
+      "roi_prozent": 34.3
     },
     "Inter gewinnt": {
       "tipps": 1,
@@ -3275,38 +2923,38 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "nach_quoten_range": {
-    "1.50-2.00": {
-      "tipps": 144,
-      "gewonnen": 80,
-      "verloren": 57,
-      "push": 0,
-      "offen": 7,
-      "einsatz": 137.0,
-      "netto": 54.41,
-      "trefferquote": 58.4,
-      "roi_prozent": 39.7
-    },
     "1.00-1.50": {
-      "tipps": 141,
-      "gewonnen": 100,
-      "verloren": 27,
-      "push": 1,
-      "offen": 13,
-      "einsatz": 128.0,
-      "netto": 38.2,
-      "trefferquote": 78.7,
-      "roi_prozent": 29.8
+      "tipps": 113,
+      "gewonnen": 90,
+      "verloren": 17,
+      "push": 0,
+      "offen": 6,
+      "einsatz": 107.0,
+      "netto": 37.58,
+      "trefferquote": 84.1,
+      "roi_prozent": 35.1
+    },
+    "1.50-2.00": {
+      "tipps": 118,
+      "gewonnen": 70,
+      "verloren": 43,
+      "push": 0,
+      "offen": 5,
+      "einsatz": 113.0,
+      "netto": 55.06,
+      "trefferquote": 61.9,
+      "roi_prozent": 48.7
     },
     "2.00-3.00": {
-      "tipps": 30,
+      "tipps": 26,
       "gewonnen": 5,
-      "verloren": 22,
+      "verloren": 20,
       "push": 0,
-      "offen": 3,
-      "einsatz": 27.0,
+      "offen": 1,
+      "einsatz": 25.0,
       "netto": -7.45,
-      "trefferquote": 18.5,
-      "roi_prozent": -27.6
+      "trefferquote": 20.0,
+      "roi_prozent": -29.8
     },
     "3.00+": {
       "tipps": 10,
@@ -3321,38 +2969,38 @@ window.__MIESMUSCHEL_STAT = {
     }
   },
   "nach_kategorie": {
-    "wackel": {
-      "tipps": 51,
-      "gewonnen": 22,
-      "verloren": 26,
+    "safe": {
+      "tipps": 59,
+      "gewonnen": 51,
+      "verloren": 7,
       "push": 0,
-      "offen": 3,
-      "einsatz": 48.0,
-      "netto": 16.61,
-      "trefferquote": 45.8,
-      "roi_prozent": 34.6
+      "offen": 1,
+      "einsatz": 58.0,
+      "netto": 32.03,
+      "trefferquote": 87.9,
+      "roi_prozent": 55.2
     },
     "value": {
-      "tipps": 205,
-      "gewonnen": 114,
-      "verloren": 79,
-      "push": 1,
-      "offen": 11,
-      "einsatz": 194.0,
-      "netto": 40.94,
-      "trefferquote": 59.1,
-      "roi_prozent": 21.1
-    },
-    "safe": {
-      "tipps": 67,
-      "gewonnen": 51,
-      "verloren": 8,
+      "tipps": 160,
+      "gewonnen": 93,
+      "verloren": 60,
       "push": 0,
-      "offen": 8,
-      "einsatz": 59.0,
-      "netto": 32.81,
-      "trefferquote": 86.4,
-      "roi_prozent": 55.6
+      "offen": 7,
+      "einsatz": 153.0,
+      "netto": 40.88,
+      "trefferquote": 60.8,
+      "roi_prozent": 26.7
+    },
+    "wackel": {
+      "tipps": 46,
+      "gewonnen": 23,
+      "verloren": 20,
+      "push": 0,
+      "offen": 3,
+      "einsatz": 43.0,
+      "netto": 17.48,
+      "trefferquote": 53.5,
+      "roi_prozent": 40.7
     },
     "risk": {
       "tipps": 2,
@@ -3385,15 +3033,15 @@ window.__MIESMUSCHEL_STAT = {
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 325,
-      "gewonnen": 188,
-      "verloren": 113,
-      "push": 1,
-      "offen": 23,
-      "einsatz": 302.0,
-      "netto": 91.36,
-      "trefferquote": 62.5,
-      "roi_prozent": 30.3
+      "tipps": 267,
+      "gewonnen": 168,
+      "verloren": 87,
+      "push": 0,
+      "offen": 12,
+      "einsatz": 255.0,
+      "netto": 91.39,
+      "trefferquote": 65.9,
+      "roi_prozent": 35.8
     },
     "kasse": {
       "name": "2026/27",
@@ -3412,15 +3060,15 @@ window.__MIESMUSCHEL_STAT = {
         "start": "2000-01-01",
         "ende": "2026-08-21",
         "bilanz": {
-          "tipps": 85,
-          "gewonnen": 36,
-          "verloren": 37,
-          "push": 1,
-          "offen": 11,
-          "einsatz": 74.0,
+          "tipps": 16,
+          "gewonnen": 8,
+          "verloren": 8,
+          "push": 0,
+          "offen": 0,
+          "einsatz": 16.0,
           "netto": -3.13,
-          "trefferquote": 49.3,
-          "roi_prozent": -4.2
+          "trefferquote": 50.0,
+          "roi_prozent": -19.6
         },
         "ist_aktuell": false
       },
@@ -3430,21 +3078,253 @@ window.__MIESMUSCHEL_STAT = {
         "start": "2026-08-22",
         "ende": "2027-06-30",
         "bilanz": {
-          "tipps": 240,
-          "gewonnen": 152,
-          "verloren": 76,
+          "tipps": 251,
+          "gewonnen": 160,
+          "verloren": 79,
           "push": 0,
           "offen": 12,
-          "einsatz": 228.0,
-          "netto": 94.49,
-          "trefferquote": 66.7,
-          "roi_prozent": 41.4
+          "einsatz": 239.0,
+          "netto": 94.52,
+          "trefferquote": 66.9,
+          "roi_prozent": 39.5
         },
         "ist_aktuell": true
       }
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-11-15",
+      "gesamt": {
+        "tipps": 11,
+        "gewonnen": 8,
+        "verloren": 3,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 11.0,
+        "netto": 0.03,
+        "trefferquote": 72.7,
+        "roi_prozent": 0.3
+      },
+      "spiele": [
+        {
+          "id": "2026-11-15-cas-nan",
+          "liga": "Coupe de France 2026/27 - 7e Tour",
+          "heim": "Stade Castelbourgeois",
+          "gast": "FC Nantes",
+          "endstand": "1:9",
+          "tipps": [
+            {
+              "markt": "Remis oder Nantes (Doppelte Chance X2)",
+              "quote": 1.1,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.1,
+              "kommentar": "Endstand 1:9. DC X2 (Remis oder Gast) getroffen. 2:0-Insurance greift NICHT (Coupe de France). 90-Min-Wertung - Elfmeter irrelevant."
+            },
+            {
+              "markt": "Sieg Nantes (90 Min)",
+              "quote": 1.33,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.33,
+              "kommentar": "Endstand 1:9. Gast-Sieg in 90 Min getroffen. 2:0-Insurance greift NICHT (Coupe de France)."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-15-p13-red",
+          "liga": "Coupe de France 2026/27 - 7e Tour",
+          "heim": "Paris 13 Atletico",
+          "gast": "Red Star FC",
+          "endstand": "0:2",
+          "tipps": [
+            {
+              "markt": "Remis oder Red Star (Doppelte Chance X2)",
+              "quote": 1.25,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.25,
+              "kommentar": "Endstand 0:2. DC X2 (Remis oder Gast) getroffen. 2:0-Insurance greift NICHT (Coupe de France). 90-Min-Wertung - Elfmeter irrelevant."
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.85,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.85,
+              "kommentar": "Endstand 0:2 = 2 Tore. Unter 2.5 getroffen."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-15-sdk-met",
+          "liga": "Coupe de France 2026/27 - 7e Tour",
+          "heim": "SR Saint-Dié Kellermann",
+          "gast": "FC Metz",
+          "endstand": "1:0",
+          "tipps": [
+            {
+              "markt": "Remis oder Metz (Doppelte Chance X2)",
+              "quote": 1.08,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 1:0. Heimsieg - DC X2 gerissen. 2:0-Insurance greift im Pokal NICHT."
+            },
+            {
+              "markt": "Sieg FC Metz (90 Min)",
+              "quote": 1.3,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 1:0. Kein Gast-Sieg in 90 Min. 2:0-Insurance greift NICHT."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-15-ren-lav",
+          "liga": "Coupe de France 2026/27 - 7e Tour",
+          "heim": "EA Saint-Renan",
+          "gast": "Stade Lavallois",
+          "endstand": "1:2",
+          "tipps": [
+            {
+              "markt": "Remis oder Laval (Doppelte Chance X2)",
+              "quote": 1.12,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.12,
+              "kommentar": "Endstand 1:2. DC X2 (Remis oder Gast) getroffen. 2:0-Insurance greift NICHT (Coupe de France). 90-Min-Wertung - Elfmeter irrelevant."
+            },
+            {
+              "markt": "Sieg Stade Lavallois (90 Min)",
+              "quote": 1.36,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.36,
+              "kommentar": "Endstand 1:2. Gast-Sieg in 90 Min getroffen. 2:0-Insurance greift NICHT (Coupe de France)."
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.85,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 1:2 = 3 Tore. Unter 2.5 gerissen."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-15-rum-ase",
+          "liga": "Coupe de France 2026/27 - 7e Tour",
+          "heim": "GFA Rumilly Vallières",
+          "gast": "AS Saint-Étienne",
+          "endstand": "1:2",
+          "tipps": [
+            {
+              "markt": "Remis oder Saint-Etienne (Doppelte Chance X2)",
+              "quote": 1.22,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.22,
+              "kommentar": "Endstand 1:2. DC X2 (Remis oder Gast) getroffen. 2:0-Insurance greift NICHT (Coupe de France). 90-Min-Wertung - Elfmeter irrelevant."
+            },
+            {
+              "markt": "Sieg AS Saint-Étienne (90 Min)",
+              "quote": 1.8,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.8,
+              "kommentar": "Endstand 1:2. Gast-Sieg in 90 Min getroffen. 2:0-Insurance greift NICHT (Coupe de France)."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi Pokal-DC-Dreifach",
+          "kategorie": "safe",
+          "gesamtquote": 1.33,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Remis oder Nantes (Doppelte Chance X2)",
+              "quote": 1.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Remis oder Metz (Doppelte Chance X2)",
+              "quote": 1.08,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Remis oder Laval (Doppelte Chance X2)",
+              "quote": 1.12,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi Unter-2.5-Pokal-Dreifach",
+          "kategorie": "balance",
+          "gesamtquote": 6.16,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg AS Saint-Étienne (90 Min)",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi Unter-2.5-Dreifach",
+          "kategorie": "risk",
+          "gesamtquote": 5.83,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-11-14",
       "gesamt": {
@@ -18766,905 +18646,6 @@ window.__MIESMUSCHEL_STAT = {
               "quote": 8.0,
               "status": "verloren",
               "kommentar": "Aub nur 1 Tor (21'), kein Doppelpack. Aub spielte durch (kein Sub → kein Einwechslungs-Boost-Kanal)."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-08-16",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 3.42,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "RC Celta Vigo Sieg",
-              "quote": 1.95,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Doppelte Chance: PSG oder Unentschieden",
-              "quote": 1.3,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Doppelte Chance: Espanyol oder Unentschieden",
-              "quote": 1.35,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 6.3,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Beide Teams treffen: Ja",
-              "quote": 1.75,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.8,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 2.0,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 21.37,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Racing Santander Sieg",
-              "quote": 3.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 3.5 Tore",
-              "quote": 2.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Beide Teams treffen: Ja",
-              "quote": 1.75,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.85,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 3.75,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Levante UD Sieg",
-              "quote": 3.75,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-08-15",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "?",
-          "kategorie": "safe",
-          "gesamtquote": 5.08,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg Norwich City",
-              "quote": 1.91,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sieg Sheffield United",
-              "quote": 2.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Doppelte Chance 1X Hertha BSC oder Unentschieden",
-              "quote": 1.33,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "balance",
-          "gesamtquote": 6.86,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.54,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Beide Teams treffen: Ja",
-              "quote": 1.85,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Beide Teams treffen: Ja",
-              "quote": 1.72,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Beide Teams treffen: Ja",
-              "quote": 1.4,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "risk",
-          "gesamtquote": 16.02,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Ueber 3.5 Tore",
-              "quote": 2.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Beide Teams treffen: Ja",
-              "quote": 1.45,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Unentschieden",
-              "quote": 3.4,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.3,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "moonshot",
-          "gesamtquote": 150.08,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg Rio Ave FC",
-              "quote": 7.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sieg Excelsior Rotterdam",
-              "quote": 5.8,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Unentschieden",
-              "quote": 3.45,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-08-14",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "?",
-          "kategorie": "safe",
-          "gesamtquote": 4.61,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg Wolverhampton Wanderers",
-              "quote": 1.59,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sieg Sporting CP",
-              "quote": 1.33,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sieg SC Telstar",
-              "quote": 2.18,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "balance",
-          "gesamtquote": 7.03,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Beide Teams treffen: Ja",
-              "quote": 1.58,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.77,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Beide Teams treffen: Ja",
-              "quote": 1.57,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.6,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "risk",
-          "gesamtquote": 15.89,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Unter 2.5 Tore",
-              "quote": 1.92,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sieg Eintracht Braunschweig",
-              "quote": 2.4,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Unentschieden",
-              "quote": 3.45,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "moonshot",
-          "gesamtquote": 218.03,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg Sint-Truiden",
-              "quote": 2.85,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Genaues Ergebnis Sporting CP 3:0",
-              "quote": 9.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Genaues Ergebnis Wolves 2:0",
-              "quote": 8.5,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-08-13",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 3.27,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg SL Benfica Lissabon",
-              "quote": 1.42,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sieg Rangers FC",
-              "quote": 1.6,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "DC 1X Anderlecht oder Draw",
-              "quote": 1.44,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 6.32,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Beide Teams treffen: Ja",
-              "quote": 1.72,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Beide Teams treffen: Ja",
-              "quote": 1.75,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 2.1,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 15.36,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Ueber 3.5 Tore",
-              "quote": 2.3,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.85,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.9,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Beide Teams treffen: Ja",
-              "quote": 1.9,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 446.25,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Genaues Ergebnis Anderlecht 2:0",
-              "quote": 8.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Genaues Ergebnis Rangers 3:0",
-              "quote": 10.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 4.5 Tore",
-              "quote": 5.0,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-08-12",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 3.29,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg Paris Saint-Germain",
-              "quote": 1.75,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sieg Arsenal FC",
-              "quote": 1.47,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "DC X2 Bayer Leverkusen/Draw",
-              "quote": 1.28,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 6.53,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Torschuetzen Jederzeit Khvicha Kvaratskhelia",
-              "quote": 2.2,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.8,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.65,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 17.88,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Ueber 3.5 Tore",
-              "quote": 2.75,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 3.5 Tore",
-              "quote": 2.6,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 3.5 Tore",
-              "quote": 2.5,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 327.6,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Torschuetzen Jederzeit Ollie Watkins",
-              "quote": 2.8,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Genaues Ergebnis Arsenal 3:0",
-              "quote": 9.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Genaues Ergebnis 1:3 Bayer Leverkusen",
-              "quote": 13.0,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-08-11",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 3.82,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg Olympique Lyon",
-              "quote": 1.43,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Unter 2.5 Tore",
-              "quote": 1.95,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sieg NK Celje",
-              "quote": 1.37,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 6.66,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Ueber 2.5 Tore",
-              "quote": 1.85,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Torschuetzen Jederzeit El Kaabi (Oly)",
-              "quote": 2.4,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 16.54,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg Roter Stern Belgrad",
-              "quote": 1.32,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Doppelte Chance X2 Ararat",
-              "quote": 2.73,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Torschuetze Jederzeit Openda (Lyon)",
-              "quote": 2.55,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "BTTS Ja",
-              "quote": 1.8,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 176.51,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg AC Sparta Praha",
-              "quote": 7.44,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sieg FC Ararat-Armenia",
-              "quote": 6.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sieg Mjaellby AIF",
-              "quote": 3.65,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "datum": "2026-08-10",
-      "gesamt": {
-        "tipps": 0,
-        "gewonnen": 0,
-        "verloren": 0,
-        "push": 0,
-        "offen": 0,
-        "einsatz": 0.0,
-        "netto": 0.0,
-        "trefferquote": 0.0,
-        "roi_prozent": 0.0
-      },
-      "spiele": [],
-      "kombis": [
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 3.1,
-          "einsatz_prozent": 2.0,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg IK Sirius",
-              "quote": 1.3,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Unter 2.5 Tore",
-              "quote": 1.56,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Über 2.5 Tore",
-              "quote": 1.53,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 6.42,
-          "einsatz_prozent": 0.8,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg Santa Clara",
-              "quote": 1.91,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Über 3.5 Tore",
-              "quote": 2.1,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "BTTS Ja",
-              "quote": 1.6,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 26.57,
-          "einsatz_prozent": 0.25,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg Plymouth Argyle",
-              "quote": 1.5,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Torschütze Doppelpack Jesús Ramírez",
-              "quote": 11.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "BTTS Ja",
-              "quote": 1.61,
-              "status": "offen",
-              "kommentar": ""
-            }
-          ]
-        },
-        {
-          "name": "?",
-          "kategorie": "",
-          "gesamtquote": 263.52,
-          "einsatz_prozent": 0.1,
-          "status": "offen",
-          "beine": [
-            {
-              "markt": "Sieg IF Brommapojkarna",
-              "quote": 9.0,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sieg CD Nacional",
-              "quote": 4.88,
-              "status": "offen",
-              "kommentar": ""
-            },
-            {
-              "markt": "Sieg Exeter City",
-              "quote": 6.0,
-              "status": "offen",
-              "kommentar": ""
             }
           ]
         }
