@@ -1,0 +1,45 @@
+{
+  "datum": "2026-11-16",
+  "erstellt_am": "2026-11-16T13:42:00+01:00",
+  "hinweis": "Watchdog Mo-Fr 14:30 (Recovery-Lauf nach Ausfall der Haupt-Routine 13:30) — ehrlicher Leertag. Mo 16.11.2026 liegt im letzten Drittel der FIFA-Laenderspielpause 09.-17.11.2026 (Fenster endet erst morgen Di 17.11., bestaetigt via WebSearch flashscore.de + dazn.de + zdfheute.de). Alle Hauptligen laut CLAUDE.md-Whitelist (Bundesliga, 2. Bundesliga, Premier League, LaLiga, Serie A, Ligue 1) pausieren bis Fr 20.11., Serie B pausiert ebenfalls bis Fr 20.11. (bestaetigt via tuttomercatoweb.com — Giornata 12 beginnt Verona-Cesena 20.11. 20:30), Ligue 2 pausiert bis 21.11. (bestaetigt gestern im Nantes-Dossier). Europapokal (CL/EL/Conference) pausiert diese Woche komplett — CL-Spieltag 5 findet Di/Mi 25./26.11. statt. Nationale Pokale ohne Ansetzung Mo 16.11.: DFB-Pokal 3. Runde (Achtelfinale) erst Dezember, Coppa Italia Ottavi Dezember, FA Cup 2. Runde 28.-30.11., Coupe de France 7e Tour ist Fr-So 13.-15.11. durchgespielt (keine Montag-Finisher — gestern war Castelbourgeois-Nantes das letzte 7e-Tour-Spiel; 8e Tour laut 2025er-Rhythmus Ende November). Kein Supercup im Fenster. Die Wochen-Vorschau tipps_woche/2026-11-16.json von gestern 18:00 hat genau diesen Ausblick bereits sauber gemacht: 10 Spiele ab Fr 20.11. (Bayern-Koeln 20.11. 20:30, dann Sa+So das volle Programm). Sichtbar heute Abend nur Nationalteam-Partien (UEFA Nations League Spieltag 6: Griechenland-Serbien, Nordmazedonien-Slowenien, Gibraltar-Malta, Wales-Portugal, Andorra-Aserbaidschan, Faroer-Moldau, Kasachstan-Slowakei — alle 20:45 Berlin, bestaetigt via sport.sky.de + t-online.de + flashscore.de) sowie ein Deutschland-Niederlande-Freundschaftsspiel laut flashscore.de — Nationalteams sind laut CLAUDE.md und master_tipps_routine.md Scope-Definition NICHT im Whitelist-Scope der Haupt-Tipps (WM-Sondermodus ist DORMANT seit 20.07.2026, Nations League war nie im Scope). NBA (potenziell aktiv seit Oktober-Saisonstart 2026/27) steht in CLAUDE.md immer noch als Offseason markiert und wurde seit Saison-Start 22.08.2026 in keiner Routine getippt — Scope-Disziplin halten, kein eigenmaechtiger Scope-Shift durch den Watchdog. Kasse 1000€, Stufe 1 aktiv (stufe_2_freigeschaltet=false) — Null Spiele im Scope + Null Tipps ist das richtige Tipping, kein erzwungener Content, keine Halluzinationen. Naechster Tipp-Tag: Fr 20.11.2026 (Bundesliga Spieltag 10 Freitagsspiel Bayern-Koeln 20:30, LaLiga Hypermotion, Serie B Giornata 12).",
+  "spiele": [],
+  "einzeltipps": [],
+  "kombis": [],
+  "lessons_angewandt": [
+    "Zeitfenster-Hartregel 22.08.2026: Dossier enthaelt ausschliesslich Spiele mit Anstoss am 2026-11-16 in Berliner Zeit — heute keine Spiele im Whitelist-Scope wegen letztem FIFA-Pause-Tag.",
+    "Notfall-Regel master_tipps_routine.md Zeile 276: lieber ehrliches Leer-Dossier mit erklaerendem Hinweis als erfundene Tipps aus dem Gedaechtnis oder aus einem Prompt-Beispiel.",
+    "Scope-Disziplin (wie an den vorherigen Pause-Tagen 10.-11.11.): Nationalteams (Nations League, Freundschaftsspiele) sind laut CLAUDE.md fuer Haupt-Tipps NICHT im Scope. Nicht aufweichen, nur um Fuell-Content zu erzeugen.",
+    "Kader-Frische (22.08.2026): keine Spielernamen aus dem Gedaechtnis — da heute ohnehin kein Spiel im Scope stattfindet, auch kein Anlass fuer kader_wechsel_2026.json-Zugriffe. Ab Fr 20.11. wieder relevant (Bayern, BVB, Chelsea, Liverpool, Real, Barca, Napoli, Inter alle im Wochen-Dossier).",
+    "Kontinuitaet: 10.11. + 11.11. waren aus gleichem Grund Leertage; 12.-15.11. lief ueber Coupe de France 7e Tour; ab Fr 20.11. voller Liga-Betrieb zurueck (Wochen-Vorschau liegt bereits in data/tipps_woche/2026-11-16.json).",
+    "Watchdog-Disziplin: der Watchdog ist kein Scope-Ausweiter. Er springt nur ein, wenn die Hauptroutine fuer Spiele im CLAUDE.md-Scope ausgefallen ist. Fuer einen echten Leertag ist das korrekte Ergebnis dasselbe wie bei der Hauptroutine — ein ehrlicher Zero-Dossier mit klarem Hinweis."
+  ],
+  "_verifikations_report": {
+    "modus": "watchdog_mo_fr_leertag_14_30_recovery",
+    "verifiziert_am": "2026-11-16T13:42:00+01:00",
+    "ausloeser": "Haupt-Routine Mo-Fr 13:30 hat data/tipps/2026-11-16.json nicht geschrieben. Watchdog-GUARD hat 'NEED=1' erkannt und ist aktiv geworden.",
+    "quellen": [
+      "https://www.flashscore.de/news/internationale-klassiker-satt-zehn-fokus-spiele-wahrend-der-landerspielpause/Wzu00bTj/",
+      "https://www.dazn.com/de-DE/news/fussball/wm-qualifikation-am-16-november-live-die-uebertragung-auf-dazn/tgoo3waxpt4v1ifbf9xyx9gt9",
+      "https://www.zdfheute.de/sport/fussball-wm-qualifikation-maenner-liveticker-spielplan-ergebnisse-100.html",
+      "https://www.tuttomercatoweb.com/serie-b/punto-b-palermo-rallenta-modena-avvicina-cremonese-risale-2292199",
+      "https://sport.sky.de/internationals-spielplan-ergebnisse",
+      "https://www.t-online.de/sport/live-ticker/fussball/nations-league/sdc_fm-57015/griechenland-serbien-nations-league-im-liveticker.html"
+    ],
+    "ergebnis": "BESTAETIGT_LEERTAG_IM_SCOPE",
+    "halluzinationen_gedroppt": 0,
+    "spiele_im_scope": 0,
+    "verifikations_checks": {
+      "fifa_pause_bestaetigt": "09.-17.11.2026 — Fenster endet morgen Di 17.11., bestaetigt via mehrere unabhaengige Quellen (flashscore.de, dazn.de, zdfheute.de, sport.sky.de).",
+      "whitelist_ligen_heute_alle_leer": "Bundesliga, 2. Bundesliga, Premier League, LaLiga, Serie A (+ Serie B explizit bestaetigt via TMW), Ligue 1, Ligue 2, CL/EL/Conference, DFB-Pokal, Coppa Italia, FA Cup, Coupe de France (7e Tour durchgespielt bis So 15.11.), alle Supercups — alle pausieren oder haben keinen Montag-Termin.",
+      "scope_grenzfall_nations_league": "Nations-League-Spieltag 6 heute 20:45 (7 Partien) — Nationalteam-Wettbewerb, laut CLAUDE.md nicht im Haupt-Scope. WM-Modus ist DORMANT seit 20.07.2026.",
+      "scope_grenzfall_dfb_freundschaftsspiel": "Deutschland-Niederlande wird laut flashscore.de fuer heute genannt, konnte aber nicht zweitquellig verifiziert werden (DFB-Spiel ist laut tipps_woche von gestern Di 17.11. in Leipzig vs Slowakei angesetzt — moegliche Verwechslung auf flashscore-Seite). So oder so: Nationalteam-Spiel, nicht im Scope.",
+      "scope_grenzfall_nba": "NBA-Saison 2026/27 laeuft seit Oktober, aber CLAUDE.md fuehrt sie weiter als 'Offseason bis ca. Oktober 2026', und keine Routine seit Saison-Start 22.08. hat NBA getippt — Scope-Shift darf nicht durch den Watchdog erfolgen. US-Montag-ET-Tipoffs (1 Uhr+ Berlin Di) waeren ohnehin 2026-11-17 im Zeitfenster.",
+      "selbstwiderspruch_check": "keine Tipps vorhanden -> keine Widersprueche moeglich.",
+      "kader_halluzinations_check": "keine Spielernamen im Dossier -> kein Risiko (Adeyemi-Klasse-Fehler nicht moeglich).",
+      "zeitfenster_check": "Anker-Datum 2026-11-16 ist heute (nicht Vergangenheit). Keine Spiele ausserhalb des Fensters, weil keine Spiele im Fenster.",
+      "supercup_check": "Keine europaeische Supercup-Ansetzung an einem Montag waehrend der FIFA-Pause — UEFA Super Cup wird im August gespielt, nationale Supercups sind einzeln angesetzt und liegen alle ausserhalb dieser Woche."
+    },
+    "kommentar": "Watchdog hat die Haupt-Routine-Luecke erkannt und per WebSearch unabhaengig geprueft, ob es Vereins-Spiele im Scope gab. Ergebnis: Null. Dasselbe Bild wie an den Pause-Tagen 10. + 11.11. Ehrliches Zero-Dossier ist laut master_tipps_routine.md (Notfall-Fallback) ein gueltiges Ergebnis. Naechstes volles Tages-Dossier erst Fr 20.11. (Bayern-Koeln 20:30 + LaLiga Hypermotion-Programm)."
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen."
+}
