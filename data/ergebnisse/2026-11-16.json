@@ -1,0 +1,59 @@
+{
+  "datum": "2026-11-16",
+  "erstellt_am": "2026-11-16T21:10:00+01:00",
+  "hinweis": "Safety-Net-Backstop-Lauf 2026-11-16 ~23:00 Berlin: Haupt-Pipeline + Watchdog haben heute keinen gefuellten Slate geliefert. Backstop hat unabhaengig per WebSearch nachverifiziert und bestaetigt: ehrlicher Leertag. Mo 16.11.2026 liegt im letzten Drittel der FIFA-Laenderspielpause 09.-17.11.2026 (Fenster endet morgen Di 17.11., bestaetigt via fussballnationalmannschaft.net + dazn.de + zdfheute.de + wettzentrum.de + livesoccertv). Alle Haupt-Whitelist-Ligen pausieren bis Fr 20.11.: Bundesliga-Spieltag 10 Rueckkehr Bayern-Koeln 20.11. 20:30, Serie B Giornata 12 ab Sa 21.11. (Hellas Verona-Cesena u.a. laut Corriere dello Sport), Ligue 2 Journee 13 Fr-Mo 20.-23.11. (laut ligue1.com), Premier League Matchweek 11 Sa 21.11. Europapokal diese Woche pausiert (CL Spieltag 5 erst Di/Mi 25./26.11.). Nationale Pokale ohne Ansetzung Mo 16.11.: DFB-Pokal Achtelfinale erst Dezember, Coppa Italia Ottavi Dezember, FA Cup 2. Runde 28.-30.11., Coupe de France 7e Tour ist Do-So 12.-15.11. durchgespielt (Tour 8 erst Fr-Sa 28.-29.11., laut fff.fr). Kein europaeischer/nationaler Supercup heute. Sichtbar heute Abend nur Nationalteam-Partien: UEFA Nations League Spieltag 6 (Griechenland-Serbien, Wales-Portugal, Schweiz-Schottland) + DFB-Freundschaftsspiel Deutschland-Niederlande 20:45 Berlin. Nationalteams sind laut CLAUDE.md + master_tipps_routine.md-Scope NICHT im Whitelist-Bereich der Haupt-Tipps (WM-Sondermodus DORMANT seit 20.07.2026, Nations League war nie im Scope). NBA 2026/27 laeuft, heute 8 US-Spiele ab 19:00 ET = ab 01:00 MEZ Di 17.11. — ausserhalb Zeitfenster dieses Tages-Dossiers (Zeitfenster-Hartregel 22.08.2026) und laut CLAUDE.md weiterhin Pausen-Scope. Kasse 1000€, Stufe 1 aktiv (stufe_2_freigeschaltet=false) — Null Spiele im Scope + Null Tipps ist das richtige Tipping, kein erzwungener Content, keine Halluzinationen. Die Wochen-Vorschau tipps_woche/2026-11-16.json von gestern 18:00 deckt Fr 20.11.-So 22.11. bereits ab. Naechster Tipp-Tag: Fr 20.11.2026 (Bundesliga Spieltag 10 Freitagsspiel Bayern-Koeln 20:30, Premier-League-Auftakt Sa, LaLiga Jornada 13 Sa).",
+  "spiele": [],
+  "einzeltipps": [],
+  "kombis": [],
+  "lessons_angewandt": [
+    "Zeitfenster-Hartregel 22.08.2026: Tages-Dossier enthaelt ausschliesslich Spiele mit Anstoss am 2026-11-16 in Berliner Zeit — heute kein Whitelist-Spiel (FIFA-Pause bis morgen 17.11., Liga-Rueckkehr 20.11.).",
+    "Notfall-Regel master_tipps_routine.md Zeile 276: lieber ehrliches Leer-Dossier mit erklaerendem Hinweis als erfundene Tipps aus dem Gedaechtnis oder aus einem Prompt-Beispiel.",
+    "Scope-Disziplin wie an den Pause-Tagen 10./11.11.: Nationalteams (Nations League, Freundschaftsspiele) sind laut CLAUDE.md fuer Haupt-Tipps NICHT im Scope — Deutschland-Niederlande 20:45 bleibt bewusst draussen, kein Aufweichen fuer Fuell-Content.",
+    "NBA-Zeitfenster-Disziplin: 8 NBA-Spiele heute ab 19:00 ET = ab 01:00 MEZ Di 17.11. → gehoeren laut Zeitfenster-Hartregel ins Dossier von Di 17.11., nicht hierher. Zusaetzlich CLAUDE.md-NBA-Scope weiterhin pausiert.",
+    "Kader-Frische (22.08.2026): keine Spielernamen ins Dossier, da kein Spiel im Scope — kein Anlass fuer kader_wechsel_2026.json-Zugriffe. Ab Fr 20.11. wieder scharf relevant (Bayern, BVB, Chelsea, Liverpool, Real, Barca, Napoli, Inter alle in der Wochenvorschau).",
+    "Kontinuitaet: 10. + 11.11. waren aus gleichem Grund Leertage; 12.-15.11. lief ueber Coupe de France 7e Tour; ab Fr 20.11. voller Liga-Betrieb zurueck.",
+    "Backstop-Prinzip (Safety-Net-Lauf): Leertag nicht aus Faulheit uebernommen, sondern unabhaengig per WebSearch gegengeprueft (FIFA-Fensterende, Serie-B-Giornata-12-Termin 21.11., Ligue-2-J13 20.-23.11., Coupe-de-France-Tour-8 28.-29.11.). Ehrliches Leer bleibt ehrliches Leer, auch beim zweiten Blick — Halluzination um des Content-Willens waere teurer als keine Tipps."
+  ],
+  "_verifikations_report": {
+    "modus": "safety_net_backstop_leertag_bestaetigt",
+    "verifiziert_am": "2026-11-16T23:00:00+01:00",
+    "backstop_lauf": true,
+    "backstop_begruendung": "Haupt-Routine + Watchdog haben heute keinen gefuellten Slate geliefert (letzter Repo-Commit war der Leertag der Haupt-Pipeline 21:10). Der Safety-Net-Backstop hat per WebSearch unabhaengig nachgeprueft, ob irgendein Whitelist-Spiel vergessen wurde (Serie B, Ligue 2, Coupe de France, Supercups) und keines gefunden. Leertag-Status damit doppelt verifiziert.",
+    "quellen": [
+      "https://www.fussballnationalmannschaft.net/laenderspielpause-november-2026-laenderspiele-123327913.html",
+      "https://www.fussballnationalmannschaft.net/fussball-heute-am-16-11-2026-3-123334095.html",
+      "https://www.dazn.com/de-DE/news/fussball/wm-qualifikation-am-16-november-live-die-uebertragung-auf-dazn/tgoo3waxpt4v1ifbf9xyx9gt9",
+      "https://www.zdfheute.de/sport/fussball-wm-qualifikation-maenner-liveticker-spielplan-ergebnisse-100.html",
+      "https://wettzentrum.de/laenderspielpause/",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season",
+      "https://www.espn.com/basketball/schedule",
+      "https://www.corrieredellosport.it/news/calcio/serie-b/2026/10/06-151711230/calendario_serie_b_le_date_e_gli_orari_di_tutte_le_partite_dalla_12_alla_20_giornata",
+      "https://ligue1.com/fr/articles/l1_article_6073-j13-nantes-grenoble-decale-l2-2627",
+      "https://www.fff.fr/article/17728-le-7e-tour-est-en-action.html",
+      "https://www.livesoccertv.com/schedules/2026-11-16/"
+    ],
+    "ergebnis": "BESTAETIGT_LEERTAG_IM_SCOPE",
+    "halluzinationen_gedroppt": 0,
+    "spiele_im_scope": 0,
+    "verifikations_checks": {
+      "fifa_pause_bestaetigt": "09.-17.11.2026 — Fenster endet morgen Di 17.11., mehrfach verifiziert (fussballnationalmannschaft.net, wettzentrum.de, dazn.de, zdfheute.de).",
+      "whitelist_ligen_heute_alle_leer": "Bundesliga, 2. Bundesliga, Premier League, LaLiga, Serie A, Serie B, Ligue 1, Ligue 2, CL/EL/Conference, DFB-Pokal, Coppa Italia, FA Cup, Coupe de France (7e Tour durchgespielt bis So 15.11.), alle Supercups — alle pausieren oder haben keinen Montag-Termin.",
+      "scope_grenzfall_nations_league": "Nations-League-Spieltag 6 heute 20:45 (u.a. Griechenland-Serbien, Wales-Portugal, Schweiz-Schottland) — Nationalteam-Wettbewerb, laut CLAUDE.md nicht im Haupt-Scope.",
+      "scope_grenzfall_dfb_freundschaftsspiel": "Deutschland-Niederlande 20:45 Berlin (ARD/Joyn) bestaetigt via fussballnationalmannschaft.net — Nationalteam-Spiel, nicht im Scope.",
+      "scope_grenzfall_nba": "NBA Saison 2026/27 laeuft, heute 8 US-Spiele ab 19:00 ET (via ESPN Schedule). Erster Tipoff 19:00 ET = 01:00 MEZ Di 17.11. → ausserhalb heutigem Zeitfenster laut Zeitfenster-Hartregel. Zusaetzlich CLAUDE.md-NBA-Scope weiterhin pausiert.",
+      "selbstwiderspruch_check": "keine Tipps vorhanden → keine Widersprueche moeglich.",
+      "kader_halluzinations_check": "keine Spielernamen im Dossier → kein Risiko (Adeyemi-Klasse-Fehler nicht moeglich).",
+      "zeitfenster_check": "Anker-Datum 2026-11-16 = heute (nicht Vergangenheit). Keine Spiele ausserhalb des Fensters, weil keine Spiele im Fenster.",
+      "supercup_check": "Keine europaeische Supercup-Ansetzung an einem Montag waehrend der FIFA-Pause — UEFA Super Cup im August, nationale Supercups liegen alle ausserhalb dieser Woche.",
+      "backstop_serie_b_check": "Serie B Giornata 12 beginnt Sa 21.11.2026 (Hellas Verona-Cesena, Arezzo-Padova, Sampdoria-Benevento u.a. laut Corriere dello Sport Terminierung dalla 12a alla 20a giornata) — kein Montag-Spiel.",
+      "backstop_ligue_2_check": "Ligue 2 Journee 13 Fr-Mo 20.-23.11.2026 (laut ligue1.com J13-Terminierung, inkl. Nantes-Grenoble Prefectur-Verschiebung auf Mo 23.11.) — Mo 16.11. ohne Ansetzung.",
+      "backstop_coupe_france_check": "Coupe de France 7e Tour war Do-So 12.-15.11.2026 (Fff.fr), Tour 8 erst Fr-Sa 28.-29.11.2026 mit L1-Einstieg — kein Pokal-Spiel Mo 16.11.",
+      "backstop_premier_league_check": "Premier League Matchweek 11 startet Sa 21.11.2026 (ESPN-Terminierung) — International Break bis Fr 20.11."
+    },
+    "kommentar": "Safety-Net-Backstop hat die Leertag-Einschaetzung der Haupt-Pipeline von 21:10 unabhaengig durchgeprueft (Serie B, Ligue 2, Coupe de France, Premier League, Supercups) und bestaetigt. Ergebnis gleich: Null Whitelist-Spiele im Zeitfenster. Ehrliches Zero-Dossier ist laut master_tipps_routine.md (Notfall-Fallback, Zeile 276) ein gueltiges Ergebnis — Halluzination um des Content-Willens waere teurer als keine Tipps. Naechstes volles Tages-Dossier erst Fr 20.11.2026 (Bundesliga Freitagsspiel Bayern-Koeln 20:30 ggfs. + weitere Programme ab Sa)."
+  },
+  "footer": "18+ · bet365 DE · Hobby-Wetten · BZgA Gluecksspielsucht-Hotline: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "einzeltipps_ergebnis": [],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-11-17T06:08:17+00:00"
+}

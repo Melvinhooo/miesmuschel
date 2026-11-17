@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-11-16T06:14:08+00:00",
+  "letzte_berechnung": "2026-11-17T06:08:17+00:00",
   "gesamt": {
     "tipps": 267,
     "gewonnen": 168,
@@ -13,26 +13,26 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 35.8
   },
   "letzte_30_tage": {
-    "tipps": 158,
-    "gewonnen": 96,
+    "tipps": 146,
+    "gewonnen": 86,
     "verloren": 50,
     "push": 0,
-    "offen": 12,
-    "einsatz": 146.0,
-    "netto": 15.84,
-    "trefferquote": 65.8,
-    "roi_prozent": 10.8
+    "offen": 10,
+    "einsatz": 136.0,
+    "netto": 12.36,
+    "trefferquote": 63.2,
+    "roi_prozent": 9.1
   },
   "letzte_90_tage": {
-    "tipps": 259,
-    "gewonnen": 163,
-    "verloren": 84,
+    "tipps": 251,
+    "gewonnen": 160,
+    "verloren": 79,
     "push": 0,
     "offen": 12,
-    "einsatz": 247.0,
-    "netto": 91.09,
-    "trefferquote": 66.0,
-    "roi_prozent": 36.9
+    "einsatz": 239.0,
+    "netto": 94.52,
+    "trefferquote": 66.9,
+    "roi_prozent": 39.5
   },
   "nach_liga": {
     "LaLiga 2026/27 - Matchday 1": {
