@@ -1,0 +1,55 @@
+{
+  "datum": "2026-11-18",
+  "erstellt_am": "2026-11-18T14:30:00+01:00",
+  "hinweis": "Watchdog Mo-Fr 14:30 Berlin: Haupt-Routine 13:30 hat kein Dossier geliefert, Watchdog hat die Lage unabhängig gegen­geprüft (football-data.org blockt im Proxy mit 403, daher per WebSearch auf Betfred-Fixtures, flashscore, soccerway, UEFA.com-Nations-League-Phase, worldsoccertalk, inter.it). Mi 18.11.2026 liegt noch in der FIFA-Länderspielpause-Nachwirkung: alle Whitelist-Vereinsligen pausieren bis Fr 20.11. (Bundesliga Spieltag 10 ab 20.11. 20:30 Bayern-Köln, Premier League MW11 ab Sa 21.11. — Gladbach-Dortmund 21.11. ist bei Betfred für 20261122 geführt, LaLiga/Serie A/Ligue 1 ab Fr-So 20.-22.11.). Champions-League-Matchday-5 bestätigt Di-Mi 24.-25.11.2026 (NICHT 17.-18.11., auch wenn manche AI-Suchantworten den Spielplan halluzinieren), Europa League MD5 Do 26.11., Conference League MD5 Do 26.11. UEFA-Nations-League-Ligaphase endete 17.11.2026 (die Final Four der NL kommen erst Juni 2027). Nationale Pokale ohne Mi-Ansetzung: DFB-Pokal-Achtelfinale im Dezember, Coppa-Italia-Ottavi im Dezember, FA Cup 2. Runde 28.-30.11., Coupe de France Tour 8 Fr-Sa 28.-29.11. Keine Supercups heute: UEFA Super Cup war 12.08.2026 Salzburg, Franz-Beckenbauer-Supercup war 22.08.2026 Dortmund-Bayern, Supercoppa Italiana im neuen 2-Team-Format erst 22.12.2026 Inter-Lazio (bestätigt via inter.it + calcioefinanza.it), Supercopa de España + Trophée des Champions traditionell Januar 2027. Heute sichtbar laut Betfred-Insights und flashscore-Tracker: Brasilianische Série A (Corinthians-Botafogo RJ, Flamengo-Athletico Paranaense, ~18:00 BRT = 22:00 Berlin), Scotland Lowland League + Essex Senior League, FA Women's League Cup (Manchester United-Everton u.a.) — alles nicht in der Whitelist (CLAUDE.md-Scope: Bundesliga, PL, LaLiga, Serie A, Ligue 1, 2.BL, DFB-Pokal, CL, EL, Conf, Coppa Italia, FA Cup, Copa del Rey, Coupe de France, Supercups) und nicht in data/beobachtungs_ligen.json. NBA Saison 2026/27 läuft, Mi-Abend-US-Tipoffs ab 19:30 ET stoßen aber erst Do 01:30 Berlin an — außerhalb Zeitfenster-Hartregel (22.08.2026). CLAUDE.md-NBA-Scope bleibt zudem auf 'Offseason - keine NBA-Tipps' gesetzt (Zeile 11), bis in CLAUDE.md explizit auf aktiv umgestellt wird. Kasse 1000€, Stufe 1 aktiv (stufe_2_freigeschaltet=false). Null Whitelist-Spiele im 18.11.-Fenster → Null Tipps ist das richtige Ergebnis, kein erzwungener Content, keine erfundenen Spieler. Die Wochen-Vorschau tipps_woche/2026-11-16.json deckt Fr 20.11.-So 22.11. bereits ab, die Wochenend-Vorschau folgt Do 19.11. 18:00. Nächster aktiver Tipp-Tag: Fr 20.11.2026 (Bundesliga Freitagsspiel Bayern-Köln 20:30, ggf. LaLiga-/Ligue-1-Freitag).",
+  "spiele": [],
+  "einzeltipps": [],
+  "kombis": [],
+  "lessons_angewandt": [
+    "CLAUDE.md Zeitfenster-Hartregel (22.08.2026): Tages-Dossier enthält ausschließlich Spiele mit Anstoß am Zieldatum in Berliner Zeit — ein Spiel, das erst morgen anstößt, gehört nicht hier hinein.",
+    "master_tipps_routine.md Notfall-Fallback: lieber ein ehrliches kleines Dossier mit erklärendem hinweis als erfundene Spiele.",
+    "fussball_analyse.md: nie Spielernamen aus dem Gedächtnis oder aus Prompt-Beispielen — bei Null Whitelist-Spielen also auch keine Tipps generieren.",
+    "17.11.-Backstop-Präzedenz: AI-Suchantworten halluzinieren gern CL-Spiele an falschen Terminen — Primärquellen-Gegencheck (UEFA.com, flashscore, Betfred, inter.it) ist Pflicht bevor Spiele ins Dossier wandern."
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_watchdog_report": {
+    "modus": "Watchdog Mo-Fr 14:30 - Recovery nach Haupt-Routine-Ausfall",
+    "ergebnis": "ehrlicher Leertag bestätigt",
+    "recherche_file_vorhanden": false,
+    "recherche_file_selbst_erstellt": false,
+    "begruendung": "Bei bestätigt-leerem Fenster entfällt die Squad-Recherche; ein Recherche-File ohne Spiele wäre nur Lärm.",
+    "quellen_gegencheck": [
+      "https://insights.betfred.com/football/fixtures/18-11-2026/ (Blockade-Verdacht am Proxy, via WebSearch-Snippets erreichbar)",
+      "https://www.footballwebpages.co.uk/20261118 (via WebSearch-Snippets)",
+      "https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-fixtures-a/",
+      "https://worldsoccertalk.com/news/uefa-super-cup-2026-teams-date-venue-kickoff-time-and-prize-money/",
+      "https://www.inter.it/en/news/supercoppa-italiana-inter-lazio-22-december-2026-san-siro",
+      "https://www.calcioefinanza.it/2026/10/01/supercoppa-italiana-inter-lazio-data-orario/"
+    ],
+    "whitelist_check": {
+      "bundesliga": "pausiert bis Fr 20.11.",
+      "2_bundesliga": "pausiert bis Fr 20.11.",
+      "premier_league": "pausiert bis Sa 21.11.",
+      "laliga": "pausiert bis Fr/Sa 20.-21.11.",
+      "serie_a": "pausiert bis Sa/So 21.-22.11.",
+      "ligue_1": "pausiert bis Fr-So 20.-22.11.",
+      "champions_league": "MD5 erst Di-Mi 24.-25.11.2026",
+      "europa_league": "MD5 erst Do 26.11.2026",
+      "conference_league": "MD5 erst Do 26.11.2026",
+      "dfb_pokal": "Achtelfinale erst Dezember 2026",
+      "fa_cup": "2. Runde erst 28.-30.11.2026",
+      "copa_del_rey": "keine Ansetzung heute",
+      "coppa_italia": "Ottavi erst Dezember 2026",
+      "coupe_de_france": "Tour 8 erst Fr-Sa 28.-29.11.2026",
+      "uefa_super_cup": "war 12.08.2026 Salzburg",
+      "nationale_supercups": "Franz-Beckenbauer-Supercup war 22.08.2026; Supercoppa Italiana 22.12.2026; Supercopa Espana + Trophée des Champions Jan 2027"
+    },
+    "nicht_whitelist_heute": [
+      "Brasilianische Série A (Corinthians-Botafogo RJ, Flamengo-Athletico Paranaense) ~22:00 Berlin",
+      "Scotland Lowland League",
+      "Essex Senior League",
+      "FA Women's League Cup (Man United-Everton)"
+    ],
+    "nba_status": "Mi-Abend-US-Tipoffs stoßen erst Do 01:30 Berlin an (außerhalb 18.11.-Fenster); CLAUDE.md-NBA-Scope bleibt deaktiviert bis dort explizit umgestellt."
+  }
+}
