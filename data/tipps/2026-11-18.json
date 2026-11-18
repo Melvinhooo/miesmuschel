@@ -63,5 +63,19 @@
     "whitelist_treffer_heute": 0,
     "verdict": "Watchdog hat heute Mittag korrekt entschieden: keine Whitelist-Spiele im 18.11.-Berlin-Fenster -> leeres Dossier ist das richtige Ergebnis. Keine Tipps, keine erfundenen Spieler. Erster aktiver Vereins-Spieltag: Fr 20.11. (Bundesliga MW10 - Bayern vs Koeln 20:30, LaLiga/Ligue-1 Freitag). Vorschau-Dossier tipps_woche/2026-11-16.json deckt die kommende Fr-So-Welle bereits ab, Wochenend-Vorschau folgt Do 19.11. 18:00. Naechste CL-Partie: Di 24.11.",
     "confirmed_at": "2026-11-18T19:30:00+01:00"
+  },
+  "_safety_net_bestaetigung": {
+    "modus": "Safety-Net Backstop Mi 18.11. - dritte unabhaengige Pruefung nachdem Watchdog + Master-Tipps-Routine den Leertag diagnostiziert hatten",
+    "ergebnis": "Leertag erneut bestaetigt - Backstop stellt KEINE Tipps ins Dossier",
+    "begruendung": "Bevor der Backstop synthetischen Content erzeugt haette, wurde unabhaengig primaer-gegengeprueft (Sky Sports Fixtures 18.11., bundesliga.com Spieltag-10-Ansetzungen, Coppa-Italia-Ottavi-Kalender, DFB-Pokal-Achtelfinal-Ansetzungen). Alle Primaerquellen bestaetigen: keine Mannsenior-Top-5-Liga-Spiele, keine UEFA-Vereinsspiele, keine nationalen Pokal-Spiele aus der Whitelist am 18.11. Bundesliga MW10 beginnt erst Fr 20.11. mit Bayern-Koeln 19:30 (NICHT 18.11., wie eine AI-Suchantwort halluzinierte - genau das Hallu-Muster das der Watchdog-Hinweis adressiert). Coppa Italia Ottavi starten erst Di 01.12.2026 (Inter-Genoa). DFB-Pokal-Achtelfinale 01.-02.12.2026 (ausgelost am 01.11. in Dortmund). CL MD5 erst Di-Mi 24.-25.11. Damit ist das BACKSTOP-PRINZIP eingehalten: lieber ehrlich leer als erfunden. Null Tipps IST hier der korrekte Output - CLAUDE.md-Regel 'NIEMALS mit leerem einzeltipps[]/spiele[] enden WENN ES SPIELE GIBT' greift nicht, weil es heute real keine Whitelist-Spiele gibt. Kasse-Status unveraendert (1000 EUR, Stufe 1).",
+    "primaerquellen_backstop": [
+      "https://www.skysports.com/football-scores-fixtures/2026-11-18 (direkt gefetcht - keine Maennerspiele der Top-5-Ligen/UEFA gelistet)",
+      "https://www.bundesliga.com/de/bundesliga/spieltag (direkt gefetcht - Spieltag 10 ist 20.-22.11.2026, Bayern-Koeln ist Fr 20.11. 19:30)",
+      "https://de.wikipedia.org/wiki/Coppa_Italia_2026/27 (Ottavi 01.-03.12. + 15.-16.12.2026)",
+      "https://de.wikipedia.org/wiki/DFB-Pokal_2026/27 (Achtelfinale 01.-02.12.2026)",
+      "https://www.bundesliga.com/de/bundesliga/news/dfb-pokal-achtelfinale-2026-27-ansetzungen-bayern-dortmund-39874"
+    ],
+    "hallu_check": "Eine WebSearch-Antwort behauptete 'Bayern hostet Koeln am 18.11.2026' - durch Primaerquelle bundesliga.com als Hallu entlarvt (korrekt: Fr 20.11.2026 19:30). Backstop haette diesen Fehler ohne Primaer-Gegencheck ins Dossier getragen.",
+    "confirmed_at": "2026-11-18T22:15:00+01:00"
   }
 }
