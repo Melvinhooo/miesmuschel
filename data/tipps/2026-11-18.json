@@ -51,5 +51,17 @@
       "FA Women's League Cup (Man United-Everton)"
     ],
     "nba_status": "Mi-Abend-US-Tipoffs stoßen erst Do 01:30 Berlin an (außerhalb 18.11.-Fenster); CLAUDE.md-NBA-Scope bleibt deaktiviert bis dort explizit umgestellt."
+  },
+  "_master_tipps_bestaetigung": {
+    "modus": "Master-Tipps-Routine Mo-Fr - Nachlauf gegen Watchdog-Leertag-Verdict",
+    "ergebnis": "Watchdog-Verdict unabhaengig bestaetigt",
+    "quellen_gegencheck": [
+      "https://www.livesoccertv.com/schedules/2026-11-18/ (Mi 18.11.: nur UEFA Womens Champions League, Players Cup, Spanische Frauen-Copa, Scottish Womens Premier League - kein maennlicher Top-5-Liga-/UEFA-Wettbewerb)",
+      "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/ (CL Matchday 5 bestaetigt Di-Mi 24.-25.11.2026)",
+      "https://www.skysports.com/football-scores-fixtures/2026-11-18 (per WebSearch-Snippet: nur Womens-Wettbewerbe gelistet)"
+    ],
+    "whitelist_treffer_heute": 0,
+    "verdict": "Watchdog hat heute Mittag korrekt entschieden: keine Whitelist-Spiele im 18.11.-Berlin-Fenster -> leeres Dossier ist das richtige Ergebnis. Keine Tipps, keine erfundenen Spieler. Erster aktiver Vereins-Spieltag: Fr 20.11. (Bundesliga MW10 - Bayern vs Koeln 20:30, LaLiga/Ligue-1 Freitag). Vorschau-Dossier tipps_woche/2026-11-16.json deckt die kommende Fr-So-Welle bereits ab, Wochenend-Vorschau folgt Do 19.11. 18:00. Naechste CL-Partie: Di 24.11.",
+    "confirmed_at": "2026-11-18T19:30:00+01:00"
   }
 }
