@@ -1,7 +1,7 @@
 {
   "datum": "2026-11-20",
-  "erstellt_am": "2026-11-20T14:30:00+01:00",
-  "hinweis": "Watchdog-Recovery Mo-Fr: die Hauptroutine 13:30 hat nicht geliefert. Fr ist Mini-Slate nach der Laenderspielpause - 1 Freitagsspiel Bundesliga (Bayern-Koeln als Topspiel), 2 Spiele 2.BL + 1 Spiel LaLiga + 1 Spiel Ligue 1. Kasse 1000EUR Stufe 1 (konservativ: 1-2% Einzel SAFE/VALUE, Kombi Safe 2%). Bayern-Koeln ist Deckelspiel (Quote ~1.25 SAFE), echte VALUE in den 2.BL- und Troyes-Keller-Spielen.",
+  "erstellt_am": "2026-11-20T20:13:27+01:00",
+  "hinweis": "Pipeline Mo-Fr (GitHub Action) - Freitag nach Laenderspielpause mit Mini-Slate: 1 Bundesliga-Topspiel (Bayern-Koeln, 20:30 Allianz Arena) + 1 LaLiga (Athletic Bilbao-Espanyol) + 1 Ligue 1 (Troyes-LeHavre) + 2 Spiele 2.BL (Darmstadt-Heidenheim, Bielefeld-Magdeburg). Kasse 1000EUR Stufe 1 (konservativ: 1-2% Einzel SAFE/VALUE, Kombi Safe 2%). Bayern-Koeln ist Deckelspiel (Quote ~1.25 SAFE), echte VALUE in den 2.BL- und Troyes-Keller-Spielen. Keine Recherche-File vorhanden - Fallback-Recherche inline aus verifizierten Preview-Quellen gemacht (bundesliga.com, kicker.de, uefa.com).",
   "spiele": [
     {
       "id": "2026-11-20-bay-koe",
@@ -640,13 +640,13 @@
     "2:0-Insurance greift NUR bei Bay-Koe (Bundesliga), NICHT in LaLiga/Ligue 1/2.BL"
   ],
   "_verifikations_report": {
-    "erstellt_am": "2026-11-20T14:30:00+01:00",
+    "erstellt_am": "2026-11-20T20:13:27+01:00",
     "drops": [],
     "downgrades": [],
     "warns": [
       {
-        "art": "watchdog_recovery",
-        "details": "Hauptroutine 13:30 hat nicht geliefert, Watchdog 14:30 hat uebernommen. Mini-Slate (5 Spiele) nach Laenderspielpause."
+        "art": "recherche_file_fehlt",
+        "details": "data/recherche/2026-11-20.json nicht vorhanden - Fallback-Recherche inline gemacht via bundesliga.com, kicker.de, fc-koeln.de, uefa.com. Saison_kontext-Quellen pro Spiel komplett."
       },
       {
         "art": "quoten_live_pruefen",
@@ -657,8 +657,11 @@
         "details": "Kane/Karl/Diaz-Status bei Bayern vor Anpfiff auf kicker.de Aufstellungs-Vorschau + ran.de Verletzungsmeldungen verifizieren. Luis Diaz war OUT bis Ende Nov - Comeback moeglich, dann Torschuetzen-Tipps anpassen."
       }
     ],
+    "halluzinations_check": "pro Spiel: Kader-Wechsel 2026 geprueft (Adeyemi=Barca, Diaz=Bayern, Diomande=Real, Ndiaye=City, Jackson=Villa, Watkins=Al Hilal). Keine Spieler aus Gedaechtnis. Luis Diaz NICHT als Bayern-Torschuetze getippt (noch verletzt).",
+    "layer_cross_check": "Layer-1 OK (max 1 Bein/Spiel/Kombi), Layer-2 OK (Sieg-Outcome pro Spiel max 1 Kombi), Layer-3 best effort (Mini-Slate erzwingt bei 5 Spielen + 4 Kombis Mehrfach-Nutzung, aber markt-entkoppelt)",
+    "selbstwiderspruchs_check": "saison_kontext spricht von Bayern-Verletzungswelle (Olise/Gnabry/Diaz/Kim OUT) - trotzdem Bayern-Sieg als SAFE legitim wegen Klasse-Gefaelle gegen Koeln-Aufsteiger + 2:0-Insurance. Kein SAFE auf Bayern-Offensive-Volume (Ueber 2.5 nur als VALUE 1.40)",
     "lessons_generiert": []
   },
-  "_emergency_recovery": true,
+  "_emergency_recovery": false,
   "footer": "18+ - BZgA Gluecksspielsucht-Hotline: 0800 1372700"
 }
