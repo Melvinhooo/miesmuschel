@@ -1,0 +1,96 @@
+{
+  "datum": "2026-11-19",
+  "erstellt_am": "2026-11-19T14:30:00+01:00",
+  "zuletzt_bestaetigt_am": "2026-11-19T22:30:00+01:00",
+  "hinweis": "Watchdog Mo-Fr 14:30 Berlin: Haupt-Routine 13:30 hat kein Dossier geliefert, Watchdog hat die Lage unabhängig gegengeprüft (football-data.org blockt im Proxy mit 403, daher per WebSearch über Betfred-Insights-Fixtures, Sport-Flash Calendar, Footballwebpages, FBref, UEFA.com-Spielplan). Do 19.11.2026 liegt noch in der FIFA-Länderspielpause-Nachwirkung: alle Whitelist-Vereinsligen pausieren bis Fr 20.11. (Bundesliga Spieltag 10 ab 20.11. 20:30 Bayern-Köln, LaLiga Jornada 13 ab Fr/Sa 20.-21.11., Ligue 1 Journee 13 Fr-So 20.-22.11., Premier League Matchweek 11 ab Sa 21.11. — Newcastle-Arsenal 21.11. 18:30, Serie A Giornata 12 Sa+So 21.-22.11., 2. Bundesliga Fr-So 20.-22.11.). UEFA-Pokale: Champions League Matchday 5 bestätigt Di-Mi 24.-25.11.2026 (NICHT heute), Europa League Matchday 5 Do 26.11.2026, Conference League Matchday 5 Mi-Do 25.-26.11.2026 — kein Donnerstagsspiel für die Wettbewerbe diese Woche. Nationale Pokale ohne Do 19.11.-Ansetzung: DFB-Pokal-Achtelfinale erst 01.-02.12.2026 (ausgelost 01.11. in Dortmund), Coppa-Italia-Ottavi ab 01.12.2026 (Inter-Genoa), FA Cup 2. Runde Fr-Mo 27.-30.11., Coupe de France Tour 8 mit L1-Einstieg Fr-So 28.-29.11. (FFF-Terminierung). Keine Supercup-Ansetzung heute: UEFA Super Cup war 12.08.2026 Salzburg, Franz-Beckenbauer-Supercup war 22.08.2026 Dortmund-Bayern, Supercoppa Italiana im neuen 2-Team-Format erst 22.12.2026 Inter-Lazio (bestätigt via inter.it + calcioefinanza.it), Supercopa de España + Trophée des Champions traditionell Januar 2027. Heute sichtbar laut Betfred-Insights + Sport-Flash-Calendar nur U17-Internationals (Egypt U17–Greece U17, Argentina U17–Australia U17 u.a., ~12:00 Berlin) + Freundschaftsspiele TBC (Anstoßzeit nicht bestätigt, keine Übertragung gelistet) — nicht in der Whitelist (CLAUDE.md-Scope: Bundesliga, PL, LaLiga, Serie A, Ligue 1, 2.BL, DFB-Pokal, FA Cup, Copa del Rey, Coppa Italia, Coupe de France, CL/EL/Conference, Supercups) und nicht in data/beobachtungs_ligen.json. NBA Saison 2026/27 läuft, Do-Abend-US-Tipoffs ab 19:30 ET stoßen aber erst Fr 20.11. 01:30 Berlin an — außerhalb der Zeitfenster-Hartregel 22.08.2026 für dieses Tages-Dossier (gehören ins Dossier von Fr 20.11.). Plus: CLAUDE.md-NBA-Scope bleibt auf 'Offseason — keine NBA-Tipps' gesetzt (Zeile 11), bis in CLAUDE.md explizit auf aktiv umgestellt wird, konsistent zu 10.-18.11. Kasse 1000€, Stufe 1 aktiv (stufe_2_freigeschaltet=false). Null Whitelist-Spiele im 19.11.-Fenster → Null Tipps ist das richtige Ergebnis, kein erzwungener Content, keine erfundenen Spieler (Adeyemi-Klasse-Fehler bei Null Spielernamen im Dossier nicht möglich). Die Wochen-Vorschau tipps_woche/2026-11-16.json deckt Fr 20.11.-So 22.11. bereits ab (10 Spiele: Bayern-Köln, BMG-Dortmund, Chelsea-Leeds, Newcastle-Arsenal, Liverpool-ManU, Real-Celta, Barca-Villarreal, Napoli-Torino, Atalanta-Inter, Nizza-PSG). Die Wochenend-Vorschau tipps_wochenende/2026-11-21.json wird heute Abend 18:00 vom Donnerstag-Vorschau-Slot generiert. Nächster aktiver Tipp-Tag: Fr 20.11.2026 (Bundesliga Freitagsspiel Bayern-Köln 20:30, Ligue 1 Troyes-Le Havre 19:45 sichtbar bei Footballwebpages).",
+  "spiele": [],
+  "einzeltipps": [],
+  "kombis": [],
+  "lessons_angewandt": [
+    "CLAUDE.md Zeitfenster-Hartregel (22.08.2026): Tages-Dossier enthält ausschließlich Spiele mit Anstoß am Zieldatum 2026-11-19 in Berliner Zeit — ein Spiel, das erst morgen anstößt (Bayern-Köln, Troyes-Le Havre), gehört nicht hier hinein, dafür greift die Wochen-Vorschau tipps_woche/2026-11-16.json und ab heute 18:00 die Wochenend-Vorschau tipps_wochenende/2026-11-21.json.",
+    "master_tipps_routine.md Notfall-Fallback (Zeile 276): lieber ein ehrliches kleines Dossier mit erklärendem hinweis als erfundene Spiele. Bei Null Whitelist-Spielen im Fenster ist Null-Tipps der korrekte Output — kein Backstop-Druck, synthetischen Content zu erzeugen.",
+    "fussball_analyse.md + CLAUDE.md Kader-Frische: nie Spielernamen aus dem Gedächtnis oder aus Prompt-Beispielen übernehmen. Bei Null Whitelist-Spielen also auch keine Tipps generieren — kein Risiko für Adeyemi-/Jackson-/Watkins-Klasse-Fehler aus data/kader_wechsel_2026.json (18 bestätigte Sommer-Abgänge, die NIE mehr für den alten Verein getippt werden dürfen).",
+    "17.11.-/18.11.-Backstop-Präzedenz: AI-Suchantworten halluzinieren gern CL/EL-Spiele an falschen Terminen — Primärquellen-Gegencheck (UEFA.com, Sky Sports, Betfred-Insights, Footballwebpages, FBref) ist Pflicht bevor Spiele ins Dossier wandern. Die halluzinierte 10er-CL-Liste vom 17.11. wäre ohne UEFA.com-Verifikation ins Dossier gewandert; gleiche Disziplin heute.",
+    "Scope-Disziplin wie an den Pause-Tagen 10./11./16./17./18.11.: Nationalteams (U17-WM, Freundschaftsspiele) sind laut CLAUDE.md für Haupt-Tipps NICHT im Scope — kein Aufweichen für Füll-Content.",
+    "NBA-Zeitfenster-Disziplin: heutige NBA-Tipoffs 19:30 ET = 01:30 MEZ Fr 20.11. → laut Zeitfenster-Hartregel ins Freitags-Dossier, nicht hierher (plus CLAUDE.md-NBA-Scope weiterhin pausiert, konsistent zu 10.-18.11.).",
+    "Kontinuitäts-Kette der FIFA-Pause-Woche: 10.11. (Mo) + 11.11. (Di) + 16.11. (So-Berlin-Zeitfenster = Mo lokal Watchdog-Leer) + 17.11. (Di) + 18.11. (Mi) waren aus gleichem Grund Leertage; 12.-15.11. lief nur über Coupe de France 7e Tour; ab Fr 20.11. voller Liga-Betrieb zurück. Erster CL-Spieltag im Fenster: Di 24.11."
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_watchdog_report": {
+    "modus": "Watchdog Mo-Fr 14:30 - Recovery nach Haupt-Routine-Ausfall",
+    "ergebnis": "ehrlicher Leertag bestätigt",
+    "recherche_file_vorhanden": false,
+    "recherche_file_selbst_erstellt": false,
+    "begruendung": "Bei bestätigt-leerem Fenster entfällt die Squad-Recherche; ein Recherche-File ohne Spiele wäre nur Lärm und würde beim nächsten Push vom Schema-Fix als 0-Spiele-File markiert.",
+    "quellen_gegencheck": [
+      "https://insights.betfred.com/football/fixtures/19-11-2026/ (per WebSearch-Snippet: nur U17-Internationals, keine Männer-Top-5-Liga/UEFA-Vereinsspiele)",
+      "https://www.sport-flash.com/sports/football/uk/calendar/2026-11-19 (Friendlies TBC, keine Übertragung gelistet)",
+      "https://www.footballwebpages.co.uk/20261120 (nächster Top-Liga-Spieltag Fr 20.11.: Bayern-Köln, Troyes-Le Havre u.a.)",
+      "https://fbref.com/en/matches/2026-11-22 (nächster PL-/Serie-A-Sonntag 22.11. bestätigt)",
+      "https://www.uefa.com/uefaeuropaleague/news/02a8-2177782493b9-69ba3288701d-1000--2026-27-uefa-europa-league-league-phase-fixtures-by-team/ (EL MD5 bestätigt Do 26.11.2026)",
+      "https://allsportdb.com/Events/2027-UEFA-Europa-League-Matchday-5-20702 (EL MD5 bestätigt 26.11.2026 als Zweit-Quelle)",
+      "https://www.fff.fr/article/15767-toutes-les-affiches-du-8e-tour.html (CdF 8e Tour Fr-Sa 28.-29.11.2026, nicht heute)",
+      "https://www.inter.it/en/news/supercoppa-italiana-inter-lazio-22-december-2026-san-siro (Supercoppa 22.12.2026, nicht heute)"
+    ],
+    "whitelist_check": {
+      "bundesliga": "pausiert bis Fr 20.11. 20:30 Bayern-Köln",
+      "2_bundesliga": "pausiert bis Fr-So 20.-22.11.",
+      "premier_league": "pausiert bis Sa 21.11. (MW11)",
+      "laliga": "pausiert bis Fr/Sa 20.-21.11. (J13)",
+      "serie_a": "pausiert bis Sa/So 21.-22.11. (G12)",
+      "ligue_1": "pausiert bis Fr 20.11. 19:45 Troyes-Le Havre (J13)",
+      "champions_league": "MD5 erst Di-Mi 24.-25.11.2026",
+      "europa_league": "MD5 erst Do 26.11.2026",
+      "conference_league": "MD5 erst Mi-Do 25.-26.11.2026",
+      "dfb_pokal": "Achtelfinale erst 01.-02.12.2026",
+      "fa_cup": "2. Runde erst Fr-Mo 27.-30.11.2026",
+      "copa_del_rey": "keine Ansetzung heute",
+      "coppa_italia": "Ottavi erst ab 01.12.2026 (Inter-Genoa)",
+      "coupe_de_france": "Tour 8 erst Fr-So 28.-29.11.2026 (FFF-Terminierung)",
+      "uefa_super_cup": "war 12.08.2026 Salzburg",
+      "nationale_supercups": "Franz-Beckenbauer-Supercup war 22.08.2026 Dortmund-Bayern; Supercoppa Italiana 22.12.2026 Inter-Lazio; Supercopa Espana + Trophée des Champions Jan 2027"
+    },
+    "nicht_whitelist_heute": [
+      "U17-Internationals ~12:00 Berlin (Egypt U17-Greece U17, Argentina U17-Australia U17 u.a.)",
+      "Freundschaftsspiele TBC (keine Anstoßzeit, keine Übertragung)"
+    ],
+    "nba_status": "Do-Abend-US-Tipoffs stoßen erst Fr 01:30 Berlin an (außerhalb 19.11.-Fenster); CLAUDE.md-NBA-Scope bleibt deaktiviert bis dort explizit umgestellt.",
+    "hallu_check": "Keine einzelnen Vereinsspiele im Dossier → kein Risiko für Kader-Halluzinationen (data/kader_wechsel_2026.json listet 18 bestätigte Sommer-Abgänge, die NIE mehr für den alten Verein getippt werden dürfen — Adeyemi, Luis Diaz, Malen, Ndiaye, Jackson, Watkins, Brown, Alajbegovic, Reitz u.a.).",
+    "next_active_tipp_tag": "Fr 20.11.2026 - Bundesliga Freitagsspiel Bayern-Köln 20:30 + Ligue-1-Freitagsspiel Troyes-Le Havre 19:45",
+    "wochen_vorschau_bestaetigung": "tipps_woche/2026-11-16.json deckt Fr 20.11.-So 22.11. mit 10 Spielen bereits ab; Wochenend-Vorschau tipps_wochenende/2026-11-21.json wird heute 18:00 vom Donnerstag-Vorschau-Slot generiert, Watchdog greift dort nicht."
+  },
+  "_master_bestaetigung": {
+    "modus": "Nachgelagerter Master-Mo-Fr-Lauf - unabhängige Gegenprüfung des Watchdog-Leertags",
+    "ergebnis": "Leertag bestätigt - keine Whitelist-Spiele am Do 19.11.2026",
+    "eigenstaendige_quellen": [
+      "https://fbref.com/en/matches/2026-11-19 (Thursday 19.11.2026 Fixtures: keine Männer-Top-5-Liga, keine UEFA-Pokale - nur UEFA Women's Champions League, Brasilien Serie A, MLS, alles ausserhalb CLAUDE.md-Scope)",
+      "https://www.livesoccertv.com/schedules/2026-11-19/ (Live-Streaming-Schedule Do 19.11.: keine Männer-Vereins-Whitelist-Partie)",
+      "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Europa_League_league_phase (EL League-Phase MD1-MD6: MD5 = 26.11.2026 - heute 19.11. ist leer)",
+      "https://www.uefa.com/uefaeuropaleague/news/02a6-20d57d095740-e1e0b3de85df-1000--2026-27-europa-league-teams-dates-draws-format-final/ (UEFA EL 2026/27 Terminplan: MD5 26.11.2026)"
+    ],
+    "abgleich_mit_watchdog": "Zwei unabhängige Recherche-Durchgänge (Watchdog 14:30 + Master nachgelagert) kommen zum identischen Ergebnis: Null Whitelist-Vereinsspiele. Kontinentale Männer-Pokale pausieren bis 24.11. (CL MD5), nationale Ligen bis Fr 20.11. (Bundesliga Bayern-Köln 20:30, L1 Troyes-Le Havre 19:45).",
+    "zeitfenster_check": "fix_schema.py validate_datum_scope greift nicht, weil spiele[] leer bleibt - kein Drop-Risiko.",
+    "kader_halluzinations_check": "Null Spielernamen im Dossier - Adeyemi/Jackson/Watkins/Luis-Diaz-Klasse-Fehler ausgeschlossen (data/kader_wechsel_2026.json wurde geprüft, kein Verweis auf abgereiste Spieler).",
+    "kasse_stand": "1000€, Stufe 1 aktiv (stufe_2_freigeschaltet=false) - unverändert seit 22.08.2026 Saison-Start. Keine Einsatz-Berechnung nötig bei leerem Dossier.",
+    "lessons_bestaetigung": "Alle 7 angewandten Lessons bleiben inhaltlich korrekt - Zeitfenster-Hartregel 22.08.2026, Notfall-Fallback, Kader-Frische, Primärquellen-Gegencheck gegen AI-Halluzinationen, Scope-Disziplin, NBA-Pause, FIFA-Pausen-Kontinuitätskette.",
+    "naechste_laeufe": "Donnerstag 18:00 Wochenend-Vorschau tipps_wochenende/2026-11-21.json (eigener Slot, Watchdog greift nicht) → Fr 13:30 Tages-Master tipps/2026-11-20.json (Bundesliga Bayern-Köln + L1 Troyes-Le Havre, dann voller Liga-Betrieb am Wochenende zurück)."
+  },
+  "_backstop_bestaetigung": {
+    "modus": "Safety-Net Backstop Do 22:30 Berlin - dritte unabhängige Instanz nach Master 13:30 + Watchdog 14:30",
+    "ergebnis": "Leertag bestätigt - weiterhin keine Whitelist-Vereinsspiele am Do 19.11.2026",
+    "unabhaengige_quellen_backstop": [
+      "https://fbref.com/en/matches/2026-11-19 (Do 19.11. Fixtures: nur UEFA Women's Champions League 5 Spiele, Brasilien Série A, keine Männer-Top-5-Liga, keine Männer-UEFA-Pokale)",
+      "https://www.livesoccertv.com/schedules/2026-11-19/ (Live-TV-Schedule Do 19.11.: bestätigt Women-CL + Brasilien, keine Whitelist-Partie)",
+      "https://www.uefa.com/uefaeuropaleague/news/02a8-2174cafa5bb6-82bbc20c9b92-1000--2026-27-europa-league-all-the-league-phase-fixtures-and-re/ (EL League-Phase 2026/27: MD5 Do 26.11.2026, nicht 19.11.)",
+      "https://www.skysports.com/football-scores-fixtures/2026-11-19 (Sky-Sports Fixtures Do 19.11. - keine Männer-Vereins-Whitelist-Partie)"
+    ],
+    "backstop_abgleich_vorinstanzen": "Dritter unabhängiger Durchgang (Master + Watchdog + Backstop) kommt zu identischem Ergebnis: Null Whitelist-Vereinsspiele. Keine der drei Instanzen hat ein Whitelist-Spiel übersehen - das Spielangebot heute ist faktisch leer (FIFA-Pausen-Nachwirkung, nationale Ligen starten erst Fr 20.11. zurück, kontinentale Männer-Pokale erst 24.11. mit CL MD5).",
+    "backstop_prinzip_check": "CLAUDE.md-BACKSTOP-Prinzip: 'Lieber ein KLEINES, ehrliches Dossier als GAR KEINS' - greift NUR wenn Spiele existieren aber nicht verarbeitet wurden. Heute existieren keine Whitelist-Spiele, also ist das ehrliche Leer-Dossier das korrekte BACKSTOP-Ergebnis. Erfinden von Spielen (U17-WM / Freundschaftsspiele / Brasilien / Women-CL ins Haupt-Dossier ziehen) wäre Scope-Verletzung + Hallu-Risiko ohne bet365-DE-Liquidität.",
+    "dossier_strukturcheck": "Pflichtfelder vorhanden: datum, hinweis (Lage-Erklärung ausführlich), spiele[] (leer, korrekt), einzeltipps[] (leer, korrekt), kombis[] (leer, korrekt), lessons_angewandt (7 Einträge), footer (mit BZgA 0800 1372700). Schema-Fix fix_schema.py: validate_datum_scope greift nicht (spiele[]=[]), validate_kader_wechsel greift nicht (keine Spielernamen), validate_saison_kontext greift nicht (keine Spiele zu validieren). Push-sicher.",
+    "kasse_lage": "data/kasse.json: 1000€, Stufe 1 aktiv (stufe_2_freigeschaltet=false) - keine Einsatz-Rechnung nötig bei leerem Dossier. Saison-2026/27-Start-Kasse 1000€ unverändert seit 22.08.2026.",
+    "spielerschutz_hinweis": "Leertage sind strukturell gut für Bankroll - keine Zwangs-Einsätze, Kasse unverändert. BZgA 0800 1372700 im Footer sichtbar. 18+ · Hobby-Tool · nur setzen was verlierbar ist."
+  },
+  "einzeltipps_ergebnis": [],
+  "kombis_ergebnis": [],
+  "ausgewertet_am": "2026-11-20T06:08:18+00:00"
+}
