@@ -244,14 +244,14 @@
       "tipps": [
         {
           "id": "fra-tsg-1",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Frankfurt oder Remis (Doppelte Chance)",
           "quote": 1.3,
           "edge_prozent": 5.0,
           "faire_quote": 1.24,
           "empfohlener_einsatz_prozent": 1.5,
           "empfohlener_einsatz_euro": 15,
-          "begruendung": "DC 1X ist Top-Goldgrube (76.2% Hitrate, +40% ROI). Frankfurt @ Heim verliert selten gegen Hoffenheim. Einsatz 15€ (1.5%). Quote live prüfen. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value]",
+          "begruendung": "DC 1X ist Top-Goldgrube (76.2% Hitrate, +40% ROI). Frankfurt @ Heim verliert selten gegen Hoffenheim. Einsatz 15€ (1.5%). Quote live prüfen. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value] [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "liga": "Bundesliga",
           "_saison_kontext_sanity_downgrade": true
         },
