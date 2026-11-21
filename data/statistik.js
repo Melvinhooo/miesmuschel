@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-11-20T18:49:12+00:00",
+  "letzte_berechnung": "2026-11-21T06:17:03+00:00",
   "gesamt": {
-    "tipps": 267,
-    "gewonnen": 168,
-    "verloren": 87,
+    "tipps": 277,
+    "gewonnen": 170,
+    "verloren": 95,
     "push": 0,
     "offen": 12,
-    "einsatz": 255.0,
-    "netto": 91.39,
-    "trefferquote": 65.9,
-    "roi_prozent": 35.8
+    "einsatz": 265.0,
+    "netto": 94.22,
+    "trefferquote": 64.2,
+    "roi_prozent": 35.6
   },
   "letzte_30_tage": {
-    "tipps": 146,
-    "gewonnen": 86,
-    "verloren": 50,
+    "tipps": 144,
+    "gewonnen": 80,
+    "verloren": 54,
     "push": 0,
     "offen": 10,
-    "einsatz": 136.0,
-    "netto": 12.36,
-    "trefferquote": 63.2,
-    "roi_prozent": 9.1
+    "einsatz": 134.0,
+    "netto": 15.02,
+    "trefferquote": 59.7,
+    "roi_prozent": 11.2
   },
   "letzte_90_tage": {
     "tipps": 251,
-    "gewonnen": 160,
-    "verloren": 79,
+    "gewonnen": 155,
+    "verloren": 84,
     "push": 0,
     "offen": 12,
     "einsatz": 239.0,
-    "netto": 94.52,
-    "trefferquote": 66.9,
-    "roi_prozent": 39.5
+    "netto": 87.91,
+    "trefferquote": 64.9,
+    "roi_prozent": 36.8
   },
   "nach_liga": {
     "LaLiga 2026/27 - Matchday 1": {
@@ -628,6 +628,50 @@ window.__MIESMUSCHEL_STAT = {
       "netto": -3.13,
       "trefferquote": 59.3,
       "roi_prozent": -11.6
+    },
+    "Bundesliga 2026/27 - 10. Spieltag": {
+      "tipps": 3,
+      "gewonnen": 0,
+      "verloren": 3,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "LaLiga EA Sports 2026/27 - Jornada 13": {
+      "tipps": 2,
+      "gewonnen": 0,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Ligue 1 2026/27 - 11. Spieltag": {
+      "tipps": 2,
+      "gewonnen": 1,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 1.33,
+      "trefferquote": 50.0,
+      "roi_prozent": 66.5
+    },
+    "2. Bundesliga 2026/27 - 12. Spieltag": {
+      "tipps": 3,
+      "gewonnen": 1,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 3.0,
+      "netto": 1.5,
+      "trefferquote": 33.3,
+      "roi_prozent": 50.0
     }
   },
   "nach_markt": {
@@ -654,15 +698,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 40.0
     },
     "Unter 2.5 Tore": {
-      "tipps": 14,
+      "tipps": 16,
       "gewonnen": 7,
-      "verloren": 7,
+      "verloren": 9,
       "push": 0,
       "offen": 0,
-      "einsatz": 14.0,
+      "einsatz": 16.0,
       "netto": 6.55,
-      "trefferquote": 50.0,
-      "roi_prozent": 46.8
+      "trefferquote": 43.8,
+      "roi_prozent": 40.9
     },
     "Beide Teams treffen: Ja": {
       "tipps": 3,
@@ -676,15 +720,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 92.7
     },
     "Ueber 2.5 Tore": {
-      "tipps": 28,
+      "tipps": 29,
       "gewonnen": 15,
-      "verloren": 11,
+      "verloren": 12,
       "push": 0,
       "offen": 2,
-      "einsatz": 26.0,
+      "einsatz": 27.0,
       "netto": 5.57,
-      "trefferquote": 57.7,
-      "roi_prozent": 21.4
+      "trefferquote": 55.6,
+      "roi_prozent": 20.6
     },
     "Deportivo La Coruna Sieg (90 Min)": {
       "tipps": 1,
@@ -2029,15 +2073,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 35.0
     },
     "Sieg FC Bayern Muenchen (90 Min)": {
-      "tipps": 1,
+      "tipps": 2,
       "gewonnen": 1,
-      "verloren": 0,
+      "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
+      "einsatz": 2.0,
       "netto": 0.15,
-      "trefferquote": 100.0,
-      "roi_prozent": 15.0
+      "trefferquote": 50.0,
+      "roi_prozent": 7.5
     },
     "Leverkusen oder Remis (Doppelte Chance)": {
       "tipps": 1,
@@ -2216,15 +2260,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 42.0
     },
     "Harry Kane Torschuetze jederzeit": {
-      "tipps": 1,
+      "tipps": 2,
       "gewonnen": 0,
-      "verloren": 1,
+      "verloren": 2,
       "push": 0,
       "offen": 0,
-      "einsatz": 1.0,
+      "einsatz": 2.0,
       "netto": -1.0,
       "trefferquote": 0.0,
-      "roi_prozent": -100.0
+      "roi_prozent": -50.0
     },
     "Thuram Torschuetze jederzeit": {
       "tipps": 1,
@@ -2643,6 +2687,61 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.8,
       "trefferquote": 100.0,
       "roi_prozent": 80.0
+    },
+    "Doppelte Chance Athletic Club oder Remis (1X)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Sieg Athletic Club Bilbao (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Doppelte Chance Troyes oder Remis (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.33,
+      "trefferquote": 100.0,
+      "roi_prozent": 133.0
+    },
+    "Doppelte Chance Darmstadt oder Remis (1X)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.5,
+      "trefferquote": 100.0,
+      "roi_prozent": 150.0
+    },
+    "Sieg Arminia Bielefeld (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
@@ -2658,15 +2757,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 36.7
     },
     "Unter 2.5 Tore": {
-      "tipps": 14,
+      "tipps": 16,
       "gewonnen": 7,
-      "verloren": 7,
+      "verloren": 9,
       "push": 0,
       "offen": 0,
-      "einsatz": 14.0,
+      "einsatz": 16.0,
       "netto": 6.55,
-      "trefferquote": 50.0,
-      "roi_prozent": 46.8
+      "trefferquote": 43.8,
+      "roi_prozent": 40.9
     },
     "Beide Teams treffen JA": {
       "tipps": 13,
@@ -2680,37 +2779,37 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 44.5
     },
     "Ueber 2.5 Tore": {
-      "tipps": 44,
+      "tipps": 45,
       "gewonnen": 22,
-      "verloren": 18,
+      "verloren": 19,
       "push": 0,
       "offen": 4,
-      "einsatz": 40.0,
+      "einsatz": 41.0,
       "netto": 9.07,
-      "trefferquote": 55.0,
-      "roi_prozent": 22.7
+      "trefferquote": 53.7,
+      "roi_prozent": 22.1
     },
     "Sieg (1X2 / ML)": {
-      "tipps": 38,
+      "tipps": 41,
       "gewonnen": 25,
-      "verloren": 11,
+      "verloren": 14,
       "push": 0,
       "offen": 2,
-      "einsatz": 36.0,
+      "einsatz": 39.0,
       "netto": 10.81,
-      "trefferquote": 69.4,
-      "roi_prozent": 30.0
+      "trefferquote": 64.1,
+      "roi_prozent": 27.7
     },
     "Torschuetzen Jederzeit": {
-      "tipps": 35,
+      "tipps": 36,
       "gewonnen": 11,
-      "verloren": 23,
+      "verloren": 24,
       "push": 0,
       "offen": 1,
-      "einsatz": 34.0,
+      "einsatz": 35.0,
       "netto": 1.85,
-      "trefferquote": 32.4,
-      "roi_prozent": 5.4
+      "trefferquote": 31.4,
+      "roi_prozent": 5.3
     },
     "Doppelte Chance X2": {
       "tipps": 28,
@@ -2768,15 +2867,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "Doppelte Chance 1X": {
-      "tipps": 22,
-      "gewonnen": 16,
-      "verloren": 5,
+      "tipps": 25,
+      "gewonnen": 18,
+      "verloren": 6,
       "push": 0,
       "offen": 1,
-      "einsatz": 21.0,
-      "netto": 8.4,
-      "trefferquote": 76.2,
-      "roi_prozent": 40.0
+      "einsatz": 24.0,
+      "netto": 11.23,
+      "trefferquote": 75.0,
+      "roi_prozent": 46.8
     },
     "Spread/Handicap": {
       "tipps": 4,
@@ -2924,37 +3023,37 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.00-1.50": {
-      "tipps": 113,
-      "gewonnen": 90,
-      "verloren": 17,
+      "tipps": 117,
+      "gewonnen": 91,
+      "verloren": 20,
       "push": 0,
       "offen": 6,
-      "einsatz": 107.0,
-      "netto": 37.58,
-      "trefferquote": 84.1,
+      "einsatz": 111.0,
+      "netto": 38.91,
+      "trefferquote": 82.0,
       "roi_prozent": 35.1
     },
     "1.50-2.00": {
-      "tipps": 118,
-      "gewonnen": 70,
-      "verloren": 43,
+      "tipps": 123,
+      "gewonnen": 71,
+      "verloren": 47,
       "push": 0,
       "offen": 5,
-      "einsatz": 113.0,
-      "netto": 55.06,
-      "trefferquote": 61.9,
-      "roi_prozent": 48.7
+      "einsatz": 118.0,
+      "netto": 56.56,
+      "trefferquote": 60.2,
+      "roi_prozent": 47.9
     },
     "2.00-3.00": {
-      "tipps": 26,
+      "tipps": 27,
       "gewonnen": 5,
-      "verloren": 20,
+      "verloren": 21,
       "push": 0,
       "offen": 1,
-      "einsatz": 25.0,
+      "einsatz": 26.0,
       "netto": -7.45,
-      "trefferquote": 20.0,
-      "roi_prozent": -29.8
+      "trefferquote": 19.2,
+      "roi_prozent": -28.7
     },
     "3.00+": {
       "tipps": 10,
@@ -2970,37 +3069,37 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 59,
+      "tipps": 61,
       "gewonnen": 51,
-      "verloren": 7,
+      "verloren": 9,
       "push": 0,
       "offen": 1,
-      "einsatz": 58.0,
+      "einsatz": 60.0,
       "netto": 32.03,
-      "trefferquote": 87.9,
-      "roi_prozent": 55.2
+      "trefferquote": 85.0,
+      "roi_prozent": 53.4
     },
     "value": {
-      "tipps": 160,
-      "gewonnen": 93,
-      "verloren": 60,
+      "tipps": 167,
+      "gewonnen": 94,
+      "verloren": 66,
       "push": 0,
       "offen": 7,
-      "einsatz": 153.0,
-      "netto": 40.88,
-      "trefferquote": 60.8,
-      "roi_prozent": 26.7
+      "einsatz": 160.0,
+      "netto": 42.38,
+      "trefferquote": 58.8,
+      "roi_prozent": 26.5
     },
     "wackel": {
-      "tipps": 46,
-      "gewonnen": 23,
+      "tipps": 47,
+      "gewonnen": 24,
       "verloren": 20,
       "push": 0,
       "offen": 3,
-      "einsatz": 43.0,
-      "netto": 17.48,
-      "trefferquote": 53.5,
-      "roi_prozent": 40.7
+      "einsatz": 44.0,
+      "netto": 18.81,
+      "trefferquote": 54.5,
+      "roi_prozent": 42.8
     },
     "risk": {
       "tipps": 2,
@@ -3033,15 +3132,15 @@ window.__MIESMUSCHEL_STAT = {
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 267,
-      "gewonnen": 168,
-      "verloren": 87,
+      "tipps": 277,
+      "gewonnen": 170,
+      "verloren": 95,
       "push": 0,
       "offen": 12,
-      "einsatz": 255.0,
-      "netto": 91.39,
-      "trefferquote": 65.9,
-      "roi_prozent": 35.8
+      "einsatz": 265.0,
+      "netto": 94.22,
+      "trefferquote": 64.2,
+      "roi_prozent": 35.6
     },
     "kasse": {
       "name": "2026/27",
@@ -3078,21 +3177,284 @@ window.__MIESMUSCHEL_STAT = {
         "start": "2026-08-22",
         "ende": "2027-06-30",
         "bilanz": {
-          "tipps": 251,
-          "gewonnen": 160,
-          "verloren": 79,
+          "tipps": 261,
+          "gewonnen": 162,
+          "verloren": 87,
           "push": 0,
           "offen": 12,
-          "einsatz": 239.0,
-          "netto": 94.52,
-          "trefferquote": 66.9,
-          "roi_prozent": 39.5
+          "einsatz": 249.0,
+          "netto": 97.35,
+          "trefferquote": 65.1,
+          "roi_prozent": 39.1
         },
         "ist_aktuell": true
       }
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-11-20",
+      "gesamt": {
+        "tipps": 10,
+        "gewonnen": 2,
+        "verloren": 8,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 10.0,
+        "netto": 2.83,
+        "trefferquote": 20.0,
+        "roi_prozent": 28.3
+      },
+      "spiele": [
+        {
+          "id": "2026-11-20-bay-koe",
+          "liga": "Bundesliga 2026/27 - 10. Spieltag",
+          "heim": "FC Bayern Muenchen",
+          "gast": "1. FC Koeln",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg FC Bayern Muenchen (90 Min)",
+              "quote": 1.25,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Bayern nur 1:1 - keine 2:0-Fuehrung also keine Insurance."
+            },
+            {
+              "markt": "Harry Kane Torschuetze jederzeit",
+              "quote": 1.55,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Kane traf nicht; Kane in ~20. Min verletzt ausgewechselt fuer Tom Bischof, Bischof traf nicht - kein Einwechslungs-Boost."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Nur 2 Tore (1:1) - Ueber 2.5 verfehlt."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-20-ath-esp",
+          "liga": "LaLiga EA Sports 2026/27 - Jornada 13",
+          "heim": "Athletic Club Bilbao",
+          "gast": "RCD Espanyol Barcelona",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg Athletic Club Bilbao (90 Min)",
+              "quote": 1.65,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Espanyol gewinnt 0:1 (Fernandez 66.)."
+            },
+            {
+              "markt": "Doppelte Chance Athletic Club oder Remis (1X)",
+              "quote": 1.18,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Espanyol gewinnt - keine Doppelte Chance 1X."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-20-tro-hav",
+          "liga": "Ligue 1 2026/27 - 11. Spieltag",
+          "heim": "ESTAC Troyes",
+          "gast": "Le Havre AC",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Troyes oder Remis (1X)",
+              "quote": 1.33,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.33,
+              "kommentar": "Troyes gewinnt 3:1 - Doppelte Chance 1X trifft."
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.8,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "4 Tore (3:1) - Unter 2.5 verfehlt."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-20-dar-hdh",
+          "liga": "2. Bundesliga 2026/27 - 12. Spieltag",
+          "heim": "SV Darmstadt 98",
+          "gast": "1. FC Heidenheim",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Darmstadt oder Remis (1X)",
+              "quote": 1.5,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.5,
+              "kommentar": "Darmstadt gewinnt 3:1 - DC 1X trifft."
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "4 Tore (3:1) - Unter 2.5 verfehlt."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-20-bie-mag",
+          "liga": "2. Bundesliga 2026/27 - 12. Spieltag",
+          "heim": "DSC Arminia Bielefeld",
+          "gast": "1. FC Magdeburg",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg Arminia Bielefeld (90 Min)",
+              "quote": 2.1,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Magdeburg gewinnt 2:1 auswaerts - Bielefeld-Sieg verfehlt."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi",
+          "kategorie": "safe",
+          "gesamtquote": 3.09,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Bayern (90 Min)",
+              "quote": 1.25,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Athletic Bilbao",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Darmstadt oder Remis (Doppelte Chance 1X)",
+              "quote": 1.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi",
+          "kategorie": "balance",
+          "gesamtquote": 5.86,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Kane Torschuetze jederzeit",
+              "quote": 1.55,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Arminia Bielefeld",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.8,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi",
+          "kategorie": "risk",
+          "gesamtquote": 27.72,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Lennart Karl Torschuetze jederzeit",
+              "quote": 3.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.95,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen NEIN",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi",
+          "kategorie": "moonshot",
+          "gesamtquote": 24.43,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Harry Kane 2+ Tore",
+              "quote": 3.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen NEIN",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-11-15",
       "gesamt": {

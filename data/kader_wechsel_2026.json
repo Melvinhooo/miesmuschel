@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-15",
+  "stand": "2026-11-21",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -945,6 +945,15 @@
       "hinweis": "Italienischer Mittelstuermer, bei Grenoble als einziger echter 'avant-centre de metier' im Kader 2026/27 angelegt. Rotations-Risiko realisiert im Coupe de France 12.11.2026 vs Chambery: startete auf der Bank, kam als Teil der Doppel-Einwechslung mit Djitte in der 75. Min rein, blieb torlos. Fuer kuenftige L2-Dossiers Volume-9er-Option; fuer Pokal-Dossiers gegen klar schwaechere Gegner Rotations-Vorsicht (Bonnet startet dann vorne).",
       "quelle": "https://fr.wikipedia.org/wiki/Saison_2026-2027_du_Grenoble_Foot_38",
       "stand": "2026-11-13"
+    },
+    {
+      "spieler": "Mikey Moore",
+      "von": "Tottenham Hotspur",
+      "nach": "1. FC Koeln",
+      "datum": "2026-09",
+      "typ": "Saisonleihe (keine Kaufoption)",
+      "hinweis": "Aufgefallen bei Auswertung 20.11.2026: Moore traf in der 12. Min zum 0:1 beim Bayern-1:1 (Allianz Arena). Junger Fluegelstuermer (geboren 2007), kann als Koeln-Backup-Torschuetze auftauchen. Routine darf ihn jetzt als Koeln-Option fuehren, nicht mehr als Tottenham.",
+      "quelle": "https://www.bundesliga.com/de/bundesliga/news/1-fc-koln-neuzugang-leihe-mikey-moore-tottenham-rangers-portrat-38988"
     }
   ],
   "trainer_2026_27": [

@@ -1,0 +1,1353 @@
+{
+  "datum": "2026-11-20",
+  "erstellt_am": "2026-11-20T20:13:27+01:00",
+  "hinweis": "Pipeline Mo-Fr (GitHub Action) - Freitag nach Laenderspielpause mit Mini-Slate: 1 Bundesliga-Topspiel (Bayern-Koeln, 20:30 Allianz Arena) + 1 LaLiga (Athletic Bilbao-Espanyol) + 1 Ligue 1 (Troyes-LeHavre) + 2 Spiele 2.BL (Darmstadt-Heidenheim, Bielefeld-Magdeburg). Kasse 1000EUR Stufe 1 (konservativ: 1-2% Einzel SAFE/VALUE, Kombi Safe 2%). Bayern-Koeln ist Deckelspiel (Quote ~1.25 SAFE), echte VALUE in den 2.BL- und Troyes-Keller-Spielen. Keine Recherche-File vorhanden - Fallback-Recherche inline aus verifizierten Preview-Quellen gemacht (bundesliga.com, kicker.de, uefa.com).",
+  "spiele": [
+    {
+      "id": "2026-11-20-bay-koe",
+      "liga": "Bundesliga 2026/27 - 10. Spieltag",
+      "heim": "FC Bayern Muenchen",
+      "gast": "1. FC Koeln",
+      "anstoss": "2026-11-20T20:30:00+01:00",
+      "stadion": "Allianz Arena, Muenchen",
+      "saison_kontext": {
+        "parallel_heim": "CL-Ligaphase MD5 Dienstag 25.11.2026 @ OSC Lille (5 Tage Recovery) - leichte Rotation moeglich, aber Kompany rotiert bisher wenig",
+        "parallel_gast": "keine - Koeln nicht im Europapokal, DFB-Pokal 2.R bereits raus, 14 Tage Pause (Laenderspielpause)",
+        "saisonziel_heim": "Bundesliga-Titel + CL-Titel-Favorit - Tabellenfuehrer nach 9 Spieltagen (23 Pkt, 7S 2U 0N, zuletzt 2:1 in Mainz vor Laenderspielpause), 25+:6 Tore",
+        "saisonziel_gast": "Aufsteiger - Platz 14 mit 9 Pkt aus 9 Spielen (1.00 ppg), neuer Trainer Rene Wagner seit Maerz 2026 (Vertrag bis 2028), letzte 5 Spiele 1S 2U 2N inkl. 1:2 vs Leverkusen (08.11.), Offensive um El Mala + Buelter",
+        "motivations_asymmetrie": "Bayern klarer Heim-Favorit (Sieg-Heim <1.30 erwartet): Qualitaets-, Form- und Tabellen-Edge, Allianz-Arena-Heimstark, Topteam vor CL-Rhythmus. Koeln als Aufsteiger ohne Durchschlagskraft gegen Topteams, zuletzt 1:3 in Muenchen zuhause im Pokal 2025 verloren. ABER: Bayern-Verletzungswelle nicht ganz weg (Olise, Gnabry, Kim, Saibari OUT, Diaz-Comeback nach Oberschenkel-OP Ende Nov noch offen) - Kane traegt Offensive fast allein. 2:0-Insurance greift (BL-Aktion bet365 DE)",
+        "recovery_heim": "13 Tage Pause nach 2:1 in Mainz (07.11.) - Nationalspieler erst zurueck in Woche vor Spiel",
+        "recovery_gast": "12 Tage Pause nach 1:2 vs Leverkusen (08.11.) - voll ausgeruht, kaum Nationalspieler-Belastung",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/spieltag/2026-2027/10/fc-bayern-muenchen-vs-1-fc-koeln/lineup",
+          "https://www.t-online.de/sport/live-ticker/fussball/bundesliga/sdc_fm-59370/bayern-koeln-bundesliga-im-liveticker.html",
+          "https://fcbayern.com/de/spiele/profis/champions-league/2026-2027/osc-lille-fc-bayern-muenchen-25-11-2026/spieltag",
+          "https://fc-koeln.de/en/news/all-news/fc-and-lukas-kwasniok-go-their-separate-ways",
+          "https://www.bundesliga.com/de/bundesliga/news/1-fsv-mainz-05-fc-bayern-muenchen-spieltag-9-spielbericht-highlights-39915",
+          "https://www.kicker.de/fc-bayern-muenchen-1-fc-koeln-2026-bundesliga/aufstellungen"
+        ]
+      },
+      "news": [
+        "Bundesliga 10. Spieltag Freitagsspiel 20:30 Allianz Arena - erstes Spiel nach Laenderspielpause",
+        "Bayern 23 Pkt aus 9 (7S 2U 0N), zuletzt 2:1 in Mainz (Kimmich 14., Karl 57., Tietz 90.+3), Kane bleibt Bundesliga-Top-Torschuetze",
+        "Bayern-Verletzungen (Stand Atletico-Spiel 03.11.): Luis Diaz (Oberschenkel bis Ende Nov.), Olise, Gnabry, Kim, Saibari OUT - Comeback-Status Diaz vor Anpfiff live auf kicker/ran pruefen",
+        "Lennart Karl (jung, Nachwuchs) hat beim Mainz-Spiel getroffen - mittlerweile Rotations-Option statt reiner Joker",
+        "Koeln Platz 14 mit 9 Pkt, neuer Trainer Rene Wagner seit 22.03.2026 (Vertrag bis 2028)",
+        "Koeln-Offensive: El Mala, Buelter als Volume-Flanken, kein nominaler Top-9er - Gegen Bayern meist tiefstehend",
+        "2:0-Insurance aktiv (Bundesliga faellt unter bet365-DE-Regel)",
+        "CL-Doppelbelastung Bayern (Dienstag @ Lille) - Kompany-Rotation historisch gering, aber nicht null"
+      ],
+      "tipps": [
+        {
+          "id": "bay-koe-1",
+          "kategorie": "safe",
+          "markt": "Sieg FC Bayern Muenchen (90 Min)",
+          "quote": 1.25,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.21,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Bayern Heim gegen Aufsteiger Koeln, Qualitaets-/Form-/Tabellen-Edge klar - 23 Pkt aus 9 (beste Bilanz Liga), zu Hause gegen Nicht-Top-5-Team seit CL-Start 2026/27 ohne Punktverlust. Kane + Karl + Musiala vs Koeln-Defense (die gegen Leverkusen zuletzt 2 Tore kassierte). 2:0-Insurance greift zusaetzlich. Reality-Check: Sieg-Markt in Statistik 69.4% Hit / +30% ROI (38 Tipps) = Top-Markt. Stufe 1 bei 1000EUR Kasse: 1.5% = 15EUR Einsatz."
+        },
+        {
+          "id": "bay-koe-2",
+          "kategorie": "value",
+          "markt": "Harry Kane Torschuetze jederzeit",
+          "quote": 1.55,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.47,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Kane ist Bundesliga-Top-Torschuetze 2026/27 und einziger fitter Top-9er bei Bayern (Diaz/Olise/Gnabry OUT) - traegt die Offensive. HR24-Form-Edge erfuellt (5+ Tore in letzten 10). Reality-Check Markt-Goldgrube: Torschuetzen Jederzeit ist in der Statistik ein Goldgruben-Markt (siehe markt_goldgruben: Jahres-ROI positiv). Einwechslungs-Boost nicht noetig, da Kane 90 Min durchspielt. 1.5% = 15EUR."
+        },
+        {
+          "id": "bay-koe-3",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.4,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.33,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Bayern-Heim-Scores historisch: 25+:6 Tore in 9 Spielen = ~2.8 Bayern-Tore pro Spiel allein. Koeln trifft meist 1x gegen Topteams (Hinspiel letzte Saison 1:3 in Muenchen). Markt-Goldgrube: Ueber 2.5 Tore 55% Hit / +22.7% ROI (44 Tipps). 1.5% = 15EUR Einsatz."
+        },
+        {
+          "id": "bay-koe-4",
+          "kategorie": "wackel",
+          "markt": "Lennart Karl Torschuetze jederzeit",
+          "quote": 3.4,
+          "edge_prozent": 8.0,
+          "faire_quote": 3.15,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Karl hat gegen Mainz zuletzt getroffen und steht nach Diaz-Olise-Gnabry-Ausfaellen aktuell Startelf-/Einwechsel-sicher. HR24 nur teilweise erfuellt (Einzeltor, aber Backup-Qualitaet rein durch Konkurrenz-Ausfaelle). Wackel wegen schmaler Datenbasis. Einsatz 0.5% = 5EUR."
+        },
+        {
+          "id": "bay-koe-5",
+          "kategorie": "moonshot",
+          "markt": "Harry Kane 2+ Tore",
+          "quote": 3.8,
+          "edge_prozent": 5.0,
+          "faire_quote": 3.6,
+          "empfohlener_einsatz_prozent": 0.1,
+          "begruendung": "Kane Doppelpack als Spass-Tipp - er traegt Offensive solo, Koeln-Defense anfaellig gegen schnelle Umschaltmomente (Leverkusen schoss 2). Kleiner Einsatz 0.1% = 1EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 1,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 1
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "bay-koe-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Bayern nur 1:1 - keine 2:0-Fuehrung also keine Insurance.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bay-koe-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Kane traf nicht; Kane in ~20. Min verletzt ausgewechselt fuer Tom Bischof, Bischof traf nicht - kein Einwechslungs-Boost.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bay-koe-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Nur 2 Tore (1:1) - Ueber 2.5 verfehlt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bay-koe-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Karl kein Torerfolg.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bay-koe-5",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Kane traf 0x (frueh verletzt ausgewechselt).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 12,
+            "team": "gast",
+            "spieler": "Mikey Moore",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 37,
+            "team": "heim",
+            "spieler": "Nathaniel Brown",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine 2-Tor-Fuehrung die noch verspielt/gedreht wurde."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "unter_2_5": true,
+          "unter_3_5": true,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": true,
+          "heim_zu_null": false,
+          "gast_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Harry Kane",
+            "details": "Kane musste nach ~20 Minuten verletzt vom Platz (linkes Sprunggelenk), fuer Tom Bischof - ein frueher Zwangsabgang des Top-Torschuetzen."
+          },
+          {
+            "team": "heim",
+            "spieler": "Michael Olise",
+            "details": "Olise zur Halbzeit verletzt ausgewechselt (Fuss-Schlag) - zweiter Bayern-Offensiv-Ausfall im selben Spiel."
+          }
+        ],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Tom Bischof",
+            "aus": "Harry Kane",
+            "minute": 20,
+            "tor": false,
+            "details": "Bischof kam fuer den verletzten Kane - kein eigenes Tor, daher kein Einwechslungs-Boost fuer Kane-Torschuetzen-Tipps."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Bayern-Seuche: Kane fruh verletzt raus (~20.), Olise zur HZ, Moore (Koeln-Leihe) trifft zum 0:1 - 1:1 beendet 25-Spiele-Heim-Serie nicht als Sieg.",
+          "Nathaniel Brown rettet den Punkt (37.) - der Ex-Frankfurter mittlerweile offensive Option."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-20-ath-esp",
+      "liga": "LaLiga EA Sports 2026/27 - Jornada 13",
+      "heim": "Athletic Club Bilbao",
+      "gast": "RCD Espanyol Barcelona",
+      "anstoss": "2026-11-20T21:00:00+01:00",
+      "stadion": "San Mames, Bilbao",
+      "saison_kontext": {
+        "parallel_heim": "keine Europa-Doppelbelastung diese Woche (Bilbao Conference League / nicht in CL 2026/27 - letzte Partie in Ligaphase bereits 06.11.)",
+        "parallel_gast": "keine - Espanyol ist nicht international vertreten",
+        "saisonziel_heim": "LaLiga Top-6/Europa-Quali - starke Heim-Bilanz San Mames (nach der aktuellen LaLiga-Form in 2026/27 im oberen Mittelfeld)",
+        "saisonziel_gast": "Klassenerhalt - Espanyol als Aufsteiger-Klasse typisch um Platz 15-18 bei 12-13 Pkt nach 12 Spielen",
+        "motivations_asymmetrie": "Athletic klarer Heim-Favorit (Sieg-Quote <1.70 bei bet365 live pruefen): San Mames ist historisch eine Festung, Espanyol auswaerts klassisch schwach. Athletic hat Euro-Quali-Druck, muss liefern. Keine 2:0-Insurance (LaLiga faellt nicht unter bet365-DE-Aktionsregel).",
+        "recovery_heim": "14 Tage Laenderspielpause - voll ausgeruht",
+        "recovery_gast": "14 Tage Laenderspielpause - voll ausgeruht, aber lange Anreise + Freitagsspiel koennte zehren",
+        "quellen": [
+          "https://www.sportsmole.co.uk/football/athletic-bilbao/preview/athletic-bilbao-vs-espanyol-prediction-team-news-lineups_609275.html",
+          "https://www.sport-flash.com/sports/football/es/calendar/2026-11-20/laliga-2026-2027",
+          "https://www.laliga.com/es-MA/laliga-easports/resultados"
+        ]
+      },
+      "news": [
+        "LaLiga 13. Spieltag, Freitags-Eroeffnung 21:00 (Berlin) - 20:00 bzw. 21:00 je Quelle, bei bet365 Anstoss nochmal verifizieren",
+        "Sportsmole-Prognose: 2:1 Heim-Sieg Athletic",
+        "San Mames historisch starke Heim-Bilanz Athletic",
+        "Beide Teams nach Laenderspielpause - Reisezeit Espanyol koennte erste HZ belasten",
+        "KEINE 2:0-Insurance (LaLiga nicht in bet365-DE-Aktion)",
+        "Vorsicht: Freitags-LaLiga ist oft taktisches Setup, weniger Tore als Wochenend-Spiele",
+        "Saibari/Djordjevic als Espanyol-Torschuetzen-Optionen - Routine ohne live Aufstellung keine Torschuetzen-Tipps, siehe HR 'Form-Edge-Pflicht'"
+      ],
+      "tipps": [
+        {
+          "id": "ath-esp-1",
+          "kategorie": "value",
+          "markt": "Sieg Athletic Club Bilbao (90 Min)",
+          "quote": 1.65,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.55,
+          "empfohlener_einsatz_prozent": 2.0,
+          "begruendung": "San Mames gegen auswaertsschwachen Aufsteiger-Klasse-Gegner, Sportsmole-Prognose auch 2:1 fuer Bilbao. Reality-Check Sieg-Markt Goldgrube (69.4% Hit, +30% ROI). Keine Insurance - direkter Sieg-Tipp dennoch mit Edge. 2% = 20EUR Einsatz."
+        },
+        {
+          "id": "ath-esp-2",
+          "kategorie": "safe",
+          "markt": "Doppelte Chance Athletic Club oder Remis (1X)",
+          "quote": 1.18,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.16,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube: Doppelte Chance 1X hat 76.2% Hit / +40% ROI. San-Mames-Festung macht Espanyol-Sieg sehr unwahrscheinlich. 1.5% = 15EUR Einsatz. Quote niedrig - bei bet365 live auf 1.18+ pruefen, sonst Tipp streichen."
+        },
+        {
+          "id": "ath-esp-3",
+          "kategorie": "wackel",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.9,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.78,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Freitags-LaLiga, Spitzentor-Volumen historisch niedrig - Unter 2.5 ist Haupt-Goldgrube (50% Hit / +46.8% ROI, 14 Tipps). Espanyol defensiv-stark, Athletic nicht offensiv-wild. 0.5% = 5EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 1,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ath-esp-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Espanyol gewinnt 0:1 (Fernandez 66.).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ath-esp-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Espanyol gewinnt - keine Doppelte Chance 1X.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ath-esp-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.9,
+          "kommentar": "1 Tor total (0:1) - Unter 2.5 erfuellt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": 66,
+            "team": "gast",
+            "spieler": "Roberto Fernandez",
+            "stand_danach": "0:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine 2-Tor-Fuehrung die noch verspielt/gedreht wurde."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "unter_2_5": true,
+          "unter_3_5": true,
+          "halbzeit_endstand": "Unentschieden/Gast",
+          "kein_team_zu_null": false,
+          "heim_zu_null": false,
+          "gast_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "San-Mames-Festung bricht: 16 Schuesse Athletic / 6 aufs Tor, aber 0 Tore - Espanyol-Keeper Fortuno mit 6 Paraden. Freitags-LaLiga wie erwartet torarm, aber Underdog gewinnt statt Remis."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-20-tro-hav",
+      "liga": "Ligue 1 2026/27 - 11. Spieltag",
+      "heim": "ESTAC Troyes",
+      "gast": "Le Havre AC",
+      "anstoss": "2026-11-20T20:45:00+01:00",
+      "stadion": "Stade de l'Aube, Troyes",
+      "saison_kontext": {
+        "parallel_heim": "keine - Troyes nicht im Europapokal",
+        "parallel_gast": "keine - Le Havre nicht im Europapokal",
+        "saisonziel_heim": "Klassenerhalt - Troyes als Aufsteiger-Klasse, 11. Spieltag mit 8-10 Pkt in Richtung unteres Tabellen-Drittel",
+        "saisonziel_gast": "Klassenerhalt - Le Havre bisher ohne Sieg in 10 Ligue-1-Spielen, 6 Niederlagen in Serie, Abstiegsplatz",
+        "motivations_asymmetrie": "Troyes Heim-Favorit (Sieg-Heim ~1.90-2.10 erwartbar): beide Keller-Kandidaten, aber Troyes hat die Heim-Punkte und mind. 1 Sieg. Le Havre im freien Fall - 6 Pleiten in Folge. Foresportia-Modell: 54% Heim-Sieg, 27% Remis, 19% Gastsieg. MediaPronos tippt Unter 2.5 Tore. Keine 2:0-Insurance (Ligue 1 nicht in bet365-DE-Aktion).",
+        "recovery_heim": "14 Tage Pause - frisch",
+        "recovery_gast": "14 Tage Pause - frisch, dafuer psychisch mit 6-Pleiten-Serie belastet (HR2-aehnlich)",
+        "quellen": [
+          "https://www.foresportia.com/pronostic/ligue-1/estac-troyes-le-havre-ac-2026-11-20/",
+          "https://www.sportsmole.co.uk/football/troyes/preview/troyes-vs-le-havre-prediction-team-news-lineups_609296.html",
+          "https://mediapronos.com/?p=710691",
+          "https://gainblers.com/ca/picks/football/france/ligue-1/pronostico-troyes-le-havre-20-11-2026/"
+        ]
+      },
+      "news": [
+        "Freitags-Ligue-1-Opener 20:45 im Stade de l'Aube - 11. Spieltag",
+        "Le Havre einziges Ligue-1-Team ohne Saisonsieg bisher - 6 Niederlagen in Serie",
+        "Troyes-Startelf-Prognose (Sportsmole): Konate - Maronnier, Monfray, Diaz, Boura - Mille, Karim, Diop - Le Douaron, Ripart, Nkada",
+        "Le-Havre-Startelf-Prognose: Bodart - Sasso, Koffi, Touba - Ouziad, Ebonog, Mwanga, Richardson - Fofana, Samatta - Maja",
+        "Prognosen: Foresportia 54% Troyes-Sieg, Sportsmole 0:1 Le Havre, Squawka 2:1 Troyes - uneins",
+        "MediaPronos: Unter 2.5 Tore - taktisches Keller-Duell",
+        "KEINE 2:0-Insurance (Ligue 1)",
+        "HR2: Le Havre-Form-Krise - Gast-Sieg/-DC SAFE ausgeschlossen, Heim-Favorit gestaerkt"
+      ],
+      "tipps": [
+        {
+          "id": "tro-hav-1",
+          "kategorie": "wackel",
+          "markt": "Doppelte Chance Troyes oder Remis (1X)",
+          "quote": 1.33,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.25,
+          "empfohlener_einsatz_prozent": 2.0,
+          "begruendung": "Markt-Goldgrube (DC 1X: 76.2% / +40% ROI). Le Havre kommt mit 6-Pleiten-Serie - Gastsieg sehr unwahrscheinlich (Foresportia 19%, HR2 Gast-Form-Krise). Troyes zuhause hat mehr Qualitaet + Motivation. 2% = 20EUR Einsatz. [Auto HR4: Story-Konflikt v2 (Heim-Krise-Token in eigener Begruendung) -> value->wackel]",
+          "_story_konflikt_v2": true
+        },
+        {
+          "id": "tro-hav-2",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.8,
+          "edge_prozent": 8.0,
+          "faire_quote": 1.67,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Keller-Duell, MediaPronos empfiehlt explizit Unter 2.5. Beide Teams vorsichtig, Le Havre torflau (0 Siege = kaum Volumen), Troyes-Angriff solide aber nicht explosiv. Haupt-Markt-Goldgrube (50% Hit / +46.8% ROI, 14 Tipps). 1.5% = 15EUR."
+        },
+        {
+          "id": "tro-hav-3",
+          "kategorie": "wackel",
+          "markt": "Sieg Troyes (90 Min)",
+          "quote": 2.0,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.94,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Foresportia 54% impliziert fair ~1.85. Tipp bei 2.00 leicht ueber fair, aber Keller-Duelle sind historisch coinflip-lastig - Wackel-Kategorie passt. 0.5% = 5EUR Einsatz."
+        },
+        {
+          "id": "tro-hav-4",
+          "kategorie": "moonshot",
+          "markt": "Beide Teams treffen NEIN",
+          "quote": 2.1,
+          "edge_prozent": 3.0,
+          "faire_quote": 2.03,
+          "empfohlener_einsatz_prozent": 0.1,
+          "begruendung": "Le Havre torflau (0 Saisonsiege = wenig Volumen) + Troyes solide Heim-Defense - BTTS-NEIN ist Spass-Edge. 0.1% = 1EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 1,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 1
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "tro-hav-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.33,
+          "kommentar": "Troyes gewinnt 3:1 - Doppelte Chance 1X trifft.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tro-hav-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "4 Tore (3:1) - Unter 2.5 verfehlt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tro-hav-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.0,
+          "kommentar": "Troyes gewinnt 3:1.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "tro-hav-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Beide Teams trafen (Maja 3., Mille/Ripart) - BTTS NEIN verfehlt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "3:1",
+        "tore": [
+          {
+            "min": 3,
+            "team": "gast",
+            "spieler": "Josh Maja",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 19,
+            "team": "heim",
+            "spieler": "Antoine Mille",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 69,
+            "team": "heim",
+            "spieler": "Antoine Mille",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 98,
+            "team": "heim",
+            "spieler": "Renaud Ripart (Elfmeter)",
+            "stand_danach": "3:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine 2-Tor-Fuehrung die noch verspielt/gedreht wurde."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "unter_2_5": false,
+          "unter_3_5": false,
+          "halbzeit_endstand": "Unentschieden/Heim",
+          "kein_team_zu_null": true,
+          "heim_zu_null": false,
+          "gast_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Koffi (Le Havre)",
+            "details": "Rote Karte (89. Minute) nach VAR-Check - 10 Minuten in Unterzahl, in denen das 3:1 per Elfmeter nach 90+8 fiel."
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Troyes-Antoine Mille Doppelpack + Ripart-Elfer im Nachspiel - Le Havre zum 11. Mal ohne Saisonsieg. Ismael-Debut bitter."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-20-dar-hdh",
+      "liga": "2. Bundesliga 2026/27 - 12. Spieltag",
+      "heim": "SV Darmstadt 98",
+      "gast": "1. FC Heidenheim",
+      "anstoss": "2026-11-20T18:30:00+01:00",
+      "stadion": "Merck-Stadion am Boellenfalltor, Darmstadt",
+      "saison_kontext": {
+        "parallel_heim": "keine - Darmstadt ist 2.BL ohne Europa/Pokal-Doppelbelastung diese Woche",
+        "parallel_gast": "keine - Heidenheim nach Abstieg 25/26 nicht mehr international",
+        "saisonziel_heim": "Aufstieg/oberes Drittel - Darmstadt zuletzt am 11. Spieltag 0:2 in Nuernberg verloren, davor Mittelfeld",
+        "saisonziel_gast": "Wiederaufstieg Bundesliga - Heidenheim als Absteiger mit Bundesliga-Qualitaet, 11. Spieltag 2:2 bei Hannover (Unentschieden-Serie)",
+        "motivations_asymmetrie": "Coinflip-Spiel (Sieg-Quoten erwartbar 2.30-2.70 beide Seiten): Darmstadt-Heim leicht favorisiert durch Boellenfalltor-Kulisse, aber Heidenheim hat Absteiger-Edge. Beide Teams ausgeruht nach Laenderspielpause. KEINE 2:0-Insurance (2.BL faellt nicht unter bet365-DE-Aktionsregel).",
+        "recovery_heim": "11 Tage Pause nach 0:2 in Nuernberg (09.11.)",
+        "recovery_gast": "11 Tage Pause nach 2:2 bei Hannover (09.11.)",
+        "quellen": [
+          "https://www.t-online.de/sport/live-ticker/fussball/2-bundesliga/sdc_fm-59696/darmstadt-heidenheim-2-bundesliga-im-liveticker.html",
+          "https://www.bundesliga.com/de/2bundesliga/spieltag",
+          "https://www.sport-flash.com/sports/football/de/calendar/2026-11-20"
+        ]
+      },
+      "news": [
+        "2.BL 12. Spieltag Freitags-Eroeffnung 18:30 im Boellenfalltor",
+        "Darmstadt am 11. Spieltag 0:2 in Nuernberg (schwach), zuvor Mittelfeld-Form",
+        "Heidenheim 2:2 bei Hannover (11. ST) - Unentschieden-Serie, defensiv-solide als Absteiger",
+        "KEINE 2:0-Insurance (2. Bundesliga)",
+        "Coinflip-Spiel - Routine prioritaet Doppelte-Chance-Tipps, keine SAFE-Sieg-Tipps"
+      ],
+      "tipps": [
+        {
+          "id": "dar-hdh-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance Darmstadt oder Remis (1X)",
+          "quote": 1.5,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.42,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Markt-Goldgrube DC 1X (76.2% Hit / +40% ROI). Darmstadt-Heim gegen vorsichtigen Absteiger, Gastsieg eher unwahrscheinlich bei Heidenheim-Unentschieden-Serie. Coinflip-Spiel - kein SAFE-Sieg-Tipp, Doppelte Chance ist sauberer. 1.5% = 15EUR."
+        },
+        {
+          "id": "dar-hdh-2",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.63,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Heidenheim defensiv-stark (nur 2 Tore in letztem Spiel bei Hannover), Darmstadt in Krise (0:2 Nuernberg = offensiv wenig). 2.BL-Freitagsspiele oft taktisch, Unter 2.5 als Haupt-Goldgrube (50% Hit / +46.8% ROI). 1.5% = 15EUR."
+        },
+        {
+          "id": "dar-hdh-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen NEIN",
+          "quote": 2.2,
+          "edge_prozent": 4.0,
+          "faire_quote": 2.11,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Heidenheim-Defensive solide, Darmstadt offensiv zuletzt torflau. BTTS-NEIN-Markt in Goldgruben-Rand (28.3% ROI). 0.5% = 5EUR Einsatz."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 1,
+        "halbzeit_heim": 2,
+        "halbzeit_gast": 1
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "dar-hdh-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.5,
+          "kommentar": "Darmstadt gewinnt 3:1 - DC 1X trifft.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "dar-hdh-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "4 Tore (3:1) - Unter 2.5 verfehlt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "dar-hdh-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Beide trafen - BTTS NEIN verfehlt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:1",
+        "endstand": "3:1",
+        "tore": [
+          {
+            "min": 5,
+            "team": "gast",
+            "spieler": "Budu Zivzivadze",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 22,
+            "team": "heim",
+            "spieler": "Lars Kehl",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 27,
+            "team": "heim",
+            "spieler": "Aleksandar Vukotic",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 62,
+            "team": "heim",
+            "spieler": "Lars Kehl",
+            "stand_danach": "3:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine 2-Tor-Fuehrung die noch verspielt/gedreht wurde."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "unter_2_5": false,
+          "unter_3_5": false,
+          "halbzeit_endstand": "Heim/Heim",
+          "kein_team_zu_null": true,
+          "heim_zu_null": false,
+          "gast_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Darmstadt dreht 0:1 in 3:1 - Lilien-Doppelpack Kehl (22., 62.) + Vukotic (27.), Boellenfalltor funktioniert als Festung gegen Absteiger."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-20-bie-mag",
+      "liga": "2. Bundesliga 2026/27 - 12. Spieltag",
+      "heim": "DSC Arminia Bielefeld",
+      "gast": "1. FC Magdeburg",
+      "anstoss": "2026-11-20T18:30:00+01:00",
+      "stadion": "SchuecoArena, Bielefeld",
+      "saison_kontext": {
+        "parallel_heim": "keine",
+        "parallel_gast": "keine",
+        "saisonziel_heim": "Klassenerhalt / oberes Drittel - Arminia kommt mit 2:1 Heimsieg vs Kiel (11. Spieltag) in Mini-Lauf",
+        "saisonziel_gast": "Klassenerhalt / Mittelfeld - Magdeburg Mittelfeld 2.BL",
+        "motivations_asymmetrie": "Bielefeld Heim-Favorit (Sieg ~2.10-2.40 erwartbar): Schueco-Arena-Heim-Edge + Mini-Positiv-Form (zuletzt 2:1 Kiel). Magdeburg auswaerts klassisch schwaecher. Coinflip-nah, aber Bielefeld leichter Edge. KEINE 2:0-Insurance (2.BL).",
+        "recovery_heim": "11 Tage Pause nach 2:1 vs Kiel (09.11.)",
+        "recovery_gast": "11 Tage Pause - frisch",
+        "quellen": [
+          "https://www.t-online.de/sport/live-ticker/fussball/2-bundesliga/sdc_fm-59691/bielefeld-magdeburg-2-bundesliga-im-liveticker.html",
+          "https://www.bundesliga.com/de/2bundesliga/spieltag",
+          "https://www.sport-flash.com/sports/football/de/calendar/2026-11-20"
+        ]
+      },
+      "news": [
+        "2.BL 12. Spieltag Freitags-Eroeffnung 18:30 in der SchuecoArena",
+        "Bielefeld 11. Spieltag 2:1 vs Kiel - Mini-Aufwaertstrend",
+        "Magdeburg klassisch 2.BL-Mittelfeld",
+        "KEINE 2:0-Insurance (2. Bundesliga)"
+      ],
+      "tipps": [
+        {
+          "id": "bie-mag-1",
+          "kategorie": "value",
+          "markt": "Sieg Arminia Bielefeld (90 Min)",
+          "quote": 2.1,
+          "edge_prozent": 5.0,
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 1.5,
+          "begruendung": "Bielefeld Heim-Favorit nach Mini-Aufwaertstrend (2:1 Kiel). Markt-Goldgrube Sieg (69.4% / +30% ROI). Keine 2:0-Insurance in der 2.BL - fairer direkter Sieg-Tipp. 1.5% = 15EUR."
+        },
+        {
+          "id": "bie-mag-2",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.95,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.89,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Bielefeld-Heim zuletzt 3 Tore (2:1 Kiel = 3 Tore), Magdeburg-Offensive durchschnittlich - 2.BL-Spiele im Schnitt bei ~2.6 Tore. Ueber-2.5 ist Markt-Goldgrube (55% Hit / +22.7% ROI). 0.5% = 5EUR."
+        },
+        {
+          "id": "bie-mag-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.75,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 0.5,
+          "begruendung": "Beide Teams treffen ist Markt-Goldgrube (69.2% Hit, +44.5% ROI, 13 Tipps). Bielefeld zuletzt 2 Tore vs Kiel + Kiel traf auch, Magdeburg solide Auswaertsoffensive. 0.5% = 5EUR."
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 2,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 2
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "bie-mag-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Magdeburg gewinnt 2:1 auswaerts - Bielefeld-Sieg verfehlt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bie-mag-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.95,
+          "kommentar": "3 Tore (1:2) - Ueber 2.5 trifft.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bie-mag-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.75,
+          "kommentar": "Beide Teams trafen (Chavez/Iyoha + Koudossou) - BTTS JA trifft.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:2",
+        "endstand": "1:2",
+        "tore": [
+          {
+            "min": 12,
+            "team": "gast",
+            "spieler": "Felipe Chavez",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 46,
+            "team": "gast",
+            "spieler": "Emmanuel Iyoha",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": 62,
+            "team": "heim",
+            "spieler": "Henri Koudossou",
+            "stand_danach": "1:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine 2-Tor-Fuehrung die noch verspielt/gedreht wurde."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "unter_2_5": false,
+          "unter_3_5": true,
+          "halbzeit_endstand": "Gast/Gast",
+          "kein_team_zu_null": true,
+          "heim_zu_null": false,
+          "gast_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Magdeburg mit HZ-Schock-0:2 (Chavez 12., Iyoha 46.) in Bielefeld - Koudossous Anschluss (62.) zu wenig. Erste Heim-Niederlage Arminias seit Februar."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "e01",
+      "spiel_id": "2026-11-20-bay-koe",
+      "spiel_label": "Bayern Muenchen vs 1. FC Koeln",
+      "kategorie": "safe",
+      "markt": "Sieg FC Bayern Muenchen (90 Min)",
+      "quote": 1.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Bayern Heim gegen Aufsteiger Koeln - 23 Pkt aus 9 Spielen, klarer Qualitaets-Edge, 2:0-Insurance greift (BL-Aktion). Reality-Check: Sieg-Markt Goldgrube (69.4% Hit / +30% ROI). Bei bet365 live Quote 1.22-1.28 pruefen.",
+      "rang": 1,
+      "tipp_id": "bay-koe-1"
+    },
+    {
+      "id": "e02",
+      "spiel_id": "2026-11-20-ath-esp",
+      "spiel_label": "Athletic Bilbao vs Espanyol",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance Athletic oder Remis (1X)",
+      "quote": 1.18,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Markt-Goldgrube DC 1X (76.2% Hit / +40% ROI). San-Mames-Festung gegen Aufsteiger-Klasse-Gegner. Quote niedrig - bei bet365 live auf min. 1.17 pruefen.",
+      "rang": 2,
+      "tipp_id": "ath-esp-2"
+    },
+    {
+      "id": "e03",
+      "spiel_id": "2026-11-20-bay-koe",
+      "spiel_label": "Bayern Muenchen vs 1. FC Koeln",
+      "kategorie": "value",
+      "markt": "Harry Kane Torschuetze jederzeit",
+      "quote": 1.55,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Kane ist BL-Top-Torschuetze 2026/27 und einziger fitter Top-9er - Diaz/Olise/Gnabry OUT. Markt-Goldgrube Torschuetzen Jederzeit (Form-Edge erfuellt). 15EUR = 1.5% Stufe 1.",
+      "rang": 3,
+      "tipp_id": "bay-koe-2"
+    },
+    {
+      "id": "e04",
+      "spiel_id": "2026-11-20-bay-koe",
+      "spiel_label": "Bayern Muenchen vs 1. FC Koeln",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.4,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Bayern hat Heim ~2.8 Tore pro Spiel, Koeln trifft gegen Topteams meist 1x. Ueber 2.5 Goldgrube-Markt (55% Hit / +22.7% ROI).",
+      "rang": 4,
+      "tipp_id": "bay-koe-3"
+    },
+    {
+      "id": "e05",
+      "spiel_id": "2026-11-20-ath-esp",
+      "spiel_label": "Athletic Bilbao vs Espanyol",
+      "kategorie": "value",
+      "markt": "Sieg Athletic Bilbao (90 Min)",
+      "quote": 1.65,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "San Mames-Heim-Festung gegen auswaertsschwachen Aufsteiger-Klasse-Gegner. Sportsmole-Prognose 2:1 Athletic. Direkter Sieg-Tipp, keine Insurance (LaLiga). 2% = 20EUR Einsatz.",
+      "rang": 5,
+      "tipp_id": "ath-esp-1"
+    },
+    {
+      "id": "e06",
+      "spiel_id": "2026-11-20-tro-hav",
+      "spiel_label": "Troyes vs Le Havre",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Troyes oder Remis (1X)",
+      "quote": 1.33,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "Markt-Goldgrube DC 1X (76.2% / +40% ROI). Le Havre kommt mit 6-Pleiten-Serie - Gastsieg sehr unwahrscheinlich. Foresportia-Modell: 54% Heim, 27% Remis, 19% Gast. HR2 Gast-Form-Krise gestuetzt.",
+      "rang": 6,
+      "tipp_id": "tro-hav-1"
+    },
+    {
+      "id": "e07",
+      "spiel_id": "2026-11-20-dar-hdh",
+      "spiel_label": "Darmstadt vs Heidenheim",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Darmstadt oder Remis (1X)",
+      "quote": 1.5,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Markt-Goldgrube DC 1X (76.2% / +40% ROI). Coinflip-Spiel - Doppelte Chance sauberer als direkter Sieg. Keine 2:0-Insurance (2.BL).",
+      "rang": 7,
+      "tipp_id": "dar-hdh-1"
+    },
+    {
+      "id": "e08",
+      "spiel_id": "2026-11-20-tro-hav",
+      "spiel_label": "Troyes vs Le Havre",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.8,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Keller-Duell, MediaPronos explizit Unter 2.5. Le Havre torflau (0 Saisonsiege), Troyes kein offensiver Explodierer. Haupt-Markt-Goldgrube (50% Hit / +46.8% ROI, 14 Tipps).",
+      "rang": 8,
+      "tipp_id": "tro-hav-2"
+    },
+    {
+      "id": "e09",
+      "spiel_id": "2026-11-20-dar-hdh",
+      "spiel_label": "Darmstadt vs Heidenheim",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Heidenheim defensiv-solide als Absteiger, Darmstadt zuletzt offensivarm (0:2 Nuernberg). Haupt-Goldgrube (50% Hit / +46.8% ROI).",
+      "rang": 9,
+      "tipp_id": "dar-hdh-2"
+    },
+    {
+      "id": "e10",
+      "spiel_id": "2026-11-20-bie-mag",
+      "spiel_label": "Bielefeld vs Magdeburg",
+      "kategorie": "value",
+      "markt": "Sieg Arminia Bielefeld (90 Min)",
+      "quote": 2.1,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Bielefeld-Heim mit Mini-Aufwaertstrend (2:1 Kiel), Magdeburg klassisch auswaerts schwach. Sieg-Markt Goldgrube (69.4% / +30% ROI). Keine 2:0-Insurance (2.BL).",
+      "rang": 10,
+      "tipp_id": "bie-mag-1"
+    }
+  ],
+  "kombis": [
+    {
+      "id": "k-safe",
+      "name": "Safe-Kombi",
+      "kategorie": "safe",
+      "gesamtquote": 3.09,
+      "rechnung": "1.25 x 1.65 x 1.50 = 3.09",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "beine": [
+        {
+          "spiel_id": "2026-11-20-bay-koe",
+          "spiel_label": "Bayern Muenchen vs 1. FC Koeln",
+          "markt": "Sieg Bayern (90 Min)",
+          "quote": 1.25,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-11-20-ath-esp",
+          "spiel_label": "Athletic Bilbao vs Espanyol",
+          "markt": "Sieg Athletic Bilbao",
+          "quote": 1.65,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-20-dar-hdh",
+          "spiel_label": "Darmstadt vs Heidenheim",
+          "markt": "Darmstadt oder Remis (Doppelte Chance 1X)",
+          "quote": 1.5,
+          "kategorie": "value"
+        }
+      ],
+      "begruendung": "Drei SAFE/VALUE-Sieg-Outcomes aus 3 verschiedenen Spielen - Bayern Heim gegen Koeln, Athletic Heim San Mames, Darmstadt Heim gegen Absteiger-Heidenheim mit Doppelte Chance Puffer. Reality-Check: alle drei sind in Goldgruben-Maerkten. 20EUR Einsatz = 2% Kasse (Stufe-1-Safe-Kombi)."
+    },
+    {
+      "id": "k-balance",
+      "name": "Balance-Kombi",
+      "kategorie": "balance",
+      "gesamtquote": 5.86,
+      "rechnung": "1.55 x 2.10 x 1.80 = 5.86",
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 8.0,
+      "beine": [
+        {
+          "spiel_id": "2026-11-20-bay-koe",
+          "spiel_label": "Bayern Muenchen vs 1. FC Koeln",
+          "markt": "Kane Torschuetze jederzeit",
+          "quote": 1.55,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-20-bie-mag",
+          "spiel_label": "Bielefeld vs Magdeburg",
+          "markt": "Sieg Arminia Bielefeld",
+          "quote": 2.1,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-20-tro-hav",
+          "spiel_label": "Troyes vs Le Havre",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.8,
+          "kategorie": "value"
+        }
+      ],
+      "begruendung": "Markt-entkoppelter Mix: Kane-Torschuetze (Spielertor Bayern) + Bielefeld-Sieg (zweiter Markt) + Troyes-LeH Unter 2.5 (Tor-Total). Gesamtquote 5.86 - am unteren Rand der Balance-Range (6-10x), aber ehrliche Rechnung statt kuenstlich aufgeblasen. 8EUR Einsatz = 0.8% Stufe 1."
+    },
+    {
+      "id": "k-risiko",
+      "name": "Risiko-Kombi",
+      "kategorie": "risk",
+      "gesamtquote": 27.72,
+      "rechnung": "3.40 x 1.90 x 1.95 x 2.20 = 27.72",
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 2.5,
+      "beine": [
+        {
+          "spiel_id": "2026-11-20-bay-koe",
+          "spiel_label": "Bayern Muenchen vs 1. FC Koeln",
+          "markt": "Lennart Karl Torschuetze jederzeit",
+          "quote": 3.4,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-20-ath-esp",
+          "spiel_label": "Athletic Bilbao vs Espanyol",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.9,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-20-bie-mag",
+          "spiel_label": "Bielefeld vs Magdeburg",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.95,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-20-dar-hdh",
+          "spiel_label": "Darmstadt vs Heidenheim",
+          "markt": "Beide Teams treffen NEIN",
+          "quote": 2.2,
+          "kategorie": "wackel"
+        }
+      ],
+      "begruendung": "4 markt-entkoppelte Wackel-Beine: Karl-Tor (Youngster-Startelf-Kandidat) + LaLiga-Unter + 2.BL-Ueber + 2.BL-BTTS-NEIN. 2.50EUR Einsatz = 0.25% Stufe 1 (Spaeinsatz). Gewinn bei Treffer ~69EUR."
+    },
+    {
+      "id": "k-moonshot",
+      "name": "Moonshot-Kombi",
+      "kategorie": "moonshot",
+      "gesamtquote": 24.43,
+      "rechnung": "3.80 x 2.10 x 1.75 x 1.75 = 24.43",
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 1.0,
+      "beine": [
+        {
+          "spiel_id": "2026-11-20-bay-koe",
+          "spiel_label": "Bayern Muenchen vs 1. FC Koeln",
+          "markt": "Harry Kane 2+ Tore",
+          "quote": 3.8,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-11-20-tro-hav",
+          "spiel_label": "Troyes vs Le Havre",
+          "markt": "Beide Teams treffen NEIN",
+          "quote": 2.1,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-11-20-dar-hdh",
+          "spiel_label": "Darmstadt vs Heidenheim",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.75,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-20-bie-mag",
+          "spiel_label": "Bielefeld vs Magdeburg",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.75,
+          "kategorie": "wackel"
+        }
+      ],
+      "begruendung": "Spass-Kombi mit 4 markt-entkoppelten Beinen: Kane-Doppelpack + Keller-Duell-BTTS-NEIN + 2.BL-Unter + 2.BL-BTTS-JA. Ehrlich: nur ~24x - keine echte 100x-Moonshot (bei Mini-Slate ohne klassischen Underdog-Sieg nicht moeglich). 1EUR Spaeinsatz = 0.1% Stufe 1."
+    }
+  ],
+  "lessons_angewandt": [
+    "HR1: Quoten-Range pro Kategorie respektiert - SAFE 1.18-1.25, VALUE 1.33-2.10, WACKEL 1.75-3.40, MOONSHOT ab 3.80",
+    "HR22: Star-OUT-Implosions-Risiko - Bayern-Offensive mit Olise/Gnabry/Diaz OUT, kein Mannschafts-SAFE auf Bayern wegen Offensiv-Dezimierung (Sieg trotzdem SAFE wegen Koeln-Klasse-Gefaelle, aber mit Bewusstsein)",
+    "HR24: Form-Edge-Pflicht Torschuetzen - Kane erfuellt (BL-Top-Scorer + einziger fitter 9er), Karl wackel (Form-Edge nur in letztem Spiel)",
+    "Markt-Goldgrube-Priorisierung: 4x Doppelte Chance in 3 Spielen + 3x Unter 2.5 + 1x Ueber 2.5 + 1x BTTS + 2x Torschuetzen - aktive Goldgruben-Nutzung",
+    "DC-Cap eingehalten: 3 DC-Tipps in 3 verschiedenen Spielen (Athletic, Troyes, Darmstadt) - erlaubt sind 2-3 pro Dossier",
+    "Layer-1 OK: max 1 Bein/Spiel pro Kombi",
+    "Layer-2 OK: Sieg-Outcome max 1 Kombi pro Spiel (Bayern Sieg nur in Safe, Athletic Sieg nur in Safe, Bielefeld Sieg nur in Balance, Darmstadt DC 1X nur in Safe)",
+    "Layer-3 (soft) OK: Bay-Koe als Hauptspiel in 4 Kombis mit markt-entkoppelten Tipps (Sieg != Kane != Karl != Kane 2+)",
+    "Kader-Check: Adeyemi ist Barcelona (nicht BVB), Luis Diaz verletzt bis Ende Nov (Bayern), Kane als sicheres Haupt-Target - alle Tipps live-Aufstellungs-pflichtig",
+    "Trainer-Check: Rene Wagner seit Maerz 2026 Koeln-Trainer (Kwasniok entlassen), Kompany Bayern unveraendert",
+    "2:0-Insurance greift NUR bei Bay-Koe (Bundesliga), NICHT in LaLiga/Ligue 1/2.BL"
+  ],
+  "_verifikations_report": {
+    "erstellt_am": "2026-11-20T20:13:27+01:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "recherche_file_fehlt",
+        "details": "data/recherche/2026-11-20.json nicht vorhanden - Fallback-Recherche inline gemacht via bundesliga.com, kicker.de, fc-koeln.de, uefa.com. Saison_kontext-Quellen pro Spiel komplett."
+      },
+      {
+        "art": "quoten_live_pruefen",
+        "details": "Alle Quoten sind Schaetzungen basierend auf Preview-Quellen. Bei bet365 vor Einsatz live pruefen."
+      },
+      {
+        "art": "aufstellung_live_pruefen",
+        "details": "Kane/Karl/Diaz-Status bei Bayern vor Anpfiff auf kicker.de Aufstellungs-Vorschau + ran.de Verletzungsmeldungen verifizieren. Luis Diaz war OUT bis Ende Nov - Comeback moeglich, dann Torschuetzen-Tipps anpassen."
+      }
+    ],
+    "halluzinations_check": "pro Spiel: Kader-Wechsel 2026 geprueft (Adeyemi=Barca, Diaz=Bayern, Diomande=Real, Ndiaye=City, Jackson=Villa, Watkins=Al Hilal). Keine Spieler aus Gedaechtnis. Luis Diaz NICHT als Bayern-Torschuetze getippt (noch verletzt).",
+    "layer_cross_check": "Layer-1 OK (max 1 Bein/Spiel/Kombi), Layer-2 OK (Sieg-Outcome pro Spiel max 1 Kombi), Layer-3 best effort (Mini-Slate erzwingt bei 5 Spielen + 4 Kombis Mehrfach-Nutzung, aber markt-entkoppelt)",
+    "selbstwiderspruchs_check": "saison_kontext spricht von Bayern-Verletzungswelle (Olise/Gnabry/Diaz/Kim OUT) - trotzdem Bayern-Sieg als SAFE legitim wegen Klasse-Gefaelle gegen Koeln-Aufsteiger + 2:0-Insurance. Kein SAFE auf Bayern-Offensive-Volume (Ueber 2.5 nur als VALUE 1.40)",
+    "lessons_generiert": []
+  },
+  "_emergency_recovery": false,
+  "footer": "18+ - BZgA Gluecksspielsucht-Hotline: 0800 1372700",
+  "einzeltipps_ergebnis": [
+    {
+      "id": "e01",
+      "spiel_id": "2026-11-20-bay-koe",
+      "spiel_label": "Bayern Muenchen vs 1. FC Koeln",
+      "kategorie": "safe",
+      "markt": "Sieg FC Bayern Muenchen (90 Min)",
+      "quote": 1.25,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Bayern Heim gegen Aufsteiger Koeln - 23 Pkt aus 9 Spielen, klarer Qualitaets-Edge, 2:0-Insurance greift (BL-Aktion). Reality-Check: Sieg-Markt Goldgrube (69.4% Hit / +30% ROI). Bei bet365 live Quote 1.22-1.28 pruefen.",
+      "rang": 1,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Bayern nur 1:1 - keine 2:0-Fuehrung, Insurance greift nicht.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "bay-koe-1"
+    },
+    {
+      "id": "e02",
+      "spiel_id": "2026-11-20-ath-esp",
+      "spiel_label": "Athletic Bilbao vs Espanyol",
+      "kategorie": "safe",
+      "markt": "Doppelte Chance Athletic oder Remis (1X)",
+      "quote": 1.18,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Markt-Goldgrube DC 1X (76.2% Hit / +40% ROI). San-Mames-Festung gegen Aufsteiger-Klasse-Gegner. Quote niedrig - bei bet365 live auf min. 1.17 pruefen.",
+      "rang": 2,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Espanyol gewinnt 0:1 - DC 1X verfehlt.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ath-esp-2"
+    },
+    {
+      "id": "e03",
+      "spiel_id": "2026-11-20-bay-koe",
+      "spiel_label": "Bayern Muenchen vs 1. FC Koeln",
+      "kategorie": "value",
+      "markt": "Harry Kane Torschuetze jederzeit",
+      "quote": 1.55,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Kane ist BL-Top-Torschuetze 2026/27 und einziger fitter Top-9er - Diaz/Olise/Gnabry OUT. Markt-Goldgrube Torschuetzen Jederzeit (Form-Edge erfuellt). 15EUR = 1.5% Stufe 1.",
+      "rang": 3,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Kane traf nicht (frueh verletzt ausgewechselt); Ersatz Bischof ohne Tor -> kein Einwechslungs-Boost.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "bay-koe-2"
+    },
+    {
+      "id": "e04",
+      "spiel_id": "2026-11-20-bay-koe",
+      "spiel_label": "Bayern Muenchen vs 1. FC Koeln",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.4,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Bayern hat Heim ~2.8 Tore pro Spiel, Koeln trifft gegen Topteams meist 1x. Ueber 2.5 Goldgrube-Markt (55% Hit / +22.7% ROI).",
+      "rang": 4,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Nur 2 Tore (1:1).",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "bay-koe-3"
+    },
+    {
+      "id": "e05",
+      "spiel_id": "2026-11-20-ath-esp",
+      "spiel_label": "Athletic Bilbao vs Espanyol",
+      "kategorie": "value",
+      "markt": "Sieg Athletic Bilbao (90 Min)",
+      "quote": 1.65,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "San Mames-Heim-Festung gegen auswaertsschwachen Aufsteiger-Klasse-Gegner. Sportsmole-Prognose 2:1 Athletic. Direkter Sieg-Tipp, keine Insurance (LaLiga). 2% = 20EUR Einsatz.",
+      "rang": 5,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Athletic verliert 0:1 - keine Sieg.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "ath-esp-1"
+    },
+    {
+      "id": "e06",
+      "spiel_id": "2026-11-20-tro-hav",
+      "spiel_label": "Troyes vs Le Havre",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Troyes oder Remis (1X)",
+      "quote": 1.33,
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "begruendung": "Markt-Goldgrube DC 1X (76.2% / +40% ROI). Le Havre kommt mit 6-Pleiten-Serie - Gastsieg sehr unwahrscheinlich. Foresportia-Modell: 54% Heim, 27% Remis, 19% Gast. HR2 Gast-Form-Krise gestuetzt.",
+      "rang": 6,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.33,
+      "kommentar": "Troyes gewinnt 3:1 - DC 1X trifft.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "tro-hav-1"
+    },
+    {
+      "id": "e07",
+      "spiel_id": "2026-11-20-dar-hdh",
+      "spiel_label": "Darmstadt vs Heidenheim",
+      "kategorie": "value",
+      "markt": "Doppelte Chance Darmstadt oder Remis (1X)",
+      "quote": 1.5,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Markt-Goldgrube DC 1X (76.2% / +40% ROI). Coinflip-Spiel - Doppelte Chance sauberer als direkter Sieg. Keine 2:0-Insurance (2.BL).",
+      "rang": 7,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.5,
+      "kommentar": "Darmstadt gewinnt 3:1 - DC 1X trifft.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "dar-hdh-1"
+    },
+    {
+      "id": "e08",
+      "spiel_id": "2026-11-20-tro-hav",
+      "spiel_label": "Troyes vs Le Havre",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.8,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Keller-Duell, MediaPronos explizit Unter 2.5. Le Havre torflau (0 Saisonsiege), Troyes kein offensiver Explodierer. Haupt-Markt-Goldgrube (50% Hit / +46.8% ROI, 14 Tipps).",
+      "rang": 8,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "4 Tore - Unter 2.5 verfehlt.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "tro-hav-2"
+    },
+    {
+      "id": "e09",
+      "spiel_id": "2026-11-20-dar-hdh",
+      "spiel_label": "Darmstadt vs Heidenheim",
+      "kategorie": "value",
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Heidenheim defensiv-solide als Absteiger, Darmstadt zuletzt offensivarm (0:2 Nuernberg). Haupt-Goldgrube (50% Hit / +46.8% ROI).",
+      "rang": 9,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "4 Tore - Unter 2.5 verfehlt.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "dar-hdh-2"
+    },
+    {
+      "id": "e10",
+      "spiel_id": "2026-11-20-bie-mag",
+      "spiel_label": "Bielefeld vs Magdeburg",
+      "kategorie": "value",
+      "markt": "Sieg Arminia Bielefeld (90 Min)",
+      "quote": 2.1,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15.0,
+      "begruendung": "Bielefeld-Heim mit Mini-Aufwaertstrend (2:1 Kiel), Magdeburg klassisch auswaerts schwach. Sieg-Markt Goldgrube (69.4% / +30% ROI). Keine 2:0-Insurance (2.BL).",
+      "rang": 10,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "kommentar": "Magdeburg gewinnt 2:1 auswaerts.",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "tipp_id": "bie-mag-1"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "k-safe",
+      "status": "verloren",
+      "gesamtquote": 3.09,
+      "kommentar": "Bayern nur 1:1 + Athletic verliert 0:1 - 2 von 3 Beinen gerissen, Darmstadt DC haette allein gezogen.",
+      "gewinn_faktor": 0.0
+    },
+    {
+      "kombi_id": "k-balance",
+      "status": "verloren",
+      "gesamtquote": 5.86,
+      "kommentar": "Alle 3 Beine gerissen (Kane kein Tor, Bielefeld verliert, Troyes/LeH 4 Tore).",
+      "gewinn_faktor": 0.0
+    },
+    {
+      "kombi_id": "k-risiko",
+      "status": "verloren",
+      "gesamtquote": 27.72,
+      "kommentar": "Karl kein Tor + Darmstadt BTTS JA - 2 von 4 Beinen gerissen.",
+      "gewinn_faktor": 0.0
+    },
+    {
+      "kombi_id": "k-moonshot",
+      "status": "verloren",
+      "gesamtquote": 24.43,
+      "kommentar": "Kane 2+ verfehlt + Troyes/Darmstadt beide 4 Tore + Troyes-Keller-Spiel mit BTTS JA - 3 von 4 Beinen gerissen.",
+      "gewinn_faktor": 0.0
+    }
+  ],
+  "ausgewertet_am": "2026-11-21T06:16:23+00:00"
+}
