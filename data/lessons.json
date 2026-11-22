@@ -4150,7 +4150,31 @@
       "kategorie": "2:0-Insurance-Fuehrungs-Pflicht 8e-8h (HR11-21-4)",
       "lesson": "Bayern-Sieg-SAFE begruendete sich teils ueber 2:0-Insurance (BL-Aktion). Realitaet: Bayern lag nie 2:0 - Koeln ging sogar 0:1 in Fuehrung (Moore 12.) und Brown glich erst 37. aus. Insurance ist kein Zauber, sondern nur eine Fuehrungs-Rettung. Hartregel-Validierung (3. Vorkommnis 2026-07-28, 2026-11-01, 2026-11-20): wenn Fav-Team Verletzungs-Cluster hat + Gegner trifft frueh, kann Insurance nie aktiv werden. Konsequenz: 2:0-Insurance-Verweis in begruendung darf hoechstens +1 Kategorie-Boost geben (z.B. VALUE->SAFE), aber nicht OHNE Star-OUT-Check.",
       "bezug_spiel_id": "2026-11-20-bay-koe"
+    },
+    {
+      "datum": "2026-11-22",
+      "kategorie": "Volume-9er-Verletzungs-Vorabcheck Pflicht 8b-8h (HR11-22-1)",
+      "lesson": "Am 21.11. zwei Dossier-Volume-9er ohne Vorab-Verletzungs-Check: Saka (Arsenal) war seit Arteta-Presse 8 Wochen OUT (Oberschenkel), Guirassy (BVB) kurzfristig mit Muskelproblem OUT in der Aufstellungs-Vorschau. Routine tippte beide dennoch (Saka Wackel-Torschuetze 3.00, Guirassy VALUE-Torschuetze 1.90 + Moonshot 2+ Tore). Jetzt der 4. Fall der Serie (Diaz 31.10., Kane 20.11., Saka + Guirassy 21.11.). Konsequenz: fuer JEDEN Torschuetzen-/2+-Tipp VOR Dossier-Veroeffentlichung Pflicht-Check auf (a) kicker/transfermarkt Verletzungsstatus und (b) Aufstellungs-Vorschau sobald verfuegbar. Wenn OUT -> Tipp droppen, NICHT als Wackel degradieren. Kader_wechsel_2026 erweitert mit beiden Krankenstaenden.",
+      "bezug_spiel_id": "2026-11-21-new-ars"
+    },
+    {
+      "datum": "2026-11-22",
+      "kategorie": "SAFE-Zone-Risiko bei PL-Topfavoriten OHNE 2:0-Insurance 8e-8a (HR11-22-2)",
+      "lesson": "Sieg City @ 1.30 (Kombi-Safe-Bein + SAFE-Einzel) ging in 1:1 verloren - Haaland-Treffer von VAR wegen Foul an Leno aberkannt, City-Sieglos-Serie auf 4 PL-Spielen. Bei PL-SAFE-Quoten unter 1.35 greift die 2:0-Insurance NICHT (nur BL + CL), d.h. eine Favoriten-Kollaps-Linie bleibt. Pattern: in den letzten 4 Wochen 2x verlorene Sieg-Favoriten-SAFE-Kombi-Beine in der PL ohne Insurance-Fallback (City 21.11., Liverpool 01.11.). Konsequenz: bei PL-Spielen fuer Sieg-Markt in Kombi-Safe-Beinen mindestens DC 1X oder DC X2 statt direktem Sieg - verliert etwa 5-10% Quote, aber spart die Insurance-Luecke.",
+      "bezug_spiel_id": "2026-11-21-mci-ful"
+    },
+    {
+      "datum": "2026-11-22",
+      "kategorie": "DC-Goldgruben-Strong-Tag + BTTS/Ueber-Mixed 8c-8d (HR11-22-3)",
+      "lesson": "21.11.-Dossier-Bilanz der Markt-Goldgruben: DC 1X (2/2 - Napoli + Real Madrid), DC X2 (4/4 - PSG + Dortmund + Betis + Arsenal), BTTS JA (3/4 - Sevilla + Newcastle + Union, nur Gladbach-BVB 0:1), Ueber 2.5 Tore (2/5 - Nice-PSG + Real-Celta knapp, City-Fulham + Sevilla-Betis + Napoli-Torino alle 1-2-Tor-Matches). Erkenntnis: DC-Goldgruben bleiben stabil, Ueber-2.5 bei Topspielen in defensiven Serie-A/LaLiga-Partien weiterhin heikel. Konsequenz: Ueber 2.5 in Napoli-Topspielen + Andalusien-Derbis nur VALUE/wackel, nicht mehr SAFE. DC-Beine duerfen in Kombi-Safe-Hauptlast bleiben.",
+      "bezug_spiel_id": "2026-11-21-nap-tor"
+    },
+    {
+      "datum": "2026-11-22",
+      "kategorie": "Super-Sub-Scorer-Muster + Backup-9er-Scout 8g-8i (HR11-22-4)",
+      "lesson": "An einem Tag kamen zwei Super-Sub-Scorer durch: Carlos Espi (Real Madrid, 85.) + Ferran Torres (PSG, 85. nach Doue-Verletzung). Beides Backup-9er, die in letzter Phase trafen. Einwechslungs-Boost griff bei Doue bereits durch eigenen Treffer (32.) - bei Mbappe mangels dokumentierter Espi-fuer-Mbappe-Substitution NICHT. Pattern: Mourinho + Enrique rotieren ab 70.-80. Minute offensiv, Backup-9er sind Scoring-Kandidaten fuer Jederzeit-Markt mit Quoten 3.5-5.0 (Moonshot-Zone, nicht VALUE). Konsequenz: aktives Scouting der Super-Sub-Scorer pro Topteam - Espi (Real), Torres (PSG), Fabio Silva (BVB bei Guirassy-OUT) ab jetzt in Moonshot-Mix. Kader_wechsel_2026 entsprechend erweitert.",
+      "bezug_spiel_id": "2026-11-21-rma-cel"
     }
   ],
-  "stand": "2026-11-15"
+  "stand": "2026-11-22"
 }

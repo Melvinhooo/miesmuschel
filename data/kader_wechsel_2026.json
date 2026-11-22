@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-21",
+  "stand": "2026-11-22",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -514,6 +514,26 @@
       "hinweis": "Senegalesischer Fluegelstuermer wechselte am 01.09.2026 zu Vancouver Whitecaps (MLS). Nicht mehr als Grenoble-Spieler tippen. Erkannt im Chambery-Grenoble-Dossier 12.11.2026 (als Hinweis im News-Block). Eintrag per Auswertungs-Routine 13.11. nachgetragen.",
       "quelle": "https://fr.wikipedia.org/wiki/Saison_2026-2027_du_Grenoble_Foot_38",
       "stand": "2026-11-13"
+    },
+    {
+      "spieler": "Bukayo Saka",
+      "von": "Arsenal FC (bleibt dort)",
+      "nach": "Krankenstand (Oberschenkel-Verletzung, ca. 8 Wochen)",
+      "datum": "2026-11-21",
+      "hinweis": "AKTUELL VERLETZT. Arteta kuendigte vor dem 21.11.-Spiel (Newcastle) an, Saka werde rund 8 Wochen fehlen (Oberschenkel). Dossier 21.11. tippte ihn trotzdem als Wackel-Torschuetzen beim 2:2 in Newcastle - Fehltipp, weil er gar nicht im Kader stand. Vor Saka-Torschuetzen-/Fuenfer-Tipps bis Comeback IMMER aktuelle Flashscore-Injury-Report und Arteta-Pressekonferenz pruefen. Comeback voraussichtlich Jan/Feb 2027.",
+      "wiedereinsatzbereit_ab": "unbekannt (schaetzung Jan/Feb 2027)",
+      "quelle": "https://www.aljazeera.com/sports/2026/11/20/newcastle-united-arsenal-premier-league-predictions-lineups-saka-saliba",
+      "stand": "2026-11-22"
+    },
+    {
+      "spieler": "Serhou Guirassy",
+      "von": "Borussia Dortmund (bleibt dort)",
+      "nach": "Krankenstand (Muskelverletzung Oberschenkel)",
+      "datum": "2026-11-21",
+      "hinweis": "AKTUELL VERLETZT (kurzfristig). Guirassy fiel am 21.11. mit Muskelverletzung Oberschenkel aus (laut offizieller BVB-Aufstellungsmeldung). Fabio Silva begann als 9er. Routine tippte Guirassy trotzdem als Wackel-Torschuetzen + Moonshot 2+ Tore in Gladbach-BVB 0:1 - beide verloren. Vor naechstem Guirassy-Torschuetzen-Tipp Verletzungsstatus bei kicker/ran pruefen. Comeback voraussichtlich Dezember 2026 nach CL-Doppelbelastung.",
+      "wiedereinsatzbereit_ab": "unbekannt (schaetzung Dez 2026)",
+      "quelle": "https://www.bvb.de/de/en/news/news-overview/news.html/2026/11/21/Nmecha-Propels-BVB-Into-First-Place.html",
+      "stand": "2026-11-22"
     }
   ],
   "zugaenge_neue_optionen": [
@@ -954,6 +974,33 @@
       "typ": "Saisonleihe (keine Kaufoption)",
       "hinweis": "Aufgefallen bei Auswertung 20.11.2026: Moore traf in der 12. Min zum 0:1 beim Bayern-1:1 (Allianz Arena). Junger Fluegelstuermer (geboren 2007), kann als Koeln-Backup-Torschuetze auftauchen. Routine darf ihn jetzt als Koeln-Option fuehren, nicht mehr als Tottenham.",
       "quelle": "https://www.bundesliga.com/de/bundesliga/news/1-fc-koln-neuzugang-leihe-mikey-moore-tottenham-rangers-portrat-38988"
+    },
+    {
+      "spieler": "Carlos Espi",
+      "nach": "Real Madrid",
+      "von": "Real Madrid Castilla (Beförderung Profis)",
+      "datum": "2026",
+      "rolle": "Super-Sub-9er unter Mourinho",
+      "hinweis": "Aufgefallen bei Auswertung 2026-11-21: Espi kam als Joker (ca. 79. Min) und traf 6 Minuten spaeter zum 2:1-Siegtreffer gegen Celta Vigo. Laut Sportsmole EUR 21-25m-Bargain-Trikot aus Castilla - Mourinhos fester Super-Sub mit Season-First-Treffer-Serie (bereits Elche-Tor 3-2 auswaerts im September). Fuer spaete Phase (ab 75.) im Jederzeit-Markt bedingt tippbar, nicht als Startelf-Fokus.",
+      "quelle": "https://www.sportsmole.co.uk/football/real-madrid/news/how-gbp21m-carlos-espi-has-become-jose-mourinhos-unlikely-real-madrid-super-sub_605243.html",
+      "stand": "2026-11-22"
+    },
+    {
+      "spieler": "Fabio Silva",
+      "nach": "Borussia Dortmund",
+      "datum": "2026",
+      "rolle": "Backup-9er / Rotations-Stuermer hinter Guirassy",
+      "hinweis": "Aufgefallen bei Auswertung 2026-11-21: Fabio Silva begann als zentraler 9er in Gladbach-BVB 0:1, nachdem Guirassy mit Muskelproblem OUT fiel. Blieb ohne Treffer, aber seine Rolle als BVB-Erst-Ersatz fuer Guirassy ist bestaetigt. Ab jetzt als Guirassy-Alternative im BVB-Torschuetzen-Mix fuehren, wenn Aufstellungs-Vorschau Guirassy OUT meldet.",
+      "quelle": "https://www.bvb.de/de/en/news/news-overview/news.html/2026/11/21/Nmecha-Propels-BVB-Into-First-Place.html",
+      "stand": "2026-11-22"
+    },
+    {
+      "spieler": "Felix Nmecha",
+      "nach": "Borussia Dortmund",
+      "rolle": "Zentraler 8er mit Offensiv-Volumen",
+      "hinweis": "Aufgefallen bei Auswertung 2026-11-21: Nmecha schoss BVB in 80. Min zum Auswaertssieg bei Gladbach (Vorlage Sabitzer nach Albert-Flanke) und BVB auf Platz 1. Fuer BVB-Torschuetzen-Jederzeit-Markt bedingt tippbar aus dem zweiten Glied (Volumen-8er, nicht zentraler 9er).",
+      "quelle": "https://www.bvb.de/de/en/news/news-overview/news.html/2026/11/21/Nmecha-Propels-BVB-Into-First-Place.html",
+      "stand": "2026-11-22"
     }
   ],
   "trainer_2026_27": [

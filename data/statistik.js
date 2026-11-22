@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-11-21T06:17:03+00:00",
+  "letzte_berechnung": "2026-11-22T06:22:09+00:00",
   "gesamt": {
     "tipps": 277,
     "gewonnen": 170,
@@ -13,26 +13,26 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 35.6
   },
   "letzte_30_tage": {
-    "tipps": 144,
-    "gewonnen": 80,
-    "verloren": 54,
+    "tipps": 132,
+    "gewonnen": 74,
+    "verloren": 48,
     "push": 0,
     "offen": 10,
-    "einsatz": 134.0,
-    "netto": 15.02,
-    "trefferquote": 59.7,
-    "roi_prozent": 11.2
+    "einsatz": 122.0,
+    "netto": 17.43,
+    "trefferquote": 60.7,
+    "roi_prozent": 14.3
   },
   "letzte_90_tage": {
-    "tipps": 251,
-    "gewonnen": 155,
-    "verloren": 84,
+    "tipps": 241,
+    "gewonnen": 149,
+    "verloren": 80,
     "push": 0,
     "offen": 12,
-    "einsatz": 239.0,
-    "netto": 87.91,
-    "trefferquote": 64.9,
-    "roi_prozent": 36.8
+    "einsatz": 229.0,
+    "netto": 79.32,
+    "trefferquote": 65.1,
+    "roi_prozent": 34.6
   },
   "nach_liga": {
     "LaLiga 2026/27 - Matchday 1": {
@@ -3192,6 +3192,299 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-11-21",
+      "gesamt": {
+        "tipps": 10,
+        "gewonnen": 6,
+        "verloren": 4,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 10.0,
+        "netto": 7.83,
+        "trefferquote": 60.0,
+        "roi_prozent": 78.3
+      },
+      "spiele": [
+        {
+          "id": "2026-11-21-mci-ful",
+          "liga": "Premier League 2026/27 - Matchweek 11",
+          "heim": "Manchester City",
+          "gast": "Fulham FC",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg Manchester City (90 Min)",
+              "quote": 1.3,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Sieg City verfehlt - City kam gegen tief stehende Fulham nicht ueber 1:1 hinaus. 2:0-Insurance greift bei PL ohnehin nicht (bet365-DE-Aktion nur BL + CL)."
+            },
+            {
+              "markt": "Haaland Torschuetze jederzeit",
+              "quote": 1.55,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Haaland hat zwar in der 25. Minute getroffen, Treffer wurde aber von VAR wegen Foulspiels an Fulham-Keeper Bernd Leno aberkannt. Haaland spielte durch, wurde NICHT ausgewechselt - kein Einwechslungs-Boost moeglich."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-21-bmg-bvb",
+          "liga": "Bundesliga 2026/27 - 10. Spieltag",
+          "heim": "Borussia Moenchengladbach",
+          "gast": "Borussia Dortmund",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Dortmund oder Remis (X2)",
+              "quote": 1.25,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.25,
+              "kommentar": "DC X2 durch spaeten Nmecha-Treffer (80., Vorlage Sabitzer nach Albert-Flanke) - 0:1 BVB. Dortmund springt an die Tabellenspitze."
+            },
+            {
+              "markt": "Guirassy Torschuetze jederzeit",
+              "quote": 1.9,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Guirassy stand NICHT im Kader (Muskelverletzung Oberschenkel laut offizieller Aufstellung) - Fabio Silva begann als Mittelstuermer. Guirassy wurde nicht ausgewechselt (weil nicht gestartet), daher kein Einwechslungs-Boost moeglich. Ein Kader-Frische-Problem - Verletzungsstatus vor dem Tipp nicht gepruft."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-21-nic-psg",
+          "liga": "Ligue 1 2026/27 - 11. Spieltag",
+          "heim": "OGC Nice",
+          "gast": "Paris Saint-Germain",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance PSG oder Remis (X2)",
+              "quote": 1.1,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.1,
+              "kommentar": "DC X2 durch 3:2-Auswaertssieg PSG - spaete Torres-Entscheidung (85.) nach Doue-Treffer und Nice-Ausgleich."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-21-sev-rbe",
+          "liga": "LaLiga EA Sports 2026/27 - Jornada 13",
+          "heim": "Sevilla FC",
+          "gast": "Real Betis",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.75,
+              "kommentar": "BTTS JA durch Antony (50., Vorlage Isco) und Kike Salas (90+1, Vorlage Isaac Romero)."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-21-new-ars",
+          "liga": "Premier League 2026/27 - Matchweek 11",
+          "heim": "Newcastle United",
+          "gast": "Arsenal FC",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Arsenal oder Remis (X2)",
+              "quote": 1.45,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.45,
+              "kommentar": "DC X2 (Arsenal oder Remis) durch 2:2 - Remis zaehlt. Madueke (78.) rettet nach Thiaw-Fuehrung (62.) den Punkt."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-21-nap-tor",
+          "liga": "Serie A 2026/27 - Giornata 12",
+          "heim": "SSC Napoli",
+          "gast": "Torino FC",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Napoli oder Remis (1X)",
+              "quote": 1.2,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.2,
+              "kommentar": "DC 1X durch 1:0-Heimsieg Napoli - McTominay (73.) entscheidet knapp."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-21-rma-cel",
+          "liga": "LaLiga EA Sports 2026/27 - Jornada 13",
+          "heim": "Real Madrid",
+          "gast": "Celta Vigo",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Doppelte Chance Real Madrid oder Remis (1X)",
+              "quote": 1.08,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.08,
+              "kommentar": "DC 1X durch 2:1-Heimsieg Real Madrid - knapp aber gewonnen."
+            },
+            {
+              "markt": "Mbappe Torschuetze jederzeit",
+              "quote": 1.65,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Mbappe traf nicht - verschoss sogar einen Elfmeter vor der Halbzeit ueber die Latte. Kein Einwechslungs-Boost dokumentiert: Mbappe spielte durch, Espi kam als Super-Sub spaeter rein (fuer wen genau nicht zweifelsfrei belegt, aber nicht als direkter Mbappe-Ersatz in den Match-Reports gelistet). Tipp bleibt verloren."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (Sieg-Topspiele + BVB-DC)",
+          "kategorie": "safe",
+          "gesamtquote": 3.27,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Manchester City (90 Min)",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Real Madrid (90 Min)",
+              "quote": 1.35,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Napoli (90 Min)",
+              "quote": 1.49,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Doppelte Chance Dortmund oder Remis (X2)",
+              "quote": 1.25,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (Torschuetzen + BTTS)",
+          "kategorie": "balance",
+          "gesamtquote": 8.5,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Haaland Torschuetze jederzeit",
+              "quote": 1.55,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Guirassy Torschuetze jederzeit",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Mbappe Torschuetze jederzeit",
+              "quote": 1.65,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (Tor-Total + Wackel-Torschuetze)",
+          "kategorie": "risk",
+          "gesamtquote": 16.32,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.55,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.95,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Brandt Torschuetze jederzeit",
+              "quote": 3.6,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (Underdog+Spielertor-Lotterie)",
+          "kategorie": "moonshot",
+          "gesamtquote": 82.69,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Guirassy 2+ Tore",
+              "quote": 4.2,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Mbappe 2+ Tore",
+              "quote": 3.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen JA",
+              "quote": 1.75,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Saka Torschuetze jederzeit",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-11-20",
       "gesamt": {
