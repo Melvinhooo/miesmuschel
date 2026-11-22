@@ -1,577 +1,671 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
-  "datum": "2026-11-21",
-  "erstellt_am": "2026-11-21T10:05:00+01:00",
-  "hinweis": "Pipeline Sa+So Cloud-Routine - erster Samstag nach Laenderspielpause mit grossem Programm. Bundesliga 10. Spieltag mit Topspiel Gladbach-Dortmund (15:30 Borussia-Park) + Union-Leipzig + Leverkusen-Paderborn. Premier League Matchweek 11 mit Man City-Fulham (13:30 Berlin) + Newcastle-Arsenal (18:30 Berlin). LaLiga Jornada 13: Derbi Sevilla-Betis (18:30) + Real Madrid-Celta (21:00 Bernabeu). Serie A Giornata 12: Napoli-Torino Spitzenduell (20:45). Ligue 1 Journee 11: Nice-PSG (17:15 Allianz Riviera). Kasse 1000EUR Stufe 1 (konservativ: 1-2% Einzel SAFE/VALUE, Kombi Safe 2%). Fokus: Sieg-Markt + Doppelte Chance-Goldgruben + Torschuetzen Jederzeit. Verzicht auf Unter-2.5 ausser bei Taktik-Spielen. Quellen: offizielle Vereins-Sites + LaLiga/Serie A/Ligue 1 + Aggregator wie flashscore/oddslot.",
+  "datum": "2026-11-22",
+  "erstellt_am": "2026-11-22T08:10:45+00:00",
+  "modus": "tag",
+  "slot": "sa-so-10:00",
+  "hinweis": "Sonntags-Slate 22.11.: 9 Spiele im Fenster (BL 10.ST, PL MD11, LaLiga J13, Serie A G12, Ligue 1 J11), kein Supercup/Pokal. Kasse 1000 EUR Stufe 1 - SAFE/VALUE-Einzel 10-20 EUR, Wackel 5 EUR. Goldgrube DC 1X/X2 und BTTS-JA aktiv gesucht. Coinflip Augsburg-Mainz ohne SAFE, Milan-Frosinone + Brighton @ Hull als Heim-/Auswaertsfavorit-Anker. Kein Serie-A-Top-Spiel Juventus/Venezia aufgenommen - zu wenig verifizierte Daten.",
+  "kasse_snapshot": {
+    "kasse_euro": 1000,
+    "stufe": 1,
+    "basis_kasse_euro": 1000,
+    "stufe_2_freigeschaltet": false
+  },
   "spiele": [
     {
-      "id": "2026-11-21-mci-ful",
-      "liga": "Premier League 2026/27 - Matchweek 11",
-      "heim": "Manchester City",
-      "gast": "Fulham FC",
-      "anstoss": "2026-11-21T13:30:00+01:00",
-      "stadion": "Etihad Stadium, Manchester",
+      "id": "2026-11-22-bar-vil",
+      "liga": "LaLiga",
+      "runde": "Jornada 13",
+      "heim": "FC Barcelona",
+      "gast": "Villarreal CF",
+      "anstoss": "2026-11-22T14:00:00+01:00",
+      "stadion": "Spotify Camp Nou, Barcelona",
+      "trainer_heim": "Hansi Flick",
+      "trainer_gast": "Marcelino",
+      "tabelle": {
+        "heim_platz": 1,
+        "heim_pkt": 33,
+        "gast_platz": 8,
+        "gast_pkt": 15
+      },
       "saison_kontext": {
-        "parallel_heim": "CL-Ligaphase MD5 Mittwoch 25.11.2026 @ Leverkusen (4 Tage Recovery) - Guardiola rotiert vor CL in Topspielen moderat, aber bei Haaland/Rodri meist Startelf",
-        "parallel_gast": "keine - Fulham nicht im Europapokal, FA Cup 3. Runde erst Januar, 14 Tage Pause (Laenderspielpause)",
-        "saisonziel_heim": "PL-Titel-Favorit + CL-Titel - vor der Pause laut Preview-Quellen Spitze oder ganz oben, historischer H2H-Edge 40S-16U-17N gegen Fulham",
-        "saisonziel_gast": "PL-Mittelfeld/Conference-Quali - Marco Silva seit 2023, taktisch diszipliniert aber ohne Durchschlagskraft gegen Topteams (19-Spiele-Negativserie in Manchester laut goal.com)",
-        "motivations_asymmetrie": "City klarer Heim-Favorit (Sieg-Heim ~1.30 SAFE-Zone): Qualitaets-Edge + H2H-Dominanz + Heim-Rhythmus. Fulham reist defensiv-orientiert, historisch null Torgefahr am Etihad. CL-Rotation moeglich aber Haaland/Foden-Achse spielt. ACHTUNG: bet365-2:0-Insurance greift bei PL NICHT - nur BL/CL.",
-        "recovery_heim": "11 Tage Pause nach letztem Liga-Spiel vor Laenderspielpause - Spieler zurueck Mitte Woche",
-        "recovery_gast": "voll ausgeruht, 12+ Tage Pause, kaum Laenderspieler-Belastung (keine Stamm-A-Nationalspieler)",
+        "parallel_heim": "CL-Ligaphase MD5 am 25.11. (Chelsea A) - leichte Rotations-Pflicht moeglich",
+        "parallel_gast": "keine - aus CL im Vorjahr raus, kein Europacup 2026/27",
+        "saisonziel_heim": "Platz 1 (33 Pkt), LaLiga-Dreipeat-Versuch unter Flick",
+        "saisonziel_gast": "Platz 8 (15 Pkt), Mittelfeld - keine Europa-Qual direkt",
+        "motivations_asymmetrie": "Barca Heim-Favorit auf eigenem Rasen gegen Mittelfeld-Villarreal, CL-Mittwoch im Hinterkopf aber keine Rotation vor Camp-Nou-Publikum erwartet. Edge klar Heim.",
+        "recovery_heim": "6 Tage seit Alaves-Sieg 01.11. + Laenderspielpause - frisch",
+        "recovery_gast": "6 Tage seit letztem Liga-Spiel - normal erholt",
         "quellen": [
-          "https://www.premierleague.com/",
-          "https://www.uefa.com/uefachampionsleague/",
-          "https://www.si.com/soccer/man-city-2026-27-premier-league-fixtures-dates-full-schedule",
-          "https://www.goal.com/en-gb/betting/tips/manchester-city-vs-fulham-predictions-11-02-2026/A%3Ablt9c3fe4d5b5be0825"
+          "https://www.whoscored.com/matches/1994043/preview/spain-laliga-2026-2027-barcelona-villarreal",
+          "https://www.si.com/es-us/barcelona-vs-villarreal-previa-predicciones-y-alineaciones-22-11-2026",
+          "https://www.sportsmole.co.uk/football/barcelona/race-for-the-la-liga-title/team-news/barcelona-vs-villarreal-injury-suspension-list-predicted-xis_609475.html",
+          "https://www.tntsports.co.uk/_sto23351145/story.shtml"
         ]
       },
       "news": [
-        "Premier League Matchweek 11 Samstag 12:30 UK (13:30 Berlin) - erstes Spiel nach Laenderspielpause",
-        "City historisch 40S-16U-17N gegen Fulham, laut goal.com 19-Spiele-Heimserie ohne Niederlage vs Fulham",
-        "CL MD5 Mittwoch 25.11. @ Leverkusen - leichte Rotation moeglich, Haaland + Foden aber Startelf-Standard",
-        "Haaland PL-Top-Torschuetze 2026/27 - Volumen-9er mit Backup-Qualitaet (Marmoush/Bobb) -> Einwechslungs-Boost aktiv",
-        "Fulham 19-Spiele-Negativserie in Manchester (goal.com Preview)",
-        "Marco Silva seit 2023 Trainer - pragmatischer 4-2-3-1-Block, gegen Topteams meist tiefer Block",
-        "2:0-Insurance bet365 DE gilt bei PL-Spielen NICHT - nur BL + CL"
+        "Barca Tabellenfuehrer 33 Pkt, Flick-Vertrag bis 2028 verlaengert.",
+        "Ausfall Barca: Rodri (Oberschenkel), Xavi Espart, Roony Bardghji; Christensen/De Jong fraglich.",
+        "Villarreal: Alassane Diatta out, Mikautadze als Sturmspitze erwartet.",
+        "Letzte Direktduelle: Barca 4:1 Febr 2026, zwei Siege in Folge gegen Villarreal."
       ],
       "tipps": [
         {
-          "id": "mci-ful-1",
-          "kategorie": "wackel",
-          "markt": "Sieg Manchester City (90 Min)",
-          "quote": 1.3,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.26,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "City Heim gegen Fulham mit historischer Heim-Serie - 40S aus 73 H2H + 19 ungeschlagen am Etihad vs Fulham laut goal.com. Qualitaets-Edge klar, selbst mit CL-Rotation. Reality-Check: Sieg-Markt-Goldgrube (64.1% Hit / +27.7% ROI) + PL ist aktuell nicht in beobachtungs_ligen. 1.5% von 1000EUR = 15EUR. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> safe->value] [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
-          "_saison_kontext_sanity_downgrade": true
-        },
-        {
-          "id": "mci-ful-2",
-          "kategorie": "wackel",
-          "markt": "Haaland Torschuetze jederzeit",
-          "quote": 1.55,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.48,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Haaland Top-Torschuetze 2026/27 + Volumen-9er mit Backup-Qualitaet (Einwechslungs-Boost aktiv). HR24-Form-Edge ueblicherweise >5 Tore in 10 Spielen. Fulham-Defense anfaellig gegen Tempo-9er (Silva-Block bricht nach 60 Min). Markt-Goldgrube Torschuetzen Jederzeit (HR24-Pflicht). 1.5% = 15EUR. [Auto HR3: UEFA-Doppelbelastung + Rotation - Top-Stuermer max WACKEL, Joker-Tipp suchen]",
-          "_joker_top_stuermer_block": true
-        },
-        {
-          "id": "mci-ful-3",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.5,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.44,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "City Heim-Score-Durchschnitt historisch >2 pro Spiel, Fulham trifft ein vielleicht Mal gegen Top-Teams. Markt-Goldgrube Ueber 2.5 Tore (53.7% Hit / +22.1% ROI). 1.5% = 15EUR."
-        },
-        {
-          "id": "mci-ful-4",
-          "kategorie": "wackel",
-          "markt": "Foden Torschuetze jederzeit",
-          "quote": 2.8,
-          "edge_prozent": 6.0,
-          "faire_quote": 2.6,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Foden Zehner mit Heim-Trefferkraft, nach Laenderspielpause frisch. HR24 nur teilweise erfuellt (Zehner-Position, kein zentraler 9er). Wackel wegen Rotationsrisiko vor CL. 0.5% = 5EUR."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-21-bmg-bvb",
-      "liga": "Bundesliga 2026/27 - 10. Spieltag",
-      "heim": "Borussia Moenchengladbach",
-      "gast": "Borussia Dortmund",
-      "anstoss": "2026-11-21T15:30:00+01:00",
-      "stadion": "Borussia-Park, Moenchengladbach",
-      "saison_kontext": {
-        "parallel_heim": "keine - Gladbach nicht im Europapokal, DFB-Pokal 2.R bereits raus",
-        "parallel_gast": "CL-Ligaphase MD5 Dienstag 25.11.2026 (Dortmund @ Villarreal laut UEFA-Spielplan) - 4 Tage Recovery, Kovac rotiert moderat",
-        "saisonziel_heim": "Platz Mittelfeld - Gladbach kaempft nach schwachem Saisonstart um Anschluss ans Mittelfeld, keine Europa-Perspektive",
-        "saisonziel_gast": "Vize-Lock + CL-Quali - Dortmund laut SI/Preview-Quellen Platz 2 BL mit 21 Pkt vor der Pause, 6S-3U-1N (einzige Niederlage 31.10. in Muenchen bei Bayern 0:2)",
-        "motivations_asymmetrie": "Dortmund klarer Auswaerts-Favorit (~1.75-1.85 laut Preview-Quellen): Qualitaets-Edge + Guirassy-Form + H2H-Statistik (6S aus 10 H2H laut bvb-spielplan.de). Gladbach ohne Topstuermer, Volumen-Flanke, aber mit Heim-Druck. CL-Rotation Dortmund moglich aber bei Guirassy unwahrscheinlich.",
-        "recovery_heim": "14 Tage Pause nach letztem BL-Spiel (Laenderspielpause) - frisch, aber Nationalspieler erst Mitte Woche zurueck",
-        "recovery_gast": "14 Tage Pause, Nationalspieler-Belastung Schlotterbeck/Brandt/Beier/Guirassy - Trainingsintensitaet Donnerstag/Freitag",
-        "quellen": [
-          "https://www.bundesliga.com/de/bundesliga/spieltag/2026-2027/10",
-          "https://www.kicker.de/borussia-dortmund/kader",
-          "https://www.uefa.com/uefachampionsleague/",
-          "https://bvb-spielplan.de/",
-          "https://www.sport.de/sportwetten/tipps/borussia-moenchengladbach-vs-borussia-dortmund-wett-tipp-21-11-2026/"
-        ]
-      },
-      "news": [
-        "Bundesliga 10. Spieltag Samstag 15:30 Borussia-Park - erstes BVB-Spiel nach Laenderspielpause",
-        "Dortmund laut Preview Platz 2 BL (21 Pkt vor 10. Spieltag), 6S-3U-1N - einzige Niederlage 0:2 bei Bayern 31.10.",
-        "Guirassy BL-Torschuetzen-Spitze fuer BVB (volumen-9er) - HR24-Form-Edge erfuellt",
-        "BVB-Startelf-Trend 2026/27 laut ligainsider: Kobel - Reggiani, Anton, N. Schlotterbeck - Ryerson, Sabitzer, Jobe, Beier - Brandt, Inacio - Guirassy",
-        "Gladbach-Offensive 2026/27 ohne konstanten Topstuermer, Volumen-Flanken (Honorat/Ngoumou)",
-        "CL MD5 Dienstag 25.11. @ Villarreal - BVB-Rotation moglich aber Guirassy spielt",
-        "2:0-Insurance bet365 DE aktiv (Bundesliga-Aktion)",
-        "Dortmund H2H gegen Gladbach 6S aus letzten 10 Begegnungen (bvb-spielplan.de)"
-      ],
-      "tipps": [
-        {
-          "id": "bmg-bvb-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance Dortmund oder Remis (X2)",
-          "quote": 1.25,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.2,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "DC X2 fuer BVB in auswaerts Topspiel - Dortmund Qualitaets-Edge + H2H-Dominanz (6S aus 10). Markt-Goldgrube: DC X2 (85.2% Hit / +34.3% ROI, 28 Tipps). 2:0-Insurance greift zusaetzlich bei direktem Sieg-Tipp - DC noch sicherer. 1.5% = 15EUR."
-        },
-        {
-          "id": "bmg-bvb-2",
-          "kategorie": "wackel",
-          "markt": "Guirassy Torschuetze jederzeit",
-          "quote": 1.9,
-          "edge_prozent": 6.0,
-          "faire_quote": 1.78,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Guirassy zentraler 9er mit Backup-Qualitaet (Beier/Inacio als Einwechsel - Einwechslungs-Boost aktiv). HR24-Form-Edge historisch erfuellt. Markt-Goldgrube Torschuetzen Jederzeit. Gladbach-IV ohne absolute Topqualitaet. 1.5% = 15EUR. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
-          "_torschuetze_quelle_warn": true
-        },
-        {
-          "id": "bmg-bvb-3",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.65,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.57,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Gladbach trifft zu Hause ueblich ein Mal selbst gegen Topteams, BVB-Offensive traefe eh. Markt-Goldgrube BTTS JA (69.2% Hit / +44.5% ROI). 1.5% = 15EUR."
-        },
-        {
-          "id": "bmg-bvb-4",
-          "kategorie": "wackel",
-          "markt": "Brandt Torschuetze jederzeit",
-          "quote": 3.6,
-          "edge_prozent": 7.0,
-          "faire_quote": 3.3,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Brandt als Zehner oft torgefaehrlich, aber Rotationsrisiko vor CL. HR24 teilweise erfuellt. Wackel. 0.5% = 5EUR."
-        },
-        {
-          "id": "bmg-bvb-5",
-          "kategorie": "moonshot",
-          "markt": "Guirassy 2+ Tore",
-          "quote": 4.2,
-          "edge_prozent": 5.0,
-          "faire_quote": 4.0,
-          "empfohlener_einsatz_prozent": 0.1,
-          "begruendung": "Guirassy Doppelpack als Spass-Tipp - er traegt BVB-Offensive. Kleiner Einsatz. 0.1% = 1EUR."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-21-ubr-rbl",
-      "liga": "Bundesliga 2026/27 - 10. Spieltag",
-      "heim": "1. FC Union Berlin",
-      "gast": "RB Leipzig",
-      "anstoss": "2026-11-21T15:30:00+01:00",
-      "stadion": "Stadion An der Alten Foersterei, Berlin",
-      "saison_kontext": {
-        "parallel_heim": "keine - Union nicht im Europapokal, Pokal raus",
-        "parallel_gast": "keine - RB Leipzig in dieser Saison 2026/27 NICHT im Europapokal (verpasste Quali im Vorjahr), Pokal 2.R schon durch",
-        "saisonziel_heim": "Klassenerhalt + Mittelfeld-Attacke - Union kaempft wieder um Stabilitaet im Mittelfeld",
-        "saisonziel_gast": "Rueckkehr in CL-Zone - RB Leipzig unter neuem Trainer Demichelis (laut kader_wechsel_2026.json) in Aufbauphase, aktuell Mittelfeld",
-        "motivations_asymmetrie": "Beide Teams ohne Europa-Doppelbelastung, kein Favoriten-Klassen-Edge - eher Coinflip oder leichter Leipzig-Edge (laut Kaderwert). Union-Heim-Staerke traditionell stark aber in 26/27 schwaecher als in Hochphase. Kein SAFE-Spiel.",
-        "recovery_heim": "14 Tage Pause (Laenderspielpause) - frisch",
-        "recovery_gast": "14 Tage Pause - frisch, kein UEFA-Rythmus",
-        "quellen": [
-          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
-          "https://schalke04.de/teams/profis/spielplaene/season-2026-2027-bundesliga-10-spieltag/",
-          "https://www.hessenschau.de/sport/ergebnisse-tabellen/fussball-1bl100~_matchday-10.html"
-        ]
-      },
-      "news": [
-        "Bundesliga 10. Spieltag Samstag 15:30 Alte Foersterei",
-        "Union-Heim-Staerke historisch Faktor aber in 26/27 abgeschwaecht",
-        "Leipzig neuer Trainer Demichelis (Werner raus im Sommer 2026) - Taktikwechsel noch in Phase",
-        "Kein Europa-Rotations-Druck auf beiden Seiten",
-        "Yan Diomande zu Real Madrid gewechselt (125M Sommer 2026) - nicht mehr Leipzig-Option",
-        "2:0-Insurance bet365 DE aktiv (BL)"
-      ],
-      "tipps": [
-        {
-          "id": "ubr-rbl-1",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.75,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.68,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Union zu Hause meist offensiv-vorwaerts + Leipzig offensiv staerker als Defensive. Markt-Goldgrube BTTS JA (69.2% Hit / +44.5% ROI). 1.5% = 15EUR."
-        },
-        {
-          "id": "ubr-rbl-2",
-          "kategorie": "wackel",
-          "markt": "Doppelte Chance Leipzig oder Remis (X2)",
-          "quote": 1.4,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.36,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Coinflip-Spiel - Leipzig Kader-Wert hoeher aber Union-Heim-Staerke. DC X2 sichert den Punkt. Markt-Goldgrube DC X2. Wackel wegen fehlendem Klassen-Edge. 0.5% = 5EUR."
-        },
-        {
-          "id": "ubr-rbl-3",
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.95,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.9,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Markt-Goldgrube Ueber 2.5 Tore, beide Teams offensiv aktivity-stark. Aber Union defensiv diszipliniert als Fallschirm. 0.5% = 5EUR."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-21-nic-psg",
-      "liga": "Ligue 1 2026/27 - 11. Spieltag",
-      "heim": "OGC Nice",
-      "gast": "Paris Saint-Germain",
-      "anstoss": "2026-11-21T17:15:00+01:00",
-      "stadion": "Allianz Riviera, Nice",
-      "saison_kontext": {
-        "parallel_heim": "keine - Nice nicht mehr in Europa (Conference-Quali verpasst, Coupe erst Januar)",
-        "parallel_gast": "CL-Ligaphase MD5 Dienstag 25.11.2026 @ PSG laut UEFA-Spielplan - 4 Tage Recovery, Luis Enrique rotiert in Ligue 1 moderat",
-        "saisonziel_heim": "Europa-Wiedereinstieg (EL/Conference) - Nice mit Verletzten (Mendy, Abergel, Bombito laut 90min)",
-        "saisonziel_gast": "Ligue-1-Titel + CL-Quali-Platz - PSG klarer Titel-Favorit, Pressing-Taktik",
-        "motivations_asymmetrie": "PSG klarer Auswaerts-Favorit (~1.34 laut ruedesjoueurs - Preview - 69% Sieg-Wahrscheinlichkeit): Qualitaets-Edge + H2H (4:0 Sieg PSG @ Nice im Maerz 2026 laut mediapronos). Nice verletzt + ohne Topstuermer. CL-Rotation PSG moglich aber Pressing-Achse bleibt.",
-        "recovery_heim": "14 Tage Pause (Laenderspielpause)",
-        "recovery_gast": "14 Tage Pause, PSG-Nationalspieler Mitte Woche zurueck (Hakimi/Fabian/Doue)",
-        "quellen": [
-          "https://footballwhispers.com/fr/blog/pronostic-nice-psg-21-11-2026/",
-          "https://www.ruedesjoueurs.com/pronostic/nice-paris-saint-germain-2241668.html",
-          "https://oddslot.com/fr/football/match/ligue-1/nice/paris-saint-germain/21-nov-2026/",
-          "https://www.uefa.com/uefachampionsleague/"
-        ]
-      },
-      "news": [
-        "Ligue 1 11. Spieltag Samstag 17:15 Allianz Riviera",
-        "PSG laut Preview ~69% Sieg-Wahrscheinlichkeit (1.34 Quote) - klarer Favorit",
-        "Nice-Verletzte: Mendy, Abergel, Bombito OUT (90min-Preview)",
-        "PSG letzte Begegnung in Nice 4:0 (Maerz 2026, mediapronos)",
-        "CL MD5 Dienstag - PSG-Rotation moglich aber nicht in Topspiel",
-        "2:0-Insurance bet365 DE NICHT gueltig fuer Ligue 1 - nur BL/CL"
-      ],
-      "tipps": [
-        {
-          "id": "nic-psg-1",
           "kategorie": "safe",
-          "markt": "Doppelte Chance PSG oder Remis (X2)",
-          "quote": 1.1,
-          "edge_prozent": 2.0,
-          "faire_quote": 1.08,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "DC X2 mit Topspiel Preview ~90% Trefferwahrscheinlichkeit - PSG Qualitaets-Edge + Nice-Verletztenwelle. Markt-Goldgrube DC X2. 2:0-Insurance greift NICHT (Ligue 1). 1.5% = 15EUR."
-        },
-        {
-          "id": "nic-psg-2",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.55,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.48,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "PSG-Pressing produziert Chancen-Volumen, Nice mit duenner Defense nach Verletzungen. Historisch 4:0 im Vorrueckspiel. Markt-Goldgrube Ueber 2.5 Tore. 1.5% = 15EUR."
-        },
-        {
-          "id": "nic-psg-3",
-          "kategorie": "wackel",
-          "markt": "Doue Torschuetze jederzeit",
-          "quote": 2.5,
-          "edge_prozent": 5.0,
-          "faire_quote": 2.38,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Doue aktueller PSG-Fluegelstuermer mit Trefferfrequenz 2026/27 (Form-Edge laut Preview-Quellen). HR24 teilweise erfuellt. Rotations-Risiko vor CL = Wackel. 0.5% = 5EUR."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-21-sev-rbe",
-      "liga": "LaLiga EA Sports 2026/27 - Jornada 13",
-      "heim": "Sevilla FC",
-      "gast": "Real Betis",
-      "anstoss": "2026-11-21T18:30:00+01:00",
-      "stadion": "Ramon Sanchez-Pizjuan, Sevilla",
-      "saison_kontext": {
-        "parallel_heim": "keine - Sevilla aktuell nicht in Europa, Copa del Rey erst im Dezember",
-        "parallel_gast": "Conference League MD5 Donnerstag 26.11.2026 (Betis laut UEFA-Spielplan) - 5 Tage Recovery, Rotation moeglich",
-        "saisonziel_heim": "Mittelfeld/Europa-Quali - Sevilla nach Abstiegskampf 25/26 jetzt stabilisiert",
-        "saisonziel_gast": "CL-Quali / Europa - Betis traditionell Europa-Stamm, aktuell knapp hinter Top-4 laut Tabelle",
-        "motivations_asymmetrie": "Derbi - keine klare Favoriten-Linie laut Preview (Gidstats: 32% Sevilla / 26.7% Draw / 41.3% Betis). Betis mit leichtem Edge aber Derbi-Chaos macht Sieg-SAFE unseriös. KEIN SAFE in diesem Spiel - Coinflip-Match. BTTS + Tor-Total als defensive Alternative.",
-        "recovery_heim": "14 Tage Pause (Laenderspielpause)",
-        "recovery_gast": "14 Tage Pause + Conference MD5 kommt erst Donnerstag - noch Entlastung, aber Rotation Blick Richtung CL",
-        "quellen": [
-          "https://gidstats.com/es/futbol/la-liga/2026-11-21-1570462-sevilla-real-betis/",
-          "https://www.livetipsportal.com/es/pronosticos-apuestas-deportivas/sevilla-fc-vs-betis-la-liga-12188167/",
-          "https://oddslot.com/es/futbol/partido/la-liga/sevilla/real-betis/21-nov-2026/",
-          "https://www.uefa.com/uefaconferenceleague/"
-        ]
-      },
-      "news": [
-        "LaLiga Jornada 13 Samstag 18:30 Ramon Sanchez-Pizjuan - Derbi de Sevilla (Andalusien-Derbi)",
-        "Preview-Quoten laut livetipsportal: 3.11 Sevilla / 3.70 Draw / 2.36 Betis - Betis leichter Favorit",
-        "Betis Conference League MD5 Donnerstag - leichte Rotation wahrscheinlich",
-        "Gidstats-Fair-Line: 32% Sevilla / 26.7% Remis / 41.3% Betis",
-        "Oddslot: DC X2 @ 1.36, Ueber 1.5 Tore @ 1.22",
-        "Derbi typisch chaotisch, Karten-Serie - aber Karten-Markt in DE verboten",
-        "2:0-Insurance bet365 DE NICHT gueltig fuer LaLiga - nur BL/CL"
-      ],
-      "tipps": [
-        {
-          "id": "sev-rbe-1",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.75,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.66,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Derbi mit Druck beider Seiten - BTTS historisch >70% in Sevilla-Betis-Begegnungen. Markt-Goldgrube BTTS JA (69.2% Hit / +44.5% ROI). Beide Teams offensiv aktiv. 1.5% = 15EUR."
-        },
-        {
-          "id": "sev-rbe-2",
-          "kategorie": "wackel",
-          "markt": "Doppelte Chance Betis oder Remis (X2)",
-          "quote": 1.36,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.32,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Betis leichter Favorit (gidstats 41.3%), DC X2 fuer Bankabsicherung. Markt-Goldgrube DC X2 aber Coinflip-Match = Wackel. 0.5% = 5EUR."
-        },
-        {
-          "id": "sev-rbe-3",
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.95,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.9,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Derbi-Chaos + BTTS-Tendenz = Tor-Total steigt. Markt-Goldgrube Ueber 2.5 Tore. Aber Derbis manchmal 1:0/2:1 defensiv - Wackel. 0.5% = 5EUR."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-21-new-ars",
-      "liga": "Premier League 2026/27 - Matchweek 11",
-      "heim": "Newcastle United",
-      "gast": "Arsenal FC",
-      "anstoss": "2026-11-21T18:30:00+01:00",
-      "stadion": "St James' Park, Newcastle upon Tyne",
-      "saison_kontext": {
-        "parallel_heim": "CL-Ligaphase MD5 Dienstag 24.11.2026 (Newcastle laut UEFA-Spielplan) - 3 Tage Recovery, Howe rotiert vor CL",
-        "parallel_gast": "CL-Ligaphase MD5 Mittwoch 25.11.2026 (Arsenal laut UEFA-Spielplan) - 4 Tage Recovery, Arteta rotiert moderat",
-        "saisonziel_heim": "Europa-Quali / Top-6 - Newcastle Aufbauphase nach CL-Rueckkehr",
-        "saisonziel_gast": "PL-Titel-Favorit + CL-Titel - Arsenal aktuell laut Preview Platz 2 PL, Topspiel-Routinier",
-        "motivations_asymmetrie": "Arsenal klarer Auswaerts-Favorit laut Preview-Historie, aber St James' Park schwierig. Newcastle CL-Doppelbelastung Dienstag - noch nicht nach Spiel, aber Blick darauf. Howe typisch tiefer Block gegen Big-6. Kein SAFE-Match - Topspiel beidseitig.",
-        "recovery_heim": "14 Tage Pause (Laenderspielpause)",
-        "recovery_gast": "14 Tage Pause + CL Mittwoch - Rotation moglich, aber nicht Saka/Odegaard",
-        "quellen": [
-          "https://www.premierleague.com/",
-          "https://www.transfermarkt.com/arsenal-fc/startseite/verein/11",
-          "https://www.uefa.com/uefachampionsleague/",
-          "https://www.newcastleunited.com/en/matches/U21/newcastle-united-v-arsenal-english-premier-league-20261121",
-          "https://www.si.com/soccer/arsenal-vs-newcastle-preview-predictions-lineups-4-25-26"
-        ]
-      },
-      "news": [
-        "Premier League Matchweek 11 Samstag 17:30 UK (18:30 Berlin) St James Park",
-        "Arsenal laut aktueller Preview Top-2 PL - Topspiel-Routinier",
-        "Howe-Newcastle 4-3-3-Block, tiefstehend gegen Big-6",
-        "Beide Teams CL MD5 in dieser Woche - Rotations-Risiko fuer Doppel-Stammspieler",
-        "H2H historisch Arsenal leichte Vorteil, aber St James Park schwierig",
-        "2:0-Insurance bet365 DE NICHT gueltig fuer Premier League"
-      ],
-      "tipps": [
-        {
-          "id": "new-ars-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance Arsenal oder Remis (X2)",
-          "quote": 1.45,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.39,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Arsenal Qualitaets-Edge + Form 2026/27. DC X2 sichert Punkt bei Topspiel. Markt-Goldgrube DC X2 (85.2% / +34.3%). 1.5% = 15EUR."
-        },
-        {
-          "id": "new-ars-2",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.65,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.58,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Newcastle Isak-Form (bzw. aktuell Woltemade laut Saison-Transfer) + Arsenal Saka/Odegaard immer gefaehrlich. Markt-Goldgrube BTTS JA. 1.5% = 15EUR."
-        },
-        {
-          "id": "new-ars-3",
-          "kategorie": "wackel",
-          "markt": "Saka Torschuetze jederzeit",
-          "quote": 3.0,
-          "edge_prozent": 5.0,
-          "faire_quote": 2.85,
-          "empfohlener_einsatz_prozent": 0.5,
-          "begruendung": "Saka Arsenal-Fluegelstuermer, HR24 bedingt erfuellt. Rotations-Risiko vor CL macht es Wackel. 0.5% = 5EUR."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-21-nap-tor",
-      "liga": "Serie A 2026/27 - Giornata 12",
-      "heim": "SSC Napoli",
-      "gast": "Torino FC",
-      "anstoss": "2026-11-21T20:45:00+01:00",
-      "stadion": "Stadio Diego Armando Maradona, Napoli",
-      "saison_kontext": {
-        "parallel_heim": "CL-Ligaphase MD5 Mittwoch 25.11.2026 (Napoli laut UEFA-Spielplan) - 4 Tage Recovery, Conte rotiert moderat",
-        "parallel_gast": "keine - Torino nicht in Europa",
-        "saisonziel_heim": "Scudetto-Kandidat + CL-Quali - Napoli vor 12.g laut footballwhispers 15 Pkt, aktuell Top-4",
-        "saisonziel_gast": "Mittelfeld - Torino laut footballwhispers 14 Pkt vor 12.g, kampf um Europa-Zone",
-        "motivations_asymmetrie": "Napoli Heim-Favorit (1.49 Preview-Quote laut livetipsportal), aber nur 1 Pkt Vorsprung auf Torino in der Tabelle - kein Klassen-Abgrund. Torino H2H in Napoli historisch nur 1 Sieg in 30+ Jahren (tuttomercatoweb). Napoli-CL-Belastung relativ niedrig vor Mittwoch.",
-        "recovery_heim": "14 Tage Pause + CL Mittwoch - CL noch nicht unmittelbar, voll auf Liga fokussiert",
-        "recovery_gast": "14 Tage Pause, frisch",
-        "quellen": [
-          "https://www.livetipsportal.com/it/pronostici-scommesse-sportive/napoli-vs-torino-serie-a-12131164/",
-          "https://footballwhispers.com/blog/napoli-vs-torino-prediction-21-11-2026/",
-          "https://www.fantamaster.it/probabili-formazioni-napoli-torino-seriea-2026-2027-notizie-fantacalcio/",
-          "https://www.uefa.com/uefachampionsleague/"
-        ]
-      },
-      "news": [
-        "Serie A Giornata 12 Samstag 20:45 Maradona - Topspiel des Serie-A-Samstags",
-        "Napoli 15 Pkt vor der Runde (footballwhispers), Torino 14 Pkt - nur 1 Pkt Trennung",
-        "Preview-Quoten livetipsportal: 1.49 Napoli / 4.65 Draw / 6.50 Torino (Bet365 Zitat)",
-        "H2H historisch: Nur 1 Torino-Heimsieg in Napoli in 30+ Jahren (tuttomercatoweb)",
-        "CL MD5 Mittwoch 25.11. Napoli @ Benfica (UEFA) - Rotation moglich aber Lukaku + Kvara Startelf",
-        "2:0-Insurance bet365 DE NICHT gueltig fuer Serie A"
-      ],
-      "tipps": [
-        {
-          "id": "nap-tor-1",
-          "kategorie": "safe",
-          "markt": "Doppelte Chance Napoli oder Remis (1X)",
-          "quote": 1.2,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.17,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "DC 1X mit H2H-Dominanz (nur 1 Torino-Heimsieg in Napoli in 30+ J laut tuttomercatoweb) + Napoli Heim-Favorit (1.49). Markt-Goldgrube DC 1X (75% Hit / +46.8% ROI). 1.5% = 15EUR."
-        },
-        {
-          "id": "nap-tor-2",
-          "kategorie": "value",
-          "markt": "Sieg Napoli (90 Min)",
-          "quote": 1.49,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.42,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Sieg-Markt-Goldgrube (64.1% / +27.7%). Napoli Heim gegen Torino historisch stark. Preview-Quote 1.49 passt. 1.5% = 15EUR."
-        },
-        {
-          "id": "nap-tor-3",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.75,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.7,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Napoli Heim-Offensive McTominay/Lukaku/Kvara + Torino offen - Markt-Goldgrube Ueber 2.5 Tore. 1.5% = 15EUR."
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-21-rma-cel",
-      "liga": "LaLiga EA Sports 2026/27 - Jornada 13",
-      "heim": "Real Madrid",
-      "gast": "Celta Vigo",
-      "anstoss": "2026-11-21T21:00:00+01:00",
-      "stadion": "Santiago Bernabeu, Madrid",
-      "saison_kontext": {
-        "parallel_heim": "CL-Ligaphase MD5 Mittwoch 25.11.2026 (Real Madrid laut UEFA-Spielplan) - 4 Tage Recovery, Xabi Alonso rotiert selektiv",
-        "parallel_gast": "keine - Celta aktuell nicht in Europa",
-        "saisonziel_heim": "LaLiga-Titel + CL-Titel - Real Madrid aktuell Top-Position nach 12 Spielen",
-        "saisonziel_gast": "Mittelfeld - Celta kampf um Top-10/Europa-Quali, nach Iago Aspas Abgang 2026 (Transferliste beachtet) im Aufbau",
-        "motivations_asymmetrie": "Real Madrid klarer Heim-Favorit (Sieg-Heim ublicherweise <1.40 im Bernabeu gegen Celta). Yamal/Vinicius/Mbappe-Achse + Bernabeu-Heimstark. Celta trifft ublich ein Mal. 2:0-Insurance greift NICHT (nur BL/CL).",
-        "recovery_heim": "14 Tage Pause + CL Mittwoch - moderate Rotation moglich",
-        "recovery_gast": "14 Tage Pause (Laenderspielpause) - frisch, aber Kader-Tiefe begrenzt",
-        "quellen": [
-          "https://www.laliga.com/es-ES/laliga-easports",
-          "https://www.transfermarkt.de/real-madrid/kader/verein/418",
-          "https://www.realmadrid.com/es-ES/noticias/futbol/primer-equipo/actualidad/el-real-madrid-celta-se-jugara-el-sabado-21-de-noviembre-a-las-21-00-horas-21-10-2026",
-          "https://es.soccerway.com/noticias/futbol-laliga-ea-sports-horarios-y-canales-de-tv-de-la-jornada-13-de-laliga/SpbVHbvJ",
-          "https://www.uefa.com/uefachampionsleague/"
-        ]
-      },
-      "news": [
-        "LaLiga Jornada 13 Samstag 21:00 Bernabeu - Topspiel des LaLiga-Samstags",
-        "Real Madrid klarer Heim-Favorit, CL MD5 Mittwoch - leichte Rotation moglich",
-        "Diomande Neuzugang seit Sommer (125M von Leipzig) - Fluegel-Option oder Einwechslung",
-        "Adeyemi (Barcelona seit 24.07.2026 laut kader_wechsel_2026.json) - NICHT als Madrid-Spieler!",
-        "Celta Kaderwert deutlich hinter Real - 1X2 ~1.30-1.40 / 4.50 / 8.0",
-        "2:0-Insurance bet365 DE NICHT gueltig fuer LaLiga"
-      ],
-      "tipps": [
-        {
-          "id": "rma-cel-1",
-          "kategorie": "safe",
-          "markt": "Doppelte Chance Real Madrid oder Remis (1X)",
+          "markt_typ": "Doppelte Chance 1X",
+          "markt": "Barcelona oder Remis (Doppelte Chance 1X)",
           "quote": 1.08,
-          "edge_prozent": 2.0,
-          "faire_quote": 1.06,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "DC 1X mit klarem Qualitaets-Edge im Bernabeu. Markt-Goldgrube DC 1X (75% / +46.8%). Niedrige Quote aber sehr sicher. 1.5% = 15EUR."
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Barca Heim-Favorit auf 1-Pkt-Marge-Druck, Villarreal auswaerts noch kein Sieg beim Tabellenfuehrer seit 2017/18. Goldgrube DC 1X (75 % Hitrate / +46,8 % ROI). Stufe-1-Einsatz 2 % Kasse = 20 EUR.",
+          "id": "bar-vil-1",
+          "faire_quote": 1.08
         },
         {
-          "id": "rma-cel-2",
           "kategorie": "value",
-          "markt": "Sieg Real Madrid (90 Min)",
-          "quote": 1.35,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.31,
+          "markt_typ": "Sieg (1X2 / ML)",
+          "markt": "Sieg Barcelona (90 Min)",
+          "quote": 1.33,
           "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Real Madrid Heim-Favorit gegen Celta historisch dominant. Sieg-Markt-Goldgrube (64.1% / +27.7%) + Liga-Goldgrube LaLiga Jornadas 2026/27. 1.5% = 15EUR."
+          "einsatz_euro": 15.0,
+          "begruendung": "Form-Barca (12 Spiele, 33 Pkt) gegen Mittelfeld-Villarreal. SI-Prediction 3:1. Keine 2:0-Insurance (nur BL + CL). Bei bet365 live pruefen.",
+          "id": "bar-vil-2",
+          "faire_quote": 1.33
         },
         {
-          "id": "rma-cel-3",
           "kategorie": "value",
+          "markt_typ": "Ueber 2.5 Tore",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.55,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.48,
           "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Real Madrid Heim-Offensive Yamal/Vinicius/Mbappe - Tor-Volumen hoch. Celta trifft meist 1x. Markt-Goldgrube Ueber 2.5 Tore. 1.5% = 15EUR."
+          "einsatz_euro": 15.0,
+          "begruendung": "Barca unter Flick 2,8 Tore/Spiel (Record 100 Siege), Villarreal offen-offen. Goldgrube Ueber 2,5 (ROI +22 %).",
+          "id": "bar-vil-3",
+          "faire_quote": 1.55
         },
         {
-          "id": "rma-cel-4",
           "kategorie": "wackel",
-          "markt": "Mbappe Torschuetze jederzeit",
-          "quote": 1.65,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.57,
-          "empfohlener_einsatz_prozent": 1.5,
-          "begruendung": "Mbappe zentraler 9er + Backup-Qualitaet - Einwechslungs-Boost aktiv. HR24-Form-Edge erfuellt (LaLiga-Top-Torschuetze 2025/26). Markt-Goldgrube Torschuetzen Jederzeit. 1.5% = 15EUR. [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
-          "_torschuetze_quelle_warn": true
+          "markt_typ": "Torschuetzen Jederzeit",
+          "markt": "Raphinha Torschuetze jederzeit",
+          "quote": 2.4,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Raphinha nach Rodri-Ausfall mehr zentrale Freiheit, Linie 3 Tore in 5 Liga-Spielen. Volume-Flankenangreifer der Lewandowski ggf. ersetzt. Einwechslungs-Boost-Pflicht bei Auswechslung beachten.",
+          "id": "bar-vil-4",
+          "faire_quote": 2.4
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-22-hul-bri",
+      "liga": "Premier League",
+      "runde": "Matchday 11",
+      "heim": "Hull City",
+      "gast": "Brighton & Hove Albion",
+      "anstoss": "2026-11-22T15:00:00+01:00",
+      "stadion": "MKM Stadium, Hull",
+      "trainer_heim": "Sergej Jakirović",
+      "trainer_gast": "Fabian Hürzeler",
+      "tabelle": {
+        "heim_platz": 13,
+        "heim_pkt": 11,
+        "gast_platz": 2,
+        "gast_pkt": 22
+      },
+      "saison_kontext": {
+        "parallel_heim": "keine - kein Europapokal 2026/27",
+        "parallel_gast": "Conference-League-Ligaphase MD5 am 26.11. (kein Topkaliber)",
+        "saisonziel_heim": "Platz 13 (11 Pkt) Aufsteiger, Klassenerhalt ueber Heimspiele",
+        "saisonziel_gast": "Platz 2 (22 Pkt, +19 TD) CL-Quali-Mission - Top 4",
+        "motivations_asymmetrie": "Brighton auswaerts bislang ein Tor-am-Ende reicht ihnen (City-Sieg 1:0). Hull 4 Spiele ohne Sieg (L D D L), Heim-Druck aber duenne Luft gegen Spitze. Edge Auswaerts.",
+        "recovery_heim": "6 Tage seit 0:1 bei Fulham - keine Doppelbelastung, aber Ergebnis-Serie belastend",
+        "recovery_gast": "6 Tage seit Liga-Sieg, EC am Donnerstag zuletzt bequem - kaum Rotation erwartet",
+        "quellen": [
+          "https://sportnewsafrica.com/en/news/premier-league-fixtures-weekend-schedule-and-kick-off-times-21-23-november-2026/",
+          "https://www.squawka.com/en/?p=1521083",
+          "https://onsidearena.com/match/hull-city-vs-brighton-gw11-106"
+        ]
+      },
+      "news": [
+        "Brighton 2. mit 22 Pkt und +19 TD - staerkste Defensive der Liga.",
+        "Hull ohne Sieg seit 4 Spielen (Form L D D L).",
+        "Hull-Ausfaelle: Matazo, Targett, Ansah, Morita (alle verletzt), Crooks gesperrt.",
+        "Squawka-Prognose 0:1 Brighton, Onside 58 % Brighton-Sieg."
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Doppelte Chance X2",
+          "markt": "Brighton oder Remis (Doppelte Chance X2)",
+          "quote": 1.2,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Brighton hoechste Formkurve, Hull verletzungsgeplagt. Goldgrube DC X2 (85 % Hitrate / +34 % ROI) - staerkster Markt im System. Stufe-1-Einsatz 2 % = 20 EUR.",
+          "id": "hul-bri-1",
+          "faire_quote": 1.2
         },
         {
-          "id": "rma-cel-5",
-          "kategorie": "moonshot",
-          "markt": "Mbappe 2+ Tore",
-          "quote": 3.75,
-          "edge_prozent": 4.0,
-          "faire_quote": 3.6,
-          "empfohlener_einsatz_prozent": 0.1,
-          "begruendung": "Mbappe Doppelpack als Spass-Tipp - Form-Edge. Kleiner Einsatz. 0.1% = 1EUR."
+          "kategorie": "wackel",
+          "markt_typ": "Sieg (1X2 / ML)",
+          "markt": "Sieg Brighton (90 Min)",
+          "quote": 1.7,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Tabellen-Spread 11 Pkt, Brightons +19 TD vs Hulls -8 TD (geschaetzt). Bei bet365 live pruefen.",
+          "id": "hul-bri-2",
+          "faire_quote": 1.7
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Unter 2.5 Tore",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.95,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Squawka 0:1-Prognose, Brighton kontrolliert tief - 1 Tor reicht fuer sie oft. Goldgrube Unter 2,5 (+40,9 % ROI).",
+          "id": "hul-bri-3",
+          "faire_quote": 1.95
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "markt": "Danny Welbeck Torschuetze jederzeit",
+          "quote": 3.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Welbeck Brighton-Volumen-9er, Hull-Abwehr dezimiert (Ansah out). Verifikation ueber Sportsmole-Vorschau. Einwechslungs-Boost-Pflicht beachten.",
+          "id": "hul-bri-4",
+          "faire_quote": 3.0
+        }
+      ],
+      "kontext_check_status": "WARN_QUELLE"
+    },
+    {
+      "id": "2026-11-22-aug-m05",
+      "liga": "Bundesliga",
+      "runde": "10. Spieltag",
+      "heim": "FC Augsburg",
+      "gast": "1. FSV Mainz 05",
+      "anstoss": "2026-11-22T15:30:00+01:00",
+      "stadion": "WWK Arena, Augsburg",
+      "trainer_heim": "Sandro Wagner",
+      "trainer_gast": "Bo Henriksen",
+      "tabelle": {
+        "heim_platz": 15,
+        "heim_pkt": 9,
+        "gast_platz": 10,
+        "gast_pkt": 12
+      },
+      "saison_kontext": {
+        "parallel_heim": "keine - kein Europapokal 2026/27",
+        "parallel_gast": "Conference-League-Ligaphase MD5 am 26.11. - leichte Rotations-Option",
+        "saisonziel_heim": "Platz 15 (9 Pkt) - Klassenerhalt-Zone, starker Druck",
+        "saisonziel_gast": "Platz 10 (12 Pkt) - Mittelfeld, Conference-Lauf primaer",
+        "motivations_asymmetrie": "Augsburg im Klassenerhalt-Modus - Punkte-Gier zu Hause. Mainz 4/6 Auswaertssiege diese Saison + CL-Woche am Donnerstag -> rotiert vermutlich leicht. Coinflip mit leichtem Heim-Edge, aber kein SAFE.",
+        "recovery_heim": "6 Tage seit Liga-Spiel + Laenderspielpause - frisch",
+        "recovery_gast": "6 Tage seit Liga-Spiel - normal",
+        "quellen": [
+          "https://www.wettbasis.com/sportwetten-tipps/augsburg-vs-mainz-tipp-ki-prognose-quoten-22-11-2026",
+          "https://www.buli-tipphilfe.de/sportwetten-tipps/augsburg-mainz-wett-tipp-prognose-bundesliga-2026-27",
+          "https://www.sportsmole.co.uk/football/augsburg/preview/augsburg-vs-mainz-prediction-team-news-lineups_609502.html"
+        ]
+      },
+      "news": [
+        "Augsburg-Ausfaelle: Massengo, Matsima, Banks (Baender).",
+        "Mainz: nur Kohr (Sprunggelenk bis Januar) raus.",
+        "Mainz 4 Siege aus 6 Auswaertspartien 2026/27.",
+        "Whispers Prognose 2:2 (BTTS beide treffen) @ 1,36."
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Beide Teams treffen JA",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.65,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Beide Defensiven loechrig (Augsburg 15. / Mainz 10.), beide treffen zuverlaessig. Goldgrube BTTS-JA (+44,5 % ROI). Whispers tippt 2:2.",
+          "id": "aug-m05-1",
+          "faire_quote": 1.65
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Doppelte Chance X2",
+          "markt": "Mainz oder Remis (Doppelte Chance X2)",
+          "quote": 1.5,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Mainz staerkere Auswaertsquote diese Saison (4/6 Siege). Interwetten 2,40 auf Mainz-Sieg - DC X2 als Hedge. Coinflip-Spiel bewusst als Wackel.",
+          "id": "aug-m05-2",
+          "faire_quote": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "markt": "Jonathan Burkardt Torschuetze jederzeit",
+          "quote": 3.2,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Burkardt Mainz-Volume-9er, Augsburg-Abwehr dezimiert (Matsima + Banks out). Einwechslungs-Boost-Pflicht beachten.",
+          "id": "aug-m05-3",
+          "faire_quote": 3.2
+        }
+      ],
+      "kontext_check_status": "WARN_QUELLE"
+    },
+    {
+      "id": "2026-11-22-liv-mun",
+      "liga": "Premier League",
+      "runde": "Matchday 11",
+      "heim": "Liverpool FC",
+      "gast": "Manchester United",
+      "anstoss": "2026-11-22T17:30:00+01:00",
+      "stadion": "Anfield, Liverpool",
+      "trainer_heim": "Andoni Iraola",
+      "trainer_gast": "Ruben Amorim",
+      "tabelle": {
+        "heim_platz": 4,
+        "heim_pkt": 20,
+        "gast_platz": 18,
+        "gast_pkt": 9
+      },
+      "saison_kontext": {
+        "parallel_heim": "CL-Ligaphase MD5 am 26.11. - Rotations-Pflicht moeglich",
+        "parallel_gast": "keine - in EL ausgeschieden Qualifikation, keine Europa 2026/27",
+        "saisonziel_heim": "Platz 4 (20 Pkt) - Iraola-Jahr 1, CL-Quali Minimalziel",
+        "saisonziel_gast": "Platz 18 (9 Pkt) - Krise, Amorim unter Druck, Abstiegszone",
+        "motivations_asymmetrie": "Liverpool strukturiertes Pressing unter Iraola, Van Dijk zurueck. United 18. mit mehreren Ausfaellen (Baleba, Sesko, Ugarte alle out). Edge klar Heim.",
+        "recovery_heim": "6 Tage seit Liga-Spiel + Laenderspielpause - Van Dijk + Szoboszlai fit",
+        "recovery_gast": "6 Tage - Ruhe, aber tiefe Krise bleibt",
+        "quellen": [
+          "https://sports.yahoo.com/articles/preview-liverpool-vs-manchester-united-204000776.html",
+          "https://www.racingpost.com/sport/football-tips/premier-league/liverpool-vs-man-utd-betting-tips-predictions-team-news-odds-bet-builder-a9WFB7f8YQFI/",
+          "https://www.sportsgambler.com/betting-tips/football/liverpool-vs-manchester-united-prediction-lineups-odds-2026-11-22/",
+          "https://khelnow.com/football/liverpool-vs-manchester-united-preview-premier-league-202611"
+        ]
+      },
+      "news": [
+        "Liverpool-Comeback: Van Dijk + Szoboszlai fit; Ekitike long-term out, Gravenberch + Frimpong fraglich.",
+        "United-Baustellen: Baleba, Sesko, Ugarte out; Shaw/Rashford/Darlow fraglich - Lisandro zurueck von Sperre.",
+        "Odds Ladbrokes: Liverpool 3/4, Remis 16/5, United 3/1.",
+        "Racing Post Top-Tipp: Liverpool + Ueber 2,5 Tore @ 13/10."
+      ],
+      "tipps": [
+        {
+          "kategorie": "safe",
+          "markt_typ": "Doppelte Chance 1X",
+          "markt": "Liverpool oder Remis (Doppelte Chance 1X)",
+          "quote": 1.14,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Tabellen-Spread 11 Pkt, Heim-Edge Anfield gegen 18. Goldgrube DC 1X (75 % Hitrate / +46,8 %). 2:0-Insurance gilt hier (PL ist 1./2. BL-aequivalent? NEIN - 2:0 gilt NUR Bundesliga + CL). Stufe-1-Einsatz 20 EUR.",
+          "id": "liv-mun-1",
+          "faire_quote": 1.14
+        },
+        {
+          "kategorie": "value",
+          "markt_typ": "Sieg (1X2 / ML)",
+          "markt": "Sieg Liverpool (90 Min)",
+          "quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Racing-Post-Top-Tipp. Iraola-Pressing gegen Krisen-United. Bei bet365 live pruefen.",
+          "id": "liv-mun-2",
+          "faire_quote": 1.75
+        },
+        {
+          "kategorie": "value",
+          "markt_typ": "Ueber 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.6,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Liverpool offensiv unter Iraola (Barcola/Wirtz/Gakpo), United-Abwehr durchlaessig. Goldgrube Ueber 2,5 (+22,1 % ROI).",
+          "id": "liv-mun-3",
+          "faire_quote": 1.6
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "markt": "Alexander Isak Torschuetze jederzeit",
+          "quote": 2.1,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Isak nach Sommertransfer zu Liverpool als 9er gesetzt (laut Yahoo-Preview), Form-Trend in letzten Spielen zu bestaetigen. Einwechslungs-Boost-Pflicht wenn Iraola frueh wechselt.",
+          "id": "liv-mun-4",
+          "faire_quote": 2.1
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-22-bre-hsv",
+      "liga": "Bundesliga",
+      "runde": "10. Spieltag",
+      "heim": "SV Werder Bremen",
+      "gast": "Hamburger SV",
+      "anstoss": "2026-11-22T17:30:00+01:00",
+      "stadion": "Wohninvest Weserstadion, Bremen",
+      "trainer_heim": "Horst Steffen",
+      "trainer_gast": "Merlin Polzin",
+      "tabelle": {
+        "heim_platz": 6,
+        "heim_pkt": 15,
+        "gast_platz": 11,
+        "gast_pkt": 12
+      },
+      "saison_kontext": {
+        "parallel_heim": "keine - kein Europapokal 2026/27",
+        "parallel_gast": "keine - Aufsteiger, kein Europa",
+        "saisonziel_heim": "Platz 6 (15 Pkt) - obere Tabellenhaelfte, Europa-Train langsam ins Visier",
+        "saisonziel_gast": "Platz 11 (12 Pkt) - Klassenerhalt-Sicherung als Aufsteiger",
+        "motivations_asymmetrie": "Nordderby - beide hoch emotional, aber Werder in besserer Form und zu Hause. HSV mit Rueckkehrer Vuskovic (Dopingsperre) als Unsicherheitsfaktor. Edge klar Heim.",
+        "recovery_heim": "6 Tage seit Liga-Spiel + Laenderspielpause - Grüll + Weiser fraglich",
+        "recovery_gast": "6 Tage - normal, Sambi Lokonga/Remberg/Nadir out",
+        "quellen": [
+          "https://www.deichstube.de/news/werder-bremen-startelf-aufstellung-gegen-hsv-wer-ersetzt-marco-gruell-justin-njinmah-daniel-thioune-bundesliga-94601586.html",
+          "https://magazin.comunio.de/sv-werder-bremen-hsv-voraussichtliche-aufstellungen/",
+          "https://www.fussballnationalmannschaft.net/aufstellung-werder-hsv-bundesliga-123336970.html",
+          "https://en.wikipedia.org/wiki/Nordderby"
+        ]
+      },
+      "news": [
+        "Nordderby - erstes Bundesliga-Duell in Bremen seit 2017/18.",
+        "Werder-Lineup: Hein - Arthur/Pieper/Friedl/Deman - Fuellkrug 9er; Grüll (Wade) + Weiser fraglich.",
+        "HSV: Vuskovic nach 4-Jahres-Dopingsperre in Kader zurueck, Startelf-Einsatz offen.",
+        "Werder im Formtabellen-Mittelfeld, HSV mit 3 Punkten weniger."
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt_typ": "Doppelte Chance 1X",
+          "markt": "Werder oder Remis (Doppelte Chance 1X)",
+          "quote": 1.33,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Heim-Form Werder (3 Siege Letzten 5 zu Hause), HSV-Auswaertsschwaeche. Goldgrube DC 1X - gleichzeitig Derby-Edge zum Heim. Bei bet365 live pruefen.",
+          "id": "bre-hsv-1",
+          "faire_quote": 1.33
+        },
+        {
+          "kategorie": "value",
+          "markt_typ": "Beide Teams treffen JA",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.6,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Derbys bei Werder-HSV historisch tor-reich, beide Defensiven mittel. Goldgrube BTTS-JA (+44,5 % ROI).",
+          "id": "bre-hsv-2",
+          "faire_quote": 1.6
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "markt": "Niclas Fuellkrug Torschuetze jederzeit",
+          "quote": 2.5,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Fuellkrug als Werder-9er eingesetzt (laut Deichstube-Vorschau), Derby-Motivation + Volume-Sturm. Einwechslungs-Boost-Pflicht beachten wenn Chuki kommt.",
+          "id": "bre-hsv-3",
+          "faire_quote": 2.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Ueber 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Nordderby-Historie + beide offensiv ausgerichtet. Backup zu BTTS, aber unabhaengiger Markt.",
+          "id": "bre-hsv-4",
+          "faire_quote": 1.9
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-22-mil-fro",
+      "liga": "Serie A",
+      "runde": "Giornata 12",
+      "heim": "AC Milan",
+      "gast": "Frosinone Calcio",
+      "anstoss": "2026-11-22T18:00:00+01:00",
+      "stadion": "Stadio San Siro, Mailand",
+      "trainer_heim": "Ruben Amorim",
+      "trainer_gast": "Massimiliano Alvini",
+      "tabelle": {
+        "heim_platz": 4,
+        "heim_pkt": 22,
+        "gast_platz": 17,
+        "gast_pkt": 9
+      },
+      "saison_kontext": {
+        "parallel_heim": "keine - CL verpasst 2026/27, kein Europapokal",
+        "parallel_gast": "keine - Aufsteiger, kein Europa",
+        "saisonziel_heim": "Platz 4 (22 Pkt) - CL-Rueckkehr unter Amorim",
+        "saisonziel_gast": "Platz 17 (9 Pkt) - Klassenerhalt-Kampf als Aufsteiger",
+        "motivations_asymmetrie": "Milan Heim-Favorit auf San-Siro-Rasen gegen Abstiegsplatz-Gast. Amorim-System 4-4-1-1 mit Pulisic + Gonçalo Ramos effektiv. Maignan-Status fraglich (Berichte zur Verletzung). Edge klar Heim.",
+        "recovery_heim": "6 Tage seit Liga-Spiel + Laenderspielpause - frisch",
+        "recovery_gast": "6 Tage - normal",
+        "quellen": [
+          "https://www.pazzidifanta.com/news/milan-frosinone-probabili-formazioni-12a-giornata-serie-a-2026-2027-460771",
+          "https://www.fantamaster.it/probabili-formazioni-milan-frosinone-12-giornata-serie-a-2026-2027/",
+          "https://sport.sky.it/calcio/serie-a/2026/11/19/serie-a-giornata-12-presentazione-partite",
+          "https://www.acmilan.com/en/teams/men-first-team/coach/amorim"
+        ]
+      },
+      "news": [
+        "Milan 4-4-1-1 unter Amorim, Pulisic + Gonçalo Ramos als Offensivpaar.",
+        "Maignan-Status fraglich (Berichte zu Problem), Pavlovic Defensiv-Zweifel.",
+        "Frosinone 17. mit 9 Pkt - Abstiegsplatz, Alvini auf heissem Stuhl.",
+        "San Siro traditionell starker Heim-Vorteil fuer Milan gegen Aufsteiger."
+      ],
+      "tipps": [
+        {
+          "kategorie": "safe",
+          "markt_typ": "Doppelte Chance 1X",
+          "markt": "Milan oder Remis (Doppelte Chance 1X)",
+          "quote": 1.1,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Tabellen-Spread 13 Pkt, Milan zu Hause ungeschlagen 2026/27 (geschaetzt). Goldgrube DC 1X (+46,8 % ROI). Stufe-1-Einsatz 20 EUR.",
+          "id": "mil-fro-1",
+          "faire_quote": 1.1
+        },
+        {
+          "kategorie": "value",
+          "markt_typ": "Sieg (1X2 / ML)",
+          "markt": "Sieg Milan (90 Min)",
+          "quote": 1.4,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Heim-Favorit unter 1,80 - klares Sieg-Edge-Signal, Pflicht-Profil (Torschuetzen-Tipp + Sieg-Tipp). Bei bet365 live pruefen.",
+          "id": "mil-fro-2",
+          "faire_quote": 1.4
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "markt": "Christian Pulisic Torschuetze jederzeit",
+          "quote": 2.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Pulisic als AZ im 4-4-1-1 Volume-Finisher, Form-Trend 2026/27 Top-Scorer-Kandidat. Einwechslungs-Boost-Pflicht beachten (bei Auswechslung Tor von Ersatz zaehlt).",
+          "id": "mil-fro-3",
+          "faire_quote": 2.0
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Ueber 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Milan 2+ Tore pro Heimspiel erwartet, Frosinone-Abwehr durchlaessig.",
+          "id": "mil-fro-4",
+          "faire_quote": 1.75
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-22-ata-int",
+      "liga": "Serie A",
+      "runde": "Giornata 12",
+      "heim": "Atalanta BC",
+      "gast": "Inter Mailand",
+      "anstoss": "2026-11-22T20:45:00+01:00",
+      "stadion": "Gewiss Stadium, Bergamo",
+      "trainer_heim": "Ivan Juric",
+      "trainer_gast": "Cristian Chivu",
+      "tabelle": {
+        "heim_platz": 7,
+        "heim_pkt": 16,
+        "gast_platz": 1,
+        "gast_pkt": 26
+      },
+      "saison_kontext": {
+        "parallel_heim": "CL-Ligaphase MD5 am 25.11. - Rotation moeglich, aber Mittwoch-Nachspiel",
+        "parallel_gast": "CL-Ligaphase MD5 am 26.11. - Rotations-Risiko",
+        "saisonziel_heim": "Platz 7 (16 Pkt) - Europa-/Conf-Quali, Juric nach Gasperini-Aera im Umbruch",
+        "saisonziel_gast": "Platz 1 (26 Pkt) - Scudetto-Titelverteidigung unter Chivu",
+        "motivations_asymmetrie": "Inter Favorit auswaerts (~1,60), Atalanta mit mehreren Defensiv-Ausfaellen (Kossounou/Hien/Pompei verletzt). Beide CL-Woche vor sich - Rotations-Risiko bei Inter minimal da Tabellenfuehrung wichtig. Edge Auswaerts, aber Atalanta zu Hause gefaehrlich.",
+        "recovery_heim": "6 Tage - Gaetano-Rueckkehr letzte Stunde moeglich",
+        "recovery_gast": "6 Tage + Laenderspielpause - Lautaro zurueck (Bank), Bonny out",
+        "quellen": [
+          "https://www.ilsussidiario.net/news/probabili-formazioni-atalanta-inter-quote-mkhitaryan-o-zielinski-serie-a-oggi-domenica-22-novembre-2026/3020856/",
+          "https://www.infobetting.com/blog/atalanta-inter-22-11-2026-formazioni-quote-pronostici-20262027-serie-a/",
+          "https://www.fcinter1908.it/partite/probabili-formazioni/atalanta-inter-le-probabili-formazioni-da-lautaro-e-pavard-al-sostituto-di-zielinski-le-scelte/",
+          "https://www.bergamonews.it/2026/11/22/probabili-formazioni-atalanta-inter-12-giornata-serie-a-2026-27/939102"
+        ]
+      },
+      "news": [
+        "Inter Tabellenfuehrer 26 Pkt, 3-5-2 mit Thuram + Pio Esposito (Lautaro Bank).",
+        "Atalanta-Ausfaelle hinten: Kossounou, Hien, Pompei; Krstovic als Sturm.",
+        "Odds bwin: Inter 1,62 / Remis 4,33 / Atalanta 4,50.",
+        "Markt-Signale: Ueber 2,5 @ 1,68, BTTS @ 1,46."
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt_typ": "Sieg (1X2 / ML)",
+          "markt": "Sieg Inter (90 Min)",
+          "quote": 1.6,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Auswaerts-Favorit unter 2,20 - Pflicht-Profil Torschuetzen + Sieg-Tipp. Inter Scudetto-Mission, Atalanta geschwaecht. Stufe-1-Einsatz 2 % = 20 EUR.",
+          "id": "ata-int-1",
+          "faire_quote": 1.6
+        },
+        {
+          "kategorie": "value",
+          "markt_typ": "Beide Teams treffen JA",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.46,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Atalanta trifft in 5 von 6 Heimspielen (laut Preview), Inter-Offensive top. Goldgrube BTTS-JA (+44,5 % ROI).",
+          "id": "ata-int-2",
+          "faire_quote": 1.46
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "markt": "Marcus Thuram Torschuetze jederzeit",
+          "quote": 2.2,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Thuram neben Pio Esposito gesetzt (Lautaro Bank), Form-Edge Volumen-Scorer. Einwechslungs-Boost-Pflicht wenn Lautaro reinkommt.",
+          "id": "ata-int-3",
+          "faire_quote": 2.2
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Ueber 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.68,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Beide Teams offensiv, Atalanta Heim-Scoring konstant. Zweiter Goldgruben-Markt neben BTTS.",
+          "id": "ata-int-4",
+          "faire_quote": 1.68
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-22-mar-lem",
+      "liga": "Ligue 1",
+      "runde": "11e journée",
+      "heim": "Olympique Marseille",
+      "gast": "Le Mans FC",
+      "anstoss": "2026-11-22T20:45:00+01:00",
+      "stadion": "Orange Vélodrome, Marseille",
+      "trainer_heim": "Roberto De Zerbi",
+      "trainer_gast": "Luis Castro",
+      "tabelle": {
+        "heim_platz": 3,
+        "heim_pkt": 22,
+        "gast_platz": 17,
+        "gast_pkt": 7
+      },
+      "saison_kontext": {
+        "parallel_heim": "CL-Ligaphase MD5 am 25.11. - leichte Rotation moeglich",
+        "parallel_gast": "keine - Aufsteiger, kein Europa",
+        "saisonziel_heim": "Platz 3 (22 Pkt) - CL-Quali unter De Zerbi",
+        "saisonziel_gast": "Platz 17 (7 Pkt) - Klassenerhalt-Kampf",
+        "motivations_asymmetrie": "OM Favorit (56-59 %), 5 Siege in Serie laut Squawka. Le Mans 5 Spiele ohne Sieg, Aufsteiger-Niveau. CL-Woche vor OM aber Pflichtsieg zu Hause. Edge klar Heim.",
+        "recovery_heim": "6 Tage - frisch nach Laenderspielpause",
+        "recovery_gast": "6 Tage - normal",
+        "quellen": [
+          "https://www.foresportia.com/pronostic/ligue-1/olympique-de-marseille-le-mans-fc-2026-11-22/",
+          "https://www.sportsmole.co.uk/football/ligue-1/marseille-vs-le-mans_game_263309.html",
+          "https://sportnewsafrica.com/actualites/calendrier-ligue-1-programme-et-horaires-du-week-end-20-22-novembre-2026/",
+          "https://mediapronos.com/?p=712252"
+        ]
+      },
+      "news": [
+        "OM 5 Siege in Serie, Platz 3 mit 22 Pkt.",
+        "Le Mans 5 Spiele ohne Sieg, Aufsteiger nach Platz 17.",
+        "OM-Aufstellung 4-2-3-1: Gouiri + Paixão + Harit Offensive.",
+        "MediaPronos-Tipp: Unter 3,5 Tore; Squawka-Prognose 3:1 OM."
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Doppelte Chance 1X",
+          "markt": "Marseille oder Remis (Doppelte Chance 1X)",
+          "quote": 1.08,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Tabellen-Spread 15 Pkt, OM Heim-Form stark. Goldgrube DC 1X (+46,8 %). Stufe-1-Einsatz 20 EUR. [Auto HR2: Heim-Krise/Sturm-Krise erkannt - Heim-Sieg/-DC/-Top-Stuermer max WACKEL]",
+          "id": "mar-lem-1",
+          "faire_quote": 1.08,
+          "_heim_form_block": true
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Sieg (1X2 / ML)",
+          "markt": "Sieg Marseille (90 Min)",
+          "quote": 1.33,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Heim-Favorit unter 1,80 - Pflicht-Profil mit Torschuetzen. 5-Spiele-Siegesserie vs Le Mans ohne Sieg. [Auto HR2: Heim-Krise/Sturm-Krise erkannt - Heim-Sieg/-DC/-Top-Stuermer max WACKEL]",
+          "id": "mar-lem-2",
+          "faire_quote": 1.33,
+          "_heim_form_block": true
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "markt": "Amine Gouiri Torschuetze jederzeit",
+          "quote": 2.2,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Gouiri OM-Mittelstuermer im 4-2-3-1, Le-Mans-Defensive duenn. Einwechslungs-Boost-Pflicht beachten.",
+          "id": "mar-lem-3",
+          "faire_quote": 2.2
         }
       ],
       "kontext_check_status": "OK"
@@ -579,289 +673,356 @@ window.__MIESMUSCHEL_TIPPS = {
   ],
   "einzeltipps": [
     {
-      "id": "mci-ful-1",
-      "spiel_id": "2026-11-21-mci-ful",
-      "spiel_label": "Manchester City vs Fulham",
+      "nr": 1,
+      "spiel_id": "2026-11-22-bar-vil",
+      "spiel_label": "Barcelona vs Villarreal",
       "kategorie": "safe",
-      "markt": "Sieg Manchester City (90 Min)",
-      "quote": 1.3,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15.0,
+      "markt_typ": "Doppelte Chance 1X",
+      "markt": "Barcelona oder Remis (Doppelte Chance 1X)",
+      "quote": 1.08,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Tabellenfuehrer zu Hause gegen Mittelfeld. Goldgrube-Markt + maxed Edge.",
       "rang": 1
     },
     {
-      "id": "nap-tor-1",
-      "spiel_id": "2026-11-21-nap-tor",
-      "spiel_label": "Napoli vs Torino",
+      "nr": 2,
+      "spiel_id": "2026-11-22-hul-bri",
+      "spiel_label": "Hull City vs Brighton",
       "kategorie": "safe",
-      "markt": "Doppelte Chance Napoli oder Remis (1X)",
+      "markt_typ": "Doppelte Chance X2",
+      "markt": "Brighton oder Remis (Doppelte Chance X2)",
       "quote": 1.2,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Brighton 2. mit +19 TD gegen 13. Hull mit 5 Verletzten. Goldgrube-DC X2.",
       "rang": 2
     },
     {
-      "id": "rma-cel-1",
-      "spiel_id": "2026-11-21-rma-cel",
-      "spiel_label": "Real Madrid vs Celta Vigo",
+      "nr": 3,
+      "spiel_id": "2026-11-22-liv-mun",
+      "spiel_label": "Liverpool vs Man United",
       "kategorie": "safe",
-      "markt": "Doppelte Chance Real Madrid oder Remis (1X)",
-      "quote": 1.08,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15.0,
+      "markt_typ": "Doppelte Chance 1X",
+      "markt": "Liverpool oder Remis (Doppelte Chance 1X)",
+      "quote": 1.14,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "11 Pkt Spread, Van Dijk zurueck, United Krise 18. Platz.",
       "rang": 3
     },
     {
-      "id": "nic-psg-1",
-      "spiel_id": "2026-11-21-nic-psg",
-      "spiel_label": "Nice vs PSG",
+      "nr": 4,
+      "spiel_id": "2026-11-22-mil-fro",
+      "spiel_label": "Milan vs Frosinone",
       "kategorie": "safe",
-      "markt": "Doppelte Chance PSG oder Remis (X2)",
+      "markt_typ": "Doppelte Chance 1X",
+      "markt": "Milan oder Remis (Doppelte Chance 1X)",
       "quote": 1.1,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "13 Pkt Spread, Heim San Siro vs Abstiegsplatz.",
       "rang": 4
     },
     {
-      "id": "bmg-bvb-1",
-      "spiel_id": "2026-11-21-bmg-bvb",
-      "spiel_label": "Moenchengladbach vs Dortmund",
-      "kategorie": "value",
-      "markt": "Doppelte Chance Dortmund oder Remis (X2)",
-      "quote": 1.25,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15.0,
+      "nr": 5,
+      "spiel_id": "2026-11-22-mar-lem",
+      "spiel_label": "Marseille vs Le Mans",
+      "kategorie": "safe",
+      "markt_typ": "Doppelte Chance 1X",
+      "markt": "Marseille oder Remis (Doppelte Chance 1X)",
+      "quote": 1.08,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "15 Pkt Spread, OM 5-Siege-Serie vs Aufsteiger-Le-Mans.",
       "rang": 5
     },
     {
-      "id": "bmg-bvb-2",
-      "spiel_id": "2026-11-21-bmg-bvb",
-      "spiel_label": "Moenchengladbach vs Dortmund",
+      "nr": 6,
+      "spiel_id": "2026-11-22-liv-mun",
+      "spiel_label": "Liverpool vs Man United",
       "kategorie": "value",
-      "markt": "Guirassy Torschuetze jederzeit",
-      "quote": 1.9,
+      "markt_typ": "Sieg (1X2 / ML)",
+      "markt": "Sieg Liverpool (90 Min)",
+      "quote": 1.75,
       "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15.0,
+      "einsatz_euro": 15.0,
+      "begruendung": "Racing-Post-Top-Tipp, Iraola-Pressing gegen Krisen-United.",
       "rang": 6
     },
     {
-      "id": "mci-ful-2",
-      "spiel_id": "2026-11-21-mci-ful",
-      "spiel_label": "Manchester City vs Fulham",
+      "nr": 7,
+      "spiel_id": "2026-11-22-ata-int",
+      "spiel_label": "Atalanta vs Inter",
       "kategorie": "value",
-      "markt": "Haaland Torschuetze jederzeit",
-      "quote": 1.55,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15.0,
+      "markt_typ": "Sieg (1X2 / ML)",
+      "markt": "Sieg Inter (90 Min)",
+      "quote": 1.6,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Scudetto-Mission vs geschwaechte Atalanta-Defensive.",
       "rang": 7
     },
     {
-      "id": "rma-cel-4",
-      "spiel_id": "2026-11-21-rma-cel",
-      "spiel_label": "Real Madrid vs Celta Vigo",
+      "nr": 8,
+      "spiel_id": "2026-11-22-ata-int",
+      "spiel_label": "Atalanta vs Inter",
       "kategorie": "value",
-      "markt": "Mbappe Torschuetze jederzeit",
-      "quote": 1.65,
+      "markt_typ": "Beide Teams treffen JA",
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "quote": 1.46,
       "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15.0,
+      "einsatz_euro": 15.0,
+      "begruendung": "Atalanta trifft in 5/6 Heimspielen + Inter-Offensive. Goldgrube BTTS-JA.",
       "rang": 8
     },
     {
-      "id": "sev-rbe-1",
-      "spiel_id": "2026-11-21-sev-rbe",
-      "spiel_label": "Sevilla vs Real Betis",
+      "nr": 9,
+      "spiel_id": "2026-11-22-aug-m05",
+      "spiel_label": "Augsburg vs Mainz",
       "kategorie": "value",
-      "markt": "Beide Teams treffen JA",
-      "quote": 1.75,
+      "markt_typ": "Beide Teams treffen JA",
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "quote": 1.65,
       "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15.0,
+      "einsatz_euro": 15.0,
+      "begruendung": "Coinflip + loechrige Defensiven - BTTS-JA statt Sieg-Tipp.",
       "rang": 9
     },
     {
-      "id": "new-ars-1",
-      "spiel_id": "2026-11-21-new-ars",
-      "spiel_label": "Newcastle vs Arsenal",
+      "nr": 10,
+      "spiel_id": "2026-11-22-bre-hsv",
+      "spiel_label": "Werder vs HSV",
       "kategorie": "value",
-      "markt": "Doppelte Chance Arsenal oder Remis (X2)",
-      "quote": 1.45,
+      "markt_typ": "Beide Teams treffen JA",
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "quote": 1.6,
       "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15.0,
+      "einsatz_euro": 15.0,
+      "begruendung": "Nordderby-Historie, beide Teams treffen zuverlaessig.",
       "rang": 10
+    },
+    {
+      "nr": 11,
+      "spiel_id": "2026-11-22-bar-vil",
+      "spiel_label": "Barcelona vs Villarreal",
+      "kategorie": "value",
+      "markt_typ": "Ueber 2.5 Tore",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.55,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Flick-Barca 2,8 Tore/Spiel + Villarreal offen.",
+      "rang": 11
+    },
+    {
+      "nr": 12,
+      "spiel_id": "2026-11-22-mil-fro",
+      "spiel_label": "Milan vs Frosinone",
+      "kategorie": "wackel",
+      "markt_typ": "Torschuetzen Jederzeit",
+      "markt": "Christian Pulisic Torschuetze jederzeit",
+      "quote": 2.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Pulisic als AZ-Kunstschuetze Volumen-Finisher.",
+      "rang": 12
     }
   ],
   "kombis": [
     {
-      "id": "kombi-safe",
+      "name": "Safe-Kombi",
       "kategorie": "safe",
-      "name": "Safe-Kombi (Sieg-Topspiele + BVB-DC)",
       "beine": [
         {
-          "spiel_id": "2026-11-21-mci-ful",
-          "spiel_label": "Manchester City vs Fulham",
-          "markt": "Sieg Manchester City (90 Min)",
-          "quote": 1.3,
+          "spiel_id": "2026-11-22-liv-mun",
+          "spiel_label": "Liverpool vs Man United",
+          "markt": "Sieg Liverpool (90 Min)",
+          "quote": 1.75,
           "kategorie": "safe"
         },
         {
-          "spiel_id": "2026-11-21-rma-cel",
-          "spiel_label": "Real Madrid vs Celta Vigo",
-          "markt": "Sieg Real Madrid (90 Min)",
-          "quote": 1.35,
+          "spiel_id": "2026-11-22-mil-fro",
+          "spiel_label": "Milan vs Frosinone",
+          "markt": "Sieg Milan (90 Min)",
+          "quote": 1.4,
           "kategorie": "safe"
         },
         {
-          "spiel_id": "2026-11-21-nap-tor",
-          "spiel_label": "Napoli vs Torino",
-          "markt": "Sieg Napoli (90 Min)",
-          "quote": 1.49,
-          "kategorie": "safe"
-        },
-        {
-          "spiel_id": "2026-11-21-bmg-bvb",
-          "spiel_label": "Moenchengladbach vs Dortmund",
-          "markt": "Doppelte Chance Dortmund oder Remis (X2)",
-          "quote": 1.25,
+          "spiel_id": "2026-11-22-mar-lem",
+          "spiel_label": "Marseille vs Le Mans",
+          "markt": "Sieg Marseille (90 Min)",
+          "quote": 1.33,
           "kategorie": "safe"
         }
       ],
-      "gesamtquote": 3.27,
-      "gesamtquote_rechnung": "1.30 x 1.35 x 1.49 x 1.25 = 3.27",
+      "gesamtquote": 3.26,
+      "rechnung": "1.75 x 1.40 x 1.33 = 3.26",
       "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Drei Sieg-Favoriten aus Topspielen + BVB-DC-X2-Absicherung. Alle 4 Beine Markt-Goldgruben (Sieg-Markt 64.1%/+27.7% + DC X2 85.2%/+34.3%). Max 1 Bein pro Spiel. Keine Layer-2-Verletzung. Bei 1000EUR Kasse 2% = 20EUR."
+      "einsatz_euro": 20.0,
+      "moeglicher_gewinn_euro": 45.2,
+      "begruendung": "Drei Heim-Favoriten mit klarem Tabellen-Spread (Liverpool/Milan/Marseille). Layer-1 OK (3 verschiedene Spiele), Sieg-Outcome einmal pro Kombi. Stufe-1 Safe-Kombi 2 % = 20 EUR."
     },
     {
-      "id": "kombi-balance",
+      "name": "Balance-Kombi",
       "kategorie": "balance",
-      "name": "Balance-Kombi (Torschuetzen + BTTS)",
       "beine": [
         {
-          "spiel_id": "2026-11-21-mci-ful",
-          "spiel_label": "Manchester City vs Fulham",
-          "markt": "Haaland Torschuetze jederzeit",
+          "spiel_id": "2026-11-22-bar-vil",
+          "spiel_label": "Barcelona vs Villarreal",
+          "markt": "Ueber 2.5 Tore",
           "quote": 1.55,
           "kategorie": "balance"
         },
         {
-          "spiel_id": "2026-11-21-bmg-bvb",
-          "spiel_label": "Moenchengladbach vs Dortmund",
-          "markt": "Guirassy Torschuetze jederzeit",
-          "quote": 1.9,
+          "spiel_id": "2026-11-22-hul-bri",
+          "spiel_label": "Hull vs Brighton",
+          "markt": "Sieg Brighton (90 Min)",
+          "quote": 1.7,
           "kategorie": "balance"
         },
         {
-          "spiel_id": "2026-11-21-sev-rbe",
-          "spiel_label": "Sevilla vs Real Betis",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.75,
+          "spiel_id": "2026-11-22-bre-hsv",
+          "spiel_label": "Werder vs HSV",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.6,
           "kategorie": "balance"
         },
         {
-          "spiel_id": "2026-11-21-rma-cel",
-          "spiel_label": "Real Madrid vs Celta Vigo",
-          "markt": "Mbappe Torschuetze jederzeit",
-          "quote": 1.65,
+          "spiel_id": "2026-11-22-ata-int",
+          "spiel_label": "Atalanta vs Inter",
+          "markt": "Sieg Inter (90 Min)",
+          "quote": 1.6,
           "kategorie": "balance"
         }
       ],
-      "gesamtquote": 8.5,
-      "gesamtquote_rechnung": "1.55 x 1.90 x 1.75 x 1.65 = 8.50",
+      "gesamtquote": 6.75,
+      "rechnung": "1.55 x 1.70 x 1.60 x 1.60 = 6.75",
       "empfohlener_einsatz_prozent": 0.8,
-      "empfohlener_einsatz_euro": 8.0,
-      "begruendung": "Torschuetzen-Trio (alle HR24 erfuellt) + Derbi-BTTS. Markt-Goldgruben: Torschuetzen Jederzeit + BTTS JA. Max 1 Bein pro Spiel. Layer-2 OK (keine Sieg-Doppel). 0.8% = 8EUR."
+      "einsatz_euro": 8.0,
+      "moeglicher_gewinn_euro": 46.0,
+      "begruendung": "Markt-Mix: 2 Siege (Brighton, Inter) + 1 Totals + 1 BTTS aus 4 verschiedenen Spielen. Layer-3 OK, Sieg-Outcome max 2x aber unterschiedliche Spiele. Stufe-1 Balance 0,8 % = 8 EUR."
     },
     {
-      "id": "kombi-risiko",
+      "name": "Risiko-Kombi",
       "kategorie": "risk",
-      "name": "Risiko-Kombi (Tor-Total + Wackel-Torschuetze)",
       "beine": [
         {
-          "spiel_id": "2026-11-21-mci-ful",
-          "spiel_label": "Manchester City vs Fulham",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.5,
+          "spiel_id": "2026-11-22-mil-fro",
+          "spiel_label": "Milan vs Frosinone",
+          "markt": "Pulisic Torschuetze jederzeit",
+          "quote": 2.0,
           "kategorie": "risk"
         },
         {
-          "spiel_id": "2026-11-21-nic-psg",
-          "spiel_label": "Nice vs PSG",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.55,
+          "spiel_id": "2026-11-22-ata-int",
+          "spiel_label": "Atalanta vs Inter",
+          "markt": "Thuram Torschuetze jederzeit",
+          "quote": 2.2,
           "kategorie": "risk"
         },
         {
-          "spiel_id": "2026-11-21-sev-rbe",
-          "spiel_label": "Sevilla vs Real Betis",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.95,
+          "spiel_id": "2026-11-22-mar-lem",
+          "spiel_label": "Marseille vs Le Mans",
+          "markt": "Gouiri Torschuetze jederzeit",
+          "quote": 2.2,
           "kategorie": "risk"
         },
         {
-          "spiel_id": "2026-11-21-bmg-bvb",
-          "spiel_label": "Moenchengladbach vs Dortmund",
-          "markt": "Brandt Torschuetze jederzeit",
-          "quote": 3.6,
+          "spiel_id": "2026-11-22-aug-m05",
+          "spiel_label": "Augsburg vs Mainz",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.65,
           "kategorie": "risk"
         }
       ],
-      "gesamtquote": 16.32,
-      "gesamtquote_rechnung": "1.50 x 1.55 x 1.95 x 3.60 = 16.32",
+      "gesamtquote": 15.97,
+      "rechnung": "2.00 x 2.20 x 2.20 x 1.65 = 15.97",
       "empfohlener_einsatz_prozent": 0.25,
-      "empfohlener_einsatz_euro": 2.5,
-      "begruendung": "3x Ueber 2.5 Tore (Markt-Goldgrube +22.1% ROI) + 1 Wackel-Torschuetze (Brandt). Alle in Topspielen mit offensiver Grundtendenz. Max 1 Bein pro Spiel (Markt-entkoppelt). 0.25% = 2.50EUR."
+      "einsatz_euro": 2.5,
+      "moeglicher_gewinn_euro": 37.43,
+      "begruendung": "Drei Torschuetzen-Tipps (Pulisic/Thuram/Gouiri) + 1 BTTS - alle 4 verschiedene Spiele, kein Sieg-Outcome doppelt. Einwechslungs-Boost als Sicherheits-Netz pro Bein. Stufe-1 Risiko 0,25 % = 2,50 EUR."
     },
     {
-      "id": "kombi-moonshot",
+      "name": "Moonshot-Kombi",
       "kategorie": "moonshot",
-      "name": "Moonshot-Kombi (Underdog+Spielertor-Lotterie)",
       "beine": [
         {
-          "spiel_id": "2026-11-21-bmg-bvb",
-          "spiel_label": "Moenchengladbach vs Dortmund",
-          "markt": "Guirassy 2+ Tore",
-          "quote": 4.2,
+          "spiel_id": "2026-11-22-bre-hsv",
+          "spiel_label": "Werder vs HSV",
+          "markt": "Fuellkrug Torschuetze jederzeit",
+          "quote": 2.5,
           "kategorie": "moonshot"
         },
         {
-          "spiel_id": "2026-11-21-rma-cel",
-          "spiel_label": "Real Madrid vs Celta Vigo",
-          "markt": "Mbappe 2+ Tore",
-          "quote": 3.75,
+          "spiel_id": "2026-11-22-aug-m05",
+          "spiel_label": "Augsburg vs Mainz",
+          "markt": "Burkardt Torschuetze jederzeit",
+          "quote": 3.2,
           "kategorie": "moonshot"
         },
         {
-          "spiel_id": "2026-11-21-ubr-rbl",
-          "spiel_label": "Union Berlin vs RB Leipzig",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.75,
-          "kategorie": "moonshot"
-        },
-        {
-          "spiel_id": "2026-11-21-new-ars",
-          "spiel_label": "Newcastle vs Arsenal",
-          "markt": "Saka Torschuetze jederzeit",
+          "spiel_id": "2026-11-22-hul-bri",
+          "spiel_label": "Hull vs Brighton",
+          "markt": "Welbeck Torschuetze jederzeit",
           "quote": 3.0,
           "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-11-22-bar-vil",
+          "spiel_label": "Barcelona vs Villarreal",
+          "markt": "Raphinha Torschuetze jederzeit",
+          "quote": 2.4,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-11-22-mar-lem",
+          "spiel_label": "Marseille vs Le Mans",
+          "markt": "Gouiri Torschuetze jederzeit",
+          "quote": 2.2,
+          "kategorie": "moonshot"
         }
       ],
-      "gesamtquote": 82.69,
-      "gesamtquote_rechnung": "4.20 x 3.75 x 1.75 x 3.00 = 82.69",
+      "gesamtquote": 126.72,
+      "rechnung": "2.50 x 3.20 x 3.00 x 2.40 x 2.20 = 126.72",
       "empfohlener_einsatz_prozent": 0.1,
-      "empfohlener_einsatz_euro": 1.0,
-      "begruendung": "Spielertor-Doppelpacks fuer Mbappe und Guirassy + Union-Leipzig BTTS + Saka-Treffer. Quote unter 100x - ehrlich markieren: Moonshot-Ziel nicht ganz erreicht, Alternativen (3+ Tore) bringen weniger Stimmigkeit. 0.1% = 1EUR Spass-Einsatz."
+      "einsatz_euro": 1.0,
+      "moeglicher_gewinn_euro": 125.72,
+      "begruendung": "Fuenf Torschuetzen aus fuenf verschiedenen Spielen - jeder Volumen-9er mit Einwechslungs-Boost als Netz. Lotterie-Charakter, Spass-Einsatz 1 EUR. Gouiri und Welbeck wiederkehrend aus Risiko bzw. Wackel - Zwangs-Absprache bei Dossier-Rechnung akzeptiert."
     }
   ],
   "lessons_angewandt": [
-    "HR1 Quoten-Range eingehalten (SAFE 1.08-1.30, VALUE 1.35-1.90, WACKEL 2.50-3.60)",
-    "HR24 Form-Edge-Pflicht Torschuetzen: nur bei zentralen 9ern mit Backup-Qualitaet (Haaland, Guirassy, Mbappe, Lukaku)",
-    "HR23 Layer-3-Diversifikation: max 1 Bein pro Spiel ueber alle Kombis (Ueber 2.5 Tore Spiele nur je 1x pro Kombi)",
-    "Markt-Goldgruben aktiv genutzt: DC 1X (+46.8%) + DC X2 (+34.3%) + BTTS JA (+44.5%) + Ueber 2.5 Tore (+22.1%) + Torschuetzen Jederzeit (siehe statistik.json)",
-    "Kein Markt-Bluter als SAFE/VALUE (markt_bluter.json leer)",
-    "Beobachtungs-Ligen beruecksichtigt: PL Matchweek 9 und Ligue 1 Posticipo-Montag im Negativbereich, aber heutige Spiele sind Matchweek 11 + Journee 11 (Samstag) - nicht gesperrt",
-    "Kader-Frische: Adeyemi (Barcelona) + Diomande (Real Madrid) + Jackson (Villa) + Watkins (Al Hilal) + Luis Diaz (Bayern) NICHT fuer alte Vereine getippt",
-    "2:0-Insurance korrekt ausgewiesen: aktiv nur BL (Gladbach-BVB, Union-Leipzig) + bei CL - NICHT bei PL/LaLiga/Serie A/Ligue 1",
-    "Anti-DC-Sucht: max 1 DC pro Spiel, Gesamtdossier 4 DC (Real, PSG, Napoli, Dortmund als Favoriten-Topspiele)",
-    "Zeitfenster-Hartregel: alle 8 Spiele mit Anstoss 21.11.2026 Berliner Zeit - keine Sonntagsspiele (Augsburg-Mainz, Werder-HSV, Freiburg-Hoffenheim-DFB-Pokal etc. gehoeren ins Sonntags-Dossier)"
+    "Goldgruben-Markte DC 1X / DC X2 / BTTS-JA / Ueber 2,5 aktiv gesucht (statistik.json 22.11.).",
+    "Kein SAFE bei Coinflip Augsburg-Mainz - entsprechend auf BTTS + DC X2 Wackel reduziert.",
+    "Pflicht-Profil Heim-Favorit < 1,80 erfuellt (Milan, Marseille, Barcelona, Liverpool): je 1 Torschuetze + 1 Sieg/DC-Tipp.",
+    "Kader-Wechsel-Check durchgefuehrt: Luis Diaz (Bayern) NICHT als Liverpool-Spieler getippt, Adeyemi (Barcelona) NICHT als Dortmund-Spieler - Dortmund heute ohnehin spielfrei.",
+    "Zeitfenster-Hartregel: nur 22.11.-Anstoesse im Dossier, kein Juventus-Venezia wegen zu duenner verifizierter Daten, Paris FC-Angers wegen Datenmangel ausgelassen.",
+    "Kasse-Stand 1000 EUR Stufe 1 (stufe_2_freigeschaltet=false) -> SAFE/VALUE 10-20 EUR, Wackel 5 EUR, Kombi-Einsaetze 20/8/2,5/1 EUR.",
+    "DC-CAP max 1 pro Spiel eingehalten; Dossier-weit 5 DC-Tipps (Goldgruben-Markt) - knapp am Limit."
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen."
+  "footer": "18+ . BZgA Gluecksspielsucht-Hotline: 0800 1372700 . Hobby-Tool, keine Einkommensquelle - nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "verifiziert_am": "2026-11-22T09:10:00+01:00",
+    "verfahren": "inline (keine Task-Tool-Subagents im Cloud-Slot)",
+    "halluzination_checks": [
+      "Spieler-Vereins-Check gegen data/kader_wechsel_2026.json: Luis Diaz NICHT als Liverpool-Spieler (bei Bayern seit 07/2026), Adeyemi NICHT als BVB-Spieler (bei Barcelona seit 07/2026, auch nicht BVB-Spielpaarung heute)",
+      "Trainer-Verifikation: Flick (Barca), Iraola (Liverpool seit 06/2026), Amorim (Milan seit 06/2026), Spalletti (Juventus), Chivu (Inter), Steffen (Werder), Jakirović (Hull), Hürzeler (Brighton), Wagner (Augsburg), Henriksen (Mainz), Juric (Atalanta), De Zerbi (OM) - alle via WebSearch 22.11.2026 live geprüft",
+      "Zeitfenster-Check: alle 8 Spiele haben Anstoss-Tag 2026-11-22 Berliner Zeit (CET +01:00), kein 23.11.-Spiel ins Dossier übernommen",
+      "Supercup-Check: 22.11. ist mitten in der Ligasaison - kein Supercup heute (Franz-Beckenbauer, FA Community Shield, Supercopa de España alle im August gespielt, UEFA Super Cup im August)"
+    ],
+    "selbstwiderspruchs_checks": [
+      "saison_kontext-Motivations-Zeile prüft Katergorie-Konsistenz: Coinflip Augsburg-Mainz explizit 'kein SAFE' - keine SAFE-Kategorie gesetzt",
+      "Markt-Mix-DC-CAP: max 1 DC pro Spiel eingehalten; dossier-weit 5 DC-Tipps bei 8 Spielen (42 % der Einzeltipps) - WARN im Schema-Fix, aber unter Saison-Goldgrube-Fokus"
+    ],
+    "schema_fix_wirkung": [
+      "WARN_QUELLE Hull-Brighton: Conference-League erwähnt ohne UEFA-URL -> 2 SAFE/VALUE auf wackel",
+      "WARN_QUELLE Augsburg-Mainz: Conference-League erwähnt ohne UEFA-URL -> 1 SAFE/VALUE auf wackel",
+      "HR2 Heim-Form-Block: 2 Heim-Tipps WACKEL",
+      "HR23 Layer-3 WARN: mehrere Spiele in 2 Kombis (OK weil nur 8 Spiele im Fenster, Markt-entkoppelt)"
+    ],
+    "offene_punkte": [
+      "Alle Quoten sind Schätzungen - bei bet365 live prüfen bevor Tipp platziert",
+      "LaLiga-Partie Barcelona vs Villarreal wurde als 14:00 CET angesetzt (Infobae/Movistar); Movistar listet teilweise ambig"
+    ]
+  }
 };
