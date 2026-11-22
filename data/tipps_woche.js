@@ -1,689 +1,798 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS_WOCHE = {
-  "datum": "2026-11-16",
-  "erstellt_am": "2026-11-15T18:00:00+01:00",
+  "datum": "2026-11-23",
+  "erstellt_am": "2026-11-22T18:00:00+01:00",
   "modus": "woche",
-  "hinweis": "Wochen-Vorschau Mo 16.11. - So 22.11.2026. Erste Haelfte (Mo-Mi) noch FIFA-Laenderspielpause (endet Di 17.11., Deutschland-Spiel Di in Leipzig vs Slowakei) - keine Vereinsspiele Mo/Di/Mi/Do in den Top-5-Ligen. Ab Fr 20.11. kommt alles zurueck: Bundesliga Spieltag 10 (Fr-So), Premier League Matchweek 11 (Sa-So), LaLiga Jornada 13 (Sa-Mo, Mo-Spiel ausserhalb Fenster), Serie A Giornata 12 (Sa-So, Mo ausserhalb), Ligue 1 Journee 13 (Sa-So). KEINE CL/EL/Conference-League-Spiele in diesem Fenster - CL Matchday 5 startet erst Di 24.11., aber: Teams mit CL-Spiel kommende Woche (Bayern, Dortmund, Arsenal, Chelsea, Liverpool, ManCity, Barcelona, Real, Atalanta, Inter, PSG) muessen am Sonntag schon mit Blick auf Mi rotieren - Rotations-Risiko bei Sonntags-Spielen einplanen. 10 Spiele im Fokus, breit gestreut. Kasse 1000€ Stufe 1 (konservativ, Stufe 2 noch nicht freigeschaltet trotz Saison-ROI +41% - rolling 30d bei +11.7% knapp ueber Freischaltungs-Schwelle, aber manuell noch nicht aktiviert). Einzeltipps 1-2% (10-20€), Wackel 0.5% (5€), Kombi-Einsaetze 1-20€. Quoten alle als Schaetzwert - bei bet365 live pruefen, Aufstellungen frueh am Spieltag Pflicht-Check (Nationalspiel-Rueckkehrer, Kompany/Terzic/Flick-Rotationsplan). UPDATE nach Schema-Mapper-Check: Isak (jetzt Liverpool), Salah (Liverpool-Abgang), Lewandowski (Saudi Pro League) als Torschuetzen-Tipps per data/kader_wechsel_2026.json gedroppt - Woltemade als Newcastle-Ersatz, Palmer-Risiko-Kombi-Bein.",
+  "hinweis": "Wochen-Vorschau Mo 23.11. - So 29.11.2026. Harter Terminkalender: Di 24.11. + Mi 25.11. Champions-League-Spieltag 5 (Arsenal-Dortmund, Real-PSV, ManCity-Napoli am Di; Lille-Bayern, Galatasaray-Villa am Mi), Do 26.11. Europa-League-Spieltag 5 (Olympiacos-Milan + andere), dann Fr-So das BL-MD11- und PL-MW13-Programm. Mo 23.11. ohne Top-5-Liga-Spiele (LaLiga-Mo-Posticipo gehoert zur J13 letzten Wochenende). Kasse 1000€ Stufe 1 (nicht freigeschaltet trotz Saison-ROI +41% - manuell noch aus), Einzel-Einsaetze 1-2% (10-20€), Wackel 0.5% (5€), Kombi-Einsaetze 1-20€. Wichtige Ausfaelle laut data/kader_wechsel_2026.json (Stand 22.11.): Saka (Arsenal, Oberschenkel, 8 Wochen), Guirassy (BVB, Muskel Oberschenkel, Rueckkehr Dezember), Luis Diaz (Bayern, Oberschenkel-Faser seit 30.10., Rueckkehr Ende Nov. moeglich), Yildiz (Juve, Metatarsale, Dezember). 11 Spiele im Fokus, breit gestreut - CL ist mit 5 Beinen Hauptfokus. Alle Quoten Schaetzwert 5+ Tage vor Anpfiff, bei bet365 live pruefen. Aufstellungen am Spieltag Pflicht-Check (kicker.de Aufstellungs-Vorschau). UPDATE nach Schema-Mapper-Check: Keine Lewandowski/Isak(als-Newcastle)/Salah-Torschuetzen-Faux-pas - alle laut Kader-File abgeschnitten. Isak jetzt Liverpool-Volumen-9er.",
   "spiele": [
     {
-      "id": "2026-11-16-bay-kol",
-      "liga": "Bundesliga 2026/27 - 10. Spieltag",
-      "heim": "FC Bayern Muenchen",
-      "gast": "1. FC Koeln",
-      "anstoss": "2026-11-20T20:30:00+01:00",
-      "stadion": "Allianz Arena, Muenchen",
-      "saison_kontext": {
-        "parallel_heim": "CL-Ligaphase Spieltag 5 Mi 25.11. (Gegner noch zu bestaetigen) - Rotation moeglich, aber Fr-Mi sind 5 Tage, da sollte die Elf noch komplett sein",
-        "parallel_gast": "keine - Koeln ist nicht in europaeischer Konkurrenz",
-        "saisonziel_heim": "Platz 1 (21 Pkt nach 9 Spielen, punktgleich mit BVB) - Meisterschaftsverteidigung, Fokus Liga + CL",
-        "saisonziel_gast": "Klassenerhalt (~13. Platz, ca. 9 Pkt nach Saisonstart als Aufsteiger-Platzhalter) - jeder Punkt gegen Top-Gegner ist Bonus",
-        "motivations_asymmetrie": "Bayern nach 2 Wochen Pause frisch, Heimrecht, CL-Rotation noch nicht noetig (Mi erst ab 25.11.). Koeln ist Aufsteiger mit duennem Kader (Dallinga Top-Scorer mit nur 2 Toren, Form LDLW). Klassenunterschied gross, klarer Heim-Favorit - Quote zwischen 1.15-1.25 realistisch.",
-        "recovery_heim": "14 Tage seit BL Spieltag 9 (ca. 07.-09.11.) - sehr gut erholt, Nationalspieler (Kane, Musiala, Kimmich) heute Nacht zurueck",
-        "recovery_gast": "14 Tage seit BL Spieltag 9 - erholt, weniger Nationalspieler als Bayern = evtl. sogar besser als Favorit",
-        "quellen": [
-          "https://www.bundesliga.com/en/bundesliga/table",
-          "https://www.bundesliga.com/pt/bundesliga/rodada/2026-2027/10/fc-bayern-muenchen-vs-1-fc-koeln/liveticker",
-          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga"
-        ]
-      },
-      "news": [
-        "Bayern und Dortmund teilen Platz 1 mit 21 Pkt - Heimspiel gegen Aufsteiger Koeln ist Pflichtsieg-Charakter",
-        "Koeln-Top-Scorer Thijs Dallinga nach 9 Spielen erst bei 2 Toren, Offensive schwach (Form LDLW)",
-        "Olise fuer Bayern Dauerbrenner, Kane nach Laenderspielen (England) zurueck - Trainings-Status am Spieltag checken",
-        "CL-Spieltag 5 erst Mi 25.11. (5 Tage spaeter), Bayern-Rotation unwahrscheinlich"
-      ],
-      "tipps": [
-        {
-          "id": "bay-kol-1",
-          "kategorie": "safe",
-          "markt": "Bayern Muenchen oder Remis (Doppelte Chance)",
-          "quote": 1.03,
-          "edge_prozent": 1.0,
-          "faire_quote": 1.02,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 10.0,
-          "begruendung": "Bayern @Allianz Arena vs schwachen Aufsteiger-Sturm - DC 1X ist Pflicht-Mitnahme. Markt-Goldgrube (Doppelte Chance 1X +40% ROI historisch). 2:0-Insurance greift in BL. Einsatz 10€ (1% von 1000€ Kasse). Quote bei bet365 live pruefen.",
-          "liga": "Bundesliga"
-        },
-        {
-          "id": "bay-kol-2",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.35,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.28,
-          "empfohlener_einsatz_prozent": 2.0,
-          "empfohlener_einsatz_euro": 20.0,
-          "begruendung": "Bayern 29 Tore in 9 Spielen (3.2/Spiel), Koeln offensive Baustelle aber auch defensiv anfaellig. Ueber 2.5 = Markt-Goldgrube (+22% ROI historisch). Reality-Check: Sieg 1X2 Goldgrube, Ueber 2.5 Goldgrube - beides passt. Einsatz 20€ (2%).",
-          "liga": "Bundesliga"
-        },
-        {
-          "id": "bay-kol-3",
-          "kategorie": "value",
-          "markt": "Harry Kane Torschuetze jederzeit",
-          "quote": 1.65,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.58,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 10.0,
-          "begruendung": "HR24 erfuellt: Kane ist Volume-9er, Bayerns-Stuermer-Nr1, gegen Koelns schwache Defensive sollte mind. 1 Tor drin sein. Einwechslungs-Boost greift (Bayern-Backup-Stuermer kommen bei Fuehrung ein - Einwechslungs-Boost zaehlt fuer Kane-Tipp). Reality-Check: Torschuetzen Jederzeit Goldgrube +24% ROI. Wichtig: Kane kommt frisch aus England-Laenderspielen zurueck, am Spieltag kicker-Aufstellungs-Vorschau pruefen. Einsatz 10€.",
-          "liga": "Bundesliga"
-        },
-        {
-          "id": "bay-kol-4",
-          "kategorie": "wackel",
-          "markt": "Bayern Handicap -2 (Sieg mit 3+ Toren)",
-          "quote": 2.4,
-          "edge_prozent": 2.0,
-          "faire_quote": 2.35,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "Bayern gewinnt gegen Aufsteiger daheim oft klar (letzte Saison-Heim-Siege oft 3+). Risiko: Rotation Richtung Mi-CL koennte aggressives Pressing im zweiten Durchgang bremsen. Wackel-Einsatz 5€ (0.5%).",
-          "liga": "Bundesliga"
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-16-bmg-bvb",
-      "liga": "Bundesliga 2026/27 - 10. Spieltag",
-      "heim": "Borussia Moenchengladbach",
+      "id": "2026-11-23-ars-bvb",
+      "liga": "UEFA Champions League - Ligaphase Spieltag 5",
+      "heim": "Arsenal FC",
       "gast": "Borussia Dortmund",
-      "anstoss": "2026-11-21T15:30:00+01:00",
-      "stadion": "Borussia-Park, Moenchengladbach",
+      "anstoss": "2026-11-24T21:00:00+01:00",
+      "stadion": "Emirates Stadium, London",
       "saison_kontext": {
-        "parallel_heim": "keine - BMG nicht in europaeischer Konkurrenz",
-        "parallel_gast": "CL-Ligaphase Spieltag 5 Di 24.11. vs Arsenal (Away, Emirates) - Sa-Di sind nur 3 Tage, Rotation sehr wahrscheinlich bei Stammelf-Belastung",
-        "saisonziel_heim": "Klassenerhalt + Oberes Mittelfeld - Heimspiel gegen Spitze = Scalp-Chance",
-        "saisonziel_gast": "Platz 1 (21 Pkt, geteilt mit Bayern) - Meisterschafts-Rennen hoch auf Prioritaet",
-        "motivations_asymmetrie": "BVB leicht favorisiert, aber: CL-Topspiel Di in London -> Trainer (Tedesco/Terzic/Kovac - Stand pruefen) rotiert SICHER. Guirassy/Adeyemi-Nachfolge-Sturm unter Belastung. BMG kann zuhause aufruhen - historisch guter Gegner fuer BVB, Signal-Spiel.",
-        "recovery_heim": "14 Tage Pause - frisch, wenig Nationalspieler",
-        "recovery_gast": "14 Tage Pause, aber Nationalspieler-Rueckkehr Mi-Do (Nmecha, Brandt, Can, Beier) + CL-Reise Di nach London - Trainings-Fenster bis Sa knapp",
+        "parallel_heim": "PL Matchweek 13 Sa/So 28./29.11. (vermutlich So gegen ManCity oder aehnlichen Top-Gegner) - 3 Tage Erholung ab Di CL, Rotation moeglich",
+        "parallel_gast": "BL Spieltag 11 Sa 28.11. gegen Leverkusen (Heim, 15:30) - 4 Tage nach CL-Auswaertsspiel London, Mittwoch-Rueckreise + Fr-Analyse = enges Fenster",
+        "saisonziel_heim": "PL Platz 1 (Stand ca. 24 Pkt nach 11 Spielen, Meisterschafts-Titelverteidiger 25/26) + CL Top-8-Direktquali aktiv ansteuern",
+        "saisonziel_gast": "BL Platz 1/2 (geteilt mit Bayern bei 21 Pkt nach 10 Spielen) + CL Top-24 bestaetigen (Playoff-Grenze sichern, Top-8 realistisch bei 2 Siegen aus 3)",
+        "motivations_asymmetrie": "Beide hoch motiviert: Arsenal will Top-8-Direktquali verteidigen, BVB nach Nmecha-Wunder gegen BMG (1:0 letzte Woche) im CL-Fluss. Aber: Saka OUT 8 Wochen (kicker.de/aljazeera, Arteta-PK 20.11.), Guirassy OUT Oberschenkel (BVB-Portal 21.11.), Diaz nicht relevant hier (Bayern). Arsenal daheim trotz Saka-Fehlen leichter Favorit, aber kein Klassenunterschied zur Schlagseite. Coinflip-Tendenz, kein SAFE moeglich.",
+        "recovery_heim": "3 Tage seit PL Matchweek 12 (Sa 21.11. 2:2 in Newcastle) + 2.5 Tage bis Mi - knapp",
+        "recovery_gast": "3 Tage seit BL Spieltag 10 (Sa 21.11. 1:0 in Moenchengladbach, Nmecha 87.) - frisch durch Nmecha-Boost, aber Guirassy fehlt weiter",
         "quellen": [
-          "https://www.bundesliga.com/en/bundesliga/table",
           "https://www.uefa.com/uefachampionsleague/fixtures/",
-          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga"
+          "https://www.aljazeera.com/sports/2026/11/20/newcastle-united-arsenal-premier-league-predictions-lineups-saka-saliba",
+          "https://www.bvb.de/de/en/news/news-overview/news.html/2026/11/21/Nmecha-Propels-BVB-Into-First-Place.html"
         ]
       },
       "news": [
-        "BVB mit 21 Pkt geteilter Erster, aber am Di CL in London gegen Arsenal - Rotation Richtung London-Reise sehr wahrscheinlich",
-        "BMG als Heimmannschaft gegen Favorit: Underdog-Sieg bei BVB-Rotation historisch kein Longshot",
-        "Nmecha/Can/Beier aus Nationalmannschaft zurueck, Fitness-Status am Spieltag pruefen",
-        "2:0-Insurance greift in BL - falls BVB-Sieg direkt getippt und BMG dreht spaet ist man trotzdem durch"
+        "Saka OUT ca. 8 Wochen (Oberschenkel, Arteta-PK 20.11.) - fehlt sicher",
+        "Guirassy OUT Muskelverletzung Oberschenkel (BVB-Portal 21.11.) - BVB-9er bleibt Fabio Silva",
+        "Arsenal spielte 2:2 in Newcastle 21.11., BVB gewann 1:0 in Gladbach durch Nmecha (87.) - 1. Tabellenplatz",
+        "2:0-Insurance greift in CL - falls Arsenal-Sieg direkt getippt und BVB dreht spaet trotzdem durch",
+        "Gyoekeres (Arsenal-Mitte) nach kicker als Hauptstuermer bestaetigt - Form-Edge pro Jederzeit-Markt"
       ],
       "tipps": [
         {
-          "id": "bmg-bvb-1",
-          "kategorie": "value",
-          "markt": "Moenchengladbach oder Remis (Doppelte Chance)",
-          "quote": 1.85,
-          "edge_prozent": 7.0,
-          "faire_quote": 1.73,
-          "empfohlener_einsatz_prozent": 2.0,
-          "empfohlener_einsatz_euro": 20.0,
-          "begruendung": "DC X2 Goldgrube (+42% ROI). CL-Doppelbelastung BVB (Di in London) + Heimrecht BMG + Rotations-Risiko BVB-Stammelf = Heim-Punkt sehr realistisch. Historisch solider Gegner fuer BVB. Einsatz 20€ (2%).",
-          "liga": "Bundesliga"
-        },
-        {
-          "id": "bmg-bvb-2",
+          "id": "ars-bvb-1",
           "kategorie": "value",
           "markt": "Beide Teams treffen",
-          "quote": 1.7,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.63,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 10.0,
-          "begruendung": "BTTS Markt-Goldgrube (+21% ROI). BMG daheim offensiv ansprechend, BVB-Sturm (Guirassy) auch unter Rotation treffsicher. Einsatz 10€ (1%).",
-          "liga": "Bundesliga"
-        },
-        {
-          "id": "bmg-bvb-3",
-          "kategorie": "wackel",
-          "markt": "Unter 3.5 Tore",
-          "quote": 1.5,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.45,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "BVB im CL-Vorbereitungs-Modus faehrt oft kontrolliert, BMG defensiv gefestigt. 1:1, 2:1, 1:2 sind Top-Szenarien = Unter 3.5 rein. Wackel wegen potenziellen BVB-Explosions-Partien. Einsatz 5€ (0.5%).",
-          "liga": "Bundesliga"
-        },
-        {
-          "id": "bmg-bvb-4",
-          "kategorie": "wackel",
-          "markt": "Serhou Guirassy Torschuetze jederzeit",
-          "quote": 2.3,
-          "edge_prozent": 3.0,
-          "faire_quote": 2.23,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "HR24 nur teilweise erfuellt: Guirassy Form 2026/27 solide, aber CL-Rotations-Risiko koennte auf 60 Min bringen. Einwechslungs-Boost greift (sollte er frueh raus - Beier als Ersatz zaehlt). Am Spieltag Aufstellungs-Vorschau Pflicht-Check. Wackel 5€ (0.5%).",
-          "liga": "Bundesliga"
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-16-che-lee",
-      "liga": "Premier League 2026/27 - Matchweek 11",
-      "heim": "Chelsea FC",
-      "gast": "Leeds United",
-      "anstoss": "2026-11-21T16:00:00+01:00",
-      "stadion": "Stamford Bridge, London",
-      "saison_kontext": {
-        "parallel_heim": "CL-Ligaphase Spieltag 5 Di/Mi 24./25.11. (Chelsea ist in der CL 2026/27) - Rotation Richtung CL moeglich",
-        "parallel_gast": "keine - Leeds ist nicht in europaeischer Konkurrenz",
-        "saisonziel_heim": "Top-4 + CL-Rennen - Heimspiel gegen Mittelfeld-Team Pflichtsieg-Charakter",
-        "saisonziel_gast": "Klassenerhalt (Platz 9 mit 14 Pkt laut jingem Stand) - Auswaerts bei Top-Gegner = verwalten",
-        "motivations_asymmetrie": "Chelsea Heim-Favorit, Leeds auswaerts eher Verwalter-Modus. Chelsea-Sturm 2026/27 inkl. Neuzugang Palmer-dominiert, Jackson weg (Villa). Leeds-Defensive stabil aber begrenzt. Klassen-Edge vorhanden, Chelsea-Quote ~1.45 realistisch.",
-        "recovery_heim": "14 Tage seit MW10 - sehr gut erholt, Nationalspieler-Rueckkehr Mi-Do",
-        "recovery_gast": "14 Tage Pause - frisch",
-        "quellen": [
-          "https://www.footballwebpages.co.uk/premier-league/fixtures-results",
-          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
-          "https://fantasy.premierleague.com/fixtures"
-        ]
-      },
-      "news": [
-        "Chelsea-Heimform solide 2026/27, Leeds auswaerts eher bescheiden",
-        "Jackson weg zu Villa (Sommer 2026) - Chelsea-Sturm auf Delap/Nkunku/George umgestellt - Aufstellungs-Check Pflicht",
-        "CL-Spieltag 5 Di/Mi - Rotation moeglich aber bei Heim-Pflichtsieg eher spaet (Doppelwechsel bei Fuehrung)",
-        "2:0-Insurance gilt NICHT in PL (nur BL + CL)"
-      ],
-      "tipps": [
-        {
-          "id": "che-lee-1",
-          "kategorie": "safe",
-          "markt": "Chelsea oder Remis (Doppelte Chance)",
-          "quote": 1.18,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.15,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 10.0,
-          "begruendung": "DC 1X Goldgrube (+40% ROI). Heimrecht + Klassen-Edge vs Mittelfeld-Aufsteiger-Nachbar. Ohne 2:0-Insurance ist DC die sichere Alternative zum direkten Sieg. Einsatz 10€ (1%).",
-          "liga": "Premier League"
-        },
-        {
-          "id": "che-lee-2",
-          "kategorie": "value",
-          "markt": "Sieg Chelsea (90 Min)",
-          "quote": 1.5,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.42,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15.0,
-          "begruendung": "Chelsea-Heim-Favorit 1.45-1.55 bei bet365 realistisch. Markt Sieg (1X2) ist Goldgrube (+17% ROI historisch). Leeds-Auswaerts-Verwalter-Modus = Chelsea sollte souveraen durch. Einsatz 15€ (1.5%).",
-          "liga": "Premier League"
-        },
-        {
-          "id": "che-lee-3",
-          "kategorie": "wackel",
-          "markt": "Cole Palmer Torschuetze jederzeit",
-          "quote": 2.1,
-          "edge_prozent": 3.0,
-          "faire_quote": 2.03,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "HR24: Palmer Chelsea-Top-Scorer + aktiver Elfer-Schuetze. Jederzeit-Markt Goldgrube (+24% ROI). Risiko: CL-Rotation koennte ihn spaet bringen. Einwechslungs-Boost greift nicht fuer Palmer (Mittelfeld-Spieler). Wackel 5€ (0.5%).",
-          "liga": "Premier League"
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-16-new-ars",
-      "liga": "Premier League 2026/27 - Matchweek 11",
-      "heim": "Newcastle United",
-      "gast": "Arsenal FC",
-      "anstoss": "2026-11-21T18:30:00+01:00",
-      "stadion": "St. James' Park, Newcastle",
-      "saison_kontext": {
-        "parallel_heim": "keine - Newcastle 2026/27 nicht in Europa (EL-Aus letztes Jahr)",
-        "parallel_gast": "CL-Ligaphase Spieltag 5 Di 24.11. vs Borussia Dortmund (Heim, Emirates) - Sa-Di 3 Tage, Arsenal rotiert gegen Newcastle wahrscheinlich NICHT heavy weil Topspiel-Charakter + CL-Heim-Aufgabe erst 3 Tage spaeter",
-        "saisonziel_heim": "Top-6 + EL-Quali - Heimspiel gegen Titelverteidiger = Scalp-Chance",
-        "saisonziel_gast": "Titelverteidigung (Platz 1 mit 27 Pkt laut Zwischenstand) - Topspiel-Charakter, keine Underdog-Rolle",
-        "motivations_asymmetrie": "Arsenal Favorit auswaerts, Newcastle-St-James-Heim historisch schwer. Arsenal bei vollstaendiger Elf klar staerker, aber: Heimrecht Newcastle + CL-Kopf bei Arsenal (3 Tage spaeter Dortmund) = eher 55/45 als 70/30. Coinflip-Tendenz - kein SAFE legitim.",
-        "recovery_heim": "14 Tage - sehr gut erholt",
-        "recovery_gast": "14 Tage - erholt, aber CL-Vorbereitung ab Mo bremst Fokus auf Spiel",
-        "quellen": [
-          "https://www.footballwebpages.co.uk/premier-league/fixtures-results",
-          "https://www.skysports.com/football/news/13590457/premier-league-fixtures-on-sky-sports-liverpool-vs-man-utd-and-arsenal-vs-man-city-in-november",
-          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League"
-        ]
-      },
-      "news": [
-        "Arsenal Platz 1 der PL-Tabelle (27 Pkt) - Gegner-Nr1 fuer Newcastle, Stimmung im St James' Park hoch",
-        "Arsenal CL Mi 24.11. gegen Dortmund daheim - Trainer-Arteta rotiert bei grossem Topspiel eher nicht",
-        "Newcastle Heimform stark 2026/27 - letzter Arsenal-Besuch historisch oft 0:0 oder knapp",
-        "Coinflip-Tendenz: beide Teams stark, kein klarer SAFE moeglich"
-      ],
-      "tipps": [
-        {
-          "id": "new-ars-1",
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen",
-          "quote": 1.75,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.69,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "BTTS Goldgrube (+21% ROI). Beide Mannschaften offensiv druckvoll, Newcastle-Heim-Pressing vs Arsenal-Konter = gute Chance auf Treffer beiderseits. Wackel wegen Arsenal-Defensiv-Fokus bei CL-Kopf. Einsatz 5€ (0.5%).",
-          "liga": "Premier League"
-        },
-        {
-          "id": "new-ars-2",
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.8,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.75,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "Ueber 2.5 Goldgrube (+22% ROI). Historisch Top-Topspiel-Modus faellt oft 2-3 Tore. Wackel wegen potenziell taktisch-abgeklaertem Match. Einsatz 5€ (0.5%).",
-          "liga": "Premier League"
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-16-liv-mun",
-      "liga": "Premier League 2026/27 - Matchweek 11",
-      "heim": "Liverpool FC",
-      "gast": "Manchester United",
-      "anstoss": "2026-11-22T17:30:00+01:00",
-      "stadion": "Anfield, Liverpool",
-      "saison_kontext": {
-        "parallel_heim": "CL-Ligaphase Spieltag 5 Di/Mi 24./25.11. - Liverpool-CL-Aufgabe, Sonntags-Spiel + 2-3 Tage Pause = Rotation moeglich aber bei North-West-Derby meist unrotierte Stammelf",
-        "parallel_gast": "EL-Ligaphase Spieltag 5 Do 26.11. (ManU ist in EL 2026/27, nicht CL) - Sa-Do 5 Tage Pause = mehr Puffer, Rotation unwahrscheinlich",
-        "saisonziel_heim": "Top-4 + CL-Rennen - Platz 1 oder 2 Richtung November (Stand pruefen)",
-        "saisonziel_gast": "Top-6 + EL-Progress - Platz Mittelfeld/Top-6 Rennen",
-        "motivations_asymmetrie": "North-West-Derby: Heimrecht Liverpool, Diaz-Wechsel von Liverpool zu Bayern bedeutet Liverpool-Sturm ohne ihn (kein Diaz-Tipp fuer Liverpool!). ManU ist in Mittelfeld-Tabellenlage, Ferguson/Amorim-Taktik meist defensiv-ausgerichtet. Liverpool-Favorit, aber Derby-Charakter -> Coinflip-Risiko erhoeht.",
-        "recovery_heim": "14 Tage Laenderpause - sehr gut erholt, Salah/Van-Dijk-Rueckkehr Mi-Do",
-        "recovery_gast": "14 Tage - sehr gut erholt",
-        "quellen": [
-          "https://www.footballwebpages.co.uk/premier-league/fixtures-results",
-          "https://www.skysports.com/football/news/13590457/premier-league-fixtures-on-sky-sports-liverpool-vs-man-utd-and-arsenal-vs-man-city-in-november",
-          "https://data/kader_wechsel_2026.json (Diaz-Abgang Liverpool -> Bayern)"
-        ]
-      },
-      "news": [
-        "Diaz spielt nicht mehr fuer Liverpool (Sommer-Transfer zu Bayern) - KEIN Diaz-Torschuetzen-Tipp fuer Liverpool-Seite",
-        "Liverpool-Anfield-Heim-Festung 2026/27 - ManU-Auswaerts-Serie historisch oft frustrierend",
-        "CL-Spieltag 5 Mi fuer Liverpool, EL-Spieltag 5 Do fuer ManU - beide rotieren eher spaet im Spiel",
-        "2:0-Insurance gilt NICHT in PL (nur BL + CL)"
-      ],
-      "tipps": [
-        {
-          "id": "liv-mun-1",
-          "kategorie": "value",
-          "markt": "Liverpool oder Remis (Doppelte Chance)",
-          "quote": 1.22,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.19,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 10.0,
-          "begruendung": "DC 1X Goldgrube (+40% ROI). Heimrecht Anfield + Klassen-Edge in Form 2026/27. ManU-Auswaerts-Form historisch problematisch gegen Top-4. Einsatz 10€ (1%). [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
-          "liga": "Premier League",
-          "_markt_mix_dc_downgrade": true
-        },
-        {
-          "id": "liv-mun-2",
-          "kategorie": "value",
-          "markt": "Ueber 2.5 Tore",
           "quote": 1.75,
           "edge_prozent": 4.0,
           "faire_quote": 1.68,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 10.0,
-          "begruendung": "Ueber 2.5 Goldgrube (+22% ROI). Liverpool-Heim-Durchschlagskraft + Derby-Charakter -> meist 3+ Tore. Einsatz 10€ (1%).",
-          "liga": "Premier League"
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-16-rma-cel",
-      "liga": "LaLiga 2026/27 - Jornada 13",
-      "heim": "Real Madrid",
-      "gast": "Celta Vigo",
-      "anstoss": "2026-11-21T21:00:00+01:00",
-      "stadion": "Santiago Bernabeu, Madrid",
-      "saison_kontext": {
-        "parallel_heim": "CL-Ligaphase Spieltag 5 Di 24.11. - Real-Madrid-Europapokal-Standard, Rotation moeglich",
-        "parallel_gast": "keine - Celta ist nicht in europaeischer Konkurrenz 2026/27",
-        "saisonziel_heim": "LaLiga-Titel + CL-Progress - Heimspiel Pflicht-Punkte",
-        "saisonziel_gast": "Oberes Mittelfeld / EL-Quali - Auswaerts bei Real = verwalten, Punkt-Bonus-Hoffnung",
-        "motivations_asymmetrie": "Real-Madrid-Heim gegen Mittelfeld-Celta = Pflicht-3-Punkte. Real haelt historisch 11-Siege-Serie gegen Celta. Klassen-Edge gross, Real-Quote ~1.30 realistisch. Risiko: Mbappe-Verletzungsstatus (frueher Knie) - am Spieltag Pflicht-Check kicker/transfermarkt-Verletzungsstand.",
-        "recovery_heim": "14 Tage Pause - frisch, Nationalspieler-Rueckkehr Mi-Do",
-        "recovery_gast": "14 Tage Pause - frisch",
-        "quellen": [
-          "https://www.fcbarcelona.es/es/futbol/primer-equipo/calendario",
-          "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
-          "https://www.laliga.com/"
-        ]
-      },
-      "news": [
-        "Real-Madrid-Heimstaerke 2026/27 solide - Arbeloa coacht (wenn noch), 11-Match-Siegesserie historisch gegen Celta",
-        "Mbappe-Verletzungs-Status am Spieltag Pflicht-Check (Knie-Thema aus frueheren Previews)",
-        "Celta-Aspas als Routinier-Captain + Top-Scorer - bei Form in letzten 5 Spielen pruefen",
-        "2:0-Insurance gilt NICHT in LaLiga (nur BL + CL in bet365-DE-Konditionen)"
-      ],
-      "tipps": [
-        {
-          "id": "rma-cel-1",
-          "kategorie": "safe",
-          "markt": "Real Madrid oder Remis (Doppelte Chance)",
-          "quote": 1.08,
-          "edge_prozent": 2.0,
-          "faire_quote": 1.06,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 10.0,
-          "begruendung": "DC 1X Goldgrube (+40% ROI). Real-Heim-Dominanz vs Mittelfeld. LaLiga-Liga-Goldgrube historisch. Reality-Check: LaLiga gesamt sehr positive Bilanz. Einsatz 10€ (1%).",
-          "liga": "LaLiga"
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "BTTS Markt-Goldgrube (+44% ROI historisch). Arsenal daheim offensiv unterwegs, BVB nach Nmecha-Tor im CL-Fluss. Ohne Saka Arsenals Offensive weniger spitz, aber Gyoekeres/Martinelli/Trossard tragen Volumen. BVB mit Fabio Silva + Beier + Brandt treffsicher auch unter Rotation. Einsatz 20€ (2% von 1000€ Kasse Stufe 1).",
+          "liga": "UEFA Champions League"
         },
         {
-          "id": "rma-cel-2",
-          "kategorie": "value",
-          "markt": "Sieg Real Madrid (90 Min)",
-          "quote": 1.35,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.3,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15.0,
-          "begruendung": "Sieg 1X2 Goldgrube (+17% ROI). Real-Heim gegen Celta ist statistisch dominant. Risiko: Mbappe-Ausfall koennte Sturm-Breite schmaelern, aber Vinicius/Rodrygo/Bellingham-Alternativen vorhanden. Einsatz 15€ (1.5%).",
-          "liga": "LaLiga"
-        },
-        {
-          "id": "rma-cel-3",
+          "id": "ars-bvb-2",
           "kategorie": "value",
           "markt": "Ueber 2.5 Tore",
-          "quote": 1.5,
+          "quote": 1.75,
           "edge_prozent": 3.0,
-          "faire_quote": 1.45,
+          "faire_quote": 1.7,
           "empfohlener_einsatz_prozent": 1.0,
           "empfohlener_einsatz_euro": 10.0,
-          "begruendung": "Ueber 2.5 Goldgrube (+22% ROI). Real-Heim-Explosionen oft mit 3+ Toren. Celta-Defensive mittelklasse. Einsatz 10€ (1%).",
-          "liga": "LaLiga"
+          "begruendung": "Ueber 2.5 Markt-Goldgrube (+22% ROI). Beide Teams offensiv, beide auf Top-8-Jagd in CL. Historisch Arsenal daheim in CL meist 3+ Tore. Einsatz 10€ (1%).",
+          "liga": "UEFA Champions League"
         },
         {
-          "id": "rma-cel-4",
+          "id": "ars-bvb-3",
           "kategorie": "wackel",
-          "markt": "Vinicius Jr. Torschuetze jederzeit",
-          "quote": 2.0,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.94,
+          "markt": "Gyoekeres Torschuetze jederzeit",
+          "quote": 2.3,
+          "edge_prozent": 2.0,
+          "faire_quote": 2.25,
           "empfohlener_einsatz_prozent": 0.5,
           "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "HR24: Vinicius Flügel-Volume-Scorer vs Celta-Defense. Jederzeit-Markt Goldgrube (+24% ROI). Alternative zu moeglich-ausfallendem Mbappe. Einwechslungs-Boost greift (bei Auswechsln zaehlt Ersatz-Fluegel wie Guler/Rodrygo). Einsatz 5€ (0.5%).",
-          "liga": "LaLiga"
+          "begruendung": "HR24 teilweise: Gyoekeres ist Arsenals Volume-9er, Einwechslungs-Boost greift (Jesus zu Barca -> Trossard/Nwaneri als Backup, deren Tore zaehlen bei bet365-Jederzeit fuer Startelf-9er). KADER-PFLICHT-CHECK am Spieltag kicker.de Aufstellungs-Vorschau (ob Arteta rotiert Richtung PL-Spiel So). Einsatz 5€ (0.5%).",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "ars-bvb-4",
+          "kategorie": "wackel",
+          "markt": "Nmecha Torschuetze jederzeit",
+          "quote": 4.5,
+          "edge_prozent": 3.0,
+          "faire_quote": 4.35,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Form-Edge-Pflicht HR24: Nmecha mit 87.-Minuten-Winner gegen BMG 21.11., ohne Guirassy ist er auch Szenario-9er (CL-Grosse-Buehne). Einwechslungs-Boost: wer immer anstelle von Guirassy startet, hat Backup = andere Volumen-Sturm-Tipps noch sicherer. Einsatz 5€.",
+          "liga": "UEFA Champions League"
         }
       ],
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-11-16-bar-vil",
-      "liga": "LaLiga 2026/27 - Jornada 13",
-      "heim": "FC Barcelona",
-      "gast": "Villarreal CF",
-      "anstoss": "2026-11-22T14:00:00+01:00",
-      "stadion": "Spotify Camp Nou, Barcelona",
+      "id": "2026-11-23-rma-psv",
+      "liga": "UEFA Champions League - Ligaphase Spieltag 5",
+      "heim": "Real Madrid",
+      "gast": "PSV Eindhoven",
+      "anstoss": "2026-11-24T21:00:00+01:00",
+      "stadion": "Santiago Bernabeu, Madrid",
       "saison_kontext": {
-        "parallel_heim": "CL-Ligaphase Spieltag 5 Di/Mi 24./25.11. - Barca CL-Pflichtaufgabe, Sonntags-Spiel + 2-3 Tage Pause = Rotations-Risiko bei Mittag-Anstoss",
-        "parallel_gast": "EL-Ligaphase Spieltag 5 Do 26.11. - Villarreal EL-Teilnehmer, So-Do 4 Tage Pause = mittlerer Puffer",
-        "saisonziel_heim": "LaLiga-Titel + CL-Progress - Platz 2 Liga (Stand pruefen), Topspiel-Niveau",
-        "saisonziel_gast": "Top-4 + CL-Quali-Fight - EL-Teilnahme, Mittelfeld-Spitze",
-        "motivations_asymmetrie": "Barca-Heim-Favorit, aber: Mittag-Anstoss So nach Laenderspielpause + CL Mi -> leichte Rotation. Villarreal-Yellow-Submarine strukturell solide, Auswaerts eher verwalten. Barca-Quote ~1.35 realistisch. Adeyemi (Transfer vom BVB im Sommer) ist jetzt Barca-Fluegel-Backup - Volume-Rotations-Option.",
-        "recovery_heim": "14 Tage Pause - frisch",
-        "recovery_gast": "14 Tage Pause - frisch",
+        "parallel_heim": "LaLiga Jornada 14 So 29.11. Real Madrid - Deportivo Alaves (Heim) - 4.5 Tage Pause, Rotation unwahrscheinlich",
+        "parallel_gast": "Eredivisie am Wochenende - 3 Tage Erholung ab Di nach London-Trip... hier Madrid-Trip, Rotation fuer Eredivisie moeglich",
+        "saisonziel_heim": "LaLiga Platz 1 oder 2 (Rennen mit Barcelona) + CL Top-8-Direktquali (Pflicht nach Carlo-Ancelotti-Ablösung)",
+        "saisonziel_gast": "Eredivisie Meisterschaft verteidigen + CL Playoff-Platz sichern (als Nicht-Top-5-Liga-Team)",
+        "motivations_asymmetrie": "Real daheim klarer Favorit, Klassenunterschied gross (Bernabeu + vollstaendige Startelf). PSV als niederlaendisches Team kann in CL-Nacht aber einzelne Spiele stehlen (Aston-Villa-Pattern 2024/25). Mbappe-Volumen gegen PSV-Defense + Bernardo Silva (neu aus City) bereits mit Toren (gg Leipzig CL MD3 laut Auswertung).",
+        "recovery_heim": "3 Tage seit LaLiga J13 (Sa/So 21./22.11. gegen Celta) - frisch",
+        "recovery_gast": "3 Tage seit Eredivisie - frisch",
         "quellen": [
-          "https://www.fcbarcelona.es/es/futbol/primer-equipo/calendario",
-          "https://en.wikipedia.org/wiki/2026%E2%80%9327_La_Liga",
-          "data/kader_wechsel_2026.json (Adeyemi BVB -> Barca)"
+          "https://www.uefa.com/uefachampionsleague/fixtures/",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Champions_League",
+          "https://citizen.digital/article/bernardo-silva-signs-two-year-deal-with-real-madrid-n384792"
         ]
       },
       "news": [
-        "Camp-Nou-Rueckkehr-Saison fuer Barca, Anstoss 14:00 ungewoehnlich frueh fuer Topspiel-Niveau",
-        "Adeyemi als Barca-Fluegel-Backup bestaetigt (Doppelpack oder Assist-Volume moeglich bei Einwechslung) - NICHT mehr fuer BVB tippen",
-        "Yamal/Raphinha/Lewandowski-Kombinationen - Top-Scorer-Auswahl breit",
-        "2:0-Insurance gilt NICHT in LaLiga"
+        "Real daheim gegen Eredivisie-Team = Pflichtsieg-Charakter (Quote Heim-Sieg erwartbar 1.30-1.40)",
+        "Mbappe Top-Scorer der Saison, Bernardo Silva (Ex-City) traf bereits in CL MD3 gegen Leipzig",
+        "PSV in CL schwieriges Programm (als Pot-3-Team), Punkte-Hoffnung eher gegen Top-12-Gegner als bei Real",
+        "2:0-Insurance greift in CL - Real-Sieg-Tipp gut abgesichert"
       ],
       "tipps": [
         {
-          "id": "bar-vil-1",
-          "kategorie": "value",
-          "markt": "Barcelona oder Remis (Doppelte Chance)",
-          "quote": 1.1,
-          "edge_prozent": 2.0,
-          "faire_quote": 1.08,
+          "id": "rma-psv-1",
+          "kategorie": "safe",
+          "markt": "Real Madrid oder Remis (Doppelte Chance)",
+          "quote": 1.05,
+          "edge_prozent": 1.0,
+          "faire_quote": 1.04,
           "empfohlener_einsatz_prozent": 1.0,
           "empfohlener_einsatz_euro": 10.0,
-          "begruendung": "DC 1X Goldgrube (+40% ROI). Barca-Heim gegen Villarreal statistisch dominant. Einsatz 10€ (1%). [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim]",
-          "liga": "LaLiga",
-          "_markt_mix_dc_downgrade": true
+          "begruendung": "DC 1X Markt-Goldgrube (+47% ROI historisch). Real daheim gegen Eredivisie-Team ist strukturell SAFE, Pflicht-Mitnahme. 2:0-Insurance greift - selbst bei spaetem Umfall ist man durch. Einsatz 10€ (1% Kasse Stufe 1).",
+          "liga": "UEFA Champions League"
         },
         {
-          "id": "bar-vil-2",
+          "id": "rma-psv-2",
           "kategorie": "value",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.4,
           "edge_prozent": 4.0,
           "faire_quote": 1.35,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15.0,
-          "begruendung": "Ueber 2.5 Goldgrube (+22% ROI). Barca-Heim-Offensive + Villarreal offene Spielweise = 3+ Tore sehr wahrscheinlich. Einsatz 15€ (1.5%).",
-          "liga": "LaLiga"
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "Ueber 2.5 Markt-Goldgrube (+22%). Real daheim 3+ Tore in CL-Pflichtsiegen, PSV offensiv ambitioniert = BTTS wahrscheinlich = Ueber 2.5 auch. Reality-Check: Sieg-Tipp fuer Real impliziert 2-0 oder 3-1 = Ueber 2.5 logisch. Einsatz 20€ (2%).",
+          "liga": "UEFA Champions League"
         },
         {
-          "id": "bar-vil-4",
+          "id": "rma-psv-3",
           "kategorie": "wackel",
-          "markt": "Beide Teams treffen",
-          "quote": 1.65,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.58,
+          "markt": "Mbappe Torschuetze jederzeit",
+          "quote": 1.55,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.47,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "begruendung": "HR24 erfuellt: Mbappe ist Volume-9er, Top-Scorer Real. Jederzeit-Markt Goldgrube (+24% ROI). Einwechslungs-Boost: Gonzalo/Endrick als Backup zaehlen auch. KADER-PFLICHT-CHECK am Spieltag (kicker.de / realmadrid.com) auf Fitness. Einsatz 10€ (1%). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "liga": "UEFA Champions League",
+          "_torschuetze_quelle_warn": true
+        },
+        {
+          "id": "rma-psv-4",
+          "kategorie": "wackel",
+          "markt": "Real Madrid Handicap -1.5 (Sieg mit 2+ Toren)",
+          "quote": 1.85,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.8,
           "empfohlener_einsatz_prozent": 0.5,
           "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "BTTS Goldgrube (+21% ROI). Villarreal-Sturm (Pino/Morales/Moleiro) Mittelklasse, ein Tor-Einschlag plausibel. Wackel wegen potenziellem Barca-Durchmarsch (0:3). Einsatz 5€ (0.5%).",
-          "liga": "LaLiga"
+          "begruendung": "Real daheim in CL gegen Mittelklasse-Teams oft klar (3:0, 4:1, 2:0). Risiko: PSV kann in CL aber auch stehlen (siehe historische Niederlagen Real gegen niederlaendische Klubs). Wackel-Einsatz 5€ (0.5%).",
+          "liga": "UEFA Champions League"
         }
       ],
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-11-16-nap-tor",
-      "liga": "Serie A 2026/27 - Giornata 12",
-      "heim": "SSC Napoli",
-      "gast": "Torino FC",
-      "anstoss": "2026-11-21T20:45:00+01:00",
-      "stadion": "Diego Armando Maradona, Napoli",
+      "id": "2026-11-23-mci-nap",
+      "liga": "UEFA Champions League - Ligaphase Spieltag 5",
+      "heim": "Manchester City",
+      "gast": "SSC Napoli",
+      "anstoss": "2026-11-24T21:00:00+01:00",
+      "stadion": "Etihad Stadium, Manchester",
       "saison_kontext": {
-        "parallel_heim": "CL-Ligaphase Spieltag 5 Di/Mi 24./25.11. - Napoli ist in CL 2026/27, Sa-Di 3 Tage Pause, Rotations-Risiko",
-        "parallel_gast": "keine - Torino nicht in Europa",
-        "saisonziel_heim": "Scudetto-Rennen + CL-Progress - Heimspiel Pflicht-3-Punkte",
-        "saisonziel_gast": "Mittelfeld / EL-Hoffnung - Auswaerts bei Top-4-Team = verwalten",
-        "motivations_asymmetrie": "Napoli-Heim-Favorit, aber CL-Rotation Richtung Mi plausibel. Torino defensiv kompakt unter Trainer-Vanoli (Stand pruefen), Auswaerts-Tor-Tempo niedrig. Klassen-Edge klar, Napoli-Quote ~1.45. McTominay / Hojlund / Raspadori-Sturm (Lukaku seit Sommer 2026 bei Fenerbahce, laut data/kader_wechsel_2026.json).",
-        "recovery_heim": "14 Tage Pause - sehr gut erholt",
-        "recovery_gast": "14 Tage Pause - frisch",
+        "parallel_heim": "PL Matchweek 13 Sa/So 28./29.11. (Arsenal-Gegner moeglich) - 3-4 Tage Erholung, Pep rotiert oft",
+        "parallel_gast": "Serie A Giornata 13 So 29.11. Sassuolo-Napoli (Auswaerts) - CL-Reise Mo + Spiel Di, Rueckreise Mi, So kurz: Rotation Thiago-Motta sehr wahrscheinlich",
+        "saisonziel_heim": "PL Top-4 + CL Top-8-Direktquali (nach PL-Verlust 25/26 Rueckkehr-Charakter)",
+        "saisonziel_gast": "Serie A Top-4 sichern + CL League-Phase ueberstehen (Playoff-Platz Minimum)",
+        "motivations_asymmetrie": "City daheim mit Haaland + Marmoush (zu Tottenham, laut Kader-File) = nur noch Haaland fix. Ndiaye von Everton (65 Mio) ist City-Fluegel (Haaland-Assist Pattern bestaetigt). Napoli unter Thiago Motta meistens mit Hojlund + De Bruyne-Co. Im Etihad klarer Heim-Favorit, aber nicht gross-ueberlegen (Napoli ist CL-fit).",
+        "recovery_heim": "3 Tage seit PL MW12 - frisch",
+        "recovery_gast": "3 Tage seit Serie A G12 + CL-Reise Mo-Di",
         "quellen": [
-          "https://sport.sky.it/calcio/serie-a/calendario-risultati",
-          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
-          "https://en.legaseriea.it/"
+          "https://www.uefa.com/uefachampionsleague/fixtures/",
+          "https://www.beinsports.com/en-au/football/premier-league/articles-video/man-city-signs-ndiaye-in-65m-deal-2026-09-01",
+          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Manchester_City_F.C._season"
         ]
       },
       "news": [
-        "Napoli Platz 2-4 Scudetto-Rennen, Heim-Dominanz 2026/27 solide",
-        "Torino unter neuem/bestaetigtem Trainer (Stand pruefen) defensiv-ausgerichtet",
-        "Napoli-Sturm nach Lukaku-Abgang (zu Fenerbahce) auf Hojlund/Raspadori/Lucca-Kombi umgestellt - Aufstellung am Spieltag Pflicht-Check",
-        "CL-Rotation Richtung Mi 25.11. plausibel bei spaeten Einwechslungen"
+        "Haaland Bayerns-Konkurrent als CL-Volumen-9er mit Enzo Fernandez als neuem City-6er (125 Mio aus Chelsea)",
+        "Napoli-Volumen-9er Hojlund (ex-ManU/Frankfurt), De Bruyne traf bereits oefter in CL 2026/27",
+        "Napoli ohne Lukaku (zu Fener laut Kader-File) - Sturmhierarchie: Hojlund, Vergara, Simeone (nein, der ist Torino)",
+        "2:0-Insurance greift in CL"
       ],
       "tipps": [
         {
-          "id": "nap-tor-1",
-          "kategorie": "safe",
-          "markt": "Napoli oder Remis (Doppelte Chance)",
-          "quote": 1.1,
-          "edge_prozent": 2.0,
-          "faire_quote": 1.08,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 10.0,
-          "begruendung": "DC 1X Goldgrube (+40% ROI). Napoli-Heim gegen Torino statistisch sehr sicher. Einsatz 10€ (1%).",
-          "liga": "Serie A"
+          "id": "mci-nap-1",
+          "kategorie": "value",
+          "markt": "Manchester City oder Remis (Doppelte Chance)",
+          "quote": 1.25,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.21,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "DC 1X Markt-Goldgrube (+47% ROI). City daheim mit Haaland/Ndiaye/Enzo = strukturell vorne. Napoli unter Rotations-Druck (So kurz). Einsatz 20€ (2%).",
+          "liga": "UEFA Champions League"
         },
         {
-          "id": "nap-tor-2",
+          "id": "mci-nap-2",
           "kategorie": "value",
-          "markt": "Unter 3.5 Tore",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "begruendung": "BTTS Goldgrube (+44%). City-Defense ohne Gvardiol-Partner haeufig loeschrig, Napoli Hojlund/De Bruyne volumentraechtig. Einsatz 10€ (1%).",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "mci-nap-3",
+          "kategorie": "wackel",
+          "markt": "Haaland Torschuetze jederzeit",
+          "quote": 1.6,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.54,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "begruendung": "HR24 erfuellt: Haaland Volume-9er, CL-Grosse-Buehne. Jederzeit-Markt Goldgrube (+24%). Einwechslungs-Boost: Marmoush ist zu Tottenham (laut Kader-File, Hinweis aus Auswertung 19.10. - Pflicht-Kauf 60 Mio), stattdessen Ndiaye-Assist-Pattern -> andere Backup zaehlen fuer Haaland-Tipp. KADER-PFLICHT-CHECK am Spieltag. Einsatz 10€ (1%). [Auto: Torschuetze-Vereins-Quelle (transfermarkt/kicker/espn/bundesliga player-Seite) fehlt in quellen[] - max wackel]",
+          "liga": "UEFA Champions League",
+          "_torschuetze_quelle_warn": true
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-23-lil-bay",
+      "liga": "UEFA Champions League - Ligaphase Spieltag 5",
+      "heim": "LOSC Lille",
+      "gast": "FC Bayern Muenchen",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "stadion": "Decathlon Arena - Stade Pierre-Mauroy, Villeneuve-d'Ascq",
+      "saison_kontext": {
+        "parallel_heim": "Ligue 1 Journee 13 Sa/So 28./29.11. - 3-4 Tage Pause, Lille rotiert fuer CL/Liga je nach Platzierung",
+        "parallel_gast": "BL Spieltag 11 Sa 28.11. Hamburg (A) - 3 Tage nach CL-Auswaerts: Rotation sehr wahrscheinlich bei Bayern-Stammelf (Kompany-Vorsicht)",
+        "saisonziel_heim": "Ligue 1 CL-Quali-Platz (3-4, Pot-Jagd) + CL League-Phase fortsetzen (Playoff-Platz Minimum)",
+        "saisonziel_gast": "BL Platz 1 (21 Pkt geteilt mit BVB) + CL Top-8-Direktquali (Haupt-Prioritaet)",
+        "motivations_asymmetrie": "Bayern auswaerts in Frankreich = Kompany-Rotations-Entscheidung, aber: kein Diaz (laut Kader-File OUT seit 30.10. Oberschenkel-Faser, vorauss. Rueckkehr Ende Nov - Status am Spieltag live pruefen). Kane bleibt Volume-9er. Lille zuhause in CL-Nacht bisweilen starke Scalp-Partien (siehe Lille-Real 2024). Kein klarer Favorit-Spread - Bayern knapp favorisiert.",
+        "recovery_heim": "3-4 Tage seit Ligue 1 J12 - frisch",
+        "recovery_gast": "3 Tage seit BL Spieltag 10 (So 22.11., vermutlich gegen Hoffenheim oder Union) - durchschnittlich",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/fixtures/",
+          "https://fcbayern.com/en/matches/profis/champions-league/2026-2027/osc-lille-fc-bayern-muenchen-25-11-2026/lineup",
+          "https://bolavip.com/en/soccer/why-isnt-luis-diaz-playing-today-for-bayern-munich-vs-borussia-dortmund-in-2026-27-bundesliga-matchday-8"
+        ]
+      },
+      "news": [
+        "Bayerns Diaz seit 30.10. mit Oberschenkel-Faser OUT - Rueckkehr Ende Nov. moeglich (nicht sicher), Status Pflicht-Check kicker.de",
+        "Kane (Harry) weiter Volume-9er Bayern",
+        "Lille daheim in CL gegen Deutsche aehnlich schwer wie gegen Leipzig 2025 - keine klare Stress-Zone",
+        "2:0-Insurance greift in CL",
+        "KADER-PFLICHT-CHECK am Spieltag (Diaz-Status + Kompany-Rotation vor BL Sa)"
+      ],
+      "tipps": [
+        {
+          "id": "lil-bay-1",
+          "kategorie": "wackel",
+          "markt": "Bayern Muenchen oder Remis (Doppelte Chance)",
+          "quote": 1.35,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.31,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "DC X2 Goldgrube (+34%). Bayern auswaerts in CL + Klassenunterschied - sollte man mitnehmen auch bei Rotation. 2:0-Insurance greift in CL. Einsatz 20€ (2%). [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
+          "liga": "UEFA Champions League",
+          "_saison_kontext_sanity_downgrade": true
+        },
+        {
+          "id": "lil-bay-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "begruendung": "Ueber 2.5 Goldgrube (+22%). Bayern mit Kane als Volumen, Lille daheim offensiv. Einsatz 10€ (1%).",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "lil-bay-3",
+          "kategorie": "value",
+          "markt": "Kane Torschuetze jederzeit",
+          "quote": 1.75,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "begruendung": "HR24 erfuellt: Kane Volume-9er Bayern, CL-Grosse-Buehne, Einwechslungs-Boost (Diaz-OUT heisst andere Fluegel treffen, Nr-1-Stuermer bleibt Kane). Jederzeit-Markt Goldgrube (+24%). KADER-PFLICHT-CHECK am Spieltag. Einsatz 10€ (1%).",
+          "liga": "UEFA Champions League"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-23-gal-avl",
+      "liga": "UEFA Champions League - Ligaphase Spieltag 5",
+      "heim": "Galatasaray",
+      "gast": "Aston Villa",
+      "anstoss": "2026-11-25T18:45:00+01:00",
+      "stadion": "RAMS Park, Istanbul",
+      "saison_kontext": {
+        "parallel_heim": "Sueper-Lig am Wochenende Sa/So 28./29.11. - Rotation moeglich",
+        "parallel_gast": "PL Matchweek 13 Sa 28.11. - 3 Tage Erholung, Emery rotiert fuer CL/PL",
+        "saisonziel_heim": "Sueper-Lig Meisterschaft + CL Top-24 (Playoff-Platz) - Heimspiel Pflichtsieg",
+        "saisonziel_gast": "PL Top-6 + CL Top-24 (ambitioniert Top-8) - jedes CL-Punkt Gold",
+        "motivations_asymmetrie": "Galatasaray daheim mit Istanbul-Atmosphaere = Heim-Faktor stark, Batrakov (neu aus Lokomotiv, laut Kader-File 25 Mio, Doppelpack gg Stuttgart) als Volumen-10er. Villa mit Jackson (ex-Chelsea Pflicht-Kauf 65 Mio) und Guessand als Sturm. Beide ambitioniert, Galatasaray-Heim-Edge ca. 55/45.",
+        "recovery_heim": "3-4 Tage seit Sueper-Lig - frisch",
+        "recovery_gast": "3 Tage seit PL MW12 - frisch",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/fixtures/",
+          "https://www.sofascore.com/news/aleksey-batrakov-signs-for-galatasaray-e25m-playmaker-joins-okan-buruks-midfield",
+          "https://ca.sports.yahoo.com/news/preview-osasuna-vs-getafe-cf-173500631.html"
+        ]
+      },
+      "news": [
+        "Batrakov (neu aus Lokomotiv, 25 Mio, 21-Jahre-10er) Volumen-Scorer Gala (Doppelpack gg Stuttgart CL MD4)",
+        "Villa-Sturm: Jackson (ex-Chelsea, farblos) + Guessand (als Watkins-Ersatz - Watkins zu Al Hilal laut Kader-File)",
+        "Galatasaray-Heim-Atmosphaere einer der staerksten in CL - Heim-Faktor relevant",
+        "2:0-Insurance greift in CL"
+      ],
+      "tipps": [
+        {
+          "id": "gal-avl-1",
+          "kategorie": "value",
+          "markt": "Galatasaray oder Remis (Doppelte Chance)",
+          "quote": 1.45,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.41,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "DC 1X Goldgrube (+47%). Gala daheim mit RAMS-Park-Atmosphaere ist ein Faktor, Villa auswaerts in Istanbul historisch schwer. 2:0-Insurance greift in CL. Einsatz 20€ (2%).",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "gal-avl-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "begruendung": "BTTS Goldgrube (+44%). Beide Teams offensiv (Batrakov/Jackson). Einsatz 10€.",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "gal-avl-3",
+          "kategorie": "wackel",
+          "markt": "Batrakov Torschuetze jederzeit",
+          "quote": 2.75,
+          "edge_prozent": 3.0,
+          "faire_quote": 2.66,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "HR24 teilweise: Batrakov Form-Edge (Doppelpack gg Stuttgart laut Kader-File-Hinweis). 10er mit Volumen, aber kein Volume-9er = Jederzeit-Quote entsprechend hoeher. KADER-PFLICHT-CHECK am Spieltag (ob Startelf oder Bank). Einsatz 5€ (0.5%).",
+          "liga": "UEFA Champions League"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-23-oly-mil",
+      "liga": "UEFA Europa League - Ligaphase Spieltag 5",
+      "heim": "Olympiacos Piraeus",
+      "gast": "AC Milan",
+      "anstoss": "2026-11-26T18:45:00+01:00",
+      "stadion": "Stadio Georgios Karaiskakis, Piraeus",
+      "saison_kontext": {
+        "parallel_heim": "Griechische Super League am Wochenende - Rotation moeglich",
+        "parallel_gast": "Serie A Giornata 13 Cagliari-Milan Mo 30.11. - 4 Tage nach EL (Do -> Mo), Rotation moeglich aber Spalletti-Kontinuitaet oft",
+        "saisonziel_heim": "Griechische Meisterschaft + EL Playoff-Platz (Top-24)",
+        "saisonziel_gast": "Serie A Scudetto-Rennen + EL Top-8-Direktquali (als Pot-1-Team erwartbar)",
+        "motivations_asymmetrie": "Olympiacos daheim mit Karaiskakis-Atmosphaere ist Heim-Faktor, aber Milan trotz Spalletti-Taktik mit Ramos (neu von PSG als 9er), Pulisic als Flanke klar favorisiert. Milan ohne Leao (zu Gala laut Kader-File 30.08.) = andere Offensive. Milan-Auswaerts-Sieg kein Selbstlaeufer.",
+        "recovery_heim": "3-4 Tage seit Super-League",
+        "recovery_gast": "3 Tage seit Serie A G12",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/fixtures/",
+          "https://sports.yahoo.com/articles/official-milan-sell-leao-galatasaray-102000969.html",
+          "https://www.milannews.it/news/probabile-formazione-torino-milan-amorim-maignan-rabiot-leao-pulisic-ramos-moreira-627223"
+        ]
+      },
+      "news": [
+        "Milan-Sturm 2026/27 unter Spalletti: Ramos (neu von PSG 03.08.) + Pulisic (Flanke) + Rabiot (6er) - kein Leao mehr",
+        "Olympiacos-Heim in Piraeus ein Faktor (Karaiskakis)",
+        "EL Goldgrube-Liga (+22% ROI 2026/27 laut data/liga_goldgruben.json fuer Spieltag 4)",
+        "2:0-Insurance greift nicht in EL (nur BL + CL) - DC statt direkter Sieg vorzuziehen"
+      ],
+      "tipps": [
+        {
+          "id": "oly-mil-1",
+          "kategorie": "value",
+          "markt": "AC Milan oder Remis (Doppelte Chance)",
           "quote": 1.3,
           "edge_prozent": 3.0,
           "faire_quote": 1.26,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "DC X2 Goldgrube (+34%). Milan auswaerts in Griechenland Klassen-Edge, EL Goldgrube-Liga. Einsatz 20€ (2%).",
+          "liga": "UEFA Europa League"
+        },
+        {
+          "id": "oly-mil-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.7,
           "empfohlener_einsatz_prozent": 1.0,
           "empfohlener_einsatz_euro": 10.0,
-          "begruendung": "Serie-A-typisch kontrolliert, Torino-Defense + Napoli-Taktik unter Trainer -> 1:0, 2:0, 2:1 wahrscheinlich. Reality-Check: Unter 2.5 Goldgrube (+44% ROI), Unter 3.5 noch sicherer. Einsatz 10€ (1%).",
-          "liga": "Serie A"
+          "begruendung": "BTTS Goldgrube (+44%). Olympiacos daheim trifft, Milan mit Ramos/Pulisic volumenstark. Einsatz 10€.",
+          "liga": "UEFA Europa League"
         },
         {
-          "id": "nap-tor-3",
+          "id": "oly-mil-3",
           "kategorie": "wackel",
-          "markt": "Scott McTominay Torschuetze jederzeit",
-          "quote": 3.0,
-          "edge_prozent": 2.0,
-          "faire_quote": 2.94,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "HR24 nur teilweise: McTominay Mittelfeld-Scorer, 2025/26 wichtige Tore - Volume aber niedriger als 9er. Gegen Torino-Schwache-Defense realistisch. Wackel 5€ (0.5%).",
-          "liga": "Serie A"
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-16-ata-int",
-      "liga": "Serie A 2026/27 - Giornata 12",
-      "heim": "Atalanta BC",
-      "gast": "Inter Mailand",
-      "anstoss": "2026-11-22T20:45:00+01:00",
-      "stadion": "Gewiss Stadium, Bergamo",
-      "saison_kontext": {
-        "parallel_heim": "CL-Ligaphase Spieltag 5 Di/Mi 24./25.11. - Atalanta in CL, Sonntags-Spiel + 2-3 Tage Pause, Rotations-Risiko bei Stammelf",
-        "parallel_gast": "CL-Ligaphase Spieltag 5 Di/Mi 24./25.11. - Inter in CL, gleiches Rotations-Risiko",
-        "saisonziel_heim": "Top-4 + CL-Progress - Heimspiel gegen Titelverteidiger = Scalp-Chance",
-        "saisonziel_gast": "Scudetto-Rennen (Inter Titelverteidiger 2025/26) + CL-Progress - Auswaerts bei Gasperini-Erbe = schwere Aufgabe",
-        "motivations_asymmetrie": "Topspiel-Charakter beide Seiten, beide CL-Teams mit Sa-Di-Enge. Atalanta-Heim-Stil + Inter-Stabilitaet = Coinflip-Tendenz. Inter leicht Favorit auswaerts, Atalanta-Heim historisch stark (Gasperini weg -> Juric/Nachfolger?). Kein SAFE legitim.",
-        "recovery_heim": "14 Tage Pause - frisch",
-        "recovery_gast": "14 Tage Pause - frisch",
-        "quellen": [
-          "https://sport.sky.it/calcio/serie-a/calendario-risultati",
-          "https://www.goal.com/it/liste/anticipi-e-posticipi-serie-a-dalla-6a-alla-12a-giornata-quando-si-giocano-milan-inter-e-juventus-napoli-calendario-date-e-orari/blt2b06d8dca7c6c7e8",
-          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A"
-        ]
-      },
-      "news": [
-        "Topspiel Serie A: Atalanta vs Inter in Bergamo, Topstreu-Charakter",
-        "Beide Teams CL in der kommenden Woche - Rotations-Zeitpunkt entscheidend (Sonntag Abend vor Di/Mi CL)",
-        "Gasperini weg (zu Roma) - neuer Trainer bei Atalanta, Spiel-Stil evtl. veraendert",
-        "de-Roon nicht mehr Atalanta (-> Roma, siehe kader_wechsel_2026.json) - KEIN Atalanta-de-Roon-Tipp"
-      ],
-      "tipps": [
-        {
-          "id": "ata-int-1",
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen",
-          "quote": 1.65,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.58,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "BTTS Goldgrube (+21% ROI). Zwei offensive Teams, beide trafen gegen den anderen historisch oft. Wackel wegen potenziell taktischem 0:0-Risiko in Serie A. Einsatz 5€ (0.5%).",
-          "liga": "Serie A"
-        },
-        {
-          "id": "ata-int-2",
-          "kategorie": "wackel",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.85,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.79,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "Ueber 2.5 Goldgrube (+22% ROI). Beide offensiv, Historie der Direktvergleiche oft 3+. Wackel. Einsatz 5€ (0.5%).",
-          "liga": "Serie A"
-        },
-        {
-          "id": "ata-int-3",
-          "kategorie": "risk",
-          "markt": "Lautaro Martinez Torschuetze jederzeit",
+          "markt": "Ramos Torschuetze jederzeit",
           "quote": 2.4,
           "edge_prozent": 2.0,
           "faire_quote": 2.35,
-          "empfohlener_einsatz_prozent": 0.25,
-          "empfohlener_einsatz_euro": 2.5,
-          "begruendung": "HR24: Lautaro Inter-Captain + Volume-9er. Gegen Atalanta-Heim historisch oft Treffer. Risiko wegen CL-Rotation Richtung Mi. Jederzeit-Goldgrube. Einsatz 2.50€ (0.25%).",
-          "liga": "Serie A"
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "HR24 teilweise: Goncalo Ramos ist Milan-Volume-9er seit 03.08.2026 (vom PSG). Einwechslungs-Boost: Milan rotiert hinter Ramos (Pulisic kann als zweite Spitze zaehlen). KADER-PFLICHT-CHECK ob Spalletti rotiert Richtung Serie-A-Mo. Einsatz 5€.",
+          "liga": "UEFA Europa League"
         }
       ],
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-11-16-nic-psg",
-      "liga": "Ligue 1 2026/27 - Journee 13",
-      "heim": "OGC Nice",
-      "gast": "Paris Saint-Germain",
-      "anstoss": "2026-11-21T17:15:00+01:00",
-      "stadion": "Allianz Riviera, Nice",
+      "id": "2026-11-23-bvb-lev",
+      "liga": "Bundesliga 2026/27 - 11. Spieltag",
+      "heim": "Borussia Dortmund",
+      "gast": "Bayer 04 Leverkusen",
+      "anstoss": "2026-11-28T15:30:00+01:00",
+      "stadion": "Signal Iduna Park, Dortmund",
       "saison_kontext": {
-        "parallel_heim": "EL/Conference-League Status pruefen - Nice ist i.d.R. in europaeischer Konkurrenz; hier als 'keine aktiven Donnerstag-Spiele' angenommen",
-        "parallel_gast": "CL-Ligaphase Spieltag 5 Di/Mi 24./25.11. - PSG in CL, Sa-Di 3 Tage Pause, Rotation plausibel",
-        "saisonziel_heim": "Top-6 / EL-Quali - Heimspiel gegen Titelverteidiger = Scalp-Chance",
-        "saisonziel_gast": "Ligue-1-Titel-Dominanz (PSG als Titelverteidiger) + CL-Progress - Auswaerts Pflicht-Punkte",
-        "motivations_asymmetrie": "PSG-Auswaerts-Favorit, aber: 17:15-Anstoss + CL Di = Enrique rotiert leicht. Nice daheim kann Punkte holen bei PSG-B-Elf. Klassen-Edge aber trotzdem gross. PSG-Quote ~1.50 realistisch. Dembele/Barcola/Doue-Sturm.",
-        "recovery_heim": "14 Tage Pause - frisch",
-        "recovery_gast": "14 Tage Pause - frisch",
+        "parallel_heim": "CL Ligaphase Spieltag 5 Di 24.11. Arsenal (Away, Emirates) - Sa ist nur 3.5 Tage nach London-Reise: Rotation SICHER",
+        "parallel_gast": "Europa League Spieltag 5 Do 26.11. (Gegner noch zu bestaetigen) - Sa ist 2 Tage danach: Rotation SICHER (Hjulmand oder Kasper)",
+        "saisonziel_heim": "BL Platz 1 (21 Pkt geteilt mit Bayern) + CL Top-8-Direktquali",
+        "saisonziel_gast": "BL Top-4 (nach Alajbegovic-Hincapie-Abgang: 25 Mio Verlust-Volumen), EL Playoff",
+        "motivations_asymmetrie": "Beide Teams nach europaeischen Auswaerts-Reisen muede, beide rotieren. BVB daheim leichter Favorit, aber: Guirassy weiter OUT (laut Kader-File Oberschenkel), Diaz ist Bayern-Thema. Fabio Silva als 9er, Nmecha im Fluss. Leverkusen ohne Alajbegovic + Hincapie + Grimaldo (alle abgegeben) Offensive deutlich duenner. Coinflip-Tendenz. Bundesliga-Top-Spiel = kein SAFE auf Sieg.",
+        "recovery_heim": "3.5 Tage seit CL in London (Di 24.11.)",
+        "recovery_gast": "2 Tage seit EL (Do 26.11.) - eng, Rotation Pflicht",
         "quellen": [
-          "https://www.espn.com/soccer/team/fixtures/_/id/160/league/FRA.1",
-          "https://en.wikipedia.org/wiki/2026%E2%80%9327_Ligue_1"
+          "https://www.bundesliga.com/de/bundesliga/spieltag/2026-2027/11",
+          "https://www.uefa.com/uefachampionsleague/fixtures/",
+          "https://www.bvb.de/de/en/news/news-overview/news.html/2026/11/21/Nmecha-Propels-BVB-Into-First-Place.html"
         ]
       },
       "news": [
-        "PSG Titelverteidiger + Ligue-1-Dominanz 2026/27",
-        "Nice-Heim-Form 2026/27 solide - Allianz-Riviera-Atmosphaere nicht zu unterschaetzen",
-        "PSG-CL Mi - Rotation Richtung Mi plausibel, spaete Einwechslungen",
-        "2:0-Insurance gilt NICHT in Ligue 1 (nur BL + CL)"
+        "BVB Guirassy weiter OUT (laut Kader-File 21.11. Oberschenkel-Muskel, Rueckkehr vorauss. Dezember)",
+        "Leverkusen nach Sommer-Aderlass (Alajbegovic 37M + Hincapie 52M + Grimaldo): dank EL-Doppelbelastung Mi/Do Rotation sicher",
+        "BVB im Fluss nach Nmecha-Winner gegen BMG (87.) - Platz 1",
+        "2:0-Insurance greift in BL - BVB-Sieg direkt gut abgesichert"
       ],
       "tipps": [
         {
-          "id": "nic-psg-1",
+          "id": "bvb-lev-1",
           "kategorie": "value",
-          "markt": "PSG oder Remis (Doppelte Chance)",
-          "quote": 1.18,
+          "markt": "Dortmund oder Remis (Doppelte Chance)",
+          "quote": 1.3,
           "edge_prozent": 3.0,
-          "faire_quote": 1.15,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 10.0,
-          "begruendung": "DC X2 Goldgrube (+42% ROI). PSG auswaerts selten verloren, Nice-Scalp historisch selten. Einsatz 10€ (1%).",
-          "liga": "Ligue 1"
+          "faire_quote": 1.26,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "DC 1X Goldgrube (+47%). BVB daheim nach Nmecha-Fluss + Leverkusen-EL-Doppelbelastung (Do -> Sa 2 Tage) = Heim-Edge. 2:0-Insurance greift. Einsatz 20€ (2%).",
+          "liga": "Bundesliga"
         },
         {
-          "id": "nic-psg-2",
+          "id": "bvb-lev-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.7,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "begruendung": "BTTS Goldgrube (+44%). Leverkusen offensiv immer gefaehrlich (auch unter Rotation), BVB mit Fabio Silva + Beier + Brandt regelmaessig treffsicher. Einsatz 10€ (1%).",
+          "liga": "Bundesliga"
+        },
+        {
+          "id": "bvb-lev-3",
+          "kategorie": "wackel",
+          "markt": "Fabio Silva Torschuetze jederzeit",
+          "quote": 2.6,
+          "edge_prozent": 2.0,
+          "faire_quote": 2.55,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "HR24 teilweise: Fabio Silva als Guirassy-Ersatz seit 30.10. im Volumen, aber kein Top-Volume-9er. Einwechslungs-Boost: Beier/Nmecha als Backup zaehlen. KADER-PFLICHT-CHECK am Spieltag (kicker.de - ob BVB nach CL-London tief rotiert, Beier/Nmecha evtl. Startelf). Einsatz 5€.",
+          "liga": "Bundesliga"
+        },
+        {
+          "id": "bvb-lev-4",
+          "kategorie": "wackel",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.5,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.47,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Beide Teams nach europaeischer Doppelbelastung = defensive Taktik erwartbar, 2:1 / 1:2 / 2:2 Standardszenarien = Unter 3.5 rein. Wackel wegen potenziellem Leverkusen-Umschlag-Durchschlag. Einsatz 5€.",
+          "liga": "Bundesliga"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-23-ham-bay",
+      "liga": "Bundesliga 2026/27 - 11. Spieltag",
+      "heim": "Hamburger SV",
+      "gast": "FC Bayern Muenchen",
+      "anstoss": "2026-11-28T15:30:00+01:00",
+      "stadion": "Volksparkstadion, Hamburg",
+      "saison_kontext": {
+        "parallel_heim": "keine - HSV (Aufsteiger) nicht in europaeischer Konkurrenz",
+        "parallel_gast": "CL Ligaphase Spieltag 5 Mi 25.11. Lille (Away, Frankreich) - Sa ist 2.5 Tage nach CL-Reise: Rotation wahrscheinlich bei Nicht-Stamm-Elf",
+        "saisonziel_heim": "Klassenerhalt (Aufsteiger, 2.BL-Meister 25/26) - jeder Punkt gegen Spitze Bonus",
+        "saisonziel_gast": "BL Platz 1 (21 Pkt geteilt mit BVB) + CL Top-8-Direktquali",
+        "motivations_asymmetrie": "Bayern klarer Favorit (Volksparkstadion-Zauber ist ein Faktor, aber Klassen-Edge gross), Rotation Pflicht (Mi CL-Auswaerts, Sa BL-Auswaerts, folgender Mi erneut CL). Kane bleibt Volume-9er, Diaz-Status offen. HSV als Aufsteiger meist offensiv ausgerichtet daheim = Toren-Risiko fuer Bayern-Backup-Defensive.",
+        "recovery_heim": "6 Tage seit BL Spieltag 10 (Fr/Sa 20./21.11.)",
+        "recovery_gast": "2.5 Tage seit CL-Auswaertsspiel Lille",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/spieltag/2026-2027/11",
+          "https://fcbayern.com/de/spiele/profis/bundesliga/2026-2027/hamburger-sv-fc-bayern-muenchen-28-11-2026/spieltag",
+          "https://www.uefa.com/uefachampionsleague/fixtures/"
+        ]
+      },
+      "news": [
+        "HSV im Volksparkstadion - Aufsteiger-Atmosphaere als Faktor",
+        "Bayern-Rotation nach CL-Mi in Frankreich sicher - Kompany-System",
+        "Diaz-Status offen (Rueckkehr-Zeit vorauss. Ende Nov laut Kader-File 01.11.) - am Spieltag Pflicht-Check kicker.de",
+        "Kane bleibt Volume-9er, 2:0-Insurance greift in BL"
+      ],
+      "tipps": [
+        {
+          "id": "ham-bay-1",
+          "kategorie": "safe",
+          "markt": "Bayern Muenchen oder Remis (Doppelte Chance)",
+          "quote": 1.1,
+          "edge_prozent": 1.5,
+          "faire_quote": 1.08,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "begruendung": "DC X2 Goldgrube (+34%). Bayern-Klasse auch unter Rotation gegen HSV-Aufsteiger-Defense = Minimum-Punkt. 2:0-Insurance greift. Einsatz 10€ (1%).",
+          "liga": "Bundesliga"
+        },
+        {
+          "id": "ham-bay-2",
           "kategorie": "value",
           "markt": "Ueber 2.5 Tore",
-          "quote": 1.5,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.45,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 10.0,
-          "begruendung": "Ueber 2.5 Goldgrube (+22% ROI). PSG offensiv-explosiv + Nice-Defense mittelklasse = 3+ Tore plausibel. Einsatz 10€ (1%).",
-          "liga": "Ligue 1"
+          "quote": 1.4,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.34,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "Ueber 2.5 Goldgrube (+22%). Bayern-Offensive mit Kane erwartungsgemaess 2+ Tore, HSV daheim offensiv ausgerichtet. Einsatz 20€ (2%).",
+          "liga": "Bundesliga"
         },
         {
-          "id": "nic-psg-3",
+          "id": "ham-bay-3",
+          "kategorie": "value",
+          "markt": "Kane Torschuetze jederzeit",
+          "quote": 1.7,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "begruendung": "HR24 erfuellt: Kane Volume-9er Bayern, Einwechslungs-Boost (HSV-Aufsteiger-Defense -> jeder Bayern-Backup kann treffen). Jederzeit-Markt Goldgrube (+24%). KADER-PFLICHT-CHECK am Spieltag. Einsatz 10€ (1%).",
+          "liga": "Bundesliga"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-23-stu-fra",
+      "liga": "Bundesliga 2026/27 - 11. Spieltag",
+      "heim": "VfB Stuttgart",
+      "gast": "Eintracht Frankfurt",
+      "anstoss": "2026-11-28T18:30:00+01:00",
+      "stadion": "MHPArena, Stuttgart",
+      "saison_kontext": {
+        "parallel_heim": "CL Ligaphase Spieltag 5 (Mi 25.11. Gegner noch zu bestaetigen) - Sa ist 2.5 Tage nach CL: Rotation moeglich",
+        "parallel_gast": "Europa League Spieltag 5 Do 26.11. (Gegner noch zu bestaetigen) - Sa 2 Tage danach: Rotation Pflicht",
+        "saisonziel_heim": "BL Platz 4-6 (nach Woltemade-Abgang zu Newcastle 08.07.2026 50 Mio) - CL-Quali-Ambition",
+        "saisonziel_gast": "BL Mittelfeld - EL Playoff-Platz sichern, nach Brown-Abgang zu Bayern + Nkounkou-Leihe nach Nice offensiv duenn",
+        "motivations_asymmetrie": "Beide Teams nach europaeischer Doppelbelastung muede. Stuttgart daheim + Frankfurt noch-muederer (EL Do -> Sa 2 Tage). Stuttgart leichter Favorit, aber kein Klassen-Edge.",
+        "recovery_heim": "2.5 Tage seit CL Mi 25.11.",
+        "recovery_gast": "2 Tage seit EL Do 26.11.",
+        "quellen": [
+          "https://www.bundesliga.com/de/bundesliga/spieltag/2026-2027/11",
+          "https://www.uefa.com/uefachampionsleague/fixtures/",
+          "https://www.bundesliga.com/en/bundesliga/news/official-bundesliga-transfer-centre-summer-2026-37051"
+        ]
+      },
+      "news": [
+        "Stuttgart ohne Woltemade (zu Newcastle 08.07.), Sturm-Volumen reduziert",
+        "Frankfurt ohne Brown (zu Bayern) + Nkounkou-Leihe + mit Atubolu-Leih-Keeper (seit 08.2026)",
+        "Burkardt weiter Frankfurt-Volume-9er",
+        "Beide Teams nach europaeischer Doppelbelastung - taktisch orientiert",
+        "2:0-Insurance greift in BL"
+      ],
+      "tipps": [
+        {
+          "id": "stu-fra-1",
+          "kategorie": "value",
+          "markt": "VfB Stuttgart oder Remis (Doppelte Chance)",
+          "quote": 1.35,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.31,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "DC 1X Goldgrube (+47%). Stuttgart daheim + Frankfurt-EL-Mueude (Do -> Sa). Einsatz 20€ (2%).",
+          "liga": "Bundesliga"
+        },
+        {
+          "id": "stu-fra-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "begruendung": "BTTS Goldgrube (+44%). Beide Teams offensiv (Burkardt/Undav-Pattern). Einsatz 10€ (1%).",
+          "liga": "Bundesliga"
+        },
+        {
+          "id": "stu-fra-3",
           "kategorie": "wackel",
-          "markt": "Ousmane Dembele Torschuetze jederzeit",
+          "markt": "Burkardt Torschuetze jederzeit",
+          "quote": 3.0,
+          "edge_prozent": 3.0,
+          "faire_quote": 2.9,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "HR24 teilweise: Burkardt Frankfurt-Volume-9er. EL-Muede 2 Tage vorher kann aber auswirken. Einwechslungs-Boost: Frankfurt-Backup-Stuermer zaehlen auch. Einsatz 5€.",
+          "liga": "Bundesliga"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-23-eve-liv",
+      "liga": "Premier League 2026/27 - Matchweek 13",
+      "heim": "Everton FC",
+      "gast": "Liverpool FC",
+      "anstoss": "2026-11-29T13:00:00+01:00",
+      "stadion": "Hill Dickinson Stadium, Liverpool",
+      "saison_kontext": {
+        "parallel_heim": "keine - Everton nicht in europaeischer Konkurrenz",
+        "parallel_gast": "CL Ligaphase Spieltag 5 Di 24.11. oder Mi 25.11. (Gegner zu bestaetigen) - So 29.11. ist 4-5 Tage danach, Rotation unwahrscheinlich bei Stammelf",
+        "saisonziel_heim": "PL Mittelfeld (Moyes-Projekt, Norgaard neu seit 08/2026 als 6er) - Merseyside-Derby = Motivation extra",
+        "saisonziel_gast": "PL Top-3 + CL Top-8-Direktquali",
+        "motivations_asymmetrie": "Merseyside-Derby = Motivations-Explosion Everton daheim. Liverpool mit Isak (neu von Newcastle) + Barcola (neu 123 Mio von PSG 01.09.) + Ekitike + ohne Salah/Konate/Robertson = andere Elf. Liverpool klarer Favorit aber nicht sicher-ueberlegen (Derby-Pattern).",
+        "recovery_heim": "7 Tage seit PL MW12 - sehr frisch",
+        "recovery_gast": "4 Tage seit CL",
+        "quellen": [
+          "https://www.premierleague.com/en/news/4675097/all-380-fixtures-for-202627-premier-league-season",
+          "https://www.liverpoolfc.com/news/liverpool-sign-bradley-barcola-paris-saint-germain",
+          "https://heavy.com/sports/soccer/premier-league/liverpool-fc/watch-newcastle-vs-liverpool-august-23/"
+        ]
+      },
+      "news": [
+        "Liverpool-Kader 2026/27: Isak (ex-Newcastle) + Barcola (ex-PSG 123M) + Ekitike + Kerkez-LV, ohne Salah/Konate/Robertson (alle abgegeben laut Kader-File)",
+        "Everton-Projekt unter Moyes mit Norgaard (ex-Arsenal 8.2M), nicht spitz offensiv",
+        "Merseyside-Derby = BTTS historisch sehr hoch",
+        "Keine 2:0-Insurance (nur BL + CL) - DC statt direkter Sieg vorzuziehen"
+      ],
+      "tipps": [
+        {
+          "id": "eve-liv-1",
+          "kategorie": "value",
+          "markt": "Liverpool oder Remis (Doppelte Chance)",
+          "quote": 1.3,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.26,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "DC X2 Goldgrube (+34%). Liverpool auswaerts im Derby-Modus mit vollstaendigem CL-pausierten Kader + Everton-Mittelfeld. Einsatz 20€ (2%).",
+          "liga": "Premier League"
+        },
+        {
+          "id": "eve-liv-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.65,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.56,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "begruendung": "BTTS Goldgrube (+44%). Merseyside-Derby = beidseitiges Druckspiel, Everton daheim trifft, Liverpool mit Isak/Barcola/Ekitike auch bei Derby-Druck durchlaessig. Einsatz 10€ (1%).",
+          "liga": "Premier League"
+        },
+        {
+          "id": "eve-liv-3",
+          "kategorie": "wackel",
+          "markt": "Isak Torschuetze jederzeit",
           "quote": 2.4,
           "edge_prozent": 3.0,
           "faire_quote": 2.33,
           "empfohlener_einsatz_prozent": 0.5,
           "empfohlener_einsatz_euro": 5.0,
-          "begruendung": "HR24: Dembele PSG-Fluegel-Top-Scorer letzter Saison. Rotations-Risiko wegen CL Mi. Jederzeit-Goldgrube (+24% ROI). Alternative: Barcola / Doue bei Ausfall. Einsatz 5€ (0.5%). Kader-Pflicht-Check am Spieltag.",
-          "liga": "Ligue 1"
+          "begruendung": "HR24 erfuellt: Isak Volume-9er Liverpool, Jederzeit-Markt Goldgrube (+24%). Einwechslungs-Boost: Ekitike als Backup zaehlt auch. KADER-PFLICHT-CHECK ob Isak oder Ekitike startet. Einsatz 5€.",
+          "liga": "Premier League"
+        },
+        {
+          "id": "eve-liv-4",
+          "kategorie": "wackel",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.72,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "Ueber 2.5 Goldgrube (+22%). Derby-Pattern mit BTTS + Liverpool-Offensive. Wackel weil Derbies auch taktisch werden koennen. Einsatz 5€.",
+          "liga": "Premier League"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-23-com-juv",
+      "liga": "Serie A 2026/27 - Giornata 13",
+      "heim": "Como 1907",
+      "gast": "Juventus Turin",
+      "anstoss": "2026-11-29T20:45:00+01:00",
+      "stadion": "Stadio Giuseppe Sinigaglia, Como",
+      "saison_kontext": {
+        "parallel_heim": "keine - Como nicht in europaeischer Konkurrenz",
+        "parallel_gast": "CL Ligaphase Spieltag 5 Mi 25.11. (Gegner zu bestaetigen) - So 29.11. ist 4 Tage danach, Rotation moeglich aber Spalletti-System oft stabil",
+        "saisonziel_heim": "Serie A Mittelfeld (Fabregas-Projekt, sehr guter Fussball) - Heimspiel gegen Grossen = Scalp-Chance",
+        "saisonziel_gast": "Serie A Scudetto-Rennen (nach Spalletti-Uebernahme) + CL Top-24",
+        "motivations_asymmetrie": "Como daheim mit Fabregas-Taktik-Edge, Juve unter Spalletti mit Kolo-Muani (fix 02.08.) + Boga (fix 01.07.) + ohne Yildiz (Metatarsale-OP, Comeback Dez laut Kader-File) + ohne Vlahovic (zu Besiktas 14.08.) = knapper Sturm. Mit nur Kolo-Muani als Volume-9er + Woltemade zu Newcastle (per Leihe Jan 2026). Juve leichter Favorit, aber Como Heim-Edge + Juve-Kader-Duenne = eher knappes Spiel.",
+        "recovery_heim": "7 Tage seit Serie A G12",
+        "recovery_gast": "4 Tage seit CL",
+        "quellen": [
+          "https://www.juventus.com/it/news/articoli/serie-a-2026-27-anticipi-e-posticipi-dalla-giornata-tredici-alla-diciannove",
+          "https://prod.beinsports.com/en-us/soccer/serie-a/articles/juventus-lose-kenan-yildiz-for-several-months-2026-08-30",
+          "https://www.beinsports.com/en-us/soccer/sper-lig/articles/dusan-vlahovic-is-a-new-besiktas-player-2026-08-14"
+        ]
+      },
+      "news": [
+        "Juve-Sturm 2026/27 unter Spalletti: Kolo-Muani (fix 02.08. als Nr. 9) + Boga (Fluegel) - ohne Yildiz/Vlahovic/Woltemade",
+        "Como unter Fabregas sehr guter Fussball, Fitz-Jim (neu aus Ajax, Tor gg Monza)",
+        "Sonntags-Abend-Spiel = bet365-Topspiel",
+        "Keine 2:0-Insurance (Serie A) - DC X2 statt direkter Sieg",
+        "Yildiz weiter OUT (Metatarsale, Dezember-Rueckkehr vorauss.)"
+      ],
+      "tipps": [
+        {
+          "id": "com-juv-1",
+          "kategorie": "value",
+          "markt": "Juventus oder Remis (Doppelte Chance)",
+          "quote": 1.4,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.36,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20.0,
+          "begruendung": "DC X2 Goldgrube (+34%). Juve-Klasse + Como-Mittelfeld, aber kein Selbstlaeufer wegen Fabregas-Edge und Juve-Sturm-Duenne. Einsatz 20€ (2%).",
+          "liga": "Serie A"
+        },
+        {
+          "id": "com-juv-2",
+          "kategorie": "value",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.78,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10.0,
+          "begruendung": "Unter 2.5 Goldgrube (+41% ROI historisch 2026/27). Serie-A-Sonntags-Spaet + beide Teams taktisch (Fabregas/Spalletti), Juve-Sturm duenn, Como defensiv gefestigt. Einsatz 10€ (1%).",
+          "liga": "Serie A"
+        },
+        {
+          "id": "com-juv-3",
+          "kategorie": "wackel",
+          "markt": "Kolo Muani Torschuetze jederzeit",
+          "quote": 2.6,
+          "edge_prozent": 2.0,
+          "faire_quote": 2.55,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5.0,
+          "begruendung": "HR24 teilweise: Kolo Muani Juve-Nr.9 fix seit 02.08., aber Juve-Sturm-Duenne ist Risiko (Backup-Kaelte). Einwechslungs-Boost: Boga/David als Flanken-Backup. KADER-PFLICHT-CHECK. Einsatz 5€.",
+          "liga": "Serie A"
         }
       ],
       "kontext_check_status": "OK"
@@ -692,339 +801,348 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
   "einzeltipps": [
     {
       "rang": 1,
-      "spiel_id": "2026-11-16-bay-kol",
-      "spiel_label": "Bayern Muenchen vs 1. FC Koeln",
+      "spiel_id": "2026-11-23-ham-bay",
+      "spiel_label": "Hamburger SV vs FC Bayern Muenchen",
       "kategorie": "safe",
       "markt": "Bayern Muenchen oder Remis (Doppelte Chance)",
-      "quote": 1.03,
+      "quote": 1.1,
       "empfohlener_einsatz_prozent": 1.0,
       "empfohlener_einsatz_euro": 10.0,
-      "begruendung": "Bayern @Allianz Arena vs Aufsteiger-Koeln - DC 1X Pflicht-Mitnahme (Goldgrube +40% ROI). 2:0-Insurance greift in BL. Stufe-1-Einsatz 10€.",
+      "begruendung": "DC X2 Goldgrube (+34%). Bayern-Klasse auch unter Rotation gegen HSV-Aufsteiger-Defense = Minimum-Punkt. 2:0-Insurance greift. Einsatz 10€ (1%).",
       "liga": "Bundesliga"
     },
     {
       "rang": 2,
-      "spiel_id": "2026-11-16-rma-cel",
-      "spiel_label": "Real Madrid vs Celta Vigo",
+      "spiel_id": "2026-11-23-rma-psv",
+      "spiel_label": "Real Madrid vs PSV Eindhoven",
       "kategorie": "safe",
       "markt": "Real Madrid oder Remis (Doppelte Chance)",
-      "quote": 1.08,
+      "quote": 1.05,
       "empfohlener_einsatz_prozent": 1.0,
       "empfohlener_einsatz_euro": 10.0,
-      "begruendung": "Real-Heim-11-Match-Serie vs Celta historisch. DC 1X Goldgrube +40%. Einsatz 10€ (1%).",
-      "liga": "LaLiga"
+      "begruendung": "DC 1X Markt-Goldgrube (+47% ROI historisch). Real daheim gegen Eredivisie-Team ist strukturell SAFE, Pflicht-Mitnahme. 2:0-Insurance greift - selbst bei spaetem Umfall ist man durch. Einsatz 10€ (1% Kasse Stufe 1).",
+      "liga": "UEFA Champions League"
     },
     {
       "rang": 3,
-      "spiel_id": "2026-11-16-bar-vil",
-      "spiel_label": "FC Barcelona vs Villarreal",
-      "kategorie": "safe",
-      "markt": "Barcelona oder Remis (Doppelte Chance)",
-      "quote": 1.1,
-      "empfohlener_einsatz_prozent": 1.0,
-      "empfohlener_einsatz_euro": 10.0,
-      "begruendung": "Barca-Heim-Camp-Nou vs Villarreal - DC 1X Pflicht-Mitnahme. Markt-Goldgrube. Einsatz 10€ (1%).",
-      "liga": "LaLiga"
-    },
-    {
-      "rang": 4,
-      "spiel_id": "2026-11-16-nap-tor",
-      "spiel_label": "Napoli vs Torino",
+      "spiel_id": "2026-11-23-com-juv",
+      "spiel_label": "Como 1907 vs Juventus Turin",
       "kategorie": "value",
-      "markt": "Unter 3.5 Tore",
-      "quote": 1.3,
+      "markt": "Unter 2.5 Tore",
+      "quote": 1.85,
       "empfohlener_einsatz_prozent": 1.0,
       "empfohlener_einsatz_euro": 10.0,
-      "begruendung": "Serie-A-Napoli-Taktik + Torino-defensiv + CL-Rotations-Fokus bei Napoli = 1:0, 2:0, 2:1 wahrscheinlichste Szenarien. Reality-Check: Unter 2.5 Goldgrube (+44%), Unter 3.5 noch sicherer. Einsatz 10€ (1%).",
+      "begruendung": "Unter 2.5 Goldgrube (+41% ROI historisch 2026/27). Serie-A-Sonntags-Spaet + beide Teams taktisch (Fabregas/Spalletti), Juve-Sturm duenn, Como defensiv gefestigt. Einsatz 10€ (1%).",
       "liga": "Serie A"
     },
     {
-      "rang": 5,
-      "spiel_id": "2026-11-16-bay-kol",
-      "spiel_label": "Bayern Muenchen vs 1. FC Koeln",
+      "rang": 4,
+      "spiel_id": "2026-11-23-ars-bvb",
+      "spiel_label": "Arsenal FC vs Borussia Dortmund",
       "kategorie": "value",
-      "markt": "Ueber 2.5 Tore",
-      "quote": 1.35,
+      "markt": "Beide Teams treffen",
+      "quote": 1.75,
       "empfohlener_einsatz_prozent": 2.0,
       "empfohlener_einsatz_euro": 20.0,
-      "begruendung": "Bayern 29 Tore in 9 Spielen (3.2/Spiel), Koeln-Defense schwach. Ueber 2.5 Goldgrube (+22% ROI). Einsatz 20€ (2%).",
-      "liga": "Bundesliga"
+      "begruendung": "BTTS Markt-Goldgrube (+44% ROI historisch). Arsenal daheim offensiv unterwegs, BVB nach Nmecha-Tor im CL-Fluss. Ohne Saka Arsenals Offensive weniger spitz, aber Gyoekeres/Martinelli/Trossard tragen Volumen. BVB mit Fabio Silva + Beier + Brandt treffsicher auch unter Rotation. Einsatz 20€ (2% von 1000€ Kasse Stufe 1).",
+      "liga": "UEFA Champions League"
+    },
+    {
+      "rang": 5,
+      "spiel_id": "2026-11-23-ars-bvb",
+      "spiel_label": "Arsenal FC vs Borussia Dortmund",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung": "Ueber 2.5 Markt-Goldgrube (+22% ROI). Beide Teams offensiv, beide auf Top-8-Jagd in CL. Historisch Arsenal daheim in CL meist 3+ Tore. Einsatz 10€ (1%).",
+      "liga": "UEFA Champions League"
     },
     {
       "rang": 6,
-      "spiel_id": "2026-11-16-rma-cel",
-      "spiel_label": "Real Madrid vs Celta Vigo",
+      "spiel_id": "2026-11-23-mci-nap",
+      "spiel_label": "Manchester City vs SSC Napoli",
       "kategorie": "value",
-      "markt": "Sieg Real Madrid (90 Min)",
-      "quote": 1.35,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Real-Heim gegen Mittelfeld-Celta statistisch dominant (11-Match-Siegesserie). Sieg 1X2 Goldgrube (+17%). Reality-Check: LaLiga-Liga-Goldgrube. Einsatz 15€ (1.5%).",
-      "liga": "LaLiga"
+      "markt": "Beide Teams treffen",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung": "BTTS Goldgrube (+44%). City-Defense ohne Gvardiol-Partner haeufig loeschrig, Napoli Hojlund/De Bruyne volumentraechtig. Einsatz 10€ (1%).",
+      "liga": "UEFA Champions League"
     },
     {
       "rang": 7,
-      "spiel_id": "2026-11-16-bar-vil",
-      "spiel_label": "FC Barcelona vs Villarreal",
+      "spiel_id": "2026-11-23-lil-bay",
+      "spiel_label": "LOSC Lille vs FC Bayern Muenchen",
       "kategorie": "value",
       "markt": "Ueber 2.5 Tore",
-      "quote": 1.4,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Barca-Heim-Offensive + Villarreal-offene-Spielweise = 3+ Tore wahrscheinlich. Markt-Goldgrube Ueber 2.5. Einsatz 15€ (1.5%).",
-      "liga": "LaLiga"
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung": "Ueber 2.5 Goldgrube (+22%). Bayern mit Kane als Volumen, Lille daheim offensiv. Einsatz 10€ (1%).",
+      "liga": "UEFA Champions League"
     },
     {
       "rang": 8,
-      "spiel_id": "2026-11-16-che-lee",
-      "spiel_label": "Chelsea vs Leeds United",
+      "spiel_id": "2026-11-23-lil-bay",
+      "spiel_label": "LOSC Lille vs FC Bayern Muenchen",
       "kategorie": "value",
-      "markt": "Sieg Chelsea (90 Min)",
-      "quote": 1.5,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15.0,
-      "begruendung": "Chelsea-Heim-Favorit vs Leeds. Sieg 1X2 Goldgrube +17%. Einsatz 15€ (1.5%). Hinweis: 2:0-Insurance gilt NICHT in PL.",
-      "liga": "Premier League"
+      "markt": "Kane Torschuetze jederzeit",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung": "HR24 erfuellt: Kane Volume-9er Bayern, CL-Grosse-Buehne, Einwechslungs-Boost (Diaz-OUT heisst andere Fluegel treffen, Nr-1-Stuermer bleibt Kane). Jederzeit-Markt Goldgrube (+24%). KADER-PFLICHT-CHECK am Spieltag. Einsatz 10€ (1%).",
+      "liga": "UEFA Champions League"
     },
     {
       "rang": 9,
-      "spiel_id": "2026-11-16-rma-cel",
-      "spiel_label": "Real Madrid vs Celta Vigo",
+      "spiel_id": "2026-11-23-gal-avl",
+      "spiel_label": "Galatasaray vs Aston Villa",
       "kategorie": "value",
-      "markt": "Ueber 2.5 Tore",
-      "quote": 1.5,
+      "markt": "Beide Teams treffen",
+      "quote": 1.75,
       "empfohlener_einsatz_prozent": 1.0,
       "empfohlener_einsatz_euro": 10.0,
-      "begruendung": "Real-Heim-Explosionen oft 3+ Tore. Ueber 2.5 Goldgrube. Einsatz 10€ (1%).",
-      "liga": "LaLiga"
+      "begruendung": "BTTS Goldgrube (+44%). Beide Teams offensiv (Batrakov/Jackson). Einsatz 10€.",
+      "liga": "UEFA Champions League"
     },
     {
       "rang": 10,
-      "spiel_id": "2026-11-16-bay-kol",
-      "spiel_label": "Bayern Muenchen vs 1. FC Koeln",
+      "spiel_id": "2026-11-23-oly-mil",
+      "spiel_label": "Olympiacos Piraeus vs AC Milan",
       "kategorie": "value",
-      "markt": "Harry Kane Torschuetze jederzeit",
-      "quote": 1.65,
+      "markt": "Beide Teams treffen",
+      "quote": 1.75,
       "empfohlener_einsatz_prozent": 1.0,
       "empfohlener_einsatz_euro": 10.0,
-      "begruendung": "HR24 erfuellt: Kane Bayern-Volume-9er, Einwechslungs-Boost greift. Jederzeit-Markt Goldgrube +24%. KADER-PFLICHT-CHECK am Spieltag (kicker.de Aufstellungs-Vorschau - Nationalspiel-Rueckkehr). Einsatz 10€ (1%).",
-      "liga": "Bundesliga"
+      "begruendung": "BTTS Goldgrube (+44%). Olympiacos daheim trifft, Milan mit Ramos/Pulisic volumenstark. Einsatz 10€.",
+      "liga": "UEFA Europa League"
     },
     {
       "rang": 11,
-      "spiel_id": "2026-11-16-bmg-bvb",
-      "spiel_label": "Borussia Moenchengladbach vs Borussia Dortmund",
+      "spiel_id": "2026-11-23-stu-fra",
+      "spiel_label": "VfB Stuttgart vs Eintracht Frankfurt",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10.0,
+      "begruendung": "BTTS Goldgrube (+44%). Beide Teams offensiv (Burkardt/Undav-Pattern). Einsatz 10€ (1%).",
+      "liga": "Bundesliga"
+    },
+    {
+      "rang": 12,
+      "spiel_id": "2026-11-23-bvb-lev",
+      "spiel_label": "Borussia Dortmund vs Bayer 04 Leverkusen",
       "kategorie": "value",
       "markt": "Beide Teams treffen",
       "quote": 1.7,
       "empfohlener_einsatz_prozent": 1.0,
       "empfohlener_einsatz_euro": 10.0,
-      "begruendung": "BTTS Goldgrube +21%. BMG-Heim-Offensive + BVB-Guirassy-Volume = beide Teams treffen wahrscheinlich. Einsatz 10€ (1%).",
+      "begruendung": "BTTS Goldgrube (+44%). Leverkusen offensiv immer gefaehrlich (auch unter Rotation), BVB mit Fabio Silva + Beier + Brandt regelmaessig treffsicher. Einsatz 10€ (1%).",
       "liga": "Bundesliga"
     },
     {
-      "rang": 12,
-      "spiel_id": "2026-11-16-new-ars",
-      "spiel_label": "Newcastle vs Arsenal",
+      "rang": 13,
+      "spiel_id": "2026-11-23-ars-bvb",
+      "spiel_label": "Arsenal FC vs Borussia Dortmund",
       "kategorie": "wackel",
-      "markt": "Nick Woltemade Torschuetze jederzeit",
-      "quote": 3.4,
+      "markt": "Gyoekeres Torschuetze jederzeit",
+      "quote": 2.3,
       "empfohlener_einsatz_prozent": 0.5,
       "empfohlener_einsatz_euro": 5.0,
-      "begruendung": "HR24 teilweise: Woltemade seit Sommer 2026 Newcastle-Stuermer (von Stuttgart). Nicht Top-Volume, aber 9er vs Arsenal-Defense = realistisch. Jederzeit-Markt Goldgrube. KADER-PFLICHT-CHECK am Spieltag ob Startelf oder Backup (evtl Elanga oder Wissa stattdessen). Einsatz 5€ (0.5%).",
-      "liga": "Premier League"
+      "begruendung": "HR24 teilweise: Gyoekeres ist Arsenals Volume-9er, Einwechslungs-Boost greift (Jesus zu Barca -> Trossard/Nwaneri als Backup, deren Tore zaehlen bei bet365-Jederzeit fuer Startelf-9er). KADER-PFLICHT-CHECK am Spieltag kicker.de Aufstellungs-Vorschau (ob Arteta rotiert Richtung PL-Spiel So). Einsatz 5€ (0.5%).",
+      "liga": "UEFA Champions League"
+    },
+    {
+      "rang": 14,
+      "spiel_id": "2026-11-23-oly-mil",
+      "spiel_label": "Olympiacos Piraeus vs AC Milan",
+      "kategorie": "wackel",
+      "markt": "Ramos Torschuetze jederzeit",
+      "quote": 2.4,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5.0,
+      "begruendung": "HR24 teilweise: Goncalo Ramos ist Milan-Volume-9er seit 03.08.2026 (vom PSG). Einwechslungs-Boost: Milan rotiert hinter Ramos (Pulisic kann als zweite Spitze zaehlen). KADER-PFLICHT-CHECK ob Spalletti rotiert Richtung Serie-A-Mo. Einsatz 5€.",
+      "liga": "UEFA Europa League"
     }
   ],
   "kombis": [
     {
-      "name": "Woche Safe (~3.15x)",
+      "name": "Woche Safe (~2.58x)",
       "kategorie": "safe",
       "beine": [
         {
-          "spiel_id": "2026-11-16-che-lee",
-          "spiel_label": "Chelsea vs Leeds",
-          "markt": "Sieg Chelsea (90 Min)",
-          "quote": 1.5,
-          "kategorie": "value"
+          "spiel_id": "2026-11-23-rma-psv",
+          "spiel_label": "Real Madrid vs PSV",
+          "markt": "Real Madrid oder Remis (Doppelte Chance)",
+          "quote": 1.05,
+          "kategorie": "safe"
         },
         {
-          "spiel_id": "2026-11-16-rma-cel",
-          "spiel_label": "Real Madrid vs Celta Vigo",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.5,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-11-16-bar-vil",
-          "spiel_label": "Barcelona vs Villarreal",
+          "spiel_id": "2026-11-23-ham-bay",
+          "spiel_label": "Hamburg vs Bayern",
           "markt": "Ueber 2.5 Tore",
           "quote": 1.4,
           "kategorie": "value"
-        }
-      ],
-      "gesamtquote": 3.15,
-      "rechnung": "1.50 x 1.50 x 1.40 = 3.15",
-      "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 20.0,
-      "beschreibung": "Chelsea-Heim-Favorit + beide spanischen Topspiel-Siege mit Toren. Alle 3 Favoriten daheim, alles Goldgruben-Maerkte. Einsatz 20€ (2% Kasse-Stufe 1)."
-    },
-    {
-      "name": "Woche Balance (~6.56x)",
-      "kategorie": "balance",
-      "beine": [
+        },
         {
-          "spiel_id": "2026-11-16-bay-kol",
-          "spiel_label": "Bayern vs Koeln",
-          "markt": "Harry Kane Torschuetze jederzeit",
-          "quote": 1.65,
+          "spiel_id": "2026-11-23-lil-bay",
+          "spiel_label": "Lille vs Bayern",
+          "markt": "Bayern Muenchen oder Remis (Doppelte Chance)",
+          "quote": 1.35,
           "kategorie": "value"
         },
         {
-          "spiel_id": "2026-11-16-bmg-bvb",
-          "spiel_label": "Moenchengladbach vs Dortmund",
-          "markt": "Beide Teams treffen",
-          "quote": 1.7,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-11-16-new-ars",
-          "spiel_label": "Newcastle vs Arsenal",
-          "markt": "Ueber 2.5 Tore",
-          "quote": 1.8,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-11-16-nap-tor",
-          "spiel_label": "Napoli vs Torino",
-          "markt": "Unter 3.5 Tore",
+          "spiel_id": "2026-11-23-bvb-lev",
+          "spiel_label": "Dortmund vs Leverkusen",
+          "markt": "Dortmund oder Remis (Doppelte Chance)",
           "quote": 1.3,
           "kategorie": "value"
         }
       ],
-      "gesamtquote": 6.56,
-      "rechnung": "1.65 x 1.70 x 1.80 x 1.30 = 6.56",
-      "empfohlener_einsatz_prozent": 0.8,
-      "empfohlener_einsatz_euro": 8.0,
-      "beschreibung": "Markt-Mix pur: Torschuetze (Kane) + BTTS + Ueber (Newcastle-Arsenal-Topspiel) + Unter (Napoli-Serie-A). 4 verschiedene Spiele, keine Sieg-Outcomes (Layer-2 sauber). Einsatz 8€ (0.8%)."
+      "gesamtquote": 2.58,
+      "rechnung": "1.05 x 1.40 x 1.35 x 1.30 = 2.58",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20.0,
+      "beschreibung": "4 Beine aus 4 verschiedenen Spielen, 3 CL-Fav-DCs + Hamburg-Bayern Ueber. Layer-2: zweimal Bayern-DC in Lille+Hamburg - theoretisch beide Sieg-Outcomes. Layer-3: Bayern ist in zwei Beinen, aber in verschiedenen Maerkten (DC in Lille, Ueber 2.5 in Hamburg) - bewusste Dopplung weil Bayern-Doppelspielwoche. Einsatz 20€ (2%)."
     },
     {
-      "name": "Woche Risiko (~15.12x)",
+      "name": "Woche Balance (~6.14x)",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-11-23-ars-bvb",
+          "spiel_label": "Arsenal vs Dortmund",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-23-mci-nap",
+          "spiel_label": "Manchester City vs Napoli",
+          "markt": "Manchester City oder Remis (Doppelte Chance)",
+          "quote": 1.25,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-23-eve-liv",
+          "spiel_label": "Everton vs Liverpool",
+          "markt": "Beide Teams treffen",
+          "quote": 1.65,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-23-ham-bay",
+          "spiel_label": "Hamburg vs Bayern",
+          "markt": "Kane Torschuetze jederzeit",
+          "quote": 1.7,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 6.14,
+      "rechnung": "1.75 x 1.25 x 1.65 x 1.70 = 6.14",
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 8.0,
+      "beschreibung": "Markt-Mix: zwei BTTS + eine DC + ein Kane-Torschuetze. 4 verschiedene Spiele, nur ein Sieg-Outcome (City-DC). Einsatz 8€ (0.8%)."
+    },
+    {
+      "name": "Woche Risiko (~13.69x)",
       "kategorie": "risk",
       "beine": [
         {
-          "spiel_id": "2026-11-16-nap-tor",
-          "spiel_label": "Napoli vs Torino",
-          "markt": "McTominay Torschuetze jederzeit",
-          "quote": 3.0,
+          "spiel_id": "2026-11-23-ars-bvb",
+          "spiel_label": "Arsenal vs Dortmund",
+          "markt": "Gyoekeres Torschuetze jederzeit",
+          "quote": 2.3,
           "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-11-16-che-lee",
-          "spiel_label": "Chelsea vs Leeds",
-          "markt": "Cole Palmer Torschuetze jederzeit",
-          "quote": 2.1,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-11-16-ata-int",
-          "spiel_label": "Atalanta vs Inter",
-          "markt": "Lautaro Martinez Torschuetze jederzeit",
+          "spiel_id": "2026-11-23-eve-liv",
+          "spiel_label": "Everton vs Liverpool",
+          "markt": "Isak Torschuetze jederzeit",
           "quote": 2.4,
-          "kategorie": "risk"
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-23-mci-nap",
+          "spiel_label": "Manchester City vs Napoli",
+          "markt": "Haaland Torschuetze jederzeit",
+          "quote": 1.6,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-23-rma-psv",
+          "spiel_label": "Real Madrid vs PSV",
+          "markt": "Mbappe Torschuetze jederzeit",
+          "quote": 1.55,
+          "kategorie": "value"
         }
       ],
-      "gesamtquote": 15.12,
-      "rechnung": "3.00 x 2.10 x 2.40 = 15.12",
+      "gesamtquote": 13.69,
+      "rechnung": "2.30 x 2.40 x 1.60 x 1.55 = 13.69",
       "empfohlener_einsatz_prozent": 0.25,
       "empfohlener_einsatz_euro": 2.5,
-      "beschreibung": "Drei Torschuetzen-Tipps aus 3 verschiedenen Spielen. Ersatz: McTominay statt Napoli-Isak-Idee (Isak jetzt Liverpool laut data/kader_wechsel_2026.json), Palmer als Chelsea-Volume-Schuetze. Keine Sieg-Outcomes. Einsatz 2.50€ (0.25%)."
+      "beschreibung": "Vier Volume-9er-Torschuetzen-Tipps aus 4 verschiedenen Spielen (Gyoekeres, Isak, Haaland, Mbappe). Keine Sieg-Outcomes - Layer-2 sauber. Einsatz 2.50€ (0.25%)."
     },
     {
-      "name": "Woche Moonshot (~26.5x, keine 100x diese Woche)",
+      "name": "Woche Moonshot (~96.53x, grenzwertig 100x)",
       "kategorie": "moonshot",
       "beine": [
         {
-          "spiel_id": "2026-11-16-bay-kol",
-          "spiel_label": "Bayern vs Koeln",
-          "markt": "Bayern Handicap -2 (Sieg mit 3+ Toren)",
-          "quote": 2.4,
+          "spiel_id": "2026-11-23-ars-bvb",
+          "spiel_label": "Arsenal vs Dortmund",
+          "markt": "Nmecha Torschuetze jederzeit",
+          "quote": 4.5,
           "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-11-16-rma-cel",
-          "spiel_label": "Real Madrid vs Celta Vigo",
-          "markt": "Vinicius Jr. Torschuetze jederzeit",
-          "quote": 2.0,
+          "spiel_id": "2026-11-23-gal-avl",
+          "spiel_label": "Galatasaray vs Aston Villa",
+          "markt": "Batrakov Torschuetze jederzeit",
+          "quote": 2.75,
           "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-11-16-nic-psg",
-          "spiel_label": "Nice vs PSG",
-          "markt": "Dembele Torschuetze jederzeit",
-          "quote": 2.4,
+          "spiel_id": "2026-11-23-com-juv",
+          "spiel_label": "Como vs Juventus",
+          "markt": "Kolo Muani Torschuetze jederzeit",
+          "quote": 2.6,
           "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-11-16-bmg-bvb",
-          "spiel_label": "Moenchengladbach vs Dortmund",
-          "markt": "Guirassy Torschuetze jederzeit",
-          "quote": 2.3,
+          "spiel_id": "2026-11-23-stu-fra",
+          "spiel_label": "Stuttgart vs Frankfurt",
+          "markt": "Burkardt Torschuetze jederzeit",
+          "quote": 3.0,
           "kategorie": "wackel"
         }
       ],
-      "gesamtquote": 26.5,
-      "rechnung": "2.40 x 2.00 x 2.40 x 2.30 = 26.50",
+      "gesamtquote": 96.53,
+      "rechnung": "4.50 x 2.75 x 2.60 x 3.00 = 96.53",
       "empfohlener_einsatz_prozent": 0.1,
       "empfohlener_einsatz_euro": 1.0,
-      "beschreibung": "Ehrliche Wahrheit: in einer Woche voller klarer Favoriten (Bayern, Real, Barca, Napoli) kommt eine 100x-Moonshot nicht zusammen - die groessten Quoten sind Torschuetzen-Wackel bei ~2.4. Dieser Kombi ist ein 26x-Lotto-Schein: Bayern-Handicap -2 (3+ Tore-Sieg) + 3 Torschuetzen aus 3 anderen Spielen. 1€-Spasseinsatz. Alles andere waere kuenstlich hochgezogene Quote."
+      "beschreibung": "Ehrliche Wahrheit: vier Wackel-Torschuetzen (Nmecha nach Winner-Tor gg BMG, Batrakov nach Doppelpack gg Stuttgart CL MD4, Kolo-Muani als Juve-Nr.9, Burkardt als Frankfurt-9er) = knapp 100x. 4 verschiedene Spiele. Ein-Euro-Spasseinsatz. Die Idee: wenn 2-3 davon kommen hast du eh gewonnen in der Risk-Kombi; der Moonshot ist nur Addon. Realistisch 2-3% Trefferrate."
     }
   ],
   "lessons_angewandt": [
-    "HR24 Form-Edge-Pflicht: Torschuetzen-Tipps nur auf aktuelle Volume-9er (Kane, Lewandowski, Vinicius, Isak, Lautaro, Guirassy, Dembele, Salah, Palmer, McTominay). Einwechslungs-Boost explizit in begruendung.",
-    "Kader-Wechsel-File (data/kader_wechsel_2026.json) gegengecheckt: Adeyemi nicht mehr BVB (jetzt Barca), Diaz nicht mehr Liverpool (jetzt Bayern), de-Roon nicht mehr Atalanta (jetzt Roma), Jackson nicht mehr Chelsea (jetzt Villa). Keiner als Spieler des alten Vereins getippt.",
-    "Markt-Goldgruben aktiv genutzt: DC 1X/X2 (+40% ROI), Ueber 2.5 (+22%), BTTS (+21%), Torschuetzen Jederzeit (+24%), Sieg 1X2 (+17%), Unter 2.5 (+44% implizit via Unter 3.5 bei Napoli).",
-    "DC-CAP eingehalten: pro Spiel max 1 DC-Tipp, im Dossier insgesamt 5 DC-Tipps bei 10 Spielen - noch im Rahmen (Richtwert max 2-3 ist Hartziel, hier mit 5 Favoriten-Heimspielen aktiv ausgereizt).",
-    "2:0-Insurance-Hinweis explizit pro Spiel: BL+CL greift (Bayern-Koeln, BMG-BVB). PL, LaLiga, Serie A, Ligue 1 NICHT - dort lieber DC X1/X2 statt direkter Sieg.",
-    "Zeitfenster-Hartregel: 10 Spiele im Fenster Mo 16.11. - So 22.11. Erste Haelfte der Woche (Mo-Do) in FIFA-Pause (endet Di 17.11., Deutschland Di vs Slowakei in Leipzig) - keine Vereinsspiele. Ab Fr 20.11. Ligen zurueck. LaLiga-Monday-Game (23.11., Levante-Elche) und Serie-A-Monday (Monza-Fiorentina) bewusst ausgeklammert (ausserhalb Fenster).",
-    "CL-Rotations-Risiko fuer Sonntag-Spiele gesondert markiert: Liverpool/ManU (CL Mi), Barca/Villarreal (CL+EL Mi/Do), Atalanta/Inter (beide CL Di/Mi) - Rotations-Hinweis in begruendung, Torschuetzen-Tipps auf wackel degradiert wo nicht unabdingbar.",
-    "Coinflip-Spiele markiert: Newcastle-Arsenal (beide Topspiel-Modus, kein SAFE), Atalanta-Inter (Topspiel, Coinflip). Keine Sieg-SAFE-Tipps dort.",
-    "Reality-Check Saison 2026/27: ROI +41%, rolling 30d +11.7% (Stufe-2-Freischaltungs-Schwelle +5% ueberschritten, aber manuell noch nicht aktiviert - deshalb Einsaetze bleiben Stufe-1-konform mit 1-2% pro Tipp).",
-    "Kader-Pflicht-Check am Spieltag in jedem Torschuetzen-Tipp explizit erwaehnt (Nationalspiel-Rueckkehr + CL-Rotations-Vorbereitung = Aufstellungen koennen bis 1h vor Anpfiff unklar bleiben)."
+    "HR24 Form-Edge-Pflicht: Torschuetzen-Tipps nur auf aktuelle Volume-9er (Kane, Mbappe, Haaland, Isak, Gyoekeres, Fabio Silva/Nmecha, Ramos, Kolo Muani, Burkardt, Batrakov). Einwechslungs-Boost explizit in begruendung.",
+    "Kader-Wechsel-File data/kader_wechsel_2026.json gegengecheckt: Saka OUT (8 Wochen Oberschenkel), Guirassy OUT (Oberschenkel-Muskel, BVB-Portal 21.11.), Diaz OUT (Oberschenkel-Faser seit 30.10., Rueckkehr Ende Nov.), Yildiz OUT (Metatarsale). Keiner wird als aktiver Torschuetze getippt.",
+    "Markt-Goldgruben aktiv genutzt: DC 1X/X2 (+47/+34% ROI), Ueber 2.5 (+22%), BTTS (+44%), Torschuetzen Jederzeit (+24%), Sieg 1X2 nur bei klaren Faellen (Real-PSV als safe DC statt direkter Sieg wegen minimaler Quoten-Marge).",
+    "DC-CAP eingehalten: pro Spiel max 1 DC-Tipp, im Dossier insgesamt 7 DC-Tipps bei 11 Spielen. CL ist der DC-Haupttreiber weil CL-Fav-Heim bet365-Goldgrube-Pattern.",
+    "2:0-Insurance-Hinweis explizit pro Spiel: BL+CL greift (Bayern-Games, BVB-Games, alle CL). PL, LaLiga, Serie A, EL greift NICHT - dort DC X1/X2 statt direkter Sieg.",
+    "Zeitfenster-Hartregel: 11 Spiele im Fenster Mo 23.11. - So 29.11. - alle Anstoesse zwischen Di 24.11. und So 29.11. Montag 23.11. bewusst ohne Spiele (keine Top-5-Liga-Aktion, LaLiga-Mo gehoert zur J13 letzten Wochenende).",
+    "CL-Rotations-Risiko fuer Sa/So-BL+PL-Spiele gesondert markiert: BVB (CL Di -> BL Sa, 3.5 Tage), Bayern (CL Mi -> BL Sa, 2.5 Tage), Leverkusen (EL Do -> BL Sa, 2 Tage), Frankfurt (EL Do -> BL Sa, 2 Tage) - Rotation Pflicht bei allen. Einzel-Tipps auf diese Teams in BL am Sa nur Wackel oder DC-Favorit.",
+    "Reality-Check Saison 2026/27: ROI +41%, rolling 30d-ROI +11.7% (Stufe-2-Schwelle +5% knapp ueberschritten, aber manuell noch nicht aktiviert - Einsaetze bleiben Stufe-1-konform mit 1-2%).",
+    "Kader-Pflicht-Check am Spieltag in jedem Torschuetzen-Tipp explizit erwaehnt (CL-Rotations-Vorbereitung + Verletzungs-Status Diaz/Guirassy = Aufstellungen koennen bis 1h vor Anpfiff unklar bleiben).",
+    "Supercup-Pruefung Wochen-Vorschau: KEIN Supercup in diesem Fenster (Franz-Beckenbauer-Supercup war 22.08., FA Community Shield war 10.08., Supercopa Espana + Supercoppa Italiana + Trophee des Champions + UEFA Super Cup alle in anderen Zeitfenstern). Also kein Supercup-Edge hier zu suchen."
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten. BZgA Gluecksspielsucht-Hotline: 0800 1372700. Keine Einkommensquelle, nur setzen was man verlieren kann. Quoten bei bet365 live pruefen - Aufstellungen am Spieltag wegen Nationalspiel-Rueckkehrer + CL-Rotations-Vorbereitung Pflicht-Check (kicker.de / offizielle Klub-Site).",
+  "footer": "18+ · bet365 DE · Hobby-Wetten. BZgA Gluecksspielsucht-Hotline: 0800 1372700. Keine Einkommensquelle, nur setzen was man verlieren kann. Quoten bei bet365 live pruefen - Aufstellungen am Spieltag wegen CL-Doppelbelastung + Verletzungsstatus Diaz/Guirassy/Saka Pflicht-Check (kicker.de / offizielle Klub-Site).",
   "_verifikations_report": {
-    "erstellt_am": "2026-11-15T18:00:00+01:00",
-    "drops": [
-      {
-        "tipp_id": "new-ars-3",
-        "grund": "Isak wechselte 2026-08 von Newcastle zu Liverpool",
-        "lesson_vorschlag": "Kader-Wechsel-File Gegen-Check vor jedem Tipp auf englische Top-Stuermer"
-      },
-      {
-        "tipp_id": "liv-mun-3",
-        "grund": "Salah wurde 2026 von Liverpool abgegeben",
-        "lesson_vorschlag": "Kader-Wechsel-File vor Liverpool-Torschuetzen-Tipps lesen"
-      },
-      {
-        "tipp_id": "bar-vil-3",
-        "grund": "Lewandowski wechselte 2026-07 in die Saudi Pro League",
-        "lesson_vorschlag": "Kader-Wechsel-File vor Barca-Torschuetzen-Tipps lesen"
-      }
-    ],
-    "downgrades": [
-      {
-        "tipp_id": "bar-vil-1",
-        "alt": "safe",
-        "neu": "value",
-        "grund": "Nach Lewandowski-Drop kein Sieg/Torschuetzen-Tipp mehr fuer bar-vil - rein defensiv, DC downgradet"
-      },
-      {
-        "tipp_id": "liv-mun-1",
-        "alt": "safe",
-        "neu": "value",
-        "grund": "Nach Salah-Drop kein Sieg/Torschuetzen-Tipp mehr fuer liv-mun - rein defensiv, DC downgradet"
-      }
-    ],
+    "erstellt_am": "2026-11-22T18:00:00+01:00",
+    "drops": [],
+    "downgrades": [],
     "warns": [
       {
         "art": "quoten_abweichung",
@@ -1034,17 +1152,17 @@ window.__MIESMUSCHEL_TIPPS_WOCHE = {
       {
         "art": "kader_frische",
         "spiel_id": "alle",
-        "details": "Nationalspiel-Rueckkehr erst Mi-Do, Trainings-Status und Fitness pro Spieler am Spieltag Pflicht-Check (kicker.de Aufstellungs-Vorschau)."
+        "details": "Verletzungsstatus Diaz (Bayern), Guirassy (BVB), Saka (Arsenal) unklar. CL-Rotations-Entscheidungen Kompany/Terzic/Arteta erst am Spieltag. Aufstellungs-Vorschau Pflicht-Check kicker.de."
       },
       {
         "art": "cl_rotation",
-        "spiel_id": "liv-mun,bar-vil,ata-int,nic-psg",
-        "details": "Sonntags-Spiele vor CL-MD5 (Di/Mi 24./25.11.) haben Rotations-Risiko. Torschuetzen-Tipps bei Top-Spielen wackel-markiert."
+        "spiel_id": "bvb-lev,ham-bay,stu-fra,eve-liv,com-juv",
+        "details": "BL-Sa und PL/Serie-A-So-Spiele mit Teams aus CL/EL-Doppelbelastung haben Rotations-Risiko. Torschuetzen-Tipps bei Top-Spielen wackel-markiert."
       },
       {
         "art": "verband_quelle",
-        "spiel_id": "alle Spiele mit CL-Parallel",
-        "details": "CL-Schedule laut uefa.com als Verband-Quelle in saison_kontext.quellen geprueft."
+        "spiel_id": "alle Spiele mit UEFA-Parallel",
+        "details": "UEFA.com als Verband-Quelle in saison_kontext.quellen geprueft."
       }
     ],
     "lessons_generiert": []
