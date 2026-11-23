@@ -1,0 +1,2208 @@
+{
+  "datum": "2026-11-22",
+  "erstellt_am": "2026-11-22T08:10:45+00:00",
+  "modus": "tag",
+  "slot": "sa-so-10:00",
+  "hinweis": "Sonntags-Slate 22.11.: 9 Spiele im Fenster (BL 10.ST, PL MD11, LaLiga J13, Serie A G12, Ligue 1 J11), kein Supercup/Pokal. Kasse 1000 EUR Stufe 1 - SAFE/VALUE-Einzel 10-20 EUR, Wackel 5 EUR. Goldgrube DC 1X/X2 und BTTS-JA aktiv gesucht. Coinflip Augsburg-Mainz ohne SAFE, Milan-Frosinone + Brighton @ Hull als Heim-/Auswaertsfavorit-Anker. Kein Serie-A-Top-Spiel Juventus/Venezia aufgenommen - zu wenig verifizierte Daten.",
+  "kasse_snapshot": {
+    "kasse_euro": 1000,
+    "stufe": 1,
+    "basis_kasse_euro": 1000,
+    "stufe_2_freigeschaltet": false
+  },
+  "spiele": [
+    {
+      "id": "2026-11-22-bar-vil",
+      "liga": "LaLiga",
+      "runde": "Jornada 13",
+      "heim": "FC Barcelona",
+      "gast": "Villarreal CF",
+      "anstoss": "2026-11-22T14:00:00+01:00",
+      "stadion": "Spotify Camp Nou, Barcelona",
+      "trainer_heim": "Hansi Flick",
+      "trainer_gast": "Marcelino",
+      "tabelle": {
+        "heim_platz": 1,
+        "heim_pkt": 33,
+        "gast_platz": 8,
+        "gast_pkt": 15
+      },
+      "saison_kontext": {
+        "parallel_heim": "CL-Ligaphase MD5 am 25.11. (Chelsea A) - leichte Rotations-Pflicht moeglich",
+        "parallel_gast": "keine - aus CL im Vorjahr raus, kein Europacup 2026/27",
+        "saisonziel_heim": "Platz 1 (33 Pkt), LaLiga-Dreipeat-Versuch unter Flick",
+        "saisonziel_gast": "Platz 8 (15 Pkt), Mittelfeld - keine Europa-Qual direkt",
+        "motivations_asymmetrie": "Barca Heim-Favorit auf eigenem Rasen gegen Mittelfeld-Villarreal, CL-Mittwoch im Hinterkopf aber keine Rotation vor Camp-Nou-Publikum erwartet. Edge klar Heim.",
+        "recovery_heim": "6 Tage seit Alaves-Sieg 01.11. + Laenderspielpause - frisch",
+        "recovery_gast": "6 Tage seit letztem Liga-Spiel - normal erholt",
+        "quellen": [
+          "https://www.whoscored.com/matches/1994043/preview/spain-laliga-2026-2027-barcelona-villarreal",
+          "https://www.si.com/es-us/barcelona-vs-villarreal-previa-predicciones-y-alineaciones-22-11-2026",
+          "https://www.sportsmole.co.uk/football/barcelona/race-for-the-la-liga-title/team-news/barcelona-vs-villarreal-injury-suspension-list-predicted-xis_609475.html",
+          "https://www.tntsports.co.uk/_sto23351145/story.shtml"
+        ]
+      },
+      "news": [
+        "Barca Tabellenfuehrer 33 Pkt, Flick-Vertrag bis 2028 verlaengert.",
+        "Ausfall Barca: Rodri (Oberschenkel), Xavi Espart, Roony Bardghji; Christensen/De Jong fraglich.",
+        "Villarreal: Alassane Diatta out, Mikautadze als Sturmspitze erwartet.",
+        "Letzte Direktduelle: Barca 4:1 Febr 2026, zwei Siege in Folge gegen Villarreal."
+      ],
+      "tipps": [
+        {
+          "kategorie": "safe",
+          "markt_typ": "Doppelte Chance 1X",
+          "markt": "Barcelona oder Remis (Doppelte Chance 1X)",
+          "quote": 1.08,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Barca Heim-Favorit auf 1-Pkt-Marge-Druck, Villarreal auswaerts noch kein Sieg beim Tabellenfuehrer seit 2017/18. Goldgrube DC 1X (75 % Hitrate / +46,8 % ROI). Stufe-1-Einsatz 2 % Kasse = 20 EUR.",
+          "id": "bar-vil-1",
+          "faire_quote": 1.08
+        },
+        {
+          "kategorie": "value",
+          "markt_typ": "Sieg (1X2 / ML)",
+          "markt": "Sieg Barcelona (90 Min)",
+          "quote": 1.33,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Form-Barca (12 Spiele, 33 Pkt) gegen Mittelfeld-Villarreal. SI-Prediction 3:1. Keine 2:0-Insurance (nur BL + CL). Bei bet365 live pruefen.",
+          "id": "bar-vil-2",
+          "faire_quote": 1.33
+        },
+        {
+          "kategorie": "value",
+          "markt_typ": "Ueber 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.55,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Barca unter Flick 2,8 Tore/Spiel (Record 100 Siege), Villarreal offen-offen. Goldgrube Ueber 2,5 (ROI +22 %).",
+          "id": "bar-vil-3",
+          "faire_quote": 1.55
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "markt": "Raphinha Torschuetze jederzeit",
+          "quote": 2.4,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Raphinha nach Rodri-Ausfall mehr zentrale Freiheit, Linie 3 Tore in 5 Liga-Spielen. Volume-Flankenangreifer der Lewandowski ggf. ersetzt. Einwechslungs-Boost-Pflicht bei Auswechslung beachten.",
+          "id": "bar-vil-4",
+          "faire_quote": 2.4
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 2,
+        "halbzeit_stand": "0:2"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "bar-vil-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.08,
+          "kommentar": "DC 1X — Barca-Heimsieg 3:2 nach 0:2-Rueckstand",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bar-vil-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.33,
+          "kommentar": "Barca-Heimsieg 3:2 nach 0:2-Rueckstand (keine 2:0-Insurance im LaLiga noetig)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bar-vil-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.55,
+          "kommentar": "Fuenf Tore insgesamt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bar-vil-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Raphinha ohne eigenes Tor (nur Vorarbeit zum 2:2); Auswechslungsstatus nicht belegt, kein Einwechslungs-Boost auffindbar",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:2",
+        "endstand": "3:2",
+        "tore": [
+          {
+            "min": 5,
+            "team": "gast",
+            "spieler": "Tajon Buchanan",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 7,
+            "team": "gast",
+            "spieler": "Tani Oluwaseyi",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": 57,
+            "team": "heim",
+            "spieler": "Gerard Martin",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 61,
+            "team": "heim",
+            "spieler": "Fermin Lopez",
+            "stand_danach": "2:2"
+          },
+          {
+            "min": 67,
+            "team": "heim",
+            "spieler": "Pau Navarro (ET)",
+            "stand_danach": "3:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Villarreal nach 7 Min 0:2 vorn, Barca dreht in zweiter Halbzeit mit drei Treffern in zehn Minuten (57.-67.)"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "halbzeit_endstand": "0:2",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Spektakulaere Drehung 0:2 → 3:2 bei zehn Villarreal-Feldspielern nach Rotkarte; drei Tore binnen zehn Minuten.",
+          "Zwei Aussenseiter-Torschuetzen Buchanan+Oluwaseyi in 7 Minuten – klassische Rotations-/Fokus-Falle beim Tabellenfuehrer."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-22-hul-bri",
+      "liga": "Premier League",
+      "runde": "Matchday 11",
+      "heim": "Hull City",
+      "gast": "Brighton & Hove Albion",
+      "anstoss": "2026-11-22T15:00:00+01:00",
+      "stadion": "MKM Stadium, Hull",
+      "trainer_heim": "Sergej Jakirović",
+      "trainer_gast": "Fabian Hürzeler",
+      "tabelle": {
+        "heim_platz": 13,
+        "heim_pkt": 11,
+        "gast_platz": 2,
+        "gast_pkt": 22
+      },
+      "saison_kontext": {
+        "parallel_heim": "keine - kein Europapokal 2026/27",
+        "parallel_gast": "Conference-League-Ligaphase MD5 am 26.11. (kein Topkaliber)",
+        "saisonziel_heim": "Platz 13 (11 Pkt) Aufsteiger, Klassenerhalt ueber Heimspiele",
+        "saisonziel_gast": "Platz 2 (22 Pkt, +19 TD) CL-Quali-Mission - Top 4",
+        "motivations_asymmetrie": "Brighton auswaerts bislang ein Tor-am-Ende reicht ihnen (City-Sieg 1:0). Hull 4 Spiele ohne Sieg (L D D L), Heim-Druck aber duenne Luft gegen Spitze. Edge Auswaerts.",
+        "recovery_heim": "6 Tage seit 0:1 bei Fulham - keine Doppelbelastung, aber Ergebnis-Serie belastend",
+        "recovery_gast": "6 Tage seit Liga-Sieg, EC am Donnerstag zuletzt bequem - kaum Rotation erwartet",
+        "quellen": [
+          "https://sportnewsafrica.com/en/news/premier-league-fixtures-weekend-schedule-and-kick-off-times-21-23-november-2026/",
+          "https://www.squawka.com/en/?p=1521083",
+          "https://onsidearena.com/match/hull-city-vs-brighton-gw11-106"
+        ]
+      },
+      "news": [
+        "Brighton 2. mit 22 Pkt und +19 TD - staerkste Defensive der Liga.",
+        "Hull ohne Sieg seit 4 Spielen (Form L D D L).",
+        "Hull-Ausfaelle: Matazo, Targett, Ansah, Morita (alle verletzt), Crooks gesperrt.",
+        "Squawka-Prognose 0:1 Brighton, Onside 58 % Brighton-Sieg."
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Doppelte Chance X2",
+          "markt": "Brighton oder Remis (Doppelte Chance X2)",
+          "quote": 1.2,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Brighton hoechste Formkurve, Hull verletzungsgeplagt. Goldgrube DC X2 (85 % Hitrate / +34 % ROI) - staerkster Markt im System. Stufe-1-Einsatz 2 % = 20 EUR.",
+          "id": "hul-bri-1",
+          "faire_quote": 1.2
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Sieg (1X2 / ML)",
+          "markt": "Sieg Brighton (90 Min)",
+          "quote": 1.7,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Tabellen-Spread 11 Pkt, Brightons +19 TD vs Hulls -8 TD (geschaetzt). Bei bet365 live pruefen.",
+          "id": "hul-bri-2",
+          "faire_quote": 1.7
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Unter 2.5 Tore",
+          "markt": "Unter 2.5 Tore",
+          "quote": 1.95,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Squawka 0:1-Prognose, Brighton kontrolliert tief - 1 Tor reicht fuer sie oft. Goldgrube Unter 2,5 (+40,9 % ROI).",
+          "id": "hul-bri-3",
+          "faire_quote": 1.95
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "markt": "Danny Welbeck Torschuetze jederzeit",
+          "quote": 3.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Welbeck Brighton-Volumen-9er, Hull-Abwehr dezimiert (Ansah out). Verifikation ueber Sportsmole-Vorschau. Einwechslungs-Boost-Pflicht beachten.",
+          "id": "hul-bri-4",
+          "faire_quote": 3.0
+        }
+      ],
+      "kontext_check_status": "WARN_QUELLE",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 0,
+        "halbzeit_stand": "0:0"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "hul-bri-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Hull gewinnt 2:0 — DC X2 fuer Brighton geht als Goldgrube-Bluter verloren",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "hul-bri-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Hull gewinnt 2:0 statt Brighton (McBurnie-Doppelpack 90+2, 90+5)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "hul-bri-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.95,
+          "kommentar": "Nur 2 Tore (beide in Nachspielzeit)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "hul-bri-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Welbeck ohne Tor; beide Treffer von Hull-Stuermer McBurnie",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": 92,
+            "team": "heim",
+            "spieler": "Oli McBurnie",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 95,
+            "team": "heim",
+            "spieler": "Oli McBurnie",
+            "stand_danach": "2:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": null
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "0:0",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "McBurnie-Doppelpack in Nachspielzeit stoppt Hulls neun-Spiele-Sieglos-Serie; Brighton (2.) als Favorit-Bluter.",
+          "DC X2 Goldgrube-Markt dramatisch gescheitert — Lehre fuer PL-Kurzquoten-Auswaertsfavoriten."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-22-aug-m05",
+      "liga": "Bundesliga",
+      "runde": "10. Spieltag",
+      "heim": "FC Augsburg",
+      "gast": "1. FSV Mainz 05",
+      "anstoss": "2026-11-22T15:30:00+01:00",
+      "stadion": "WWK Arena, Augsburg",
+      "trainer_heim": "Sandro Wagner",
+      "trainer_gast": "Bo Henriksen",
+      "tabelle": {
+        "heim_platz": 15,
+        "heim_pkt": 9,
+        "gast_platz": 10,
+        "gast_pkt": 12
+      },
+      "saison_kontext": {
+        "parallel_heim": "keine - kein Europapokal 2026/27",
+        "parallel_gast": "Conference-League-Ligaphase MD5 am 26.11. - leichte Rotations-Option",
+        "saisonziel_heim": "Platz 15 (9 Pkt) - Klassenerhalt-Zone, starker Druck",
+        "saisonziel_gast": "Platz 10 (12 Pkt) - Mittelfeld, Conference-Lauf primaer",
+        "motivations_asymmetrie": "Augsburg im Klassenerhalt-Modus - Punkte-Gier zu Hause. Mainz 4/6 Auswaertssiege diese Saison + CL-Woche am Donnerstag -> rotiert vermutlich leicht. Coinflip mit leichtem Heim-Edge, aber kein SAFE.",
+        "recovery_heim": "6 Tage seit Liga-Spiel + Laenderspielpause - frisch",
+        "recovery_gast": "6 Tage seit Liga-Spiel - normal",
+        "quellen": [
+          "https://www.wettbasis.com/sportwetten-tipps/augsburg-vs-mainz-tipp-ki-prognose-quoten-22-11-2026",
+          "https://www.buli-tipphilfe.de/sportwetten-tipps/augsburg-mainz-wett-tipp-prognose-bundesliga-2026-27",
+          "https://www.sportsmole.co.uk/football/augsburg/preview/augsburg-vs-mainz-prediction-team-news-lineups_609502.html"
+        ]
+      },
+      "news": [
+        "Augsburg-Ausfaelle: Massengo, Matsima, Banks (Baender).",
+        "Mainz: nur Kohr (Sprunggelenk bis Januar) raus.",
+        "Mainz 4 Siege aus 6 Auswaertspartien 2026/27.",
+        "Whispers Prognose 2:2 (BTTS beide treffen) @ 1,36."
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Beide Teams treffen JA",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.65,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Beide Defensiven loechrig (Augsburg 15. / Mainz 10.), beide treffen zuverlaessig. Goldgrube BTTS-JA (+44,5 % ROI). Whispers tippt 2:2.",
+          "id": "aug-m05-1",
+          "faire_quote": 1.65
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Doppelte Chance X2",
+          "markt": "Mainz oder Remis (Doppelte Chance X2)",
+          "quote": 1.5,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Mainz staerkere Auswaertsquote diese Saison (4/6 Siege). Interwetten 2,40 auf Mainz-Sieg - DC X2 als Hedge. Coinflip-Spiel bewusst als Wackel.",
+          "id": "aug-m05-2",
+          "faire_quote": 1.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "markt": "Jonathan Burkardt Torschuetze jederzeit",
+          "quote": 3.2,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Burkardt Mainz-Volume-9er, Augsburg-Abwehr dezimiert (Matsima + Banks out). Einwechslungs-Boost-Pflicht beachten.",
+          "id": "aug-m05-3",
+          "faire_quote": 3.2
+        }
+      ],
+      "kontext_check_status": "WARN_QUELLE",
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 1,
+        "halbzeit_stand": "2:0"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "aug-m05-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.65,
+          "kommentar": "BTTS JA — Augsburg 3x, Koenigsdoerffer trifft fuer Mainz",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "aug-m05-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Augsburg gewinnt 3:1 (2:0 zur Pause)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "aug-m05-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "KADER-FEHLER: Burkardt seit 07/2025 bei Eintracht Frankfurt, nicht mehr bei Mainz — Tipp hatte keine Gewinnchance. Mapper-Lektion: in kader_wechsel_2026.json ergaenzen",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:0",
+        "endstand": "3:1",
+        "tore": [
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Michael Gregoritsch",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Juma Bah",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Ransford Koenigsdoerffer",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Michael Gregoritsch",
+            "stand_danach": "3:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": null
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "2:0",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Augsburg 2:0 zur Pause, Gregoritsch-Doppelpack trotz Mainz-Anschluss.",
+          "Burkardt-Torschuetzen-Tipp zeigt Kader-Luecke: Spieler seit 07/2025 bei Eintracht Frankfurt."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-22-liv-mun",
+      "liga": "Premier League",
+      "runde": "Matchday 11",
+      "heim": "Liverpool FC",
+      "gast": "Manchester United",
+      "anstoss": "2026-11-22T17:30:00+01:00",
+      "stadion": "Anfield, Liverpool",
+      "trainer_heim": "Andoni Iraola",
+      "trainer_gast": "Ruben Amorim",
+      "tabelle": {
+        "heim_platz": 4,
+        "heim_pkt": 20,
+        "gast_platz": 18,
+        "gast_pkt": 9
+      },
+      "saison_kontext": {
+        "parallel_heim": "CL-Ligaphase MD5 am 26.11. - Rotations-Pflicht moeglich",
+        "parallel_gast": "keine - in EL ausgeschieden Qualifikation, keine Europa 2026/27",
+        "saisonziel_heim": "Platz 4 (20 Pkt) - Iraola-Jahr 1, CL-Quali Minimalziel",
+        "saisonziel_gast": "Platz 18 (9 Pkt) - Krise, Amorim unter Druck, Abstiegszone",
+        "motivations_asymmetrie": "Liverpool strukturiertes Pressing unter Iraola, Van Dijk zurueck. United 18. mit mehreren Ausfaellen (Baleba, Sesko, Ugarte alle out). Edge klar Heim.",
+        "recovery_heim": "6 Tage seit Liga-Spiel + Laenderspielpause - Van Dijk + Szoboszlai fit",
+        "recovery_gast": "6 Tage - Ruhe, aber tiefe Krise bleibt",
+        "quellen": [
+          "https://sports.yahoo.com/articles/preview-liverpool-vs-manchester-united-204000776.html",
+          "https://www.racingpost.com/sport/football-tips/premier-league/liverpool-vs-man-utd-betting-tips-predictions-team-news-odds-bet-builder-a9WFB7f8YQFI/",
+          "https://www.sportsgambler.com/betting-tips/football/liverpool-vs-manchester-united-prediction-lineups-odds-2026-11-22/",
+          "https://khelnow.com/football/liverpool-vs-manchester-united-preview-premier-league-202611"
+        ]
+      },
+      "news": [
+        "Liverpool-Comeback: Van Dijk + Szoboszlai fit; Ekitike long-term out, Gravenberch + Frimpong fraglich.",
+        "United-Baustellen: Baleba, Sesko, Ugarte out; Shaw/Rashford/Darlow fraglich - Lisandro zurueck von Sperre.",
+        "Odds Ladbrokes: Liverpool 3/4, Remis 16/5, United 3/1.",
+        "Racing Post Top-Tipp: Liverpool + Ueber 2,5 Tore @ 13/10."
+      ],
+      "tipps": [
+        {
+          "kategorie": "safe",
+          "markt_typ": "Doppelte Chance 1X",
+          "markt": "Liverpool oder Remis (Doppelte Chance 1X)",
+          "quote": 1.14,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Tabellen-Spread 11 Pkt, Heim-Edge Anfield gegen 18. Goldgrube DC 1X (75 % Hitrate / +46,8 %). 2:0-Insurance gilt hier (PL ist 1./2. BL-aequivalent? NEIN - 2:0 gilt NUR Bundesliga + CL). Stufe-1-Einsatz 20 EUR.",
+          "id": "liv-mun-1",
+          "faire_quote": 1.14
+        },
+        {
+          "kategorie": "value",
+          "markt_typ": "Sieg (1X2 / ML)",
+          "markt": "Sieg Liverpool (90 Min)",
+          "quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Racing-Post-Top-Tipp. Iraola-Pressing gegen Krisen-United. Bei bet365 live pruefen.",
+          "id": "liv-mun-2",
+          "faire_quote": 1.75
+        },
+        {
+          "kategorie": "value",
+          "markt_typ": "Ueber 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.6,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Liverpool offensiv unter Iraola (Barcola/Wirtz/Gakpo), United-Abwehr durchlaessig. Goldgrube Ueber 2,5 (+22,1 % ROI).",
+          "id": "liv-mun-3",
+          "faire_quote": 1.6
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "markt": "Alexander Isak Torschuetze jederzeit",
+          "quote": 2.1,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Isak nach Sommertransfer zu Liverpool als 9er gesetzt (laut Yahoo-Preview), Form-Trend in letzten Spielen zu bestaetigen. Einwechslungs-Boost-Pflicht wenn Iraola frueh wechselt.",
+          "id": "liv-mun-4",
+          "faire_quote": 2.1
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 4,
+        "gast_tore": 0,
+        "halbzeit_stand": "2:0"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "liv-mun-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.14,
+          "kommentar": "DC 1X — Liverpool-Sieg 4:0",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "liv-mun-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.75,
+          "kommentar": "Liverpool-Sieg 4:0 (HZ 2:0, Szoboszlai 10.+Wirtz 13.)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "liv-mun-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.6,
+          "kommentar": "4 Tore insgesamt — Yoro-Platzverweis frueh kippt das Spiel",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "liv-mun-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Isak ohne Tor; keine belegte Auswechslung mit Treffer des Ersatzes (Víctor Munoz-Tor 82. als Super-Sub, aber Konstellation zu Isak nicht einwandfrei belegt)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:0",
+        "endstand": "4:0",
+        "tore": [
+          {
+            "min": 10,
+            "team": "heim",
+            "spieler": "Dominik Szoboszlai",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 13,
+            "team": "heim",
+            "spieler": "Florian Wirtz",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 66,
+            "team": "heim",
+            "spieler": "Rio Ngumoha",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": 82,
+            "team": "heim",
+            "spieler": "Victor Munoz (ein)",
+            "stand_danach": "4:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": null
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "2:0",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "spieler": "Victor Munoz (ein)",
+            "minute": 82,
+            "stand_danach": "4:0"
+          }
+        ],
+        "auffaellige_patterns": [
+          "Yoro-Rot nach Last-Man-Foul an Isak kippt das Spiel frueh (nach 13 Min 2:0).",
+          "Super-Sub Victor Munoz-Tor zum 4:0 – weiteres Einwechslungs-Boost-Signal fuer Liverpool-Wechsel-9er."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-22-bre-hsv",
+      "liga": "Bundesliga",
+      "runde": "10. Spieltag",
+      "heim": "SV Werder Bremen",
+      "gast": "Hamburger SV",
+      "anstoss": "2026-11-22T17:30:00+01:00",
+      "stadion": "Wohninvest Weserstadion, Bremen",
+      "trainer_heim": "Horst Steffen",
+      "trainer_gast": "Merlin Polzin",
+      "tabelle": {
+        "heim_platz": 6,
+        "heim_pkt": 15,
+        "gast_platz": 11,
+        "gast_pkt": 12
+      },
+      "saison_kontext": {
+        "parallel_heim": "keine - kein Europapokal 2026/27",
+        "parallel_gast": "keine - Aufsteiger, kein Europa",
+        "saisonziel_heim": "Platz 6 (15 Pkt) - obere Tabellenhaelfte, Europa-Train langsam ins Visier",
+        "saisonziel_gast": "Platz 11 (12 Pkt) - Klassenerhalt-Sicherung als Aufsteiger",
+        "motivations_asymmetrie": "Nordderby - beide hoch emotional, aber Werder in besserer Form und zu Hause. HSV mit Rueckkehrer Vuskovic (Dopingsperre) als Unsicherheitsfaktor. Edge klar Heim.",
+        "recovery_heim": "6 Tage seit Liga-Spiel + Laenderspielpause - Grüll + Weiser fraglich",
+        "recovery_gast": "6 Tage - normal, Sambi Lokonga/Remberg/Nadir out",
+        "quellen": [
+          "https://www.deichstube.de/news/werder-bremen-startelf-aufstellung-gegen-hsv-wer-ersetzt-marco-gruell-justin-njinmah-daniel-thioune-bundesliga-94601586.html",
+          "https://magazin.comunio.de/sv-werder-bremen-hsv-voraussichtliche-aufstellungen/",
+          "https://www.fussballnationalmannschaft.net/aufstellung-werder-hsv-bundesliga-123336970.html",
+          "https://en.wikipedia.org/wiki/Nordderby"
+        ]
+      },
+      "news": [
+        "Nordderby - erstes Bundesliga-Duell in Bremen seit 2017/18.",
+        "Werder-Lineup: Hein - Arthur/Pieper/Friedl/Deman - Fuellkrug 9er; Grüll (Wade) + Weiser fraglich.",
+        "HSV: Vuskovic nach 4-Jahres-Dopingsperre in Kader zurueck, Startelf-Einsatz offen.",
+        "Werder im Formtabellen-Mittelfeld, HSV mit 3 Punkten weniger."
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt_typ": "Doppelte Chance 1X",
+          "markt": "Werder oder Remis (Doppelte Chance 1X)",
+          "quote": 1.33,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Heim-Form Werder (3 Siege Letzten 5 zu Hause), HSV-Auswaertsschwaeche. Goldgrube DC 1X - gleichzeitig Derby-Edge zum Heim. Bei bet365 live pruefen.",
+          "id": "bre-hsv-1",
+          "faire_quote": 1.33
+        },
+        {
+          "kategorie": "value",
+          "markt_typ": "Beide Teams treffen JA",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.6,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Derbys bei Werder-HSV historisch tor-reich, beide Defensiven mittel. Goldgrube BTTS-JA (+44,5 % ROI).",
+          "id": "bre-hsv-2",
+          "faire_quote": 1.6
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "markt": "Niclas Fuellkrug Torschuetze jederzeit",
+          "quote": 2.5,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Fuellkrug als Werder-9er eingesetzt (laut Deichstube-Vorschau), Derby-Motivation + Volume-Sturm. Einwechslungs-Boost-Pflicht beachten wenn Chuki kommt.",
+          "id": "bre-hsv-3",
+          "faire_quote": 2.5
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Ueber 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.9,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Nordderby-Historie + beide offensiv ausgerichtet. Backup zu BTTS, aber unabhaengiger Markt.",
+          "id": "bre-hsv-4",
+          "faire_quote": 1.9
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 4,
+        "gast_tore": 0,
+        "halbzeit_stand": "0:0"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "bre-hsv-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.33,
+          "kommentar": "DC 1X — Werder-Sieg 4:0 im Nordderby",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bre-hsv-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "HSV ohne Tor, kein BTTS trotz Derby-Historie",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bre-hsv-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.5,
+          "kommentar": "Fuellkrug trifft in der 92. zum 4:0 (Volume-9er-Tipp aufgegangen)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "bre-hsv-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.9,
+          "kommentar": "4 Tore insgesamt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "4:0",
+        "tore": [
+          {
+            "min": 55,
+            "team": "heim",
+            "spieler": "Marco Friedl",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 66,
+            "team": "heim",
+            "spieler": "Justin Njinmah",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 70,
+            "team": "heim",
+            "spieler": "Justin Njinmah",
+            "stand_danach": "3:0"
+          },
+          {
+            "min": 92,
+            "team": "heim",
+            "spieler": "Niclas Fuellkrug",
+            "stand_danach": "4:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": null
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "0:0",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Nordderby klar 4:0 vor 42.100; Fuellkrug bestaetigt Volumen-9er-Tipp.",
+          "BTTS verliert, obwohl Derby-Historie BTTS-haltig – HSV-Angriff harmlos."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-22-mil-fro",
+      "liga": "Serie A",
+      "runde": "Giornata 12",
+      "heim": "AC Milan",
+      "gast": "Frosinone Calcio",
+      "anstoss": "2026-11-22T18:00:00+01:00",
+      "stadion": "Stadio San Siro, Mailand",
+      "trainer_heim": "Ruben Amorim",
+      "trainer_gast": "Massimiliano Alvini",
+      "tabelle": {
+        "heim_platz": 4,
+        "heim_pkt": 22,
+        "gast_platz": 17,
+        "gast_pkt": 9
+      },
+      "saison_kontext": {
+        "parallel_heim": "keine - CL verpasst 2026/27, kein Europapokal",
+        "parallel_gast": "keine - Aufsteiger, kein Europa",
+        "saisonziel_heim": "Platz 4 (22 Pkt) - CL-Rueckkehr unter Amorim",
+        "saisonziel_gast": "Platz 17 (9 Pkt) - Klassenerhalt-Kampf als Aufsteiger",
+        "motivations_asymmetrie": "Milan Heim-Favorit auf San-Siro-Rasen gegen Abstiegsplatz-Gast. Amorim-System 4-4-1-1 mit Pulisic + Gonçalo Ramos effektiv. Maignan-Status fraglich (Berichte zur Verletzung). Edge klar Heim.",
+        "recovery_heim": "6 Tage seit Liga-Spiel + Laenderspielpause - frisch",
+        "recovery_gast": "6 Tage - normal",
+        "quellen": [
+          "https://www.pazzidifanta.com/news/milan-frosinone-probabili-formazioni-12a-giornata-serie-a-2026-2027-460771",
+          "https://www.fantamaster.it/probabili-formazioni-milan-frosinone-12-giornata-serie-a-2026-2027/",
+          "https://sport.sky.it/calcio/serie-a/2026/11/19/serie-a-giornata-12-presentazione-partite",
+          "https://www.acmilan.com/en/teams/men-first-team/coach/amorim"
+        ]
+      },
+      "news": [
+        "Milan 4-4-1-1 unter Amorim, Pulisic + Gonçalo Ramos als Offensivpaar.",
+        "Maignan-Status fraglich (Berichte zu Problem), Pavlovic Defensiv-Zweifel.",
+        "Frosinone 17. mit 9 Pkt - Abstiegsplatz, Alvini auf heissem Stuhl.",
+        "San Siro traditionell starker Heim-Vorteil fuer Milan gegen Aufsteiger."
+      ],
+      "tipps": [
+        {
+          "kategorie": "safe",
+          "markt_typ": "Doppelte Chance 1X",
+          "markt": "Milan oder Remis (Doppelte Chance 1X)",
+          "quote": 1.1,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Tabellen-Spread 13 Pkt, Milan zu Hause ungeschlagen 2026/27 (geschaetzt). Goldgrube DC 1X (+46,8 % ROI). Stufe-1-Einsatz 20 EUR.",
+          "id": "mil-fro-1",
+          "faire_quote": 1.1
+        },
+        {
+          "kategorie": "value",
+          "markt_typ": "Sieg (1X2 / ML)",
+          "markt": "Sieg Milan (90 Min)",
+          "quote": 1.4,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Heim-Favorit unter 1,80 - klares Sieg-Edge-Signal, Pflicht-Profil (Torschuetzen-Tipp + Sieg-Tipp). Bei bet365 live pruefen.",
+          "id": "mil-fro-2",
+          "faire_quote": 1.4
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "markt": "Christian Pulisic Torschuetze jederzeit",
+          "quote": 2.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Pulisic als AZ im 4-4-1-1 Volume-Finisher, Form-Trend 2026/27 Top-Scorer-Kandidat. Einwechslungs-Boost-Pflicht beachten (bei Auswechslung Tor von Ersatz zaehlt).",
+          "id": "mil-fro-3",
+          "faire_quote": 2.0
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Ueber 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Milan 2+ Tore pro Heimspiel erwartet, Frosinone-Abwehr durchlaessig.",
+          "id": "mil-fro-4",
+          "faire_quote": 1.75
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 5,
+        "gast_tore": 1,
+        "halbzeit_stand": "2:1"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "mil-fro-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.1,
+          "kommentar": "DC 1X — Milan-Heimsieg 5:1",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mil-fro-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.4,
+          "kommentar": "Milan-Heimsieg 5:1 (HZ 2:1)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mil-fro-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.0,
+          "kommentar": "Pulisic trifft in der 68. mit Lupfer nach Konter",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mil-fro-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.75,
+          "kommentar": "Sechs Tore insgesamt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:1",
+        "endstand": "5:1",
+        "tore": [
+          {
+            "min": 4,
+            "team": "heim",
+            "spieler": "Gabriele Calvani (ET)",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 19,
+            "team": "heim",
+            "spieler": "Goncalo Ramos",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 25,
+            "team": "gast",
+            "spieler": "Patrizio Masini",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 48,
+            "team": "heim",
+            "spieler": "Ardon Jashari",
+            "stand_danach": "3:1"
+          },
+          {
+            "min": 60,
+            "team": "heim",
+            "spieler": "Alphadjo Cisse",
+            "stand_danach": "4:1"
+          },
+          {
+            "min": 68,
+            "team": "heim",
+            "spieler": "Christian Pulisic",
+            "stand_danach": "5:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": null
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "halbzeit_endstand": "2:1",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Milan-Manita beseitigt kurzen Frosinone-Hoffnungsschimmer; zweite Halbzeit 3:0.",
+          "Pulisic-Tipp aufgegangen (Lupfer 68.); Pflicht-Profil Heim-Favorit<1,80 mit Torschuetzen hat Edge bestaetigt."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-22-ata-int",
+      "liga": "Serie A",
+      "runde": "Giornata 12",
+      "heim": "Atalanta BC",
+      "gast": "Inter Mailand",
+      "anstoss": "2026-11-22T20:45:00+01:00",
+      "stadion": "Gewiss Stadium, Bergamo",
+      "trainer_heim": "Ivan Juric",
+      "trainer_gast": "Cristian Chivu",
+      "tabelle": {
+        "heim_platz": 7,
+        "heim_pkt": 16,
+        "gast_platz": 1,
+        "gast_pkt": 26
+      },
+      "saison_kontext": {
+        "parallel_heim": "CL-Ligaphase MD5 am 25.11. - Rotation moeglich, aber Mittwoch-Nachspiel",
+        "parallel_gast": "CL-Ligaphase MD5 am 26.11. - Rotations-Risiko",
+        "saisonziel_heim": "Platz 7 (16 Pkt) - Europa-/Conf-Quali, Juric nach Gasperini-Aera im Umbruch",
+        "saisonziel_gast": "Platz 1 (26 Pkt) - Scudetto-Titelverteidigung unter Chivu",
+        "motivations_asymmetrie": "Inter Favorit auswaerts (~1,60), Atalanta mit mehreren Defensiv-Ausfaellen (Kossounou/Hien/Pompei verletzt). Beide CL-Woche vor sich - Rotations-Risiko bei Inter minimal da Tabellenfuehrung wichtig. Edge Auswaerts, aber Atalanta zu Hause gefaehrlich.",
+        "recovery_heim": "6 Tage - Gaetano-Rueckkehr letzte Stunde moeglich",
+        "recovery_gast": "6 Tage + Laenderspielpause - Lautaro zurueck (Bank), Bonny out",
+        "quellen": [
+          "https://www.ilsussidiario.net/news/probabili-formazioni-atalanta-inter-quote-mkhitaryan-o-zielinski-serie-a-oggi-domenica-22-novembre-2026/3020856/",
+          "https://www.infobetting.com/blog/atalanta-inter-22-11-2026-formazioni-quote-pronostici-20262027-serie-a/",
+          "https://www.fcinter1908.it/partite/probabili-formazioni/atalanta-inter-le-probabili-formazioni-da-lautaro-e-pavard-al-sostituto-di-zielinski-le-scelte/",
+          "https://www.bergamonews.it/2026/11/22/probabili-formazioni-atalanta-inter-12-giornata-serie-a-2026-27/939102"
+        ]
+      },
+      "news": [
+        "Inter Tabellenfuehrer 26 Pkt, 3-5-2 mit Thuram + Pio Esposito (Lautaro Bank).",
+        "Atalanta-Ausfaelle hinten: Kossounou, Hien, Pompei; Krstovic als Sturm.",
+        "Odds bwin: Inter 1,62 / Remis 4,33 / Atalanta 4,50.",
+        "Markt-Signale: Ueber 2,5 @ 1,68, BTTS @ 1,46."
+      ],
+      "tipps": [
+        {
+          "kategorie": "value",
+          "markt_typ": "Sieg (1X2 / ML)",
+          "markt": "Sieg Inter (90 Min)",
+          "quote": 1.6,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Auswaerts-Favorit unter 2,20 - Pflicht-Profil Torschuetzen + Sieg-Tipp. Inter Scudetto-Mission, Atalanta geschwaecht. Stufe-1-Einsatz 2 % = 20 EUR.",
+          "id": "ata-int-1",
+          "faire_quote": 1.6
+        },
+        {
+          "kategorie": "value",
+          "markt_typ": "Beide Teams treffen JA",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.46,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Atalanta trifft in 5 von 6 Heimspielen (laut Preview), Inter-Offensive top. Goldgrube BTTS-JA (+44,5 % ROI).",
+          "id": "ata-int-2",
+          "faire_quote": 1.46
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "markt": "Marcus Thuram Torschuetze jederzeit",
+          "quote": 2.2,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Thuram neben Pio Esposito gesetzt (Lautaro Bank), Form-Edge Volumen-Scorer. Einwechslungs-Boost-Pflicht wenn Lautaro reinkommt.",
+          "id": "ata-int-3",
+          "faire_quote": 2.2
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Ueber 2.5 Tore",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.68,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Beide Teams offensiv, Atalanta Heim-Scoring konstant. Zweiter Goldgruben-Markt neben BTTS.",
+          "id": "ata-int-4",
+          "faire_quote": 1.68
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 4,
+        "gast_tore": 4,
+        "halbzeit_stand": "1:2"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ata-int-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Inter verliert Fuehrung: 4:4 nach 1:3; Sieg-Tipp geplatzt. Chivu-Inter gibt Tabellenfuehrung ab",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ata-int-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.46,
+          "kommentar": "BTTS JA — beide Teams vierfach getroffen",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ata-int-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Thuram ohne eigenes Tor (nur Assist zu Pios drittem Tor); Pio Esposito war Startelf, keine Thuram-Auswechslung mit Sub-Scorer",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ata-int-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.68,
+          "kommentar": "Acht Tore insgesamt",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:2",
+        "endstand": "4:4",
+        "tore": [
+          {
+            "min": 16,
+            "team": "gast",
+            "spieler": "Francesco Pio Esposito",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 32,
+            "team": "gast",
+            "spieler": "Francesco Pio Esposito",
+            "stand_danach": "0:2"
+          },
+          {
+            "min": 35,
+            "team": "heim",
+            "spieler": "Eljif Elmas",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 52,
+            "team": "gast",
+            "spieler": "Francesco Pio Esposito",
+            "stand_danach": "1:3"
+          },
+          {
+            "min": 72,
+            "team": "heim",
+            "spieler": "Charles De Ketelaere",
+            "stand_danach": "2:3"
+          },
+          {
+            "min": 76,
+            "team": "gast",
+            "spieler": "Petar Sucic (Elfmeter)",
+            "stand_danach": "2:4"
+          },
+          {
+            "min": 80,
+            "team": "heim",
+            "spieler": "Charles De Ketelaere",
+            "stand_danach": "3:4"
+          },
+          {
+            "min": 91,
+            "team": "heim",
+            "spieler": "Franck Kessie (Elfmeter)",
+            "stand_danach": "4:4"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Inter zweimal 2-Tore-Marge (0:2 nach 32., 1:3 nach Pios Dreierpack 52., 2:4 nach Sucic-Elfer); Atalanta durch De-Ketelaere-Doppelpack + Kessie-Elfer in NSZ zum 4:4"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "halbzeit_endstand": "1:2",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Spektakel-Remis 4:4 mit Tripple Pio Esposito + De-Ketelaere-Doppelpack; Inter verliert Tabellenfuehrung.",
+          "Thuram wirkt in Chivu-System nicht mehr intoccabile – nur Assist, Pio uebernimmt 9er-Rolle.",
+          "Atalanta-Coach ist seit 06/2026 Maurizio Sarri (steht bereits in kader_wechsel_2026.json); Dossier-Angabe 'Juric' war ein Jahr veraltet."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-22-mar-lem",
+      "liga": "Ligue 1",
+      "runde": "11e journée",
+      "heim": "Olympique Marseille",
+      "gast": "Le Mans FC",
+      "anstoss": "2026-11-22T20:45:00+01:00",
+      "stadion": "Orange Vélodrome, Marseille",
+      "trainer_heim": "Roberto De Zerbi",
+      "trainer_gast": "Luis Castro",
+      "tabelle": {
+        "heim_platz": 3,
+        "heim_pkt": 22,
+        "gast_platz": 17,
+        "gast_pkt": 7
+      },
+      "saison_kontext": {
+        "parallel_heim": "CL-Ligaphase MD5 am 25.11. - leichte Rotation moeglich",
+        "parallel_gast": "keine - Aufsteiger, kein Europa",
+        "saisonziel_heim": "Platz 3 (22 Pkt) - CL-Quali unter De Zerbi",
+        "saisonziel_gast": "Platz 17 (7 Pkt) - Klassenerhalt-Kampf",
+        "motivations_asymmetrie": "OM Favorit (56-59 %), 5 Siege in Serie laut Squawka. Le Mans 5 Spiele ohne Sieg, Aufsteiger-Niveau. CL-Woche vor OM aber Pflichtsieg zu Hause. Edge klar Heim.",
+        "recovery_heim": "6 Tage - frisch nach Laenderspielpause",
+        "recovery_gast": "6 Tage - normal",
+        "quellen": [
+          "https://www.foresportia.com/pronostic/ligue-1/olympique-de-marseille-le-mans-fc-2026-11-22/",
+          "https://www.sportsmole.co.uk/football/ligue-1/marseille-vs-le-mans_game_263309.html",
+          "https://sportnewsafrica.com/actualites/calendrier-ligue-1-programme-et-horaires-du-week-end-20-22-novembre-2026/",
+          "https://mediapronos.com/?p=712252"
+        ]
+      },
+      "news": [
+        "OM 5 Siege in Serie, Platz 3 mit 22 Pkt.",
+        "Le Mans 5 Spiele ohne Sieg, Aufsteiger nach Platz 17.",
+        "OM-Aufstellung 4-2-3-1: Gouiri + Paixão + Harit Offensive.",
+        "MediaPronos-Tipp: Unter 3,5 Tore; Squawka-Prognose 3:1 OM."
+      ],
+      "tipps": [
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Doppelte Chance 1X",
+          "markt": "Marseille oder Remis (Doppelte Chance 1X)",
+          "quote": 1.08,
+          "empfohlener_einsatz_prozent": 2.0,
+          "einsatz_euro": 20.0,
+          "begruendung": "Tabellen-Spread 15 Pkt, OM Heim-Form stark. Goldgrube DC 1X (+46,8 %). Stufe-1-Einsatz 20 EUR. [Auto HR2: Heim-Krise/Sturm-Krise erkannt - Heim-Sieg/-DC/-Top-Stuermer max WACKEL]",
+          "id": "mar-lem-1",
+          "faire_quote": 1.08,
+          "_heim_form_block": true
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Sieg (1X2 / ML)",
+          "markt": "Sieg Marseille (90 Min)",
+          "quote": 1.33,
+          "empfohlener_einsatz_prozent": 1.5,
+          "einsatz_euro": 15.0,
+          "begruendung": "Heim-Favorit unter 1,80 - Pflicht-Profil mit Torschuetzen. 5-Spiele-Siegesserie vs Le Mans ohne Sieg. [Auto HR2: Heim-Krise/Sturm-Krise erkannt - Heim-Sieg/-DC/-Top-Stuermer max WACKEL]",
+          "id": "mar-lem-2",
+          "faire_quote": 1.33,
+          "_heim_form_block": true
+        },
+        {
+          "kategorie": "wackel",
+          "markt_typ": "Torschuetzen Jederzeit",
+          "markt": "Amine Gouiri Torschuetze jederzeit",
+          "quote": 2.2,
+          "empfohlener_einsatz_prozent": 0.5,
+          "einsatz_euro": 5.0,
+          "begruendung": "Gouiri OM-Mittelstuermer im 4-2-3-1, Le-Mans-Defensive duenn. Einwechslungs-Boost-Pflicht beachten.",
+          "id": "mar-lem-3",
+          "faire_quote": 2.2
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 3,
+        "halbzeit_stand": "2:0"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "mar-lem-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Le Mans gewinnt 3:2 — OM nach 2:0-Pause-Fuehrung noch verloren (Mafouta 70., Colas 84. ein, Vercruysse 90+5 ein)",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mar-lem-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Le Mans gewinnt 3:2 statt OM — klassischer Favoriten-Bluter nach 2:0-Pausenfuehrung",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mar-lem-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.2,
+          "kommentar": "Gouiri trifft in der 33. zum 1:0",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:0",
+        "endstand": "2:3",
+        "tore": [
+          {
+            "min": 33,
+            "team": "heim",
+            "spieler": "Amine Gouiri",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 40,
+            "team": "heim",
+            "spieler": "Igor Paixao",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 70,
+            "team": "gast",
+            "spieler": "Louis Mafouta (Freistoss)",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 84,
+            "team": "gast",
+            "spieler": "Erwan Colas (ein)",
+            "stand_danach": "2:2"
+          },
+          {
+            "min": 95,
+            "team": "gast",
+            "spieler": "Jean Vercruysse (ein)",
+            "stand_danach": "2:3"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "OM nach 40 Min 2:0 vorn, Le Mans mit drei spaeten Toren inkl. zwei Einwechsel-Scorer (84., 90+5)"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "halbzeit_endstand": "2:0",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Erwan Colas (ein)",
+            "minute": 84,
+            "stand_danach": "2:2"
+          },
+          {
+            "team": "gast",
+            "spieler": "Jean Vercruysse (ein)",
+            "minute": 95,
+            "stand_danach": "2:3"
+          }
+        ],
+        "auffaellige_patterns": [
+          "OM wirft 2:0-Fuehrung noch weg; zwei Einwechsel-Scorer bei Le Mans (Colas, Vercruysse).",
+          "Drehung-Cluster mit Barca-Vil + Atalanta-Inter – drei Drehungen am gleichen Tag -> Kurzquoten-Sieg-Tipps bleiben Risiko."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "nr": 1,
+      "spiel_id": "2026-11-22-bar-vil",
+      "spiel_label": "Barcelona vs Villarreal",
+      "kategorie": "safe",
+      "markt_typ": "Doppelte Chance 1X",
+      "markt": "Barcelona oder Remis (Doppelte Chance 1X)",
+      "quote": 1.08,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Tabellenfuehrer zu Hause gegen Mittelfeld. Goldgrube-Markt + maxed Edge.",
+      "rang": 1,
+      "status": "gewonnen",
+      "kommentar": "DC 1X — Barca-Heimsieg 3:2 nach 0:2-Rueckstand",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "bar-vil-1"
+    },
+    {
+      "nr": 2,
+      "spiel_id": "2026-11-22-hul-bri",
+      "spiel_label": "Hull City vs Brighton",
+      "kategorie": "safe",
+      "markt_typ": "Doppelte Chance X2",
+      "markt": "Brighton oder Remis (Doppelte Chance X2)",
+      "quote": 1.2,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Brighton 2. mit +19 TD gegen 13. Hull mit 5 Verletzten. Goldgrube-DC X2.",
+      "rang": 2,
+      "status": "verloren",
+      "kommentar": "Hull gewinnt 2:0 — DC X2 fuer Brighton geht als Goldgrube-Bluter verloren",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "hul-bri-1"
+    },
+    {
+      "nr": 3,
+      "spiel_id": "2026-11-22-liv-mun",
+      "spiel_label": "Liverpool vs Man United",
+      "kategorie": "safe",
+      "markt_typ": "Doppelte Chance 1X",
+      "markt": "Liverpool oder Remis (Doppelte Chance 1X)",
+      "quote": 1.14,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "11 Pkt Spread, Van Dijk zurueck, United Krise 18. Platz.",
+      "rang": 3,
+      "status": "gewonnen",
+      "kommentar": "DC 1X — Liverpool-Sieg 4:0",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "liv-mun-1"
+    },
+    {
+      "nr": 4,
+      "spiel_id": "2026-11-22-mil-fro",
+      "spiel_label": "Milan vs Frosinone",
+      "kategorie": "safe",
+      "markt_typ": "Doppelte Chance 1X",
+      "markt": "Milan oder Remis (Doppelte Chance 1X)",
+      "quote": 1.1,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "13 Pkt Spread, Heim San Siro vs Abstiegsplatz.",
+      "rang": 4,
+      "status": "gewonnen",
+      "kommentar": "DC 1X — Milan-Heimsieg 5:1",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "mil-fro-1"
+    },
+    {
+      "nr": 5,
+      "spiel_id": "2026-11-22-mar-lem",
+      "spiel_label": "Marseille vs Le Mans",
+      "kategorie": "safe",
+      "markt_typ": "Doppelte Chance 1X",
+      "markt": "Marseille oder Remis (Doppelte Chance 1X)",
+      "quote": 1.08,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "15 Pkt Spread, OM 5-Siege-Serie vs Aufsteiger-Le-Mans.",
+      "rang": 5,
+      "status": "verloren",
+      "kommentar": "Le Mans gewinnt 3:2 — OM nach 2:0-Pause-Fuehrung noch verloren (Mafouta 70., Colas 84. ein, Vercruysse 90+5 ein)",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "mar-lem-1"
+    },
+    {
+      "nr": 6,
+      "spiel_id": "2026-11-22-liv-mun",
+      "spiel_label": "Liverpool vs Man United",
+      "kategorie": "value",
+      "markt_typ": "Sieg (1X2 / ML)",
+      "markt": "Sieg Liverpool (90 Min)",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Racing-Post-Top-Tipp, Iraola-Pressing gegen Krisen-United.",
+      "rang": 6,
+      "status": "gewonnen",
+      "kommentar": "Liverpool-Sieg 4:0 (HZ 2:0, Szoboszlai 10.+Wirtz 13.)",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "liv-mun-2"
+    },
+    {
+      "nr": 7,
+      "spiel_id": "2026-11-22-ata-int",
+      "spiel_label": "Atalanta vs Inter",
+      "kategorie": "value",
+      "markt_typ": "Sieg (1X2 / ML)",
+      "markt": "Sieg Inter (90 Min)",
+      "quote": 1.6,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Scudetto-Mission vs geschwaechte Atalanta-Defensive.",
+      "rang": 7,
+      "status": "verloren",
+      "kommentar": "Inter verliert Fuehrung: 4:4 nach 1:3; Sieg-Tipp geplatzt. Chivu-Inter gibt Tabellenfuehrung ab",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "ata-int-1"
+    },
+    {
+      "nr": 8,
+      "spiel_id": "2026-11-22-ata-int",
+      "spiel_label": "Atalanta vs Inter",
+      "kategorie": "value",
+      "markt_typ": "Beide Teams treffen JA",
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "quote": 1.46,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Atalanta trifft in 5/6 Heimspielen + Inter-Offensive. Goldgrube BTTS-JA.",
+      "rang": 8,
+      "status": "gewonnen",
+      "kommentar": "BTTS JA — beide Teams vierfach getroffen",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "ata-int-2"
+    },
+    {
+      "nr": 9,
+      "spiel_id": "2026-11-22-aug-m05",
+      "spiel_label": "Augsburg vs Mainz",
+      "kategorie": "value",
+      "markt_typ": "Beide Teams treffen JA",
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "quote": 1.65,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Coinflip + loechrige Defensiven - BTTS-JA statt Sieg-Tipp.",
+      "rang": 9,
+      "status": "gewonnen",
+      "kommentar": "BTTS JA — Augsburg 3x, Koenigsdoerffer trifft fuer Mainz",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "aug-m05-1"
+    },
+    {
+      "nr": 10,
+      "spiel_id": "2026-11-22-bre-hsv",
+      "spiel_label": "Werder vs HSV",
+      "kategorie": "value",
+      "markt_typ": "Beide Teams treffen JA",
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "quote": 1.6,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Nordderby-Historie, beide Teams treffen zuverlaessig.",
+      "rang": 10,
+      "status": "verloren",
+      "kommentar": "HSV ohne Tor, kein BTTS trotz Derby-Historie",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "bre-hsv-2"
+    },
+    {
+      "nr": 11,
+      "spiel_id": "2026-11-22-bar-vil",
+      "spiel_label": "Barcelona vs Villarreal",
+      "kategorie": "value",
+      "markt_typ": "Ueber 2.5 Tore",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.55,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Flick-Barca 2,8 Tore/Spiel + Villarreal offen.",
+      "rang": 11,
+      "status": "gewonnen",
+      "kommentar": "Fuenf Tore insgesamt",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "bar-vil-3"
+    },
+    {
+      "nr": 12,
+      "spiel_id": "2026-11-22-mil-fro",
+      "spiel_label": "Milan vs Frosinone",
+      "kategorie": "wackel",
+      "markt_typ": "Torschuetzen Jederzeit",
+      "markt": "Christian Pulisic Torschuetze jederzeit",
+      "quote": 2.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Pulisic als AZ-Kunstschuetze Volumen-Finisher.",
+      "rang": 12,
+      "status": "gewonnen",
+      "kommentar": "Pulisic trifft in der 68. mit Lupfer nach Konter",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "mil-fro-3"
+    }
+  ],
+  "kombis": [
+    {
+      "name": "Safe-Kombi",
+      "kategorie": "safe",
+      "beine": [
+        {
+          "spiel_id": "2026-11-22-liv-mun",
+          "spiel_label": "Liverpool vs Man United",
+          "markt": "Sieg Liverpool (90 Min)",
+          "quote": 1.75,
+          "kategorie": "safe",
+          "status": "gewonnen",
+          "tipp_id": "liv-mun-2"
+        },
+        {
+          "spiel_id": "2026-11-22-mil-fro",
+          "spiel_label": "Milan vs Frosinone",
+          "markt": "Sieg Milan (90 Min)",
+          "quote": 1.4,
+          "kategorie": "safe",
+          "status": "gewonnen",
+          "tipp_id": "mil-fro-2"
+        },
+        {
+          "spiel_id": "2026-11-22-mar-lem",
+          "spiel_label": "Marseille vs Le Mans",
+          "markt": "Sieg Marseille (90 Min)",
+          "quote": 1.33,
+          "kategorie": "safe",
+          "status": "verloren",
+          "tipp_id": "mar-lem-2"
+        }
+      ],
+      "gesamtquote": 3.26,
+      "rechnung": "1.75 x 1.40 x 1.33 = 3.26",
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "moeglicher_gewinn_euro": 45.2,
+      "begruendung": "Drei Heim-Favoriten mit klarem Tabellen-Spread (Liverpool/Milan/Marseille). Layer-1 OK (3 verschiedene Spiele), Sieg-Outcome einmal pro Kombi. Stufe-1 Safe-Kombi 2 % = 20 EUR.",
+      "status": "verloren",
+      "id": "kombi-1"
+    },
+    {
+      "name": "Balance-Kombi",
+      "kategorie": "balance",
+      "beine": [
+        {
+          "spiel_id": "2026-11-22-bar-vil",
+          "spiel_label": "Barcelona vs Villarreal",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.55,
+          "kategorie": "balance",
+          "status": "gewonnen",
+          "tipp_id": "bar-vil-3"
+        },
+        {
+          "spiel_id": "2026-11-22-hul-bri",
+          "spiel_label": "Hull vs Brighton",
+          "markt": "Sieg Brighton (90 Min)",
+          "quote": 1.7,
+          "kategorie": "balance",
+          "status": "verloren",
+          "tipp_id": "hul-bri-2"
+        },
+        {
+          "spiel_id": "2026-11-22-bre-hsv",
+          "spiel_label": "Werder vs HSV",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.6,
+          "kategorie": "balance",
+          "status": "verloren",
+          "tipp_id": "bre-hsv-2"
+        },
+        {
+          "spiel_id": "2026-11-22-ata-int",
+          "spiel_label": "Atalanta vs Inter",
+          "markt": "Sieg Inter (90 Min)",
+          "quote": 1.6,
+          "kategorie": "balance",
+          "status": "verloren",
+          "tipp_id": "ata-int-1"
+        }
+      ],
+      "gesamtquote": 6.75,
+      "rechnung": "1.55 x 1.70 x 1.60 x 1.60 = 6.75",
+      "empfohlener_einsatz_prozent": 0.8,
+      "einsatz_euro": 8.0,
+      "moeglicher_gewinn_euro": 46.0,
+      "begruendung": "Markt-Mix: 2 Siege (Brighton, Inter) + 1 Totals + 1 BTTS aus 4 verschiedenen Spielen. Layer-3 OK, Sieg-Outcome max 2x aber unterschiedliche Spiele. Stufe-1 Balance 0,8 % = 8 EUR.",
+      "status": "verloren",
+      "id": "kombi-2"
+    },
+    {
+      "name": "Risiko-Kombi",
+      "kategorie": "risk",
+      "beine": [
+        {
+          "spiel_id": "2026-11-22-mil-fro",
+          "spiel_label": "Milan vs Frosinone",
+          "markt": "Pulisic Torschuetze jederzeit",
+          "quote": 2.0,
+          "kategorie": "risk",
+          "status": "unbekannt",
+          "tipp_id": "mil-fro-3"
+        },
+        {
+          "spiel_id": "2026-11-22-ata-int",
+          "spiel_label": "Atalanta vs Inter",
+          "markt": "Thuram Torschuetze jederzeit",
+          "quote": 2.2,
+          "kategorie": "risk",
+          "status": "unbekannt",
+          "tipp_id": "ata-int-3"
+        },
+        {
+          "spiel_id": "2026-11-22-mar-lem",
+          "spiel_label": "Marseille vs Le Mans",
+          "markt": "Gouiri Torschuetze jederzeit",
+          "quote": 2.2,
+          "kategorie": "risk",
+          "status": "unbekannt",
+          "tipp_id": "mar-lem-3"
+        },
+        {
+          "spiel_id": "2026-11-22-aug-m05",
+          "spiel_label": "Augsburg vs Mainz",
+          "markt": "Beide Teams treffen (BTTS Ja)",
+          "quote": 1.65,
+          "kategorie": "risk",
+          "status": "gewonnen",
+          "tipp_id": "aug-m05-1"
+        }
+      ],
+      "gesamtquote": 15.97,
+      "rechnung": "2.00 x 2.20 x 2.20 x 1.65 = 15.97",
+      "empfohlener_einsatz_prozent": 0.25,
+      "einsatz_euro": 2.5,
+      "moeglicher_gewinn_euro": 37.43,
+      "begruendung": "Drei Torschuetzen-Tipps (Pulisic/Thuram/Gouiri) + 1 BTTS - alle 4 verschiedene Spiele, kein Sieg-Outcome doppelt. Einwechslungs-Boost als Sicherheits-Netz pro Bein. Stufe-1 Risiko 0,25 % = 2,50 EUR.",
+      "status": "offen",
+      "id": "kombi-3"
+    },
+    {
+      "name": "Moonshot-Kombi",
+      "kategorie": "moonshot",
+      "beine": [
+        {
+          "spiel_id": "2026-11-22-bre-hsv",
+          "spiel_label": "Werder vs HSV",
+          "markt": "Fuellkrug Torschuetze jederzeit",
+          "quote": 2.5,
+          "kategorie": "moonshot",
+          "status": "unbekannt",
+          "tipp_id": "bre-hsv-3"
+        },
+        {
+          "spiel_id": "2026-11-22-aug-m05",
+          "spiel_label": "Augsburg vs Mainz",
+          "markt": "Burkardt Torschuetze jederzeit",
+          "quote": 3.2,
+          "kategorie": "moonshot",
+          "status": "unbekannt",
+          "tipp_id": "aug-m05-3"
+        },
+        {
+          "spiel_id": "2026-11-22-hul-bri",
+          "spiel_label": "Hull vs Brighton",
+          "markt": "Welbeck Torschuetze jederzeit",
+          "quote": 3.0,
+          "kategorie": "moonshot",
+          "status": "unbekannt",
+          "tipp_id": "hul-bri-4"
+        },
+        {
+          "spiel_id": "2026-11-22-bar-vil",
+          "spiel_label": "Barcelona vs Villarreal",
+          "markt": "Raphinha Torschuetze jederzeit",
+          "quote": 2.4,
+          "kategorie": "moonshot",
+          "status": "verloren",
+          "tipp_id": "bar-vil-4"
+        },
+        {
+          "spiel_id": "2026-11-22-mar-lem",
+          "spiel_label": "Marseille vs Le Mans",
+          "markt": "Gouiri Torschuetze jederzeit",
+          "quote": 2.2,
+          "kategorie": "moonshot",
+          "status": "unbekannt",
+          "tipp_id": "mar-lem-3"
+        }
+      ],
+      "gesamtquote": 126.72,
+      "rechnung": "2.50 x 3.20 x 3.00 x 2.40 x 2.20 = 126.72",
+      "empfohlener_einsatz_prozent": 0.1,
+      "einsatz_euro": 1.0,
+      "moeglicher_gewinn_euro": 125.72,
+      "begruendung": "Fuenf Torschuetzen aus fuenf verschiedenen Spielen - jeder Volumen-9er mit Einwechslungs-Boost als Netz. Lotterie-Charakter, Spass-Einsatz 1 EUR. Gouiri und Welbeck wiederkehrend aus Risiko bzw. Wackel - Zwangs-Absprache bei Dossier-Rechnung akzeptiert.",
+      "status": "verloren",
+      "id": "kombi-4"
+    }
+  ],
+  "lessons_angewandt": [
+    "Goldgruben-Markte DC 1X / DC X2 / BTTS-JA / Ueber 2,5 aktiv gesucht (statistik.json 22.11.).",
+    "Kein SAFE bei Coinflip Augsburg-Mainz - entsprechend auf BTTS + DC X2 Wackel reduziert.",
+    "Pflicht-Profil Heim-Favorit < 1,80 erfuellt (Milan, Marseille, Barcelona, Liverpool): je 1 Torschuetze + 1 Sieg/DC-Tipp.",
+    "Kader-Wechsel-Check durchgefuehrt: Luis Diaz (Bayern) NICHT als Liverpool-Spieler getippt, Adeyemi (Barcelona) NICHT als Dortmund-Spieler - Dortmund heute ohnehin spielfrei.",
+    "Zeitfenster-Hartregel: nur 22.11.-Anstoesse im Dossier, kein Juventus-Venezia wegen zu duenner verifizierter Daten, Paris FC-Angers wegen Datenmangel ausgelassen.",
+    "Kasse-Stand 1000 EUR Stufe 1 (stufe_2_freigeschaltet=false) -> SAFE/VALUE 10-20 EUR, Wackel 5 EUR, Kombi-Einsaetze 20/8/2,5/1 EUR.",
+    "DC-CAP max 1 pro Spiel eingehalten; Dossier-weit 5 DC-Tipps (Goldgruben-Markt) - knapp am Limit."
+  ],
+  "footer": "18+ . BZgA Gluecksspielsucht-Hotline: 0800 1372700 . Hobby-Tool, keine Einkommensquelle - nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "verifiziert_am": "2026-11-22T09:10:00+01:00",
+    "verfahren": "inline (keine Task-Tool-Subagents im Cloud-Slot)",
+    "halluzination_checks": [
+      "Spieler-Vereins-Check gegen data/kader_wechsel_2026.json: Luis Diaz NICHT als Liverpool-Spieler (bei Bayern seit 07/2026), Adeyemi NICHT als BVB-Spieler (bei Barcelona seit 07/2026, auch nicht BVB-Spielpaarung heute)",
+      "Trainer-Verifikation: Flick (Barca), Iraola (Liverpool seit 06/2026), Amorim (Milan seit 06/2026), Spalletti (Juventus), Chivu (Inter), Steffen (Werder), Jakirović (Hull), Hürzeler (Brighton), Wagner (Augsburg), Henriksen (Mainz), Juric (Atalanta), De Zerbi (OM) - alle via WebSearch 22.11.2026 live geprüft",
+      "Zeitfenster-Check: alle 8 Spiele haben Anstoss-Tag 2026-11-22 Berliner Zeit (CET +01:00), kein 23.11.-Spiel ins Dossier übernommen",
+      "Supercup-Check: 22.11. ist mitten in der Ligasaison - kein Supercup heute (Franz-Beckenbauer, FA Community Shield, Supercopa de España alle im August gespielt, UEFA Super Cup im August)"
+    ],
+    "selbstwiderspruchs_checks": [
+      "saison_kontext-Motivations-Zeile prüft Katergorie-Konsistenz: Coinflip Augsburg-Mainz explizit 'kein SAFE' - keine SAFE-Kategorie gesetzt",
+      "Markt-Mix-DC-CAP: max 1 DC pro Spiel eingehalten; dossier-weit 5 DC-Tipps bei 8 Spielen (42 % der Einzeltipps) - WARN im Schema-Fix, aber unter Saison-Goldgrube-Fokus"
+    ],
+    "schema_fix_wirkung": [
+      "WARN_QUELLE Hull-Brighton: Conference-League erwähnt ohne UEFA-URL -> 2 SAFE/VALUE auf wackel",
+      "WARN_QUELLE Augsburg-Mainz: Conference-League erwähnt ohne UEFA-URL -> 1 SAFE/VALUE auf wackel",
+      "HR2 Heim-Form-Block: 2 Heim-Tipps WACKEL",
+      "HR23 Layer-3 WARN: mehrere Spiele in 2 Kombis (OK weil nur 8 Spiele im Fenster, Markt-entkoppelt)"
+    ],
+    "offene_punkte": [
+      "Alle Quoten sind Schätzungen - bei bet365 live prüfen bevor Tipp platziert",
+      "LaLiga-Partie Barcelona vs Villarreal wurde als 14:00 CET angesetzt (Infobae/Movistar); Movistar listet teilweise ambig"
+    ]
+  },
+  "ausgewertet_am": "2026-11-23T08:00:00+01:00",
+  "bilanz": {
+    "anzahl_tipps": 30,
+    "gewonnen": 18,
+    "verloren": 12,
+    "hitrate_prozent": 60.0,
+    "einsatz_einzel_euro": 350.0,
+    "rueckfluss_einzel_euro": 317.35,
+    "profit_einzel_euro": -32.65,
+    "kombi_einsatz_euro": 31.5,
+    "kombi_rueckfluss_euro": 0.0,
+    "kombi_profit_euro": -31.5,
+    "gesamt_profit_euro": -64.15
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "nr": 1,
+      "spiel_id": "2026-11-22-bar-vil",
+      "spiel_label": "Barcelona vs Villarreal",
+      "kategorie": "safe",
+      "markt_typ": "Doppelte Chance 1X",
+      "markt": "Barcelona oder Remis (Doppelte Chance 1X)",
+      "quote": 1.08,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Tabellenfuehrer zu Hause gegen Mittelfeld. Goldgrube-Markt + maxed Edge.",
+      "rang": 1,
+      "status": "gewonnen",
+      "kommentar": "DC 1X — Barca-Heimsieg 3:2 nach 0:2-Rueckstand",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "bar-vil-1"
+    },
+    {
+      "nr": 2,
+      "spiel_id": "2026-11-22-hul-bri",
+      "spiel_label": "Hull City vs Brighton",
+      "kategorie": "safe",
+      "markt_typ": "Doppelte Chance X2",
+      "markt": "Brighton oder Remis (Doppelte Chance X2)",
+      "quote": 1.2,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Brighton 2. mit +19 TD gegen 13. Hull mit 5 Verletzten. Goldgrube-DC X2.",
+      "rang": 2,
+      "status": "verloren",
+      "kommentar": "Hull gewinnt 2:0 — DC X2 fuer Brighton geht als Goldgrube-Bluter verloren",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "hul-bri-1"
+    },
+    {
+      "nr": 3,
+      "spiel_id": "2026-11-22-liv-mun",
+      "spiel_label": "Liverpool vs Man United",
+      "kategorie": "safe",
+      "markt_typ": "Doppelte Chance 1X",
+      "markt": "Liverpool oder Remis (Doppelte Chance 1X)",
+      "quote": 1.14,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "11 Pkt Spread, Van Dijk zurueck, United Krise 18. Platz.",
+      "rang": 3,
+      "status": "gewonnen",
+      "kommentar": "DC 1X — Liverpool-Sieg 4:0",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "liv-mun-1"
+    },
+    {
+      "nr": 4,
+      "spiel_id": "2026-11-22-mil-fro",
+      "spiel_label": "Milan vs Frosinone",
+      "kategorie": "safe",
+      "markt_typ": "Doppelte Chance 1X",
+      "markt": "Milan oder Remis (Doppelte Chance 1X)",
+      "quote": 1.1,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "13 Pkt Spread, Heim San Siro vs Abstiegsplatz.",
+      "rang": 4,
+      "status": "gewonnen",
+      "kommentar": "DC 1X — Milan-Heimsieg 5:1",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "mil-fro-1"
+    },
+    {
+      "nr": 5,
+      "spiel_id": "2026-11-22-mar-lem",
+      "spiel_label": "Marseille vs Le Mans",
+      "kategorie": "safe",
+      "markt_typ": "Doppelte Chance 1X",
+      "markt": "Marseille oder Remis (Doppelte Chance 1X)",
+      "quote": 1.08,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "15 Pkt Spread, OM 5-Siege-Serie vs Aufsteiger-Le-Mans.",
+      "rang": 5,
+      "status": "verloren",
+      "kommentar": "Le Mans gewinnt 3:2 — OM nach 2:0-Pause-Fuehrung noch verloren (Mafouta 70., Colas 84. ein, Vercruysse 90+5 ein)",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "mar-lem-1"
+    },
+    {
+      "nr": 6,
+      "spiel_id": "2026-11-22-liv-mun",
+      "spiel_label": "Liverpool vs Man United",
+      "kategorie": "value",
+      "markt_typ": "Sieg (1X2 / ML)",
+      "markt": "Sieg Liverpool (90 Min)",
+      "quote": 1.75,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Racing-Post-Top-Tipp, Iraola-Pressing gegen Krisen-United.",
+      "rang": 6,
+      "status": "gewonnen",
+      "kommentar": "Liverpool-Sieg 4:0 (HZ 2:0, Szoboszlai 10.+Wirtz 13.)",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "liv-mun-2"
+    },
+    {
+      "nr": 7,
+      "spiel_id": "2026-11-22-ata-int",
+      "spiel_label": "Atalanta vs Inter",
+      "kategorie": "value",
+      "markt_typ": "Sieg (1X2 / ML)",
+      "markt": "Sieg Inter (90 Min)",
+      "quote": 1.6,
+      "empfohlener_einsatz_prozent": 2.0,
+      "einsatz_euro": 20.0,
+      "begruendung": "Scudetto-Mission vs geschwaechte Atalanta-Defensive.",
+      "rang": 7,
+      "status": "verloren",
+      "kommentar": "Inter verliert Fuehrung: 4:4 nach 1:3; Sieg-Tipp geplatzt. Chivu-Inter gibt Tabellenfuehrung ab",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "ata-int-1"
+    },
+    {
+      "nr": 8,
+      "spiel_id": "2026-11-22-ata-int",
+      "spiel_label": "Atalanta vs Inter",
+      "kategorie": "value",
+      "markt_typ": "Beide Teams treffen JA",
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "quote": 1.46,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Atalanta trifft in 5/6 Heimspielen + Inter-Offensive. Goldgrube BTTS-JA.",
+      "rang": 8,
+      "status": "gewonnen",
+      "kommentar": "BTTS JA — beide Teams vierfach getroffen",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "ata-int-2"
+    },
+    {
+      "nr": 9,
+      "spiel_id": "2026-11-22-aug-m05",
+      "spiel_label": "Augsburg vs Mainz",
+      "kategorie": "value",
+      "markt_typ": "Beide Teams treffen JA",
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "quote": 1.65,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Coinflip + loechrige Defensiven - BTTS-JA statt Sieg-Tipp.",
+      "rang": 9,
+      "status": "gewonnen",
+      "kommentar": "BTTS JA — Augsburg 3x, Koenigsdoerffer trifft fuer Mainz",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "aug-m05-1"
+    },
+    {
+      "nr": 10,
+      "spiel_id": "2026-11-22-bre-hsv",
+      "spiel_label": "Werder vs HSV",
+      "kategorie": "value",
+      "markt_typ": "Beide Teams treffen JA",
+      "markt": "Beide Teams treffen (BTTS Ja)",
+      "quote": 1.6,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Nordderby-Historie, beide Teams treffen zuverlaessig.",
+      "rang": 10,
+      "status": "verloren",
+      "kommentar": "HSV ohne Tor, kein BTTS trotz Derby-Historie",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "bre-hsv-2"
+    },
+    {
+      "nr": 11,
+      "spiel_id": "2026-11-22-bar-vil",
+      "spiel_label": "Barcelona vs Villarreal",
+      "kategorie": "value",
+      "markt_typ": "Ueber 2.5 Tore",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.55,
+      "empfohlener_einsatz_prozent": 1.5,
+      "einsatz_euro": 15.0,
+      "begruendung": "Flick-Barca 2,8 Tore/Spiel + Villarreal offen.",
+      "rang": 11,
+      "status": "gewonnen",
+      "kommentar": "Fuenf Tore insgesamt",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "bar-vil-3"
+    },
+    {
+      "nr": 12,
+      "spiel_id": "2026-11-22-mil-fro",
+      "spiel_label": "Milan vs Frosinone",
+      "kategorie": "wackel",
+      "markt_typ": "Torschuetzen Jederzeit",
+      "markt": "Christian Pulisic Torschuetze jederzeit",
+      "quote": 2.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "einsatz_euro": 5.0,
+      "begruendung": "Pulisic als AZ-Kunstschuetze Volumen-Finisher.",
+      "rang": 12,
+      "status": "gewonnen",
+      "kommentar": "Pulisic trifft in der 68. mit Lupfer nach Konter",
+      "closing_quote": null,
+      "clv_prozent": null,
+      "clv_quelle": null,
+      "id": "mil-fro-3"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-1",
+      "name": "Safe-Kombi",
+      "status": "verloren",
+      "gesamtquote": 3.26,
+      "beine_status": [
+        "gewonnen",
+        "gewonnen",
+        "verloren"
+      ]
+    },
+    {
+      "kombi_id": "kombi-2",
+      "name": "Balance-Kombi",
+      "status": "verloren",
+      "gesamtquote": 6.75,
+      "beine_status": [
+        "gewonnen",
+        "verloren",
+        "verloren",
+        "verloren"
+      ]
+    },
+    {
+      "kombi_id": "kombi-3",
+      "name": "Risiko-Kombi",
+      "status": "offen",
+      "gesamtquote": 15.97,
+      "beine_status": [
+        "unbekannt",
+        "unbekannt",
+        "unbekannt",
+        "gewonnen"
+      ]
+    },
+    {
+      "kombi_id": "kombi-4",
+      "name": "Moonshot-Kombi",
+      "status": "verloren",
+      "gesamtquote": 126.72,
+      "beine_status": [
+        "unbekannt",
+        "unbekannt",
+        "unbekannt",
+        "verloren",
+        "unbekannt"
+      ]
+    }
+  ]
+}

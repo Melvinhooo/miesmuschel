@@ -534,6 +534,14 @@
       "wiedereinsatzbereit_ab": "unbekannt (schaetzung Dez 2026)",
       "quelle": "https://www.bvb.de/de/en/news/news-overview/news.html/2026/11/21/Nmecha-Propels-BVB-Into-First-Place.html",
       "stand": "2026-11-22"
+    },
+    {
+      "spieler": "Jonathan Burkardt",
+      "von": "1. FSV Mainz 05",
+      "nach": "Eintracht Frankfurt",
+      "datum": "2025-07",
+      "hinweis": "Aufgefallen bei Auswertung 22.11.2026: Burkardt wurde als Mainz-Torschuetze @ 3.2 getippt, hat Mainz aber bereits im Juli 2025 verlassen. Transferfee ~23 Mio EUR, Vertrag bis 2030 bei Eintracht. Mainz 05-Volume-9er fuer 2026/27 war Nadiem Amiri / Benedict Hollerbach / Danny da Costa (je nach System).",
+      "quelle": "https://www.mainz05.de/en/news-en/burkardt-frankfurt-transfer-04072025"
     }
   ],
   "zugaenge_neue_optionen": [
@@ -1001,6 +1009,14 @@
       "hinweis": "Aufgefallen bei Auswertung 2026-11-21: Nmecha schoss BVB in 80. Min zum Auswaertssieg bei Gladbach (Vorlage Sabitzer nach Albert-Flanke) und BVB auf Platz 1. Fuer BVB-Torschuetzen-Jederzeit-Markt bedingt tippbar aus dem zweiten Glied (Volumen-8er, nicht zentraler 9er).",
       "quelle": "https://www.bvb.de/de/en/news/news-overview/news.html/2026/11/21/Nmecha-Propels-BVB-Into-First-Place.html",
       "stand": "2026-11-22"
+    },
+    {
+      "spieler": "Jonathan Burkardt",
+      "von": "1. FSV Mainz 05",
+      "nach": "Eintracht Frankfurt",
+      "datum": "2025-07",
+      "hinweis": "Volume-9er fuer Eintracht; Pflichteintrag nach Auswertungs-Lesson 22.11.2026. Nationalspieler, Konkurrenz mit Ekitike.",
+      "quelle": "https://www.bundesliga.com/en/bundesliga/news/jonathan-burkardt-signs-for-eintracht-frankfurt-mainz-transfer-germany-32598"
     }
   ],
   "trainer_2026_27": [

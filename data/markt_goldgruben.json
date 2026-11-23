@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-22T06:22:09+00:00",
+  "stand": "2026-11-23T06:17:33+00:00",
   "kriterium": "Hitrate > 75.0% UND ROI > 15.0% bei min. 5 Tipps",
   "wirkung": "Tipps-Routinen sollen diese Maerkte aktiv suchen. Schema-Mapper warnt wenn Spiel im Dossier ist und der Markt nicht als Tipp gesetzt wurde.",
   "maerkte": [
@@ -11,32 +11,32 @@
       "netto": 11.23
     },
     {
-      "markt": "Beide Teams treffen JA",
-      "tipps": 13,
-      "trefferquote": 69.2,
-      "roi_prozent": 44.5,
-      "netto": 5.78
-    },
-    {
       "markt": "Unter 2.5 Tore",
-      "tipps": 16,
-      "trefferquote": 43.8,
-      "roi_prozent": 40.9,
-      "netto": 6.55
+      "tipps": 14,
+      "trefferquote": 35.7,
+      "roi_prozent": 37.9,
+      "netto": 5.3
     },
     {
       "markt": "Doppelte Chance",
-      "tipps": 44,
-      "trefferquote": 85.4,
-      "roi_prozent": 36.7,
-      "netto": 15.05
+      "tipps": 41,
+      "trefferquote": 84.2,
+      "roi_prozent": 36.5,
+      "netto": 13.86
     },
     {
-      "markt": "Doppelte Chance X2",
-      "tipps": 28,
-      "trefferquote": 85.2,
-      "roi_prozent": 34.3,
-      "netto": 9.27
+      "markt": "Beide Teams treffen JA",
+      "tipps": 10,
+      "trefferquote": 60.0,
+      "roi_prozent": 32.0,
+      "netto": 3.2
+    },
+    {
+      "markt": "Sieg (1X2 / ML)",
+      "tipps": 33,
+      "trefferquote": 71.0,
+      "roi_prozent": 30.4,
+      "netto": 9.42
     },
     {
       "markt": "Beide Teams treffen",
@@ -46,18 +46,18 @@
       "netto": 1.7
     },
     {
-      "markt": "Sieg (1X2 / ML)",
-      "tipps": 41,
-      "trefferquote": 64.1,
-      "roi_prozent": 27.7,
-      "netto": 10.81
+      "markt": "Ueber 2.5 Tore",
+      "tipps": 42,
+      "trefferquote": 55.3,
+      "roi_prozent": 24.9,
+      "netto": 9.47
     },
     {
-      "markt": "Ueber 2.5 Tore",
-      "tipps": 45,
-      "trefferquote": 53.7,
-      "roi_prozent": 22.1,
-      "netto": 9.07
+      "markt": "Doppelte Chance X2",
+      "tipps": 23,
+      "trefferquote": 81.8,
+      "roi_prozent": 13.6,
+      "netto": 3.0
     }
   ]
 }

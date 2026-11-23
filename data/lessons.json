@@ -4174,7 +4174,31 @@
       "kategorie": "Super-Sub-Scorer-Muster + Backup-9er-Scout 8g-8i (HR11-22-4)",
       "lesson": "An einem Tag kamen zwei Super-Sub-Scorer durch: Carlos Espi (Real Madrid, 85.) + Ferran Torres (PSG, 85. nach Doue-Verletzung). Beides Backup-9er, die in letzter Phase trafen. Einwechslungs-Boost griff bei Doue bereits durch eigenen Treffer (32.) - bei Mbappe mangels dokumentierter Espi-fuer-Mbappe-Substitution NICHT. Pattern: Mourinho + Enrique rotieren ab 70.-80. Minute offensiv, Backup-9er sind Scoring-Kandidaten fuer Jederzeit-Markt mit Quoten 3.5-5.0 (Moonshot-Zone, nicht VALUE). Konsequenz: aktives Scouting der Super-Sub-Scorer pro Topteam - Espi (Real), Torres (PSG), Fabio Silva (BVB bei Guirassy-OUT) ab jetzt in Moonshot-Mix. Kader_wechsel_2026 entsprechend erweitert.",
       "bezug_spiel_id": "2026-11-21-rma-cel"
+    },
+    {
+      "datum": "2026-11-23",
+      "kategorie": "Kader-Luecke Burkardt / Routine-Gedaechtnis statt Live-Recherche 8b-8i (HR11-23-1)",
+      "lesson": "Jonathan Burkardt wurde als Mainz-Torschuetze @ 3.2 im Dossier 22.11. gelistet, ist aber seit 07/2025 (!) bei Eintracht Frankfurt (23 Mio EUR, Vertrag bis 2030). Wiederholung des Adeyemi-Musters (BVB vs Barcelona): die Routine faellt auf Prompt-Beispiele bzw. Vorsaison-Statistik zurueck, wenn die Live-Vorschau-URL den Stuermer nicht klar bestaetigt. Konsequenz: fix_schema.validate_kader_wechsel haette diesen Tipp jetzt hart gedroppt (Burkardt eingetragen). Zusaetzlich bei Torschuetzen-Tipps PFLICHT: kicker-/transfermarkt-Vorschau-URL muss Spieler bestaetigen, sonst Downgrade auf wackel. Mainz-Volume-9er 2026/27 ist nicht Burkardt, sondern je nach Startelf Nadiem Amiri / Hollerbach / da Costa.",
+      "bezug_spiel_id": "2026-11-22-aug-m05"
+    },
+    {
+      "datum": "2026-11-23",
+      "kategorie": "Drehungs-Cluster 8f: drei Drehungen an einem Tag (HR11-23-2)",
+      "lesson": "22.11. zeigte drei Drehungen in acht ausgewerteten Spielen: Barca drehte Villarreal von 0:2 auf 3:2 (zweite Halbzeit nach Villarreal-Rotkarte), Atalanta holte gegen Inter aus 1:3 noch ein 4:4 (De-Ketelaere-Doppelpack + Kessie-Elfer in NSZ), Le Mans drehte OM nach 0:2 auf 3:2 (zwei Einwechsel-Scorer 84./90+5). Alle drei Spiele hatten einen eindeutigen Favoriten laut Dossier - DC 1X / DC X2 Goldgrube-Tipp @1.08-1.20 ging zweimal verloren (Brighton, Marseille). Konsequenz: an Tagen mit frueher 2-Tore-Fuehrung oder Platzverweis 'enges Nachspiel' einkalkulieren - Kurzquoten DC auf Auswaertsfavoriten (Brighton @1.20, Marseille @1.08) sind trotz Goldgruben-Markt-Signal nicht automatisch SAFE, wenn Tabellen-Spread klein oder Aufsteiger Heimrecht hat.",
+      "bezug_spiel_id": "2026-11-22-mar-lem"
+    },
+    {
+      "datum": "2026-11-23",
+      "kategorie": "DC-Goldgrube-Kurzquoten-Bluter + Pflicht-Profil-Grenzen 8c-8e (HR11-23-3)",
+      "lesson": "DC X2 (Goldgrube, 85 % Hitrate / +34 % ROI) scheiterte bei Hull-Brighton 0:2 (McBurnie-Doppelpack in Nachspielzeit); DC 1X Marseille @1.08 ging ebenfalls baden - beide trotz Goldgruben-Signal. Bilanz am Tag: 5 DC-Tipps, 2 verloren - absolut unverdaechtig fuer die Markt-Statistik, aber Einsatz-Hebel Stufe 1 mit 20 EUR pro DC war signifikant (40 EUR Verlust durch zwei Kurzquoten-Bluter). Konsequenz: DC-CAP max 3-4 pro Dossier bei hoher Konzentration auf Favoriten; sobald mehr als eine DC-Kurzquote (<1,15) an einem Tag auf einer Seite liegt, zweite systematisch auf 1 % Kasse (10 EUR) reduzieren statt 2 %. Wackel-Einsatz auch bei als-safe deklarierten Goldgrube-Tipps diskutieren wenn Kurzquote.",
+      "bezug_spiel_id": "2026-11-22-mar-lem"
+    },
+    {
+      "datum": "2026-11-23",
+      "kategorie": "Trainer-Veraltung bei Serie A 8h-8b: Atalanta Juric → Sarri (HR11-23-4)",
+      "lesson": "Das Dossier 22.11. nannte Juric als Atalanta-Trainer - Juric wurde aber bereits im November 2025 entlassen (Palladino bis 06/2026, Sarri seit Juni 2026). In data/kader_wechsel_2026.json steht der Sarri-Wechsel korrekt (seit 2026-07) - die Routine liest das nur fuer Spieler und ignoriert Trainer. Tactical Impact: Sarri spielt 4-3-3 statt Juric-/Palladino-5-3-2-System, Rotations-Pattern ist CL-sensibler, Standards-Statistik verschiebt. Konsequenz: fix_schema.py braucht validate_trainer_frische, parallel zu validate_kader_wechsel - bei Trainer-Mismatch zwischen Dossier und kader_wechsel_2026.json hart Sanity-Warn setzen und saison_kontext.quellen auf Verein-Site erzwingen. Bis dahin: Tipps-Routine in Phase 2 der Recherche vor jedem Serie-A/Bundesliga-Spiel kader_wechsel_2026.trainer_2026_27 abfragen.",
+      "bezug_spiel_id": "2026-11-22-ata-int"
     }
   ],
-  "stand": "2026-11-22"
+  "stand": "2026-11-23"
 }
