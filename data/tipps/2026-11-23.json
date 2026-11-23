@@ -55,13 +55,14 @@
         },
         {
           "id": "mon-fio-3",
-          "kategorie": "value",
+          "kategorie": "wackel",
           "markt": "Fiorentina oder Remis (Doppelte Chance)",
           "quote": 1.72,
           "edge_prozent": 6.0,
-          "begruendung": "DC-X2-Markt (Goldgrube: 77.8 Prozent Hitrate, +9.4 Prozent ROI). Vanoli-Stabilisierung seit September zeigt Wirkung - der Trainer hat bereits 2025/26 den Fiorentina-Klassenerhalt geschafft und das Team spielt kompakter. Monza offensiv harmlos (17 Tore in 10 Spielen). Kein SAFE weil Juric-Pressing-Heim-Faktor real und keine klare Form-Edge Fiorentina. Einsatz Stufe 1: 1.5 Prozent = 15 Euro. Bei bet365 live pruefen.",
+          "begruendung": "DC-X2-Markt (Goldgrube: 77.8 Prozent Hitrate, +9.4 Prozent ROI). Vanoli-Stabilisierung seit September zeigt Wirkung - der Trainer hat bereits 2025/26 den Fiorentina-Klassenerhalt geschafft und das Team spielt kompakter. Monza offensiv harmlos (17 Tore in 10 Spielen). Kein SAFE weil Juric-Pressing-Heim-Faktor real und keine klare Form-Edge Fiorentina. Einsatz Stufe 1: 1.5 Prozent = 15 Euro. Bei bet365 live pruefen. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
           "faire_quote": 1.62,
-          "empfohlener_einsatz_prozent": 1.5
+          "empfohlener_einsatz_prozent": 1.5,
+          "_saison_kontext_sanity_downgrade": true
         },
         {
           "id": "mon-fio-4",
@@ -109,13 +110,15 @@
       "tipps": [
         {
           "id": "bre-eve-1",
-          "kategorie": "safe",
+          "kategorie": "wackel",
           "markt": "Brentford oder Remis (Doppelte Chance)",
           "quote": 1.4,
           "edge_prozent": 5.5,
-          "begruendung": "DC-1X-Markt (Goldgrube: 75 Prozent Hitrate, +46.8 Prozent ROI ueber 25 Tipps - der klarste Edge-Markt des Systems). Brentford Heim-Favorit (ca. 1.95), Everton ohne Ndiaye offensiv reduziert. HR2-Check: Brentford nicht in Heim-Krise -> SAFE moeglich. Faire Quote 1.33, kleine aber systematisch belegte Marge. Einsatz Stufe 1: 2 Prozent von 1000 Euro = 20 Euro. Bei bet365 live pruefen.",
+          "begruendung": "DC-1X-Markt (Goldgrube: 75 Prozent Hitrate, +46.8 Prozent ROI ueber 25 Tipps - der klarste Edge-Markt des Systems). Brentford Heim-Favorit (ca. 1.95), Everton ohne Ndiaye offensiv reduziert. HR2-Check: Brentford nicht in Heim-Krise -> SAFE moeglich. Faire Quote 1.33, kleine aber systematisch belegte Marge. Einsatz Stufe 1: 2 Prozent von 1000 Euro = 20 Euro. Bei bet365 live pruefen. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim] [Auto HR4: Story-Konflikt v2 (Heim-Krise-Token in eigener Begruendung) -> value->wackel]",
           "faire_quote": 1.33,
-          "empfohlener_einsatz_prozent": 2.0
+          "empfohlener_einsatz_prozent": 2.0,
+          "_markt_mix_dc_downgrade": true,
+          "_story_konflikt_v2": true
         },
         {
           "id": "bre-eve-2",
@@ -161,7 +164,8 @@
       "quote": 1.4,
       "einsatz_euro": 20.0,
       "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "DC-1X ist Goldgrube Nr.1 (75% / +46.8% ROI). Brentford Heim-Favorit, Everton nach Ndiaye-Abgang offensiv geschwaecht. Kein Heim-Krisen-Signal -> SAFE moeglich. 20 Euro bei 1000 Euro Kasse."
+      "begruendung": "DC-1X ist Goldgrube Nr.1 (75% / +46.8% ROI). Brentford Heim-Favorit, Everton nach Ndiaye-Abgang offensiv geschwaecht. Kein Heim-Krisen-Signal -> SAFE moeglich. 20 Euro bei 1000 Euro Kasse.",
+      "rang": 1
     },
     {
       "id": "mon-fio-1",
@@ -172,7 +176,8 @@
       "quote": 1.3,
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Beide Teams zusammen unter 3 Tore/Spiel. Vanoli-Kompakt vs Juric-Pressing -> enge Partie. 15 Euro bei 1000 Euro Kasse."
+      "begruendung": "Beide Teams zusammen unter 3 Tore/Spiel. Vanoli-Kompakt vs Juric-Pressing -> enge Partie. 15 Euro bei 1000 Euro Kasse.",
+      "rang": 2
     },
     {
       "id": "mon-fio-3",
@@ -183,7 +188,8 @@
       "quote": 1.72,
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "DC-X2 Goldgrube (77.8% / +9.4%). Vanoli-Stabilisierung seit September erkennbar, Fiorentina spielt kompakter mit Edge gegen schwache Monza-Offensive. 15 Euro."
+      "begruendung": "DC-X2 Goldgrube (77.8% / +9.4%). Vanoli-Stabilisierung seit September erkennbar, Fiorentina spielt kompakter mit Edge gegen schwache Monza-Offensive. 15 Euro.",
+      "rang": 3
     },
     {
       "id": "mon-fio-2",
@@ -194,7 +200,8 @@
       "quote": 1.85,
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Unter 2.5 ist Markt-Goldgrube (36% Hitrate, 38% ROI - rentabel trotz seltener Treffer). Vanoli-Kompakt + Juric-Pressing + beide offensiv-arm. 15 Euro."
+      "begruendung": "Unter 2.5 ist Markt-Goldgrube (36% Hitrate, 38% ROI - rentabel trotz seltener Treffer). Vanoli-Kompakt + Juric-Pressing + beide offensiv-arm. 15 Euro.",
+      "rang": 4
     },
     {
       "id": "bre-eve-2",
@@ -205,7 +212,8 @@
       "quote": 1.72,
       "einsatz_euro": 15.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "BTTS-Goldgrube (60% / +32% ROI). PL-Tempo, beide Teams offensiv-aktiv genug. 15 Euro."
+      "begruendung": "BTTS-Goldgrube (60% / +32% ROI). PL-Tempo, beide Teams offensiv-aktiv genug. 15 Euro.",
+      "rang": 5
     },
     {
       "id": "bre-eve-3",
@@ -216,7 +224,8 @@
       "quote": 1.85,
       "einsatz_euro": 10.0,
       "empfohlener_einsatz_prozent": 1.0,
-      "begruendung": "PL-Tempo + Brentford-Flankenspiel + Everton-Druckoffensive nach Ndiaye-Verlust. 10 Euro."
+      "begruendung": "PL-Tempo + Brentford-Flankenspiel + Everton-Druckoffensive nach Ndiaye-Verlust. 10 Euro.",
+      "rang": 6
     },
     {
       "id": "mon-fio-4",
@@ -227,7 +236,8 @@
       "quote": 2.6,
       "einsatz_euro": 5.0,
       "empfohlener_einsatz_prozent": 0.5,
-      "begruendung": "HR24: Vorsaison-Topscorer + zentraler 9er + Einwechslungs-Boost-Potenzial. WACKEL wegen Vanoli-Kompakt reduziert Chancen-Volumen. 5 Euro."
+      "begruendung": "HR24: Vorsaison-Topscorer + zentraler 9er + Einwechslungs-Boost-Potenzial. WACKEL wegen Vanoli-Kompakt reduziert Chancen-Volumen. 5 Euro.",
+      "rang": 7
     },
     {
       "id": "bre-eve-4",
@@ -238,7 +248,8 @@
       "quote": 2.6,
       "einsatz_euro": 5.0,
       "empfohlener_einsatz_prozent": 0.5,
-      "begruendung": "HR24: zentraler 9er nach Wissa-Abgang + Schade-Einwechslungs-Boost + Everton-Defense-Schwaechen. WACKEL wegen unstabiler Thiago-Formkurve. 5 Euro."
+      "begruendung": "HR24: zentraler 9er nach Wissa-Abgang + Schade-Einwechslungs-Boost + Everton-Defense-Schwaechen. WACKEL wegen unstabiler Thiago-Formkurve. 5 Euro.",
+      "rang": 8
     }
   ],
   "kombis": [
