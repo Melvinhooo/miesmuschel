@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-22",
+  "stand": "2026-11-23",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -1401,13 +1401,13 @@
     },
     {
       "verein": "Crystal Palace",
-      "trainer_neu": "offen (Thomas Frank in advanced talks per 12.11.2026 - NICHT offiziell bestaetigt)",
+      "trainer_neu": "Thomas Frank",
       "trainer_alt": "Pierre Sage",
-      "seit": "2026-11-12",
-      "vertrag_bis": null,
-      "hinweis": "Sage am 12.11.2026 nach 1:3-Heimpleite gegen Liverpool entlassen (nur ~5 Monate im Amt seit 15.06.2026). Palace stand zu dem Zeitpunkt auf Platz 20 (Tabellenletzter) mit 2 PL-Siegen in der gesamten Saison. Gleicher Tag wie Carrick-Entlassung (Man Utd) - doppelter Premier-League-Sack-Mittwoch. Thomas Frank (Ex-Brentford/Tottenham-Interim) laut Goal/Sports Mole in 'advanced talks' - aber noch nicht offiziell. Vor Palace-Tipps IMMER Aufstellungs-Vorschau am Spieltag live pruefen, bis neuer Trainer bestaetigt ist. Bei Bestaetigung: diesen Eintrag mit trainer_neu + vertrag_bis ersetzen. Taktische Aussagen ueber Palace NICHT mehr auf Sage-Stand stuetzen.",
-      "quelle": "https://www.goal.com/en/news/crystal-palace-sack-pierre-sage-thomas-frank-tottenham/blt5cd90c43e1ed687b",
-      "stand": "2026-11-15"
+      "seit": "2026-11-16",
+      "vertrag_bis": "2029-06",
+      "hinweis": "Sage am 12.11.2026 nach 1:3-Heimpleite gegen Liverpool entlassen (Palace Tabellenletzter, 2 PL-Siege in gesamter Saison). Thomas Frank am 16.11.2026 OFFIZIELL als Head Coach bestaetigt - Vertrag bis 30.06.2029. Frank zuletzt kurzzeitig Tottenham-Interim, davor 7 Jahre Brentford (2018-2025, PL-Aufstieg + Etablierung). Debuet-Spiel 21.11.2026 bei Coventry. Taktische Aussagen ueber Palace NICHT mehr auf Sage- oder Glasner-Stand stuetzen - Frank spielt direktes, strukturiertes 4-3-3 / 4-2-3-1 mit Set-Piece-Dichte (Brentford fuehrte PL mehrfach in Set-Piece-Toren an) und moderater Pressing-Linie. Platzierter Eintrag (Placeholder 'advanced talks' aus 2026-11-15 ersetzt nach offizieller Bestaetigung).",
+      "quelle": "https://www.cpfc.co.uk/news/announcement/thomas-frank-appointed-crystal-palace-manager/",
+      "stand": "2026-11-23"
     }
   ],
   "trainer_hinweis": "4 von 18 Bundesliga-Klubs mit Trainerwechsel zur Saison 2026/27 (Leverkusen, Frankfurt, Leipzig, Union). Zum Saisonstart sind nur drei Cheftrainer laenger als zwei Jahre im Amt: Hoeness (Stuttgart), Kompany (Bayern), Schuster (Freiburg). Alle uebrigen Vereine und alle anderen Ligen pro Spiel live pruefen (kicker.de / transfermarkt Trainer-Historie). Eine taktische Aussage im Stil von 'Trainer X laesst offensiv spielen' ist wertlos, wenn X seit Juli weg ist. Fulham hat mit Arbeloa (ex-Real Madrid) einen neuen Trainer, Silva zu Benfica (bestaetigt 25.08.2026). Saison-Verlauf (Stand 15.11.2026): erster Bundesliga-Wechsel Gladbach 13.09. (Polanski -> Lichte Interim -> Blessin ab 22.09. permanent, Vertrag bis 2028); sechs Serie-A-Wechsel Fiorentina 07.09. (Grosso -> Vanoli), Bologna 16.09. (Tedesco -> Palladino), Parma 27.09. (Cuesta -> Gilardino ab 30.09. permanent, Weltmeister 2006), Venezia 13.10. (Stroppa -> Nicola), Udinese 01.11. (Runjaic -> Zanetti), Sassuolo 09.11. (Aquilani -> D'Aversa ab 10.11.); AC Milan 06. (Allegri -> Amorim verifiziert 26.10.); drei LaLiga-Wechsel Valencia 13.09. (Corberan -> Aguirre ab 23.09.), Osasuna 12.10. (Ramis -> Arrasate), Espanyol 27.10. (Gonzalez -> Sarabia ab 28.10.); drei Premier-League-Wechsel West Ham 27.09. (Potter -> Nuno Espirito Santo, sofort auf 3 Jahre), Man Utd 12.11. (Carrick -> Pochettino ab 18.11., Vertrag bis 2029), Crystal Palace 12.11. (Sage entlassen, Nachfolger offen - Thomas Frank in advanced talks per 12.11., aber noch nicht offiziell). Interim-Rollen aktuell: nur Crystal Palace offen. Nottingham Forest: Glasner trotz anhaltendem Druck noch im Amt - vor Forest-Tipps weiterhin Aufstellungs-Vorschau live pruefen. Benfica (nach Mourinho-Abgang) noch offen - vor Europapokal-Tipps auf diese Klubs live pruefen. Bayern-Interim durch Kompany-Krankheit: Aaron Danks seit Mitte Okt.",
