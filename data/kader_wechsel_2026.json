@@ -542,6 +542,14 @@
       "datum": "2025-07",
       "hinweis": "Aufgefallen bei Auswertung 22.11.2026: Burkardt wurde als Mainz-Torschuetze @ 3.2 getippt, hat Mainz aber bereits im Juli 2025 verlassen. Transferfee ~23 Mio EUR, Vertrag bis 2030 bei Eintracht. Mainz 05-Volume-9er fuer 2026/27 war Nadiem Amiri / Benedict Hollerbach / Danny da Costa (je nach System).",
       "quelle": "https://www.mainz05.de/en/news-en/burkardt-frankfurt-transfer-04072025"
+    },
+    {
+      "spieler": "Danny Welbeck",
+      "von": "Brighton & Hove Albion",
+      "nach": "Chelsea FC",
+      "datum": "2026-08-01",
+      "hinweis": "Aufgefallen bei Watchdog-Auswertung 23.11.2026: Welbeck wurde als Brighton-Torschuetze @ 3.0 (Moonshot-Kombi) getippt, hat Brighton aber am 01.08.2026 fuer Chelsea verlassen (2-Jahres-Vertrag, Transferfee lt. TheScore ~5 Mio GBP). 2025/26 noch 13 PL-Tore fuer Brighton (Rekord-Egalisierung). Nicht mehr als Brighton-Spieler tippen.",
+      "quelle": "https://prod.beinsports.com/en-au/football/premier-league/articles/chelsea-completes-signing-of-danny-welbeck-2026-08-01"
     }
   ],
   "zugaenge_neue_optionen": [
@@ -1017,6 +1025,14 @@
       "datum": "2025-07",
       "hinweis": "Volume-9er fuer Eintracht; Pflichteintrag nach Auswertungs-Lesson 22.11.2026. Nationalspieler, Konkurrenz mit Ekitike.",
       "quelle": "https://www.bundesliga.com/en/bundesliga/news/jonathan-burkardt-signs-for-eintracht-frankfurt-mainz-transfer-germany-32598"
+    },
+    {
+      "spieler": "Danny Welbeck",
+      "von": "Brighton & Hove Albion",
+      "nach": "Chelsea FC",
+      "datum": "2026-08-01",
+      "hinweis": "35, erfahrener Volume-9er. Nach Delap/Jackson/Guiu die alt-erfahrene Alternative unter Xabi Alonso. Als Chelsea-Backup-Stuermer / Einwechslungs-Boost-Kandidat denkbar.",
+      "quelle": "https://www.thescore.com/epl/news/3573499"
     }
   ],
   "trainer_2026_27": [

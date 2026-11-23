@@ -1687,7 +1687,8 @@
           "quote": 1.75,
           "kategorie": "safe",
           "status": "gewonnen",
-          "tipp_id": "liv-mun-2"
+          "tipp_id": "liv-mun-2",
+          "kommentar": "Liverpool-Sieg 4:0 (HZ 2:0, Szoboszlai 10.+Wirtz 13.)"
         },
         {
           "spiel_id": "2026-11-22-mil-fro",
@@ -1696,7 +1697,8 @@
           "quote": 1.4,
           "kategorie": "safe",
           "status": "gewonnen",
-          "tipp_id": "mil-fro-2"
+          "tipp_id": "mil-fro-2",
+          "kommentar": "Milan-Heimsieg 5:1 (HZ 2:1)"
         },
         {
           "spiel_id": "2026-11-22-mar-lem",
@@ -1705,7 +1707,8 @@
           "quote": 1.33,
           "kategorie": "safe",
           "status": "verloren",
-          "tipp_id": "mar-lem-2"
+          "tipp_id": "mar-lem-2",
+          "kommentar": "Le Mans gewinnt 3:2 statt OM — klassischer Favoriten-Bluter nach 2:0-Pausenfuehrung"
         }
       ],
       "gesamtquote": 3.26,
@@ -1728,7 +1731,8 @@
           "quote": 1.55,
           "kategorie": "balance",
           "status": "gewonnen",
-          "tipp_id": "bar-vil-3"
+          "tipp_id": "bar-vil-3",
+          "kommentar": "Fuenf Tore insgesamt"
         },
         {
           "spiel_id": "2026-11-22-hul-bri",
@@ -1737,7 +1741,8 @@
           "quote": 1.7,
           "kategorie": "balance",
           "status": "verloren",
-          "tipp_id": "hul-bri-2"
+          "tipp_id": "hul-bri-2",
+          "kommentar": "Hull gewinnt 2:0 statt Brighton (McBurnie-Doppelpack 90+2, 90+5)"
         },
         {
           "spiel_id": "2026-11-22-bre-hsv",
@@ -1746,7 +1751,8 @@
           "quote": 1.6,
           "kategorie": "balance",
           "status": "verloren",
-          "tipp_id": "bre-hsv-2"
+          "tipp_id": "bre-hsv-2",
+          "kommentar": "HSV ohne Tor, kein BTTS trotz Derby-Historie"
         },
         {
           "spiel_id": "2026-11-22-ata-int",
@@ -1755,7 +1761,8 @@
           "quote": 1.6,
           "kategorie": "balance",
           "status": "verloren",
-          "tipp_id": "ata-int-1"
+          "tipp_id": "ata-int-1",
+          "kommentar": "Inter verliert Fuehrung: 4:4 nach 1:3; Sieg-Tipp geplatzt. Chivu-Inter gibt Tabellenfuehrung ab"
         }
       ],
       "gesamtquote": 6.75,
@@ -1777,8 +1784,9 @@
           "markt": "Pulisic Torschuetze jederzeit",
           "quote": 2.0,
           "kategorie": "risk",
-          "status": "unbekannt",
-          "tipp_id": "mil-fro-3"
+          "status": "gewonnen",
+          "tipp_id": "mil-fro-3",
+          "kommentar": "Pulisic trifft in der 68. mit Lupfer nach Konter"
         },
         {
           "spiel_id": "2026-11-22-ata-int",
@@ -1786,8 +1794,9 @@
           "markt": "Thuram Torschuetze jederzeit",
           "quote": 2.2,
           "kategorie": "risk",
-          "status": "unbekannt",
-          "tipp_id": "ata-int-3"
+          "status": "verloren",
+          "tipp_id": "ata-int-3",
+          "kommentar": "Thuram ohne eigenes Tor (nur Assist zu Pios drittem Tor); Pio Esposito war Startelf, keine Thuram-Auswechslung mit Sub-Scorer"
         },
         {
           "spiel_id": "2026-11-22-mar-lem",
@@ -1795,8 +1804,9 @@
           "markt": "Gouiri Torschuetze jederzeit",
           "quote": 2.2,
           "kategorie": "risk",
-          "status": "unbekannt",
-          "tipp_id": "mar-lem-3"
+          "status": "gewonnen",
+          "tipp_id": "mar-lem-3",
+          "kommentar": "Gouiri trifft in der 33. zum 1:0"
         },
         {
           "spiel_id": "2026-11-22-aug-m05",
@@ -1805,7 +1815,8 @@
           "quote": 1.65,
           "kategorie": "risk",
           "status": "gewonnen",
-          "tipp_id": "aug-m05-1"
+          "tipp_id": "aug-m05-1",
+          "kommentar": "BTTS JA — Augsburg 3x, Koenigsdoerffer trifft fuer Mainz"
         }
       ],
       "gesamtquote": 15.97,
@@ -1814,7 +1825,7 @@
       "einsatz_euro": 2.5,
       "moeglicher_gewinn_euro": 37.43,
       "begruendung": "Drei Torschuetzen-Tipps (Pulisic/Thuram/Gouiri) + 1 BTTS - alle 4 verschiedene Spiele, kein Sieg-Outcome doppelt. Einwechslungs-Boost als Sicherheits-Netz pro Bein. Stufe-1 Risiko 0,25 % = 2,50 EUR.",
-      "status": "offen",
+      "status": "verloren",
       "id": "kombi-3"
     },
     {
@@ -1827,8 +1838,9 @@
           "markt": "Fuellkrug Torschuetze jederzeit",
           "quote": 2.5,
           "kategorie": "moonshot",
-          "status": "unbekannt",
-          "tipp_id": "bre-hsv-3"
+          "status": "gewonnen",
+          "tipp_id": "bre-hsv-3",
+          "kommentar": "Fuellkrug trifft in der 92. zum 4:0 (Volume-9er-Tipp aufgegangen)"
         },
         {
           "spiel_id": "2026-11-22-aug-m05",
@@ -1836,8 +1848,9 @@
           "markt": "Burkardt Torschuetze jederzeit",
           "quote": 3.2,
           "kategorie": "moonshot",
-          "status": "unbekannt",
-          "tipp_id": "aug-m05-3"
+          "status": "verloren",
+          "tipp_id": "aug-m05-3",
+          "kommentar": "KADER-FEHLER: Burkardt seit 07/2025 bei Eintracht Frankfurt, nicht mehr bei Mainz — Tipp hatte keine Gewinnchance. Mapper-Lektion: in kader_wechsel_2026.json ergaenzen"
         },
         {
           "spiel_id": "2026-11-22-hul-bri",
@@ -1845,8 +1858,9 @@
           "markt": "Welbeck Torschuetze jederzeit",
           "quote": 3.0,
           "kategorie": "moonshot",
-          "status": "unbekannt",
-          "tipp_id": "hul-bri-4"
+          "status": "verloren",
+          "tipp_id": "hul-bri-4",
+          "kommentar": "Welbeck ohne Tor; beide Treffer von Hull-Stuermer McBurnie"
         },
         {
           "spiel_id": "2026-11-22-bar-vil",
@@ -1855,7 +1869,8 @@
           "quote": 2.4,
           "kategorie": "moonshot",
           "status": "verloren",
-          "tipp_id": "bar-vil-4"
+          "tipp_id": "bar-vil-4",
+          "kommentar": "Raphinha ohne eigenes Tor (nur Vorarbeit zum 2:2); Auswechslungsstatus nicht belegt, kein Einwechslungs-Boost auffindbar"
         },
         {
           "spiel_id": "2026-11-22-mar-lem",
@@ -1863,8 +1878,9 @@
           "markt": "Gouiri Torschuetze jederzeit",
           "quote": 2.2,
           "kategorie": "moonshot",
-          "status": "unbekannt",
-          "tipp_id": "mar-lem-3"
+          "status": "gewonnen",
+          "tipp_id": "mar-lem-3",
+          "kommentar": "Gouiri trifft in der 33. zum 1:0"
         }
       ],
       "gesamtquote": 126.72,
@@ -1913,17 +1929,17 @@
   },
   "ausgewertet_am": "2026-11-23T08:00:00+01:00",
   "bilanz": {
-    "anzahl_tipps": 30,
-    "gewonnen": 18,
-    "verloren": 12,
-    "hitrate_prozent": 60.0,
-    "einsatz_einzel_euro": 350.0,
-    "rueckfluss_einzel_euro": 317.35,
-    "profit_einzel_euro": -32.65,
+    "anzahl_tipps": 16,
+    "gewonnen": 8,
+    "verloren": 8,
+    "hitrate_prozent": 50.0,
+    "einsatz_einzel_euro": 200.0,
+    "rueckfluss_einzel_euro": 172.55,
+    "profit_einzel_euro": -27.45,
     "kombi_einsatz_euro": 31.5,
-    "kombi_rueckfluss_euro": 0.0,
+    "kombi_rueckfluss_euro": 0,
     "kombi_profit_euro": -31.5,
-    "gesamt_profit_euro": -64.15
+    "gesamt_profit_euro": -58.95
   },
   "einzeltipps_ergebnis": [
     {
@@ -2182,12 +2198,12 @@
     {
       "kombi_id": "kombi-3",
       "name": "Risiko-Kombi",
-      "status": "offen",
+      "status": "verloren",
       "gesamtquote": 15.97,
       "beine_status": [
-        "unbekannt",
-        "unbekannt",
-        "unbekannt",
+        "gewonnen",
+        "verloren",
+        "gewonnen",
         "gewonnen"
       ]
     },
@@ -2197,11 +2213,11 @@
       "status": "verloren",
       "gesamtquote": 126.72,
       "beine_status": [
-        "unbekannt",
-        "unbekannt",
-        "unbekannt",
+        "gewonnen",
         "verloren",
-        "unbekannt"
+        "verloren",
+        "verloren",
+        "gewonnen"
       ]
     }
   ]
