@@ -1,0 +1,684 @@
+{
+  "datum": "2026-11-25",
+  "erstellt_am": "2026-11-25T11:30:00+01:00",
+  "_emergency_recovery": true,
+  "_emergency_hinweis": "Haupt-Routine + Watchdog haben heute kein Dossier geliefert. Dossier vom Safety-Net-Backstop, der die CL-Matchday-5-Fixtures fuer Mittwoch per WebSearch recherchiert hat (keine data/recherche/2026-11-25.json vorhanden, kein football-data.org-Zugriff). Quoten sind Marktrichtwerte aus Preview-Artikeln - vor jedem Einsatz bei bet365 live pruefen.",
+  "hinweis": "Champions-League-Mega-Mittwoch: 9 Ligaphase-MD5-Spiele, davon 5 Top-Partien im Dossier. PSG gegen Roma (21:00) ist das Spiel des Tages - PSG mit 12-Spiele-Siegesserie aber Doue + Kvara mit Kreuzbandriss raus, Dembele zurueck. Bayern reist zu Lille (21:00) ohne Kane (Syndesmose, 3-4 Monate), ohne Olise/Neuer/Gnabry/Davies/Saibari - HR22 bremst Bayern-Sieg-Kategorie. Dazu Liverpool bei Club Brugge (21:00, Brugge 11 ungeschlagen, Liverpool-Favorit aber nicht SAFE), Inter gegen Stuttgart (21:00, Inter-Goldgrube) und Sporting-Man United (21:00, echter Coinflip, Pochettino-Krise nach 4:0 bei Liverpool). CL-2:0-Insurance aktiv bei allen 5 Spielen fuer direkte Sieg-Tipps. Kasse 1000 Euro, Stufe 1 - Einsaetze konservativ.",
+  "spiele": [
+    {
+      "id": "2026-11-25-psg-rom",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 5",
+      "heim": "Paris Saint-Germain",
+      "gast": "AS Roma",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "stadion": "Parc des Princes, Paris",
+      "saison_kontext": {
+        "parallel_heim": "Ligue 1 (Platz 1-3 Spitzengruppe), Coupe de France laeuft parallel - aktuell keine akute Doppelbelastung vor dem Spiel",
+        "parallel_gast": "Serie A (Mittelfeld), Coppa Italia - naechste Runde anstehend",
+        "saisonziel_heim": "Titelverteidiger CL, Ligue-1-Titel. Aktuell 1. in der CL-Ligaphase nach 4 Spielen, Luis-Enrique-Serie mit 12 Siegen in Folge (laengste seiner Karriere)",
+        "saisonziel_gast": "CL-Top-24-Qualifikation (Achtelfinal-Erreichen). Aktuell 20. in der CL-Ligaphase - Last Call, muss liefern",
+        "motivations_asymmetrie": "PSG klarer Favorit (Marktquote um 1.35) trotz Doue + Kvaratskhelia Kreuzbandriss raus. Roma mit 9-Spiele-Torserie (19 Tore) und Not-muss-Modus, aber hat auswaerts gegen United eine 2-Tore-Fuehrung verspielt - defensiv fragil. Edge bleibt klar bei PSG, die HR22-Dampfung wegen Doue (Kreativ-Chef, nicht zentraler 9er) macht den PSG-Sieg eher VALUE als SAFE.",
+        "recovery_heim": "Beide hatten FIFA-Laenderspielpause 10.-18.11., Dembele zurueck nach kleinem Fitness-Problem. Doue und Kvaratskhelia raus bis mind. Saisonende (beide Kreuzband)",
+        "recovery_gast": "Roma nach Laenderspielpause mit Malen (Doppelpack gegen Real 14.10.) und de Roon zurueck. Mancini/Soule/Mora-Gerippe steht",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.sportsmole.co.uk/football/psg/champions-league/preview/psg-vs-roma-prediction-team-news-lineups_609703.html",
+          "https://www.goal.com/en/news/paris-saint-germain-roma-champions-league-preview/blt6990dddc2b4fdbee",
+          "https://www.psg.fr/en/matches/mens-football/20262027/paris-vs-roma-2026-11-25",
+          "https://en.parisfans.fr/psg-vs-as-roma-paris-lineup-announced-with-mayulu-and-dembele.html",
+          "https://www.transfermarkt.de/paris-saint-germain/startseite/verein/583",
+          "https://www.transfermarkt.de/as-roma/startseite/verein/12"
+        ]
+      },
+      "news": [
+        "CL-2:0-Insurance aktiv (bet365-DE-Regel fuer Champions League) - PSG-Sieg-Tipp gewinnt auch wenn PSG irgendwann 2:0 fuehrt",
+        "PSG 12-Spiele-Siegesserie, Luis-Enrique-Rekord. 1. Platz CL-Ligaphase",
+        "Doue Kreuzbandriss raus (fuehrender Schuetze mit 45 Schuessen + 31 Chancen kreiert), Kvaratskhelia Kreuzband raus seit Oktober",
+        "Dembele zurueck aus Fitness-Problem, soll startelf-tauglich sein - Startelf ueber Ferran Torres, Akliouche, Mayulu moeglich",
+        "Senny Mayulu als 9er-Option bei Dembele-Phase (3 Tore + 1 Assist in letzten 3 Spielen, Startelf-Debuet bei Villarreal 6:0)",
+        "Roma 20. CL-Ligaphase, Not-muss-Spiel. 9-Spiele-Torserie, 19 Tore - BTTS-Risiko hoch",
+        "Donyell Malen bei Roma (ex-Villa/BVB), Doppelpack gegen Real Madrid 14.10. CL-MD2. Volume-Scorer, HR24-Form-Edge-Kandidat",
+        "Marten de Roon bei Roma (ex-Atalanta) - traf zum 1:0 gegen Real 14.10., wiedervereint mit Gasperini",
+        "Ferran Torres jetzt PSG (ex-Barca, Deadline-Day 14.08.) - als 9er integriert"
+      ],
+      "tipps": [
+        {
+          "id": "psg-rom-1",
+          "kategorie": "value",
+          "markt": "Sieg Paris Saint-Germain (90 Min)",
+          "quote": 1.35,
+          "edge_prozent": 5.0,
+          "begruendung": "PSG 12-Siege-Serie + CL-Tabellenfuehrer + Dembele zurueck. CL-2:0-Insurance aktiv - wenn PSG irgendwann 2:0 fuehrt, gilt der Tipp auch bei spaeterer Roma-Aufholjagd. HR22-Dampfer wegen Doue + Kvara Kreuzband raus (Kreativ-Chef-Verlust) macht es VALUE statt SAFE. Faire Quote etwa 1.28. Markt-Goldgrube Sieg 1X2 (71 Prozent Hitrate, +30 Prozent ROI). Einsatz Stufe 1: 2 Prozent von 1000 Euro = 20 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.28,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "psg-rom-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "edge_prozent": 7.0,
+          "begruendung": "Roma mit 9-Spiele-Torserie (19 Tore), auch bei Niederlagen Tor erzielt. PSG ohne Doue + Kvara + mit Backup-Defensive (Pacho, Zabarnyi, Lucas Hernandez) anfaellig. Markt-Goldgrube BTTS (60 Prozent Hitrate, +32 Prozent ROI). Faire Quote 1.64. Einsatz Stufe 1: 1 Prozent = 10 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.64,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "psg-rom-3",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.55,
+          "edge_prozent": 8.0,
+          "begruendung": "PSG scorte unter Luis Enrique zuletzt im Schnitt 2.4 Tore/Spiel, Roma offensiv in 9-Spiele-Torserie. Zwei offensive Teams, PSG-Defensive geschwaecht. Markt-Goldgrube Ueber 2.5 Tore (66.7 Prozent Hitrate, +27.5 Prozent ROI). Faire Quote 1.43. Einsatz Stufe 1: 1 Prozent = 10 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.43,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "psg-rom-4",
+          "kategorie": "wackel",
+          "markt": "Donyell Malen Torschuetze jederzeit",
+          "quote": 3.2,
+          "edge_prozent": 5.0,
+          "begruendung": "HR24-Check: (1) Malen mit Doppelpack gegen Real Madrid (CL-MD2, 14.10.) - Form-Edge (2) Volumen-Fluegelstuermer bei Roma, Startelf gesetzt. PSG-Defensive geschwaecht ohne Marquinhos-Routine. Bei Roma-Niederlage gegen PSG hat Malen trotzdem gute Chance auf Anschlusstreffer (Bet365-Einwechslungs-Boost zaehlt Ersatz-Tore nach Malen-Auswechslung). Faire Quote etwa 3.05. Einsatz Stufe 1: 0.5 Prozent = 5 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 3.05,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-25-int-stu",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 5",
+      "heim": "FC Internazionale Milano",
+      "gast": "VfB Stuttgart",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "stadion": "Giuseppe Meazza, Mailand",
+      "saison_kontext": {
+        "parallel_heim": "Serie A (Platz 1-3 Spitzengruppe), Coppa Italia naechste Runde - aktuell keine Doppelbelastung vor dem Spiel",
+        "parallel_gast": "Bundesliga (Mittelfeld), DFB-Pokal anstehend",
+        "saisonziel_heim": "Scudetto + CL-Top-8 direkt. Serie-A-Form zuletzt 7S 1U 2N. Pio Esposito mit Hattrick gegen Atalanta",
+        "saisonziel_gast": "BL-Europa-Quali + CL-Achtelfinal-Erreichen. In CL-Ligaphase im Mittelfeld",
+        "motivations_asymmetrie": "Inter klarer Heim-Favorit (bet365 1.44). Stuttgart ohne Woltemade (Deadline-Day zu Newcastle 08.07., Volume-9er weg) deutlich entwertet. Inter-Modell gibt 69 Prozent Siegquote, Prediction 2:1. Edge klar bei Inter.",
+        "recovery_heim": "Inter nach Laenderspielpause mit allen Nationalspielern zurueck. Esposito form-stark (Hattrick gegen Atalanta), Thuram + Lautaro als Alternative",
+        "recovery_gast": "Stuttgart unter Hoeness geschwaecht ohne Woltemade - Undav als einziger Volume-9er, wackelig",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.whoscored.com/matches/2029120/preview/europe-champions-league-2026-2027-inter-vfb-stuttgart",
+          "https://www.sportsgambler.com/betting-tips/football/inter-milan-vs-stuttgart-prediction-lineups-odds-2026-11-25/",
+          "https://xgscore.io/champions-league/inter-stuttgart/preview",
+          "https://thehardtackle.com/round-up/2026/11/24/inter-milan-vs-vfb-stuttgart-preview-prediction-probable-lineups-tactics-team-news-key-stats/",
+          "https://www.transfermarkt.de/inter-mailand/startseite/verein/46",
+          "https://www.transfermarkt.de/vfb-stuttgart/startseite/verein/79"
+        ]
+      },
+      "news": [
+        "CL-2:0-Insurance aktiv - Inter-Sieg-Tipp gewinnt auch wenn Inter irgendwann 2:0 fuehrt",
+        "Inter 69 Prozent Siegwahrscheinlichkeit laut xGscore, Prediction 2:1",
+        "Pio Esposito mit Hattrick gegen Atalanta (Startelf-Sturm gegen Thuram oder statt Lautaro moeglich)",
+        "Thuram Serie-A-Topscorer-Mitkonkurrent, Lautaro Martinez Inter-Kapitaen als Alternative",
+        "Stuttgart OHNE Nick Woltemade (Deadline-Day 08.07.2026 zu Newcastle fuer ca. 50 Mio GBP) - zentraler 9er-Volume fehlt",
+        "Ueber 2.5 Tore bet365 bei 1.25 (sehr tief), BTTS 1.40 - Markt rechnet mit vielen Toren",
+        "Spread -1.5 Inter bei 1.95 (-106 US)"
+      ],
+      "tipps": [
+        {
+          "id": "int-stu-1",
+          "kategorie": "safe",
+          "markt": "Sieg Inter Mailand (90 Min)",
+          "quote": 1.44,
+          "edge_prozent": 7.0,
+          "begruendung": "Inter Heimfavorit mit 69 Prozent Siegquote, Stuttgart ohne Woltemade entwertet. CL-2:0-Insurance aktiv. Liga-Goldgrube CL-Ligaphase bestaetigt SAFE. Markt-Goldgrube Sieg 1X2 (71 Prozent Hitrate, +30 Prozent ROI). Faire Quote 1.35. Einsatz Stufe 1: 2 Prozent von 1000 Euro = 20 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.35,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "int-stu-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.4,
+          "edge_prozent": 6.0,
+          "begruendung": "bet365 bei 1.25, aus Modell-Prognose 2:1 (3 Tore). Inter mit 2.4 Toren/Spiel, Stuttgart tapfer offensiv. Markt-Goldgrube Ueber 2.5 Tore (66.7 Prozent Hitrate, +27.5 Prozent ROI). Faire Quote 1.32. Einsatz Stufe 1: 1 Prozent = 10 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.32,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "int-stu-3",
+          "kategorie": "value",
+          "markt": "Lautaro Martinez Torschuetze jederzeit",
+          "quote": 2.1,
+          "edge_prozent": 6.0,
+          "begruendung": "HR24-Check: (1) Lautaro Martinez Inter-Kapitaen + Serie-A-Volume-9er (wenn er startet, siehe FotMob-Lineup), (2) Bet365-Einwechslungs-Boost (Tore des Ersatz-9ers zaehlen fuer den Tipp - Pio Esposito nach Lautaro-Auswechslung zaehlt mit). Markt-Goldgrube Torschuetzen Jederzeit (50 Prozent Hitrate, +24.4 Prozent ROI). Faire Quote 1.95. Einsatz Stufe 1: 1 Prozent = 10 Euro. Hinweis: Esposito Hattrick gegen Atalanta kann Lautaro auf Bank verdraengen - bet365-Aufstellung vor Anstoss pruefen!",
+          "faire_quote": 1.95,
+          "empfohlener_einsatz_prozent": 1.0
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-25-brg-liv",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 5",
+      "heim": "Club Brugge KV",
+      "gast": "Liverpool FC",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "stadion": "Jan Breydelstadion, Bruegge",
+      "saison_kontext": {
+        "parallel_heim": "Belgische Pro League Spitze, Belgischer Pokal aktiv - keine CL-Doppelbelastung",
+        "parallel_gast": "Premier League (Mittelfeld), EFL Cup/Carabao-Cup naechste Runde",
+        "saisonziel_heim": "Belgischer Titel + CL-Achtelfinal-Erreichen. Aktuell 9 Pkt nach 4 CL-Spielen (gleichauf mit Liverpool), 11 Spiele ungeschlagen",
+        "saisonziel_gast": "PL-Spitzenfeld-Anschluss unter Iraola + CL-Top-8-direkt. Nach 4-0 gegen Manchester United zuletzt wieder im Rennen",
+        "motivations_asymmetrie": "Liverpool Favorit bet365 1.67 (4/6), Brugge 10/3. Brugge 11 ungeschlagen, in 4 der letzten 6 Heimspiele 3+ Tore erzielt - keine Liverpool-SAFE. Liverpool nach 4:0 bei Man United euphorisch, Isak form-stark, Barcola seit Sept. nach Rekord-Transfer von PSG. VALUE statt SAFE auf Liverpool-Sieg - Brugge-Heimstaerke bremst.",
+        "recovery_heim": "Brugge nach Belgien-Liga-Spielen keine akute Belastung, voller Kader",
+        "recovery_gast": "Liverpool unter Iraola nach FIFA-Pause mit Isak/Barcola/Wirtz/Szoboszlai. Ekitike noch verletzt, Gakpo verletzt - Rotation mit Nyoni/Ngumoha moeglich. Salah ist im Sommer 2026 abgegeben worden - NICHT mehr im Kader. Konate und Robertson ebenfalls weg. Barcola seit 01.09. Liverpool (123 Mio Deal, zweitteuerster Transfer).",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.sportsmole.co.uk/football/liverpool/champions-league/predicted-lineups/nyoni-one-of-five-changes-predicted-liverpool-xi-vs-club-brugge_609718.html",
+          "https://www.si.com/soccer/liverpool-predicted-lineup-vs-club-brugge-champions-league-11-25-26",
+          "https://www.ladbrokes.com/en/news/club-brugge-liverpool-champions-league-predictions-2026-11-25/",
+          "https://www.racingpost.com/sport/football-tips/champions-league/club-brugge-vs-liverpool-betting-tips-predictions-team-news-odds-bet-builder-aYHu52e8nitf/",
+          "https://www.transfermarkt.de/liverpool-fc/startseite/verein/31",
+          "https://www.transfermarkt.de/club-brugge-kv/startseite/verein/2282"
+        ]
+      },
+      "news": [
+        "CL-2:0-Insurance aktiv - Liverpool-Sieg-Tipp gewinnt auch wenn Liverpool irgendwann 2:0 fuehrt",
+        "Liverpool bet365-Quote 1.67 (4/6), Brugge 10/3, Draw 7/2",
+        "Brugge 11-Spiele ungeschlagen, 4 der letzten 6 Heim-Spiele 3+ Tore - Heimstaerke-Alarm",
+        "Liverpool 4:0 gegen Man United zuletzt - Form-Spike",
+        "Isak form-stark, Barcola zweitteuerster Transfer der Vereinsgeschichte (123 Mio aus PSG 01.09.)",
+        "Wichtig: Salah (abgegeben 2026), Konate (abgegeben), Robertson (abgegeben) - nicht als Liverpool-Spieler tippen",
+        "Ekitike und Gakpo noch verletzt",
+        "Prediction Ladbrokes 2:3 Liverpool, beide Teams treffen wahrscheinlich"
+      ],
+      "tipps": [
+        {
+          "id": "brg-liv-1",
+          "kategorie": "value",
+          "markt": "Sieg Liverpool FC (90 Min)",
+          "quote": 1.67,
+          "edge_prozent": 6.0,
+          "begruendung": "Liverpool nach 4:0 gegen Man United in Form, Isak + Barcola + Wirtz vor dem Tor. CL-2:0-Insurance aktiv - wenn Liverpool irgendwann 2:0 fuehrt, gilt auch bei Brugge-Aufholjagd. VALUE statt SAFE, weil Brugge 11-Spiele-ungeschlagen und heim-stark (3+ Tore in 4 der letzten 6). Faire Quote 1.57. Markt-Goldgrube Sieg 1X2 (71 Prozent Hitrate, +30 Prozent ROI). Einsatz Stufe 1: 1.5 Prozent = 15 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.57,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "brg-liv-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "edge_prozent": 7.0,
+          "begruendung": "Brugge 3+ Tore in 4 der letzten 6 Heim-Spiele, Liverpool offensiv-euphorisch. Liverpool hat in CL noch kein Zu-Null gespielt. Markt-Goldgrube BTTS (60 Prozent Hitrate, +32 Prozent ROI). Faire Quote 1.63. Einsatz Stufe 1: 1 Prozent = 10 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.63,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "brg-liv-3",
+          "kategorie": "wackel",
+          "markt": "Alexander Isak Torschuetze jederzeit",
+          "quote": 2.0,
+          "edge_prozent": 6.0,
+          "begruendung": "HR24-Check: (1) Isak Volume-Zentrumsstuermer bei Liverpool unter Iraola (ex-Newcastle, seit Sommer 2026), (2) Form-Edge aus zuletzt 4:0 Man United, (3) Brugge-Innenverteidigung ohne Mendoza anfaellig. Bet365-Einwechslungs-Boost zaehlt Ersatz-Tore nach Isak-Auswechslung. Markt-Goldgrube Torschuetzen Jederzeit (50 Prozent Hitrate, +24.4 Prozent ROI). Faire Quote 1.86. Hinweis: Iraola rotiert laut Sports Mole evtl. - Isak-Startelf vor Anstoss bei bet365 pruefen. Einsatz Stufe 1: 1 Prozent = 10 Euro. [Auto HR4: Story-Konflikt v2 (Rotations-Token bei Top-Stuermer-Tipp) -> value->wackel]",
+          "faire_quote": 1.86,
+          "empfohlener_einsatz_prozent": 1.0,
+          "_story_konflikt_v2": true
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-25-spo-mun",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 5",
+      "heim": "Sporting Clube de Portugal",
+      "gast": "Manchester United",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "stadion": "Estadio Jose Alvalade, Lissabon",
+      "saison_kontext": {
+        "parallel_heim": "Primeira Liga Portugal Spitze, Taca de Portugal naechste Runde",
+        "parallel_gast": "Premier League (Krisen-Phase unter Pochettino), EFL Cup moeglich",
+        "saisonziel_heim": "Portugal-Titel + CL-Achtelfinal-Erreichen unter neuem Trainer Paulo Fonseca (seit Anfang Nov. 2026, bislang 3 von 3 Spielen gewonnen)",
+        "saisonziel_gast": "PL-Rehabilitierung + CL-Top-24-Erreichen. Pochettino ersetzte Amorim - bisher Katastrophen-Start mit 4-0-Niederlage bei Liverpool als Debuet-Spiel. 19 Gegentore in 6 Spielen.",
+        "motivations_asymmetrie": "Echter COINFLIP (bet365 Sporting 2.50 / Draw 3.60 / United 2.63). Sporting mit Fonseca-Boost (3 von 3 Siegen), gut organisiert (nur 4 Gegentore in 4 CL-Spielen). United unter Druck, Cunha gesperrt, Sesko/Ugarte/Baleba aus, Rashford/Shaw wackelig. HR-Coinflip-Regel: kein SAFE in diesem Spiel. Max 3 Tipps, defensive Prognose: BTTS + Ueber 2.5 + Sporting-DC.",
+        "recovery_heim": "Sporting nach Pause normale Vorbereitung. Luis Suarez + Ioannidis als Volume-Duo im Angriff",
+        "recovery_gast": "United kommt direkt nach 4:0 bei Liverpool - mental angeschlagen. Pochettino 3-4-2-1 oder 4-2-3-1, Mbeumo + Zirkzee im Sturm (kein echter Volume-9er, Sesko verletzt)",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.sportsmole.co.uk/football/sporting-lisbon/champions-league/preview/sporting-lisbon-vs-man-utd-prediction-team-news-lineups_609672.html",
+          "https://www.espn.com/soccer/story/_/id/50574436/sporting-man-united-channel-how-watch-uk-kickoff-live-stream-team-news-predicted-lineups",
+          "https://www.forebet.com/en/football-match-previews/32595-sporting-cp-vs-manchester-united-new-managers-form-surge-and-volatile-firepower",
+          "https://www.transfermarkt.de/sporting-cp/startseite/verein/336",
+          "https://www.transfermarkt.de/manchester-united/startseite/verein/985"
+        ]
+      },
+      "news": [
+        "CL-2:0-Insurance aktiv - direkter Sieg-Tipp gewinnt auch bei spaeterer Niederlage, wenn 2:0 irgendwann vorlag",
+        "COINFLIP-Quoten: Sporting 2.50 / Draw 3.60 / United 2.63 - laut HR-Markt-Mix-Regel kein SAFE erlaubt",
+        "Sporting unter neuem Trainer Paulo Fonseca (seit Anfang Nov. 2026) - 3 von 3 Spielen gewonnen, offensiver Stil",
+        "Sporting nur 4 Gegentore in 4 CL-Spielen - defensiv kompakt",
+        "Luis Suarez (Sporting-9er, nicht der uruguayische Veteran) fuehrt CL-Scoring mit 4 Toren, Fotis Ioannidis als Partner",
+        "Manchester United unter neuem Trainer Pochettino (seit Nov.) - Debuet 4:0 bei Liverpool, 19 Gegentore in 6 Spielen",
+        "United OHNE Cunha (Rot gegen Roma), Sesko, Ugarte, Baleba - Rashford/Shaw wackelig",
+        "Historische Sporting-United-Verbindung: Ronaldo, Nani, Bruno Fernandes, Amorim wechselten alle Sporting zu United"
+      ],
+      "tipps": [
+        {
+          "id": "spo-mun-1",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.65,
+          "edge_prozent": 7.0,
+          "begruendung": "United-Defensive miserabel (19 Gegentore in 6), Sporting-Angriff unter Fonseca mit 3 Siegen in 3 Spielen offensiv-aggressiv. Umgekehrt United trotz Krise torgefaehrlich (Mbeumo/Fernandes/Diallo). Markt-Goldgrube BTTS (60 Prozent Hitrate, +32 Prozent ROI). Faire Quote 1.54. Einsatz Stufe 1: 1 Prozent = 10 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.54,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "spo-mun-2",
+          "kategorie": "wackel",
+          "markt": "Sporting CP oder Remis (Doppelte Chance 1X)",
+          "quote": 1.5,
+          "edge_prozent": 4.0,
+          "begruendung": "Coinflip-Spiel: Sporting mit Heimvorteil, Fonseca-Boost, Suarez/Ioannidis Form. United mental nach 4:0 bei Liverpool, Lazarett im Mittelfeld. DC 1X deckt 2 von 3 Ausgaengen ab. Goldgrube-Markt DC 1X (75 Prozent Hitrate, +46.8 Prozent ROI). Faire Quote 1.43. HR-Markt-Mix-Coinflip: max WACKEL (kein SAFE in Coinflip erlaubt). Einsatz Stufe 1: 0.5 Prozent = 5 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.43,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "spo-mun-3",
+          "kategorie": "wackel",
+          "markt": "Fotis Ioannidis Torschuetze jederzeit",
+          "quote": 3.0,
+          "edge_prozent": 5.0,
+          "begruendung": "HR24-Check: (1) Ioannidis Startelf-9er-Partner von Luis Suarez - Volume-Stuermer, (2) United-Innenverteidigung Maguire/Yoro unter Druck, (3) Bet365-Einwechslungs-Boost zaehlt Ersatz-Tore nach Ioannidis-Auswechslung. Markt-Goldgrube Torschuetzen Jederzeit (50 Prozent Hitrate, +24.4 Prozent ROI). Faire Quote 2.85. Einsatz Stufe 1: 0.5 Prozent = 5 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 2.85,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-25-lil-bay",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 5",
+      "heim": "LOSC Lille",
+      "gast": "FC Bayern Muenchen",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "stadion": "Stade Pierre-Mauroy, Villeneuve-d'Ascq",
+      "saison_kontext": {
+        "parallel_heim": "Ligue 1 (Mittelfeld), Coupe de France - keine akute Doppelbelastung",
+        "parallel_gast": "Bundesliga (Titel-Rennen 1./2.), DFB-Pokal naechste Runde",
+        "saisonziel_heim": "Ligue-1-Europa-Qualifikation + CL-Top-24-Erreichen. Aktuell 35. CL-Ligaphase (im Kampf um Playoff)",
+        "saisonziel_gast": "Bundesliga-Titelverteidigung + CL-Top-8-direkt. Aktuell 13. CL-Ligaphase, letztes CL-Spiel 2:0-Sieg bei Atletico Madrid",
+        "motivations_asymmetrie": "Bayern Favorit bet365 -175 (1.57) trotz katastrophalem Lazarett: Kane Syndesmose 3-4 Monate raus (Ballon-d-Or-Gewinner, wichtigster Scorer), zusaetzlich Olise/Neuer/Gnabry/Saibari/Davies alle out. Luis Diaz zurueck. HR22-Hammer: Top-Stuermer Kane raus = kein Bayern-Sieg-SAFE/VALUE moeglich (Implosions-Risiko). Nur Ueber-Toren-Tipps, Diaz-Torschuetze-VALUE (Backup-Stuermer-Qualitaet, Hattrick gegen Leipzig 17.10. nach seiner Rueckkehr) und Lille-DC-Moonshot bleiben. Lille mit Heimvorteil + Bayern-Wackel = reale Chance auf Punkt.",
+        "recovery_heim": "Lille nach Laenderspielpause voller Kader, Trainer Genesio",
+        "recovery_gast": "Bayern-Lazarett: Kane OUT 3-4 Monate (Syndesmose linke Sprunggelenk), Olise OUT, Neuer OUT (Sehnen-Riss Fuss), Gnabry OUT (Muskel), Saibari OUT (Syndesmose), Davies OUT (Oberschenkel). Luis Diaz zurueck (Muskel-Entzuendung voll ausgeheilt). Musiala Comeback-Thema, aber unsicher",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/match/2049639/",
+          "https://fcbayern.com/en/news/matchpreviews/2026/11/preview-losc-lille-vs.-fc-bayern-champions-league",
+          "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/bayern-must-find-solutions-in-olise-and-kanes-absence-says-kompany-2026-11-24",
+          "https://www.livescore.com/en/news/football/bundesliga/latest-on-kane-diaz-davies-bayern-injury-news-ahead-of-lille-clash-cf-bayern-insider/",
+          "https://www.sportsmole.co.uk/football/lille/champions-league/preview/lille-vs-bayern-prediction-team-news-lineups_609676.html",
+          "https://www.transfermarkt.de/fc-bayern-muenchen/startseite/verein/27",
+          "https://www.transfermarkt.de/losc-lille/startseite/verein/1082"
+        ]
+      },
+      "news": [
+        "CL-2:0-Insurance aktiv - direkter Bayern-Sieg-Tipp waere versichert, aber wegen HR22-Dampfer nicht als Tipp gesetzt",
+        "Harry Kane OUT 3-4 Monate (Syndesmose linkes Sprunggelenk, OP) - Ballon-d-Or-Gewinner 2026, Bayerns wichtigster Scorer",
+        "Weitere Bayern-Ausfaelle: Olise (verletzt), Neuer (Fuss-Sehne), Gnabry (Muskel), Saibari (Syndesmose), Davies (Oberschenkel)",
+        "Luis Diaz zurueck (Muskel-Entzuendung geheilt) - Hattrick + Assist beim 6:1 gegen Leipzig 17.10. nach Rueckkehr, HR24-Form-Edge",
+        "Bayern-Sieg laut Sports Mole 2:0 Prognose, aber Patchwork-Angriff mit Diaz, Kompany muss Loesung finden",
+        "Lille-Odds 5.50, Draw 4.20, Bayern 1.57 - Lille-Wert fuer Moonshot"
+      ],
+      "tipps": [
+        {
+          "id": "lil-bay-1",
+          "kategorie": "value",
+          "markt": "Luis Diaz Torschuetze jederzeit",
+          "quote": 2.25,
+          "edge_prozent": 8.0,
+          "begruendung": "HR24-Check voll erfuellt: (1) Diaz zurueck mit Hattrick + Assist beim 6:1 gegen Leipzig 17.10. nach seinem letzten Comeback - Form-Edge, (2) Jetzt Volume-Fluegel/9er mit Backup-Stuermer-Qualitaet bei Kane-Ausfall - MUSS die Rolle fuellen, (3) Bet365-Einwechslungs-Boost zaehlt Ersatz-Tore. Lille-Defensive mittelstaerker. Markt-Goldgrube Torschuetzen Jederzeit (50 Prozent Hitrate, +24.4 Prozent ROI). Faire Quote 2.00. Einsatz Stufe 1: 1.5 Prozent = 15 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "lil-bay-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 5.0,
+          "begruendung": "Lille zuhause offensiv, Bayern defensiv auch ohne Neuer wackelig. Diaz wird Chancen schaffen, Lille sucht Druck. Markt-Goldgrube Ueber 2.5 Tore (66.7 Prozent Hitrate, +27.5 Prozent ROI). Faire Quote 1.65. Einsatz Stufe 1: 1 Prozent = 10 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "lil-bay-3",
+          "kategorie": "wackel",
+          "markt": "Lille oder Remis (Doppelte Chance 1X)",
+          "quote": 1.8,
+          "edge_prozent": 5.0,
+          "begruendung": "Bayern mit massivstem Lazarett der Saison: Kane + Olise + Neuer + Gnabry + Saibari + Davies alle out. Patchwork-Startelf. Lille zuhause mit Genesio-System. HR22-Konsequenz: Bayern-Sieg nicht sicher. DC 1X deckt Remis + Lille-Sieg. Goldgrube DC 1X (75 Prozent Hitrate, +46.8 Prozent ROI). Faire Quote 1.70. Einsatz Stufe 1: 0.5 Prozent = 5 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK"
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "int-stu-1",
+      "spiel_id": "2026-11-25-int-stu",
+      "spiel_label": "Inter Mailand vs VfB Stuttgart",
+      "kategorie": "safe",
+      "markt": "Sieg Inter Mailand (90 Min)",
+      "quote": 1.44,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Inter Heimfavorit mit 69 Prozent Siegquote laut Modell. Stuttgart ohne Woltemade (Deadline-Day zu Newcastle) deutlich entwertet. CL-2:0-Insurance aktiv. Liga-Goldgrube CL-Ligaphase. Markt-Goldgrube Sieg 1X2.",
+      "rang": 1
+    },
+    {
+      "id": "psg-rom-1",
+      "spiel_id": "2026-11-25-psg-rom",
+      "spiel_label": "PSG vs AS Roma",
+      "kategorie": "value",
+      "markt": "Sieg Paris Saint-Germain (90 Min)",
+      "quote": 1.35,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "PSG 12-Siege-Serie + Tabellenfuehrer + Dembele zurueck. CL-2:0-Insurance aktiv. Doue + Kvara Kreuzband raus dampft auf VALUE.",
+      "rang": 2
+    },
+    {
+      "id": "brg-liv-1",
+      "spiel_id": "2026-11-25-brg-liv",
+      "spiel_label": "Club Brugge vs Liverpool",
+      "kategorie": "value",
+      "markt": "Sieg Liverpool FC (90 Min)",
+      "quote": 1.67,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Liverpool in Form nach 4:0 bei Man United, Isak + Barcola + Wirtz offensiv stark. CL-2:0-Insurance. VALUE statt SAFE wegen Brugge-11-ungeschlagen und Heim-Form.",
+      "rang": 3
+    },
+    {
+      "id": "lil-bay-1",
+      "spiel_id": "2026-11-25-lil-bay",
+      "spiel_label": "Lille vs Bayern Muenchen",
+      "kategorie": "value",
+      "markt": "Luis Diaz Torschuetze jederzeit",
+      "quote": 2.25,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "HR24 voll erfuellt. Diaz Hattrick + Assist beim 6:1 vs Leipzig nach Rueckkehr 17.10., jetzt Volume-9er bei Kane-Ausfall. Markt-Goldgrube Torschuetzen.",
+      "rang": 4
+    },
+    {
+      "id": "psg-rom-3",
+      "spiel_id": "2026-11-25-psg-rom",
+      "spiel_label": "PSG vs AS Roma",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.55,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "PSG 2.4 Tore/Spiel, Roma 9-Spiele-Torserie. Markt-Goldgrube Ueber 2.5.",
+      "rang": 5
+    },
+    {
+      "id": "brg-liv-2",
+      "spiel_id": "2026-11-25-brg-liv",
+      "spiel_label": "Club Brugge vs Liverpool",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.75,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Brugge 3+ Tore in 4 der letzten 6 Heim-Spiele, Liverpool offensiv-euphorisch, Liverpool noch kein Zu-Null in CL. Markt-Goldgrube BTTS.",
+      "rang": 6
+    },
+    {
+      "id": "spo-mun-1",
+      "spiel_id": "2026-11-25-spo-mun",
+      "spiel_label": "Sporting CP vs Manchester United",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.65,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "United 19 Gegentore in 6 Spielen, Sporting 3 Siege in 3 unter Fonseca offensiv. Markt-Goldgrube BTTS.",
+      "rang": 7
+    },
+    {
+      "id": "int-stu-3",
+      "spiel_id": "2026-11-25-int-stu",
+      "spiel_label": "Inter Mailand vs VfB Stuttgart",
+      "kategorie": "value",
+      "markt": "Lautaro Martinez Torschuetze jederzeit",
+      "quote": 2.1,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "HR24 erfuellt. Kapitaen + Volume-9er mit Einwechslungs-Boost (Esposito-Tore nach Lautaro-Auswechslung zaehlen). ACHTUNG: Esposito-Hattrick kann Lautaro auf Bank verdraengen - bet365-Aufstellung vor Anstoss checken!",
+      "rang": 8
+    },
+    {
+      "id": "brg-liv-3",
+      "spiel_id": "2026-11-25-brg-liv",
+      "spiel_label": "Club Brugge vs Liverpool",
+      "kategorie": "value",
+      "markt": "Alexander Isak Torschuetze jederzeit",
+      "quote": 2.0,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "HR24 erfuellt: Volume-9er Liverpool, Form aus 4:0 bei Man United, Brugge-IV anfaellig. Rotation moeglich - bet365-Aufstellung pruefen.",
+      "rang": 9
+    },
+    {
+      "id": "lil-bay-3",
+      "spiel_id": "2026-11-25-lil-bay",
+      "spiel_label": "Lille vs Bayern Muenchen",
+      "kategorie": "wackel",
+      "markt": "Lille oder Remis (Doppelte Chance 1X)",
+      "quote": 1.8,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Bayern Lazarett-Katastrophe (Kane/Olise/Neuer/Gnabry/Saibari/Davies out). DC 1X als Absicherung. Goldgrube DC 1X.",
+      "rang": 10
+    },
+    {
+      "id": "spo-mun-2",
+      "spiel_id": "2026-11-25-spo-mun",
+      "spiel_label": "Sporting CP vs Manchester United",
+      "kategorie": "wackel",
+      "markt": "Sporting CP oder Remis (Doppelte Chance 1X)",
+      "quote": 1.5,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Coinflip-Spiel. Sporting Fonseca-Boost 3/3, United Lazarett + Pochettino-Krise. DC 1X deckt 2 von 3 Ausgaengen. Goldgrube DC 1X.",
+      "rang": 11
+    },
+    {
+      "id": "psg-rom-4",
+      "spiel_id": "2026-11-25-psg-rom",
+      "spiel_label": "PSG vs AS Roma",
+      "kategorie": "wackel",
+      "markt": "Donyell Malen Torschuetze jederzeit",
+      "quote": 3.2,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "HR24 erfuellt: Doppelpack gegen Real Madrid 14.10. CL-MD2, Volume-Fluegel bei Roma (ex-Villa/BVB). Roma 9-Spiele-Torserie - selbst bei PSG-Sieg wird Roma treffen.",
+      "rang": 12
+    }
+  ],
+  "kombis": [
+    {
+      "id": "safe-kombi-25-11",
+      "kategorie": "safe",
+      "profil": "Safe (~3-5x)",
+      "beine": [
+        {
+          "spiel_id": "2026-11-25-int-stu",
+          "spiel_label": "Inter Mailand vs VfB Stuttgart",
+          "markt": "Sieg Inter Mailand (90 Min)",
+          "quote": 1.44,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-11-25-psg-rom",
+          "spiel_label": "PSG vs AS Roma",
+          "markt": "Sieg Paris Saint-Germain (90 Min)",
+          "quote": 1.35,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-25-brg-liv",
+          "spiel_label": "Club Brugge vs Liverpool",
+          "markt": "Sieg Liverpool FC (90 Min)",
+          "quote": 1.67,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 3.25,
+      "rechnung": "1.44 x 1.35 x 1.67 = 3.25",
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "potenzieller_gewinn_euro": 65.0,
+      "begruendung": "Drei Sieg-Tipps aus 3 Spielen bei starken CL-Favoriten. Alle mit CL-2:0-Insurance aktiv. Konservative 3.25x-Kombi. Einsatz Stufe 1: 2 Prozent = 20 Euro, Potenzial 65 Euro."
+    },
+    {
+      "id": "balance-kombi-25-11",
+      "kategorie": "balance",
+      "profil": "Balance (~6-10x)",
+      "beine": [
+        {
+          "spiel_id": "2026-11-25-psg-rom",
+          "spiel_label": "PSG vs AS Roma",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.55,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-25-brg-liv",
+          "spiel_label": "Club Brugge vs Liverpool",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-25-lil-bay",
+          "spiel_label": "Lille vs Bayern Muenchen",
+          "markt": "Luis Diaz Torschuetze jederzeit",
+          "quote": 2.25,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 6.1,
+      "rechnung": "1.55 x 1.75 x 2.25 = 6.10",
+      "einsatz_euro": 8.0,
+      "empfohlener_einsatz_prozent": 0.8,
+      "potenzieller_gewinn_euro": 48.8,
+      "begruendung": "Mix aus Tor-Total + BTTS + Spieler-Tor aus 3 verschiedenen Spielen. Alle 3 Beine sind Markt-Goldgruben. 6.10x = Balance-Zone. Einsatz Stufe 1: 0.8 Prozent = 8 Euro."
+    },
+    {
+      "id": "risiko-kombi-25-11",
+      "kategorie": "risk",
+      "profil": "Risiko (~15-30x)",
+      "beine": [
+        {
+          "spiel_id": "2026-11-25-psg-rom",
+          "spiel_label": "PSG vs AS Roma",
+          "markt": "Malen Torschuetze jederzeit",
+          "quote": 3.2,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-25-int-stu",
+          "spiel_label": "Inter Mailand vs VfB Stuttgart",
+          "markt": "Lautaro Martinez Torschuetze jederzeit",
+          "quote": 2.1,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-25-spo-mun",
+          "spiel_label": "Sporting CP vs Manchester United",
+          "markt": "Ioannidis Torschuetze jederzeit",
+          "quote": 3.0,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 20.16,
+      "rechnung": "3.20 x 2.10 x 3.00 = 20.16",
+      "einsatz_euro": 2.5,
+      "empfohlener_einsatz_prozent": 0.25,
+      "potenzieller_gewinn_euro": 50.4,
+      "begruendung": "Drei Torschuetzen-Tipps aus 3 verschiedenen Spielen. Alle 3 Spieler mit HR24-Form-Edge + Einwechslungs-Boost-Qualitaet. Markt-Goldgrube Torschuetzen Jederzeit. 20x Quote in Ziel-Range. Aufstellungen vor Anstoss checken!"
+    },
+    {
+      "id": "moonshot-kombi-25-11",
+      "kategorie": "moonshot",
+      "profil": "Moonshot (~100x+)",
+      "beine": [
+        {
+          "spiel_id": "2026-11-25-spo-mun",
+          "spiel_label": "Sporting CP vs Manchester United",
+          "markt": "Sieg Sporting CP (90 Min)",
+          "quote": 2.5,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-25-brg-liv",
+          "spiel_label": "Club Brugge vs Liverpool",
+          "markt": "Isak 2+ Tore",
+          "quote": 7.0,
+          "kategorie": "moonshot"
+        },
+        {
+          "spiel_id": "2026-11-25-lil-bay",
+          "spiel_label": "Lille vs Bayern Muenchen",
+          "markt": "Luis Diaz 2+ Tore",
+          "quote": 7.5,
+          "kategorie": "moonshot"
+        }
+      ],
+      "gesamtquote": 131.25,
+      "rechnung": "2.50 x 7.00 x 7.50 = 131.25",
+      "einsatz_euro": 1.0,
+      "empfohlener_einsatz_prozent": 0.1,
+      "potenzieller_gewinn_euro": 131.25,
+      "begruendung": "Sporting-Pochettino-Krise-Sieg + 2 Doppelpack-Tipps bei Backup-Stuermer-Kandidaten. Diaz hat beim 6:1 gegen Leipzig gezeigt dass 2+ Tore moeglich sind. Isak form-stark nach 4:0 Man-United. 131x Potenzial fuer 1 Euro Einsatz = reine Spaesskombi."
+    }
+  ],
+  "lessons_angewandt": [
+    "HR22 (Star-OUT-Implosions-Risiko): Bayern-Sieg nicht als SAFE/VALUE gesetzt, weil Kane 3-4 Monate raus - stattdessen Luis-Diaz-Torschuetze (Backup-Volume) als VALUE und Lille-DC-1X als Wackel-Absicherung",
+    "HR24 (Form-Edge-Pflicht Torschuetzen): alle Spielertor-Tipps mit Form-Nachweis (Diaz Hattrick 17.10., Malen Doppelpack 14.10., Isak form-stark, Lautaro Kapitaen/Volume, Ioannidis Stammplatz)",
+    "Markt-Mix-Pflicht: pro Spiel Sieg/DC + Torschuetzen + Tor-Total gemischt. DC-Cap max 1 pro Spiel eingehalten. Coinflip Sporting-United ohne SAFE.",
+    "Markt-Goldgrube aktiv gesucht: Sieg 1X2, BTTS, Ueber 2.5 Tore, Torschuetzen Jederzeit, DC 1X - jeder Tipp erklaert Goldgruben-Bezug",
+    "Kader-Frische-Pflicht: Salah/Konate/Robertson als Liverpool-Spieler explizit ausgeschlossen (laut kader_wechsel_2026.json). Isak/Barcola als neue Volume-Optionen. Woltemade nicht mehr Stuttgart. Doue/Kvara Kreuzband OUT fuer PSG. Kane OUT fuer Bayern. Cunha-Sperre fuer United.",
+    "Layer-1 (max 1 Bein/Spiel/Kombi): eingehalten",
+    "Layer-2 (Sieg-Outcome max 1 Kombi pro Spiel): PSG-Sieg nur Safe, Inter-Sieg nur Safe, Liverpool-Sieg nur Safe, Sporting-Sieg nur Moonshot. Keine Doppelungen.",
+    "Layer-3 (max 1 Bein/Spiel wo moeglich, sonst Markt-entkoppeln): bei 5 Spielen und 12 Kombi-Beinen Markt-entkoppelt (Sieg + Tor-Total + Torschuetze in verschiedenen Kombis des selben Spiels)",
+    "CL-2:0-Insurance bewusst angewendet: bei allen 5 Spielen aktiv (bet365-Aktionsregel 1. BL + CL)",
+    "Zeitfenster-Hartregel: alle 5 Spiele Anstoss 2026-11-25 (geprueft, keine 24.11.- oder 26.11.-Spiele aufgenommen)"
+  ],
+  "footer": "18+ - bet365 DE - Hobby-Wetten - Sucht-Hilfe BZgA: 0800 1372700 - Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-11-25T11:45:00+01:00",
+    "drops": [],
+    "downgrades": [],
+    "warns": [
+      {
+        "art": "quoten_live_pruefen",
+        "details": "Alle Quoten sind Marktrichtwerte aus Preview-Artikeln - bet365 live vor jedem Einsatz pruefen. Besonders bei Lautaro Martinez Torschuetze: Esposito-Hattrick gegen Atalanta kann Lautaro-Startelf verdraengen."
+      },
+      {
+        "art": "aufstellung_pre_anstoss",
+        "details": "Pre-Anstoss-Aufstellungen pruefen: Liverpool (Iraola rotiert evtl., Isak-Startelf?), Inter (Lautaro vs Esposito), Bayern (Diaz zurueck aber Startelf?), Roma (Malen-Startelf?)"
+      },
+      {
+        "art": "verletzungen",
+        "details": "Kane 3-4 Monate OUT, Doue/Kvaratskhelia Kreuzband OUT fuer PSG, Olise/Neuer/Gnabry/Saibari/Davies Bayern OUT, Ekitike/Gakpo Liverpool OUT, Cunha gesperrt United, Sesko/Ugarte/Baleba United OUT"
+      }
+    ],
+    "layer_2_check": "bestanden - kein Spiel-Sieg-Outcome in mehr als 1 Kombi",
+    "layer_3_check": "bestanden - Markt-entkoppelte Mehrfachnennung bei 5 Spielen und 4 Kombis",
+    "quoten_rechnung_check": "bestanden - Safe 1.44x1.35x1.67=3.25, Balance 1.55x1.75x2.25=6.10, Risk 3.20x2.10x3.00=20.16, Moonshot 2.50x7.00x7.50=131.25",
+    "kader_frische_check": "bestanden - kader_wechsel_2026.json gelesen: keine veralteten Zuordnungen (Salah/Konate/Robertson/Woltemade/Kane-Ausfall/Doue-Ausfall beruecksichtigt)",
+    "spielerschutz_check": "bestanden - Footer mit BZgA-Nummer vorhanden",
+    "lessons_generiert": []
+  }
+}
