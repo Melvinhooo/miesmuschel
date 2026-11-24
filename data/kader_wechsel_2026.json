@@ -1,5 +1,5 @@
 {
-  "stand": "2026-11-23",
+  "stand": "2026-11-24",
   "zweck": "Guardrail gegen veraltete Kader- und Trainer-Annahmen (Adeyemi-Klasse-Fehler). Recherche-, Tipps- und Auswertungs-Routinen lesen diese Datei als Gegen-Check. NICHT vollstaendig - nur bestaetigte High-Profile-Faelle. Die Routine MUSS pro Spiel zusaetzlich live pruefen (kicker.de Aufstellungs-Vorschau / transfermarkt / offizielle Klub-Site).",
   "pflege": "Wird woechentlich von der Maintenance-Routine (Sonntag 21:00) aufgefrischt und laufend von der Auswertungs-Routine ergaenzt, wenn beim Auswerten ein falsch zugeordneter Spieler oder Trainer auffaellt. Neue Faelle immer mit quelle-URL eintragen und stand hochsetzen.",
   "saison_start_bundesliga": "2026-08-28",
@@ -1033,6 +1033,30 @@
       "datum": "2026-08-01",
       "hinweis": "35, erfahrener Volume-9er. Nach Delap/Jackson/Guiu die alt-erfahrene Alternative unter Xabi Alonso. Als Chelsea-Backup-Stuermer / Einwechslungs-Boost-Kandidat denkbar.",
       "quelle": "https://www.thescore.com/epl/news/3573499"
+    },
+    {
+      "spieler": "Gustavo Varela",
+      "nach": "AC Monza",
+      "rolle": "Volume-Offensivspieler",
+      "hinweis": "Aufgefallen bei Auswertung 2026-11-23: Varela-Doppelpack (45' Elfmeter, 51') beim 3:0 gegen Fiorentina - Monza beendet 4-Spiele-Niederlagen-Serie und verlaesst Abstiegszone. Fuer Monza-Torschuetzen-Jederzeit-Markt im Not-Druck-Edge-Fenster aktive Option, zusaetzlich Elfmeter-Schuetze.",
+      "quelle": "https://www.corrieredellosport.it/live/partita/monza-fiorentina-2638238",
+      "stand": "2026-11-24"
+    },
+    {
+      "spieler": "Jay Robinson",
+      "nach": "AC Monza",
+      "rolle": "Offensiv-Volumen",
+      "hinweis": "Aufgefallen bei Auswertung 2026-11-23: Robinson 59' zum 3:0 gegen Fiorentina. Fuer Monza-Torschuetzen-Markt zweiter Scorer-Kandidat neben Varela im Juric-Pressing-System. Vor Tipp weiterhin kicker.de-Aufstellungsvorschau pruefen (Rotations-Rolle unklar).",
+      "quelle": "https://www.tufutbolero.com/en/news/monza-3-0-fiorentina-brace-from-varela-and-goal-from-5d39b9",
+      "stand": "2026-11-24"
+    },
+    {
+      "spieler": "Keane Lewis-Potter",
+      "nach": "Brentford FC",
+      "rolle": "Linker Fluegel / Volume-Torschuetze",
+      "hinweis": "Aufgefallen bei Auswertung 2026-11-23: Lewis-Potter Doppelpack 23'+25' beim 4:0 gegen Everton - Brentford's 300. PL-Tor + 50. PL-Zu-Null. Im Volume-Backup-Scanner (siehe Lesson HR11-07-3) bisher als Thiago-Anhang gefuehrt; Doppelpack-Hit an Mini-Slate-Tag zeigt: Lewis-Potter eigenstaendiger Torschuetzen-Kandidat, nicht nur Boost-Trigger. Besonders bei Everton-/Low-Block-Gegnern auf Gtech.",
+      "quelle": "https://www.tntsports.co.uk/football/premier-league/2026-2027/brentford-everton_mtc21883139/live-commentary.shtml",
+      "stand": "2026-11-24"
     }
   ],
   "trainer_2026_27": [

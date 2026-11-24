@@ -1,6 +1,6 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-11-23T07:10:52+00:00",
+  "letzte_berechnung": "2026-11-24T06:14:15+00:00",
   "gesamt": {
     "tipps": 241,
     "gewonnen": 149,
@@ -13,15 +13,15 @@ window.__MIESMUSCHEL_STAT = {
     "roi_prozent": 34.6
   },
   "letzte_30_tage": {
-    "tipps": 132,
-    "gewonnen": 74,
-    "verloren": 48,
+    "tipps": 120,
+    "gewonnen": 67,
+    "verloren": 44,
     "push": 0,
-    "offen": 10,
-    "einsatz": 122.0,
-    "netto": 17.43,
-    "trefferquote": 60.7,
-    "roi_prozent": 14.3
+    "offen": 9,
+    "einsatz": 111.0,
+    "netto": 18.38,
+    "trefferquote": 60.4,
+    "roi_prozent": 16.6
   },
   "letzte_90_tage": {
     "tipps": 241,
@@ -2719,6 +2719,190 @@ window.__MIESMUSCHEL_STAT = {
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-11-23",
+      "gesamt": {
+        "tipps": 8,
+        "gewonnen": 3,
+        "verloren": 5,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 8.0,
+        "netto": -3.45,
+        "trefferquote": 37.5,
+        "roi_prozent": -43.1
+      },
+      "spiele": [
+        {
+          "id": "2026-11-23-mon-fio",
+          "liga": "Serie A 2026/27 - Giornata 12",
+          "heim": "AC Monza",
+          "gast": "ACF Fiorentina",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Unter 3.5 Tore",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": "Endstand 3:0, Summe 3 Tore < 3.5"
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Endstand 3:0, Summe 3 Tore > 2.5"
+            },
+            {
+              "markt": "Fiorentina oder Remis (Doppelte Chance)",
+              "quote": 1.72,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Monza gewann 3-0 - DC X2 (Fiorentina oder Remis) verloren"
+            },
+            {
+              "markt": "Moise Kean Torschütze jederzeit",
+              "quote": 2.6,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Kean kein Tor; Fiorentina erzielte 0 Tore - Einwechslungs-Boost mangels Fiorentina-Treffer nicht moeglich"
+            }
+          ]
+        },
+        {
+          "id": "2026-11-23-bre-eve",
+          "liga": "Premier League 2026/27 - Matchweek 11",
+          "heim": "Brentford",
+          "gast": "Everton",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Brentford oder Remis (Doppelte Chance)",
+              "quote": 1.4,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.4,
+              "kommentar": "Brentford gewann 4-0 - DC 1X erfuellt"
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.72,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Everton erzielte kein Tor - BTTS JA verloren"
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.85,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.85,
+              "kommentar": "4-0 Endstand, Summe 4 Tore > 2.5"
+            },
+            {
+              "markt": "Igor Thiago Torschütze jederzeit",
+              "quote": 2.6,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Thiago kein Tor; Scorer Lewis-Potter 23'+25', Janelt 67', Carvalho 90'. Kein Beleg fuer Einwechslungs-Boost (Thiago-Sub mit direktem Ersatz-Tor) in den Quellen - konservativ als verloren gewertet"
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe (2 Beine, Totals + DC)",
+          "kategorie": "safe",
+          "gesamtquote": 1.82,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Brentford oder Remis (Doppelte Chance)",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 3.5 Tore",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance (2 Beine, Totals-Mix)",
+          "kategorie": "balance",
+          "gesamtquote": 3.18,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.72,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Unter 2.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko (2 Beine, Totals + Torschuetze)",
+          "kategorie": "risk",
+          "gesamtquote": 4.81,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Moise Kean Torschütze jederzeit",
+              "quote": 2.6,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-light (2 Beine, kein echter 100x in 2-Spiele-Dossier)",
+          "kategorie": "moonshot",
+          "gesamtquote": 7.28,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg AC Monza (90 Min)",
+              "quote": 2.8,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Igor Thiago Torschütze jederzeit",
+              "quote": 2.6,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-11-22",
       "gesamt": {
