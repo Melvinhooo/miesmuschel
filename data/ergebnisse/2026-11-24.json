@@ -1,0 +1,1537 @@
+{
+  "datum": "2026-11-24",
+  "erstellt_am": "2026-11-24T12:00:00+01:00",
+  "_emergency_recovery": true,
+  "_emergency_hinweis": "Haupt-Routine + Watchdog haben heute kein Dossier geliefert. Dieses Dossier stammt vom Safety-Net-Backstop, der die CL-Matchday-5-Fixtures per WebSearch recherchiert hat (keine data/recherche/2026-11-24.json vorhanden, kein football-data.org-Zugriff). Quoten sind Marktrichtwerte aus Preview-Artikeln - vor jedem Einsatz bei bet365 live pruefen.",
+  "hinweis": "Champions-League-Mega-Dienstag: 9 Ligaphase-MD5-Spiele, davon 5 Top-Partien im Dossier. Arsenal gegen Dortmund (21:00) und Real Madrid gegen PSV (21:00) sind die Herzschlag-Spiele - beide Favoriten mit CL-2:0-Insurance aktiv. Dazu Man City gegen Napoli (21:00, City mit PL-Form-Krise aber trotzdem Heim-Favorit), RB Leipzig gegen Lens (21:00, Lens defensiv katastrophal mit -12 GD) und Galatasaray gegen Aston Villa (18:45, Istanbul-Hexenkessel plus Villa-Lazarett). Kasse 1000 Euro, Stufe 1 aktiv - Einsaetze konservativ. Fuenf Spiele reichen fuer ein sauberes 4-Kombi-Setup mit echter Moonshot-Quote ueber 100x.",
+  "spiele": [
+    {
+      "id": "2026-11-24-ars-bvb",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 5",
+      "heim": "Arsenal FC",
+      "gast": "Borussia Dortmund",
+      "anstoss": "2026-11-24T21:00:00+01:00",
+      "stadion": "Emirates Stadium, London",
+      "saison_kontext": {
+        "parallel_heim": "Premier League (Platz 1-3 Spitzengruppe), EFL Cup/Carabao-Cup laeuft parallel - aktuell keine Doppelbelastung vor dem Spiel (Laenderspielpause)",
+        "parallel_gast": "Bundesliga (Mittelfeld/CL-Quali-Kampf), DFB-Pokal (Achtelfinale naechste Runde)",
+        "saisonziel_heim": "PL-Titel-Rennen + CL-Top-8 direkt. Aktuell 3. in der CL-Ligaphase mit 10 Punkten aus 4 Spielen (ungeschlagen)",
+        "saisonziel_gast": "BL CL-Quali + CL-Achtelfinal-Erreichen. Aktuell 12. in der CL-Ligaphase mit 9 Punkten aus 4 Spielen (3 Siege + 1 Niederlage)",
+        "motivations_asymmetrie": "Arsenal klarer Heim-Favorit (Marktquote um 1.40) - ungeschlagen in der Ligaphase. Dortmund reist nach Laenderspielpause als Underdog, aber Kovac-Pressing-System hat 3 CL-Siege geholt. Arsenal-Lazarett dampft das SAFE-Rating: David Raya (Torwart) und Bukayo Saka laut Preview-Artikeln aus - deshalb Arsenal-Sieg nur VALUE, nicht SAFE.",
+        "recovery_heim": "Beide Teams hatten FIFA-Laenderspielpause 10.-18.11., Spieler zurueck ab Mi 19.11. - normale 6 Tage Vorbereitungszeit, aber Raya + Saka verletzt zurueckgekommen",
+        "recovery_gast": "Dortmund nach Laenderspielpause mit allen Nationalspielern zurueck (Nmecha, Can, Guirassy etc.), Mi-Fr-Training fuer Taktik. Keine akuten Ausfaelle bekannt.",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.sportsmole.co.uk/football/arsenal/champions-league/how-to-watch/how-to-watch-arsenal-vs-dortmund-date-time-live-stream-and-tv-channel_609667.html",
+          "https://www.goal.com/en-ca/betting/tips/arsenal-vs-borussia-dortmund-predictions-24-11-2026/A%3Ablt7317995a1a1d7677",
+          "https://www.ladbrokes.com/en/news/arsenal-borussia-dortmund-champions-league-predictions-2026-11-24/",
+          "https://www.premierleague.com/clubs/1/arsenal/squad",
+          "https://www.bundesliga.com/de/bundesliga/clubs/borussia-dortmund/kader",
+          "https://www.transfermarkt.de/fc-arsenal/startseite/verein/11",
+          "https://www.transfermarkt.de/borussia-dortmund/startseite/verein/16"
+        ]
+      },
+      "news": [
+        "CL-2:0-Insurance aktiv (bet365-DE-Regel fuer Champions League) - Arsenal-Sieg-Tipp gewinnt auch wenn Arsenal irgendwann 2:0 fuehrt",
+        "Arsenal ungeschlagen in der CL-Ligaphase (3S 1U), 10 Punkte, 3. Platz. Marktquote um 1.40 fuer Heimsieg",
+        "Raya (Torwart) und Saka laut Preview-Artikeln verletzt - Setford im Tor, Trossard/Martinelli als Saka-Ersatz. HR22-Dampfer fuer Arsenal-Sieg-Kategorie",
+        "Gyokeres zentraler 9er bei Arsenal, Form aus Vereinsspielen in Laenderspielpause mitgenommen - HR24 Form-Edge-Kandidat",
+        "Dortmund 12. in CL-Ligaphase mit 9 Pkt, Kovac-Team mit 3 Siegen (mit Pressing-/Kontersystem), aber eine klare Niederlage - Auswaerts-Underdog-Rolle",
+        "Mbeumo-Hinweis: Mbeumo bei Brentford, nicht Arsenal - nicht als Arsenal-Spieler tippen"
+      ],
+      "tipps": [
+        {
+          "id": "ars-bvb-1",
+          "kategorie": "value",
+          "markt": "Sieg Arsenal (90 Min)",
+          "quote": 1.4,
+          "edge_prozent": 6.0,
+          "begruendung": "Arsenal ungeschlagen in der CL-Ligaphase (10 Pkt), Dortmund Auswaerts-Underdog. CL-2:0-Insurance aktiv - wenn Arsenal irgendwann 2:0 fuehrt, gilt der Tipp auch bei spaeterem 2:3. Markt-Goldgrube 'Sieg 1X2' (71 Prozent Hitrate, +30 Prozent ROI im System). HR22-Dampfer: Raya + Saka verletzt reduziert Arsenal-Top-Form, deshalb VALUE statt SAFE. Faire Quote etwa 1.32, kleine aber reale Marge. Einsatz Stufe 1: 1.5 Prozent von 1000 Euro = 15 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.32,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "ars-bvb-2",
+          "kategorie": "value",
+          "markt": "Viktor Gyokeres Torschuetze jederzeit",
+          "quote": 1.9,
+          "edge_prozent": 7.0,
+          "begruendung": "HR24-Check: (1) Gyokeres zentraler 9er bei Arsenal mit Einwechslungs-Boost-Qualitaet (bet365 zaehlt Ersatz-Tore nach Gyokeres-Auswechslung fuer den Tipp), (2) Dortmund-Innenverteidigung unter Pressing-Druck des Emirates anfaellig. Markt-Goldgrube 'Torschuetzen Jederzeit' (50 Prozent Hitrate, +24.4 Prozent ROI). Faire Quote 1.77, Edge rund 7 Prozent. Einsatz Stufe 1: 1 Prozent = 10 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.77,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "ars-bvb-3",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.8,
+          "edge_prozent": 5.5,
+          "begruendung": "BTTS-Markt-Goldgrube (60 Prozent Hitrate, +32 Prozent ROI). Arsenal offensiv-aktiv aber mit leichter Schwaeche in den letzten PL-Partien, Dortmund in der CL bislang in jedem Spiel mindestens 1 Tor erzielt. Keine Zu-Null-Pflicht fuer Arsenal bei Raya-Ausfall (Setford unerfahren). Einsatz Stufe 1: 1 Prozent = 10 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 1.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 1,
+        "halbzeit_stand": "1:0",
+        "endstand": "1:1"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "ars-bvb-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Arsenal-Sieg-Tipp verloren (1:1). Arsenal fuehrte zwar 1:0, aber nie 2:0 -> keine CL-2:0-Insurance.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ars-bvb-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.9,
+          "kommentar": "Gyokeres traf in der 9. Minute zur Fuehrung.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "ars-bvb-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.8,
+          "kommentar": "BTTS JA: Gyokeres 9', Beier 55'.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:0",
+        "endstand": "1:1",
+        "tore": [
+          {
+            "min": 9,
+            "team": "heim",
+            "spieler": "Viktor Gyokeres",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 55,
+            "team": "gast",
+            "spieler": "Maximilian Beier (Vorlage Gadou)",
+            "stand_danach": "1:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Fuehrung Arsenal durch Gyokeres, Dortmund gleicht nach der Pause durch Beier aus. Nie 2-Tore-Differenz."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Heim/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Arsenal trifft frueh (9') durch Gyokeres, kann 1:0-Fuehrung aber nicht halten - zweimal Pfosten laut Preview-Nachlese.",
+          "Dortmund Umschaltmoment nach der Pause: Gadou spielt Beier frei (55').",
+          "Trotz Raya/Saka-Ausfall nur ein Gegentor - Arsenal-Defense ohne Raya hielt insgesamt stand."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-24-rma-psv",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 5",
+      "heim": "Real Madrid CF",
+      "gast": "PSV Eindhoven",
+      "anstoss": "2026-11-24T21:00:00+01:00",
+      "stadion": "Estadio Santiago Bernabeu, Madrid",
+      "saison_kontext": {
+        "parallel_heim": "LaLiga (Titelrennen), Copa del Rey (Runden-Start Dezember) - aktuell keine Doppelbelastung vor dem Spiel",
+        "parallel_gast": "Eredivisie (Titelverteidiger), KNVB Beker",
+        "saisonziel_heim": "LaLiga-Titel + CL-Finale. 9 Siege in Folge in allen Wettbewerben laut Preview - absolute Form-Hochphase",
+        "saisonziel_gast": "Eredivisie-Verteidigung + CL-Top-24-Playoff-Platz. In der CL bislang nur maessig unterwegs",
+        "motivations_asymmetrie": "Real Madrid absolute Form-Dominanz (9 Siege in Folge, Marktquote fuer Heimsieg um 1.30). PSV reist mit 4 Ausfaellen (Plea, Schouten, Ouaissa, Nagalo) und Mauro Junior fraglich - deutliche Kader-Schwaeche speziell im Mittelfeld/Angriff. Real-Lazarett ueberschaubar (Mendy, Asencio, Rodrygo OUT - alles ersetzbar). Klarer Heim-Favorit, SAFE-legitim.",
+        "recovery_heim": "Laenderspielpause 10.-18.11., Vinicius + Mbappe zurueck ab Mi. Rodrygo weiter out (Knie), aber keine kompletten Stuetzen aus. 6 Tage Vorbereitung.",
+        "recovery_gast": "PSV mit mehreren Ausfaellen aus Nationalmannschaften + laufenden Verletzungen. Schouten (Knie) langfristig weg, Plea/Ouaissa/Nagalo kurzfristig. Mauro Junior fraglich.",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.sportsmole.co.uk/football/real-madrid/champions-league/team-news/real-madrid-vs-psv-injury-suspension-list-predicted-xis_609651.html",
+          "https://www.goal.com/en-za/betting/tips/real-madrid-vs-psv-eindhoven-predictions-24-11-2026/A%3Ablta36946271ca7cc4a",
+          "https://www.laliga.com/en-GB/clubs/real-madrid",
+          "https://www.transfermarkt.de/real-madrid/startseite/verein/418",
+          "https://www.transfermarkt.de/psv-eindhoven/startseite/verein/383",
+          "https://www.kicker.de/real-madrid/kader/primera-division/2026-27"
+        ]
+      },
+      "news": [
+        "CL-2:0-Insurance aktiv - Real-Sieg-Tipp durch sobald Real 2:0 fuehrt",
+        "Real Madrid 9 Siege in Folge in allen Wettbewerben, offensive Dreierreihe Diomande/Diaz/Vinicius plus Mbappe laut Preview",
+        "Mbappe weiter Top-Scorer, zentraler 9er mit Einwechslungs-Boost-Potenzial - HR24 Vollerfuellung",
+        "Vinicius als Flanken-Spielmacher, Fluegel-Rolle mit zuverlaessiger Torbeteiligung",
+        "PSV ohne Plea (Verletzung), Schouten (Knie langfristig), Ouaissa, Nagalo - Mittelfeld/Angriff substanziell geschwaecht",
+        "Markt-Goldgrube-Liga: UEFA CL Ligaphase (Spieltag 1 bereits in liga_goldgruben.json). SAFE-Bestaetigung moeglich"
+      ],
+      "tipps": [
+        {
+          "id": "rma-psv-1",
+          "kategorie": "safe",
+          "markt": "Sieg Real Madrid (90 Min)",
+          "quote": 1.3,
+          "edge_prozent": 8.0,
+          "begruendung": "Real Madrid in absoluter Form (9 Siege in Folge), PSV mit 4 Ausfaellen in Mittelfeld/Angriff. Heim-Favorit mit klarer Qualitaets-Edge. CL-2:0-Insurance aktiv. Markt-Goldgrube 'Sieg 1X2' (71 Prozent Hitrate, +30 Prozent ROI). Faire Quote 1.20, Edge rund 8 Prozent. Einsatz Stufe 1: 2 Prozent von 1000 Euro = 20 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.2,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "rma-psv-2",
+          "kategorie": "safe",
+          "markt": "Kylian Mbappe Torschuetze jederzeit",
+          "quote": 1.5,
+          "edge_prozent": 7.0,
+          "begruendung": "HR24-Vollerfuellung: (1) Mbappe mehrere Tore in jedem aktuellen Monat (Topscorer-Status), (2) zentraler 9er bei Real mit Backup-Qualitaet (Einwechslungs-Boost), (3) PSV-Defense durch Ausfaelle anfaellig. Markt-Goldgrube 'Torschuetzen Jederzeit' (50 Prozent Hitrate, +24.4 Prozent ROI). Faire Quote 1.40, Edge rund 7 Prozent. Einsatz Stufe 1: 2 Prozent = 20 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.4,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "rma-psv-3",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.6,
+          "edge_prozent": 7.5,
+          "begruendung": "Real Madrid in Offensiv-Modus (9-Siege-Serie mit vielen Toren), PSV hinten anfaellig durch Verletzungsserie aber offensiv nicht ganz tot. Preview-Scorelines reichen von 2-1 bis 4-2 - alle ueber 2.5. Markt-Goldgrube 'Ueber 2.5 Tore' (66.7 Prozent Hitrate, +27.5 Prozent ROI). Faire Quote 1.49, Edge rund 7.5 Prozent. Einsatz Stufe 1: 1.5 Prozent = 15 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.49,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "rma-psv-4",
+          "kategorie": "value",
+          "markt": "Vinicius Junior Torschuetze jederzeit",
+          "quote": 1.9,
+          "edge_prozent": 5.0,
+          "begruendung": "HR24: Vinicius Form-Edge-Kandidat (konstante Torbeteiligung in LaLiga + CL), PSV-Defense durch Verletzungsserie geschwaecht. WACKEL-ueberhoeht-Markt (1.90 im Value-Bereich wegen leicht hoeherer Streuung als Mbappe). Einsatz Stufe 1: 1 Prozent = 10 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.81,
+          "empfohlener_einsatz_prozent": 1.0
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 5,
+        "gast_tore": 1,
+        "halbzeit_stand": "0:1",
+        "endstand": "5:1"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "rma-psv-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.3,
+          "kommentar": "Real gewinnt 5:1 nach 0:1-Rueckstand. Auch CL-2:0-Insurance greift (Real zwischenzeitlich 4:1).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "rma-psv-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.5,
+          "kommentar": "Mbappe Doppelpack (64' + 84').",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "rma-psv-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.6,
+          "kommentar": "6 Tore insgesamt - locker Ueber 2.5.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "rma-psv-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.9,
+          "kommentar": "Vinicius Jr. trifft 87' zum 5:1.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "5:1",
+        "tore": [
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Ivan Perisic (Elfmeter, 1. Halbzeit)",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 64,
+            "team": "heim",
+            "spieler": "Kylian Mbappe",
+            "stand_danach": null
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Jude Bellingham (Fernschuss)",
+            "stand_danach": null
+          },
+          {
+            "min": 84,
+            "team": "heim",
+            "spieler": "Kylian Mbappe",
+            "stand_danach": null
+          },
+          {
+            "min": 87,
+            "team": "heim",
+            "spieler": "Vinicius Junior",
+            "stand_danach": null
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "weiterer Real-Treffer (Schuetze aus Live-Recherche nicht zweifelsfrei zuzuordnen)",
+            "stand_danach": null
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "0:1 zur Pause, 5:1 am Ende - fuenf Real-Tore nach dem Seitenwechsel, Drehung mit Differenz >= 2 Tore gegenueber HZ-Stand."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": true,
+          "halbzeit_endstand": "Gast fuehrt / Heim gewinnt",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "PSV durch Perisic-Elfmeter mit Pausenfuehrung, zerbricht aber nach der Pause voellig unter Real-Druck (0 -> 5 Gegentore in 45 Min).",
+          "Mbappe-Doppelpack (64', 84') erneut Match-Winner - HR24-Form-Edge perfekt bestaetigt.",
+          "Bellingham-Fernschuss plus Vinicius 87' - klassische Real-Offensiv-Dominanz, Massen-Torschuetzen-Tag."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-24-mci-nap",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 5",
+      "heim": "Manchester City",
+      "gast": "SSC Napoli",
+      "anstoss": "2026-11-24T21:00:00+01:00",
+      "stadion": "Etihad Stadium, Manchester",
+      "saison_kontext": {
+        "parallel_heim": "Premier League, EFL Cup laufend - City in PL-Form-Krise (4 Spiele kein Sieg, davon 3 Niederlagen + 1:1-Remis gegen Fulham laut Preview-Artikeln)",
+        "parallel_gast": "Serie A, Coppa Italia",
+        "saisonziel_heim": "PL-Titel-Kampf + CL-Top-8. In der CL 7. mit 9 Pkt aus 4 Spielen, 12 Tore erzielt, 7 kassiert",
+        "saisonziel_gast": "Serie-A-Mittelfeld/CL-Wiederannaeherung + CL-Top-24-Playoff. In der CL nur 3 Pkt aus 4 Spielen, 27. in der Ligaphase",
+        "motivations_asymmetrie": "City trotz PL-Form-Krise klarer Heim-Favorit gegen das 27. CL-Team Napoli - Qualitaets-Edge massiv. ABER: HR2-Dampfer fuer City-Sieg SAFE/VALUE wegen Form-Krise (4 Spiele kein Sieg). Deshalb kein City-Sieg-Tipp, stattdessen offensive Markets (Haaland, Tor-Totals, BTTS). Napoli mit Rafa Marin gesperrt (Rotsperre aus Porto-Spiel) - Innenverteidigung Beukema/Rrahmani-Paerchen Stamm-Reduziert.",
+        "recovery_heim": "Laenderspielpause 10.-18.11., Nunes zurueck (verfuegbar laut Maresca-Pressekonferenz). Haaland + De Bruyne Norwegen/Belgien zurueck ab Mi. 6 Tage Vorbereitung.",
+        "recovery_gast": "Napoli mit Pickford nicht (er ist England-Keeper = Everton, nicht Napoli!). Korrektur: Napoli-Keeper Meret. Napoli-Nationalspieler aus 10 Laendern zurueck. Rafa Marin gesperrt nach Rot in Porto.",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.mancity.com/news/mens/city-v-napoli-match-preview-ucl-24-nov-63930854",
+          "https://www.sportsmole.co.uk/football/man-city/champions-league/how-to-watch/how-to-watch-man-city-vs-napoli-date-time-live-stream-and-tv-channel_609677.html",
+          "https://africasoccer.com/manchester-city-face-napoli-with-champions-league-progress-on-the-line/",
+          "https://www.premierleague.com/clubs/11/manchester-city/squad",
+          "https://www.transfermarkt.de/manchester-city/startseite/verein/281",
+          "https://www.transfermarkt.de/ssc-neapel/startseite/verein/6195",
+          "https://www.kicker.de/manchester-city/kader/premier-league/2026-27"
+        ]
+      },
+      "news": [
+        "CL-2:0-Insurance aktiv fuer Sieg-Tipps",
+        "City in PL-Form-Krise (4 Spiele kein Sieg) - HR2 verbietet Heim-Sieg/-DC als SAFE/VALUE, deshalb keine City-Sieg-Tipps im Dossier",
+        "Haaland zentraler 9er in Form (Norwegen-Doppelpack in WM-Quali-Spielen laut gaengigen Previews) - HR24 Form-Edge-Vollerfuellung plus Napoli-Innenverteidigung durch Rafa-Marin-Sperre geschwaecht",
+        "Napoli in CL maessig (3 Pkt in 4 Spielen), 4:1 in Porto verloren plus Rot-Karte Rafa Marin",
+        "Nunes bei City wieder einsatzbereit laut Maresca-Pressekonferenz (Preview-Quelle sagte Maresca - Trainer-Name vor Einsatz nochmal verifizieren)",
+        "City-Napoli war in der Vorsaison 2-0 fuer City (Haaland + Doku) - leichter psychologischer Edge"
+      ],
+      "tipps": [
+        {
+          "id": "mci-nap-1",
+          "kategorie": "value",
+          "markt": "Erling Haaland Torschuetze jederzeit",
+          "quote": 1.55,
+          "edge_prozent": 8.0,
+          "begruendung": "HR24-Vollerfuellung: (1) Haaland zentraler 9er mit extremer Form (Doppelpack in Norwegen-Laenderspielen zuletzt plus 12 City-CL-Tore), (2) Napoli-Innenverteidigung durch Rafa-Marin-Sperre geschwaecht, (3) City offensiv in der CL staerker als im PL-Alltag (12 Tore in 4 CL-Spielen). Markt-Goldgrube 'Torschuetzen Jederzeit'. Einsatz Stufe 1: 1.5 Prozent = 15 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.44,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "mci-nap-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.9,
+          "edge_prozent": 6.0,
+          "begruendung": "City offensiv zuverlaessig (12 CL-Tore), Napoli mit genug Qualitaet fuer Ehrentore (Lukaku oder Kvara/McTominay). City-Defense in PL-Krise durchlaessig. Markt-Goldgrube 'Beide Teams treffen JA' (60 Prozent Hitrate, +32 Prozent ROI). Einsatz Stufe 1: 1 Prozent = 10 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.79,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "mci-nap-3",
+          "kategorie": "risk",
+          "markt": "Sieg SSC Napoli (90 Min)",
+          "quote": 5.0,
+          "edge_prozent": 2.0,
+          "begruendung": "Lotterie-Tipp: Nur fuer Moonshot-Kombi gedacht. Napoli muss offensiv kommen (CL-Lage brutal), City in PL-Form-Krise und Ausfaelle in Defense denkbar. CL-2:0-Insurance zaehlt NICHT fuer Napoli-Sieg-Tipp (nur wenn ERLING... Quatsch, die 2:0-Insurance zaehlt fuer BEIDE Sieg-Tipp-Teams symmetrisch, wenn Napoli 2:0 fuehrt, gilt Napoli-Sieg-Tipp auch bei 2:3-Niederlage am Ende). Faire Quote 4.50, kleine Marge. Einsatz Stufe 1 Risiko: 0.25 Prozent = 2.50 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 4.5,
+          "empfohlener_einsatz_prozent": 0.25
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 2,
+        "halbzeit_stand": "0:0",
+        "endstand": "2:2"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "mci-nap-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Haaland ohne Tor (nur 1 Schuss aufs Tor). Keine klare Quelle fuer Haaland-Auswechslung + Ersatz-Tor -> Einwechslungs-Boost nicht belegt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mci-nap-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.9,
+          "kommentar": "BTTS klar JA bei 2:2.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "mci-nap-3",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Napoli nur Remis (2:2); Napoli fuehrte 1:0 und 2:1, aber nie 2:0 -> keine CL-Insurance anwendbar.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "2:2",
+        "tore": [
+          {
+            "min": 55,
+            "team": "gast",
+            "spieler": "Rasmus Hojlund",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Ayyoub Bouaddi",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 76,
+            "team": "gast",
+            "spieler": "Noa Lang",
+            "stand_danach": "1:2"
+          },
+          {
+            "min": 86,
+            "team": "heim",
+            "spieler": "Rayan Cherki",
+            "stand_danach": "2:2"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Nie mehr als 1 Tor Differenz. City zweimal im Rueckstand, zweimal ausgeglichen, am Ende 2:2."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Unentschieden/Unentschieden",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "City verlaengert Sieglos-Serie auf jetzt 3 Spiele - PL-Form-Krise setzt sich in CL fort.",
+          "Haaland praktisch unsichtbar (nur 1 Schuss aufs Tor) - City-Offensive diesmal nicht ueber die Spitze geloest, Tore durch Bouaddi + Cherki (Fluegel/offensives Mittelfeld).",
+          "Napoli zweimal in Fuehrung, aber nicht ueber die Zielgerade - Lang und Hojlund mit CL-Toren fuer das 27.-platzierte Team."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-24-rbl-len",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 5",
+      "heim": "RB Leipzig",
+      "gast": "RC Lens",
+      "anstoss": "2026-11-24T21:00:00+01:00",
+      "stadion": "Red Bull Arena, Leipzig",
+      "saison_kontext": {
+        "parallel_heim": "Bundesliga (CL-Quali-Kampf), DFB-Pokal - aktuell keine akute Doppelbelastung",
+        "parallel_gast": "Ligue 1 (Mittelfeld), Coupe de France (fruehe Runden)",
+        "saisonziel_heim": "BL CL-Quali + CL-Achtelfinal-Erreichen. 5 Siege in letzten 7 Spielen, 3+ Tore in 3 letzten Spielen in Folge",
+        "saisonziel_gast": "Ligue-1-Mittelfeld + CL-Top-24-Playoff-Platz (sehr schwer bei 3 Pkt aus 4). Defensiv-Trauma: 1-9 auswaerts bei Como, 0-3 bei Brugge, insgesamt -12 Tordifferenz in der CL",
+        "motivations_asymmetrie": "Leipzig massiv ueberlegen: Heim-Form-Hoch (5-7-Siege-Serie, 3+ Tore pro Spiel), Lens defensiv katastrophal (-12 GD inkl. 1-9 gegen Como). Klassischer SAFE-Setup fuer Leipzig-Sieg und Ueber-Totals. 5 AI-Modelle laut Signal-Odds einig: RB Leipzig 2-1 Lens.",
+        "recovery_heim": "Laenderspielpause 10.-18.11., Leipzig-Nationalspieler (Nusa Norwegen, Gruda Deutschland U21 oder A) zurueck Mi. 6 Tage Vorbereitung.",
+        "recovery_gast": "Lens mit mehreren franzoesischen Nationalspielern/Youngsters - Rueckreise und Belastung. Keine bestaetigten Ausfaelle in Preview-Artikeln.",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.squawka.com/us/news/champions-league/match-preview-rb-leipzig-vs-lens-24-11-26-champions-league/",
+          "https://www.sportskeeda.com/football/rb-leipzig-vs-lens-prediction-betting-tips-november-24th-2026",
+          "https://www.bundesliga.com/de/bundesliga/clubs/rb-leipzig/kader",
+          "https://www.transfermarkt.de/rasenballsport-leipzig/startseite/verein/23826",
+          "https://www.transfermarkt.de/rc-lens/startseite/verein/826",
+          "https://www.kicker.de/rb-leipzig/kader/bundesliga/2026-27"
+        ]
+      },
+      "news": [
+        "CL-2:0-Insurance aktiv fuer Leipzig-Sieg-Tipp",
+        "Leipzig-Form-Hoch: 5 Siege in letzten 7, 3+ Tore in 3 letzten Spielen in Folge",
+        "Lens defensiv katastrophal: -12 CL-Tordifferenz inkl. 1-9 Como auswaerts und 0-3 Brugge auswaerts",
+        "Antonio Nusa HR24-Form-Kandidat: 1 Tor + 8 Chancen aus 11 Shots in der CL (laut Preview-Statistik)",
+        "Brajan Gruda HR24: 1 Tor + 1 Assist + 6 Chancen in der CL - zweite Fluegel-Option",
+        "Markt-Goldgrube 'Sieg 1X2' und 'Ueber 2.5 Tore' aktiv ansetzen"
+      ],
+      "tipps": [
+        {
+          "id": "rbl-len-1",
+          "kategorie": "safe",
+          "markt": "Sieg RB Leipzig (90 Min)",
+          "quote": 1.4,
+          "edge_prozent": 8.0,
+          "begruendung": "Massive Qualitaets-Edge (Leipzig-Hochform vs Lens-Defensiv-Trauma -12 GD). CL-2:0-Insurance aktiv. Markt-Goldgrube 'Sieg 1X2' (71 Prozent Hitrate, +30 Prozent ROI). 5 AI-Prognosen einig: Leipzig gewinnt. Faire Quote 1.30, Edge rund 8 Prozent. Einsatz Stufe 1: 2 Prozent = 20 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.3,
+          "empfohlener_einsatz_prozent": 2.0
+        },
+        {
+          "id": "rbl-len-2",
+          "kategorie": "value",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.6,
+          "edge_prozent": 10.0,
+          "begruendung": "Lens kassiert im Schnitt 3.25 Tore pro CL-Auswaerts (-12 GD in 4 Spielen), Leipzig schiesst 3+ Tore in drei letzten Spielen in Folge. Markt-Goldgrube 'Ueber 2.5 Tore' (66.7 Prozent Hitrate, +27.5 Prozent ROI). Faire Quote 1.45, Edge rund 10 Prozent. Einsatz Stufe 1: 1.5 Prozent = 15 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.45,
+          "empfohlener_einsatz_prozent": 1.5
+        },
+        {
+          "id": "rbl-len-3",
+          "kategorie": "wackel",
+          "markt": "Antonio Nusa Torschuetze jederzeit",
+          "quote": 2.4,
+          "edge_prozent": 5.0,
+          "begruendung": "HR24: Nusa Form-Edge-Kandidat (1 Tor + 8 Chancen aus 11 Shots in CL = hoher Volumen-Index), spielt Fluegel mit Backup-Rotation. Lens-Defense durch Ueberlast anfaellig. WACKEL wegen nicht-zentraler 9er-Rolle, aber Chancenverwertungs-Edge real. Einsatz Stufe 1: 0.5 Prozent = 5 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 2.28,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 3,
+        "gast_tore": 1,
+        "halbzeit_stand": "2:0",
+        "endstand": "3:1"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "rbl-len-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.4,
+          "kommentar": "Leipzig gewinnt 3:1. CL-2:0-Insurance zusaetzlich sicher (2:0 bereits nach 9 Min).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "rbl-len-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 0.6,
+          "kommentar": "4 Tore - Ueber 2.5 durch.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "rbl-len-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.4,
+          "kommentar": "Nusa-Doppelpack (9' und 90+4'). HR24-Form-Edge voll bestaetigt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:0",
+        "endstand": "3:1",
+        "tore": [
+          {
+            "min": 6,
+            "team": "heim",
+            "spieler": "David Raum",
+            "stand_danach": "1:0"
+          },
+          {
+            "min": 9,
+            "team": "heim",
+            "spieler": "Antonio Nusa",
+            "stand_danach": "2:0"
+          },
+          {
+            "min": 58,
+            "team": "gast",
+            "spieler": "Matthieu Udol",
+            "stand_danach": "2:1"
+          },
+          {
+            "min": 94,
+            "team": "heim",
+            "spieler": "Antonio Nusa (Vorlage Nkunku, 90+4)",
+            "stand_danach": "3:1"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Leipzig fuehrt frueh 2:0 und gibt die Fuehrung nie her."
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Heim/Heim",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Leipzig startet raketenhaft: 1:0 nach 6 Min (Raum), 2:0 nach 9 Min (Nusa). Prognose '2-1 Leipzig' der Preview-KI durch 3:1 locker uebertroffen.",
+          "Nusa HR24-Form-Edge-Vollerfuellung: Doppelpack, einer aus dem laufenden Spiel, einer in der Nachspielzeit.",
+          "Lens-Defensive bleibt katastrophal auf Reisen: nach 1:9 Como, 0:3 Brugge nun 1:3 Leipzig - CL-Gegentor-Diff jetzt noch tiefer."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-24-gal-avl",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 5",
+      "heim": "Galatasaray SK",
+      "gast": "Aston Villa",
+      "anstoss": "2026-11-24T18:45:00+01:00",
+      "stadion": "RAMS Park (Tuerk Telekom Arena), Istanbul",
+      "saison_kontext": {
+        "parallel_heim": "Sueper Lig (Titelkampf), Tuerkiye Kupasi",
+        "parallel_gast": "Premier League, EFL/Carabao Cup, keine akute Doppelbelastung",
+        "saisonziel_heim": "Sueper-Lig-Titel + CL-Top-24-Playoff. 18. in CL-Ligaphase mit 6 Pkt aus 4 Spielen (Playoff-Lage realistisch)",
+        "saisonziel_gast": "PL-Europa-Quali + CL-Top-16/8. 6. in CL-Ligaphase mit 9 Pkt aus 4 Spielen (gute Top-16-Chance)",
+        "motivations_asymmetrie": "Coinflip-Setup laut Marktquoten (Gala 2.50 / X 3.40 / Villa 2.70): Villa qualitativ staerker, aber Istanbul-RAMS-Park-Hexenkessel plus Villa-Lazarett (Matty Cash Gehirnerschuetterung Polen-Laenderspiel, Onana + Ruggeri verletzt) verschiebt Edge Richtung Galatasaray. Kein SAFE moeglich (HR Coinflip-Regel) - max 3 Tipps, bevorzugt Torschuetze + BTTS + Wackel-Sieg.",
+        "recovery_heim": "Laenderspielpause 10.-18.11., Batrakov (Russland? spielt nicht Laenderspiel sanktionsbedingt), Baris Yilmaz + Icardi fraglich - vor Einsatz Aufstellungs-Vorschau checken",
+        "recovery_gast": "Villa reist mit Ausfaellen Cash (Gehirnerschuetterung), Onana (Verletzung), Ruggeri. Jackson + McGinn + Buendia zurueck aus Laenderspielen. Boubacar Kamara laut Preview-Yahoo moeglicherweise ersetzt - vor Einsatz Villa-Aufstellung checken.",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/",
+          "https://www.sportsmole.co.uk/football/galatasaray/champions-league/preview/galatasaray-vs-aston-villa-prediction-team-news-lineups_609642.html",
+          "https://thehardtackle.com/round-up/2026/11/23/galatasaray-vs-aston-villa-preview-prediction-probable-lineups-tactics-team-news-key-stats/",
+          "https://www.goal.com/en-in/betting/tips/galatasaray-vs-aston-villa-predictions-24-11-2026/A%3Ablt433b7f0b3fb5ea5c",
+          "https://www.premierleague.com/clubs/2/aston-villa/squad",
+          "https://www.transfermarkt.de/galatasaray-istanbul/startseite/verein/114",
+          "https://www.transfermarkt.de/aston-villa/startseite/verein/405",
+          "https://www.kicker.de/aston-villa/kader/premier-league/2026-27"
+        ]
+      },
+      "news": [
+        "CL-2:0-Insurance aktiv fuer Sieg-Tipps",
+        "Villa-Lazarett: Matty Cash (Gehirnerschuetterung Polen-Laenderspiel), Amadou Onana (Verletzung), Matteo Ruggeri (Verletzung) - alle out oder fraglich",
+        "Nicolas Jackson HR24-Vollerfuellung: 3 Tore in 4 CL-Auftritten, zentraler Villa-9er nach Chelsea-Wechsel (01.09.2026 laut kader_wechsel_2026.json) - stabile Form-Edge",
+        "Aleksey Batrakov HR24: 4 CL-Tore in 4 Spielen, davon 3 im RAMS Park (Heim-Stark), zentraler Angreifer bei Galatasaray",
+        "RAMS-Park-Hexenkessel-Faktor: Istanbul-Heim-Vorteil historisch gross, besonders bei Underdog-Favorit-Setups",
+        "Coinflip-Marktquoten: Gala 2.50 / Remis 3.40 / Villa 2.70 - keine klare Edge-Seite, HR verbietet SAFE-Setup"
+      ],
+      "tipps": [
+        {
+          "id": "gal-avl-1",
+          "kategorie": "value",
+          "markt": "Nicolas Jackson Torschuetze jederzeit",
+          "quote": 2.3,
+          "edge_prozent": 8.0,
+          "begruendung": "HR24-Vollerfuellung: (1) 3 Tore in 4 CL-Spielen bestaetigt Form-Edge, (2) zentraler Villa-9er mit Einwechslungs-Boost-Qualitaet, (3) Galatasaray-Defense historisch im Heim nicht uneinnehmbar bei schnellen Kontern. Markt-Goldgrube 'Torschuetzen Jederzeit' (50 Prozent Hitrate, +24.4 Prozent ROI). Faire Quote 2.13, Edge rund 8 Prozent. Einsatz Stufe 1: 1 Prozent = 10 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 2.13,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "gal-avl-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "edge_prozent": 7.0,
+          "begruendung": "Galatasaray erzielt im Heim zuverlaessig (Batrakov + Yilmaz + Deniz Guel), Villa muss offensiv kommen (Jackson + Buendia + McGinn). Markt-Goldgrube 'Beide Teams treffen JA' (60 Prozent Hitrate, +32 Prozent ROI). Faire Quote 1.63, kleine Marge. Einsatz Stufe 1: 1 Prozent = 10 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 1.63,
+          "empfohlener_einsatz_prozent": 1.0
+        },
+        {
+          "id": "gal-avl-3",
+          "kategorie": "wackel",
+          "markt": "Sieg Galatasaray (90 Min)",
+          "quote": 2.5,
+          "edge_prozent": 6.0,
+          "begruendung": "RAMS-Park-Hexenkessel plus Villa-Lazarett (Cash Gehirnerschuetterung, Onana + Ruggeri out) verschiebt Edge Richtung Gala. CL-2:0-Insurance aktiv. Coinflip-Range (Marktquoten 2.50/3.40/2.70), deshalb WACKEL statt VALUE. Faire Quote 2.35, kleine Marge. Einsatz Stufe 1: 0.5 Prozent = 5 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 2.35,
+          "empfohlener_einsatz_prozent": 0.5
+        },
+        {
+          "id": "gal-avl-4",
+          "kategorie": "wackel",
+          "markt": "Aleksey Batrakov Torschuetze jederzeit",
+          "quote": 2.6,
+          "edge_prozent": 5.0,
+          "begruendung": "HR24: Batrakov Form-Edge-Kandidat mit 4 CL-Toren in 4 Spielen (davon 3 im RAMS Park = Heim-Stark). WACKEL wegen generell hoeherer Streuung bei Torschuetzen-Tipps mit Quote 2.50+ und potentiell Rotation. Einsatz Stufe 1: 0.5 Prozent = 5 Euro. Bei bet365 live pruefen.",
+          "faire_quote": 2.47,
+          "empfohlener_einsatz_prozent": 0.5
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 1,
+        "gast_tore": 0,
+        "halbzeit_stand": "0:0",
+        "endstand": "1:0"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "gal-avl-1",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Jackson ohne Tor (Chancen vergeben, Gelbe Karte). Scorer Deniz Gul ist Gala-Spieler, Jackson-Einwechslungs-Boost formal nicht anwendbar (Mannschaftsfremd).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "gal-avl-2",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Nur Galatasaray trifft (1:0). BTTS NEIN.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "gal-avl-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.5,
+          "kommentar": "Galatasaray gewinnt 1:0 (Deniz Gul 77'). Istanbul-Hexenkessel bestaetigt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "gal-avl-4",
+          "status": "verloren",
+          "gewinn_faktor": -1.0,
+          "kommentar": "Batrakov ohne Tor. Einwechslungs-Boost fuer Batrakov nur anwendbar wenn Batrakov selbst ausgewechselt wurde UND Deniz Gul direkt sein Ersatz war - keine Quelle belegt das live, daher konservativ verloren (im Zweifel manuell nachtragen wenn UEFA-Lineup das bestaetigt).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "1:0",
+        "tore": [
+          {
+            "min": 77,
+            "team": "heim",
+            "spieler": "Deniz Gul (Einwechselspieler, Abpraller/Deflection ueber Tyrone Mings)",
+            "stand_danach": "1:0"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "0:0 zur Pause, spaete Gala-Fuehrung durch Joker Gul."
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Unentschieden/Heim",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Deniz Gul",
+            "aus": "(Ersatzmann unbestaetigt - evtl. Batrakov)",
+            "minute": 77,
+            "tor": true
+          }
+        ],
+        "auffaellige_patterns": [
+          "Dritter Gala-CL-Sieg in Folge; Villa reisst Sieglos-Serie quer durch Wettbewerbe auf jetzt 6 Spiele.",
+          "Klassischer Joker-Treffer: Deniz Gul kommt rein, 77' trifft er zum einzigen Tor (deflection ueber Mings).",
+          "Jackson (Villa-Topscorer in CL) ohne Durchbruch: Chancen vergeben + Gelbe Karte, kein Tor am Bosporus.",
+          "Batrakov/Deniz-Gul-Wechsel: Routinen-Hinweis - falls Gul tatsaechlich fuer Batrakov kam, ist der Tipp 'Batrakov Torschuetze' per Einwechslungs-Boost gewonnen. Live-Recherche hat das weder bestaetigt noch widerlegt."
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "rma-psv-1",
+      "spiel_id": "2026-11-24-rma-psv",
+      "spiel_label": "Real Madrid vs PSV Eindhoven",
+      "kategorie": "safe",
+      "markt": "Sieg Real Madrid (90 Min)",
+      "quote": 1.3,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Real in 9-Siege-Serie, PSV mit 4 Ausfaellen. CL-2:0-Insurance aktiv. Markt-Goldgrube 'Sieg 1X2'. 20 Euro bei 1000 Euro Kasse.",
+      "rang": 1
+    },
+    {
+      "id": "rbl-len-1",
+      "spiel_id": "2026-11-24-rbl-len",
+      "spiel_label": "RB Leipzig vs RC Lens",
+      "kategorie": "safe",
+      "markt": "Sieg RB Leipzig (90 Min)",
+      "quote": 1.4,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Leipzig-Hochform vs Lens -12 GD. CL-2:0-Insurance aktiv. Markt-Goldgrube 'Sieg 1X2'. 20 Euro bei 1000 Euro Kasse.",
+      "rang": 2
+    },
+    {
+      "id": "rma-psv-2",
+      "spiel_id": "2026-11-24-rma-psv",
+      "spiel_label": "Real Madrid vs PSV Eindhoven",
+      "kategorie": "safe",
+      "markt": "Kylian Mbappe Torschuetze jederzeit",
+      "quote": 1.5,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "HR24-Vollerfuellung: Topscorer + zentraler 9er + PSV-Defense durch Ausfaelle anfaellig. Markt-Goldgrube Torschuetzen. 20 Euro.",
+      "rang": 3
+    },
+    {
+      "id": "ars-bvb-1",
+      "spiel_id": "2026-11-24-ars-bvb",
+      "spiel_label": "Arsenal vs Borussia Dortmund",
+      "kategorie": "value",
+      "markt": "Sieg Arsenal (90 Min)",
+      "quote": 1.4,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Arsenal ungeschlagen in CL-Ligaphase, CL-2:0-Insurance. HR22-Dampfer wegen Raya + Saka OUT - deshalb VALUE statt SAFE. 15 Euro.",
+      "rang": 4
+    },
+    {
+      "id": "mci-nap-1",
+      "spiel_id": "2026-11-24-mci-nap",
+      "spiel_label": "Man City vs SSC Napoli",
+      "kategorie": "value",
+      "markt": "Erling Haaland Torschuetze jederzeit",
+      "quote": 1.55,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "HR24: Haaland Form + Napoli Rafa-Marin-Sperre. Markt-Goldgrube Torschuetzen. 15 Euro.",
+      "rang": 5
+    },
+    {
+      "id": "rma-psv-3",
+      "spiel_id": "2026-11-24-rma-psv",
+      "spiel_label": "Real Madrid vs PSV Eindhoven",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.6,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Real offensiv-stark + PSV offensiv-aktiv. Markt-Goldgrube 'Ueber 2.5' (66.7 Prozent / +27.5 Prozent). 15 Euro.",
+      "rang": 6
+    },
+    {
+      "id": "rbl-len-2",
+      "spiel_id": "2026-11-24-rbl-len",
+      "spiel_label": "RB Leipzig vs RC Lens",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.6,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Lens -12 GD + Leipzig 3+ Tore in Serie. Markt-Goldgrube. 15 Euro.",
+      "rang": 7
+    },
+    {
+      "id": "gal-avl-2",
+      "spiel_id": "2026-11-24-gal-avl",
+      "spiel_label": "Galatasaray vs Aston Villa",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.75,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Gala heim-offensiv (Batrakov + Yilmaz), Villa muss kommen (Jackson). Markt-Goldgrube BTTS. 10 Euro.",
+      "rang": 8
+    },
+    {
+      "id": "ars-bvb-3",
+      "spiel_id": "2026-11-24-ars-bvb",
+      "spiel_label": "Arsenal vs Borussia Dortmund",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.8,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Dortmund trifft in jedem CL-Spiel bislang, Arsenal-Zu-Null bei Raya-Ausfall fragwuerdig. Markt-Goldgrube BTTS. 10 Euro.",
+      "rang": 9
+    },
+    {
+      "id": "ars-bvb-2",
+      "spiel_id": "2026-11-24-ars-bvb",
+      "spiel_label": "Arsenal vs Borussia Dortmund",
+      "kategorie": "value",
+      "markt": "Viktor Gyokeres Torschuetze jederzeit",
+      "quote": 1.9,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "HR24: zentraler 9er + Dortmund-Defense unter Emirates-Druck anfaellig. Markt-Goldgrube Torschuetzen. 10 Euro.",
+      "rang": 10
+    },
+    {
+      "id": "mci-nap-2",
+      "spiel_id": "2026-11-24-mci-nap",
+      "spiel_label": "Man City vs SSC Napoli",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.9,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "City offensiv zuverlaessig, City-Defense in PL-Krise - Napoli nutzt Raum. Markt-Goldgrube. 10 Euro.",
+      "rang": 11
+    },
+    {
+      "id": "rma-psv-4",
+      "spiel_id": "2026-11-24-rma-psv",
+      "spiel_label": "Real Madrid vs PSV Eindhoven",
+      "kategorie": "value",
+      "markt": "Vinicius Junior Torschuetze jederzeit",
+      "quote": 1.9,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "HR24: Vinicius Form + PSV-Defense geschwaecht. Markt-Goldgrube. 10 Euro.",
+      "rang": 12
+    },
+    {
+      "id": "gal-avl-1",
+      "spiel_id": "2026-11-24-gal-avl",
+      "spiel_label": "Galatasaray vs Aston Villa",
+      "kategorie": "value",
+      "markt": "Nicolas Jackson Torschuetze jederzeit",
+      "quote": 2.3,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "HR24-Vollerfuellung: 3 CL-Tore in 4 Spielen, zentraler 9er, Gala-Defense schlagbar. Markt-Goldgrube. 10 Euro.",
+      "rang": 13
+    },
+    {
+      "id": "rbl-len-3",
+      "spiel_id": "2026-11-24-rbl-len",
+      "spiel_label": "RB Leipzig vs RC Lens",
+      "kategorie": "wackel",
+      "markt": "Antonio Nusa Torschuetze jederzeit",
+      "quote": 2.4,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "HR24: Form-Edge-Fluegel (1 Tor + 8 Chancen in 11 Shots). Lens-Defense ueberlastet. 5 Euro.",
+      "rang": 14
+    },
+    {
+      "id": "gal-avl-3",
+      "spiel_id": "2026-11-24-gal-avl",
+      "spiel_label": "Galatasaray vs Aston Villa",
+      "kategorie": "wackel",
+      "markt": "Sieg Galatasaray (90 Min)",
+      "quote": 2.5,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Istanbul-Hexenkessel + Villa-Lazarett. CL-2:0-Insurance aktiv. Coinflip-Range deshalb WACKEL. 5 Euro.",
+      "rang": 15
+    },
+    {
+      "id": "gal-avl-4",
+      "spiel_id": "2026-11-24-gal-avl",
+      "spiel_label": "Galatasaray vs Aston Villa",
+      "kategorie": "wackel",
+      "markt": "Aleksey Batrakov Torschuetze jederzeit",
+      "quote": 2.6,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "HR24: 4 CL-Tore in 4 Spielen, davon 3 im RAMS Park. Heim-Stark. 5 Euro.",
+      "rang": 16
+    },
+    {
+      "id": "mci-nap-3",
+      "spiel_id": "2026-11-24-mci-nap",
+      "spiel_label": "Man City vs SSC Napoli",
+      "kategorie": "risk",
+      "markt": "Sieg SSC Napoli (90 Min)",
+      "quote": 5.0,
+      "einsatz_euro": 2.5,
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "Lotterie-Tipp. City in PL-Krise + Napoli muss offensiv kommen. CL-2:0-Insurance zaehlt auch fuer Napoli. 2.50 Euro.",
+      "rang": 17
+    }
+  ],
+  "kombis": [
+    {
+      "id": "kombi-safe",
+      "kategorie": "safe",
+      "name": "Safe (3 Beine, Torschuetzen + Totals aus Goldgrube-Markets)",
+      "beine": [
+        {
+          "spiel_id": "2026-11-24-rma-psv",
+          "spiel_label": "Real Madrid vs PSV Eindhoven",
+          "markt": "Mbappe Torschuetze jederzeit",
+          "quote": 1.5,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-11-24-mci-nap",
+          "spiel_label": "Man City vs SSC Napoli",
+          "markt": "Haaland Torschuetze jederzeit",
+          "quote": 1.55,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-24-rbl-len",
+          "spiel_label": "RB Leipzig vs RC Lens",
+          "markt": "Ueber 2.5 Tore",
+          "quote": 1.6,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 3.72,
+      "rechnung": "1.50 x 1.55 x 1.60 = 3.72",
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "potentieller_gewinn_euro": 74.4,
+      "hinweis": "Drei Goldgrube-Maerkte in drei verschiedenen CL-Spielen. Mbappe + Haaland sind HR24-Vollerfuellungen (zentrale 9er + Backup-Qualitaet), Lens-Lens-Aufschlag macht Ueber 2.5 im Leipzig-Spiel zum Pflicht-Totals-Bein. Markt-entkoppelt."
+    },
+    {
+      "id": "kombi-balance",
+      "kategorie": "balance",
+      "name": "Balance (4 Beine, 4 Favoriten-Siege CL-MD5)",
+      "beine": [
+        {
+          "spiel_id": "2026-11-24-ars-bvb",
+          "spiel_label": "Arsenal vs Borussia Dortmund",
+          "markt": "Sieg Arsenal",
+          "quote": 1.4,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-24-rma-psv",
+          "spiel_label": "Real Madrid vs PSV Eindhoven",
+          "markt": "Sieg Real Madrid",
+          "quote": 1.3,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-11-24-rbl-len",
+          "spiel_label": "RB Leipzig vs RC Lens",
+          "markt": "Sieg RB Leipzig",
+          "quote": 1.4,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-11-24-gal-avl",
+          "spiel_label": "Galatasaray vs Aston Villa",
+          "markt": "Sieg Galatasaray",
+          "quote": 2.5,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 6.37,
+      "rechnung": "1.40 x 1.30 x 1.40 x 2.50 = 6.37",
+      "einsatz_euro": 8.0,
+      "empfohlener_einsatz_prozent": 0.8,
+      "potentieller_gewinn_euro": 50.96,
+      "hinweis": "Vier Favoriten-Siege, drei davon klare CL-Heim-Siege (Arsenal, Real, Leipzig) plus Galatasaray-Hexenkessel als Risiko-Multiplikator. Alle vier Sieg-Tipps mit CL-2:0-Insurance. Honest: Sieg-lastige Balance, aber CL-MD5 Setup gibt es her."
+    },
+    {
+      "id": "kombi-risk",
+      "kategorie": "risk",
+      "name": "Risiko (4 Beine, Torschuetzen + BTTS, 20x)",
+      "beine": [
+        {
+          "spiel_id": "2026-11-24-rbl-len",
+          "spiel_label": "RB Leipzig vs RC Lens",
+          "markt": "Nusa Torschuetze jederzeit",
+          "quote": 2.4,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-24-ars-bvb",
+          "spiel_label": "Arsenal vs Borussia Dortmund",
+          "markt": "Gyokeres Torschuetze jederzeit",
+          "quote": 1.9,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-24-gal-avl",
+          "spiel_label": "Galatasaray vs Aston Villa",
+          "markt": "Batrakov Torschuetze jederzeit",
+          "quote": 2.6,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-24-mci-nap",
+          "spiel_label": "Man City vs SSC Napoli",
+          "markt": "Beide Teams treffen",
+          "quote": 1.9,
+          "kategorie": "value"
+        }
+      ],
+      "gesamtquote": 22.54,
+      "rechnung": "2.40 x 1.90 x 2.60 x 1.90 = 22.54",
+      "einsatz_euro": 2.5,
+      "empfohlener_einsatz_prozent": 0.25,
+      "potentieller_gewinn_euro": 56.35,
+      "hinweis": "Drei HR24-Form-Edge-Torschuetzen aus drei verschiedenen Spielen plus BTTS Man City vs Napoli (keine Zu-Null-Pflicht fuer City in PL-Form-Krise). Markt-entkoppelt gegen alle anderen Kombis - keine Sieg-Doublettes."
+    },
+    {
+      "id": "kombi-moonshot",
+      "kategorie": "moonshot",
+      "name": "Moonshot (4 Beine, Underdog + Multi-Scorer, 125x+)",
+      "beine": [
+        {
+          "spiel_id": "2026-11-24-mci-nap",
+          "spiel_label": "Man City vs SSC Napoli",
+          "markt": "Sieg SSC Napoli",
+          "quote": 5.0,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-11-24-rma-psv",
+          "spiel_label": "Real Madrid vs PSV Eindhoven",
+          "markt": "Vinicius Torschuetze jederzeit",
+          "quote": 1.9,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-24-gal-avl",
+          "spiel_label": "Galatasaray vs Aston Villa",
+          "markt": "Jackson 2+ Tore",
+          "quote": 5.5,
+          "kategorie": "risk"
+        },
+        {
+          "spiel_id": "2026-11-24-ars-bvb",
+          "spiel_label": "Arsenal vs Borussia Dortmund",
+          "markt": "Ueber 3.5 Tore",
+          "quote": 2.4,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 125.4,
+      "rechnung": "5.00 x 1.90 x 5.50 x 2.40 = 125.40",
+      "einsatz_euro": 1.0,
+      "empfohlener_einsatz_prozent": 0.1,
+      "potentieller_gewinn_euro": 125.4,
+      "hinweis": "Echter 100x+-Moonshot: Napoli-Außenseiter-Sieg (City in PL-Form-Krise) + Vinicius-Tor (Form-Edge) + Jackson-Doppelpack (3 CL-Tore in 4 Spielen schon, Villa muss offen kommen) + offenes Emirates-Spiel (Ueber 3.5). 1 Euro Spasseinsatz."
+    }
+  ],
+  "lessons_angewandt": [
+    "HR1 Quoten-Range eingehalten: Arsenal-Sieg @1.40 als VALUE (nicht SAFE) wegen HR22-Dampfer durch Raya+Saka OUT.",
+    "HR2 Anti-Heim-Bias: Keine City-Sieg-Tipps trotz Heim-Favoriten-Status, weil City 4 PL-Spiele kein Sieg = Form-Krise. Nur Haaland-Torschuetze und BTTS.",
+    "HR4 Story-Konflikt: Kein Spiel SAFE wenn Motivations-Asymmetrie Coinflip oder Ausfall-Dampfer sagt. Galatasaray-Villa bewusst Coinflip-Set (max 3-4 Tipps, kein SAFE).",
+    "HR22 Star-OUT: Arsenal Sieg-Tipp-Degradierung wegen Raya + Saka OUT. Gyokeres als zentraler 9er bleibt HR24-Kandidat.",
+    "HR23 Layer-3-Diversifikation: Jedes Spiel in 2-3 Kombis, Markt-entkoppelt (Sieg vs Torschuetze vs BTTS vs Tor-Total).",
+    "HR24 Form-Edge-Pflicht Torschuetzen: Mbappe, Haaland, Gyokeres, Vinicius, Jackson, Batrakov, Nusa - alle mit mindestens 2 von 3 HR24-Bedingungen (Form, zentrale Rolle, Gegner-Defense-Schwaeche).",
+    "Markt-Goldgruben aktiv genutzt: Sieg 1X2 (Real, Leipzig, Arsenal, Galatasaray), Torschuetzen Jederzeit (6 verschiedene), Ueber 2.5 Tore (2 Spiele), BTTS (3 Spiele). Keine DC-Tipps, weil Quoten auf Goldgrube-Teams unter SAFE-Range fallen.",
+    "Kader-Frische: Jackson-Zuordnung (Chelsea -> Villa 01.09.2026) laut kader_wechsel_2026.json verifiziert. Mbeumo-Hinweis (Brentford, nicht Arsenal) in Arsenal-News explizit.",
+    "CL-2:0-Insurance: Bei allen CL-Sieg-Tipps in den Begruendungen ausgewiesen. Gilt nicht fuer Torschuetzen-Tipps.",
+    "Zeitfenster-Hartregel eingehalten: Alle 5 Spiele mit Anstoss am 24.11.2026 Berliner Zeit (18:45 CET Galatasaray + 21:00 CET die anderen vier)."
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten | Sucht-Hilfe BZgA: 0800 1372700 | Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "_verifikations_report": {
+    "erstellt_am": "2026-11-24T12:05:00+01:00",
+    "durchgefuehrt_von": "Safety-Net Backstop (inline-Verifikation nach verifikation.md)",
+    "drops": [],
+    "downgrades": [
+      {
+        "tipp_id": "ars-bvb-1",
+        "vorher": "safe",
+        "nachher": "value",
+        "grund": "HR22 Star-OUT: Raya (Torwart) + Saka verletzt laut mehreren Preview-Artikeln. Reduziert Arsenal-Zu-Null-Potenzial und Offensiv-Breite. SAFE nicht legitim."
+      },
+      {
+        "tipp_id": "gal-avl-3",
+        "vorher": "value",
+        "nachher": "wackel",
+        "grund": "HR Coinflip-Regel: Marktquoten 2.50/3.40/2.70 im Coinflip-Range (2.40-3.50). Kein SAFE/VALUE auf Sieg-Tipps in diesem Spiel moeglich."
+      }
+    ],
+    "warns": [
+      {
+        "art": "datenquelle",
+        "details": "Kein data/recherche/2026-11-24.json vorhanden (Haupt-Routine + Watchdog beide ausgefallen). Spielplan und Quoten via WebSearch kuratiert aus mehreren Preview-Sites. Quoten sind Marktrichtwerte - vor Einsatz bei bet365 live pruefen."
+      },
+      {
+        "art": "trainer_namen",
+        "details": "In der Man-City-Napoli-Preview-Quelle wurde der City-Trainer als 'Maresca' bezeichnet - der Name koennte veraltet sein (Maresca war zuletzt bei Chelsea). Vor Einsatz Trainer-Namen bei mancity.com / aktueller Pressekonferenz verifizieren. Betrifft keine Tipp-Entscheidungen, nur das news[]-Feld."
+      },
+      {
+        "art": "aufstellungen",
+        "details": "Villa-Lazarett und Galatasaray-Aufstellung vor Anstoss in kicker.de/Klub-Site checken. Icardi/Baris Yilmaz fraglich (keine Laenderspielpausen-Info). Batrakov-Russland-Status unklar (sanktionsbedingt eventuell gespielt oder nicht)."
+      },
+      {
+        "art": "markt_mix",
+        "details": "Null DC-Tipps im Dossier, obwohl DC 1X und DC X2 Goldgrube-Maerkte sind. Grund: fuer die CL-MD5-Favoriten (Arsenal, Real, Leipzig) liegen die DC-Quoten unter der SAFE-Range-Untergrenze von 1.30 (Arsenal DC 1X um 1.08, Real DC 1X um 1.05). DC-Edge nicht ausnutzbar."
+      },
+      {
+        "art": "kombi_struktur",
+        "details": "Balance-Kombi ist Sieg-lastig (4 Favoriten-Siege). Alternative mit Mix war wegen Layer-2-Restriktionen unter 6x. Konservative Loesung gewaehlt."
+      },
+      {
+        "art": "layer3_weich",
+        "details": "Spieler-Korrelation: Jackson-Torschuetze in Risiko und Jackson 2+ Tore in Moonshot sind korreliert, aber als getrennte bet365-Produkte formal verschiedene Maerkte. Mbappe-Torschuetze in Safe und Vinicius-Torschuetze in Moonshot sind markt-entkoppelt (verschiedene Spieler)."
+      },
+      {
+        "art": "hr22_arsenal",
+        "details": "Arsenal-Lazarett (Raya + Saka OUT) laut Preview-Quellen. Falls bis Anstoss doch verfuegbar: Arsenal-Sieg-Edge waechst, aber Tipp bleibt VALUE wegen Dossier-Konsistenz."
+      }
+    ],
+    "halluzinations_checks_bestanden": [
+      "Kein Adeyemi-Tipp (lebt in Barcelona laut kader_wechsel_2026.json).",
+      "Kein Ndiaye-Tipp als Everton-Spieler (lebt bei Man City laut kader_wechsel).",
+      "Kein Wissa-Tipp als Brentford-Spieler.",
+      "Kein Mbeumo-Tipp als Arsenal-Spieler (ist bei Brentford, in Arsenal-News explizit vermerkt).",
+      "Alle Transfer-Verifikationen gegen kader_wechsel_2026.json bestanden."
+    ],
+    "zeitfenster_check": "PASS - alle 5 Spiele mit Anstoss am 24.11.2026 CET (18:45 Galatasaray-Villa, 21:00 die anderen vier).",
+    "layer_checks": {
+      "layer_1_max_1_bein_pro_spiel_pro_kombi": "PASS",
+      "layer_2_max_1_sieg_outcome_pro_spiel_ueber_alle_kombis": "PASS - Arsenal Sieg (Balance), Real Sieg (Balance), Leipzig Sieg (Balance), Galatasaray Sieg (Balance), Napoli Sieg (Moonshot). Keine Dopplung.",
+      "layer_3_max_1_bein_pro_spiel_ueber_alle_kombis_wo_moeglich": "WEICH - 5 Spiele in 4 Kombis mit 14 Bein-Plaetzen = bis zu 3 Kombis pro Spiel. Markt-entkoppelt (Sieg/Torschuetze/BTTS/Tor-Total)."
+    },
+    "gesamtquoten_nachgerechnet": {
+      "safe": "1.50 * 1.55 * 1.60 = 3.720 ✓",
+      "balance": "1.40 * 1.30 * 1.40 * 2.50 = 6.370 ✓",
+      "risk": "2.40 * 1.90 * 2.60 * 1.90 = 22.541 (auf 22.54 gerundet) ✓",
+      "moonshot": "5.00 * 1.90 * 5.50 * 2.40 = 125.40 ✓"
+    }
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "id": "rma-psv-1",
+      "spiel_id": "2026-11-24-rma-psv",
+      "spiel_label": "Real Madrid vs PSV Eindhoven",
+      "kategorie": "safe",
+      "markt": "Sieg Real Madrid (90 Min)",
+      "quote": 1.3,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Real in 9-Siege-Serie, PSV mit 4 Ausfaellen. CL-2:0-Insurance aktiv. Markt-Goldgrube 'Sieg 1X2'. 20 Euro bei 1000 Euro Kasse.",
+      "rang": 1,
+      "status": "gewonnen",
+      "kommentar": "Real gewinnt 5:1 nach 0:1-Rueckstand. Auch CL-2:0-Insurance greift (Real zwischenzeitlich 4:1)."
+    },
+    {
+      "id": "rbl-len-1",
+      "spiel_id": "2026-11-24-rbl-len",
+      "spiel_label": "RB Leipzig vs RC Lens",
+      "kategorie": "safe",
+      "markt": "Sieg RB Leipzig (90 Min)",
+      "quote": 1.4,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "Leipzig-Hochform vs Lens -12 GD. CL-2:0-Insurance aktiv. Markt-Goldgrube 'Sieg 1X2'. 20 Euro bei 1000 Euro Kasse.",
+      "rang": 2,
+      "status": "gewonnen",
+      "kommentar": "Leipzig gewinnt 3:1. CL-2:0-Insurance zusaetzlich sicher (2:0 bereits nach 9 Min)."
+    },
+    {
+      "id": "rma-psv-2",
+      "spiel_id": "2026-11-24-rma-psv",
+      "spiel_label": "Real Madrid vs PSV Eindhoven",
+      "kategorie": "safe",
+      "markt": "Kylian Mbappe Torschuetze jederzeit",
+      "quote": 1.5,
+      "einsatz_euro": 20.0,
+      "empfohlener_einsatz_prozent": 2.0,
+      "begruendung": "HR24-Vollerfuellung: Topscorer + zentraler 9er + PSV-Defense durch Ausfaelle anfaellig. Markt-Goldgrube Torschuetzen. 20 Euro.",
+      "rang": 3,
+      "status": "gewonnen",
+      "kommentar": "Mbappe Doppelpack (64' + 84')."
+    },
+    {
+      "id": "ars-bvb-1",
+      "spiel_id": "2026-11-24-ars-bvb",
+      "spiel_label": "Arsenal vs Borussia Dortmund",
+      "kategorie": "value",
+      "markt": "Sieg Arsenal (90 Min)",
+      "quote": 1.4,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Arsenal ungeschlagen in CL-Ligaphase, CL-2:0-Insurance. HR22-Dampfer wegen Raya + Saka OUT - deshalb VALUE statt SAFE. 15 Euro.",
+      "rang": 4,
+      "status": "verloren",
+      "kommentar": "Arsenal-Sieg-Tipp verloren (1:1). Arsenal fuehrte zwar 1:0, aber nie 2:0 -> keine CL-2:0-Insurance."
+    },
+    {
+      "id": "mci-nap-1",
+      "spiel_id": "2026-11-24-mci-nap",
+      "spiel_label": "Man City vs SSC Napoli",
+      "kategorie": "value",
+      "markt": "Erling Haaland Torschuetze jederzeit",
+      "quote": 1.55,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "HR24: Haaland Form + Napoli Rafa-Marin-Sperre. Markt-Goldgrube Torschuetzen. 15 Euro.",
+      "rang": 5,
+      "status": "verloren",
+      "kommentar": "Haaland ohne Tor (nur 1 Schuss aufs Tor). Keine klare Quelle fuer Haaland-Auswechslung + Ersatz-Tor -> Einwechslungs-Boost nicht belegt."
+    },
+    {
+      "id": "rma-psv-3",
+      "spiel_id": "2026-11-24-rma-psv",
+      "spiel_label": "Real Madrid vs PSV Eindhoven",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.6,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Real offensiv-stark + PSV offensiv-aktiv. Markt-Goldgrube 'Ueber 2.5' (66.7 Prozent / +27.5 Prozent). 15 Euro.",
+      "rang": 6,
+      "status": "gewonnen",
+      "kommentar": "6 Tore insgesamt - locker Ueber 2.5."
+    },
+    {
+      "id": "rbl-len-2",
+      "spiel_id": "2026-11-24-rbl-len",
+      "spiel_label": "RB Leipzig vs RC Lens",
+      "kategorie": "value",
+      "markt": "Ueber 2.5 Tore",
+      "quote": 1.6,
+      "einsatz_euro": 15.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "begruendung": "Lens -12 GD + Leipzig 3+ Tore in Serie. Markt-Goldgrube. 15 Euro.",
+      "rang": 7,
+      "status": "gewonnen",
+      "kommentar": "4 Tore - Ueber 2.5 durch."
+    },
+    {
+      "id": "gal-avl-2",
+      "spiel_id": "2026-11-24-gal-avl",
+      "spiel_label": "Galatasaray vs Aston Villa",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.75,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Gala heim-offensiv (Batrakov + Yilmaz), Villa muss kommen (Jackson). Markt-Goldgrube BTTS. 10 Euro.",
+      "rang": 8,
+      "status": "verloren",
+      "kommentar": "Nur Galatasaray trifft (1:0). BTTS NEIN."
+    },
+    {
+      "id": "ars-bvb-3",
+      "spiel_id": "2026-11-24-ars-bvb",
+      "spiel_label": "Arsenal vs Borussia Dortmund",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.8,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "Dortmund trifft in jedem CL-Spiel bislang, Arsenal-Zu-Null bei Raya-Ausfall fragwuerdig. Markt-Goldgrube BTTS. 10 Euro.",
+      "rang": 9,
+      "status": "gewonnen",
+      "kommentar": "BTTS JA: Gyokeres 9', Beier 55'."
+    },
+    {
+      "id": "ars-bvb-2",
+      "spiel_id": "2026-11-24-ars-bvb",
+      "spiel_label": "Arsenal vs Borussia Dortmund",
+      "kategorie": "value",
+      "markt": "Viktor Gyokeres Torschuetze jederzeit",
+      "quote": 1.9,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "HR24: zentraler 9er + Dortmund-Defense unter Emirates-Druck anfaellig. Markt-Goldgrube Torschuetzen. 10 Euro.",
+      "rang": 10,
+      "status": "gewonnen",
+      "kommentar": "Gyokeres traf in der 9. Minute zur Fuehrung."
+    },
+    {
+      "id": "mci-nap-2",
+      "spiel_id": "2026-11-24-mci-nap",
+      "spiel_label": "Man City vs SSC Napoli",
+      "kategorie": "value",
+      "markt": "Beide Teams treffen",
+      "quote": 1.9,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "City offensiv zuverlaessig, City-Defense in PL-Krise - Napoli nutzt Raum. Markt-Goldgrube. 10 Euro.",
+      "rang": 11,
+      "status": "gewonnen",
+      "kommentar": "BTTS klar JA bei 2:2."
+    },
+    {
+      "id": "rma-psv-4",
+      "spiel_id": "2026-11-24-rma-psv",
+      "spiel_label": "Real Madrid vs PSV Eindhoven",
+      "kategorie": "value",
+      "markt": "Vinicius Junior Torschuetze jederzeit",
+      "quote": 1.9,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "HR24: Vinicius Form + PSV-Defense geschwaecht. Markt-Goldgrube. 10 Euro.",
+      "rang": 12,
+      "status": "gewonnen",
+      "kommentar": "Vinicius Jr. trifft 87' zum 5:1."
+    },
+    {
+      "id": "gal-avl-1",
+      "spiel_id": "2026-11-24-gal-avl",
+      "spiel_label": "Galatasaray vs Aston Villa",
+      "kategorie": "value",
+      "markt": "Nicolas Jackson Torschuetze jederzeit",
+      "quote": 2.3,
+      "einsatz_euro": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "begruendung": "HR24-Vollerfuellung: 3 CL-Tore in 4 Spielen, zentraler 9er, Gala-Defense schlagbar. Markt-Goldgrube. 10 Euro.",
+      "rang": 13,
+      "status": "verloren",
+      "kommentar": "Jackson ohne Tor (Chancen vergeben, Gelbe Karte). Scorer Deniz Gul ist Gala-Spieler, Jackson-Einwechslungs-Boost formal nicht anwendbar (Mannschaftsfremd)."
+    },
+    {
+      "id": "rbl-len-3",
+      "spiel_id": "2026-11-24-rbl-len",
+      "spiel_label": "RB Leipzig vs RC Lens",
+      "kategorie": "wackel",
+      "markt": "Antonio Nusa Torschuetze jederzeit",
+      "quote": 2.4,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "HR24: Form-Edge-Fluegel (1 Tor + 8 Chancen in 11 Shots). Lens-Defense ueberlastet. 5 Euro.",
+      "rang": 14,
+      "status": "gewonnen",
+      "kommentar": "Nusa-Doppelpack (9' und 90+4'). HR24-Form-Edge voll bestaetigt."
+    },
+    {
+      "id": "gal-avl-3",
+      "spiel_id": "2026-11-24-gal-avl",
+      "spiel_label": "Galatasaray vs Aston Villa",
+      "kategorie": "wackel",
+      "markt": "Sieg Galatasaray (90 Min)",
+      "quote": 2.5,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "Istanbul-Hexenkessel + Villa-Lazarett. CL-2:0-Insurance aktiv. Coinflip-Range deshalb WACKEL. 5 Euro.",
+      "rang": 15,
+      "status": "gewonnen",
+      "kommentar": "Galatasaray gewinnt 1:0 (Deniz Gul 77'). Istanbul-Hexenkessel bestaetigt."
+    },
+    {
+      "id": "gal-avl-4",
+      "spiel_id": "2026-11-24-gal-avl",
+      "spiel_label": "Galatasaray vs Aston Villa",
+      "kategorie": "wackel",
+      "markt": "Aleksey Batrakov Torschuetze jederzeit",
+      "quote": 2.6,
+      "einsatz_euro": 5.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "begruendung": "HR24: 4 CL-Tore in 4 Spielen, davon 3 im RAMS Park. Heim-Stark. 5 Euro.",
+      "rang": 16,
+      "status": "verloren",
+      "kommentar": "Batrakov ohne Tor. Einwechslungs-Boost fuer Batrakov nur anwendbar wenn Batrakov selbst ausgewechselt wurde UND Deniz Gul direkt sein Ersatz war - keine Quelle belegt das live, daher konservativ verloren (im Zweifel manuell nachtragen wenn UEFA-Lineup das bestaetigt)."
+    },
+    {
+      "id": "mci-nap-3",
+      "spiel_id": "2026-11-24-mci-nap",
+      "spiel_label": "Man City vs SSC Napoli",
+      "kategorie": "risk",
+      "markt": "Sieg SSC Napoli (90 Min)",
+      "quote": 5.0,
+      "einsatz_euro": 2.5,
+      "empfohlener_einsatz_prozent": 0.25,
+      "begruendung": "Lotterie-Tipp. City in PL-Krise + Napoli muss offensiv kommen. CL-2:0-Insurance zaehlt auch fuer Napoli. 2.50 Euro.",
+      "rang": 17,
+      "status": "verloren",
+      "kommentar": "Napoli nur Remis (2:2); Napoli fuehrte 1:0 und 2:1, aber nie 2:0 -> keine CL-Insurance anwendbar."
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "kombi-safe",
+      "name": "Safe (3 Beine, Torschuetzen + Totals aus Goldgrube-Markets)",
+      "status": "verloren",
+      "gesamtquote": 3.72,
+      "beine_status": [
+        "gewonnen",
+        "verloren",
+        "gewonnen"
+      ]
+    },
+    {
+      "kombi_id": "kombi-balance",
+      "name": "Balance (4 Beine, 4 Favoriten-Siege CL-MD5)",
+      "status": "verloren",
+      "gesamtquote": 6.37,
+      "beine_status": [
+        "verloren",
+        "gewonnen",
+        "gewonnen",
+        "gewonnen"
+      ]
+    },
+    {
+      "kombi_id": "kombi-risk",
+      "name": "Risiko (4 Beine, Torschuetzen + BTTS, 20x)",
+      "status": "verloren",
+      "gesamtquote": 22.54,
+      "beine_status": [
+        "gewonnen",
+        "gewonnen",
+        "verloren",
+        "gewonnen"
+      ]
+    },
+    {
+      "kombi_id": "kombi-moonshot",
+      "name": "Moonshot (4 Beine, Underdog + Multi-Scorer, 125x+)",
+      "status": "verloren",
+      "gesamtquote": 125.4,
+      "beine_status": [
+        "verloren",
+        "gewonnen",
+        "verloren",
+        "verloren"
+      ]
+    }
+  ],
+  "ausgewertet_am": "2026-11-25T06:08:03+00:00"
+}

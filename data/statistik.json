@@ -1,5 +1,5 @@
 {
-  "letzte_berechnung": "2026-11-24T06:14:15+00:00",
+  "letzte_berechnung": "2026-11-25T06:15:52+00:00",
   "gesamt": {
     "tipps": 241,
     "gewonnen": 149,
@@ -12,15 +12,15 @@
     "roi_prozent": 34.6
   },
   "letzte_30_tage": {
-    "tipps": 120,
-    "gewonnen": 67,
-    "verloren": 44,
+    "tipps": 110,
+    "gewonnen": 60,
+    "verloren": 43,
     "push": 0,
-    "offen": 9,
-    "einsatz": 111.0,
-    "netto": 18.38,
-    "trefferquote": 60.4,
-    "roi_prozent": 16.6
+    "offen": 7,
+    "einsatz": 103.0,
+    "netto": 16.51,
+    "trefferquote": 58.3,
+    "roi_prozent": 16.0
   },
   "letzte_90_tage": {
     "tipps": 241,
@@ -2718,6 +2718,331 @@
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-11-24",
+      "gesamt": {
+        "tipps": 17,
+        "gewonnen": 11,
+        "verloren": 6,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 17.0,
+        "netto": 2.8,
+        "trefferquote": 64.7,
+        "roi_prozent": 16.5
+      },
+      "spiele": [
+        {
+          "id": "2026-11-24-ars-bvb",
+          "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 5",
+          "heim": "Arsenal FC",
+          "gast": "Borussia Dortmund",
+          "endstand": "1:1",
+          "tipps": [
+            {
+              "markt": "Sieg Arsenal (90 Min)",
+              "quote": 1.4,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Arsenal-Sieg-Tipp verloren (1:1). Arsenal fuehrte zwar 1:0, aber nie 2:0 -> keine CL-2:0-Insurance."
+            },
+            {
+              "markt": "Viktor Gyokeres Torschuetze jederzeit",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.9,
+              "kommentar": "Gyokeres traf in der 9. Minute zur Fuehrung."
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.8,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.8,
+              "kommentar": "BTTS JA: Gyokeres 9', Beier 55'."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-24-rma-psv",
+          "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 5",
+          "heim": "Real Madrid CF",
+          "gast": "PSV Eindhoven",
+          "endstand": "5:1",
+          "tipps": [
+            {
+              "markt": "Sieg Real Madrid (90 Min)",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.3,
+              "kommentar": "Real gewinnt 5:1 nach 0:1-Rueckstand. Auch CL-2:0-Insurance greift (Real zwischenzeitlich 4:1)."
+            },
+            {
+              "markt": "Kylian Mbappe Torschuetze jederzeit",
+              "quote": 1.5,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.5,
+              "kommentar": "Mbappe Doppelpack (64' + 84')."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.6,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.6,
+              "kommentar": "6 Tore insgesamt - locker Ueber 2.5."
+            },
+            {
+              "markt": "Vinicius Junior Torschuetze jederzeit",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.9,
+              "kommentar": "Vinicius Jr. trifft 87' zum 5:1."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-24-mci-nap",
+          "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 5",
+          "heim": "Manchester City",
+          "gast": "SSC Napoli",
+          "endstand": "2:2",
+          "tipps": [
+            {
+              "markt": "Erling Haaland Torschuetze jederzeit",
+              "quote": 1.55,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Haaland ohne Tor (nur 1 Schuss aufs Tor). Keine klare Quelle fuer Haaland-Auswechslung + Ersatz-Tor -> Einwechslungs-Boost nicht belegt."
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.9,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.9,
+              "kommentar": "BTTS klar JA bei 2:2."
+            },
+            {
+              "markt": "Sieg SSC Napoli (90 Min)",
+              "quote": 5.0,
+              "kategorie": "risk",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Napoli nur Remis (2:2); Napoli fuehrte 1:0 und 2:1, aber nie 2:0 -> keine CL-Insurance anwendbar."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-24-rbl-len",
+          "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 5",
+          "heim": "RB Leipzig",
+          "gast": "RC Lens",
+          "endstand": "3:1",
+          "tipps": [
+            {
+              "markt": "Sieg RB Leipzig (90 Min)",
+              "quote": 1.4,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.4,
+              "kommentar": "Leipzig gewinnt 3:1. CL-2:0-Insurance zusaetzlich sicher (2:0 bereits nach 9 Min)."
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.6,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 0.6,
+              "kommentar": "4 Tore - Ueber 2.5 durch."
+            },
+            {
+              "markt": "Antonio Nusa Torschuetze jederzeit",
+              "quote": 2.4,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.4,
+              "kommentar": "Nusa-Doppelpack (9' und 90+4'). HR24-Form-Edge voll bestaetigt."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-24-gal-avl",
+          "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 5",
+          "heim": "Galatasaray SK",
+          "gast": "Aston Villa",
+          "endstand": "1:0",
+          "tipps": [
+            {
+              "markt": "Nicolas Jackson Torschuetze jederzeit",
+              "quote": 2.3,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Jackson ohne Tor (Chancen vergeben, Gelbe Karte). Scorer Deniz Gul ist Gala-Spieler, Jackson-Einwechslungs-Boost formal nicht anwendbar (Mannschaftsfremd)."
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.75,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Nur Galatasaray trifft (1:0). BTTS NEIN."
+            },
+            {
+              "markt": "Sieg Galatasaray (90 Min)",
+              "quote": 2.5,
+              "kategorie": "wackel",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.5,
+              "kommentar": "Galatasaray gewinnt 1:0 (Deniz Gul 77'). Istanbul-Hexenkessel bestaetigt."
+            },
+            {
+              "markt": "Aleksey Batrakov Torschuetze jederzeit",
+              "quote": 2.6,
+              "kategorie": "wackel",
+              "status": "verloren",
+              "gewinn_faktor": -1.0,
+              "kommentar": "Batrakov ohne Tor. Einwechslungs-Boost fuer Batrakov nur anwendbar wenn Batrakov selbst ausgewechselt wurde UND Deniz Gul direkt sein Ersatz war - keine Quelle belegt das live, daher konservativ verloren (im Zweifel manuell nachtragen wenn UEFA-Lineup das bestaetigt)."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe (3 Beine, Torschuetzen + Totals aus Goldgrube-Markets)",
+          "kategorie": "safe",
+          "gesamtquote": 3.72,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Mbappe Torschuetze jederzeit",
+              "quote": 1.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Haaland Torschuetze jederzeit",
+              "quote": 1.55,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 2.5 Tore",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance (4 Beine, 4 Favoriten-Siege CL-MD5)",
+          "kategorie": "balance",
+          "gesamtquote": 6.37,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Arsenal",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Real Madrid",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg RB Leipzig",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Galatasaray",
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko (4 Beine, Torschuetzen + BTTS, 20x)",
+          "kategorie": "risk",
+          "gesamtquote": 22.54,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Nusa Torschuetze jederzeit",
+              "quote": 2.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Gyokeres Torschuetze jederzeit",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Batrakov Torschuetze jederzeit",
+              "quote": 2.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot (4 Beine, Underdog + Multi-Scorer, 125x+)",
+          "kategorie": "moonshot",
+          "gesamtquote": 125.4,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg SSC Napoli",
+              "quote": 5.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Vinicius Torschuetze jederzeit",
+              "quote": 1.9,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Jackson 2+ Tore",
+              "quote": 5.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Ueber 3.5 Tore",
+              "quote": 2.4,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-11-23",
       "gesamt": {
