@@ -4246,7 +4246,31 @@
       "kategorie": "Spaet-Tor-Cluster CL-MD5",
       "lesson": "HR11-25-4 Spaet-Tor-Cluster ueber alle 5 analysierten Spiele: Beier 55', Udol 58', Hojlund 55', Lang 76', Cherki 86', Mbappe 84', Vinicius 87', Gul 77', Nusa 90+4 - 9 von 16 Treffern nach Minute 55 (~56%). Fortsetzung des Patterns aus HR11-02-3, HR10-19-3, HR08-22-3. Praxis: BTTS/Ueber-2.5/Torschuetzen-Jederzeit bei Favoriten-Heim-Spielen bleibt Goldgrube - die Tore kommen oft erst spaet. Der FRUEH-Tor-Blueprint (Leipzig Raum 6'+Nusa 9') bleibt eher Sonder- als Regelfall.",
       "bezug_spiel_id": "2026-11-24-rbl-len"
+    },
+    {
+      "datum": "2026-11-25",
+      "kategorie": "Kategorie-Reality CL-MD5",
+      "lesson": "HR11-25-5 Kategorie-Reality-Check CL-MD5 Mittwoch: 2/3 SAFE-Sieg-Tipps (PSG, Inter, Atleti) nur 2 getroffen (Atleti 2:0, Inter 2:0, PSG nur 2:2) = Hitrate 67% innerhalb SAFE-Tag-Scope. Trotz Kane-Lazarett war PSG 1.30 fuer 4/4-Sieger-Team nicht sicher - Roma Hermoso-Fruehtor plus Malen-Elfer zeigen dass CL-Spitze auch gegen Favoriten immer Tor-Risiko hat. Praxis: 2:0-Insurance ist Nachsorge, kein SAFE-Argument.",
+      "bezug_spiel_id": "2026-11-25-psg-rom"
+    },
+    {
+      "datum": "2026-11-25",
+      "kategorie": "Volumen-9er Goldgrube bestaetigt",
+      "lesson": "HR11-25-6 Torschuetzen-Jederzeit-Cluster CL-MD5 Mittwoch: 5/7 getippte Volumen-9er trafen (Dembele, Isak Doppelpack, Alvarez FK, Ueda, Fernandes Doppelpack) - Hitrate 71% bei Quoten 1.70-3.80. Goldgrube-Markt-Typ Torschuetzen Jederzeit bleibt priorisieren. Einwechslungs-Boost-Nachsorge nicht noetig wo Hauptspieler direkt trifft - Spar-Entscheidung: wo Boost mangels Quellen nicht bestaetigt werden kann, Tipp als verloren auswerten (Thuram, Musiala, Lukaku). Praxis: Volumen-9er mit hoher Startelf-Garantie bleibt top Markt-Pick.",
+      "bezug_spiel_id": "2026-11-25-brg-liv"
+    },
+    {
+      "datum": "2026-11-25",
+      "kategorie": "Favoriten-Sieg vs Doppelte Chance",
+      "lesson": "HR11-25-7 Coinflip-Modus funktioniert: 3 der 4 CL-MD5-Spiele ohne klaren Favoriten endeten Remis oder in Form der nicht-favorisierten Seite (PSG-Roma 2:2, Sporting-ManU 2:2, Shakhtar-Fener 0:1). DC X2 (Fener) und DC 1X (Sporting) trafen beide. Lille-Bayern war verdeckter Coinflip (Bayern-Lazarett) - Sieg-Bayern verloren. Praxis: Bei Quoten 1.50-2.80 beidseitig (impliziert <55% Fav-Siegchance) DC-Tipps > direkter Sieg.",
+      "bezug_spiel_id": "2026-11-25-sha-fen"
+    },
+    {
+      "datum": "2026-11-25",
+      "kategorie": "Einwechslungs-Boost Quellen-Pflicht",
+      "lesson": "HR11-25-8 Einwechslungs-Boost-Anwendung erfordert explizite Substitutions-Quelle (Lineup + Minute + Ersatz-Minute). Bei Shakhtar-Fener Muriqi als Scorer bekannt, aber Lukaku-Auswechslung + Muriqi-Einwechslung nicht direkt belegt - Boost nicht angewandt. Gleicher Fall bei Thuram/Lautaro und Musiala/Diaz. Praxis: In zukuenftigen Auswertungen gezielt nach 'Starting XI' + 'Substitutions' suchen, nicht nur nach Scorer-Listen - sonst entfallen 2-3 potenzielle Boost-Gewinne pro Spieltag.",
+      "bezug_spiel_id": "2026-11-25-int-stu"
     }
   ],
-  "stand": "2026-11-25"
+  "stand": "2026-11-26"
 }

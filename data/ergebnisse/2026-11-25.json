@@ -1,0 +1,1950 @@
+{
+  "datum": "2026-11-25",
+  "erstellt_am": "2026-11-25T21:40:00+01:00",
+  "_emergency_recovery": true,
+  "_emergency_hinweis": "Haupt-Routine + Vormittags-Watchdog hatten keinen Recherche-File (data/recherche/2026-11-25.json fehlt). Dossier vom Safety-Net-Backstop via WebSearch (uefa.com, bolavip, sportsmole, goal.com, oddschecker, bet365-Oddsprev). Quoten sind Marktrichtwerte aus Preview-Artikeln - vor jedem Einsatz bei bet365 live pruefen.",
+  "hinweis": "CL-Ligaphase Spieltag 5, Mittwochs-Haelfte: 9 Spiele angesetzt, 2 davon 18:45 (Slavia 0:1 Villarreal, Sabah 1:4 Barça) bereits abgepfiffen und daher NICHT im Dossier (keine Ghost-Tipps). 7 x 21:00-Spiele aufgenommen: PSG-Roma, Inter-Stuttgart, Lille-Bayern, Brügge-Liverpool, Atleti-Viking, Sporting-ManU, Shakhtar-Fener. Bayern reist mit massivem Lazarett an (Kane 2 Monate, Davies, Neuer, Gnabry, Saibari raus; Diaz+Olise fraglich) - Sieg-Tipp daher VALUE statt SAFE, Musiala als Haupt-Scorer aufgewertet. Atleti vs Viking als Top-SAFE (-909 Buchmacher), PSG Heim-Festung jagt 15-ungeschlagen-Rekord. Coinflips (Sporting-ManU, Shakhtar-Fener) ohne SAFE. Kasse 1000 EUR, Stufe 1.",
+  "spiele": [
+    {
+      "id": "2026-11-25-psg-rom",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 5",
+      "heim": "Paris Saint-Germain",
+      "gast": "AS Roma",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "stadion": "Parc des Princes, Paris",
+      "saison_kontext": {
+        "parallel_heim": "Ligue 1 am Wochenende (Rotation nach dem CL-Spiel möglich, nicht davor)",
+        "parallel_gast": "Serie A am Wochenende - Gasperini rotiert routiniert zwischen Liga und CL",
+        "saisonziel_heim": "CL-Titelverteidigung + Ligue-1-Meisterschaft. CL-Tabelle Platz 2 mit 12 Pkt aus 4 Spielen (4-0-0). Luis Enrique jagt Rekord 15 CL-Spiele ungeschlagen (französischer Klub).",
+        "saisonziel_gast": "CL-K.O.-Playoff-Qualifikation. CL-Tabelle Platz 23 mit 4 Pkt (1-1-2) - muss liefern um unter Top-24 zu bleiben.",
+        "motivations_asymmetrie": "Klassen- + Form-Edge klar auf PSG-Seite - Parc des Princes als Heim-Festung, volle Kaderbreite trotz Doue/Kvaratskhelia (Kreuzband langzeit raus). Roma mit Gasperini defensiv solide (nur 3 Gegentore in 4 CL-Spielen), Malen+Dovbyk offensiv gefährlich. PSG-Sieg bleibt klarer Favoriten-Call, aber nicht Coinflip-Walkover.",
+        "recovery_heim": "3 Tage seit Ligue-1-Spiel (Sa 22.11.) - frisch",
+        "recovery_gast": "4 Tage seit Serie-A-Spiel (Sa 21.11.) - Reise, normale Belastung",
+        "quellen": [
+          "https://www.uefa.com/uefachampionsleague/news/02a8-2176fa83582b-d99f0b27f405-1000--champions-league-league-phase-fixtures-and-results-by-team/",
+          "https://www.psg.fr/en/matches/mens-football/20262027/paris-vs-roma-2026-11-25",
+          "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/paris-saint-germain-vs-roma-date-time-and-everything-you-need-to-know-about-the-champions-league-clash-2026-11-25"
+        ]
+      },
+      "news": [
+        "PSG XI (4-3-3) laut Vorab-Aufstellung: Safonov; Hakimi, Marquinhos, Pacho, Mendes; Neves, Vitinha, Ruiz; Akliouche, Dembélé, Mayulu",
+        "Doue + Kvaratskhelia Kreuzbandriss raus (langzeit)",
+        "Ferran Torres (Zugang Barça, seit 14.08.2026) als Rotations-9er im Kader - Dembélé startet",
+        "Malen und de Roon jetzt bei Roma (Malen Doppelpack gegen Real 14.10., de Roon 1:0 gegen Real)",
+        "2:0-Insurance aktiv (CL-Aktionsregel bet365 DE)"
+      ],
+      "tipps": [
+        {
+          "id": "psg-rom-1",
+          "kategorie": "safe",
+          "markt": "Sieg Paris Saint-Germain (90 Min)",
+          "quote": 1.3,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.22,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15,
+          "begruendung": "PSG zuhause gegen Roma mit 4/4 CL-Siegen, Heim-Festung Parc des Princes, Luis Enrique jagt 15-ungeschlagen-Rekord. Markt-Typ Sieg (1X2) ist Goldgrube (+30.4% ROI, 71% Hitrate). 2:0-Insurance (CL) greift als Backup. Einsatz 15 EUR (1.5% Kasse 1000 EUR, Stufe 1). Quote live prüfen.",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "psg-rom-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.65,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.54,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15,
+          "begruendung": "PSG Heim im CL durchschnittlich 2.8 Tore/Spiel. Roma offensiv in Gasperini-Rolle (Malen+Dovbyk+Soule). Markt-Typ Über 2.5 Tore ist Goldgrube (+24.9% ROI). Einsatz 15 EUR. Quote live prüfen.",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "psg-rom-3",
+          "kategorie": "value",
+          "markt": "Dembélé Torschütze jederzeit",
+          "quote": 2.0,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.88,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10,
+          "begruendung": "Dembélé Volume-9er im PSG-System, hohe Startelf-Sicherheit laut Vorab-Aufstellung. Einwechslungs-Boost: falls Dembélé früh raus, zählen Tore von Mayulu/Ferran Torres. Torschützen jederzeit = CL-MD5-Goldgrube-Cluster (6/7 Hits am Dienstag).",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "psg-rom-4",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.85,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.79,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5,
+          "begruendung": "Roma offensiv respektabel (Malen Doppelpack gegen Real CL MD2). PSG defensiv nicht Null-Null-Monster. Als Alternative zu reinem Über 2.5. Einsatz 5 EUR (0.5% Wackel-Regel).",
+          "liga": "UEFA Champions League"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 2,
+        "halbzeit_heim": 1,
+        "halbzeit_gast": 1,
+        "status": "FINISHED"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "psg-rom-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "2:2 Remis - Sieg-Tipp verloren. 2:0-Insurance greift nicht (PSG lag nie mit 2 Toren vorn, max 2:1).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "psg-rom-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.65,
+          "kommentar": "4 Tore - Ueber 2.5 getroffen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "psg-rom-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.0,
+          "kommentar": "Dembele traf per Elfmeter 62' (als Joker eingewechselt) - Torschuetze-jederzeit erfuellt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "psg-rom-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.85,
+          "kommentar": "Beide Teams trafen (2:2).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "1:1",
+        "endstand": "2:2",
+        "tore": [
+          {
+            "min": 5,
+            "team": "gast",
+            "spieler": "Mario Hermoso",
+            "stand_danach": "0:1"
+          },
+          {
+            "min": 31,
+            "team": "heim",
+            "spieler": "Illia Zabarnyi",
+            "stand_danach": "1:1"
+          },
+          {
+            "min": 62,
+            "team": "heim",
+            "spieler": "Ousmane Dembélé",
+            "stand_danach": "2:1",
+            "elfmeter": true,
+            "kommentar": "Dembele kam als Einwechsel-Spieler, verwandelte Elfmeter nach Foul an Hakimi"
+          },
+          {
+            "min": 78,
+            "team": "gast",
+            "spieler": "Donyell Malen",
+            "stand_danach": "2:2",
+            "elfmeter": true,
+            "kommentar": "Elfmeter nach VAR-Check (Handspiel Vitinha)"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Keine Fuehrung ueber 1 Tor Diff - Roma fuehrte 0:1, Ausgleich 1:1, PSG 2:1, Ausgleich 2:2"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "ueber_4_5": false,
+          "halbzeit_endstand": "Remis/Remis",
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Spaetes Tor-Cluster (Dembele 62, Malen 78) - Elfmeter-Entscheidungen durch VAR entscheidend",
+          "PSG erster Punktverlust in dieser CL-Saison - Heim-Serie reisst",
+          "Volumen-9er Dembele trifft wie getippt, aber nicht als Starter sondern als Joker"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-25-int-stu",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 5",
+      "heim": "Inter Mailand",
+      "gast": "VfB Stuttgart",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "stadion": "Giuseppe Meazza (San Siro), Mailand",
+      "saison_kontext": {
+        "parallel_heim": "Serie A am Wochenende",
+        "parallel_gast": "Bundesliga am Wochenende",
+        "saisonziel_heim": "CL-Top-8 + Serie-A-Meisterschaft. CL-Tabelle Platz 17 mit 6 Pkt (2-0-2) - muss nach 2 Niederlagen zu Hause punkten für Playoff.",
+        "saisonziel_gast": "CL-Playoff + obere BL-Hälfte. CL-Tabelle Platz 15 mit 7 Pkt (2-1-1) - erstaunlich stark, auch ohne Woltemade.",
+        "motivations_asymmetrie": "Inter als klarer Heim-Favorit (-244 Buchmacher = 71% implizit). Serie-A-Form zuletzt sehr stark (6/8 Siege, min. 2 Tore in 3 Spielen am Stück). Stuttgart ohne Woltemade (seit 08.07. Newcastle), Undav übernimmt zentral - offensiv noch gefährlich aber dünner im Finishing.",
+        "recovery_heim": "4 Tage seit Serie-A-Spiel",
+        "recovery_gast": "4 Tage seit BL-Spiel",
+        "quellen": [
+          "https://www.inter.it/en/news/standings-league-phase-inter-fixtures-champions-league-26-27",
+          "https://bolavip.com/en/soccer/lineups-for-inter-milan-vs-stuttgart-today-in-2026-27-uefa-champions-league-on-november-25",
+          "https://www.sportsgambler.com/betting-tips/football/inter-milan-vs-stuttgart-prediction-lineups-odds-2026-11-25/"
+        ]
+      },
+      "news": [
+        "Inter XI (3-5-2): J. Martínez; Pavard, Akanji, Bastoni; Spence, Barella, Sučić, Mkhitaryan, Dimarco; Esposito, Thuram",
+        "Stuttgart XI (3-4-2-1): Seimen; Jeltsch, Chabot, Hendriks; El Khannouss, Leweling, Prömel, Karazor, Führich, Mittelstädt; Undav",
+        "Woltemade seit 08.07.2026 bei Newcastle - nicht mehr Stuttgart-Volume-Stürmer, Undav übernimmt",
+        "Inter: 6 Siege aus letzten 8 Spielen, min. 2 Tore in letzten 3 Spielen",
+        "Buchmacher Über 2.5 @ 1.25 - offenes Spiel erwartet"
+      ],
+      "tipps": [
+        {
+          "id": "int-stu-1",
+          "kategorie": "safe",
+          "markt": "Sieg Inter Mailand (90 Min)",
+          "quote": 1.4,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.31,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15,
+          "begruendung": "Inter zuhause 71% implizit, Thuram+Esposito gegen Stuttgart-Defense ohne Chabot/Hendriks auf CL-Niveau. Markt-Typ Sieg = Goldgrube (+30.4% ROI, 71%). 2:0-Insurance (CL) aktiv. Einsatz 15 EUR.",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "int-stu-2",
+          "kategorie": "safe",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.3,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.22,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15,
+          "begruendung": "Buchmacher @ 1.25, Inter 3x in Folge 2+ Tore, Stuttgart offensiv mit Führich+Undav (2:1 vs Villarreal CL MD4). Goldgrube Über 2.5.",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "int-stu-3",
+          "kategorie": "value",
+          "markt": "Thuram Torschütze jederzeit",
+          "quote": 1.9,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.81,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10,
+          "begruendung": "Thuram zentraler 9er neben Esposito, Inter-Heim-Chancenverteilung bei ihm. Einwechslungs-Boost: falls Thuram raus, zählen Tore von Lautaro/Taremi. Torschützen-Jederzeit = Goldgrube-Markt.",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "int-stu-4",
+          "kategorie": "wackel",
+          "markt": "Undav Torschütze jederzeit",
+          "quote": 4.5,
+          "edge_prozent": 10.0,
+          "faire_quote": 4.0,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5,
+          "begruendung": "Undav alleine vorn im Stuttgart-3-4-2-1, Volume-9er-Position. San Siro bietet Chancen-Räume gegen Thuram-Pressing-Schwächen. Einwechslungs-Boost: bei Wechsel zählt Ersatz. Quote-Jagd-Wackel.",
+          "liga": "UEFA Champions League"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 0,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "status": "FINISHED"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "int-stu-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.4,
+          "kommentar": "Inter gewann 2:0 - Sieg-Tipp getroffen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "int-stu-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "2 Tore - Ueber 2.5 verfehlt (nur 2 Treffer).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "int-stu-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Thuram traf nicht, Pfosten/knapp vorbei. Einwechslungs-Boost (Lautaro/Taremi) nicht angewandt: keine explizite Quelle bestaetigt dass Lautaro FUER Thuram kam.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "int-stu-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Undav traf nicht. Keine Daten zu Auswechslung/Ersatz.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": 57,
+            "team": "heim",
+            "spieler": "Petar Sučić",
+            "stand_danach": "1:0",
+            "elfmeter": true,
+            "kommentar": "Elfmeter nach VAR (Handspiel Vagnoman)"
+          },
+          {
+            "min": 74,
+            "team": "heim",
+            "spieler": "Lautaro Martínez",
+            "stand_danach": "2:0",
+            "kommentar": "Nach Flanke Dimarco, Esposito laesst durch, Lautaro trifft aus der Box (als Einwechsel-Spieler)"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Inter kontrolliert, Stuttgart ohne Chance zur Wende"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Remis/Inter",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [
+          {
+            "team": "heim",
+            "ein": "Lautaro Martínez",
+            "aus": "unbekannt (wahrscheinlich Thuram oder Esposito)",
+            "minute": 74,
+            "tor": true,
+            "details": "Lautaro kam von der Bank und erzielte das 2:0. Einwechslungs-Boost auf Thuram nicht bestaetigt mangels expliziter Aufstellungsquelle."
+          }
+        ],
+        "auffaellige_patterns": [
+          "Inter mit Elfer + Joker-Tor - klassische Chivu/Inzaghi-Dramaturgie",
+          "Stuttgart offensiv harmlos ohne Woltemade - Undav isoliert vorn",
+          "Barella Pfosten, Thuram knapp vorbei - 2.5 nur eine Frage von Zentimetern"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-25-lil-bay",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 5",
+      "heim": "LOSC Lille",
+      "gast": "Bayern München",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "stadion": "Stade Pierre-Mauroy, Villeneuve-d'Ascq",
+      "saison_kontext": {
+        "parallel_heim": "Ligue 1 am Wochenende",
+        "parallel_gast": "Bundesliga am Wochenende - Bayern führt klar, Kompany-Rotation möglich",
+        "saisonziel_heim": "CL-Playoff-Qualifikation - aktuell Platz 35 mit nur 1 Pkt aus 4 Spielen, letzte Chance.",
+        "saisonziel_gast": "CL-Titel + BL-Meisterschaft. CL-Platz 14 mit 8 Pkt - Abschluss Top-8 noch möglich.",
+        "motivations_asymmetrie": "Bayern reist mit massiver Verletztenliste: Kane (Sprunggelenk ~2 Monate), Davies, Gnabry, Saibari, Neuer alle raus, Diaz+Olise fraglich. Lennart Karl erstmals als zentraler 9er - Experiment. Lille zuhause im Must-Win-Modus (letzte CL-Chance), offensiv aber dünn (Ueda als einziger echter 9er, Nianzou + Igamane angeschlagen). Klasse-Edge bleibt bei Bayern, Sieg-Quote 1.67 nicht SAFE-Niveau.",
+        "recovery_heim": "4 Tage seit Ligue-1-Spiel",
+        "recovery_gast": "3 Tage seit BL-Spiel (Freiburg 22.11.)",
+        "quellen": [
+          "https://www.goal.com/en-gb/betting/tips/lille-vs-bayern-munich-predictions-25-11-2026/A%3Ablt325de5e601c45e10",
+          "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-lille-vs-bayern-munich-match-in-the-usa-live-stream-and-tv-for-2026-27-uefa-champions-league/",
+          "https://www.squawka.com/en/news/lille-vs-bayern-munich-bet-builder-tips-tonight-25-11-2026/"
+        ]
+      },
+      "news": [
+        "Lille XI (4-2-3-1): Özer; Goffi, Alexsandro, Ngoy, Verdonk; Bentaleb, André; E. Mbappé, Mukau, Haraldsson; Ueda",
+        "Bayern XI (4-2-3-1): Urbig; Laimer, Upamecano, Tah, Stanišić; Pavlović, Kimmich; Musiala, Bischof, Brown; Karl",
+        "Bayern-Lazarett: Kane (Knöchel ~2 Monate), Davies, Gnabry, Saibari, Neuer raus. Diaz (Oberschenkel) + Olise fraglich",
+        "Nathaniel Brown spielt für Bayern (seit 07/2026 - nicht mehr Frankfurt)",
+        "Luis Díaz spielt für Bayern (seit 07/2026 - nicht mehr Liverpool), aktuell verletzt",
+        "Lennart Karl erstmals zentraler 9er statt Kane"
+      ],
+      "tipps": [
+        {
+          "id": "lil-bay-1",
+          "kategorie": "value",
+          "markt": "Sieg Bayern München (90 Min)",
+          "quote": 1.67,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.59,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15,
+          "begruendung": "Bayern trotz Verletzungs-Chaos (Kane, Davies, Gnabry, Saibari raus) mit Musiala/Tah/Upamecano/Kimmich noch Klasse-Edge gegenüber Lille (35. CL-Platz, 1 Pkt aus 4). 2:0-Insurance (CL) greift. Wegen Kane-Ausfall NICHT SAFE sondern VALUE.",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "lil-bay-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15,
+          "begruendung": "Bayern-Offensive mit Musiala+Brown+Bischof trotz Kane noch produktiv. Lille zuhause offensiv ambitioniert (Must-Win). Beide Defensiven wackelig. Goldgrube Über 2.5.",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "lil-bay-3",
+          "kategorie": "value",
+          "markt": "Musiala Torschütze jederzeit",
+          "quote": 2.2,
+          "edge_prozent": 10.0,
+          "faire_quote": 2.0,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10,
+          "begruendung": "Mit Kane raus wird Musiala Haupt-Scoring-Option. Startelf laut Vorab-Aufstellung sicher. Einwechslungs-Boost: wenn Musiala raus, zählen Tore von Diaz (falls Comeback)/Olise. Torschützen = Goldgrube-Markt.",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "lil-bay-4",
+          "kategorie": "wackel",
+          "markt": "Ayase Ueda Torschütze jederzeit",
+          "quote": 3.8,
+          "edge_prozent": 8.0,
+          "faire_quote": 3.5,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5,
+          "begruendung": "Ueda einziger echter 9er bei Lille (Igamane + Nianzou angeschlagen). Bayern mit improvisierter Offensiv-Defensiv-Balance Tah/Upamecano, Lille spielt mit Verzweiflung. Wackel-Einsatz 5 EUR.",
+          "liga": "UEFA Champions League"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 1,
+        "halbzeit_heim": null,
+        "halbzeit_gast": null,
+        "status": "FINISHED"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "lil-bay-1",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Bayern verlor 1:2. 2:0-Insurance greift nicht (Bayern lag nie mit 2 Toren vorn).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "lil-bay-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.75,
+          "kommentar": "3 Tore - Ueber 2.5 getroffen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "lil-bay-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Musiala traf nicht. Einwechslungs-Boost nicht anwendbar: Bayern-Ersatz Diaz/Olise fraglich, keine Quelle zu Musiala-Auswechslung + Ersatz-Torerfolg (nur Upamecano traf fuer Bayern).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "lil-bay-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 3.8,
+          "kommentar": "Ueda traf in der 62. Minute - Torschuetze-jederzeit erfuellt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "2:1",
+        "tore": [
+          {
+            "min": 15,
+            "team": "gast",
+            "spieler": "Dayot Upamecano",
+            "stand_danach": "0:1",
+            "kommentar": "Bayern-Fuehrung durch den IV"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Aleksandar Pavlović (Eigentor)",
+            "stand_danach": "1:1",
+            "eigentor": true,
+            "kommentar": "OG Pavlović - Minute nicht gesichert"
+          },
+          {
+            "min": 62,
+            "team": "heim",
+            "spieler": "Ayase Ueda",
+            "stand_danach": "2:1",
+            "kommentar": "Lilles Fuehrungstor durch den einzigen echten 9er"
+          }
+        ],
+        "drehung": {
+          "war_drehung": true,
+          "details": "Bayern fuehrte 0:1, kassierte Ausgleich + Lille-Fuehrung in 2. Haelfte - Drehung von 0:1 zu 2:1"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "halbzeit_endstand": null,
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Bayern-Verletztenliste (Kane, Davies, Gnabry, Saibari, Neuer) raecht sich - Karl als 9er ohne Torerfolg",
+          "Lille mit Ueda (einziger echter 9er wie prognostiziert) als Matchwinner - Must-Win mit Verzweiflung",
+          "Klassen-Edge auf dem Papier reichte nicht ohne Kane-Finishing. Musiala trotz Startelf ohne Scoring."
+        ]
+      }
+    },
+    {
+      "id": "2026-11-25-brg-liv",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 5",
+      "heim": "Club Brügge",
+      "gast": "Liverpool FC",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "stadion": "Jan Breydelstadion, Brügge",
+      "saison_kontext": {
+        "parallel_heim": "Jupiler Pro League am Wochenende",
+        "parallel_gast": "Premier League am Wochenende",
+        "saisonziel_heim": "CL-Playoff-Qualifikation - aktuell Platz 11 mit 9 Pkt, Top-8 noch drin.",
+        "saisonziel_gast": "CL-Top-8 + PL-Titelrennen. CL-Platz 10 mit 9 Pkt.",
+        "motivations_asymmetrie": "Beide Teams mit 9 Pkt auf Playoff-Grenze (Platz 10/11) = beide wollen gewinnen. Liverpool mit vollem Offensiv-Kader Isak+Barcola+Wirtz Klassen-Edge. Historisch 2025 CL-Treffen 1:2 Niederlage Brügge zuhause. Liverpool-Defensive nach Konate+Robertson-Abgang (Sommer 2026) umgebaut mit Araújo+Jacquet - nicht mehr Festung.",
+        "recovery_heim": "4 Tage seit Pro-League-Spiel",
+        "recovery_gast": "4 Tage seit PL-Spiel",
+        "quellen": [
+          "https://lastwordonsports.com/football/2026/11/25/club-brugge-vs-liverpool-confirmed-lineups/",
+          "https://www.whoscored.com/matches/2029173/preview/europe-champions-league-2026-2027-club-brugge-liverpool",
+          "https://www.goal.com/en/betting/tips/club-brugge-vs-liverpool-predictions-25-11-2026/A:blt9c80a5799dd6f008"
+        ]
+      },
+      "news": [
+        "Brügge XI (4-2-3-1): Sommer; Sabbe, Mechele, Spileers, Seys; Vanaken, Potts; Forbs, Vetlesen, Lemaréchal; Tresoldi",
+        "Liverpool XI (4-2-3-1): Alisson; Frimpong, Jacquet, Araújo, Kerkez; Nyoni, Szoboszlai; V. Muñoz, Wirtz, Barcola; Isak",
+        "Isak zentraler 9er (seit Sommer 2026 Liverpool - nicht mehr Newcastle)",
+        "Barcola Liverpool-Linksaußen (seit 01.09. - Deadline-Day £123m von PSG)",
+        "Salah, Konate, Robertson Sommer 2026 abgegeben - Liverpool defensiv umgebaut",
+        "2:0-Insurance aktiv (CL)"
+      ],
+      "tipps": [
+        {
+          "id": "brg-liv-1",
+          "kategorie": "value",
+          "markt": "Sieg Liverpool FC (90 Min)",
+          "quote": 1.75,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.67,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15,
+          "begruendung": "Liverpool mit vollem Offensiv-Kader (Isak+Wirtz+Barcola) klar überlegen. Brügge zuhause gegen englische Top-Klasse historisch kein SAFE, aber VALUE-Edge klar. 2:0-Insurance (CL) greift. Markt-Goldgrube Sieg.",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "brg-liv-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.55,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.44,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15,
+          "begruendung": "Liverpool-Offensive in Top-Form, Brügge zuhause offensiv (Forbs+Tresoldi). Historisches CL-Treffen 2025 = 3 Tore. Markt-Goldgrube Über 2.5.",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "brg-liv-3",
+          "kategorie": "value",
+          "markt": "Isak Torschütze jederzeit",
+          "quote": 2.0,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.88,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10,
+          "begruendung": "Isak Liverpool-9er, Brügge-IV Mechele/Spileers nicht auf PL-Level. Einwechslungs-Boost: wenn Isak raus, zählen Tore von Barcola/Ekitike. Torschützen = Goldgrube.",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "brg-liv-4",
+          "kategorie": "wackel",
+          "markt": "Wirtz Torschütze jederzeit",
+          "quote": 3.0,
+          "edge_prozent": 10.0,
+          "faire_quote": 2.73,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5,
+          "begruendung": "Wirtz als 10er hinter Isak, Schuss-Volumen historisch hoch. Brügge-Defensive wird nach vorne verdichten → Räume hinter Kette. Einsatz 5 EUR.",
+          "liga": "UEFA Champions League"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 3,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 1,
+        "status": "FINISHED"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "brg-liv-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.75,
+          "kommentar": "Liverpool gewann 3:0 - Sieg-Tipp getroffen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "brg-liv-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.55,
+          "kommentar": "3 Tore - Ueber 2.5 getroffen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "brg-liv-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.0,
+          "kommentar": "Isak Doppelpack (13', 82') - Torschuetze-jederzeit erfuellt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "brg-liv-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 3.0,
+          "kommentar": "Wirtz traf 79' - Torschuetze-jederzeit erfuellt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:1",
+        "endstand": "0:3",
+        "tore": [
+          {
+            "min": 13,
+            "team": "gast",
+            "spieler": "Alexander Isak",
+            "stand_danach": "0:1",
+            "kommentar": "Sommer-Fehlpass abgefangen"
+          },
+          {
+            "min": 79,
+            "team": "gast",
+            "spieler": "Florian Wirtz",
+            "stand_danach": "0:2",
+            "kommentar": "Konter ueber Isak + Ngumoha"
+          },
+          {
+            "min": 82,
+            "team": "gast",
+            "spieler": "Alexander Isak",
+            "stand_danach": "0:3",
+            "kommentar": "Zweiter Treffer, Doppelpack"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Liverpool fuehrte durchgaengig, Brugge chancenarm"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Remis/Liverpool",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Isak Doppelpack - Hinweis auf Volumen-9er-Goldgrube funktionierte perfekt",
+          "Wirtz als 10er trifft wie getippt - Klasse-Edge der Liverpool-Offensive gegenueber Brugge-IV",
+          "Brugge offensiv komplett entwaffnet - 0 Tore widerlegt BTTS-Tipps fuer das Spiel"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-25-atl-vik",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 5",
+      "heim": "Atlético Madrid",
+      "gast": "Viking FK",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "stadion": "Estadio Metropolitano, Madrid",
+      "saison_kontext": {
+        "parallel_heim": "LaLiga am Wochenende",
+        "parallel_gast": "Eliteserien (norwegisch) - Saison seit Mitte November beendet, Winterpause",
+        "saisonziel_heim": "LaLiga-Titelrennen + CL-Top-8. CL-Platz 26 mit 4 Pkt (1-1-2) - muss dringend gewinnen.",
+        "saisonziel_gast": "CL-Einnahmen + Eliteserien-Playoffs. CL-Platz 25 mit 4 Pkt - norwegischer Überraschungsklub.",
+        "motivations_asymmetrie": "Extremer Klassen-Edge für Atleti (Buchmacher -909 = 90% Siegchance). Viking in Winterpause seit ~2 Wochen = Rhythmus-Mangel + Kälte-Reise nach Madrid. Atleti braucht Punkte dringend (Platz 26 Richtung Rausfall). Simeone-Festung Metropolitano. Verletzte Atleti: Lookman (Knie), Pubill (Knöchel), Romero (Muskel) - Álvarez bleibt Haupt-Scorer.",
+        "recovery_heim": "4 Tage seit LaLiga-Spiel",
+        "recovery_gast": "~12 Tage seit letztem Pflichtspiel - Rhythmus-Nachteil",
+        "quellen": [
+          "https://www.sportsmole.co.uk/football/atletico-madrid/champions-league/preview/atletico-vs-viking-fk-prediction-team-news-lineups_609709.html",
+          "https://bolavip.com/en/soccer/lineups-for-atletico-madrid-vs-viking-today-in-2026-27-uefa-champions-league-on-november-25",
+          "https://www.sportsgambler.com/betting-tips/football/atletico-madrid-vs-viking-prediction-lineups-odds-2026-11-25/"
+        ]
+      },
+      "news": [
+        "Atleti XI (4-4-2): Oblak; Llorente, Le Normand, Hancko, Grimaldo; G. Simeone, Cardoso, Barrios, Baena; J. Álvarez, Lee Kang-in",
+        "Viking XI (4-3-3): Ostbo; Heggheim, Stensness, Falchener, Auklend; Bell, Moi, Askildsen; Christiansen, Botheim, Tripić",
+        "Atleti-Lazarett: Lookman (Knie), Pubill (Knöchel), Romero (Muskel) raus",
+        "Grimaldo (seit 07/2026 Atleti - nicht mehr Leverkusen) als LV",
+        "Romero (seit 08/2026 Atleti - nicht mehr Tottenham) IV-Zentrum fehlt",
+        "Viking in Norwegen-Winterpause seit ~10 Tagen"
+      ],
+      "tipps": [
+        {
+          "id": "atl-vik-1",
+          "kategorie": "safe",
+          "markt": "Sieg Atlético Madrid (90 Min)",
+          "quote": 1.2,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.12,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15,
+          "begruendung": "Buchmacher -909 = 90% Siegchance. Viking in Winterpause, kalt im Metropolitano. Atleti im Must-Win-Modus für Top-8, Álvarez vor Form. Markt-Typ Sieg = Goldgrube. 2:0-Insurance (CL) greift.",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "atl-vik-2",
+          "kategorie": "safe",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.4,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.31,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15,
+          "begruendung": "Atleti-Heim-Pflicht-Sieg = 3-0/4-0 realistisch. Viking mit offensivem 4-3-3 (Tripić 4+3) → BTTS plausibel. Markt-Goldgrube Über 2.5.",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "atl-vik-3",
+          "kategorie": "value",
+          "markt": "Julián Álvarez Torschütze jederzeit",
+          "quote": 1.7,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15,
+          "begruendung": "Álvarez zentraler 9er bei Atleti, Viking-IV ohne CL-Erfahrung. Einwechslungs-Boost: falls raus, zählen Tore von Griezmann/Sorloth. CL-MD5-Torschützen-Cluster bestätigt (6/7 Hits Dienstag).",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "atl-vik-4",
+          "kategorie": "wackel",
+          "markt": "Über 3.5 Tore",
+          "quote": 2.1,
+          "edge_prozent": 9.0,
+          "faire_quote": 1.92,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5,
+          "begruendung": "90% Atleti-Siegchance + Viking-4-3-3 mit Tripić → 3+:1 oder 4+:0 realistisch. Wackel wegen Tor-Anzahl-Risiko.",
+          "liga": "UEFA Champions League"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 0,
+        "halbzeit_heim": 2,
+        "halbzeit_gast": 0,
+        "status": "FINISHED"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "atl-vik-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.2,
+          "kommentar": "Atleti gewann 2:0 - Sieg-Tipp getroffen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "atl-vik-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "2 Tore - Ueber 2.5 verfehlt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "atl-vik-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.7,
+          "kommentar": "Alvarez traf per Freistoss 24' - Torschuetze-jederzeit erfuellt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "atl-vik-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "2 Tore - Ueber 3.5 verfehlt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "2:0",
+        "endstand": "2:0",
+        "tore": [
+          {
+            "min": 19,
+            "team": "heim",
+            "spieler": "Alexander Sørloth",
+            "stand_danach": "1:0",
+            "kommentar": "Vorlage Grimaldo, Sorloth drueckt rein"
+          },
+          {
+            "min": 24,
+            "team": "heim",
+            "spieler": "Julián Álvarez",
+            "stand_danach": "2:0",
+            "kommentar": "Direkter Freistoss Alvarez"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Atleti fruehe Doppelfuehrung, hielt bis zum Schluss"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": true,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Atleti/Atleti",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [
+          {
+            "team": "gast",
+            "spieler": "Henrik Falchener",
+            "details": "Platzverweis (Rote Karte) spaet im Spiel"
+          }
+        ],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Alvarez Freistoss-Tor - selten getippter Torschuetzen-Weg, zaehlt aber als Torschuetze-jederzeit",
+          "Fruehe Doppelfuehrung, danach Atleti locker runtergespielt - Ueber 2.5/3.5 nicht erreicht",
+          "Viking-Winterpause-Effekt wie prognostiziert - Null Scoring-Gefahr trotz 4-3-3"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-25-spo-mun",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 5",
+      "heim": "Sporting CP",
+      "gast": "Manchester United",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "stadion": "Estádio José Alvalade, Lissabon",
+      "saison_kontext": {
+        "parallel_heim": "Primeira Liga am Wochenende",
+        "parallel_gast": "Premier League am Wochenende",
+        "saisonziel_heim": "Portugal-Titel + CL-Playoff. CL-Platz 12 mit 9 Pkt (3-0-1) - starke Heim-Form.",
+        "saisonziel_gast": "CL-Rückkehr-Debütsaison + PL-Top-4. CL-Platz 19 mit 6 Pkt (2-0-2).",
+        "motivations_asymmetrie": "Coinflip-Partie: Paulo Fonseca (seit Sommer bei Sporting) + Mauricio Pochettino (seit Sommer bei ManU) feiern CL-Debüt mit ihren neuen Klubs. Sporting zuhause 3/3 Siege in Primeira Liga zuletzt. Bruno Fernandes kehrt an alte Wirkungsstätte zurück - Sporting-Legende 2017-2020 (64 Tore). Kein klarer Favorit, Markt 2.20-2.80 beidseitig = kein SAFE-Edge.",
+        "recovery_heim": "4 Tage seit Primeira-Liga-Spiel",
+        "recovery_gast": "4 Tage seit PL-Spiel",
+        "quellen": [
+          "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/sporting-vs-manchester-united-date-time-and-everything-you-need-to-know-about-the-champions-league-clash-2026-11-25",
+          "https://bolavip.com/en/soccer/lineups-for-sporting-vs-manchester-united-today-in-2026-27-uefa-champions-league-on-november-25",
+          "https://www.espn.com/soccer/match/_/gameId/401915373/manchester-united-sporting-cp"
+        ]
+      },
+      "news": [
+        "Sporting XI (4-3-3): Kaique; Fresneda, M. Araújo, Quaresma, Inácio; Altimira, Andersen, Doumbia; Suárez, Catamo, L. Guilherme",
+        "ManU XI (3-4-2-1): Lammens; L. Martínez, Maguire, Yoro; A. Diallo, Mazraoui, Mainoo, Tielemans, Mbeumo, B. Fernandes; Zirkzee",
+        "Paulo Fonseca Trainer Sporting (CL-Debüt), Mauricio Pochettino Trainer ManU (CL-Debüt)",
+        "Bruno Fernandes kehrt an alte Wirkungsstätte zurück (Sporting 2017-2020, 64 Tore / 137 Spiele)",
+        "Kein SAFE legitim - Coinflip-Quoten zwischen 2.20 und 2.80 beidseitig"
+      ],
+      "tipps": [
+        {
+          "id": "spo-mun-1",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10,
+          "begruendung": "Beide Teams offensiv (Sporting 4-3-3, ManU 3-4-2-1). Fonseca-Teams historisch tor-liebend. ManU zuletzt in allen CL-Spielen 2+ Tore gesamt. Markt-Goldgrube Über 2.5.",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "spo-mun-2",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.75,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5,
+          "begruendung": "Sporting Heim-Chance vs ManU das zuletzt 2 CL-Gegentore je Spiel kassierte. Goldgrube BTTS.",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "spo-mun-3",
+          "kategorie": "wackel",
+          "markt": "Bruno Fernandes Torschütze jederzeit",
+          "quote": 2.8,
+          "edge_prozent": 10.0,
+          "faire_quote": 2.55,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5,
+          "begruendung": "Rückkehr-Narrativ + Volumen-10er mit Freistößen + Elfern. Schuss-Volumen letzte 5 ManU-Spiele 15+. Torschützen-Goldgrube.",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "spo-mun-4",
+          "kategorie": "wackel",
+          "markt": "Sporting oder Remis (Doppelte Chance 1X)",
+          "quote": 1.65,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.57,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5,
+          "begruendung": "Sporting starker CL-Heim-Record (3/3 Siege zuhause, Platz 12 mit 9 Pkt). ManU auswärts unstetig. Markt-Typ DC ist Goldgrube (+36.5% / 84%).",
+          "liga": "UEFA Champions League"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 2,
+        "gast_tore": 2,
+        "halbzeit_heim": null,
+        "halbzeit_gast": null,
+        "status": "FINISHED"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "spo-mun-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.85,
+          "kommentar": "4 Tore - Ueber 2.5 getroffen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "spo-mun-2",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.75,
+          "kommentar": "Beide Teams trafen (2:2).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "spo-mun-3",
+          "status": "gewonnen",
+          "gewinn_faktor": 2.8,
+          "kommentar": "B. Fernandes Doppelpack - Torschuetze-jederzeit erfuellt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "spo-mun-4",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.65,
+          "kommentar": "Sporting oder Remis - Endstand 2:2 ist ein Remis, DC 1X getroffen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": null,
+        "endstand": "2:2",
+        "tore": [
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Luis Suárez",
+            "stand_danach": null,
+            "kommentar": "1 von 2 Suarez-Toren, eines davon per Elfmeter - Minuten unvollstaendig"
+          },
+          {
+            "min": 47,
+            "team": "gast",
+            "spieler": "Bruno Fernandes",
+            "stand_danach": null,
+            "elfmeter": true,
+            "kommentar": "Elfmeter nach Foul an L. Martinez"
+          },
+          {
+            "min": null,
+            "team": "gast",
+            "spieler": "Bruno Fernandes",
+            "stand_danach": null,
+            "kommentar": "Zweites Tor - niedriger Schuss ueber Divot gestolpert, Kaique Pereira geschlagen"
+          },
+          {
+            "min": null,
+            "team": "heim",
+            "spieler": "Luis Suárez",
+            "stand_danach": null,
+            "kommentar": "2. Suarez-Tor"
+          }
+        ],
+        "drehung": {
+          "war_drehung": null,
+          "details": "Chaotisches Spiel, Diallo-Tor vor HZ aberkannt - Reihenfolge ohne komplette Minuten unklar"
+        },
+        "markt_resultate": {
+          "btts": "JA",
+          "ueber_1_5": true,
+          "ueber_2_5": true,
+          "ueber_3_5": true,
+          "halbzeit_endstand": null,
+          "kein_team_zu_null": true
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Fernandes-Doppelpack im Rueckkehr-Spiel - Narrativ-Edge wie prognostiziert voll eingetroffen",
+          "Suarez-Doppelpack fuer Sporting - Volumen-9er auf beiden Seiten lieferten",
+          "Diallos aberkanntes Tor vor HZ (Foul Tielemans) nahm Man Utd Fuehrung weg - VAR-Drama"
+        ]
+      }
+    },
+    {
+      "id": "2026-11-25-sha-fen",
+      "liga": "UEFA Champions League 2026/27 - Ligaphase Spieltag 5",
+      "heim": "Shakhtar Donetsk",
+      "gast": "Fenerbahçe",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "stadion": "Stamford Bridge, London (CL-Ausweichspielstätte Shakhtar)",
+      "saison_kontext": {
+        "parallel_heim": "Ukrainische Premier-Liha am Wochenende",
+        "parallel_gast": "Süper Lig am Wochenende",
+        "saisonziel_heim": "CL-Playoff + ukrainischer Titel. CL-Platz 24 mit 4 Pkt (1-1-2).",
+        "saisonziel_gast": "CL-Playoff + türkischer Titel. CL-Platz 22 mit 5 Pkt (1-2-1). Erster Hauptrunden-CL-Sieg gegen Liverpool letzte Woche gelang.",
+        "motivations_asymmetrie": "Coinflip (Buchmacher Shakhtar 34% / Fener 42% / X 24%). Shakhtar spielt 'Heim' in London = neutral. Fener mit Lukaku (seit Sommer 2026 - nicht mehr Napoli) als 9er, dazu Kanté/Yüksek-Doppelsechs. Historisch Shakhtar 11/11 ungeschlagen gegen türkische Klubs, aber Fener mit Schwung nach Liverpool-Sieg.",
+        "recovery_heim": "4 Tage seit Premier-Liha-Spiel",
+        "recovery_gast": "4 Tage seit Süper-Lig-Spiel",
+        "quellen": [
+          "https://news.liga.net/en/society/news/shakhtar-vs-fenerbahce-where-and-when-to-watch-the-champions-league-match",
+          "https://www.espn.com/soccer/odds/_/gameId/401915375",
+          "https://www.oddschecker.com/tips/football/champions-league/cng101-20261125-shakhtar-donetsk-vs-fenerbahce-predictions-bet-builder-tips-lineups-odds"
+        ]
+      },
+      "news": [
+        "Shakhtar Setup (4-1-4-1): Nazaryna als 6er vor Viererkette Matviienko/Bondar/Henrique/Tobias",
+        "Fener Setup (4-2-3-1): Kanté+Yüksek Doppelsechs vor IV Škriniar/Oppong/Semedo/Brown, Lukaku als 9er",
+        "Lukaku seit Sommer 2026 bei Fener (6 Mio von Napoli, nicht mehr Napoli-Spieler)",
+        "Shakhtar 11/11 ungeschlagen gegen türkische Klubs historisch",
+        "Fener erster CL-Hauptrunden-Sieg vs Liverpool letzte Woche gelang",
+        "Kein klarer Favorit - Markt knapp beidseitig"
+      ],
+      "tipps": [
+        {
+          "id": "sha-fen-1",
+          "kategorie": "value",
+          "markt": "Fenerbahçe oder Remis (Doppelte Chance X2)",
+          "quote": 1.5,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.43,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10,
+          "begruendung": "Fener leicht favorisiert (42% vs 34% Shakhtar / 24% X). Kanté-Erfahrung + Lukaku-Physis vs Shakhtars jungem Mittelfeld. DC X2 = Goldgrube (+13.6% / 82% Hitrate). Einsatz 10 EUR (1%).",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "sha-fen-2",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.8,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.7,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10,
+          "begruendung": "Beide offensiv aggressiv, Lukaku + Shakhtars Flügel bewiesen gefährlich. Stamford Bridge als neutraler Boden = kein Heim-Bremser. Goldgrube Über 2.5.",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "sha-fen-3",
+          "kategorie": "wackel",
+          "markt": "Lukaku Torschütze jederzeit",
+          "quote": 2.5,
+          "edge_prozent": 10.0,
+          "faire_quote": 2.27,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5,
+          "begruendung": "Lukaku zentraler 9er, Shakhtar-IV Bondar/Henrique ohne CL-Erfahrung auf Top-Klasse. Einwechslungs-Boost: bei Wechsel zählt Ersatz (En-Nesyri). Torschützen-Goldgrube.",
+          "liga": "UEFA Champions League"
+        },
+        {
+          "id": "sha-fen-4",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.7,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5,
+          "begruendung": "Beide offensiv, beide Defensiven nicht Null-Null-fest. Goldgrube BTTS.",
+          "liga": "UEFA Champions League"
+        }
+      ],
+      "kontext_check_status": "OK",
+      "ergebnis": {
+        "heim_tore": 0,
+        "gast_tore": 1,
+        "halbzeit_heim": 0,
+        "halbzeit_gast": 0,
+        "status": "FINISHED"
+      },
+      "tipps_ergebnis": [
+        {
+          "tipp_id": "sha-fen-1",
+          "status": "gewonnen",
+          "gewinn_faktor": 1.5,
+          "kommentar": "Fener gewann 1:0 - DC X2 getroffen.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sha-fen-2",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "1 Tor - Ueber 2.5 klar verfehlt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sha-fen-3",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "Lukaku traf nicht. Muriqi traf 56' - laut Quellen Lukaku-Konkurrent, keine explizite Bestaetigung ob Muriqi als direkter Lukaku-Ersatz eingewechselt wurde, daher Einwechslungs-Boost konservativ nicht angewandt.",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        },
+        {
+          "tipp_id": "sha-fen-4",
+          "status": "verloren",
+          "gewinn_faktor": 0.0,
+          "kommentar": "BTTS verfehlt - Shakhtar ohne Tor (0:1).",
+          "closing_quote": null,
+          "clv_prozent": null,
+          "clv_quelle": null
+        }
+      ],
+      "volle_analyse": {
+        "halbzeit_stand": "0:0",
+        "endstand": "0:1",
+        "tore": [
+          {
+            "min": 56,
+            "team": "gast",
+            "spieler": "Vedat Muriqi",
+            "stand_danach": "0:1",
+            "kommentar": "Riznyk pariert Greenwood, Muriqi drueckt Abpraller rein. 18'-Tor zuvor per VAR aberkannt (Foul/Handspiel)"
+          }
+        ],
+        "drehung": {
+          "war_drehung": false,
+          "details": "Nur ein Tor, keine Fuehrungswechsel"
+        },
+        "markt_resultate": {
+          "btts": "NEIN",
+          "ueber_1_5": false,
+          "ueber_2_5": false,
+          "ueber_3_5": false,
+          "halbzeit_endstand": "Remis/Fener",
+          "kein_team_zu_null": false
+        },
+        "rotation_highlights": [],
+        "einwechslungs_tor_highlights": [],
+        "auffaellige_patterns": [
+          "Fener erster CL-Hauptrunden-Auswaertssieg in 22 Jahren - historisch",
+          "Muriqi (nicht Lukaku) als Matchwinner - \"Lukaku-Konkurrent\"-Narrativ bestaetigt",
+          "Defensiv-Schlacht in London - BTTS/Ueber-Tipps alle gescheitert, torarm trotz vermeintlicher Offensive beider Teams"
+        ]
+      }
+    }
+  ],
+  "einzeltipps": [
+    {
+      "id": "e1-atl-vik-sieg",
+      "spiel_id": "2026-11-25-atl-vik",
+      "spiel_label": "Atlético Madrid vs Viking",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "safe",
+      "markt": "Sieg Atlético Madrid (90 Min)",
+      "quote": 1.2,
+      "faire_quote": 1.12,
+      "edge_prozent": 7.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "potentieller_gewinn_euro": 3.0,
+      "begruendung": "Viking kalt aus Winterpause, 90% Buchmacher-Siegchance, Atleti-Heim-Festung. 2:0-Insurance (CL). Markt-Goldgrube Sieg.",
+      "rang": 1,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.2,
+      "gewinn_euro": 3.0,
+      "kommentar": "Atleti gewann 2:0 - Sieg-Tipp getroffen.",
+      "tipp_id": "atl-vik-1"
+    },
+    {
+      "id": "e2-int-stu-sieg",
+      "spiel_id": "2026-11-25-int-stu",
+      "spiel_label": "Inter Mailand vs VfB Stuttgart",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "safe",
+      "markt": "Sieg Inter Mailand (90 Min)",
+      "quote": 1.4,
+      "faire_quote": 1.31,
+      "edge_prozent": 7.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "potentieller_gewinn_euro": 6.0,
+      "begruendung": "Inter mit 6/8 Siegen zuletzt, 2+ Tore in 3 Spielen. Stuttgart ohne Woltemade. 2:0-Insurance (CL). Markt-Goldgrube Sieg.",
+      "rang": 2,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.4,
+      "gewinn_euro": 6.0,
+      "kommentar": "Inter gewann 2:0 - Sieg-Tipp getroffen.",
+      "tipp_id": "int-stu-1"
+    },
+    {
+      "id": "e3-psg-rom-sieg",
+      "spiel_id": "2026-11-25-psg-rom",
+      "spiel_label": "PSG vs AS Roma",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "safe",
+      "markt": "Sieg Paris Saint-Germain (90 Min)",
+      "quote": 1.3,
+      "faire_quote": 1.22,
+      "edge_prozent": 7.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "potentieller_gewinn_euro": 4.5,
+      "begruendung": "PSG 4/4 CL-Siege, Heim-Festung Parc des Princes, jagt 15-ungeschlagen-Rekord. 2:0-Insurance (CL). Markt-Goldgrube Sieg.",
+      "rang": 3,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "gewinn_euro": -15.0,
+      "kommentar": "2:2 Remis - Sieg-Tipp verloren. 2:0-Insurance greift nicht (PSG lag nie mit 2 Toren vorn, max 2:1).",
+      "tipp_id": "psg-rom-1"
+    },
+    {
+      "id": "e4-int-stu-over25",
+      "spiel_id": "2026-11-25-int-stu",
+      "spiel_label": "Inter Mailand vs VfB Stuttgart",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "safe",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.3,
+      "faire_quote": 1.22,
+      "edge_prozent": 7.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "potentieller_gewinn_euro": 4.5,
+      "begruendung": "Buchmacher @ 1.25, Inter 3x in Folge 2+ Tore. Stuttgart offensiv ambitioniert. Markt-Goldgrube Über 2.5.",
+      "rang": 4,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "gewinn_euro": -15.0,
+      "kommentar": "2 Tore - Ueber 2.5 verfehlt (nur 2 Treffer).",
+      "tipp_id": "int-stu-2"
+    },
+    {
+      "id": "e5-atl-vik-over25",
+      "spiel_id": "2026-11-25-atl-vik",
+      "spiel_label": "Atlético Madrid vs Viking",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "safe",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.4,
+      "faire_quote": 1.31,
+      "edge_prozent": 7.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "potentieller_gewinn_euro": 6.0,
+      "begruendung": "Pflicht-Sieg-Atleti 3-0, 4-0 realistisch. Viking offensiv progressiv (Tripić 4+3). Markt-Goldgrube Über 2.5.",
+      "rang": 5,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "gewinn_euro": -15.0,
+      "kommentar": "2 Tore - Ueber 2.5 verfehlt.",
+      "tipp_id": "atl-vik-2"
+    },
+    {
+      "id": "e6-atl-vik-alvarez",
+      "spiel_id": "2026-11-25-atl-vik",
+      "spiel_label": "Atlético Madrid vs Viking",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "value",
+      "markt": "Julián Álvarez Torschütze jederzeit",
+      "quote": 1.7,
+      "faire_quote": 1.62,
+      "edge_prozent": 5.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "potentieller_gewinn_euro": 10.5,
+      "begruendung": "Álvarez zentraler 9er, Viking-IV ohne CL-Erfahrung. Einwechslungs-Boost (Griezmann/Sorloth). CL-MD5-Torschützen-Cluster bestätigt (6/7 Hits Dienstag).",
+      "rang": 6,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.7,
+      "gewinn_euro": 10.5,
+      "kommentar": "Alvarez traf per Freistoss 24' - Torschuetze-jederzeit erfuellt.",
+      "tipp_id": "atl-vik-3"
+    },
+    {
+      "id": "e7-lil-bay-bayern",
+      "spiel_id": "2026-11-25-lil-bay",
+      "spiel_label": "Lille vs Bayern München",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "value",
+      "markt": "Sieg Bayern München (90 Min)",
+      "quote": 1.67,
+      "faire_quote": 1.59,
+      "edge_prozent": 5.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "potentieller_gewinn_euro": 10.05,
+      "begruendung": "Trotz Kane/Davies/Gnabry/Saibari-Ausfall Klasse-Edge gegen Lille (1 Pkt aus 4 CL-Spielen). 2:0-Insurance (CL). Nicht SAFE sondern VALUE.",
+      "rang": 7,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "gewinn_euro": -15.0,
+      "kommentar": "Bayern verlor 1:2. 2:0-Insurance greift nicht (Bayern lag nie mit 2 Toren vorn).",
+      "tipp_id": "lil-bay-1"
+    },
+    {
+      "id": "e8-brg-liv-liverpool",
+      "spiel_id": "2026-11-25-brg-liv",
+      "spiel_label": "Club Brügge vs Liverpool",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "value",
+      "markt": "Sieg Liverpool FC (90 Min)",
+      "quote": 1.75,
+      "faire_quote": 1.67,
+      "edge_prozent": 5.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "potentieller_gewinn_euro": 11.25,
+      "begruendung": "Isak+Wirtz+Barcola Liverpool mit vollem Offensiv-Kader, Brügge zuhause kein Klassen-Match. 2:0-Insurance (CL).",
+      "rang": 8,
+      "status": "gewonnen",
+      "gewinn_faktor": 1.75,
+      "gewinn_euro": 11.25,
+      "kommentar": "Liverpool gewann 3:0 - Sieg-Tipp getroffen.",
+      "tipp_id": "brg-liv-1"
+    },
+    {
+      "id": "e9-brg-liv-isak",
+      "spiel_id": "2026-11-25-brg-liv",
+      "spiel_label": "Club Brügge vs Liverpool",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "value",
+      "markt": "Isak Torschütze jederzeit",
+      "quote": 2.0,
+      "faire_quote": 1.88,
+      "edge_prozent": 6.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10,
+      "potentieller_gewinn_euro": 10.0,
+      "begruendung": "Isak Liverpool-9er, Brügge-IV ohne Premier-Niveau. Einwechslungs-Boost (Barcola/Ekitike). Torschützen-Goldgrube.",
+      "rang": 9,
+      "status": "gewonnen",
+      "gewinn_faktor": 2.0,
+      "gewinn_euro": 10.0,
+      "kommentar": "Isak Doppelpack (13', 82') - Torschuetze-jederzeit erfuellt.",
+      "tipp_id": "brg-liv-3"
+    },
+    {
+      "id": "e10-psg-rom-dembele",
+      "spiel_id": "2026-11-25-psg-rom",
+      "spiel_label": "PSG vs AS Roma",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "value",
+      "markt": "Dembélé Torschütze jederzeit",
+      "quote": 2.0,
+      "faire_quote": 1.88,
+      "edge_prozent": 6.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10,
+      "potentieller_gewinn_euro": 10.0,
+      "begruendung": "Dembélé Volume-9er im PSG-System. Einwechslungs-Boost (Mayulu/Ferran Torres). Torschützen-Goldgrube.",
+      "rang": 10,
+      "status": "gewonnen",
+      "gewinn_faktor": 2.0,
+      "gewinn_euro": 10.0,
+      "kommentar": "Dembele traf per Elfmeter 62' (als Joker eingewechselt) - Torschuetze-jederzeit erfuellt.",
+      "tipp_id": "psg-rom-3"
+    },
+    {
+      "id": "e11-lil-bay-musiala",
+      "spiel_id": "2026-11-25-lil-bay",
+      "spiel_label": "Lille vs Bayern München",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "value",
+      "markt": "Musiala Torschütze jederzeit",
+      "quote": 2.2,
+      "faire_quote": 2.0,
+      "edge_prozent": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10,
+      "potentieller_gewinn_euro": 12.0,
+      "begruendung": "Mit Kane raus wird Musiala Haupt-Scorer. Startelf sicher. Einwechslungs-Boost (Diaz falls Comeback / Olise). Torschützen-Goldgrube.",
+      "rang": 11,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "gewinn_euro": -10.0,
+      "kommentar": "Musiala traf nicht. Einwechslungs-Boost nicht anwendbar: Bayern-Ersatz Diaz/Olise fraglich, keine Quelle zu Musiala-Auswechslung + Ersatz-Torerfolg (nur Upamecano traf fuer Bayern).",
+      "tipp_id": "lil-bay-3"
+    },
+    {
+      "id": "e12-int-stu-thuram",
+      "spiel_id": "2026-11-25-int-stu",
+      "spiel_label": "Inter Mailand vs VfB Stuttgart",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "value",
+      "markt": "Thuram Torschütze jederzeit",
+      "quote": 1.9,
+      "faire_quote": 1.81,
+      "edge_prozent": 5.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10,
+      "potentieller_gewinn_euro": 9.0,
+      "begruendung": "Thuram zentraler 9er neben Esposito. Inter-Heim-Chancenverteilung bei ihm. Einwechslungs-Boost (Lautaro/Taremi). Torschützen-Goldgrube.",
+      "rang": 12,
+      "status": "verloren",
+      "gewinn_faktor": 0.0,
+      "gewinn_euro": -10.0,
+      "kommentar": "Thuram traf nicht, Pfosten/knapp vorbei. Einwechslungs-Boost (Lautaro/Taremi) nicht angewandt: keine explizite Quelle bestaetigt dass Lautaro FUER Thuram kam.",
+      "tipp_id": "int-stu-3"
+    }
+  ],
+  "kombis": [
+    {
+      "id": "k-safe",
+      "name": "Safe-Kombi (CL-MD5 Mittwochs-Solide)",
+      "kategorie": "safe",
+      "gesamtquote": 4.42,
+      "rechnung": "1.30 x 1.70 x 2.00 = 4.42",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20,
+      "potentieller_gewinn_euro": 68.4,
+      "beine": [
+        {
+          "spiel_id": "2026-11-25-psg-rom",
+          "spiel_label": "PSG vs AS Roma",
+          "markt": "Sieg Paris Saint-Germain (90 Min)",
+          "quote": 1.3,
+          "kategorie": "safe",
+          "status": "verloren"
+        },
+        {
+          "spiel_id": "2026-11-25-atl-vik",
+          "spiel_label": "Atlético Madrid vs Viking",
+          "markt": "Álvarez Torschütze jederzeit",
+          "quote": 1.7,
+          "kategorie": "value",
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-11-25-brg-liv",
+          "spiel_label": "Club Brügge vs Liverpool",
+          "markt": "Isak Torschütze jederzeit",
+          "quote": 2.0,
+          "kategorie": "value",
+          "status": "gewonnen"
+        }
+      ],
+      "hinweis": "3 verschiedene Spiele, 1 Sieg-Outcome, 2 Torschützen-Goldgrube. Quote ~4.4x - Kasse-Stufe-1 20 EUR Einsatz (2%).",
+      "status": "verloren",
+      "gewinn_euro": -20.0,
+      "fehlerhafte_beine": [
+        "2026-11-25-psg-rom:Sieg Paris Saint-Germain (90 Min)=verloren"
+      ]
+    },
+    {
+      "id": "k-balance",
+      "name": "Balance-Kombi (Volumen-Stürmer-Trio)",
+      "kategorie": "balance",
+      "gesamtquote": 7.11,
+      "rechnung": "1.90 x 2.20 x 1.70 = 7.11",
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 8,
+      "potentieller_gewinn_euro": 48.85,
+      "beine": [
+        {
+          "spiel_id": "2026-11-25-int-stu",
+          "spiel_label": "Inter Mailand vs VfB Stuttgart",
+          "markt": "Thuram Torschütze jederzeit",
+          "quote": 1.9,
+          "kategorie": "value",
+          "status": "verloren"
+        },
+        {
+          "spiel_id": "2026-11-25-lil-bay",
+          "spiel_label": "Lille vs Bayern München",
+          "markt": "Musiala Torschütze jederzeit",
+          "quote": 2.2,
+          "kategorie": "value",
+          "status": "verloren"
+        },
+        {
+          "spiel_id": "2026-11-25-sha-fen",
+          "spiel_label": "Shakhtar Donetsk vs Fenerbahçe",
+          "markt": "Beide Teams treffen",
+          "quote": 1.7,
+          "kategorie": "wackel",
+          "status": "verloren"
+        }
+      ],
+      "hinweis": "3 verschiedene Spiele, 0 Sieg-Outcome. 2 Torschützen + 1 BTTS. Quote ~7.1x - Kasse-Stufe-1 8 EUR Einsatz (0.8%).",
+      "status": "verloren",
+      "gewinn_euro": -8.0,
+      "fehlerhafte_beine": [
+        "2026-11-25-int-stu:Thuram Torschütze jederzeit=verloren",
+        "2026-11-25-lil-bay:Musiala Torschütze jederzeit=verloren",
+        "2026-11-25-sha-fen:Beide Teams treffen=verloren"
+      ]
+    },
+    {
+      "id": "k-risiko",
+      "name": "Risiko-Kombi (Volumen-9er + Doppelpack + Rückkehr-Narrativ)",
+      "kategorie": "risk",
+      "gesamtquote": 28.0,
+      "rechnung": "4.00 x 2.80 x 2.50 = 28.0",
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 2.5,
+      "potentieller_gewinn_euro": 67.5,
+      "beine": [
+        {
+          "spiel_id": "2026-11-25-int-stu",
+          "spiel_label": "Inter Mailand vs VfB Stuttgart",
+          "markt": "Thuram Doppelpack",
+          "quote": 4.0,
+          "kategorie": "risk",
+          "status": "verloren"
+        },
+        {
+          "spiel_id": "2026-11-25-spo-mun",
+          "spiel_label": "Sporting CP vs Manchester United",
+          "markt": "Bruno Fernandes Torschütze jederzeit",
+          "quote": 2.8,
+          "kategorie": "wackel",
+          "status": "gewonnen"
+        },
+        {
+          "spiel_id": "2026-11-25-sha-fen",
+          "spiel_label": "Shakhtar Donetsk vs Fenerbahçe",
+          "markt": "Lukaku Torschütze jederzeit",
+          "quote": 2.5,
+          "kategorie": "wackel",
+          "status": "verloren"
+        }
+      ],
+      "hinweis": "3 verschiedene Spiele, 0 Sieg-Outcome, alle Spielertor-Märkte. Quote ~28x - Kasse-Stufe-1 2.50 EUR Einsatz (0.25%).",
+      "status": "verloren",
+      "gewinn_euro": -2.5,
+      "fehlerhafte_beine": [
+        "2026-11-25-int-stu:Thuram Doppelpack=verloren",
+        "2026-11-25-sha-fen:Lukaku Torschütze jederzeit=verloren"
+      ]
+    },
+    {
+      "id": "k-moonshot",
+      "name": "Moonshot-Kombi (3 Volumen-9er mit erweiterten Toren)",
+      "kategorie": "moonshot",
+      "gesamtquote": 123.75,
+      "rechnung": "5.00 x 4.50 x 5.50 = 123.75",
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 1,
+      "potentieller_gewinn_euro": 122.75,
+      "beine": [
+        {
+          "spiel_id": "2026-11-25-atl-vik",
+          "spiel_label": "Atlético Madrid vs Viking",
+          "markt": "Álvarez Doppelpack",
+          "quote": 5.0,
+          "kategorie": "moonshot",
+          "status": "verloren"
+        },
+        {
+          "spiel_id": "2026-11-25-int-stu",
+          "spiel_label": "Inter Mailand vs VfB Stuttgart",
+          "markt": "Esposito Torschütze jederzeit",
+          "quote": 4.5,
+          "kategorie": "moonshot",
+          "status": "verloren"
+        },
+        {
+          "spiel_id": "2026-11-25-brg-liv",
+          "spiel_label": "Club Brügge vs Liverpool",
+          "markt": "Isak Doppelpack",
+          "quote": 5.5,
+          "kategorie": "moonshot",
+          "status": "gewonnen"
+        }
+      ],
+      "hinweis": "3 verschiedene Spiele, 0 Sieg-Outcome. Spaßeinsatz 1 EUR (0.1%). Quote 123x - gegen minnows/schwache IV realistisch, aber Lotterie.",
+      "status": "verloren",
+      "gewinn_euro": -1.0,
+      "fehlerhafte_beine": [
+        "2026-11-25-atl-vik:Álvarez Doppelpack=verloren",
+        "2026-11-25-int-stu:Esposito Torschütze jederzeit=verloren"
+      ]
+    }
+  ],
+  "lessons_angewandt": [
+    {
+      "lesson_id": "HR11-25-1",
+      "kurz": "Torschützen-Jederzeit-Goldgrube CL-MD5 Cluster",
+      "anwendung": "7 Torschützen-Jederzeit-Tipps auf Volumen-9er (Dembélé, Thuram, Musiala, Isak, Álvarez, Fernandes, Lukaku) - gestriger 6/7-Hit-Cluster motiviert, aber Backup-Absicherung (Ueda, Undav, Esposito) für Volume-9er-Doppelbrick-Schutz"
+    },
+    {
+      "lesson_id": "HR11-25-4",
+      "kurz": "Spät-Tor-Cluster CL (9/16 Tore nach Min 55)",
+      "anwendung": "Über-2.5-Tore in 5 Spielen priorisiert - Spät-Tore stützen den Markt"
+    },
+    {
+      "lesson_id": "HR11-24-2",
+      "kurz": "Volume-9er-Doppelbrick in Mini-Slate",
+      "anwendung": "Backup-Torschützen-Tipps (Esposito, Ueda, Undav) auf Wackel-Niveau - nicht alle Eier in einen Volume-Korb"
+    },
+    {
+      "lesson_id": "Lehre 22.08.2026",
+      "kurz": "Kasse aus data/kasse.json lesen, nicht erinnern",
+      "anwendung": "Alle Euro-Beträge aus data/kasse.json (1000 EUR Saison-Kasse Stufe 1) gerechnet"
+    },
+    {
+      "lesson_id": "Kader-Frische",
+      "kurz": "Spielernamen live prüfen, data/kader_wechsel_2026.json gegen-check",
+      "anwendung": "Barcola (Liverpool, nicht PSG), Isak (Liverpool, nicht Newcastle), Ferran Torres (PSG, nicht Barça), Lukaku (Fener, nicht Napoli), Rodri (Barça, nicht City), Grimaldo (Atleti, nicht Leverkusen), Romero (Atleti, nicht Tottenham), Brown (Bayern, nicht Frankfurt), Diaz (Bayern, nicht Liverpool) - alle gegen kader_wechsel geprüft und korrekt zugeordnet"
+    },
+    {
+      "lesson_id": "Bayern-Verletzungs-Check",
+      "kurz": "Kane-Ausfall 2 Monate → Karl als 9er, Diaz+Olise fraglich",
+      "anwendung": "Sieg-Bayern NICHT als SAFE sondern VALUE (@1.67, 5% Edge). Musiala-Torschütze als Kompensation für Kane-Fehlen aufgewertet (Edge 10%)"
+    }
+  ],
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Hobby-Tool, keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "_verifikations_report": {
+    "stand": "2026-11-25T21:42:00+01:00",
+    "status": "OK",
+    "halluzinations_drops": [],
+    "selbstwiderspruch_drops": [],
+    "layer_crosscheck": {
+      "layer_1_alle_kombis_verschiedene_spiele": true,
+      "layer_2_max_1_sieg_pro_kombi": true,
+      "layer_3_wo_moeglich_spiel_max_1_kombi": "weich - Atleti-Viking in safe (Álvarez-Torschütze) + moonshot (Álvarez-Doppelpack). Inter-Stu in balance (Thuram-single) + risiko (Thuram-Doppelpack) + moonshot (Esposito). Brügge-Liv in safe (Isak-single) + moonshot (Isak-Doppelpack). Shakhtar-Fen in balance (BTTS) + risiko (Lukaku). Jede Wiederverwendung mit anderem Markt - keine echten Marktkonflikte."
+    },
+    "kader_check": "Barcola/Isak/Lukaku/Rodri/Grimaldo/Ferran Torres/Adeyemi/Brown/Diaz/Romero - alle gegen data/kader_wechsel_2026.json gecheckt und auf korrekte 2026/27-Vereine zugeordnet",
+    "verletzungs_check": "Bayern (Kane, Davies, Gnabry, Saibari, Neuer raus; Diaz, Olise fraglich) → Sieg-Bayern VALUE statt SAFE, Musiala-Torschütze aufgewertet. Atleti (Lookman, Pubill, Romero raus) nicht tipp-kritisch, Álvarez bleibt Haupt-Scorer. PSG (Doue, Kvaratskhelia Kreuzband raus) - Dembélé bleibt Volume-9er, Edge unverändert.",
+    "zeitfenster_check": "Alle 7 Spiele mit Anstoss 2026-11-25T21:00:00+01:00 - innerhalb Tagesfenster. 18:45-Spiele Slavia-Villarreal (0:1) und Sabah-Barça (1:4) bewusst ausgelassen (bereits abgepfiffen, würden Ghost-Tipps erzeugen).",
+    "markt_mix_check": "DC-Cap eingehalten (1 DC-Tipp Sporting-ManU + 1 DC-Tipp Shakhtar-Fener = 2 DC gesamt, unter 2-3-Limit). Pflicht-Profile: Heim-Favoriten (PSG, Inter, Atleti) jeweils mit Torschützen-Tipp + Sieg abgedeckt. Coinflip-Spiele (Sporting-ManU, Shakhtar-Fener) ohne SAFE.",
+    "goldgruben_check": "Torschützen Jederzeit (7 Spiele), Über 2.5 Tore (7 Spiele), Sieg 1X2 (3 Safe, 2 Value), BTTS (3 Spiele), DC (2 Spiele) - alle markt_goldgruben.json-Märkte aktiv gesucht."
+  },
+  "einzeltipps_ergebnis": [
+    {
+      "id": "e1-atl-vik-sieg",
+      "spiel_id": "2026-11-25-atl-vik",
+      "spiel_label": "Atlético Madrid vs Viking",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "safe",
+      "markt": "Sieg Atlético Madrid (90 Min)",
+      "quote": 1.2,
+      "faire_quote": 1.12,
+      "edge_prozent": 7.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "potentieller_gewinn_euro": 3.0,
+      "begruendung": "Viking kalt aus Winterpause, 90% Buchmacher-Siegchance, Atleti-Heim-Festung. 2:0-Insurance (CL). Markt-Goldgrube Sieg.",
+      "rang": 1,
+      "status": "offen"
+    },
+    {
+      "id": "e2-int-stu-sieg",
+      "spiel_id": "2026-11-25-int-stu",
+      "spiel_label": "Inter Mailand vs VfB Stuttgart",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "safe",
+      "markt": "Sieg Inter Mailand (90 Min)",
+      "quote": 1.4,
+      "faire_quote": 1.31,
+      "edge_prozent": 7.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "potentieller_gewinn_euro": 6.0,
+      "begruendung": "Inter mit 6/8 Siegen zuletzt, 2+ Tore in 3 Spielen. Stuttgart ohne Woltemade. 2:0-Insurance (CL). Markt-Goldgrube Sieg.",
+      "rang": 2,
+      "status": "offen"
+    },
+    {
+      "id": "e3-psg-rom-sieg",
+      "spiel_id": "2026-11-25-psg-rom",
+      "spiel_label": "PSG vs AS Roma",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "safe",
+      "markt": "Sieg Paris Saint-Germain (90 Min)",
+      "quote": 1.3,
+      "faire_quote": 1.22,
+      "edge_prozent": 7.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "potentieller_gewinn_euro": 4.5,
+      "begruendung": "PSG 4/4 CL-Siege, Heim-Festung Parc des Princes, jagt 15-ungeschlagen-Rekord. 2:0-Insurance (CL). Markt-Goldgrube Sieg.",
+      "rang": 3,
+      "status": "offen"
+    },
+    {
+      "id": "e4-int-stu-over25",
+      "spiel_id": "2026-11-25-int-stu",
+      "spiel_label": "Inter Mailand vs VfB Stuttgart",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "safe",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.3,
+      "faire_quote": 1.22,
+      "edge_prozent": 7.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "potentieller_gewinn_euro": 4.5,
+      "begruendung": "Buchmacher @ 1.25, Inter 3x in Folge 2+ Tore. Stuttgart offensiv ambitioniert. Markt-Goldgrube Über 2.5.",
+      "rang": 4,
+      "status": "offen"
+    },
+    {
+      "id": "e5-atl-vik-over25",
+      "spiel_id": "2026-11-25-atl-vik",
+      "spiel_label": "Atlético Madrid vs Viking",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "safe",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.4,
+      "faire_quote": 1.31,
+      "edge_prozent": 7.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "potentieller_gewinn_euro": 6.0,
+      "begruendung": "Pflicht-Sieg-Atleti 3-0, 4-0 realistisch. Viking offensiv progressiv (Tripić 4+3). Markt-Goldgrube Über 2.5.",
+      "rang": 5,
+      "status": "offen"
+    },
+    {
+      "id": "e6-atl-vik-alvarez",
+      "spiel_id": "2026-11-25-atl-vik",
+      "spiel_label": "Atlético Madrid vs Viking",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "value",
+      "markt": "Julián Álvarez Torschütze jederzeit",
+      "quote": 1.7,
+      "faire_quote": 1.62,
+      "edge_prozent": 5.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "potentieller_gewinn_euro": 10.5,
+      "begruendung": "Álvarez zentraler 9er, Viking-IV ohne CL-Erfahrung. Einwechslungs-Boost (Griezmann/Sorloth). CL-MD5-Torschützen-Cluster bestätigt (6/7 Hits Dienstag).",
+      "rang": 6,
+      "status": "offen"
+    },
+    {
+      "id": "e7-lil-bay-bayern",
+      "spiel_id": "2026-11-25-lil-bay",
+      "spiel_label": "Lille vs Bayern München",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "value",
+      "markt": "Sieg Bayern München (90 Min)",
+      "quote": 1.67,
+      "faire_quote": 1.59,
+      "edge_prozent": 5.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "potentieller_gewinn_euro": 10.05,
+      "begruendung": "Trotz Kane/Davies/Gnabry/Saibari-Ausfall Klasse-Edge gegen Lille (1 Pkt aus 4 CL-Spielen). 2:0-Insurance (CL). Nicht SAFE sondern VALUE.",
+      "rang": 7,
+      "status": "offen"
+    },
+    {
+      "id": "e8-brg-liv-liverpool",
+      "spiel_id": "2026-11-25-brg-liv",
+      "spiel_label": "Club Brügge vs Liverpool",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "value",
+      "markt": "Sieg Liverpool FC (90 Min)",
+      "quote": 1.75,
+      "faire_quote": 1.67,
+      "edge_prozent": 5.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "potentieller_gewinn_euro": 11.25,
+      "begruendung": "Isak+Wirtz+Barcola Liverpool mit vollem Offensiv-Kader, Brügge zuhause kein Klassen-Match. 2:0-Insurance (CL).",
+      "rang": 8,
+      "status": "offen"
+    },
+    {
+      "id": "e9-brg-liv-isak",
+      "spiel_id": "2026-11-25-brg-liv",
+      "spiel_label": "Club Brügge vs Liverpool",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "value",
+      "markt": "Isak Torschütze jederzeit",
+      "quote": 2.0,
+      "faire_quote": 1.88,
+      "edge_prozent": 6.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10,
+      "potentieller_gewinn_euro": 10.0,
+      "begruendung": "Isak Liverpool-9er, Brügge-IV ohne Premier-Niveau. Einwechslungs-Boost (Barcola/Ekitike). Torschützen-Goldgrube.",
+      "rang": 9,
+      "status": "offen"
+    },
+    {
+      "id": "e10-psg-rom-dembele",
+      "spiel_id": "2026-11-25-psg-rom",
+      "spiel_label": "PSG vs AS Roma",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "value",
+      "markt": "Dembélé Torschütze jederzeit",
+      "quote": 2.0,
+      "faire_quote": 1.88,
+      "edge_prozent": 6.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10,
+      "potentieller_gewinn_euro": 10.0,
+      "begruendung": "Dembélé Volume-9er im PSG-System. Einwechslungs-Boost (Mayulu/Ferran Torres). Torschützen-Goldgrube.",
+      "rang": 10,
+      "status": "offen"
+    },
+    {
+      "id": "e11-lil-bay-musiala",
+      "spiel_id": "2026-11-25-lil-bay",
+      "spiel_label": "Lille vs Bayern München",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "value",
+      "markt": "Musiala Torschütze jederzeit",
+      "quote": 2.2,
+      "faire_quote": 2.0,
+      "edge_prozent": 10.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10,
+      "potentieller_gewinn_euro": 12.0,
+      "begruendung": "Mit Kane raus wird Musiala Haupt-Scorer. Startelf sicher. Einwechslungs-Boost (Diaz falls Comeback / Olise). Torschützen-Goldgrube.",
+      "rang": 11,
+      "status": "offen"
+    },
+    {
+      "id": "e12-int-stu-thuram",
+      "spiel_id": "2026-11-25-int-stu",
+      "spiel_label": "Inter Mailand vs VfB Stuttgart",
+      "liga": "UEFA Champions League",
+      "anstoss": "2026-11-25T21:00:00+01:00",
+      "kategorie": "value",
+      "markt": "Thuram Torschütze jederzeit",
+      "quote": 1.9,
+      "faire_quote": 1.81,
+      "edge_prozent": 5.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10,
+      "potentieller_gewinn_euro": 9.0,
+      "begruendung": "Thuram zentraler 9er neben Esposito. Inter-Heim-Chancenverteilung bei ihm. Einwechslungs-Boost (Lautaro/Taremi). Torschützen-Goldgrube.",
+      "rang": 12,
+      "status": "offen"
+    }
+  ],
+  "kombis_ergebnis": [
+    {
+      "kombi_id": "k-safe",
+      "status": "offen",
+      "gesamtquote": 4.42
+    },
+    {
+      "kombi_id": "k-balance",
+      "status": "offen",
+      "gesamtquote": 7.11
+    },
+    {
+      "kombi_id": "k-risiko",
+      "status": "offen",
+      "gesamtquote": 28.0
+    },
+    {
+      "kombi_id": "k-moonshot",
+      "status": "offen",
+      "gesamtquote": 123.75
+    }
+  ],
+  "ausgewertet_am": "2026-11-26T06:07:40+00:00",
+  "_auswertung": {
+    "erstellt_am": "2026-11-26T08:15:00+01:00",
+    "quellen_hinweis": "WebSearch-Snapshot (API blockiert durch Proxy). Kernresultate ueber mehrere Quellen bestaetigt (CBS Sports, OneFootball, SkySports, BeIn Sports, Sofascore, France24, Flashscore). Minutenangaben teilweise unvollstaendig - als null markiert.",
+    "einwechslungs_boost": "konservativ NICHT angewandt, wo direkte Substitutions-Quelle fehlte (Thuram->Lautaro, Musiala, Lukaku->Muriqi)."
+  }
+}
