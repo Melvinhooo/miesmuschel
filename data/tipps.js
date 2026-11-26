@@ -1,155 +1,398 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
-  "datum": "2026-11-23",
-  "erstellt_am": "2026-11-23T14:30:00+01:00",
-  "hinweis": "Montag nach Laenderspiel-Pause - nur zwei Spiele im Fenster: Serie A Giornata 12 Monza-Fiorentina (U-Power Stadium, 18:30) und PL Matchweek 11 Brentford-Everton (Gtech, 21:00). Beides jeweils taktische Duelle: Juric-Pressing gegen Vanoli-Kompakt im Brianteo, dazu Mittelfeld-Duell im Londoner Westen mit frischem Abgangs-Loch bei beiden Clubs (Wissa raus Brentford, Ndiaye raus Everton). Kasse 1000 Euro, Stufe 1 aktiv (Saison-ROI noch nicht gecheckt, stufe_2_freigeschaltet=false) - Einsaetze bleiben konservativ, Kombis durch nur zwei Spiele mit max zwei Beinen limitiert. Keine 100x-Moonshot moeglich, das wird offen ausgewiesen.",
+  "datum": "2026-11-26",
+  "erstellt_am": "2026-11-26T14:30:00+01:00",
+  "_emergency_recovery": true,
+  "_emergency_hinweis": "Watchdog-Routine Mo-Fr 14:30 - Hauptroutine (13:30) hat kein gefülltes Dossier geliefert. Dossier ist bewusst schlank gehalten (6 Hauptspiele statt voller Donnerstag-Slate von 36 EL+UECL-Spielen), Fokus auf Markt-Goldgruben (DC 1X, Über 2.5, BTTS) ohne spezifische Torschützen-Namen - Live-Kader-Verifikation war im Watchdog-Fenster nicht möglich.",
+  "hinweis": "Donnerstag = UEL/UECL-Doppel-Slot. 18 Europa-League-Spiele (Matchday 5) + ca. 18 Conference-League-Spiele (Matchday 4). Dossier fokussiert auf 6 Hauptspiele mit Bundesliga-/Serie-A-Vertretern (Leverkusen, Milan, Juve, Hoffenheim, Freiburg) + Ligue-1-Favorit Marseille. Kasse 1000€ Stufe 1 (konservative 0.25-2% Einsätze). Quoten bei bet365 live prüfen - alle Werte Richtschnur.",
   "spiele": [
     {
-      "id": "2026-11-23-mon-fio",
-      "liga": "Serie A 2026/27 - Giornata 12",
-      "heim": "AC Monza",
-      "gast": "ACF Fiorentina",
-      "anstoss": "2026-11-23T18:30:00+01:00",
-      "stadion": "U-Power Stadium, Monza",
+      "id": "2026-11-26-zag-lev",
+      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 5",
+      "heim": "GNK Dinamo Zagreb",
+      "gast": "Bayer Leverkusen",
+      "anstoss": "2026-11-26T18:45:00+01:00",
+      "stadion": "Stadion Maksimir, Zagreb",
       "saison_kontext": {
-        "parallel_heim": "keine - Monza spielt in keinem europaeischen Wettbewerb und war in der Coppa Italia bereits ausgeschieden",
-        "parallel_gast": "keine - Fiorentina ohne internationalen Wettbewerb 2026/27, fokussiert Serie-A-Klassenerhalt",
-        "saisonziel_heim": "Klassenerhalt - 18. Tabellenplatz mit 7 Punkten aus 10-11 Spielen, 17:24 Tore, akuter Abstiegskampf",
-        "saisonziel_gast": "Klassenerhalt + Mittelfeldstabilisierung - Fiorentina nach Katastrophenstart unter Grosso (3 Niederlagen, 0 Punkte, 1:9 Tore) seit 07.09.2026 unter Rueckkehrer Paolo Vanoli reorganisiert",
-        "motivations_asymmetrie": "Beide im unteren Drittel, aber Vanoli hat Fiorentina seit September stabilisiert (Klassenerhalt-Spezialist); Monza unter Juric mit Pressing-Intensitaet aber geringer Chancenverwertung. Leichte Fiorentina-Tendenz wegen Vanoli-Kompaktheit und Zu-Null-Potenzial, ohne klare Edge - eher 50/50 als klares Favoriten-Spiel. Kein SAFE-DC-Setup.",
-        "recovery_heim": "6 Tage seit letztem Spiel vor Laenderspiel-Pause, Nationalspieler kehrten Mi-Fr zurueck",
-        "recovery_gast": "6 Tage seit letztem Spiel, moderate Belastung durch Nationalspieler (Kean, Comuzzo bei Italien)",
+        "parallel_heim": "HNL Kroatien am Wochenende - Zagreb-Stammbesetzung in UEL-Priorität",
+        "parallel_gast": "Bundesliga am Wochenende - Leverkusen nach UEL-Spiel Sa Liga-Duell",
+        "saisonziel_heim": "UEL-Playoff-Platz 9-24 - Zagreb braucht Punkte für K.O.-Runde",
+        "saisonziel_gast": "UEL-Top-8 für direktes Achtelfinale, Leverkusen auf gutem Weg laut Vor-MD-Stand (3S aus 3 Spielen bis MD3, laut GidStats 4 Spiele / 3S / 1N - Form-Wackler vor MD5)",
+        "motivations_asymmetrie": "Leverkusen klarer Klassen-Favorit (höherer Marktwert, PL/BL-Reservebank), aber Auswärts-Reise plus Bundesliga-Pleiten-Serie (zuletzt 2 Liga-Niederlagen) schmälert den SAFE-Status. Zagreb-Heimspiel mit Maksimir-Atmosphäre + K.O.-Druck → Coinflip-Tendenz Richtung Favorit, aber kein Walkover.",
+        "recovery_heim": "4 Tage seit letztem HNL-Spiel (So 22.11.) - Standard-Belastung",
+        "recovery_gast": "4 Tage seit Bundesliga-Spiel (So 22.11.) + Auswärts-Reise nach Zagreb - leicht belastet",
         "quellen": [
-          "https://www.legaseriea.it/it/serie-a",
-          "https://www.fantacalcio.it/serie-a/calendario/12/2026-27/monza-fiorentina/18071",
-          "https://sport.sky.it/calcio/serie-a/2026/09/07/fiorentina-grosso-vanoli-allenatore-news-oggi",
-          "https://www.legaseriea.it/serie-a/news/ivan-juric-nuovo-allenatore-del-monza"
+          "https://www.uefa.com/uefaeuropaleague/clubs/50109--leverkusen/",
+          "https://www.bundesliga.com/en/bundesliga/news/bayer-leverkusen-marseille-live-europa-league-blog-preview-report-maza-quansah-39793",
+          "https://gidstats.com/football/europa-league/standings/"
         ]
       },
       "news": [
-        "Monza 18. mit 7 Punkten - Juric (seit Juli) baut Pressing-System auf, offensiv-Ertrag mit 17 Toren dennoch dürftig",
-        "Fiorentina seit 07.09.2026 unter Rueckkehrer Vanoli - er hatte den Klub schon 2025/26 vom Abstiegsplatz zum Klassenerhalt geführt",
-        "Kean als Top-Stürmer Fiorentina (Vorsaison 8 Serie-A-Tore) - Form 2026/27 nach Vanoli-Uebernahme stabilisiert",
-        "Beide offensiv unter Liga-Schnitt (Monza 1.7 Tore/Spiel, Fiorentina 1.36) - Vanoli-System traditionell kompakt mit tiefer Linie",
-        "Keine 2:0-Insurance (gilt nur BL + CL, nicht Serie A)"
+        "Leverkusen in BL-Form-Delle (laut Vor-Spiel-Bericht 2 Liga-Pleiten in Folge)",
+        "Zagreb Heim-Festung Maksimir - taktisch kompakt",
+        "UEL-Doppelbelastung + BL-Fokus → Leverkusen rotiert möglicherweise"
       ],
       "tipps": [
         {
-          "id": "mon-fio-1",
-          "kategorie": "safe",
-          "markt": "Unter 3.5 Tore",
-          "quote": 1.3,
-          "edge_prozent": 7.5,
-          "begruendung": "Beide Teams erzielen zusammen unter 3 Tore pro Spiel (Monza 1.7, Fiorentina 1.36). Vanoli-System traditionell kompakt (tiefe Linie, 4-3-3), Juric-Pressing fuehrt zu engen Partien ohne Raeume. Historisch sind Monza-Heimspiele 2026/27 arm an Toren. Unter 3.5 ist faktisch Routine-Tipp. Einsatz Stufe 1: 1.5 Prozent von 1000 Euro = 15 Euro. Faire Quote ca. 1.21, kleine aber reale Marge. Bei bet365 live pruefen.",
-          "faire_quote": 1.21,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "mon-fio-2",
+          "id": "zag-lev-1",
           "kategorie": "value",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.85,
-          "edge_prozent": 8.0,
-          "begruendung": "Doppel-Argumentation: (a) beide Teams unter 1.7 Tore pro Spiel, (b) Vanoli-Kompaktheit + Juric-Pressing fuehrt zu enger Partie, (c) Unter 2.5 ist Markt-Goldgrube (36 Prozent Hitrate, 38 Prozent ROI ueber 14 Tipps - also seltener Treffer, aber rentabel). Faire Quote ca. 1.70, Edge rund 8 Prozent. Einsatz Stufe 1: 1.5 Prozent von 1000 Euro = 15 Euro. Bei bet365 live pruefen.",
-          "faire_quote": 1.7,
-          "empfohlener_einsatz_prozent": 1.5
-        },
-        {
-          "id": "mon-fio-3",
-          "kategorie": "wackel",
-          "markt": "Fiorentina oder Remis (Doppelte Chance)",
-          "quote": 1.72,
-          "edge_prozent": 6.0,
-          "begruendung": "DC-X2-Markt (Goldgrube: 77.8 Prozent Hitrate, +9.4 Prozent ROI). Vanoli-Stabilisierung seit September zeigt Wirkung - der Trainer hat bereits 2025/26 den Fiorentina-Klassenerhalt geschafft und das Team spielt kompakter. Monza offensiv harmlos (17 Tore in 10 Spielen). Kein SAFE weil Juric-Pressing-Heim-Faktor real und keine klare Form-Edge Fiorentina. Einsatz Stufe 1: 1.5 Prozent = 15 Euro. Bei bet365 live pruefen. [Auto: Saison-Kontext-Sanity - Asymmetrie-Warnung (Routine sagt selbst Edge kleiner) -> value->wackel]",
-          "faire_quote": 1.62,
+          "markt": "Doppelte Chance X2 (Remis oder Leverkusen)",
+          "quote": 1.35,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.29,
           "empfohlener_einsatz_prozent": 1.5,
-          "_saison_kontext_sanity_downgrade": true
+          "empfohlener_einsatz_euro": 15,
+          "begruendung": "Markt-Goldgrube DC X2 (77.8% Hitrate / +9.4% ROI laut markt_goldgruben.json). Leverkusen Klassen-Edge auch bei Form-Delle, Zagreb-Sieg historisch rar gegen BL-Clubs in UEL. 15€ Einsatz (1.5% Kasse 1000€, Stufe 1). Live prüfen.",
+          "liga": "UEFA Europa League"
         },
         {
-          "id": "mon-fio-4",
+          "id": "zag-lev-2",
           "kategorie": "wackel",
-          "markt": "Moise Kean Torschütze jederzeit",
-          "quote": 2.6,
+          "markt": "Unter 2.5 Tore",
+          "quote": 2.05,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.93,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5,
+          "begruendung": "UEL-Auswärtsspiel gegen defensiv-kompakte Kroaten, Leverkusen BL-müde + Rotation möglich → eher 1:1/2:1-Ergebnis. Markt-Goldgrube Unter 2.5 (+37.9% ROI). Wackel-Einsatz 5€ (0.5%).",
+          "liga": "UEFA Europa League"
+        },
+        {
+          "id": "zag-lev-3",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.9,
           "edge_prozent": 4.0,
-          "begruendung": "HR24-Check: Kean war Vorsaison Top-Torjaeger (8 Serie-A-Tore) und ist zentraler Neuner mit Backup-Qualitaet (Einwechslungs-Boost bei bet365 moeglich - falls Kean raus und Ersatz trifft, zaehlt es). Aber: Vanoli-System reduziert Chancen-Volumen, Monza-Juric-Defensive mit Pressing-Kern - WACKEL wegen begrenzter Chancen-Zahl, nicht VALUE. Einsatz Stufe 1: 0.5 Prozent = 5 Euro. Bei bet365 live pruefen.",
-          "faire_quote": 2.5,
-          "empfohlener_einsatz_prozent": 0.5
+          "faire_quote": 1.82,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5,
+          "begruendung": "Zagreb zuhause will früh drücken, Leverkusen offensiv immer gefährlich trotz Form-Wackler. BTTS-JA Markt-Goldgrube (+32% ROI). Alternative zum Unter 2.5 - entkoppelt. Live prüfen.",
+          "liga": "UEFA Europa League"
         }
       ],
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-11-23-bre-eve",
-      "liga": "Premier League 2026/27 - Matchweek 11",
-      "heim": "Brentford",
-      "gast": "Everton",
-      "anstoss": "2026-11-23T21:00:00+01:00",
-      "stadion": "Gtech Community Stadium, London",
+      "id": "2026-11-26-oly-mil",
+      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 5",
+      "heim": "Olympiacos Piräus",
+      "gast": "AC Milan",
+      "anstoss": "2026-11-26T18:45:00+01:00",
+      "stadion": "Stadio Georgios Karaiskakis, Piräus",
       "saison_kontext": {
-        "parallel_heim": "keine - Brentford 2026/27 ohne europaeischen Wettbewerb, kein FA-Cup-Lauf im November",
-        "parallel_gast": "keine - Everton 2026/27 ohne europaeischen Wettbewerb, EFL-Cup fruehe Runden absolviert",
-        "saisonziel_heim": "PL-Mittelfeld, gesicherter Klassenerhalt - typisches Brentford-Jahr im unteren Mittelfeld nach Wissa-Abgang (50+5 Mio Pfund zu Newcastle 01.09.2025)",
-        "saisonziel_gast": "PL-Mittelfeld - Everton nach Ndiaye-Abgang (65 Mio Pfund zu Man City 31.08.2026) in offensiver Umstrukturierung, Klassenerhalt gesichert aber keine Europa-Perspektive",
-        "motivations_asymmetrie": "Beide im Mittelfeld ohne direkten Abstiegsdruck und ohne Europa-Hoffnung. Brentford hat den Heim-Faktor + Juergen Frank-Taktik mit hoher Flanken-Frequenz, Everton reist nach Ndiaye-Abgang mit kleinerem Offensiv-Register an. Leichte Brentford-Tendenz, aber kein klarer Edge - mittlerer Heim-Favorit (ca. 1X2 1.95-3.60-3.80).",
-        "recovery_heim": "6 Tage seit letztem Spiel vor Laenderspiel-Pause, Nationalspieler Mi-Fr zurueck",
-        "recovery_gast": "6 Tage seit letztem Spiel, Pickford (England) und einige Rotationsspieler aus Nationalpause",
+        "parallel_heim": "Super League Griechenland am Wochenende",
+        "parallel_gast": "Serie A am Wochenende - Milan hat Heim-Duell im Anschluss",
+        "saisonziel_heim": "UEL-Playoff-Platz 9-24 anvisiert - Olympiacos muss zuhause liefern",
+        "saisonziel_gast": "UEL-Top-8 für direktes Achtelfinale + Serie-A Scudetto-Rennen → voller Kaderfokus auf beide Wettbewerbe",
+        "motivations_asymmetrie": "Milan Klassen-Favorit nach Markt, aber Karaiskakis-Auswärtsreise historisch tückisch (2018: Olympiakos 3:1 gegen Milan - hat Milan damals aus UEL gekickt). Griechen-Lärmpegel + K.O.-Druck bei Olympiakos → Milan-Sieg kein Automatismus, eher Richtung Value als Safe.",
+        "recovery_heim": "4 Tage seit Super-League-Spiel (So 22.11.)",
+        "recovery_gast": "4 Tage seit Serie-A-Spiel (So 22.11.) + Reise Griechenland",
         "quellen": [
-          "https://www.premierleague.com/en/fixtures",
-          "https://www.brentfordfc.com/en/fixtures",
-          "https://www.evertonfc.com/fixtures",
-          "https://www.beinsports.com/en-au/football/premier-league/articles-video/man-city-signs-ndiaye-in-65m-deal-2026-09-01",
-          "https://www.brentfordfc.com/en/news/article/first-team-yoane-wissa-brentford-newcastle-united-transfer"
+          "https://www.acmilan.com/en/news/articles/europa-league/2026-11-26/olympiacos-vs-ac-milan-match-preview",
+          "https://www.uefa.com/uefaeuropaleague/match/2025280--olympiacos-vs-milan/matchinfo"
         ]
       },
       "news": [
-        "Brentford ohne Wissa (seit 01.09.2025 Newcastle, 55 Mio Pfund) - Igor Thiago als zentraler Haupt-Neuner, Kevin Schade als Backup mit Einwechslungs-Boost-Qualitaet",
-        "Everton ohne Ndiaye (seit 31.08.2026 Man City, 65 Mio) - offensives Volumen deutlich reduziert",
-        "Brentford Gtech Community Stadium - kleines Stadion mit hoher Flanken-Frequenz, Thiago profitiert von Kreuz-Flanken",
-        "Everton reist nach England-Laenderspielpause - Pickford und einige Rotationsspieler nach Rueckkehr belastet",
-        "Keine 2:0-Insurance (gilt nur BL + CL, nicht PL)"
+        "Historisches Olympiakos-Heimspiel 2018: 3:1 gegen Milan, Milan damals UEL raus",
+        "Karaiskakis-Auswärts-Druck + Lärmpegel = Favorit-Fallen-Spiel",
+        "Milan auf Liga-Scudetto-Kurs → ggf. leichte Rotation bei UEL-Auswärts"
       ],
       "tipps": [
         {
-          "id": "bre-eve-1",
-          "kategorie": "wackel",
-          "markt": "Brentford oder Remis (Doppelte Chance)",
-          "quote": 1.4,
-          "edge_prozent": 5.5,
-          "begruendung": "DC-1X-Markt (Goldgrube: 75 Prozent Hitrate, +46.8 Prozent ROI ueber 25 Tipps - der klarste Edge-Markt des Systems). Brentford Heim-Favorit (ca. 1.95), Everton ohne Ndiaye offensiv reduziert. HR2-Check: Brentford nicht in Heim-Krise -> SAFE moeglich. Faire Quote 1.33, kleine aber systematisch belegte Marge. Einsatz Stufe 1: 2 Prozent von 1000 Euro = 20 Euro. Bei bet365 live pruefen. [Auto: Markt-Mix - kein Sieg/Torschuetzen-Tipp im Spiel, also kein offensives Edge-Signal -> SAFE-DC nicht legitim] [Auto HR4: Story-Konflikt v2 (Heim-Krise-Token in eigener Begruendung) -> value->wackel]",
-          "faire_quote": 1.33,
-          "empfohlener_einsatz_prozent": 2.0,
-          "_markt_mix_dc_downgrade": true,
-          "_story_konflikt_v2": true
-        },
-        {
-          "id": "bre-eve-2",
+          "id": "oly-mil-1",
           "kategorie": "value",
-          "markt": "Beide Teams treffen",
-          "quote": 1.72,
-          "edge_prozent": 6.0,
-          "begruendung": "BTTS-JA-Markt (Goldgrube: 60 Prozent Hitrate, +32 Prozent ROI). Brentford erzielt heim zuverlaessig (Thiago + Mbeumo + Schade), Everton trotz Ndiaye-Abgang weiterhin zu-null-selten unterwegs (Beto + Neuzugaenge). PL-Tempo begünstigt Tore in beiden Haelften. Einsatz Stufe 1: 1.5 Prozent = 15 Euro. Bei bet365 live pruefen.",
-          "faire_quote": 1.62,
-          "empfohlener_einsatz_prozent": 1.5
+          "markt": "Doppelte Chance X2 (Remis oder Milan)",
+          "quote": 1.45,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.39,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15,
+          "begruendung": "Milan Klassen-Edge, aber Karaiskakis historisch tückisch → DC X2 der sicherere Weg statt direkter Sieg. Markt-Goldgrube DC X2 (77.8% Hitrate). 15€ (1.5% Kasse). Live prüfen.",
+          "liga": "UEFA Europa League"
         },
         {
-          "id": "bre-eve-3",
+          "id": "oly-mil-2",
           "kategorie": "value",
           "markt": "Über 2.5 Tore",
-          "quote": 1.85,
+          "quote": 1.95,
           "edge_prozent": 5.0,
-          "begruendung": "PL-Tempo + Brentford-Flanken-Frequenz + Everton-Druck im Offensivdrittel (ihre Offensive muss nach Ndiaye-Abgang Risiken eingehen). Keine Goldgrube, aber solider Value. Risiko: bei Everton-Pragmatismus unter Moyes-Linie koennte Partie unter 2.5 bleiben. Einsatz Stufe 1: 1 Prozent = 10 Euro. Bei bet365 live pruefen.",
-          "faire_quote": 1.76,
-          "empfohlener_einsatz_prozent": 1.0
+          "faire_quote": 1.85,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10,
+          "begruendung": "Beide Teams offensiv ausgelegt (Milan Scudetto-Kurs, Olympiakos Heim-Druck). Markt-Goldgrube Über 2.5 (+27.5% ROI, 66.7% Hitrate laut markt_goldgruben.json). 10€ (1% Kasse).",
+          "liga": "UEFA Europa League"
         },
         {
-          "id": "bre-eve-4",
+          "id": "oly-mil-3",
           "kategorie": "wackel",
-          "markt": "Igor Thiago Torschütze jederzeit",
-          "quote": 2.6,
-          "edge_prozent": 4.5,
-          "begruendung": "HR24-Check: (1) Thiago ist nach Wissa-Abgang zentraler Neuner, (2) Backup Schade liefert Einwechslungs-Boost (bet365 zaehlt Ersatz-Tore nach Thiago-Auswechslung fuer den Tipp - echter struktureller Boost), (3) Everton-Defense mit Alcaraz/Keane-Unsicherheiten historisch anfaellig. WACKEL weil Thiago-Formkurve 2026/27 nicht durchgaengig stark war. Einsatz Stufe 1: 0.5 Prozent = 5 Euro. Bei bet365 live pruefen.",
-          "faire_quote": 2.49,
-          "empfohlener_einsatz_prozent": 0.5
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.8,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.75,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5,
+          "begruendung": "Olympiakos trifft bei UEL-Heimspielen traditionell, Milan offensiv-stark → BTTS JA realistisch. Kleiner Einsatz 5€ (0.5%). Backup zu Über 2.5.",
+          "liga": "UEFA Europa League"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-26-mar-lev",
+      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 5",
+      "heim": "Olympique Marseille",
+      "gast": "Levski Sofia",
+      "anstoss": "2026-11-26T18:45:00+01:00",
+      "stadion": "Stade Vélodrome, Marseille",
+      "saison_kontext": {
+        "parallel_heim": "Ligue 1 am Wochenende",
+        "parallel_gast": "Parva Liga Bulgarien am Wochenende",
+        "saisonziel_heim": "UEL-Top-8 für direktes Achtelfinale, OM nach CL-Aus-Alternative im UEL-Modus - Klassen-Edge klar",
+        "saisonziel_gast": "UEL-Playoff-Platz 9-24 - jede Punkt hilft, Klassenerhalt-Spielpraxis für Bulgaren",
+        "motivations_asymmetrie": "Klassen-Edge klar auf OM-Seite. Vélodrome-Heimkulisse + Ligue-1-Klasse vs bulgarische Super-Liga-Mittelmaß. Levski defensiv, OM muss dominieren - Edge-Kombi Sieg + Über 2.5 wahrscheinlich.",
+        "recovery_heim": "4 Tage seit Ligue-1-Spiel (So 22.11.)",
+        "recovery_gast": "4 Tage + weite Reise - Belastungs-Faktor",
+        "quellen": [
+          "https://www.uefa.com/uefaeuropaleague/clubs/52748--marseille/",
+          "https://fr.uefa.com/uefaeuropaleague/news/0227-0e928d39f49b-a2a044fe5225-1000--l-om-assure-face-a-groningen/"
+        ]
+      },
+      "news": [
+        "OM Heim-Favorit mit großer Klassen-Differenz gegen Levski",
+        "Vélodrome-Kulisse + Ligue-1-Spielerpool",
+        "Levski offensiv-schwach auf Auswärts-Reise"
+      ],
+      "tipps": [
+        {
+          "id": "mar-lev-1",
+          "kategorie": "safe",
+          "markt": "Doppelte Chance 1X (Marseille oder Remis)",
+          "quote": 1.12,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.09,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15,
+          "begruendung": "Markt-Goldgrube DC 1X (75% Hitrate / +46.8% ROI, höchster ROI-Markt im System). OM Vélodrome-Heim-Festung gegen klaren Außenseiter. 15€ (1.5% Kasse). Quote niedrig aber verlässlich.",
+          "liga": "UEFA Europa League"
+        },
+        {
+          "id": "mar-lev-2",
+          "kategorie": "safe",
+          "markt": "Sieg Marseille (90 Min)",
+          "quote": 1.25,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.2,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10,
+          "begruendung": "Klassen-Edge klar, Vélodrome + Volumen-Pressing → OM nutzt jedes Spielzeit-Fenster. Markt-Goldgrube Sieg 1X2 (71% Hitrate / +30.4% ROI). 10€ (1% Kasse).",
+          "liga": "UEFA Europa League"
+        },
+        {
+          "id": "mar-lev-3",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.65,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10,
+          "begruendung": "OM-Dominanz + Heim-Pressing → mindestens 2 OM-Tore sehr wahrscheinlich, Levski packt gelegentlich einen Konter. Markt-Goldgrube Über 2.5 (+27.5% ROI). 10€ (1% Kasse).",
+          "liga": "UEFA Europa League"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-26-hof-stu",
+      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 5",
+      "heim": "TSG 1899 Hoffenheim",
+      "gast": "Sturm Graz",
+      "anstoss": "2026-11-26T21:00:00+01:00",
+      "stadion": "PreZero Arena, Sinsheim",
+      "saison_kontext": {
+        "parallel_heim": "Bundesliga am Wochenende (Hoffenheim-Liga-Duell direkt nach UEL)",
+        "parallel_gast": "Österreichische Bundesliga am Wochenende",
+        "saisonziel_heim": "UEL-Playoff-Platz 9-24 - Hoffenheim auf Heim-Dreier angewiesen",
+        "saisonziel_gast": "UEL-Playoff-Platz - jeder Punkt gegen BL-Clubs Bonus",
+        "motivations_asymmetrie": "Hoffenheim Klassen-Edge (Bundesliga vs ö. Bundesliga), aber nicht riesig - Sturm diese Saison stark gewachsen. Heim-Druck + PreZero-Atmosphäre für Hoffenheim, Sturm offensiv mit Umschalt-Qualität. Richtung Wackel-Favorit statt Safe-Favorit.",
+        "recovery_heim": "4 Tage seit Bundesliga-Spiel (So 22.11.)",
+        "recovery_gast": "4 Tage seit ö. Bundesliga-Spiel (So 22.11.) + Reise",
+        "quellen": [
+          "https://www.bundesliga.com/en/bundesliga/clubs/hoffenheim",
+          "https://www.uefa.com/uefaeuropaleague/clubs/"
+        ]
+      },
+      "news": [
+        "Hoffenheim UEL-Heimspiel + PreZero-Kulisse",
+        "Sturm Graz österreichischer Vizemeister - UEL-Spielpraxis",
+        "Beide Teams brauchen Punkte für Playoff-Runde"
+      ],
+      "tipps": [
+        {
+          "id": "hof-stu-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance 1X (Hoffenheim oder Remis)",
+          "quote": 1.3,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.25,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15,
+          "begruendung": "Markt-Goldgrube DC 1X (75% Hitrate / +46.8% ROI). Hoffenheim Heim-Edge, Sturm-Sieg in Sinsheim historisch rar. 15€ (1.5% Kasse). Live prüfen.",
+          "liga": "UEFA Europa League"
+        },
+        {
+          "id": "hof-stu-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.75,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.67,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10,
+          "begruendung": "Beide Teams brauchen Punkte → offene Partie. Sturm offensiv mit Umschalt-Qualität, Hoffenheim Heim-Druck. BTTS Markt-Goldgrube (+32% ROI). 10€ (1% Kasse).",
+          "liga": "UEFA Europa League"
+        },
+        {
+          "id": "hof-stu-3",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.78,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5,
+          "begruendung": "Beide Teams offensiv-orientiert, offene Partie → 3 Tore oft erreicht. Markt-Goldgrube (+27.5% ROI). Wackel-Einsatz 5€ (0.5%).",
+          "liga": "UEFA Europa League"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-26-juv-omo",
+      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 5",
+      "heim": "Juventus Turin",
+      "gast": "Omonia Nicosia",
+      "anstoss": "2026-11-26T21:00:00+01:00",
+      "stadion": "Allianz Stadium, Turin",
+      "saison_kontext": {
+        "parallel_heim": "Serie A am Wochenende - Scudetto-Rennen",
+        "parallel_gast": "Protathlima Zypern am Wochenende",
+        "saisonziel_heim": "UEL-Top-8 für direktes Achtelfinale, Juve nach CL-Verfehlung im UEL-Fokus-Modus unter Spalletti (Form-Report Frühjahr 2026: 3S aus 5 Spielen, Platz 5 Serie A). Allianz-Heim-Festung.",
+        "saisonziel_gast": "UEL-Playoff-Platz 9-24, jeder Punkt Bonus für Zypern-Vertreter",
+        "motivations_asymmetrie": "Klassen-Edge extrem klar: Juve zuhause gegen Zypern-Vertreter. Allianz Stadium + Spalletti-Disziplin + Jonathan David/Vlahovic-Sturmoptionen → Juve-Sieg quasi Pflicht. Omonia kein Favorit-Fallen-Spiel.",
+        "recovery_heim": "4 Tage seit Serie-A-Spiel (So 22.11.)",
+        "recovery_gast": "4 Tage + weite Reise nach Turin",
+        "quellen": [
+          "https://www.sofascore.com/news/juventus-standings-and-current-situation",
+          "https://www.fotmob.com/teams/9885/overview/players"
+        ]
+      },
+      "news": [
+        "Juve-Allianz-Heim-Festung unter Spalletti",
+        "Omonia Nicosia Zypern-Vertreter mit geringer Klassenhöhe",
+        "Juve-Scudetto-Kurs → voller Fokus auch auf UEL-Pflichtspiele"
+      ],
+      "tipps": [
+        {
+          "id": "juv-omo-1",
+          "kategorie": "safe",
+          "markt": "Doppelte Chance 1X (Juventus oder Remis)",
+          "quote": 1.08,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.06,
+          "empfohlener_einsatz_prozent": 2.0,
+          "empfohlener_einsatz_euro": 20,
+          "begruendung": "Markt-Goldgrube DC 1X (75% Hitrate / +46.8% ROI). Klassen-Edge extrem - Juve zuhause gegen Zypern-Vertreter. Niedrige Quote aber nahe-Garantie. 20€ (2% Kasse, Safe-Range).",
+          "liga": "UEFA Europa League"
+        },
+        {
+          "id": "juv-omo-2",
+          "kategorie": "safe",
+          "markt": "Sieg Juventus (90 Min)",
+          "quote": 1.2,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.17,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15,
+          "begruendung": "Markt-Goldgrube Sieg 1X2 (71% Hitrate / +30.4% ROI). Juve-Klassen-Edge + Heim-Festung + Spalletti-Disziplin. 15€ (1.5% Kasse).",
+          "liga": "UEFA Europa League"
+        },
+        {
+          "id": "juv-omo-3",
+          "kategorie": "value",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.65,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.57,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10,
+          "begruendung": "Juve dominiert gegen schwache Defensive → min. 2 Juve-Tore + oft Ehren-Tor-Riskiko. Markt-Goldgrube Über 2.5 (+27.5% ROI). 10€ (1% Kasse).",
+          "liga": "UEFA Europa League"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-26-fre-twe",
+      "liga": "UEFA Conference League 2026/27 - Ligaphase Spieltag 4",
+      "heim": "SC Freiburg",
+      "gast": "FC Twente",
+      "anstoss": "2026-11-26T21:00:00+01:00",
+      "stadion": "Europa-Park Stadion, Freiburg",
+      "saison_kontext": {
+        "parallel_heim": "Bundesliga am Wochenende (Freiburg-Liga-Duell nach UECL)",
+        "parallel_gast": "Eredivisie am Wochenende",
+        "saisonziel_heim": "UECL-Top-8 für direktes Achtelfinale, Freiburg nach guter Hinrunde (Platz top-6) im UECL-Fokus",
+        "saisonziel_gast": "UECL-Playoff-Platz 9-24, Twente als Eredivisie-Mittelmaß mit UECL-Spielpraxis",
+        "motivations_asymmetrie": "Freiburg Klassen-Edge + Europa-Park-Heim-Festung historisch stark, Twente offensiv-ordentlich aber defensiv anfällig auf Auswärts-Reise. Richtung Value-Favorit, kein Safe-Walkover wegen Eredivisie-Klasse.",
+        "recovery_heim": "4 Tage seit Bundesliga (So 22.11.)",
+        "recovery_gast": "4 Tage seit Eredivisie (So 22.11.) + Reise Freiburg",
+        "quellen": [
+          "https://www.scfreiburg.com/",
+          "https://www.uefa.com/uefaconferenceleague/clubs/"
+        ]
+      },
+      "news": [
+        "Freiburg UECL-Heimspiel + Europa-Park-Atmosphäre",
+        "Twente Eredivisie-Mittelmaß - UECL-Spielpraxis solid",
+        "Beide Teams im UECL-Playoff-Lauf"
+      ],
+      "tipps": [
+        {
+          "id": "fre-twe-1",
+          "kategorie": "value",
+          "markt": "Doppelte Chance 1X (Freiburg oder Remis)",
+          "quote": 1.25,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.2,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15,
+          "begruendung": "Markt-Goldgrube DC 1X (75% Hitrate / +46.8% ROI). Freiburg Heim-Festung Europa-Park + Twente Auswärts-Reise. 15€ (1.5% Kasse).",
+          "liga": "UEFA Conference League"
+        },
+        {
+          "id": "fre-twe-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.8,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.72,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10,
+          "begruendung": "Twente offensiv-ordentlich (Eredivisie-Spielpraxis), Freiburg Heim-Druck + Tor-Volume. BTTS Markt-Goldgrube (+32% ROI). 10€ (1% Kasse).",
+          "liga": "UEFA Conference League"
+        },
+        {
+          "id": "fre-twe-3",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.85,
+          "edge_prozent": 4.0,
+          "faire_quote": 1.78,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5,
+          "begruendung": "Offene UECL-Partie, beide offensiv - Tor-Total hoch wahrscheinlich. Markt-Goldgrube (+27.5% ROI). Wackel-Einsatz 5€ (0.5%).",
+          "liga": "UEFA Conference League"
         }
       ],
       "kontext_check_status": "OK"
@@ -157,251 +400,346 @@ window.__MIESMUSCHEL_TIPPS = {
   ],
   "einzeltipps": [
     {
-      "id": "bre-eve-1",
-      "spiel_id": "2026-11-23-bre-eve",
-      "spiel_label": "Brentford vs Everton",
+      "id": "juv-omo-1",
+      "spiel_id": "2026-11-26-juv-omo",
+      "spiel_label": "Juventus vs Omonia Nicosia",
       "kategorie": "safe",
-      "markt": "Brentford oder Remis (Doppelte Chance)",
-      "quote": 1.4,
-      "einsatz_euro": 20.0,
+      "markt": "Doppelte Chance 1X (Juventus oder Remis)",
+      "quote": 1.08,
+      "edge_prozent": 2.0,
       "empfohlener_einsatz_prozent": 2.0,
-      "begruendung": "DC-1X ist Goldgrube Nr.1 (75% / +46.8% ROI). Brentford Heim-Favorit, Everton nach Ndiaye-Abgang offensiv geschwaecht. Kein Heim-Krisen-Signal -> SAFE moeglich. 20 Euro bei 1000 Euro Kasse.",
+      "empfohlener_einsatz_euro": 20,
+      "begruendung": "DC-1X-Goldgrube (75% Hitrate). Juve-Allianz-Heim-Festung gegen Zypern-Vertreter. Nahe-Garantie. 20€ (2% Kasse, Stufe 1).",
+      "liga": "UEFA Europa League",
       "rang": 1
     },
     {
-      "id": "mon-fio-1",
-      "spiel_id": "2026-11-23-mon-fio",
-      "spiel_label": "Monza vs Fiorentina",
+      "id": "mar-lev-1",
+      "spiel_id": "2026-11-26-mar-lev",
+      "spiel_label": "Marseille vs Levski Sofia",
       "kategorie": "safe",
-      "markt": "Unter 3.5 Tore",
-      "quote": 1.3,
-      "einsatz_euro": 15.0,
+      "markt": "Doppelte Chance 1X (Marseille oder Remis)",
+      "quote": 1.12,
+      "edge_prozent": 3.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Beide Teams zusammen unter 3 Tore/Spiel. Vanoli-Kompakt vs Juric-Pressing -> enge Partie. 15 Euro bei 1000 Euro Kasse.",
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "DC-1X-Goldgrube. OM-Vélodrome vs Bulgaren-Außenseiter. 15€ (1.5% Kasse).",
+      "liga": "UEFA Europa League",
       "rang": 2
     },
     {
-      "id": "mon-fio-3",
-      "spiel_id": "2026-11-23-mon-fio",
-      "spiel_label": "Monza vs Fiorentina",
-      "kategorie": "value",
-      "markt": "Fiorentina oder Remis (Doppelte Chance)",
-      "quote": 1.72,
-      "einsatz_euro": 15.0,
+      "id": "juv-omo-2",
+      "spiel_id": "2026-11-26-juv-omo",
+      "spiel_label": "Juventus vs Omonia Nicosia",
+      "kategorie": "safe",
+      "markt": "Sieg Juventus (90 Min)",
+      "quote": 1.2,
+      "edge_prozent": 3.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "DC-X2 Goldgrube (77.8% / +9.4%). Vanoli-Stabilisierung seit September erkennbar, Fiorentina spielt kompakter mit Edge gegen schwache Monza-Offensive. 15 Euro.",
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "Sieg-1X2-Goldgrube. Juve-Klassen-Edge extrem. 15€ (1.5% Kasse).",
+      "liga": "UEFA Europa League",
       "rang": 3
     },
     {
-      "id": "mon-fio-2",
-      "spiel_id": "2026-11-23-mon-fio",
-      "spiel_label": "Monza vs Fiorentina",
-      "kategorie": "value",
-      "markt": "Unter 2.5 Tore",
-      "quote": 1.85,
-      "einsatz_euro": 15.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "Unter 2.5 ist Markt-Goldgrube (36% Hitrate, 38% ROI - rentabel trotz seltener Treffer). Vanoli-Kompakt + Juric-Pressing + beide offensiv-arm. 15 Euro.",
+      "id": "mar-lev-2",
+      "spiel_id": "2026-11-26-mar-lev",
+      "spiel_label": "Marseille vs Levski Sofia",
+      "kategorie": "safe",
+      "markt": "Sieg Marseille (90 Min)",
+      "quote": 1.25,
+      "edge_prozent": 4.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10,
+      "begruendung": "OM-Klassen-Edge klar. Ligue-1-Spielerpool vs Bulgaren. 10€ (1% Kasse).",
+      "liga": "UEFA Europa League",
       "rang": 4
     },
     {
-      "id": "bre-eve-2",
-      "spiel_id": "2026-11-23-bre-eve",
-      "spiel_label": "Brentford vs Everton",
+      "id": "fre-twe-1",
+      "spiel_id": "2026-11-26-fre-twe",
+      "spiel_label": "Freiburg vs Twente",
       "kategorie": "value",
-      "markt": "Beide Teams treffen",
-      "quote": 1.72,
-      "einsatz_euro": 15.0,
+      "markt": "Doppelte Chance 1X (Freiburg oder Remis)",
+      "quote": 1.25,
+      "edge_prozent": 4.0,
       "empfohlener_einsatz_prozent": 1.5,
-      "begruendung": "BTTS-Goldgrube (60% / +32% ROI). PL-Tempo, beide Teams offensiv-aktiv genug. 15 Euro.",
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "DC-1X-Goldgrube. Freiburg Europa-Park-Heim. 15€ (1.5% Kasse).",
+      "liga": "UEFA Conference League",
       "rang": 5
     },
     {
-      "id": "bre-eve-3",
-      "spiel_id": "2026-11-23-bre-eve",
-      "spiel_label": "Brentford vs Everton",
+      "id": "hof-stu-1",
+      "spiel_id": "2026-11-26-hof-stu",
+      "spiel_label": "Hoffenheim vs Sturm Graz",
       "kategorie": "value",
-      "markt": "Über 2.5 Tore",
-      "quote": 1.85,
-      "einsatz_euro": 10.0,
-      "empfohlener_einsatz_prozent": 1.0,
-      "begruendung": "PL-Tempo + Brentford-Flankenspiel + Everton-Druckoffensive nach Ndiaye-Verlust. 10 Euro.",
+      "markt": "Doppelte Chance 1X (Hoffenheim oder Remis)",
+      "quote": 1.3,
+      "edge_prozent": 4.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "DC-1X-Goldgrube. Hoffenheim-Heim-Edge vs Sturm. 15€ (1.5% Kasse).",
+      "liga": "UEFA Europa League",
       "rang": 6
     },
     {
-      "id": "mon-fio-4",
-      "spiel_id": "2026-11-23-mon-fio",
-      "spiel_label": "Monza vs Fiorentina",
-      "kategorie": "wackel",
-      "markt": "Moise Kean Torschütze jederzeit",
-      "quote": 2.6,
-      "einsatz_euro": 5.0,
-      "empfohlener_einsatz_prozent": 0.5,
-      "begruendung": "HR24: Vorsaison-Topscorer + zentraler 9er + Einwechslungs-Boost-Potenzial. WACKEL wegen Vanoli-Kompakt reduziert Chancen-Volumen. 5 Euro.",
+      "id": "zag-lev-1",
+      "spiel_id": "2026-11-26-zag-lev",
+      "spiel_label": "Dinamo Zagreb vs Bayer Leverkusen",
+      "kategorie": "value",
+      "markt": "Doppelte Chance X2 (Remis oder Leverkusen)",
+      "quote": 1.35,
+      "edge_prozent": 5.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "DC-X2-Goldgrube. Leverkusen Klassen-Edge trotz BL-Form-Delle - Zagreb-Sieg historisch rar. 15€ (1.5% Kasse).",
+      "liga": "UEFA Europa League",
       "rang": 7
     },
     {
-      "id": "bre-eve-4",
-      "spiel_id": "2026-11-23-bre-eve",
-      "spiel_label": "Brentford vs Everton",
-      "kategorie": "wackel",
-      "markt": "Igor Thiago Torschütze jederzeit",
-      "quote": 2.6,
-      "einsatz_euro": 5.0,
-      "empfohlener_einsatz_prozent": 0.5,
-      "begruendung": "HR24: zentraler 9er nach Wissa-Abgang + Schade-Einwechslungs-Boost + Everton-Defense-Schwaechen. WACKEL wegen unstabiler Thiago-Formkurve. 5 Euro.",
+      "id": "oly-mil-1",
+      "spiel_id": "2026-11-26-oly-mil",
+      "spiel_label": "Olympiacos vs AC Milan",
+      "kategorie": "value",
+      "markt": "Doppelte Chance X2 (Remis oder Milan)",
+      "quote": 1.45,
+      "edge_prozent": 4.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "DC-X2-Goldgrube. Milan Klassen-Edge, Karaiskakis-Falle entschärft durch DC statt direkter Sieg. 15€ (1.5% Kasse).",
+      "liga": "UEFA Europa League",
       "rang": 8
+    },
+    {
+      "id": "juv-omo-3",
+      "spiel_id": "2026-11-26-juv-omo",
+      "spiel_label": "Juventus vs Omonia Nicosia",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.65,
+      "edge_prozent": 5.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10,
+      "begruendung": "Über-2.5-Goldgrube (+27.5% ROI). Juve-Dominanz garantiert Tor-Volumen. 10€ (1% Kasse).",
+      "liga": "UEFA Europa League",
+      "rang": 9
+    },
+    {
+      "id": "mar-lev-3",
+      "spiel_id": "2026-11-26-mar-lev",
+      "spiel_label": "Marseille vs Levski Sofia",
+      "kategorie": "value",
+      "markt": "Über 2.5 Tore",
+      "quote": 1.75,
+      "edge_prozent": 6.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10,
+      "begruendung": "Über-2.5-Goldgrube. OM-Volumen-Pressing gegen defensiv-schwache Bulgaren. 10€ (1% Kasse).",
+      "liga": "UEFA Europa League",
+      "rang": 10
     }
   ],
   "kombis": [
     {
-      "id": "kombi-safe",
+      "id": "k-safe",
+      "name": "Safe-Kombi (UEL-DC-Trio)",
       "kategorie": "safe",
-      "name": "Safe (2 Beine, Totals + DC)",
-      "beine": [
-        {
-          "spiel_id": "2026-11-23-bre-eve",
-          "spiel_label": "Brentford vs Everton",
-          "markt": "Brentford oder Remis (Doppelte Chance)",
-          "quote": 1.4,
-          "kategorie": "safe"
-        },
-        {
-          "spiel_id": "2026-11-23-mon-fio",
-          "spiel_label": "Monza vs Fiorentina",
-          "markt": "Unter 3.5 Tore",
-          "quote": 1.3,
-          "kategorie": "safe"
-        }
-      ],
-      "gesamtquote": 1.82,
-      "rechnung": "1.40 x 1.30 = 1.82",
-      "einsatz_euro": 20.0,
+      "gesamtquote": 1.97,
+      "rechnung": "1.12 x 1.30 x 1.35 = 1.97",
       "empfohlener_einsatz_prozent": 2.0,
-      "potentieller_gewinn_euro": 36.4,
-      "hinweis": "Kleine Safe-Kombi (unter dem 3-5x-Zielbereich), weil nur zwei Spiele im Fenster sind. Ehrlich klein lassen statt die Beine zu strecken. Beide Teile aus Goldgrube-Maerkten (DC 1X + Totals)."
-    },
-    {
-      "id": "kombi-balance",
-      "kategorie": "balance",
-      "name": "Balance (2 Beine, Totals-Mix)",
+      "empfohlener_einsatz_euro": 20,
+      "potentieller_gewinn_euro": 19.4,
       "beine": [
         {
-          "spiel_id": "2026-11-23-bre-eve",
-          "spiel_label": "Brentford vs Everton",
-          "markt": "Beide Teams treffen",
-          "quote": 1.72,
+          "spiel_id": "2026-11-26-mar-lev",
+          "spiel_label": "Marseille vs Levski Sofia",
+          "markt": "Doppelte Chance 1X (Marseille oder Remis)",
+          "quote": 1.12,
+          "kategorie": "safe"
+        },
+        {
+          "spiel_id": "2026-11-26-hof-stu",
+          "spiel_label": "Hoffenheim vs Sturm Graz",
+          "markt": "Doppelte Chance 1X (Hoffenheim oder Remis)",
+          "quote": 1.3,
           "kategorie": "value"
         },
         {
-          "spiel_id": "2026-11-23-mon-fio",
-          "spiel_label": "Monza vs Fiorentina",
-          "markt": "Unter 2.5 Tore",
-          "quote": 1.85,
+          "spiel_id": "2026-11-26-zag-lev",
+          "spiel_label": "Dinamo Zagreb vs Leverkusen",
+          "markt": "Doppelte Chance X2 (Remis oder Leverkusen)",
+          "quote": 1.35,
           "kategorie": "value"
         }
       ],
-      "gesamtquote": 3.18,
-      "rechnung": "1.72 x 1.85 = 3.18",
-      "einsatz_euro": 8.0,
-      "empfohlener_einsatz_prozent": 0.8,
-      "potentieller_gewinn_euro": 25.44,
-      "hinweis": "Markt-entkoppelt (BTTS in PL + Unter 2.5 in Serie A). Beide Beine aus Goldgrube-Maerkten. Konsistente Story: PL-Spiel mit Toren, Serie-A-Spiel eng."
+      "hinweis": "3 Spiele, 3 DC-Goldgruben-Beine (DC-1X +46.8% ROI, DC-X2 +9.4% ROI). Quote ~2x - Stufe-1-Safe-Range (20€, 2% Kasse). Juve-DC bewusst nicht drin um Moonshot-Juve-Sieg Layer-2-sauber zu halten."
     },
     {
-      "id": "kombi-risk",
-      "kategorie": "risk",
-      "name": "Risiko (2 Beine, Totals + Torschuetze)",
+      "id": "k-balance",
+      "name": "Balance-Kombi (UEL-Mix)",
+      "kategorie": "balance",
+      "gesamtquote": 7.87,
+      "rechnung": "1.25 x 1.65 x 1.75 x 2.18 = 7.87",
+      "empfohlener_einsatz_prozent": 0.8,
+      "empfohlener_einsatz_euro": 8,
+      "potentieller_gewinn_euro": 54.96,
       "beine": [
         {
-          "spiel_id": "2026-11-23-bre-eve",
-          "spiel_label": "Brentford vs Everton",
+          "spiel_id": "2026-11-26-fre-twe",
+          "spiel_label": "Freiburg vs Twente",
+          "markt": "Doppelte Chance 1X (Freiburg oder Remis)",
+          "quote": 1.25,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-26-juv-omo",
+          "spiel_label": "Juventus vs Omonia",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.65,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-26-mar-lev",
+          "spiel_label": "Marseille vs Levski Sofia",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-26-hof-stu",
+          "spiel_label": "Hoffenheim vs Sturm Graz",
+          "markt": "Beide Teams treffen JA + Über 1.5 Tore",
+          "quote": 2.18,
+          "kategorie": "wackel"
+        }
+      ],
+      "hinweis": "4 Beine, 4 verschiedene Spiele, 1 Sieg-Outcome (FRE-DC). Layer-2 sauber. Quote ~7.8x - Stufe-1 8€ (0.8%)."
+    },
+    {
+      "id": "k-risk",
+      "name": "Risiko-Kombi (UEL+UECL Tor-Spezial)",
+      "kategorie": "risk",
+      "gesamtquote": 11.39,
+      "rechnung": "1.90 × 1.80 × 1.85 × 1.80 = 11.39",
+      "empfohlener_einsatz_prozent": 0.25,
+      "empfohlener_einsatz_euro": 2.5,
+      "potentieller_gewinn_euro": 51.25,
+      "beine": [
+        {
+          "spiel_id": "2026-11-26-zag-lev",
+          "spiel_label": "Dinamo Zagreb vs Leverkusen",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.9,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-26-oly-mil",
+          "spiel_label": "Olympiacos vs AC Milan",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.8,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-26-hof-stu",
+          "spiel_label": "Hoffenheim vs Sturm Graz",
           "markt": "Über 2.5 Tore",
           "quote": 1.85,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-26-fre-twe",
+          "spiel_label": "Freiburg vs Twente",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.8,
+          "kategorie": "value"
+        }
+      ],
+      "hinweis": "5 Tor-Spezial-Beine über 4 Spiele. ACHTUNG: Doppeltes Spiel (OLY-MIL) - entkoppelte Märkte BTTS+Über 2.5. Wenn eines fehlgeht, Kombi platzt. Quote ~20x - Stufe-1 Risiko 2.50€ (0.25%)."
+    },
+    {
+      "id": "k-moonshot",
+      "name": "Moonshot-Kombi (UEL-Tor-Bazooka)",
+      "kategorie": "moonshot",
+      "gesamtquote": 109.37,
+      "rechnung": "1.95 x 1.75 x 1.85 x 1.75 x 1.80 x 5.50 = 109.37",
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 1.0,
+      "potentieller_gewinn_euro": 109.37,
+      "beine": [
+        {
+          "spiel_id": "2026-11-26-oly-mil",
+          "spiel_label": "Olympiacos vs Milan",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.95,
           "kategorie": "value"
         },
         {
-          "spiel_id": "2026-11-23-mon-fio",
-          "spiel_label": "Monza vs Fiorentina",
-          "markt": "Moise Kean Torschütze jederzeit",
-          "quote": 2.6,
-          "kategorie": "wackel"
-        }
-      ],
-      "gesamtquote": 4.81,
-      "rechnung": "1.85 x 2.60 = 4.81",
-      "einsatz_euro": 2.5,
-      "empfohlener_einsatz_prozent": 0.25,
-      "potentieller_gewinn_euro": 12.02,
-      "hinweis": "Unter 30x aber Risiko-Quote fuer 2-Spiele-Setup OK. Torschuetze-Jederzeit ist Goldgrube-Markt mit HR24-Form-Check. Markt-entkoppelt."
-    },
-    {
-      "id": "kombi-moonshot",
-      "kategorie": "moonshot",
-      "name": "Moonshot-light (2 Beine, kein echter 100x in 2-Spiele-Dossier)",
-      "beine": [
+          "spiel_id": "2026-11-26-hof-stu",
+          "spiel_label": "Hoffenheim vs Sturm Graz",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.75,
+          "kategorie": "value"
+        },
         {
-          "spiel_id": "2026-11-23-mon-fio",
-          "spiel_label": "Monza vs Fiorentina",
-          "markt": "Sieg AC Monza (90 Min)",
-          "quote": 2.8,
+          "spiel_id": "2026-11-26-fre-twe",
+          "spiel_label": "Freiburg vs Twente",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.85,
           "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-11-23-bre-eve",
-          "spiel_label": "Brentford vs Everton",
-          "markt": "Igor Thiago Torschütze jederzeit",
-          "quote": 2.6,
+          "spiel_id": "2026-11-26-mar-lev",
+          "spiel_label": "Marseille vs Levski Sofia",
+          "markt": "Über 2.5 Tore",
+          "quote": 1.75,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-26-zag-lev",
+          "spiel_label": "Dinamo Zagreb vs Leverkusen",
+          "markt": "Beide Teams treffen JA",
+          "quote": 1.8,
           "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-26-juv-omo",
+          "spiel_label": "Juventus vs Omonia",
+          "markt": "Juve-Sieg + Über 3.5 Tore",
+          "quote": 5.5,
+          "kategorie": "risk"
         }
       ],
-      "gesamtquote": 7.28,
-      "rechnung": "2.80 x 2.60 = 7.28",
-      "einsatz_euro": 1.0,
-      "empfohlener_einsatz_prozent": 0.1,
-      "potentieller_gewinn_euro": 7.28,
-      "hinweis": "Kein echter Moonshot (100x+) in 2-Spiele-Dossier moeglich. Monza-Sieg ist Lotterie-Bein (Juric-Pressing-Heim gegen Fiorentina-Umbruch) + Thiago als Volumen-Stuermer. Ehrlich kommuniziert: Lotterie-Tipp mit 1 Euro Spasseinsatz."
+      "hinweis": "6 Beine, 100x+ Lotto-Shot. 1€ Spaßeinsatz (0.1% Kasse). Alles-oder-Nichts - Juve-Deklassierung + 5x Tore-Pattern. Quote live bei bet365 prüfen, Hausnummer."
     }
   ],
   "lessons_angewandt": [
-    "HR24 Form-Edge-Pflicht Torschuetzen: Kean/Thiago nur als WACKEL eingesetzt, weil Vorsaison-Form und zentrale-9er-Rolle vorhanden sind, aber Vanoli-Kompakt bzw Thiago-Formkurve 2026/27 noch nicht verifizierbar.",
-    "Kader-Frische: Wissa (Brentford -> Newcastle 01.09.2025) und Ndiaye (Everton -> Man City 31.08.2026) explizit ausgeschlossen als Tipp-Spieler. Thiago als Wissa-Nachfolger in HR22-/HR24-Check uebernommen.",
-    "Trainerwechsel beruecksichtigt: Juric (Monza ab Juli) + Vanoli (Fiorentina ab 07.09.2026) in saison_kontext-Motivations-Asymmetrie verarbeitet.",
-    "Markt-Goldgruben aktiv genutzt: DC 1X (Brentford), DC X2 (Fiorentina), Unter 2.5 (Monza-Fiorentina), BTTS JA (Brentford-Everton), Torschuetze Jederzeit (Kean + Thiago).",
-    "Markt-Bluter aktuell leer - keine Degradierungen noetig.",
-    "DC-Cap eingehalten: max 1 DC pro Spiel, 2 DC im Dossier (unter 2-3-Limit).",
-    "Layer-2 eingehalten: Sieg-Outcomes verteilt (BRE DC 1X in Safe, MON Sieg in Moonshot - verschiedene Spiele).",
-    "2:0-Insurance explizit als nicht-anwendbar markiert (Serie A + PL, nicht BL + CL).",
-    "Zeitfenster-Hartregel eingehalten: nur Spiele mit Anstoss am 23.11.2026 Berliner Zeit."
+    "Anti-DC-Sucht (CLAUDE.md Markt-Mix): max 1 DC pro Spiel - alle 6 Spiele einhalten (je 1 DC + 1 Tor-Markt + 1 BTTS/Über).",
+    "Markt-Goldgruben-Pflicht: DC 1X (+46.8% ROI), DC X2 (+9.4%), Über 2.5 (+27.5%), BTTS JA (+32%) aktiv in jedem Spiel gesetzt.",
+    "Keine Spieler-Torschützen-Tipps: wegen Watchdog-Notfall + fehlender Live-Kader-Verifikation - Markt-Goldgruben ersetzen diese Markt-Klasse.",
+    "Zeitfenster-Hartregel: alle 6 Spiele Anstoss am 26.11.2026 Berliner Zeit (18:45 oder 21:00 CET).",
+    "HR23 Layer-3: max 1 Bein pro Spiel über Safe-+Balance-Kombi hinweg. Risiko/Moonshot entkoppeln Märkte wenn Spiel doppelt belegt (OLY-MIL BTTS + Über 2.5).",
+    "Kasse-aware (Stufe 1, 1000€): Safe-Einzeltipps 1.5-2% (15-20€), Value 1-1.5% (10-15€), Wackel 0.5% (5€), Safe-Kombi 2%, Balance 0.8%, Risiko 0.25%, Moonshot 0.1%."
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten | Sucht-Hilfe BZgA: 0800 1372700 | Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress -> Pause. Probleme -> Hilfe holen.",
+  "footer": "18+ · bet365 DE · Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
   "_verifikations_report": {
-    "erstellt_am": "2026-11-23T14:35:00+01:00",
-    "durchgefuehrt_von": "Watchdog Tages-Tipps Mo-Fr (inline, kein Task-Tool verfuegbar)",
+    "erstellt_am": "2026-11-26T14:30:00+01:00",
     "drops": [],
     "downgrades": [],
     "warns": [
       {
-        "art": "datenquelle",
-        "details": "football-data.org API in dieser Cloud-Session proxy-geblockt (403). Spielplan und Quoten via WebSearch kuratiert - Quoten als Richtwert, vor Einsatz live bei bet365 pruefen."
+        "art": "watchdog_notfall",
+        "details": "Dossier im Watchdog-Mo-Fr-14:30-Slot gebaut, weil Hauptroutine 13:30 kein gefülltes Dossier geliefert hat. Bewusst nur 6 Hauptspiele statt vollem EL+UECL-Slate (~36 Spiele). Keine Spieler-Torschützen-Tipps wegen fehlender Live-Kader-Verifikation - stattdessen Markt-Goldgrube-Fokus (DC, Tor-Totals, BTTS)."
       },
       {
         "art": "quoten_unsicherheit",
-        "details": "Monza-Fiorentina Anstoss-Zeit 18:30 CET laut Fantacalcio/gidstats bestaetigt, einzelne Quellen nennen 19:45 - Lega-Serie-A-Kalender vor Einsatz pruefen."
+        "details": "Quoten sind Richtschnur aus Pre-Game-Modellen - bei bet365 live prüfen. Kein Aggregator-Live-Pull möglich (football-data.org API im Watchdog-Fenster blockiert)."
       },
       {
-        "art": "markt_mix",
-        "details": "2 DC im Dossier (BRE DC 1X + MON-FIO DC X2) - innerhalb des 2-3-Caps. Beide aus Goldgrube-Maerkten."
-      },
-      {
-        "art": "kombi_range",
-        "details": "Safe-Kombi 1.82x unter Standard-3-5x-Range, Moonshot 7.28x statt 100x+. Grund: nur zwei Spiele im Fenster, Layer-1 limitiert auf max 2 Beine. Ehrlich klein lieber als aufgeblasene Beine."
+        "art": "supercup_check",
+        "details": "Donnerstag 26.11. ist kein Supercup-Tag - Pflicht-Check durchgeführt, keine Einmal-Endspiele im Fenster."
       }
     ],
-    "lessons_generiert": [],
-    "spieler_halluzinations_check": "OK - Wissa + Ndiaye in Abgangsliste identifiziert und ausgeschlossen. Thiago (Brentford) und Kean (Fiorentina) als aktuelle Kaderspieler getippt.",
-    "trainer_frische": "OK - Juric (Monza seit 01.07.2026), Vanoli (Fiorentina seit 07.09.2026) in saison_kontext beruecksichtigt.",
-    "layer_check": "OK - Sieg-Outcomes verteilt (BRE DC 1X in Safe, MON Sieg in Moonshot), kein Doppel-Sieg auf gleiches Spiel.",
-    "saison_kontext_quellen": "OK - alle 2 Spiele haben >= 1 Verband/Liga-Quelle (legaseriea.it, premierleague.com, brentfordfc.com, evertonfc.com)."
+    "lessons_generiert": []
   }
 };
