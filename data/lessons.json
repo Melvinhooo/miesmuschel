@@ -4270,7 +4270,31 @@
       "kategorie": "Einwechslungs-Boost Quellen-Pflicht",
       "lesson": "HR11-25-8 Einwechslungs-Boost-Anwendung erfordert explizite Substitutions-Quelle (Lineup + Minute + Ersatz-Minute). Bei Shakhtar-Fener Muriqi als Scorer bekannt, aber Lukaku-Auswechslung + Muriqi-Einwechslung nicht direkt belegt - Boost nicht angewandt. Gleicher Fall bei Thuram/Lautaro und Musiala/Diaz. Praxis: In zukuenftigen Auswertungen gezielt nach 'Starting XI' + 'Substitutions' suchen, nicht nur nach Scorer-Listen - sonst entfallen 2-3 potenzielle Boost-Gewinne pro Spieltag.",
       "bezug_spiel_id": "2026-11-25-int-stu"
+    },
+    {
+      "datum": "2026-11-26",
+      "kategorie": "Einwechsel-Joker-Cluster",
+      "lesson": "HR11-26-1 Einwechsel-Tore als strukturelles Pattern: in Hoffenheim-Sturm trafen Conte (80') und Moerstedt (90') beide direkt nach Einwechslung - die 2:1 und 3:1 wurden von Jokern erzielt, HZ-Rueckstand komplett gedreht. Gleicher Pattern-Anklang in Milan-Moreira (90+5' zum 4:2). Praxis: Volumen-Backup-Stuermer bei Favoriten mit Tiefe (Hoffenheim, Milan, Juventus) sind sichere Torschuetzen-Volume-Picks, auch als Wackel - das mechanische Preview-Namedropping der Startelf reicht nicht, die 2.-HZ-Joker muessen mitbedacht werden.",
+      "bezug_spiel_id": "2026-11-26-hof-stu"
+    },
+    {
+      "datum": "2026-11-26",
+      "kategorie": "Favoriten-Over-Hype-Falle",
+      "lesson": "HR11-26-2 Ueber-2.5-Tore gegen Mega-Underdogs ist kein Automatismus: Salzburg schlug Ararat nur 2:0 (Vertessen + Baidoo liessen in den ersten 12 Minuten je eine 1gegen1-Chance liegen); Marseille gewann Levski nur 1:0; Bayer gewann Dinamo nur 2:0. Trotz EL-Klassenlogik blieben 3/10 Spielen unter 2.5 Tore. These: unterschiedliches Spielniveau fuehrt zu vorsichtigem Favoriten-Fussball (nicht mehr Druck geben wenn fruehe Fuehrung fehlt), nicht zu Torflut. Praxis: Ueber-2.5 nur bei Favorit MIT Chancenvolumen UND Underdog MIT Treffsicherheit, nicht bei Mega-Dominanz-Pairings.",
+      "bezug_spiel_id": "2026-11-26-sal-ara"
+    },
+    {
+      "datum": "2026-11-26",
+      "kategorie": "Markt-Pattern aus nicht-getippten Spielen",
+      "lesson": "HR11-26-3 Doppelte-Chance X2 (Underdog-NichtNiederlage) ist in EL/CL-Ligaphase diese Woche viel staerker als getippt: Plzen schlug Benfica 4:0 (Underdog-Totalsieg trotz Benfica 100% EL-Quote vorher), Milan gewann in Piraeus. Die vorgefertigten Moonshot-Kombi-Beine (Omonia DC X2 bei Juve, Hapoel DC X2 bei Besiktas) haetten hochbezahlt - aber nur an falschen Spielen angesetzt. Praxis: In EL-Ligaphase-Spielplaenen immer 1-2 Underdog-DC-X2-Einzeltipps mit passendem Setup setzen (Form-Fav mit Druck + Reise-Belastung + offensive Verwundbarkeit), nicht nur als Moonshot-Loswert.",
+      "bezug_spiel_id": "2026-11-26-plz-ben"
+    },
+    {
+      "datum": "2026-11-26",
+      "kategorie": "Torschuetze annulliert",
+      "lesson": "HR11-26-4 Bei Torschuetzen-Jederzeit-Tipps zaehlt NUR regulaer anerkanntes Tor. Vlahovic (Besiktas-Hapoel) traf in 90+1, wurde aber wegen Abseits annulliert; Assist zum Kokcu-Winner zaehlt nicht fuer Torschuetzen-Markt. Einwechslungs-Boost greift auch nur wenn X selbst ausgewechselt wurde - Vlahovic blieb auf dem Platz, hatte sein Tor aber annulliert, also bleibt der Tipp verloren. Praxis: Bei spaet erzielten (85+) Torschuetzen-Treffern VAR-Check immer verifizieren bevor als 'gewonnen' gebucht wird.",
+      "bezug_spiel_id": "2026-11-26-bes-hap"
     }
   ],
-  "stand": "2026-11-26"
+  "stand": "2026-11-27"
 }

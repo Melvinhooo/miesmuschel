@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-11-26T06:16:18+00:00",
+  "letzte_berechnung": "2026-11-27T06:18:24+00:00",
   "gesamt": {
-    "tipps": 241,
-    "gewonnen": 149,
-    "verloren": 80,
+    "tipps": 253,
+    "gewonnen": 159,
+    "verloren": 82,
     "push": 0,
     "offen": 12,
-    "einsatz": 229.0,
-    "netto": 79.32,
-    "trefferquote": 65.1,
-    "roi_prozent": 34.6
+    "einsatz": 241.0,
+    "netto": 92.82,
+    "trefferquote": 66.0,
+    "roi_prozent": 38.5
   },
   "letzte_30_tage": {
-    "tipps": 102,
-    "gewonnen": 58,
-    "verloren": 37,
+    "tipps": 105,
+    "gewonnen": 60,
+    "verloren": 38,
     "push": 0,
     "offen": 7,
-    "einsatz": 95.0,
-    "netto": 21.81,
-    "trefferquote": 61.1,
-    "roi_prozent": 23.0
+    "einsatz": 98.0,
+    "netto": 32.76,
+    "trefferquote": 61.2,
+    "roi_prozent": 33.4
   },
   "letzte_90_tage": {
-    "tipps": 241,
-    "gewonnen": 149,
-    "verloren": 80,
+    "tipps": 253,
+    "gewonnen": 159,
+    "verloren": 82,
     "push": 0,
     "offen": 12,
-    "einsatz": 229.0,
-    "netto": 79.32,
-    "trefferquote": 65.1,
-    "roi_prozent": 34.6
+    "einsatz": 241.0,
+    "netto": 92.82,
+    "trefferquote": 66.0,
+    "roi_prozent": 38.5
   },
   "nach_liga": {
     "Serie A - 2. Spieltag": {
@@ -551,6 +551,28 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 1.5,
       "trefferquote": 33.3,
       "roi_prozent": 50.0
+    },
+    "UEFA Europa League 2026/27 - Ligaphase Spieltag 5": {
+      "tipps": 10,
+      "gewonnen": 8,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 10.0,
+      "netto": 10.8,
+      "trefferquote": 80.0,
+      "roi_prozent": 108.0
+    },
+    "UEFA Conference League 2026/27 - Ligaphase Spieltag 4": {
+      "tipps": 2,
+      "gewonnen": 2,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 2.7,
+      "trefferquote": 100.0,
+      "roi_prozent": 135.0
     }
   },
   "nach_markt": {
@@ -1061,15 +1083,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "Über 2.5 Tore": {
-      "tipps": 15,
-      "gewonnen": 6,
-      "verloren": 7,
+      "tipps": 20,
+      "gewonnen": 10,
+      "verloren": 8,
       "push": 0,
       "offen": 2,
-      "einsatz": 13.0,
-      "netto": 1.9,
-      "trefferquote": 46.2,
-      "roi_prozent": 14.6
+      "einsatz": 18.0,
+      "netto": 7.66,
+      "trefferquote": 55.6,
+      "roi_prozent": 42.6
     },
     "Tottenham oder Remis (Doppelte Chance)": {
       "tipps": 1,
@@ -2313,19 +2335,96 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Sieg Juventus Turin (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.15,
+      "trefferquote": 100.0,
+      "roi_prozent": 115.0
+    },
+    "Sieg RB Salzburg (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.16,
+      "trefferquote": 100.0,
+      "roi_prozent": 116.0
+    },
+    "Sieg Brighton & Hove Albion (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.3,
+      "trefferquote": 100.0,
+      "roi_prozent": 130.0
+    },
+    "Sieg TSG 1899 Hoffenheim (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.33,
+      "trefferquote": 100.0,
+      "roi_prozent": 133.0
+    },
+    "Sieg Olympique Marseille (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.4,
+      "trefferquote": 100.0,
+      "roi_prozent": 140.0
+    },
+    "Sieg Besiktas JK (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.4,
+      "trefferquote": 100.0,
+      "roi_prozent": 140.0
+    },
+    "Über 3.5 Tore": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
     "Sieg (1X2 / ML)": {
-      "tipps": 33,
-      "gewonnen": 22,
+      "tipps": 39,
+      "gewonnen": 28,
       "verloren": 9,
       "push": 0,
       "offen": 2,
-      "einsatz": 31.0,
-      "netto": 9.42,
-      "trefferquote": 71.0,
-      "roi_prozent": 30.4
+      "einsatz": 37.0,
+      "netto": 17.16,
+      "trefferquote": 75.7,
+      "roi_prozent": 46.4
     },
     "Unter 2.5 Tore": {
       "tipps": 14,
@@ -2350,15 +2449,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 13.6
     },
     "Ueber 2.5 Tore": {
-      "tipps": 42,
-      "gewonnen": 21,
-      "verloren": 17,
+      "tipps": 47,
+      "gewonnen": 25,
+      "verloren": 18,
       "push": 0,
       "offen": 4,
-      "einsatz": 38.0,
-      "netto": 9.47,
-      "trefferquote": 55.3,
-      "roi_prozent": 24.9
+      "einsatz": 43.0,
+      "netto": 15.23,
+      "trefferquote": 58.1,
+      "roi_prozent": 35.4
     },
     "Doppelte Chance 1X": {
       "tipps": 25,
@@ -2427,15 +2526,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 170.0
     },
     "Ueber 3.5 Tore": {
-      "tipps": 2,
+      "tipps": 3,
       "gewonnen": 2,
-      "verloren": 0,
+      "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 2.0,
+      "einsatz": 3.0,
       "netto": 3.7,
-      "trefferquote": 100.0,
-      "roi_prozent": 185.0
+      "trefferquote": 66.7,
+      "roi_prozent": 123.3
     },
     "Beide Teams treffen JA": {
       "tipps": 10,
@@ -2550,26 +2649,26 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 111,
-      "gewonnen": 64,
-      "verloren": 42,
+      "tipps": 113,
+      "gewonnen": 65,
+      "verloren": 43,
       "push": 0,
       "offen": 5,
-      "einsatz": 106.0,
-      "netto": 51.18,
-      "trefferquote": 60.4,
-      "roi_prozent": 48.3
+      "einsatz": 108.0,
+      "netto": 52.78,
+      "trefferquote": 60.2,
+      "roi_prozent": 48.9
     },
     "1.00-1.50": {
-      "tipps": 102,
-      "gewonnen": 78,
-      "verloren": 18,
+      "tipps": 112,
+      "gewonnen": 87,
+      "verloren": 19,
       "push": 0,
       "offen": 6,
-      "einsatz": 96.0,
-      "netto": 24.69,
-      "trefferquote": 81.2,
-      "roi_prozent": 25.7
+      "einsatz": 106.0,
+      "netto": 36.59,
+      "trefferquote": 82.1,
+      "roi_prozent": 34.5
     },
     "2.00-3.00": {
       "tipps": 19,
@@ -2596,26 +2695,26 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 46,
-      "gewonnen": 38,
-      "verloren": 7,
+      "tipps": 56,
+      "gewonnen": 47,
+      "verloren": 8,
       "push": 0,
       "offen": 1,
-      "einsatz": 45.0,
-      "netto": 17.98,
-      "trefferquote": 84.4,
-      "roi_prozent": 40.0
+      "einsatz": 55.0,
+      "netto": 29.88,
+      "trefferquote": 85.5,
+      "roi_prozent": 54.3
     },
     "value": {
-      "tipps": 151,
-      "gewonnen": 89,
-      "verloren": 55,
+      "tipps": 153,
+      "gewonnen": 90,
+      "verloren": 56,
       "push": 0,
       "offen": 7,
-      "einsatz": 144.0,
-      "netto": 44.12,
-      "trefferquote": 61.8,
-      "roi_prozent": 30.6
+      "einsatz": 146.0,
+      "netto": 45.72,
+      "trefferquote": 61.6,
+      "roi_prozent": 31.3
     },
     "wackel": {
       "tipps": 42,
@@ -2659,15 +2758,15 @@ window.__MIESMUSCHEL_STAT = {
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 241,
-      "gewonnen": 149,
-      "verloren": 80,
+      "tipps": 253,
+      "gewonnen": 159,
+      "verloren": 82,
       "push": 0,
       "offen": 12,
-      "einsatz": 229.0,
-      "netto": 79.32,
-      "trefferquote": 65.1,
-      "roi_prozent": 34.6
+      "einsatz": 241.0,
+      "netto": 92.82,
+      "trefferquote": 66.0,
+      "roi_prozent": 38.5
     },
     "kasse": {
       "name": "2026/27",
@@ -2704,21 +2803,309 @@ window.__MIESMUSCHEL_STAT = {
         "start": "2026-08-22",
         "ende": "2027-06-30",
         "bilanz": {
-          "tipps": 241,
-          "gewonnen": 149,
-          "verloren": 80,
+          "tipps": 253,
+          "gewonnen": 159,
+          "verloren": 82,
           "push": 0,
           "offen": 12,
-          "einsatz": 229.0,
-          "netto": 79.32,
-          "trefferquote": 65.1,
-          "roi_prozent": 34.6
+          "einsatz": 241.0,
+          "netto": 92.82,
+          "trefferquote": 66.0,
+          "roi_prozent": 38.5
         },
         "ist_aktuell": true
       }
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-11-26",
+      "gesamt": {
+        "tipps": 12,
+        "gewonnen": 10,
+        "verloren": 2,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 12.0,
+        "netto": 13.5,
+        "trefferquote": 83.3,
+        "roi_prozent": 112.5
+      },
+      "spiele": [
+        {
+          "id": "2026-11-26-juv-omo",
+          "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 5",
+          "heim": "Juventus Turin",
+          "gast": "Omonia Nicosia",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg Juventus Turin (90 Min)",
+              "quote": 1.15,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.15,
+              "kommentar": "Juve 4:1 - Heimsieg sicher."
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.4,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.4,
+              "kommentar": "5 Tore - Ueber 2.5 klar."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-sal-ara",
+          "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 5",
+          "heim": "RB Salzburg",
+          "gast": "Ararat-Armenia",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg RB Salzburg (90 Min)",
+              "quote": 1.16,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.16,
+              "kommentar": "Salzburg 2:0 - Heimsieg, aber muehsam gegen das EL-Schlusslicht."
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.25,
+              "kategorie": "safe",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Nur 2 Tore - Ueber 2.5 nicht getroffen. Vertessen + Baidoo liessen Riesen-Chancen in der 1.HZ liegen, HZ 0:0."
+            },
+            {
+              "markt": "Über 3.5 Tore",
+              "quote": 1.6,
+              "kategorie": "value",
+              "status": "verloren",
+              "gewinn_faktor": 0.0,
+              "kommentar": "Nur 2 Tore - Ueber 3.5 klar verfehlt. Multi-Predictor-These 3-1/4-0 nicht aufgegangen."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-mar-lev",
+          "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 5",
+          "heim": "Olympique Marseille",
+          "gast": "Levski Sofia",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg Olympique Marseille (90 Min)",
+              "quote": 1.4,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.4,
+              "kommentar": "OM 1:0 - knapper Heimsieg per Elfmeter."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-hof-stu",
+          "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 5",
+          "heim": "TSG 1899 Hoffenheim",
+          "gast": "SK Sturm Graz",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg TSG 1899 Hoffenheim (90 Min)",
+              "quote": 1.33,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.33,
+              "kommentar": "Hoffenheim 3:1 nach Rueckstand - Drehung! Conte + Moerstedt als Einwechsel-Trefferschuetzen."
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.36,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.36,
+              "kommentar": "4 Tore insgesamt - Ueber 2.5 klar."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-bri-cra",
+          "liga": "UEFA Conference League 2026/27 - Ligaphase Spieltag 4",
+          "heim": "Brighton & Hove Albion",
+          "gast": "Universitatea Craiova",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg Brighton & Hove Albion (90 Min)",
+              "quote": 1.3,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.3,
+              "kommentar": "Brighton 4:0 - PL-Klasse gegen Rumaenien-Mittelfeld klar durchgesetzt."
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.4,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.4,
+              "kommentar": "4 Tore - Ueber 2.5 klar."
+            }
+          ]
+        },
+        {
+          "id": "2026-11-26-bes-hap",
+          "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 5",
+          "heim": "Besiktas JK",
+          "gast": "Hapoel Beer-Sheva",
+          "endstand": "—",
+          "tipps": [
+            {
+              "markt": "Sieg Besiktas JK (90 Min)",
+              "quote": 1.4,
+              "kategorie": "safe",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.4,
+              "kommentar": "Besiktas 2:1 - knapper Spaet-Sieg nach torloser HZ (Spielort Batumi/Georgien aus Sicherheitsgruenden)."
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.6,
+              "kategorie": "value",
+              "status": "gewonnen",
+              "gewinn_faktor": 1.6,
+              "kommentar": "3 Tore - Ueber 2.5 getroffen (Olaitan 75', Kokcu 90', East 90+3)."
+            }
+          ]
+        }
+      ],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (~4.1x) - Vier Favoriten-Siege",
+          "kategorie": "safe",
+          "gesamtquote": 4.12,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Hoffenheim",
+              "quote": 1.33,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Marseille",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Brighton",
+              "quote": 1.3,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Bayer Leverkusen (Auswärts)",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (~7.3x) - Mix Tore + Sieg + BTTS",
+          "kategorie": "balance",
+          "gesamtquote": 7.29,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 1.4,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 3.5 Tore",
+              "quote": 1.6,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sieg Freiburg",
+              "quote": 1.95,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.67,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (~23x) - Underdog-Favorit + Hoch-Tore + Underdog-Torschütze",
+          "kategorie": "risk",
+          "gesamtquote": 23.12,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Sieg Benfica (Auswärts)",
+              "quote": 1.85,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 3.5 Tore",
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beljo Torschütze jederzeit",
+              "quote": 5.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (~100x+) - Underdog-DC + Underdog-Torschütze",
+          "kategorie": "moonshot",
+          "gesamtquote": 105.0,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Hapoel Beer-Sheva Doppelte Chance X2 (Remis/Hapoel)",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Omonia Doppelte Chance X2 (Remis/Omonia)",
+              "quote": 6.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Serobyan Torschütze jederzeit (Ararat)",
+              "quote": 5.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-11-25",
       "gesamt": {
