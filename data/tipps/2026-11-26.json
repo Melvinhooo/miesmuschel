@@ -772,7 +772,8 @@
       "edge_prozent": 4.0,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15,
-      "begruendung": "Juve zuhause gegen Omonia bei Allianz unter Spalletti ist klarster Favoriten-Call des Tages. Markt-Typ Sieg (1X2) ist Goldgrube (+30.4% ROI, 71% Hitrate). Keine 2:0-Insurance (EL), aber Klassen-Edge reicht. Einsatz 15 EUR (1.5% Kasse 1000 EUR, Stufe 1). Quote live prüfen."
+      "begruendung": "Juve zuhause gegen Omonia bei Allianz unter Spalletti ist klarster Favoriten-Call des Tages. Markt-Typ Sieg (1X2) ist Goldgrube (+30.4% ROI, 71% Hitrate). Keine 2:0-Insurance (EL), aber Klassen-Edge reicht. Einsatz 15 EUR (1.5% Kasse 1000 EUR, Stufe 1). Quote live prüfen.",
+      "rang": 1
     },
     {
       "spiel_id": "2026-11-26-sal-ara",
@@ -785,7 +786,8 @@
       "edge_prozent": 3.0,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15,
-      "begruendung": "Salzburg 77.6% implizite Siegwahrscheinlichkeit, Ararat 8.7%. Markt-Typ Sieg = Goldgrube (+30.4% ROI). Einsatz 15 EUR (1.5% Kasse 1000 EUR, Stufe 1). Quote live prüfen."
+      "begruendung": "Salzburg 77.6% implizite Siegwahrscheinlichkeit, Ararat 8.7%. Markt-Typ Sieg = Goldgrube (+30.4% ROI). Einsatz 15 EUR (1.5% Kasse 1000 EUR, Stufe 1). Quote live prüfen.",
+      "rang": 2
     },
     {
       "spiel_id": "2026-11-26-sal-ara",
@@ -798,7 +800,8 @@
       "edge_prozent": 5.0,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15,
-      "begruendung": "Ararat 3+ Gegentore in jedem EL-Spiel, Salzburg Heim-Scoring stark. Goldgrube Über 2.5 Tore (+24.9% ROI, 55.3% Hit). Einsatz 15 EUR."
+      "begruendung": "Ararat 3+ Gegentore in jedem EL-Spiel, Salzburg Heim-Scoring stark. Goldgrube Über 2.5 Tore (+24.9% ROI, 55.3% Hit). Einsatz 15 EUR.",
+      "rang": 3
     },
     {
       "spiel_id": "2026-11-26-bri-cra",
@@ -811,7 +814,8 @@
       "edge_prozent": 5.0,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15,
-      "begruendung": "Brighton zuhause gegen Rumänien-Mittelfeld klarer Favorit. Markt Sieg = Goldgrube. Einsatz 15 EUR."
+      "begruendung": "Brighton zuhause gegen Rumänien-Mittelfeld klarer Favorit. Markt Sieg = Goldgrube. Einsatz 15 EUR.",
+      "rang": 4
     },
     {
       "spiel_id": "2026-11-26-hof-stu",
@@ -824,7 +828,8 @@
       "edge_prozent": 6.0,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15,
-      "begruendung": "Hoffenheim 71% implizit, 3 Heim-Siege in Serie, Sturm defensiv 14 Gegentore in 6 Spielen. Goldgrube Sieg (+30.4% ROI)."
+      "begruendung": "Hoffenheim 71% implizit, 3 Heim-Siege in Serie, Sturm defensiv 14 Gegentore in 6 Spielen. Goldgrube Sieg (+30.4% ROI).",
+      "rang": 5
     },
     {
       "spiel_id": "2026-11-26-hof-stu",
@@ -837,7 +842,8 @@
       "edge_prozent": 6.0,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15,
-      "begruendung": "Hoffenheim-Heim 8:1 Tore letzte 3 Spiele, Sturm defensiv Chaos. Markt Goldgrube."
+      "begruendung": "Hoffenheim-Heim 8:1 Tore letzte 3 Spiele, Sturm defensiv Chaos. Markt Goldgrube.",
+      "rang": 6
     },
     {
       "spiel_id": "2026-11-26-juv-omo",
@@ -850,7 +856,8 @@
       "edge_prozent": 6.0,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15,
-      "begruendung": "Juventus 4 Tore gegen Venezia, Omonia offensiv auch präsent (6 Pkt in EL + eigene Tore). Markt-Typ Über 2.5 ist Goldgrube (+24.9% ROI). Einsatz 15 EUR."
+      "begruendung": "Juventus 4 Tore gegen Venezia, Omonia offensiv auch präsent (6 Pkt in EL + eigene Tore). Markt-Typ Über 2.5 ist Goldgrube (+24.9% ROI). Einsatz 15 EUR.",
+      "rang": 7
     },
     {
       "spiel_id": "2026-11-26-mar-lev",
@@ -863,7 +870,8 @@
       "edge_prozent": 5.0,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15,
-      "begruendung": "OM 66% implizit zuhause, Druck auf Top-24-Platz schafft Motivation. Markt Sieg = Goldgrube. Einsatz 15 EUR."
+      "begruendung": "OM 66% implizit zuhause, Druck auf Top-24-Platz schafft Motivation. Markt Sieg = Goldgrube. Einsatz 15 EUR.",
+      "rang": 8
     },
     {
       "spiel_id": "2026-11-26-bri-cra",
@@ -876,7 +884,8 @@
       "edge_prozent": 6.0,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15,
-      "begruendung": "Brighton-Heim-Scoring konstant, Craiova defensiv dünn. Goldgrube Über 2.5."
+      "begruendung": "Brighton-Heim-Scoring konstant, Craiova defensiv dünn. Goldgrube Über 2.5.",
+      "rang": 9
     },
     {
       "spiel_id": "2026-11-26-bes-hap",
@@ -889,7 +898,8 @@
       "edge_prozent": 5.0,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15,
-      "begruendung": "Besiktas zuhause mit Vlahovic als Volume-9er. Markt Sieg = Goldgrube."
+      "begruendung": "Besiktas zuhause mit Vlahovic als Volume-9er. Markt Sieg = Goldgrube.",
+      "rang": 10
     },
     {
       "spiel_id": "2026-11-26-sal-ara",
@@ -902,7 +912,8 @@
       "edge_prozent": 7.0,
       "empfohlener_einsatz_prozent": 1.0,
       "empfohlener_einsatz_euro": 10,
-      "begruendung": "Multi-Prediction für 3-1 oder 4-0. Salzburg zuhause gegen offensiv-defensiv unterlegenen Ararat. Einsatz 10 EUR."
+      "begruendung": "Multi-Prediction für 3-1 oder 4-0. Salzburg zuhause gegen offensiv-defensiv unterlegenen Ararat. Einsatz 10 EUR.",
+      "rang": 11
     },
     {
       "spiel_id": "2026-11-26-bes-hap",
@@ -915,7 +926,8 @@
       "edge_prozent": 5.0,
       "empfohlener_einsatz_prozent": 1.0,
       "empfohlener_einsatz_euro": 10,
-      "begruendung": "Besiktas-Heim-Scoring + Vlahovic-Treffer-Tendenz, Hapoel offensiv auch nicht Null. Goldgrube Über 2.5."
+      "begruendung": "Besiktas-Heim-Scoring + Vlahovic-Treffer-Tendenz, Hapoel offensiv auch nicht Null. Goldgrube Über 2.5.",
+      "rang": 12
     }
   ],
   "kombis": [

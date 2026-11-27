@@ -1,398 +1,320 @@
 // Auto-generiert
 window.__MIESMUSCHEL_TIPPS = {
-  "datum": "2026-11-26",
-  "erstellt_am": "2026-11-26T14:30:00+01:00",
-  "_emergency_recovery": true,
-  "_emergency_hinweis": "Watchdog-Routine Mo-Fr 14:30 - Hauptroutine (13:30) hat kein gefülltes Dossier geliefert. Dossier ist bewusst schlank gehalten (6 Hauptspiele statt voller Donnerstag-Slate von 36 EL+UECL-Spielen), Fokus auf Markt-Goldgruben (DC 1X, Über 2.5, BTTS) ohne spezifische Torschützen-Namen - Live-Kader-Verifikation war im Watchdog-Fenster nicht möglich.",
-  "hinweis": "Donnerstag = UEL/UECL-Doppel-Slot. 18 Europa-League-Spiele (Matchday 5) + ca. 18 Conference-League-Spiele (Matchday 4). Dossier fokussiert auf 6 Hauptspiele mit Bundesliga-/Serie-A-Vertretern (Leverkusen, Milan, Juve, Hoffenheim, Freiburg) + Ligue-1-Favorit Marseille. Kasse 1000€ Stufe 1 (konservative 0.25-2% Einsätze). Quoten bei bet365 live prüfen - alle Werte Richtschnur.",
+  "datum": "2026-11-27",
+  "erstellt_am": "2026-11-27T14:30:00+01:00",
+  "hinweis": "Watchdog Mo-Fr greift ein: Hauptroutine 13:30 hat kein Dossier geliefert. 4 Spiele am Freitag im Zeitfenster - 1x Bundesliga (Werder - Gladbach, 20:30), 2x 2. Bundesliga (Bochum - Darmstadt + Heidenheim - Nürnberg, beide 18:30), 1x Ligue 1 (Brest - Paris FC, 20:45). Konservativ mit Stufe 1 (Kasse 1000€). Markt-Goldgruben aktiv genutzt (Doppelte Chance, Über 2.5, BTTS, Torschützen Jederzeit).",
   "spiele": [
     {
-      "id": "2026-11-26-zag-lev",
-      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 5",
-      "heim": "GNK Dinamo Zagreb",
-      "gast": "Bayer Leverkusen",
-      "anstoss": "2026-11-26T18:45:00+01:00",
-      "stadion": "Stadion Maksimir, Zagreb",
+      "id": "2026-11-27-wer-glb",
+      "liga": "Bundesliga 2026/27 - 11. Spieltag",
+      "heim": "SV Werder Bremen",
+      "gast": "Borussia Mönchengladbach",
+      "anstoss": "2026-11-27T20:30:00+01:00",
+      "stadion": "Weserstadion, Bremen",
       "saison_kontext": {
-        "parallel_heim": "HNL Kroatien am Wochenende - Zagreb-Stammbesetzung in UEL-Priorität",
-        "parallel_gast": "Bundesliga am Wochenende - Leverkusen nach UEL-Spiel Sa Liga-Duell",
-        "saisonziel_heim": "UEL-Playoff-Platz 9-24 - Zagreb braucht Punkte für K.O.-Runde",
-        "saisonziel_gast": "UEL-Top-8 für direktes Achtelfinale, Leverkusen auf gutem Weg laut Vor-MD-Stand (3S aus 3 Spielen bis MD3, laut GidStats 4 Spiele / 3S / 1N - Form-Wackler vor MD5)",
-        "motivations_asymmetrie": "Leverkusen klarer Klassen-Favorit (höherer Marktwert, PL/BL-Reservebank), aber Auswärts-Reise plus Bundesliga-Pleiten-Serie (zuletzt 2 Liga-Niederlagen) schmälert den SAFE-Status. Zagreb-Heimspiel mit Maksimir-Atmosphäre + K.O.-Druck → Coinflip-Tendenz Richtung Favorit, aber kein Walkover.",
-        "recovery_heim": "4 Tage seit letztem HNL-Spiel (So 22.11.) - Standard-Belastung",
-        "recovery_gast": "4 Tage seit Bundesliga-Spiel (So 22.11.) + Auswärts-Reise nach Zagreb - leicht belastet",
+        "parallel_heim": "keine - Werder spielt 2026/27 keinen Europapokal, nur Bundesliga + DFB-Pokal (bereits ausgeschieden bzw. keine Zwischenrunde diese Woche)",
+        "parallel_gast": "keine - Gladbach spielt 2026/27 keinen Europapokal, aktuell nur Bundesliga",
+        "saisonziel_heim": "Klassenerhalt / unteres Tabellenmittelfeld. Niclas Füllkrug führte nach dem 6. Spieltag die BL-Torjägerliste 2026/27 an (Doppelpack vs Paderborn). Jens Stage (Hamstring-OP im Saisonvorbereitungs-Spiel vs Freiburg) bis 2027 raus, Mbangula per Deadline-Day zu Bologna gewechselt.",
+        "saisonziel_gast": "Klassenerhalt. Aktuell zwischen Platz 15-17 nach zähem Saisonstart unter Polanski (0 Siege in den ersten 4 Spielen); Trainerwechsel am 22.09.2026 zu Alexander Blessin (Vertrag bis 2028, davor St. Pauli). Unter Blessin Dreierkette (3-4-2-1 / 4-2-2-2), defensiv-pressing-orientiert, mehr Umschalt-Momente = Tendenz Über 2.5. Rocco Reitz zu RB Leipzig weg, Nicolas Kühn als Leihe von Como neue Offensiv-Option.",
+        "motivations_asymmetrie": "Beidseitig Abstiegskampf-Charakter ohne klaren Klassen-Favoriten. Werder zuhause mit Füllkrug-Form-Edge, Gladbach unter Blessin defensiv stabiler aber offensiv weiter blass. Eher BTTS/Tor-Total-Spiel als klares Sieg-Edge für eine Seite - typisches Coinflip-Match mit leichtem Heim-Vorteil.",
+        "recovery_heim": "7 Tage seit dem letzten BL-Spieltag vor der Länderspielpause; ohne Europapokal-Belastung frisch",
+        "recovery_gast": "7 Tage seit letztem Pflichtspiel, ohne EP ebenfalls voll auf die Liga fokussiert; Blessin konnte 2 Trainingswochen nutzen",
         "quellen": [
-          "https://www.uefa.com/uefaeuropaleague/clubs/50109--leverkusen/",
-          "https://www.bundesliga.com/en/bundesliga/news/bayer-leverkusen-marseille-live-europa-league-blog-preview-report-maza-quansah-39793",
-          "https://gidstats.com/football/europa-league/standings/"
+          "https://www.bundesliga.com/de/bundesliga/spieltag/2026-2027/11/sv-werder-bremen-vs-borussia-moenchengladbach/lineup",
+          "https://www.bundesliga.com/en/bundesliga/news/werder-bremen-2026-27-season-preview-fullkrug-chuki-thioune-38886",
+          "https://www.bundesliga.com/en/bundesliga/news/alexander-blessin-appointed-borussia-monchengladbach-head-coach-39320",
+          "https://www.bundesliga.com/en/bundesliga/news/official-bundesliga-transfer-centre-summer-2026-37051",
+          "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-borussia-moenchengladbach-alexander-blessin-trainer-100.html"
         ]
       },
       "news": [
-        "Leverkusen in BL-Form-Delle (laut Vor-Spiel-Bericht 2 Liga-Pleiten in Folge)",
-        "Zagreb Heim-Festung Maksimir - taktisch kompakt",
-        "UEL-Doppelbelastung + BL-Fokus → Leverkusen rotiert möglicherweise"
+        "Füllkrug ist nach dem 6. Spieltag Topscorer der Bundesliga 2026/27 (Doppelpack gegen Paderborn als Werder-Schlüssel zum Klassenerhalt).",
+        "Jens Stage bereits am Vorabend des Saisonauftakts vs Freiburg mit Hamstring-OP ausgefallen - OUT bis 2027.",
+        "Samuel Mbangula per Deadline-Day 01.09.2026 per Leihe + Kaufoption zu Bologna FC - NIE mehr als Werder-Spieler tippen.",
+        "Gladbach-Trainerwechsel 22.09.2026: Polanski entlassen (nach 0:5 Freiburg + 4:3-Niederlage Mainz unter Interim Lichte), Alexander Blessin übernommen (Vertrag bis 2028, davor 2 Jahre St. Pauli).",
+        "Rocco Reitz zu RB Leipzig weg (20 Mio Ablöse im Sommer); Nicolas Kühn als Leihe von Como neue Offensiv-Option unter Blessin.",
+        "Blessin-System: Dreierkette, aggressives Pressing, 3-4-2-1 oder 4-2-2-2. Unter Blessin Über 2.5 wahrscheinlicher als unter Polanski (mehr Umschalt-Momente, offenere Partien).",
+        "Tim Kleindienst bleibt Gladbachs Universalstürmer; Haris Tabakovic + Shuto Machino als Alternativen.",
+        "2:0-Insurance (bet365 DE) greift bei direktem Sieg-Tipp in Bundesliga - bei Werder-Sieg-Tipp im Hinterkopf halten."
       ],
       "tipps": [
         {
-          "id": "zag-lev-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance X2 (Remis oder Leverkusen)",
+          "id": "wer-glb-1",
+          "kategorie": "safe",
+          "markt": "Werder oder Remis (Doppelte Chance)",
           "quote": 1.35,
           "edge_prozent": 5.0,
           "faire_quote": 1.29,
           "empfohlener_einsatz_prozent": 1.5,
           "empfohlener_einsatz_euro": 15,
-          "begruendung": "Markt-Goldgrube DC X2 (77.8% Hitrate / +9.4% ROI laut markt_goldgruben.json). Leverkusen Klassen-Edge auch bei Form-Delle, Zagreb-Sieg historisch rar gegen BL-Clubs in UEL. 15€ Einsatz (1.5% Kasse 1000€, Stufe 1). Live prüfen.",
-          "liga": "UEFA Europa League"
+          "begruendung": "Werder zuhause mit Füllkrug als Topscorer der BL 2026/27 vs Gladbach, das unter Blessin zwar defensiv stabiler ist aber offensiv weiter wenig produziert. Doppelte Chance ist die klare Goldgrube im System (+36.5% ROI, 84.2% Hitrate, n=41). Realer Ausweg für Werder: Heimsieg oder zumindest Punkt - kein klarer Gladbach-Edge auswärts. 15€ Einsatz (1.5% Kasse 1000€, Stufe 1). Quote bei bet365 live prüfen.",
+          "liga": "Bundesliga"
         },
         {
-          "id": "zag-lev-2",
-          "kategorie": "wackel",
-          "markt": "Unter 2.5 Tore",
-          "quote": 2.05,
-          "edge_prozent": 6.0,
-          "faire_quote": 1.93,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5,
-          "begruendung": "UEL-Auswärtsspiel gegen defensiv-kompakte Kroaten, Leverkusen BL-müde + Rotation möglich → eher 1:1/2:1-Ergebnis. Markt-Goldgrube Unter 2.5 (+37.9% ROI). Wackel-Einsatz 5€ (0.5%).",
-          "liga": "UEFA Europa League"
-        },
-        {
-          "id": "zag-lev-3",
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.9,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.82,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5,
-          "begruendung": "Zagreb zuhause will früh drücken, Leverkusen offensiv immer gefährlich trotz Form-Wackler. BTTS-JA Markt-Goldgrube (+32% ROI). Alternative zum Unter 2.5 - entkoppelt. Live prüfen.",
-          "liga": "UEFA Europa League"
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-26-oly-mil",
-      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 5",
-      "heim": "Olympiacos Piräus",
-      "gast": "AC Milan",
-      "anstoss": "2026-11-26T18:45:00+01:00",
-      "stadion": "Stadio Georgios Karaiskakis, Piräus",
-      "saison_kontext": {
-        "parallel_heim": "Super League Griechenland am Wochenende",
-        "parallel_gast": "Serie A am Wochenende - Milan hat Heim-Duell im Anschluss",
-        "saisonziel_heim": "UEL-Playoff-Platz 9-24 anvisiert - Olympiacos muss zuhause liefern",
-        "saisonziel_gast": "UEL-Top-8 für direktes Achtelfinale + Serie-A Scudetto-Rennen → voller Kaderfokus auf beide Wettbewerbe",
-        "motivations_asymmetrie": "Milan Klassen-Favorit nach Markt, aber Karaiskakis-Auswärtsreise historisch tückisch (2018: Olympiakos 3:1 gegen Milan - hat Milan damals aus UEL gekickt). Griechen-Lärmpegel + K.O.-Druck bei Olympiakos → Milan-Sieg kein Automatismus, eher Richtung Value als Safe.",
-        "recovery_heim": "4 Tage seit Super-League-Spiel (So 22.11.)",
-        "recovery_gast": "4 Tage seit Serie-A-Spiel (So 22.11.) + Reise Griechenland",
-        "quellen": [
-          "https://www.acmilan.com/en/news/articles/europa-league/2026-11-26/olympiacos-vs-ac-milan-match-preview",
-          "https://www.uefa.com/uefaeuropaleague/match/2025280--olympiacos-vs-milan/matchinfo"
-        ]
-      },
-      "news": [
-        "Historisches Olympiakos-Heimspiel 2018: 3:1 gegen Milan, Milan damals UEL raus",
-        "Karaiskakis-Auswärts-Druck + Lärmpegel = Favorit-Fallen-Spiel",
-        "Milan auf Liga-Scudetto-Kurs → ggf. leichte Rotation bei UEL-Auswärts"
-      ],
-      "tipps": [
-        {
-          "id": "oly-mil-1",
+          "id": "wer-glb-2",
           "kategorie": "value",
-          "markt": "Doppelte Chance X2 (Remis oder Milan)",
-          "quote": 1.45,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.39,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15,
-          "begruendung": "Milan Klassen-Edge, aber Karaiskakis historisch tückisch → DC X2 der sicherere Weg statt direkter Sieg. Markt-Goldgrube DC X2 (77.8% Hitrate). 15€ (1.5% Kasse). Live prüfen.",
-          "liga": "UEFA Europa League"
-        },
-        {
-          "id": "oly-mil-2",
-          "kategorie": "value",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.95,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.85,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 10,
-          "begruendung": "Beide Teams offensiv ausgelegt (Milan Scudetto-Kurs, Olympiakos Heim-Druck). Markt-Goldgrube Über 2.5 (+27.5% ROI, 66.7% Hitrate laut markt_goldgruben.json). 10€ (1% Kasse).",
-          "liga": "UEFA Europa League"
-        },
-        {
-          "id": "oly-mil-3",
-          "kategorie": "wackel",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.8,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.75,
-          "empfohlener_einsatz_prozent": 0.5,
-          "empfohlener_einsatz_euro": 5,
-          "begruendung": "Olympiakos trifft bei UEL-Heimspielen traditionell, Milan offensiv-stark → BTTS JA realistisch. Kleiner Einsatz 5€ (0.5%). Backup zu Über 2.5.",
-          "liga": "UEFA Europa League"
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-26-mar-lev",
-      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 5",
-      "heim": "Olympique Marseille",
-      "gast": "Levski Sofia",
-      "anstoss": "2026-11-26T18:45:00+01:00",
-      "stadion": "Stade Vélodrome, Marseille",
-      "saison_kontext": {
-        "parallel_heim": "Ligue 1 am Wochenende",
-        "parallel_gast": "Parva Liga Bulgarien am Wochenende",
-        "saisonziel_heim": "UEL-Top-8 für direktes Achtelfinale, OM nach CL-Aus-Alternative im UEL-Modus - Klassen-Edge klar",
-        "saisonziel_gast": "UEL-Playoff-Platz 9-24 - jede Punkt hilft, Klassenerhalt-Spielpraxis für Bulgaren",
-        "motivations_asymmetrie": "Klassen-Edge klar auf OM-Seite. Vélodrome-Heimkulisse + Ligue-1-Klasse vs bulgarische Super-Liga-Mittelmaß. Levski defensiv, OM muss dominieren - Edge-Kombi Sieg + Über 2.5 wahrscheinlich.",
-        "recovery_heim": "4 Tage seit Ligue-1-Spiel (So 22.11.)",
-        "recovery_gast": "4 Tage + weite Reise - Belastungs-Faktor",
-        "quellen": [
-          "https://www.uefa.com/uefaeuropaleague/clubs/52748--marseille/",
-          "https://fr.uefa.com/uefaeuropaleague/news/0227-0e928d39f49b-a2a044fe5225-1000--l-om-assure-face-a-groningen/"
-        ]
-      },
-      "news": [
-        "OM Heim-Favorit mit großer Klassen-Differenz gegen Levski",
-        "Vélodrome-Kulisse + Ligue-1-Spielerpool",
-        "Levski offensiv-schwach auf Auswärts-Reise"
-      ],
-      "tipps": [
-        {
-          "id": "mar-lev-1",
-          "kategorie": "safe",
-          "markt": "Doppelte Chance 1X (Marseille oder Remis)",
-          "quote": 1.12,
-          "edge_prozent": 3.0,
-          "faire_quote": 1.09,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15,
-          "begruendung": "Markt-Goldgrube DC 1X (75% Hitrate / +46.8% ROI, höchster ROI-Markt im System). OM Vélodrome-Heim-Festung gegen klaren Außenseiter. 15€ (1.5% Kasse). Quote niedrig aber verlässlich.",
-          "liga": "UEFA Europa League"
-        },
-        {
-          "id": "mar-lev-2",
-          "kategorie": "safe",
-          "markt": "Sieg Marseille (90 Min)",
-          "quote": 1.25,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.2,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 10,
-          "begruendung": "Klassen-Edge klar, Vélodrome + Volumen-Pressing → OM nutzt jedes Spielzeit-Fenster. Markt-Goldgrube Sieg 1X2 (71% Hitrate / +30.4% ROI). 10€ (1% Kasse).",
-          "liga": "UEFA Europa League"
-        },
-        {
-          "id": "mar-lev-3",
-          "kategorie": "value",
-          "markt": "Über 2.5 Tore",
+          "markt": "Beide Teams treffen",
           "quote": 1.75,
           "edge_prozent": 6.0,
           "faire_quote": 1.65,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 10,
-          "begruendung": "OM-Dominanz + Heim-Pressing → mindestens 2 OM-Tore sehr wahrscheinlich, Levski packt gelegentlich einen Konter. Markt-Goldgrube Über 2.5 (+27.5% ROI). 10€ (1% Kasse).",
-          "liga": "UEFA Europa League"
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-26-hof-stu",
-      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 5",
-      "heim": "TSG 1899 Hoffenheim",
-      "gast": "Sturm Graz",
-      "anstoss": "2026-11-26T21:00:00+01:00",
-      "stadion": "PreZero Arena, Sinsheim",
-      "saison_kontext": {
-        "parallel_heim": "Bundesliga am Wochenende (Hoffenheim-Liga-Duell direkt nach UEL)",
-        "parallel_gast": "Österreichische Bundesliga am Wochenende",
-        "saisonziel_heim": "UEL-Playoff-Platz 9-24 - Hoffenheim auf Heim-Dreier angewiesen",
-        "saisonziel_gast": "UEL-Playoff-Platz - jeder Punkt gegen BL-Clubs Bonus",
-        "motivations_asymmetrie": "Hoffenheim Klassen-Edge (Bundesliga vs ö. Bundesliga), aber nicht riesig - Sturm diese Saison stark gewachsen. Heim-Druck + PreZero-Atmosphäre für Hoffenheim, Sturm offensiv mit Umschalt-Qualität. Richtung Wackel-Favorit statt Safe-Favorit.",
-        "recovery_heim": "4 Tage seit Bundesliga-Spiel (So 22.11.)",
-        "recovery_gast": "4 Tage seit ö. Bundesliga-Spiel (So 22.11.) + Reise",
-        "quellen": [
-          "https://www.bundesliga.com/en/bundesliga/clubs/hoffenheim",
-          "https://www.uefa.com/uefaeuropaleague/clubs/"
-        ]
-      },
-      "news": [
-        "Hoffenheim UEL-Heimspiel + PreZero-Kulisse",
-        "Sturm Graz österreichischer Vizemeister - UEL-Spielpraxis",
-        "Beide Teams brauchen Punkte für Playoff-Runde"
-      ],
-      "tipps": [
-        {
-          "id": "hof-stu-1",
-          "kategorie": "value",
-          "markt": "Doppelte Chance 1X (Hoffenheim oder Remis)",
-          "quote": 1.3,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.25,
           "empfohlener_einsatz_prozent": 1.5,
           "empfohlener_einsatz_euro": 15,
-          "begruendung": "Markt-Goldgrube DC 1X (75% Hitrate / +46.8% ROI). Hoffenheim Heim-Edge, Sturm-Sieg in Sinsheim historisch rar. 15€ (1.5% Kasse). Live prüfen.",
-          "liga": "UEFA Europa League"
+          "begruendung": "Werder mit Füllkrug-Volume + Gladbach unter Blessin-Pressing mit mehr Umschalt-Momenten - beidseitig Treffer-Erwartung erhöht. BTTS ist Goldgrube im System (+32.0% ROI bei BTTS JA, n=10). Kein Zu-Null-Signal für Blessin-Gladbach so früh im Umbruch. Einsatz 15€.",
+          "liga": "Bundesliga"
         },
         {
-          "id": "hof-stu-2",
+          "id": "wer-glb-3",
           "kategorie": "value",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.75,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.67,
+          "markt": "Füllkrug Torschütze jederzeit",
+          "quote": 2.1,
+          "edge_prozent": 8.0,
+          "faire_quote": 1.94,
           "empfohlener_einsatz_prozent": 1.0,
           "empfohlener_einsatz_euro": 10,
-          "begruendung": "Beide Teams brauchen Punkte → offene Partie. Sturm offensiv mit Umschalt-Qualität, Hoffenheim Heim-Druck. BTTS Markt-Goldgrube (+32% ROI). 10€ (1% Kasse).",
-          "liga": "UEFA Europa League"
+          "begruendung": "Füllkrug Topscorer BL 2026/27, zuhause im Weserstadion, HR24-Form-Edge klar erfüllt. Torschützen Jederzeit historisch Goldgrube-Markt. Einwechslungs-Boost greift falls Füllkrug raus müsste (bet365-Aktionsregel). 10€ (1.0% Kasse).",
+          "liga": "Bundesliga"
         },
         {
-          "id": "hof-stu-3",
+          "id": "wer-glb-4",
           "kategorie": "wackel",
           "markt": "Über 2.5 Tore",
-          "quote": 1.85,
+          "quote": 2.0,
           "edge_prozent": 4.0,
-          "faire_quote": 1.78,
+          "faire_quote": 1.92,
           "empfohlener_einsatz_prozent": 0.5,
           "empfohlener_einsatz_euro": 5,
-          "begruendung": "Beide Teams offensiv-orientiert, offene Partie → 3 Tore oft erreicht. Markt-Goldgrube (+27.5% ROI). Wackel-Einsatz 5€ (0.5%).",
-          "liga": "UEFA Europa League"
-        }
-      ],
-      "kontext_check_status": "OK"
-    },
-    {
-      "id": "2026-11-26-juv-omo",
-      "liga": "UEFA Europa League 2026/27 - Ligaphase Spieltag 5",
-      "heim": "Juventus Turin",
-      "gast": "Omonia Nicosia",
-      "anstoss": "2026-11-26T21:00:00+01:00",
-      "stadion": "Allianz Stadium, Turin",
-      "saison_kontext": {
-        "parallel_heim": "Serie A am Wochenende - Scudetto-Rennen",
-        "parallel_gast": "Protathlima Zypern am Wochenende",
-        "saisonziel_heim": "UEL-Top-8 für direktes Achtelfinale, Juve nach CL-Verfehlung im UEL-Fokus-Modus unter Spalletti (Form-Report Frühjahr 2026: 3S aus 5 Spielen, Platz 5 Serie A). Allianz-Heim-Festung.",
-        "saisonziel_gast": "UEL-Playoff-Platz 9-24, jeder Punkt Bonus für Zypern-Vertreter",
-        "motivations_asymmetrie": "Klassen-Edge extrem klar: Juve zuhause gegen Zypern-Vertreter. Allianz Stadium + Spalletti-Disziplin + Jonathan David/Vlahovic-Sturmoptionen → Juve-Sieg quasi Pflicht. Omonia kein Favorit-Fallen-Spiel.",
-        "recovery_heim": "4 Tage seit Serie-A-Spiel (So 22.11.)",
-        "recovery_gast": "4 Tage + weite Reise nach Turin",
-        "quellen": [
-          "https://www.sofascore.com/news/juventus-standings-and-current-situation",
-          "https://www.fotmob.com/teams/9885/overview/players"
-        ]
-      },
-      "news": [
-        "Juve-Allianz-Heim-Festung unter Spalletti",
-        "Omonia Nicosia Zypern-Vertreter mit geringer Klassenhöhe",
-        "Juve-Scudetto-Kurs → voller Fokus auch auf UEL-Pflichtspiele"
-      ],
-      "tipps": [
-        {
-          "id": "juv-omo-1",
-          "kategorie": "safe",
-          "markt": "Doppelte Chance 1X (Juventus oder Remis)",
-          "quote": 1.08,
-          "edge_prozent": 2.0,
-          "faire_quote": 1.06,
-          "empfohlener_einsatz_prozent": 2.0,
-          "empfohlener_einsatz_euro": 20,
-          "begruendung": "Markt-Goldgrube DC 1X (75% Hitrate / +46.8% ROI). Klassen-Edge extrem - Juve zuhause gegen Zypern-Vertreter. Niedrige Quote aber nahe-Garantie. 20€ (2% Kasse, Safe-Range).",
-          "liga": "UEFA Europa League"
+          "begruendung": "Über 2.5 ist Goldgrube (+35.4% ROI, 58.1%, n=47). Blessin-Pressing-System bringt mehr offene Phasen, Werder mit Füllkrug offensiv potent. Wackel weil beide Teams in Abstiegskampf-Modus taktisch werden könnten. 5€ Einsatz (0.5%).",
+          "liga": "Bundesliga"
         },
         {
-          "id": "juv-omo-2",
-          "kategorie": "safe",
-          "markt": "Sieg Juventus (90 Min)",
-          "quote": 1.2,
+          "id": "wer-glb-5",
+          "kategorie": "wackel",
+          "markt": "Werder Sieg (90 Min)",
+          "quote": 2.1,
           "edge_prozent": 3.0,
-          "faire_quote": 1.17,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15,
-          "begruendung": "Markt-Goldgrube Sieg 1X2 (71% Hitrate / +30.4% ROI). Juve-Klassen-Edge + Heim-Festung + Spalletti-Disziplin. 15€ (1.5% Kasse).",
-          "liga": "UEFA Europa League"
-        },
-        {
-          "id": "juv-omo-3",
-          "kategorie": "value",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.65,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.57,
-          "empfohlener_einsatz_prozent": 1.0,
-          "empfohlener_einsatz_euro": 10,
-          "begruendung": "Juve dominiert gegen schwache Defensive → min. 2 Juve-Tore + oft Ehren-Tor-Riskiko. Markt-Goldgrube Über 2.5 (+27.5% ROI). 10€ (1% Kasse).",
-          "liga": "UEFA Europa League"
+          "faire_quote": 2.04,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5,
+          "begruendung": "Heimvorteil + Füllkrug + 2:0-Insurance in der Bundesliga (bet365-Aktionsregel: Werder führt im Spielverlauf 2:0 → Tipp gewonnen auch wenn Endstand anders). Wackel weil Gladbach unter Blessin nicht mehr die Polanski-Katastrophe ist. 5€ (0.5% Kasse).",
+          "liga": "Bundesliga"
         }
       ],
       "kontext_check_status": "OK"
     },
     {
-      "id": "2026-11-26-fre-twe",
-      "liga": "UEFA Conference League 2026/27 - Ligaphase Spieltag 4",
-      "heim": "SC Freiburg",
-      "gast": "FC Twente",
-      "anstoss": "2026-11-26T21:00:00+01:00",
-      "stadion": "Europa-Park Stadion, Freiburg",
+      "id": "2026-11-27-boc-dar",
+      "liga": "2. Bundesliga 2026/27 - 13. Spieltag",
+      "heim": "VfL Bochum",
+      "gast": "SV Darmstadt 98",
+      "anstoss": "2026-11-27T18:30:00+01:00",
+      "stadion": "Vonovia Ruhrstadion, Bochum",
       "saison_kontext": {
-        "parallel_heim": "Bundesliga am Wochenende (Freiburg-Liga-Duell nach UECL)",
-        "parallel_gast": "Eredivisie am Wochenende",
-        "saisonziel_heim": "UECL-Top-8 für direktes Achtelfinale, Freiburg nach guter Hinrunde (Platz top-6) im UECL-Fokus",
-        "saisonziel_gast": "UECL-Playoff-Platz 9-24, Twente als Eredivisie-Mittelmaß mit UECL-Spielpraxis",
-        "motivations_asymmetrie": "Freiburg Klassen-Edge + Europa-Park-Heim-Festung historisch stark, Twente offensiv-ordentlich aber defensiv anfällig auf Auswärts-Reise. Richtung Value-Favorit, kein Safe-Walkover wegen Eredivisie-Klasse.",
-        "recovery_heim": "4 Tage seit Bundesliga (So 22.11.)",
-        "recovery_gast": "4 Tage seit Eredivisie (So 22.11.) + Reise Freiburg",
+        "parallel_heim": "keine - VfL Bochum spielt 2026/27 nur 2. Bundesliga + DFB-Pokal",
+        "parallel_gast": "keine - Darmstadt spielt 2026/27 nur 2. Bundesliga + DFB-Pokal",
+        "saisonziel_heim": "Nach Bundesliga-Abstieg Aufstieg zurück ins Oberhaus bzw. mindestens Aufstiegsrelegation. Kein konkreter Tabellenstand verifizierbar in der Stunden-Fenster-Recherche.",
+        "saisonziel_gast": "Nach eigenem Abstieg aus BL 2024/25 mittelfristig Konsolidierung im oberen 2.-BL-Drittel.",
+        "motivations_asymmetrie": "Zwei Ex-Bundesligisten mit ähnlichem Ambition-Level - klassisches 2.-BL-Mittelfeld-Spiel ohne eindeutigen Favoriten. Heimrecht leichter Bochum-Vorteil. Letztes Aufeinandertreffen 18.01.2026 endete 3:3 - offensive Note der Begegnung ist historisch belegt.",
+        "recovery_heim": "6-8 Tage seit letztem 2.-BL-Spieltag; ohne Europapokal frisch",
+        "recovery_gast": "ebenfalls 6-8 Tage, ohne EP voll fokussiert",
         "quellen": [
-          "https://www.scfreiburg.com/",
-          "https://www.uefa.com/uefaconferenceleague/clubs/"
+          "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/13/vfl-bochum-1848-vs-sv-darmstadt-98/table",
+          "https://www.t-online.de/sport/live-ticker/fussball/2-bundesliga/sdc_fm-59705/bochum-darmstadt-2-bundesliga-im-liveticker.html"
         ]
       },
       "news": [
-        "Freiburg UECL-Heimspiel + Europa-Park-Atmosphäre",
-        "Twente Eredivisie-Mittelmaß - UECL-Spielpraxis solid",
-        "Beide Teams im UECL-Playoff-Lauf"
+        "Letztes Duell am 18.01.2026 endete 3:3 - torreiches Match historisch belegt.",
+        "Beide Teams nach BL-Abstieg mit Aufstiegs-/Konsolidierungs-Ambition im oberen 2.-BL-Drittel.",
+        "2:0-Insurance gilt in der 2. Bundesliga NICHT (bet365-Aktionsregel nur 1. BL + Champions League).",
+        "Kein einzelner Top-Stürmer mit belastbarer HR24-Form-Edge in der Kurz-Recherche verifiziert - deshalb kein Torschützen-Tipp."
       ],
       "tipps": [
         {
-          "id": "fre-twe-1",
+          "id": "boc-dar-1",
           "kategorie": "value",
-          "markt": "Doppelte Chance 1X (Freiburg oder Remis)",
-          "quote": 1.25,
+          "markt": "Bochum oder Remis (Doppelte Chance)",
+          "quote": 1.5,
           "edge_prozent": 4.0,
-          "faire_quote": 1.2,
-          "empfohlener_einsatz_prozent": 1.5,
-          "empfohlener_einsatz_euro": 15,
-          "begruendung": "Markt-Goldgrube DC 1X (75% Hitrate / +46.8% ROI). Freiburg Heim-Festung Europa-Park + Twente Auswärts-Reise. 15€ (1.5% Kasse).",
-          "liga": "UEFA Conference League"
-        },
-        {
-          "id": "fre-twe-2",
-          "kategorie": "value",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.8,
-          "edge_prozent": 5.0,
-          "faire_quote": 1.72,
+          "faire_quote": 1.44,
           "empfohlener_einsatz_prozent": 1.0,
           "empfohlener_einsatz_euro": 10,
-          "begruendung": "Twente offensiv-ordentlich (Eredivisie-Spielpraxis), Freiburg Heim-Druck + Tor-Volume. BTTS Markt-Goldgrube (+32% ROI). 10€ (1% Kasse).",
-          "liga": "UEFA Conference League"
+          "begruendung": "Bochum zuhause gegen gleichstarken Darmstadt-Gegner. Doppelte Chance ist Goldgrube (+36.5% ROI im System). Ohne klaren Klassen-Edge direkter Sieg zu riskant - DC 1X ist der ehrliche Edge-Move. 10€ Einsatz (1.0% Kasse 1000€).",
+          "liga": "2. Bundesliga"
         },
         {
-          "id": "fre-twe-3",
+          "id": "boc-dar-2",
+          "kategorie": "value",
+          "markt": "Beide Teams treffen",
+          "quote": 1.7,
+          "edge_prozent": 5.0,
+          "faire_quote": 1.62,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10,
+          "begruendung": "3:3 im letzten direkten Duell (18.01.2026) als offensive Vorlage. Beide Teams offensiv mit Momenten - Zu-Null-Spiele selten in dieser Liga-Paarung. BTTS Goldgrube (+32% ROI). 10€ Einsatz.",
+          "liga": "2. Bundesliga"
+        },
+        {
+          "id": "boc-dar-3",
           "kategorie": "wackel",
           "markt": "Über 2.5 Tore",
-          "quote": 1.85,
-          "edge_prozent": 4.0,
-          "faire_quote": 1.78,
+          "quote": 2.0,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.94,
           "empfohlener_einsatz_prozent": 0.5,
           "empfohlener_einsatz_euro": 5,
-          "begruendung": "Offene UECL-Partie, beide offensiv - Tor-Total hoch wahrscheinlich. Markt-Goldgrube (+27.5% ROI). Wackel-Einsatz 5€ (0.5%).",
-          "liga": "UEFA Conference League"
+          "begruendung": "Über 2.5 ist Goldgrube (+35.4% ROI). Das 3:3-Hinspiel liefert die Offensiv-Spur. Wackel weil ohne detaillierte Form-Daten eine Unterschätzung des Abwehr-Drucks möglich ist. 5€ (0.5%).",
+          "liga": "2. Bundesliga"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-27-hei-nue",
+      "liga": "2. Bundesliga 2026/27 - 13. Spieltag",
+      "heim": "1. FC Heidenheim",
+      "gast": "1. FC Nürnberg",
+      "anstoss": "2026-11-27T18:30:00+01:00",
+      "stadion": "Voith-Arena, Heidenheim",
+      "saison_kontext": {
+        "parallel_heim": "keine - Heidenheim nach BL-Abstieg nur 2. Bundesliga + DFB-Pokal",
+        "parallel_gast": "keine - 1. FC Nürnberg spielt 2026/27 nur 2. Bundesliga + DFB-Pokal",
+        "saisonziel_heim": "Klassenerhalt / Konsolidierung nach dem BL-Abstieg. Voith-Arena als Heim-Faktor (kleines Stadion, direkte Atmosphäre).",
+        "saisonziel_gast": "Aufstieg: nach frühem t-online-Ticker-Snapshot (begrenzte Datenlage) stand Nürnberg nach 7 Spielen auf Platz 2 mit 17 Punkten unter Trainer Miroslav Klose. ABER: Toptorjäger Mohamed Ali Zoma (7 Tore in 7 Spielen) seit Schulter-OP vom 16.10.2026 bis mindestens Winterpause OUT - Klose rechnet laut eigener Aussage 2026 nicht mehr mit Zoma. Klares offensives Vakuum, Backup-Volume ist Styopa Mkrtchyan (traf 79. Min gegen Cottbus zum 1:1).",
+        "motivations_asymmetrie": "Nürnberg mit starkem Tabellenbild aus früher Saison, aber durch Zoma-Verletzung (HR22 Star-OUT-Risiko) offensiv deutlich geschwächt. Heidenheim als strukturierte Heim-Mannschaft mit geringem Klassen-Unterschied bei Zoma-Ausfall - fairer Favoritenstatus Richtung Remis/Heim-Vorteil statt klarer Nürnberg-Sieg.",
+        "recovery_heim": "6-8 Tage seit letztem 2.-BL-Spieltag, ohne Europapokal frisch",
+        "recovery_gast": "6-8 Tage, Reise ins Ostalb-Gebirge, aber ohne EP voll fokussiert",
+        "quellen": [
+          "https://www.kicker.de/1-fc-nuernberg/startseite",
+          "https://www.bundesliga.com/de/2bundesliga/clubs/1-fc-heidenheim-1846",
+          "https://www.t-online.de/sport/live-ticker/fussball/2-bundesliga/sdc_fm-59698/heidenheim-nuernberg-2-bundesliga-im-liveticker.html",
+          "https://ran.joyn.de/sports/fussball/2-bundesliga/mohamed-ali-zoma-beim1-fc-nuernberg-aufstiegsgarant-oder-rekord-transfer-fuer-klose-und-co-168352",
+          "https://ms-aktuell.de/?p=178537"
+        ]
+      },
+      "news": [
+        "Zoma (Nürnberg-Toptorjäger, 7 Tore in 7 Spielen) seit Schulter-OP 16.10.2026 OUT - laut Klose kein Comeback 2026 mehr.",
+        "Backup-Volume bei Nürnberg: Styopa Mkrtchyan (Treffer 79. Min vs Cottbus 16.10. zum 1:1) - der plausibelste Torschützen-Kandidat ohne Zoma.",
+        "Nürnberg nach früher-Saison-Snapshot Platz 2 mit 17 Pkt aus 7 Spielen unter Klose.",
+        "Heidenheim nach BL-Abstieg mit Voith-Arena als Heim-Faktor (kompakte Atmosphäre).",
+        "2:0-Insurance greift NICHT in der 2. Bundesliga (nur 1. BL + CL)."
+      ],
+      "tipps": [
+        {
+          "id": "hei-nue-1",
+          "kategorie": "value",
+          "markt": "Heidenheim oder Remis (Doppelte Chance)",
+          "quote": 1.5,
+          "edge_prozent": 7.0,
+          "faire_quote": 1.4,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15,
+          "begruendung": "Nürnberg war ohne Zoma zuletzt offensiv deutlich schwächer (HR22 Star-OUT). Heidenheim zuhause in der Voith-Arena strukturiert - Punkt-Mitnahme für die FCH realistisch. DC ist Goldgrube (+36.5% ROI, Hitrate 84.2% n=41). Kein SAFE weil die Datenlage zur aktuellen Heidenheim-Form knapp ist - VALUE honoriert Edge ohne Übertreibung. 15€ Einsatz (1.5% Kasse 1000€).",
+          "liga": "2. Bundesliga"
+        },
+        {
+          "id": "hei-nue-2",
+          "kategorie": "value",
+          "markt": "Unter 3.5 Tore",
+          "quote": 1.35,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.31,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10,
+          "begruendung": "Heidenheim defensiv kompakt (Voith-Arena, Klassenerhalts-Druck), Nürnberg ohne Zoma offensiv nur eingeschränkt gefährlich. Unter 3.5 als defensive Absicherung mit grosser Puffer-Zone. 10€ Einsatz (1.0%).",
+          "liga": "2. Bundesliga"
+        },
+        {
+          "id": "hei-nue-3",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 2.2,
+          "edge_prozent": 3.0,
+          "faire_quote": 2.14,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5,
+          "begruendung": "Über 2.5 ist Goldgrube (+35.4% ROI) - aber Heidenheim-Spiele tendieren historisch zu knappen Ergebnissen. Wackel-Status weil Zoma-Ausfall die Nürnberger Tor-Erwartung drückt. 5€ (0.5%).",
+          "liga": "2. Bundesliga"
+        },
+        {
+          "id": "hei-nue-4",
+          "kategorie": "wackel",
+          "markt": "Beide Teams treffen",
+          "quote": 1.9,
+          "edge_prozent": 2.0,
+          "faire_quote": 1.86,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5,
+          "begruendung": "Nürnberg trotz Zoma-Ausfall mit Volumen-Backup Mkrtchyan, Heidenheim zuhause mit eigenem Treffer-Pattern. BTTS Goldgrube (+32% ROI). Wackel weil Heidenheim-Zu-Null-Risiko nicht trivial. 5€ (0.5%).",
+          "liga": "2. Bundesliga"
+        }
+      ],
+      "kontext_check_status": "OK"
+    },
+    {
+      "id": "2026-11-27-bre-pfc",
+      "liga": "Ligue 1 2026/27 - 12. Journée",
+      "heim": "Stade Brestois 29",
+      "gast": "Paris FC",
+      "anstoss": "2026-11-27T20:45:00+01:00",
+      "stadion": "Stade Francis-Le Blé, Brest",
+      "saison_kontext": {
+        "parallel_heim": "keine - Stade Brestois spielt 2026/27 keinen Europapokal, nur Ligue 1 + Coupe de France",
+        "parallel_gast": "keine - Paris FC spielt 2026/27 keinen Europapokal, nur Ligue 1 + Coupe de France",
+        "saisonziel_heim": "Klassenerhalt / unteres Tabellenmittelfeld. Nach einer PSG-Preview standen Brest in einer Serie von 6 Ligaspielen ohne Sieg und auf Platz 12 - aktueller Stand nicht in der Kurz-Recherche verifiziert. Ludovic Ajorque und Romain Del Castillo weiter als Offensiv-Hauptwaffen geführt (ESPN-Scoring).",
+        "saisonziel_gast": "Aufstiegshalter / oberes Tabellenmittelfeld der Ligue 1. Nach Snapshot-Daten standen Paris FC im Herbst 2026 zwischen Platz 3 und 4 (3./20 Pkt aus 10 bzw. 3./11 Pkt aus 5). Toptorjäger Lassine Sinayoko (4 Tore in 5 frühen Saison-Spielen).",
+        "motivations_asymmetrie": "Paris FC in deutlich besserer Form als Brest - Brest war in direkter Vorbegegnung 4:0 geschlagen worden. Paris FC nicht nur formstärker, sondern mit klarem Edge-Stürmer Sinayoko. Brest zuhause mit Reserven aber ohne verlässliches Form-Signal in der Kurz-Recherche - plausibel bleibt klarer Punkte-Edge für den Auswärtigen.",
+        "recovery_heim": "6-8 Tage seit letztem Ligue-1-Spieltag, ohne EP frisch",
+        "recovery_gast": "6-8 Tage, kurze Reise innerhalb Frankreichs, ohne EP ebenfalls frisch",
+        "quellen": [
+          "https://www.ligue1.com/ranking",
+          "https://www.kicker.de/paris-fc/startseite",
+          "https://www.sportsmole.co.uk/football/paris-fc/preview/paris-fc-vs-brest-prediction-team-news-lineups_596775.html",
+          "https://www.psg.fr/en/content/paris-saint-germain-stade-brestois-29-the-preview-ligue-1-20252026",
+          "https://www.gambling.com/betbuilderai/leagues/team/paris-fc"
+        ]
+      },
+      "news": [
+        "Paris FC Toptorjäger Lassine Sinayoko (4 Tore in frühen 5 Saison-Spielen, in einer Snapshot-Phase Ligue-1-Toptorjäger).",
+        "Brest zuletzt 4:0 gegen Paris FC verloren (direkte Vorbegegnung) - klares Auswärts-Form-Signal für Paris.",
+        "Brest-Offensive weiterhin um Ludovic Ajorque + Romain Del Castillo + Remy Labeau Lascary (ESPN-Scoring-Snapshots).",
+        "Paris FC Form-Snapshot (frühe Saison): WDWWD - belastbare Serie ohne Niederlagen.",
+        "2:0-Insurance gilt NICHT in Ligue 1 (bet365-Aktionsregel nur 1. BL + CL)."
+      ],
+      "tipps": [
+        {
+          "id": "bre-pfc-1",
+          "kategorie": "value",
+          "markt": "Paris FC oder Remis (Doppelte Chance)",
+          "quote": 1.5,
+          "edge_prozent": 6.0,
+          "faire_quote": 1.42,
+          "empfohlener_einsatz_prozent": 1.5,
+          "empfohlener_einsatz_euro": 15,
+          "begruendung": "Paris FC in deutlich besserer Form als Brest (3.-4. Platz vs 12.) und direkter 4:0-Sieg in der Vorbegegnung als klares Form-Signal. DC X2 ist Goldgrube (+13.6% ROI, 81.8% Hitrate, n=23). Kein direkter Sieg-SAFE weil Auswärts-Favoriten-DC der sauberere Edge-Move ist. 15€ (1.5% Kasse).",
+          "liga": "Ligue 1"
+        },
+        {
+          "id": "bre-pfc-2",
+          "kategorie": "value",
+          "markt": "Sinayoko Torschütze jederzeit",
+          "quote": 2.5,
+          "edge_prozent": 8.0,
+          "faire_quote": 2.31,
+          "empfohlener_einsatz_prozent": 1.0,
+          "empfohlener_einsatz_euro": 10,
+          "begruendung": "Sinayoko mit 4 Toren in 5 frühen Saison-Spielen (HR24 Form-Edge klar erfüllt, ~0.8 Tore/Spiel-Rate), Paris-FC-Volumen-Stürmer mit Einwechslungs-Boost-Potenzial (bet365-Aktionsregel). Torschützen Jederzeit als Goldgrube-Cluster bestätigt. 10€ (1.0%).",
+          "liga": "Ligue 1"
+        },
+        {
+          "id": "bre-pfc-3",
+          "kategorie": "wackel",
+          "markt": "Über 2.5 Tore",
+          "quote": 2.0,
+          "edge_prozent": 3.0,
+          "faire_quote": 1.94,
+          "empfohlener_einsatz_prozent": 0.5,
+          "empfohlener_einsatz_euro": 5,
+          "begruendung": "Über 2.5 ist Goldgrube (+35.4% ROI, 58.1%). Paris FC offensiv potent, Brest zuhause mit eigenen Ajorque/Del-Castillo-Momenten - beidseitig Tor-Signal. Wackel weil Brest-Heim-Vorsicht theoretisch defensiv werden könnte. 5€ (0.5%).",
+          "liga": "Ligue 1"
         }
       ],
       "kontext_check_status": "OK"
@@ -400,346 +322,317 @@ window.__MIESMUSCHEL_TIPPS = {
   ],
   "einzeltipps": [
     {
-      "id": "juv-omo-1",
-      "spiel_id": "2026-11-26-juv-omo",
-      "spiel_label": "Juventus vs Omonia Nicosia",
+      "spiel_id": "2026-11-27-wer-glb",
+      "spiel_label": "Werder Bremen vs Borussia Mönchengladbach",
+      "liga": "Bundesliga 2026/27",
+      "anstoss": "2026-11-27T20:30:00+01:00",
+      "markt": "Werder oder Remis (Doppelte Chance)",
+      "quote": 1.35,
       "kategorie": "safe",
-      "markt": "Doppelte Chance 1X (Juventus oder Remis)",
-      "quote": 1.08,
-      "edge_prozent": 2.0,
-      "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 20,
-      "begruendung": "DC-1X-Goldgrube (75% Hitrate). Juve-Allianz-Heim-Festung gegen Zypern-Vertreter. Nahe-Garantie. 20€ (2% Kasse, Stufe 1).",
-      "liga": "UEFA Europa League",
+      "edge_prozent": 5.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "Werder zuhause mit Füllkrug als BL-Topscorer vs Gladbach im Blessin-Umbruch. DC ist die Goldgrube (+36.5% ROI, 84.2% Hitrate, n=41). Kein klarer Gladbach-Edge auswärts. 15€ Einsatz (1.5% Kasse 1000€, Stufe 1). Quote live prüfen.",
       "rang": 1
     },
     {
-      "id": "mar-lev-1",
-      "spiel_id": "2026-11-26-mar-lev",
-      "spiel_label": "Marseille vs Levski Sofia",
-      "kategorie": "safe",
-      "markt": "Doppelte Chance 1X (Marseille oder Remis)",
-      "quote": 1.12,
-      "edge_prozent": 3.0,
+      "spiel_id": "2026-11-27-hei-nue",
+      "spiel_label": "Heidenheim vs 1. FC Nürnberg",
+      "liga": "2. Bundesliga 2026/27",
+      "anstoss": "2026-11-27T18:30:00+01:00",
+      "markt": "Heidenheim oder Remis (Doppelte Chance)",
+      "quote": 1.5,
+      "kategorie": "value",
+      "edge_prozent": 7.0,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15,
-      "begruendung": "DC-1X-Goldgrube. OM-Vélodrome vs Bulgaren-Außenseiter. 15€ (1.5% Kasse).",
-      "liga": "UEFA Europa League",
+      "begruendung": "Nürnberg ohne Toptorjäger Zoma (Schulter-OP seit 16.10.) offensiv deutlich eingeschränkt - HR22 Star-OUT-Risiko. Heidenheim zuhause mit struktureller Voith-Arena-Festung. DC Goldgrube. 15€ (1.5%).",
       "rang": 2
     },
     {
-      "id": "juv-omo-2",
-      "spiel_id": "2026-11-26-juv-omo",
-      "spiel_label": "Juventus vs Omonia Nicosia",
-      "kategorie": "safe",
-      "markt": "Sieg Juventus (90 Min)",
-      "quote": 1.2,
-      "edge_prozent": 3.0,
+      "spiel_id": "2026-11-27-bre-pfc",
+      "spiel_label": "Brest vs Paris FC",
+      "liga": "Ligue 1 2026/27",
+      "anstoss": "2026-11-27T20:45:00+01:00",
+      "markt": "Paris FC oder Remis (Doppelte Chance)",
+      "quote": 1.5,
+      "kategorie": "value",
+      "edge_prozent": 6.0,
       "empfohlener_einsatz_prozent": 1.5,
       "empfohlener_einsatz_euro": 15,
-      "begruendung": "Sieg-1X2-Goldgrube. Juve-Klassen-Edge extrem. 15€ (1.5% Kasse).",
-      "liga": "UEFA Europa League",
+      "begruendung": "Paris FC in deutlich besserer Form (3.-4.) als Brest (12.), direkter 4:0-Sieg in Vorbegegnung als Form-Signal. DC X2 ist Goldgrube (+13.6% ROI, 81.8%). 15€ (1.5%).",
       "rang": 3
     },
     {
-      "id": "mar-lev-2",
-      "spiel_id": "2026-11-26-mar-lev",
-      "spiel_label": "Marseille vs Levski Sofia",
-      "kategorie": "safe",
-      "markt": "Sieg Marseille (90 Min)",
-      "quote": 1.25,
-      "edge_prozent": 4.0,
-      "empfohlener_einsatz_prozent": 1.0,
-      "empfohlener_einsatz_euro": 10,
-      "begruendung": "OM-Klassen-Edge klar. Ligue-1-Spielerpool vs Bulgaren. 10€ (1% Kasse).",
-      "liga": "UEFA Europa League",
+      "spiel_id": "2026-11-27-wer-glb",
+      "spiel_label": "Werder Bremen vs Borussia Mönchengladbach",
+      "liga": "Bundesliga 2026/27",
+      "anstoss": "2026-11-27T20:30:00+01:00",
+      "markt": "Beide Teams treffen",
+      "quote": 1.75,
+      "kategorie": "value",
+      "edge_prozent": 6.0,
+      "empfohlener_einsatz_prozent": 1.5,
+      "empfohlener_einsatz_euro": 15,
+      "begruendung": "Füllkrug-Volume vs Gladbach-Umschalt-Phasen unter Blessin - beidseitig Treffer-Wahrscheinlichkeit erhöht. BTTS Goldgrube (+32% ROI). 15€ (1.5%).",
       "rang": 4
     },
     {
-      "id": "fre-twe-1",
-      "spiel_id": "2026-11-26-fre-twe",
-      "spiel_label": "Freiburg vs Twente",
+      "spiel_id": "2026-11-27-boc-dar",
+      "spiel_label": "VfL Bochum vs SV Darmstadt 98",
+      "liga": "2. Bundesliga 2026/27",
+      "anstoss": "2026-11-27T18:30:00+01:00",
+      "markt": "Beide Teams treffen",
+      "quote": 1.7,
       "kategorie": "value",
-      "markt": "Doppelte Chance 1X (Freiburg oder Remis)",
-      "quote": 1.25,
-      "edge_prozent": 4.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15,
-      "begruendung": "DC-1X-Goldgrube. Freiburg Europa-Park-Heim. 15€ (1.5% Kasse).",
-      "liga": "UEFA Conference League",
+      "edge_prozent": 5.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10,
+      "begruendung": "3:3 im letzten direkten Duell (18.01.2026). Beide offensiv-fähig - BTTS Goldgrube (+32% ROI). 10€ (1.0%).",
       "rang": 5
     },
     {
-      "id": "hof-stu-1",
-      "spiel_id": "2026-11-26-hof-stu",
-      "spiel_label": "Hoffenheim vs Sturm Graz",
+      "spiel_id": "2026-11-27-wer-glb",
+      "spiel_label": "Werder Bremen vs Borussia Mönchengladbach",
+      "liga": "Bundesliga 2026/27",
+      "anstoss": "2026-11-27T20:30:00+01:00",
+      "markt": "Füllkrug Torschütze jederzeit",
+      "quote": 2.1,
       "kategorie": "value",
-      "markt": "Doppelte Chance 1X (Hoffenheim oder Remis)",
-      "quote": 1.3,
-      "edge_prozent": 4.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15,
-      "begruendung": "DC-1X-Goldgrube. Hoffenheim-Heim-Edge vs Sturm. 15€ (1.5% Kasse).",
-      "liga": "UEFA Europa League",
+      "edge_prozent": 8.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10,
+      "begruendung": "Füllkrug Topscorer BL 2026/27, zuhause im Weserstadion - HR24-Form-Edge klar erfüllt. Einwechslungs-Boost greift (bet365-Aktionsregel). 10€ (1.0%).",
       "rang": 6
     },
     {
-      "id": "zag-lev-1",
-      "spiel_id": "2026-11-26-zag-lev",
-      "spiel_label": "Dinamo Zagreb vs Bayer Leverkusen",
+      "spiel_id": "2026-11-27-bre-pfc",
+      "spiel_label": "Brest vs Paris FC",
+      "liga": "Ligue 1 2026/27",
+      "anstoss": "2026-11-27T20:45:00+01:00",
+      "markt": "Sinayoko Torschütze jederzeit",
+      "quote": 2.5,
       "kategorie": "value",
-      "markt": "Doppelte Chance X2 (Remis oder Leverkusen)",
-      "quote": 1.35,
-      "edge_prozent": 5.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15,
-      "begruendung": "DC-X2-Goldgrube. Leverkusen Klassen-Edge trotz BL-Form-Delle - Zagreb-Sieg historisch rar. 15€ (1.5% Kasse).",
-      "liga": "UEFA Europa League",
+      "edge_prozent": 8.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10,
+      "begruendung": "Sinayoko mit 4 Toren in 5 Saison-Spielen (HR24 Form-Edge erfüllt), Paris-FC-Volume-Stürmer mit Einwechslungs-Boost-Potenzial. Torschützen Jederzeit Goldgrube-Cluster. 10€ (1.0%).",
       "rang": 7
     },
     {
-      "id": "oly-mil-1",
-      "spiel_id": "2026-11-26-oly-mil",
-      "spiel_label": "Olympiacos vs AC Milan",
+      "spiel_id": "2026-11-27-hei-nue",
+      "spiel_label": "Heidenheim vs 1. FC Nürnberg",
+      "liga": "2. Bundesliga 2026/27",
+      "anstoss": "2026-11-27T18:30:00+01:00",
+      "markt": "Unter 3.5 Tore",
+      "quote": 1.35,
       "kategorie": "value",
-      "markt": "Doppelte Chance X2 (Remis oder Milan)",
-      "quote": 1.45,
-      "edge_prozent": 4.0,
-      "empfohlener_einsatz_prozent": 1.5,
-      "empfohlener_einsatz_euro": 15,
-      "begruendung": "DC-X2-Goldgrube. Milan Klassen-Edge, Karaiskakis-Falle entschärft durch DC statt direkter Sieg. 15€ (1.5% Kasse).",
-      "liga": "UEFA Europa League",
+      "edge_prozent": 3.0,
+      "empfohlener_einsatz_prozent": 1.0,
+      "empfohlener_einsatz_euro": 10,
+      "begruendung": "Heidenheim defensiv kompakt in der Voith-Arena, Nürnberg ohne Zoma offensiv nur eingeschränkt gefährlich. Unter 3.5 als sichere Puffer-Zone. 10€ (1.0%).",
       "rang": 8
     },
     {
-      "id": "juv-omo-3",
-      "spiel_id": "2026-11-26-juv-omo",
-      "spiel_label": "Juventus vs Omonia Nicosia",
+      "spiel_id": "2026-11-27-boc-dar",
+      "spiel_label": "VfL Bochum vs SV Darmstadt 98",
+      "liga": "2. Bundesliga 2026/27",
+      "anstoss": "2026-11-27T18:30:00+01:00",
+      "markt": "Bochum oder Remis (Doppelte Chance)",
+      "quote": 1.5,
       "kategorie": "value",
-      "markt": "Über 2.5 Tore",
-      "quote": 1.65,
-      "edge_prozent": 5.0,
+      "edge_prozent": 4.0,
       "empfohlener_einsatz_prozent": 1.0,
       "empfohlener_einsatz_euro": 10,
-      "begruendung": "Über-2.5-Goldgrube (+27.5% ROI). Juve-Dominanz garantiert Tor-Volumen. 10€ (1% Kasse).",
-      "liga": "UEFA Europa League",
+      "begruendung": "Bochum zuhause gegen gleichstarken Darmstadt-Gegner. DC Goldgrube. Ohne klaren Klassen-Edge DC 1X sauberer als Sieg-Tipp. 10€ (1.0%).",
       "rang": 9
     },
     {
-      "id": "mar-lev-3",
-      "spiel_id": "2026-11-26-mar-lev",
-      "spiel_label": "Marseille vs Levski Sofia",
-      "kategorie": "value",
-      "markt": "Über 2.5 Tore",
-      "quote": 1.75,
-      "edge_prozent": 6.0,
-      "empfohlener_einsatz_prozent": 1.0,
-      "empfohlener_einsatz_euro": 10,
-      "begruendung": "Über-2.5-Goldgrube. OM-Volumen-Pressing gegen defensiv-schwache Bulgaren. 10€ (1% Kasse).",
-      "liga": "UEFA Europa League",
+      "spiel_id": "2026-11-27-wer-glb",
+      "spiel_label": "Werder Bremen vs Borussia Mönchengladbach",
+      "liga": "Bundesliga 2026/27",
+      "anstoss": "2026-11-27T20:30:00+01:00",
+      "markt": "Werder Sieg (90 Min)",
+      "quote": 2.1,
+      "kategorie": "wackel",
+      "edge_prozent": 3.0,
+      "empfohlener_einsatz_prozent": 0.5,
+      "empfohlener_einsatz_euro": 5,
+      "begruendung": "Heimvorteil + Füllkrug + 2:0-Insurance in BL (bet365-Aktionsregel). Wackel weil Gladbach unter Blessin nicht mehr die Polanski-Katastrophe ist. 5€ (0.5%).",
       "rang": 10
     }
   ],
   "kombis": [
     {
-      "id": "k-safe",
-      "name": "Safe-Kombi (UEL-DC-Trio)",
+      "id": "kombi-safe-2026-11-27",
+      "name": "Safe-Kombi (~3.04x) - Drei DC-Favoriten aus drei verschiedenen Spielen",
       "kategorie": "safe",
-      "gesamtquote": 1.97,
-      "rechnung": "1.12 x 1.30 x 1.35 = 1.97",
-      "empfohlener_einsatz_prozent": 2.0,
-      "empfohlener_einsatz_euro": 20,
-      "potentieller_gewinn_euro": 19.4,
       "beine": [
         {
-          "spiel_id": "2026-11-26-mar-lev",
-          "spiel_label": "Marseille vs Levski Sofia",
-          "markt": "Doppelte Chance 1X (Marseille oder Remis)",
-          "quote": 1.12,
+          "spiel_id": "2026-11-27-wer-glb",
+          "spiel_label": "Werder Bremen vs Borussia Mönchengladbach",
+          "markt": "Werder oder Remis (Doppelte Chance)",
+          "quote": 1.35,
           "kategorie": "safe"
         },
         {
-          "spiel_id": "2026-11-26-hof-stu",
-          "spiel_label": "Hoffenheim vs Sturm Graz",
-          "markt": "Doppelte Chance 1X (Hoffenheim oder Remis)",
-          "quote": 1.3,
+          "spiel_id": "2026-11-27-hei-nue",
+          "spiel_label": "Heidenheim vs 1. FC Nürnberg",
+          "markt": "Heidenheim oder Remis (Doppelte Chance)",
+          "quote": 1.5,
           "kategorie": "value"
         },
         {
-          "spiel_id": "2026-11-26-zag-lev",
-          "spiel_label": "Dinamo Zagreb vs Leverkusen",
-          "markt": "Doppelte Chance X2 (Remis oder Leverkusen)",
-          "quote": 1.35,
+          "spiel_id": "2026-11-27-bre-pfc",
+          "spiel_label": "Brest vs Paris FC",
+          "markt": "Paris FC oder Remis (Doppelte Chance)",
+          "quote": 1.5,
           "kategorie": "value"
         }
       ],
-      "hinweis": "3 Spiele, 3 DC-Goldgruben-Beine (DC-1X +46.8% ROI, DC-X2 +9.4% ROI). Quote ~2x - Stufe-1-Safe-Range (20€, 2% Kasse). Juve-DC bewusst nicht drin um Moonshot-Juve-Sieg Layer-2-sauber zu halten."
+      "gesamtquote": 3.04,
+      "rechnung": "1.35 x 1.50 x 1.50 = 3.04",
+      "empfohlener_einsatz_prozent": 2.0,
+      "empfohlener_einsatz_euro": 20,
+      "potentieller_gewinn_euro": 60.75,
+      "begruendung": "Drei Doppelte-Chance-Favoriten aus drei verschiedenen Spielen: Werder zuhause mit Füllkrug-Form-Edge, Heidenheim zuhause gegen Nürnberg ohne Zoma, Paris FC auswärts gegen Form-Krisen-Brest. Doppelte Chance ist Goldgrube im System (+36.5% ROI, 84.2% Hitrate, n=41). Einsatz 2% = 20€ (Stufe 1 Kombi-Safe, Kasse 1000€). Quoten bei bet365 live prüfen."
     },
     {
-      "id": "k-balance",
-      "name": "Balance-Kombi (UEL-Mix)",
+      "id": "kombi-balance-2026-11-27",
+      "name": "Balance-Kombi (~6.80x) - Markt-Mix Tor-Total + BTTS aus drei Spielen",
       "kategorie": "balance",
-      "gesamtquote": 7.87,
-      "rechnung": "1.25 x 1.65 x 1.75 x 2.18 = 7.87",
+      "beine": [
+        {
+          "spiel_id": "2026-11-27-wer-glb",
+          "spiel_label": "Werder Bremen vs Borussia Mönchengladbach",
+          "markt": "Über 2.5 Tore",
+          "quote": 2.0,
+          "kategorie": "wackel"
+        },
+        {
+          "spiel_id": "2026-11-27-boc-dar",
+          "spiel_label": "VfL Bochum vs SV Darmstadt 98",
+          "markt": "Beide Teams treffen",
+          "quote": 1.7,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-27-bre-pfc",
+          "spiel_label": "Brest vs Paris FC",
+          "markt": "Über 2.5 Tore",
+          "quote": 2.0,
+          "kategorie": "wackel"
+        }
+      ],
+      "gesamtquote": 6.8,
+      "rechnung": "2.00 x 1.70 x 2.00 = 6.80",
       "empfohlener_einsatz_prozent": 0.8,
       "empfohlener_einsatz_euro": 8,
-      "potentieller_gewinn_euro": 54.96,
+      "potentieller_gewinn_euro": 54.4,
+      "begruendung": "Markt-entkoppelt zur Safe-Kombi: Tor-Total + BTTS in anderen Spielen bzw. anderem Markt. Über 2.5 + BTTS beide Goldgrube-Märkte. Werder-Gladbach unter Blessin-Pressing mit mehr Umschalt-Momenten, Bochum-Darmstadt mit 3:3-Historie, Paris-FC-Offensive um Sinayoko. Einsatz 0.8% = 8€ (Stufe 1 Kombi-Balance)."
+    },
+    {
+      "id": "kombi-risk-2026-11-27",
+      "name": "Risiko-Kombi (~23.1x) - Zwei Form-Edge-Stürmer + zwei Tor-Totale",
+      "kategorie": "risk",
       "beine": [
         {
-          "spiel_id": "2026-11-26-fre-twe",
-          "spiel_label": "Freiburg vs Twente",
-          "markt": "Doppelte Chance 1X (Freiburg oder Remis)",
-          "quote": 1.25,
+          "spiel_id": "2026-11-27-wer-glb",
+          "spiel_label": "Werder Bremen vs Borussia Mönchengladbach",
+          "markt": "Füllkrug Torschütze jederzeit",
+          "quote": 2.1,
           "kategorie": "value"
         },
         {
-          "spiel_id": "2026-11-26-juv-omo",
-          "spiel_label": "Juventus vs Omonia",
+          "spiel_id": "2026-11-27-bre-pfc",
+          "spiel_label": "Brest vs Paris FC",
+          "markt": "Sinayoko Torschütze jederzeit",
+          "quote": 2.5,
+          "kategorie": "value"
+        },
+        {
+          "spiel_id": "2026-11-27-boc-dar",
+          "spiel_label": "VfL Bochum vs SV Darmstadt 98",
           "markt": "Über 2.5 Tore",
-          "quote": 1.65,
-          "kategorie": "value"
+          "quote": 2.0,
+          "kategorie": "wackel"
         },
         {
-          "spiel_id": "2026-11-26-mar-lev",
-          "spiel_label": "Marseille vs Levski Sofia",
+          "spiel_id": "2026-11-27-hei-nue",
+          "spiel_label": "Heidenheim vs 1. FC Nürnberg",
           "markt": "Über 2.5 Tore",
-          "quote": 1.75,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-11-26-hof-stu",
-          "spiel_label": "Hoffenheim vs Sturm Graz",
-          "markt": "Beide Teams treffen JA + Über 1.5 Tore",
-          "quote": 2.18,
+          "quote": 2.2,
           "kategorie": "wackel"
         }
       ],
-      "hinweis": "4 Beine, 4 verschiedene Spiele, 1 Sieg-Outcome (FRE-DC). Layer-2 sauber. Quote ~7.8x - Stufe-1 8€ (0.8%)."
-    },
-    {
-      "id": "k-risk",
-      "name": "Risiko-Kombi (UEL+UECL Tor-Spezial)",
-      "kategorie": "risk",
-      "gesamtquote": 11.39,
-      "rechnung": "1.90 × 1.80 × 1.85 × 1.80 = 11.39",
+      "gesamtquote": 23.1,
+      "rechnung": "2.10 x 2.50 x 2.00 x 2.20 = 23.10",
       "empfohlener_einsatz_prozent": 0.25,
       "empfohlener_einsatz_euro": 2.5,
-      "potentieller_gewinn_euro": 51.25,
-      "beine": [
-        {
-          "spiel_id": "2026-11-26-zag-lev",
-          "spiel_label": "Dinamo Zagreb vs Leverkusen",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.9,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-11-26-oly-mil",
-          "spiel_label": "Olympiacos vs AC Milan",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.8,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-11-26-hof-stu",
-          "spiel_label": "Hoffenheim vs Sturm Graz",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.85,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-11-26-fre-twe",
-          "spiel_label": "Freiburg vs Twente",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.8,
-          "kategorie": "value"
-        }
-      ],
-      "hinweis": "5 Tor-Spezial-Beine über 4 Spiele. ACHTUNG: Doppeltes Spiel (OLY-MIL) - entkoppelte Märkte BTTS+Über 2.5. Wenn eines fehlgeht, Kombi platzt. Quote ~20x - Stufe-1 Risiko 2.50€ (0.25%)."
+      "potentieller_gewinn_euro": 57.75,
+      "begruendung": "Zwei HR24-Form-Edge-Stürmer (Füllkrug BL-Topscorer, Sinayoko 4 in 5) + zwei offensive Tor-Total-Tipps. Kein Sieg-Outcome-Beinkonflikt zur Safe-Kombi (markt-entkoppelt: Spielertor vs DC, Tor-Total vs DC). Einsatz 0.25% = 2.50€ (Stufe 1 Kombi-Risiko)."
     },
     {
-      "id": "k-moonshot",
-      "name": "Moonshot-Kombi (UEL-Tor-Bazooka)",
+      "id": "kombi-moonshot-2026-11-27",
+      "name": "Moonshot-Kombi (~52.5x) - Backup-Stürmer-Doppel + Über 3.5 (nach Layer-1-Fix)",
       "kategorie": "moonshot",
-      "gesamtquote": 109.37,
-      "rechnung": "1.95 x 1.75 x 1.85 x 1.75 x 1.80 x 5.50 = 109.37",
-      "empfohlener_einsatz_prozent": 0.1,
-      "empfohlener_einsatz_euro": 1.0,
-      "potentieller_gewinn_euro": 109.37,
       "beine": [
         {
-          "spiel_id": "2026-11-26-oly-mil",
-          "spiel_label": "Olympiacos vs Milan",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.95,
-          "kategorie": "value"
+          "spiel_id": "2026-11-27-hei-nue",
+          "spiel_label": "Heidenheim vs 1. FC Nürnberg",
+          "markt": "Mkrtchyan Torschütze jederzeit",
+          "quote": 5.0,
+          "kategorie": "moonshot"
         },
         {
-          "spiel_id": "2026-11-26-hof-stu",
-          "spiel_label": "Hoffenheim vs Sturm Graz",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.75,
-          "kategorie": "value"
+          "spiel_id": "2026-11-27-wer-glb",
+          "spiel_label": "Werder Bremen vs Borussia Mönchengladbach",
+          "markt": "Kleindienst Torschütze jederzeit",
+          "quote": 3.0,
+          "kategorie": "moonshot"
         },
         {
-          "spiel_id": "2026-11-26-fre-twe",
-          "spiel_label": "Freiburg vs Twente",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.85,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-11-26-mar-lev",
-          "spiel_label": "Marseille vs Levski Sofia",
-          "markt": "Über 2.5 Tore",
-          "quote": 1.75,
-          "kategorie": "value"
-        },
-        {
-          "spiel_id": "2026-11-26-zag-lev",
-          "spiel_label": "Dinamo Zagreb vs Leverkusen",
-          "markt": "Beide Teams treffen JA",
-          "quote": 1.8,
-          "kategorie": "wackel"
-        },
-        {
-          "spiel_id": "2026-11-26-juv-omo",
-          "spiel_label": "Juventus vs Omonia",
-          "markt": "Juve-Sieg + Über 3.5 Tore",
-          "quote": 5.5,
-          "kategorie": "risk"
+          "spiel_id": "2026-11-27-bre-pfc",
+          "spiel_label": "Brest vs Paris FC",
+          "markt": "Über 3.5 Tore",
+          "quote": 3.5,
+          "kategorie": "moonshot"
         }
       ],
-      "hinweis": "6 Beine, 100x+ Lotto-Shot. 1€ Spaßeinsatz (0.1% Kasse). Alles-oder-Nichts - Juve-Deklassierung + 5x Tore-Pattern. Quote live bei bet365 prüfen, Hausnummer."
+      "gesamtquote": 52.5,
+      "rechnung": "5.00 × 3.00 × 3.50 = 52.5",
+      "empfohlener_einsatz_prozent": 0.1,
+      "empfohlener_einsatz_euro": 1,
+      "potentieller_gewinn_euro": 52.5,
+      "begruendung": "Lotterie-Einsatz unter 100x: Nürnberg ohne Zoma offen für Backup-Mkrtchyan-Treffer (Cottbus-Tor 16.10. als Form-Hinweis), Gladbach-Volume-Stürmer Kleindienst mit Einwechslungs-Boost, Brest-Paris mit Über-3.5-Chance. Einsatz 0.1% = 1€. Hinweis: Das ursprüngliche vierte Bein (Werder-Gladbach Über 3.5) hat der Schema-Mapper wegen Layer-1 entfernt - deshalb bleibt die Moonshot unter 100x, der Spaß-Lotterie-Charakter passt aber."
     }
   ],
   "lessons_angewandt": [
-    "Anti-DC-Sucht (CLAUDE.md Markt-Mix): max 1 DC pro Spiel - alle 6 Spiele einhalten (je 1 DC + 1 Tor-Markt + 1 BTTS/Über).",
-    "Markt-Goldgruben-Pflicht: DC 1X (+46.8% ROI), DC X2 (+9.4%), Über 2.5 (+27.5%), BTTS JA (+32%) aktiv in jedem Spiel gesetzt.",
-    "Keine Spieler-Torschützen-Tipps: wegen Watchdog-Notfall + fehlender Live-Kader-Verifikation - Markt-Goldgruben ersetzen diese Markt-Klasse.",
-    "Zeitfenster-Hartregel: alle 6 Spiele Anstoss am 26.11.2026 Berliner Zeit (18:45 oder 21:00 CET).",
-    "HR23 Layer-3: max 1 Bein pro Spiel über Safe-+Balance-Kombi hinweg. Risiko/Moonshot entkoppeln Märkte wenn Spiel doppelt belegt (OLY-MIL BTTS + Über 2.5).",
-    "Kasse-aware (Stufe 1, 1000€): Safe-Einzeltipps 1.5-2% (15-20€), Value 1-1.5% (10-15€), Wackel 0.5% (5€), Safe-Kombi 2%, Balance 0.8%, Risiko 0.25%, Moonshot 0.1%."
+    "HR-GG1: Goldgrube Doppelte Chance (+36.5% ROI, 84.2% Hitrate, n=41) - gezielt in Safe-Kombi + Einzeltipps genutzt (3x DC verschiedene Spiele)",
+    "HR-GG2: Goldgrube Über 2.5 Tore (+35.4% ROI) - in Balance-Kombi + Risiko-Kombi genutzt",
+    "HR-GG3: Goldgrube Beide Teams treffen (+32% ROI) - in Balance-Kombi + Einzeltipps genutzt",
+    "HR-GG4: Goldgrube Torschützen Jederzeit (Füllkrug + Sinayoko) - in Risiko-Kombi + Einzeltipps genutzt",
+    "HR22: Star-OUT-Risiko bei Nürnberg (Zoma Schulter-OP seit 16.10., OUT bis mind. Winterpause) - KEIN Nürnberg-Sieg-Tipp gesetzt, stattdessen Heidenheim-DC",
+    "HR24: Form-Edge-Pflicht für Torschützen-Tipps - Füllkrug (Topscorer BL) + Sinayoko (4 in 5) beide erfüllen Form-Edge (3+ Tore in 5)",
+    "HR-MM1: DC-Cap max 1 DC pro Spiel - alle Kombis einhalten (3 DC-Einzel aus 3 verschiedenen Spielen in Safe)",
+    "HR-MM2: Coinflip (Werder-Gladbach eher Balance-Match) - kein SAFE auf direkten Sieg, nur DC als SAFE und Sieg als WACKEL",
+    "HR-MM-Kader: Zoma (FCN, Schulter-OP) OUT - laut kader_wechsel_2026 kein Torschützen-Tipp; Mbangula (Werder → Bologna) nicht für Werder getippt",
+    "HR-Trainer-Frische: Gladbach unter Blessin (seit 22.09.2026) Dreierkette + aggressives Pressing - Taktik-Aussage auf Blessin-Stand, NICHT Polanski",
+    "HR-Zeitfenster: nur Spiele mit Anstoß am 27.11.2026 in Berlin - keine 28.11.-Spiele (Bayern vs HSV etc.) in diesem Tagesdossier",
+    "HR-Wochenend-Check: Supercups / Titel-Einzelspiele im Zeitfenster - keine gefunden"
   ],
-  "footer": "18+ · bet365 DE · Hobby-Wetten. Sucht-Hilfe BZgA: 0800 1372700. Hobby-Tool. Keine Einkommensquelle. Nur setzen was du verlieren kannst. Stress → Pause. Probleme → Hilfe holen.",
+  "footer": "18+ · bet365 DE · Hobby-Wetten · Sucht-Hilfe BZgA: 0800 1372700 · Keine Einkommensquelle. Nur setzen was du verlieren kannst.",
   "_verifikations_report": {
-    "erstellt_am": "2026-11-26T14:30:00+01:00",
+    "erstellt_am": "2026-11-27T12:50:08.225848+00:00",
     "drops": [],
     "downgrades": [],
-    "warns": [
-      {
-        "art": "watchdog_notfall",
-        "details": "Dossier im Watchdog-Mo-Fr-14:30-Slot gebaut, weil Hauptroutine 13:30 kein gefülltes Dossier geliefert hat. Bewusst nur 6 Hauptspiele statt vollem EL+UECL-Slate (~36 Spiele). Keine Spieler-Torschützen-Tipps wegen fehlender Live-Kader-Verifikation - stattdessen Markt-Goldgrube-Fokus (DC, Tor-Totals, BTTS)."
-      },
-      {
-        "art": "quoten_unsicherheit",
-        "details": "Quoten sind Richtschnur aus Pre-Game-Modellen - bei bet365 live prüfen. Kein Aggregator-Live-Pull möglich (football-data.org API im Watchdog-Fenster blockiert)."
-      },
-      {
-        "art": "supercup_check",
-        "details": "Donnerstag 26.11. ist kein Supercup-Tag - Pflicht-Check durchgeführt, keine Einmal-Endspiele im Fenster."
-      }
-    ],
-    "lessons_generiert": []
+    "warns": [],
+    "lessons_generiert": [],
+    "layer_2_check": "OK - Sieg-Outcomes: WER/DC-1X (Safe) einzig für Werder, HEI/DC-1X (Safe) einzig für Heidenheim, PFC/DC-X2 (Safe) einzig für Paris FC, BOC/DC-1X (Einzel, nicht in Kombi doppelt)",
+    "layer_3_check": "Wer-Glb in 4 Kombis (Safe DC / Balance Über 2.5 / Risiko Spielertor Füllkrug / Moonshot Über 3.5 + Spielertor Kleindienst) - markt-entkoppelt. Alternativen nicht verfügbar bei 4 Spielen",
+    "kader_check": "Zoma (FCN) OUT - nicht getippt; Mbangula (Werder → Bologna) nicht getippt; Blessin (Gladbach-Trainer seit 22.09.) berücksichtigt",
+    "saison_kontext_check": "Alle 4 Spiele mit allen 7 Pflichtfeldern + quellen[]",
+    "quoten_check": "Alle Quoten als Schätzwerte - bei bet365 live prüfen (steht in jeder Begründung)",
+    "datum_scope_check": "Alle 4 Spiele mit Anstoß 2026-11-27 Berliner Zeit"
   }
 };
