@@ -4294,6 +4294,30 @@
       "kategorie": "Torschuetze annulliert",
       "lesson": "HR11-26-4 Bei Torschuetzen-Jederzeit-Tipps zaehlt NUR regulaer anerkanntes Tor. Vlahovic (Besiktas-Hapoel) traf in 90+1, wurde aber wegen Abseits annulliert; Assist zum Kokcu-Winner zaehlt nicht fuer Torschuetzen-Markt. Einwechslungs-Boost greift auch nur wenn X selbst ausgewechselt wurde - Vlahovic blieb auf dem Platz, hatte sein Tor aber annulliert, also bleibt der Tipp verloren. Praxis: Bei spaet erzielten (85+) Torschuetzen-Treffern VAR-Check immer verifizieren bevor als 'gewonnen' gebucht wird.",
       "bezug_spiel_id": "2026-11-26-bes-hap"
+    },
+    {
+      "datum": "2026-11-27",
+      "kategorie": "Drehungs-Cluster + 2:0-Insurance-Fehlanwendung",
+      "lesson": "HR11-27-1 Werder lag in Bremen gegen Gladbach 1:3 nach 78', Dinkci (85') und Fuellkrug (90.+2.) drehten zum 3:3. Werder-Sieg-Tipp (90 Min) verlor trotz Comeback-Qualitaet - weil die 2:0-Insurance nur greift, wenn das Sieg-Tipp-Team selbst mit 2+ Toren FUEHRTE (nicht zurueckkam). Praxis: bei Heim-Underdog-Favoriten im BL-Abstiegsduell IMMER DC 1X statt direkter Sieg - der Insurance-Edge greift zu selten real, und DC haette hier auch bei 1:3-Rueckstand gerettet.",
+      "bezug_spiel_id": "2026-11-27-wer-glb"
+    },
+    {
+      "datum": "2026-11-27",
+      "kategorie": "Markt-Goldgrube-Bestaetigung Doppelte Chance DE",
+      "lesson": "HR11-27-2 3/3 DC-Einzeltipps in deutschen Ligen gewonnen (Werder DC 1X, Heidenheim DC 1X, Bochum DC 1X); der einzige DC-Verlust war Paris FC DC X2 in Ligue 1 (Brest 1:0 PFC). Die DC-Goldgrube im System (+36.5% ROI) bleibt an BL/2BL deutlich zuverlaessiger als an auslaendischen Liegen mit Heimvorteil-Dominanz der schlechter platzierten Teams. Praxis: DC X2 auf Auswaerts-Underdog nur bei klarem Klassen- UND Form-Edge, nicht als Statistik-Goldgrube-Autopilot.",
+      "bezug_spiel_id": "2026-11-27-bre-pfc"
+    },
+    {
+      "datum": "2026-11-27",
+      "kategorie": "Backup-Stuermer-These widerlegt (Moonshot 8i)",
+      "lesson": "HR11-27-3 Moonshot-Kombi 0/2 bei Backup-Stuermer-Beinen (Mkrtchyan @5.0 Nuernberg, Kleindienst @3.0 Gladbach): Nuernberg traf nur per Eigentor (Costly), kein Einwechslungs-Boost moeglich; Gladbach-Scorer waren Diks (IV, Elfer) und Honorat 2x (Flügel), nicht der zentrale Ersatz des ausgetauschten Kleindienst. Praxis: Backup-9er als Moonshot-Bein nur dann, wenn der Ersatz typologisch ein 9er ist (nicht Fluegel/IV) UND das Scoring-Volumen des Teams ueber 1.5 Tore/Spiel liegt. Mkrtchyan/Kleindienst-Profil passt nicht.",
+      "bezug_spiel_id": "2026-11-27-hei-nue"
+    },
+    {
+      "datum": "2026-11-27",
+      "kategorie": "BTTS-Reality-Check 2. Liga",
+      "lesson": "HR11-27-4 Bochum-Darmstadt 2:0 (0:0 HZ, Tore erst 81' Hofmann und 90.+4. Taz) widerlegt die 3:3-Hinspiel-BTTS-These. Mittelfeld-Pairings der 2. Bundesliga produzieren BTTS NICHT zuverlaessig wie Markt-Goldgrube-Statistik suggeriert; defensive 2.-Liga-Spielkultur schlaegt offensive Hinspiel-Form. Praxis: BTTS in der 2. Liga nur dann value, wenn BEIDE Teams nachweislich 1.3+ xG/Spiel im Saisonschnitt liefern - sonst Markt meiden (2. Liga schon jetzt im nach_markt_typ-BTTS-Bluter-Vorfeld).",
+      "bezug_spiel_id": "2026-11-27-boc-dar"
     }
   ],
   "stand": "2026-11-27"

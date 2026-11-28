@@ -1,38 +1,38 @@
 // Automatisch erzeugt von scripts/statistik_berechnen.py — bitte nicht von Hand editieren.
 window.__MIESMUSCHEL_STAT = {
-  "letzte_berechnung": "2026-11-27T06:18:24+00:00",
+  "letzte_berechnung": "2026-11-28T06:14:57+00:00",
   "gesamt": {
-    "tipps": 253,
-    "gewonnen": 159,
-    "verloren": 82,
+    "tipps": 263,
+    "gewonnen": 164,
+    "verloren": 87,
     "push": 0,
     "offen": 12,
-    "einsatz": 241.0,
-    "netto": 92.82,
-    "trefferquote": 66.0,
-    "roi_prozent": 38.5
+    "einsatz": 251.0,
+    "netto": 101.02,
+    "trefferquote": 65.3,
+    "roi_prozent": 40.2
   },
   "letzte_30_tage": {
     "tipps": 105,
-    "gewonnen": 60,
-    "verloren": 38,
+    "gewonnen": 57,
+    "verloren": 41,
     "push": 0,
     "offen": 7,
     "einsatz": 98.0,
-    "netto": 32.76,
-    "trefferquote": 61.2,
-    "roi_prozent": 33.4
+    "netto": 39.0,
+    "trefferquote": 58.2,
+    "roi_prozent": 39.8
   },
   "letzte_90_tage": {
-    "tipps": 253,
-    "gewonnen": 159,
-    "verloren": 82,
+    "tipps": 263,
+    "gewonnen": 164,
+    "verloren": 87,
     "push": 0,
     "offen": 12,
-    "einsatz": 241.0,
-    "netto": 92.82,
-    "trefferquote": 66.0,
-    "roi_prozent": 38.5
+    "einsatz": 251.0,
+    "netto": 101.02,
+    "trefferquote": 65.3,
+    "roi_prozent": 40.2
   },
   "nach_liga": {
     "Serie A - 2. Spieltag": {
@@ -573,6 +573,39 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 2.7,
       "trefferquote": 100.0,
       "roi_prozent": 135.0
+    },
+    "Bundesliga 2026/27 - 11. Spieltag": {
+      "tipps": 4,
+      "gewonnen": 3,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 5.2,
+      "trefferquote": 75.0,
+      "roi_prozent": 130.0
+    },
+    "2. Bundesliga 2026/27 - 13. Spieltag": {
+      "tipps": 4,
+      "gewonnen": 2,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 4.0,
+      "netto": 3.0,
+      "trefferquote": 50.0,
+      "roi_prozent": 75.0
+    },
+    "Ligue 1 2026/27 - 12. Journée": {
+      "tipps": 2,
+      "gewonnen": 0,
+      "verloren": 2,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 2.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt": {
@@ -951,15 +984,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 85.0
     },
     "Beide Teams treffen": {
-      "tipps": 6,
-      "gewonnen": 4,
-      "verloren": 2,
+      "tipps": 8,
+      "gewonnen": 5,
+      "verloren": 3,
       "push": 0,
       "offen": 0,
-      "einsatz": 6.0,
-      "netto": 1.7,
-      "trefferquote": 66.7,
-      "roi_prozent": 28.3
+      "einsatz": 8.0,
+      "netto": 3.45,
+      "trefferquote": 62.5,
+      "roi_prozent": 43.1
     },
     "Sieg Juventus (90 Min)": {
       "tipps": 1,
@@ -1248,15 +1281,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 75.0
     },
     "Unter 3.5 Tore": {
-      "tipps": 2,
+      "tipps": 3,
       "gewonnen": 2,
-      "verloren": 0,
+      "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 2.0,
+      "einsatz": 3.0,
       "netto": 0.85,
-      "trefferquote": 100.0,
-      "roi_prozent": 42.5
+      "trefferquote": 66.7,
+      "roi_prozent": 28.3
     },
     "Sieg Aston Villa (90 Min)": {
       "tipps": 1,
@@ -2412,19 +2445,96 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 0.0,
       "trefferquote": 0.0,
       "roi_prozent": 0.0
+    },
+    "Werder oder Remis (Doppelte Chance)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.35,
+      "trefferquote": 100.0,
+      "roi_prozent": 135.0
+    },
+    "Heidenheim oder Remis (Doppelte Chance)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.5,
+      "trefferquote": 100.0,
+      "roi_prozent": 150.0
+    },
+    "Paris FC oder Remis (Doppelte Chance)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Füllkrug Torschütze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 2.1,
+      "trefferquote": 100.0,
+      "roi_prozent": 210.0
+    },
+    "Sinayoko Torschütze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
+    },
+    "Bochum oder Remis (Doppelte Chance)": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 1.5,
+      "trefferquote": 100.0,
+      "roi_prozent": 150.0
+    },
+    "Werder Sieg (90 Min)": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_markt_typ": {
     "Sieg (1X2 / ML)": {
-      "tipps": 39,
+      "tipps": 40,
       "gewonnen": 28,
-      "verloren": 9,
+      "verloren": 10,
       "push": 0,
       "offen": 2,
-      "einsatz": 37.0,
+      "einsatz": 38.0,
       "netto": 17.16,
-      "trefferquote": 75.7,
-      "roi_prozent": 46.4
+      "trefferquote": 73.7,
+      "roi_prozent": 45.2
     },
     "Unter 2.5 Tore": {
       "tipps": 14,
@@ -2493,15 +2603,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 6.3
     },
     "Doppelte Chance": {
-      "tipps": 41,
-      "gewonnen": 32,
-      "verloren": 6,
+      "tipps": 45,
+      "gewonnen": 35,
+      "verloren": 7,
       "push": 0,
       "offen": 3,
-      "einsatz": 38.0,
-      "netto": 13.86,
-      "trefferquote": 84.2,
-      "roi_prozent": 36.5
+      "einsatz": 42.0,
+      "netto": 18.21,
+      "trefferquote": 83.3,
+      "roi_prozent": 43.4
     },
     "Beide Teams treffen NEIN": {
       "tipps": 3,
@@ -2548,15 +2658,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 32.0
     },
     "Beide Teams treffen": {
-      "tipps": 6,
-      "gewonnen": 4,
-      "verloren": 2,
+      "tipps": 8,
+      "gewonnen": 5,
+      "verloren": 3,
       "push": 0,
       "offen": 0,
-      "einsatz": 6.0,
-      "netto": 1.7,
-      "trefferquote": 66.7,
-      "roi_prozent": 28.3
+      "einsatz": 8.0,
+      "netto": 3.45,
+      "trefferquote": 62.5,
+      "roi_prozent": 43.1
     },
     "Torschütze jederzeit: Viktor Gyoekeres": {
       "tipps": 1,
@@ -2581,15 +2691,15 @@ window.__MIESMUSCHEL_STAT = {
       "roi_prozent": 0.0
     },
     "Unter 3.5 Tore": {
-      "tipps": 2,
+      "tipps": 3,
       "gewonnen": 2,
-      "verloren": 0,
+      "verloren": 1,
       "push": 0,
       "offen": 0,
-      "einsatz": 2.0,
+      "einsatz": 3.0,
       "netto": 0.85,
-      "trefferquote": 100.0,
-      "roi_prozent": 42.5
+      "trefferquote": 66.7,
+      "roi_prozent": 28.3
     },
     "Guirassy Torschütze jederzeit": {
       "tipps": 1,
@@ -2645,41 +2755,63 @@ window.__MIESMUSCHEL_STAT = {
       "netto": 1.5,
       "trefferquote": 100.0,
       "roi_prozent": 150.0
+    },
+    "Füllkrug Torschütze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 1,
+      "verloren": 0,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 2.1,
+      "trefferquote": 100.0,
+      "roi_prozent": 210.0
+    },
+    "Sinayoko Torschütze jederzeit": {
+      "tipps": 1,
+      "gewonnen": 0,
+      "verloren": 1,
+      "push": 0,
+      "offen": 0,
+      "einsatz": 1.0,
+      "netto": 0.0,
+      "trefferquote": 0.0,
+      "roi_prozent": 0.0
     }
   },
   "nach_quoten_range": {
     "1.50-2.00": {
-      "tipps": 113,
-      "gewonnen": 65,
-      "verloren": 43,
+      "tipps": 118,
+      "gewonnen": 68,
+      "verloren": 45,
       "push": 0,
       "offen": 5,
-      "einsatz": 108.0,
-      "netto": 52.78,
+      "einsatz": 113.0,
+      "netto": 57.53,
       "trefferquote": 60.2,
-      "roi_prozent": 48.9
+      "roi_prozent": 50.9
     },
     "1.00-1.50": {
-      "tipps": 112,
-      "gewonnen": 87,
-      "verloren": 19,
+      "tipps": 114,
+      "gewonnen": 88,
+      "verloren": 20,
       "push": 0,
       "offen": 6,
-      "einsatz": 106.0,
-      "netto": 36.59,
-      "trefferquote": 82.1,
-      "roi_prozent": 34.5
+      "einsatz": 108.0,
+      "netto": 37.94,
+      "trefferquote": 81.5,
+      "roi_prozent": 35.1
     },
     "2.00-3.00": {
-      "tipps": 19,
-      "gewonnen": 4,
-      "verloren": 14,
+      "tipps": 22,
+      "gewonnen": 5,
+      "verloren": 16,
       "push": 0,
       "offen": 1,
-      "einsatz": 18.0,
-      "netto": -3.75,
-      "trefferquote": 22.2,
-      "roi_prozent": -20.8
+      "einsatz": 21.0,
+      "netto": -1.65,
+      "trefferquote": 23.8,
+      "roi_prozent": -7.9
     },
     "3.00+": {
       "tipps": 9,
@@ -2695,37 +2827,37 @@ window.__MIESMUSCHEL_STAT = {
   },
   "nach_kategorie": {
     "safe": {
-      "tipps": 56,
-      "gewonnen": 47,
+      "tipps": 57,
+      "gewonnen": 48,
       "verloren": 8,
       "push": 0,
       "offen": 1,
-      "einsatz": 55.0,
-      "netto": 29.88,
-      "trefferquote": 85.5,
-      "roi_prozent": 54.3
+      "einsatz": 56.0,
+      "netto": 31.23,
+      "trefferquote": 85.7,
+      "roi_prozent": 55.8
     },
     "value": {
-      "tipps": 153,
-      "gewonnen": 90,
-      "verloren": 56,
+      "tipps": 161,
+      "gewonnen": 94,
+      "verloren": 60,
       "push": 0,
       "offen": 7,
-      "einsatz": 146.0,
-      "netto": 45.72,
-      "trefferquote": 61.6,
-      "roi_prozent": 31.3
+      "einsatz": 154.0,
+      "netto": 52.57,
+      "trefferquote": 61.0,
+      "roi_prozent": 34.1
     },
     "wackel": {
-      "tipps": 42,
+      "tipps": 43,
       "gewonnen": 21,
-      "verloren": 18,
+      "verloren": 19,
       "push": 0,
       "offen": 3,
-      "einsatz": 39.0,
+      "einsatz": 40.0,
       "netto": 16.22,
-      "trefferquote": 53.8,
-      "roi_prozent": 41.6
+      "trefferquote": 52.5,
+      "roi_prozent": 40.5
     },
     "risk": {
       "tipps": 2,
@@ -2758,15 +2890,15 @@ window.__MIESMUSCHEL_STAT = {
   "saisons": {
     "aktuelle_saison": "2026/27",
     "gesamt": {
-      "tipps": 253,
-      "gewonnen": 159,
-      "verloren": 82,
+      "tipps": 263,
+      "gewonnen": 164,
+      "verloren": 87,
       "push": 0,
       "offen": 12,
-      "einsatz": 241.0,
-      "netto": 92.82,
-      "trefferquote": 66.0,
-      "roi_prozent": 38.5
+      "einsatz": 251.0,
+      "netto": 101.02,
+      "trefferquote": 65.3,
+      "roi_prozent": 40.2
     },
     "kasse": {
       "name": "2026/27",
@@ -2803,21 +2935,152 @@ window.__MIESMUSCHEL_STAT = {
         "start": "2026-08-22",
         "ende": "2027-06-30",
         "bilanz": {
-          "tipps": 253,
-          "gewonnen": 159,
-          "verloren": 82,
+          "tipps": 263,
+          "gewonnen": 164,
+          "verloren": 87,
           "push": 0,
           "offen": 12,
-          "einsatz": 241.0,
-          "netto": 92.82,
-          "trefferquote": 66.0,
-          "roi_prozent": 38.5
+          "einsatz": 251.0,
+          "netto": 101.02,
+          "trefferquote": 65.3,
+          "roi_prozent": 40.2
         },
         "ist_aktuell": true
       }
     ]
   },
   "tages_verlauf": [
+    {
+      "datum": "2026-11-27",
+      "gesamt": {
+        "tipps": 0,
+        "gewonnen": 0,
+        "verloren": 0,
+        "push": 0,
+        "offen": 0,
+        "einsatz": 0.0,
+        "netto": 0.0,
+        "trefferquote": 0.0,
+        "roi_prozent": 0.0
+      },
+      "spiele": [],
+      "kombis": [
+        {
+          "name": "Safe-Kombi (~3.04x) - Drei DC-Favoriten aus drei verschiedenen Spielen",
+          "kategorie": "safe",
+          "gesamtquote": 3.04,
+          "einsatz_prozent": 2.0,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Werder oder Remis (Doppelte Chance)",
+              "quote": 1.35,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Heidenheim oder Remis (Doppelte Chance)",
+              "quote": 1.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Paris FC oder Remis (Doppelte Chance)",
+              "quote": 1.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Balance-Kombi (~6.80x) - Markt-Mix Tor-Total + BTTS aus drei Spielen",
+          "kategorie": "balance",
+          "gesamtquote": 6.8,
+          "einsatz_prozent": 0.8,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 2.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Beide Teams treffen",
+              "quote": 1.7,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 2.0,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Risiko-Kombi (~23.1x) - Zwei Form-Edge-Stürmer + zwei Tor-Totale",
+          "kategorie": "risk",
+          "gesamtquote": 23.1,
+          "einsatz_prozent": 0.25,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Füllkrug Torschütze jederzeit",
+              "quote": 2.1,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Sinayoko Torschütze jederzeit",
+              "quote": 2.5,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 2.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 2.5 Tore",
+              "quote": 2.2,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        },
+        {
+          "name": "Moonshot-Kombi (~52.5x) - Backup-Stürmer-Doppel + Über 3.5 (nach Layer-1-Fix)",
+          "kategorie": "moonshot",
+          "gesamtquote": 52.5,
+          "einsatz_prozent": 0.1,
+          "status": "offen",
+          "beine": [
+            {
+              "markt": "Mkrtchyan Torschütze jederzeit",
+              "quote": 5.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Kleindienst Torschütze jederzeit",
+              "quote": 3.0,
+              "status": "offen",
+              "kommentar": ""
+            },
+            {
+              "markt": "Über 3.5 Tore",
+              "quote": 3.5,
+              "status": "offen",
+              "kommentar": ""
+            }
+          ]
+        }
+      ]
+    },
     {
       "datum": "2026-11-26",
       "gesamt": {
